@@ -17,6 +17,7 @@ Each of the folders (one per public participation process) contains the coded co
 More detailed information on the definition of location phrases can be found in the paper.
 
 More information on the WebAnno TSV File format can be found in the user guide at https://webanno.github.io/webanno/.
+
 ----------
 
 Citation
