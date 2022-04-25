@@ -1,0 +1,257 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+#FORMAT=WebAnno TSV 3.2			_	
+#T_SP=webanno.custom.Typ|Name			_	
+#T_SP=webanno.custom.Verortung|			_	
+			_	
+			_	
+#Text=Abfahrt von Reuterbrücke wegen Belagschäden gefährlich				
+1-1	0-7	Abfahrt	_	*[11]
+1-2	8-11	von	_	*[11]
+1-3	12-24	Reuterbrücke	_	*[11]
+1-4	25-30	wegen	_	_
+1-5	31-43	Belagschäden	_	_
+1-6	44-54	gefährlich	_	_
+			_	
+#Text=Folgende Gefahrenstelle (!) habe ich bereits am 1. August der Stadt gemeldet, ohne dass bislang eine Reaktion erfolgt ist (außer in Bearbeitung, https://anliegen.bonn.de/reports/A-11667).				
+2-1	57-65	Folgende	_	_
+2-2	66-80	Gefahrenstelle	_	_
+2-3	81-82	(	_	_
+2-4	82-83	!	_	_
+2-5	83-84	)	_	_
+2-6	85-89	habe	_	_
+2-7	90-93	ich	_	_
+2-8	94-101	bereits	_	_
+2-9	102-104	am	_	_
+2-10	105-106	1	_	_
+2-11	106-107	.	_	_
+2-12	108-114	August	_	_
+2-13	115-118	der	_	_
+2-14	119-124	Stadt	_	_
+2-15	125-133	gemeldet	_	_
+2-16	133-134	,	_	_
+2-17	135-139	ohne	_	_
+2-18	140-144	dass	_	_
+2-19	145-152	bislang	_	_
+2-20	153-157	eine	_	_
+2-21	158-166	Reaktion	_	_
+2-22	167-174	erfolgt	_	_
+2-23	175-178	ist	_	_
+2-24	179-180	(	_	_
+2-25	180-185	außer	_	_
+2-26	186-188	in	_	_
+2-27	189-200	Bearbeitung	_	_
+2-28	200-201	,	_	_
+2-29	202-207	https	_	_
+2-30	207-208	:	_	_
+2-31	208-209	/	_	_
+2-32	209-210	/	_	_
+2-33	210-226	anliegen.bonn.de	_	_
+2-34	226-227	/	_	_
+2-35	227-234	reports	_	_
+2-36	234-235	/	_	_
+2-37	235-236	A	_	_
+2-38	236-237	-	_	_
+2-39	237-242	11667	_	_
+2-40	242-243	)	_	_
+2-41	243-244	.	_	_
+			_	
+#Text=Es kann also weiterhin ständig ein Unfall passieren.				
+3-1	245-247	Es	_	_
+3-2	248-252	kann	_	_
+3-3	253-257	also	_	_
+3-4	258-267	weiterhin	_	_
+3-5	268-275	ständig	_	_
+3-6	276-279	ein	_	_
+3-7	280-286	Unfall	_	_
+3-8	287-296	passieren	_	_
+3-9	296-297	.	_	_
+			_	
+#Text=Konkret: Beim südseitigen Radweg gibt es bei der Abfahrt von der Reuterbrücke, Richtung Bundeskanzlerplatz, kurz vor der Einmündung der Kaiserstraße von rechts, noch im Bereich der Rampe, aber ziemlich weit unten, hinter der Brückenfuge (Fahrbahnübergang) einige Dellen im Asphalt, die aus folgenden Gründen sehr gefährlich sind:				
+4-1	298-305	Konkret	_	_
+4-2	305-306	:	_	_
+4-3	307-311	Beim	_	_
+4-4	312-323	südseitigen	_	_
+4-5	324-330	Radweg	_	_
+4-6	331-335	gibt	_	_
+4-7	336-338	es	_	_
+4-8	339-342	bei	_	*[12]
+4-9	343-346	der	_	*[12]
+4-10	347-354	Abfahrt	_	*[12]
+4-11	355-358	von	_	*[12]
+4-12	359-362	der	_	*[12]
+4-13	363-375	Reuterbrücke	_	*[12]
+4-14	375-376	,	_	*[12]
+4-15	377-385	Richtung	_	*[12]
+4-16	386-404	Bundeskanzlerplatz	_	*[12]
+4-17	404-405	,	_	*[12]
+4-18	406-410	kurz	_	*[12]
+4-19	411-414	vor	_	*[12]
+4-20	415-418	der	_	*[12]
+4-21	419-429	Einmündung	_	*[12]
+4-22	430-433	der	_	*[12]
+4-23	434-446	Kaiserstraße	_	*[12]
+4-24	447-450	von	_	*[12]
+4-25	451-457	rechts	_	*[12]
+4-26	457-458	,	_	*[12]
+4-27	459-463	noch	_	*[12]
+4-28	464-466	im	_	*[12]
+4-29	467-474	Bereich	_	*[12]
+4-30	475-478	der	_	*[12]
+4-31	479-484	Rampe	_	*[12]
+4-32	484-485	,	_	*[12]
+4-33	486-490	aber	_	*[12]
+4-34	491-499	ziemlich	_	*[12]
+4-35	500-504	weit	_	*[12]
+4-36	505-510	unten	_	*[12]
+4-37	510-511	,	_	*[12]
+4-38	512-518	hinter	_	*[12]
+4-39	519-522	der	_	*[12]
+4-40	523-534	Brückenfuge	_	*[12]
+4-41	535-536	(	_	*[12]
+4-42	536-552	Fahrbahnübergang	_	*[12]
+4-43	552-553	)	_	*[12]
+4-44	554-560	einige	_	_
+4-45	561-567	Dellen	_	_
+4-46	568-570	im	_	_
+4-47	571-578	Asphalt	_	_
+4-48	578-579	,	_	_
+4-49	580-583	die	_	_
+4-50	584-587	aus	_	_
+4-51	588-597	folgenden	_	_
+4-52	598-605	Gründen	_	_
+4-53	606-610	sehr	_	_
+4-54	611-621	gefährlich	_	_
+4-55	622-626	sind	_	_
+4-56	626-627	:	_	_
+			_	
+#Text=- Sie sind (Asphalt in Asphalt) kaum zu erkennen.				
+5-1	628-629	-	_	_
+5-2	630-633	Sie	_	_
+5-3	634-638	sind	_	_
+5-4	639-640	(	_	_
+5-5	640-647	Asphalt	_	_
+5-6	648-650	in	_	_
+5-7	651-658	Asphalt	_	_
+5-8	658-659	)	_	_
+5-9	660-664	kaum	_	_
+5-10	665-667	zu	_	_
+5-11	668-676	erkennen	_	_
+5-12	676-677	.	_	_
+			_	
+#Text=- Sie sind zum Teil mehrere Zentimeter tief, und es gibt mehrere hintereinander.				
+6-1	678-679	-	_	_
+6-2	680-683	Sie	_	_
+6-3	684-688	sind	_	_
+6-4	689-692	zum	_	_
+6-5	693-697	Teil	_	_
+6-6	698-705	mehrere	_	_
+6-7	706-716	Zentimeter	_	_
+6-8	717-721	tief	_	_
+6-9	721-722	,	_	_
+6-10	723-726	und	_	_
+6-11	727-729	es	_	_
+6-12	730-734	gibt	_	_
+6-13	735-742	mehrere	_	_
+6-14	743-757	hintereinander	_	_
+6-15	757-758	.	_	_
+			_	
+#Text=- Sie befinden sich ziemlich genau in der Mitte des ohnehin eher schmalen Radweges.				
+7-1	759-760	-	_	_
+7-2	761-764	Sie	_	_
+7-3	765-773	befinden	_	_
+7-4	774-778	sich	_	_
+7-5	779-787	ziemlich	_	_
+7-6	788-793	genau	_	_
+7-7	794-796	in	_	_
+7-8	797-800	der	_	_
+7-9	801-806	Mitte	_	_
+7-10	807-810	des	_	_
+7-11	811-818	ohnehin	_	_
+7-12	819-823	eher	_	_
+7-13	824-832	schmalen	_	_
+7-14	833-841	Radweges	_	_
+7-15	841-842	.	_	_
+			_	
+#Text=- Der Radfahrer ist hier, weil in der Abfahrt von der Brücke, eher schnell mit an sich über 25 km/h unterwegs, zumal er hier nicht mit dieser Gefahrenstelle rechnet.				
+8-1	843-844	-	_	_
+8-2	845-848	Der	_	_
+8-3	849-858	Radfahrer	_	_
+8-4	859-862	ist	_	_
+8-5	863-867	hier	_	_
+8-6	867-868	,	_	_
+8-7	869-873	weil	_	_
+8-8	874-876	in	_	_
+8-9	877-880	der	_	_
+8-10	881-888	Abfahrt	_	_
+8-11	889-892	von	_	_
+8-12	893-896	der	_	_
+8-13	897-903	Brücke	_	_
+8-14	903-904	,	_	_
+8-15	905-909	eher	_	_
+8-16	910-917	schnell	_	_
+8-17	918-921	mit	_	_
+8-18	922-924	an	_	_
+8-19	925-929	sich	_	_
+8-20	930-934	über	_	_
+8-21	935-937	25	_	_
+8-22	938-940	km	_	_
+8-23	940-941	/	_	_
+8-24	941-942	h	_	_
+8-25	943-952	unterwegs	_	_
+8-26	952-953	,	_	_
+8-27	954-959	zumal	_	_
+8-28	960-962	er	_	_
+8-29	963-967	hier	_	_
+8-30	968-973	nicht	_	_
+8-31	974-977	mit	_	_
+8-32	978-984	dieser	_	_
+8-33	985-999	Gefahrenstelle	_	_
+8-34	1000-1007	rechnet	_	_
+8-35	1007-1008	.	_	_
+			_	
+#Text=- Stürzt ein Radfahrer an dieser Stelle, gerät er dabei möglicherweise auf die Fahrbahn und in den Autobereich, so dass es extrem gefährlich wird.				
+9-1	1009-1010	-	_	_
+9-2	1011-1017	Stürzt	_	_
+9-3	1018-1021	ein	_	_
+9-4	1022-1031	Radfahrer	_	_
+9-5	1032-1034	an	_	_
+9-6	1035-1041	dieser	_	_
+9-7	1042-1048	Stelle	_	_
+9-8	1048-1049	,	_	_
+9-9	1050-1055	gerät	_	_
+9-10	1056-1058	er	_	_
+9-11	1059-1064	dabei	_	_
+9-12	1065-1079	möglicherweise	_	_
+9-13	1080-1083	auf	_	_
+9-14	1084-1087	die	_	_
+9-15	1088-1096	Fahrbahn	_	_
+9-16	1097-1100	und	_	_
+9-17	1101-1103	in	_	_
+9-18	1104-1107	den	_	_
+9-19	1108-1119	Autobereich	_	_
+9-20	1119-1120	,	_	_
+9-21	1121-1123	so	_	_
+9-22	1124-1128	dass	_	_
+9-23	1129-1131	es	_	_
+9-24	1132-1138	extrem	_	_
+9-25	1139-1149	gefährlich	_	_
+9-26	1150-1154	wird	_	_
+9-27	1154-1155	.	_	_
+			_	
+#Text=Ein Autofahrer wird hier auch nicht mit dem Sturz eines Radfahrers rechnen.				
+10-1	1156-1159	Ein	_	_
+10-2	1160-1170	Autofahrer	_	_
+10-3	1171-1175	wird	_	_
+10-4	1176-1180	hier	_	_
+10-5	1181-1185	auch	_	_
+10-6	1186-1191	nicht	_	_
+10-7	1192-1195	mit	_	_
+10-8	1196-1199	dem	_	_
+10-9	1200-1205	Sturz	_	_
+10-10	1206-1211	eines	_	_
+10-11	1212-1222	Radfahrers	_	_
+10-12	1223-1230	rechnen	_	_
+10-13	1230-1231	.	_	_

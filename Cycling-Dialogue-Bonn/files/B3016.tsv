@@ -1,0 +1,26 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg fehlt
+1-1	0-10	Fahrradweg	_	
+1-2	11-16	fehlt	_	
+
+#Text=Stadtauswärts existiert kein Fahrradweg, weil hier ca. 5 Autoparkplätze sind, warum?
+2-1	19-32	Stadtauswärts	_	
+2-2	33-42	existiert	_	
+2-3	43-47	kein	_	
+2-4	48-58	Fahrradweg	_	
+2-5	58-59	,	_	
+2-6	60-64	weil	_	
+2-7	65-69	hier	_	
+2-8	70-72	ca	_	
+2-9	72-73	.	_	
+2-10	74-75	5	_	
+2-11	76-90	Autoparkplätze	_	
+2-12	91-95	sind	_	
+2-13	95-96	,	_	
+2-14	97-102	warum	_	
+2-15	102-103	?	_	

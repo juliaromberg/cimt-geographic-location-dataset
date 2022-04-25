@@ -1,0 +1,141 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kombinierten Rad/Gehweg über Reuterbrücke regelmäßig reinigen
+1-1	0-12	Kombinierten	*[9]	
+1-2	13-16	Rad	*[9]	
+1-3	16-17	/	*[9]	
+1-4	17-23	Gehweg	*[9]	
+1-5	24-28	über	*[9]	
+1-6	29-41	Reuterbrücke	*[9]	
+1-7	42-52	regelmäßig	_	
+1-8	53-61	reinigen	_	
+
+#Text=Der kombinierte Rad-/Gehweg über die Reuterbrücke wird in beiden Richtungen offenbar seit Jahren nicht gereinigt.
+2-1	64-67	Der	*[10]	
+2-2	68-79	kombinierte	*[10]	
+2-3	80-83	Rad	*[10]	
+2-4	83-84	-	*[10]	
+2-5	84-85	/	*[10]	
+2-6	85-91	Gehweg	*[10]	
+2-7	92-96	über	*[10]	
+2-8	97-100	die	*[10]	
+2-9	101-113	Reuterbrücke	*[10]	
+2-10	114-118	wird	_	
+2-11	119-121	in	_	
+2-12	122-128	beiden	_	
+2-13	129-139	Richtungen	_	
+2-14	140-148	offenbar	_	
+2-15	149-153	seit	_	
+2-16	154-160	Jahren	_	
+2-17	161-166	nicht	_	
+2-18	167-176	gereinigt	_	
+2-19	176-177	.	_	
+
+#Text=Eine Reinigung übernehmen meiner Meinung nach lediglich kräftige Regenschauer - die ihre Arbeit auch nur dürftig erbringen...
+3-1	178-182	Eine	_	
+3-2	183-192	Reinigung	_	
+3-3	193-203	übernehmen	_	
+3-4	204-210	meiner	_	
+3-5	211-218	Meinung	_	
+3-6	219-223	nach	_	
+3-7	224-233	lediglich	_	
+3-8	234-242	kräftige	_	
+3-9	243-255	Regenschauer	_	
+3-10	256-257	-	_	
+3-11	258-261	die	_	
+3-12	262-266	ihre	_	
+3-13	267-273	Arbeit	_	
+3-14	274-278	auch	_	
+3-15	279-282	nur	_	
+3-16	283-290	dürftig	_	
+3-17	291-300	erbringen	_	
+3-18	300-301	.	_	
+3-19	301-302	.	_	
+3-20	302-303	.	_	
+
+#Text=Das Problem scheint hier auch die Verantwortlichkeit zu sein, wie Anfragen von mir in den letzten Jahren bei der Stadt ergaben.
+4-1	304-307	Das	_	
+4-2	308-315	Problem	_	
+4-3	316-323	scheint	_	
+4-4	324-328	hier	_	
+4-5	329-333	auch	_	
+4-6	334-337	die	_	
+4-7	338-356	Verantwortlichkeit	_	
+4-8	357-359	zu	_	
+4-9	360-364	sein	_	
+4-10	364-365	,	_	
+4-11	366-369	wie	_	
+4-12	370-378	Anfragen	_	
+4-13	379-382	von	_	
+4-14	383-386	mir	_	
+4-15	387-389	in	_	
+4-16	390-393	den	_	
+4-17	394-401	letzten	_	
+4-18	402-408	Jahren	_	
+4-19	409-412	bei	_	
+4-20	413-416	der	_	
+4-21	417-422	Stadt	_	
+4-22	423-430	ergaben	_	
+4-23	430-431	.	_	
+
+#Text=Der Weg wird nur bei Bedarf und nach Sichtprüfung gereinigt.
+5-1	432-435	Der	_	
+5-2	436-439	Weg	_	
+5-3	440-444	wird	_	
+5-4	445-448	nur	_	
+5-5	449-452	bei	_	
+5-6	453-459	Bedarf	_	
+5-7	460-463	und	_	
+5-8	464-468	nach	_	
+5-9	469-481	Sichtprüfung	_	
+5-10	482-491	gereinigt	_	
+5-11	491-492	.	_	
+
+#Text=Also nie, wie monatelang dort liegende Autoteile und Glas zeigen.
+6-1	493-497	Also	_	
+6-2	498-501	nie	_	
+6-3	501-502	,	_	
+6-4	503-506	wie	_	
+6-5	507-517	monatelang	_	
+6-6	518-522	dort	_	
+6-7	523-531	liegende	_	
+6-8	532-541	Autoteile	_	
+6-9	542-545	und	_	
+6-10	546-550	Glas	_	
+6-11	551-557	zeigen	_	
+6-12	557-558	.	_	
+
+#Text=Verbesserungsvorschlag: Die Stadt soll ihrer Pflicht nachkommen und hier regelmäßig reinigen.
+7-1	559-581	Verbesserungsvorschlag	_	
+7-2	581-582	:	_	
+7-3	583-586	Die	_	
+7-4	587-592	Stadt	_	
+7-5	593-597	soll	_	
+7-6	598-603	ihrer	_	
+7-7	604-611	Pflicht	_	
+7-8	612-622	nachkommen	_	
+7-9	623-626	und	_	
+7-10	627-631	hier	_	
+7-11	632-642	regelmäßig	_	
+7-12	643-651	reinigen	_	
+7-13	651-652	.	_	
+
+#Text=Und zwar auch, wenn von Straßenreinigungsfahrzeug nicht zu sehen ist...
+8-1	653-656	Und	_	
+8-2	657-661	zwar	_	
+8-3	662-666	auch	_	
+8-4	666-667	,	_	
+8-5	668-672	wenn	_	
+8-6	673-676	von	_	
+8-7	677-702	Straßenreinigungsfahrzeug	_	
+8-8	703-708	nicht	_	
+8-9	709-711	zu	_	
+8-10	712-717	sehen	_	
+8-11	718-721	ist	_	
+8-12	721-722	.	_	
+8-13	722-723	.	_	
+8-14	723-724	.	_	

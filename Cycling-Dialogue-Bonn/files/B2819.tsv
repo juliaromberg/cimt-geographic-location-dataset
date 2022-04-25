@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kluttenweg asphaltieren
+1-1	0-10	Kluttenweg	*	
+1-2	11-23	asphaltieren	_	
+
+#Text=Zunächst einmal besten Dank, dass Sie in den Raddialog einsteigen.
+2-1	26-34	Zunächst	_	
+2-2	35-41	einmal	_	
+2-3	42-48	besten	_	
+2-4	49-53	Dank	_	
+2-5	53-54	,	_	
+2-6	55-59	dass	_	
+2-7	60-63	Sie	_	
+2-8	64-66	in	_	
+2-9	67-70	den	_	
+2-10	71-80	Raddialog	_	
+2-11	81-91	einsteigen	_	
+2-12	91-92	.	_	
+
+#Text=Gerne nutze ich als Radfahrer die Verbindung zwischen Ückesdorf und Friedrich-Ebert-Allee als Strecke für meinen Arbeitsweg.
+3-1	93-98	Gerne	_	
+3-2	99-104	nutze	_	
+3-3	105-108	ich	_	
+3-4	109-112	als	_	
+3-5	113-122	Radfahrer	_	
+3-6	123-126	die	*[6]	
+3-7	127-137	Verbindung	*[6]	
+3-8	138-146	zwischen	*[6]	
+3-9	147-156	Ückesdorf	*[6]	
+3-10	157-160	und	*[6]	
+3-11	161-182	Friedrich-Ebert-Allee	*[6]	
+3-12	183-186	als	_	
+3-13	187-194	Strecke	_	
+3-14	195-198	für	_	
+3-15	199-205	meinen	_	
+3-16	206-216	Arbeitsweg	_	
+3-17	216-217	.	_	
+
+#Text=Nahezu alle Streckenabschnitte im Kottenforst sind geteert - bis auf den Kluttenweg.
+4-1	218-224	Nahezu	_	
+4-2	225-229	alle	_	
+4-3	230-248	Streckenabschnitte	_	
+4-4	249-251	im	*[7]	
+4-5	252-263	Kottenforst	*[7]	
+4-6	264-268	sind	_	
+4-7	269-276	geteert	_	
+4-8	277-278	-	_	
+4-9	279-282	bis	_	
+4-10	283-286	auf	_	
+4-11	287-290	den	_	
+4-12	291-301	Kluttenweg	*	
+4-13	301-302	.	_	
+
+#Text=Für viele Radfahrer würde es eine Verbesserung dieses Abschnittes bedeuten, wenn er auch geteert würde.
+5-1	303-306	Für	_	
+5-2	307-312	viele	_	
+5-3	313-322	Radfahrer	_	
+5-4	323-328	würde	_	
+5-5	329-331	es	_	
+5-6	332-336	eine	_	
+5-7	337-349	Verbesserung	_	
+5-8	350-356	dieses	_	
+5-9	357-368	Abschnittes	_	
+5-10	369-377	bedeuten	_	
+5-11	377-378	,	_	
+5-12	379-383	wenn	_	
+5-13	384-386	er	_	
+5-14	387-391	auch	_	
+5-15	392-399	geteert	_	
+5-16	400-405	würde	_	
+5-17	405-406	.	_	

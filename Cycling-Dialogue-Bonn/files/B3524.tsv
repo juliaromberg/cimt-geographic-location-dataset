@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlende Beleuchtung
+1-1	0-8	Fehlende	_	
+1-2	9-20	Beleuchtung	_	
+
+#Text=Der Nachtigallenweg hat leider überhaupt keine Beleuchtung.
+2-1	23-26	Der	*[5]	
+2-2	27-42	Nachtigallenweg	*[5]	
+2-3	43-46	hat	_	
+2-4	47-53	leider	_	
+2-5	54-63	überhaupt	_	
+2-6	64-69	keine	_	
+2-7	70-81	Beleuchtung	_	
+2-8	81-82	.	_	
+
+#Text=Den Weg von der Universitätssportanlage bis zur Robert-Koch-Str. muss man komplett im Dunkeln fahren.
+3-1	83-86	Den	*[6]	
+3-2	87-90	Weg	*[6]	
+3-3	91-94	von	*[6]	
+3-4	95-98	der	*[6]	
+3-5	99-122	Universitätssportanlage	*[6]	
+3-6	123-126	bis	*[6]	
+3-7	127-130	zur	*[6]	
+3-8	131-146	Robert-Koch-Str	*[6]	
+3-9	146-147	.	_	
+3-10	148-152	muss	_	
+3-11	153-156	man	_	
+3-12	157-165	komplett	_	
+3-13	166-168	im	_	
+3-14	169-176	Dunkeln	_	
+3-15	177-183	fahren	_	
+3-16	183-184	.	_	
+
+#Text=Bitte Straßenlaternen für Radfahrer, Fußgänger und Autofahrer anbringen.
+4-1	185-190	Bitte	_	
+4-2	191-206	Straßenlaternen	_	
+4-3	207-210	für	_	
+4-4	211-220	Radfahrer	_	
+4-5	220-221	,	_	
+4-6	222-231	Fußgänger	_	
+4-7	232-235	und	_	
+4-8	236-246	Autofahrer	_	
+4-9	247-256	anbringen	_	
+4-10	256-257	.	_	

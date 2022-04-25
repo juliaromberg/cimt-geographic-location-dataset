@@ -1,0 +1,122 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Holprige Stellen auf der Bergstrasse
+1-1	0-8	Holprige	_	
+1-2	9-16	Stellen	_	
+1-3	17-20	auf	*[6]	
+1-4	21-24	der	*[6]	
+1-5	25-36	Bergstrasse	*[6]	
+
+#Text=Wenn man die Bergstrasse hinauf fährt, hat man ein langes Stück gerade auf den Berg hoch.
+2-1	39-43	Wenn	_	
+2-2	44-47	man	_	
+2-3	48-51	die	*[7]	
+2-4	52-63	Bergstrasse	*[7]	
+2-5	64-70	hinauf	*[7]	
+2-6	71-76	fährt	_	
+2-7	76-77	,	_	
+2-8	78-81	hat	_	
+2-9	82-85	man	_	
+2-10	86-89	ein	_	
+2-11	90-96	langes	_	
+2-12	97-102	Stück	_	
+2-13	103-109	gerade	_	
+2-14	110-113	auf	_	
+2-15	114-117	den	_	
+2-16	118-122	Berg	_	
+2-17	123-127	hoch	_	
+2-18	127-128	.	_	
+
+#Text=Im letzten Bereich ist die Strecke aber nicht mehr so gut befahrbar, da die Regenrinnen und der Bodenbelag die Fahrt erschweren.
+3-1	129-131	Im	_	
+3-2	132-139	letzten	_	
+3-3	140-147	Bereich	_	
+3-4	148-151	ist	_	
+3-5	152-155	die	_	
+3-6	156-163	Strecke	_	
+3-7	164-168	aber	_	
+3-8	169-174	nicht	_	
+3-9	175-179	mehr	_	
+3-10	180-182	so	_	
+3-11	183-186	gut	_	
+3-12	187-196	befahrbar	_	
+3-13	196-197	,	_	
+3-14	198-200	da	_	
+3-15	201-204	die	_	
+3-16	205-216	Regenrinnen	_	
+3-17	217-220	und	_	
+3-18	221-224	der	_	
+3-19	225-235	Bodenbelag	_	
+3-20	236-239	die	_	
+3-21	240-245	Fahrt	_	
+3-22	246-256	erschweren	_	
+3-23	256-257	.	_	
+
+#Text=Wenn man dieses Stück besser gestalten würde und auch im Winter die Bergstrasse räumen würde, so wäre diese sicherlich gut geeignet für Anwohner, Mitarbeiter des UKB und ambulante Patienten sowie Besucher.
+4-1	258-262	Wenn	_	
+4-2	263-266	man	_	
+4-3	267-273	dieses	_	
+4-4	274-279	Stück	_	
+4-5	280-286	besser	_	
+4-6	287-296	gestalten	_	
+4-7	297-302	würde	_	
+4-8	303-306	und	_	
+4-9	307-311	auch	_	
+4-10	312-314	im	_	
+4-11	315-321	Winter	_	
+4-12	322-325	die	*[8]	
+4-13	326-337	Bergstrasse	*[8]	
+4-14	338-344	räumen	_	
+4-15	345-350	würde	_	
+4-16	350-351	,	_	
+4-17	352-354	so	_	
+4-18	355-359	wäre	_	
+4-19	360-365	diese	_	
+4-20	366-376	sicherlich	_	
+4-21	377-380	gut	_	
+4-22	381-389	geeignet	_	
+4-23	390-393	für	_	
+4-24	394-402	Anwohner	_	
+4-25	402-403	,	_	
+4-26	404-415	Mitarbeiter	_	
+4-27	416-419	des	_	
+4-28	420-423	UKB	_	
+4-29	424-427	und	_	
+4-30	428-437	ambulante	_	
+4-31	438-447	Patienten	_	
+4-32	448-453	sowie	_	
+4-33	454-462	Besucher	_	
+4-34	462-463	.	_	
+
+#Text=Es ist natürlich so, dass man mit einem normalen Fahrrad wegen der Steigung Probleme hat, aber ein Pedelec oder eBike schaffe die Strecke locker.
+5-1	464-466	Es	_	
+5-2	467-470	ist	_	
+5-3	471-480	natürlich	_	
+5-4	481-483	so	_	
+5-5	483-484	,	_	
+5-6	485-489	dass	_	
+5-7	490-493	man	_	
+5-8	494-497	mit	_	
+5-9	498-503	einem	_	
+5-10	504-512	normalen	_	
+5-11	513-520	Fahrrad	_	
+5-12	521-526	wegen	_	
+5-13	527-530	der	_	
+5-14	531-539	Steigung	_	
+5-15	540-548	Probleme	_	
+5-16	549-552	hat	_	
+5-17	552-553	,	_	
+5-18	554-558	aber	_	
+5-19	559-562	ein	_	
+5-20	563-570	Pedelec	_	
+5-21	571-575	oder	_	
+5-22	576-581	eBike	_	
+5-23	582-589	schaffe	_	
+5-24	590-593	die	_	
+5-25	594-601	Strecke	_	
+5-26	602-608	locker	_	
+5-27	608-609	.	_	

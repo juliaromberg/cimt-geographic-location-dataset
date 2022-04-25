@@ -1,0 +1,137 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Von der Staße auf den Gehweg auf die Straße auf den Gehweg...
+1-1	0-3	Von	_	
+1-2	4-7	der	_	
+1-3	8-13	Staße	_	
+1-4	14-17	auf	_	
+1-5	18-21	den	_	
+1-6	22-28	Gehweg	_	
+1-7	29-32	auf	_	
+1-8	33-36	die	_	
+1-9	37-43	Straße	_	
+1-10	44-47	auf	_	
+1-11	48-51	den	_	
+1-12	52-58	Gehweg	_	
+1-13	58-59	.	_	
+1-14	59-60	.	_	
+1-15	60-61	.	_	
+
+#Text=Ab der Einmündung der Endenicher Straße in den Hermann-Wanderslebring wird der Radfahrer verpflichtet auf den geteilten Rad- und Fußweg zu wechseln.
+2-1	64-66	Ab	*[6]	
+2-2	67-70	der	*[6]	
+2-3	71-81	Einmündung	*[6]	
+2-4	82-85	der	*[6]	
+2-5	86-96	Endenicher	*[6]	
+2-6	97-103	Straße	*[6]	
+2-7	104-106	in	*[6]	
+2-8	107-110	den	*[6]	
+2-9	111-133	Hermann-Wanderslebring	*[6]	
+2-10	134-138	wird	_	
+2-11	139-142	der	_	
+2-12	143-152	Radfahrer	_	
+2-13	153-165	verpflichtet	_	
+2-14	166-169	auf	_	
+2-15	170-173	den	_	
+2-16	174-183	geteilten	_	
+2-17	184-187	Rad	_	
+2-18	187-188	-	_	
+2-19	189-192	und	_	
+2-20	193-199	Fußweg	_	
+2-21	200-202	zu	_	
+2-22	203-211	wechseln	_	
+2-23	211-212	.	_	
+
+#Text=Ca 100m weiter, hinter dem Endenicher Ei wird dann durch ein Fahrrad-Frei-Schild dem Radfahrer ermöglicht, auf die Straße zu wechseln, was aufgrund der schlechten Einsehbarkeit der Bushaltestelle aufgrund der Kurve davor und dem engen Fußweg sinvoll ist.
+3-1	213-215	Ca	_	
+3-2	216-220	100m	_	
+3-3	221-227	weiter	_	
+3-4	227-228	,	_	
+3-5	229-235	hinter	*[7]	
+3-6	236-239	dem	*[7]	
+3-7	240-250	Endenicher	*[7]	
+3-8	251-253	Ei	*[7]	
+3-9	254-258	wird	_	
+3-10	259-263	dann	_	
+3-11	264-269	durch	_	
+3-12	270-273	ein	_	
+3-13	274-293	Fahrrad-Frei-Schild	_	
+3-14	294-297	dem	_	
+3-15	298-307	Radfahrer	_	
+3-16	308-318	ermöglicht	_	
+3-17	318-319	,	_	
+3-18	320-323	auf	_	
+3-19	324-327	die	_	
+3-20	328-334	Straße	_	
+3-21	335-337	zu	_	
+3-22	338-346	wechseln	_	
+3-23	346-347	,	_	
+3-24	348-351	was	_	
+3-25	352-360	aufgrund	_	
+3-26	361-364	der	_	
+3-27	365-375	schlechten	_	
+3-28	376-389	Einsehbarkeit	_	
+3-29	390-393	der	_	
+3-30	394-408	Bushaltestelle	_	
+3-31	409-417	aufgrund	_	
+3-32	418-421	der	_	
+3-33	422-427	Kurve	_	
+3-34	428-433	davor	_	
+3-35	434-437	und	_	
+3-36	438-441	dem	_	
+3-37	442-447	engen	_	
+3-38	448-454	Fußweg	_	
+3-39	455-462	sinvoll	_	
+3-40	463-466	ist	_	
+3-41	466-467	.	_	
+
+#Text=Allerdings wird weitere 100m weiter an der Ampel der Radfahrer gezwungen auf den Rad- und Fußweg zu wechseln, der dann 100m später an der bft-Tankstelle wieder auf die Straße geführt wird.
+4-1	468-478	Allerdings	_	
+4-2	479-483	wird	_	
+4-3	484-491	weitere	_	
+4-4	492-496	100m	_	
+4-5	497-503	weiter	_	
+4-6	504-506	an	_	
+4-7	507-510	der	_	
+4-8	511-516	Ampel	_	
+4-9	517-520	der	_	
+4-10	521-530	Radfahrer	_	
+4-11	531-540	gezwungen	_	
+4-12	541-544	auf	_	
+4-13	545-548	den	_	
+4-14	549-552	Rad	_	
+4-15	552-553	-	_	
+4-16	554-557	und	_	
+4-17	558-564	Fußweg	_	
+4-18	565-567	zu	_	
+4-19	568-576	wechseln	_	
+4-20	576-577	,	_	
+4-21	578-581	der	_	
+4-22	582-586	dann	_	
+4-23	587-591	100m	_	
+4-24	592-598	später	_	
+4-25	599-601	an	_	
+4-26	602-605	der	_	
+4-27	606-620	bft-Tankstelle	_	
+4-28	621-627	wieder	_	
+4-29	628-631	auf	_	
+4-30	632-635	die	_	
+4-31	636-642	Straße	_	
+4-32	643-650	geführt	_	
+4-33	651-655	wird	_	
+4-34	655-656	.	_	
+
+#Text=Hier wäre eine durchgängige Fahrrad-Frei-Beschilderung mehr als wünschenswert.
+5-1	657-661	Hier	_	
+5-2	662-666	wäre	_	
+5-3	667-671	eine	_	
+5-4	672-684	durchgängige	_	
+5-5	685-711	Fahrrad-Frei-Beschilderung	_	
+5-6	712-716	mehr	_	
+5-7	717-720	als	_	
+5-8	721-734	wünschenswert	_	
+5-9	734-735	.	_	

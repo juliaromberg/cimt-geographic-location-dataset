@@ -1,0 +1,104 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradroute durch die Innenstadt
+1-1	0-12	Fahrradroute	_	
+1-2	13-18	durch	*[7]	
+1-3	19-22	die	*[7]	
+1-4	23-33	Innenstadt	*[7]	
+
+#Text=Früher gab es Verkehrszeichen, wo Radfahrer durch die Innenstadt fahren durfte.
+2-1	36-42	Früher	_	
+2-2	43-46	gab	_	
+2-3	47-49	es	_	
+2-4	50-65	Verkehrszeichen	_	
+2-5	65-66	,	_	
+2-6	67-69	wo	_	
+2-7	70-79	Radfahrer	_	
+2-8	80-85	durch	*[8]	
+2-9	86-89	die	*[8]	
+2-10	90-100	Innenstadt	*[8]	
+2-11	101-107	fahren	_	
+2-12	108-114	durfte	_	
+2-13	114-115	.	_	
+
+#Text=Die sind ganz verschwunden und es ist unklar, wo Radfahrer sich bewegen dürfen oder ob sie nur den Cityring nutzen dürfen um um die Stadt herum zufahren.
+3-1	116-119	Die	_	
+3-2	120-124	sind	_	
+3-3	125-129	ganz	_	
+3-4	130-142	verschwunden	_	
+3-5	143-146	und	_	
+3-6	147-149	es	_	
+3-7	150-153	ist	_	
+3-8	154-160	unklar	_	
+3-9	160-161	,	_	
+3-10	162-164	wo	_	
+3-11	165-174	Radfahrer	_	
+3-12	175-179	sich	_	
+3-13	180-187	bewegen	_	
+3-14	188-194	dürfen	_	
+3-15	195-199	oder	_	
+3-16	200-202	ob	_	
+3-17	203-206	sie	_	
+3-18	207-210	nur	_	
+3-19	211-214	den	_	
+3-20	215-223	Cityring	*	
+3-21	224-230	nutzen	_	
+3-22	231-237	dürfen	_	
+3-23	238-240	um	_	
+3-24	241-243	um	_	
+3-25	244-247	die	_	
+3-26	248-253	Stadt	_	
+3-27	254-259	herum	_	
+3-28	260-268	zufahren	_	
+3-29	268-269	.	_	
+
+#Text=De Facto fahren viele Räder durch z.B. die Friedrichstr. oder auch vom Friedensplatz zum Monsterplatz.
+4-1	270-272	De	_	
+4-2	273-278	Facto	_	
+4-3	279-285	fahren	_	
+4-4	286-291	viele	_	
+4-5	292-297	Räder	_	
+4-6	298-303	durch	_	
+4-7	304-307	z.B	_	
+4-8	307-308	.	_	
+4-9	309-312	die	*[9]	
+4-10	313-325	Friedrichstr	*[9]	
+4-11	325-326	.	_	
+4-12	327-331	oder	_	
+4-13	332-336	auch	_	
+4-14	337-340	vom	*[10]	
+4-15	341-354	Friedensplatz	*[10]	
+4-16	355-358	zum	*[10]	
+4-17	359-371	Monsterplatz	*[10]	
+4-18	371-372	.	_	
+
+#Text=Es wäre schön, wenn dieses klar erlaubt wäre, auch gegenüber den Fussgängern.
+5-1	373-375	Es	_	
+5-2	376-380	wäre	_	
+5-3	381-386	schön	_	
+5-4	386-387	,	_	
+5-5	388-392	wenn	_	
+5-6	393-399	dieses	_	
+5-7	400-404	klar	_	
+5-8	405-412	erlaubt	_	
+5-9	413-417	wäre	_	
+5-10	417-418	,	_	
+5-11	419-423	auch	_	
+5-12	424-433	gegenüber	_	
+5-13	434-437	den	_	
+5-14	438-449	Fussgängern	_	
+5-15	449-450	.	_	
+
+#Text=Wir brauchen eine Fahrradroute durch die Stadt!
+6-1	451-454	Wir	_	
+6-2	455-463	brauchen	_	
+6-3	464-468	eine	_	
+6-4	469-481	Fahrradroute	_	
+6-5	482-487	durch	_	
+6-6	488-491	die	_	
+6-7	492-497	Stadt	_	
+6-8	497-498	!	_	

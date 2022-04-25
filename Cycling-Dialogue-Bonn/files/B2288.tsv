@@ -1,0 +1,116 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Straße mit Schutzstreifen - Autos zu schnell
+1-1	0-6	Straße	_	
+1-2	7-10	mit	_	
+1-3	11-25	Schutzstreifen	_	
+1-4	26-27	-	_	
+1-5	28-33	Autos	_	
+1-6	34-36	zu	_	
+1-7	37-44	schnell	_	
+
+#Text=Straße hat zwei Schutzstreifen bekommen (sehr gut!), aber Benutzung für Radfahrer (viele Schüler) sehr unsicher.
+2-1	47-53	Straße	_	
+2-2	54-57	hat	_	
+2-3	58-62	zwei	_	
+2-4	63-77	Schutzstreifen	_	
+2-5	78-86	bekommen	_	
+2-6	87-88	(	_	
+2-7	88-92	sehr	_	
+2-8	93-96	gut	_	
+2-9	96-97	!	_	
+2-10	97-98	)	_	
+2-11	98-99	,	_	
+2-12	100-104	aber	_	
+2-13	105-114	Benutzung	_	
+2-14	115-118	für	_	
+2-15	119-128	Radfahrer	_	
+2-16	129-130	(	_	
+2-17	130-135	viele	_	
+2-18	136-143	Schüler	_	
+2-19	143-144	)	_	
+2-20	145-149	sehr	_	
+2-21	150-158	unsicher	_	
+2-22	158-159	.	_	
+
+#Text=Autos zu schnell und undiszipliniert (V85 Messung 57 km/h), keine blauen farbliche Markierungen des Radweges an den teils für Autofahrer sehr unübersichtlichen Kreuzungen.
+3-1	160-165	Autos	_	
+3-2	166-168	zu	_	
+3-3	169-176	schnell	_	
+3-4	177-180	und	_	
+3-5	181-196	undiszipliniert	_	
+3-6	197-198	(	_	
+3-7	198-201	V85	_	
+3-8	202-209	Messung	_	
+3-9	210-212	57	_	
+3-10	213-215	km	_	
+3-11	215-216	/	_	
+3-12	216-217	h	_	
+3-13	217-218	)	_	
+3-14	218-219	,	_	
+3-15	220-225	keine	_	
+3-16	226-232	blauen	_	
+3-17	233-242	farbliche	_	
+3-18	243-255	Markierungen	_	
+3-19	256-259	des	_	
+3-20	260-268	Radweges	_	
+3-21	269-271	an	_	
+3-22	272-275	den	_	
+3-23	276-281	teils	_	
+3-24	282-285	für	_	
+3-25	286-296	Autofahrer	_	
+3-26	297-301	sehr	_	
+3-27	302-319	unübersichtlichen	_	
+3-28	320-330	Kreuzungen	_	
+3-29	330-331	.	_	
+
+#Text=Parallel zur Verbesserung des Radwegenetzes muss auch der Autoverkehr diszipliniert werden und ein Umdenken eintreten.
+4-1	332-340	Parallel	_	
+4-2	341-344	zur	_	
+4-3	345-357	Verbesserung	_	
+4-4	358-361	des	_	
+4-5	362-375	Radwegenetzes	_	
+4-6	376-380	muss	_	
+4-7	381-385	auch	_	
+4-8	386-389	der	_	
+4-9	390-401	Autoverkehr	_	
+4-10	402-415	diszipliniert	_	
+4-11	416-422	werden	_	
+4-12	423-426	und	_	
+4-13	427-430	ein	_	
+4-14	431-439	Umdenken	_	
+4-15	440-449	eintreten	_	
+4-16	449-450	.	_	
+
+#Text=Permanentes Unsicherheitsgefühl beim Radfahren in Bonn, da der Autoverkehr generell sehr rücksichtslos gegenüber dem Radverkehr ist.
+5-1	451-462	Permanentes	_	
+5-2	463-482	Unsicherheitsgefühl	_	
+5-3	483-487	beim	_	
+5-4	488-497	Radfahren	_	
+5-5	498-500	in	*[7]	
+5-6	501-505	Bonn	*[7]	
+5-7	505-506	,	_	
+5-8	507-509	da	_	
+5-9	510-513	der	_	
+5-10	514-525	Autoverkehr	_	
+5-11	526-534	generell	_	
+5-12	535-539	sehr	_	
+5-13	540-553	rücksichtslos	_	
+5-14	554-563	gegenüber	_	
+5-15	564-567	dem	_	
+5-16	568-578	Radverkehr	_	
+5-17	579-582	ist	_	
+5-18	582-583	.	_	
+
+#Text=Bonn ist derzeit noch eine Autofahrerstadt.
+6-1	584-588	Bonn	*	
+6-2	589-592	ist	_	
+6-3	593-600	derzeit	_	
+6-4	601-605	noch	_	
+6-5	606-610	eine	_	
+6-6	611-626	Autofahrerstadt	_	
+6-7	626-627	.	_	

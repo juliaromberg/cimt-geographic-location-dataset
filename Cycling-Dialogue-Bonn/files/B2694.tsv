@@ -1,0 +1,100 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg Kaiserstraße
+1-1	0-6	Radweg	*[6]	
+1-2	7-19	Kaiserstraße	*[6]	
+
+#Text=Der Radweg entlang der Kaiserstraße ist keiner.
+2-1	22-25	Der	*[7]	
+2-2	26-32	Radweg	*[7]	
+2-3	33-40	entlang	*[7]	
+2-4	41-44	der	*[7]	
+2-5	45-57	Kaiserstraße	*[7]	
+2-6	58-61	ist	_	
+2-7	62-68	keiner	_	
+2-8	68-69	.	_	
+
+#Text=Seit einiger Zeit ist der Radweg an vielen Stellen auch für Fußgänger erlaubt, mit dem Erfolg, dass es für Radfahrer noch enger wird.
+3-1	70-74	Seit	_	
+3-2	75-82	einiger	_	
+3-3	83-87	Zeit	_	
+3-4	88-91	ist	_	
+3-5	92-95	der	_	
+3-6	96-102	Radweg	_	
+3-7	103-105	an	_	
+3-8	106-112	vielen	_	
+3-9	113-120	Stellen	_	
+3-10	121-125	auch	_	
+3-11	126-129	für	_	
+3-12	130-139	Fußgänger	_	
+3-13	140-147	erlaubt	_	
+3-14	147-148	,	_	
+3-15	149-152	mit	_	
+3-16	153-156	dem	_	
+3-17	157-163	Erfolg	_	
+3-18	163-164	,	_	
+3-19	165-169	dass	_	
+3-20	170-172	es	_	
+3-21	173-176	für	_	
+3-22	177-186	Radfahrer	_	
+3-23	187-191	noch	_	
+3-24	192-197	enger	_	
+3-25	198-202	wird	_	
+3-26	202-203	.	_	
+
+#Text=Besonbders kriminell ist es, wenn man stadteinwärts fährt und einem sowohl Radfahrer entgegenkommen und gleichzeitig die Busse oder Autos mit Tempo 50 km/h einem entgegen brausen.
+4-1	204-214	Besonbders	_	
+4-2	215-224	kriminell	_	
+4-3	225-228	ist	_	
+4-4	229-231	es	_	
+4-5	231-232	,	_	
+4-6	233-237	wenn	_	
+4-7	238-241	man	_	
+4-8	242-255	stadteinwärts	_	
+4-9	256-261	fährt	_	
+4-10	262-265	und	_	
+4-11	266-271	einem	_	
+4-12	272-278	sowohl	_	
+4-13	279-288	Radfahrer	_	
+4-14	289-303	entgegenkommen	_	
+4-15	304-307	und	_	
+4-16	308-320	gleichzeitig	_	
+4-17	321-324	die	_	
+4-18	325-330	Busse	_	
+4-19	331-335	oder	_	
+4-20	336-341	Autos	_	
+4-21	342-345	mit	_	
+4-22	346-351	Tempo	_	
+4-23	352-354	50	_	
+4-24	355-357	km	_	
+4-25	357-358	/	_	
+4-26	358-359	h	_	
+4-27	360-365	einem	_	
+4-28	366-374	entgegen	_	
+4-29	375-382	brausen	_	
+4-30	382-383	.	_	
+
+#Text=Vorschlag: Kaiserstraße als Fahrradstraße umwidmen, nur noch Busse mit maximal Tempo 30 km/h erlaubt.
+5-1	384-393	Vorschlag	_	
+5-2	393-394	:	_	
+5-3	395-407	Kaiserstraße	*	
+5-4	408-411	als	_	
+5-5	412-425	Fahrradstraße	_	
+5-6	426-434	umwidmen	_	
+5-7	434-435	,	_	
+5-8	436-439	nur	_	
+5-9	440-444	noch	_	
+5-10	445-450	Busse	_	
+5-11	451-454	mit	_	
+5-12	455-462	maximal	_	
+5-13	463-468	Tempo	_	
+5-14	469-471	30	_	
+5-15	472-474	km	_	
+5-16	474-475	/	_	
+5-17	475-476	h	_	
+5-18	477-484	erlaubt	_	
+5-19	484-485	.	_	

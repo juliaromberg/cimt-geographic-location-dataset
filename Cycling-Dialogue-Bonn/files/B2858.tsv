@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Altstadt autofrei
+1-1	0-8	Altstadt	*	
+1-2	9-17	autofrei	_	
+
+#Text=komplette Altstadt autofrei machen.
+2-1	20-29	komplette	*[8]	
+2-2	30-38	Altstadt	*[8]	
+2-3	39-47	autofrei	_	
+2-4	48-54	machen	_	
+2-5	54-55	.	_	
+
+#Text=Nur noch Lieferverkehr und ÖPNV.
+3-1	56-59	Nur	_	
+3-2	60-64	noch	_	
+3-3	65-78	Lieferverkehr	_	
+3-4	79-82	und	_	
+3-5	83-87	ÖPNV	_	
+3-6	87-88	.	_	
+
+#Text=Das würde zu echter Lebensqualität führen.
+4-1	89-92	Das	_	
+4-2	93-98	würde	_	
+4-3	99-101	zu	_	
+4-4	102-108	echter	_	
+4-5	109-123	Lebensqualität	_	
+4-6	124-130	führen	_	
+4-7	130-131	.	_	
+
+#Text=Cafes etc auf der Straße.
+5-1	132-137	Cafes	_	
+5-2	138-141	etc	_	
+5-3	142-145	auf	_	
+5-4	146-149	der	_	
+5-5	150-156	Straße	_	
+5-6	156-157	.	_	
+
+#Text=Platz zu atmen und zu leben.
+6-1	158-163	Platz	_	
+6-2	164-166	zu	_	
+6-3	167-172	atmen	_	
+6-4	173-176	und	_	
+6-5	177-179	zu	_	
+6-6	180-185	leben	_	
+6-7	185-186	.	_	
+
+#Text=Danke für die Möglichkeit, hier seine Ideen einbringen zu dürfen.
+7-1	187-192	Danke	_	
+7-2	193-196	für	_	
+7-3	197-200	die	_	
+7-4	201-212	Möglichkeit	_	
+7-5	212-213	,	_	
+7-6	214-218	hier	_	
+7-7	219-224	seine	_	
+7-8	225-230	Ideen	_	
+7-9	231-241	einbringen	_	
+7-10	242-244	zu	_	
+7-11	245-251	dürfen	_	
+7-12	251-252	.	_	

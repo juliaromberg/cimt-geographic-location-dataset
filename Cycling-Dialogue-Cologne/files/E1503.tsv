@@ -1,0 +1,161 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Aufstellzone für Radfahrer
+1-1	0-12	Aufstellzone	_	
+1-2	13-16	für	_	
+1-3	17-26	Radfahrer	_	
+
+#Text=Die Kreuzung Ehrenfeldgürtel/Vogelsanger Str. ist für Radfahrer auf der Vogelsanger Str. nur beschwerlich zu passieren.
+2-1	29-32	Die	*[9]	
+2-2	33-41	Kreuzung	*[9]	
+2-3	42-57	Ehrenfeldgürtel	*[9]	
+2-4	57-58	/	*[9]	
+2-5	58-69	Vogelsanger	*[9]	
+2-6	70-73	Str	_	
+2-7	73-74	.	_	
+2-8	75-78	ist	_	
+2-9	79-82	für	_	
+2-10	83-92	Radfahrer	_	
+2-11	93-96	auf	*[10]	
+2-12	97-100	der	*[10]	
+2-13	101-112	Vogelsanger	*[10]	
+2-14	113-116	Str	*[10]	
+2-15	116-117	.	_	
+2-16	118-121	nur	_	
+2-17	122-134	beschwerlich	_	
+2-18	135-137	zu	_	
+2-19	138-147	passieren	_	
+2-20	147-148	.	_	
+
+#Text=In beide Fahrtrichtung sind Radfahrer nicht besonders berücksichtigt und daher durch unachtsam rechts abbiegende Fahrzeuge häufig gefährdet.
+3-1	149-151	In	_	
+3-2	152-157	beide	_	
+3-3	158-171	Fahrtrichtung	_	
+3-4	172-176	sind	_	
+3-5	177-186	Radfahrer	_	
+3-6	187-192	nicht	_	
+3-7	193-202	besonders	_	
+3-8	203-217	berücksichtigt	_	
+3-9	218-221	und	_	
+3-10	222-227	daher	_	
+3-11	228-233	durch	_	
+3-12	234-243	unachtsam	_	
+3-13	244-250	rechts	_	
+3-14	251-261	abbiegende	_	
+3-15	262-271	Fahrzeuge	_	
+3-16	272-278	häufig	_	
+3-17	279-288	gefährdet	_	
+3-18	288-289	.	_	
+
+#Text=Aktuell stellen sich Radfahrer daher regelmäßig an der Fußgängerampel an, da diese einige Sekunden früher grün zeigt.
+4-1	290-297	Aktuell	_	
+4-2	298-305	stellen	_	
+4-3	306-310	sich	_	
+4-4	311-320	Radfahrer	_	
+4-5	321-326	daher	_	
+4-6	327-337	regelmäßig	_	
+4-7	338-340	an	_	
+4-8	341-344	der	_	
+4-9	345-359	Fußgängerampel	_	
+4-10	360-362	an	_	
+4-11	362-363	,	_	
+4-12	364-366	da	_	
+4-13	367-372	diese	_	
+4-14	373-379	einige	_	
+4-15	380-388	Sekunden	_	
+4-16	389-395	früher	_	
+4-17	396-400	grün	_	
+4-18	401-406	zeigt	_	
+4-19	406-407	.	_	
+
+#Text=Mit wenig Aufwand wäre es möglich, am Fahrbahnrand in Richtung stadteinwärts und stadtauswärts auf den letzten Metern vor der Ampel eine Radspur zu markieren, die zu einer Aufstellzone vor der aktuellen Haltelinie führt.
+5-1	408-411	Mit	_	
+5-2	412-417	wenig	_	
+5-3	418-425	Aufwand	_	
+5-4	426-430	wäre	_	
+5-5	431-433	es	_	
+5-6	434-441	möglich	_	
+5-7	441-442	,	_	
+5-8	443-445	am	_	
+5-9	446-458	Fahrbahnrand	_	
+5-10	459-461	in	*[11]	
+5-11	462-470	Richtung	*[11]	
+5-12	471-484	stadteinwärts	*[11]	
+5-13	485-488	und	*[11]	
+5-14	489-502	stadtauswärts	*[11]	
+5-15	503-506	auf	_	
+5-16	507-510	den	_	
+5-17	511-518	letzten	_	
+5-18	519-525	Metern	_	
+5-19	526-529	vor	_	
+5-20	530-533	der	_	
+5-21	534-539	Ampel	_	
+5-22	540-544	eine	_	
+5-23	545-552	Radspur	_	
+5-24	553-555	zu	_	
+5-25	556-565	markieren	_	
+5-26	565-566	,	_	
+5-27	567-570	die	_	
+5-28	571-573	zu	_	
+5-29	574-579	einer	_	
+5-30	580-592	Aufstellzone	_	
+5-31	593-596	vor	_	
+5-32	597-600	der	_	
+5-33	601-610	aktuellen	_	
+5-34	611-621	Haltelinie	_	
+5-35	622-627	führt	_	
+5-36	627-628	.	_	
+
+#Text=Eine Radfahrerampel, die sich an der Schaltung der Fußgänger orientiert, könnte die Radfahrer frühzeitig auf die Piste schicken.
+6-1	629-633	Eine	_	
+6-2	634-648	Radfahrerampel	_	
+6-3	648-649	,	_	
+6-4	650-653	die	_	
+6-5	654-658	sich	_	
+6-6	659-661	an	_	
+6-7	662-665	der	_	
+6-8	666-675	Schaltung	_	
+6-9	676-679	der	_	
+6-10	680-689	Fußgänger	_	
+6-11	690-700	orientiert	_	
+6-12	700-701	,	_	
+6-13	702-708	könnte	_	
+6-14	709-712	die	_	
+6-15	713-722	Radfahrer	_	
+6-16	723-733	frühzeitig	_	
+6-17	734-737	auf	_	
+6-18	738-741	die	_	
+6-19	742-747	Piste	_	
+6-20	748-756	schicken	_	
+6-21	756-757	.	_	
+
+#Text=So wären KFZ und Räder getrennt und für alle Beteiligten ein erheblich sichereres Fahren gewährleistet.
+7-1	758-760	So	_	
+7-2	761-766	wären	_	
+7-3	767-770	KFZ	_	
+7-4	771-774	und	_	
+7-5	775-780	Räder	_	
+7-6	781-789	getrennt	_	
+7-7	790-793	und	_	
+7-8	794-797	für	_	
+7-9	798-802	alle	_	
+7-10	803-814	Beteiligten	_	
+7-11	815-818	ein	_	
+7-12	819-828	erheblich	_	
+7-13	829-839	sichereres	_	
+7-14	840-846	Fahren	_	
+7-15	847-860	gewährleistet	_	
+7-16	860-861	.	_	
+
+#Text=Radspuren im Kreuzungsbereich wären dabei überflüssig.
+8-1	862-871	Radspuren	_	
+8-2	872-874	im	_	
+8-3	875-891	Kreuzungsbereich	_	
+8-4	892-897	wären	_	
+8-5	898-903	dabei	_	
+8-6	904-915	überflüssig	_	
+8-7	915-916	.	_	

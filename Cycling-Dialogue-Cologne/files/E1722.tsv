@@ -1,0 +1,81 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zu wenige Fahrradparkplätze
+1-1	0-2	Zu	_	
+1-2	3-9	wenige	_	
+1-3	10-27	Fahrradparkplätze	_	
+
+#Text=Ich nutze den Bahnhof Ehrenfeld regelmäßig um mit dem Zug zur Arbeit zu fahren.
+2-1	30-33	Ich	_	
+2-2	34-39	nutze	_	
+2-3	40-43	den	_	
+2-4	44-51	Bahnhof	*[6]	
+2-5	52-61	Ehrenfeld	*[6]	
+2-6	62-72	regelmäßig	_	
+2-7	73-75	um	_	
+2-8	76-79	mit	_	
+2-9	80-83	dem	_	
+2-10	84-87	Zug	_	
+2-11	88-91	zur	_	
+2-12	92-98	Arbeit	_	
+2-13	99-101	zu	_	
+2-14	102-108	fahren	_	
+2-15	108-109	.	_	
+
+#Text=Morgens um 7:30 findet sich dort so gut wie nie eine Möglichkeit, das Fahrrad anzuschließen.
+3-1	110-117	Morgens	_	
+3-2	118-120	um	_	
+3-3	121-122	7	_	
+3-4	122-123	:	_	
+3-5	123-125	30	_	
+3-6	126-132	findet	_	
+3-7	133-137	sich	_	
+3-8	138-142	dort	_	
+3-9	143-145	so	_	
+3-10	146-149	gut	_	
+3-11	150-153	wie	_	
+3-12	154-157	nie	_	
+3-13	158-162	eine	_	
+3-14	163-174	Möglichkeit	_	
+3-15	174-175	,	_	
+3-16	176-179	das	_	
+3-17	180-187	Fahrrad	_	
+3-18	188-201	anzuschließen	_	
+3-19	201-202	.	_	
+
+#Text=Mir scheint, dass viele Fahrräder dort 'dauerparken'.
+4-1	203-206	Mir	_	
+4-2	207-214	scheint	_	
+4-3	214-215	,	_	
+4-4	216-220	dass	_	
+4-5	221-226	viele	_	
+4-6	227-236	Fahrräder	_	
+4-7	237-241	dort	_	
+4-8	242-243	'	_	
+4-9	243-254	dauerparken	_	
+4-10	254-255	'	_	
+4-11	255-256	.	_	
+
+#Text=Regelmäßige Kontrolle und Entfernung von 'Fahrradleichen' und/oder Schaffung von mehr Fahrradstellplätzen wäre wünschenswert.
+5-1	257-268	Regelmäßige	_	
+5-2	269-278	Kontrolle	_	
+5-3	279-282	und	_	
+5-4	283-293	Entfernung	_	
+5-5	294-297	von	_	
+5-6	298-299	'	_	
+5-7	299-313	Fahrradleichen	_	
+5-8	313-314	'	_	
+5-9	315-318	und	_	
+5-10	318-319	/	_	
+5-11	319-323	oder	_	
+5-12	324-333	Schaffung	_	
+5-13	334-337	von	_	
+5-14	338-342	mehr	_	
+5-15	343-362	Fahrradstellplätzen	_	
+5-16	363-367	wäre	_	
+5-17	368-381	wünschenswert	_	
+5-18	381-382	.	_	

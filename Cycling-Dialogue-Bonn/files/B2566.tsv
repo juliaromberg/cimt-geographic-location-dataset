@@ -1,0 +1,46 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wieso nicht auch geradeaus?
+1-1	0-5	Wieso	_	
+1-2	6-11	nicht	_	
+1-3	12-16	auch	_	
+1-4	17-26	geradeaus	_	
+1-5	26-27	?	_	
+
+#Text=Hier fehlt die Möglichkeit geradeaus über die Friedrich-Ebert-Allee zum Rheinweg zu gelangen.
+2-1	30-34	Hier	_	
+2-2	35-40	fehlt	_	
+2-3	41-44	die	_	
+2-4	45-56	Möglichkeit	_	
+2-5	57-66	geradeaus	*[4]	
+2-6	67-71	über	*[4]	
+2-7	72-75	die	*[4]	
+2-8	76-97	Friedrich-Ebert-Allee	*[4]	
+2-9	98-101	zum	*[4]	
+2-10	102-110	Rheinweg	*[4]	
+2-11	111-113	zu	_	
+2-12	114-122	gelangen	_	
+2-13	122-123	.	_	
+
+#Text=Lösung: Ampel so schalten dass es möglich wird und entsprechend die Straßenmarkierung und Schilder anpassen.
+3-1	124-130	Lösung	_	
+3-2	130-131	:	_	
+3-3	132-137	Ampel	_	
+3-4	138-140	so	_	
+3-5	141-149	schalten	_	
+3-6	150-154	dass	_	
+3-7	155-157	es	_	
+3-8	158-165	möglich	_	
+3-9	166-170	wird	_	
+3-10	171-174	und	_	
+3-11	175-187	entsprechend	_	
+3-12	188-191	die	_	
+3-13	192-209	Straßenmarkierung	_	
+3-14	210-213	und	_	
+3-15	214-222	Schilder	_	
+3-16	223-231	anpassen	_	
+3-17	231-232	.	_	

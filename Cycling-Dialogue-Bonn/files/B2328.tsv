@@ -1,0 +1,105 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg fortsetzen
+1-1	0-6	Radweg	_	
+1-2	7-17	fortsetzen	_	
+
+#Text=An dieser Stelle der Thomastraße, hinter der Viktoriabrücke, endet der Radweg.
+2-1	20-22	An	_	
+2-2	23-29	dieser	_	
+2-3	30-36	Stelle	_	
+2-4	37-40	der	_	
+2-5	41-52	Thomastraße	*[6]	
+2-6	52-53	,	*[6]	
+2-7	54-60	hinter	*[6]	
+2-8	61-64	der	*[6]	
+2-9	65-79	Viktoriabrücke	*[6]	
+2-10	79-80	,	_	
+2-11	81-86	endet	_	
+2-12	87-90	der	_	
+2-13	91-97	Radweg	_	
+2-14	97-98	.	_	
+
+#Text=Bis zu dieser Stelle gibt es von Alfter über Dransdorf einen durchgehenden Radweg fast(!) bis in die Innestadt/Hauptbahnhof.
+3-1	99-102	Bis	_	
+3-2	103-105	zu	_	
+3-3	106-112	dieser	_	
+3-4	113-119	Stelle	_	
+3-5	120-124	gibt	_	
+3-6	125-127	es	_	
+3-7	128-131	von	*[7]	
+3-8	132-138	Alfter	*[7]	
+3-9	139-143	über	*[7]	
+3-10	144-153	Dransdorf	*[7]	
+3-11	154-159	einen	_	
+3-12	160-173	durchgehenden	_	
+3-13	174-180	Radweg	_	
+3-14	181-185	fast	_	
+3-15	185-186	(	_	
+3-16	186-187	!	_	
+3-17	187-188	)	_	
+3-18	189-192	bis	*[8]	
+3-19	193-195	in	*[8]	
+3-20	196-199	die	*[8]	
+3-21	200-209	Innestadt	*[8]	
+3-22	209-210	/	*[8]	
+3-23	210-222	Hauptbahnhof	*[8]	
+3-24	222-223	.	_	
+
+#Text=An dieser Stelle der Thomastrasse endet der Radweg könnte aber auf der gegenüberliegenden Seite (Fernbusbahnhof, neuer Kreisel am Alten Friedhof) weiterführen.
+4-1	224-226	An	_	
+4-2	227-233	dieser	_	
+4-3	234-240	Stelle	_	
+4-4	241-244	der	_	
+4-5	245-257	Thomastrasse	*	
+4-6	258-263	endet	_	
+4-7	264-267	der	_	
+4-8	268-274	Radweg	_	
+4-9	275-281	könnte	_	
+4-10	282-286	aber	_	
+4-11	287-290	auf	_	
+4-12	291-294	der	_	
+4-13	295-313	gegenüberliegenden	_	
+4-14	314-319	Seite	_	
+4-15	320-321	(	_	
+4-16	321-335	Fernbusbahnhof	*[9]	
+4-17	335-336	,	*[9]	
+4-18	337-342	neuer	*[9]	
+4-19	343-350	Kreisel	*[9]	
+4-20	351-353	am	*[9]	
+4-21	354-359	Alten	*[9]	
+4-22	360-368	Friedhof	*[9]	
+4-23	368-369	)	_	
+4-24	370-382	weiterführen	_	
+4-25	382-383	.	_	
+
+#Text=Es fehlt ein Schild das Autofahrer auf Radfahrer beim Überqueren der Straße langsam fahren sollen oder besser noch eine rote Markierung auf der Fahrbahn.
+5-1	384-386	Es	_	
+5-2	387-392	fehlt	_	
+5-3	393-396	ein	_	
+5-4	397-403	Schild	_	
+5-5	404-407	das	_	
+5-6	408-418	Autofahrer	_	
+5-7	419-422	auf	_	
+5-8	423-432	Radfahrer	_	
+5-9	433-437	beim	_	
+5-10	438-448	Überqueren	_	
+5-11	449-452	der	_	
+5-12	453-459	Straße	_	
+5-13	460-467	langsam	_	
+5-14	468-474	fahren	_	
+5-15	475-481	sollen	_	
+5-16	482-486	oder	_	
+5-17	487-493	besser	_	
+5-18	494-498	noch	_	
+5-19	499-503	eine	_	
+5-20	504-508	rote	_	
+5-21	509-519	Markierung	_	
+5-22	520-523	auf	_	
+5-23	524-527	der	_	
+5-24	528-536	Fahrbahn	_	
+5-25	536-537	.	_	

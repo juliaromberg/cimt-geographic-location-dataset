@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Behinderung durch parkende Fahrräder
+1-1	0-11	Behinderung	_	
+1-2	12-17	durch	_	
+1-3	18-26	parkende	_	
+1-4	27-36	Fahrräder	_	
+
+#Text=An der U-Bahnhaltestelle Wurzerstraße parken Fahrräder, die mangels geeigneter Fahrradständer an das Geländer der Haltestelle und an die Kette der Straßenabgrenzung angeschlossen werden.
+2-1	39-41	An	*[5]	
+2-2	42-45	der	*[5]	
+2-3	46-63	U-Bahnhaltestelle	*[5]	
+2-4	64-76	Wurzerstraße	*[5]	
+2-5	77-83	parken	_	
+2-6	84-93	Fahrräder	_	
+2-7	93-94	,	_	
+2-8	95-98	die	_	
+2-9	99-106	mangels	_	
+2-10	107-117	geeigneter	_	
+2-11	118-132	Fahrradständer	_	
+2-12	133-135	an	_	
+2-13	136-139	das	_	
+2-14	140-148	Geländer	_	
+2-15	149-152	der	_	
+2-16	153-164	Haltestelle	_	
+2-17	165-168	und	_	
+2-18	169-171	an	_	
+2-19	172-175	die	_	
+2-20	176-181	Kette	_	
+2-21	182-185	der	_	
+2-22	186-203	Straßenabgrenzung	_	
+2-23	204-217	angeschlossen	_	
+2-24	218-224	werden	_	
+2-25	224-225	.	_	
+
+#Text=Aus diesem Grund kommt es fast regelmäßig vor, dass ich absteigen muss und das Fahrrad durch diese Engstellen irgendwie durchmanövrieren muss.
+3-1	226-229	Aus	_	
+3-2	230-236	diesem	_	
+3-3	237-242	Grund	_	
+3-4	243-248	kommt	_	
+3-5	249-251	es	_	
+3-6	252-256	fast	_	
+3-7	257-267	regelmäßig	_	
+3-8	268-271	vor	_	
+3-9	271-272	,	_	
+3-10	273-277	dass	_	
+3-11	278-281	ich	_	
+3-12	282-291	absteigen	_	
+3-13	292-296	muss	_	
+3-14	297-300	und	_	
+3-15	301-304	das	_	
+3-16	305-312	Fahrrad	_	
+3-17	313-318	durch	_	
+3-18	319-324	diese	_	
+3-19	325-335	Engstellen	_	
+3-20	336-345	irgendwie	_	
+3-21	346-362	durchmanövrieren	_	
+3-22	363-367	muss	_	
+3-23	367-368	.	_	
+
+#Text=Wenn ich diese Behinderung umgehen will, muss ich am Hochkreuz auf die andere Straßenseite und entgegen der Fahrtrichtung falsch Richtung Wurzerstraße fahren.
+4-1	369-373	Wenn	_	
+4-2	374-377	ich	_	
+4-3	378-383	diese	_	
+4-4	384-395	Behinderung	_	
+4-5	396-403	umgehen	_	
+4-6	404-408	will	_	
+4-7	408-409	,	_	
+4-8	410-414	muss	_	
+4-9	415-418	ich	_	
+4-10	419-421	am	*[6]	
+4-11	422-431	Hochkreuz	*[6]	
+4-12	432-435	auf	*[6]	
+4-13	436-439	die	*[6]	
+4-14	440-446	andere	*[6]	
+4-15	447-459	Straßenseite	*[6]	
+4-16	460-463	und	*[6]	
+4-17	464-472	entgegen	*[6]	
+4-18	473-476	der	*[6]	
+4-19	477-490	Fahrtrichtung	*[6]	
+4-20	491-497	falsch	*[6]	
+4-21	498-506	Richtung	*[6]	
+4-22	507-519	Wurzerstraße	*[6]	
+4-23	520-526	fahren	_	
+4-24	526-527	.	_	

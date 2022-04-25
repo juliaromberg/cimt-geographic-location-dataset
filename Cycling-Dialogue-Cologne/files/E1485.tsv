@@ -1,0 +1,148 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlende Radwege / Problematik Einfahrt Gelände Barthonia-Forum / kurze Ampelschaltung
+1-1	0-8	Fehlende	_	
+1-2	9-16	Radwege	_	
+1-3	17-18	/	_	
+1-4	19-30	Problematik	_	
+1-5	31-39	Einfahrt	*[9]	
+1-6	40-47	Gelände	*[9]	
+1-7	48-63	Barthonia-Forum	*[9]	
+1-8	64-65	/	_	
+1-9	66-71	kurze	_	
+1-10	72-86	Ampelschaltung	_	
+
+#Text=Auf der Vogelsanger Straße fehlen bislang Radwege.
+2-1	89-92	Auf	*[10]	
+2-2	93-96	der	*[10]	
+2-3	97-108	Vogelsanger	*[10]	
+2-4	109-115	Straße	*[10]	
+2-5	116-122	fehlen	_	
+2-6	123-130	bislang	_	
+2-7	131-138	Radwege	_	
+2-8	138-139	.	_	
+
+#Text=Die Straße soll ja irgendwann nächstes Jahr (?) saniert werden.
+3-1	140-143	Die	_	
+3-2	144-150	Straße	_	
+3-3	151-155	soll	_	
+3-4	156-158	ja	_	
+3-5	159-169	irgendwann	_	
+3-6	170-178	nächstes	_	
+3-7	179-183	Jahr	_	
+3-8	184-185	(	_	
+3-9	185-186	?	_	
+3-10	186-187	)	_	
+3-11	188-195	saniert	_	
+3-12	196-202	werden	_	
+3-13	202-203	.	_	
+
+#Text=Bitte denken Sie daran, ausreichend Platz für Fahrradwege zu schaffen.
+4-1	204-209	Bitte	_	
+4-2	210-216	denken	_	
+4-3	217-220	Sie	_	
+4-4	221-226	daran	_	
+4-5	226-227	,	_	
+4-6	228-239	ausreichend	_	
+4-7	240-245	Platz	_	
+4-8	246-249	für	_	
+4-9	250-261	Fahrradwege	_	
+4-10	262-264	zu	_	
+4-11	265-273	schaffen	_	
+4-12	273-274	.	_	
+
+#Text=Ein weiteres Problem: Wer mit dem Fahrrad vom Barthonia-Forum auf die Straße fahren will (und umgekehrt), hat keinen Fahrradweg zur Verfügung und muss wegen der Ausfahrt aus der Tiefgarage höllisch aufpassen.
+5-1	275-278	Ein	_	
+5-2	279-287	weiteres	_	
+5-3	288-295	Problem	_	
+5-4	295-296	:	_	
+5-5	297-300	Wer	_	
+5-6	301-304	mit	_	
+5-7	305-308	dem	_	
+5-8	309-316	Fahrrad	_	
+5-9	317-320	vom	*[11]	
+5-10	321-336	Barthonia-Forum	*[11]	
+5-11	337-340	auf	*[11]	
+5-12	341-344	die	*[11]	
+5-13	345-351	Straße	*[11]	
+5-14	352-358	fahren	_	
+5-15	359-363	will	_	
+5-16	364-365	(	_	
+5-17	365-368	und	_	
+5-18	369-378	umgekehrt	_	
+5-19	378-379	)	_	
+5-20	379-380	,	_	
+5-21	381-384	hat	_	
+5-22	385-391	keinen	_	
+5-23	392-402	Fahrradweg	_	
+5-24	403-406	zur	_	
+5-25	407-416	Verfügung	_	
+5-26	417-420	und	_	
+5-27	421-425	muss	_	
+5-28	426-431	wegen	_	
+5-29	432-435	der	_	
+5-30	436-444	Ausfahrt	_	
+5-31	445-448	aus	_	
+5-32	449-452	der	_	
+5-33	453-463	Tiefgarage	_	
+5-34	464-472	höllisch	_	
+5-35	473-482	aufpassen	_	
+5-36	482-483	.	_	
+
+#Text=Eigentlich müssten doch auf einem solchen Gelände Fußgänger und Fahrradfahrer Vorrang haben?
+6-1	484-494	Eigentlich	_	
+6-2	495-502	müssten	_	
+6-3	503-507	doch	_	
+6-4	508-511	auf	_	
+6-5	512-517	einem	_	
+6-6	518-525	solchen	_	
+6-7	526-533	Gelände	_	
+6-8	534-543	Fußgänger	_	
+6-9	544-547	und	_	
+6-10	548-561	Fahrradfahrer	_	
+6-11	562-569	Vorrang	_	
+6-12	570-575	haben	_	
+6-13	575-576	?	_	
+
+#Text=Außerdem ist die Linksabbieger-Ampel an der Ecke Barthonia-Forum/Vogelsanger Straße nur ganz kurz geschaltet.
+7-1	577-585	Außerdem	_	
+7-2	586-589	ist	_	
+7-3	590-593	die	_	
+7-4	594-613	Linksabbieger-Ampel	_	
+7-5	614-616	an	*[12]	
+7-6	617-620	der	*[12]	
+7-7	621-625	Ecke	*[12]	
+7-8	626-641	Barthonia-Forum	*[12]	
+7-9	641-642	/	*[12]	
+7-10	642-653	Vogelsanger	*[12]	
+7-11	654-660	Straße	*[12]	
+7-12	661-664	nur	_	
+7-13	665-669	ganz	_	
+7-14	670-674	kurz	_	
+7-15	675-685	geschaltet	_	
+7-16	685-686	.	_	
+
+#Text=Und die Trasse zu eng, um neben den Autos mit dem Fahrrad auf der Fahrbahn zu stehen.
+8-1	687-690	Und	_	
+8-2	691-694	die	_	
+8-3	695-701	Trasse	_	
+8-4	702-704	zu	_	
+8-5	705-708	eng	_	
+8-6	708-709	,	_	
+8-7	710-712	um	_	
+8-8	713-718	neben	_	
+8-9	719-722	den	_	
+8-10	723-728	Autos	_	
+8-11	729-732	mit	_	
+8-12	733-736	dem	_	
+8-13	737-744	Fahrrad	_	
+8-14	745-748	auf	_	
+8-15	749-752	der	_	
+8-16	753-761	Fahrbahn	_	
+8-17	762-764	zu	_	
+8-18	765-771	stehen	_	
+8-19	771-772	.	_	

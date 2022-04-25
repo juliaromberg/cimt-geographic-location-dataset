@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einrichtung eines grünen Pfeils für Radfahrer
+1-1	0-11	Einrichtung	_	
+1-2	12-17	eines	_	
+1-3	18-24	grünen	_	
+1-4	25-31	Pfeils	_	
+1-5	32-35	für	_	
+1-6	36-45	Radfahrer	_	
+
+#Text=Einrichtung eines grünen Pfeils für Radfahrer, die vom Gürtel rechts in die Bartholomäus-Schink-Straße abbiegen wollen - das es dann keinen kreuzenden Verkehr gibt, ist dies der sicherste Zeitpunkt
+2-1	48-59	Einrichtung	_	
+2-2	60-65	eines	_	
+2-3	66-72	grünen	_	
+2-4	73-79	Pfeils	_	
+2-5	80-83	für	_	
+2-6	84-93	Radfahrer	_	
+2-7	93-94	,	_	
+2-8	95-98	die	_	
+2-9	99-102	vom	*[3]	
+2-10	103-109	Gürtel	*[3]	
+2-11	110-116	rechts	*[3]	
+2-12	117-119	in	*[3]	
+2-13	120-123	die	*[3]	
+2-14	124-150	Bartholomäus-Schink-Straße	*[3]	
+2-15	151-159	abbiegen	_	
+2-16	160-166	wollen	_	
+2-17	167-168	-	_	
+2-18	169-172	das	_	
+2-19	173-175	es	_	
+2-20	176-180	dann	_	
+2-21	181-187	keinen	_	
+2-22	188-198	kreuzenden	_	
+2-23	199-206	Verkehr	_	
+2-24	207-211	gibt	_	
+2-25	211-212	,	_	
+2-26	213-216	ist	_	
+2-27	217-221	dies	_	
+2-28	222-225	der	_	
+2-29	226-235	sicherste	_	
+2-30	236-245	Zeitpunkt	_	

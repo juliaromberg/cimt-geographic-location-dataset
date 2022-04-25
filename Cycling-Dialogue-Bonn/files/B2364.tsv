@@ -1,0 +1,96 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Auffahrt auf Rad-Gehweg nicht nötig und schlecht ausgeführt
+1-1	0-8	Auffahrt	_	
+1-2	9-12	auf	_	
+1-3	13-23	Rad-Gehweg	_	
+1-4	24-29	nicht	_	
+1-5	30-35	nötig	_	
+1-6	36-39	und	_	
+1-7	40-48	schlecht	_	
+1-8	49-59	ausgeführt	_	
+
+#Text=Die Markierung auf der Straße führt mich vom Schutzstreifen auf den Rad-Gehweg.
+2-1	62-65	Die	_	
+2-2	66-76	Markierung	_	
+2-3	77-80	auf	_	
+2-4	81-84	der	_	
+2-5	85-91	Straße	_	
+2-6	92-97	führt	_	
+2-7	98-102	mich	_	
+2-8	103-106	vom	_	
+2-9	107-121	Schutzstreifen	_	
+2-10	122-125	auf	_	
+2-11	126-129	den	_	
+2-12	130-140	Rad-Gehweg	_	
+2-13	140-141	.	_	
+
+#Text=Doch die Auffahrt ist nicht abgesengt, sodass man erst einen Schlenker fahren müßte um auf den Rad-Gehweg zu kommen.
+3-1	142-146	Doch	_	
+3-2	147-150	die	_	
+3-3	151-159	Auffahrt	_	
+3-4	160-163	ist	_	
+3-5	164-169	nicht	_	
+3-6	170-179	abgesengt	_	
+3-7	179-180	,	_	
+3-8	181-187	sodass	_	
+3-9	188-191	man	_	
+3-10	192-196	erst	_	
+3-11	197-202	einen	_	
+3-12	203-212	Schlenker	_	
+3-13	213-219	fahren	_	
+3-14	220-225	müßte	_	
+3-15	226-228	um	_	
+3-16	229-232	auf	_	
+3-17	233-236	den	_	
+3-18	237-247	Rad-Gehweg	_	
+3-19	248-250	zu	_	
+3-20	251-257	kommen	_	
+3-21	257-258	.	_	
+
+#Text=Dieser ist aber spätestens bei den nächsten Häusern zu schmal und kann deswegen nicht befahren werden.
+4-1	259-265	Dieser	_	
+4-2	266-269	ist	_	
+4-3	270-274	aber	_	
+4-4	275-285	spätestens	_	
+4-5	286-289	bei	_	
+4-6	290-293	den	_	
+4-7	294-302	nächsten	_	
+4-8	303-310	Häusern	_	
+4-9	311-313	zu	_	
+4-10	314-320	schmal	_	
+4-11	321-324	und	_	
+4-12	325-329	kann	_	
+4-13	330-338	deswegen	_	
+4-14	339-344	nicht	_	
+4-15	345-353	befahren	_	
+4-16	354-360	werden	_	
+4-17	360-361	.	_	
+
+#Text=Die Straße hingegen ist breit genug um hier einen Schutzstreifen bis zur nächsten Ampel zu markieren, am Besten in Rot.
+5-1	362-365	Die	_	
+5-2	366-372	Straße	_	
+5-3	373-381	hingegen	_	
+5-4	382-385	ist	_	
+5-5	386-391	breit	_	
+5-6	392-397	genug	_	
+5-7	398-400	um	_	
+5-8	401-405	hier	_	
+5-9	406-411	einen	_	
+5-10	412-426	Schutzstreifen	_	
+5-11	427-430	bis	_	
+5-12	431-434	zur	_	
+5-13	435-443	nächsten	_	
+5-14	444-449	Ampel	_	
+5-15	450-452	zu	_	
+5-16	453-462	markieren	_	
+5-17	462-463	,	_	
+5-18	464-466	am	_	
+5-19	467-473	Besten	_	
+5-20	474-476	in	_	
+5-21	477-480	Rot	_	
+5-22	480-481	.	_	

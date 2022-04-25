@@ -1,0 +1,107 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Stoppschild wird von Radfahrern ignoriert
+1-1	0-11	Stoppschild	_	
+1-2	12-16	wird	_	
+1-3	17-20	von	_	
+1-4	21-31	Radfahrern	_	
+1-5	32-41	ignoriert	_	
+
+#Text=An der Kreuzung Professor Neu Allee Ecke St .Augustiner Str. wurde in diesem Jahr ein Stoppschild installiert welches einen Konflikt zwischen Auto und Radfahrer an dieser Stelle lindern sollte.
+2-1	44-46	An	*[6]	
+2-2	47-50	der	*[6]	
+2-3	51-59	Kreuzung	*[6]	
+2-4	60-69	Professor	*[6]	
+2-5	70-73	Neu	*[6]	
+2-6	74-79	Allee	*[6]	
+2-7	80-84	Ecke	*[6]	
+2-8	85-87	St	*[6]	
+2-9	88-89	.	*[6]	
+2-10	89-99	Augustiner	*[6]	
+2-11	100-103	Str	*[6]	
+2-12	103-104	.	*[6]	
+2-13	105-110	wurde	_	
+2-14	111-113	in	_	
+2-15	114-120	diesem	_	
+2-16	121-125	Jahr	_	
+2-17	126-129	ein	_	
+2-18	130-141	Stoppschild	_	
+2-19	142-153	installiert	_	
+2-20	154-161	welches	_	
+2-21	162-167	einen	_	
+2-22	168-176	Konflikt	_	
+2-23	177-185	zwischen	_	
+2-24	186-190	Auto	_	
+2-25	191-194	und	_	
+2-26	195-204	Radfahrer	_	
+2-27	205-207	an	_	
+2-28	208-214	dieser	_	
+2-29	215-221	Stelle	_	
+2-30	222-229	lindern	_	
+2-31	230-236	sollte	_	
+2-32	236-237	.	_	
+
+#Text=Wenn sich alle Verkehrsteilnehmer daran halten würden wäre alles wunderbar.
+3-1	238-242	Wenn	_	
+3-2	243-247	sich	_	
+3-3	248-252	alle	_	
+3-4	253-271	Verkehrsteilnehmer	_	
+3-5	272-277	daran	_	
+3-6	278-284	halten	_	
+3-7	285-291	würden	_	
+3-8	292-296	wäre	_	
+3-9	297-302	alles	_	
+3-10	303-312	wunderbar	_	
+3-11	312-313	.	_	
+
+#Text=Leider fahren alle Radfahrer über das Stoppschild ohne zu halten (selbst wenn die Polizei 1 Meter daneben steht).
+4-1	314-320	Leider	_	
+4-2	321-327	fahren	_	
+4-3	328-332	alle	_	
+4-4	333-342	Radfahrer	_	
+4-5	343-347	über	_	
+4-6	348-351	das	_	
+4-7	352-363	Stoppschild	_	
+4-8	364-368	ohne	_	
+4-9	369-371	zu	_	
+4-10	372-378	halten	_	
+4-11	379-380	(	_	
+4-12	380-386	selbst	_	
+4-13	387-391	wenn	_	
+4-14	392-395	die	_	
+4-15	396-403	Polizei	_	
+4-16	404-405	1	_	
+4-17	406-411	Meter	_	
+4-18	412-419	daneben	_	
+4-19	420-425	steht	_	
+4-20	425-426	)	_	
+4-21	426-427	.	_	
+
+#Text=Wenn man versucht dort vorschriftsmäßig zu halten wird man von anderen Radfahrern beschimpft oder es fährt einem ein Radfahrer ins eigene Rad.
+5-1	428-432	Wenn	_	
+5-2	433-436	man	_	
+5-3	437-445	versucht	_	
+5-4	446-450	dort	_	
+5-5	451-467	vorschriftsmäßig	_	
+5-6	468-470	zu	_	
+5-7	471-477	halten	_	
+5-8	478-482	wird	_	
+5-9	483-486	man	_	
+5-10	487-490	von	_	
+5-11	491-498	anderen	_	
+5-12	499-509	Radfahrern	_	
+5-13	510-520	beschimpft	_	
+5-14	521-525	oder	_	
+5-15	526-528	es	_	
+5-16	529-534	fährt	_	
+5-17	535-540	einem	_	
+5-18	541-544	ein	_	
+5-19	545-554	Radfahrer	_	
+5-20	555-558	ins	_	
+5-21	559-565	eigene	_	
+5-22	566-569	Rad	_	
+5-23	569-570	.	_	

@@ -1,0 +1,220 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verhalten auf beiden Seiten verbesserungswürdig
+1-1	0-9	Verhalten	_	
+1-2	10-13	auf	_	
+1-3	14-20	beiden	_	
+1-4	21-27	Seiten	_	
+1-5	28-47	verbesserungswürdig	_	
+
+#Text=Als zugezogene Anwohnerin, kommend aus der Fahrradstadt Münster, bin ich täglich entsetzt über das Verhalten von Auto- und Radfahrern auf beiden Seiten.
+2-1	50-53	Als	_	
+2-2	54-64	zugezogene	_	
+2-3	65-75	Anwohnerin	_	
+2-4	75-76	,	_	
+2-5	77-84	kommend	_	
+2-6	85-88	aus	_	
+2-7	89-92	der	_	
+2-8	93-105	Fahrradstadt	_	
+2-9	106-113	Münster	_	
+2-10	113-114	,	_	
+2-11	115-118	bin	_	
+2-12	119-122	ich	_	
+2-13	123-130	täglich	_	
+2-14	131-139	entsetzt	_	
+2-15	140-144	über	_	
+2-16	145-148	das	_	
+2-17	149-158	Verhalten	_	
+2-18	159-162	von	_	
+2-19	163-167	Auto	_	
+2-20	167-168	-	_	
+2-21	169-172	und	_	
+2-22	173-183	Radfahrern	_	
+2-23	184-187	auf	_	
+2-24	188-194	beiden	_	
+2-25	195-201	Seiten	_	
+2-26	201-202	.	_	
+
+#Text=Dass viele Einbahnstraßen in der Altstadt auch für Fahrradfahrer freigegeben sind, scheint die meisten Autofahrer nicht zu interessieren.
+3-1	203-207	Dass	_	
+3-2	208-213	viele	_	
+3-3	214-228	Einbahnstraßen	_	
+3-4	229-231	in	_	
+3-5	232-235	der	_	
+3-6	236-244	Altstadt	_	
+3-7	245-249	auch	_	
+3-8	250-253	für	_	
+3-9	254-267	Fahrradfahrer	_	
+3-10	268-279	freigegeben	_	
+3-11	280-284	sind	_	
+3-12	284-285	,	_	
+3-13	286-293	scheint	_	
+3-14	294-297	die	_	
+3-15	298-305	meisten	_	
+3-16	306-316	Autofahrer	_	
+3-17	317-322	nicht	_	
+3-18	323-325	zu	_	
+3-19	326-339	interessieren	_	
+3-20	339-340	.	_	
+
+#Text=Täglich erlebe ich mindestens eine Schrecksekunde, in der mich ein entgegenkommender (viel zu schnell fahrender) Autofahrer auf den Bürgersteig drängt, wodurch eine Kollision gerade noch so verhindert werden kann oder ich zwischen parkenden Autos (und potentiellen offenen Türen) und fahrendem Verkehr das kleinere Übel wählen muss.
+4-1	341-348	Täglich	_	
+4-2	349-355	erlebe	_	
+4-3	356-359	ich	_	
+4-4	360-370	mindestens	_	
+4-5	371-375	eine	_	
+4-6	376-390	Schrecksekunde	_	
+4-7	390-391	,	_	
+4-8	392-394	in	_	
+4-9	395-398	der	_	
+4-10	399-403	mich	_	
+4-11	404-407	ein	_	
+4-12	408-425	entgegenkommender	_	
+4-13	426-427	(	_	
+4-14	427-431	viel	_	
+4-15	432-434	zu	_	
+4-16	435-442	schnell	_	
+4-17	443-452	fahrender	_	
+4-18	452-453	)	_	
+4-19	454-464	Autofahrer	_	
+4-20	465-468	auf	_	
+4-21	469-472	den	_	
+4-22	473-484	Bürgersteig	_	
+4-23	485-491	drängt	_	
+4-24	491-492	,	_	
+4-25	493-500	wodurch	_	
+4-26	501-505	eine	_	
+4-27	506-515	Kollision	_	
+4-28	516-522	gerade	_	
+4-29	523-527	noch	_	
+4-30	528-530	so	_	
+4-31	531-541	verhindert	_	
+4-32	542-548	werden	_	
+4-33	549-553	kann	_	
+4-34	554-558	oder	_	
+4-35	559-562	ich	_	
+4-36	563-571	zwischen	_	
+4-37	572-581	parkenden	_	
+4-38	582-587	Autos	_	
+4-39	588-589	(	_	
+4-40	589-592	und	_	
+4-41	593-605	potentiellen	_	
+4-42	606-613	offenen	_	
+4-43	614-619	Türen	_	
+4-44	619-620	)	_	
+4-45	621-624	und	_	
+4-46	625-634	fahrendem	_	
+4-47	635-642	Verkehr	_	
+4-48	643-646	das	_	
+4-49	647-655	kleinere	_	
+4-50	656-660	Übel	_	
+4-51	661-667	wählen	_	
+4-52	668-672	muss	_	
+4-53	672-673	.	_	
+
+#Text=Fahrradfahren in Bonn macht keinen Spaß sondern kostet sinnlose Nerven!
+5-1	674-687	Fahrradfahren	_	
+5-2	688-690	in	*[11]	
+5-3	691-695	Bonn	*[11]	
+5-4	696-701	macht	_	
+5-5	702-708	keinen	_	
+5-6	709-713	Spaß	_	
+5-7	714-721	sondern	_	
+5-8	722-728	kostet	_	
+5-9	729-737	sinnlose	_	
+5-10	738-744	Nerven	_	
+5-11	744-745	!	_	
+
+#Text=Fahrradfreundlich geht anders.
+6-1	746-763	Fahrradfreundlich	_	
+6-2	764-768	geht	_	
+6-3	769-775	anders	_	
+6-4	775-776	.	_	
+
+#Text=Aber auch viele Radfahrer scheinen zu denken, dass die StVO nicht für sie gilt.
+7-1	777-781	Aber	_	
+7-2	782-786	auch	_	
+7-3	787-792	viele	_	
+7-4	793-802	Radfahrer	_	
+7-5	803-811	scheinen	_	
+7-6	812-814	zu	_	
+7-7	815-821	denken	_	
+7-8	821-822	,	_	
+7-9	823-827	dass	_	
+7-10	828-831	die	_	
+7-11	832-836	StVO	_	
+7-12	837-842	nicht	_	
+7-13	843-846	für	_	
+7-14	847-850	sie	_	
+7-15	851-855	gilt	_	
+7-16	855-856	.	_	
+
+#Text=Wenn ich an einer roten Ampel halte, werde ich fast schon spöttisch angeschaut.
+8-1	857-861	Wenn	_	
+8-2	862-865	ich	_	
+8-3	866-868	an	_	
+8-4	869-874	einer	_	
+8-5	875-880	roten	_	
+8-6	881-886	Ampel	_	
+8-7	887-892	halte	_	
+8-8	892-893	,	_	
+8-9	894-899	werde	_	
+8-10	900-903	ich	_	
+8-11	904-908	fast	_	
+8-12	909-914	schon	_	
+8-13	915-924	spöttisch	_	
+8-14	925-935	angeschaut	_	
+8-15	935-936	.	_	
+
+#Text=Aber wer sich nicht an die Regeln hält, kann auch nicht erwarten, dass er als vollwertiger Teilnehmer im Straßenverkehr gesehen wird.
+9-1	937-941	Aber	_	
+9-2	942-945	wer	_	
+9-3	946-950	sich	_	
+9-4	951-956	nicht	_	
+9-5	957-959	an	_	
+9-6	960-963	die	_	
+9-7	964-970	Regeln	_	
+9-8	971-975	hält	_	
+9-9	975-976	,	_	
+9-10	977-981	kann	_	
+9-11	982-986	auch	_	
+9-12	987-992	nicht	_	
+9-13	993-1001	erwarten	_	
+9-14	1001-1002	,	_	
+9-15	1003-1007	dass	_	
+9-16	1008-1010	er	_	
+9-17	1011-1014	als	_	
+9-18	1015-1027	vollwertiger	_	
+9-19	1028-1038	Teilnehmer	_	
+9-20	1039-1041	im	_	
+9-21	1042-1056	Straßenverkehr	_	
+9-22	1057-1064	gesehen	_	
+9-23	1065-1069	wird	_	
+9-24	1069-1070	.	_	
+
+#Text=Ich würde mir wünschen, dass die Stadt sich mehr für gegenseitiges Verständnis, Achtung und ein vernünftiges Zusammenfahren einsetzt.
+10-1	1071-1074	Ich	_	
+10-2	1075-1080	würde	_	
+10-3	1081-1084	mir	_	
+10-4	1085-1093	wünschen	_	
+10-5	1093-1094	,	_	
+10-6	1095-1099	dass	_	
+10-7	1100-1103	die	_	
+10-8	1104-1109	Stadt	_	
+10-9	1110-1114	sich	_	
+10-10	1115-1119	mehr	_	
+10-11	1120-1123	für	_	
+10-12	1124-1137	gegenseitiges	_	
+10-13	1138-1149	Verständnis	_	
+10-14	1149-1150	,	_	
+10-15	1151-1158	Achtung	_	
+10-16	1159-1162	und	_	
+10-17	1163-1166	ein	_	
+10-18	1167-1179	vernünftiges	_	
+10-19	1180-1194	Zusammenfahren	_	
+10-20	1195-1203	einsetzt	_	
+10-21	1203-1204	.	_	

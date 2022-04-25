@@ -1,0 +1,169 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Kreuzung
+1-1	0-11	Gefährliche	_	
+1-2	12-20	Kreuzung	_	
+
+#Text=An der Kreuzung Theaterstraße-Kölnstraße ereigneten sich in der Vergangenheit schon mehrere Unfällle ereignet.
+2-1	23-25	An	*[12]	
+2-2	26-29	der	*[12]	
+2-3	30-38	Kreuzung	*[12]	
+2-4	39-63	Theaterstraße-Kölnstraße	*[12]	
+2-5	64-74	ereigneten	_	
+2-6	75-79	sich	_	
+2-7	80-82	in	_	
+2-8	83-86	der	_	
+2-9	87-100	Vergangenheit	_	
+2-10	101-106	schon	_	
+2-11	107-114	mehrere	_	
+2-12	115-123	Unfällle	_	
+2-13	124-132	ereignet	_	
+2-14	132-133	.	_	
+
+#Text=1. Altpapier-und Altglascontainer stehen direkt an der Kreuzung, sodass die Einsicht in die Kreuzung behindert wird.
+3-1	134-135	1	_	
+3-2	135-136	.	_	
+3-3	137-150	Altpapier-und	_	
+3-4	151-167	Altglascontainer	_	
+3-5	168-174	stehen	_	
+3-6	175-181	direkt	_	
+3-7	182-184	an	_	
+3-8	185-188	der	_	
+3-9	189-197	Kreuzung	_	
+3-10	197-198	,	_	
+3-11	199-205	sodass	_	
+3-12	206-209	die	_	
+3-13	210-218	Einsicht	_	
+3-14	219-221	in	_	
+3-15	222-225	die	_	
+3-16	226-234	Kreuzung	_	
+3-17	235-244	behindert	_	
+3-18	245-249	wird	_	
+3-19	249-250	.	_	
+
+#Text=2. Einige Autofahrer_innen nutzen die Kölnstraße als Rennstrecke, die Geschwindigkeitsbegrenzung von 50km/h wird überschritten.
+4-1	251-252	2	_	
+4-2	252-253	.	_	
+4-3	254-260	Einige	_	
+4-4	261-277	Autofahrer_innen	_	
+4-5	278-284	nutzen	_	
+4-6	285-288	die	*[13]	
+4-7	289-299	Kölnstraße	*[13]	
+4-8	300-303	als	_	
+4-9	304-315	Rennstrecke	_	
+4-10	315-316	,	_	
+4-11	317-320	die	_	
+4-12	321-347	Geschwindigkeitsbegrenzung	_	
+4-13	348-351	von	_	
+4-14	352-356	50km	_	
+4-15	356-357	/	_	
+4-16	357-358	h	_	
+4-17	359-363	wird	_	
+4-18	364-377	überschritten	_	
+4-19	377-378	.	_	
+
+#Text=3. Geisterfahrer_innen sind unterwegs, vom Stiftsplatz kommend Richtung Wilhelmsplatz werden zwei Fahrbahnen genutzt, da die Markierungen kaum zu erkennen sind.
+5-1	379-380	3	_	
+5-2	380-381	.	_	
+5-3	382-401	Geisterfahrer_innen	_	
+5-4	402-406	sind	_	
+5-5	407-416	unterwegs	_	
+5-6	416-417	,	_	
+5-7	418-421	vom	*[14]	
+5-8	422-433	Stiftsplatz	*[14]	
+5-9	434-441	kommend	*[14]	
+5-10	442-450	Richtung	*[14]	
+5-11	451-464	Wilhelmsplatz	*[14]	
+5-12	465-471	werden	_	
+5-13	472-476	zwei	_	
+5-14	477-487	Fahrbahnen	_	
+5-15	488-495	genutzt	_	
+5-16	495-496	,	_	
+5-17	497-499	da	_	
+5-18	500-503	die	_	
+5-19	504-516	Markierungen	_	
+5-20	517-521	kaum	_	
+5-21	522-524	zu	_	
+5-22	525-533	erkennen	_	
+5-23	534-538	sind	_	
+5-24	538-539	.	_	
+
+#Text=Das Zusammenwirken dieser Punkte führt zu regelmäßigen Unfällen.
+6-1	540-543	Das	_	
+6-2	544-558	Zusammenwirken	_	
+6-3	559-565	dieser	_	
+6-4	566-572	Punkte	_	
+6-5	573-578	führt	_	
+6-6	579-581	zu	_	
+6-7	582-594	regelmäßigen	_	
+6-8	595-603	Unfällen	_	
+6-9	603-604	.	_	
+
+#Text=(Auto-und Fahrradunfälle)
+7-1	605-606	(	_	
+7-2	606-614	Auto-und	_	
+7-3	615-629	Fahrradunfälle	_	
+7-4	629-630	)	_	
+
+#Text=Voschläge zu den Punkten:
+8-1	631-640	Voschläge	_	
+8-2	641-643	zu	_	
+8-3	644-647	den	_	
+8-4	648-655	Punkten	_	
+8-5	655-656	:	_	
+
+#Text=1) Container von der Kreuzung entfernen (z.B. einen anderen Platz an der Theaterstraße nutzen).
+9-1	657-658	1	_	
+9-2	658-659	)	_	
+9-3	660-669	Container	_	
+9-4	670-673	von	_	
+9-5	674-677	der	_	
+9-6	678-686	Kreuzung	_	
+9-7	687-696	entfernen	_	
+9-8	697-698	(	_	
+9-9	698-701	z.B	_	
+9-10	701-702	.	_	
+9-11	703-708	einen	_	
+9-12	709-716	anderen	_	
+9-13	717-722	Platz	_	
+9-14	723-725	an	*[15]	
+9-15	726-729	der	*[15]	
+9-16	730-743	Theaterstraße	*[15]	
+9-17	744-750	nutzen	_	
+9-18	750-751	)	_	
+9-19	751-752	.	_	
+
+#Text=2) Etablierung einer 30er-Zone (ggbf. durch bauliche Maßnahmen, wie Bremsschwelle oder Radarkontrollen)
+10-1	753-754	2	_	
+10-2	754-755	)	_	
+10-3	756-767	Etablierung	_	
+10-4	768-773	einer	_	
+10-5	774-783	30er-Zone	_	
+10-6	784-785	(	_	
+10-7	785-789	ggbf	_	
+10-8	789-790	.	_	
+10-9	791-796	durch	_	
+10-10	797-805	bauliche	_	
+10-11	806-815	Maßnahmen	_	
+10-12	815-816	,	_	
+10-13	817-820	wie	_	
+10-14	821-834	Bremsschwelle	_	
+10-15	835-839	oder	_	
+10-16	840-855	Radarkontrollen	_	
+10-17	855-856	)	_	
+
+#Text=3) Straßenmarkierungen auffrischen, mehrere Markierungen am Boden,
+11-1	857-858	3	_	
+11-2	858-859	)	_	
+11-3	860-879	Straßenmarkierungen	_	
+11-4	880-891	auffrischen	_	
+11-5	891-892	,	_	
+11-6	893-900	mehrere	_	
+11-7	901-913	Markierungen	_	
+11-8	914-916	am	_	
+11-9	917-922	Boden	_	
+11-10	922-923	,	_	

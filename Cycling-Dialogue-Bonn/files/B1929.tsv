@@ -1,0 +1,130 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkende Fahrzeuge auf Geh/Radweg
+1-1	0-8	Parkende	_	
+1-2	9-18	Fahrzeuge	_	
+1-3	19-22	auf	_	
+1-4	23-26	Geh	_	
+1-5	26-27	/	_	
+1-6	27-33	Radweg	_	
+
+#Text=1. Im Bereich der Einmündung Lenaustraße/Grootestrasse stehen Wertstoffcontainer.
+2-1	36-37	1	_	
+2-2	37-38	.	_	
+2-3	39-41	Im	_	
+2-4	42-49	Bereich	_	
+2-5	50-53	der	_	
+2-6	54-64	Einmündung	*[9]	
+2-7	65-76	Lenaustraße	*[9]	
+2-8	76-77	/	*[9]	
+2-9	77-90	Grootestrasse	*[9]	
+2-10	91-97	stehen	_	
+2-11	98-116	Wertstoffcontainer	_	
+2-12	116-117	.	_	
+
+#Text=Leider stehen dort oft Fahrzauge um ihren Müll dort loszuwerden und blockieren den kompleten Gehweg.
+3-1	118-124	Leider	_	
+3-2	125-131	stehen	_	
+3-3	132-136	dort	_	
+3-4	137-140	oft	_	
+3-5	141-150	Fahrzauge	_	
+3-6	151-153	um	_	
+3-7	154-159	ihren	_	
+3-8	160-164	Müll	_	
+3-9	165-169	dort	_	
+3-10	170-181	loszuwerden	_	
+3-11	182-185	und	_	
+3-12	186-196	blockieren	_	
+3-13	197-200	den	_	
+3-14	201-210	kompleten	_	
+3-15	211-217	Gehweg	_	
+3-16	217-218	.	_	
+
+#Text=Vorschlag: Die Container in die Lenaustrase verlegen.
+4-1	219-228	Vorschlag	_	
+4-2	228-229	:	_	
+4-3	230-233	Die	_	
+4-4	234-243	Container	_	
+4-5	244-246	in	*[10]	
+4-6	247-250	die	*[10]	
+4-7	251-262	Lenaustrase	*[10]	
+4-8	263-271	verlegen	_	
+4-9	271-272	.	_	
+
+#Text=Dort ist mehr Platz für Parker.
+5-1	273-277	Dort	_	
+5-2	278-281	ist	_	
+5-3	282-286	mehr	_	
+5-4	287-292	Platz	_	
+5-5	293-296	für	_	
+5-6	297-303	Parker	_	
+5-7	303-304	.	_	
+
+#Text=2. Ein paar Meter davor befinden sich Erdbeerfelder.
+6-1	305-306	2	_	
+6-2	306-307	.	_	
+6-3	308-311	Ein	_	
+6-4	312-316	paar	_	
+6-5	317-322	Meter	_	
+6-6	323-328	davor	_	
+6-7	329-337	befinden	_	
+6-8	338-342	sich	_	
+6-9	343-356	Erdbeerfelder	_	
+6-10	356-357	.	_	
+
+#Text=Die Firma Ritter verkauft dort im Frühjahr direkt an der Strasse, was dazu führt, das der Gehweg als Parkfläche zugeparkt wird.
+7-1	358-361	Die	_	
+7-2	362-367	Firma	_	
+7-3	368-374	Ritter	_	
+7-4	375-383	verkauft	_	
+7-5	384-388	dort	_	
+7-6	389-391	im	_	
+7-7	392-400	Frühjahr	_	
+7-8	401-407	direkt	_	
+7-9	408-410	an	_	
+7-10	411-414	der	_	
+7-11	415-422	Strasse	_	
+7-12	422-423	,	_	
+7-13	424-427	was	_	
+7-14	428-432	dazu	_	
+7-15	433-438	führt	_	
+7-16	438-439	,	_	
+7-17	440-443	das	_	
+7-18	444-447	der	_	
+7-19	448-454	Gehweg	_	
+7-20	455-458	als	_	
+7-21	459-469	Parkfläche	_	
+7-22	470-479	zugeparkt	_	
+7-23	480-484	wird	_	
+7-24	484-485	.	_	
+
+#Text=Vorschlag: Die Firma Ritter schafft eigene Parkflächen neben dem Radweg in der Zeit des Verkaufts oder verlegt den Verkaufsstand an einen geeigneteren Ort.
+8-1	486-495	Vorschlag	_	
+8-2	495-496	:	_	
+8-3	497-500	Die	_	
+8-4	501-506	Firma	_	
+8-5	507-513	Ritter	_	
+8-6	514-521	schafft	_	
+8-7	522-528	eigene	_	
+8-8	529-540	Parkflächen	_	
+8-9	541-546	neben	_	
+8-10	547-550	dem	_	
+8-11	551-557	Radweg	_	
+8-12	558-560	in	_	
+8-13	561-564	der	_	
+8-14	565-569	Zeit	_	
+8-15	570-573	des	_	
+8-16	574-583	Verkaufts	_	
+8-17	584-588	oder	_	
+8-18	589-596	verlegt	_	
+8-19	597-600	den	_	
+8-20	601-614	Verkaufsstand	_	
+8-21	615-617	an	_	
+8-22	618-623	einen	_	
+8-23	624-636	geeigneteren	_	
+8-24	637-640	Ort	_	
+8-25	640-641	.	_	

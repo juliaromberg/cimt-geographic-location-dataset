@@ -1,0 +1,127 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährlicher Radstreifen
+1-1	0-12	Gefährlicher	_	
+1-2	13-24	Radstreifen	_	
+
+#Text=Es gibt keinen Radweg, auf dem ich mich unsicherer fühle als auf der dem Teilstück der Endenicher Straße zwischen Baumschulallee und Endenicher Ei.
+2-1	27-29	Es	_	
+2-2	30-34	gibt	_	
+2-3	35-41	keinen	_	
+2-4	42-48	Radweg	_	
+2-5	48-49	,	_	
+2-6	50-53	auf	_	
+2-7	54-57	dem	_	
+2-8	58-61	ich	_	
+2-9	62-66	mich	_	
+2-10	67-77	unsicherer	_	
+2-11	78-83	fühle	_	
+2-12	84-87	als	_	
+2-13	88-91	auf	_	
+2-14	92-95	der	_	
+2-15	96-99	dem	_	
+2-16	100-109	Teilstück	_	
+2-17	110-113	der	_	
+2-18	114-124	Endenicher	*[7]	
+2-19	125-131	Straße	*[7]	
+2-20	132-140	zwischen	*[7]	
+2-21	141-155	Baumschulallee	*[7]	
+2-22	156-159	und	*[7]	
+2-23	160-170	Endenicher	*[7]	
+2-24	171-173	Ei	*[7]	
+2-25	173-174	.	_	
+
+#Text=Der Radstreifen ist hier extrem schmal, z.T. sehr uneben wegen Schlaglöchern und Vertiefungen der Fahrbahn durch Busse.
+3-1	175-178	Der	_	
+3-2	179-190	Radstreifen	_	
+3-3	191-194	ist	_	
+3-4	195-199	hier	_	
+3-5	200-206	extrem	_	
+3-6	207-213	schmal	_	
+3-7	213-214	,	_	
+3-8	215-218	z.T	_	
+3-9	218-219	.	_	
+3-10	220-224	sehr	_	
+3-11	225-231	uneben	_	
+3-12	232-237	wegen	_	
+3-13	238-251	Schlaglöchern	_	
+3-14	252-255	und	_	
+3-15	256-268	Vertiefungen	_	
+3-16	269-272	der	_	
+3-17	273-281	Fahrbahn	_	
+3-18	282-287	durch	_	
+3-19	288-293	Busse	_	
+3-20	293-294	.	_	
+
+#Text=Da der Autoverkehr hier auf zwei ebenfalls sehr schmalen Spuren geführt wird, wird man fast immer mit nur wenigen Zentimetern Abstand überholt.
+4-1	295-297	Da	_	
+4-2	298-301	der	_	
+4-3	302-313	Autoverkehr	_	
+4-4	314-318	hier	_	
+4-5	319-322	auf	_	
+4-6	323-327	zwei	_	
+4-7	328-337	ebenfalls	_	
+4-8	338-342	sehr	_	
+4-9	343-351	schmalen	_	
+4-10	352-358	Spuren	_	
+4-11	359-366	geführt	_	
+4-12	367-371	wird	_	
+4-13	371-372	,	_	
+4-14	373-377	wird	_	
+4-15	378-381	man	_	
+4-16	382-386	fast	_	
+4-17	387-392	immer	_	
+4-18	393-396	mit	_	
+4-19	397-400	nur	_	
+4-20	401-408	wenigen	_	
+4-21	409-420	Zentimetern	_	
+4-22	421-428	Abstand	_	
+4-23	429-437	überholt	_	
+4-24	437-438	.	_	
+
+#Text=Hier wirkt der Radstreifen eindeutig mehr gefährdend als schützend!
+5-1	439-443	Hier	_	
+5-2	444-449	wirkt	_	
+5-3	450-453	der	_	
+5-4	454-465	Radstreifen	_	
+5-5	466-475	eindeutig	_	
+5-6	476-480	mehr	_	
+5-7	481-491	gefährdend	_	
+5-8	492-495	als	_	
+5-9	496-505	schützend	_	
+5-10	505-506	!	_	
+
+#Text=Verbesserungsvorschlag: Autoverkehr stadtauswärts über eine breite Spur führen und rechts davon einen breiten, vor Falschparkern geschützten Fahrradweg einrichten, der zweispurig in beide Richtungen nutzbar ist.
+6-1	507-529	Verbesserungsvorschlag	_	
+6-2	529-530	:	_	
+6-3	531-542	Autoverkehr	_	
+6-4	543-556	stadtauswärts	_	
+6-5	557-561	über	_	
+6-6	562-566	eine	_	
+6-7	567-573	breite	_	
+6-8	574-578	Spur	_	
+6-9	579-585	führen	_	
+6-10	586-589	und	_	
+6-11	590-596	rechts	_	
+6-12	597-602	davon	_	
+6-13	603-608	einen	_	
+6-14	609-616	breiten	_	
+6-15	616-617	,	_	
+6-16	618-621	vor	_	
+6-17	622-635	Falschparkern	_	
+6-18	636-647	geschützten	_	
+6-19	648-658	Fahrradweg	_	
+6-20	659-669	einrichten	_	
+6-21	669-670	,	_	
+6-22	671-674	der	_	
+6-23	675-685	zweispurig	_	
+6-24	686-688	in	_	
+6-25	689-694	beide	_	
+6-26	695-705	Richtungen	_	
+6-27	706-713	nutzbar	_	
+6-28	714-717	ist	_	
+6-29	717-718	.	_	

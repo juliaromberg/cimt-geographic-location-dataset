@@ -1,0 +1,152 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=gefährlicher Radweg
+1-1	0-12	gefährlicher	_	
+1-2	13-19	Radweg	_	
+
+#Text=Der Radweg an der Clemens-August-Str. ist sehr gefährlich.
+2-1	22-25	Der	*[10]	
+2-2	26-32	Radweg	*[10]	
+2-3	33-35	an	*[10]	
+2-4	36-39	der	*[10]	
+2-5	40-58	Clemens-August-Str	*[10]	
+2-6	58-59	.	_	
+2-7	60-63	ist	_	
+2-8	64-68	sehr	_	
+2-9	69-79	gefährlich	_	
+2-10	79-80	.	_	
+
+#Text=Einparkende Autos fahren dabei halb oder sogar ganz (oft bei Vorwärtseinparkern der Fall) auf den Radweg.
+3-1	81-92	Einparkende	_	
+3-2	93-98	Autos	_	
+3-3	99-105	fahren	_	
+3-4	106-111	dabei	_	
+3-5	112-116	halb	_	
+3-6	117-121	oder	_	
+3-7	122-127	sogar	_	
+3-8	128-132	ganz	_	
+3-9	133-134	(	_	
+3-10	134-137	oft	_	
+3-11	138-141	bei	_	
+3-12	142-160	Vorwärtseinparkern	_	
+3-13	161-164	der	_	
+3-14	165-169	Fall	_	
+3-15	169-170	)	_	
+3-16	171-174	auf	_	
+3-17	175-178	den	_	
+3-18	179-185	Radweg	_	
+3-19	185-186	.	_	
+
+#Text=Begrenzende Poller gibt es an dieser Stelle leider nicht.
+4-1	187-198	Begrenzende	_	
+4-2	199-205	Poller	_	
+4-3	206-210	gibt	_	
+4-4	211-213	es	_	
+4-5	214-216	an	_	
+4-6	217-223	dieser	_	
+4-7	224-230	Stelle	_	
+4-8	231-237	leider	_	
+4-9	238-243	nicht	_	
+4-10	243-244	.	_	
+
+#Text=Eine sehr gefährliche Situation, da die einparkenden Autofahrer eigentlich nie mit vorbeifahrenden Radfahrern rechnen.
+5-1	245-249	Eine	_	
+5-2	250-254	sehr	_	
+5-3	255-266	gefährliche	_	
+5-4	267-276	Situation	_	
+5-5	276-277	,	_	
+5-6	278-280	da	_	
+5-7	281-284	die	_	
+5-8	285-297	einparkenden	_	
+5-9	298-308	Autofahrer	_	
+5-10	309-319	eigentlich	_	
+5-11	320-323	nie	_	
+5-12	324-327	mit	_	
+5-13	328-343	vorbeifahrenden	_	
+5-14	344-354	Radfahrern	_	
+5-15	355-362	rechnen	_	
+5-16	362-363	.	_	
+
+#Text=Auch für Fußgänger ist die Situation in Poppelsdorf sehr unbefriedigend.
+6-1	364-368	Auch	_	
+6-2	369-372	für	_	
+6-3	373-382	Fußgänger	_	
+6-4	383-386	ist	_	
+6-5	387-390	die	_	
+6-6	391-400	Situation	_	
+6-7	401-403	in	*[11]	
+6-8	404-415	Poppelsdorf	*[11]	
+6-9	416-420	sehr	_	
+6-10	421-435	unbefriedigend	_	
+6-11	435-436	.	_	
+
+#Text=So müssen sich Fußgänger und Radfahrer den schmalen Bereich teilen und hoffen, daß sie nicht von einem einparkenden Auto erfasst werden oder sich gegenseitig behindern.
+7-1	437-439	So	_	
+7-2	440-446	müssen	_	
+7-3	447-451	sich	_	
+7-4	452-461	Fußgänger	_	
+7-5	462-465	und	_	
+7-6	466-475	Radfahrer	_	
+7-7	476-479	den	_	
+7-8	480-488	schmalen	_	
+7-9	489-496	Bereich	_	
+7-10	497-503	teilen	_	
+7-11	504-507	und	_	
+7-12	508-514	hoffen	_	
+7-13	514-515	,	_	
+7-14	516-519	daß	_	
+7-15	520-523	sie	_	
+7-16	524-529	nicht	_	
+7-17	530-533	von	_	
+7-18	534-539	einem	_	
+7-19	540-552	einparkenden	_	
+7-20	553-557	Auto	_	
+7-21	558-565	erfasst	_	
+7-22	566-572	werden	_	
+7-23	573-577	oder	_	
+7-24	578-582	sich	_	
+7-25	583-594	gegenseitig	_	
+7-26	595-604	behindern	_	
+7-27	604-605	.	_	
+
+#Text=Vorschlag: Parkstreifen nur noch auf einer Straßenseite und mehr Platz für Fußgänger und Radfahrer schaffen.
+8-1	606-615	Vorschlag	_	
+8-2	615-616	:	_	
+8-3	617-629	Parkstreifen	_	
+8-4	630-633	nur	_	
+8-5	634-638	noch	_	
+8-6	639-642	auf	_	
+8-7	643-648	einer	_	
+8-8	649-661	Straßenseite	_	
+8-9	662-665	und	_	
+8-10	666-670	mehr	_	
+8-11	671-676	Platz	_	
+8-12	677-680	für	_	
+8-13	681-690	Fußgänger	_	
+8-14	691-694	und	_	
+8-15	695-704	Radfahrer	_	
+8-16	705-713	schaffen	_	
+8-17	713-714	.	_	
+
+#Text=Für den Autoverkehr sind in Poppelsdorf dringend mehr Parkplätze erforderlich - evt. ein Parkhaus bauen?
+9-1	715-718	Für	_	
+9-2	719-722	den	_	
+9-3	723-734	Autoverkehr	_	
+9-4	735-739	sind	_	
+9-5	740-742	in	*[12]	
+9-6	743-754	Poppelsdorf	*[12]	
+9-7	755-763	dringend	_	
+9-8	764-768	mehr	_	
+9-9	769-779	Parkplätze	_	
+9-10	780-792	erforderlich	_	
+9-11	793-794	-	_	
+9-12	795-798	evt	_	
+9-13	798-799	.	_	
+9-14	800-803	ein	_	
+9-15	804-812	Parkhaus	_	
+9-16	813-818	bauen	_	
+9-17	818-819	?	_	

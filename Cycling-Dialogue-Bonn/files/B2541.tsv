@@ -1,0 +1,140 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rückspiegel?
+1-1	0-11	Rückspiegel	_	
+1-2	11-12	?	_	
+
+#Text=Jeden Tag zur Uni fahre ich über die Oxfordstraße und den Belderweg.
+2-1	15-20	Jeden	_	
+2-2	21-24	Tag	_	
+2-3	25-28	zur	_	
+2-4	29-32	Uni	_	
+2-5	33-38	fahre	_	
+2-6	39-42	ich	_	
+2-7	43-47	über	*[7]	
+2-8	48-51	die	*[7]	
+2-9	52-64	Oxfordstraße	*[7]	
+2-10	65-68	und	*[7]	
+2-11	69-72	den	*[7]	
+2-12	73-82	Belderweg	*[7]	
+2-13	82-83	.	_	
+
+#Text=Fast täglich kommt es zu einer brenzlichen Situation wenn ich auf der Radweg der Straße geradeaus weiter folgen will und die Busse rechtsabbiegen, ohne mich zu sehen.
+3-1	84-88	Fast	_	
+3-2	89-96	täglich	_	
+3-3	97-102	kommt	_	
+3-4	103-105	es	_	
+3-5	106-108	zu	_	
+3-6	109-114	einer	_	
+3-7	115-126	brenzlichen	_	
+3-8	127-136	Situation	_	
+3-9	137-141	wenn	_	
+3-10	142-145	ich	_	
+3-11	146-149	auf	_	
+3-12	150-153	der	_	
+3-13	154-160	Radweg	_	
+3-14	161-164	der	_	
+3-15	165-171	Straße	_	
+3-16	172-181	geradeaus	_	
+3-17	182-188	weiter	_	
+3-18	189-195	folgen	_	
+3-19	196-200	will	_	
+3-20	201-204	und	_	
+3-21	205-208	die	_	
+3-22	209-214	Busse	_	
+3-23	215-229	rechtsabbiegen	_	
+3-24	229-230	,	_	
+3-25	231-235	ohne	_	
+3-26	236-240	mich	_	
+3-27	241-243	zu	_	
+3-28	244-249	sehen	_	
+3-29	249-250	.	_	
+
+#Text=Natürlich mit dem Totenwinkel kann es passieren, dass ich übersehen sehen werden, aber so oft wie ich einem Bus schon ausweichen musste und über den Bordsteig mich retten musste ist es viel zu gefährlich.
+4-1	251-260	Natürlich	_	
+4-2	261-264	mit	_	
+4-3	265-268	dem	_	
+4-4	269-280	Totenwinkel	_	
+4-5	281-285	kann	_	
+4-6	286-288	es	_	
+4-7	289-298	passieren	_	
+4-8	298-299	,	_	
+4-9	300-304	dass	_	
+4-10	305-308	ich	_	
+4-11	309-318	übersehen	_	
+4-12	319-324	sehen	_	
+4-13	325-331	werden	_	
+4-14	331-332	,	_	
+4-15	333-337	aber	_	
+4-16	338-340	so	_	
+4-17	341-344	oft	_	
+4-18	345-348	wie	_	
+4-19	349-352	ich	_	
+4-20	353-358	einem	_	
+4-21	359-362	Bus	_	
+4-22	363-368	schon	_	
+4-23	369-379	ausweichen	_	
+4-24	380-386	musste	_	
+4-25	387-390	und	_	
+4-26	391-395	über	_	
+4-27	396-399	den	_	
+4-28	400-409	Bordsteig	_	
+4-29	410-414	mich	_	
+4-30	415-421	retten	_	
+4-31	422-428	musste	_	
+4-32	429-432	ist	_	
+4-33	433-435	es	_	
+4-34	436-440	viel	_	
+4-35	441-443	zu	_	
+4-36	444-454	gefährlich	_	
+4-37	454-455	.	_	
+
+#Text=Ich glaube eine Radwegfläche an der Ampel, die vor den Autos verführt, damit wir gesehen werden, würde schon einiges tun!
+5-1	456-459	Ich	_	
+5-2	460-466	glaube	_	
+5-3	467-471	eine	_	
+5-4	472-484	Radwegfläche	_	
+5-5	485-487	an	_	
+5-6	488-491	der	_	
+5-7	492-497	Ampel	_	
+5-8	497-498	,	_	
+5-9	499-502	die	_	
+5-10	503-506	vor	_	
+5-11	507-510	den	_	
+5-12	511-516	Autos	_	
+5-13	517-525	verführt	_	
+5-14	525-526	,	_	
+5-15	527-532	damit	_	
+5-16	533-536	wir	_	
+5-17	537-544	gesehen	_	
+5-18	545-551	werden	_	
+5-19	551-552	,	_	
+5-20	553-558	würde	_	
+5-21	559-564	schon	_	
+5-22	565-572	einiges	_	
+5-23	573-576	tun	_	
+5-24	576-577	!	_	
+
+#Text=Mit freundlichen Grüße [Name entfernt] geboren in der fahrradfreundlichsten Stadt Deutschlands (unter 100.000 Einwohner)
+6-1	578-581	Mit	_	
+6-2	582-594	freundlichen	_	
+6-3	595-600	Grüße	_	
+6-4	601-602	[	_	
+6-5	602-606	Name	_	
+6-6	607-615	entfernt	_	
+6-7	615-616	]	_	
+6-8	617-624	geboren	_	
+6-9	625-627	in	_	
+6-10	628-631	der	_	
+6-11	632-653	fahrradfreundlichsten	_	
+6-12	654-659	Stadt	_	
+6-13	660-672	Deutschlands	_	
+6-14	673-674	(	_	
+6-15	674-679	unter	_	
+6-16	680-687	100.000	_	
+6-17	688-697	Einwohner	_	
+6-18	697-698	)	_	

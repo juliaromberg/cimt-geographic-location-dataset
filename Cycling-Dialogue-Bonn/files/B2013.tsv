@@ -1,0 +1,29 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Moderne Abstellanlagen
+1-1	0-7	Moderne	_	
+1-2	8-22	Abstellanlagen	_	
+
+#Text=Das Römerbad sollte mit modernen Abstellanlagen ausgestattet werden.
+2-1	25-28	Das	*[4]	
+2-2	29-37	Römerbad	*[4]	
+2-3	38-44	sollte	_	
+2-4	45-48	mit	_	
+2-5	49-57	modernen	_	
+2-6	58-72	Abstellanlagen	_	
+2-7	73-85	ausgestattet	_	
+2-8	86-92	werden	_	
+2-9	92-93	.	_	
+
+#Text=Zurzeit stehen dort nur unbrauchbare Felgenknicker.
+3-1	94-101	Zurzeit	_	
+3-2	102-108	stehen	_	
+3-3	109-113	dort	_	
+3-4	114-117	nur	_	
+3-5	118-130	unbrauchbare	_	
+3-6	131-144	Felgenknicker	_	
+3-7	144-145	.	_	

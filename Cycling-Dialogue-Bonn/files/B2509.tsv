@@ -1,0 +1,139 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße offiziell gar nicht erreichbar
+1-1	0-13	Fahrradstraße	_	
+1-2	14-23	offiziell	_	
+1-3	24-27	gar	_	
+1-4	28-33	nicht	_	
+1-5	34-44	erreichbar	_	
+
+#Text=Überquert man aus der Niebuhrstraße kommend den Bahnübergang an der Lessingstraße, geht es hinter dem Bahnübergang links in die vor einigen Monaten zur Fahrradsstraße angemalten An der Elisabethkirche.
+2-1	47-56	Überquert	_	
+2-2	57-60	man	_	
+2-3	61-64	aus	*[9]	
+2-4	65-68	der	*[9]	
+2-5	69-82	Niebuhrstraße	*[9]	
+2-6	83-90	kommend	*[9]	
+2-7	91-94	den	*[9]	
+2-8	95-107	Bahnübergang	*[9]	
+2-9	108-110	an	*[9]	
+2-10	111-114	der	*[9]	
+2-11	115-128	Lessingstraße	*[9]	
+2-12	128-129	,	_	
+2-13	130-134	geht	_	
+2-14	135-137	es	_	
+2-15	138-144	hinter	_	
+2-16	145-148	dem	_	
+2-17	149-161	Bahnübergang	_	
+2-18	162-167	links	_	
+2-19	168-170	in	_	
+2-20	171-174	die	_	
+2-21	175-178	vor	_	
+2-22	179-186	einigen	_	
+2-23	187-194	Monaten	_	
+2-24	195-198	zur	_	
+2-25	199-213	Fahrradsstraße	_	
+2-26	214-224	angemalten	_	
+2-27	225-227	An	*[10]	
+2-28	228-231	der	*[10]	
+2-29	232-247	Elisabethkirche	*[10]	
+2-30	247-248	.	_	
+
+#Text=Schön, dass man hier den Radlern was Gutes tun will, aber ohne ein Verwarngeld zu riskieren, kommt man gar nicht dort hin.
+3-1	249-254	Schön	_	
+3-2	254-255	,	_	
+3-3	256-260	dass	_	
+3-4	261-264	man	_	
+3-5	265-269	hier	_	
+3-6	270-273	den	_	
+3-7	274-281	Radlern	_	
+3-8	282-285	was	_	
+3-9	286-291	Gutes	_	
+3-10	292-295	tun	_	
+3-11	296-300	will	_	
+3-12	300-301	,	_	
+3-13	302-306	aber	_	
+3-14	307-311	ohne	_	
+3-15	312-315	ein	_	
+3-16	316-327	Verwarngeld	_	
+3-17	328-330	zu	_	
+3-18	331-340	riskieren	_	
+3-19	340-341	,	_	
+3-20	342-347	kommt	_	
+3-21	348-351	man	_	
+3-22	352-355	gar	_	
+3-23	356-361	nicht	_	
+3-24	362-366	dort	_	
+3-25	367-370	hin	_	
+3-26	370-371	.	_	
+
+#Text=Ein weißer gerader Pfeil auf blauen Grund sagt klar und deutlich: Abbiegen verboten!
+4-1	372-375	Ein	_	
+4-2	376-382	weißer	_	
+4-3	383-390	gerader	_	
+4-4	391-396	Pfeil	_	
+4-5	397-400	auf	_	
+4-6	401-407	blauen	_	
+4-7	408-413	Grund	_	
+4-8	414-418	sagt	_	
+4-9	419-423	klar	_	
+4-10	424-427	und	_	
+4-11	428-436	deutlich	_	
+4-12	436-437	:	_	
+4-13	438-446	Abbiegen	_	
+4-14	447-455	verboten	_	
+4-15	455-456	!	_	
+
+#Text=Tja, und genau dieses hat mir schon ein freundlicher Polizist mitgeteilt.
+5-1	457-460	Tja	_	
+5-2	460-461	,	_	
+5-3	462-465	und	_	
+5-4	466-471	genau	_	
+5-5	472-478	dieses	_	
+5-6	479-482	hat	_	
+5-7	483-486	mir	_	
+5-8	487-492	schon	_	
+5-9	493-496	ein	_	
+5-10	497-509	freundlicher	_	
+5-11	510-518	Polizist	_	
+5-12	519-529	mitgeteilt	_	
+5-13	529-530	.	_	
+
+#Text=Ich war mit dem Rad verbotenerweise links abgebogen.
+6-1	531-534	Ich	_	
+6-2	535-538	war	_	
+6-3	539-542	mit	_	
+6-4	543-546	dem	_	
+6-5	547-550	Rad	_	
+6-6	551-566	verbotenerweise	_	
+6-7	567-572	links	_	
+6-8	573-582	abgebogen	_	
+6-9	582-583	.	_	
+
+#Text=Immerhin beließ er es bei einer mündlichen Ermahnung.
+7-1	584-592	Immerhin	_	
+7-2	593-599	beließ	_	
+7-3	600-602	er	_	
+7-4	603-605	es	_	
+7-5	606-609	bei	_	
+7-6	610-615	einer	_	
+7-7	616-626	mündlichen	_	
+7-8	627-636	Ermahnung	_	
+7-9	636-637	.	_	
+
+#Text=Da sind wir wieder bei dem berühmten Schildbürgerstreich...
+8-1	638-640	Da	_	
+8-2	641-645	sind	_	
+8-3	646-649	wir	_	
+8-4	650-656	wieder	_	
+8-5	657-660	bei	_	
+8-6	661-664	dem	_	
+8-7	665-674	berühmten	_	
+8-8	675-694	Schildbürgerstreich	_	
+8-9	694-695	.	_	
+8-10	695-696	.	_	
+8-11	696-697	.	_	

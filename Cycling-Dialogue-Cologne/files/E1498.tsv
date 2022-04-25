@@ -1,0 +1,62 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Jede Lampe ein Hubbel
+1-1	0-4	Jede	_	
+1-2	5-10	Lampe	_	
+1-3	11-14	ein	_	
+1-4	15-21	Hubbel	_	
+
+#Text=Während der Aspahlt der Inneren Kanalstraße fast so glatt wie ein Babypopo ist, ist die Oberfläche des Radwegs von Ehrenfeld nach Nippens von zahlreichen Querrillen duchzogen, genauer gesagt bei jeder Staßenlaterne.
+2-1	24-31	Während	_	
+2-2	32-35	der	_	
+2-3	36-43	Aspahlt	_	
+2-4	44-47	der	_	
+2-5	48-55	Inneren	*[4]	
+2-6	56-67	Kanalstraße	*[4]	
+2-7	68-72	fast	_	
+2-8	73-75	so	_	
+2-9	76-81	glatt	_	
+2-10	82-85	wie	_	
+2-11	86-89	ein	_	
+2-12	90-98	Babypopo	_	
+2-13	99-102	ist	_	
+2-14	102-103	,	_	
+2-15	104-107	ist	_	
+2-16	108-111	die	_	
+2-17	112-122	Oberfläche	_	
+2-18	123-126	des	_	
+2-19	127-134	Radwegs	_	
+2-20	135-138	von	*[5]	
+2-21	139-148	Ehrenfeld	*[5]	
+2-22	149-153	nach	*[5]	
+2-23	154-161	Nippens	*[5]	
+2-24	162-165	von	_	
+2-25	166-177	zahlreichen	_	
+2-26	178-188	Querrillen	_	
+2-27	189-198	duchzogen	_	
+2-28	198-199	,	_	
+2-29	200-207	genauer	_	
+2-30	208-214	gesagt	_	
+2-31	215-218	bei	_	
+2-32	219-224	jeder	_	
+2-33	225-238	Staßenlaterne	_	
+2-34	238-239	.	_	
+
+#Text=Wie kann es sein, dass Baumaßnahmen so abgeschlossen und abgenommen werden?
+3-1	240-243	Wie	_	
+3-2	244-248	kann	_	
+3-3	249-251	es	_	
+3-4	252-256	sein	_	
+3-5	256-257	,	_	
+3-6	258-262	dass	_	
+3-7	263-275	Baumaßnahmen	_	
+3-8	276-278	so	_	
+3-9	279-292	abgeschlossen	_	
+3-10	293-296	und	_	
+3-11	297-307	abgenommen	_	
+3-12	308-314	werden	_	
+3-13	314-315	?	_	

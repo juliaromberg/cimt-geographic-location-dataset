@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zu wenig Radparkplätze auf dem Schulhof und Umgebung
+1-1	0-2	Zu	_	
+1-2	3-8	wenig	_	
+1-3	9-22	Radparkplätze	_	
+1-4	23-26	auf	_	
+1-5	27-30	dem	_	
+1-6	31-39	Schulhof	_	
+1-7	40-43	und	_	
+1-8	44-52	Umgebung	_	
+
+#Text=Auch als Eingang zur Altstadt sind hier statt Pkw-Stellplätze für Schulkinder Radabstellmöglichkeiten auszuweiten.
+2-1	55-59	Auch	_	
+2-2	60-63	als	_	
+2-3	64-71	Eingang	*[3]	
+2-4	72-75	zur	*[3]	
+2-5	76-84	Altstadt	*[3]	
+2-6	85-89	sind	_	
+2-7	90-94	hier	_	
+2-8	95-100	statt	_	
+2-9	101-116	Pkw-Stellplätze	_	
+2-10	117-120	für	_	
+2-11	121-132	Schulkinder	_	
+2-12	133-156	Radabstellmöglichkeiten	_	
+2-13	157-168	auszuweiten	_	
+2-14	168-169	.	_	

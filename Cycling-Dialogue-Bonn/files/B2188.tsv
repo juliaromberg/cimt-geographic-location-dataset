@@ -1,0 +1,71 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg am blauen Affen ist nicht farblich gekennzeichnet, Fußgänger kreuzen den Radweg
+1-1	0-10	Fahrradweg	_	
+1-2	11-13	am	_	
+1-3	14-20	blauen	_	
+1-4	21-26	Affen	_	
+1-5	27-30	ist	_	
+1-6	31-36	nicht	_	
+1-7	37-45	farblich	_	
+1-8	46-60	gekennzeichnet	_	
+1-9	60-61	,	_	
+1-10	62-71	Fußgänger	_	
+1-11	72-79	kreuzen	_	
+1-12	80-83	den	_	
+1-13	84-90	Radweg	_	
+
+#Text=Der Radweg vor dem blauen Affen ist nicht farblich oder mit Radsymbolen gekennzeichnet.
+2-1	93-96	Der	_	
+2-2	97-103	Radweg	_	
+2-3	104-107	vor	_	
+2-4	108-111	dem	_	
+2-5	112-118	blauen	_	
+2-6	119-124	Affen	_	
+2-7	125-128	ist	_	
+2-8	129-134	nicht	_	
+2-9	135-143	farblich	_	
+2-10	144-148	oder	_	
+2-11	149-152	mit	_	
+2-12	153-164	Radsymbolen	_	
+2-13	165-179	gekennzeichnet	_	
+2-14	179-180	.	_	
+
+#Text=Bei schönen Wetter und am Wochenende kreuzen viele Fußgänger von zwei Fußwegen kommend den Radweg, ohne auf die Radfahrer zu achten.
+3-1	181-184	Bei	_	
+3-2	185-192	schönen	_	
+3-3	193-199	Wetter	_	
+3-4	200-203	und	_	
+3-5	204-206	am	_	
+3-6	207-217	Wochenende	_	
+3-7	218-225	kreuzen	_	
+3-8	226-231	viele	_	
+3-9	232-241	Fußgänger	_	
+3-10	242-245	von	_	
+3-11	246-250	zwei	_	
+3-12	251-259	Fußwegen	_	
+3-13	260-267	kommend	_	
+3-14	268-271	den	_	
+3-15	272-278	Radweg	_	
+3-16	278-279	,	_	
+3-17	280-284	ohne	_	
+3-18	285-288	auf	_	
+3-19	289-292	die	_	
+3-20	293-302	Radfahrer	_	
+3-21	303-305	zu	_	
+3-22	306-312	achten	_	
+3-23	312-313	.	_	
+
+#Text=Dabei kommt es sehr häufig zu Fastunfällen.
+4-1	314-319	Dabei	_	
+4-2	320-325	kommt	_	
+4-3	326-328	es	_	
+4-4	329-333	sehr	_	
+4-5	334-340	häufig	_	
+4-6	341-343	zu	_	
+4-7	344-356	Fastunfällen	_	
+4-8	356-357	.	_	

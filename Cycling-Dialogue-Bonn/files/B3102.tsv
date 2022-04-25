@@ -1,0 +1,130 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße richtig einrichten
+1-1	0-13	Fahrradstraße	_	
+1-2	14-21	richtig	_	
+1-3	22-32	einrichten	_	
+
+#Text=Die Einrichtung der Fahrradstraße auf der Adelheidisstr. sollte vervollständigt werden.
+2-1	35-38	Die	_	
+2-2	39-50	Einrichtung	_	
+2-3	51-54	der	_	
+2-4	55-68	Fahrradstraße	_	
+2-5	69-72	auf	*[9]	
+2-6	73-76	der	*[9]	
+2-7	77-90	Adelheidisstr	*[9]	
+2-8	90-91	.	_	
+2-9	92-98	sollte	_	
+2-10	99-114	vervollständigt	_	
+2-11	115-121	werden	_	
+2-12	121-122	.	_	
+
+#Text=Als täglicher Benutzer beobachte ich laufend Kfz, die diese Route als Umgehung der B56 bei Stau benutzen.
+3-1	123-126	Als	_	
+3-2	127-136	täglicher	_	
+3-3	137-145	Benutzer	_	
+3-4	146-155	beobachte	_	
+3-5	156-159	ich	_	
+3-6	160-167	laufend	_	
+3-7	168-171	Kfz	_	
+3-8	171-172	,	_	
+3-9	173-176	die	_	
+3-10	177-182	diese	_	
+3-11	183-188	Route	_	
+3-12	189-192	als	_	
+3-13	193-201	Umgehung	_	
+3-14	202-205	der	_	
+3-15	206-209	B56	*	
+3-16	210-213	bei	_	
+3-17	214-218	Stau	_	
+3-18	219-227	benutzen	_	
+3-19	227-228	.	_	
+
+#Text=Da der MIV in einer Fahrradstraße nur Gaststatus hat, wäre die sinnvolle Ergänzung, dass man die Adelheidisstraße etwa auf halber Strecke abpollert.
+4-1	229-231	Da	_	
+4-2	232-235	der	_	
+4-3	236-239	MIV	_	
+4-4	240-242	in	_	
+4-5	243-248	einer	_	
+4-6	249-262	Fahrradstraße	_	
+4-7	263-266	nur	_	
+4-8	267-277	Gaststatus	_	
+4-9	278-281	hat	_	
+4-10	281-282	,	_	
+4-11	283-287	wäre	_	
+4-12	288-291	die	_	
+4-13	292-301	sinnvolle	_	
+4-14	302-311	Ergänzung	_	
+4-15	311-312	,	_	
+4-16	313-317	dass	_	
+4-17	318-321	man	_	
+4-18	322-325	die	*[10]	
+4-19	326-342	Adelheidisstraße	*[10]	
+4-20	343-347	etwa	_	
+4-21	348-351	auf	_	
+4-22	352-358	halber	_	
+4-23	359-366	Strecke	_	
+4-24	367-376	abpollert	_	
+4-25	376-377	.	_	
+
+#Text=Z.B. in Höhe der Stroofstr.
+5-1	378-381	Z.B	_	
+5-2	381-382	.	_	
+5-3	383-385	in	*[11]	
+5-4	386-390	Höhe	*[11]	
+5-5	391-394	der	*[11]	
+5-6	395-404	Stroofstr	*[11]	
+5-7	404-405	.	_	
+
+#Text=Der Radverkehr könnte passieren, Autos dagegen nicht.
+6-1	406-409	Der	_	
+6-2	410-420	Radverkehr	_	
+6-3	421-427	könnte	_	
+6-4	428-437	passieren	_	
+6-5	437-438	,	_	
+6-6	439-444	Autos	_	
+6-7	445-452	dagegen	_	
+6-8	453-458	nicht	_	
+6-9	458-459	.	_	
+
+#Text=Dann wäre der Durchgangsverkehr unterbunden, der Anliegerverkehr könnte von beiden Seiten seine Ziele erreichen.
+7-1	460-464	Dann	_	
+7-2	465-469	wäre	_	
+7-3	470-473	der	_	
+7-4	474-491	Durchgangsverkehr	_	
+7-5	492-503	unterbunden	_	
+7-6	503-504	,	_	
+7-7	505-508	der	_	
+7-8	509-524	Anliegerverkehr	_	
+7-9	525-531	könnte	_	
+7-10	532-535	von	_	
+7-11	536-542	beiden	_	
+7-12	543-549	Seiten	_	
+7-13	550-555	seine	_	
+7-14	556-561	Ziele	_	
+7-15	562-571	erreichen	_	
+7-16	571-572	.	_	
+
+#Text=Dieses Prinzip sollte bei allen Fahrradstraßen zur Anwendung kommen, die bisherigen in Bonn sind nur Alibi-Straßenmalereien.
+8-1	573-579	Dieses	_	
+8-2	580-587	Prinzip	_	
+8-3	588-594	sollte	_	
+8-4	595-598	bei	_	
+8-5	599-604	allen	_	
+8-6	605-619	Fahrradstraßen	_	
+8-7	620-623	zur	_	
+8-8	624-633	Anwendung	_	
+8-9	634-640	kommen	_	
+8-10	640-641	,	_	
+8-11	642-645	die	_	
+8-12	646-656	bisherigen	_	
+8-13	657-659	in	_	
+8-14	660-664	Bonn	_	
+8-15	665-669	sind	_	
+8-16	670-673	nur	_	
+8-17	674-696	Alibi-Straßenmalereien	_	
+8-18	696-697	.	_	

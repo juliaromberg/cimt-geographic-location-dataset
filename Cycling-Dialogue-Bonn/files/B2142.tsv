@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sperrgitter beseitigen
+1-1	0-11	Sperrgitter	_	
+1-2	12-22	beseitigen	_	
+
+#Text=Auf diesem Radverbindungsweg befinden sich 2 Sperrgitter, durch die sich Radfahrer mühselig hindurch zwängen müssen.
+2-1	25-28	Auf	_	
+2-2	29-35	diesem	_	
+2-3	36-53	Radverbindungsweg	_	
+2-4	54-62	befinden	_	
+2-5	63-67	sich	_	
+2-6	68-69	2	_	
+2-7	70-81	Sperrgitter	_	
+2-8	81-82	,	_	
+2-9	83-88	durch	_	
+2-10	89-92	die	_	
+2-11	93-97	sich	_	
+2-12	98-107	Radfahrer	_	
+2-13	108-116	mühselig	_	
+2-14	117-125	hindurch	_	
+2-15	126-133	zwängen	_	
+2-16	134-140	müssen	_	
+2-17	140-141	.	_	
+
+#Text=Diese Gitte sollten beseitigt werden.
+3-1	142-147	Diese	_	
+3-2	148-153	Gitte	_	
+3-3	154-161	sollten	_	
+3-4	162-171	beseitigt	_	
+3-5	172-178	werden	_	
+3-6	178-179	.	_	

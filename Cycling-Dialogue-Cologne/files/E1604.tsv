@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Aufstellfläche Radfahrer
+1-1	0-14	Aufstellfläche	_	
+1-2	15-24	Radfahrer	_	
+
+#Text=An allen 4 Ecken der Kreuzung Gürtel/Subbelratherstr. ist zu wenig Aufstellfläche für Radfahrer, ebenso an der Kreuzung Gürtel/Venloerstr.
+2-1	27-29	An	*[3]	
+2-2	30-35	allen	*[3]	
+2-3	36-37	4	*[3]	
+2-4	38-43	Ecken	*[3]	
+2-5	44-47	der	*[3]	
+2-6	48-56	Kreuzung	*[3]	
+2-7	57-63	Gürtel	*[3]	
+2-8	63-64	/	*[3]	
+2-9	64-79	Subbelratherstr	*[3]	
+2-10	79-80	.	_	
+2-11	81-84	ist	_	
+2-12	85-87	zu	_	
+2-13	88-93	wenig	_	
+2-14	94-108	Aufstellfläche	_	
+2-15	109-112	für	_	
+2-16	113-122	Radfahrer	_	
+2-17	122-123	,	_	
+2-18	124-130	ebenso	_	
+2-19	131-133	an	*[4]	
+2-20	134-137	der	*[4]	
+2-21	138-146	Kreuzung	*[4]	
+2-22	147-153	Gürtel	*[4]	
+2-23	153-154	/	*[4]	
+2-24	154-164	Venloerstr	*[4]	
+2-25	164-165	.	_	

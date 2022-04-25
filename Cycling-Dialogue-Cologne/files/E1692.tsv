@@ -1,0 +1,47 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=sichere Radfahrerquerung
+1-1	0-7	sichere	_	
+1-2	8-24	Radfahrerquerung	_	
+
+#Text=Schulweg zur Monte: Einbahnstraße ist für Radfahrer geöffnet, eine sichere du legale fahrbare Querung gibt es nicht.
+2-1	27-35	Schulweg	_	
+2-2	36-39	zur	*[4]	
+2-3	40-45	Monte	*[4]	
+2-4	45-46	:	_	
+2-5	47-60	Einbahnstraße	_	
+2-6	61-64	ist	_	
+2-7	65-68	für	_	
+2-8	69-78	Radfahrer	_	
+2-9	79-87	geöffnet	_	
+2-10	87-88	,	_	
+2-11	89-93	eine	_	
+2-12	94-101	sichere	_	
+2-13	102-104	du	_	
+2-14	105-111	legale	_	
+2-15	112-120	fahrbare	_	
+2-16	121-128	Querung	_	
+2-17	129-133	gibt	_	
+2-18	134-136	es	_	
+2-19	137-142	nicht	_	
+2-20	142-143	.	_	
+
+#Text=Vorschlag vom Ampelabbauprogramm (liegt seit Jahren vor!!!) umsetzen!
+3-1	144-153	Vorschlag	_	
+3-2	154-157	vom	_	
+3-3	158-176	Ampelabbauprogramm	_	
+3-4	177-178	(	_	
+3-5	178-183	liegt	_	
+3-6	184-188	seit	_	
+3-7	189-195	Jahren	_	
+3-8	196-199	vor	_	
+3-9	199-200	!	_	
+3-10	200-201	!	_	
+3-11	201-202	!	_	
+3-12	202-203	)	_	
+3-13	204-212	umsetzen	_	
+3-14	212-213	!	_	

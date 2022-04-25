@@ -1,0 +1,58 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Linksabbiegen erlauben
+1-1	0-13	Linksabbiegen	_	
+1-2	14-22	erlauben	_	
+
+#Text=Wenn man von Nippes kommend die Liebigstraße stadteinwärts fährt, führt der beste Weg zur Inneren Kanalstraße über die Herkulsstraße.
+2-1	25-29	Wenn	_	
+2-2	30-33	man	_	
+2-3	34-37	von	*[5]	
+2-4	38-44	Nippes	*[5]	
+2-5	45-52	kommend	*[5]	
+2-6	53-56	die	*[5]	
+2-7	57-69	Liebigstraße	*[5]	
+2-8	70-83	stadteinwärts	*[5]	
+2-9	84-89	fährt	*[5]	
+2-10	89-90	,	*[5]	
+2-11	91-96	führt	*[5]	
+2-12	97-100	der	*[5]	
+2-13	101-106	beste	*[5]	
+2-14	107-110	Weg	*[5]	
+2-15	111-114	zur	*[5]	
+2-16	115-122	Inneren	*[5]	
+2-17	123-134	Kanalstraße	*[5]	
+2-18	135-139	über	*[5]	
+2-19	140-143	die	*[5]	
+2-20	144-157	Herkulsstraße	*[5]	
+2-21	157-158	.	_	
+
+#Text=Hier biegen viele Radfahrer illegal links auf die Herkulesstraße ab.
+3-1	159-163	Hier	_	
+3-2	164-170	biegen	_	
+3-3	171-176	viele	_	
+3-4	177-186	Radfahrer	_	
+3-5	187-194	illegal	_	
+3-6	195-200	links	*[6]	
+3-7	201-204	auf	*[6]	
+3-8	205-208	die	*[6]	
+3-9	209-223	Herkulesstraße	*[6]	
+3-10	224-226	ab	_	
+3-11	226-227	.	_	
+
+#Text=Das Linksabbiegen könnte hier aber für alle auch erlaubt werden.
+4-1	228-231	Das	_	
+4-2	232-245	Linksabbiegen	_	
+4-3	246-252	könnte	_	
+4-4	253-257	hier	_	
+4-5	258-262	aber	_	
+4-6	263-266	für	_	
+4-7	267-271	alle	_	
+4-8	272-276	auch	_	
+4-9	277-284	erlaubt	_	
+4-10	285-291	werden	_	
+4-11	291-292	.	_	

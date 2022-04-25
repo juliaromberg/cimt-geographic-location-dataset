@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fußgänger Chaos
+1-1	0-9	Fußgänger	_	
+1-2	10-15	Chaos	_	
+
+#Text=der Fahrradweg ist v.a. an Wochenenden kaum nutzbar weil Dutzende von orientierungslosen Fußgängern darüberstolpern; häufiger Grund sind auf der Straße anhaltende Reisebusse, die ihre Fahrgäste zu den Rheinschiffen entlassen
+2-1	18-21	der	_	
+2-2	22-32	Fahrradweg	_	
+2-3	33-36	ist	_	
+2-4	37-40	v.a	_	
+2-5	40-41	.	_	
+2-6	42-44	an	_	
+2-7	45-56	Wochenenden	_	
+2-8	57-61	kaum	_	
+2-9	62-69	nutzbar	_	
+2-10	70-74	weil	_	
+2-11	75-83	Dutzende	_	
+2-12	84-87	von	_	
+2-13	88-106	orientierungslosen	_	
+2-14	107-117	Fußgängern	_	
+2-15	118-133	darüberstolpern	_	
+2-16	133-134	;	_	
+2-17	135-143	häufiger	_	
+2-18	144-149	Grund	_	
+2-19	150-154	sind	_	
+2-20	155-158	auf	_	
+2-21	159-162	der	_	
+2-22	163-169	Straße	_	
+2-23	170-180	anhaltende	_	
+2-24	181-191	Reisebusse	_	
+2-25	191-192	,	_	
+2-26	193-196	die	_	
+2-27	197-201	ihre	_	
+2-28	202-211	Fahrgäste	_	
+2-29	212-214	zu	_	
+2-30	215-218	den	_	
+2-31	219-232	Rheinschiffen	_	
+2-32	233-242	entlassen	_	
+
+#Text=Auf Höhe des Treppenaufgangs zum Alten Zoll können auf den Zebrastreifen zugehende Passanten erst in letzter Sekunde gesehen werden
+3-1	243-246	Auf	*[5]	
+3-2	247-251	Höhe	*[5]	
+3-3	252-255	des	*[5]	
+3-4	256-271	Treppenaufgangs	*[5]	
+3-5	272-275	zum	*[5]	
+3-6	276-281	Alten	*[5]	
+3-7	282-286	Zoll	*[5]	
+3-8	287-293	können	_	
+3-9	294-297	auf	_	
+3-10	298-301	den	_	
+3-11	302-315	Zebrastreifen	_	
+3-12	316-325	zugehende	_	
+3-13	326-335	Passanten	_	
+3-14	336-340	erst	_	
+3-15	341-343	in	_	
+3-16	344-351	letzter	_	
+3-17	352-359	Sekunde	_	
+3-18	360-367	gesehen	_	
+3-19	368-374	werden	_	
+
+#Text=Vorschlag: Hecke kürzen oder Ampel installieren
+4-1	375-384	Vorschlag	_	
+4-2	384-385	:	_	
+4-3	386-391	Hecke	_	
+4-4	392-398	kürzen	_	
+4-5	399-403	oder	_	
+4-6	404-409	Ampel	_	
+4-7	410-422	installieren	_	

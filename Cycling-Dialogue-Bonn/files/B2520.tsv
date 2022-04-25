@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Mit überhöhter Geschwindigkeit abbiegende Busse geraten in den Radverkehr
+1-1	0-3	Mit	_	
+1-2	4-14	überhöhter	_	
+1-3	15-30	Geschwindigkeit	_	
+1-4	31-41	abbiegende	_	
+1-5	42-47	Busse	_	
+1-6	48-55	geraten	_	
+1-7	56-58	in	_	
+1-8	59-62	den	_	
+1-9	63-73	Radverkehr	_	
+
+#Text=Die Kreuzung Colmatstraße/Meckenheimer Allee/Quantiusstraße ist eigentlich geräumig aber bar jeder Markierung.
+2-1	76-79	Die	*[5]	
+2-2	80-88	Kreuzung	*[5]	
+2-3	89-101	Colmatstraße	*[5]	
+2-4	101-102	/	*[5]	
+2-5	102-114	Meckenheimer	*[5]	
+2-6	115-120	Allee	*[5]	
+2-7	120-121	/	*[5]	
+2-8	121-135	Quantiusstraße	*[5]	
+2-9	136-139	ist	_	
+2-10	140-150	eigentlich	_	
+2-11	151-159	geräumig	_	
+2-12	160-164	aber	_	
+2-13	165-168	bar	_	
+2-14	169-174	jeder	_	
+2-15	175-185	Markierung	_	
+2-16	185-186	.	_	
+
+#Text=Deshalb gilt leider das Recht des stärkeren.
+3-1	187-194	Deshalb	_	
+3-2	195-199	gilt	_	
+3-3	200-206	leider	_	
+3-4	207-210	das	_	
+3-5	211-216	Recht	_	
+3-6	217-220	des	_	
+3-7	221-230	stärkeren	_	
+3-8	230-231	.	_	
+
+#Text=Durch geringe Maßnahmen könnte ein Platz mit großer Aufenthaltsqualität entstehen, auf dem alle miteinander klar kommen.
+4-1	232-237	Durch	_	
+4-2	238-245	geringe	_	
+4-3	246-255	Maßnahmen	_	
+4-4	256-262	könnte	_	
+4-5	263-266	ein	_	
+4-6	267-272	Platz	_	
+4-7	273-276	mit	_	
+4-8	277-283	großer	_	
+4-9	284-303	Aufenthaltsqualität	_	
+4-10	304-313	entstehen	_	
+4-11	313-314	,	_	
+4-12	315-318	auf	_	
+4-13	319-322	dem	_	
+4-14	323-327	alle	_	
+4-15	328-339	miteinander	_	
+4-16	340-344	klar	_	
+4-17	345-351	kommen	_	
+4-18	351-352	.	_	

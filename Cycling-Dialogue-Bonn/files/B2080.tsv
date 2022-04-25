@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Querung der Innenstadt in Nord-Süd-Richtung ist nicht vernünftig möglich
+1-1	0-7	Querung	*[5]	
+1-2	8-11	der	*[5]	
+1-3	12-22	Innenstadt	*[5]	
+1-4	23-25	in	*[5]	
+1-5	26-43	Nord-Süd-Richtung	*[5]	
+1-6	44-47	ist	_	
+1-7	48-53	nicht	_	
+1-8	54-64	vernünftig	_	
+1-9	65-72	möglich	_	
+
+#Text=Ich muss jeden Tag von der Nordstadt auf den Venusberg.
+2-1	75-78	Ich	_	
+2-2	79-83	muss	_	
+2-3	84-89	jeden	_	
+2-4	90-93	Tag	_	
+2-5	94-97	von	*[6]	
+2-6	98-101	der	*[6]	
+2-7	102-111	Nordstadt	*[6]	
+2-8	112-115	auf	*[6]	
+2-9	116-119	den	*[6]	
+2-10	120-129	Venusberg	*[6]	
+2-11	129-130	.	_	
+
+#Text=Eine wirklich gute Strecke ohne drei bis vier sehr unangenehme neuraligische Punkte gibt es da nicht.
+3-1	131-135	Eine	_	
+3-2	136-144	wirklich	_	
+3-3	145-149	gute	_	
+3-4	150-157	Strecke	_	
+3-5	158-162	ohne	_	
+3-6	163-167	drei	_	
+3-7	168-171	bis	_	
+3-8	172-176	vier	_	
+3-9	177-181	sehr	_	
+3-10	182-193	unangenehme	_	
+3-11	194-207	neuraligische	_	
+3-12	208-214	Punkte	_	
+3-13	215-219	gibt	_	
+3-14	220-222	es	_	
+3-15	223-225	da	_	
+3-16	226-231	nicht	_	
+3-17	231-232	.	_	
+
+#Text=Wenn es vernünftige Radwege auf beiden Seiten der Thomas-Mann-Straße gäbe, wäre hier allerdings schon viel gewonnen.
+4-1	233-237	Wenn	_	
+4-2	238-240	es	_	
+4-3	241-252	vernünftige	_	
+4-4	253-260	Radwege	_	
+4-5	261-264	auf	*[7]	
+4-6	265-271	beiden	*[7]	
+4-7	272-278	Seiten	*[7]	
+4-8	279-282	der	*[7]	
+4-9	283-301	Thomas-Mann-Straße	*[7]	
+4-10	302-306	gäbe	_	
+4-11	306-307	,	_	
+4-12	308-312	wäre	_	
+4-13	313-317	hier	_	
+4-14	318-328	allerdings	_	
+4-15	329-334	schon	_	
+4-16	335-339	viel	_	
+4-17	340-348	gewonnen	_	
+4-18	348-349	.	_	

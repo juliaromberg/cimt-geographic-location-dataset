@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Linksabbiegen optimieren
+1-1	0-13	Linksabbiegen	_	
+1-2	14-24	optimieren	_	
+
+#Text=Das Links-Abbiegen von der Venloer Str. auf die Wilhelm Mauser Str. durch bessere und fahrradfreundliche Ampelschaltung optimieren.
+2-1	27-30	Das	_	
+2-2	31-45	Links-Abbiegen	_	
+2-3	46-49	von	*[3]	
+2-4	50-53	der	*[3]	
+2-5	54-61	Venloer	*[3]	
+2-6	62-65	Str	*[3]	
+2-7	65-66	.	*[3]	
+2-8	67-70	auf	*[3]	
+2-9	71-74	die	*[3]	
+2-10	75-82	Wilhelm	*[3]	
+2-11	83-89	Mauser	*[3]	
+2-12	90-93	Str	*[3]	
+2-13	93-94	.	_	
+2-14	95-100	durch	_	
+2-15	101-108	bessere	_	
+2-16	109-112	und	_	
+2-17	113-131	fahrradfreundliche	_	
+2-18	132-146	Ampelschaltung	_	
+2-19	147-157	optimieren	_	
+2-20	157-158	.	_	

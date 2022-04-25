@@ -1,0 +1,128 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelschaltung (zeitgleiche Schaltung aller Fußgängerampeln)
+1-1	0-14	Ampelschaltung	_	
+1-2	15-16	(	_	
+1-3	16-27	zeitgleiche	_	
+1-4	28-37	Schaltung	_	
+1-5	38-43	aller	_	
+1-6	44-59	Fußgängerampeln	_	
+1-7	59-60	)	_	
+
+#Text=Ich sehe die zeitgleiche Grünschaltung aller Fußgängerampeln hier als sehr kritisch.
+2-1	63-66	Ich	_	
+2-2	67-71	sehe	_	
+2-3	72-75	die	_	
+2-4	76-87	zeitgleiche	_	
+2-5	88-101	Grünschaltung	_	
+2-6	102-107	aller	_	
+2-7	108-123	Fußgängerampeln	_	
+2-8	124-128	hier	_	
+2-9	129-132	als	_	
+2-10	133-137	sehr	_	
+2-11	138-146	kritisch	_	
+2-12	146-147	.	_	
+
+#Text=Wenn man auf dem Radweg vom Martinsplatz/Am Neutor Richtung Münsterplatz fährt, rechnet man nicht damit, dass die Fußgängerampel am Martinsplatz gleichzeitig grün ist und dadurch unweigerlich Fußgänger den Radweg queren.
+3-1	148-152	Wenn	_	
+3-2	153-156	man	_	
+3-3	157-160	auf	*[6]	
+3-4	161-164	dem	*[6]	
+3-5	165-171	Radweg	*[6]	
+3-6	172-175	vom	*[6]	
+3-7	176-188	Martinsplatz	*[6]	
+3-8	188-189	/	*[6]	
+3-9	189-191	Am	*[6]	
+3-10	192-198	Neutor	*[6]	
+3-11	199-207	Richtung	*[6]	
+3-12	208-220	Münsterplatz	*[6]	
+3-13	221-226	fährt	_	
+3-14	226-227	,	_	
+3-15	228-235	rechnet	_	
+3-16	236-239	man	_	
+3-17	240-245	nicht	_	
+3-18	246-251	damit	_	
+3-19	251-252	,	_	
+3-20	253-257	dass	_	
+3-21	258-261	die	_	
+3-22	262-276	Fußgängerampel	_	
+3-23	277-279	am	*[7]	
+3-24	280-292	Martinsplatz	*[7]	
+3-25	293-305	gleichzeitig	_	
+3-26	306-310	grün	_	
+3-27	311-314	ist	_	
+3-28	315-318	und	_	
+3-29	319-326	dadurch	_	
+3-30	327-339	unweigerlich	_	
+3-31	340-349	Fußgänger	_	
+3-32	350-353	den	_	
+3-33	354-360	Radweg	_	
+3-34	361-367	queren	_	
+3-35	367-368	.	_	
+
+#Text=Fußgänger, insbesondere Touristen, rechnen im Gegenzug nicht mit Radfahrern, gehen deshalb ohne zu gucken einfach weiter oder bleiben auch gerne mal auf dem Radweg stehen (guter Blick zu Münster und Uni).
+4-1	369-378	Fußgänger	_	
+4-2	378-379	,	_	
+4-3	380-392	insbesondere	_	
+4-4	393-402	Touristen	_	
+4-5	402-403	,	_	
+4-6	404-411	rechnen	_	
+4-7	412-414	im	_	
+4-8	415-423	Gegenzug	_	
+4-9	424-429	nicht	_	
+4-10	430-433	mit	_	
+4-11	434-444	Radfahrern	_	
+4-12	444-445	,	_	
+4-13	446-451	gehen	_	
+4-14	452-459	deshalb	_	
+4-15	460-464	ohne	_	
+4-16	465-467	zu	_	
+4-17	468-474	gucken	_	
+4-18	475-482	einfach	_	
+4-19	483-489	weiter	_	
+4-20	490-494	oder	_	
+4-21	495-502	bleiben	_	
+4-22	503-507	auch	_	
+4-23	508-513	gerne	_	
+4-24	514-517	mal	_	
+4-25	518-521	auf	_	
+4-26	522-525	dem	_	
+4-27	526-532	Radweg	_	
+4-28	533-539	stehen	_	
+4-29	540-541	(	_	
+4-30	541-546	guter	_	
+4-31	547-552	Blick	_	
+4-32	553-555	zu	_	
+4-33	556-563	Münster	*[8]	
+4-34	564-567	und	*[8]	
+4-35	568-571	Uni	*[8]	
+4-36	571-572	)	_	
+4-37	572-573	.	_	
+
+#Text=Warum ist die Schaltung dieser Fußgängerampel nicht mehr gleichzeitig mit der Grünphase für die Auto die die Straße Am Hof nutzen?
+5-1	574-579	Warum	_	
+5-2	580-583	ist	_	
+5-3	584-587	die	_	
+5-4	588-597	Schaltung	_	
+5-5	598-604	dieser	_	
+5-6	605-619	Fußgängerampel	_	
+5-7	620-625	nicht	_	
+5-8	626-630	mehr	_	
+5-9	631-643	gleichzeitig	_	
+5-10	644-647	mit	_	
+5-11	648-651	der	_	
+5-12	652-661	Grünphase	_	
+5-13	662-665	für	_	
+5-14	666-669	die	_	
+5-15	670-674	Auto	_	
+5-16	675-678	die	_	
+5-17	679-682	die	*[9]	
+5-18	683-689	Straße	*[9]	
+5-19	690-692	Am	*[9]	
+5-20	693-696	Hof	*[9]	
+5-21	697-703	nutzen	_	
+5-22	703-704	?	_	

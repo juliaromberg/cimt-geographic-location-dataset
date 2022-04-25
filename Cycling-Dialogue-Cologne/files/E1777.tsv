@@ -1,0 +1,134 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Subbelratherstraße Fahrradfreundlicher machen
+1-1	0-18	Subbelratherstraße	*	
+1-2	19-38	Fahrradfreundlicher	_	
+1-3	39-45	machen	_	
+
+#Text=Die Subbelratherstraße gehört zu den wichtigesten Verkehrsachsen in Ehrenfeld.
+2-1	48-51	Die	*[9]	
+2-2	52-70	Subbelratherstraße	*[9]	
+2-3	71-77	gehört	_	
+2-4	78-80	zu	_	
+2-5	81-84	den	_	
+2-6	85-97	wichtigesten	_	
+2-7	98-112	Verkehrsachsen	_	
+2-8	113-115	in	*[10]	
+2-9	116-125	Ehrenfeld	*[10]	
+2-10	125-126	.	_	
+
+#Text=Stadtauswärts ist der Fahrradweg breit und gut ausgebaut.
+3-1	127-140	Stadtauswärts	_	
+3-2	141-144	ist	_	
+3-3	145-148	der	_	
+3-4	149-159	Fahrradweg	_	
+3-5	160-165	breit	_	
+3-6	166-169	und	_	
+3-7	170-173	gut	_	
+3-8	174-183	ausgebaut	_	
+3-9	183-184	.	_	
+
+#Text=Allerdings ist zwischen Gürtel und Innerekanalstr noch sehr viel Luft nach oben.
+4-1	185-195	Allerdings	_	
+4-2	196-199	ist	_	
+4-3	200-208	zwischen	*[11]	
+4-4	209-215	Gürtel	*[11]	
+4-5	216-219	und	*[11]	
+4-6	220-234	Innerekanalstr	*[11]	
+4-7	235-239	noch	_	
+4-8	240-244	sehr	_	
+4-9	245-249	viel	_	
+4-10	250-254	Luft	_	
+4-11	255-259	nach	_	
+4-12	260-264	oben	_	
+4-13	264-265	.	_	
+
+#Text=Auf diesem Abschnitt ist er zuschmal, teils gefährlich und absolut Fahrradunfreundich.
+5-1	266-269	Auf	_	
+5-2	270-276	diesem	_	
+5-3	277-286	Abschnitt	_	
+5-4	287-290	ist	_	
+5-5	291-293	er	_	
+5-6	294-302	zuschmal	_	
+5-7	302-303	,	_	
+5-8	304-309	teils	_	
+5-9	310-320	gefährlich	_	
+5-10	321-324	und	_	
+5-11	325-332	absolut	_	
+5-12	333-351	Fahrradunfreundich	_	
+5-13	351-352	.	_	
+
+#Text=Für die Verkehrssicheheit wäre daher Tempo 30 einzuführen und eine umfunktionierung des Radwegs auf die Straße mit einer roten Markierung vorzunhemen.
+6-1	353-356	Für	_	
+6-2	357-360	die	_	
+6-3	361-378	Verkehrssicheheit	_	
+6-4	379-383	wäre	_	
+6-5	384-389	daher	_	
+6-6	390-395	Tempo	_	
+6-7	396-398	30	_	
+6-8	399-410	einzuführen	_	
+6-9	411-414	und	_	
+6-10	415-419	eine	_	
+6-11	420-436	umfunktionierung	_	
+6-12	437-440	des	_	
+6-13	441-448	Radwegs	_	
+6-14	449-452	auf	_	
+6-15	453-456	die	_	
+6-16	457-463	Straße	_	
+6-17	464-467	mit	_	
+6-18	468-473	einer	_	
+6-19	474-479	roten	_	
+6-20	480-490	Markierung	_	
+6-21	491-502	vorzunhemen	_	
+6-22	502-503	.	_	
+
+#Text=Die Kreuzung an der Ecke Gutenbergstraße ist sowohl von der Ampelanlage als auch von Verkehsführung Fahrradfreundlicher zu gestalten.
+7-1	504-507	Die	*[12]	
+7-2	508-516	Kreuzung	*[12]	
+7-3	517-519	an	*[12]	
+7-4	520-523	der	*[12]	
+7-5	524-528	Ecke	*[12]	
+7-6	529-544	Gutenbergstraße	*[12]	
+7-7	545-548	ist	_	
+7-8	549-555	sowohl	_	
+7-9	556-559	von	_	
+7-10	560-563	der	_	
+7-11	564-575	Ampelanlage	_	
+7-12	576-579	als	_	
+7-13	580-584	auch	_	
+7-14	585-588	von	_	
+7-15	589-603	Verkehsführung	_	
+7-16	604-623	Fahrradfreundlicher	_	
+7-17	624-626	zu	_	
+7-18	627-636	gestalten	_	
+7-19	636-637	.	_	
+
+#Text=Zu viele Ampeln, zu wenig Platz um an den Ampeln zu stehen und zu lange Rotphasen für den Rad- und Fußverkehr.
+8-1	638-640	Zu	_	
+8-2	641-646	viele	_	
+8-3	647-653	Ampeln	_	
+8-4	653-654	,	_	
+8-5	655-657	zu	_	
+8-6	658-663	wenig	_	
+8-7	664-669	Platz	_	
+8-8	670-672	um	_	
+8-9	673-675	an	_	
+8-10	676-679	den	_	
+8-11	680-686	Ampeln	_	
+8-12	687-689	zu	_	
+8-13	690-696	stehen	_	
+8-14	697-700	und	_	
+8-15	701-703	zu	_	
+8-16	704-709	lange	_	
+8-17	710-719	Rotphasen	_	
+8-18	720-723	für	_	
+8-19	724-727	den	_	
+8-20	728-731	Rad	_	
+8-21	731-732	-	_	
+8-22	733-736	und	_	
+8-23	737-747	Fußverkehr	_	
+8-24	747-748	.	_	

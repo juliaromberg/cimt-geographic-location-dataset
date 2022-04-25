@@ -1,0 +1,54 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wegweiser zur Autobahn versperrt Sicht auf die Ampel
+1-1	0-9	Wegweiser	_	
+1-2	10-13	zur	_	
+1-3	14-22	Autobahn	_	
+1-4	23-32	versperrt	_	
+1-5	33-38	Sicht	_	
+1-6	39-42	auf	_	
+1-7	43-46	die	_	
+1-8	47-52	Ampel	_	
+
+#Text=Stadtauswärts versperrt der Wegweiser zur Autobahn die Sicht auf die Fußgänger-/Radfahrerampel, so daß man diese zu spät sieht.
+2-1	55-68	Stadtauswärts	_	
+2-2	69-78	versperrt	_	
+2-3	79-82	der	_	
+2-4	83-92	Wegweiser	_	
+2-5	93-96	zur	_	
+2-6	97-105	Autobahn	_	
+2-7	106-109	die	_	
+2-8	110-115	Sicht	_	
+2-9	116-119	auf	_	
+2-10	120-123	die	_	
+2-11	124-133	Fußgänger	_	
+2-12	133-134	-	_	
+2-13	134-135	/	_	
+2-14	135-149	Radfahrerampel	_	
+2-15	149-150	,	_	
+2-16	151-153	so	_	
+2-17	154-157	daß	_	
+2-18	158-161	man	_	
+2-19	162-167	diese	_	
+2-20	168-170	zu	_	
+2-21	171-175	spät	_	
+2-22	176-181	sieht	_	
+2-23	181-182	.	_	
+
+#Text=Bei anderer Höhe des Wegweiser könnte man die Ampel früher sehen.
+3-1	183-186	Bei	_	
+3-2	187-194	anderer	_	
+3-3	195-199	Höhe	_	
+3-4	200-203	des	_	
+3-5	204-213	Wegweiser	_	
+3-6	214-220	könnte	_	
+3-7	221-224	man	_	
+3-8	225-228	die	_	
+3-9	229-234	Ampel	_	
+3-10	235-241	früher	_	
+3-11	242-247	sehen	_	
+3-12	247-248	.	_	

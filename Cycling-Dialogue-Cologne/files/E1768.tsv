@@ -1,0 +1,70 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fußgänger/Radfahrweg zwischen Butzweilerstraße und Von-Hünefeld-Straße gleicht einer Holperstrecke
+1-1	0-9	Fußgänger	_	
+1-2	9-10	/	_	
+1-3	10-20	Radfahrweg	_	
+1-4	21-29	zwischen	*[5]	
+1-5	30-46	Butzweilerstraße	*[5]	
+1-6	47-50	und	*[5]	
+1-7	51-70	Von-Hünefeld-Straße	*[5]	
+1-8	71-78	gleicht	_	
+1-9	79-84	einer	_	
+1-10	85-98	Holperstrecke	_	
+
+#Text=Der relativ neue Fußgänger/Radfahrweg zwischen Butzweilerstraße und Von-Hünefeld-Straße gleicht einer Holperstrecke, da die Gehwegplatten zueinander verkantet sind.
+2-1	101-104	Der	_	
+2-2	105-112	relativ	_	
+2-3	113-117	neue	_	
+2-4	118-127	Fußgänger	_	
+2-5	127-128	/	_	
+2-6	128-138	Radfahrweg	_	
+2-7	139-147	zwischen	*[6]	
+2-8	148-164	Butzweilerstraße	*[6]	
+2-9	165-168	und	*[6]	
+2-10	169-188	Von-Hünefeld-Straße	*[6]	
+2-11	189-196	gleicht	_	
+2-12	197-202	einer	_	
+2-13	203-216	Holperstrecke	_	
+2-14	216-217	,	_	
+2-15	218-220	da	_	
+2-16	221-224	die	_	
+2-17	225-238	Gehwegplatten	_	
+2-18	239-249	zueinander	_	
+2-19	250-259	verkantet	_	
+2-20	260-264	sind	_	
+2-21	264-265	.	_	
+
+#Text=Daher sehr unangenehm zu befahren.
+3-1	266-271	Daher	_	
+3-2	272-276	sehr	_	
+3-3	277-287	unangenehm	_	
+3-4	288-290	zu	_	
+3-5	291-299	befahren	_	
+3-6	299-300	.	_	
+
+#Text=Darüber hinaus ist der Übergang an der Ampel beim Großhandel viel zu schmal und die Ampel steht im Weg.
+4-1	301-308	Darüber	_	
+4-2	309-315	hinaus	_	
+4-3	316-319	ist	_	
+4-4	320-323	der	_	
+4-5	324-332	Übergang	_	
+4-6	333-335	an	_	
+4-7	336-339	der	_	
+4-8	340-345	Ampel	_	
+4-9	346-350	beim	_	
+4-10	351-361	Großhandel	_	
+4-11	362-366	viel	_	
+4-12	367-369	zu	_	
+4-13	370-376	schmal	_	
+4-14	377-380	und	_	
+4-15	381-384	die	_	
+4-16	385-390	Ampel	_	
+4-17	391-396	steht	_	
+4-18	397-399	im	_	
+4-19	400-403	Weg	_	
+4-20	403-404	.	_	

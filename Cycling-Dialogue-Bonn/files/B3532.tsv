@@ -1,0 +1,62 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampel dauert oft ewig
+1-1	0-5	Ampel	_	
+1-2	6-12	dauert	_	
+1-3	13-16	oft	_	
+1-4	17-21	ewig	_	
+
+#Text=Die Ampel vor der Telekom um den Landgrabenweg zu überqueren dauert oft sehr seeeeehr lange um auf grün zu schalten.
+2-1	24-27	Die	_	
+2-2	28-33	Ampel	_	
+2-3	34-37	vor	*[5]	
+2-4	38-41	der	*[5]	
+2-5	42-49	Telekom	*[5]	
+2-6	50-52	um	*[5]	
+2-7	53-56	den	*[5]	
+2-8	57-70	Landgrabenweg	*[5]	
+2-9	71-73	zu	*[5]	
+2-10	74-84	überqueren	*[5]	
+2-11	85-91	dauert	_	
+2-12	92-95	oft	_	
+2-13	96-100	sehr	_	
+2-14	101-109	seeeeehr	_	
+2-15	110-115	lange	_	
+2-16	116-118	um	_	
+2-17	119-122	auf	_	
+2-18	123-127	grün	_	
+2-19	128-130	zu	_	
+2-20	131-139	schalten	_	
+2-21	139-140	.	_	
+
+#Text=Vermutlich damit die Autos in die Parkgarage gemütlich fahren können.
+3-1	141-151	Vermutlich	_	
+3-2	152-157	damit	_	
+3-3	158-161	die	_	
+3-4	162-167	Autos	_	
+3-5	168-170	in	_	
+3-6	171-174	die	_	
+3-7	175-185	Parkgarage	_	
+3-8	186-195	gemütlich	_	
+3-9	196-202	fahren	_	
+3-10	203-209	können	_	
+3-11	209-210	.	_	
+
+#Text=Aber selbst wenn gar kein Auto kommt ist trotzdem sehr lange rot.
+4-1	211-215	Aber	_	
+4-2	216-222	selbst	_	
+4-3	223-227	wenn	_	
+4-4	228-231	gar	_	
+4-5	232-236	kein	_	
+4-6	237-241	Auto	_	
+4-7	242-247	kommt	_	
+4-8	248-251	ist	_	
+4-9	252-260	trotzdem	_	
+4-10	261-265	sehr	_	
+4-11	266-271	lange	_	
+4-12	272-275	rot	_	
+4-13	275-276	.	_	

@@ -1,0 +1,84 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampel grundsätzlich parallel schalten
+1-1	0-5	Ampel	_	
+1-2	6-19	grundsätzlich	_	
+1-3	20-28	parallel	_	
+1-4	29-37	schalten	_	
+
+#Text=An der Ampelkreuzung wird die Ampel für Radfahrer nur nach Anforderung grün.
+2-1	40-42	An	_	
+2-2	43-46	der	_	
+2-3	47-60	Ampelkreuzung	_	
+2-4	61-65	wird	_	
+2-5	66-69	die	_	
+2-6	70-75	Ampel	_	
+2-7	76-79	für	_	
+2-8	80-89	Radfahrer	_	
+2-9	90-93	nur	_	
+2-10	94-98	nach	_	
+2-11	99-110	Anforderung	_	
+2-12	111-115	grün	_	
+2-13	115-116	.	_	
+
+#Text=Kommt man dabei innerhalb einer Grünphase für Autofahrer an die Ampel, darf man nicht parallel mit diesen die Kreuzung queren sondern muss eine komplette Phase des Querverkehr abwarten.
+3-1	117-122	Kommt	_	
+3-2	123-126	man	_	
+3-3	127-132	dabei	_	
+3-4	133-142	innerhalb	_	
+3-5	143-148	einer	_	
+3-6	149-158	Grünphase	_	
+3-7	159-162	für	_	
+3-8	163-173	Autofahrer	_	
+3-9	174-176	an	_	
+3-10	177-180	die	_	
+3-11	181-186	Ampel	_	
+3-12	186-187	,	_	
+3-13	188-192	darf	_	
+3-14	193-196	man	_	
+3-15	197-202	nicht	_	
+3-16	203-211	parallel	_	
+3-17	212-215	mit	_	
+3-18	216-222	diesen	_	
+3-19	223-226	die	_	
+3-20	227-235	Kreuzung	_	
+3-21	236-242	queren	_	
+3-22	243-250	sondern	_	
+3-23	251-255	muss	_	
+3-24	256-260	eine	_	
+3-25	261-270	komplette	_	
+3-26	271-276	Phase	_	
+3-27	277-280	des	_	
+3-28	281-292	Querverkehr	_	
+3-29	293-301	abwarten	_	
+3-30	301-302	.	_	
+
+#Text=Diese und alle anderen Ampelschaltungen in Bonn sollten für Autos und Fußgänger/Radfahrer grundsätzlich parallel geschaltet werden um unnötige Wartezeiten zu verhindern.
+4-1	303-308	Diese	_	
+4-2	309-312	und	_	
+4-3	313-317	alle	_	
+4-4	318-325	anderen	_	
+4-5	326-342	Ampelschaltungen	_	
+4-6	343-345	in	_	
+4-7	346-350	Bonn	_	
+4-8	351-358	sollten	_	
+4-9	359-362	für	_	
+4-10	363-368	Autos	_	
+4-11	369-372	und	_	
+4-12	373-382	Fußgänger	_	
+4-13	382-383	/	_	
+4-14	383-392	Radfahrer	_	
+4-15	393-406	grundsätzlich	_	
+4-16	407-415	parallel	_	
+4-17	416-426	geschaltet	_	
+4-18	427-433	werden	_	
+4-19	434-436	um	_	
+4-20	437-445	unnötige	_	
+4-21	446-457	Wartezeiten	_	
+4-22	458-460	zu	_	
+4-23	461-471	verhindern	_	
+4-24	471-472	.	_	

@@ -1,0 +1,155 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Überflüssige Fahrradstraße
+1-1	0-12	Überflüssige	_	
+1-2	13-26	Fahrradstraße	_	
+
+#Text=Die Dyroffstraße als Fahrradstraße fällt sicherlich in die Kategorie 'Verschwendung von Steuergeldern' und soll die Bilanz an Fahrradstraßen-Kilometern der Stadt Bonn aufbessern.
+2-1	29-32	Die	*[8]	
+2-2	33-45	Dyroffstraße	*[8]	
+2-3	46-49	als	_	
+2-4	50-63	Fahrradstraße	_	
+2-5	64-69	fällt	_	
+2-6	70-80	sicherlich	_	
+2-7	81-83	in	_	
+2-8	84-87	die	_	
+2-9	88-97	Kategorie	_	
+2-10	98-99	'	_	
+2-11	99-112	Verschwendung	_	
+2-12	113-116	von	_	
+2-13	117-130	Steuergeldern	_	
+2-14	130-131	'	_	
+2-15	132-135	und	_	
+2-16	136-140	soll	_	
+2-17	141-144	die	_	
+2-18	145-151	Bilanz	_	
+2-19	152-154	an	_	
+2-20	155-180	Fahrradstraßen-Kilometern	_	
+2-21	181-184	der	_	
+2-22	185-190	Stadt	_	
+2-23	191-195	Bonn	*	
+2-24	196-206	aufbessern	_	
+2-25	206-207	.	_	
+
+#Text=Wer braucht den sowas?
+3-1	208-211	Wer	_	
+3-2	212-219	braucht	_	
+3-3	220-223	den	_	
+3-4	224-229	sowas	_	
+3-5	229-230	?	_	
+
+#Text=Die Straße ist am Kontenpunkt der beiden Zufahrten morgens zugeparkt, befährt man die Dyroffstraße Richtung Kreuzkirche von der Franz-Tillmann-Str., ist eine 70 Grad Rechtskurve ohne Einsicht und mit parkenden Autos zu bewältigen.
+4-1	231-234	Die	_	
+4-2	235-241	Straße	_	
+4-3	242-245	ist	_	
+4-4	246-248	am	_	
+4-5	249-260	Kontenpunkt	_	
+4-6	261-264	der	_	
+4-7	265-271	beiden	_	
+4-8	272-281	Zufahrten	_	
+4-9	282-289	morgens	_	
+4-10	290-299	zugeparkt	_	
+4-11	299-300	,	_	
+4-12	301-308	befährt	_	
+4-13	309-312	man	_	
+4-14	313-316	die	*[9]	
+4-15	317-329	Dyroffstraße	*[9]	
+4-16	330-338	Richtung	*[9]	
+4-17	339-350	Kreuzkirche	*[9]	
+4-18	351-354	von	*[9]	
+4-19	355-358	der	*[9]	
+4-20	359-377	Franz-Tillmann-Str	*[9]	
+4-21	377-378	.	_	
+4-22	378-379	,	_	
+4-23	380-383	ist	_	
+4-24	384-388	eine	_	
+4-25	389-391	70	_	
+4-26	392-396	Grad	_	
+4-27	397-408	Rechtskurve	_	
+4-28	409-413	ohne	_	
+4-29	414-422	Einsicht	_	
+4-30	423-426	und	_	
+4-31	427-430	mit	_	
+4-32	431-440	parkenden	_	
+4-33	441-446	Autos	_	
+4-34	447-449	zu	_	
+4-35	450-460	bewältigen	_	
+4-36	460-461	.	_	
+
+#Text=Aber, es gibt kaum Gegenverkehr, denn wer sollte so eine Fahrradstraße denn benutzen?
+5-1	462-466	Aber	_	
+5-2	466-467	,	_	
+5-3	468-470	es	_	
+5-4	471-475	gibt	_	
+5-5	476-480	kaum	_	
+5-6	481-493	Gegenverkehr	_	
+5-7	493-494	,	_	
+5-8	495-499	denn	_	
+5-9	500-503	wer	_	
+5-10	504-510	sollte	_	
+5-11	511-513	so	_	
+5-12	514-518	eine	_	
+5-13	519-532	Fahrradstraße	_	
+5-14	533-537	denn	_	
+5-15	538-546	benutzen	_	
+5-16	546-547	?	_	
+
+#Text=Das Trio Riesstraße-Dyroffstraße-An der Evangelische Kirche ist ein Placebo, es nützt nichts für den Radverkehr, trägt nicht zum zügigen Vorankommen bei, trägt aber zum Saubermann-Gehabe der Stadt bei.
+6-1	548-551	Das	_	
+6-2	552-556	Trio	_	
+6-3	557-583	Riesstraße-Dyroffstraße-An	*[10]	
+6-4	584-587	der	*[10]	
+6-5	588-600	Evangelische	*[10]	
+6-6	601-607	Kirche	*[10]	
+6-7	608-611	ist	_	
+6-8	612-615	ein	_	
+6-9	616-623	Placebo	_	
+6-10	623-624	,	_	
+6-11	625-627	es	_	
+6-12	628-633	nützt	_	
+6-13	634-640	nichts	_	
+6-14	641-644	für	_	
+6-15	645-648	den	_	
+6-16	649-659	Radverkehr	_	
+6-17	659-660	,	_	
+6-18	661-666	trägt	_	
+6-19	667-672	nicht	_	
+6-20	673-676	zum	_	
+6-21	677-684	zügigen	_	
+6-22	685-696	Vorankommen	_	
+6-23	697-700	bei	_	
+6-24	700-701	,	_	
+6-25	702-707	trägt	_	
+6-26	708-712	aber	_	
+6-27	713-716	zum	_	
+6-28	717-734	Saubermann-Gehabe	_	
+6-29	735-738	der	_	
+6-30	739-744	Stadt	_	
+6-31	745-748	bei	_	
+6-32	748-749	.	_	
+
+#Text=Radstreifen auf die Kaiserstraße und Hofgarten Richtung Innenstadt, das Geld für die Schilder und sinnlose Straßenbemalung besser verwenden.
+7-1	750-761	Radstreifen	_	
+7-2	762-765	auf	_	
+7-3	766-769	die	*[11]	
+7-4	770-782	Kaiserstraße	*[11]	
+7-5	783-786	und	*[11]	
+7-6	787-796	Hofgarten	*[11]	
+7-7	797-805	Richtung	*[11]	
+7-8	806-816	Innenstadt	*[11]	
+7-9	816-817	,	_	
+7-10	818-821	das	_	
+7-11	822-826	Geld	_	
+7-12	827-830	für	_	
+7-13	831-834	die	_	
+7-14	835-843	Schilder	_	
+7-15	844-847	und	_	
+7-16	848-856	sinnlose	_	
+7-17	857-872	Straßenbemalung	_	
+7-18	873-879	besser	_	
+7-19	880-889	verwenden	_	
+7-20	889-890	.	_	

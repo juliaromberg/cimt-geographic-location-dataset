@@ -1,0 +1,118 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Neue Baustellenmarkierung - noch schlechtere Situation
+1-1	0-4	Neue	_	
+1-2	5-25	Baustellenmarkierung	_	
+1-3	26-27	-	_	
+1-4	28-32	noch	_	
+1-5	33-44	schlechtere	_	
+1-6	45-54	Situation	_	
+
+#Text=Es ist wirklich schön zu sehen, dass mit den wieder aufgenommen Arbeiten auf der Viktoriabrücke die KFZ Markierungen erneuert wurden, sodass das letzte Stückchen legal befahrbarer Radweg noch schmaler ab markiert wurde.
+2-1	57-59	Es	_	
+2-2	60-63	ist	_	
+2-3	64-72	wirklich	_	
+2-4	73-78	schön	_	
+2-5	79-81	zu	_	
+2-6	82-87	sehen	_	
+2-7	87-88	,	_	
+2-8	89-93	dass	_	
+2-9	94-97	mit	_	
+2-10	98-101	den	_	
+2-11	102-108	wieder	_	
+2-12	109-120	aufgenommen	_	
+2-13	121-129	Arbeiten	_	
+2-14	130-133	auf	_	
+2-15	134-137	der	_	
+2-16	138-152	Viktoriabrücke	_	
+2-17	153-156	die	_	
+2-18	157-160	KFZ	_	
+2-19	161-173	Markierungen	_	
+2-20	174-182	erneuert	_	
+2-21	183-189	wurden	_	
+2-22	189-190	,	_	
+2-23	191-197	sodass	_	
+2-24	198-201	das	_	
+2-25	202-208	letzte	_	
+2-26	209-218	Stückchen	_	
+2-27	219-224	legal	_	
+2-28	225-236	befahrbarer	_	
+2-29	237-243	Radweg	_	
+2-30	244-248	noch	_	
+2-31	249-257	schmaler	_	
+2-32	258-260	ab	_	
+2-33	261-269	markiert	_	
+2-34	270-275	wurde	_	
+2-35	275-276	.	_	
+
+#Text=Eine sinnvolle Markierern, dass auch in der Baustellensituation die Radfahrer in Richtung Wittelsbacher Ring wieder auf die Fahrbahn fahren wurde jedoch nicht vorgenommen.
+3-1	277-281	Eine	_	
+3-2	282-291	sinnvolle	_	
+3-3	292-302	Markierern	_	
+3-4	302-303	,	_	
+3-5	304-308	dass	_	
+3-6	309-313	auch	_	
+3-7	314-316	in	_	
+3-8	317-320	der	_	
+3-9	321-340	Baustellensituation	_	
+3-10	341-344	die	_	
+3-11	345-354	Radfahrer	_	
+3-12	355-357	in	*[8]	
+3-13	358-366	Richtung	*[8]	
+3-14	367-380	Wittelsbacher	*[8]	
+3-15	381-385	Ring	*[8]	
+3-16	386-392	wieder	_	
+3-17	393-396	auf	_	
+3-18	397-400	die	_	
+3-19	401-409	Fahrbahn	_	
+3-20	410-416	fahren	_	
+3-21	417-422	wurde	_	
+3-22	423-429	jedoch	_	
+3-23	430-435	nicht	_	
+3-24	436-447	vorgenommen	_	
+3-25	447-448	.	_	
+
+#Text=In Sachen PKW ist also Bewegung drin.
+4-1	449-451	In	_	
+4-2	452-458	Sachen	_	
+4-3	459-462	PKW	_	
+4-4	463-466	ist	_	
+4-5	467-471	also	_	
+4-6	472-480	Bewegung	_	
+4-7	481-485	drin	_	
+4-8	485-486	.	_	
+
+#Text=In Sachen Fahrrad nur Stillstand bzw. Verschlechterung.
+5-1	487-489	In	_	
+5-2	490-496	Sachen	_	
+5-3	497-504	Fahrrad	_	
+5-4	505-508	nur	_	
+5-5	509-519	Stillstand	_	
+5-6	520-523	bzw	_	
+5-7	523-524	.	_	
+5-8	525-541	Verschlechterung	_	
+5-9	541-542	.	_	
+
+#Text=Wie lange dauert es noch bis die Brücke fertig ist?
+6-1	543-546	Wie	_	
+6-2	547-552	lange	_	
+6-3	553-559	dauert	_	
+6-4	560-562	es	_	
+6-5	563-567	noch	_	
+6-6	568-571	bis	_	
+6-7	572-575	die	_	
+6-8	576-582	Brücke	_	
+6-9	583-589	fertig	_	
+6-10	590-593	ist	_	
+6-11	593-594	?	_	
+
+#Text=Zwei oder drei Jahre?
+7-1	595-599	Zwei	_	
+7-2	600-604	oder	_	
+7-3	605-609	drei	_	
+7-4	610-615	Jahre	_	
+7-5	615-616	?	_	

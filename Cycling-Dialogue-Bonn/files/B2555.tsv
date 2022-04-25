@@ -1,0 +1,53 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Stachelpalme
+1-1	0-12	Stachelpalme	_	
+
+#Text=Eigentlich ist hier alles super, und man kann die Situation super überblicken, wäre da nicht die Stachelpalme die auf dieser Ecke einen Teil der Sicht nimmt.
+2-1	15-25	Eigentlich	_	
+2-2	26-29	ist	_	
+2-3	30-34	hier	_	
+2-4	35-40	alles	_	
+2-5	41-46	super	_	
+2-6	46-47	,	_	
+2-7	48-51	und	_	
+2-8	52-55	man	_	
+2-9	56-60	kann	_	
+2-10	61-64	die	_	
+2-11	65-74	Situation	_	
+2-12	75-80	super	_	
+2-13	81-92	überblicken	_	
+2-14	92-93	,	_	
+2-15	94-98	wäre	_	
+2-16	99-101	da	_	
+2-17	102-107	nicht	_	
+2-18	108-111	die	_	
+2-19	112-124	Stachelpalme	_	
+2-20	125-128	die	_	
+2-21	129-132	auf	_	
+2-22	133-139	dieser	_	
+2-23	140-144	Ecke	_	
+2-24	145-150	einen	_	
+2-25	151-155	Teil	_	
+2-26	156-159	der	_	
+2-27	160-165	Sicht	_	
+2-28	166-171	nimmt	_	
+2-29	171-172	.	_	
+
+#Text=Vorschlag, entweder noch öfter trimmen oder wo anders hin pflanzen.
+3-1	173-182	Vorschlag	_	
+3-2	182-183	,	_	
+3-3	184-192	entweder	_	
+3-4	193-197	noch	_	
+3-5	198-203	öfter	_	
+3-6	204-211	trimmen	_	
+3-7	212-216	oder	_	
+3-8	217-219	wo	_	
+3-9	220-226	anders	_	
+3-10	227-230	hin	_	
+3-11	231-239	pflanzen	_	
+3-12	239-240	.	_	

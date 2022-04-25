@@ -1,0 +1,201 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Haltende und parkende PKWs auf Geh- und Radwegen gefährden Verkehrsteilnehmer, besonders Kinder
+1-1	0-8	Haltende	_	
+1-2	9-12	und	_	
+1-3	13-21	parkende	_	
+1-4	22-26	PKWs	_	
+1-5	27-30	auf	_	
+1-6	31-34	Geh	_	
+1-7	34-35	-	_	
+1-8	36-39	und	_	
+1-9	40-48	Radwegen	_	
+1-10	49-58	gefährden	_	
+1-11	59-77	Verkehrsteilnehmer	_	
+1-12	77-78	,	_	
+1-13	79-88	besonders	_	
+1-14	89-95	Kinder	_	
+
+#Text=Die StVO verbietet das Halten und Parken (z.B. mit PKWs) auf Geh- und Radwegen, Ausnahmen werden entsprechend beschildert.
+2-1	98-101	Die	_	
+2-2	102-106	StVO	_	
+2-3	107-116	verbietet	_	
+2-4	117-120	das	_	
+2-5	121-127	Halten	_	
+2-6	128-131	und	_	
+2-7	132-138	Parken	_	
+2-8	139-140	(	_	
+2-9	140-143	z.B	_	
+2-10	143-144	.	_	
+2-11	145-148	mit	_	
+2-12	149-153	PKWs	_	
+2-13	153-154	)	_	
+2-14	155-158	auf	_	
+2-15	159-162	Geh	_	
+2-16	162-163	-	_	
+2-17	164-167	und	_	
+2-18	168-176	Radwegen	_	
+2-19	176-177	,	_	
+2-20	178-187	Ausnahmen	_	
+2-21	188-194	werden	_	
+2-22	195-207	entsprechend	_	
+2-23	208-219	beschildert	_	
+2-24	219-220	.	_	
+
+#Text=Nur was nützt diese Vorschrift, wenn sie nicht überwacht wird?
+3-1	221-224	Nur	_	
+3-2	225-228	was	_	
+3-3	229-234	nützt	_	
+3-4	235-240	diese	_	
+3-5	241-251	Vorschrift	_	
+3-6	251-252	,	_	
+3-7	253-257	wenn	_	
+3-8	258-261	sie	_	
+3-9	262-267	nicht	_	
+3-10	268-277	überwacht	_	
+3-11	278-282	wird	_	
+3-12	282-283	?	_	
+
+#Text=Genau, schaut euch doch mal in Bonn um.
+4-1	284-289	Genau	_	
+4-2	289-290	,	_	
+4-3	291-297	schaut	_	
+4-4	298-302	euch	_	
+4-5	303-307	doch	_	
+4-6	308-311	mal	_	
+4-7	312-314	in	*[13]	
+4-8	315-319	Bonn	*[13]	
+4-9	320-322	um	_	
+4-10	322-323	.	_	
+
+#Text=Jeder weiß, dass das Risiko, beim Parken auf Geh- oder Radwegen erwischt zu werden, recht klein ist.
+5-1	324-329	Jeder	_	
+5-2	330-334	weiß	_	
+5-3	334-335	,	_	
+5-4	336-340	dass	_	
+5-5	341-344	das	_	
+5-6	345-351	Risiko	_	
+5-7	351-352	,	_	
+5-8	353-357	beim	_	
+5-9	358-364	Parken	_	
+5-10	365-368	auf	_	
+5-11	369-372	Geh	_	
+5-12	372-373	-	_	
+5-13	374-378	oder	_	
+5-14	379-387	Radwegen	_	
+5-15	388-396	erwischt	_	
+5-16	397-399	zu	_	
+5-17	400-406	werden	_	
+5-18	406-407	,	_	
+5-19	408-413	recht	_	
+5-20	414-419	klein	_	
+5-21	420-423	ist	_	
+5-22	423-424	.	_	
+
+#Text=Somit wird rücksichtslos alles zugeparkt, was möglich ist.
+6-1	425-430	Somit	_	
+6-2	431-435	wird	_	
+6-3	436-449	rücksichtslos	_	
+6-4	450-455	alles	_	
+6-5	456-465	zugeparkt	_	
+6-6	465-466	,	_	
+6-7	467-470	was	_	
+6-8	471-478	möglich	_	
+6-9	479-482	ist	_	
+6-10	482-483	.	_	
+
+#Text=Der Verkehrsraum, der Fussgängern und Radfahrern zusteht, wird von Blech blockiert.
+7-1	484-487	Der	_	
+7-2	488-500	Verkehrsraum	_	
+7-3	500-501	,	_	
+7-4	502-505	der	_	
+7-5	506-517	Fussgängern	_	
+7-6	518-521	und	_	
+7-7	522-532	Radfahrern	_	
+7-8	533-540	zusteht	_	
+7-9	540-541	,	_	
+7-10	542-546	wird	_	
+7-11	547-550	von	_	
+7-12	551-556	Blech	_	
+7-13	557-566	blockiert	_	
+7-14	566-567	.	_	
+
+#Text=Dies ist gerade für meine 6-jährige Tochter sehr gefährlich, da selbst zu spät gesehen wird und mit den Situationen sehr oft überfordert ist.
+8-1	568-572	Dies	_	
+8-2	573-576	ist	_	
+8-3	577-583	gerade	_	
+8-4	584-587	für	_	
+8-5	588-593	meine	_	
+8-6	594-595	6	_	
+8-7	595-596	-	_	
+8-8	596-603	jährige	_	
+8-9	604-611	Tochter	_	
+8-10	612-616	sehr	_	
+8-11	617-627	gefährlich	_	
+8-12	627-628	,	_	
+8-13	629-631	da	_	
+8-14	632-638	selbst	_	
+8-15	639-641	zu	_	
+8-16	642-646	spät	_	
+8-17	647-654	gesehen	_	
+8-18	655-659	wird	_	
+8-19	660-663	und	_	
+8-20	664-667	mit	_	
+8-21	668-671	den	_	
+8-22	672-683	Situationen	_	
+8-23	684-688	sehr	_	
+8-24	689-692	oft	_	
+8-25	693-704	überfordert	_	
+8-26	705-708	ist	_	
+8-27	708-709	.	_	
+
+#Text=Beispiel: an der Ecke Karl-Barth-Straße / Rheinweg parken permanent PKWs auf dem hier recht breiten Gehweg.
+9-1	710-718	Beispiel	_	
+9-2	718-719	:	_	
+9-3	720-722	an	*[14]	
+9-4	723-726	der	*[14]	
+9-5	727-731	Ecke	*[14]	
+9-6	732-749	Karl-Barth-Straße	*[14]	
+9-7	750-751	/	*[14]	
+9-8	752-760	Rheinweg	*[14]	
+9-9	761-767	parken	_	
+9-10	768-777	permanent	_	
+9-11	778-782	PKWs	_	
+9-12	783-786	auf	_	
+9-13	787-790	dem	_	
+9-14	791-795	hier	_	
+9-15	796-801	recht	_	
+9-16	802-809	breiten	_	
+9-17	810-816	Gehweg	_	
+9-18	816-817	.	_	
+
+#Text=Der Gehweg ist auch Schulweg und muss freibleiben!
+10-1	818-821	Der	_	
+10-2	822-828	Gehweg	_	
+10-3	829-832	ist	_	
+10-4	833-837	auch	_	
+10-5	838-846	Schulweg	_	
+10-6	847-850	und	_	
+10-7	851-855	muss	_	
+10-8	856-867	freibleiben	_	
+10-9	867-868	!	_	
+
+#Text=Meine Forderung: Mehr überwachen!
+11-1	869-874	Meine	_	
+11-2	875-884	Forderung	_	
+11-3	884-885	:	_	
+11-4	886-890	Mehr	_	
+11-5	891-901	überwachen	_	
+11-6	901-902	!	_	
+
+#Text=Ordnungsamt werde aktiv!!!
+12-1	903-914	Ordnungsamt	_	
+12-2	915-920	werde	_	
+12-3	921-926	aktiv	_	
+12-4	926-927	!	_	
+12-5	927-928	!	_	
+12-6	928-929	!	_	

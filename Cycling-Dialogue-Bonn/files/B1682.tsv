@@ -1,0 +1,41 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zu viele Autos
+1-1	0-2	Zu	_	
+1-2	3-8	viele	_	
+1-3	9-14	Autos	_	
+
+#Text=Zu viele Autos fahren durch die komplette Fahrradstraße (also keine Anlieger).
+2-1	17-19	Zu	_	
+2-2	20-25	viele	_	
+2-3	26-31	Autos	_	
+2-4	32-38	fahren	_	
+2-5	39-44	durch	_	
+2-6	45-48	die	_	
+2-7	49-58	komplette	_	
+2-8	59-72	Fahrradstraße	_	
+2-9	73-74	(	_	
+2-10	74-78	also	_	
+2-11	79-84	keine	_	
+2-12	85-93	Anlieger	_	
+2-13	93-94	)	_	
+2-14	94-95	.	_	
+
+#Text=Dadurch ist es effektiv keine Fahrradstraße.
+3-1	96-103	Dadurch	_	
+3-2	104-107	ist	_	
+3-3	108-110	es	_	
+3-4	111-119	effektiv	_	
+3-5	120-125	keine	_	
+3-6	126-139	Fahrradstraße	_	
+3-7	139-140	.	_	
+
+#Text=Bitte mehr kontrollieren.
+4-1	141-146	Bitte	_	
+4-2	147-151	mehr	_	
+4-3	152-165	kontrollieren	_	
+4-4	165-166	.	_	

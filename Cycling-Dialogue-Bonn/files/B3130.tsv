@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Echte Fahrradstraße - ohne PKW- Durchgangsverkehr
+1-1	0-5	Echte	_	
+1-2	6-19	Fahrradstraße	_	
+1-3	20-21	-	_	
+1-4	22-26	ohne	_	
+1-5	27-30	PKW	_	
+1-6	30-31	-	_	
+1-7	32-49	Durchgangsverkehr	_	
+
+#Text=Eine Fahrradstraße sollte eigentlich nur langsamen Verkehrsteilnehmern dienen.
+2-1	52-56	Eine	_	
+2-2	57-70	Fahrradstraße	_	
+2-3	71-77	sollte	_	
+2-4	78-88	eigentlich	_	
+2-5	89-92	nur	_	
+2-6	93-102	langsamen	_	
+2-7	103-122	Verkehrsteilnehmern	_	
+2-8	123-129	dienen	_	
+2-9	129-130	.	_	
+
+#Text=Daher in der Mitte abpollern (es ginbt ja schon genügend in Bonn) oder Blumenkübel aufstellen, sodass die Durchfahrt nur Fahrradfahrern vorbehalten bleibt und für den Anliegerverkehr per PKW zwei Sackgassen zur Verfügung stehen.
+3-1	131-136	Daher	_	
+3-2	137-139	in	_	
+3-3	140-143	der	_	
+3-4	144-149	Mitte	_	
+3-5	150-159	abpollern	_	
+3-6	160-161	(	_	
+3-7	161-163	es	_	
+3-8	164-169	ginbt	_	
+3-9	170-172	ja	_	
+3-10	173-178	schon	_	
+3-11	179-187	genügend	_	
+3-12	188-190	in	*[4]	
+3-13	191-195	Bonn	*[4]	
+3-14	195-196	)	_	
+3-15	197-201	oder	_	
+3-16	202-213	Blumenkübel	_	
+3-17	214-224	aufstellen	_	
+3-18	224-225	,	_	
+3-19	226-232	sodass	_	
+3-20	233-236	die	_	
+3-21	237-247	Durchfahrt	_	
+3-22	248-251	nur	_	
+3-23	252-266	Fahrradfahrern	_	
+3-24	267-278	vorbehalten	_	
+3-25	279-285	bleibt	_	
+3-26	286-289	und	_	
+3-27	290-293	für	_	
+3-28	294-297	den	_	
+3-29	298-313	Anliegerverkehr	_	
+3-30	314-317	per	_	
+3-31	318-321	PKW	_	
+3-32	322-326	zwei	_	
+3-33	327-337	Sackgassen	_	
+3-34	338-341	zur	_	
+3-35	342-351	Verfügung	_	
+3-36	352-358	stehen	_	
+3-37	358-359	.	_	

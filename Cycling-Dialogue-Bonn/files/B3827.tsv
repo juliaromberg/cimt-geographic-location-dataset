@@ -1,0 +1,100 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rad- und Fußgängerübergang Ollenhauer Straße
+1-1	0-3	Rad	_	
+1-2	3-4	-	_	
+1-3	5-8	und	_	
+1-4	9-26	Fußgängerübergang	_	
+1-5	27-37	Ollenhauer	*[6]	
+1-6	38-44	Straße	*[6]	
+
+#Text=An dem Übergang über die B9 werden Fußgänger und Radfahrer über den gleichen Übergang geführt.
+2-1	47-49	An	*[7]	
+2-2	50-53	dem	*[7]	
+2-3	54-62	Übergang	*[7]	
+2-4	63-67	über	*[7]	
+2-5	68-71	die	*[7]	
+2-6	72-74	B9	*[7]	
+2-7	75-81	werden	_	
+2-8	82-91	Fußgänger	_	
+2-9	92-95	und	_	
+2-10	96-105	Radfahrer	_	
+2-11	106-110	über	_	
+2-12	111-114	den	_	
+2-13	115-123	gleichen	_	
+2-14	124-132	Übergang	_	
+2-15	133-140	geführt	_	
+2-16	140-141	.	_	
+
+#Text=Der Übergang wird ebenfalls auch als Zu- und Abgang der Straßenbahnhaltestelle Ollenhauer Straße genutzt.
+3-1	142-145	Der	_	
+3-2	146-154	Übergang	_	
+3-3	155-159	wird	_	
+3-4	160-169	ebenfalls	_	
+3-5	170-174	auch	_	
+3-6	175-178	als	_	
+3-7	179-181	Zu	_	
+3-8	181-182	-	_	
+3-9	183-186	und	_	
+3-10	187-193	Abgang	_	
+3-11	194-197	der	_	
+3-12	198-220	Straßenbahnhaltestelle	*[8]	
+3-13	221-231	Ollenhauer	*[8]	
+3-14	232-238	Straße	*[8]	
+3-15	239-246	genutzt	_	
+3-16	246-247	.	_	
+
+#Text=Die Situation an der B9 lässt eine Trennung in die Gruppen a) Fußgänger mit Zugang/ Abgang Straßenbahn b) Radfahrer zu.
+4-1	248-251	Die	_	
+4-2	252-261	Situation	_	
+4-3	262-264	an	_	
+4-4	265-268	der	_	
+4-5	269-271	B9	*	
+4-6	272-277	lässt	_	
+4-7	278-282	eine	_	
+4-8	283-291	Trennung	_	
+4-9	292-294	in	_	
+4-10	295-298	die	_	
+4-11	299-306	Gruppen	_	
+4-12	307-308	a	_	
+4-13	308-309	)	_	
+4-14	310-319	Fußgänger	_	
+4-15	320-323	mit	_	
+4-16	324-330	Zugang	_	
+4-17	330-331	/	_	
+4-18	332-338	Abgang	_	
+4-19	339-350	Straßenbahn	_	
+4-20	351-352	b	_	
+4-21	352-353	)	_	
+4-22	354-363	Radfahrer	_	
+4-23	364-366	zu	_	
+4-24	366-367	.	_	
+
+#Text=Hinter dem aktuellen Übergang Richtung Süden ist genug Platz zwischen den Bäumen, um dort einen separaten Übergang für Radfahrer zu schaffen.
+5-1	368-374	Hinter	_	
+5-2	375-378	dem	_	
+5-3	379-388	aktuellen	_	
+5-4	389-397	Übergang	_	
+5-5	398-406	Richtung	_	
+5-6	407-412	Süden	_	
+5-7	413-416	ist	_	
+5-8	417-422	genug	_	
+5-9	423-428	Platz	_	
+5-10	429-437	zwischen	_	
+5-11	438-441	den	_	
+5-12	442-448	Bäumen	_	
+5-13	448-449	,	_	
+5-14	450-452	um	_	
+5-15	453-457	dort	_	
+5-16	458-463	einen	_	
+5-17	464-473	separaten	_	
+5-18	474-482	Übergang	_	
+5-19	483-486	für	_	
+5-20	487-496	Radfahrer	_	
+5-21	497-499	zu	_	
+5-22	500-508	schaffen	_	
+5-23	508-509	.	_	

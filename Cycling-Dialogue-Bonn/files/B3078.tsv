@@ -1,0 +1,123 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraßen bis zur Kreuzung verlängern
+1-1	0-14	Fahrradstraßen	_	
+1-2	15-18	bis	_	
+1-3	19-22	zur	_	
+1-4	23-31	Kreuzung	_	
+1-5	32-42	verlängern	_	
+
+#Text=In der Adelheidisstraße endet die Fahrradstraße wenige Meter vor der Kreuzung und wird auf den Fußweg gelegt.
+2-1	45-47	In	*[8]	
+2-2	48-51	der	*[8]	
+2-3	52-68	Adelheidisstraße	*[8]	
+2-4	69-74	endet	_	
+2-5	75-78	die	_	
+2-6	79-92	Fahrradstraße	_	
+2-7	93-99	wenige	_	
+2-8	100-105	Meter	_	
+2-9	106-109	vor	_	
+2-10	110-113	der	_	
+2-11	114-122	Kreuzung	_	
+2-12	123-126	und	_	
+2-13	127-131	wird	_	
+2-14	132-135	auf	_	
+2-15	136-139	den	_	
+2-16	140-146	Fußweg	_	
+2-17	147-153	gelegt	_	
+2-18	153-154	.	_	
+
+#Text=Dort bekommen dann die Radfahrer gleichzeitig mit den querenden Fußgängern Grün.
+3-1	155-159	Dort	_	
+3-2	160-168	bekommen	_	
+3-3	169-173	dann	_	
+3-4	174-177	die	_	
+3-5	178-187	Radfahrer	_	
+3-6	188-200	gleichzeitig	_	
+3-7	201-204	mit	_	
+3-8	205-208	den	_	
+3-9	209-218	querenden	_	
+3-10	219-229	Fußgängern	_	
+3-11	230-234	Grün	_	
+3-12	234-235	.	_	
+
+#Text=Das provoziert unnötige Konflikte und Zusammenstöße zwischen Radfahrern und Fußgängern.
+4-1	236-239	Das	_	
+4-2	240-250	provoziert	_	
+4-3	251-259	unnötige	_	
+4-4	260-269	Konflikte	_	
+4-5	270-273	und	_	
+4-6	274-287	Zusammenstöße	_	
+4-7	288-296	zwischen	_	
+4-8	297-307	Radfahrern	_	
+4-9	308-311	und	_	
+4-10	312-322	Fußgängern	_	
+4-11	322-323	.	_	
+
+#Text=Auch in der Clemenstraße endet die Fahrradstraße kurz vor der Kreuzung.
+5-1	324-328	Auch	_	
+5-2	329-331	in	_	
+5-3	332-335	der	*[9]	
+5-4	336-348	Clemenstraße	*[9]	
+5-5	349-354	endet	_	
+5-6	355-358	die	_	
+5-7	359-372	Fahrradstraße	_	
+5-8	373-377	kurz	_	
+5-9	378-381	vor	_	
+5-10	382-385	der	_	
+5-11	386-394	Kreuzung	_	
+5-12	394-395	.	_	
+
+#Text=Mein Vorschlag ist die Verlängerung beider Fahrradstraßen bis zur Kreuzung, so dass es eine durchgehende Radstrecke gibt.
+6-1	396-400	Mein	_	
+6-2	401-410	Vorschlag	_	
+6-3	411-414	ist	_	
+6-4	415-418	die	_	
+6-5	419-431	Verlängerung	_	
+6-6	432-438	beider	_	
+6-7	439-453	Fahrradstraßen	_	
+6-8	454-457	bis	_	
+6-9	458-461	zur	_	
+6-10	462-470	Kreuzung	_	
+6-11	470-471	,	_	
+6-12	472-474	so	_	
+6-13	475-479	dass	_	
+6-14	480-482	es	_	
+6-15	483-487	eine	_	
+6-16	488-500	durchgehende	_	
+6-17	501-511	Radstrecke	_	
+6-18	512-516	gibt	_	
+6-19	516-517	.	_	
+
+#Text=Auch die Ampelschaltung sollte so verändert werden, dass sie nicht nur auf Autofahrer optimiert ist, sondern die Interessen von Radfahrern und Fußgängern angemessen berücksichtigt.
+7-1	518-522	Auch	_	
+7-2	523-526	die	_	
+7-3	527-541	Ampelschaltung	_	
+7-4	542-548	sollte	_	
+7-5	549-551	so	_	
+7-6	552-561	verändert	_	
+7-7	562-568	werden	_	
+7-8	568-569	,	_	
+7-9	570-574	dass	_	
+7-10	575-578	sie	_	
+7-11	579-584	nicht	_	
+7-12	585-588	nur	_	
+7-13	589-592	auf	_	
+7-14	593-603	Autofahrer	_	
+7-15	604-613	optimiert	_	
+7-16	614-617	ist	_	
+7-17	617-618	,	_	
+7-18	619-626	sondern	_	
+7-19	627-630	die	_	
+7-20	631-641	Interessen	_	
+7-21	642-645	von	_	
+7-22	646-656	Radfahrern	_	
+7-23	657-660	und	_	
+7-24	661-671	Fußgängern	_	
+7-25	672-682	angemessen	_	
+7-26	683-697	berücksichtigt	_	
+7-27	697-698	.	_	

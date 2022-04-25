@@ -1,0 +1,236 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Linksseitiger Radweg an der L 158
+1-1	0-13	Linksseitiger	_	
+1-2	14-20	Radweg	_	
+1-3	21-23	an	*[12]	
+1-4	24-27	der	*[12]	
+1-5	28-29	L	*[12]	
+1-6	30-33	158	*[12]	
+
+#Text=Die Kennzeichnung hier ist eigentlich skandalös: Von Pech kommend ist der Weg mit Blauschildern als benutzungspflichtig gekennzeichnet.
+2-1	36-39	Die	_	
+2-2	40-53	Kennzeichnung	_	
+2-3	54-58	hier	_	
+2-4	59-62	ist	_	
+2-5	63-73	eigentlich	_	
+2-6	74-83	skandalös	_	
+2-7	83-84	:	_	
+2-8	85-88	Von	_	
+2-9	89-93	Pech	_	
+2-10	94-101	kommend	_	
+2-11	102-105	ist	_	
+2-12	106-109	der	_	
+2-13	110-113	Weg	_	
+2-14	114-117	mit	_	
+2-15	118-131	Blauschildern	_	
+2-16	132-135	als	_	
+2-17	136-155	benutzungspflichtig	_	
+2-18	156-170	gekennzeichnet	_	
+2-19	170-171	.	_	
+
+#Text=Auf Bonner Seite wiederholt sich das am Forellenhof.
+3-1	172-175	Auf	*[13]	
+3-2	176-182	Bonner	*[13]	
+3-3	183-188	Seite	*[13]	
+3-4	189-199	wiederholt	_	
+3-5	200-204	sich	_	
+3-6	205-208	das	_	
+3-7	209-211	am	*[14]	
+3-8	212-223	Forellenhof	*[14]	
+3-9	223-224	.	_	
+
+#Text=An der Einmündung Schlangenweg ist linksseitig keine Freigabe, Radfahrer von dort müssen also auf der Fahrbahn fahren.
+4-1	225-227	An	*[15]	
+4-2	228-231	der	*[15]	
+4-3	232-242	Einmündung	*[15]	
+4-4	243-255	Schlangenweg	*[15]	
+4-5	256-259	ist	_	
+4-6	260-271	linksseitig	_	
+4-7	272-277	keine	_	
+4-8	278-286	Freigabe	_	
+4-9	286-287	,	_	
+4-10	288-297	Radfahrer	_	
+4-11	298-301	von	_	
+4-12	302-306	dort	_	
+4-13	307-313	müssen	_	
+4-14	314-318	also	_	
+4-15	319-322	auf	_	
+4-16	323-326	der	_	
+4-17	327-335	Fahrbahn	_	
+4-18	336-342	fahren	_	
+4-19	342-343	.	_	
+
+#Text=An den Einmündungen Venner Kirchweg und Marienforster Steinweg ist ebenfalls außer Wegweisern keinerlei Kennzeichnung.
+5-1	344-346	An	*[16]	
+5-2	347-350	den	*[16]	
+5-3	351-363	Einmündungen	*[16]	
+5-4	364-370	Venner	*[16]	
+5-5	371-379	Kirchweg	*[16]	
+5-6	380-383	und	*[16]	
+5-7	384-397	Marienforster	*[16]	
+5-8	398-406	Steinweg	*[16]	
+5-9	407-410	ist	_	
+5-10	411-420	ebenfalls	_	
+5-11	421-426	außer	_	
+5-12	427-437	Wegweisern	_	
+5-13	438-447	keinerlei	_	
+5-14	448-461	Kennzeichnung	_	
+5-15	461-462	.	_	
+
+#Text=Spätestens hier müssen also auch von Pech kommende Radfahrer auf die Fahrbahn wechseln, denn das Befahren nicht freigegebener linksseitiger Radwege ist verboten.
+6-1	463-473	Spätestens	_	
+6-2	474-478	hier	_	
+6-3	479-485	müssen	_	
+6-4	486-490	also	_	
+6-5	491-495	auch	_	
+6-6	496-499	von	_	
+6-7	500-504	Pech	_	
+6-8	505-513	kommende	_	
+6-9	514-523	Radfahrer	_	
+6-10	524-527	auf	_	
+6-11	528-531	die	_	
+6-12	532-540	Fahrbahn	_	
+6-13	541-549	wechseln	_	
+6-14	549-550	,	_	
+6-15	551-555	denn	_	
+6-16	556-559	das	_	
+6-17	560-568	Befahren	_	
+6-18	569-574	nicht	_	
+6-19	575-588	freigegebener	_	
+6-20	589-602	linksseitiger	_	
+6-21	603-610	Radwege	_	
+6-22	611-614	ist	_	
+6-23	615-623	verboten	_	
+6-24	623-624	.	_	
+
+#Text=An der Einmündung Am Stadtwald ist auf den roten Untergrund ein weißes Fußgänger/Radfahrer-Symbol mit zwei Pfeilen gemalt, ansonsten keinerlei Kennzeichnung in Richtung Godesberg.
+7-1	625-627	An	*[17]	
+7-2	628-631	der	*[17]	
+7-3	632-642	Einmündung	*[17]	
+7-4	643-645	Am	*[17]	
+7-5	646-655	Stadtwald	*[17]	
+7-6	656-659	ist	_	
+7-7	660-663	auf	_	
+7-8	664-667	den	_	
+7-9	668-673	roten	_	
+7-10	674-684	Untergrund	_	
+7-11	685-688	ein	_	
+7-12	689-695	weißes	_	
+7-13	696-705	Fußgänger	_	
+7-14	705-706	/	_	
+7-15	706-722	Radfahrer-Symbol	_	
+7-16	723-726	mit	_	
+7-17	727-731	zwei	_	
+7-18	732-739	Pfeilen	_	
+7-19	740-746	gemalt	_	
+7-20	746-747	,	_	
+7-21	748-757	ansonsten	_	
+7-22	758-767	keinerlei	_	
+7-23	768-781	Kennzeichnung	_	
+7-24	782-784	in	*[18]	
+7-25	785-793	Richtung	*[18]	
+7-26	794-803	Godesberg	*[18]	
+7-27	803-804	.	_	
+
+#Text=An der markierten Stelle auf Höhe der Zufahrt zum Minigolfplatz (Marienforster Promenade) hängt dann plötzlich längsseitig ein Zeichen 240 Gemeinsamer Geh- und Radweg mit Zusatzzeichen beide Richtungen.
+8-1	805-807	An	_	
+8-2	808-811	der	_	
+8-3	812-822	markierten	_	
+8-4	823-829	Stelle	_	
+8-5	830-833	auf	_	
+8-6	834-838	Höhe	_	
+8-7	839-842	der	_	
+8-8	843-850	Zufahrt	*[19]	
+8-9	851-854	zum	*[19]	
+8-10	855-868	Minigolfplatz	*[19]	
+8-11	869-870	(	*[19]	
+8-12	870-883	Marienforster	*[19]	
+8-13	884-893	Promenade	*[19]	
+8-14	893-894	)	_	
+8-15	895-900	hängt	_	
+8-16	901-905	dann	_	
+8-17	906-915	plötzlich	_	
+8-18	916-927	längsseitig	_	
+8-19	928-931	ein	_	
+8-20	932-939	Zeichen	_	
+8-21	940-943	240	_	
+8-22	944-955	Gemeinsamer	_	
+8-23	956-959	Geh	_	
+8-24	959-960	-	_	
+8-25	961-964	und	_	
+8-26	965-971	Radweg	_	
+8-27	972-975	mit	_	
+8-28	976-989	Zusatzzeichen	_	
+8-29	990-995	beide	_	
+8-30	996-1006	Richtungen	_	
+8-31	1006-1007	.	_	
+
+#Text=Augenscheinlich wird vom Fahrbahnfahrer hier erwartet, nach Sichtung eine Vollbremsung hinzulegen und auf den Radweg zu wechseln, um der Benutzungspflicht nachzukommen.
+9-1	1008-1023	Augenscheinlich	_	
+9-2	1024-1028	wird	_	
+9-3	1029-1032	vom	_	
+9-4	1033-1047	Fahrbahnfahrer	_	
+9-5	1048-1052	hier	_	
+9-6	1053-1061	erwartet	_	
+9-7	1061-1062	,	_	
+9-8	1063-1067	nach	_	
+9-9	1068-1076	Sichtung	_	
+9-10	1077-1081	eine	_	
+9-11	1082-1094	Vollbremsung	_	
+9-12	1095-1105	hinzulegen	_	
+9-13	1106-1109	und	_	
+9-14	1110-1113	auf	_	
+9-15	1114-1117	den	_	
+9-16	1118-1124	Radweg	_	
+9-17	1125-1127	zu	_	
+9-18	1128-1136	wechseln	_	
+9-19	1136-1137	,	_	
+9-20	1138-1140	um	_	
+9-21	1141-1144	der	_	
+9-22	1145-1162	Benutzungspflicht	_	
+9-23	1163-1175	nachzukommen	_	
+9-24	1175-1176	.	_	
+
+#Text=Grotesk!
+10-1	1177-1184	Grotesk	_	
+10-2	1184-1185	!	_	
+
+#Text=An der Kreuzung Quellenstraße ist dann schon wieder Fuß-/Radweg Ende, verbunden mit vorgeschriebene Fahrtrichtung links und ohne irgendeine Kennzeichnung, wie man geradeaus auf die Burgstraße kommen könnte.
+11-1	1186-1188	An	*[20]	
+11-2	1189-1192	der	*[20]	
+11-3	1193-1201	Kreuzung	*[20]	
+11-4	1202-1215	Quellenstraße	*[20]	
+11-5	1216-1219	ist	_	
+11-6	1220-1224	dann	_	
+11-7	1225-1230	schon	_	
+11-8	1231-1237	wieder	_	
+11-9	1238-1241	Fuß	_	
+11-10	1241-1242	-	_	
+11-11	1242-1243	/	_	
+11-12	1243-1249	Radweg	_	
+11-13	1250-1254	Ende	_	
+11-14	1254-1255	,	_	
+11-15	1256-1265	verbunden	_	
+11-16	1266-1269	mit	_	
+11-17	1270-1285	vorgeschriebene	_	
+11-18	1286-1299	Fahrtrichtung	_	
+11-19	1300-1305	links	_	
+11-20	1306-1309	und	_	
+11-21	1310-1314	ohne	_	
+11-22	1315-1325	irgendeine	_	
+11-23	1326-1339	Kennzeichnung	_	
+11-24	1339-1340	,	_	
+11-25	1341-1344	wie	_	
+11-26	1345-1348	man	_	
+11-27	1349-1358	geradeaus	_	
+11-28	1359-1362	auf	*[21]	
+11-29	1363-1366	die	*[21]	
+11-30	1367-1377	Burgstraße	*[21]	
+11-31	1378-1384	kommen	_	
+11-32	1385-1391	könnte	_	
+11-33	1391-1392	.	_	

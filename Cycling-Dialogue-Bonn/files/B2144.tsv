@@ -1,0 +1,124 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Blendung bei roter Ampel und Dunkelheit durch Fahrzeuge am Bahnübergang
+1-1	0-8	Blendung	_	
+1-2	9-12	bei	_	
+1-3	13-18	roter	_	
+1-4	19-24	Ampel	_	
+1-5	25-28	und	_	
+1-6	29-39	Dunkelheit	_	
+1-7	40-45	durch	_	
+1-8	46-55	Fahrzeuge	_	
+1-9	56-58	am	_	
+1-10	59-71	Bahnübergang	_	
+
+#Text=Fährt man den Radweg aus Richtung Bad Godesberg in Richtung Bonn auf den Bahnübergang zu (parallel zur Bahnstrecke) und steht bei Dunkelheit ein beleuchtetes Fahrzeug auf der Oscar Romero Allee vor der roten Ampel, so wird man aufgrund der Straßenführung bauartbedingt als Radfahrer so geblendet, also ob das Fahrzeug mit Fernlicht dort stände.
+2-1	74-79	Fährt	_	
+2-2	80-83	man	_	
+2-3	84-87	den	_	
+2-4	88-94	Radweg	*[5]	
+2-5	95-98	aus	*[5]	
+2-6	99-107	Richtung	*[5]	
+2-7	108-111	Bad	*[5]	
+2-8	112-121	Godesberg	*[5]	
+2-9	122-124	in	*[5]	
+2-10	125-133	Richtung	*[5]	
+2-11	134-138	Bonn	*[5]	
+2-12	139-142	auf	*[5]	
+2-13	143-146	den	*[5]	
+2-14	147-159	Bahnübergang	*[5]	
+2-15	160-162	zu	*[5]	
+2-16	163-164	(	*[5]	
+2-17	164-172	parallel	*[5]	
+2-18	173-176	zur	*[5]	
+2-19	177-188	Bahnstrecke	*[5]	
+2-20	188-189	)	_	
+2-21	190-193	und	_	
+2-22	194-199	steht	_	
+2-23	200-203	bei	_	
+2-24	204-214	Dunkelheit	_	
+2-25	215-218	ein	_	
+2-26	219-231	beleuchtetes	_	
+2-27	232-240	Fahrzeug	_	
+2-28	241-244	auf	*[6]	
+2-29	245-248	der	*[6]	
+2-30	249-254	Oscar	*[6]	
+2-31	255-261	Romero	*[6]	
+2-32	262-267	Allee	*[6]	
+2-33	268-271	vor	_	
+2-34	272-275	der	_	
+2-35	276-281	roten	_	
+2-36	282-287	Ampel	_	
+2-37	287-288	,	_	
+2-38	289-291	so	_	
+2-39	292-296	wird	_	
+2-40	297-300	man	_	
+2-41	301-309	aufgrund	_	
+2-42	310-313	der	_	
+2-43	314-328	Straßenführung	_	
+2-44	329-342	bauartbedingt	_	
+2-45	343-346	als	_	
+2-46	347-356	Radfahrer	_	
+2-47	357-359	so	_	
+2-48	360-369	geblendet	_	
+2-49	369-370	,	_	
+2-50	371-375	also	_	
+2-51	376-378	ob	_	
+2-52	379-382	das	_	
+2-53	383-391	Fahrzeug	_	
+2-54	392-395	mit	_	
+2-55	396-405	Fernlicht	_	
+2-56	406-410	dort	_	
+2-57	411-417	stände	_	
+2-58	417-418	.	_	
+
+#Text=Da diesen Überweg sowohl viele Schüler wie auch sonstige Fußgänger nutzen, ergeben sich insbesondere in der dunklen Jahreszeit häufig Gefahrensituationen, da Fußgänger oder andere Radfahrer einfach nicht gesehen werden können.
+3-1	419-421	Da	_	
+3-2	422-428	diesen	_	
+3-3	429-436	Überweg	_	
+3-4	437-443	sowohl	_	
+3-5	444-449	viele	_	
+3-6	450-457	Schüler	_	
+3-7	458-461	wie	_	
+3-8	462-466	auch	_	
+3-9	467-475	sonstige	_	
+3-10	476-485	Fußgänger	_	
+3-11	486-492	nutzen	_	
+3-12	492-493	,	_	
+3-13	494-501	ergeben	_	
+3-14	502-506	sich	_	
+3-15	507-519	insbesondere	_	
+3-16	520-522	in	_	
+3-17	523-526	der	_	
+3-18	527-534	dunklen	_	
+3-19	535-545	Jahreszeit	_	
+3-20	546-552	häufig	_	
+3-21	553-572	Gefahrensituationen	_	
+3-22	572-573	,	_	
+3-23	574-576	da	_	
+3-24	577-586	Fußgänger	_	
+3-25	587-591	oder	_	
+3-26	592-598	andere	_	
+3-27	599-608	Radfahrer	_	
+3-28	609-616	einfach	_	
+3-29	617-622	nicht	_	
+3-30	623-630	gesehen	_	
+3-31	631-637	werden	_	
+3-32	638-644	können	_	
+3-33	644-645	.	_	
+
+#Text=Durch entsprechende bauliche Maßnahmen könnte diese Gefahrenstelle entschärft werden.
+4-1	646-651	Durch	_	
+4-2	652-665	entsprechende	_	
+4-3	666-674	bauliche	_	
+4-4	675-684	Maßnahmen	_	
+4-5	685-691	könnte	_	
+4-6	692-697	diese	_	
+4-7	698-712	Gefahrenstelle	_	
+4-8	713-723	entschärft	_	
+4-9	724-730	werden	_	
+4-10	730-731	.	_	

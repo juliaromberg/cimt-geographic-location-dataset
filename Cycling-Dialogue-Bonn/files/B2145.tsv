@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg schadhaft
+1-1	0-6	Radweg	_	
+1-2	7-16	schadhaft	_	
+
+#Text=Radweg ist sehr schmal und in einem unsäglichen Zustand.
+2-1	19-25	Radweg	_	
+2-2	26-29	ist	_	
+2-3	30-34	sehr	_	
+2-4	35-41	schmal	_	
+2-5	42-45	und	_	
+2-6	46-48	in	_	
+2-7	49-54	einem	_	
+2-8	55-66	unsäglichen	_	
+2-9	67-74	Zustand	_	
+2-10	74-75	.	_	
+
+#Text=Sprungschanzen durch Wurzeln.
+3-1	76-90	Sprungschanzen	_	
+3-2	91-96	durch	_	
+3-3	97-104	Wurzeln	_	
+3-4	104-105	.	_	
+
+#Text=Er gehört verbreitert und die Schäden ausgebessert.
+4-1	106-108	Er	_	
+4-2	109-115	gehört	_	
+4-3	116-127	verbreitert	_	
+4-4	128-131	und	_	
+4-5	132-135	die	_	
+4-6	136-143	Schäden	_	
+4-7	144-156	ausgebessert	_	
+4-8	156-157	.	_	

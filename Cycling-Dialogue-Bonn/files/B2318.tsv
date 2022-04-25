@@ -1,0 +1,44 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Busbahnhof
+1-1	0-10	Busbahnhof	_	
+
+#Text=Die Situation am Busbahnhof ist für Radfahrer sehr unübersichtlich.
+2-1	13-16	Die	_	
+2-2	17-26	Situation	_	
+2-3	27-29	am	_	
+2-4	30-40	Busbahnhof	_	
+2-5	41-44	ist	_	
+2-6	45-48	für	_	
+2-7	49-58	Radfahrer	_	
+2-8	59-63	sehr	_	
+2-9	64-79	unübersichtlich	_	
+2-10	79-80	.	_	
+
+#Text=Wo darf ich fahren, wenn ich nach Süden will?
+3-1	81-83	Wo	_	
+3-2	84-88	darf	_	
+3-3	89-92	ich	_	
+3-4	93-99	fahren	_	
+3-5	99-100	,	_	
+3-6	101-105	wenn	_	
+3-7	106-109	ich	_	
+3-8	110-114	nach	_	
+3-9	115-120	Süden	_	
+3-10	121-125	will	_	
+3-11	125-126	?	_	
+
+#Text=Hier wäre eine Radspur in Richtung Süden hilfreich.
+4-1	127-131	Hier	_	
+4-2	132-136	wäre	_	
+4-3	137-141	eine	_	
+4-4	142-149	Radspur	_	
+4-5	150-152	in	_	
+4-6	153-161	Richtung	_	
+4-7	162-167	Süden	_	
+4-8	168-177	hilfreich	_	
+4-9	177-178	.	_	

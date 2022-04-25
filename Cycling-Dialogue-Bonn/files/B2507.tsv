@@ -1,0 +1,26 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Holperstrecke
+1-1	0-13	Holperstrecke	_	
+
+#Text=Von Tannenbusch nach Buschdorf fährt man über Rüttelstrecke, die das Fahren zur Qual macht.
+2-1	16-19	Von	*[2]	
+2-2	20-31	Tannenbusch	*[2]	
+2-3	32-36	nach	*[2]	
+2-4	37-46	Buschdorf	*[2]	
+2-5	47-52	fährt	_	
+2-6	53-56	man	_	
+2-7	57-61	über	*[3]	
+2-8	62-75	Rüttelstrecke	*[3]	
+2-9	75-76	,	_	
+2-10	77-80	die	_	
+2-11	81-84	das	_	
+2-12	85-91	Fahren	_	
+2-13	92-95	zur	_	
+2-14	96-100	Qual	_	
+2-15	101-106	macht	_	
+2-16	106-107	.	_	

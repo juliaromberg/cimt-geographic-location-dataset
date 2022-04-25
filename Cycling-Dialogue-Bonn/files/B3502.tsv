@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rechts vor links auch unter Fahrradfahrern
+1-1	0-6	Rechts	_	
+1-2	7-10	vor	_	
+1-3	11-16	links	_	
+1-4	17-21	auch	_	
+1-5	22-27	unter	_	
+1-6	28-42	Fahrradfahrern	_	
+
+#Text=Die NICHTEinhaltung der Verkehrsregeln bei Fahrradfahrern untereinander ist mittlerweile durch die große Zahl der Radfahrer ein echtes Problem.
+2-1	45-48	Die	_	
+2-2	49-64	NICHTEinhaltung	_	
+2-3	65-68	der	_	
+2-4	69-83	Verkehrsregeln	_	
+2-5	84-87	bei	_	
+2-6	88-102	Fahrradfahrern	_	
+2-7	103-116	untereinander	_	
+2-8	117-120	ist	_	
+2-9	121-133	mittlerweile	_	
+2-10	134-139	durch	_	
+2-11	140-143	die	_	
+2-12	144-149	große	_	
+2-13	150-154	Zahl	_	
+2-14	155-158	der	_	
+2-15	159-168	Radfahrer	_	
+2-16	169-172	ein	_	
+2-17	173-179	echtes	_	
+2-18	180-187	Problem	_	
+2-19	187-188	.	_	
+
+#Text=Eine Problematische Stelle ist die markierte Kreuzung zweier Fahrradwege, bei der durchbMarkierung offensichtlich rechts vor links gilt, was von den Fahrradfahrern in Ost-West-Richtung negiert wird.
+3-1	189-193	Eine	_	
+3-2	194-208	Problematische	_	
+3-3	209-215	Stelle	_	
+3-4	216-219	ist	_	
+3-5	220-223	die	_	
+3-6	224-233	markierte	_	
+3-7	234-242	Kreuzung	_	
+3-8	243-249	zweier	_	
+3-9	250-261	Fahrradwege	_	
+3-10	261-262	,	_	
+3-11	263-266	bei	_	
+3-12	267-270	der	_	
+3-13	271-287	durchbMarkierung	_	
+3-14	288-302	offensichtlich	_	
+3-15	303-309	rechts	_	
+3-16	310-313	vor	_	
+3-17	314-319	links	_	
+3-18	320-324	gilt	_	
+3-19	324-325	,	_	
+3-20	326-329	was	_	
+3-21	330-333	von	_	
+3-22	334-337	den	_	
+3-23	338-352	Fahrradfahrern	_	
+3-24	353-355	in	_	
+3-25	356-373	Ost-West-Richtung	_	
+3-26	374-381	negiert	_	
+3-27	382-386	wird	_	
+3-28	386-387	.	_	
+
+#Text=Die Kreuzung ist durch Buschwerk sehr schlecht einsehbar.
+4-1	388-391	Die	_	
+4-2	392-400	Kreuzung	_	
+4-3	401-404	ist	_	
+4-4	405-410	durch	_	
+4-5	411-420	Buschwerk	_	
+4-6	421-425	sehr	_	
+4-7	426-434	schlecht	_	
+4-8	435-444	einsehbar	_	
+4-9	444-445	.	_	
+
+#Text=Ich würde mir hier gelegentliche Präsenz der Fahrradpolizei wünschen und bessere Einsehbarkeit.
+5-1	446-449	Ich	_	
+5-2	450-455	würde	_	
+5-3	456-459	mir	_	
+5-4	460-464	hier	_	
+5-5	465-478	gelegentliche	_	
+5-6	479-486	Präsenz	_	
+5-7	487-490	der	_	
+5-8	491-505	Fahrradpolizei	_	
+5-9	506-514	wünschen	_	
+5-10	515-518	und	_	
+5-11	519-526	bessere	_	
+5-12	527-540	Einsehbarkeit	_	
+5-13	540-541	.	_	

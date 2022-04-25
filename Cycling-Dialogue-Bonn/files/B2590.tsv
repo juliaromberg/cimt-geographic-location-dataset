@@ -1,0 +1,33 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Weg verbreitern als Fahrradweg
+1-1	0-3	Weg	_	
+1-2	4-15	verbreitern	_	
+1-3	16-19	als	_	
+1-4	20-30	Fahrradweg	_	
+
+#Text=Der Weg dient als direkte Verbindung zum Venusberg.
+2-1	33-36	Der	_	
+2-2	37-40	Weg	_	
+2-3	41-46	dient	_	
+2-4	47-50	als	_	
+2-5	51-58	direkte	*[4]	
+2-6	59-69	Verbindung	*[4]	
+2-7	70-73	zum	*[4]	
+2-8	74-83	Venusberg	*[4]	
+2-9	83-84	.	_	
+
+#Text=Leider ist der Weg sehr schmal und matschig.
+3-1	85-91	Leider	_	
+3-2	92-95	ist	_	
+3-3	96-99	der	_	
+3-4	100-103	Weg	_	
+3-5	104-108	sehr	_	
+3-6	109-115	schmal	_	
+3-7	116-119	und	_	
+3-8	120-128	matschig	_	
+3-9	128-129	.	_	

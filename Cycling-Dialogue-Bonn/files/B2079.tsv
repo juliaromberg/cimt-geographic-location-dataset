@@ -1,0 +1,112 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bordstein absenken
+1-1	0-9	Bordstein	_	
+1-2	10-18	absenken	_	
+
+#Text=Wenn man aus der Neustraße kommt und Auf den Grendt Richtung Nord-Ost einbiegen will hat man zwei Alternativen: a) über den Bordstein runterhoppeln um auf die Fahrbahn zu kommen b) gegen die Fahrtrichtung auf dem nördlichen Gehweg bis zur Brücke zu fahren und dort am abgesenkten Bordstein auf die Fahrbahn (natürlich zur anderen Fahrbahnseite) zu fahren.
+2-1	21-25	Wenn	_	
+2-2	26-29	man	_	
+2-3	30-33	aus	*[4]	
+2-4	34-37	der	*[4]	
+2-5	38-47	Neustraße	*[4]	
+2-6	48-53	kommt	*[4]	
+2-7	54-57	und	*[4]	
+2-8	58-61	Auf	*[4]	
+2-9	62-65	den	*[4]	
+2-10	66-72	Grendt	*[4]	
+2-11	73-81	Richtung	*[4]	
+2-12	82-90	Nord-Ost	*[4]	
+2-13	91-100	einbiegen	*[4]	
+2-14	101-105	will	_	
+2-15	106-109	hat	_	
+2-16	110-113	man	_	
+2-17	114-118	zwei	_	
+2-18	119-131	Alternativen	_	
+2-19	131-132	:	_	
+2-20	133-134	a	_	
+2-21	134-135	)	_	
+2-22	136-140	über	_	
+2-23	141-144	den	_	
+2-24	145-154	Bordstein	_	
+2-25	155-168	runterhoppeln	_	
+2-26	169-171	um	_	
+2-27	172-175	auf	_	
+2-28	176-179	die	_	
+2-29	180-188	Fahrbahn	_	
+2-30	189-191	zu	_	
+2-31	192-198	kommen	_	
+2-32	199-200	b	_	
+2-33	200-201	)	_	
+2-34	202-207	gegen	_	
+2-35	208-211	die	_	
+2-36	212-225	Fahrtrichtung	_	
+2-37	226-229	auf	_	
+2-38	230-233	dem	_	
+2-39	234-244	nördlichen	_	
+2-40	245-251	Gehweg	_	
+2-41	252-255	bis	_	
+2-42	256-259	zur	_	
+2-43	260-266	Brücke	_	
+2-44	267-269	zu	_	
+2-45	270-276	fahren	_	
+2-46	277-280	und	_	
+2-47	281-285	dort	_	
+2-48	286-288	am	_	
+2-49	289-300	abgesenkten	_	
+2-50	301-310	Bordstein	_	
+2-51	311-314	auf	_	
+2-52	315-318	die	_	
+2-53	319-327	Fahrbahn	_	
+2-54	328-329	(	_	
+2-55	329-338	natürlich	_	
+2-56	339-342	zur	_	
+2-57	343-350	anderen	_	
+2-58	351-364	Fahrbahnseite	_	
+2-59	364-365	)	_	
+2-60	366-368	zu	_	
+2-61	369-375	fahren	_	
+2-62	375-376	.	_	
+
+#Text=Wünschenswert wäre es direkt im Bereich der Einmündung der Neustraße einen abgesenkten Bordstein zu haben, so dass man, unter Beachtung der Vorfahrt der Fußgänger, Radfahrer und Kraftverkehr, auf die Straße fahren kann.
+3-1	377-390	Wünschenswert	_	
+3-2	391-395	wäre	_	
+3-3	396-398	es	_	
+3-4	399-405	direkt	_	
+3-5	406-408	im	*[5]	
+3-6	409-416	Bereich	*[5]	
+3-7	417-420	der	*[5]	
+3-8	421-431	Einmündung	*[5]	
+3-9	432-435	der	*[5]	
+3-10	436-445	Neustraße	*[5]	
+3-11	446-451	einen	_	
+3-12	452-463	abgesenkten	_	
+3-13	464-473	Bordstein	_	
+3-14	474-476	zu	_	
+3-15	477-482	haben	_	
+3-16	482-483	,	_	
+3-17	484-486	so	_	
+3-18	487-491	dass	_	
+3-19	492-495	man	_	
+3-20	495-496	,	_	
+3-21	497-502	unter	_	
+3-22	503-512	Beachtung	_	
+3-23	513-516	der	_	
+3-24	517-525	Vorfahrt	_	
+3-25	526-529	der	_	
+3-26	530-539	Fußgänger	_	
+3-27	539-540	,	_	
+3-28	541-550	Radfahrer	_	
+3-29	551-554	und	_	
+3-30	555-567	Kraftverkehr	_	
+3-31	567-568	,	_	
+3-32	569-572	auf	_	
+3-33	573-576	die	_	
+3-34	577-583	Straße	_	
+3-35	584-590	fahren	_	
+3-36	591-595	kann	_	
+3-37	595-596	.	_	

@@ -1,0 +1,175 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Andere Radwege am Ehrenfeldgürtel beseitigen!
+1-1	0-6	Andere	_	
+1-2	7-14	Radwege	_	
+1-3	15-17	am	*[7]	
+1-4	18-33	Ehrenfeldgürtel	*[7]	
+1-5	34-44	beseitigen	_	
+1-6	44-45	!	_	
+
+#Text=Auf dem Ehrenfeldgürtel zw. Venloer und Eisenbahnunterführung besteht keine Radwegbenutzungspflicht, doch fahren fast alle Radfahrer auf dem Gehweg, dessen fahrbahnseitige Hälfte als anderer Radweg zwar noch benutzt werden darf, jedoch inzw. quasi die gleiche graue Farbe wie die Gehwegplatten hat.
+2-1	48-51	Auf	*[8]	
+2-2	52-55	dem	*[8]	
+2-3	56-71	Ehrenfeldgürtel	*[8]	
+2-4	72-74	zw	*[8]	
+2-5	74-75	.	*[8]	
+2-6	76-83	Venloer	*[8]	
+2-7	84-87	und	*[8]	
+2-8	88-109	Eisenbahnunterführung	*[8]	
+2-9	110-117	besteht	_	
+2-10	118-123	keine	_	
+2-11	124-147	Radwegbenutzungspflicht	_	
+2-12	147-148	,	_	
+2-13	149-153	doch	_	
+2-14	154-160	fahren	_	
+2-15	161-165	fast	_	
+2-16	166-170	alle	_	
+2-17	171-180	Radfahrer	_	
+2-18	181-184	auf	_	
+2-19	185-188	dem	_	
+2-20	189-195	Gehweg	_	
+2-21	195-196	,	_	
+2-22	197-203	dessen	_	
+2-23	204-219	fahrbahnseitige	_	
+2-24	220-226	Hälfte	_	
+2-25	227-230	als	_	
+2-26	231-238	anderer	_	
+2-27	239-245	Radweg	_	
+2-28	246-250	zwar	_	
+2-29	251-255	noch	_	
+2-30	256-263	benutzt	_	
+2-31	264-270	werden	_	
+2-32	271-275	darf	_	
+2-33	275-276	,	_	
+2-34	277-283	jedoch	_	
+2-35	284-288	inzw	_	
+2-36	288-289	.	_	
+2-37	290-295	quasi	_	
+2-38	296-299	die	_	
+2-39	300-307	gleiche	_	
+2-40	308-313	graue	_	
+2-41	314-319	Farbe	_	
+2-42	320-323	wie	_	
+2-43	324-327	die	_	
+2-44	328-341	Gehwegplatten	_	
+2-45	342-345	hat	_	
+2-46	345-346	.	_	
+
+#Text=Die Radfahrer behindern die Fußgänger, die nicht einmal zu zweit nebeneinander, oder aneinander vorbei, gehen können!
+3-1	347-350	Die	_	
+3-2	351-360	Radfahrer	_	
+3-3	361-370	behindern	_	
+3-4	371-374	die	_	
+3-5	375-384	Fußgänger	_	
+3-6	384-385	,	_	
+3-7	386-389	die	_	
+3-8	390-395	nicht	_	
+3-9	396-402	einmal	_	
+3-10	403-405	zu	_	
+3-11	406-411	zweit	_	
+3-12	412-425	nebeneinander	_	
+3-13	425-426	,	_	
+3-14	427-431	oder	_	
+3-15	432-442	aneinander	_	
+3-16	443-449	vorbei	_	
+3-17	449-450	,	_	
+3-18	451-456	gehen	_	
+3-19	457-463	können	_	
+3-20	463-464	!	_	
+
+#Text=Die Flanier- und Aufenthaltsqualität des Ehrenfeldgürtels ist hier leider gleich Null!
+4-1	465-468	Die	_	
+4-2	469-476	Flanier	_	
+4-3	476-477	-	_	
+4-4	478-481	und	_	
+4-5	482-501	Aufenthaltsqualität	_	
+4-6	502-505	des	_	
+4-7	506-522	Ehrenfeldgürtels	*	
+4-8	523-526	ist	_	
+4-9	527-531	hier	_	
+4-10	532-538	leider	_	
+4-11	539-545	gleich	_	
+4-12	546-550	Null	_	
+4-13	550-551	!	_	
+
+#Text=Also: Radstreifen auf der Fahrbahn markieren und den Gehweg eindeutig als solchen markien, auf daß Fußgänger in Ruhe wandeln und Radfahrer bequem fahren können (ohne daß letztere von besserwissenden Autofahrern, welche die geltende Verkehrsregel nicht kennen, angehupt werden).
+5-1	552-556	Also	_	
+5-2	556-557	:	_	
+5-3	558-569	Radstreifen	_	
+5-4	570-573	auf	_	
+5-5	574-577	der	_	
+5-6	578-586	Fahrbahn	_	
+5-7	587-596	markieren	_	
+5-8	597-600	und	_	
+5-9	601-604	den	_	
+5-10	605-611	Gehweg	_	
+5-11	612-621	eindeutig	_	
+5-12	622-625	als	_	
+5-13	626-633	solchen	_	
+5-14	634-641	markien	_	
+5-15	641-642	,	_	
+5-16	643-646	auf	_	
+5-17	647-650	daß	_	
+5-18	651-660	Fußgänger	_	
+5-19	661-663	in	_	
+5-20	664-668	Ruhe	_	
+5-21	669-676	wandeln	_	
+5-22	677-680	und	_	
+5-23	681-690	Radfahrer	_	
+5-24	691-697	bequem	_	
+5-25	698-704	fahren	_	
+5-26	705-711	können	_	
+5-27	712-713	(	_	
+5-28	713-717	ohne	_	
+5-29	718-721	daß	_	
+5-30	722-730	letztere	_	
+5-31	731-734	von	_	
+5-32	735-750	besserwissenden	_	
+5-33	751-762	Autofahrern	_	
+5-34	762-763	,	_	
+5-35	764-770	welche	_	
+5-36	771-774	die	_	
+5-37	775-783	geltende	_	
+5-38	784-797	Verkehrsregel	_	
+5-39	798-803	nicht	_	
+5-40	804-810	kennen	_	
+5-41	810-811	,	_	
+5-42	812-820	angehupt	_	
+5-43	821-827	werden	_	
+5-44	827-828	)	_	
+5-45	828-829	.	_	
+
+#Text=Und wenn dann noch die unansehnlichen KVB-Gleise entweder als Rasengleis hergerichtet würden oder asphaltiert, als gleichzeitige Busspur, könnte dieser Abschnitt des Gürtels sogar akzeptabel aussehen.
+6-1	830-833	Und	_	
+6-2	834-838	wenn	_	
+6-3	839-843	dann	_	
+6-4	844-848	noch	_	
+6-5	849-852	die	_	
+6-6	853-867	unansehnlichen	_	
+6-7	868-878	KVB-Gleise	_	
+6-8	879-887	entweder	_	
+6-9	888-891	als	_	
+6-10	892-902	Rasengleis	_	
+6-11	903-915	hergerichtet	_	
+6-12	916-922	würden	_	
+6-13	923-927	oder	_	
+6-14	928-939	asphaltiert	_	
+6-15	939-940	,	_	
+6-16	941-944	als	_	
+6-17	945-958	gleichzeitige	_	
+6-18	959-966	Busspur	_	
+6-19	966-967	,	_	
+6-20	968-974	könnte	_	
+6-21	975-981	dieser	_	
+6-22	982-991	Abschnitt	_	
+6-23	992-995	des	_	
+6-24	996-1003	Gürtels	_	
+6-25	1004-1009	sogar	_	
+6-26	1010-1020	akzeptabel	_	
+6-27	1021-1029	aussehen	_	
+6-28	1029-1030	.	_	

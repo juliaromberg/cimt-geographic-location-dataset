@@ -1,0 +1,28 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=ungesichert und Fahrbahnschäden
+1-1	0-11	ungesichert	_	
+1-2	12-15	und	_	
+1-3	16-31	Fahrbahnschäden	_	
+
+#Text=ungesicherter Radweg, häufig überhöhte Geschwindigkeit, schlechte Luftqualität, Fahrbahnschäden f. Radfahrer besonders gefährlich
+2-1	34-47	ungesicherter	_	
+2-2	48-54	Radweg	_	
+2-3	54-55	,	_	
+2-4	56-62	häufig	_	
+2-5	63-72	überhöhte	_	
+2-6	73-88	Geschwindigkeit	_	
+2-7	88-89	,	_	
+2-8	90-99	schlechte	_	
+2-9	100-112	Luftqualität	_	
+2-10	112-113	,	_	
+2-11	114-129	Fahrbahnschäden	_	
+2-12	130-131	f	_	
+2-13	131-132	.	_	
+2-14	133-142	Radfahrer	_	
+2-15	143-152	besonders	_	
+2-16	153-163	gefährlich	_	

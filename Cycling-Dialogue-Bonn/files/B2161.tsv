@@ -1,0 +1,193 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlender Radweg
+1-1	0-9	Fehlender	_	
+1-2	10-16	Radweg	_	
+
+#Text=Auf der gesamten Robert-kochstrasse vom Venusberg runter, sowie in der Heinrich-Lützeler-Strasse fehlt ein Radweg.
+2-1	19-22	Auf	*[11]	
+2-2	23-26	der	*[11]	
+2-3	27-35	gesamten	*[11]	
+2-4	36-54	Robert-kochstrasse	*[11]	
+2-5	55-58	vom	*[11]	
+2-6	59-68	Venusberg	*[11]	
+2-7	69-75	runter	*[11]	
+2-8	75-76	,	_	
+2-9	77-82	sowie	_	
+2-10	83-85	in	_	
+2-11	86-89	der	*[12]	
+2-12	90-115	Heinrich-Lützeler-Strasse	*[12]	
+2-13	116-121	fehlt	_	
+2-14	122-125	ein	_	
+2-15	126-132	Radweg	_	
+2-16	132-133	.	_	
+
+#Text=Man wird teilweise halsbrecherisch von Autos überholt, obwohl man bergab ja nicht so langsam ist.
+3-1	134-137	Man	_	
+3-2	138-142	wird	_	
+3-3	143-152	teilweise	_	
+3-4	153-168	halsbrecherisch	_	
+3-5	169-172	von	_	
+3-6	173-178	Autos	_	
+3-7	179-187	überholt	_	
+3-8	187-188	,	_	
+3-9	189-195	obwohl	_	
+3-10	196-199	man	_	
+3-11	200-206	bergab	_	
+3-12	207-209	ja	_	
+3-13	210-215	nicht	_	
+3-14	216-218	so	_	
+3-15	219-226	langsam	_	
+3-16	227-230	ist	_	
+3-17	230-231	.	_	
+
+#Text=Außerdem befinden sich auf der Heinrich -Lützeler -Straße viele Schlaglöcher, die es besonders gefährlich machen.
+4-1	232-240	Außerdem	_	
+4-2	241-249	befinden	_	
+4-3	250-254	sich	_	
+4-4	255-258	auf	*[13]	
+4-5	259-262	der	*[13]	
+4-6	263-271	Heinrich	*[13]	
+4-7	272-273	-	*[13]	
+4-8	273-281	Lützeler	*[13]	
+4-9	282-283	-	*[13]	
+4-10	283-289	Straße	*[13]	
+4-11	290-295	viele	_	
+4-12	296-308	Schlaglöcher	_	
+4-13	308-309	,	_	
+4-14	310-313	die	_	
+4-15	314-316	es	_	
+4-16	317-326	besonders	_	
+4-17	327-337	gefährlich	_	
+4-18	338-344	machen	_	
+4-19	344-345	.	_	
+
+#Text=Mein Vorschlag wäre ein deutlich ausgeschildertes Tempolimit von 30 km/h für den gesamten Weg.
+5-1	346-350	Mein	_	
+5-2	351-360	Vorschlag	_	
+5-3	361-365	wäre	_	
+5-4	366-369	ein	_	
+5-5	370-378	deutlich	_	
+5-6	379-395	ausgeschildertes	_	
+5-7	396-406	Tempolimit	_	
+5-8	407-410	von	_	
+5-9	411-413	30	_	
+5-10	414-416	km	_	
+5-11	416-417	/	_	
+5-12	417-418	h	_	
+5-13	419-422	für	_	
+5-14	423-426	den	_	
+5-15	427-435	gesamten	_	
+5-16	436-439	Weg	_	
+5-17	439-440	.	_	
+
+#Text=Vielleicht kann man auch zusätzliche Schilder aufstellen, die auf Radfahrer aufmerksam machen.
+6-1	441-451	Vielleicht	_	
+6-2	452-456	kann	_	
+6-3	457-460	man	_	
+6-4	461-465	auch	_	
+6-5	466-477	zusätzliche	_	
+6-6	478-486	Schilder	_	
+6-7	487-497	aufstellen	_	
+6-8	497-498	,	_	
+6-9	499-502	die	_	
+6-10	503-506	auf	_	
+6-11	507-516	Radfahrer	_	
+6-12	517-527	aufmerksam	_	
+6-13	528-534	machen	_	
+6-14	534-535	.	_	
+
+#Text=Dies gilt auch auf dem Weg bergauf in der Heinrich -lützeler -strasse und in der Robert-koch-strasse bis zum Marienhospital, wo sich kein Radweg befindet.
+7-1	536-540	Dies	_	
+7-2	541-545	gilt	_	
+7-3	546-550	auch	_	
+7-4	551-554	auf	_	
+7-5	555-558	dem	_	
+7-6	559-562	Weg	_	
+7-7	563-570	bergauf	_	
+7-8	571-573	in	*[14]	
+7-9	574-577	der	*[14]	
+7-10	578-586	Heinrich	*[14]	
+7-11	587-588	-	*[14]	
+7-12	588-596	lützeler	*[14]	
+7-13	597-598	-	*[14]	
+7-14	598-605	strasse	*[14]	
+7-15	606-609	und	*[14]	
+7-16	610-612	in	*[14]	
+7-17	613-616	der	*[14]	
+7-18	617-636	Robert-koch-strasse	*[14]	
+7-19	637-640	bis	*[14]	
+7-20	641-644	zum	*[14]	
+7-21	645-659	Marienhospital	*[14]	
+7-22	659-660	,	_	
+7-23	661-663	wo	_	
+7-24	664-668	sich	_	
+7-25	669-673	kein	_	
+7-26	674-680	Radweg	_	
+7-27	681-689	befindet	_	
+7-28	689-690	.	_	
+
+#Text=Zudem möchte ich eine kostenlose Fahrradmitnahme in öffentlichen Verkehrsmitteln anregen.
+8-1	691-696	Zudem	_	
+8-2	697-703	möchte	_	
+8-3	704-707	ich	_	
+8-4	708-712	eine	_	
+8-5	713-723	kostenlose	_	
+8-6	724-739	Fahrradmitnahme	_	
+8-7	740-742	in	_	
+8-8	743-755	öffentlichen	_	
+8-9	756-771	Verkehrsmitteln	_	
+8-10	772-779	anregen	_	
+8-11	779-780	.	_	
+
+#Text=Ich denke, dass viele Menschen den Venusberg scheuen und bei dieser Möglichkeit auch auf ihr Auto verzichten würden.
+9-1	781-784	Ich	_	
+9-2	785-790	denke	_	
+9-3	790-791	,	_	
+9-4	792-796	dass	_	
+9-5	797-802	viele	_	
+9-6	803-811	Menschen	_	
+9-7	812-815	den	_	
+9-8	816-825	Venusberg	*	
+9-9	826-833	scheuen	_	
+9-10	834-837	und	_	
+9-11	838-841	bei	_	
+9-12	842-848	dieser	_	
+9-13	849-860	Möglichkeit	_	
+9-14	861-865	auch	_	
+9-15	866-869	auf	_	
+9-16	870-873	ihr	_	
+9-17	874-878	Auto	_	
+9-18	879-889	verzichten	_	
+9-19	890-896	würden	_	
+9-20	896-897	.	_	
+
+#Text=Ich denke hier sollten mehr Busse eingesetzt werden zu den Stoßzeiten, so dass man zügig und unkompliziert den Berg zur Uniklinik hochkommt.
+10-1	898-901	Ich	_	
+10-2	902-907	denke	_	
+10-3	908-912	hier	_	
+10-4	913-920	sollten	_	
+10-5	921-925	mehr	_	
+10-6	926-931	Busse	_	
+10-7	932-942	eingesetzt	_	
+10-8	943-949	werden	_	
+10-9	950-952	zu	_	
+10-10	953-956	den	_	
+10-11	957-967	Stoßzeiten	_	
+10-12	967-968	,	_	
+10-13	969-971	so	_	
+10-14	972-976	dass	_	
+10-15	977-980	man	_	
+10-16	981-986	zügig	_	
+10-17	987-990	und	_	
+10-18	991-1004	unkompliziert	_	
+10-19	1005-1008	den	*[15]	
+10-20	1009-1013	Berg	*[15]	
+10-21	1014-1017	zur	*[15]	
+10-22	1018-1027	Uniklinik	*[15]	
+10-23	1028-1037	hochkommt	_	
+10-24	1037-1038	.	_	

@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schutzstreifen ohne Abstand zu parkenden Autos
+1-1	0-14	Schutzstreifen	_	
+1-2	15-19	ohne	_	
+1-3	20-27	Abstand	_	
+1-4	28-30	zu	_	
+1-5	31-40	parkenden	_	
+1-6	41-46	Autos	_	
+
+#Text=Auf der Friedhofsseite ist der Schutzstreifen zu nah an den parkenden Autos.
+2-1	49-52	Auf	*[4]	
+2-2	53-56	der	*[4]	
+2-3	57-71	Friedhofsseite	*[4]	
+2-4	72-75	ist	_	
+2-5	76-79	der	_	
+2-6	80-94	Schutzstreifen	_	
+2-7	95-97	zu	_	
+2-8	98-101	nah	_	
+2-9	102-104	an	_	
+2-10	105-108	den	_	
+2-11	109-118	parkenden	_	
+2-12	119-124	Autos	_	
+2-13	124-125	.	_	
+
+#Text=Wenn man den Sicherheitsabstand einhält fährt man extrem weit links auf dem Streifen, bzw. schon auf der PKW Spur.
+3-1	126-130	Wenn	_	
+3-2	131-134	man	_	
+3-3	135-138	den	_	
+3-4	139-157	Sicherheitsabstand	_	
+3-5	158-165	einhält	_	
+3-6	166-171	fährt	_	
+3-7	172-175	man	_	
+3-8	176-182	extrem	_	
+3-9	183-187	weit	_	
+3-10	188-193	links	_	
+3-11	194-197	auf	_	
+3-12	198-201	dem	_	
+3-13	202-210	Streifen	_	
+3-14	210-211	,	_	
+3-15	212-215	bzw	_	
+3-16	215-216	.	_	
+3-17	217-222	schon	_	
+3-18	223-226	auf	_	
+3-19	227-230	der	_	
+3-20	231-234	PKW	_	
+3-21	235-239	Spur	_	
+3-22	239-240	.	_	

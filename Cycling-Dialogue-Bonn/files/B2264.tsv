@@ -1,0 +1,134 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelschaltung
+1-1	0-14	Ampelschaltung	_	
+
+#Text=Kommt man aus der Rochusstraße aus Richtung Endenich und möchte weiter auf Am Burgweiher radeln, d.h. nicht in die Fußgängerzone, ist die Ampelschaltung Mist.
+2-1	17-22	Kommt	_	
+2-2	23-26	man	_	
+2-3	27-30	aus	*[7]	
+2-4	31-34	der	*[7]	
+2-5	35-47	Rochusstraße	*[7]	
+2-6	48-51	aus	*[7]	
+2-7	52-60	Richtung	*[7]	
+2-8	61-69	Endenich	*[7]	
+2-9	70-73	und	*[7]	
+2-10	74-80	möchte	*[7]	
+2-11	81-87	weiter	*[7]	
+2-12	88-91	auf	*[7]	
+2-13	92-94	Am	*[7]	
+2-14	95-105	Burgweiher	*[7]	
+2-15	106-112	radeln	_	
+2-16	112-113	,	_	
+2-17	114-117	d.h	_	
+2-18	117-118	.	_	
+2-19	119-124	nicht	_	
+2-20	125-127	in	_	
+2-21	128-131	die	_	
+2-22	132-145	Fußgängerzone	_	
+2-23	145-146	,	_	
+2-24	147-150	ist	_	
+2-25	151-154	die	_	
+2-26	155-169	Ampelschaltung	_	
+2-27	170-174	Mist	_	
+2-28	174-175	.	_	
+
+#Text=Es gibt eine Ampel für Fußgänger und Radfahrer (die zu beachten ist), die gegenphasig zur Ampel für Autofahrer geschaltet ist.
+3-1	176-178	Es	_	
+3-2	179-183	gibt	_	
+3-3	184-188	eine	_	
+3-4	189-194	Ampel	_	
+3-5	195-198	für	_	
+3-6	199-208	Fußgänger	_	
+3-7	209-212	und	_	
+3-8	213-222	Radfahrer	_	
+3-9	223-224	(	_	
+3-10	224-227	die	_	
+3-11	228-230	zu	_	
+3-12	231-239	beachten	_	
+3-13	240-243	ist	_	
+3-14	243-244	)	_	
+3-15	244-245	,	_	
+3-16	246-249	die	_	
+3-17	250-261	gegenphasig	_	
+3-18	262-265	zur	_	
+3-19	266-271	Ampel	_	
+3-20	272-275	für	_	
+3-21	276-286	Autofahrer	_	
+3-22	287-297	geschaltet	_	
+3-23	298-301	ist	_	
+3-24	301-302	.	_	
+
+#Text=Dies ist aber nur sinnvoll, wenn man in die Fußgängerzone will und zwei Fußgängerfurten zu überqueren hat.
+4-1	303-307	Dies	_	
+4-2	308-311	ist	_	
+4-3	312-316	aber	_	
+4-4	317-320	nur	_	
+4-5	321-329	sinnvoll	_	
+4-6	329-330	,	_	
+4-7	331-335	wenn	_	
+4-8	336-339	man	_	
+4-9	340-342	in	_	
+4-10	343-346	die	_	
+4-11	347-360	Fußgängerzone	_	
+4-12	361-365	will	_	
+4-13	366-369	und	_	
+4-14	370-374	zwei	_	
+4-15	375-390	Fußgängerfurten	_	
+4-16	391-393	zu	_	
+4-17	394-404	überqueren	_	
+4-18	405-408	hat	_	
+4-19	408-409	.	_	
+
+#Text=Will man geradeaus, und hält sich an die Fußgängerampel, behindert man die Fußgänger, die die Rochusstraße überqueren.
+5-1	410-414	Will	_	
+5-2	415-418	man	_	
+5-3	419-428	geradeaus	_	
+5-4	428-429	,	_	
+5-5	430-433	und	_	
+5-6	434-438	hält	_	
+5-7	439-443	sich	_	
+5-8	444-446	an	_	
+5-9	447-450	die	_	
+5-10	451-465	Fußgängerampel	_	
+5-11	465-466	,	_	
+5-12	467-476	behindert	_	
+5-13	477-480	man	_	
+5-14	481-484	die	_	
+5-15	485-494	Fußgänger	_	
+5-16	494-495	,	_	
+5-17	496-499	die	_	
+5-18	500-503	die	*[8]	
+5-19	504-516	Rochusstraße	*[8]	
+5-20	517-527	überqueren	*[8]	
+5-21	527-528	.	_	
+
+#Text=Eigentlich müsste man sich in dem Fall an die Ampel für Autofahrer halten.
+6-1	529-539	Eigentlich	_	
+6-2	540-546	müsste	_	
+6-3	547-550	man	_	
+6-4	551-555	sich	_	
+6-5	556-558	in	_	
+6-6	559-562	dem	_	
+6-7	563-567	Fall	_	
+6-8	568-570	an	_	
+6-9	571-574	die	_	
+6-10	575-580	Ampel	_	
+6-11	581-584	für	_	
+6-12	585-595	Autofahrer	_	
+6-13	596-602	halten	_	
+6-14	602-603	.	_	
+
+#Text=Das Konzept muss hier neu überdacht werden.
+7-1	604-607	Das	_	
+7-2	608-615	Konzept	_	
+7-3	616-620	muss	_	
+7-4	621-625	hier	_	
+7-5	626-629	neu	_	
+7-6	630-639	überdacht	_	
+7-7	640-646	werden	_	
+7-8	646-647	.	_	

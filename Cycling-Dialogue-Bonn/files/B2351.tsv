@@ -1,0 +1,63 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Tunnel Reuterstraße
+1-1	0-6	Tunnel	*[5]	
+1-2	7-19	Reuterstraße	*[5]	
+
+#Text=Sehr geehrte Damen und Herren, die Reuterstraße stellt (nicht nur für Radfahrer) eine Trennung zwischen den Stadtteilen dar.
+2-1	22-26	Sehr	_	
+2-2	27-34	geehrte	_	
+2-3	35-40	Damen	_	
+2-4	41-44	und	_	
+2-5	45-51	Herren	_	
+2-6	51-52	,	_	
+2-7	53-56	die	*[6]	
+2-8	57-69	Reuterstraße	*[6]	
+2-9	70-76	stellt	_	
+2-10	77-78	(	_	
+2-11	78-83	nicht	_	
+2-12	84-87	nur	_	
+2-13	88-91	für	_	
+2-14	92-101	Radfahrer	_	
+2-15	101-102	)	_	
+2-16	103-107	eine	_	
+2-17	108-116	Trennung	_	
+2-18	117-125	zwischen	_	
+2-19	126-129	den	_	
+2-20	130-141	Stadtteilen	_	
+2-21	142-145	dar	_	
+2-22	145-146	.	_	
+
+#Text=Die Rotphasen sind für die Querstraßen, zu recht, sehr lang.
+3-1	147-150	Die	_	
+3-2	151-160	Rotphasen	_	
+3-3	161-165	sind	_	
+3-4	166-169	für	_	
+3-5	170-173	die	_	
+3-6	174-185	Querstraßen	_	
+3-7	185-186	,	_	
+3-8	187-189	zu	_	
+3-9	190-195	recht	_	
+3-10	195-196	,	_	
+3-11	197-201	sehr	_	
+3-12	202-206	lang	_	
+3-13	206-207	.	_	
+
+#Text=Zur Verbesserung des Fußgänger und Radverkehrs würde sich hier eine Unterführung anbieten.
+4-1	208-211	Zur	_	
+4-2	212-224	Verbesserung	_	
+4-3	225-228	des	_	
+4-4	229-238	Fußgänger	_	
+4-5	239-242	und	_	
+4-6	243-254	Radverkehrs	_	
+4-7	255-260	würde	_	
+4-8	261-265	sich	_	
+4-9	266-270	hier	_	
+4-10	271-275	eine	_	
+4-11	276-288	Unterführung	_	
+4-12	289-297	anbieten	_	
+4-13	297-298	.	_	

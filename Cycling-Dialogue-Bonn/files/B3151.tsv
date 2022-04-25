@@ -1,0 +1,201 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Häufig zugewachsen, Zumutung seitens des Grünflächenamtes
+1-1	0-6	Häufig	_	
+1-2	7-18	zugewachsen	_	
+1-3	18-19	,	_	
+1-4	20-28	Zumutung	_	
+1-5	29-36	seitens	_	
+1-6	37-40	des	_	
+1-7	41-57	Grünflächenamtes	_	
+
+#Text=Der benutzungspflichtige Radweg Richtung Süden ist hier vom Bahndamm her häufig zugewachsen.
+2-1	60-63	Der	_	
+2-2	64-84	benutzungspflichtige	_	
+2-3	85-91	Radweg	_	
+2-4	92-100	Richtung	_	
+2-5	101-106	Süden	_	
+2-6	107-110	ist	_	
+2-7	111-115	hier	_	
+2-8	116-119	vom	_	
+2-9	120-128	Bahndamm	*	
+2-10	129-132	her	_	
+2-11	133-139	häufig	_	
+2-12	140-151	zugewachsen	_	
+2-13	151-152	.	_	
+
+#Text=Durch den entgegenkommenden Radverkehr welcher den zu schmalen Radweg ebenfalls nutzen darf und parkende Autos die auf den Radweg ragen wird der Weg noch weiter verengt, so dass es häufig zu bedenklich engem Begegnungsverkehr kommt.
+3-1	153-158	Durch	_	
+3-2	159-162	den	_	
+3-3	163-180	entgegenkommenden	_	
+3-4	181-191	Radverkehr	_	
+3-5	192-199	welcher	_	
+3-6	200-203	den	_	
+3-7	204-206	zu	_	
+3-8	207-215	schmalen	_	
+3-9	216-222	Radweg	_	
+3-10	223-232	ebenfalls	_	
+3-11	233-239	nutzen	_	
+3-12	240-244	darf	_	
+3-13	245-248	und	_	
+3-14	249-257	parkende	_	
+3-15	258-263	Autos	_	
+3-16	264-267	die	_	
+3-17	268-271	auf	_	
+3-18	272-275	den	_	
+3-19	276-282	Radweg	_	
+3-20	283-288	ragen	_	
+3-21	289-293	wird	_	
+3-22	294-297	der	_	
+3-23	298-301	Weg	_	
+3-24	302-306	noch	_	
+3-25	307-313	weiter	_	
+3-26	314-321	verengt	_	
+3-27	321-322	,	_	
+3-28	323-325	so	_	
+3-29	326-330	dass	_	
+3-30	331-333	es	_	
+3-31	334-340	häufig	_	
+3-32	341-343	zu	_	
+3-33	344-354	bedenklich	_	
+3-34	355-360	engem	_	
+3-35	361-378	Begegnungsverkehr	_	
+3-36	379-384	kommt	_	
+3-37	384-385	.	_	
+
+#Text=Den Grünüberwuchs kann man der Stadt melden z.B. unter https://anliegen.bonn.de und erhält dann auch sehr schnell Antwort, allerdings ohne dass schnell etwas passiert.
+4-1	386-389	Den	_	
+4-2	390-403	Grünüberwuchs	_	
+4-3	404-408	kann	_	
+4-4	409-412	man	_	
+4-5	413-416	der	_	
+4-6	417-422	Stadt	_	
+4-7	423-429	melden	_	
+4-8	430-433	z.B	_	
+4-9	433-434	.	_	
+4-10	435-440	unter	_	
+4-11	441-446	https	_	
+4-12	446-447	:	_	
+4-13	447-448	/	_	
+4-14	448-449	/	_	
+4-15	449-465	anliegen.bonn.de	_	
+4-16	466-469	und	_	
+4-17	470-476	erhält	_	
+4-18	477-481	dann	_	
+4-19	482-486	auch	_	
+4-20	487-491	sehr	_	
+4-21	492-499	schnell	_	
+4-22	500-507	Antwort	_	
+4-23	507-508	,	_	
+4-24	509-519	allerdings	_	
+4-25	520-524	ohne	_	
+4-26	525-529	dass	_	
+4-27	530-537	schnell	_	
+4-28	538-543	etwas	_	
+4-29	544-552	passiert	_	
+4-30	552-553	.	_	
+
+#Text=Unter https://anliegen.bonn.de/seiten/Leistungen findet sich dies: Grünüberwuchs Verkehrsraum Von öffentlichen Grünflächen wachsen Pflanzen auf Straßen oder Gehwege und führen zu eingeschränkter Sicht oder Nutzung.
+5-1	554-559	Unter	_	
+5-2	560-565	https	_	
+5-3	565-566	:	_	
+5-4	566-567	/	_	
+5-5	567-568	/	_	
+5-6	568-584	anliegen.bonn.de	_	
+5-7	584-585	/	_	
+5-8	585-591	seiten	_	
+5-9	591-592	/	_	
+5-10	592-602	Leistungen	_	
+5-11	603-609	findet	_	
+5-12	610-614	sich	_	
+5-13	615-619	dies	_	
+5-14	619-620	:	_	
+5-15	621-634	Grünüberwuchs	_	
+5-16	635-647	Verkehrsraum	_	
+5-17	648-651	Von	_	
+5-18	652-664	öffentlichen	_	
+5-19	665-676	Grünflächen	_	
+5-20	677-684	wachsen	_	
+5-21	685-693	Pflanzen	_	
+5-22	694-697	auf	_	
+5-23	698-705	Straßen	_	
+5-24	706-710	oder	_	
+5-25	711-718	Gehwege	_	
+5-26	719-722	und	_	
+5-27	723-729	führen	_	
+5-28	730-732	zu	_	
+5-29	733-748	eingeschränkter	_	
+5-30	749-754	Sicht	_	
+5-31	755-759	oder	_	
+5-32	760-767	Nutzung	_	
+5-33	767-768	.	_	
+
+#Text=Das Amt für Stadtgrün kümmert sich hierum in einem Zeitraum von ungefähr sechs Wochen
+6-1	769-772	Das	_	
+6-2	773-776	Amt	_	
+6-3	777-780	für	_	
+6-4	781-790	Stadtgrün	_	
+6-5	791-798	kümmert	_	
+6-6	799-803	sich	_	
+6-7	804-810	hierum	_	
+6-8	811-813	in	_	
+6-9	814-819	einem	_	
+6-10	820-828	Zeitraum	_	
+6-11	829-832	von	_	
+6-12	833-841	ungefähr	_	
+6-13	842-847	sechs	_	
+6-14	848-854	Wochen	_	
+
+#Text=Bis zu SECHS WOCHEN um zugewachsene Verkehrsflächen wieder Verkehrssicher zu machen?
+7-1	855-858	Bis	_	
+7-2	859-861	zu	_	
+7-3	862-867	SECHS	_	
+7-4	868-874	WOCHEN	_	
+7-5	875-877	um	_	
+7-6	878-890	zugewachsene	_	
+7-7	891-906	Verkehrsflächen	_	
+7-8	907-913	wieder	_	
+7-9	914-928	Verkehrssicher	_	
+7-10	929-931	zu	_	
+7-11	932-938	machen	_	
+7-12	938-939	?	_	
+
+#Text=Das ist ein Unding!
+8-1	940-943	Das	_	
+8-2	944-947	ist	_	
+8-3	948-951	ein	_	
+8-4	952-958	Unding	_	
+8-5	958-959	!	_	
+
+#Text=Hier sollte im Bereich von wenigen Tagen gehandelt werden, schließlich sind schmale Radwege durch den Grünüberwuchs schnell so schmal, dass sie quasi unpassierbar sind.
+9-1	960-964	Hier	_	
+9-2	965-971	sollte	_	
+9-3	972-974	im	_	
+9-4	975-982	Bereich	_	
+9-5	983-986	von	_	
+9-6	987-994	wenigen	_	
+9-7	995-1000	Tagen	_	
+9-8	1001-1010	gehandelt	_	
+9-9	1011-1017	werden	_	
+9-10	1017-1018	,	_	
+9-11	1019-1030	schließlich	_	
+9-12	1031-1035	sind	_	
+9-13	1036-1043	schmale	_	
+9-14	1044-1051	Radwege	_	
+9-15	1052-1057	durch	_	
+9-16	1058-1061	den	_	
+9-17	1062-1075	Grünüberwuchs	_	
+9-18	1076-1083	schnell	_	
+9-19	1084-1086	so	_	
+9-20	1087-1093	schmal	_	
+9-21	1093-1094	,	_	
+9-22	1095-1099	dass	_	
+9-23	1100-1103	sie	_	
+9-24	1104-1109	quasi	_	
+9-25	1110-1122	unpassierbar	_	
+9-26	1123-1127	sind	_	
+9-27	1127-1128	.	_	

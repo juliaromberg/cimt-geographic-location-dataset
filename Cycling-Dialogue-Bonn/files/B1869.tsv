@@ -1,0 +1,35 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg schlecht
+1-1	0-6	Radweg	_	
+1-2	7-15	schlecht	_	
+
+#Text=Der Radweg an der Königswinterer Straße ist einfach nur schlecht.
+2-1	18-21	Der	*[4]	
+2-2	22-28	Radweg	*[4]	
+2-3	29-31	an	*[4]	
+2-4	32-35	der	*[4]	
+2-5	36-50	Königswinterer	*[4]	
+2-6	51-57	Straße	*[4]	
+2-7	58-61	ist	_	
+2-8	62-69	einfach	_	
+2-9	70-73	nur	_	
+2-10	74-82	schlecht	_	
+2-11	82-83	.	_	
+
+#Text=Die Belag ist holprig und an vielen Stellen auch zugeparkt.
+3-1	84-87	Die	_	
+3-2	88-93	Belag	_	
+3-3	94-97	ist	_	
+3-4	98-105	holprig	_	
+3-5	106-109	und	_	
+3-6	110-112	an	_	
+3-7	113-119	vielen	_	
+3-8	120-127	Stellen	_	
+3-9	128-132	auch	_	
+3-10	133-142	zugeparkt	_	
+3-11	142-143	.	_	

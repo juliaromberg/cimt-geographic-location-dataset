@@ -1,0 +1,41 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg endet im Nix
+1-1	0-6	Radweg	_	
+1-2	7-12	endet	_	
+1-3	13-15	im	_	
+1-4	16-19	Nix	_	
+
+#Text=An der Verkehrsinsel endet der Radweg auf beiden Seiten im Nix.
+2-1	22-24	An	_	
+2-2	25-28	der	_	
+2-3	29-42	Verkehrsinsel	_	
+2-4	43-48	endet	_	
+2-5	49-52	der	_	
+2-6	53-59	Radweg	_	
+2-7	60-63	auf	_	
+2-8	64-70	beiden	_	
+2-9	71-77	Seiten	_	
+2-10	78-80	im	_	
+2-11	81-84	Nix	_	
+2-12	84-85	.	_	
+
+#Text=Warum geht er nicht weiter und die Autos müssten halt Platz machen??
+3-1	86-91	Warum	_	
+3-2	92-96	geht	_	
+3-3	97-99	er	_	
+3-4	100-105	nicht	_	
+3-5	106-112	weiter	_	
+3-6	113-116	und	_	
+3-7	117-120	die	_	
+3-8	121-126	Autos	_	
+3-9	127-134	müssten	_	
+3-10	135-139	halt	_	
+3-11	140-145	Platz	_	
+3-12	146-152	machen	_	
+3-13	152-153	?	_	
+3-14	153-154	?	_	

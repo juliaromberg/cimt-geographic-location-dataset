@@ -1,0 +1,14 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Längere Grünphase für Rad- und Fußverkehr
+1-1	0-7	Längere	_	
+1-2	8-17	Grünphase	_	
+1-3	18-21	für	_	
+1-4	22-25	Rad	_	
+1-5	25-26	-	_	
+1-6	27-30	und	_	
+1-7	31-41	Fußverkehr	_	

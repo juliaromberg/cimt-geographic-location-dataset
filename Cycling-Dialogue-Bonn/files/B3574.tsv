@@ -1,0 +1,165 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Reisebusse an den Fähranlegern
+1-1	0-10	Reisebusse	_	
+1-2	11-13	an	_	
+1-3	14-17	den	_	
+1-4	18-30	Fähranlegern	_	
+
+#Text=Das wilde Parken der Reisebusse an den Fähranlegern ist ein Problem für alle Beteiligten.
+2-1	33-36	Das	_	
+2-2	37-42	wilde	_	
+2-3	43-49	Parken	_	
+2-4	50-53	der	_	
+2-5	54-64	Reisebusse	_	
+2-6	65-67	an	_	
+2-7	68-71	den	_	
+2-8	72-84	Fähranlegern	_	
+2-9	85-88	ist	_	
+2-10	89-92	ein	_	
+2-11	93-100	Problem	_	
+2-12	101-104	für	_	
+2-13	105-109	alle	_	
+2-14	110-121	Beteiligten	_	
+2-15	121-122	.	_	
+
+#Text=Die teils an, teils auf den Radwegen parkenden Reisebusse lassen ihre Gäste direkt auf den Radweg am Rheinufer aussteigen, was gerade im goldenen Herbst zu täglichen Beinahe-Zusammenstößen führt.
+3-1	123-126	Die	_	
+3-2	127-132	teils	_	
+3-3	133-135	an	_	
+3-4	135-136	,	_	
+3-5	137-142	teils	_	
+3-6	143-146	auf	_	
+3-7	147-150	den	_	
+3-8	151-159	Radwegen	_	
+3-9	160-169	parkenden	_	
+3-10	170-180	Reisebusse	_	
+3-11	181-187	lassen	_	
+3-12	188-192	ihre	_	
+3-13	193-198	Gäste	_	
+3-14	199-205	direkt	_	
+3-15	206-209	auf	_	
+3-16	210-213	den	_	
+3-17	214-220	Radweg	_	
+3-18	221-223	am	_	
+3-19	224-233	Rheinufer	_	
+3-20	234-244	aussteigen	_	
+3-21	244-245	,	_	
+3-22	246-249	was	_	
+3-23	250-256	gerade	_	
+3-24	257-259	im	_	
+3-25	260-268	goldenen	_	
+3-26	269-275	Herbst	_	
+3-27	276-278	zu	_	
+3-28	279-288	täglichen	_	
+3-29	289-311	Beinahe-Zusammenstößen	_	
+3-30	312-317	führt	_	
+3-31	317-318	.	_	
+
+#Text=Dabei werden alle Beteiligten gefährdet und gleichzeitig noch der Straßenverkehr behindert.
+4-1	319-324	Dabei	_	
+4-2	325-331	werden	_	
+4-3	332-336	alle	_	
+4-4	337-348	Beteiligten	_	
+4-5	349-358	gefährdet	_	
+4-6	359-362	und	_	
+4-7	363-375	gleichzeitig	_	
+4-8	376-380	noch	_	
+4-9	381-384	der	_	
+4-10	385-399	Straßenverkehr	_	
+4-11	400-409	behindert	_	
+4-12	409-410	.	_	
+
+#Text=Eine Lösung wäre die Nutzung des Grünstreifens am Rathenauufer, eine andere die Nutzung der Bushaltestelle direkt an der Oper oder an der Beethovenhalle, jeweils in Gegenrichtung.
+5-1	411-415	Eine	_	
+5-2	416-422	Lösung	_	
+5-3	423-427	wäre	_	
+5-4	428-431	die	_	
+5-5	432-439	Nutzung	_	
+5-6	440-443	des	_	
+5-7	444-457	Grünstreifens	_	
+5-8	458-460	am	*[8]	
+5-9	461-473	Rathenauufer	*[8]	
+5-10	473-474	,	_	
+5-11	475-479	eine	_	
+5-12	480-486	andere	_	
+5-13	487-490	die	_	
+5-14	491-498	Nutzung	_	
+5-15	499-502	der	_	
+5-16	503-517	Bushaltestelle	*[9]	
+5-17	518-524	direkt	*[9]	
+5-18	525-527	an	*[9]	
+5-19	528-531	der	*[9]	
+5-20	532-536	Oper	*[9]	
+5-21	537-541	oder	*[9]	
+5-22	542-544	an	*[9]	
+5-23	545-548	der	*[9]	
+5-24	549-563	Beethovenhalle	*[9]	
+5-25	563-564	,	_	
+5-26	565-572	jeweils	_	
+5-27	573-575	in	_	
+5-28	576-589	Gegenrichtung	_	
+5-29	589-590	.	_	
+
+#Text=Aber dann müsste man ggf. 100m laufen, ich weiß nciht, ob das konsensfähig bei den Reiseveranstaltern ist...alternativ könnten die Stadt das als Einnahmequelle durch das Ordnungsamt erschließen.
+6-1	591-595	Aber	_	
+6-2	596-600	dann	_	
+6-3	601-607	müsste	_	
+6-4	608-611	man	_	
+6-5	612-615	ggf	_	
+6-6	615-616	.	_	
+6-7	617-621	100m	_	
+6-8	622-628	laufen	_	
+6-9	628-629	,	_	
+6-10	630-633	ich	_	
+6-11	634-638	weiß	_	
+6-12	639-644	nciht	_	
+6-13	644-645	,	_	
+6-14	646-648	ob	_	
+6-15	649-652	das	_	
+6-16	653-665	konsensfähig	_	
+6-17	666-669	bei	_	
+6-18	670-673	den	_	
+6-19	674-692	Reiseveranstaltern	_	
+6-20	693-696	ist	_	
+6-21	696-697	.	_	
+6-22	697-698	.	_	
+6-23	698-699	.	_	
+6-24	699-709	alternativ	_	
+6-25	710-717	könnten	_	
+6-26	718-721	die	_	
+6-27	722-727	Stadt	_	
+6-28	728-731	das	_	
+6-29	732-735	als	_	
+6-30	736-750	Einnahmequelle	_	
+6-31	751-756	durch	_	
+6-32	757-760	das	_	
+6-33	761-772	Ordnungsamt	_	
+6-34	773-784	erschließen	_	
+6-35	784-785	.	_	
+
+#Text=Ich denke nicht, dass der Tourismus nennenswert gefährdet wird, denn die Rentner selbst müssen ja nichts zahlen.
+7-1	786-789	Ich	_	
+7-2	790-795	denke	_	
+7-3	796-801	nicht	_	
+7-4	801-802	,	_	
+7-5	803-807	dass	_	
+7-6	808-811	der	_	
+7-7	812-821	Tourismus	_	
+7-8	822-833	nennenswert	_	
+7-9	834-843	gefährdet	_	
+7-10	844-848	wird	_	
+7-11	848-849	,	_	
+7-12	850-854	denn	_	
+7-13	855-858	die	_	
+7-14	859-866	Rentner	_	
+7-15	867-873	selbst	_	
+7-16	874-880	müssen	_	
+7-17	881-883	ja	_	
+7-18	884-890	nichts	_	
+7-19	891-897	zahlen	_	
+7-20	897-898	.	_	

@@ -1,0 +1,109 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Halten und Parken auf dem Radweg vor der Marie-Kahle-Gesamtschule
+1-1	0-6	Halten	_	
+1-2	7-10	und	_	
+1-3	11-17	Parken	_	
+1-4	18-21	auf	*[6]	
+1-5	22-25	dem	*[6]	
+1-6	26-32	Radweg	*[6]	
+1-7	33-36	vor	*[6]	
+1-8	37-40	der	*[6]	
+1-9	41-65	Marie-Kahle-Gesamtschule	*[6]	
+
+#Text=Der Radweg vor der Marie-Kahle-Schule wird besonders am Morgen sowie nachmittags gerne zum halten und parken von Autofahrern blockiert.
+2-1	68-71	Der	*[7]	
+2-2	72-78	Radweg	*[7]	
+2-3	79-82	vor	*[7]	
+2-4	83-86	der	*[7]	
+2-5	87-105	Marie-Kahle-Schule	*[7]	
+2-6	106-110	wird	_	
+2-7	111-120	besonders	_	
+2-8	121-123	am	_	
+2-9	124-130	Morgen	_	
+2-10	131-136	sowie	_	
+2-11	137-148	nachmittags	_	
+2-12	149-154	gerne	_	
+2-13	155-158	zum	_	
+2-14	159-165	halten	_	
+2-15	166-169	und	_	
+2-16	170-176	parken	_	
+2-17	177-180	von	_	
+2-18	181-192	Autofahrern	_	
+2-19	193-202	blockiert	_	
+2-20	202-203	.	_	
+
+#Text=Zwar ist der Radweg verhältnismäßig breit, jedoch ist aufgrund der anliegenden Schule hier in der Regel für Radfahrer aufgrund der Schüler und sonstigen Fußgänger ohnehin größte Vorsicht geboten.
+3-1	204-208	Zwar	_	
+3-2	209-212	ist	_	
+3-3	213-216	der	_	
+3-4	217-223	Radweg	_	
+3-5	224-239	verhältnismäßig	_	
+3-6	240-245	breit	_	
+3-7	245-246	,	_	
+3-8	247-253	jedoch	_	
+3-9	254-257	ist	_	
+3-10	258-266	aufgrund	_	
+3-11	267-270	der	_	
+3-12	271-282	anliegenden	_	
+3-13	283-289	Schule	_	
+3-14	290-294	hier	_	
+3-15	295-297	in	_	
+3-16	298-301	der	_	
+3-17	302-307	Regel	_	
+3-18	308-311	für	_	
+3-19	312-321	Radfahrer	_	
+3-20	322-330	aufgrund	_	
+3-21	331-334	der	_	
+3-22	335-342	Schüler	_	
+3-23	343-346	und	_	
+3-24	347-356	sonstigen	_	
+3-25	357-366	Fußgänger	_	
+3-26	367-374	ohnehin	_	
+3-27	375-381	größte	_	
+3-28	382-390	Vorsicht	_	
+3-29	391-398	geboten	_	
+3-30	398-399	.	_	
+
+#Text=Die Autofahrer zeigen sich in der Regel unbeeindruckt.
+4-1	400-403	Die	_	
+4-2	404-414	Autofahrer	_	
+4-3	415-421	zeigen	_	
+4-4	422-426	sich	_	
+4-5	427-429	in	_	
+4-6	430-433	der	_	
+4-7	434-439	Regel	_	
+4-8	440-453	unbeeindruckt	_	
+4-9	453-454	.	_	
+
+#Text=Der Radweg scheint vielen nicht aufzufallen oder der Besuch des gegenüber liegenden Bäckers bzw. das zur Schule bringen der Kinder hat offenbar höhere Priorität.
+5-1	455-458	Der	_	
+5-2	459-465	Radweg	_	
+5-3	466-473	scheint	_	
+5-4	474-480	vielen	_	
+5-5	481-486	nicht	_	
+5-6	487-498	aufzufallen	_	
+5-7	499-503	oder	_	
+5-8	504-507	der	_	
+5-9	508-514	Besuch	_	
+5-10	515-518	des	_	
+5-11	519-528	gegenüber	_	
+5-12	529-538	liegenden	_	
+5-13	539-546	Bäckers	_	
+5-14	547-550	bzw	_	
+5-15	550-551	.	_	
+5-16	552-555	das	_	
+5-17	556-559	zur	_	
+5-18	560-566	Schule	_	
+5-19	567-574	bringen	_	
+5-20	575-578	der	_	
+5-21	579-585	Kinder	_	
+5-22	586-589	hat	_	
+5-23	590-598	offenbar	_	
+5-24	599-605	höhere	_	
+5-25	606-615	Priorität	_	
+5-26	615-616	.	_	

@@ -1,0 +1,97 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehrsspiegel
+1-1	0-15	Verkehrsspiegel	_	
+
+#Text=Am Rhein treffen zwei Fahrradwege aufeinander, einer kommt vom Graurheindorfer Hafen, einer wird entlang der Nordbrücke abschüssig heruntergeführt, der Fahrradweg geht dann weiter Richtung Bonn Zentrum.
+2-1	18-20	Am	_	
+2-2	21-26	Rhein	_	
+2-3	27-34	treffen	_	
+2-4	35-39	zwei	_	
+2-5	40-51	Fahrradwege	_	
+2-6	52-63	aufeinander	_	
+2-7	63-64	,	_	
+2-8	65-70	einer	_	
+2-9	71-76	kommt	*[6]	
+2-10	77-80	vom	*[6]	
+2-11	81-96	Graurheindorfer	*[6]	
+2-12	97-102	Hafen	*[6]	
+2-13	102-103	,	_	
+2-14	104-109	einer	_	
+2-15	110-114	wird	_	
+2-16	115-122	entlang	*[7]	
+2-17	123-126	der	*[7]	
+2-18	127-137	Nordbrücke	*[7]	
+2-19	138-148	abschüssig	*[7]	
+2-20	149-164	heruntergeführt	*[7]	
+2-21	164-165	,	_	
+2-22	166-169	der	_	
+2-23	170-180	Fahrradweg	_	
+2-24	181-185	geht	_	
+2-25	186-190	dann	_	
+2-26	191-197	weiter	_	
+2-27	198-206	Richtung	*[8]	
+2-28	207-211	Bonn	*[8]	
+2-29	212-219	Zentrum	*[8]	
+2-30	219-220	.	_	
+
+#Text=Von beiden Radwegen aus ist nicht erkennbar, ob von der anderen Seite ein Radfahrer kommt.
+3-1	221-224	Von	_	
+3-2	225-231	beiden	_	
+3-3	232-240	Radwegen	_	
+3-4	241-244	aus	_	
+3-5	245-248	ist	_	
+3-6	249-254	nicht	_	
+3-7	255-264	erkennbar	_	
+3-8	264-265	,	_	
+3-9	266-268	ob	_	
+3-10	269-272	von	_	
+3-11	273-276	der	_	
+3-12	277-284	anderen	_	
+3-13	285-290	Seite	_	
+3-14	291-294	ein	_	
+3-15	295-304	Radfahrer	_	
+3-16	305-310	kommt	_	
+3-17	310-311	.	_	
+
+#Text=Die Vorfahrtssituation ist nicht geregelt.
+4-1	312-315	Die	_	
+4-2	316-334	Vorfahrtssituation	_	
+4-3	335-338	ist	_	
+4-4	339-344	nicht	_	
+4-5	345-353	geregelt	_	
+4-6	353-354	.	_	
+
+#Text=In der Regel wird an dieser Stelle recht schnell gefahren, zusätzlich sind Fußgänger unterwegs.
+5-1	355-357	In	_	
+5-2	358-361	der	_	
+5-3	362-367	Regel	_	
+5-4	368-372	wird	_	
+5-5	373-375	an	_	
+5-6	376-382	dieser	_	
+5-7	383-389	Stelle	_	
+5-8	390-395	recht	_	
+5-9	396-403	schnell	_	
+5-10	404-412	gefahren	_	
+5-11	412-413	,	_	
+5-12	414-424	zusätzlich	_	
+5-13	425-429	sind	_	
+5-14	430-439	Fußgänger	_	
+5-15	440-449	unterwegs	_	
+5-16	449-450	.	_	
+
+#Text=Durch die Anbringung eines Verkehrsspiegels würde die Situation entschärft.
+6-1	451-456	Durch	_	
+6-2	457-460	die	_	
+6-3	461-471	Anbringung	_	
+6-4	472-477	eines	_	
+6-5	478-494	Verkehrsspiegels	_	
+6-6	495-500	würde	_	
+6-7	501-504	die	_	
+6-8	505-514	Situation	_	
+6-9	515-525	entschärft	_	
+6-10	525-526	.	_	

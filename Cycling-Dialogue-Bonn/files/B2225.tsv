@@ -1,0 +1,80 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rutschig, eng und mit den Schienen eine echte Gefahr
+1-1	0-8	Rutschig	_	
+1-2	8-9	,	_	
+1-3	10-13	eng	_	
+1-4	14-17	und	_	
+1-5	18-21	mit	_	
+1-6	22-25	den	_	
+1-7	26-34	Schienen	_	
+1-8	35-39	eine	_	
+1-9	40-45	echte	_	
+1-10	46-52	Gefahr	_	
+
+#Text=Dieser Abschnitt führt sehr oft zu Unfällen, wenn Reifen in die Schienen kommen.
+2-1	55-61	Dieser	_	
+2-2	62-71	Abschnitt	_	
+2-3	72-77	führt	_	
+2-4	78-82	sehr	_	
+2-5	83-86	oft	_	
+2-6	87-89	zu	_	
+2-7	90-98	Unfällen	_	
+2-8	98-99	,	_	
+2-9	100-104	wenn	_	
+2-10	105-111	Reifen	_	
+2-11	112-114	in	_	
+2-12	115-118	die	_	
+2-13	119-127	Schienen	_	
+2-14	128-134	kommen	_	
+2-15	134-135	.	_	
+
+#Text=In diese wird man häufig durch rücksichtslos parkende Autos, sich plötzlich öffnende Türen und den rutschigen Belag gedrängt.
+3-1	136-138	In	_	
+3-2	139-144	diese	_	
+3-3	145-149	wird	_	
+3-4	150-153	man	_	
+3-5	154-160	häufig	_	
+3-6	161-166	durch	_	
+3-7	167-180	rücksichtslos	_	
+3-8	181-189	parkende	_	
+3-9	190-195	Autos	_	
+3-10	195-196	,	_	
+3-11	197-201	sich	_	
+3-12	202-211	plötzlich	_	
+3-13	212-220	öffnende	_	
+3-14	221-226	Türen	_	
+3-15	227-230	und	_	
+3-16	231-234	den	_	
+3-17	235-245	rutschigen	_	
+3-18	246-251	Belag	_	
+3-19	252-260	gedrängt	_	
+3-20	260-261	.	_	
+
+#Text=Man sollte eine verlangsamte Fahrradstraße einrichten und mehr Fahrradständer aufstellen.
+4-1	262-265	Man	_	
+4-2	266-272	sollte	_	
+4-3	273-277	eine	_	
+4-4	278-290	verlangsamte	_	
+4-5	291-304	Fahrradstraße	_	
+4-6	305-315	einrichten	_	
+4-7	316-319	und	_	
+4-8	320-324	mehr	_	
+4-9	325-339	Fahrradständer	_	
+4-10	340-350	aufstellen	_	
+4-11	350-351	.	_	
+
+#Text=Vor fast allen Geschäften blockieren diese den Fußweg.
+5-1	352-355	Vor	_	
+5-2	356-360	fast	_	
+5-3	361-366	allen	_	
+5-4	367-377	Geschäften	_	
+5-5	378-388	blockieren	_	
+5-6	389-394	diese	_	
+5-7	395-398	den	_	
+5-8	399-405	Fußweg	_	
+5-9	405-406	.	_	

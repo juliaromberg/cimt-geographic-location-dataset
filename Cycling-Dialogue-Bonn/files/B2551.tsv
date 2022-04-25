@@ -1,0 +1,88 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg fehlt komplett
+1-1	0-10	Fahrradweg	_	
+1-2	11-16	fehlt	_	
+1-3	17-25	komplett	_	
+
+#Text=Wenn man aus der Sebastianstraße links in die Clemens-August-Straße einbiegen will, hat man kaum eine Chance.
+2-1	28-32	Wenn	_	
+2-2	33-36	man	_	
+2-3	37-40	aus	*[6]	
+2-4	41-44	der	*[6]	
+2-5	45-60	Sebastianstraße	*[6]	
+2-6	61-66	links	*[6]	
+2-7	67-69	in	*[6]	
+2-8	70-73	die	*[6]	
+2-9	74-95	Clemens-August-Straße	*[6]	
+2-10	96-105	einbiegen	*[6]	
+2-11	106-110	will	_	
+2-12	110-111	,	_	
+2-13	112-115	hat	_	
+2-14	116-119	man	_	
+2-15	120-124	kaum	_	
+2-16	125-129	eine	_	
+2-17	130-136	Chance	_	
+2-18	136-137	.	_	
+
+#Text=Vorgesehen ist es, auf der Straße zu fahren.
+3-1	138-148	Vorgesehen	_	
+3-2	149-152	ist	_	
+3-3	153-155	es	_	
+3-4	155-156	,	_	
+3-5	157-160	auf	_	
+3-6	161-164	der	_	
+3-7	165-171	Straße	_	
+3-8	172-174	zu	_	
+3-9	175-181	fahren	_	
+3-10	181-182	.	_	
+
+#Text=Wenn man allerdings zu Fuß (es gibt keine Fahrradspur) die Ampeln überquert hat und seine Fahrt fortsetzen will, muss man sich irgendwie in den Verkehr einreihen.
+4-1	183-187	Wenn	_	
+4-2	188-191	man	_	
+4-3	192-202	allerdings	_	
+4-4	203-205	zu	_	
+4-5	206-209	Fuß	_	
+4-6	210-211	(	_	
+4-7	211-213	es	_	
+4-8	214-218	gibt	_	
+4-9	219-224	keine	_	
+4-10	225-236	Fahrradspur	_	
+4-11	236-237	)	_	
+4-12	238-241	die	_	
+4-13	242-248	Ampeln	_	
+4-14	249-258	überquert	_	
+4-15	259-262	hat	_	
+4-16	263-266	und	_	
+4-17	267-272	seine	_	
+4-18	273-278	Fahrt	_	
+4-19	279-289	fortsetzen	_	
+4-20	290-294	will	_	
+4-21	294-295	,	_	
+4-22	296-300	muss	_	
+4-23	301-304	man	_	
+4-24	305-309	sich	_	
+4-25	310-319	irgendwie	_	
+4-26	320-322	in	_	
+4-27	323-326	den	_	
+4-28	327-334	Verkehr	_	
+4-29	335-344	einreihen	_	
+4-30	344-345	.	_	
+
+#Text=Die Autos fahren sehr schnell und so ist dies fast unmöglich.
+5-1	346-349	Die	_	
+5-2	350-355	Autos	_	
+5-3	356-362	fahren	_	
+5-4	363-367	sehr	_	
+5-5	368-375	schnell	_	
+5-6	376-379	und	_	
+5-7	380-382	so	_	
+5-8	383-386	ist	_	
+5-9	387-391	dies	_	
+5-10	392-396	fast	_	
+5-11	397-406	unmöglich	_	
+5-12	406-407	.	_	

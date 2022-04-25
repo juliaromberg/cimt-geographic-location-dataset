@@ -1,0 +1,182 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unklare Vorfahrt bei Straßenverengung
+1-1	0-7	Unklare	_	
+1-2	8-16	Vorfahrt	_	
+1-3	17-20	bei	_	
+1-4	21-37	Straßenverengung	_	
+
+#Text=Beim Fahren Richtung Südost werden die bis dahin getrennte Kfz-Fahrbahn und der Radweg auf eine gemeinsame Fahrbahn vereinigt.
+2-1	40-44	Beim	_	
+2-2	45-51	Fahren	_	
+2-3	52-60	Richtung	_	
+2-4	61-67	Südost	_	
+2-5	68-74	werden	_	
+2-6	75-78	die	_	
+2-7	79-82	bis	_	
+2-8	83-88	dahin	_	
+2-9	89-98	getrennte	_	
+2-10	99-111	Kfz-Fahrbahn	_	
+2-11	112-115	und	_	
+2-12	116-119	der	_	
+2-13	120-126	Radweg	_	
+2-14	127-130	auf	_	
+2-15	131-135	eine	_	
+2-16	136-146	gemeinsame	_	
+2-17	147-155	Fahrbahn	_	
+2-18	156-165	vereinigt	_	
+2-19	165-166	.	_	
+
+#Text=An dieser Stelle ist regelmäßig unklar, wer welche Rechte und Pflichten hat.
+3-1	167-169	An	_	
+3-2	170-176	dieser	_	
+3-3	177-183	Stelle	_	
+3-4	184-187	ist	_	
+3-5	188-198	regelmäßig	_	
+3-6	199-205	unklar	_	
+3-7	205-206	,	_	
+3-8	207-210	wer	_	
+3-9	211-217	welche	_	
+3-10	218-224	Rechte	_	
+3-11	225-228	und	_	
+3-12	229-238	Pflichten	_	
+3-13	239-242	hat	_	
+3-14	242-243	.	_	
+
+#Text=Als Radfahrer verlässt man hier den Radweg ohne jede Lenkbewegung und man fährt auch nicht über eine Bordsteinkante, daher kommt kaum jemand auf die Idee, nach hinten links über die Schulter zu schauen, ob gerade ein Auto angebraust kommt.
+4-1	244-247	Als	_	
+4-2	248-257	Radfahrer	_	
+4-3	258-266	verlässt	_	
+4-4	267-270	man	_	
+4-5	271-275	hier	_	
+4-6	276-279	den	_	
+4-7	280-286	Radweg	_	
+4-8	287-291	ohne	_	
+4-9	292-296	jede	_	
+4-10	297-309	Lenkbewegung	_	
+4-11	310-313	und	_	
+4-12	314-317	man	_	
+4-13	318-323	fährt	_	
+4-14	324-328	auch	_	
+4-15	329-334	nicht	_	
+4-16	335-339	über	_	
+4-17	340-344	eine	_	
+4-18	345-359	Bordsteinkante	_	
+4-19	359-360	,	_	
+4-20	361-366	daher	_	
+4-21	367-372	kommt	_	
+4-22	373-377	kaum	_	
+4-23	378-384	jemand	_	
+4-24	385-388	auf	_	
+4-25	389-392	die	_	
+4-26	393-397	Idee	_	
+4-27	397-398	,	_	
+4-28	399-403	nach	_	
+4-29	404-410	hinten	_	
+4-30	411-416	links	_	
+4-31	417-421	über	_	
+4-32	422-425	die	_	
+4-33	426-434	Schulter	_	
+4-34	435-437	zu	_	
+4-35	438-445	schauen	_	
+4-36	445-446	,	_	
+4-37	447-449	ob	_	
+4-38	450-456	gerade	_	
+4-39	457-460	ein	_	
+4-40	461-465	Auto	_	
+4-41	466-476	angebraust	_	
+4-42	477-482	kommt	_	
+4-43	482-483	.	_	
+
+#Text=Und die PKWs, die hier einem Knick nach rechts folgen, werden überrascht, wenn der Radfahrer vor ihnen plötzlich auf ihre Fahrbahn fährt.
+5-1	484-487	Und	_	
+5-2	488-491	die	_	
+5-3	492-496	PKWs	_	
+5-4	496-497	,	_	
+5-5	498-501	die	_	
+5-6	502-506	hier	_	
+5-7	507-512	einem	_	
+5-8	513-518	Knick	_	
+5-9	519-523	nach	_	
+5-10	524-530	rechts	_	
+5-11	531-537	folgen	_	
+5-12	537-538	,	_	
+5-13	539-545	werden	_	
+5-14	546-556	überrascht	_	
+5-15	556-557	,	_	
+5-16	558-562	wenn	_	
+5-17	563-566	der	_	
+5-18	567-576	Radfahrer	_	
+5-19	577-580	vor	_	
+5-20	581-586	ihnen	_	
+5-21	587-596	plötzlich	_	
+5-22	597-600	auf	_	
+5-23	601-605	ihre	_	
+5-24	606-614	Fahrbahn	_	
+5-25	615-620	fährt	_	
+5-26	620-621	.	_	
+
+#Text=Eine kleine Lösung wäre hier, allen Verkehrsteilnehmern deutlich zu machen, wer Vorfahrt hat.
+6-1	622-626	Eine	_	
+6-2	627-633	kleine	_	
+6-3	634-640	Lösung	_	
+6-4	641-645	wäre	_	
+6-5	646-650	hier	_	
+6-6	650-651	,	_	
+6-7	652-657	allen	_	
+6-8	658-677	Verkehrsteilnehmern	_	
+6-9	678-686	deutlich	_	
+6-10	687-689	zu	_	
+6-11	690-696	machen	_	
+6-12	696-697	,	_	
+6-13	698-701	wer	_	
+6-14	702-710	Vorfahrt	_	
+6-15	711-714	hat	_	
+6-16	714-715	.	_	
+
+#Text=Wer diese hat, kann ich nach 10 Jahren täglich auf dieser Strecke immer noch nicht sagen.
+7-1	716-719	Wer	_	
+7-2	720-725	diese	_	
+7-3	726-729	hat	_	
+7-4	729-730	,	_	
+7-5	731-735	kann	_	
+7-6	736-739	ich	_	
+7-7	740-744	nach	_	
+7-8	745-747	10	_	
+7-9	748-754	Jahren	_	
+7-10	755-762	täglich	_	
+7-11	763-766	auf	_	
+7-12	767-773	dieser	_	
+7-13	774-781	Strecke	_	
+7-14	782-787	immer	_	
+7-15	788-792	noch	_	
+7-16	793-798	nicht	_	
+7-17	799-804	sagen	_	
+7-18	804-805	.	_	
+
+#Text=Eine bessere, aber aufwändigere Lösung bestünde in einem Reißverschlussverfahren, wofür aber sicherlich einiges an Markierarbeiten notwendig werden würde.
+8-1	806-810	Eine	_	
+8-2	811-818	bessere	_	
+8-3	818-819	,	_	
+8-4	820-824	aber	_	
+8-5	825-837	aufwändigere	_	
+8-6	838-844	Lösung	_	
+8-7	845-853	bestünde	_	
+8-8	854-856	in	_	
+8-9	857-862	einem	_	
+8-10	863-886	Reißverschlussverfahren	_	
+8-11	886-887	,	_	
+8-12	888-893	wofür	_	
+8-13	894-898	aber	_	
+8-14	899-909	sicherlich	_	
+8-15	910-917	einiges	_	
+8-16	918-920	an	_	
+8-17	921-936	Markierarbeiten	_	
+8-18	937-946	notwendig	_	
+8-19	947-953	werden	_	
+8-20	954-959	würde	_	
+8-21	959-960	.	_	

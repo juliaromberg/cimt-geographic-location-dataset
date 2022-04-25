@@ -1,0 +1,24 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wegequalität
+1-1	0-12	Wegequalität	_	
+
+#Text=Der Jakobsweg wird von vielen Radfahren täglich genutz, ist aber voller Schlaglöcher.
+2-1	15-18	Der	*[2]	
+2-2	19-28	Jakobsweg	*[2]	
+2-3	29-33	wird	_	
+2-4	34-37	von	_	
+2-5	38-44	vielen	_	
+2-6	45-54	Radfahren	_	
+2-7	55-62	täglich	_	
+2-8	63-69	genutz	_	
+2-9	69-70	,	_	
+2-10	71-74	ist	_	
+2-11	75-79	aber	_	
+2-12	80-86	voller	_	
+2-13	87-99	Schlaglöcher	_	
+2-14	99-100	.	_	

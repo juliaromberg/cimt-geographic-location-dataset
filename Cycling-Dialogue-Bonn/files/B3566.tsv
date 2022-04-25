@@ -1,0 +1,149 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Regelmäßiges Verstellen des Radweges durch einbiegende Fahrzeuge
+1-1	0-12	Regelmäßiges	_	
+1-2	13-23	Verstellen	_	
+1-3	24-27	des	_	
+1-4	28-36	Radweges	_	
+1-5	37-42	durch	_	
+1-6	43-54	einbiegende	_	
+1-7	55-64	Fahrzeuge	_	
+
+#Text=Auf der Reichsstr. in Richtung Meckenheim, wie Richtung Röttgen verläuft der Fahrradweg.
+2-1	67-70	Auf	*[7]	
+2-2	71-74	der	*[7]	
+2-3	75-84	Reichsstr	*[7]	
+2-4	84-85	.	*[7]	
+2-5	86-88	in	*[7]	
+2-6	89-97	Richtung	*[7]	
+2-7	98-108	Meckenheim	*[7]	
+2-8	108-109	,	*[7]	
+2-9	110-113	wie	*[7]	
+2-10	114-122	Richtung	*[7]	
+2-11	123-130	Röttgen	*[7]	
+2-12	131-139	verläuft	_	
+2-13	140-143	der	_	
+2-14	144-154	Fahrradweg	_	
+2-15	154-155	.	_	
+
+#Text=Diesen müssen sich Radfahrer mit Fußgängern, Busfahrgästen an den Haltestellen und der Außengastronomie in Röttgen teilen.
+3-1	156-162	Diesen	_	
+3-2	163-169	müssen	_	
+3-3	170-174	sich	_	
+3-4	175-184	Radfahrer	_	
+3-5	185-188	mit	_	
+3-6	189-199	Fußgängern	_	
+3-7	199-200	,	_	
+3-8	201-214	Busfahrgästen	_	
+3-9	215-217	an	_	
+3-10	218-221	den	_	
+3-11	222-234	Haltestellen	_	
+3-12	235-238	und	_	
+3-13	239-242	der	_	
+3-14	243-259	Außengastronomie	_	
+3-15	260-262	in	*[8]	
+3-16	263-270	Röttgen	*[8]	
+3-17	271-277	teilen	_	
+3-18	277-278	.	_	
+
+#Text=Dazu kommt dass Kfz, die aus der Straße Auf dem Kirchweg auf die Reichsstraße einbiegen wollen auf dem Fahrradweg stehen bleiben, um in der Reichstraße hineinzublicken.
+4-1	279-283	Dazu	_	
+4-2	284-289	kommt	_	
+4-3	290-294	dass	_	
+4-4	295-298	Kfz	_	
+4-5	298-299	,	_	
+4-6	300-303	die	_	
+4-7	304-307	aus	*[9]	
+4-8	308-311	der	*[9]	
+4-9	312-318	Straße	*[9]	
+4-10	319-322	Auf	*[9]	
+4-11	323-326	dem	*[9]	
+4-12	327-335	Kirchweg	*[9]	
+4-13	336-339	auf	*[9]	
+4-14	340-343	die	*[9]	
+4-15	344-356	Reichsstraße	*[9]	
+4-16	357-366	einbiegen	*[9]	
+4-17	367-373	wollen	_	
+4-18	374-377	auf	_	
+4-19	378-381	dem	_	
+4-20	382-392	Fahrradweg	_	
+4-21	393-399	stehen	_	
+4-22	400-407	bleiben	_	
+4-23	407-408	,	_	
+4-24	409-411	um	_	
+4-25	412-414	in	_	
+4-26	415-418	der	_	
+4-27	419-430	Reichstraße	_	
+4-28	431-446	hineinzublicken	_	
+4-29	446-447	.	_	
+
+#Text=Dadurch müssen Radfahrer aud ihrem Radweg anhalten oder auf die Fahrbahn in den entgegenkommenden Kraftverkehr der Reichsstraße ausweichen.
+5-1	448-455	Dadurch	_	
+5-2	456-462	müssen	_	
+5-3	463-472	Radfahrer	_	
+5-4	473-476	aud	_	
+5-5	477-482	ihrem	_	
+5-6	483-489	Radweg	_	
+5-7	490-498	anhalten	_	
+5-8	499-503	oder	_	
+5-9	504-507	auf	_	
+5-10	508-511	die	_	
+5-11	512-520	Fahrbahn	_	
+5-12	521-523	in	_	
+5-13	524-527	den	_	
+5-14	528-545	entgegenkommenden	_	
+5-15	546-558	Kraftverkehr	_	
+5-16	559-562	der	_	
+5-17	563-575	Reichsstraße	*	
+5-18	576-586	ausweichen	_	
+5-19	586-587	.	_	
+
+#Text=Wenn die sehr problematische Qualität des Fahrradweges (Enge, stark beschädigte Fahrbahnoberfläche) schon ein Problem ist, sollte wenigstens die abbiegenden Kraftfahrer aus den Seitenstraßen Auf dem Kirchweg, Kurfürstenplatzund Venatiusstr. mittels Beschilderung auf den bevorrechtigten Radverkehr aufmerksam gemacht werden.
+6-1	588-592	Wenn	_	
+6-2	593-596	die	_	
+6-3	597-601	sehr	_	
+6-4	602-616	problematische	_	
+6-5	617-625	Qualität	_	
+6-6	626-629	des	_	
+6-7	630-642	Fahrradweges	_	
+6-8	643-644	(	_	
+6-9	644-648	Enge	_	
+6-10	648-649	,	_	
+6-11	650-655	stark	_	
+6-12	656-667	beschädigte	_	
+6-13	668-686	Fahrbahnoberfläche	_	
+6-14	686-687	)	_	
+6-15	688-693	schon	_	
+6-16	694-697	ein	_	
+6-17	698-705	Problem	_	
+6-18	706-709	ist	_	
+6-19	709-710	,	_	
+6-20	711-717	sollte	_	
+6-21	718-728	wenigstens	_	
+6-22	729-732	die	_	
+6-23	733-744	abbiegenden	_	
+6-24	745-756	Kraftfahrer	_	
+6-25	757-760	aus	_	
+6-26	761-764	den	_	
+6-27	765-778	Seitenstraßen	_	
+6-28	779-782	Auf	*[10]	
+6-29	783-786	dem	*[10]	
+6-30	787-795	Kirchweg	*[10]	
+6-31	795-796	,	*[10]	
+6-32	797-815	Kurfürstenplatzund	*[10]	
+6-33	816-827	Venatiusstr	*[10]	
+6-34	827-828	.	_	
+6-35	829-836	mittels	_	
+6-36	837-850	Beschilderung	_	
+6-37	851-854	auf	_	
+6-38	855-858	den	_	
+6-39	859-874	bevorrechtigten	_	
+6-40	875-885	Radverkehr	_	
+6-41	886-896	aufmerksam	_	
+6-42	897-904	gemacht	_	
+6-43	905-911	werden	_	
+6-44	911-912	.	_	

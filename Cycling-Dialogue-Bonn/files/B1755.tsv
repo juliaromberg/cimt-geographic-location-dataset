@@ -1,0 +1,143 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=fehlender Radweg Richtung Marienhospital / Realschule, gefährliche Kreuzung
+1-1	0-9	fehlender	_	
+1-2	10-16	Radweg	_	
+1-3	17-25	Richtung	*[10]	
+1-4	26-40	Marienhospital	*[10]	
+1-5	41-42	/	*[10]	
+1-6	43-53	Realschule	*[10]	
+1-7	53-54	,	*[10]	
+1-8	55-66	gefährliche	_	
+1-9	67-75	Kreuzung	_	
+
+#Text=Bergauf ist die Straße für Radfahrer zu gefährlich, der Bürgersteig zu schmal.
+2-1	78-85	Bergauf	_	
+2-2	86-89	ist	_	
+2-3	90-93	die	_	
+2-4	94-100	Straße	_	
+2-5	101-104	für	_	
+2-6	105-114	Radfahrer	_	
+2-7	115-117	zu	_	
+2-8	118-128	gefährlich	_	
+2-9	128-129	,	_	
+2-10	130-133	der	_	
+2-11	134-145	Bürgersteig	_	
+2-12	146-148	zu	_	
+2-13	149-155	schmal	_	
+2-14	155-156	.	_	
+
+#Text=Meist ist dieser auch noch zugeparkt, so dass man auch schiebend zu Fuß auf die Straße ausweichen muss.
+3-1	157-162	Meist	_	
+3-2	163-166	ist	_	
+3-3	167-173	dieser	_	
+3-4	174-178	auch	_	
+3-5	179-183	noch	_	
+3-6	184-193	zugeparkt	_	
+3-7	193-194	,	_	
+3-8	195-197	so	_	
+3-9	198-202	dass	_	
+3-10	203-206	man	_	
+3-11	207-211	auch	_	
+3-12	212-221	schiebend	_	
+3-13	222-224	zu	_	
+3-14	225-228	Fuß	_	
+3-15	229-232	auf	_	
+3-16	233-236	die	_	
+3-17	237-243	Straße	_	
+3-18	244-254	ausweichen	_	
+3-19	255-259	muss	_	
+3-20	259-260	.	_	
+
+#Text=Für Radfahrer sehr gefährlich, da enge kurvige Straße mit wenig Ausweichmöglichkeiten.
+4-1	261-264	Für	_	
+4-2	265-274	Radfahrer	_	
+4-3	275-279	sehr	_	
+4-4	280-290	gefährlich	_	
+4-5	290-291	,	_	
+4-6	292-294	da	_	
+4-7	295-299	enge	_	
+4-8	300-307	kurvige	_	
+4-9	308-314	Straße	_	
+4-10	315-318	mit	_	
+4-11	319-324	wenig	_	
+4-12	325-346	Ausweichmöglichkeiten	_	
+4-13	346-347	.	_	
+
+#Text=Bergab ebenfalls gefährlich, da Autofahrer schnell fahrende Radfahrer dennoch überholen und das teilweise in der Kurve.
+5-1	348-354	Bergab	_	
+5-2	355-364	ebenfalls	_	
+5-3	365-375	gefährlich	_	
+5-4	375-376	,	_	
+5-5	377-379	da	_	
+5-6	380-390	Autofahrer	_	
+5-7	391-398	schnell	_	
+5-8	399-407	fahrende	_	
+5-9	408-417	Radfahrer	_	
+5-10	418-425	dennoch	_	
+5-11	426-435	überholen	_	
+5-12	436-439	und	_	
+5-13	440-443	das	_	
+5-14	444-453	teilweise	_	
+5-15	454-456	in	_	
+5-16	457-460	der	_	
+5-17	461-466	Kurve	_	
+5-18	466-467	.	_	
+
+#Text=Dann wird beschleunigt und auf Höhe der Kreuzung / Zebrastreifen entsteht erhöhtes Sicherheitsrisiko.
+6-1	468-472	Dann	_	
+6-2	473-477	wird	_	
+6-3	478-490	beschleunigt	_	
+6-4	491-494	und	_	
+6-5	495-498	auf	_	
+6-6	499-503	Höhe	_	
+6-7	504-507	der	_	
+6-8	508-516	Kreuzung	_	
+6-9	517-518	/	_	
+6-10	519-532	Zebrastreifen	_	
+6-11	533-541	entsteht	_	
+6-12	542-550	erhöhtes	_	
+6-13	551-568	Sicherheitsrisiko	_	
+6-14	568-569	.	_	
+
+#Text=Hier muss die Straße ausgebaut und mit der Kreuzung Robert-Koch-Straße zusammen ein schlüssiges Konzept entwickelt werden.
+7-1	570-574	Hier	_	
+7-2	575-579	muss	_	
+7-3	580-583	die	_	
+7-4	584-590	Straße	_	
+7-5	591-600	ausgebaut	_	
+7-6	601-604	und	_	
+7-7	605-608	mit	_	
+7-8	609-612	der	_	
+7-9	613-621	Kreuzung	*[11]	
+7-10	622-640	Robert-Koch-Straße	*[11]	
+7-11	641-649	zusammen	_	
+7-12	650-653	ein	_	
+7-13	654-665	schlüssiges	_	
+7-14	666-673	Konzept	_	
+7-15	674-684	entwickelt	_	
+7-16	685-691	werden	_	
+7-17	691-692	.	_	
+
+#Text=Bürgersteig zur Querung der Robert-Koch-Str. muss abgesenkt werden.
+8-1	693-704	Bürgersteig	_	
+8-2	705-708	zur	_	
+8-3	709-716	Querung	*[12]	
+8-4	717-720	der	*[12]	
+8-5	721-736	Robert-Koch-Str	*[12]	
+8-6	736-737	.	*[12]	
+8-7	738-742	muss	_	
+8-8	743-752	abgesenkt	_	
+8-9	753-759	werden	_	
+8-10	759-760	.	_	
+
+#Text=Hier Zebrat´streifen sinnvoll
+9-1	761-765	Hier	_	
+9-2	766-772	Zebrat	_	
+9-3	772-773	´	_	
+9-4	773-781	streifen	_	
+9-5	782-790	sinnvoll	_	

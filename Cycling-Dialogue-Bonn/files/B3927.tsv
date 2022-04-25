@@ -1,0 +1,23 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Abfahrt von der Nordseite auf den Beueler Rheindamm schlecht einzusehen.
+1-1	0-7	Abfahrt	*[3]	
+1-2	8-11	von	*[3]	
+1-3	12-15	der	*[3]	
+1-4	16-25	Nordseite	*[3]	
+1-5	26-29	auf	*[3]	
+1-6	30-33	den	*[3]	
+1-7	34-41	Beueler	*[3]	
+1-8	42-51	Rheindamm	*[3]	
+1-9	52-60	schlecht	_	
+1-10	61-71	einzusehen	_	
+1-11	71-72	.	_	
+
+#Text=Spiegel anbringen.
+2-1	75-82	Spiegel	_	
+2-2	83-92	anbringen	_	
+2-3	92-93	.	_	

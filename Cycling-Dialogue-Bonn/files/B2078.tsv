@@ -1,0 +1,173 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Robert-Koch-Straße ist eine einzige Zumutung für Radfahrer
+1-1	0-18	Robert-Koch-Straße	*	
+1-2	19-22	ist	_	
+1-3	23-27	eine	_	
+1-4	28-35	einzige	_	
+1-5	36-44	Zumutung	_	
+1-6	45-48	für	_	
+1-7	49-58	Radfahrer	_	
+
+#Text=Die gesamte Robert-Koch-Straße ist sehr unangenehm zu fahren.
+2-1	61-64	Die	*[7]	
+2-2	65-72	gesamte	*[7]	
+2-3	73-91	Robert-Koch-Straße	*[7]	
+2-4	92-95	ist	_	
+2-5	96-100	sehr	_	
+2-6	101-111	unangenehm	_	
+2-7	112-114	zu	_	
+2-8	115-121	fahren	_	
+2-9	121-122	.	_	
+
+#Text=Im unteren Bereich teilen sich Fußgänger und Radfahrer einen schmalen Streifen auf dem Bürgersteig, im oberen Bereich ist zwar mehr Platz, weil hier der Bürgersteig nicht mehr zugeparkt werden darf, aber wenn man aich bergrunter gleich für die Straße entscheidet, um die kritischen Stellen im unteren Bereich zu vermeiden, hat man das Problem, dass auf der Straße die Autofahrer und insbesondere die Busfahrer keinerlei Rücksicht nehmen, und um zu überholen bis auf wenige Meter auffahren.
+3-1	123-125	Im	_	
+3-2	126-133	unteren	_	
+3-3	134-141	Bereich	_	
+3-4	142-148	teilen	_	
+3-5	149-153	sich	_	
+3-6	154-163	Fußgänger	_	
+3-7	164-167	und	_	
+3-8	168-177	Radfahrer	_	
+3-9	178-183	einen	_	
+3-10	184-192	schmalen	_	
+3-11	193-201	Streifen	_	
+3-12	202-205	auf	_	
+3-13	206-209	dem	_	
+3-14	210-221	Bürgersteig	_	
+3-15	221-222	,	_	
+3-16	223-225	im	_	
+3-17	226-232	oberen	_	
+3-18	233-240	Bereich	_	
+3-19	241-244	ist	_	
+3-20	245-249	zwar	_	
+3-21	250-254	mehr	_	
+3-22	255-260	Platz	_	
+3-23	260-261	,	_	
+3-24	262-266	weil	_	
+3-25	267-271	hier	_	
+3-26	272-275	der	_	
+3-27	276-287	Bürgersteig	_	
+3-28	288-293	nicht	_	
+3-29	294-298	mehr	_	
+3-30	299-308	zugeparkt	_	
+3-31	309-315	werden	_	
+3-32	316-320	darf	_	
+3-33	320-321	,	_	
+3-34	322-326	aber	_	
+3-35	327-331	wenn	_	
+3-36	332-335	man	_	
+3-37	336-340	aich	_	
+3-38	341-351	bergrunter	_	
+3-39	352-358	gleich	_	
+3-40	359-362	für	_	
+3-41	363-366	die	_	
+3-42	367-373	Straße	_	
+3-43	374-385	entscheidet	_	
+3-44	385-386	,	_	
+3-45	387-389	um	_	
+3-46	390-393	die	_	
+3-47	394-404	kritischen	_	
+3-48	405-412	Stellen	_	
+3-49	413-415	im	_	
+3-50	416-423	unteren	_	
+3-51	424-431	Bereich	_	
+3-52	432-434	zu	_	
+3-53	435-444	vermeiden	_	
+3-54	444-445	,	_	
+3-55	446-449	hat	_	
+3-56	450-453	man	_	
+3-57	454-457	das	_	
+3-58	458-465	Problem	_	
+3-59	465-466	,	_	
+3-60	467-471	dass	_	
+3-61	472-475	auf	_	
+3-62	476-479	der	_	
+3-63	480-486	Straße	_	
+3-64	487-490	die	_	
+3-65	491-501	Autofahrer	_	
+3-66	502-505	und	_	
+3-67	506-518	insbesondere	_	
+3-68	519-522	die	_	
+3-69	523-532	Busfahrer	_	
+3-70	533-542	keinerlei	_	
+3-71	543-552	Rücksicht	_	
+3-72	553-559	nehmen	_	
+3-73	559-560	,	_	
+3-74	561-564	und	_	
+3-75	565-567	um	_	
+3-76	568-570	zu	_	
+3-77	571-580	überholen	_	
+3-78	581-584	bis	_	
+3-79	585-588	auf	_	
+3-80	589-595	wenige	_	
+3-81	596-601	Meter	_	
+3-82	602-611	auffahren	_	
+3-83	611-612	.	_	
+
+#Text=Insbesondere wenn ein Stadtbus hinter einem herfährt, mit 40 km/h und 2-3 Meter Sicherheitsabstand, weil er überholen möchte, fühlt man sich extrem unsicher.
+4-1	613-625	Insbesondere	_	
+4-2	626-630	wenn	_	
+4-3	631-634	ein	_	
+4-4	635-643	Stadtbus	_	
+4-5	644-650	hinter	_	
+4-6	651-656	einem	_	
+4-7	657-665	herfährt	_	
+4-8	665-666	,	_	
+4-9	667-670	mit	_	
+4-10	671-673	40	_	
+4-11	674-676	km	_	
+4-12	676-677	/	_	
+4-13	677-678	h	_	
+4-14	679-682	und	_	
+4-15	683-684	2	_	
+4-16	684-685	-	_	
+4-17	685-686	3	_	
+4-18	687-692	Meter	_	
+4-19	693-711	Sicherheitsabstand	_	
+4-20	711-712	,	_	
+4-21	713-717	weil	_	
+4-22	718-720	er	_	
+4-23	721-730	überholen	_	
+4-24	731-737	möchte	_	
+4-25	737-738	,	_	
+4-26	739-744	fühlt	_	
+4-27	745-748	man	_	
+4-28	749-753	sich	_	
+4-29	754-760	extrem	_	
+4-30	761-769	unsicher	_	
+4-31	769-770	.	_	
+
+#Text=Es fehlt ein richtiger Radweg auf beiden Seiten.
+5-1	771-773	Es	_	
+5-2	774-779	fehlt	_	
+5-3	780-783	ein	_	
+5-4	784-793	richtiger	_	
+5-5	794-800	Radweg	_	
+5-6	801-804	auf	_	
+5-7	805-811	beiden	_	
+5-8	812-818	Seiten	_	
+5-9	818-819	.	_	
+
+#Text=Vielleicht könnte der ja vorhandene Fußweg im Wald direkt neben der Fahrstraße einfach richtig ausgebaut werden.
+6-1	820-830	Vielleicht	_	
+6-2	831-837	könnte	_	
+6-3	838-841	der	_	
+6-4	842-844	ja	_	
+6-5	845-855	vorhandene	_	
+6-6	856-862	Fußweg	_	
+6-7	863-865	im	_	
+6-8	866-870	Wald	_	
+6-9	871-877	direkt	_	
+6-10	878-883	neben	_	
+6-11	884-887	der	_	
+6-12	888-898	Fahrstraße	_	
+6-13	899-906	einfach	_	
+6-14	907-914	richtig	_	
+6-15	915-924	ausgebaut	_	
+6-16	925-931	werden	_	
+6-17	931-932	.	_	

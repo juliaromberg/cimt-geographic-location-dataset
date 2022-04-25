@@ -1,0 +1,35 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährdung der Radfahrer durch häufig frequentierende und haltende Busse
+1-1	0-10	Gefährdung	_	
+1-2	11-14	der	_	
+1-3	15-24	Radfahrer	_	
+1-4	25-30	durch	_	
+1-5	31-37	häufig	_	
+1-6	38-53	frequentierende	_	
+1-7	54-57	und	_	
+1-8	58-66	haltende	_	
+1-9	67-72	Busse	_	
+
+#Text=Die Fahrradspur sollte zur Fahrbahn stärker abgegrenzt werden und an der Bushaltestelle über den Gehweg umgeleitet werden
+2-1	75-78	Die	_	
+2-2	79-90	Fahrradspur	_	
+2-3	91-97	sollte	_	
+2-4	98-101	zur	_	
+2-5	102-110	Fahrbahn	_	
+2-6	111-118	stärker	_	
+2-7	119-129	abgegrenzt	_	
+2-8	130-136	werden	_	
+2-9	137-140	und	_	
+2-10	141-143	an	_	
+2-11	144-147	der	_	
+2-12	148-162	Bushaltestelle	_	
+2-13	163-167	über	_	
+2-14	168-171	den	_	
+2-15	172-178	Gehweg	_	
+2-16	179-189	umgeleitet	_	
+2-17	190-196	werden	_	

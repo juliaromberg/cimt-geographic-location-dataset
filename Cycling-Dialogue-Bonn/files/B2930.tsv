@@ -1,0 +1,195 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radfahrer besser schützen (Ausfahrt Unterführung Heinrich-Konen-Straße /Bonner Bogen)
+1-1	0-9	Radfahrer	_	
+1-2	10-16	besser	_	
+1-3	17-25	schützen	_	
+1-4	26-27	(	_	
+1-5	27-35	Ausfahrt	*[9]	
+1-6	36-48	Unterführung	*[9]	
+1-7	49-70	Heinrich-Konen-Straße	*[9]	
+1-8	71-72	/	*[9]	
+1-9	72-78	Bonner	*[9]	
+1-10	79-84	Bogen	*[9]	
+1-11	84-85	)	_	
+
+#Text=Im Bonner Bogen (ehemalige Zementfabrikgelände in Oberkassel) sind laut Wikipedia 4.500 Arbeitsplätze entstanden, weitere tausende entstehen aktuell in Büros längs der Eisenbahn.
+2-1	88-90	Im	*[10]	
+2-2	91-97	Bonner	*[10]	
+2-3	98-103	Bogen	*[10]	
+2-4	104-105	(	*[10]	
+2-5	105-114	ehemalige	*[10]	
+2-6	115-134	Zementfabrikgelände	*[10]	
+2-7	135-137	in	*[10]	
+2-8	138-148	Oberkassel	*[10]	
+2-9	148-149	)	_	
+2-10	150-154	sind	_	
+2-11	155-159	laut	_	
+2-12	160-169	Wikipedia	_	
+2-13	170-175	4.500	_	
+2-14	176-189	Arbeitsplätze	_	
+2-15	190-200	entstanden	_	
+2-16	200-201	,	_	
+2-17	202-209	weitere	_	
+2-18	210-218	tausende	_	
+2-19	219-228	entstehen	_	
+2-20	229-236	aktuell	_	
+2-21	237-239	in	_	
+2-22	240-245	Büros	_	
+2-23	246-251	längs	_	
+2-24	252-255	der	_	
+2-25	256-265	Eisenbahn	_	
+2-26	265-266	.	_	
+
+#Text=Es gibt zum Bonner Bogen zwei Zufahrten.
+3-1	267-269	Es	_	
+3-2	270-274	gibt	_	
+3-3	275-278	zum	*[11]	
+3-4	279-285	Bonner	*[11]	
+3-5	286-291	Bogen	*[11]	
+3-6	292-296	zwei	_	
+3-7	297-306	Zufahrten	_	
+3-8	306-307	.	_	
+
+#Text=Einer führt über die Heinrich-Konen-Straße, jedoch ist die Straße ca. 50 Meter vor der Unterführung seltsam versetzt, siehe https://goo.gl/U7BQbM
+4-1	308-313	Einer	_	
+4-2	314-319	führt	_	
+4-3	320-324	über	*[12]	
+4-4	325-328	die	*[12]	
+4-5	329-350	Heinrich-Konen-Straße	*[12]	
+4-6	350-351	,	_	
+4-7	352-358	jedoch	_	
+4-8	359-362	ist	_	
+4-9	363-366	die	_	
+4-10	367-373	Straße	_	
+4-11	374-376	ca	_	
+4-12	376-377	.	_	
+4-13	378-380	50	_	
+4-14	381-386	Meter	_	
+4-15	387-390	vor	_	
+4-16	391-394	der	_	
+4-17	395-407	Unterführung	_	
+4-18	408-415	seltsam	_	
+4-19	416-424	versetzt	_	
+4-20	424-425	,	_	
+4-21	426-431	siehe	_	
+4-22	432-437	https	_	
+4-23	437-438	:	_	
+4-24	438-439	/	_	
+4-25	439-440	/	_	
+4-26	440-446	goo.gl	_	
+4-27	446-447	/	_	
+4-28	447-453	U7BQbM	_	
+
+#Text=Alle (!) Autofahrer schneiden den Weg in die Unterführung, auch weil jegliche Straßenmarkierung in diesem Bereich fehlt.
+5-1	454-458	Alle	_	
+5-2	459-460	(	_	
+5-3	460-461	!	_	
+5-4	461-462	)	_	
+5-5	463-473	Autofahrer	_	
+5-6	474-483	schneiden	_	
+5-7	484-487	den	_	
+5-8	488-491	Weg	_	
+5-9	492-494	in	_	
+5-10	495-498	die	_	
+5-11	499-511	Unterführung	_	
+5-12	511-512	,	_	
+5-13	513-517	auch	_	
+5-14	518-522	weil	_	
+5-15	523-531	jegliche	_	
+5-16	532-549	Straßenmarkierung	_	
+5-17	550-552	in	_	
+5-18	553-559	diesem	_	
+5-19	560-567	Bereich	_	
+5-20	568-573	fehlt	_	
+5-21	573-574	.	_	
+
+#Text=Ich selber erlebte jedoch mehrfach grössere Gefahrensituationen, weil Autofahrer mit zu hoher Geschwindigkeit in diesen Bereich einfahren, der zudem durch rechts (siehe Bild) im Unterführungsbereich parkende Autos nur links durchgängig ist.
+6-1	575-578	Ich	_	
+6-2	579-585	selber	_	
+6-3	586-593	erlebte	_	
+6-4	594-600	jedoch	_	
+6-5	601-609	mehrfach	_	
+6-6	610-618	grössere	_	
+6-7	619-638	Gefahrensituationen	_	
+6-8	638-639	,	_	
+6-9	640-644	weil	_	
+6-10	645-655	Autofahrer	_	
+6-11	656-659	mit	_	
+6-12	660-662	zu	_	
+6-13	663-668	hoher	_	
+6-14	669-684	Geschwindigkeit	_	
+6-15	685-687	in	_	
+6-16	688-694	diesen	_	
+6-17	695-702	Bereich	_	
+6-18	703-712	einfahren	_	
+6-19	712-713	,	_	
+6-20	714-717	der	_	
+6-21	718-723	zudem	_	
+6-22	724-729	durch	_	
+6-23	730-736	rechts	_	
+6-24	737-738	(	_	
+6-25	738-743	siehe	_	
+6-26	744-748	Bild	_	
+6-27	748-749	)	_	
+6-28	750-752	im	_	
+6-29	753-773	Unterführungsbereich	_	
+6-30	774-782	parkende	_	
+6-31	783-788	Autos	_	
+6-32	789-792	nur	_	
+6-33	793-798	links	_	
+6-34	799-810	durchgängig	_	
+6-35	811-814	ist	_	
+6-36	814-815	.	_	
+
+#Text=Das hat zur Folge, dass Autos sehr weit links fahren - und aus Gegenrichtung kommende Radfahrer massiv gefährden.
+7-1	816-819	Das	_	
+7-2	820-823	hat	_	
+7-3	824-827	zur	_	
+7-4	828-833	Folge	_	
+7-5	833-834	,	_	
+7-6	835-839	dass	_	
+7-7	840-845	Autos	_	
+7-8	846-850	sehr	_	
+7-9	851-855	weit	_	
+7-10	856-861	links	_	
+7-11	862-868	fahren	_	
+7-12	869-870	-	_	
+7-13	871-874	und	_	
+7-14	875-878	aus	_	
+7-15	879-892	Gegenrichtung	_	
+7-16	893-901	kommende	_	
+7-17	902-911	Radfahrer	_	
+7-18	912-918	massiv	_	
+7-19	919-928	gefährden	_	
+7-20	928-929	.	_	
+
+#Text=Unmittelbar vor der Einfahrt in die Unterführung müsste deshalb eine höhere Bremsschwelle geschaffen werden, die in die Unterführung einfahrende Autos deutlich abbremst.
+8-1	930-941	Unmittelbar	_	
+8-2	942-945	vor	_	
+8-3	946-949	der	_	
+8-4	950-958	Einfahrt	_	
+8-5	959-961	in	_	
+8-6	962-965	die	_	
+8-7	966-978	Unterführung	_	
+8-8	979-985	müsste	_	
+8-9	986-993	deshalb	_	
+8-10	994-998	eine	_	
+8-11	999-1005	höhere	_	
+8-12	1006-1019	Bremsschwelle	_	
+8-13	1020-1030	geschaffen	_	
+8-14	1031-1037	werden	_	
+8-15	1037-1038	,	_	
+8-16	1039-1042	die	_	
+8-17	1043-1045	in	_	
+8-18	1046-1049	die	_	
+8-19	1050-1062	Unterführung	_	
+8-20	1063-1074	einfahrende	_	
+8-21	1075-1080	Autos	_	
+8-22	1081-1089	deutlich	_	
+8-23	1090-1098	abbremst	_	
+8-24	1098-1099	.	_	

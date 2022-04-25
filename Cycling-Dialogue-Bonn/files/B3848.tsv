@@ -1,0 +1,99 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Pflichtfahrradweg
+1-1	0-17	Pflichtfahrradweg	_	
+
+#Text=Fährt man die Agnetendorfer Str. in Richtung Buschdorf, so kommt man in der Kurve vor der Unterführung an den Beginn eines Radweges für beide Richtung plus Fussgänger.
+2-1	20-25	Fährt	_	
+2-2	26-29	man	_	
+2-3	30-33	die	*[7]	
+2-4	34-47	Agnetendorfer	*[7]	
+2-5	48-51	Str	*[7]	
+2-6	51-52	.	*[7]	
+2-7	53-55	in	*[7]	
+2-8	56-64	Richtung	*[7]	
+2-9	65-74	Buschdorf	*[7]	
+2-10	74-75	,	_	
+2-11	76-78	so	_	
+2-12	79-84	kommt	_	
+2-13	85-88	man	_	
+2-14	89-91	in	_	
+2-15	92-95	der	_	
+2-16	96-101	Kurve	_	
+2-17	102-105	vor	_	
+2-18	106-109	der	_	
+2-19	110-122	Unterführung	_	
+2-20	123-125	an	_	
+2-21	126-129	den	_	
+2-22	130-136	Beginn	_	
+2-23	137-142	eines	_	
+2-24	143-151	Radweges	_	
+2-25	152-155	für	_	
+2-26	156-161	beide	_	
+2-27	162-170	Richtung	_	
+2-28	171-175	plus	_	
+2-29	176-186	Fussgänger	_	
+2-30	186-187	.	_	
+
+#Text=Extra mit Schild ausgewiesen.
+3-1	188-193	Extra	_	
+3-2	194-197	mit	_	
+3-3	198-204	Schild	_	
+3-4	205-216	ausgewiesen	_	
+3-5	216-217	.	_	
+
+#Text=Der Weg ist viel zu schmal und wird noch durch eine Umlaufsperre blockiert.
+4-1	218-221	Der	_	
+4-2	222-225	Weg	_	
+4-3	226-229	ist	_	
+4-4	230-234	viel	_	
+4-5	235-237	zu	_	
+4-6	238-244	schmal	_	
+4-7	245-248	und	_	
+4-8	249-253	wird	_	
+4-9	254-258	noch	_	
+4-10	259-264	durch	_	
+4-11	265-269	eine	_	
+4-12	270-282	Umlaufsperre	_	
+4-13	283-292	blockiert	_	
+4-14	292-293	.	_	
+
+#Text=Der unbefestigte Weg führt durch fast wildes Gelände und man landet wieder vor Umlaufsperren.
+5-1	294-297	Der	_	
+5-2	298-310	unbefestigte	_	
+5-3	311-314	Weg	_	
+5-4	315-320	führt	_	
+5-5	321-326	durch	_	
+5-6	327-331	fast	_	
+5-7	332-338	wildes	_	
+5-8	339-346	Gelände	_	
+5-9	347-350	und	_	
+5-10	351-354	man	_	
+5-11	355-361	landet	_	
+5-12	362-368	wieder	_	
+5-13	369-372	vor	_	
+5-14	373-386	Umlaufsperren	_	
+5-15	386-387	.	_	
+
+#Text=Das ist eine Zumutung.
+6-1	388-391	Das	_	
+6-2	392-395	ist	_	
+6-3	396-400	eine	_	
+6-4	401-409	Zumutung	_	
+6-5	409-410	.	_	
+
+#Text=Enweder breiter machen und Sperre weg oder andere Strassenführung.
+7-1	411-418	Enweder	_	
+7-2	419-426	breiter	_	
+7-3	427-433	machen	_	
+7-4	434-437	und	_	
+7-5	438-444	Sperre	_	
+7-6	445-448	weg	_	
+7-7	449-453	oder	_	
+7-8	454-460	andere	_	
+7-9	461-476	Strassenführung	_	
+7-10	476-477	.	_	

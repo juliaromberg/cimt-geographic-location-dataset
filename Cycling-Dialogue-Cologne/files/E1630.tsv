@@ -1,0 +1,79 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Freigabe Einbahnstraße auf Rochusstraße zwischen Venloer und Häuschensweg
+1-1	0-8	Freigabe	_	
+1-2	9-22	Einbahnstraße	*[4]	
+1-3	23-26	auf	*[4]	
+1-4	27-39	Rochusstraße	*[4]	
+1-5	40-48	zwischen	*[4]	
+1-6	49-56	Venloer	*[4]	
+1-7	57-60	und	*[4]	
+1-8	61-73	Häuschensweg	*[4]	
+
+#Text=Die Rochusstraße ist auf dem Abschnitt zwischen der Venloer Straße und dem Häuschensweg/Sandweg eine Einbahnstraße und sollte dringend für den gegenläufigen Radverkehr freigegeben werden.
+2-1	76-79	Die	*[5]	
+2-2	80-92	Rochusstraße	*[5]	
+2-3	93-96	ist	_	
+2-4	97-100	auf	_	
+2-5	101-104	dem	_	
+2-6	105-114	Abschnitt	_	
+2-7	115-123	zwischen	*[6]	
+2-8	124-127	der	*[6]	
+2-9	128-135	Venloer	*[6]	
+2-10	136-142	Straße	*[6]	
+2-11	143-146	und	*[6]	
+2-12	147-150	dem	*[6]	
+2-13	151-163	Häuschensweg	*[6]	
+2-14	163-164	/	*[6]	
+2-15	164-171	Sandweg	*[6]	
+2-16	172-176	eine	_	
+2-17	177-190	Einbahnstraße	_	
+2-18	191-194	und	_	
+2-19	195-201	sollte	_	
+2-20	202-210	dringend	_	
+2-21	211-214	für	_	
+2-22	215-218	den	_	
+2-23	219-232	gegenläufigen	_	
+2-24	233-243	Radverkehr	_	
+2-25	244-255	freigegeben	_	
+2-26	256-262	werden	_	
+2-27	262-263	.	_	
+
+#Text=Es ist für die Bickendorfer und Ossendorfer eine wichtige Verbindungstrecke zur U-Bahn und zum Einkaufen ([Firma], [Firma], [Firma], ...).
+3-1	264-266	Es	_	
+3-2	267-270	ist	_	
+3-3	271-274	für	_	
+3-4	275-278	die	_	
+3-5	279-291	Bickendorfer	_	
+3-6	292-295	und	_	
+3-7	296-307	Ossendorfer	_	
+3-8	308-312	eine	_	
+3-9	313-321	wichtige	_	
+3-10	322-339	Verbindungstrecke	_	
+3-11	340-343	zur	_	
+3-12	344-350	U-Bahn	_	
+3-13	351-354	und	_	
+3-14	355-358	zum	_	
+3-15	359-368	Einkaufen	_	
+3-16	369-370	(	_	
+3-17	370-371	[	_	
+3-18	371-376	Firma	_	
+3-19	376-377	]	_	
+3-20	377-378	,	_	
+3-21	379-380	[	_	
+3-22	380-385	Firma	_	
+3-23	385-386	]	_	
+3-24	386-387	,	_	
+3-25	388-389	[	_	
+3-26	389-394	Firma	_	
+3-27	394-395	]	_	
+3-28	395-396	,	_	
+3-29	397-398	.	_	
+3-30	398-399	.	_	
+3-31	399-400	.	_	
+3-32	400-401	)	_	
+3-33	401-402	.	_	

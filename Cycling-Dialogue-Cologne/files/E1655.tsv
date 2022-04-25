@@ -1,0 +1,98 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampel an der Abfahrt Ehrenfeld/Nippes A 57 stadtauswärts
+1-1	0-5	Ampel	*[4]	
+1-2	6-8	an	*[4]	
+1-3	9-12	der	*[4]	
+1-4	13-20	Abfahrt	*[4]	
+1-5	21-30	Ehrenfeld	*[4]	
+1-6	30-31	/	*[4]	
+1-7	31-37	Nippes	*[4]	
+1-8	38-39	A	*[4]	
+1-9	40-42	57	*[4]	
+1-10	43-56	stadtauswärts	*[4]	
+
+#Text=Erreichen Radfahrer, Jogger und Fussgänger auf dem Verbindungsweg aus Richtung Wöhlerstrasse den Parkgürtel um diesen zu überqueren, müssen Sie meistens um ihr Leben fürchten, weil die Autofahrer von der Autobahn in hohem Tempo kommen, die Fussgänger und Radfahrer nicht oder sehr spät sehen können genauso auch umgekehrt.
+2-1	59-68	Erreichen	_	
+2-2	69-78	Radfahrer	_	
+2-3	78-79	,	_	
+2-4	80-86	Jogger	_	
+2-5	87-90	und	_	
+2-6	91-101	Fussgänger	_	
+2-7	102-105	auf	_	
+2-8	106-109	dem	_	
+2-9	110-124	Verbindungsweg	*[5]	
+2-10	125-128	aus	*[5]	
+2-11	129-137	Richtung	*[5]	
+2-12	138-151	Wöhlerstrasse	*[5]	
+2-13	152-155	den	*[5]	
+2-14	156-166	Parkgürtel	*[5]	
+2-15	167-169	um	_	
+2-16	170-176	diesen	_	
+2-17	177-179	zu	_	
+2-18	180-190	überqueren	_	
+2-19	190-191	,	_	
+2-20	192-198	müssen	_	
+2-21	199-202	Sie	_	
+2-22	203-211	meistens	_	
+2-23	212-214	um	_	
+2-24	215-218	ihr	_	
+2-25	219-224	Leben	_	
+2-26	225-233	fürchten	_	
+2-27	233-234	,	_	
+2-28	235-239	weil	_	
+2-29	240-243	die	_	
+2-30	244-254	Autofahrer	_	
+2-31	255-258	von	_	
+2-32	259-262	der	_	
+2-33	263-271	Autobahn	_	
+2-34	272-274	in	_	
+2-35	275-280	hohem	_	
+2-36	281-286	Tempo	_	
+2-37	287-293	kommen	_	
+2-38	293-294	,	_	
+2-39	295-298	die	_	
+2-40	299-309	Fussgänger	_	
+2-41	310-313	und	_	
+2-42	314-323	Radfahrer	_	
+2-43	324-329	nicht	_	
+2-44	330-334	oder	_	
+2-45	335-339	sehr	_	
+2-46	340-344	spät	_	
+2-47	345-350	sehen	_	
+2-48	351-357	können	_	
+2-49	358-365	genauso	_	
+2-50	366-370	auch	_	
+2-51	371-380	umgekehrt	_	
+2-52	380-381	.	_	
+
+#Text=Daher die dringende Bitte entweder eine Ampel (die aber auch gleichgeschaltet ist mit der Ampel am Parkgürtel in Fahrtrichtung Nippes) oder STOPP-Schild.
+3-1	382-387	Daher	_	
+3-2	388-391	die	_	
+3-3	392-401	dringende	_	
+3-4	402-407	Bitte	_	
+3-5	408-416	entweder	_	
+3-6	417-421	eine	_	
+3-7	422-427	Ampel	_	
+3-8	428-429	(	_	
+3-9	429-432	die	_	
+3-10	433-437	aber	_	
+3-11	438-442	auch	_	
+3-12	443-459	gleichgeschaltet	_	
+3-13	460-463	ist	_	
+3-14	464-467	mit	_	
+3-15	468-471	der	_	
+3-16	472-477	Ampel	*[6]	
+3-17	478-480	am	*[6]	
+3-18	481-491	Parkgürtel	*[6]	
+3-19	492-494	in	*[6]	
+3-20	495-508	Fahrtrichtung	*[6]	
+3-21	509-515	Nippes	*[6]	
+3-22	515-516	)	_	
+3-23	517-521	oder	_	
+3-24	522-534	STOPP-Schild	_	
+3-25	534-535	.	_	

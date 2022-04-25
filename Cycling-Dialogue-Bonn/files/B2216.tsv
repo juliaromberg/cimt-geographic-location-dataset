@@ -1,0 +1,27 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radverkehr freigeben
+1-1	0-10	Radverkehr	_	
+1-2	11-20	freigeben	_	
+
+#Text=Die Verbindung Stephan-Lochner-Straße - Matthias-Grünewald-Straße sollte für den Radverkehr freigegeben werden als Alternative zur Kennedyallee.
+2-1	23-26	Die	*[3]	
+2-2	27-37	Verbindung	*[3]	
+2-3	38-60	Stephan-Lochner-Straße	*[3]	
+2-4	61-62	-	*[3]	
+2-5	63-88	Matthias-Grünewald-Straße	*[3]	
+2-6	89-95	sollte	_	
+2-7	96-99	für	_	
+2-8	100-103	den	_	
+2-9	104-114	Radverkehr	_	
+2-10	115-126	freigegeben	_	
+2-11	127-133	werden	_	
+2-12	134-137	als	_	
+2-13	138-149	Alternative	_	
+2-14	150-153	zur	_	
+2-15	154-166	Kennedyallee	*	
+2-16	166-167	.	_	

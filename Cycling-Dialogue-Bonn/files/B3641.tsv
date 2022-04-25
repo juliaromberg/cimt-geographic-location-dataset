@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlechte Wegeführung am Verteilerkreis II
+1-1	0-9	Schlechte	_	
+1-2	10-21	Wegeführung	_	
+1-3	22-24	am	_	
+1-4	25-39	Verteilerkreis	_	
+1-5	40-42	II	_	
+
+#Text=An dem Abzweig Dorotheenstr. ist die Situation sowohl für Radfahrer als auch für Fußgänger unbefriedigend: Welchen Weg soll den jemand einschlagen, der von Verpoorten zur Aral-Tankstelle / in den Lievelingsweg möchte?
+2-1	45-47	An	_	
+2-2	48-51	dem	_	
+2-3	52-59	Abzweig	_	
+2-4	60-72	Dorotheenstr	*	
+2-5	72-73	.	_	
+2-6	74-77	ist	_	
+2-7	78-81	die	_	
+2-8	82-91	Situation	_	
+2-9	92-98	sowohl	_	
+2-10	99-102	für	_	
+2-11	103-112	Radfahrer	_	
+2-12	113-116	als	_	
+2-13	117-121	auch	_	
+2-14	122-125	für	_	
+2-15	126-135	Fußgänger	_	
+2-16	136-150	unbefriedigend	_	
+2-17	150-151	:	_	
+2-18	152-159	Welchen	_	
+2-19	160-163	Weg	_	
+2-20	164-168	soll	_	
+2-21	169-172	den	_	
+2-22	173-179	jemand	_	
+2-23	180-191	einschlagen	_	
+2-24	191-192	,	_	
+2-25	193-196	der	_	
+2-26	197-200	von	*[5]	
+2-27	201-211	Verpoorten	*[5]	
+2-28	212-215	zur	*[5]	
+2-29	216-231	Aral-Tankstelle	*[5]	
+2-30	232-233	/	*[5]	
+2-31	234-236	in	*[5]	
+2-32	237-240	den	*[5]	
+2-33	241-254	Lievelingsweg	*[5]	
+2-34	255-261	möchte	_	
+2-35	261-262	?	_	
+
+#Text=Hier gibt es keine gekennzeichnete Querungsmöglichkeit (Zebrastreifen und Radstreifen)!
+3-1	263-267	Hier	_	
+3-2	268-272	gibt	_	
+3-3	273-275	es	_	
+3-4	276-281	keine	_	
+3-5	282-297	gekennzeichnete	_	
+3-6	298-317	Querungsmöglichkeit	_	
+3-7	318-319	(	_	
+3-8	319-332	Zebrastreifen	_	
+3-9	333-336	und	_	
+3-10	337-348	Radstreifen	_	
+3-11	348-349	)	_	
+3-12	349-350	!	_	
+
+#Text=Die Markierung sollte hier so sein wie beim Abzweig am Heinrich-Böll-Ring.
+4-1	351-354	Die	_	
+4-2	355-365	Markierung	_	
+4-3	366-372	sollte	_	
+4-4	373-377	hier	_	
+4-5	378-380	so	_	
+4-6	381-385	sein	_	
+4-7	386-389	wie	_	
+4-8	390-394	beim	_	
+4-9	395-402	Abzweig	_	
+4-10	403-405	am	*[6]	
+4-11	406-424	Heinrich-Böll-Ring	*[6]	
+4-12	424-425	.	_	

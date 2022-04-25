@@ -1,0 +1,54 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=abknickender Radweg
+1-1	0-12	abknickender	_	
+1-2	13-19	Radweg	_	
+
+#Text=...von der Viktoriabrücke aus kommend und Richtung Baumschulpark fahrend macht der Radweg einen kleinen Knick (Einmündung Lisztstraße).
+2-1	22-23	.	_	
+2-2	23-24	.	_	
+2-3	24-25	.	_	
+2-4	25-28	von	*[4]	
+2-5	29-32	der	*[4]	
+2-6	33-47	Viktoriabrücke	*[4]	
+2-7	48-51	aus	*[4]	
+2-8	52-59	kommend	*[4]	
+2-9	60-63	und	*[4]	
+2-10	64-72	Richtung	*[4]	
+2-11	73-86	Baumschulpark	*[4]	
+2-12	87-94	fahrend	_	
+2-13	95-100	macht	_	
+2-14	101-104	der	_	
+2-15	105-111	Radweg	_	
+2-16	112-117	einen	_	
+2-17	118-125	kleinen	_	
+2-18	126-131	Knick	_	
+2-19	132-133	(	_	
+2-20	133-143	Einmündung	*[5]	
+2-21	144-155	Lisztstraße	*[5]	
+2-22	155-156	)	_	
+2-23	156-157	.	_	
+
+#Text=Die Autos und Radfahrer begegnen sich gefährlich nah und ich habe schon häufig beinahe-Unfälle gesehen...
+3-1	158-161	Die	_	
+3-2	162-167	Autos	_	
+3-3	168-171	und	_	
+3-4	172-181	Radfahrer	_	
+3-5	182-190	begegnen	_	
+3-6	191-195	sich	_	
+3-7	196-206	gefährlich	_	
+3-8	207-210	nah	_	
+3-9	211-214	und	_	
+3-10	215-218	ich	_	
+3-11	219-223	habe	_	
+3-12	224-229	schon	_	
+3-13	230-236	häufig	_	
+3-14	237-252	beinahe-Unfälle	_	
+3-15	253-260	gesehen	_	
+3-16	260-261	.	_	
+3-17	261-262	.	_	
+3-18	262-263	.	_	

@@ -1,0 +1,157 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kennedybrücke Richtung Beuel Zentrum
+1-1	0-13	Kennedybrücke	*[9]	
+1-2	14-22	Richtung	*[9]	
+1-3	23-28	Beuel	*[9]	
+1-4	29-36	Zentrum	*[9]	
+
+#Text=Viele KfZ, die aus Bonn Zentrum kommen, biegen rechts in die Herrmannstraße ab.
+2-1	39-44	Viele	_	
+2-2	45-48	KfZ	_	
+2-3	48-49	,	_	
+2-4	50-53	die	_	
+2-5	54-57	aus	*[10]	
+2-6	58-62	Bonn	*[10]	
+2-7	63-70	Zentrum	*[10]	
+2-8	71-77	kommen	*[10]	
+2-9	77-78	,	*[10]	
+2-10	79-85	biegen	*[10]	
+2-11	86-92	rechts	*[10]	
+2-12	93-95	in	*[10]	
+2-13	96-99	die	*[10]	
+2-14	100-114	Herrmannstraße	*[10]	
+2-15	115-117	ab	*[10]	
+2-16	117-118	.	_	
+
+#Text=Auf dem Fahrradweg kommen Fahrradfahrer (oft schnell, da es bergab geht), die geradeaus in Richtung Beuel Zentrum weiterfahren.
+3-1	119-122	Auf	_	
+3-2	123-126	dem	_	
+3-3	127-137	Fahrradweg	_	
+3-4	138-144	kommen	_	
+3-5	145-158	Fahrradfahrer	_	
+3-6	159-160	(	_	
+3-7	160-163	oft	_	
+3-8	164-171	schnell	_	
+3-9	171-172	,	_	
+3-10	173-175	da	_	
+3-11	176-178	es	_	
+3-12	179-185	bergab	_	
+3-13	186-190	geht	_	
+3-14	190-191	)	_	
+3-15	191-192	,	_	
+3-16	193-196	die	_	
+3-17	197-206	geradeaus	*[11]	
+3-18	207-209	in	*[11]	
+3-19	210-218	Richtung	*[11]	
+3-20	219-224	Beuel	*[11]	
+3-21	225-232	Zentrum	*[11]	
+3-22	233-245	weiterfahren	*[11]	
+3-23	245-246	.	_	
+
+#Text=Die Fahrradfahrer werden von Autos manchmal übersehen, da sie für die Autofahrer schlecht sichtbar sind bzw. die Autofahrer auch nicht immer ausreichend achtsam sind.
+4-1	247-250	Die	_	
+4-2	251-264	Fahrradfahrer	_	
+4-3	265-271	werden	_	
+4-4	272-275	von	_	
+4-5	276-281	Autos	_	
+4-6	282-290	manchmal	_	
+4-7	291-300	übersehen	_	
+4-8	300-301	,	_	
+4-9	302-304	da	_	
+4-10	305-308	sie	_	
+4-11	309-312	für	_	
+4-12	313-316	die	_	
+4-13	317-327	Autofahrer	_	
+4-14	328-336	schlecht	_	
+4-15	337-345	sichtbar	_	
+4-16	346-350	sind	_	
+4-17	351-354	bzw	_	
+4-18	354-355	.	_	
+4-19	356-359	die	_	
+4-20	360-370	Autofahrer	_	
+4-21	371-375	auch	_	
+4-22	376-381	nicht	_	
+4-23	382-387	immer	_	
+4-24	388-399	ausreichend	_	
+4-25	400-407	achtsam	_	
+4-26	408-412	sind	_	
+4-27	412-413	.	_	
+
+#Text=Ein ähnliches Problem stellt sich in Richtung Bonn Zentrum, wenn Autofahrer rechts in Richtung Hilton Hotel abbiegen und die Radfahrer geradeaus in Richtung Berta-von-Suttner Platz fahren.
+5-1	414-417	Ein	_	
+5-2	418-427	ähnliches	_	
+5-3	428-435	Problem	_	
+5-4	436-442	stellt	_	
+5-5	443-447	sich	_	
+5-6	448-450	in	*[12]	
+5-7	451-459	Richtung	*[12]	
+5-8	460-464	Bonn	*[12]	
+5-9	465-472	Zentrum	*[12]	
+5-10	472-473	,	_	
+5-11	474-478	wenn	_	
+5-12	479-489	Autofahrer	_	
+5-13	490-496	rechts	*[13]	
+5-14	497-499	in	*[13]	
+5-15	500-508	Richtung	*[13]	
+5-16	509-515	Hilton	*[13]	
+5-17	516-521	Hotel	*[13]	
+5-18	522-530	abbiegen	*[13]	
+5-19	531-534	und	_	
+5-20	535-538	die	_	
+5-21	539-548	Radfahrer	_	
+5-22	549-558	geradeaus	_	
+5-23	559-561	in	*[14]	
+5-24	562-570	Richtung	*[14]	
+5-25	571-588	Berta-von-Suttner	*[14]	
+5-26	589-594	Platz	*[14]	
+5-27	595-601	fahren	_	
+5-28	601-602	.	_	
+
+#Text=Von daher ist die Situation für Radfahrer (und auch Autofahrer) kritisch und gefährlich.
+6-1	603-606	Von	_	
+6-2	607-612	daher	_	
+6-3	613-616	ist	_	
+6-4	617-620	die	_	
+6-5	621-630	Situation	_	
+6-6	631-634	für	_	
+6-7	635-644	Radfahrer	_	
+6-8	645-646	(	_	
+6-9	646-649	und	_	
+6-10	650-654	auch	_	
+6-11	655-665	Autofahrer	_	
+6-12	665-666	)	_	
+6-13	667-675	kritisch	_	
+6-14	676-679	und	_	
+6-15	680-690	gefährlich	_	
+6-16	690-691	.	_	
+
+#Text=Die Stellen sollten entschärft werden - es ist auch schon zu Unfällen gekommen.
+7-1	692-695	Die	_	
+7-2	696-703	Stellen	_	
+7-3	704-711	sollten	_	
+7-4	712-722	entschärft	_	
+7-5	723-729	werden	_	
+7-6	730-731	-	_	
+7-7	732-734	es	_	
+7-8	735-738	ist	_	
+7-9	739-743	auch	_	
+7-10	744-749	schon	_	
+7-11	750-752	zu	_	
+7-12	753-761	Unfällen	_	
+7-13	762-770	gekommen	_	
+7-14	770-771	.	_	
+
+#Text=Möglichkeiten wären eine geänderte Verkehrsführung oder Ampeln.
+8-1	772-785	Möglichkeiten	_	
+8-2	786-791	wären	_	
+8-3	792-796	eine	_	
+8-4	797-806	geänderte	_	
+8-5	807-822	Verkehrsführung	_	
+8-6	823-827	oder	_	
+8-7	828-834	Ampeln	_	
+8-8	834-835	.	_	

@@ -1,0 +1,81 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Straßenbelag
+1-1	0-12	Straßenbelag	_	
+
+#Text=Die roten Pflastersteine in der Villichgasse empfinde ich als ungünstigen Straßenbelag.
+2-1	15-18	Die	_	
+2-2	19-24	roten	_	
+2-3	25-39	Pflastersteine	_	
+2-4	40-42	in	*[5]	
+2-5	43-46	der	*[5]	
+2-6	47-59	Villichgasse	*[5]	
+2-7	60-68	empfinde	_	
+2-8	69-72	ich	_	
+2-9	73-76	als	_	
+2-10	77-88	ungünstigen	_	
+2-11	89-101	Straßenbelag	_	
+2-12	101-102	.	_	
+
+#Text=Zum einen ist die Fahrbahnmarkierung an der Ampel (Richtung Aennchenplatz) schon seit einiger Zeit fast komplett verschwunden, insbesondere der vorgelagerte Haltebereich für Radfahrer.
+3-1	103-106	Zum	_	
+3-2	107-112	einen	_	
+3-3	113-116	ist	_	
+3-4	117-120	die	_	
+3-5	121-139	Fahrbahnmarkierung	_	
+3-6	140-142	an	_	
+3-7	143-146	der	_	
+3-8	147-152	Ampel	_	
+3-9	153-154	(	_	
+3-10	154-162	Richtung	*[6]	
+3-11	163-176	Aennchenplatz	*[6]	
+3-12	176-177	)	_	
+3-13	178-183	schon	_	
+3-14	184-188	seit	_	
+3-15	189-196	einiger	_	
+3-16	197-201	Zeit	_	
+3-17	202-206	fast	_	
+3-18	207-215	komplett	_	
+3-19	216-228	verschwunden	_	
+3-20	228-229	,	_	
+3-21	230-242	insbesondere	_	
+3-22	243-246	der	_	
+3-23	247-259	vorgelagerte	_	
+3-24	260-272	Haltebereich	_	
+3-25	273-276	für	_	
+3-26	277-286	Radfahrer	_	
+3-27	286-287	.	_	
+
+#Text=Zum anderen habe ich bei Regen/Nässe das Gefühl, dass die Pflasterung etwas rutschig ist.
+4-1	288-291	Zum	_	
+4-2	292-299	anderen	_	
+4-3	300-304	habe	_	
+4-4	305-308	ich	_	
+4-5	309-312	bei	_	
+4-6	313-318	Regen	_	
+4-7	318-319	/	_	
+4-8	319-324	Nässe	_	
+4-9	325-328	das	_	
+4-10	329-335	Gefühl	_	
+4-11	335-336	,	_	
+4-12	337-341	dass	_	
+4-13	342-345	die	_	
+4-14	346-357	Pflasterung	_	
+4-15	358-363	etwas	_	
+4-16	364-372	rutschig	_	
+4-17	373-376	ist	_	
+4-18	376-377	.	_	
+
+#Text=Zudem sind die Steine teilweise auch locker.
+5-1	378-383	Zudem	_	
+5-2	384-388	sind	_	
+5-3	389-392	die	_	
+5-4	393-399	Steine	_	
+5-5	400-409	teilweise	_	
+5-6	410-414	auch	_	
+5-7	415-421	locker	_	
+5-8	421-422	.	_	

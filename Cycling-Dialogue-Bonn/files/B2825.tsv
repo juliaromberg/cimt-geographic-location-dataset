@@ -1,0 +1,112 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Kreuzung für fahrradfahrende Schulkinder und Fußgänger
+1-1	0-11	Gefährliche	_	
+1-2	12-20	Kreuzung	_	
+1-3	21-24	für	_	
+1-4	25-40	fahrradfahrende	_	
+1-5	41-52	Schulkinder	_	
+1-6	53-56	und	_	
+1-7	57-66	Fußgänger	_	
+
+#Text=Die Kreuzung Hubertusstr./Im Schmalzacker/Georg-Weiß-Weg in Ückesdorf ist seit langem eine gefährliche Stelle, insbesondere morgens vor Schulbeginn.
+2-1	69-72	Die	*[5]	
+2-2	73-81	Kreuzung	*[5]	
+2-3	82-93	Hubertusstr	*[5]	
+2-4	93-94	.	*[5]	
+2-5	94-95	/	*[5]	
+2-6	95-97	Im	*[5]	
+2-7	98-110	Schmalzacker	*[5]	
+2-8	110-111	/	*[5]	
+2-9	111-125	Georg-Weiß-Weg	*[5]	
+2-10	126-128	in	*[5]	
+2-11	129-138	Ückesdorf	*[5]	
+2-12	139-142	ist	_	
+2-13	143-147	seit	_	
+2-14	148-154	langem	_	
+2-15	155-159	eine	_	
+2-16	160-171	gefährliche	_	
+2-17	172-178	Stelle	_	
+2-18	178-179	,	_	
+2-19	180-192	insbesondere	_	
+2-20	193-200	morgens	_	
+2-21	201-204	vor	_	
+2-22	205-216	Schulbeginn	_	
+2-23	216-217	.	_	
+
+#Text=Radfahrer und Fußgänger, die vom Georg-Weiß-Weg kommend auf den Rad-/Fußweg auf der Straße Im Schmalzacker in Richtung CvO wechseln wollen, müssen die Kreuzung, an der aus drei Richtungen Verkehr inklusive Schulbusse kommen, überqueren, ohne dass es einen Zebrastreifen oder gar eine Ampel gibt.
+3-1	218-227	Radfahrer	_	
+3-2	228-231	und	_	
+3-3	232-241	Fußgänger	_	
+3-4	241-242	,	_	
+3-5	243-246	die	_	
+3-6	247-250	vom	*[6]	
+3-7	251-265	Georg-Weiß-Weg	*[6]	
+3-8	266-273	kommend	*[6]	
+3-9	274-277	auf	*[6]	
+3-10	278-281	den	*[6]	
+3-11	282-285	Rad	*[6]	
+3-12	285-286	-	*[6]	
+3-13	286-287	/	*[6]	
+3-14	287-293	Fußweg	*[6]	
+3-15	294-297	auf	*[6]	
+3-16	298-301	der	*[6]	
+3-17	302-308	Straße	*[6]	
+3-18	309-311	Im	*[6]	
+3-19	312-324	Schmalzacker	*[6]	
+3-20	325-327	in	*[6]	
+3-21	328-336	Richtung	*[6]	
+3-22	337-340	CvO	*[6]	
+3-23	341-349	wechseln	*[6]	
+3-24	350-356	wollen	_	
+3-25	356-357	,	_	
+3-26	358-364	müssen	_	
+3-27	365-368	die	_	
+3-28	369-377	Kreuzung	_	
+3-29	377-378	,	_	
+3-30	379-381	an	_	
+3-31	382-385	der	_	
+3-32	386-389	aus	_	
+3-33	390-394	drei	_	
+3-34	395-405	Richtungen	_	
+3-35	406-413	Verkehr	_	
+3-36	414-423	inklusive	_	
+3-37	424-434	Schulbusse	_	
+3-38	435-441	kommen	_	
+3-39	441-442	,	_	
+3-40	443-453	überqueren	_	
+3-41	453-454	,	_	
+3-42	455-459	ohne	_	
+3-43	460-464	dass	_	
+3-44	465-467	es	_	
+3-45	468-473	einen	_	
+3-46	474-487	Zebrastreifen	_	
+3-47	488-492	oder	_	
+3-48	493-496	gar	_	
+3-49	497-501	eine	_	
+3-50	502-507	Ampel	_	
+3-51	508-512	gibt	_	
+3-52	512-513	.	_	
+
+#Text=Wünschenwert wäre ein Zebrastreifen zwischen der Haltestelle Gymnasium und der Kreuzung sowie Warnschilder für die Autofahrer.
+4-1	514-526	Wünschenwert	_	
+4-2	527-531	wäre	_	
+4-3	532-535	ein	_	
+4-4	536-549	Zebrastreifen	_	
+4-5	550-558	zwischen	*[7]	
+4-6	559-562	der	*[7]	
+4-7	563-574	Haltestelle	*[7]	
+4-8	575-584	Gymnasium	*[7]	
+4-9	585-588	und	*[7]	
+4-10	589-592	der	*[7]	
+4-11	593-601	Kreuzung	*[7]	
+4-12	602-607	sowie	_	
+4-13	608-620	Warnschilder	_	
+4-14	621-624	für	_	
+4-15	625-628	die	_	
+4-16	629-639	Autofahrer	_	
+4-17	639-640	.	_	

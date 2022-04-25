@@ -1,0 +1,32 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Absenken der Bordsteinkante
+1-1	0-8	Absenken	_	
+1-2	9-12	der	_	
+1-3	13-27	Bordsteinkante	_	
+
+#Text=Da der Radweg über den Bürgersteig geführt wird, wäre es auch angebracht, den Bürgersteig für Fahrradfahrer abzusenken.
+2-1	30-32	Da	_	
+2-2	33-36	der	_	
+2-3	37-43	Radweg	_	
+2-4	44-48	über	_	
+2-5	49-52	den	_	
+2-6	53-64	Bürgersteig	_	
+2-7	65-72	geführt	_	
+2-8	73-77	wird	_	
+2-9	77-78	,	_	
+2-10	79-83	wäre	_	
+2-11	84-86	es	_	
+2-12	87-91	auch	_	
+2-13	92-102	angebracht	_	
+2-14	102-103	,	_	
+2-15	104-107	den	_	
+2-16	108-119	Bürgersteig	_	
+2-17	120-123	für	_	
+2-18	124-137	Fahrradfahrer	_	
+2-19	138-148	abzusenken	_	
+2-20	148-149	.	_	

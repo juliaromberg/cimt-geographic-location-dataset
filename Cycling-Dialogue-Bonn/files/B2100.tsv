@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstraße für Radfahrer freigeben
+1-1	0-13	Einbahnstraße	_	
+1-2	14-17	für	_	
+1-3	18-27	Radfahrer	_	
+1-4	28-37	freigeben	_	
+
+#Text=Schön wäre es, wenn die Einbahnstraße für den Radverkehr freigegeben würde!
+2-1	40-45	Schön	_	
+2-2	46-50	wäre	_	
+2-3	51-53	es	_	
+2-4	53-54	,	_	
+2-5	55-59	wenn	_	
+2-6	60-63	die	_	
+2-7	64-77	Einbahnstraße	_	
+2-8	78-81	für	_	
+2-9	82-85	den	_	
+2-10	86-96	Radverkehr	_	
+2-11	97-108	freigegeben	_	
+2-12	109-114	würde	_	
+2-13	114-115	!	_	
+
+#Text=Sonst ist immer ein Umweg notwendig...
+3-1	116-121	Sonst	_	
+3-2	122-125	ist	_	
+3-3	126-131	immer	_	
+3-4	132-135	ein	_	
+3-5	136-141	Umweg	_	
+3-6	142-151	notwendig	_	
+3-7	151-152	.	_	
+3-8	152-153	.	_	
+3-9	153-154	.	_	

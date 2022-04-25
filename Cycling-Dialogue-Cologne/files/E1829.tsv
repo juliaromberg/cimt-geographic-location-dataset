@@ -1,0 +1,301 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radschnellwegnetz Bahndamm in und nach Ehrenfeld
+1-1	0-17	Radschnellwegnetz	_	
+1-2	18-26	Bahndamm	*[20]	
+1-3	27-29	in	*[20]	
+1-4	30-33	und	*[20]	
+1-5	34-38	nach	*[20]	
+1-6	39-48	Ehrenfeld	*[20]	
+
+#Text=Dieser Vorschlag zielt auf das große Ganze: Wie kann Ehrenfeld gut erreicht werden und wie kann man sich auch innerhalb Ehrenfelds schnell und sicher bewegen?
+2-1	51-57	Dieser	_	
+2-2	58-67	Vorschlag	_	
+2-3	68-73	zielt	_	
+2-4	74-77	auf	_	
+2-5	78-81	das	_	
+2-6	82-87	große	_	
+2-7	88-93	Ganze	_	
+2-8	93-94	:	_	
+2-9	95-98	Wie	_	
+2-10	99-103	kann	_	
+2-11	104-113	Ehrenfeld	*	
+2-12	114-117	gut	_	
+2-13	118-126	erreicht	_	
+2-14	127-133	werden	_	
+2-15	134-137	und	_	
+2-16	138-141	wie	_	
+2-17	142-146	kann	_	
+2-18	147-150	man	_	
+2-19	151-155	sich	_	
+2-20	156-160	auch	_	
+2-21	161-170	innerhalb	*[21]	
+2-22	171-181	Ehrenfelds	*[21]	
+2-23	182-189	schnell	_	
+2-24	190-193	und	_	
+2-25	194-200	sicher	_	
+2-26	201-208	bewegen	_	
+2-27	208-209	?	_	
+
+#Text=Die meist in Hochlage konstruierten Bahndämme und -brücken ermöglichen seitlich angeheftete breite Radtrassen kreuzungsfrei über weite Strecken.
+3-1	210-213	Die	_	
+3-2	214-219	meist	_	
+3-3	220-222	in	_	
+3-4	223-231	Hochlage	_	
+3-5	232-245	konstruierten	_	
+3-6	246-255	Bahndämme	_	
+3-7	256-259	und	_	
+3-8	260-261	-	_	
+3-9	261-268	brücken	_	
+3-10	269-280	ermöglichen	_	
+3-11	281-289	seitlich	_	
+3-12	290-301	angeheftete	_	
+3-13	302-308	breite	_	
+3-14	309-319	Radtrassen	_	
+3-15	320-333	kreuzungsfrei	_	
+3-16	334-338	über	_	
+3-17	339-344	weite	_	
+3-18	345-353	Strecken	_	
+3-19	353-354	.	_	
+
+#Text=Holland hat das erfolgreich vorgemacht (Beispiel Nijmegen: http://wp.me/p2faP1-t7 mit Video).
+4-1	355-362	Holland	_	
+4-2	363-366	hat	_	
+4-3	367-370	das	_	
+4-4	371-382	erfolgreich	_	
+4-5	383-393	vorgemacht	_	
+4-6	394-395	(	_	
+4-7	395-403	Beispiel	_	
+4-8	404-412	Nijmegen	_	
+4-9	412-413	:	_	
+4-10	414-418	http	_	
+4-11	418-419	:	_	
+4-12	419-420	/	_	
+4-13	420-421	/	_	
+4-14	421-426	wp.me	_	
+4-15	426-427	/	_	
+4-16	427-433	p2faP1	_	
+4-17	433-434	-	_	
+4-18	434-436	t7	_	
+4-19	437-440	mit	_	
+4-20	441-446	Video	_	
+4-21	446-447	)	_	
+4-22	447-448	.	_	
+
+#Text=Die Idee entstammt einem Vorschlag zum Bürgerhaushalt 2016 (Bezirksübergreifend Pos.2: http://tinyurl.com/y9c7qe65 ).
+5-1	449-452	Die	_	
+5-2	453-457	Idee	_	
+5-3	458-467	entstammt	_	
+5-4	468-473	einem	_	
+5-5	474-483	Vorschlag	_	
+5-6	484-487	zum	_	
+5-7	488-502	Bürgerhaushalt	_	
+5-8	503-507	2016	_	
+5-9	508-509	(	_	
+5-10	509-528	Bezirksübergreifend	_	
+5-11	529-532	Pos	_	
+5-12	532-534	.2	_	
+5-13	534-535	:	_	
+5-14	536-540	http	_	
+5-15	540-541	:	_	
+5-16	541-542	/	_	
+5-17	542-543	/	_	
+5-18	543-554	tinyurl.com	_	
+5-19	554-555	/	_	
+5-20	555-563	y9c7qe65	_	
+5-21	564-565	)	_	
+5-22	565-566	.	_	
+
+#Text=Hier sind Vorschlags-Skizzen für Köln und für Ehrenfeld zu finden: http://tinyurl.com/y9s2h6kt
+6-1	567-571	Hier	_	
+6-2	572-576	sind	_	
+6-3	577-595	Vorschlags-Skizzen	_	
+6-4	596-599	für	_	
+6-5	600-604	Köln	_	
+6-6	605-608	und	_	
+6-7	609-612	für	_	
+6-8	613-622	Ehrenfeld	_	
+6-9	623-625	zu	_	
+6-10	626-632	finden	_	
+6-11	632-633	:	_	
+6-12	634-638	http	_	
+6-13	638-639	:	_	
+6-14	639-640	/	_	
+6-15	640-641	/	_	
+6-16	641-652	tinyurl.com	_	
+6-17	652-653	/	_	
+6-18	653-661	y9s2h6kt	_	
+
+#Text=Viel der im Ehrenfelder Raddialog versammelten Vorschläge betreffen wichtige Einzelelemente.
+7-1	662-666	Viel	_	
+7-2	667-670	der	_	
+7-3	671-673	im	_	
+7-4	674-685	Ehrenfelder	_	
+7-5	686-695	Raddialog	_	
+7-6	696-708	versammelten	_	
+7-7	709-719	Vorschläge	_	
+7-8	720-729	betreffen	_	
+7-9	730-738	wichtige	_	
+7-10	739-753	Einzelelemente	_	
+7-11	753-754	.	_	
+
+#Text=Über das Bahnnetz (und die Bahnhöfe) können diese effizient miteinader verbunden werden.
+8-1	755-759	Über	_	
+8-2	760-763	das	_	
+8-3	764-772	Bahnnetz	_	
+8-4	773-774	(	_	
+8-5	774-777	und	_	
+8-6	778-781	die	_	
+8-7	782-790	Bahnhöfe	_	
+8-8	790-791	)	_	
+8-9	792-798	können	_	
+8-10	799-804	diese	_	
+8-11	805-814	effizient	_	
+8-12	815-825	miteinader	_	
+8-13	826-835	verbunden	_	
+8-14	836-842	werden	_	
+8-15	842-843	.	_	
+
+#Text=So könnten Radfahrende sich sicher UND schnell im Viertel und zu anderen Stadtteilen bewegen: Das erfordert natürlich die Zustimmung und Mitarbeit der Bahn/ des VRS.
+9-1	844-846	So	_	
+9-2	847-854	könnten	_	
+9-3	855-866	Radfahrende	_	
+9-4	867-871	sich	_	
+9-5	872-878	sicher	_	
+9-6	879-882	UND	_	
+9-7	883-890	schnell	_	
+9-8	891-893	im	_	
+9-9	894-901	Viertel	_	
+9-10	902-905	und	_	
+9-11	906-908	zu	_	
+9-12	909-916	anderen	_	
+9-13	917-928	Stadtteilen	_	
+9-14	929-936	bewegen	_	
+9-15	936-937	:	_	
+9-16	938-941	Das	_	
+9-17	942-951	erfordert	_	
+9-18	952-961	natürlich	_	
+9-19	962-965	die	_	
+9-20	966-976	Zustimmung	_	
+9-21	977-980	und	_	
+9-22	981-990	Mitarbeit	_	
+9-23	991-994	der	_	
+9-24	995-999	Bahn	_	
+9-25	999-1000	/	_	
+9-26	1001-1004	des	_	
+9-27	1005-1008	VRS	_	
+9-28	1008-1009	.	_	
+
+#Text=In den Niederlanden war das erfolgreich.
+10-1	1010-1012	In	_	
+10-2	1013-1016	den	_	
+10-3	1017-1029	Niederlanden	_	
+10-4	1030-1033	war	_	
+10-5	1034-1037	das	_	
+10-6	1038-1049	erfolgreich	_	
+10-7	1049-1050	.	_	
+
+#Text=Zugänge müssen über Rampen; ggf. Rolltreppen oder Aufzüge geschaffen werden.
+11-1	1051-1058	Zugänge	_	
+11-2	1059-1065	müssen	_	
+11-3	1066-1070	über	_	
+11-4	1071-1077	Rampen	_	
+11-5	1077-1078	;	_	
+11-6	1079-1082	ggf	_	
+11-7	1082-1083	.	_	
+11-8	1084-1095	Rolltreppen	_	
+11-9	1096-1100	oder	_	
+11-10	1101-1108	Aufzüge	_	
+11-11	1109-1119	geschaffen	_	
+11-12	1120-1126	werden	_	
+11-13	1126-1127	.	_	
+
+#Text=Sicher hohe Kosten.
+12-1	1128-1134	Sicher	_	
+12-2	1135-1139	hohe	_	
+12-3	1140-1146	Kosten	_	
+12-4	1146-1147	.	_	
+
+#Text=Aber keine Erschließung nötig.
+13-1	1148-1152	Aber	_	
+13-2	1153-1158	keine	_	
+13-3	1159-1171	Erschließung	_	
+13-4	1172-1177	nötig	_	
+13-5	1177-1178	.	_	
+
+#Text=Aber die Vorteile liegen auf der Hand:
+14-1	1179-1183	Aber	_	
+14-2	1184-1187	die	_	
+14-3	1188-1196	Vorteile	_	
+14-4	1197-1203	liegen	_	
+14-5	1204-1207	auf	_	
+14-6	1208-1211	der	_	
+14-7	1212-1216	Hand	_	
+14-8	1216-1217	:	_	
+
+#Text=- Keine Konkurrenz mit Autoverkehr
+15-1	1218-1219	-	_	
+15-2	1220-1225	Keine	_	
+15-3	1226-1236	Konkurrenz	_	
+15-4	1237-1240	mit	_	
+15-5	1241-1252	Autoverkehr	_	
+
+#Text=- Kreuzungsfrei (keine Ampeln! Sicherheit!)
+16-1	1253-1254	-	_	
+16-2	1255-1268	Kreuzungsfrei	_	
+16-3	1269-1270	(	_	
+16-4	1270-1275	keine	_	
+16-5	1276-1282	Ampeln	_	
+16-6	1282-1283	!	_	
+16-7	1284-1294	Sicherheit	_	
+16-8	1294-1295	!	_	
+16-9	1295-1296	)	_	
+
+#Text=- Sehr schnelle Verbindungen (zu Stoßzeiten schneller als Kfz oder Bus)
+17-1	1297-1298	-	_	
+17-2	1299-1303	Sehr	_	
+17-3	1304-1312	schnelle	_	
+17-4	1313-1325	Verbindungen	_	
+17-5	1326-1327	(	_	
+17-6	1327-1329	zu	_	
+17-7	1330-1340	Stoßzeiten	_	
+17-8	1341-1350	schneller	_	
+17-9	1351-1354	als	_	
+17-10	1355-1358	Kfz	_	
+17-11	1359-1363	oder	_	
+17-12	1364-1367	Bus	_	
+17-13	1367-1368	)	_	
+
+#Text=- Für Fußgänger, Skater usw. ebenso nutzbar
+18-1	1369-1370	-	_	
+18-2	1371-1374	Für	_	
+18-3	1375-1384	Fußgänger	_	
+18-4	1384-1385	,	_	
+18-5	1386-1392	Skater	_	
+18-6	1393-1396	usw	_	
+18-7	1396-1397	.	_	
+18-8	1398-1404	ebenso	_	
+18-9	1405-1412	nutzbar	_	
+
+#Text=[Anmerkung: Vorschlag im Stadtplan oben nicht lokalisierbar; deshalb wurde symbolisch BAHNHOF EHRENFELD ausgewählt]
+19-1	1413-1414	[	_	
+19-2	1414-1423	Anmerkung	_	
+19-3	1423-1424	:	_	
+19-4	1425-1434	Vorschlag	_	
+19-5	1435-1437	im	_	
+19-6	1438-1447	Stadtplan	_	
+19-7	1448-1452	oben	_	
+19-8	1453-1458	nicht	_	
+19-9	1459-1472	lokalisierbar	_	
+19-10	1472-1473	;	_	
+19-11	1474-1481	deshalb	_	
+19-12	1482-1487	wurde	_	
+19-13	1488-1498	symbolisch	_	
+19-14	1499-1506	BAHNHOF	*[22]	
+19-15	1507-1516	EHRENFELD	*[22]	
+19-16	1517-1527	ausgewählt	_	
+19-17	1527-1528	]	_	

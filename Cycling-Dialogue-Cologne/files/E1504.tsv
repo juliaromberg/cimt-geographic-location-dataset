@@ -1,0 +1,112 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg / Ampel / Kreisverkehr
+1-1	0-6	Radweg	_	
+1-2	7-8	/	_	
+1-3	9-14	Ampel	_	
+1-4	15-16	/	_	
+1-5	17-29	Kreisverkehr	_	
+
+#Text=Seit Widdersdorf gewachsen ist, wird die Straße Auf dem Paulsacker erheblich mehr von Radfahrern aber auch von Autofahrer genutzt.
+2-1	32-36	Seit	_	
+2-2	37-48	Widdersdorf	*	
+2-3	49-58	gewachsen	_	
+2-4	59-62	ist	_	
+2-5	62-63	,	_	
+2-6	64-68	wird	_	
+2-7	69-72	die	*[7]	
+2-8	73-79	Straße	*[7]	
+2-9	80-83	Auf	*[7]	
+2-10	84-87	dem	*[7]	
+2-11	88-98	Paulsacker	*[7]	
+2-12	99-108	erheblich	_	
+2-13	109-113	mehr	_	
+2-14	114-117	von	_	
+2-15	118-128	Radfahrern	_	
+2-16	129-133	aber	_	
+2-17	134-138	auch	_	
+2-18	139-142	von	_	
+2-19	143-153	Autofahrer	_	
+2-20	154-161	genutzt	_	
+2-21	161-162	.	_	
+
+#Text=Die Situation im Kreuzungsbereich Venloer Str / Auf dem Paulsacker ist für alle Beteiligten untragbar.
+3-1	163-166	Die	_	
+3-2	167-176	Situation	_	
+3-3	177-179	im	_	
+3-4	180-196	Kreuzungsbereich	*[8]	
+3-5	197-204	Venloer	*[8]	
+3-6	205-208	Str	*[8]	
+3-7	209-210	/	*[8]	
+3-8	211-214	Auf	*[8]	
+3-9	215-218	dem	*[8]	
+3-10	219-229	Paulsacker	*[8]	
+3-11	230-233	ist	_	
+3-12	234-237	für	_	
+3-13	238-242	alle	_	
+3-14	243-254	Beteiligten	_	
+3-15	255-264	untragbar	_	
+3-16	264-265	.	_	
+
+#Text=Für Radfahrer ist eine Querung im Grund kaum vorgesehen und lebensgefährlich.
+4-1	266-269	Für	_	
+4-2	270-279	Radfahrer	_	
+4-3	280-283	ist	_	
+4-4	284-288	eine	_	
+4-5	289-296	Querung	_	
+4-6	297-299	im	_	
+4-7	300-305	Grund	_	
+4-8	306-310	kaum	_	
+4-9	311-321	vorgesehen	_	
+4-10	322-325	und	_	
+4-11	326-342	lebensgefährlich	_	
+4-12	342-343	.	_	
+
+#Text=Für Autofahrer ist sie auf Grund der Verkehrsdichte und der hohen Geschwindigkeiten ebenfalls problematisch.
+5-1	344-347	Für	_	
+5-2	348-358	Autofahrer	_	
+5-3	359-362	ist	_	
+5-4	363-366	sie	_	
+5-5	367-370	auf	_	
+5-6	371-376	Grund	_	
+5-7	377-380	der	_	
+5-8	381-395	Verkehrsdichte	_	
+5-9	396-399	und	_	
+5-10	400-403	der	_	
+5-11	404-409	hohen	_	
+5-12	410-427	Geschwindigkeiten	_	
+5-13	428-437	ebenfalls	_	
+5-14	438-451	problematisch	_	
+5-15	451-452	.	_	
+
+#Text=Ein ordentlicher Kreisverkehr nach niederländischem Vorbild (mit direkter Kreisdurchfahrung und paralleler Abbiegespur) oder notfalls eine Ampel könnten Wunder wirken und sind absolut notwendig.
+6-1	453-456	Ein	_	
+6-2	457-469	ordentlicher	_	
+6-3	470-482	Kreisverkehr	_	
+6-4	483-487	nach	_	
+6-5	488-504	niederländischem	_	
+6-6	505-512	Vorbild	_	
+6-7	513-514	(	_	
+6-8	514-517	mit	_	
+6-9	518-526	direkter	_	
+6-10	527-544	Kreisdurchfahrung	_	
+6-11	545-548	und	_	
+6-12	549-559	paralleler	_	
+6-13	560-571	Abbiegespur	_	
+6-14	571-572	)	_	
+6-15	573-577	oder	_	
+6-16	578-586	notfalls	_	
+6-17	587-591	eine	_	
+6-18	592-597	Ampel	_	
+6-19	598-605	könnten	_	
+6-20	606-612	Wunder	_	
+6-21	613-619	wirken	_	
+6-22	620-623	und	_	
+6-23	624-628	sind	_	
+6-24	629-636	absolut	_	
+6-25	637-646	notwendig	_	
+6-26	646-647	.	_	

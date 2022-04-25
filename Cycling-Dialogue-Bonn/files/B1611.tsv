@@ -1,0 +1,201 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Neue Unterführung - größte vertane Chance zur Radverkehrsförderung in Bonn!
+1-1	0-4	Neue	_	
+1-2	5-17	Unterführung	_	
+1-3	18-19	-	_	
+1-4	20-26	größte	_	
+1-5	27-34	vertane	_	
+1-6	35-41	Chance	_	
+1-7	42-45	zur	_	
+1-8	46-66	Radverkehrsförderung	_	
+1-9	67-69	in	*[9]	
+1-10	70-74	Bonn	*[9]	
+1-11	74-75	!	_	
+
+#Text=Beim Bau des neuen Haltepunktes UN-Campus entsteht immerhin eine Unterführung mit Rampen.
+2-1	78-82	Beim	_	
+2-2	83-86	Bau	_	
+2-3	87-90	des	_	
+2-4	91-96	neuen	_	
+2-5	97-109	Haltepunktes	_	
+2-6	110-119	UN-Campus	*	
+2-7	120-128	entsteht	_	
+2-8	129-137	immerhin	_	
+2-9	138-142	eine	_	
+2-10	143-155	Unterführung	_	
+2-11	156-159	mit	_	
+2-12	160-166	Rampen	_	
+2-13	166-167	.	_	
+
+#Text=Letztere sind aber mit ihren 180°- bzw. 90°-Wenden bzw. Ecken kaum radfahrtauglich, d.h. man wird sie in der Regel als Radfahrer schiebend benutzen müssen.
+3-1	168-176	Letztere	_	
+3-2	177-181	sind	_	
+3-3	182-186	aber	_	
+3-4	187-190	mit	_	
+3-5	191-196	ihren	_	
+3-6	197-200	180	_	
+3-7	200-201	°	_	
+3-8	201-202	-	_	
+3-9	203-206	bzw	_	
+3-10	206-207	.	_	
+3-11	208-210	90	_	
+3-12	210-211	°	_	
+3-13	211-212	-	_	
+3-14	212-218	Wenden	_	
+3-15	219-222	bzw	_	
+3-16	222-223	.	_	
+3-17	224-229	Ecken	_	
+3-18	230-234	kaum	_	
+3-19	235-250	radfahrtauglich	_	
+3-20	250-251	,	_	
+3-21	252-255	d.h	_	
+3-22	255-256	.	_	
+3-23	257-260	man	_	
+3-24	261-265	wird	_	
+3-25	266-269	sie	_	
+3-26	270-272	in	_	
+3-27	273-276	der	_	
+3-28	277-282	Regel	_	
+3-29	283-286	als	_	
+3-30	287-296	Radfahrer	_	
+3-31	297-306	schiebend	_	
+3-32	307-315	benutzen	_	
+3-33	316-322	müssen	_	
+3-34	322-323	.	_	
+
+#Text=Eine gerade Rampe aus Richtung Kessenich wäre aber überhaupt kein bauliches Problem gewesen.
+4-1	324-328	Eine	_	
+4-2	329-335	gerade	_	
+4-3	336-341	Rampe	_	
+4-4	342-345	aus	*[10]	
+4-5	346-354	Richtung	*[10]	
+4-6	355-364	Kessenich	*[10]	
+4-7	365-369	wäre	_	
+4-8	370-374	aber	_	
+4-9	375-384	überhaupt	_	
+4-10	385-389	kein	_	
+4-11	390-399	bauliches	_	
+4-12	400-407	Problem	_	
+4-13	408-415	gewesen	_	
+4-14	415-416	.	_	
+
+#Text=In Richtung Genscherallee/B9 wäre mit einer geraden Rampe die Joseph-Beuys-Allee zu unterqueren gewesen, und im weiteren Verlauf der Genscherallee wäre eine gerade Rampe ebenfalls ohne Probleme zu realisieren gewesen.
+5-1	417-419	In	*[11]	
+5-2	420-428	Richtung	*[11]	
+5-3	429-442	Genscherallee	*[11]	
+5-4	442-443	/	*[11]	
+5-5	443-445	B9	*[11]	
+5-6	446-450	wäre	_	
+5-7	451-454	mit	_	
+5-8	455-460	einer	_	
+5-9	461-468	geraden	_	
+5-10	469-474	Rampe	_	
+5-11	475-478	die	*[12]	
+5-12	479-497	Joseph-Beuys-Allee	*[12]	
+5-13	498-500	zu	*[12]	
+5-14	501-512	unterqueren	*[12]	
+5-15	513-520	gewesen	_	
+5-16	520-521	,	_	
+5-17	522-525	und	_	
+5-18	526-528	im	*[13]	
+5-19	529-537	weiteren	*[13]	
+5-20	538-545	Verlauf	*[13]	
+5-21	546-549	der	*[13]	
+5-22	550-563	Genscherallee	*[13]	
+5-23	564-568	wäre	_	
+5-24	569-573	eine	_	
+5-25	574-580	gerade	_	
+5-26	581-586	Rampe	_	
+5-27	587-596	ebenfalls	_	
+5-28	597-601	ohne	_	
+5-29	602-610	Probleme	_	
+5-30	611-613	zu	_	
+5-31	614-625	realisieren	_	
+5-32	626-633	gewesen	_	
+5-33	633-634	.	_	
+
+#Text=Natürlich hätte man die Mehrkosten nicht der DB anlasten können, sondern für sie hätte die Stadt Bonn aufkommen müssen.
+6-1	635-644	Natürlich	_	
+6-2	645-650	hätte	_	
+6-3	651-654	man	_	
+6-4	655-658	die	_	
+6-5	659-669	Mehrkosten	_	
+6-6	670-675	nicht	_	
+6-7	676-679	der	_	
+6-8	680-682	DB	_	
+6-9	683-691	anlasten	_	
+6-10	692-698	können	_	
+6-11	698-699	,	_	
+6-12	700-707	sondern	_	
+6-13	708-711	für	_	
+6-14	712-715	sie	_	
+6-15	716-721	hätte	_	
+6-16	722-725	die	_	
+6-17	726-731	Stadt	_	
+6-18	732-736	Bonn	_	
+6-19	737-746	aufkommen	_	
+6-20	747-753	müssen	_	
+6-21	753-754	.	_	
+
+#Text=Es wäre dann aber eine unglaublich ideale Verknüpfung der Stadtteile Dotterdorf-Kessenich-Südstadt (eher Wohnquartiere) mit den Arbeitsplatzkonzentrationen östlich der B9 und zur Südbrücke geschaffen worden!
+7-1	755-757	Es	_	
+7-2	758-762	wäre	_	
+7-3	763-767	dann	_	
+7-4	768-772	aber	_	
+7-5	773-777	eine	_	
+7-6	778-789	unglaublich	_	
+7-7	790-796	ideale	_	
+7-8	797-808	Verknüpfung	_	
+7-9	809-812	der	_	
+7-10	813-823	Stadtteile	_	
+7-11	824-853	Dotterdorf-Kessenich-Südstadt	*	
+7-12	854-855	(	_	
+7-13	855-859	eher	_	
+7-14	860-873	Wohnquartiere	_	
+7-15	873-874	)	_	
+7-16	875-878	mit	_	
+7-17	879-882	den	_	
+7-18	883-910	Arbeitsplatzkonzentrationen	_	
+7-19	911-918	östlich	*[14]	
+7-20	919-922	der	*[14]	
+7-21	923-925	B9	*[14]	
+7-22	926-929	und	*[14]	
+7-23	930-933	zur	*[14]	
+7-24	934-943	Südbrücke	*[14]	
+7-25	944-954	geschaffen	_	
+7-26	955-961	worden	_	
+7-27	961-962	!	_	
+
+#Text=Was jetzt gebaut wird, ist eine Billigstlösung zulasten des Fahrradverkehrs, die zeigt, wie in der Fahrradhauptstadt Bonn keinerlei Vision einer effizienten Radverkehrsförderung existiert.
+8-1	963-966	Was	_	
+8-2	967-972	jetzt	_	
+8-3	973-979	gebaut	_	
+8-4	980-984	wird	_	
+8-5	984-985	,	_	
+8-6	986-989	ist	_	
+8-7	990-994	eine	_	
+8-8	995-1009	Billigstlösung	_	
+8-9	1010-1018	zulasten	_	
+8-10	1019-1022	des	_	
+8-11	1023-1038	Fahrradverkehrs	_	
+8-12	1038-1039	,	_	
+8-13	1040-1043	die	_	
+8-14	1044-1049	zeigt	_	
+8-15	1049-1050	,	_	
+8-16	1051-1054	wie	_	
+8-17	1055-1057	in	_	
+8-18	1058-1061	der	_	
+8-19	1062-1079	Fahrradhauptstadt	_	
+8-20	1080-1084	Bonn	_	
+8-21	1085-1094	keinerlei	_	
+8-22	1095-1101	Vision	_	
+8-23	1102-1107	einer	_	
+8-24	1108-1119	effizienten	_	
+8-25	1120-1140	Radverkehrsförderung	_	
+8-26	1141-1150	existiert	_	
+8-27	1150-1151	.	_	

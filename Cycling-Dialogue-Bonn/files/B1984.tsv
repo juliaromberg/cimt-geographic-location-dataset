@@ -1,0 +1,121 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sofortige Aufhebung des Fahrradfahrverbots auf der Fahrbahn der Viktoriabrücke.
+1-1	0-9	Sofortige	_	
+1-2	10-19	Aufhebung	_	
+1-3	20-23	des	_	
+1-4	24-42	Fahrradfahrverbots	_	
+1-5	43-46	auf	*[8]	
+1-6	47-50	der	*[8]	
+1-7	51-59	Fahrbahn	*[8]	
+1-8	60-63	der	*[8]	
+1-9	64-78	Viktoriabrücke	*[8]	
+1-10	78-79	.	_	
+
+#Text=Einrichtung einer Mittelleitplanke, um gefährliche Überholvorgänge von Kfz zu unterbinden
+2-1	80-91	Einrichtung	_	
+2-2	92-97	einer	_	
+2-3	98-114	Mittelleitplanke	_	
+2-4	114-115	,	_	
+2-5	116-118	um	_	
+2-6	119-130	gefährliche	_	
+2-7	131-146	Überholvorgänge	_	
+2-8	147-150	von	_	
+2-9	151-154	Kfz	_	
+2-10	155-157	zu	_	
+2-11	158-169	unterbinden	_	
+
+#Text=Das unverschämte Verbot wird von mir ohnehin jeden Tag ignoriert.
+3-1	172-175	Das	_	
+3-2	176-188	unverschämte	_	
+3-3	189-195	Verbot	_	
+3-4	196-200	wird	_	
+3-5	201-204	von	_	
+3-6	205-208	mir	_	
+3-7	209-216	ohnehin	_	
+3-8	217-222	jeden	_	
+3-9	223-226	Tag	_	
+3-10	227-236	ignoriert	_	
+3-11	236-237	.	_	
+
+#Text=Schon allein um so schnell wie möglich wieder aus der Feinstaub- und Stickoxidhölle zu entkommen.
+4-1	238-243	Schon	_	
+4-2	244-250	allein	_	
+4-3	251-253	um	_	
+4-4	254-256	so	_	
+4-5	257-264	schnell	_	
+4-6	265-268	wie	_	
+4-7	269-276	möglich	_	
+4-8	277-283	wieder	_	
+4-9	284-287	aus	_	
+4-10	288-291	der	_	
+4-11	292-301	Feinstaub	_	
+4-12	301-302	-	_	
+4-13	303-306	und	_	
+4-14	307-321	Stickoxidhölle	_	
+4-15	322-324	zu	_	
+4-16	325-334	entkommen	_	
+4-17	334-335	.	_	
+
+#Text=Der um wenige cm verbreiterte Gehweg ist eine Zumutung, gefährlich für Fußgänger und Radfahrer und auch noch mit Laternenmasten zugestellt und uneben.
+5-1	336-339	Der	_	
+5-2	340-342	um	_	
+5-3	343-349	wenige	_	
+5-4	350-352	cm	_	
+5-5	353-365	verbreiterte	_	
+5-6	366-372	Gehweg	_	
+5-7	373-376	ist	_	
+5-8	377-381	eine	_	
+5-9	382-390	Zumutung	_	
+5-10	390-391	,	_	
+5-11	392-402	gefährlich	_	
+5-12	403-406	für	_	
+5-13	407-416	Fußgänger	_	
+5-14	417-420	und	_	
+5-15	421-430	Radfahrer	_	
+5-16	431-434	und	_	
+5-17	435-439	auch	_	
+5-18	440-444	noch	_	
+5-19	445-448	mit	_	
+5-20	449-463	Laternenmasten	_	
+5-21	464-474	zugestellt	_	
+5-22	475-478	und	_	
+5-23	479-485	uneben	_	
+5-24	485-486	.	_	
+
+#Text=Wenn sich dort zwei Fahrräder mit Kinderanhänger begegnen, kann es sogar passieren, dass der Anhänger mit einem Rad vom Bordstein kippt.
+6-1	487-491	Wenn	_	
+6-2	492-496	sich	_	
+6-3	497-501	dort	_	
+6-4	502-506	zwei	_	
+6-5	507-516	Fahrräder	_	
+6-6	517-520	mit	_	
+6-7	521-535	Kinderanhänger	_	
+6-8	536-544	begegnen	_	
+6-9	544-545	,	_	
+6-10	546-550	kann	_	
+6-11	551-553	es	_	
+6-12	554-559	sogar	_	
+6-13	560-569	passieren	_	
+6-14	569-570	,	_	
+6-15	571-575	dass	_	
+6-16	576-579	der	_	
+6-17	580-588	Anhänger	_	
+6-18	589-592	mit	_	
+6-19	593-598	einem	_	
+6-20	599-602	Rad	_	
+6-21	603-606	vom	_	
+6-22	607-616	Bordstein	_	
+6-23	617-622	kippt	_	
+6-24	622-623	.	_	
+
+#Text=Das ist unverantwortlicher Wahnsinn!
+7-1	624-627	Das	_	
+7-2	628-631	ist	_	
+7-3	632-650	unverantwortlicher	_	
+7-4	651-659	Wahnsinn	_	
+7-5	659-660	!	_	

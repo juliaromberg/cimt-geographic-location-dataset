@@ -1,0 +1,151 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radverkehrsführung und -beschilderung an Kreuzung verbessern
+1-1	0-18	Radverkehrsführung	_	
+1-2	19-22	und	_	
+1-3	23-24	-	_	
+1-4	24-37	beschilderung	_	
+1-5	38-40	an	_	
+1-6	41-49	Kreuzung	_	
+1-7	50-60	verbessern	_	
+
+#Text=Die Kreuzung Gartenstraße/B56 hat eine unzureichende und unklare Radverkehrsführung:
+2-1	63-66	Die	*[11]	
+2-2	67-75	Kreuzung	*[11]	
+2-3	76-88	Gartenstraße	*[11]	
+2-4	88-89	/	*[11]	
+2-5	89-92	B56	*[11]	
+2-6	93-96	hat	_	
+2-7	97-101	eine	_	
+2-8	102-115	unzureichende	_	
+2-9	116-119	und	_	
+2-10	120-127	unklare	_	
+2-11	128-146	Radverkehrsführung	_	
+2-12	146-147	:	_	
+
+#Text=- auf den Fußgängerüberwegen sind Piktogramme Fußgänger/Fahrrad aufgemalt.
+3-1	148-149	-	_	
+3-2	150-153	auf	_	
+3-3	154-157	den	_	
+3-4	158-176	Fußgängerüberwegen	_	
+3-5	177-181	sind	_	
+3-6	182-193	Piktogramme	_	
+3-7	194-203	Fußgänger	_	
+3-8	203-204	/	_	
+3-9	204-211	Fahrrad	_	
+3-10	212-221	aufgemalt	_	
+3-11	221-222	.	_	
+
+#Text=Diese passen nicht zu den reinen Fußgängerampeln und haben auch keine rechtliche Bedeutung.
+4-1	223-228	Diese	_	
+4-2	229-235	passen	_	
+4-3	236-241	nicht	_	
+4-4	242-244	zu	_	
+4-5	245-248	den	_	
+4-6	249-255	reinen	_	
+4-7	256-271	Fußgängerampeln	_	
+4-8	272-275	und	_	
+4-9	276-281	haben	_	
+4-10	282-286	auch	_	
+4-11	287-292	keine	_	
+4-12	293-303	rechtliche	_	
+4-13	304-313	Bedeutung	_	
+4-14	313-314	.	_	
+
+#Text=Sie sollten entfernt werden.
+5-1	315-318	Sie	_	
+5-2	319-326	sollten	_	
+5-3	327-335	entfernt	_	
+5-4	336-342	werden	_	
+5-5	342-343	.	_	
+
+#Text=- wenn man von den Supermärkten zur B56 kommt, gibt es an der Ampel Aufstellflächen für Radfahrer.
+6-1	344-345	-	_	
+6-2	346-350	wenn	_	
+6-3	351-354	man	_	
+6-4	355-358	von	_	
+6-5	359-362	den	_	
+6-6	363-375	Supermärkten	_	
+6-7	376-379	zur	*[12]	
+6-8	380-383	B56	*[12]	
+6-9	384-389	kommt	_	
+6-10	389-390	,	_	
+6-11	391-395	gibt	_	
+6-12	396-398	es	_	
+6-13	399-401	an	_	
+6-14	402-405	der	_	
+6-15	406-411	Ampel	_	
+6-16	412-427	Aufstellflächen	_	
+6-17	428-431	für	_	
+6-18	432-441	Radfahrer	_	
+6-19	441-442	.	_	
+
+#Text=Nur leider kommt man dort i.d.R.
+7-1	443-446	Nur	_	
+7-2	447-453	leider	_	
+7-3	454-459	kommt	_	
+7-4	460-463	man	_	
+7-5	464-468	dort	_	
+7-6	469-474	i.d.R	_	
+7-7	474-475	.	_	
+
+#Text=nicht hin, weil mehrere Autos davor warten.
+8-1	476-481	nicht	_	
+8-2	482-485	hin	_	
+8-3	485-486	,	_	
+8-4	487-491	weil	_	
+8-5	492-499	mehrere	_	
+8-6	500-505	Autos	_	
+8-7	506-511	davor	_	
+8-8	512-518	warten	_	
+8-9	518-519	.	_	
+
+#Text=Man muss dann entweder hinter den Autos bleiben oder auf dem Bürgersteig (verbotenerweise) vorbeifahren.
+9-1	520-523	Man	_	
+9-2	524-528	muss	_	
+9-3	529-533	dann	_	
+9-4	534-542	entweder	_	
+9-5	543-549	hinter	_	
+9-6	550-553	den	_	
+9-7	554-559	Autos	_	
+9-8	560-567	bleiben	_	
+9-9	568-572	oder	_	
+9-10	573-576	auf	_	
+9-11	577-580	dem	_	
+9-12	581-592	Bürgersteig	_	
+9-13	593-594	(	_	
+9-14	594-609	verbotenerweise	_	
+9-15	609-610	)	_	
+9-16	611-623	vorbeifahren	_	
+9-17	623-624	.	_	
+
+#Text=Hier gehört wie an anderen ähnlichen Stellen (z.B. Hochkreuzallee) ein Schutzstreifen hin, so dass die Autos rechts etwas Platz lassen.
+10-1	625-629	Hier	_	
+10-2	630-636	gehört	_	
+10-3	637-640	wie	_	
+10-4	641-643	an	_	
+10-5	644-651	anderen	_	
+10-6	652-661	ähnlichen	_	
+10-7	662-669	Stellen	_	
+10-8	670-671	(	_	
+10-9	671-674	z.B	_	
+10-10	674-675	.	_	
+10-11	676-690	Hochkreuzallee	*	
+10-12	690-691	)	_	
+10-13	692-695	ein	_	
+10-14	696-710	Schutzstreifen	_	
+10-15	711-714	hin	_	
+10-16	714-715	,	_	
+10-17	716-718	so	_	
+10-18	719-723	dass	_	
+10-19	724-727	die	_	
+10-20	728-733	Autos	_	
+10-21	734-740	rechts	_	
+10-22	741-746	etwas	_	
+10-23	747-752	Platz	_	
+10-24	753-759	lassen	_	
+10-25	759-760	.	_	

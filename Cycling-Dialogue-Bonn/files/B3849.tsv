@@ -1,0 +1,111 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sicherheit - Beleuchtung, Schlaglöcher, fehlender Rückschnitt
+1-1	0-10	Sicherheit	_	
+1-2	11-12	-	_	
+1-3	13-24	Beleuchtung	_	
+1-4	24-25	,	_	
+1-5	26-38	Schlaglöcher	_	
+1-6	38-39	,	_	
+1-7	40-49	fehlender	_	
+1-8	50-61	Rückschnitt	_	
+
+#Text=Der Verbindungsweg vom Heinrich-Böll-Ring zur Bornheimer Straße ist durch Beschilderung/Markierung als Radweg vorgegeben.
+2-1	64-67	Der	_	
+2-2	68-82	Verbindungsweg	_	
+2-3	83-86	vom	*[6]	
+2-4	87-105	Heinrich-Böll-Ring	*[6]	
+2-5	106-109	zur	*[6]	
+2-6	110-120	Bornheimer	*[6]	
+2-7	121-127	Straße	*[6]	
+2-8	128-131	ist	_	
+2-9	132-137	durch	_	
+2-10	138-151	Beschilderung	_	
+2-11	151-152	/	_	
+2-12	152-162	Markierung	_	
+2-13	163-166	als	_	
+2-14	167-173	Radweg	_	
+2-15	174-184	vorgegeben	_	
+2-16	184-185	.	_	
+
+#Text=Leider hat er mehr den Charakter eines (schlechten) Feldweges:Schlaglöcher, Verengung durch in den Weg tlw. weit hineinragende Hecken/Büsche/Äste, keinerlei Beleuchtung, dealende Personen.
+3-1	186-192	Leider	_	
+3-2	193-196	hat	_	
+3-3	197-199	er	_	
+3-4	200-204	mehr	_	
+3-5	205-208	den	_	
+3-6	209-218	Charakter	_	
+3-7	219-224	eines	_	
+3-8	225-226	(	_	
+3-9	226-236	schlechten	_	
+3-10	236-237	)	_	
+3-11	238-247	Feldweges	_	
+3-12	247-248	:	_	
+3-13	248-260	Schlaglöcher	_	
+3-14	260-261	,	_	
+3-15	262-271	Verengung	_	
+3-16	272-277	durch	_	
+3-17	278-280	in	_	
+3-18	281-284	den	_	
+3-19	285-288	Weg	_	
+3-20	289-292	tlw	_	
+3-21	292-293	.	_	
+3-22	294-298	weit	_	
+3-23	299-312	hineinragende	_	
+3-24	313-319	Hecken	_	
+3-25	319-320	/	_	
+3-26	320-326	Büsche	_	
+3-27	326-327	/	_	
+3-28	327-331	Äste	_	
+3-29	331-332	,	_	
+3-30	333-342	keinerlei	_	
+3-31	343-354	Beleuchtung	_	
+3-32	354-355	,	_	
+3-33	356-364	dealende	_	
+3-34	365-373	Personen	_	
+3-35	373-374	.	_	
+
+#Text=Die Nutzung dieses Weges vermittelt ein großes Unsicherheitsgefühl.
+4-1	375-378	Die	_	
+4-2	379-386	Nutzung	_	
+4-3	387-393	dieses	_	
+4-4	394-399	Weges	_	
+4-5	400-410	vermittelt	_	
+4-6	411-414	ein	_	
+4-7	415-421	großes	_	
+4-8	422-441	Unsicherheitsgefühl	_	
+4-9	441-442	.	_	
+
+#Text=Hier könnte mit relativ einfachen Mittel (2 - 3 Lampen, Rückschnitt der Hecken etc., Verfüllung der Löcher/Einebnung) Abhilfe geschaffen werden.
+5-1	443-447	Hier	_	
+5-2	448-454	könnte	_	
+5-3	455-458	mit	_	
+5-4	459-466	relativ	_	
+5-5	467-476	einfachen	_	
+5-6	477-483	Mittel	_	
+5-7	484-485	(	_	
+5-8	485-486	2	_	
+5-9	487-488	-	_	
+5-10	489-490	3	_	
+5-11	491-497	Lampen	_	
+5-12	497-498	,	_	
+5-13	499-510	Rückschnitt	_	
+5-14	511-514	der	_	
+5-15	515-521	Hecken	_	
+5-16	522-525	etc	_	
+5-17	525-526	.	_	
+5-18	526-527	,	_	
+5-19	528-538	Verfüllung	_	
+5-20	539-542	der	_	
+5-21	543-549	Löcher	_	
+5-22	549-550	/	_	
+5-23	550-559	Einebnung	_	
+5-24	559-560	)	_	
+5-25	561-568	Abhilfe	_	
+5-26	569-579	geschaffen	_	
+5-27	580-586	werden	_	
+5-28	586-587	.	_	

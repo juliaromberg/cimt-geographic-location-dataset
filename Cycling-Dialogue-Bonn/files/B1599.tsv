@@ -1,0 +1,44 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parken in zweiter Reihe
+1-1	0-6	Parken	_	
+1-2	7-9	in	_	
+1-3	10-17	zweiter	_	
+1-4	18-23	Reihe	_	
+
+#Text=Auf der Prinz-Albert-Straße parken regelmäßig Autos in zweiter Reihe.
+2-1	26-29	Auf	*[4]	
+2-2	30-33	der	*[4]	
+2-3	34-53	Prinz-Albert-Straße	*[4]	
+2-4	54-60	parken	_	
+2-5	61-71	regelmäßig	_	
+2-6	72-77	Autos	_	
+2-7	78-80	in	_	
+2-8	81-88	zweiter	_	
+2-9	89-94	Reihe	_	
+2-10	94-95	.	_	
+
+#Text=Als Fahrradfahrer muss man in diesem Fall in den Gleisbereich der Straßenbahn ausweichen, was nicht ungefährlich ist.
+3-1	96-99	Als	_	
+3-2	100-113	Fahrradfahrer	_	
+3-3	114-118	muss	_	
+3-4	119-122	man	_	
+3-5	123-125	in	_	
+3-6	126-132	diesem	_	
+3-7	133-137	Fall	_	
+3-8	138-140	in	_	
+3-9	141-144	den	_	
+3-10	145-157	Gleisbereich	_	
+3-11	158-161	der	_	
+3-12	162-173	Straßenbahn	_	
+3-13	174-184	ausweichen	_	
+3-14	184-185	,	_	
+3-15	186-189	was	_	
+3-16	190-195	nicht	_	
+3-17	196-208	ungefährlich	_	
+3-18	209-212	ist	_	
+3-19	212-213	.	_	

@@ -1,0 +1,179 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+#FORMAT=WebAnno TSV 3.2			_	
+#T_SP=webanno.custom.Typ|Name			_	
+#T_SP=webanno.custom.Verortung|			_	
+			_	
+			_	
+#Text=Kreuzung St. Augustiner Str./Herbert-Rabius-Str.				
+1-1	0-8	Kreuzung	_	*[7]
+1-2	9-11	St	_	*[7]
+1-3	11-12	.	_	*[7]
+1-4	13-23	Augustiner	_	*[7]
+1-5	24-27	Str	_	*[7]
+1-6	27-28	.	_	*[7]
+1-7	28-29	/	_	*[7]
+1-8	29-47	Herbert-Rabius-Str	_	*[7]
+1-9	47-48	.	_	*[7]
+			_	
+#Text=Wenn man vom Radweg Bröltalweg zur Kreuzung St. Augustiner Str./Herbert-Rabius-Str./Niederkasseler Str. fährt, kommt man über einen Zebrastreifen an die Ampel, über die es dann weiter entweder zur Niederkasseler Str. oder St. Augustiner Str. geht.				
+2-1	51-55	Wenn	_	_
+2-2	56-59	man	_	_
+2-3	60-63	vom	_	*[8]
+2-4	64-70	Radweg	_	*[8]
+2-5	71-81	Bröltalweg	_	*[8]
+2-6	82-85	zur	_	*[8]
+2-7	86-94	Kreuzung	_	*[8]
+2-8	95-97	St	_	*[8]
+2-9	97-98	.	_	*[8]
+2-10	99-109	Augustiner	_	*[8]
+2-11	110-113	Str	_	*[8]
+2-12	113-114	.	_	*[8]
+2-13	114-115	/	_	*[8]
+2-14	115-133	Herbert-Rabius-Str	_	*[8]
+2-15	133-134	.	_	*[8]
+2-16	134-135	/	_	*[8]
+2-17	135-149	Niederkasseler	_	*[8]
+2-18	150-153	Str	_	*[8]
+2-19	153-154	.	_	*[8]
+2-20	155-160	fährt	_	_
+2-21	160-161	,	_	_
+2-22	162-167	kommt	_	_
+2-23	168-171	man	_	_
+2-24	172-176	über	_	_
+2-25	177-182	einen	_	_
+2-26	183-196	Zebrastreifen	_	_
+2-27	197-199	an	_	_
+2-28	200-203	die	_	_
+2-29	204-209	Ampel	_	_
+2-30	209-210	,	_	_
+2-31	211-215	über	_	_
+2-32	216-219	die	_	_
+2-33	220-222	es	_	_
+2-34	223-227	dann	_	_
+2-35	228-234	weiter	_	_
+2-36	235-243	entweder	_	_
+2-37	244-247	zur	_	*[9]
+2-38	248-262	Niederkasseler	_	*[9]
+2-39	263-266	Str	_	*[9]
+2-40	266-267	.	_	*[9]
+2-41	268-272	oder	_	*[9]
+2-42	273-275	St	_	*[9]
+2-43	275-276	.	_	*[9]
+2-44	277-287	Augustiner	_	*[9]
+2-45	288-291	Str	_	*[9]
+2-46	291-292	.	_	*[9]
+2-47	293-297	geht	_	_
+2-48	297-298	.	_	_
+			_	
+#Text=Die meisten Autofahrer, die von der St. Augustiner Str. rechts in die Herbert-Rabius-Str. abbiegen, übersehen den Zebrastreifen und die Radfahrer und Fußgänger und achten nur darauf, ob von links ein Fahrzeug kommt.				
+3-1	299-302	Die	_	_
+3-2	303-310	meisten	_	_
+3-3	311-321	Autofahrer	_	_
+3-4	321-322	,	_	_
+3-5	323-326	die	_	_
+3-6	327-330	von	_	*[10]
+3-7	331-334	der	_	*[10]
+3-8	335-337	St	_	*[10]
+3-9	337-338	.	_	*[10]
+3-10	339-349	Augustiner	_	*[10]
+3-11	350-353	Str	_	*[10]
+3-12	353-354	.	_	*[10]
+3-13	355-361	rechts	_	*[10]
+3-14	362-364	in	_	*[10]
+3-15	365-368	die	_	*[10]
+3-16	369-387	Herbert-Rabius-Str	_	*[10]
+3-17	387-388	.	_	*[10]
+3-18	389-397	abbiegen	_	*[10]
+3-19	397-398	,	_	_
+3-20	399-408	übersehen	_	_
+3-21	409-412	den	_	_
+3-22	413-426	Zebrastreifen	_	_
+3-23	427-430	und	_	_
+3-24	431-434	die	_	_
+3-25	435-444	Radfahrer	_	_
+3-26	445-448	und	_	_
+3-27	449-458	Fußgänger	_	_
+3-28	459-462	und	_	_
+3-29	463-469	achten	_	_
+3-30	470-473	nur	_	_
+3-31	474-480	darauf	_	_
+3-32	480-481	,	_	_
+3-33	482-484	ob	_	_
+3-34	485-488	von	_	_
+3-35	489-494	links	_	_
+3-36	495-498	ein	_	_
+3-37	499-507	Fahrzeug	_	_
+3-38	508-513	kommt	_	_
+3-39	513-514	.	_	_
+			_	
+#Text=Ich habe selber viele brenzlige Situationen an dieser Stelle erlebt und beobachtet.				
+4-1	515-518	Ich	_	_
+4-2	519-523	habe	_	_
+4-3	524-530	selber	_	_
+4-4	531-536	viele	_	_
+4-5	537-546	brenzlige	_	_
+4-6	547-558	Situationen	_	_
+4-7	559-561	an	_	_
+4-8	562-568	dieser	_	_
+4-9	569-575	Stelle	_	_
+4-10	576-582	erlebt	_	_
+4-11	583-586	und	_	_
+4-12	587-597	beobachtet	_	_
+4-13	597-598	.	_	_
+			_	
+#Text=Das gleiche Problem tritt dann auch am Zebrastreifen bei der Einmündung von der Herbert-Rabius-Str. in die St. Augustiner Str. auf.				
+5-1	599-602	Das	_	_
+5-2	603-610	gleiche	_	_
+5-3	611-618	Problem	_	_
+5-4	619-624	tritt	_	_
+5-5	625-629	dann	_	_
+5-6	630-634	auch	_	_
+5-7	635-637	am	_	*[11]
+5-8	638-651	Zebrastreifen	_	*[11]
+5-9	652-655	bei	_	*[11]
+5-10	656-659	der	_	*[11]
+5-11	660-670	Einmündung	_	*[11]
+5-12	671-674	von	_	*[11]
+5-13	675-678	der	_	*[11]
+5-14	679-697	Herbert-Rabius-Str	_	*[11]
+5-15	697-698	.	_	*[11]
+5-16	699-701	in	_	*[11]
+5-17	702-705	die	_	*[11]
+5-18	706-708	St	_	*[11]
+5-19	708-709	.	_	*[11]
+5-20	710-720	Augustiner	_	*[11]
+5-21	721-724	Str	_	*[11]
+5-22	724-725	.	_	*[11]
+5-23	726-729	auf	_	_
+5-24	729-730	.	_	_
+			_	
+#Text=Erschwerend kommt an dieser Stelle dazu, dass durch Grünbewuchs die Einsicht für die Autofahrer nicht gut ist, vor allem wenn sie zügig fahren.				
+6-1	731-742	Erschwerend	_	_
+6-2	743-748	kommt	_	_
+6-3	749-751	an	_	_
+6-4	752-758	dieser	_	_
+6-5	759-765	Stelle	_	_
+6-6	766-770	dazu	_	_
+6-7	770-771	,	_	_
+6-8	772-776	dass	_	_
+6-9	777-782	durch	_	_
+6-10	783-794	Grünbewuchs	_	_
+6-11	795-798	die	_	_
+6-12	799-807	Einsicht	_	_
+6-13	808-811	für	_	_
+6-14	812-815	die	_	_
+6-15	816-826	Autofahrer	_	_
+6-16	827-832	nicht	_	_
+6-17	833-836	gut	_	_
+6-18	837-840	ist	_	_
+6-19	840-841	,	_	_
+6-20	842-845	vor	_	_
+6-21	846-851	allem	_	_
+6-22	852-856	wenn	_	_
+6-23	857-860	sie	_	_
+6-24	861-866	zügig	_	_
+6-25	867-873	fahren	_	_
+6-26	873-874	.	_	_

@@ -1,0 +1,156 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Markierung einer Überleitung vom Radweg auf die Straße
+1-1	0-10	Markierung	_	
+1-2	11-16	einer	_	
+1-3	17-28	Überleitung	_	
+1-4	29-32	vom	_	
+1-5	33-39	Radweg	_	
+1-6	40-43	auf	_	
+1-7	44-47	die	_	
+1-8	48-54	Straße	_	
+
+#Text=Radfahrer, die auf der Venloer Straße stadteinwärts fahren und an der Kreuzung auf die Helmholtzstraße abbiegen möchten, verlassen an dieser Stelle den Radweg und müssen auf die Straße wechseln.
+2-1	57-66	Radfahrer	_	
+2-2	66-67	,	_	
+2-3	68-71	die	_	
+2-4	72-75	auf	*[7]	
+2-5	76-79	der	*[7]	
+2-6	80-87	Venloer	*[7]	
+2-7	88-94	Straße	*[7]	
+2-8	95-108	stadteinwärts	*[7]	
+2-9	109-115	fahren	_	
+2-10	116-119	und	_	
+2-11	120-122	an	*[8]	
+2-12	123-126	der	*[8]	
+2-13	127-135	Kreuzung	*[8]	
+2-14	136-139	auf	*[8]	
+2-15	140-143	die	*[8]	
+2-16	144-159	Helmholtzstraße	*[8]	
+2-17	160-168	abbiegen	*[8]	
+2-18	169-176	möchten	_	
+2-19	176-177	,	_	
+2-20	178-187	verlassen	_	
+2-21	188-190	an	_	
+2-22	191-197	dieser	_	
+2-23	198-204	Stelle	_	
+2-24	205-208	den	_	
+2-25	209-215	Radweg	_	
+2-26	216-219	und	_	
+2-27	220-226	müssen	_	
+2-28	227-230	auf	_	
+2-29	231-234	die	_	
+2-30	235-241	Straße	_	
+2-31	242-250	wechseln	_	
+2-32	250-251	.	_	
+
+#Text=Mit dem Wechsel auf die Fahrbahn begeben sie sich in die Ampel-Regelung für die Straße (nicht mehr für den Radweg).
+3-1	252-255	Mit	_	
+3-2	256-259	dem	_	
+3-3	260-267	Wechsel	_	
+3-4	268-271	auf	_	
+3-5	272-275	die	_	
+3-6	276-284	Fahrbahn	_	
+3-7	285-292	begeben	_	
+3-8	293-296	sie	_	
+3-9	297-301	sich	_	
+3-10	302-304	in	_	
+3-11	305-308	die	_	
+3-12	309-323	Ampel-Regelung	_	
+3-13	324-327	für	_	
+3-14	328-331	die	_	
+3-15	332-338	Straße	_	
+3-16	339-340	(	_	
+3-17	340-345	nicht	_	
+3-18	346-350	mehr	_	
+3-19	351-354	für	_	
+3-20	355-358	den	_	
+3-21	359-365	Radweg	_	
+3-22	365-366	)	_	
+3-23	366-367	.	_	
+
+#Text=Es fehlt jedoch eine Markierung, Beschilderung oder Aufstellfläche, wie Radfahrer sich hier korrekt verhalten sollen.
+4-1	368-370	Es	_	
+4-2	371-376	fehlt	_	
+4-3	377-383	jedoch	_	
+4-4	384-388	eine	_	
+4-5	389-399	Markierung	_	
+4-6	399-400	,	_	
+4-7	401-414	Beschilderung	_	
+4-8	415-419	oder	_	
+4-9	420-434	Aufstellfläche	_	
+4-10	434-435	,	_	
+4-11	436-439	wie	_	
+4-12	440-449	Radfahrer	_	
+4-13	450-454	sich	_	
+4-14	455-459	hier	_	
+4-15	460-467	korrekt	_	
+4-16	468-477	verhalten	_	
+4-17	478-484	sollen	_	
+4-18	484-485	.	_	
+
+#Text=Dies ist weniger für die Radfahrer selbst von Interesse, sondern vielmehr für die in gleicher Richtung fahrenden Kraftfahrzeuge von Interesse.
+5-1	486-490	Dies	_	
+5-2	491-494	ist	_	
+5-3	495-502	weniger	_	
+5-4	503-506	für	_	
+5-5	507-510	die	_	
+5-6	511-520	Radfahrer	_	
+5-7	521-527	selbst	_	
+5-8	528-531	von	_	
+5-9	532-541	Interesse	_	
+5-10	541-542	,	_	
+5-11	543-550	sondern	_	
+5-12	551-559	vielmehr	_	
+5-13	560-563	für	_	
+5-14	564-567	die	_	
+5-15	568-570	in	_	
+5-16	571-579	gleicher	_	
+5-17	580-588	Richtung	_	
+5-18	589-598	fahrenden	_	
+5-19	599-613	Kraftfahrzeuge	_	
+5-20	614-617	von	_	
+5-21	618-627	Interesse	_	
+5-22	627-628	.	_	
+
+#Text=Besonders gefährlich ist es, wenn ein Radfahrer gleichzeitig mit den an der Ampel (etwas hinter ihm) wartenden Autos losfährt und selbst in die Helmholtzstraße möchte, während Autofahrer nach rechts abbiegen möchten.
+6-1	629-638	Besonders	_	
+6-2	639-649	gefährlich	_	
+6-3	650-653	ist	_	
+6-4	654-656	es	_	
+6-5	656-657	,	_	
+6-6	658-662	wenn	_	
+6-7	663-666	ein	_	
+6-8	667-676	Radfahrer	_	
+6-9	677-689	gleichzeitig	_	
+6-10	690-693	mit	_	
+6-11	694-697	den	_	
+6-12	698-700	an	_	
+6-13	701-704	der	_	
+6-14	705-710	Ampel	_	
+6-15	711-712	(	_	
+6-16	712-717	etwas	_	
+6-17	718-724	hinter	_	
+6-18	725-728	ihm	_	
+6-19	728-729	)	_	
+6-20	730-739	wartenden	_	
+6-21	740-745	Autos	_	
+6-22	746-754	losfährt	_	
+6-23	755-758	und	_	
+6-24	759-765	selbst	_	
+6-25	766-768	in	*[9]	
+6-26	769-772	die	*[9]	
+6-27	773-788	Helmholtzstraße	*[9]	
+6-28	789-795	möchte	_	
+6-29	795-796	,	_	
+6-30	797-804	während	_	
+6-31	805-815	Autofahrer	_	
+6-32	816-820	nach	_	
+6-33	821-827	rechts	_	
+6-34	828-836	abbiegen	_	
+6-35	837-844	möchten	_	
+6-36	844-845	.	_	

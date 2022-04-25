@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Grüner Pfeil für Rechtsabbieger - insbesondere Radfahrer.
+1-1	0-6	Grüner	_	
+1-2	7-12	Pfeil	_	
+1-3	13-16	für	_	
+1-4	17-31	Rechtsabbieger	_	
+1-5	32-33	-	_	
+1-6	34-46	insbesondere	_	
+1-7	47-56	Radfahrer	_	
+1-8	56-57	.	_	
+
+#Text=Seit Beginn der Bauarbeiten in der Römerstraße ist diese ab Augustusring in Richtung Süden bekanntlich gesperrt.
+2-1	60-64	Seit	_	
+2-2	65-71	Beginn	_	
+2-3	72-75	der	_	
+2-4	76-87	Bauarbeiten	_	
+2-5	88-90	in	*[5]	
+2-6	91-94	der	*[5]	
+2-7	95-106	Römerstraße	*[5]	
+2-8	107-110	ist	_	
+2-9	111-116	diese	_	
+2-10	117-119	ab	*[6]	
+2-11	120-132	Augustusring	*[6]	
+2-12	133-135	in	_	
+2-13	136-144	Richtung	_	
+2-14	145-150	Süden	_	
+2-15	151-162	bekanntlich	_	
+2-16	163-171	gesperrt	_	
+2-17	171-172	.	_	
+
+#Text=Trotzdem müssen Radfahrer (und Autofahrer) an der Ampelanlage Kreuzung Augustusring/Römerstr. unnötigerweise und lange auf Grün warten.
+3-1	173-181	Trotzdem	_	
+3-2	182-188	müssen	_	
+3-3	189-198	Radfahrer	_	
+3-4	199-200	(	_	
+3-5	200-203	und	_	
+3-6	204-214	Autofahrer	_	
+3-7	214-215	)	_	
+3-8	216-218	an	*[7]	
+3-9	219-222	der	*[7]	
+3-10	223-234	Ampelanlage	*[7]	
+3-11	235-243	Kreuzung	*[7]	
+3-12	244-256	Augustusring	*[7]	
+3-13	256-257	/	*[7]	
+3-14	257-265	Römerstr	*[7]	
+3-15	265-266	.	_	
+3-16	267-281	unnötigerweise	_	
+3-17	282-285	und	_	
+3-18	286-291	lange	_	
+3-19	292-295	auf	_	
+3-20	296-300	Grün	_	
+3-21	301-307	warten	_	
+3-22	307-308	.	_	
+
+#Text=Da aber eh nur ein Rechtsabbiegen möglich ist - und das ja noch für lange Zeit - wäre ein grüner Pfeil hier sinnvoll und würde dem Verkehrsfluss entgegenkommen.
+4-1	309-311	Da	_	
+4-2	312-316	aber	_	
+4-3	317-319	eh	_	
+4-4	320-323	nur	_	
+4-5	324-327	ein	_	
+4-6	328-342	Rechtsabbiegen	_	
+4-7	343-350	möglich	_	
+4-8	351-354	ist	_	
+4-9	355-356	-	_	
+4-10	357-360	und	_	
+4-11	361-364	das	_	
+4-12	365-367	ja	_	
+4-13	368-372	noch	_	
+4-14	373-376	für	_	
+4-15	377-382	lange	_	
+4-16	383-387	Zeit	_	
+4-17	388-389	-	_	
+4-18	390-394	wäre	_	
+4-19	395-398	ein	_	
+4-20	399-405	grüner	_	
+4-21	406-411	Pfeil	_	
+4-22	412-416	hier	_	
+4-23	417-425	sinnvoll	_	
+4-24	426-429	und	_	
+4-25	430-435	würde	_	
+4-26	436-439	dem	_	
+4-27	440-453	Verkehrsfluss	_	
+4-28	454-468	entgegenkommen	_	
+4-29	468-469	.	_	

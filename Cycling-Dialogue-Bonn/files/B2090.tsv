@@ -1,0 +1,91 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Mangelnde Beleuchtung in der Rheinaue
+1-1	0-9	Mangelnde	_	
+1-2	10-21	Beleuchtung	_	
+1-3	22-24	in	*[5]	
+1-4	25-28	der	*[5]	
+1-5	29-37	Rheinaue	*[5]	
+
+#Text=In den Herbst- und Wintertagen ist die Rheinaue, die sich grundsätzlich sehr gut zum Radfahren eignet, nur sehr unzulänglich ausgeleuchtet.
+2-1	40-42	In	_	
+2-2	43-46	den	_	
+2-3	47-53	Herbst	_	
+2-4	53-54	-	_	
+2-5	55-58	und	_	
+2-6	59-70	Wintertagen	_	
+2-7	71-74	ist	_	
+2-8	75-78	die	*[6]	
+2-9	79-87	Rheinaue	*[6]	
+2-10	87-88	,	_	
+2-11	89-92	die	_	
+2-12	93-97	sich	_	
+2-13	98-111	grundsätzlich	_	
+2-14	112-116	sehr	_	
+2-15	117-120	gut	_	
+2-16	121-124	zum	_	
+2-17	125-134	Radfahren	_	
+2-18	135-141	eignet	_	
+2-19	141-142	,	_	
+2-20	143-146	nur	_	
+2-21	147-151	sehr	_	
+2-22	152-164	unzulänglich	_	
+2-23	165-178	ausgeleuchtet	_	
+2-24	178-179	.	_	
+
+#Text=Auch mit gutem Licht am Fahrrad selbst kann man die Wege oft kaum erkennen.
+3-1	180-184	Auch	_	
+3-2	185-188	mit	_	
+3-3	189-194	gutem	_	
+3-4	195-200	Licht	_	
+3-5	201-203	am	_	
+3-6	204-211	Fahrrad	_	
+3-7	212-218	selbst	_	
+3-8	219-223	kann	_	
+3-9	224-227	man	_	
+3-10	228-231	die	_	
+3-11	232-236	Wege	_	
+3-12	237-240	oft	_	
+3-13	241-245	kaum	_	
+3-14	246-254	erkennen	_	
+3-15	254-255	.	_	
+
+#Text=Eine bessere Beleuchtung würde es gerade Radpendlern erlauben, auch in der dunkleren Jahreszeit die Wege in der Rheinaue zu nutzen, um so zu den besser beleuchteten Fahrradwegen am Rhein zu gelangen.
+4-1	256-260	Eine	_	
+4-2	261-268	bessere	_	
+4-3	269-280	Beleuchtung	_	
+4-4	281-286	würde	_	
+4-5	287-289	es	_	
+4-6	290-296	gerade	_	
+4-7	297-308	Radpendlern	_	
+4-8	309-317	erlauben	_	
+4-9	317-318	,	_	
+4-10	319-323	auch	_	
+4-11	324-326	in	_	
+4-12	327-330	der	_	
+4-13	331-340	dunkleren	_	
+4-14	341-351	Jahreszeit	_	
+4-15	352-355	die	_	
+4-16	356-360	Wege	_	
+4-17	361-363	in	*[7]	
+4-18	364-367	der	*[7]	
+4-19	368-376	Rheinaue	*[7]	
+4-20	377-379	zu	_	
+4-21	380-386	nutzen	_	
+4-22	386-387	,	_	
+4-23	388-390	um	_	
+4-24	391-393	so	_	
+4-25	394-396	zu	_	
+4-26	397-400	den	_	
+4-27	401-407	besser	_	
+4-28	408-420	beleuchteten	_	
+4-29	421-433	Fahrradwegen	_	
+4-30	434-436	am	*[8]	
+4-31	437-442	Rhein	*[8]	
+4-32	443-445	zu	_	
+4-33	446-454	gelangen	_	
+4-34	454-455	.	_	

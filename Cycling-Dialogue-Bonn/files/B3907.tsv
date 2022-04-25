@@ -1,0 +1,129 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstraßenregelung in Vilich/Schwarz-Rheindorf
+1-1	0-22	Einbahnstraßenregelung	_	
+1-2	23-25	in	*[7]	
+1-3	26-32	Vilich	*[7]	
+1-4	32-33	/	*[7]	
+1-5	33-50	Schwarz-Rheindorf	*[7]	
+
+#Text=Es wird zu Recht die Enge und Gefährdung von Radfahrern in der Adelheidisstraße (Fahrradstraße) beklagt.
+2-1	53-55	Es	_	
+2-2	56-60	wird	_	
+2-3	61-63	zu	_	
+2-4	64-69	Recht	_	
+2-5	70-73	die	_	
+2-6	74-78	Enge	_	
+2-7	79-82	und	_	
+2-8	83-93	Gefährdung	_	
+2-9	94-97	von	_	
+2-10	98-108	Radfahrern	_	
+2-11	109-111	in	*[8]	
+2-12	112-115	der	*[8]	
+2-13	116-132	Adelheidisstraße	*[8]	
+2-14	133-134	(	*[8]	
+2-15	134-147	Fahrradstraße	*[8]	
+2-16	147-148	)	_	
+2-17	149-156	beklagt	_	
+2-18	156-157	.	_	
+
+#Text=Das Gleiche gilt aber auch für die Grabenstraße.
+3-1	158-161	Das	_	
+3-2	162-169	Gleiche	_	
+3-3	170-174	gilt	_	
+3-4	175-179	aber	_	
+3-5	180-184	auch	_	
+3-6	185-188	für	_	
+3-7	189-192	die	*[9]	
+3-8	193-205	Grabenstraße	*[9]	
+3-9	205-206	.	_	
+
+#Text=Mein Vorschlag: Einbahnstraßen-System zur Reduzierung des (Scheichwege)Verkehrs.
+4-1	207-211	Mein	_	
+4-2	212-221	Vorschlag	_	
+4-3	221-222	:	_	
+4-4	223-244	Einbahnstraßen-System	_	
+4-5	245-248	zur	_	
+4-6	249-260	Reduzierung	_	
+4-7	261-264	des	_	
+4-8	265-266	(	_	
+4-9	266-277	Scheichwege	_	
+4-10	277-278	)	_	
+4-11	278-286	Verkehrs	_	
+4-12	286-287	.	_	
+
+#Text=Dabei würden die Grabenstraße und die Stroofstraße nur in nördlicher Richtung, die Straße Auf dem Mühlenberg (derzeit häufig massive Geschwindigkeitsüberschreitungen auf einem Schulweg!) und die Adelheidisstraße nur in südlicher Richtung zu befahren sein.
+5-1	288-293	Dabei	_	
+5-2	294-300	würden	_	
+5-3	301-304	die	*[10]	
+5-4	305-317	Grabenstraße	*[10]	
+5-5	318-321	und	*[10]	
+5-6	322-325	die	*[10]	
+5-7	326-338	Stroofstraße	*[10]	
+5-8	339-342	nur	*[10]	
+5-9	343-345	in	*[10]	
+5-10	346-356	nördlicher	*[10]	
+5-11	357-365	Richtung	*[10]	
+5-12	365-366	,	*[10]	
+5-13	367-370	die	*[10]	
+5-14	371-377	Straße	*[10]	
+5-15	378-381	Auf	*[10]	
+5-16	382-385	dem	*[10]	
+5-17	386-396	Mühlenberg	*[10]	
+5-18	397-398	(	_	
+5-19	398-405	derzeit	_	
+5-20	406-412	häufig	_	
+5-21	413-420	massive	_	
+5-22	421-453	Geschwindigkeitsüberschreitungen	_	
+5-23	454-457	auf	_	
+5-24	458-463	einem	_	
+5-25	464-472	Schulweg	_	
+5-26	472-473	!	_	
+5-27	473-474	)	_	
+5-28	475-478	und	_	
+5-29	479-482	die	*[11]	
+5-30	483-499	Adelheidisstraße	*[11]	
+5-31	500-503	nur	*[11]	
+5-32	504-506	in	*[11]	
+5-33	507-516	südlicher	*[11]	
+5-34	517-525	Richtung	*[11]	
+5-35	526-528	zu	_	
+5-36	529-537	befahren	_	
+5-37	538-542	sein	_	
+5-38	542-543	.	_	
+
+#Text=Durch die Erstellung neuer Wohneinheiten am Ledenhof ist in diesem Bereich mit einem weiter steigenden Verkehrsaufkommen zu rechnen, das den Radverkehr und die Schüler der Realschule weiter gefährden.
+6-1	544-549	Durch	_	
+6-2	550-553	die	_	
+6-3	554-564	Erstellung	_	
+6-4	565-570	neuer	_	
+6-5	571-584	Wohneinheiten	_	
+6-6	585-587	am	*[12]	
+6-7	588-596	Ledenhof	*[12]	
+6-8	597-600	ist	_	
+6-9	601-603	in	_	
+6-10	604-610	diesem	_	
+6-11	611-618	Bereich	_	
+6-12	619-622	mit	_	
+6-13	623-628	einem	_	
+6-14	629-635	weiter	_	
+6-15	636-646	steigenden	_	
+6-16	647-664	Verkehrsaufkommen	_	
+6-17	665-667	zu	_	
+6-18	668-675	rechnen	_	
+6-19	675-676	,	_	
+6-20	677-680	das	_	
+6-21	681-684	den	_	
+6-22	685-695	Radverkehr	_	
+6-23	696-699	und	_	
+6-24	700-703	die	_	
+6-25	704-711	Schüler	_	
+6-26	712-715	der	_	
+6-27	716-726	Realschule	_	
+6-28	727-733	weiter	_	
+6-29	734-743	gefährden	_	
+6-30	743-744	.	_	

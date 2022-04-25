@@ -1,0 +1,88 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einrichtung eines Sicherheitsstreifens für Radfahrer in beide Richtungen
+1-1	0-11	Einrichtung	_	
+1-2	12-17	eines	_	
+1-3	18-38	Sicherheitsstreifens	_	
+1-4	39-42	für	_	
+1-5	43-52	Radfahrer	_	
+1-6	53-55	in	_	
+1-7	56-61	beide	_	
+1-8	62-72	Richtungen	_	
+
+#Text=Zwischen Röttgen und Ippendorf ist oft sehr viel Verkehr, darunter auch Baustellenfahrzeuge und v.a. Rettungswagen Richtung Uniklinik.
+2-1	75-83	Zwischen	*[7]	
+2-2	84-91	Röttgen	*[7]	
+2-3	92-95	und	*[7]	
+2-4	96-105	Ippendorf	*[7]	
+2-5	106-109	ist	_	
+2-6	110-113	oft	_	
+2-7	114-118	sehr	_	
+2-8	119-123	viel	_	
+2-9	124-131	Verkehr	_	
+2-10	131-132	,	_	
+2-11	133-141	darunter	_	
+2-12	142-146	auch	_	
+2-13	147-166	Baustellenfahrzeuge	_	
+2-14	167-170	und	_	
+2-15	171-174	v.a	_	
+2-16	174-175	.	_	
+2-17	176-189	Rettungswagen	_	
+2-18	190-198	Richtung	_	
+2-19	199-208	Uniklinik	_	
+2-20	208-209	.	_	
+
+#Text=Radfahrer werden gerne übersehen/ignoriert.
+3-1	210-219	Radfahrer	_	
+3-2	220-226	werden	_	
+3-3	227-232	gerne	_	
+3-4	233-242	übersehen	_	
+3-5	242-243	/	_	
+3-6	243-252	ignoriert	_	
+3-7	252-253	.	_	
+
+#Text=Autofahrer sind genervt vom Stau in Röttgen und der 30er Zone im Katzenloch.
+4-1	254-264	Autofahrer	_	
+4-2	265-269	sind	_	
+4-3	270-277	genervt	_	
+4-4	278-281	vom	_	
+4-5	282-286	Stau	_	
+4-6	287-289	in	*[8]	
+4-7	290-297	Röttgen	*[8]	
+4-8	298-301	und	_	
+4-9	302-305	der	_	
+4-10	306-310	30er	_	
+4-11	311-315	Zone	_	
+4-12	316-318	im	*[9]	
+4-13	319-329	Katzenloch	*[9]	
+4-14	329-330	.	_	
+
+#Text=Ein Sicherheitsstreifen würde den Radfahrern mehr Präsenz verleihen.
+5-1	331-334	Ein	_	
+5-2	335-354	Sicherheitsstreifen	_	
+5-3	355-360	würde	_	
+5-4	361-364	den	_	
+5-5	365-375	Radfahrern	_	
+5-6	376-380	mehr	_	
+5-7	381-388	Präsenz	_	
+5-8	389-398	verleihen	_	
+5-9	398-399	.	_	
+
+#Text=Einen vergleichbaren Streifen gibt es bereits in der Trierer Straße Richtung Ippendorf.
+6-1	400-405	Einen	_	
+6-2	406-420	vergleichbaren	_	
+6-3	421-429	Streifen	_	
+6-4	430-434	gibt	_	
+6-5	435-437	es	_	
+6-6	438-445	bereits	_	
+6-7	446-448	in	*[10]	
+6-8	449-452	der	*[10]	
+6-9	453-460	Trierer	*[10]	
+6-10	461-467	Straße	*[10]	
+6-11	468-476	Richtung	*[10]	
+6-12	477-486	Ippendorf	*[10]	
+6-13	486-487	.	_	

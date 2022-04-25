@@ -1,0 +1,245 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Neubürger und Neustudenten sollten Fahrrad-Stadtplan erhalten!
+1-1	0-9	Neubürger	_	
+1-2	10-13	und	_	
+1-3	14-26	Neustudenten	_	
+1-4	27-34	sollten	_	
+1-5	35-52	Fahrrad-Stadtplan	_	
+1-6	53-61	erhalten	_	
+1-7	61-62	!	_	
+
+#Text=Fahrradförderung von Anfang an.
+2-1	63-79	Fahrradförderung	_	
+2-2	80-83	von	_	
+2-3	84-90	Anfang	_	
+2-4	91-93	an	_	
+2-5	93-94	.	_	
+
+#Text=Bonn ist leider für Radler sehr orientierungsaufwendig angelegt!
+3-1	97-101	Bonn	*	
+3-2	102-105	ist	_	
+3-3	106-112	leider	_	
+3-4	113-116	für	_	
+3-5	117-123	Radler	_	
+3-6	124-128	sehr	_	
+3-7	129-151	orientierungsaufwendig	_	
+3-8	152-160	angelegt	_	
+3-9	160-161	!	_	
+
+#Text=Damit sich Bonn-Neulinge gut über Radstrecken informieren können, erhalten sie von der Stadt einen Fahrrad-Stadtplan bei Anmeldung bzw. Uni-Einschreibung, siehe https://goo.gl/kuP6pV
+4-1	162-167	Damit	_	
+4-2	168-172	sich	_	
+4-3	173-186	Bonn-Neulinge	_	
+4-4	187-190	gut	_	
+4-5	191-195	über	_	
+4-6	196-207	Radstrecken	_	
+4-7	208-219	informieren	_	
+4-8	220-226	können	_	
+4-9	226-227	,	_	
+4-10	228-236	erhalten	_	
+4-11	237-240	sie	_	
+4-12	241-244	von	_	
+4-13	245-248	der	_	
+4-14	249-254	Stadt	_	
+4-15	255-260	einen	_	
+4-16	261-278	Fahrrad-Stadtplan	_	
+4-17	279-282	bei	_	
+4-18	283-292	Anmeldung	_	
+4-19	293-296	bzw	_	
+4-20	296-297	.	_	
+4-21	298-315	Uni-Einschreibung	_	
+4-22	315-316	,	_	
+4-23	317-322	siehe	_	
+4-24	323-328	https	_	
+4-25	328-329	:	_	
+4-26	329-330	/	_	
+4-27	330-331	/	_	
+4-28	331-337	goo.gl	_	
+4-29	337-338	/	_	
+4-30	338-344	kuP6pV	_	
+
+#Text=Bonn wird z.B. durch eine der belebtesten Zugstrecken Deutschland zerschnitten.
+5-1	345-349	Bonn	*	
+5-2	350-354	wird	_	
+5-3	355-358	z.B	_	
+5-4	358-359	.	_	
+5-5	360-365	durch	_	
+5-6	366-370	eine	_	
+5-7	371-374	der	_	
+5-8	375-386	belebtesten	_	
+5-9	387-398	Zugstrecken	_	
+5-10	399-410	Deutschland	_	
+5-11	411-423	zerschnitten	_	
+5-12	423-424	.	_	
+
+#Text=Auf zehn Kilometer gibt jedoch nur eine Handvoll Brücken und Unterführungen für Radfahrer.
+6-1	425-428	Auf	_	
+6-2	429-433	zehn	_	
+6-3	434-443	Kilometer	_	
+6-4	444-448	gibt	_	
+6-5	449-455	jedoch	_	
+6-6	456-459	nur	_	
+6-7	460-464	eine	_	
+6-8	465-473	Handvoll	_	
+6-9	474-481	Brücken	_	
+6-10	482-485	und	_	
+6-11	486-500	Unterführungen	_	
+6-12	501-504	für	_	
+6-13	505-514	Radfahrer	_	
+6-14	514-515	.	_	
+
+#Text=Hinweise, wo diese sind, sucht man jedoch vergeblich.
+7-1	516-524	Hinweise	_	
+7-2	524-525	,	_	
+7-3	526-528	wo	_	
+7-4	529-534	diese	_	
+7-5	535-539	sind	_	
+7-6	539-540	,	_	
+7-7	541-546	sucht	_	
+7-8	547-550	man	_	
+7-9	551-557	jedoch	_	
+7-10	558-568	vergeblich	_	
+7-11	568-569	.	_	
+
+#Text=Zudem gibt es in Bonn keinen einzigen Radschnellweg, die Umlandstädte (z.B. St. Augustin, Meckenheim etc) oder große Stadtteile (z.B. Bad Godesberg mit Innenstadt, Univiertel mit Innenstadt) mit hohen Zielverkehren durchgängig und sicher verknüpfen, so das eine hohe Durchschnittsgeschwindigkeit erreicht werden kann.
+8-1	570-575	Zudem	_	
+8-2	576-580	gibt	_	
+8-3	581-583	es	_	
+8-4	584-586	in	_	
+8-5	587-591	Bonn	*	
+8-6	592-598	keinen	_	
+8-7	599-607	einzigen	_	
+8-8	608-621	Radschnellweg	_	
+8-9	621-622	,	_	
+8-10	623-626	die	_	
+8-11	627-639	Umlandstädte	_	
+8-12	640-641	(	_	
+8-13	641-644	z.B	_	
+8-14	644-645	.	_	
+8-15	646-648	St	*[13]	
+8-16	648-649	.	*[13]	
+8-17	650-658	Augustin	*[13]	
+8-18	658-659	,	*[13]	
+8-19	660-670	Meckenheim	*[13]	
+8-20	671-674	etc	*[13]	
+8-21	674-675	)	_	
+8-22	676-680	oder	_	
+8-23	681-686	große	_	
+8-24	687-697	Stadtteile	_	
+8-25	698-699	(	_	
+8-26	699-702	z.B	*[14]	
+8-27	702-703	.	*[14]	
+8-28	704-707	Bad	*[14]	
+8-29	708-717	Godesberg	*[14]	
+8-30	718-721	mit	*[14]	
+8-31	722-732	Innenstadt	*[14]	
+8-32	732-733	,	*[14]	
+8-33	734-744	Univiertel	*[14]	
+8-34	745-748	mit	*[14]	
+8-35	749-759	Innenstadt	*[14]	
+8-36	759-760	)	_	
+8-37	761-764	mit	_	
+8-38	765-770	hohen	_	
+8-39	771-784	Zielverkehren	_	
+8-40	785-796	durchgängig	_	
+8-41	797-800	und	_	
+8-42	801-807	sicher	_	
+8-43	808-818	verknüpfen	_	
+8-44	818-819	,	_	
+8-45	820-822	so	_	
+8-46	823-826	das	_	
+8-47	827-831	eine	_	
+8-48	832-836	hohe	_	
+8-49	837-865	Durchschnittsgeschwindigkeit	_	
+8-50	866-874	erreicht	_	
+8-51	875-881	werden	_	
+8-52	882-886	kann	_	
+8-53	886-887	.	_	
+
+#Text=Stattdessen: Chaotische Streckenführungen mit häufigem Abbiegen, Seitenwechseln, fehlenden Streckenhinweisen usw.
+9-1	888-899	Stattdessen	_	
+9-2	899-900	:	_	
+9-3	901-911	Chaotische	_	
+9-4	912-929	Streckenführungen	_	
+9-5	930-933	mit	_	
+9-6	934-942	häufigem	_	
+9-7	943-951	Abbiegen	_	
+9-8	951-952	,	_	
+9-9	953-967	Seitenwechseln	_	
+9-10	967-968	,	_	
+9-11	969-978	fehlenden	_	
+9-12	979-996	Streckenhinweisen	_	
+9-13	997-1000	usw	_	
+9-14	1000-1001	.	_	
+
+#Text=Ohne Karte würde man sich x-mal verfahren.
+10-1	1002-1006	Ohne	_	
+10-2	1007-1012	Karte	_	
+10-3	1013-1018	würde	_	
+10-4	1019-1022	man	_	
+10-5	1023-1027	sich	_	
+10-6	1028-1033	x-mal	_	
+10-7	1034-1043	verfahren	_	
+10-8	1043-1044	.	_	
+
+#Text=Der Fahrrad-Stadtplan zeigt vor Fahrtantritt und während der Fahrt auf, welche Routen es gibt, ob Strecken eine hohe Verkehrsbelastung aufweisen, ob Hindernisse oder Steigungen vorhanden sind etc
+11-1	1045-1048	Der	_	
+11-2	1049-1066	Fahrrad-Stadtplan	_	
+11-3	1067-1072	zeigt	_	
+11-4	1073-1076	vor	_	
+11-5	1077-1089	Fahrtantritt	_	
+11-6	1090-1093	und	_	
+11-7	1094-1101	während	_	
+11-8	1102-1105	der	_	
+11-9	1106-1111	Fahrt	_	
+11-10	1112-1115	auf	_	
+11-11	1115-1116	,	_	
+11-12	1117-1123	welche	_	
+11-13	1124-1130	Routen	_	
+11-14	1131-1133	es	_	
+11-15	1134-1138	gibt	_	
+11-16	1138-1139	,	_	
+11-17	1140-1142	ob	_	
+11-18	1143-1151	Strecken	_	
+11-19	1152-1156	eine	_	
+11-20	1157-1161	hohe	_	
+11-21	1162-1179	Verkehrsbelastung	_	
+11-22	1180-1189	aufweisen	_	
+11-23	1189-1190	,	_	
+11-24	1191-1193	ob	_	
+11-25	1194-1205	Hindernisse	_	
+11-26	1206-1210	oder	_	
+11-27	1211-1221	Steigungen	_	
+11-28	1222-1231	vorhanden	_	
+11-29	1232-1236	sind	_	
+11-30	1237-1240	etc	_	
+
+#Text=Bei einer Druckauflage im 20.000-Bereich (= Jahresbedarf) lägen die Kosten bei nur ca 1,x je Karte.
+12-1	1241-1244	Bei	_	
+12-2	1245-1250	einer	_	
+12-3	1251-1263	Druckauflage	_	
+12-4	1264-1266	im	_	
+12-5	1267-1273	20.000	_	
+12-6	1273-1274	-	_	
+12-7	1274-1281	Bereich	_	
+12-8	1282-1283	(	_	
+12-9	1283-1284	=	_	
+12-10	1285-1297	Jahresbedarf	_	
+12-11	1297-1298	)	_	
+12-12	1299-1304	lägen	_	
+12-13	1305-1308	die	_	
+12-14	1309-1315	Kosten	_	
+12-15	1316-1319	bei	_	
+12-16	1320-1323	nur	_	
+12-17	1324-1326	ca	_	
+12-18	1327-1328	1	_	
+12-19	1328-1329	,	_	
+12-20	1329-1330	x	_	
+12-21	1331-1333	je	_	
+12-22	1334-1339	Karte	_	
+12-23	1339-1340	.	_	

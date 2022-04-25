@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Linksabbiegen gefährlich
+1-1	0-13	Linksabbiegen	_	
+1-2	14-24	gefährlich	_	
+
+#Text=Wenn man hier aus der Karl-Landsteiner-Str. nach links in die Sigmund-Freud-Str. abbiegt, ist man insbes. im Feierabend-Verkehr in Gefahr, von den das Klinik-Gelände im Sekunden-Takt über zwei Beschrankungen verlassenden Wagen erfasst zu werden.
+2-1	27-31	Wenn	_	
+2-2	32-35	man	_	
+2-3	36-40	hier	_	
+2-4	41-44	aus	*[4]	
+2-5	45-48	der	*[4]	
+2-6	49-69	Karl-Landsteiner-Str	*[4]	
+2-7	69-70	.	*[4]	
+2-8	71-75	nach	*[4]	
+2-9	76-81	links	*[4]	
+2-10	82-84	in	*[4]	
+2-11	85-88	die	*[4]	
+2-12	89-106	Sigmund-Freud-Str	*[4]	
+2-13	106-107	.	*[4]	
+2-14	108-115	abbiegt	*[4]	
+2-15	115-116	,	_	
+2-16	117-120	ist	_	
+2-17	121-124	man	_	
+2-18	125-131	insbes	_	
+2-19	131-132	.	_	
+2-20	133-135	im	_	
+2-21	136-154	Feierabend-Verkehr	_	
+2-22	155-157	in	_	
+2-23	158-164	Gefahr	_	
+2-24	164-165	,	_	
+2-25	166-169	von	_	
+2-26	170-173	den	_	
+2-27	174-177	das	_	
+2-28	178-192	Klinik-Gelände	_	
+2-29	193-195	im	_	
+2-30	196-209	Sekunden-Takt	_	
+2-31	210-214	über	_	
+2-32	215-219	zwei	_	
+2-33	220-234	Beschrankungen	_	
+2-34	235-247	verlassenden	_	
+2-35	248-253	Wagen	_	
+2-36	254-261	erfasst	_	
+2-37	262-264	zu	_	
+2-38	265-271	werden	_	
+2-39	271-272	.	_	
+
+#Text=Eine Art Vekehrsinsel - notfalls nur mit weißer Farbe markiert - würde es etwas sicherer machen.
+3-1	273-277	Eine	_	
+3-2	278-281	Art	_	
+3-3	282-294	Vekehrsinsel	_	
+3-4	295-296	-	_	
+3-5	297-305	notfalls	_	
+3-6	306-309	nur	_	
+3-7	310-313	mit	_	
+3-8	314-320	weißer	_	
+3-9	321-326	Farbe	_	
+3-10	327-335	markiert	_	
+3-11	336-337	-	_	
+3-12	338-343	würde	_	
+3-13	344-346	es	_	
+3-14	347-352	etwas	_	
+3-15	353-361	sicherer	_	
+3-16	362-368	machen	_	
+3-17	368-369	.	_	

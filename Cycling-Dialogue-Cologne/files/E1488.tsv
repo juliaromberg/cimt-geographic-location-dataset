@@ -1,0 +1,102 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefahrenstelle
+1-1	0-14	Gefahrenstelle	_	
+
+#Text=An der Venloer Strasse in Höhe des Bezirksrathauses ist eine stark genutzte Fußgängerampel.
+2-1	17-19	An	*[6]	
+2-2	20-23	der	*[6]	
+2-3	24-31	Venloer	*[6]	
+2-4	32-39	Strasse	*[6]	
+2-5	40-42	in	*[6]	
+2-6	43-47	Höhe	*[6]	
+2-7	48-51	des	*[6]	
+2-8	52-68	Bezirksrathauses	*[6]	
+2-9	69-72	ist	_	
+2-10	73-77	eine	_	
+2-11	78-83	stark	_	
+2-12	84-92	genutzte	_	
+2-13	93-107	Fußgängerampel	_	
+2-14	107-108	.	_	
+
+#Text=Dort kommt es regelmäßig zu Konflikten mit Radfahrern, da Radfahrer Vorfahrt haben, Fußgänger dies nicht wissen und leider meist auf keiner Seite Einsicht herrscht.
+3-1	109-113	Dort	_	
+3-2	114-119	kommt	_	
+3-3	120-122	es	_	
+3-4	123-133	regelmäßig	_	
+3-5	134-136	zu	_	
+3-6	137-147	Konflikten	_	
+3-7	148-151	mit	_	
+3-8	152-162	Radfahrern	_	
+3-9	162-163	,	_	
+3-10	164-166	da	_	
+3-11	167-176	Radfahrer	_	
+3-12	177-185	Vorfahrt	_	
+3-13	186-191	haben	_	
+3-14	191-192	,	_	
+3-15	193-202	Fußgänger	_	
+3-16	203-207	dies	_	
+3-17	208-213	nicht	_	
+3-18	214-220	wissen	_	
+3-19	221-224	und	_	
+3-20	225-231	leider	_	
+3-21	232-237	meist	_	
+3-22	238-241	auf	_	
+3-23	242-248	keiner	_	
+3-24	249-254	Seite	_	
+3-25	255-263	Einsicht	_	
+3-26	264-272	herrscht	_	
+3-27	272-273	.	_	
+
+#Text=Kurzfristig könnte es vielleicht helfen, wenn man auf dem Radweg auf jeder Seite ein fettes Fahrradpiktogramm mit Ausrufezeichen anbringt oder einen Hinweis Achtung Radfahrer o.ä..
+4-1	274-285	Kurzfristig	_	
+4-2	286-292	könnte	_	
+4-3	293-295	es	_	
+4-4	296-306	vielleicht	_	
+4-5	307-313	helfen	_	
+4-6	313-314	,	_	
+4-7	315-319	wenn	_	
+4-8	320-323	man	_	
+4-9	324-327	auf	_	
+4-10	328-331	dem	_	
+4-11	332-338	Radweg	_	
+4-12	339-342	auf	_	
+4-13	343-348	jeder	_	
+4-14	349-354	Seite	_	
+4-15	355-358	ein	_	
+4-16	359-365	fettes	_	
+4-17	366-383	Fahrradpiktogramm	_	
+4-18	384-387	mit	_	
+4-19	388-402	Ausrufezeichen	_	
+4-20	403-411	anbringt	_	
+4-21	412-416	oder	_	
+4-22	417-422	einen	_	
+4-23	423-430	Hinweis	_	
+4-24	431-438	Achtung	_	
+4-25	439-448	Radfahrer	_	
+4-26	449-452	o.ä	_	
+4-27	452-453	.	_	
+4-28	453-454	.	_	
+
+#Text=Dann wären zumindest die Fußgänger gewarnt.
+5-1	455-459	Dann	_	
+5-2	460-465	wären	_	
+5-3	466-475	zumindest	_	
+5-4	476-479	die	_	
+5-5	480-489	Fußgänger	_	
+5-6	490-497	gewarnt	_	
+5-7	497-498	.	_	
+
+#Text=Dauerhaft muss der Radweg auf die Straße.
+6-1	499-508	Dauerhaft	_	
+6-2	509-513	muss	_	
+6-3	514-517	der	_	
+6-4	518-524	Radweg	_	
+6-5	525-528	auf	_	
+6-6	529-532	die	_	
+6-7	533-539	Straße	_	
+6-8	539-540	.	_	

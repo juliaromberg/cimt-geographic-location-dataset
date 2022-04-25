@@ -1,0 +1,157 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beidseitig befahrbarer Radweg
+1-1	0-10	Beidseitig	_	
+1-2	11-22	befahrbarer	_	
+1-3	23-29	Radweg	_	
+
+#Text=Hier würde ich mir einen beidseitig befahrbaren Radweg auf der Bonner Str.
+2-1	32-36	Hier	_	
+2-2	37-42	würde	_	
+2-3	43-46	ich	_	
+2-4	47-50	mir	_	
+2-5	51-56	einen	_	
+2-6	57-67	beidseitig	_	
+2-7	68-79	befahrbaren	_	
+2-8	80-86	Radweg	_	
+2-9	87-90	auf	*[6]	
+2-10	91-94	der	*[6]	
+2-11	95-101	Bonner	*[6]	
+2-12	102-105	Str	*[6]	
+2-13	105-106	.	*[6]	
+
+#Text=wünschen.
+3-1	107-115	wünschen	_	
+3-2	115-116	.	_	
+
+#Text=Wenn man auf der Bonner Straße Richtung Godesberg fährt, ist der Radweg am Anfang beidseitig befahrbar, später nur noch in Richtung Godesberg.
+4-1	117-121	Wenn	_	
+4-2	122-125	man	_	
+4-3	126-129	auf	*[7]	
+4-4	130-133	der	*[7]	
+4-5	134-140	Bonner	*[7]	
+4-6	141-147	Straße	*[7]	
+4-7	148-156	Richtung	*[7]	
+4-8	157-166	Godesberg	*[7]	
+4-9	167-172	fährt	_	
+4-10	172-173	,	_	
+4-11	174-177	ist	_	
+4-12	178-181	der	_	
+4-13	182-188	Radweg	_	
+4-14	189-191	am	_	
+4-15	192-198	Anfang	_	
+4-16	199-209	beidseitig	_	
+4-17	210-219	befahrbar	_	
+4-18	219-220	,	_	
+4-19	221-227	später	_	
+4-20	228-231	nur	_	
+4-21	232-236	noch	_	
+4-22	237-239	in	_	
+4-23	240-248	Richtung	_	
+4-24	249-258	Godesberg	_	
+4-25	258-259	.	_	
+
+#Text=Wenn ich aus Richtung Wurzerstr. komme und auf der Bonner Str. etwas erledige, muss ich also, um wieder in Richtung Wurzerstr. zu kommen, erst bis ans Ende der Bonner Str. fahren, dort drei Ampeln überqueren, auf der Gegenseite zurückfahren, um dann kurz vor der Einfahrt in den Tunnel wieder auf die Gegenseite zu wechseln und dann an dieser schrecklichen Kreuzung Bonner Str./Elsässer Str. auch noch mal 5 Ampeln zu kreuzen, um wieder auf den Radweg in der Wurzerstr. Richtung Rhein zu kommen.
+5-1	260-264	Wenn	_	
+5-2	265-268	ich	_	
+5-3	269-272	aus	*[8]	
+5-4	273-281	Richtung	*[8]	
+5-5	282-291	Wurzerstr	*[8]	
+5-6	291-292	.	*[8]	
+5-7	293-298	komme	*[8]	
+5-8	299-302	und	*[8]	
+5-9	303-306	auf	*[8]	
+5-10	307-310	der	*[8]	
+5-11	311-317	Bonner	*[8]	
+5-12	318-321	Str	*[8]	
+5-13	321-322	.	*[8]	
+5-14	323-328	etwas	_	
+5-15	329-337	erledige	_	
+5-16	337-338	,	_	
+5-17	339-343	muss	_	
+5-18	344-347	ich	_	
+5-19	348-352	also	_	
+5-20	352-353	,	_	
+5-21	354-356	um	_	
+5-22	357-363	wieder	_	
+5-23	364-366	in	*[9]	
+5-24	367-375	Richtung	*[9]	
+5-25	376-385	Wurzerstr	*[9]	
+5-26	385-386	.	*[9]	
+5-27	387-389	zu	_	
+5-28	390-396	kommen	_	
+5-29	396-397	,	_	
+5-30	398-402	erst	_	
+5-31	403-406	bis	*[10]	
+5-32	407-410	ans	*[10]	
+5-33	411-415	Ende	*[10]	
+5-34	416-419	der	*[10]	
+5-35	420-426	Bonner	*[10]	
+5-36	427-430	Str	*[10]	
+5-37	430-431	.	*[10]	
+5-38	432-438	fahren	*[10]	
+5-39	438-439	,	_	
+5-40	440-444	dort	_	
+5-41	445-449	drei	_	
+5-42	450-456	Ampeln	_	
+5-43	457-467	überqueren	_	
+5-44	467-468	,	_	
+5-45	469-472	auf	_	
+5-46	473-476	der	_	
+5-47	477-487	Gegenseite	_	
+5-48	488-500	zurückfahren	_	
+5-49	500-501	,	_	
+5-50	502-504	um	_	
+5-51	505-509	dann	_	
+5-52	510-514	kurz	_	
+5-53	515-518	vor	_	
+5-54	519-522	der	_	
+5-55	523-531	Einfahrt	_	
+5-56	532-534	in	_	
+5-57	535-538	den	_	
+5-58	539-545	Tunnel	_	
+5-59	546-552	wieder	_	
+5-60	553-556	auf	_	
+5-61	557-560	die	_	
+5-62	561-571	Gegenseite	_	
+5-63	572-574	zu	_	
+5-64	575-583	wechseln	_	
+5-65	584-587	und	_	
+5-66	588-592	dann	_	
+5-67	593-595	an	_	
+5-68	596-602	dieser	_	
+5-69	603-616	schrecklichen	_	
+5-70	617-625	Kreuzung	*[11]	
+5-71	626-632	Bonner	*[11]	
+5-72	633-636	Str	*[11]	
+5-73	636-637	.	*[11]	
+5-74	637-638	/	*[11]	
+5-75	638-646	Elsässer	*[11]	
+5-76	647-650	Str	*[11]	
+5-77	650-651	.	*[11]	
+5-78	652-656	auch	_	
+5-79	657-661	noch	_	
+5-80	662-665	mal	_	
+5-81	666-667	5	_	
+5-82	668-674	Ampeln	_	
+5-83	675-677	zu	_	
+5-84	678-685	kreuzen	_	
+5-85	685-686	,	_	
+5-86	687-689	um	_	
+5-87	690-696	wieder	_	
+5-88	697-700	auf	_	
+5-89	701-704	den	_	
+5-90	705-711	Radweg	*[12]	
+5-91	712-714	in	*[12]	
+5-92	715-718	der	*[12]	
+5-93	719-728	Wurzerstr	*[12]	
+5-94	728-729	.	*[12]	
+5-95	730-738	Richtung	*[12]	
+5-96	739-744	Rhein	*[12]	
+5-97	745-747	zu	_	
+5-98	748-754	kommen	_	
+5-99	754-755	.	_	

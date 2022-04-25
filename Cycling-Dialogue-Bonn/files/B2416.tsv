@@ -1,0 +1,63 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=rasante Fahrer
+1-1	0-7	rasante	_	
+1-2	8-14	Fahrer	_	
+
+#Text=Auch hier sind motorisierte Verkehrsteilnehmer sehr rasant unterwegs.
+2-1	17-21	Auch	_	
+2-2	22-26	hier	_	
+2-3	27-31	sind	_	
+2-4	32-44	motorisierte	_	
+2-5	45-63	Verkehrsteilnehmer	_	
+2-6	64-68	sehr	_	
+2-7	69-75	rasant	_	
+2-8	76-85	unterwegs	_	
+2-9	85-86	.	_	
+
+#Text=Besonders Busse müssen in der Kurve einen weiten Bogen nehmen und haben dabei kaum ein Auge für Radfahrer.
+3-1	87-96	Besonders	_	
+3-2	97-102	Busse	_	
+3-3	103-109	müssen	_	
+3-4	110-112	in	_	
+3-5	113-116	der	_	
+3-6	117-122	Kurve	_	
+3-7	123-128	einen	_	
+3-8	129-135	weiten	_	
+3-9	136-141	Bogen	_	
+3-10	142-148	nehmen	_	
+3-11	149-152	und	_	
+3-12	153-158	haben	_	
+3-13	159-164	dabei	_	
+3-14	165-169	kaum	_	
+3-15	170-173	ein	_	
+3-16	174-178	Auge	_	
+3-17	179-182	für	_	
+3-18	183-192	Radfahrer	_	
+3-19	192-193	.	_	
+
+#Text=Für die geht es ab dem tiefsten Punkt der Unterführung auch noch ans strampeln um schnell weg zu kommen.
+4-1	194-197	Für	_	
+4-2	198-201	die	_	
+4-3	202-206	geht	_	
+4-4	207-209	es	_	
+4-5	210-212	ab	_	
+4-6	213-216	dem	_	
+4-7	217-225	tiefsten	_	
+4-8	226-231	Punkt	_	
+4-9	232-235	der	_	
+4-10	236-248	Unterführung	_	
+4-11	249-253	auch	_	
+4-12	254-258	noch	_	
+4-13	259-262	ans	_	
+4-14	263-272	strampeln	_	
+4-15	273-275	um	_	
+4-16	276-283	schnell	_	
+4-17	284-287	weg	_	
+4-18	288-290	zu	_	
+4-19	291-297	kommen	_	
+4-20	297-298	.	_	

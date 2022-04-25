@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radverkehrführung
+1-1	0-17	Radverkehrführung	_	
+
+#Text=Die Kaiserstr. sollte auf der Höhe zu einer Bus- und Radweg umgewandelt werden.
+2-1	20-23	Die	*[4]	
+2-2	24-33	Kaiserstr	*[4]	
+2-3	33-34	.	*[4]	
+2-4	35-41	sollte	_	
+2-5	42-45	auf	_	
+2-6	46-49	der	_	
+2-7	50-54	Höhe	_	
+2-8	55-57	zu	_	
+2-9	58-63	einer	_	
+2-10	64-67	Bus	_	
+2-11	67-68	-	_	
+2-12	69-72	und	_	
+2-13	73-79	Radweg	_	
+2-14	80-91	umgewandelt	_	
+2-15	92-98	werden	_	
+2-16	98-99	.	_	
+
+#Text=Dort ist der Fahrradweg einfach zu klein und gefährlich.
+3-1	100-104	Dort	_	
+3-2	105-108	ist	_	
+3-3	109-112	der	_	
+3-4	113-123	Fahrradweg	_	
+3-5	124-131	einfach	_	
+3-6	132-134	zu	_	
+3-7	135-140	klein	_	
+3-8	141-144	und	_	
+3-9	145-155	gefährlich	_	
+3-10	155-156	.	_	
+
+#Text=Autos können über die Adenauerallee problemlos weiter fahren.
+4-1	157-162	Autos	_	
+4-2	163-169	können	_	
+4-3	170-174	über	*[5]	
+4-4	175-178	die	*[5]	
+4-5	179-192	Adenauerallee	*[5]	
+4-6	193-203	problemlos	_	
+4-7	204-210	weiter	_	
+4-8	211-217	fahren	_	
+4-9	217-218	.	_	

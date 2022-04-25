@@ -1,0 +1,23 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrbahnqualität
+1-1	0-16	Fahrbahnqualität	_	
+
+#Text=Die fahrbahnqualität ist in sehr schlechtem zustand und zum Radfahren nahezu ungeeignet.
+2-1	19-22	Die	_	
+2-2	23-39	fahrbahnqualität	_	
+2-3	40-43	ist	_	
+2-4	44-46	in	_	
+2-5	47-51	sehr	_	
+2-6	52-62	schlechtem	_	
+2-7	63-70	zustand	_	
+2-8	71-74	und	_	
+2-9	75-78	zum	_	
+2-10	79-88	Radfahren	_	
+2-11	89-95	nahezu	_	
+2-12	96-106	ungeeignet	_	
+2-13	106-107	.	_	

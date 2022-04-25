@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Städtische Laubbläser blasen Laub auf Radweg
+1-1	0-10	Städtische	_	
+1-2	11-21	Laubbläser	_	
+1-3	22-28	blasen	_	
+1-4	29-33	Laub	_	
+1-5	34-37	auf	_	
+1-6	38-44	Radweg	_	
+
+#Text=Anfang Oktober habe ich beobachtet, dass städtische Laubbläser das Laub zu einem großen Haufen auf dem Radweg (Gotenstraße, Ecke Wurzerstraße, und auch vorher, von Plittersdorf kommend) zusammenblasen.
+2-1	47-53	Anfang	_	
+2-2	54-61	Oktober	_	
+2-3	62-66	habe	_	
+2-4	67-70	ich	_	
+2-5	71-81	beobachtet	_	
+2-6	81-82	,	_	
+2-7	83-87	dass	_	
+2-8	88-98	städtische	_	
+2-9	99-109	Laubbläser	_	
+2-10	110-113	das	_	
+2-11	114-118	Laub	_	
+2-12	119-121	zu	_	
+2-13	122-127	einem	_	
+2-14	128-134	großen	_	
+2-15	135-141	Haufen	_	
+2-16	142-145	auf	_	
+2-17	146-149	dem	_	
+2-18	150-156	Radweg	_	
+2-19	157-158	(	_	
+2-20	158-169	Gotenstraße	*[5]	
+2-21	169-170	,	*[5]	
+2-22	171-175	Ecke	*[5]	
+2-23	176-188	Wurzerstraße	*[5]	
+2-24	188-189	,	_	
+2-25	190-193	und	_	
+2-26	194-198	auch	_	
+2-27	199-205	vorher	_	
+2-28	205-206	,	_	
+2-29	207-210	von	*[6]	
+2-30	211-223	Plittersdorf	*[6]	
+2-31	224-231	kommend	*[6]	
+2-32	231-232	)	_	
+2-33	233-247	zusammenblasen	_	
+2-34	247-248	.	_	
+
+#Text=Das behindert die Radfahrer.
+3-1	249-252	Das	_	
+3-2	253-262	behindert	_	
+3-3	263-266	die	_	
+3-4	267-276	Radfahrer	_	
+3-5	276-277	.	_	
+
+#Text=(Ganz abgesehen von der Lärmbelästigung und der ökologischen Fragwürdigkeit der Laubbläser!)
+4-1	278-279	(	_	
+4-2	279-283	Ganz	_	
+4-3	284-293	abgesehen	_	
+4-4	294-297	von	_	
+4-5	298-301	der	_	
+4-6	302-317	Lärmbelästigung	_	
+4-7	318-321	und	_	
+4-8	322-325	der	_	
+4-9	326-338	ökologischen	_	
+4-10	339-353	Fragwürdigkeit	_	
+4-11	354-357	der	_	
+4-12	358-368	Laubbläser	_	
+4-13	368-369	!	_	
+4-14	369-370	)	_	

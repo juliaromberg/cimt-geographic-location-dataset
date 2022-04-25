@@ -1,0 +1,184 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstreiefn ja/nein
+1-1	0-15	Fahrradstreiefn	_	
+1-2	16-18	ja	_	
+1-3	18-19	/	_	
+1-4	19-23	nein	_	
+
+#Text=Die Karl-Legien-Straße schlängelt sich durch Graurheindorf.
+2-1	26-29	Die	*[16]	
+2-2	30-48	Karl-Legien-Straße	*[16]	
+2-3	49-59	schlängelt	_	
+2-4	60-64	sich	_	
+2-5	65-70	durch	_	
+2-6	71-84	Graurheindorf	_	
+2-7	84-85	.	_	
+
+#Text=Auf der Strasse ist eine Spur für Fahrräder abgetrennt.
+3-1	86-89	Auf	_	
+3-2	90-93	der	_	
+3-3	94-101	Strasse	_	
+3-4	102-105	ist	_	
+3-5	106-110	eine	_	
+3-6	111-115	Spur	_	
+3-7	116-119	für	_	
+3-8	120-129	Fahrräder	_	
+3-9	130-140	abgetrennt	_	
+3-10	140-141	.	_	
+
+#Text=Markiert durch Fahrradsymbole und gestrichelte Linien.
+4-1	142-150	Markiert	_	
+4-2	151-156	durch	_	
+4-3	157-171	Fahrradsymbole	_	
+4-4	172-175	und	_	
+4-5	176-188	gestrichelte	_	
+4-6	189-195	Linien	_	
+4-7	195-196	.	_	
+
+#Text=Es stehen aber keine blauen Verkehrsschilder, die auf einen Radweg hinweisen.
+5-1	197-199	Es	_	
+5-2	200-206	stehen	_	
+5-3	207-211	aber	_	
+5-4	212-217	keine	_	
+5-5	218-224	blauen	_	
+5-6	225-241	Verkehrsschilder	_	
+5-7	241-242	,	_	
+5-8	243-246	die	_	
+5-9	247-250	auf	_	
+5-10	251-256	einen	_	
+5-11	257-263	Radweg	_	
+5-12	264-273	hinweisen	_	
+5-13	273-274	.	_	
+
+#Text=Nach der Kreuzung Werftstrasse endet der Radstreifen plötzlich.
+6-1	275-279	Nach	_	
+6-2	280-283	der	_	
+6-3	284-292	Kreuzung	*[17]	
+6-4	293-305	Werftstrasse	*[17]	
+6-5	306-311	endet	_	
+6-6	312-315	der	_	
+6-7	316-327	Radstreifen	_	
+6-8	328-337	plötzlich	_	
+6-9	337-338	.	_	
+
+#Text=Wofür ist hier eine Radspur aufgemalt?
+7-1	339-344	Wofür	_	
+7-2	345-348	ist	_	
+7-3	349-353	hier	_	
+7-4	354-358	eine	_	
+7-5	359-366	Radspur	_	
+7-6	367-376	aufgemalt	_	
+7-7	376-377	?	_	
+
+#Text=1. In 30er Zonen gibt es keine Radwege
+8-1	378-379	1	_	
+8-2	379-380	.	_	
+8-3	381-383	In	_	
+8-4	384-388	30er	_	
+8-5	389-394	Zonen	_	
+8-6	395-399	gibt	_	
+8-7	400-402	es	_	
+8-8	403-408	keine	_	
+8-9	409-416	Radwege	_	
+
+#Text=2. Fahrstreifen auf der Strasse ohne Verkehrschild sind keine Pflichtradwege.
+9-1	417-418	2	_	
+9-2	418-419	.	_	
+9-3	420-432	Fahrstreifen	_	
+9-4	433-436	auf	_	
+9-5	437-440	der	_	
+9-6	441-448	Strasse	_	
+9-7	449-453	ohne	_	
+9-8	454-467	Verkehrschild	_	
+9-9	468-472	sind	_	
+9-10	473-478	keine	_	
+9-11	479-493	Pflichtradwege	_	
+9-12	493-494	.	_	
+
+#Text=Was hier mal gut gemeint war, ist aber nicht sinnvoll.
+10-1	495-498	Was	_	
+10-2	499-503	hier	_	
+10-3	504-507	mal	_	
+10-4	508-511	gut	_	
+10-5	512-519	gemeint	_	
+10-6	520-523	war	_	
+10-7	523-524	,	_	
+10-8	525-528	ist	_	
+10-9	529-533	aber	_	
+10-10	534-539	nicht	_	
+10-11	540-548	sinnvoll	_	
+10-12	548-549	.	_	
+
+#Text=Meistens ist wenig Verkehr hier und man kann relativ sicher fahren.
+11-1	550-558	Meistens	_	
+11-2	559-562	ist	_	
+11-3	563-568	wenig	_	
+11-4	569-576	Verkehr	_	
+11-5	577-581	hier	_	
+11-6	582-585	und	_	
+11-7	586-589	man	_	
+11-8	590-594	kann	_	
+11-9	595-602	relativ	_	
+11-10	603-609	sicher	_	
+11-11	610-616	fahren	_	
+11-12	616-617	.	_	
+
+#Text=Schade ist eigentlich nur, dass man von Hersel aus nicht durchgängig am Rhein entlang fahren kann.
+12-1	618-624	Schade	_	
+12-2	625-628	ist	_	
+12-3	629-639	eigentlich	_	
+12-4	640-643	nur	_	
+12-5	643-644	,	_	
+12-6	645-649	dass	_	
+12-7	650-653	man	_	
+12-8	654-657	von	*[18]	
+12-9	658-664	Hersel	*[18]	
+12-10	665-668	aus	*[18]	
+12-11	669-674	nicht	*[18]	
+12-12	675-686	durchgängig	*[18]	
+12-13	687-689	am	*[18]	
+12-14	690-695	Rhein	*[18]	
+12-15	696-703	entlang	*[18]	
+12-16	704-710	fahren	_	
+12-17	711-715	kann	_	
+12-18	715-716	.	_	
+
+#Text=Vielleicht kann man da mal was überlegen.
+13-1	717-727	Vielleicht	_	
+13-2	728-732	kann	_	
+13-3	733-736	man	_	
+13-4	737-739	da	_	
+13-5	740-743	mal	_	
+13-6	744-747	was	_	
+13-7	748-757	überlegen	_	
+13-8	757-758	.	_	
+
+#Text=Bereits ab dem Klärwerk müsste man den schmalen Pfad am Rhein deutlich verbreitern.
+14-1	759-766	Bereits	_	
+14-2	767-769	ab	_	
+14-3	770-773	dem	_	
+14-4	774-782	Klärwerk	*	
+14-5	783-789	müsste	_	
+14-6	790-793	man	_	
+14-7	794-797	den	_	
+14-8	798-806	schmalen	_	
+14-9	807-811	Pfad	_	
+14-10	812-814	am	*[19]	
+14-11	815-820	Rhein	*[19]	
+14-12	821-829	deutlich	_	
+14-13	830-841	verbreitern	_	
+14-14	841-842	.	_	
+
+#Text=Ist ja zur Zeit noch gesperrt.
+15-1	843-846	Ist	_	
+15-2	847-849	ja	_	
+15-3	850-853	zur	_	
+15-4	854-858	Zeit	_	
+15-5	859-863	noch	_	
+15-6	864-872	gesperrt	_	
+15-7	872-873	.	_	

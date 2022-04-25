@@ -1,0 +1,87 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kein Radweg vorhanden
+1-1	0-4	Kein	_	
+1-2	5-11	Radweg	_	
+1-3	12-21	vorhanden	_	
+
+#Text=Zum Einstieg, bzw. zur Fortführung von Berg- und Talfahrt bis zum Venusberg wäre ein begleitender gesicherter Fahrradweg sehr wünschenswert.
+2-1	24-27	Zum	*[6]	
+2-2	28-36	Einstieg	*[6]	
+2-3	36-37	,	*[6]	
+2-4	38-41	bzw	*[6]	
+2-5	41-42	.	*[6]	
+2-6	43-46	zur	*[6]	
+2-7	47-58	Fortführung	*[6]	
+2-8	59-62	von	*[6]	
+2-9	63-67	Berg	*[6]	
+2-10	67-68	-	*[6]	
+2-11	69-72	und	*[6]	
+2-12	73-81	Talfahrt	*[6]	
+2-13	82-85	bis	*[6]	
+2-14	86-89	zum	*[6]	
+2-15	90-99	Venusberg	*[6]	
+2-16	100-104	wäre	_	
+2-17	105-108	ein	_	
+2-18	109-121	begleitender	_	
+2-19	122-133	gesicherter	_	
+2-20	134-144	Fahrradweg	_	
+2-21	145-149	sehr	_	
+2-22	150-163	wünschenswert	_	
+2-23	163-164	.	_	
+
+#Text=Nicht nur, um das Mobilitätsverhalten zur Uniklinik weiter zu verbessern.
+3-1	165-170	Nicht	_	
+3-2	171-174	nur	_	
+3-3	174-175	,	_	
+3-4	176-178	um	_	
+3-5	179-182	das	_	
+3-6	183-202	Mobilitätsverhalten	_	
+3-7	203-206	zur	*[7]	
+3-8	207-216	Uniklinik	*[7]	
+3-9	217-223	weiter	_	
+3-10	224-226	zu	_	
+3-11	227-237	verbessern	_	
+3-12	237-238	.	_	
+
+#Text=Hier soll die gesicherte Bike/ E-Bike - Nutzung in Zukunft eine große Rolle spielen.
+4-1	239-243	Hier	_	
+4-2	244-248	soll	_	
+4-3	249-252	die	_	
+4-4	253-263	gesicherte	_	
+4-5	264-268	Bike	_	
+4-6	268-269	/	_	
+4-7	270-276	E-Bike	_	
+4-8	277-278	-	_	
+4-9	279-286	Nutzung	_	
+4-10	287-289	in	_	
+4-11	290-297	Zukunft	_	
+4-12	298-302	eine	_	
+4-13	303-308	große	_	
+4-14	309-314	Rolle	_	
+4-15	315-322	spielen	_	
+4-16	322-323	.	_	
+
+#Text=Ab Venusberg schließen zudem eine Vielzahl von Freizeitradwegen u.a. in das Naturschutzgebiet Kottenforst etc. an.
+5-1	324-326	Ab	*[8]	
+5-2	327-336	Venusberg	*[8]	
+5-3	337-346	schließen	_	
+5-4	347-352	zudem	_	
+5-5	353-357	eine	_	
+5-6	358-366	Vielzahl	_	
+5-7	367-370	von	_	
+5-8	371-387	Freizeitradwegen	_	
+5-9	388-391	u.a	_	
+5-10	391-392	.	_	
+5-11	393-395	in	*[9]	
+5-12	396-399	das	*[9]	
+5-13	400-417	Naturschutzgebiet	*[9]	
+5-14	418-429	Kottenforst	*[9]	
+5-15	430-433	etc	_	
+5-16	433-434	.	_	
+5-17	435-437	an	_	
+5-18	437-438	.	_	

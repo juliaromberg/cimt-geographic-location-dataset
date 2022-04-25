@@ -1,0 +1,148 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ausleuchtung des Radweges unter der Nordbrücke
+1-1	0-12	Ausleuchtung	_	
+1-2	13-16	des	_	
+1-3	17-25	Radweges	_	
+1-4	26-31	unter	*[9]	
+1-5	32-35	der	*[9]	
+1-6	36-46	Nordbrücke	*[9]	
+
+#Text=Ich nutze gerne das Rad für meinen Arbeitsweg von Niederkassel nach Bonn, Graurheindorfer Straße.
+2-1	49-52	Ich	_	
+2-2	53-58	nutze	_	
+2-3	59-64	gerne	_	
+2-4	65-68	das	_	
+2-5	69-72	Rad	_	
+2-6	73-76	für	_	
+2-7	77-83	meinen	_	
+2-8	84-94	Arbeitsweg	_	
+2-9	95-98	von	*[10]	
+2-10	99-111	Niederkassel	*[10]	
+2-11	112-116	nach	*[10]	
+2-12	117-121	Bonn	*[10]	
+2-13	121-122	,	*[10]	
+2-14	123-138	Graurheindorfer	*[10]	
+2-15	139-145	Straße	*[10]	
+2-16	145-146	.	_	
+
+#Text=Dabei muss ich den Rhein über die Nordbrücke überqueren.
+3-1	147-152	Dabei	_	
+3-2	153-157	muss	_	
+3-3	158-161	ich	_	
+3-4	162-165	den	*[11]	
+3-5	166-171	Rhein	*[11]	
+3-6	172-176	über	*[11]	
+3-7	177-180	die	*[11]	
+3-8	181-191	Nordbrücke	*[11]	
+3-9	192-202	überqueren	*[11]	
+3-10	202-203	.	_	
+
+#Text=Der Zubringerweg von der Ampelanlage bis zur Nordbrücke ist zwar toll ausgebaut worden, jedoch ist es in der dunklen Jahreszeit dort sehr dunkel und als Frau habe ich hier Angst.
+4-1	204-207	Der	*[12]	
+4-2	208-220	Zubringerweg	*[12]	
+4-3	221-224	von	*[12]	
+4-4	225-228	der	*[12]	
+4-5	229-240	Ampelanlage	*[12]	
+4-6	241-244	bis	*[12]	
+4-7	245-248	zur	*[12]	
+4-8	249-259	Nordbrücke	*[12]	
+4-9	260-263	ist	_	
+4-10	264-268	zwar	_	
+4-11	269-273	toll	_	
+4-12	274-283	ausgebaut	_	
+4-13	284-290	worden	_	
+4-14	290-291	,	_	
+4-15	292-298	jedoch	_	
+4-16	299-302	ist	_	
+4-17	303-305	es	_	
+4-18	306-308	in	_	
+4-19	309-312	der	_	
+4-20	313-320	dunklen	_	
+4-21	321-331	Jahreszeit	_	
+4-22	332-336	dort	_	
+4-23	337-341	sehr	_	
+4-24	342-348	dunkel	_	
+4-25	349-352	und	_	
+4-26	353-356	als	_	
+4-27	357-361	Frau	_	
+4-28	362-366	habe	_	
+4-29	367-370	ich	_	
+4-30	371-375	hier	_	
+4-31	376-381	Angst	_	
+4-32	381-382	.	_	
+
+#Text=Besonders die Stelle, wenn man unter der Brücke herfahren muss, ist schon ziemlich unheimlich.
+5-1	383-392	Besonders	_	
+5-2	393-396	die	_	
+5-3	397-403	Stelle	_	
+5-4	403-404	,	_	
+5-5	405-409	wenn	_	
+5-6	410-413	man	_	
+5-7	414-419	unter	_	
+5-8	420-423	der	_	
+5-9	424-430	Brücke	_	
+5-10	431-440	herfahren	_	
+5-11	441-445	muss	_	
+5-12	445-446	,	_	
+5-13	447-450	ist	_	
+5-14	451-456	schon	_	
+5-15	457-465	ziemlich	_	
+5-16	466-476	unheimlich	_	
+5-17	476-477	.	_	
+
+#Text=Hier wäre ich für eine gute Ausleuchtung sehr dankbar.
+6-1	478-482	Hier	_	
+6-2	483-487	wäre	_	
+6-3	488-491	ich	_	
+6-4	492-495	für	_	
+6-5	496-500	eine	_	
+6-6	501-505	gute	_	
+6-7	506-518	Ausleuchtung	_	
+6-8	519-523	sehr	_	
+6-9	524-531	dankbar	_	
+6-10	531-532	.	_	
+
+#Text=Dies würde auch mögliche Unfallquellen (z.B. Kreuzen von Radfahrern beim Befahren / Verlassen der Brücke) vermindern.
+7-1	533-537	Dies	_	
+7-2	538-543	würde	_	
+7-3	544-548	auch	_	
+7-4	549-557	mögliche	_	
+7-5	558-571	Unfallquellen	_	
+7-6	572-573	(	_	
+7-7	573-576	z.B	_	
+7-8	576-577	.	_	
+7-9	578-585	Kreuzen	_	
+7-10	586-589	von	_	
+7-11	590-600	Radfahrern	_	
+7-12	601-605	beim	_	
+7-13	606-614	Befahren	_	
+7-14	615-616	/	_	
+7-15	617-626	Verlassen	_	
+7-16	627-630	der	_	
+7-17	631-637	Brücke	_	
+7-18	637-638	)	_	
+7-19	639-649	vermindern	_	
+7-20	649-650	.	_	
+
+#Text=Dann würde ich auch in der dunklen Jahreszeit mein Rad für den Arbeitsweg nutzen können.
+8-1	651-655	Dann	_	
+8-2	656-661	würde	_	
+8-3	662-665	ich	_	
+8-4	666-670	auch	_	
+8-5	671-673	in	_	
+8-6	674-677	der	_	
+8-7	678-685	dunklen	_	
+8-8	686-696	Jahreszeit	_	
+8-9	697-701	mein	_	
+8-10	702-705	Rad	_	
+8-11	706-709	für	_	
+8-12	710-713	den	_	
+8-13	714-724	Arbeitsweg	_	
+8-14	725-731	nutzen	_	
+8-15	732-738	können	_	
+8-16	738-739	.	_	

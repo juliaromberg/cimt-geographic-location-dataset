@@ -1,0 +1,175 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Aufstellfläche Radfahrer oder mehr Platz statt parkender Autos
+1-1	0-14	Aufstellfläche	_	
+1-2	15-24	Radfahrer	_	
+1-3	25-29	oder	_	
+1-4	30-34	mehr	_	
+1-5	35-40	Platz	_	
+1-6	41-46	statt	_	
+1-7	47-56	parkender	_	
+1-8	57-62	Autos	_	
+
+#Text=Ich schlage vor, an dieser Stelle (Leyendeckerstraße Ecke Subbelrather Straße) eine Aufstellfläche für Radfahrer zu schaffen.
+2-1	65-68	Ich	_	
+2-2	69-76	schlage	_	
+2-3	77-80	vor	_	
+2-4	80-81	,	_	
+2-5	82-84	an	_	
+2-6	85-91	dieser	_	
+2-7	92-98	Stelle	_	
+2-8	99-100	(	_	
+2-9	100-117	Leyendeckerstraße	*[9]	
+2-10	118-122	Ecke	*[9]	
+2-11	123-135	Subbelrather	*[9]	
+2-12	136-142	Straße	*[9]	
+2-13	142-143	)	*[9]	
+2-14	144-148	eine	_	
+2-15	149-163	Aufstellfläche	_	
+2-16	164-167	für	_	
+2-17	168-177	Radfahrer	_	
+2-18	178-180	zu	_	
+2-19	181-189	schaffen	_	
+2-20	189-190	.	_	
+
+#Text=Der Vorschlag wurde wohl bereits geprüft, das Amt für Straßen- und Verkehr hielt den Vorschlag aber nicht für umsetzbar.
+3-1	191-194	Der	_	
+3-2	195-204	Vorschlag	_	
+3-3	205-210	wurde	_	
+3-4	211-215	wohl	_	
+3-5	216-223	bereits	_	
+3-6	224-231	geprüft	_	
+3-7	231-232	,	_	
+3-8	233-236	das	_	
+3-9	237-240	Amt	_	
+3-10	241-244	für	_	
+3-11	245-252	Straßen	_	
+3-12	252-253	-	_	
+3-13	254-257	und	_	
+3-14	258-265	Verkehr	_	
+3-15	266-271	hielt	_	
+3-16	272-275	den	_	
+3-17	276-285	Vorschlag	_	
+3-18	286-290	aber	_	
+3-19	291-296	nicht	_	
+3-20	297-300	für	_	
+3-21	301-310	umsetzbar	_	
+3-22	310-311	.	_	
+
+#Text=Vielleicht ja jetzt im Rahmen des Radwegekonzeptes für Ehrenfeld?
+4-1	312-322	Vielleicht	_	
+4-2	323-325	ja	_	
+4-3	326-331	jetzt	_	
+4-4	332-334	im	_	
+4-5	335-341	Rahmen	_	
+4-6	342-345	des	_	
+4-7	346-362	Radwegekonzeptes	_	
+4-8	363-366	für	_	
+4-9	367-376	Ehrenfeld	*	
+4-10	376-377	?	_	
+
+#Text=Da die Autos auf der rechten Seite regelmäßig bis an den Ampelmast parken und man als Radfahrer bei viel Verkehr hinter den PKWs im Stau steht und nicht vorbei kann, halte ich die Aufstellfläche dennoch für sinnvoll.
+5-1	378-380	Da	_	
+5-2	381-384	die	_	
+5-3	385-390	Autos	_	
+5-4	391-394	auf	_	
+5-5	395-398	der	_	
+5-6	399-406	rechten	_	
+5-7	407-412	Seite	_	
+5-8	413-423	regelmäßig	_	
+5-9	424-427	bis	_	
+5-10	428-430	an	_	
+5-11	431-434	den	_	
+5-12	435-444	Ampelmast	_	
+5-13	445-451	parken	_	
+5-14	452-455	und	_	
+5-15	456-459	man	_	
+5-16	460-463	als	_	
+5-17	464-473	Radfahrer	_	
+5-18	474-477	bei	_	
+5-19	478-482	viel	_	
+5-20	483-490	Verkehr	_	
+5-21	491-497	hinter	_	
+5-22	498-501	den	_	
+5-23	502-506	PKWs	_	
+5-24	507-509	im	_	
+5-25	510-514	Stau	_	
+5-26	515-520	steht	_	
+5-27	521-524	und	_	
+5-28	525-530	nicht	_	
+5-29	531-537	vorbei	_	
+5-30	538-542	kann	_	
+5-31	542-543	,	_	
+5-32	544-549	halte	_	
+5-33	550-553	ich	_	
+5-34	554-557	die	_	
+5-35	558-572	Aufstellfläche	_	
+5-36	573-580	dennoch	_	
+5-37	581-584	für	_	
+5-38	585-593	sinnvoll	_	
+5-39	593-594	.	_	
+
+#Text=Alternativ könnte man zumindest an der Ampel zwei oder drei PKW-Stellplätze weg fallen lassen.
+6-1	595-605	Alternativ	_	
+6-2	606-612	könnte	_	
+6-3	613-616	man	_	
+6-4	617-626	zumindest	_	
+6-5	627-629	an	_	
+6-6	630-633	der	_	
+6-7	634-639	Ampel	_	
+6-8	640-644	zwei	_	
+6-9	645-649	oder	_	
+6-10	650-654	drei	_	
+6-11	655-670	PKW-Stellplätze	_	
+6-12	671-674	weg	_	
+6-13	675-681	fallen	_	
+6-14	682-688	lassen	_	
+6-15	688-689	.	_	
+
+#Text=Ansonsten bietet sich auch der Rechts-Abbiege-Pfeil für Radfahrer an, aber wiegesagt, käme man im Berufsverkehr nicht vom Ende der PKW-Schlange zum Pfeil...
+7-1	690-699	Ansonsten	_	
+7-2	700-706	bietet	_	
+7-3	707-711	sich	_	
+7-4	712-716	auch	_	
+7-5	717-720	der	_	
+7-6	721-741	Rechts-Abbiege-Pfeil	_	
+7-7	742-745	für	_	
+7-8	746-755	Radfahrer	_	
+7-9	756-758	an	_	
+7-10	758-759	,	_	
+7-11	760-764	aber	_	
+7-12	765-774	wiegesagt	_	
+7-13	774-775	,	_	
+7-14	776-780	käme	_	
+7-15	781-784	man	_	
+7-16	785-787	im	_	
+7-17	788-801	Berufsverkehr	_	
+7-18	802-807	nicht	_	
+7-19	808-811	vom	_	
+7-20	812-816	Ende	_	
+7-21	817-820	der	_	
+7-22	821-833	PKW-Schlange	_	
+7-23	834-837	zum	_	
+7-24	838-843	Pfeil	_	
+7-25	843-844	.	_	
+7-26	844-845	.	_	
+7-27	845-846	.	_	
+
+#Text=Ich finde jedenfalls, diese Stelle der Kreuzung hat Verbesserungsbedarf...
+8-1	847-850	Ich	_	
+8-2	851-856	finde	_	
+8-3	857-867	jedenfalls	_	
+8-4	867-868	,	_	
+8-5	869-874	diese	_	
+8-6	875-881	Stelle	_	
+8-7	882-885	der	_	
+8-8	886-894	Kreuzung	_	
+8-9	895-898	hat	_	
+8-10	899-918	Verbesserungsbedarf	_	
+8-11	918-919	.	_	
+8-12	919-920	.	_	
+8-13	920-921	.	_	

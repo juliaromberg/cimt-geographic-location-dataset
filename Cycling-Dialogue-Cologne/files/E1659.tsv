@@ -1,0 +1,134 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ladezonen
+1-1	0-9	Ladezonen	_	
+
+#Text=Es sollte darüber nachgedacht werden, ob in ganz Ehrenfeld (eigentlich in der ganzen Stadt) Ladezonen für Paketdienste eingerichtet werden.
+2-1	12-14	Es	_	
+2-2	15-21	sollte	_	
+2-3	22-29	darüber	_	
+2-4	30-41	nachgedacht	_	
+2-5	42-48	werden	_	
+2-6	48-49	,	_	
+2-7	50-52	ob	_	
+2-8	53-55	in	*[6]	
+2-9	56-60	ganz	*[6]	
+2-10	61-70	Ehrenfeld	*[6]	
+2-11	71-72	(	_	
+2-12	72-82	eigentlich	_	
+2-13	83-85	in	_	
+2-14	86-89	der	_	
+2-15	90-96	ganzen	_	
+2-16	97-102	Stadt	_	
+2-17	102-103	)	_	
+2-18	104-113	Ladezonen	_	
+2-19	114-117	für	_	
+2-20	118-130	Paketdienste	_	
+2-21	131-143	eingerichtet	_	
+2-22	144-150	werden	_	
+2-23	150-151	.	_	
+
+#Text=Niemand kann bestreiten, dass der Lieferverkehr für Privathaushalte durch Paket-, Pizza und andere Bringdienste in den letzten Jahren stark zugenommen hat und in Zukunft weiter zunehmen wird.
+3-1	152-159	Niemand	_	
+3-2	160-164	kann	_	
+3-3	165-175	bestreiten	_	
+3-4	175-176	,	_	
+3-5	177-181	dass	_	
+3-6	182-185	der	_	
+3-7	186-199	Lieferverkehr	_	
+3-8	200-203	für	_	
+3-9	204-219	Privathaushalte	_	
+3-10	220-225	durch	_	
+3-11	226-231	Paket	_	
+3-12	231-232	-	_	
+3-13	232-233	,	_	
+3-14	234-239	Pizza	_	
+3-15	240-243	und	_	
+3-16	244-250	andere	_	
+3-17	251-263	Bringdienste	_	
+3-18	264-266	in	_	
+3-19	267-270	den	_	
+3-20	271-278	letzten	_	
+3-21	279-285	Jahren	_	
+3-22	286-291	stark	_	
+3-23	292-302	zugenommen	_	
+3-24	303-306	hat	_	
+3-25	307-310	und	_	
+3-26	311-313	in	_	
+3-27	314-321	Zukunft	_	
+3-28	322-328	weiter	_	
+3-29	329-337	zunehmen	_	
+3-30	338-342	wird	_	
+3-31	342-343	.	_	
+
+#Text=Den FahrerInnen der entsprechenden Transporter vorzuwerfen, dass sie widerrechtlich Kreuzungen, Fuß- und Radwege zuparken, greift aber zu kurz.
+4-1	344-347	Den	_	
+4-2	348-359	FahrerInnen	_	
+4-3	360-363	der	_	
+4-4	364-378	entsprechenden	_	
+4-5	379-390	Transporter	_	
+4-6	391-402	vorzuwerfen	_	
+4-7	402-403	,	_	
+4-8	404-408	dass	_	
+4-9	409-412	sie	_	
+4-10	413-427	widerrechtlich	_	
+4-11	428-438	Kreuzungen	_	
+4-12	438-439	,	_	
+4-13	440-443	Fuß	_	
+4-14	443-444	-	_	
+4-15	445-448	und	_	
+4-16	449-456	Radwege	_	
+4-17	457-465	zuparken	_	
+4-18	465-466	,	_	
+4-19	467-473	greift	_	
+4-20	474-478	aber	_	
+4-21	479-481	zu	_	
+4-22	482-486	kurz	_	
+4-23	486-487	.	_	
+
+#Text=Es ist schlicht unmöglich, an jeder Ecke einen freien Parkplatz zu finden.
+5-1	488-490	Es	_	
+5-2	491-494	ist	_	
+5-3	495-503	schlicht	_	
+5-4	504-513	unmöglich	_	
+5-5	513-514	,	_	
+5-6	515-517	an	_	
+5-7	518-523	jeder	_	
+5-8	524-528	Ecke	_	
+5-9	529-534	einen	_	
+5-10	535-541	freien	_	
+5-11	542-551	Parkplatz	_	
+5-12	552-554	zu	_	
+5-13	555-561	finden	_	
+5-14	561-562	.	_	
+
+#Text=Deshalb ist es notwendig in regelmäßigen Abständen fixe Ladezonen einzurichten, die von Bringdiensten zur weiteren Auslieferung per Sackkarre o.ä. benutzt werden können.
+6-1	563-570	Deshalb	_	
+6-2	571-574	ist	_	
+6-3	575-577	es	_	
+6-4	578-587	notwendig	_	
+6-5	588-590	in	_	
+6-6	591-603	regelmäßigen	_	
+6-7	604-613	Abständen	_	
+6-8	614-618	fixe	_	
+6-9	619-628	Ladezonen	_	
+6-10	629-641	einzurichten	_	
+6-11	641-642	,	_	
+6-12	643-646	die	_	
+6-13	647-650	von	_	
+6-14	651-664	Bringdiensten	_	
+6-15	665-668	zur	_	
+6-16	669-677	weiteren	_	
+6-17	678-690	Auslieferung	_	
+6-18	691-694	per	_	
+6-19	695-704	Sackkarre	_	
+6-20	705-708	o.ä	_	
+6-21	708-709	.	_	
+6-22	710-717	benutzt	_	
+6-23	718-724	werden	_	
+6-24	725-731	können	_	
+6-25	731-732	.	_	

@@ -1,0 +1,80 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrbanhnunebenheiten
+1-1	0-21	Fahrbanhnunebenheiten	_	
+
+#Text=Ich bin ein Pendler, der nahezu täglich mit dem Rad zwischen Köln und Bonn pendelt.
+2-1	24-27	Ich	_	
+2-2	28-31	bin	_	
+2-3	32-35	ein	_	
+2-4	36-43	Pendler	_	
+2-5	43-44	,	_	
+2-6	45-48	der	_	
+2-7	49-55	nahezu	_	
+2-8	56-63	täglich	_	
+2-9	64-67	mit	_	
+2-10	68-71	dem	_	
+2-11	72-75	Rad	_	
+2-12	76-84	zwischen	*[6]	
+2-13	85-89	Köln	*[6]	
+2-14	90-93	und	*[6]	
+2-15	94-98	Bonn	*[6]	
+2-16	99-106	pendelt	_	
+2-17	106-107	.	_	
+
+#Text=Auf dem Weg fallen viele Stellen auf, Änderungs- bzw. Verbesserungsbedarf haben.
+3-1	108-111	Auf	_	
+3-2	112-115	dem	_	
+3-3	116-119	Weg	_	
+3-4	120-126	fallen	_	
+3-5	127-132	viele	_	
+3-6	133-140	Stellen	_	
+3-7	141-144	auf	_	
+3-8	144-145	,	_	
+3-9	146-155	Änderungs	_	
+3-10	155-156	-	_	
+3-11	157-160	bzw	_	
+3-12	160-161	.	_	
+3-13	162-181	Verbesserungsbedarf	_	
+3-14	182-187	haben	_	
+3-15	187-188	.	_	
+
+#Text=Ich versuche einige Stellen zu beschreiben.
+4-1	189-192	Ich	_	
+4-2	193-201	versuche	_	
+4-3	202-208	einige	_	
+4-4	209-216	Stellen	_	
+4-5	217-219	zu	_	
+4-6	220-231	beschreiben	_	
+4-7	231-232	.	_	
+
+#Text=An der Stelle ist der Asphalt mehrfach geöffnet worden und nicht wieder auf gleichem Niveau verschlossen worden.
+5-1	233-235	An	_	
+5-2	236-239	der	_	
+5-3	240-246	Stelle	_	
+5-4	247-250	ist	_	
+5-5	251-254	der	_	
+5-6	255-262	Asphalt	_	
+5-7	263-271	mehrfach	_	
+5-8	272-280	geöffnet	_	
+5-9	281-287	worden	_	
+5-10	288-291	und	_	
+5-11	292-297	nicht	_	
+5-12	298-304	wieder	_	
+5-13	305-308	auf	_	
+5-14	309-317	gleichem	_	
+5-15	318-324	Niveau	_	
+5-16	325-337	verschlossen	_	
+5-17	338-344	worden	_	
+5-18	344-345	.	_	
+
+#Text=Eine Fahrbahnreperatur wäre wünschenswert.
+6-1	346-350	Eine	_	
+6-2	351-368	Fahrbahnreperatur	_	
+6-3	369-373	wäre	_	
+6-4	374-387	wünschenswert	_	
+6-5	387-388	.	_	

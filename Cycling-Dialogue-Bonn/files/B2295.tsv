@@ -1,0 +1,96 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wartende Fußgänger am Bahnübergang
+1-1	0-8	Wartende	_	
+1-2	9-18	Fußgänger	_	
+1-3	19-21	am	_	
+1-4	22-34	Bahnübergang	_	
+
+#Text=Die Markierungen im Boden an denen die Fußgänger vor dem Bahnübergang stehen bleiben sollen, befinden sich mitten auf dem bahnparallelen Radweg.
+2-1	37-40	Die	_	
+2-2	41-53	Markierungen	_	
+2-3	54-56	im	_	
+2-4	57-62	Boden	_	
+2-5	63-65	an	_	
+2-6	66-71	denen	_	
+2-7	72-75	die	_	
+2-8	76-85	Fußgänger	_	
+2-9	86-89	vor	_	
+2-10	90-93	dem	_	
+2-11	94-106	Bahnübergang	_	
+2-12	107-113	stehen	_	
+2-13	114-121	bleiben	_	
+2-14	122-128	sollen	_	
+2-15	128-129	,	_	
+2-16	130-138	befinden	_	
+2-17	139-143	sich	_	
+2-18	144-150	mitten	_	
+2-19	151-154	auf	_	
+2-20	155-158	dem	_	
+2-21	159-173	bahnparallelen	_	
+2-22	174-180	Radweg	_	
+2-23	180-181	.	_	
+
+#Text=Das führt dazu, dass bei geschlossenen Schranken oft mehrere Menschen mitten auf dem Radweg stehen und diesen blockieren.
+3-1	182-185	Das	_	
+3-2	186-191	führt	_	
+3-3	192-196	dazu	_	
+3-4	196-197	,	_	
+3-5	198-202	dass	_	
+3-6	203-206	bei	_	
+3-7	207-220	geschlossenen	_	
+3-8	221-230	Schranken	_	
+3-9	231-234	oft	_	
+3-10	235-242	mehrere	_	
+3-11	243-251	Menschen	_	
+3-12	252-258	mitten	_	
+3-13	259-262	auf	_	
+3-14	263-266	dem	_	
+3-15	267-273	Radweg	_	
+3-16	274-280	stehen	_	
+3-17	281-284	und	_	
+3-18	285-291	diesen	_	
+3-19	292-302	blockieren	_	
+3-20	302-303	.	_	
+
+#Text=Die Haltelinie sollte 2 Meter nach vorne (Richtung Basecamp) gezogen werden und der Radweg farblich auf dem Boden markiert werden, damit ersichtlich ist, dass auch bei geschlossener Schranke dort Radverkehr kreuzt.
+4-1	304-307	Die	_	
+4-2	308-318	Haltelinie	_	
+4-3	319-325	sollte	_	
+4-4	326-327	2	_	
+4-5	328-333	Meter	_	
+4-6	334-338	nach	_	
+4-7	339-344	vorne	_	
+4-8	345-346	(	_	
+4-9	346-354	Richtung	*[5]	
+4-10	355-363	Basecamp	*[5]	
+4-11	363-364	)	_	
+4-12	365-372	gezogen	_	
+4-13	373-379	werden	_	
+4-14	380-383	und	_	
+4-15	384-387	der	_	
+4-16	388-394	Radweg	_	
+4-17	395-403	farblich	_	
+4-18	404-407	auf	_	
+4-19	408-411	dem	_	
+4-20	412-417	Boden	_	
+4-21	418-426	markiert	_	
+4-22	427-433	werden	_	
+4-23	433-434	,	_	
+4-24	435-440	damit	_	
+4-25	441-452	ersichtlich	_	
+4-26	453-456	ist	_	
+4-27	456-457	,	_	
+4-28	458-462	dass	_	
+4-29	463-467	auch	_	
+4-30	468-471	bei	_	
+4-31	472-485	geschlossener	_	
+4-32	486-494	Schranke	_	
+4-33	495-499	dort	_	
+4-34	500-510	Radverkehr	_	
+4-35	511-517	kreuzt	_	
+4-36	517-518	.	_	

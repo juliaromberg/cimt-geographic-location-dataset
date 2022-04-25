@@ -1,0 +1,140 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gemeinsame Nutzung unsinnig.
+1-1	0-10	Gemeinsame	_	
+1-2	11-18	Nutzung	_	
+1-3	19-27	unsinnig	_	
+1-4	27-28	.	_	
+
+#Text=Die gemeinsame Nutzung der Wege von Fußgängern und Radfahrern auf der Von-Hünefeld-Straße ist unsinnig, da es für beide Gruppen zu einem Slalomlauf wird.
+2-1	31-34	Die	_	
+2-2	35-45	gemeinsame	_	
+2-3	46-53	Nutzung	_	
+2-4	54-57	der	_	
+2-5	58-62	Wege	_	
+2-6	63-66	von	_	
+2-7	67-77	Fußgängern	_	
+2-8	78-81	und	_	
+2-9	82-92	Radfahrern	_	
+2-10	93-96	auf	*[8]	
+2-11	97-100	der	*[8]	
+2-12	101-120	Von-Hünefeld-Straße	*[8]	
+2-13	121-124	ist	_	
+2-14	125-133	unsinnig	_	
+2-15	133-134	,	_	
+2-16	135-137	da	_	
+2-17	138-140	es	_	
+2-18	141-144	für	_	
+2-19	145-150	beide	_	
+2-20	151-158	Gruppen	_	
+2-21	159-161	zu	_	
+2-22	162-167	einem	_	
+2-23	168-178	Slalomlauf	_	
+2-24	179-183	wird	_	
+2-25	183-184	.	_	
+
+#Text=Gerade Pendler möchten sich mit höherer Geschwindigkeit in dem Gewerbegebiet zur ARbeit bewegen.
+3-1	185-191	Gerade	_	
+3-2	192-199	Pendler	_	
+3-3	200-207	möchten	_	
+3-4	208-212	sich	_	
+3-5	213-216	mit	_	
+3-6	217-224	höherer	_	
+3-7	225-240	Geschwindigkeit	_	
+3-8	241-243	in	_	
+3-9	244-247	dem	_	
+3-10	248-261	Gewerbegebiet	_	
+3-11	262-265	zur	_	
+3-12	266-272	ARbeit	_	
+3-13	273-280	bewegen	_	
+3-14	280-281	.	_	
+
+#Text=Dies wird durch Fußgänger ausbremst und führt zwangsläufig zu Problemen.
+4-1	282-286	Dies	_	
+4-2	287-291	wird	_	
+4-3	292-297	durch	_	
+4-4	298-307	Fußgänger	_	
+4-5	308-317	ausbremst	_	
+4-6	318-321	und	_	
+4-7	322-327	führt	_	
+4-8	328-340	zwangsläufig	_	
+4-9	341-343	zu	_	
+4-10	344-353	Problemen	_	
+4-11	353-354	.	_	
+
+#Text=Zudem ist Nutzung des Weges auf der stadtauswärts gerichteten Seite für Fahrradfahrer sehr gefährlich.
+5-1	355-360	Zudem	_	
+5-2	361-364	ist	_	
+5-3	365-372	Nutzung	_	
+5-4	373-376	des	_	
+5-5	377-382	Weges	_	
+5-6	383-386	auf	_	
+5-7	387-390	der	_	
+5-8	391-404	stadtauswärts	_	
+5-9	405-416	gerichteten	_	
+5-10	417-422	Seite	_	
+5-11	423-426	für	_	
+5-12	427-440	Fahrradfahrer	_	
+5-13	441-445	sehr	_	
+5-14	446-456	gefährlich	_	
+5-15	456-457	.	_	
+
+#Text=Der Weg dort ist zu schmal für eine gemeinsame Nutzung, der Randbereich ist immer von Autos zu geparkt, was dazu führt, dass Radfahrer übersehen werden.
+6-1	458-461	Der	_	
+6-2	462-465	Weg	_	
+6-3	466-470	dort	_	
+6-4	471-474	ist	_	
+6-5	475-477	zu	_	
+6-6	478-484	schmal	_	
+6-7	485-488	für	_	
+6-8	489-493	eine	_	
+6-9	494-504	gemeinsame	_	
+6-10	505-512	Nutzung	_	
+6-11	512-513	,	_	
+6-12	514-517	der	_	
+6-13	518-529	Randbereich	_	
+6-14	530-533	ist	_	
+6-15	534-539	immer	_	
+6-16	540-543	von	_	
+6-17	544-549	Autos	_	
+6-18	550-552	zu	_	
+6-19	553-560	geparkt	_	
+6-20	560-561	,	_	
+6-21	562-565	was	_	
+6-22	566-570	dazu	_	
+6-23	571-576	führt	_	
+6-24	576-577	,	_	
+6-25	578-582	dass	_	
+6-26	583-592	Radfahrer	_	
+6-27	593-602	übersehen	_	
+6-28	603-609	werden	_	
+6-29	609-610	.	_	
+
+#Text=Besonders an den Ampeln kommt es häufig zu gefährlichen Situationen, da LKWs und PKWs Radfahrer nicht sehen und/oder ignorieren.
+7-1	611-620	Besonders	_	
+7-2	621-623	an	_	
+7-3	624-627	den	_	
+7-4	628-634	Ampeln	_	
+7-5	635-640	kommt	_	
+7-6	641-643	es	_	
+7-7	644-650	häufig	_	
+7-8	651-653	zu	_	
+7-9	654-666	gefährlichen	_	
+7-10	667-678	Situationen	_	
+7-11	678-679	,	_	
+7-12	680-682	da	_	
+7-13	683-687	LKWs	_	
+7-14	688-691	und	_	
+7-15	692-696	PKWs	_	
+7-16	697-706	Radfahrer	_	
+7-17	707-712	nicht	_	
+7-18	713-718	sehen	_	
+7-19	719-722	und	_	
+7-20	722-723	/	_	
+7-21	723-727	oder	_	
+7-22	728-738	ignorieren	_	
+7-23	738-739	.	_	

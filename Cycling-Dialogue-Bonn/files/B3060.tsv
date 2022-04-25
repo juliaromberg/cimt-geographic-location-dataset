@@ -1,0 +1,85 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg?
+1-1	0-6	Radweg	_	
+1-2	6-7	?	_	
+
+#Text=Wenn man von auswärts kommend die Marienforster Straße befährt, ist es üblich, dass Radfahrer auch stadtein auf dem kombinierten Rad-/Fußweg fahren (nicht ideal, aber immer noch besser, als auf der Fahrbahn bei starkem Verkehr).
+2-1	10-14	Wenn	_	
+2-2	15-18	man	_	
+2-3	19-22	von	*[5]	
+2-4	23-31	auswärts	*[5]	
+2-5	32-39	kommend	*[5]	
+2-6	40-43	die	*[5]	
+2-7	44-57	Marienforster	*[5]	
+2-8	58-64	Straße	*[5]	
+2-9	65-72	befährt	_	
+2-10	72-73	,	_	
+2-11	74-77	ist	_	
+2-12	78-80	es	_	
+2-13	81-87	üblich	_	
+2-14	87-88	,	_	
+2-15	89-93	dass	_	
+2-16	94-103	Radfahrer	_	
+2-17	104-108	auch	_	
+2-18	109-117	stadtein	_	
+2-19	118-121	auf	_	
+2-20	122-125	dem	_	
+2-21	126-138	kombinierten	_	
+2-22	139-142	Rad	_	
+2-23	142-143	-	_	
+2-24	143-144	/	_	
+2-25	144-150	Fußweg	_	
+2-26	151-157	fahren	_	
+2-27	158-159	(	_	
+2-28	159-164	nicht	_	
+2-29	165-170	ideal	_	
+2-30	170-171	,	_	
+2-31	172-176	aber	_	
+2-32	177-182	immer	_	
+2-33	183-187	noch	_	
+2-34	188-194	besser	_	
+2-35	194-195	,	_	
+2-36	196-199	als	_	
+2-37	200-203	auf	_	
+2-38	204-207	der	_	
+2-39	208-216	Fahrbahn	_	
+2-40	217-220	bei	_	
+2-41	221-228	starkem	_	
+2-42	229-236	Verkehr	_	
+2-43	236-237	)	_	
+2-44	237-238	.	_	
+
+#Text=Erreicht man dann die Kreuzung Quellenstraße, steht man jedoch vor einem Rätsel, wie es eigentlich weitergehen soll.
+3-1	239-247	Erreicht	_	
+3-2	248-251	man	_	
+3-3	252-256	dann	_	
+3-4	257-260	die	*[6]	
+3-5	261-269	Kreuzung	*[6]	
+3-6	270-283	Quellenstraße	*[6]	
+3-7	283-284	,	_	
+3-8	285-290	steht	_	
+3-9	291-294	man	_	
+3-10	295-301	jedoch	_	
+3-11	302-305	vor	_	
+3-12	306-311	einem	_	
+3-13	312-318	Rätsel	_	
+3-14	318-319	,	_	
+3-15	320-323	wie	_	
+3-16	324-326	es	_	
+3-17	327-337	eigentlich	_	
+3-18	338-349	weitergehen	_	
+3-19	350-354	soll	_	
+3-20	354-355	.	_	
+
+#Text=Klärung ist hier dringend erforderlich.
+4-1	356-363	Klärung	_	
+4-2	364-367	ist	_	
+4-3	368-372	hier	_	
+4-4	373-381	dringend	_	
+4-5	382-394	erforderlich	_	
+4-6	394-395	.	_	

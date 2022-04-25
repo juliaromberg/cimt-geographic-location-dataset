@@ -1,0 +1,27 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlender Hinweis auf Zweirichtungsverkehr
+1-1	0-9	Fehlender	_	
+1-2	10-17	Hinweis	_	
+1-3	18-21	auf	_	
+1-4	22-42	Zweirichtungsverkehr	_	
+
+#Text=Häufige Vorfahrtsverstöße, Hinweis auf Zweirichtungsverkehr (Zeichen 1000-32) fehlt.
+2-1	45-52	Häufige	_	
+2-2	53-70	Vorfahrtsverstöße	_	
+2-3	70-71	,	_	
+2-4	72-79	Hinweis	_	
+2-5	80-83	auf	_	
+2-6	84-104	Zweirichtungsverkehr	_	
+2-7	105-106	(	_	
+2-8	106-113	Zeichen	_	
+2-9	114-118	1000	_	
+2-10	118-119	-	_	
+2-11	119-121	32	_	
+2-12	121-122	)	_	
+2-13	123-128	fehlt	_	
+2-14	128-129	.	_	

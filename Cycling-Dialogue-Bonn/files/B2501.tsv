@@ -1,0 +1,67 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=1)Von 2 Spurig mit getrenntem Fahrradweg auf 1-Spurig zusammen mit Autos, die fahren oder am Strassenrand stehen, während auf der Gegenseite Parkverbot, Fahrradweg und Fussgängerbereich sind.
+1-1	0-1	1	_	
+1-2	1-2	)	_	
+1-3	2-5	Von	_	
+1-4	6-7	2	_	
+1-5	8-14	Spurig	_	
+1-6	15-18	mit	_	
+1-7	19-29	getrenntem	_	
+1-8	30-40	Fahrradweg	_	
+1-9	41-44	auf	_	
+1-10	45-46	1	_	
+1-11	46-47	-	_	
+1-12	47-53	Spurig	_	
+1-13	54-62	zusammen	_	
+1-14	63-66	mit	_	
+1-15	67-72	Autos	_	
+1-16	72-73	,	_	
+1-17	74-77	die	_	
+1-18	78-84	fahren	_	
+1-19	85-89	oder	_	
+1-20	90-92	am	_	
+1-21	93-105	Strassenrand	_	
+1-22	106-112	stehen	_	
+1-23	112-113	,	_	
+1-24	114-121	während	_	
+1-25	122-125	auf	_	
+1-26	126-129	der	_	
+1-27	130-140	Gegenseite	_	
+1-28	141-151	Parkverbot	_	
+1-29	151-152	,	_	
+1-30	153-163	Fahrradweg	_	
+1-31	164-167	und	_	
+1-32	168-185	Fussgängerbereich	_	
+1-33	186-190	sind	_	
+1-34	190-191	.	_	
+
+#Text=Hirn könnte man entweder den aus der Stadt kommenden Radweg auch in Gegenrichtung freigeben, oder die Autos auf der anderen Seite verbannen.
+2-1	194-198	Hirn	_	
+2-2	199-205	könnte	_	
+2-3	206-209	man	_	
+2-4	210-218	entweder	_	
+2-5	219-222	den	_	
+2-6	223-226	aus	_	
+2-7	227-230	der	_	
+2-8	231-236	Stadt	_	
+2-9	237-246	kommenden	_	
+2-10	247-253	Radweg	_	
+2-11	254-258	auch	_	
+2-12	259-261	in	_	
+2-13	262-275	Gegenrichtung	_	
+2-14	276-285	freigeben	_	
+2-15	285-286	,	_	
+2-16	287-291	oder	_	
+2-17	292-295	die	_	
+2-18	296-301	Autos	_	
+2-19	302-305	auf	_	
+2-20	306-309	der	_	
+2-21	310-317	anderen	_	
+2-22	318-323	Seite	_	
+2-23	324-333	verbannen	_	
+2-24	333-334	.	_	

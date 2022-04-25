@@ -1,0 +1,80 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kein Platz für Radfahrer und 'Fussgänger
+1-1	0-4	Kein	_	
+1-2	5-10	Platz	_	
+1-3	11-14	für	_	
+1-4	15-24	Radfahrer	_	
+1-5	25-28	und	_	
+1-6	29-30	'	_	
+1-7	30-40	Fussgänger	_	
+
+#Text=Hier ist es immer zu eng für Radler und Fussgänger aus vier verschiedenen Richtungen.
+2-1	43-47	Hier	_	
+2-2	48-51	ist	_	
+2-3	52-54	es	_	
+2-4	55-60	immer	_	
+2-5	61-63	zu	_	
+2-6	64-67	eng	_	
+2-7	68-71	für	_	
+2-8	72-78	Radler	_	
+2-9	79-82	und	_	
+2-10	83-93	Fussgänger	_	
+2-11	94-97	aus	_	
+2-12	98-102	vier	_	
+2-13	103-116	verschiedenen	_	
+2-14	117-127	Richtungen	_	
+2-15	127-128	.	_	
+
+#Text=Außerdem rege ich eine Fahrradampel an für den Fall, daß die Schranke unten ist, da dann von der anderen Seite der Bahn kein Verkehr kommen kann.
+3-1	129-137	Außerdem	_	
+3-2	138-142	rege	_	
+3-3	143-146	ich	_	
+3-4	147-151	eine	_	
+3-5	152-164	Fahrradampel	_	
+3-6	165-167	an	_	
+3-7	168-171	für	_	
+3-8	172-175	den	_	
+3-9	176-180	Fall	_	
+3-10	180-181	,	_	
+3-11	182-185	daß	_	
+3-12	186-189	die	_	
+3-13	190-198	Schranke	_	
+3-14	199-204	unten	_	
+3-15	205-208	ist	_	
+3-16	208-209	,	_	
+3-17	210-212	da	_	
+3-18	213-217	dann	_	
+3-19	218-221	von	_	
+3-20	222-225	der	_	
+3-21	226-233	anderen	_	
+3-22	234-239	Seite	_	
+3-23	240-243	der	_	
+3-24	244-248	Bahn	_	
+3-25	249-253	kein	_	
+3-26	254-261	Verkehr	_	
+3-27	262-268	kommen	_	
+3-28	269-273	kann	_	
+3-29	273-274	.	_	
+
+#Text=Bisher ist es nicht erlaubt, dort über die rote (Auto)ampel weiterzufahrren.
+4-1	275-281	Bisher	_	
+4-2	282-285	ist	_	
+4-3	286-288	es	_	
+4-4	289-294	nicht	_	
+4-5	295-302	erlaubt	_	
+4-6	302-303	,	_	
+4-7	304-308	dort	_	
+4-8	309-313	über	_	
+4-9	314-317	die	_	
+4-10	318-322	rote	_	
+4-11	323-324	(	_	
+4-12	324-328	Auto	_	
+4-13	328-329	)	_	
+4-14	329-334	ampel	_	
+4-15	335-350	weiterzufahrren	_	
+4-16	350-351	.	_	

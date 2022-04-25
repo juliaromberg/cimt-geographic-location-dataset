@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=nicht reagierende Schleife
+1-1	0-5	nicht	_	
+1-2	6-17	reagierende	_	
+1-3	18-26	Schleife	_	
+
+#Text=Meiner Meinung nach reagiert die Ampelschaltungsschleife im Boden für Radfahrer nicht (Radampel Aennchenstraße zur Weiterfahrt in die Villichgasse).
+2-1	29-35	Meiner	_	
+2-2	36-43	Meinung	_	
+2-3	44-48	nach	_	
+2-4	49-57	reagiert	_	
+2-5	58-61	die	_	
+2-6	62-85	Ampelschaltungsschleife	_	
+2-7	86-88	im	_	
+2-8	89-94	Boden	_	
+2-9	95-98	für	_	
+2-10	99-108	Radfahrer	_	
+2-11	109-114	nicht	_	
+2-12	115-116	(	_	
+2-13	116-124	Radampel	*[4]	
+2-14	125-139	Aennchenstraße	*[4]	
+2-15	140-143	zur	*[4]	
+2-16	144-155	Weiterfahrt	*[4]	
+2-17	156-158	in	*[4]	
+2-18	159-162	die	*[4]	
+2-19	163-175	Villichgasse	*[4]	
+2-20	175-176	)	_	
+2-21	176-177	.	_	
+
+#Text=Tagsüber fällt das nicht auf, weil da die Ampelschaltung durch die PKWs in der Villichgasse mit ausgelöst wird.
+3-1	178-186	Tagsüber	_	
+3-2	187-192	fällt	_	
+3-3	193-196	das	_	
+3-4	197-202	nicht	_	
+3-5	203-206	auf	_	
+3-6	206-207	,	_	
+3-7	208-212	weil	_	
+3-8	213-215	da	_	
+3-9	216-219	die	_	
+3-10	220-234	Ampelschaltung	_	
+3-11	235-240	durch	_	
+3-12	241-244	die	_	
+3-13	245-249	PKWs	_	
+3-14	250-252	in	_	
+3-15	253-256	der	*[5]	
+3-16	257-269	Villichgasse	*[5]	
+3-17	270-273	mit	_	
+3-18	274-283	ausgelöst	_	
+3-19	284-288	wird	_	
+3-20	288-289	.	_	

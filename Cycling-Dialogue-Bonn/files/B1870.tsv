@@ -1,0 +1,96 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Durchgängige Ampelschaltung
+1-1	0-12	Durchgängige	_	
+1-2	13-27	Ampelschaltung	_	
+
+#Text=Wenn man den Radweg, der nördlich entlang der Autobahn führt, nutzt und die B9 überqueren möchte, muss man mindestens drei Ampel abwarten, die nicht koordiniert sind.
+2-1	30-34	Wenn	_	
+2-2	35-38	man	_	
+2-3	39-42	den	_	
+2-4	43-49	Radweg	_	
+2-5	49-50	,	_	
+2-6	51-54	der	_	
+2-7	55-63	nördlich	_	
+2-8	64-71	entlang	_	
+2-9	72-75	der	_	
+2-10	76-84	Autobahn	_	
+2-11	85-90	führt	_	
+2-12	90-91	,	_	
+2-13	92-97	nutzt	_	
+2-14	98-101	und	_	
+2-15	102-105	die	*[7]	
+2-16	106-108	B9	*[7]	
+2-17	109-119	überqueren	*[7]	
+2-18	120-126	möchte	_	
+2-19	126-127	,	_	
+2-20	128-132	muss	_	
+2-21	133-136	man	_	
+2-22	137-147	mindestens	_	
+2-23	148-152	drei	_	
+2-24	153-158	Ampel	_	
+2-25	159-167	abwarten	_	
+2-26	167-168	,	_	
+2-27	169-172	die	_	
+2-28	173-178	nicht	_	
+2-29	179-190	koordiniert	_	
+2-30	191-195	sind	_	
+2-31	195-196	.	_	
+
+#Text=Zählt man die Ampel für die Straßenbahn mit, sind es sogar 4.
+3-1	197-202	Zählt	_	
+3-2	203-206	man	_	
+3-3	207-210	die	_	
+3-4	211-216	Ampel	_	
+3-5	217-220	für	_	
+3-6	221-224	die	_	
+3-7	225-236	Straßenbahn	_	
+3-8	237-240	mit	_	
+3-9	240-241	,	_	
+3-10	242-246	sind	_	
+3-11	247-249	es	_	
+3-12	250-255	sogar	_	
+3-13	256-257	4	_	
+3-14	257-258	.	_	
+
+#Text=Das ist unzumutbar.
+4-1	259-262	Das	_	
+4-2	263-266	ist	_	
+4-3	267-277	unzumutbar	_	
+4-4	277-278	.	_	
+
+#Text=Die Lösung ist ganz einfach.
+5-1	279-282	Die	_	
+5-2	283-289	Lösung	_	
+5-3	290-293	ist	_	
+5-4	294-298	ganz	_	
+5-5	299-306	einfach	_	
+5-6	306-307	.	_	
+
+#Text=Die Ampelschaltungen müssen koordiniert sein, so dass man in einer Phase die Abfahrt der Autobahn und die B9 überqueren kann.
+6-1	308-311	Die	_	
+6-2	312-328	Ampelschaltungen	_	
+6-3	329-335	müssen	_	
+6-4	336-347	koordiniert	_	
+6-5	348-352	sein	_	
+6-6	352-353	,	_	
+6-7	354-356	so	_	
+6-8	357-361	dass	_	
+6-9	362-365	man	_	
+6-10	366-368	in	_	
+6-11	369-374	einer	_	
+6-12	375-380	Phase	_	
+6-13	381-384	die	_	
+6-14	385-392	Abfahrt	_	
+6-15	393-396	der	_	
+6-16	397-405	Autobahn	_	
+6-17	406-409	und	_	
+6-18	410-413	die	*[8]	
+6-19	414-416	B9	*[8]	
+6-20	417-427	überqueren	*[8]	
+6-21	428-432	kann	_	
+6-22	432-433	.	_	

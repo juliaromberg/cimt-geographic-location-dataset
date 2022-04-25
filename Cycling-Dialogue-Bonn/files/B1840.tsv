@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Viele Wurzelstellen im Fuß-/Radweg
+1-1	0-5	Viele	_	
+1-2	6-19	Wurzelstellen	_	
+1-3	20-22	im	_	
+1-4	23-26	Fuß	_	
+1-5	26-27	-	_	
+1-6	27-28	/	_	
+1-7	28-34	Radweg	_	
+
+#Text=An vielen Stellen kurz hinter der Fähre ist der Radweg durch Wurzeln aufgeworfen, was gerade in der kommenden Winterzeit zu einem erhöhten Sturzrisiko führt.
+2-1	37-39	An	_	
+2-2	40-46	vielen	_	
+2-3	47-54	Stellen	_	
+2-4	55-59	kurz	_	
+2-5	60-66	hinter	_	
+2-6	67-70	der	_	
+2-7	71-76	Fähre	_	
+2-8	77-80	ist	_	
+2-9	81-84	der	_	
+2-10	85-91	Radweg	_	
+2-11	92-97	durch	_	
+2-12	98-105	Wurzeln	_	
+2-13	106-117	aufgeworfen	_	
+2-14	117-118	,	_	
+2-15	119-122	was	_	
+2-16	123-129	gerade	_	
+2-17	130-132	in	_	
+2-18	133-136	der	_	
+2-19	137-146	kommenden	_	
+2-20	147-157	Winterzeit	_	
+2-21	158-160	zu	_	
+2-22	161-166	einem	_	
+2-23	167-175	erhöhten	_	
+2-24	176-187	Sturzrisiko	_	
+2-25	188-193	führt	_	
+2-26	193-194	.	_	

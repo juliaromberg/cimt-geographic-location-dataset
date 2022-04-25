@@ -1,0 +1,63 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Freigabe des nördlichen Radwegs als Zweiwegradweg
+1-1	0-8	Freigabe	_	
+1-2	9-12	des	_	
+1-3	13-23	nördlichen	_	
+1-4	24-31	Radwegs	_	
+1-5	32-35	als	_	
+1-6	36-49	Zweiwegradweg	_	
+
+#Text=Da die meisten Radfahrer mangels einer Möglichkeit, über den Kaiser-Karl-Ring hinweg in die Georgstraße (Fahrradstraße) zu gelangen, zunächst die Nordstraße und die Irmintrudisstraße benutzen, wäre die Freigabe des Radwegs in beide Richtungen - zumindest ab Sportpark Nord oder besser ab Josefinum sinnvoll.
+2-1	52-54	Da	_	
+2-2	55-58	die	_	
+2-3	59-66	meisten	_	
+2-4	67-76	Radfahrer	_	
+2-5	77-84	mangels	_	
+2-6	85-90	einer	_	
+2-7	91-102	Möglichkeit	_	
+2-8	102-103	,	_	
+2-9	104-108	über	*[3]	
+2-10	109-112	den	*[3]	
+2-11	113-129	Kaiser-Karl-Ring	*[3]	
+2-12	130-136	hinweg	*[3]	
+2-13	137-139	in	*[3]	
+2-14	140-143	die	*[3]	
+2-15	144-155	Georgstraße	*[3]	
+2-16	156-157	(	*[3]	
+2-17	157-170	Fahrradstraße	*[3]	
+2-18	170-171	)	_	
+2-19	172-174	zu	_	
+2-20	175-183	gelangen	_	
+2-21	183-184	,	_	
+2-22	185-193	zunächst	_	
+2-23	194-197	die	*[4]	
+2-24	198-208	Nordstraße	*[4]	
+2-25	209-212	und	*[4]	
+2-26	213-216	die	*[4]	
+2-27	217-234	Irmintrudisstraße	*[4]	
+2-28	235-243	benutzen	_	
+2-29	243-244	,	_	
+2-30	245-249	wäre	_	
+2-31	250-253	die	_	
+2-32	254-262	Freigabe	_	
+2-33	263-266	des	_	
+2-34	267-274	Radwegs	_	
+2-35	275-277	in	_	
+2-36	278-283	beide	_	
+2-37	284-294	Richtungen	_	
+2-38	295-296	-	_	
+2-39	297-306	zumindest	_	
+2-40	307-309	ab	*[5]	
+2-41	310-319	Sportpark	*[5]	
+2-42	320-324	Nord	*[5]	
+2-43	325-329	oder	_	
+2-44	330-336	besser	_	
+2-45	337-339	ab	*[6]	
+2-46	340-349	Josefinum	*[6]	
+2-47	350-358	sinnvoll	_	
+2-48	358-359	.	_	

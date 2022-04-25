@@ -1,0 +1,117 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=uneindeutige Radwegführung für stadtausfahrende Radler
+1-1	0-12	uneindeutige	_	
+1-2	13-26	Radwegführung	_	
+1-3	27-30	für	_	
+1-4	31-47	stadtausfahrende	_	
+1-5	48-54	Radler	_	
+
+#Text=Die Beschilderung widerspricht den Lichtsignalanlagen und den Piktogrammen auf dem vermeintlichen (Zwei-Richungs-) Radweg.
+2-1	57-60	Die	_	
+2-2	61-74	Beschilderung	_	
+2-3	75-87	widerspricht	_	
+2-4	88-91	den	_	
+2-5	92-110	Lichtsignalanlagen	_	
+2-6	111-114	und	_	
+2-7	115-118	den	_	
+2-8	119-131	Piktogrammen	_	
+2-9	132-135	auf	_	
+2-10	136-139	dem	_	
+2-11	140-154	vermeintlichen	_	
+2-12	155-156	(	_	
+2-13	156-169	Zwei-Richungs	_	
+2-14	169-170	-	_	
+2-15	170-171	)	_	
+2-16	172-178	Radweg	_	
+2-17	178-179	.	_	
+
+#Text=Beschilderung eindeutig kein 'linker' Radweg - einige Symbole weisen Zwei-Richungs-Radweg aus, ebenfalls die Streuscheiben an den Signalanlagen.
+3-1	180-193	Beschilderung	_	
+3-2	194-203	eindeutig	_	
+3-3	204-208	kein	_	
+3-4	209-210	'	_	
+3-5	210-216	linker	_	
+3-6	216-217	'	_	
+3-7	218-224	Radweg	_	
+3-8	225-226	-	_	
+3-9	227-233	einige	_	
+3-10	234-241	Symbole	_	
+3-11	242-248	weisen	_	
+3-12	249-269	Zwei-Richungs-Radweg	_	
+3-13	270-273	aus	_	
+3-14	273-274	,	_	
+3-15	275-284	ebenfalls	_	
+3-16	285-288	die	_	
+3-17	289-302	Streuscheiben	_	
+3-18	303-305	an	_	
+3-19	306-309	den	_	
+3-20	310-323	Signalanlagen	_	
+3-21	323-324	.	_	
+
+#Text=Stadtauswärts fehlt eindeutige Querungsanlage für Radfahrer ausgeschilderte Benutzungspflicht beginnt erst hinter der linksseitigen Autobahnabfahrt!
+4-1	325-338	Stadtauswärts	_	
+4-2	339-344	fehlt	_	
+4-3	345-355	eindeutige	_	
+4-4	356-370	Querungsanlage	_	
+4-5	371-374	für	_	
+4-6	375-384	Radfahrer	_	
+4-7	385-400	ausgeschilderte	_	
+4-8	401-418	Benutzungspflicht	_	
+4-9	419-426	beginnt	_	
+4-10	427-431	erst	_	
+4-11	432-438	hinter	_	
+4-12	439-442	der	_	
+4-13	443-456	linksseitigen	_	
+4-14	457-472	Autobahnabfahrt	_	
+4-15	472-473	!	_	
+
+#Text=- Dort ist aber keine Querungsmöglichkeit
+5-1	474-475	-	_	
+5-2	476-480	Dort	_	
+5-3	481-484	ist	_	
+5-4	485-489	aber	_	
+5-5	490-495	keine	_	
+5-6	496-515	Querungsmöglichkeit	_	
+
+#Text=Wunsch: Beschilderung und andere Symbole vereinheitlichen und eindeutige und gut fahrbare Querungsmöglichkeit schaffen, z.B. an der Maria-Montessori-STraße Linksabbieger für Radfahrer (gleichzeitig natürlich auch die linksseitige Freigabe für den Radweg per Gebotsschild)
+6-1	516-522	Wunsch	_	
+6-2	522-523	:	_	
+6-3	524-537	Beschilderung	_	
+6-4	538-541	und	_	
+6-5	542-548	andere	_	
+6-6	549-556	Symbole	_	
+6-7	557-573	vereinheitlichen	_	
+6-8	574-577	und	_	
+6-9	578-588	eindeutige	_	
+6-10	589-592	und	_	
+6-11	593-596	gut	_	
+6-12	597-605	fahrbare	_	
+6-13	606-625	Querungsmöglichkeit	_	
+6-14	626-634	schaffen	_	
+6-15	634-635	,	_	
+6-16	636-639	z.B	_	
+6-17	639-640	.	_	
+6-18	641-643	an	*[7]	
+6-19	644-647	der	*[7]	
+6-20	648-671	Maria-Montessori-STraße	*[7]	
+6-21	672-685	Linksabbieger	*[7]	
+6-22	686-689	für	_	
+6-23	690-699	Radfahrer	_	
+6-24	700-701	(	_	
+6-25	701-713	gleichzeitig	_	
+6-26	714-723	natürlich	_	
+6-27	724-728	auch	_	
+6-28	729-732	die	_	
+6-29	733-745	linksseitige	_	
+6-30	746-754	Freigabe	_	
+6-31	755-758	für	_	
+6-32	759-762	den	_	
+6-33	763-769	Radweg	_	
+6-34	770-773	per	_	
+6-35	774-786	Gebotsschild	_	
+6-36	786-787	)	_	

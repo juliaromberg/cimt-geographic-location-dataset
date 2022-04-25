@@ -1,0 +1,141 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Anfang des Radwegs widr von Autofahrern nicht wahrgenommen
+1-1	0-6	Anfang	_	
+1-2	7-10	des	_	
+1-3	11-18	Radwegs	_	
+1-4	19-23	widr	_	
+1-5	24-27	von	_	
+1-6	28-39	Autofahrern	_	
+1-7	40-45	nicht	_	
+1-8	46-58	wahrgenommen	_	
+
+#Text=Für Radfahrer, die auf der Weinsbergstraße stadtauswärts unterwegs sind, beginnt hinter der Einmündung der Fröbelstraße der Radweg.
+2-1	61-64	Für	_	
+2-2	65-74	Radfahrer	_	
+2-3	74-75	,	_	
+2-4	76-79	die	_	
+2-5	80-83	auf	*[7]	
+2-6	84-87	der	*[7]	
+2-7	88-103	Weinsbergstraße	*[7]	
+2-8	104-117	stadtauswärts	*[7]	
+2-9	118-127	unterwegs	_	
+2-10	128-132	sind	_	
+2-11	132-133	,	_	
+2-12	134-141	beginnt	_	
+2-13	142-148	hinter	*[8]	
+2-14	149-152	der	*[8]	
+2-15	153-163	Einmündung	*[8]	
+2-16	164-167	der	*[8]	
+2-17	168-180	Fröbelstraße	*[8]	
+2-18	181-184	der	_	
+2-19	185-191	Radweg	_	
+2-20	191-192	.	_	
+
+#Text=Um ihn zu erreichen, müssen Radfahrer ganz leicht schräg in die Fröbelstraße einfahren.
+3-1	193-195	Um	_	
+3-2	196-199	ihn	_	
+3-3	200-202	zu	_	
+3-4	203-212	erreichen	_	
+3-5	212-213	,	_	
+3-6	214-220	müssen	_	
+3-7	221-230	Radfahrer	_	
+3-8	231-235	ganz	_	
+3-9	236-242	leicht	*[9]	
+3-10	243-249	schräg	*[9]	
+3-11	250-252	in	*[9]	
+3-12	253-256	die	*[9]	
+3-13	257-269	Fröbelstraße	*[9]	
+3-14	270-279	einfahren	*[9]	
+3-15	279-280	.	_	
+
+#Text=Ein Handzeichen zum Rechtsabbiegen wäre ein irreführendes Signal.
+4-1	281-284	Ein	_	
+4-2	285-296	Handzeichen	_	
+4-3	297-300	zum	_	
+4-4	301-315	Rechtsabbiegen	_	
+4-5	316-320	wäre	_	
+4-6	321-324	ein	_	
+4-7	325-338	irreführendes	_	
+4-8	339-345	Signal	_	
+4-9	345-346	.	_	
+
+#Text=Andererseits nehmen die aus der Fröbelstraße kommenden Autofahrer nicht wahr, dass der Radweg rechts neben ihnen beginnt, so dass sie trotz eines herannahenden Radfahrers regelmäßig erst an der Kreuzungslinie stoppen (und damit dem Radfahrer auf dem Weg zum Radweg genau im Weg stehen).
+5-1	347-359	Andererseits	_	
+5-2	360-366	nehmen	_	
+5-3	367-370	die	_	
+5-4	371-374	aus	*[10]	
+5-5	375-378	der	*[10]	
+5-6	379-391	Fröbelstraße	*[10]	
+5-7	392-401	kommenden	*[10]	
+5-8	402-412	Autofahrer	_	
+5-9	413-418	nicht	_	
+5-10	419-423	wahr	_	
+5-11	423-424	,	_	
+5-12	425-429	dass	_	
+5-13	430-433	der	_	
+5-14	434-440	Radweg	_	
+5-15	441-447	rechts	_	
+5-16	448-453	neben	_	
+5-17	454-459	ihnen	_	
+5-18	460-467	beginnt	_	
+5-19	467-468	,	_	
+5-20	469-471	so	_	
+5-21	472-476	dass	_	
+5-22	477-480	sie	_	
+5-23	481-486	trotz	_	
+5-24	487-492	eines	_	
+5-25	493-506	herannahenden	_	
+5-26	507-517	Radfahrers	_	
+5-27	518-528	regelmäßig	_	
+5-28	529-533	erst	_	
+5-29	534-536	an	_	
+5-30	537-540	der	_	
+5-31	541-555	Kreuzungslinie	_	
+5-32	556-563	stoppen	_	
+5-33	564-565	(	_	
+5-34	565-568	und	_	
+5-35	569-574	damit	_	
+5-36	575-578	dem	_	
+5-37	579-588	Radfahrer	_	
+5-38	589-592	auf	_	
+5-39	593-596	dem	_	
+5-40	597-600	Weg	_	
+5-41	601-604	zum	_	
+5-42	605-611	Radweg	_	
+5-43	612-617	genau	_	
+5-44	618-620	im	_	
+5-45	621-624	Weg	_	
+5-46	625-631	stehen	_	
+5-47	631-632	)	_	
+5-48	632-633	.	_	
+
+#Text=Eine entsprechende Markierung auf der Fahrbahn (rote Fläche) würde die Überleitung des Radverkehrs von der Weinsbergstraße auf den Radweg deutlich machen.
+6-1	634-638	Eine	_	
+6-2	639-652	entsprechende	_	
+6-3	653-663	Markierung	_	
+6-4	664-667	auf	_	
+6-5	668-671	der	_	
+6-6	672-680	Fahrbahn	_	
+6-7	681-682	(	_	
+6-8	682-686	rote	_	
+6-9	687-693	Fläche	_	
+6-10	693-694	)	_	
+6-11	695-700	würde	_	
+6-12	701-704	die	_	
+6-13	705-716	Überleitung	_	
+6-14	717-720	des	_	
+6-15	721-732	Radverkehrs	_	
+6-16	733-736	von	*[11]	
+6-17	737-740	der	*[11]	
+6-18	741-756	Weinsbergstraße	*[11]	
+6-19	757-760	auf	*[11]	
+6-20	761-764	den	*[11]	
+6-21	765-771	Radweg	*[11]	
+6-22	772-780	deutlich	_	
+6-23	781-787	machen	_	
+6-24	787-788	.	_	

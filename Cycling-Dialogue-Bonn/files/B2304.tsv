@@ -1,0 +1,157 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Poppelsdorfer Unterführung
+1-1	0-13	Poppelsdorfer	*[10]	
+1-2	14-26	Unterführung	*[10]	
+
+#Text=Die Verbindung zwischen der Südstadt und der Innenstadt ist durch die Bahntrasse nur an wenigen Punkten ohne große Behinderung möglich.
+2-1	29-32	Die	*[11]	
+2-2	33-43	Verbindung	*[11]	
+2-3	44-52	zwischen	*[11]	
+2-4	53-56	der	*[11]	
+2-5	57-65	Südstadt	*[11]	
+2-6	66-69	und	*[11]	
+2-7	70-73	der	*[11]	
+2-8	74-84	Innenstadt	*[11]	
+2-9	85-88	ist	*[11]	
+2-10	89-94	durch	*[11]	
+2-11	95-98	die	*[11]	
+2-12	99-109	Bahntrasse	*[11]	
+2-13	110-113	nur	_	
+2-14	114-116	an	_	
+2-15	117-124	wenigen	_	
+2-16	125-132	Punkten	_	
+2-17	133-137	ohne	_	
+2-18	138-143	große	_	
+2-19	144-155	Behinderung	_	
+2-20	156-163	möglich	_	
+2-21	163-164	.	_	
+
+#Text=Besonders die Verbindung Poppelsdorfer Allee und Kaiserplatz ist eine sehr stark frequentierte Passage.
+3-1	165-174	Besonders	_	
+3-2	175-178	die	*[12]	
+3-3	179-189	Verbindung	*[12]	
+3-4	190-203	Poppelsdorfer	*[12]	
+3-5	204-209	Allee	*[12]	
+3-6	210-213	und	*[12]	
+3-7	214-225	Kaiserplatz	*[12]	
+3-8	226-229	ist	_	
+3-9	230-234	eine	_	
+3-10	235-239	sehr	_	
+3-11	240-245	stark	_	
+3-12	246-259	frequentierte	_	
+3-13	260-267	Passage	_	
+3-14	267-268	.	_	
+
+#Text=Das große Problem: Hier teilen sich Fußgänger und Radfahrer ein kleines Nadelöhr.
+4-1	269-272	Das	_	
+4-2	273-278	große	_	
+4-3	279-286	Problem	_	
+4-4	286-287	:	_	
+4-5	288-292	Hier	_	
+4-6	293-299	teilen	_	
+4-7	300-304	sich	_	
+4-8	305-314	Fußgänger	_	
+4-9	315-318	und	_	
+4-10	319-328	Radfahrer	_	
+4-11	329-332	ein	_	
+4-12	333-340	kleines	_	
+4-13	341-349	Nadelöhr	_	
+4-14	349-350	.	_	
+
+#Text=Der Fahrradfahrer wird in der Durchfahrt besonders hier sehr ausgebremst!
+5-1	351-354	Der	_	
+5-2	355-368	Fahrradfahrer	_	
+5-3	369-373	wird	_	
+5-4	374-376	in	_	
+5-5	377-380	der	_	
+5-6	381-391	Durchfahrt	_	
+5-7	392-401	besonders	_	
+5-8	402-406	hier	_	
+5-9	407-411	sehr	_	
+5-10	412-423	ausgebremst	_	
+5-11	423-424	!	_	
+
+#Text=Eine breiter oder gar eingene Unterführung nur für Radfahrer muss her.
+6-1	425-429	Eine	_	
+6-2	430-437	breiter	_	
+6-3	438-442	oder	_	
+6-4	443-446	gar	_	
+6-5	447-454	eingene	_	
+6-6	455-467	Unterführung	_	
+6-7	468-471	nur	_	
+6-8	472-475	für	_	
+6-9	476-485	Radfahrer	_	
+6-10	486-490	muss	_	
+6-11	491-494	her	_	
+6-12	494-495	.	_	
+
+#Text=Ein anderer Vorschlag: Im gesamten Innerstädtischen Bereich sollten Radfahrer auf den Nebenstraßen immer ein Vorfahrtsrecht haben und es gilt hier die max. Geschwindigkeit von 30kmh.
+7-1	496-499	Ein	_	
+7-2	500-507	anderer	_	
+7-3	508-517	Vorschlag	_	
+7-4	517-518	:	_	
+7-5	519-521	Im	*[13]	
+7-6	522-530	gesamten	*[13]	
+7-7	531-547	Innerstädtischen	*[13]	
+7-8	548-555	Bereich	*[13]	
+7-9	556-563	sollten	_	
+7-10	564-573	Radfahrer	_	
+7-11	574-577	auf	_	
+7-12	578-581	den	_	
+7-13	582-594	Nebenstraßen	_	
+7-14	595-600	immer	_	
+7-15	601-604	ein	_	
+7-16	605-619	Vorfahrtsrecht	_	
+7-17	620-625	haben	_	
+7-18	626-629	und	_	
+7-19	630-632	es	_	
+7-20	633-637	gilt	_	
+7-21	638-642	hier	_	
+7-22	643-646	die	_	
+7-23	647-650	max	_	
+7-24	650-651	.	_	
+7-25	652-667	Geschwindigkeit	_	
+7-26	668-671	von	_	
+7-27	672-677	30kmh	_	
+7-28	677-678	.	_	
+
+#Text=Autos müssen sich hinten anstellen und das Tempo drosseln.
+8-1	679-684	Autos	_	
+8-2	685-691	müssen	_	
+8-3	692-696	sich	_	
+8-4	697-703	hinten	_	
+8-5	704-713	anstellen	_	
+8-6	714-717	und	_	
+8-7	718-721	das	_	
+8-8	722-727	Tempo	_	
+8-9	728-736	drosseln	_	
+8-10	736-737	.	_	
+
+#Text=Auf den großen Straßen hat ganz klar das Auto Vorrecht, sobald es aber die Hauptrouten verlässt beginnt der verkehrsberuhigte Bereich.
+9-1	738-741	Auf	_	
+9-2	742-745	den	_	
+9-3	746-752	großen	_	
+9-4	753-760	Straßen	_	
+9-5	761-764	hat	_	
+9-6	765-769	ganz	_	
+9-7	770-774	klar	_	
+9-8	775-778	das	_	
+9-9	779-783	Auto	_	
+9-10	784-792	Vorrecht	_	
+9-11	792-793	,	_	
+9-12	794-800	sobald	_	
+9-13	801-803	es	_	
+9-14	804-808	aber	_	
+9-15	809-812	die	_	
+9-16	813-824	Hauptrouten	_	
+9-17	825-833	verlässt	_	
+9-18	834-841	beginnt	_	
+9-19	842-845	der	_	
+9-20	846-863	verkehrsberuhigte	_	
+9-21	864-871	Bereich	_	
+9-22	871-872	.	_	

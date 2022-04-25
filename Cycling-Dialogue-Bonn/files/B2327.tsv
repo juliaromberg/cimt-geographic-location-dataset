@@ -1,0 +1,161 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Linksseitiges parken in freigegebener Einbahnstraße
+1-1	0-13	Linksseitiges	_	
+1-2	14-20	parken	_	
+1-3	21-23	in	_	
+1-4	24-37	freigegebener	_	
+1-5	38-51	Einbahnstraße	_	
+
+#Text=Die Bäckerei verleitet hier viele Autofahrer links halb auf den Fußgängerweg auf zu fahren und zu Halten/Parken, obwohl auf der anderen Seite Parkplätze sind.
+2-1	54-57	Die	_	
+2-2	58-66	Bäckerei	_	
+2-3	67-76	verleitet	_	
+2-4	77-81	hier	_	
+2-5	82-87	viele	_	
+2-6	88-98	Autofahrer	_	
+2-7	99-104	links	_	
+2-8	105-109	halb	_	
+2-9	110-113	auf	_	
+2-10	114-117	den	_	
+2-11	118-130	Fußgängerweg	_	
+2-12	131-134	auf	_	
+2-13	135-137	zu	_	
+2-14	138-144	fahren	_	
+2-15	145-148	und	_	
+2-16	149-151	zu	_	
+2-17	152-158	Halten	_	
+2-18	158-159	/	_	
+2-19	159-165	Parken	_	
+2-20	165-166	,	_	
+2-21	167-173	obwohl	_	
+2-22	174-177	auf	_	
+2-23	178-181	der	_	
+2-24	182-189	anderen	_	
+2-25	190-195	Seite	_	
+2-26	196-206	Parkplätze	_	
+2-27	207-211	sind	_	
+2-28	211-212	.	_	
+
+#Text=Selbst wenn diese belegt sind kann man hinter dem Kreisel halten.
+3-1	213-219	Selbst	_	
+3-2	220-224	wenn	_	
+3-3	225-230	diese	_	
+3-4	231-237	belegt	_	
+3-5	238-242	sind	_	
+3-6	243-247	kann	_	
+3-7	248-251	man	_	
+3-8	252-258	hinter	_	
+3-9	259-262	dem	_	
+3-10	263-270	Kreisel	_	
+3-11	271-277	halten	_	
+3-12	277-278	.	_	
+
+#Text=Da diese Einbahnstraße in Gegenrichtung für den Fahrradverkehr frei gegeben ist und der Fußweg an dieser Stelle eh schon einenen Schlenker macht der Autofahrer verleitet zu weit links zu fahren, stellen die dort stehenden Autos eine große Gefahr da.
+4-1	279-281	Da	_	
+4-2	282-287	diese	_	
+4-3	288-301	Einbahnstraße	_	
+4-4	302-304	in	_	
+4-5	305-318	Gegenrichtung	_	
+4-6	319-322	für	_	
+4-7	323-326	den	_	
+4-8	327-341	Fahrradverkehr	_	
+4-9	342-346	frei	_	
+4-10	347-354	gegeben	_	
+4-11	355-358	ist	_	
+4-12	359-362	und	_	
+4-13	363-366	der	_	
+4-14	367-373	Fußweg	_	
+4-15	374-376	an	_	
+4-16	377-383	dieser	_	
+4-17	384-390	Stelle	_	
+4-18	391-393	eh	_	
+4-19	394-399	schon	_	
+4-20	400-407	einenen	_	
+4-21	408-417	Schlenker	_	
+4-22	418-423	macht	_	
+4-23	424-427	der	_	
+4-24	428-438	Autofahrer	_	
+4-25	439-448	verleitet	_	
+4-26	449-451	zu	_	
+4-27	452-456	weit	_	
+4-28	457-462	links	_	
+4-29	463-465	zu	_	
+4-30	466-472	fahren	_	
+4-31	472-473	,	_	
+4-32	474-481	stellen	_	
+4-33	482-485	die	_	
+4-34	486-490	dort	_	
+4-35	491-500	stehenden	_	
+4-36	501-506	Autos	_	
+4-37	507-511	eine	_	
+4-38	512-517	große	_	
+4-39	518-524	Gefahr	_	
+4-40	525-527	da	_	
+4-41	527-528	.	_	
+
+#Text=Radfahrer die um das Hinderniss herum fahren treffen frontal auf überraschte Autofahrer die um die Kurve der Frongasse gefahren kommen.
+5-1	529-538	Radfahrer	_	
+5-2	539-542	die	_	
+5-3	543-545	um	_	
+5-4	546-549	das	_	
+5-5	550-560	Hinderniss	_	
+5-6	561-566	herum	_	
+5-7	567-573	fahren	_	
+5-8	574-581	treffen	_	
+5-9	582-589	frontal	_	
+5-10	590-593	auf	_	
+5-11	594-605	überraschte	_	
+5-12	606-616	Autofahrer	_	
+5-13	617-620	die	_	
+5-14	621-623	um	*[8]	
+5-15	624-627	die	*[8]	
+5-16	628-633	Kurve	*[8]	
+5-17	634-637	der	*[8]	
+5-18	638-647	Frongasse	*[8]	
+5-19	648-656	gefahren	_	
+5-20	657-663	kommen	_	
+5-21	663-664	.	_	
+
+#Text=Dort wäre absolutes Halteverbot und evtl eine Kennzeichnung mittels Fahrradpiktogram auf dem Boden geboten.
+6-1	665-669	Dort	_	
+6-2	670-674	wäre	_	
+6-3	675-684	absolutes	_	
+6-4	685-696	Halteverbot	_	
+6-5	697-700	und	_	
+6-6	701-705	evtl	_	
+6-7	706-710	eine	_	
+6-8	711-724	Kennzeichnung	_	
+6-9	725-732	mittels	_	
+6-10	733-749	Fahrradpiktogram	_	
+6-11	750-753	auf	_	
+6-12	754-757	dem	_	
+6-13	758-763	Boden	_	
+6-14	764-771	geboten	_	
+6-15	771-772	.	_	
+
+#Text=Viele Autofahrer halten es dort für verboten das ihnen Radfahrer entgegen kommen, hupen und ziehen absichtlich nach links.
+7-1	773-778	Viele	_	
+7-2	779-789	Autofahrer	_	
+7-3	790-796	halten	_	
+7-4	797-799	es	_	
+7-5	800-804	dort	_	
+7-6	805-808	für	_	
+7-7	809-817	verboten	_	
+7-8	818-821	das	_	
+7-9	822-827	ihnen	_	
+7-10	828-837	Radfahrer	_	
+7-11	838-846	entgegen	_	
+7-12	847-853	kommen	_	
+7-13	853-854	,	_	
+7-14	855-860	hupen	_	
+7-15	861-864	und	_	
+7-16	865-871	ziehen	_	
+7-17	872-883	absichtlich	_	
+7-18	884-888	nach	_	
+7-19	889-894	links	_	
+7-20	894-895	.	_	

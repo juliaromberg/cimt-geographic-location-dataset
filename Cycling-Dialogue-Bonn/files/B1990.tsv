@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Grünpfeil für rechtsabbiegende Fahrradfahrer.
+1-1	0-9	Grünpfeil	_	
+1-2	10-13	für	_	
+1-3	14-30	rechtsabbiegende	_	
+1-4	31-44	Fahrradfahrer	_	
+1-5	44-45	.	_	
+
+#Text=An dieser Kreuzung herrscht vor allem viel Autoverkehr.
+2-1	48-50	An	_	
+2-2	51-57	dieser	_	
+2-3	58-66	Kreuzung	_	
+2-4	67-75	herrscht	_	
+2-5	76-79	vor	_	
+2-6	80-85	allem	_	
+2-7	86-90	viel	_	
+2-8	91-102	Autoverkehr	_	
+2-9	102-103	.	_	
+
+#Text=Es ist aber irgendwie widersinnig, dass Radfahrer, die hier nach rechts wollen an der Ampel stehen bleiben sollen.
+3-1	104-106	Es	_	
+3-2	107-110	ist	_	
+3-3	111-115	aber	_	
+3-4	116-125	irgendwie	_	
+3-5	126-137	widersinnig	_	
+3-6	137-138	,	_	
+3-7	139-143	dass	_	
+3-8	144-153	Radfahrer	_	
+3-9	153-154	,	_	
+3-10	155-158	die	_	
+3-11	159-163	hier	_	
+3-12	164-168	nach	_	
+3-13	169-175	rechts	_	
+3-14	176-182	wollen	_	
+3-15	183-185	an	_	
+3-16	186-189	der	_	
+3-17	190-195	Ampel	_	
+3-18	196-202	stehen	_	
+3-19	203-210	bleiben	_	
+3-20	211-217	sollen	_	
+3-21	217-218	.	_	
+
+#Text=Deswegen bitte hier einen Grünpfeil für Fahrradfahrer
+4-1	219-227	Deswegen	_	
+4-2	228-233	bitte	_	
+4-3	234-238	hier	_	
+4-4	239-244	einen	_	
+4-5	245-254	Grünpfeil	_	
+4-6	255-258	für	_	
+4-7	259-272	Fahrradfahrer	_	

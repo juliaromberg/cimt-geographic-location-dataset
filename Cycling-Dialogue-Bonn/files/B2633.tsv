@@ -1,0 +1,120 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radfahrstreifen von Knauber bis hinter das Endenicher Ei auf der Fahrbahn bis zur Unterführung markieren.
+1-1	0-15	Radfahrstreifen	*[9]	
+1-2	16-19	von	*[9]	
+1-3	20-27	Knauber	*[9]	
+1-4	28-31	bis	*[9]	
+1-5	32-38	hinter	*[9]	
+1-6	39-42	das	*[9]	
+1-7	43-53	Endenicher	*[9]	
+1-8	54-56	Ei	*[9]	
+1-9	57-60	auf	_	
+1-10	61-64	der	_	
+1-11	65-73	Fahrbahn	_	
+1-12	74-77	bis	_	
+1-13	78-81	zur	_	
+1-14	82-94	Unterführung	_	
+1-15	95-104	markieren	_	
+1-16	104-105	.	_	
+
+#Text=Dann spart man sich die lange Rotphase an der Radampel da, währen der Autoverkehr geradeaus grün hat.
+2-1	108-112	Dann	_	
+2-2	113-118	spart	_	
+2-3	119-122	man	_	
+2-4	123-127	sich	_	
+2-5	128-131	die	_	
+2-6	132-137	lange	_	
+2-7	138-146	Rotphase	_	
+2-8	147-149	an	_	
+2-9	150-153	der	_	
+2-10	154-162	Radampel	_	
+2-11	163-165	da	_	
+2-12	165-166	,	_	
+2-13	167-173	währen	_	
+2-14	174-177	der	_	
+2-15	178-189	Autoverkehr	_	
+2-16	190-199	geradeaus	_	
+2-17	200-204	grün	_	
+2-18	205-208	hat	_	
+2-19	208-209	.	_	
+
+#Text=Wieder mal eine Benachteiligung des Radverkehrs, wie so oft.
+3-1	210-216	Wieder	_	
+3-2	217-220	mal	_	
+3-3	221-225	eine	_	
+3-4	226-241	Benachteiligung	_	
+3-5	242-245	des	_	
+3-6	246-257	Radverkehrs	_	
+3-7	257-258	,	_	
+3-8	259-262	wie	_	
+3-9	263-265	so	_	
+3-10	266-269	oft	_	
+3-11	269-270	.	_	
+
+#Text=Zudem spart man sich auch, an der Einmündung der Verdistraße von Abbiegern umgemäht zu werden.
+4-1	271-276	Zudem	_	
+4-2	277-282	spart	_	
+4-3	283-286	man	_	
+4-4	287-291	sich	_	
+4-5	292-296	auch	_	
+4-6	296-297	,	_	
+4-7	298-300	an	*[10]	
+4-8	301-304	der	*[10]	
+4-9	305-315	Einmündung	*[10]	
+4-10	316-319	der	*[10]	
+4-11	320-331	Verdistraße	*[10]	
+4-12	332-335	von	_	
+4-13	336-345	Abbiegern	_	
+4-14	346-354	umgemäht	_	
+4-15	355-357	zu	_	
+4-16	358-364	werden	_	
+4-17	364-365	.	_	
+
+#Text=Und den Streifen insgesamt verbreitern.
+5-1	366-369	Und	_	
+5-2	370-373	den	_	
+5-3	374-382	Streifen	_	
+5-4	383-392	insgesamt	_	
+5-5	393-404	verbreitern	_	
+5-6	404-405	.	_	
+
+#Text=Der ist viel zu schmal.
+6-1	406-409	Der	_	
+6-2	410-413	ist	_	
+6-3	414-418	viel	_	
+6-4	419-421	zu	_	
+6-5	422-428	schmal	_	
+6-6	428-429	.	_	
+
+#Text=Der Belag des gehwegs, auf dem man da Fahren soll, ist auch unter aller Sau.
+7-1	430-433	Der	_	
+7-2	434-439	Belag	_	
+7-3	440-443	des	_	
+7-4	444-451	gehwegs	_	
+7-5	451-452	,	_	
+7-6	453-456	auf	_	
+7-7	457-460	dem	_	
+7-8	461-464	man	_	
+7-9	465-467	da	_	
+7-10	468-474	Fahren	_	
+7-11	475-479	soll	_	
+7-12	479-480	,	_	
+7-13	481-484	ist	_	
+7-14	485-489	auch	_	
+7-15	490-495	unter	_	
+7-16	496-501	aller	_	
+7-17	502-505	Sau	_	
+7-18	505-506	.	_	
+
+#Text=Die ganze Gegend da eigentlich.
+8-1	507-510	Die	_	
+8-2	511-516	ganze	_	
+8-3	517-523	Gegend	_	
+8-4	524-526	da	_	
+8-5	527-537	eigentlich	_	
+8-6	537-538	.	_	

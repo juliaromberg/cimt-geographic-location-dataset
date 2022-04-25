@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradabstellplätze
+1-1	0-20	Fahrradabstellplätze	_	
+
+#Text=Dringend mehr Abstellplätze mit Überdachung für Räder errichten oder aber Radplätze in der Tiefgarage einrichten.
+2-1	23-31	Dringend	_	
+2-2	32-36	mehr	_	
+2-3	37-50	Abstellplätze	_	
+2-4	51-54	mit	_	
+2-5	55-66	Überdachung	_	
+2-6	67-70	für	_	
+2-7	71-76	Räder	_	
+2-8	77-86	errichten	_	
+2-9	87-91	oder	_	
+2-10	92-96	aber	_	
+2-11	97-106	Radplätze	_	
+2-12	107-109	in	_	
+2-13	110-113	der	_	
+2-14	114-124	Tiefgarage	_	
+2-15	125-135	einrichten	_	
+2-16	135-136	.	_	
+
+#Text=Für Räder ist weder am BvSuttner Platz noch am Münsterplatz bzw. am Markt genug Abstellfläche.
+3-1	137-140	Für	_	
+3-2	141-146	Räder	_	
+3-3	147-150	ist	_	
+3-4	151-156	weder	_	
+3-5	157-159	am	*[3]	
+3-6	160-169	BvSuttner	*[3]	
+3-7	170-175	Platz	*[3]	
+3-8	176-180	noch	_	
+3-9	181-183	am	*[4]	
+3-10	184-196	Münsterplatz	*[4]	
+3-11	197-200	bzw	_	
+3-12	200-201	.	_	
+3-13	202-204	am	*[5]	
+3-14	205-210	Markt	*[5]	
+3-15	211-216	genug	_	
+3-16	217-230	Abstellfläche	_	
+3-17	230-231	.	_	

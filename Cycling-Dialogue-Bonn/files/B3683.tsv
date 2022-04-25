@@ -1,0 +1,157 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rechte Spur zum Fahrrad- und Busweg deklarieren und sichereres Abbiegen am Bertha-von Suttner-Platz schaffen
+1-1	0-6	Rechte	_	
+1-2	7-11	Spur	_	
+1-3	12-15	zum	_	
+1-4	16-23	Fahrrad	_	
+1-5	23-24	-	_	
+1-6	25-28	und	_	
+1-7	29-35	Busweg	_	
+1-8	36-47	deklarieren	_	
+1-9	48-51	und	_	
+1-10	52-62	sichereres	_	
+1-11	63-71	Abbiegen	*[9]	
+1-12	72-74	am	*[9]	
+1-13	75-85	Bertha-von	*[9]	
+1-14	86-99	Suttner-Platz	*[9]	
+1-15	100-108	schaffen	_	
+
+#Text=Auf der Kölnstr. zwischen Wilhelmsplatz und Bertha-von-Suttner-Platz ist das Radfahren extrem gefährlich.
+2-1	111-114	Auf	*[10]	
+2-2	115-118	der	*[10]	
+2-3	119-126	Kölnstr	*[10]	
+2-4	126-127	.	*[10]	
+2-5	128-136	zwischen	*[10]	
+2-6	137-150	Wilhelmsplatz	*[10]	
+2-7	151-154	und	*[10]	
+2-8	155-179	Bertha-von-Suttner-Platz	*[10]	
+2-9	180-183	ist	_	
+2-10	184-187	das	_	
+2-11	188-197	Radfahren	_	
+2-12	198-204	extrem	_	
+2-13	205-215	gefährlich	_	
+2-14	215-216	.	_	
+
+#Text=Der Radweg ist sehr schmal, die Fahrbahn ist brüchig und wird zusätzlich von den meisten Autofahrern ignoriert.
+3-1	217-220	Der	_	
+3-2	221-227	Radweg	_	
+3-3	228-231	ist	_	
+3-4	232-236	sehr	_	
+3-5	237-243	schmal	_	
+3-6	243-244	,	_	
+3-7	245-248	die	_	
+3-8	249-257	Fahrbahn	_	
+3-9	258-261	ist	_	
+3-10	262-269	brüchig	_	
+3-11	270-273	und	_	
+3-12	274-278	wird	_	
+3-13	279-289	zusätzlich	_	
+3-14	290-293	von	_	
+3-15	294-297	den	_	
+3-16	298-305	meisten	_	
+3-17	306-317	Autofahrern	_	
+3-18	318-327	ignoriert	_	
+3-19	327-328	.	_	
+
+#Text=Darüber hinaus befindet man sich als Radfahrer auf der gesamten Strecke in der Dooring-Zone der parkenden Autos.
+4-1	329-336	Darüber	_	
+4-2	337-343	hinaus	_	
+4-3	344-352	befindet	_	
+4-4	353-356	man	_	
+4-5	357-361	sich	_	
+4-6	362-365	als	_	
+4-7	366-375	Radfahrer	_	
+4-8	376-379	auf	_	
+4-9	380-383	der	_	
+4-10	384-392	gesamten	_	
+4-11	393-400	Strecke	_	
+4-12	401-403	in	_	
+4-13	404-407	der	_	
+4-14	408-420	Dooring-Zone	_	
+4-15	421-424	der	_	
+4-16	425-434	parkenden	_	
+4-17	435-440	Autos	_	
+4-18	440-441	.	_	
+
+#Text=Gern wird auch auf dem Fahrradweg gehalten.
+5-1	442-446	Gern	_	
+5-2	447-451	wird	_	
+5-3	452-456	auch	_	
+5-4	457-460	auf	_	
+5-5	461-464	dem	_	
+5-6	465-475	Fahrradweg	_	
+5-7	476-484	gehalten	_	
+5-8	484-485	.	_	
+
+#Text=für die linksabbiegenden Radfahrer ist kein offizieller Bahnwechsel vorgesehen, man muss zwischen die beiden Spuren fahren.
+6-1	486-489	für	_	
+6-2	490-493	die	_	
+6-3	494-510	linksabbiegenden	_	
+6-4	511-520	Radfahrer	_	
+6-5	521-524	ist	_	
+6-6	525-529	kein	_	
+6-7	530-541	offizieller	_	
+6-8	542-553	Bahnwechsel	_	
+6-9	554-564	vorgesehen	_	
+6-10	564-565	,	_	
+6-11	566-569	man	_	
+6-12	570-574	muss	_	
+6-13	575-583	zwischen	_	
+6-14	584-587	die	_	
+6-15	588-594	beiden	_	
+6-16	595-601	Spuren	_	
+6-17	602-608	fahren	_	
+6-18	608-609	.	_	
+
+#Text=Mein Neugestaltungsvorschlag: Analog der Römerstr. sollte die rechte Fahrbahn zur ausschließlichen Fahrrad- und Busspur werden.
+7-1	610-614	Mein	_	
+7-2	615-638	Neugestaltungsvorschlag	_	
+7-3	638-639	:	_	
+7-4	640-646	Analog	_	
+7-5	647-650	der	_	
+7-6	651-659	Römerstr	_	
+7-7	659-660	.	_	
+7-8	661-667	sollte	_	
+7-9	668-671	die	_	
+7-10	672-678	rechte	_	
+7-11	679-687	Fahrbahn	_	
+7-12	688-691	zur	_	
+7-13	692-708	ausschließlichen	_	
+7-14	709-716	Fahrrad	_	
+7-15	716-717	-	_	
+7-16	718-721	und	_	
+7-17	722-729	Busspur	_	
+7-18	730-736	werden	_	
+7-19	736-737	.	_	
+
+#Text=Da die wenigsten Autofahrer am Bertha-von-Sutter-Platz rechts abbiegen, wäre die Beeinträchtigung für die Autofahrer gering, der Sicherheitsgewinn für die Radfahrer aber immens.
+8-1	738-740	Da	_	
+8-2	741-744	die	_	
+8-3	745-754	wenigsten	_	
+8-4	755-765	Autofahrer	_	
+8-5	766-768	am	*[11]	
+8-6	769-792	Bertha-von-Sutter-Platz	*[11]	
+8-7	793-799	rechts	*[11]	
+8-8	800-808	abbiegen	*[11]	
+8-9	808-809	,	_	
+8-10	810-814	wäre	_	
+8-11	815-818	die	_	
+8-12	819-835	Beeinträchtigung	_	
+8-13	836-839	für	_	
+8-14	840-843	die	_	
+8-15	844-854	Autofahrer	_	
+8-16	855-861	gering	_	
+8-17	861-862	,	_	
+8-18	863-866	der	_	
+8-19	867-884	Sicherheitsgewinn	_	
+8-20	885-888	für	_	
+8-21	889-892	die	_	
+8-22	893-902	Radfahrer	_	
+8-23	903-907	aber	_	
+8-24	908-914	immens	_	
+8-25	914-915	.	_	

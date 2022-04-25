@@ -1,0 +1,47 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Autofahrer rechnen nicht mit entgegenkommenden Fahrradfahrern
+1-1	0-10	Autofahrer	_	
+1-2	11-18	rechnen	_	
+1-3	19-24	nicht	_	
+1-4	25-28	mit	_	
+1-5	29-46	entgegenkommenden	_	
+1-6	47-61	Fahrradfahrern	_	
+
+#Text=Die Straße ist wegen parkender Autos zu eng.
+2-1	64-67	Die	_	
+2-2	68-74	Straße	_	
+2-3	75-78	ist	_	
+2-4	79-84	wegen	_	
+2-5	85-94	parkender	_	
+2-6	95-100	Autos	_	
+2-7	101-103	zu	_	
+2-8	104-107	eng	_	
+2-9	107-108	.	_	
+
+#Text=Autofahrer rechnen oft nicht mit entgegenkommenden Radfahrern.
+3-1	109-119	Autofahrer	_	
+3-2	120-127	rechnen	_	
+3-3	128-131	oft	_	
+3-4	132-137	nicht	_	
+3-5	138-141	mit	_	
+3-6	142-159	entgegenkommenden	_	
+3-7	160-170	Radfahrern	_	
+3-8	170-171	.	_	
+
+#Text=Viele Autofahrer schneiden die Kurve beim Linksabbieger von der Brahmsstraße.
+4-1	172-177	Viele	_	
+4-2	178-188	Autofahrer	_	
+4-3	189-198	schneiden	_	
+4-4	199-202	die	_	
+4-5	203-208	Kurve	_	
+4-6	209-213	beim	_	
+4-7	214-227	Linksabbieger	_	
+4-8	228-231	von	*[5]	
+4-9	232-235	der	*[5]	
+4-10	236-248	Brahmsstraße	*[5]	
+4-11	248-249	.	_	

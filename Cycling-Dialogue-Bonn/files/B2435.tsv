@@ -1,0 +1,51 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unterführung Königsstraße
+1-1	0-12	Unterführung	*[5]	
+1-2	13-25	Königsstraße	*[5]	
+
+#Text=Die Unterführung ist in einer 90°-Kurve angelegt.
+2-1	28-31	Die	_	
+2-2	32-44	Unterführung	_	
+2-3	45-48	ist	_	
+2-4	49-51	in	_	
+2-5	52-57	einer	_	
+2-6	58-60	90	_	
+2-7	60-61	°	_	
+2-8	61-62	-	_	
+2-9	62-67	Kurve	_	
+2-10	68-76	angelegt	_	
+2-11	76-77	.	_	
+
+#Text=Beim Durchqueren klingeln die meisten Radfahrer, um am Ende der Kurve Zusammenstöße zu vermeiden.
+3-1	78-82	Beim	_	
+3-2	83-94	Durchqueren	_	
+3-3	95-103	klingeln	_	
+3-4	104-107	die	_	
+3-5	108-115	meisten	_	
+3-6	116-125	Radfahrer	_	
+3-7	125-126	,	_	
+3-8	127-129	um	_	
+3-9	130-132	am	_	
+3-10	133-137	Ende	_	
+3-11	138-141	der	_	
+3-12	142-147	Kurve	_	
+3-13	148-161	Zusammenstöße	_	
+3-14	162-164	zu	_	
+3-15	165-174	vermeiden	_	
+3-16	174-175	.	_	
+
+#Text=Ein Spiegel in der Unterführung würde Abhilfe schaffen.
+4-1	176-179	Ein	_	
+4-2	180-187	Spiegel	_	
+4-3	188-190	in	_	
+4-4	191-194	der	_	
+4-5	195-207	Unterführung	_	
+4-6	208-213	würde	_	
+4-7	214-221	Abhilfe	_	
+4-8	222-230	schaffen	_	
+4-9	230-231	.	_	

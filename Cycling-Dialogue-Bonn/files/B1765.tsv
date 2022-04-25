@@ -1,0 +1,65 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkende Autos auf dem Radweg
+1-1	0-8	Parkende	_	
+1-2	9-14	Autos	_	
+1-3	15-18	auf	_	
+1-4	19-22	dem	_	
+1-5	23-29	Radweg	_	
+
+#Text=Vor einem großen Autohaus auf der Vorgebirgsstrasse ( ich glaube BMW) führt der Radweg vom Bürgersteig auf die Strasse (eingezeichneter Radweg).
+2-1	32-35	Vor	*[4]	
+2-2	36-41	einem	*[4]	
+2-3	42-48	großen	*[4]	
+2-4	49-57	Autohaus	*[4]	
+2-5	58-61	auf	*[4]	
+2-6	62-65	der	*[4]	
+2-7	66-83	Vorgebirgsstrasse	*[4]	
+2-8	84-85	(	_	
+2-9	86-89	ich	_	
+2-10	90-96	glaube	_	
+2-11	97-100	BMW	_	
+2-12	100-101	)	_	
+2-13	102-107	führt	_	
+2-14	108-111	der	_	
+2-15	112-118	Radweg	_	
+2-16	119-122	vom	_	
+2-17	123-134	Bürgersteig	_	
+2-18	135-138	auf	_	
+2-19	139-142	die	_	
+2-20	143-150	Strasse	_	
+2-21	151-152	(	_	
+2-22	152-167	eingezeichneter	_	
+2-23	168-174	Radweg	_	
+2-24	174-175	)	_	
+2-25	175-176	.	_	
+
+#Text=Leider wird diese Stelle immer wieder von parkenden Autos zugestellt, so dass ein Radfahrer nicht ungehindert auf den eingezeichneten Fahrrad-Strassenweg fahren kann.
+3-1	177-183	Leider	_	
+3-2	184-188	wird	_	
+3-3	189-194	diese	_	
+3-4	195-201	Stelle	_	
+3-5	202-207	immer	_	
+3-6	208-214	wieder	_	
+3-7	215-218	von	_	
+3-8	219-228	parkenden	_	
+3-9	229-234	Autos	_	
+3-10	235-245	zugestellt	_	
+3-11	245-246	,	_	
+3-12	247-249	so	_	
+3-13	250-254	dass	_	
+3-14	255-258	ein	_	
+3-15	259-268	Radfahrer	_	
+3-16	269-274	nicht	_	
+3-17	275-286	ungehindert	_	
+3-18	287-290	auf	_	
+3-19	291-294	den	_	
+3-20	295-310	eingezeichneten	_	
+3-21	311-330	Fahrrad-Strassenweg	_	
+3-22	331-337	fahren	_	
+3-23	338-342	kann	_	
+3-24	342-343	.	_	

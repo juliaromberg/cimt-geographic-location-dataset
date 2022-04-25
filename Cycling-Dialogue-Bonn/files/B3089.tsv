@@ -1,0 +1,51 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Randwege am Rhein
+1-1	0-8	Randwege	_	
+1-2	9-11	am	_	
+1-3	12-17	Rhein	_	
+
+#Text=Die Radwege am Rhein werden immer stärke frequentiert.
+2-1	20-23	Die	_	
+2-2	24-31	Radwege	_	
+2-3	32-34	am	_	
+2-4	35-40	Rhein	_	
+2-5	41-47	werden	_	
+2-6	48-53	immer	_	
+2-7	54-60	stärke	_	
+2-8	61-73	frequentiert	_	
+2-9	73-74	.	_	
+
+#Text=Jedoch haben die Wege einen schlechten Zustand und sind z.T. nicht breit genug bzw. nicht doppelspurig.
+3-1	75-81	Jedoch	_	
+3-2	82-87	haben	_	
+3-3	88-91	die	_	
+3-4	92-96	Wege	_	
+3-5	97-102	einen	_	
+3-6	103-113	schlechten	_	
+3-7	114-121	Zustand	_	
+3-8	122-125	und	_	
+3-9	126-130	sind	_	
+3-10	131-134	z.T	_	
+3-11	134-135	.	_	
+3-12	136-141	nicht	_	
+3-13	142-147	breit	_	
+3-14	148-153	genug	_	
+3-15	154-157	bzw	_	
+3-16	157-158	.	_	
+3-17	159-164	nicht	_	
+3-18	165-177	doppelspurig	_	
+3-19	177-178	.	_	
+
+#Text=Vor allem Zwischen Gronau und Plittersdorf.
+4-1	179-182	Vor	_	
+4-2	183-188	allem	_	
+4-3	189-197	Zwischen	*[5]	
+4-4	198-204	Gronau	*[5]	
+4-5	205-208	und	*[5]	
+4-6	209-221	Plittersdorf	*[5]	
+4-7	221-222	.	_	

@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg wird als Parkplatz missbraucht
+1-1	0-6	Radweg	_	
+1-2	7-11	wird	_	
+1-3	12-15	als	_	
+1-4	16-25	Parkplatz	_	
+1-5	26-37	missbraucht	_	
+
+#Text=An dieser Stelle wird der Radweg häufig dirch Autos befahren und als Parkplatz misbraucht, zum Bsp. von Kurieren.
+2-1	40-42	An	_	
+2-2	43-49	dieser	_	
+2-3	50-56	Stelle	_	
+2-4	57-61	wird	_	
+2-5	62-65	der	_	
+2-6	66-72	Radweg	_	
+2-7	73-79	häufig	_	
+2-8	80-85	dirch	_	
+2-9	86-91	Autos	_	
+2-10	92-100	befahren	_	
+2-11	101-104	und	_	
+2-12	105-108	als	_	
+2-13	109-118	Parkplatz	_	
+2-14	119-129	misbraucht	_	
+2-15	129-130	,	_	
+2-16	131-134	zum	_	
+2-17	135-138	Bsp	_	
+2-18	138-139	.	_	
+2-19	140-143	von	_	
+2-20	144-152	Kurieren	_	
+2-21	152-153	.	_	
+
+#Text=Baulich sollte der Radwegkante zur Straße hin eine Abgrezung angebracht werden, die das verhindert.
+3-1	154-161	Baulich	_	
+3-2	162-168	sollte	_	
+3-3	169-172	der	_	
+3-4	173-184	Radwegkante	_	
+3-5	185-188	zur	_	
+3-6	189-195	Straße	_	
+3-7	196-199	hin	_	
+3-8	200-204	eine	_	
+3-9	205-214	Abgrezung	_	
+3-10	215-225	angebracht	_	
+3-11	226-232	werden	_	
+3-12	232-233	,	_	
+3-13	234-237	die	_	
+3-14	238-241	das	_	
+3-15	242-252	verhindert	_	
+3-16	252-253	.	_	
+
+#Text=Schmale hohe Kunststoffsstreifen zum Aufkleben, die keinem Weh tun, aber eine klare Abgrezung aufzeigen.
+4-1	254-261	Schmale	_	
+4-2	262-266	hohe	_	
+4-3	267-286	Kunststoffsstreifen	_	
+4-4	287-290	zum	_	
+4-5	291-300	Aufkleben	_	
+4-6	300-301	,	_	
+4-7	302-305	die	_	
+4-8	306-312	keinem	_	
+4-9	313-316	Weh	_	
+4-10	317-320	tun	_	
+4-11	320-321	,	_	
+4-12	322-326	aber	_	
+4-13	327-331	eine	_	
+4-14	332-337	klare	_	
+4-15	338-347	Abgrezung	_	
+4-16	348-357	aufzeigen	_	
+4-17	357-358	.	_	

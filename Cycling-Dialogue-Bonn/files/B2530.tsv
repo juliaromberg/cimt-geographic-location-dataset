@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Links abbiegen, aber wie?
+1-1	0-5	Links	_	
+1-2	6-14	abbiegen	_	
+1-3	14-15	,	_	
+1-4	16-20	aber	_	
+1-5	21-24	wie	_	
+1-6	24-25	?	_	
+
+#Text=Vor dem Sexshop zeigen Wegweiser (Knotenpunktnetz) an, dass man links abbiegen soll.
+2-1	28-31	Vor	*[5]	
+2-2	32-35	dem	*[5]	
+2-3	36-43	Sexshop	*[5]	
+2-4	44-50	zeigen	_	
+2-5	51-60	Wegweiser	_	
+2-6	61-62	(	_	
+2-7	62-77	Knotenpunktnetz	_	
+2-8	77-78	)	_	
+2-9	79-81	an	_	
+2-10	81-82	,	_	
+2-11	83-87	dass	_	
+2-12	88-91	man	_	
+2-13	92-97	links	_	
+2-14	98-106	abbiegen	_	
+2-15	107-111	soll	_	
+2-16	111-112	.	_	
+
+#Text=Aber wie?
+3-1	113-117	Aber	_	
+3-2	118-121	wie	_	
+3-3	121-122	?	_	
+
+#Text=Das ist gerade für Ortsfremde unzumutbar.
+4-1	123-126	Das	_	
+4-2	127-130	ist	_	
+4-3	131-137	gerade	_	
+4-4	138-141	für	_	
+4-5	142-152	Ortsfremde	_	
+4-6	153-163	unzumutbar	_	
+4-7	163-164	.	_	

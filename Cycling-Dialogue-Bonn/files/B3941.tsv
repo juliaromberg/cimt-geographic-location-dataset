@@ -1,0 +1,84 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rathenauufer sollte Fahrradstraße werden
+1-1	0-12	Rathenauufer	*	
+1-2	13-19	sollte	_	
+1-3	20-33	Fahrradstraße	_	
+1-4	34-40	werden	_	
+
+#Text=Das Rheinufer sollte Fahrradstraße sein (Zweite Fährgasse, Rathenauufer, Brassertufer).
+2-1	43-46	Das	*[7]	
+2-2	47-56	Rheinufer	*[7]	
+2-3	57-63	sollte	_	
+2-4	64-77	Fahrradstraße	_	
+2-5	78-82	sein	_	
+2-6	83-84	(	_	
+2-7	84-90	Zweite	*[8]	
+2-8	91-100	Fährgasse	*[8]	
+2-9	100-101	,	*[8]	
+2-10	102-114	Rathenauufer	*[8]	
+2-11	114-115	,	*[8]	
+2-12	116-128	Brassertufer	*[8]	
+2-13	128-129	)	_	
+2-14	129-130	.	_	
+
+#Text=Der Radweg ist sowieso zu schmal und baufällig.
+3-1	131-134	Der	_	
+3-2	135-141	Radweg	_	
+3-3	142-145	ist	_	
+3-4	146-153	sowieso	_	
+3-5	154-156	zu	_	
+3-6	157-163	schmal	_	
+3-7	164-167	und	_	
+3-8	168-177	baufällig	_	
+3-9	177-178	.	_	
+
+#Text=Dann könnte man auch endlich links in die Rheingasse abbiegen ohne Verrenkungen.
+4-1	179-183	Dann	_	
+4-2	184-190	könnte	_	
+4-3	191-194	man	_	
+4-4	195-199	auch	_	
+4-5	200-207	endlich	_	
+4-6	208-213	links	*[9]	
+4-7	214-216	in	*[9]	
+4-8	217-220	die	*[9]	
+4-9	221-231	Rheingasse	*[9]	
+4-10	232-240	abbiegen	*[9]	
+4-11	241-245	ohne	_	
+4-12	246-258	Verrenkungen	_	
+4-13	258-259	.	_	
+
+#Text=Das würde den vielen Radpendlern, die täglich von dort zur Kennedybrücke müssen, sehr helfen.
+5-1	260-263	Das	_	
+5-2	264-269	würde	_	
+5-3	270-273	den	_	
+5-4	274-280	vielen	_	
+5-5	281-292	Radpendlern	_	
+5-6	292-293	,	_	
+5-7	294-297	die	_	
+5-8	298-305	täglich	_	
+5-9	306-309	von	*[10]	
+5-10	310-314	dort	*[10]	
+5-11	315-318	zur	*[10]	
+5-12	319-332	Kennedybrücke	*[10]	
+5-13	333-339	müssen	_	
+5-14	339-340	,	_	
+5-15	341-345	sehr	_	
+5-16	346-352	helfen	_	
+5-17	352-353	.	_	
+
+#Text=Für PKW gibt es ja parallel die Autostraße B9.
+6-1	354-357	Für	_	
+6-2	358-361	PKW	_	
+6-3	362-366	gibt	_	
+6-4	367-369	es	_	
+6-5	370-372	ja	_	
+6-6	373-381	parallel	_	
+6-7	382-385	die	_	
+6-8	386-396	Autostraße	_	
+6-9	397-399	B9	_	
+6-10	399-400	.	*	

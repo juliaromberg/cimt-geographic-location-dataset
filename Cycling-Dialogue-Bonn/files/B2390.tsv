@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hotelgäste blockieren den Radweg
+1-1	0-10	Hotelgäste	_	
+1-2	11-21	blockieren	_	
+1-3	22-25	den	_	
+1-4	26-32	Radweg	_	
+
+#Text=Vor dem Hotel warten Gäste auf ihr Taxi oder den Reisebus, natürlich in Gruppen und auf dem Radweg.
+2-1	35-38	Vor	_	
+2-2	39-42	dem	_	
+2-3	43-48	Hotel	_	
+2-4	49-55	warten	_	
+2-5	56-61	Gäste	_	
+2-6	62-65	auf	_	
+2-7	66-69	ihr	_	
+2-8	70-74	Taxi	_	
+2-9	75-79	oder	_	
+2-10	80-83	den	_	
+2-11	84-92	Reisebus	_	
+2-12	92-93	,	_	
+2-13	94-103	natürlich	_	
+2-14	104-106	in	_	
+2-15	107-114	Gruppen	_	
+2-16	115-118	und	_	
+2-17	119-122	auf	_	
+2-18	123-126	dem	_	
+2-19	127-133	Radweg	_	
+2-20	133-134	.	_	
+
+#Text=Vielleicht könnte man den Radweg farblich kennzeichnen, um den ortsfremden Gästen zumindest den Radweg kenntlich zu machen.
+3-1	135-145	Vielleicht	_	
+3-2	146-152	könnte	_	
+3-3	153-156	man	_	
+3-4	157-160	den	_	
+3-5	161-167	Radweg	_	
+3-6	168-176	farblich	_	
+3-7	177-189	kennzeichnen	_	
+3-8	189-190	,	_	
+3-9	191-193	um	_	
+3-10	194-197	den	_	
+3-11	198-209	ortsfremden	_	
+3-12	210-216	Gästen	_	
+3-13	217-226	zumindest	_	
+3-14	227-230	den	_	
+3-15	231-237	Radweg	_	
+3-16	238-247	kenntlich	_	
+3-17	248-250	zu	_	
+3-18	251-257	machen	_	
+3-19	257-258	.	_	
+
+#Text=Wenn die Rezeption des Hotels dann auch noch aktiv grössere Reisegruppen auf das Problem aufmerksam machen könnte ...
+4-1	259-263	Wenn	_	
+4-2	264-267	die	_	
+4-3	268-277	Rezeption	_	
+4-4	278-281	des	_	
+4-5	282-288	Hotels	_	
+4-6	289-293	dann	_	
+4-7	294-298	auch	_	
+4-8	299-303	noch	_	
+4-9	304-309	aktiv	_	
+4-10	310-318	grössere	_	
+4-11	319-331	Reisegruppen	_	
+4-12	332-335	auf	_	
+4-13	336-339	das	_	
+4-14	340-347	Problem	_	
+4-15	348-358	aufmerksam	_	
+4-16	359-365	machen	_	
+4-17	366-372	könnte	_	
+4-18	373-374	.	_	
+4-19	374-375	.	_	
+4-20	375-376	.	_	

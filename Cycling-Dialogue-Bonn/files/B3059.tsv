@@ -1,0 +1,155 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Grünphase für Radfahrer zu kurz
+1-1	0-9	Grünphase	_	
+1-2	10-13	für	_	
+1-3	14-23	Radfahrer	_	
+1-4	24-26	zu	_	
+1-5	27-31	kurz	_	
+
+#Text=Egal, ob ich hier mit einem normalen oder einem schnelleren Rad unterwegs bin, ich schaffe es nicht, hier die Grünphase zu erwischen.
+2-1	34-38	Egal	_	
+2-2	38-39	,	_	
+2-3	40-42	ob	_	
+2-4	43-46	ich	_	
+2-5	47-51	hier	_	
+2-6	52-55	mit	_	
+2-7	56-61	einem	_	
+2-8	62-70	normalen	_	
+2-9	71-75	oder	_	
+2-10	76-81	einem	_	
+2-11	82-93	schnelleren	_	
+2-12	94-97	Rad	_	
+2-13	98-107	unterwegs	_	
+2-14	108-111	bin	_	
+2-15	111-112	,	_	
+2-16	113-116	ich	_	
+2-17	117-124	schaffe	_	
+2-18	125-127	es	_	
+2-19	128-133	nicht	_	
+2-20	133-134	,	_	
+2-21	135-139	hier	_	
+2-22	140-143	die	_	
+2-23	144-153	Grünphase	_	
+2-24	154-156	zu	_	
+2-25	157-166	erwischen	_	
+2-26	166-167	.	_	
+
+#Text=Sobald man am unteren Ende über die Induktionsschleife fährt, springt die Ampel auf Grün.
+3-1	168-174	Sobald	_	
+3-2	175-178	man	_	
+3-3	179-181	am	_	
+3-4	182-189	unteren	_	
+3-5	190-194	Ende	_	
+3-6	195-199	über	_	
+3-7	200-203	die	_	
+3-8	204-222	Induktionsschleife	_	
+3-9	223-228	fährt	_	
+3-10	228-229	,	_	
+3-11	230-237	springt	_	
+3-12	238-241	die	_	
+3-13	242-247	Ampel	_	
+3-14	248-251	auf	_	
+3-15	252-256	Grün	_	
+3-16	256-257	.	_	
+
+#Text=Autofahrer kommen hier dann mit ihrem Tempo rüber, als Radfahrer muss man kurz stoppen, weil die Ampel schon wieder auf Rot gesprungen ist, wenn man sie erreicht hat.
+4-1	258-268	Autofahrer	_	
+4-2	269-275	kommen	_	
+4-3	276-280	hier	_	
+4-4	281-285	dann	_	
+4-5	286-289	mit	_	
+4-6	290-295	ihrem	_	
+4-7	296-301	Tempo	_	
+4-8	302-307	rüber	_	
+4-9	307-308	,	_	
+4-10	309-312	als	_	
+4-11	313-322	Radfahrer	_	
+4-12	323-327	muss	_	
+4-13	328-331	man	_	
+4-14	332-336	kurz	_	
+4-15	337-344	stoppen	_	
+4-16	344-345	,	_	
+4-17	346-350	weil	_	
+4-18	351-354	die	_	
+4-19	355-360	Ampel	_	
+4-20	361-366	schon	_	
+4-21	367-373	wieder	_	
+4-22	374-377	auf	_	
+4-23	378-381	Rot	_	
+4-24	382-392	gesprungen	_	
+4-25	393-396	ist	_	
+4-26	396-397	,	_	
+4-27	398-402	wenn	_	
+4-28	403-406	man	_	
+4-29	407-410	sie	_	
+4-30	411-419	erreicht	_	
+4-31	420-423	hat	_	
+4-32	423-424	.	_	
+
+#Text=Diese Ampel ist aber im Bonner Stadtgebiet nicht die einzige, an der man als Radfahrer zum Halten gebracht wird.
+5-1	425-430	Diese	_	
+5-2	431-436	Ampel	_	
+5-3	437-440	ist	_	
+5-4	441-445	aber	_	
+5-5	446-448	im	*[8]	
+5-6	449-455	Bonner	*[8]	
+5-7	456-467	Stadtgebiet	*[8]	
+5-8	468-473	nicht	_	
+5-9	474-477	die	_	
+5-10	478-485	einzige	_	
+5-11	485-486	,	_	
+5-12	487-489	an	_	
+5-13	490-493	der	_	
+5-14	494-497	man	_	
+5-15	498-501	als	_	
+5-16	502-511	Radfahrer	_	
+5-17	512-515	zum	_	
+5-18	516-522	Halten	_	
+5-19	523-531	gebracht	_	
+5-20	532-536	wird	_	
+5-21	536-537	.	_	
+
+#Text=Wenn man den Verkehr radfreundlich gestalten will, dann muss man einmal systematisch alle Ampeln prüfen, ob die Schaltungen eine Grüne Welle für Radfahrer erlauben.
+6-1	538-542	Wenn	_	
+6-2	543-546	man	_	
+6-3	547-550	den	_	
+6-4	551-558	Verkehr	_	
+6-5	559-572	radfreundlich	_	
+6-6	573-582	gestalten	_	
+6-7	583-587	will	_	
+6-8	587-588	,	_	
+6-9	589-593	dann	_	
+6-10	594-598	muss	_	
+6-11	599-602	man	_	
+6-12	603-609	einmal	_	
+6-13	610-622	systematisch	_	
+6-14	623-627	alle	_	
+6-15	628-634	Ampeln	_	
+6-16	635-641	prüfen	_	
+6-17	641-642	,	_	
+6-18	643-645	ob	_	
+6-19	646-649	die	_	
+6-20	650-661	Schaltungen	_	
+6-21	662-666	eine	_	
+6-22	667-672	Grüne	_	
+6-23	673-678	Welle	_	
+6-24	679-682	für	_	
+6-25	683-692	Radfahrer	_	
+6-26	693-701	erlauben	_	
+6-27	701-702	.	_	
+
+#Text=Momentan ist das an vielen Stellen nicht so.
+7-1	703-711	Momentan	_	
+7-2	712-715	ist	_	
+7-3	716-719	das	_	
+7-4	720-722	an	_	
+7-5	723-729	vielen	_	
+7-6	730-737	Stellen	_	
+7-7	738-743	nicht	_	
+7-8	744-746	so	_	
+7-9	746-747	.	_	

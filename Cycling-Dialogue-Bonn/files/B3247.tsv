@@ -1,0 +1,51 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schleche Radverkehrsführung
+1-1	0-8	Schleche	_	
+1-2	9-27	Radverkehrsführung	_	
+
+#Text=Hier gibt es keine Trennung zwischen Fuß- und Radverkehr.
+2-1	30-34	Hier	_	
+2-2	35-39	gibt	_	
+2-3	40-42	es	_	
+2-4	43-48	keine	_	
+2-5	49-57	Trennung	_	
+2-6	58-66	zwischen	_	
+2-7	67-70	Fuß	_	
+2-8	70-71	-	_	
+2-9	72-75	und	_	
+2-10	76-86	Radverkehr	_	
+2-11	86-87	.	_	
+
+#Text=Zudem viel zu schmal mit Ein- und Ausfahrten usw.
+3-1	88-93	Zudem	_	
+3-2	94-98	viel	_	
+3-3	99-101	zu	_	
+3-4	102-108	schmal	_	
+3-5	109-112	mit	_	
+3-6	113-116	Ein	_	
+3-7	116-117	-	_	
+3-8	118-121	und	_	
+3-9	122-132	Ausfahrten	_	
+3-10	133-136	usw	_	
+3-11	136-137	.	_	
+
+#Text=Meiner Meinung nach gehören Räder hier nicht hin, sondern auf die Straße.
+4-1	138-144	Meiner	_	
+4-2	145-152	Meinung	_	
+4-3	153-157	nach	_	
+4-4	158-165	gehören	_	
+4-5	166-171	Räder	_	
+4-6	172-176	hier	_	
+4-7	177-182	nicht	_	
+4-8	183-186	hin	_	
+4-9	186-187	,	_	
+4-10	188-195	sondern	_	
+4-11	196-199	auf	_	
+4-12	200-203	die	_	
+4-13	204-210	Straße	_	
+4-14	210-211	.	_	

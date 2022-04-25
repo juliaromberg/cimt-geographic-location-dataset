@@ -1,0 +1,120 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Probleme vor dem Beethoven-Gymnasium
+1-1	0-8	Probleme	_	
+1-2	9-12	vor	*[7]	
+1-3	13-16	dem	*[7]	
+1-4	17-36	Beethoven-Gymnasium	*[7]	
+
+#Text=Jeden Morgen kommt es vor dem Beethoven-Gymnasium zu gefährlichen Situationen für Radfahrer.
+2-1	39-44	Jeden	_	
+2-2	45-51	Morgen	_	
+2-3	52-57	kommt	_	
+2-4	58-60	es	_	
+2-5	61-64	vor	*[8]	
+2-6	65-68	dem	*[8]	
+2-7	69-88	Beethoven-Gymnasium	*[8]	
+2-8	89-91	zu	_	
+2-9	92-104	gefährlichen	_	
+2-10	105-116	Situationen	_	
+2-11	117-120	für	_	
+2-12	121-130	Radfahrer	_	
+2-13	130-131	.	_	
+
+#Text=Eltern bringen ihre Kinder mit dem Auto zur Schule und parken an der Bushaltebucht vor der Schule.
+3-1	132-138	Eltern	_	
+3-2	139-146	bringen	_	
+3-3	147-151	ihre	_	
+3-4	152-158	Kinder	_	
+3-5	159-162	mit	_	
+3-6	163-166	dem	_	
+3-7	167-171	Auto	_	
+3-8	172-175	zur	_	
+3-9	176-182	Schule	_	
+3-10	183-186	und	_	
+3-11	187-193	parken	_	
+3-12	194-196	an	_	
+3-13	197-200	der	_	
+3-14	201-214	Bushaltebucht	_	
+3-15	215-218	vor	_	
+3-16	219-222	der	_	
+3-17	223-229	Schule	_	
+3-18	229-230	.	_	
+
+#Text=Durch dieses An- und Abfahren kommt es immer wieder zu Begegnungen zwischen Autos und Fahrrädern.
+4-1	231-236	Durch	_	
+4-2	237-243	dieses	_	
+4-3	244-246	An	_	
+4-4	246-247	-	_	
+4-5	248-251	und	_	
+4-6	252-260	Abfahren	_	
+4-7	261-266	kommt	_	
+4-8	267-269	es	_	
+4-9	270-275	immer	_	
+4-10	276-282	wieder	_	
+4-11	283-285	zu	_	
+4-12	286-297	Begegnungen	_	
+4-13	298-306	zwischen	_	
+4-14	307-312	Autos	_	
+4-15	313-316	und	_	
+4-16	317-327	Fahrrädern	_	
+4-17	327-328	.	_	
+
+#Text=Auch Schüler, die mit dem Fahrrad zur Schule kommen, sind hierdurch gefährdet, weil die Schlange der wartenden Elterntaxis tlw. länger ist als die Bushaltebucht und dadurch der Radweg zugeparkt wird.
+5-1	329-333	Auch	_	
+5-2	334-341	Schüler	_	
+5-3	341-342	,	_	
+5-4	343-346	die	_	
+5-5	347-350	mit	_	
+5-6	351-354	dem	_	
+5-7	355-362	Fahrrad	_	
+5-8	363-366	zur	_	
+5-9	367-373	Schule	_	
+5-10	374-380	kommen	_	
+5-11	380-381	,	_	
+5-12	382-386	sind	_	
+5-13	387-396	hierdurch	_	
+5-14	397-406	gefährdet	_	
+5-15	406-407	,	_	
+5-16	408-412	weil	_	
+5-17	413-416	die	_	
+5-18	417-425	Schlange	_	
+5-19	426-429	der	_	
+5-20	430-439	wartenden	_	
+5-21	440-451	Elterntaxis	_	
+5-22	452-455	tlw	_	
+5-23	455-456	.	_	
+5-24	457-463	länger	_	
+5-25	464-467	ist	_	
+5-26	468-471	als	_	
+5-27	472-475	die	_	
+5-28	476-489	Bushaltebucht	_	
+5-29	490-493	und	_	
+5-30	494-501	dadurch	_	
+5-31	502-505	der	_	
+5-32	506-512	Radweg	_	
+5-33	513-522	zugeparkt	_	
+5-34	523-527	wird	_	
+5-35	527-528	.	_	
+
+#Text=Hier sollte dringend Abhilfe geschaffen werden, dass ein Parken so nicht mehr möglich ist.
+6-1	529-533	Hier	_	
+6-2	534-540	sollte	_	
+6-3	541-549	dringend	_	
+6-4	550-557	Abhilfe	_	
+6-5	558-568	geschaffen	_	
+6-6	569-575	werden	_	
+6-7	575-576	,	_	
+6-8	577-581	dass	_	
+6-9	582-585	ein	_	
+6-10	586-592	Parken	_	
+6-11	593-595	so	_	
+6-12	596-601	nicht	_	
+6-13	602-606	mehr	_	
+6-14	607-614	möglich	_	
+6-15	615-618	ist	_	
+6-16	618-619	.	_	

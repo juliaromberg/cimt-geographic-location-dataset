@@ -1,0 +1,210 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Neugestaltete Burbacher Straße zugeparkt bis zum Gehtnichtmehr
+1-1	0-13	Neugestaltete	_	
+1-2	14-23	Burbacher	*[11]	
+1-3	24-30	Straße	*[11]	
+1-4	31-40	zugeparkt	_	
+1-5	41-44	bis	_	
+1-6	45-48	zum	_	
+1-7	49-62	Gehtnichtmehr	_	
+
+#Text=Die Burbacher Straße wurde nach den Kanalarbeiten komplett neu gestaltet.
+2-1	65-68	Die	*[12]	
+2-2	69-78	Burbacher	*[12]	
+2-3	79-85	Straße	*[12]	
+2-4	86-91	wurde	_	
+2-5	92-96	nach	_	
+2-6	97-100	den	_	
+2-7	101-114	Kanalarbeiten	_	
+2-8	115-123	komplett	_	
+2-9	124-127	neu	_	
+2-10	128-137	gestaltet	_	
+2-11	137-138	.	_	
+
+#Text=Leider ist sie mittlerweile komplett zugeparkt, auf beiden Seiten!
+3-1	139-145	Leider	_	
+3-2	146-149	ist	_	
+3-3	150-153	sie	_	
+3-4	154-166	mittlerweile	_	
+3-5	167-175	komplett	_	
+3-6	176-185	zugeparkt	_	
+3-7	185-186	,	_	
+3-8	187-190	auf	_	
+3-9	191-197	beiden	_	
+3-10	198-204	Seiten	_	
+3-11	204-205	!	_	
+
+#Text=Somit haben auf den Bürgersteigen Kinderwägen keine Chance zum durchkommen und Radfahrer werden sehr oft von PKWs regelrecht zur Seite gedrängt - der Stärkere gewinnt.
+4-1	206-211	Somit	_	
+4-2	212-217	haben	_	
+4-3	218-221	auf	_	
+4-4	222-225	den	_	
+4-5	226-239	Bürgersteigen	_	
+4-6	240-251	Kinderwägen	_	
+4-7	252-257	keine	_	
+4-8	258-264	Chance	_	
+4-9	265-268	zum	_	
+4-10	269-280	durchkommen	_	
+4-11	281-284	und	_	
+4-12	285-294	Radfahrer	_	
+4-13	295-301	werden	_	
+4-14	302-306	sehr	_	
+4-15	307-310	oft	_	
+4-16	311-314	von	_	
+4-17	315-319	PKWs	_	
+4-18	320-330	regelrecht	_	
+4-19	331-334	zur	_	
+4-20	335-340	Seite	_	
+4-21	341-349	gedrängt	_	
+4-22	350-351	-	_	
+4-23	352-355	der	_	
+4-24	356-364	Stärkere	_	
+4-25	365-372	gewinnt	_	
+4-26	372-373	.	_	
+
+#Text=Extrem wird es auf dem Abschnitt zwischen Pützstraße und Wolterstraße: hier ist die Einbahnstraße für Radfahrer freigegeben worden.
+5-1	374-380	Extrem	_	
+5-2	381-385	wird	_	
+5-3	386-388	es	_	
+5-4	389-392	auf	_	
+5-5	393-396	dem	_	
+5-6	397-406	Abschnitt	_	
+5-7	407-415	zwischen	*[13]	
+5-8	416-426	Pützstraße	*[13]	
+5-9	427-430	und	*[13]	
+5-10	431-443	Wolterstraße	*[13]	
+5-11	443-444	:	_	
+5-12	445-449	hier	_	
+5-13	450-453	ist	_	
+5-14	454-457	die	_	
+5-15	458-471	Einbahnstraße	_	
+5-16	472-475	für	_	
+5-17	476-485	Radfahrer	_	
+5-18	486-497	freigegeben	_	
+5-19	498-504	worden	_	
+5-20	504-505	.	_	
+
+#Text=Trotzdem fahren PKWs rücksichtslos in den Abschnitt ein, obwohl man sich als Radfahrer bereits auf dem Abschnitt befindet und man auch sichtbar ist.
+6-1	506-514	Trotzdem	_	
+6-2	515-521	fahren	_	
+6-3	522-526	PKWs	_	
+6-4	527-540	rücksichtslos	_	
+6-5	541-543	in	_	
+6-6	544-547	den	_	
+6-7	548-557	Abschnitt	_	
+6-8	558-561	ein	_	
+6-9	561-562	,	_	
+6-10	563-569	obwohl	_	
+6-11	570-573	man	_	
+6-12	574-578	sich	_	
+6-13	579-582	als	_	
+6-14	583-592	Radfahrer	_	
+6-15	593-600	bereits	_	
+6-16	601-604	auf	_	
+6-17	605-608	dem	_	
+6-18	609-618	Abschnitt	_	
+6-19	619-627	befindet	_	
+6-20	628-631	und	_	
+6-21	632-635	man	_	
+6-22	636-640	auch	_	
+6-23	641-649	sichtbar	_	
+6-24	650-653	ist	_	
+6-25	653-654	.	_	
+
+#Text=Dann wird man zum Anhalten gezwungen und muss auf dem Bürgersteig ausweichen- und darf sich auch noch beschimpfen lassen.
+7-1	655-659	Dann	_	
+7-2	660-664	wird	_	
+7-3	665-668	man	_	
+7-4	669-672	zum	_	
+7-5	673-681	Anhalten	_	
+7-6	682-691	gezwungen	_	
+7-7	692-695	und	_	
+7-8	696-700	muss	_	
+7-9	701-704	auf	_	
+7-10	705-708	dem	_	
+7-11	709-720	Bürgersteig	_	
+7-12	721-731	ausweichen	_	
+7-13	731-732	-	_	
+7-14	733-736	und	_	
+7-15	737-741	darf	_	
+7-16	742-746	sich	_	
+7-17	747-751	auch	_	
+7-18	752-756	noch	_	
+7-19	757-768	beschimpfen	_	
+7-20	769-775	lassen	_	
+7-21	775-776	.	_	
+
+#Text=Der Weg über die Burbacherstraße ist eine wichtige Verbindung für Radfahrer nach / von Süden.
+8-1	777-780	Der	_	
+8-2	781-784	Weg	_	
+8-3	785-789	über	*[14]	
+8-4	790-793	die	*[14]	
+8-5	794-809	Burbacherstraße	*[14]	
+8-6	810-813	ist	_	
+8-7	814-818	eine	_	
+8-8	819-827	wichtige	_	
+8-9	828-838	Verbindung	_	
+8-10	839-842	für	_	
+8-11	843-852	Radfahrer	_	
+8-12	853-857	nach	_	
+8-13	858-859	/	_	
+8-14	860-863	von	_	
+8-15	864-869	Süden	_	
+8-16	869-870	.	_	
+
+#Text=Die Hausdorffstraße als auch die Karl-Barth-Straße sind so stark mit PKWs und LKWs befahren, dass dort Radverkehr gar nicht mehr möglich ist.
+9-1	871-874	Die	*[15]	
+9-2	875-890	Hausdorffstraße	*[15]	
+9-3	891-894	als	*[15]	
+9-4	895-899	auch	*[15]	
+9-5	900-903	die	*[15]	
+9-6	904-921	Karl-Barth-Straße	*[15]	
+9-7	922-926	sind	_	
+9-8	927-929	so	_	
+9-9	930-935	stark	_	
+9-10	936-939	mit	_	
+9-11	940-944	PKWs	_	
+9-12	945-948	und	_	
+9-13	949-953	LKWs	_	
+9-14	954-962	befahren	_	
+9-15	962-963	,	_	
+9-16	964-968	dass	_	
+9-17	969-973	dort	_	
+9-18	974-984	Radverkehr	_	
+9-19	985-988	gar	_	
+9-20	989-994	nicht	_	
+9-21	995-999	mehr	_	
+9-22	1000-1007	möglich	_	
+9-23	1008-1011	ist	_	
+9-24	1011-1012	.	_	
+
+#Text=Bitte sorgen Sie dafür, dass man als Fussgänger und Radfahrer wieder den Platz im allgemeinen Verkehrsraum hat, der uns auch zusteht!
+10-1	1013-1018	Bitte	_	
+10-2	1019-1025	sorgen	_	
+10-3	1026-1029	Sie	_	
+10-4	1030-1035	dafür	_	
+10-5	1035-1036	,	_	
+10-6	1037-1041	dass	_	
+10-7	1042-1045	man	_	
+10-8	1046-1049	als	_	
+10-9	1050-1060	Fussgänger	_	
+10-10	1061-1064	und	_	
+10-11	1065-1074	Radfahrer	_	
+10-12	1075-1081	wieder	_	
+10-13	1082-1085	den	_	
+10-14	1086-1091	Platz	_	
+10-15	1092-1094	im	_	
+10-16	1095-1106	allgemeinen	_	
+10-17	1107-1119	Verkehrsraum	_	
+10-18	1120-1123	hat	_	
+10-19	1123-1124	,	_	
+10-20	1125-1128	der	_	
+10-21	1129-1132	uns	_	
+10-22	1133-1137	auch	_	
+10-23	1138-1145	zusteht	_	
+10-24	1145-1146	!	_	

@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=»Schutzstreifen« im Türbereich der parkenden Autos
+1-1	0-1	»	_	
+1-2	1-15	Schutzstreifen	_	
+1-3	15-16	«	_	
+1-4	17-19	im	_	
+1-5	20-30	Türbereich	_	
+1-6	31-34	der	_	
+1-7	35-44	parkenden	_	
+1-8	45-50	Autos	_	
+
+#Text=Auf beiden Seiten stehen parkende Autos direkt neben dem »Schutzstreifen«.
+2-1	53-56	Auf	_	
+2-2	57-63	beiden	_	
+2-3	64-70	Seiten	_	
+2-4	71-77	stehen	_	
+2-5	78-86	parkende	_	
+2-6	87-92	Autos	_	
+2-7	93-99	direkt	_	
+2-8	100-105	neben	_	
+2-9	106-109	dem	_	
+2-10	110-111	»	_	
+2-11	111-125	Schutzstreifen	_	
+2-12	125-126	«	_	
+2-13	126-127	.	_	

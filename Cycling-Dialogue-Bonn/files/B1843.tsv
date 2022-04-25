@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Grünüberwuchs
+1-1	0-13	Grünüberwuchs	_	
+
+#Text=Der nicht sehr breite Radweg wird an mehreren Stellen zwischen Oper und Nordbrücke durch einwachsende Pflanzen noch weiter eingeschränkt.
+2-1	16-19	Der	_	
+2-2	20-25	nicht	_	
+2-3	26-30	sehr	_	
+2-4	31-37	breite	_	
+2-5	38-44	Radweg	_	
+2-6	45-49	wird	_	
+2-7	50-52	an	_	
+2-8	53-61	mehreren	_	
+2-9	62-69	Stellen	_	
+2-10	70-78	zwischen	*[3]	
+2-11	79-83	Oper	*[3]	
+2-12	84-87	und	*[3]	
+2-13	88-98	Nordbrücke	*[3]	
+2-14	99-104	durch	_	
+2-15	105-117	einwachsende	_	
+2-16	118-126	Pflanzen	_	
+2-17	127-131	noch	_	
+2-18	132-138	weiter	_	
+2-19	139-152	eingeschränkt	_	
+2-20	152-153	.	_	
+
+#Text=Hier sollte (regelmäßig) zurückgeschnitten oder eine andere Bepflanzung gewählt werden.
+3-1	154-158	Hier	_	
+3-2	159-165	sollte	_	
+3-3	166-167	(	_	
+3-4	167-177	regelmäßig	_	
+3-5	177-178	)	_	
+3-6	179-196	zurückgeschnitten	_	
+3-7	197-201	oder	_	
+3-8	202-206	eine	_	
+3-9	207-213	andere	_	
+3-10	214-225	Bepflanzung	_	
+3-11	226-233	gewählt	_	
+3-12	234-240	werden	_	
+3-13	240-241	.	_	

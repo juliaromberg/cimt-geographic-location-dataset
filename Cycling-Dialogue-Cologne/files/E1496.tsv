@@ -1,0 +1,27 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Autofrei
+1-1	0-8	Autofrei	_	
+
+#Text=Venloer Straße Autofrei von der Inneren bis zur Äußeren Kanalstraße.
+2-1	11-18	Venloer	*[3]	
+2-2	19-25	Straße	*[3]	
+2-3	26-34	Autofrei	*[3]	
+2-4	35-38	von	*[3]	
+2-5	39-42	der	*[3]	
+2-6	43-50	Inneren	*[3]	
+2-7	51-54	bis	*[3]	
+2-8	55-58	zur	*[3]	
+2-9	59-66	Äußeren	*[3]	
+2-10	67-78	Kanalstraße	*[3]	
+2-11	78-79	.	_	
+
+#Text=Frei für Lieferverkehr.
+3-1	80-84	Frei	_	
+3-2	85-88	für	_	
+3-3	89-102	Lieferverkehr	_	
+3-4	102-103	.	_	

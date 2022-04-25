@@ -1,0 +1,166 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bushaltestelle verlegen oder Höhenausgleich zur benachbarten Bahn
+1-1	0-14	Bushaltestelle	_	
+1-2	15-23	verlegen	_	
+1-3	24-28	oder	_	
+1-4	29-43	Höhenausgleich	_	
+1-5	44-47	zur	_	
+1-6	48-60	benachbarten	_	
+1-7	61-65	Bahn	_	
+
+#Text=Hier habe ich mich mal richtig auf die Nase gelegt.
+2-1	68-72	Hier	_	
+2-2	73-77	habe	_	
+2-3	78-81	ich	_	
+2-4	82-86	mich	_	
+2-5	87-90	mal	_	
+2-6	91-98	richtig	_	
+2-7	99-102	auf	_	
+2-8	103-106	die	_	
+2-9	107-111	Nase	_	
+2-10	112-118	gelegt	_	
+2-11	118-119	.	_	
+
+#Text=Die SWB kam auf die schlechte Idee diese Haltestelle für den Schienenersatzverkehr zu nutzen.
+3-1	120-123	Die	_	
+3-2	124-127	SWB	_	
+3-3	128-131	kam	_	
+3-4	132-135	auf	_	
+3-5	136-139	die	_	
+3-6	140-149	schlechte	_	
+3-7	150-154	Idee	_	
+3-8	155-160	diese	_	
+3-9	161-172	Haltestelle	_	
+3-10	173-176	für	_	
+3-11	177-180	den	_	
+3-12	181-202	Schienenersatzverkehr	_	
+3-13	203-205	zu	_	
+3-14	206-212	nutzen	_	
+3-15	212-213	.	_	
+
+#Text=Das bedeutete, dass hier Busse mehrere Minuten standen und man als Radfahrer genötigt wurde, auf die benachbarte gepflasterte Schienentrasse auszuweichen.
+4-1	214-217	Das	_	
+4-2	218-227	bedeutete	_	
+4-3	227-228	,	_	
+4-4	229-233	dass	_	
+4-5	234-238	hier	_	
+4-6	239-244	Busse	_	
+4-7	245-252	mehrere	_	
+4-8	253-260	Minuten	_	
+4-9	261-268	standen	_	
+4-10	269-272	und	_	
+4-11	273-276	man	_	
+4-12	277-280	als	_	
+4-13	281-290	Radfahrer	_	
+4-14	291-299	genötigt	_	
+4-15	300-305	wurde	_	
+4-16	305-306	,	_	
+4-17	307-310	auf	_	
+4-18	311-314	die	_	
+4-19	315-326	benachbarte	_	
+4-20	327-339	gepflasterte	_	
+4-21	340-354	Schienentrasse	_	
+4-22	355-367	auszuweichen	_	
+4-23	367-368	.	_	
+
+#Text=Nach Überwindung des Höhenunterschiedes kam anschließend die Schiene und dann war es passiert.
+5-1	369-373	Nach	_	
+5-2	374-385	Überwindung	_	
+5-3	386-389	des	_	
+5-4	390-408	Höhenunterschiedes	_	
+5-5	409-412	kam	_	
+5-6	413-425	anschließend	_	
+5-7	426-429	die	_	
+5-8	430-437	Schiene	_	
+5-9	438-441	und	_	
+5-10	442-446	dann	_	
+5-11	447-450	war	_	
+5-12	451-453	es	_	
+5-13	454-462	passiert	_	
+5-14	462-463	.	_	
+
+#Text=Wegen der benachbarten Haltestelle Beuel-Rathaus könnte man doch sehr gut auf diese Haltestelle verzichten.
+6-1	464-469	Wegen	_	
+6-2	470-473	der	_	
+6-3	474-486	benachbarten	_	
+6-4	487-498	Haltestelle	*[11]	
+6-5	499-512	Beuel-Rathaus	*[11]	
+6-6	513-519	könnte	_	
+6-7	520-523	man	_	
+6-8	524-528	doch	_	
+6-9	529-533	sehr	_	
+6-10	534-537	gut	_	
+6-11	538-541	auf	_	
+6-12	542-547	diese	_	
+6-13	548-559	Haltestelle	_	
+6-14	560-570	verzichten	_	
+6-15	570-571	.	_	
+
+#Text=Alle Kurzstreckenfahrer haben auch was davon, indem das Ticket eine Station weiter reicht.
+7-1	572-576	Alle	_	
+7-2	577-595	Kurzstreckenfahrer	_	
+7-3	596-601	haben	_	
+7-4	602-606	auch	_	
+7-5	607-610	was	_	
+7-6	611-616	davon	_	
+7-7	616-617	,	_	
+7-8	618-623	indem	_	
+7-9	624-627	das	_	
+7-10	628-634	Ticket	_	
+7-11	635-639	eine	_	
+7-12	640-647	Station	_	
+7-13	648-654	weiter	_	
+7-14	655-661	reicht	_	
+7-15	661-662	.	_	
+
+#Text=Leute die vom Bus zur Linie 66 umsteigen wollen, können das auch sicher über die Rathausstraße machen.
+8-1	663-668	Leute	_	
+8-2	669-672	die	_	
+8-3	673-676	vom	_	
+8-4	677-680	Bus	_	
+8-5	681-684	zur	_	
+8-6	685-690	Linie	_	
+8-7	691-693	66	_	
+8-8	694-703	umsteigen	_	
+8-9	704-710	wollen	_	
+8-10	710-711	,	_	
+8-11	712-718	können	_	
+8-12	719-722	das	_	
+8-13	723-727	auch	_	
+8-14	728-734	sicher	_	
+8-15	735-739	über	*[12]	
+8-16	740-743	die	*[12]	
+8-17	744-757	Rathausstraße	*[12]	
+8-18	758-764	machen	_	
+8-19	764-765	.	_	
+
+#Text=Alternativ gäbe es die Möglichkeit die Bushaltstelle um 1m Richtung Süden parallel zu versetzen.
+9-1	766-776	Alternativ	_	
+9-2	777-781	gäbe	_	
+9-3	782-784	es	_	
+9-4	785-788	die	_	
+9-5	789-800	Möglichkeit	_	
+9-6	801-804	die	_	
+9-7	805-818	Bushaltstelle	_	
+9-8	819-821	um	_	
+9-9	822-824	1m	_	
+9-10	825-833	Richtung	_	
+9-11	834-839	Süden	_	
+9-12	840-848	parallel	_	
+9-13	849-851	zu	_	
+9-14	852-861	versetzen	_	
+9-15	861-862	.	_	
+
+#Text=Der kleine Platz gibt das her.
+10-1	863-866	Der	_	
+10-2	867-873	kleine	_	
+10-3	874-879	Platz	_	
+10-4	880-884	gibt	_	
+10-5	885-888	das	_	
+10-6	889-892	her	_	
+10-7	892-893	.	_	

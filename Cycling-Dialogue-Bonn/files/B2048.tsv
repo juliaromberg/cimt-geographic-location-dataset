@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Keine Freigabe der Radwege für Gegenverkehr
+1-1	0-5	Keine	_	
+1-2	6-14	Freigabe	_	
+1-3	15-18	der	_	
+1-4	19-26	Radwege	_	
+1-5	27-30	für	_	
+1-6	31-43	Gegenverkehr	_	
+
+#Text=Auf der Kennedybrücke sollten die beiden Radwege nur in eine Richtung freigegeben werden.
+2-1	46-49	Auf	*[5]	
+2-2	50-53	der	*[5]	
+2-3	54-67	Kennedybrücke	*[5]	
+2-4	68-75	sollten	_	
+2-5	76-79	die	_	
+2-6	80-86	beiden	_	
+2-7	87-94	Radwege	_	
+2-8	95-98	nur	_	
+2-9	99-101	in	_	
+2-10	102-106	eine	_	
+2-11	107-115	Richtung	_	
+2-12	116-127	freigegeben	_	
+2-13	128-134	werden	_	
+2-14	134-135	.	_	
+
+#Text=Gegenverkehr ist sehr gefährlich, zumal viele Radfahrer gerade auf den abschüssigen Strecken der Brücke teils mit hohen Geschwindigkeiten unterwegs sind.
+3-1	136-148	Gegenverkehr	_	
+3-2	149-152	ist	_	
+3-3	153-157	sehr	_	
+3-4	158-168	gefährlich	_	
+3-5	168-169	,	_	
+3-6	170-175	zumal	_	
+3-7	176-181	viele	_	
+3-8	182-191	Radfahrer	_	
+3-9	192-198	gerade	_	
+3-10	199-202	auf	_	
+3-11	203-206	den	_	
+3-12	207-219	abschüssigen	_	
+3-13	220-228	Strecken	_	
+3-14	229-232	der	_	
+3-15	233-239	Brücke	_	
+3-16	240-245	teils	_	
+3-17	246-249	mit	_	
+3-18	250-255	hohen	_	
+3-19	256-273	Geschwindigkeiten	_	
+3-20	274-283	unterwegs	_	
+3-21	284-288	sind	_	
+3-22	288-289	.	_	
+
+#Text=Ggf. als Radfahrer zunächst auf die andere Straßenseite wechseln zu müssen, bedeutet minimaler Aufwand, aber hohe Sicherheit.
+4-1	290-293	Ggf	_	
+4-2	293-294	.	_	
+4-3	295-298	als	_	
+4-4	299-308	Radfahrer	_	
+4-5	309-317	zunächst	_	
+4-6	318-321	auf	_	
+4-7	322-325	die	_	
+4-8	326-332	andere	_	
+4-9	333-345	Straßenseite	_	
+4-10	346-354	wechseln	_	
+4-11	355-357	zu	_	
+4-12	358-364	müssen	_	
+4-13	364-365	,	_	
+4-14	366-374	bedeutet	_	
+4-15	375-384	minimaler	_	
+4-16	385-392	Aufwand	_	
+4-17	392-393	,	_	
+4-18	394-398	aber	_	
+4-19	399-403	hohe	_	
+4-20	404-414	Sicherheit	_	
+4-21	414-415	.	_	

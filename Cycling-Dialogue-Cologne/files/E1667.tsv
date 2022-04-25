@@ -1,0 +1,103 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlechte Qualität des Radwegs
+1-1	0-9	Schlechte	_	
+1-2	10-18	Qualität	_	
+1-3	19-22	des	_	
+1-4	23-30	Radwegs	_	
+
+#Text=Die Arnimstraße ist der Beginn der offiziell ausgeschilderten Radroute von Nippes und Ehrenfeld nach Ossendorf, Bocklemünd und Pulheim.
+2-1	33-36	Die	*[9]	
+2-2	37-48	Arnimstraße	*[9]	
+2-3	49-52	ist	_	
+2-4	53-56	der	_	
+2-5	57-63	Beginn	_	
+2-6	64-67	der	_	
+2-7	68-77	offiziell	_	
+2-8	78-94	ausgeschilderten	_	
+2-9	95-103	Radroute	_	
+2-10	104-107	von	*[10]	
+2-11	108-114	Nippes	*[10]	
+2-12	115-118	und	*[10]	
+2-13	119-128	Ehrenfeld	*[10]	
+2-14	129-133	nach	*[10]	
+2-15	134-143	Ossendorf	*[10]	
+2-16	143-144	,	*[10]	
+2-17	145-155	Bocklemünd	*[10]	
+2-18	156-159	und	*[10]	
+2-19	160-167	Pulheim	*[10]	
+2-20	167-168	.	_	
+
+#Text=Der Radweg ist leider in einem erbärmlichen Zustand.
+3-1	169-172	Der	_	
+3-2	173-179	Radweg	_	
+3-3	180-183	ist	_	
+3-4	184-190	leider	_	
+3-5	191-193	in	_	
+3-6	194-199	einem	_	
+3-7	200-212	erbärmlichen	_	
+3-8	213-220	Zustand	_	
+3-9	220-221	.	_	
+
+#Text=Glücklicherweise ist er meistens zugeparkt.
+4-1	222-238	Glücklicherweise	_	
+4-2	239-242	ist	_	
+4-3	243-245	er	_	
+4-4	246-254	meistens	_	
+4-5	255-264	zugeparkt	_	
+4-6	264-265	.	_	
+
+#Text=So kann man getrost die Radwegbenutzungspflicht umgehen und auf der Straße fahren.
+5-1	266-268	So	_	
+5-2	269-273	kann	_	
+5-3	274-277	man	_	
+5-4	278-285	getrost	_	
+5-5	286-289	die	_	
+5-6	290-313	Radwegbenutzungspflicht	_	
+5-7	314-321	umgehen	_	
+5-8	322-325	und	_	
+5-9	326-329	auf	_	
+5-10	330-333	der	_	
+5-11	334-340	Straße	_	
+5-12	341-347	fahren	_	
+5-13	347-348	.	_	
+
+#Text=Der Kreisel auf der Ecke zur Winckelmannstraße ist ebenfalls meistens zugeparkt.
+6-1	349-352	Der	*[11]	
+6-2	353-360	Kreisel	*[11]	
+6-3	361-364	auf	*[11]	
+6-4	365-368	der	*[11]	
+6-5	369-373	Ecke	*[11]	
+6-6	374-377	zur	*[11]	
+6-7	378-395	Winckelmannstraße	*[11]	
+6-8	396-399	ist	_	
+6-9	400-409	ebenfalls	_	
+6-10	410-418	meistens	_	
+6-11	419-428	zugeparkt	_	
+6-12	428-429	.	_	
+
+#Text=Schade.
+7-1	430-436	Schade	_	
+7-2	436-437	.	_	
+
+#Text=Der Platz rund um den Baum wäre eigentlich ideal für eine Art Mini-Park mit Bank.
+8-1	438-441	Der	_	
+8-2	442-447	Platz	_	
+8-3	448-452	rund	_	
+8-4	453-455	um	_	
+8-5	456-459	den	_	
+8-6	460-464	Baum	_	
+8-7	465-469	wäre	_	
+8-8	470-480	eigentlich	_	
+8-9	481-486	ideal	_	
+8-10	487-490	für	_	
+8-11	491-495	eine	_	
+8-12	496-499	Art	_	
+8-13	500-509	Mini-Park	_	
+8-14	510-513	mit	_	
+8-15	514-518	Bank	_	
+8-16	518-519	.	_	

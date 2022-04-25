@@ -1,0 +1,54 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=mehr Schlaglöcher als Strasse
+1-1	0-4	mehr	_	
+1-2	5-17	Schlaglöcher	_	
+1-3	18-21	als	_	
+1-4	22-29	Strasse	_	
+
+#Text=Auf der Strecke zwischen Poppelsdorfer Schloss und Baumschulallee (und Gegenrichtung) besteht der Radweg fast ausschließlich aus Schlaglöchern und schlecht gefüllten Schlaglöchern.
+2-1	32-35	Auf	_	
+2-2	36-39	der	_	
+2-3	40-47	Strecke	_	
+2-4	48-56	zwischen	*[4]	
+2-5	57-70	Poppelsdorfer	*[4]	
+2-6	71-78	Schloss	*[4]	
+2-7	79-82	und	*[4]	
+2-8	83-97	Baumschulallee	*[4]	
+2-9	98-99	(	_	
+2-10	99-102	und	_	
+2-11	103-116	Gegenrichtung	_	
+2-12	116-117	)	_	
+2-13	118-125	besteht	_	
+2-14	126-129	der	_	
+2-15	130-136	Radweg	_	
+2-16	137-141	fast	_	
+2-17	142-156	ausschließlich	_	
+2-18	157-160	aus	_	
+2-19	161-174	Schlaglöchern	_	
+2-20	175-178	und	_	
+2-21	179-187	schlecht	_	
+2-22	188-197	gefüllten	_	
+2-23	198-211	Schlaglöchern	_	
+2-24	211-212	.	_	
+
+#Text=Man kann sich kaum auf den Verkehr konzentrieren, weil man Slalom fahren muss.
+3-1	213-216	Man	_	
+3-2	217-221	kann	_	
+3-3	222-226	sich	_	
+3-4	227-231	kaum	_	
+3-5	232-235	auf	_	
+3-6	236-239	den	_	
+3-7	240-247	Verkehr	_	
+3-8	248-261	konzentrieren	_	
+3-9	261-262	,	_	
+3-10	263-267	weil	_	
+3-11	268-271	man	_	
+3-12	272-278	Slalom	_	
+3-13	279-285	fahren	_	
+3-14	286-290	muss	_	
+3-15	290-291	.	_	

@@ -1,0 +1,79 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unfallberichte veröffentlichen
+1-1	0-14	Unfallberichte	_	
+1-2	15-30	veröffentlichen	_	
+
+#Text=Verkehrsunfälle sollten im Sinne von Open Data gesammelt und veröffentlicht werden: Ort (Punktekarte), Datum, Beteiligte, eine kurze Beschreibung mit Schwerpunkt auf vermutete Ursachen und örtliche Gegebenheiten, Unfallfolgen.
+2-1	33-48	Verkehrsunfälle	_	
+2-2	49-56	sollten	_	
+2-3	57-59	im	_	
+2-4	60-65	Sinne	_	
+2-5	66-69	von	_	
+2-6	70-74	Open	_	
+2-7	75-79	Data	_	
+2-8	80-89	gesammelt	_	
+2-9	90-93	und	_	
+2-10	94-108	veröffentlicht	_	
+2-11	109-115	werden	_	
+2-12	115-116	:	_	
+2-13	117-120	Ort	_	
+2-14	121-122	(	_	
+2-15	122-133	Punktekarte	_	
+2-16	133-134	)	_	
+2-17	134-135	,	_	
+2-18	136-141	Datum	_	
+2-19	141-142	,	_	
+2-20	143-153	Beteiligte	_	
+2-21	153-154	,	_	
+2-22	155-159	eine	_	
+2-23	160-165	kurze	_	
+2-24	166-178	Beschreibung	_	
+2-25	179-182	mit	_	
+2-26	183-194	Schwerpunkt	_	
+2-27	195-198	auf	_	
+2-28	199-208	vermutete	_	
+2-29	209-217	Ursachen	_	
+2-30	218-221	und	_	
+2-31	222-230	örtliche	_	
+2-32	231-244	Gegebenheiten	_	
+2-33	244-245	,	_	
+2-34	246-258	Unfallfolgen	_	
+2-35	258-259	.	_	
+
+#Text=Erstens damit jeder selbst echte und eingebildete Gefahren unterscheiden kann, zweitens zur überregionalen Sammlung und Auswertung.
+3-1	260-267	Erstens	_	
+3-2	268-273	damit	_	
+3-3	274-279	jeder	_	
+3-4	280-286	selbst	_	
+3-5	287-292	echte	_	
+3-6	293-296	und	_	
+3-7	297-309	eingebildete	_	
+3-8	310-318	Gefahren	_	
+3-9	319-332	unterscheiden	_	
+3-10	333-337	kann	_	
+3-11	337-338	,	_	
+3-12	339-347	zweitens	_	
+3-13	348-351	zur	_	
+3-14	352-366	überregionalen	_	
+3-15	367-375	Sammlung	_	
+3-16	376-379	und	_	
+3-17	380-390	Auswertung	_	
+3-18	390-391	.	_	
+
+#Text=Zur Gegenüberstellung bräuchte man auch Ergebnisse von Verkehrszählungen und Geschwindigkeitsmessungen.
+4-1	392-395	Zur	_	
+4-2	396-413	Gegenüberstellung	_	
+4-3	414-422	bräuchte	_	
+4-4	423-426	man	_	
+4-5	427-431	auch	_	
+4-6	432-442	Ergebnisse	_	
+4-7	443-446	von	_	
+4-8	447-464	Verkehrszählungen	_	
+4-9	465-468	und	_	
+4-10	469-494	Geschwindigkeitsmessungen	_	
+4-11	494-495	.	_	

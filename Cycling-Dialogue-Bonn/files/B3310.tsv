@@ -1,0 +1,70 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg neben der Sperre anlegen.
+1-1	0-6	Radweg	_	
+1-2	7-12	neben	_	
+1-3	13-16	der	_	
+1-4	17-23	Sperre	_	
+1-5	24-31	anlegen	_	
+1-6	31-32	.	_	
+
+#Text=Hier fahren morgens sehr viele Fahrradfahrer auf dem Weg zur Arbeit durch und müssten vermutlich absteigen, umfahren aber zumeist kunstvoll das Hindernis.
+2-1	35-39	Hier	_	
+2-2	40-46	fahren	_	
+2-3	47-54	morgens	_	
+2-4	55-59	sehr	_	
+2-5	60-65	viele	_	
+2-6	66-79	Fahrradfahrer	_	
+2-7	80-83	auf	_	
+2-8	84-87	dem	_	
+2-9	88-91	Weg	_	
+2-10	92-95	zur	_	
+2-11	96-102	Arbeit	_	
+2-12	103-108	durch	_	
+2-13	109-112	und	_	
+2-14	113-120	müssten	_	
+2-15	121-131	vermutlich	_	
+2-16	132-141	absteigen	_	
+2-17	141-142	,	_	
+2-18	143-151	umfahren	_	
+2-19	152-156	aber	_	
+2-20	157-164	zumeist	_	
+2-21	165-174	kunstvoll	_	
+2-22	175-178	das	_	
+2-23	179-188	Hindernis	_	
+2-24	188-189	.	_	
+
+#Text=Ein Radweg an der Sperre vorbei würde den Radverkehr einfacher und sicherer machen.
+3-1	190-193	Ein	_	
+3-2	194-200	Radweg	_	
+3-3	201-203	an	_	
+3-4	204-207	der	_	
+3-5	208-214	Sperre	_	
+3-6	215-221	vorbei	_	
+3-7	222-227	würde	_	
+3-8	228-231	den	_	
+3-9	232-242	Radverkehr	_	
+3-10	243-252	einfacher	_	
+3-11	253-256	und	_	
+3-12	257-265	sicherer	_	
+3-13	266-272	machen	_	
+3-14	272-273	.	_	
+
+#Text=Das gilt auch für die weitere Sperre auf dem Weg zum Robert-Schuman-Platz.
+4-1	274-277	Das	_	
+4-2	278-282	gilt	_	
+4-3	283-287	auch	_	
+4-4	288-291	für	_	
+4-5	292-295	die	_	
+4-6	296-303	weitere	_	
+4-7	304-310	Sperre	_	
+4-8	311-314	auf	*[5]	
+4-9	315-318	dem	*[5]	
+4-10	319-322	Weg	*[5]	
+4-11	323-326	zum	*[5]	
+4-12	327-347	Robert-Schuman-Platz	*[5]	
+4-13	347-348	.	_	

@@ -1,0 +1,11 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße zur Vorfahrtstraße machen
+1-1	0-13	Fahrradstraße	_	
+1-2	14-17	zur	_	
+1-3	18-32	Vorfahrtstraße	_	
+1-4	33-39	machen	_	

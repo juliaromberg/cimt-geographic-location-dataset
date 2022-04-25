@@ -1,0 +1,100 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Oberkasseler Straße, Verbindung zwischen Ramersdorf und Niederholtorf
+1-1	0-12	Oberkasseler	*[6]	
+1-2	13-19	Straße	*[6]	
+1-3	19-20	,	*[6]	
+1-4	21-31	Verbindung	*[6]	
+1-5	32-40	zwischen	*[6]	
+1-6	41-51	Ramersdorf	*[6]	
+1-7	52-55	und	*[6]	
+1-8	56-69	Niederholtorf	*[6]	
+
+#Text=Es besteht keine vernünftige Radverbindung zwischen Ramersdorf und Niederholtorf.
+2-1	72-74	Es	_	
+2-2	75-82	besteht	_	
+2-3	83-88	keine	_	
+2-4	89-100	vernünftige	_	
+2-5	101-114	Radverbindung	_	
+2-6	115-123	zwischen	*[7]	
+2-7	124-134	Ramersdorf	*[7]	
+2-8	135-138	und	*[7]	
+2-9	139-152	Niederholtorf	*[7]	
+2-10	152-153	.	_	
+
+#Text=Bis zum Parkplatz gibt es einen Radfahrstreifen, danach wird die Straße so eng, dass es bei dem dort hohen Verkehrsaufkommen fast lebensgefährlich, dort entlang zu fahren.
+3-1	154-157	Bis	_	
+3-2	158-161	zum	_	
+3-3	162-171	Parkplatz	_	
+3-4	172-176	gibt	_	
+3-5	177-179	es	_	
+3-6	180-185	einen	_	
+3-7	186-201	Radfahrstreifen	_	
+3-8	201-202	,	_	
+3-9	203-209	danach	_	
+3-10	210-214	wird	_	
+3-11	215-218	die	_	
+3-12	219-225	Straße	_	
+3-13	226-228	so	_	
+3-14	229-232	eng	_	
+3-15	232-233	,	_	
+3-16	234-238	dass	_	
+3-17	239-241	es	_	
+3-18	242-245	bei	_	
+3-19	246-249	dem	_	
+3-20	250-254	dort	_	
+3-21	255-260	hohen	_	
+3-22	261-278	Verkehrsaufkommen	_	
+3-23	279-283	fast	_	
+3-24	284-300	lebensgefährlich	_	
+3-25	300-301	,	_	
+3-26	302-306	dort	_	
+3-27	307-314	entlang	_	
+3-28	315-317	zu	_	
+3-29	318-324	fahren	_	
+3-30	324-325	.	_	
+
+#Text=Die Alternativstrecke führt durch den Wald, was nur im Sommer eine (schlechte) Alternative darstellt.
+4-1	326-329	Die	_	
+4-2	330-347	Alternativstrecke	_	
+4-3	348-353	führt	_	
+4-4	354-359	durch	_	
+4-5	360-363	den	_	
+4-6	364-368	Wald	_	
+4-7	368-369	,	_	
+4-8	370-373	was	_	
+4-9	374-377	nur	_	
+4-10	378-380	im	_	
+4-11	381-387	Sommer	_	
+4-12	388-392	eine	_	
+4-13	393-394	(	_	
+4-14	394-403	schlechte	_	
+4-15	403-404	)	_	
+4-16	405-416	Alternative	_	
+4-17	417-426	darstellt	_	
+4-18	426-427	.	_	
+
+#Text=In Herbst und Winter ist es dort morgens und abends zu dunkel, um sicher fahren zu können.
+5-1	428-430	In	_	
+5-2	431-437	Herbst	_	
+5-3	438-441	und	_	
+5-4	442-448	Winter	_	
+5-5	449-452	ist	_	
+5-6	453-455	es	_	
+5-7	456-460	dort	_	
+5-8	461-468	morgens	_	
+5-9	469-472	und	_	
+5-10	473-479	abends	_	
+5-11	480-482	zu	_	
+5-12	483-489	dunkel	_	
+5-13	489-490	,	_	
+5-14	491-493	um	_	
+5-15	494-500	sicher	_	
+5-16	501-507	fahren	_	
+5-17	508-510	zu	_	
+5-18	511-517	können	_	
+5-19	517-518	.	_	

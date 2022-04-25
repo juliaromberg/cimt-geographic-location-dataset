@@ -1,0 +1,102 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Überholen ohne Sicherheitsabstand v.a. SWB Busse
+1-1	0-9	Überholen	_	
+1-2	10-14	ohne	_	
+1-3	15-33	Sicherheitsabstand	_	
+1-4	34-37	v.a	_	
+1-5	37-38	.	_	
+1-6	39-42	SWB	_	
+1-7	43-48	Busse	_	
+
+#Text=Es muss endlich kontrolliert werden, dass PKW und Busse einen Sicherheitsabstand von ca. 1,5 Metern beim Überholen einhalten.
+2-1	51-53	Es	_	
+2-2	54-58	muss	_	
+2-3	59-66	endlich	_	
+2-4	67-79	kontrolliert	_	
+2-5	80-86	werden	_	
+2-6	86-87	,	_	
+2-7	88-92	dass	_	
+2-8	93-96	PKW	_	
+2-9	97-100	und	_	
+2-10	101-106	Busse	_	
+2-11	107-112	einen	_	
+2-12	113-131	Sicherheitsabstand	_	
+2-13	132-135	von	_	
+2-14	136-138	ca	_	
+2-15	138-139	.	_	
+2-16	140-143	1,5	_	
+2-17	144-150	Metern	_	
+2-18	151-155	beim	_	
+2-19	156-165	Überholen	_	
+2-20	166-175	einhalten	_	
+2-21	175-176	.	_	
+
+#Text=Auf der Colmantstraße wird man von den Buslinien regelrecht abgedrängt, weil sie unbedingt vor einem am HBF sein müssen, um einen dort dann auszubremsen.
+3-1	177-180	Auf	*[6]	
+3-2	181-184	der	*[6]	
+3-3	185-198	Colmantstraße	*[6]	
+3-4	199-203	wird	_	
+3-5	204-207	man	_	
+3-6	208-211	von	_	
+3-7	212-215	den	_	
+3-8	216-225	Buslinien	_	
+3-9	226-236	regelrecht	_	
+3-10	237-247	abgedrängt	_	
+3-11	247-248	,	_	
+3-12	249-253	weil	_	
+3-13	254-257	sie	_	
+3-14	258-267	unbedingt	_	
+3-15	268-271	vor	_	
+3-16	272-277	einem	_	
+3-17	278-280	am	*[7]	
+3-18	281-284	HBF	*[7]	
+3-19	285-289	sein	_	
+3-20	290-296	müssen	_	
+3-21	296-297	,	_	
+3-22	298-300	um	_	
+3-23	301-306	einen	_	
+3-24	307-311	dort	_	
+3-25	312-316	dann	_	
+3-26	317-329	auszubremsen	_	
+3-27	329-330	.	_	
+
+#Text=Die markierte Stelle ist nur ein Beispiel für unangenehmes und gefährdendes Überholen von Radfahrern.
+4-1	331-334	Die	_	
+4-2	335-344	markierte	_	
+4-3	345-351	Stelle	_	
+4-4	352-355	ist	_	
+4-5	356-359	nur	_	
+4-6	360-363	ein	_	
+4-7	364-372	Beispiel	_	
+4-8	373-376	für	_	
+4-9	377-389	unangenehmes	_	
+4-10	390-393	und	_	
+4-11	394-406	gefährdendes	_	
+4-12	407-416	Überholen	_	
+4-13	417-420	von	_	
+4-14	421-431	Radfahrern	_	
+4-15	431-432	.	_	
+
+#Text=Weitere Stellen sind z.B. der Florentiusgraben und die Weberstraße (nach Abschluss der Baustelle).
+5-1	433-440	Weitere	_	
+5-2	441-448	Stellen	_	
+5-3	449-453	sind	_	
+5-4	454-457	z.B	_	
+5-5	457-458	.	_	
+5-6	459-462	der	*[8]	
+5-7	463-479	Florentiusgraben	*[8]	
+5-8	480-483	und	*[8]	
+5-9	484-487	die	*[8]	
+5-10	488-499	Weberstraße	*[8]	
+5-11	500-501	(	_	
+5-12	501-505	nach	_	
+5-13	506-515	Abschluss	_	
+5-14	516-519	der	_	
+5-15	520-529	Baustelle	_	
+5-16	529-530	)	_	
+5-17	530-531	.	_	

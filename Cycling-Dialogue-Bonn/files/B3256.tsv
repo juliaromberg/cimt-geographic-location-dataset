@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradparken
+1-1	0-13	Fahrradparken	_	
+
+#Text=Bei gutem Wetter fehlt es in Bad Godesberg City an Fahrradabstellplätzen.
+2-1	16-19	Bei	_	
+2-2	20-25	gutem	_	
+2-3	26-32	Wetter	_	
+2-4	33-38	fehlt	_	
+2-5	39-41	es	_	
+2-6	42-44	in	*[3]	
+2-7	45-48	Bad	*[3]	
+2-8	49-58	Godesberg	*[3]	
+2-9	59-63	City	*[3]	
+2-10	64-66	an	_	
+2-11	67-88	Fahrradabstellplätzen	_	
+2-12	88-89	.	_	
+
+#Text=Hier könnte man z.B. den 1 vorhandenen Bügel um weitere ergänzen.
+3-1	90-94	Hier	_	
+3-2	95-101	könnte	_	
+3-3	102-105	man	_	
+3-4	106-109	z.B	_	
+3-5	109-110	.	_	
+3-6	111-114	den	_	
+3-7	115-116	1	_	
+3-8	117-128	vorhandenen	_	
+3-9	129-134	Bügel	_	
+3-10	135-137	um	_	
+3-11	138-145	weitere	_	
+3-12	146-154	ergänzen	_	
+3-13	154-155	.	_	

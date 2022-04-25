@@ -1,0 +1,115 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Glascontainer am Radweg
+1-1	0-13	Glascontainer	_	
+1-2	14-16	am	_	
+1-3	17-23	Radweg	_	
+
+#Text=Am Radweg stehen Glascontainer.
+2-1	26-28	Am	_	
+2-2	29-35	Radweg	_	
+2-3	36-42	stehen	_	
+2-4	43-56	Glascontainer	_	
+2-5	56-57	.	_	
+
+#Text=Erstens besteht die Gefahr von Glassplittern auf dem Radweg.
+3-1	58-65	Erstens	_	
+3-2	66-73	besteht	_	
+3-3	74-77	die	_	
+3-4	78-84	Gefahr	_	
+3-5	85-88	von	_	
+3-6	89-102	Glassplittern	_	
+3-7	103-106	auf	_	
+3-8	107-110	dem	_	
+3-9	111-117	Radweg	_	
+3-10	117-118	.	_	
+
+#Text=Da viele Menschen Leergut mit Kfz bringen, wird auf dem Geh- oder / und Radweg geparkt, um das Leergut einzuwerfen.
+4-1	119-121	Da	_	
+4-2	122-127	viele	_	
+4-3	128-136	Menschen	_	
+4-4	137-144	Leergut	_	
+4-5	145-148	mit	_	
+4-6	149-152	Kfz	_	
+4-7	153-160	bringen	_	
+4-8	160-161	,	_	
+4-9	162-166	wird	_	
+4-10	167-170	auf	_	
+4-11	171-174	dem	_	
+4-12	175-178	Geh	_	
+4-13	178-179	-	_	
+4-14	180-184	oder	_	
+4-15	185-186	/	_	
+4-16	187-190	und	_	
+4-17	191-197	Radweg	_	
+4-18	198-205	geparkt	_	
+4-19	205-206	,	_	
+4-20	207-209	um	_	
+4-21	210-213	das	_	
+4-22	214-221	Leergut	_	
+4-23	222-233	einzuwerfen	_	
+4-24	233-234	.	_	
+
+#Text=Glascontainer sollten nicht direkt an Radwegen aufgestellt werden.
+5-1	235-248	Glascontainer	_	
+5-2	249-256	sollten	_	
+5-3	257-262	nicht	_	
+5-4	263-269	direkt	_	
+5-5	270-272	an	_	
+5-6	273-281	Radwegen	_	
+5-7	282-293	aufgestellt	_	
+5-8	294-300	werden	_	
+5-9	300-301	.	_	
+
+#Text=Wenn es sich nicht vermeiden lässt, müssen mindestens legale Haltemöglichkeiten geschaffen werden.
+6-1	302-306	Wenn	_	
+6-2	307-309	es	_	
+6-3	310-314	sich	_	
+6-4	315-320	nicht	_	
+6-5	321-330	vermeiden	_	
+6-6	331-336	lässt	_	
+6-7	336-337	,	_	
+6-8	338-344	müssen	_	
+6-9	345-355	mindestens	_	
+6-10	356-362	legale	_	
+6-11	363-381	Haltemöglichkeiten	_	
+6-12	382-392	geschaffen	_	
+6-13	393-399	werden	_	
+6-14	399-400	.	_	
+
+#Text=Die Container befinden sich schon im Einmündungsbereich, so dass die Fahrbahn dort verengt ist und mit einer durchgezogenen Mittelinie versehen ist.
+7-1	401-404	Die	_	
+7-2	405-414	Container	_	
+7-3	415-423	befinden	_	
+7-4	424-428	sich	_	
+7-5	429-434	schon	_	
+7-6	435-437	im	_	
+7-7	438-456	Einmündungsbereich	_	
+7-8	456-457	,	_	
+7-9	458-460	so	_	
+7-10	461-465	dass	_	
+7-11	466-469	die	_	
+7-12	470-478	Fahrbahn	_	
+7-13	479-483	dort	_	
+7-14	484-491	verengt	_	
+7-15	492-495	ist	_	
+7-16	496-499	und	_	
+7-17	500-503	mit	_	
+7-18	504-509	einer	_	
+7-19	510-524	durchgezogenen	_	
+7-20	525-535	Mittelinie	_	
+7-21	536-544	versehen	_	
+7-22	545-548	ist	_	
+7-23	548-549	.	_	
+
+#Text=Anderen Standort für Glascontainer suchen.
+8-1	550-557	Anderen	_	
+8-2	558-566	Standort	_	
+8-3	567-570	für	_	
+8-4	571-584	Glascontainer	_	
+8-5	585-591	suchen	_	
+8-6	591-592	.	_	

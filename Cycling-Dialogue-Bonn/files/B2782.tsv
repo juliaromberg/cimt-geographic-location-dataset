@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkplätze im Kurvenbereich
+1-1	0-10	Parkplätze	_	
+1-2	11-13	im	_	
+1-3	14-27	Kurvenbereich	_	
+
+#Text=Im Kurvenbereich führt ein Radstreifen an den schräg parkenden Autos vorbei.
+2-1	30-32	Im	_	
+2-2	33-46	Kurvenbereich	_	
+2-3	47-52	führt	_	
+2-4	53-56	ein	_	
+2-5	57-68	Radstreifen	_	
+2-6	69-71	an	_	
+2-7	72-75	den	_	
+2-8	76-82	schräg	_	
+2-9	83-92	parkenden	_	
+2-10	93-98	Autos	_	
+2-11	99-105	vorbei	_	
+2-12	105-106	.	_	
+
+#Text=Der Radweg vermittelt Sicherheit, obwohl die Lage alles andere als sicher ist.
+3-1	107-110	Der	_	
+3-2	111-117	Radweg	_	
+3-3	118-128	vermittelt	_	
+3-4	129-139	Sicherheit	_	
+3-5	139-140	,	_	
+3-6	141-147	obwohl	_	
+3-7	148-151	die	_	
+3-8	152-156	Lage	_	
+3-9	157-162	alles	_	
+3-10	163-169	andere	_	
+3-11	170-173	als	_	
+3-12	174-180	sicher	_	
+3-13	181-184	ist	_	
+3-14	184-185	.	_	
+
+#Text=Schon ein leichtes, unbedachten Rausrangieren aus der Parklücke kann zu einer erheblichen Kollision führen.
+4-1	186-191	Schon	_	
+4-2	192-195	ein	_	
+4-3	196-204	leichtes	_	
+4-4	204-205	,	_	
+4-5	206-217	unbedachten	_	
+4-6	218-231	Rausrangieren	_	
+4-7	232-235	aus	_	
+4-8	236-239	der	_	
+4-9	240-249	Parklücke	_	
+4-10	250-254	kann	_	
+4-11	255-257	zu	_	
+4-12	258-263	einer	_	
+4-13	264-275	erheblichen	_	
+4-14	276-285	Kollision	_	
+4-15	286-292	führen	_	
+4-16	292-293	.	_	
+
+#Text=Wenn hier Parkplätze dann parallel zur Fahrbahn.
+5-1	294-298	Wenn	_	
+5-2	299-303	hier	_	
+5-3	304-314	Parkplätze	_	
+5-4	315-319	dann	_	
+5-5	320-328	parallel	_	
+5-6	329-332	zur	_	
+5-7	333-341	Fahrbahn	_	
+5-8	341-342	.	_	

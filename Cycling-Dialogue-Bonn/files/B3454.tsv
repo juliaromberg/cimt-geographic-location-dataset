@@ -1,0 +1,44 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg oft zugeparkt
+1-1	0-10	Fahrradweg	_	
+1-2	11-14	oft	_	
+1-3	15-24	zugeparkt	_	
+
+#Text=Schön, dass hier wieder ein Radweg ausgewiesen ist.
+2-1	27-32	Schön	_	
+2-2	32-33	,	_	
+2-3	34-38	dass	_	
+2-4	39-43	hier	_	
+2-5	44-50	wieder	_	
+2-6	51-54	ein	_	
+2-7	55-61	Radweg	_	
+2-8	62-73	ausgewiesen	_	
+2-9	74-77	ist	_	
+2-10	77-78	.	_	
+
+#Text=Leider ist der Radweg bzw. der Fußweg daneben oft zugeparkt.
+3-1	79-85	Leider	_	
+3-2	86-89	ist	_	
+3-3	90-93	der	_	
+3-4	94-100	Radweg	_	
+3-5	101-104	bzw	_	
+3-6	104-105	.	_	
+3-7	106-109	der	_	
+3-8	110-116	Fußweg	_	
+3-9	117-124	daneben	_	
+3-10	125-128	oft	_	
+3-11	129-138	zugeparkt	_	
+3-12	138-139	.	_	
+
+#Text=Bitte besser mit Poller absperren.
+4-1	140-145	Bitte	_	
+4-2	146-152	besser	_	
+4-3	153-156	mit	_	
+4-4	157-163	Poller	_	
+4-5	164-173	absperren	_	
+4-6	173-174	.	_	

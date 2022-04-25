@@ -1,0 +1,294 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hauptradwege kreuz und quer durch Bonn, aber richtig!
+1-1	0-12	Hauptradwege	_	
+1-2	13-18	kreuz	_	
+1-3	19-22	und	_	
+1-4	23-27	quer	_	
+1-5	28-33	durch	_	
+1-6	34-38	Bonn	*[14]	
+1-7	38-39	,	*[14]	
+1-8	40-44	aber	_	
+1-9	45-52	richtig	_	
+1-10	52-53	!	_	
+
+#Text=Von einer Fahrradhauptstadt sind wir weit entfernt.
+2-1	56-59	Von	_	
+2-2	60-65	einer	_	
+2-3	66-83	Fahrradhauptstadt	_	
+2-4	84-88	sind	_	
+2-5	89-92	wir	_	
+2-6	93-97	weit	_	
+2-7	98-106	entfernt	_	
+2-8	106-107	.	_	
+
+#Text=Um das zu erreichen müssen Radwege konsequent und durchdacht geschaffen werden.
+3-1	108-110	Um	_	
+3-2	111-114	das	_	
+3-3	115-117	zu	_	
+3-4	118-127	erreichen	_	
+3-5	128-134	müssen	_	
+3-6	135-142	Radwege	_	
+3-7	143-153	konsequent	_	
+3-8	154-157	und	_	
+3-9	158-168	durchdacht	_	
+3-10	169-179	geschaffen	_	
+3-11	180-186	werden	_	
+3-12	186-187	.	_	
+
+#Text=Straßen in Fahrradstraßen umzuwandeln kann ein guter Weg sein, die Stecken müssen aber auch zusammenhängen.
+4-1	188-195	Straßen	_	
+4-2	196-198	in	_	
+4-3	199-213	Fahrradstraßen	_	
+4-4	214-225	umzuwandeln	_	
+4-5	226-230	kann	_	
+4-6	231-234	ein	_	
+4-7	235-240	guter	_	
+4-8	241-244	Weg	_	
+4-9	245-249	sein	_	
+4-10	249-250	,	_	
+4-11	251-254	die	_	
+4-12	255-262	Stecken	_	
+4-13	263-269	müssen	_	
+4-14	270-274	aber	_	
+4-15	275-279	auch	_	
+4-16	280-294	zusammenhängen	_	
+4-17	294-295	.	_	
+
+#Text=Außerdem finde ich die Markierung von Radwegen am Rande von z.T. viel befahrenen Straßen teilweise zu gefährlich.
+5-1	296-304	Außerdem	_	
+5-2	305-310	finde	_	
+5-3	311-314	ich	_	
+5-4	315-318	die	_	
+5-5	319-329	Markierung	_	
+5-6	330-333	von	_	
+5-7	334-342	Radwegen	_	
+5-8	343-345	am	_	
+5-9	346-351	Rande	_	
+5-10	352-355	von	_	
+5-11	356-359	z.T	_	
+5-12	359-360	.	_	
+5-13	361-365	viel	_	
+5-14	366-376	befahrenen	_	
+5-15	377-384	Straßen	_	
+5-16	385-394	teilweise	_	
+5-17	395-397	zu	_	
+5-18	398-408	gefährlich	_	
+5-19	408-409	.	_	
+
+#Text=Die Gefahr von Unfällen ist für Radfahrer, insbesondere Kinder und weniger sichere Radfahrer hoch.
+6-1	410-413	Die	_	
+6-2	414-420	Gefahr	_	
+6-3	421-424	von	_	
+6-4	425-433	Unfällen	_	
+6-5	434-437	ist	_	
+6-6	438-441	für	_	
+6-7	442-451	Radfahrer	_	
+6-8	451-452	,	_	
+6-9	453-465	insbesondere	_	
+6-10	466-472	Kinder	_	
+6-11	473-476	und	_	
+6-12	477-484	weniger	_	
+6-13	485-492	sichere	_	
+6-14	493-502	Radfahrer	_	
+6-15	503-507	hoch	_	
+6-16	507-508	.	_	
+
+#Text=Die Planer sollten sich mal als Beifahrer in einen LKW setzen und eine solche Straße befahren: die Angst vor einem Unfall kann purer Stress sein!
+7-1	509-512	Die	_	
+7-2	513-519	Planer	_	
+7-3	520-527	sollten	_	
+7-4	528-532	sich	_	
+7-5	533-536	mal	_	
+7-6	537-540	als	_	
+7-7	541-550	Beifahrer	_	
+7-8	551-553	in	_	
+7-9	554-559	einen	_	
+7-10	560-563	LKW	_	
+7-11	564-570	setzen	_	
+7-12	571-574	und	_	
+7-13	575-579	eine	_	
+7-14	580-586	solche	_	
+7-15	587-593	Straße	_	
+7-16	594-602	befahren	_	
+7-17	602-603	:	_	
+7-18	604-607	die	_	
+7-19	608-613	Angst	_	
+7-20	614-617	vor	_	
+7-21	618-623	einem	_	
+7-22	624-630	Unfall	_	
+7-23	631-635	kann	_	
+7-24	636-641	purer	_	
+7-25	642-648	Stress	_	
+7-26	649-653	sein	_	
+7-27	653-654	!	_	
+
+#Text=Mein Vorschlag: gut planen welche Radrouten kreuz und quer durch Bonn geschaffen werden sollten, und diese dann !!baulich getrennt!! von den Straßen und ausreichend breit schaffen.
+8-1	655-659	Mein	_	
+8-2	660-669	Vorschlag	_	
+8-3	669-670	:	_	
+8-4	671-674	gut	_	
+8-5	675-681	planen	_	
+8-6	682-688	welche	_	
+8-7	689-698	Radrouten	_	
+8-8	699-704	kreuz	_	
+8-9	705-708	und	_	
+8-10	709-713	quer	_	
+8-11	714-719	durch	_	
+8-12	720-724	Bonn	*	
+8-13	725-735	geschaffen	_	
+8-14	736-742	werden	_	
+8-15	743-750	sollten	_	
+8-16	750-751	,	_	
+8-17	752-755	und	_	
+8-18	756-761	diese	_	
+8-19	762-766	dann	_	
+8-20	767-768	!	_	
+8-21	768-769	!	_	
+8-22	769-776	baulich	_	
+8-23	777-785	getrennt	_	
+8-24	785-786	!	_	
+8-25	786-787	!	_	
+8-26	788-791	von	_	
+8-27	792-795	den	_	
+8-28	796-803	Straßen	_	
+8-29	804-807	und	_	
+8-30	808-819	ausreichend	_	
+8-31	820-825	breit	_	
+8-32	826-834	schaffen	_	
+8-33	834-835	.	_	
+
+#Text=Auf einer Radreise von Bonn nach Rom in diesem Jahr habe ich in vielen Städten in Frankreich z.B. Straßburg , der Schweiz und Italien genau solche Radwege vorgefunden.
+9-1	836-839	Auf	_	
+9-2	840-845	einer	_	
+9-3	846-854	Radreise	_	
+9-4	855-858	von	_	
+9-5	859-863	Bonn	_	
+9-6	864-868	nach	_	
+9-7	869-872	Rom	*	
+9-8	873-875	in	_	
+9-9	876-882	diesem	_	
+9-10	883-887	Jahr	_	
+9-11	888-892	habe	_	
+9-12	893-896	ich	_	
+9-13	897-899	in	_	
+9-14	900-906	vielen	_	
+9-15	907-914	Städten	_	
+9-16	915-917	in	_	
+9-17	918-928	Frankreich	*[15]	
+9-18	929-932	z.B	*[15]	
+9-19	932-933	.	*[15]	
+9-20	934-943	Straßburg	*[15]	
+9-21	944-945	,	*[15]	
+9-22	946-949	der	*[15]	
+9-23	950-957	Schweiz	*[15]	
+9-24	958-961	und	*[15]	
+9-25	962-969	Italien	*[15]	
+9-26	970-975	genau	_	
+9-27	976-982	solche	_	
+9-28	983-990	Radwege	_	
+9-29	991-1002	vorgefunden	_	
+9-30	1002-1003	.	_	
+
+#Text=Einen solchen Hauptweg haben wir in Bonn schon: der Rheinradweg.
+10-1	1004-1009	Einen	_	
+10-2	1010-1017	solchen	_	
+10-3	1018-1026	Hauptweg	_	
+10-4	1027-1032	haben	_	
+10-5	1033-1036	wir	_	
+10-6	1037-1039	in	_	
+10-7	1040-1044	Bonn	*	
+10-8	1045-1050	schon	_	
+10-9	1050-1051	:	_	
+10-10	1052-1055	der	*[16]	
+10-11	1056-1067	Rheinradweg	*[16]	
+10-12	1067-1068	.	_	
+
+#Text=Dieser sollte aber vor allem in der Rheinaue inspiziert,die Schlaglöcher und Wurzelschäden beseitigt, und der obere Weg zwischen der Bonn International School und dem Kanuverein VKB verbreitert werden ( derzeitige Breite 1m)
+11-1	1069-1075	Dieser	_	
+11-2	1076-1082	sollte	_	
+11-3	1083-1087	aber	_	
+11-4	1088-1091	vor	_	
+11-5	1092-1097	allem	_	
+11-6	1098-1100	in	_	
+11-7	1101-1104	der	*[17]	
+11-8	1105-1113	Rheinaue	*[17]	
+11-9	1114-1124	inspiziert	_	
+11-10	1124-1125	,	_	
+11-11	1125-1128	die	_	
+11-12	1129-1141	Schlaglöcher	_	
+11-13	1142-1145	und	_	
+11-14	1146-1159	Wurzelschäden	_	
+11-15	1160-1169	beseitigt	_	
+11-16	1169-1170	,	_	
+11-17	1171-1174	und	_	
+11-18	1175-1178	der	_	
+11-19	1179-1184	obere	_	
+11-20	1185-1188	Weg	_	
+11-21	1189-1197	zwischen	*[18]	
+11-22	1198-1201	der	*[18]	
+11-23	1202-1206	Bonn	*[18]	
+11-24	1207-1220	International	*[18]	
+11-25	1221-1227	School	*[18]	
+11-26	1228-1231	und	*[18]	
+11-27	1232-1235	dem	*[18]	
+11-28	1236-1246	Kanuverein	*[18]	
+11-29	1247-1250	VKB	*[18]	
+11-30	1251-1262	verbreitert	_	
+11-31	1263-1269	werden	_	
+11-32	1270-1271	(	_	
+11-33	1272-1282	derzeitige	_	
+11-34	1283-1289	Breite	_	
+11-35	1290-1292	1m	_	
+11-36	1292-1293	)	_	
+
+#Text=Ja, es bedeutet schon Aufwand und dem Autoverkehr muss Platz weggenommen werden.
+12-1	1294-1296	Ja	_	
+12-2	1296-1297	,	_	
+12-3	1298-1300	es	_	
+12-4	1301-1309	bedeutet	_	
+12-5	1310-1315	schon	_	
+12-6	1316-1323	Aufwand	_	
+12-7	1324-1327	und	_	
+12-8	1328-1331	dem	_	
+12-9	1332-1343	Autoverkehr	_	
+12-10	1344-1348	muss	_	
+12-11	1349-1354	Platz	_	
+12-12	1355-1366	weggenommen	_	
+12-13	1367-1373	werden	_	
+12-14	1373-1374	.	_	
+
+#Text=Aber nur wenn Autofahren weniger attraktiv, und Radfahren attraktiver gemacht wird, werden mehr Menschen auf´s Rad umsteigen und der Autoverkehr wird sich hoffentlich reduzieren.
+13-1	1375-1379	Aber	_	
+13-2	1380-1383	nur	_	
+13-3	1384-1388	wenn	_	
+13-4	1389-1399	Autofahren	_	
+13-5	1400-1407	weniger	_	
+13-6	1408-1417	attraktiv	_	
+13-7	1417-1418	,	_	
+13-8	1419-1422	und	_	
+13-9	1423-1432	Radfahren	_	
+13-10	1433-1444	attraktiver	_	
+13-11	1445-1452	gemacht	_	
+13-12	1453-1457	wird	_	
+13-13	1457-1458	,	_	
+13-14	1459-1465	werden	_	
+13-15	1466-1470	mehr	_	
+13-16	1471-1479	Menschen	_	
+13-17	1480-1483	auf	_	
+13-18	1483-1484	´	_	
+13-19	1484-1485	s	_	
+13-20	1486-1489	Rad	_	
+13-21	1490-1499	umsteigen	_	
+13-22	1500-1503	und	_	
+13-23	1504-1507	der	_	
+13-24	1508-1519	Autoverkehr	_	
+13-25	1520-1524	wird	_	
+13-26	1525-1529	sich	_	
+13-27	1530-1541	hoffentlich	_	
+13-28	1542-1552	reduzieren	_	
+13-29	1552-1553	.	_	

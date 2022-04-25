@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=gefährliche Ampelschaltung
+1-1	0-11	gefährliche	_	
+1-2	12-26	Ampelschaltung	_	
+
+#Text=Auf der B9 Richtung Innenstadt fahrend muss man an der neuen kreisförmigen Kreuzung diverse Ampeln überqueren.
+2-1	29-32	Auf	*[5]	
+2-2	33-36	der	*[5]	
+2-3	37-39	B9	*[5]	
+2-4	40-48	Richtung	*[5]	
+2-5	49-59	Innenstadt	*[5]	
+2-6	60-67	fahrend	_	
+2-7	68-72	muss	_	
+2-8	73-76	man	_	
+2-9	77-79	an	_	
+2-10	80-83	der	_	
+2-11	84-89	neuen	_	
+2-12	90-103	kreisförmigen	_	
+2-13	104-112	Kreuzung	_	
+2-14	113-120	diverse	_	
+2-15	121-127	Ampeln	_	
+2-16	128-138	überqueren	_	
+2-17	138-139	.	_	
+
+#Text=Die letzte zeigt aber Rot!!
+3-1	140-143	Die	_	
+3-2	144-150	letzte	_	
+3-3	151-156	zeigt	_	
+3-4	157-161	aber	_	
+3-5	162-165	Rot	_	
+3-6	165-166	!	_	
+3-7	166-167	!	_	
+
+#Text=Die Ampeln hintereinander schalten nicht synchron auf Grün, sondern man fährt los und muss dann zwischen den Fahrspuren wieder anhalten.
+4-1	168-171	Die	_	
+4-2	172-178	Ampeln	_	
+4-3	179-193	hintereinander	_	
+4-4	194-202	schalten	_	
+4-5	203-208	nicht	_	
+4-6	209-217	synchron	_	
+4-7	218-221	auf	_	
+4-8	222-226	Grün	_	
+4-9	226-227	,	_	
+4-10	228-235	sondern	_	
+4-11	236-239	man	_	
+4-12	240-245	fährt	_	
+4-13	246-249	los	_	
+4-14	250-253	und	_	
+4-15	254-258	muss	_	
+4-16	259-263	dann	_	
+4-17	264-272	zwischen	_	
+4-18	273-276	den	_	
+4-19	277-287	Fahrspuren	_	
+4-20	288-294	wieder	_	
+4-21	295-303	anhalten	_	
+4-22	303-304	.	_	

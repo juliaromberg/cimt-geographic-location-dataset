@@ -1,0 +1,118 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Änderung des Verlaufs des Fahrradweges
+1-1	0-8	Änderung	_	
+1-2	9-12	des	_	
+1-3	13-21	Verlaufs	_	
+1-4	22-25	des	_	
+1-5	26-38	Fahrradweges	_	
+
+#Text=Zur Zeit ist die Streckenführung des Fahrradweges Richtung Mehlem so, dass die Radfahrer auf Höhe der Löbestraße den Bürgersteig verlassen und sich den Weg mit den Autos teilen müssen.
+2-1	41-44	Zur	_	
+2-2	45-49	Zeit	_	
+2-3	50-53	ist	_	
+2-4	54-57	die	_	
+2-5	58-73	Streckenführung	_	
+2-6	74-77	des	_	
+2-7	78-90	Fahrradweges	_	
+2-8	91-99	Richtung	*[6]	
+2-9	100-106	Mehlem	*[6]	
+2-10	107-109	so	_	
+2-11	109-110	,	_	
+2-12	111-115	dass	_	
+2-13	116-119	die	_	
+2-14	120-129	Radfahrer	_	
+2-15	130-133	auf	*[7]	
+2-16	134-138	Höhe	*[7]	
+2-17	139-142	der	*[7]	
+2-18	143-153	Löbestraße	*[7]	
+2-19	154-157	den	_	
+2-20	158-169	Bürgersteig	_	
+2-21	170-179	verlassen	_	
+2-22	180-183	und	_	
+2-23	184-188	sich	_	
+2-24	189-192	den	_	
+2-25	193-196	Weg	_	
+2-26	197-200	mit	_	
+2-27	201-204	den	_	
+2-28	205-210	Autos	_	
+2-29	211-217	teilen	_	
+2-30	218-224	müssen	_	
+2-31	224-225	.	_	
+
+#Text=Dabei kommt es häufig dazu, dass die Linienbusse, die die Haltestelle anfahren, die Radfahrer schneiden.
+3-1	226-231	Dabei	_	
+3-2	232-237	kommt	_	
+3-3	238-240	es	_	
+3-4	241-247	häufig	_	
+3-5	248-252	dazu	_	
+3-6	252-253	,	_	
+3-7	254-258	dass	_	
+3-8	259-262	die	_	
+3-9	263-274	Linienbusse	_	
+3-10	274-275	,	_	
+3-11	276-279	die	_	
+3-12	280-283	die	_	
+3-13	284-295	Haltestelle	_	
+3-14	296-304	anfahren	_	
+3-15	304-305	,	_	
+3-16	306-309	die	_	
+3-17	310-319	Radfahrer	_	
+3-18	320-329	schneiden	_	
+3-19	329-330	.	_	
+
+#Text=Mein Vorschlag: Den Bürgersteig verbreitern auf das selbe Maß wie vor der Kreuz Löbe-/Koblenzer Str..
+4-1	331-335	Mein	_	
+4-2	336-345	Vorschlag	_	
+4-3	345-346	:	_	
+4-4	347-350	Den	_	
+4-5	351-362	Bürgersteig	_	
+4-6	363-374	verbreitern	_	
+4-7	375-378	auf	_	
+4-8	379-382	das	_	
+4-9	383-388	selbe	_	
+4-10	389-392	Maß	_	
+4-11	393-396	wie	_	
+4-12	397-400	vor	*[8]	
+4-13	401-404	der	*[8]	
+4-14	405-410	Kreuz	*[8]	
+4-15	411-415	Löbe	*[8]	
+4-16	415-416	-	*[8]	
+4-17	416-417	/	*[8]	
+4-18	417-426	Koblenzer	*[8]	
+4-19	427-430	Str	*[8]	
+4-20	430-431	.	_	
+4-21	431-432	.	_	
+
+#Text=Die Haltestelle an gleichzeitig nach vorne verlegen, so dass die Radfahrer hinter der Haltestelle weiter fahren können (wie z.B. auf der Hausdorffstr.)
+5-1	433-436	Die	_	
+5-2	437-448	Haltestelle	_	
+5-3	449-451	an	_	
+5-4	452-464	gleichzeitig	_	
+5-5	465-469	nach	_	
+5-6	470-475	vorne	_	
+5-7	476-484	verlegen	_	
+5-8	484-485	,	_	
+5-9	486-488	so	_	
+5-10	489-493	dass	_	
+5-11	494-497	die	_	
+5-12	498-507	Radfahrer	_	
+5-13	508-514	hinter	_	
+5-14	515-518	der	_	
+5-15	519-530	Haltestelle	_	
+5-16	531-537	weiter	_	
+5-17	538-544	fahren	_	
+5-18	545-551	können	_	
+5-19	552-553	(	_	
+5-20	553-556	wie	_	
+5-21	557-560	z.B	_	
+5-22	560-561	.	_	
+5-23	562-565	auf	*[9]	
+5-24	566-569	der	*[9]	
+5-25	570-582	Hausdorffstr	*[9]	
+5-26	582-583	.	_	
+5-27	583-584	)	_	

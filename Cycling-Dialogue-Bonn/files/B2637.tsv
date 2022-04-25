@@ -1,0 +1,63 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Umlaufsperren entfernen
+1-1	0-13	Umlaufsperren	_	
+1-2	14-23	entfernen	_	
+
+#Text=Hier gibt es einen stillgelegten Bahnübergang mit sehr engen Umlaufsperren und Beschilderung Radfahrer absteigen.
+2-1	26-30	Hier	_	
+2-2	31-35	gibt	_	
+2-3	36-38	es	_	
+2-4	39-44	einen	_	
+2-5	45-58	stillgelegten	_	
+2-6	59-71	Bahnübergang	_	
+2-7	72-75	mit	_	
+2-8	76-80	sehr	_	
+2-9	81-86	engen	_	
+2-10	87-100	Umlaufsperren	_	
+2-11	101-104	und	_	
+2-12	105-118	Beschilderung	_	
+2-13	119-128	Radfahrer	_	
+2-14	129-138	absteigen	_	
+2-15	138-139	.	_	
+
+#Text=Die Gefahr, dass sich ein Zug durch die Büsche der überwachsenen Gleise schlägt dürfte gering sein, so dass dieses Hindernis auf dem Radweg durch das Grüne C ohne Gefahr beseitigt werden kann.
+3-1	140-143	Die	_	
+3-2	144-150	Gefahr	_	
+3-3	150-151	,	_	
+3-4	152-156	dass	_	
+3-5	157-161	sich	_	
+3-6	162-165	ein	_	
+3-7	166-169	Zug	_	
+3-8	170-175	durch	_	
+3-9	176-179	die	_	
+3-10	180-186	Büsche	_	
+3-11	187-190	der	_	
+3-12	191-204	überwachsenen	_	
+3-13	205-211	Gleise	_	
+3-14	212-219	schlägt	_	
+3-15	220-226	dürfte	_	
+3-16	227-233	gering	_	
+3-17	234-238	sein	_	
+3-18	238-239	,	_	
+3-19	240-242	so	_	
+3-20	243-247	dass	_	
+3-21	248-254	dieses	_	
+3-22	255-264	Hindernis	_	
+3-23	265-268	auf	_	
+3-24	269-272	dem	_	
+3-25	273-279	Radweg	_	
+3-26	280-285	durch	_	
+3-27	286-289	das	_	
+3-28	290-295	Grüne	_	
+3-29	296-297	C	_	
+3-30	298-302	ohne	_	
+3-31	303-309	Gefahr	_	
+3-32	310-319	beseitigt	_	
+3-33	320-326	werden	_	
+3-34	327-331	kann	_	
+3-35	331-332	.	_	

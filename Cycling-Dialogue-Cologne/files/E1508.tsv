@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Öffnung der Einbahnstraße für den Radverkehr in Gegenrichtung
+1-1	0-7	Öffnung	_	
+1-2	8-11	der	_	
+1-3	12-25	Einbahnstraße	_	
+1-4	26-29	für	_	
+1-5	30-33	den	_	
+1-6	34-44	Radverkehr	_	
+1-7	45-47	in	_	
+1-8	48-61	Gegenrichtung	_	
+
+#Text=Die Hüttenstraße stellt eine wichtige Verbindung zum Bahnhof Ehrenfeld und zum Ehrenfeldgürtel dar.
+2-1	64-67	Die	*[3]	
+2-2	68-80	Hüttenstraße	*[3]	
+2-3	81-87	stellt	_	
+2-4	88-92	eine	_	
+2-5	93-101	wichtige	_	
+2-6	102-112	Verbindung	_	
+2-7	113-116	zum	*[4]	
+2-8	117-124	Bahnhof	*[4]	
+2-9	125-134	Ehrenfeld	*[4]	
+2-10	135-138	und	*[4]	
+2-11	139-142	zum	*[4]	
+2-12	143-158	Ehrenfeldgürtel	*[4]	
+2-13	159-162	dar	_	
+2-14	162-163	.	_	

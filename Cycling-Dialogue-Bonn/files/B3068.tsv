@@ -1,0 +1,28 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Mehr Fahrradständer
+1-1	0-4	Mehr	_	
+1-2	5-19	Fahrradständer	_	
+
+#Text=An der Alten Bahnhofstraße sollte es mehr Fahrradständer geben, da die vorhandenen oft voll sind.
+2-1	22-24	An	*[3]	
+2-2	25-28	der	*[3]	
+2-3	29-34	Alten	*[3]	
+2-4	35-48	Bahnhofstraße	*[3]	
+2-5	49-55	sollte	_	
+2-6	56-58	es	_	
+2-7	59-63	mehr	_	
+2-8	64-78	Fahrradständer	_	
+2-9	79-84	geben	_	
+2-10	84-85	,	_	
+2-11	86-88	da	_	
+2-12	89-92	die	_	
+2-13	93-104	vorhandenen	_	
+2-14	105-108	oft	_	
+2-15	109-113	voll	_	
+2-16	114-118	sind	_	
+2-17	118-119	.	_	

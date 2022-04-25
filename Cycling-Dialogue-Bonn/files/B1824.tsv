@@ -1,0 +1,41 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Verkehrsführung am Brückenforum
+1-1	0-11	Gefährliche	_	
+1-2	12-27	Verkehrsführung	_	
+1-3	28-30	am	_	
+1-4	31-43	Brückenforum	_	
+
+#Text=Die von der Kennedybrücke kommenden Radfahrer werden von rechtsabbiegenen PKW übersehen.
+2-1	46-49	Die	_	
+2-2	50-53	von	*[4]	
+2-3	54-57	der	*[4]	
+2-4	58-71	Kennedybrücke	*[4]	
+2-5	72-81	kommenden	*[4]	
+2-6	82-91	Radfahrer	_	
+2-7	92-98	werden	_	
+2-8	99-102	von	_	
+2-9	103-119	rechtsabbiegenen	_	
+2-10	120-123	PKW	_	
+2-11	124-133	übersehen	_	
+2-12	133-134	.	_	
+
+#Text=Gleichzeitig sind die Radfahrer auf der folgenden Verkehrsinsel eine Gefahr für die Fußgänger.
+3-1	135-147	Gleichzeitig	_	
+3-2	148-152	sind	_	
+3-3	153-156	die	_	
+3-4	157-166	Radfahrer	_	
+3-5	167-170	auf	_	
+3-6	171-174	der	_	
+3-7	175-184	folgenden	_	
+3-8	185-198	Verkehrsinsel	_	
+3-9	199-203	eine	_	
+3-10	204-210	Gefahr	_	
+3-11	211-214	für	_	
+3-12	215-218	die	_	
+3-13	219-228	Fußgänger	_	
+3-14	228-229	.	_	

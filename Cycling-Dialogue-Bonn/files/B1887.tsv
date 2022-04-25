@@ -1,0 +1,133 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelschaltung Rochusstraße (Höhe Rathaus Hardtberg)
+1-1	0-14	Ampelschaltung	_	
+1-2	15-27	Rochusstraße	*[8]	
+1-3	28-29	(	*[8]	
+1-4	29-33	Höhe	*[8]	
+1-5	34-41	Rathaus	*[8]	
+1-6	42-51	Hardtberg	*[8]	
+1-7	51-52	)	*[8]	
+
+#Text=Hallo zusammen, wie wäre es, wenn an der Ampel (Rochusstraße - kommend von der Stadt, Ecke Rechts Einmündung zum Maarweg, Links geht es zur Villemobler Straße) eine Fahrradampel für die Radfahrer installiert wird, wo die Grünphase ein wenig früher startet, wie die der Autofahrer.
+2-1	55-60	Hallo	_	
+2-2	61-69	zusammen	_	
+2-3	69-70	,	_	
+2-4	71-74	wie	_	
+2-5	75-79	wäre	_	
+2-6	80-82	es	_	
+2-7	82-83	,	_	
+2-8	84-88	wenn	_	
+2-9	89-91	an	*[9]	
+2-10	92-95	der	*[9]	
+2-11	96-101	Ampel	*[9]	
+2-12	102-103	(	*[9]	
+2-13	103-115	Rochusstraße	*[9]	
+2-14	116-117	-	*[9]	
+2-15	118-125	kommend	*[9]	
+2-16	126-129	von	*[9]	
+2-17	130-133	der	*[9]	
+2-18	134-139	Stadt	*[9]	
+2-19	139-140	,	*[9]	
+2-20	141-145	Ecke	*[9]	
+2-21	146-152	Rechts	*[9]	
+2-22	153-163	Einmündung	*[9]	
+2-23	164-167	zum	*[9]	
+2-24	168-175	Maarweg	*[9]	
+2-25	175-176	,	*[9]	
+2-26	177-182	Links	*[9]	
+2-27	183-187	geht	*[9]	
+2-28	188-190	es	*[9]	
+2-29	191-194	zur	*[9]	
+2-30	195-206	Villemobler	*[9]	
+2-31	207-213	Straße	*[9]	
+2-32	213-214	)	*[9]	
+2-33	215-219	eine	_	
+2-34	220-232	Fahrradampel	_	
+2-35	233-236	für	_	
+2-36	237-240	die	_	
+2-37	241-250	Radfahrer	_	
+2-38	251-262	installiert	_	
+2-39	263-267	wird	_	
+2-40	267-268	,	_	
+2-41	269-271	wo	_	
+2-42	272-275	die	_	
+2-43	276-285	Grünphase	_	
+2-44	286-289	ein	_	
+2-45	290-295	wenig	_	
+2-46	296-302	früher	_	
+2-47	303-310	startet	_	
+2-48	310-311	,	_	
+2-49	312-315	wie	_	
+2-50	316-319	die	_	
+2-51	320-323	der	_	
+2-52	324-334	Autofahrer	_	
+2-53	334-335	.	_	
+
+#Text=Das hätte den Vorteil, dass die Radfahrer sich früher in den fließenden Verkehr auf der Rochusstraße (Richtung Burgweiher) einfügen könnten.
+3-1	336-339	Das	_	
+3-2	340-345	hätte	_	
+3-3	346-349	den	_	
+3-4	350-357	Vorteil	_	
+3-5	357-358	,	_	
+3-6	359-363	dass	_	
+3-7	364-367	die	_	
+3-8	368-377	Radfahrer	_	
+3-9	378-382	sich	_	
+3-10	383-389	früher	_	
+3-11	390-392	in	_	
+3-12	393-396	den	_	
+3-13	397-407	fließenden	_	
+3-14	408-415	Verkehr	_	
+3-15	416-419	auf	*[10]	
+3-16	420-423	der	*[10]	
+3-17	424-436	Rochusstraße	*[10]	
+3-18	437-438	(	*[10]	
+3-19	438-446	Richtung	*[10]	
+3-20	447-457	Burgweiher	*[10]	
+3-21	457-458	)	*[10]	
+3-22	459-467	einfügen	_	
+3-23	468-475	könnten	_	
+3-24	475-476	.	_	
+
+#Text=Haben Sie mein Anliegen verstanden?
+4-1	477-482	Haben	_	
+4-2	483-486	Sie	_	
+4-3	487-491	mein	_	
+4-4	492-500	Anliegen	_	
+4-5	501-511	verstanden	_	
+4-6	511-512	?	_	
+
+#Text=Sie können mich hierzu gerne kontaktieren - Tel.
+5-1	513-516	Sie	_	
+5-2	517-523	können	_	
+5-3	524-528	mich	_	
+5-4	529-535	hierzu	_	
+5-5	536-541	gerne	_	
+5-6	542-554	kontaktieren	_	
+5-7	555-556	-	_	
+5-8	557-560	Tel	_	
+5-9	560-561	.	_	
+
+#Text=**********.
+6-1	562-563	*	_	
+6-2	563-564	*	_	
+6-3	564-565	*	_	
+6-4	565-566	*	_	
+6-5	566-567	*	_	
+6-6	567-568	*	_	
+6-7	568-569	*	_	
+6-8	569-570	*	_	
+6-9	570-571	*	_	
+6-10	571-572	*	_	
+6-11	572-573	.	_	
+
+#Text=Petra Ziegler, Bonn
+7-1	574-579	Petra	_	
+7-2	580-587	Ziegler	_	
+7-3	587-588	,	_	
+7-4	589-593	Bonn	_	

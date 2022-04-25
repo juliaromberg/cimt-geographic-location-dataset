@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Freigabe Einbahnstrasse
+1-1	0-8	Freigabe	_	
+1-2	9-23	Einbahnstrasse	_	
+
+#Text=Alle umliegenden Einbahnstrassen sind für Radfahrer in der falschen Richtung freigegeben, nur die Mechternstrasse nicht.
+2-1	26-30	Alle	_	
+2-2	31-42	umliegenden	_	
+2-3	43-58	Einbahnstrassen	_	
+2-4	59-63	sind	_	
+2-5	64-67	für	_	
+2-6	68-77	Radfahrer	_	
+2-7	78-80	in	_	
+2-8	81-84	der	_	
+2-9	85-93	falschen	_	
+2-10	94-102	Richtung	_	
+2-11	103-114	freigegeben	_	
+2-12	114-115	,	_	
+2-13	116-119	nur	_	
+2-14	120-123	die	*[4]	
+2-15	124-139	Mechternstrasse	*[4]	
+2-16	140-145	nicht	_	
+2-17	145-146	.	_	
+
+#Text=Ein Grund ist nicht einsichtig.
+3-1	147-150	Ein	_	
+3-2	151-156	Grund	_	
+3-3	157-160	ist	_	
+3-4	161-166	nicht	_	
+3-5	167-177	einsichtig	_	
+3-6	177-178	.	_	

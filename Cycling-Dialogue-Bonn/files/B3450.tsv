@@ -1,0 +1,92 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg bei Abfahrt gesäumt von parkenden Autos, dabei in Straßenverkehr einfahrende Autos
+1-1	0-6	Radweg	_	
+1-2	7-10	bei	_	
+1-3	11-18	Abfahrt	_	
+1-4	19-26	gesäumt	_	
+1-5	27-30	von	_	
+1-6	31-40	parkenden	_	
+1-7	41-46	Autos	_	
+1-8	46-47	,	_	
+1-9	48-53	dabei	_	
+1-10	54-56	in	_	
+1-11	57-71	Straßenverkehr	_	
+1-12	72-83	einfahrende	_	
+1-13	84-89	Autos	_	
+
+#Text=Dieser Radweg macht keinen Sinn.
+2-1	92-98	Dieser	_	
+2-2	99-105	Radweg	_	
+2-3	106-111	macht	_	
+2-4	112-118	keinen	_	
+2-5	119-123	Sinn	_	
+2-6	123-124	.	_	
+
+#Text=Er schützt nicht und zwingt Radfahrer zur Wahl einer unübersichtlichen Streckenwahl.
+3-1	125-127	Er	_	
+3-2	128-135	schützt	_	
+3-3	136-141	nicht	_	
+3-4	142-145	und	_	
+3-5	146-152	zwingt	_	
+3-6	153-162	Radfahrer	_	
+3-7	163-166	zur	_	
+3-8	167-171	Wahl	_	
+3-9	172-177	einer	_	
+3-10	178-195	unübersichtlichen	_	
+3-11	196-208	Streckenwahl	_	
+3-12	208-209	.	_	
+
+#Text=Bergab fährt man hier eingezwängt zwischen Bordsteinkante und unmittelbar am, teilweise auf dem Radweg parkenden Autos.
+4-1	210-216	Bergab	_	
+4-2	217-222	fährt	_	
+4-3	223-226	man	_	
+4-4	227-231	hier	_	
+4-5	232-243	eingezwängt	_	
+4-6	244-252	zwischen	_	
+4-7	253-267	Bordsteinkante	_	
+4-8	268-271	und	_	
+4-9	272-283	unmittelbar	_	
+4-10	284-286	am	_	
+4-11	286-287	,	_	
+4-12	288-297	teilweise	_	
+4-13	298-301	auf	_	
+4-14	302-305	dem	_	
+4-15	306-312	Radweg	_	
+4-16	313-322	parkenden	_	
+4-17	323-328	Autos	_	
+4-18	328-329	.	_	
+
+#Text=Stets mit dem Risiko, dass ein aus Einfahrten kommendes Auto auf dem Radweg zwecks Orientierung zum stehen kommt.
+5-1	330-335	Stets	_	
+5-2	336-339	mit	_	
+5-3	340-343	dem	_	
+5-4	344-350	Risiko	_	
+5-5	350-351	,	_	
+5-6	352-356	dass	_	
+5-7	357-360	ein	_	
+5-8	361-364	aus	_	
+5-9	365-375	Einfahrten	_	
+5-10	376-385	kommendes	_	
+5-11	386-390	Auto	_	
+5-12	391-394	auf	_	
+5-13	395-398	dem	_	
+5-14	399-405	Radweg	_	
+5-15	406-412	zwecks	_	
+5-16	413-425	Orientierung	_	
+5-17	426-429	zum	_	
+5-18	430-436	stehen	_	
+5-19	437-442	kommt	_	
+5-20	442-443	.	_	
+
+#Text=Dann ist keinerlei Ausweichmöglichkeit vorhanden.
+6-1	444-448	Dann	_	
+6-2	449-452	ist	_	
+6-3	453-462	keinerlei	_	
+6-4	463-482	Ausweichmöglichkeit	_	
+6-5	483-492	vorhanden	_	
+6-6	492-493	.	_	

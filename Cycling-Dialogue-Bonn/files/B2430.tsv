@@ -1,0 +1,230 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Juridicum - Fahrradstellplätze / Bänke
+1-1	0-9	Juridicum	*	
+1-2	10-11	-	_	
+1-3	12-30	Fahrradstellplätze	_	
+1-4	31-32	/	_	
+1-5	33-38	Bänke	_	
+
+#Text=An der makierten Stelle stehen stadtische Bänke (Holz-Betonbauweise).
+2-1	41-43	An	_	
+2-2	44-47	der	_	
+2-3	48-57	makierten	_	
+2-4	58-64	Stelle	_	
+2-5	65-71	stehen	_	
+2-6	72-82	stadtische	_	
+2-7	83-88	Bänke	_	
+2-8	89-90	(	_	
+2-9	90-108	Holz-Betonbauweise	_	
+2-10	108-109	)	_	
+2-11	109-110	.	_	
+
+#Text=Diese werden jedoch gar nicht benutzt, da es sich an der B9 eben nicht schön sitzt.
+3-1	111-116	Diese	_	
+3-2	117-123	werden	_	
+3-3	124-130	jedoch	_	
+3-4	131-134	gar	_	
+3-5	135-140	nicht	_	
+3-6	141-148	benutzt	_	
+3-7	148-149	,	_	
+3-8	150-152	da	_	
+3-9	153-155	es	_	
+3-10	156-160	sich	_	
+3-11	161-163	an	*[13]	
+3-12	164-167	der	*[13]	
+3-13	168-170	B9	*[13]	
+3-14	171-175	eben	_	
+3-15	176-181	nicht	_	
+3-16	182-187	schön	_	
+3-17	188-193	sitzt	_	
+3-18	193-194	.	_	
+
+#Text=Man könnte an dieser Stelle jedoch wunderbar Fahrradstellplätze für die Studenten machen.
+4-1	195-198	Man	_	
+4-2	199-205	könnte	_	
+4-3	206-208	an	_	
+4-4	209-215	dieser	_	
+4-5	216-222	Stelle	_	
+4-6	223-229	jedoch	_	
+4-7	230-239	wunderbar	_	
+4-8	240-258	Fahrradstellplätze	_	
+4-9	259-262	für	_	
+4-10	263-266	die	_	
+4-11	267-276	Studenten	_	
+4-12	277-283	machen	_	
+4-13	283-284	.	_	
+
+#Text=Zwar hat die Uni am Juridicum ein paar neue Stellplätze auf dem Unigelände gemacht, jedoch reichen die oft nicht aus.
+5-1	285-289	Zwar	_	
+5-2	290-293	hat	_	
+5-3	294-297	die	_	
+5-4	298-301	Uni	_	
+5-5	302-304	am	*[14]	
+5-6	305-314	Juridicum	*[14]	
+5-7	315-318	ein	_	
+5-8	319-323	paar	_	
+5-9	324-328	neue	_	
+5-10	329-340	Stellplätze	_	
+5-11	341-344	auf	_	
+5-12	345-348	dem	_	
+5-13	349-359	Unigelände	_	
+5-14	360-367	gemacht	_	
+5-15	367-368	,	_	
+5-16	369-375	jedoch	_	
+5-17	376-383	reichen	_	
+5-18	384-387	die	_	
+5-19	388-391	oft	_	
+5-20	392-397	nicht	_	
+5-21	398-401	aus	_	
+5-22	401-402	.	_	
+
+#Text=Die Bänke müssten auch nicht weggeschmissen werden.
+6-1	403-406	Die	_	
+6-2	407-412	Bänke	_	
+6-3	413-420	müssten	_	
+6-4	421-425	auch	_	
+6-5	426-431	nicht	_	
+6-6	432-446	weggeschmissen	_	
+6-7	447-453	werden	_	
+6-8	453-454	.	_	
+
+#Text=Man müsste sich mit dem Dekan des Juridicums in Verbindung setzen und fragen ob man die Bänke nicht als Gestaltungselement auf der Eingangsfläche des Juridicums abstellen kann.
+7-1	455-458	Man	_	
+7-2	459-465	müsste	_	
+7-3	466-470	sich	_	
+7-4	471-474	mit	_	
+7-5	475-478	dem	_	
+7-6	479-484	Dekan	_	
+7-7	485-488	des	_	
+7-8	489-499	Juridicums	_	
+7-9	500-502	in	_	
+7-10	503-513	Verbindung	_	
+7-11	514-520	setzen	_	
+7-12	521-524	und	_	
+7-13	525-531	fragen	_	
+7-14	532-534	ob	_	
+7-15	535-538	man	_	
+7-16	539-542	die	_	
+7-17	543-548	Bänke	_	
+7-18	549-554	nicht	_	
+7-19	555-558	als	_	
+7-20	559-577	Gestaltungselement	_	
+7-21	578-581	auf	*[15]	
+7-22	582-585	der	*[15]	
+7-23	586-600	Eingangsfläche	*[15]	
+7-24	601-604	des	*[15]	
+7-25	605-615	Juridicums	*[15]	
+7-26	616-625	abstellen	_	
+7-27	626-630	kann	_	
+7-28	630-631	.	_	
+
+#Text=Dort würden diese viel besser angenommen werden.
+8-1	632-636	Dort	_	
+8-2	637-643	würden	_	
+8-3	644-649	diese	_	
+8-4	650-654	viel	_	
+8-5	655-661	besser	_	
+8-6	662-672	angenommen	_	
+8-7	673-679	werden	_	
+8-8	679-680	.	_	
+
+#Text=Die Kosten dafür wären auch sehr gering: Die Bänke sind nicht fest mit dem Boden verbunden, sondern können mit einem Hubwagen einfach versetzt werden.
+9-1	681-684	Die	_	
+9-2	685-691	Kosten	_	
+9-3	692-697	dafür	_	
+9-4	698-703	wären	_	
+9-5	704-708	auch	_	
+9-6	709-713	sehr	_	
+9-7	714-720	gering	_	
+9-8	720-721	:	_	
+9-9	722-725	Die	_	
+9-10	726-731	Bänke	_	
+9-11	732-736	sind	_	
+9-12	737-742	nicht	_	
+9-13	743-747	fest	_	
+9-14	748-751	mit	_	
+9-15	752-755	dem	_	
+9-16	756-761	Boden	_	
+9-17	762-771	verbunden	_	
+9-18	771-772	,	_	
+9-19	773-780	sondern	_	
+9-20	781-787	können	_	
+9-21	788-791	mit	_	
+9-22	792-797	einem	_	
+9-23	798-806	Hubwagen	_	
+9-24	807-814	einfach	_	
+9-25	815-823	versetzt	_	
+9-26	824-830	werden	_	
+9-27	830-831	.	_	
+
+#Text=Das wäre ein Zeitaufwand von maximal einer halben Stunde.
+10-1	832-835	Das	_	
+10-2	836-840	wäre	_	
+10-3	841-844	ein	_	
+10-4	845-856	Zeitaufwand	_	
+10-5	857-860	von	_	
+10-6	861-868	maximal	_	
+10-7	869-874	einer	_	
+10-8	875-881	halben	_	
+10-9	882-888	Stunde	_	
+10-10	888-889	.	_	
+
+#Text=Ich denke mal auch das die Uni da mitspielen würde, da vor dem Juridicum nur provisorisch abgestellte Betonklötze als Sitzgelegenheit dienen und die anderen Bänke das Umfeld aufwerten würde.
+11-1	890-893	Ich	_	
+11-2	894-899	denke	_	
+11-3	900-903	mal	_	
+11-4	904-908	auch	_	
+11-5	909-912	das	_	
+11-6	913-916	die	_	
+11-7	917-920	Uni	_	
+11-8	921-923	da	_	
+11-9	924-934	mitspielen	_	
+11-10	935-940	würde	_	
+11-11	940-941	,	_	
+11-12	942-944	da	_	
+11-13	945-948	vor	*[16]	
+11-14	949-952	dem	*[16]	
+11-15	953-962	Juridicum	*[16]	
+11-16	963-966	nur	_	
+11-17	967-979	provisorisch	_	
+11-18	980-991	abgestellte	_	
+11-19	992-1003	Betonklötze	_	
+11-20	1004-1007	als	_	
+11-21	1008-1023	Sitzgelegenheit	_	
+11-22	1024-1030	dienen	_	
+11-23	1031-1034	und	_	
+11-24	1035-1038	die	_	
+11-25	1039-1046	anderen	_	
+11-26	1047-1052	Bänke	_	
+11-27	1053-1056	das	_	
+11-28	1057-1063	Umfeld	_	
+11-29	1064-1073	aufwerten	_	
+11-30	1074-1079	würde	_	
+11-31	1079-1080	.	_	
+
+#Text=Also eine Win&Win Situation für alle: neue Fahrradstellflächen und Aufwertung des gesamten Umfelds ohne große Kosten.
+12-1	1081-1085	Also	_	
+12-2	1086-1090	eine	_	
+12-3	1091-1094	Win	_	
+12-4	1094-1095	&	_	
+12-5	1095-1098	Win	_	
+12-6	1099-1108	Situation	_	
+12-7	1109-1112	für	_	
+12-8	1113-1117	alle	_	
+12-9	1117-1118	:	_	
+12-10	1119-1123	neue	_	
+12-11	1124-1143	Fahrradstellflächen	_	
+12-12	1144-1147	und	_	
+12-13	1148-1158	Aufwertung	_	
+12-14	1159-1162	des	_	
+12-15	1163-1171	gesamten	_	
+12-16	1172-1179	Umfelds	_	
+12-17	1180-1184	ohne	_	
+12-18	1185-1190	große	_	
+12-19	1191-1197	Kosten	_	
+12-20	1197-1198	.	_	

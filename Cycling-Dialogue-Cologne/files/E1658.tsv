@@ -1,0 +1,156 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelschaltung, um den Parkgürtel zu queren
+1-1	0-14	Ampelschaltung	_	
+1-2	14-15	,	_	
+1-3	16-18	um	_	
+1-4	19-22	den	_	
+1-5	23-33	Parkgürtel	_	
+1-6	34-36	zu	_	
+1-7	37-43	queren	_	
+
+#Text=Möchte man, von der Arnimstraße aus den Gürtel stadteinwärts überqueren, muss man zwingend an zwei der drei Ampeln warten.
+2-1	46-52	Möchte	_	
+2-2	53-56	man	_	
+2-3	56-57	,	_	
+2-4	58-61	von	*[8]	
+2-5	62-65	der	*[8]	
+2-6	66-77	Arnimstraße	*[8]	
+2-7	78-81	aus	*[8]	
+2-8	82-85	den	*[8]	
+2-9	86-92	Gürtel	*[8]	
+2-10	93-106	stadteinwärts	*[8]	
+2-11	107-117	überqueren	*[8]	
+2-12	117-118	,	_	
+2-13	119-123	muss	_	
+2-14	124-127	man	_	
+2-15	128-136	zwingend	_	
+2-16	137-139	an	_	
+2-17	140-144	zwei	_	
+2-18	145-148	der	_	
+2-19	149-153	drei	_	
+2-20	154-160	Ampeln	_	
+2-21	161-167	warten	_	
+2-22	167-168	.	_	
+
+#Text=Das ist nicht gut.
+3-1	169-172	Das	_	
+3-2	173-176	ist	_	
+3-3	177-182	nicht	_	
+3-4	183-186	gut	_	
+3-5	186-187	.	_	
+
+#Text=Wird die Fußgänger- und Fahrradampel , die die Fahrspur des Gürtels in Nord-Süd-Richtung (Nippes -> Ehrenfeld) regelt grün, wird ebenfalls für die KFZ-Linksabbiegerspuren in Süd-Nord-Richtung (Ehrenfeld -> Nippes) grün gegeben.
+4-1	188-192	Wird	_	
+4-2	193-196	die	_	
+4-3	197-206	Fußgänger	_	
+4-4	206-207	-	_	
+4-5	208-211	und	_	
+4-6	212-224	Fahrradampel	_	
+4-7	225-226	,	_	
+4-8	227-230	die	_	
+4-9	231-234	die	*[9]	
+4-10	235-243	Fahrspur	*[9]	
+4-11	244-247	des	*[9]	
+4-12	248-255	Gürtels	*[9]	
+4-13	256-258	in	*[9]	
+4-14	259-276	Nord-Süd-Richtung	*[9]	
+4-15	277-278	(	*[9]	
+4-16	278-284	Nippes	*[9]	
+4-17	285-286	-	*[9]	
+4-18	286-287	>	*[9]	
+4-19	288-297	Ehrenfeld	*[9]	
+4-20	297-298	)	_	
+4-21	299-305	regelt	_	
+4-22	306-310	grün	_	
+4-23	310-311	,	_	
+4-24	312-316	wird	_	
+4-25	317-326	ebenfalls	_	
+4-26	327-330	für	_	
+4-27	331-334	die	*[10]	
+4-28	335-358	KFZ-Linksabbiegerspuren	*[10]	
+4-29	359-361	in	*[10]	
+4-30	362-379	Süd-Nord-Richtung	*[10]	
+4-31	380-381	(	*[10]	
+4-32	381-390	Ehrenfeld	*[10]	
+4-33	391-392	-	*[10]	
+4-34	392-393	>	*[10]	
+4-35	394-400	Nippes	*[10]	
+4-36	400-401	)	_	
+4-37	402-406	grün	_	
+4-38	407-414	gegeben	_	
+4-39	414-415	.	_	
+
+#Text=Das hat zur Folge, dass Fahrzeuge, die an dieser Stelle ein Wendemanöver (U-Turn) ausführen, zwangsläufig mit Fuß- und Radverkehr in Konflikt kommen.
+5-1	416-419	Das	_	
+5-2	420-423	hat	_	
+5-3	424-427	zur	_	
+5-4	428-433	Folge	_	
+5-5	433-434	,	_	
+5-6	435-439	dass	_	
+5-7	440-449	Fahrzeuge	_	
+5-8	449-450	,	_	
+5-9	451-454	die	_	
+5-10	455-457	an	_	
+5-11	458-464	dieser	_	
+5-12	465-471	Stelle	_	
+5-13	472-475	ein	_	
+5-14	476-488	Wendemanöver	_	
+5-15	489-490	(	_	
+5-16	490-496	U-Turn	_	
+5-17	496-497	)	_	
+5-18	498-507	ausführen	_	
+5-19	507-508	,	_	
+5-20	509-521	zwangsläufig	_	
+5-21	522-525	mit	_	
+5-22	526-529	Fuß	_	
+5-23	529-530	-	_	
+5-24	531-534	und	_	
+5-25	535-545	Radverkehr	_	
+5-26	546-548	in	_	
+5-27	549-557	Konflikt	_	
+5-28	558-564	kommen	_	
+5-29	564-565	.	_	
+
+#Text=Das ist überhaupt nicht gut.
+6-1	566-569	Das	_	
+6-2	570-573	ist	_	
+6-3	574-583	überhaupt	_	
+6-4	584-589	nicht	_	
+6-5	590-593	gut	_	
+6-6	593-594	.	_	
+
+#Text=Eine Grünphase, in der Fuß- und Radverkehr den Gürtel in einem Rutsch und ohne Beeinträchtigungen durch den motorisierten Verkehr, queren ließen, wäre dringend geboten.
+7-1	595-599	Eine	_	
+7-2	600-609	Grünphase	_	
+7-3	609-610	,	_	
+7-4	611-613	in	_	
+7-5	614-617	der	_	
+7-6	618-621	Fuß	_	
+7-7	621-622	-	_	
+7-8	623-626	und	_	
+7-9	627-637	Radverkehr	_	
+7-10	638-641	den	_	
+7-11	642-648	Gürtel	_	
+7-12	649-651	in	_	
+7-13	652-657	einem	_	
+7-14	658-664	Rutsch	_	
+7-15	665-668	und	_	
+7-16	669-673	ohne	_	
+7-17	674-692	Beeinträchtigungen	_	
+7-18	693-698	durch	_	
+7-19	699-702	den	_	
+7-20	703-716	motorisierten	_	
+7-21	717-724	Verkehr	_	
+7-22	724-725	,	_	
+7-23	726-732	queren	_	
+7-24	733-739	ließen	_	
+7-25	739-740	,	_	
+7-26	741-745	wäre	_	
+7-27	746-754	dringend	_	
+7-28	755-762	geboten	_	
+7-29	762-763	.	_	

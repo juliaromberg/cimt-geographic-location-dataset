@@ -1,0 +1,109 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Röckumstrasse als Fahrradstraße
+1-1	0-13	Röckumstrasse	*	
+1-2	14-17	als	_	
+1-3	18-31	Fahrradstraße	_	
+
+#Text=Diese Route ist die beste Verbindung von der Stadt nach Lengsdorf, Duisdorf und Hardtberg und ist verkehrsreich.
+2-1	34-39	Diese	_	
+2-2	40-45	Route	_	
+2-3	46-49	ist	_	
+2-4	50-53	die	_	
+2-5	54-59	beste	_	
+2-6	60-70	Verbindung	_	
+2-7	71-74	von	*[8]	
+2-8	75-78	der	*[8]	
+2-9	79-84	Stadt	*[8]	
+2-10	85-89	nach	*[8]	
+2-11	90-99	Lengsdorf	*[8]	
+2-12	99-100	,	*[8]	
+2-13	101-109	Duisdorf	*[8]	
+2-14	110-113	und	*[8]	
+2-15	114-123	Hardtberg	*[8]	
+2-16	124-127	und	_	
+2-17	128-131	ist	_	
+2-18	132-145	verkehrsreich	_	
+2-19	145-146	.	_	
+
+#Text=Dies sollte in eine Fahrradstraße mit dem Wegfall des Parkens gemacht werden.
+3-1	147-151	Dies	_	
+3-2	152-158	sollte	_	
+3-3	159-161	in	_	
+3-4	162-166	eine	_	
+3-5	167-180	Fahrradstraße	_	
+3-6	181-184	mit	_	
+3-7	185-188	dem	_	
+3-8	189-196	Wegfall	_	
+3-9	197-200	des	_	
+3-10	201-208	Parkens	_	
+3-11	209-216	gemacht	_	
+3-12	217-223	werden	_	
+3-13	223-224	.	_	
+
+#Text=Ich fahre diese Straße jeden Tag und die meisten Autos, die auf dieser Straße geparkt sind, bewegen sich nie.
+4-1	225-228	Ich	_	
+4-2	229-234	fahre	_	
+4-3	235-240	diese	_	
+4-4	241-247	Straße	_	
+4-5	248-253	jeden	_	
+4-6	254-257	Tag	_	
+4-7	258-261	und	_	
+4-8	262-265	die	_	
+4-9	266-273	meisten	_	
+4-10	274-279	Autos	_	
+4-11	279-280	,	_	
+4-12	281-284	die	_	
+4-13	285-288	auf	_	
+4-14	289-295	dieser	_	
+4-15	296-302	Straße	_	
+4-16	303-310	geparkt	_	
+4-17	311-315	sind	_	
+4-18	315-316	,	_	
+4-19	317-324	bewegen	_	
+4-20	325-329	sich	_	
+4-21	330-333	nie	_	
+4-22	333-334	.	_	
+
+#Text=Das könnte eine tolle Straße sein, aber momentan ist es ein riesiger Parkplatz.
+5-1	335-338	Das	_	
+5-2	339-345	könnte	_	
+5-3	346-350	eine	_	
+5-4	351-356	tolle	_	
+5-5	357-363	Straße	_	
+5-6	364-368	sein	_	
+5-7	368-369	,	_	
+5-8	370-374	aber	_	
+5-9	375-383	momentan	_	
+5-10	384-387	ist	_	
+5-11	388-390	es	_	
+5-12	391-394	ein	_	
+5-13	395-403	riesiger	_	
+5-14	404-413	Parkplatz	_	
+5-15	413-414	.	_	
+
+#Text=Die Bewohner werden sich beschweren, aber es muss getan werden.
+6-1	415-418	Die	_	
+6-2	419-427	Bewohner	_	
+6-3	428-434	werden	_	
+6-4	435-439	sich	_	
+6-5	440-450	beschweren	_	
+6-6	450-451	,	_	
+6-7	452-456	aber	_	
+6-8	457-459	es	_	
+6-9	460-464	muss	_	
+6-10	465-470	getan	_	
+6-11	471-477	werden	_	
+6-12	477-478	.	_	
+
+#Text=Es gibt keine bessere Lösung.
+7-1	479-481	Es	_	
+7-2	482-486	gibt	_	
+7-3	487-492	keine	_	
+7-4	493-500	bessere	_	
+7-5	501-507	Lösung	_	
+7-6	507-508	.	_	

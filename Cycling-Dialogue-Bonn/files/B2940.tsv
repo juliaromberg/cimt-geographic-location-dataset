@@ -1,0 +1,251 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=gefärhliche Kämpfe mit Busfahrern
+1-1	0-11	gefärhliche	_	
+1-2	12-18	Kämpfe	_	
+1-3	19-22	mit	_	
+1-4	23-33	Busfahrern	_	
+
+#Text=der schutzstreifen zwingt die radfahrer an die seite, man wird von busfahrern immer wieder sehr eng überholt, so eng, dass manchmal sogar die fahrgäste sich erschrecken.
+2-1	36-39	der	_	
+2-2	40-54	schutzstreifen	_	
+2-3	55-61	zwingt	_	
+2-4	62-65	die	_	
+2-5	66-75	radfahrer	_	
+2-6	76-78	an	_	
+2-7	79-82	die	_	
+2-8	83-88	seite	_	
+2-9	88-89	,	_	
+2-10	90-93	man	_	
+2-11	94-98	wird	_	
+2-12	99-102	von	_	
+2-13	103-113	busfahrern	_	
+2-14	114-119	immer	_	
+2-15	120-126	wieder	_	
+2-16	127-131	sehr	_	
+2-17	132-135	eng	_	
+2-18	136-144	überholt	_	
+2-19	144-145	,	_	
+2-20	146-148	so	_	
+2-21	149-152	eng	_	
+2-22	152-153	,	_	
+2-23	154-158	dass	_	
+2-24	159-167	manchmal	_	
+2-25	168-173	sogar	_	
+2-26	174-177	die	_	
+2-27	178-187	fahrgäste	_	
+2-28	188-192	sich	_	
+2-29	193-204	erschrecken	_	
+2-30	204-205	.	_	
+
+#Text=mein vorschlag: schutzstreifen weg und radfahrer auf die fahrbahn.
+3-1	206-210	mein	_	
+3-2	211-220	vorschlag	_	
+3-3	220-221	:	_	
+3-4	222-236	schutzstreifen	_	
+3-5	237-240	weg	_	
+3-6	241-244	und	_	
+3-7	245-254	radfahrer	_	
+3-8	255-258	auf	_	
+3-9	259-262	die	_	
+3-10	263-271	fahrbahn	_	
+3-11	271-272	.	_	
+
+#Text=denn die autofahrer wissen meist nicht, dass es keine benutzungspflicht für die schutzstreifen gibt und regen sich meist auf, wenn der gemeine radfahrer trotz schutzstreifen mitten auf der fahrbahn fährt.
+4-1	273-277	denn	_	
+4-2	278-281	die	_	
+4-3	282-292	autofahrer	_	
+4-4	293-299	wissen	_	
+4-5	300-305	meist	_	
+4-6	306-311	nicht	_	
+4-7	311-312	,	_	
+4-8	313-317	dass	_	
+4-9	318-320	es	_	
+4-10	321-326	keine	_	
+4-11	327-344	benutzungspflicht	_	
+4-12	345-348	für	_	
+4-13	349-352	die	_	
+4-14	353-367	schutzstreifen	_	
+4-15	368-372	gibt	_	
+4-16	373-376	und	_	
+4-17	377-382	regen	_	
+4-18	383-387	sich	_	
+4-19	388-393	meist	_	
+4-20	394-397	auf	_	
+4-21	397-398	,	_	
+4-22	399-403	wenn	_	
+4-23	404-407	der	_	
+4-24	408-415	gemeine	_	
+4-25	416-425	radfahrer	_	
+4-26	426-431	trotz	_	
+4-27	432-446	schutzstreifen	_	
+4-28	447-453	mitten	_	
+4-29	454-457	auf	_	
+4-30	458-461	der	_	
+4-31	462-470	fahrbahn	_	
+4-32	471-476	fährt	_	
+4-33	476-477	.	_	
+
+#Text=und: wenn die busse dann an den haltestellen stehen, steht man als radfahrer meist in den abgasen.
+5-1	478-481	und	_	
+5-2	481-482	:	_	
+5-3	483-487	wenn	_	
+5-4	488-491	die	_	
+5-5	492-497	busse	_	
+5-6	498-502	dann	_	
+5-7	503-505	an	_	
+5-8	506-509	den	_	
+5-9	510-522	haltestellen	_	
+5-10	523-529	stehen	_	
+5-11	529-530	,	_	
+5-12	531-536	steht	_	
+5-13	537-540	man	_	
+5-14	541-544	als	_	
+5-15	545-554	radfahrer	_	
+5-16	555-560	meist	_	
+5-17	561-563	in	_	
+5-18	564-567	den	_	
+5-19	568-575	abgasen	_	
+5-20	575-576	.	_	
+
+#Text=denn die busfahrer blinken sehr früh nach links, obwohl sogar noch personen einsteigen.
+6-1	577-581	denn	_	
+6-2	582-585	die	_	
+6-3	586-595	busfahrer	_	
+6-4	596-603	blinken	_	
+6-5	604-608	sehr	_	
+6-6	609-613	früh	_	
+6-7	614-618	nach	_	
+6-8	619-624	links	_	
+6-9	624-625	,	_	
+6-10	626-632	obwohl	_	
+6-11	633-638	sogar	_	
+6-12	639-643	noch	_	
+6-13	644-652	personen	_	
+6-14	653-663	einsteigen	_	
+6-15	663-664	.	_	
+
+#Text=ich denke, die wollen damit verhindern, dass radfahrer sie überholen und wieder vor dem bus sind.
+7-1	665-668	ich	_	
+7-2	669-674	denke	_	
+7-3	674-675	,	_	
+7-4	676-679	die	_	
+7-5	680-686	wollen	_	
+7-6	687-692	damit	_	
+7-7	693-703	verhindern	_	
+7-8	703-704	,	_	
+7-9	705-709	dass	_	
+7-10	710-719	radfahrer	_	
+7-11	720-723	sie	_	
+7-12	724-733	überholen	_	
+7-13	734-737	und	_	
+7-14	738-744	wieder	_	
+7-15	745-748	vor	_	
+7-16	749-752	dem	_	
+7-17	753-756	bus	_	
+7-18	757-761	sind	_	
+7-19	761-762	.	_	
+
+#Text=weiterhin finde ich es unzumutbar, wenn die schutzstreifen auch noch direkt an parkenden autos entlang führen.
+8-1	763-772	weiterhin	_	
+8-2	773-778	finde	_	
+8-3	779-782	ich	_	
+8-4	783-785	es	_	
+8-5	786-796	unzumutbar	_	
+8-6	796-797	,	_	
+8-7	798-802	wenn	_	
+8-8	803-806	die	_	
+8-9	807-821	schutzstreifen	_	
+8-10	822-826	auch	_	
+8-11	827-831	noch	_	
+8-12	832-838	direkt	_	
+8-13	839-841	an	_	
+8-14	842-851	parkenden	_	
+8-15	852-857	autos	_	
+8-16	858-865	entlang	_	
+8-17	866-872	führen	_	
+8-18	872-873	.	_	
+
+#Text=das ist genau der sicherheitsanbstand, den radfahrer halten sollten.
+9-1	874-877	das	_	
+9-2	878-881	ist	_	
+9-3	882-887	genau	_	
+9-4	888-891	der	_	
+9-5	892-911	sicherheitsanbstand	_	
+9-6	911-912	,	_	
+9-7	913-916	den	_	
+9-8	917-926	radfahrer	_	
+9-9	927-933	halten	_	
+9-10	934-941	sollten	_	
+9-11	941-942	.	_	
+
+#Text=ich finde dies sehr gefährlich.
+10-1	943-946	ich	_	
+10-2	947-952	finde	_	
+10-3	953-957	dies	_	
+10-4	958-962	sehr	_	
+10-5	963-973	gefährlich	_	
+10-6	973-974	.	_	
+
+#Text=musste schon oft ausweichen vor aufgehenden autotüren und ausscherenden fahrzeugen.
+11-1	975-981	musste	_	
+11-2	982-987	schon	_	
+11-3	988-991	oft	_	
+11-4	992-1002	ausweichen	_	
+11-5	1003-1006	vor	_	
+11-6	1007-1018	aufgehenden	_	
+11-7	1019-1028	autotüren	_	
+11-8	1029-1032	und	_	
+11-9	1033-1046	ausscherenden	_	
+11-10	1047-1057	fahrzeugen	_	
+11-11	1057-1058	.	_	
+
+#Text=auch hier: die autofahrer beschimpfen sogar die radfahrer, wenn sie auf der fahrbahn fahren und nicht auf dem schutzstreifen.
+12-1	1059-1063	auch	_	
+12-2	1064-1068	hier	_	
+12-3	1068-1069	:	_	
+12-4	1070-1073	die	_	
+12-5	1074-1084	autofahrer	_	
+12-6	1085-1096	beschimpfen	_	
+12-7	1097-1102	sogar	_	
+12-8	1103-1106	die	_	
+12-9	1107-1116	radfahrer	_	
+12-10	1116-1117	,	_	
+12-11	1118-1122	wenn	_	
+12-12	1123-1126	sie	_	
+12-13	1127-1130	auf	_	
+12-14	1131-1134	der	_	
+12-15	1135-1143	fahrbahn	_	
+12-16	1144-1150	fahren	_	
+12-17	1151-1154	und	_	
+12-18	1155-1160	nicht	_	
+12-19	1161-1164	auf	_	
+12-20	1165-1168	dem	_	
+12-21	1169-1183	schutzstreifen	_	
+12-22	1183-1184	.	_	
+
+#Text=die endenichser strasse steht für mich da stellvertretend für alle sehr engen strassen, in denen es schutzstreifen gibt.
+13-1	1185-1188	die	_	
+13-2	1189-1200	endenichser	_	
+13-3	1201-1208	strasse	_	
+13-4	1209-1214	steht	_	
+13-5	1215-1218	für	_	
+13-6	1219-1223	mich	_	
+13-7	1224-1226	da	_	
+13-8	1227-1242	stellvertretend	_	
+13-9	1243-1246	für	_	
+13-10	1247-1251	alle	_	
+13-11	1252-1256	sehr	_	
+13-12	1257-1262	engen	_	
+13-13	1263-1271	strassen	_	
+13-14	1271-1272	,	_	
+13-15	1273-1275	in	_	
+13-16	1276-1281	denen	_	
+13-17	1282-1284	es	_	
+13-18	1285-1299	schutzstreifen	_	
+13-19	1300-1304	gibt	_	
+13-20	1304-1305	.	_	

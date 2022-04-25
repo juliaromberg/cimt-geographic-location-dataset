@@ -1,0 +1,71 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ein Fußweg, ein Radweg?
+1-1	0-3	Ein	_	
+1-2	4-10	Fußweg	_	
+1-3	10-11	,	_	
+1-4	12-15	ein	_	
+1-5	16-22	Radweg	_	
+1-6	22-23	?	_	
+
+#Text=An dieser Stelle laufen zwei Fußwege parallel zueinander.
+2-1	26-28	An	_	
+2-2	29-35	dieser	_	
+2-3	36-42	Stelle	_	
+2-4	43-49	laufen	_	
+2-5	50-54	zwei	_	
+2-6	55-62	Fußwege	_	
+2-7	63-71	parallel	_	
+2-8	72-82	zueinander	_	
+2-9	82-83	.	_	
+
+#Text=Einer davon ist freundlicherweise für Fahrräder frei, jedoch auch voller Wurzelwellen.
+3-1	84-89	Einer	_	
+3-2	90-95	davon	_	
+3-3	96-99	ist	_	
+3-4	100-117	freundlicherweise	_	
+3-5	118-121	für	_	
+3-6	122-131	Fahrräder	_	
+3-7	132-136	frei	_	
+3-8	136-137	,	_	
+3-9	138-144	jedoch	_	
+3-10	145-149	auch	_	
+3-11	150-156	voller	_	
+3-12	157-169	Wurzelwellen	_	
+3-13	169-170	.	_	
+
+#Text=Wieso kann es nicht einen Fußweg und einen richtigen Radweg (der als solches beschildert ist) geben?
+4-1	171-176	Wieso	_	
+4-2	177-181	kann	_	
+4-3	182-184	es	_	
+4-4	185-190	nicht	_	
+4-5	191-196	einen	_	
+4-6	197-203	Fußweg	_	
+4-7	204-207	und	_	
+4-8	208-213	einen	_	
+4-9	214-223	richtigen	_	
+4-10	224-230	Radweg	_	
+4-11	231-232	(	_	
+4-12	232-235	der	_	
+4-13	236-239	als	_	
+4-14	240-247	solches	_	
+4-15	248-259	beschildert	_	
+4-16	260-263	ist	_	
+4-17	263-264	)	_	
+4-18	265-270	geben	_	
+4-19	270-271	?	_	
+
+#Text=Inklusive Ausbesserung der Wellen wäre das sehr hilfreich.
+5-1	272-281	Inklusive	_	
+5-2	282-294	Ausbesserung	_	
+5-3	295-298	der	_	
+5-4	299-305	Wellen	_	
+5-5	306-310	wäre	_	
+5-6	311-314	das	_	
+5-7	315-319	sehr	_	
+5-8	320-329	hilfreich	_	
+5-9	329-330	.	_	

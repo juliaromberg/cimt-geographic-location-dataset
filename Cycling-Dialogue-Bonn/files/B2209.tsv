@@ -1,0 +1,62 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Lieferfahrzeuge parken Radweg zu
+1-1	0-15	Lieferfahrzeuge	_	
+1-2	16-22	parken	_	
+1-3	23-29	Radweg	_	
+1-4	30-32	zu	_	
+
+#Text=Auf der Oxfordstr. vom Bertha-von-Suttner-Platz Richtung Stadthaus (in Gegenrichtung auch, aber etwas weniger) parken tagsüber fast ständig Lieferfahrzeuge auf dem Radweg.
+2-1	35-38	Auf	*[5]	
+2-2	39-42	der	*[5]	
+2-3	43-52	Oxfordstr	*[5]	
+2-4	52-53	.	*[5]	
+2-5	54-57	vom	*[5]	
+2-6	58-82	Bertha-von-Suttner-Platz	*[5]	
+2-7	83-91	Richtung	*[5]	
+2-8	92-101	Stadthaus	*[5]	
+2-9	102-103	(	_	
+2-10	103-105	in	_	
+2-11	106-119	Gegenrichtung	_	
+2-12	120-124	auch	_	
+2-13	124-125	,	_	
+2-14	126-130	aber	_	
+2-15	131-136	etwas	_	
+2-16	137-144	weniger	_	
+2-17	144-145	)	_	
+2-18	146-152	parken	_	
+2-19	153-161	tagsüber	_	
+2-20	162-166	fast	_	
+2-21	167-174	ständig	_	
+2-22	175-190	Lieferfahrzeuge	_	
+2-23	191-194	auf	_	
+2-24	195-198	dem	_	
+2-25	199-205	Radweg	_	
+2-26	205-206	.	_	
+
+#Text=Bitte konsequent kontrollieren und Knöllchen verteilen.
+3-1	207-212	Bitte	_	
+3-2	213-223	konsequent	_	
+3-3	224-237	kontrollieren	_	
+3-4	238-241	und	_	
+3-5	242-251	Knöllchen	_	
+3-6	252-261	verteilen	_	
+3-7	261-262	.	_	
+
+#Text=Die Anlieferung müsste über den Parkplatz im Innenhof des Baublocks erfolgen.
+4-1	263-266	Die	_	
+4-2	267-278	Anlieferung	_	
+4-3	279-285	müsste	_	
+4-4	286-290	über	_	
+4-5	291-294	den	_	
+4-6	295-304	Parkplatz	_	
+4-7	305-307	im	_	
+4-8	308-316	Innenhof	_	
+4-9	317-320	des	_	
+4-10	321-330	Baublocks	_	
+4-11	331-339	erfolgen	_	
+4-12	339-340	.	_	

@@ -1,0 +1,193 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unübersichtlich und gefährlich
+1-1	0-15	Unübersichtlich	_	
+1-2	16-19	und	_	
+1-3	20-30	gefährlich	_	
+
+#Text=Die Nikolausstraße ist zwischen Rosenburgweg und Karthäuserplatz eine Einbahnstraße (bergab), die in der Gegenrichtung (bergauf) für den Radverkehr freigegeben ist.
+2-1	33-36	Die	*[10]	
+2-2	37-51	Nikolausstraße	*[10]	
+2-3	52-55	ist	*[10]	
+2-4	56-64	zwischen	*[10]	
+2-5	65-77	Rosenburgweg	*[10]	
+2-6	78-81	und	*[10]	
+2-7	82-97	Karthäuserplatz	*[10]	
+2-8	98-102	eine	_	
+2-9	103-116	Einbahnstraße	_	
+2-10	117-118	(	_	
+2-11	118-124	bergab	_	
+2-12	124-125	)	_	
+2-13	125-126	,	_	
+2-14	127-130	die	_	
+2-15	131-133	in	_	
+2-16	134-137	der	_	
+2-17	138-151	Gegenrichtung	_	
+2-18	152-153	(	_	
+2-19	153-160	bergauf	_	
+2-20	160-161	)	_	
+2-21	162-165	für	_	
+2-22	166-169	den	_	
+2-23	170-180	Radverkehr	_	
+2-24	181-192	freigegeben	_	
+2-25	193-196	ist	_	
+2-26	196-197	.	_	
+
+#Text=Im Bereich der Hausnummern 33 - 53 ist dies sehr unbefriedigend gelöst.
+3-1	198-200	Im	_	
+3-2	201-208	Bereich	_	
+3-3	209-212	der	_	
+3-4	213-224	Hausnummern	_	
+3-5	225-227	33	_	
+3-6	228-229	-	_	
+3-7	230-232	53	_	
+3-8	233-236	ist	_	
+3-9	237-241	dies	_	
+3-10	242-246	sehr	_	
+3-11	247-261	unbefriedigend	_	
+3-12	262-268	gelöst	_	
+3-13	268-269	.	_	
+
+#Text=Es gibt einen Schutzstreifen, der seiner Funktion nicht gerecht werden kann, da er mehrmals!! durch Parkplätze unterbrochen wird.
+4-1	270-272	Es	_	
+4-2	273-277	gibt	_	
+4-3	278-283	einen	_	
+4-4	284-298	Schutzstreifen	_	
+4-5	298-299	,	_	
+4-6	300-303	der	_	
+4-7	304-310	seiner	_	
+4-8	311-319	Funktion	_	
+4-9	320-325	nicht	_	
+4-10	326-333	gerecht	_	
+4-11	334-340	werden	_	
+4-12	341-345	kann	_	
+4-13	345-346	,	_	
+4-14	347-349	da	_	
+4-15	350-352	er	_	
+4-16	353-361	mehrmals	_	
+4-17	361-362	!	_	
+4-18	362-363	!	_	
+4-19	364-369	durch	_	
+4-20	370-380	Parkplätze	_	
+4-21	381-393	unterbrochen	_	
+4-22	394-398	wird	_	
+4-23	398-399	.	_	
+
+#Text=Dies führt dazu, dass es hier sehr unübersichtlich ist, was durch parkende Autos auf dem Schutzstreifen bzw. über die eingezeichneten Parkplätze hinaus verstärkt wird.
+5-1	400-404	Dies	_	
+5-2	405-410	führt	_	
+5-3	411-415	dazu	_	
+5-4	415-416	,	_	
+5-5	417-421	dass	_	
+5-6	422-424	es	_	
+5-7	425-429	hier	_	
+5-8	430-434	sehr	_	
+5-9	435-450	unübersichtlich	_	
+5-10	451-454	ist	_	
+5-11	454-455	,	_	
+5-12	456-459	was	_	
+5-13	460-465	durch	_	
+5-14	466-474	parkende	_	
+5-15	475-480	Autos	_	
+5-16	481-484	auf	_	
+5-17	485-488	dem	_	
+5-18	489-503	Schutzstreifen	_	
+5-19	504-507	bzw	_	
+5-20	507-508	.	_	
+5-21	509-513	über	_	
+5-22	514-517	die	_	
+5-23	518-533	eingezeichneten	_	
+5-24	534-544	Parkplätze	_	
+5-25	545-551	hinaus	_	
+5-26	552-561	verstärkt	_	
+5-27	562-566	wird	_	
+5-28	566-567	.	_	
+
+#Text=Der Radverkehr wird wahlweise komplett ausgebremst oder weicht aufgrund der Unübersichtlichkeit in den Gegenverkehr aus.
+6-1	568-571	Der	_	
+6-2	572-582	Radverkehr	_	
+6-3	583-587	wird	_	
+6-4	588-597	wahlweise	_	
+6-5	598-606	komplett	_	
+6-6	607-618	ausgebremst	_	
+6-7	619-623	oder	_	
+6-8	624-630	weicht	_	
+6-9	631-639	aufgrund	_	
+6-10	640-643	der	_	
+6-11	644-663	Unübersichtlichkeit	_	
+6-12	664-666	in	_	
+6-13	667-670	den	_	
+6-14	671-683	Gegenverkehr	_	
+6-15	684-687	aus	_	
+6-16	687-688	.	_	
+
+#Text=Für den Radverkehr in Kessenich hat dieser Abschnitt eine nicht unerhebliche Bedeutung.
+7-1	689-692	Für	_	
+7-2	693-696	den	_	
+7-3	697-707	Radverkehr	_	
+7-4	708-710	in	*[11]	
+7-5	711-720	Kessenich	*[11]	
+7-6	721-724	hat	_	
+7-7	725-731	dieser	_	
+7-8	732-741	Abschnitt	_	
+7-9	742-746	eine	_	
+7-10	747-752	nicht	_	
+7-11	753-765	unerhebliche	_	
+7-12	766-775	Bedeutung	_	
+7-13	775-776	.	_	
+
+#Text=Er bindet das Wohngebiet um den Rosenburgweg an den Ortskern an, ist Schulweg (Nikolausschule, Bonns Fünfte) und erfüllt auch die Funktion einer ruhigeren Verbindung in Richtung Bonner Talweg, Poppelsdorf.
+8-1	777-779	Er	_	
+8-2	780-786	bindet	_	
+8-3	787-790	das	_	
+8-4	791-801	Wohngebiet	_	
+8-5	802-804	um	_	
+8-6	805-808	den	_	
+8-7	809-821	Rosenburgweg	_	
+8-8	822-824	an	_	
+8-9	825-828	den	_	
+8-10	829-837	Ortskern	_	
+8-11	838-840	an	_	
+8-12	840-841	,	_	
+8-13	842-845	ist	_	
+8-14	846-854	Schulweg	_	
+8-15	855-856	(	_	
+8-16	856-870	Nikolausschule	*[12]	
+8-17	870-871	,	*[12]	
+8-18	872-877	Bonns	*[12]	
+8-19	878-884	Fünfte	*[12]	
+8-20	884-885	)	_	
+8-21	886-889	und	_	
+8-22	890-897	erfüllt	_	
+8-23	898-902	auch	_	
+8-24	903-906	die	_	
+8-25	907-915	Funktion	_	
+8-26	916-921	einer	_	
+8-27	922-931	ruhigeren	_	
+8-28	932-942	Verbindung	_	
+8-29	943-945	in	_	
+8-30	946-954	Richtung	*[13]	
+8-31	955-961	Bonner	*[13]	
+8-32	962-968	Talweg	*[13]	
+8-33	968-969	,	*[13]	
+8-34	970-981	Poppelsdorf	*[13]	
+8-35	981-982	.	_	
+
+#Text=Vorschlag: Parkplätze entfernen, zumindest eine deutlich stärkere Kontrolle des ruhenden Verkehrs
+9-1	983-992	Vorschlag	_	
+9-2	992-993	:	_	
+9-3	994-1004	Parkplätze	_	
+9-4	1005-1014	entfernen	_	
+9-5	1014-1015	,	_	
+9-6	1016-1025	zumindest	_	
+9-7	1026-1030	eine	_	
+9-8	1031-1039	deutlich	_	
+9-9	1040-1048	stärkere	_	
+9-10	1049-1058	Kontrolle	_	
+9-11	1059-1062	des	_	
+9-12	1063-1071	ruhenden	_	
+9-13	1072-1080	Verkehrs	_	

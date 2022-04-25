@@ -1,0 +1,103 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Offizielle Freigabe der Busspur
+1-1	0-10	Offizielle	_	
+1-2	11-19	Freigabe	_	
+1-3	20-23	der	_	
+1-4	24-31	Busspur	_	
+
+#Text=Bis kurz vor der Haltestelle fahren Fahrräder auf der Busspur die Rathausgasse entlang.
+2-1	34-37	Bis	_	
+2-2	38-42	kurz	_	
+2-3	43-46	vor	_	
+2-4	47-50	der	_	
+2-5	51-62	Haltestelle	_	
+2-6	63-69	fahren	_	
+2-7	70-79	Fahrräder	_	
+2-8	80-83	auf	_	
+2-9	84-87	der	_	
+2-10	88-95	Busspur	_	
+2-11	96-99	die	*[6]	
+2-12	100-112	Rathausgasse	*[6]	
+2-13	113-120	entlang	*[6]	
+2-14	120-121	.	_	
+
+#Text=Direkt hinter der Haltestelle ist ein Schutzstreifen auf der rechten Fahrbahnseite.
+3-1	122-128	Direkt	_	
+3-2	129-135	hinter	_	
+3-3	136-139	der	_	
+3-4	140-151	Haltestelle	_	
+3-5	152-155	ist	_	
+3-6	156-159	ein	_	
+3-7	160-174	Schutzstreifen	_	
+3-8	175-178	auf	_	
+3-9	179-182	der	_	
+3-10	183-190	rechten	_	
+3-11	191-204	Fahrbahnseite	_	
+3-12	204-205	.	_	
+
+#Text=Eine Unterbrechung der Haltelinie an der rechten Seite suggeriert, dass Fahrräder hier auch rechts über die Busspur fahren sollen (und in der Praxis auch meist tun).
+4-1	206-210	Eine	_	
+4-2	211-224	Unterbrechung	_	
+4-3	225-228	der	_	
+4-4	229-239	Haltelinie	_	
+4-5	240-242	an	_	
+4-6	243-246	der	_	
+4-7	247-254	rechten	_	
+4-8	255-260	Seite	_	
+4-9	261-271	suggeriert	_	
+4-10	271-272	,	_	
+4-11	273-277	dass	_	
+4-12	278-287	Fahrräder	_	
+4-13	288-292	hier	_	
+4-14	293-297	auch	_	
+4-15	298-304	rechts	_	
+4-16	305-309	über	_	
+4-17	310-313	die	_	
+4-18	314-321	Busspur	_	
+4-19	322-328	fahren	_	
+4-20	329-335	sollen	_	
+4-21	336-337	(	_	
+4-22	337-340	und	_	
+4-23	341-343	in	_	
+4-24	344-347	der	_	
+4-25	348-354	Praxis	_	
+4-26	355-359	auch	_	
+4-27	360-365	meist	_	
+4-28	366-369	tun	_	
+4-29	369-370	)	_	
+4-30	370-371	.	_	
+
+#Text=Hier sollte die Busspur an der Haltestelle Markt entweder für Fahrräder freigegeben werden, oder die vorgesehene Verkehrführung für Fahrräder an der Bushaltestelle vorbei zumindest verdeutlicht werden.
+5-1	372-376	Hier	_	
+5-2	377-383	sollte	_	
+5-3	384-387	die	_	
+5-4	388-395	Busspur	_	
+5-5	396-398	an	*[7]	
+5-6	399-402	der	*[7]	
+5-7	403-414	Haltestelle	*[7]	
+5-8	415-420	Markt	*[7]	
+5-9	421-429	entweder	_	
+5-10	430-433	für	_	
+5-11	434-443	Fahrräder	_	
+5-12	444-455	freigegeben	_	
+5-13	456-462	werden	_	
+5-14	462-463	,	_	
+5-15	464-468	oder	_	
+5-16	469-472	die	_	
+5-17	473-484	vorgesehene	_	
+5-18	485-499	Verkehrführung	_	
+5-19	500-503	für	_	
+5-20	504-513	Fahrräder	_	
+5-21	514-516	an	_	
+5-22	517-520	der	_	
+5-23	521-535	Bushaltestelle	_	
+5-24	536-542	vorbei	_	
+5-25	543-552	zumindest	_	
+5-26	553-565	verdeutlicht	_	
+5-27	566-572	werden	_	
+5-28	572-573	.	_	

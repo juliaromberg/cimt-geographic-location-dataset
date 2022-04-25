@@ -1,0 +1,34 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=zugeparkter Radweg
+1-1	0-11	zugeparkter	_	
+1-2	12-18	Radweg	_	
+
+#Text=Dutzende Fahrzeuge parken unerlaubter Weise auf dem Radweg, täglich und dauerhaft.
+2-1	21-29	Dutzende	_	
+2-2	30-39	Fahrzeuge	_	
+2-3	40-46	parken	_	
+2-4	47-58	unerlaubter	_	
+2-5	59-64	Weise	_	
+2-6	65-68	auf	_	
+2-7	69-72	dem	_	
+2-8	73-79	Radweg	_	
+2-9	79-80	,	_	
+2-10	81-88	täglich	_	
+2-11	89-92	und	_	
+2-12	93-102	dauerhaft	_	
+2-13	102-103	.	_	
+
+#Text=kompletter Abschnitt zwischen Siegburger Str. und A562
+3-1	104-114	kompletter	_	
+3-2	115-124	Abschnitt	_	
+3-3	125-133	zwischen	*[4]	
+3-4	134-144	Siegburger	*[4]	
+3-5	145-148	Str	*[4]	
+3-6	148-149	.	*[4]	
+3-7	150-153	und	*[4]	
+3-8	154-158	A562	*[4]	

@@ -1,0 +1,67 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kaiserstr.
+1-1	0-9	Kaiserstr	*[5]	
+1-2	9-10	.	*[5]	
+
+#Text=In der Kaiserstr. zwischen Weberstr. und Königstr. ist der Radweg zu eng.
+2-1	13-15	In	*[6]	
+2-2	16-19	der	*[6]	
+2-3	20-29	Kaiserstr	*[6]	
+2-4	29-30	.	*[6]	
+2-5	31-39	zwischen	*[6]	
+2-6	40-48	Weberstr	*[6]	
+2-7	48-49	.	*[6]	
+2-8	50-53	und	*[6]	
+2-9	54-62	Königstr	*[6]	
+2-10	62-63	.	*[6]	
+2-11	64-67	ist	_	
+2-12	68-71	der	_	
+2-13	72-78	Radweg	_	
+2-14	79-81	zu	_	
+2-15	82-85	eng	_	
+2-16	85-86	.	_	
+
+#Text=Laternenmasten, parkende Autos und Gebüsch ragen in den Radweg hinein.
+3-1	87-101	Laternenmasten	_	
+3-2	101-102	,	_	
+3-3	103-111	parkende	_	
+3-4	112-117	Autos	_	
+3-5	118-121	und	_	
+3-6	122-129	Gebüsch	_	
+3-7	130-135	ragen	_	
+3-8	136-138	in	_	
+3-9	139-142	den	_	
+3-10	143-149	Radweg	_	
+3-11	150-156	hinein	_	
+3-12	156-157	.	_	
+
+#Text=Das Überholen auf dem Radweg ist riskant, manchmal muss man entgegenkommenden Radfahrern ausweichen und abbremsen, weil der Radweg zu eng ist.
+4-1	158-161	Das	_	
+4-2	162-171	Überholen	_	
+4-3	172-175	auf	_	
+4-4	176-179	dem	_	
+4-5	180-186	Radweg	_	
+4-6	187-190	ist	_	
+4-7	191-198	riskant	_	
+4-8	198-199	,	_	
+4-9	200-208	manchmal	_	
+4-10	209-213	muss	_	
+4-11	214-217	man	_	
+4-12	218-235	entgegenkommenden	_	
+4-13	236-246	Radfahrern	_	
+4-14	247-257	ausweichen	_	
+4-15	258-261	und	_	
+4-16	262-271	abbremsen	_	
+4-17	271-272	,	_	
+4-18	273-277	weil	_	
+4-19	278-281	der	_	
+4-20	282-288	Radweg	_	
+4-21	289-291	zu	_	
+4-22	292-295	eng	_	
+4-23	296-299	ist	_	
+4-24	299-300	.	_	

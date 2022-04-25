@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße
+1-1	0-13	Fahrradstraße	_	
+
+#Text=Die Adelheidisstraße und Clemensstraße sind Fahrradstraßen, der Platanenweg zwischen Friedhofstraße und Bröltalbahnweg auch, es fehlt das Teilstück zwischen Sankt Augustiner Straße und Friedhofstraße.
+2-1	16-19	Die	*[3]	
+2-2	20-36	Adelheidisstraße	*[3]	
+2-3	37-40	und	*[3]	
+2-4	41-54	Clemensstraße	*[3]	
+2-5	55-59	sind	_	
+2-6	60-74	Fahrradstraßen	_	
+2-7	74-75	,	_	
+2-8	76-79	der	*[4]	
+2-9	80-91	Platanenweg	*[4]	
+2-10	92-100	zwischen	*[4]	
+2-11	101-115	Friedhofstraße	*[4]	
+2-12	116-119	und	*[4]	
+2-13	120-134	Bröltalbahnweg	*[4]	
+2-14	135-139	auch	_	
+2-15	139-140	,	_	
+2-16	141-143	es	_	
+2-17	144-149	fehlt	_	
+2-18	150-153	das	*[5]	
+2-19	154-163	Teilstück	*[5]	
+2-20	164-172	zwischen	*[5]	
+2-21	173-178	Sankt	*[5]	
+2-22	179-189	Augustiner	*[5]	
+2-23	190-196	Straße	*[5]	
+2-24	197-200	und	*[5]	
+2-25	201-215	Friedhofstraße	*[5]	
+2-26	215-216	.	_	
+
+#Text=Hier wäre die durchgehende Fahrradstraße sinnvoll.
+3-1	217-221	Hier	_	
+3-2	222-226	wäre	_	
+3-3	227-230	die	_	
+3-4	231-243	durchgehende	_	
+3-5	244-257	Fahrradstraße	_	
+3-6	258-266	sinnvoll	_	
+3-7	266-267	.	_	

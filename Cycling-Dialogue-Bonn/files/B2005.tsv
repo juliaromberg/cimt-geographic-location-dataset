@@ -1,0 +1,70 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlechter, verschmutzter Radweg
+1-1	0-10	Schlechter	_	
+1-2	10-11	,	_	
+1-3	12-25	verschmutzter	_	
+1-4	26-32	Radweg	_	
+
+#Text=Dieser Radweg wurde von einiger Zeit zwar schon einmal verbessert und die dicksten Buckel geglättet, er ist aber immer noch sehr uneben, außerdem regelmäßig stark verschmutz, auch mit Glasscherben.
+2-1	35-41	Dieser	_	
+2-2	42-48	Radweg	_	
+2-3	49-54	wurde	_	
+2-4	55-58	von	_	
+2-5	59-66	einiger	_	
+2-6	67-71	Zeit	_	
+2-7	72-76	zwar	_	
+2-8	77-82	schon	_	
+2-9	83-89	einmal	_	
+2-10	90-100	verbessert	_	
+2-11	101-104	und	_	
+2-12	105-108	die	_	
+2-13	109-117	dicksten	_	
+2-14	118-124	Buckel	_	
+2-15	125-134	geglättet	_	
+2-16	134-135	,	_	
+2-17	136-138	er	_	
+2-18	139-142	ist	_	
+2-19	143-147	aber	_	
+2-20	148-153	immer	_	
+2-21	154-158	noch	_	
+2-22	159-163	sehr	_	
+2-23	164-170	uneben	_	
+2-24	170-171	,	_	
+2-25	172-180	außerdem	_	
+2-26	181-191	regelmäßig	_	
+2-27	192-197	stark	_	
+2-28	198-208	verschmutz	_	
+2-29	208-209	,	_	
+2-30	210-214	auch	_	
+2-31	215-218	mit	_	
+2-32	219-231	Glasscherben	_	
+2-33	231-232	.	_	
+
+#Text=Regelmäßige Reinigung sowie Kontrollen des Ordnungsamtes um dort zwielichtige Gestalten (durch die illegale Prostitution) zu verscheuchen würden sicherlich helfen.
+3-1	233-244	Regelmäßige	_	
+3-2	245-254	Reinigung	_	
+3-3	255-260	sowie	_	
+3-4	261-271	Kontrollen	_	
+3-5	272-275	des	_	
+3-6	276-289	Ordnungsamtes	_	
+3-7	290-292	um	_	
+3-8	293-297	dort	_	
+3-9	298-310	zwielichtige	_	
+3-10	311-320	Gestalten	_	
+3-11	321-322	(	_	
+3-12	322-327	durch	_	
+3-13	328-331	die	_	
+3-14	332-340	illegale	_	
+3-15	341-353	Prostitution	_	
+3-16	353-354	)	_	
+3-17	355-357	zu	_	
+3-18	358-370	verscheuchen	_	
+3-19	371-377	würden	_	
+3-20	378-388	sicherlich	_	
+3-21	389-395	helfen	_	
+3-22	395-396	.	_	

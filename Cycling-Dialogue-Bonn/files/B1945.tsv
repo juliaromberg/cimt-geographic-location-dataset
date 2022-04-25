@@ -1,0 +1,168 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radverkehrsführung aus Schumannstr. in Richtung Kessenich
+1-1	0-18	Radverkehrsführung	_	
+1-2	19-22	aus	*[7]	
+1-3	23-34	Schumannstr	*[7]	
+1-4	34-35	.	*[7]	
+1-5	36-38	in	*[7]	
+1-6	39-47	Richtung	*[7]	
+1-7	48-57	Kessenich	*[7]	
+
+#Text=Legale Ausfahrt aus beidseitiger Radstr. Schumannstr.: Warum geht man nicht in der Mitte der Kreuzung hin und zeichnet für Radfahrer in Richtung Kessenich eine linksabbiege Spur auf den Asphalt ein?
+2-1	60-66	Legale	_	
+2-2	67-75	Ausfahrt	_	
+2-3	76-79	aus	_	
+2-4	80-92	beidseitiger	_	
+2-5	93-99	Radstr	_	
+2-6	99-100	.	_	
+2-7	101-112	Schumannstr	*	
+2-8	112-113	.	_	
+2-9	113-114	:	_	
+2-10	115-120	Warum	_	
+2-11	121-125	geht	_	
+2-12	126-129	man	_	
+2-13	130-135	nicht	_	
+2-14	136-138	in	_	
+2-15	139-142	der	_	
+2-16	143-148	Mitte	_	
+2-17	149-152	der	_	
+2-18	153-161	Kreuzung	_	
+2-19	162-165	hin	_	
+2-20	166-169	und	_	
+2-21	170-178	zeichnet	_	
+2-22	179-182	für	_	
+2-23	183-192	Radfahrer	_	
+2-24	193-195	in	_	
+2-25	196-204	Richtung	_	
+2-26	205-214	Kessenich	_	
+2-27	215-219	eine	_	
+2-28	220-232	linksabbiege	_	
+2-29	233-237	Spur	_	
+2-30	238-241	auf	_	
+2-31	242-245	den	_	
+2-32	246-253	Asphalt	_	
+2-33	254-257	ein	_	
+2-34	257-258	?	_	
+
+#Text=Für Autofahrer hat man den Pfeil plaziert.
+3-1	259-262	Für	_	
+3-2	263-273	Autofahrer	_	
+3-3	274-277	hat	_	
+3-4	278-281	man	_	
+3-5	282-285	den	_	
+3-6	286-291	Pfeil	_	
+3-7	292-300	plaziert	_	
+3-8	300-301	.	_	
+
+#Text=So gut wie kein Radfahrer kapiert an dieser Kreuzung die Verkehrsführung, wenn er aus der Schumannstr. über die Hausdorffstr. weiterfahren möchte (mangelnde Beschilderung und Einzeichnung der Verkehrswege für Radfahrer).
+4-1	302-304	So	_	
+4-2	305-308	gut	_	
+4-3	309-312	wie	_	
+4-4	313-317	kein	_	
+4-5	318-327	Radfahrer	_	
+4-6	328-335	kapiert	_	
+4-7	336-338	an	_	
+4-8	339-345	dieser	_	
+4-9	346-354	Kreuzung	_	
+4-10	355-358	die	_	
+4-11	359-374	Verkehrsführung	_	
+4-12	374-375	,	_	
+4-13	376-380	wenn	_	
+4-14	381-383	er	_	
+4-15	384-387	aus	*[8]	
+4-16	388-391	der	*[8]	
+4-17	392-403	Schumannstr	*[8]	
+4-18	403-404	.	*[8]	
+4-19	405-409	über	*[8]	
+4-20	410-413	die	*[8]	
+4-21	414-426	Hausdorffstr	*[8]	
+4-22	426-427	.	*[8]	
+4-23	428-440	weiterfahren	*[8]	
+4-24	441-447	möchte	_	
+4-25	448-449	(	_	
+4-26	449-458	mangelnde	_	
+4-27	459-472	Beschilderung	_	
+4-28	473-476	und	_	
+4-29	477-489	Einzeichnung	_	
+4-30	490-493	der	_	
+4-31	494-506	Verkehrswege	_	
+4-32	507-510	für	_	
+4-33	511-520	Radfahrer	_	
+4-34	520-521	)	_	
+4-35	521-522	.	_	
+
+#Text=Fakt ist: Fast jeder Radfahrer fährt über den Ampelfußweg, fährt auf dem Bürgersteig in der falschen Fahrtrichtung weiter in Richtung Kessenich, dann wird über die Sperrfläche der Bahn auf den gegenüberliegenden Radweg in Richtung Kessenich gewechselt, was übrigends 30, 00 kostet, wenn man erwischt wird.
+5-1	523-527	Fakt	_	
+5-2	528-531	ist	_	
+5-3	531-532	:	_	
+5-4	533-537	Fast	_	
+5-5	538-543	jeder	_	
+5-6	544-553	Radfahrer	_	
+5-7	554-559	fährt	_	
+5-8	560-564	über	_	
+5-9	565-568	den	_	
+5-10	569-580	Ampelfußweg	_	
+5-11	580-581	,	_	
+5-12	582-587	fährt	_	
+5-13	588-591	auf	_	
+5-14	592-595	dem	_	
+5-15	596-607	Bürgersteig	_	
+5-16	608-610	in	_	
+5-17	611-614	der	_	
+5-18	615-623	falschen	_	
+5-19	624-637	Fahrtrichtung	_	
+5-20	638-644	weiter	*[9]	
+5-21	645-647	in	*[9]	
+5-22	648-656	Richtung	*[9]	
+5-23	657-666	Kessenich	*[9]	
+5-24	666-667	,	_	
+5-25	668-672	dann	_	
+5-26	673-677	wird	_	
+5-27	678-682	über	_	
+5-28	683-686	die	_	
+5-29	687-698	Sperrfläche	_	
+5-30	699-702	der	_	
+5-31	703-707	Bahn	_	
+5-32	708-711	auf	_	
+5-33	712-715	den	_	
+5-34	716-734	gegenüberliegenden	*[10]	
+5-35	735-741	Radweg	*[10]	
+5-36	742-744	in	*[10]	
+5-37	745-753	Richtung	*[10]	
+5-38	754-763	Kessenich	*[10]	
+5-39	764-774	gewechselt	_	
+5-40	774-775	,	_	
+5-41	776-779	was	_	
+5-42	780-789	übrigends	_	
+5-43	790-792	30	_	
+5-44	792-793	,	_	
+5-45	794-796	00	_	
+5-46	797-803	kostet	_	
+5-47	803-804	,	_	
+5-48	805-809	wenn	_	
+5-49	810-813	man	_	
+5-50	814-822	erwischt	_	
+5-51	823-827	wird	_	
+5-52	827-828	.	_	
+
+#Text=Ich habe schon mehrfach beobachtet, dass Radfahrer direkt über die Kreuzung gefahren sind.
+6-1	829-832	Ich	_	
+6-2	833-837	habe	_	
+6-3	838-843	schon	_	
+6-4	844-852	mehrfach	_	
+6-5	853-863	beobachtet	_	
+6-6	863-864	,	_	
+6-7	865-869	dass	_	
+6-8	870-879	Radfahrer	_	
+6-9	880-886	direkt	_	
+6-10	887-891	über	_	
+6-11	892-895	die	_	
+6-12	896-904	Kreuzung	_	
+6-13	905-913	gefahren	_	
+6-14	914-918	sind	_	
+6-15	918-919	.	_	

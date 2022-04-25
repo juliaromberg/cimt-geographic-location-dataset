@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bahnüberquerung weiten und glätten
+1-1	0-15	Bahnüberquerung	_	
+1-2	16-22	weiten	_	
+1-3	23-26	und	_	
+1-4	27-34	glätten	_	
+
+#Text=Die Sicherheitssperren sind zu schmal für Radverkehr mit Anhänger.
+2-1	37-40	Die	_	
+2-2	41-59	Sicherheitssperren	_	
+2-3	60-64	sind	_	
+2-4	65-67	zu	_	
+2-5	68-74	schmal	_	
+2-6	75-78	für	_	
+2-7	79-89	Radverkehr	_	
+2-8	90-93	mit	_	
+2-9	94-102	Anhänger	_	
+2-10	102-103	.	_	
+
+#Text=Außerdem ist der Weg nicht befestigt, sodass jeweils unmittelbar bei den Sperren eine hohe Stufe stört.
+3-1	104-112	Außerdem	_	
+3-2	113-116	ist	_	
+3-3	117-120	der	_	
+3-4	121-124	Weg	_	
+3-5	125-130	nicht	_	
+3-6	131-140	befestigt	_	
+3-7	140-141	,	_	
+3-8	142-148	sodass	_	
+3-9	149-156	jeweils	_	
+3-10	157-168	unmittelbar	_	
+3-11	169-172	bei	_	
+3-12	173-176	den	_	
+3-13	177-184	Sperren	_	
+3-14	185-189	eine	_	
+3-15	190-194	hohe	_	
+3-16	195-200	Stufe	_	
+3-17	201-206	stört	_	
+3-18	206-207	.	_	
+
+#Text=Da die Bahngleise sehr selten genutzt werden, ist eine Ausweitung von ca. 80 cm auf 150 cm zumutbar und sinnvoll.
+4-1	208-210	Da	_	
+4-2	211-214	die	_	
+4-3	215-225	Bahngleise	_	
+4-4	226-230	sehr	_	
+4-5	231-237	selten	_	
+4-6	238-245	genutzt	_	
+4-7	246-252	werden	_	
+4-8	252-253	,	_	
+4-9	254-257	ist	_	
+4-10	258-262	eine	_	
+4-11	263-273	Ausweitung	_	
+4-12	274-277	von	_	
+4-13	278-280	ca	_	
+4-14	280-281	.	_	
+4-15	282-284	80	_	
+4-16	285-287	cm	_	
+4-17	288-291	auf	_	
+4-18	292-295	150	_	
+4-19	296-298	cm	_	
+4-20	299-307	zumutbar	_	
+4-21	308-311	und	_	
+4-22	312-320	sinnvoll	_	
+4-23	320-321	.	_	

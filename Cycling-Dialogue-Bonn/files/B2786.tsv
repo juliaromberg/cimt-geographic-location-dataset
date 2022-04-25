@@ -1,0 +1,108 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Benutzungspflicht der Haltestellenumfahrung stadteinwärts aufheben
+1-1	0-17	Benutzungspflicht	_	
+1-2	18-21	der	_	
+1-3	22-43	Haltestellenumfahrung	_	
+1-4	44-57	stadteinwärts	_	
+1-5	58-66	aufheben	_	
+
+#Text=An dieser Stelle müssen Radfahrer benutzungspflichtig von der Straße auf den Bürgersteig um hinter der Haltestelle herzufahren.
+2-1	69-71	An	_	
+2-2	72-78	dieser	_	
+2-3	79-85	Stelle	_	
+2-4	86-92	müssen	_	
+2-5	93-102	Radfahrer	_	
+2-6	103-122	benutzungspflichtig	_	
+2-7	123-126	von	_	
+2-8	127-130	der	_	
+2-9	131-137	Straße	_	
+2-10	138-141	auf	_	
+2-11	142-145	den	_	
+2-12	146-157	Bürgersteig	_	
+2-13	158-160	um	_	
+2-14	161-167	hinter	_	
+2-15	168-171	der	_	
+2-16	172-183	Haltestelle	_	
+2-17	184-195	herzufahren	_	
+2-18	195-196	.	_	
+
+#Text=Der Bereich ist bereits sehr eng, und wird durch wartende Fahrgäste und Kunden der Geschäfte noch weiter eingeengt.
+3-1	197-200	Der	_	
+3-2	201-208	Bereich	_	
+3-3	209-212	ist	_	
+3-4	213-220	bereits	_	
+3-5	221-225	sehr	_	
+3-6	226-229	eng	_	
+3-7	229-230	,	_	
+3-8	231-234	und	_	
+3-9	235-239	wird	_	
+3-10	240-245	durch	_	
+3-11	246-254	wartende	_	
+3-12	255-264	Fahrgäste	_	
+3-13	265-268	und	_	
+3-14	269-275	Kunden	_	
+3-15	276-279	der	_	
+3-16	280-289	Geschäfte	_	
+3-17	290-294	noch	_	
+3-18	295-301	weiter	_	
+3-19	302-311	eingeengt	_	
+3-20	311-312	.	_	
+
+#Text=Zusätzlich behindern parkende Autos u.a. des dortigen Lieferdienstes ein sicheres Zurückkehren auf die Straße nach dem Ende des Radwegs.
+4-1	313-323	Zusätzlich	_	
+4-2	324-333	behindern	_	
+4-3	334-342	parkende	_	
+4-4	343-348	Autos	_	
+4-5	349-352	u.a	_	
+4-6	352-353	.	_	
+4-7	354-357	des	_	
+4-8	358-366	dortigen	_	
+4-9	367-381	Lieferdienstes	_	
+4-10	382-385	ein	_	
+4-11	386-394	sicheres	_	
+4-12	395-407	Zurückkehren	_	
+4-13	408-411	auf	_	
+4-14	412-415	die	_	
+4-15	416-422	Straße	_	
+4-16	423-427	nach	_	
+4-17	428-431	dem	_	
+4-18	432-436	Ende	_	
+4-19	437-440	des	_	
+4-20	441-448	Radwegs	_	
+4-21	448-449	.	_	
+
+#Text=Auch wenn der Wechsel zwischen die Gleise ebenfalls nicht optimal ist, stellt er häufig die sicherere Variante da, daher sollte die Benutzungspflicht der Umfahrung aufgehoben werden.
+5-1	450-454	Auch	_	
+5-2	455-459	wenn	_	
+5-3	460-463	der	_	
+5-4	464-471	Wechsel	_	
+5-5	472-480	zwischen	_	
+5-6	481-484	die	_	
+5-7	485-491	Gleise	_	
+5-8	492-501	ebenfalls	_	
+5-9	502-507	nicht	_	
+5-10	508-515	optimal	_	
+5-11	516-519	ist	_	
+5-12	519-520	,	_	
+5-13	521-527	stellt	_	
+5-14	528-530	er	_	
+5-15	531-537	häufig	_	
+5-16	538-541	die	_	
+5-17	542-551	sicherere	_	
+5-18	552-560	Variante	_	
+5-19	561-563	da	_	
+5-20	563-564	,	_	
+5-21	565-570	daher	_	
+5-22	571-577	sollte	_	
+5-23	578-581	die	_	
+5-24	582-599	Benutzungspflicht	_	
+5-25	600-603	der	_	
+5-26	604-613	Umfahrung	_	
+5-27	614-624	aufgehoben	_	
+5-28	625-631	werden	_	
+5-29	631-632	.	_	

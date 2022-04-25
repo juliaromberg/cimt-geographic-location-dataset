@@ -1,0 +1,148 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parken in zweiter Reihe verhindern, damit man ungefährdet entgegen der (freigegebenen) Einbahnstraße fahren kann...
+1-1	0-6	Parken	_	
+1-2	7-9	in	_	
+1-3	10-17	zweiter	_	
+1-4	18-23	Reihe	_	
+1-5	24-34	verhindern	_	
+1-6	34-35	,	_	
+1-7	36-41	damit	_	
+1-8	42-45	man	_	
+1-9	46-57	ungefährdet	_	
+1-10	58-66	entgegen	_	
+1-11	67-70	der	_	
+1-12	71-72	(	_	
+1-13	72-85	freigegebenen	_	
+1-14	85-86	)	_	
+1-15	87-100	Einbahnstraße	_	
+1-16	101-107	fahren	_	
+1-17	108-112	kann	_	
+1-18	112-113	.	_	
+1-19	113-114	.	_	
+1-20	114-115	.	_	
+
+#Text=Die Pützstraße ist eine Einbahnstraßeinee, die für Radfahrer in der Gegenrichtung freigegeben ist.
+2-1	118-121	Die	*[7]	
+2-2	122-132	Pützstraße	*[7]	
+2-3	133-136	ist	_	
+2-4	137-141	eine	_	
+2-5	142-159	Einbahnstraßeinee	_	
+2-6	159-160	,	_	
+2-7	161-164	die	_	
+2-8	165-168	für	_	
+2-9	169-178	Radfahrer	_	
+2-10	179-181	in	_	
+2-11	182-185	der	_	
+2-12	186-199	Gegenrichtung	_	
+2-13	200-211	freigegeben	_	
+2-14	212-215	ist	_	
+2-15	215-216	.	_	
+
+#Text=Leider ist der absolute Normalzustand tagsüber, dass Fahrzeuge in Fahrtrichtung links in zweiter Reihe parken, um zur Post zu gehen, einen Döner zu kaufen oder Brötchen zu holen.
+3-1	217-223	Leider	_	
+3-2	224-227	ist	_	
+3-3	228-231	der	_	
+3-4	232-240	absolute	_	
+3-5	241-254	Normalzustand	_	
+3-6	255-263	tagsüber	_	
+3-7	263-264	,	_	
+3-8	265-269	dass	_	
+3-9	270-279	Fahrzeuge	_	
+3-10	280-282	in	_	
+3-11	283-296	Fahrtrichtung	_	
+3-12	297-302	links	_	
+3-13	303-305	in	_	
+3-14	306-313	zweiter	_	
+3-15	314-319	Reihe	_	
+3-16	320-326	parken	_	
+3-17	326-327	,	_	
+3-18	328-330	um	_	
+3-19	331-334	zur	_	
+3-20	335-339	Post	_	
+3-21	340-342	zu	_	
+3-22	343-348	gehen	_	
+3-23	348-349	,	_	
+3-24	350-355	einen	_	
+3-25	356-361	Döner	_	
+3-26	362-364	zu	_	
+3-27	365-371	kaufen	_	
+3-28	372-376	oder	_	
+3-29	377-385	Brötchen	_	
+3-30	386-388	zu	_	
+3-31	389-394	holen	_	
+3-32	394-395	.	_	
+
+#Text=Um das Parken in zweiter Reihe verhindern, sollte die Stadt bauliche Maßnahmen ergreifen, damit man als Radfahrer nicht gezwungen ist, in den Gegenverkehr zu fahren oder Dooring von den Falschparkern zu erleiden.
+4-1	396-398	Um	_	
+4-2	399-402	das	_	
+4-3	403-409	Parken	_	
+4-4	410-412	in	_	
+4-5	413-420	zweiter	_	
+4-6	421-426	Reihe	_	
+4-7	427-437	verhindern	_	
+4-8	437-438	,	_	
+4-9	439-445	sollte	_	
+4-10	446-449	die	_	
+4-11	450-455	Stadt	_	
+4-12	456-464	bauliche	_	
+4-13	465-474	Maßnahmen	_	
+4-14	475-484	ergreifen	_	
+4-15	484-485	,	_	
+4-16	486-491	damit	_	
+4-17	492-495	man	_	
+4-18	496-499	als	_	
+4-19	500-509	Radfahrer	_	
+4-20	510-515	nicht	_	
+4-21	516-525	gezwungen	_	
+4-22	526-529	ist	_	
+4-23	529-530	,	_	
+4-24	531-533	in	_	
+4-25	534-537	den	_	
+4-26	538-550	Gegenverkehr	_	
+4-27	551-553	zu	_	
+4-28	554-560	fahren	_	
+4-29	561-565	oder	_	
+4-30	566-573	Dooring	_	
+4-31	574-577	von	_	
+4-32	578-581	den	_	
+4-33	582-595	Falschparkern	_	
+4-34	596-598	zu	_	
+4-35	599-607	erleiden	_	
+4-36	607-608	.	_	
+
+#Text=Trennen Sie den Radstreifen einfach baulich an den entsprechenden Stellen ab.
+5-1	609-616	Trennen	_	
+5-2	617-620	Sie	_	
+5-3	621-624	den	_	
+5-4	625-636	Radstreifen	_	
+5-5	637-644	einfach	_	
+5-6	645-652	baulich	_	
+5-7	653-655	an	_	
+5-8	656-659	den	_	
+5-9	660-674	entsprechenden	_	
+5-10	675-682	Stellen	_	
+5-11	683-685	ab	_	
+5-12	685-686	.	_	
+
+#Text=Es geht um den Fahrradständer vor dem Blumenladen und um die Stelle gegenüber vom Lubig.
+6-1	687-689	Es	_	
+6-2	690-694	geht	_	
+6-3	695-697	um	_	
+6-4	698-701	den	_	
+6-5	702-716	Fahrradständer	_	
+6-6	717-720	vor	_	
+6-7	721-724	dem	_	
+6-8	725-736	Blumenladen	_	
+6-9	737-740	und	_	
+6-10	741-743	um	_	
+6-11	744-747	die	*[8]	
+6-12	748-754	Stelle	*[8]	
+6-13	755-764	gegenüber	*[8]	
+6-14	765-768	vom	*[8]	
+6-15	769-774	Lubig	*[8]	
+6-16	774-775	.	_	

@@ -1,0 +1,81 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Autofahrer rechnen nicht mit entgegenkommendem Radverkehr
+1-1	0-10	Autofahrer	_	
+1-2	11-18	rechnen	_	
+1-3	19-24	nicht	_	
+1-4	25-28	mit	_	
+1-5	29-46	entgegenkommendem	_	
+1-6	47-57	Radverkehr	_	
+
+#Text=Autofahrer in der Frongasse rechnen in der Kurve Frongasse Ecke Brahmsstraße nicht mit entgegenkommendem Radverkehr und kommen den Radfahrern regelmäßig am linken Fahrbahnrand in der Außenkurve entgegen.
+2-1	60-70	Autofahrer	_	
+2-2	71-73	in	*[5]	
+2-3	74-77	der	*[5]	
+2-4	78-87	Frongasse	*[5]	
+2-5	88-95	rechnen	_	
+2-6	96-98	in	*[6]	
+2-7	99-102	der	*[6]	
+2-8	103-108	Kurve	*[6]	
+2-9	109-118	Frongasse	*[6]	
+2-10	119-123	Ecke	*[6]	
+2-11	124-136	Brahmsstraße	*[6]	
+2-12	137-142	nicht	_	
+2-13	143-146	mit	_	
+2-14	147-164	entgegenkommendem	_	
+2-15	165-175	Radverkehr	_	
+2-16	176-179	und	_	
+2-17	180-186	kommen	_	
+2-18	187-190	den	_	
+2-19	191-201	Radfahrern	_	
+2-20	202-212	regelmäßig	_	
+2-21	213-215	am	_	
+2-22	216-222	linken	_	
+2-23	223-235	Fahrbahnrand	_	
+2-24	236-238	in	_	
+2-25	239-242	der	_	
+2-26	243-253	Außenkurve	_	
+2-27	254-262	entgegen	_	
+2-28	262-263	.	_	
+
+#Text=Die vorhendene Beschilderung reicht offensichtlich nicht aus, da sie an dieser unübersichtlichen Stelle nicht wahrgenommen wird.
+3-1	264-267	Die	_	
+3-2	268-278	vorhendene	_	
+3-3	279-292	Beschilderung	_	
+3-4	293-299	reicht	_	
+3-5	300-314	offensichtlich	_	
+3-6	315-320	nicht	_	
+3-7	321-324	aus	_	
+3-8	324-325	,	_	
+3-9	326-328	da	_	
+3-10	329-332	sie	_	
+3-11	333-335	an	_	
+3-12	336-342	dieser	_	
+3-13	343-360	unübersichtlichen	_	
+3-14	361-367	Stelle	_	
+3-15	368-373	nicht	_	
+3-16	374-386	wahrgenommen	_	
+3-17	387-391	wird	_	
+3-18	391-392	.	_	
+
+#Text=Es sollte eine DURCHGEZOGENE Fahrbahnmarkierung angebracht werden, welche die Außenkurve allein dem Radverkehr vorbehält.
+4-1	393-395	Es	_	
+4-2	396-402	sollte	_	
+4-3	403-407	eine	_	
+4-4	408-421	DURCHGEZOGENE	_	
+4-5	422-440	Fahrbahnmarkierung	_	
+4-6	441-451	angebracht	_	
+4-7	452-458	werden	_	
+4-8	458-459	,	_	
+4-9	460-466	welche	_	
+4-10	467-470	die	_	
+4-11	471-481	Außenkurve	_	
+4-12	482-488	allein	_	
+4-13	489-492	dem	_	
+4-14	493-503	Radverkehr	_	
+4-15	504-513	vorbehält	_	
+4-16	513-514	.	_	

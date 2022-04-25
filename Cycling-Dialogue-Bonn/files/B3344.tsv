@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg Kaiserstraße
+1-1	0-6	Radweg	_	
+1-2	7-19	Kaiserstraße	*	
+
+#Text=Auf dem Radweg Kaisersstraße kommt es vor allem im Bereich zwischen Weber- und Königstraße immer wieder zu gefährlichen Situationen, weil der Radweg einfach zu schmal ist.
+2-1	22-25	Auf	_	
+2-2	26-29	dem	_	
+2-3	30-36	Radweg	_	
+2-4	37-50	Kaisersstraße	*	
+2-5	51-56	kommt	_	
+2-6	57-59	es	_	
+2-7	60-63	vor	_	
+2-8	64-69	allem	_	
+2-9	70-72	im	_	
+2-10	73-80	Bereich	_	
+2-11	81-89	zwischen	*[4]	
+2-12	90-95	Weber	*[4]	
+2-13	95-96	-	*[4]	
+2-14	97-100	und	*[4]	
+2-15	101-112	Königstraße	*[4]	
+2-16	113-118	immer	_	
+2-17	119-125	wieder	_	
+2-18	126-128	zu	_	
+2-19	129-141	gefährlichen	_	
+2-20	142-153	Situationen	_	
+2-21	153-154	,	_	
+2-22	155-159	weil	_	
+2-23	160-163	der	_	
+2-24	164-170	Radweg	_	
+2-25	171-178	einfach	_	
+2-26	179-181	zu	_	
+2-27	182-188	schmal	_	
+2-28	189-192	ist	_	
+2-29	192-193	.	_	
+
+#Text=Dazu kommen schräg bis in den Radweg parkende Autos, wucherndes Gestrüpp, das in den Radweg hinein wächst und vor allem jetzt im Herbst oft ein glitschige Fahrbahn vom nassen Laub.
+3-1	194-198	Dazu	_	
+3-2	199-205	kommen	_	
+3-3	206-212	schräg	_	
+3-4	213-216	bis	_	
+3-5	217-219	in	_	
+3-6	220-223	den	_	
+3-7	224-230	Radweg	_	
+3-8	231-239	parkende	_	
+3-9	240-245	Autos	_	
+3-10	245-246	,	_	
+3-11	247-257	wucherndes	_	
+3-12	258-266	Gestrüpp	_	
+3-13	266-267	,	_	
+3-14	268-271	das	_	
+3-15	272-274	in	_	
+3-16	275-278	den	_	
+3-17	279-285	Radweg	_	
+3-18	286-292	hinein	_	
+3-19	293-299	wächst	_	
+3-20	300-303	und	_	
+3-21	304-307	vor	_	
+3-22	308-313	allem	_	
+3-23	314-319	jetzt	_	
+3-24	320-322	im	_	
+3-25	323-329	Herbst	_	
+3-26	330-333	oft	_	
+3-27	334-337	ein	_	
+3-28	338-348	glitschige	_	
+3-29	349-357	Fahrbahn	_	
+3-30	358-361	vom	_	
+3-31	362-368	nassen	_	
+3-32	369-373	Laub	_	
+3-33	373-374	.	_	

@@ -1,0 +1,124 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vorfahrt wird genommen
+1-1	0-8	Vorfahrt	_	
+1-2	9-13	wird	_	
+1-3	14-22	genommen	_	
+
+#Text=Hier wird einem nahezu immer die Vorfahrt genommen, wenn man aus der Magdalenenstraße kommt.
+2-1	25-29	Hier	_	
+2-2	30-34	wird	_	
+2-3	35-40	einem	_	
+2-4	41-47	nahezu	_	
+2-5	48-53	immer	_	
+2-6	54-57	die	_	
+2-7	58-66	Vorfahrt	_	
+2-8	67-75	genommen	_	
+2-9	75-76	,	_	
+2-10	77-81	wenn	_	
+2-11	82-85	man	_	
+2-12	86-89	aus	*[8]	
+2-13	90-93	der	*[8]	
+2-14	94-110	Magdalenenstraße	*[8]	
+2-15	111-116	kommt	*[8]	
+2-16	116-117	.	_	
+
+#Text=Auto- und Busfahrer rechnen außerdem nicht damit, dass man links gegen die Einbahnstraße abbiegt.
+3-1	118-122	Auto	_	
+3-2	122-123	-	_	
+3-3	124-127	und	_	
+3-4	128-137	Busfahrer	_	
+3-5	138-145	rechnen	_	
+3-6	146-154	außerdem	_	
+3-7	155-160	nicht	_	
+3-8	161-166	damit	_	
+3-9	166-167	,	_	
+3-10	168-172	dass	_	
+3-11	173-176	man	_	
+3-12	177-182	links	_	
+3-13	183-188	gegen	_	
+3-14	189-192	die	_	
+3-15	193-206	Einbahnstraße	_	
+3-16	207-214	abbiegt	_	
+3-17	214-215	.	_	
+
+#Text=Häufig parken auf der Endenicher Straße Autos direkt an der Einmündung so, dass die Sicht auf die Magdalenenstraße komplett eingeschränkt ist.
+4-1	216-222	Häufig	_	
+4-2	223-229	parken	_	
+4-3	230-233	auf	*[9]	
+4-4	234-237	der	*[9]	
+4-5	238-248	Endenicher	*[9]	
+4-6	249-255	Straße	*[9]	
+4-7	256-261	Autos	_	
+4-8	262-268	direkt	_	
+4-9	269-271	an	_	
+4-10	272-275	der	_	
+4-11	276-286	Einmündung	_	
+4-12	287-289	so	_	
+4-13	289-290	,	_	
+4-14	291-295	dass	_	
+4-15	296-299	die	_	
+4-16	300-305	Sicht	_	
+4-17	306-309	auf	*[10]	
+4-18	310-313	die	*[10]	
+4-19	314-330	Magdalenenstraße	*[10]	
+4-20	331-339	komplett	_	
+4-21	340-353	eingeschränkt	_	
+4-22	354-357	ist	_	
+4-23	357-358	.	_	
+
+#Text=Hier sollte ein absolutes Halteverbot mit Markierungen auf dem Boden angebracht eingerichtet werden.
+5-1	359-363	Hier	_	
+5-2	364-370	sollte	_	
+5-3	371-374	ein	_	
+5-4	375-384	absolutes	_	
+5-5	385-396	Halteverbot	_	
+5-6	397-400	mit	_	
+5-7	401-413	Markierungen	_	
+5-8	414-417	auf	_	
+5-9	418-421	dem	_	
+5-10	422-427	Boden	_	
+5-11	428-438	angebracht	_	
+5-12	439-451	eingerichtet	_	
+5-13	452-458	werden	_	
+5-14	458-459	.	_	
+
+#Text=Dies sollte regelmäßig kontrolliert werden.
+6-1	460-464	Dies	_	
+6-2	465-471	sollte	_	
+6-3	472-482	regelmäßig	_	
+6-4	483-495	kontrolliert	_	
+6-5	496-502	werden	_	
+6-6	502-503	.	_	
+
+#Text=Hilfreich wären außerdem Piktogramme auf der Fahrbahn, die zeigen, dass hier Fahrräder aus der Straße kommen und ggf. gegen die Einbahnstraße abbiegen.
+7-1	504-513	Hilfreich	_	
+7-2	514-519	wären	_	
+7-3	520-528	außerdem	_	
+7-4	529-540	Piktogramme	_	
+7-5	541-544	auf	_	
+7-6	545-548	der	_	
+7-7	549-557	Fahrbahn	_	
+7-8	557-558	,	_	
+7-9	559-562	die	_	
+7-10	563-569	zeigen	_	
+7-11	569-570	,	_	
+7-12	571-575	dass	_	
+7-13	576-580	hier	_	
+7-14	581-590	Fahrräder	_	
+7-15	591-594	aus	_	
+7-16	595-598	der	_	
+7-17	599-605	Straße	_	
+7-18	606-612	kommen	_	
+7-19	613-616	und	_	
+7-20	617-620	ggf	_	
+7-21	620-621	.	_	
+7-22	622-627	gegen	_	
+7-23	628-631	die	_	
+7-24	632-645	Einbahnstraße	_	
+7-25	646-654	abbiegen	_	
+7-26	654-655	.	_	

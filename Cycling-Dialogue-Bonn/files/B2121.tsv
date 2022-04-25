@@ -1,0 +1,208 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radverkehr Venusberg
+1-1	0-10	Radverkehr	_	
+1-2	11-20	Venusberg	*	
+
+#Text=Die Abfahrt vom Venusberg (Robert-Koch-Straße) ist ohne markierten Radweg lebensgefährlich.
+2-1	23-26	Die	*[10]	
+2-2	27-34	Abfahrt	*[10]	
+2-3	35-38	vom	*[10]	
+2-4	39-48	Venusberg	*[10]	
+2-5	49-50	(	*[10]	
+2-6	50-68	Robert-Koch-Straße	*[10]	
+2-7	68-69	)	*[10]	
+2-8	70-73	ist	_	
+2-9	74-78	ohne	_	
+2-10	79-89	markierten	_	
+2-11	90-96	Radweg	_	
+2-12	97-113	lebensgefährlich	_	
+2-13	113-114	.	_	
+
+#Text=Es gibt keine Alternative für Radfahrer außer der Benutzung der Robert-Koch-Straße, auf der für Pkw Tempo 70 (!!!) gilt.
+3-1	115-117	Es	_	
+3-2	118-122	gibt	_	
+3-3	123-128	keine	_	
+3-4	129-140	Alternative	_	
+3-5	141-144	für	_	
+3-6	145-154	Radfahrer	_	
+3-7	155-160	außer	_	
+3-8	161-164	der	_	
+3-9	165-174	Benutzung	_	
+3-10	175-178	der	*[11]	
+3-11	179-197	Robert-Koch-Straße	*[11]	
+3-12	197-198	,	_	
+3-13	199-202	auf	_	
+3-14	203-206	der	_	
+3-15	207-210	für	_	
+3-16	211-214	Pkw	_	
+3-17	215-220	Tempo	_	
+3-18	221-223	70	_	
+3-19	224-225	(	_	
+3-20	225-226	!	_	
+3-21	226-227	!	_	
+3-22	227-228	!	_	
+3-23	228-229	)	_	
+3-24	230-234	gilt	_	
+3-25	234-235	.	_	
+
+#Text=Als schneller Radfahrer hat man dann wiederum das Problem, dass jeder Pkw einen zu überholen versucht - obwohl die Mehrzahl der Verkehrsteilnehmer den Radfahrer mit Tempo und Bremsweg überhaupt nicht einschätzen kann.
+4-1	236-239	Als	_	
+4-2	240-249	schneller	_	
+4-3	250-259	Radfahrer	_	
+4-4	260-263	hat	_	
+4-5	264-267	man	_	
+4-6	268-272	dann	_	
+4-7	273-281	wiederum	_	
+4-8	282-285	das	_	
+4-9	286-293	Problem	_	
+4-10	293-294	,	_	
+4-11	295-299	dass	_	
+4-12	300-305	jeder	_	
+4-13	306-309	Pkw	_	
+4-14	310-315	einen	_	
+4-15	316-318	zu	_	
+4-16	319-328	überholen	_	
+4-17	329-337	versucht	_	
+4-18	338-339	-	_	
+4-19	340-346	obwohl	_	
+4-20	347-350	die	_	
+4-21	351-359	Mehrzahl	_	
+4-22	360-363	der	_	
+4-23	364-382	Verkehrsteilnehmer	_	
+4-24	383-386	den	_	
+4-25	387-396	Radfahrer	_	
+4-26	397-400	mit	_	
+4-27	401-406	Tempo	_	
+4-28	407-410	und	_	
+4-29	411-419	Bremsweg	_	
+4-30	420-429	überhaupt	_	
+4-31	430-435	nicht	_	
+4-32	436-447	einschätzen	_	
+4-33	448-452	kann	_	
+4-34	452-453	.	_	
+
+#Text=Aber Radfahrer MÜSSEN ja überholt werden!
+5-1	454-458	Aber	_	
+5-2	459-468	Radfahrer	_	
+5-3	469-475	MÜSSEN	_	
+5-4	476-478	ja	_	
+5-5	479-487	überholt	_	
+5-6	488-494	werden	_	
+5-7	494-495	!	_	
+
+#Text=Generelles Tempo 50 und ein deutlich markierter Radweg würden die Situation deutlich entschärfen.
+6-1	496-506	Generelles	_	
+6-2	507-512	Tempo	_	
+6-3	513-515	50	_	
+6-4	516-519	und	_	
+6-5	520-523	ein	_	
+6-6	524-532	deutlich	_	
+6-7	533-543	markierter	_	
+6-8	544-550	Radweg	_	
+6-9	551-557	würden	_	
+6-10	558-561	die	_	
+6-11	562-571	Situation	_	
+6-12	572-580	deutlich	_	
+6-13	581-592	entschärfen	_	
+6-14	592-593	.	_	
+
+#Text=Weiteres Problem: wenn man als Radfahrer ausweichen möchte und über den Nachtigallenweg bergab fährt hat man gleich zwei Schwierigkeiten: sehr schnell fahrende Pkw, die auf das weiter oben gelegene Uni-Gelände wollen (die Straße ist extrem schmal an dieser Stelle!) und die schiere Unmöglichkeit vom Nachtigallenweg nach links auf die Robert-Koch-Straße einzubiegen.
+7-1	594-602	Weiteres	_	
+7-2	603-610	Problem	_	
+7-3	610-611	:	_	
+7-4	612-616	wenn	_	
+7-5	617-620	man	_	
+7-6	621-624	als	_	
+7-7	625-634	Radfahrer	_	
+7-8	635-645	ausweichen	_	
+7-9	646-652	möchte	_	
+7-10	653-656	und	_	
+7-11	657-661	über	*[12]	
+7-12	662-665	den	*[12]	
+7-13	666-681	Nachtigallenweg	*[12]	
+7-14	682-688	bergab	*[12]	
+7-15	689-694	fährt	_	
+7-16	695-698	hat	_	
+7-17	699-702	man	_	
+7-18	703-709	gleich	_	
+7-19	710-714	zwei	_	
+7-20	715-730	Schwierigkeiten	_	
+7-21	730-731	:	_	
+7-22	732-736	sehr	_	
+7-23	737-744	schnell	_	
+7-24	745-753	fahrende	_	
+7-25	754-757	Pkw	_	
+7-26	757-758	,	_	
+7-27	759-762	die	_	
+7-28	763-766	auf	_	
+7-29	767-770	das	_	
+7-30	771-777	weiter	_	
+7-31	778-782	oben	_	
+7-32	783-791	gelegene	_	
+7-33	792-803	Uni-Gelände	_	
+7-34	804-810	wollen	_	
+7-35	811-812	(	_	
+7-36	812-815	die	_	
+7-37	816-822	Straße	_	
+7-38	823-826	ist	_	
+7-39	827-833	extrem	_	
+7-40	834-840	schmal	_	
+7-41	841-843	an	_	
+7-42	844-850	dieser	_	
+7-43	851-857	Stelle	_	
+7-44	857-858	!	_	
+7-45	858-859	)	_	
+7-46	860-863	und	_	
+7-47	864-867	die	_	
+7-48	868-875	schiere	_	
+7-49	876-889	Unmöglichkeit	_	
+7-50	890-893	vom	*[13]	
+7-51	894-909	Nachtigallenweg	*[13]	
+7-52	910-914	nach	*[13]	
+7-53	915-920	links	*[13]	
+7-54	921-924	auf	*[13]	
+7-55	925-928	die	*[13]	
+7-56	929-947	Robert-Koch-Straße	*[13]	
+7-57	948-959	einzubiegen	*[13]	
+7-58	959-960	.	_	
+
+#Text=Die Pkw kommen wie beschrieben bei erlaubten 70km/h zum Teil mit 80-100 km/h in diese nicht einsehbare Kurve!
+8-1	961-964	Die	_	
+8-2	965-968	Pkw	_	
+8-3	969-975	kommen	_	
+8-4	976-979	wie	_	
+8-5	980-991	beschrieben	_	
+8-6	992-995	bei	_	
+8-7	996-1005	erlaubten	_	
+8-8	1006-1010	70km	_	
+8-9	1010-1011	/	_	
+8-10	1011-1012	h	_	
+8-11	1013-1016	zum	_	
+8-12	1017-1021	Teil	_	
+8-13	1022-1025	mit	_	
+8-14	1026-1028	80	_	
+8-15	1028-1029	-	_	
+8-16	1029-1032	100	_	
+8-17	1033-1035	km	_	
+8-18	1035-1036	/	_	
+8-19	1036-1037	h	_	
+8-20	1038-1040	in	_	
+8-21	1041-1046	diese	_	
+8-22	1047-1052	nicht	_	
+8-23	1053-1063	einsehbare	_	
+8-24	1064-1069	Kurve	_	
+8-25	1069-1070	!	_	
+
+#Text=Als Radfahrer wirklich lebensgefährlich...
+9-1	1071-1074	Als	_	
+9-2	1075-1084	Radfahrer	_	
+9-3	1085-1093	wirklich	_	
+9-4	1094-1110	lebensgefährlich	_	
+9-5	1110-1111	.	_	
+9-6	1111-1112	.	_	
+9-7	1112-1113	.	_	

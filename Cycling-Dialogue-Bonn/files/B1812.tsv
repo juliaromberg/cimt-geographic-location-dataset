@@ -1,0 +1,152 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unübersichtliche Engstelle
+1-1	0-16	Unübersichtliche	_	
+1-2	17-26	Engstelle	_	
+
+#Text=An der Gronauer Seite der Auffahrt auf die Autobahnbrücke gibt es eine Engstelle an der es immer wieder zu kritischen Situationen zwischen Radfahrern, Joggern und Fußgängern kommt.
+2-1	29-31	An	*[9]	
+2-2	32-35	der	*[9]	
+2-3	36-44	Gronauer	*[9]	
+2-4	45-50	Seite	*[9]	
+2-5	51-54	der	*[9]	
+2-6	55-63	Auffahrt	*[9]	
+2-7	64-67	auf	*[9]	
+2-8	68-71	die	*[9]	
+2-9	72-86	Autobahnbrücke	*[9]	
+2-10	87-91	gibt	_	
+2-11	92-94	es	_	
+2-12	95-99	eine	_	
+2-13	100-109	Engstelle	_	
+2-14	110-112	an	_	
+2-15	113-116	der	_	
+2-16	117-119	es	_	
+2-17	120-125	immer	_	
+2-18	126-132	wieder	_	
+2-19	133-135	zu	_	
+2-20	136-146	kritischen	_	
+2-21	147-158	Situationen	_	
+2-22	159-167	zwischen	_	
+2-23	168-178	Radfahrern	_	
+2-24	178-179	,	_	
+2-25	180-187	Joggern	_	
+2-26	188-191	und	_	
+2-27	192-202	Fußgängern	_	
+2-28	203-208	kommt	_	
+2-29	208-209	.	_	
+
+#Text=Richtung Gronau sind die Radfahrer zum Teil mit einem ziemlich hohen Tempo unterwegs, sodass es dort schön öfter zu Beinahe-Unfällen gekommen ist.
+3-1	210-218	Richtung	*[10]	
+3-2	219-225	Gronau	*[10]	
+3-3	226-230	sind	_	
+3-4	231-234	die	_	
+3-5	235-244	Radfahrer	_	
+3-6	245-248	zum	_	
+3-7	249-253	Teil	_	
+3-8	254-257	mit	_	
+3-9	258-263	einem	_	
+3-10	264-272	ziemlich	_	
+3-11	273-278	hohen	_	
+3-12	279-284	Tempo	_	
+3-13	285-294	unterwegs	_	
+3-14	294-295	,	_	
+3-15	296-302	sodass	_	
+3-16	303-305	es	_	
+3-17	306-310	dort	_	
+3-18	311-316	schön	_	
+3-19	317-322	öfter	_	
+3-20	323-325	zu	_	
+3-21	326-342	Beinahe-Unfällen	_	
+3-22	343-351	gekommen	_	
+3-23	352-355	ist	_	
+3-24	355-356	.	_	
+
+#Text=Die Auffahrt sollte breiter und damit übersichtlicher gestaltet werden.
+4-1	357-360	Die	_	
+4-2	361-369	Auffahrt	_	
+4-3	370-376	sollte	_	
+4-4	377-384	breiter	_	
+4-5	385-388	und	_	
+4-6	389-394	damit	_	
+4-7	395-410	übersichtlicher	_	
+4-8	411-420	gestaltet	_	
+4-9	421-427	werden	_	
+4-10	427-428	.	_	
+
+#Text=Eine kurzfristige Maßnahme wäre, die Büsche/Sträucher zurückzuschneiden und auch das kniehohe Geländer zu entfernen, damit das Ausweichen erleichtert wird.
+5-1	429-433	Eine	_	
+5-2	434-446	kurzfristige	_	
+5-3	447-455	Maßnahme	_	
+5-4	456-460	wäre	_	
+5-5	460-461	,	_	
+5-6	462-465	die	_	
+5-7	466-472	Büsche	_	
+5-8	472-473	/	_	
+5-9	473-482	Sträucher	_	
+5-10	483-500	zurückzuschneiden	_	
+5-11	501-504	und	_	
+5-12	505-509	auch	_	
+5-13	510-513	das	_	
+5-14	514-522	kniehohe	_	
+5-15	523-531	Geländer	_	
+5-16	532-534	zu	_	
+5-17	535-544	entfernen	_	
+5-18	544-545	,	_	
+5-19	546-551	damit	_	
+5-20	552-555	das	_	
+5-21	556-566	Ausweichen	_	
+5-22	567-578	erleichtert	_	
+5-23	579-583	wird	_	
+5-24	583-584	.	_	
+
+#Text=In der dunklen Jahreszeit ist der Bereich der Auffahrt nach der Brücke über die Petra-Kelly-Allee außerdem nur sehr schlecht beleuchtet.
+6-1	585-587	In	_	
+6-2	588-591	der	_	
+6-3	592-599	dunklen	_	
+6-4	600-610	Jahreszeit	_	
+6-5	611-614	ist	_	
+6-6	615-618	der	*[11]	
+6-7	619-626	Bereich	*[11]	
+6-8	627-630	der	*[11]	
+6-9	631-639	Auffahrt	*[11]	
+6-10	640-644	nach	*[11]	
+6-11	645-648	der	*[11]	
+6-12	649-655	Brücke	*[11]	
+6-13	656-660	über	*[11]	
+6-14	661-664	die	*[11]	
+6-15	665-682	Petra-Kelly-Allee	*[11]	
+6-16	683-691	außerdem	_	
+6-17	692-695	nur	_	
+6-18	696-700	sehr	_	
+6-19	701-709	schlecht	_	
+6-20	710-720	beleuchtet	_	
+6-21	720-721	.	_	
+
+#Text=Eine zusätzliche Straßenlaterne wäre gut.
+7-1	722-726	Eine	_	
+7-2	727-738	zusätzliche	_	
+7-3	739-753	Straßenlaterne	_	
+7-4	754-758	wäre	_	
+7-5	759-762	gut	_	
+7-6	762-763	.	_	
+
+#Text=Wenn dann noch die durch Wurzeln verursachten Unebenheiten ausgebessert würden, wäre das perfekt.
+8-1	764-768	Wenn	_	
+8-2	769-773	dann	_	
+8-3	774-778	noch	_	
+8-4	779-782	die	_	
+8-5	783-788	durch	_	
+8-6	789-796	Wurzeln	_	
+8-7	797-809	verursachten	_	
+8-8	810-822	Unebenheiten	_	
+8-9	823-835	ausgebessert	_	
+8-10	836-842	würden	_	
+8-11	842-843	,	_	
+8-12	844-848	wäre	_	
+8-13	849-852	das	_	
+8-14	853-860	perfekt	_	
+8-15	860-861	.	_	

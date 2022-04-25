@@ -1,0 +1,66 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehrsführung für Radfahrer fehlt
+1-1	0-15	Verkehrsführung	_	
+1-2	16-19	für	_	
+1-3	20-29	Radfahrer	_	
+1-4	30-35	fehlt	_	
+
+#Text=Im Alten Wingert führt der offizielle Radweg Richtung Beuel Zentrum entlang.
+2-1	38-40	Im	*[5]	
+2-2	41-46	Alten	*[5]	
+2-3	47-54	Wingert	*[5]	
+2-4	55-60	führt	_	
+2-5	61-64	der	_	
+2-6	65-75	offizielle	_	
+2-7	76-82	Radweg	*[6]	
+2-8	83-91	Richtung	*[6]	
+2-9	92-97	Beuel	*[6]	
+2-10	98-105	Zentrum	*[6]	
+2-11	106-113	entlang	_	
+2-12	113-114	.	_	
+
+#Text=Von Oberkassel auf der Königswinterer Str kommend, gibt es keine Verkehrsführung für Radfahrer, um auf diesen Radweg zu kommen.
+3-1	115-118	Von	*[7]	
+3-2	119-129	Oberkassel	*[7]	
+3-3	130-133	auf	*[7]	
+3-4	134-137	der	*[7]	
+3-5	138-152	Königswinterer	*[7]	
+3-6	153-156	Str	*[7]	
+3-7	157-164	kommend	*[7]	
+3-8	164-165	,	_	
+3-9	166-170	gibt	_	
+3-10	171-173	es	_	
+3-11	174-179	keine	_	
+3-12	180-195	Verkehrsführung	_	
+3-13	196-199	für	_	
+3-14	200-209	Radfahrer	_	
+3-15	209-210	,	_	
+3-16	211-213	um	_	
+3-17	214-217	auf	_	
+3-18	218-224	diesen	_	
+3-19	225-231	Radweg	_	
+3-20	232-234	zu	_	
+3-21	235-241	kommen	_	
+3-22	241-242	.	_	
+
+#Text=Wenn man sich regelkonforme Verhalten will, muss man Absteigen und die Fußgängerampel benutzen.
+4-1	243-247	Wenn	_	
+4-2	248-251	man	_	
+4-3	252-256	sich	_	
+4-4	257-270	regelkonforme	_	
+4-5	271-280	Verhalten	_	
+4-6	281-285	will	_	
+4-7	285-286	,	_	
+4-8	287-291	muss	_	
+4-9	292-295	man	_	
+4-10	296-305	Absteigen	_	
+4-11	306-309	und	_	
+4-12	310-313	die	_	
+4-13	314-328	Fußgängerampel	_	
+4-14	329-337	benutzen	_	
+4-15	337-338	.	_	

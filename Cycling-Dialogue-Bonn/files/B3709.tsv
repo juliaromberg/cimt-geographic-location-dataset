@@ -1,0 +1,71 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=FahrradstraSie mit rechts vor links Regeln
+1-1	0-14	FahrradstraSie	_	
+1-2	15-18	mit	_	
+1-3	19-25	rechts	_	
+1-4	26-29	vor	_	
+1-5	30-35	links	_	
+1-6	36-42	Regeln	_	
+
+#Text=Hier ist zwar die Fahrbahn als Fahrradstrasse ausgewiesen, jedoch gelten an allen Einmündungen die Verkehrsregel rechts vor links , was einen als Radfahrer ständig zum Anhalten zwingt, wenn dort ein PKW aus der Seitenstraße kommt.
+2-1	45-49	Hier	_	
+2-2	50-53	ist	_	
+2-3	54-58	zwar	_	
+2-4	59-62	die	_	
+2-5	63-71	Fahrbahn	_	
+2-6	72-75	als	_	
+2-7	76-90	Fahrradstrasse	_	
+2-8	91-102	ausgewiesen	_	
+2-9	102-103	,	_	
+2-10	104-110	jedoch	_	
+2-11	111-117	gelten	_	
+2-12	118-120	an	_	
+2-13	121-126	allen	_	
+2-14	127-139	Einmündungen	_	
+2-15	140-143	die	_	
+2-16	144-157	Verkehrsregel	_	
+2-17	158-164	rechts	_	
+2-18	165-168	vor	_	
+2-19	169-174	links	_	
+2-20	175-176	,	_	
+2-21	177-180	was	_	
+2-22	181-186	einen	_	
+2-23	187-190	als	_	
+2-24	191-200	Radfahrer	_	
+2-25	201-208	ständig	_	
+2-26	209-212	zum	_	
+2-27	213-221	Anhalten	_	
+2-28	222-228	zwingt	_	
+2-29	228-229	,	_	
+2-30	230-234	wenn	_	
+2-31	235-239	dort	_	
+2-32	240-243	ein	_	
+2-33	244-247	PKW	_	
+2-34	248-251	aus	_	
+2-35	252-255	der	_	
+2-36	256-268	Seitenstraße	_	
+2-37	269-274	kommt	_	
+2-38	274-275	.	_	
+
+#Text=Dies ist meiner Meinung nach kompletter Unsinn, da macht die Fahrradstrasse so keinen Sinn.
+3-1	276-280	Dies	_	
+3-2	281-284	ist	_	
+3-3	285-291	meiner	_	
+3-4	292-299	Meinung	_	
+3-5	300-304	nach	_	
+3-6	305-315	kompletter	_	
+3-7	316-322	Unsinn	_	
+3-8	322-323	,	_	
+3-9	324-326	da	_	
+3-10	327-332	macht	_	
+3-11	333-336	die	_	
+3-12	337-351	Fahrradstrasse	_	
+3-13	352-354	so	_	
+3-14	355-361	keinen	_	
+3-15	362-366	Sinn	_	
+3-16	366-367	.	_	

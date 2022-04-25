@@ -1,0 +1,85 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Uneindeutige Kennzeichnung
+1-1	0-12	Uneindeutige	_	
+1-2	13-26	Kennzeichnung	_	
+
+#Text=Für viele Autofahrer ist es offenbar nicht ersichtlich, dass es sich hier um einen benutzungspflichtigen, gemeinsamen Fuß- und Radweg handelt.
+2-1	29-32	Für	_	
+2-2	33-38	viele	_	
+2-3	39-49	Autofahrer	_	
+2-4	50-53	ist	_	
+2-5	54-56	es	_	
+2-6	57-65	offenbar	_	
+2-7	66-71	nicht	_	
+2-8	72-83	ersichtlich	_	
+2-9	83-84	,	_	
+2-10	85-89	dass	_	
+2-11	90-92	es	_	
+2-12	93-97	sich	_	
+2-13	98-102	hier	_	
+2-14	103-105	um	_	
+2-15	106-111	einen	_	
+2-16	112-133	benutzungspflichtigen	_	
+2-17	133-134	,	_	
+2-18	135-146	gemeinsamen	_	
+2-19	147-150	Fuß	_	
+2-20	150-151	-	_	
+2-21	152-155	und	_	
+2-22	156-162	Radweg	_	
+2-23	163-170	handelt	_	
+2-24	170-171	.	_	
+
+#Text=Es wäre ausreichend Platz vorhanden, Fuß- und Radweg in diesem Abschnitt der Venloer Straße klar zu trennen und Piktogramme zur Kenntlichmachung einzusetzen.
+3-1	172-174	Es	_	
+3-2	175-179	wäre	_	
+3-3	180-191	ausreichend	_	
+3-4	192-197	Platz	_	
+3-5	198-207	vorhanden	_	
+3-6	207-208	,	_	
+3-7	209-212	Fuß	_	
+3-8	212-213	-	_	
+3-9	214-217	und	_	
+3-10	218-224	Radweg	_	
+3-11	225-227	in	_	
+3-12	228-234	diesem	_	
+3-13	235-244	Abschnitt	_	
+3-14	245-248	der	_	
+3-15	249-256	Venloer	*[5]	
+3-16	257-263	Straße	*[5]	
+3-17	264-268	klar	_	
+3-18	269-271	zu	_	
+3-19	272-279	trennen	_	
+3-20	280-283	und	_	
+3-21	284-295	Piktogramme	_	
+3-22	296-299	zur	_	
+3-23	300-316	Kenntlichmachung	_	
+3-24	317-328	einzusetzen	_	
+3-25	328-329	.	_	
+
+#Text=Dies würde auch den dort parkenden TänzerInnen und GrabsteinkäuferInnen helfen den Weg als Weg und nicht als Parkplatz zu erkennen.
+4-1	330-334	Dies	_	
+4-2	335-340	würde	_	
+4-3	341-345	auch	_	
+4-4	346-349	den	_	
+4-5	350-354	dort	_	
+4-6	355-364	parkenden	_	
+4-7	365-376	TänzerInnen	_	
+4-8	377-380	und	_	
+4-9	381-401	GrabsteinkäuferInnen	_	
+4-10	402-408	helfen	_	
+4-11	409-412	den	_	
+4-12	413-416	Weg	_	
+4-13	417-420	als	_	
+4-14	421-424	Weg	_	
+4-15	425-428	und	_	
+4-16	429-434	nicht	_	
+4-17	435-438	als	_	
+4-18	439-448	Parkplatz	_	
+4-19	449-451	zu	_	
+4-20	452-460	erkennen	_	
+4-21	460-461	.	_	

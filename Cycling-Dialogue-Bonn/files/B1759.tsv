@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kurvenradien
+1-1	0-12	Kurvenradien	_	
+
+#Text=Neben den viel zu engen Radwegen, obwohl es mehr als genug platz gibt, kommt es durch die viel zu Engen Kurvnradien am Laufenden Band zu gefährlichen Situationen.
+2-1	15-20	Neben	_	
+2-2	21-24	den	_	
+2-3	25-29	viel	_	
+2-4	30-32	zu	_	
+2-5	33-38	engen	_	
+2-6	39-47	Radwegen	_	
+2-7	47-48	,	_	
+2-8	49-55	obwohl	_	
+2-9	56-58	es	_	
+2-10	59-63	mehr	_	
+2-11	64-67	als	_	
+2-12	68-73	genug	_	
+2-13	74-79	platz	_	
+2-14	80-84	gibt	_	
+2-15	84-85	,	_	
+2-16	86-91	kommt	_	
+2-17	92-94	es	_	
+2-18	95-100	durch	_	
+2-19	101-104	die	_	
+2-20	105-109	viel	_	
+2-21	110-112	zu	_	
+2-22	113-118	Engen	_	
+2-23	119-130	Kurvnradien	_	
+2-24	131-133	am	_	
+2-25	134-143	Laufenden	_	
+2-26	144-148	Band	_	
+2-27	149-151	zu	_	
+2-28	152-164	gefährlichen	_	
+2-29	165-176	Situationen	_	
+2-30	176-177	.	_	
+
+#Text=Durch fehlende Markierung am Boden ist im gesamten Gebiet, die Verkehrsführung nur zu erahnen und schlicht gefährlich.
+3-1	178-183	Durch	_	
+3-2	184-192	fehlende	_	
+3-3	193-203	Markierung	_	
+3-4	204-206	am	_	
+3-5	207-212	Boden	_	
+3-6	213-216	ist	_	
+3-7	217-219	im	_	
+3-8	220-228	gesamten	_	
+3-9	229-235	Gebiet	_	
+3-10	235-236	,	_	
+3-11	237-240	die	_	
+3-12	241-256	Verkehrsführung	_	
+3-13	257-260	nur	_	
+3-14	261-263	zu	_	
+3-15	264-271	erahnen	_	
+3-16	272-275	und	_	
+3-17	276-284	schlicht	_	
+3-18	285-295	gefährlich	_	
+3-19	295-296	.	_	

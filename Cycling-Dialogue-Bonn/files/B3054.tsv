@@ -1,0 +1,196 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bahnschrankenschaltung
+1-1	0-22	Bahnschrankenschaltung	_	
+
+#Text=Passiert häufiger: man steht an der geschlossenen Bahnschranke Winkelsweg, ein Zug fährt durch, man hofft auf die Schrankenöffnung - aber die Schranke vor einem bleibt unten.
+2-1	25-33	Passiert	_	
+2-2	34-42	häufiger	_	
+2-3	42-43	:	_	
+2-4	44-47	man	_	
+2-5	48-53	steht	_	
+2-6	54-56	an	_	
+2-7	57-60	der	_	
+2-8	61-74	geschlossenen	_	
+2-9	75-87	Bahnschranke	*[8]	
+2-10	88-98	Winkelsweg	*[8]	
+2-11	98-99	,	_	
+2-12	100-103	ein	_	
+2-13	104-107	Zug	_	
+2-14	108-113	fährt	_	
+2-15	114-119	durch	_	
+2-16	119-120	,	_	
+2-17	121-124	man	_	
+2-18	125-130	hofft	_	
+2-19	131-134	auf	_	
+2-20	135-138	die	_	
+2-21	139-155	Schrankenöffnung	_	
+2-22	156-157	-	_	
+2-23	158-162	aber	_	
+2-24	163-166	die	_	
+2-25	167-175	Schranke	_	
+2-26	176-179	vor	_	
+2-27	180-185	einem	_	
+2-28	186-192	bleibt	_	
+2-29	193-198	unten	_	
+2-30	198-199	.	_	
+
+#Text=Dann blickt man zum Bahnübergang Annaberger Straße und sieht, dass dort gerade die Schranke aufgegangen ist, erst Fußgänger und Radfahrer die Schienen queren, kurz darauf gefolgt vom motorisierten Verkehr.
+3-1	200-204	Dann	_	
+3-2	205-211	blickt	_	
+3-3	212-215	man	_	
+3-4	216-219	zum	_	
+3-5	220-232	Bahnübergang	*[9]	
+3-6	233-243	Annaberger	*[9]	
+3-7	244-250	Straße	*[9]	
+3-8	251-254	und	_	
+3-9	255-260	sieht	_	
+3-10	260-261	,	_	
+3-11	262-266	dass	_	
+3-12	267-271	dort	_	
+3-13	272-278	gerade	_	
+3-14	279-282	die	_	
+3-15	283-291	Schranke	_	
+3-16	292-303	aufgegangen	_	
+3-17	304-307	ist	_	
+3-18	307-308	,	_	
+3-19	309-313	erst	_	
+3-20	314-323	Fußgänger	_	
+3-21	324-327	und	_	
+3-22	328-337	Radfahrer	_	
+3-23	338-341	die	_	
+3-24	342-350	Schienen	_	
+3-25	351-357	queren	_	
+3-26	357-358	,	_	
+3-27	359-363	kurz	_	
+3-28	364-370	darauf	_	
+3-29	371-378	gefolgt	_	
+3-30	379-382	vom	_	
+3-31	383-396	motorisierten	_	
+3-32	397-404	Verkehr	_	
+3-33	404-405	.	_	
+
+#Text=Die Schranke vor einem bleibt aber noch immer beharrlich unten.
+4-1	406-409	Die	_	
+4-2	410-418	Schranke	_	
+4-3	419-422	vor	_	
+4-4	423-428	einem	_	
+4-5	429-435	bleibt	_	
+4-6	436-440	aber	_	
+4-7	441-445	noch	_	
+4-8	446-451	immer	_	
+4-9	452-462	beharrlich	_	
+4-10	463-468	unten	_	
+4-11	468-469	.	_	
+
+#Text=Warum?
+5-1	470-475	Warum	_	
+5-2	475-476	?	_	
+
+#Text=Sind die Radfahrer und Fußgänger am Winkelsweg langsamer als die in der Annaberger Straße?
+6-1	477-481	Sind	_	
+6-2	482-485	die	_	
+6-3	486-495	Radfahrer	_	
+6-4	496-499	und	_	
+6-5	500-509	Fußgänger	_	
+6-6	510-512	am	*[10]	
+6-7	513-523	Winkelsweg	*[10]	
+6-8	524-533	langsamer	_	
+6-9	534-537	als	_	
+6-10	538-541	die	_	
+6-11	542-544	in	*[11]	
+6-12	545-548	der	*[11]	
+6-13	549-559	Annaberger	*[11]	
+6-14	560-566	Straße	*[11]	
+6-15	566-567	?	_	
+
+#Text=Vom Winkelsweg zur Annaberger Straße mit dem Rad sprinten, um dort noch eben über die Schienen zu huschen, ist leider nicht so einfach; wie sagt der Volksmund doch so treffend: eine alte Frau ist halt kein D-Zug.
+7-1	568-571	Vom	*[12]	
+7-2	572-582	Winkelsweg	*[12]	
+7-3	583-586	zur	*[12]	
+7-4	587-597	Annaberger	*[12]	
+7-5	598-604	Straße	*[12]	
+7-6	605-608	mit	_	
+7-7	609-612	dem	_	
+7-8	613-616	Rad	_	
+7-9	617-625	sprinten	_	
+7-10	625-626	,	_	
+7-11	627-629	um	_	
+7-12	630-634	dort	_	
+7-13	635-639	noch	_	
+7-14	640-644	eben	_	
+7-15	645-649	über	_	
+7-16	650-653	die	_	
+7-17	654-662	Schienen	_	
+7-18	663-665	zu	_	
+7-19	666-673	huschen	_	
+7-20	673-674	,	_	
+7-21	675-678	ist	_	
+7-22	679-685	leider	_	
+7-23	686-691	nicht	_	
+7-24	692-694	so	_	
+7-25	695-702	einfach	_	
+7-26	702-703	;	_	
+7-27	704-707	wie	_	
+7-28	708-712	sagt	_	
+7-29	713-716	der	_	
+7-30	717-726	Volksmund	_	
+7-31	727-731	doch	_	
+7-32	732-734	so	_	
+7-33	735-743	treffend	_	
+7-34	743-744	:	_	
+7-35	745-749	eine	_	
+7-36	750-754	alte	_	
+7-37	755-759	Frau	_	
+7-38	760-763	ist	_	
+7-39	764-768	halt	_	
+7-40	769-773	kein	_	
+7-41	774-779	D-Zug	_	
+7-42	779-780	.	_	
+
+#Text=Der braucht zwischen den beiden Übergängen übrigens nur 5 Sekunden (womit ein Argument zur Geschlossenhaltung der Schranke aus Zeitgründen m. E. nicht zieht - die Schranke an der Annaberger Straße ist länger als 5 Sekunden geöffnet).
+8-1	781-784	Der	_	
+8-2	785-792	braucht	_	
+8-3	793-801	zwischen	_	
+8-4	802-805	den	_	
+8-5	806-812	beiden	_	
+8-6	813-823	Übergängen	_	
+8-7	824-832	übrigens	_	
+8-8	833-836	nur	_	
+8-9	837-838	5	_	
+8-10	839-847	Sekunden	_	
+8-11	848-849	(	_	
+8-12	849-854	womit	_	
+8-13	855-858	ein	_	
+8-14	859-867	Argument	_	
+8-15	868-871	zur	_	
+8-16	872-890	Geschlossenhaltung	_	
+8-17	891-894	der	_	
+8-18	895-903	Schranke	_	
+8-19	904-907	aus	_	
+8-20	908-919	Zeitgründen	_	
+8-21	920-921	m	_	
+8-22	921-922	.	_	
+8-23	923-924	E	_	
+8-24	924-925	.	_	
+8-25	926-931	nicht	_	
+8-26	932-937	zieht	_	
+8-27	938-939	-	_	
+8-28	940-943	die	_	
+8-29	944-952	Schranke	_	
+8-30	953-955	an	*[13]	
+8-31	956-959	der	*[13]	
+8-32	960-970	Annaberger	*[13]	
+8-33	971-977	Straße	*[13]	
+8-34	978-981	ist	_	
+8-35	982-988	länger	_	
+8-36	989-992	als	_	
+8-37	993-994	5	_	
+8-38	995-1003	Sekunden	_	
+8-39	1004-1012	geöffnet	_	
+8-40	1012-1013	)	_	
+8-41	1013-1014	.	_	

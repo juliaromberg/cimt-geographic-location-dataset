@@ -1,0 +1,133 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkende Autos behindern den Radverkehr
+1-1	0-8	Parkende	_	
+1-2	9-14	Autos	_	
+1-3	15-24	behindern	_	
+1-4	25-28	den	_	
+1-5	29-39	Radverkehr	_	
+
+#Text=Stadt auswärts kann man nicht an den, an der Ampel, haltenden Autos vorbeifahren, da die ganze Zeit Autos auf dem Bürgersteig und halb auf der Straße Parken.
+2-1	42-47	Stadt	*[6]	
+2-2	48-56	auswärts	*[6]	
+2-3	57-61	kann	_	
+2-4	62-65	man	_	
+2-5	66-71	nicht	_	
+2-6	72-74	an	_	
+2-7	75-78	den	_	
+2-8	78-79	,	_	
+2-9	80-82	an	_	
+2-10	83-86	der	_	
+2-11	87-92	Ampel	_	
+2-12	92-93	,	_	
+2-13	94-103	haltenden	_	
+2-14	104-109	Autos	_	
+2-15	110-122	vorbeifahren	_	
+2-16	122-123	,	_	
+2-17	124-126	da	_	
+2-18	127-130	die	_	
+2-19	131-136	ganze	_	
+2-20	137-141	Zeit	_	
+2-21	142-147	Autos	_	
+2-22	148-151	auf	_	
+2-23	152-155	dem	_	
+2-24	156-167	Bürgersteig	_	
+2-25	168-171	und	_	
+2-26	172-176	halb	_	
+2-27	177-180	auf	_	
+2-28	181-184	der	_	
+2-29	185-191	Straße	_	
+2-30	192-198	Parken	_	
+2-31	198-199	.	_	
+
+#Text=Auf der gegenüberliegenden Seite ist es zudem sehr gefährlich als Radfahrer lang zu fahren, da jede Sekunde ein Auto aus den Querparkplätzen zurücksetzten kann.
+3-1	200-203	Auf	_	
+3-2	204-207	der	_	
+3-3	208-226	gegenüberliegenden	_	
+3-4	227-232	Seite	_	
+3-5	233-236	ist	_	
+3-6	237-239	es	_	
+3-7	240-245	zudem	_	
+3-8	246-250	sehr	_	
+3-9	251-261	gefährlich	_	
+3-10	262-265	als	_	
+3-11	266-275	Radfahrer	_	
+3-12	276-280	lang	_	
+3-13	281-283	zu	_	
+3-14	284-290	fahren	_	
+3-15	290-291	,	_	
+3-16	292-294	da	_	
+3-17	295-299	jede	_	
+3-18	300-307	Sekunde	_	
+3-19	308-311	ein	_	
+3-20	312-316	Auto	_	
+3-21	317-320	aus	_	
+3-22	321-324	den	_	
+3-23	325-340	Querparkplätzen	_	
+3-24	341-354	zurücksetzten	_	
+3-25	355-359	kann	_	
+3-26	359-360	.	_	
+
+#Text=Das Problem dabei ist, dass die Autofahrer beim Ausparken keine Einsicht ins Straßengeschehen haben und so ganz leicht einen Fahrradfahrer übersehen können.
+4-1	361-364	Das	_	
+4-2	365-372	Problem	_	
+4-3	373-378	dabei	_	
+4-4	379-382	ist	_	
+4-5	382-383	,	_	
+4-6	384-388	dass	_	
+4-7	389-392	die	_	
+4-8	393-403	Autofahrer	_	
+4-9	404-408	beim	_	
+4-10	409-418	Ausparken	_	
+4-11	419-424	keine	_	
+4-12	425-433	Einsicht	_	
+4-13	434-437	ins	_	
+4-14	438-454	Straßengeschehen	_	
+4-15	455-460	haben	_	
+4-16	461-464	und	_	
+4-17	465-467	so	_	
+4-18	468-472	ganz	_	
+4-19	473-479	leicht	_	
+4-20	480-485	einen	_	
+4-21	486-499	Fahrradfahrer	_	
+4-22	500-509	übersehen	_	
+4-23	510-516	können	_	
+4-24	516-517	.	_	
+
+#Text=Die Straße ist Breit genug für einen Fahrradschutzstreifen auf beiden Seiten, auf dem das Parken und halten verboten ist, so haben die Radfahrer auch die Zeit ausparkenden Autos auszuweichen.
+5-1	518-521	Die	_	
+5-2	522-528	Straße	_	
+5-3	529-532	ist	_	
+5-4	533-538	Breit	_	
+5-5	539-544	genug	_	
+5-6	545-548	für	_	
+5-7	549-554	einen	_	
+5-8	555-576	Fahrradschutzstreifen	_	
+5-9	577-580	auf	_	
+5-10	581-587	beiden	_	
+5-11	588-594	Seiten	_	
+5-12	594-595	,	_	
+5-13	596-599	auf	_	
+5-14	600-603	dem	_	
+5-15	604-607	das	_	
+5-16	608-614	Parken	_	
+5-17	615-618	und	_	
+5-18	619-625	halten	_	
+5-19	626-634	verboten	_	
+5-20	635-638	ist	_	
+5-21	638-639	,	_	
+5-22	640-642	so	_	
+5-23	643-648	haben	_	
+5-24	649-652	die	_	
+5-25	653-662	Radfahrer	_	
+5-26	663-667	auch	_	
+5-27	668-671	die	_	
+5-28	672-676	Zeit	_	
+5-29	677-689	ausparkenden	_	
+5-30	690-695	Autos	_	
+5-31	696-708	auszuweichen	_	
+5-32	708-709	.	_	

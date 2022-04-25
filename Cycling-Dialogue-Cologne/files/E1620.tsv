@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Anbindung Stammstraße und Christian-Schult-Starße an Weg entlang Sportplätze
+1-1	0-9	Anbindung	*[4]	
+1-2	10-21	Stammstraße	*[4]	
+1-3	22-25	und	*[4]	
+1-4	26-49	Christian-Schult-Starße	*[4]	
+1-5	50-52	an	*[4]	
+1-6	53-56	Weg	*[4]	
+1-7	57-64	entlang	*[4]	
+1-8	65-76	Sportplätze	*[4]	
+
+#Text=Hier sollte die Anbindung baulich verbessert oder besser erstmalig hergestellt werden.
+2-1	79-83	Hier	_	
+2-2	84-90	sollte	_	
+2-3	91-94	die	_	
+2-4	95-104	Anbindung	_	
+2-5	105-112	baulich	_	
+2-6	113-123	verbessert	_	
+2-7	124-128	oder	_	
+2-8	129-135	besser	_	
+2-9	136-145	erstmalig	_	
+2-10	146-157	hergestellt	_	
+2-11	158-164	werden	_	
+2-12	164-165	.	_	
+
+#Text=Derzeitiger Zustand: Matschweg, desolate Gehwegplatten, Schranke, Bordsteinkanten, Hindernisse.
+3-1	166-177	Derzeitiger	_	
+3-2	178-185	Zustand	_	
+3-3	185-186	:	_	
+3-4	187-196	Matschweg	_	
+3-5	196-197	,	_	
+3-6	198-206	desolate	_	
+3-7	207-220	Gehwegplatten	_	
+3-8	220-221	,	_	
+3-9	222-230	Schranke	_	
+3-10	230-231	,	_	
+3-11	232-247	Bordsteinkanten	_	
+3-12	247-248	,	_	
+3-13	249-260	Hindernisse	_	
+3-14	260-261	.	_	

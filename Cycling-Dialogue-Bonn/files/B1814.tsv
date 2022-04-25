@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schade, ...
+1-1	0-6	Schade	_	
+1-2	6-7	,	_	
+1-3	8-9	.	_	
+1-4	9-10	.	_	
+1-5	10-11	.	_	
+
+#Text=... dass hier im Baustellenbereich die Ausweisung als Fahrradstraße zurückgenommen wurde.
+2-1	14-15	.	_	
+2-2	15-16	.	_	
+2-3	16-17	.	_	
+2-4	18-22	dass	_	
+2-5	23-27	hier	_	
+2-6	28-30	im	_	
+2-7	31-48	Baustellenbereich	_	
+2-8	49-52	die	_	
+2-9	53-63	Ausweisung	_	
+2-10	64-67	als	_	
+2-11	68-81	Fahrradstraße	_	
+2-12	82-96	zurückgenommen	_	
+2-13	97-102	wurde	_	
+2-14	102-103	.	_	
+
+#Text=Aber immerhin löblich ist, dass ich als Radfahrer diesen Bereich in beide Richtungen auf der Fahrbahn benutzen darf - was ich gerne annehme!
+3-1	104-108	Aber	_	
+3-2	109-117	immerhin	_	
+3-3	118-125	löblich	_	
+3-4	126-129	ist	_	
+3-5	129-130	,	_	
+3-6	131-135	dass	_	
+3-7	136-139	ich	_	
+3-8	140-143	als	_	
+3-9	144-153	Radfahrer	_	
+3-10	154-160	diesen	_	
+3-11	161-168	Bereich	_	
+3-12	169-171	in	_	
+3-13	172-177	beide	_	
+3-14	178-188	Richtungen	_	
+3-15	189-192	auf	_	
+3-16	193-196	der	_	
+3-17	197-205	Fahrbahn	_	
+3-18	206-214	benutzen	_	
+3-19	215-219	darf	_	
+3-20	220-221	-	_	
+3-21	222-225	was	_	
+3-22	226-229	ich	_	
+3-23	230-235	gerne	_	
+3-24	236-243	annehme	_	
+3-25	243-244	!	_	

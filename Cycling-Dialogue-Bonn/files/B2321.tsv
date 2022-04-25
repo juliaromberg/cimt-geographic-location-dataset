@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Ouerrung
+1-1	0-11	Gefährliche	_	
+1-2	12-20	Ouerrung	_	
+
+#Text=Hier sollte aus Richtung Geislar kommend, eine Ampel für den Autoverkehr eingerichtet werden.
+2-1	23-27	Hier	_	
+2-2	28-34	sollte	_	
+2-3	35-38	aus	*[6]	
+2-4	39-47	Richtung	*[6]	
+2-5	48-55	Geislar	*[6]	
+2-6	56-63	kommend	*[6]	
+2-7	63-64	,	_	
+2-8	65-69	eine	_	
+2-9	70-75	Ampel	_	
+2-10	76-79	für	_	
+2-11	80-83	den	_	
+2-12	84-95	Autoverkehr	_	
+2-13	96-108	eingerichtet	_	
+2-14	109-115	werden	_	
+2-15	115-116	.	_	
+
+#Text=Die Autofahrer beachten sehr häufig nur den Verkehr aus Richtung Beuel kommend.
+3-1	117-120	Die	_	
+3-2	121-131	Autofahrer	_	
+3-3	132-140	beachten	_	
+3-4	141-145	sehr	_	
+3-5	146-152	häufig	_	
+3-6	153-156	nur	_	
+3-7	157-160	den	_	
+3-8	161-168	Verkehr	_	
+3-9	169-172	aus	*[7]	
+3-10	173-181	Richtung	*[7]	
+3-11	182-187	Beuel	*[7]	
+3-12	188-195	kommend	*[7]	
+3-13	195-196	.	_	
+
+#Text=Und es komm sehr häufig zu gefähliche Situationen für Radfahrer aus Richtung Niederkassel.
+4-1	197-200	Und	_	
+4-2	201-203	es	_	
+4-3	204-208	komm	_	
+4-4	209-213	sehr	_	
+4-5	214-220	häufig	_	
+4-6	221-223	zu	_	
+4-7	224-234	gefähliche	_	
+4-8	235-246	Situationen	_	
+4-9	247-250	für	_	
+4-10	251-260	Radfahrer	_	
+4-11	261-264	aus	*[8]	
+4-12	265-273	Richtung	*[8]	
+4-13	274-286	Niederkassel	*[8]	
+4-14	286-287	.	_	
+
+#Text=Dies weiss ich aus eigener Erfahrung, da dies mein täglicher Weg per Rad zum Arbeitsort ist.
+5-1	288-292	Dies	_	
+5-2	293-298	weiss	_	
+5-3	299-302	ich	_	
+5-4	303-306	aus	_	
+5-5	307-314	eigener	_	
+5-6	315-324	Erfahrung	_	
+5-7	324-325	,	_	
+5-8	326-328	da	_	
+5-9	329-333	dies	_	
+5-10	334-338	mein	_	
+5-11	339-348	täglicher	_	
+5-12	349-352	Weg	_	
+5-13	353-356	per	_	
+5-14	357-360	Rad	_	
+5-15	361-364	zum	_	
+5-16	365-375	Arbeitsort	_	
+5-17	376-379	ist	_	
+5-18	379-380	.	_	

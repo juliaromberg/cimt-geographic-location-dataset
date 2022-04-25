@@ -1,0 +1,170 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg wird nicht respektiert
+1-1	0-6	Radweg	_	
+1-2	7-11	wird	_	
+1-3	12-17	nicht	_	
+1-4	18-29	respektiert	_	
+
+#Text=In Richtung B9 fahrend, befindet sich rechts neben der Autospur ein Radweg auf der Fahrbahn.
+2-1	32-34	In	*[9]	
+2-2	35-43	Richtung	*[9]	
+2-3	44-46	B9	*[9]	
+2-4	47-54	fahrend	_	
+2-5	54-55	,	_	
+2-6	56-64	befindet	_	
+2-7	65-69	sich	_	
+2-8	70-76	rechts	_	
+2-9	77-82	neben	_	
+2-10	83-86	der	_	
+2-11	87-95	Autospur	_	
+2-12	96-99	ein	_	
+2-13	100-106	Radweg	_	
+2-14	107-110	auf	_	
+2-15	111-114	der	_	
+2-16	115-123	Fahrbahn	_	
+2-17	123-124	.	_	
+
+#Text=Kurz vor der B9 teilt sich die Autospur in zwei Spuren und an dieser Stelle weichen viele Autofahrer auf den Radweg aus, um schneller auf die Rechtsabbiegespur zu gelangen - häufig leider ohne auf den Radverkehr zu achten (mal ganz davon abgesehen, dass Autos nichts auf dem Radweg verloren haben).
+3-1	125-129	Kurz	*[10]	
+3-2	130-133	vor	*[10]	
+3-3	134-137	der	*[10]	
+3-4	138-140	B9	*[10]	
+3-5	141-146	teilt	_	
+3-6	147-151	sich	_	
+3-7	152-155	die	_	
+3-8	156-164	Autospur	_	
+3-9	165-167	in	_	
+3-10	168-172	zwei	_	
+3-11	173-179	Spuren	_	
+3-12	180-183	und	_	
+3-13	184-186	an	_	
+3-14	187-193	dieser	_	
+3-15	194-200	Stelle	_	
+3-16	201-208	weichen	_	
+3-17	209-214	viele	_	
+3-18	215-225	Autofahrer	_	
+3-19	226-229	auf	_	
+3-20	230-233	den	_	
+3-21	234-240	Radweg	_	
+3-22	241-244	aus	_	
+3-23	244-245	,	_	
+3-24	246-248	um	_	
+3-25	249-258	schneller	_	
+3-26	259-262	auf	_	
+3-27	263-266	die	_	
+3-28	267-284	Rechtsabbiegespur	_	
+3-29	285-287	zu	_	
+3-30	288-296	gelangen	_	
+3-31	297-298	-	_	
+3-32	299-305	häufig	_	
+3-33	306-312	leider	_	
+3-34	313-317	ohne	_	
+3-35	318-321	auf	_	
+3-36	322-325	den	_	
+3-37	326-336	Radverkehr	_	
+3-38	337-339	zu	_	
+3-39	340-346	achten	_	
+3-40	347-348	(	_	
+3-41	348-351	mal	_	
+3-42	352-356	ganz	_	
+3-43	357-362	davon	_	
+3-44	363-372	abgesehen	_	
+3-45	372-373	,	_	
+3-46	374-378	dass	_	
+3-47	379-384	Autos	_	
+3-48	385-391	nichts	_	
+3-49	392-395	auf	_	
+3-50	396-399	dem	_	
+3-51	400-406	Radweg	_	
+3-52	407-415	verloren	_	
+3-53	416-421	haben	_	
+3-54	421-422	)	_	
+3-55	422-423	.	_	
+
+#Text=Der Radweg ist eigentlich durch Fahrradsymbole markiert und mittels einer dicken durchgezogenen Linie von den Autospuren getrennt, leider scheint das nicht ausreichend zu sein.
+4-1	424-427	Der	_	
+4-2	428-434	Radweg	_	
+4-3	435-438	ist	_	
+4-4	439-449	eigentlich	_	
+4-5	450-455	durch	_	
+4-6	456-470	Fahrradsymbole	_	
+4-7	471-479	markiert	_	
+4-8	480-483	und	_	
+4-9	484-491	mittels	_	
+4-10	492-497	einer	_	
+4-11	498-504	dicken	_	
+4-12	505-519	durchgezogenen	_	
+4-13	520-525	Linie	_	
+4-14	526-529	von	_	
+4-15	530-533	den	_	
+4-16	534-544	Autospuren	_	
+4-17	545-553	getrennt	_	
+4-18	553-554	,	_	
+4-19	555-561	leider	_	
+4-20	562-569	scheint	_	
+4-21	570-573	das	_	
+4-22	574-579	nicht	_	
+4-23	580-591	ausreichend	_	
+4-24	592-594	zu	_	
+4-25	595-599	sein	_	
+4-26	599-600	.	_	
+
+#Text=Mögliche Lösungsvorschläge:
+5-1	601-609	Mögliche	_	
+5-2	610-627	Lösungsvorschläge	_	
+5-3	627-628	:	_	
+
+#Text=* Den Radweg farblich (blau) markieren, dadurch wäre er für Autofahrer vielleicht noch besser als Radweg zu identifizieren.
+6-1	629-630	*	_	
+6-2	631-634	Den	_	
+6-3	635-641	Radweg	_	
+6-4	642-650	farblich	_	
+6-5	651-652	(	_	
+6-6	652-656	blau	_	
+6-7	656-657	)	_	
+6-8	658-667	markieren	_	
+6-9	667-668	,	_	
+6-10	669-676	dadurch	_	
+6-11	677-681	wäre	_	
+6-12	682-684	er	_	
+6-13	685-688	für	_	
+6-14	689-699	Autofahrer	_	
+6-15	700-710	vielleicht	_	
+6-16	711-715	noch	_	
+6-17	716-722	besser	_	
+6-18	723-726	als	_	
+6-19	727-733	Radweg	_	
+6-20	734-736	zu	_	
+6-21	737-751	identifizieren	_	
+6-22	751-752	.	_	
+
+#Text=* Kontrolle des Fahrverhaltens durch die Polizei.
+7-1	753-754	*	_	
+7-2	755-764	Kontrolle	_	
+7-3	765-768	des	_	
+7-4	769-783	Fahrverhaltens	_	
+7-5	784-789	durch	_	
+7-6	790-793	die	_	
+7-7	794-801	Polizei	_	
+7-8	801-802	.	_	
+
+#Text=* Die Autospur nicht in zwei Spuren aufteilen, dafür den Radweg verbreitern.
+8-1	803-804	*	_	
+8-2	805-808	Die	_	
+8-3	809-817	Autospur	_	
+8-4	818-823	nicht	_	
+8-5	824-826	in	_	
+8-6	827-831	zwei	_	
+8-7	832-838	Spuren	_	
+8-8	839-848	aufteilen	_	
+8-9	848-849	,	_	
+8-10	850-855	dafür	_	
+8-11	856-859	den	_	
+8-12	860-866	Radweg	_	
+8-13	867-878	verbreitern	_	
+8-14	878-879	.	_	

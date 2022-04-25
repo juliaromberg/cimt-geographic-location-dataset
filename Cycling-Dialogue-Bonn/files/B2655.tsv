@@ -1,0 +1,41 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Versteckte Einmündung
+1-1	0-10	Versteckte	_	
+1-2	11-21	Einmündung	_	
+
+#Text=Der Übergang des Radwegs vom Bürgersteig auf die Fahrbahn in der Kreuzung Am Propsthof/Ennemoserstraße ist durch Sträucher und Bäume teilweise verdeckt und daher für Autofahrer schlecht einzusehen.
+2-1	24-27	Der	_	
+2-2	28-36	Übergang	_	
+2-3	37-40	des	_	
+2-4	41-48	Radwegs	_	
+2-5	49-52	vom	_	
+2-6	53-64	Bürgersteig	_	
+2-7	65-68	auf	_	
+2-8	69-72	die	_	
+2-9	73-81	Fahrbahn	_	
+2-10	82-84	in	*[3]	
+2-11	85-88	der	*[3]	
+2-12	89-97	Kreuzung	*[3]	
+2-13	98-100	Am	*[3]	
+2-14	101-110	Propsthof	*[3]	
+2-15	110-111	/	*[3]	
+2-16	111-126	Ennemoserstraße	*[3]	
+2-17	127-130	ist	_	
+2-18	131-136	durch	_	
+2-19	137-146	Sträucher	_	
+2-20	147-150	und	_	
+2-21	151-156	Bäume	_	
+2-22	157-166	teilweise	_	
+2-23	167-175	verdeckt	_	
+2-24	176-179	und	_	
+2-25	180-185	daher	_	
+2-26	186-189	für	_	
+2-27	190-200	Autofahrer	_	
+2-28	201-209	schlecht	_	
+2-29	210-220	einzusehen	_	
+2-30	220-221	.	_	

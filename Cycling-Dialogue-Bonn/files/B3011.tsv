@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährlicher Streckenabschnitt
+1-1	0-12	Gefährlicher	_	
+1-2	13-30	Streckenabschnitt	_	
+
+#Text=Tempo 30-Zone wird von Autofahrern ignoriert; hohes Gefährdungspotenzial infolge hohen Radfahreraufkommens zu Vorlesungszeiten
+2-1	33-38	Tempo	_	
+2-2	39-41	30	_	
+2-3	41-42	-	_	
+2-4	42-46	Zone	_	
+2-5	47-51	wird	_	
+2-6	52-55	von	_	
+2-7	56-67	Autofahrern	_	
+2-8	68-77	ignoriert	_	
+2-9	77-78	;	_	
+2-10	79-84	hohes	_	
+2-11	85-105	Gefährdungspotenzial	_	
+2-12	106-113	infolge	_	
+2-13	114-119	hohen	_	
+2-14	120-139	Radfahreraufkommens	_	
+2-15	140-142	zu	_	
+2-16	143-159	Vorlesungszeiten	_	
+
+#Text=Zur Entschleunigung würde ein Zebrastreifen zwischen Anatomischen Institut (Nussallee 10) und Physiologischem Institut (Nussallee 11) helfen; freuen würden sich auch mehrere hundert Studierende (und Unidozenten), die hier zu Vorlesungszeiten mehrmals am Tag die Straßenseite (zu Fuß) wechseln müssen
+3-1	160-163	Zur	_	
+3-2	164-179	Entschleunigung	_	
+3-3	180-185	würde	_	
+3-4	186-189	ein	_	
+3-5	190-203	Zebrastreifen	_	
+3-6	204-212	zwischen	*[4]	
+3-7	213-225	Anatomischen	*[4]	
+3-8	226-234	Institut	*[4]	
+3-9	235-236	(	*[4]	
+3-10	236-245	Nussallee	*[4]	
+3-11	246-248	10	*[4]	
+3-12	248-249	)	*[4]	
+3-13	250-253	und	*[4]	
+3-14	254-269	Physiologischem	*[4]	
+3-15	270-278	Institut	*[4]	
+3-16	279-280	(	*[4]	
+3-17	280-289	Nussallee	*[4]	
+3-18	290-292	11	*[4]	
+3-19	292-293	)	*[4]	
+3-20	294-300	helfen	_	
+3-21	300-301	;	_	
+3-22	302-308	freuen	_	
+3-23	309-315	würden	_	
+3-24	316-320	sich	_	
+3-25	321-325	auch	_	
+3-26	326-333	mehrere	_	
+3-27	334-341	hundert	_	
+3-28	342-353	Studierende	_	
+3-29	354-355	(	_	
+3-30	355-358	und	_	
+3-31	359-370	Unidozenten	_	
+3-32	370-371	)	_	
+3-33	371-372	,	_	
+3-34	373-376	die	_	
+3-35	377-381	hier	_	
+3-36	382-384	zu	_	
+3-37	385-401	Vorlesungszeiten	_	
+3-38	402-410	mehrmals	_	
+3-39	411-413	am	_	
+3-40	414-417	Tag	_	
+3-41	418-421	die	_	
+3-42	422-434	Straßenseite	_	
+3-43	435-436	(	_	
+3-44	436-438	zu	_	
+3-45	439-442	Fuß	_	
+3-46	442-443	)	_	
+3-47	444-452	wechseln	_	
+3-48	453-459	müssen	_	

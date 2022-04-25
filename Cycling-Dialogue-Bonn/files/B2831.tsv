@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=gestrichelter Schutzstreifen von wartenden Autos blockiert
+1-1	0-13	gestrichelter	_	
+1-2	14-28	Schutzstreifen	_	
+1-3	29-32	von	_	
+1-4	33-42	wartenden	_	
+1-5	43-48	Autos	_	
+1-6	49-58	blockiert	_	
+
+#Text=tagsüber staut der motorisierte Verkehr von der Ampelkreuzung Sterntorbrücke bis zur Budapester Straße und weiter zurück.
+2-1	61-69	tagsüber	_	
+2-2	70-75	staut	_	
+2-3	76-79	der	_	
+2-4	80-92	motorisierte	_	
+2-5	93-100	Verkehr	_	
+2-6	101-104	von	_	
+2-7	105-108	der	_	
+2-8	109-122	Ampelkreuzung	_	
+2-9	123-137	Sterntorbrücke	*[6]	
+2-10	138-141	bis	*[6]	
+2-11	142-145	zur	*[6]	
+2-12	146-156	Budapester	*[6]	
+2-13	157-163	Straße	*[6]	
+2-14	164-167	und	_	
+2-15	168-174	weiter	_	
+2-16	175-181	zurück	_	
+2-17	181-182	.	_	
+
+#Text=Da die normale Fahrbahn relativ schmal ist, wird dort *immer* der gestrichelte Schutzstreifen für Radfahrer mit zugestaut.
+3-1	183-185	Da	_	
+3-2	186-189	die	_	
+3-3	190-197	normale	_	
+3-4	198-206	Fahrbahn	_	
+3-5	207-214	relativ	_	
+3-6	215-221	schmal	_	
+3-7	222-225	ist	_	
+3-8	225-226	,	_	
+3-9	227-231	wird	_	
+3-10	232-236	dort	_	
+3-11	237-238	*	_	
+3-12	238-243	immer	_	
+3-13	243-244	*	_	
+3-14	245-248	der	_	
+3-15	249-261	gestrichelte	_	
+3-16	262-276	Schutzstreifen	_	
+3-17	277-280	für	_	
+3-18	281-290	Radfahrer	_	
+3-19	291-294	mit	_	
+3-20	295-304	zugestaut	_	
+3-21	304-305	.	_	
+
+#Text=Vorschlag: Der Schutzstreifen sollte durchgezogen zu einem vollwertigen Radfahrstreifen umgewandelt werden.
+4-1	306-315	Vorschlag	_	
+4-2	315-316	:	_	
+4-3	317-320	Der	_	
+4-4	321-335	Schutzstreifen	_	
+4-5	336-342	sollte	_	
+4-6	343-355	durchgezogen	_	
+4-7	356-358	zu	_	
+4-8	359-364	einem	_	
+4-9	365-377	vollwertigen	_	
+4-10	378-393	Radfahrstreifen	_	
+4-11	394-405	umgewandelt	_	
+4-12	406-412	werden	_	
+4-13	412-413	.	_	
+
+#Text=(Oder natürlich immer am besten: ein baulich getrennter Radweg, durch Anhebung auf Fußweg-Niveau)
+5-1	414-415	(	_	
+5-2	415-419	Oder	_	
+5-3	420-429	natürlich	_	
+5-4	430-435	immer	_	
+5-5	436-438	am	_	
+5-6	439-445	besten	_	
+5-7	445-446	:	_	
+5-8	447-450	ein	_	
+5-9	451-458	baulich	_	
+5-10	459-469	getrennter	_	
+5-11	470-476	Radweg	_	
+5-12	476-477	,	_	
+5-13	478-483	durch	_	
+5-14	484-492	Anhebung	_	
+5-15	493-496	auf	_	
+5-16	497-510	Fußweg-Niveau	_	
+5-17	510-511	)	_	

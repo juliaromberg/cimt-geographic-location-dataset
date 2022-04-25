@@ -1,0 +1,129 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Mobilitätsdienstleister
+1-1	0-23	Mobilitätsdienstleister	_	
+
+#Text=Der Mobilitätsdienstleister [Name der Firma], hat kürzlich seinen Pilotversuch in Bonn abgebrochen.
+2-1	26-29	Der	_	
+2-2	30-53	Mobilitätsdienstleister	_	
+2-3	54-55	[	_	
+2-4	55-59	Name	_	
+2-5	60-63	der	_	
+2-6	64-69	Firma	_	
+2-7	69-70	]	_	
+2-8	70-71	,	_	
+2-9	72-75	hat	_	
+2-10	76-84	kürzlich	_	
+2-11	85-91	seinen	_	
+2-12	92-104	Pilotversuch	_	
+2-13	105-107	in	*[6]	
+2-14	108-112	Bonn	*[6]	
+2-15	113-124	abgebrochen	_	
+2-16	124-125	.	_	
+
+#Text=In Köln und Düsseldorf kann man weiterhin die [Name der Firma]-Fahrzeuge minutenweise anmieten und im gesamten Stadtgebiet sowie am Flughafen wieder abstellen.
+3-1	126-128	In	*[7]	
+3-2	129-133	Köln	*[7]	
+3-3	134-137	und	*[7]	
+3-4	138-148	Düsseldorf	*[7]	
+3-5	149-153	kann	_	
+3-6	154-157	man	_	
+3-7	158-167	weiterhin	_	
+3-8	168-171	die	_	
+3-9	172-173	[	_	
+3-10	173-177	Name	_	
+3-11	178-181	der	_	
+3-12	182-187	Firma	_	
+3-13	187-188	]	_	
+3-14	188-189	-	_	
+3-15	189-198	Fahrzeuge	_	
+3-16	199-211	minutenweise	_	
+3-17	212-220	anmieten	_	
+3-18	221-224	und	_	
+3-19	225-227	im	*[8]	
+3-20	228-236	gesamten	*[8]	
+3-21	237-248	Stadtgebiet	*[8]	
+3-22	249-254	sowie	*[8]	
+3-23	255-257	am	*[8]	
+3-24	258-267	Flughafen	*[8]	
+3-25	268-274	wieder	_	
+3-26	275-284	abstellen	_	
+3-27	284-285	.	_	
+
+#Text=In Bonn war der Pilot von vornherein nur auf wenige Straßen um den Post- bzw. Telekom-Capus angelegt, was die Attraktivität und wahrscheinlich auch Nutzung deutlich verringert hat.
+4-1	286-288	In	*[9]	
+4-2	289-293	Bonn	*[9]	
+4-3	294-297	war	_	
+4-4	298-301	der	_	
+4-5	302-307	Pilot	_	
+4-6	308-311	von	_	
+4-7	312-322	vornherein	_	
+4-8	323-326	nur	_	
+4-9	327-330	auf	_	
+4-10	331-337	wenige	_	
+4-11	338-345	Straßen	_	
+4-12	346-348	um	_	
+4-13	349-352	den	_	
+4-14	353-357	Post	_	
+4-15	357-358	-	_	
+4-16	359-362	bzw	_	
+4-17	362-363	.	_	
+4-18	364-377	Telekom-Capus	_	
+4-19	378-386	angelegt	_	
+4-20	386-387	,	_	
+4-21	388-391	was	_	
+4-22	392-395	die	_	
+4-23	396-409	Attraktivität	_	
+4-24	410-413	und	_	
+4-25	414-428	wahrscheinlich	_	
+4-26	429-433	auch	_	
+4-27	434-441	Nutzung	_	
+4-28	442-450	deutlich	_	
+4-29	451-461	verringert	_	
+4-30	462-465	hat	_	
+4-31	465-466	.	_	
+
+#Text=Die Stadt Bonn sollte sich dafür einsetzen, dass so ein zukunftsweisendes Konzept auch in Bonn verfügbar ist.
+5-1	467-470	Die	_	
+5-2	471-476	Stadt	_	
+5-3	477-481	Bonn	*	
+5-4	482-488	sollte	_	
+5-5	489-493	sich	_	
+5-6	494-499	dafür	_	
+5-7	500-509	einsetzen	_	
+5-8	509-510	,	_	
+5-9	511-515	dass	_	
+5-10	516-518	so	_	
+5-11	519-522	ein	_	
+5-12	523-540	zukunftsweisendes	_	
+5-13	541-548	Konzept	_	
+5-14	549-553	auch	_	
+5-15	554-556	in	*[10]	
+5-16	557-561	Bonn	*[10]	
+5-17	562-571	verfügbar	_	
+5-18	572-575	ist	_	
+5-19	575-576	.	_	
+
+#Text=Alternativ sollten andere Anbieter wie zum Beispiel die Firma [Name der Firma] dafür gewonnen werden.
+6-1	577-587	Alternativ	_	
+6-2	588-595	sollten	_	
+6-3	596-602	andere	_	
+6-4	603-611	Anbieter	_	
+6-5	612-615	wie	_	
+6-6	616-619	zum	_	
+6-7	620-628	Beispiel	_	
+6-8	629-632	die	_	
+6-9	633-638	Firma	_	
+6-10	639-640	[	_	
+6-11	640-644	Name	_	
+6-12	645-648	der	_	
+6-13	649-654	Firma	_	
+6-14	654-655	]	_	
+6-15	656-661	dafür	_	
+6-16	662-670	gewonnen	_	
+6-17	671-677	werden	_	
+6-18	677-678	.	_	

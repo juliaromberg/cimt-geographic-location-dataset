@@ -1,0 +1,50 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schwelle im Rad/Fußweg
+1-1	0-8	Schwelle	_	
+1-2	9-11	im	_	
+1-3	12-15	Rad	_	
+1-4	15-16	/	_	
+1-5	16-22	Fußweg	_	
+
+#Text=An dieser Stelle befindet sich eine mehrere Zentimeter hohe Schwelle und damit Stolper- und Sturzfalle beim Wechsel des Straßenbelags.
+2-1	25-27	An	_	
+2-2	28-34	dieser	_	
+2-3	35-41	Stelle	_	
+2-4	42-50	befindet	_	
+2-5	51-55	sich	_	
+2-6	56-60	eine	_	
+2-7	61-68	mehrere	_	
+2-8	69-79	Zentimeter	_	
+2-9	80-84	hohe	_	
+2-10	85-93	Schwelle	_	
+2-11	94-97	und	_	
+2-12	98-103	damit	_	
+2-13	104-111	Stolper	_	
+2-14	111-112	-	_	
+2-15	113-116	und	_	
+2-16	117-127	Sturzfalle	_	
+2-17	128-132	beim	_	
+2-18	133-140	Wechsel	_	
+2-19	141-144	des	_	
+2-20	145-158	Straßenbelags	_	
+2-21	158-159	.	_	
+
+#Text=Ein wenig Teer oder ähnliches zum Angleich der Höhen könnte Abhilfe schaffen.
+3-1	160-163	Ein	_	
+3-2	164-169	wenig	_	
+3-3	170-174	Teer	_	
+3-4	175-179	oder	_	
+3-5	180-189	ähnliches	_	
+3-6	190-193	zum	_	
+3-7	194-202	Angleich	_	
+3-8	203-206	der	_	
+3-9	207-212	Höhen	_	
+3-10	213-219	könnte	_	
+3-11	220-227	Abhilfe	_	
+3-12	228-236	schaffen	_	
+3-13	236-237	.	_	

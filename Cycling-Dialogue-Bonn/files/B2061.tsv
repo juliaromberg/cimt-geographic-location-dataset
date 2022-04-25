@@ -1,0 +1,82 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kein Platz für Radler auf dem Weg zum Marienhospital/Emilie-Heyermann-Schule
+1-1	0-4	Kein	_	
+1-2	5-10	Platz	_	
+1-3	11-14	für	_	
+1-4	15-21	Radler	_	
+1-5	22-25	auf	*[5]	
+1-6	26-29	dem	*[5]	
+1-7	30-33	Weg	*[5]	
+1-8	34-37	zum	*[5]	
+1-9	38-52	Marienhospital	*[5]	
+1-10	52-53	/	*[5]	
+1-11	53-76	Emilie-Heyermann-Schule	*[5]	
+
+#Text=Zwischen Lotharstraße und Im Wingert müssen sich Radler die vielbefahrene und unübersichtliche Straße mit dem Kraftfahrzeugverkehr teilen.
+2-1	79-87	Zwischen	*[6]	
+2-2	88-100	Lotharstraße	*[6]	
+2-3	101-104	und	*[6]	
+2-4	105-107	Im	*[6]	
+2-5	108-115	Wingert	*[6]	
+2-6	116-122	müssen	_	
+2-7	123-127	sich	_	
+2-8	128-134	Radler	_	
+2-9	135-138	die	_	
+2-10	139-152	vielbefahrene	_	
+2-11	153-156	und	_	
+2-12	157-173	unübersichtliche	_	
+2-13	174-180	Straße	_	
+2-14	181-184	mit	_	
+2-15	185-188	dem	_	
+2-16	189-209	Kraftfahrzeugverkehr	_	
+2-17	210-216	teilen	_	
+2-18	216-217	.	_	
+
+#Text=Dabei kommt es immer wieder zu gefährlichen Situationen u.a. auch mit breiten Bussen, die hier regelmäßig verkehren.
+3-1	218-223	Dabei	_	
+3-2	224-229	kommt	_	
+3-3	230-232	es	_	
+3-4	233-238	immer	_	
+3-5	239-245	wieder	_	
+3-6	246-248	zu	_	
+3-7	249-261	gefährlichen	_	
+3-8	262-273	Situationen	_	
+3-9	274-277	u.a	_	
+3-10	277-278	.	_	
+3-11	279-283	auch	_	
+3-12	284-287	mit	_	
+3-13	288-295	breiten	_	
+3-14	296-302	Bussen	_	
+3-15	302-303	,	_	
+3-16	304-307	die	_	
+3-17	308-312	hier	_	
+3-18	313-323	regelmäßig	_	
+3-19	324-333	verkehren	_	
+3-20	333-334	.	_	
+
+#Text=Der nur auf einer Seite befindliche Gehweg ist für eine Radbenutzung viel zu schmal und in einem erbärmlichen Zustand.
+4-1	335-338	Der	_	
+4-2	339-342	nur	_	
+4-3	343-346	auf	_	
+4-4	347-352	einer	_	
+4-5	353-358	Seite	_	
+4-6	359-370	befindliche	_	
+4-7	371-377	Gehweg	_	
+4-8	378-381	ist	_	
+4-9	382-385	für	_	
+4-10	386-390	eine	_	
+4-11	391-403	Radbenutzung	_	
+4-12	404-408	viel	_	
+4-13	409-411	zu	_	
+4-14	412-418	schmal	_	
+4-15	419-422	und	_	
+4-16	423-425	in	_	
+4-17	426-431	einem	_	
+4-18	432-444	erbärmlichen	_	
+4-19	445-452	Zustand	_	
+4-20	452-453	.	_	

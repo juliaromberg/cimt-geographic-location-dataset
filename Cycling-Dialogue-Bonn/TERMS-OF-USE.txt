@@ -1,0 +1,22 @@
+Data of the Cycling Dialogue Bonn
+
+Version 1.1 (06/28/2018)
+
+These files contain the public suggestions posted on the raddialog.bonn.de platform by participants during the Cycling Dialogue Bonn from September 13, 2017 to October 18, 2017.
+
+All posted content is originally under the Creative Commons CC BY License (https://creativecommons.org/licenses/by/4.0/), which means that it may be reused free of charge, provided that the user name of the author and the URL of the respective contribution are mentioned. As the user names are not available anymore due to anonymization by the data provider, we provide only the URL of the respective contribution. No liability is assumed for the correctness of the contributions.
+
+Reference to the original dataset:
+
+Raddialog der Stadt Bonn 2017
+Author: Tobias Escher
+Düsseldorf Institute for Internet and Democracy
+Heinrich Heine University Düsseldorf
+(escher@diid.hhu.de)
+https://www.raddialog.bonn.de/
+
+For inquiries, please contact Tobias Escher at escher@diid.hhu.de.
+
+Changelog
+
+Version 1.1: Removal of usernames

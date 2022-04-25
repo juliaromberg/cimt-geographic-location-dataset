@@ -1,0 +1,136 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verwirrende Markierungen
+1-1	0-11	Verwirrende	_	
+1-2	12-24	Markierungen	_	
+
+#Text=Auf der Mallwitzstr. zwischen Paracelsusstr. und Galileistr. wurde vor einiger Zeit ein Radfahrstreifen Richtung Bad Godesberg eingerichtet.
+2-1	27-30	Auf	*[9]	
+2-2	31-34	der	*[9]	
+2-3	35-46	Mallwitzstr	*[9]	
+2-4	46-47	.	*[9]	
+2-5	48-56	zwischen	*[9]	
+2-6	57-70	Paracelsusstr	*[9]	
+2-7	70-71	.	*[9]	
+2-8	72-75	und	*[9]	
+2-9	76-86	Galileistr	*[9]	
+2-10	86-87	.	_	
+2-11	88-93	wurde	_	
+2-12	94-97	vor	_	
+2-13	98-105	einiger	_	
+2-14	106-110	Zeit	_	
+2-15	111-114	ein	_	
+2-16	115-130	Radfahrstreifen	_	
+2-17	131-139	Richtung	*[10]	
+2-18	140-143	Bad	*[10]	
+2-19	144-153	Godesberg	*[10]	
+2-20	154-166	eingerichtet	_	
+2-21	166-167	.	_	
+
+#Text=Das war eine gute Tat!
+3-1	168-171	Das	_	
+3-2	172-175	war	_	
+3-3	176-180	eine	_	
+3-4	181-185	gute	_	
+3-5	186-189	Tat	_	
+3-6	189-190	!	_	
+
+#Text=Leider wurde der bestehende Radweg westlich der Mallwitzstr.
+4-1	191-197	Leider	_	
+4-2	198-203	wurde	_	
+4-3	204-207	der	_	
+4-4	208-218	bestehende	_	
+4-5	219-225	Radweg	_	
+4-6	226-234	westlich	_	
+4-7	235-238	der	_	
+4-8	239-250	Mallwitzstr	*	
+4-9	250-251	.	_	
+
+#Text=Richtung Süden zum 'Radfahren erlaubt'- Weg degradiert.
+5-1	252-260	Richtung	_	
+5-2	261-266	Süden	_	
+5-3	267-270	zum	_	
+5-4	271-272	'	_	
+5-5	272-281	Radfahren	_	
+5-6	282-289	erlaubt	_	
+5-7	289-290	'	_	
+5-8	290-291	-	_	
+5-9	292-295	Weg	_	
+5-10	296-306	degradiert	_	
+5-11	306-307	.	_	
+
+#Text=Allerdings ist an allen Einfahrten und Strassenquerungen noch das Radweg-Zeichen mit Pfeilen in beiden Richtungen auf den Boden vorhanden.
+6-1	308-318	Allerdings	_	
+6-2	319-322	ist	_	
+6-3	323-325	an	_	
+6-4	326-331	allen	_	
+6-5	332-342	Einfahrten	_	
+6-6	343-346	und	_	
+6-7	347-364	Strassenquerungen	_	
+6-8	365-369	noch	_	
+6-9	370-373	das	_	
+6-10	374-388	Radweg-Zeichen	_	
+6-11	389-392	mit	_	
+6-12	393-400	Pfeilen	_	
+6-13	401-403	in	_	
+6-14	404-410	beiden	_	
+6-15	411-421	Richtungen	_	
+6-16	422-425	auf	_	
+6-17	426-429	den	_	
+6-18	430-435	Boden	_	
+6-19	436-445	vorhanden	_	
+6-20	445-446	.	_	
+
+#Text=Das führt zu ständigen Mißverständissen zwischen Radfahren und Fußgängern.
+7-1	447-450	Das	_	
+7-2	451-456	führt	_	
+7-3	457-459	zu	_	
+7-4	460-469	ständigen	_	
+7-5	470-486	Mißverständissen	_	
+7-6	487-495	zwischen	_	
+7-7	496-505	Radfahren	_	
+7-8	506-509	und	_	
+7-9	510-520	Fußgängern	_	
+7-10	520-521	.	_	
+
+#Text=Mein Vorschlag: Der Streifen auf der Straße gilt in Richtung Norden, in Richtung Süden wird der alte Radweg wieder als Radweg gekennzeichnet und die überflüssigen Pfeile Richtung Norden auf dem Boden werden entfernt.
+8-1	522-526	Mein	_	
+8-2	527-536	Vorschlag	_	
+8-3	536-537	:	_	
+8-4	538-541	Der	_	
+8-5	542-550	Streifen	_	
+8-6	551-554	auf	_	
+8-7	555-558	der	_	
+8-8	559-565	Straße	_	
+8-9	566-570	gilt	_	
+8-10	571-573	in	_	
+8-11	574-582	Richtung	_	
+8-12	583-589	Norden	_	
+8-13	589-590	,	_	
+8-14	591-593	in	_	
+8-15	594-602	Richtung	_	
+8-16	603-608	Süden	_	
+8-17	609-613	wird	_	
+8-18	614-617	der	_	
+8-19	618-622	alte	_	
+8-20	623-629	Radweg	_	
+8-21	630-636	wieder	_	
+8-22	637-640	als	_	
+8-23	641-647	Radweg	_	
+8-24	648-662	gekennzeichnet	_	
+8-25	663-666	und	_	
+8-26	667-670	die	_	
+8-27	671-684	überflüssigen	_	
+8-28	685-691	Pfeile	_	
+8-29	692-700	Richtung	_	
+8-30	701-707	Norden	_	
+8-31	708-711	auf	_	
+8-32	712-715	dem	_	
+8-33	716-721	Boden	_	
+8-34	722-728	werden	_	
+8-35	729-737	entfernt	_	
+8-36	737-738	.	_	

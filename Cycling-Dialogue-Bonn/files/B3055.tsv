@@ -1,0 +1,79 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kurvenbereich ausbessern
+1-1	0-13	Kurvenbereich	_	
+1-2	14-24	ausbessern	_	
+
+#Text=Im Bereich, wo sich die Wege beim Hundesportvereinsgelände treffen, hat sich eine Kuhle im (ehemaligen) Begrünungsdreieck gebildet.
+2-1	27-29	Im	_	
+2-2	30-37	Bereich	_	
+2-3	37-38	,	_	
+2-4	39-41	wo	_	
+2-5	42-46	sich	_	
+2-6	47-50	die	_	
+2-7	51-55	Wege	_	
+2-8	56-60	beim	_	
+2-9	61-85	Hundesportvereinsgelände	_	
+2-10	86-93	treffen	_	
+2-11	93-94	,	_	
+2-12	95-98	hat	_	
+2-13	99-103	sich	_	
+2-14	104-108	eine	_	
+2-15	109-114	Kuhle	_	
+2-16	115-117	im	_	
+2-17	118-119	(	_	
+2-18	119-129	ehemaligen	_	
+2-19	129-130	)	_	
+2-20	131-148	Begrünungsdreieck	_	
+2-21	149-157	gebildet	_	
+2-22	157-158	.	_	
+
+#Text=Radfahrer wählen hier gerne die direkteste Route und vermeiden den rechten Winkel, den der Weg einem aufzwingen möchte.
+3-1	159-168	Radfahrer	_	
+3-2	169-175	wählen	_	
+3-3	176-180	hier	_	
+3-4	181-186	gerne	_	
+3-5	187-190	die	_	
+3-6	191-201	direkteste	_	
+3-7	202-207	Route	_	
+3-8	208-211	und	_	
+3-9	212-221	vermeiden	_	
+3-10	222-225	den	_	
+3-11	226-233	rechten	_	
+3-12	234-240	Winkel	_	
+3-13	240-241	,	_	
+3-14	242-245	den	_	
+3-15	246-249	der	_	
+3-16	250-253	Weg	_	
+3-17	254-259	einem	_	
+3-18	260-270	aufzwingen	_	
+3-19	271-277	möchte	_	
+3-20	277-278	.	_	
+
+#Text=Die Kuhle ist inzwischen so tief und bei Regen so aufgeweicht, dass ich diesen Bereich langsam als relativ gefährlich einschätze.
+4-1	279-282	Die	_	
+4-2	283-288	Kuhle	_	
+4-3	289-292	ist	_	
+4-4	293-303	inzwischen	_	
+4-5	304-306	so	_	
+4-6	307-311	tief	_	
+4-7	312-315	und	_	
+4-8	316-319	bei	_	
+4-9	320-325	Regen	_	
+4-10	326-328	so	_	
+4-11	329-340	aufgeweicht	_	
+4-12	340-341	,	_	
+4-13	342-346	dass	_	
+4-14	347-350	ich	_	
+4-15	351-357	diesen	_	
+4-16	358-365	Bereich	_	
+4-17	366-373	langsam	_	
+4-18	374-377	als	_	
+4-19	378-385	relativ	_	
+4-20	386-396	gefährlich	_	
+4-21	397-407	einschätze	_	
+4-22	407-408	.	_	

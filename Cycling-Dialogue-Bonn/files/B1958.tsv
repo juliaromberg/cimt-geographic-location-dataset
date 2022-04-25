@@ -1,0 +1,62 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schranken weg!
+1-1	0-9	Schranken	_	
+1-2	10-13	weg	_	
+1-3	13-14	!	_	
+
+#Text=Eine erste und kostengünstige Maßnahme hier könnte sein, die Schranken zu entfernen, damit Radfahrer mit Anhänger und Kinder dort ohne Mühen und Rangieren hindurchschieben können.
+2-1	17-21	Eine	_	
+2-2	22-27	erste	_	
+2-3	28-31	und	_	
+2-4	32-46	kostengünstige	_	
+2-5	47-55	Maßnahme	_	
+2-6	56-60	hier	_	
+2-7	61-67	könnte	_	
+2-8	68-72	sein	_	
+2-9	72-73	,	_	
+2-10	74-77	die	_	
+2-11	78-87	Schranken	_	
+2-12	88-90	zu	_	
+2-13	91-100	entfernen	_	
+2-14	100-101	,	_	
+2-15	102-107	damit	_	
+2-16	108-117	Radfahrer	_	
+2-17	118-121	mit	_	
+2-18	122-130	Anhänger	_	
+2-19	131-134	und	_	
+2-20	135-141	Kinder	_	
+2-21	142-146	dort	_	
+2-22	147-151	ohne	_	
+2-23	152-157	Mühen	_	
+2-24	158-161	und	_	
+2-25	162-171	Rangieren	_	
+2-26	172-188	hindurchschieben	_	
+2-27	189-195	können	_	
+2-28	195-196	.	_	
+
+#Text=Ich verliere mehr Zeit an den Schranken, als auf dem Stück, was ich zu Fuß zurücklegen muss.
+3-1	197-200	Ich	_	
+3-2	201-209	verliere	_	
+3-3	210-214	mehr	_	
+3-4	215-219	Zeit	_	
+3-5	220-222	an	_	
+3-6	223-226	den	_	
+3-7	227-236	Schranken	_	
+3-8	236-237	,	_	
+3-9	238-241	als	_	
+3-10	242-245	auf	_	
+3-11	246-249	dem	_	
+3-12	250-255	Stück	_	
+3-13	255-256	,	_	
+3-14	257-260	was	_	
+3-15	261-264	ich	_	
+3-16	265-267	zu	_	
+3-17	268-271	Fuß	_	
+3-18	272-283	zurücklegen	_	
+3-19	284-288	muss	_	
+3-20	288-289	.	_	

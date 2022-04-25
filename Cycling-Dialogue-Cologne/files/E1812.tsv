@@ -1,0 +1,20 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradschutzstreifen zwischen Vogelsanger und Widdersdorfer Str.
+1-1	0-21	Fahrradschutzstreifen	_	
+1-2	22-30	zwischen	*[3]	
+1-3	31-42	Vogelsanger	*[3]	
+1-4	43-46	und	*[3]	
+1-5	47-60	Widdersdorfer	*[3]	
+1-6	61-64	Str	*[3]	
+1-7	64-65	.	_	
+
+#Text=BV 4 Beschluß 27.11.2006
+2-1	68-70	BV	_	
+2-2	71-72	4	_	
+2-3	73-81	Beschluß	_	
+2-4	82-92	27.11.2006	_	

@@ -1,0 +1,137 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schotterpiste asphaltieren
+1-1	0-13	Schotterpiste	_	
+1-2	14-26	asphaltieren	_	
+
+#Text=Für Fahrradfahrer, die über Röttgen/Ippendorf die Kessenich und die weiter östlich gelegenen Gebiete (so auch die Friedrich-Ebert-Allee) erreichen möchten, existiert eine nahezu vollständig asphaltierte Strecke bis zur Annaberger Straße.
+2-1	29-32	Für	_	
+2-2	33-46	Fahrradfahrer	_	
+2-3	46-47	,	_	
+2-4	48-51	die	_	
+2-5	52-56	über	*[10]	
+2-6	57-64	Röttgen	*[10]	
+2-7	64-65	/	*[10]	
+2-8	65-74	Ippendorf	*[10]	
+2-9	75-78	die	*[10]	
+2-10	79-88	Kessenich	*[10]	
+2-11	89-92	und	*[10]	
+2-12	93-96	die	*[10]	
+2-13	97-103	weiter	*[10]	
+2-14	104-111	östlich	*[10]	
+2-15	112-121	gelegenen	*[10]	
+2-16	122-129	Gebiete	*[10]	
+2-17	130-131	(	*[10]	
+2-18	131-133	so	*[10]	
+2-19	134-138	auch	*[10]	
+2-20	139-142	die	*[10]	
+2-21	143-164	Friedrich-Ebert-Allee	*[10]	
+2-22	164-165	)	_	
+2-23	166-175	erreichen	_	
+2-24	176-183	möchten	_	
+2-25	183-184	,	_	
+2-26	185-194	existiert	_	
+2-27	195-199	eine	_	
+2-28	200-206	nahezu	_	
+2-29	207-218	vollständig	_	
+2-30	219-231	asphaltierte	_	
+2-31	232-239	Strecke	_	
+2-32	240-243	bis	*[11]	
+2-33	244-247	zur	*[11]	
+2-34	248-258	Annaberger	*[11]	
+2-35	259-265	Straße	*[11]	
+2-36	265-266	.	_	
+
+#Text=Einzige Ausnahme ist der Kluttenweg.
+3-1	267-274	Einzige	_	
+3-2	275-283	Ausnahme	_	
+3-3	284-287	ist	_	
+3-4	288-291	der	*[12]	
+3-5	292-302	Kluttenweg	*[12]	
+3-6	302-303	.	_	
+
+#Text=Der Boden besteht hier teils aus nackter Erde und teils aus Splitt.
+4-1	304-307	Der	_	
+4-2	308-313	Boden	_	
+4-3	314-321	besteht	_	
+4-4	322-326	hier	_	
+4-5	327-332	teils	_	
+4-6	333-336	aus	_	
+4-7	337-344	nackter	_	
+4-8	345-349	Erde	_	
+4-9	350-353	und	_	
+4-10	354-359	teils	_	
+4-11	360-363	aus	_	
+4-12	364-370	Splitt	_	
+4-13	370-371	.	_	
+
+#Text=Beide Bodenarten sind für Fahrradfahrer äußerst ungünstig zu befahren.
+5-1	372-377	Beide	_	
+5-2	378-388	Bodenarten	_	
+5-3	389-393	sind	_	
+5-4	394-397	für	_	
+5-5	398-411	Fahrradfahrer	_	
+5-6	412-419	äußerst	_	
+5-7	420-429	ungünstig	_	
+5-8	430-432	zu	_	
+5-9	433-441	befahren	_	
+5-10	441-442	.	_	
+
+#Text=Bei Nässe bilden sich Pfützen, die mit Wasser und Schlamm gefüllt sind.
+6-1	443-446	Bei	_	
+6-2	447-452	Nässe	_	
+6-3	453-459	bilden	_	
+6-4	460-464	sich	_	
+6-5	465-472	Pfützen	_	
+6-6	472-473	,	_	
+6-7	474-477	die	_	
+6-8	478-481	mit	_	
+6-9	482-488	Wasser	_	
+6-10	489-492	und	_	
+6-11	493-500	Schlamm	_	
+6-12	501-508	gefüllt	_	
+6-13	509-513	sind	_	
+6-14	513-514	.	_	
+
+#Text=Auf der Splittstrecke besteht die Gefahr des Abdriftens.
+7-1	515-518	Auf	_	
+7-2	519-522	der	_	
+7-3	523-536	Splittstrecke	_	
+7-4	537-544	besteht	_	
+7-5	545-548	die	_	
+7-6	549-555	Gefahr	_	
+7-7	556-559	des	_	
+7-8	560-570	Abdriftens	_	
+7-9	570-571	.	_	
+
+#Text=Auch können die zahlreichen kleinen Steinfragmente Reifenschäden verursachen.
+8-1	572-576	Auch	_	
+8-2	577-583	können	_	
+8-3	584-587	die	_	
+8-4	588-599	zahlreichen	_	
+8-5	600-607	kleinen	_	
+8-6	608-622	Steinfragmente	_	
+8-7	623-636	Reifenschäden	_	
+8-8	637-648	verursachen	_	
+8-9	648-649	.	_	
+
+#Text=Ohne Zweifel wäre es für Fahrradfahrer günstig, wenn dieses Streckenstück asphaltiert werden könnte.
+9-1	650-654	Ohne	_	
+9-2	655-662	Zweifel	_	
+9-3	663-667	wäre	_	
+9-4	668-670	es	_	
+9-5	671-674	für	_	
+9-6	675-688	Fahrradfahrer	_	
+9-7	689-696	günstig	_	
+9-8	696-697	,	_	
+9-9	698-702	wenn	_	
+9-10	703-709	dieses	_	
+9-11	710-723	Streckenstück	_	
+9-12	724-735	asphaltiert	_	
+9-13	736-742	werden	_	
+9-14	743-749	könnte	_	
+9-15	749-750	.	_	

@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beginn des Radstreifens an Melaten hinter der Oskar-Jäger-Str
+1-1	0-6	Beginn	*[5]	
+1-2	7-10	des	*[5]	
+1-3	11-23	Radstreifens	*[5]	
+1-4	24-26	an	*[5]	
+1-5	27-34	Melaten	*[5]	
+1-6	35-41	hinter	*[5]	
+1-7	42-45	der	*[5]	
+1-8	46-61	Oskar-Jäger-Str	*[5]	
+
+#Text=Der Beginn des Radstreifens an Melaten in Richtung Ehrenfeld kommt für viele Autofahrer überraschend.
+2-1	64-67	Der	*[6]	
+2-2	68-74	Beginn	*[6]	
+2-3	75-78	des	*[6]	
+2-4	79-91	Radstreifens	*[6]	
+2-5	92-94	an	*[6]	
+2-6	95-102	Melaten	*[6]	
+2-7	103-105	in	*[6]	
+2-8	106-114	Richtung	*[6]	
+2-9	115-124	Ehrenfeld	*[6]	
+2-10	125-130	kommt	_	
+2-11	131-134	für	_	
+2-12	135-140	viele	_	
+2-13	141-151	Autofahrer	_	
+2-14	152-164	überraschend	_	
+2-15	164-165	.	_	
+
+#Text=Sie rechnen nicht damit, dass die Radfahrer nach den ersten Metern auf dem baulichen Radweg auf den Schutzstreifen in den Straßenraum wechseln.
+3-1	166-169	Sie	_	
+3-2	170-177	rechnen	_	
+3-3	178-183	nicht	_	
+3-4	184-189	damit	_	
+3-5	189-190	,	_	
+3-6	191-195	dass	_	
+3-7	196-199	die	_	
+3-8	200-209	Radfahrer	_	
+3-9	210-214	nach	_	
+3-10	215-218	den	_	
+3-11	219-225	ersten	_	
+3-12	226-232	Metern	_	
+3-13	233-236	auf	_	
+3-14	237-240	dem	_	
+3-15	241-250	baulichen	_	
+3-16	251-257	Radweg	_	
+3-17	258-261	auf	_	
+3-18	262-265	den	_	
+3-19	266-280	Schutzstreifen	_	
+3-20	281-283	in	_	
+3-21	284-287	den	_	
+3-22	288-299	Straßenraum	_	
+3-23	300-308	wechseln	_	
+3-24	308-309	.	_	
+
+#Text=Hier sollte der Beginn des Radstreifens mit einer dauerhaften Warnbake oder ähnlichem gesichert werden.
+4-1	310-314	Hier	_	
+4-2	315-321	sollte	_	
+4-3	322-325	der	_	
+4-4	326-332	Beginn	_	
+4-5	333-336	des	_	
+4-6	337-349	Radstreifens	_	
+4-7	350-353	mit	_	
+4-8	354-359	einer	_	
+4-9	360-371	dauerhaften	_	
+4-10	372-380	Warnbake	_	
+4-11	381-385	oder	_	
+4-12	386-395	ähnlichem	_	
+4-13	396-405	gesichert	_	
+4-14	406-412	werden	_	
+4-15	412-413	.	_	

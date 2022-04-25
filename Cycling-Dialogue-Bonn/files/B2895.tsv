@@ -1,0 +1,94 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Falschparker verdecken Sicht
+1-1	0-12	Falschparker	_	
+1-2	13-22	verdecken	_	
+1-3	23-28	Sicht	_	
+
+#Text=Hier wurde bereits die Markierung für einen Parkplatz entfernt und durch eine Parkverbotsmarkierung ersetzt.
+2-1	31-35	Hier	_	
+2-2	36-41	wurde	_	
+2-3	42-49	bereits	_	
+2-4	50-53	die	_	
+2-5	54-64	Markierung	_	
+2-6	65-68	für	_	
+2-7	69-74	einen	_	
+2-8	75-84	Parkplatz	_	
+2-9	85-93	entfernt	_	
+2-10	94-97	und	_	
+2-11	98-103	durch	_	
+2-12	104-108	eine	_	
+2-13	109-130	Parkverbotsmarkierung	_	
+2-14	131-138	ersetzt	_	
+2-15	138-139	.	_	
+
+#Text=Leider parken hier trotzdem häufig Autos / Kleintransporter.
+3-1	140-146	Leider	_	
+3-2	147-153	parken	_	
+3-3	154-158	hier	_	
+3-4	159-167	trotzdem	_	
+3-5	168-174	häufig	_	
+3-6	175-180	Autos	_	
+3-7	181-182	/	_	
+3-8	183-199	Kleintransporter	_	
+3-9	199-200	.	_	
+
+#Text=Dadurch ist die Kreuzung für Fahrradfahrer, die aus der Stephanstraße über die Kessenicher Straße in die Winzerstraße möchten, sehr schlecht einsehbar.
+4-1	201-208	Dadurch	_	
+4-2	209-212	ist	_	
+4-3	213-216	die	_	
+4-4	217-225	Kreuzung	_	
+4-5	226-229	für	_	
+4-6	230-243	Fahrradfahrer	_	
+4-7	243-244	,	_	
+4-8	245-248	die	_	
+4-9	249-252	aus	*[8]	
+4-10	253-256	der	*[8]	
+4-11	257-270	Stephanstraße	*[8]	
+4-12	271-275	über	*[8]	
+4-13	276-279	die	*[8]	
+4-14	280-291	Kessenicher	*[8]	
+4-15	292-298	Straße	*[8]	
+4-16	299-301	in	*[8]	
+4-17	302-305	die	*[8]	
+4-18	306-318	Winzerstraße	*[8]	
+4-19	319-326	möchten	_	
+4-20	326-327	,	_	
+4-21	328-332	sehr	_	
+4-22	333-341	schlecht	_	
+4-23	342-351	einsehbar	_	
+4-24	351-352	.	_	
+
+#Text=Umgekehrt werden die Fahrradfahrer von den Autos nicht gesehen.
+5-1	353-362	Umgekehrt	_	
+5-2	363-369	werden	_	
+5-3	370-373	die	_	
+5-4	374-387	Fahrradfahrer	_	
+5-5	388-391	von	_	
+5-6	392-395	den	_	
+5-7	396-401	Autos	_	
+5-8	402-407	nicht	_	
+5-9	408-415	gesehen	_	
+5-10	415-416	.	_	
+
+#Text=Dies betrifft am Morgen insbesondere Schulkinder.
+6-1	417-421	Dies	_	
+6-2	422-430	betrifft	_	
+6-3	431-433	am	_	
+6-4	434-440	Morgen	_	
+6-5	441-453	insbesondere	_	
+6-6	454-465	Schulkinder	_	
+6-7	465-466	.	_	
+
+#Text=Hier sollten Poller das Parken verhindern.
+7-1	467-471	Hier	_	
+7-2	472-479	sollten	_	
+7-3	480-486	Poller	_	
+7-4	487-490	das	_	
+7-5	491-497	Parken	_	
+7-6	498-508	verhindern	_	
+7-7	508-509	.	_	

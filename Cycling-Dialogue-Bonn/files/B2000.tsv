@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg deutlicher abgenzen von Fussgängerweg
+1-1	0-10	Fahrradweg	_	
+1-2	11-21	deutlicher	_	
+1-3	22-30	abgenzen	_	
+1-4	31-34	von	_	
+1-5	35-48	Fussgängerweg	_	
+
+#Text=Hier können die fussgänger kaum erkennen, dass es sich um einen Fahrradweg einen abgetrennten Fussgängerweg handelt.
+2-1	51-55	Hier	_	
+2-2	56-62	können	_	
+2-3	63-66	die	_	
+2-4	67-77	fussgänger	_	
+2-5	78-82	kaum	_	
+2-6	83-91	erkennen	_	
+2-7	91-92	,	_	
+2-8	93-97	dass	_	
+2-9	98-100	es	_	
+2-10	101-105	sich	_	
+2-11	106-108	um	_	
+2-12	109-114	einen	_	
+2-13	115-125	Fahrradweg	_	
+2-14	126-131	einen	_	
+2-15	132-144	abgetrennten	_	
+2-16	145-158	Fussgängerweg	_	
+2-17	159-166	handelt	_	
+2-18	166-167	.	_	
+
+#Text=eine dutliche Markierung wäre dringend notwendig, da dies ein stark befahrener Radweg ist
+3-1	168-172	eine	_	
+3-2	173-181	dutliche	_	
+3-3	182-192	Markierung	_	
+3-4	193-197	wäre	_	
+3-5	198-206	dringend	_	
+3-6	207-216	notwendig	_	
+3-7	216-217	,	_	
+3-8	218-220	da	_	
+3-9	221-225	dies	_	
+3-10	226-229	ein	_	
+3-11	230-235	stark	_	
+3-12	236-246	befahrener	_	
+3-13	247-253	Radweg	_	
+3-14	254-257	ist	_	

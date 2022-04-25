@@ -1,0 +1,105 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegmarkierung fehlt
+1-1	0-16	Radwegmarkierung	_	
+1-2	17-22	fehlt	_	
+
+#Text=Vor den Geschäften führt der Radweg über den Bürgersteig.
+2-1	25-28	Vor	_	
+2-2	29-32	den	_	
+2-3	33-43	Geschäften	_	
+2-4	44-49	führt	_	
+2-5	50-53	der	_	
+2-6	54-60	Radweg	_	
+2-7	61-65	über	_	
+2-8	66-69	den	_	
+2-9	70-81	Bürgersteig	_	
+2-10	81-82	.	_	
+
+#Text=Es gibt aber keine Markierung.
+3-1	83-85	Es	_	
+3-2	86-90	gibt	_	
+3-3	91-95	aber	_	
+3-4	96-101	keine	_	
+3-5	102-112	Markierung	_	
+3-6	112-113	.	_	
+
+#Text=Vor der Post herrscht immer eine chaotische Parksituation auf dem Bürgersteig.
+4-1	114-117	Vor	_	
+4-2	118-121	der	_	
+4-3	122-126	Post	_	
+4-4	127-135	herrscht	_	
+4-5	136-141	immer	_	
+4-6	142-146	eine	_	
+4-7	147-157	chaotische	_	
+4-8	158-171	Parksituation	_	
+4-9	172-175	auf	_	
+4-10	176-179	dem	_	
+4-11	180-191	Bürgersteig	_	
+4-12	191-192	.	_	
+
+#Text=Es gibt drei eingezeichnete Parkplätze, aber bis zu 10 Autos parken kreuz und quer.
+5-1	193-195	Es	_	
+5-2	196-200	gibt	_	
+5-3	201-205	drei	_	
+5-4	206-220	eingezeichnete	_	
+5-5	221-231	Parkplätze	_	
+5-6	231-232	,	_	
+5-7	233-237	aber	_	
+5-8	238-241	bis	_	
+5-9	242-244	zu	_	
+5-10	245-247	10	_	
+5-11	248-253	Autos	_	
+5-12	254-260	parken	_	
+5-13	261-266	kreuz	_	
+5-14	267-270	und	_	
+5-15	271-275	quer	_	
+5-16	275-276	.	_	
+
+#Text=Durch die Betonblumenkübel kommt es zu für Rad-und Fußgänger schwierigen Ausparmanövern.
+6-1	277-282	Durch	_	
+6-2	283-286	die	_	
+6-3	287-303	Betonblumenkübel	_	
+6-4	304-309	kommt	_	
+6-5	310-312	es	_	
+6-6	313-315	zu	_	
+6-7	316-319	für	_	
+6-8	320-327	Rad-und	_	
+6-9	328-337	Fußgänger	_	
+6-10	338-349	schwierigen	_	
+6-11	350-364	Ausparmanövern	_	
+6-12	364-365	.	_	
+
+#Text=Bitte die Blumenkübel entfernen, Rad - und Fußweg einzeichnen, mehr Parkplätze einzeichnen.
+7-1	366-371	Bitte	_	
+7-2	372-375	die	_	
+7-3	376-387	Blumenkübel	_	
+7-4	388-397	entfernen	_	
+7-5	397-398	,	_	
+7-6	399-402	Rad	_	
+7-7	403-404	-	_	
+7-8	405-408	und	_	
+7-9	409-415	Fußweg	_	
+7-10	416-427	einzeichnen	_	
+7-11	427-428	,	_	
+7-12	429-433	mehr	_	
+7-13	434-444	Parkplätze	_	
+7-14	445-456	einzeichnen	_	
+7-15	456-457	.	_	
+
+#Text=Die ganze Situation vor der Post muss neu organisiert werden!
+8-1	458-461	Die	_	
+8-2	462-467	ganze	_	
+8-3	468-477	Situation	_	
+8-4	478-481	vor	_	
+8-5	482-485	der	_	
+8-6	486-490	Post	_	
+8-7	491-495	muss	_	
+8-8	496-499	neu	_	
+8-9	500-511	organisiert	_	
+8-10	512-518	werden	_	
+8-11	518-519	!	_	

@@ -1,0 +1,23 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schutzstreifen neben parkenden Autos
+1-1	0-14	Schutzstreifen	_	
+1-2	15-20	neben	_	
+1-3	21-30	parkenden	_	
+1-4	31-36	Autos	_	
+
+#Text=Auch hier ist wieder ein Schutzstreifen neben parkenden Autos.
+2-1	39-43	Auch	_	
+2-2	44-48	hier	_	
+2-3	49-52	ist	_	
+2-4	53-59	wieder	_	
+2-5	60-63	ein	_	
+2-6	64-78	Schutzstreifen	_	
+2-7	79-84	neben	_	
+2-8	85-94	parkenden	_	
+2-9	95-100	Autos	_	
+2-10	100-101	.	_	

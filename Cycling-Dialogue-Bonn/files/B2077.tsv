@@ -1,0 +1,155 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg unterbrochen
+1-1	0-6	Radweg	_	
+1-2	7-19	unterbrochen	_	
+
+#Text=Die Überführung des Radwegs von der Rheinpromenade auf die Rathausstraße (also Auffahrt auf die Kennedybrücke) ist völlig unklar.
+2-1	22-25	Die	*[7]	
+2-2	26-37	Überführung	*[7]	
+2-3	38-41	des	*[7]	
+2-4	42-49	Radwegs	*[7]	
+2-5	50-53	von	*[7]	
+2-6	54-57	der	*[7]	
+2-7	58-72	Rheinpromenade	*[7]	
+2-8	73-76	auf	*[7]	
+2-9	77-80	die	*[7]	
+2-10	81-94	Rathausstraße	*[7]	
+2-11	95-96	(	*[7]	
+2-12	96-100	also	*[7]	
+2-13	101-109	Auffahrt	*[7]	
+2-14	110-113	auf	*[7]	
+2-15	114-117	die	*[7]	
+2-16	118-131	Kennedybrücke	*[7]	
+2-17	131-132	)	*[7]	
+2-18	133-136	ist	_	
+2-19	137-143	völlig	_	
+2-20	144-150	unklar	_	
+2-21	150-151	.	_	
+
+#Text=Hier sollte Radfahrern und Autofahrern deutlich angezeigt werden, wer zuerst fahren darf, da die Radfahrer die Straße den Radweg verlassen müssen und sich in den von hinten kommenden Autoverkehr als Links-Abbieger einreihen müssen.
+3-1	152-156	Hier	_	
+3-2	157-163	sollte	_	
+3-3	164-174	Radfahrern	_	
+3-4	175-178	und	_	
+3-5	179-190	Autofahrern	_	
+3-6	191-199	deutlich	_	
+3-7	200-209	angezeigt	_	
+3-8	210-216	werden	_	
+3-9	216-217	,	_	
+3-10	218-221	wer	_	
+3-11	222-228	zuerst	_	
+3-12	229-235	fahren	_	
+3-13	236-240	darf	_	
+3-14	240-241	,	_	
+3-15	242-244	da	_	
+3-16	245-248	die	_	
+3-17	249-258	Radfahrer	_	
+3-18	259-262	die	_	
+3-19	263-269	Straße	_	
+3-20	270-273	den	_	
+3-21	274-280	Radweg	_	
+3-22	281-290	verlassen	_	
+3-23	291-297	müssen	_	
+3-24	298-301	und	_	
+3-25	302-306	sich	_	
+3-26	307-309	in	_	
+3-27	310-313	den	_	
+3-28	314-317	von	_	
+3-29	318-324	hinten	_	
+3-30	325-334	kommenden	_	
+3-31	335-346	Autoverkehr	_	
+3-32	347-350	als	_	
+3-33	351-365	Links-Abbieger	_	
+3-34	366-375	einreihen	_	
+3-35	376-382	müssen	_	
+3-36	382-383	.	_	
+
+#Text=Der Zebrastreifen direkt an der Kreuzung macht den Abbiegevorgang noch komplizierter.
+4-1	384-387	Der	_	
+4-2	388-401	Zebrastreifen	_	
+4-3	402-408	direkt	_	
+4-4	409-411	an	_	
+4-5	412-415	der	_	
+4-6	416-424	Kreuzung	_	
+4-7	425-430	macht	_	
+4-8	431-434	den	_	
+4-9	435-449	Abbiegevorgang	_	
+4-10	450-454	noch	_	
+4-11	455-468	komplizierter	_	
+4-12	468-469	.	_	
+
+#Text=Vorschlag wäre, den Radweg für Linksabbieger deutlich sichtbar auf die Fahrbahn zu führen und dann, vielleicht in blau) eine Radquerungszone auf der Straße zu zeichnen, um den gesamten Verkehr wie auf einer Spielstraße zu verlangsamen und allen Verkehrsteilnehmern mehr Sicherheit zu geben.
+5-1	470-479	Vorschlag	_	
+5-2	480-484	wäre	_	
+5-3	484-485	,	_	
+5-4	486-489	den	_	
+5-5	490-496	Radweg	_	
+5-6	497-500	für	_	
+5-7	501-514	Linksabbieger	_	
+5-8	515-523	deutlich	_	
+5-9	524-532	sichtbar	_	
+5-10	533-536	auf	_	
+5-11	537-540	die	_	
+5-12	541-549	Fahrbahn	_	
+5-13	550-552	zu	_	
+5-14	553-559	führen	_	
+5-15	560-563	und	_	
+5-16	564-568	dann	_	
+5-17	568-569	,	_	
+5-18	570-580	vielleicht	_	
+5-19	581-583	in	_	
+5-20	584-588	blau	_	
+5-21	588-589	)	_	
+5-22	590-594	eine	_	
+5-23	595-610	Radquerungszone	_	
+5-24	611-614	auf	_	
+5-25	615-618	der	_	
+5-26	619-625	Straße	_	
+5-27	626-628	zu	_	
+5-28	629-637	zeichnen	_	
+5-29	637-638	,	_	
+5-30	639-641	um	_	
+5-31	642-645	den	_	
+5-32	646-654	gesamten	_	
+5-33	655-662	Verkehr	_	
+5-34	663-666	wie	_	
+5-35	667-670	auf	_	
+5-36	671-676	einer	_	
+5-37	677-688	Spielstraße	_	
+5-38	689-691	zu	_	
+5-39	692-704	verlangsamen	_	
+5-40	705-708	und	_	
+5-41	709-714	allen	_	
+5-42	715-734	Verkehrsteilnehmern	_	
+5-43	735-739	mehr	_	
+5-44	740-750	Sicherheit	_	
+5-45	751-753	zu	_	
+5-46	754-759	geben	_	
+5-47	759-760	.	_	
+
+#Text=Dieser Bereich könnte sich bis auf die andere Seite der Kennedy-Brücke erstrecken, wo im Prinzip dieselbe Situation herrscht.
+6-1	761-767	Dieser	_	
+6-2	768-775	Bereich	_	
+6-3	776-782	könnte	_	
+6-4	783-787	sich	_	
+6-5	788-791	bis	*[8]	
+6-6	792-795	auf	*[8]	
+6-7	796-799	die	*[8]	
+6-8	800-806	andere	*[8]	
+6-9	807-812	Seite	*[8]	
+6-10	813-816	der	*[8]	
+6-11	817-831	Kennedy-Brücke	*[8]	
+6-12	832-842	erstrecken	_	
+6-13	842-843	,	_	
+6-14	844-846	wo	_	
+6-15	847-849	im	_	
+6-16	850-857	Prinzip	_	
+6-17	858-866	dieselbe	_	
+6-18	867-876	Situation	_	
+6-19	877-885	herrscht	_	
+6-20	885-886	.	_	

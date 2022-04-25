@@ -1,0 +1,34 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Recht vor Links oder Vorfahrtregelung
+1-1	0-5	Recht	_	
+1-2	6-9	vor	_	
+1-3	10-15	Links	_	
+1-4	16-20	oder	_	
+1-5	21-37	Vorfahrtregelung	_	
+
+#Text=Deutliche Vorfahrregelung nötig, da es immer wieder zu Beinahe-Unfällen kommt, da Fahrradfahrer auf dem Bröltalradweg nicht abbremsen.
+2-1	40-49	Deutliche	_	
+2-2	50-65	Vorfahrregelung	_	
+2-3	66-71	nötig	_	
+2-4	71-72	,	_	
+2-5	73-75	da	_	
+2-6	76-78	es	_	
+2-7	79-84	immer	_	
+2-8	85-91	wieder	_	
+2-9	92-94	zu	_	
+2-10	95-111	Beinahe-Unfällen	_	
+2-11	112-117	kommt	_	
+2-12	117-118	,	_	
+2-13	119-121	da	_	
+2-14	122-135	Fahrradfahrer	_	
+2-15	136-139	auf	*[3]	
+2-16	140-143	dem	*[3]	
+2-17	144-157	Bröltalradweg	*[3]	
+2-18	158-163	nicht	_	
+2-19	164-173	abbremsen	_	
+2-20	173-174	.	_	

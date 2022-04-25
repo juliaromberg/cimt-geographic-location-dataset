@@ -1,0 +1,81 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bessere Radwege
+1-1	0-7	Bessere	_	
+1-2	8-15	Radwege	_	
+
+#Text=Ich bin der Meinung,das auf der Venloerstr die Radwege wieder neben dem Bürgersteig muss, auf der Strasse wird man oft weggedrängelt,weil es zu eng ist,besonder wenn manche einfach mal auf dem Radweg parken,um zu [Schnellrestaurant] zu gehen...
+2-1	18-21	Ich	_	
+2-2	22-25	bin	_	
+2-3	26-29	der	_	
+2-4	30-37	Meinung	_	
+2-5	37-38	,	_	
+2-6	38-41	das	_	
+2-7	42-45	auf	*[4]	
+2-8	46-49	der	*[4]	
+2-9	50-60	Venloerstr	*[4]	
+2-10	61-64	die	_	
+2-11	65-72	Radwege	_	
+2-12	73-79	wieder	_	
+2-13	80-85	neben	_	
+2-14	86-89	dem	_	
+2-15	90-101	Bürgersteig	_	
+2-16	102-106	muss	_	
+2-17	106-107	,	_	
+2-18	108-111	auf	_	
+2-19	112-115	der	_	
+2-20	116-123	Strasse	_	
+2-21	124-128	wird	_	
+2-22	129-132	man	_	
+2-23	133-136	oft	_	
+2-24	137-150	weggedrängelt	_	
+2-25	150-151	,	_	
+2-26	151-155	weil	_	
+2-27	156-158	es	_	
+2-28	159-161	zu	_	
+2-29	162-165	eng	_	
+2-30	166-169	ist	_	
+2-31	169-170	,	_	
+2-32	170-178	besonder	_	
+2-33	179-183	wenn	_	
+2-34	184-190	manche	_	
+2-35	191-198	einfach	_	
+2-36	199-202	mal	_	
+2-37	203-206	auf	_	
+2-38	207-210	dem	_	
+2-39	211-217	Radweg	_	
+2-40	218-224	parken	_	
+2-41	224-225	,	_	
+2-42	225-227	um	_	
+2-43	228-230	zu	_	
+2-44	231-232	[	_	
+2-45	232-249	Schnellrestaurant	_	
+2-46	249-250	]	_	
+2-47	251-253	zu	_	
+2-48	254-259	gehen	_	
+2-49	259-260	.	_	
+2-50	260-261	.	_	
+2-51	261-262	.	_	
+
+#Text=Vogelsangerstr sollte man ein Radweg hinmachen...es ist sau gefährlich da...
+3-1	263-277	Vogelsangerstr	*	
+3-2	278-284	sollte	_	
+3-3	285-288	man	_	
+3-4	289-292	ein	_	
+3-5	293-299	Radweg	_	
+3-6	300-309	hinmachen	_	
+3-7	309-310	.	_	
+3-8	310-311	.	_	
+3-9	311-312	.	_	
+3-10	312-314	es	_	
+3-11	315-318	ist	_	
+3-12	319-322	sau	_	
+3-13	323-333	gefährlich	_	
+3-14	334-336	da	_	
+3-15	336-337	.	_	
+3-16	337-338	.	_	
+3-17	338-339	.	_	

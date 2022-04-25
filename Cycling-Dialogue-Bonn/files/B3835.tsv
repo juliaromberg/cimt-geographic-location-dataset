@@ -1,0 +1,101 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bahnübergang Ollenhauerstraße Fahrradweg-Verengung
+1-1	0-12	Bahnübergang	*[5]	
+1-2	13-29	Ollenhauerstraße	*[5]	
+1-3	30-50	Fahrradweg-Verengung	_	
+
+#Text=Verengung des Fahrradweges auf der nördlichen Seite Ollenhauerstraße Ecke Oscar-Romero-Allee führt zu Verkehrsstau: Radfahrer aus nördlicher Richtung, die auf das Öffnen der Bahnschranken warten um abbiegen zu können, behindern Radfahrer aus nördlicher und südlicher Richtung, die geradeaus weiterfahren wollen.
+2-1	53-62	Verengung	_	
+2-2	63-66	des	_	
+2-3	67-79	Fahrradweges	*[6]	
+2-4	80-83	auf	*[6]	
+2-5	84-87	der	*[6]	
+2-6	88-98	nördlichen	*[6]	
+2-7	99-104	Seite	*[6]	
+2-8	105-121	Ollenhauerstraße	*[6]	
+2-9	122-126	Ecke	*[6]	
+2-10	127-145	Oscar-Romero-Allee	*[6]	
+2-11	146-151	führt	_	
+2-12	152-154	zu	_	
+2-13	155-167	Verkehrsstau	_	
+2-14	167-168	:	_	
+2-15	169-178	Radfahrer	_	
+2-16	179-182	aus	_	
+2-17	183-193	nördlicher	_	
+2-18	194-202	Richtung	_	
+2-19	202-203	,	_	
+2-20	204-207	die	_	
+2-21	208-211	auf	_	
+2-22	212-215	das	_	
+2-23	216-222	Öffnen	_	
+2-24	223-226	der	_	
+2-25	227-240	Bahnschranken	_	
+2-26	241-247	warten	_	
+2-27	248-250	um	_	
+2-28	251-259	abbiegen	_	
+2-29	260-262	zu	_	
+2-30	263-269	können	_	
+2-31	269-270	,	_	
+2-32	271-280	behindern	_	
+2-33	281-290	Radfahrer	_	
+2-34	291-294	aus	_	
+2-35	295-305	nördlicher	_	
+2-36	306-309	und	_	
+2-37	310-319	südlicher	_	
+2-38	320-328	Richtung	_	
+2-39	328-329	,	_	
+2-40	330-333	die	_	
+2-41	334-343	geradeaus	_	
+2-42	344-356	weiterfahren	_	
+2-43	357-363	wollen	_	
+2-44	363-364	.	_	
+
+#Text=Außerdem wäre ein Ausbau(=Fahrbahnverbreiterung) des Radwegs in südlicher Richtung entlang der Nahum-Goldmann-Allee wünschenswert.
+3-1	365-373	Außerdem	_	
+3-2	374-378	wäre	_	
+3-3	379-382	ein	_	
+3-4	383-389	Ausbau	_	
+3-5	389-390	(	_	
+3-6	390-391	=	_	
+3-7	391-412	Fahrbahnverbreiterung	_	
+3-8	412-413	)	_	
+3-9	414-417	des	_	
+3-10	418-425	Radwegs	_	
+3-11	426-428	in	*[7]	
+3-12	429-438	südlicher	*[7]	
+3-13	439-447	Richtung	*[7]	
+3-14	448-455	entlang	*[7]	
+3-15	456-459	der	*[7]	
+3-16	460-480	Nahum-Goldmann-Allee	*[7]	
+3-17	481-494	wünschenswert	_	
+3-18	494-495	.	_	
+
+#Text=Dieser Radweg ist sehr befahren und so schmal, dass das Fahren Stress bedeutet, zumal wenn man mit Kindern unterwegs ist.
+4-1	496-502	Dieser	_	
+4-2	503-509	Radweg	_	
+4-3	510-513	ist	_	
+4-4	514-518	sehr	_	
+4-5	519-527	befahren	_	
+4-6	528-531	und	_	
+4-7	532-534	so	_	
+4-8	535-541	schmal	_	
+4-9	541-542	,	_	
+4-10	543-547	dass	_	
+4-11	548-551	das	_	
+4-12	552-558	Fahren	_	
+4-13	559-565	Stress	_	
+4-14	566-574	bedeutet	_	
+4-15	574-575	,	_	
+4-16	576-581	zumal	_	
+4-17	582-586	wenn	_	
+4-18	587-590	man	_	
+4-19	591-594	mit	_	
+4-20	595-602	Kindern	_	
+4-21	603-612	unterwegs	_	
+4-22	613-616	ist	_	
+4-23	616-617	.	_	

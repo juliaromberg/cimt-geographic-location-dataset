@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=30er Zone besser beschildern (Alternativ: Fahrradstraße ausweisen)
+1-1	0-4	30er	_	
+1-2	5-9	Zone	_	
+1-3	10-16	besser	_	
+1-4	17-28	beschildern	_	
+1-5	29-30	(	_	
+1-6	30-40	Alternativ	_	
+1-7	40-41	:	_	
+1-8	42-55	Fahrradstraße	_	
+1-9	56-65	ausweisen	_	
+1-10	65-66	)	_	
+
+#Text=Rechtsabbiegende Autos aus der Sankt Augustiner Straße, scheinen die Beschilderung der 30er Zone (Nur rechte Straßenseite) oft zu übersehen und fahren mit hoher Geschwindigkeit auf die Friedhofstraße.
+2-1	69-85	Rechtsabbiegende	*[4]	
+2-2	86-91	Autos	*[4]	
+2-3	92-95	aus	*[4]	
+2-4	96-99	der	*[4]	
+2-5	100-105	Sankt	*[4]	
+2-6	106-116	Augustiner	*[4]	
+2-7	117-123	Straße	*[4]	
+2-8	123-124	,	_	
+2-9	125-133	scheinen	_	
+2-10	134-137	die	_	
+2-11	138-151	Beschilderung	_	
+2-12	152-155	der	_	
+2-13	156-160	30er	_	
+2-14	161-165	Zone	_	
+2-15	166-167	(	_	
+2-16	167-170	Nur	_	
+2-17	171-177	rechte	_	
+2-18	178-190	Straßenseite	_	
+2-19	190-191	)	_	
+2-20	192-195	oft	_	
+2-21	196-198	zu	_	
+2-22	199-208	übersehen	_	
+2-23	209-212	und	_	
+2-24	213-219	fahren	_	
+2-25	220-223	mit	_	
+2-26	224-229	hoher	_	
+2-27	230-245	Geschwindigkeit	_	
+2-28	246-249	auf	*[5]	
+2-29	250-253	die	*[5]	
+2-30	254-268	Friedhofstraße	*[5]	
+2-31	268-269	.	_	
+
+#Text=Da es hier häufiger zu gefährlichen Situationen kommt, scheint eine Beschilderung auch auf der linken Straßenseite oder eine Entschleunigung sinnvoll.
+3-1	270-272	Da	_	
+3-2	273-275	es	_	
+3-3	276-280	hier	_	
+3-4	281-289	häufiger	_	
+3-5	290-292	zu	_	
+3-6	293-305	gefährlichen	_	
+3-7	306-317	Situationen	_	
+3-8	318-323	kommt	_	
+3-9	323-324	,	_	
+3-10	325-332	scheint	_	
+3-11	333-337	eine	_	
+3-12	338-351	Beschilderung	_	
+3-13	352-356	auch	_	
+3-14	357-360	auf	_	
+3-15	361-364	der	_	
+3-16	365-371	linken	_	
+3-17	372-384	Straßenseite	_	
+3-18	385-389	oder	_	
+3-19	390-394	eine	_	
+3-20	395-410	Entschleunigung	_	
+3-21	411-419	sinnvoll	_	
+3-22	419-420	.	_	

@@ -1,0 +1,28 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg schlecht
+1-1	0-6	Radweg	_	
+1-2	7-15	schlecht	_	
+
+#Text=Der Radweg ist kurz, von schlechter Qualität, und insbesondere für schnelle Fahrradfahrer eine Zumutung.
+2-1	18-21	Der	_	
+2-2	22-28	Radweg	_	
+2-3	29-32	ist	_	
+2-4	33-37	kurz	_	
+2-5	37-38	,	_	
+2-6	39-42	von	_	
+2-7	43-53	schlechter	_	
+2-8	54-62	Qualität	_	
+2-9	62-63	,	_	
+2-10	64-67	und	_	
+2-11	68-80	insbesondere	_	
+2-12	81-84	für	_	
+2-13	85-93	schnelle	_	
+2-14	94-107	Fahrradfahrer	_	
+2-15	108-112	eine	_	
+2-16	113-121	Zumutung	_	
+2-17	121-122	.	_	

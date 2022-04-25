@@ -1,0 +1,143 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelschaltung Innere Kanalstraße ecke Aachener
+1-1	0-14	Ampelschaltung	_	
+1-2	15-21	Innere	*[8]	
+1-3	22-33	Kanalstraße	*[8]	
+1-4	34-38	ecke	*[8]	
+1-5	39-47	Aachener	*[8]	
+
+#Text=Auch Radfahrer genießen grüne Wellen und ärgern sich über unnötige Rote Ampeln.
+2-1	50-54	Auch	_	
+2-2	55-64	Radfahrer	_	
+2-3	65-73	genießen	_	
+2-4	74-79	grüne	_	
+2-5	80-86	Wellen	_	
+2-6	87-90	und	_	
+2-7	91-97	ärgern	_	
+2-8	98-102	sich	_	
+2-9	103-107	über	_	
+2-10	108-116	unnötige	_	
+2-11	117-121	Rote	_	
+2-12	122-128	Ampeln	_	
+2-13	128-129	.	_	
+
+#Text=Richtung Norden ist man als Radfahrer auf der Innere Kanalstraße froh die Aachenerstraße gerade noch mit Grün überquert zu haben.
+3-1	130-138	Richtung	_	
+3-2	139-145	Norden	_	
+3-3	146-149	ist	_	
+3-4	150-153	man	_	
+3-5	154-157	als	_	
+3-6	158-167	Radfahrer	_	
+3-7	168-171	auf	*[9]	
+3-8	172-175	der	*[9]	
+3-9	176-182	Innere	*[9]	
+3-10	183-194	Kanalstraße	*[9]	
+3-11	195-199	froh	_	
+3-12	200-203	die	*[10]	
+3-13	204-218	Aachenerstraße	*[10]	
+3-14	219-225	gerade	_	
+3-15	226-230	noch	_	
+3-16	231-234	mit	_	
+3-17	235-239	Grün	_	
+3-18	240-249	überquert	_	
+3-19	250-252	zu	_	
+3-20	253-258	haben	_	
+3-21	258-259	.	_	
+
+#Text=Unnötigerweiße ist die nächste Ampel (für PKW Abbieger) von der Aachener auf die Innere Richtung Norden dann schon für Fahrräder rot.
+4-1	260-274	Unnötigerweiße	_	
+4-2	275-278	ist	_	
+4-3	279-282	die	_	
+4-4	283-290	nächste	_	
+4-5	291-296	Ampel	_	
+4-6	297-298	(	_	
+4-7	298-301	für	_	
+4-8	302-305	PKW	_	
+4-9	306-314	Abbieger	_	
+4-10	314-315	)	_	
+4-11	316-319	von	*[11]	
+4-12	320-323	der	*[11]	
+4-13	324-332	Aachener	*[11]	
+4-14	333-336	auf	*[11]	
+4-15	337-340	die	*[11]	
+4-16	341-347	Innere	*[11]	
+4-17	348-356	Richtung	_	
+4-18	357-363	Norden	_	
+4-19	364-368	dann	_	
+4-20	369-374	schon	_	
+4-21	375-378	für	_	
+4-22	379-388	Fahrräder	_	
+4-23	389-392	rot	_	
+4-24	392-393	.	_	
+
+#Text=Die Ampel würde man noch locker schaffen, wenn sie nicht viel zu früh umschalten würde.
+5-1	394-397	Die	_	
+5-2	398-403	Ampel	_	
+5-3	404-409	würde	_	
+5-4	410-413	man	_	
+5-5	414-418	noch	_	
+5-6	419-425	locker	_	
+5-7	426-434	schaffen	_	
+5-8	434-435	,	_	
+5-9	436-440	wenn	_	
+5-10	441-444	sie	_	
+5-11	445-450	nicht	_	
+5-12	451-455	viel	_	
+5-13	456-458	zu	_	
+5-14	459-463	früh	_	
+5-15	464-474	umschalten	_	
+5-16	475-480	würde	_	
+5-17	480-481	.	_	
+
+#Text=Richtung Süden auf der Innere kann die Schaltung zwischen Weinsbergstraße und Achener auch verbessert werden.
+6-1	482-490	Richtung	_	
+6-2	491-496	Süden	_	
+6-3	497-500	auf	*[12]	
+6-4	501-504	der	*[12]	
+6-5	505-511	Innere	*[12]	
+6-6	512-516	kann	_	
+6-7	517-520	die	_	
+6-8	521-530	Schaltung	_	
+6-9	531-539	zwischen	*[13]	
+6-10	540-555	Weinsbergstraße	*[13]	
+6-11	556-559	und	*[13]	
+6-12	560-567	Achener	*[13]	
+6-13	568-572	auch	_	
+6-14	573-583	verbessert	_	
+6-15	584-590	werden	_	
+6-16	590-591	.	_	
+
+#Text=Etwas längere Grünphase; Hier Verlieren nicht nur die Autofahrer im Stau Zeit, sondern auch die Radfahrer die zur Verringerung der Staus in der Stadt beitragen.
+7-1	592-597	Etwas	_	
+7-2	598-605	längere	_	
+7-3	606-615	Grünphase	_	
+7-4	615-616	;	_	
+7-5	617-621	Hier	_	
+7-6	622-631	Verlieren	_	
+7-7	632-637	nicht	_	
+7-8	638-641	nur	_	
+7-9	642-645	die	_	
+7-10	646-656	Autofahrer	_	
+7-11	657-659	im	_	
+7-12	660-664	Stau	_	
+7-13	665-669	Zeit	_	
+7-14	669-670	,	_	
+7-15	671-678	sondern	_	
+7-16	679-683	auch	_	
+7-17	684-687	die	_	
+7-18	688-697	Radfahrer	_	
+7-19	698-701	die	_	
+7-20	702-705	zur	_	
+7-21	706-718	Verringerung	_	
+7-22	719-722	der	_	
+7-23	723-728	Staus	_	
+7-24	729-731	in	_	
+7-25	732-735	der	_	
+7-26	736-741	Stadt	_	
+7-27	742-751	beitragen	_	
+7-28	751-752	.	_	

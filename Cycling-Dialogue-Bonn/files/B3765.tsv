@@ -1,0 +1,160 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kurfürstenstraße: Einbahnstraße für Radfahrer aufheben
+1-1	0-16	Kurfürstenstraße	*	
+1-2	16-17	:	_	
+1-3	18-31	Einbahnstraße	_	
+1-4	32-35	für	_	
+1-5	36-45	Radfahrer	_	
+1-6	46-54	aufheben	_	
+
+#Text=Die Kurfürstenstraße sollte von der Reuterstraße an bis zur Einmündung in die Argelanderstraße für den Radverkehr entgegen der Einbahnstraße freigegeben werden.
+2-1	57-60	Die	*[7]	
+2-2	61-77	Kurfürstenstraße	*[7]	
+2-3	78-84	sollte	*[7]	
+2-4	85-88	von	*[7]	
+2-5	89-92	der	*[7]	
+2-6	93-105	Reuterstraße	*[7]	
+2-7	106-108	an	*[7]	
+2-8	109-112	bis	*[7]	
+2-9	113-116	zur	*[7]	
+2-10	117-127	Einmündung	*[7]	
+2-11	128-130	in	*[7]	
+2-12	131-134	die	*[7]	
+2-13	135-151	Argelanderstraße	*[7]	
+2-14	152-155	für	_	
+2-15	156-159	den	_	
+2-16	160-170	Radverkehr	_	
+2-17	171-179	entgegen	_	
+2-18	180-183	der	_	
+2-19	184-197	Einbahnstraße	_	
+2-20	198-209	freigegeben	_	
+2-21	210-216	werden	_	
+2-22	216-217	.	_	
+
+#Text=Tatsächlich wird die Kurfürstenstraße heute schon vielfach entgegen der vorgeschriebenen Fahrtrichtung von Radfahrern benutzt (aber auch mal von Taxifahrern...).
+3-1	218-229	Tatsächlich	_	
+3-2	230-234	wird	_	
+3-3	235-238	die	*[8]	
+3-4	239-255	Kurfürstenstraße	*[8]	
+3-5	256-261	heute	_	
+3-6	262-267	schon	_	
+3-7	268-276	vielfach	_	
+3-8	277-285	entgegen	_	
+3-9	286-289	der	_	
+3-10	290-306	vorgeschriebenen	_	
+3-11	307-320	Fahrtrichtung	_	
+3-12	321-324	von	_	
+3-13	325-335	Radfahrern	_	
+3-14	336-343	benutzt	_	
+3-15	344-345	(	_	
+3-16	345-349	aber	_	
+3-17	350-354	auch	_	
+3-18	355-358	mal	_	
+3-19	359-362	von	_	
+3-20	363-374	Taxifahrern	_	
+3-21	374-375	.	_	
+3-22	375-376	.	_	
+3-23	376-377	.	_	
+3-24	377-378	)	_	
+3-25	378-379	.	_	
+
+#Text=Dieser Weg ist der bequemere UND sicherere wenn man Richtung Innenstadt (Schulen und Uni) möchte.
+4-1	380-386	Dieser	_	
+4-2	387-390	Weg	_	
+4-3	391-394	ist	_	
+4-4	395-398	der	_	
+4-5	399-408	bequemere	_	
+4-6	409-412	UND	_	
+4-7	413-422	sicherere	_	
+4-8	423-427	wenn	_	
+4-9	428-431	man	_	
+4-10	432-440	Richtung	*[9]	
+4-11	441-451	Innenstadt	*[9]	
+4-12	452-453	(	*[9]	
+4-13	453-460	Schulen	*[9]	
+4-14	461-464	und	*[9]	
+4-15	465-468	Uni	*[9]	
+4-16	468-469	)	_	
+4-17	470-476	möchte	_	
+4-18	476-477	.	_	
+
+#Text=Die Alternative Venusbergweg ist v.a. für Kinder deutlich gefährlicher im Berufsverkehr, weil dort dauernd von Autos gedrängelt und überholt wird, die dann aber unmittelbar vor den Überholten wieder stoppen müssen, weil Gegenverkehr kommt.
+5-1	478-481	Die	_	
+5-2	482-493	Alternative	_	
+5-3	494-506	Venusbergweg	*	
+5-4	507-510	ist	_	
+5-5	511-514	v.a	_	
+5-6	514-515	.	_	
+5-7	516-519	für	_	
+5-8	520-526	Kinder	_	
+5-9	527-535	deutlich	_	
+5-10	536-548	gefährlicher	_	
+5-11	549-551	im	_	
+5-12	552-565	Berufsverkehr	_	
+5-13	565-566	,	_	
+5-14	567-571	weil	_	
+5-15	572-576	dort	_	
+5-16	577-584	dauernd	_	
+5-17	585-588	von	_	
+5-18	589-594	Autos	_	
+5-19	595-605	gedrängelt	_	
+5-20	606-609	und	_	
+5-21	610-618	überholt	_	
+5-22	619-623	wird	_	
+5-23	623-624	,	_	
+5-24	625-628	die	_	
+5-25	629-633	dann	_	
+5-26	634-638	aber	_	
+5-27	639-650	unmittelbar	_	
+5-28	651-654	vor	_	
+5-29	655-658	den	_	
+5-30	659-669	Überholten	_	
+5-31	670-676	wieder	_	
+5-32	677-684	stoppen	_	
+5-33	685-691	müssen	_	
+5-34	691-692	,	_	
+5-35	693-697	weil	_	
+5-36	698-710	Gegenverkehr	_	
+5-37	711-716	kommt	_	
+5-38	716-717	.	_	
+
+#Text=Die Schloßstraße ist in Richtung Venusbergweg schon freigegeben, der Weg über die Kurfürstenstraße/Schloßstraße/Venusbergweg bzw. Am Poppelsdorfer Weiher ist heute schon vielgeübte Praxis, die legitimiert werden sollte.
+6-1	718-721	Die	*[10]	
+6-2	722-734	Schloßstraße	*[10]	
+6-3	735-738	ist	*[10]	
+6-4	739-741	in	*[10]	
+6-5	742-750	Richtung	*[10]	
+6-6	751-763	Venusbergweg	*[10]	
+6-7	764-769	schon	_	
+6-8	770-781	freigegeben	_	
+6-9	781-782	,	_	
+6-10	783-786	der	_	
+6-11	787-790	Weg	_	
+6-12	791-795	über	*[11]	
+6-13	796-799	die	*[11]	
+6-14	800-816	Kurfürstenstraße	*[11]	
+6-15	816-817	/	*[11]	
+6-16	817-829	Schloßstraße	*[11]	
+6-17	829-830	/	*[11]	
+6-18	830-842	Venusbergweg	*[11]	
+6-19	843-846	bzw	*[11]	
+6-20	846-847	.	*[11]	
+6-21	848-850	Am	*[11]	
+6-22	851-864	Poppelsdorfer	*[11]	
+6-23	865-871	Weiher	*[11]	
+6-24	872-875	ist	_	
+6-25	876-881	heute	_	
+6-26	882-887	schon	_	
+6-27	888-898	vielgeübte	_	
+6-28	899-905	Praxis	_	
+6-29	905-906	,	_	
+6-30	907-910	die	_	
+6-31	911-922	legitimiert	_	
+6-32	923-929	werden	_	
+6-33	930-936	sollte	_	
+6-34	936-937	.	_	

@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beleuchtung fehlt
+1-1	0-11	Beleuchtung	_	
+1-2	12-17	fehlt	_	
+
+#Text=Auf dem gesamten Radweg zwischen Brückenabfahrt und der Kreuzung mit der L16 fehlt eine Beleuchtung.
+2-1	20-23	Auf	_	
+2-2	24-27	dem	_	
+2-3	28-36	gesamten	_	
+2-4	37-43	Radweg	_	
+2-5	44-52	zwischen	*[5]	
+2-6	53-67	Brückenabfahrt	*[5]	
+2-7	68-71	und	*[5]	
+2-8	72-75	der	*[5]	
+2-9	76-84	Kreuzung	*[5]	
+2-10	85-88	mit	*[5]	
+2-11	89-92	der	*[5]	
+2-12	93-96	L16	*[5]	
+2-13	97-102	fehlt	_	
+2-14	103-107	eine	_	
+2-15	108-119	Beleuchtung	_	
+2-16	119-120	.	_	
+
+#Text=Im Herbst/Winter ist es sehr unangenehm hier am späten Nachmittag/Abend unterwegs zu sein.
+3-1	121-123	Im	_	
+3-2	124-130	Herbst	_	
+3-3	130-131	/	_	
+3-4	131-137	Winter	_	
+3-5	138-141	ist	_	
+3-6	142-144	es	_	
+3-7	145-149	sehr	_	
+3-8	150-160	unangenehm	_	
+3-9	161-165	hier	_	
+3-10	166-168	am	_	
+3-11	169-175	späten	_	
+3-12	176-186	Nachmittag	_	
+3-13	186-187	/	_	
+3-14	187-192	Abend	_	
+3-15	193-202	unterwegs	_	
+3-16	203-205	zu	_	
+3-17	206-210	sein	_	
+3-18	210-211	.	_	
+
+#Text=Strom müsste ja vorhanden sein, die benachbarte Autobahn ist in diesem Abschnitt beleuchtet!
+4-1	212-217	Strom	_	
+4-2	218-224	müsste	_	
+4-3	225-227	ja	_	
+4-4	228-237	vorhanden	_	
+4-5	238-242	sein	_	
+4-6	242-243	,	_	
+4-7	244-247	die	_	
+4-8	248-259	benachbarte	_	
+4-9	260-268	Autobahn	_	
+4-10	269-272	ist	_	
+4-11	273-275	in	_	
+4-12	276-282	diesem	_	
+4-13	283-292	Abschnitt	_	
+4-14	293-303	beleuchtet	_	
+4-15	303-304	!	_	

@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrbahnschäden
+1-1	0-15	Fahrbahnschäden	_	
+
+#Text=Die Fahrbahn ist beschädigt, sodass eine permanente Pfütze entsteht.
+2-1	18-21	Die	_	
+2-2	22-30	Fahrbahn	_	
+2-3	31-34	ist	_	
+2-4	35-45	beschädigt	_	
+2-5	45-46	,	_	
+2-6	47-53	sodass	_	
+2-7	54-58	eine	_	
+2-8	59-69	permanente	_	
+2-9	70-76	Pfütze	_	
+2-10	77-85	entsteht	_	
+2-11	85-86	.	_	
+
+#Text=Zusätzlich ist der Oberflächenbelag sehr rutschig, was durch die nässe noch verschärft wird.
+3-1	87-97	Zusätzlich	_	
+3-2	98-101	ist	_	
+3-3	102-105	der	_	
+3-4	106-122	Oberflächenbelag	_	
+3-5	123-127	sehr	_	
+3-6	128-136	rutschig	_	
+3-7	136-137	,	_	
+3-8	138-141	was	_	
+3-9	142-147	durch	_	
+3-10	148-151	die	_	
+3-11	152-157	nässe	_	
+3-12	158-162	noch	_	
+3-13	163-173	verschärft	_	
+3-14	174-178	wird	_	
+3-15	178-179	.	_	
+
+#Text=Anschließend wird der Radfahrer in Richtung Innenstadt wieder auf einen Gehweg geführt der nicht einsehbar ist und zahlreiche Einfahrten hat sowie eine Bushaltestelle.
+4-1	180-192	Anschließend	_	
+4-2	193-197	wird	_	
+4-3	198-201	der	_	
+4-4	202-211	Radfahrer	_	
+4-5	212-214	in	*[5]	
+4-6	215-223	Richtung	*[5]	
+4-7	224-234	Innenstadt	*[5]	
+4-8	235-241	wieder	_	
+4-9	242-245	auf	_	
+4-10	246-251	einen	_	
+4-11	252-258	Gehweg	_	
+4-12	259-266	geführt	_	
+4-13	267-270	der	_	
+4-14	271-276	nicht	_	
+4-15	277-286	einsehbar	_	
+4-16	287-290	ist	_	
+4-17	291-294	und	_	
+4-18	295-305	zahlreiche	_	
+4-19	306-316	Einfahrten	_	
+4-20	317-320	hat	_	
+4-21	321-326	sowie	_	
+4-22	327-331	eine	_	
+4-23	332-346	Bushaltestelle	_	
+4-24	346-347	.	_	
+
+#Text=Insgesamt ist die Radverkehrsführung hier eher traurig!
+5-1	348-357	Insgesamt	_	
+5-2	358-361	ist	_	
+5-3	362-365	die	_	
+5-4	366-384	Radverkehrsführung	_	
+5-5	385-389	hier	_	
+5-6	390-394	eher	_	
+5-7	395-402	traurig	_	
+5-8	402-403	!	_	

@@ -1,0 +1,99 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Entschärfung Gefahrenstelle Viktoriabrücke in Bornheimer
+1-1	0-12	Entschärfung	_	
+1-2	13-27	Gefahrenstelle	_	
+1-3	28-42	Viktoriabrücke	*[6]	
+1-4	43-45	in	*[6]	
+1-5	46-56	Bornheimer	*[6]	
+
+#Text=Auf der Rechtsabbiegung der Viktoriabrücke auf die Bornheimer Straße in Richtung City fahren im Nachmittags-Berufsverkehr immer Auto über den Radschutzstreifen.
+2-1	59-62	Auf	*[7]	
+2-2	63-66	der	*[7]	
+2-3	67-82	Rechtsabbiegung	*[7]	
+2-4	83-86	der	*[7]	
+2-5	87-101	Viktoriabrücke	*[7]	
+2-6	102-105	auf	*[7]	
+2-7	106-109	die	*[7]	
+2-8	110-120	Bornheimer	*[7]	
+2-9	121-127	Straße	*[7]	
+2-10	128-130	in	*[7]	
+2-11	131-139	Richtung	*[7]	
+2-12	140-144	City	*[7]	
+2-13	145-151	fahren	_	
+2-14	152-154	im	_	
+2-15	155-180	Nachmittags-Berufsverkehr	_	
+2-16	181-186	immer	_	
+2-17	187-191	Auto	_	
+2-18	192-196	über	_	
+2-19	197-200	den	_	
+2-20	201-218	Radschutzstreifen	_	
+2-21	218-219	.	_	
+
+#Text=Sie tun dies, um so ein Fuß in der Tür zu haben, wenn der Verkehr auf der Bornheimer wieder läuft und sie dann einbiegen können.
+3-1	220-223	Sie	_	
+3-2	224-227	tun	_	
+3-3	228-232	dies	_	
+3-4	232-233	,	_	
+3-5	234-236	um	_	
+3-6	237-239	so	_	
+3-7	240-243	ein	_	
+3-8	244-247	Fuß	_	
+3-9	248-250	in	_	
+3-10	251-254	der	_	
+3-11	255-258	Tür	_	
+3-12	259-261	zu	_	
+3-13	262-267	haben	_	
+3-14	267-268	,	_	
+3-15	269-273	wenn	_	
+3-16	274-277	der	_	
+3-17	278-285	Verkehr	_	
+3-18	286-289	auf	*[8]	
+3-19	290-293	der	*[8]	
+3-20	294-304	Bornheimer	*[8]	
+3-21	305-311	wieder	_	
+3-22	312-317	läuft	_	
+3-23	318-321	und	_	
+3-24	322-325	sie	_	
+3-25	326-330	dann	_	
+3-26	331-340	einbiegen	_	
+3-27	341-347	können	_	
+3-28	347-348	.	_	
+
+#Text=Nur blockieren Sie so die Radfahrer auf dieser sehr belebten Radstrecke, siehe https://goo.gl/YTy3dd
+4-1	349-352	Nur	_	
+4-2	353-363	blockieren	_	
+4-3	364-367	Sie	_	
+4-4	368-370	so	_	
+4-5	371-374	die	_	
+4-6	375-384	Radfahrer	_	
+4-7	385-388	auf	_	
+4-8	389-395	dieser	_	
+4-9	396-400	sehr	_	
+4-10	401-409	belebten	_	
+4-11	410-420	Radstrecke	_	
+4-12	420-421	,	_	
+4-13	422-427	siehe	_	
+4-14	428-433	https	_	
+4-15	433-434	:	_	
+4-16	434-435	/	_	
+4-17	435-436	/	_	
+4-18	436-442	goo.gl	_	
+4-19	442-443	/	_	
+4-20	443-449	YTy3dd	_	
+
+#Text=Der Radschutzstreifen müsste hier farblich deutlich auffälliger gekennzeichnet werden.
+5-1	450-453	Der	_	
+5-2	454-471	Radschutzstreifen	_	
+5-3	472-478	müsste	_	
+5-4	479-483	hier	_	
+5-5	484-492	farblich	_	
+5-6	493-501	deutlich	_	
+5-7	502-513	auffälliger	_	
+5-8	514-528	gekennzeichnet	_	
+5-9	529-535	werden	_	
+5-10	535-536	.	_	

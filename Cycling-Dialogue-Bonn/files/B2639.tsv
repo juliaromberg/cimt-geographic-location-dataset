@@ -1,0 +1,26 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Straße voller Schlaglöcher
+1-1	0-6	Straße	_	
+1-2	7-13	voller	_	
+1-3	14-26	Schlaglöcher	_	
+
+#Text=Insbesondere auf dem Stück vor der Ampel an der Ecke Denglerstr. Richtung Rüngsdorf
+2-1	29-41	Insbesondere	_	
+2-2	42-45	auf	_	
+2-3	46-49	dem	_	
+2-4	50-55	Stück	_	
+2-5	56-59	vor	*[3]	
+2-6	60-63	der	*[3]	
+2-7	64-69	Ampel	*[3]	
+2-8	70-72	an	*[3]	
+2-9	73-76	der	*[3]	
+2-10	77-81	Ecke	*[3]	
+2-11	82-92	Denglerstr	*[3]	
+2-12	92-93	.	*[3]	
+2-13	94-102	Richtung	*[3]	
+2-14	103-112	Rüngsdorf	*[3]	

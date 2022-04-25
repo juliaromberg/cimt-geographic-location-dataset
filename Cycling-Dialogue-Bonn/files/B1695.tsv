@@ -1,0 +1,102 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefahr durch aufschlagende Autotüren im steilen Gefälle
+1-1	0-6	Gefahr	_	
+1-2	7-12	durch	_	
+1-3	13-26	aufschlagende	_	
+1-4	27-36	Autotüren	_	
+1-5	37-39	im	_	
+1-6	40-47	steilen	_	
+1-7	48-55	Gefälle	_	
+
+#Text=Unbefestigter Parkstreifen, zahlreiche Autofahrer/Innen schlagen Ihre Türen in den nur farbmarkierten Fahrradstreifen, kein Schutzabstand und das ganze auf einer steil abschüssigen Straße (steiles Gefälle) vom Venusberg kommend, sehr häufig sehr gefährliche Situationen bei hoher Geschwindigkeit bergab.
+2-1	58-71	Unbefestigter	_	
+2-2	72-84	Parkstreifen	_	
+2-3	84-85	,	_	
+2-4	86-96	zahlreiche	_	
+2-5	97-107	Autofahrer	_	
+2-6	107-108	/	_	
+2-7	108-113	Innen	_	
+2-8	114-122	schlagen	_	
+2-9	123-127	Ihre	_	
+2-10	128-133	Türen	_	
+2-11	134-136	in	_	
+2-12	137-140	den	_	
+2-13	141-144	nur	_	
+2-14	145-159	farbmarkierten	_	
+2-15	160-175	Fahrradstreifen	_	
+2-16	175-176	,	_	
+2-17	177-181	kein	_	
+2-18	182-195	Schutzabstand	_	
+2-19	196-199	und	_	
+2-20	200-203	das	_	
+2-21	204-209	ganze	_	
+2-22	210-213	auf	_	
+2-23	214-219	einer	_	
+2-24	220-225	steil	_	
+2-25	226-238	abschüssigen	_	
+2-26	239-245	Straße	_	
+2-27	246-247	(	_	
+2-28	247-254	steiles	_	
+2-29	255-262	Gefälle	_	
+2-30	262-263	)	_	
+2-31	264-267	vom	*[5]	
+2-32	268-277	Venusberg	*[5]	
+2-33	278-285	kommend	*[5]	
+2-34	285-286	,	_	
+2-35	287-291	sehr	_	
+2-36	292-298	häufig	_	
+2-37	299-303	sehr	_	
+2-38	304-315	gefährliche	_	
+2-39	316-327	Situationen	_	
+2-40	328-331	bei	_	
+2-41	332-337	hoher	_	
+2-42	338-353	Geschwindigkeit	_	
+2-43	354-360	bergab	_	
+2-44	360-361	.	_	
+
+#Text=Ausweichen auf KFZ-Fahrspur fast unausweichlich erforderlich, hier z.B. weitere Gefahr durch abbiegende KFZ Richtung Araltankstelle etc.
+3-1	362-372	Ausweichen	_	
+3-2	373-376	auf	_	
+3-3	377-389	KFZ-Fahrspur	_	
+3-4	390-394	fast	_	
+3-5	395-409	unausweichlich	_	
+3-6	410-422	erforderlich	_	
+3-7	422-423	,	_	
+3-8	424-428	hier	_	
+3-9	429-432	z.B	_	
+3-10	432-433	.	_	
+3-11	434-441	weitere	_	
+3-12	442-448	Gefahr	_	
+3-13	449-454	durch	_	
+3-14	455-465	abbiegende	_	
+3-15	466-469	KFZ	_	
+3-16	470-478	Richtung	_	
+3-17	479-493	Araltankstelle	_	
+3-18	494-497	etc	_	
+3-19	497-498	.	_	
+
+#Text=Empfehlung: entweder ordentlich ausgebaute KFZ-Stellplätze (hauptsächlich Personal des Marienhospitals) mit dem vorgeschriebenen Abstand oder Parkverbot straßenbegleitend
+4-1	499-509	Empfehlung	_	
+4-2	509-510	:	_	
+4-3	511-519	entweder	_	
+4-4	520-530	ordentlich	_	
+4-5	531-541	ausgebaute	_	
+4-6	542-557	KFZ-Stellplätze	_	
+4-7	558-559	(	_	
+4-8	559-572	hauptsächlich	_	
+4-9	573-581	Personal	_	
+4-10	582-585	des	_	
+4-11	586-601	Marienhospitals	_	
+4-12	601-602	)	_	
+4-13	603-606	mit	_	
+4-14	607-610	dem	_	
+4-15	611-627	vorgeschriebenen	_	
+4-16	628-635	Abstand	_	
+4-17	636-640	oder	_	
+4-18	641-651	Parkverbot	_	
+4-19	652-669	straßenbegleitend	_	

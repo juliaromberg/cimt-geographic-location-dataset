@@ -1,0 +1,53 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlende Radständer
+1-1	0-8	Fehlende	_	
+1-2	9-19	Radständer	_	
+
+#Text=In der Kulturmeile fehlt es an Abstellmöglichkeiten für Fahrräder.
+2-1	22-24	In	_	
+2-2	25-28	der	_	
+2-3	29-40	Kulturmeile	_	
+2-4	41-46	fehlt	_	
+2-5	47-49	es	_	
+2-6	50-52	an	_	
+2-7	53-73	Abstellmöglichkeiten	_	
+2-8	74-77	für	_	
+2-9	78-87	Fahrräder	_	
+2-10	87-88	.	_	
+
+#Text=Ein Fahrradständer wäre hier sinnvoll, da viele der Einrichtungen der Kulturmeile per Rad besucht werden.
+3-1	89-92	Ein	_	
+3-2	93-107	Fahrradständer	_	
+3-3	108-112	wäre	_	
+3-4	113-117	hier	_	
+3-5	118-126	sinnvoll	_	
+3-6	126-127	,	_	
+3-7	128-130	da	_	
+3-8	131-136	viele	_	
+3-9	137-140	der	_	
+3-10	141-154	Einrichtungen	_	
+3-11	155-158	der	_	
+3-12	159-170	Kulturmeile	_	
+3-13	171-174	per	_	
+3-14	175-178	Rad	_	
+3-15	179-186	besucht	_	
+3-16	187-193	werden	_	
+3-17	193-194	.	_	
+
+#Text=Die einzelnen Abstellmöglichkeiten in der Brahmsstraße reichen hier nicht aus.
+4-1	195-198	Die	_	
+4-2	199-208	einzelnen	_	
+4-3	209-229	Abstellmöglichkeiten	_	
+4-4	230-232	in	*[5]	
+4-5	233-236	der	*[5]	
+4-6	237-249	Brahmsstraße	*[5]	
+4-7	250-257	reichen	_	
+4-8	258-262	hier	_	
+4-9	263-268	nicht	_	
+4-10	269-272	aus	_	
+4-11	272-273	.	_	

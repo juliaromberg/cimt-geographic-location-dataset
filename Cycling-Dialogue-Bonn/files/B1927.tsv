@@ -1,0 +1,83 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kleingartenstrasse
+1-1	0-18	Kleingartenstrasse	*	
+
+#Text=Die Kleingartenstrasse mündet in die Grootestrasse (bei ca Nr 110).
+2-1	21-24	Die	*[4]	
+2-2	25-43	Kleingartenstrasse	*[4]	
+2-3	44-50	mündet	*[4]	
+2-4	51-53	in	*[4]	
+2-5	54-57	die	*[4]	
+2-6	58-71	Grootestrasse	*[4]	
+2-7	72-73	(	*[4]	
+2-8	73-76	bei	*[4]	
+2-9	77-79	ca	*[4]	
+2-10	80-82	Nr	*[4]	
+2-11	83-86	110	*[4]	
+2-12	86-87	)	_	
+2-13	87-88	.	_	
+
+#Text=Der Radweg in beide Richtungen endet dort und ist erneut mit dem Schild 237 (Gemeinsamer Rad/Fussweg) in Richtung Bonn ausgeschildert.
+3-1	89-92	Der	_	
+3-2	93-99	Radweg	_	
+3-3	100-102	in	_	
+3-4	103-108	beide	_	
+3-5	109-119	Richtungen	_	
+3-6	120-125	endet	_	
+3-7	126-130	dort	_	
+3-8	131-134	und	_	
+3-9	135-138	ist	_	
+3-10	139-145	erneut	_	
+3-11	146-149	mit	_	
+3-12	150-153	dem	_	
+3-13	154-160	Schild	_	
+3-14	161-164	237	_	
+3-15	165-166	(	_	
+3-16	166-177	Gemeinsamer	_	
+3-17	178-181	Rad	_	
+3-18	181-182	/	_	
+3-19	182-189	Fussweg	_	
+3-20	189-190	)	_	
+3-21	191-193	in	*[5]	
+3-22	194-202	Richtung	*[5]	
+3-23	203-207	Bonn	*[5]	
+3-24	208-222	ausgeschildert	_	
+3-25	222-223	.	_	
+
+#Text=In Richtung Alfter wird das Schild nicht wiederholt und somit endet der Radeweg, was er aber definitiv nicht tut, was die Beschilderung und Wegführung am Kreisverkehr danach zeigen.
+4-1	224-226	In	*[6]	
+4-2	227-235	Richtung	*[6]	
+4-3	236-242	Alfter	*[6]	
+4-4	243-247	wird	_	
+4-5	248-251	das	_	
+4-6	252-258	Schild	_	
+4-7	259-264	nicht	_	
+4-8	265-275	wiederholt	_	
+4-9	276-279	und	_	
+4-10	280-285	somit	_	
+4-11	286-291	endet	_	
+4-12	292-295	der	_	
+4-13	296-303	Radeweg	_	
+4-14	303-304	,	_	
+4-15	305-308	was	_	
+4-16	309-311	er	_	
+4-17	312-316	aber	_	
+4-18	317-326	definitiv	_	
+4-19	327-332	nicht	_	
+4-20	333-336	tut	_	
+4-21	336-337	,	_	
+4-22	338-341	was	_	
+4-23	342-345	die	_	
+4-24	346-359	Beschilderung	_	
+4-25	360-363	und	_	
+4-26	364-374	Wegführung	_	
+4-27	375-377	am	_	
+4-28	378-390	Kreisverkehr	_	
+4-29	391-397	danach	_	
+4-30	398-404	zeigen	_	
+4-31	404-405	.	_	

@@ -1,0 +1,153 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefahrenstelle durch Konvexspiegel entschärfen
+1-1	0-14	Gefahrenstelle	_	
+1-2	15-20	durch	_	
+1-3	21-34	Konvexspiegel	_	
+1-4	35-46	entschärfen	_	
+
+#Text=An der Simonstraße / Ecke links Bernhardstraße/rechts Julius Forster Straße gibt es eine Straßenkreuzung, die aus allen Richtungen miserabel einsehbar ist: Siehe https://goo.gl/EpqiDD und https://goo.gl/dDKYcn
+2-1	49-51	An	*[8]	
+2-2	52-55	der	*[8]	
+2-3	56-67	Simonstraße	*[8]	
+2-4	68-69	/	*[8]	
+2-5	70-74	Ecke	*[8]	
+2-6	75-80	links	*[8]	
+2-7	81-95	Bernhardstraße	*[8]	
+2-8	95-96	/	*[8]	
+2-9	96-102	rechts	*[8]	
+2-10	103-109	Julius	*[8]	
+2-11	110-117	Forster	*[8]	
+2-12	118-124	Straße	*[8]	
+2-13	125-129	gibt	_	
+2-14	130-132	es	_	
+2-15	133-137	eine	_	
+2-16	138-153	Straßenkreuzung	_	
+2-17	153-154	,	_	
+2-18	155-158	die	_	
+2-19	159-162	aus	_	
+2-20	163-168	allen	_	
+2-21	169-179	Richtungen	_	
+2-22	180-189	miserabel	_	
+2-23	190-199	einsehbar	_	
+2-24	200-203	ist	_	
+2-25	203-204	:	_	
+2-26	205-210	Siehe	_	
+2-27	211-216	https	_	
+2-28	216-217	:	_	
+2-29	217-218	/	_	
+2-30	218-219	/	_	
+2-31	219-225	goo.gl	_	
+2-32	225-226	/	_	
+2-33	226-232	EpqiDD	_	
+2-34	233-236	und	_	
+2-35	237-242	https	_	
+2-36	242-243	:	_	
+2-37	243-244	/	_	
+2-38	244-245	/	_	
+2-39	245-251	goo.gl	_	
+2-40	251-252	/	_	
+2-41	252-258	dDKYcn	_	
+
+#Text=Autos fahren hier häufig unangemessen schnell.
+3-1	259-264	Autos	_	
+3-2	265-271	fahren	_	
+3-3	272-276	hier	_	
+3-4	277-283	häufig	_	
+3-5	284-296	unangemessen	_	
+3-6	297-304	schnell	_	
+3-7	304-305	.	_	
+
+#Text=Die Bernhardstraße/Julius Forster Straße dient vielen Kindern zur Fahrt zu/von Grundschule sowie Rheinuferpendlern, um in der Simonstraße zum Rheinradweg herunter zu fahren.
+4-1	306-309	Die	*[9]	
+4-2	310-324	Bernhardstraße	*[9]	
+4-3	324-325	/	*[9]	
+4-4	325-331	Julius	*[9]	
+4-5	332-339	Forster	*[9]	
+4-6	340-346	Straße	*[9]	
+4-7	347-352	dient	_	
+4-8	353-359	vielen	_	
+4-9	360-367	Kindern	_	
+4-10	368-371	zur	_	
+4-11	372-377	Fahrt	_	
+4-12	378-380	zu	_	
+4-13	380-381	/	_	
+4-14	381-384	von	_	
+4-15	385-396	Grundschule	_	
+4-16	397-402	sowie	_	
+4-17	403-420	Rheinuferpendlern	_	
+4-18	420-421	,	_	
+4-19	422-424	um	_	
+4-20	425-427	in	*[10]	
+4-21	428-431	der	*[10]	
+4-22	432-443	Simonstraße	*[10]	
+4-23	444-447	zum	*[10]	
+4-24	448-459	Rheinradweg	*[10]	
+4-25	460-468	herunter	*[10]	
+4-26	469-471	zu	_	
+4-27	472-478	fahren	_	
+4-28	478-479	.	_	
+
+#Text=Zudem gibt es mittags, abends und am Wochenende Besucherverkehr über die Simonstraße zum Ausflugslokal [Firma] am Rhein.
+5-1	480-485	Zudem	_	
+5-2	486-490	gibt	_	
+5-3	491-493	es	_	
+5-4	494-501	mittags	_	
+5-5	501-502	,	_	
+5-6	503-509	abends	_	
+5-7	510-513	und	_	
+5-8	514-516	am	_	
+5-9	517-527	Wochenende	_	
+5-10	528-543	Besucherverkehr	_	
+5-11	544-548	über	*[11]	
+5-12	549-552	die	*[11]	
+5-13	553-564	Simonstraße	*[11]	
+5-14	565-568	zum	*[11]	
+5-15	569-582	Ausflugslokal	*[11]	
+5-16	583-584	[	*[11]	
+5-17	584-589	Firma	*[11]	
+5-18	589-590	]	*[11]	
+5-19	591-593	am	*[11]	
+5-20	594-599	Rhein	*[11]	
+5-21	599-600	.	_	
+
+#Text=Gegenüber dem Haus Simonstraße 20 muss am Straßenschild Simon Forster Straße ein Konvexspiegel montiert werden.
+6-1	601-610	Gegenüber	*[12]	
+6-2	611-614	dem	*[12]	
+6-3	615-619	Haus	*[12]	
+6-4	620-631	Simonstraße	*[12]	
+6-5	632-634	20	*[12]	
+6-6	635-639	muss	_	
+6-7	640-642	am	_	
+6-8	643-656	Straßenschild	_	
+6-9	657-662	Simon	_	
+6-10	663-670	Forster	_	
+6-11	671-677	Straße	_	
+6-12	678-681	ein	_	
+6-13	682-695	Konvexspiegel	_	
+6-14	696-704	montiert	_	
+6-15	705-711	werden	_	
+6-16	711-712	.	_	
+
+#Text=Konvexspiegel kommen in unübersichtlichen Knotenpunkten, Kurven oder Grundstücksausfahrten zur Anwendung und verbessern dort die Sichtverhältnisse.
+7-1	713-726	Konvexspiegel	_	
+7-2	727-733	kommen	_	
+7-3	734-736	in	_	
+7-4	737-754	unübersichtlichen	_	
+7-5	755-768	Knotenpunkten	_	
+7-6	768-769	,	_	
+7-7	770-776	Kurven	_	
+7-8	777-781	oder	_	
+7-9	782-803	Grundstücksausfahrten	_	
+7-10	804-807	zur	_	
+7-11	808-817	Anwendung	_	
+7-12	818-821	und	_	
+7-13	822-832	verbessern	_	
+7-14	833-837	dort	_	
+7-15	838-841	die	_	
+7-16	842-859	Sichtverhältnisse	_	
+7-17	859-860	.	_	

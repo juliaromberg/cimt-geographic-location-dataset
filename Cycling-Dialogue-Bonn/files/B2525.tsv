@@ -1,0 +1,256 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Falschparker blockieren die Sicht und die Durchfahrt für Kinder
+1-1	0-12	Falschparker	_	
+1-2	13-23	blockieren	_	
+1-3	24-27	die	_	
+1-4	28-33	Sicht	_	
+1-5	34-37	und	_	
+1-6	38-41	die	_	
+1-7	42-52	Durchfahrt	_	
+1-8	53-56	für	_	
+1-9	57-63	Kinder	_	
+
+#Text=Ab der Ecke Bonner Talweg/Lotharstraße blockieren ständig PKW, die bis an die Ecke parken (also über den Parkstreifen hinaus) die Sicht an der unhin schlecht einzusehende Ecke.
+2-1	66-68	Ab	*[11]	
+2-2	69-72	der	*[11]	
+2-3	73-77	Ecke	*[11]	
+2-4	78-84	Bonner	*[11]	
+2-5	85-91	Talweg	*[11]	
+2-6	91-92	/	*[11]	
+2-7	92-104	Lotharstraße	*[11]	
+2-8	105-115	blockieren	_	
+2-9	116-123	ständig	_	
+2-10	124-127	PKW	_	
+2-11	127-128	,	_	
+2-12	129-132	die	_	
+2-13	133-136	bis	_	
+2-14	137-139	an	_	
+2-15	140-143	die	_	
+2-16	144-148	Ecke	_	
+2-17	149-155	parken	_	
+2-18	156-157	(	_	
+2-19	157-161	also	_	
+2-20	162-166	über	_	
+2-21	167-170	den	_	
+2-22	171-183	Parkstreifen	_	
+2-23	184-190	hinaus	_	
+2-24	190-191	)	_	
+2-25	192-195	die	_	
+2-26	196-201	Sicht	_	
+2-27	202-204	an	_	
+2-28	205-208	der	_	
+2-29	209-214	unhin	_	
+2-30	215-223	schlecht	_	
+2-31	224-236	einzusehende	_	
+2-32	237-241	Ecke	_	
+2-33	241-242	.	_	
+
+#Text=Fährt man weiter über Bonner Talweg, Nikolaustraße bis zur Nikolausschule sind die häufig sehr schmalen Fußwege ständig durch parkende Fahrzeuge oder dauerabgestellte Motorräder blockiert.
+3-1	243-248	Fährt	_	
+3-2	249-252	man	_	
+3-3	253-259	weiter	_	
+3-4	260-264	über	*[12]	
+3-5	265-271	Bonner	*[12]	
+3-6	272-278	Talweg	*[12]	
+3-7	278-279	,	*[12]	
+3-8	280-293	Nikolaustraße	*[12]	
+3-9	294-297	bis	*[12]	
+3-10	298-301	zur	*[12]	
+3-11	302-316	Nikolausschule	*[12]	
+3-12	317-321	sind	_	
+3-13	322-325	die	_	
+3-14	326-332	häufig	_	
+3-15	333-337	sehr	_	
+3-16	338-346	schmalen	_	
+3-17	347-354	Fußwege	_	
+3-18	355-362	ständig	_	
+3-19	363-368	durch	_	
+3-20	369-377	parkende	_	
+3-21	378-387	Fahrzeuge	_	
+3-22	388-392	oder	_	
+3-23	393-409	dauerabgestellte	_	
+3-24	410-420	Motorräder	_	
+3-25	421-430	blockiert	_	
+3-26	430-431	.	_	
+
+#Text=Hinzu kommt das in der Weg häufig mit Brennesseln und Brombeeren überwuchert wird, so dass für Kinder der Grundschule kaum ein Durchkommen ist.
+4-1	432-437	Hinzu	_	
+4-2	438-443	kommt	_	
+4-3	444-447	das	_	
+4-4	448-450	in	_	
+4-5	451-454	der	_	
+4-6	455-458	Weg	_	
+4-7	459-465	häufig	_	
+4-8	466-469	mit	_	
+4-9	470-481	Brennesseln	_	
+4-10	482-485	und	_	
+4-11	486-496	Brombeeren	_	
+4-12	497-508	überwuchert	_	
+4-13	509-513	wird	_	
+4-14	513-514	,	_	
+4-15	515-517	so	_	
+4-16	518-522	dass	_	
+4-17	523-526	für	_	
+4-18	527-533	Kinder	_	
+4-19	534-537	der	_	
+4-20	538-549	Grundschule	_	
+4-21	550-554	kaum	_	
+4-22	555-558	ein	_	
+4-23	559-570	Durchkommen	_	
+4-24	571-574	ist	_	
+4-25	574-575	.	_	
+
+#Text=Da die Strecke aber gleichzeitig als Schleichweg für Autofahrer dient, um die Graf-Straufenberg-Straße und Hausdorffstraße zu umgehen, ist der Schulweg für Grundschüler ziemlich gefährlich.
+5-1	576-578	Da	_	
+5-2	579-582	die	_	
+5-3	583-590	Strecke	_	
+5-4	591-595	aber	_	
+5-5	596-608	gleichzeitig	_	
+5-6	609-612	als	_	
+5-7	613-624	Schleichweg	_	
+5-8	625-628	für	_	
+5-9	629-639	Autofahrer	_	
+5-10	640-645	dient	_	
+5-11	645-646	,	_	
+5-12	647-649	um	*[13]	
+5-13	650-653	die	*[13]	
+5-14	654-678	Graf-Straufenberg-Straße	*[13]	
+5-15	679-682	und	*[13]	
+5-16	683-698	Hausdorffstraße	*[13]	
+5-17	699-701	zu	*[13]	
+5-18	702-709	umgehen	*[13]	
+5-19	709-710	,	_	
+5-20	711-714	ist	_	
+5-21	715-718	der	_	
+5-22	719-727	Schulweg	_	
+5-23	728-731	für	_	
+5-24	732-744	Grundschüler	_	
+5-25	745-753	ziemlich	_	
+5-26	754-764	gefährlich	_	
+5-27	764-765	.	_	
+
+#Text=Ausweichen auf die andere Straßenseite ist wegen der unübersichtlichen Ecke Lotharstraße/Bonner Talweg und mangels Fußweg am Kriegerdenkmal auch keine bessere Alternative.
+6-1	766-776	Ausweichen	_	
+6-2	777-780	auf	_	
+6-3	781-784	die	_	
+6-4	785-791	andere	_	
+6-5	792-804	Straßenseite	_	
+6-6	805-808	ist	_	
+6-7	809-814	wegen	_	
+6-8	815-818	der	_	
+6-9	819-836	unübersichtlichen	_	
+6-10	837-841	Ecke	*[14]	
+6-11	842-854	Lotharstraße	*[14]	
+6-12	854-855	/	*[14]	
+6-13	855-861	Bonner	*[14]	
+6-14	862-868	Talweg	*[14]	
+6-15	869-872	und	_	
+6-16	873-880	mangels	_	
+6-17	881-887	Fußweg	_	
+6-18	888-890	am	*[15]	
+6-19	891-905	Kriegerdenkmal	*[15]	
+6-20	906-910	auch	_	
+6-21	911-916	keine	_	
+6-22	917-924	bessere	_	
+6-23	925-936	Alternative	_	
+6-24	936-937	.	_	
+
+#Text=Zudem fahren viele Autos vielzuschnell die Nikolausstraße runter und rauschen einfach über den Zebrastreifen hinweg, an dem so mancher Grundschüler morgens verzweifelt.
+7-1	938-943	Zudem	_	
+7-2	944-950	fahren	_	
+7-3	951-956	viele	_	
+7-4	957-962	Autos	_	
+7-5	963-976	vielzuschnell	_	
+7-6	977-980	die	*[16]	
+7-7	981-995	Nikolausstraße	*[16]	
+7-8	996-1002	runter	_	
+7-9	1003-1006	und	_	
+7-10	1007-1015	rauschen	_	
+7-11	1016-1023	einfach	_	
+7-12	1024-1028	über	_	
+7-13	1029-1032	den	_	
+7-14	1033-1046	Zebrastreifen	_	
+7-15	1047-1053	hinweg	_	
+7-16	1053-1054	,	_	
+7-17	1055-1057	an	_	
+7-18	1058-1061	dem	_	
+7-19	1062-1064	so	_	
+7-20	1065-1072	mancher	_	
+7-21	1073-1085	Grundschüler	_	
+7-22	1086-1093	morgens	_	
+7-23	1094-1105	verzweifelt	_	
+7-24	1105-1106	.	_	
+
+#Text=Durch die eng parkenden Autos ist die Stelle zwar auch schlecht einsehbar - dies sollte aber ein Grund mehr sein, die Geschwindigkeit zu reduzieren!
+8-1	1107-1112	Durch	_	
+8-2	1113-1116	die	_	
+8-3	1117-1120	eng	_	
+8-4	1121-1130	parkenden	_	
+8-5	1131-1136	Autos	_	
+8-6	1137-1140	ist	_	
+8-7	1141-1144	die	_	
+8-8	1145-1151	Stelle	_	
+8-9	1152-1156	zwar	_	
+8-10	1157-1161	auch	_	
+8-11	1162-1170	schlecht	_	
+8-12	1171-1180	einsehbar	_	
+8-13	1181-1182	-	_	
+8-14	1183-1187	dies	_	
+8-15	1188-1194	sollte	_	
+8-16	1195-1199	aber	_	
+8-17	1200-1203	ein	_	
+8-18	1204-1209	Grund	_	
+8-19	1210-1214	mehr	_	
+8-20	1215-1219	sein	_	
+8-21	1219-1220	,	_	
+8-22	1221-1224	die	_	
+8-23	1225-1240	Geschwindigkeit	_	
+8-24	1241-1243	zu	_	
+8-25	1244-1254	reduzieren	_	
+8-26	1254-1255	!	_	
+
+#Text=Der Bereich sollte mindestens in eine 30er Zoner umgewandelt werden, Falschparker abgeschleppt, und der Dorfpolizist morgens mal hier oben kontrollieren.
+9-1	1256-1259	Der	_	
+9-2	1260-1267	Bereich	_	
+9-3	1268-1274	sollte	_	
+9-4	1275-1285	mindestens	_	
+9-5	1286-1288	in	_	
+9-6	1289-1293	eine	_	
+9-7	1294-1298	30er	_	
+9-8	1299-1304	Zoner	_	
+9-9	1305-1316	umgewandelt	_	
+9-10	1317-1323	werden	_	
+9-11	1323-1324	,	_	
+9-12	1325-1337	Falschparker	_	
+9-13	1338-1350	abgeschleppt	_	
+9-14	1350-1351	,	_	
+9-15	1352-1355	und	_	
+9-16	1356-1359	der	_	
+9-17	1360-1372	Dorfpolizist	_	
+9-18	1373-1380	morgens	_	
+9-19	1381-1384	mal	_	
+9-20	1385-1389	hier	_	
+9-21	1390-1394	oben	_	
+9-22	1395-1408	kontrollieren	_	
+9-23	1408-1409	.	_	
+
+#Text=Noch besser wäre, den Durchgangsverkehr durch diese enge Dorfstraße komplett zu unterbinden!
+10-1	1410-1414	Noch	_	
+10-2	1415-1421	besser	_	
+10-3	1422-1426	wäre	_	
+10-4	1426-1427	,	_	
+10-5	1428-1431	den	_	
+10-6	1432-1449	Durchgangsverkehr	_	
+10-7	1450-1455	durch	_	
+10-8	1456-1461	diese	_	
+10-9	1462-1466	enge	_	
+10-10	1467-1477	Dorfstraße	*	
+10-11	1478-1486	komplett	_	
+10-12	1487-1489	zu	_	
+10-13	1490-1501	unterbinden	_	
+10-14	1501-1502	!	_	

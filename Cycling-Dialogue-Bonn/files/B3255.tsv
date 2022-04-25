@@ -1,0 +1,130 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreuzende Radwege
+1-1	0-9	Kreuzende	_	
+1-2	10-17	Radwege	_	
+
+#Text=Das man nicht über den Kreisel/Aral-Tankstelle in den Lievelingsweg sondern über die Dorotheen-/Riegelerstraße fahren soll, ist hier mit der Radwegeführung auf die Dorotheenstraße geregelt.
+2-1	20-23	Das	_	
+2-2	24-27	man	_	
+2-3	28-33	nicht	_	
+2-4	34-38	über	*[6]	
+2-5	39-42	den	*[6]	
+2-6	43-50	Kreisel	*[6]	
+2-7	50-51	/	*[6]	
+2-8	51-66	Aral-Tankstelle	*[6]	
+2-9	67-69	in	*[6]	
+2-10	70-73	den	*[6]	
+2-11	74-87	Lievelingsweg	*[6]	
+2-12	88-95	sondern	_	
+2-13	96-100	über	*[7]	
+2-14	101-104	die	*[7]	
+2-15	105-114	Dorotheen	*[7]	
+2-16	114-115	-	*[7]	
+2-17	115-116	/	*[7]	
+2-18	116-130	Riegelerstraße	*[7]	
+2-19	131-137	fahren	_	
+2-20	138-142	soll	_	
+2-21	142-143	,	_	
+2-22	144-147	ist	_	
+2-23	148-152	hier	_	
+2-24	153-156	mit	_	
+2-25	157-160	der	_	
+2-26	161-175	Radwegeführung	_	
+2-27	176-179	auf	*[8]	
+2-28	180-183	die	*[8]	
+2-29	184-199	Dorotheenstraße	*[8]	
+2-30	200-208	geregelt	_	
+2-31	208-209	.	_	
+
+#Text=Nur quert man hier gefährlich mit den Radfahrern die aus der Gegenrichtung kommen.
+3-1	210-213	Nur	_	
+3-2	214-219	quert	_	
+3-3	220-223	man	_	
+3-4	224-228	hier	_	
+3-5	229-239	gefährlich	_	
+3-6	240-243	mit	_	
+3-7	244-247	den	_	
+3-8	248-258	Radfahrern	_	
+3-9	259-262	die	_	
+3-10	263-266	aus	_	
+3-11	267-270	der	_	
+3-12	271-284	Gegenrichtung	_	
+3-13	285-291	kommen	_	
+3-14	291-292	.	_	
+
+#Text=Wenn man aus der Riegelerstraße in die Dorotheenstraße einfährt, so wird man an der nächsten Überquerungshilfe auf den gegenüberliegenden Gehweg geleitet und wenn man dann diesen benutzt, kreuzt man dann am Verteiler den anderen Radweg bei schlechter Sicht.
+4-1	293-297	Wenn	_	
+4-2	298-301	man	_	
+4-3	302-305	aus	*[9]	
+4-4	306-309	der	*[9]	
+4-5	310-324	Riegelerstraße	*[9]	
+4-6	325-327	in	*[9]	
+4-7	328-331	die	*[9]	
+4-8	332-347	Dorotheenstraße	*[9]	
+4-9	348-356	einfährt	_	
+4-10	356-357	,	_	
+4-11	358-360	so	_	
+4-12	361-365	wird	_	
+4-13	366-369	man	_	
+4-14	370-372	an	_	
+4-15	373-376	der	_	
+4-16	377-385	nächsten	_	
+4-17	386-403	Überquerungshilfe	_	
+4-18	404-407	auf	_	
+4-19	408-411	den	_	
+4-20	412-430	gegenüberliegenden	_	
+4-21	431-437	Gehweg	_	
+4-22	438-446	geleitet	_	
+4-23	447-450	und	_	
+4-24	451-455	wenn	_	
+4-25	456-459	man	_	
+4-26	460-464	dann	_	
+4-27	465-471	diesen	_	
+4-28	472-479	benutzt	_	
+4-29	479-480	,	_	
+4-30	481-487	kreuzt	_	
+4-31	488-491	man	_	
+4-32	492-496	dann	_	
+4-33	497-499	am	_	
+4-34	500-509	Verteiler	_	
+4-35	510-513	den	_	
+4-36	514-521	anderen	_	
+4-37	522-528	Radweg	_	
+4-38	529-532	bei	_	
+4-39	533-543	schlechter	_	
+4-40	544-549	Sicht	_	
+4-41	549-550	.	_	
+
+#Text=Besser wäre es die Radfahrer die aus der Dorotheenstraße kommen mit einer Radfahrerfurt kurz vor dem Verteiler auf die Straßenmitte zu leiten und abbiegen zu lassen.
+5-1	551-557	Besser	_	
+5-2	558-562	wäre	_	
+5-3	563-565	es	_	
+5-4	566-569	die	_	
+5-5	570-579	Radfahrer	_	
+5-6	580-583	die	_	
+5-7	584-587	aus	*[10]	
+5-8	588-591	der	*[10]	
+5-9	592-607	Dorotheenstraße	*[10]	
+5-10	608-614	kommen	_	
+5-11	615-618	mit	_	
+5-12	619-624	einer	_	
+5-13	625-638	Radfahrerfurt	_	
+5-14	639-643	kurz	_	
+5-15	644-647	vor	_	
+5-16	648-651	dem	_	
+5-17	652-661	Verteiler	_	
+5-18	662-665	auf	_	
+5-19	666-669	die	_	
+5-20	670-682	Straßenmitte	_	
+5-21	683-685	zu	_	
+5-22	686-692	leiten	_	
+5-23	693-696	und	_	
+5-24	697-705	abbiegen	_	
+5-25	706-708	zu	_	
+5-26	709-715	lassen	_	
+5-27	715-716	.	_	

@@ -1,0 +1,113 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreisverkehr Kreuzung Vogelsanger-/Leyendecker-/Helmholtzstraße
+1-1	0-12	Kreisverkehr	*[6]	
+1-2	13-21	Kreuzung	*[6]	
+1-3	22-33	Vogelsanger	*[6]	
+1-4	33-34	-	*[6]	
+1-5	34-35	/	*[6]	
+1-6	35-46	Leyendecker	*[6]	
+1-7	46-47	-	*[6]	
+1-8	47-48	/	*[6]	
+1-9	48-63	Helmholtzstraße	*[6]	
+
+#Text=Im Zuge der Bebauungsplanung für das ehemalige Jack-In-The-Box-Gelände sollte auch die Verkehrsführung an dieser Kreuzung geändert werden.
+2-1	66-68	Im	_	
+2-2	69-73	Zuge	_	
+2-3	74-77	der	_	
+2-4	78-94	Bebauungsplanung	_	
+2-5	95-98	für	_	
+2-6	99-102	das	*[7]	
+2-7	103-112	ehemalige	*[7]	
+2-8	113-136	Jack-In-The-Box-Gelände	*[7]	
+2-9	137-143	sollte	_	
+2-10	144-148	auch	_	
+2-11	149-152	die	_	
+2-12	153-168	Verkehrsführung	_	
+2-13	169-171	an	_	
+2-14	172-178	dieser	_	
+2-15	179-187	Kreuzung	_	
+2-16	188-196	geändert	_	
+2-17	197-203	werden	_	
+2-18	203-204	.	_	
+
+#Text=Die doppelte Linksabbiegerspur im Verlauf der Vogelsangerstraße stadtauswärts ist m. E. überflüssig und stellt für Radfahrer eine Gefährdung dar.
+3-1	205-208	Die	*[8]	
+3-2	209-217	doppelte	*[8]	
+3-3	218-235	Linksabbiegerspur	*[8]	
+3-4	236-238	im	*[8]	
+3-5	239-246	Verlauf	*[8]	
+3-6	247-250	der	*[8]	
+3-7	251-268	Vogelsangerstraße	*[8]	
+3-8	269-282	stadtauswärts	*[8]	
+3-9	283-286	ist	_	
+3-10	287-288	m	_	
+3-11	288-289	.	_	
+3-12	290-291	E	_	
+3-13	291-292	.	_	
+3-14	293-304	überflüssig	_	
+3-15	305-308	und	_	
+3-16	309-315	stellt	_	
+3-17	316-319	für	_	
+3-18	320-329	Radfahrer	_	
+3-19	330-334	eine	_	
+3-20	335-345	Gefährdung	_	
+3-21	346-349	dar	_	
+3-22	349-350	.	_	
+
+#Text=Ich schlage daher vor die unübersichtliche Ampelanlage an der Kreuzung Vogelsanger-/Leyendecker-/Helmhotzstraße durch eine Kreisverkehr zu ersetzen.
+4-1	351-354	Ich	_	
+4-2	355-362	schlage	_	
+4-3	363-368	daher	_	
+4-4	369-372	vor	_	
+4-5	373-376	die	_	
+4-6	377-393	unübersichtliche	_	
+4-7	394-405	Ampelanlage	_	
+4-8	406-408	an	*[9]	
+4-9	409-412	der	*[9]	
+4-10	413-421	Kreuzung	*[9]	
+4-11	422-433	Vogelsanger	*[9]	
+4-12	433-434	-	*[9]	
+4-13	434-435	/	*[9]	
+4-14	435-446	Leyendecker	*[9]	
+4-15	446-447	-	*[9]	
+4-16	447-448	/	*[9]	
+4-17	448-462	Helmhotzstraße	*[9]	
+4-18	463-468	durch	_	
+4-19	469-473	eine	_	
+4-20	474-486	Kreisverkehr	_	
+4-21	487-489	zu	_	
+4-22	490-498	ersetzen	_	
+4-23	498-499	.	_	
+
+#Text=Im weiteren Verlauf der Vogelsangerstraße in Richtung äußere Kanalstraße könnte durch Wegfall der 2. Fahrspur stadtauswärts Platz für Radwege in beide Fahrtrichtungen geschaffen werden.
+5-1	500-502	Im	*[10]	
+5-2	503-511	weiteren	*[10]	
+5-3	512-519	Verlauf	*[10]	
+5-4	520-523	der	*[10]	
+5-5	524-541	Vogelsangerstraße	*[10]	
+5-6	542-544	in	*[10]	
+5-7	545-553	Richtung	*[10]	
+5-8	554-560	äußere	*[10]	
+5-9	561-572	Kanalstraße	*[10]	
+5-10	573-579	könnte	_	
+5-11	580-585	durch	_	
+5-12	586-593	Wegfall	_	
+5-13	594-597	der	_	
+5-14	598-599	2	_	
+5-15	599-600	.	_	
+5-16	601-609	Fahrspur	_	
+5-17	610-623	stadtauswärts	_	
+5-18	624-629	Platz	_	
+5-19	630-633	für	_	
+5-20	634-641	Radwege	_	
+5-21	642-644	in	_	
+5-22	645-650	beide	_	
+5-23	651-666	Fahrtrichtungen	_	
+5-24	667-677	geschaffen	_	
+5-25	678-684	werden	_	
+5-26	684-685	.	_	

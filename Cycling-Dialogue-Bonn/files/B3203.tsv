@@ -1,0 +1,79 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg am Rhein beleuchten
+1-1	0-6	Radweg	_	
+1-2	7-9	am	_	
+1-3	10-15	Rhein	_	
+1-4	16-26	beleuchten	_	
+
+#Text=Der Radweg am Rhein von Godesberg nach Bonn durch die Rheinauen ist der Hauptradweg von Süd nach Nord bzw. umgekehrt aber abends und vor allem im Winter selbst zu den Hauptberufszeiten völlig dunkel.
+2-1	29-32	Der	*[6]	
+2-2	33-39	Radweg	*[6]	
+2-3	40-42	am	*[6]	
+2-4	43-48	Rhein	*[6]	
+2-5	49-52	von	*[6]	
+2-6	53-62	Godesberg	*[6]	
+2-7	63-67	nach	*[6]	
+2-8	68-72	Bonn	*[6]	
+2-9	73-78	durch	*[6]	
+2-10	79-82	die	*[6]	
+2-11	83-92	Rheinauen	*[6]	
+2-12	93-96	ist	_	
+2-13	97-100	der	_	
+2-14	101-112	Hauptradweg	_	
+2-15	113-116	von	_	
+2-16	117-120	Süd	_	
+2-17	121-125	nach	_	
+2-18	126-130	Nord	_	
+2-19	131-134	bzw	_	
+2-20	134-135	.	_	
+2-21	136-145	umgekehrt	_	
+2-22	146-150	aber	_	
+2-23	151-157	abends	_	
+2-24	158-161	und	_	
+2-25	162-165	vor	_	
+2-26	166-171	allem	_	
+2-27	172-174	im	_	
+2-28	175-181	Winter	_	
+2-29	182-188	selbst	_	
+2-30	189-191	zu	_	
+2-31	192-195	den	_	
+2-32	196-213	Hauptberufszeiten	_	
+2-33	214-220	völlig	_	
+2-34	221-227	dunkel	_	
+2-35	227-228	.	_	
+
+#Text=Unfallgefahr für Fußgänger und Radfahrer.
+3-1	229-241	Unfallgefahr	_	
+3-2	242-245	für	_	
+3-3	246-255	Fußgänger	_	
+3-4	256-259	und	_	
+3-5	260-269	Radfahrer	_	
+3-6	269-270	.	_	
+
+#Text=Angstraum für Frauen.
+4-1	271-280	Angstraum	_	
+4-2	281-284	für	_	
+4-3	285-291	Frauen	_	
+4-4	291-292	.	_	
+
+#Text=Vorschlag: Durchgängig beleuchten, zumindest zwischen 6 Uhr morgens und 22 Uhr abends.
+5-1	293-302	Vorschlag	_	
+5-2	302-303	:	_	
+5-3	304-315	Durchgängig	_	
+5-4	316-326	beleuchten	_	
+5-5	326-327	,	_	
+5-6	328-337	zumindest	_	
+5-7	338-346	zwischen	_	
+5-8	347-348	6	_	
+5-9	349-352	Uhr	_	
+5-10	353-360	morgens	_	
+5-11	361-364	und	_	
+5-12	365-367	22	_	
+5-13	368-371	Uhr	_	
+5-14	372-378	abends	_	
+5-15	378-379	.	_	

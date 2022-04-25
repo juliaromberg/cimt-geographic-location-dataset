@@ -1,0 +1,28 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Grünzeug behindert die Sicht
+1-1	0-8	Grünzeug	_	
+1-2	9-18	behindert	_	
+1-3	19-22	die	_	
+1-4	23-28	Sicht	_	
+
+#Text=Hier hängen Äste und Gestrüpp in den Fahrradweg und verhindern die Sicht auf Fussgänger.
+2-1	31-35	Hier	_	
+2-2	36-42	hängen	_	
+2-3	43-47	Äste	_	
+2-4	48-51	und	_	
+2-5	52-60	Gestrüpp	_	
+2-6	61-63	in	_	
+2-7	64-67	den	_	
+2-8	68-78	Fahrradweg	_	
+2-9	79-82	und	_	
+2-10	83-93	verhindern	_	
+2-11	94-97	die	_	
+2-12	98-103	Sicht	_	
+2-13	104-107	auf	_	
+2-14	108-118	Fussgänger	_	
+2-15	118-119	.	_	

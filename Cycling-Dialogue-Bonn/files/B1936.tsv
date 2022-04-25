@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Überquerung Reuterstraße
+1-1	0-11	Überquerung	*[4]	
+1-2	12-24	Reuterstraße	*[4]	
+
+#Text=Fahrradfahrer sollten geradeaus (ohne Benutzung der Fußgängerampeln) von der Schumannstr. (als Fahrradstr.) über die Reuterstr. in die Hausdorffstr. fahren können.
+2-1	27-40	Fahrradfahrer	_	
+2-2	41-48	sollten	_	
+2-3	49-58	geradeaus	_	
+2-4	59-60	(	_	
+2-5	60-64	ohne	_	
+2-6	65-74	Benutzung	_	
+2-7	75-78	der	_	
+2-8	79-94	Fußgängerampeln	_	
+2-9	94-95	)	_	
+2-10	96-99	von	*[5]	
+2-11	100-103	der	*[5]	
+2-12	104-115	Schumannstr	*[5]	
+2-13	115-116	.	*[5]	
+2-14	117-118	(	*[5]	
+2-15	118-121	als	*[5]	
+2-16	122-132	Fahrradstr	*[5]	
+2-17	132-133	.	*[5]	
+2-18	133-134	)	*[5]	
+2-19	135-139	über	*[5]	
+2-20	140-143	die	*[5]	
+2-21	144-153	Reuterstr	*[5]	
+2-22	153-154	.	*[5]	
+2-23	155-157	in	*[5]	
+2-24	158-161	die	*[5]	
+2-25	162-174	Hausdorffstr	*[5]	
+2-26	174-175	.	_	
+2-27	176-182	fahren	_	
+2-28	183-189	können	_	
+2-29	189-190	.	_	
+
+#Text=Die derzeitige Verkehrsführung ist eine Zumutung.
+3-1	191-194	Die	_	
+3-2	195-205	derzeitige	_	
+3-3	206-221	Verkehrsführung	_	
+3-4	222-225	ist	_	
+3-5	226-230	eine	_	
+3-6	231-239	Zumutung	_	
+3-7	239-240	.	_	

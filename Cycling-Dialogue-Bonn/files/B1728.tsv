@@ -1,0 +1,201 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradfahrer werden häufig von Rechtsabbiegern übersehen
+1-1	0-13	Fahrradfahrer	_	
+1-2	14-20	werden	_	
+1-3	21-27	häufig	_	
+1-4	28-31	von	_	
+1-5	32-47	Rechtsabbiegern	_	
+1-6	48-57	übersehen	_	
+
+#Text=Frongasse -> Auf dem Hügel.
+2-1	60-69	Frongasse	*[12]	
+2-2	70-71	-	*[12]	
+2-3	71-72	>	*[12]	
+2-4	73-76	Auf	*[12]	
+2-5	77-80	dem	*[12]	
+2-6	81-86	Hügel	*[12]	
+2-7	86-87	.	_	
+
+#Text=Es ist ein Fahrradstreifen, der auf den kombinierten Rad- und Fußweg führt, auf der Straße markiert.
+3-1	88-90	Es	_	
+3-2	91-94	ist	_	
+3-3	95-98	ein	_	
+3-4	99-114	Fahrradstreifen	_	
+3-5	114-115	,	_	
+3-6	116-119	der	_	
+3-7	120-123	auf	_	
+3-8	124-127	den	_	
+3-9	128-140	kombinierten	_	
+3-10	141-144	Rad	_	
+3-11	144-145	-	_	
+3-12	146-149	und	_	
+3-13	150-156	Fußweg	_	
+3-14	157-162	führt	_	
+3-15	162-163	,	_	
+3-16	164-167	auf	_	
+3-17	168-171	der	_	
+3-18	172-178	Straße	_	
+3-19	179-187	markiert	_	
+3-20	187-188	.	_	
+
+#Text=Rechtsabbieger in Richtung auf dem Hügel müssen Vorfahrt achten.
+4-1	189-203	Rechtsabbieger	_	
+4-2	204-206	in	_	
+4-3	207-215	Richtung	_	
+4-4	216-219	auf	_	
+4-5	220-223	dem	_	
+4-6	224-229	Hügel	_	
+4-7	230-236	müssen	_	
+4-8	237-245	Vorfahrt	_	
+4-9	246-252	achten	_	
+4-10	252-253	.	_	
+
+#Text=Leider werden Radfahrer hier häufig erst spät oder gar nicht wahrgenommen.
+5-1	254-260	Leider	_	
+5-2	261-267	werden	_	
+5-3	268-277	Radfahrer	_	
+5-4	278-282	hier	_	
+5-5	283-289	häufig	_	
+5-6	290-294	erst	_	
+5-7	295-299	spät	_	
+5-8	300-304	oder	_	
+5-9	305-308	gar	_	
+5-10	309-314	nicht	_	
+5-11	315-327	wahrgenommen	_	
+5-12	327-328	.	_	
+
+#Text=Als Sofortmaßnahme wäre hier ein Piktogramm auf der Fahrbahn sinnvoll, sodass ersichtlich ist, dass Fahrräder kreuzen und die Markierung auf der Fahrbahn nicht nur eine Sichtlinie ist.
+6-1	329-332	Als	_	
+6-2	333-347	Sofortmaßnahme	_	
+6-3	348-352	wäre	_	
+6-4	353-357	hier	_	
+6-5	358-361	ein	_	
+6-6	362-372	Piktogramm	_	
+6-7	373-376	auf	_	
+6-8	377-380	der	_	
+6-9	381-389	Fahrbahn	_	
+6-10	390-398	sinnvoll	_	
+6-11	398-399	,	_	
+6-12	400-406	sodass	_	
+6-13	407-418	ersichtlich	_	
+6-14	419-422	ist	_	
+6-15	422-423	,	_	
+6-16	424-428	dass	_	
+6-17	429-438	Fahrräder	_	
+6-18	439-446	kreuzen	_	
+6-19	447-450	und	_	
+6-20	451-454	die	_	
+6-21	455-465	Markierung	_	
+6-22	466-469	auf	_	
+6-23	470-473	der	_	
+6-24	474-482	Fahrbahn	_	
+6-25	483-488	nicht	_	
+6-26	489-492	nur	_	
+6-27	493-497	eine	_	
+6-28	498-508	Sichtlinie	_	
+6-29	509-512	ist	_	
+6-30	512-513	.	_	
+
+#Text=An dieser Stelle kommen außerdem Fahrräder aus Richtung Endenicher Ei auf dem Gehweg über den Zebrastreifen (vorher und nachher freigegebener Fußgängerweg) und fahren den Rechtsabbiegern von hinten ins Sichtfeld um auf die Warteinsel und dann auf den Gehweg auf dem Hermann-Wandersleb-Ring zu fahren.
+7-1	514-516	An	_	
+7-2	517-523	dieser	_	
+7-3	524-530	Stelle	_	
+7-4	531-537	kommen	_	
+7-5	538-546	außerdem	_	
+7-6	547-556	Fahrräder	_	
+7-7	557-560	aus	*[13]	
+7-8	561-569	Richtung	*[13]	
+7-9	570-580	Endenicher	*[13]	
+7-10	581-583	Ei	*[13]	
+7-11	584-587	auf	*[13]	
+7-12	588-591	dem	*[13]	
+7-13	592-598	Gehweg	*[13]	
+7-14	599-603	über	*[13]	
+7-15	604-607	den	*[13]	
+7-16	608-621	Zebrastreifen	*[13]	
+7-17	622-623	(	_	
+7-18	623-629	vorher	_	
+7-19	630-633	und	_	
+7-20	634-641	nachher	_	
+7-21	642-655	freigegebener	_	
+7-22	656-668	Fußgängerweg	_	
+7-23	668-669	)	_	
+7-24	670-673	und	_	
+7-25	674-680	fahren	_	
+7-26	681-684	den	_	
+7-27	685-700	Rechtsabbiegern	_	
+7-28	701-704	von	_	
+7-29	705-711	hinten	_	
+7-30	712-715	ins	_	
+7-31	716-725	Sichtfeld	_	
+7-32	726-728	um	_	
+7-33	729-732	auf	_	
+7-34	733-736	die	_	
+7-35	737-747	Warteinsel	_	
+7-36	748-751	und	_	
+7-37	752-756	dann	_	
+7-38	757-760	auf	*[14]	
+7-39	761-764	den	*[14]	
+7-40	765-771	Gehweg	*[14]	
+7-41	772-775	auf	*[14]	
+7-42	776-779	dem	*[14]	
+7-43	780-803	Hermann-Wandersleb-Ring	*[14]	
+7-44	804-806	zu	_	
+7-45	807-813	fahren	_	
+7-46	813-814	.	_	
+
+#Text=Dies ist stellt eine hohe Unfallgefahr dar.
+8-1	815-819	Dies	_	
+8-2	820-823	ist	_	
+8-3	824-830	stellt	_	
+8-4	831-835	eine	_	
+8-5	836-840	hohe	_	
+8-6	841-853	Unfallgefahr	_	
+8-7	854-857	dar	_	
+8-8	857-858	.	_	
+
+#Text=Zusätzlich ist die Warteinsel sehr eng.
+9-1	859-869	Zusätzlich	_	
+9-2	870-873	ist	_	
+9-3	874-877	die	_	
+9-4	878-888	Warteinsel	_	
+9-5	889-893	sehr	_	
+9-6	894-897	eng	_	
+9-7	897-898	.	_	
+
+#Text=Am sichersten wäre es für Radfahrer und Fußgänger den seperaten Rechtsabbieger zurückzubauen und rechtsabbiegende Autos an der Kreuzung abbiegen zulassen.
+10-1	899-901	Am	_	
+10-2	902-912	sichersten	_	
+10-3	913-917	wäre	_	
+10-4	918-920	es	_	
+10-5	921-924	für	_	
+10-6	925-934	Radfahrer	_	
+10-7	935-938	und	_	
+10-8	939-948	Fußgänger	_	
+10-9	949-952	den	_	
+10-10	953-962	seperaten	_	
+10-11	963-977	Rechtsabbieger	_	
+10-12	978-991	zurückzubauen	_	
+10-13	992-995	und	_	
+10-14	996-1012	rechtsabbiegende	_	
+10-15	1013-1018	Autos	_	
+10-16	1019-1021	an	_	
+10-17	1022-1025	der	_	
+10-18	1026-1034	Kreuzung	_	
+10-19	1035-1043	abbiegen	_	
+10-20	1044-1052	zulassen	_	
+10-21	1052-1053	.	_	
+
+#Text=Alternativ könnte eine Rechtsabbiegerampel installiert werden.
+11-1	1054-1064	Alternativ	_	
+11-2	1065-1071	könnte	_	
+11-3	1072-1076	eine	_	
+11-4	1077-1096	Rechtsabbiegerampel	_	
+11-5	1097-1108	installiert	_	
+11-6	1109-1115	werden	_	
+11-7	1115-1116	.	_	

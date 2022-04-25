@@ -1,0 +1,88 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Mehr Kontrollen gegen Falschparker auf Schutzstreifen in der Kölnstraße
+1-1	0-4	Mehr	_	
+1-2	5-15	Kontrollen	_	
+1-3	16-21	gegen	_	
+1-4	22-34	Falschparker	_	
+1-5	35-38	auf	_	
+1-6	39-53	Schutzstreifen	_	
+1-7	54-56	in	*[7]	
+1-8	57-60	der	*[7]	
+1-9	61-71	Kölnstraße	*[7]	
+
+#Text=Leider wird der Schutzstreifen in der Kölnstraße Richtung Bertha-von-Suttner-Platz gern als Pkw-Parkstreifen genutzt.
+2-1	74-80	Leider	_	
+2-2	81-85	wird	_	
+2-3	86-89	der	_	
+2-4	90-104	Schutzstreifen	_	
+2-5	105-107	in	*[8]	
+2-6	108-111	der	*[8]	
+2-7	112-122	Kölnstraße	*[8]	
+2-8	123-131	Richtung	*[8]	
+2-9	132-156	Bertha-von-Suttner-Platz	*[8]	
+2-10	157-161	gern	_	
+2-11	162-165	als	_	
+2-12	166-182	Pkw-Parkstreifen	_	
+2-13	183-190	genutzt	_	
+2-14	190-191	.	_	
+
+#Text=Radfahrer sind dann gezwungen, auf die Fahrbahn auszuweichen, was zu riskanten Situationen führen kann.
+3-1	192-201	Radfahrer	_	
+3-2	202-206	sind	_	
+3-3	207-211	dann	_	
+3-4	212-221	gezwungen	_	
+3-5	221-222	,	_	
+3-6	223-226	auf	_	
+3-7	227-230	die	_	
+3-8	231-239	Fahrbahn	_	
+3-9	240-252	auszuweichen	_	
+3-10	252-253	,	_	
+3-11	254-257	was	_	
+3-12	258-260	zu	_	
+3-13	261-270	riskanten	_	
+3-14	271-282	Situationen	_	
+3-15	283-289	führen	_	
+3-16	290-294	kann	_	
+3-17	294-295	.	_	
+
+#Text=Es wäre gut, wenn das Ordnungsamt diesen Abschnitt der Kölnstraße häufiger als bisher kontrollieren und konsequent Knöllchen für Falschparker auf dem Schutzstreifen verteilen würde.
+4-1	296-298	Es	_	
+4-2	299-303	wäre	_	
+4-3	304-307	gut	_	
+4-4	307-308	,	_	
+4-5	309-313	wenn	_	
+4-6	314-317	das	_	
+4-7	318-329	Ordnungsamt	_	
+4-8	330-336	diesen	_	
+4-9	337-346	Abschnitt	_	
+4-10	347-350	der	_	
+4-11	351-361	Kölnstraße	*	
+4-12	362-370	häufiger	_	
+4-13	371-374	als	_	
+4-14	375-381	bisher	_	
+4-15	382-395	kontrollieren	_	
+4-16	396-399	und	_	
+4-17	400-410	konsequent	_	
+4-18	411-420	Knöllchen	_	
+4-19	421-424	für	_	
+4-20	425-437	Falschparker	_	
+4-21	438-441	auf	_	
+4-22	442-445	dem	_	
+4-23	446-460	Schutzstreifen	_	
+4-24	461-470	verteilen	_	
+4-25	471-476	würde	_	
+4-26	476-477	.	_	
+
+#Text=Danke!
+5-1	478-483	Danke	_	
+5-2	483-484	!	_	
+
+#Text=:-)
+6-1	485-486	:	_	
+6-2	486-487	-	_	
+6-3	487-488	)	_	

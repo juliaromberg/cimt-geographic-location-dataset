@@ -1,0 +1,135 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wer fährt zuerst in den Kreisverkehr?
+1-1	0-3	Wer	_	
+1-2	4-9	fährt	_	
+1-3	10-16	zuerst	_	
+1-4	17-19	in	_	
+1-5	20-23	den	_	
+1-6	24-36	Kreisverkehr	_	
+1-7	36-37	?	_	
+
+#Text=An dieser Stelle warten oft ein Radfahrer auf dem Schutzstreifen und neben ihm ein PKW auf Einfahrt in den Kreisverkehr.
+2-1	40-42	An	_	
+2-2	43-49	dieser	_	
+2-3	50-56	Stelle	_	
+2-4	57-63	warten	_	
+2-5	64-67	oft	_	
+2-6	68-71	ein	_	
+2-7	72-81	Radfahrer	_	
+2-8	82-85	auf	_	
+2-9	86-89	dem	_	
+2-10	90-104	Schutzstreifen	_	
+2-11	105-108	und	_	
+2-12	109-114	neben	_	
+2-13	115-118	ihm	_	
+2-14	119-122	ein	_	
+2-15	123-126	PKW	_	
+2-16	127-130	auf	_	
+2-17	131-139	Einfahrt	_	
+2-18	140-142	in	_	
+2-19	143-146	den	_	
+2-20	147-159	Kreisverkehr	_	
+2-21	159-160	.	_	
+
+#Text=Sobald jener frei ist, beginnt die Fragestunde:
+3-1	161-167	Sobald	_	
+3-2	168-173	jener	_	
+3-3	174-178	frei	_	
+3-4	179-182	ist	_	
+3-5	182-183	,	_	
+3-6	184-191	beginnt	_	
+3-7	192-195	die	_	
+3-8	196-207	Fragestunde	_	
+3-9	207-208	:	_	
+
+#Text=Wer fährt zuerst rein?
+4-1	209-212	Wer	_	
+4-2	213-218	fährt	_	
+4-3	219-225	zuerst	_	
+4-4	226-230	rein	_	
+4-5	230-231	?	_	
+
+#Text=Hat der PKW mich überhaupt schon gesehen?
+5-1	232-235	Hat	_	
+5-2	236-239	der	_	
+5-3	240-243	PKW	_	
+5-4	244-248	mich	_	
+5-5	249-258	überhaupt	_	
+5-6	259-264	schon	_	
+5-7	265-272	gesehen	_	
+5-8	272-273	?	_	
+
+#Text=Gefährliches gleichzeitiges Einfahren oder das Gegenteil, jeder wartet auf den jeweils anderen, kommen dadurch häufig vor.
+6-1	274-286	Gefährliches	_	
+6-2	287-301	gleichzeitiges	_	
+6-3	302-311	Einfahren	_	
+6-4	312-316	oder	_	
+6-5	317-320	das	_	
+6-6	321-330	Gegenteil	_	
+6-7	330-331	,	_	
+6-8	332-337	jeder	_	
+6-9	338-344	wartet	_	
+6-10	345-348	auf	_	
+6-11	349-352	den	_	
+6-12	353-360	jeweils	_	
+6-13	361-368	anderen	_	
+6-14	368-369	,	_	
+6-15	370-376	kommen	_	
+6-16	377-384	dadurch	_	
+6-17	385-391	häufig	_	
+6-18	392-395	vor	_	
+6-19	395-396	.	_	
+
+#Text=Lösung: Etwa 1 m vor dem Kreisel wird eine Wartelinie für Kfz aufgezeichnet, während der Radfahrer weiterhin auf dem Schutzstreifen bis an den Kreisel ranfahren kann.
+7-1	397-403	Lösung	_	
+7-2	403-404	:	_	
+7-3	405-409	Etwa	_	
+7-4	410-411	1	_	
+7-5	412-413	m	_	
+7-6	414-417	vor	_	
+7-7	418-421	dem	_	
+7-8	422-429	Kreisel	_	
+7-9	430-434	wird	_	
+7-10	435-439	eine	_	
+7-11	440-450	Wartelinie	_	
+7-12	451-454	für	_	
+7-13	455-458	Kfz	_	
+7-14	459-472	aufgezeichnet	_	
+7-15	472-473	,	_	
+7-16	474-481	während	_	
+7-17	482-485	der	_	
+7-18	486-495	Radfahrer	_	
+7-19	496-505	weiterhin	_	
+7-20	506-509	auf	_	
+7-21	510-513	dem	_	
+7-22	514-528	Schutzstreifen	_	
+7-23	529-532	bis	_	
+7-24	533-535	an	_	
+7-25	536-539	den	_	
+7-26	540-547	Kreisel	_	
+7-27	548-557	ranfahren	_	
+7-28	558-562	kann	_	
+7-29	562-563	.	_	
+
+#Text=Dadurch ist klar, dass das Rad zuerst reinfährt und es wird auch besser gesehen.
+8-1	564-571	Dadurch	_	
+8-2	572-575	ist	_	
+8-3	576-580	klar	_	
+8-4	580-581	,	_	
+8-5	582-586	dass	_	
+8-6	587-590	das	_	
+8-7	591-594	Rad	_	
+8-8	595-601	zuerst	_	
+8-9	602-611	reinfährt	_	
+8-10	612-615	und	_	
+8-11	616-618	es	_	
+8-12	619-623	wird	_	
+8-13	624-628	auch	_	
+8-14	629-635	besser	_	
+8-15	636-643	gesehen	_	
+8-16	643-644	.	_	

@@ -1,0 +1,104 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Glasmüllcontainer sollte versetzt werden
+1-1	0-17	Glasmüllcontainer	_	
+1-2	18-24	sollte	_	
+1-3	25-33	versetzt	_	
+1-4	34-40	werden	_	
+
+#Text=Das Stück Neustraße neben dem Betriebshof der [Firma] wird hauptsächlich von Radfahrern und Fußgängern benutzt.
+2-1	43-46	Das	_	
+2-2	47-52	Stück	_	
+2-3	53-62	Neustraße	*	
+2-4	63-68	neben	_	
+2-5	69-72	dem	_	
+2-6	73-84	Betriebshof	_	
+2-7	85-88	der	_	
+2-8	89-90	[	_	
+2-9	90-95	Firma	_	
+2-10	95-96	]	_	
+2-11	97-101	wird	_	
+2-12	102-115	hauptsächlich	_	
+2-13	116-119	von	_	
+2-14	120-130	Radfahrern	_	
+2-15	131-134	und	_	
+2-16	135-145	Fußgängern	_	
+2-17	146-153	benutzt	_	
+2-18	153-154	.	_	
+
+#Text=Er ist schlecht ausgeleuchtet und oft zugemüllt (wilder Sperrmüll, [Firma]-Abfälle).
+3-1	155-157	Er	_	
+3-2	158-161	ist	_	
+3-3	162-170	schlecht	_	
+3-4	171-184	ausgeleuchtet	_	
+3-5	185-188	und	_	
+3-6	189-192	oft	_	
+3-7	193-202	zugemüllt	_	
+3-8	203-204	(	_	
+3-9	204-210	wilder	_	
+3-10	211-220	Sperrmüll	_	
+3-11	220-221	,	_	
+3-12	222-223	[	_	
+3-13	223-228	Firma	_	
+3-14	228-229	]	_	
+3-15	229-230	-	_	
+3-16	230-237	Abfälle	_	
+3-17	237-238	)	_	
+3-18	238-239	.	_	
+
+#Text=Vor allem lästig für Radfahrer ist die regelmäßige Gefährdung der Reifen durch Glassplitter, die entweder mitten auf der Straße von zerschmissenen Bierflaschen herrühren, oder eben vor den Glasmüllcontainern durch unvorsichtige Recycler verursacht werden.
+4-1	240-243	Vor	_	
+4-2	244-249	allem	_	
+4-3	250-256	lästig	_	
+4-4	257-260	für	_	
+4-5	261-270	Radfahrer	_	
+4-6	271-274	ist	_	
+4-7	275-278	die	_	
+4-8	279-290	regelmäßige	_	
+4-9	291-301	Gefährdung	_	
+4-10	302-305	der	_	
+4-11	306-312	Reifen	_	
+4-12	313-318	durch	_	
+4-13	319-331	Glassplitter	_	
+4-14	331-332	,	_	
+4-15	333-336	die	_	
+4-16	337-345	entweder	_	
+4-17	346-352	mitten	_	
+4-18	353-356	auf	_	
+4-19	357-360	der	_	
+4-20	361-367	Straße	_	
+4-21	368-371	von	_	
+4-22	372-386	zerschmissenen	_	
+4-23	387-399	Bierflaschen	_	
+4-24	400-409	herrühren	_	
+4-25	409-410	,	_	
+4-26	411-415	oder	_	
+4-27	416-420	eben	_	
+4-28	421-424	vor	_	
+4-29	425-428	den	_	
+4-30	429-447	Glasmüllcontainern	_	
+4-31	448-453	durch	_	
+4-32	454-467	unvorsichtige	_	
+4-33	468-476	Recycler	_	
+4-34	477-487	verursacht	_	
+4-35	488-494	werden	_	
+4-36	494-495	.	_	
+
+#Text=Vielleicht könnte man den Glascontainer verrücken, z.B. in die Ringstraße?
+5-1	496-506	Vielleicht	_	
+5-2	507-513	könnte	_	
+5-3	514-517	man	_	
+5-4	518-521	den	_	
+5-5	522-535	Glascontainer	_	
+5-6	536-545	verrücken	_	
+5-7	545-546	,	_	
+5-8	547-550	z.B	_	
+5-9	550-551	.	_	
+5-10	552-554	in	*[6]	
+5-11	555-558	die	*[6]	
+5-12	559-569	Ringstraße	*[6]	
+5-13	569-570	?	_	

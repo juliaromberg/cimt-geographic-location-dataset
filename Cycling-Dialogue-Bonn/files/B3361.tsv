@@ -1,0 +1,172 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstadtplan und Beschilderung
+1-1	0-16	Fahrradstadtplan	_	
+1-2	17-20	und	_	
+1-3	21-34	Beschilderung	_	
+
+#Text=Ich würde mir eine umfangreichere Beschilderung zu den Ortsteilen und wichtigen Zielen wünschen.
+2-1	37-40	Ich	_	
+2-2	41-46	würde	_	
+2-3	47-50	mir	_	
+2-4	51-55	eine	_	
+2-5	56-70	umfangreichere	_	
+2-6	71-84	Beschilderung	_	
+2-7	85-87	zu	_	
+2-8	88-91	den	_	
+2-9	92-102	Ortsteilen	_	
+2-10	103-106	und	_	
+2-11	107-116	wichtigen	_	
+2-12	117-123	Zielen	_	
+2-13	124-132	wünschen	_	
+2-14	132-133	.	_	
+
+#Text=In anderen Städten kann man so häufig über die beste fahrradfreundlichste Route an sein Ziel kommen, also wieso nicht auch hier!?
+3-1	134-136	In	_	
+3-2	137-144	anderen	_	
+3-3	145-152	Städten	_	
+3-4	153-157	kann	_	
+3-5	158-161	man	_	
+3-6	162-164	so	_	
+3-7	165-171	häufig	_	
+3-8	172-176	über	_	
+3-9	177-180	die	_	
+3-10	181-186	beste	_	
+3-11	187-207	fahrradfreundlichste	_	
+3-12	208-213	Route	_	
+3-13	214-216	an	_	
+3-14	217-221	sein	_	
+3-15	222-226	Ziel	_	
+3-16	227-233	kommen	_	
+3-17	233-234	,	_	
+3-18	235-239	also	_	
+3-19	240-245	wieso	_	
+3-20	246-251	nicht	_	
+3-21	252-256	auch	_	
+3-22	257-261	hier	_	
+3-23	261-262	!	_	
+3-24	262-263	?	_	
+
+#Text=Auch für den Tourismus wäre das förderlich.
+4-1	264-268	Auch	_	
+4-2	269-272	für	_	
+4-3	273-276	den	_	
+4-4	277-286	Tourismus	_	
+4-5	287-291	wäre	_	
+4-6	292-295	das	_	
+4-7	296-306	förderlich	_	
+4-8	306-307	.	_	
+
+#Text=In Ansätzen sind die kleinen roten Schilder ja auch schon hier aufgestellt, allerdings so mager, dass man sich kaum daran orientieren kann.
+5-1	308-310	In	_	
+5-2	311-319	Ansätzen	_	
+5-3	320-324	sind	_	
+5-4	325-328	die	_	
+5-5	329-336	kleinen	_	
+5-6	337-342	roten	_	
+5-7	343-351	Schilder	_	
+5-8	352-354	ja	_	
+5-9	355-359	auch	_	
+5-10	360-365	schon	_	
+5-11	366-370	hier	_	
+5-12	371-382	aufgestellt	_	
+5-13	382-383	,	_	
+5-14	384-394	allerdings	_	
+5-15	395-397	so	_	
+5-16	398-403	mager	_	
+5-17	403-404	,	_	
+5-18	405-409	dass	_	
+5-19	410-413	man	_	
+5-20	414-418	sich	_	
+5-21	419-423	kaum	_	
+5-22	424-429	daran	_	
+5-23	430-441	orientieren	_	
+5-24	442-446	kann	_	
+5-25	446-447	.	_	
+
+#Text=Zusätzlich hätte ich gerne einen kostenlosen oder zumindest sehr günstigen Fahrradstadtplan, sodass ich nicht erst selbst alle schlechten Routen abfahren muss bevor ich das geringere Übel für den Radfahrer entdeckt habe.
+6-1	448-458	Zusätzlich	_	
+6-2	459-464	hätte	_	
+6-3	465-468	ich	_	
+6-4	469-474	gerne	_	
+6-5	475-480	einen	_	
+6-6	481-492	kostenlosen	_	
+6-7	493-497	oder	_	
+6-8	498-507	zumindest	_	
+6-9	508-512	sehr	_	
+6-10	513-522	günstigen	_	
+6-11	523-539	Fahrradstadtplan	_	
+6-12	539-540	,	_	
+6-13	541-547	sodass	_	
+6-14	548-551	ich	_	
+6-15	552-557	nicht	_	
+6-16	558-562	erst	_	
+6-17	563-569	selbst	_	
+6-18	570-574	alle	_	
+6-19	575-585	schlechten	_	
+6-20	586-592	Routen	_	
+6-21	593-601	abfahren	_	
+6-22	602-606	muss	_	
+6-23	607-612	bevor	_	
+6-24	613-616	ich	_	
+6-25	617-620	das	_	
+6-26	621-630	geringere	_	
+6-27	631-635	Übel	_	
+6-28	636-639	für	_	
+6-29	640-643	den	_	
+6-30	644-653	Radfahrer	_	
+6-31	654-662	entdeckt	_	
+6-32	663-667	habe	_	
+6-33	667-668	.	_	
+
+#Text=Ein Beispiel wäre da der kostenlose Fahrradstadtplan der Stadt München.
+7-1	669-672	Ein	_	
+7-2	673-681	Beispiel	_	
+7-3	682-686	wäre	_	
+7-4	687-689	da	_	
+7-5	690-693	der	_	
+7-6	694-704	kostenlose	_	
+7-7	705-721	Fahrradstadtplan	_	
+7-8	722-725	der	_	
+7-9	726-731	Stadt	_	
+7-10	732-739	München	_	
+7-11	739-740	.	_	
+
+#Text=Die Straßen sind in Kategorien unterteilt (30-Zone, qualifizierter Radweg, beschilderte Routen).
+8-1	741-744	Die	_	
+8-2	745-752	Straßen	_	
+8-3	753-757	sind	_	
+8-4	758-760	in	_	
+8-5	761-771	Kategorien	_	
+8-6	772-782	unterteilt	_	
+8-7	783-784	(	_	
+8-8	784-786	30	_	
+8-9	786-787	-	_	
+8-10	787-791	Zone	_	
+8-11	791-792	,	_	
+8-12	793-807	qualifizierter	_	
+8-13	808-814	Radweg	_	
+8-14	814-815	,	_	
+8-15	816-828	beschilderte	_	
+8-16	829-835	Routen	_	
+8-17	835-836	)	_	
+8-18	836-837	.	_	
+
+#Text=Anhand der Kategorien kann man genau planen wo man lang fahren möchte.
+9-1	838-844	Anhand	_	
+9-2	845-848	der	_	
+9-3	849-859	Kategorien	_	
+9-4	860-864	kann	_	
+9-5	865-868	man	_	
+9-6	869-874	genau	_	
+9-7	875-881	planen	_	
+9-8	882-884	wo	_	
+9-9	885-888	man	_	
+9-10	889-893	lang	_	
+9-11	894-900	fahren	_	
+9-12	901-907	möchte	_	
+9-13	907-908	.	_	

@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unterführung Königstraße
+1-1	0-12	Unterführung	*[4]	
+1-2	13-24	Königstraße	*[4]	
+
+#Text=Mit einem Spiegel wird die Durchfahrt durch die Unterführung sicherer, weil dann Entgegenkommende sichtbar sind.
+2-1	27-30	Mit	_	
+2-2	31-36	einem	_	
+2-3	37-44	Spiegel	_	
+2-4	45-49	wird	_	
+2-5	50-53	die	_	
+2-6	54-64	Durchfahrt	_	
+2-7	65-70	durch	_	
+2-8	71-74	die	_	
+2-9	75-87	Unterführung	_	
+2-10	88-96	sicherer	_	
+2-11	96-97	,	_	
+2-12	98-102	weil	_	
+2-13	103-107	dann	_	
+2-14	108-124	Entgegenkommende	_	
+2-15	125-133	sichtbar	_	
+2-16	134-138	sind	_	
+2-17	138-139	.	_	
+
+#Text=Das schlage ich jedes Jahr vor, warum geht das nicht?
+3-1	140-143	Das	_	
+3-2	144-151	schlage	_	
+3-3	152-155	ich	_	
+3-4	156-161	jedes	_	
+3-5	162-166	Jahr	_	
+3-6	167-170	vor	_	
+3-7	170-171	,	_	
+3-8	172-177	warum	_	
+3-9	178-182	geht	_	
+3-10	183-186	das	_	
+3-11	187-192	nicht	_	
+3-12	192-193	?	_	

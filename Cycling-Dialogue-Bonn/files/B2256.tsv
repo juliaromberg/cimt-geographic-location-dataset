@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Durchgängige Verbindung (Fahrradstraße) von der Kaiserstraße zur Rabinstraße über die Maximilianstraße.
+1-1	0-12	Durchgängige	_	
+1-2	13-23	Verbindung	_	
+1-3	24-25	(	_	
+1-4	25-38	Fahrradstraße	_	
+1-5	38-39	)	_	
+1-6	40-43	von	*[3]	
+1-7	44-47	der	*[3]	
+1-8	48-60	Kaiserstraße	*[3]	
+1-9	61-64	zur	*[3]	
+1-10	65-76	Rabinstraße	*[3]	
+1-11	77-81	über	*[3]	
+1-12	82-85	die	*[3]	
+1-13	86-102	Maximilianstraße	*[3]	
+1-14	102-103	.	_	
+
+#Text=Deutliche Trennung von den Fußgängern durch Bordsteinkanten
+2-1	104-113	Deutliche	_	
+2-2	114-122	Trennung	_	
+2-3	123-126	von	_	
+2-4	127-130	den	_	
+2-5	131-141	Fußgängern	_	
+2-6	142-147	durch	_	
+2-7	148-163	Bordsteinkanten	_	

@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schiebemöglichkeit für Räder über Fußgängerbrücke schaffen
+1-1	0-18	Schiebemöglichkeit	_	
+1-2	19-22	für	_	
+1-3	23-28	Räder	_	
+1-4	29-33	über	_	
+1-5	34-49	Fußgängerbrücke	_	
+1-6	50-58	schaffen	_	
+
+#Text=Quert man mit dem Fahrrad die Bahngleise über die Fußgängerbrücke am Straßburger Weg, muss man sein Fahrrad komplett hoch und wieder runtertragen.
+2-1	61-66	Quert	_	
+2-2	67-70	man	_	
+2-3	71-74	mit	_	
+2-4	75-78	dem	_	
+2-5	79-86	Fahrrad	_	
+2-6	87-90	die	*[5]	
+2-7	91-101	Bahngleise	*[5]	
+2-8	102-106	über	*[5]	
+2-9	107-110	die	*[5]	
+2-10	111-126	Fußgängerbrücke	*[5]	
+2-11	127-129	am	*[5]	
+2-12	130-141	Straßburger	*[5]	
+2-13	142-145	Weg	*[5]	
+2-14	145-146	,	_	
+2-15	147-151	muss	_	
+2-16	152-155	man	_	
+2-17	156-160	sein	_	
+2-18	161-168	Fahrrad	_	
+2-19	169-177	komplett	_	
+2-20	178-182	hoch	_	
+2-21	183-186	und	_	
+2-22	187-193	wieder	_	
+2-23	194-206	runtertragen	_	
+2-24	206-207	.	_	
+
+#Text=Eine Rinne o.ä., in der man sein Fahrrad führen könnte ,wäre eine große Hilfe.
+3-1	208-212	Eine	_	
+3-2	213-218	Rinne	_	
+3-3	219-222	o.ä	_	
+3-4	222-223	.	_	
+3-5	223-224	,	_	
+3-6	225-227	in	_	
+3-7	228-231	der	_	
+3-8	232-235	man	_	
+3-9	236-240	sein	_	
+3-10	241-248	Fahrrad	_	
+3-11	249-255	führen	_	
+3-12	256-262	könnte	_	
+3-13	263-264	,	_	
+3-14	264-268	wäre	_	
+3-15	269-273	eine	_	
+3-16	274-279	große	_	
+3-17	280-285	Hilfe	_	
+3-18	285-286	.	_	
+
+#Text=Dann müsste man sein Rad nur schieben aber nicht tragen.
+4-1	287-291	Dann	_	
+4-2	292-298	müsste	_	
+4-3	299-302	man	_	
+4-4	303-307	sein	_	
+4-5	308-311	Rad	_	
+4-6	312-315	nur	_	
+4-7	316-324	schieben	_	
+4-8	325-329	aber	_	
+4-9	330-335	nicht	_	
+4-10	336-342	tragen	_	
+4-11	342-343	.	_	

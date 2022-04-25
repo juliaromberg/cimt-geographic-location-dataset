@@ -1,0 +1,99 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Breite Heinemannstraße zurückbaten!
+1-1	0-6	Breite	_	
+1-2	7-22	Heinemannstraße	*	
+1-3	23-34	zurückbaten	_	
+1-4	34-35	!	_	
+
+#Text=Auf dem Weg vom Robert-Schuman-Platz zu den Kreuzbauten - mit vielen Beschäftigten, die mit Fahrrad kommen sollten! - muss die überbreite Heinemannstraße gequert werden: Zwar gibt es auf ihr nur wenig Verkehr - warum ist dann die Straße so überbreit!? -, aber die Autos fahren gerade deshalb ziemlich schnell, so dass die Querung unangenehm bis gefährlich ist.
+2-1	38-41	Auf	_	
+2-2	42-45	dem	_	
+2-3	46-49	Weg	_	
+2-4	50-53	vom	*[4]	
+2-5	54-74	Robert-Schuman-Platz	*[4]	
+2-6	75-77	zu	*[4]	
+2-7	78-81	den	*[4]	
+2-8	82-93	Kreuzbauten	*[4]	
+2-9	94-95	-	_	
+2-10	96-99	mit	_	
+2-11	100-106	vielen	_	
+2-12	107-120	Beschäftigten	_	
+2-13	120-121	,	_	
+2-14	122-125	die	_	
+2-15	126-129	mit	_	
+2-16	130-137	Fahrrad	_	
+2-17	138-144	kommen	_	
+2-18	145-152	sollten	_	
+2-19	152-153	!	_	
+2-20	154-155	-	_	
+2-21	156-160	muss	_	
+2-22	161-164	die	_	
+2-23	165-175	überbreite	_	
+2-24	176-191	Heinemannstraße	*	
+2-25	192-199	gequert	_	
+2-26	200-206	werden	_	
+2-27	206-207	:	_	
+2-28	208-212	Zwar	_	
+2-29	213-217	gibt	_	
+2-30	218-220	es	_	
+2-31	221-224	auf	_	
+2-32	225-228	ihr	_	
+2-33	229-232	nur	_	
+2-34	233-238	wenig	_	
+2-35	239-246	Verkehr	_	
+2-36	247-248	-	_	
+2-37	249-254	warum	_	
+2-38	255-258	ist	_	
+2-39	259-263	dann	_	
+2-40	264-267	die	_	
+2-41	268-274	Straße	_	
+2-42	275-277	so	_	
+2-43	278-287	überbreit	_	
+2-44	287-288	!	_	
+2-45	288-289	?	_	
+2-46	290-291	-	_	
+2-47	291-292	,	_	
+2-48	293-297	aber	_	
+2-49	298-301	die	_	
+2-50	302-307	Autos	_	
+2-51	308-314	fahren	_	
+2-52	315-321	gerade	_	
+2-53	322-329	deshalb	_	
+2-54	330-338	ziemlich	_	
+2-55	339-346	schnell	_	
+2-56	346-347	,	_	
+2-57	348-350	so	_	
+2-58	351-355	dass	_	
+2-59	356-359	die	_	
+2-60	360-367	Querung	_	
+2-61	368-378	unangenehm	_	
+2-62	379-382	bis	_	
+2-63	383-393	gefährlich	_	
+2-64	394-397	ist	_	
+2-65	397-398	.	_	
+
+#Text=Verbesserungsvorschlag: Rückbau der Heinemannstraße, auch zugunsten von besseren Radwegen; Verkehrsinseln auch für Radfahrer nutzbar machen.
+3-1	399-421	Verbesserungsvorschlag	_	
+3-2	421-422	:	_	
+3-3	423-430	Rückbau	_	
+3-4	431-434	der	_	
+3-5	435-450	Heinemannstraße	*	
+3-6	450-451	,	_	
+3-7	452-456	auch	_	
+3-8	457-466	zugunsten	_	
+3-9	467-470	von	_	
+3-10	471-479	besseren	_	
+3-11	480-488	Radwegen	_	
+3-12	488-489	;	_	
+3-13	490-504	Verkehrsinseln	_	
+3-14	505-509	auch	_	
+3-15	510-513	für	_	
+3-16	514-523	Radfahrer	_	
+3-17	524-531	nutzbar	_	
+3-18	532-538	machen	_	
+3-19	538-539	.	_	

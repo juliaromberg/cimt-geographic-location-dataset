@@ -1,0 +1,159 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Überdachte Fahrradständer
+1-1	0-10	Überdachte	_	
+1-2	11-25	Fahrradständer	_	
+
+#Text=Da die Stadtwerke und VRS sich dazu entschlossen haben, die kostenlose Fahrradmitnahme für Studierende im Wintersemester 2017 auf 19:00 - 3:00 Uhr nachts einzuschränken, brauchen wir einen Ausgleich.
+2-1	28-30	Da	_	
+2-2	31-34	die	_	
+2-3	35-45	Stadtwerke	_	
+2-4	46-49	und	_	
+2-5	50-53	VRS	_	
+2-6	54-58	sich	_	
+2-7	59-63	dazu	_	
+2-8	64-76	entschlossen	_	
+2-9	77-82	haben	_	
+2-10	82-83	,	_	
+2-11	84-87	die	_	
+2-12	88-98	kostenlose	_	
+2-13	99-114	Fahrradmitnahme	_	
+2-14	115-118	für	_	
+2-15	119-130	Studierende	_	
+2-16	131-133	im	_	
+2-17	134-148	Wintersemester	_	
+2-18	149-153	2017	_	
+2-19	154-157	auf	_	
+2-20	158-160	19	_	
+2-21	160-161	:	_	
+2-22	161-163	00	_	
+2-23	164-165	-	_	
+2-24	166-167	3	_	
+2-25	167-168	:	_	
+2-26	168-170	00	_	
+2-27	171-174	Uhr	_	
+2-28	175-181	nachts	_	
+2-29	182-196	einzuschränken	_	
+2-30	196-197	,	_	
+2-31	198-206	brauchen	_	
+2-32	207-210	wir	_	
+2-33	211-216	einen	_	
+2-34	217-226	Ausgleich	_	
+2-35	226-227	.	_	
+
+#Text=Die Fahrradständer am Poppelsdorfer Platz müssen überdacht und instand gesetzt werden.
+3-1	228-231	Die	*[7]	
+3-2	232-246	Fahrradständer	*[7]	
+3-3	247-249	am	*[7]	
+3-4	250-263	Poppelsdorfer	*[7]	
+3-5	264-269	Platz	*[7]	
+3-6	270-276	müssen	_	
+3-7	277-286	überdacht	_	
+3-8	287-290	und	_	
+3-9	291-298	instand	_	
+3-10	299-306	gesetzt	_	
+3-11	307-313	werden	_	
+3-12	313-314	.	_	
+
+#Text=So können Räder auch mal bei Regenwetter oder über Nacht dort stehen gelassen werden, ohne dass man Angst vor Rost und Co haben muss.
+4-1	315-317	So	_	
+4-2	318-324	können	_	
+4-3	325-330	Räder	_	
+4-4	331-335	auch	_	
+4-5	336-339	mal	_	
+4-6	340-343	bei	_	
+4-7	344-355	Regenwetter	_	
+4-8	356-360	oder	_	
+4-9	361-365	über	_	
+4-10	366-371	Nacht	_	
+4-11	372-376	dort	_	
+4-12	377-383	stehen	_	
+4-13	384-392	gelassen	_	
+4-14	393-399	werden	_	
+4-15	399-400	,	_	
+4-16	401-405	ohne	_	
+4-17	406-410	dass	_	
+4-18	411-414	man	_	
+4-19	415-420	Angst	_	
+4-20	421-424	vor	_	
+4-21	425-429	Rost	_	
+4-22	430-433	und	_	
+4-23	434-436	Co	_	
+4-24	437-442	haben	_	
+4-25	443-447	muss	_	
+4-26	447-448	.	_	
+
+#Text=Der Grund, warum ich manchmal versuche mein Rad mit dem Bus auf den Kreuzberg/Venusberg mitzunehmen ist nämlich ganz einfach, dass ich mit Einkäufen nicht auf dem Mountainbike fahren, mein witterungsanfälliges Fahrrad aber auch nicht unüberdacht auf dem Poppelsdorfer Platz stehen lassen möchte.
+5-1	449-452	Der	_	
+5-2	453-458	Grund	_	
+5-3	458-459	,	_	
+5-4	460-465	warum	_	
+5-5	466-469	ich	_	
+5-6	470-478	manchmal	_	
+5-7	479-487	versuche	_	
+5-8	488-492	mein	_	
+5-9	493-496	Rad	_	
+5-10	497-500	mit	_	
+5-11	501-504	dem	_	
+5-12	505-508	Bus	_	
+5-13	509-512	auf	*[8]	
+5-14	513-516	den	*[8]	
+5-15	517-526	Kreuzberg	*[8]	
+5-16	526-527	/	*[8]	
+5-17	527-536	Venusberg	*[8]	
+5-18	537-548	mitzunehmen	_	
+5-19	549-552	ist	_	
+5-20	553-560	nämlich	_	
+5-21	561-565	ganz	_	
+5-22	566-573	einfach	_	
+5-23	573-574	,	_	
+5-24	575-579	dass	_	
+5-25	580-583	ich	_	
+5-26	584-587	mit	_	
+5-27	588-597	Einkäufen	_	
+5-28	598-603	nicht	_	
+5-29	604-607	auf	_	
+5-30	608-611	dem	_	
+5-31	612-624	Mountainbike	_	
+5-32	625-631	fahren	_	
+5-33	631-632	,	_	
+5-34	633-637	mein	_	
+5-35	638-658	witterungsanfälliges	_	
+5-36	659-666	Fahrrad	_	
+5-37	667-671	aber	_	
+5-38	672-676	auch	_	
+5-39	677-682	nicht	_	
+5-40	683-694	unüberdacht	_	
+5-41	695-698	auf	*[9]	
+5-42	699-702	dem	*[9]	
+5-43	703-716	Poppelsdorfer	*[9]	
+5-44	717-722	Platz	*[9]	
+5-45	723-729	stehen	_	
+5-46	730-736	lassen	_	
+5-47	737-743	möchte	_	
+5-48	743-744	.	_	
+
+#Text=So geht es sicherlich noch mehr Radlerinnen und Radlern, die auf den beiden Bergen arbeiten oder wohnen.
+6-1	745-747	So	_	
+6-2	748-752	geht	_	
+6-3	753-755	es	_	
+6-4	756-766	sicherlich	_	
+6-5	767-771	noch	_	
+6-6	772-776	mehr	_	
+6-7	777-788	Radlerinnen	_	
+6-8	789-792	und	_	
+6-9	793-800	Radlern	_	
+6-10	800-801	,	_	
+6-11	802-805	die	_	
+6-12	806-809	auf	_	
+6-13	810-813	den	_	
+6-14	814-820	beiden	_	
+6-15	821-827	Bergen	_	
+6-16	828-836	arbeiten	_	
+6-17	837-841	oder	_	
+6-18	842-848	wohnen	_	
+6-19	848-849	.	_	

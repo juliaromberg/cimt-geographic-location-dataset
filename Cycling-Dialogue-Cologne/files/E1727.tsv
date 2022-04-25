@@ -1,0 +1,137 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+#FORMAT=WebAnno TSV 3.2			_	
+#T_SP=webanno.custom.Typ|Name			_	
+#T_SP=webanno.custom.Verortung|			_	
+			_	
+			_	
+#Text=Radwegebenutzungspflicht gesetzwidrig				
+1-1	0-24	Radwegebenutzungspflicht	_	_
+1-2	25-37	gesetzwidrig	_	_
+			_	
+#Text=Ich halte die hier angeordnete Radwegebenutzungspflicht auf dem viel zu schmalen eingezeichneten Streifen für nicht gesetzeskonform.				
+2-1	40-43	Ich	_	_
+2-2	44-49	halte	_	_
+2-3	50-53	die	_	_
+2-4	54-58	hier	_	_
+2-5	59-70	angeordnete	_	_
+2-6	71-95	Radwegebenutzungspflicht	_	_
+2-7	96-99	auf	_	_
+2-8	100-103	dem	_	_
+2-9	104-108	viel	_	_
+2-10	109-111	zu	_	_
+2-11	112-120	schmalen	_	_
+2-12	121-136	eingezeichneten	_	_
+2-13	137-145	Streifen	_	_
+2-14	146-149	für	_	_
+2-15	150-155	nicht	_	_
+2-16	156-171	gesetzeskonform	_	_
+2-17	171-172	.	_	_
+			_	
+#Text=Die Radwegebenutzungspflicht ist bei der vielbefahrenen Straße zwar nachvollziehbar, die Radwegbreite widerspricht allerdings allen Normvorgaben.				
+3-1	173-176	Die	_	_
+3-2	177-201	Radwegebenutzungspflicht	_	_
+3-3	202-205	ist	_	_
+3-4	206-209	bei	_	_
+3-5	210-213	der	_	_
+3-6	214-228	vielbefahrenen	_	_
+3-7	229-235	Straße	_	_
+3-8	236-240	zwar	_	_
+3-9	241-256	nachvollziehbar	_	_
+3-10	256-257	,	_	_
+3-11	258-261	die	_	_
+3-12	262-274	Radwegbreite	_	_
+3-13	275-287	widerspricht	_	_
+3-14	288-298	allerdings	_	_
+3-15	299-304	allen	_	_
+3-16	305-317	Normvorgaben	_	_
+3-17	317-318	.	_	_
+			_	
+#Text=Der Radweg ist überdies sehr holprig, weil er an zahlreichen Stellen teilweise mehrfach geflickt wurde.				
+4-1	319-322	Der	_	_
+4-2	323-329	Radweg	_	_
+4-3	330-333	ist	_	_
+4-4	334-342	überdies	_	_
+4-5	343-347	sehr	_	_
+4-6	348-355	holprig	_	_
+4-7	355-356	,	_	_
+4-8	357-361	weil	_	_
+4-9	362-364	er	_	_
+4-10	365-367	an	_	_
+4-11	368-379	zahlreichen	_	_
+4-12	380-387	Stellen	_	_
+4-13	388-397	teilweise	_	_
+4-14	398-406	mehrfach	_	_
+4-15	407-415	geflickt	_	_
+4-16	416-421	wurde	_	_
+4-17	421-422	.	_	_
+			_	
+#Text=Dies betrifft den gesamten Verlauf bis zur Kreuzung Maarweg und Vogelsanger Straße.				
+5-1	423-427	Dies	_	_
+5-2	428-436	betrifft	_	_
+5-3	437-440	den	_	_
+5-4	441-449	gesamten	_	*[9]
+5-5	450-457	Verlauf	_	*[9]
+5-6	458-461	bis	_	*[9]
+5-7	462-465	zur	_	*[9]
+5-8	466-474	Kreuzung	_	*[9]
+5-9	475-482	Maarweg	_	*[9]
+5-10	483-486	und	_	*[9]
+5-11	487-498	Vogelsanger	_	*[9]
+5-12	499-505	Straße	_	*[9]
+5-13	505-506	.	_	_
+			_	
+#Text=Hier wäre eine Radwegesanierung fällig.				
+6-1	507-511	Hier	_	_
+6-2	512-516	wäre	_	_
+6-3	517-521	eine	_	_
+6-4	522-538	Radwegesanierung	_	_
+6-5	539-545	fällig	_	_
+6-6	545-546	.	_	_
+			_	
+#Text=Aufgrund des schmalen Geh-/Radweges müsste hier der Radverkehr auf dem Maarweg verlaufen (Radschutzstreifen), zumindest bis zur Unterführung.				
+7-1	547-555	Aufgrund	_	_
+7-2	556-559	des	_	_
+7-3	560-568	schmalen	_	_
+7-4	569-572	Geh	_	_
+7-5	572-573	-	_	_
+7-6	573-574	/	_	_
+7-7	574-582	Radweges	_	_
+7-8	583-589	müsste	_	_
+7-9	590-594	hier	_	_
+7-10	595-598	der	_	_
+7-11	599-609	Radverkehr	_	_
+7-12	610-613	auf	_	*[10]
+7-13	614-617	dem	_	*[10]
+7-14	618-625	Maarweg	_	*[10]
+7-15	626-635	verlaufen	_	_
+7-16	636-637	(	_	_
+7-17	637-654	Radschutzstreifen	_	_
+7-18	654-655	)	_	_
+7-19	655-656	,	_	_
+7-20	657-666	zumindest	_	_
+7-21	667-670	bis	_	_
+7-22	671-674	zur	_	_
+7-23	675-687	Unterführung	_	_
+7-24	687-688	.	_	_
+			_	
+#Text=Außerdem ist der Radweg sehr oft durch riesige LKW versperrt, die PKW anliefern oder abholen.				
+8-1	689-697	Außerdem	_	_
+8-2	698-701	ist	_	_
+8-3	702-705	der	_	_
+8-4	706-712	Radweg	_	_
+8-5	713-717	sehr	_	_
+8-6	718-721	oft	_	_
+8-7	722-727	durch	_	_
+8-8	728-735	riesige	_	_
+8-9	736-739	LKW	_	_
+8-10	740-749	versperrt	_	_
+8-11	749-750	,	_	_
+8-12	751-754	die	_	_
+8-13	755-758	PKW	_	_
+8-14	759-768	anliefern	_	_
+8-15	769-773	oder	_	_
+8-16	774-781	abholen	_	_
+8-17	781-782	.	_	_

@@ -1,0 +1,206 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegquerung Autobahnabfahrt Radweg und Zebrastreifen deutlicher mach evtl Lichtblickanlage (Warnlichter)
+1-1	0-13	Radwegquerung	_	
+1-2	14-29	Autobahnabfahrt	_	
+1-3	30-36	Radweg	_	
+1-4	37-40	und	_	
+1-5	41-54	Zebrastreifen	_	
+1-6	55-65	deutlicher	_	
+1-7	66-70	mach	_	
+1-8	71-75	evtl	_	
+1-9	76-92	Lichtblickanlage	_	
+1-10	93-94	(	_	
+1-11	94-105	Warnlichter	_	
+1-12	105-106	)	_	
+
+#Text=An der Äußeren Kanalstraße überquert man aus Neuehrenfeld kommend eine Autobahnabfahrt der A57.
+2-1	109-111	An	*[14]	
+2-2	112-115	der	*[14]	
+2-3	116-123	Äußeren	*[14]	
+2-4	124-135	Kanalstraße	*[14]	
+2-5	136-145	überquert	*[14]	
+2-6	146-149	man	_	
+2-7	150-153	aus	*[15]	
+2-8	154-166	Neuehrenfeld	*[15]	
+2-9	167-174	kommend	*[15]	
+2-10	175-179	eine	_	
+2-11	180-195	Autobahnabfahrt	*[16]	
+2-12	196-199	der	*[16]	
+2-13	200-203	A57	*[16]	
+2-14	203-204	.	_	
+
+#Text=Hier ist sowohl der Zebrastreifen in die Jahre gekommen wie auch der Radweg.
+3-1	205-209	Hier	_	
+3-2	210-213	ist	_	
+3-3	214-220	sowohl	_	
+3-4	221-224	der	_	
+3-5	225-238	Zebrastreifen	_	
+3-6	239-241	in	_	
+3-7	242-245	die	_	
+3-8	246-251	Jahre	_	
+3-9	252-260	gekommen	_	
+3-10	261-264	wie	_	
+3-11	265-269	auch	_	
+3-12	270-273	der	_	
+3-13	274-280	Radweg	_	
+3-14	280-281	.	_	
+
+#Text=Die Autos und LKWs preschen mit sehr hoher Geschwindigkeit aus der Abfahrt.
+4-1	282-285	Die	_	
+4-2	286-291	Autos	_	
+4-3	292-295	und	_	
+4-4	296-300	LKWs	_	
+4-5	301-309	preschen	_	
+4-6	310-313	mit	_	
+4-7	314-318	sehr	_	
+4-8	319-324	hoher	_	
+4-9	325-340	Geschwindigkeit	_	
+4-10	341-344	aus	_	
+4-11	345-348	der	_	
+4-12	349-356	Abfahrt	_	
+4-13	356-357	.	_	
+
+#Text=Durch deren langezogene Fahrbahn denken die.
+5-1	358-363	Durch	_	
+5-2	364-369	deren	_	
+5-3	370-381	langezogene	_	
+5-4	382-390	Fahrbahn	_	
+5-5	391-397	denken	_	
+5-6	398-401	die	_	
+5-7	401-402	.	_	
+
+#Text=Motorisierten Verkehrsteilnehmer, sie könnten hier ohne Bremsen auf die Äußere Kanalstraße fahren.
+6-1	403-416	Motorisierten	_	
+6-2	417-435	Verkehrsteilnehmer	_	
+6-3	435-436	,	_	
+6-4	437-440	sie	_	
+6-5	441-448	könnten	_	
+6-6	449-453	hier	_	
+6-7	454-458	ohne	_	
+6-8	459-466	Bremsen	_	
+6-9	467-470	auf	_	
+6-10	471-474	die	*[17]	
+6-11	475-481	Äußere	*[17]	
+6-12	482-493	Kanalstraße	*[17]	
+6-13	494-500	fahren	_	
+6-14	500-501	.	_	
+
+#Text=Als Radfahrer heißt es hier immer sehr, sehr wachsam sein, da einem ständig die Vorfahrt genommen wird.
+7-1	502-505	Als	_	
+7-2	506-515	Radfahrer	_	
+7-3	516-521	heißt	_	
+7-4	522-524	es	_	
+7-5	525-529	hier	_	
+7-6	530-535	immer	_	
+7-7	536-540	sehr	_	
+7-8	540-541	,	_	
+7-9	542-546	sehr	_	
+7-10	547-554	wachsam	_	
+7-11	555-559	sein	_	
+7-12	559-560	,	_	
+7-13	561-563	da	_	
+7-14	564-569	einem	_	
+7-15	570-577	ständig	_	
+7-16	578-581	die	_	
+7-17	582-590	Vorfahrt	_	
+7-18	591-599	genommen	_	
+7-19	600-604	wird	_	
+7-20	604-605	.	_	
+
+#Text=Eine deutlichere Markierung für die Autobahnabfahrer könnte vielleicht Abhilfe schaffen.
+8-1	606-610	Eine	_	
+8-2	611-622	deutlichere	_	
+8-3	623-633	Markierung	_	
+8-4	634-637	für	_	
+8-5	638-641	die	_	
+8-6	642-658	Autobahnabfahrer	_	
+8-7	659-665	könnte	_	
+8-8	666-676	vielleicht	_	
+8-9	677-684	Abhilfe	_	
+8-10	685-693	schaffen	_	
+8-11	693-694	.	_	
+
+#Text=Oft ist das Grün an der Seite auch nicht genug geschnitten worden, ich glaube dadurch sehen die Autofahrer noch weniger.
+9-1	695-698	Oft	_	
+9-2	699-702	ist	_	
+9-3	703-706	das	_	
+9-4	707-711	Grün	_	
+9-5	712-714	an	_	
+9-6	715-718	der	_	
+9-7	719-724	Seite	_	
+9-8	725-729	auch	_	
+9-9	730-735	nicht	_	
+9-10	736-741	genug	_	
+9-11	742-753	geschnitten	_	
+9-12	754-760	worden	_	
+9-13	760-761	,	_	
+9-14	762-765	ich	_	
+9-15	766-772	glaube	_	
+9-16	773-780	dadurch	_	
+9-17	781-786	sehen	_	
+9-18	787-790	die	_	
+9-19	791-801	Autofahrer	_	
+9-20	802-806	noch	_	
+9-21	807-814	weniger	_	
+9-22	814-815	.	_	
+
+#Text=Wie könnte man also das Tempo der LKWs und Autos drosseln?
+10-1	816-819	Wie	_	
+10-2	820-826	könnte	_	
+10-3	827-830	man	_	
+10-4	831-835	also	_	
+10-5	836-839	das	_	
+10-6	840-845	Tempo	_	
+10-7	846-849	der	_	
+10-8	850-854	LKWs	_	
+10-9	855-858	und	_	
+10-10	859-864	Autos	_	
+10-11	865-873	drosseln	_	
+10-12	873-874	?	_	
+
+#Text=Diese Verkehrsteilnehmer sind beim Abfahren wahrscheinlich gar nicht auf mögliche Rad- und Fußgänger vorbereitet.
+11-1	875-880	Diese	_	
+11-2	881-899	Verkehrsteilnehmer	_	
+11-3	900-904	sind	_	
+11-4	905-909	beim	_	
+11-5	910-918	Abfahren	_	
+11-6	919-933	wahrscheinlich	_	
+11-7	934-937	gar	_	
+11-8	938-943	nicht	_	
+11-9	944-947	auf	_	
+11-10	948-956	mögliche	_	
+11-11	957-960	Rad	_	
+11-12	960-961	-	_	
+11-13	962-965	und	_	
+11-14	966-975	Fußgänger	_	
+11-15	976-987	vorbereitet	_	
+11-16	987-988	.	_	
+
+#Text=Sie tauchen wahrscheinlich für sie aus dem Nichts auf.
+12-1	989-992	Sie	_	
+12-2	993-1000	tauchen	_	
+12-3	1001-1015	wahrscheinlich	_	
+12-4	1016-1019	für	_	
+12-5	1020-1023	sie	_	
+12-6	1024-1027	aus	_	
+12-7	1028-1031	dem	_	
+12-8	1032-1038	Nichts	_	
+12-9	1039-1042	auf	_	
+12-10	1042-1043	.	_	
+
+#Text=Eine SEHR gefährliche Ecke, mus DRINGEND gemacht werden.
+13-1	1044-1048	Eine	_	
+13-2	1049-1053	SEHR	_	
+13-3	1054-1065	gefährliche	_	
+13-4	1066-1070	Ecke	_	
+13-5	1070-1071	,	_	
+13-6	1072-1075	mus	_	
+13-7	1076-1084	DRINGEND	_	
+13-8	1085-1092	gemacht	_	
+13-9	1093-1099	werden	_	
+13-10	1099-1100	.	_	

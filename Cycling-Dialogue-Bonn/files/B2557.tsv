@@ -1,0 +1,44 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkende Autos
+1-1	0-8	Parkende	_	
+1-2	9-14	Autos	_	
+
+#Text=Hier endet der markierte Radweg.
+2-1	17-21	Hier	_	
+2-2	22-27	endet	_	
+2-3	28-31	der	_	
+2-4	32-41	markierte	_	
+2-5	42-48	Radweg	_	
+2-6	48-49	.	_	
+
+#Text=Die parkenden Autos verengen die Straße und hindern die Sicht - man fährt direkt in den Gegenverkehr .
+3-1	50-53	Die	_	
+3-2	54-63	parkenden	_	
+3-3	64-69	Autos	_	
+3-4	70-78	verengen	_	
+3-5	79-82	die	_	
+3-6	83-89	Straße	_	
+3-7	90-93	und	_	
+3-8	94-101	hindern	_	
+3-9	102-105	die	_	
+3-10	106-111	Sicht	_	
+3-11	112-113	-	_	
+3-12	114-117	man	_	
+3-13	118-123	fährt	_	
+3-14	124-130	direkt	_	
+3-15	131-133	in	_	
+3-16	134-137	den	_	
+3-17	138-150	Gegenverkehr	_	
+3-18	151-152	.	_	
+
+#Text=Lösung: Parkplätze entfernen.
+4-1	153-159	Lösung	_	
+4-2	159-160	:	_	
+4-3	161-171	Parkplätze	_	
+4-4	172-181	entfernen	_	
+4-5	181-182	.	_	

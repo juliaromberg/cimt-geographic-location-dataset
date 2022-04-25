@@ -1,0 +1,46 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Pflanzen schneiden
+1-1	0-8	Pflanzen	_	
+1-2	9-18	schneiden	_	
+
+#Text=In diesem Tunnel fühle ich mich immer besonders unsicher, da die Büsche bis weit auf die Fahrradspur wachsen.
+2-1	21-23	In	_	
+2-2	24-30	diesem	_	
+2-3	31-37	Tunnel	_	
+2-4	38-43	fühle	_	
+2-5	44-47	ich	_	
+2-6	48-52	mich	_	
+2-7	53-58	immer	_	
+2-8	59-68	besonders	_	
+2-9	69-77	unsicher	_	
+2-10	77-78	,	_	
+2-11	79-81	da	_	
+2-12	82-85	die	_	
+2-13	86-92	Büsche	_	
+2-14	93-96	bis	_	
+2-15	97-101	weit	_	
+2-16	102-105	auf	_	
+2-17	106-109	die	_	
+2-18	110-121	Fahrradspur	_	
+2-19	122-129	wachsen	_	
+2-20	129-130	.	_	
+
+#Text=Außerdem gibt es immer viel Müll und Unrat auf der engen Bahn.
+3-1	131-139	Außerdem	_	
+3-2	140-144	gibt	_	
+3-3	145-147	es	_	
+3-4	148-153	immer	_	
+3-5	154-158	viel	_	
+3-6	159-163	Müll	_	
+3-7	164-167	und	_	
+3-8	168-173	Unrat	_	
+3-9	174-177	auf	_	
+3-10	178-181	der	_	
+3-11	182-187	engen	_	
+3-12	188-192	Bahn	_	
+3-13	192-193	.	_	

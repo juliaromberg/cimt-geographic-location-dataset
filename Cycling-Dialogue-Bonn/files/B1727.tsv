@@ -1,0 +1,96 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hier gibt es überhaupt keine brauchbare Möglichkeit für Radfahrer, aus Richtung Norden kommend nach links auf den kleinen Verbindungsweg Richtung Edeka zu kommen.
+1-1	0-4	Hier	_	
+1-2	5-9	gibt	_	
+1-3	10-12	es	_	
+1-4	13-22	überhaupt	_	
+1-5	23-28	keine	_	
+1-6	29-39	brauchbare	_	
+1-7	40-51	Möglichkeit	_	
+1-8	52-55	für	_	
+1-9	56-65	Radfahrer	_	
+1-10	65-66	,	_	
+1-11	67-70	aus	_	
+1-12	71-79	Richtung	_	
+1-13	80-86	Norden	_	
+1-14	87-94	kommend	_	
+1-15	95-99	nach	_	
+1-16	100-105	links	_	
+1-17	106-109	auf	_	
+1-18	110-113	den	_	
+1-19	114-121	kleinen	_	
+1-20	122-136	Verbindungsweg	_	
+1-21	137-145	Richtung	_	
+1-22	146-151	Edeka	_	
+1-23	152-154	zu	_	
+1-24	155-161	kommen	_	
+1-25	161-162	.	_	
+
+#Text=Dort gibt es keinen abgesenkten Bordstein, keine Linksabbiegespur, keine Querungshilfe, nichts.
+2-1	165-169	Dort	_	
+2-2	170-174	gibt	_	
+2-3	175-177	es	_	
+2-4	178-184	keinen	_	
+2-5	185-196	abgesenkten	_	
+2-6	197-206	Bordstein	_	
+2-7	206-207	,	_	
+2-8	208-213	keine	_	
+2-9	214-230	Linksabbiegespur	_	
+2-10	230-231	,	_	
+2-11	232-237	keine	_	
+2-12	238-251	Querungshilfe	_	
+2-13	251-252	,	_	
+2-14	253-259	nichts	_	
+2-15	259-260	.	_	
+
+#Text=Auf dem Gehweg entlang der Straße darf man ohnehin nicht fahren.
+3-1	261-264	Auf	_	
+3-2	265-268	dem	_	
+3-3	269-275	Gehweg	_	
+3-4	276-283	entlang	_	
+3-5	284-287	der	_	
+3-6	288-294	Straße	_	
+3-7	295-299	darf	_	
+3-8	300-303	man	_	
+3-9	304-311	ohnehin	_	
+3-10	312-317	nicht	_	
+3-11	318-324	fahren	_	
+3-12	324-325	.	_	
+
+#Text=Dass man da als Radfahrer erst den Berg hochfahren soll, um dann wieder auf der gleichen Höhe rauszukommen, kann ja wohl in der Fahrradhauptstadt nicht Ernst gemeint sein!
+4-1	326-330	Dass	_	
+4-2	331-334	man	_	
+4-3	335-337	da	_	
+4-4	338-341	als	_	
+4-5	342-351	Radfahrer	_	
+4-6	352-356	erst	_	
+4-7	357-360	den	_	
+4-8	361-365	Berg	_	
+4-9	366-376	hochfahren	_	
+4-10	377-381	soll	_	
+4-11	381-382	,	_	
+4-12	383-385	um	_	
+4-13	386-390	dann	_	
+4-14	391-397	wieder	_	
+4-15	398-401	auf	_	
+4-16	402-405	der	_	
+4-17	406-414	gleichen	_	
+4-18	415-419	Höhe	_	
+4-19	420-432	rauszukommen	_	
+4-20	432-433	,	_	
+4-21	434-438	kann	_	
+4-22	439-441	ja	_	
+4-23	442-446	wohl	_	
+4-24	447-449	in	_	
+4-25	450-453	der	_	
+4-26	454-471	Fahrradhauptstadt	_	
+4-27	472-477	nicht	_	
+4-28	478-483	Ernst	_	
+4-29	484-491	gemeint	_	
+4-30	492-496	sein	_	
+4-31	496-497	!	_	

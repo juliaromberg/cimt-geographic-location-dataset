@@ -1,0 +1,101 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlechte Wegeführung am Verteilerkreis I
+1-1	0-9	Schlechte	_	
+1-2	10-21	Wegeführung	_	
+1-3	22-24	am	_	
+1-4	25-39	Verteilerkreis	_	
+1-5	40-41	I	_	
+
+#Text=Es ist verständlich, dass Radfahrer nicht in der Verteilerkreis einfahren dürfen.
+2-1	44-46	Es	_	
+2-2	47-50	ist	_	
+2-3	51-63	verständlich	_	
+2-4	63-64	,	_	
+2-5	65-69	dass	_	
+2-6	70-79	Radfahrer	_	
+2-7	80-85	nicht	_	
+2-8	86-88	in	_	
+2-9	89-92	der	_	
+2-10	93-107	Verteilerkreis	_	
+2-11	108-117	einfahren	_	
+2-12	118-124	dürfen	_	
+2-13	124-125	.	_	
+
+#Text=Aber wie soll man sich als Radfahrer hier im Lievelingsweg vor der Aral-Tankstelle verhalten?
+3-1	126-130	Aber	_	
+3-2	131-134	wie	_	
+3-3	135-139	soll	_	
+3-4	140-143	man	_	
+3-5	144-148	sich	_	
+3-6	149-152	als	_	
+3-7	153-162	Radfahrer	_	
+3-8	163-167	hier	_	
+3-9	168-170	im	*[7]	
+3-10	171-184	Lievelingsweg	*[7]	
+3-11	185-188	vor	*[7]	
+3-12	189-192	der	*[7]	
+3-13	193-208	Aral-Tankstelle	*[7]	
+3-14	209-218	verhalten	_	
+3-15	218-219	?	_	
+
+#Text=Man kann ja nicht anders, als auf den linken Gehweg zu wechseln.
+4-1	220-223	Man	_	
+4-2	224-228	kann	_	
+4-3	229-231	ja	_	
+4-4	232-237	nicht	_	
+4-5	238-244	anders	_	
+4-6	244-245	,	_	
+4-7	246-249	als	_	
+4-8	250-253	auf	_	
+4-9	254-257	den	_	
+4-10	258-264	linken	_	
+4-11	265-271	Gehweg	_	
+4-12	272-274	zu	_	
+4-13	275-283	wechseln	_	
+4-14	283-284	.	_	
+
+#Text=Aber soll man dafür absteigen und den Zebrastreifen nutzen?
+5-1	285-289	Aber	_	
+5-2	290-294	soll	_	
+5-3	295-298	man	_	
+5-4	299-304	dafür	_	
+5-5	305-314	absteigen	_	
+5-6	315-318	und	_	
+5-7	319-322	den	_	
+5-8	323-336	Zebrastreifen	_	
+5-9	337-343	nutzen	_	
+5-10	343-344	?	_	
+
+#Text=Hier wäre es angebracht, die Situation wie in der Dorotheenstr. zu lösen: mit einer Schutzinsel in der Fahrbahnmitte und entsprechender Markierung und Beschilderung.
+6-1	345-349	Hier	_	
+6-2	350-354	wäre	_	
+6-3	355-357	es	_	
+6-4	358-368	angebracht	_	
+6-5	368-369	,	_	
+6-6	370-373	die	_	
+6-7	374-383	Situation	_	
+6-8	384-387	wie	_	
+6-9	388-390	in	*[8]	
+6-10	391-394	der	*[8]	
+6-11	395-407	Dorotheenstr	*[8]	
+6-12	407-408	.	*[8]	
+6-13	409-411	zu	*[8]	
+6-14	412-417	lösen	_	
+6-15	417-418	:	_	
+6-16	419-422	mit	_	
+6-17	423-428	einer	_	
+6-18	429-440	Schutzinsel	_	
+6-19	441-443	in	_	
+6-20	444-447	der	_	
+6-21	448-461	Fahrbahnmitte	_	
+6-22	462-465	und	_	
+6-23	466-480	entsprechender	_	
+6-24	481-491	Markierung	_	
+6-25	492-495	und	_	
+6-26	496-509	Beschilderung	_	
+6-27	509-510	.	_	

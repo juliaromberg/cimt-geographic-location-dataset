@@ -1,0 +1,104 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unklare Vorfahrtsregelung
+1-1	0-7	Unklare	_	
+1-2	8-25	Vorfahrtsregelung	_	
+
+#Text=Die Fußgängerunterführung wird mangels Alternativen viel von Fahrräder genutzt.
+2-1	28-31	Die	_	
+2-2	32-53	Fußgängerunterführung	_	
+2-3	54-58	wird	_	
+2-4	59-66	mangels	_	
+2-5	67-79	Alternativen	_	
+2-6	80-84	viel	_	
+2-7	85-88	von	_	
+2-8	89-98	Fahrräder	_	
+2-9	99-106	genutzt	_	
+2-10	106-107	.	_	
+
+#Text=Es ist jedoch unklar wie die Radfahrer dann auf die Straße kommen sollen.
+3-1	108-110	Es	_	
+3-2	111-114	ist	_	
+3-3	115-121	jedoch	_	
+3-4	122-128	unklar	_	
+3-5	129-132	wie	_	
+3-6	133-136	die	_	
+3-7	137-146	Radfahrer	_	
+3-8	147-151	dann	_	
+3-9	152-155	auf	_	
+3-10	156-159	die	_	
+3-11	160-166	Straße	_	
+3-12	167-173	kommen	_	
+3-13	174-180	sollen	_	
+3-14	180-181	.	_	
+
+#Text=Hinzu kommt der Radverkehr vom Zweirichtungsradweg auf der Kaiserstraße.
+4-1	182-187	Hinzu	_	
+4-2	188-193	kommt	_	
+4-3	194-197	der	_	
+4-4	198-208	Radverkehr	_	
+4-5	209-212	vom	_	
+4-6	213-232	Zweirichtungsradweg	_	
+4-7	233-236	auf	*[8]	
+4-8	237-240	der	*[8]	
+4-9	241-253	Kaiserstraße	*[8]	
+4-10	253-254	.	_	
+
+#Text=Hier könnte ein Kreisverkehr installiert werden oder der Radverkehr sollte irgendwie anders eingegliedert werden.
+5-1	255-259	Hier	_	
+5-2	260-266	könnte	_	
+5-3	267-270	ein	_	
+5-4	271-283	Kreisverkehr	_	
+5-5	284-295	installiert	_	
+5-6	296-302	werden	_	
+5-7	303-307	oder	_	
+5-8	308-311	der	_	
+5-9	312-322	Radverkehr	_	
+5-10	323-329	sollte	_	
+5-11	330-339	irgendwie	_	
+5-12	340-346	anders	_	
+5-13	347-360	eingegliedert	_	
+5-14	361-367	werden	_	
+5-15	367-368	.	_	
+
+#Text=Sinnvollerweise in ein komplettes neues Verkehrskonzept rund um den Haupt- und Busbahnhof.
+6-1	369-384	Sinnvollerweise	_	
+6-2	385-387	in	_	
+6-3	388-391	ein	_	
+6-4	392-402	komplettes	_	
+6-5	403-408	neues	_	
+6-6	409-424	Verkehrskonzept	_	
+6-7	425-429	rund	*[9]	
+6-8	430-432	um	*[9]	
+6-9	433-436	den	*[9]	
+6-10	437-442	Haupt	*[9]	
+6-11	442-443	-	*[9]	
+6-12	444-447	und	*[9]	
+6-13	448-458	Busbahnhof	*[9]	
+6-14	458-459	.	_	
+
+#Text=Unklar ist mir auch warum die Kreuzung eigentlich eine Rechts-Vor-Links-Regelung hat, jedoch aus Richtung Südwesten ein Vorfahrtachten-Schild steht.
+7-1	460-466	Unklar	_	
+7-2	467-470	ist	_	
+7-3	471-474	mir	_	
+7-4	475-479	auch	_	
+7-5	480-485	warum	_	
+7-6	486-489	die	_	
+7-7	490-498	Kreuzung	_	
+7-8	499-509	eigentlich	_	
+7-9	510-514	eine	_	
+7-10	515-540	Rechts-Vor-Links-Regelung	_	
+7-11	541-544	hat	_	
+7-12	544-545	,	_	
+7-13	546-552	jedoch	_	
+7-14	553-556	aus	_	
+7-15	557-565	Richtung	_	
+7-16	566-575	Südwesten	_	
+7-17	576-579	ein	_	
+7-18	580-601	Vorfahrtachten-Schild	_	
+7-19	602-607	steht	_	
+7-20	607-608	.	_	

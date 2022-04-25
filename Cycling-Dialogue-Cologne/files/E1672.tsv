@@ -1,0 +1,60 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=mangelhafte Fahrbahnerhöhung
+1-1	0-11	mangelhafte	_	
+1-2	12-28	Fahrbahnerhöhung	_	
+
+#Text=An dieser Stelle wird die Durchfahrt von Autos durch Poller unmöglich gemacht.
+2-1	31-33	An	_	
+2-2	34-40	dieser	_	
+2-3	41-47	Stelle	_	
+2-4	48-52	wird	_	
+2-5	53-56	die	_	
+2-6	57-67	Durchfahrt	_	
+2-7	68-71	von	_	
+2-8	72-77	Autos	_	
+2-9	78-83	durch	_	
+2-10	84-90	Poller	_	
+2-11	91-100	unmöglich	_	
+2-12	101-108	gemacht	_	
+2-13	108-109	.	_	
+
+#Text=Die Poller stehen auf einer Fahrbahnerhöhung, die, wahrscheinlich im Laufe der Jahre, unvorteilhaft für das Befahren mit einem Fahrrad geworden ist.
+3-1	110-113	Die	_	
+3-2	114-120	Poller	_	
+3-3	121-127	stehen	_	
+3-4	128-131	auf	_	
+3-5	132-137	einer	_	
+3-6	138-154	Fahrbahnerhöhung	_	
+3-7	154-155	,	_	
+3-8	156-159	die	_	
+3-9	159-160	,	_	
+3-10	161-175	wahrscheinlich	_	
+3-11	176-178	im	_	
+3-12	179-184	Laufe	_	
+3-13	185-188	der	_	
+3-14	189-194	Jahre	_	
+3-15	194-195	,	_	
+3-16	196-209	unvorteilhaft	_	
+3-17	210-213	für	_	
+3-18	214-217	das	_	
+3-19	218-226	Befahren	_	
+3-20	227-230	mit	_	
+3-21	231-236	einem	_	
+3-22	237-244	Fahrrad	_	
+3-23	245-253	geworden	_	
+3-24	254-257	ist	_	
+3-25	257-258	.	_	
+
+#Text=Die Bordsteinkanten sollten dringend abgesenkt werden.
+4-1	259-262	Die	_	
+4-2	263-278	Bordsteinkanten	_	
+4-3	279-286	sollten	_	
+4-4	287-295	dringend	_	
+4-5	296-305	abgesenkt	_	
+4-6	306-312	werden	_	
+4-7	312-313	.	_	

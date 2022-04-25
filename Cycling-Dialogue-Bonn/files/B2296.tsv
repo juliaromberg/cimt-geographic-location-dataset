@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=gemeinsamer Weg für Fußgänger und Fahrradfahrer
+1-1	0-11	gemeinsamer	_	
+1-2	12-15	Weg	_	
+1-3	16-19	für	_	
+1-4	20-29	Fußgänger	_	
+1-5	30-33	und	_	
+1-6	34-47	Fahrradfahrer	_	
+
+#Text=in Richtung NW gibt es hier keine separaten Fahrradweg.
+2-1	50-52	in	_	
+2-2	53-61	Richtung	_	
+2-3	62-64	NW	_	
+2-4	65-69	gibt	_	
+2-5	70-72	es	_	
+2-6	73-77	hier	_	
+2-7	78-83	keine	_	
+2-8	84-93	separaten	_	
+2-9	94-104	Fahrradweg	_	
+2-10	104-105	.	_	
+
+#Text=Wir fahren hier jeden Tag entlang und sind schon oft beschimpft worden wir würden ja auf dem Fußgängerweg fahren.
+3-1	106-109	Wir	_	
+3-2	110-116	fahren	_	
+3-3	117-121	hier	_	
+3-4	122-127	jeden	_	
+3-5	128-131	Tag	_	
+3-6	132-139	entlang	_	
+3-7	140-143	und	_	
+3-8	144-148	sind	_	
+3-9	149-154	schon	_	
+3-10	155-158	oft	_	
+3-11	159-169	beschimpft	_	
+3-12	170-176	worden	_	
+3-13	177-180	wir	_	
+3-14	181-187	würden	_	
+3-15	188-190	ja	_	
+3-16	191-194	auf	_	
+3-17	195-198	dem	_	
+3-18	199-211	Fußgängerweg	_	
+3-19	212-218	fahren	_	
+3-20	218-219	.	_	
+
+#Text=Das gleiche für alle kombinierten Fuß-Radwege in Bonn -> diese sind meist zu eng und beide Parteien kommen sich ins Gehege.
+4-1	220-223	Das	_	
+4-2	224-231	gleiche	_	
+4-3	232-235	für	_	
+4-4	236-240	alle	*[6]	
+4-5	241-253	kombinierten	*[6]	
+4-6	254-265	Fuß-Radwege	*[6]	
+4-7	266-268	in	*[6]	
+4-8	269-273	Bonn	*[6]	
+4-9	274-275	-	_	
+4-10	275-276	>	_	
+4-11	277-282	diese	_	
+4-12	283-287	sind	_	
+4-13	288-293	meist	_	
+4-14	294-296	zu	_	
+4-15	297-300	eng	_	
+4-16	301-304	und	_	
+4-17	305-310	beide	_	
+4-18	311-319	Parteien	_	
+4-19	320-326	kommen	_	
+4-20	327-331	sich	_	
+4-21	332-335	ins	_	
+4-22	336-342	Gehege	_	
+4-23	342-343	.	_	
+
+#Text=Also bitte separate Wege schaffen selbst wenn dafür die Autofahrer mal langsamer fahren müssen.
+5-1	344-348	Also	_	
+5-2	349-354	bitte	_	
+5-3	355-363	separate	_	
+5-4	364-368	Wege	_	
+5-5	369-377	schaffen	_	
+5-6	378-384	selbst	_	
+5-7	385-389	wenn	_	
+5-8	390-395	dafür	_	
+5-9	396-399	die	_	
+5-10	400-410	Autofahrer	_	
+5-11	411-414	mal	_	
+5-12	415-424	langsamer	_	
+5-13	425-431	fahren	_	
+5-14	432-438	müssen	_	
+5-15	438-439	.	_	

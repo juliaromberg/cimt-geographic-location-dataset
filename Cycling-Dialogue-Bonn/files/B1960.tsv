@@ -1,0 +1,39 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bonner Bogen
+1-1	0-6	Bonner	*[4]	
+1-2	7-12	Bogen	*[4]	
+
+#Text=Der benutzungspflichtige Geh-/Radweg wird hier für Radfahrer gefährlich beendet.
+2-1	15-18	Der	_	
+2-2	19-39	benutzungspflichtige	_	
+2-3	40-43	Geh	_	
+2-4	43-44	-	_	
+2-5	44-45	/	_	
+2-6	45-51	Radweg	_	
+2-7	52-56	wird	_	
+2-8	57-61	hier	_	
+2-9	62-65	für	_	
+2-10	66-75	Radfahrer	_	
+2-11	76-86	gefährlich	_	
+2-12	87-94	beendet	_	
+2-13	94-95	.	_	
+
+#Text=Ein Wechsel auf die Fahrbahn (Einfädeln) ist hier sehr gefährlich.
+3-1	96-99	Ein	_	
+3-2	100-107	Wechsel	_	
+3-3	108-111	auf	_	
+3-4	112-115	die	_	
+3-5	116-124	Fahrbahn	_	
+3-6	125-126	(	_	
+3-7	126-135	Einfädeln	_	
+3-8	135-136	)	_	
+3-9	137-140	ist	_	
+3-10	141-145	hier	_	
+3-11	146-150	sehr	_	
+3-12	151-161	gefährlich	_	
+3-13	161-162	.	_	

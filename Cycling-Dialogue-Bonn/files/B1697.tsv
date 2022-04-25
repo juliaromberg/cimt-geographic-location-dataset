@@ -1,0 +1,116 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreuzung/Anschluss an Radweg
+1-1	0-8	Kreuzung	_	
+1-2	8-9	/	_	
+1-3	9-18	Anschluss	_	
+1-4	19-21	an	_	
+1-5	22-28	Radweg	_	
+
+#Text=In dieser 90° Kreuzung muss man als Radfahrer die Straße verlassen um auf den Radweg Richtung Rheinaue (am Langen Eugen entlang) zu gelangen.
+2-1	31-33	In	_	
+2-2	34-40	dieser	_	
+2-3	41-43	90	_	
+2-4	43-44	°	_	
+2-5	45-53	Kreuzung	_	
+2-6	54-58	muss	_	
+2-7	59-62	man	_	
+2-8	63-66	als	_	
+2-9	67-76	Radfahrer	_	
+2-10	77-80	die	_	
+2-11	81-87	Straße	_	
+2-12	88-97	verlassen	_	
+2-13	98-100	um	_	
+2-14	101-104	auf	_	
+2-15	105-108	den	_	
+2-16	109-115	Radweg	*[6]	
+2-17	116-124	Richtung	*[6]	
+2-18	125-133	Rheinaue	*[6]	
+2-19	134-135	(	*[6]	
+2-20	135-137	am	*[6]	
+2-21	138-144	Langen	*[6]	
+2-22	145-150	Eugen	*[6]	
+2-23	151-158	entlang	*[6]	
+2-24	158-159	)	*[6]	
+2-25	160-162	zu	_	
+2-26	163-171	gelangen	_	
+2-27	171-172	.	_	
+
+#Text=Es gibt auf diesem Straßenabschnitt keinen Radweg und somit keine Möglichkeit für Radfahrer, sich einzuordnen.
+3-1	173-175	Es	_	
+3-2	176-180	gibt	_	
+3-3	181-184	auf	_	
+3-4	185-191	diesem	_	
+3-5	192-208	Straßenabschnitt	_	
+3-6	209-215	keinen	_	
+3-7	216-222	Radweg	_	
+3-8	223-226	und	_	
+3-9	227-232	somit	_	
+3-10	233-238	keine	_	
+3-11	239-250	Möglichkeit	_	
+3-12	251-254	für	_	
+3-13	255-264	Radfahrer	_	
+3-14	264-265	,	_	
+3-15	266-270	sich	_	
+3-16	271-282	einzuordnen	_	
+3-17	282-283	.	_	
+
+#Text=Man muss - für Autofahrer aus heiterem Himmel - mitten auf der Straße stehen bleiben um den Gegenverkehr vorbei zu lassen und dann eine hohe Bordsteinkante hochfahren.
+4-1	284-287	Man	_	
+4-2	288-292	muss	_	
+4-3	293-294	-	_	
+4-4	295-298	für	_	
+4-5	299-309	Autofahrer	_	
+4-6	310-313	aus	_	
+4-7	314-322	heiterem	_	
+4-8	323-329	Himmel	_	
+4-9	330-331	-	_	
+4-10	332-338	mitten	_	
+4-11	339-342	auf	_	
+4-12	343-346	der	_	
+4-13	347-353	Straße	_	
+4-14	354-360	stehen	_	
+4-15	361-368	bleiben	_	
+4-16	369-371	um	_	
+4-17	372-375	den	_	
+4-18	376-388	Gegenverkehr	_	
+4-19	389-395	vorbei	_	
+4-20	396-398	zu	_	
+4-21	399-405	lassen	_	
+4-22	406-409	und	_	
+4-23	410-414	dann	_	
+4-24	415-419	eine	_	
+4-25	420-424	hohe	_	
+4-26	425-439	Bordsteinkante	_	
+4-27	440-450	hochfahren	_	
+4-28	450-451	.	_	
+
+#Text=Verbesserungsvorschlag: das Gronau-Viertel mit vernünftigen Radwegen ausstatten und für einen praktikablen Anschluss an die Radwege in der Rheinaue/am Rheinufer sorgen.
+5-1	452-474	Verbesserungsvorschlag	_	
+5-2	474-475	:	_	
+5-3	476-479	das	*[7]	
+5-4	480-494	Gronau-Viertel	*[7]	
+5-5	495-498	mit	_	
+5-6	499-511	vernünftigen	_	
+5-7	512-520	Radwegen	_	
+5-8	521-531	ausstatten	_	
+5-9	532-535	und	_	
+5-10	536-539	für	_	
+5-11	540-545	einen	_	
+5-12	546-558	praktikablen	_	
+5-13	559-568	Anschluss	_	
+5-14	569-571	an	_	
+5-15	572-575	die	*[8]	
+5-16	576-583	Radwege	*[8]	
+5-17	584-586	in	*[8]	
+5-18	587-590	der	*[8]	
+5-19	591-599	Rheinaue	*[8]	
+5-20	599-600	/	*[8]	
+5-21	600-602	am	*[8]	
+5-22	603-612	Rheinufer	*[8]	
+5-23	613-619	sorgen	_	
+5-24	619-620	.	_	

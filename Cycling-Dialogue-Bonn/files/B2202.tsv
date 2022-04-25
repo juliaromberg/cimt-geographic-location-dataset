@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreuzung zugeparkt
+1-1	0-8	Kreuzung	_	
+1-2	9-18	zugeparkt	_	
+
+#Text=Die Kreuzung Aloys-Schulte-Str./August-Bier-Str. ist regelmäßig an allen 4 Ecken zugeparkt.
+2-1	21-24	Die	*[5]	
+2-2	25-33	Kreuzung	*[5]	
+2-3	34-51	Aloys-Schulte-Str	*[5]	
+2-4	51-52	.	*[5]	
+2-5	52-53	/	*[5]	
+2-6	53-68	August-Bier-Str	*[5]	
+2-7	68-69	.	*[5]	
+2-8	70-73	ist	_	
+2-9	74-84	regelmäßig	_	
+2-10	85-87	an	_	
+2-11	88-93	allen	_	
+2-12	94-95	4	_	
+2-13	96-101	Ecken	_	
+2-14	102-111	zugeparkt	_	
+2-15	111-112	.	_	
+
+#Text=Dadurch ist der Verkehr sehr schwer einzusehen.
+3-1	113-120	Dadurch	_	
+3-2	121-124	ist	_	
+3-3	125-128	der	_	
+3-4	129-136	Verkehr	_	
+3-5	137-141	sehr	_	
+3-6	142-148	schwer	_	
+3-7	149-159	einzusehen	_	
+3-8	159-160	.	_	
+
+#Text=Der Ordnungsdienst müsste Falschparker regelmäßiger überprüfen.
+4-1	161-164	Der	_	
+4-2	165-179	Ordnungsdienst	_	
+4-3	180-186	müsste	_	
+4-4	187-199	Falschparker	_	
+4-5	200-212	regelmäßiger	_	
+4-6	213-223	überprüfen	_	
+4-7	223-224	.	_	

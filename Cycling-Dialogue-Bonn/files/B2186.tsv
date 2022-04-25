@@ -1,0 +1,50 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Dorotheenstr/Breite Str. - Radweg nicht über den Bordstein
+1-1	0-12	Dorotheenstr	*[3]	
+1-2	12-13	/	*[3]	
+1-3	13-19	Breite	*[3]	
+1-4	20-23	Str	*[3]	
+1-5	23-24	.	_	
+1-6	25-26	-	_	
+1-7	27-33	Radweg	_	
+1-8	34-39	nicht	_	
+1-9	40-44	über	_	
+1-10	45-48	den	_	
+1-11	49-58	Bordstein	_	
+
+#Text=Der Radweg entgegen der Fahrtrichtung verläuft auf der Straße, aber an der Ecke muss man für einen Meter auf den Bürgersteig (Radweg auf dem Bürgersteig eingezeichnet).
+2-1	61-64	Der	_	
+2-2	65-71	Radweg	_	
+2-3	72-80	entgegen	_	
+2-4	81-84	der	_	
+2-5	85-98	Fahrtrichtung	_	
+2-6	99-107	verläuft	_	
+2-7	108-111	auf	_	
+2-8	112-115	der	_	
+2-9	116-122	Straße	_	
+2-10	122-123	,	_	
+2-11	124-128	aber	_	
+2-12	129-131	an	_	
+2-13	132-135	der	_	
+2-14	136-140	Ecke	_	
+2-15	141-145	muss	_	
+2-16	146-149	man	_	
+2-17	150-153	für	_	
+2-18	154-159	einen	_	
+2-19	160-165	Meter	_	
+2-20	166-169	auf	_	
+2-21	170-173	den	_	
+2-22	174-185	Bürgersteig	_	
+2-23	186-187	(	_	
+2-24	187-193	Radweg	_	
+2-25	194-197	auf	_	
+2-26	198-201	dem	_	
+2-27	202-213	Bürgersteig	_	
+2-28	214-227	eingezeichnet	_	
+2-29	227-228	)	_	
+2-30	228-229	.	_	

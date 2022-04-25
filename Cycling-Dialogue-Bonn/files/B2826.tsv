@@ -1,0 +1,233 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlechte Situation für Radfahrer im Bereich Nord-/Altstadt
+1-1	0-9	Schlechte	_	
+1-2	10-19	Situation	_	
+1-3	20-23	für	_	
+1-4	24-33	Radfahrer	_	
+1-5	34-36	im	_	
+1-6	37-44	Bereich	*[10]	
+1-7	45-49	Nord	*[10]	
+1-8	49-50	-	*[10]	
+1-9	50-51	/	*[10]	
+1-10	51-59	Altstadt	*[10]	
+
+#Text=Im Bereich der Bonner Altstadt, hier insbesondere der Dorotheenstraße, sind die Bedingungen für Radfahrer teilweise abenteuerlich.
+2-1	62-64	Im	*[11]	
+2-2	65-72	Bereich	*[11]	
+2-3	73-76	der	*[11]	
+2-4	77-83	Bonner	*[11]	
+2-5	84-92	Altstadt	*[11]	
+2-6	92-93	,	_	
+2-7	94-98	hier	_	
+2-8	99-111	insbesondere	_	
+2-9	112-115	der	_	
+2-10	116-131	Dorotheenstraße	*	
+2-11	131-132	,	_	
+2-12	133-137	sind	_	
+2-13	138-141	die	_	
+2-14	142-153	Bedingungen	_	
+2-15	154-157	für	_	
+2-16	158-167	Radfahrer	_	
+2-17	168-177	teilweise	_	
+2-18	178-191	abenteuerlich	_	
+2-19	191-192	.	_	
+
+#Text=Aufgrund der vielen Einbahnstraßen ist das Radfahren teils nur im Gegenverkehr möglich.
+3-1	193-201	Aufgrund	_	
+3-2	202-205	der	_	
+3-3	206-212	vielen	_	
+3-4	213-227	Einbahnstraßen	_	
+3-5	228-231	ist	_	
+3-6	232-235	das	_	
+3-7	236-245	Radfahren	_	
+3-8	246-251	teils	_	
+3-9	252-255	nur	_	
+3-10	256-258	im	_	
+3-11	259-271	Gegenverkehr	_	
+3-12	272-279	möglich	_	
+3-13	279-280	.	_	
+
+#Text=Schulkinder sind auf dem Anfahrtsweg zu den Schulen durchgehend auf die Bürgersteige angewiesen, die aber wegen der engen Bebauung und Parkplatzsituation dafür viel zu eng und zu belebt sind.
+4-1	281-292	Schulkinder	_	
+4-2	293-297	sind	_	
+4-3	298-301	auf	_	
+4-4	302-305	dem	_	
+4-5	306-317	Anfahrtsweg	_	
+4-6	318-320	zu	_	
+4-7	321-324	den	_	
+4-8	325-332	Schulen	_	
+4-9	333-344	durchgehend	_	
+4-10	345-348	auf	_	
+4-11	349-352	die	_	
+4-12	353-365	Bürgersteige	_	
+4-13	366-376	angewiesen	_	
+4-14	376-377	,	_	
+4-15	378-381	die	_	
+4-16	382-386	aber	_	
+4-17	387-392	wegen	_	
+4-18	393-396	der	_	
+4-19	397-402	engen	_	
+4-20	403-411	Bebauung	_	
+4-21	412-415	und	_	
+4-22	416-434	Parkplatzsituation	_	
+4-23	435-440	dafür	_	
+4-24	441-445	viel	_	
+4-25	446-448	zu	_	
+4-26	449-452	eng	_	
+4-27	453-456	und	_	
+4-28	457-459	zu	_	
+4-29	460-466	belebt	_	
+4-30	467-471	sind	_	
+4-31	471-472	.	_	
+
+#Text=Erschwert wird dieser Zustand dadurch, dass es auch keine/kaum sichere Ausweichstrecken gibt.
+5-1	473-482	Erschwert	_	
+5-2	483-487	wird	_	
+5-3	488-494	dieser	_	
+5-4	495-502	Zustand	_	
+5-5	503-510	dadurch	_	
+5-6	510-511	,	_	
+5-7	512-516	dass	_	
+5-8	517-519	es	_	
+5-9	520-524	auch	_	
+5-10	525-530	keine	_	
+5-11	530-531	/	_	
+5-12	531-535	kaum	_	
+5-13	536-543	sichere	_	
+5-14	544-560	Ausweichstrecken	_	
+5-15	561-565	gibt	_	
+5-16	565-566	.	_	
+
+#Text=Dies ist schade, da die Radwege und Bürgersteige im Umfeld (z.B. Dorotheenstraße in der Nordstadt hinter dem Kaiser-Karl-Ring) teilweise gut ausgebaut und auch sauber von der Straße getrennt sind und die Fahrt auf diesen Strecken daher viel angenehmer verlaufen.
+6-1	567-571	Dies	_	
+6-2	572-575	ist	_	
+6-3	576-582	schade	_	
+6-4	582-583	,	_	
+6-5	584-586	da	_	
+6-6	587-590	die	_	
+6-7	591-598	Radwege	_	
+6-8	599-602	und	_	
+6-9	603-615	Bürgersteige	_	
+6-10	616-618	im	_	
+6-11	619-625	Umfeld	_	
+6-12	626-627	(	_	
+6-13	627-630	z.B	_	
+6-14	630-631	.	_	
+6-15	632-647	Dorotheenstraße	*[12]	
+6-16	648-650	in	*[12]	
+6-17	651-654	der	*[12]	
+6-18	655-664	Nordstadt	*[12]	
+6-19	665-671	hinter	*[12]	
+6-20	672-675	dem	*[12]	
+6-21	676-692	Kaiser-Karl-Ring	*[12]	
+6-22	692-693	)	_	
+6-23	694-703	teilweise	_	
+6-24	704-707	gut	_	
+6-25	708-717	ausgebaut	_	
+6-26	718-721	und	_	
+6-27	722-726	auch	_	
+6-28	727-733	sauber	_	
+6-29	734-737	von	_	
+6-30	738-741	der	_	
+6-31	742-748	Straße	_	
+6-32	749-757	getrennt	_	
+6-33	758-762	sind	_	
+6-34	763-766	und	_	
+6-35	767-770	die	_	
+6-36	771-776	Fahrt	_	
+6-37	777-780	auf	_	
+6-38	781-787	diesen	_	
+6-39	788-796	Strecken	_	
+6-40	797-802	daher	_	
+6-41	803-807	viel	_	
+6-42	808-818	angenehmer	_	
+6-43	819-828	verlaufen	_	
+6-44	828-829	.	_	
+
+#Text=Es wäre insgesamt schön, wenn es möglich wäre auch aus der Nordstadt in relativ sicherer Form bis in die Altstadt, Zentrum fahren zu können.
+7-1	830-832	Es	_	
+7-2	833-837	wäre	_	
+7-3	838-847	insgesamt	_	
+7-4	848-853	schön	_	
+7-5	853-854	,	_	
+7-6	855-859	wenn	_	
+7-7	860-862	es	_	
+7-8	863-870	möglich	_	
+7-9	871-875	wäre	_	
+7-10	876-880	auch	_	
+7-11	881-884	aus	_	
+7-12	885-888	der	_	
+7-13	889-898	Nordstadt	_	
+7-14	899-901	in	_	
+7-15	902-909	relativ	_	
+7-16	910-918	sicherer	_	
+7-17	919-923	Form	_	
+7-18	924-927	bis	_	
+7-19	928-930	in	_	
+7-20	931-934	die	*[13]	
+7-21	935-943	Altstadt	*[13]	
+7-22	943-944	,	_	
+7-23	945-952	Zentrum	*	
+7-24	953-959	fahren	_	
+7-25	960-962	zu	_	
+7-26	963-969	können	_	
+7-27	969-970	.	_	
+
+#Text=Heute ist dies aber nur auf Umwegen bzw. auf teilweise sehr unsicheren Wegen möglich.
+8-1	971-976	Heute	_	
+8-2	977-980	ist	_	
+8-3	981-985	dies	_	
+8-4	986-990	aber	_	
+8-5	991-994	nur	_	
+8-6	995-998	auf	_	
+8-7	999-1006	Umwegen	_	
+8-8	1007-1010	bzw	_	
+8-9	1010-1011	.	_	
+8-10	1012-1015	auf	_	
+8-11	1016-1025	teilweise	_	
+8-12	1026-1030	sehr	_	
+8-13	1031-1041	unsicheren	_	
+8-14	1042-1047	Wegen	_	
+8-15	1048-1055	möglich	_	
+8-16	1055-1056	.	_	
+
+#Text=Auf der Kölnstrasse liegen z.T. die Bahnschienen so eng am Straßenrand, dass Radfahren mit dünnen Reifen eine durchaus riskante Angelegenheit sein kann, womit auch diese Route eher ungern gefahren wird.
+9-1	1057-1060	Auf	*[14]	
+9-2	1061-1064	der	*[14]	
+9-3	1065-1076	Kölnstrasse	*[14]	
+9-4	1077-1083	liegen	_	
+9-5	1084-1087	z.T	_	
+9-6	1087-1088	.	_	
+9-7	1089-1092	die	_	
+9-8	1093-1105	Bahnschienen	_	
+9-9	1106-1108	so	_	
+9-10	1109-1112	eng	_	
+9-11	1113-1115	am	_	
+9-12	1116-1127	Straßenrand	_	
+9-13	1127-1128	,	_	
+9-14	1129-1133	dass	_	
+9-15	1134-1143	Radfahren	_	
+9-16	1144-1147	mit	_	
+9-17	1148-1154	dünnen	_	
+9-18	1155-1161	Reifen	_	
+9-19	1162-1166	eine	_	
+9-20	1167-1175	durchaus	_	
+9-21	1176-1184	riskante	_	
+9-22	1185-1198	Angelegenheit	_	
+9-23	1199-1203	sein	_	
+9-24	1204-1208	kann	_	
+9-25	1208-1209	,	_	
+9-26	1210-1215	womit	_	
+9-27	1216-1220	auch	_	
+9-28	1221-1226	diese	_	
+9-29	1227-1232	Route	_	
+9-30	1233-1237	eher	_	
+9-31	1238-1244	ungern	_	
+9-32	1245-1253	gefahren	_	
+9-33	1254-1258	wird	_	
+9-34	1258-1259	.	_	

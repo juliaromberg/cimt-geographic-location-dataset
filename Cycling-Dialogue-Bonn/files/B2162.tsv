@@ -1,0 +1,112 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradspur + Fahrradabstellmöglichkeiten
+1-1	0-11	Fahrradspur	_	
+1-2	12-13	+	_	
+1-3	14-41	Fahrradabstellmöglichkeiten	_	
+
+#Text=Die Friedrichstraße ist für den Radverkehr in beide Richtungen frei gegeben.
+2-1	44-47	Die	*[7]	
+2-2	48-63	Friedrichstraße	*[7]	
+2-3	64-67	ist	_	
+2-4	68-71	für	_	
+2-5	72-75	den	_	
+2-6	76-86	Radverkehr	_	
+2-7	87-89	in	_	
+2-8	90-95	beide	_	
+2-9	96-106	Richtungen	_	
+2-10	107-111	frei	_	
+2-11	112-119	gegeben	_	
+2-12	119-120	.	_	
+
+#Text=Jedoch kann man als Radfahrer ob der vielen Fußgänger nur schlecht die Friedrichstraße befahren.
+3-1	121-127	Jedoch	_	
+3-2	128-132	kann	_	
+3-3	133-136	man	_	
+3-4	137-140	als	_	
+3-5	141-150	Radfahrer	_	
+3-6	151-153	ob	_	
+3-7	154-157	der	_	
+3-8	158-164	vielen	_	
+3-9	165-174	Fußgänger	_	
+3-10	175-178	nur	_	
+3-11	179-187	schlecht	_	
+3-12	188-191	die	*[8]	
+3-13	192-207	Friedrichstraße	*[8]	
+3-14	208-216	befahren	_	
+3-15	216-217	.	_	
+
+#Text=Vielleicht wäre eine gekennzeichnete Fahrradspur, ähnlich wie die Niederländer es auch in vielen Fußgängerzonen schon seit Jahren praktizieren, hierfür eine für Fußgänger und Radfahrer geeignete Lösung.
+4-1	218-228	Vielleicht	_	
+4-2	229-233	wäre	_	
+4-3	234-238	eine	_	
+4-4	239-254	gekennzeichnete	_	
+4-5	255-266	Fahrradspur	_	
+4-6	266-267	,	_	
+4-7	268-275	ähnlich	_	
+4-8	276-279	wie	_	
+4-9	280-283	die	_	
+4-10	284-296	Niederländer	_	
+4-11	297-299	es	_	
+4-12	300-304	auch	_	
+4-13	305-307	in	_	
+4-14	308-314	vielen	_	
+4-15	315-329	Fußgängerzonen	_	
+4-16	330-335	schon	_	
+4-17	336-340	seit	_	
+4-18	341-347	Jahren	_	
+4-19	348-360	praktizieren	_	
+4-20	360-361	,	_	
+4-21	362-369	hierfür	_	
+4-22	370-374	eine	_	
+4-23	375-378	für	_	
+4-24	379-388	Fußgänger	_	
+4-25	389-392	und	_	
+4-26	393-402	Radfahrer	_	
+4-27	403-412	geeignete	_	
+4-28	413-419	Lösung	_	
+4-29	419-420	.	_	
+
+#Text=Hinzu kommt, dass die wenigen Fahrradabstellmöglichkeiten in der Friedrichstraße völlig überlastet sind.
+5-1	421-426	Hinzu	_	
+5-2	427-432	kommt	_	
+5-3	432-433	,	_	
+5-4	434-438	dass	_	
+5-5	439-442	die	_	
+5-6	443-450	wenigen	_	
+5-7	451-478	Fahrradabstellmöglichkeiten	_	
+5-8	479-481	in	*[9]	
+5-9	482-485	der	*[9]	
+5-10	486-501	Friedrichstraße	*[9]	
+5-11	502-508	völlig	_	
+5-12	509-519	überlastet	_	
+5-13	520-524	sind	_	
+5-14	524-525	.	_	
+
+#Text=So kommt es, dass viele Anwohner oder Laden/Gastronomiebesucher ihre Räder an Laternenmasten oder an den Baumgittern anketten müssen.
+6-1	526-528	So	_	
+6-2	529-534	kommt	_	
+6-3	535-537	es	_	
+6-4	537-538	,	_	
+6-5	539-543	dass	_	
+6-6	544-549	viele	_	
+6-7	550-558	Anwohner	_	
+6-8	559-563	oder	_	
+6-9	564-569	Laden	_	
+6-10	569-570	/	_	
+6-11	570-589	Gastronomiebesucher	_	
+6-12	590-594	ihre	_	
+6-13	595-600	Räder	_	
+6-14	601-603	an	_	
+6-15	604-618	Laternenmasten	_	
+6-16	619-623	oder	_	
+6-17	624-626	an	_	
+6-18	627-630	den	_	
+6-19	631-642	Baumgittern	_	
+6-20	643-651	anketten	_	
+6-21	652-658	müssen	_	
+6-22	658-659	.	_	

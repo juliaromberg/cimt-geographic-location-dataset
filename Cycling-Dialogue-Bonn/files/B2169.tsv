@@ -1,0 +1,102 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Alternative zum Bendenweg
+1-1	0-11	Alternative	_	
+1-2	12-15	zum	_	
+1-3	16-25	Bendenweg	*	
+
+#Text=Parallel zum Bendenweg, der zur Fahrradstrasse umgebaut wurde, verläuft auf der anderen Seite der Bahnlinie ein Weg, auf dem keine Autos fahren.
+2-1	28-36	Parallel	*[8]	
+2-2	37-40	zum	*[8]	
+2-3	41-50	Bendenweg	*[8]	
+2-4	50-51	,	_	
+2-5	52-55	der	_	
+2-6	56-59	zur	_	
+2-7	60-74	Fahrradstrasse	_	
+2-8	75-83	umgebaut	_	
+2-9	84-89	wurde	_	
+2-10	89-90	,	_	
+2-11	91-99	verläuft	_	
+2-12	100-103	auf	_	
+2-13	104-107	der	_	
+2-14	108-115	anderen	_	
+2-15	116-121	Seite	_	
+2-16	122-125	der	_	
+2-17	126-135	Bahnlinie	_	
+2-18	136-139	ein	_	
+2-19	140-143	Weg	_	
+2-20	143-144	,	_	
+2-21	145-148	auf	_	
+2-22	149-152	dem	_	
+2-23	153-158	keine	_	
+2-24	159-164	Autos	_	
+2-25	165-171	fahren	_	
+2-26	171-172	.	_	
+
+#Text=Dieser Weg wäre wesentlich sicherer als der Bendenweg.
+3-1	173-179	Dieser	_	
+3-2	180-183	Weg	_	
+3-3	184-188	wäre	_	
+3-4	189-199	wesentlich	_	
+3-5	200-208	sicherer	_	
+3-6	209-212	als	_	
+3-7	213-216	der	*[9]	
+3-8	217-226	Bendenweg	*[9]	
+3-9	226-227	.	_	
+
+#Text=Der Bendenweg endet ja nicht besonders sicher auf die Justus-von-Liebig-Strasse.
+4-1	228-231	Der	*[10]	
+4-2	232-241	Bendenweg	*[10]	
+4-3	242-247	endet	_	
+4-4	248-250	ja	_	
+4-5	251-256	nicht	_	
+4-6	257-266	besonders	_	
+4-7	267-273	sicher	_	
+4-8	274-277	auf	*[11]	
+4-9	278-281	die	*[11]	
+4-10	282-307	Justus-von-Liebig-Strasse	*[11]	
+4-11	307-308	.	_	
+
+#Text=Die Alternative führt leider auf die Siemensstrasse.
+5-1	309-312	Die	_	
+5-2	313-324	Alternative	_	
+5-3	325-330	führt	_	
+5-4	331-337	leider	_	
+5-5	338-341	auf	*[12]	
+5-6	342-345	die	*[12]	
+5-7	346-360	Siemensstrasse	*[12]	
+5-8	360-361	.	_	
+
+#Text=Da ist es auch nicht so sicher, aber besser als das Stück bis zur Brühler Strasse.
+6-1	362-364	Da	_	
+6-2	365-368	ist	_	
+6-3	369-371	es	_	
+6-4	372-376	auch	_	
+6-5	377-382	nicht	_	
+6-6	383-385	so	_	
+6-7	386-392	sicher	_	
+6-8	392-393	,	_	
+6-9	394-398	aber	_	
+6-10	399-405	besser	_	
+6-11	406-409	als	_	
+6-12	410-413	das	_	
+6-13	414-419	Stück	_	
+6-14	420-423	bis	*[13]	
+6-15	424-427	zur	*[13]	
+6-16	428-435	Brühler	*[13]	
+6-17	436-443	Strasse	*[13]	
+6-18	443-444	.	_	
+
+#Text=Vielleicht lässt sich da noch was machen.
+7-1	445-455	Vielleicht	_	
+7-2	456-461	lässt	_	
+7-3	462-466	sich	_	
+7-4	467-469	da	_	
+7-5	470-474	noch	_	
+7-6	475-478	was	_	
+7-7	479-485	machen	_	
+7-8	485-486	.	_	

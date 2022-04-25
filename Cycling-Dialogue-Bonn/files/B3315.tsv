@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unübersichtliche Engstelle
+1-1	0-16	Unübersichtliche	_	
+1-2	17-26	Engstelle	_	
+
+#Text=Es gibt an der Stelle Radverkehr in beide Richtungen, die durch eine enge Kurve geführt werden.
+2-1	29-31	Es	_	
+2-2	32-36	gibt	_	
+2-3	37-39	an	_	
+2-4	40-43	der	_	
+2-5	44-50	Stelle	_	
+2-6	51-61	Radverkehr	_	
+2-7	62-64	in	_	
+2-8	65-70	beide	_	
+2-9	71-81	Richtungen	_	
+2-10	81-82	,	_	
+2-11	83-86	die	_	
+2-12	87-92	durch	_	
+2-13	93-97	eine	_	
+2-14	98-102	enge	_	
+2-15	103-108	Kurve	_	
+2-16	109-116	geführt	_	
+2-17	117-123	werden	_	
+2-18	123-124	.	_	
+
+#Text=Zusätzlich wird die Sicht durch Büsche und Pflanzen versperrt.
+3-1	125-135	Zusätzlich	_	
+3-2	136-140	wird	_	
+3-3	141-144	die	_	
+3-4	145-150	Sicht	_	
+3-5	151-156	durch	_	
+3-6	157-163	Büsche	_	
+3-7	164-167	und	_	
+3-8	168-176	Pflanzen	_	
+3-9	177-186	versperrt	_	
+3-10	186-187	.	_	
+
+#Text=Die Gefahrenstelle sollte entschärft werden.
+4-1	188-191	Die	_	
+4-2	192-206	Gefahrenstelle	_	
+4-3	207-213	sollte	_	
+4-4	214-224	entschärft	_	
+4-5	225-231	werden	_	
+4-6	231-232	.	_	

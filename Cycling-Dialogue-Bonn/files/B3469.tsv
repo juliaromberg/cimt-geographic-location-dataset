@@ -1,0 +1,83 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radschnellweg Köln-Bonn
+1-1	0-13	Radschnellweg	_	
+1-2	14-23	Köln-Bonn	*	
+
+#Text=Als Pendler würde ich mir einen durchgehenden Radweg zwischen Köln und Bonn wünschen, der nicht hin- und her geleitet wird.
+2-1	26-29	Als	_	
+2-2	30-37	Pendler	_	
+2-3	38-43	würde	_	
+2-4	44-47	ich	_	
+2-5	48-51	mir	_	
+2-6	52-57	einen	_	
+2-7	58-71	durchgehenden	_	
+2-8	72-78	Radweg	_	
+2-9	79-87	zwischen	*[5]	
+2-10	88-92	Köln	*[5]	
+2-11	93-96	und	*[5]	
+2-12	97-101	Bonn	*[5]	
+2-13	102-110	wünschen	_	
+2-14	110-111	,	_	
+2-15	112-115	der	_	
+2-16	116-121	nicht	_	
+2-17	122-125	hin	_	
+2-18	125-126	-	_	
+2-19	127-130	und	_	
+2-20	131-134	her	_	
+2-21	135-143	geleitet	_	
+2-22	144-148	wird	_	
+2-23	148-149	.	_	
+
+#Text=Durchgehend und möglichst ohne oder mit wenig Kontakt zu Autos.
+3-1	150-161	Durchgehend	_	
+3-2	162-165	und	_	
+3-3	166-175	möglichst	_	
+3-4	176-180	ohne	_	
+3-5	181-185	oder	_	
+3-6	186-189	mit	_	
+3-7	190-195	wenig	_	
+3-8	196-203	Kontakt	_	
+3-9	204-206	zu	_	
+3-10	207-212	Autos	_	
+3-11	212-213	.	_	
+
+#Text=Das würde vielen Pendelrn helfen, Rentnern die am Wochenende auf Rad steigen wollen um einen Ausflug zu unternehmen und im allgemeinen, allen zur besseren Lebensqualität verhelfen, die sich bewegen wollen.
+4-1	214-217	Das	_	
+4-2	218-223	würde	_	
+4-3	224-230	vielen	_	
+4-4	231-239	Pendelrn	_	
+4-5	240-246	helfen	_	
+4-6	246-247	,	_	
+4-7	248-256	Rentnern	_	
+4-8	257-260	die	_	
+4-9	261-263	am	_	
+4-10	264-274	Wochenende	_	
+4-11	275-278	auf	_	
+4-12	279-282	Rad	_	
+4-13	283-290	steigen	_	
+4-14	291-297	wollen	_	
+4-15	298-300	um	_	
+4-16	301-306	einen	_	
+4-17	307-314	Ausflug	_	
+4-18	315-317	zu	_	
+4-19	318-329	unternehmen	_	
+4-20	330-333	und	_	
+4-21	334-336	im	_	
+4-22	337-348	allgemeinen	_	
+4-23	348-349	,	_	
+4-24	350-355	allen	_	
+4-25	356-359	zur	_	
+4-26	360-368	besseren	_	
+4-27	369-383	Lebensqualität	_	
+4-28	384-393	verhelfen	_	
+4-29	393-394	,	_	
+4-30	395-398	die	_	
+4-31	399-403	sich	_	
+4-32	404-411	bewegen	_	
+4-33	412-418	wollen	_	
+4-34	418-419	.	_	

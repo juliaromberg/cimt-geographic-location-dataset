@@ -1,0 +1,134 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Überquerung Am Hauptbahnhof/ Busunterführung
+1-1	0-11	Überquerung	*[6]	
+1-2	12-14	Am	*[6]	
+1-3	15-27	Hauptbahnhof	*[6]	
+1-4	27-28	/	*[6]	
+1-5	29-44	Busunterführung	*[6]	
+
+#Text=Aus der Altstadt/Innenstadt kommend ist es nahezu unmöglich, sicher auf die andere Seite der Bahnstrecke (Richtung Weststadt/Südstadt/Poppelsdorf, Höhe Meckenheimer Allee) zu kommen.
+2-1	47-50	Aus	*[7]	
+2-2	51-54	der	*[7]	
+2-3	55-63	Altstadt	*[7]	
+2-4	63-64	/	*[7]	
+2-5	64-74	Innenstadt	*[7]	
+2-6	75-82	kommend	*[7]	
+2-7	83-86	ist	_	
+2-8	87-89	es	_	
+2-9	90-96	nahezu	_	
+2-10	97-106	unmöglich	_	
+2-11	106-107	,	_	
+2-12	108-114	sicher	_	
+2-13	115-118	auf	*[8]	
+2-14	119-122	die	*[8]	
+2-15	123-129	andere	*[8]	
+2-16	130-135	Seite	*[8]	
+2-17	136-139	der	*[8]	
+2-18	140-151	Bahnstrecke	*[8]	
+2-19	152-153	(	*[8]	
+2-20	153-161	Richtung	*[8]	
+2-21	162-171	Weststadt	*[8]	
+2-22	171-172	/	*[8]	
+2-23	172-180	Südstadt	*[8]	
+2-24	180-181	/	*[8]	
+2-25	181-192	Poppelsdorf	*[8]	
+2-26	192-193	,	*[8]	
+2-27	194-198	Höhe	*[8]	
+2-28	199-211	Meckenheimer	*[8]	
+2-29	212-217	Allee	*[8]	
+2-30	217-218	)	*[8]	
+2-31	219-221	zu	_	
+2-32	222-228	kommen	_	
+2-33	228-229	.	_	
+
+#Text=Die Fahrradstraße 'Florentiusgraben' ist aus Norden kommend, nicht weiter angebunden und endet in einer Parkhauseinfahrt.
+3-1	230-233	Die	*[9]	
+3-2	234-247	Fahrradstraße	*[9]	
+3-3	248-249	'	*[9]	
+3-4	249-265	Florentiusgraben	*[9]	
+3-5	265-266	'	*[9]	
+3-6	267-270	ist	*[9]	
+3-7	271-274	aus	*[9]	
+3-8	275-281	Norden	*[9]	
+3-9	282-289	kommend	*[9]	
+3-10	289-290	,	_	
+3-11	291-296	nicht	_	
+3-12	297-303	weiter	_	
+3-13	304-314	angebunden	_	
+3-14	315-318	und	_	
+3-15	319-324	endet	_	
+3-16	325-327	in	_	
+3-17	328-333	einer	_	
+3-18	334-350	Parkhauseinfahrt	_	
+3-19	350-351	.	_	
+
+#Text=Möchte man mit dem Rad Richtung Meckenheimer Allee, so muss man sich durch Fußgängerbereiche, über Parkplätze und dann durch eine sehr gefährliche Busunterführung wagen (die bei Regen durch Kopfsteinpflaster sehr rutschig ist).
+4-1	352-358	Möchte	_	
+4-2	359-362	man	_	
+4-3	363-366	mit	_	
+4-4	367-370	dem	_	
+4-5	371-374	Rad	_	
+4-6	375-383	Richtung	*[10]	
+4-7	384-396	Meckenheimer	*[10]	
+4-8	397-402	Allee	*[10]	
+4-9	402-403	,	_	
+4-10	404-406	so	_	
+4-11	407-411	muss	_	
+4-12	412-415	man	_	
+4-13	416-420	sich	_	
+4-14	421-426	durch	_	
+4-15	427-444	Fußgängerbereiche	_	
+4-16	444-445	,	_	
+4-17	446-450	über	_	
+4-18	451-461	Parkplätze	_	
+4-19	462-465	und	_	
+4-20	466-470	dann	_	
+4-21	471-476	durch	_	
+4-22	477-481	eine	_	
+4-23	482-486	sehr	_	
+4-24	487-498	gefährliche	_	
+4-25	499-514	Busunterführung	_	
+4-26	515-520	wagen	_	
+4-27	521-522	(	_	
+4-28	522-525	die	_	
+4-29	526-529	bei	_	
+4-30	530-535	Regen	_	
+4-31	536-541	durch	_	
+4-32	542-559	Kopfsteinpflaster	_	
+4-33	560-564	sehr	_	
+4-34	565-573	rutschig	_	
+4-35	574-577	ist	_	
+4-36	577-578	)	_	
+4-37	578-579	.	_	
+
+#Text=Das Überqueren der Straße Am Hauptbahnhof ist durch das Hohe Verkehrsaufkommen und die Straßenbahn sehr gefährlich und es gibt keine guten Möglichkeiten der Überquerung.
+5-1	580-583	Das	*[11]	
+5-2	584-594	Überqueren	*[11]	
+5-3	595-598	der	*[11]	
+5-4	599-605	Straße	*[11]	
+5-5	606-608	Am	*[11]	
+5-6	609-621	Hauptbahnhof	*[11]	
+5-7	622-625	ist	_	
+5-8	626-631	durch	_	
+5-9	632-635	das	_	
+5-10	636-640	Hohe	_	
+5-11	641-658	Verkehrsaufkommen	_	
+5-12	659-662	und	_	
+5-13	663-666	die	_	
+5-14	667-678	Straßenbahn	_	
+5-15	679-683	sehr	_	
+5-16	684-694	gefährlich	_	
+5-17	695-698	und	_	
+5-18	699-701	es	_	
+5-19	702-706	gibt	_	
+5-20	707-712	keine	_	
+5-21	713-718	guten	_	
+5-22	719-732	Möglichkeiten	_	
+5-23	733-736	der	_	
+5-24	737-748	Überquerung	_	
+5-25	748-749	.	_	

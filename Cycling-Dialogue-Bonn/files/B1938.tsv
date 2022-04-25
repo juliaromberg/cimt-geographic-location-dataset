@@ -1,0 +1,70 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Abdrängen im Kreisverkehr vorprogrammiert
+1-1	0-9	Abdrängen	_	
+1-2	10-12	im	_	
+1-3	13-25	Kreisverkehr	_	
+1-4	26-41	vorprogrammiert	_	
+
+#Text=Von Poppeldorf kommend wird man als Radfahrer von den Autofahrern abgedrängt beim Versuch in den Kreisverkehr zu fahren.
+2-1	44-47	Von	*[4]	
+2-2	48-58	Poppeldorf	*[4]	
+2-3	59-66	kommend	*[4]	
+2-4	67-71	wird	_	
+2-5	72-75	man	_	
+2-6	76-79	als	_	
+2-7	80-89	Radfahrer	_	
+2-8	90-93	von	_	
+2-9	94-97	den	_	
+2-10	98-109	Autofahrern	_	
+2-11	110-120	abgedrängt	_	
+2-12	121-125	beim	_	
+2-13	126-133	Versuch	_	
+2-14	134-136	in	_	
+2-15	137-140	den	_	
+2-16	141-153	Kreisverkehr	_	
+2-17	154-156	zu	_	
+2-18	157-163	fahren	_	
+2-19	163-164	.	_	
+
+#Text=Meine Konsequenz daraus ist kurz vor dem Kreisverkehr in die Autospur einfädeln ( was die Autofahrer dann noch wütender macht) mir aber egal da ich auch lebend auf der Arbeit ankommen möchte!!!
+3-1	165-170	Meine	_	
+3-2	171-181	Konsequenz	_	
+3-3	182-188	daraus	_	
+3-4	189-192	ist	_	
+3-5	193-197	kurz	_	
+3-6	198-201	vor	_	
+3-7	202-205	dem	_	
+3-8	206-218	Kreisverkehr	_	
+3-9	219-221	in	_	
+3-10	222-225	die	_	
+3-11	226-234	Autospur	_	
+3-12	235-244	einfädeln	_	
+3-13	245-246	(	_	
+3-14	247-250	was	_	
+3-15	251-254	die	_	
+3-16	255-265	Autofahrer	_	
+3-17	266-270	dann	_	
+3-18	271-275	noch	_	
+3-19	276-284	wütender	_	
+3-20	285-290	macht	_	
+3-21	290-291	)	_	
+3-22	292-295	mir	_	
+3-23	296-300	aber	_	
+3-24	301-305	egal	_	
+3-25	306-308	da	_	
+3-26	309-312	ich	_	
+3-27	313-317	auch	_	
+3-28	318-324	lebend	_	
+3-29	325-328	auf	_	
+3-30	329-332	der	_	
+3-31	333-339	Arbeit	_	
+3-32	340-348	ankommen	_	
+3-33	349-355	möchte	_	
+3-34	355-356	!	_	
+3-35	356-357	!	_	
+3-36	357-358	!	_	

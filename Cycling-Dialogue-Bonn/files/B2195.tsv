@@ -1,0 +1,59 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beleuchtung
+1-1	0-11	Beleuchtung	_	
+
+#Text=Die Beleuchtung in der gesamten Rheinaue, links- wie rechtsrheinisch muss ausgebaut werden.
+2-1	14-17	Die	_	
+2-2	18-29	Beleuchtung	_	
+2-3	30-32	in	*[3]	
+2-4	33-36	der	*[3]	
+2-5	37-45	gesamten	*[3]	
+2-6	46-54	Rheinaue	*[3]	
+2-7	54-55	,	*[3]	
+2-8	56-61	links	*[3]	
+2-9	61-62	-	*[3]	
+2-10	63-66	wie	*[3]	
+2-11	67-82	rechtsrheinisch	*[3]	
+2-12	83-87	muss	_	
+2-13	88-97	ausgebaut	_	
+2-14	98-104	werden	_	
+2-15	104-105	.	_	
+
+#Text=Spät abends oder Nachts ist der Weg kaum erkennbar und Stoplerfallen wie Steine, Wurzeln oder Pfähle sind in der Regel erst zu erkennen, wenn man darüber oder dagegen fährt.
+3-1	106-110	Spät	_	
+3-2	111-117	abends	_	
+3-3	118-122	oder	_	
+3-4	123-129	Nachts	_	
+3-5	130-133	ist	_	
+3-6	134-137	der	_	
+3-7	138-141	Weg	_	
+3-8	142-146	kaum	_	
+3-9	147-156	erkennbar	_	
+3-10	157-160	und	_	
+3-11	161-174	Stoplerfallen	_	
+3-12	175-178	wie	_	
+3-13	179-185	Steine	_	
+3-14	185-186	,	_	
+3-15	187-194	Wurzeln	_	
+3-16	195-199	oder	_	
+3-17	200-206	Pfähle	_	
+3-18	207-211	sind	_	
+3-19	212-214	in	_	
+3-20	215-218	der	_	
+3-21	219-224	Regel	_	
+3-22	225-229	erst	_	
+3-23	230-232	zu	_	
+3-24	233-241	erkennen	_	
+3-25	241-242	,	_	
+3-26	243-247	wenn	_	
+3-27	248-251	man	_	
+3-28	252-259	darüber	_	
+3-29	260-264	oder	_	
+3-30	265-272	dagegen	_	
+3-31	273-278	fährt	_	
+3-32	278-279	.	_	

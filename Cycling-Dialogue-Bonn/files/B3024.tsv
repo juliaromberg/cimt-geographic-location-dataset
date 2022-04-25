@@ -1,0 +1,25 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unebenheiten
+1-1	0-12	Unebenheiten	_	
+
+#Text=Der ganze Radweg entlang der L 261 (Reichsstraße) ist geprägt von Wurzeln.
+2-1	15-18	Der	*[2]	
+2-2	19-24	ganze	*[2]	
+2-3	25-31	Radweg	*[2]	
+2-4	32-39	entlang	*[2]	
+2-5	40-43	der	*[2]	
+2-6	44-45	L	*[2]	
+2-7	46-49	261	*[2]	
+2-8	50-51	(	*[2]	
+2-9	51-63	Reichsstraße	*[2]	
+2-10	63-64	)	*[2]	
+2-11	65-68	ist	_	
+2-12	69-76	geprägt	_	
+2-13	77-80	von	_	
+2-14	81-88	Wurzeln	_	
+2-15	88-89	.	_	

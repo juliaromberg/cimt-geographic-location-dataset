@@ -1,0 +1,43 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bordsteinkanten
+1-1	0-15	Bordsteinkanten	_	
+
+#Text=Im Verlauf des Radweges rechts der Kölnstraße stadtauswärts, gibt es zahlreiche Bordsteinkanten die eine zügige Fahrt verhindern.... oder man nimmt den Achter im der Felge in Kauf.
+2-1	18-20	Im	*[2]	
+2-2	21-28	Verlauf	*[2]	
+2-3	29-32	des	*[2]	
+2-4	33-41	Radweges	*[2]	
+2-5	42-48	rechts	*[2]	
+2-6	49-52	der	*[2]	
+2-7	53-63	Kölnstraße	*[2]	
+2-8	64-77	stadtauswärts	*[2]	
+2-9	77-78	,	_	
+2-10	79-83	gibt	_	
+2-11	84-86	es	_	
+2-12	87-97	zahlreiche	_	
+2-13	98-113	Bordsteinkanten	_	
+2-14	114-117	die	_	
+2-15	118-122	eine	_	
+2-16	123-129	zügige	_	
+2-17	130-135	Fahrt	_	
+2-18	136-146	verhindern	_	
+2-19	146-147	.	_	
+2-20	147-148	.	_	
+2-21	148-149	.	_	
+2-22	149-150	.	_	
+2-23	151-155	oder	_	
+2-24	156-159	man	_	
+2-25	160-165	nimmt	_	
+2-26	166-169	den	_	
+2-27	170-176	Achter	_	
+2-28	177-179	im	_	
+2-29	180-183	der	_	
+2-30	184-189	Felge	_	
+2-31	190-192	in	_	
+2-32	193-197	Kauf	_	
+2-33	197-198	.	_	

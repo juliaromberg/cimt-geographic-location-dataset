@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampel Finkenbergstraße/Königswinterer Straße
+1-1	0-5	Ampel	_	
+1-2	6-22	Finkenbergstraße	*[5]	
+1-3	22-23	/	*[5]	
+1-4	23-37	Königswinterer	*[5]	
+1-5	38-44	Straße	*[5]	
+
+#Text=Wenn man die Finkenbergstraße hochfährt muss man in einem steilen Hang stehen bleiben und warten um die Königswinterer Straße zu überqueren.
+2-1	47-51	Wenn	_	
+2-2	52-55	man	_	
+2-3	56-59	die	*[6]	
+2-4	60-76	Finkenbergstraße	*[6]	
+2-5	77-86	hochfährt	*[6]	
+2-6	87-91	muss	_	
+2-7	92-95	man	_	
+2-8	96-98	in	_	
+2-9	99-104	einem	_	
+2-10	105-112	steilen	_	
+2-11	113-117	Hang	_	
+2-12	118-124	stehen	_	
+2-13	125-132	bleiben	_	
+2-14	133-136	und	_	
+2-15	137-143	warten	_	
+2-16	144-146	um	_	
+2-17	147-150	die	*[7]	
+2-18	151-165	Königswinterer	*[7]	
+2-19	166-172	Straße	*[7]	
+2-20	173-175	zu	*[7]	
+2-21	176-186	überqueren	*[7]	
+2-22	186-187	.	_	
+
+#Text=Es ist aufgrund des starken Gefälles kaum möglich in diesem Hang noch einmal anzufahren.
+3-1	188-190	Es	_	
+3-2	191-194	ist	_	
+3-3	195-203	aufgrund	_	
+3-4	204-207	des	_	
+3-5	208-215	starken	_	
+3-6	216-224	Gefälles	_	
+3-7	225-229	kaum	_	
+3-8	230-237	möglich	_	
+3-9	238-240	in	_	
+3-10	241-247	diesem	_	
+3-11	248-252	Hang	_	
+3-12	253-257	noch	_	
+3-13	258-264	einmal	_	
+3-14	265-275	anzufahren	_	
+3-15	275-276	.	_	
+
+#Text=An der Ecke Finkenbergstraße/Königswinterer Straße sollte eine Fußgängerampel installiert werden und auf grün schalten wenn ein Radfahrer den Berg hochfährt so dass dieser direkt durchfahren kann und nicht im Hang halten muss.
+4-1	277-279	An	*[8]	
+4-2	280-283	der	*[8]	
+4-3	284-288	Ecke	*[8]	
+4-4	289-305	Finkenbergstraße	*[8]	
+4-5	305-306	/	*[8]	
+4-6	306-320	Königswinterer	*[8]	
+4-7	321-327	Straße	*[8]	
+4-8	328-334	sollte	_	
+4-9	335-339	eine	_	
+4-10	340-354	Fußgängerampel	_	
+4-11	355-366	installiert	_	
+4-12	367-373	werden	_	
+4-13	374-377	und	_	
+4-14	378-381	auf	_	
+4-15	382-386	grün	_	
+4-16	387-395	schalten	_	
+4-17	396-400	wenn	_	
+4-18	401-404	ein	_	
+4-19	405-414	Radfahrer	_	
+4-20	415-418	den	_	
+4-21	419-423	Berg	_	
+4-22	424-433	hochfährt	_	
+4-23	434-436	so	_	
+4-24	437-441	dass	_	
+4-25	442-448	dieser	_	
+4-26	449-455	direkt	_	
+4-27	456-467	durchfahren	_	
+4-28	468-472	kann	_	
+4-29	473-476	und	_	
+4-30	477-482	nicht	_	
+4-31	483-485	im	_	
+4-32	486-490	Hang	_	
+4-33	491-497	halten	_	
+4-34	498-502	muss	_	
+4-35	502-503	.	_	

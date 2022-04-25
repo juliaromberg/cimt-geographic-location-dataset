@@ -1,0 +1,111 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Klare Wegführung erforderlich
+1-1	0-5	Klare	_	
+1-2	6-16	Wegführung	_	
+1-3	17-29	erforderlich	_	
+
+#Text=An der Kreuzung Liebigstr/Subbelrather Str. fahren von der Liebigstraße kommende Radfahrer häufig quer über die Straße oder über den Zebrastreifen, was zu gefährlichen Situationen mit PKW führt, die von der Subbelrather in die Liebigstraße abbiegen.
+2-1	32-34	An	*[6]	
+2-2	35-38	der	*[6]	
+2-3	39-47	Kreuzung	*[6]	
+2-4	48-57	Liebigstr	*[6]	
+2-5	57-58	/	*[6]	
+2-6	58-70	Subbelrather	*[6]	
+2-7	71-74	Str	*[6]	
+2-8	74-75	.	_	
+2-9	76-82	fahren	_	
+2-10	83-86	von	*[7]	
+2-11	87-90	der	*[7]	
+2-12	91-103	Liebigstraße	*[7]	
+2-13	104-112	kommende	*[7]	
+2-14	113-122	Radfahrer	_	
+2-15	123-129	häufig	_	
+2-16	130-134	quer	_	
+2-17	135-139	über	_	
+2-18	140-143	die	_	
+2-19	144-150	Straße	_	
+2-20	151-155	oder	_	
+2-21	156-160	über	_	
+2-22	161-164	den	_	
+2-23	165-178	Zebrastreifen	_	
+2-24	178-179	,	_	
+2-25	180-183	was	_	
+2-26	184-186	zu	_	
+2-27	187-199	gefährlichen	_	
+2-28	200-211	Situationen	_	
+2-29	212-215	mit	_	
+2-30	216-219	PKW	_	
+2-31	220-225	führt	_	
+2-32	225-226	,	_	
+2-33	227-230	die	_	
+2-34	231-234	von	*[8]	
+2-35	235-238	der	*[8]	
+2-36	239-251	Subbelrather	*[8]	
+2-37	252-254	in	*[8]	
+2-38	255-258	die	*[8]	
+2-39	259-271	Liebigstraße	*[8]	
+2-40	272-280	abbiegen	*[8]	
+2-41	280-281	.	_	
+
+#Text=Außerdem benutzen diese Radfahrer dann häufig den (ohnehin sehr schmalen) Fußweg, um zum Rewe oder Richtung Innere Kanalstraße zu fahren.
+3-1	282-290	Außerdem	_	
+3-2	291-299	benutzen	_	
+3-3	300-305	diese	_	
+3-4	306-315	Radfahrer	_	
+3-5	316-320	dann	_	
+3-6	321-327	häufig	_	
+3-7	328-331	den	_	
+3-8	332-333	(	_	
+3-9	333-340	ohnehin	_	
+3-10	341-345	sehr	_	
+3-11	346-354	schmalen	_	
+3-12	354-355	)	_	
+3-13	356-362	Fußweg	_	
+3-14	362-363	,	_	
+3-15	364-366	um	_	
+3-16	367-370	zum	_	
+3-17	371-375	Rewe	_	
+3-18	376-380	oder	_	
+3-19	381-389	Richtung	*[9]	
+3-20	390-396	Innere	*[9]	
+3-21	397-408	Kanalstraße	*[9]	
+3-22	409-411	zu	_	
+3-23	412-418	fahren	_	
+3-24	418-419	.	_	
+
+#Text=Hier sollte eine eindeutige Verkehrsführung eingerichtet werden, damit die Radfahrer zunächst über die Subbelrather Str fahren und dann erst links abbiegen.
+4-1	420-424	Hier	_	
+4-2	425-431	sollte	_	
+4-3	432-436	eine	_	
+4-4	437-447	eindeutige	_	
+4-5	448-463	Verkehrsführung	_	
+4-6	464-476	eingerichtet	_	
+4-7	477-483	werden	_	
+4-8	483-484	,	_	
+4-9	485-490	damit	_	
+4-10	491-494	die	_	
+4-11	495-504	Radfahrer	_	
+4-12	505-513	zunächst	_	
+4-13	514-518	über	*[10]	
+4-14	519-522	die	*[10]	
+4-15	523-535	Subbelrather	*[10]	
+4-16	536-539	Str	*[10]	
+4-17	540-546	fahren	_	
+4-18	547-550	und	_	
+4-19	551-555	dann	_	
+4-20	556-560	erst	_	
+4-21	561-566	links	_	
+4-22	567-575	abbiegen	_	
+4-23	575-576	.	_	
+
+#Text=Entsprechende Ampeln sind vorhanden.
+5-1	577-590	Entsprechende	_	
+5-2	591-597	Ampeln	_	
+5-3	598-602	sind	_	
+5-4	603-612	vorhanden	_	
+5-5	612-613	.	_	

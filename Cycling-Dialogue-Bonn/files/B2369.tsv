@@ -1,0 +1,105 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkplätze und Einfahrten führen zu gefährlichen Situationen
+1-1	0-10	Parkplätze	_	
+1-2	11-14	und	_	
+1-3	15-25	Einfahrten	_	
+1-4	26-32	führen	_	
+1-5	33-35	zu	_	
+1-6	36-48	gefährlichen	_	
+1-7	49-60	Situationen	_	
+
+#Text=Der Radweg entlang der Hausdorfstraße läuft zwischen Fußweg und Parkplätzen entlang.
+2-1	63-66	Der	*[7]	
+2-2	67-73	Radweg	*[7]	
+2-3	74-81	entlang	*[7]	
+2-4	82-85	der	*[7]	
+2-5	86-100	Hausdorfstraße	*[7]	
+2-6	101-106	läuft	_	
+2-7	107-115	zwischen	_	
+2-8	116-122	Fußweg	_	
+2-9	123-126	und	_	
+2-10	127-138	Parkplätzen	_	
+2-11	139-146	entlang	_	
+2-12	146-147	.	_	
+
+#Text=Immer wieder wird dieser von Autos überfahren die zum einparken auf den Radweg ausweichen um möglichst schnell die Straße frei zu machen.
+3-1	148-153	Immer	_	
+3-2	154-160	wieder	_	
+3-3	161-165	wird	_	
+3-4	166-172	dieser	_	
+3-5	173-176	von	_	
+3-6	177-182	Autos	_	
+3-7	183-193	überfahren	_	
+3-8	194-197	die	_	
+3-9	198-201	zum	_	
+3-10	202-211	einparken	_	
+3-11	212-215	auf	_	
+3-12	216-219	den	_	
+3-13	220-226	Radweg	_	
+3-14	227-237	ausweichen	_	
+3-15	238-240	um	_	
+3-16	241-250	möglichst	_	
+3-17	251-258	schnell	_	
+3-18	259-262	die	_	
+3-19	263-269	Straße	_	
+3-20	270-274	frei	_	
+3-21	275-277	zu	_	
+3-22	278-284	machen	_	
+3-23	284-285	.	_	
+
+#Text=Auch werden immer wieder Autotüren aufgerissen welche den Radweg dann versperren.
+4-1	286-290	Auch	_	
+4-2	291-297	werden	_	
+4-3	298-303	immer	_	
+4-4	304-310	wieder	_	
+4-5	311-320	Autotüren	_	
+4-6	321-332	aufgerissen	_	
+4-7	333-339	welche	_	
+4-8	340-343	den	_	
+4-9	344-350	Radweg	_	
+4-10	351-355	dann	_	
+4-11	356-366	versperren	_	
+4-12	366-367	.	_	
+
+#Text=Zudem existieren einige Einfahren in Garagen welche aber auch gerne von Kurzparkern oder der Post genutzt werden.
+5-1	368-373	Zudem	_	
+5-2	374-384	existieren	_	
+5-3	385-391	einige	_	
+5-4	392-401	Einfahren	_	
+5-5	402-404	in	_	
+5-6	405-412	Garagen	_	
+5-7	413-419	welche	_	
+5-8	420-424	aber	_	
+5-9	425-429	auch	_	
+5-10	430-435	gerne	_	
+5-11	436-439	von	_	
+5-12	440-451	Kurzparkern	_	
+5-13	452-456	oder	_	
+5-14	457-460	der	_	
+5-15	461-465	Post	_	
+5-16	466-473	genutzt	_	
+5-17	474-480	werden	_	
+5-18	480-481	.	_	
+
+#Text=Hier wird der Radweg oft so versperrt das ein ausweichen auf den Fußweg notwendig ist.
+6-1	482-486	Hier	_	
+6-2	487-491	wird	_	
+6-3	492-495	der	_	
+6-4	496-502	Radweg	_	
+6-5	503-506	oft	_	
+6-6	507-509	so	_	
+6-7	510-519	versperrt	_	
+6-8	520-523	das	_	
+6-9	524-527	ein	_	
+6-10	528-538	ausweichen	_	
+6-11	539-542	auf	_	
+6-12	543-546	den	_	
+6-13	547-553	Fußweg	_	
+6-14	554-563	notwendig	_	
+6-15	564-567	ist	_	
+6-16	567-568	.	_	

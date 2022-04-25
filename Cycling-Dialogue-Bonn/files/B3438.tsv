@@ -1,0 +1,219 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vogtsgasse&Brassertufer: Einbahnstraße & breiterer Radweg
+1-1	0-10	Vogtsgasse	*[12]	
+1-2	10-11	&	*[12]	
+1-3	11-23	Brassertufer	*[12]	
+1-4	23-24	:	_	
+1-5	25-38	Einbahnstraße	_	
+1-6	39-40	&	_	
+1-7	41-50	breiterer	_	
+1-8	51-57	Radweg	_	
+
+#Text=Bonntourismus boomt.
+2-1	60-73	Bonntourismus	_	
+2-2	74-79	boomt	_	
+2-3	79-80	.	_	
+
+#Text=Dumm nur, dass Touristen (Hotelschiffe, KHD & Normaltouristen) & Autos & tausende Radfahrer sich alle am Vogtsgasse&Brassertufer drängeln.
+3-1	81-85	Dumm	_	
+3-2	86-89	nur	_	
+3-3	89-90	,	_	
+3-4	91-95	dass	_	
+3-5	96-105	Touristen	_	
+3-6	106-107	(	_	
+3-7	107-119	Hotelschiffe	_	
+3-8	119-120	,	_	
+3-9	121-124	KHD	_	
+3-10	125-126	&	_	
+3-11	127-142	Normaltouristen	_	
+3-12	142-143	)	_	
+3-13	144-145	&	_	
+3-14	146-151	Autos	_	
+3-15	152-153	&	_	
+3-16	154-162	tausende	_	
+3-17	163-172	Radfahrer	_	
+3-18	173-177	sich	_	
+3-19	178-182	alle	_	
+3-20	183-185	am	*[13]	
+3-21	186-196	Vogtsgasse	*[13]	
+3-22	196-197	&	*[13]	
+3-23	197-209	Brassertufer	*[13]	
+3-24	210-218	drängeln	_	
+3-25	218-219	.	_	
+
+#Text=Der beidseitige Radweg hier ist jedoch nur ca 1,5 m breit, was seit Jahrzehnten nicht den Anforderungen von Radwegen für zwei Richtungen entspricht.
+4-1	220-223	Der	_	
+4-2	224-235	beidseitige	_	
+4-3	236-242	Radweg	_	
+4-4	243-247	hier	_	
+4-5	248-251	ist	_	
+4-6	252-258	jedoch	_	
+4-7	259-262	nur	_	
+4-8	263-265	ca	_	
+4-9	266-269	1,5	_	
+4-10	270-271	m	_	
+4-11	272-277	breit	_	
+4-12	277-278	,	_	
+4-13	279-282	was	_	
+4-14	283-287	seit	_	
+4-15	288-299	Jahrzehnten	_	
+4-16	300-305	nicht	_	
+4-17	306-309	den	_	
+4-18	310-323	Anforderungen	_	
+4-19	324-327	von	_	
+4-20	328-336	Radwegen	_	
+4-21	337-340	für	_	
+4-22	341-345	zwei	_	
+4-23	346-356	Richtungen	_	
+4-24	357-367	entspricht	_	
+4-25	367-368	.	_	
+
+#Text=Diesen super schmallen Radweg nutzen jedoch täglich tausende Pendler &Studenten & Rheinradtouristen.
+5-1	369-375	Diesen	_	
+5-2	376-381	super	_	
+5-3	382-391	schmallen	_	
+5-4	392-398	Radweg	_	
+5-5	399-405	nutzen	_	
+5-6	406-412	jedoch	_	
+5-7	413-420	täglich	_	
+5-8	421-429	tausende	_	
+5-9	430-437	Pendler	_	
+5-10	438-439	&	_	
+5-11	439-448	Studenten	_	
+5-12	449-450	&	_	
+5-13	451-468	Rheinradtouristen	_	
+5-14	468-469	.	_	
+
+#Text=Leider kreuzen ihn im Sommer auch täglich über tausend Touristen, die meisten davon jedoch realisieren nicht, dass sie einen Radweg kreuzen.
+6-1	470-476	Leider	_	
+6-2	477-484	kreuzen	_	
+6-3	485-488	ihn	_	
+6-4	489-491	im	_	
+6-5	492-498	Sommer	_	
+6-6	499-503	auch	_	
+6-7	504-511	täglich	_	
+6-8	512-516	über	_	
+6-9	517-524	tausend	_	
+6-10	525-534	Touristen	_	
+6-11	534-535	,	_	
+6-12	536-539	die	_	
+6-13	540-547	meisten	_	
+6-14	548-553	davon	_	
+6-15	554-560	jedoch	_	
+6-16	561-572	realisieren	_	
+6-17	573-578	nicht	_	
+6-18	578-579	,	_	
+6-19	580-584	dass	_	
+6-20	585-588	sie	_	
+6-21	589-594	einen	_	
+6-22	595-601	Radweg	_	
+6-23	602-609	kreuzen	_	
+6-24	609-610	.	_	
+
+#Text=Ein Lösung für diese Engstelle am Rhein gibt es nur, wenn man den Autofahrern eine Spur abnimmt und diesen in einen breiteren Radweg umwandelt.
+7-1	611-614	Ein	_	
+7-2	615-621	Lösung	_	
+7-3	622-625	für	_	
+7-4	626-631	diese	_	
+7-5	632-641	Engstelle	_	
+7-6	642-644	am	_	
+7-7	645-650	Rhein	_	
+7-8	651-655	gibt	_	
+7-9	656-658	es	_	
+7-10	659-662	nur	_	
+7-11	662-663	,	_	
+7-12	664-668	wenn	_	
+7-13	669-672	man	_	
+7-14	673-676	den	_	
+7-15	677-688	Autofahrern	_	
+7-16	689-693	eine	_	
+7-17	694-698	Spur	_	
+7-18	699-706	abnimmt	_	
+7-19	707-710	und	_	
+7-20	711-717	diesen	_	
+7-21	718-720	in	_	
+7-22	721-726	einen	_	
+7-23	727-736	breiteren	_	
+7-24	737-743	Radweg	_	
+7-25	744-753	umwandelt	_	
+7-26	753-754	.	_	
+
+#Text=Ergo: Einbahnstraße aus Richtung Köln in Richtung Bad-Godesberg von Vogtgasse (50m hinter Oper) bis Hochfahrt Erste Fährgasse.
+8-1	755-759	Ergo	_	
+8-2	759-760	:	_	
+8-3	761-774	Einbahnstraße	_	
+8-4	775-778	aus	*[14]	
+8-5	779-787	Richtung	*[14]	
+8-6	788-792	Köln	*[14]	
+8-7	793-795	in	*[14]	
+8-8	796-804	Richtung	*[14]	
+8-9	805-818	Bad-Godesberg	*[14]	
+8-10	819-822	von	*[14]	
+8-11	823-832	Vogtgasse	*[14]	
+8-12	833-834	(	*[14]	
+8-13	834-837	50m	*[14]	
+8-14	838-844	hinter	*[14]	
+8-15	845-849	Oper	*[14]	
+8-16	849-850	)	*[14]	
+8-17	851-854	bis	*[14]	
+8-18	855-864	Hochfahrt	*[14]	
+8-19	865-870	Erste	*[14]	
+8-20	871-880	Fährgasse	*[14]	
+8-21	880-881	.	_	
+
+#Text=Und dafür aus der Fahrbahn einen breiteren Radweg machen.
+9-1	882-885	Und	_	
+9-2	886-891	dafür	_	
+9-3	892-895	aus	_	
+9-4	896-899	der	_	
+9-5	900-908	Fahrbahn	_	
+9-6	909-914	einen	_	
+9-7	915-924	breiteren	_	
+9-8	925-931	Radweg	_	
+9-9	932-938	machen	_	
+9-10	938-939	.	_	
+
+#Text=Das würde für Radfahrer und Fußgänger die Situation extrem verbessern.
+10-1	940-943	Das	_	
+10-2	944-949	würde	_	
+10-3	950-953	für	_	
+10-4	954-963	Radfahrer	_	
+10-5	964-967	und	_	
+10-6	968-977	Fußgänger	_	
+10-7	978-981	die	_	
+10-8	982-991	Situation	_	
+10-9	992-998	extrem	_	
+10-10	999-1009	verbessern	_	
+10-11	1009-1010	.	_	
+
+#Text=Und die Autofahrer können die Straße unverändert als Weg für die Parkplätze auf der rechten Seite (nur dort gibt es Parkplätze) nutzen.
+11-1	1011-1014	Und	_	
+11-2	1015-1018	die	_	
+11-3	1019-1029	Autofahrer	_	
+11-4	1030-1036	können	_	
+11-5	1037-1040	die	_	
+11-6	1041-1047	Straße	_	
+11-7	1048-1059	unverändert	_	
+11-8	1060-1063	als	_	
+11-9	1064-1067	Weg	_	
+11-10	1068-1071	für	_	
+11-11	1072-1075	die	_	
+11-12	1076-1086	Parkplätze	_	
+11-13	1087-1090	auf	_	
+11-14	1091-1094	der	_	
+11-15	1095-1102	rechten	_	
+11-16	1103-1108	Seite	_	
+11-17	1109-1110	(	_	
+11-18	1110-1113	nur	_	
+11-19	1114-1118	dort	_	
+11-20	1119-1123	gibt	_	
+11-21	1124-1126	es	_	
+11-22	1127-1137	Parkplätze	_	
+11-23	1137-1138	)	_	
+11-24	1139-1145	nutzen	_	
+11-25	1145-1146	.	_	

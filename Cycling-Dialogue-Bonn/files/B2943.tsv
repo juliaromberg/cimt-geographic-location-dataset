@@ -1,0 +1,171 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Entfall der Radwegebenutzungspflicht inkl. Ampelfurt (=Benutzung der Fahrbahn)
+1-1	0-7	Entfall	_	
+1-2	8-11	der	_	
+1-3	12-36	Radwegebenutzungspflicht	_	
+1-4	37-41	inkl	_	
+1-5	41-42	.	_	
+1-6	43-52	Ampelfurt	_	
+1-7	53-54	(	_	
+1-8	54-55	=	_	
+1-9	55-64	Benutzung	_	
+1-10	65-68	der	_	
+1-11	69-77	Fahrbahn	_	
+1-12	77-78	)	_	
+
+#Text=An dieser Stelle sollte das Fahren auf der Fahrbahn erlaubt sein.
+2-1	81-83	An	_	
+2-2	84-90	dieser	_	
+2-3	91-97	Stelle	_	
+2-4	98-104	sollte	_	
+2-5	105-108	das	_	
+2-6	109-115	Fahren	_	
+2-7	116-119	auf	_	
+2-8	120-123	der	_	
+2-9	124-132	Fahrbahn	_	
+2-10	133-140	erlaubt	_	
+2-11	141-145	sein	_	
+2-12	145-146	.	_	
+
+#Text=Für das kurze Stück in der Charles-Gaulle-Str. wird eine Benutzungspflicht angeordnet.
+3-1	147-150	Für	_	
+3-2	151-154	das	*[9]	
+3-3	155-160	kurze	*[9]	
+3-4	161-166	Stück	*[9]	
+3-5	167-169	in	*[9]	
+3-6	170-173	der	*[9]	
+3-7	174-192	Charles-Gaulle-Str	*[9]	
+3-8	192-193	.	*[9]	
+3-9	194-198	wird	_	
+3-10	199-203	eine	_	
+3-11	204-221	Benutzungspflicht	_	
+3-12	222-232	angeordnet	_	
+3-13	232-233	.	_	
+
+#Text=Die Beutzungspflicht ist an dieser Stelle sehr zu hinterfragen, zumal sich nach der Querung der gemeinsamen Ampelfurt Radfahrer/Fußgänger ohne fortgesetzten Radweg eine ungünstige Verkehrsführung ergibt:
+4-1	234-237	Die	_	
+4-2	238-254	Beutzungspflicht	_	
+4-3	255-258	ist	_	
+4-4	259-261	an	_	
+4-5	262-268	dieser	_	
+4-6	269-275	Stelle	_	
+4-7	276-280	sehr	_	
+4-8	281-283	zu	_	
+4-9	284-296	hinterfragen	_	
+4-10	296-297	,	_	
+4-11	298-303	zumal	_	
+4-12	304-308	sich	_	
+4-13	309-313	nach	_	
+4-14	314-317	der	_	
+4-15	318-325	Querung	_	
+4-16	326-329	der	_	
+4-17	330-341	gemeinsamen	_	
+4-18	342-351	Ampelfurt	_	
+4-19	352-361	Radfahrer	_	
+4-20	361-362	/	_	
+4-21	362-371	Fußgänger	_	
+4-22	372-376	ohne	_	
+4-23	377-390	fortgesetzten	_	
+4-24	391-397	Radweg	_	
+4-25	398-402	eine	_	
+4-26	403-413	ungünstige	_	
+4-27	414-429	Verkehrsführung	_	
+4-28	430-436	ergibt	_	
+4-29	436-437	:	_	
+
+#Text=Schlechte Alternative 1: Geradeausfahrt auf der Fahrbahn des Sträßchenswegs (der geradeaus verlaufende Radweg ist nicht benutzungspflichtig).
+5-1	438-447	Schlechte	_	
+5-2	448-459	Alternative	_	
+5-3	460-461	1	_	
+5-4	461-462	:	_	
+5-5	463-477	Geradeausfahrt	*[10]	
+5-6	478-481	auf	*[10]	
+5-7	482-485	der	*[10]	
+5-8	486-494	Fahrbahn	*[10]	
+5-9	495-498	des	*[10]	
+5-10	499-513	Sträßchenswegs	*[10]	
+5-11	514-515	(	_	
+5-12	515-518	der	_	
+5-13	519-528	geradeaus	_	
+5-14	529-540	verlaufende	_	
+5-15	541-547	Radweg	_	
+5-16	548-551	ist	_	
+5-17	552-557	nicht	_	
+5-18	558-577	benutzungspflichtig	_	
+5-19	577-578	)	_	
+5-20	578-579	.	_	
+
+#Text=Hier wird der Radfahrer unfreiwillig zum Rechtsabbieger mit Nachrang gegenüber dem Autoverkehr und wartet damit vorv der Ampel und nach der Ampel.
+6-1	580-584	Hier	_	
+6-2	585-589	wird	_	
+6-3	590-593	der	_	
+6-4	594-603	Radfahrer	_	
+6-5	604-616	unfreiwillig	_	
+6-6	617-620	zum	_	
+6-7	621-635	Rechtsabbieger	_	
+6-8	636-639	mit	_	
+6-9	640-648	Nachrang	_	
+6-10	649-658	gegenüber	_	
+6-11	659-662	dem	_	
+6-12	663-674	Autoverkehr	_	
+6-13	675-678	und	_	
+6-14	679-685	wartet	_	
+6-15	686-691	damit	_	
+6-16	692-696	vorv	_	
+6-17	697-700	der	_	
+6-18	701-706	Ampel	_	
+6-19	707-710	und	_	
+6-20	711-715	nach	_	
+6-21	716-719	der	_	
+6-22	720-725	Ampel	_	
+6-23	725-726	.	_	
+
+#Text=Schlechte Alternative 2: Bei Geradeausfahrt auf dem nicht benutzungspflichtigen Radweg wird von rechtsabbiegenden Autofahrern gerne die Vorfahrt missachtet oder der Weg blockiert.
+7-1	727-736	Schlechte	_	
+7-2	737-748	Alternative	_	
+7-3	749-750	2	_	
+7-4	750-751	:	_	
+7-5	752-755	Bei	_	
+7-6	756-770	Geradeausfahrt	_	
+7-7	771-774	auf	_	
+7-8	775-778	dem	_	
+7-9	779-784	nicht	_	
+7-10	785-806	benutzungspflichtigen	_	
+7-11	807-813	Radweg	_	
+7-12	814-818	wird	_	
+7-13	819-822	von	_	
+7-14	823-840	rechtsabbiegenden	_	
+7-15	841-852	Autofahrern	_	
+7-16	853-858	gerne	_	
+7-17	859-862	die	_	
+7-18	863-871	Vorfahrt	_	
+7-19	872-882	missachtet	_	
+7-20	883-887	oder	_	
+7-21	888-891	der	_	
+7-22	892-895	Weg	_	
+7-23	896-905	blockiert	_	
+7-24	905-906	.	_	
+
+#Text=Beim Linksabbiegen nach einigen Metern Weiterfahrt in Richtung Johanniter-Krankenhaus ist wieder die Querung des Sträßchenswegs erforderlich.
+8-1	907-911	Beim	*[11]	
+8-2	912-925	Linksabbiegen	*[11]	
+8-3	926-930	nach	*[11]	
+8-4	931-938	einigen	*[11]	
+8-5	939-945	Metern	*[11]	
+8-6	946-957	Weiterfahrt	*[11]	
+8-7	958-960	in	*[11]	
+8-8	961-969	Richtung	*[11]	
+8-9	970-992	Johanniter-Krankenhaus	*[11]	
+8-10	993-996	ist	_	
+8-11	997-1003	wieder	_	
+8-12	1004-1007	die	*[12]	
+8-13	1008-1015	Querung	*[12]	
+8-14	1016-1019	des	*[12]	
+8-15	1020-1034	Sträßchenswegs	*[12]	
+8-16	1035-1047	erforderlich	_	
+8-17	1047-1048	.	_	

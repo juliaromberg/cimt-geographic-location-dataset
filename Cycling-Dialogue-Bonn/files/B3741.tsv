@@ -1,0 +1,58 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefahrenstelle Bonner Talweg
+1-1	0-14	Gefahrenstelle	_	
+1-2	15-21	Bonner	*[3]	
+1-3	22-28	Talweg	*[3]	
+
+#Text=Der Bonner Talweg zwischen Weberstraße und Königsstraße ist eine einzige Gefahrenstelle: Schlechte Fahrbahnqualität, Straßenbahnschienen, Gefahr durch Autotüren parkender PKW, zu dicht überholende Kraftfahrzeuge, unachtsame Fußgänger, Radwegeführung über den Gehweg an der Straßenbahnhaltestelle Weberstraße wo sich die meisten Fußgänger aufhalten.
+2-1	31-34	Der	*[4]	
+2-2	35-41	Bonner	*[4]	
+2-3	42-48	Talweg	*[4]	
+2-4	49-57	zwischen	*[4]	
+2-5	58-69	Weberstraße	*[4]	
+2-6	70-73	und	*[4]	
+2-7	74-86	Königsstraße	*[4]	
+2-8	87-90	ist	_	
+2-9	91-95	eine	_	
+2-10	96-103	einzige	_	
+2-11	104-118	Gefahrenstelle	_	
+2-12	118-119	:	_	
+2-13	120-129	Schlechte	_	
+2-14	130-146	Fahrbahnqualität	_	
+2-15	146-147	,	_	
+2-16	148-167	Straßenbahnschienen	_	
+2-17	167-168	,	_	
+2-18	169-175	Gefahr	_	
+2-19	176-181	durch	_	
+2-20	182-191	Autotüren	_	
+2-21	192-201	parkender	_	
+2-22	202-205	PKW	_	
+2-23	205-206	,	_	
+2-24	207-209	zu	_	
+2-25	210-215	dicht	_	
+2-26	216-227	überholende	_	
+2-27	228-242	Kraftfahrzeuge	_	
+2-28	242-243	,	_	
+2-29	244-254	unachtsame	_	
+2-30	255-264	Fußgänger	_	
+2-31	264-265	,	_	
+2-32	266-280	Radwegeführung	_	
+2-33	281-285	über	_	
+2-34	286-289	den	_	
+2-35	290-296	Gehweg	*[5]	
+2-36	297-299	an	*[5]	
+2-37	300-303	der	*[5]	
+2-38	304-326	Straßenbahnhaltestelle	*[5]	
+2-39	327-338	Weberstraße	*[5]	
+2-40	339-341	wo	_	
+2-41	342-346	sich	_	
+2-42	347-350	die	_	
+2-43	351-358	meisten	_	
+2-44	359-368	Fußgänger	_	
+2-45	369-378	aufhalten	_	
+2-46	378-379	.	_	

@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sicheres Fahrradparken
+1-1	0-8	Sicheres	_	
+1-2	9-22	Fahrradparken	_	
+
+#Text=Zu der Sportanlage des Franz-Elbern-Stadions fahren täglich etliche Kinder und Jugendliche mit dem Rad.
+2-1	25-27	Zu	*[6]	
+2-2	28-31	der	*[6]	
+2-3	32-43	Sportanlage	*[6]	
+2-4	44-47	des	*[6]	
+2-5	48-69	Franz-Elbern-Stadions	*[6]	
+2-6	70-76	fahren	_	
+2-7	77-84	täglich	_	
+2-8	85-92	etliche	_	
+2-9	93-99	Kinder	_	
+2-10	100-103	und	_	
+2-11	104-115	Jugendliche	_	
+2-12	116-119	mit	_	
+2-13	120-123	dem	_	
+2-14	124-127	Rad	_	
+2-15	127-128	.	_	
+
+#Text=Nicht zuletzt wegen der ausbaufähigen ÖPNV Anbindung des Stadions.
+3-1	129-134	Nicht	_	
+3-2	135-142	zuletzt	_	
+3-3	143-148	wegen	_	
+3-4	149-152	der	_	
+3-5	153-166	ausbaufähigen	_	
+3-6	167-171	ÖPNV	_	
+3-7	172-181	Anbindung	_	
+3-8	182-185	des	_	
+3-9	186-194	Stadions	_	
+3-10	194-195	.	_	
+
+#Text=Die eher ungeeignete dunkle Ecke zum Fahrrad abstellen sollte durch eine wettergeschützte Anlage ersetzt werden.
+4-1	196-199	Die	_	
+4-2	200-204	eher	_	
+4-3	205-216	ungeeignete	_	
+4-4	217-223	dunkle	_	
+4-5	224-228	Ecke	_	
+4-6	229-232	zum	_	
+4-7	233-240	Fahrrad	_	
+4-8	241-250	abstellen	_	
+4-9	251-257	sollte	_	
+4-10	258-263	durch	_	
+4-11	264-268	eine	_	
+4-12	269-285	wettergeschützte	_	
+4-13	286-292	Anlage	_	
+4-14	293-300	ersetzt	_	
+4-15	301-307	werden	_	
+4-16	307-308	.	_	
+
+#Text=Mit der Beleuchtung dieser würde man zudem der Diebstahlsproblematik entgegenwirken.
+5-1	309-312	Mit	_	
+5-2	313-316	der	_	
+5-3	317-328	Beleuchtung	_	
+5-4	329-335	dieser	_	
+5-5	336-341	würde	_	
+5-6	342-345	man	_	
+5-7	346-351	zudem	_	
+5-8	352-355	der	_	
+5-9	356-377	Diebstahlsproblematik	_	
+5-10	378-392	entgegenwirken	_	
+5-11	392-393	.	_	

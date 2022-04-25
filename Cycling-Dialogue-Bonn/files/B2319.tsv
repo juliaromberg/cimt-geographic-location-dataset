@@ -1,0 +1,100 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwege nicht mehr in beide Richtungen frei geben
+1-1	0-7	Radwege	_	
+1-2	8-13	nicht	_	
+1-3	14-18	mehr	_	
+1-4	19-21	in	_	
+1-5	22-27	beide	_	
+1-6	28-38	Richtungen	_	
+1-7	39-43	frei	_	
+1-8	44-49	geben	_	
+
+#Text=Es sind auf beiden Seiten Radwege vorhanden, die Freigabe in beide Richtungen ist unnötig und führt allerdings zu gefährlichen Situtationen beim Überholen langsamer Radfahrer im Steigungsbereich.
+2-1	52-54	Es	_	
+2-2	55-59	sind	_	
+2-3	60-63	auf	_	
+2-4	64-70	beiden	_	
+2-5	71-77	Seiten	_	
+2-6	78-85	Radwege	_	
+2-7	86-95	vorhanden	_	
+2-8	95-96	,	_	
+2-9	97-100	die	_	
+2-10	101-109	Freigabe	_	
+2-11	110-112	in	_	
+2-12	113-118	beide	_	
+2-13	119-129	Richtungen	_	
+2-14	130-133	ist	_	
+2-15	134-141	unnötig	_	
+2-16	142-145	und	_	
+2-17	146-151	führt	_	
+2-18	152-162	allerdings	_	
+2-19	163-165	zu	_	
+2-20	166-178	gefährlichen	_	
+2-21	179-191	Situtationen	_	
+2-22	192-196	beim	_	
+2-23	197-206	Überholen	_	
+2-24	207-216	langsamer	_	
+2-25	217-226	Radfahrer	_	
+2-26	227-229	im	_	
+2-27	230-246	Steigungsbereich	_	
+2-28	246-247	.	_	
+
+#Text=Oft ist zu beobachen das deswegen trotz breitem Radweg der Fussgängerweg mit benutzt wird.
+3-1	248-251	Oft	_	
+3-2	252-255	ist	_	
+3-3	256-258	zu	_	
+3-4	259-268	beobachen	_	
+3-5	269-272	das	_	
+3-6	273-281	deswegen	_	
+3-7	282-287	trotz	_	
+3-8	288-295	breitem	_	
+3-9	296-302	Radweg	_	
+3-10	303-306	der	_	
+3-11	307-320	Fussgängerweg	_	
+3-12	321-324	mit	_	
+3-13	325-332	benutzt	_	
+3-14	333-337	wird	_	
+3-15	337-338	.	_	
+
+#Text=Es verführt ausserdem dazu am Brückenende (richtung beuel) auf der falschen Seite der Strasse weiter zu fahren, obwohl der Radweg dort schmaler und auch nicht mehr in beide Richtungen frei gegeben ist.
+4-1	339-341	Es	_	
+4-2	342-350	verführt	_	
+4-3	351-360	ausserdem	_	
+4-4	361-365	dazu	_	
+4-5	366-368	am	*[5]	
+4-6	369-380	Brückenende	*[5]	
+4-7	381-382	(	*[5]	
+4-8	382-390	richtung	*[5]	
+4-9	391-396	beuel	*[5]	
+4-10	396-397	)	_	
+4-11	398-401	auf	_	
+4-12	402-405	der	_	
+4-13	406-414	falschen	_	
+4-14	415-420	Seite	_	
+4-15	421-424	der	_	
+4-16	425-432	Strasse	_	
+4-17	433-439	weiter	_	
+4-18	440-442	zu	_	
+4-19	443-449	fahren	_	
+4-20	449-450	,	_	
+4-21	451-457	obwohl	_	
+4-22	458-461	der	_	
+4-23	462-468	Radweg	_	
+4-24	469-473	dort	_	
+4-25	474-482	schmaler	_	
+4-26	483-486	und	_	
+4-27	487-491	auch	_	
+4-28	492-497	nicht	_	
+4-29	498-502	mehr	_	
+4-30	503-505	in	_	
+4-31	506-511	beide	_	
+4-32	512-522	Richtungen	_	
+4-33	523-527	frei	_	
+4-34	528-535	gegeben	_	
+4-35	536-539	ist	_	
+4-36	539-540	.	_	

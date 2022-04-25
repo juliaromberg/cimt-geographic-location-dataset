@@ -1,0 +1,304 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vorbild Amsterdam!
+1-1	0-7	Vorbild	_	
+1-2	8-17	Amsterdam	_	
+1-3	17-18	!	_	
+
+#Text=In Bonn fahren zu viele Menschen Auto!
+2-1	21-23	In	*[19]	
+2-2	24-28	Bonn	*[19]	
+2-3	29-35	fahren	_	
+2-4	36-38	zu	_	
+2-5	39-44	viele	_	
+2-6	45-53	Menschen	_	
+2-7	54-58	Auto	_	
+2-8	58-59	!	_	
+
+#Text=Insbesondere in den bei Radfahrern sehr beliebten Vierteln (Zentrum, Südstadt, Poppelsdorf, Kessenich, Endenich, ...).
+3-1	60-72	Insbesondere	_	
+3-2	73-75	in	_	
+3-3	76-79	den	_	
+3-4	80-83	bei	_	
+3-5	84-94	Radfahrern	_	
+3-6	95-99	sehr	_	
+3-7	100-109	beliebten	_	
+3-8	110-118	Vierteln	_	
+3-9	119-120	(	_	
+3-10	120-127	Zentrum	*[20]	
+3-11	127-128	,	*[20]	
+3-12	129-137	Südstadt	*[20]	
+3-13	137-138	,	*[20]	
+3-14	139-150	Poppelsdorf	*[20]	
+3-15	150-151	,	*[20]	
+3-16	152-161	Kessenich	*[20]	
+3-17	161-162	,	*[20]	
+3-18	163-171	Endenich	*[20]	
+3-19	171-172	,	_	
+3-20	173-174	.	_	
+3-21	174-175	.	_	
+3-22	175-176	.	_	
+3-23	176-177	)	_	
+3-24	177-178	.	_	
+
+#Text=Die Auto-Pendler nutzen zudem gerne die Schleichwege durch die Viertel.
+4-1	179-182	Die	_	
+4-2	183-195	Auto-Pendler	_	
+4-3	196-202	nutzen	_	
+4-4	203-208	zudem	_	
+4-5	209-214	gerne	_	
+4-6	215-218	die	_	
+4-7	219-231	Schleichwege	_	
+4-8	232-237	durch	_	
+4-9	238-241	die	_	
+4-10	242-249	Viertel	_	
+4-11	249-250	.	_	
+
+#Text=Jeder kommunale Politiker, der etwas zur Fahrradhauptstadt beitragen möchte, sollte mal ein Wochenende in Amsterdam verbringen (1 Tag mit dem Auto, 1 Tag mit dem Fahrrad).
+5-1	251-256	Jeder	_	
+5-2	257-266	kommunale	_	
+5-3	267-276	Politiker	_	
+5-4	276-277	,	_	
+5-5	278-281	der	_	
+5-6	282-287	etwas	_	
+5-7	288-291	zur	_	
+5-8	292-309	Fahrradhauptstadt	_	
+5-9	310-319	beitragen	_	
+5-10	320-326	möchte	_	
+5-11	326-327	,	_	
+5-12	328-334	sollte	_	
+5-13	335-338	mal	_	
+5-14	339-342	ein	_	
+5-15	343-353	Wochenende	_	
+5-16	354-356	in	_	
+5-17	357-366	Amsterdam	_	
+5-18	367-377	verbringen	_	
+5-19	378-379	(	_	
+5-20	379-380	1	_	
+5-21	381-384	Tag	_	
+5-22	385-388	mit	_	
+5-23	389-392	dem	_	
+5-24	393-397	Auto	_	
+5-25	397-398	,	_	
+5-26	399-400	1	_	
+5-27	401-404	Tag	_	
+5-28	405-408	mit	_	
+5-29	409-412	dem	_	
+5-30	413-420	Fahrrad	_	
+5-31	420-421	)	_	
+5-32	421-422	.	_	
+
+#Text=Dort sind die innerstädtischen Straßen für die Autos sehr eng, es gibt viele Einbahnstraßen und das Parken ist sehr (!) teuer.
+6-1	423-427	Dort	_	
+6-2	428-432	sind	_	
+6-3	433-436	die	_	
+6-4	437-453	innerstädtischen	_	
+6-5	454-461	Straßen	_	
+6-6	462-465	für	_	
+6-7	466-469	die	_	
+6-8	470-475	Autos	_	
+6-9	476-480	sehr	_	
+6-10	481-484	eng	_	
+6-11	484-485	,	_	
+6-12	486-488	es	_	
+6-13	489-493	gibt	_	
+6-14	494-499	viele	_	
+6-15	500-514	Einbahnstraßen	_	
+6-16	515-518	und	_	
+6-17	519-522	das	_	
+6-18	523-529	Parken	_	
+6-19	530-533	ist	_	
+6-20	534-538	sehr	_	
+6-21	539-540	(	_	
+6-22	540-541	!	_	
+6-23	541-542	)	_	
+6-24	543-548	teuer	_	
+6-25	548-549	.	_	
+
+#Text=Die Fahrradfahrer haben manchmal eigene Fahrradstraßen (Autos sind dann überhaupt nicht erlaubt) und fast überall sehr breite und sehr gut ausgebaute Radwege.
+7-1	550-553	Die	_	
+7-2	554-567	Fahrradfahrer	_	
+7-3	568-573	haben	_	
+7-4	574-582	manchmal	_	
+7-5	583-589	eigene	_	
+7-6	590-604	Fahrradstraßen	_	
+7-7	605-606	(	_	
+7-8	606-611	Autos	_	
+7-9	612-616	sind	_	
+7-10	617-621	dann	_	
+7-11	622-631	überhaupt	_	
+7-12	632-637	nicht	_	
+7-13	638-645	erlaubt	_	
+7-14	645-646	)	_	
+7-15	647-650	und	_	
+7-16	651-655	fast	_	
+7-17	656-663	überall	_	
+7-18	664-668	sehr	_	
+7-19	669-675	breite	_	
+7-20	676-679	und	_	
+7-21	680-684	sehr	_	
+7-22	685-688	gut	_	
+7-23	689-699	ausgebaute	_	
+7-24	700-707	Radwege	_	
+7-25	707-708	.	_	
+
+#Text=Es gibt teilweise 2-spurige Radwege, Abbiegerspuren und Ampeln auf den Radwegen und sogar Baustellenumleitungen, auf einem Radweg.
+8-1	709-711	Es	_	
+8-2	712-716	gibt	_	
+8-3	717-726	teilweise	_	
+8-4	727-728	2	_	
+8-5	728-729	-	_	
+8-6	729-736	spurige	_	
+8-7	737-744	Radwege	_	
+8-8	744-745	,	_	
+8-9	746-760	Abbiegerspuren	_	
+8-10	761-764	und	_	
+8-11	765-771	Ampeln	_	
+8-12	772-775	auf	_	
+8-13	776-779	den	_	
+8-14	780-788	Radwegen	_	
+8-15	789-792	und	_	
+8-16	793-798	sogar	_	
+8-17	799-820	Baustellenumleitungen	_	
+8-18	820-821	,	_	
+8-19	822-825	auf	_	
+8-20	826-831	einem	_	
+8-21	832-838	Radweg	_	
+8-22	838-839	.	_	
+
+#Text=Das führt dazu, dass man innerstädtisch mit dem Rad tatsächlich schneller unterwegs ist, als mit dem Auto.
+9-1	840-843	Das	_	
+9-2	844-849	führt	_	
+9-3	850-854	dazu	_	
+9-4	854-855	,	_	
+9-5	856-860	dass	_	
+9-6	861-864	man	_	
+9-7	865-879	innerstädtisch	_	
+9-8	880-883	mit	_	
+9-9	884-887	dem	_	
+9-10	888-891	Rad	_	
+9-11	892-903	tatsächlich	_	
+9-12	904-913	schneller	_	
+9-13	914-923	unterwegs	_	
+9-14	924-927	ist	_	
+9-15	927-928	,	_	
+9-16	929-932	als	_	
+9-17	933-936	mit	_	
+9-18	937-940	dem	_	
+9-19	941-945	Auto	_	
+9-20	945-946	.	_	
+
+#Text=Und es macht Spaß!
+10-1	947-950	Und	_	
+10-2	951-953	es	_	
+10-3	954-959	macht	_	
+10-4	960-964	Spaß	_	
+10-5	964-965	!	_	
+
+#Text=Autofahren macht dagegen innerstädtisch überhaupt keinen Spaß...
+11-1	966-976	Autofahren	_	
+11-2	977-982	macht	_	
+11-3	983-990	dagegen	_	
+11-4	991-1005	innerstädtisch	_	
+11-5	1006-1015	überhaupt	_	
+11-6	1016-1022	keinen	_	
+11-7	1023-1027	Spaß	_	
+11-8	1027-1028	.	_	
+11-9	1028-1029	.	_	
+11-10	1029-1030	.	_	
+
+#Text=Für Bonn könnte man die Wohnviertel zwischen den echten Hauptstraßen komplett fahrradfreundlich machen durch:
+12-1	1031-1034	Für	_	
+12-2	1035-1039	Bonn	*	
+12-3	1040-1046	könnte	_	
+12-4	1047-1050	man	_	
+12-5	1051-1054	die	_	
+12-6	1055-1066	Wohnviertel	_	
+12-7	1067-1075	zwischen	_	
+12-8	1076-1079	den	_	
+12-9	1080-1086	echten	_	
+12-10	1087-1099	Hauptstraßen	_	
+12-11	1100-1108	komplett	_	
+12-12	1109-1126	fahrradfreundlich	_	
+12-13	1127-1133	machen	_	
+12-14	1134-1139	durch	_	
+12-15	1139-1140	:	_	
+
+#Text=- Alles Anlieger-Zonen
+13-1	1141-1142	-	_	
+13-2	1143-1148	Alles	_	
+13-3	1149-1163	Anlieger-Zonen	_	
+
+#Text=- Alles Tempo 30-Zonen
+14-1	1164-1165	-	_	
+14-2	1166-1171	Alles	_	
+14-3	1172-1177	Tempo	_	
+14-4	1178-1180	30	_	
+14-5	1180-1181	-	_	
+14-6	1181-1186	Zonen	_	
+
+#Text=- Alles Einbahnstraßen, so dass die Durchfahrt mit dem Auto keinen Sinn mehr macht (für Fahrradfahrer dann frei gegeben)
+15-1	1187-1188	-	_	
+15-2	1189-1194	Alles	_	
+15-3	1195-1209	Einbahnstraßen	_	
+15-4	1209-1210	,	_	
+15-5	1211-1213	so	_	
+15-6	1214-1218	dass	_	
+15-7	1219-1222	die	_	
+15-8	1223-1233	Durchfahrt	_	
+15-9	1234-1237	mit	_	
+15-10	1238-1241	dem	_	
+15-11	1242-1246	Auto	_	
+15-12	1247-1253	keinen	_	
+15-13	1254-1258	Sinn	_	
+15-14	1259-1263	mehr	_	
+15-15	1264-1269	macht	_	
+15-16	1270-1271	(	_	
+15-17	1271-1274	für	_	
+15-18	1275-1288	Fahrradfahrer	_	
+15-19	1289-1293	dann	_	
+15-20	1294-1298	frei	_	
+15-21	1299-1306	gegeben	_	
+15-22	1306-1307	)	_	
+
+#Text=- So viele Fahrradstraßen, wie möglich
+16-1	1308-1309	-	_	
+16-2	1310-1312	So	_	
+16-3	1313-1318	viele	_	
+16-4	1319-1333	Fahrradstraßen	_	
+16-5	1333-1334	,	_	
+16-6	1335-1338	wie	_	
+16-7	1339-1346	möglich	_	
+
+#Text=- Die Bahnübergänge für Autos verbieten (außer Krankenwagen, Polizei, Taxis etc.)
+17-1	1347-1348	-	_	
+17-2	1349-1352	Die	_	
+17-3	1353-1366	Bahnübergänge	_	
+17-4	1367-1370	für	_	
+17-5	1371-1376	Autos	_	
+17-6	1377-1386	verbieten	_	
+17-7	1387-1388	(	_	
+17-8	1388-1393	außer	_	
+17-9	1394-1406	Krankenwagen	_	
+17-10	1406-1407	,	_	
+17-11	1408-1415	Polizei	_	
+17-12	1415-1416	,	_	
+17-13	1417-1422	Taxis	_	
+17-14	1423-1426	etc	_	
+17-15	1426-1427	.	_	
+17-16	1427-1428	)	_	
+
+#Text=Dann kann sich Münster warm anziehen :-)
+18-1	1429-1433	Dann	_	
+18-2	1434-1438	kann	_	
+18-3	1439-1443	sich	_	
+18-4	1444-1451	Münster	_	
+18-5	1452-1456	warm	_	
+18-6	1457-1465	anziehen	_	
+18-7	1466-1467	:	_	
+18-8	1467-1468	-	_	
+18-9	1468-1469	)	_	

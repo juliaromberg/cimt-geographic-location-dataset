@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radspur einführen
+1-1	0-7	Radspur	_	
+1-2	8-17	einführen	_	
+
+#Text=Von der Rheinaue kommenden ergeben sich beim Einfädeln in den Verkehr auf der Joseph-Schumpeter-Allee des öfteren brenzlige Situationen.
+2-1	20-23	Von	*[4]	
+2-2	24-27	der	*[4]	
+2-3	28-36	Rheinaue	*[4]	
+2-4	37-46	kommenden	*[4]	
+2-5	47-54	ergeben	_	
+2-6	55-59	sich	_	
+2-7	60-64	beim	_	
+2-8	65-74	Einfädeln	_	
+2-9	75-77	in	_	
+2-10	78-81	den	_	
+2-11	82-89	Verkehr	_	
+2-12	90-93	auf	*[5]	
+2-13	94-97	der	*[5]	
+2-14	98-121	Joseph-Schumpeter-Allee	*[5]	
+2-15	122-125	des	_	
+2-16	126-133	öfteren	_	
+2-17	134-143	brenzlige	_	
+2-18	144-155	Situationen	_	
+2-19	155-156	.	_	
+
+#Text=Durch die Weiterführung des Radweges mit einer Spur auf der Strasse könnte diese Stelle entschärt werden.
+3-1	157-162	Durch	_	
+3-2	163-166	die	_	
+3-3	167-180	Weiterführung	_	
+3-4	181-184	des	_	
+3-5	185-193	Radweges	_	
+3-6	194-197	mit	_	
+3-7	198-203	einer	_	
+3-8	204-208	Spur	_	
+3-9	209-212	auf	_	
+3-10	213-216	der	_	
+3-11	217-224	Strasse	_	
+3-12	225-231	könnte	_	
+3-13	232-237	diese	_	
+3-14	238-244	Stelle	_	
+3-15	245-254	entschärt	_	
+3-16	255-261	werden	_	
+3-17	261-262	.	_	

@@ -1,0 +1,133 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hohe Bordsteinkante und fehlende Einzeichnung Radweg
+1-1	0-4	Hohe	_	
+1-2	5-19	Bordsteinkante	_	
+1-3	20-23	und	_	
+1-4	24-32	fehlende	_	
+1-5	33-45	Einzeichnung	_	
+1-6	46-52	Radweg	_	
+
+#Text=Bei dem Radweg auf der B9 (Willy-Brandt-Allee) an der Ecke Welckerstraße sowie auch an der Ecke Heussallee sind die Bordsteine so hoch, dass das Überfahren mit dem Rad unkomfortabel bis schmerzhaft ist.
+2-1	55-58	Bei	_	
+2-2	59-62	dem	_	
+2-3	63-69	Radweg	*[8]	
+2-4	70-73	auf	*[8]	
+2-5	74-77	der	*[8]	
+2-6	78-80	B9	*[8]	
+2-7	81-82	(	*[8]	
+2-8	82-100	Willy-Brandt-Allee	*[8]	
+2-9	100-101	)	*[8]	
+2-10	102-104	an	*[8]	
+2-11	105-108	der	*[8]	
+2-12	109-113	Ecke	*[8]	
+2-13	114-127	Welckerstraße	*[8]	
+2-14	128-133	sowie	_	
+2-15	134-138	auch	_	
+2-16	139-141	an	*[9]	
+2-17	142-145	der	*[9]	
+2-18	146-150	Ecke	*[9]	
+2-19	151-161	Heussallee	*[9]	
+2-20	162-166	sind	_	
+2-21	167-170	die	_	
+2-22	171-181	Bordsteine	_	
+2-23	182-184	so	_	
+2-24	185-189	hoch	_	
+2-25	189-190	,	_	
+2-26	191-195	dass	_	
+2-27	196-199	das	_	
+2-28	200-210	Überfahren	_	
+2-29	211-214	mit	_	
+2-30	215-218	dem	_	
+2-31	219-222	Rad	_	
+2-32	223-236	unkomfortabel	_	
+2-33	237-240	bis	_	
+2-34	241-252	schmerzhaft	_	
+2-35	253-256	ist	_	
+2-36	256-257	.	_	
+
+#Text=Dazu ist weder bei der Überfahrt Welckerstr. noch Heussallee der Radweg eingezeichnet.
+3-1	258-262	Dazu	_	
+3-2	263-266	ist	_	
+3-3	267-272	weder	_	
+3-4	273-276	bei	_	
+3-5	277-280	der	_	
+3-6	281-290	Überfahrt	*[10]	
+3-7	291-301	Welckerstr	*[10]	
+3-8	301-302	.	*[10]	
+3-9	303-307	noch	*[10]	
+3-10	308-318	Heussallee	*[10]	
+3-11	319-322	der	_	
+3-12	323-329	Radweg	_	
+3-13	330-343	eingezeichnet	_	
+3-14	343-344	.	_	
+
+#Text=Dies stellt eine Gefährdung dar, weil abbiegenden Autofahrern nicht bewusst ist, dass dort der Radweg verläuft.
+4-1	345-349	Dies	_	
+4-2	350-356	stellt	_	
+4-3	357-361	eine	_	
+4-4	362-372	Gefährdung	_	
+4-5	373-376	dar	_	
+4-6	376-377	,	_	
+4-7	378-382	weil	_	
+4-8	383-394	abbiegenden	_	
+4-9	395-406	Autofahrern	_	
+4-10	407-412	nicht	_	
+4-11	413-420	bewusst	_	
+4-12	421-424	ist	_	
+4-13	424-425	,	_	
+4-14	426-430	dass	_	
+4-15	431-435	dort	_	
+4-16	436-439	der	_	
+4-17	440-446	Radweg	_	
+4-18	447-455	verläuft	_	
+4-19	455-456	.	_	
+
+#Text=An der Ecke Heussallee stehen zudem Metallpoller auf der Radspur.
+5-1	457-459	An	*[11]	
+5-2	460-463	der	*[11]	
+5-3	464-468	Ecke	*[11]	
+5-4	469-479	Heussallee	*[11]	
+5-5	480-486	stehen	_	
+5-6	487-492	zudem	_	
+5-7	493-505	Metallpoller	_	
+5-8	506-509	auf	_	
+5-9	510-513	der	_	
+5-10	514-521	Radspur	_	
+5-11	521-522	.	_	
+
+#Text=Wie hier Radler mit Kinderanhänger ohne Gefahr durchfahren können, erschließt sich mir nicht.
+6-1	523-526	Wie	_	
+6-2	527-531	hier	_	
+6-3	532-538	Radler	_	
+6-4	539-542	mit	_	
+6-5	543-557	Kinderanhänger	_	
+6-6	558-562	ohne	_	
+6-7	563-569	Gefahr	_	
+6-8	570-581	durchfahren	_	
+6-9	582-588	können	_	
+6-10	588-589	,	_	
+6-11	590-600	erschließt	_	
+6-12	601-605	sich	_	
+6-13	606-609	mir	_	
+6-14	610-615	nicht	_	
+6-15	615-616	.	_	
+
+#Text=Ein Anschütten der Bordsteine und Einzeichnen des Radwegs wäre eine echte Erleichterung!
+7-1	617-620	Ein	_	
+7-2	621-631	Anschütten	_	
+7-3	632-635	der	_	
+7-4	636-646	Bordsteine	_	
+7-5	647-650	und	_	
+7-6	651-662	Einzeichnen	_	
+7-7	663-666	des	_	
+7-8	667-674	Radwegs	_	
+7-9	675-679	wäre	_	
+7-10	680-684	eine	_	
+7-11	685-690	echte	_	
+7-12	691-704	Erleichterung	_	
+7-13	704-705	!	_	

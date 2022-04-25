@@ -1,0 +1,100 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Nicht für Radfahrer: Der Kurzparker-Streifen
+1-1	0-5	Nicht	_	
+1-2	6-9	für	_	
+1-3	10-19	Radfahrer	_	
+1-4	19-20	:	_	
+1-5	21-24	Der	_	
+1-6	25-44	Kurzparker-Streifen	_	
+
+#Text=Die Kennedy-Allee hat auf beiden Seiten Schutzstreifen für Radfahrer.
+2-1	47-50	Die	*[7]	
+2-2	51-64	Kennedy-Allee	*[7]	
+2-3	65-68	hat	_	
+2-4	69-72	auf	_	
+2-5	73-79	beiden	_	
+2-6	80-86	Seiten	_	
+2-7	87-101	Schutzstreifen	_	
+2-8	102-105	für	_	
+2-9	106-115	Radfahrer	_	
+2-10	115-116	.	_	
+
+#Text=Diese werden jedoch regelmäßig von Kurzzeitparkern benutzt, oder halb zugeparkt.
+3-1	117-122	Diese	_	
+3-2	123-129	werden	_	
+3-3	130-136	jedoch	_	
+3-4	137-147	regelmäßig	_	
+3-5	148-151	von	_	
+3-6	152-167	Kurzzeitparkern	_	
+3-7	168-175	benutzt	_	
+3-8	175-176	,	_	
+3-9	177-181	oder	_	
+3-10	182-186	halb	_	
+3-11	187-196	zugeparkt	_	
+3-12	196-197	.	_	
+
+#Text=Radfahrer müssen deshalb regelmäßig (mitunter alle 50 m) auf die Fahrbahn ausweichen, was im Berufsverkehr sehr gefährlich ist.
+4-1	198-207	Radfahrer	_	
+4-2	208-214	müssen	_	
+4-3	215-222	deshalb	_	
+4-4	223-233	regelmäßig	_	
+4-5	234-235	(	_	
+4-6	235-243	mitunter	_	
+4-7	244-248	alle	_	
+4-8	249-251	50	_	
+4-9	252-253	m	_	
+4-10	253-254	)	_	
+4-11	255-258	auf	_	
+4-12	259-262	die	_	
+4-13	263-271	Fahrbahn	_	
+4-14	272-282	ausweichen	_	
+4-15	282-283	,	_	
+4-16	284-287	was	_	
+4-17	288-290	im	_	
+4-18	291-304	Berufsverkehr	_	
+4-19	305-309	sehr	_	
+4-20	310-320	gefährlich	_	
+4-21	321-324	ist	_	
+4-22	324-325	.	_	
+
+#Text=Im Winter sammelt sich auf diesem Streifen Split, so dass dieser für Radfahrer kaum noch nutzbar ist.
+5-1	326-328	Im	_	
+5-2	329-335	Winter	_	
+5-3	336-343	sammelt	_	
+5-4	344-348	sich	_	
+5-5	349-352	auf	_	
+5-6	353-359	diesem	_	
+5-7	360-368	Streifen	_	
+5-8	369-374	Split	_	
+5-9	374-375	,	_	
+5-10	376-378	so	_	
+5-11	379-383	dass	_	
+5-12	384-390	dieser	_	
+5-13	391-394	für	_	
+5-14	395-404	Radfahrer	_	
+5-15	405-409	kaum	_	
+5-16	410-414	noch	_	
+5-17	415-422	nutzbar	_	
+5-18	423-426	ist	_	
+5-19	426-427	.	_	
+
+#Text=Hier sollte eine striktere Kontrolle von Falschparkern erfolgen, sowie eine bessere Reinigung.
+6-1	428-432	Hier	_	
+6-2	433-439	sollte	_	
+6-3	440-444	eine	_	
+6-4	445-454	striktere	_	
+6-5	455-464	Kontrolle	_	
+6-6	465-468	von	_	
+6-7	469-482	Falschparkern	_	
+6-8	483-491	erfolgen	_	
+6-9	491-492	,	_	
+6-10	493-498	sowie	_	
+6-11	499-503	eine	_	
+6-12	504-511	bessere	_	
+6-13	512-521	Reinigung	_	
+6-14	521-522	.	_	

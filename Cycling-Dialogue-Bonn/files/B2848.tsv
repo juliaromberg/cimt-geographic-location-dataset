@@ -1,0 +1,104 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraßen
+1-1	0-14	Fahrradstraßen	_	
+
+#Text=Die vorhandenen Fahrradstraßen in der Bonner Altstadt sind ein guter Beginn - leider interessiert das aber keinen Autofahrer.
+2-1	17-20	Die	_	
+2-2	21-32	vorhandenen	_	
+2-3	33-47	Fahrradstraßen	_	
+2-4	48-50	in	*[8]	
+2-5	51-54	der	*[8]	
+2-6	55-61	Bonner	*[8]	
+2-7	62-70	Altstadt	*[8]	
+2-8	71-75	sind	_	
+2-9	76-79	ein	_	
+2-10	80-85	guter	_	
+2-11	86-92	Beginn	_	
+2-12	93-94	-	_	
+2-13	95-101	leider	_	
+2-14	102-114	interessiert	_	
+2-15	115-118	das	_	
+2-16	119-123	aber	_	
+2-17	124-130	keinen	_	
+2-18	131-141	Autofahrer	_	
+2-19	141-142	.	_	
+
+#Text=Hier müsste dringend einmal Aufklärungsarbeit inkl. Kontrollen geleistet werden.
+3-1	143-147	Hier	_	
+3-2	148-154	müsste	_	
+3-3	155-163	dringend	_	
+3-4	164-170	einmal	_	
+3-5	171-188	Aufklärungsarbeit	_	
+3-6	189-193	inkl	_	
+3-7	193-194	.	_	
+3-8	195-205	Kontrollen	_	
+3-9	206-215	geleistet	_	
+3-10	216-222	werden	_	
+3-11	222-223	.	_	
+
+#Text=Für all jene, die rücksichtslos an uns Fahrradfahrern vorbeifahren.
+4-1	224-227	Für	_	
+4-2	228-231	all	_	
+4-3	232-236	jene	_	
+4-4	236-237	,	_	
+4-5	238-241	die	_	
+4-6	242-255	rücksichtslos	_	
+4-7	256-258	an	_	
+4-8	259-262	uns	_	
+4-9	263-277	Fahrradfahrern	_	
+4-10	278-290	vorbeifahren	_	
+4-11	290-291	.	_	
+
+#Text=Ebenso müssten viele, eigentlich alle, vor allem die Dorotheenstraße ebenfalls Fahrradstraßen werden.
+5-1	292-298	Ebenso	_	
+5-2	299-306	müssten	_	
+5-3	307-312	viele	_	
+5-4	312-313	,	_	
+5-5	314-324	eigentlich	_	
+5-6	325-329	alle	_	
+5-7	329-330	,	_	
+5-8	331-334	vor	_	
+5-9	335-340	allem	_	
+5-10	341-344	die	*[9]	
+5-11	345-360	Dorotheenstraße	*[9]	
+5-12	361-370	ebenfalls	_	
+5-13	371-385	Fahrradstraßen	_	
+5-14	386-392	werden	_	
+5-15	392-393	.	_	
+
+#Text=Der Abschnitt zwischen Kaiser-Karl-Ring und Adolfstr. ist lebensgefährlich.
+6-1	394-397	Der	_	
+6-2	398-407	Abschnitt	_	
+6-3	408-416	zwischen	*[10]	
+6-4	417-433	Kaiser-Karl-Ring	*[10]	
+6-5	434-437	und	*[10]	
+6-6	438-446	Adolfstr	*[10]	
+6-7	446-447	.	_	
+6-8	448-451	ist	_	
+6-9	452-468	lebensgefährlich	_	
+6-10	468-469	.	_	
+
+#Text=Gleiches gilt für Falschparker im gesamten Altstadtbereich.
+7-1	470-478	Gleiches	_	
+7-2	479-483	gilt	_	
+7-3	484-487	für	_	
+7-4	488-500	Falschparker	_	
+7-5	501-503	im	_	
+7-6	504-512	gesamten	_	
+7-7	513-528	Altstadtbereich	_	
+7-8	528-529	.	_	
+
+#Text=Auch hier: Mit Kindern sehr gefährlich.
+8-1	530-534	Auch	_	
+8-2	535-539	hier	_	
+8-3	539-540	:	_	
+8-4	541-544	Mit	_	
+8-5	545-552	Kindern	_	
+8-6	553-557	sehr	_	
+8-7	558-568	gefährlich	_	
+8-8	568-569	.	_	

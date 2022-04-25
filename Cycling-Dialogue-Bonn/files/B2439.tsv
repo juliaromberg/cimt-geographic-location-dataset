@@ -1,0 +1,33 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wartezeit Ampel
+1-1	0-9	Wartezeit	_	
+1-2	10-15	Ampel	_	
+
+#Text=Für Menschen, die täglich zweimal an dieser Kreuzung stehen müssen sehr unangenehm.
+2-1	18-21	Für	_	
+2-2	22-30	Menschen	_	
+2-3	30-31	,	_	
+2-4	32-35	die	_	
+2-5	36-43	täglich	_	
+2-6	44-51	zweimal	_	
+2-7	52-54	an	_	
+2-8	55-61	dieser	_	
+2-9	62-70	Kreuzung	_	
+2-10	71-77	stehen	_	
+2-11	78-84	müssen	_	
+2-12	85-89	sehr	_	
+2-13	90-100	unangenehm	_	
+2-14	100-101	.	_	
+
+#Text=Laut, dreckig und lang.
+3-1	102-106	Laut	_	
+3-2	106-107	,	_	
+3-3	108-115	dreckig	_	
+3-4	116-119	und	_	
+3-5	120-124	lang	_	
+3-6	124-125	.	_	

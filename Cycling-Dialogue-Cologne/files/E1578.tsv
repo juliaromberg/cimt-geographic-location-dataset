@@ -1,0 +1,25 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg tagsüber zugeparkt
+1-1	0-6	Radweg	_	
+1-2	7-15	tagsüber	_	
+1-3	16-25	zugeparkt	_	
+
+#Text=Nach dem Taxistand parken tagsüber fast immer PKW´s auf dem Radweg
+2-1	28-32	Nach	_	
+2-2	33-36	dem	_	
+2-3	37-46	Taxistand	_	
+2-4	47-53	parken	_	
+2-5	54-62	tagsüber	_	
+2-6	63-67	fast	_	
+2-7	68-73	immer	_	
+2-8	74-77	PKW	_	
+2-9	77-78	´	_	
+2-10	78-79	s	_	
+2-11	80-83	auf	_	
+2-12	84-87	dem	_	
+2-13	88-94	Radweg	_	

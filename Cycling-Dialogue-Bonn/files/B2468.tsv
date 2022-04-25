@@ -1,0 +1,44 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlaglöcher
+1-1	0-12	Schlaglöcher	_	
+
+#Text=In diesem Bereich gibt es einige große Schlaglöcher.
+2-1	15-17	In	_	
+2-2	18-24	diesem	_	
+2-3	25-32	Bereich	_	
+2-4	33-37	gibt	_	
+2-5	38-40	es	_	
+2-6	41-47	einige	_	
+2-7	48-53	große	_	
+2-8	54-66	Schlaglöcher	_	
+2-9	66-67	.	_	
+
+#Text=Auf Grund der engen Fahrbahn (fließern Verkehr, schmaler Radstreifen und parkende Autos) ist es teilweise schwierig, spontan auszuweichen.
+3-1	68-71	Auf	_	
+3-2	72-77	Grund	_	
+3-3	78-81	der	_	
+3-4	82-87	engen	_	
+3-5	88-96	Fahrbahn	_	
+3-6	97-98	(	_	
+3-7	98-106	fließern	_	
+3-8	107-114	Verkehr	_	
+3-9	114-115	,	_	
+3-10	116-124	schmaler	_	
+3-11	125-136	Radstreifen	_	
+3-12	137-140	und	_	
+3-13	141-149	parkende	_	
+3-14	150-155	Autos	_	
+3-15	155-156	)	_	
+3-16	157-160	ist	_	
+3-17	161-163	es	_	
+3-18	164-173	teilweise	_	
+3-19	174-183	schwierig	_	
+3-20	183-184	,	_	
+3-21	185-192	spontan	_	
+3-22	193-205	auszuweichen	_	
+3-23	205-206	.	_	

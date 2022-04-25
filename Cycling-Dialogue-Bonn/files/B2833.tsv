@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkende Autos im Kreuzungsbereich
+1-1	0-8	Parkende	_	
+1-2	9-14	Autos	_	
+1-3	15-17	im	_	
+1-4	18-34	Kreuzungsbereich	_	
+
+#Text=Der Kreuzungsbereich wird zugeparkt, sodass man aus Richtung Rheindorfer Burg kommend keine Sicht auf den Verkehr von rechts (Estermannstraße aus Richtung Innenstadt kommend) hat.
+2-1	37-40	Der	_	
+2-2	41-57	Kreuzungsbereich	_	
+2-3	58-62	wird	_	
+2-4	63-72	zugeparkt	_	
+2-5	72-73	,	_	
+2-6	74-80	sodass	_	
+2-7	81-84	man	_	
+2-8	85-88	aus	*[4]	
+2-9	89-97	Richtung	*[4]	
+2-10	98-109	Rheindorfer	*[4]	
+2-11	110-114	Burg	*[4]	
+2-12	115-122	kommend	*[4]	
+2-13	123-128	keine	_	
+2-14	129-134	Sicht	_	
+2-15	135-138	auf	_	
+2-16	139-142	den	_	
+2-17	143-150	Verkehr	_	
+2-18	151-154	von	*[5]	
+2-19	155-161	rechts	*[5]	
+2-20	162-163	(	*[5]	
+2-21	163-178	Estermannstraße	*[5]	
+2-22	179-182	aus	*[5]	
+2-23	183-191	Richtung	*[5]	
+2-24	192-202	Innenstadt	*[5]	
+2-25	203-210	kommend	*[5]	
+2-26	210-211	)	_	
+2-27	212-215	hat	_	
+2-28	215-216	.	_	
+
+#Text=Verbesserungsvorschlag: durch eine Zickzack-Linie deutlich machen, dass Parken im Kreuzungsbereich nicht erlaubt ist (StVO §12 Abs. 3 Punkt 1).
+3-1	217-239	Verbesserungsvorschlag	_	
+3-2	239-240	:	_	
+3-3	241-246	durch	_	
+3-4	247-251	eine	_	
+3-5	252-266	Zickzack-Linie	_	
+3-6	267-275	deutlich	_	
+3-7	276-282	machen	_	
+3-8	282-283	,	_	
+3-9	284-288	dass	_	
+3-10	289-295	Parken	_	
+3-11	296-298	im	_	
+3-12	299-315	Kreuzungsbereich	_	
+3-13	316-321	nicht	_	
+3-14	322-329	erlaubt	_	
+3-15	330-333	ist	_	
+3-16	334-335	(	_	
+3-17	335-339	StVO	_	
+3-18	340-341	§	_	
+3-19	341-343	12	_	
+3-20	344-347	Abs	_	
+3-21	347-348	.	_	
+3-22	349-350	3	_	
+3-23	351-356	Punkt	_	
+3-24	357-358	1	_	
+3-25	358-359	)	_	
+3-26	359-360	.	_	

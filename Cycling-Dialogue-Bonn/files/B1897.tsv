@@ -1,0 +1,84 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wasser läuft vom Radweg nicht ab
+1-1	0-6	Wasser	_	
+1-2	7-12	läuft	_	
+1-3	13-16	vom	_	
+1-4	17-23	Radweg	_	
+1-5	24-29	nicht	_	
+1-6	30-32	ab	_	
+
+#Text=Hier bilden sich nach jedem Regen lange, tiefe Pfützen, welche die gesamte Wegbreite einnehmen.
+2-1	35-39	Hier	_	
+2-2	40-46	bilden	_	
+2-3	47-51	sich	_	
+2-4	52-56	nach	_	
+2-5	57-62	jedem	_	
+2-6	63-68	Regen	_	
+2-7	69-74	lange	_	
+2-8	74-75	,	_	
+2-9	76-81	tiefe	_	
+2-10	82-89	Pfützen	_	
+2-11	89-90	,	_	
+2-12	91-97	welche	_	
+2-13	98-101	die	_	
+2-14	102-109	gesamte	_	
+2-15	110-119	Wegbreite	_	
+2-16	120-129	einnehmen	_	
+2-17	129-130	.	_	
+
+#Text=Das Wasser kann wegen der hohen Grasnarbe links und rechts nicht ablaufen.
+3-1	131-134	Das	_	
+3-2	135-141	Wasser	_	
+3-3	142-146	kann	_	
+3-4	147-152	wegen	_	
+3-5	153-156	der	_	
+3-6	157-162	hohen	_	
+3-7	163-172	Grasnarbe	_	
+3-8	173-178	links	_	
+3-9	179-182	und	_	
+3-10	183-189	rechts	_	
+3-11	190-195	nicht	_	
+3-12	196-204	ablaufen	_	
+3-13	204-205	.	_	
+
+#Text=Dieselbe hohe Grasnarbe macht auch das Ausweichen über den Rasen sehr schwer, so dass man hier letztlich mit Schrittgeschwindigkeit durch eine Wasserrinne fährt.
+4-1	206-214	Dieselbe	_	
+4-2	215-219	hohe	_	
+4-3	220-229	Grasnarbe	_	
+4-4	230-235	macht	_	
+4-5	236-240	auch	_	
+4-6	241-244	das	_	
+4-7	245-255	Ausweichen	_	
+4-8	256-260	über	_	
+4-9	261-264	den	_	
+4-10	265-270	Rasen	_	
+4-11	271-275	sehr	_	
+4-12	276-282	schwer	_	
+4-13	282-283	,	_	
+4-14	284-286	so	_	
+4-15	287-291	dass	_	
+4-16	292-295	man	_	
+4-17	296-300	hier	_	
+4-18	301-310	letztlich	_	
+4-19	311-314	mit	_	
+4-20	315-337	Schrittgeschwindigkeit	_	
+4-21	338-343	durch	_	
+4-22	344-348	eine	_	
+4-23	349-360	Wasserrinne	_	
+4-24	361-366	fährt	_	
+4-25	366-367	.	_	
+
+#Text=Hier müssen Abflussmöglichkeiten Richtung Rhein geschaffen werden.
+5-1	368-372	Hier	_	
+5-2	373-379	müssen	_	
+5-3	380-400	Abflussmöglichkeiten	_	
+5-4	401-409	Richtung	_	
+5-5	410-415	Rhein	_	
+5-6	416-426	geschaffen	_	
+5-7	427-433	werden	_	
+5-8	433-434	.	_	

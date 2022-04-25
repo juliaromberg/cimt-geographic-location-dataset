@@ -1,0 +1,210 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg und Schutzstreifen in Adelheidisstraße
+1-1	0-6	Radweg	_	
+1-2	7-10	und	_	
+1-3	11-25	Schutzstreifen	_	
+1-4	26-28	in	*[13]	
+1-5	29-45	Adelheidisstraße	*[13]	
+
+#Text=Die Adelheidisstraße ist Teil der Radstrecke zwischen Bonn und den 250.000 Einwohnern in St.Augustin/Siegburg/Hennef/Teile von Troisdorf etc.
+2-1	48-51	Die	*[14]	
+2-2	52-68	Adelheidisstraße	*[14]	
+2-3	69-72	ist	_	
+2-4	73-77	Teil	_	
+2-5	78-81	der	_	
+2-6	82-92	Radstrecke	_	
+2-7	93-101	zwischen	*[15]	
+2-8	102-106	Bonn	*[15]	
+2-9	107-110	und	*[15]	
+2-10	111-114	den	*[15]	
+2-11	115-122	250.000	*[15]	
+2-12	123-133	Einwohnern	*[15]	
+2-13	134-136	in	*[15]	
+2-14	137-148	St.Augustin	*[15]	
+2-15	148-149	/	*[15]	
+2-16	149-157	Siegburg	*[15]	
+2-17	157-158	/	*[15]	
+2-18	158-164	Hennef	*[15]	
+2-19	164-165	/	*[15]	
+2-20	165-170	Teile	*[15]	
+2-21	171-174	von	*[15]	
+2-22	175-184	Troisdorf	*[15]	
+2-23	185-188	etc	_	
+2-24	188-189	.	_	
+
+#Text=Die Straße ist jedoch nur knapp zwei Autos breit.
+3-1	190-193	Die	_	
+3-2	194-200	Straße	_	
+3-3	201-204	ist	_	
+3-4	205-211	jedoch	_	
+3-5	212-215	nur	_	
+3-6	216-221	knapp	_	
+3-7	222-226	zwei	_	
+3-8	227-232	Autos	_	
+3-9	233-238	breit	_	
+3-10	238-239	.	_	
+
+#Text=Ein Radweg existiert nicht, sogar nicht einmal ein Radschutzstreifen.
+4-1	240-243	Ein	_	
+4-2	244-250	Radweg	_	
+4-3	251-260	existiert	_	
+4-4	261-266	nicht	_	
+4-5	266-267	,	_	
+4-6	268-273	sogar	_	
+4-7	274-279	nicht	_	
+4-8	280-286	einmal	_	
+4-9	287-290	ein	_	
+4-10	291-308	Radschutzstreifen	_	
+4-11	308-309	.	_	
+
+#Text=In der kerzengeraden Straße gilt zwar theoretisch Tempo 30, weil dies am Beginn der Straße angezeigt ist.
+5-1	310-312	In	_	
+5-2	313-316	der	_	
+5-3	317-330	kerzengeraden	_	
+5-4	331-337	Straße	_	
+5-5	338-342	gilt	_	
+5-6	343-347	zwar	_	
+5-7	348-359	theoretisch	_	
+5-8	360-365	Tempo	_	
+5-9	366-368	30	_	
+5-10	368-369	,	_	
+5-11	370-374	weil	_	
+5-12	375-379	dies	_	
+5-13	380-382	am	_	
+5-14	383-389	Beginn	_	
+5-15	390-393	der	_	
+5-16	394-400	Straße	_	
+5-17	401-410	angezeigt	_	
+5-18	411-414	ist	_	
+5-19	414-415	.	_	
+
+#Text=Nach einigen hundert Meter Geradeausfahrt hat das nach meinem Erleben jedoch fast jeder Autofahrer vergessen, siehe https://goo.gl/Ut7A8L
+6-1	416-420	Nach	_	
+6-2	421-428	einigen	_	
+6-3	429-436	hundert	_	
+6-4	437-442	Meter	_	
+6-5	443-457	Geradeausfahrt	_	
+6-6	458-461	hat	_	
+6-7	462-465	das	_	
+6-8	466-470	nach	_	
+6-9	471-477	meinem	_	
+6-10	478-485	Erleben	_	
+6-11	486-492	jedoch	_	
+6-12	493-497	fast	_	
+6-13	498-503	jeder	_	
+6-14	504-514	Autofahrer	_	
+6-15	515-524	vergessen	_	
+6-16	524-525	,	_	
+6-17	526-531	siehe	_	
+6-18	532-537	https	_	
+6-19	537-538	:	_	
+6-20	538-539	/	_	
+6-21	539-540	/	_	
+6-22	540-546	goo.gl	_	
+6-23	546-547	/	_	
+6-24	547-553	Ut7A8L	_	
+
+#Text=Weitere Tempo30-Schilder fehlen.
+7-1	554-561	Weitere	_	
+7-2	562-569	Tempo30	_	
+7-3	569-570	-	_	
+7-4	570-578	Schilder	_	
+7-5	579-585	fehlen	_	
+7-6	585-586	.	_	
+
+#Text=Seit dem Umzug der Realschule Beuel in die Räumlichkeiten an der Adelheidisstraße hat der Verkehr dort stark zugenommen, insbesondere der Schüler-Bring- und Holverkehr.
+8-1	587-591	Seit	_	
+8-2	592-595	dem	_	
+8-3	596-601	Umzug	_	
+8-4	602-605	der	_	
+8-5	606-616	Realschule	*[16]	
+8-6	617-622	Beuel	*[16]	
+8-7	623-625	in	_	
+8-8	626-629	die	_	
+8-9	630-644	Räumlichkeiten	_	
+8-10	645-647	an	*[17]	
+8-11	648-651	der	*[17]	
+8-12	652-668	Adelheidisstraße	*[17]	
+8-13	669-672	hat	_	
+8-14	673-676	der	_	
+8-15	677-684	Verkehr	_	
+8-16	685-689	dort	_	
+8-17	690-695	stark	_	
+8-18	696-706	zugenommen	_	
+8-19	706-707	,	_	
+8-20	708-720	insbesondere	_	
+8-21	721-724	der	*[18]	
+8-22	725-738	Schüler-Bring	*[18]	
+8-23	738-739	-	*[18]	
+8-24	740-743	und	*[18]	
+8-25	744-754	Holverkehr	*[18]	
+8-26	754-755	.	_	
+
+#Text=Häufiger halten Eltern dort in der zweiten Reihe.
+9-1	756-764	Häufiger	_	
+9-2	765-771	halten	_	
+9-3	772-778	Eltern	_	
+9-4	779-783	dort	_	
+9-5	784-786	in	_	
+9-6	787-790	der	_	
+9-7	791-798	zweiten	_	
+9-8	799-804	Reihe	_	
+9-9	804-805	.	_	
+
+#Text=Morgens und nachmittags ist die Verkehrssituation dort miserabel.
+10-1	806-813	Morgens	_	
+10-2	814-817	und	_	
+10-3	818-829	nachmittags	_	
+10-4	830-833	ist	_	
+10-5	834-837	die	_	
+10-6	838-855	Verkehrssituation	_	
+10-7	856-860	dort	_	
+10-8	861-870	miserabel	_	
+10-9	870-871	.	_	
+
+#Text=Auch für die Schüler wäre es deutlich sinnvoller, dort Parkplätze zu entfernen und statt dessen einen sicheren Radweg in Richtung Beuel zu schaffen.
+11-1	872-876	Auch	_	
+11-2	877-880	für	_	
+11-3	881-884	die	_	
+11-4	885-892	Schüler	_	
+11-5	893-897	wäre	_	
+11-6	898-900	es	_	
+11-7	901-909	deutlich	_	
+11-8	910-920	sinnvoller	_	
+11-9	920-921	,	_	
+11-10	922-926	dort	_	
+11-11	927-937	Parkplätze	_	
+11-12	938-940	zu	_	
+11-13	941-950	entfernen	_	
+11-14	951-954	und	_	
+11-15	955-960	statt	_	
+11-16	961-967	dessen	_	
+11-17	968-973	einen	_	
+11-18	974-982	sicheren	_	
+11-19	983-989	Radweg	_	
+11-20	990-992	in	*[19]	
+11-21	993-1001	Richtung	*[19]	
+11-22	1002-1007	Beuel	*[19]	
+11-23	1008-1010	zu	_	
+11-24	1011-1019	schaffen	_	
+11-25	1019-1020	.	_	
+
+#Text=Wo kein Radweg geschaffen werden kann, sollten zumindest Radschutzstreifen aufgemalt werden.
+12-1	1021-1023	Wo	_	
+12-2	1024-1028	kein	_	
+12-3	1029-1035	Radweg	_	
+12-4	1036-1046	geschaffen	_	
+12-5	1047-1053	werden	_	
+12-6	1054-1058	kann	_	
+12-7	1058-1059	,	_	
+12-8	1060-1067	sollten	_	
+12-9	1068-1077	zumindest	_	
+12-10	1078-1095	Radschutzstreifen	_	
+12-11	1096-1105	aufgemalt	_	
+12-12	1106-1112	werden	_	
+12-13	1112-1113	.	_	

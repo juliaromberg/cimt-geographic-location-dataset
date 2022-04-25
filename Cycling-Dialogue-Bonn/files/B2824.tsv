@@ -1,0 +1,145 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=unangenehme Abbiegesituation
+1-1	0-11	unangenehme	_	
+1-2	12-28	Abbiegesituation	_	
+
+#Text=Von Niederholtdorf kommend ist das Einbiegen in die Oberkasseler Straße jedes Mal wieder ein Abenteuer, insbesondere wenn man abends mit dem Rennrad unterwegs ist.
+2-1	31-34	Von	_	
+2-2	35-49	Niederholtdorf	_	
+2-3	50-57	kommend	_	
+2-4	58-61	ist	_	
+2-5	62-65	das	*[6]	
+2-6	66-75	Einbiegen	*[6]	
+2-7	76-78	in	*[6]	
+2-8	79-82	die	*[6]	
+2-9	83-95	Oberkasseler	*[6]	
+2-10	96-102	Straße	*[6]	
+2-11	103-108	jedes	_	
+2-12	109-112	Mal	_	
+2-13	113-119	wieder	_	
+2-14	120-123	ein	_	
+2-15	124-133	Abenteuer	_	
+2-16	133-134	,	_	
+2-17	135-147	insbesondere	_	
+2-18	148-152	wenn	_	
+2-19	153-156	man	_	
+2-20	157-163	abends	_	
+2-21	164-167	mit	_	
+2-22	168-171	dem	_	
+2-23	172-179	Rennrad	_	
+2-24	180-189	unterwegs	_	
+2-25	190-193	ist	_	
+2-26	193-194	.	_	
+
+#Text=Erst muss man auf einem nicht ausgeleuchteten Straßenabschnitt fahren, dann hofft man, dass die hinter einem - natürlich mit etwas mehr Tempo - fahrenden Autos auch wahrgenommen haben, dass man sein Händchen zum Abbiegen rausgestreckt hat und dass sie einen nicht in letzter Sekunde noch überholen (Autofahrer haben es in der Gegend häufig so eilig...).
+3-1	195-199	Erst	_	
+3-2	200-204	muss	_	
+3-3	205-208	man	_	
+3-4	209-212	auf	_	
+3-5	213-218	einem	_	
+3-6	219-224	nicht	_	
+3-7	225-240	ausgeleuchteten	_	
+3-8	241-257	Straßenabschnitt	_	
+3-9	258-264	fahren	_	
+3-10	264-265	,	_	
+3-11	266-270	dann	_	
+3-12	271-276	hofft	_	
+3-13	277-280	man	_	
+3-14	280-281	,	_	
+3-15	282-286	dass	_	
+3-16	287-290	die	_	
+3-17	291-297	hinter	_	
+3-18	298-303	einem	_	
+3-19	304-305	-	_	
+3-20	306-315	natürlich	_	
+3-21	316-319	mit	_	
+3-22	320-325	etwas	_	
+3-23	326-330	mehr	_	
+3-24	331-336	Tempo	_	
+3-25	337-338	-	_	
+3-26	339-348	fahrenden	_	
+3-27	349-354	Autos	_	
+3-28	355-359	auch	_	
+3-29	360-372	wahrgenommen	_	
+3-30	373-378	haben	_	
+3-31	378-379	,	_	
+3-32	380-384	dass	_	
+3-33	385-388	man	_	
+3-34	389-393	sein	_	
+3-35	394-402	Händchen	_	
+3-36	403-406	zum	_	
+3-37	407-415	Abbiegen	_	
+3-38	416-429	rausgestreckt	_	
+3-39	430-433	hat	_	
+3-40	434-437	und	_	
+3-41	438-442	dass	_	
+3-42	443-446	sie	_	
+3-43	447-452	einen	_	
+3-44	453-458	nicht	_	
+3-45	459-461	in	_	
+3-46	462-469	letzter	_	
+3-47	470-477	Sekunde	_	
+3-48	478-482	noch	_	
+3-49	483-492	überholen	_	
+3-50	493-494	(	_	
+3-51	494-504	Autofahrer	_	
+3-52	505-510	haben	_	
+3-53	511-513	es	_	
+3-54	514-516	in	_	
+3-55	517-520	der	_	
+3-56	521-527	Gegend	_	
+3-57	528-534	häufig	_	
+3-58	535-537	so	_	
+3-59	538-543	eilig	_	
+3-60	543-544	.	_	
+3-61	544-545	.	_	
+3-62	545-546	.	_	
+3-63	546-547	)	_	
+3-64	547-548	.	_	
+
+#Text=Die Oberkasseler Straße würde ich auch gerne vermeiden und lieber auf einem anderen asphaltierten Weg entspannt ins Tal fahren.
+4-1	549-552	Die	*[7]	
+4-2	553-565	Oberkasseler	*[7]	
+4-3	566-572	Straße	*[7]	
+4-4	573-578	würde	_	
+4-5	579-582	ich	_	
+4-6	583-587	auch	_	
+4-7	588-593	gerne	_	
+4-8	594-603	vermeiden	_	
+4-9	604-607	und	_	
+4-10	608-614	lieber	_	
+4-11	615-618	auf	_	
+4-12	619-624	einem	_	
+4-13	625-632	anderen	_	
+4-14	633-646	asphaltierten	_	
+4-15	647-650	Weg	_	
+4-16	651-660	entspannt	_	
+4-17	661-664	ins	_	
+4-18	665-668	Tal	_	
+4-19	669-675	fahren	_	
+4-20	675-676	.	_	
+
+#Text=Ein breiter, asphaltierter Weg neben der Fahrbahn wäre natürlich auch super (getrennt durch Leitplanke).
+5-1	677-680	Ein	_	
+5-2	681-688	breiter	_	
+5-3	688-689	,	_	
+5-4	690-703	asphaltierter	_	
+5-5	704-707	Weg	_	
+5-6	708-713	neben	_	
+5-7	714-717	der	_	
+5-8	718-726	Fahrbahn	_	
+5-9	727-731	wäre	_	
+5-10	732-741	natürlich	_	
+5-11	742-746	auch	_	
+5-12	747-752	super	_	
+5-13	753-754	(	_	
+5-14	754-762	getrennt	_	
+5-15	763-768	durch	_	
+5-16	769-779	Leitplanke	_	
+5-17	779-780	)	_	
+5-18	780-781	.	_	

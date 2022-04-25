@@ -1,0 +1,254 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kaiserstraße Pflege und Verkehrskontrollen bzgl. sehr junger eigenständiger Verkehrsteilnehmer
+1-1	0-12	Kaiserstraße	*	
+1-2	13-19	Pflege	_	
+1-3	20-23	und	_	
+1-4	24-42	Verkehrskontrollen	_	
+1-5	43-47	bzgl	_	
+1-6	47-48	.	_	
+1-7	49-53	sehr	_	
+1-8	54-60	junger	_	
+1-9	61-75	eigenständiger	_	
+1-10	76-94	Verkehrsteilnehmer	_	
+
+#Text=Auf der Kaiserstraße müssen unbedingt ständig die Büsche beschnitten werden, vor allem ab Reuterbrücke bis Königstr.
+2-1	97-100	Auf	*[14]	
+2-2	101-104	der	*[14]	
+2-3	105-117	Kaiserstraße	*[14]	
+2-4	118-124	müssen	_	
+2-5	125-134	unbedingt	_	
+2-6	135-142	ständig	_	
+2-7	143-146	die	_	
+2-8	147-153	Büsche	_	
+2-9	154-165	beschnitten	_	
+2-10	166-172	werden	_	
+2-11	172-173	,	_	
+2-12	174-177	vor	_	
+2-13	178-183	allem	_	
+2-14	184-186	ab	*[15]	
+2-15	187-199	Reuterbrücke	*[15]	
+2-16	200-203	bis	*[15]	
+2-17	204-212	Königstr	*[15]	
+2-18	212-213	.	*[15]	
+
+#Text=Aus Süden kommend muss den Radfahrern ausgewichen werden, die ihrerseits den Büschen auf ihrer Seite des Radweges nach Norden fahrend ausweichen.
+3-1	214-217	Aus	_	
+3-2	218-223	Süden	_	
+3-3	224-231	kommend	_	
+3-4	232-236	muss	_	
+3-5	237-240	den	_	
+3-6	241-251	Radfahrern	_	
+3-7	252-263	ausgewichen	_	
+3-8	264-270	werden	_	
+3-9	270-271	,	_	
+3-10	272-275	die	_	
+3-11	276-286	ihrerseits	_	
+3-12	287-290	den	_	
+3-13	291-298	Büschen	_	
+3-14	299-302	auf	_	
+3-15	303-308	ihrer	_	
+3-16	309-314	Seite	_	
+3-17	315-318	des	_	
+3-18	319-327	Radweges	_	
+3-19	328-332	nach	_	
+3-20	333-339	Norden	_	
+3-21	340-347	fahrend	_	
+3-22	348-358	ausweichen	_	
+3-23	358-359	.	_	
+
+#Text=Das ist manchmal lebensgefährlich, da man auf die Fahrbahn der Kaiserstr. abgedrängt werden könnte.
+4-1	360-363	Das	_	
+4-2	364-367	ist	_	
+4-3	368-376	manchmal	_	
+4-4	377-393	lebensgefährlich	_	
+4-5	393-394	,	_	
+4-6	395-397	da	_	
+4-7	398-401	man	_	
+4-8	402-405	auf	_	
+4-9	406-409	die	*[16]	
+4-10	410-418	Fahrbahn	*[16]	
+4-11	419-422	der	*[16]	
+4-12	423-432	Kaiserstr	*[16]	
+4-13	432-433	.	*[16]	
+4-14	434-444	abgedrängt	_	
+4-15	445-451	werden	_	
+4-16	452-458	könnte	_	
+4-17	458-459	.	_	
+
+#Text=Der Bordstein ist da hoch, D.h. man könnte abstürzen und in die Fahrbahn hineinfallen.
+5-1	460-463	Der	_	
+5-2	464-473	Bordstein	_	
+5-3	474-477	ist	_	
+5-4	478-480	da	_	
+5-5	481-485	hoch	_	
+5-6	485-486	,	_	
+5-7	487-490	D.h	_	
+5-8	490-491	.	_	
+5-9	492-495	man	_	
+5-10	496-502	könnte	_	
+5-11	503-512	abstürzen	_	
+5-12	513-516	und	_	
+5-13	517-519	in	_	
+5-14	520-523	die	_	
+5-15	524-532	Fahrbahn	_	
+5-16	533-545	hineinfallen	_	
+5-17	545-546	.	_	
+
+#Text=Mein anderes großes Anliegen ist die Aufklärung von jungen Eltern, die teilweise mit ihren ab 3jährigen Kindern! unterwegs sind.
+6-1	547-551	Mein	_	
+6-2	552-559	anderes	_	
+6-3	560-566	großes	_	
+6-4	567-575	Anliegen	_	
+6-5	576-579	ist	_	
+6-6	580-583	die	_	
+6-7	584-594	Aufklärung	_	
+6-8	595-598	von	_	
+6-9	599-605	jungen	_	
+6-10	606-612	Eltern	_	
+6-11	612-613	,	_	
+6-12	614-617	die	_	
+6-13	618-627	teilweise	_	
+6-14	628-631	mit	_	
+6-15	632-637	ihren	_	
+6-16	638-640	ab	_	
+6-17	641-650	3jährigen	_	
+6-18	651-658	Kindern	_	
+6-19	658-659	!	_	
+6-20	660-669	unterwegs	_	
+6-21	670-674	sind	_	
+6-22	674-675	.	_	
+
+#Text=Diese kleinen Kinder fahren eigene Gefährte, wie kleine Treträder oder Roller.
+7-1	676-681	Diese	_	
+7-2	682-689	kleinen	_	
+7-3	690-696	Kinder	_	
+7-4	697-703	fahren	_	
+7-5	704-710	eigene	_	
+7-6	711-719	Gefährte	_	
+7-7	719-720	,	_	
+7-8	721-724	wie	_	
+7-9	725-731	kleine	_	
+7-10	732-741	Treträder	_	
+7-11	742-746	oder	_	
+7-12	747-753	Roller	_	
+7-13	753-754	.	_	
+
+#Text=Sie können den Verkehr nicht übersehen, sind vollkommen überfordert mit Auge-Hand-Koordination, müssen die Einmündung der Bahngleise queren und, und, und.
+8-1	755-758	Sie	_	
+8-2	759-765	können	_	
+8-3	766-769	den	_	
+8-4	770-777	Verkehr	_	
+8-5	778-783	nicht	_	
+8-6	784-793	übersehen	_	
+8-7	793-794	,	_	
+8-8	795-799	sind	_	
+8-9	800-810	vollkommen	_	
+8-10	811-822	überfordert	_	
+8-11	823-826	mit	_	
+8-12	827-849	Auge-Hand-Koordination	_	
+8-13	849-850	,	_	
+8-14	851-857	müssen	_	
+8-15	858-861	die	_	
+8-16	862-872	Einmündung	_	
+8-17	873-876	der	_	
+8-18	877-887	Bahngleise	_	
+8-19	888-894	queren	_	
+8-20	895-898	und	_	
+8-21	898-899	,	_	
+8-22	900-903	und	_	
+8-23	903-904	,	_	
+8-24	905-908	und	_	
+8-25	908-909	.	_	
+
+#Text=Werden dann u.U. von ihren Eltern angebrüllt, wenn es gefährlich wird, und das wird es ständig, und sind dann total irritiert.
+9-1	910-916	Werden	_	
+9-2	917-921	dann	_	
+9-3	922-925	u.U	_	
+9-4	925-926	.	_	
+9-5	927-930	von	_	
+9-6	931-936	ihren	_	
+9-7	937-943	Eltern	_	
+9-8	944-954	angebrüllt	_	
+9-9	954-955	,	_	
+9-10	956-960	wenn	_	
+9-11	961-963	es	_	
+9-12	964-974	gefährlich	_	
+9-13	975-979	wird	_	
+9-14	979-980	,	_	
+9-15	981-984	und	_	
+9-16	985-988	das	_	
+9-17	989-993	wird	_	
+9-18	994-996	es	_	
+9-19	997-1004	ständig	_	
+9-20	1004-1005	,	_	
+9-21	1006-1009	und	_	
+9-22	1010-1014	sind	_	
+9-23	1015-1019	dann	_	
+9-24	1020-1025	total	_	
+9-25	1026-1035	irritiert	_	
+9-26	1035-1036	.	_	
+
+#Text=Hier muss viel mehr Aufklärung betrieben werden, also in den Kindergärten, und ich würde mir auch Verkehrskontrollen in der Kaiserstraße und anliegenden Straßen diesbezüglich wünschen, in denen die Eltern gezielt wngesprochen werden.
+10-1	1037-1041	Hier	_	
+10-2	1042-1046	muss	_	
+10-3	1047-1051	viel	_	
+10-4	1052-1056	mehr	_	
+10-5	1057-1067	Aufklärung	_	
+10-6	1068-1077	betrieben	_	
+10-7	1078-1084	werden	_	
+10-8	1084-1085	,	_	
+10-9	1086-1090	also	_	
+10-10	1091-1093	in	_	
+10-11	1094-1097	den	_	
+10-12	1098-1110	Kindergärten	_	
+10-13	1110-1111	,	_	
+10-14	1112-1115	und	_	
+10-15	1116-1119	ich	_	
+10-16	1120-1125	würde	_	
+10-17	1126-1129	mir	_	
+10-18	1130-1134	auch	_	
+10-19	1135-1153	Verkehrskontrollen	_	
+10-20	1154-1156	in	*[17]	
+10-21	1157-1160	der	*[17]	
+10-22	1161-1173	Kaiserstraße	*[17]	
+10-23	1174-1177	und	*[17]	
+10-24	1178-1189	anliegenden	*[17]	
+10-25	1190-1197	Straßen	*[17]	
+10-26	1198-1211	diesbezüglich	_	
+10-27	1212-1220	wünschen	_	
+10-28	1220-1221	,	_	
+10-29	1222-1224	in	_	
+10-30	1225-1230	denen	_	
+10-31	1231-1234	die	_	
+10-32	1235-1241	Eltern	_	
+10-33	1242-1249	gezielt	_	
+10-34	1250-1262	wngesprochen	_	
+10-35	1263-1269	werden	_	
+10-36	1269-1270	.	_	
+
+#Text=BITTE!
+11-1	1271-1276	BITTE	_	
+11-2	1276-1277	!	_	
+
+#Text=ich beobachte das seit Jahren!!!
+12-1	1278-1281	ich	_	
+12-2	1282-1291	beobachte	_	
+12-3	1292-1295	das	_	
+12-4	1296-1300	seit	_	
+12-5	1301-1307	Jahren	_	
+12-6	1307-1308	!	_	
+12-7	1308-1309	!	_	
+12-8	1309-1310	!	_	
+
+#Text=Hier kann Schlimmes verhindert werden!
+13-1	1311-1315	Hier	_	
+13-2	1316-1320	kann	_	
+13-3	1321-1330	Schlimmes	_	
+13-4	1331-1341	verhindert	_	
+13-5	1342-1348	werden	_	
+13-6	1348-1349	!	_	

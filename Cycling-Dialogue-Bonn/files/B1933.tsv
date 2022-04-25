@@ -1,0 +1,70 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Lange Wartezeiten - Kreisel möglich?
+1-1	0-5	Lange	_	
+1-2	6-17	Wartezeiten	_	
+1-3	18-19	-	_	
+1-4	20-27	Kreisel	_	
+1-5	28-35	möglich	_	
+1-6	35-36	?	_	
+
+#Text=Die Wartezeiten sind hier für alle Verkehrsteilnehmer hoch.
+2-1	39-42	Die	_	
+2-2	43-54	Wartezeiten	_	
+2-3	55-59	sind	_	
+2-4	60-64	hier	_	
+2-5	65-68	für	_	
+2-6	69-73	alle	_	
+2-7	74-92	Verkehrsteilnehmer	_	
+2-8	93-97	hoch	_	
+2-9	97-98	.	_	
+
+#Text=Außerdem könnte der Übergang zum Bröhltalbahnweg verbessert werden.
+3-1	99-107	Außerdem	_	
+3-2	108-114	könnte	_	
+3-3	115-118	der	*[6]	
+3-4	119-127	Übergang	*[6]	
+3-5	128-131	zum	*[6]	
+3-6	132-147	Bröhltalbahnweg	*[6]	
+3-7	148-158	verbessert	_	
+3-8	159-165	werden	_	
+3-9	165-166	.	_	
+
+#Text=Ein Kreisel könnte dort viel Zeit sparen.
+4-1	167-170	Ein	_	
+4-2	171-178	Kreisel	_	
+4-3	179-185	könnte	_	
+4-4	186-190	dort	_	
+4-5	191-195	viel	_	
+4-6	196-200	Zeit	_	
+4-7	201-207	sparen	_	
+4-8	207-208	.	_	
+
+#Text=Besser noch wäre ein Kreisel auf zwei Ebenen, bei dem auch Fußgänger, ... barrierefrei die Kreuzung überqueren können.
+5-1	209-215	Besser	_	
+5-2	216-220	noch	_	
+5-3	221-225	wäre	_	
+5-4	226-229	ein	_	
+5-5	230-237	Kreisel	_	
+5-6	238-241	auf	_	
+5-7	242-246	zwei	_	
+5-8	247-253	Ebenen	_	
+5-9	253-254	,	_	
+5-10	255-258	bei	_	
+5-11	259-262	dem	_	
+5-12	263-267	auch	_	
+5-13	268-277	Fußgänger	_	
+5-14	277-278	,	_	
+5-15	279-280	.	_	
+5-16	280-281	.	_	
+5-17	281-282	.	_	
+5-18	283-295	barrierefrei	_	
+5-19	296-299	die	_	
+5-20	300-308	Kreuzung	_	
+5-21	309-319	überqueren	_	
+5-22	320-326	können	_	
+5-23	326-327	.	_	

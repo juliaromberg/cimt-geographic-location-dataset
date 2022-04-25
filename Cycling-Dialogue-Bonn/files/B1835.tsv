@@ -1,0 +1,137 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstrasse für Rad und Fußweg einrichten
+1-1	0-14	Einbahnstrasse	_	
+1-2	15-18	für	_	
+1-3	19-22	Rad	_	
+1-4	23-26	und	_	
+1-5	27-33	Fußweg	_	
+1-6	34-44	einrichten	_	
+
+#Text=Die Rad und Fußwege auf der Brücke und der Zufahrt zur Brücke sind nicht besonders Breit.
+2-1	47-50	Die	_	
+2-2	51-54	Rad	_	
+2-3	55-58	und	_	
+2-4	59-66	Fußwege	_	
+2-5	67-70	auf	_	
+2-6	71-74	der	_	
+2-7	75-81	Brücke	_	
+2-8	82-85	und	_	
+2-9	86-89	der	_	
+2-10	90-97	Zufahrt	_	
+2-11	98-101	zur	_	
+2-12	102-108	Brücke	_	
+2-13	109-113	sind	_	
+2-14	114-119	nicht	_	
+2-15	120-129	besonders	_	
+2-16	130-135	Breit	_	
+2-17	135-136	.	_	
+
+#Text=Sinnvoll wäre es, wenn Fußgänger und Radfahrer immer nur eine Richtung pro Seite gehen/fahren würden.
+3-1	137-145	Sinnvoll	_	
+3-2	146-150	wäre	_	
+3-3	151-153	es	_	
+3-4	153-154	,	_	
+3-5	155-159	wenn	_	
+3-6	160-169	Fußgänger	_	
+3-7	170-173	und	_	
+3-8	174-183	Radfahrer	_	
+3-9	184-189	immer	_	
+3-10	190-193	nur	_	
+3-11	194-198	eine	_	
+3-12	199-207	Richtung	_	
+3-13	208-211	pro	_	
+3-14	212-217	Seite	_	
+3-15	218-223	gehen	_	
+3-16	223-224	/	_	
+3-17	224-230	fahren	_	
+3-18	231-237	würden	_	
+3-19	237-238	.	_	
+
+#Text=Dieses müsste man durch Beschilderung deutlich signalisieren.
+4-1	239-245	Dieses	_	
+4-2	246-252	müsste	_	
+4-3	253-256	man	_	
+4-4	257-262	durch	_	
+4-5	263-276	Beschilderung	_	
+4-6	277-285	deutlich	_	
+4-7	286-299	signalisieren	_	
+4-8	299-300	.	_	
+
+#Text=Zudem wäre es auch wünschenswert, wenn nicht ortskundige Personen weitläufig mit Wegeisern zur Brücke geführt würden.
+5-1	301-306	Zudem	_	
+5-2	307-311	wäre	_	
+5-3	312-314	es	_	
+5-4	315-319	auch	_	
+5-5	320-333	wünschenswert	_	
+5-6	333-334	,	_	
+5-7	335-339	wenn	_	
+5-8	340-345	nicht	_	
+5-9	346-357	ortskundige	_	
+5-10	358-366	Personen	_	
+5-11	367-377	weitläufig	_	
+5-12	378-381	mit	_	
+5-13	382-391	Wegeisern	_	
+5-14	392-395	zur	_	
+5-15	396-402	Brücke	_	
+5-16	403-410	geführt	_	
+5-17	411-417	würden	_	
+5-18	417-418	.	_	
+
+#Text=Man sucht die Auffahrten doch ein wenig in der Rheinaue.
+6-1	419-422	Man	_	
+6-2	423-428	sucht	_	
+6-3	429-432	die	_	
+6-4	433-443	Auffahrten	_	
+6-5	444-448	doch	_	
+6-6	449-452	ein	_	
+6-7	453-458	wenig	_	
+6-8	459-461	in	*[10]	
+6-9	462-465	der	*[10]	
+6-10	466-474	Rheinaue	*[10]	
+6-11	474-475	.	_	
+
+#Text=Empfehlen würde ich eine Beschilderung ab Landgrabenweg und ab B9.
+7-1	476-485	Empfehlen	_	
+7-2	486-491	würde	_	
+7-3	492-495	ich	_	
+7-4	496-500	eine	_	
+7-5	501-514	Beschilderung	_	
+7-6	515-517	ab	*[11]	
+7-7	518-531	Landgrabenweg	*[11]	
+7-8	532-535	und	*[11]	
+7-9	536-538	ab	*[11]	
+7-10	539-541	B9	*[11]	
+7-11	541-542	.	_	
+
+#Text=Besonders auf der Linksrheinischen Seite findet man die Radwege vor lauter Autostrassen kaum.
+8-1	543-552	Besonders	_	
+8-2	553-556	auf	_	
+8-3	557-560	der	_	
+8-4	561-577	Linksrheinischen	_	
+8-5	578-583	Seite	_	
+8-6	584-590	findet	_	
+8-7	591-594	man	_	
+8-8	595-598	die	_	
+8-9	599-606	Radwege	_	
+8-10	607-610	vor	_	
+8-11	611-617	lauter	_	
+8-12	618-630	Autostrassen	_	
+8-13	631-635	kaum	_	
+8-14	635-636	.	_	
+
+#Text=Mit einer guten Ausschilderung kann man sicherlich viel erreichen.
+9-1	637-640	Mit	_	
+9-2	641-646	einer	_	
+9-3	647-652	guten	_	
+9-4	653-667	Ausschilderung	_	
+9-5	668-672	kann	_	
+9-6	673-676	man	_	
+9-7	677-687	sicherlich	_	
+9-8	688-692	viel	_	
+9-9	693-702	erreichen	_	
+9-10	702-703	.	_	

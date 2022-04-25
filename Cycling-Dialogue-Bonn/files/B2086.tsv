@@ -1,0 +1,92 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Knapp überholende Autos - zugeparkte enge Straßen
+1-1	0-5	Knapp	_	
+1-2	6-17	überholende	_	
+1-3	18-23	Autos	_	
+1-4	24-25	-	_	
+1-5	26-36	zugeparkte	_	
+1-6	37-41	enge	_	
+1-7	42-49	Straßen	_	
+
+#Text=Insbesondere bei Veranstaltungen und Konzerten sind die Einbahnstraßen in Endenich aufgrund des Parkplatzsuchverkehrs von Autos mit Umlandkennzeichen stark belastet.
+2-1	52-64	Insbesondere	_	
+2-2	65-68	bei	_	
+2-3	69-84	Veranstaltungen	_	
+2-4	85-88	und	_	
+2-5	89-98	Konzerten	_	
+2-6	99-103	sind	_	
+2-7	104-107	die	_	
+2-8	108-122	Einbahnstraßen	_	
+2-9	123-125	in	*[6]	
+2-10	126-134	Endenich	*[6]	
+2-11	135-143	aufgrund	_	
+2-12	144-147	des	_	
+2-13	148-169	Parkplatzsuchverkehrs	_	
+2-14	170-173	von	_	
+2-15	174-179	Autos	_	
+2-16	180-183	mit	_	
+2-17	184-201	Umlandkennzeichen	_	
+2-18	202-207	stark	_	
+2-19	208-216	belastet	_	
+2-20	216-217	.	_	
+
+#Text=Als Fahrradfahrer wird man dann häufig von genervten Autofahren knapp überholt.
+3-1	218-221	Als	_	
+3-2	222-235	Fahrradfahrer	_	
+3-3	236-240	wird	_	
+3-4	241-244	man	_	
+3-5	245-249	dann	_	
+3-6	250-256	häufig	_	
+3-7	257-260	von	_	
+3-8	261-270	genervten	_	
+3-9	271-281	Autofahren	_	
+3-10	282-287	knapp	_	
+3-11	288-296	überholt	_	
+3-12	296-297	.	_	
+
+#Text=Mein Vorschlag wäre ein Parkleitsystem, sodass der starke Verkehr gar nicht erst entsteht!
+4-1	298-302	Mein	_	
+4-2	303-312	Vorschlag	_	
+4-3	313-317	wäre	_	
+4-4	318-321	ein	_	
+4-5	322-336	Parkleitsystem	_	
+4-6	336-337	,	_	
+4-7	338-344	sodass	_	
+4-8	345-348	der	_	
+4-9	349-355	starke	_	
+4-10	356-363	Verkehr	_	
+4-11	364-367	gar	_	
+4-12	368-373	nicht	_	
+4-13	374-378	erst	_	
+4-14	379-387	entsteht	_	
+4-15	387-388	!	_	
+
+#Text=Das Parken für nicht Anwohner sollte in den kleinen Nebenstraßen sowieso gleich ganz verboten werden, dann bleibt mehr Aufenthaltsqualität für alle!
+5-1	389-392	Das	_	
+5-2	393-399	Parken	_	
+5-3	400-403	für	_	
+5-4	404-409	nicht	_	
+5-5	410-418	Anwohner	_	
+5-6	419-425	sollte	_	
+5-7	426-428	in	_	
+5-8	429-432	den	_	
+5-9	433-440	kleinen	_	
+5-10	441-453	Nebenstraßen	_	
+5-11	454-461	sowieso	_	
+5-12	462-468	gleich	_	
+5-13	469-473	ganz	_	
+5-14	474-482	verboten	_	
+5-15	483-489	werden	_	
+5-16	489-490	,	_	
+5-17	491-495	dann	_	
+5-18	496-502	bleibt	_	
+5-19	503-507	mehr	_	
+5-20	508-527	Aufenthaltsqualität	_	
+5-21	528-531	für	_	
+5-22	532-536	alle	_	
+5-23	536-537	!	_	

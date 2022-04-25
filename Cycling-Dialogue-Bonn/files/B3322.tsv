@@ -1,0 +1,59 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rutschiges Laub auf den Radwegen im Herbst
+1-1	0-10	Rutschiges	_	
+1-2	11-15	Laub	_	
+1-3	16-19	auf	_	
+1-4	20-23	den	_	
+1-5	24-32	Radwegen	_	
+1-6	33-35	im	_	
+1-7	36-42	Herbst	_	
+
+#Text=Jetzt im Herbst werden die Radweg viel zu selten vom Laub befreit.
+2-1	45-50	Jetzt	_	
+2-2	51-53	im	_	
+2-3	54-60	Herbst	_	
+2-4	61-67	werden	_	
+2-5	68-71	die	_	
+2-6	72-78	Radweg	_	
+2-7	79-83	viel	_	
+2-8	84-86	zu	_	
+2-9	87-93	selten	_	
+2-10	94-97	vom	_	
+2-11	98-102	Laub	_	
+2-12	103-110	befreit	_	
+2-13	110-111	.	_	
+
+#Text=Insbesondere an den Rändern der ohnehin viel zu schmalen Radwege am Rheinufer liegt viel rutschiges Laub, so dass die Sturzgefahr insbesondere im Begegnungsverkehr extrem groß ist.
+3-1	112-124	Insbesondere	_	
+3-2	125-127	an	_	
+3-3	128-131	den	_	
+3-4	132-139	Rändern	_	
+3-5	140-143	der	_	
+3-6	144-151	ohnehin	_	
+3-7	152-156	viel	_	
+3-8	157-159	zu	_	
+3-9	160-168	schmalen	_	
+3-10	169-176	Radwege	_	
+3-11	177-179	am	*[4]	
+3-12	180-189	Rheinufer	*[4]	
+3-13	190-195	liegt	_	
+3-14	196-200	viel	_	
+3-15	201-211	rutschiges	_	
+3-16	212-216	Laub	_	
+3-17	216-217	,	_	
+3-18	218-220	so	_	
+3-19	221-225	dass	_	
+3-20	226-229	die	_	
+3-21	230-241	Sturzgefahr	_	
+3-22	242-254	insbesondere	_	
+3-23	255-257	im	_	
+3-24	258-275	Begegnungsverkehr	_	
+3-25	276-282	extrem	_	
+3-26	283-287	groß	_	
+3-27	288-291	ist	_	
+3-28	291-292	.	_	

@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verbinden der Fahrradwege
+1-1	0-9	Verbinden	_	
+1-2	10-13	der	_	
+1-3	14-25	Fahrradwege	_	
+
+#Text=Die Fahrradwege entlang der Olof Palme Allee und der entlang der Bahnlinie sind nicht sinnvoll verbunden.
+2-1	28-31	Die	*[6]	
+2-2	32-43	Fahrradwege	*[6]	
+2-3	44-51	entlang	*[6]	
+2-4	52-55	der	*[6]	
+2-5	56-60	Olof	*[6]	
+2-6	61-66	Palme	*[6]	
+2-7	67-72	Allee	*[6]	
+2-8	73-76	und	_	
+2-9	77-80	der	_	
+2-10	81-88	entlang	_	
+2-11	89-92	der	_	
+2-12	93-102	Bahnlinie	_	
+2-13	103-107	sind	_	
+2-14	108-113	nicht	_	
+2-15	114-122	sinnvoll	_	
+2-16	123-132	verbunden	_	
+2-17	132-133	.	_	
+
+#Text=Hier ist man als Fahrradfahrer gezwungen, wie ein Fußgänger die vor allem im Berufsverkehr stark befahrene Goldmann Allee zu überqueren.
+3-1	134-138	Hier	_	
+3-2	139-142	ist	_	
+3-3	143-146	man	_	
+3-4	147-150	als	_	
+3-5	151-164	Fahrradfahrer	_	
+3-6	165-174	gezwungen	_	
+3-7	174-175	,	_	
+3-8	176-179	wie	_	
+3-9	180-183	ein	_	
+3-10	184-193	Fußgänger	_	
+3-11	194-197	die	_	
+3-12	198-201	vor	_	
+3-13	202-207	allem	_	
+3-14	208-210	im	_	
+3-15	211-224	Berufsverkehr	_	
+3-16	225-230	stark	_	
+3-17	231-240	befahrene	_	
+3-18	241-249	Goldmann	*[7]	
+3-19	250-255	Allee	*[7]	
+3-20	256-258	zu	*[7]	
+3-21	259-269	überqueren	*[7]	
+3-22	269-270	.	_	
+
+#Text=Vorschlag: Klar gekennzeichnete Radwege auf der Palme Allee (die auf den Fußwegen sind ohnehin marode) mit entsprechenden Abbiegespuren für Radfahrer.
+4-1	271-280	Vorschlag	_	
+4-2	280-281	:	_	
+4-3	282-286	Klar	_	
+4-4	287-302	gekennzeichnete	_	
+4-5	303-310	Radwege	_	
+4-6	311-314	auf	*[8]	
+4-7	315-318	der	*[8]	
+4-8	319-324	Palme	*[8]	
+4-9	325-330	Allee	*[8]	
+4-10	331-332	(	_	
+4-11	332-335	die	_	
+4-12	336-339	auf	_	
+4-13	340-343	den	_	
+4-14	344-352	Fußwegen	_	
+4-15	353-357	sind	_	
+4-16	358-365	ohnehin	_	
+4-17	366-372	marode	_	
+4-18	372-373	)	_	
+4-19	374-377	mit	_	
+4-20	378-392	entsprechenden	_	
+4-21	393-406	Abbiegespuren	_	
+4-22	407-410	für	_	
+4-23	411-420	Radfahrer	_	
+4-24	420-421	.	_	
+
+#Text=Vom radweg entlang der Goldmann-Allee bessere Abbiegemöglickeiten schaffen.
+5-1	422-425	Vom	_	
+5-2	426-432	radweg	_	
+5-3	433-440	entlang	*[9]	
+5-4	441-444	der	*[9]	
+5-5	445-459	Goldmann-Allee	*[9]	
+5-6	460-467	bessere	_	
+5-7	468-487	Abbiegemöglickeiten	_	
+5-8	488-496	schaffen	_	
+5-9	496-497	.	_	

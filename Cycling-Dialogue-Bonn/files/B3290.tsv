@@ -1,0 +1,20 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Drängelgitter
+1-1	0-13	Drängelgitter	_	
+
+#Text=Das drängelgitter ist mit Fahrad und Kindernhänger kaum passierbar!
+2-1	16-19	Das	_	
+2-2	20-33	drängelgitter	_	
+2-3	34-37	ist	_	
+2-4	38-41	mit	_	
+2-5	42-48	Fahrad	_	
+2-6	49-52	und	_	
+2-7	53-66	Kindernhänger	_	
+2-8	67-71	kaum	_	
+2-9	72-82	passierbar	_	
+2-10	82-83	!	_	

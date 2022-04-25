@@ -1,0 +1,205 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrrad- und Fussgängerampel vom Parkgürtel Richtung Arnimstrasse
+1-1	0-7	Fahrrad	_	
+1-2	7-8	-	_	
+1-3	9-12	und	_	
+1-4	13-28	Fussgängerampel	_	
+1-5	29-32	vom	*[11]	
+1-6	33-43	Parkgürtel	*[11]	
+1-7	44-52	Richtung	*[11]	
+1-8	53-65	Arnimstrasse	*[11]	
+
+#Text=Sehr geehrte Damen und Herren!
+2-1	68-72	Sehr	_	
+2-2	73-80	geehrte	_	
+2-3	81-86	Damen	_	
+2-4	87-90	und	_	
+2-5	91-97	Herren	_	
+2-6	97-98	!	_	
+
+#Text=Ich überquere regelmässig die Ampel vom Parkgürtel kommend in Richtung Arnimstrasse.
+3-1	99-102	Ich	_	
+3-2	103-112	überquere	_	
+3-3	113-124	regelmässig	_	
+3-4	125-128	die	_	
+3-5	129-134	Ampel	_	
+3-6	135-138	vom	*[12]	
+3-7	139-149	Parkgürtel	*[12]	
+3-8	150-157	kommend	*[12]	
+3-9	158-160	in	*[12]	
+3-10	161-169	Richtung	*[12]	
+3-11	170-182	Arnimstrasse	*[12]	
+3-12	182-183	.	_	
+
+#Text=Autofahrer haben dort gleichzeitig die Möglichkeit durch einen Linksabbiegerspur auf die A 57 zu fahren, aber auch einen U- Turn Richtung Nussbaumerstrasse zu machen.
+4-1	184-194	Autofahrer	_	
+4-2	195-200	haben	_	
+4-3	201-205	dort	_	
+4-4	206-218	gleichzeitig	_	
+4-5	219-222	die	_	
+4-6	223-234	Möglichkeit	_	
+4-7	235-240	durch	_	
+4-8	241-246	einen	_	
+4-9	247-264	Linksabbiegerspur	*[13]	
+4-10	265-268	auf	*[13]	
+4-11	269-272	die	*[13]	
+4-12	273-274	A	*[13]	
+4-13	275-277	57	*[13]	
+4-14	278-280	zu	_	
+4-15	281-287	fahren	_	
+4-16	287-288	,	_	
+4-17	289-293	aber	_	
+4-18	294-298	auch	_	
+4-19	299-304	einen	_	
+4-20	305-306	U	*[14]	
+4-21	306-307	-	*[14]	
+4-22	308-312	Turn	*[14]	
+4-23	313-321	Richtung	*[14]	
+4-24	322-339	Nussbaumerstrasse	*[14]	
+4-25	340-342	zu	_	
+4-26	343-349	machen	_	
+4-27	349-350	.	_	
+
+#Text=Da die Grünschaltung sowohl für Autofahrer als auch für Fussgänger und Radfahrer gleichgeschaltet ist, wird mir sehr häufig ( ca. in 3 von 10 Fällen) die Vorfahrt genommen.
+5-1	351-353	Da	_	
+5-2	354-357	die	_	
+5-3	358-371	Grünschaltung	_	
+5-4	372-378	sowohl	_	
+5-5	379-382	für	_	
+5-6	383-393	Autofahrer	_	
+5-7	394-397	als	_	
+5-8	398-402	auch	_	
+5-9	403-406	für	_	
+5-10	407-417	Fussgänger	_	
+5-11	418-421	und	_	
+5-12	422-431	Radfahrer	_	
+5-13	432-448	gleichgeschaltet	_	
+5-14	449-452	ist	_	
+5-15	452-453	,	_	
+5-16	454-458	wird	_	
+5-17	459-462	mir	_	
+5-18	463-467	sehr	_	
+5-19	468-474	häufig	_	
+5-20	475-476	(	_	
+5-21	477-479	ca	_	
+5-22	479-480	.	_	
+5-23	481-483	in	_	
+5-24	484-485	3	_	
+5-25	486-489	von	_	
+5-26	490-492	10	_	
+5-27	493-499	Fällen	_	
+5-28	499-500	)	_	
+5-29	501-504	die	_	
+5-30	505-513	Vorfahrt	_	
+5-31	514-522	genommen	_	
+5-32	522-523	.	_	
+
+#Text=Grund mag die schlechte Einsicht sein, denn als Radfahrer/ Fussgänger befindet man sich auf einem Mittelstreifen.
+6-1	524-529	Grund	_	
+6-2	530-533	mag	_	
+6-3	534-537	die	_	
+6-4	538-547	schlechte	_	
+6-5	548-556	Einsicht	_	
+6-6	557-561	sein	_	
+6-7	561-562	,	_	
+6-8	563-567	denn	_	
+6-9	568-571	als	_	
+6-10	572-581	Radfahrer	_	
+6-11	581-582	/	_	
+6-12	583-593	Fussgänger	_	
+6-13	594-602	befindet	_	
+6-14	603-606	man	_	
+6-15	607-611	sich	_	
+6-16	612-615	auf	_	
+6-17	616-621	einem	_	
+6-18	622-636	Mittelstreifen	_	
+6-19	636-637	.	_	
+
+#Text=Allerdings wurde mir auch wiederholt die Vorfahrt genommen, obgleich ich gesehen wurde; sogar schon dreimal von Polizisten, die Blickkontakt mit mir hatten - was ich noch ungeheuerlicher finde, für die Gefahr aber keinen Unterschied darstellt...
+7-1	638-648	Allerdings	_	
+7-2	649-654	wurde	_	
+7-3	655-658	mir	_	
+7-4	659-663	auch	_	
+7-5	664-674	wiederholt	_	
+7-6	675-678	die	_	
+7-7	679-687	Vorfahrt	_	
+7-8	688-696	genommen	_	
+7-9	696-697	,	_	
+7-10	698-706	obgleich	_	
+7-11	707-710	ich	_	
+7-12	711-718	gesehen	_	
+7-13	719-724	wurde	_	
+7-14	724-725	;	_	
+7-15	726-731	sogar	_	
+7-16	732-737	schon	_	
+7-17	738-745	dreimal	_	
+7-18	746-749	von	_	
+7-19	750-760	Polizisten	_	
+7-20	760-761	,	_	
+7-21	762-765	die	_	
+7-22	766-778	Blickkontakt	_	
+7-23	779-782	mit	_	
+7-24	783-786	mir	_	
+7-25	787-793	hatten	_	
+7-26	794-795	-	_	
+7-27	796-799	was	_	
+7-28	800-803	ich	_	
+7-29	804-808	noch	_	
+7-30	809-824	ungeheuerlicher	_	
+7-31	825-830	finde	_	
+7-32	830-831	,	_	
+7-33	832-835	für	_	
+7-34	836-839	die	_	
+7-35	840-846	Gefahr	_	
+7-36	847-851	aber	_	
+7-37	852-858	keinen	_	
+7-38	859-870	Unterschied	_	
+7-39	871-880	darstellt	_	
+7-40	880-881	.	_	
+7-41	881-882	.	_	
+7-42	882-883	.	_	
+
+#Text=Hinzu kommt, dass es sich hier ebenfalls um einen Schulweg der Kinder, die das AMG besuchen handelt.
+8-1	884-889	Hinzu	_	
+8-2	890-895	kommt	_	
+8-3	895-896	,	_	
+8-4	897-901	dass	_	
+8-5	902-904	es	_	
+8-6	905-909	sich	_	
+8-7	910-914	hier	_	
+8-8	915-924	ebenfalls	_	
+8-9	925-927	um	_	
+8-10	928-933	einen	_	
+8-11	934-942	Schulweg	_	
+8-12	943-946	der	_	
+8-13	947-953	Kinder	_	
+8-14	953-954	,	_	
+8-15	955-958	die	_	
+8-16	959-962	das	*[15]	
+8-17	963-966	AMG	*[15]	
+8-18	967-975	besuchen	_	
+8-19	976-983	handelt	_	
+8-20	983-984	.	_	
+
+#Text=Ich denke, hier besteht dringender Handlungsbedarf!
+9-1	985-988	Ich	_	
+9-2	989-994	denke	_	
+9-3	994-995	,	_	
+9-4	996-1000	hier	_	
+9-5	1001-1008	besteht	_	
+9-6	1009-1019	dringender	_	
+9-7	1020-1035	Handlungsbedarf	_	
+9-8	1035-1036	!	_	
+
+#Text=Mit freundlichen Grüßen [Name]
+10-1	1037-1040	Mit	_	
+10-2	1041-1053	freundlichen	_	
+10-3	1054-1060	Grüßen	_	
+10-4	1061-1062	[	_	
+10-5	1062-1066	Name	_	
+10-6	1066-1067	]	_	

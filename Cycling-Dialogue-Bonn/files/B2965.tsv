@@ -1,0 +1,91 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrbahnmarkierung für links abbiegende Radfahrer
+1-1	0-18	Fahrbahnmarkierung	_	
+1-2	19-22	für	_	
+1-3	23-28	links	_	
+1-4	29-39	abbiegende	_	
+1-5	40-49	Radfahrer	_	
+
+#Text=Vom Bahnhof kommend u. Richtung Münster Platz abbiegende Radfahrer werden oft, aufgrund der Verkehrsführung übersehen.
+2-1	52-55	Vom	*[6]	
+2-2	56-63	Bahnhof	*[6]	
+2-3	64-71	kommend	*[6]	
+2-4	72-73	u	*[6]	
+2-5	73-74	.	*[6]	
+2-6	75-83	Richtung	*[6]	
+2-7	84-91	Münster	*[6]	
+2-8	92-97	Platz	*[6]	
+2-9	98-108	abbiegende	_	
+2-10	109-118	Radfahrer	_	
+2-11	119-125	werden	_	
+2-12	126-129	oft	_	
+2-13	129-130	,	_	
+2-14	131-139	aufgrund	_	
+2-15	140-143	der	_	
+2-16	144-159	Verkehrsführung	_	
+2-17	160-169	übersehen	_	
+2-18	169-170	.	_	
+
+#Text=Busse kommen von der Haltestelle Markt, in Richtung Hbf, aufgrund der abbiegenden Busse ist es oft nicht möglich direkt an der Kreuzung zu halten.
+3-1	171-176	Busse	_	
+3-2	177-183	kommen	_	
+3-3	184-187	von	*[7]	
+3-4	188-191	der	*[7]	
+3-5	192-203	Haltestelle	*[7]	
+3-6	204-209	Markt	*[7]	
+3-7	209-210	,	*[7]	
+3-8	211-213	in	*[7]	
+3-9	214-222	Richtung	*[7]	
+3-10	223-226	Hbf	*[7]	
+3-11	226-227	,	_	
+3-12	228-236	aufgrund	_	
+3-13	237-240	der	_	
+3-14	241-252	abbiegenden	_	
+3-15	253-258	Busse	_	
+3-16	259-262	ist	_	
+3-17	263-265	es	_	
+3-18	266-269	oft	_	
+3-19	270-275	nicht	_	
+3-20	276-283	möglich	_	
+3-21	284-290	direkt	_	
+3-22	291-293	an	_	
+3-23	294-297	der	_	
+3-24	298-306	Kreuzung	_	
+3-25	307-309	zu	_	
+3-26	310-316	halten	_	
+3-27	316-317	.	_	
+
+#Text=Autofahrer erkennen nicht, dass Radfahrern das linksabbiegen erlaubt ist.
+4-1	318-328	Autofahrer	_	
+4-2	329-337	erkennen	_	
+4-3	338-343	nicht	_	
+4-4	343-344	,	_	
+4-5	345-349	dass	_	
+4-6	350-360	Radfahrern	_	
+4-7	361-364	das	_	
+4-8	365-378	linksabbiegen	_	
+4-9	379-386	erlaubt	_	
+4-10	387-390	ist	_	
+4-11	390-391	.	_	
+
+#Text=Eine blaue oder rote Markierung im Kreuzungsbereich könnte die Situation ggfs. etwas entschärfen.
+5-1	392-396	Eine	_	
+5-2	397-402	blaue	_	
+5-3	403-407	oder	_	
+5-4	408-412	rote	_	
+5-5	413-423	Markierung	_	
+5-6	424-426	im	_	
+5-7	427-443	Kreuzungsbereich	_	
+5-8	444-450	könnte	_	
+5-9	451-454	die	_	
+5-10	455-464	Situation	_	
+5-11	465-469	ggfs	_	
+5-12	469-470	.	_	
+5-13	471-476	etwas	_	
+5-14	477-488	entschärfen	_	
+5-15	488-489	.	_	

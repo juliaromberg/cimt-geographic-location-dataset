@@ -1,0 +1,140 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrrad-Absperrung entfernen
+1-1	0-18	Fahrrad-Absperrung	_	
+1-2	19-28	entfernen	_	
+
+#Text=Der Weg vom Stationsweg hinab zum Friedhof ist sowohl auf dem Stationsweg als auch auf dem Wallfahrtsweg durch je ein Gatter bestückt.
+2-1	31-34	Der	*[8]	
+2-2	35-38	Weg	*[8]	
+2-3	39-42	vom	*[8]	
+2-4	43-54	Stationsweg	*[8]	
+2-5	55-60	hinab	*[8]	
+2-6	61-64	zum	*[8]	
+2-7	65-73	Friedhof	*[8]	
+2-8	74-77	ist	_	
+2-9	78-84	sowohl	_	
+2-10	85-88	auf	*[9]	
+2-11	89-92	dem	*[9]	
+2-12	93-104	Stationsweg	*[9]	
+2-13	105-108	als	_	
+2-14	109-113	auch	_	
+2-15	114-117	auf	*[10]	
+2-16	118-121	dem	*[10]	
+2-17	122-135	Wallfahrtsweg	*[10]	
+2-18	136-141	durch	_	
+2-19	142-144	je	_	
+2-20	145-148	ein	_	
+2-21	149-155	Gatter	_	
+2-22	156-164	bestückt	_	
+2-23	164-165	.	_	
+
+#Text=Diese Gatter sind entweder überflüssig, weil sie zu 90% ohnehin geöffnet sind, oder sie sind unsinnig, wenn sie doch in keinesfalls nachvollziehbaren Zeitfenstern doch mal geschlossen werden.
+3-1	166-171	Diese	_	
+3-2	172-178	Gatter	_	
+3-3	179-183	sind	_	
+3-4	184-192	entweder	_	
+3-5	193-204	überflüssig	_	
+3-6	204-205	,	_	
+3-7	206-210	weil	_	
+3-8	211-214	sie	_	
+3-9	215-217	zu	_	
+3-10	218-221	90%	_	
+3-11	222-229	ohnehin	_	
+3-12	230-238	geöffnet	_	
+3-13	239-243	sind	_	
+3-14	243-244	,	_	
+3-15	245-249	oder	_	
+3-16	250-253	sie	_	
+3-17	254-258	sind	_	
+3-18	259-267	unsinnig	_	
+3-19	267-268	,	_	
+3-20	269-273	wenn	_	
+3-21	274-277	sie	_	
+3-22	278-282	doch	_	
+3-23	283-285	in	_	
+3-24	286-297	keinesfalls	_	
+3-25	298-315	nachvollziehbaren	_	
+3-26	316-328	Zeitfenstern	_	
+3-27	329-333	doch	_	
+3-28	334-337	mal	_	
+3-29	338-349	geschlossen	_	
+3-30	350-356	werden	_	
+3-31	356-357	.	_	
+
+#Text=Welcher Zweck wird also mit diesem seltenen sporadischen Schließen verfolgt?
+4-1	358-365	Welcher	_	
+4-2	366-371	Zweck	_	
+4-3	372-376	wird	_	
+4-4	377-381	also	_	
+4-5	382-385	mit	_	
+4-6	386-392	diesem	_	
+4-7	393-401	seltenen	_	
+4-8	402-414	sporadischen	_	
+4-9	415-424	Schließen	_	
+4-10	425-433	verfolgt	_	
+4-11	433-434	?	_	
+
+#Text=Und auf wessen Veranlassung / Kosten erfolgt dies?
+5-1	435-438	Und	_	
+5-2	439-442	auf	_	
+5-3	443-449	wessen	_	
+5-4	450-462	Veranlassung	_	
+5-5	463-464	/	_	
+5-6	465-471	Kosten	_	
+5-7	472-479	erfolgt	_	
+5-8	480-484	dies	_	
+5-9	484-485	?	_	
+
+#Text=In jedem Fall wäre es eine Freude für Radfahrer, Pedelec-Nutzer und Kinderwägen, wenn diese Wege durchgängig offen wären.
+6-1	486-488	In	_	
+6-2	489-494	jedem	_	
+6-3	495-499	Fall	_	
+6-4	500-504	wäre	_	
+6-5	505-507	es	_	
+6-6	508-512	eine	_	
+6-7	513-519	Freude	_	
+6-8	520-523	für	_	
+6-9	524-533	Radfahrer	_	
+6-10	533-534	,	_	
+6-11	535-549	Pedelec-Nutzer	_	
+6-12	550-553	und	_	
+6-13	554-565	Kinderwägen	_	
+6-14	565-566	,	_	
+6-15	567-571	wenn	_	
+6-16	572-577	diese	_	
+6-17	578-582	Wege	_	
+6-18	583-594	durchgängig	_	
+6-19	595-600	offen	_	
+6-20	601-606	wären	_	
+6-21	606-607	.	_	
+
+#Text=Und sollte es Sorgen geben, dass diese Wege nun durch Autos genutzt werden, dann sollte dagegen ein einfacher Poller Abhilfe leisten.
+7-1	608-611	Und	_	
+7-2	612-618	sollte	_	
+7-3	619-621	es	_	
+7-4	622-628	Sorgen	_	
+7-5	629-634	geben	_	
+7-6	634-635	,	_	
+7-7	636-640	dass	_	
+7-8	641-646	diese	_	
+7-9	647-651	Wege	_	
+7-10	652-655	nun	_	
+7-11	656-661	durch	_	
+7-12	662-667	Autos	_	
+7-13	668-675	genutzt	_	
+7-14	676-682	werden	_	
+7-15	682-683	,	_	
+7-16	684-688	dann	_	
+7-17	689-695	sollte	_	
+7-18	696-703	dagegen	_	
+7-19	704-707	ein	_	
+7-20	708-717	einfacher	_	
+7-21	718-724	Poller	_	
+7-22	725-732	Abhilfe	_	
+7-23	733-740	leisten	_	
+7-24	740-741	.	_	

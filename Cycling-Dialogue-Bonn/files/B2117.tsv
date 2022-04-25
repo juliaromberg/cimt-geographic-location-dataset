@@ -1,0 +1,59 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unklare Vorfahrtsregelung
+1-1	0-7	Unklare	_	
+1-2	8-25	Vorfahrtsregelung	_	
+
+#Text=Als Radfahrer darf man vom Kaiserplatz kommend geradeaus auf den Hofgarten fahren.
+2-1	28-31	Als	_	
+2-2	32-41	Radfahrer	_	
+2-3	42-46	darf	_	
+2-4	47-50	man	_	
+2-5	51-54	vom	*[5]	
+2-6	55-66	Kaiserplatz	*[5]	
+2-7	67-74	kommend	*[5]	
+2-8	75-84	geradeaus	*[5]	
+2-9	85-88	auf	*[5]	
+2-10	89-92	den	*[5]	
+2-11	93-102	Hofgarten	*[5]	
+2-12	103-109	fahren	_	
+2-13	109-110	.	_	
+
+#Text=Leider ist dies vielen Autofahren nicht bewusst welche von Am Neutor kommend den Radfahrern die Vorfahrt nehmen.
+3-1	111-117	Leider	_	
+3-2	118-121	ist	_	
+3-3	122-126	dies	_	
+3-4	127-133	vielen	_	
+3-5	134-144	Autofahren	_	
+3-6	145-150	nicht	_	
+3-7	151-158	bewusst	_	
+3-8	159-165	welche	_	
+3-9	166-169	von	*[6]	
+3-10	170-172	Am	*[6]	
+3-11	173-179	Neutor	*[6]	
+3-12	180-187	kommend	*[6]	
+3-13	188-191	den	_	
+3-14	192-202	Radfahrern	_	
+3-15	203-206	die	_	
+3-16	207-215	Vorfahrt	_	
+3-17	216-222	nehmen	_	
+3-18	222-223	.	_	
+
+#Text=Hier wäre ein Achtung Kreuzung Schild für die Straße Am Neutor sinnvoll.
+4-1	224-228	Hier	_	
+4-2	229-233	wäre	_	
+4-3	234-237	ein	_	
+4-4	238-245	Achtung	_	
+4-5	246-254	Kreuzung	_	
+4-6	255-261	Schild	_	
+4-7	262-265	für	_	
+4-8	266-269	die	*[7]	
+4-9	270-276	Straße	*[7]	
+4-10	277-279	Am	*[7]	
+4-11	280-286	Neutor	*[7]	
+4-12	287-295	sinnvoll	*[7]	
+4-13	295-296	.	_	

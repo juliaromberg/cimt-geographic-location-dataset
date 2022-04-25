@@ -1,0 +1,16 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Viktoriabrücke
+1-1	0-14	Viktoriabrücke	*	
+
+#Text=Verkehrsführung und Baustellenmanagement sind eine Zumutung
+2-1	17-32	Verkehrsführung	_	
+2-2	33-36	und	_	
+2-3	37-57	Baustellenmanagement	_	
+2-4	58-62	sind	_	
+2-5	63-67	eine	_	
+2-6	68-76	Zumutung	_	

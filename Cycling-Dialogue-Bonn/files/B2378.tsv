@@ -1,0 +1,233 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beleuchtung und Markierung von Radwegen mit Gegenverkehr
+1-1	0-11	Beleuchtung	_	
+1-2	12-15	und	_	
+1-3	16-26	Markierung	_	
+1-4	27-30	von	_	
+1-5	31-39	Radwegen	_	
+1-6	40-43	mit	_	
+1-7	44-56	Gegenverkehr	_	
+
+#Text=Der folgende Punkt ist nach meiner Kenntnis bisher wenn überhaupt noch nicht hinreichend diskutiert worden, obwohl er für die Sicherheit ganz entscheidend ist: Durch den zunehmenden Einbau von Lampen mit großer Leuchtstärke ist es in der Dunkelheit auf sehr vielen, insbesondere schmaleren Radwegen mit Gegenverkehr nicht möglich, sicher zu fahren.
+2-1	59-62	Der	_	
+2-2	63-71	folgende	_	
+2-3	72-77	Punkt	_	
+2-4	78-81	ist	_	
+2-5	82-86	nach	_	
+2-6	87-93	meiner	_	
+2-7	94-102	Kenntnis	_	
+2-8	103-109	bisher	_	
+2-9	110-114	wenn	_	
+2-10	115-124	überhaupt	_	
+2-11	125-129	noch	_	
+2-12	130-135	nicht	_	
+2-13	136-147	hinreichend	_	
+2-14	148-158	diskutiert	_	
+2-15	159-165	worden	_	
+2-16	165-166	,	_	
+2-17	167-173	obwohl	_	
+2-18	174-176	er	_	
+2-19	177-180	für	_	
+2-20	181-184	die	_	
+2-21	185-195	Sicherheit	_	
+2-22	196-200	ganz	_	
+2-23	201-213	entscheidend	_	
+2-24	214-217	ist	_	
+2-25	217-218	:	_	
+2-26	219-224	Durch	_	
+2-27	225-228	den	_	
+2-28	229-240	zunehmenden	_	
+2-29	241-247	Einbau	_	
+2-30	248-251	von	_	
+2-31	252-258	Lampen	_	
+2-32	259-262	mit	_	
+2-33	263-269	großer	_	
+2-34	270-282	Leuchtstärke	_	
+2-35	283-286	ist	_	
+2-36	287-289	es	_	
+2-37	290-292	in	_	
+2-38	293-296	der	_	
+2-39	297-307	Dunkelheit	_	
+2-40	308-311	auf	_	
+2-41	312-316	sehr	_	
+2-42	317-323	vielen	_	
+2-43	323-324	,	_	
+2-44	325-337	insbesondere	_	
+2-45	338-348	schmaleren	_	
+2-46	349-357	Radwegen	_	
+2-47	358-361	mit	_	
+2-48	362-374	Gegenverkehr	_	
+2-49	375-380	nicht	_	
+2-50	381-388	möglich	_	
+2-51	388-389	,	_	
+2-52	390-396	sicher	_	
+2-53	397-399	zu	_	
+2-54	400-406	fahren	_	
+2-55	406-407	.	_	
+
+#Text=Ich weiß, mit zunehmendem Alter wird man blendempfindlicher, da bin ich keine Ausnahme.
+3-1	408-411	Ich	_	
+3-2	412-416	weiß	_	
+3-3	416-417	,	_	
+3-4	418-421	mit	_	
+3-5	422-433	zunehmendem	_	
+3-6	434-439	Alter	_	
+3-7	440-444	wird	_	
+3-8	445-448	man	_	
+3-9	449-467	blendempfindlicher	_	
+3-10	467-468	,	_	
+3-11	469-471	da	_	
+3-12	472-475	bin	_	
+3-13	476-479	ich	_	
+3-14	480-485	keine	_	
+3-15	486-494	Ausnahme	_	
+3-16	494-495	.	_	
+
+#Text=Aber ich kenne viele Abschnitte, auch auf wichtigen Durchgangsstrecken, wo ich 30 50 m Blindflug im Schritttempo fahren musste, weil wieder einer mit zu hoch eingestellter Superleuchte mir entgegen kam.
+4-1	496-500	Aber	_	
+4-2	501-504	ich	_	
+4-3	505-510	kenne	_	
+4-4	511-516	viele	_	
+4-5	517-527	Abschnitte	_	
+4-6	527-528	,	_	
+4-7	529-533	auch	_	
+4-8	534-537	auf	_	
+4-9	538-547	wichtigen	_	
+4-10	548-566	Durchgangsstrecken	_	
+4-11	566-567	,	_	
+4-12	568-570	wo	_	
+4-13	571-574	ich	_	
+4-14	575-577	30	_	
+4-15	578-580	50	_	
+4-16	581-582	m	_	
+4-17	583-592	Blindflug	_	
+4-18	593-595	im	_	
+4-19	596-608	Schritttempo	_	
+4-20	609-615	fahren	_	
+4-21	616-622	musste	_	
+4-22	622-623	,	_	
+4-23	624-628	weil	_	
+4-24	629-635	wieder	_	
+4-25	636-641	einer	_	
+4-26	642-645	mit	_	
+4-27	646-648	zu	_	
+4-28	649-653	hoch	_	
+4-29	654-667	eingestellter	_	
+4-30	668-680	Superleuchte	_	
+4-31	681-684	mir	_	
+4-32	685-693	entgegen	_	
+4-33	694-697	kam	_	
+4-34	697-698	.	_	
+
+#Text=Zu hoffen, die Radler würden ihre Leuchten richtig einstellen oder die Leuchtstärke per Gesetz zu begrenzen ist völlig illusorisch.
+5-1	699-701	Zu	_	
+5-2	702-708	hoffen	_	
+5-3	708-709	,	_	
+5-4	710-713	die	_	
+5-5	714-720	Radler	_	
+5-6	721-727	würden	_	
+5-7	728-732	ihre	_	
+5-8	733-741	Leuchten	_	
+5-9	742-749	richtig	_	
+5-10	750-760	einstellen	_	
+5-11	761-765	oder	_	
+5-12	766-769	die	_	
+5-13	770-782	Leuchtstärke	_	
+5-14	783-786	per	_	
+5-15	787-793	Gesetz	_	
+5-16	794-796	zu	_	
+5-17	797-806	begrenzen	_	
+5-18	807-810	ist	_	
+5-19	811-817	völlig	_	
+5-20	818-829	illusorisch	_	
+5-21	829-830	.	_	
+
+#Text=Was folgt daraus?
+6-1	831-834	Was	_	
+6-2	835-840	folgt	_	
+6-3	841-847	daraus	_	
+6-4	847-848	?	_	
+
+#Text=1. Radwege mit Gegenverkehr sind möglichst zu vermeiden, auf jeden Fall aber sehr gut auszuleuchten.
+7-1	849-850	1	_	
+7-2	850-851	.	_	
+7-3	852-859	Radwege	_	
+7-4	860-863	mit	_	
+7-5	864-876	Gegenverkehr	_	
+7-6	877-881	sind	_	
+7-7	882-891	möglichst	_	
+7-8	892-894	zu	_	
+7-9	895-904	vermeiden	_	
+7-10	904-905	,	_	
+7-11	906-909	auf	_	
+7-12	910-915	jeden	_	
+7-13	916-920	Fall	_	
+7-14	921-925	aber	_	
+7-15	926-930	sehr	_	
+7-16	931-934	gut	_	
+7-17	935-948	auszuleuchten	_	
+7-18	948-949	.	_	
+
+#Text=2. Radwege mit Gegenverkehr sind so zu planen bzw. zu bauen, dass beide Fahrtrichtungen hinreichend breit sind und die Mittellinie deutlich (reflektierend!) markiert ist.
+8-1	950-951	2	_	
+8-2	951-952	.	_	
+8-3	953-960	Radwege	_	
+8-4	961-964	mit	_	
+8-5	965-977	Gegenverkehr	_	
+8-6	978-982	sind	_	
+8-7	983-985	so	_	
+8-8	986-988	zu	_	
+8-9	989-995	planen	_	
+8-10	996-999	bzw	_	
+8-11	999-1000	.	_	
+8-12	1001-1003	zu	_	
+8-13	1004-1009	bauen	_	
+8-14	1009-1010	,	_	
+8-15	1011-1015	dass	_	
+8-16	1016-1021	beide	_	
+8-17	1022-1037	Fahrtrichtungen	_	
+8-18	1038-1049	hinreichend	_	
+8-19	1050-1055	breit	_	
+8-20	1056-1060	sind	_	
+8-21	1061-1064	und	_	
+8-22	1065-1068	die	_	
+8-23	1069-1080	Mittellinie	_	
+8-24	1081-1089	deutlich	_	
+8-25	1090-1091	(	_	
+8-26	1091-1104	reflektierend	_	
+8-27	1104-1105	!	_	
+8-28	1105-1106	)	_	
+8-29	1107-1115	markiert	_	
+8-30	1116-1119	ist	_	
+8-31	1119-1120	.	_	
+
+#Text=3. Über eine Lösung für bestehende enge Passagen habe ich mir Gedanken gemacht, die ich gern einmal einem Radwegplaner erläutern würde.
+9-1	1121-1122	3	_	
+9-2	1122-1123	.	_	
+9-3	1124-1128	Über	_	
+9-4	1129-1133	eine	_	
+9-5	1134-1140	Lösung	_	
+9-6	1141-1144	für	_	
+9-7	1145-1155	bestehende	_	
+9-8	1156-1160	enge	_	
+9-9	1161-1169	Passagen	_	
+9-10	1170-1174	habe	_	
+9-11	1175-1178	ich	_	
+9-12	1179-1182	mir	_	
+9-13	1183-1191	Gedanken	_	
+9-14	1192-1199	gemacht	_	
+9-15	1199-1200	,	_	
+9-16	1201-1204	die	_	
+9-17	1205-1208	ich	_	
+9-18	1209-1213	gern	_	
+9-19	1214-1220	einmal	_	
+9-20	1221-1226	einem	_	
+9-21	1227-1239	Radwegplaner	_	
+9-22	1240-1249	erläutern	_	
+9-23	1250-1255	würde	_	
+9-24	1255-1256	.	_	

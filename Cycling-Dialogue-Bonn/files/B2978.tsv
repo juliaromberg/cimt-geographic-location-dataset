@@ -1,0 +1,105 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zugeparkte Kurve, Einbahnstraße für Radfahrer frei, unübersichtlich
+1-1	0-10	Zugeparkte	_	
+1-2	11-16	Kurve	_	
+1-3	16-17	,	_	
+1-4	18-31	Einbahnstraße	_	
+1-5	32-35	für	_	
+1-6	36-45	Radfahrer	_	
+1-7	46-50	frei	_	
+1-8	50-51	,	_	
+1-9	52-67	unübersichtlich	_	
+
+#Text=Die Einbahnstraße ist für Autos nur Richtung Süden freigegeben, für Radfahrer aber in beide Richtungen.
+2-1	70-73	Die	_	
+2-2	74-87	Einbahnstraße	_	
+2-3	88-91	ist	_	
+2-4	92-95	für	_	
+2-5	96-101	Autos	_	
+2-6	102-105	nur	_	
+2-7	106-114	Richtung	_	
+2-8	115-120	Süden	_	
+2-9	121-132	freigegeben	_	
+2-10	132-133	,	_	
+2-11	134-137	für	_	
+2-12	138-147	Radfahrer	_	
+2-13	148-152	aber	_	
+2-14	153-155	in	_	
+2-15	156-161	beide	_	
+2-16	162-172	Richtungen	_	
+2-17	172-173	.	_	
+
+#Text=In dieser Kurve, die Richtung Norden bergab verläuft, parken Autos auf der westlichen Seite, also auf der Seite der entgegenkommenden Autos.
+3-1	174-176	In	_	
+3-2	177-183	dieser	_	
+3-3	184-189	Kurve	_	
+3-4	189-190	,	_	
+3-5	191-194	die	_	
+3-6	195-203	Richtung	_	
+3-7	204-210	Norden	_	
+3-8	211-217	bergab	_	
+3-9	218-226	verläuft	_	
+3-10	226-227	,	_	
+3-11	228-234	parken	_	
+3-12	235-240	Autos	_	
+3-13	241-244	auf	_	
+3-14	245-248	der	_	
+3-15	249-259	westlichen	_	
+3-16	260-265	Seite	_	
+3-17	265-266	,	_	
+3-18	267-271	also	_	
+3-19	272-275	auf	_	
+3-20	276-279	der	_	
+3-21	280-285	Seite	_	
+3-22	286-289	der	_	
+3-23	290-307	entgegenkommenden	_	
+3-24	308-313	Autos	_	
+3-25	313-314	.	_	
+
+#Text=Als Radfahrer ist man hier versucht schnell zu fahren (bergab), jedoch ist die Kurve durch die Autos nicht einsehbar.
+4-1	315-318	Als	_	
+4-2	319-328	Radfahrer	_	
+4-3	329-332	ist	_	
+4-4	333-336	man	_	
+4-5	337-341	hier	_	
+4-6	342-350	versucht	_	
+4-7	351-358	schnell	_	
+4-8	359-361	zu	_	
+4-9	362-368	fahren	_	
+4-10	369-370	(	_	
+4-11	370-376	bergab	_	
+4-12	376-377	)	_	
+4-13	377-378	,	_	
+4-14	379-385	jedoch	_	
+4-15	386-389	ist	_	
+4-16	390-393	die	_	
+4-17	394-399	Kurve	_	
+4-18	400-405	durch	_	
+4-19	406-409	die	_	
+4-20	410-415	Autos	_	
+4-21	416-421	nicht	_	
+4-22	422-431	einsehbar	_	
+4-23	431-432	.	_	
+
+#Text=Hier würde ein Spiegel helfen oder die Autos auf der anderen Straßenseite parken zu lassen.
+5-1	433-437	Hier	_	
+5-2	438-443	würde	_	
+5-3	444-447	ein	_	
+5-4	448-455	Spiegel	_	
+5-5	456-462	helfen	_	
+5-6	463-467	oder	_	
+5-7	468-471	die	_	
+5-8	472-477	Autos	_	
+5-9	478-481	auf	_	
+5-10	482-485	der	_	
+5-11	486-493	anderen	_	
+5-12	494-506	Straßenseite	_	
+5-13	507-513	parken	_	
+5-14	514-516	zu	_	
+5-15	517-523	lassen	_	
+5-16	523-524	.	_	

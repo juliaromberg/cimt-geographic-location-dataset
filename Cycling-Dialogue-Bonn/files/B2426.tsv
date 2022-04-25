@@ -1,0 +1,56 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Dieses Gebäude steht im Weg
+1-1	0-6	Dieses	_	
+1-2	7-14	Gebäude	_	
+1-3	15-20	steht	_	
+1-4	21-23	im	_	
+1-5	24-27	Weg	_	
+
+#Text=Dieses Gebäude blockiert eine denkbare durchgehende Fahrradstraße vom Kreisverkehr Kessenich bis nach Godesberg Nord.
+2-1	30-36	Dieses	_	
+2-2	37-44	Gebäude	_	
+2-3	45-54	blockiert	_	
+2-4	55-59	eine	_	
+2-5	60-68	denkbare	_	
+2-6	69-81	durchgehende	_	
+2-7	82-95	Fahrradstraße	_	
+2-8	96-99	vom	*[5]	
+2-9	100-112	Kreisverkehr	*[5]	
+2-10	113-122	Kessenich	*[5]	
+2-11	123-126	bis	*[5]	
+2-12	127-131	nach	*[5]	
+2-13	132-141	Godesberg	*[5]	
+2-14	142-146	Nord	*[5]	
+2-15	146-147	.	_	
+
+#Text=Vielleicht kann man das langfristig berücksichtigen und irgendwann ergibt sich eine Gelegenheit.
+3-1	148-158	Vielleicht	_	
+3-2	159-163	kann	_	
+3-3	164-167	man	_	
+3-4	168-171	das	_	
+3-5	172-183	langfristig	_	
+3-6	184-199	berücksichtigen	_	
+3-7	200-203	und	_	
+3-8	204-214	irgendwann	_	
+3-9	215-221	ergibt	_	
+3-10	222-226	sich	_	
+3-11	227-231	eine	_	
+3-12	232-243	Gelegenheit	_	
+3-13	243-244	.	_	
+
+#Text=Auch eine nachträglich geschaffene Hausdurchfahrt könnte ich mir vorstellen.
+4-1	245-249	Auch	_	
+4-2	250-254	eine	_	
+4-3	255-267	nachträglich	_	
+4-4	268-279	geschaffene	_	
+4-5	280-294	Hausdurchfahrt	_	
+4-6	295-301	könnte	_	
+4-7	302-305	ich	_	
+4-8	306-309	mir	_	
+4-9	310-320	vorstellen	_	
+4-10	320-321	.	_	

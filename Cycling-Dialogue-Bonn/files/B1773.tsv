@@ -1,0 +1,43 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkende Autos und Taxen
+1-1	0-8	Parkende	_	
+1-2	9-14	Autos	_	
+1-3	15-18	und	_	
+1-4	19-24	Taxen	_	
+
+#Text=An Werktagen sind häufig die Schutzstreifen auf beiden Seiten der Straße von Autos halb zugeparkt.
+2-1	27-29	An	_	
+2-2	30-39	Werktagen	_	
+2-3	40-44	sind	_	
+2-4	45-51	häufig	_	
+2-5	52-55	die	_	
+2-6	56-70	Schutzstreifen	_	
+2-7	71-74	auf	_	
+2-8	75-81	beiden	_	
+2-9	82-88	Seiten	_	
+2-10	89-92	der	_	
+2-11	93-99	Straße	_	
+2-12	100-103	von	_	
+2-13	104-109	Autos	_	
+2-14	110-114	halb	_	
+2-15	115-124	zugeparkt	_	
+2-16	124-125	.	_	
+
+#Text=Dazu tragen besonders die Taxen am Taxistand vor dem Postbank-Gebäude bei.
+3-1	126-130	Dazu	_	
+3-2	131-137	tragen	_	
+3-3	138-147	besonders	_	
+3-4	148-151	die	_	
+3-5	152-157	Taxen	_	
+3-6	158-160	am	_	
+3-7	161-170	Taxistand	_	
+3-8	171-174	vor	_	
+3-9	175-178	dem	_	
+3-10	179-195	Postbank-Gebäude	_	
+3-11	196-199	bei	_	
+3-12	199-200	.	_	

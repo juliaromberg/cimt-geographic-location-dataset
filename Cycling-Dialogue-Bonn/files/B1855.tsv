@@ -1,0 +1,57 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rote Markierung auf der Weststraße auf die Fahrbahn bringen
+1-1	0-4	Rote	_	
+1-2	5-15	Markierung	_	
+1-3	16-19	auf	*[3]	
+1-4	20-23	der	*[3]	
+1-5	24-34	Weststraße	*[3]	
+1-6	35-38	auf	_	
+1-7	39-42	die	_	
+1-8	43-51	Fahrbahn	_	
+1-9	52-59	bringen	_	
+
+#Text=An der Kreuzung Godesberger Straße / Weststraße wäre eine rote Markierung auf der Straße hilfreich, um die Aufmerksamkeit der Autofahrer für die Radfahrer zu erhöhen, die hier von Süden kommend auf der falschen Seite fahren müssen.
+2-1	62-64	An	*[4]	
+2-2	65-68	der	*[4]	
+2-3	69-77	Kreuzung	*[4]	
+2-4	78-89	Godesberger	*[4]	
+2-5	90-96	Straße	*[4]	
+2-6	97-98	/	*[4]	
+2-7	99-109	Weststraße	*[4]	
+2-8	110-114	wäre	_	
+2-9	115-119	eine	_	
+2-10	120-124	rote	_	
+2-11	125-135	Markierung	_	
+2-12	136-139	auf	_	
+2-13	140-143	der	_	
+2-14	144-150	Straße	_	
+2-15	151-160	hilfreich	_	
+2-16	160-161	,	_	
+2-17	162-164	um	_	
+2-18	165-168	die	_	
+2-19	169-183	Aufmerksamkeit	_	
+2-20	184-187	der	_	
+2-21	188-198	Autofahrer	_	
+2-22	199-202	für	_	
+2-23	203-206	die	_	
+2-24	207-216	Radfahrer	_	
+2-25	217-219	zu	_	
+2-26	220-227	erhöhen	_	
+2-27	227-228	,	_	
+2-28	229-232	die	_	
+2-29	233-237	hier	_	
+2-30	238-241	von	_	
+2-31	242-247	Süden	_	
+2-32	248-255	kommend	_	
+2-33	256-259	auf	_	
+2-34	260-263	der	_	
+2-35	264-272	falschen	_	
+2-36	273-278	Seite	_	
+2-37	279-285	fahren	_	
+2-38	286-292	müssen	_	
+2-39	292-293	.	_	

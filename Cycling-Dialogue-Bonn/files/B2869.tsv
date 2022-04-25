@@ -1,0 +1,85 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg zu schmal
+1-1	0-6	Radweg	_	
+1-2	7-9	zu	_	
+1-3	10-16	schmal	_	
+
+#Text=Zwischen Drachensteinpark und Stadtgrenze ist der kombinierte Rad-/Fußweg viel zu schmal.
+2-1	19-27	Zwischen	*[6]	
+2-2	28-44	Drachensteinpark	*[6]	
+2-3	45-48	und	*[6]	
+2-4	49-60	Stadtgrenze	*[6]	
+2-5	61-64	ist	_	
+2-6	65-68	der	_	
+2-7	69-80	kombinierte	_	
+2-8	81-84	Rad	_	
+2-9	84-85	-	_	
+2-10	85-86	/	_	
+2-11	86-92	Fußweg	_	
+2-12	93-97	viel	_	
+2-13	98-100	zu	_	
+2-14	101-107	schmal	_	
+2-15	107-108	.	_	
+
+#Text=Konflikte sind an der Tagesordnung.
+3-1	109-118	Konflikte	_	
+3-2	119-123	sind	_	
+3-3	124-126	an	_	
+3-4	127-130	der	_	
+3-5	131-143	Tagesordnung	_	
+3-6	143-144	.	_	
+
+#Text=Ortskundige Radfahrer(innen) weichen westl. aus (Im Frankenkeller, Nibelungenstr. und Rüdigerstr.).
+4-1	145-156	Ortskundige	_	
+4-2	157-166	Radfahrer	_	
+4-3	166-167	(	_	
+4-4	167-172	innen	_	
+4-5	172-173	)	_	
+4-6	174-181	weichen	_	
+4-7	182-187	westl	_	
+4-8	187-188	.	_	
+4-9	189-192	aus	_	
+4-10	193-194	(	_	
+4-11	194-196	Im	*[7]	
+4-12	197-210	Frankenkeller	*[7]	
+4-13	210-211	,	*[7]	
+4-14	212-225	Nibelungenstr	*[7]	
+4-15	225-226	.	*[7]	
+4-16	227-230	und	*[7]	
+4-17	231-241	Rüdigerstr	*[7]	
+4-18	241-242	.	*[7]	
+4-19	242-243	)	_	
+4-20	243-244	.	_	
+
+#Text=Dort muss man sich aber die Straße mit den Autos teilen, die oft viel schneller als die erlaubten 30 km/h unterwegs sind.
+5-1	245-249	Dort	_	
+5-2	250-254	muss	_	
+5-3	255-258	man	_	
+5-4	259-263	sich	_	
+5-5	264-268	aber	_	
+5-6	269-272	die	_	
+5-7	273-279	Straße	_	
+5-8	280-283	mit	_	
+5-9	284-287	den	_	
+5-10	288-293	Autos	_	
+5-11	294-300	teilen	_	
+5-12	300-301	,	_	
+5-13	302-305	die	_	
+5-14	306-309	oft	_	
+5-15	310-314	viel	_	
+5-16	315-324	schneller	_	
+5-17	325-328	als	_	
+5-18	329-332	die	_	
+5-19	333-342	erlaubten	_	
+5-20	343-345	30	_	
+5-21	346-348	km	_	
+5-22	348-349	/	_	
+5-23	349-350	h	_	
+5-24	351-360	unterwegs	_	
+5-25	361-365	sind	_	
+5-26	365-366	.	_	

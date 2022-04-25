@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefahr durch Hindernisse für Kinder!
+1-1	0-6	Gefahr	_	
+1-2	7-12	durch	_	
+1-3	13-24	Hindernisse	_	
+1-4	25-28	für	_	
+1-5	29-35	Kinder	_	
+1-6	35-36	!	_	
+
+#Text=In Fahrtrichtung Reuterbrücke an der Einmündung Jgdweg/Reuterstrasse wird der Fahrradweg gemeinschaftlich mit den Fußgängern geführt.
+2-1	39-41	In	*[4]	
+2-2	42-55	Fahrtrichtung	*[4]	
+2-3	56-68	Reuterbrücke	*[4]	
+2-4	69-71	an	*[4]	
+2-5	72-75	der	*[4]	
+2-6	76-86	Einmündung	*[4]	
+2-7	87-93	Jgdweg	*[4]	
+2-8	93-94	/	*[4]	
+2-9	94-107	Reuterstrasse	*[4]	
+2-10	108-112	wird	_	
+2-11	113-116	der	_	
+2-12	117-127	Fahrradweg	_	
+2-13	128-144	gemeinschaftlich	_	
+2-14	145-148	mit	_	
+2-15	149-152	den	_	
+2-16	153-163	Fußgängern	_	
+2-17	164-171	geführt	_	
+2-18	171-172	.	_	
+
+#Text=Hier werden von den Anwohner jedoch zwangsweise Fahrräder, Sperrmüll und Mülltonnen regelmässig so abgestellt das es zu gefährlichen Situationen kommt für Radfahrende insbesondere Schulkinder!
+3-1	173-177	Hier	_	
+3-2	178-184	werden	_	
+3-3	185-188	von	_	
+3-4	189-192	den	_	
+3-5	193-201	Anwohner	_	
+3-6	202-208	jedoch	_	
+3-7	209-220	zwangsweise	_	
+3-8	221-230	Fahrräder	_	
+3-9	230-231	,	_	
+3-10	232-241	Sperrmüll	_	
+3-11	242-245	und	_	
+3-12	246-256	Mülltonnen	_	
+3-13	257-268	regelmässig	_	
+3-14	269-271	so	_	
+3-15	272-282	abgestellt	_	
+3-16	283-286	das	_	
+3-17	287-289	es	_	
+3-18	290-292	zu	_	
+3-19	293-305	gefährlichen	_	
+3-20	306-317	Situationen	_	
+3-21	318-323	kommt	_	
+3-22	324-327	für	_	
+3-23	328-339	Radfahrende	_	
+3-24	340-352	insbesondere	_	
+3-25	353-364	Schulkinder	_	
+3-26	364-365	!	_	

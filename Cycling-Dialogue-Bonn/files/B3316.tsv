@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Mehr und bessere Fahrradständer
+1-1	0-4	Mehr	_	
+1-2	5-8	und	_	
+1-3	9-16	bessere	_	
+1-4	17-31	Fahrradständer	_	
+
+#Text=Es könnten 2 Parkpläte gegen bessere Fahrradparkplätze getauscht werden, so dass Fahrradfahrer besser die Räder anschließen können.
+2-1	34-36	Es	_	
+2-2	37-44	könnten	_	
+2-3	45-46	2	_	
+2-4	47-56	Parkpläte	_	
+2-5	57-62	gegen	_	
+2-6	63-70	bessere	_	
+2-7	71-88	Fahrradparkplätze	_	
+2-8	89-98	getauscht	_	
+2-9	99-105	werden	_	
+2-10	105-106	,	_	
+2-11	107-109	so	_	
+2-12	110-114	dass	_	
+2-13	115-128	Fahrradfahrer	_	
+2-14	129-135	besser	_	
+2-15	136-139	die	_	
+2-16	140-145	Räder	_	
+2-17	146-157	anschließen	_	
+2-18	158-164	können	_	
+2-19	164-165	.	_	
+
+#Text=Derzeit ist es nicht ratsam mit hochwertigen Fahrrädern bei [Name entfernt] oder bei dem Bäcker einkaufen zu gehen.
+3-1	166-173	Derzeit	_	
+3-2	174-177	ist	_	
+3-3	178-180	es	_	
+3-4	181-186	nicht	_	
+3-5	187-193	ratsam	_	
+3-6	194-197	mit	_	
+3-7	198-210	hochwertigen	_	
+3-8	211-221	Fahrrädern	_	
+3-9	222-225	bei	_	
+3-10	226-227	[	_	
+3-11	227-231	Name	_	
+3-12	232-240	entfernt	_	
+3-13	240-241	]	_	
+3-14	242-246	oder	_	
+3-15	247-250	bei	_	
+3-16	251-254	dem	_	
+3-17	255-261	Bäcker	_	
+3-18	262-271	einkaufen	_	
+3-19	272-274	zu	_	
+3-20	275-280	gehen	_	
+3-21	280-281	.	_	

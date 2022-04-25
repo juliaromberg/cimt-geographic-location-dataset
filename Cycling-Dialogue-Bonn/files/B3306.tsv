@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Herderstraße/Arndtplatz/Körnerstraße
+1-1	0-12	Herderstraße	*[5]	
+1-2	12-13	/	*[5]	
+1-3	13-23	Arndtplatz	*[5]	
+1-4	23-24	/	*[5]	
+1-5	24-36	Körnerstraße	*[5]	
+
+#Text=Als schnelle und sichere Fahrradverbindung sollte auf der Strecke Herderstraße/Arndplatz/Körnerstraße der Fahrradverkehr besonders bevorzugt werden.
+2-1	39-42	Als	_	
+2-2	43-51	schnelle	_	
+2-3	52-55	und	_	
+2-4	56-63	sichere	_	
+2-5	64-81	Fahrradverbindung	_	
+2-6	82-88	sollte	_	
+2-7	89-92	auf	_	
+2-8	93-96	der	_	
+2-9	97-104	Strecke	_	
+2-10	105-117	Herderstraße	*[6]	
+2-11	117-118	/	*[6]	
+2-12	118-127	Arndplatz	*[6]	
+2-13	127-128	/	*[6]	
+2-14	128-140	Körnerstraße	*[6]	
+2-15	141-144	der	_	
+2-16	145-159	Fahrradverkehr	_	
+2-17	160-169	besonders	_	
+2-18	170-179	bevorzugt	_	
+2-19	180-186	werden	_	
+2-20	186-187	.	_	
+
+#Text=Entweder, indem man hieraus Einbahnstraßen macht und einen breiten gut ausgebauten Radweg auf einer Seite der Fahrbahn anlegt.
+3-1	188-196	Entweder	_	
+3-2	196-197	,	_	
+3-3	198-203	indem	_	
+3-4	204-207	man	_	
+3-5	208-215	hieraus	_	
+3-6	216-230	Einbahnstraßen	_	
+3-7	231-236	macht	_	
+3-8	237-240	und	_	
+3-9	241-246	einen	_	
+3-10	247-254	breiten	_	
+3-11	255-258	gut	_	
+3-12	259-270	ausgebauten	_	
+3-13	271-277	Radweg	_	
+3-14	278-281	auf	_	
+3-15	282-287	einer	_	
+3-16	288-293	Seite	_	
+3-17	294-297	der	_	
+3-18	298-306	Fahrbahn	_	
+3-19	307-313	anlegt	_	
+3-20	313-314	.	_	
+
+#Text=Oder indem hieraus Fahrradstraßen werden, auf denen in einer Richtung Autoverkehr für Anlieger zugelassen wird.
+4-1	315-319	Oder	_	
+4-2	320-325	indem	_	
+4-3	326-333	hieraus	_	
+4-4	334-348	Fahrradstraßen	_	
+4-5	349-355	werden	_	
+4-6	355-356	,	_	
+4-7	357-360	auf	_	
+4-8	361-366	denen	_	
+4-9	367-369	in	_	
+4-10	370-375	einer	_	
+4-11	376-384	Richtung	_	
+4-12	385-396	Autoverkehr	_	
+4-13	397-400	für	_	
+4-14	401-409	Anlieger	_	
+4-15	410-420	zugelassen	_	
+4-16	421-425	wird	_	
+4-17	425-426	.	_	

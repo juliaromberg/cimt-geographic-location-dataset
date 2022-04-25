@@ -1,0 +1,196 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einfahrt in die Kölnstraße freigaben
+1-1	0-8	Einfahrt	*[8]	
+1-2	9-11	in	*[8]	
+1-3	12-15	die	*[8]	
+1-4	16-26	Kölnstraße	*[8]	
+1-5	27-36	freigaben	_	
+
+#Text=Derzeit sind sowohl das Rechtsabbiegen für Radfahrer vom Rosental auf die Kölnstraße als auch das Geradeausfahren auf der Kölnstraße (über Heerstraße/Rosental hinweg) verboten.
+2-1	39-46	Derzeit	_	
+2-2	47-51	sind	_	
+2-3	52-58	sowohl	_	
+2-4	59-62	das	_	
+2-5	63-77	Rechtsabbiegen	_	
+2-6	78-81	für	_	
+2-7	82-91	Radfahrer	_	
+2-8	92-95	vom	*[9]	
+2-9	96-104	Rosental	*[9]	
+2-10	105-108	auf	*[9]	
+2-11	109-112	die	*[9]	
+2-12	113-123	Kölnstraße	*[9]	
+2-13	124-127	als	*[9]	
+2-14	128-132	auch	*[9]	
+2-15	133-136	das	*[9]	
+2-16	137-152	Geradeausfahren	*[9]	
+2-17	153-156	auf	*[9]	
+2-18	157-160	der	*[9]	
+2-19	161-171	Kölnstraße	*[9]	
+2-20	172-173	(	*[9]	
+2-21	173-177	über	*[9]	
+2-22	178-188	Heerstraße	*[9]	
+2-23	188-189	/	*[9]	
+2-24	189-197	Rosental	*[9]	
+2-25	198-204	hinweg	*[9]	
+2-26	204-205	)	*[9]	
+2-27	206-214	verboten	_	
+2-28	214-215	.	_	
+
+#Text=Das Linksabbiegen von der Heerstraße in die Kölnstraße ist dagegen erlaubt.
+3-1	216-219	Das	*[10]	
+3-2	220-233	Linksabbiegen	*[10]	
+3-3	234-237	von	*[10]	
+3-4	238-241	der	*[10]	
+3-5	242-252	Heerstraße	*[10]	
+3-6	253-255	in	*[10]	
+3-7	256-259	die	*[10]	
+3-8	260-270	Kölnstraße	*[10]	
+3-9	271-274	ist	_	
+3-10	275-282	dagegen	_	
+3-11	283-290	erlaubt	_	
+3-12	290-291	.	_	
+
+#Text=Dafür gibt es für mich keinen ersichtlichen Grund, da z.B. die Straßenbahn ja auch geradeaus fahren darf und abgesehen von den paar Metern an der genannten Kreuzung die gesamte Kölnstraße stadtauswärts für Radfahrer freigegeben ist.
+4-1	292-297	Dafür	_	
+4-2	298-302	gibt	_	
+4-3	303-305	es	_	
+4-4	306-309	für	_	
+4-5	310-314	mich	_	
+4-6	315-321	keinen	_	
+4-7	322-335	ersichtlichen	_	
+4-8	336-341	Grund	_	
+4-9	341-342	,	_	
+4-10	343-345	da	_	
+4-11	346-349	z.B	_	
+4-12	349-350	.	_	
+4-13	351-354	die	_	
+4-14	355-366	Straßenbahn	_	
+4-15	367-369	ja	_	
+4-16	370-374	auch	_	
+4-17	375-384	geradeaus	_	
+4-18	385-391	fahren	_	
+4-19	392-396	darf	_	
+4-20	397-400	und	_	
+4-21	401-410	abgesehen	_	
+4-22	411-414	von	_	
+4-23	415-418	den	_	
+4-24	419-423	paar	_	
+4-25	424-430	Metern	_	
+4-26	431-433	an	_	
+4-27	434-437	der	_	
+4-28	438-447	genannten	_	
+4-29	448-456	Kreuzung	_	
+4-30	457-460	die	*[11]	
+4-31	461-468	gesamte	*[11]	
+4-32	469-479	Kölnstraße	*[11]	
+4-33	480-493	stadtauswärts	*[11]	
+4-34	494-497	für	_	
+4-35	498-507	Radfahrer	_	
+4-36	508-519	freigegeben	_	
+4-37	520-523	ist	_	
+4-38	523-524	.	_	
+
+#Text=Eine Änderung der Situation (zusammen mit klarer Beschilderung) würde zum einen bewirken, dass man an dieser Stelle nicht mehr absteigen und für 10 bis 15 Meter schieben muss, wobei man ständig den Fußgängern auf dem schmalen, stark frequentierten Gehweg in die Quere kommt.
+5-1	525-529	Eine	_	
+5-2	530-538	Änderung	_	
+5-3	539-542	der	_	
+5-4	543-552	Situation	_	
+5-5	553-554	(	_	
+5-6	554-562	zusammen	_	
+5-7	563-566	mit	_	
+5-8	567-573	klarer	_	
+5-9	574-587	Beschilderung	_	
+5-10	587-588	)	_	
+5-11	589-594	würde	_	
+5-12	595-598	zum	_	
+5-13	599-604	einen	_	
+5-14	605-613	bewirken	_	
+5-15	613-614	,	_	
+5-16	615-619	dass	_	
+5-17	620-623	man	_	
+5-18	624-626	an	_	
+5-19	627-633	dieser	_	
+5-20	634-640	Stelle	_	
+5-21	641-646	nicht	_	
+5-22	647-651	mehr	_	
+5-23	652-661	absteigen	_	
+5-24	662-665	und	_	
+5-25	666-669	für	_	
+5-26	670-672	10	_	
+5-27	673-676	bis	_	
+5-28	677-679	15	_	
+5-29	680-685	Meter	_	
+5-30	686-694	schieben	_	
+5-31	695-699	muss	_	
+5-32	699-700	,	_	
+5-33	701-706	wobei	_	
+5-34	707-710	man	_	
+5-35	711-718	ständig	_	
+5-36	719-722	den	_	
+5-37	723-733	Fußgängern	_	
+5-38	734-737	auf	_	
+5-39	738-741	dem	_	
+5-40	742-750	schmalen	_	
+5-41	750-751	,	_	
+5-42	752-757	stark	_	
+5-43	758-772	frequentierten	_	
+5-44	773-779	Gehweg	_	
+5-45	780-782	in	_	
+5-46	783-786	die	_	
+5-47	787-792	Quere	_	
+5-48	793-798	kommt	_	
+5-49	798-799	.	_	
+
+#Text=Zum andern führt die derzeitige Situation dazu, dass permanent Radfahrer die Beschilderung ignorieren und wild über die Kreuzung fahren, was häufig zu Gefahrensituationen führt.
+6-1	800-803	Zum	_	
+6-2	804-810	andern	_	
+6-3	811-816	führt	_	
+6-4	817-820	die	_	
+6-5	821-831	derzeitige	_	
+6-6	832-841	Situation	_	
+6-7	842-846	dazu	_	
+6-8	846-847	,	_	
+6-9	848-852	dass	_	
+6-10	853-862	permanent	_	
+6-11	863-872	Radfahrer	_	
+6-12	873-876	die	_	
+6-13	877-890	Beschilderung	_	
+6-14	891-901	ignorieren	_	
+6-15	902-905	und	_	
+6-16	906-910	wild	_	
+6-17	911-915	über	_	
+6-18	916-919	die	_	
+6-19	920-928	Kreuzung	_	
+6-20	929-935	fahren	_	
+6-21	935-936	,	_	
+6-22	937-940	was	_	
+6-23	941-947	häufig	_	
+6-24	948-950	zu	_	
+6-25	951-970	Gefahrensituationen	_	
+6-26	971-976	führt	_	
+6-27	976-977	.	_	
+
+#Text=Also: Stadtauswärts fahren auf der Kölnstraße für Radfahrer bitte durchgängig freigeben und Rechtsabbiegen vom Rosental erlauben!
+7-1	978-982	Also	_	
+7-2	982-983	:	_	
+7-3	984-997	Stadtauswärts	*	
+7-4	998-1004	fahren	_	
+7-5	1005-1008	auf	*[12]	
+7-6	1009-1012	der	*[12]	
+7-7	1013-1023	Kölnstraße	*[12]	
+7-8	1024-1027	für	_	
+7-9	1028-1037	Radfahrer	_	
+7-10	1038-1043	bitte	_	
+7-11	1044-1055	durchgängig	_	
+7-12	1056-1065	freigeben	_	
+7-13	1066-1069	und	_	
+7-14	1070-1084	Rechtsabbiegen	*[13]	
+7-15	1085-1088	vom	*[13]	
+7-16	1089-1097	Rosental	*[13]	
+7-17	1098-1106	erlauben	_	
+7-18	1106-1107	!	_	

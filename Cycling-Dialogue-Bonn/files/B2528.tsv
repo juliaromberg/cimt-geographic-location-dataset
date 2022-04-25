@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Freigabe fehlt
+1-1	0-8	Freigabe	_	
+1-2	9-14	fehlt	_	
+
+#Text=In Streetview sieht man noch die widersprüchliche Beschilderung mit gemeinsamer Fuß- und Radweg und Einfahrt verboten: https://goo.gl/maps/sXcv6xnYKjz Das Blauschild ist inzwischen weg (vermutlich wegen 30er-Zone).
+2-1	17-19	In	_	
+2-2	20-30	Streetview	_	
+2-3	31-36	sieht	_	
+2-4	37-40	man	_	
+2-5	41-45	noch	_	
+2-6	46-49	die	_	
+2-7	50-66	widersprüchliche	_	
+2-8	67-80	Beschilderung	_	
+2-9	81-84	mit	_	
+2-10	85-96	gemeinsamer	_	
+2-11	97-100	Fuß	_	
+2-12	100-101	-	_	
+2-13	102-105	und	_	
+2-14	106-112	Radweg	_	
+2-15	113-116	und	_	
+2-16	117-125	Einfahrt	_	
+2-17	126-134	verboten	_	
+2-18	134-135	:	_	
+2-19	136-141	https	_	
+2-20	141-142	:	_	
+2-21	142-143	/	_	
+2-22	143-144	/	_	
+2-23	144-150	goo.gl	_	
+2-24	150-151	/	_	
+2-25	151-155	maps	_	
+2-26	155-156	/	_	
+2-27	156-167	sXcv6xnYKjz	_	
+2-28	168-171	Das	_	
+2-29	172-182	Blauschild	_	
+2-30	183-186	ist	_	
+2-31	187-197	inzwischen	_	
+2-32	198-201	weg	_	
+2-33	202-203	(	_	
+2-34	203-213	vermutlich	_	
+2-35	214-219	wegen	_	
+2-36	220-229	30er-Zone	_	
+2-37	229-230	)	_	
+2-38	230-231	.	_	
+
+#Text=Somit ist die Beschilderung jetzt eindeutig, aber wohl nicht so gemeint.
+3-1	232-237	Somit	_	
+3-2	238-241	ist	_	
+3-3	242-245	die	_	
+3-4	246-259	Beschilderung	_	
+3-5	260-265	jetzt	_	
+3-6	266-275	eindeutig	_	
+3-7	275-276	,	_	
+3-8	277-281	aber	_	
+3-9	282-286	wohl	_	
+3-10	287-292	nicht	_	
+3-11	293-295	so	_	
+3-12	296-303	gemeint	_	
+3-13	303-304	.	_	

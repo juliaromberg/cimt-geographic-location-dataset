@@ -1,0 +1,116 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unübersichtlicher Kreuzungsbereich
+1-1	0-17	Unübersichtlicher	_	
+1-2	18-34	Kreuzungsbereich	_	
+
+#Text=Fahre ich mit dem Fahrrad auf der Drachenburgstraße Richtung Mehlemer Bahnhof, werde ich oft von Fahrzeugen, die aus der Straße Im Wiesfeld in die Drachenburgstraße abbiegen, meistens derart behindert, dass es bereits häufig zu Beinaheunfällen gekommen wäre.
+2-1	37-42	Fahre	_	
+2-2	43-46	ich	_	
+2-3	47-50	mit	_	
+2-4	51-54	dem	_	
+2-5	55-62	Fahrrad	_	
+2-6	63-66	auf	*[9]	
+2-7	67-70	der	*[9]	
+2-8	71-88	Drachenburgstraße	*[9]	
+2-9	89-97	Richtung	*[9]	
+2-10	98-106	Mehlemer	*[9]	
+2-11	107-114	Bahnhof	*[9]	
+2-12	114-115	,	_	
+2-13	116-121	werde	_	
+2-14	122-125	ich	_	
+2-15	126-129	oft	_	
+2-16	130-133	von	_	
+2-17	134-144	Fahrzeugen	_	
+2-18	144-145	,	_	
+2-19	146-149	die	_	
+2-20	150-153	aus	*[10]	
+2-21	154-157	der	*[10]	
+2-22	158-164	Straße	*[10]	
+2-23	165-167	Im	*[10]	
+2-24	168-176	Wiesfeld	*[10]	
+2-25	177-179	in	*[10]	
+2-26	180-183	die	*[10]	
+2-27	184-201	Drachenburgstraße	*[10]	
+2-28	202-210	abbiegen	*[10]	
+2-29	210-211	,	_	
+2-30	212-220	meistens	_	
+2-31	221-227	derart	_	
+2-32	228-237	behindert	_	
+2-33	237-238	,	_	
+2-34	239-243	dass	_	
+2-35	244-246	es	_	
+2-36	247-254	bereits	_	
+2-37	255-261	häufig	_	
+2-38	262-264	zu	_	
+2-39	265-280	Beinaheunfällen	_	
+2-40	281-289	gekommen	_	
+2-41	290-294	wäre	_	
+2-42	294-295	.	_	
+
+#Text=Vielfach sehen mich die Autofahrer und fahren trotzdem.
+3-1	296-304	Vielfach	_	
+3-2	305-310	sehen	_	
+3-3	311-315	mich	_	
+3-4	316-319	die	_	
+3-5	320-330	Autofahrer	_	
+3-6	331-334	und	_	
+3-7	335-341	fahren	_	
+3-8	342-350	trotzdem	_	
+3-9	350-351	.	_	
+
+#Text=Auch werde oft zu spät gesehen, vor allem wenn ein Fahrzeug in der letzten Parkbucht steht.
+4-1	352-356	Auch	_	
+4-2	357-362	werde	_	
+4-3	363-366	oft	_	
+4-4	367-369	zu	_	
+4-5	370-374	spät	_	
+4-6	375-382	gesehen	_	
+4-7	382-383	,	_	
+4-8	384-387	vor	_	
+4-9	388-393	allem	_	
+4-10	394-398	wenn	_	
+4-11	399-402	ein	_	
+4-12	403-411	Fahrzeug	_	
+4-13	412-414	in	_	
+4-14	415-418	der	_	
+4-15	419-426	letzten	_	
+4-16	427-436	Parkbucht	_	
+4-17	437-442	steht	_	
+4-18	442-443	.	_	
+
+#Text=Lösungsvorschläge:
+5-1	444-461	Lösungsvorschläge	_	
+5-2	461-462	:	_	
+
+#Text=- die letzte Parkbucht entfernen und mit Findlingen oder ähnlichem blockieren
+6-1	463-464	-	_	
+6-2	465-468	die	_	
+6-3	469-475	letzte	_	
+6-4	476-485	Parkbucht	_	
+6-5	486-495	entfernen	_	
+6-6	496-499	und	_	
+6-7	500-503	mit	_	
+6-8	504-514	Findlingen	_	
+6-9	515-519	oder	_	
+6-10	520-529	ähnlichem	_	
+6-11	530-540	blockieren	_	
+
+#Text=- Stoppschild
+7-1	541-542	-	_	
+7-2	543-554	Stoppschild	_	
+
+#Text=- rote Markierung um auf Radfahrer aufmerksam zu machen
+8-1	555-556	-	_	
+8-2	557-561	rote	_	
+8-3	562-572	Markierung	_	
+8-4	573-575	um	_	
+8-5	576-579	auf	_	
+8-6	580-589	Radfahrer	_	
+8-7	590-600	aufmerksam	_	
+8-8	601-603	zu	_	
+8-9	604-610	machen	_	

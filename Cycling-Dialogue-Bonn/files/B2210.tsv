@@ -1,0 +1,129 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstrasse Plitterdorfer Strasse für Radfahrer in Gegenrichtung freigeben
+1-1	0-14	Einbahnstrasse	*[8]	
+1-2	15-28	Plitterdorfer	*[8]	
+1-3	29-36	Strasse	*[8]	
+1-4	37-40	für	_	
+1-5	41-50	Radfahrer	_	
+1-6	51-53	in	_	
+1-7	54-67	Gegenrichtung	_	
+1-8	68-77	freigeben	_	
+
+#Text=Wenn man vom Schaumburger Hof Richtung Bad Godesberg Innenstadt Radfahren will, ist die Plittersdorfer Strasse von der Turmstrasse aus für Radfahrer freigegeben.
+2-1	80-84	Wenn	_	
+2-2	85-88	man	_	
+2-3	89-92	vom	_	
+2-4	93-105	Schaumburger	*[9]	
+2-5	106-109	Hof	*[9]	
+2-6	110-118	Richtung	*[9]	
+2-7	119-122	Bad	*[9]	
+2-8	123-132	Godesberg	*[9]	
+2-9	133-143	Innenstadt	*[9]	
+2-10	144-153	Radfahren	_	
+2-11	154-158	will	_	
+2-12	158-159	,	_	
+2-13	160-163	ist	_	
+2-14	164-167	die	*[10]	
+2-15	168-182	Plittersdorfer	*[10]	
+2-16	183-190	Strasse	*[10]	
+2-17	191-194	von	*[10]	
+2-18	195-198	der	*[10]	
+2-19	199-210	Turmstrasse	*[10]	
+2-20	211-214	aus	_	
+2-21	215-218	für	_	
+2-22	219-228	Radfahrer	_	
+2-23	229-240	freigegeben	_	
+2-24	240-241	.	_	
+
+#Text=Solange es noch keine Baustelle gab, war dies nicht ungefährlich, da Autofahrer gerne zügig die Kurve geschnitten haben.
+3-1	242-249	Solange	_	
+3-2	250-252	es	_	
+3-3	253-257	noch	_	
+3-4	258-263	keine	_	
+3-5	264-273	Baustelle	_	
+3-6	274-277	gab	_	
+3-7	277-278	,	_	
+3-8	279-282	war	_	
+3-9	283-287	dies	_	
+3-10	288-293	nicht	_	
+3-11	294-306	ungefährlich	_	
+3-12	306-307	,	_	
+3-13	308-310	da	_	
+3-14	311-321	Autofahrer	_	
+3-15	322-327	gerne	_	
+3-16	328-333	zügig	_	
+3-17	334-337	die	_	
+3-18	338-343	Kurve	_	
+3-19	344-355	geschnitten	_	
+3-20	356-361	haben	_	
+3-21	361-362	.	_	
+
+#Text=Wird nach Beendigung der Bauarbeiten vermutlich wieder so sein.
+4-1	363-367	Wird	_	
+4-2	368-372	nach	_	
+4-3	373-383	Beendigung	_	
+4-4	384-387	der	_	
+4-5	388-399	Bauarbeiten	_	
+4-6	400-410	vermutlich	_	
+4-7	411-417	wieder	_	
+4-8	418-420	so	_	
+4-9	421-425	sein	_	
+4-10	425-426	.	_	
+
+#Text=Das Stück ab der Einmündung der Steinstrasse ist gut einsehbar, aber nicht für Radfahren gegen die Einbahnstrasse freigegeben.
+5-1	427-430	Das	_	
+5-2	431-436	Stück	_	
+5-3	437-439	ab	*[11]	
+5-4	440-443	der	*[11]	
+5-5	444-454	Einmündung	*[11]	
+5-6	455-458	der	*[11]	
+5-7	459-471	Steinstrasse	*[11]	
+5-8	472-475	ist	_	
+5-9	476-479	gut	_	
+5-10	480-489	einsehbar	_	
+5-11	489-490	,	_	
+5-12	491-495	aber	_	
+5-13	496-501	nicht	_	
+5-14	502-505	für	_	
+5-15	506-515	Radfahren	_	
+5-16	516-521	gegen	_	
+5-17	522-525	die	_	
+5-18	526-540	Einbahnstrasse	_	
+5-19	541-552	freigegeben	_	
+5-20	552-553	.	_	
+
+#Text=Damit kann man nicht auf direktem Weg über den Kreisel Richtung Innenstadt Bad Godesberg fahren.
+6-1	554-559	Damit	_	
+6-2	560-564	kann	_	
+6-3	565-568	man	_	
+6-4	569-574	nicht	_	
+6-5	575-578	auf	_	
+6-6	579-587	direktem	_	
+6-7	588-591	Weg	_	
+6-8	592-596	über	_	
+6-9	597-600	den	_	
+6-10	601-608	Kreisel	_	
+6-11	609-617	Richtung	*[12]	
+6-12	618-628	Innenstadt	*[12]	
+6-13	629-632	Bad	*[12]	
+6-14	633-642	Godesberg	*[12]	
+6-15	643-649	fahren	_	
+6-16	649-650	.	_	
+
+#Text=Auch dieses Teilstück der Einbahnstrasse sollte für Radfahrer freigegeben werden.
+7-1	651-655	Auch	_	
+7-2	656-662	dieses	_	
+7-3	663-672	Teilstück	_	
+7-4	673-676	der	_	
+7-5	677-691	Einbahnstrasse	_	
+7-6	692-698	sollte	_	
+7-7	699-702	für	_	
+7-8	703-712	Radfahrer	_	
+7-9	713-724	freigegeben	_	
+7-10	725-731	werden	_	
+7-11	731-732	.	_	

@@ -1,0 +1,94 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Geduldetes Parken auf Radweg
+1-1	0-10	Geduldetes	_	
+1-2	11-17	Parken	_	
+1-3	18-21	auf	_	
+1-4	22-28	Radweg	_	
+
+#Text=Trotz mehrfacher Hinweise an den Stadtordnungsdienst wird der Radweg von Anwohnern grundsätzlich und regelmäßig als Zusatzstellfläche für Autos missbraucht.
+2-1	31-36	Trotz	_	
+2-2	37-47	mehrfacher	_	
+2-3	48-56	Hinweise	_	
+2-4	57-59	an	_	
+2-5	60-63	den	_	
+2-6	64-83	Stadtordnungsdienst	_	
+2-7	84-88	wird	_	
+2-8	89-92	der	_	
+2-9	93-99	Radweg	_	
+2-10	100-103	von	_	
+2-11	104-113	Anwohnern	_	
+2-12	114-127	grundsätzlich	_	
+2-13	128-131	und	_	
+2-14	132-142	regelmäßig	_	
+2-15	143-146	als	_	
+2-16	147-164	Zusatzstellfläche	_	
+2-17	165-168	für	_	
+2-18	169-174	Autos	_	
+2-19	175-186	missbraucht	_	
+2-20	186-187	.	_	
+
+#Text=Der Stadtordnungsdienst kommt Aufforderungen zur Kontrolle nicht nach, weshalb anzunehmen ist, dass hier (wie an anderen Orten) über Ordnungswidrigkeiten bewusst hinweggesehen wird.
+3-1	188-191	Der	_	
+3-2	192-211	Stadtordnungsdienst	_	
+3-3	212-217	kommt	_	
+3-4	218-232	Aufforderungen	_	
+3-5	233-236	zur	_	
+3-6	237-246	Kontrolle	_	
+3-7	247-252	nicht	_	
+3-8	253-257	nach	_	
+3-9	257-258	,	_	
+3-10	259-266	weshalb	_	
+3-11	267-277	anzunehmen	_	
+3-12	278-281	ist	_	
+3-13	281-282	,	_	
+3-14	283-287	dass	_	
+3-15	288-292	hier	_	
+3-16	293-294	(	_	
+3-17	294-297	wie	_	
+3-18	298-300	an	_	
+3-19	301-308	anderen	_	
+3-20	309-314	Orten	_	
+3-21	314-315	)	_	
+3-22	316-320	über	_	
+3-23	321-341	Ordnungswidrigkeiten	_	
+3-24	342-349	bewusst	_	
+3-25	350-363	hinweggesehen	_	
+3-26	364-368	wird	_	
+3-27	368-369	.	_	
+
+#Text=Es wäre schön, wenn die Stadt Bonn ihre zuständigen Behörden in einer Weise führt, die dazu geeignet ist, Bewusstsein für die Rechte von Radfahrern zu kommunizieren.
+4-1	370-372	Es	_	
+4-2	373-377	wäre	_	
+4-3	378-383	schön	_	
+4-4	383-384	,	_	
+4-5	385-389	wenn	_	
+4-6	390-393	die	*[5]	
+4-7	394-399	Stadt	*[5]	
+4-8	400-404	Bonn	*[5]	
+4-9	405-409	ihre	_	
+4-10	410-421	zuständigen	_	
+4-11	422-430	Behörden	_	
+4-12	431-433	in	_	
+4-13	434-439	einer	_	
+4-14	440-445	Weise	_	
+4-15	446-451	führt	_	
+4-16	451-452	,	_	
+4-17	453-456	die	_	
+4-18	457-461	dazu	_	
+4-19	462-470	geeignet	_	
+4-20	471-474	ist	_	
+4-21	474-475	,	_	
+4-22	476-487	Bewusstsein	_	
+4-23	488-491	für	_	
+4-24	492-495	die	_	
+4-25	496-502	Rechte	_	
+4-26	503-506	von	_	
+4-27	507-517	Radfahrern	_	
+4-28	518-520	zu	_	
+4-29	521-534	kommunizieren	_	
+4-30	534-535	.	_	

@@ -1,0 +1,187 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fußgänger und Radfahrer
+1-1	0-9	Fußgänger	_	
+1-2	10-13	und	_	
+1-3	14-23	Radfahrer	_	
+
+#Text=Fußgänger und Radfahrer treffen an dieser Stelle immer wieder aufeinander.
+2-1	26-35	Fußgänger	_	
+2-2	36-39	und	_	
+2-3	40-49	Radfahrer	_	
+2-4	50-57	treffen	_	
+2-5	58-60	an	_	
+2-6	61-67	dieser	_	
+2-7	68-74	Stelle	_	
+2-8	75-80	immer	_	
+2-9	81-87	wieder	_	
+2-10	88-99	aufeinander	_	
+2-11	99-100	.	_	
+
+#Text=Der Zebrastreifen der zum Alten Zoll führt, erfordert besondere Vorsicht von Radfahrern, was in Ordnung ist.
+3-1	101-104	Der	*[11]	
+3-2	105-118	Zebrastreifen	*[11]	
+3-3	119-122	der	*[11]	
+3-4	123-126	zum	*[11]	
+3-5	127-132	Alten	*[11]	
+3-6	133-137	Zoll	*[11]	
+3-7	138-143	führt	*[11]	
+3-8	143-144	,	_	
+3-9	145-154	erfordert	_	
+3-10	155-164	besondere	_	
+3-11	165-173	Vorsicht	_	
+3-12	174-177	von	_	
+3-13	178-188	Radfahrern	_	
+3-14	188-189	,	_	
+3-15	190-193	was	_	
+3-16	194-196	in	_	
+3-17	197-204	Ordnung	_	
+3-18	205-208	ist	_	
+3-19	208-209	.	_	
+
+#Text=1) Der Bewuchs beim Fußgängerübergang zur Promenade nimmt viel Sicht, insb. kleine Kinder (Größe < Buschhöhe), können nur extrem spät gesehen werden.
+4-1	210-211	1	_	
+4-2	211-212	)	_	
+4-3	213-216	Der	_	
+4-4	217-224	Bewuchs	_	
+4-5	225-229	beim	_	
+4-6	230-247	Fußgängerübergang	_	
+4-7	248-251	zur	*[12]	
+4-8	252-261	Promenade	*[12]	
+4-9	262-267	nimmt	_	
+4-10	268-272	viel	_	
+4-11	273-278	Sicht	_	
+4-12	278-279	,	_	
+4-13	280-284	insb	_	
+4-14	284-285	.	_	
+4-15	286-292	kleine	_	
+4-16	293-299	Kinder	_	
+4-17	300-301	(	_	
+4-18	301-306	Größe	_	
+4-19	307-308	<	_	
+4-20	309-318	Buschhöhe	_	
+4-21	318-319	)	_	
+4-22	319-320	,	_	
+4-23	321-327	können	_	
+4-24	328-331	nur	_	
+4-25	332-338	extrem	_	
+4-26	339-343	spät	_	
+4-27	344-351	gesehen	_	
+4-28	352-358	werden	_	
+4-29	358-359	.	_	
+
+#Text=2) Das Kopfsteinpflaster hat wahr. die Absicht den Radfahrer zur mehr Aufmerksamkeit zu erziehen.
+5-1	360-361	2	_	
+5-2	361-362	)	_	
+5-3	363-366	Das	_	
+5-4	367-384	Kopfsteinpflaster	_	
+5-5	385-388	hat	_	
+5-6	389-393	wahr	_	
+5-7	393-394	.	_	
+5-8	395-398	die	_	
+5-9	399-406	Absicht	_	
+5-10	407-410	den	_	
+5-11	411-420	Radfahrer	_	
+5-12	421-424	zur	_	
+5-13	425-429	mehr	_	
+5-14	430-444	Aufmerksamkeit	_	
+5-15	445-447	zu	_	
+5-16	448-456	erziehen	_	
+5-17	456-457	.	_	
+
+#Text=Allerdings ist es ziemlich uneben und bei Nässe (kommt schon mal vor in BN ;) ) rutschig.
+6-1	458-468	Allerdings	_	
+6-2	469-472	ist	_	
+6-3	473-475	es	_	
+6-4	476-484	ziemlich	_	
+6-5	485-491	uneben	_	
+6-6	492-495	und	_	
+6-7	496-499	bei	_	
+6-8	500-505	Nässe	_	
+6-9	506-507	(	_	
+6-10	507-512	kommt	_	
+6-11	513-518	schon	_	
+6-12	519-522	mal	_	
+6-13	523-526	vor	_	
+6-14	527-529	in	_	
+6-15	530-532	BN	_	
+6-16	533-534	;	_	
+6-17	534-535	)	_	
+6-18	536-537	)	_	
+6-19	538-546	rutschig	_	
+6-20	546-547	.	_	
+
+#Text=Dadurch werden Gefahrensituationen noch verschärft.
+7-1	548-555	Dadurch	_	
+7-2	556-562	werden	_	
+7-3	563-582	Gefahrensituationen	_	
+7-4	583-587	noch	_	
+7-5	588-598	verschärft	_	
+7-6	598-599	.	_	
+
+#Text=3) Die Fahrgäste von Reisebussen und Jogger nutzen sehr gern den Fahrradweg, was zu Verkehrsbehinderung führt.
+8-1	600-601	3	_	
+8-2	601-602	)	_	
+8-3	603-606	Die	_	
+8-4	607-616	Fahrgäste	_	
+8-5	617-620	von	_	
+8-6	621-632	Reisebussen	_	
+8-7	633-636	und	_	
+8-8	637-643	Jogger	_	
+8-9	644-650	nutzen	_	
+8-10	651-655	sehr	_	
+8-11	656-660	gern	_	
+8-12	661-664	den	_	
+8-13	665-675	Fahrradweg	_	
+8-14	675-676	,	_	
+8-15	677-680	was	_	
+8-16	681-683	zu	_	
+8-17	684-703	Verkehrsbehinderung	_	
+8-18	704-709	führt	_	
+8-19	709-710	.	_	
+
+#Text=Wie wäre es, wenn die Busse auf dem Schotterstreifen zw. Fuß- und Radweg parken dürften?
+9-1	711-714	Wie	_	
+9-2	715-719	wäre	_	
+9-3	720-722	es	_	
+9-4	722-723	,	_	
+9-5	724-728	wenn	_	
+9-6	729-732	die	_	
+9-7	733-738	Busse	_	
+9-8	739-742	auf	_	
+9-9	743-746	dem	_	
+9-10	747-763	Schotterstreifen	_	
+9-11	764-766	zw	_	
+9-12	766-767	.	_	
+9-13	768-771	Fuß	_	
+9-14	771-772	-	_	
+9-15	773-776	und	_	
+9-16	777-783	Radweg	_	
+9-17	784-790	parken	_	
+9-18	791-798	dürften	_	
+9-19	798-799	?	_	
+
+#Text=4) Insgesamt sind zw. Schänzchen und Bundesrechnugshof sehr viele Nicht-Fahrradfahrer auf den ohnehin schmalen Radweg unterwegs.
+10-1	800-801	4	_	
+10-2	801-802	)	_	
+10-3	803-812	Insgesamt	_	
+10-4	813-817	sind	_	
+10-5	818-820	zw	*[13]	
+10-6	820-821	.	*[13]	
+10-7	822-832	Schänzchen	*[13]	
+10-8	833-836	und	*[13]	
+10-9	837-854	Bundesrechnugshof	*[13]	
+10-10	855-859	sehr	_	
+10-11	860-865	viele	_	
+10-12	866-885	Nicht-Fahrradfahrer	_	
+10-13	886-889	auf	_	
+10-14	890-893	den	_	
+10-15	894-901	ohnehin	_	
+10-16	902-910	schmalen	_	
+10-17	911-917	Radweg	_	
+10-18	918-927	unterwegs	_	
+10-19	927-928	.	_	

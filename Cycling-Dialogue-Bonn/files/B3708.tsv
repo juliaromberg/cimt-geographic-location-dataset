@@ -1,0 +1,23 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=separaten Rad-Tunnel
+1-1	0-9	separaten	_	
+1-2	10-20	Rad-Tunnel	_	
+
+#Text=neben der Fußgängerunterführung sollte es einen separaten Tunnel für Radler geben.
+2-1	23-28	neben	_	
+2-2	29-32	der	_	
+2-3	33-54	Fußgängerunterführung	_	
+2-4	55-61	sollte	_	
+2-5	62-64	es	_	
+2-6	65-70	einen	_	
+2-7	71-80	separaten	_	
+2-8	81-87	Tunnel	_	
+2-9	88-91	für	_	
+2-10	92-98	Radler	_	
+2-11	99-104	geben	_	
+2-12	104-105	.	_	

@@ -1,0 +1,53 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg Asphalt Erneuerung nötig!
+1-1	0-6	Radweg	_	
+1-2	7-14	Asphalt	_	
+1-3	15-25	Erneuerung	_	
+1-4	26-31	nötig	_	
+1-5	31-32	!	_	
+
+#Text=Von der Zweiten Fährgasse kommend bergabwärts Richtung Rheinufer müsste die Fahrbahn (mit Radweg) dringend erneuert werden.
+2-1	35-38	Von	*[4]	
+2-2	39-42	der	*[4]	
+2-3	43-50	Zweiten	*[4]	
+2-4	51-60	Fährgasse	*[4]	
+2-5	61-68	kommend	*[4]	
+2-6	69-80	bergabwärts	*[4]	
+2-7	81-89	Richtung	*[4]	
+2-8	90-99	Rheinufer	*[4]	
+2-9	100-106	müsste	_	
+2-10	107-110	die	_	
+2-11	111-119	Fahrbahn	_	
+2-12	120-121	(	_	
+2-13	121-124	mit	_	
+2-14	125-131	Radweg	_	
+2-15	131-132	)	_	
+2-16	133-141	dringend	_	
+2-17	142-150	erneuert	_	
+2-18	151-157	werden	_	
+2-19	157-158	.	_	
+
+#Text=Der Asphalt ist bereits aufgebrochen und um den Bodenlöchern auszuweichen, muss man auf die Autofahrbahn ausscheren!
+3-1	159-162	Der	_	
+3-2	163-170	Asphalt	_	
+3-3	171-174	ist	_	
+3-4	175-182	bereits	_	
+3-5	183-195	aufgebrochen	_	
+3-6	196-199	und	_	
+3-7	200-202	um	_	
+3-8	203-206	den	_	
+3-9	207-219	Bodenlöchern	_	
+3-10	220-232	auszuweichen	_	
+3-11	232-233	,	_	
+3-12	234-238	muss	_	
+3-13	239-242	man	_	
+3-14	243-246	auf	_	
+3-15	247-250	die	_	
+3-16	251-263	Autofahrbahn	_	
+3-17	264-274	ausscheren	_	
+3-18	274-275	!	_	

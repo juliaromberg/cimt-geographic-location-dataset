@@ -1,0 +1,113 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radfahrer, bitte ganz dünn machen
+1-1	0-9	Radfahrer	_	
+1-2	9-10	,	_	
+1-3	11-16	bitte	_	
+1-4	17-21	ganz	_	
+1-5	22-26	dünn	_	
+1-6	27-33	machen	_	
+
+#Text=Die Radspur in Richtung Rhein wird an dieser Stelle ganz schmal.
+2-1	36-39	Die	_	
+2-2	40-47	Radspur	_	
+2-3	48-50	in	*[6]	
+2-4	51-59	Richtung	*[6]	
+2-5	60-65	Rhein	*[6]	
+2-6	66-70	wird	_	
+2-7	71-73	an	_	
+2-8	74-80	dieser	_	
+2-9	81-87	Stelle	_	
+2-10	88-92	ganz	_	
+2-11	93-99	schmal	_	
+2-12	99-100	.	_	
+
+#Text=Indem die Radspur verengt wird und nicht die Autospur, wird dem Autoverkehr suggeriert, dass Autos im Gegensatz zu Fahrrädern freie Bahn haben.
+3-1	101-106	Indem	_	
+3-2	107-110	die	_	
+3-3	111-118	Radspur	_	
+3-4	119-126	verengt	_	
+3-5	127-131	wird	_	
+3-6	132-135	und	_	
+3-7	136-141	nicht	_	
+3-8	142-145	die	_	
+3-9	146-154	Autospur	_	
+3-10	154-155	,	_	
+3-11	156-160	wird	_	
+3-12	161-164	dem	_	
+3-13	165-176	Autoverkehr	_	
+3-14	177-187	suggeriert	_	
+3-15	187-188	,	_	
+3-16	189-193	dass	_	
+3-17	194-199	Autos	_	
+3-18	200-202	im	_	
+3-19	203-212	Gegensatz	_	
+3-20	213-215	zu	_	
+3-21	216-226	Fahrrädern	_	
+3-22	227-232	freie	_	
+3-23	233-237	Bahn	_	
+3-24	238-243	haben	_	
+3-25	243-244	.	_	
+
+#Text=Dazu kommt, dass der Radweg an dieser Stelle häufig unter Wasser steht, so dass Radfahrer entweder auf die Autospur ausweichen, oder die rote Ampel über den Bürgersteig umfahren.
+4-1	245-249	Dazu	_	
+4-2	250-255	kommt	_	
+4-3	255-256	,	_	
+4-4	257-261	dass	_	
+4-5	262-265	der	_	
+4-6	266-272	Radweg	_	
+4-7	273-275	an	_	
+4-8	276-282	dieser	_	
+4-9	283-289	Stelle	_	
+4-10	290-296	häufig	_	
+4-11	297-302	unter	_	
+4-12	303-309	Wasser	_	
+4-13	310-315	steht	_	
+4-14	315-316	,	_	
+4-15	317-319	so	_	
+4-16	320-324	dass	_	
+4-17	325-334	Radfahrer	_	
+4-18	335-343	entweder	_	
+4-19	344-347	auf	_	
+4-20	348-351	die	_	
+4-21	352-360	Autospur	_	
+4-22	361-371	ausweichen	_	
+4-23	371-372	,	_	
+4-24	373-377	oder	_	
+4-25	378-381	die	_	
+4-26	382-386	rote	_	
+4-27	387-392	Ampel	_	
+4-28	393-397	über	_	
+4-29	398-401	den	_	
+4-30	402-413	Bürgersteig	_	
+4-31	414-422	umfahren	_	
+4-32	422-423	.	_	
+
+#Text=Sehr schön wäre es an dieser Stelle, wenn es einen durchgehenden Radweg gäbe, für den die Ampel nicht gelten würde.
+5-1	424-428	Sehr	_	
+5-2	429-434	schön	_	
+5-3	435-439	wäre	_	
+5-4	440-442	es	_	
+5-5	443-445	an	_	
+5-6	446-452	dieser	_	
+5-7	453-459	Stelle	_	
+5-8	459-460	,	_	
+5-9	461-465	wenn	_	
+5-10	466-468	es	_	
+5-11	469-474	einen	_	
+5-12	475-488	durchgehenden	_	
+5-13	489-495	Radweg	_	
+5-14	496-500	gäbe	_	
+5-15	500-501	,	_	
+5-16	502-505	für	_	
+5-17	506-509	den	_	
+5-18	510-513	die	_	
+5-19	514-519	Ampel	_	
+5-20	520-525	nicht	_	
+5-21	526-532	gelten	_	
+5-22	533-538	würde	_	
+5-23	538-539	.	_	

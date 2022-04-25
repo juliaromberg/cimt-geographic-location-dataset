@@ -1,0 +1,79 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Die Stadt macht es sich einfach...
+1-1	0-3	Die	_	
+1-2	4-9	Stadt	_	
+1-3	10-15	macht	_	
+1-4	16-18	es	_	
+1-5	19-23	sich	_	
+1-6	24-31	einfach	_	
+1-7	31-32	.	_	
+1-8	32-33	.	_	
+1-9	33-34	.	_	
+
+#Text=... der Radweg ist holprig, aber statt ihn zu reparieren, stellen sie ein Schild hin, Radfahrer absteigen.
+2-1	37-38	.	_	
+2-2	38-39	.	_	
+2-3	39-40	.	_	
+2-4	41-44	der	_	
+2-5	45-51	Radweg	_	
+2-6	52-55	ist	_	
+2-7	56-63	holprig	_	
+2-8	63-64	,	_	
+2-9	65-69	aber	_	
+2-10	70-75	statt	_	
+2-11	76-79	ihn	_	
+2-12	80-82	zu	_	
+2-13	83-93	reparieren	_	
+2-14	93-94	,	_	
+2-15	95-102	stellen	_	
+2-16	103-106	sie	_	
+2-17	107-110	ein	_	
+2-18	111-117	Schild	_	
+2-19	118-121	hin	_	
+2-20	121-122	,	_	
+2-21	123-132	Radfahrer	_	
+2-22	133-142	absteigen	_	
+2-23	142-143	.	_	
+
+#Text=Vielleicht sollte man so ein Schild rund um Bonn an allen Zufahrtswegen zur Stadt aufstellen.
+3-1	144-154	Vielleicht	_	
+3-2	155-161	sollte	_	
+3-3	162-165	man	_	
+3-4	166-168	so	_	
+3-5	169-172	ein	_	
+3-6	173-179	Schild	_	
+3-7	180-184	rund	_	
+3-8	185-187	um	_	
+3-9	188-192	Bonn	_	
+3-10	193-195	an	_	
+3-11	196-201	allen	_	
+3-12	202-215	Zufahrtswegen	_	
+3-13	216-219	zur	_	
+3-14	220-225	Stadt	_	
+3-15	226-236	aufstellen	_	
+3-16	236-237	.	_	
+
+#Text=Immer direkt nach dem Ortsschild.
+4-1	238-243	Immer	_	
+4-2	244-250	direkt	_	
+4-3	251-255	nach	_	
+4-4	256-259	dem	_	
+4-5	260-270	Ortsschild	_	
+4-6	270-271	.	_	
+
+#Text=Dann ist man versicherungstechnisch immer auf der sicheren Seite.
+5-1	272-276	Dann	_	
+5-2	277-280	ist	_	
+5-3	281-284	man	_	
+5-4	285-307	versicherungstechnisch	_	
+5-5	308-313	immer	_	
+5-6	314-317	auf	_	
+5-7	318-321	der	_	
+5-8	322-330	sicheren	_	
+5-9	331-336	Seite	_	
+5-10	336-337	.	_	

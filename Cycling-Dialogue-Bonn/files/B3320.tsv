@@ -1,0 +1,194 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Erreichbarkeit des Radweges entlang der August-Bebel-Allee
+1-1	0-14	Erreichbarkeit	_	
+1-2	15-18	des	_	
+1-3	19-27	Radweges	*[12]	
+1-4	28-35	entlang	*[12]	
+1-5	36-39	der	*[12]	
+1-6	40-58	August-Bebel-Allee	*[12]	
+
+#Text=Zahlreiche Rad-Pendler nutzen die Marie-Schlei-Allee täglich, um aus Richtung B9 kommend den (gut ausgebauten) Radweg entlang der August-Bebel-Allee zu erreichen.
+2-1	61-71	Zahlreiche	_	
+2-2	72-83	Rad-Pendler	_	
+2-3	84-90	nutzen	_	
+2-4	91-94	die	*[13]	
+2-5	95-113	Marie-Schlei-Allee	*[13]	
+2-6	114-121	täglich	_	
+2-7	121-122	,	_	
+2-8	123-125	um	_	
+2-9	126-129	aus	*[14]	
+2-10	130-138	Richtung	*[14]	
+2-11	139-141	B9	*[14]	
+2-12	142-149	kommend	*[14]	
+2-13	150-153	den	*[14]	
+2-14	154-155	(	*[14]	
+2-15	155-158	gut	*[14]	
+2-16	159-170	ausgebauten	*[14]	
+2-17	170-171	)	*[14]	
+2-18	172-178	Radweg	*[14]	
+2-19	179-186	entlang	*[14]	
+2-20	187-190	der	*[14]	
+2-21	191-209	August-Bebel-Allee	*[14]	
+2-22	210-212	zu	_	
+2-23	213-222	erreichen	_	
+2-24	222-223	.	_	
+
+#Text=Aus der Marie-Schlei-Allee kommend ist aber nahezu unmöglich, sicher und verkehrsregelkonform den Radweg zu erreichen.
+3-1	224-227	Aus	*[15]	
+3-2	228-231	der	*[15]	
+3-3	232-250	Marie-Schlei-Allee	*[15]	
+3-4	251-258	kommend	*[15]	
+3-5	259-262	ist	_	
+3-6	263-267	aber	_	
+3-7	268-274	nahezu	_	
+3-8	275-284	unmöglich	_	
+3-9	284-285	,	_	
+3-10	286-292	sicher	_	
+3-11	293-296	und	_	
+3-12	297-317	verkehrsregelkonform	_	
+3-13	318-321	den	_	
+3-14	322-328	Radweg	_	
+3-15	329-331	zu	_	
+3-16	332-341	erreichen	_	
+3-17	341-342	.	_	
+
+#Text=Die Problematik des Zebrastreifens wurde bereits in einem anderen Beitrag verdeutlicht.
+4-1	343-346	Die	_	
+4-2	347-358	Problematik	_	
+4-3	359-362	des	_	
+4-4	363-377	Zebrastreifens	_	
+4-5	378-383	wurde	_	
+4-6	384-391	bereits	_	
+4-7	392-394	in	_	
+4-8	395-400	einem	_	
+4-9	401-408	anderen	_	
+4-10	409-416	Beitrag	_	
+4-11	417-429	verdeutlicht	_	
+4-12	429-430	.	_	
+
+#Text=Die Straße abseits des Zebrastreifens zu queren ist aufgrund des Verkehrsaufkommens nahezu unmöglich.
+5-1	431-434	Die	_	
+5-2	435-441	Straße	_	
+5-3	442-449	abseits	_	
+5-4	450-453	des	_	
+5-5	454-468	Zebrastreifens	_	
+5-6	469-471	zu	_	
+5-7	472-478	queren	_	
+5-8	479-482	ist	_	
+5-9	483-491	aufgrund	_	
+5-10	492-495	des	_	
+5-11	496-514	Verkehrsaufkommens	_	
+5-12	515-521	nahezu	_	
+5-13	522-531	unmöglich	_	
+5-14	531-532	.	_	
+
+#Text=Fließt der (Auto)-Verkehr einmal flüssig, so sind die Autos häufig mit sehr hoher Geschwindigkeit unterwegs.
+6-1	533-539	Fließt	_	
+6-2	540-543	der	_	
+6-3	544-545	(	_	
+6-4	545-549	Auto	_	
+6-5	549-550	)	_	
+6-6	550-551	-	_	
+6-7	551-558	Verkehr	_	
+6-8	559-565	einmal	_	
+6-9	566-573	flüssig	_	
+6-10	573-574	,	_	
+6-11	575-577	so	_	
+6-12	578-582	sind	_	
+6-13	583-586	die	_	
+6-14	587-592	Autos	_	
+6-15	593-599	häufig	_	
+6-16	600-603	mit	_	
+6-17	604-608	sehr	_	
+6-18	609-614	hoher	_	
+6-19	615-630	Geschwindigkeit	_	
+6-20	631-640	unterwegs	_	
+6-21	640-641	.	_	
+
+#Text=Kritische Bremsmanöver von Autofahrern können hier täglich beobachtet werden.
+7-1	642-651	Kritische	_	
+7-2	652-664	Bremsmanöver	_	
+7-3	665-668	von	_	
+7-4	669-680	Autofahrern	_	
+7-5	681-687	können	_	
+7-6	688-692	hier	_	
+7-7	693-700	täglich	_	
+7-8	701-711	beobachtet	_	
+7-9	712-718	werden	_	
+7-10	718-719	.	_	
+
+#Text=Ebenso ist festzuhalten, das Radfahrer häufig vor dem Zebrastreifen nicht absteigen.
+8-1	720-726	Ebenso	_	
+8-2	727-730	ist	_	
+8-3	731-743	festzuhalten	_	
+8-4	743-744	,	_	
+8-5	745-748	das	_	
+8-6	749-758	Radfahrer	_	
+8-7	759-765	häufig	_	
+8-8	766-769	vor	_	
+8-9	770-773	dem	_	
+8-10	774-787	Zebrastreifen	_	
+8-11	788-793	nicht	_	
+8-12	794-803	absteigen	_	
+8-13	803-804	.	_	
+
+#Text=Dies provoziert nach meiner Beobachtung aber gelegentlich die Autofahrer zusätzlich.
+9-1	805-809	Dies	_	
+9-2	810-820	provoziert	_	
+9-3	821-825	nach	_	
+9-4	826-832	meiner	_	
+9-5	833-844	Beobachtung	_	
+9-6	845-849	aber	_	
+9-7	850-862	gelegentlich	_	
+9-8	863-866	die	_	
+9-9	867-877	Autofahrer	_	
+9-10	878-888	zusätzlich	_	
+9-11	888-889	.	_	
+
+#Text=Es sollte dringend eine Lösung gefunden werden, die allen Verkehrsteilnehmer ein sicheres Passieren dieser kritischen Stelle ermöglicht.
+10-1	890-892	Es	_	
+10-2	893-899	sollte	_	
+10-3	900-908	dringend	_	
+10-4	909-913	eine	_	
+10-5	914-920	Lösung	_	
+10-6	921-929	gefunden	_	
+10-7	930-936	werden	_	
+10-8	936-937	,	_	
+10-9	938-941	die	_	
+10-10	942-947	allen	_	
+10-11	948-966	Verkehrsteilnehmer	_	
+10-12	967-970	ein	_	
+10-13	971-979	sicheres	_	
+10-14	980-989	Passieren	_	
+10-15	990-996	dieser	_	
+10-16	997-1007	kritischen	_	
+10-17	1008-1014	Stelle	_	
+10-18	1015-1025	ermöglicht	_	
+10-19	1025-1026	.	_	
+
+#Text=Insbesondere sollte den Rad-Pendlern aus Richtung Kreuzbauten / Dreizehnmorgenweg / etc. ein sicheres Erreichen des Radweges ermöglicht werden.
+11-1	1027-1039	Insbesondere	_	
+11-2	1040-1046	sollte	_	
+11-3	1047-1050	den	_	
+11-4	1051-1063	Rad-Pendlern	_	
+11-5	1064-1067	aus	*[16]	
+11-6	1068-1076	Richtung	*[16]	
+11-7	1077-1088	Kreuzbauten	*[16]	
+11-8	1089-1090	/	*[16]	
+11-9	1091-1108	Dreizehnmorgenweg	*[16]	
+11-10	1109-1110	/	*[16]	
+11-11	1111-1114	etc	*[16]	
+11-12	1114-1115	.	_	
+11-13	1116-1119	ein	_	
+11-14	1120-1128	sicheres	_	
+11-15	1129-1138	Erreichen	_	
+11-16	1139-1142	des	_	
+11-17	1143-1151	Radweges	_	
+11-18	1152-1162	ermöglicht	_	
+11-19	1163-1169	werden	_	
+11-20	1169-1170	.	_	

@@ -1,0 +1,63 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Poller
+1-1	0-6	Poller	_	
+
+#Text=Auf der Höhe der Bahnhaltestelle wird man von der Straße auf den Bürgersteig umgeleitet.
+2-1	9-12	Auf	_	
+2-2	13-16	der	_	
+2-3	17-21	Höhe	_	
+2-4	22-25	der	_	
+2-5	26-41	Bahnhaltestelle	_	
+2-6	42-46	wird	_	
+2-7	47-50	man	_	
+2-8	51-54	von	_	
+2-9	55-58	der	_	
+2-10	59-65	Straße	_	
+2-11	66-69	auf	_	
+2-12	70-73	den	_	
+2-13	74-85	Bürgersteig	_	
+2-14	86-96	umgeleitet	_	
+2-15	96-97	.	_	
+
+#Text=Hinter der Haltestelle steht ein rot weißer Pöller, den man mit einem längeren Gespann (Lastenrad, oder Rad mit Anhänger) kaum umfahren kann.
+3-1	98-104	Hinter	_	
+3-2	105-108	der	_	
+3-3	109-120	Haltestelle	_	
+3-4	121-126	steht	_	
+3-5	127-130	ein	_	
+3-6	131-134	rot	_	
+3-7	135-141	weißer	_	
+3-8	142-148	Pöller	_	
+3-9	148-149	,	_	
+3-10	150-153	den	_	
+3-11	154-157	man	_	
+3-12	158-161	mit	_	
+3-13	162-167	einem	_	
+3-14	168-176	längeren	_	
+3-15	177-184	Gespann	_	
+3-16	185-186	(	_	
+3-17	186-195	Lastenrad	_	
+3-18	195-196	,	_	
+3-19	197-201	oder	_	
+3-20	202-205	Rad	_	
+3-21	206-209	mit	_	
+3-22	210-218	Anhänger	_	
+3-23	218-219	)	_	
+3-24	220-224	kaum	_	
+3-25	225-233	umfahren	_	
+3-26	234-238	kann	_	
+3-27	238-239	.	_	
+
+#Text=Es ist wirklich ein gefährliches Hindernis.
+4-1	240-242	Es	_	
+4-2	243-246	ist	_	
+4-3	247-255	wirklich	_	
+4-4	256-259	ein	_	
+4-5	260-272	gefährliches	_	
+4-6	273-282	Hindernis	_	
+4-7	282-283	.	_	

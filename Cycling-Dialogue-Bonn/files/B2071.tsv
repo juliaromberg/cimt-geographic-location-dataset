@@ -1,0 +1,56 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zu schnelle Autofahrer
+1-1	0-2	Zu	_	
+1-2	3-11	schnelle	_	
+1-3	12-22	Autofahrer	_	
+
+#Text=Angeblich ist das eine Fahrradstr.
+2-1	25-34	Angeblich	_	
+2-2	35-38	ist	_	
+2-3	39-42	das	_	
+2-4	43-47	eine	_	
+2-5	48-58	Fahrradstr	_	
+2-6	58-59	.	_	
+
+#Text=Fährt man jedoch mit dem Fahrrad Richtung Berliner Platz, muss man ständig mit rücksichtslosen Autofahrern rechnen, die ihre Geschwindigkeit nicht reduzieren, obwohl sie in der engen Straße keinen ausreichenden Sicherheitsabstand halten können.
+3-1	60-65	Fährt	_	
+3-2	66-69	man	_	
+3-3	70-76	jedoch	_	
+3-4	77-80	mit	_	
+3-5	81-84	dem	_	
+3-6	85-92	Fahrrad	_	
+3-7	93-101	Richtung	*[4]	
+3-8	102-110	Berliner	*[4]	
+3-9	111-116	Platz	*[4]	
+3-10	116-117	,	_	
+3-11	118-122	muss	_	
+3-12	123-126	man	_	
+3-13	127-134	ständig	_	
+3-14	135-138	mit	_	
+3-15	139-154	rücksichtslosen	_	
+3-16	155-166	Autofahrern	_	
+3-17	167-174	rechnen	_	
+3-18	174-175	,	_	
+3-19	176-179	die	_	
+3-20	180-184	ihre	_	
+3-21	185-200	Geschwindigkeit	_	
+3-22	201-206	nicht	_	
+3-23	207-217	reduzieren	_	
+3-24	217-218	,	_	
+3-25	219-225	obwohl	_	
+3-26	226-229	sie	_	
+3-27	230-232	in	_	
+3-28	233-236	der	_	
+3-29	237-242	engen	_	
+3-30	243-249	Straße	_	
+3-31	250-256	keinen	_	
+3-32	257-270	ausreichenden	_	
+3-33	271-289	Sicherheitsabstand	_	
+3-34	290-296	halten	_	
+3-35	297-303	können	_	
+3-36	303-304	.	_	

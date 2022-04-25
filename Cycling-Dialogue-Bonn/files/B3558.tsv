@@ -1,0 +1,260 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegqualität
+1-1	0-14	Radwegqualität	_	
+
+#Text=Hier geht es im Allgemeinen darum, dass dieser Fahrradweg, der sehr frequentiert und so und so sehr schmal ist:
+2-1	17-21	Hier	_	
+2-2	22-26	geht	_	
+2-3	27-29	es	_	
+2-4	30-32	im	_	
+2-5	33-44	Allgemeinen	_	
+2-6	45-50	darum	_	
+2-7	50-51	,	_	
+2-8	52-56	dass	_	
+2-9	57-63	dieser	_	
+2-10	64-74	Fahrradweg	_	
+2-11	74-75	,	_	
+2-12	76-79	der	_	
+2-13	80-84	sehr	_	
+2-14	85-97	frequentiert	_	
+2-15	98-101	und	_	
+2-16	102-104	so	_	
+2-17	105-108	und	_	
+2-18	109-111	so	_	
+2-19	112-116	sehr	_	
+2-20	117-123	schmal	_	
+2-21	124-127	ist	_	
+2-22	127-128	:	_	
+
+#Text=- oft zusätzlich zugestellt wird mit irgendwelchen Schildern (für Bauarbeiten in diesem Bereich sollte man sich andere Lösungen suchen, um Hinweisschilder anzubringen)
+3-1	129-130	-	_	
+3-2	131-134	oft	_	
+3-3	135-145	zusätzlich	_	
+3-4	146-156	zugestellt	_	
+3-5	157-161	wird	_	
+3-6	162-165	mit	_	
+3-7	166-179	irgendwelchen	_	
+3-8	180-189	Schildern	_	
+3-9	190-191	(	_	
+3-10	191-194	für	_	
+3-11	195-206	Bauarbeiten	_	
+3-12	207-209	in	_	
+3-13	210-216	diesem	_	
+3-14	217-224	Bereich	_	
+3-15	225-231	sollte	_	
+3-16	232-235	man	_	
+3-17	236-240	sich	_	
+3-18	241-247	andere	_	
+3-19	248-256	Lösungen	_	
+3-20	257-263	suchen	_	
+3-21	263-264	,	_	
+3-22	265-267	um	_	
+3-23	268-283	Hinweisschilder	_	
+3-24	284-295	anzubringen	_	
+3-25	295-296	)	_	
+
+#Text=Mit den sehr ausladenden Füßen der Hinweisschilder wird der Fahrradweg nochmals verkleinert und es ergeben sich immer wieder kritische Situationen
+4-1	297-300	Mit	_	
+4-2	301-304	den	_	
+4-3	305-309	sehr	_	
+4-4	310-321	ausladenden	_	
+4-5	322-327	Füßen	_	
+4-6	328-331	der	_	
+4-7	332-347	Hinweisschilder	_	
+4-8	348-352	wird	_	
+4-9	353-356	der	_	
+4-10	357-367	Fahrradweg	_	
+4-11	368-376	nochmals	_	
+4-12	377-388	verkleinert	_	
+4-13	389-392	und	_	
+4-14	393-395	es	_	
+4-15	396-403	ergeben	_	
+4-16	404-408	sich	_	
+4-17	409-414	immer	_	
+4-18	415-421	wieder	_	
+4-19	422-431	kritische	_	
+4-20	432-443	Situationen	_	
+
+#Text=- Fahrradwege werden im Allgemeinen nicht oft genug gereinigt, immer wieder Glas auf den Wegen
+5-1	444-445	-	_	
+5-2	446-457	Fahrradwege	_	
+5-3	458-464	werden	_	
+5-4	465-467	im	_	
+5-5	468-479	Allgemeinen	_	
+5-6	480-485	nicht	_	
+5-7	486-489	oft	_	
+5-8	490-495	genug	_	
+5-9	496-505	gereinigt	_	
+5-10	505-506	,	_	
+5-11	507-512	immer	_	
+5-12	513-519	wieder	_	
+5-13	520-524	Glas	_	
+5-14	525-528	auf	_	
+5-15	529-532	den	_	
+5-16	533-538	Wegen	_	
+
+#Text=- leider wird auch nicht darauf geachtet, dass Fußgänger den Fahrradweg nutzen, was ebenfalls wieder zu brenzlichen Situationen führt
+6-1	539-540	-	_	
+6-2	541-547	leider	_	
+6-3	548-552	wird	_	
+6-4	553-557	auch	_	
+6-5	558-563	nicht	_	
+6-6	564-570	darauf	_	
+6-7	571-579	geachtet	_	
+6-8	579-580	,	_	
+6-9	581-585	dass	_	
+6-10	586-595	Fußgänger	_	
+6-11	596-599	den	_	
+6-12	600-610	Fahrradweg	_	
+6-13	611-617	nutzen	_	
+6-14	617-618	,	_	
+6-15	619-622	was	_	
+6-16	623-632	ebenfalls	_	
+6-17	633-639	wieder	_	
+6-18	640-642	zu	_	
+6-19	643-654	brenzlichen	_	
+6-20	655-666	Situationen	_	
+6-21	667-672	führt	_	
+
+#Text=- Autos stellen vermehrt diesen Fahrradweg zu, besonders an den Schranken, aus der Stadt kommend in Richtung früherer Bonn-Center, wird regelmäßig rechts abgebogen, obwohl nicht zugelassen und es sind keine Nicht-Bonner.
+7-1	673-674	-	_	
+7-2	675-680	Autos	_	
+7-3	681-688	stellen	_	
+7-4	689-697	vermehrt	_	
+7-5	698-704	diesen	_	
+7-6	705-715	Fahrradweg	_	
+7-7	716-718	zu	_	
+7-8	718-719	,	_	
+7-9	720-729	besonders	_	
+7-10	730-732	an	_	
+7-11	733-736	den	_	
+7-12	737-746	Schranken	_	
+7-13	746-747	,	_	
+7-14	748-751	aus	_	
+7-15	752-755	der	_	
+7-16	756-761	Stadt	_	
+7-17	762-769	kommend	_	
+7-18	770-772	in	_	
+7-19	773-781	Richtung	_	
+7-20	782-790	früherer	_	
+7-21	791-802	Bonn-Center	_	
+7-22	802-803	,	_	
+7-23	804-808	wird	_	
+7-24	809-819	regelmäßig	_	
+7-25	820-826	rechts	_	
+7-26	827-836	abgebogen	_	
+7-27	836-837	,	_	
+7-28	838-844	obwohl	_	
+7-29	845-850	nicht	_	
+7-30	851-861	zugelassen	_	
+7-31	862-865	und	_	
+7-32	866-868	es	_	
+7-33	869-873	sind	_	
+7-34	874-879	keine	_	
+7-35	880-892	Nicht-Bonner	_	
+7-36	892-893	.	_	
+
+#Text=Das zieht sich hin bis zum Bahnübergang Dotterdorf, wo selbst Reisebusse, die von der neuen Haltestelle kommen, vor der Schranke, die geschlossen ist, rechts abbiegen wollen und den gesamten Bereich zustellen.
+8-1	894-897	Das	_	
+8-2	898-903	zieht	_	
+8-3	904-908	sich	_	
+8-4	909-912	hin	_	
+8-5	913-916	bis	*[12]	
+8-6	917-920	zum	*[12]	
+8-7	921-933	Bahnübergang	*[12]	
+8-8	934-944	Dotterdorf	*[12]	
+8-9	944-945	,	_	
+8-10	946-948	wo	_	
+8-11	949-955	selbst	_	
+8-12	956-966	Reisebusse	_	
+8-13	966-967	,	_	
+8-14	968-971	die	_	
+8-15	972-975	von	_	
+8-16	976-979	der	_	
+8-17	980-985	neuen	_	
+8-18	986-997	Haltestelle	_	
+8-19	998-1004	kommen	_	
+8-20	1004-1005	,	_	
+8-21	1006-1009	vor	_	
+8-22	1010-1013	der	_	
+8-23	1014-1022	Schranke	_	
+8-24	1022-1023	,	_	
+8-25	1024-1027	die	_	
+8-26	1028-1039	geschlossen	_	
+8-27	1040-1043	ist	_	
+8-28	1043-1044	,	_	
+8-29	1045-1051	rechts	_	
+8-30	1052-1060	abbiegen	_	
+8-31	1061-1067	wollen	_	
+8-32	1068-1071	und	_	
+8-33	1072-1075	den	_	
+8-34	1076-1084	gesamten	_	
+8-35	1085-1092	Bereich	_	
+8-36	1093-1102	zustellen	_	
+8-37	1102-1103	.	_	
+
+#Text=Allgemein sollte die Kontrolle, wenn es möglich wäre, erhöht werden!
+9-1	1104-1113	Allgemein	_	
+9-2	1114-1120	sollte	_	
+9-3	1121-1124	die	_	
+9-4	1125-1134	Kontrolle	_	
+9-5	1134-1135	,	_	
+9-6	1136-1140	wenn	_	
+9-7	1141-1143	es	_	
+9-8	1144-1151	möglich	_	
+9-9	1152-1156	wäre	_	
+9-10	1156-1157	,	_	
+9-11	1158-1164	erhöht	_	
+9-12	1165-1171	werden	_	
+9-13	1171-1172	!	_	
+
+#Text=Die Radverkehrsführung am Bertha-von-Sutter-Platz ist auch eine Katastrophe, hier sollte, wenn möglich eine Verbesserung hergestellt werden.
+10-1	1173-1176	Die	_	
+10-2	1177-1195	Radverkehrsführung	_	
+10-3	1196-1198	am	*[13]	
+10-4	1199-1222	Bertha-von-Sutter-Platz	*[13]	
+10-5	1223-1226	ist	_	
+10-6	1227-1231	auch	_	
+10-7	1232-1236	eine	_	
+10-8	1237-1248	Katastrophe	_	
+10-9	1248-1249	,	_	
+10-10	1250-1254	hier	_	
+10-11	1255-1261	sollte	_	
+10-12	1261-1262	,	_	
+10-13	1263-1267	wenn	_	
+10-14	1268-1275	möglich	_	
+10-15	1276-1280	eine	_	
+10-16	1281-1293	Verbesserung	_	
+10-17	1294-1305	hergestellt	_	
+10-18	1306-1312	werden	_	
+10-19	1312-1313	.	_	
+
+#Text=Die Fahrradstrassen sind ja wunderbar, nur kennen die Autofahrer anscheinend die Regeln nicht!
+11-1	1314-1317	Die	_	
+11-2	1318-1333	Fahrradstrassen	_	
+11-3	1334-1338	sind	_	
+11-4	1339-1341	ja	_	
+11-5	1342-1351	wunderbar	_	
+11-6	1351-1352	,	_	
+11-7	1353-1356	nur	_	
+11-8	1357-1363	kennen	_	
+11-9	1364-1367	die	_	
+11-10	1368-1378	Autofahrer	_	
+11-11	1379-1390	anscheinend	_	
+11-12	1391-1394	die	_	
+11-13	1395-1401	Regeln	_	
+11-14	1402-1407	nicht	_	
+11-15	1407-1408	!	_	
+
+#Text=Bessere Schulung bei den Führerscheinschulungen!
+12-1	1409-1416	Bessere	_	
+12-2	1417-1425	Schulung	_	
+12-3	1426-1429	bei	_	
+12-4	1430-1433	den	_	
+12-5	1434-1456	Führerscheinschulungen	_	
+12-6	1456-1457	!	_	

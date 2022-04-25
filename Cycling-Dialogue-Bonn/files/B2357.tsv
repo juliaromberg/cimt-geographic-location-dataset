@@ -1,0 +1,174 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wenn Regen dann Schlamm
+1-1	0-4	Wenn	_	
+1-2	5-10	Regen	_	
+1-3	11-15	dann	_	
+1-4	16-23	Schlamm	_	
+
+#Text=Dieser Weg ist im Radwegenetz der Region wunderbar ausgeschildert, ist Bestandteil des Grünes C-Wegenetzes und dient Pendlern und auch Schülern als verkehrsarme Alternative zu den vielbefahrenen Straßen, die i.d.R. keine begleitenden Radwege haben.
+2-1	26-32	Dieser	_	
+2-2	33-36	Weg	_	
+2-3	37-40	ist	_	
+2-4	41-43	im	_	
+2-5	44-55	Radwegenetz	_	
+2-6	56-59	der	_	
+2-7	60-66	Region	_	
+2-8	67-76	wunderbar	_	
+2-9	77-91	ausgeschildert	_	
+2-10	91-92	,	_	
+2-11	93-96	ist	_	
+2-12	97-108	Bestandteil	_	
+2-13	109-112	des	_	
+2-14	113-119	Grünes	_	
+2-15	120-132	C-Wegenetzes	_	
+2-16	133-136	und	_	
+2-17	137-142	dient	_	
+2-18	143-151	Pendlern	_	
+2-19	152-155	und	_	
+2-20	156-160	auch	_	
+2-21	161-169	Schülern	_	
+2-22	170-173	als	_	
+2-23	174-186	verkehrsarme	_	
+2-24	187-198	Alternative	_	
+2-25	199-201	zu	_	
+2-26	202-205	den	_	
+2-27	206-220	vielbefahrenen	_	
+2-28	221-228	Straßen	_	
+2-29	228-229	,	_	
+2-30	230-233	die	_	
+2-31	234-239	i.d.R	_	
+2-32	239-240	.	_	
+2-33	241-246	keine	_	
+2-34	247-259	begleitenden	_	
+2-35	260-267	Radwege	_	
+2-36	268-273	haben	_	
+2-37	273-274	.	_	
+
+#Text=So weit so schön.
+3-1	275-277	So	_	
+3-2	278-282	weit	_	
+3-3	283-285	so	_	
+3-4	286-291	schön	_	
+3-5	291-292	.	_	
+
+#Text=Problem: An den Feldrändern hat sich durch die Bodenbearbeitung ein Wall gebildet, bei Regen bleibt das Wasser stehen und zusammen mit der Erde gibt das einen schönen dünnflüssigen Schlamm - unpassierbar.
+4-1	293-300	Problem	_	
+4-2	300-301	:	_	
+4-3	302-304	An	_	
+4-4	305-308	den	_	
+4-5	309-320	Feldrändern	_	
+4-6	321-324	hat	_	
+4-7	325-329	sich	_	
+4-8	330-335	durch	_	
+4-9	336-339	die	_	
+4-10	340-356	Bodenbearbeitung	_	
+4-11	357-360	ein	_	
+4-12	361-365	Wall	_	
+4-13	366-374	gebildet	_	
+4-14	374-375	,	_	
+4-15	376-379	bei	_	
+4-16	380-385	Regen	_	
+4-17	386-392	bleibt	_	
+4-18	393-396	das	_	
+4-19	397-403	Wasser	_	
+4-20	404-410	stehen	_	
+4-21	411-414	und	_	
+4-22	415-423	zusammen	_	
+4-23	424-427	mit	_	
+4-24	428-431	der	_	
+4-25	432-436	Erde	_	
+4-26	437-441	gibt	_	
+4-27	442-445	das	_	
+4-28	446-451	einen	_	
+4-29	452-459	schönen	_	
+4-30	460-473	dünnflüssigen	_	
+4-31	474-481	Schlamm	_	
+4-32	482-483	-	_	
+4-33	484-496	unpassierbar	_	
+4-34	496-497	.	_	
+
+#Text=Interessant: Überquert man die Grenze des Stadtbezirks und kommt auf die Gemarkung Alfter ist dies nicht mehr so.
+5-1	498-509	Interessant	_	
+5-2	509-510	:	_	
+5-3	511-520	Überquert	_	
+5-4	521-524	man	_	
+5-5	525-528	die	_	
+5-6	529-535	Grenze	_	
+5-7	536-539	des	_	
+5-8	540-552	Stadtbezirks	_	
+5-9	553-556	und	_	
+5-10	557-562	kommt	_	
+5-11	563-566	auf	_	
+5-12	567-570	die	_	
+5-13	571-580	Gemarkung	_	
+5-14	581-587	Alfter	*	
+5-15	588-591	ist	_	
+5-16	592-596	dies	_	
+5-17	597-602	nicht	_	
+5-18	603-607	mehr	_	
+5-19	608-610	so	_	
+5-20	610-611	.	_	
+
+#Text=Recht neuer Teer, keine Erdwälle am Wegrand und einer der Landwirte fährt hier bei stärkerer Verschmutzung mit der Kehrmaschine lang.
+6-1	612-617	Recht	_	
+6-2	618-623	neuer	_	
+6-3	624-628	Teer	_	
+6-4	628-629	,	_	
+6-5	630-635	keine	_	
+6-6	636-644	Erdwälle	_	
+6-7	645-647	am	_	
+6-8	648-655	Wegrand	_	
+6-9	656-659	und	_	
+6-10	660-665	einer	_	
+6-11	666-669	der	_	
+6-12	670-679	Landwirte	_	
+6-13	680-685	fährt	_	
+6-14	686-690	hier	_	
+6-15	691-694	bei	_	
+6-16	695-704	stärkerer	_	
+6-17	705-718	Verschmutzung	_	
+6-18	719-722	mit	_	
+6-19	723-726	der	_	
+6-20	727-739	Kehrmaschine	_	
+6-21	740-744	lang	_	
+6-22	744-745	.	_	
+
+#Text=Was kann Alfter, was Bonn nicht kann?
+7-1	746-749	Was	_	
+7-2	750-754	kann	_	
+7-3	755-761	Alfter	*	
+7-4	761-762	,	_	
+7-5	763-766	was	_	
+7-6	767-771	Bonn	*	
+7-7	772-777	nicht	_	
+7-8	778-782	kann	_	
+7-9	782-783	?	_	
+
+#Text=Ich habe schon mehrfach bei der Stadt Bonn darauf hingewiesen, Antwort kam nie, Abhilfe auch nicht ....
+8-1	784-787	Ich	_	
+8-2	788-792	habe	_	
+8-3	793-798	schon	_	
+8-4	799-807	mehrfach	_	
+8-5	808-811	bei	_	
+8-6	812-815	der	_	
+8-7	816-821	Stadt	_	
+8-8	822-826	Bonn	*	
+8-9	827-833	darauf	_	
+8-10	834-845	hingewiesen	_	
+8-11	845-846	,	_	
+8-12	847-854	Antwort	_	
+8-13	855-858	kam	_	
+8-14	859-862	nie	_	
+8-15	862-863	,	_	
+8-16	864-871	Abhilfe	_	
+8-17	872-876	auch	_	
+8-18	877-882	nicht	_	
+8-19	883-884	.	_	
+8-20	884-885	.	_	
+8-21	885-886	.	_	
+8-22	886-887	.	_	

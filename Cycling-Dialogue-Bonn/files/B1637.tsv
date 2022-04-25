@@ -1,0 +1,33 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlende Radabstellplätze
+1-1	0-8	Fehlende	_	
+1-2	9-25	Radabstellplätze	_	
+
+#Text=Wie überall, zu wenige Anschließmöglichkeiten.
+2-1	28-31	Wie	_	
+2-2	32-39	überall	_	
+2-3	39-40	,	_	
+2-4	41-43	zu	_	
+2-5	44-50	wenige	_	
+2-6	51-73	Anschließmöglichkeiten	_	
+2-7	73-74	.	_	
+
+#Text=Neue Regelung müßte sein, pro 10 Pkw-Abstellplätze eine Abstellanlage für Räder!
+3-1	75-79	Neue	_	
+3-2	80-88	Regelung	_	
+3-3	89-94	müßte	_	
+3-4	95-99	sein	_	
+3-5	99-100	,	_	
+3-6	101-104	pro	_	
+3-7	105-107	10	_	
+3-8	108-125	Pkw-Abstellplätze	_	
+3-9	126-130	eine	_	
+3-10	131-144	Abstellanlage	_	
+3-11	145-148	für	_	
+3-12	149-154	Räder	_	
+3-13	154-155	!	_	

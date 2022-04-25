@@ -1,0 +1,108 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=[Paketzustellende] - Hindernis N°1 auf Radwegen
+1-1	0-1	[	_	
+1-2	1-17	Paketzustellende	_	
+1-3	17-18	]	_	
+1-4	19-20	-	_	
+1-5	21-30	Hindernis	_	
+1-6	31-32	N	_	
+1-7	32-33	°	_	
+1-8	33-34	1	_	
+1-9	35-38	auf	_	
+1-10	39-47	Radwegen	_	
+
+#Text=[Name der Firma entfernt] Paketzusteller sollten nicht auf Radwegen parken.
+2-1	50-51	[	_	
+2-2	51-55	Name	_	
+2-3	56-59	der	_	
+2-4	60-65	Firma	_	
+2-5	66-74	entfernt	_	
+2-6	74-75	]	_	
+2-7	76-90	Paketzusteller	_	
+2-8	91-98	sollten	_	
+2-9	99-104	nicht	_	
+2-10	105-108	auf	_	
+2-11	109-117	Radwegen	_	
+2-12	118-124	parken	_	
+2-13	124-125	.	_	
+
+#Text=Entweder soll das Unternehmen selbst die Lösung für dieses Problem bieten (Sensibilisierung der Fahrer, Arbeitskonditionen unter denen genug Zeit für Parkplatzsuche zur Verfügung steht...), oder das Ordnungsamt (oder die Polizei) muss ein effektives Meldesystem für solche Kurzzeitparker, die die StVO nicht beachten und dadurch Radfahrer häufig in sehr gefährliche Situationen bringen, anbieten (z.B. App oder Online-Anzeigeportal und hohe Bußgelder).
+3-1	126-134	Entweder	_	
+3-2	135-139	soll	_	
+3-3	140-143	das	_	
+3-4	144-155	Unternehmen	_	
+3-5	156-162	selbst	_	
+3-6	163-166	die	_	
+3-7	167-173	Lösung	_	
+3-8	174-177	für	_	
+3-9	178-184	dieses	_	
+3-10	185-192	Problem	_	
+3-11	193-199	bieten	_	
+3-12	200-201	(	_	
+3-13	201-217	Sensibilisierung	_	
+3-14	218-221	der	_	
+3-15	222-228	Fahrer	_	
+3-16	228-229	,	_	
+3-17	230-248	Arbeitskonditionen	_	
+3-18	249-254	unter	_	
+3-19	255-260	denen	_	
+3-20	261-266	genug	_	
+3-21	267-271	Zeit	_	
+3-22	272-275	für	_	
+3-23	276-290	Parkplatzsuche	_	
+3-24	291-294	zur	_	
+3-25	295-304	Verfügung	_	
+3-26	305-310	steht	_	
+3-27	310-311	.	_	
+3-28	311-312	.	_	
+3-29	312-313	.	_	
+3-30	313-314	)	_	
+3-31	314-315	,	_	
+3-32	316-320	oder	_	
+3-33	321-324	das	_	
+3-34	325-336	Ordnungsamt	_	
+3-35	337-338	(	_	
+3-36	338-342	oder	_	
+3-37	343-346	die	_	
+3-38	347-354	Polizei	_	
+3-39	354-355	)	_	
+3-40	356-360	muss	_	
+3-41	361-364	ein	_	
+3-42	365-375	effektives	_	
+3-43	376-387	Meldesystem	_	
+3-44	388-391	für	_	
+3-45	392-398	solche	_	
+3-46	399-413	Kurzzeitparker	_	
+3-47	413-414	,	_	
+3-48	415-418	die	_	
+3-49	419-422	die	_	
+3-50	423-427	StVO	_	
+3-51	428-433	nicht	_	
+3-52	434-442	beachten	_	
+3-53	443-446	und	_	
+3-54	447-454	dadurch	_	
+3-55	455-464	Radfahrer	_	
+3-56	465-471	häufig	_	
+3-57	472-474	in	_	
+3-58	475-479	sehr	_	
+3-59	480-491	gefährliche	_	
+3-60	492-503	Situationen	_	
+3-61	504-511	bringen	_	
+3-62	511-512	,	_	
+3-63	513-521	anbieten	_	
+3-64	522-523	(	_	
+3-65	523-526	z.B	_	
+3-66	526-527	.	_	
+3-67	528-531	App	_	
+3-68	532-536	oder	_	
+3-69	537-557	Online-Anzeigeportal	_	
+3-70	558-561	und	_	
+3-71	562-566	hohe	_	
+3-72	567-576	Bußgelder	_	
+3-73	576-577	)	_	
+3-74	577-578	.	_	

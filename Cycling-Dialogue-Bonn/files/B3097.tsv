@@ -1,0 +1,54 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radverkehrsführung Markt-Kennedybrücke
+1-1	0-18	Radverkehrsführung	_	
+1-2	19-38	Markt-Kennedybrücke	*	
+
+#Text=Von der Kennedybrücke zum Markt kommt man mit dem Rad problemlos (wenn auch nicht schön).
+2-1	41-44	Von	*[4]	
+2-2	45-48	der	*[4]	
+2-3	49-62	Kennedybrücke	*[4]	
+2-4	63-66	zum	*[4]	
+2-5	67-72	Markt	*[4]	
+2-6	73-78	kommt	_	
+2-7	79-82	man	_	
+2-8	83-86	mit	_	
+2-9	87-90	dem	_	
+2-10	91-94	Rad	_	
+2-11	95-105	problemlos	_	
+2-12	106-107	(	_	
+2-13	107-111	wenn	_	
+2-14	112-116	auch	_	
+2-15	117-122	nicht	_	
+2-16	123-128	schön	_	
+2-17	128-129	)	_	
+2-18	129-130	.	_	
+
+#Text=Wie aber kommt man zurück (ohne riesen Umweg, ohne ein Stück schieben zu müssen und unter Einhaltung der Verkehrsregeln)?
+3-1	131-134	Wie	_	
+3-2	135-139	aber	_	
+3-3	140-145	kommt	_	
+3-4	146-149	man	_	
+3-5	150-156	zurück	_	
+3-6	157-158	(	_	
+3-7	158-162	ohne	_	
+3-8	163-169	riesen	_	
+3-9	170-175	Umweg	_	
+3-10	175-176	,	_	
+3-11	177-181	ohne	_	
+3-12	182-185	ein	_	
+3-13	186-191	Stück	_	
+3-14	192-200	schieben	_	
+3-15	201-203	zu	_	
+3-16	204-210	müssen	_	
+3-17	211-214	und	_	
+3-18	215-220	unter	_	
+3-19	221-231	Einhaltung	_	
+3-20	232-235	der	_	
+3-21	236-250	Verkehrsregeln	_	
+3-22	250-251	)	_	
+3-23	251-252	?	_	

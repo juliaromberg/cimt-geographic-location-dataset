@@ -1,0 +1,141 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=schlechter Straßenbelag im Randbereich, kein getrennter Fahhradweg
+1-1	0-10	schlechter	_	
+1-2	11-23	Straßenbelag	_	
+1-3	24-26	im	_	
+1-4	27-38	Randbereich	_	
+1-5	38-39	,	_	
+1-6	40-44	kein	_	
+1-7	45-55	getrennter	_	
+1-8	56-66	Fahhradweg	_	
+
+#Text=Auf der quasi einzigen Zu- und Abfahrtsstraße zum Universitätsklinikum Bonn ist vor allem die steile Abfahrt extrem gefährlich.
+2-1	69-72	Auf	_	
+2-2	73-76	der	_	
+2-3	77-82	quasi	_	
+2-4	83-91	einzigen	_	
+2-5	92-94	Zu	_	
+2-6	94-95	-	_	
+2-7	96-99	und	_	
+2-8	100-114	Abfahrtsstraße	_	
+2-9	115-118	zum	*[8]	
+2-10	119-139	Universitätsklinikum	*[8]	
+2-11	140-144	Bonn	*[8]	
+2-12	145-148	ist	_	
+2-13	149-152	vor	_	
+2-14	153-158	allem	_	
+2-15	159-162	die	_	
+2-16	163-169	steile	_	
+2-17	170-177	Abfahrt	_	
+2-18	178-184	extrem	_	
+2-19	185-195	gefährlich	_	
+2-20	195-196	.	_	
+
+#Text=Die Fahrbahnoberfläche ist vor allem im Randbereich beschädigt, was besonders bei Regen eine Gefahr darstellt.
+3-1	197-200	Die	_	
+3-2	201-219	Fahrbahnoberfläche	_	
+3-3	220-223	ist	_	
+3-4	224-227	vor	_	
+3-5	228-233	allem	_	
+3-6	234-236	im	_	
+3-7	237-248	Randbereich	_	
+3-8	249-259	beschädigt	_	
+3-9	259-260	,	_	
+3-10	261-264	was	_	
+3-11	265-274	besonders	_	
+3-12	275-278	bei	_	
+3-13	279-284	Regen	_	
+3-14	285-289	eine	_	
+3-15	290-296	Gefahr	_	
+3-16	297-306	darstellt	_	
+3-17	306-307	.	_	
+
+#Text=Die Straßenspur teilen sich Radler mit Gelenkbussen, hunderten Autos, Krankenwagen, LKWs etc..
+4-1	308-311	Die	_	
+4-2	312-323	Straßenspur	_	
+4-3	324-330	teilen	_	
+4-4	331-335	sich	_	
+4-5	336-342	Radler	_	
+4-6	343-346	mit	_	
+4-7	347-359	Gelenkbussen	_	
+4-8	359-360	,	_	
+4-9	361-370	hunderten	_	
+4-10	371-376	Autos	_	
+4-11	376-377	,	_	
+4-12	378-390	Krankenwagen	_	
+4-13	390-391	,	_	
+4-14	392-396	LKWs	_	
+4-15	397-400	etc	_	
+4-16	400-401	.	_	
+4-17	401-402	.	_	
+
+#Text=Das Abbiegen vom Berg kommend in die Straße am Wingert ist für Radfahrer gefährlich und ungeregelt.
+5-1	403-406	Das	_	
+5-2	407-415	Abbiegen	_	
+5-3	416-419	vom	*[9]	
+5-4	420-424	Berg	*[9]	
+5-5	425-432	kommend	*[9]	
+5-6	433-435	in	*[9]	
+5-7	436-439	die	*[9]	
+5-8	440-446	Straße	*[9]	
+5-9	447-449	am	*[9]	
+5-10	450-457	Wingert	*[9]	
+5-11	458-461	ist	_	
+5-12	462-465	für	_	
+5-13	466-475	Radfahrer	_	
+5-14	476-486	gefährlich	_	
+5-15	487-490	und	_	
+5-16	491-501	ungeregelt	_	
+5-17	501-502	.	_	
+
+#Text=Die Geradeausspur wird von Autofahrern mit oft überhöhter Geschwindigkeit am bei Rot wartenden Linksabbiegenden vorbei befahren, da die Ampelphase dieser Spur Grün zeigt.
+6-1	503-506	Die	_	
+6-2	507-520	Geradeausspur	_	
+6-3	521-525	wird	_	
+6-4	526-529	von	_	
+6-5	530-541	Autofahrern	_	
+6-6	542-545	mit	_	
+6-7	546-549	oft	_	
+6-8	550-560	überhöhter	_	
+6-9	561-576	Geschwindigkeit	_	
+6-10	577-579	am	_	
+6-11	580-583	bei	_	
+6-12	584-587	Rot	_	
+6-13	588-597	wartenden	_	
+6-14	598-614	Linksabbiegenden	_	
+6-15	615-621	vorbei	_	
+6-16	622-630	befahren	_	
+6-17	630-631	,	_	
+6-18	632-634	da	_	
+6-19	635-638	die	_	
+6-20	639-649	Ampelphase	_	
+6-21	650-656	dieser	_	
+6-22	657-661	Spur	_	
+6-23	662-666	Grün	_	
+6-24	667-672	zeigt	_	
+6-25	672-673	.	_	
+
+#Text=Häufig die abenteuerlichsten Ausweichmanöver und Kompensation über Gehwege etc., das alles in einer steilen Abwärtsfahrt.
+7-1	674-680	Häufig	_	
+7-2	681-684	die	_	
+7-3	685-702	abenteuerlichsten	_	
+7-4	703-718	Ausweichmanöver	_	
+7-5	719-722	und	_	
+7-6	723-735	Kompensation	_	
+7-7	736-740	über	_	
+7-8	741-748	Gehwege	_	
+7-9	749-752	etc	_	
+7-10	752-753	.	_	
+7-11	753-754	,	_	
+7-12	755-758	das	_	
+7-13	759-764	alles	_	
+7-14	765-767	in	_	
+7-15	768-773	einer	_	
+7-16	774-781	steilen	_	
+7-17	782-794	Abwärtsfahrt	_	
+7-18	794-795	.	_	

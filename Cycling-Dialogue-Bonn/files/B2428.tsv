@@ -1,0 +1,179 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Missverständliche Radwegführung durch plötzliche Teilung des Radweges
+1-1	0-17	Missverständliche	_	
+1-2	18-31	Radwegführung	_	
+1-3	32-37	durch	_	
+1-4	38-48	plötzliche	_	
+1-5	49-56	Teilung	_	
+1-6	57-60	des	_	
+1-7	61-69	Radweges	_	
+
+#Text=Situation: Der Radweg am Rheinufer geht grundsätzlich in beide Richtungen auf einem breiten Radweg.
+2-1	72-81	Situation	_	
+2-2	81-82	:	_	
+2-3	83-86	Der	_	
+2-4	87-93	Radweg	_	
+2-5	94-96	am	_	
+2-6	97-106	Rheinufer	_	
+2-7	107-111	geht	_	
+2-8	112-125	grundsätzlich	_	
+2-9	126-128	in	_	
+2-10	129-134	beide	_	
+2-11	135-145	Richtungen	_	
+2-12	146-149	auf	_	
+2-13	150-155	einem	_	
+2-14	156-163	breiten	_	
+2-15	164-170	Radweg	_	
+2-16	170-171	.	_	
+
+#Text=Nur an der gekennzeichneten Stelle ist der Radweg so eng, dass die Stadt erkannt hat, dass die Fahrtrichtungen geteilt werden müssen.
+3-1	172-175	Nur	_	
+3-2	176-178	an	_	
+3-3	179-182	der	_	
+3-4	183-199	gekennzeichneten	_	
+3-5	200-206	Stelle	_	
+3-6	207-210	ist	_	
+3-7	211-214	der	_	
+3-8	215-221	Radweg	_	
+3-9	222-224	so	_	
+3-10	225-228	eng	_	
+3-11	228-229	,	_	
+3-12	230-234	dass	_	
+3-13	235-238	die	_	
+3-14	239-244	Stadt	_	
+3-15	245-252	erkannt	_	
+3-16	253-256	hat	_	
+3-17	256-257	,	_	
+3-18	258-262	dass	_	
+3-19	263-266	die	_	
+3-20	267-282	Fahrtrichtungen	_	
+3-21	283-290	geteilt	_	
+3-22	291-297	werden	_	
+3-23	298-304	müssen	_	
+3-24	304-305	.	_	
+
+#Text=So weit so gut.
+4-1	306-308	So	_	
+4-2	309-313	weit	_	
+4-3	314-316	so	_	
+4-4	317-320	gut	_	
+4-5	320-321	.	_	
+
+#Text=Nun haben zwar beide Richtungen wieder jeweils ausreichend Platz, nur das Problem ist, dass die Radfahrer (Richtung Norden) oft zu spät erkennen, das ihre Fahrtrichtung einen kleinen Schlenker macht.
+5-1	322-325	Nun	_	
+5-2	326-331	haben	_	
+5-3	332-336	zwar	_	
+5-4	337-342	beide	_	
+5-5	343-353	Richtungen	_	
+5-6	354-360	wieder	_	
+5-7	361-368	jeweils	_	
+5-8	369-380	ausreichend	_	
+5-9	381-386	Platz	_	
+5-10	386-387	,	_	
+5-11	388-391	nur	_	
+5-12	392-395	das	_	
+5-13	396-403	Problem	_	
+5-14	404-407	ist	_	
+5-15	407-408	,	_	
+5-16	409-413	dass	_	
+5-17	414-417	die	_	
+5-18	418-427	Radfahrer	_	
+5-19	428-429	(	_	
+5-20	429-437	Richtung	_	
+5-21	438-444	Norden	_	
+5-22	444-445	)	_	
+5-23	446-449	oft	_	
+5-24	450-452	zu	_	
+5-25	453-457	spät	_	
+5-26	458-466	erkennen	_	
+5-27	466-467	,	_	
+5-28	468-471	das	_	
+5-29	472-476	ihre	_	
+5-30	477-490	Fahrtrichtung	_	
+5-31	491-496	einen	_	
+5-32	497-504	kleinen	_	
+5-33	505-514	Schlenker	_	
+5-34	515-520	macht	_	
+5-35	520-521	.	_	
+
+#Text=Es kommt vor, dass diese entgegen der Fahrtrichtung in die Engstelle hineinfahren und dann mit den entgegenkommenden Radfahrern zusammenstoßen.
+6-1	522-524	Es	_	
+6-2	525-530	kommt	_	
+6-3	531-534	vor	_	
+6-4	534-535	,	_	
+6-5	536-540	dass	_	
+6-6	541-546	diese	_	
+6-7	547-555	entgegen	_	
+6-8	556-559	der	_	
+6-9	560-573	Fahrtrichtung	_	
+6-10	574-576	in	_	
+6-11	577-580	die	_	
+6-12	581-590	Engstelle	_	
+6-13	591-603	hineinfahren	_	
+6-14	604-607	und	_	
+6-15	608-612	dann	_	
+6-16	613-616	mit	_	
+6-17	617-620	den	_	
+6-18	621-638	entgegenkommenden	_	
+6-19	639-649	Radfahrern	_	
+6-20	650-664	zusammenstoßen	_	
+6-21	664-665	.	_	
+
+#Text=Verbesserungsvorschlag: Man könnte eine weiße Linie die den Radweg ein paar Meter vor der Engstelle teilt auf den Radweg malen die den Radfahrer automatisch dann auf die Engstelle vorbereitet und leitet.
+7-1	666-688	Verbesserungsvorschlag	_	
+7-2	688-689	:	_	
+7-3	690-693	Man	_	
+7-4	694-700	könnte	_	
+7-5	701-705	eine	_	
+7-6	706-711	weiße	_	
+7-7	712-717	Linie	_	
+7-8	718-721	die	_	
+7-9	722-725	den	_	
+7-10	726-732	Radweg	_	
+7-11	733-736	ein	_	
+7-12	737-741	paar	_	
+7-13	742-747	Meter	_	
+7-14	748-751	vor	_	
+7-15	752-755	der	_	
+7-16	756-765	Engstelle	_	
+7-17	766-771	teilt	_	
+7-18	772-775	auf	_	
+7-19	776-779	den	_	
+7-20	780-786	Radweg	_	
+7-21	787-792	malen	_	
+7-22	793-796	die	_	
+7-23	797-800	den	_	
+7-24	801-810	Radfahrer	_	
+7-25	811-822	automatisch	_	
+7-26	823-827	dann	_	
+7-27	828-831	auf	_	
+7-28	832-835	die	_	
+7-29	836-845	Engstelle	_	
+7-30	846-857	vorbereitet	_	
+7-31	858-861	und	_	
+7-32	862-868	leitet	_	
+7-33	868-869	.	_	
+
+#Text=Auch ein kleiner abknickender Pfeil auf dem Radweg kurz vor der Engstelle wäre eine zusätzliche Hilfe.
+8-1	870-874	Auch	_	
+8-2	875-878	ein	_	
+8-3	879-886	kleiner	_	
+8-4	887-899	abknickender	_	
+8-5	900-905	Pfeil	_	
+8-6	906-909	auf	_	
+8-7	910-913	dem	_	
+8-8	914-920	Radweg	_	
+8-9	921-925	kurz	_	
+8-10	926-929	vor	_	
+8-11	930-933	der	_	
+8-12	934-943	Engstelle	_	
+8-13	944-948	wäre	_	
+8-14	949-953	eine	_	
+8-15	954-965	zusätzliche	_	
+8-16	966-971	Hilfe	_	
+8-17	971-972	.	_	

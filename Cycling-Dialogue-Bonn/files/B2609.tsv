@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelschaltung bei längeren Baustellen anpassen
+1-1	0-14	Ampelschaltung	_	
+1-2	15-18	bei	_	
+1-3	19-27	längeren	_	
+1-4	28-38	Baustellen	_	
+1-5	39-47	anpassen	_	
+
+#Text=Die Römerstraße stadteinwärts ist seit längerem gesperrt.
+2-1	50-53	Die	*[6]	
+2-2	54-65	Römerstraße	*[6]	
+2-3	66-79	stadteinwärts	_	
+2-4	80-83	ist	_	
+2-5	84-88	seit	_	
+2-6	89-97	längerem	_	
+2-7	98-106	gesperrt	_	
+2-8	106-107	.	_	
+
+#Text=Allerdings spiegelt sich dies nicht in einer veränderten Ampelschaltung wider.
+3-1	108-118	Allerdings	_	
+3-2	119-127	spiegelt	_	
+3-3	128-132	sich	_	
+3-4	133-137	dies	_	
+3-5	138-143	nicht	_	
+3-6	144-146	in	_	
+3-7	147-152	einer	_	
+3-8	153-164	veränderten	_	
+3-9	165-179	Ampelschaltung	_	
+3-10	180-185	wider	_	
+3-11	185-186	.	_	
+
+#Text=So ist die Ampel vom Augustusring Richtung Rhein/Römerstraße rot, während die Ampel von der Römerstraße stadteinwärts grün ist und umgekehrt.
+4-1	187-189	So	_	
+4-2	190-193	ist	_	
+4-3	194-197	die	_	
+4-4	198-203	Ampel	_	
+4-5	204-207	vom	*[7]	
+4-6	208-220	Augustusring	*[7]	
+4-7	221-229	Richtung	*[7]	
+4-8	230-235	Rhein	*[7]	
+4-9	235-236	/	*[7]	
+4-10	236-247	Römerstraße	*[7]	
+4-11	248-251	rot	_	
+4-12	251-252	,	_	
+4-13	253-260	während	_	
+4-14	261-264	die	_	
+4-15	265-270	Ampel	_	
+4-16	271-274	von	*[8]	
+4-17	275-278	der	*[8]	
+4-18	279-290	Römerstraße	*[8]	
+4-19	291-304	stadteinwärts	*[8]	
+4-20	305-309	grün	_	
+4-21	310-313	ist	_	
+4-22	314-317	und	_	
+4-23	318-327	umgekehrt	_	
+4-24	327-328	.	_	
+
+#Text=In dieser Konstellation sind derzeit allerdings keine Konflikte möglich.
+5-1	329-331	In	_	
+5-2	332-338	dieser	_	
+5-3	339-352	Konstellation	_	
+5-4	353-357	sind	_	
+5-5	358-365	derzeit	_	
+5-6	366-376	allerdings	_	
+5-7	377-382	keine	_	
+5-8	383-392	Konflikte	_	
+5-9	393-400	möglich	_	
+5-10	400-401	.	_	

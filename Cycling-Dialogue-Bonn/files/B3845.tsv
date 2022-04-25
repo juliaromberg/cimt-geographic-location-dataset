@@ -1,0 +1,81 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Dunkles Loch
+1-1	0-7	Dunkles	_	
+1-2	8-12	Loch	_	
+
+#Text=Wer von der Südbrücke kommt und zum Sträßchensweg will, muss hier völlig im Dunkeln und ohne ganz logische Wegführung einen sehr dunklen Bereich passieren, ehe es auf der Brücke über die Petra-Kelly-Allee wieder hell wird.
+2-1	15-18	Wer	_	
+2-2	19-22	von	*[5]	
+2-3	23-26	der	*[5]	
+2-4	27-36	Südbrücke	*[5]	
+2-5	37-42	kommt	*[5]	
+2-6	43-46	und	*[5]	
+2-7	47-50	zum	*[5]	
+2-8	51-64	Sträßchensweg	*[5]	
+2-9	65-69	will	_	
+2-10	69-70	,	_	
+2-11	71-75	muss	_	
+2-12	76-80	hier	_	
+2-13	81-87	völlig	_	
+2-14	88-90	im	_	
+2-15	91-98	Dunkeln	_	
+2-16	99-102	und	_	
+2-17	103-107	ohne	_	
+2-18	108-112	ganz	_	
+2-19	113-121	logische	_	
+2-20	122-132	Wegführung	_	
+2-21	133-138	einen	_	
+2-22	139-143	sehr	_	
+2-23	144-151	dunklen	_	
+2-24	152-159	Bereich	_	
+2-25	160-169	passieren	_	
+2-26	169-170	,	_	
+2-27	171-174	ehe	_	
+2-28	175-177	es	_	
+2-29	178-181	auf	*[6]	
+2-30	182-185	der	*[6]	
+2-31	186-192	Brücke	*[6]	
+2-32	193-197	über	*[6]	
+2-33	198-201	die	*[6]	
+2-34	202-219	Petra-Kelly-Allee	*[6]	
+2-35	220-226	wieder	_	
+2-36	227-231	hell	_	
+2-37	232-236	wird	_	
+2-38	236-237	.	_	
+
+#Text=Angesichts der Bedeutung dieser Wegpassage im Radwegenetz ist das unglaublich und zeigt, wie sehr die Stadt Bonn ihre Verkehrssicherungspflicht verletzt.
+3-1	238-248	Angesichts	_	
+3-2	249-252	der	_	
+3-3	253-262	Bedeutung	_	
+3-4	263-269	dieser	_	
+3-5	270-280	Wegpassage	_	
+3-6	281-283	im	_	
+3-7	284-295	Radwegenetz	_	
+3-8	296-299	ist	_	
+3-9	300-303	das	_	
+3-10	304-315	unglaublich	_	
+3-11	316-319	und	_	
+3-12	320-325	zeigt	_	
+3-13	325-326	,	_	
+3-14	327-330	wie	_	
+3-15	331-335	sehr	_	
+3-16	336-339	die	_	
+3-17	340-345	Stadt	_	
+3-18	346-350	Bonn	_	
+3-19	351-355	ihre	_	
+3-20	356-381	Verkehrssicherungspflicht	_	
+3-21	382-390	verletzt	_	
+3-22	390-391	.	_	
+
+#Text=Deshalb unbedingt beleuchten!!!
+4-1	392-399	Deshalb	_	
+4-2	400-409	unbedingt	_	
+4-3	410-420	beleuchten	_	
+4-4	420-421	!	_	
+4-5	421-422	!	_	
+4-6	422-423	!	_	

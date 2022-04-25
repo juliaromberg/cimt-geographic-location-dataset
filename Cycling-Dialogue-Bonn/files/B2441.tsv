@@ -1,0 +1,169 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=unklare Ampelanlage
+1-1	0-7	unklare	_	
+1-2	8-19	Ampelanlage	_	
+
+#Text=Im Zuge des benutzungspflichtigen Fuß- und Radwegs entlang der Burgstraße vom Aennchen komment fe lt eine Fahrradampel an der Kreuzung Winterstraße.
+2-1	22-24	Im	_	
+2-2	25-29	Zuge	_	
+2-3	30-33	des	_	
+2-4	34-55	benutzungspflichtigen	_	
+2-5	56-59	Fuß	_	
+2-6	59-60	-	_	
+2-7	61-64	und	_	
+2-8	65-72	Radwegs	_	
+2-9	73-80	entlang	*[10]	
+2-10	81-84	der	*[10]	
+2-11	85-95	Burgstraße	*[10]	
+2-12	96-99	vom	*[10]	
+2-13	100-108	Aennchen	*[10]	
+2-14	109-116	komment	*[10]	
+2-15	117-119	fe	_	
+2-16	120-122	lt	_	
+2-17	123-127	eine	_	
+2-18	128-140	Fahrradampel	_	
+2-19	141-143	an	*[11]	
+2-20	144-147	der	*[11]	
+2-21	148-156	Kreuzung	*[11]	
+2-22	157-169	Winterstraße	*[11]	
+2-23	169-170	.	_	
+
+#Text=Die Fußgängerampel ist von der markierten Radquerung aus nur schlecht einsehbar, wird aber üblicherweise beachtet.
+3-1	171-174	Die	_	
+3-2	175-189	Fußgängerampel	_	
+3-3	190-193	ist	_	
+3-4	194-197	von	_	
+3-5	198-201	der	_	
+3-6	202-212	markierten	_	
+3-7	213-223	Radquerung	_	
+3-8	224-227	aus	_	
+3-9	228-231	nur	_	
+3-10	232-240	schlecht	_	
+3-11	241-250	einsehbar	_	
+3-12	250-251	,	_	
+3-13	252-256	wird	_	
+3-14	257-261	aber	_	
+3-15	262-275	üblicherweise	_	
+3-16	276-284	beachtet	_	
+3-17	284-285	.	_	
+
+#Text=Fußgänger- und Fahrradfurt grenzen nicht aneinander, von daher ist lt. StVO die Fahrbahnampel zu beachten (daran hat sich im letzten Jahr auch nichts geändert, https://fahrradampel.de/ )
+4-1	286-295	Fußgänger	_	
+4-2	295-296	-	_	
+4-3	297-300	und	_	
+4-4	301-312	Fahrradfurt	_	
+4-5	313-320	grenzen	_	
+4-6	321-326	nicht	_	
+4-7	327-337	aneinander	_	
+4-8	337-338	,	_	
+4-9	339-342	von	_	
+4-10	343-348	daher	_	
+4-11	349-352	ist	_	
+4-12	353-355	lt	_	
+4-13	355-356	.	_	
+4-14	357-361	StVO	_	
+4-15	362-365	die	_	
+4-16	366-379	Fahrbahnampel	_	
+4-17	380-382	zu	_	
+4-18	383-391	beachten	_	
+4-19	392-393	(	_	
+4-20	393-398	daran	_	
+4-21	399-402	hat	_	
+4-22	403-407	sich	_	
+4-23	408-410	im	_	
+4-24	411-418	letzten	_	
+4-25	419-423	Jahr	_	
+4-26	424-428	auch	_	
+4-27	429-435	nichts	_	
+4-28	436-444	geändert	_	
+4-29	444-445	,	_	
+4-30	446-451	https	_	
+4-31	451-452	:	_	
+4-32	452-453	/	_	
+4-33	453-454	/	_	
+4-34	454-469	fahrradampel.de	_	
+4-35	469-470	/	_	
+4-36	471-472	)	_	
+
+#Text=Auf Höhe der Fahrbahnampel einige Meter vor der Fahrbahnquerung ist keine Haltelinie.
+5-1	473-476	Auf	_	
+5-2	477-481	Höhe	_	
+5-3	482-485	der	_	
+5-4	486-499	Fahrbahnampel	_	
+5-5	500-506	einige	_	
+5-6	507-512	Meter	_	
+5-7	513-516	vor	_	
+5-8	517-520	der	_	
+5-9	521-536	Fahrbahnquerung	_	
+5-10	537-540	ist	_	
+5-11	541-546	keine	_	
+5-12	547-557	Haltelinie	_	
+5-13	557-558	.	_	
+
+#Text=Hält man dort und beachtet die Fahrbahnampel, hat man eine schlechte Sichtbeziehung mit gleichzeitig anfahrenden Rechtsabbiegern.
+6-1	559-563	Hält	_	
+6-2	564-567	man	_	
+6-3	568-572	dort	_	
+6-4	573-576	und	_	
+6-5	577-585	beachtet	_	
+6-6	586-589	die	_	
+6-7	590-603	Fahrbahnampel	_	
+6-8	603-604	,	_	
+6-9	605-608	hat	_	
+6-10	609-612	man	_	
+6-11	613-617	eine	_	
+6-12	618-627	schlechte	_	
+6-13	628-642	Sichtbeziehung	_	
+6-14	643-646	mit	_	
+6-15	647-659	gleichzeitig	_	
+6-16	660-671	anfahrenden	_	
+6-17	672-687	Rechtsabbiegern	_	
+6-18	687-688	.	_	
+
+#Text=Ehrlich gesagt komme ich mir auch etwas dumm vor, wenn ich an dieser Stelle stehen bleibe.
+7-1	689-696	Ehrlich	_	
+7-2	697-703	gesagt	_	
+7-3	704-709	komme	_	
+7-4	710-713	ich	_	
+7-5	714-717	mir	_	
+7-6	718-722	auch	_	
+7-7	723-728	etwas	_	
+7-8	729-733	dumm	_	
+7-9	734-737	vor	_	
+7-10	737-738	,	_	
+7-11	739-743	wenn	_	
+7-12	744-747	ich	_	
+7-13	748-750	an	_	
+7-14	751-757	dieser	_	
+7-15	758-764	Stelle	_	
+7-16	765-771	stehen	_	
+7-17	772-778	bleibe	_	
+7-18	778-779	.	_	
+
+#Text=Zusätzlich sind Linksabbieger in die Pfarrer-Minartz-Straße auf Kreativität angewiesen, dies ist einfach nicht vorgesehen.
+8-1	780-790	Zusätzlich	_	
+8-2	791-795	sind	_	
+8-3	796-809	Linksabbieger	*[12]	
+8-4	810-812	in	*[12]	
+8-5	813-816	die	*[12]	
+8-6	817-839	Pfarrer-Minartz-Straße	*[12]	
+8-7	840-843	auf	_	
+8-8	844-855	Kreativität	_	
+8-9	856-866	angewiesen	_	
+8-10	866-867	,	_	
+8-11	868-872	dies	_	
+8-12	873-876	ist	_	
+8-13	877-884	einfach	_	
+8-14	885-890	nicht	_	
+8-15	891-901	vorgesehen	_	
+8-16	901-902	.	_	
+
+#Text=Bitte klären.
+9-1	903-908	Bitte	_	
+9-2	909-915	klären	_	
+9-3	915-916	.	_	

@@ -1,0 +1,34 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Übergang erleichtern, beschleunigen
+1-1	0-8	Übergang	_	
+1-2	9-20	erleichtern	_	
+1-3	20-21	,	_	
+1-4	22-35	beschleunigen	_	
+
+#Text=Hier müssen die Übergänge (Ampel) synchronisiert und optimiert werden.
+2-1	38-42	Hier	_	
+2-2	43-49	müssen	_	
+2-3	50-53	die	_	
+2-4	54-63	Übergänge	_	
+2-5	64-65	(	_	
+2-6	65-70	Ampel	_	
+2-7	70-71	)	_	
+2-8	72-86	synchronisiert	_	
+2-9	87-90	und	_	
+2-10	91-100	optimiert	_	
+2-11	101-107	werden	_	
+2-12	107-108	.	_	
+
+#Text=Unterführung oder Brücke wäre gute Lösung.
+3-1	109-121	Unterführung	_	
+3-2	122-126	oder	_	
+3-3	127-133	Brücke	_	
+3-4	134-138	wäre	_	
+3-5	139-143	gute	_	
+3-6	144-150	Lösung	_	
+3-7	150-151	.	_	

@@ -1,0 +1,62 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verbreiterung des Radweges rechtsrheinisch von der Kennedybrücke bis Oberkassel
+1-1	0-13	Verbreiterung	_	
+1-2	14-17	des	_	
+1-3	18-26	Radweges	*[4]	
+1-4	27-42	rechtsrheinisch	*[4]	
+1-5	43-46	von	*[4]	
+1-6	47-50	der	*[4]	
+1-7	51-64	Kennedybrücke	*[4]	
+1-8	65-68	bis	*[4]	
+1-9	69-79	Oberkassel	*[4]	
+
+#Text=Der rechtsrheinische Radweg ist eine der Hauptadern des Radverkehrs in Bonn sowohl als Weg zur Arbeit in der Woche, als auch am Wochenende.
+2-1	82-85	Der	_	
+2-2	86-102	rechtsrheinische	_	
+2-3	103-109	Radweg	_	
+2-4	110-113	ist	_	
+2-5	114-118	eine	_	
+2-6	119-122	der	_	
+2-7	123-133	Hauptadern	_	
+2-8	134-137	des	_	
+2-9	138-149	Radverkehrs	_	
+2-10	150-152	in	*[5]	
+2-11	153-157	Bonn	*[5]	
+2-12	158-164	sowohl	_	
+2-13	165-168	als	_	
+2-14	169-172	Weg	_	
+2-15	173-176	zur	_	
+2-16	177-183	Arbeit	_	
+2-17	184-186	in	_	
+2-18	187-190	der	_	
+2-19	191-196	Woche	_	
+2-20	196-197	,	_	
+2-21	198-201	als	_	
+2-22	202-206	auch	_	
+2-23	207-209	am	_	
+2-24	210-220	Wochenende	_	
+2-25	220-221	.	_	
+
+#Text=Der Weg sollte mindestens doppelt so breit wie bisher ausgebaut und mit entsprechenden Markierungen versehen werden.
+3-1	222-225	Der	_	
+3-2	226-229	Weg	_	
+3-3	230-236	sollte	_	
+3-4	237-247	mindestens	_	
+3-5	248-255	doppelt	_	
+3-6	256-258	so	_	
+3-7	259-264	breit	_	
+3-8	265-268	wie	_	
+3-9	269-275	bisher	_	
+3-10	276-285	ausgebaut	_	
+3-11	286-289	und	_	
+3-12	290-293	mit	_	
+3-13	294-308	entsprechenden	_	
+3-14	309-321	Markierungen	_	
+3-15	322-330	versehen	_	
+3-16	331-337	werden	_	
+3-17	337-338	.	_	

@@ -1,0 +1,126 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Inkonsistente Vorfahrtsregelung mit Kollisionsgefahr
+1-1	0-13	Inkonsistente	_	
+1-2	14-31	Vorfahrtsregelung	_	
+1-3	32-35	mit	_	
+1-4	36-52	Kollisionsgefahr	_	
+
+#Text=Fahre ich vom Radstreifen des Straßburger Wegs geradeaus weiter in die Jospeh-Beuys-Allee, steht dort für mich ein Schild Vorfahrt beachten, das suggeriert, dass entgegenkommende Linksabbieger warten müssen.
+2-1	55-60	Fahre	_	
+2-2	61-64	ich	_	
+2-3	65-68	vom	*[6]	
+2-4	69-80	Radstreifen	*[6]	
+2-5	81-84	des	*[6]	
+2-6	85-96	Straßburger	*[6]	
+2-7	97-101	Wegs	*[6]	
+2-8	102-111	geradeaus	*[6]	
+2-9	112-118	weiter	*[6]	
+2-10	119-121	in	*[6]	
+2-11	122-125	die	*[6]	
+2-12	126-144	Jospeh-Beuys-Allee	*[6]	
+2-13	144-145	,	_	
+2-14	146-151	steht	_	
+2-15	152-156	dort	_	
+2-16	157-160	für	_	
+2-17	161-165	mich	_	
+2-18	166-169	ein	_	
+2-19	170-176	Schild	_	
+2-20	177-185	Vorfahrt	_	
+2-21	186-194	beachten	_	
+2-22	194-195	,	_	
+2-23	196-199	das	_	
+2-24	200-210	suggeriert	_	
+2-25	210-211	,	_	
+2-26	212-216	dass	_	
+2-27	217-233	entgegenkommende	_	
+2-28	234-247	Linksabbieger	_	
+2-29	248-254	warten	_	
+2-30	255-261	müssen	_	
+2-31	261-262	.	_	
+
+#Text=Die entgegenkommenden Linksabbieger haben allerdings ein Schild Abknickende Vorfahrt und befinden sich auch exakt auf der abbiegenden Hauptstraße, wähnen sich also ebenfalls in der Vorfahrt.
+3-1	263-266	Die	_	
+3-2	267-284	entgegenkommenden	_	
+3-3	285-298	Linksabbieger	_	
+3-4	299-304	haben	_	
+3-5	305-315	allerdings	_	
+3-6	316-319	ein	_	
+3-7	320-326	Schild	_	
+3-8	327-338	Abknickende	_	
+3-9	339-347	Vorfahrt	_	
+3-10	348-351	und	_	
+3-11	352-360	befinden	_	
+3-12	361-365	sich	_	
+3-13	366-370	auch	_	
+3-14	371-376	exakt	_	
+3-15	377-380	auf	_	
+3-16	381-384	der	_	
+3-17	385-396	abbiegenden	_	
+3-18	397-408	Hauptstraße	_	
+3-19	408-409	,	_	
+3-20	410-416	wähnen	_	
+3-21	417-421	sich	_	
+3-22	422-426	also	_	
+3-23	427-436	ebenfalls	_	
+3-24	437-439	in	_	
+3-25	440-443	der	_	
+3-26	444-452	Vorfahrt	_	
+3-27	452-453	.	_	
+
+#Text=Es ist für mich ein Wunder, dass hier vor Beginn der UN-Campus-Bauarbeiten nicht täglich Unfälle passiert sind, an denen dann die Stadt Schuld hätte.
+4-1	454-456	Es	_	
+4-2	457-460	ist	_	
+4-3	461-464	für	_	
+4-4	465-469	mich	_	
+4-5	470-473	ein	_	
+4-6	474-480	Wunder	_	
+4-7	480-481	,	_	
+4-8	482-486	dass	_	
+4-9	487-491	hier	_	
+4-10	492-495	vor	_	
+4-11	496-502	Beginn	_	
+4-12	503-506	der	_	
+4-13	507-528	UN-Campus-Bauarbeiten	_	
+4-14	529-534	nicht	_	
+4-15	535-542	täglich	_	
+4-16	543-550	Unfälle	_	
+4-17	551-559	passiert	_	
+4-18	560-564	sind	_	
+4-19	564-565	,	_	
+4-20	566-568	an	_	
+4-21	569-574	denen	_	
+4-22	575-579	dann	_	
+4-23	580-583	die	_	
+4-24	584-589	Stadt	_	
+4-25	590-596	Schuld	_	
+4-26	597-602	hätte	_	
+4-27	602-603	.	_	
+
+#Text=Hier muss auf dem Radweg anstelle des Vorfahrt beachten-Schilds ebenfalls das Schild Abknickende Vorfahrt mit Verdeutlichung der tatsächlichen Regelung aufgestellt werden.
+5-1	604-608	Hier	_	
+5-2	609-613	muss	_	
+5-3	614-617	auf	_	
+5-4	618-621	dem	_	
+5-5	622-628	Radweg	_	
+5-6	629-637	anstelle	_	
+5-7	638-641	des	_	
+5-8	642-650	Vorfahrt	_	
+5-9	651-667	beachten-Schilds	_	
+5-10	668-677	ebenfalls	_	
+5-11	678-681	das	_	
+5-12	682-688	Schild	_	
+5-13	689-700	Abknickende	_	
+5-14	701-709	Vorfahrt	_	
+5-15	710-713	mit	_	
+5-16	714-728	Verdeutlichung	_	
+5-17	729-732	der	_	
+5-18	733-746	tatsächlichen	_	
+5-19	747-755	Regelung	_	
+5-20	756-767	aufgestellt	_	
+5-21	768-774	werden	_	
+5-22	774-775	.	_	

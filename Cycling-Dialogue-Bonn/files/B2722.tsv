@@ -1,0 +1,136 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bundeskanzlerplatz
+1-1	0-18	Bundeskanzlerplatz	*	
+
+#Text=Die Verkehrsführung am Bundeskanzlerplatz ist für Fahrradfahrer, Fußgänger und überhaupt jede Person ohne Auto katastrophal und folgt dem Leitbild der autogerechten Stadt aus den 50er Jahren des letzten Jahrhunderts.
+2-1	21-24	Die	_	
+2-2	25-40	Verkehrsführung	_	
+2-3	41-43	am	*[5]	
+2-4	44-62	Bundeskanzlerplatz	*[5]	
+2-5	63-66	ist	_	
+2-6	67-70	für	_	
+2-7	71-84	Fahrradfahrer	_	
+2-8	84-85	,	_	
+2-9	86-95	Fußgänger	_	
+2-10	96-99	und	_	
+2-11	100-109	überhaupt	_	
+2-12	110-114	jede	_	
+2-13	115-121	Person	_	
+2-14	122-126	ohne	_	
+2-15	127-131	Auto	_	
+2-16	132-144	katastrophal	_	
+2-17	145-148	und	_	
+2-18	149-154	folgt	_	
+2-19	155-158	dem	_	
+2-20	159-167	Leitbild	_	
+2-21	168-171	der	_	
+2-22	172-185	autogerechten	_	
+2-23	186-191	Stadt	_	
+2-24	192-195	aus	_	
+2-25	196-199	den	_	
+2-26	200-204	50er	_	
+2-27	205-211	Jahren	_	
+2-28	212-215	des	_	
+2-29	216-223	letzten	_	
+2-30	224-236	Jahrhunderts	_	
+2-31	236-237	.	_	
+
+#Text=Um z.B. von der Reuterstr. auf die B9 nordwärts, von der B9 nach Westen in die Reuterstr. oder einfach als Fußgänger von einer Straßenseite auf die andere zu kommen, sind große und zeitraubende Umwege nötig - und das im dichtbebauten Zentrum der Stadt.
+3-1	238-240	Um	_	
+3-2	241-244	z.B	_	
+3-3	244-245	.	_	
+3-4	246-249	von	*[6]	
+3-5	250-253	der	*[6]	
+3-6	254-263	Reuterstr	*[6]	
+3-7	263-264	.	*[6]	
+3-8	265-268	auf	*[6]	
+3-9	269-272	die	*[6]	
+3-10	273-275	B9	*[6]	
+3-11	276-285	nordwärts	*[6]	
+3-12	285-286	,	*[6]	
+3-13	287-290	von	*[6]	
+3-14	291-294	der	*[6]	
+3-15	295-297	B9	*[6]	
+3-16	298-302	nach	*[6]	
+3-17	303-309	Westen	*[6]	
+3-18	310-312	in	*[6]	
+3-19	313-316	die	*[6]	
+3-20	317-326	Reuterstr	*[6]	
+3-21	326-327	.	_	
+3-22	328-332	oder	_	
+3-23	333-340	einfach	_	
+3-24	341-344	als	_	
+3-25	345-354	Fußgänger	_	
+3-26	355-358	von	_	
+3-27	359-364	einer	_	
+3-28	365-377	Straßenseite	_	
+3-29	378-381	auf	_	
+3-30	382-385	die	_	
+3-31	386-392	andere	_	
+3-32	393-395	zu	_	
+3-33	396-402	kommen	_	
+3-34	402-403	,	_	
+3-35	404-408	sind	_	
+3-36	409-414	große	_	
+3-37	415-418	und	_	
+3-38	419-431	zeitraubende	_	
+3-39	432-438	Umwege	_	
+3-40	439-444	nötig	_	
+3-41	445-446	-	_	
+3-42	447-450	und	_	
+3-43	451-454	das	_	
+3-44	455-457	im	_	
+3-45	458-471	dichtbebauten	_	
+3-46	472-479	Zentrum	_	
+3-47	480-483	der	_	
+3-48	484-489	Stadt	_	
+3-49	489-490	.	_	
+
+#Text=Die B9 besitzt hier einen autobahnähnlichen Charakter und zerschneidet das gesamte Gebiet.
+4-1	491-494	Die	*[7]	
+4-2	495-497	B9	*[7]	
+4-3	498-505	besitzt	_	
+4-4	506-510	hier	_	
+4-5	511-516	einen	_	
+4-6	517-534	autobahnähnlichen	_	
+4-7	535-544	Charakter	_	
+4-8	545-548	und	_	
+4-9	549-561	zerschneidet	_	
+4-10	562-565	das	_	
+4-11	566-573	gesamte	_	
+4-12	574-580	Gebiet	_	
+4-13	580-581	.	_	
+
+#Text=Der Tunnel unterm Bundeskanzlerplatz sollte daher zugeschüttet und der Platz selbst zu einem Kreisverkehr umgestaltet werden, mit entsprechend breiten Wegen für die Fahrradfahrer und Fußgänger.
+5-1	582-585	Der	*[8]	
+5-2	586-592	Tunnel	*[8]	
+5-3	593-599	unterm	*[8]	
+5-4	600-618	Bundeskanzlerplatz	*[8]	
+5-5	619-625	sollte	_	
+5-6	626-631	daher	_	
+5-7	632-644	zugeschüttet	_	
+5-8	645-648	und	_	
+5-9	649-652	der	_	
+5-10	653-658	Platz	_	
+5-11	659-665	selbst	_	
+5-12	666-668	zu	_	
+5-13	669-674	einem	_	
+5-14	675-687	Kreisverkehr	_	
+5-15	688-699	umgestaltet	_	
+5-16	700-706	werden	_	
+5-17	706-707	,	_	
+5-18	708-711	mit	_	
+5-19	712-724	entsprechend	_	
+5-20	725-732	breiten	_	
+5-21	733-738	Wegen	_	
+5-22	739-742	für	_	
+5-23	743-746	die	_	
+5-24	747-760	Fahrradfahrer	_	
+5-25	761-764	und	_	
+5-26	765-774	Fußgänger	_	
+5-27	774-775	.	_	

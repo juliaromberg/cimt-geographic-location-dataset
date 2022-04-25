@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=geteilter Fußgänger und Radweg
+1-1	0-9	geteilter	_	
+1-2	10-19	Fußgänger	_	
+1-3	20-23	und	_	
+1-4	24-30	Radweg	_	
+
+#Text=An der Reuterstraße gibt es nur geteilte Rad-und Fußgängerwege.
+2-1	33-35	An	*[5]	
+2-2	36-39	der	*[5]	
+2-3	40-52	Reuterstraße	*[5]	
+2-4	53-57	gibt	_	
+2-5	58-60	es	_	
+2-6	61-64	nur	_	
+2-7	65-73	geteilte	_	
+2-8	74-81	Rad-und	_	
+2-9	82-95	Fußgängerwege	_	
+2-10	95-96	.	_	
+
+#Text=Das führt oft zu Hindernissen.
+3-1	97-100	Das	_	
+3-2	101-106	führt	_	
+3-3	107-110	oft	_	
+3-4	111-113	zu	_	
+3-5	114-126	Hindernissen	_	
+3-6	126-127	.	_	
+
+#Text=Um schnell zwischen Gronau und Endenich/Duisdorf zu pendeln, gibt es kaum Alternativen.
+4-1	128-130	Um	_	
+4-2	131-138	schnell	_	
+4-3	139-147	zwischen	*[6]	
+4-4	148-154	Gronau	*[6]	
+4-5	155-158	und	*[6]	
+4-6	159-167	Endenich	*[6]	
+4-7	167-168	/	*[6]	
+4-8	168-176	Duisdorf	*[6]	
+4-9	177-179	zu	_	
+4-10	180-187	pendeln	_	
+4-11	187-188	,	_	
+4-12	189-193	gibt	_	
+4-13	194-196	es	_	
+4-14	197-201	kaum	_	
+4-15	202-214	Alternativen	_	
+4-16	214-215	.	_	

@@ -1,0 +1,85 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Aufstellfläche für Radler auf der Kreuzung ohne Ampel?
+1-1	0-14	Aufstellfläche	_	
+1-2	15-18	für	_	
+1-3	19-25	Radler	_	
+1-4	26-29	auf	_	
+1-5	30-33	der	_	
+1-6	34-42	Kreuzung	_	
+1-7	43-47	ohne	_	
+1-8	48-53	Ampel	_	
+1-9	53-54	?	_	
+
+#Text=Ich versteh den Sinn der Fahrbahnmarkierung für Radler hier nicht ganz.
+2-1	57-60	Ich	_	
+2-2	61-68	versteh	_	
+2-3	69-72	den	_	
+2-4	73-77	Sinn	_	
+2-5	78-81	der	_	
+2-6	82-100	Fahrbahnmarkierung	_	
+2-7	101-104	für	_	
+2-8	105-111	Radler	_	
+2-9	112-116	hier	_	
+2-10	117-122	nicht	_	
+2-11	123-127	ganz	_	
+2-12	127-128	.	_	
+
+#Text=Nutzt man die Wartefläche an der Kreuzung, die wahrscheinlich vor die Autos gesetzt wurde damit man im Blickfeld der Autofahrer ist, gibt es keine Ampel mehr im Sichtfeld des Fahrradfahrers.
+3-1	129-134	Nutzt	_	
+3-2	135-138	man	_	
+3-3	139-142	die	_	
+3-4	143-154	Wartefläche	_	
+3-5	155-157	an	_	
+3-6	158-161	der	_	
+3-7	162-170	Kreuzung	_	
+3-8	170-171	,	_	
+3-9	172-175	die	_	
+3-10	176-190	wahrscheinlich	_	
+3-11	191-194	vor	_	
+3-12	195-198	die	_	
+3-13	199-204	Autos	_	
+3-14	205-212	gesetzt	_	
+3-15	213-218	wurde	_	
+3-16	219-224	damit	_	
+3-17	225-228	man	_	
+3-18	229-231	im	_	
+3-19	232-241	Blickfeld	_	
+3-20	242-245	der	_	
+3-21	246-256	Autofahrer	_	
+3-22	257-260	ist	_	
+3-23	260-261	,	_	
+3-24	262-266	gibt	_	
+3-25	267-269	es	_	
+3-26	270-275	keine	_	
+3-27	276-281	Ampel	_	
+3-28	282-286	mehr	_	
+3-29	287-289	im	_	
+3-30	290-299	Sichtfeld	_	
+3-31	300-303	des	_	
+3-32	304-318	Fahrradfahrers	_	
+3-33	318-319	.	_	
+
+#Text=Man kann nur anhand anderer Verkehrsteilnehmer raten, ob es grün oder rot ist....
+4-1	320-323	Man	_	
+4-2	324-328	kann	_	
+4-3	329-332	nur	_	
+4-4	333-339	anhand	_	
+4-5	340-347	anderer	_	
+4-6	348-366	Verkehrsteilnehmer	_	
+4-7	367-372	raten	_	
+4-8	372-373	,	_	
+4-9	374-376	ob	_	
+4-10	377-379	es	_	
+4-11	380-384	grün	_	
+4-12	385-389	oder	_	
+4-13	390-393	rot	_	
+4-14	394-397	ist	_	
+4-15	397-398	.	_	
+4-16	398-399	.	_	
+4-17	399-400	.	_	
+4-18	400-401	.	_	

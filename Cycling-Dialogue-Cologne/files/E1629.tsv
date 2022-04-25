@@ -1,0 +1,114 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegführung Venloerstraße zwischen Wilhelm-Mauser-Straße und Äußere Kanalstraße in beide Richtungen
+1-1	0-13	Radwegführung	_	
+1-2	14-27	Venloerstraße	*[5]	
+1-3	28-36	zwischen	*[5]	
+1-4	37-58	Wilhelm-Mauser-Straße	*[5]	
+1-5	59-62	und	*[5]	
+1-6	63-69	Äußere	*[5]	
+1-7	70-81	Kanalstraße	*[5]	
+1-8	82-84	in	_	
+1-9	85-90	beide	_	
+1-10	91-101	Richtungen	_	
+
+#Text=Auf dem Rad- und Fußweg entlang der Venloer Straße zwischen der Wilhelm-Mauser-Straße und der Äußeren Kanalstraße ist es deutlich zu eng.
+2-1	104-107	Auf	_	
+2-2	108-111	dem	_	
+2-3	112-115	Rad	_	
+2-4	115-116	-	_	
+2-5	117-120	und	_	
+2-6	121-127	Fußweg	_	
+2-7	128-135	entlang	*[6]	
+2-8	136-139	der	*[6]	
+2-9	140-147	Venloer	*[6]	
+2-10	148-154	Straße	*[6]	
+2-11	155-163	zwischen	*[6]	
+2-12	164-167	der	*[6]	
+2-13	168-189	Wilhelm-Mauser-Straße	*[6]	
+2-14	190-193	und	*[6]	
+2-15	194-197	der	*[6]	
+2-16	198-205	Äußeren	*[6]	
+2-17	206-217	Kanalstraße	*[6]	
+2-18	218-221	ist	_	
+2-19	222-224	es	_	
+2-20	225-233	deutlich	_	
+2-21	234-236	zu	_	
+2-22	237-240	eng	_	
+2-23	240-241	.	_	
+
+#Text=Durch die Bushaltestelle, die U-Bahn-Ein-/Ausgänge und die Fußgängerampel kommt es hier immer wieder zu Gedränge, vor allem im Bereich vor der Rochuskapelle.
+3-1	242-247	Durch	_	
+3-2	248-251	die	_	
+3-3	252-266	Bushaltestelle	_	
+3-4	266-267	,	_	
+3-5	268-271	die	_	
+3-6	272-282	U-Bahn-Ein	_	
+3-7	282-283	-	_	
+3-8	283-284	/	_	
+3-9	284-292	Ausgänge	_	
+3-10	293-296	und	_	
+3-11	297-300	die	_	
+3-12	301-315	Fußgängerampel	_	
+3-13	316-321	kommt	_	
+3-14	322-324	es	_	
+3-15	325-329	hier	_	
+3-16	330-335	immer	_	
+3-17	336-342	wieder	_	
+3-18	343-345	zu	_	
+3-19	346-354	Gedränge	_	
+3-20	354-355	,	_	
+3-21	356-359	vor	_	
+3-22	360-365	allem	_	
+3-23	366-368	im	*[7]	
+3-24	369-376	Bereich	*[7]	
+3-25	377-380	vor	*[7]	
+3-26	381-384	der	*[7]	
+3-27	385-398	Rochuskapelle	*[7]	
+3-28	398-399	.	_	
+
+#Text=Der Radweg sollte hier auf die Straße verlegt werden (wo er ja offiziell stadteinwärts auch weiter geht) und es sollte ein Tempolimit 20 km/h geben, weil es auch auf der Straße sehr eng ist.
+4-1	400-403	Der	_	
+4-2	404-410	Radweg	_	
+4-3	411-417	sollte	_	
+4-4	418-422	hier	_	
+4-5	423-426	auf	_	
+4-6	427-430	die	_	
+4-7	431-437	Straße	_	
+4-8	438-445	verlegt	_	
+4-9	446-452	werden	_	
+4-10	453-454	(	_	
+4-11	454-456	wo	_	
+4-12	457-459	er	_	
+4-13	460-462	ja	_	
+4-14	463-472	offiziell	_	
+4-15	473-486	stadteinwärts	_	
+4-16	487-491	auch	_	
+4-17	492-498	weiter	_	
+4-18	499-503	geht	_	
+4-19	503-504	)	_	
+4-20	505-508	und	_	
+4-21	509-511	es	_	
+4-22	512-518	sollte	_	
+4-23	519-522	ein	_	
+4-24	523-533	Tempolimit	_	
+4-25	534-536	20	_	
+4-26	537-539	km	_	
+4-27	539-540	/	_	
+4-28	540-541	h	_	
+4-29	542-547	geben	_	
+4-30	547-548	,	_	
+4-31	549-553	weil	_	
+4-32	554-556	es	_	
+4-33	557-561	auch	_	
+4-34	562-565	auf	_	
+4-35	566-569	der	_	
+4-36	570-576	Straße	_	
+4-37	577-581	sehr	_	
+4-38	582-585	eng	_	
+4-39	586-589	ist	_	
+4-40	589-590	.	_	

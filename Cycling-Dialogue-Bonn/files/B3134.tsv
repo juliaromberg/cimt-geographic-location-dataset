@@ -1,0 +1,27 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beschilderung
+1-1	0-13	Beschilderung	_	
+
+#Text=Ein benutzungspflichtiger Radweg in einer Tempo-30-Zone?
+2-1	16-19	Ein	_	
+2-2	20-41	benutzungspflichtiger	_	
+2-3	42-48	Radweg	_	
+2-4	49-51	in	_	
+2-5	52-57	einer	_	
+2-6	58-63	Tempo	_	
+2-7	63-64	-	_	
+2-8	64-66	30	_	
+2-9	66-67	-	_	
+2-10	67-71	Zone	_	
+2-11	71-72	?	_	
+
+#Text=Eigentlich illegale Beschilderung!
+3-1	73-83	Eigentlich	_	
+3-2	84-92	illegale	_	
+3-3	93-106	Beschilderung	_	
+3-4	106-107	!	_	

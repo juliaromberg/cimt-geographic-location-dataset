@@ -1,0 +1,99 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unnötige Schikane
+1-1	0-8	Unnötige	_	
+1-2	9-17	Schikane	_	
+
+#Text=Auf dem relativ neuen Fahrrad/Fuß-weg wurden an beiden Enden der Strecke Drängelgitter aufgestellt.
+2-1	20-23	Auf	_	
+2-2	24-27	dem	_	
+2-3	28-35	relativ	_	
+2-4	36-41	neuen	_	
+2-5	42-49	Fahrrad	_	
+2-6	49-50	/	_	
+2-7	50-57	Fuß-weg	_	
+2-8	58-64	wurden	_	
+2-9	65-67	an	_	
+2-10	68-74	beiden	_	
+2-11	75-80	Enden	_	
+2-12	81-84	der	_	
+2-13	85-92	Strecke	_	
+2-14	93-106	Drängelgitter	_	
+2-15	107-118	aufgestellt	_	
+2-16	118-119	.	_	
+
+#Text=Kein Mensch fährt da durch, sondern seitlich dran vorbei.
+3-1	120-124	Kein	_	
+3-2	125-131	Mensch	_	
+3-3	132-137	fährt	_	
+3-4	138-140	da	_	
+3-5	141-146	durch	_	
+3-6	146-147	,	_	
+3-7	148-155	sondern	_	
+3-8	156-164	seitlich	_	
+3-9	165-169	dran	_	
+3-10	170-176	vorbei	_	
+3-11	176-177	.	_	
+
+#Text=Fahrer mit Anhänger oder Fahrer von Liegerädern kommen da eh' nicht durch und haben gar keine andere Möglichkeit, als außen herum zu fahren.
+4-1	178-184	Fahrer	_	
+4-2	185-188	mit	_	
+4-3	189-197	Anhänger	_	
+4-4	198-202	oder	_	
+4-5	203-209	Fahrer	_	
+4-6	210-213	von	_	
+4-7	214-225	Liegerädern	_	
+4-8	226-232	kommen	_	
+4-9	233-235	da	_	
+4-10	236-238	eh	_	
+4-11	238-239	'	_	
+4-12	240-245	nicht	_	
+4-13	246-251	durch	_	
+4-14	252-255	und	_	
+4-15	256-261	haben	_	
+4-16	262-265	gar	_	
+4-17	266-271	keine	_	
+4-18	272-278	andere	_	
+4-19	279-290	Möglichkeit	_	
+4-20	290-291	,	_	
+4-21	292-295	als	_	
+4-22	296-301	außen	_	
+4-23	302-307	herum	_	
+4-24	308-310	zu	_	
+4-25	311-317	fahren	_	
+4-26	317-318	.	_	
+
+#Text=Genug Grünfläche ist hierfür ja vorhanden.
+5-1	319-324	Genug	_	
+5-2	325-335	Grünfläche	_	
+5-3	336-339	ist	_	
+5-4	340-347	hierfür	_	
+5-5	348-350	ja	_	
+5-6	351-360	vorhanden	_	
+5-7	360-361	.	_	
+
+#Text=Wenn man schon verhindern möchte, dass sich Autofahrer hierhin verirren, hätte es auch ein einfacher Poller getan.
+6-1	362-366	Wenn	_	
+6-2	367-370	man	_	
+6-3	371-376	schon	_	
+6-4	377-387	verhindern	_	
+6-5	388-394	möchte	_	
+6-6	394-395	,	_	
+6-7	396-400	dass	_	
+6-8	401-405	sich	_	
+6-9	406-416	Autofahrer	_	
+6-10	417-424	hierhin	_	
+6-11	425-433	verirren	_	
+6-12	433-434	,	_	
+6-13	435-440	hätte	_	
+6-14	441-443	es	_	
+6-15	444-448	auch	_	
+6-16	449-452	ein	_	
+6-17	453-462	einfacher	_	
+6-18	463-469	Poller	_	
+6-19	470-475	getan	_	
+6-20	475-476	.	_	

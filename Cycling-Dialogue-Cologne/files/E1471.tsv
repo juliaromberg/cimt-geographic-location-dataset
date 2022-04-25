@@ -1,0 +1,124 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verlängerung Radschutzstreifen zwischen Overbeckstr und Ampel Subbelrather Str.
+1-1	0-12	Verlängerung	_	
+1-2	13-30	Radschutzstreifen	_	
+1-3	31-39	zwischen	*[7]	
+1-4	40-51	Overbeckstr	*[7]	
+1-5	52-55	und	*[7]	
+1-6	56-61	Ampel	*[7]	
+1-7	62-74	Subbelrather	*[7]	
+1-8	75-78	Str	*[7]	
+1-9	78-79	.	*[7]	
+
+#Text=Auf der Liebigstraße in Richtung Subbelratherstr. wird man vom Radweg vor der Overbeckstr auf einen roten Radschutzstreifen geführt.
+2-1	82-85	Auf	*[8]	
+2-2	86-89	der	*[8]	
+2-3	90-102	Liebigstraße	*[8]	
+2-4	103-105	in	*[8]	
+2-5	106-114	Richtung	*[8]	
+2-6	115-130	Subbelratherstr	*[8]	
+2-7	130-131	.	*[8]	
+2-8	132-136	wird	_	
+2-9	137-140	man	_	
+2-10	141-144	vom	_	
+2-11	145-151	Radweg	*[9]	
+2-12	152-155	vor	*[9]	
+2-13	156-159	der	*[9]	
+2-14	160-171	Overbeckstr	*[9]	
+2-15	172-175	auf	_	
+2-16	176-181	einen	_	
+2-17	182-187	roten	_	
+2-18	188-205	Radschutzstreifen	_	
+2-19	206-213	geführt	_	
+2-20	213-214	.	_	
+
+#Text=Dieser endet aber nach einigen Metern, was dazu führt, dass die vor der Ampel wartenden Autos keinen Platz für vorbeifahrende Radfahrer lassen.
+3-1	215-221	Dieser	_	
+3-2	222-227	endet	_	
+3-3	228-232	aber	_	
+3-4	233-237	nach	_	
+3-5	238-245	einigen	_	
+3-6	246-252	Metern	_	
+3-7	252-253	,	_	
+3-8	254-257	was	_	
+3-9	258-262	dazu	_	
+3-10	263-268	führt	_	
+3-11	268-269	,	_	
+3-12	270-274	dass	_	
+3-13	275-278	die	_	
+3-14	279-282	vor	_	
+3-15	283-286	der	_	
+3-16	287-292	Ampel	_	
+3-17	293-302	wartenden	_	
+3-18	303-308	Autos	_	
+3-19	309-315	keinen	_	
+3-20	316-321	Platz	_	
+3-21	322-325	für	_	
+3-22	326-340	vorbeifahrende	_	
+3-23	341-350	Radfahrer	_	
+3-24	351-357	lassen	_	
+3-25	357-358	.	_	
+
+#Text=Besonders ärgerlich ist das zum Berufsverkehr, weil dann der Autoverkehr nicht auf die Subbelrather Str abfliesst.
+4-1	359-368	Besonders	_	
+4-2	369-378	ärgerlich	_	
+4-3	379-382	ist	_	
+4-4	383-386	das	_	
+4-5	387-390	zum	_	
+4-6	391-404	Berufsverkehr	_	
+4-7	404-405	,	_	
+4-8	406-410	weil	_	
+4-9	411-415	dann	_	
+4-10	416-419	der	_	
+4-11	420-431	Autoverkehr	_	
+4-12	432-437	nicht	_	
+4-13	438-441	auf	*[10]	
+4-14	442-445	die	*[10]	
+4-15	446-458	Subbelrather	*[10]	
+4-16	459-462	Str	*[10]	
+4-17	463-472	abfliesst	_	
+4-18	472-473	.	_	
+
+#Text=Dem Radfahrer bleibt nur die Wahl auf den Fussweg auszuweichen oder links an den Autos vorbeizufahren.
+5-1	474-477	Dem	_	
+5-2	478-487	Radfahrer	_	
+5-3	488-494	bleibt	_	
+5-4	495-498	nur	_	
+5-5	499-502	die	_	
+5-6	503-507	Wahl	_	
+5-7	508-511	auf	_	
+5-8	512-515	den	_	
+5-9	516-523	Fussweg	_	
+5-10	524-536	auszuweichen	_	
+5-11	537-541	oder	_	
+5-12	542-547	links	_	
+5-13	548-550	an	_	
+5-14	551-554	den	_	
+5-15	555-560	Autos	_	
+5-16	561-575	vorbeizufahren	_	
+5-17	575-576	.	_	
+
+#Text=Eine Verlängerung des Radschutzstreifens bis zur Ampel wäre eine einfache Lösung, den Radverkehr fließen zu lassen.
+6-1	577-581	Eine	_	
+6-2	582-594	Verlängerung	_	
+6-3	595-598	des	_	
+6-4	599-617	Radschutzstreifens	_	
+6-5	618-621	bis	_	
+6-6	622-625	zur	_	
+6-7	626-631	Ampel	_	
+6-8	632-636	wäre	_	
+6-9	637-641	eine	_	
+6-10	642-650	einfache	_	
+6-11	651-657	Lösung	_	
+6-12	657-658	,	_	
+6-13	659-662	den	_	
+6-14	663-673	Radverkehr	_	
+6-15	674-681	fließen	_	
+6-16	682-684	zu	_	
+6-17	685-691	lassen	_	
+6-18	691-692	.	_	

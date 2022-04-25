@@ -1,0 +1,136 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg/Fußgänger: Verengung durch rechtwinkelige Anlage bei Einfahrt in Kreisverkehr
+1-1	0-6	Radweg	_	
+1-2	6-7	/	_	
+1-3	7-16	Fußgänger	_	
+1-4	16-17	:	_	
+1-5	18-27	Verengung	_	
+1-6	28-33	durch	_	
+1-7	34-48	rechtwinkelige	_	
+1-8	49-55	Anlage	_	
+1-9	56-59	bei	_	
+1-10	60-68	Einfahrt	_	
+1-11	69-71	in	_	
+1-12	72-84	Kreisverkehr	_	
+
+#Text=Kreisverkehr Röttgen, nördlicher Ortsausgang: + die Neigung des Geländes Richtung Ückesdorf wurde zu wenig beachtet.
+2-1	87-99	Kreisverkehr	*[8]	
+2-2	100-107	Röttgen	*[8]	
+2-3	107-108	,	*[8]	
+2-4	109-119	nördlicher	*[8]	
+2-5	120-131	Ortsausgang	*[8]	
+2-6	131-132	:	_	
+2-7	133-134	+	_	
+2-8	135-138	die	_	
+2-9	139-146	Neigung	_	
+2-10	147-150	des	_	
+2-11	151-159	Geländes	_	
+2-12	160-168	Richtung	*[9]	
+2-13	169-178	Ückesdorf	*[9]	
+2-14	179-184	wurde	_	
+2-15	185-187	zu	_	
+2-16	188-193	wenig	_	
+2-17	194-202	beachtet	_	
+2-18	202-203	.	_	
+
+#Text=Der kombinierte Rad-/Fußweg verengt sich an der Einfahrt und der Ausfahrt, weil dort praktisch rechtwinkelig angelegt.
+3-1	204-207	Der	_	
+3-2	208-219	kombinierte	_	
+3-3	220-223	Rad	_	
+3-4	223-224	-	_	
+3-5	224-225	/	_	
+3-6	225-231	Fußweg	_	
+3-7	232-239	verengt	_	
+3-8	240-244	sich	_	
+3-9	245-247	an	_	
+3-10	248-251	der	_	
+3-11	252-260	Einfahrt	_	
+3-12	261-264	und	_	
+3-13	265-268	der	_	
+3-14	269-277	Ausfahrt	_	
+3-15	277-278	,	_	
+3-16	279-283	weil	_	
+3-17	284-288	dort	_	
+3-18	289-298	praktisch	_	
+3-19	299-312	rechtwinkelig	_	
+3-20	313-321	angelegt	_	
+3-21	321-322	.	_	
+
+#Text=Wenn man sich als Radler mit Fußgängern oder Radlern begegnet, wird es zu eng.
+4-1	323-327	Wenn	_	
+4-2	328-331	man	_	
+4-3	332-336	sich	_	
+4-4	337-340	als	_	
+4-5	341-347	Radler	_	
+4-6	348-351	mit	_	
+4-7	352-362	Fußgängern	_	
+4-8	363-367	oder	_	
+4-9	368-375	Radlern	_	
+4-10	376-384	begegnet	_	
+4-11	384-385	,	_	
+4-12	386-390	wird	_	
+4-13	391-393	es	_	
+4-14	394-396	zu	_	
+4-15	397-400	eng	_	
+4-16	400-401	.	_	
+
+#Text=Man muss auf diesem abschüssigem Gelände bergab in Richtung Ückesdorf auf Schritttempo abbremsen, da man sich sonst zu sehr in Schräglage befindet und mit Entgegenkommenden kollidieren würde.
+5-1	402-405	Man	_	
+5-2	406-410	muss	_	
+5-3	411-414	auf	_	
+5-4	415-421	diesem	_	
+5-5	422-434	abschüssigem	_	
+5-6	435-442	Gelände	_	
+5-7	443-449	bergab	_	
+5-8	450-452	in	_	
+5-9	453-461	Richtung	*[10]	
+5-10	462-471	Ückesdorf	*[10]	
+5-11	472-475	auf	_	
+5-12	476-488	Schritttempo	_	
+5-13	489-498	abbremsen	_	
+5-14	498-499	,	_	
+5-15	500-502	da	_	
+5-16	503-506	man	_	
+5-17	507-511	sich	_	
+5-18	512-517	sonst	_	
+5-19	518-520	zu	_	
+5-20	521-525	sehr	_	
+5-21	526-528	in	_	
+5-22	529-539	Schräglage	_	
+5-23	540-548	befindet	_	
+5-24	549-552	und	_	
+5-25	553-556	mit	_	
+5-26	557-574	Entgegenkommenden	_	
+5-27	575-586	kollidieren	_	
+5-28	587-592	würde	_	
+5-29	592-593	.	_	
+
+#Text=Selbst bei Schritttempo hat man leichte Schräglage.
+6-1	594-600	Selbst	_	
+6-2	601-604	bei	_	
+6-3	605-617	Schritttempo	_	
+6-4	618-621	hat	_	
+6-5	622-625	man	_	
+6-6	626-633	leichte	_	
+6-7	634-644	Schräglage	_	
+6-8	644-645	.	_	
+
+#Text=+ Die unbeschilderte Vorfahrtsregelung verunsichert regelmäßig viele Autofahrer, Radler und Fußgänger.
+7-1	646-647	+	_	
+7-2	648-651	Die	_	
+7-3	652-666	unbeschilderte	_	
+7-4	667-684	Vorfahrtsregelung	_	
+7-5	685-697	verunsichert	_	
+7-6	698-708	regelmäßig	_	
+7-7	709-714	viele	_	
+7-8	715-725	Autofahrer	_	
+7-9	725-726	,	_	
+7-10	727-733	Radler	_	
+7-11	734-737	und	_	
+7-12	738-747	Fußgänger	_	
+7-13	747-748	.	_	

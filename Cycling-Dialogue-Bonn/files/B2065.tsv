@@ -1,0 +1,202 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Reuterstraße untertunneln
+1-1	0-12	Reuterstraße	*	
+1-2	13-25	untertunneln	_	
+
+#Text=Eine Querung der Reuterstraße ist an vielen Kreuzungen radfahrend gar nicht möglich (z.B. Bonner Talweg nach Norden, Haussdorffstrasse nach Süden), sondern nur mit Absteigen und Nutzung von (teilweise mehreren) Fußgängerampeln.
+2-1	28-32	Eine	*[9]	
+2-2	33-40	Querung	*[9]	
+2-3	41-44	der	*[9]	
+2-4	45-57	Reuterstraße	*[9]	
+2-5	58-61	ist	_	
+2-6	62-64	an	_	
+2-7	65-71	vielen	_	
+2-8	72-82	Kreuzungen	_	
+2-9	83-93	radfahrend	_	
+2-10	94-97	gar	_	
+2-11	98-103	nicht	_	
+2-12	104-111	möglich	_	
+2-13	112-113	(	_	
+2-14	113-116	z.B	_	
+2-15	116-117	.	_	
+2-16	118-124	Bonner	*[10]	
+2-17	125-131	Talweg	*[10]	
+2-18	132-136	nach	*[10]	
+2-19	137-143	Norden	*[10]	
+2-20	143-144	,	*[10]	
+2-21	145-162	Haussdorffstrasse	*[10]	
+2-22	163-167	nach	*[10]	
+2-23	168-173	Süden	*[10]	
+2-24	173-174	)	_	
+2-25	174-175	,	_	
+2-26	176-183	sondern	_	
+2-27	184-187	nur	_	
+2-28	188-191	mit	_	
+2-29	192-201	Absteigen	_	
+2-30	202-205	und	_	
+2-31	206-213	Nutzung	_	
+2-32	214-217	von	_	
+2-33	218-219	(	_	
+2-34	219-228	teilweise	_	
+2-35	229-237	mehreren	_	
+2-36	237-238	)	_	
+2-37	239-254	Fußgängerampeln	_	
+2-38	254-255	.	_	
+
+#Text=Da ich nicht glaube, dass die Belastung der Reuterstraße durch den KFZ-Verkehr zukünftig zurückgehen wird, sehe ich keine Lösungsmöglichkeiten über die Verkehrsführung (z.B. Installation einer schnellen Querungsmöglichkeit für Radler mittels zusätzlichem Überwegs).
+3-1	256-258	Da	_	
+3-2	259-262	ich	_	
+3-3	263-268	nicht	_	
+3-4	269-275	glaube	_	
+3-5	275-276	,	_	
+3-6	277-281	dass	_	
+3-7	282-285	die	_	
+3-8	286-295	Belastung	_	
+3-9	296-299	der	_	
+3-10	300-312	Reuterstraße	*	
+3-11	313-318	durch	_	
+3-12	319-322	den	_	
+3-13	323-334	KFZ-Verkehr	_	
+3-14	335-344	zukünftig	_	
+3-15	345-356	zurückgehen	_	
+3-16	357-361	wird	_	
+3-17	361-362	,	_	
+3-18	363-367	sehe	_	
+3-19	368-371	ich	_	
+3-20	372-377	keine	_	
+3-21	378-398	Lösungsmöglichkeiten	_	
+3-22	399-403	über	_	
+3-23	404-407	die	_	
+3-24	408-423	Verkehrsführung	_	
+3-25	424-425	(	_	
+3-26	425-428	z.B	_	
+3-27	428-429	.	_	
+3-28	430-442	Installation	_	
+3-29	443-448	einer	_	
+3-30	449-458	schnellen	_	
+3-31	459-478	Querungsmöglichkeit	_	
+3-32	479-482	für	_	
+3-33	483-489	Radler	_	
+3-34	490-497	mittels	_	
+3-35	498-510	zusätzlichem	_	
+3-36	511-519	Überwegs	_	
+3-37	519-520	)	_	
+3-38	520-521	.	_	
+
+#Text=Vor Jahren gab es einmal einen Fußgängertunnel für die Kreuzung Haussdorffstrasse/Reuterstrasse, aber dieser war für Radler kaum zugänglich und wurde schließlich auch zurück gebaut.
+4-1	522-525	Vor	_	
+4-2	526-532	Jahren	_	
+4-3	533-536	gab	_	
+4-4	537-539	es	_	
+4-5	540-546	einmal	_	
+4-6	547-552	einen	_	
+4-7	553-568	Fußgängertunnel	_	
+4-8	569-572	für	_	
+4-9	573-576	die	*[11]	
+4-10	577-585	Kreuzung	*[11]	
+4-11	586-603	Haussdorffstrasse	*[11]	
+4-12	603-604	/	*[11]	
+4-13	604-617	Reuterstrasse	*[11]	
+4-14	617-618	,	_	
+4-15	619-623	aber	_	
+4-16	624-630	dieser	_	
+4-17	631-634	war	_	
+4-18	635-638	für	_	
+4-19	639-645	Radler	_	
+4-20	646-650	kaum	_	
+4-21	651-661	zugänglich	_	
+4-22	662-665	und	_	
+4-23	666-671	wurde	_	
+4-24	672-683	schließlich	_	
+4-25	684-688	auch	_	
+4-26	689-695	zurück	_	
+4-27	696-702	gebaut	_	
+4-28	702-703	.	_	
+
+#Text=Im ehemaligen Regierungsviertel entsteht ein neues Bürogebäude nach dem anderen.
+5-1	704-706	Im	*[12]	
+5-2	707-717	ehemaligen	*[12]	
+5-3	718-735	Regierungsviertel	*[12]	
+5-4	736-744	entsteht	_	
+5-5	745-748	ein	_	
+5-6	749-754	neues	_	
+5-7	755-766	Bürogebäude	_	
+5-8	767-771	nach	_	
+5-9	772-775	dem	_	
+5-10	776-783	anderen	_	
+5-11	783-784	.	_	
+
+#Text=Ich glaube, um dem steigenden Verkehrsaufkommen Herr zu werden, wird man um eine Untertunnelung der gesamten Reuterstraße nicht herumkommen (Vor dem Autobahnende Poppelsdorf unter die Erde und frühestens am Bundeskanzlerplatz wieder raus).
+6-1	785-788	Ich	_	
+6-2	789-795	glaube	_	
+6-3	795-796	,	_	
+6-4	797-799	um	_	
+6-5	800-803	dem	_	
+6-6	804-814	steigenden	_	
+6-7	815-832	Verkehrsaufkommen	_	
+6-8	833-837	Herr	_	
+6-9	838-840	zu	_	
+6-10	841-847	werden	_	
+6-11	847-848	,	_	
+6-12	849-853	wird	_	
+6-13	854-857	man	_	
+6-14	858-860	um	_	
+6-15	861-865	eine	_	
+6-16	866-880	Untertunnelung	_	
+6-17	881-884	der	_	
+6-18	885-893	gesamten	*[13]	
+6-19	894-906	Reuterstraße	*[13]	
+6-20	907-912	nicht	_	
+6-21	913-924	herumkommen	_	
+6-22	925-926	(	_	
+6-23	926-929	Vor	*[14]	
+6-24	930-933	dem	*[14]	
+6-25	934-946	Autobahnende	*[14]	
+6-26	947-958	Poppelsdorf	*[14]	
+6-27	959-964	unter	*[14]	
+6-28	965-968	die	*[14]	
+6-29	969-973	Erde	*[14]	
+6-30	974-977	und	*[14]	
+6-31	978-988	frühestens	*[14]	
+6-32	989-991	am	*[14]	
+6-33	992-1010	Bundeskanzlerplatz	*[14]	
+6-34	1011-1017	wieder	*[14]	
+6-35	1018-1022	raus	*[14]	
+6-36	1022-1023	)	_	
+6-37	1023-1024	.	_	
+
+#Text=Möchte denn jemand den Godesberger Tunnel wieder los werden?
+7-1	1025-1031	Möchte	_	
+7-2	1032-1036	denn	_	
+7-3	1037-1043	jemand	_	
+7-4	1044-1047	den	_	
+7-5	1048-1059	Godesberger	*[15]	
+7-6	1060-1066	Tunnel	*[15]	
+7-7	1067-1073	wieder	_	
+7-8	1074-1077	los	_	
+7-9	1078-1084	werden	_	
+7-10	1084-1085	?	_	
+
+#Text=Lieben die Bewohner der Argelanderstraße zwischen Reuterstraße und Lotharstraße ihre täglichen qualmenden Blechlawinen vor der Haustür?
+8-1	1086-1092	Lieben	_	
+8-2	1093-1096	die	_	
+8-3	1097-1105	Bewohner	_	
+8-4	1106-1109	der	_	
+8-5	1110-1126	Argelanderstraße	*[16]	
+8-6	1127-1135	zwischen	*[16]	
+8-7	1136-1148	Reuterstraße	*[16]	
+8-8	1149-1152	und	*[16]	
+8-9	1153-1165	Lotharstraße	*[16]	
+8-10	1166-1170	ihre	_	
+8-11	1171-1180	täglichen	_	
+8-12	1181-1191	qualmenden	_	
+8-13	1192-1204	Blechlawinen	_	
+8-14	1205-1208	vor	_	
+8-15	1209-1212	der	_	
+8-16	1213-1220	Haustür	_	
+8-17	1220-1221	?	_	

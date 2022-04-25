@@ -1,0 +1,187 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hier braucht es einen Radweg
+1-1	0-4	Hier	_	
+1-2	5-12	braucht	_	
+1-3	13-15	es	_	
+1-4	16-21	einen	_	
+1-5	22-28	Radweg	_	
+
+#Text=Der Fußgängerweg ist hier an einigen Stellen breiter als notwendig.
+2-1	31-34	Der	_	
+2-2	35-47	Fußgängerweg	_	
+2-3	48-51	ist	_	
+2-4	52-56	hier	_	
+2-5	57-59	an	_	
+2-6	60-67	einigen	_	
+2-7	68-75	Stellen	_	
+2-8	76-83	breiter	_	
+2-9	84-87	als	_	
+2-10	88-97	notwendig	_	
+2-11	97-98	.	_	
+
+#Text=Wenn man diese Stellen etwas zurückbauen würde, könnte man meiner Meinung nach hier einen Radweg bauen.
+3-1	99-103	Wenn	_	
+3-2	104-107	man	_	
+3-3	108-113	diese	_	
+3-4	114-121	Stellen	_	
+3-5	122-127	etwas	_	
+3-6	128-139	zurückbauen	_	
+3-7	140-145	würde	_	
+3-8	145-146	,	_	
+3-9	147-153	könnte	_	
+3-10	154-157	man	_	
+3-11	158-164	meiner	_	
+3-12	165-172	Meinung	_	
+3-13	173-177	nach	_	
+3-14	178-182	hier	_	
+3-15	183-188	einen	_	
+3-16	189-195	Radweg	_	
+3-17	196-201	bauen	_	
+3-18	201-202	.	_	
+
+#Text=Die Stelle ist ungemein gefährlich, weil Radfahrer, die aus Richtung Pastoratsgasse kommen direkt in den Gegenverkehr geleitet werden.
+4-1	203-206	Die	_	
+4-2	207-213	Stelle	_	
+4-3	214-217	ist	_	
+4-4	218-226	ungemein	_	
+4-5	227-237	gefährlich	_	
+4-6	237-238	,	_	
+4-7	239-243	weil	_	
+4-8	244-253	Radfahrer	_	
+4-9	253-254	,	_	
+4-10	255-258	die	_	
+4-11	259-262	aus	*[12]	
+4-12	263-271	Richtung	*[12]	
+4-13	272-286	Pastoratsgasse	*[12]	
+4-14	287-293	kommen	*[12]	
+4-15	294-300	direkt	_	
+4-16	301-303	in	_	
+4-17	304-307	den	_	
+4-18	308-320	Gegenverkehr	_	
+4-19	321-329	geleitet	_	
+4-20	330-336	werden	_	
+4-21	336-337	.	_	
+
+#Text=Und das, obwohl hier oft auch Busse unterwegs sind.
+5-1	338-341	Und	_	
+5-2	342-345	das	_	
+5-3	345-346	,	_	
+5-4	347-353	obwohl	_	
+5-5	354-358	hier	_	
+5-6	359-362	oft	_	
+5-7	363-367	auch	_	
+5-8	368-373	Busse	_	
+5-9	374-383	unterwegs	_	
+5-10	384-388	sind	_	
+5-11	388-389	.	_	
+
+#Text=Die an einigen Stellen in die Straße hinein verlängerte Bordsteinkante stellt eine große Sturzgefahr da.
+6-1	390-393	Die	_	
+6-2	394-396	an	_	
+6-3	397-404	einigen	_	
+6-4	405-412	Stellen	_	
+6-5	413-415	in	_	
+6-6	416-419	die	_	
+6-7	420-426	Straße	_	
+6-8	427-433	hinein	_	
+6-9	434-445	verlängerte	_	
+6-10	446-460	Bordsteinkante	_	
+6-11	461-467	stellt	_	
+6-12	468-472	eine	_	
+6-13	473-478	große	_	
+6-14	479-490	Sturzgefahr	_	
+6-15	491-493	da	_	
+6-16	493-494	.	_	
+
+#Text=Dazu kommt noch der wechselnde Straßenbelag zwischen Asphalt und Pflastersteinen.
+7-1	495-499	Dazu	_	
+7-2	500-505	kommt	_	
+7-3	506-510	noch	_	
+7-4	511-514	der	_	
+7-5	515-525	wechselnde	_	
+7-6	526-538	Straßenbelag	_	
+7-7	539-547	zwischen	_	
+7-8	548-555	Asphalt	_	
+7-9	556-559	und	_	
+7-10	560-575	Pflastersteinen	_	
+7-11	575-576	.	_	
+
+#Text=Ehrlich gesagt wundert es mich, dass es hier nicht regelmäßig zu schweren Unfällen kommt.
+8-1	577-584	Ehrlich	_	
+8-2	585-591	gesagt	_	
+8-3	592-599	wundert	_	
+8-4	600-602	es	_	
+8-5	603-607	mich	_	
+8-6	607-608	,	_	
+8-7	609-613	dass	_	
+8-8	614-616	es	_	
+8-9	617-621	hier	_	
+8-10	622-627	nicht	_	
+8-11	628-638	regelmäßig	_	
+8-12	639-641	zu	_	
+8-13	642-650	schweren	_	
+8-14	651-659	Unfällen	_	
+8-15	660-665	kommt	_	
+8-16	665-666	.	_	
+
+#Text=Dazu kommt eine verwirrende Beschilderung.
+9-1	667-671	Dazu	_	
+9-2	672-677	kommt	_	
+9-3	678-682	eine	_	
+9-4	683-694	verwirrende	_	
+9-5	695-708	Beschilderung	_	
+9-6	708-709	.	_	
+
+#Text=Für Autofahrer, die aus Richtung Springmaus/Rex-Kino kommen, sieht es wegen eines EInbahnstraßenschilds so aus, als könnten sie nur rechts fahren in der Frongasse bleibend) und nicht links in die Brahmsstraße abbiegen.
+10-1	710-713	Für	_	
+10-2	714-724	Autofahrer	_	
+10-3	724-725	,	_	
+10-4	726-729	die	_	
+10-5	730-733	aus	*[13]	
+10-6	734-742	Richtung	*[13]	
+10-7	743-753	Springmaus	*[13]	
+10-8	753-754	/	*[13]	
+10-9	754-762	Rex-Kino	*[13]	
+10-10	763-769	kommen	*[13]	
+10-11	769-770	,	_	
+10-12	771-776	sieht	_	
+10-13	777-779	es	_	
+10-14	780-785	wegen	_	
+10-15	786-791	eines	_	
+10-16	792-813	EInbahnstraßenschilds	_	
+10-17	814-816	so	_	
+10-18	817-820	aus	_	
+10-19	820-821	,	_	
+10-20	822-825	als	_	
+10-21	826-833	könnten	_	
+10-22	834-837	sie	_	
+10-23	838-841	nur	_	
+10-24	842-848	rechts	_	
+10-25	849-855	fahren	_	
+10-26	856-858	in	_	
+10-27	859-862	der	_	
+10-28	863-872	Frongasse	_	
+10-29	873-881	bleibend	_	
+10-30	881-882	)	_	
+10-31	883-886	und	_	
+10-32	887-892	nicht	_	
+10-33	893-898	links	_	
+10-34	899-901	in	_	
+10-35	902-905	die	_	
+10-36	906-918	Brahmsstraße	_	
+10-37	919-927	abbiegen	_	
+10-38	927-928	.	_	
+
+#Text=Hier gibt es wirklich großen Handlungsbedarf.
+11-1	929-933	Hier	_	
+11-2	934-938	gibt	_	
+11-3	939-941	es	_	
+11-4	942-950	wirklich	_	
+11-5	951-957	großen	_	
+11-6	958-973	Handlungsbedarf	_	
+11-7	973-974	.	_	

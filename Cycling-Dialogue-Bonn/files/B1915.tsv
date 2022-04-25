@@ -1,0 +1,71 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Bodenwelle (Wurzel?)
+1-1	0-11	Gefährliche	_	
+1-2	12-22	Bodenwelle	_	
+1-3	23-24	(	_	
+1-4	24-30	Wurzel	_	
+1-5	30-31	?	_	
+1-6	31-32	)	_	
+
+#Text=Hallo, von Ramersdorf kommend ist auf der linken Brückenseite nach Überquerung des Rheins abwärts - noch bevor man links in die Rheinaue abbiegen kann eine Bodenwelle, die zumindest für ungefederte Fahrräder (bei mir Rennrad) recht gefährlich ist.
+2-1	35-40	Hallo	_	
+2-2	40-41	,	_	
+2-3	42-45	von	*[4]	
+2-4	46-56	Ramersdorf	*[4]	
+2-5	57-64	kommend	*[4]	
+2-6	65-68	ist	_	
+2-7	69-72	auf	_	
+2-8	73-76	der	_	
+2-9	77-83	linken	_	
+2-10	84-96	Brückenseite	_	
+2-11	97-101	nach	_	
+2-12	102-113	Überquerung	_	
+2-13	114-117	des	_	
+2-14	118-124	Rheins	_	
+2-15	125-132	abwärts	_	
+2-16	133-134	-	_	
+2-17	135-139	noch	_	
+2-18	140-145	bevor	_	
+2-19	146-149	man	_	
+2-20	150-155	links	*[5]	
+2-21	156-158	in	*[5]	
+2-22	159-162	die	*[5]	
+2-23	163-171	Rheinaue	*[5]	
+2-24	172-180	abbiegen	*[5]	
+2-25	181-185	kann	_	
+2-26	186-190	eine	_	
+2-27	191-201	Bodenwelle	_	
+2-28	201-202	,	_	
+2-29	203-206	die	_	
+2-30	207-216	zumindest	_	
+2-31	217-220	für	_	
+2-32	221-232	ungefederte	_	
+2-33	233-242	Fahrräder	_	
+2-34	243-244	(	_	
+2-35	244-247	bei	_	
+2-36	248-251	mir	_	
+2-37	252-259	Rennrad	_	
+2-38	259-260	)	_	
+2-39	261-266	recht	_	
+2-40	267-277	gefährlich	_	
+2-41	278-281	ist	_	
+2-42	281-282	.	_	
+
+#Text=Wäre schon, wenn das geebnet werden könnte bevor Jemand verunfallt.
+3-1	283-287	Wäre	_	
+3-2	288-293	schon	_	
+3-3	293-294	,	_	
+3-4	295-299	wenn	_	
+3-5	300-303	das	_	
+3-6	304-311	geebnet	_	
+3-7	312-318	werden	_	
+3-8	319-325	könnte	_	
+3-9	326-331	bevor	_	
+3-10	332-338	Jemand	_	
+3-11	339-349	verunfallt	_	
+3-12	349-350	.	_	

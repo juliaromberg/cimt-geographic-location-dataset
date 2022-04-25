@@ -1,0 +1,104 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schutzstreifen als Warnhinweis auf den Radverkehr im Bereich der Kurve in der Einbahnstraße
+1-1	0-14	Schutzstreifen	_	
+1-2	15-18	als	_	
+1-3	19-30	Warnhinweis	_	
+1-4	31-34	auf	_	
+1-5	35-38	den	_	
+1-6	39-49	Radverkehr	_	
+1-7	50-52	im	_	
+1-8	53-60	Bereich	_	
+1-9	61-64	der	_	
+1-10	65-70	Kurve	_	
+1-11	71-73	in	_	
+1-12	74-77	der	_	
+1-13	78-91	Einbahnstraße	_	
+
+#Text=Die Straße ist als Einbahnstraße in Gegenrichtung für Räder freigegeben.
+2-1	94-97	Die	_	
+2-2	98-104	Straße	_	
+2-3	105-108	ist	_	
+2-4	109-112	als	_	
+2-5	113-126	Einbahnstraße	_	
+2-6	127-129	in	_	
+2-7	130-143	Gegenrichtung	_	
+2-8	144-147	für	_	
+2-9	148-153	Räder	_	
+2-10	154-165	freigegeben	_	
+2-11	165-166	.	_	
+
+#Text=Autofahrer fahren hier aber meist weit links und auch oft zu schnell und rechnen nicht mit entgegenkommenden Radfahrern, die sie wegen der Kurve auch gar nicht sehen können.
+3-1	167-177	Autofahrer	_	
+3-2	178-184	fahren	_	
+3-3	185-189	hier	_	
+3-4	190-194	aber	_	
+3-5	195-200	meist	_	
+3-6	201-205	weit	_	
+3-7	206-211	links	_	
+3-8	212-215	und	_	
+3-9	216-220	auch	_	
+3-10	221-224	oft	_	
+3-11	225-227	zu	_	
+3-12	228-235	schnell	_	
+3-13	236-239	und	_	
+3-14	240-247	rechnen	_	
+3-15	248-253	nicht	_	
+3-16	254-257	mit	_	
+3-17	258-275	entgegenkommenden	_	
+3-18	276-286	Radfahrern	_	
+3-19	286-287	,	_	
+3-20	288-291	die	_	
+3-21	292-295	sie	_	
+3-22	296-301	wegen	_	
+3-23	302-305	der	_	
+3-24	306-311	Kurve	_	
+3-25	312-316	auch	_	
+3-26	317-320	gar	_	
+3-27	321-326	nicht	_	
+3-28	327-332	sehen	_	
+3-29	333-339	können	_	
+3-30	339-340	.	_	
+
+#Text=Das Sichtfahrgebot wird hier häufig von Autofahrern missachtet.
+4-1	341-344	Das	_	
+4-2	345-359	Sichtfahrgebot	_	
+4-3	360-364	wird	_	
+4-4	365-369	hier	_	
+4-5	370-376	häufig	_	
+4-6	377-380	von	_	
+4-7	381-392	Autofahrern	_	
+4-8	393-403	missachtet	_	
+4-9	403-404	.	_	
+
+#Text=Die könnte durch die Markierung eines entsprechenden Schutzstreifen in Gegenrichtung im Bereich vor (aus Sicht des Autofahrers) und in der Kurve entschärft werden.
+5-1	405-408	Die	_	
+5-2	409-415	könnte	_	
+5-3	416-421	durch	_	
+5-4	422-425	die	_	
+5-5	426-436	Markierung	_	
+5-6	437-442	eines	_	
+5-7	443-457	entsprechenden	_	
+5-8	458-472	Schutzstreifen	_	
+5-9	473-475	in	_	
+5-10	476-489	Gegenrichtung	_	
+5-11	490-492	im	_	
+5-12	493-500	Bereich	_	
+5-13	501-504	vor	_	
+5-14	505-506	(	_	
+5-15	506-509	aus	_	
+5-16	510-515	Sicht	_	
+5-17	516-519	des	_	
+5-18	520-531	Autofahrers	_	
+5-19	531-532	)	_	
+5-20	533-536	und	_	
+5-21	537-539	in	_	
+5-22	540-543	der	_	
+5-23	544-549	Kurve	_	
+5-24	550-560	entschärft	_	
+5-25	561-567	werden	_	
+5-26	567-568	.	_	

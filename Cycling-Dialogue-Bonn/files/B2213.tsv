@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Drängelgitter abbauen
+1-1	0-13	Drängelgitter	_	
+1-2	14-21	abbauen	_	
+
+#Text=Das Drängelgitter behindert die Durchfahrt, insbesondere mit Anhänger und sollte abgebaut werden oder zumindest durchlässiger aufgestellt werden.
+2-1	24-27	Das	_	
+2-2	28-41	Drängelgitter	_	
+2-3	42-51	behindert	_	
+2-4	52-55	die	_	
+2-5	56-66	Durchfahrt	_	
+2-6	66-67	,	_	
+2-7	68-80	insbesondere	_	
+2-8	81-84	mit	_	
+2-9	85-93	Anhänger	_	
+2-10	94-97	und	_	
+2-11	98-104	sollte	_	
+2-12	105-113	abgebaut	_	
+2-13	114-120	werden	_	
+2-14	121-125	oder	_	
+2-15	126-135	zumindest	_	
+2-16	136-149	durchlässiger	_	
+2-17	150-161	aufgestellt	_	
+2-18	162-168	werden	_	
+2-19	168-169	.	_	

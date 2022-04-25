@@ -1,0 +1,228 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Entschärfung Gefahrensituation Ausfahrten Bornheimer Straße
+1-1	0-12	Entschärfung	_	
+1-2	13-30	Gefahrensituation	_	
+1-3	31-41	Ausfahrten	*[10]	
+1-4	42-52	Bornheimer	*[10]	
+1-5	53-59	Straße	*[10]	
+
+#Text=Der Gehweg der Bornheimer Straße ist ab Autohaus [Name entfernt] bis zur Kreuzung Lievelingsweg (bei Feuerwache) durch entsprechende Beschilderung als geteilter Radweg ausgewiesen.
+2-1	62-65	Der	*[11]	
+2-2	66-72	Gehweg	*[11]	
+2-3	73-76	der	*[11]	
+2-4	77-87	Bornheimer	*[11]	
+2-5	88-94	Straße	*[11]	
+2-6	95-98	ist	_	
+2-7	99-101	ab	_	
+2-8	102-110	Autohaus	_	
+2-9	111-112	[	_	
+2-10	112-116	Name	_	
+2-11	117-125	entfernt	_	
+2-12	125-126	]	_	
+2-13	127-130	bis	*[12]	
+2-14	131-134	zur	*[12]	
+2-15	135-143	Kreuzung	*[12]	
+2-16	144-157	Lievelingsweg	*[12]	
+2-17	158-159	(	*[12]	
+2-18	159-162	bei	*[12]	
+2-19	163-173	Feuerwache	*[12]	
+2-20	173-174	)	_	
+2-21	175-180	durch	_	
+2-22	181-194	entsprechende	_	
+2-23	195-208	Beschilderung	_	
+2-24	209-212	als	_	
+2-25	213-222	geteilter	_	
+2-26	223-229	Radweg	_	
+2-27	230-241	ausgewiesen	_	
+2-28	241-242	.	_	
+
+#Text=An den Ausfahrten der Autohäuser, insbesondere [Name Schnellrestaurant entfernt] & [Name Schnellrestaurant entfernt] ist nicht ersichtlich, dass es sich auch um einen Radweg handelt und Vorfahrt habende Radfahrer mit ca. 15 km/h von links angefahren kommen.
+3-1	243-245	An	_	
+3-2	246-249	den	_	
+3-3	250-260	Ausfahrten	_	
+3-4	261-264	der	_	
+3-5	265-275	Autohäuser	_	
+3-6	275-276	,	_	
+3-7	277-289	insbesondere	_	
+3-8	290-291	[	_	
+3-9	291-295	Name	_	
+3-10	296-313	Schnellrestaurant	_	
+3-11	314-322	entfernt	_	
+3-12	322-323	]	_	
+3-13	324-325	&	_	
+3-14	326-327	[	_	
+3-15	327-331	Name	_	
+3-16	332-349	Schnellrestaurant	_	
+3-17	350-358	entfernt	_	
+3-18	358-359	]	_	
+3-19	360-363	ist	_	
+3-20	364-369	nicht	_	
+3-21	370-381	ersichtlich	_	
+3-22	381-382	,	_	
+3-23	383-387	dass	_	
+3-24	388-390	es	_	
+3-25	391-395	sich	_	
+3-26	396-400	auch	_	
+3-27	401-403	um	_	
+3-28	404-409	einen	_	
+3-29	410-416	Radweg	_	
+3-30	417-424	handelt	_	
+3-31	425-428	und	_	
+3-32	429-437	Vorfahrt	_	
+3-33	438-445	habende	_	
+3-34	446-455	Radfahrer	_	
+3-35	456-459	mit	_	
+3-36	460-462	ca	_	
+3-37	462-463	.	_	
+3-38	464-466	15	_	
+3-39	467-469	km	_	
+3-40	469-470	/	_	
+3-41	470-471	h	_	
+3-42	472-475	von	_	
+3-43	476-481	links	_	
+3-44	482-492	angefahren	_	
+3-45	493-499	kommen	_	
+3-46	499-500	.	_	
+
+#Text=Ich erlebte hier schon mehrmals Fastunfälle (und einen Unfall), insbesondere vor [Name Schnellrestaurant entfernt] .
+4-1	501-504	Ich	_	
+4-2	505-512	erlebte	_	
+4-3	513-517	hier	_	
+4-4	518-523	schon	_	
+4-5	524-532	mehrmals	_	
+4-6	533-544	Fastunfälle	_	
+4-7	545-546	(	_	
+4-8	546-549	und	_	
+4-9	550-555	einen	_	
+4-10	556-562	Unfall	_	
+4-11	562-563	)	_	
+4-12	563-564	,	_	
+4-13	565-577	insbesondere	_	
+4-14	578-581	vor	_	
+4-15	582-583	[	_	
+4-16	583-587	Name	_	
+4-17	588-605	Schnellrestaurant	_	
+4-18	606-614	entfernt	_	
+4-19	614-615	]	_	
+4-20	616-617	.	_	
+
+#Text=Radfahrer auf dem Bürgersteig sind wegen sichtverdeckender Werbung erst unmittelbar am Bürgersteig für aus [Name Schnellrestaurant entfernt] herausfahrende Autofahrer wahrnehmbar, siehe https://goo.gl/P5JT8Y
+5-1	618-627	Radfahrer	_	
+5-2	628-631	auf	_	
+5-3	632-635	dem	_	
+5-4	636-647	Bürgersteig	_	
+5-5	648-652	sind	_	
+5-6	653-658	wegen	_	
+5-7	659-676	sichtverdeckender	_	
+5-8	677-684	Werbung	_	
+5-9	685-689	erst	_	
+5-10	690-701	unmittelbar	_	
+5-11	702-704	am	_	
+5-12	705-716	Bürgersteig	_	
+5-13	717-720	für	_	
+5-14	721-724	aus	_	
+5-15	725-726	[	_	
+5-16	726-730	Name	_	
+5-17	731-748	Schnellrestaurant	_	
+5-18	749-757	entfernt	_	
+5-19	757-758	]	_	
+5-20	759-773	herausfahrende	_	
+5-21	774-784	Autofahrer	_	
+5-22	785-796	wahrnehmbar	_	
+5-23	796-797	,	_	
+5-24	798-803	siehe	_	
+5-25	804-809	https	_	
+5-26	809-810	:	_	
+5-27	810-811	/	_	
+5-28	811-812	/	_	
+5-29	812-818	goo.gl	_	
+5-30	818-819	/	_	
+5-31	819-825	P5JT8Y	_	
+
+#Text=Bei [Name Schnellrestaurant entfernt] gibt es seltener Fastunfälle, da mehr Fahrzeuge über deren zweite Ausfahrt direkt in den Lievelingsweg rausfahren.
+6-1	826-829	Bei	_	
+6-2	830-831	[	_	
+6-3	831-835	Name	_	
+6-4	836-853	Schnellrestaurant	_	
+6-5	854-862	entfernt	_	
+6-6	862-863	]	_	
+6-7	864-868	gibt	_	
+6-8	869-871	es	_	
+6-9	872-880	seltener	_	
+6-10	881-892	Fastunfälle	_	
+6-11	892-893	,	_	
+6-12	894-896	da	_	
+6-13	897-901	mehr	_	
+6-14	902-911	Fahrzeuge	_	
+6-15	912-916	über	_	
+6-16	917-922	deren	_	
+6-17	923-929	zweite	_	
+6-18	930-938	Ausfahrt	_	
+6-19	939-945	direkt	_	
+6-20	946-948	in	_	
+6-21	949-952	den	_	
+6-22	953-966	Lievelingsweg	_	
+6-23	967-977	rausfahren	_	
+6-24	977-978	.	_	
+
+#Text=Der Radweg müsste an den Ausfahrten farblich deutlich erkennbarer sein.
+7-1	979-982	Der	_	
+7-2	983-989	Radweg	_	
+7-3	990-996	müsste	_	
+7-4	997-999	an	_	
+7-5	1000-1003	den	_	
+7-6	1004-1014	Ausfahrten	_	
+7-7	1015-1023	farblich	_	
+7-8	1024-1032	deutlich	_	
+7-9	1033-1044	erkennbarer	_	
+7-10	1045-1049	sein	_	
+7-11	1049-1050	.	_	
+
+#Text=Bei [Name Schnellrestaurant entfernt] & [Name Schnellrestaurant entfernt] sollte zudem Schilder (Achtung Radfahrer) und Konvexspiegel aufgestellt werden.
+8-1	1051-1054	Bei	_	
+8-2	1055-1056	[	_	
+8-3	1056-1060	Name	_	
+8-4	1061-1078	Schnellrestaurant	_	
+8-5	1079-1087	entfernt	_	
+8-6	1087-1088	]	_	
+8-7	1089-1090	&	_	
+8-8	1091-1092	[	_	
+8-9	1092-1096	Name	_	
+8-10	1097-1114	Schnellrestaurant	_	
+8-11	1115-1123	entfernt	_	
+8-12	1123-1124	]	_	
+8-13	1125-1131	sollte	_	
+8-14	1132-1137	zudem	_	
+8-15	1138-1146	Schilder	_	
+8-16	1147-1148	(	_	
+8-17	1148-1155	Achtung	_	
+8-18	1156-1165	Radfahrer	_	
+8-19	1165-1166	)	_	
+8-20	1167-1170	und	_	
+8-21	1171-1184	Konvexspiegel	_	
+8-22	1185-1196	aufgestellt	_	
+8-23	1197-1203	werden	_	
+8-24	1203-1204	.	_	
+
+#Text=Konvexspiegel kommen in unübersichtlichen Knotenpunkten, Kurven oder Grundstücksausfahrten zur Anwendung und verbessern dort die Sichtverhältnisse
+9-1	1205-1218	Konvexspiegel	_	
+9-2	1219-1225	kommen	_	
+9-3	1226-1228	in	_	
+9-4	1229-1246	unübersichtlichen	_	
+9-5	1247-1260	Knotenpunkten	_	
+9-6	1260-1261	,	_	
+9-7	1262-1268	Kurven	_	
+9-8	1269-1273	oder	_	
+9-9	1274-1295	Grundstücksausfahrten	_	
+9-10	1296-1299	zur	_	
+9-11	1300-1309	Anwendung	_	
+9-12	1310-1313	und	_	
+9-13	1314-1324	verbessern	_	
+9-14	1325-1329	dort	_	
+9-15	1330-1333	die	_	
+9-16	1334-1351	Sichtverhältnisse	_	

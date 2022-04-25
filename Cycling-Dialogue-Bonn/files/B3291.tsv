@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstraße durchgehend freigeben
+1-1	0-13	Einbahnstraße	_	
+1-2	14-25	durchgehend	_	
+1-3	26-35	freigeben	_	
+
+#Text=Die Abtstraße ist als Einbahnstraße fast durchgehend für den Radverkehr in beide Richtungen freigegeben, außer auf dem kleinen Teilstück zwischen Schnufertsberg und Baguettestraße.
+2-1	38-41	Die	*[6]	
+2-2	42-51	Abtstraße	*[6]	
+2-3	52-55	ist	_	
+2-4	56-59	als	_	
+2-5	60-73	Einbahnstraße	_	
+2-6	74-78	fast	_	
+2-7	79-90	durchgehend	_	
+2-8	91-94	für	_	
+2-9	95-98	den	_	
+2-10	99-109	Radverkehr	_	
+2-11	110-112	in	_	
+2-12	113-118	beide	_	
+2-13	119-129	Richtungen	_	
+2-14	130-141	freigegeben	_	
+2-15	141-142	,	_	
+2-16	143-148	außer	_	
+2-17	149-152	auf	*[7]	
+2-18	153-156	dem	*[7]	
+2-19	157-164	kleinen	*[7]	
+2-20	165-174	Teilstück	*[7]	
+2-21	175-183	zwischen	*[7]	
+2-22	184-198	Schnufertsberg	*[7]	
+2-23	199-202	und	*[7]	
+2-24	203-217	Baguettestraße	*[7]	
+2-25	217-218	.	_	
+
+#Text=Kann dieses Stück ebenfalls freigegeben werden?
+3-1	219-223	Kann	_	
+3-2	224-230	dieses	_	
+3-3	231-236	Stück	_	
+3-4	237-246	ebenfalls	_	
+3-5	247-258	freigegeben	_	
+3-6	259-265	werden	_	
+3-7	265-266	?	_	
+
+#Text=Die Engstelle sollte in meinen Augen kein Problem darstellen.
+4-1	267-270	Die	_	
+4-2	271-280	Engstelle	_	
+4-3	281-287	sollte	_	
+4-4	288-290	in	_	
+4-5	291-297	meinen	_	
+4-6	298-303	Augen	_	
+4-7	304-308	kein	_	
+4-8	309-316	Problem	_	
+4-9	317-327	darstellen	_	
+4-10	327-328	.	_	
+
+#Text=Die ebenfalls komplett freigegebene Geislarstraße z.B. ist an vielen Stellen durch parkende Pkws deutlich enger.
+5-1	329-332	Die	_	
+5-2	333-342	ebenfalls	_	
+5-3	343-351	komplett	_	
+5-4	352-364	freigegebene	_	
+5-5	365-378	Geislarstraße	*	
+5-6	379-382	z.B	_	
+5-7	382-383	.	_	
+5-8	384-387	ist	_	
+5-9	388-390	an	_	
+5-10	391-397	vielen	_	
+5-11	398-405	Stellen	_	
+5-12	406-411	durch	_	
+5-13	412-420	parkende	_	
+5-14	421-425	Pkws	_	
+5-15	426-434	deutlich	_	
+5-16	435-440	enger	_	
+5-17	440-441	.	_	

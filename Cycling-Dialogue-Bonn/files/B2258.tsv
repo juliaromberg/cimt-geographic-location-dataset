@@ -1,0 +1,171 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=SUV-Fettsucht eindämmen: Parkstände an der neuzubauenden Römerstraße von 2,15m auf 2m umplanen, dadurch gewonnene Flächen dem Radstreifen zuschlagen
+1-1	0-13	SUV-Fettsucht	_	
+1-2	14-23	eindämmen	_	
+1-3	23-24	:	_	
+1-4	25-35	Parkstände	_	
+1-5	36-38	an	*[10]	
+1-6	39-42	der	*[10]	
+1-7	43-56	neuzubauenden	*[10]	
+1-8	57-68	Römerstraße	*[10]	
+1-9	69-72	von	_	
+1-10	73-78	2,15m	_	
+1-11	79-82	auf	_	
+1-12	83-85	2m	_	
+1-13	86-94	umplanen	_	
+1-14	94-95	,	_	
+1-15	96-103	dadurch	_	
+1-16	104-113	gewonnene	_	
+1-17	114-121	Flächen	_	
+1-18	122-125	dem	_	
+1-19	126-137	Radstreifen	_	
+1-20	138-148	zuschlagen	_	
+
+#Text=Bisher waren Parktaschen immer 2 m breit.
+2-1	151-157	Bisher	_	
+2-2	158-163	waren	_	
+2-3	164-175	Parktaschen	_	
+2-4	176-181	immer	_	
+2-5	182-183	2	_	
+2-6	184-185	m	_	
+2-7	186-191	breit	_	
+2-8	191-192	.	_	
+
+#Text=Siehe z.B. Ausbaupläne Königswinterer Straße ( im Bonner Ratsinformationssystem BORIS zu finden).
+3-1	193-198	Siehe	_	
+3-2	199-202	z.B	_	
+3-3	202-203	.	_	
+3-4	204-215	Ausbaupläne	_	
+3-5	216-230	Königswinterer	*[11]	
+3-6	231-237	Straße	*[11]	
+3-7	238-239	(	_	
+3-8	240-242	im	_	
+3-9	243-249	Bonner	_	
+3-10	250-272	Ratsinformationssystem	_	
+3-11	273-278	BORIS	_	
+3-12	279-281	zu	_	
+3-13	282-288	finden	_	
+3-14	288-289	)	_	
+3-15	289-290	.	_	
+
+#Text=Beim künftigen Ausbau der Römerstraße sollen nun aber laut den Plänen im BORIS 2,15 breite Parkstände eingerichtet werden.
+4-1	291-295	Beim	_	
+4-2	296-305	künftigen	_	
+4-3	306-312	Ausbau	_	
+4-4	313-316	der	_	
+4-5	317-328	Römerstraße	*	
+4-6	329-335	sollen	_	
+4-7	336-339	nun	_	
+4-8	340-344	aber	_	
+4-9	345-349	laut	_	
+4-10	350-353	den	_	
+4-11	354-360	Plänen	_	
+4-12	361-363	im	_	
+4-13	364-369	BORIS	_	
+4-14	370-374	2,15	_	
+4-15	375-381	breite	_	
+4-16	382-392	Parkstände	_	
+4-17	393-405	eingerichtet	_	
+4-18	406-412	werden	_	
+4-19	412-413	.	_	
+
+#Text=Wahrscheinlich, weil die Autos immer fetter werden.
+5-1	414-428	Wahrscheinlich	_	
+5-2	428-429	,	_	
+5-3	430-434	weil	_	
+5-4	435-438	die	_	
+5-5	439-444	Autos	_	
+5-6	445-450	immer	_	
+5-7	451-457	fetter	_	
+5-8	458-464	werden	_	
+5-9	464-465	.	_	
+
+#Text=Bzw, nur noch die fetten gekauft werden.
+6-1	466-469	Bzw	_	
+6-2	469-470	,	_	
+6-3	471-474	nur	_	
+6-4	475-479	noch	_	
+6-5	480-483	die	_	
+6-6	484-490	fetten	_	
+6-7	491-498	gekauft	_	
+6-8	499-505	werden	_	
+6-9	505-506	.	_	
+
+#Text=Diese Flächen werden Fußhängern und Radfahren jetzt auch noch zusätzlich weggenommen, als wenn die Belagerung durch rumstehende und fahrende Autos nicht schon.
+7-1	507-512	Diese	_	
+7-2	513-520	Flächen	_	
+7-3	521-527	werden	_	
+7-4	528-538	Fußhängern	_	
+7-5	539-542	und	_	
+7-6	543-552	Radfahren	_	
+7-7	553-558	jetzt	_	
+7-8	559-563	auch	_	
+7-9	564-568	noch	_	
+7-10	569-579	zusätzlich	_	
+7-11	580-591	weggenommen	_	
+7-12	591-592	,	_	
+7-13	593-596	als	_	
+7-14	597-601	wenn	_	
+7-15	602-605	die	_	
+7-16	606-616	Belagerung	_	
+7-17	617-622	durch	_	
+7-18	623-634	rumstehende	_	
+7-19	635-638	und	_	
+7-20	639-647	fahrende	_	
+7-21	648-653	Autos	_	
+7-22	654-659	nicht	_	
+7-23	660-665	schon	_	
+7-24	665-666	.	_	
+
+#Text=Und die rücksichtslosen Ignoranten, die solche Autos fahren, werden jetzt auch noch durch breitere Parkplätze belohnt?
+8-1	667-670	Und	_	
+8-2	671-674	die	_	
+8-3	675-690	rücksichtslosen	_	
+8-4	691-701	Ignoranten	_	
+8-5	701-702	,	_	
+8-6	703-706	die	_	
+8-7	707-713	solche	_	
+8-8	714-719	Autos	_	
+8-9	720-726	fahren	_	
+8-10	726-727	,	_	
+8-11	728-734	werden	_	
+8-12	735-740	jetzt	_	
+8-13	741-745	auch	_	
+8-14	746-750	noch	_	
+8-15	751-756	durch	_	
+8-16	757-765	breitere	_	
+8-17	766-776	Parkplätze	_	
+8-18	777-784	belohnt	_	
+8-19	784-785	?	_	
+
+#Text=Als konsequente UN-Klimagedönsstadt sowie Bundesfahrradhauptstadt sollte man die Breiten so beibehalten wie bisher und zu breite, über die Parkflächen hinausragende Fahrzeuge konsequent abschleppen.
+9-1	786-789	Als	_	
+9-2	790-801	konsequente	_	
+9-3	802-821	UN-Klimagedönsstadt	_	
+9-4	822-827	sowie	_	
+9-5	828-851	Bundesfahrradhauptstadt	_	
+9-6	852-858	sollte	_	
+9-7	859-862	man	_	
+9-8	863-866	die	_	
+9-9	867-874	Breiten	_	
+9-10	875-877	so	_	
+9-11	878-889	beibehalten	_	
+9-12	890-893	wie	_	
+9-13	894-900	bisher	_	
+9-14	901-904	und	_	
+9-15	905-907	zu	_	
+9-16	908-914	breite	_	
+9-17	914-915	,	_	
+9-18	916-920	über	_	
+9-19	921-924	die	_	
+9-20	925-936	Parkflächen	_	
+9-21	937-950	hinausragende	_	
+9-22	951-960	Fahrzeuge	_	
+9-23	961-971	konsequent	_	
+9-24	972-983	abschleppen	_	
+9-25	983-984	.	_	

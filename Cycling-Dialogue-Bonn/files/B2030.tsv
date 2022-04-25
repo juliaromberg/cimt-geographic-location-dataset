@@ -1,0 +1,237 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schaffung einer geradlinigen Verbindung vom der Autobahnunterführung zur Ecke Henriettenstraße/An den Steinen
+1-1	0-9	Schaffung	_	
+1-2	10-15	einer	_	
+1-3	16-28	geradlinigen	_	
+1-4	29-39	Verbindung	_	
+1-5	40-43	vom	_	
+1-6	44-47	der	_	
+1-7	48-68	Autobahnunterführung	_	
+1-8	69-72	zur	*[10]	
+1-9	73-77	Ecke	*[10]	
+1-10	78-94	Henriettenstraße	*[10]	
+1-11	94-95	/	*[10]	
+1-12	95-97	An	*[10]	
+1-13	98-101	den	*[10]	
+1-14	102-109	Steinen	*[10]	
+
+#Text=Östliches Ende der Unterführung A565 und die Einmündung Henriettenstraße/An den Steinen liegen auf gleicher Höhe.
+2-1	112-121	Östliches	*[11]	
+2-2	122-126	Ende	*[11]	
+2-3	127-130	der	*[11]	
+2-4	131-143	Unterführung	*[11]	
+2-5	144-148	A565	*[11]	
+2-6	149-152	und	*[11]	
+2-7	153-156	die	*[11]	
+2-8	157-167	Einmündung	*[11]	
+2-9	168-184	Henriettenstraße	*[11]	
+2-10	184-185	/	*[11]	
+2-11	185-187	An	*[11]	
+2-12	188-191	den	*[11]	
+2-13	192-199	Steinen	*[11]	
+2-14	200-206	liegen	_	
+2-15	207-210	auf	_	
+2-16	211-219	gleicher	_	
+2-17	220-224	Höhe	_	
+2-18	224-225	.	_	
+
+#Text=Derzeit muss man aus Richtung Ückesdorf ca. 6 Höhenmeter bergab fahren, fast bis zum Stillstand abbremsen und eine spitzwinklige Ecke umrunden um dann wieder 6 Höhenmeter bergaufzufahren um in Richtung Brüser Berg (Nahversorgung) zu kommen.
+3-1	226-233	Derzeit	_	
+3-2	234-238	muss	_	
+3-3	239-242	man	_	
+3-4	243-246	aus	*[12]	
+3-5	247-255	Richtung	*[12]	
+3-6	256-265	Ückesdorf	*[12]	
+3-7	266-268	ca	_	
+3-8	268-269	.	_	
+3-9	270-271	6	_	
+3-10	272-282	Höhenmeter	_	
+3-11	283-289	bergab	_	
+3-12	290-296	fahren	_	
+3-13	296-297	,	_	
+3-14	298-302	fast	_	
+3-15	303-306	bis	_	
+3-16	307-310	zum	_	
+3-17	311-321	Stillstand	_	
+3-18	322-331	abbremsen	_	
+3-19	332-335	und	_	
+3-20	336-340	eine	_	
+3-21	341-354	spitzwinklige	_	
+3-22	355-359	Ecke	_	
+3-23	360-368	umrunden	_	
+3-24	369-371	um	_	
+3-25	372-376	dann	_	
+3-26	377-383	wieder	_	
+3-27	384-385	6	_	
+3-28	386-396	Höhenmeter	_	
+3-29	397-412	bergaufzufahren	_	
+3-30	413-415	um	_	
+3-31	416-418	in	*[13]	
+3-32	419-427	Richtung	*[13]	
+3-33	428-434	Brüser	*[13]	
+3-34	435-439	Berg	*[13]	
+3-35	440-441	(	_	
+3-36	441-454	Nahversorgung	_	
+3-37	454-455	)	_	
+3-38	456-458	zu	_	
+3-39	459-465	kommen	_	
+3-40	465-466	.	_	
+
+#Text=Das ist total unnötig, da man eigentlich auch auf der gleichen Höhe bleiben könnte.
+4-1	467-470	Das	_	
+4-2	471-474	ist	_	
+4-3	475-480	total	_	
+4-4	481-488	unnötig	_	
+4-5	488-489	,	_	
+4-6	490-492	da	_	
+4-7	493-496	man	_	
+4-8	497-507	eigentlich	_	
+4-9	508-512	auch	_	
+4-10	513-516	auf	_	
+4-11	517-520	der	_	
+4-12	521-529	gleichen	_	
+4-13	530-534	Höhe	_	
+4-14	535-542	bleiben	_	
+4-15	543-549	könnte	_	
+4-16	549-550	.	_	
+
+#Text=Daher einfach einen neuen, breiten Weg durch die Büsche schlagen und den anderen Weg zurückbauen.
+5-1	551-556	Daher	_	
+5-2	557-564	einfach	_	
+5-3	565-570	einen	_	
+5-4	571-576	neuen	_	
+5-5	576-577	,	_	
+5-6	578-585	breiten	_	
+5-7	586-589	Weg	_	
+5-8	590-595	durch	_	
+5-9	596-599	die	_	
+5-10	600-606	Büsche	_	
+5-11	607-615	schlagen	_	
+5-12	616-619	und	_	
+5-13	620-623	den	_	
+5-14	624-631	anderen	_	
+5-15	632-635	Weg	_	
+5-16	636-647	zurückbauen	_	
+5-17	647-648	.	_	
+
+#Text=Das hätte auch den angenehmen Nebeneffekt, dass die finstere Ecke dort ein wenig heller wird und nicht so ein zugewachsener Angstraum ist.
+6-1	649-652	Das	_	
+6-2	653-658	hätte	_	
+6-3	659-663	auch	_	
+6-4	664-667	den	_	
+6-5	668-678	angenehmen	_	
+6-6	679-690	Nebeneffekt	_	
+6-7	690-691	,	_	
+6-8	692-696	dass	_	
+6-9	697-700	die	_	
+6-10	701-709	finstere	_	
+6-11	710-714	Ecke	_	
+6-12	715-719	dort	_	
+6-13	720-723	ein	_	
+6-14	724-729	wenig	_	
+6-15	730-736	heller	_	
+6-16	737-741	wird	_	
+6-17	742-745	und	_	
+6-18	746-751	nicht	_	
+6-19	752-754	so	_	
+6-20	755-758	ein	_	
+6-21	759-772	zugewachsener	_	
+6-22	773-782	Angstraum	_	
+6-23	783-786	ist	_	
+6-24	786-787	.	_	
+
+#Text=Vielleicht einfach mal im Bereich der gesamten Unterführung ein bisschen Gehölz wegnehmen und Wiesenflächen für die Insekten schaffen.
+7-1	788-798	Vielleicht	_	
+7-2	799-806	einfach	_	
+7-3	807-810	mal	_	
+7-4	811-813	im	_	
+7-5	814-821	Bereich	_	
+7-6	822-825	der	_	
+7-7	826-834	gesamten	_	
+7-8	835-847	Unterführung	_	
+7-9	848-851	ein	_	
+7-10	852-860	bisschen	_	
+7-11	861-867	Gehölz	_	
+7-12	868-877	wegnehmen	_	
+7-13	878-881	und	_	
+7-14	882-895	Wiesenflächen	_	
+7-15	896-899	für	_	
+7-16	900-903	die	_	
+7-17	904-912	Insekten	_	
+7-18	913-921	schaffen	_	
+7-19	921-922	.	_	
+
+#Text=So würden auch viel mehr Leute (z.B. Frauen) zu Fuß oder mit dem Rad aus Ückesdorf zum Brüser Berg zum Einkaufen kommen, statt mit dem Auto zum Lidl und Edeka an der Baskesthalle zu fahren und die Luft verpesten.
+8-1	923-925	So	_	
+8-2	926-932	würden	_	
+8-3	933-937	auch	_	
+8-4	938-942	viel	_	
+8-5	943-947	mehr	_	
+8-6	948-953	Leute	_	
+8-7	954-955	(	_	
+8-8	955-958	z.B	_	
+8-9	958-959	.	_	
+8-10	960-966	Frauen	_	
+8-11	966-967	)	_	
+8-12	968-970	zu	_	
+8-13	971-974	Fuß	_	
+8-14	975-979	oder	_	
+8-15	980-983	mit	_	
+8-16	984-987	dem	_	
+8-17	988-991	Rad	_	
+8-18	992-995	aus	*[14]	
+8-19	996-1005	Ückesdorf	*[14]	
+8-20	1006-1009	zum	*[14]	
+8-21	1010-1016	Brüser	*[14]	
+8-22	1017-1021	Berg	*[14]	
+8-23	1022-1025	zum	_	
+8-24	1026-1035	Einkaufen	_	
+8-25	1036-1042	kommen	_	
+8-26	1042-1043	,	_	
+8-27	1044-1049	statt	_	
+8-28	1050-1053	mit	_	
+8-29	1054-1057	dem	_	
+8-30	1058-1062	Auto	_	
+8-31	1063-1066	zum	_	
+8-32	1067-1071	Lidl	_	
+8-33	1072-1075	und	_	
+8-34	1076-1081	Edeka	_	
+8-35	1082-1084	an	*[15]	
+8-36	1085-1088	der	*[15]	
+8-37	1089-1101	Baskesthalle	*[15]	
+8-38	1102-1104	zu	_	
+8-39	1105-1111	fahren	_	
+8-40	1112-1115	und	_	
+8-41	1116-1119	die	_	
+8-42	1120-1124	Luft	_	
+8-43	1125-1134	verpesten	_	
+8-44	1134-1135	.	_	
+
+#Text=Aus Richtung Brüser Berg könnte man einfach bequem den Berg nach Ückesdorf runterrollen und hätte zwischendurch nicht noch einen weiteren Anstieg.
+9-1	1136-1139	Aus	*[16]	
+9-2	1140-1148	Richtung	*[16]	
+9-3	1149-1155	Brüser	*[16]	
+9-4	1156-1160	Berg	*[16]	
+9-5	1161-1167	könnte	_	
+9-6	1168-1171	man	_	
+9-7	1172-1179	einfach	_	
+9-8	1180-1186	bequem	_	
+9-9	1187-1190	den	*[17]	
+9-10	1191-1195	Berg	*[17]	
+9-11	1196-1200	nach	*[17]	
+9-12	1201-1210	Ückesdorf	*[17]	
+9-13	1211-1223	runterrollen	*[17]	
+9-14	1224-1227	und	_	
+9-15	1228-1233	hätte	_	
+9-16	1234-1247	zwischendurch	_	
+9-17	1248-1253	nicht	_	
+9-18	1254-1258	noch	_	
+9-19	1259-1264	einen	_	
+9-20	1265-1273	weiteren	_	
+9-21	1274-1281	Anstieg	_	
+9-22	1281-1282	.	_	

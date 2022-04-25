@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Grünpfeil
+1-1	0-9	Grünpfeil	_	
+
+#Text=Dies wäre ein passender Ort für den diskutierten Radfahrer-Grünpfeil.
+2-1	12-16	Dies	_	
+2-2	17-21	wäre	_	
+2-3	22-25	ein	_	
+2-4	26-35	passender	_	
+2-5	36-39	Ort	_	
+2-6	40-43	für	_	
+2-7	44-47	den	_	
+2-8	48-60	diskutierten	_	
+2-9	61-80	Radfahrer-Grünpfeil	_	
+2-10	80-81	.	_	
+
+#Text=Dem steht allerdings entgegen, dass der Radweg vor der Post nicht mehr benutzungspflichtig ist.
+3-1	82-85	Dem	_	
+3-2	86-91	steht	_	
+3-3	92-102	allerdings	_	
+3-4	103-111	entgegen	_	
+3-5	111-112	,	_	
+3-6	113-117	dass	_	
+3-7	118-121	der	_	
+3-8	122-128	Radweg	_	
+3-9	129-132	vor	_	
+3-10	133-136	der	_	
+3-11	137-141	Post	_	
+3-12	142-147	nicht	_	
+3-13	148-152	mehr	_	
+3-14	153-172	benutzungspflichtig	_	
+3-15	173-176	ist	_	
+3-16	176-177	.	_	

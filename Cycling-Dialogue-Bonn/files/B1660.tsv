@@ -1,0 +1,21 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Grünrückschnitt
+1-1	0-15	Grünrückschnitt	_	
+
+#Text=Hier müsste zwischen Nachtigallenweg und Oderstraße das Grün zurückgeschnitten werden-
+2-1	18-22	Hier	_	
+2-2	23-29	müsste	_	
+2-3	30-38	zwischen	*[2]	
+2-4	39-54	Nachtigallenweg	*[2]	
+2-5	55-58	und	*[2]	
+2-6	59-69	Oderstraße	*[2]	
+2-7	70-73	das	_	
+2-8	74-78	Grün	_	
+2-9	79-96	zurückgeschnitten	_	
+2-10	97-103	werden	_	
+2-11	103-104	-	_	

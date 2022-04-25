@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schild entfernen - hier ist KEIN Radweg mehr
+1-1	0-6	Schild	_	
+1-2	7-16	entfernen	_	
+1-3	17-18	-	_	
+1-4	19-23	hier	_	
+1-5	24-27	ist	_	
+1-6	28-32	KEIN	_	
+1-7	33-39	Radweg	_	
+1-8	40-44	mehr	_	
+
+#Text=Bitte entfernen Sie das Schild für die Anzeige eines getrennten Fuß- und Radweges auf dem Bürgersteig.
+2-1	47-52	Bitte	_	
+2-2	53-62	entfernen	_	
+2-3	63-66	Sie	_	
+2-4	67-70	das	_	
+2-5	71-77	Schild	_	
+2-6	78-81	für	_	
+2-7	82-85	die	_	
+2-8	86-93	Anzeige	_	
+2-9	94-99	eines	_	
+2-10	100-110	getrennten	_	
+2-11	111-114	Fuß	_	
+2-12	114-115	-	_	
+2-13	116-119	und	_	
+2-14	120-128	Radweges	_	
+2-15	129-132	auf	_	
+2-16	133-136	dem	_	
+2-17	137-148	Bürgersteig	_	
+2-18	148-149	.	_	
+
+#Text=Hier ist nach der baulichen Umgestaltung KEIN Radweg mehr.
+3-1	150-154	Hier	_	
+3-2	155-158	ist	_	
+3-3	159-163	nach	_	
+3-4	164-167	der	_	
+3-5	168-177	baulichen	_	
+3-6	178-190	Umgestaltung	_	
+3-7	191-195	KEIN	_	
+3-8	196-202	Radweg	_	
+3-9	203-207	mehr	_	
+3-10	207-208	.	_	
+
+#Text=Eine auf dem Boden eingezeichnete Andeutung, dass der Radweg hier auf die Gotenstraße geführt wird, wäre für alle Verkehrsteilnehmer transparenter.
+4-1	209-213	Eine	_	
+4-2	214-217	auf	_	
+4-3	218-221	dem	_	
+4-4	222-227	Boden	_	
+4-5	228-242	eingezeichnete	_	
+4-6	243-252	Andeutung	_	
+4-7	252-253	,	_	
+4-8	254-258	dass	_	
+4-9	259-262	der	_	
+4-10	263-269	Radweg	_	
+4-11	270-274	hier	_	
+4-12	275-278	auf	*[5]	
+4-13	279-282	die	*[5]	
+4-14	283-294	Gotenstraße	*[5]	
+4-15	295-302	geführt	_	
+4-16	303-307	wird	_	
+4-17	307-308	,	_	
+4-18	309-313	wäre	_	
+4-19	314-317	für	_	
+4-20	318-322	alle	_	
+4-21	323-341	Verkehrsteilnehmer	_	
+4-22	342-355	transparenter	_	
+4-23	355-356	.	_	

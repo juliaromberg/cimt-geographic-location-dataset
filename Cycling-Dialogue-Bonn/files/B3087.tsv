@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Autofreie Zone
+1-1	0-9	Autofreie	_	
+1-2	10-14	Zone	_	
+
+#Text=Die Friedrich-Breuer-Str. sollte zwischen KAP und Doktor-Weiß-Platz für den Autoverkehr gesperrt sein.
+2-1	17-20	Die	*[7]	
+2-2	21-41	Friedrich-Breuer-Str	*[7]	
+2-3	41-42	.	_	
+2-4	43-49	sollte	_	
+2-5	50-58	zwischen	*[8]	
+2-6	59-62	KAP	*[8]	
+2-7	63-66	und	*[8]	
+2-8	67-84	Doktor-Weiß-Platz	*[8]	
+2-9	85-88	für	_	
+2-10	89-92	den	_	
+2-11	93-104	Autoverkehr	_	
+2-12	105-113	gesperrt	_	
+2-13	114-118	sein	_	
+2-14	118-119	.	_	
+
+#Text=Die lästige Kreuzung an der Rathausstr. und das Linksabbiegerproblem Richtung Hans-Böckler-Str. würden wegfallen.
+3-1	120-123	Die	_	
+3-2	124-131	lästige	_	
+3-3	132-140	Kreuzung	*[9]	
+3-4	141-143	an	*[9]	
+3-5	144-147	der	*[9]	
+3-6	148-158	Rathausstr	*[9]	
+3-7	158-159	.	_	
+3-8	160-163	und	_	
+3-9	164-167	das	_	
+3-10	168-188	Linksabbiegerproblem	_	
+3-11	189-197	Richtung	*[10]	
+3-12	198-214	Hans-Böckler-Str	*[10]	
+3-13	214-215	.	_	
+3-14	216-222	würden	_	
+3-15	223-232	wegfallen	_	
+3-16	232-233	.	_	
+
+#Text=Ladenbesitzer hätten durch wegfallende Parkplätze mehr Platz, etwa für schöne Außengastronomie.
+4-1	234-247	Ladenbesitzer	_	
+4-2	248-254	hätten	_	
+4-3	255-260	durch	_	
+4-4	261-272	wegfallende	_	
+4-5	273-283	Parkplätze	_	
+4-6	284-288	mehr	_	
+4-7	289-294	Platz	_	
+4-8	294-295	,	_	
+4-9	296-300	etwa	_	
+4-10	301-304	für	_	
+4-11	305-311	schöne	_	
+4-12	312-328	Außengastronomie	_	
+4-13	328-329	.	_	
+
+#Text=Das freut Fußgänger, genauso wie Fahrradfahrer, die der Bahn ausweichen könnten.
+5-1	330-333	Das	_	
+5-2	334-339	freut	_	
+5-3	340-349	Fußgänger	_	
+5-4	349-350	,	_	
+5-5	351-358	genauso	_	
+5-6	359-362	wie	_	
+5-7	363-376	Fahrradfahrer	_	
+5-8	376-377	,	_	
+5-9	378-381	die	_	
+5-10	382-385	der	_	
+5-11	386-390	Bahn	_	
+5-12	391-401	ausweichen	_	
+5-13	402-409	könnten	_	
+5-14	409-410	.	_	
+
+#Text=Und Stellflächen für Fahrräder und größere Rad-Gespanne gäbe es auch im ausreichenden Maße.
+6-1	411-414	Und	_	
+6-2	415-427	Stellflächen	_	
+6-3	428-431	für	_	
+6-4	432-441	Fahrräder	_	
+6-5	442-445	und	_	
+6-6	446-453	größere	_	
+6-7	454-466	Rad-Gespanne	_	
+6-8	467-471	gäbe	_	
+6-9	472-474	es	_	
+6-10	475-479	auch	_	
+6-11	480-482	im	_	
+6-12	483-496	ausreichenden	_	
+6-13	497-501	Maße	_	
+6-14	501-502	.	_	

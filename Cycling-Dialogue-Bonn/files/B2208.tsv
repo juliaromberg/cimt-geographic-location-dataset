@@ -1,0 +1,147 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Eng, schnell und gefährlich
+1-1	0-3	Eng	_	
+1-2	3-4	,	_	
+1-3	5-12	schnell	_	
+1-4	13-16	und	_	
+1-5	17-27	gefährlich	_	
+
+#Text=Die immer noch zweispurig von Bus und KFZ befahrene Kaiserstraße besitzt EINEN Radweg, der hoch frequentiert ebenfalls beide Radfahrerrichtungen aufnehmen muss.
+2-1	30-33	Die	_	
+2-2	34-39	immer	_	
+2-3	40-44	noch	_	
+2-4	45-55	zweispurig	_	
+2-5	56-59	von	_	
+2-6	60-63	Bus	_	
+2-7	64-67	und	_	
+2-8	68-71	KFZ	_	
+2-9	72-81	befahrene	_	
+2-10	82-94	Kaiserstraße	*	
+2-11	95-102	besitzt	_	
+2-12	103-108	EINEN	_	
+2-13	109-115	Radweg	_	
+2-14	115-116	,	_	
+2-15	117-120	der	_	
+2-16	121-125	hoch	_	
+2-17	126-138	frequentiert	_	
+2-18	139-148	ebenfalls	_	
+2-19	149-154	beide	_	
+2-20	155-174	Radfahrerrichtungen	_	
+2-21	175-184	aufnehmen	_	
+2-22	185-189	muss	_	
+2-23	189-190	.	_	
+
+#Text=Die Enge der Straße führt zu harschen Manövern der KFZ, die nicht selten auch auf den Radweg führen.
+3-1	191-194	Die	_	
+3-2	195-199	Enge	_	
+3-3	200-203	der	_	
+3-4	204-210	Straße	_	
+3-5	211-216	führt	_	
+3-6	217-219	zu	_	
+3-7	220-228	harschen	_	
+3-8	229-237	Manövern	_	
+3-9	238-241	der	_	
+3-10	242-245	KFZ	_	
+3-11	245-246	,	_	
+3-12	247-250	die	_	
+3-13	251-256	nicht	_	
+3-14	257-263	selten	_	
+3-15	264-268	auch	_	
+3-16	269-272	auf	_	
+3-17	273-276	den	_	
+3-18	277-283	Radweg	_	
+3-19	284-290	führen	_	
+3-20	290-291	.	_	
+
+#Text=Unseren Kinder haben wir diesen Radweg verboten, da sie leicht zwischen Bahndammgebüsch und hoher Straßenkante bei rabiatem Radverkehr Gefahr laufen, über dies Kante stürzend in den engen Straßenverkehr mit zwei hochfrequentierten Buslinien dort unter die Räder zu geraten.
+4-1	292-299	Unseren	_	
+4-2	300-306	Kinder	_	
+4-3	307-312	haben	_	
+4-4	313-316	wir	_	
+4-5	317-323	diesen	_	
+4-6	324-330	Radweg	_	
+4-7	331-339	verboten	_	
+4-8	339-340	,	_	
+4-9	341-343	da	_	
+4-10	344-347	sie	_	
+4-11	348-354	leicht	_	
+4-12	355-363	zwischen	_	
+4-13	364-379	Bahndammgebüsch	_	
+4-14	380-383	und	_	
+4-15	384-389	hoher	_	
+4-16	390-402	Straßenkante	_	
+4-17	403-406	bei	_	
+4-18	407-415	rabiatem	_	
+4-19	416-426	Radverkehr	_	
+4-20	427-433	Gefahr	_	
+4-21	434-440	laufen	_	
+4-22	440-441	,	_	
+4-23	442-446	über	_	
+4-24	447-451	dies	_	
+4-25	452-457	Kante	_	
+4-26	458-466	stürzend	_	
+4-27	467-469	in	_	
+4-28	470-473	den	_	
+4-29	474-479	engen	_	
+4-30	480-494	Straßenverkehr	_	
+4-31	495-498	mit	_	
+4-32	499-503	zwei	_	
+4-33	504-522	hochfrequentierten	_	
+4-34	523-532	Buslinien	_	
+4-35	533-537	dort	_	
+4-36	538-543	unter	_	
+4-37	544-547	die	_	
+4-38	548-553	Räder	_	
+4-39	554-556	zu	_	
+4-40	557-564	geraten	_	
+4-41	564-565	.	_	
+
+#Text=Es gibt auch schöne Fotos von während der geschlossenen Schranken völlig zugeparkten Bahnübergangsbereichen (von verbotswidrig agierenden Abbiegern), die die Radwege dann auch einbeziehen.
+5-1	566-568	Es	_	
+5-2	569-573	gibt	_	
+5-3	574-578	auch	_	
+5-4	579-585	schöne	_	
+5-5	586-591	Fotos	_	
+5-6	592-595	von	_	
+5-7	596-603	während	_	
+5-8	604-607	der	_	
+5-9	608-621	geschlossenen	_	
+5-10	622-631	Schranken	_	
+5-11	632-638	völlig	_	
+5-12	639-650	zugeparkten	_	
+5-13	651-673	Bahnübergangsbereichen	_	
+5-14	674-675	(	_	
+5-15	675-678	von	_	
+5-16	679-692	verbotswidrig	_	
+5-17	693-703	agierenden	_	
+5-18	704-713	Abbiegern	_	
+5-19	713-714	)	_	
+5-20	714-715	,	_	
+5-21	716-719	die	_	
+5-22	720-723	die	_	
+5-23	724-731	Radwege	_	
+5-24	732-736	dann	_	
+5-25	737-741	auch	_	
+5-26	742-753	einbeziehen	_	
+5-27	753-754	.	_	
+
+#Text=Kinder hier auf den Weg zu schicken halten nicht nur wir für unverantwortlich.
+6-1	755-761	Kinder	_	
+6-2	762-766	hier	_	
+6-3	767-770	auf	_	
+6-4	771-774	den	_	
+6-5	775-778	Weg	_	
+6-6	779-781	zu	_	
+6-7	782-790	schicken	_	
+6-8	791-797	halten	_	
+6-9	798-803	nicht	_	
+6-10	804-807	nur	_	
+6-11	808-811	wir	_	
+6-12	812-815	für	_	
+6-13	816-832	unverantwortlich	_	
+6-14	832-833	.	_	

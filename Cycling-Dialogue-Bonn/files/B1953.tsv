@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radfahren sicherer machen
+1-1	0-9	Radfahren	_	
+1-2	10-18	sicherer	_	
+1-3	19-25	machen	_	
+
+#Text=DIe Königswinterer Straße müsste von Ramersdorf bis Beuel auf 30 KM begrenzt werden.
+2-1	28-31	DIe	*[4]	
+2-2	32-46	Königswinterer	*[4]	
+2-3	47-53	Straße	*[4]	
+2-4	54-60	müsste	*[4]	
+2-5	61-64	von	*[4]	
+2-6	65-75	Ramersdorf	*[4]	
+2-7	76-79	bis	*[4]	
+2-8	80-85	Beuel	*[4]	
+2-9	86-89	auf	_	
+2-10	90-92	30	_	
+2-11	93-95	KM	_	
+2-12	96-104	begrenzt	_	
+2-13	105-111	werden	_	
+2-14	111-112	.	_	
+
+#Text=Fahrradfahren ist auf dem ganzen Abschnitt bis zum Gewerbegebiet eine Zumutung, da ständig Autos auf den Fahrradstreifen abgestellt sind.
+3-1	113-126	Fahrradfahren	_	
+3-2	127-130	ist	_	
+3-3	131-134	auf	_	
+3-4	135-138	dem	_	
+3-5	139-145	ganzen	_	
+3-6	146-155	Abschnitt	_	
+3-7	156-159	bis	_	
+3-8	160-163	zum	_	
+3-9	164-177	Gewerbegebiet	_	
+3-10	178-182	eine	_	
+3-11	183-191	Zumutung	_	
+3-12	191-192	,	_	
+3-13	193-195	da	_	
+3-14	196-203	ständig	_	
+3-15	204-209	Autos	_	
+3-16	210-213	auf	_	
+3-17	214-217	den	_	
+3-18	218-233	Fahrradstreifen	_	
+3-19	234-244	abgestellt	_	
+3-20	245-249	sind	_	
+3-21	249-250	.	_	

@@ -1,0 +1,98 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Poller in Kurve auf dem Radweg
+1-1	0-6	Poller	_	
+1-2	7-9	in	_	
+1-3	10-15	Kurve	_	
+1-4	16-19	auf	_	
+1-5	20-23	dem	_	
+1-6	24-30	Radweg	_	
+
+#Text=Ich halte 3 Poller auf dem Radweg, die hinter 3 weiteren Pollern an der Rheinaustr./Ecke Wolfsgasse stehen, nicht nur für überflüssig sondern auch für gefährlich, weil sie schwer sichtbar in einer Kurve stehen und der Autoverkehr bereits von den anderen Pollern ausgesperrt wird.
+2-1	33-36	Ich	_	
+2-2	37-42	halte	_	
+2-3	43-44	3	_	
+2-4	45-51	Poller	_	
+2-5	52-55	auf	_	
+2-6	56-59	dem	_	
+2-7	60-66	Radweg	_	
+2-8	66-67	,	_	
+2-9	68-71	die	_	
+2-10	72-78	hinter	_	
+2-11	79-80	3	_	
+2-12	81-89	weiteren	_	
+2-13	90-97	Pollern	*[6]	
+2-14	98-100	an	*[6]	
+2-15	101-104	der	*[6]	
+2-16	105-115	Rheinaustr	*[6]	
+2-17	115-116	.	*[6]	
+2-18	116-117	/	*[6]	
+2-19	117-121	Ecke	*[6]	
+2-20	122-132	Wolfsgasse	*[6]	
+2-21	133-139	stehen	_	
+2-22	139-140	,	_	
+2-23	141-146	nicht	_	
+2-24	147-150	nur	_	
+2-25	151-154	für	_	
+2-26	155-166	überflüssig	_	
+2-27	167-174	sondern	_	
+2-28	175-179	auch	_	
+2-29	180-183	für	_	
+2-30	184-194	gefährlich	_	
+2-31	194-195	,	_	
+2-32	196-200	weil	_	
+2-33	201-204	sie	_	
+2-34	205-211	schwer	_	
+2-35	212-220	sichtbar	_	
+2-36	221-223	in	_	
+2-37	224-229	einer	_	
+2-38	230-235	Kurve	_	
+2-39	236-242	stehen	_	
+2-40	243-246	und	_	
+2-41	247-250	der	_	
+2-42	251-262	Autoverkehr	_	
+2-43	263-270	bereits	_	
+2-44	271-274	von	_	
+2-45	275-278	den	_	
+2-46	279-286	anderen	_	
+2-47	287-294	Pollern	_	
+2-48	295-306	ausgesperrt	_	
+2-49	307-311	wird	_	
+2-50	311-312	.	_	
+
+#Text=Ich habe auch schon mehrfach Unfälle beobachtet.
+3-1	313-316	Ich	_	
+3-2	317-321	habe	_	
+3-3	322-326	auch	_	
+3-4	327-332	schon	_	
+3-5	333-341	mehrfach	_	
+3-6	342-349	Unfälle	_	
+3-7	350-360	beobachtet	_	
+3-8	360-361	.	_	
+
+#Text=Auch der ADFC teilt meine Auffassung und hat der Fahrradbeauftragten Bilder zur Verfügung gestellt.
+4-1	362-366	Auch	_	
+4-2	367-370	der	_	
+4-3	371-375	ADFC	_	
+4-4	376-381	teilt	_	
+4-5	382-387	meine	_	
+4-6	388-398	Auffassung	_	
+4-7	399-402	und	_	
+4-8	403-406	hat	_	
+4-9	407-410	der	_	
+4-10	411-430	Fahrradbeauftragten	_	
+4-11	431-437	Bilder	_	
+4-12	438-441	zur	_	
+4-13	442-451	Verfügung	_	
+4-14	452-460	gestellt	_	
+4-15	460-461	.	_	
+
+#Text=Passiert ist nichts!
+5-1	462-470	Passiert	_	
+5-2	471-474	ist	_	
+5-3	475-481	nichts	_	
+5-4	481-482	!	_	

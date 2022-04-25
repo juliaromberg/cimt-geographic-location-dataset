@@ -1,0 +1,83 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelschaltung
+1-1	0-14	Ampelschaltung	_	
+
+#Text=Sehr geehrte Damen und Herren, die Rotphasen der Poppelsdorfer Allee sind immer sehr lang.
+2-1	17-21	Sehr	_	
+2-2	22-29	geehrte	_	
+2-3	30-35	Damen	_	
+2-4	36-39	und	_	
+2-5	40-46	Herren	_	
+2-6	46-47	,	_	
+2-7	48-51	die	_	
+2-8	52-61	Rotphasen	_	
+2-9	62-65	der	_	
+2-10	66-79	Poppelsdorfer	*[4]	
+2-11	80-85	Allee	*[4]	
+2-12	86-90	sind	_	
+2-13	91-96	immer	_	
+2-14	97-101	sehr	_	
+2-15	102-106	lang	_	
+2-16	106-107	.	_	
+
+#Text=Wenn man die Autos des Boner Talwegs/Baumschulallee mit den Rad-und Fußgängern der Poppelsdorfer Allee vergleicht stellt man sich zu vielen Uhrzeiten die Frage: Warum kann es nicht schnellere Grünphasen für die Poppelsdorfer Allee geben?
+3-1	108-112	Wenn	_	
+3-2	113-116	man	_	
+3-3	117-120	die	_	
+3-4	121-126	Autos	_	
+3-5	127-130	des	_	
+3-6	131-136	Boner	*[5]	
+3-7	137-144	Talwegs	*[5]	
+3-8	144-145	/	*[5]	
+3-9	145-159	Baumschulallee	*[5]	
+3-10	160-163	mit	_	
+3-11	164-167	den	_	
+3-12	168-175	Rad-und	_	
+3-13	176-186	Fußgängern	_	
+3-14	187-190	der	_	
+3-15	191-204	Poppelsdorfer	*[6]	
+3-16	205-210	Allee	*[6]	
+3-17	211-221	vergleicht	_	
+3-18	222-228	stellt	_	
+3-19	229-232	man	_	
+3-20	233-237	sich	_	
+3-21	238-240	zu	_	
+3-22	241-247	vielen	_	
+3-23	248-257	Uhrzeiten	_	
+3-24	258-261	die	_	
+3-25	262-267	Frage	_	
+3-26	267-268	:	_	
+3-27	269-274	Warum	_	
+3-28	275-279	kann	_	
+3-29	280-282	es	_	
+3-30	283-288	nicht	_	
+3-31	289-299	schnellere	_	
+3-32	300-310	Grünphasen	_	
+3-33	311-314	für	_	
+3-34	315-318	die	*[7]	
+3-35	319-332	Poppelsdorfer	*[7]	
+3-36	333-338	Allee	*[7]	
+3-37	339-344	geben	_	
+3-38	344-345	?	_	
+
+#Text=Als mittelfristige Lösung wäre natürlich auch hier ein Fußgänger und Fahrradtunnel die beste Lösung!
+4-1	346-349	Als	_	
+4-2	350-364	mittelfristige	_	
+4-3	365-371	Lösung	_	
+4-4	372-376	wäre	_	
+4-5	377-386	natürlich	_	
+4-6	387-391	auch	_	
+4-7	392-396	hier	_	
+4-8	397-400	ein	_	
+4-9	401-410	Fußgänger	_	
+4-10	411-414	und	_	
+4-11	415-428	Fahrradtunnel	_	
+4-12	429-432	die	_	
+4-13	433-438	beste	_	
+4-14	439-445	Lösung	_	
+4-15	445-446	!	_	

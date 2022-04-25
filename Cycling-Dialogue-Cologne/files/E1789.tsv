@@ -1,0 +1,26 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg ist aufgebrochen
+1-1	0-10	Fahrradweg	_	
+1-2	11-14	ist	_	
+1-3	15-27	aufgebrochen	_	
+
+#Text=Hier ist der Asphalt durch Wurzeln aufgebrochen und stark rissig, Sturtzgefahr besteht!
+2-1	30-34	Hier	_	
+2-2	35-38	ist	_	
+2-3	39-42	der	_	
+2-4	43-50	Asphalt	_	
+2-5	51-56	durch	_	
+2-6	57-64	Wurzeln	_	
+2-7	65-77	aufgebrochen	_	
+2-8	78-81	und	_	
+2-9	82-87	stark	_	
+2-10	88-94	rissig	_	
+2-11	94-95	,	_	
+2-12	96-108	Sturtzgefahr	_	
+2-13	109-116	besteht	_	
+2-14	116-117	!	_	

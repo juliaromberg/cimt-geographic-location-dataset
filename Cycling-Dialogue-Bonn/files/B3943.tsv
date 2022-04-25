@@ -1,0 +1,80 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parker auf Radstreifen Sternenburgallee
+1-1	0-6	Parker	_	
+1-2	7-10	auf	_	
+1-3	11-22	Radstreifen	*[5]	
+1-4	23-39	Sternenburgallee	*[5]	
+
+#Text=Auf dem Abschnitt der Sternenburgallee Höhe Kita und Pizza Man stehen - vor allem abends/nachts - eigentlich immer Autos und parken auf dem Radstreifen, das man deutlich am eingeklappten Außenspiegel erkennt.
+2-1	42-45	Auf	_	
+2-2	46-49	dem	_	
+2-3	50-59	Abschnitt	_	
+2-4	60-63	der	_	
+2-5	64-80	Sternenburgallee	*[6]	
+2-6	81-85	Höhe	*[6]	
+2-7	86-90	Kita	*[6]	
+2-8	91-94	und	*[6]	
+2-9	95-100	Pizza	*[6]	
+2-10	101-104	Man	*[6]	
+2-11	105-111	stehen	_	
+2-12	112-113	-	_	
+2-13	114-117	vor	_	
+2-14	118-123	allem	_	
+2-15	124-130	abends	_	
+2-16	130-131	/	_	
+2-17	131-137	nachts	_	
+2-18	138-139	-	_	
+2-19	140-150	eigentlich	_	
+2-20	151-156	immer	_	
+2-21	157-162	Autos	_	
+2-22	163-166	und	_	
+2-23	167-173	parken	_	
+2-24	174-177	auf	_	
+2-25	178-181	dem	_	
+2-26	182-193	Radstreifen	_	
+2-27	193-194	,	_	
+2-28	195-198	das	_	
+2-29	199-202	man	_	
+2-30	203-211	deutlich	_	
+2-31	212-214	am	_	
+2-32	215-228	eingeklappten	_	
+2-33	229-241	Außenspiegel	_	
+2-34	242-249	erkennt	_	
+2-35	249-250	.	_	
+
+#Text=Da das regelmäßig der Fall ist, frage ich mich, warum hier nicht das Ordnungsamt Abhilfe schafft.
+3-1	251-253	Da	_	
+3-2	254-257	das	_	
+3-3	258-268	regelmäßig	_	
+3-4	269-272	der	_	
+3-5	273-277	Fall	_	
+3-6	278-281	ist	_	
+3-7	281-282	,	_	
+3-8	283-288	frage	_	
+3-9	289-292	ich	_	
+3-10	293-297	mich	_	
+3-11	297-298	,	_	
+3-12	299-304	warum	_	
+3-13	305-309	hier	_	
+3-14	310-315	nicht	_	
+3-15	316-319	das	_	
+3-16	320-331	Ordnungsamt	_	
+3-17	332-339	Abhilfe	_	
+3-18	340-347	schafft	_	
+3-19	347-348	.	_	
+
+#Text=Das würde ich doch erwarten und bitte darum.
+4-1	349-352	Das	_	
+4-2	353-358	würde	_	
+4-3	359-362	ich	_	
+4-4	363-367	doch	_	
+4-5	368-376	erwarten	_	
+4-6	377-380	und	_	
+4-7	381-386	bitte	_	
+4-8	387-392	darum	_	
+4-9	392-393	.	_	

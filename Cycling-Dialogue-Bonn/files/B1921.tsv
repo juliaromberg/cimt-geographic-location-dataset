@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=E-bike taugliche Wege auf den Venusberg
+1-1	0-6	E-bike	_	
+1-2	7-16	taugliche	_	
+1-3	17-21	Wege	_	
+1-4	22-25	auf	*[4]	
+1-5	26-29	den	*[4]	
+1-6	30-39	Venusberg	*[4]	
+
+#Text=Fußwege hinauf auf den Venusberg, z.B. Rochusweg, Bergstraße.
+2-1	42-49	Fußwege	_	
+2-2	50-56	hinauf	*[5]	
+2-3	57-60	auf	*[5]	
+2-4	61-64	den	*[5]	
+2-5	65-74	Venusberg	*[5]	
+2-6	74-75	,	*[5]	
+2-7	76-79	z.B	*[5]	
+2-8	79-80	.	*[5]	
+2-9	81-90	Rochusweg	*[5]	
+2-10	90-91	,	*[5]	
+2-11	92-102	Bergstraße	*[5]	
+2-12	102-103	.	_	
+
+#Text=Rosenburgweg sollte E-bike tauglich ausgebaut werden.
+3-1	104-116	Rosenburgweg	*	
+3-2	117-123	sollte	_	
+3-3	124-130	E-bike	_	
+3-4	131-139	tauglich	_	
+3-5	140-149	ausgebaut	_	
+3-6	150-156	werden	_	
+3-7	156-157	.	_	

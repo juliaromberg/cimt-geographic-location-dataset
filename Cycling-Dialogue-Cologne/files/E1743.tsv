@@ -1,0 +1,80 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Autos blockieren den Radweg
+1-1	0-5	Autos	_	
+1-2	6-16	blockieren	_	
+1-3	17-20	den	_	
+1-4	21-27	Radweg	_	
+
+#Text=Auf dem Stück vor dem Neubaugebiet stehen immer wieder Autos auf dem Radweg.
+2-1	30-33	Auf	_	
+2-2	34-37	dem	_	
+2-3	38-43	Stück	_	
+2-4	44-47	vor	_	
+2-5	48-51	dem	_	
+2-6	52-64	Neubaugebiet	_	
+2-7	65-71	stehen	_	
+2-8	72-77	immer	_	
+2-9	78-84	wieder	_	
+2-10	85-90	Autos	_	
+2-11	91-94	auf	_	
+2-12	95-98	dem	_	
+2-13	99-105	Radweg	_	
+2-14	105-106	.	_	
+
+#Text=Man muss dann immer stark abbremsen und versuchen sich da irgendwie dran vorbei zu schlängeln.
+3-1	107-110	Man	_	
+3-2	111-115	muss	_	
+3-3	116-120	dann	_	
+3-4	121-126	immer	_	
+3-5	127-132	stark	_	
+3-6	133-142	abbremsen	_	
+3-7	143-146	und	_	
+3-8	147-156	versuchen	_	
+3-9	157-161	sich	_	
+3-10	162-164	da	_	
+3-11	165-174	irgendwie	_	
+3-12	175-179	dran	_	
+3-13	180-186	vorbei	_	
+3-14	187-189	zu	_	
+3-15	190-200	schlängeln	_	
+3-16	200-201	.	_	
+
+#Text=Wenn man einen Anhänger hat kommt man wahrscheinlich gar nicht vorbei.
+4-1	202-206	Wenn	_	
+4-2	207-210	man	_	
+4-3	211-216	einen	_	
+4-4	217-225	Anhänger	_	
+4-5	226-229	hat	_	
+4-6	230-235	kommt	_	
+4-7	236-239	man	_	
+4-8	240-254	wahrscheinlich	_	
+4-9	255-258	gar	_	
+4-10	259-264	nicht	_	
+4-11	265-271	vorbei	_	
+4-12	271-272	.	_	
+
+#Text=Es wäre super, wenn man hier öfter kontrollieren könnte, bzw. auch den Radweg deutlicher markiert.
+5-1	273-275	Es	_	
+5-2	276-280	wäre	_	
+5-3	281-286	super	_	
+5-4	286-287	,	_	
+5-5	288-292	wenn	_	
+5-6	293-296	man	_	
+5-7	297-301	hier	_	
+5-8	302-307	öfter	_	
+5-9	308-321	kontrollieren	_	
+5-10	322-328	könnte	_	
+5-11	328-329	,	_	
+5-12	330-333	bzw	_	
+5-13	333-334	.	_	
+5-14	335-339	auch	_	
+5-15	340-343	den	_	
+5-16	344-350	Radweg	_	
+5-17	351-361	deutlicher	_	
+5-18	362-370	markiert	_	
+5-19	370-371	.	_	

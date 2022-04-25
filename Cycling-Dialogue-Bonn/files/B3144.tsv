@@ -1,0 +1,219 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Straßenquerung
+1-1	0-11	Gefährliche	_	
+1-2	12-26	Straßenquerung	_	
+
+#Text=Möchte man vom Zweirichtungsradweg Brühler Straße Fahrtrichtung Bornheim hier an der Ampel die Bornheimer Str. queren, um auf die Sonneckenstr. bzw. die Straße Am Krähenhorst zu gelangen, ergeben sich zwei Probleme.
+2-1	29-35	Möchte	_	
+2-2	36-39	man	_	
+2-3	40-43	vom	*[10]	
+2-4	44-63	Zweirichtungsradweg	*[10]	
+2-5	64-71	Brühler	*[10]	
+2-6	72-78	Straße	*[10]	
+2-7	79-92	Fahrtrichtung	*[10]	
+2-8	93-101	Bornheim	*[10]	
+2-9	102-106	hier	*[10]	
+2-10	107-109	an	*[10]	
+2-11	110-113	der	*[10]	
+2-12	114-119	Ampel	*[10]	
+2-13	120-123	die	*[10]	
+2-14	124-134	Bornheimer	*[10]	
+2-15	135-138	Str	*[10]	
+2-16	138-139	.	*[10]	
+2-17	140-146	queren	*[10]	
+2-18	146-147	,	*[10]	
+2-19	148-150	um	*[10]	
+2-20	151-154	auf	*[10]	
+2-21	155-158	die	*[10]	
+2-22	159-171	Sonneckenstr	*[10]	
+2-23	171-172	.	*[10]	
+2-24	173-176	bzw	*[10]	
+2-25	176-177	.	*[10]	
+2-26	178-181	die	*[10]	
+2-27	182-188	Straße	*[10]	
+2-28	189-191	Am	*[10]	
+2-29	192-203	Krähenhorst	*[10]	
+2-30	204-206	zu	*[10]	
+2-31	207-215	gelangen	*[10]	
+2-32	215-216	,	_	
+2-33	217-224	ergeben	_	
+2-34	225-229	sich	_	
+2-35	230-234	zwei	_	
+2-36	235-243	Probleme	_	
+2-37	243-244	.	_	
+
+#Text=Zum Einen hält man quasi mitten auf dem Radweg, um auf grün zu warten, was den ohnehin schon für Fußgänger und Radfahrer in zwei Richtungen engen Weg noch enger macht.
+3-1	245-248	Zum	_	
+3-2	249-254	Einen	_	
+3-3	255-259	hält	_	
+3-4	260-263	man	_	
+3-5	264-269	quasi	_	
+3-6	270-276	mitten	_	
+3-7	277-280	auf	_	
+3-8	281-284	dem	_	
+3-9	285-291	Radweg	_	
+3-10	291-292	,	_	
+3-11	293-295	um	_	
+3-12	296-299	auf	_	
+3-13	300-304	grün	_	
+3-14	305-307	zu	_	
+3-15	308-314	warten	_	
+3-16	314-315	,	_	
+3-17	316-319	was	_	
+3-18	320-323	den	_	
+3-19	324-331	ohnehin	_	
+3-20	332-337	schon	_	
+3-21	338-341	für	_	
+3-22	342-351	Fußgänger	_	
+3-23	352-355	und	_	
+3-24	356-365	Radfahrer	_	
+3-25	366-368	in	_	
+3-26	369-373	zwei	_	
+3-27	374-384	Richtungen	_	
+3-28	385-390	engen	_	
+3-29	391-394	Weg	_	
+3-30	395-399	noch	_	
+3-31	400-405	enger	_	
+3-32	406-411	macht	_	
+3-33	411-412	.	_	
+
+#Text=Bei Grün habe ich schon mehrere Beinahe-Unfälle mit Radfaherern erlebt, die aus Richtung Bornheim kommend den Radweg befahren.
+4-1	413-416	Bei	_	
+4-2	417-421	Grün	_	
+4-3	422-426	habe	_	
+4-4	427-430	ich	_	
+4-5	431-436	schon	_	
+4-6	437-444	mehrere	_	
+4-7	445-460	Beinahe-Unfälle	_	
+4-8	461-464	mit	_	
+4-9	465-476	Radfaherern	_	
+4-10	477-483	erlebt	_	
+4-11	483-484	,	_	
+4-12	485-488	die	_	
+4-13	489-492	aus	*[11]	
+4-14	493-501	Richtung	*[11]	
+4-15	502-510	Bornheim	*[11]	
+4-16	511-518	kommend	*[11]	
+4-17	519-522	den	_	
+4-18	523-529	Radweg	_	
+4-19	530-538	befahren	_	
+4-20	538-539	.	_	
+
+#Text=Dieser ist dort durch die Kurve und Bahnunterführung sehr schlecht einsehbar, und man sieht entgegenkommende und querende Radler sehr spät.
+5-1	540-546	Dieser	_	
+5-2	547-550	ist	_	
+5-3	551-555	dort	_	
+5-4	556-561	durch	_	
+5-5	562-565	die	_	
+5-6	566-571	Kurve	_	
+5-7	572-575	und	_	
+5-8	576-592	Bahnunterführung	_	
+5-9	593-597	sehr	_	
+5-10	598-606	schlecht	_	
+5-11	607-616	einsehbar	_	
+5-12	616-617	,	_	
+5-13	618-621	und	_	
+5-14	622-625	man	_	
+5-15	626-631	sieht	_	
+5-16	632-648	entgegenkommende	_	
+5-17	649-652	und	_	
+5-18	653-661	querende	_	
+5-19	662-668	Radler	_	
+5-20	669-673	sehr	_	
+5-21	674-678	spät	_	
+5-22	678-679	.	_	
+
+#Text=Besser wären zwei getrennte Radwege auf der Brühler Straße, mit einer Querungshilfe in Höhe Bahnhaltestelle Brüher Str./Moschee.
+6-1	680-686	Besser	_	
+6-2	687-692	wären	_	
+6-3	693-697	zwei	_	
+6-4	698-707	getrennte	_	
+6-5	708-715	Radwege	_	
+6-6	716-719	auf	*[12]	
+6-7	720-723	der	*[12]	
+6-8	724-731	Brühler	*[12]	
+6-9	732-738	Straße	*[12]	
+6-10	738-739	,	_	
+6-11	740-743	mit	_	
+6-12	744-749	einer	_	
+6-13	750-763	Querungshilfe	_	
+6-14	764-766	in	*[13]	
+6-15	767-771	Höhe	*[13]	
+6-16	772-787	Bahnhaltestelle	*[13]	
+6-17	788-794	Brüher	*[13]	
+6-18	795-798	Str	*[13]	
+6-19	798-799	.	*[13]	
+6-20	799-800	/	*[13]	
+6-21	800-807	Moschee	*[13]	
+6-22	807-808	.	_	
+
+#Text=Die Verkehrssituation dort ist aufch für die Moscheebesucher, insbesondere nach größeren Veranstaltungen, eine Zumutung.
+7-1	809-812	Die	_	
+7-2	813-830	Verkehrssituation	_	
+7-3	831-835	dort	_	
+7-4	836-839	ist	_	
+7-5	840-845	aufch	_	
+7-6	846-849	für	_	
+7-7	850-853	die	_	
+7-8	854-869	Moscheebesucher	_	
+7-9	869-870	,	_	
+7-10	871-883	insbesondere	_	
+7-11	884-888	nach	_	
+7-12	889-897	größeren	_	
+7-13	898-913	Veranstaltungen	_	
+7-14	913-914	,	_	
+7-15	915-919	eine	_	
+7-16	920-928	Zumutung	_	
+7-17	928-929	.	_	
+
+#Text=Besonders wenn dort ältere Leute auf dem Weg von der Moschee zur Bahn von den Autofaheren über die Straße gejagt werden und dann noch zu gefährlichen Hindernissen für die Radfahrer aus zwei Richtungen werden.
+8-1	930-939	Besonders	_	
+8-2	940-944	wenn	_	
+8-3	945-949	dort	_	
+8-4	950-956	ältere	_	
+8-5	957-962	Leute	_	
+8-6	963-966	auf	_	
+8-7	967-970	dem	_	
+8-8	971-974	Weg	_	
+8-9	975-978	von	_	
+8-10	979-982	der	_	
+8-11	983-990	Moschee	_	
+8-12	991-994	zur	_	
+8-13	995-999	Bahn	_	
+8-14	1000-1003	von	_	
+8-15	1004-1007	den	_	
+8-16	1008-1019	Autofaheren	_	
+8-17	1020-1024	über	_	
+8-18	1025-1028	die	_	
+8-19	1029-1035	Straße	_	
+8-20	1036-1042	gejagt	_	
+8-21	1043-1049	werden	_	
+8-22	1050-1053	und	_	
+8-23	1054-1058	dann	_	
+8-24	1059-1063	noch	_	
+8-25	1064-1066	zu	_	
+8-26	1067-1079	gefährlichen	_	
+8-27	1080-1092	Hindernissen	_	
+8-28	1093-1096	für	_	
+8-29	1097-1100	die	_	
+8-30	1101-1110	Radfahrer	_	
+8-31	1111-1114	aus	_	
+8-32	1115-1119	zwei	_	
+8-33	1120-1130	Richtungen	_	
+8-34	1131-1137	werden	_	
+8-35	1137-1138	.	_	
+
+#Text=Damit sind viele Leute dort wirklich überfordert.
+9-1	1139-1144	Damit	_	
+9-2	1145-1149	sind	_	
+9-3	1150-1155	viele	_	
+9-4	1156-1161	Leute	_	
+9-5	1162-1166	dort	_	
+9-6	1167-1175	wirklich	_	
+9-7	1176-1187	überfordert	_	
+9-8	1187-1188	.	_	

@@ -1,0 +1,175 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Regeln für Radwege
+1-1	0-6	Regeln	_	
+1-2	7-10	für	_	
+1-3	11-18	Radwege	_	
+
+#Text=Es müssen Richtlinien für Radwege festgelegt werden.
+2-1	21-23	Es	_	
+2-2	24-30	müssen	_	
+2-3	31-42	Richtlinien	_	
+2-4	43-46	für	_	
+2-5	47-54	Radwege	_	
+2-6	55-65	festgelegt	_	
+2-7	66-72	werden	_	
+2-8	72-73	.	_	
+
+#Text=Beispiele:
+3-1	74-83	Beispiele	_	
+3-2	83-84	:	_	
+
+#Text=- pro Richtungsfahrbahn mindestens Breite von 2m
+4-1	85-86	-	_	
+4-2	87-90	pro	_	
+4-3	91-108	Richtungsfahrbahn	_	
+4-4	109-119	mindestens	_	
+4-5	120-126	Breite	_	
+4-6	127-130	von	_	
+4-7	131-133	2m	_	
+
+#Text=- Radwege sind zu markieren, wie Straßen für Autos
+5-1	135-136	-	_	
+5-2	137-144	Radwege	_	
+5-3	145-149	sind	_	
+5-4	150-152	zu	_	
+5-5	153-162	markieren	_	
+5-6	162-163	,	_	
+5-7	164-167	wie	_	
+5-8	168-175	Straßen	_	
+5-9	176-179	für	_	
+5-10	180-185	Autos	_	
+
+#Text=- Markierungen so, dass Autofahrer den gesetzlich mindestens vorgeschriebenen Abstand von 1,5m einhalten, was bedeutet, dass 1,5 m neben der Seitenmarkierung des Radweges noch eine Linie eingezeichnet wird
+6-1	186-187	-	_	
+6-2	188-200	Markierungen	_	
+6-3	201-203	so	_	
+6-4	203-204	,	_	
+6-5	205-209	dass	_	
+6-6	210-220	Autofahrer	_	
+6-7	221-224	den	_	
+6-8	225-235	gesetzlich	_	
+6-9	236-246	mindestens	_	
+6-10	247-263	vorgeschriebenen	_	
+6-11	264-271	Abstand	_	
+6-12	272-275	von	_	
+6-13	276-280	1,5m	_	
+6-14	281-290	einhalten	_	
+6-15	290-291	,	_	
+6-16	292-295	was	_	
+6-17	296-304	bedeutet	_	
+6-18	304-305	,	_	
+6-19	306-310	dass	_	
+6-20	311-314	1,5	_	
+6-21	315-316	m	_	
+6-22	317-322	neben	_	
+6-23	323-326	der	_	
+6-24	327-343	Seitenmarkierung	_	
+6-25	344-347	des	_	
+6-26	348-356	Radweges	_	
+6-27	357-361	noch	_	
+6-28	362-366	eine	_	
+6-29	367-372	Linie	_	
+6-30	373-386	eingezeichnet	_	
+6-31	387-391	wird	_	
+
+#Text=- Der Radweg muss auch zu parkenden Fahrzeugen dass einhalten von gesetzlichen Bestimmungen einhalte.
+7-1	392-393	-	_	
+7-2	394-397	Der	_	
+7-3	398-404	Radweg	_	
+7-4	405-409	muss	_	
+7-5	410-414	auch	_	
+7-6	415-417	zu	_	
+7-7	418-427	parkenden	_	
+7-8	428-438	Fahrzeugen	_	
+7-9	439-443	dass	_	
+7-10	444-453	einhalten	_	
+7-11	454-457	von	_	
+7-12	458-470	gesetzlichen	_	
+7-13	471-483	Bestimmungen	_	
+7-14	484-492	einhalte	_	
+7-15	492-493	.	_	
+
+#Text=- Regeln für Bodenbeschaffenheit (maximale Höhendifferenz, wie es sie sogar für Gullydeckel gibt (0,5cm), keine Bordsteinkanten an Ampeln, kein Kies/Kopfsteinpflaster)
+8-1	494-495	-	_	
+8-2	496-502	Regeln	_	
+8-3	503-506	für	_	
+8-4	507-526	Bodenbeschaffenheit	_	
+8-5	527-528	(	_	
+8-6	528-536	maximale	_	
+8-7	537-551	Höhendifferenz	_	
+8-8	551-552	,	_	
+8-9	553-556	wie	_	
+8-10	557-559	es	_	
+8-11	560-563	sie	_	
+8-12	564-569	sogar	_	
+8-13	570-573	für	_	
+8-14	574-585	Gullydeckel	_	
+8-15	586-590	gibt	_	
+8-16	591-592	(	_	
+8-17	592-597	0,5cm	_	
+8-18	597-598	)	_	
+8-19	598-599	,	_	
+8-20	600-605	keine	_	
+8-21	606-621	Bordsteinkanten	_	
+8-22	622-624	an	_	
+8-23	625-631	Ampeln	_	
+8-24	631-632	,	_	
+8-25	633-637	kein	_	
+8-26	638-642	Kies	_	
+8-27	642-643	/	_	
+8-28	643-660	Kopfsteinpflaster	_	
+8-29	660-661	)	_	
+
+#Text=- Abschaffung von gemischten Rad und Fußwegen, durch die Geschwindigkeitsdifferenz vom 10 Fachen (3kmh/30kmh)ist es verantwortungslos Radwege auf Fußgängerwege zu legen.
+9-1	662-663	-	_	
+9-2	664-675	Abschaffung	_	
+9-3	676-679	von	_	
+9-4	680-690	gemischten	_	
+9-5	691-694	Rad	_	
+9-6	695-698	und	_	
+9-7	699-707	Fußwegen	_	
+9-8	707-708	,	_	
+9-9	709-714	durch	_	
+9-10	715-718	die	_	
+9-11	719-744	Geschwindigkeitsdifferenz	_	
+9-12	745-748	vom	_	
+9-13	749-751	10	_	
+9-14	752-758	Fachen	_	
+9-15	759-760	(	_	
+9-16	760-764	3kmh	_	
+9-17	764-765	/	_	
+9-18	765-770	30kmh	_	
+9-19	770-771	)	_	
+9-20	771-774	ist	_	
+9-21	775-777	es	_	
+9-22	778-795	verantwortungslos	_	
+9-23	796-803	Radwege	_	
+9-24	804-807	auf	_	
+9-25	808-821	Fußgängerwege	_	
+9-26	822-824	zu	_	
+9-27	825-830	legen	_	
+9-28	830-831	.	_	
+
+#Text=Es fahren auch keine Radfahrer auf Rennstrecken rum, was dem gleichen Verhältnis entspricht 30kmh-300kmh
+10-1	832-834	Es	_	
+10-2	835-841	fahren	_	
+10-3	842-846	auch	_	
+10-4	847-852	keine	_	
+10-5	853-862	Radfahrer	_	
+10-6	863-866	auf	_	
+10-7	867-879	Rennstrecken	_	
+10-8	880-883	rum	_	
+10-9	883-884	,	_	
+10-10	885-888	was	_	
+10-11	889-892	dem	_	
+10-12	893-901	gleichen	_	
+10-13	902-912	Verhältnis	_	
+10-14	913-923	entspricht	_	
+10-15	924-929	30kmh	_	
+10-16	929-930	-	_	
+10-17	930-936	300kmh	_	

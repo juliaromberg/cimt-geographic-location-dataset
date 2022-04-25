@@ -1,0 +1,206 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=parkende Autos blockieren Radweg
+1-1	0-8	parkende	_	
+1-2	9-14	Autos	_	
+1-3	15-25	blockieren	_	
+1-4	26-32	Radweg	_	
+
+#Text=Ich fahre jeden Morgen die Dorotheenstraße Richtung Innenstadt.
+2-1	35-38	Ich	_	
+2-2	39-44	fahre	_	
+2-3	45-50	jeden	_	
+2-4	51-57	Morgen	_	
+2-5	58-61	die	*[11]	
+2-6	62-77	Dorotheenstraße	*[11]	
+2-7	78-86	Richtung	*[11]	
+2-8	87-97	Innenstadt	*[11]	
+2-9	97-98	.	_	
+
+#Text=Kurz hinter dem Kaiser-Karl-Ring geht der Fahrradweg runter auf die Straße und an der Adolfstraße wieder auf den Fußweg.
+3-1	99-103	Kurz	*[12]	
+3-2	104-110	hinter	*[12]	
+3-3	111-114	dem	*[12]	
+3-4	115-131	Kaiser-Karl-Ring	*[12]	
+3-5	132-136	geht	*[12]	
+3-6	137-140	der	*[12]	
+3-7	141-151	Fahrradweg	*[12]	
+3-8	152-158	runter	*[12]	
+3-9	159-162	auf	*[12]	
+3-10	163-166	die	*[12]	
+3-11	167-173	Straße	*[12]	
+3-12	174-177	und	*[12]	
+3-13	178-180	an	*[12]	
+3-14	181-184	der	*[12]	
+3-15	185-196	Adolfstraße	*[12]	
+3-16	197-203	wieder	*[12]	
+3-17	204-207	auf	*[12]	
+3-18	208-211	den	*[12]	
+3-19	212-218	Fußweg	*[12]	
+3-20	218-219	.	_	
+
+#Text=Die Radführung ist ja dort aufgrund der engen Straße mit entgegenkommenden Bussen oder Autos, die noch schnell die grüne, oder auch schon rote, Ampel bekommen wollen, eh nicht ideal.
+4-1	220-223	Die	_	
+4-2	224-234	Radführung	_	
+4-3	235-238	ist	_	
+4-4	239-241	ja	_	
+4-5	242-246	dort	_	
+4-6	247-255	aufgrund	_	
+4-7	256-259	der	_	
+4-8	260-265	engen	_	
+4-9	266-272	Straße	_	
+4-10	273-276	mit	_	
+4-11	277-294	entgegenkommenden	_	
+4-12	295-301	Bussen	_	
+4-13	302-306	oder	_	
+4-14	307-312	Autos	_	
+4-15	312-313	,	_	
+4-16	314-317	die	_	
+4-17	318-322	noch	_	
+4-18	323-330	schnell	_	
+4-19	331-334	die	_	
+4-20	335-340	grüne	_	
+4-21	340-341	,	_	
+4-22	342-346	oder	_	
+4-23	347-351	auch	_	
+4-24	352-357	schon	_	
+4-25	358-362	rote	_	
+4-26	362-363	,	_	
+4-27	364-369	Ampel	_	
+4-28	370-378	bekommen	_	
+4-29	379-385	wollen	_	
+4-30	385-386	,	_	
+4-31	387-389	eh	_	
+4-32	390-395	nicht	_	
+4-33	396-401	ideal	_	
+4-34	401-402	.	_	
+
+#Text=Aber hinzu kommt: Beide Stellen sind sehr häufig von parkenden Autos belegt.
+5-1	403-407	Aber	_	
+5-2	408-413	hinzu	_	
+5-3	414-419	kommt	_	
+5-4	419-420	:	_	
+5-5	421-426	Beide	_	
+5-6	427-434	Stellen	_	
+5-7	435-439	sind	_	
+5-8	440-444	sehr	_	
+5-9	445-451	häufig	_	
+5-10	452-455	von	_	
+5-11	456-465	parkenden	_	
+5-12	466-471	Autos	_	
+5-13	472-478	belegt	_	
+5-14	478-479	.	_	
+
+#Text=An der Ecke Adolfstraße häufig von kurzparkenden, die ihre Kinder in die gegenüberliegende Kita bringen, wie ich beobachten konnte, aber auch von langparkenden Autos.
+6-1	480-482	An	*[13]	
+6-2	483-486	der	*[13]	
+6-3	487-491	Ecke	*[13]	
+6-4	492-503	Adolfstraße	*[13]	
+6-5	504-510	häufig	_	
+6-6	511-514	von	_	
+6-7	515-528	kurzparkenden	_	
+6-8	528-529	,	_	
+6-9	530-533	die	_	
+6-10	534-538	ihre	_	
+6-11	539-545	Kinder	_	
+6-12	546-548	in	_	
+6-13	549-552	die	_	
+6-14	553-570	gegenüberliegende	_	
+6-15	571-575	Kita	_	
+6-16	576-583	bringen	_	
+6-17	583-584	,	_	
+6-18	585-588	wie	_	
+6-19	589-592	ich	_	
+6-20	593-603	beobachten	_	
+6-21	604-610	konnte	_	
+6-22	610-611	,	_	
+6-23	612-616	aber	_	
+6-24	617-621	auch	_	
+6-25	622-625	von	_	
+6-26	626-639	langparkenden	_	
+6-27	640-645	Autos	_	
+6-28	645-646	.	_	
+
+#Text=Da auch der Bus durch diese enge Straße fährt, ist es wirklich eine Gefährdung, dass diese Stellen häufig zugeparkt sind und man sich als Radfahrer durch die parkenden Autos auf die Straße friemeln muss.
+7-1	647-649	Da	_	
+7-2	650-654	auch	_	
+7-3	655-658	der	_	
+7-4	659-662	Bus	_	
+7-5	663-668	durch	_	
+7-6	669-674	diese	_	
+7-7	675-679	enge	_	
+7-8	680-686	Straße	_	
+7-9	687-692	fährt	_	
+7-10	692-693	,	_	
+7-11	694-697	ist	_	
+7-12	698-700	es	_	
+7-13	701-709	wirklich	_	
+7-14	710-714	eine	_	
+7-15	715-725	Gefährdung	_	
+7-16	725-726	,	_	
+7-17	727-731	dass	_	
+7-18	732-737	diese	_	
+7-19	738-745	Stellen	_	
+7-20	746-752	häufig	_	
+7-21	753-762	zugeparkt	_	
+7-22	763-767	sind	_	
+7-23	768-771	und	_	
+7-24	772-775	man	_	
+7-25	776-780	sich	_	
+7-26	781-784	als	_	
+7-27	785-794	Radfahrer	_	
+7-28	795-800	durch	_	
+7-29	801-804	die	_	
+7-30	805-814	parkenden	_	
+7-31	815-820	Autos	_	
+7-32	821-824	auf	_	
+7-33	825-828	die	_	
+7-34	829-835	Straße	_	
+7-35	836-844	friemeln	_	
+7-36	845-849	muss	_	
+7-37	849-850	.	_	
+
+#Text=Vielleicht kann man hier Stangen oder ähnliches montieren, die ein Parken verhindern.
+8-1	851-861	Vielleicht	_	
+8-2	862-866	kann	_	
+8-3	867-870	man	_	
+8-4	871-875	hier	_	
+8-5	876-883	Stangen	_	
+8-6	884-888	oder	_	
+8-7	889-898	ähnliches	_	
+8-8	899-908	montieren	_	
+8-9	908-909	,	_	
+8-10	910-913	die	_	
+8-11	914-917	ein	_	
+8-12	918-924	Parken	_	
+8-13	925-935	verhindern	_	
+8-14	935-936	.	_	
+
+#Text=Natürlich sollten diese Stangen aber Radfahrer weder behindern noch gefährden.
+9-1	937-946	Natürlich	_	
+9-2	947-954	sollten	_	
+9-3	955-960	diese	_	
+9-4	961-968	Stangen	_	
+9-5	969-973	aber	_	
+9-6	974-983	Radfahrer	_	
+9-7	984-989	weder	_	
+9-8	990-999	behindern	_	
+9-9	1000-1004	noch	_	
+9-10	1005-1014	gefährden	_	
+9-11	1014-1015	.	_	
+
+#Text=Übrigens: es fahren auch viele Schulkinder diese Strecke.
+10-1	1016-1024	Übrigens	_	
+10-2	1024-1025	:	_	
+10-3	1026-1028	es	_	
+10-4	1029-1035	fahren	_	
+10-5	1036-1040	auch	_	
+10-6	1041-1046	viele	_	
+10-7	1047-1058	Schulkinder	_	
+10-8	1059-1064	diese	_	
+10-9	1065-1072	Strecke	_	
+10-10	1072-1073	.	_	

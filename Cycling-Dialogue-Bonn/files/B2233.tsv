@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schutzstreifen fehlt
+1-1	0-14	Schutzstreifen	_	
+1-2	15-20	fehlt	_	
+
+#Text=Zwischen der Lessingstr. und der Goethestraße fehlt seit der Neumarkierung des Bonner Talwegs ein Stück des Schutzstreifens.
+2-1	23-31	Zwischen	*[3]	
+2-2	32-35	der	*[3]	
+2-3	36-46	Lessingstr	*[3]	
+2-4	46-47	.	*[3]	
+2-5	48-51	und	*[3]	
+2-6	52-55	der	*[3]	
+2-7	56-68	Goethestraße	*[3]	
+2-8	69-74	fehlt	_	
+2-9	75-79	seit	_	
+2-10	80-83	der	_	
+2-11	84-97	Neumarkierung	_	
+2-12	98-101	des	_	
+2-13	102-108	Bonner	*[4]	
+2-14	109-116	Talwegs	*[4]	
+2-15	117-120	ein	_	
+2-16	121-126	Stück	_	
+2-17	127-130	des	_	
+2-18	131-146	Schutzstreifens	_	
+2-19	146-147	.	_	

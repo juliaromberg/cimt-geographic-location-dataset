@@ -1,0 +1,283 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwege Zusatand
+1-1	0-7	Radwege	_	
+1-2	8-16	Zusatand	_	
+
+#Text=1. Was nützen all die schönen Aktionen und Initiativen, wenn die Satdt jetz scho nicht die Radwege in einem ordnungsgemäßen Zusatnd halten kann.
+2-1	19-20	1	_	
+2-2	20-21	.	_	
+2-3	22-25	Was	_	
+2-4	26-32	nützen	_	
+2-5	33-36	all	_	
+2-6	37-40	die	_	
+2-7	41-48	schönen	_	
+2-8	49-57	Aktionen	_	
+2-9	58-61	und	_	
+2-10	62-73	Initiativen	_	
+2-11	73-74	,	_	
+2-12	75-79	wenn	_	
+2-13	80-83	die	_	
+2-14	84-89	Satdt	_	
+2-15	90-94	jetz	_	
+2-16	95-99	scho	_	
+2-17	100-105	nicht	_	
+2-18	106-109	die	_	
+2-19	110-117	Radwege	_	
+2-20	118-120	in	_	
+2-21	121-126	einem	_	
+2-22	127-142	ordnungsgemäßen	_	
+2-23	143-150	Zusatnd	_	
+2-24	151-157	halten	_	
+2-25	158-162	kann	_	
+2-26	162-163	.	_	
+
+#Text=Fährt aus Bickendorf stadteinwärts und auswärts auf der Venloer Str, dann sind im Bereich des Westfriedhofs die Radwege mit Schlaglöchern und Hubbel gesäht.
+3-1	164-169	Fährt	_	
+3-2	170-173	aus	*[13]	
+3-3	174-184	Bickendorf	*[13]	
+3-4	185-198	stadteinwärts	*[13]	
+3-5	199-202	und	*[13]	
+3-6	203-211	auswärts	*[13]	
+3-7	212-215	auf	*[13]	
+3-8	216-219	der	*[13]	
+3-9	220-227	Venloer	*[13]	
+3-10	228-231	Str	*[13]	
+3-11	231-232	,	_	
+3-12	233-237	dann	_	
+3-13	238-242	sind	_	
+3-14	243-245	im	_	
+3-15	246-253	Bereich	_	
+3-16	254-257	des	_	
+3-17	258-271	Westfriedhofs	*[14]	
+3-18	272-275	die	*[14]	
+3-19	276-283	Radwege	*[14]	
+3-20	284-287	mit	_	
+3-21	288-301	Schlaglöchern	_	
+3-22	302-305	und	_	
+3-23	306-312	Hubbel	_	
+3-24	313-319	gesäht	_	
+3-25	319-320	.	_	
+
+#Text=das liegt teilweise an mangelhaft durchgeführten Reparaturen des Belags und an den wurzeln der Bäume, die einfach wachsen weiter dann sind die Plattenbeläge - z.B. im Bereich Heliosstr. - der Radwege in einem bedenklichen Zustand.
+4-1	321-324	das	_	
+4-2	325-330	liegt	_	
+4-3	331-340	teilweise	_	
+4-4	341-343	an	_	
+4-5	344-354	mangelhaft	_	
+4-6	355-369	durchgeführten	_	
+4-7	370-381	Reparaturen	_	
+4-8	382-385	des	_	
+4-9	386-392	Belags	_	
+4-10	393-396	und	_	
+4-11	397-399	an	_	
+4-12	400-403	den	_	
+4-13	404-411	wurzeln	_	
+4-14	412-415	der	_	
+4-15	416-421	Bäume	_	
+4-16	421-422	,	_	
+4-17	423-426	die	_	
+4-18	427-434	einfach	_	
+4-19	435-442	wachsen	_	
+4-20	443-449	weiter	_	
+4-21	450-454	dann	_	
+4-22	455-459	sind	_	
+4-23	460-463	die	_	
+4-24	464-477	Plattenbeläge	_	
+4-25	478-479	-	_	
+4-26	480-483	z.B	_	
+4-27	483-484	.	_	
+4-28	485-487	im	*[15]	
+4-29	488-495	Bereich	*[15]	
+4-30	496-505	Heliosstr	*[15]	
+4-31	505-506	.	_	
+4-32	507-508	-	_	
+4-33	509-512	der	_	
+4-34	513-520	Radwege	_	
+4-35	521-523	in	_	
+4-36	524-529	einem	_	
+4-37	530-542	bedenklichen	_	
+4-38	543-550	Zustand	_	
+4-39	550-551	.	_	
+
+#Text=Die Platten haben sich gelockert, liegen schief und man hat Angst mit dem Fahrrad darüber zu fahren.
+5-1	552-555	Die	_	
+5-2	556-563	Platten	_	
+5-3	564-569	haben	_	
+5-4	570-574	sich	_	
+5-5	575-584	gelockert	_	
+5-6	584-585	,	_	
+5-7	586-592	liegen	_	
+5-8	593-599	schief	_	
+5-9	600-603	und	_	
+5-10	604-607	man	_	
+5-11	608-611	hat	_	
+5-12	612-617	Angst	_	
+5-13	618-621	mit	_	
+5-14	622-625	dem	_	
+5-15	626-633	Fahrrad	_	
+5-16	634-641	darüber	_	
+5-17	642-644	zu	_	
+5-18	645-651	fahren	_	
+5-19	651-652	.	_	
+
+#Text=Neu Radwege ja, aber erst einmal die vorhandenen vernünftig instandsetzen.
+6-1	653-656	Neu	_	
+6-2	657-664	Radwege	_	
+6-3	665-667	ja	_	
+6-4	667-668	,	_	
+6-5	669-673	aber	_	
+6-6	674-678	erst	_	
+6-7	679-685	einmal	_	
+6-8	686-689	die	_	
+6-9	690-701	vorhandenen	_	
+6-10	702-712	vernünftig	_	
+6-11	713-726	instandsetzen	_	
+6-12	726-727	.	_	
+
+#Text=2. Da der Fahrradverkehr immer weiter zunimmt, sollte man an den Kreuzungen der Hauptverkehrsadern mehr Freiraum schaffen für wartende Radfahrer.
+7-1	728-729	2	_	
+7-2	729-730	.	_	
+7-3	731-733	Da	_	
+7-4	734-737	der	_	
+7-5	738-752	Fahrradverkehr	_	
+7-6	753-758	immer	_	
+7-7	759-765	weiter	_	
+7-8	766-773	zunimmt	_	
+7-9	773-774	,	_	
+7-10	775-781	sollte	_	
+7-11	782-785	man	_	
+7-12	786-788	an	_	
+7-13	789-792	den	_	
+7-14	793-803	Kreuzungen	_	
+7-15	804-807	der	_	
+7-16	808-826	Hauptverkehrsadern	_	
+7-17	827-831	mehr	_	
+7-18	832-840	Freiraum	_	
+7-19	841-849	schaffen	_	
+7-20	850-853	für	_	
+7-21	854-862	wartende	_	
+7-22	863-872	Radfahrer	_	
+7-23	872-873	.	_	
+
+#Text=3. Ampelschaltungen - die kölsche Katastrophe hoch
+8-1	874-875	3	_	
+8-2	875-876	.	_	
+8-3	877-893	Ampelschaltungen	_	
+8-4	894-895	-	_	
+8-5	896-899	die	_	
+8-6	900-907	kölsche	_	
+8-7	908-919	Katastrophe	_	
+8-8	920-924	hoch	_	
+
+#Text=3. Ewig lange Wartezeiten bei rot, nicht zeit- oder verkehrsgesteuerte Ampeln und die KVB muss auch nicht immer Vorfahrt haben.
+9-1	925-926	3	_	
+9-2	926-927	.	_	
+9-3	928-932	Ewig	_	
+9-4	933-938	lange	_	
+9-5	939-950	Wartezeiten	_	
+9-6	951-954	bei	_	
+9-7	955-958	rot	_	
+9-8	958-959	,	_	
+9-9	960-965	nicht	_	
+9-10	966-970	zeit	_	
+9-11	970-971	-	_	
+9-12	972-976	oder	_	
+9-13	977-995	verkehrsgesteuerte	_	
+9-14	996-1002	Ampeln	_	
+9-15	1003-1006	und	_	
+9-16	1007-1010	die	_	
+9-17	1011-1014	KVB	_	
+9-18	1015-1019	muss	_	
+9-19	1020-1024	auch	_	
+9-20	1025-1030	nicht	_	
+9-21	1031-1036	immer	_	
+9-22	1037-1045	Vorfahrt	_	
+9-23	1046-1051	haben	_	
+9-24	1051-1052	.	_	
+
+#Text=Da ist doch kein Wunder, dass mancher Radfahrer wegen der langen Warterei regelrecht die Schnauze voll hat, obwohl kein Auto kommt.
+10-1	1053-1055	Da	_	
+10-2	1056-1059	ist	_	
+10-3	1060-1064	doch	_	
+10-4	1065-1069	kein	_	
+10-5	1070-1076	Wunder	_	
+10-6	1076-1077	,	_	
+10-7	1078-1082	dass	_	
+10-8	1083-1090	mancher	_	
+10-9	1091-1100	Radfahrer	_	
+10-10	1101-1106	wegen	_	
+10-11	1107-1110	der	_	
+10-12	1111-1117	langen	_	
+10-13	1118-1126	Warterei	_	
+10-14	1127-1137	regelrecht	_	
+10-15	1138-1141	die	_	
+10-16	1142-1150	Schnauze	_	
+10-17	1151-1155	voll	_	
+10-18	1156-1159	hat	_	
+10-19	1159-1160	,	_	
+10-20	1161-1167	obwohl	_	
+10-21	1168-1172	kein	_	
+10-22	1173-1177	Auto	_	
+10-23	1178-1183	kommt	_	
+10-24	1183-1184	.	_	
+
+#Text=4. Fahradstreifen auf den Hauptsstraßen , eine sionvolle einrichtuing, aber wenn dann die Autofahrer ständig auf der Fahrbahn den fahrradstreifen zuparken oder versperren, ist das für den radfahrer lebensgfährlich.
+11-1	1185-1186	4	_	
+11-2	1186-1187	.	_	
+11-3	1188-1202	Fahradstreifen	_	
+11-4	1203-1206	auf	_	
+11-5	1207-1210	den	_	
+11-6	1211-1224	Hauptsstraßen	_	
+11-7	1225-1226	,	_	
+11-8	1227-1231	eine	_	
+11-9	1232-1241	sionvolle	_	
+11-10	1242-1254	einrichtuing	_	
+11-11	1254-1255	,	_	
+11-12	1256-1260	aber	_	
+11-13	1261-1265	wenn	_	
+11-14	1266-1270	dann	_	
+11-15	1271-1274	die	_	
+11-16	1275-1285	Autofahrer	_	
+11-17	1286-1293	ständig	_	
+11-18	1294-1297	auf	_	
+11-19	1298-1301	der	_	
+11-20	1302-1310	Fahrbahn	_	
+11-21	1311-1314	den	_	
+11-22	1315-1330	fahrradstreifen	_	
+11-23	1331-1339	zuparken	_	
+11-24	1340-1344	oder	_	
+11-25	1345-1355	versperren	_	
+11-26	1355-1356	,	_	
+11-27	1357-1360	ist	_	
+11-28	1361-1364	das	_	
+11-29	1365-1368	für	_	
+11-30	1369-1372	den	_	
+11-31	1373-1382	radfahrer	_	
+11-32	1383-1398	lebensgfährlich	_	
+11-33	1398-1399	.	_	
+
+#Text=Da sollte bzw. muss mehr kontrolliert werden, damit die Fahrradstreifen auch ihren Sinn zum Schutz des Radfahrers
+12-1	1400-1402	Da	_	
+12-2	1403-1409	sollte	_	
+12-3	1410-1413	bzw	_	
+12-4	1413-1414	.	_	
+12-5	1415-1419	muss	_	
+12-6	1420-1424	mehr	_	
+12-7	1425-1437	kontrolliert	_	
+12-8	1438-1444	werden	_	
+12-9	1444-1445	,	_	
+12-10	1446-1451	damit	_	
+12-11	1452-1455	die	_	
+12-12	1456-1471	Fahrradstreifen	_	
+12-13	1472-1476	auch	_	
+12-14	1477-1482	ihren	_	
+12-15	1483-1487	Sinn	_	
+12-16	1488-1491	zum	_	
+12-17	1492-1498	Schutz	_	
+12-18	1499-1502	des	_	
+12-19	1503-1513	Radfahrers	_	

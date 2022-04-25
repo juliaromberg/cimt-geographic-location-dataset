@@ -1,0 +1,111 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Weg durchs Messdorfer Feld als Radschnellweg von Duisdorf in die Innenstadt ausbauen.
+1-1	0-3	Weg	*[7]	
+1-2	4-10	durchs	*[7]	
+1-3	11-21	Messdorfer	*[7]	
+1-4	22-26	Feld	*[7]	
+1-5	27-30	als	_	
+1-6	31-44	Radschnellweg	_	
+1-7	45-48	von	*[8]	
+1-8	49-57	Duisdorf	*[8]	
+1-9	58-60	in	*[8]	
+1-10	61-64	die	*[8]	
+1-11	65-75	Innenstadt	*[8]	
+1-12	76-84	ausbauen	_	
+1-13	84-85	.	_	
+
+#Text=Breite 4m plus 2,5m Fußweg daneben
+2-1	86-92	Breite	_	
+2-2	93-95	4m	_	
+2-3	96-100	plus	_	
+2-4	101-105	2,5m	_	
+2-5	106-112	Fußweg	_	
+2-6	113-120	daneben	_	
+
+#Text=Bei der Gelegenheit könnte man den Weg auch mal begradigen.
+3-1	123-126	Bei	_	
+3-2	127-130	der	_	
+3-3	131-142	Gelegenheit	_	
+3-4	143-149	könnte	_	
+3-5	150-153	man	_	
+3-6	154-157	den	_	
+3-7	158-161	Weg	_	
+3-8	162-166	auch	_	
+3-9	167-170	mal	_	
+3-10	171-181	begradigen	_	
+3-11	181-182	.	_	
+
+#Text=Der Weg ist zu schmal, es sind viele Jogger, Spaziergänger und Leute mit Kötern unterwegs.
+4-1	183-186	Der	_	
+4-2	187-190	Weg	_	
+4-3	191-194	ist	_	
+4-4	195-197	zu	_	
+4-5	198-204	schmal	_	
+4-6	204-205	,	_	
+4-7	206-208	es	_	
+4-8	209-213	sind	_	
+4-9	214-219	viele	_	
+4-10	220-226	Jogger	_	
+4-11	226-227	,	_	
+4-12	228-241	Spaziergänger	_	
+4-13	242-245	und	_	
+4-14	246-251	Leute	_	
+4-15	252-255	mit	_	
+4-16	256-262	Kötern	_	
+4-17	263-272	unterwegs	_	
+4-18	272-273	.	_	
+
+#Text=Außerdem ist das Messdorfer Feld ein hässlicher öder Acker, den die Bauern bis an den Asphalt bis zum letzten Zentimeter auslutschen.
+5-1	274-282	Außerdem	_	
+5-2	283-286	ist	_	
+5-3	287-290	das	*[9]	
+5-4	291-301	Messdorfer	*[9]	
+5-5	302-306	Feld	*[9]	
+5-6	307-310	ein	_	
+5-7	311-321	hässlicher	_	
+5-8	322-326	öder	_	
+5-9	327-332	Acker	_	
+5-10	332-333	,	_	
+5-11	334-337	den	_	
+5-12	338-341	die	_	
+5-13	342-348	Bauern	_	
+5-14	349-352	bis	_	
+5-15	353-355	an	_	
+5-16	356-359	den	_	
+5-17	360-367	Asphalt	_	
+5-18	368-371	bis	_	
+5-19	372-375	zum	_	
+5-20	376-383	letzten	_	
+5-21	384-394	Zentimeter	_	
+5-22	395-406	auslutschen	_	
+5-23	406-407	.	_	
+
+#Text=Man könnte den Weg als Allee anlegen und von breiten Wiesenstreifen einfassen lassen, dann könnte man sich dort auch mal naherholen.
+6-1	408-411	Man	_	
+6-2	412-418	könnte	_	
+6-3	419-422	den	_	
+6-4	423-426	Weg	_	
+6-5	427-430	als	_	
+6-6	431-436	Allee	_	
+6-7	437-444	anlegen	_	
+6-8	445-448	und	_	
+6-9	449-452	von	_	
+6-10	453-460	breiten	_	
+6-11	461-475	Wiesenstreifen	_	
+6-12	476-485	einfassen	_	
+6-13	486-492	lassen	_	
+6-14	492-493	,	_	
+6-15	494-498	dann	_	
+6-16	499-505	könnte	_	
+6-17	506-509	man	_	
+6-18	510-514	sich	_	
+6-19	515-519	dort	_	
+6-20	520-524	auch	_	
+6-21	525-528	mal	_	
+6-22	529-539	naherholen	_	
+6-23	539-540	.	_	

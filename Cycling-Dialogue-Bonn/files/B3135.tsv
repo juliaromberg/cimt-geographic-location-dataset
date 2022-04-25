@@ -1,0 +1,47 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Induktionsschleife der Ampel
+1-1	0-18	Induktionsschleife	_	
+1-2	19-22	der	_	
+1-3	23-28	Ampel	_	
+
+#Text=Diese Ampel hat zwar eine Induktionsschleife, reagiert aber leider nicht auf Radfahrer.
+2-1	31-36	Diese	_	
+2-2	37-42	Ampel	_	
+2-3	43-46	hat	_	
+2-4	47-51	zwar	_	
+2-5	52-56	eine	_	
+2-6	57-75	Induktionsschleife	_	
+2-7	75-76	,	_	
+2-8	77-85	reagiert	_	
+2-9	86-90	aber	_	
+2-10	91-97	leider	_	
+2-11	98-103	nicht	_	
+2-12	104-107	auf	_	
+2-13	108-117	Radfahrer	_	
+2-14	117-118	.	_	
+
+#Text=Besonders nachts ist das doof, wenn man dann minutenlang auf das nächste Taxi zum freischalten warten muss.
+3-1	119-128	Besonders	_	
+3-2	129-135	nachts	_	
+3-3	136-139	ist	_	
+3-4	140-143	das	_	
+3-5	144-148	doof	_	
+3-6	148-149	,	_	
+3-7	150-154	wenn	_	
+3-8	155-158	man	_	
+3-9	159-163	dann	_	
+3-10	164-175	minutenlang	_	
+3-11	176-179	auf	_	
+3-12	180-183	das	_	
+3-13	184-191	nächste	_	
+3-14	192-196	Taxi	_	
+3-15	197-200	zum	_	
+3-16	201-213	freischalten	_	
+3-17	214-220	warten	_	
+3-18	221-225	muss	_	
+3-19	225-226	.	_	

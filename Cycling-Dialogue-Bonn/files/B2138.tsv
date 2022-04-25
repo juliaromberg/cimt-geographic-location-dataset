@@ -1,0 +1,111 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radspuren an Reuterbrücke und Bundeskanzlerplatz
+1-1	0-9	Radspuren	_	
+1-2	10-12	an	*[5]	
+1-3	13-25	Reuterbrücke	*[5]	
+1-4	26-29	und	*[5]	
+1-5	30-48	Bundeskanzlerplatz	*[5]	
+
+#Text=Es wäre wünschenswert, wenn im Rahmen einer anstehenden Sanierung der Reuter-Brücke sowie der Neugestaltung des Bundeskanzlerplatzes, die de facto ja derzeit mit dem Abriss des Bonn-Centers bereits begonnen hat und fortgesetzt werden sollte, eine verbesserte Verkehrsführung für Radfahrer ermöglicht werden würde.
+2-1	51-53	Es	_	
+2-2	54-58	wäre	_	
+2-3	59-72	wünschenswert	_	
+2-4	72-73	,	_	
+2-5	74-78	wenn	_	
+2-6	79-81	im	_	
+2-7	82-88	Rahmen	_	
+2-8	89-94	einer	_	
+2-9	95-106	anstehenden	_	
+2-10	107-116	Sanierung	_	
+2-11	117-120	der	_	
+2-12	121-134	Reuter-Brücke	*	
+2-13	135-140	sowie	_	
+2-14	141-144	der	_	
+2-15	145-158	Neugestaltung	_	
+2-16	159-162	des	_	
+2-17	163-183	Bundeskanzlerplatzes	*	
+2-18	183-184	,	_	
+2-19	185-188	die	_	
+2-20	189-191	de	_	
+2-21	192-197	facto	_	
+2-22	198-200	ja	_	
+2-23	201-208	derzeit	_	
+2-24	209-212	mit	_	
+2-25	213-216	dem	_	
+2-26	217-223	Abriss	_	
+2-27	224-227	des	_	
+2-28	228-240	Bonn-Centers	*	
+2-29	241-248	bereits	_	
+2-30	249-257	begonnen	_	
+2-31	258-261	hat	_	
+2-32	262-265	und	_	
+2-33	266-277	fortgesetzt	_	
+2-34	278-284	werden	_	
+2-35	285-291	sollte	_	
+2-36	291-292	,	_	
+2-37	293-297	eine	_	
+2-38	298-309	verbesserte	_	
+2-39	310-325	Verkehrsführung	_	
+2-40	326-329	für	_	
+2-41	330-339	Radfahrer	_	
+2-42	340-350	ermöglicht	_	
+2-43	351-357	werden	_	
+2-44	358-363	würde	_	
+2-45	363-364	.	_	
+
+#Text=Wichtig hierfür wären eigene Radspuren auf allen Streckenteilen und vor allem auch eine beidseitige und breitere Radspur auf der Brücke selbst.
+3-1	365-372	Wichtig	_	
+3-2	373-380	hierfür	_	
+3-3	381-386	wären	_	
+3-4	387-393	eigene	_	
+3-5	394-403	Radspuren	_	
+3-6	404-407	auf	_	
+3-7	408-413	allen	_	
+3-8	414-428	Streckenteilen	_	
+3-9	429-432	und	_	
+3-10	433-436	vor	_	
+3-11	437-442	allem	_	
+3-12	443-447	auch	_	
+3-13	448-452	eine	_	
+3-14	453-464	beidseitige	_	
+3-15	465-468	und	_	
+3-16	469-477	breitere	_	
+3-17	478-485	Radspur	_	
+3-18	486-489	auf	_	
+3-19	490-493	der	_	
+3-20	494-500	Brücke	_	
+3-21	501-507	selbst	_	
+3-22	507-508	.	_	
+
+#Text=Auch könnte man überlegen, die Überquerbarkeit der Adenauerallee, die derzeit nur durch eine einzige Ampel mit langer Rotphase gegeben ist, zu verbessern.
+4-1	509-513	Auch	_	
+4-2	514-520	könnte	_	
+4-3	521-524	man	_	
+4-4	525-534	überlegen	_	
+4-5	534-535	,	_	
+4-6	536-539	die	_	
+4-7	540-555	Überquerbarkeit	_	
+4-8	556-559	der	_	
+4-9	560-573	Adenauerallee	_	
+4-10	573-574	,	_	
+4-11	575-578	die	_	
+4-12	579-586	derzeit	_	
+4-13	587-590	nur	_	
+4-14	591-596	durch	_	
+4-15	597-601	eine	_	
+4-16	602-609	einzige	_	
+4-17	610-615	Ampel	_	
+4-18	616-619	mit	_	
+4-19	620-626	langer	_	
+4-20	627-635	Rotphase	_	
+4-21	636-643	gegeben	_	
+4-22	644-647	ist	_	
+4-23	647-648	,	_	
+4-24	649-651	zu	_	
+4-25	652-662	verbessern	_	
+4-26	662-663	.	_	

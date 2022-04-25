@@ -1,0 +1,57 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Tempolimit ist den meisten egal
+1-1	0-10	Tempolimit	_	
+1-2	11-14	ist	_	
+1-3	15-18	den	_	
+1-4	19-26	meisten	_	
+1-5	27-31	egal	_	
+
+#Text=Die Adolfstraße ist schön breit.
+2-1	34-37	Die	*[5]	
+2-2	38-49	Adolfstraße	*[5]	
+2-3	50-53	ist	_	
+2-4	54-59	schön	_	
+2-5	60-65	breit	_	
+2-6	65-66	.	_	
+
+#Text=Das führt leider dazu, dass viele Autofahrer weit über dem Tempolimit fahren.
+3-1	67-70	Das	_	
+3-2	71-76	führt	_	
+3-3	77-83	leider	_	
+3-4	84-88	dazu	_	
+3-5	88-89	,	_	
+3-6	90-94	dass	_	
+3-7	95-100	viele	_	
+3-8	101-111	Autofahrer	_	
+3-9	112-116	weit	_	
+3-10	117-121	über	_	
+3-11	122-125	dem	_	
+3-12	126-136	Tempolimit	_	
+3-13	137-143	fahren	_	
+3-14	143-144	.	_	
+
+#Text=Nicht nur doof für Radfahrer, sondern unangenehm für alle, die nicht grad im betreffenden Wagen sitzen.
+4-1	145-150	Nicht	_	
+4-2	151-154	nur	_	
+4-3	155-159	doof	_	
+4-4	160-163	für	_	
+4-5	164-173	Radfahrer	_	
+4-6	173-174	,	_	
+4-7	175-182	sondern	_	
+4-8	183-193	unangenehm	_	
+4-9	194-197	für	_	
+4-10	198-202	alle	_	
+4-11	202-203	,	_	
+4-12	204-207	die	_	
+4-13	208-213	nicht	_	
+4-14	214-218	grad	_	
+4-15	219-221	im	_	
+4-16	222-234	betreffenden	_	
+4-17	235-240	Wagen	_	
+4-18	241-247	sitzen	_	
+4-19	247-248	.	_	

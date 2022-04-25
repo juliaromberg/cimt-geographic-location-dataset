@@ -1,0 +1,83 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Süd-Ost-Verbindung
+1-1	0-18	Süd-Ost-Verbindung	_	
+
+#Text=Ich weiß eigentlich nie so richtig, wie ich idealerweise aus Dottendorf oder Kessenich kommend Richtung Bertha-von-Suttner-Platz oder nach Beuel kommen soll, ohne große Umwege zu fahren, eine Strecke zu schieben oder mich an irgendeiner Stelle verkehrswidrig zu verhalten.
+2-1	21-24	Ich	_	
+2-2	25-29	weiß	_	
+2-3	30-40	eigentlich	_	
+2-4	41-44	nie	_	
+2-5	45-47	so	_	
+2-6	48-55	richtig	_	
+2-7	55-56	,	_	
+2-8	57-60	wie	_	
+2-9	61-64	ich	_	
+2-10	65-77	idealerweise	_	
+2-11	78-81	aus	*[3]	
+2-12	82-92	Dottendorf	*[3]	
+2-13	93-97	oder	*[3]	
+2-14	98-107	Kessenich	*[3]	
+2-15	108-115	kommend	*[3]	
+2-16	116-124	Richtung	*[3]	
+2-17	125-149	Bertha-von-Suttner-Platz	*[3]	
+2-18	150-154	oder	*[3]	
+2-19	155-159	nach	*[3]	
+2-20	160-165	Beuel	*[3]	
+2-21	166-172	kommen	_	
+2-22	173-177	soll	_	
+2-23	177-178	,	_	
+2-24	179-183	ohne	_	
+2-25	184-189	große	_	
+2-26	190-196	Umwege	_	
+2-27	197-199	zu	_	
+2-28	200-206	fahren	_	
+2-29	206-207	,	_	
+2-30	208-212	eine	_	
+2-31	213-220	Strecke	_	
+2-32	221-223	zu	_	
+2-33	224-232	schieben	_	
+2-34	233-237	oder	_	
+2-35	238-242	mich	_	
+2-36	243-245	an	_	
+2-37	246-257	irgendeiner	_	
+2-38	258-264	Stelle	_	
+2-39	265-279	verkehrswidrig	_	
+2-40	280-282	zu	_	
+2-41	283-292	verhalten	_	
+2-42	292-293	.	_	
+
+#Text=Ich habe leider auch keinen konkreten Vorschlag, aber wenn Bonns Süden und der Osten besser miteinander verknüpft wären, würden sicher einige Bürger zusätzlich aufs Rad umsteigen!
+3-1	294-297	Ich	_	
+3-2	298-302	habe	_	
+3-3	303-309	leider	_	
+3-4	310-314	auch	_	
+3-5	315-321	keinen	_	
+3-6	322-331	konkreten	_	
+3-7	332-341	Vorschlag	_	
+3-8	341-342	,	_	
+3-9	343-347	aber	_	
+3-10	348-352	wenn	_	
+3-11	353-358	Bonns	*[4]	
+3-12	359-364	Süden	*[4]	
+3-13	365-368	und	*[4]	
+3-14	369-372	der	*[4]	
+3-15	373-378	Osten	*[4]	
+3-16	379-385	besser	_	
+3-17	386-397	miteinander	_	
+3-18	398-407	verknüpft	_	
+3-19	408-413	wären	_	
+3-20	413-414	,	_	
+3-21	415-421	würden	_	
+3-22	422-428	sicher	_	
+3-23	429-435	einige	_	
+3-24	436-442	Bürger	_	
+3-25	443-453	zusätzlich	_	
+3-26	454-458	aufs	_	
+3-27	459-462	Rad	_	
+3-28	463-472	umsteigen	_	
+3-29	472-473	!	_	

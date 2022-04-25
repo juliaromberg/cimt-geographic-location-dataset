@@ -1,0 +1,211 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelschaltung
+1-1	0-14	Ampelschaltung	_	
+
+#Text=1.) die Straßenbahnen können hier die Ampelschaltung beeinflussen.
+2-1	17-18	1	_	
+2-2	18-19	.	_	
+2-3	19-20	)	_	
+2-4	21-24	die	_	
+2-5	25-38	Straßenbahnen	_	
+2-6	39-45	können	_	
+2-7	46-50	hier	_	
+2-8	51-54	die	_	
+2-9	55-69	Ampelschaltung	_	
+2-10	70-82	beeinflussen	_	
+2-11	82-83	.	_	
+
+#Text=Das machen sie aber manchmal ganz lange vorher (oder vielleicht geht das automatisch?).
+3-1	84-87	Das	_	
+3-2	88-94	machen	_	
+3-3	95-98	sie	_	
+3-4	99-103	aber	_	
+3-5	104-112	manchmal	_	
+3-6	113-117	ganz	_	
+3-7	118-123	lange	_	
+3-8	124-130	vorher	_	
+3-9	131-132	(	_	
+3-10	132-136	oder	_	
+3-11	137-147	vielleicht	_	
+3-12	148-152	geht	_	
+3-13	153-156	das	_	
+3-14	157-168	automatisch	_	
+3-15	168-169	?	_	
+3-16	169-170	)	_	
+3-17	170-171	.	_	
+
+#Text=Es dauert manchmal ewig, obschon keine Bahn vorbeikommt oder selbst nur zu sehen ist.
+4-1	172-174	Es	_	
+4-2	175-181	dauert	_	
+4-3	182-190	manchmal	_	
+4-4	191-195	ewig	_	
+4-5	195-196	,	_	
+4-6	197-204	obschon	_	
+4-7	205-210	keine	_	
+4-8	211-215	Bahn	_	
+4-9	216-227	vorbeikommt	_	
+4-10	228-232	oder	_	
+4-11	233-239	selbst	_	
+4-12	240-243	nur	_	
+4-13	244-246	zu	_	
+4-14	247-252	sehen	_	
+4-15	253-256	ist	_	
+4-16	256-257	.	_	
+
+#Text=Wäre schön, wenn das kluger geschaltet würde.
+5-1	258-262	Wäre	_	
+5-2	263-268	schön	_	
+5-3	268-269	,	_	
+5-4	270-274	wenn	_	
+5-5	275-278	das	_	
+5-6	279-285	kluger	_	
+5-7	286-296	geschaltet	_	
+5-8	297-302	würde	_	
+5-9	302-303	.	_	
+
+#Text=2.) Wenn die Bahn von der Kölnstraße kommend über den Ring in die Graurheindorferstraße einbiegt (oder wenn die Straßenbahn die andere Richtung fährt oder wenn der AutoVerkehr da abbiegt), könnten manchmal die Fußgänger und Fahrradfahrer von Zentrum kommend über der Graurheindorferstraße eigentlich gerade aus fahren.
+6-1	304-305	2	_	
+6-2	305-306	.	_	
+6-3	306-307	)	_	
+6-4	308-312	Wenn	_	
+6-5	313-316	die	_	
+6-6	317-321	Bahn	_	
+6-7	322-325	von	*[10]	
+6-8	326-329	der	*[10]	
+6-9	330-340	Kölnstraße	*[10]	
+6-10	341-348	kommend	*[10]	
+6-11	349-353	über	*[10]	
+6-12	354-357	den	*[10]	
+6-13	358-362	Ring	*[10]	
+6-14	363-365	in	*[10]	
+6-15	366-369	die	*[10]	
+6-16	370-391	Graurheindorferstraße	*[10]	
+6-17	392-400	einbiegt	*[10]	
+6-18	401-402	(	_	
+6-19	402-406	oder	_	
+6-20	407-411	wenn	_	
+6-21	412-415	die	_	
+6-22	416-427	Straßenbahn	_	
+6-23	428-431	die	_	
+6-24	432-438	andere	_	
+6-25	439-447	Richtung	_	
+6-26	448-453	fährt	_	
+6-27	454-458	oder	_	
+6-28	459-463	wenn	_	
+6-29	464-467	der	_	
+6-30	468-479	AutoVerkehr	_	
+6-31	480-482	da	_	
+6-32	483-490	abbiegt	_	
+6-33	490-491	)	_	
+6-34	491-492	,	_	
+6-35	493-500	könnten	_	
+6-36	501-509	manchmal	_	
+6-37	510-513	die	_	
+6-38	514-523	Fußgänger	_	
+6-39	524-527	und	_	
+6-40	528-541	Fahrradfahrer	_	
+6-41	542-545	von	*[11]	
+6-42	546-553	Zentrum	*[11]	
+6-43	554-561	kommend	*[11]	
+6-44	562-566	über	*[11]	
+6-45	567-570	der	*[11]	
+6-46	571-592	Graurheindorferstraße	*[11]	
+6-47	593-603	eigentlich	_	
+6-48	604-610	gerade	_	
+6-49	611-614	aus	_	
+6-50	615-621	fahren	_	
+6-51	621-622	.	_	
+
+#Text=Das Verkehr von rechts darf nicht fahren weil es die Bahn vorfahrt geben muss (sprich Ampel ist für sie rot), und von links kommt (vor allem abends) nichts.
+7-1	623-626	Das	_	
+7-2	627-634	Verkehr	_	
+7-3	635-638	von	_	
+7-4	639-645	rechts	_	
+7-5	646-650	darf	_	
+7-6	651-656	nicht	_	
+7-7	657-663	fahren	_	
+7-8	664-668	weil	_	
+7-9	669-671	es	_	
+7-10	672-675	die	_	
+7-11	676-680	Bahn	_	
+7-12	681-689	vorfahrt	_	
+7-13	690-695	geben	_	
+7-14	696-700	muss	_	
+7-15	701-702	(	_	
+7-16	702-708	sprich	_	
+7-17	709-714	Ampel	_	
+7-18	715-718	ist	_	
+7-19	719-722	für	_	
+7-20	723-726	sie	_	
+7-21	727-730	rot	_	
+7-22	730-731	)	_	
+7-23	731-732	,	_	
+7-24	733-736	und	_	
+7-25	737-740	von	_	
+7-26	741-746	links	_	
+7-27	747-752	kommt	_	
+7-28	753-754	(	_	
+7-29	754-757	vor	_	
+7-30	758-763	allem	_	
+7-31	764-770	abends	_	
+7-32	770-771	)	_	
+7-33	772-778	nichts	_	
+7-34	778-779	.	_	
+
+#Text=Die Schaltung ist aber jetzt so, dass wenn der Verkehr/die Bahn abbiegen darf, automatisch auch der Verkehr auf dem Ring von West nach Ost grün hat.
+8-1	780-783	Die	_	
+8-2	784-793	Schaltung	_	
+8-3	794-797	ist	_	
+8-4	798-802	aber	_	
+8-5	803-808	jetzt	_	
+8-6	809-811	so	_	
+8-7	811-812	,	_	
+8-8	813-817	dass	_	
+8-9	818-822	wenn	_	
+8-10	823-826	der	_	
+8-11	827-834	Verkehr	_	
+8-12	834-835	/	_	
+8-13	835-838	die	_	
+8-14	839-843	Bahn	_	
+8-15	844-852	abbiegen	_	
+8-16	853-857	darf	_	
+8-17	857-858	,	_	
+8-18	859-870	automatisch	_	
+8-19	871-875	auch	_	
+8-20	876-879	der	_	
+8-21	880-887	Verkehr	_	
+8-22	888-891	auf	_	
+8-23	892-895	dem	_	
+8-24	896-900	Ring	_	
+8-25	901-904	von	_	
+8-26	905-909	West	_	
+8-27	910-914	nach	_	
+8-28	915-918	Ost	_	
+8-29	919-923	grün	_	
+8-30	924-927	hat	_	
+8-31	927-928	.	_	
+
+#Text=Wenn das geändert würde, könnte die Fahrrad/Fußgänger-Ampel grün geben.
+9-1	929-933	Wenn	_	
+9-2	934-937	das	_	
+9-3	938-946	geändert	_	
+9-4	947-952	würde	_	
+9-5	952-953	,	_	
+9-6	954-960	könnte	_	
+9-7	961-964	die	_	
+9-8	965-972	Fahrrad	_	
+9-9	972-973	/	_	
+9-10	973-988	Fußgänger-Ampel	_	
+9-11	989-993	grün	_	
+9-12	994-999	geben	_	
+9-13	999-1000	.	_	
+
+#Text=Wäre schön!
+10-1	1001-1005	Wäre	_	
+10-2	1006-1011	schön	_	
+10-3	1011-1012	!	_	

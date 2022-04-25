@@ -1,0 +1,145 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bettelampel an der B 56 / Reinold-Hagen-Straße
+1-1	0-11	Bettelampel	_	
+1-2	12-14	an	*[7]	
+1-3	15-18	der	*[7]	
+1-4	19-20	B	*[7]	
+1-5	21-23	56	*[7]	
+1-6	24-25	/	*[7]	
+1-7	26-46	Reinold-Hagen-Straße	*[7]	
+
+#Text=Vor Kurzem wurde der freie Rechtsabbieger auf die B 56 durch eine Ampelanlage signalisiert, die für Radfahrer auf der Hauptfahrtrichtung nach Sankt Augustin auf Rot steht, wenn das Fahrradsignal über die Reinold-Hagen-Straße grün zeigt.
+2-1	49-52	Vor	_	
+2-2	53-59	Kurzem	_	
+2-3	60-65	wurde	_	
+2-4	66-69	der	_	
+2-5	70-75	freie	_	
+2-6	76-90	Rechtsabbieger	_	
+2-7	91-94	auf	_	
+2-8	95-98	die	*[8]	
+2-9	99-100	B	*[8]	
+2-10	101-103	56	*[8]	
+2-11	104-109	durch	_	
+2-12	110-114	eine	_	
+2-13	115-126	Ampelanlage	_	
+2-14	127-139	signalisiert	_	
+2-15	139-140	,	_	
+2-16	141-144	die	_	
+2-17	145-148	für	_	
+2-18	149-158	Radfahrer	_	
+2-19	159-162	auf	*[9]	
+2-20	163-166	der	*[9]	
+2-21	167-185	Hauptfahrtrichtung	*[9]	
+2-22	186-190	nach	*[9]	
+2-23	191-196	Sankt	*[9]	
+2-24	197-205	Augustin	*[9]	
+2-25	206-209	auf	_	
+2-26	210-213	Rot	_	
+2-27	214-219	steht	_	
+2-28	219-220	,	_	
+2-29	221-225	wenn	_	
+2-30	226-229	das	_	
+2-31	230-243	Fahrradsignal	_	
+2-32	244-248	über	*[10]	
+2-33	249-252	die	*[10]	
+2-34	253-273	Reinold-Hagen-Straße	*[10]	
+2-35	274-278	grün	_	
+2-36	279-284	zeigt	_	
+2-37	284-285	.	_	
+
+#Text=Mit der Folge, dass Radfahrer vor dem Rechtsabbieger erst das Grünsignal für die Freigabe anfordern müssen (sog. Bettelampel).
+3-1	286-289	Mit	_	
+3-2	290-293	der	_	
+3-3	294-299	Folge	_	
+3-4	299-300	,	_	
+3-5	301-305	dass	_	
+3-6	306-315	Radfahrer	_	
+3-7	316-319	vor	_	
+3-8	320-323	dem	_	
+3-9	324-338	Rechtsabbieger	_	
+3-10	339-343	erst	_	
+3-11	344-347	das	_	
+3-12	348-358	Grünsignal	_	
+3-13	359-362	für	_	
+3-14	363-366	die	_	
+3-15	367-375	Freigabe	_	
+3-16	376-385	anfordern	_	
+3-17	386-392	müssen	_	
+3-18	393-394	(	_	
+3-19	394-397	sog	_	
+3-20	397-398	.	_	
+3-21	399-410	Bettelampel	_	
+3-22	410-411	)	_	
+3-23	411-412	.	_	
+
+#Text=Dies ist eine deutliche Komfort-Verschlechterung und benachteiligt und verlangsamt den Radverkehr.
+4-1	413-417	Dies	_	
+4-2	418-421	ist	_	
+4-3	422-426	eine	_	
+4-4	427-436	deutliche	_	
+4-5	437-461	Komfort-Verschlechterung	_	
+4-6	462-465	und	_	
+4-7	466-479	benachteiligt	_	
+4-8	480-483	und	_	
+4-9	484-495	verlangsamt	_	
+4-10	496-499	den	_	
+4-11	500-510	Radverkehr	_	
+4-12	510-511	.	_	
+
+#Text=Vorschlag: Wenn Ampel für Rechtsabbieger aus Sicherheitsgründen bestehen bleiben muss, Radverkehrssignal aufeinander abstimmen, dass Radfahrer (und Fußgänger) in einem Rutsch die Kreuzung überqueren können.
+5-1	512-521	Vorschlag	_	
+5-2	521-522	:	_	
+5-3	523-527	Wenn	_	
+5-4	528-533	Ampel	_	
+5-5	534-537	für	_	
+5-6	538-552	Rechtsabbieger	_	
+5-7	553-556	aus	_	
+5-8	557-575	Sicherheitsgründen	_	
+5-9	576-584	bestehen	_	
+5-10	585-592	bleiben	_	
+5-11	593-597	muss	_	
+5-12	597-598	,	_	
+5-13	599-616	Radverkehrssignal	_	
+5-14	617-628	aufeinander	_	
+5-15	629-638	abstimmen	_	
+5-16	638-639	,	_	
+5-17	640-644	dass	_	
+5-18	645-654	Radfahrer	_	
+5-19	655-656	(	_	
+5-20	656-659	und	_	
+5-21	660-669	Fußgänger	_	
+5-22	669-670	)	_	
+5-23	671-673	in	_	
+5-24	674-679	einem	_	
+5-25	680-686	Rutsch	_	
+5-26	687-690	die	_	
+5-27	691-699	Kreuzung	_	
+5-28	700-710	überqueren	_	
+5-29	711-717	können	_	
+5-30	717-718	.	_	
+
+#Text=Sonst Abschalten und Rechtsabbieger auf Vorfahrtberechtigte Radfahrer und Fußgänger hinweisen mit Furt, Symbol und evtl. Blinklicht.
+6-1	719-724	Sonst	_	
+6-2	725-735	Abschalten	_	
+6-3	736-739	und	_	
+6-4	740-754	Rechtsabbieger	_	
+6-5	755-758	auf	_	
+6-6	759-778	Vorfahrtberechtigte	_	
+6-7	779-788	Radfahrer	_	
+6-8	789-792	und	_	
+6-9	793-802	Fußgänger	_	
+6-10	803-812	hinweisen	_	
+6-11	813-816	mit	_	
+6-12	817-821	Furt	_	
+6-13	821-822	,	_	
+6-14	823-829	Symbol	_	
+6-15	830-833	und	_	
+6-16	834-838	evtl	_	
+6-17	838-839	.	_	
+6-18	840-850	Blinklicht	_	
+6-19	850-851	.	_	

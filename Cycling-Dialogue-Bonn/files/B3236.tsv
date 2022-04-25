@@ -1,0 +1,262 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkhrserziehung Busfahrer
+1-1	0-16	Verkhrserziehung	_	
+1-2	17-26	Busfahrer	_	
+
+#Text=Aufgrund der schlechten Situation wird das Fahrradverbot auch immer mal wieder von Radler missachtet bzw. anfangs hatte ich in der unübersichtlichen Situation gar nicht verstanden, dass ich hier nicht fahren darf.
+2-1	29-37	Aufgrund	_	
+2-2	38-41	der	_	
+2-3	42-52	schlechten	_	
+2-4	53-62	Situation	_	
+2-5	63-67	wird	_	
+2-6	68-71	das	_	
+2-7	72-85	Fahrradverbot	_	
+2-8	86-90	auch	_	
+2-9	91-96	immer	_	
+2-10	97-100	mal	_	
+2-11	101-107	wieder	_	
+2-12	108-111	von	_	
+2-13	112-118	Radler	_	
+2-14	119-129	missachtet	_	
+2-15	130-133	bzw	_	
+2-16	133-134	.	_	
+2-17	135-142	anfangs	_	
+2-18	143-148	hatte	_	
+2-19	149-152	ich	_	
+2-20	153-155	in	_	
+2-21	156-159	der	_	
+2-22	160-177	unübersichtlichen	_	
+2-23	178-187	Situation	_	
+2-24	188-191	gar	_	
+2-25	192-197	nicht	_	
+2-26	198-208	verstanden	_	
+2-27	208-209	,	_	
+2-28	210-214	dass	_	
+2-29	215-218	ich	_	
+2-30	219-223	hier	_	
+2-31	224-229	nicht	_	
+2-32	230-236	fahren	_	
+2-33	237-241	darf	_	
+2-34	241-242	.	_	
+
+#Text=Macht ja auch keinen Sinn... aber das Thema wurde hier ja schon viel diskutiert.
+3-1	243-248	Macht	_	
+3-2	249-251	ja	_	
+3-3	252-256	auch	_	
+3-4	257-263	keinen	_	
+3-5	264-268	Sinn	_	
+3-6	268-269	.	_	
+3-7	269-270	.	_	
+3-8	270-271	.	_	
+3-9	272-276	aber	_	
+3-10	277-280	das	_	
+3-11	281-286	Thema	_	
+3-12	287-292	wurde	_	
+3-13	293-297	hier	_	
+3-14	298-300	ja	_	
+3-15	301-306	schon	_	
+3-16	307-311	viel	_	
+3-17	312-322	diskutiert	_	
+3-18	322-323	.	_	
+
+#Text=Jedenfalls hatte ich vor ein paar Monaten schon das Erlebnis, dass ich illegaler Weise über die Brücke gefahren bin.
+4-1	324-334	Jedenfalls	_	
+4-2	335-340	hatte	_	
+4-3	341-344	ich	_	
+4-4	345-348	vor	_	
+4-5	349-352	ein	_	
+4-6	353-357	paar	_	
+4-7	358-365	Monaten	_	
+4-8	366-371	schon	_	
+4-9	372-375	das	_	
+4-10	376-384	Erlebnis	_	
+4-11	384-385	,	_	
+4-12	386-390	dass	_	
+4-13	391-394	ich	_	
+4-14	395-404	illegaler	_	
+4-15	405-410	Weise	_	
+4-16	411-415	über	_	
+4-17	416-419	die	_	
+4-18	420-426	Brücke	_	
+4-19	427-435	gefahren	_	
+4-20	436-439	bin	_	
+4-21	439-440	.	_	
+
+#Text=Ein Linienbus hinter mir hat mich dann von der Fahrbahngehupt und mich in die Baustelle abgedrängt.
+5-1	441-444	Ein	_	
+5-2	445-454	Linienbus	_	
+5-3	455-461	hinter	_	
+5-4	462-465	mir	_	
+5-5	466-469	hat	_	
+5-6	470-474	mich	_	
+5-7	475-479	dann	_	
+5-8	480-483	von	_	
+5-9	484-487	der	_	
+5-10	488-502	Fahrbahngehupt	_	
+5-11	503-506	und	_	
+5-12	507-511	mich	_	
+5-13	512-514	in	_	
+5-14	515-518	die	_	
+5-15	519-528	Baustelle	_	
+5-16	529-539	abgedrängt	_	
+5-17	539-540	.	_	
+
+#Text=Von PKW-Fahren war ich dies ja schon gewohnt, der Drang als erster bei Rot an der Ampel zu stehen ist auch einfach soooo groß!
+6-1	541-544	Von	_	
+6-2	545-555	PKW-Fahren	_	
+6-3	556-559	war	_	
+6-4	560-563	ich	_	
+6-5	564-568	dies	_	
+6-6	569-571	ja	_	
+6-7	572-577	schon	_	
+6-8	578-585	gewohnt	_	
+6-9	585-586	,	_	
+6-10	587-590	der	_	
+6-11	591-596	Drang	_	
+6-12	597-600	als	_	
+6-13	601-607	erster	_	
+6-14	608-611	bei	_	
+6-15	612-615	Rot	_	
+6-16	616-618	an	_	
+6-17	619-622	der	_	
+6-18	623-628	Ampel	_	
+6-19	629-631	zu	_	
+6-20	632-638	stehen	_	
+6-21	639-642	ist	_	
+6-22	643-647	auch	_	
+6-23	648-655	einfach	_	
+6-24	656-661	soooo	_	
+6-25	662-666	groß	_	
+6-26	666-667	!	_	
+
+#Text=Aber Fahrer von öffentlichen Verkehrsmitteln sollten doch wissen, dass dies Nötigung ist und dies schwere Unfälle verursachen kann, egal ob man mit Absicht oder ausversehen über die Brücke fährt.
+7-1	668-672	Aber	_	
+7-2	673-679	Fahrer	_	
+7-3	680-683	von	_	
+7-4	684-696	öffentlichen	_	
+7-5	697-712	Verkehrsmitteln	_	
+7-6	713-720	sollten	_	
+7-7	721-725	doch	_	
+7-8	726-732	wissen	_	
+7-9	732-733	,	_	
+7-10	734-738	dass	_	
+7-11	739-743	dies	_	
+7-12	744-752	Nötigung	_	
+7-13	753-756	ist	_	
+7-14	757-760	und	_	
+7-15	761-765	dies	_	
+7-16	766-773	schwere	_	
+7-17	774-781	Unfälle	_	
+7-18	782-793	verursachen	_	
+7-19	794-798	kann	_	
+7-20	798-799	,	_	
+7-21	800-804	egal	_	
+7-22	805-807	ob	_	
+7-23	808-811	man	_	
+7-24	812-815	mit	_	
+7-25	816-823	Absicht	_	
+7-26	824-828	oder	_	
+7-27	829-840	ausversehen	_	
+7-28	841-845	über	_	
+7-29	846-849	die	_	
+7-30	850-856	Brücke	_	
+7-31	857-862	fährt	_	
+7-32	862-863	.	_	
+
+#Text=Letztes Wochenende musste ich selbige Situation dann wieder mit einer anderen Radlerin beobachten.
+8-1	864-871	Letztes	_	
+8-2	872-882	Wochenende	_	
+8-3	883-889	musste	_	
+8-4	890-893	ich	_	
+8-5	894-901	selbige	_	
+8-6	902-911	Situation	_	
+8-7	912-916	dann	_	
+8-8	917-923	wieder	_	
+8-9	924-927	mit	_	
+8-10	928-933	einer	_	
+8-11	934-941	anderen	_	
+8-12	942-950	Radlerin	_	
+8-13	951-961	beobachten	_	
+8-14	961-962	.	_	
+
+#Text=Ein Linienbus hat sie mit Dauerhupton bedrängt und dann ohne auch nur ein bisschen Sicherheitsabstand einzuhalten noch auf der Brücke knapp überholt.
+9-1	963-966	Ein	_	
+9-2	967-976	Linienbus	_	
+9-3	977-980	hat	_	
+9-4	981-984	sie	_	
+9-5	985-988	mit	_	
+9-6	989-1000	Dauerhupton	_	
+9-7	1001-1009	bedrängt	_	
+9-8	1010-1013	und	_	
+9-9	1014-1018	dann	_	
+9-10	1019-1023	ohne	_	
+9-11	1024-1028	auch	_	
+9-12	1029-1032	nur	_	
+9-13	1033-1036	ein	_	
+9-14	1037-1045	bisschen	_	
+9-15	1046-1064	Sicherheitsabstand	_	
+9-16	1065-1076	einzuhalten	_	
+9-17	1077-1081	noch	_	
+9-18	1082-1085	auf	_	
+9-19	1086-1089	der	_	
+9-20	1090-1096	Brücke	_	
+9-21	1097-1102	knapp	_	
+9-22	1103-1111	überholt	_	
+9-23	1111-1112	.	_	
+
+#Text=Auch in anderen Situationen wurde ich schon von Busfahrern abgedrängt oder sehr knapp überholt (z.B. Endenicher Straße).
+10-1	1113-1117	Auch	_	
+10-2	1118-1120	in	_	
+10-3	1121-1128	anderen	_	
+10-4	1129-1140	Situationen	_	
+10-5	1141-1146	wurde	_	
+10-6	1147-1150	ich	_	
+10-7	1151-1156	schon	_	
+10-8	1157-1160	von	_	
+10-9	1161-1171	Busfahrern	_	
+10-10	1172-1182	abgedrängt	_	
+10-11	1183-1187	oder	_	
+10-12	1188-1192	sehr	_	
+10-13	1193-1198	knapp	_	
+10-14	1199-1207	überholt	_	
+10-15	1208-1209	(	_	
+10-16	1209-1212	z.B	*[12]	
+10-17	1212-1213	.	*[12]	
+10-18	1214-1224	Endenicher	*[12]	
+10-19	1225-1231	Straße	*[12]	
+10-20	1231-1232	)	_	
+10-21	1232-1233	.	_	
+
+#Text=Fahrer von Bussen mit dem dicken Aufkleber, das Radfahrer eh in der Todeszone sind wegen totem Winkel brauchen sich wohl nicht benehmen....
+11-1	1234-1240	Fahrer	_	
+11-2	1241-1244	von	_	
+11-3	1245-1251	Bussen	_	
+11-4	1252-1255	mit	_	
+11-5	1256-1259	dem	_	
+11-6	1260-1266	dicken	_	
+11-7	1267-1276	Aufkleber	_	
+11-8	1276-1277	,	_	
+11-9	1278-1281	das	_	
+11-10	1282-1291	Radfahrer	_	
+11-11	1292-1294	eh	_	
+11-12	1295-1297	in	_	
+11-13	1298-1301	der	_	
+11-14	1302-1311	Todeszone	_	
+11-15	1312-1316	sind	_	
+11-16	1317-1322	wegen	_	
+11-17	1323-1328	totem	_	
+11-18	1329-1335	Winkel	_	
+11-19	1336-1344	brauchen	_	
+11-20	1345-1349	sich	_	
+11-21	1350-1354	wohl	_	
+11-22	1355-1360	nicht	_	
+11-23	1361-1369	benehmen	_	
+11-24	1369-1370	.	_	
+11-25	1370-1371	.	_	
+11-26	1371-1372	.	_	
+11-27	1372-1373	.	_	

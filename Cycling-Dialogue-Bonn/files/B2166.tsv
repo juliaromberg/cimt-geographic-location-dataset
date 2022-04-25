@@ -1,0 +1,207 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unklare Verkehrsführung Geislarstraße - Adelheidisstraße
+1-1	0-7	Unklare	_	
+1-2	8-23	Verkehrsführung	_	
+1-3	24-37	Geislarstraße	*[12]	
+1-4	38-39	-	*[12]	
+1-5	40-56	Adelheidisstraße	*[12]	
+
+#Text=Der Pkw-Verkehr wird von Geislar kommend in Richtung Vilich eindeutig über die Käsbergstraße geleitet.
+2-1	59-62	Der	_	
+2-2	63-74	Pkw-Verkehr	_	
+2-3	75-79	wird	_	
+2-4	80-83	von	*[13]	
+2-5	84-91	Geislar	*[13]	
+2-6	92-99	kommend	*[13]	
+2-7	100-102	in	*[13]	
+2-8	103-111	Richtung	*[13]	
+2-9	112-118	Vilich	*[13]	
+2-10	119-128	eindeutig	*[13]	
+2-11	129-133	über	*[13]	
+2-12	134-137	die	*[13]	
+2-13	138-151	Käsbergstraße	*[13]	
+2-14	152-160	geleitet	*[13]	
+2-15	160-161	.	_	
+
+#Text=Für Fahrradfahrer bietet ein Fahrradweg den Weg über die Verkehrsinsel auf die Adelheidisstraße.
+3-1	162-165	Für	_	
+3-2	166-179	Fahrradfahrer	_	
+3-3	180-186	bietet	_	
+3-4	187-190	ein	_	
+3-5	191-201	Fahrradweg	_	
+3-6	202-205	den	_	
+3-7	206-209	Weg	_	
+3-8	210-214	über	*[14]	
+3-9	215-218	die	*[14]	
+3-10	219-232	Verkehrsinsel	*[14]	
+3-11	233-236	auf	*[14]	
+3-12	237-240	die	*[14]	
+3-13	241-257	Adelheidisstraße	*[14]	
+3-14	257-258	.	_	
+
+#Text=Der Radweg endet allerdings abrupt an der Verengung der Adelheidisstraße.
+4-1	259-262	Der	_	
+4-2	263-269	Radweg	_	
+4-3	270-275	endet	_	
+4-4	276-286	allerdings	_	
+4-5	287-293	abrupt	_	
+4-6	294-296	an	*[15]	
+4-7	297-300	der	*[15]	
+4-8	301-310	Verengung	*[15]	
+4-9	311-314	der	*[15]	
+4-10	315-331	Adelheidisstraße	*[15]	
+4-11	331-332	.	_	
+
+#Text=Der logische Weg für Fahrradfahrer geht hier auf die Adelheidisstraße den Berg hinauf.
+5-1	333-336	Der	_	
+5-2	337-345	logische	_	
+5-3	346-349	Weg	_	
+5-4	350-353	für	_	
+5-5	354-367	Fahrradfahrer	_	
+5-6	368-372	geht	_	
+5-7	373-377	hier	_	
+5-8	378-381	auf	*[16]	
+5-9	382-385	die	*[16]	
+5-10	386-402	Adelheidisstraße	*[16]	
+5-11	403-406	den	*[16]	
+5-12	407-411	Berg	*[16]	
+5-13	412-418	hinauf	*[16]	
+5-14	418-419	.	_	
+
+#Text=Dabei gibt es zwei Gefahrenquellen:
+6-1	420-425	Dabei	_	
+6-2	426-430	gibt	_	
+6-3	431-433	es	_	
+6-4	434-438	zwei	_	
+6-5	439-454	Gefahrenquellen	_	
+6-6	454-455	:	_	
+
+#Text=1. An dem Ende des Radweges stehen häufig mehrere Fahrzeuge auf der Straße geparkt, so dass man mit dem Fahrrad nur mühsam auf die Straße gelangt.
+7-1	456-457	1	_	
+7-2	457-458	.	_	
+7-3	459-461	An	_	
+7-4	462-465	dem	_	
+7-5	466-470	Ende	_	
+7-6	471-474	des	_	
+7-7	475-483	Radweges	_	
+7-8	484-490	stehen	_	
+7-9	491-497	häufig	_	
+7-10	498-505	mehrere	_	
+7-11	506-515	Fahrzeuge	_	
+7-12	516-519	auf	_	
+7-13	520-523	der	_	
+7-14	524-530	Straße	_	
+7-15	531-538	geparkt	_	
+7-16	538-539	,	_	
+7-17	540-542	so	_	
+7-18	543-547	dass	_	
+7-19	548-551	man	_	
+7-20	552-555	mit	_	
+7-21	556-559	dem	_	
+7-22	560-567	Fahrrad	_	
+7-23	568-571	nur	_	
+7-24	572-578	mühsam	_	
+7-25	579-582	auf	_	
+7-26	583-586	die	_	
+7-27	587-593	Straße	_	
+7-28	594-601	gelangt	_	
+7-29	601-602	.	_	
+
+#Text=2. Dem Pkw-Verkehr von Vilich kommend ist meist nicht bewusst, dass hier Fahrradfahrer entgegenkommen können.
+8-1	603-604	2	_	
+8-2	604-605	.	_	
+8-3	606-609	Dem	_	
+8-4	610-621	Pkw-Verkehr	_	
+8-5	622-625	von	*[17]	
+8-6	626-632	Vilich	*[17]	
+8-7	633-640	kommend	*[17]	
+8-8	641-644	ist	_	
+8-9	645-650	meist	_	
+8-10	651-656	nicht	_	
+8-11	657-664	bewusst	_	
+8-12	664-665	,	_	
+8-13	666-670	dass	_	
+8-14	671-675	hier	_	
+8-15	676-689	Fahrradfahrer	_	
+8-16	690-704	entgegenkommen	_	
+8-17	705-711	können	_	
+8-18	711-712	.	_	
+
+#Text=Es wird häufig in der Mitte der Straße gefahren, dazu noch mit deutlich überhöhter Geschwindigkeit.
+9-1	713-715	Es	_	
+9-2	716-720	wird	_	
+9-3	721-727	häufig	_	
+9-4	728-730	in	_	
+9-5	731-734	der	_	
+9-6	735-740	Mitte	_	
+9-7	741-744	der	_	
+9-8	745-751	Straße	_	
+9-9	752-760	gefahren	_	
+9-10	760-761	,	_	
+9-11	762-766	dazu	_	
+9-12	767-771	noch	_	
+9-13	772-775	mit	_	
+9-14	776-784	deutlich	_	
+9-15	785-795	überhöhter	_	
+9-16	796-811	Geschwindigkeit	_	
+9-17	811-812	.	_	
+
+#Text=Durch die Verengung der Straße und die Mauer auf der Käsbergseite ist die Sicht zudem sehr schlecht, was die Gefahr deutlich erhöht.
+10-1	813-818	Durch	_	
+10-2	819-822	die	_	
+10-3	823-832	Verengung	_	
+10-4	833-836	der	_	
+10-5	837-843	Straße	_	
+10-6	844-847	und	_	
+10-7	848-851	die	_	
+10-8	852-857	Mauer	_	
+10-9	858-861	auf	*[18]	
+10-10	862-865	der	*[18]	
+10-11	866-878	Käsbergseite	*[18]	
+10-12	879-882	ist	_	
+10-13	883-886	die	_	
+10-14	887-892	Sicht	_	
+10-15	893-898	zudem	_	
+10-16	899-903	sehr	_	
+10-17	904-912	schlecht	_	
+10-18	912-913	,	_	
+10-19	914-917	was	_	
+10-20	918-921	die	_	
+10-21	922-928	Gefahr	_	
+10-22	929-937	deutlich	_	
+10-23	938-944	erhöht	_	
+10-24	944-945	.	_	
+
+#Text=Abhilfe könnte die farbliche Markierung eines Radwegs entgegen der Pkw-Fahrtrichtung schaffen (sofern die Verkehrsführung an dieser Stelle überhaupt korrekt interpretiert wurde...).
+11-1	946-953	Abhilfe	_	
+11-2	954-960	könnte	_	
+11-3	961-964	die	_	
+11-4	965-974	farbliche	_	
+11-5	975-985	Markierung	_	
+11-6	986-991	eines	_	
+11-7	992-999	Radwegs	_	
+11-8	1000-1008	entgegen	_	
+11-9	1009-1012	der	_	
+11-10	1013-1030	Pkw-Fahrtrichtung	_	
+11-11	1031-1039	schaffen	_	
+11-12	1040-1041	(	_	
+11-13	1041-1047	sofern	_	
+11-14	1048-1051	die	_	
+11-15	1052-1067	Verkehrsführung	_	
+11-16	1068-1070	an	_	
+11-17	1071-1077	dieser	_	
+11-18	1078-1084	Stelle	_	
+11-19	1085-1094	überhaupt	_	
+11-20	1095-1102	korrekt	_	
+11-21	1103-1116	interpretiert	_	
+11-22	1117-1122	wurde	_	
+11-23	1122-1123	.	_	
+11-24	1123-1124	.	_	
+11-25	1124-1125	.	_	
+11-26	1125-1126	)	_	
+11-27	1126-1127	.	_	

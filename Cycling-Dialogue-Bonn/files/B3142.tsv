@@ -1,0 +1,126 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Flickwerk Straßenbelag
+1-1	0-9	Flickwerk	_	
+1-2	10-22	Straßenbelag	_	
+
+#Text=Zwischen V-Hotel und evangelischem Kindergarten hat der Straßenbelag, v.a. am Fahrbahnrand, in beiden Verkehrsrichtungen sehr stark gelitten.
+2-1	25-33	Zwischen	*[7]	
+2-2	34-41	V-Hotel	*[7]	
+2-3	42-45	und	*[7]	
+2-4	46-59	evangelischem	*[7]	
+2-5	60-72	Kindergarten	*[7]	
+2-6	73-76	hat	_	
+2-7	77-80	der	_	
+2-8	81-93	Straßenbelag	_	
+2-9	93-94	,	_	
+2-10	95-98	v.a	_	
+2-11	98-99	.	_	
+2-12	100-102	am	_	
+2-13	103-115	Fahrbahnrand	_	
+2-14	115-116	,	_	
+2-15	117-119	in	_	
+2-16	120-126	beiden	_	
+2-17	127-145	Verkehrsrichtungen	_	
+2-18	146-150	sehr	_	
+2-19	151-156	stark	_	
+2-20	157-165	gelitten	_	
+2-21	165-166	.	_	
+
+#Text=Die Schlaglöcher werden regelmäßig aufgefüllt.
+3-1	167-170	Die	_	
+3-2	171-183	Schlaglöcher	_	
+3-3	184-190	werden	_	
+3-4	191-201	regelmäßig	_	
+3-5	202-212	aufgefüllt	_	
+3-6	212-213	.	_	
+
+#Text=Da es sich jedoch um eine Senke handelt, in der sich Frostschäden durch eindringendes Wasser fortsetzen werden ist von einer fortschreitenden Verschlimmerung auszugehen.
+4-1	214-216	Da	_	
+4-2	217-219	es	_	
+4-3	220-224	sich	_	
+4-4	225-231	jedoch	_	
+4-5	232-234	um	_	
+4-6	235-239	eine	_	
+4-7	240-245	Senke	_	
+4-8	246-253	handelt	_	
+4-9	253-254	,	_	
+4-10	255-257	in	_	
+4-11	258-261	der	_	
+4-12	262-266	sich	_	
+4-13	267-279	Frostschäden	_	
+4-14	280-285	durch	_	
+4-15	286-299	eindringendes	_	
+4-16	300-306	Wasser	_	
+4-17	307-317	fortsetzen	_	
+4-18	318-324	werden	_	
+4-19	325-328	ist	_	
+4-20	329-332	von	_	
+4-21	333-338	einer	_	
+4-22	339-355	fortschreitenden	_	
+4-23	356-371	Verschlimmerung	_	
+4-24	372-382	auszugehen	_	
+4-25	382-383	.	_	
+
+#Text=Das Befahren dieser Buckelpiste mit dem Rad ist problematisch und drängelnde Autofahrer, die durch die Verkehrsinseln auf Höhe der Bushaltestelle bzw. Zebrastreifen nicht ausweichen können verstärken den Druck.
+5-1	384-387	Das	_	
+5-2	388-396	Befahren	_	
+5-3	397-403	dieser	_	
+5-4	404-415	Buckelpiste	_	
+5-5	416-419	mit	_	
+5-6	420-423	dem	_	
+5-7	424-427	Rad	_	
+5-8	428-431	ist	_	
+5-9	432-445	problematisch	_	
+5-10	446-449	und	_	
+5-11	450-460	drängelnde	_	
+5-12	461-471	Autofahrer	_	
+5-13	471-472	,	_	
+5-14	473-476	die	_	
+5-15	477-482	durch	_	
+5-16	483-486	die	_	
+5-17	487-501	Verkehrsinseln	_	
+5-18	502-505	auf	_	
+5-19	506-510	Höhe	_	
+5-20	511-514	der	_	
+5-21	515-529	Bushaltestelle	_	
+5-22	530-533	bzw	_	
+5-23	533-534	.	_	
+5-24	535-548	Zebrastreifen	_	
+5-25	549-554	nicht	_	
+5-26	555-565	ausweichen	_	
+5-27	566-572	können	_	
+5-28	573-583	verstärken	_	
+5-29	584-587	den	_	
+5-30	588-593	Druck	_	
+5-31	593-594	.	_	
+
+#Text=Der Bewuchs am Seitenstreifen Richtung Ippendorf wird stellenweise nicht ausreichend zurückgeschnitten, so dass man als Radfahrer mitunter auf die Fahrbahn ausweichen muss.
+6-1	595-598	Der	_	
+6-2	599-606	Bewuchs	_	
+6-3	607-609	am	*[8]	
+6-4	610-624	Seitenstreifen	*[8]	
+6-5	625-633	Richtung	*[8]	
+6-6	634-643	Ippendorf	*[8]	
+6-7	644-648	wird	_	
+6-8	649-661	stellenweise	_	
+6-9	662-667	nicht	_	
+6-10	668-679	ausreichend	_	
+6-11	680-697	zurückgeschnitten	_	
+6-12	697-698	,	_	
+6-13	699-701	so	_	
+6-14	702-706	dass	_	
+6-15	707-710	man	_	
+6-16	711-714	als	_	
+6-17	715-724	Radfahrer	_	
+6-18	725-733	mitunter	_	
+6-19	734-737	auf	_	
+6-20	738-741	die	_	
+6-21	742-750	Fahrbahn	_	
+6-22	751-761	ausweichen	_	
+6-23	762-766	muss	_	
+6-24	766-767	.	_	

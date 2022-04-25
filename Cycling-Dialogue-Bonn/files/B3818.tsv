@@ -1,0 +1,25 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegqualität
+1-1	0-14	Radwegqualität	_	
+
+#Text=Der Straßenbelag ist katastophal und FahrradfahrerInnen können den Unebenheiten wegen der Schienen nicht ausweichen.
+2-1	17-20	Der	_	
+2-2	21-33	Straßenbelag	_	
+2-3	34-37	ist	_	
+2-4	38-49	katastophal	_	
+2-5	50-53	und	_	
+2-6	54-72	FahrradfahrerInnen	_	
+2-7	73-79	können	_	
+2-8	80-83	den	_	
+2-9	84-96	Unebenheiten	_	
+2-10	97-102	wegen	_	
+2-11	103-106	der	_	
+2-12	107-115	Schienen	_	
+2-13	116-121	nicht	_	
+2-14	122-132	ausweichen	_	
+2-15	132-133	.	_	

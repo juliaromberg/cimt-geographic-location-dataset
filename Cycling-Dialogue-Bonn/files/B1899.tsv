@@ -1,0 +1,159 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Caritas-Radstation von Süden her kaum erreichbar
+1-1	0-18	Caritas-Radstation	*	
+1-2	19-22	von	_	
+1-3	23-28	Süden	_	
+1-4	29-32	her	_	
+1-5	33-37	kaum	_	
+1-6	38-48	erreichbar	_	
+
+#Text=Die Radstation der Caritas ist für mich als Pendler sehr wichtig, weil ich dort mein Rad schnell und sicher abstellen kann.
+2-1	51-54	Die	*[9]	
+2-2	55-65	Radstation	*[9]	
+2-3	66-69	der	*[9]	
+2-4	70-77	Caritas	*[9]	
+2-5	78-81	ist	_	
+2-6	82-85	für	_	
+2-7	86-90	mich	_	
+2-8	91-94	als	_	
+2-9	95-102	Pendler	_	
+2-10	103-107	sehr	_	
+2-11	108-115	wichtig	_	
+2-12	115-116	,	_	
+2-13	117-121	weil	_	
+2-14	122-125	ich	_	
+2-15	126-130	dort	_	
+2-16	131-135	mein	_	
+2-17	136-139	Rad	_	
+2-18	140-147	schnell	_	
+2-19	148-151	und	_	
+2-20	152-158	sicher	_	
+2-21	159-168	abstellen	_	
+2-22	169-173	kann	_	
+2-23	173-174	.	_	
+
+#Text=Nun ist die Radstation leider seit der Baustelle an der Quantiusstraße nur schwer erreichbar, da sie für Radfahrer aus Richtung Süden gesperrt ist.
+3-1	175-178	Nun	_	
+3-2	179-182	ist	_	
+3-3	183-186	die	_	
+3-4	187-197	Radstation	_	
+3-5	198-204	leider	_	
+3-6	205-209	seit	_	
+3-7	210-213	der	_	
+3-8	214-223	Baustelle	_	
+3-9	224-226	an	*[10]	
+3-10	227-230	der	*[10]	
+3-11	231-245	Quantiusstraße	*[10]	
+3-12	246-249	nur	_	
+3-13	250-256	schwer	_	
+3-14	257-267	erreichbar	_	
+3-15	267-268	,	_	
+3-16	269-271	da	_	
+3-17	272-275	sie	_	
+3-18	276-279	für	_	
+3-19	280-289	Radfahrer	_	
+3-20	290-293	aus	_	
+3-21	294-302	Richtung	_	
+3-22	303-308	Süden	_	
+3-23	309-317	gesperrt	_	
+3-24	318-321	ist	_	
+3-25	321-322	.	_	
+
+#Text=Könnte das bitte mal ein Verantwortlicher der Stadt erläutern???
+4-1	323-329	Könnte	_	
+4-2	330-333	das	_	
+4-3	334-339	bitte	_	
+4-4	340-343	mal	_	
+4-5	344-347	ein	_	
+4-6	348-364	Verantwortlicher	_	
+4-7	365-368	der	_	
+4-8	369-374	Stadt	_	
+4-9	375-384	erläutern	_	
+4-10	384-385	?	_	
+4-11	385-386	?	_	
+4-12	386-387	?	_	
+
+#Text=Wie kann man die Zufahrt für Radfahrer sperren, eine Umfahrung ist nicht ausgewiesen!
+5-1	388-391	Wie	_	
+5-2	392-396	kann	_	
+5-3	397-400	man	_	
+5-4	401-404	die	_	
+5-5	405-412	Zufahrt	_	
+5-6	413-416	für	_	
+5-7	417-426	Radfahrer	_	
+5-8	427-434	sperren	_	
+5-9	434-435	,	_	
+5-10	436-440	eine	_	
+5-11	441-450	Umfahrung	_	
+5-12	451-454	ist	_	
+5-13	455-460	nicht	_	
+5-14	461-472	ausgewiesen	_	
+5-15	472-473	!	_	
+
+#Text=Andererseits dürfen aber Massen von PKWs durch die Quantiusstrasse fahren, muss das sein?
+6-1	474-486	Andererseits	_	
+6-2	487-493	dürfen	_	
+6-3	494-498	aber	_	
+6-4	499-505	Massen	_	
+6-5	506-509	von	_	
+6-6	510-514	PKWs	_	
+6-7	515-520	durch	*[11]	
+6-8	521-524	die	*[11]	
+6-9	525-540	Quantiusstrasse	*[11]	
+6-10	541-547	fahren	_	
+6-11	547-548	,	_	
+6-12	549-553	muss	_	
+6-13	554-557	das	_	
+6-14	558-562	sein	_	
+6-15	562-563	?	_	
+
+#Text=Mein Vorschlag: die Quatiusstraße für den motorisierten Individualverkehr sperren, eine schmale Radspur einrichten, dann bleibt Platz für die Busse.
+7-1	564-568	Mein	_	
+7-2	569-578	Vorschlag	_	
+7-3	578-579	:	_	
+7-4	580-583	die	*[12]	
+7-5	584-597	Quatiusstraße	*[12]	
+7-6	598-601	für	_	
+7-7	602-605	den	_	
+7-8	606-619	motorisierten	_	
+7-9	620-637	Individualverkehr	_	
+7-10	638-645	sperren	_	
+7-11	645-646	,	_	
+7-12	647-651	eine	_	
+7-13	652-659	schmale	_	
+7-14	660-667	Radspur	_	
+7-15	668-678	einrichten	_	
+7-16	678-679	,	_	
+7-17	680-684	dann	_	
+7-18	685-691	bleibt	_	
+7-19	692-697	Platz	_	
+7-20	698-701	für	_	
+7-21	702-705	die	_	
+7-22	706-711	Busse	_	
+7-23	711-712	.	_	
+
+#Text=Hier sollte ein Kompromiss möglich sein, da die Busse auf dem 100m ja mal langsam fahren könnten.
+8-1	713-717	Hier	_	
+8-2	718-724	sollte	_	
+8-3	725-728	ein	_	
+8-4	729-739	Kompromiss	_	
+8-5	740-747	möglich	_	
+8-6	748-752	sein	_	
+8-7	752-753	,	_	
+8-8	754-756	da	_	
+8-9	757-760	die	_	
+8-10	761-766	Busse	_	
+8-11	767-770	auf	_	
+8-12	771-774	dem	_	
+8-13	775-779	100m	_	
+8-14	780-782	ja	_	
+8-15	783-786	mal	_	
+8-16	787-794	langsam	_	
+8-17	795-801	fahren	_	
+8-18	802-809	könnten	_	
+8-19	809-810	.	_	

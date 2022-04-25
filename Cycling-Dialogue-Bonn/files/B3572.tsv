@@ -1,0 +1,211 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefahrenstelle durch Konvexspiegel entschärfen
+1-1	0-14	Gefahrenstelle	_	
+1-2	15-20	durch	_	
+1-3	21-34	Konvexspiegel	_	
+1-4	35-46	entschärfen	_	
+
+#Text=Die Lindenstraße (später Gallusstraße) ist ein viel befahrener Rad-Verbindungsweg zwischen St.Augustin/Siegburg/Pützchen/Hoholz und dem Bonner Süden.
+2-1	49-52	Die	*[10]	
+2-2	53-65	Lindenstraße	*[10]	
+2-3	66-67	(	*[10]	
+2-4	67-73	später	*[10]	
+2-5	74-86	Gallusstraße	*[10]	
+2-6	86-87	)	_	
+2-7	88-91	ist	_	
+2-8	92-95	ein	_	
+2-9	96-100	viel	_	
+2-10	101-111	befahrener	_	
+2-11	112-130	Rad-Verbindungsweg	_	
+2-12	131-139	zwischen	*[11]	
+2-13	140-151	St.Augustin	*[11]	
+2-14	151-152	/	*[11]	
+2-15	152-160	Siegburg	*[11]	
+2-16	160-161	/	*[11]	
+2-17	161-169	Pützchen	*[11]	
+2-18	169-170	/	*[11]	
+2-19	170-176	Hoholz	*[11]	
+2-20	177-180	und	*[11]	
+2-21	181-184	dem	*[11]	
+2-22	185-191	Bonner	*[11]	
+2-23	192-197	Süden	*[11]	
+2-24	197-198	.	_	
+
+#Text=Die Straße führt u.a. unter der A59 am Freibad in Pützchen vorbei und ist die kürzeste Verbindung zwischen St. Augustin und dem Bonner Süden.
+3-1	199-202	Die	_	
+3-2	203-209	Straße	_	
+3-3	210-215	führt	_	
+3-4	216-219	u.a	_	
+3-5	219-220	.	_	
+3-6	221-226	unter	*[12]	
+3-7	227-230	der	*[12]	
+3-8	231-234	A59	*[12]	
+3-9	235-237	am	*[12]	
+3-10	238-245	Freibad	*[12]	
+3-11	246-248	in	*[12]	
+3-12	249-257	Pützchen	*[12]	
+3-13	258-264	vorbei	_	
+3-14	265-268	und	_	
+3-15	269-272	ist	_	
+3-16	273-276	die	_	
+3-17	277-285	kürzeste	_	
+3-18	286-296	Verbindung	_	
+3-19	297-305	zwischen	*[13]	
+3-20	306-308	St	*[13]	
+3-21	308-309	.	*[13]	
+3-22	310-318	Augustin	*[13]	
+3-23	319-322	und	*[13]	
+3-24	323-326	dem	*[13]	
+3-25	327-333	Bonner	*[13]	
+3-26	334-339	Süden	*[13]	
+3-27	339-340	.	_	
+
+#Text=An der Ecke Mehlemstraße/Lindenstraße ist das Eckhaus Lindenstraße 58 fast bündig an die Straßenecke gebaut, wie auch das gegenüberliegende Gebäude des ehemaligen Herz-Jesu-Klosters, siehe https://goo.gl/4HkqhN
+4-1	341-343	An	*[14]	
+4-2	344-347	der	*[14]	
+4-3	348-352	Ecke	*[14]	
+4-4	353-365	Mehlemstraße	*[14]	
+4-5	365-366	/	*[14]	
+4-6	366-378	Lindenstraße	*[14]	
+4-7	379-382	ist	_	
+4-8	383-386	das	*[15]	
+4-9	387-394	Eckhaus	*[15]	
+4-10	395-407	Lindenstraße	*[15]	
+4-11	408-410	58	*[15]	
+4-12	411-415	fast	_	
+4-13	416-422	bündig	_	
+4-14	423-425	an	_	
+4-15	426-429	die	_	
+4-16	430-441	Straßenecke	_	
+4-17	442-448	gebaut	_	
+4-18	448-449	,	_	
+4-19	450-453	wie	_	
+4-20	454-458	auch	_	
+4-21	459-462	das	_	
+4-22	463-480	gegenüberliegende	_	
+4-23	481-488	Gebäude	*[16]	
+4-24	489-492	des	*[16]	
+4-25	493-503	ehemaligen	*[16]	
+4-26	504-522	Herz-Jesu-Klosters	*[16]	
+4-27	522-523	,	_	
+4-28	524-529	siehe	_	
+4-29	530-535	https	_	
+4-30	535-536	:	_	
+4-31	536-537	/	_	
+4-32	537-538	/	_	
+4-33	538-544	goo.gl	_	
+4-34	544-545	/	_	
+4-35	545-551	4HkqhN	_	
+
+#Text=Die Straße ist daher für Verkehrsteilnehmer aus allen Richtungen komplett nicht einsehbar.
+5-1	552-555	Die	_	
+5-2	556-562	Straße	_	
+5-3	563-566	ist	_	
+5-4	567-572	daher	_	
+5-5	573-576	für	_	
+5-6	577-595	Verkehrsteilnehmer	_	
+5-7	596-599	aus	_	
+5-8	600-605	allen	_	
+5-9	606-616	Richtungen	_	
+5-10	617-625	komplett	_	
+5-11	626-631	nicht	_	
+5-12	632-641	einsehbar	_	
+5-13	641-642	.	_	
+
+#Text=Zudem ist die Lindenstraße in Richtung Königswinter nicht einmal zwei Autos breit, siehe https://goo.gl/KKJvKx
+6-1	643-648	Zudem	_	
+6-2	649-652	ist	_	
+6-3	653-656	die	*[17]	
+6-4	657-669	Lindenstraße	*[17]	
+6-5	670-672	in	*[17]	
+6-6	673-681	Richtung	*[17]	
+6-7	682-694	Königswinter	*[17]	
+6-8	695-700	nicht	_	
+6-9	701-707	einmal	_	
+6-10	708-712	zwei	_	
+6-11	713-718	Autos	_	
+6-12	719-724	breit	_	
+6-13	724-725	,	_	
+6-14	726-731	siehe	_	
+6-15	732-737	https	_	
+6-16	737-738	:	_	
+6-17	738-739	/	_	
+6-18	739-740	/	_	
+6-19	740-746	goo.gl	_	
+6-20	746-747	/	_	
+6-21	747-753	KKJvKx	_	
+
+#Text=Autofahrer, die aus der Mehlemstraße rechts abbiegen, kommen deshalb unweigerlich in den Gegenverkehr.
+7-1	754-764	Autofahrer	_	
+7-2	764-765	,	_	
+7-3	766-769	die	_	
+7-4	770-773	aus	*[18]	
+7-5	774-777	der	*[18]	
+7-6	778-790	Mehlemstraße	*[18]	
+7-7	791-797	rechts	*[18]	
+7-8	798-806	abbiegen	*[18]	
+7-9	806-807	,	_	
+7-10	808-814	kommen	_	
+7-11	815-822	deshalb	_	
+7-12	823-835	unweigerlich	_	
+7-13	836-838	in	_	
+7-14	839-842	den	_	
+7-15	843-855	Gegenverkehr	_	
+7-16	855-856	.	_	
+
+#Text=Hier sollte daher sowohl an der gegenüberliegende Seite von Lindenstraße 58 (Kapelle Herz-Jesu), als auch vor dem Haus Lindenstraße 39 Konvexspiegel angebracht werden.
+8-1	857-861	Hier	_	
+8-2	862-868	sollte	_	
+8-3	869-874	daher	_	
+8-4	875-881	sowohl	_	
+8-5	882-884	an	_	
+8-6	885-888	der	_	
+8-7	889-906	gegenüberliegende	_	
+8-8	907-912	Seite	_	
+8-9	913-916	von	_	
+8-10	917-929	Lindenstraße	*[19]	
+8-11	930-932	58	*[19]	
+8-12	933-934	(	*[19]	
+8-13	934-941	Kapelle	*[19]	
+8-14	942-951	Herz-Jesu	*[19]	
+8-15	951-952	)	_	
+8-16	952-953	,	_	
+8-17	954-957	als	_	
+8-18	958-962	auch	_	
+8-19	963-966	vor	*[20]	
+8-20	967-970	dem	*[20]	
+8-21	971-975	Haus	*[20]	
+8-22	976-988	Lindenstraße	*[20]	
+8-23	989-991	39	*[20]	
+8-24	992-1005	Konvexspiegel	_	
+8-25	1006-1016	angebracht	_	
+8-26	1017-1023	werden	_	
+8-27	1023-1024	.	_	
+
+#Text=In der Straße wird massiv verdichtet zugebaut, d.h. auf den Grundstücken mit häufig tiefen Grundstücken werden Mehrfamilienhäuser gebaut.
+9-1	1025-1027	In	_	
+9-2	1028-1031	der	_	
+9-3	1032-1038	Straße	_	
+9-4	1039-1043	wird	_	
+9-5	1044-1050	massiv	_	
+9-6	1051-1061	verdichtet	_	
+9-7	1062-1070	zugebaut	_	
+9-8	1070-1071	,	_	
+9-9	1072-1075	d.h	_	
+9-10	1075-1076	.	_	
+9-11	1077-1080	auf	_	
+9-12	1081-1084	den	_	
+9-13	1085-1097	Grundstücken	_	
+9-14	1098-1101	mit	_	
+9-15	1102-1108	häufig	_	
+9-16	1109-1115	tiefen	_	
+9-17	1116-1128	Grundstücken	_	
+9-18	1129-1135	werden	_	
+9-19	1136-1154	Mehrfamilienhäuser	_	
+9-20	1155-1161	gebaut	_	
+9-21	1161-1162	.	_	

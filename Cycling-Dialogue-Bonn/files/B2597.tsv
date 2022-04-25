@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Anleinepflicht für Hunde durchsetzen
+1-1	0-14	Anleinepflicht	_	
+1-2	15-18	für	_	
+1-3	19-24	Hunde	_	
+1-4	25-36	durchsetzen	_	
+
+#Text=In der Rheinaue schießen regelmäßig Geschosse in Hundeform über den Radweg - Hunde, die den Kaninchen hinterherjagen.
+2-1	39-41	In	*[4]	
+2-2	42-45	der	*[4]	
+2-3	46-54	Rheinaue	*[4]	
+2-4	55-63	schießen	_	
+2-5	64-74	regelmäßig	_	
+2-6	75-84	Geschosse	_	
+2-7	85-87	in	_	
+2-8	88-97	Hundeform	_	
+2-9	98-102	über	_	
+2-10	103-106	den	_	
+2-11	107-113	Radweg	_	
+2-12	114-115	-	_	
+2-13	116-121	Hunde	_	
+2-14	121-122	,	_	
+2-15	123-126	die	_	
+2-16	127-130	den	_	
+2-17	131-140	Kaninchen	_	
+2-18	141-155	hinterherjagen	_	
+2-19	155-156	.	_	
+
+#Text=Die Anleinepflicht für Hunde sollte respektiert werden.
+3-1	157-160	Die	_	
+3-2	161-175	Anleinepflicht	_	
+3-3	176-179	für	_	
+3-4	180-185	Hunde	_	
+3-5	186-192	sollte	_	
+3-6	193-204	respektiert	_	
+3-7	205-211	werden	_	
+3-8	211-212	.	_	

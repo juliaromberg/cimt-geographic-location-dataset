@@ -1,0 +1,43 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlender Fahrrad-Abstellplätze
+1-1	0-9	Fehlender	_	
+1-2	10-31	Fahrrad-Abstellplätze	_	
+
+#Text=Bei T-Mobile ist der Fahrradabstellplatz vor dem T-Shop total überfüllt.
+2-1	34-37	Bei	_	
+2-2	38-46	T-Mobile	_	
+2-3	47-50	ist	_	
+2-4	51-54	der	_	
+2-5	55-74	Fahrradabstellplatz	_	
+2-6	75-78	vor	_	
+2-7	79-82	dem	_	
+2-8	83-89	T-Shop	_	
+2-9	90-95	total	_	
+2-10	96-105	überfüllt	_	
+2-11	105-106	.	_	
+
+#Text=Es wäre ein leichtes, einen weiteren auf 2-3 bisherigen Autoabstellflächen in der unmittelbaren Nähe einzurichten.
+3-1	107-109	Es	_	
+3-2	110-114	wäre	_	
+3-3	115-118	ein	_	
+3-4	119-127	leichtes	_	
+3-5	127-128	,	_	
+3-6	129-134	einen	_	
+3-7	135-143	weiteren	_	
+3-8	144-147	auf	_	
+3-9	148-149	2	_	
+3-10	149-150	-	_	
+3-11	150-151	3	_	
+3-12	152-162	bisherigen	_	
+3-13	163-181	Autoabstellflächen	_	
+3-14	182-184	in	_	
+3-15	185-188	der	_	
+3-16	189-202	unmittelbaren	_	
+3-17	203-207	Nähe	_	
+3-18	208-220	einzurichten	_	
+3-19	220-221	.	_	

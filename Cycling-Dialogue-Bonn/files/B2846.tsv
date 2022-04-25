@@ -1,0 +1,79 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradampel
+1-1	0-12	Fahrradampel	_	
+
+#Text=Fahrradampel für den aus der Vorgebirgsstr aus Richtung des Stadthauses kommenden Radverkehr.
+2-1	15-27	Fahrradampel	_	
+2-2	28-31	für	_	
+2-3	32-35	den	_	
+2-4	36-39	aus	*[6]	
+2-5	40-43	der	*[6]	
+2-6	44-57	Vorgebirgsstr	*[6]	
+2-7	58-61	aus	*[6]	
+2-8	62-70	Richtung	*[6]	
+2-9	71-74	des	*[6]	
+2-10	75-86	Stadthauses	*[6]	
+2-11	87-96	kommenden	_	
+2-12	97-107	Radverkehr	_	
+2-13	107-108	.	_	
+
+#Text=Dieser kann sich dann auf dem großen roten Teerstück (das ist super) stellen.
+3-1	109-115	Dieser	_	
+3-2	116-120	kann	_	
+3-3	121-125	sich	_	
+3-4	126-130	dann	_	
+3-5	131-134	auf	_	
+3-6	135-138	dem	_	
+3-7	139-145	großen	_	
+3-8	146-151	roten	_	
+3-9	152-161	Teerstück	_	
+3-10	162-163	(	_	
+3-11	163-166	das	_	
+3-12	167-170	ist	_	
+3-13	171-176	super	_	
+3-14	176-177	)	_	
+3-15	178-185	stellen	_	
+3-16	185-186	.	_	
+
+#Text=Bisher muss man sich dort an der schräg gegenüberliegenden Fußgängerampel orientieren (diese geht aber nur, wenn auch Fußgänger gedrückt haben).
+4-1	187-193	Bisher	_	
+4-2	194-198	muss	_	
+4-3	199-202	man	_	
+4-4	203-207	sich	_	
+4-5	208-212	dort	_	
+4-6	213-215	an	_	
+4-7	216-219	der	_	
+4-8	220-226	schräg	_	
+4-9	227-245	gegenüberliegenden	_	
+4-10	246-260	Fußgängerampel	_	
+4-11	261-272	orientieren	_	
+4-12	273-274	(	_	
+4-13	274-279	diese	_	
+4-14	280-284	geht	_	
+4-15	285-289	aber	_	
+4-16	290-293	nur	_	
+4-17	293-294	,	_	
+4-18	295-299	wenn	_	
+4-19	300-304	auch	_	
+4-20	305-314	Fußgänger	_	
+4-21	315-323	gedrückt	_	
+4-22	324-329	haben	_	
+4-23	329-330	)	_	
+4-24	330-331	.	_	
+
+#Text=Danke für den raddialog.
+5-1	332-337	Danke	_	
+5-2	338-341	für	_	
+5-3	342-345	den	_	
+5-4	346-355	raddialog	_	
+5-5	355-356	.	_	
+
+#Text=Gute Idee!
+6-1	357-361	Gute	_	
+6-2	362-366	Idee	_	
+6-3	366-367	!	_	

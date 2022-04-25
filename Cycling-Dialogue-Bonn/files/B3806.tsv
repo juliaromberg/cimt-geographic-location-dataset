@@ -1,0 +1,124 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Falschparker auf Radwegverschwenkung
+1-1	0-12	Falschparker	_	
+1-2	13-16	auf	_	
+1-3	17-36	Radwegverschwenkung	_	
+
+#Text=An der Ecke Dorotheenstraße/Adolfstraße kommt es vor, dass Falschparker in der Einmündung stehen, über die der Radweg Richtung Innenstadt geführt wird.
+2-1	39-41	An	*[7]	
+2-2	42-45	der	*[7]	
+2-3	46-50	Ecke	*[7]	
+2-4	51-66	Dorotheenstraße	*[7]	
+2-5	66-67	/	*[7]	
+2-6	67-78	Adolfstraße	*[7]	
+2-7	79-84	kommt	_	
+2-8	85-87	es	_	
+2-9	88-91	vor	_	
+2-10	91-92	,	_	
+2-11	93-97	dass	_	
+2-12	98-110	Falschparker	_	
+2-13	111-113	in	_	
+2-14	114-117	der	_	
+2-15	118-128	Einmündung	_	
+2-16	129-135	stehen	_	
+2-17	135-136	,	_	
+2-18	137-141	über	_	
+2-19	142-145	die	_	
+2-20	146-149	der	_	
+2-21	150-156	Radweg	*[8]	
+2-22	157-165	Richtung	*[8]	
+2-23	166-176	Innenstadt	*[8]	
+2-24	177-184	geführt	_	
+2-25	185-189	wird	_	
+2-26	189-190	.	_	
+
+#Text=Hier kann es dann vorkommen, dass nicht nur Radfahrer behindert werden, sondern auch die Busse, die in die Dorotheenstraße abbiegen.
+3-1	191-195	Hier	_	
+3-2	196-200	kann	_	
+3-3	201-203	es	_	
+3-4	204-208	dann	_	
+3-5	209-218	vorkommen	_	
+3-6	218-219	,	_	
+3-7	220-224	dass	_	
+3-8	225-230	nicht	_	
+3-9	231-234	nur	_	
+3-10	235-244	Radfahrer	_	
+3-11	245-254	behindert	_	
+3-12	255-261	werden	_	
+3-13	261-262	,	_	
+3-14	263-270	sondern	_	
+3-15	271-275	auch	_	
+3-16	276-279	die	_	
+3-17	280-285	Busse	_	
+3-18	285-286	,	_	
+3-19	287-290	die	_	
+3-20	291-293	in	*[9]	
+3-21	294-297	die	*[9]	
+3-22	298-313	Dorotheenstraße	*[9]	
+3-23	314-322	abbiegen	*[9]	
+3-24	322-323	.	_	
+
+#Text=Vor allem die Gelenkbusse auf der Linie 604 müssen dann in Millimeterarbeit um die Ecke manövriert werden.
+4-1	324-327	Vor	_	
+4-2	328-333	allem	_	
+4-3	334-337	die	_	
+4-4	338-349	Gelenkbusse	_	
+4-5	350-353	auf	_	
+4-6	354-357	der	_	
+4-7	358-363	Linie	_	
+4-8	364-367	604	_	
+4-9	368-374	müssen	_	
+4-10	375-379	dann	_	
+4-11	380-382	in	_	
+4-12	383-399	Millimeterarbeit	_	
+4-13	400-402	um	_	
+4-14	403-406	die	_	
+4-15	407-411	Ecke	_	
+4-16	412-422	manövriert	_	
+4-17	423-429	werden	_	
+4-18	429-430	.	_	
+
+#Text=Daher wäre es gut, wenn das Falschparken durch bauliche Maßnahmen (Poller?) unterbunden würde.
+5-1	431-436	Daher	_	
+5-2	437-441	wäre	_	
+5-3	442-444	es	_	
+5-4	445-448	gut	_	
+5-5	448-449	,	_	
+5-6	450-454	wenn	_	
+5-7	455-458	das	_	
+5-8	459-471	Falschparken	_	
+5-9	472-477	durch	_	
+5-10	478-486	bauliche	_	
+5-11	487-496	Maßnahmen	_	
+5-12	497-498	(	_	
+5-13	498-504	Poller	_	
+5-14	504-505	?	_	
+5-15	505-506	)	_	
+5-16	507-518	unterbunden	_	
+5-17	519-524	würde	_	
+5-18	524-525	.	_	
+
+#Text=Andererseits kann man auch hinterfragen, wie sinnvoll überhaupt die Verschwenkung des Radwegs an dieser Stelle ist.
+6-1	526-538	Andererseits	_	
+6-2	539-543	kann	_	
+6-3	544-547	man	_	
+6-4	548-552	auch	_	
+6-5	553-565	hinterfragen	_	
+6-6	565-566	,	_	
+6-7	567-570	wie	_	
+6-8	571-579	sinnvoll	_	
+6-9	580-589	überhaupt	_	
+6-10	590-593	die	_	
+6-11	594-607	Verschwenkung	_	
+6-12	608-611	des	_	
+6-13	612-619	Radwegs	_	
+6-14	620-622	an	_	
+6-15	623-629	dieser	_	
+6-16	630-636	Stelle	_	
+6-17	637-640	ist	_	
+6-18	640-641	.	_	

@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Engstelle Fahrradfreigabe gegen Einbahnstraße
+1-1	0-9	Engstelle	_	
+1-2	10-25	Fahrradfreigabe	_	
+1-3	26-31	gegen	_	
+1-4	32-45	Einbahnstraße	_	
+
+#Text=Die Nikolausstraße ist Einbahnstraße und für Fahrradfahren in beiden Richtungen frei gegeben.
+2-1	48-51	Die	*[5]	
+2-2	52-66	Nikolausstraße	*[5]	
+2-3	67-70	ist	_	
+2-4	71-84	Einbahnstraße	_	
+2-5	85-88	und	_	
+2-6	89-92	für	_	
+2-7	93-106	Fahrradfahren	_	
+2-8	107-109	in	_	
+2-9	110-116	beiden	_	
+2-10	117-127	Richtungen	_	
+2-11	128-132	frei	_	
+2-12	133-140	gegeben	_	
+2-13	140-141	.	_	
+
+#Text=Durch Parkplätze aber ist die Fahrbahn hier so extrem eng, dass Fahrradfahrer hier schieben müssen oder sich großer Gefahr ducrh entgegenkommende Autos aussetzen.
+3-1	142-147	Durch	_	
+3-2	148-158	Parkplätze	_	
+3-3	159-163	aber	_	
+3-4	164-167	ist	_	
+3-5	168-171	die	_	
+3-6	172-180	Fahrbahn	_	
+3-7	181-185	hier	_	
+3-8	186-188	so	_	
+3-9	189-195	extrem	_	
+3-10	196-199	eng	_	
+3-11	199-200	,	_	
+3-12	201-205	dass	_	
+3-13	206-219	Fahrradfahrer	_	
+3-14	220-224	hier	_	
+3-15	225-233	schieben	_	
+3-16	234-240	müssen	_	
+3-17	241-245	oder	_	
+3-18	246-250	sich	_	
+3-19	251-257	großer	_	
+3-20	258-264	Gefahr	_	
+3-21	265-270	ducrh	_	
+3-22	271-287	entgegenkommende	_	
+3-23	288-293	Autos	_	
+3-24	294-303	aussetzen	_	
+3-25	303-304	.	_	
+
+#Text=Entschärfen könnte man die Situation für die Radfahrer, in dem man die Parkplätze in diesem Straßenabschnitt entfernt.
+4-1	305-316	Entschärfen	_	
+4-2	317-323	könnte	_	
+4-3	324-327	man	_	
+4-4	328-331	die	_	
+4-5	332-341	Situation	_	
+4-6	342-345	für	_	
+4-7	346-349	die	_	
+4-8	350-359	Radfahrer	_	
+4-9	359-360	,	_	
+4-10	361-363	in	_	
+4-11	364-367	dem	_	
+4-12	368-371	man	_	
+4-13	372-375	die	_	
+4-14	376-386	Parkplätze	_	
+4-15	387-389	in	_	
+4-16	390-396	diesem	_	
+4-17	397-413	Straßenabschnitt	_	
+4-18	414-422	entfernt	_	
+4-19	422-423	.	_	

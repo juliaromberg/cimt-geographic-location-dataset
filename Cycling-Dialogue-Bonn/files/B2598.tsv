@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwege zu schmal, zugeparkt, zu nach an Hauseingängen
+1-1	0-7	Radwege	_	
+1-2	8-10	zu	_	
+1-3	11-17	schmal	_	
+1-4	17-18	,	_	
+1-5	19-28	zugeparkt	_	
+1-6	28-29	,	_	
+1-7	30-32	zu	_	
+1-8	33-37	nach	_	
+1-9	38-40	an	_	
+1-10	41-54	Hauseingängen	_	
+
+#Text=Dieser Radweg (gilt für beide Richtungen) ist eine Zumutung.
+2-1	57-63	Dieser	_	
+2-2	64-70	Radweg	_	
+2-3	71-72	(	_	
+2-4	72-76	gilt	_	
+2-5	77-80	für	_	
+2-6	81-86	beide	_	
+2-7	87-97	Richtungen	_	
+2-8	97-98	)	_	
+2-9	99-102	ist	_	
+2-10	103-107	eine	_	
+2-11	108-116	Zumutung	_	
+2-12	116-117	.	_	
+
+#Text=Räder sollten hier auf die Straße verlagert werden!
+3-1	118-123	Räder	_	
+3-2	124-131	sollten	_	
+3-3	132-136	hier	_	
+3-4	137-140	auf	_	
+3-5	141-144	die	_	
+3-6	145-151	Straße	_	
+3-7	152-161	verlagert	_	
+3-8	162-168	werden	_	
+3-9	168-169	!	_	

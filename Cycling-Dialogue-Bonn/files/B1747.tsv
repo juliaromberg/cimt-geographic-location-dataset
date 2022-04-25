@@ -1,0 +1,28 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstraße freigeben
+1-1	0-13	Einbahnstraße	_	
+1-2	14-23	freigeben	_	
+
+#Text=Es wäre praktisch, wenn die Einbahnstraße Kurfürstenstraße für Radfahrer in beide Richtungen geöffnet werden könnte.
+2-1	26-28	Es	_	
+2-2	29-33	wäre	_	
+2-3	34-43	praktisch	_	
+2-4	43-44	,	_	
+2-5	45-49	wenn	_	
+2-6	50-53	die	_	
+2-7	54-67	Einbahnstraße	_	
+2-8	68-84	Kurfürstenstraße	*	
+2-9	85-88	für	_	
+2-10	89-98	Radfahrer	_	
+2-11	99-101	in	_	
+2-12	102-107	beide	_	
+2-13	108-118	Richtungen	_	
+2-14	119-127	geöffnet	_	
+2-15	128-134	werden	_	
+2-16	135-141	könnte	_	
+2-17	141-142	.	_	

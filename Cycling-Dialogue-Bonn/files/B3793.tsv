@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beschilderung/Kennzeichnung schlecht
+1-1	0-13	Beschilderung	_	
+1-2	13-14	/	_	
+1-3	14-27	Kennzeichnung	_	
+1-4	28-36	schlecht	_	
+
+#Text=Auf der Clemens-August-Strasse ist die Kenntlichmachung des Radweges sehr dezent gestaltet.
+2-1	39-42	Auf	*[5]	
+2-2	43-46	der	*[5]	
+2-3	47-69	Clemens-August-Strasse	*[5]	
+2-4	70-73	ist	_	
+2-5	74-77	die	_	
+2-6	78-94	Kenntlichmachung	_	
+2-7	95-98	des	_	
+2-8	99-107	Radweges	_	
+2-9	108-112	sehr	_	
+2-10	113-119	dezent	_	
+2-11	120-129	gestaltet	_	
+2-12	129-130	.	_	
+
+#Text=Die farbliche Markierung (bräunlich und dunkelrot), die Rad- und Fußweg voneinander trennen soll, ist kaum zu unterscheiden.
+3-1	131-134	Die	_	
+3-2	135-144	farbliche	_	
+3-3	145-155	Markierung	_	
+3-4	156-157	(	_	
+3-5	157-166	bräunlich	_	
+3-6	167-170	und	_	
+3-7	171-180	dunkelrot	_	
+3-8	180-181	)	_	
+3-9	181-182	,	_	
+3-10	183-186	die	_	
+3-11	187-190	Rad	_	
+3-12	190-191	-	_	
+3-13	192-195	und	_	
+3-14	196-202	Fußweg	_	
+3-15	203-214	voneinander	_	
+3-16	215-222	trennen	_	
+3-17	223-227	soll	_	
+3-18	227-228	,	_	
+3-19	229-232	ist	_	
+3-20	233-237	kaum	_	
+3-21	238-240	zu	_	
+3-22	241-254	unterscheiden	_	
+3-23	254-255	.	_	
+
+#Text=Hier könnte mit einer besseren Markierung schon viel erreicht werden (besser Farbgestaltung, mehr aufgemalte Radwegschilder als bis jetzt)
+4-1	256-260	Hier	_	
+4-2	261-267	könnte	_	
+4-3	268-271	mit	_	
+4-4	272-277	einer	_	
+4-5	278-286	besseren	_	
+4-6	287-297	Markierung	_	
+4-7	298-303	schon	_	
+4-8	304-308	viel	_	
+4-9	309-317	erreicht	_	
+4-10	318-324	werden	_	
+4-11	325-326	(	_	
+4-12	326-332	besser	_	
+4-13	333-347	Farbgestaltung	_	
+4-14	347-348	,	_	
+4-15	349-353	mehr	_	
+4-16	354-364	aufgemalte	_	
+4-17	365-379	Radwegschilder	_	
+4-18	380-383	als	_	
+4-19	384-387	bis	_	
+4-20	388-393	jetzt	_	
+4-21	393-394	)	_	

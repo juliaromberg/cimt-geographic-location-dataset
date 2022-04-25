@@ -1,0 +1,43 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radfahrstreifen
+1-1	0-15	Radfahrstreifen	_	
+
+#Text=Bei Stau halten in der Oxfordstraße oft Autos ohne ersichtlichen Grund auf dem Schutzstreifen und man steht als Radfahrer unnötig mit im Stau.
+2-1	18-21	Bei	_	
+2-2	22-26	Stau	_	
+2-3	27-33	halten	_	
+2-4	34-36	in	*[3]	
+2-5	37-40	der	*[3]	
+2-6	41-53	Oxfordstraße	*[3]	
+2-7	54-57	oft	_	
+2-8	58-63	Autos	_	
+2-9	64-68	ohne	_	
+2-10	69-82	ersichtlichen	_	
+2-11	83-88	Grund	_	
+2-12	89-92	auf	_	
+2-13	93-96	dem	_	
+2-14	97-111	Schutzstreifen	_	
+2-15	112-115	und	_	
+2-16	116-119	man	_	
+2-17	120-125	steht	_	
+2-18	126-129	als	_	
+2-19	130-139	Radfahrer	_	
+2-20	140-147	unnötig	_	
+2-21	148-151	mit	_	
+2-22	152-154	im	_	
+2-23	155-159	Stau	_	
+2-24	159-160	.	_	
+
+#Text=Ein Radfahrstreifen würde vielleicht Abhilfe schaffen.
+3-1	161-164	Ein	_	
+3-2	165-180	Radfahrstreifen	_	
+3-3	181-186	würde	_	
+3-4	187-197	vielleicht	_	
+3-5	198-205	Abhilfe	_	
+3-6	206-214	schaffen	_	
+3-7	214-215	.	_	

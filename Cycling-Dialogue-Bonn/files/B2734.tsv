@@ -1,0 +1,152 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelschaltung an der Kreuzung Holzlarer Str. zur B56
+1-1	0-14	Ampelschaltung	_	
+1-2	15-17	an	*[9]	
+1-3	18-21	der	*[9]	
+1-4	22-30	Kreuzung	*[9]	
+1-5	31-40	Holzlarer	*[9]	
+1-6	41-44	Str	*[9]	
+1-7	44-45	.	*[9]	
+1-8	46-49	zur	*[9]	
+1-9	50-53	B56	*[9]	
+
+#Text=An der Kreuzung der Holzlarer Str. (L83) zur B56 ist für die Autofahrer für Rechtabbieger eine Ampel (A1).
+2-1	56-58	An	*[10]	
+2-2	59-62	der	*[10]	
+2-3	63-71	Kreuzung	*[10]	
+2-4	72-75	der	*[10]	
+2-5	76-85	Holzlarer	*[10]	
+2-6	86-89	Str	*[10]	
+2-7	89-90	.	*[10]	
+2-8	91-92	(	*[10]	
+2-9	92-95	L83	*[10]	
+2-10	95-96	)	*[10]	
+2-11	97-100	zur	*[10]	
+2-12	101-104	B56	*[10]	
+2-13	105-108	ist	_	
+2-14	109-112	für	_	
+2-15	113-116	die	_	
+2-16	117-127	Autofahrer	_	
+2-17	128-131	für	_	
+2-18	132-145	Rechtabbieger	_	
+2-19	146-150	eine	_	
+2-20	151-156	Ampel	_	
+2-21	157-158	(	_	
+2-22	158-160	A1	*	
+2-23	160-161	)	_	
+2-24	161-162	.	_	
+
+#Text=Als Fahrradfahrer komme ich aus Richtung Siegburg auf dem Fahrradweg auf der linken Seite.
+3-1	163-166	Als	_	
+3-2	167-180	Fahrradfahrer	_	
+3-3	181-186	komme	_	
+3-4	187-190	ich	_	
+3-5	191-194	aus	*[11]	
+3-6	195-203	Richtung	*[11]	
+3-7	204-212	Siegburg	*[11]	
+3-8	213-216	auf	_	
+3-9	217-220	dem	_	
+3-10	221-231	Fahrradweg	_	
+3-11	232-235	auf	_	
+3-12	236-239	der	_	
+3-13	240-246	linken	_	
+3-14	247-252	Seite	_	
+3-15	252-253	.	_	
+
+#Text=Jetzt treffe ich auf die im Ampel A1 im Fußgänger und Fahrradfahrer Modus.
+4-1	254-259	Jetzt	_	
+4-2	260-266	treffe	_	
+4-3	267-270	ich	_	
+4-4	271-274	auf	_	
+4-5	275-278	die	_	
+4-6	279-281	im	_	
+4-7	282-287	Ampel	_	
+4-8	288-290	A1	*	
+4-9	291-293	im	_	
+4-10	294-303	Fußgänger	_	
+4-11	304-307	und	_	
+4-12	308-321	Fahrradfahrer	_	
+4-13	322-327	Modus	_	
+4-14	327-328	.	_	
+
+#Text=Diese Ampel ist nicht so geschaltet, dass der Fußgänger geschweige denn der Fahrradfahrer in einem Zug über die Ampel fahren kann.
+5-1	329-334	Diese	_	
+5-2	335-340	Ampel	_	
+5-3	341-344	ist	_	
+5-4	345-350	nicht	_	
+5-5	351-353	so	_	
+5-6	354-364	geschaltet	_	
+5-7	364-365	,	_	
+5-8	366-370	dass	_	
+5-9	371-374	der	_	
+5-10	375-384	Fußgänger	_	
+5-11	385-395	geschweige	_	
+5-12	396-400	denn	_	
+5-13	401-404	der	_	
+5-14	405-418	Fahrradfahrer	_	
+5-15	419-421	in	_	
+5-16	422-427	einem	_	
+5-17	428-431	Zug	_	
+5-18	432-436	über	_	
+5-19	437-440	die	_	
+5-20	441-446	Ampel	_	
+5-21	447-453	fahren	_	
+5-22	454-458	kann	_	
+5-23	458-459	.	_	
+
+#Text=Dies verleitet den Fahrradfahrer aus der anderen Richtung zum queren dieser Straße bei roter Ampel.
+6-1	460-464	Dies	_	
+6-2	465-474	verleitet	_	
+6-3	475-478	den	_	
+6-4	479-492	Fahrradfahrer	_	
+6-5	493-496	aus	_	
+6-6	497-500	der	_	
+6-7	501-508	anderen	_	
+6-8	509-517	Richtung	_	
+6-9	518-521	zum	_	
+6-10	522-528	queren	_	
+6-11	529-535	dieser	_	
+6-12	536-542	Straße	_	
+6-13	543-546	bei	_	
+6-14	547-552	roter	_	
+6-15	553-558	Ampel	_	
+6-16	558-559	.	_	
+
+#Text=An der B56 Kreuzung zur Alte Heerstraße hat man eine solche Ampel abgeschafft.
+7-1	560-562	An	*[12]	
+7-2	563-566	der	*[12]	
+7-3	567-570	B56	*[12]	
+7-4	571-579	Kreuzung	*[12]	
+7-5	580-583	zur	*[12]	
+7-6	584-588	Alte	*[12]	
+7-7	589-599	Heerstraße	*[12]	
+7-8	600-603	hat	_	
+7-9	604-607	man	_	
+7-10	608-612	eine	_	
+7-11	613-619	solche	_	
+7-12	620-625	Ampel	_	
+7-13	626-637	abgeschafft	_	
+7-14	637-638	.	_	
+
+#Text=Seit dem fließt der Fahrradverkehr besser und die Autos fahren wesentlich aufmerksamer an diese Gefahrenstelle.
+8-1	639-643	Seit	_	
+8-2	644-647	dem	_	
+8-3	648-654	fließt	_	
+8-4	655-658	der	_	
+8-5	659-673	Fahrradverkehr	_	
+8-6	674-680	besser	_	
+8-7	681-684	und	_	
+8-8	685-688	die	_	
+8-9	689-694	Autos	_	
+8-10	695-701	fahren	_	
+8-11	702-712	wesentlich	_	
+8-12	713-725	aufmerksamer	_	
+8-13	726-728	an	_	
+8-14	729-734	diese	_	
+8-15	735-749	Gefahrenstelle	_	
+8-16	749-750	.	_	

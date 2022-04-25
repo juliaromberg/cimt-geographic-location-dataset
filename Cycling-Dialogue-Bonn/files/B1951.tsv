@@ -1,0 +1,67 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Querung Baumschulallee - Popp Allee
+1-1	0-7	Querung	*[5]	
+1-2	8-22	Baumschulallee	*[5]	
+1-3	23-24	-	*[5]	
+1-4	25-29	Popp	*[5]	
+1-5	30-35	Allee	*[5]	
+
+#Text=Die Querung des westlichen Radwegs der Popp Allee über die Baumschulallee sollte entsprchend der Wegeführung des Radwegs auf der Popp Allee umgestaltet werden.
+2-1	38-41	Die	*[6]	
+2-2	42-49	Querung	*[6]	
+2-3	50-53	des	*[6]	
+2-4	54-64	westlichen	*[6]	
+2-5	65-72	Radwegs	*[6]	
+2-6	73-76	der	*[6]	
+2-7	77-81	Popp	*[6]	
+2-8	82-87	Allee	*[6]	
+2-9	88-92	über	*[6]	
+2-10	93-96	die	*[6]	
+2-11	97-111	Baumschulallee	*[6]	
+2-12	112-118	sollte	_	
+2-13	119-130	entsprchend	_	
+2-14	131-134	der	_	
+2-15	135-146	Wegeführung	_	
+2-16	147-150	des	_	
+2-17	151-158	Radwegs	*[7]	
+2-18	159-162	auf	*[7]	
+2-19	163-166	der	*[7]	
+2-20	167-171	Popp	*[7]	
+2-21	172-177	Allee	*[7]	
+2-22	178-189	umgestaltet	_	
+2-23	190-196	werden	_	
+2-24	196-197	.	_	
+
+#Text=Grund ist, das somit die Konflikte zwischen Fußgänger und Radfahrer verringert werden.
+3-1	198-203	Grund	_	
+3-2	204-207	ist	_	
+3-3	207-208	,	_	
+3-4	209-212	das	_	
+3-5	213-218	somit	_	
+3-6	219-222	die	_	
+3-7	223-232	Konflikte	_	
+3-8	233-241	zwischen	_	
+3-9	242-251	Fußgänger	_	
+3-10	252-255	und	_	
+3-11	256-265	Radfahrer	_	
+3-12	266-276	verringert	_	
+3-13	277-283	werden	_	
+3-14	283-284	.	_	
+
+#Text=Auch werden die Fußgänger dann direkt auf den Fußweg gefürht.
+4-1	285-289	Auch	_	
+4-2	290-296	werden	_	
+4-3	297-300	die	_	
+4-4	301-310	Fußgänger	_	
+4-5	311-315	dann	_	
+4-6	316-322	direkt	_	
+4-7	323-326	auf	_	
+4-8	327-330	den	_	
+4-9	331-337	Fußweg	_	
+4-10	338-345	gefürht	_	
+4-11	345-346	.	_	

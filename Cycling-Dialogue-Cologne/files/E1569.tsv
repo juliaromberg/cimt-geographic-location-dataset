@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreuzung Ehrenfeldgürtel/Venloer Strasse komplett neu planen!
+1-1	0-8	Kreuzung	*[5]	
+1-2	9-24	Ehrenfeldgürtel	*[5]	
+1-3	24-25	/	*[5]	
+1-4	25-32	Venloer	*[5]	
+1-5	33-40	Strasse	*[5]	
+1-6	41-49	komplett	_	
+1-7	50-53	neu	_	
+1-8	54-60	planen	_	
+1-9	60-61	!	_	
+
+#Text=Diese Kreuzung stößt schon jetzt an ihre Grenzen.
+2-1	64-69	Diese	_	
+2-2	70-78	Kreuzung	_	
+2-3	79-84	stößt	_	
+2-4	85-90	schon	_	
+2-5	91-96	jetzt	_	
+2-6	97-99	an	_	
+2-7	100-104	ihre	_	
+2-8	105-112	Grenzen	_	
+2-9	112-113	.	_	
+
+#Text=Viel zu wenig Platz für Fußgänger und Radfahrer, und die Zahl wird im Zusammenhang mit dem Neubau der Heliosschule und der geplanten Wohnbebauungen noch steigen!
+3-1	114-118	Viel	_	
+3-2	119-121	zu	_	
+3-3	122-127	wenig	_	
+3-4	128-133	Platz	_	
+3-5	134-137	für	_	
+3-6	138-147	Fußgänger	_	
+3-7	148-151	und	_	
+3-8	152-161	Radfahrer	_	
+3-9	161-162	,	_	
+3-10	163-166	und	_	
+3-11	167-170	die	_	
+3-12	171-175	Zahl	_	
+3-13	176-180	wird	_	
+3-14	181-183	im	_	
+3-15	184-196	Zusammenhang	_	
+3-16	197-200	mit	_	
+3-17	201-204	dem	_	
+3-18	205-211	Neubau	_	
+3-19	212-215	der	_	
+3-20	216-228	Heliosschule	*	
+3-21	229-232	und	_	
+3-22	233-236	der	_	
+3-23	237-246	geplanten	_	
+3-24	247-261	Wohnbebauungen	_	
+3-25	262-266	noch	_	
+3-26	267-274	steigen	_	
+3-27	274-275	!	_	
+
+#Text=Daher bitte schon jetzt vorrausschauend planen, und im Rahmen der Erstellung des Radverkehrskonzeptes an diese Kreuzung denken.
+4-1	276-281	Daher	_	
+4-2	282-287	bitte	_	
+4-3	288-293	schon	_	
+4-4	294-299	jetzt	_	
+4-5	300-315	vorrausschauend	_	
+4-6	316-322	planen	_	
+4-7	322-323	,	_	
+4-8	324-327	und	_	
+4-9	328-330	im	_	
+4-10	331-337	Rahmen	_	
+4-11	338-341	der	_	
+4-12	342-352	Erstellung	_	
+4-13	353-356	des	_	
+4-14	357-377	Radverkehrskonzeptes	_	
+4-15	378-380	an	_	
+4-16	381-386	diese	_	
+4-17	387-395	Kreuzung	_	
+4-18	396-402	denken	_	
+4-19	402-403	.	_	

@@ -1,0 +1,41 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hoher Bordstein
+1-1	0-5	Hoher	_	
+1-2	6-15	Bordstein	_	
+
+#Text=Auf dem Radweg Ri. Norden ist bei der Straße Am Mondorfer Bach ebenfalls eine viel zu hohe Schwelle du folglich ein Felgenkiller vorhanden.
+2-1	18-21	Auf	_	
+2-2	22-25	dem	_	
+2-3	26-32	Radweg	_	
+2-4	33-35	Ri	_	
+2-5	35-36	.	_	
+2-6	37-43	Norden	_	
+2-7	44-47	ist	_	
+2-8	48-51	bei	_	
+2-9	52-55	der	_	
+2-10	56-62	Straße	_	
+2-11	63-65	Am	*[4]	
+2-12	66-75	Mondorfer	*[4]	
+2-13	76-80	Bach	*[4]	
+2-14	81-90	ebenfalls	_	
+2-15	91-95	eine	_	
+2-16	96-100	viel	_	
+2-17	101-103	zu	_	
+2-18	104-108	hohe	_	
+2-19	109-117	Schwelle	_	
+2-20	118-120	du	_	
+2-21	121-129	folglich	_	
+2-22	130-133	ein	_	
+2-23	134-146	Felgenkiller	_	
+2-24	147-156	vorhanden	_	
+2-25	156-157	.	_	
+
+#Text=Bitte absenken!
+3-1	158-163	Bitte	_	
+3-2	164-172	absenken	_	
+3-3	172-173	!	_	

@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße Lahnweg
+1-1	0-13	Fahrradstraße	*[6]	
+1-2	14-21	Lahnweg	*[6]	
+
+#Text=Sehr geehrte Damen und Herren, vor einiger Zeit wurde die Lahnstraße eine Fahrradstraße (nur eine Richtung).
+2-1	24-28	Sehr	_	
+2-2	29-36	geehrte	_	
+2-3	37-42	Damen	_	
+2-4	43-46	und	_	
+2-5	47-53	Herren	_	
+2-6	53-54	,	_	
+2-7	55-58	vor	_	
+2-8	59-66	einiger	_	
+2-9	67-71	Zeit	_	
+2-10	72-77	wurde	_	
+2-11	78-81	die	*[7]	
+2-12	82-92	Lahnstraße	*[7]	
+2-13	93-97	eine	_	
+2-14	98-111	Fahrradstraße	_	
+2-15	112-113	(	_	
+2-16	113-116	nur	_	
+2-17	117-121	eine	_	
+2-18	122-130	Richtung	_	
+2-19	130-131	)	_	
+2-20	131-132	.	_	
+
+#Text=Wieso kann die Straße nicht für den Fahrradgegenverkehr geöffnet werden ??
+3-1	133-138	Wieso	_	
+3-2	139-143	kann	_	
+3-3	144-147	die	_	
+3-4	148-154	Straße	_	
+3-5	155-160	nicht	_	
+3-6	161-164	für	_	
+3-7	165-168	den	_	
+3-8	169-188	Fahrradgegenverkehr	_	
+3-9	189-197	geöffnet	_	
+3-10	198-204	werden	_	
+3-11	205-206	?	_	
+3-12	206-207	?	_	
+
+#Text=So könnte auch der stark zugenommene individual Verkehr ausgebremst und eingedämmt werden.
+4-1	208-210	So	_	
+4-2	211-217	könnte	_	
+4-3	218-222	auch	_	
+4-4	223-226	der	_	
+4-5	227-232	stark	_	
+4-6	233-244	zugenommene	_	
+4-7	245-255	individual	_	
+4-8	256-263	Verkehr	_	
+4-9	264-275	ausgebremst	_	
+4-10	276-279	und	_	
+4-11	280-290	eingedämmt	_	
+4-12	291-297	werden	_	
+4-13	297-298	.	_	
+
+#Text=Daher meine Vorschlag die Fahrradstraße Lahnweg für beide Richtungen öffnen.
+5-1	299-304	Daher	_	
+5-2	305-310	meine	_	
+5-3	311-320	Vorschlag	_	
+5-4	321-324	die	_	
+5-5	325-338	Fahrradstraße	*[8]	
+5-6	339-346	Lahnweg	*[8]	
+5-7	347-350	für	*[8]	
+5-8	351-356	beide	*[8]	
+5-9	357-367	Richtungen	*[8]	
+5-10	368-374	öffnen	_	
+5-11	374-375	.	_	

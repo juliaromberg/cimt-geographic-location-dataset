@@ -1,0 +1,80 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sichtbarkeit
+1-1	0-12	Sichtbarkeit	_	
+
+#Text=Kölnstraße, stadteinwärts: Fuß- und Radfahrweg laufen getrennt von der Autofahrbahn.
+2-1	15-25	Kölnstraße	*[5]	
+2-2	25-26	,	*[5]	
+2-3	27-40	stadteinwärts	*[5]	
+2-4	40-41	:	_	
+2-5	42-45	Fuß	_	
+2-6	45-46	-	_	
+2-7	47-50	und	_	
+2-8	51-61	Radfahrweg	_	
+2-9	62-68	laufen	_	
+2-10	69-77	getrennt	_	
+2-11	78-81	von	_	
+2-12	82-85	der	_	
+2-13	86-98	Autofahrbahn	_	
+2-14	98-99	.	_	
+
+#Text=Das ist erst einmal gut, aber leider ist der Bereich durch Büsche und Bäume voneinander getrennt worden.
+3-1	100-103	Das	_	
+3-2	104-107	ist	_	
+3-3	108-112	erst	_	
+3-4	113-119	einmal	_	
+3-5	120-123	gut	_	
+3-6	123-124	,	_	
+3-7	125-129	aber	_	
+3-8	130-136	leider	_	
+3-9	137-140	ist	_	
+3-10	141-144	der	_	
+3-11	145-152	Bereich	_	
+3-12	153-158	durch	_	
+3-13	159-165	Büsche	_	
+3-14	166-169	und	_	
+3-15	170-175	Bäume	_	
+3-16	176-187	voneinander	_	
+3-17	188-196	getrennt	_	
+3-18	197-203	worden	_	
+3-19	203-204	.	_	
+
+#Text=Das schränkt das Blickfeld der Autofahrer ein, die von der Fahrbahn über den Fuß-/Radweg auf einen der Parkplätze der dort angesiedelten Geschäfte einbiegen.
+4-1	205-208	Das	_	
+4-2	209-217	schränkt	_	
+4-3	218-221	das	_	
+4-4	222-231	Blickfeld	_	
+4-5	232-235	der	_	
+4-6	236-246	Autofahrer	_	
+4-7	247-250	ein	_	
+4-8	250-251	,	_	
+4-9	252-255	die	_	
+4-10	256-259	von	_	
+4-11	260-263	der	_	
+4-12	264-272	Fahrbahn	_	
+4-13	273-277	über	_	
+4-14	278-281	den	_	
+4-15	282-285	Fuß	_	
+4-16	285-286	-	_	
+4-17	286-287	/	_	
+4-18	287-293	Radweg	_	
+4-19	294-297	auf	_	
+4-20	298-303	einen	_	
+4-21	304-307	der	_	
+4-22	308-318	Parkplätze	_	
+4-23	319-322	der	_	
+4-24	323-327	dort	_	
+4-25	328-341	angesiedelten	_	
+4-26	342-351	Geschäfte	_	
+4-27	352-361	einbiegen	_	
+4-28	361-362	.	_	
+
+#Text=Sehr gefährlich.
+5-1	363-367	Sehr	_	
+5-2	368-378	gefährlich	_	
+5-3	378-379	.	_	

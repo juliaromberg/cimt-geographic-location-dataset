@@ -1,0 +1,202 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg Kölnstraße Richtung Buschdorf
+1-1	0-6	Radweg	_	
+1-2	7-17	Kölnstraße	*[12]	
+1-3	18-26	Richtung	*[12]	
+1-4	27-36	Buschdorf	*[12]	
+
+#Text=Der Radweg parallel zur Kölnstraße Richtung Buschdorf ist recht schmal und an vielen Stellen in einer sehr schlechten Qualität.
+2-1	39-42	Der	*[13]	
+2-2	43-49	Radweg	*[13]	
+2-3	50-58	parallel	*[13]	
+2-4	59-62	zur	*[13]	
+2-5	63-73	Kölnstraße	*[13]	
+2-6	74-82	Richtung	*[13]	
+2-7	83-92	Buschdorf	*[13]	
+2-8	93-96	ist	_	
+2-9	97-102	recht	_	
+2-10	103-109	schmal	_	
+2-11	110-113	und	_	
+2-12	114-116	an	_	
+2-13	117-123	vielen	_	
+2-14	124-131	Stellen	_	
+2-15	132-134	in	_	
+2-16	135-140	einer	_	
+2-17	141-145	sehr	_	
+2-18	146-156	schlechten	_	
+2-19	157-165	Qualität	_	
+2-20	165-166	.	_	
+
+#Text=Der Radweg besteht aus rechteckigen Pflastersteinen, die in längsrichtung nebeneinander verlegt sind, sodass Rillen längs zur Fahrrichtung entstehen können, wenn durch Witterung Lücken zwischen den Steinen entstehen.
+3-1	167-170	Der	_	
+3-2	171-177	Radweg	_	
+3-3	178-185	besteht	_	
+3-4	186-189	aus	_	
+3-5	190-202	rechteckigen	_	
+3-6	203-218	Pflastersteinen	_	
+3-7	218-219	,	_	
+3-8	220-223	die	_	
+3-9	224-226	in	_	
+3-10	227-240	längsrichtung	_	
+3-11	241-254	nebeneinander	_	
+3-12	255-262	verlegt	_	
+3-13	263-267	sind	_	
+3-14	267-268	,	_	
+3-15	269-275	sodass	_	
+3-16	276-282	Rillen	_	
+3-17	283-288	längs	_	
+3-18	289-292	zur	_	
+3-19	293-305	Fahrrichtung	_	
+3-20	306-315	entstehen	_	
+3-21	316-322	können	_	
+3-22	322-323	,	_	
+3-23	324-328	wenn	_	
+3-24	329-334	durch	_	
+3-25	335-344	Witterung	_	
+3-26	345-351	Lücken	_	
+3-27	352-360	zwischen	_	
+3-28	361-364	den	_	
+3-29	365-372	Steinen	_	
+3-30	373-382	entstehen	_	
+3-31	382-383	.	_	
+
+#Text=Teilweise liegen die Steine dann nicht mehr plan.
+4-1	384-393	Teilweise	_	
+4-2	394-400	liegen	_	
+4-3	401-404	die	_	
+4-4	405-411	Steine	_	
+4-5	412-416	dann	_	
+4-6	417-422	nicht	_	
+4-7	423-427	mehr	_	
+4-8	428-432	plan	_	
+4-9	432-433	.	_	
+
+#Text=Gefährlich für Radfahrer, man kann in den Rillen hängen bleiben.
+5-1	434-444	Gefährlich	_	
+5-2	445-448	für	_	
+5-3	449-458	Radfahrer	_	
+5-4	458-459	,	_	
+5-5	460-463	man	_	
+5-6	464-468	kann	_	
+5-7	469-471	in	_	
+5-8	472-475	den	_	
+5-9	476-482	Rillen	_	
+5-10	483-489	hängen	_	
+5-11	490-497	bleiben	_	
+5-12	497-498	.	_	
+
+#Text=Sehr gefährlcih wird es jetzt im Herbst, wenn die Blätter auf dem Radweg liegen, wenn es zusätzlich regnet und dunkel ist.
+6-1	499-503	Sehr	_	
+6-2	504-514	gefährlcih	_	
+6-3	515-519	wird	_	
+6-4	520-522	es	_	
+6-5	523-528	jetzt	_	
+6-6	529-531	im	_	
+6-7	532-538	Herbst	_	
+6-8	538-539	,	_	
+6-9	540-544	wenn	_	
+6-10	545-548	die	_	
+6-11	549-556	Blätter	_	
+6-12	557-560	auf	_	
+6-13	561-564	dem	_	
+6-14	565-571	Radweg	_	
+6-15	572-578	liegen	_	
+6-16	578-579	,	_	
+6-17	580-584	wenn	_	
+6-18	585-587	es	_	
+6-19	588-598	zusätzlich	_	
+6-20	599-605	regnet	_	
+6-21	606-609	und	_	
+6-22	610-616	dunkel	_	
+6-23	617-620	ist	_	
+6-24	620-621	.	_	
+
+#Text=Dann wird das Fahrradfahren auf diesem Radweg zu einer Mutprobe.
+7-1	622-626	Dann	_	
+7-2	627-631	wird	_	
+7-3	632-635	das	_	
+7-4	636-649	Fahrradfahren	_	
+7-5	650-653	auf	_	
+7-6	654-660	diesem	_	
+7-7	661-667	Radweg	_	
+7-8	668-670	zu	_	
+7-9	671-676	einer	_	
+7-10	677-685	Mutprobe	_	
+7-11	685-686	.	_	
+
+#Text=Hinzu kommt, dass man als Radfahrer auf Fußgänger achten muss und an jeder kreuzenden Straße oder Einfahrt auf Autos achten muss.
+8-1	687-692	Hinzu	_	
+8-2	693-698	kommt	_	
+8-3	698-699	,	_	
+8-4	700-704	dass	_	
+8-5	705-708	man	_	
+8-6	709-712	als	_	
+8-7	713-722	Radfahrer	_	
+8-8	723-726	auf	_	
+8-9	727-736	Fußgänger	_	
+8-10	737-743	achten	_	
+8-11	744-748	muss	_	
+8-12	749-752	und	_	
+8-13	753-755	an	_	
+8-14	756-761	jeder	_	
+8-15	762-772	kreuzenden	_	
+8-16	773-779	Straße	_	
+8-17	780-784	oder	_	
+8-18	785-793	Einfahrt	_	
+8-19	794-797	auf	_	
+8-20	798-803	Autos	_	
+8-21	804-810	achten	_	
+8-22	811-815	muss	_	
+8-23	815-816	.	_	
+
+#Text=Durch die Blätter auf dem Radweg sieht man die gefährlichen defekten Stellen auf dem Radweg nicht.
+9-1	817-822	Durch	_	
+9-2	823-826	die	_	
+9-3	827-834	Blätter	_	
+9-4	835-838	auf	_	
+9-5	839-842	dem	_	
+9-6	843-849	Radweg	_	
+9-7	850-855	sieht	_	
+9-8	856-859	man	_	
+9-9	860-863	die	_	
+9-10	864-876	gefährlichen	_	
+9-11	877-885	defekten	_	
+9-12	886-893	Stellen	_	
+9-13	894-897	auf	_	
+9-14	898-901	dem	_	
+9-15	902-908	Radweg	_	
+9-16	909-914	nicht	_	
+9-17	914-915	.	_	
+
+#Text=Bei Regen kommt die Rutschgefahr hinzu.
+10-1	916-919	Bei	_	
+10-2	920-925	Regen	_	
+10-3	926-931	kommt	_	
+10-4	932-935	die	_	
+10-5	936-948	Rutschgefahr	_	
+10-6	949-954	hinzu	_	
+10-7	954-955	.	_	
+
+#Text=Lösungsvorschlag: Den Radweg sanieren, besser kenntlich machen und im Herbst die Blätter regelmäßig entfernen.
+11-1	956-972	Lösungsvorschlag	_	
+11-2	972-973	:	_	
+11-3	974-977	Den	_	
+11-4	978-984	Radweg	_	
+11-5	985-993	sanieren	_	
+11-6	993-994	,	_	
+11-7	995-1001	besser	_	
+11-8	1002-1011	kenntlich	_	
+11-9	1012-1018	machen	_	
+11-10	1019-1022	und	_	
+11-11	1023-1025	im	_	
+11-12	1026-1032	Herbst	_	
+11-13	1033-1036	die	_	
+11-14	1037-1044	Blätter	_	
+11-15	1045-1055	regelmäßig	_	
+11-16	1056-1065	entfernen	_	
+11-17	1065-1066	.	_	

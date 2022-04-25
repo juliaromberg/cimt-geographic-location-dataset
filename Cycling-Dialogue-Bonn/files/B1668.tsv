@@ -1,0 +1,141 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelschaltungen anpassen!
+1-1	0-16	Ampelschaltungen	_	
+1-2	17-25	anpassen	_	
+1-3	25-26	!	_	
+
+#Text=Die Fußgängerampel (Für Radfahrende die einzige zumutbare Querungsmöglichkeit Richtung Bonner Talweg) hat zwei gravierende Nachteile, die zu Rotlichtverstößen führen:
+2-1	29-32	Die	_	
+2-2	33-47	Fußgängerampel	_	
+2-3	48-49	(	_	
+2-4	49-52	Für	_	
+2-5	53-64	Radfahrende	_	
+2-6	65-68	die	_	
+2-7	69-76	einzige	_	
+2-8	77-86	zumutbare	_	
+2-9	87-106	Querungsmöglichkeit	*[9]	
+2-10	107-115	Richtung	*[9]	
+2-11	116-122	Bonner	*[9]	
+2-12	123-129	Talweg	*[9]	
+2-13	129-130	)	_	
+2-14	131-134	hat	_	
+2-15	135-139	zwei	_	
+2-16	140-151	gravierende	_	
+2-17	152-161	Nachteile	_	
+2-18	161-162	,	_	
+2-19	163-166	die	_	
+2-20	167-169	zu	_	
+2-21	170-187	Rotlichtverstößen	_	
+2-22	188-194	führen	_	
+2-23	194-195	:	_	
+
+#Text=1. Die Schaltung sollte abends/nachts dringend an die geringe Verkehrsbelastung angepasst werden, also schneller auf grün schalten.
+3-1	196-197	1	_	
+3-2	197-198	.	_	
+3-3	199-202	Die	_	
+3-4	203-212	Schaltung	_	
+3-5	213-219	sollte	_	
+3-6	220-226	abends	_	
+3-7	226-227	/	_	
+3-8	227-233	nachts	_	
+3-9	234-242	dringend	_	
+3-10	243-245	an	_	
+3-11	246-249	die	_	
+3-12	250-257	geringe	_	
+3-13	258-275	Verkehrsbelastung	_	
+3-14	276-285	angepasst	_	
+3-15	286-292	werden	_	
+3-16	292-293	,	_	
+3-17	294-298	also	_	
+3-18	299-308	schneller	_	
+3-19	309-312	auf	_	
+3-20	313-317	grün	_	
+3-21	318-326	schalten	_	
+3-22	326-327	.	_	
+
+#Text=Die Straße ist dort teilweise komplett leer, trotzdem soll man drei Minuten auf grün warten.
+4-1	328-331	Die	_	
+4-2	332-338	Straße	_	
+4-3	339-342	ist	_	
+4-4	343-347	dort	_	
+4-5	348-357	teilweise	_	
+4-6	358-366	komplett	_	
+4-7	367-371	leer	_	
+4-8	371-372	,	_	
+4-9	373-381	trotzdem	_	
+4-10	382-386	soll	_	
+4-11	387-390	man	_	
+4-12	391-395	drei	_	
+4-13	396-403	Minuten	_	
+4-14	404-407	auf	_	
+4-15	408-412	grün	_	
+4-16	413-419	warten	_	
+4-17	419-420	.	_	
+
+#Text=2. Keine Bettelampel!
+5-1	421-422	2	_	
+5-2	422-423	.	_	
+5-3	424-429	Keine	_	
+5-4	430-441	Bettelampel	_	
+5-5	441-442	!	_	
+
+#Text=Wenn man auch nur eine Sekunde nachdem PKW grün bekommen den Ampelknopf drückt, bekommt man zu Fuß kein grün, obwohl nichts dagegen spräche.
+6-1	443-447	Wenn	_	
+6-2	448-451	man	_	
+6-3	452-456	auch	_	
+6-4	457-460	nur	_	
+6-5	461-465	eine	_	
+6-6	466-473	Sekunde	_	
+6-7	474-481	nachdem	_	
+6-8	482-485	PKW	_	
+6-9	486-490	grün	_	
+6-10	491-499	bekommen	_	
+6-11	500-503	den	_	
+6-12	504-514	Ampelknopf	_	
+6-13	515-521	drückt	_	
+6-14	521-522	,	_	
+6-15	523-530	bekommt	_	
+6-16	531-534	man	_	
+6-17	535-537	zu	_	
+6-18	538-541	Fuß	_	
+6-19	542-546	kein	_	
+6-20	547-551	grün	_	
+6-21	551-552	,	_	
+6-22	553-559	obwohl	_	
+6-23	560-566	nichts	_	
+6-24	567-574	dagegen	_	
+6-25	575-582	spräche	_	
+6-26	582-583	.	_	
+
+#Text=Man muss dann noch eine ewig lange Phase abwarten.
+7-1	584-587	Man	_	
+7-2	588-592	muss	_	
+7-3	593-597	dann	_	
+7-4	598-602	noch	_	
+7-5	603-607	eine	_	
+7-6	608-612	ewig	_	
+7-7	613-618	lange	_	
+7-8	619-624	Phase	_	
+7-9	625-633	abwarten	_	
+7-10	633-634	.	_	
+
+#Text=So steht man (geschätzt) 3-4 Minuten an einer Ampel.
+8-1	635-637	So	_	
+8-2	638-643	steht	_	
+8-3	644-647	man	_	
+8-4	648-649	(	_	
+8-5	649-658	geschätzt	_	
+8-6	658-659	)	_	
+8-7	660-661	3	_	
+8-8	661-662	-	_	
+8-9	662-663	4	_	
+8-10	664-671	Minuten	_	
+8-11	672-674	an	_	
+8-12	675-680	einer	_	
+8-13	681-686	Ampel	_	
+8-14	686-687	.	_	

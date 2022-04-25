@@ -1,0 +1,88 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Leerstand im Parkhaus, zugeparkte Straßen
+1-1	0-9	Leerstand	_	
+1-2	10-12	im	_	
+1-3	13-21	Parkhaus	_	
+1-4	21-22	,	_	
+1-5	23-33	zugeparkte	_	
+1-6	34-41	Straßen	_	
+
+#Text=Die Parkraumbewirtschaftung im Gronau-Viertel sollte so gestaltet werden, dass Autofahrer nicht mehr die Straßen zuparken (zurzeit beispielsweise Welckerstraße, Schlegelstraße, Heinrich-Brüning-Straße, Fritz-Erler-Straße) sondern das leerstehende Parkhaus neben dem WCCB nutzen.
+2-1	44-47	Die	_	
+2-2	48-71	Parkraumbewirtschaftung	_	
+2-3	72-74	im	*[5]	
+2-4	75-89	Gronau-Viertel	*[5]	
+2-5	90-96	sollte	_	
+2-6	97-99	so	_	
+2-7	100-109	gestaltet	_	
+2-8	110-116	werden	_	
+2-9	116-117	,	_	
+2-10	118-122	dass	_	
+2-11	123-133	Autofahrer	_	
+2-12	134-139	nicht	_	
+2-13	140-144	mehr	_	
+2-14	145-148	die	_	
+2-15	149-156	Straßen	_	
+2-16	157-165	zuparken	_	
+2-17	166-167	(	_	
+2-18	167-174	zurzeit	_	
+2-19	175-189	beispielsweise	_	
+2-20	190-203	Welckerstraße	*[6]	
+2-21	203-204	,	*[6]	
+2-22	205-219	Schlegelstraße	*[6]	
+2-23	219-220	,	*[6]	
+2-24	221-244	Heinrich-Brüning-Straße	*[6]	
+2-25	244-245	,	*[6]	
+2-26	246-264	Fritz-Erler-Straße	*[6]	
+2-27	264-265	)	_	
+2-28	266-273	sondern	_	
+2-29	274-277	das	_	
+2-30	278-290	leerstehende	_	
+2-31	291-299	Parkhaus	_	
+2-32	300-305	neben	_	
+2-33	306-309	dem	_	
+2-34	310-314	WCCB	_	
+2-35	315-321	nutzen	_	
+2-36	321-322	.	_	
+
+#Text=In den o.g. Straßen kann man teilweise nur eine Fahrspur nutzen und die Sicht ist sehr eingeschränkt.
+3-1	323-325	In	_	
+3-2	326-329	den	_	
+3-3	330-333	o.g	_	
+3-4	333-334	.	_	
+3-5	335-342	Straßen	_	
+3-6	343-347	kann	_	
+3-7	348-351	man	_	
+3-8	352-361	teilweise	_	
+3-9	362-365	nur	_	
+3-10	366-370	eine	_	
+3-11	371-379	Fahrspur	_	
+3-12	380-386	nutzen	_	
+3-13	387-390	und	_	
+3-14	391-394	die	_	
+3-15	395-400	Sicht	_	
+3-16	401-404	ist	_	
+3-17	405-409	sehr	_	
+3-18	410-423	eingeschränkt	_	
+3-19	423-424	.	_	
+
+#Text=Man könnte den neu gewonnen Platz auf der Straße nutzen um Radwege einzurichten.
+4-1	425-428	Man	_	
+4-2	429-435	könnte	_	
+4-3	436-439	den	_	
+4-4	440-443	neu	_	
+4-5	444-452	gewonnen	_	
+4-6	453-458	Platz	_	
+4-7	459-462	auf	_	
+4-8	463-466	der	_	
+4-9	467-473	Straße	_	
+4-10	474-480	nutzen	_	
+4-11	481-483	um	_	
+4-12	484-491	Radwege	_	
+4-13	492-504	einzurichten	_	
+4-14	504-505	.	_	

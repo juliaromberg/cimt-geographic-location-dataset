@@ -1,0 +1,44 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegschild fehlt
+1-1	0-12	Radwegschild	_	
+1-2	13-18	fehlt	_	
+
+#Text=Hier fehlt ein Schild, das auf den geteilten Weg für Rad- und Fußgänger hinweist.
+2-1	21-25	Hier	_	
+2-2	26-31	fehlt	_	
+2-3	32-35	ein	_	
+2-4	36-42	Schild	_	
+2-5	42-43	,	_	
+2-6	44-47	das	_	
+2-7	48-51	auf	_	
+2-8	52-55	den	_	
+2-9	56-65	geteilten	_	
+2-10	66-69	Weg	_	
+2-11	70-73	für	_	
+2-12	74-77	Rad	_	
+2-13	77-78	-	_	
+2-14	79-82	und	_	
+2-15	83-92	Fußgänger	_	
+2-16	93-101	hinweist	_	
+2-17	101-102	.	_	
+
+#Text=Wie sehr häufig in Bonn, ist auch hier der Radweg schlecht gekennzeichnet.
+3-1	103-106	Wie	_	
+3-2	107-111	sehr	_	
+3-3	112-118	häufig	_	
+3-4	119-121	in	*[4]	
+3-5	122-126	Bonn	*[4]	
+3-6	126-127	,	_	
+3-7	128-131	ist	_	
+3-8	132-136	auch	_	
+3-9	137-141	hier	_	
+3-10	142-145	der	_	
+3-11	146-152	Radweg	_	
+3-12	153-161	schlecht	_	
+3-13	162-176	gekennzeichnet	_	
+3-14	176-177	.	_	

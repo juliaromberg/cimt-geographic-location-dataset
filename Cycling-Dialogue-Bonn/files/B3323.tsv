@@ -1,0 +1,186 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreisverkehr Tannenbusch
+1-1	0-12	Kreisverkehr	*[12]	
+1-2	13-24	Tannenbusch	*[12]	
+
+#Text=Fährt man auf dem Radweg Oppelner Straße in Richtung Tannenbusch Center, so endet der grau asphaltiert Radweg plötzlich.
+2-1	27-32	Fährt	_	
+2-2	33-36	man	_	
+2-3	37-40	auf	*[13]	
+2-4	41-44	dem	*[13]	
+2-5	45-51	Radweg	*[13]	
+2-6	52-60	Oppelner	*[13]	
+2-7	61-67	Straße	*[13]	
+2-8	68-70	in	*[13]	
+2-9	71-79	Richtung	*[13]	
+2-10	80-91	Tannenbusch	*[13]	
+2-11	92-98	Center	*[13]	
+2-12	98-99	,	_	
+2-13	100-102	so	_	
+2-14	103-108	endet	_	
+2-15	109-112	der	_	
+2-16	113-117	grau	_	
+2-17	118-129	asphaltiert	_	
+2-18	130-136	Radweg	_	
+2-19	137-146	plötzlich	_	
+2-20	146-147	.	_	
+
+#Text=Fährt man dan nach rechts über den hellen, plattierten Bereich, der wesentlich schmaler ist als der Weg vorher, so gelangt man über die Schlesienstrasse auf die andere Seite.
+3-1	148-153	Fährt	_	
+3-2	154-157	man	_	
+3-3	158-161	dan	_	
+3-4	162-166	nach	_	
+3-5	167-173	rechts	_	
+3-6	174-178	über	_	
+3-7	179-182	den	_	
+3-8	183-189	hellen	_	
+3-9	189-190	,	_	
+3-10	191-202	plattierten	_	
+3-11	203-210	Bereich	_	
+3-12	210-211	,	_	
+3-13	212-215	der	_	
+3-14	216-226	wesentlich	_	
+3-15	227-235	schmaler	_	
+3-16	236-239	ist	_	
+3-17	240-243	als	_	
+3-18	244-247	der	_	
+3-19	248-251	Weg	_	
+3-20	252-258	vorher	_	
+3-21	258-259	,	_	
+3-22	260-262	so	_	
+3-23	263-270	gelangt	_	
+3-24	271-274	man	_	
+3-25	275-279	über	*[14]	
+3-26	280-283	die	*[14]	
+3-27	284-300	Schlesienstrasse	*[14]	
+3-28	301-304	auf	_	
+3-29	305-308	die	_	
+3-30	309-315	andere	_	
+3-31	316-321	Seite	_	
+3-32	321-322	.	_	
+
+#Text=Dort führt aber der Radweg auf der Strasse und wird von dort auf den Gehweg, in einer eigenen Spur geführt.
+4-1	323-327	Dort	_	
+4-2	328-333	führt	_	
+4-3	334-338	aber	_	
+4-4	339-342	der	_	
+4-5	343-349	Radweg	_	
+4-6	350-353	auf	_	
+4-7	354-357	der	_	
+4-8	358-365	Strasse	_	
+4-9	366-369	und	_	
+4-10	370-374	wird	_	
+4-11	375-378	von	_	
+4-12	379-383	dort	_	
+4-13	384-387	auf	_	
+4-14	388-391	den	_	
+4-15	392-398	Gehweg	_	
+4-16	398-399	,	_	
+4-17	400-402	in	_	
+4-18	403-408	einer	_	
+4-19	409-416	eigenen	_	
+4-20	417-421	Spur	_	
+4-21	422-429	geführt	_	
+4-22	429-430	.	_	
+
+#Text=Also Frage, war das vor kein Radweg ?
+5-1	431-435	Also	_	
+5-2	436-441	Frage	_	
+5-3	441-442	,	_	
+5-4	443-446	war	_	
+5-5	447-450	das	_	
+5-6	451-454	vor	_	
+5-7	455-459	kein	_	
+5-8	460-466	Radweg	_	
+5-9	467-468	?	_	
+
+#Text=Es gibt aber keinen Hinweis, dass der Radweg endet.
+6-1	469-471	Es	_	
+6-2	472-476	gibt	_	
+6-3	477-481	aber	_	
+6-4	482-488	keinen	_	
+6-5	489-496	Hinweis	_	
+6-6	496-497	,	_	
+6-7	498-502	dass	_	
+6-8	503-506	der	_	
+6-9	507-513	Radweg	_	
+6-10	514-519	endet	_	
+6-11	519-520	.	_	
+
+#Text=Das wäre aber ziemlich blöd.
+7-1	521-524	Das	_	
+7-2	525-529	wäre	_	
+7-3	530-534	aber	_	
+7-4	535-543	ziemlich	_	
+7-5	544-548	blöd	_	
+7-6	548-549	.	_	
+
+#Text=Man müßte absteigen oder über den Grünstreifen schieben und dann auf der Strasse weiterfahren.
+8-1	550-553	Man	_	
+8-2	554-559	müßte	_	
+8-3	560-569	absteigen	_	
+8-4	570-574	oder	_	
+8-5	575-579	über	_	
+8-6	580-583	den	_	
+8-7	584-596	Grünstreifen	_	
+8-8	597-605	schieben	_	
+8-9	606-609	und	_	
+8-10	610-614	dann	_	
+8-11	615-618	auf	_	
+8-12	619-622	der	_	
+8-13	623-630	Strasse	_	
+8-14	631-643	weiterfahren	_	
+8-15	643-644	.	_	
+
+#Text=Ich frage mich, war das so geplant oder hat man hier gepfuscht!
+9-1	645-648	Ich	_	
+9-2	649-654	frage	_	
+9-3	655-659	mich	_	
+9-4	659-660	,	_	
+9-5	661-664	war	_	
+9-6	665-668	das	_	
+9-7	669-671	so	_	
+9-8	672-679	geplant	_	
+9-9	680-684	oder	_	
+9-10	685-688	hat	_	
+9-11	689-692	man	_	
+9-12	693-697	hier	_	
+9-13	698-707	gepfuscht	_	
+9-14	707-708	!	_	
+
+#Text=Die anderen Seiten führen den Radfahrer auf der Strasse durch den Kreis.
+10-1	709-712	Die	_	
+10-2	713-720	anderen	_	
+10-3	721-727	Seiten	_	
+10-4	728-734	führen	_	
+10-5	735-738	den	_	
+10-6	739-748	Radfahrer	_	
+10-7	749-752	auf	_	
+10-8	753-756	der	_	
+10-9	757-764	Strasse	_	
+10-10	765-770	durch	_	
+10-11	771-774	den	_	
+10-12	775-780	Kreis	_	
+10-13	780-781	.	_	
+
+#Text=Hätte man den Durchmeser besser kleiner gewählt, dann wäre noch Platz für Radwegstreifen.
+11-1	782-787	Hätte	_	
+11-2	788-791	man	_	
+11-3	792-795	den	_	
+11-4	796-806	Durchmeser	_	
+11-5	807-813	besser	_	
+11-6	814-821	kleiner	_	
+11-7	822-829	gewählt	_	
+11-8	829-830	,	_	
+11-9	831-835	dann	_	
+11-10	836-840	wäre	_	
+11-11	841-845	noch	_	
+11-12	846-851	Platz	_	
+11-13	852-855	für	_	
+11-14	856-870	Radwegstreifen	_	
+11-15	870-871	.	_	

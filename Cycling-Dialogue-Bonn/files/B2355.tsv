@@ -1,0 +1,180 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Was ich schon immer 'mal sagen wollte!
+1-1	0-3	Was	_	
+1-2	4-7	ich	_	
+1-3	8-13	schon	_	
+1-4	14-19	immer	_	
+1-5	20-21	'	_	
+1-6	21-24	mal	_	
+1-7	25-30	sagen	_	
+1-8	31-37	wollte	_	
+1-9	37-38	!	_	
+
+#Text=1. Coburger Str.: Den Fahrradweg parallel zu den Schienen entfernen.
+2-1	41-42	1	_	
+2-2	42-43	.	_	
+2-3	44-52	Coburger	*[10]	
+2-4	53-56	Str	*[10]	
+2-5	56-57	.	_	
+2-6	57-58	:	_	
+2-7	59-62	Den	_	
+2-8	63-73	Fahrradweg	_	
+2-9	74-82	parallel	_	
+2-10	83-85	zu	_	
+2-11	86-89	den	_	
+2-12	90-98	Schienen	_	
+2-13	99-108	entfernen	_	
+2-14	108-109	.	_	
+
+#Text=Angel - Parking für Autos auf dem jetzigen Radweg, so können mehr Autos parken.
+3-1	110-115	Angel	_	
+3-2	116-117	-	_	
+3-3	118-125	Parking	_	
+3-4	126-129	für	_	
+3-5	130-135	Autos	_	
+3-6	136-139	auf	_	
+3-7	140-143	dem	_	
+3-8	144-152	jetzigen	_	
+3-9	153-159	Radweg	_	
+3-10	159-160	,	_	
+3-11	161-163	so	_	
+3-12	164-170	können	_	
+3-13	171-175	mehr	_	
+3-14	176-181	Autos	_	
+3-15	182-188	parken	_	
+3-16	188-189	.	_	
+
+#Text=Ansonsten die Strasse zur Fahrradstr. machen
+4-1	190-199	Ansonsten	_	
+4-2	200-203	die	_	
+4-3	204-211	Strasse	_	
+4-4	212-215	zur	_	
+4-5	216-226	Fahrradstr	_	
+4-6	226-227	.	_	
+4-7	228-234	machen	_	
+
+#Text=2. Mehr Fahrradständer auf dem Münsterplatz
+5-1	235-236	2	_	
+5-2	236-237	.	_	
+5-3	238-242	Mehr	_	
+5-4	243-257	Fahrradständer	_	
+5-5	258-261	auf	*[11]	
+5-6	262-265	dem	*[11]	
+5-7	266-278	Münsterplatz	*[11]	
+
+#Text=3. Sterntor: Brunnen entfernen, da für Radfahrer + Fussgänger zu eng
+6-1	279-280	3	_	
+6-2	280-281	.	_	
+6-3	282-290	Sterntor	*	
+6-4	290-291	:	_	
+6-5	292-299	Brunnen	_	
+6-6	300-309	entfernen	_	
+6-7	309-310	,	_	
+6-8	311-313	da	_	
+6-9	314-317	für	_	
+6-10	318-327	Radfahrer	_	
+6-11	328-329	+	_	
+6-12	330-340	Fussgänger	_	
+6-13	341-343	zu	_	
+6-14	344-347	eng	_	
+
+#Text=4. (Wenn Radweg nicht auf Strassen sind: Bordsteine absenken), die bereits abgesenkten Steine sind sehr häufig noch zu hoch, ggfls. Schräge mit Asphalt (o.ä) anbringen.
+7-1	348-349	4	_	
+7-2	349-350	.	_	
+7-3	351-352	(	_	
+7-4	352-356	Wenn	_	
+7-5	357-363	Radweg	_	
+7-6	364-369	nicht	_	
+7-7	370-373	auf	_	
+7-8	374-382	Strassen	_	
+7-9	383-387	sind	_	
+7-10	387-388	:	_	
+7-11	389-399	Bordsteine	_	
+7-12	400-408	absenken	_	
+7-13	408-409	)	_	
+7-14	409-410	,	_	
+7-15	411-414	die	_	
+7-16	415-422	bereits	_	
+7-17	423-434	abgesenkten	_	
+7-18	435-441	Steine	_	
+7-19	442-446	sind	_	
+7-20	447-451	sehr	_	
+7-21	452-458	häufig	_	
+7-22	459-463	noch	_	
+7-23	464-466	zu	_	
+7-24	467-471	hoch	_	
+7-25	471-472	,	_	
+7-26	473-478	ggfls	_	
+7-27	478-479	.	_	
+7-28	480-487	Schräge	_	
+7-29	488-491	mit	_	
+7-30	492-499	Asphalt	_	
+7-31	500-501	(	_	
+7-32	501-504	o.ä	_	
+7-33	504-505	)	_	
+7-34	506-515	anbringen	_	
+7-35	515-516	.	_	
+
+#Text=5. Pflasterungen auf Fahrradwegen sind bei Regen gefährlich (abrutschen) und auch sonst beim Überfahren sehr unangenehm
+8-1	517-518	5	_	
+8-2	518-519	.	_	
+8-3	520-533	Pflasterungen	_	
+8-4	534-537	auf	_	
+8-5	538-550	Fahrradwegen	_	
+8-6	551-555	sind	_	
+8-7	556-559	bei	_	
+8-8	560-565	Regen	_	
+8-9	566-576	gefährlich	_	
+8-10	577-578	(	_	
+8-11	578-588	abrutschen	_	
+8-12	588-589	)	_	
+8-13	590-593	und	_	
+8-14	594-598	auch	_	
+8-15	599-604	sonst	_	
+8-16	605-609	beim	_	
+8-17	610-620	Überfahren	_	
+8-18	621-625	sehr	_	
+8-19	626-636	unangenehm	_	
+
+#Text=6. Regelmäßige (nicht nur 1 x im Jahr) Reinigung, auch bei Schnee und Laubfall, ist erforderlich, gerade auf dem Rad High Way an den Bahnschienen Bonn -> Godesberg.
+9-1	637-638	6	_	
+9-2	638-639	.	_	
+9-3	640-651	Regelmäßige	_	
+9-4	652-653	(	_	
+9-5	653-658	nicht	_	
+9-6	659-662	nur	_	
+9-7	663-664	1	_	
+9-8	665-666	x	_	
+9-9	667-669	im	_	
+9-10	670-674	Jahr	_	
+9-11	674-675	)	_	
+9-12	676-685	Reinigung	_	
+9-13	685-686	,	_	
+9-14	687-691	auch	_	
+9-15	692-695	bei	_	
+9-16	696-702	Schnee	_	
+9-17	703-706	und	_	
+9-18	707-715	Laubfall	_	
+9-19	715-716	,	_	
+9-20	717-720	ist	_	
+9-21	721-733	erforderlich	_	
+9-22	733-734	,	_	
+9-23	735-741	gerade	_	
+9-24	742-745	auf	_	
+9-25	746-749	dem	_	
+9-26	750-753	Rad	_	
+9-27	754-758	High	_	
+9-28	759-762	Way	_	
+9-29	763-765	an	_	
+9-30	766-769	den	_	
+9-31	770-782	Bahnschienen	_	
+9-32	783-787	Bonn	*[12]	
+9-33	788-789	-	*[12]	
+9-34	789-790	>	*[12]	
+9-35	791-800	Godesberg	*[12]	
+9-36	800-801	.	_	

@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Winterdienst fehlt
+1-1	0-12	Winterdienst	_	
+1-2	13-18	fehlt	_	
+
+#Text=Der Hangelarer Weg zwischen Vilich-Müldorf und Hangelar wird im Winter nie geräumt oder gestreut obwohl er auf der Hauptverbindungsstrecke zwischen Bonn und Siegburg für Fahrradfahrer und damit viele Berufspendler liegt.
+2-1	21-24	Der	*[4]	
+2-2	25-35	Hangelarer	*[4]	
+2-3	36-39	Weg	*[4]	
+2-4	40-48	zwischen	*[4]	
+2-5	49-63	Vilich-Müldorf	*[4]	
+2-6	64-67	und	*[4]	
+2-7	68-76	Hangelar	*[4]	
+2-8	77-81	wird	_	
+2-9	82-84	im	_	
+2-10	85-91	Winter	_	
+2-11	92-95	nie	_	
+2-12	96-103	geräumt	_	
+2-13	104-108	oder	_	
+2-14	109-117	gestreut	_	
+2-15	118-124	obwohl	_	
+2-16	125-127	er	_	
+2-17	128-131	auf	_	
+2-18	132-135	der	_	
+2-19	136-159	Hauptverbindungsstrecke	_	
+2-20	160-168	zwischen	*[5]	
+2-21	169-173	Bonn	*[5]	
+2-22	174-177	und	*[5]	
+2-23	178-186	Siegburg	*[5]	
+2-24	187-190	für	_	
+2-25	191-204	Fahrradfahrer	_	
+2-26	205-208	und	_	
+2-27	209-214	damit	_	
+2-28	215-220	viele	_	
+2-29	221-234	Berufspendler	_	
+2-30	235-240	liegt	_	
+2-31	240-241	.	_	
+
+#Text=Auf der Sankt Augustiner Seite ist die Strecke bis Stadtgrenze Bonn dagegen immer geräumt oder gestreut.
+3-1	242-245	Auf	*[6]	
+3-2	246-249	der	*[6]	
+3-3	250-255	Sankt	*[6]	
+3-4	256-266	Augustiner	*[6]	
+3-5	267-272	Seite	*[6]	
+3-6	273-276	ist	_	
+3-7	277-280	die	_	
+3-8	281-288	Strecke	_	
+3-9	289-292	bis	*[7]	
+3-10	293-304	Stadtgrenze	*[7]	
+3-11	305-309	Bonn	*[7]	
+3-12	310-317	dagegen	_	
+3-13	318-323	immer	_	
+3-14	324-331	geräumt	_	
+3-15	332-336	oder	_	
+3-16	337-345	gestreut	_	
+3-17	345-346	.	_	

@@ -1,0 +1,29 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrbahschäden durch Wurzeln
+1-1	0-14	Fahrbahschäden	_	
+1-2	15-20	durch	_	
+1-3	21-28	Wurzeln	_	
+
+#Text=Der Belag des stark als Radweg genutzen Weges um den Minigolfplatz ist deutlich durch Wurzeln gehoben.
+2-1	31-34	Der	_	
+2-2	35-40	Belag	_	
+2-3	41-44	des	_	
+2-4	45-50	stark	_	
+2-5	51-54	als	_	
+2-6	55-61	Radweg	_	
+2-7	62-70	genutzen	_	
+2-8	71-76	Weges	_	
+2-9	77-79	um	_	
+2-10	80-83	den	_	
+2-11	84-97	Minigolfplatz	_	
+2-12	98-101	ist	_	
+2-13	102-110	deutlich	_	
+2-14	111-116	durch	_	
+2-15	117-124	Wurzeln	_	
+2-16	125-132	gehoben	_	
+2-17	132-133	.	_	

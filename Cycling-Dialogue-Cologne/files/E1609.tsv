@@ -1,0 +1,116 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Todesangst auf der Venloerstraße
+1-1	0-10	Todesangst	_	
+1-2	11-14	auf	*[7]	
+1-3	15-18	der	*[7]	
+1-4	19-32	Venloerstraße	*[7]	
+
+#Text=Der Radweg auf der Venloerstraße ist sehr unangenehm zum Fahren.
+2-1	35-38	Der	_	
+2-2	39-45	Radweg	_	
+2-3	46-49	auf	*[8]	
+2-4	50-53	der	*[8]	
+2-5	54-67	Venloerstraße	*[8]	
+2-6	68-71	ist	_	
+2-7	72-76	sehr	_	
+2-8	77-87	unangenehm	_	
+2-9	88-91	zum	_	
+2-10	92-98	Fahren	_	
+2-11	98-99	.	_	
+
+#Text=Die rechte Hälfte ist uneben und voller Rillen und fährt man auf der glatten Hälfte der Spur wird man von Autos touchiert.
+3-1	100-103	Die	_	
+3-2	104-110	rechte	_	
+3-3	111-117	Hälfte	_	
+3-4	118-121	ist	_	
+3-5	122-128	uneben	_	
+3-6	129-132	und	_	
+3-7	133-139	voller	_	
+3-8	140-146	Rillen	_	
+3-9	147-150	und	_	
+3-10	151-156	fährt	_	
+3-11	157-160	man	_	
+3-12	161-164	auf	_	
+3-13	165-168	der	_	
+3-14	169-176	glatten	_	
+3-15	177-183	Hälfte	_	
+3-16	184-187	der	_	
+3-17	188-192	Spur	_	
+3-18	193-197	wird	_	
+3-19	198-201	man	_	
+3-20	202-205	von	_	
+3-21	206-211	Autos	_	
+3-22	212-221	touchiert	_	
+3-23	221-222	.	_	
+
+#Text=Es passen auf der Venloerstraße nämlich nicht zwei Autos aneinander vorbei, d.h. sie weichen auf den Radweg aus!
+4-1	223-225	Es	_	
+4-2	226-232	passen	_	
+4-3	233-236	auf	*[9]	
+4-4	237-240	der	*[9]	
+4-5	241-254	Venloerstraße	*[9]	
+4-6	255-262	nämlich	_	
+4-7	263-268	nicht	_	
+4-8	269-273	zwei	_	
+4-9	274-279	Autos	_	
+4-10	280-290	aneinander	_	
+4-11	291-297	vorbei	_	
+4-12	297-298	,	_	
+4-13	299-302	d.h	_	
+4-14	302-303	.	_	
+4-15	304-307	sie	_	
+4-16	308-315	weichen	_	
+4-17	316-319	auf	_	
+4-18	320-323	den	_	
+4-19	324-330	Radweg	_	
+4-20	331-334	aus	_	
+4-21	334-335	!	_	
+
+#Text=Könnten nicht die Parkplätze weichen (zumindest auf einer Seite) um breitere Fahrbahnen für Autos und Räder zu schaffen.
+5-1	336-343	Könnten	_	
+5-2	344-349	nicht	_	
+5-3	350-353	die	_	
+5-4	354-364	Parkplätze	_	
+5-5	365-372	weichen	_	
+5-6	373-374	(	_	
+5-7	374-383	zumindest	_	
+5-8	384-387	auf	_	
+5-9	388-393	einer	_	
+5-10	394-399	Seite	_	
+5-11	399-400	)	_	
+5-12	401-403	um	_	
+5-13	404-412	breitere	_	
+5-14	413-423	Fahrbahnen	_	
+5-15	424-427	für	_	
+5-16	428-433	Autos	_	
+5-17	434-437	und	_	
+5-18	438-443	Räder	_	
+5-19	444-446	zu	_	
+5-20	447-455	schaffen	_	
+5-21	455-456	.	_	
+
+#Text=Oder die Geschwindigkeitsgrenze für Autos könnte reduziert werden, damit diese nicht mehr an den Rädern vorbeirasen dürfen!
+6-1	457-461	Oder	_	
+6-2	462-465	die	_	
+6-3	466-488	Geschwindigkeitsgrenze	_	
+6-4	489-492	für	_	
+6-5	493-498	Autos	_	
+6-6	499-505	könnte	_	
+6-7	506-515	reduziert	_	
+6-8	516-522	werden	_	
+6-9	522-523	,	_	
+6-10	524-529	damit	_	
+6-11	530-535	diese	_	
+6-12	536-541	nicht	_	
+6-13	542-546	mehr	_	
+6-14	547-549	an	_	
+6-15	550-553	den	_	
+6-16	554-560	Rädern	_	
+6-17	561-572	vorbeirasen	_	
+6-18	573-579	dürfen	_	
+6-19	579-580	!	_	

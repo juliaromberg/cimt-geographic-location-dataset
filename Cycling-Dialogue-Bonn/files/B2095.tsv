@@ -1,0 +1,83 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bitte Kurve beleuchten
+1-1	0-5	Bitte	_	
+1-2	6-11	Kurve	_	
+1-3	12-22	beleuchten	_	
+
+#Text=Auf dem gemeinsamen Fuß/Radweg Kleinefeldsweg fährt man an der gekennzeichneten Kurve im Dunkeln ins Ungewisse.
+2-1	25-28	Auf	*[5]	
+2-2	29-32	dem	*[5]	
+2-3	33-44	gemeinsamen	*[5]	
+2-4	45-48	Fuß	*[5]	
+2-5	48-49	/	*[5]	
+2-6	49-55	Radweg	*[5]	
+2-7	56-70	Kleinefeldsweg	*[5]	
+2-8	71-76	fährt	_	
+2-9	77-80	man	_	
+2-10	81-83	an	_	
+2-11	84-87	der	_	
+2-12	88-104	gekennzeichneten	_	
+2-13	105-110	Kurve	_	
+2-14	111-113	im	_	
+2-15	114-121	Dunkeln	_	
+2-16	122-125	ins	_	
+2-17	126-135	Ungewisse	_	
+2-18	135-136	.	_	
+
+#Text=Das eigene Licht am Fahrrad leuchtet nicht in den Kurvenverlauf hinein und es besteht Gefahr, dass man hier gegen Fußgänger fährt.
+3-1	137-140	Das	_	
+3-2	141-147	eigene	_	
+3-3	148-153	Licht	_	
+3-4	154-156	am	_	
+3-5	157-164	Fahrrad	_	
+3-6	165-173	leuchtet	_	
+3-7	174-179	nicht	_	
+3-8	180-182	in	_	
+3-9	183-186	den	_	
+3-10	187-200	Kurvenverlauf	_	
+3-11	201-207	hinein	_	
+3-12	208-211	und	_	
+3-13	212-214	es	_	
+3-14	215-222	besteht	_	
+3-15	223-229	Gefahr	_	
+3-16	229-230	,	_	
+3-17	231-235	dass	_	
+3-18	236-239	man	_	
+3-19	240-244	hier	_	
+3-20	245-250	gegen	_	
+3-21	251-260	Fußgänger	_	
+3-22	261-266	fährt	_	
+3-23	266-267	.	_	
+
+#Text=Es ist auch nicht möglich, vor Beginn der Kurve hinter die Kurve zu sehen, aufgrund der hohen Büsche an der Schienenseite des Weges.
+4-1	268-270	Es	_	
+4-2	271-274	ist	_	
+4-3	275-279	auch	_	
+4-4	280-285	nicht	_	
+4-5	286-293	möglich	_	
+4-6	293-294	,	_	
+4-7	295-298	vor	_	
+4-8	299-305	Beginn	_	
+4-9	306-309	der	_	
+4-10	310-315	Kurve	_	
+4-11	316-322	hinter	_	
+4-12	323-326	die	_	
+4-13	327-332	Kurve	_	
+4-14	333-335	zu	_	
+4-15	336-341	sehen	_	
+4-16	341-342	,	_	
+4-17	343-351	aufgrund	_	
+4-18	352-355	der	_	
+4-19	356-361	hohen	_	
+4-20	362-368	Büsche	_	
+4-21	369-371	an	_	
+4-22	372-375	der	_	
+4-23	376-389	Schienenseite	_	
+4-24	390-393	des	_	
+4-25	394-399	Weges	_	
+4-26	399-400	.	_	

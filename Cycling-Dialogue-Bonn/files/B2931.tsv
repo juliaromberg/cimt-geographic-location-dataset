@@ -1,0 +1,104 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Lungenkrebsreservoir
+1-1	0-20	Lungenkrebsreservoir	_	
+
+#Text=Wer an dieser Ampel wartet bekommt einen hundertprozentig vollständigen Cocktail an Stickoxiden, Kohlenmonoxid, Ozon und Feinstaub ab.
+2-1	23-26	Wer	_	
+2-2	27-29	an	_	
+2-3	30-36	dieser	_	
+2-4	37-42	Ampel	_	
+2-5	43-49	wartet	_	
+2-6	50-57	bekommt	_	
+2-7	58-63	einen	_	
+2-8	64-80	hundertprozentig	_	
+2-9	81-94	vollständigen	_	
+2-10	95-103	Cocktail	_	
+2-11	104-106	an	_	
+2-12	107-118	Stickoxiden	_	
+2-13	118-119	,	_	
+2-14	120-133	Kohlenmonoxid	_	
+2-15	133-134	,	_	
+2-16	135-139	Ozon	_	
+2-17	140-143	und	_	
+2-18	144-153	Feinstaub	_	
+2-19	154-156	ab	_	
+2-20	156-157	.	_	
+
+#Text=Dieses Problem ist nicht durch fahrradwegbauliche Maßnahmen zu ändern, es sei denn Sie bauen eine riesige Unterführung die die Straße umgeht.
+3-1	158-164	Dieses	_	
+3-2	165-172	Problem	_	
+3-3	173-176	ist	_	
+3-4	177-182	nicht	_	
+3-5	183-188	durch	_	
+3-6	189-207	fahrradwegbauliche	_	
+3-7	208-217	Maßnahmen	_	
+3-8	218-220	zu	_	
+3-9	221-227	ändern	_	
+3-10	227-228	,	_	
+3-11	229-231	es	_	
+3-12	232-235	sei	_	
+3-13	236-240	denn	_	
+3-14	241-244	Sie	_	
+3-15	245-250	bauen	_	
+3-16	251-255	eine	_	
+3-17	256-263	riesige	_	
+3-18	264-276	Unterführung	_	
+3-19	277-280	die	_	
+3-20	281-284	die	_	
+3-21	285-291	Straße	_	
+3-22	292-298	umgeht	_	
+3-23	298-299	.	_	
+
+#Text=Insgesamt appelliere ich aber deutlich an eine autofreie oder zumindest seeeeehr Verkehrsberuhigte Stadt Bonn, die den europäischen Zielen zur Luftreinheit endlich gerecht kommt und den Bürgern und Fahrradfahrern endlich das gibt was sie von Natur aus bekommen sollten: Saubere Luft die nicht krank macht!
+4-1	300-309	Insgesamt	_	
+4-2	310-320	appelliere	_	
+4-3	321-324	ich	_	
+4-4	325-329	aber	_	
+4-5	330-338	deutlich	_	
+4-6	339-341	an	_	
+4-7	342-346	eine	_	
+4-8	347-356	autofreie	_	
+4-9	357-361	oder	_	
+4-10	362-371	zumindest	_	
+4-11	372-380	seeeeehr	_	
+4-12	381-398	Verkehrsberuhigte	_	
+4-13	399-404	Stadt	*[4]	
+4-14	405-409	Bonn	*[4]	
+4-15	409-410	,	_	
+4-16	411-414	die	_	
+4-17	415-418	den	_	
+4-18	419-431	europäischen	_	
+4-19	432-438	Zielen	_	
+4-20	439-442	zur	_	
+4-21	443-455	Luftreinheit	_	
+4-22	456-463	endlich	_	
+4-23	464-471	gerecht	_	
+4-24	472-477	kommt	_	
+4-25	478-481	und	_	
+4-26	482-485	den	_	
+4-27	486-493	Bürgern	_	
+4-28	494-497	und	_	
+4-29	498-512	Fahrradfahrern	_	
+4-30	513-520	endlich	_	
+4-31	521-524	das	_	
+4-32	525-529	gibt	_	
+4-33	530-533	was	_	
+4-34	534-537	sie	_	
+4-35	538-541	von	_	
+4-36	542-547	Natur	_	
+4-37	548-551	aus	_	
+4-38	552-560	bekommen	_	
+4-39	561-568	sollten	_	
+4-40	568-569	:	_	
+4-41	570-577	Saubere	_	
+4-42	578-582	Luft	_	
+4-43	583-586	die	_	
+4-44	587-592	nicht	_	
+4-45	593-598	krank	_	
+4-46	599-604	macht	_	
+4-47	604-605	!	_	

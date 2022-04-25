@@ -1,0 +1,71 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg auf Radschnellwegstandard bringen
+1-1	0-6	Radweg	_	
+1-2	7-10	auf	_	
+1-3	11-32	Radschnellwegstandard	_	
+1-4	33-40	bringen	_	
+
+#Text=Der Radweg entlang des Militärrings soll Radschnellwegstandard als wichtige innerstädtische Tangentiale aufweisen.
+2-1	43-46	Der	*[5]	
+2-2	47-53	Radweg	*[5]	
+2-3	54-61	entlang	*[5]	
+2-4	62-65	des	*[5]	
+2-5	66-78	Militärrings	*[5]	
+2-6	79-83	soll	_	
+2-7	84-105	Radschnellwegstandard	_	
+2-8	106-109	als	_	
+2-9	110-118	wichtige	_	
+2-10	119-134	innerstädtische	_	
+2-11	135-146	Tangentiale	_	
+2-12	147-156	aufweisen	_	
+2-13	156-157	.	_	
+
+#Text=Hier sind schon viele Arbeitspendler unterwegs.
+3-1	158-162	Hier	_	
+3-2	163-167	sind	_	
+3-3	168-173	schon	_	
+3-4	174-179	viele	_	
+3-5	180-194	Arbeitspendler	_	
+3-6	195-204	unterwegs	_	
+3-7	204-205	.	_	
+
+#Text=Mit Verlängerung der Linie 3 sollte die Gelegenheit genutzt werden, hier nicht wieder 2,50 gemeinsamer Geh-/Radweg zu bauen, sondern Radschnellwegstandard umzusetzen und zwar nicht erst 2050!!!
+4-1	206-209	Mit	_	
+4-2	210-222	Verlängerung	_	
+4-3	223-226	der	_	
+4-4	227-232	Linie	_	
+4-5	233-234	3	_	
+4-6	235-241	sollte	_	
+4-7	242-245	die	_	
+4-8	246-257	Gelegenheit	_	
+4-9	258-265	genutzt	_	
+4-10	266-272	werden	_	
+4-11	272-273	,	_	
+4-12	274-278	hier	_	
+4-13	279-284	nicht	_	
+4-14	285-291	wieder	_	
+4-15	292-296	2,50	_	
+4-16	297-308	gemeinsamer	_	
+4-17	309-312	Geh	_	
+4-18	312-313	-	_	
+4-19	313-314	/	_	
+4-20	314-320	Radweg	_	
+4-21	321-323	zu	_	
+4-22	324-329	bauen	_	
+4-23	329-330	,	_	
+4-24	331-338	sondern	_	
+4-25	339-360	Radschnellwegstandard	_	
+4-26	361-371	umzusetzen	_	
+4-27	372-375	und	_	
+4-28	376-380	zwar	_	
+4-29	381-386	nicht	_	
+4-30	387-391	erst	_	
+4-31	392-396	2050	_	
+4-32	396-397	!	_	
+4-33	397-398	!	_	
+4-34	398-399	!	_	

@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ollenhauerstr / Fnroedrich Ebert Allee
+1-1	0-13	Ollenhauerstr	*[5]	
+1-2	14-15	/	*[5]	
+1-3	16-26	Fnroedrich	*[5]	
+1-4	27-32	Ebert	*[5]	
+1-5	33-38	Allee	*[5]	
+
+#Text=Der Bahnübergang Ollenhauerstraße ist gefährlich.
+2-1	41-44	Der	*[6]	
+2-2	45-57	Bahnübergang	*[6]	
+2-3	58-74	Ollenhauerstraße	*[6]	
+2-4	75-78	ist	_	
+2-5	79-89	gefährlich	_	
+2-6	89-90	.	_	
+
+#Text=Durch die gefährliche Ampelschaltung wird Schulkindern das erforderliche Warten an dem gefährlichen Bahnübergang abgewöhnt.
+3-1	91-96	Durch	_	
+3-2	97-100	die	_	
+3-3	101-112	gefährliche	_	
+3-4	113-127	Ampelschaltung	_	
+3-5	128-132	wird	_	
+3-6	133-145	Schulkindern	_	
+3-7	146-149	das	_	
+3-8	150-163	erforderliche	_	
+3-9	164-170	Warten	_	
+3-10	171-173	an	_	
+3-11	174-177	dem	_	
+3-12	178-190	gefährlichen	_	
+3-13	191-203	Bahnübergang	_	
+3-14	204-213	abgewöhnt	_	
+3-15	213-214	.	_	
+
+#Text=Außerdem ist die Parkplatzsituation vor dem [Name entfernt] Restaurant nach wie vor gefährlich, da es für Autofahrer beim Ausparken schwierig ist vorbeifahrende Radfahrer rechtzeitig zu sehen.
+4-1	215-223	Außerdem	_	
+4-2	224-227	ist	_	
+4-3	228-231	die	_	
+4-4	232-250	Parkplatzsituation	_	
+4-5	251-254	vor	_	
+4-6	255-258	dem	_	
+4-7	259-260	[	_	
+4-8	260-264	Name	_	
+4-9	265-273	entfernt	_	
+4-10	273-274	]	_	
+4-11	275-285	Restaurant	_	
+4-12	286-290	nach	_	
+4-13	291-294	wie	_	
+4-14	295-298	vor	_	
+4-15	299-309	gefährlich	_	
+4-16	309-310	,	_	
+4-17	311-313	da	_	
+4-18	314-316	es	_	
+4-19	317-320	für	_	
+4-20	321-331	Autofahrer	_	
+4-21	332-336	beim	_	
+4-22	337-346	Ausparken	_	
+4-23	347-356	schwierig	_	
+4-24	357-360	ist	_	
+4-25	361-375	vorbeifahrende	_	
+4-26	376-385	Radfahrer	_	
+4-27	386-397	rechtzeitig	_	
+4-28	398-400	zu	_	
+4-29	401-406	sehen	_	
+4-30	406-407	.	_	

@@ -1,0 +1,127 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radfahrweg im schlechten Zustand
+1-1	0-10	Radfahrweg	_	
+1-2	11-13	im	_	
+1-3	14-24	schlechten	_	
+1-4	25-32	Zustand	_	
+
+#Text=Sehr geehrte Damen und Herren, besonders der Radweg Subbelratherstr. stadtauswärts in Höhe der Myliusstr. bedarft einer Erneuerung.
+2-1	35-39	Sehr	_	
+2-2	40-47	geehrte	_	
+2-3	48-53	Damen	_	
+2-4	54-57	und	_	
+2-5	58-64	Herren	_	
+2-6	64-65	,	_	
+2-7	66-75	besonders	_	
+2-8	76-79	der	*[11]	
+2-9	80-86	Radweg	*[11]	
+2-10	87-102	Subbelratherstr	*[11]	
+2-11	102-103	.	*[11]	
+2-12	104-117	stadtauswärts	*[11]	
+2-13	118-120	in	*[11]	
+2-14	121-125	Höhe	*[11]	
+2-15	126-129	der	*[11]	
+2-16	130-139	Myliusstr	*[11]	
+2-17	139-140	.	_	
+2-18	141-148	bedarft	_	
+2-19	149-154	einer	_	
+2-20	155-165	Erneuerung	_	
+2-21	165-166	.	_	
+
+#Text=Es sind die Platten lose, es besteht Sturzgefahr.
+3-1	167-169	Es	_	
+3-2	170-174	sind	_	
+3-3	175-178	die	_	
+3-4	179-186	Platten	_	
+3-5	187-191	lose	_	
+3-6	191-192	,	_	
+3-7	193-195	es	_	
+3-8	196-203	besteht	_	
+3-9	204-215	Sturzgefahr	_	
+3-10	215-216	.	_	
+
+#Text=Stadteinwärts Subbelratherstr. zw. Liebigstr. und Innerer Kanalstr. sollte der Radweg farblich erneuert werden.
+4-1	217-230	Stadteinwärts	*[12]	
+4-2	231-246	Subbelratherstr	*[12]	
+4-3	246-247	.	*[12]	
+4-4	248-250	zw	*[12]	
+4-5	250-251	.	*[12]	
+4-6	252-261	Liebigstr	*[12]	
+4-7	261-262	.	*[12]	
+4-8	263-266	und	*[12]	
+4-9	267-274	Innerer	*[12]	
+4-10	275-283	Kanalstr	*[12]	
+4-11	283-284	.	_	
+4-12	285-291	sollte	_	
+4-13	292-295	der	_	
+4-14	296-302	Radweg	_	
+4-15	303-311	farblich	_	
+4-16	312-320	erneuert	_	
+4-17	321-327	werden	_	
+4-18	327-328	.	_	
+
+#Text=Desweiteren wünsche ich mir mehr Kontrollen.
+5-1	329-340	Desweiteren	_	
+5-2	341-348	wünsche	_	
+5-3	349-352	ich	_	
+5-4	353-356	mir	_	
+5-5	357-361	mehr	_	
+5-6	362-372	Kontrollen	_	
+5-7	372-373	.	_	
+
+#Text=Ich fahre manchmal morgens gegen 8h stadteinwärts bzw. gehe zu Fuss.
+6-1	374-377	Ich	_	
+6-2	378-383	fahre	_	
+6-3	384-392	manchmal	_	
+6-4	393-400	morgens	_	
+6-5	401-406	gegen	_	
+6-6	407-409	8h	_	
+6-7	410-423	stadteinwärts	_	
+6-8	424-427	bzw	_	
+6-9	427-428	.	_	
+6-10	429-433	gehe	_	
+6-11	434-436	zu	_	
+6-12	437-441	Fuss	_	
+6-13	441-442	.	_	
+
+#Text=Viele Radfahrer schneiden beim Überholen, nutzen nicht den Radweg.
+7-1	443-448	Viele	_	
+7-2	449-458	Radfahrer	_	
+7-3	459-468	schneiden	_	
+7-4	469-473	beim	_	
+7-5	474-483	Überholen	_	
+7-6	483-484	,	_	
+7-7	485-491	nutzen	_	
+7-8	492-497	nicht	_	
+7-9	498-501	den	_	
+7-10	502-508	Radweg	_	
+7-11	508-509	.	_	
+
+#Text=Unfälle sind vorprogrammiert.
+8-1	510-517	Unfälle	_	
+8-2	518-522	sind	_	
+8-3	523-538	vorprogrammiert	_	
+8-4	538-539	.	_	
+
+#Text=Da der Radverkehr zugenommen hat sollte daraufhin eingewirkt werden.
+9-1	540-542	Da	_	
+9-2	543-546	der	_	
+9-3	547-557	Radverkehr	_	
+9-4	558-568	zugenommen	_	
+9-5	569-572	hat	_	
+9-6	573-579	sollte	_	
+9-7	580-589	daraufhin	_	
+9-8	590-600	eingewirkt	_	
+9-9	601-607	werden	_	
+9-10	607-608	.	_	
+
+#Text=[Name entfernt]
+10-1	609-610	[	_	
+10-2	610-614	Name	_	
+10-3	615-623	entfernt	_	
+10-4	623-624	]	_	

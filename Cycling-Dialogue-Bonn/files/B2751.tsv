@@ -1,0 +1,26 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Qualität des Radwegs ist sehr schlecht.
+1-1	0-8	Qualität	_	
+1-2	9-12	des	_	
+1-3	13-20	Radwegs	_	
+1-4	21-24	ist	_	
+1-5	25-29	sehr	_	
+1-6	30-38	schlecht	_	
+1-7	38-39	.	_	
+
+#Text=Durch Baumwurzeln unter dem Radweg ergeben sich gefährliche Stolperfallen.
+2-1	42-47	Durch	_	
+2-2	48-59	Baumwurzeln	_	
+2-3	60-65	unter	_	
+2-4	66-69	dem	_	
+2-5	70-76	Radweg	_	
+2-6	77-84	ergeben	_	
+2-7	85-89	sich	_	
+2-8	90-101	gefährliche	_	
+2-9	102-115	Stolperfallen	_	
+2-10	115-116	.	_	

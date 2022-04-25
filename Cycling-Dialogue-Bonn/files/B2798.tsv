@@ -1,0 +1,147 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verbesserung
+1-1	0-12	Verbesserung	_	
+
+#Text=Da im Bereich Fronhof Galeria-Theaterplatz-Alte Bahnhofstr. das Verbot für Radfahrer ignoriert wird von jung und alt, schlage ich vor, wie in München schon seit Jahren erfolgreich praktiziert, einen Radfahrerstreifen mittig zu makieren.
+2-1	15-17	Da	_	
+2-2	18-20	im	_	
+2-3	21-28	Bereich	_	
+2-4	29-36	Fronhof	*[7]	
+2-5	37-62	Galeria-Theaterplatz-Alte	*[7]	
+2-6	63-73	Bahnhofstr	*[7]	
+2-7	73-74	.	*[7]	
+2-8	75-78	das	_	
+2-9	79-85	Verbot	_	
+2-10	86-89	für	_	
+2-11	90-99	Radfahrer	_	
+2-12	100-109	ignoriert	_	
+2-13	110-114	wird	_	
+2-14	115-118	von	_	
+2-15	119-123	jung	_	
+2-16	124-127	und	_	
+2-17	128-131	alt	_	
+2-18	131-132	,	_	
+2-19	133-140	schlage	_	
+2-20	141-144	ich	_	
+2-21	145-148	vor	_	
+2-22	148-149	,	_	
+2-23	150-153	wie	_	
+2-24	154-156	in	_	
+2-25	157-164	München	_	
+2-26	165-170	schon	_	
+2-27	171-175	seit	_	
+2-28	176-182	Jahren	_	
+2-29	183-194	erfolgreich	_	
+2-30	195-206	praktiziert	_	
+2-31	206-207	,	_	
+2-32	208-213	einen	_	
+2-33	214-231	Radfahrerstreifen	_	
+2-34	232-238	mittig	_	
+2-35	239-241	zu	_	
+2-36	242-250	makieren	_	
+2-37	250-251	.	_	
+
+#Text=Ich glaube damit ist auch den Fußgängern zu genüge getan.
+3-1	252-255	Ich	_	
+3-2	256-262	glaube	_	
+3-3	263-268	damit	_	
+3-4	269-272	ist	_	
+3-5	273-277	auch	_	
+3-6	278-281	den	_	
+3-7	282-292	Fußgängern	_	
+3-8	293-295	zu	_	
+3-9	296-302	genüge	_	
+3-10	303-308	getan	_	
+3-11	308-309	.	_	
+
+#Text=Wenn sich die Radfahrer an diesen Streifen halten und nicht im gesamten Umfeld rumfahren, sind die Fußgänger auch nicht behindert und brauchen sich auch nicht aufzuregen.
+4-1	310-314	Wenn	_	
+4-2	315-319	sich	_	
+4-3	320-323	die	_	
+4-4	324-333	Radfahrer	_	
+4-5	334-336	an	_	
+4-6	337-343	diesen	_	
+4-7	344-352	Streifen	_	
+4-8	353-359	halten	_	
+4-9	360-363	und	_	
+4-10	364-369	nicht	_	
+4-11	370-372	im	_	
+4-12	373-381	gesamten	_	
+4-13	382-388	Umfeld	_	
+4-14	389-398	rumfahren	_	
+4-15	398-399	,	_	
+4-16	400-404	sind	_	
+4-17	405-408	die	_	
+4-18	409-418	Fußgänger	_	
+4-19	419-423	auch	_	
+4-20	424-429	nicht	_	
+4-21	430-439	behindert	_	
+4-22	440-443	und	_	
+4-23	444-452	brauchen	_	
+4-24	453-457	sich	_	
+4-25	458-462	auch	_	
+4-26	463-468	nicht	_	
+4-27	469-479	aufzuregen	_	
+4-28	479-480	.	_	
+
+#Text=Dieser Streifen muss aber auf jeden Fall breiter als die mickrigen Radwege an der Straße sein.
+5-1	481-487	Dieser	_	
+5-2	488-496	Streifen	_	
+5-3	497-501	muss	_	
+5-4	502-506	aber	_	
+5-5	507-510	auf	_	
+5-6	511-516	jeden	_	
+5-7	517-521	Fall	_	
+5-8	522-529	breiter	_	
+5-9	530-533	als	_	
+5-10	534-537	die	_	
+5-11	538-547	mickrigen	_	
+5-12	548-555	Radwege	_	
+5-13	556-558	an	_	
+5-14	559-562	der	_	
+5-15	563-569	Straße	_	
+5-16	570-574	sein	_	
+5-17	574-575	.	_	
+
+#Text=Und was GANZ WICHTIG IST auf dem Boden ersichtlich und durch Schilder gekennzeichnet sein.
+6-1	576-579	Und	_	
+6-2	580-583	was	_	
+6-3	584-588	GANZ	_	
+6-4	589-596	WICHTIG	_	
+6-5	597-600	IST	_	
+6-6	601-604	auf	_	
+6-7	605-608	dem	_	
+6-8	609-614	Boden	_	
+6-9	615-626	ersichtlich	_	
+6-10	627-630	und	_	
+6-11	631-636	durch	_	
+6-12	637-645	Schilder	_	
+6-13	646-660	gekennzeichnet	_	
+6-14	661-665	sein	_	
+6-15	665-666	.	_	
+
+#Text=Ich meine die Radfahrer die durch die Fußgängerzone radeln, wollen keine Schaufenster anschauen, die wollen weiterradeln.
+7-1	667-670	Ich	_	
+7-2	671-676	meine	_	
+7-3	677-680	die	_	
+7-4	681-690	Radfahrer	_	
+7-5	691-694	die	_	
+7-6	695-700	durch	_	
+7-7	701-704	die	_	
+7-8	705-718	Fußgängerzone	_	
+7-9	719-725	radeln	_	
+7-10	725-726	,	_	
+7-11	727-733	wollen	_	
+7-12	734-739	keine	_	
+7-13	740-752	Schaufenster	_	
+7-14	753-762	anschauen	_	
+7-15	762-763	,	_	
+7-16	764-767	die	_	
+7-17	768-774	wollen	_	
+7-18	775-787	weiterradeln	_	
+7-19	787-788	.	_	

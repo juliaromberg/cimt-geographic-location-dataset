@@ -1,0 +1,117 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bordsteine Donatusstraße
+1-1	0-10	Bordsteine	_	
+1-2	11-24	Donatusstraße	*	
+
+#Text=In der Donatusstraße befinden sich zwei Kindergärten und eine Grundschule.
+2-1	27-29	In	*[8]	
+2-2	30-33	der	*[8]	
+2-3	34-47	Donatusstraße	*[8]	
+2-4	48-56	befinden	_	
+2-5	57-61	sich	_	
+2-6	62-66	zwei	_	
+2-7	67-79	Kindergärten	_	
+2-8	80-83	und	_	
+2-9	84-88	eine	_	
+2-10	89-100	Grundschule	_	
+2-11	100-101	.	_	
+
+#Text=Daher sind in der Straße viele Kinder mit Fahrrädern und Rollern unterwegs.
+3-1	102-107	Daher	_	
+3-2	108-112	sind	_	
+3-3	113-115	in	_	
+3-4	116-119	der	_	
+3-5	120-126	Straße	_	
+3-6	127-132	viele	_	
+3-7	133-139	Kinder	_	
+3-8	140-143	mit	_	
+3-9	144-154	Fahrrädern	_	
+3-10	155-158	und	_	
+3-11	159-166	Rollern	_	
+3-12	167-176	unterwegs	_	
+3-13	176-177	.	_	
+
+#Text=Allerdings sind dort an keiner Straßenkreuzung - außer den Zufahrten zu den Rheinauer Gärten - abgesenkte Bordsteine.
+4-1	178-188	Allerdings	_	
+4-2	189-193	sind	_	
+4-3	194-198	dort	_	
+4-4	199-201	an	_	
+4-5	202-208	keiner	_	
+4-6	209-224	Straßenkreuzung	_	
+4-7	225-226	-	_	
+4-8	227-232	außer	_	
+4-9	233-236	den	_	
+4-10	237-246	Zufahrten	*[9]	
+4-11	247-249	zu	*[9]	
+4-12	250-253	den	*[9]	
+4-13	254-263	Rheinauer	*[9]	
+4-14	264-270	Gärten	*[9]	
+4-15	271-272	-	_	
+4-16	273-283	abgesenkte	_	
+4-17	284-294	Bordsteine	_	
+4-18	294-295	.	_	
+
+#Text=Die Kinder müssen daher ständig auf- und absteigen oder auf die Straße ausweichen.
+5-1	296-299	Die	_	
+5-2	300-306	Kinder	_	
+5-3	307-313	müssen	_	
+5-4	314-319	daher	_	
+5-5	320-327	ständig	_	
+5-6	328-331	auf	_	
+5-7	331-332	-	_	
+5-8	333-336	und	_	
+5-9	337-346	absteigen	_	
+5-10	347-351	oder	_	
+5-11	352-355	auf	_	
+5-12	356-359	die	_	
+5-13	360-366	Straße	_	
+5-14	367-377	ausweichen	_	
+5-15	377-378	.	_	
+
+#Text=Das erhöht die Gefährdungslage für die Kinder.
+6-1	379-382	Das	_	
+6-2	383-389	erhöht	_	
+6-3	390-393	die	_	
+6-4	394-409	Gefährdungslage	_	
+6-5	410-413	für	_	
+6-6	414-417	die	_	
+6-7	418-424	Kinder	_	
+6-8	424-425	.	_	
+
+#Text=Um die Verkehrssituation für die Kinder zu verbessern und sicherer zu gestalten, schlage ich daher vor, bei zukünftigen Straßenbaumaßnahmen auch die Bordsteine an den Einmündungen der Seitenstraßen abzusenken.
+7-1	426-428	Um	_	
+7-2	429-432	die	_	
+7-3	433-450	Verkehrssituation	_	
+7-4	451-454	für	_	
+7-5	455-458	die	_	
+7-6	459-465	Kinder	_	
+7-7	466-468	zu	_	
+7-8	469-479	verbessern	_	
+7-9	480-483	und	_	
+7-10	484-492	sicherer	_	
+7-11	493-495	zu	_	
+7-12	496-505	gestalten	_	
+7-13	505-506	,	_	
+7-14	507-514	schlage	_	
+7-15	515-518	ich	_	
+7-16	519-524	daher	_	
+7-17	525-528	vor	_	
+7-18	528-529	,	_	
+7-19	530-533	bei	_	
+7-20	534-545	zukünftigen	_	
+7-21	546-565	Straßenbaumaßnahmen	_	
+7-22	566-570	auch	_	
+7-23	571-574	die	_	
+7-24	575-585	Bordsteine	_	
+7-25	586-588	an	_	
+7-26	589-592	den	_	
+7-27	593-605	Einmündungen	_	
+7-28	606-609	der	_	
+7-29	610-623	Seitenstraßen	_	
+7-30	624-634	abzusenken	_	
+7-31	634-635	.	_	

@@ -1,0 +1,100 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Aufhebung der Radwegebenutzungspflicht deutlich darstellen
+1-1	0-9	Aufhebung	_	
+1-2	10-13	der	_	
+1-3	14-38	Radwegebenutzungspflicht	_	
+1-4	39-47	deutlich	_	
+1-5	48-58	darstellen	_	
+
+#Text=AKTUELLE SITUATION/MISSSTAND Hinter dem Ehrenfeldgürtel stadtauswärts ist die Radwegebenutzungspflicht zwar aufgehoben, aber fast niemand auf zwei Rädern traut sich hier auf die Fahrbahn und die Autofahrenden erkennen die Aufhebung mehrheitlich wahrscheinlich nicht, denn aus dem Auto heraus ist nicht so schnell zu ersehen, dass dort kein Radwegzeichen 237 StVO steht.
+2-1	61-69	AKTUELLE	_	
+2-2	70-79	SITUATION	_	
+2-3	79-80	/	_	
+2-4	80-89	MISSSTAND	_	
+2-5	90-96	Hinter	*[5]	
+2-6	97-100	dem	*[5]	
+2-7	101-116	Ehrenfeldgürtel	*[5]	
+2-8	117-130	stadtauswärts	*[5]	
+2-9	131-134	ist	_	
+2-10	135-138	die	_	
+2-11	139-163	Radwegebenutzungspflicht	_	
+2-12	164-168	zwar	_	
+2-13	169-179	aufgehoben	_	
+2-14	179-180	,	_	
+2-15	181-185	aber	_	
+2-16	186-190	fast	_	
+2-17	191-198	niemand	_	
+2-18	199-202	auf	_	
+2-19	203-207	zwei	_	
+2-20	208-214	Rädern	_	
+2-21	215-220	traut	_	
+2-22	221-225	sich	_	
+2-23	226-230	hier	_	
+2-24	231-234	auf	_	
+2-25	235-238	die	_	
+2-26	239-247	Fahrbahn	_	
+2-27	248-251	und	_	
+2-28	252-255	die	_	
+2-29	256-269	Autofahrenden	_	
+2-30	270-278	erkennen	_	
+2-31	279-282	die	_	
+2-32	283-292	Aufhebung	_	
+2-33	293-305	mehrheitlich	_	
+2-34	306-320	wahrscheinlich	_	
+2-35	321-326	nicht	_	
+2-36	326-327	,	_	
+2-37	328-332	denn	_	
+2-38	333-336	aus	_	
+2-39	337-340	dem	_	
+2-40	341-345	Auto	_	
+2-41	346-352	heraus	_	
+2-42	353-356	ist	_	
+2-43	357-362	nicht	_	
+2-44	363-365	so	_	
+2-45	366-373	schnell	_	
+2-46	374-376	zu	_	
+2-47	377-384	ersehen	_	
+2-48	384-385	,	_	
+2-49	386-390	dass	_	
+2-50	391-395	dort	_	
+2-51	396-400	kein	_	
+2-52	401-414	Radwegzeichen	_	
+2-53	415-418	237	_	
+2-54	419-423	StVO	_	
+2-55	424-429	steht	_	
+2-56	429-430	.	_	
+
+#Text=Die verkehrliche Situation auf diesem Straßenabschnitt ist für Radfahrende auf dem Bordsteinradweg sehr unübersichtlich, unruhig und gefahrenträchtig.
+3-1	431-434	Die	_	
+3-2	435-447	verkehrliche	_	
+3-3	448-457	Situation	_	
+3-4	458-461	auf	_	
+3-5	462-468	diesem	_	
+3-6	469-485	Straßenabschnitt	_	
+3-7	486-489	ist	_	
+3-8	490-493	für	_	
+3-9	494-505	Radfahrende	_	
+3-10	506-509	auf	_	
+3-11	510-513	dem	_	
+3-12	514-529	Bordsteinradweg	_	
+3-13	530-534	sehr	_	
+3-14	535-550	unübersichtlich	_	
+3-15	550-551	,	_	
+3-16	552-559	unruhig	_	
+3-17	560-563	und	_	
+3-18	564-580	gefahrenträchtig	_	
+3-19	580-581	.	_	
+
+#Text=VORSCHLAG beidseitige Abmarkierung und Einfärbung von Radfahrstreifen
+4-1	582-591	VORSCHLAG	_	
+4-2	592-603	beidseitige	_	
+4-3	604-616	Abmarkierung	_	
+4-4	617-620	und	_	
+4-5	621-631	Einfärbung	_	
+4-6	632-635	von	_	
+4-7	636-651	Radfahrstreifen	_	

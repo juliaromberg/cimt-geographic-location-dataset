@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampel durch Kreisverkehr ersetzen
+1-1	0-5	Ampel	_	
+1-2	6-11	durch	_	
+1-3	12-24	Kreisverkehr	_	
+1-4	25-33	ersetzen	_	
+
+#Text=An der Kreuzung Ringstraße / Limpericher Straße ist so wenig Verkehr, dass man dort oft einsam an der Ampel steht.
+2-1	36-38	An	*[6]	
+2-2	39-42	der	*[6]	
+2-3	43-51	Kreuzung	*[6]	
+2-4	52-62	Ringstraße	*[6]	
+2-5	63-64	/	*[6]	
+2-6	65-76	Limpericher	*[6]	
+2-7	77-83	Straße	*[6]	
+2-8	84-87	ist	_	
+2-9	88-90	so	_	
+2-10	91-96	wenig	_	
+2-11	97-104	Verkehr	_	
+2-12	104-105	,	_	
+2-13	106-110	dass	_	
+2-14	111-114	man	_	
+2-15	115-119	dort	_	
+2-16	120-123	oft	_	
+2-17	124-130	einsam	_	
+2-18	131-133	an	_	
+2-19	134-137	der	_	
+2-20	138-143	Ampel	_	
+2-21	144-149	steht	_	
+2-22	149-150	.	_	
+
+#Text=Die Platzverhältnisse lassen auch einen Kreisverkehr zu.
+3-1	151-154	Die	_	
+3-2	155-172	Platzverhältnisse	_	
+3-3	173-179	lassen	_	
+3-4	180-184	auch	_	
+3-5	185-190	einen	_	
+3-6	191-203	Kreisverkehr	_	
+3-7	204-206	zu	_	
+3-8	206-207	.	_	
+
+#Text=Für die Fußgänger (Schulweg zur Paul Gerhard Schule, Zugang zu den nahen Kindergärten) sollten Zebrastreifen an den Übergängen geschaffen werden.
+4-1	208-211	Für	_	
+4-2	212-215	die	_	
+4-3	216-225	Fußgänger	_	
+4-4	226-227	(	_	
+4-5	227-235	Schulweg	*[7]	
+4-6	236-239	zur	*[7]	
+4-7	240-244	Paul	*[7]	
+4-8	245-252	Gerhard	*[7]	
+4-9	253-259	Schule	*[7]	
+4-10	259-260	,	_	
+4-11	261-267	Zugang	_	
+4-12	268-270	zu	_	
+4-13	271-274	den	_	
+4-14	275-280	nahen	_	
+4-15	281-293	Kindergärten	_	
+4-16	293-294	)	_	
+4-17	295-302	sollten	_	
+4-18	303-316	Zebrastreifen	_	
+4-19	317-319	an	_	
+4-20	320-323	den	_	
+4-21	324-334	Übergängen	_	
+4-22	335-345	geschaffen	_	
+4-23	346-352	werden	_	
+4-24	352-353	.	_	
+
+#Text=Ein Kreisverkehr reduziert zudem die Geschwindigkeit der Autos und verbessert damit die Sicherheit der anderen Verkehrsteilnehmer.
+5-1	354-357	Ein	_	
+5-2	358-370	Kreisverkehr	_	
+5-3	371-380	reduziert	_	
+5-4	381-386	zudem	_	
+5-5	387-390	die	_	
+5-6	391-406	Geschwindigkeit	_	
+5-7	407-410	der	_	
+5-8	411-416	Autos	_	
+5-9	417-420	und	_	
+5-10	421-431	verbessert	_	
+5-11	432-437	damit	_	
+5-12	438-441	die	_	
+5-13	442-452	Sicherheit	_	
+5-14	453-456	der	_	
+5-15	457-464	anderen	_	
+5-16	465-483	Verkehrsteilnehmer	_	
+5-17	483-484	.	_	

@@ -1,0 +1,80 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße Siegfried-Leopold-Straße
+1-1	0-13	Fahrradstraße	_	
+1-2	14-38	Siegfried-Leopold-Straße	*[1]	
+
+#Text=Siegfried-Leopold-Straße ist zu eng für eine Fahrradstraße.
+2-1	41-65	Siegfried-Leopold-Straße	*[2]	
+2-2	66-69	ist	_	
+2-3	70-72	zu	_	
+2-4	73-76	eng	_	
+2-5	77-80	für	_	
+2-6	81-85	eine	_	
+2-7	86-99	Fahrradstraße	_	
+2-8	99-100	.	_	
+
+#Text=Bei Begegnungsverkehr mit Pkw kann nur langsam aneinander vorbeigefahren werden, da für Radfahrer weniger als 1 m Breite verbleibt.
+3-1	101-104	Bei	_	
+3-2	105-122	Begegnungsverkehr	_	
+3-3	123-126	mit	_	
+3-4	127-130	Pkw	_	
+3-5	131-135	kann	_	
+3-6	136-139	nur	_	
+3-7	140-147	langsam	_	
+3-8	148-158	aneinander	_	
+3-9	159-173	vorbeigefahren	_	
+3-10	174-180	werden	_	
+3-11	180-181	,	_	
+3-12	182-184	da	_	
+3-13	185-188	für	_	
+3-14	189-198	Radfahrer	_	
+3-15	199-206	weniger	_	
+3-16	207-210	als	_	
+3-17	211-212	1	_	
+3-18	213-214	m	_	
+3-19	215-221	Breite	_	
+3-20	222-231	verbleibt	_	
+3-21	231-232	.	_	
+
+#Text=Besonders zw. Fr.-Friesen-Str. und Neustraße.
+4-1	233-242	Besonders	_	
+4-2	243-245	zw	*[6]	
+4-3	245-246	.	*[6]	
+4-4	247-249	Fr	*[6]	
+4-5	249-250	.	*[6]	
+4-6	250-251	-	*[6]	
+4-7	251-262	Friesen-Str	*[6]	
+4-8	262-263	.	*[6]	
+4-9	264-267	und	*[6]	
+4-10	268-277	Neustraße	*[6]	
+4-11	277-278	.	*[6]	
+
+#Text=Ecke Siegfried-Leopold-Straße / Fr.-Friesenstraße / Rathausstraße ist sehr unübersichtlich, es besteht keine Einsicht in den Straßenraum Richtung Rathaus.
+5-1	279-283	Ecke	*[7]	
+5-2	284-308	Siegfried-Leopold-Straße	*[7]	
+5-3	309-310	/	*[7]	
+5-4	311-313	Fr	*[7]	
+5-5	313-314	.	*[7]	
+5-6	314-315	-	*[7]	
+5-7	315-328	Friesenstraße	*[7]	
+5-8	329-330	/	*[7]	
+5-9	331-344	Rathausstraße	*[7]	
+5-10	345-348	ist	_	
+5-11	349-353	sehr	_	
+5-12	354-369	unübersichtlich	_	
+5-13	369-370	,	_	
+5-14	371-373	es	_	
+5-15	374-381	besteht	_	
+5-16	382-387	keine	_	
+5-17	388-396	Einsicht	_	
+5-18	397-399	in	_	
+5-19	400-403	den	_	
+5-20	404-415	Straßenraum	_	
+5-21	416-424	Richtung	*[8]	
+5-22	425-432	Rathaus	*[8]	
+5-23	432-433	.	_	

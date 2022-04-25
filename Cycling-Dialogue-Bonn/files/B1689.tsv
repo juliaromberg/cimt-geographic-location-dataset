@@ -1,0 +1,104 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Viel zu hohe Geschwindigkeit der Autos usw.
+1-1	0-4	Viel	_	
+1-2	5-7	zu	_	
+1-3	8-12	hohe	_	
+1-4	13-28	Geschwindigkeit	_	
+1-5	29-32	der	_	
+1-6	33-38	Autos	_	
+1-7	39-42	usw	_	
+1-8	42-43	.	_	
+
+#Text=Wichtige Verbindungsstrecke zwischen Vilich und Vilich-Müldorf (weiter nach Hangelar bzw. Bonn Innenstadt).
+2-1	46-54	Wichtige	_	
+2-2	55-73	Verbindungsstrecke	_	
+2-3	74-82	zwischen	*[6]	
+2-4	83-89	Vilich	*[6]	
+2-5	90-93	und	*[6]	
+2-6	94-108	Vilich-Müldorf	*[6]	
+2-7	109-110	(	*[6]	
+2-8	110-116	weiter	*[6]	
+2-9	117-121	nach	*[6]	
+2-10	122-130	Hangelar	*[6]	
+2-11	131-134	bzw	*[6]	
+2-12	134-135	.	*[6]	
+2-13	136-140	Bonn	*[6]	
+2-14	141-151	Innenstadt	*[6]	
+2-15	151-152	)	*[6]	
+2-16	152-153	.	_	
+
+#Text=Hier fahren PKW häufig viel zu schnell und insbesondere bei Gegenverkehr wird der Sicherheitsabstand zu den Radfahrer*innen unterschritten: viele Autofahrer*innen glauben woll, wenn sie entlang der Markierung fahren, dass sie damit dem Abstand einhalten....
+3-1	154-158	Hier	_	
+3-2	159-165	fahren	_	
+3-3	166-169	PKW	_	
+3-4	170-176	häufig	_	
+3-5	177-181	viel	_	
+3-6	182-184	zu	_	
+3-7	185-192	schnell	_	
+3-8	193-196	und	_	
+3-9	197-209	insbesondere	_	
+3-10	210-213	bei	_	
+3-11	214-226	Gegenverkehr	_	
+3-12	227-231	wird	_	
+3-13	232-235	der	_	
+3-14	236-254	Sicherheitsabstand	_	
+3-15	255-257	zu	_	
+3-16	258-261	den	_	
+3-17	262-271	Radfahrer	_	
+3-18	271-272	*	_	
+3-19	272-277	innen	_	
+3-20	278-292	unterschritten	_	
+3-21	292-293	:	_	
+3-22	294-299	viele	_	
+3-23	300-310	Autofahrer	_	
+3-24	310-311	*	_	
+3-25	311-316	innen	_	
+3-26	317-324	glauben	_	
+3-27	325-329	woll	_	
+3-28	329-330	,	_	
+3-29	331-335	wenn	_	
+3-30	336-339	sie	_	
+3-31	340-347	entlang	_	
+3-32	348-351	der	_	
+3-33	352-362	Markierung	_	
+3-34	363-369	fahren	_	
+3-35	369-370	,	_	
+3-36	371-375	dass	_	
+3-37	376-379	sie	_	
+3-38	380-385	damit	_	
+3-39	386-389	dem	_	
+3-40	390-397	Abstand	_	
+3-41	398-407	einhalten	_	
+3-42	407-408	.	_	
+3-43	408-409	.	_	
+3-44	409-410	.	_	
+3-45	410-411	.	_	
+
+#Text=Ich empfinde das oft als sehr unsicher!
+4-1	412-415	Ich	_	
+4-2	416-424	empfinde	_	
+4-3	425-428	das	_	
+4-4	429-432	oft	_	
+4-5	433-436	als	_	
+4-6	437-441	sehr	_	
+4-7	442-450	unsicher	_	
+4-8	450-451	!	_	
+
+#Text=Vorschläge: - Regelmäßige Geschwindigkeitskontrollen (50) - Schutzstreifen breiter markieren
+5-1	452-462	Vorschläge	_	
+5-2	462-463	:	_	
+5-3	464-465	-	_	
+5-4	466-477	Regelmäßige	_	
+5-5	478-504	Geschwindigkeitskontrollen	_	
+5-6	505-506	(	_	
+5-7	506-508	50	_	
+5-8	508-509	)	_	
+5-9	510-511	-	_	
+5-10	512-526	Schutzstreifen	_	
+5-11	527-534	breiter	_	
+5-12	535-544	markieren	_	

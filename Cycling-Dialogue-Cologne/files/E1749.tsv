@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verbesserungsvorschläge
+1-1	0-23	Verbesserungsvorschläge	_	
+
+#Text=- besserer Kennzeichnung der Radewege in der Vitalisstraße (bei der AWB)
+2-1	26-27	-	_	
+2-2	28-36	besserer	_	
+2-3	37-50	Kennzeichnung	_	
+2-4	51-54	der	_	
+2-5	55-63	Radewege	_	
+2-6	64-66	in	*[5]	
+2-7	67-70	der	*[5]	
+2-8	71-84	Vitalisstraße	*[5]	
+2-9	85-86	(	*[5]	
+2-10	86-89	bei	*[5]	
+2-11	90-93	der	*[5]	
+2-12	94-97	AWB	*[5]	
+2-13	97-98	)	*[5]	
+
+#Text=- mehr Fahrradständer
+3-1	99-100	-	_	
+3-2	101-105	mehr	_	
+3-3	106-120	Fahrradständer	_	
+
+#Text=- bessere Beleuchtung im Grüngürtel
+4-1	121-122	-	_	
+4-2	123-130	bessere	_	
+4-3	131-142	Beleuchtung	_	
+4-4	143-145	im	_	
+4-5	146-156	Grüngürtel	_	
+
+#Text=- längere Ampelphase für Fußgänger und Radfahrer auf Höhe Venloer Straße / Rochusstraße (an der Sparkasse)
+5-1	157-158	-	_	
+5-2	159-166	längere	_	
+5-3	167-177	Ampelphase	_	
+5-4	178-181	für	_	
+5-5	182-191	Fußgänger	_	
+5-6	192-195	und	_	
+5-7	196-205	Radfahrer	_	
+5-8	206-209	auf	*[6]	
+5-9	210-214	Höhe	*[6]	
+5-10	215-222	Venloer	*[6]	
+5-11	223-229	Straße	*[6]	
+5-12	230-231	/	*[6]	
+5-13	232-244	Rochusstraße	*[6]	
+5-14	245-246	(	*[6]	
+5-15	246-248	an	*[6]	
+5-16	249-252	der	*[6]	
+5-17	253-262	Sparkasse	*[6]	
+5-18	262-263	)	_	

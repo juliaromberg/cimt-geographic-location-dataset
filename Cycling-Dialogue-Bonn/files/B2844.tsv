@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zu viele parkende Autos
+1-1	0-2	Zu	_	
+1-2	3-8	viele	_	
+1-3	9-17	parkende	_	
+1-4	18-23	Autos	_	
+
+#Text=Wegen parkender Autos ist die verfügbare Straße meist so eng, dass man auf entgegenkommende Autos warten muss oder einander mit viel zu wenig Sicherheitsabstand begegnet.
+2-1	26-31	Wegen	_	
+2-2	32-41	parkender	_	
+2-3	42-47	Autos	_	
+2-4	48-51	ist	_	
+2-5	52-55	die	_	
+2-6	56-66	verfügbare	_	
+2-7	67-73	Straße	_	
+2-8	74-79	meist	_	
+2-9	80-82	so	_	
+2-10	83-86	eng	_	
+2-11	86-87	,	_	
+2-12	88-92	dass	_	
+2-13	93-96	man	_	
+2-14	97-100	auf	_	
+2-15	101-117	entgegenkommende	_	
+2-16	118-123	Autos	_	
+2-17	124-130	warten	_	
+2-18	131-135	muss	_	
+2-19	136-140	oder	_	
+2-20	141-149	einander	_	
+2-21	150-153	mit	_	
+2-22	154-158	viel	_	
+2-23	159-161	zu	_	
+2-24	162-167	wenig	_	
+2-25	168-186	Sicherheitsabstand	_	
+2-26	187-195	begegnet	_	
+2-27	195-196	.	_	
+
+#Text=Insbesondere ist das ein Problem für südwärts fahrende Radfahrer.
+3-1	197-209	Insbesondere	_	
+3-2	210-213	ist	_	
+3-3	214-217	das	_	
+3-4	218-221	ein	_	
+3-5	222-229	Problem	_	
+3-6	230-233	für	_	
+3-7	234-242	südwärts	_	
+3-8	243-251	fahrende	_	
+3-9	252-261	Radfahrer	_	
+3-10	261-262	.	_	

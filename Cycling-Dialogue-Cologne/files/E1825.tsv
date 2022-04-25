@@ -1,0 +1,21 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radfahrstreifen auf der Fahrbahn statt Radweg
+1-1	0-15	Radfahrstreifen	_	
+1-2	16-19	auf	_	
+1-3	20-23	der	_	
+1-4	24-32	Fahrbahn	_	
+1-5	33-38	statt	_	
+1-6	39-45	Radweg	_	
+
+#Text=BV 4 Beschluß 30.9.2013 TOP 8.2
+2-1	48-50	BV	_	
+2-2	51-52	4	_	
+2-3	53-61	Beschluß	_	
+2-4	62-71	30.9.2013	_	
+2-5	72-75	TOP	_	
+2-6	76-79	8.2	_	

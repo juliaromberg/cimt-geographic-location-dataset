@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstraße gegen Fahrtrichtung für Radfahrer öffnen
+1-1	0-13	Einbahnstraße	_	
+1-2	14-19	gegen	_	
+1-3	20-33	Fahrtrichtung	_	
+1-4	34-37	für	_	
+1-5	38-47	Radfahrer	_	
+1-6	48-54	öffnen	_	
+
+#Text=Es wäre wünschenswert, wenn die Finkenbergstraße zwischen Königswinterer Str. und Weinbergweg für Radfahrer gegen die Einbahnrichtung frei gegeben wäre, so wie das auch im Verlauf südlich der Könisgwinterer Str. bereits der Fall ist (wobei dort die Einbahnrichtung entgegengesetzt verläuft).
+2-1	57-59	Es	_	
+2-2	60-64	wäre	_	
+2-3	65-78	wünschenswert	_	
+2-4	78-79	,	_	
+2-5	80-84	wenn	_	
+2-6	85-88	die	*[4]	
+2-7	89-105	Finkenbergstraße	*[4]	
+2-8	106-114	zwischen	*[4]	
+2-9	115-129	Königswinterer	*[4]	
+2-10	130-133	Str	*[4]	
+2-11	133-134	.	*[4]	
+2-12	135-138	und	*[4]	
+2-13	139-150	Weinbergweg	*[4]	
+2-14	151-154	für	_	
+2-15	155-164	Radfahrer	_	
+2-16	165-170	gegen	_	
+2-17	171-174	die	_	
+2-18	175-190	Einbahnrichtung	_	
+2-19	191-195	frei	_	
+2-20	196-203	gegeben	_	
+2-21	204-208	wäre	_	
+2-22	208-209	,	_	
+2-23	210-212	so	_	
+2-24	213-216	wie	_	
+2-25	217-220	das	_	
+2-26	221-225	auch	_	
+2-27	226-228	im	*[5]	
+2-28	229-236	Verlauf	*[5]	
+2-29	237-244	südlich	*[5]	
+2-30	245-248	der	*[5]	
+2-31	249-263	Könisgwinterer	*[5]	
+2-32	264-267	Str	*[5]	
+2-33	267-268	.	*[5]	
+2-34	269-276	bereits	_	
+2-35	277-280	der	_	
+2-36	281-285	Fall	_	
+2-37	286-289	ist	_	
+2-38	290-291	(	_	
+2-39	291-296	wobei	_	
+2-40	297-301	dort	_	
+2-41	302-305	die	_	
+2-42	306-321	Einbahnrichtung	_	
+2-43	322-337	entgegengesetzt	_	
+2-44	338-346	verläuft	_	
+2-45	346-347	)	_	
+2-46	347-348	.	_	
+
+#Text=Straßenbreite und Verkehrsaufkommen erscheinen absolut vergleichbar auf beiden Abschnitten der Finkenbergstraße.
+3-1	349-362	Straßenbreite	_	
+3-2	363-366	und	_	
+3-3	367-384	Verkehrsaufkommen	_	
+3-4	385-395	erscheinen	_	
+3-5	396-403	absolut	_	
+3-6	404-416	vergleichbar	_	
+3-7	417-420	auf	_	
+3-8	421-427	beiden	_	
+3-9	428-439	Abschnitten	_	
+3-10	440-443	der	_	
+3-11	444-460	Finkenbergstraße	*	
+3-12	460-461	.	_	

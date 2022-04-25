@@ -1,0 +1,62 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Falschparker auf Radweg
+1-1	0-12	Falschparker	_	
+1-2	13-16	auf	_	
+1-3	17-23	Radweg	_	
+
+#Text=Der Radweg wird an der Stelle, wo er von der Fahrbahn auf den Gehweg wechselt, von Falschparkern blockiert.
+2-1	26-29	Der	_	
+2-2	30-36	Radweg	_	
+2-3	37-41	wird	_	
+2-4	42-44	an	_	
+2-5	45-48	der	_	
+2-6	49-55	Stelle	_	
+2-7	55-56	,	_	
+2-8	57-59	wo	_	
+2-9	60-62	er	_	
+2-10	63-66	von	_	
+2-11	67-70	der	_	
+2-12	71-79	Fahrbahn	_	
+2-13	80-83	auf	_	
+2-14	84-87	den	_	
+2-15	88-94	Gehweg	_	
+2-16	95-103	wechselt	_	
+2-17	103-104	,	_	
+2-18	105-108	von	_	
+2-19	109-122	Falschparkern	_	
+2-20	123-132	blockiert	_	
+2-21	132-133	.	_	
+
+#Text=Hier könnte eine deutliche Markierung des Parkverbots am Boden (und ein ergänzendes Hinweisschild für Autofahrer) helfen.
+3-1	134-138	Hier	_	
+3-2	139-145	könnte	_	
+3-3	146-150	eine	_	
+3-4	151-160	deutliche	_	
+3-5	161-171	Markierung	_	
+3-6	172-175	des	_	
+3-7	176-187	Parkverbots	_	
+3-8	188-190	am	_	
+3-9	191-196	Boden	_	
+3-10	197-198	(	_	
+3-11	198-201	und	_	
+3-12	202-205	ein	_	
+3-13	206-217	ergänzendes	_	
+3-14	218-231	Hinweisschild	_	
+3-15	232-235	für	_	
+3-16	236-246	Autofahrer	_	
+3-17	246-247	)	_	
+3-18	248-254	helfen	_	
+3-19	254-255	.	_	
+
+#Text=Und letztendlich konsequentes Abschleppen von Falschparkern
+4-1	256-259	Und	_	
+4-2	260-272	letztendlich	_	
+4-3	273-285	konsequentes	_	
+4-4	286-297	Abschleppen	_	
+4-5	298-301	von	_	
+4-6	302-315	Falschparkern	_	

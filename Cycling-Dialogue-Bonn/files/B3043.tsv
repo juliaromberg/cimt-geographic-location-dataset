@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Die armen Anwohner
+1-1	0-3	Die	_	
+1-2	4-9	armen	_	
+1-3	10-18	Anwohner	_	
+
+#Text=Ich fahre fast täglich mit dem Fahrrad zu meiner Arbeitsstelle in Beuel.
+2-1	21-24	Ich	_	
+2-2	25-30	fahre	_	
+2-3	31-35	fast	_	
+2-4	36-43	täglich	_	
+2-5	44-47	mit	_	
+2-6	48-51	dem	_	
+2-7	52-59	Fahrrad	_	
+2-8	60-62	zu	_	
+2-9	63-69	meiner	_	
+2-10	70-83	Arbeitsstelle	_	
+2-11	84-86	in	*[7]	
+2-12	87-92	Beuel	*[7]	
+2-13	92-93	.	*[7]	
+
+#Text=Der Fahrradweg nach der Kennedybrücke führt Richtung Beuel über Matten, welche die Bäume schützen und die Überfahrt ermöglichen.
+3-1	94-97	Der	*[8]	
+3-2	98-108	Fahrradweg	*[8]	
+3-3	109-113	nach	*[8]	
+3-4	114-117	der	*[8]	
+3-5	118-131	Kennedybrücke	*[8]	
+3-6	132-137	führt	_	
+3-7	138-146	Richtung	*[9]	
+3-8	147-152	Beuel	*[9]	
+3-9	153-157	über	_	
+3-10	158-164	Matten	_	
+3-11	164-165	,	_	
+3-12	166-172	welche	_	
+3-13	173-176	die	_	
+3-14	177-182	Bäume	_	
+3-15	183-191	schützen	_	
+3-16	192-195	und	_	
+3-17	196-199	die	_	
+3-18	200-209	Überfahrt	_	
+3-19	210-221	ermöglichen	_	
+3-20	221-222	.	_	
+
+#Text=Die klappern und das deutlich.
+4-1	223-226	Die	_	
+4-2	227-235	klappern	_	
+4-3	236-239	und	_	
+4-4	240-243	das	_	
+4-5	244-252	deutlich	_	
+4-6	252-253	.	_	
+
+#Text=Das muss die Anwohner doch wahnsinnig machen.
+5-1	254-257	Das	_	
+5-2	258-262	muss	_	
+5-3	263-266	die	_	
+5-4	267-275	Anwohner	_	
+5-5	276-280	doch	_	
+5-6	281-291	wahnsinnig	_	
+5-7	292-298	machen	_	
+5-8	298-299	.	_	
+
+#Text=Gibt es da keine bessere Lösung?
+6-1	300-304	Gibt	_	
+6-2	305-307	es	_	
+6-3	308-310	da	_	
+6-4	311-316	keine	_	
+6-5	317-324	bessere	_	
+6-6	325-331	Lösung	_	
+6-7	331-332	?	_	

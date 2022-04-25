@@ -1,0 +1,93 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Auffahrt Radweg durch Wartende an der Ampel blockiert
+1-1	0-8	Auffahrt	_	
+1-2	9-15	Radweg	_	
+1-3	16-21	durch	_	
+1-4	22-30	Wartende	_	
+1-5	31-33	an	_	
+1-6	34-37	der	_	
+1-7	38-43	Ampel	_	
+1-8	44-53	blockiert	_	
+
+#Text=Aus Richtung Süden kommend verläuft der Radweg nach der Kreuzung der Kölnstraße zwischen Parkstreifen und Gehweg.
+2-1	56-59	Aus	_	
+2-2	60-68	Richtung	_	
+2-3	69-74	Süden	_	
+2-4	75-82	kommend	_	
+2-5	83-91	verläuft	_	
+2-6	92-95	der	*[6]	
+2-7	96-102	Radweg	*[6]	
+2-8	103-107	nach	*[6]	
+2-9	108-111	der	*[6]	
+2-10	112-120	Kreuzung	*[6]	
+2-11	121-124	der	*[6]	
+2-12	125-135	Kölnstraße	*[6]	
+2-13	136-144	zwischen	*[6]	
+2-14	145-157	Parkstreifen	*[6]	
+2-15	158-161	und	*[6]	
+2-16	162-168	Gehweg	*[6]	
+2-17	168-169	.	_	
+
+#Text=Die Auffahrt auf diesen Radweg ist allerdings häufig durch Fußgänger und Radfahrer, welche aus Richtung Kölnstraße an der Ampel warten, blockiert.
+3-1	170-173	Die	_	
+3-2	174-182	Auffahrt	_	
+3-3	183-186	auf	_	
+3-4	187-193	diesen	_	
+3-5	194-200	Radweg	_	
+3-6	201-204	ist	_	
+3-7	205-215	allerdings	_	
+3-8	216-222	häufig	_	
+3-9	223-228	durch	_	
+3-10	229-238	Fußgänger	_	
+3-11	239-242	und	_	
+3-12	243-252	Radfahrer	_	
+3-13	252-253	,	_	
+3-14	254-260	welche	_	
+3-15	261-264	aus	*[7]	
+3-16	265-273	Richtung	*[7]	
+3-17	274-284	Kölnstraße	*[7]	
+3-18	285-287	an	*[7]	
+3-19	288-291	der	*[7]	
+3-20	292-297	Ampel	*[7]	
+3-21	298-304	warten	_	
+3-22	304-305	,	_	
+3-23	306-315	blockiert	_	
+3-24	315-316	.	_	
+
+#Text=Eine mögliche Lösung wäre, den Radweg erst an der Einmündung der Nordstraße auffahren zu lassen.
+4-1	317-321	Eine	_	
+4-2	322-330	mögliche	_	
+4-3	331-337	Lösung	_	
+4-4	338-342	wäre	_	
+4-5	342-343	,	_	
+4-6	344-347	den	_	
+4-7	348-354	Radweg	_	
+4-8	355-359	erst	_	
+4-9	360-362	an	*[8]	
+4-10	363-366	der	*[8]	
+4-11	367-377	Einmündung	*[8]	
+4-12	378-381	der	*[8]	
+4-13	382-392	Nordstraße	*[8]	
+4-14	393-402	auffahren	_	
+4-15	403-405	zu	_	
+4-16	406-412	lassen	_	
+4-17	412-413	.	_	
+
+#Text=Dies würde natürlich die Entfernung der Bordsteins an dieser Stelle erfordern.
+5-1	414-418	Dies	_	
+5-2	419-424	würde	_	
+5-3	425-434	natürlich	_	
+5-4	435-438	die	_	
+5-5	439-449	Entfernung	_	
+5-6	450-453	der	_	
+5-7	454-464	Bordsteins	_	
+5-8	465-467	an	_	
+5-9	468-474	dieser	_	
+5-10	475-481	Stelle	_	
+5-11	482-491	erfordern	_	
+5-12	491-492	.	_	

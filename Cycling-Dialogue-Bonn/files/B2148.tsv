@@ -1,0 +1,98 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße Nussallee
+1-1	0-13	Fahrradstraße	*[5]	
+1-2	14-23	Nussallee	*[5]	
+
+#Text=Die Nussallee ist die zentrale Straße des Bonner Uni Campus in Poppelsdorf, der ja jetzt auch eine Fahrrad-Garage erhalten wird.
+2-1	26-29	Die	*[6]	
+2-2	30-39	Nussallee	*[6]	
+2-3	40-43	ist	*[6]	
+2-4	44-47	die	*[6]	
+2-5	48-56	zentrale	*[6]	
+2-6	57-63	Straße	*[6]	
+2-7	64-67	des	*[6]	
+2-8	68-74	Bonner	*[6]	
+2-9	75-78	Uni	*[6]	
+2-10	79-85	Campus	*[6]	
+2-11	86-88	in	*[6]	
+2-12	89-100	Poppelsdorf	*[6]	
+2-13	100-101	,	_	
+2-14	102-105	der	_	
+2-15	106-108	ja	_	
+2-16	109-114	jetzt	_	
+2-17	115-119	auch	_	
+2-18	120-124	eine	_	
+2-19	125-139	Fahrrad-Garage	_	
+2-20	140-148	erhalten	_	
+2-21	149-153	wird	_	
+2-22	153-154	.	_	
+
+#Text=Es ist mir völlig unverständlich, wie die Nussallee bei den Tausenden von Studenten die sie jeden Tag nutzen und überqueren, keine Fahrradstraße sein kann.
+3-1	155-157	Es	_	
+3-2	158-161	ist	_	
+3-3	162-165	mir	_	
+3-4	166-172	völlig	_	
+3-5	173-187	unverständlich	_	
+3-6	187-188	,	_	
+3-7	189-192	wie	_	
+3-8	193-196	die	*[7]	
+3-9	197-206	Nussallee	*[7]	
+3-10	207-210	bei	_	
+3-11	211-214	den	_	
+3-12	215-224	Tausenden	_	
+3-13	225-228	von	_	
+3-14	229-238	Studenten	_	
+3-15	239-242	die	_	
+3-16	243-246	sie	_	
+3-17	247-252	jeden	_	
+3-18	253-256	Tag	_	
+3-19	257-263	nutzen	_	
+3-20	264-267	und	_	
+3-21	268-278	überqueren	_	
+3-22	278-279	,	_	
+3-23	280-285	keine	_	
+3-24	286-299	Fahrradstraße	_	
+3-25	300-304	sein	_	
+3-26	305-309	kann	_	
+3-27	309-310	.	_	
+
+#Text=Es wäre dringend erforderlich, dass Fahrräder nebeneinander gefahren werden dürfen und vor allem eine Verkehrsberuhigung bez. Autos erzielt wird, die regelmäßig in atemberaubenden Manövern an den Fahrradfahrer und Fußgänger vorbeiziehen.
+4-1	311-313	Es	_	
+4-2	314-318	wäre	_	
+4-3	319-327	dringend	_	
+4-4	328-340	erforderlich	_	
+4-5	340-341	,	_	
+4-6	342-346	dass	_	
+4-7	347-356	Fahrräder	_	
+4-8	357-370	nebeneinander	_	
+4-9	371-379	gefahren	_	
+4-10	380-386	werden	_	
+4-11	387-393	dürfen	_	
+4-12	394-397	und	_	
+4-13	398-401	vor	_	
+4-14	402-407	allem	_	
+4-15	408-412	eine	_	
+4-16	413-431	Verkehrsberuhigung	_	
+4-17	432-435	bez	_	
+4-18	435-436	.	_	
+4-19	437-442	Autos	_	
+4-20	443-450	erzielt	_	
+4-21	451-455	wird	_	
+4-22	455-456	,	_	
+4-23	457-460	die	_	
+4-24	461-471	regelmäßig	_	
+4-25	472-474	in	_	
+4-26	475-490	atemberaubenden	_	
+4-27	491-499	Manövern	_	
+4-28	500-502	an	_	
+4-29	503-506	den	_	
+4-30	507-520	Fahrradfahrer	_	
+4-31	521-524	und	_	
+4-32	525-534	Fußgänger	_	
+4-33	535-547	vorbeiziehen	_	
+4-34	547-548	.	_	

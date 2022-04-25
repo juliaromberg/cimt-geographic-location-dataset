@@ -1,0 +1,53 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Mehr Fahrradnadeln
+1-1	0-4	Mehr	_	
+1-2	5-18	Fahrradnadeln	_	
+
+#Text=Vor der Schule und auf der gegenüberliegenden Seite würden mehr Fahrradnadeln den Schülerinnen und Anwohnern mehr Möglichkeiten die Fahrräder abzustellen.
+2-1	21-24	Vor	_	
+2-2	25-28	der	_	
+2-3	29-35	Schule	_	
+2-4	36-39	und	_	
+2-5	40-43	auf	_	
+2-6	44-47	der	_	
+2-7	48-66	gegenüberliegenden	_	
+2-8	67-72	Seite	_	
+2-9	73-79	würden	_	
+2-10	80-84	mehr	_	
+2-11	85-98	Fahrradnadeln	_	
+2-12	99-102	den	_	
+2-13	103-115	Schülerinnen	_	
+2-14	116-119	und	_	
+2-15	120-129	Anwohnern	_	
+2-16	130-134	mehr	_	
+2-17	135-148	Möglichkeiten	_	
+2-18	149-152	die	_	
+2-19	153-162	Fahrräder	_	
+2-20	163-174	abzustellen	_	
+2-21	174-175	.	_	
+
+#Text=Vielleicht sollte mit der Schule geeigneter Parkplatz für die Räder und Roller der Schüler und Schülerinnen geschaffen werden.
+3-1	176-186	Vielleicht	_	
+3-2	187-193	sollte	_	
+3-3	194-197	mit	_	
+3-4	198-201	der	_	
+3-5	202-208	Schule	_	
+3-6	209-219	geeigneter	_	
+3-7	220-229	Parkplatz	_	
+3-8	230-233	für	_	
+3-9	234-237	die	_	
+3-10	238-243	Räder	_	
+3-11	244-247	und	_	
+3-12	248-254	Roller	_	
+3-13	255-258	der	_	
+3-14	259-266	Schüler	_	
+3-15	267-270	und	_	
+3-16	271-283	Schülerinnen	_	
+3-17	284-294	geschaffen	_	
+3-18	295-301	werden	_	
+3-19	301-302	.	_	

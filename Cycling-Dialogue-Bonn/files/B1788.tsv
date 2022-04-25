@@ -1,0 +1,102 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sichtbehinderung durch Werbefläche
+1-1	0-16	Sichtbehinderung	_	
+1-2	17-22	durch	_	
+1-3	23-34	Werbefläche	_	
+
+#Text=Die Radauffahrt auf den Geh-/Radweg Richtung Poppelsdorf ist an der vorgesehenen Stelle, an der sie bis auf Fahrbahnniveau abgeflacht ist, unbenutzbar.
+2-1	37-40	Die	*[6]	
+2-2	41-52	Radauffahrt	*[6]	
+2-3	53-56	auf	*[6]	
+2-4	57-60	den	*[6]	
+2-5	61-64	Geh	*[6]	
+2-6	64-65	-	*[6]	
+2-7	65-66	/	*[6]	
+2-8	66-72	Radweg	*[6]	
+2-9	73-81	Richtung	*[6]	
+2-10	82-93	Poppelsdorf	*[6]	
+2-11	94-97	ist	_	
+2-12	98-100	an	_	
+2-13	101-104	der	_	
+2-14	105-117	vorgesehenen	_	
+2-15	118-124	Stelle	_	
+2-16	124-125	,	_	
+2-17	126-128	an	_	
+2-18	129-132	der	_	
+2-19	133-136	sie	_	
+2-20	137-140	bis	_	
+2-21	141-144	auf	_	
+2-22	145-159	Fahrbahnniveau	_	
+2-23	160-170	abgeflacht	_	
+2-24	171-174	ist	_	
+2-25	174-175	,	_	
+2-26	176-187	unbenutzbar	_	
+2-27	187-188	.	_	
+
+#Text=Die Werbesäule behindert dann die Sicht auf den Weg komplett und man kann leicht in Fußgänger oder Radfahrer im Gegenverkehr fahren.
+3-1	189-192	Die	_	
+3-2	193-203	Werbesäule	_	
+3-3	204-213	behindert	_	
+3-4	214-218	dann	_	
+3-5	219-222	die	_	
+3-6	223-228	Sicht	_	
+3-7	229-232	auf	_	
+3-8	233-236	den	_	
+3-9	237-240	Weg	_	
+3-10	241-249	komplett	_	
+3-11	250-253	und	_	
+3-12	254-257	man	_	
+3-13	258-262	kann	_	
+3-14	263-269	leicht	_	
+3-15	270-272	in	_	
+3-16	273-282	Fußgänger	_	
+3-17	283-287	oder	_	
+3-18	288-297	Radfahrer	_	
+3-19	298-300	im	_	
+3-20	301-313	Gegenverkehr	_	
+3-21	314-320	fahren	_	
+3-22	320-321	.	_	
+
+#Text=(Ja, Radfahrer dürfen hier eigentlich nicht entgegenkommen; es kommt aber immer wieder vor.
+4-1	322-323	(	_	
+4-2	323-325	Ja	_	
+4-3	325-326	,	_	
+4-4	327-336	Radfahrer	_	
+4-5	337-343	dürfen	_	
+4-6	344-348	hier	_	
+4-7	349-359	eigentlich	_	
+4-8	360-365	nicht	_	
+4-9	366-380	entgegenkommen	_	
+4-10	380-381	;	_	
+4-11	382-384	es	_	
+4-12	385-390	kommt	_	
+4-13	391-395	aber	_	
+4-14	396-401	immer	_	
+4-15	402-408	wieder	_	
+4-16	409-412	vor	_	
+4-17	412-413	.	_	
+
+#Text=Gerade bei so langen Ampelphasen nutzen viele die erstbeste grüne Ampel zur Querung auf die Zielstraßenseite).
+5-1	414-420	Gerade	_	
+5-2	421-424	bei	_	
+5-3	425-427	so	_	
+5-4	428-434	langen	_	
+5-5	435-446	Ampelphasen	_	
+5-6	447-453	nutzen	_	
+5-7	454-459	viele	_	
+5-8	460-463	die	_	
+5-9	464-473	erstbeste	_	
+5-10	474-479	grüne	_	
+5-11	480-485	Ampel	_	
+5-12	486-489	zur	_	
+5-13	490-497	Querung	_	
+5-14	498-501	auf	_	
+5-15	502-505	die	_	
+5-16	506-522	Zielstraßenseite	_	
+5-17	522-523	)	_	
+5-18	523-524	.	_	

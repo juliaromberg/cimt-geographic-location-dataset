@@ -1,0 +1,23 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einrichtung des Grünpfeils
+1-1	0-11	Einrichtung	_	
+1-2	12-15	des	_	
+1-3	16-26	Grünpfeils	_	
+
+#Text=An dieser Kreuzung würde ein Grünpfeil den Radverkehr deutlich beschleunigen.
+2-1	29-31	An	_	
+2-2	32-38	dieser	_	
+2-3	39-47	Kreuzung	_	
+2-4	48-53	würde	_	
+2-5	54-57	ein	_	
+2-6	58-67	Grünpfeil	_	
+2-7	68-71	den	_	
+2-8	72-82	Radverkehr	_	
+2-9	83-91	deutlich	_	
+2-10	92-105	beschleunigen	_	
+2-11	105-106	.	_	

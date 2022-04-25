@@ -1,0 +1,122 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstraße Hans-Böckler
+1-1	0-13	Einbahnstraße	*[7]	
+1-2	14-26	Hans-Böckler	*[7]	
+
+#Text=Die Hans-Böckler-Straße ist nur in eine Richtung befahrbar: Die Straße ist aufgrund der vielen Parkplätze so schmal, dass keine 2 PKWs aneinander vorbei kommen.
+2-1	29-32	Die	*[8]	
+2-2	33-52	Hans-Böckler-Straße	*[8]	
+2-3	53-56	ist	_	
+2-4	57-60	nur	_	
+2-5	61-63	in	_	
+2-6	64-68	eine	_	
+2-7	69-77	Richtung	_	
+2-8	78-87	befahrbar	_	
+2-9	87-88	:	_	
+2-10	89-92	Die	_	
+2-11	93-99	Straße	_	
+2-12	100-103	ist	_	
+2-13	104-112	aufgrund	_	
+2-14	113-116	der	_	
+2-15	117-123	vielen	_	
+2-16	124-134	Parkplätze	_	
+2-17	135-137	so	_	
+2-18	138-144	schmal	_	
+2-19	144-145	,	_	
+2-20	146-150	dass	_	
+2-21	151-156	keine	_	
+2-22	157-158	2	_	
+2-23	159-163	PKWs	_	
+2-24	164-174	aneinander	_	
+2-25	175-181	vorbei	_	
+2-26	182-188	kommen	_	
+2-27	188-189	.	_	
+
+#Text=Das führt zu permanentem Gehupe und Gezanke zwischen einzelnen Autofahrern.
+3-1	190-193	Das	_	
+3-2	194-199	führt	_	
+3-3	200-202	zu	_	
+3-4	203-214	permanentem	_	
+3-5	215-221	Gehupe	_	
+3-6	222-225	und	_	
+3-7	226-233	Gezanke	_	
+3-8	234-242	zwischen	_	
+3-9	243-252	einzelnen	_	
+3-10	253-264	Autofahrern	_	
+3-11	264-265	.	_	
+
+#Text=Außerdem blockieren die Lieferwagen vom Aldi ständig die Fahrbahn, so dass auch dann höchstens nur ein Auto in eine Richtung vorbei kommt.
+4-1	266-274	Außerdem	_	
+4-2	275-285	blockieren	_	
+4-3	286-289	die	_	
+4-4	290-301	Lieferwagen	_	
+4-5	302-305	vom	_	
+4-6	306-310	Aldi	_	
+4-7	311-318	ständig	_	
+4-8	319-322	die	_	
+4-9	323-331	Fahrbahn	_	
+4-10	331-332	,	_	
+4-11	333-335	so	_	
+4-12	336-340	dass	_	
+4-13	341-345	auch	_	
+4-14	346-350	dann	_	
+4-15	351-360	höchstens	_	
+4-16	361-364	nur	_	
+4-17	365-368	ein	_	
+4-18	369-373	Auto	_	
+4-19	374-376	in	_	
+4-20	377-381	eine	_	
+4-21	382-390	Richtung	_	
+4-22	391-397	vorbei	_	
+4-23	398-403	kommt	_	
+4-24	403-404	.	_	
+
+#Text=Auf Radfahrer nehmen die genervten Autofahrer schon gar keine Rücksicht und auch das Manövrieren der rückwärts ausparkenden LKWs ist für Radfahrer gefährlich.
+5-1	405-408	Auf	_	
+5-2	409-418	Radfahrer	_	
+5-3	419-425	nehmen	_	
+5-4	426-429	die	_	
+5-5	430-439	genervten	_	
+5-6	440-450	Autofahrer	_	
+5-7	451-456	schon	_	
+5-8	457-460	gar	_	
+5-9	461-466	keine	_	
+5-10	467-476	Rücksicht	_	
+5-11	477-480	und	_	
+5-12	481-485	auch	_	
+5-13	486-489	das	_	
+5-14	490-501	Manövrieren	_	
+5-15	502-505	der	_	
+5-16	506-515	rückwärts	_	
+5-17	516-528	ausparkenden	_	
+5-18	529-533	LKWs	_	
+5-19	534-537	ist	_	
+5-20	538-541	für	_	
+5-21	542-551	Radfahrer	_	
+5-22	552-562	gefährlich	_	
+5-23	562-563	.	_	
+
+#Text=Man sollte die Hans-Böckler-Straße zur Einbahnstraße machen um so die ständigen Konflikte in dieser Straße zu beheben.
+6-1	564-567	Man	_	
+6-2	568-574	sollte	_	
+6-3	575-578	die	*[9]	
+6-4	579-598	Hans-Böckler-Straße	*[9]	
+6-5	599-602	zur	_	
+6-6	603-616	Einbahnstraße	_	
+6-7	617-623	machen	_	
+6-8	624-626	um	_	
+6-9	627-629	so	_	
+6-10	630-633	die	_	
+6-11	634-643	ständigen	_	
+6-12	644-653	Konflikte	_	
+6-13	654-656	in	_	
+6-14	657-663	dieser	_	
+6-15	664-670	Straße	_	
+6-16	671-673	zu	_	
+6-17	674-681	beheben	_	
+6-18	681-682	.	_	

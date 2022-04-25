@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg zu schmal
+1-1	0-6	Radweg	_	
+1-2	7-9	zu	_	
+1-3	10-16	schmal	_	
+
+#Text=Der Radweg direkt am Rhein in der Rheinaue ist zu schmal.
+2-1	19-22	Der	*[6]	
+2-2	23-29	Radweg	*[6]	
+2-3	30-36	direkt	*[6]	
+2-4	37-39	am	*[6]	
+2-5	40-45	Rhein	*[6]	
+2-6	46-48	in	*[6]	
+2-7	49-52	der	*[6]	
+2-8	53-61	Rheinaue	*[6]	
+2-9	62-65	ist	_	
+2-10	66-68	zu	_	
+2-11	69-75	schmal	_	
+2-12	75-76	.	_	
+
+#Text=Er ist Teil eines Fernradnetzes und wird auch von Berufspendlern intensiv genutzt.
+3-1	77-79	Er	_	
+3-2	80-83	ist	_	
+3-3	84-88	Teil	_	
+3-4	89-94	eines	_	
+3-5	95-108	Fernradnetzes	_	
+3-6	109-112	und	_	
+3-7	113-117	wird	_	
+3-8	118-122	auch	_	
+3-9	123-126	von	_	
+3-10	127-141	Berufspendlern	_	
+3-11	142-150	intensiv	_	
+3-12	151-158	genutzt	_	
+3-13	158-159	.	_	
+
+#Text=Die Spur ist aber gerade einmal ausreichend für Fahrten in eine Richtung, Gegenverkehr oder Überholen erfordern ein Ausweichen in die Botanik.
+4-1	160-163	Die	_	
+4-2	164-168	Spur	_	
+4-3	169-172	ist	_	
+4-4	173-177	aber	_	
+4-5	178-184	gerade	_	
+4-6	185-191	einmal	_	
+4-7	192-203	ausreichend	_	
+4-8	204-207	für	_	
+4-9	208-215	Fahrten	_	
+4-10	216-218	in	_	
+4-11	219-223	eine	_	
+4-12	224-232	Richtung	_	
+4-13	232-233	,	_	
+4-14	234-246	Gegenverkehr	_	
+4-15	247-251	oder	_	
+4-16	252-261	Überholen	_	
+4-17	262-271	erfordern	_	
+4-18	272-275	ein	_	
+4-19	276-286	Ausweichen	_	
+4-20	287-289	in	_	
+4-21	290-293	die	_	
+4-22	294-301	Botanik	_	
+4-23	301-302	.	_	
+
+#Text=Außerdem ist der Radweg stellenweise in schlechtem Zustand.
+5-1	303-311	Außerdem	_	
+5-2	312-315	ist	_	
+5-3	316-319	der	_	
+5-4	320-326	Radweg	_	
+5-5	327-339	stellenweise	_	
+5-6	340-342	in	_	
+5-7	343-353	schlechtem	_	
+5-8	354-361	Zustand	_	
+5-9	361-362	.	_	

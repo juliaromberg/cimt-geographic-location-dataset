@@ -1,0 +1,60 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zweirichtungsradweg zu eng
+1-1	0-19	Zweirichtungsradweg	_	
+1-2	20-22	zu	_	
+1-3	23-26	eng	_	
+
+#Text=Der kombinierte Rad- und Fußweg hier ist für den Zweirichtungsverkehr viel zu eng und sehr gefährlich.
+2-1	29-32	Der	_	
+2-2	33-44	kombinierte	_	
+2-3	45-48	Rad	_	
+2-4	48-49	-	_	
+2-5	50-53	und	_	
+2-6	54-60	Fußweg	_	
+2-7	61-65	hier	_	
+2-8	66-69	ist	_	
+2-9	70-73	für	_	
+2-10	74-77	den	_	
+2-11	78-98	Zweirichtungsverkehr	_	
+2-12	99-103	viel	_	
+2-13	104-106	zu	_	
+2-14	107-110	eng	_	
+2-15	111-114	und	_	
+2-16	115-119	sehr	_	
+2-17	120-130	gefährlich	_	
+2-18	130-131	.	_	
+
+#Text=Zusätzlich ist die Beschaffenheit des Weges katastrophal (Wurzeln!).
+3-1	132-142	Zusätzlich	_	
+3-2	143-146	ist	_	
+3-3	147-150	die	_	
+3-4	151-165	Beschaffenheit	_	
+3-5	166-169	des	_	
+3-6	170-175	Weges	_	
+3-7	176-188	katastrophal	_	
+3-8	189-190	(	_	
+3-9	190-197	Wurzeln	_	
+3-10	197-198	!	_	
+3-11	198-199	)	_	
+3-12	199-200	.	_	
+
+#Text=Radverkehr über die wenig befahrene Ennemoserstraße Richtung Norden erlauben, evtl. mit Schutzstreifen
+4-1	201-211	Radverkehr	_	
+4-2	212-216	über	_	
+4-3	217-220	die	_	
+4-4	221-226	wenig	_	
+4-5	227-236	befahrene	_	
+4-6	237-252	Ennemoserstraße	*[5]	
+4-7	253-261	Richtung	*[5]	
+4-8	262-268	Norden	*[5]	
+4-9	269-277	erlauben	_	
+4-10	277-278	,	_	
+4-11	279-283	evtl	_	
+4-12	283-284	.	_	
+4-13	285-288	mit	_	
+4-14	289-303	Schutzstreifen	_	

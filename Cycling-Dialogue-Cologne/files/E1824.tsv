@@ -1,0 +1,17 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße Ottostraße
+1-1	0-13	Fahrradstraße	*[3]	
+1-2	14-24	Ottostraße	*[3]	
+
+#Text=BV 4 15.07.2013 TOP 8.1 Prüfauftrag
+2-1	27-29	BV	_	
+2-2	30-31	4	_	
+2-3	32-42	15.07.2013	_	
+2-4	43-46	TOP	_	
+2-5	47-50	8.1	_	
+2-6	51-62	Prüfauftrag	_	

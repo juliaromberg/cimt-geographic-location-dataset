@@ -1,0 +1,145 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unterführungshölle
+1-1	0-18	Unterführungshölle	_	
+
+#Text=Im Industrie- und Gewerbegebiet in der Nordstadt befinden sich unter anderem diverse Fitnessstudios, Einkaufsmöglichkeiten und andere Angebote die auch Fahrradfahrer nutzen.
+2-1	21-23	Im	*[6]	
+2-2	24-33	Industrie	*[6]	
+2-3	33-34	-	*[6]	
+2-4	35-38	und	*[6]	
+2-5	39-52	Gewerbegebiet	*[6]	
+2-6	53-55	in	*[6]	
+2-7	56-59	der	*[6]	
+2-8	60-69	Nordstadt	*[6]	
+2-9	70-78	befinden	_	
+2-10	79-83	sich	_	
+2-11	84-89	unter	_	
+2-12	90-97	anderem	_	
+2-13	98-105	diverse	_	
+2-14	106-120	Fitnessstudios	_	
+2-15	120-121	,	_	
+2-16	122-143	Einkaufsmöglichkeiten	_	
+2-17	144-147	und	_	
+2-18	148-154	andere	_	
+2-19	155-163	Angebote	_	
+2-20	164-167	die	_	
+2-21	168-172	auch	_	
+2-22	173-186	Fahrradfahrer	_	
+2-23	187-193	nutzen	_	
+2-24	193-194	.	_	
+
+#Text=Dafür muss man aber die Bahngleise überqueren und das geht unter anderem nur an dieser stinkenden Unterführung, an der es gleich doppelte Schadstoffbelastung gibt, da oben drüber eine Autobahn verläuft und unten die Straße.
+3-1	195-200	Dafür	_	
+3-2	201-205	muss	_	
+3-3	206-209	man	_	
+3-4	210-214	aber	_	
+3-5	215-218	die	_	
+3-6	219-229	Bahngleise	_	
+3-7	230-240	überqueren	_	
+3-8	241-244	und	_	
+3-9	245-248	das	_	
+3-10	249-253	geht	_	
+3-11	254-259	unter	_	
+3-12	260-267	anderem	_	
+3-13	268-271	nur	_	
+3-14	272-274	an	_	
+3-15	275-281	dieser	_	
+3-16	282-292	stinkenden	_	
+3-17	293-305	Unterführung	_	
+3-18	305-306	,	_	
+3-19	307-309	an	_	
+3-20	310-313	der	_	
+3-21	314-316	es	_	
+3-22	317-323	gleich	_	
+3-23	324-332	doppelte	_	
+3-24	333-352	Schadstoffbelastung	_	
+3-25	353-357	gibt	_	
+3-26	357-358	,	_	
+3-27	359-361	da	_	
+3-28	362-366	oben	_	
+3-29	367-373	drüber	_	
+3-30	374-378	eine	_	
+3-31	379-387	Autobahn	_	
+3-32	388-396	verläuft	_	
+3-33	397-400	und	_	
+3-34	401-406	unten	_	
+3-35	407-410	die	_	
+3-36	411-417	Straße	_	
+3-37	417-418	.	_	
+
+#Text=Abgase stauen sich in der Unterführung und machen die Durchfahrt zur Katastrophe.
+4-1	419-425	Abgase	_	
+4-2	426-432	stauen	_	
+4-3	433-437	sich	_	
+4-4	438-440	in	_	
+4-5	441-444	der	_	
+4-6	445-457	Unterführung	_	
+4-7	458-461	und	_	
+4-8	462-468	machen	_	
+4-9	469-472	die	_	
+4-10	473-483	Durchfahrt	_	
+4-11	484-487	zur	_	
+4-12	488-499	Katastrophe	_	
+4-13	499-500	.	_	
+
+#Text=Es muss mehr fahrradfreundliche und damit menschenfreundliche Überquerungs- oder Unteführungsmöglichkeiten von Endenich in die Weststadt geben, so dass man nicht diese Unterführung nutzen und stundenlang an der befahrenen Bornheimer Straße entlangfahren muss.
+5-1	501-503	Es	_	
+5-2	504-508	muss	_	
+5-3	509-513	mehr	_	
+5-4	514-532	fahrradfreundliche	_	
+5-5	533-536	und	_	
+5-6	537-542	damit	_	
+5-7	543-562	menschenfreundliche	_	
+5-8	563-575	Überquerungs	_	
+5-9	575-576	-	_	
+5-10	577-581	oder	_	
+5-11	582-607	Unteführungsmöglichkeiten	_	
+5-12	608-611	von	*[7]	
+5-13	612-620	Endenich	*[7]	
+5-14	621-623	in	*[7]	
+5-15	624-627	die	*[7]	
+5-16	628-637	Weststadt	*[7]	
+5-17	638-643	geben	_	
+5-18	643-644	,	_	
+5-19	645-647	so	_	
+5-20	648-652	dass	_	
+5-21	653-656	man	_	
+5-22	657-662	nicht	_	
+5-23	663-668	diese	_	
+5-24	669-681	Unterführung	_	
+5-25	682-688	nutzen	_	
+5-26	689-692	und	_	
+5-27	693-704	stundenlang	_	
+5-28	705-707	an	*[8]	
+5-29	708-711	der	*[8]	
+5-30	712-722	befahrenen	*[8]	
+5-31	723-733	Bornheimer	*[8]	
+5-32	734-740	Straße	*[8]	
+5-33	741-754	entlangfahren	*[8]	
+5-34	755-759	muss	_	
+5-35	759-760	.	_	
+
+#Text=Außerdem muss der Autoverkehr in Bonn im Allgemeinen auf ein Minimum wie Zulieferverkehr und Krankenwagen reduziert werden!
+6-1	761-769	Außerdem	_	
+6-2	770-774	muss	_	
+6-3	775-778	der	_	
+6-4	779-790	Autoverkehr	_	
+6-5	791-793	in	*[9]	
+6-6	794-798	Bonn	*[9]	
+6-7	799-801	im	_	
+6-8	802-813	Allgemeinen	_	
+6-9	814-817	auf	_	
+6-10	818-821	ein	_	
+6-11	822-829	Minimum	_	
+6-12	830-833	wie	_	
+6-13	834-849	Zulieferverkehr	_	
+6-14	850-853	und	_	
+6-15	854-866	Krankenwagen	_	
+6-16	867-876	reduziert	_	
+6-17	877-883	werden	_	
+6-18	883-884	!	_	

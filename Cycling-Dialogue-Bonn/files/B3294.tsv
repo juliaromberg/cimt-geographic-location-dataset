@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Benutzungspflicht aufheben
+1-1	0-17	Benutzungspflicht	_	
+1-2	18-26	aufheben	_	
+
+#Text=Die ist hier komplett unsinnig.
+2-1	29-32	Die	_	
+2-2	33-36	ist	_	
+2-3	37-41	hier	_	
+2-4	42-50	komplett	_	
+2-5	51-59	unsinnig	_	
+2-6	59-60	.	_	
+
+#Text=Zudem wird man an den Zufahrten zum Parkplatz auch noch übersehen
+3-1	61-66	Zudem	_	
+3-2	67-71	wird	_	
+3-3	72-75	man	_	
+3-4	76-78	an	_	
+3-5	79-82	den	_	
+3-6	83-92	Zufahrten	_	
+3-7	93-96	zum	_	
+3-8	97-106	Parkplatz	_	
+3-9	107-111	auch	_	
+3-10	112-116	noch	_	
+3-11	117-126	übersehen	_	

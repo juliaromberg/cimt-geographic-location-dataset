@@ -1,0 +1,110 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Neue Radverkehrsführung entlang Oppelner Str von Nachteil
+1-1	0-4	Neue	_	
+1-2	5-23	Radverkehrsführung	_	
+1-3	24-31	entlang	*[6]	
+1-4	32-40	Oppelner	*[6]	
+1-5	41-44	Str	*[6]	
+1-6	45-48	von	_	
+1-7	49-57	Nachteil	_	
+
+#Text=Bis zum Bau des neuen Kreisverkehrs existierten in beiden Richtungen entlang der Oppelner Str. separate Fahrradwege auf dem Bürgersteig.
+2-1	60-63	Bis	_	
+2-2	64-67	zum	_	
+2-3	68-71	Bau	_	
+2-4	72-75	des	_	
+2-5	76-81	neuen	_	
+2-6	82-95	Kreisverkehrs	_	
+2-7	96-107	existierten	_	
+2-8	108-110	in	_	
+2-9	111-117	beiden	_	
+2-10	118-128	Richtungen	_	
+2-11	129-136	entlang	*[7]	
+2-12	137-140	der	*[7]	
+2-13	141-149	Oppelner	*[7]	
+2-14	150-153	Str	*[7]	
+2-15	153-154	.	_	
+2-16	155-163	separate	_	
+2-17	164-175	Fahrradwege	_	
+2-18	176-179	auf	_	
+2-19	180-183	dem	_	
+2-20	184-195	Bürgersteig	_	
+2-21	195-196	.	_	
+
+#Text=Inzwischen sind die breiten Gehwege lediglich zur Mitbenutzung für Radfahrer freigegeben, Schutzstreifen auf der Fahrbahn existieren - mit Ausnahme kurz vor dem Kreisverkehr- nicht.
+3-1	197-207	Inzwischen	_	
+3-2	208-212	sind	_	
+3-3	213-216	die	_	
+3-4	217-224	breiten	_	
+3-5	225-232	Gehwege	_	
+3-6	233-242	lediglich	_	
+3-7	243-246	zur	_	
+3-8	247-259	Mitbenutzung	_	
+3-9	260-263	für	_	
+3-10	264-273	Radfahrer	_	
+3-11	274-285	freigegeben	_	
+3-12	285-286	,	_	
+3-13	287-301	Schutzstreifen	_	
+3-14	302-305	auf	_	
+3-15	306-309	der	_	
+3-16	310-318	Fahrbahn	_	
+3-17	319-329	existieren	_	
+3-18	330-331	-	_	
+3-19	332-335	mit	_	
+3-20	336-344	Ausnahme	_	
+3-21	345-349	kurz	_	
+3-22	350-353	vor	_	
+3-23	354-357	dem	_	
+3-24	358-370	Kreisverkehr	_	
+3-25	370-371	-	_	
+3-26	372-377	nicht	_	
+3-27	377-378	.	_	
+
+#Text=Nutzt man als Radfahrer den Gehweg mit, so stellen die Straßeneinmündungen entlang der Oppelner Str. neue Gefahrenquellen dar.
+4-1	379-384	Nutzt	_	
+4-2	385-388	man	_	
+4-3	389-392	als	_	
+4-4	393-402	Radfahrer	_	
+4-5	403-406	den	_	
+4-6	407-413	Gehweg	_	
+4-7	414-417	mit	_	
+4-8	417-418	,	_	
+4-9	419-421	so	_	
+4-10	422-429	stellen	_	
+4-11	430-433	die	_	
+4-12	434-453	Straßeneinmündungen	_	
+4-13	454-461	entlang	*[8]	
+4-14	462-465	der	*[8]	
+4-15	466-474	Oppelner	*[8]	
+4-16	475-478	Str	*[8]	
+4-17	478-479	.	_	
+4-18	480-484	neue	_	
+4-19	485-500	Gefahrenquellen	_	
+4-20	501-504	dar	_	
+4-21	504-505	.	_	
+
+#Text=Separate Fahrradwege auf dem Bürgersteig oder Schutzstreifen auf der Straße wären zum Schutz von Fußgängern und Radfahrern wünschenswert.
+5-1	506-514	Separate	_	
+5-2	515-526	Fahrradwege	_	
+5-3	527-530	auf	_	
+5-4	531-534	dem	_	
+5-5	535-546	Bürgersteig	_	
+5-6	547-551	oder	_	
+5-7	552-566	Schutzstreifen	_	
+5-8	567-570	auf	_	
+5-9	571-574	der	_	
+5-10	575-581	Straße	_	
+5-11	582-587	wären	_	
+5-12	588-591	zum	_	
+5-13	592-598	Schutz	_	
+5-14	599-602	von	_	
+5-15	603-613	Fußgängern	_	
+5-16	614-617	und	_	
+5-17	618-628	Radfahrern	_	
+5-18	629-642	wünschenswert	_	
+5-19	642-643	.	_	

@@ -1,0 +1,135 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstreifen reicht nicht aus, baulich getrennter Radweg ist erforderlich
+1-1	0-15	Fahrradstreifen	_	
+1-2	16-22	reicht	_	
+1-3	23-28	nicht	_	
+1-4	29-32	aus	_	
+1-5	32-33	,	_	
+1-6	34-41	baulich	_	
+1-7	42-52	getrennter	_	
+1-8	53-59	Radweg	_	
+1-9	60-63	ist	_	
+1-10	64-76	erforderlich	_	
+
+#Text=Hier wurde ja vor ein paar Jahren schon einer auf dem Fahrradstreifen totgefahren, aber das war natürlich kein Anlass, an diesem katastrophalen Radweg etwas zu ändern.
+2-1	79-83	Hier	_	
+2-2	84-89	wurde	_	
+2-3	90-92	ja	_	
+2-4	93-96	vor	_	
+2-5	97-100	ein	_	
+2-6	101-105	paar	_	
+2-7	106-112	Jahren	_	
+2-8	113-118	schon	_	
+2-9	119-124	einer	_	
+2-10	125-128	auf	_	
+2-11	129-132	dem	_	
+2-12	133-148	Fahrradstreifen	_	
+2-13	149-160	totgefahren	_	
+2-14	160-161	,	_	
+2-15	162-166	aber	_	
+2-16	167-170	das	_	
+2-17	171-174	war	_	
+2-18	175-184	natürlich	_	
+2-19	185-189	kein	_	
+2-20	190-196	Anlass	_	
+2-21	196-197	,	_	
+2-22	198-200	an	_	
+2-23	201-207	diesem	_	
+2-24	208-222	katastrophalen	_	
+2-25	223-229	Radweg	_	
+2-26	230-235	etwas	_	
+2-27	236-238	zu	_	
+2-28	239-245	ändern	_	
+2-29	245-246	.	_	
+
+#Text=Man ist als Radfahrer eingeklemmt zwischen den parkenden Autos auf dem Bürgersteig, wo man immer damit rechnen muss, dass jemand plötzlich die Tür aufreißt, und den fahrenden Autos, und, ganz besonders schlimm, den Stadtbussen, die ohne ausreichenden Sicherheitsabstand mit hoher Geschwindigkeit überholen, um 3-5 Sekunden schneller an der nächsten Haltestelle zu sein.
+3-1	247-250	Man	_	
+3-2	251-254	ist	_	
+3-3	255-258	als	_	
+3-4	259-268	Radfahrer	_	
+3-5	269-280	eingeklemmt	_	
+3-6	281-289	zwischen	_	
+3-7	290-293	den	_	
+3-8	294-303	parkenden	_	
+3-9	304-309	Autos	_	
+3-10	310-313	auf	_	
+3-11	314-317	dem	_	
+3-12	318-329	Bürgersteig	_	
+3-13	329-330	,	_	
+3-14	331-333	wo	_	
+3-15	334-337	man	_	
+3-16	338-343	immer	_	
+3-17	344-349	damit	_	
+3-18	350-357	rechnen	_	
+3-19	358-362	muss	_	
+3-20	362-363	,	_	
+3-21	364-368	dass	_	
+3-22	369-375	jemand	_	
+3-23	376-385	plötzlich	_	
+3-24	386-389	die	_	
+3-25	390-393	Tür	_	
+3-26	394-402	aufreißt	_	
+3-27	402-403	,	_	
+3-28	404-407	und	_	
+3-29	408-411	den	_	
+3-30	412-421	fahrenden	_	
+3-31	422-427	Autos	_	
+3-32	427-428	,	_	
+3-33	429-432	und	_	
+3-34	432-433	,	_	
+3-35	434-438	ganz	_	
+3-36	439-448	besonders	_	
+3-37	449-456	schlimm	_	
+3-38	456-457	,	_	
+3-39	458-461	den	_	
+3-40	462-473	Stadtbussen	_	
+3-41	473-474	,	_	
+3-42	475-478	die	_	
+3-43	479-483	ohne	_	
+3-44	484-497	ausreichenden	_	
+3-45	498-516	Sicherheitsabstand	_	
+3-46	517-520	mit	_	
+3-47	521-526	hoher	_	
+3-48	527-542	Geschwindigkeit	_	
+3-49	543-552	überholen	_	
+3-50	552-553	,	_	
+3-51	554-556	um	_	
+3-52	557-558	3	_	
+3-53	558-559	-	_	
+3-54	559-560	5	_	
+3-55	561-569	Sekunden	_	
+3-56	570-579	schneller	_	
+3-57	580-582	an	_	
+3-58	583-586	der	_	
+3-59	587-595	nächsten	_	
+3-60	596-607	Haltestelle	_	
+3-61	608-610	zu	_	
+3-62	611-615	sein	_	
+3-63	615-616	.	_	
+
+#Text=Aufgrund der hohen Bäume ist es im Winterhalbjahr auch den ganzen Tag dämmrig und man wird noch schlechter gesehen.
+4-1	617-625	Aufgrund	_	
+4-2	626-629	der	_	
+4-3	630-635	hohen	_	
+4-4	636-641	Bäume	_	
+4-5	642-645	ist	_	
+4-6	646-648	es	_	
+4-7	649-651	im	_	
+4-8	652-666	Winterhalbjahr	_	
+4-9	667-671	auch	_	
+4-10	672-675	den	_	
+4-11	676-682	ganzen	_	
+4-12	683-686	Tag	_	
+4-13	687-694	dämmrig	_	
+4-14	695-698	und	_	
+4-15	699-702	man	_	
+4-16	703-707	wird	_	
+4-17	708-712	noch	_	
+4-18	713-723	schlechter	_	
+4-19	724-731	gesehen	_	
+4-20	731-732	.	_	

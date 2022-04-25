@@ -1,0 +1,60 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kölnstraße/Heerstraße
+1-1	0-10	Kölnstraße	*[4]	
+1-2	10-11	/	*[4]	
+1-3	11-21	Heerstraße	*[4]	
+
+#Text=Möchte man bei der Ampelgeregelten Kreuzung von der Heerstraße kommend über die Kölnstraße gerade aus fahren, um ins Rosental zu gelangen, läuft man Gefahr, von den entgegenkommenden Autos überfahren zu werden.
+2-1	24-30	Möchte	_	
+2-2	31-34	man	_	
+2-3	35-38	bei	*[5]	
+2-4	39-42	der	*[5]	
+2-5	43-58	Ampelgeregelten	*[5]	
+2-6	59-67	Kreuzung	*[5]	
+2-7	68-71	von	*[5]	
+2-8	72-75	der	*[5]	
+2-9	76-86	Heerstraße	*[5]	
+2-10	87-94	kommend	*[5]	
+2-11	95-99	über	*[5]	
+2-12	100-103	die	*[5]	
+2-13	104-114	Kölnstraße	*[5]	
+2-14	115-121	gerade	*[5]	
+2-15	122-125	aus	*[5]	
+2-16	126-132	fahren	*[5]	
+2-17	132-133	,	*[5]	
+2-18	134-136	um	*[5]	
+2-19	137-140	ins	*[5]	
+2-20	141-149	Rosental	*[5]	
+2-21	150-152	zu	_	
+2-22	153-161	gelangen	_	
+2-23	161-162	,	_	
+2-24	163-168	läuft	_	
+2-25	169-172	man	_	
+2-26	173-179	Gefahr	_	
+2-27	179-180	,	_	
+2-28	181-184	von	_	
+2-29	185-188	den	_	
+2-30	189-206	entgegenkommenden	_	
+2-31	207-212	Autos	_	
+2-32	213-223	überfahren	_	
+2-33	224-226	zu	_	
+2-34	227-233	werden	_	
+2-35	233-234	.	_	
+
+#Text=Diese Kreuzung ist wirklich äußerst nachteilig und gefährlich für Radfahrer!
+3-1	235-240	Diese	_	
+3-2	241-249	Kreuzung	_	
+3-3	250-253	ist	_	
+3-4	254-262	wirklich	_	
+3-5	263-270	äußerst	_	
+3-6	271-281	nachteilig	_	
+3-7	282-285	und	_	
+3-8	286-296	gefährlich	_	
+3-9	297-300	für	_	
+3-10	301-310	Radfahrer	_	
+3-11	310-311	!	_	

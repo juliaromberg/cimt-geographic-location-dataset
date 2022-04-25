@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreuzung ist Zumutung
+1-1	0-8	Kreuzung	_	
+1-2	9-12	ist	_	
+1-3	13-21	Zumutung	_	
+
+#Text=Diese Kreuzung ist für Fahrradfahrer sehr nervig, wenn man vom Rhein kommt und nach links abbiegen will.
+2-1	24-29	Diese	_	
+2-2	30-38	Kreuzung	_	
+2-3	39-42	ist	_	
+2-4	43-46	für	_	
+2-5	47-60	Fahrradfahrer	_	
+2-6	61-65	sehr	_	
+2-7	66-72	nervig	_	
+2-8	72-73	,	_	
+2-9	74-78	wenn	_	
+2-10	79-82	man	_	
+2-11	83-86	vom	_	
+2-12	87-92	Rhein	_	
+2-13	93-98	kommt	_	
+2-14	99-102	und	_	
+2-15	103-107	nach	_	
+2-16	108-113	links	_	
+2-17	114-122	abbiegen	_	
+2-18	123-127	will	_	
+2-19	127-128	.	_	

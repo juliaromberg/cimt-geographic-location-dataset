@@ -1,0 +1,59 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unebenheiten in der Fahrbahn
+1-1	0-12	Unebenheiten	_	
+1-2	13-15	in	_	
+1-3	16-19	der	_	
+1-4	20-28	Fahrbahn	_	
+
+#Text=In Höhe des Fußgängerüberwegs wurden die Pflastersteine in ihrer Anordnung durch Busse/ Autos verschoben.
+2-1	31-33	In	_	
+2-2	34-38	Höhe	_	
+2-3	39-42	des	_	
+2-4	43-60	Fußgängerüberwegs	_	
+2-5	61-67	wurden	_	
+2-6	68-71	die	_	
+2-7	72-86	Pflastersteine	_	
+2-8	87-89	in	_	
+2-9	90-95	ihrer	_	
+2-10	96-105	Anordnung	_	
+2-11	106-111	durch	_	
+2-12	112-117	Busse	_	
+2-13	117-118	/	_	
+2-14	119-124	Autos	_	
+2-15	125-135	verschoben	_	
+2-16	135-136	.	_	
+
+#Text=Die Fahrbahn ist dadurch sehr uneben und für Radfahrer, vor allem mit dünneren Reifen, gefährlich.
+3-1	137-140	Die	_	
+3-2	141-149	Fahrbahn	_	
+3-3	150-153	ist	_	
+3-4	154-161	dadurch	_	
+3-5	162-166	sehr	_	
+3-6	167-173	uneben	_	
+3-7	174-177	und	_	
+3-8	178-181	für	_	
+3-9	182-191	Radfahrer	_	
+3-10	191-192	,	_	
+3-11	193-196	vor	_	
+3-12	197-202	allem	_	
+3-13	203-206	mit	_	
+3-14	207-215	dünneren	_	
+3-15	216-222	Reifen	_	
+3-16	222-223	,	_	
+3-17	224-234	gefährlich	_	
+3-18	234-235	.	_	
+
+#Text=Mögliche Lösung: (teilweise) geteerter Weg
+4-1	236-244	Mögliche	_	
+4-2	245-251	Lösung	_	
+4-3	251-252	:	_	
+4-4	253-254	(	_	
+4-5	254-263	teilweise	_	
+4-6	263-264	)	_	
+4-7	265-274	geteerter	_	
+4-8	275-278	Weg	_	

@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rechts-vor-Links-Regelung (in beide Richtungen) nicht sinnvoll
+1-1	0-25	Rechts-vor-Links-Regelung	_	
+1-2	26-27	(	_	
+1-3	27-29	in	_	
+1-4	30-35	beide	_	
+1-5	36-46	Richtungen	_	
+1-6	46-47	)	_	
+1-7	48-53	nicht	_	
+1-8	54-62	sinnvoll	_	
+
+#Text=Rechts-vor-Links-Regelung (in beide Richtungen) nicht sinnvoll: Neben den vielen PKW, die hier die Straße befüllen, sind die Rechts-vor-Links-Regelungen für Radfahrer in der Fahrradstraße nicht sinnvoll: Radfahrer sollten hier Vorfahrt haben, da Verbindungsachse von und nach Bonn bzw. Richtung Hangelar / Siegburg flott befahr sein sollte (übrigens nicht nur hier).
+2-1	65-90	Rechts-vor-Links-Regelung	_	
+2-2	91-92	(	_	
+2-3	92-94	in	_	
+2-4	95-100	beide	_	
+2-5	101-111	Richtungen	_	
+2-6	111-112	)	_	
+2-7	113-118	nicht	_	
+2-8	119-127	sinnvoll	_	
+2-9	127-128	:	_	
+2-10	129-134	Neben	_	
+2-11	135-138	den	_	
+2-12	139-145	vielen	_	
+2-13	146-149	PKW	_	
+2-14	149-150	,	_	
+2-15	151-154	die	_	
+2-16	155-159	hier	_	
+2-17	160-163	die	_	
+2-18	164-170	Straße	_	
+2-19	171-179	befüllen	_	
+2-20	179-180	,	_	
+2-21	181-185	sind	_	
+2-22	186-189	die	_	
+2-23	190-217	Rechts-vor-Links-Regelungen	_	
+2-24	218-221	für	_	
+2-25	222-231	Radfahrer	_	
+2-26	232-234	in	_	
+2-27	235-238	der	_	
+2-28	239-252	Fahrradstraße	_	
+2-29	253-258	nicht	_	
+2-30	259-267	sinnvoll	_	
+2-31	267-268	:	_	
+2-32	269-278	Radfahrer	_	
+2-33	279-286	sollten	_	
+2-34	287-291	hier	_	
+2-35	292-300	Vorfahrt	_	
+2-36	301-306	haben	_	
+2-37	306-307	,	_	
+2-38	308-310	da	_	
+2-39	311-327	Verbindungsachse	*[3]	
+2-40	328-331	von	*[3]	
+2-41	332-335	und	*[3]	
+2-42	336-340	nach	*[3]	
+2-43	341-345	Bonn	*[3]	
+2-44	346-349	bzw	*[3]	
+2-45	349-350	.	*[3]	
+2-46	351-359	Richtung	*[3]	
+2-47	360-368	Hangelar	*[3]	
+2-48	369-370	/	*[3]	
+2-49	371-379	Siegburg	*[3]	
+2-50	380-385	flott	_	
+2-51	386-392	befahr	_	
+2-52	393-397	sein	_	
+2-53	398-404	sollte	_	
+2-54	405-406	(	_	
+2-55	406-414	übrigens	_	
+2-56	415-420	nicht	_	
+2-57	421-424	nur	_	
+2-58	425-429	hier	_	
+2-59	429-430	)	_	
+2-60	430-431	.	_	

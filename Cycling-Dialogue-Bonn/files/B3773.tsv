@@ -1,0 +1,84 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hindernisse; Lösung: Über- oder Unterquerung für Radfahrer und Fußgänger
+1-1	0-11	Hindernisse	_	
+1-2	11-12	;	_	
+1-3	13-19	Lösung	_	
+1-4	19-20	:	_	
+1-5	21-25	Über	_	
+1-6	25-26	-	_	
+1-7	27-31	oder	_	
+1-8	32-44	Unterquerung	_	
+1-9	45-48	für	_	
+1-10	49-58	Radfahrer	_	
+1-11	59-62	und	_	
+1-12	63-72	Fußgänger	_	
+
+#Text=Hier steht man ewig vor geschlossenen Schranken, ebenso wie an den anderen Übergängen im Norden und Süden hiervon.
+2-1	75-79	Hier	_	
+2-2	80-85	steht	_	
+2-3	86-89	man	_	
+2-4	90-94	ewig	_	
+2-5	95-98	vor	_	
+2-6	99-112	geschlossenen	_	
+2-7	113-122	Schranken	_	
+2-8	122-123	,	_	
+2-9	124-130	ebenso	_	
+2-10	131-134	wie	_	
+2-11	135-137	an	_	
+2-12	138-141	den	_	
+2-13	142-149	anderen	_	
+2-14	150-160	Übergängen	_	
+2-15	161-163	im	_	
+2-16	164-170	Norden	_	
+2-17	171-174	und	_	
+2-18	175-180	Süden	_	
+2-19	181-188	hiervon	_	
+2-20	188-189	.	_	
+
+#Text=Hier müsste man eine Über- oder Unterquerung nur für Radfahrer und Fussgänger bauen (nicht für Autos, denn der Autoverkehr in der Stadt sollte abnehmen, das Autofahren in der Stadt also nicht noch attraktiver gemacht werden).
+3-1	190-194	Hier	_	
+3-2	195-201	müsste	_	
+3-3	202-205	man	_	
+3-4	206-210	eine	_	
+3-5	211-215	Über	_	
+3-6	215-216	-	_	
+3-7	217-221	oder	_	
+3-8	222-234	Unterquerung	_	
+3-9	235-238	nur	_	
+3-10	239-242	für	_	
+3-11	243-252	Radfahrer	_	
+3-12	253-256	und	_	
+3-13	257-267	Fussgänger	_	
+3-14	268-273	bauen	_	
+3-15	274-275	(	_	
+3-16	275-280	nicht	_	
+3-17	281-284	für	_	
+3-18	285-290	Autos	_	
+3-19	290-291	,	_	
+3-20	292-296	denn	_	
+3-21	297-300	der	_	
+3-22	301-312	Autoverkehr	_	
+3-23	313-315	in	_	
+3-24	316-319	der	_	
+3-25	320-325	Stadt	_	
+3-26	326-332	sollte	_	
+3-27	333-341	abnehmen	_	
+3-28	341-342	,	_	
+3-29	343-346	das	_	
+3-30	347-357	Autofahren	_	
+3-31	358-360	in	_	
+3-32	361-364	der	_	
+3-33	365-370	Stadt	_	
+3-34	371-375	also	_	
+3-35	376-381	nicht	_	
+3-36	382-386	noch	_	
+3-37	387-398	attraktiver	_	
+3-38	399-406	gemacht	_	
+3-39	407-413	werden	_	
+3-40	413-414	)	_	
+3-41	414-415	.	_	

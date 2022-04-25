@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zugeparkter Radweg
+1-1	0-11	Zugeparkter	_	
+1-2	12-18	Radweg	_	
+
+#Text=Durch quer und längs zur Straße auf dem engen Grünstreifen geparkte Autos wird immer wieder der markierte Radweg zugeparkt.
+2-1	21-26	Durch	_	
+2-2	27-31	quer	_	
+2-3	32-35	und	_	
+2-4	36-41	längs	_	
+2-5	42-45	zur	_	
+2-6	46-52	Straße	_	
+2-7	53-56	auf	_	
+2-8	57-60	dem	_	
+2-9	61-66	engen	_	
+2-10	67-79	Grünstreifen	_	
+2-11	80-88	geparkte	_	
+2-12	89-94	Autos	_	
+2-13	95-99	wird	_	
+2-14	100-105	immer	_	
+2-15	106-112	wieder	_	
+2-16	113-116	der	_	
+2-17	117-126	markierte	_	
+2-18	127-133	Radweg	_	
+2-19	134-143	zugeparkt	_	
+2-20	143-144	.	_	
+
+#Text=Dadurch müssen Radfahrer hier permanent auf die Straße ausweichen und bringen sich in Gefahr.
+3-1	145-152	Dadurch	_	
+3-2	153-159	müssen	_	
+3-3	160-169	Radfahrer	_	
+3-4	170-174	hier	_	
+3-5	175-184	permanent	_	
+3-6	185-188	auf	_	
+3-7	189-192	die	_	
+3-8	193-199	Straße	_	
+3-9	200-210	ausweichen	_	
+3-10	211-214	und	_	
+3-11	215-222	bringen	_	
+3-12	223-227	sich	_	
+3-13	228-230	in	_	
+3-14	231-237	Gefahr	_	
+3-15	237-238	.	_	

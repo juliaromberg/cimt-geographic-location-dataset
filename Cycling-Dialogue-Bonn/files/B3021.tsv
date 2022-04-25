@@ -1,0 +1,57 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Befahrbaren Radweg von der Nordbrücke zur Siegfähre/Badestelle
+1-1	0-11	Befahrbaren	_	
+1-2	12-18	Radweg	_	
+1-3	19-22	von	*[3]	
+1-4	23-26	der	*[3]	
+1-5	27-37	Nordbrücke	*[3]	
+1-6	38-41	zur	*[3]	
+1-7	42-51	Siegfähre	*[3]	
+1-8	51-52	/	*[3]	
+1-9	52-62	Badestelle	*[3]	
+
+#Text=Den Trampelpfad dort könnte man mal zu einem ordentlichen Fuß-und Radweg ausbauen, denn im Sommer ist der Bereich an der Siegfähre ein beliebtes Ausflugsziel auch für Bonner, die dann nicht unbedingt mit dem Auto hinfahren müssten.
+2-1	65-68	Den	_	
+2-2	69-80	Trampelpfad	_	
+2-3	81-85	dort	_	
+2-4	86-92	könnte	_	
+2-5	93-96	man	_	
+2-6	97-100	mal	_	
+2-7	101-103	zu	_	
+2-8	104-109	einem	_	
+2-9	110-122	ordentlichen	_	
+2-10	123-130	Fuß-und	_	
+2-11	131-137	Radweg	_	
+2-12	138-146	ausbauen	_	
+2-13	146-147	,	_	
+2-14	148-152	denn	_	
+2-15	153-155	im	_	
+2-16	156-162	Sommer	_	
+2-17	163-166	ist	_	
+2-18	167-170	der	*[4]	
+2-19	171-178	Bereich	*[4]	
+2-20	179-181	an	*[4]	
+2-21	182-185	der	*[4]	
+2-22	186-195	Siegfähre	*[4]	
+2-23	196-199	ein	_	
+2-24	200-209	beliebtes	_	
+2-25	210-222	Ausflugsziel	_	
+2-26	223-227	auch	_	
+2-27	228-231	für	_	
+2-28	232-238	Bonner	_	
+2-29	238-239	,	_	
+2-30	240-243	die	_	
+2-31	244-248	dann	_	
+2-32	249-254	nicht	_	
+2-33	255-264	unbedingt	_	
+2-34	265-268	mit	_	
+2-35	269-272	dem	_	
+2-36	273-277	Auto	_	
+2-37	278-287	hinfahren	_	
+2-38	288-295	müssten	_	
+2-39	295-296	.	_	

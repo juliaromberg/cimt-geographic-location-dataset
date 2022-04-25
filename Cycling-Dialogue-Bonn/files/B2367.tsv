@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bedarfsampel unerreichbar
+1-1	0-12	Bedarfsampel	_	
+1-2	13-25	unerreichbar	_	
+
+#Text=Wie an sehr vielen Stellen in Bonn ist hier die Taste zur Grün-Anforderung vom Radweg aus nicht erreichbar.
+2-1	28-31	Wie	_	
+2-2	32-34	an	_	
+2-3	35-39	sehr	_	
+2-4	40-46	vielen	_	
+2-5	47-54	Stellen	_	
+2-6	55-57	in	*[3]	
+2-7	58-62	Bonn	*[3]	
+2-8	63-66	ist	_	
+2-9	67-71	hier	_	
+2-10	72-75	die	_	
+2-11	76-81	Taste	_	
+2-12	82-85	zur	_	
+2-13	86-102	Grün-Anforderung	_	
+2-14	103-106	vom	_	
+2-15	107-113	Radweg	_	
+2-16	114-117	aus	_	
+2-17	118-123	nicht	_	
+2-18	124-134	erreichbar	_	
+2-19	134-135	.	_	

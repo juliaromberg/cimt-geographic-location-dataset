@@ -1,0 +1,131 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Farbliche Markierung des Radwegs nötig
+1-1	0-9	Farbliche	_	
+1-2	10-20	Markierung	_	
+1-3	21-24	des	_	
+1-4	25-32	Radwegs	_	
+1-5	33-38	nötig	_	
+
+#Text=Wenn man vom Promenadenweg in die Weißenburgstraße herunterfährt, erreicht man gefällebedingt eine hohe Geschwindigkeit.
+2-1	41-45	Wenn	_	
+2-2	46-49	man	_	
+2-3	50-53	vom	*[6]	
+2-4	54-67	Promenadenweg	*[6]	
+2-5	68-70	in	*[6]	
+2-6	71-74	die	*[6]	
+2-7	75-91	Weißenburgstraße	*[6]	
+2-8	92-105	herunterfährt	*[6]	
+2-9	105-106	,	_	
+2-10	107-115	erreicht	_	
+2-11	116-119	man	_	
+2-12	120-134	gefällebedingt	_	
+2-13	135-139	eine	_	
+2-14	140-144	hohe	_	
+2-15	145-160	Geschwindigkeit	_	
+2-16	160-161	.	_	
+
+#Text=An der Stelle, wo der Fahrradweg auf die Fahrbahn übergeht, gibt es dann morgens immer wieder Probleme mit den Elterntaxis, die vor der Kita halten.
+3-1	162-164	An	_	
+3-2	165-168	der	_	
+3-3	169-175	Stelle	_	
+3-4	175-176	,	_	
+3-5	177-179	wo	_	
+3-6	180-183	der	_	
+3-7	184-194	Fahrradweg	_	
+3-8	195-198	auf	_	
+3-9	199-202	die	_	
+3-10	203-211	Fahrbahn	_	
+3-11	212-220	übergeht	_	
+3-12	220-221	,	_	
+3-13	222-226	gibt	_	
+3-14	227-229	es	_	
+3-15	230-234	dann	_	
+3-16	235-242	morgens	_	
+3-17	243-248	immer	_	
+3-18	249-255	wieder	_	
+3-19	256-264	Probleme	_	
+3-20	265-268	mit	_	
+3-21	269-272	den	_	
+3-22	273-284	Elterntaxis	_	
+3-23	284-285	,	_	
+3-24	286-289	die	_	
+3-25	290-293	vor	_	
+3-26	294-297	der	_	
+3-27	298-302	Kita	_	
+3-28	303-309	halten	_	
+3-29	309-310	.	_	
+
+#Text=Die Eltern denken oft, dass die Weißenburgstraße an der Stelle zu Ende ist (lediglich die Kfz-Fahrbahn ist zu Ende), blockieren dadurch manchmal den Übergang, parken ohne nach oben zu schauen ein und aus oder lassen ihre kleinen Kinder mitten auf der Straße stehen.
+4-1	311-314	Die	_	
+4-2	315-321	Eltern	_	
+4-3	322-328	denken	_	
+4-4	329-332	oft	_	
+4-5	332-333	,	_	
+4-6	334-338	dass	_	
+4-7	339-342	die	*[7]	
+4-8	343-359	Weißenburgstraße	*[7]	
+4-9	360-362	an	_	
+4-10	363-366	der	_	
+4-11	367-373	Stelle	_	
+4-12	374-376	zu	_	
+4-13	377-381	Ende	_	
+4-14	382-385	ist	_	
+4-15	386-387	(	_	
+4-16	387-396	lediglich	_	
+4-17	397-400	die	_	
+4-18	401-413	Kfz-Fahrbahn	_	
+4-19	414-417	ist	_	
+4-20	418-420	zu	_	
+4-21	421-425	Ende	_	
+4-22	425-426	)	_	
+4-23	426-427	,	_	
+4-24	428-438	blockieren	_	
+4-25	439-446	dadurch	_	
+4-26	447-455	manchmal	_	
+4-27	456-459	den	_	
+4-28	460-468	Übergang	_	
+4-29	468-469	,	_	
+4-30	470-476	parken	_	
+4-31	477-481	ohne	_	
+4-32	482-486	nach	_	
+4-33	487-491	oben	_	
+4-34	492-494	zu	_	
+4-35	495-502	schauen	_	
+4-36	503-506	ein	_	
+4-37	507-510	und	_	
+4-38	511-514	aus	_	
+4-39	515-519	oder	_	
+4-40	520-526	lassen	_	
+4-41	527-531	ihre	_	
+4-42	532-539	kleinen	_	
+4-43	540-546	Kinder	_	
+4-44	547-553	mitten	_	
+4-45	554-557	auf	_	
+4-46	558-561	der	_	
+4-47	562-568	Straße	_	
+4-48	569-575	stehen	_	
+4-49	575-576	.	_	
+
+#Text=Hier wäre eine farbliche Markierung des Radwegs hilfreich, die noch etliche Meter in den Fahrbahnbereich hineinragt
+5-1	577-581	Hier	_	
+5-2	582-586	wäre	_	
+5-3	587-591	eine	_	
+5-4	592-601	farbliche	_	
+5-5	602-612	Markierung	_	
+5-6	613-616	des	_	
+5-7	617-624	Radwegs	_	
+5-8	625-634	hilfreich	_	
+5-9	634-635	,	_	
+5-10	636-639	die	_	
+5-11	640-644	noch	_	
+5-12	645-652	etliche	_	
+5-13	653-658	Meter	_	
+5-14	659-661	in	_	
+5-15	662-665	den	_	
+5-16	666-681	Fahrbahnbereich	_	
+5-17	682-692	hineinragt	_	

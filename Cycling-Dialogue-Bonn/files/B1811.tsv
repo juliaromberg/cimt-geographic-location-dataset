@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wegeführung unglücklich
+1-1	0-11	Wegeführung	_	
+1-2	12-23	unglücklich	_	
+
+#Text=Die Straßenecke Oscar-Romero-Straße/Ollenhauerstraße ist sehr unglücklich gestaltet, weil zu eng.
+2-1	26-29	Die	*[4]	
+2-2	30-41	Straßenecke	*[4]	
+2-3	42-61	Oscar-Romero-Straße	*[4]	
+2-4	61-62	/	*[4]	
+2-5	62-78	Ollenhauerstraße	*[4]	
+2-6	79-82	ist	_	
+2-7	83-87	sehr	_	
+2-8	88-99	unglücklich	_	
+2-9	100-109	gestaltet	_	
+2-10	109-110	,	_	
+2-11	111-115	weil	_	
+2-12	116-118	zu	_	
+2-13	119-122	eng	_	
+2-14	122-123	.	_	
+
+#Text=Durch die Lage der Ampeln im Zusammenspiel mit der Ausbuchtung des Grünstreifens (mit Einfassung und Ziergeröllstein) und dem erhöhten Bordstein in der Kurve werden Radfahrer, die von Nord und Süd kommen, immer auf einen Kollisionskurs geschickt.
+3-1	124-129	Durch	_	
+3-2	130-133	die	_	
+3-3	134-138	Lage	_	
+3-4	139-142	der	_	
+3-5	143-149	Ampeln	_	
+3-6	150-152	im	_	
+3-7	153-166	Zusammenspiel	_	
+3-8	167-170	mit	_	
+3-9	171-174	der	_	
+3-10	175-186	Ausbuchtung	_	
+3-11	187-190	des	_	
+3-12	191-204	Grünstreifens	_	
+3-13	205-206	(	_	
+3-14	206-209	mit	_	
+3-15	210-220	Einfassung	_	
+3-16	221-224	und	_	
+3-17	225-240	Ziergeröllstein	_	
+3-18	240-241	)	_	
+3-19	242-245	und	_	
+3-20	246-249	dem	_	
+3-21	250-258	erhöhten	_	
+3-22	259-268	Bordstein	_	
+3-23	269-271	in	_	
+3-24	272-275	der	_	
+3-25	276-281	Kurve	_	
+3-26	282-288	werden	_	
+3-27	289-298	Radfahrer	_	
+3-28	298-299	,	_	
+3-29	300-303	die	_	
+3-30	304-307	von	_	
+3-31	308-312	Nord	_	
+3-32	313-316	und	_	
+3-33	317-320	Süd	_	
+3-34	321-327	kommen	_	
+3-35	327-328	,	_	
+3-36	329-334	immer	_	
+3-37	335-338	auf	_	
+3-38	339-344	einen	_	
+3-39	345-359	Kollisionskurs	_	
+3-40	360-369	geschickt	_	
+3-41	369-370	.	_	

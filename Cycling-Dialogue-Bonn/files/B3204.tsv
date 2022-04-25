@@ -1,0 +1,53 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Angstraum durch schlechte Beleuchtung
+1-1	0-9	Angstraum	_	
+1-2	10-15	durch	_	
+1-3	16-25	schlechte	_	
+1-4	26-37	Beleuchtung	_	
+
+#Text=Bitte bessere Beleuchtung des Radweges um auf die Brücke zu kommen!
+2-1	40-45	Bitte	_	
+2-2	46-53	bessere	_	
+2-3	54-65	Beleuchtung	_	
+2-4	66-69	des	_	
+2-5	70-78	Radweges	_	
+2-6	79-81	um	_	
+2-7	82-85	auf	_	
+2-8	86-89	die	_	
+2-9	90-96	Brücke	_	
+2-10	97-99	zu	_	
+2-11	100-106	kommen	_	
+2-12	106-107	!	_	
+
+#Text=Im Winter morgens und abends sehr dunkel und unheimlich, dabei wird der Radweg viel von Radfahrern auf dem Weg zur Arbeit und zurück genutzt.
+3-1	108-110	Im	_	
+3-2	111-117	Winter	_	
+3-3	118-125	morgens	_	
+3-4	126-129	und	_	
+3-5	130-136	abends	_	
+3-6	137-141	sehr	_	
+3-7	142-148	dunkel	_	
+3-8	149-152	und	_	
+3-9	153-163	unheimlich	_	
+3-10	163-164	,	_	
+3-11	165-170	dabei	_	
+3-12	171-175	wird	_	
+3-13	176-179	der	_	
+3-14	180-186	Radweg	_	
+3-15	187-191	viel	_	
+3-16	192-195	von	_	
+3-17	196-206	Radfahrern	_	
+3-18	207-210	auf	_	
+3-19	211-214	dem	_	
+3-20	215-218	Weg	_	
+3-21	219-222	zur	_	
+3-22	223-229	Arbeit	_	
+3-23	230-233	und	_	
+3-24	234-240	zurück	_	
+3-25	241-248	genutzt	_	
+3-26	248-249	.	_	

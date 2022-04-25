@@ -1,0 +1,156 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radschnellweg Endenich-Tannenbusch-Nordbrücke
+1-1	0-13	Radschnellweg	*[10]	
+1-2	14-45	Endenich-Tannenbusch-Nordbrücke	*[10]	
+
+#Text=Pendler die vom Bonner Norden nach Troisdorf oder Siegburg radeln, vollziehen einen unsäglichen Hindernislauf.
+2-1	48-55	Pendler	_	
+2-2	56-59	die	_	
+2-3	60-63	vom	*[11]	
+2-4	64-70	Bonner	*[11]	
+2-5	71-77	Norden	*[11]	
+2-6	78-82	nach	*[11]	
+2-7	83-92	Troisdorf	*[11]	
+2-8	93-97	oder	*[11]	
+2-9	98-106	Siegburg	*[11]	
+2-10	107-113	radeln	_	
+2-11	113-114	,	_	
+2-12	115-125	vollziehen	_	
+2-13	126-131	einen	_	
+2-14	132-143	unsäglichen	_	
+2-15	144-157	Hindernislauf	_	
+2-16	157-158	.	_	
+
+#Text=Die einzelnen Hürden sind rund um Lievelingsweg, Kreisel, Kölnstraße,Ampel an AB-Abfahrt Beuel, etc. Schon beschrieben.
+3-1	159-162	Die	_	
+3-2	163-172	einzelnen	_	
+3-3	173-179	Hürden	_	
+3-4	180-184	sind	_	
+3-5	185-189	rund	*[12]	
+3-6	190-192	um	*[12]	
+3-7	193-206	Lievelingsweg	*[12]	
+3-8	206-207	,	*[12]	
+3-9	208-215	Kreisel	*[12]	
+3-10	215-216	,	*[12]	
+3-11	217-227	Kölnstraße	*[12]	
+3-12	227-228	,	*[12]	
+3-13	228-233	Ampel	*[12]	
+3-14	234-236	an	*[12]	
+3-15	237-247	AB-Abfahrt	*[12]	
+3-16	248-253	Beuel	*[12]	
+3-17	253-254	,	_	
+3-18	255-258	etc	_	
+3-19	258-259	.	_	
+3-20	260-265	Schon	_	
+3-21	266-277	beschrieben	_	
+3-22	277-278	.	_	
+
+#Text=Eine Stadt die Bonner aufs Rad bringen möchte, Verkehr modern gestalten möchte und sich mit Klimaschutz brüstet, sollte es Radlern leicht machen Arbeitsplätze in ca 15 km Entfernung barriere- und hürdenfrei zu erreichen.
+4-1	279-283	Eine	_	
+4-2	284-289	Stadt	_	
+4-3	290-293	die	_	
+4-4	294-300	Bonner	_	
+4-5	301-305	aufs	_	
+4-6	306-309	Rad	_	
+4-7	310-317	bringen	_	
+4-8	318-324	möchte	_	
+4-9	324-325	,	_	
+4-10	326-333	Verkehr	_	
+4-11	334-340	modern	_	
+4-12	341-350	gestalten	_	
+4-13	351-357	möchte	_	
+4-14	358-361	und	_	
+4-15	362-366	sich	_	
+4-16	367-370	mit	_	
+4-17	371-382	Klimaschutz	_	
+4-18	383-390	brüstet	_	
+4-19	390-391	,	_	
+4-20	392-398	sollte	_	
+4-21	399-401	es	_	
+4-22	402-409	Radlern	_	
+4-23	410-416	leicht	_	
+4-24	417-423	machen	_	
+4-25	424-437	Arbeitsplätze	_	
+4-26	438-440	in	_	
+4-27	441-443	ca	_	
+4-28	444-446	15	_	
+4-29	447-449	km	_	
+4-30	450-460	Entfernung	_	
+4-31	461-469	barriere	_	
+4-32	469-470	-	_	
+4-33	471-474	und	_	
+4-34	475-485	hürdenfrei	_	
+4-35	486-488	zu	_	
+4-36	489-498	erreichen	_	
+4-37	498-499	.	_	
+
+#Text=Auch auf der anderen Rheinseite.
+5-1	500-504	Auch	_	
+5-2	505-508	auf	_	
+5-3	509-512	der	_	
+5-4	513-520	anderen	_	
+5-5	521-531	Rheinseite	_	
+5-6	531-532	.	_	
+
+#Text=Für effizienten Kraftverkehr wird viel Geld ausgegeben- gut so.
+6-1	533-536	Für	_	
+6-2	537-548	effizienten	_	
+6-3	549-561	Kraftverkehr	_	
+6-4	562-566	wird	_	
+6-5	567-571	viel	_	
+6-6	572-576	Geld	_	
+6-7	577-587	ausgegeben	_	
+6-8	587-588	-	_	
+6-9	589-592	gut	_	
+6-10	593-595	so	_	
+6-11	595-596	.	_	
+
+#Text=Nun muss Geld für effizienten Radverkehr in die Hand genommen werden!
+7-1	597-600	Nun	_	
+7-2	601-605	muss	_	
+7-3	606-610	Geld	_	
+7-4	611-614	für	_	
+7-5	615-626	effizienten	_	
+7-6	627-637	Radverkehr	_	
+7-7	638-640	in	_	
+7-8	641-644	die	_	
+7-9	645-649	Hand	_	
+7-10	650-658	genommen	_	
+7-11	659-665	werden	_	
+7-12	665-666	!	_	
+
+#Text=Damit Radler auch sagen können - gut so!
+8-1	667-672	Damit	_	
+8-2	673-679	Radler	_	
+8-3	680-684	auch	_	
+8-4	685-690	sagen	_	
+8-5	691-697	können	_	
+8-6	698-699	-	_	
+8-7	700-703	gut	_	
+8-8	704-706	so	_	
+8-9	706-707	!	_	
+
+#Text=Mit dem Neubau des Tausendfüßlers muss ein Radschnellweg von Endenich über Tannenbusch über die Nordbrücke realisiert werden!
+9-1	708-711	Mit	_	
+9-2	712-715	dem	_	
+9-3	716-722	Neubau	_	
+9-4	723-726	des	_	
+9-5	727-741	Tausendfüßlers	_	
+9-6	742-746	muss	_	
+9-7	747-750	ein	_	
+9-8	751-764	Radschnellweg	_	
+9-9	765-768	von	*[13]	
+9-10	769-777	Endenich	*[13]	
+9-11	778-782	über	*[13]	
+9-12	783-794	Tannenbusch	*[13]	
+9-13	795-799	über	*[13]	
+9-14	800-803	die	*[13]	
+9-15	804-814	Nordbrücke	*[13]	
+9-16	815-825	realisiert	_	
+9-17	826-832	werden	_	
+9-18	832-833	!	_	

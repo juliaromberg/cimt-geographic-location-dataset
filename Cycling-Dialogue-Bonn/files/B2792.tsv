@@ -1,0 +1,81 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Radwegeführung
+1-1	0-11	Gefährliche	_	
+1-2	12-26	Radwegeführung	_	
+
+#Text=Hier ist eine Engstelle und viel Radverkehr: Deshalb Poller weg (mindestens einer) und ebenso mindestens ein oder zwei PKW-Stellplätze, die in der Engstelle liegen und nah an die unsäglichen Bonner Poller auf den Radrouten reichen.
+2-1	29-33	Hier	_	
+2-2	34-37	ist	_	
+2-3	38-42	eine	_	
+2-4	43-52	Engstelle	_	
+2-5	53-56	und	_	
+2-6	57-61	viel	_	
+2-7	62-72	Radverkehr	_	
+2-8	72-73	:	_	
+2-9	74-81	Deshalb	_	
+2-10	82-88	Poller	_	
+2-11	89-92	weg	_	
+2-12	93-94	(	_	
+2-13	94-104	mindestens	_	
+2-14	105-110	einer	_	
+2-15	110-111	)	_	
+2-16	112-115	und	_	
+2-17	116-122	ebenso	_	
+2-18	123-133	mindestens	_	
+2-19	134-137	ein	_	
+2-20	138-142	oder	_	
+2-21	143-147	zwei	_	
+2-22	148-163	PKW-Stellplätze	_	
+2-23	163-164	,	_	
+2-24	165-168	die	_	
+2-25	169-171	in	_	
+2-26	172-175	der	_	
+2-27	176-185	Engstelle	_	
+2-28	186-192	liegen	_	
+2-29	193-196	und	_	
+2-30	197-200	nah	_	
+2-31	201-203	an	_	
+2-32	204-207	die	_	
+2-33	208-219	unsäglichen	_	
+2-34	220-226	Bonner	_	
+2-35	227-233	Poller	_	
+2-36	234-237	auf	_	
+2-37	238-241	den	_	
+2-38	242-251	Radrouten	_	
+2-39	252-259	reichen	_	
+2-40	259-260	.	_	
+
+#Text=Außerdem ist die Markierung für Radfahrer, die den Wiesenweg von Osten kommend weiter geradeaus fahren wollen unsinnig, da sie nach rechts abbiegt bzw. abdrängt.
+3-1	261-269	Außerdem	_	
+3-2	270-273	ist	_	
+3-3	274-277	die	_	
+3-4	278-288	Markierung	_	
+3-5	289-292	für	_	
+3-6	293-302	Radfahrer	_	
+3-7	302-303	,	_	
+3-8	304-307	die	_	
+3-9	308-311	den	*[4]	
+3-10	312-321	Wiesenweg	*[4]	
+3-11	322-325	von	*[4]	
+3-12	326-331	Osten	*[4]	
+3-13	332-339	kommend	*[4]	
+3-14	340-346	weiter	*[4]	
+3-15	347-356	geradeaus	*[4]	
+3-16	357-363	fahren	*[4]	
+3-17	364-370	wollen	_	
+3-18	371-379	unsinnig	_	
+3-19	379-380	,	_	
+3-20	381-383	da	_	
+3-21	384-387	sie	_	
+3-22	388-392	nach	_	
+3-23	393-399	rechts	_	
+3-24	400-407	abbiegt	_	
+3-25	408-411	bzw	_	
+3-26	411-412	.	_	
+3-27	413-421	abdrängt	_	
+3-28	421-422	.	_	

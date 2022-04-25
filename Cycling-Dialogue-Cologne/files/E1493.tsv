@@ -1,0 +1,35 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radverkehrsführung
+1-1	0-18	Radverkehrsführung	_	
+
+#Text=Weinsbergstraße stadtauswärts zwischen Geisselstraße und Fröbelstraße Radweg wurde leider bei der schönen breiten Gehwegfläche entfernt.
+2-1	21-36	Weinsbergstraße	*[3]	
+2-2	37-50	stadtauswärts	*[3]	
+2-3	51-59	zwischen	*[3]	
+2-4	60-73	Geisselstraße	*[3]	
+2-5	74-77	und	*[3]	
+2-6	78-90	Fröbelstraße	*[3]	
+2-7	91-97	Radweg	_	
+2-8	98-103	wurde	_	
+2-9	104-110	leider	_	
+2-10	111-114	bei	_	
+2-11	115-118	der	_	
+2-12	119-126	schönen	_	
+2-13	127-134	breiten	_	
+2-14	135-147	Gehwegfläche	_	
+2-15	148-156	entfernt	_	
+2-16	156-157	.	_	
+
+#Text=Es fehlt ein Fahrradschutzstreifen auf der Fahrbahn
+3-1	158-160	Es	_	
+3-2	161-166	fehlt	_	
+3-3	167-170	ein	_	
+3-4	171-192	Fahrradschutzstreifen	_	
+3-5	193-196	auf	_	
+3-6	197-200	der	_	
+3-7	201-209	Fahrbahn	_	

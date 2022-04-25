@@ -1,0 +1,129 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Freilaufender Rechtsabbieger von der inneren Kanalstraße auf die Venloer Straße
+1-1	0-13	Freilaufender	_	
+1-2	14-28	Rechtsabbieger	*[7]	
+1-3	29-32	von	*[7]	
+1-4	33-36	der	*[7]	
+1-5	37-44	inneren	*[7]	
+1-6	45-56	Kanalstraße	*[7]	
+1-7	57-60	auf	*[7]	
+1-8	61-64	die	*[7]	
+1-9	65-72	Venloer	*[7]	
+1-10	73-79	Straße	*[7]	
+
+#Text=Ich finde, dass die Fahrradschutzstreifen in Verbindung mit dem freilaufenden Rechtsabbieger auf der inneren Kanalstraße in Richtung Venloer Straße/Ehrenfeld die Fahrradfahrer nicht ausreichend schützt.
+2-1	82-85	Ich	_	
+2-2	86-91	finde	_	
+2-3	91-92	,	_	
+2-4	93-97	dass	_	
+2-5	98-101	die	_	
+2-6	102-123	Fahrradschutzstreifen	_	
+2-7	124-126	in	_	
+2-8	127-137	Verbindung	_	
+2-9	138-141	mit	_	
+2-10	142-145	dem	_	
+2-11	146-159	freilaufenden	_	
+2-12	160-174	Rechtsabbieger	*[8]	
+2-13	175-178	auf	*[8]	
+2-14	179-182	der	*[8]	
+2-15	183-190	inneren	*[8]	
+2-16	191-202	Kanalstraße	*[8]	
+2-17	203-205	in	*[8]	
+2-18	206-214	Richtung	*[8]	
+2-19	215-222	Venloer	*[8]	
+2-20	223-229	Straße	*[8]	
+2-21	229-230	/	*[8]	
+2-22	230-239	Ehrenfeld	*[8]	
+2-23	240-243	die	_	
+2-24	244-257	Fahrradfahrer	_	
+2-25	258-263	nicht	_	
+2-26	264-275	ausreichend	_	
+2-27	276-283	schützt	_	
+2-28	283-284	.	_	
+
+#Text=Es gibt einen Schutzstreifen für Geradeausfahrer (auf der inneren Kanalstraße bleibend) und einen für Rechtsabbieger.
+3-1	285-287	Es	_	
+3-2	288-292	gibt	_	
+3-3	293-298	einen	_	
+3-4	299-313	Schutzstreifen	*[9]	
+3-5	314-317	für	*[9]	
+3-6	318-333	Geradeausfahrer	*[9]	
+3-7	334-335	(	*[9]	
+3-8	335-338	auf	*[9]	
+3-9	339-342	der	*[9]	
+3-10	343-350	inneren	*[9]	
+3-11	351-362	Kanalstraße	*[9]	
+3-12	363-371	bleibend	*[9]	
+3-13	371-372	)	*[9]	
+3-14	373-376	und	_	
+3-15	377-382	einen	_	
+3-16	383-386	für	_	
+3-17	387-401	Rechtsabbieger	_	
+3-18	401-402	.	_	
+
+#Text=Ich würde mir wünschen, dass die Fahrradwege hier viel deutlicher von der Fahrbahn abgegrenzt werden und Autofahrer noch deutlicher (durch Hinweisschilder) darauf hingewiesen werden, dass hier Fahrradfahrer beim Rechtsabbiegen kreuzen.
+4-1	403-406	Ich	_	
+4-2	407-412	würde	_	
+4-3	413-416	mir	_	
+4-4	417-425	wünschen	_	
+4-5	425-426	,	_	
+4-6	427-431	dass	_	
+4-7	432-435	die	_	
+4-8	436-447	Fahrradwege	_	
+4-9	448-452	hier	_	
+4-10	453-457	viel	_	
+4-11	458-468	deutlicher	_	
+4-12	469-472	von	_	
+4-13	473-476	der	_	
+4-14	477-485	Fahrbahn	_	
+4-15	486-496	abgegrenzt	_	
+4-16	497-503	werden	_	
+4-17	504-507	und	_	
+4-18	508-518	Autofahrer	_	
+4-19	519-523	noch	_	
+4-20	524-534	deutlicher	_	
+4-21	535-536	(	_	
+4-22	536-541	durch	_	
+4-23	542-557	Hinweisschilder	_	
+4-24	557-558	)	_	
+4-25	559-565	darauf	_	
+4-26	566-577	hingewiesen	_	
+4-27	578-584	werden	_	
+4-28	584-585	,	_	
+4-29	586-590	dass	_	
+4-30	591-595	hier	_	
+4-31	596-609	Fahrradfahrer	_	
+4-32	610-614	beim	_	
+4-33	615-629	Rechtsabbiegen	_	
+4-34	630-637	kreuzen	_	
+4-35	637-638	.	_	
+
+#Text=Meines Wissens gilt hier außerdem Tempo 70 auf der inneren Kanalstraße.
+5-1	639-645	Meines	_	
+5-2	646-653	Wissens	_	
+5-3	654-658	gilt	_	
+5-4	659-663	hier	_	
+5-5	664-672	außerdem	_	
+5-6	673-678	Tempo	_	
+5-7	679-681	70	_	
+5-8	682-685	auf	*[10]	
+5-9	686-689	der	*[10]	
+5-10	690-697	inneren	*[10]	
+5-11	698-709	Kanalstraße	*[10]	
+5-12	709-710	.	_	
+
+#Text=Eine Beschränkung auf durchgängig Tempo 50 wäre sichrerer.
+6-1	711-715	Eine	_	
+6-2	716-728	Beschränkung	_	
+6-3	729-732	auf	_	
+6-4	733-744	durchgängig	_	
+6-5	745-750	Tempo	_	
+6-6	751-753	50	_	
+6-7	754-758	wäre	_	
+6-8	759-768	sichrerer	_	
+6-9	768-769	.	_	

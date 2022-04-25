@@ -1,0 +1,20 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Scherbenhaufen
+1-1	0-14	Scherbenhaufen	_	
+
+#Text=Hier liegen regelmäßig Scherben auf der Fahrbahn/Schutzstreifen.
+2-1	17-21	Hier	_	
+2-2	22-28	liegen	_	
+2-3	29-39	regelmäßig	_	
+2-4	40-48	Scherben	_	
+2-5	49-52	auf	_	
+2-6	53-56	der	_	
+2-7	57-65	Fahrbahn	_	
+2-8	65-66	/	_	
+2-9	66-80	Schutzstreifen	_	
+2-10	80-81	.	_	

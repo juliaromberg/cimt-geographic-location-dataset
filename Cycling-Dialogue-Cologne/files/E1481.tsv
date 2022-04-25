@@ -1,0 +1,19 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=fehlende Abstellmöglichkeiten
+1-1	0-8	fehlende	_	
+1-2	9-29	Abstellmöglichkeiten	_	
+
+#Text=fehlende Fahrradabstellmöglichkeiten vor [Name des Biomarkts]
+2-1	32-40	fehlende	_	
+2-2	41-68	Fahrradabstellmöglichkeiten	_	
+2-3	69-72	vor	_	
+2-4	73-74	[	_	
+2-5	74-78	Name	_	
+2-6	79-82	des	_	
+2-7	83-92	Biomarkts	_	
+2-8	92-93	]	_	

@@ -1,0 +1,27 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradparkhaus am Bf. Ehrenfeld
+1-1	0-15	Fahrradparkhaus	_	
+1-2	16-18	am	*[3]	
+1-3	19-21	Bf	*[3]	
+1-4	21-22	.	*[3]	
+1-5	23-32	Ehrenfeld	*[3]	
+
+#Text=Wir brauchen ein Fahrradparkhaus am Bf. Ehrenfeld mit mindestens 500 Stellplätzen.
+2-1	35-38	Wir	_	
+2-2	39-47	brauchen	_	
+2-3	48-51	ein	_	
+2-4	52-67	Fahrradparkhaus	_	
+2-5	68-70	am	*[4]	
+2-6	71-73	Bf	*[4]	
+2-7	73-74	.	*[4]	
+2-8	75-84	Ehrenfeld	*[4]	
+2-9	85-88	mit	_	
+2-10	89-99	mindestens	_	
+2-11	100-103	500	_	
+2-12	104-116	Stellplätzen	_	
+2-13	116-117	.	_	

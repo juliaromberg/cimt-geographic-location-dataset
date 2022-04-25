@@ -1,0 +1,25 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schutzstreifen zugeparkt
+1-1	0-14	Schutzstreifen	_	
+1-2	15-24	zugeparkt	_	
+
+#Text=Auf diesem Teilstück der Konstantinstrasse ist der Fahrrad-Schutzstreifen immer von mehreren Autos zugeparkt.
+2-1	27-30	Auf	_	
+2-2	31-37	diesem	_	
+2-3	38-47	Teilstück	_	
+2-4	48-51	der	_	
+2-5	52-69	Konstantinstrasse	*	
+2-6	70-73	ist	_	
+2-7	74-77	der	_	
+2-8	78-100	Fahrrad-Schutzstreifen	_	
+2-9	101-106	immer	_	
+2-10	107-110	von	_	
+2-11	111-119	mehreren	_	
+2-12	120-125	Autos	_	
+2-13	126-135	zugeparkt	_	
+2-14	135-136	.	_	

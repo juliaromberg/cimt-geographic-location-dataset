@@ -1,0 +1,88 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Der Straßenbelag ist voll von Löchern
+1-1	0-3	Der	_	
+1-2	4-16	Straßenbelag	_	
+1-3	17-20	ist	_	
+1-4	21-25	voll	_	
+1-5	26-29	von	_	
+1-6	30-37	Löchern	_	
+
+#Text=Der Radwegbelag müsste dringend erneuert werden!
+2-1	40-43	Der	_	
+2-2	44-55	Radwegbelag	_	
+2-3	56-62	müsste	_	
+2-4	63-71	dringend	_	
+2-5	72-80	erneuert	_	
+2-6	81-87	werden	_	
+2-7	87-88	!	_	
+
+#Text=Es ist voll von Löchern und Risse - in der Dunkelheit muss man - trotz eine gute Lampe - sehr vorsichtig fahren um nicht die Balance zu verlieren.
+3-1	89-91	Es	_	
+3-2	92-95	ist	_	
+3-3	96-100	voll	_	
+3-4	101-104	von	_	
+3-5	105-112	Löchern	_	
+3-6	113-116	und	_	
+3-7	117-122	Risse	_	
+3-8	123-124	-	_	
+3-9	125-127	in	_	
+3-10	128-131	der	_	
+3-11	132-142	Dunkelheit	_	
+3-12	143-147	muss	_	
+3-13	148-151	man	_	
+3-14	152-153	-	_	
+3-15	154-159	trotz	_	
+3-16	160-164	eine	_	
+3-17	165-169	gute	_	
+3-18	170-175	Lampe	_	
+3-19	176-177	-	_	
+3-20	178-182	sehr	_	
+3-21	183-193	vorsichtig	_	
+3-22	194-200	fahren	_	
+3-23	201-203	um	_	
+3-24	204-209	nicht	_	
+3-25	210-213	die	_	
+3-26	214-221	Balance	_	
+3-27	222-224	zu	_	
+3-28	225-234	verlieren	_	
+3-29	234-235	.	_	
+
+#Text=Auch könnte man den gemeinsamen Fuß- und Radweg breiter machen, er ist ja einer der Hauptwege zum Rhein.
+4-1	236-240	Auch	_	
+4-2	241-247	könnte	_	
+4-3	248-251	man	_	
+4-4	252-255	den	_	
+4-5	256-267	gemeinsamen	_	
+4-6	268-271	Fuß	_	
+4-7	271-272	-	_	
+4-8	273-276	und	_	
+4-9	277-283	Radweg	_	
+4-10	284-291	breiter	_	
+4-11	292-298	machen	_	
+4-12	298-299	,	_	
+4-13	300-302	er	_	
+4-14	303-306	ist	_	
+4-15	307-309	ja	_	
+4-16	310-315	einer	_	
+4-17	316-319	der	_	
+4-18	320-329	Hauptwege	_	
+4-19	330-333	zum	*[6]	
+4-20	334-339	Rhein	*[6]	
+4-21	339-340	.	*[6]	
+
+#Text=Platz für einen breiteren Weg ist da ja genug.
+5-1	341-346	Platz	_	
+5-2	347-350	für	_	
+5-3	351-356	einen	_	
+5-4	357-366	breiteren	_	
+5-5	367-370	Weg	_	
+5-6	371-374	ist	_	
+5-7	375-377	da	_	
+5-8	378-380	ja	_	
+5-9	381-386	genug	_	
+5-10	386-387	.	_	

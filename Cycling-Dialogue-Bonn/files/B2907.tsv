@@ -1,0 +1,161 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Öffentlichkeitsarbeit: Für Fahrradstraßen sensibilisieren
+1-1	0-21	Öffentlichkeitsarbeit	_	
+1-2	21-22	:	_	
+1-3	23-26	Für	_	
+1-4	27-41	Fahrradstraßen	_	
+1-5	42-57	sensibilisieren	_	
+
+#Text=Der Raddialog zeigt bisher, dass sich in vielen Fahrradstraßen die Situation kaum verändert hat.
+2-1	60-63	Der	_	
+2-2	64-73	Raddialog	_	
+2-3	74-79	zeigt	_	
+2-4	80-86	bisher	_	
+2-5	86-87	,	_	
+2-6	88-92	dass	_	
+2-7	93-97	sich	_	
+2-8	98-100	in	_	
+2-9	101-107	vielen	_	
+2-10	108-122	Fahrradstraßen	_	
+2-11	123-126	die	_	
+2-12	127-136	Situation	_	
+2-13	137-141	kaum	_	
+2-14	142-151	verändert	_	
+2-15	152-155	hat	_	
+2-16	155-156	.	_	
+
+#Text=Vermutlich wissen die meisten Leute nicht genau, welche Rechte Radfahrer dort haben.
+3-1	157-167	Vermutlich	_	
+3-2	168-174	wissen	_	
+3-3	175-178	die	_	
+3-4	179-186	meisten	_	
+3-5	187-192	Leute	_	
+3-6	193-198	nicht	_	
+3-7	199-204	genau	_	
+3-8	204-205	,	_	
+3-9	206-212	welche	_	
+3-10	213-219	Rechte	_	
+3-11	220-229	Radfahrer	_	
+3-12	230-234	dort	_	
+3-13	235-240	haben	_	
+3-14	240-241	.	_	
+
+#Text=Daher schlage ich eine Maßnahme vor, die ich so im Nachbarland/Fahrradparadies aka in den Niederlanden entdeckt habe: Es könnten ein paar Banner gedruckt werden, auf denen man zwei Piktogramm-Radler nebeneinander fahren sieht, dazu ein Hinweis auf max.
+4-1	242-247	Daher	_	
+4-2	248-255	schlage	_	
+4-3	256-259	ich	_	
+4-4	260-264	eine	_	
+4-5	265-273	Maßnahme	_	
+4-6	274-277	vor	_	
+4-7	277-278	,	_	
+4-8	279-282	die	_	
+4-9	283-286	ich	_	
+4-10	287-289	so	_	
+4-11	290-292	im	_	
+4-12	293-304	Nachbarland	_	
+4-13	304-305	/	_	
+4-14	305-320	Fahrradparadies	_	
+4-15	321-324	aka	_	
+4-16	325-327	in	_	
+4-17	328-331	den	_	
+4-18	332-344	Niederlanden	_	
+4-19	345-353	entdeckt	_	
+4-20	354-358	habe	_	
+4-21	358-359	:	_	
+4-22	360-362	Es	_	
+4-23	363-370	könnten	_	
+4-24	371-374	ein	_	
+4-25	375-379	paar	_	
+4-26	380-386	Banner	_	
+4-27	387-395	gedruckt	_	
+4-28	396-402	werden	_	
+4-29	402-403	,	_	
+4-30	404-407	auf	_	
+4-31	408-413	denen	_	
+4-32	414-417	man	_	
+4-33	418-422	zwei	_	
+4-34	423-440	Piktogramm-Radler	_	
+4-35	441-454	nebeneinander	_	
+4-36	455-461	fahren	_	
+4-37	462-467	sieht	_	
+4-38	467-468	,	_	
+4-39	469-473	dazu	_	
+4-40	474-477	ein	_	
+4-41	478-485	Hinweis	_	
+4-42	486-489	auf	_	
+4-43	490-493	max	_	
+4-44	493-494	.	_	
+
+#Text=Tempo 30 und im Mittelpunkt ein Text wie Dies ist eine Fahrradstraße Autos sind hier nur Gast.
+5-1	495-500	Tempo	_	
+5-2	501-503	30	_	
+5-3	504-507	und	_	
+5-4	508-510	im	_	
+5-5	511-522	Mittelpunkt	_	
+5-6	523-526	ein	_	
+5-7	527-531	Text	_	
+5-8	532-535	wie	_	
+5-9	536-540	Dies	_	
+5-10	541-544	ist	_	
+5-11	545-549	eine	_	
+5-12	550-563	Fahrradstraße	_	
+5-13	564-569	Autos	_	
+5-14	570-574	sind	_	
+5-15	575-579	hier	_	
+5-16	580-583	nur	_	
+5-17	584-588	Gast	_	
+5-18	588-589	.	_	
+
+#Text=Vielleicht noch einen QR-Code daneben, der auf eine Seite leitet, auf der die Regeln der Fahrradstraße erklärt sind.
+6-1	590-600	Vielleicht	_	
+6-2	601-605	noch	_	
+6-3	606-611	einen	_	
+6-4	612-619	QR-Code	_	
+6-5	620-627	daneben	_	
+6-6	627-628	,	_	
+6-7	629-632	der	_	
+6-8	633-636	auf	_	
+6-9	637-641	eine	_	
+6-10	642-647	Seite	_	
+6-11	648-654	leitet	_	
+6-12	654-655	,	_	
+6-13	656-659	auf	_	
+6-14	660-663	der	_	
+6-15	664-667	die	_	
+6-16	668-674	Regeln	_	
+6-17	675-678	der	_	
+6-18	679-692	Fahrradstraße	_	
+6-19	693-700	erklärt	_	
+6-20	701-705	sind	_	
+6-21	705-706	.	_	
+
+#Text=Diese Banner könnte man in der Stadt alle paar Wochen wechselnd an/über Fahrradstraßen aufhängen und so für die geltenden Regeln sensibilisieren.
+7-1	707-712	Diese	_	
+7-2	713-719	Banner	_	
+7-3	720-726	könnte	_	
+7-4	727-730	man	_	
+7-5	731-733	in	_	
+7-6	734-737	der	_	
+7-7	738-743	Stadt	_	
+7-8	744-748	alle	_	
+7-9	749-753	paar	_	
+7-10	754-760	Wochen	_	
+7-11	761-770	wechselnd	_	
+7-12	771-773	an	_	
+7-13	773-774	/	_	
+7-14	774-778	über	_	
+7-15	779-793	Fahrradstraßen	_	
+7-16	794-803	aufhängen	_	
+7-17	804-807	und	_	
+7-18	808-810	so	_	
+7-19	811-814	für	_	
+7-20	815-818	die	_	
+7-21	819-828	geltenden	_	
+7-22	829-835	Regeln	_	
+7-23	836-851	sensibilisieren	_	
+7-24	851-852	.	_	

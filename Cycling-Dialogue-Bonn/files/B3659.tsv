@@ -1,0 +1,86 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradständer!
+1-1	0-14	Fahrradständer	_	
+1-2	14-15	!	_	
+
+#Text=Wenn wir wirlich Fahrradhauptstadt werden wollen, brauchen wir definitiv viel mehr Fahrradständer!
+2-1	18-22	Wenn	_	
+2-2	23-26	wir	_	
+2-3	27-34	wirlich	_	
+2-4	35-52	Fahrradhauptstadt	_	
+2-5	53-59	werden	_	
+2-6	60-66	wollen	_	
+2-7	66-67	,	_	
+2-8	68-76	brauchen	_	
+2-9	77-80	wir	_	
+2-10	81-90	definitiv	_	
+2-11	91-95	viel	_	
+2-12	96-100	mehr	_	
+2-13	101-115	Fahrradständer	_	
+2-14	115-116	!	_	
+
+#Text=Die Bonner wollen es ja (zum Glück!), sonst wären die Fahrradständer nicht immer so überfüllt...
+3-1	117-120	Die	_	
+3-2	121-127	Bonner	_	
+3-3	128-134	wollen	_	
+3-4	135-137	es	_	
+3-5	138-140	ja	_	
+3-6	141-142	(	_	
+3-7	142-145	zum	_	
+3-8	146-151	Glück	_	
+3-9	151-152	!	_	
+3-10	152-153	)	_	
+3-11	153-154	,	_	
+3-12	155-160	sonst	_	
+3-13	161-166	wären	_	
+3-14	167-170	die	_	
+3-15	171-185	Fahrradständer	_	
+3-16	186-191	nicht	_	
+3-17	192-197	immer	_	
+3-18	198-200	so	_	
+3-19	201-210	überfüllt	_	
+3-20	210-211	.	_	
+3-21	211-212	.	_	
+3-22	212-213	.	_	
+
+#Text=Mindestens hier: - Marktplatz/Rathaus - Kaiserplatz - Areal Hofgarten/Uni - Areal Puppenkönig/Basic - Friedrichstraße - Südstadt (Weberstraße/Ecke Bonner Talweg -> Einkaufszentrum des Viertels)
+4-1	214-224	Mindestens	_	
+4-2	225-229	hier	_	
+4-3	229-230	:	_	
+4-4	231-232	-	_	
+4-5	233-243	Marktplatz	*[5]	
+4-6	243-244	/	*[5]	
+4-7	244-251	Rathaus	*[5]	
+4-8	252-253	-	*[5]	
+4-9	254-265	Kaiserplatz	*[5]	
+4-10	266-267	-	*[5]	
+4-11	268-273	Areal	*[5]	
+4-12	274-283	Hofgarten	*[5]	
+4-13	283-284	/	*[5]	
+4-14	284-287	Uni	*[5]	
+4-15	288-289	-	*[5]	
+4-16	290-295	Areal	*[5]	
+4-17	296-307	Puppenkönig	*[5]	
+4-18	307-308	/	*[5]	
+4-19	308-313	Basic	*[5]	
+4-20	314-315	-	*[5]	
+4-21	316-331	Friedrichstraße	*[5]	
+4-22	332-333	-	*[5]	
+4-23	334-342	Südstadt	*[5]	
+4-24	343-344	(	*[5]	
+4-25	344-355	Weberstraße	*[5]	
+4-26	355-356	/	*[5]	
+4-27	356-360	Ecke	*[5]	
+4-28	361-367	Bonner	*[5]	
+4-29	368-374	Talweg	*[5]	
+4-30	375-376	-	_	
+4-31	376-377	>	_	
+4-32	378-393	Einkaufszentrum	_	
+4-33	394-397	des	_	
+4-34	398-406	Viertels	_	
+4-35	406-407	)	_	

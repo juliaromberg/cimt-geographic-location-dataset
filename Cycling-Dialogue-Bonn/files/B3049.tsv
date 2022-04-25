@@ -1,0 +1,54 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=rechts Abbieger
+1-1	0-6	rechts	_	
+1-2	7-15	Abbieger	_	
+
+#Text=Radfahrer auf dem Kaiser-Karl-Ring Richtung Augustusring werden auf einem von der Straße getrennten Radweg geführt, somit sind sie für rechts abbiegende Autofahrer nur schlecht vor der Kreuzung zu sehen.
+2-1	18-27	Radfahrer	_	
+2-2	28-31	auf	*[4]	
+2-3	32-35	dem	*[4]	
+2-4	36-52	Kaiser-Karl-Ring	*[4]	
+2-5	53-61	Richtung	*[4]	
+2-6	62-74	Augustusring	*[4]	
+2-7	75-81	werden	_	
+2-8	82-85	auf	_	
+2-9	86-91	einem	_	
+2-10	92-95	von	_	
+2-11	96-99	der	_	
+2-12	100-106	Straße	_	
+2-13	107-117	getrennten	_	
+2-14	118-124	Radweg	_	
+2-15	125-132	geführt	_	
+2-16	132-133	,	_	
+2-17	134-139	somit	_	
+2-18	140-144	sind	_	
+2-19	145-148	sie	_	
+2-20	149-152	für	_	
+2-21	153-159	rechts	_	
+2-22	160-170	abbiegende	_	
+2-23	171-181	Autofahrer	_	
+2-24	182-185	nur	_	
+2-25	186-194	schlecht	_	
+2-26	195-198	vor	_	
+2-27	199-202	der	_	
+2-28	203-211	Kreuzung	_	
+2-29	212-214	zu	_	
+2-30	215-220	sehen	_	
+2-31	220-221	.	_	
+
+#Text=Dies führt immer weider zu gefährlichen Situationen für Radfahrer.
+3-1	222-226	Dies	_	
+3-2	227-232	führt	_	
+3-3	233-238	immer	_	
+3-4	239-245	weider	_	
+3-5	246-248	zu	_	
+3-6	249-261	gefährlichen	_	
+3-7	262-273	Situationen	_	
+3-8	274-277	für	_	
+3-9	278-287	Radfahrer	_	
+3-10	287-288	.	_	

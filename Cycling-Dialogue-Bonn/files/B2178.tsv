@@ -1,0 +1,58 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefahrenstelle: Übergang Fahrbahn Bushaltestelle
+1-1	0-14	Gefahrenstelle	_	
+1-2	14-15	:	_	
+1-3	16-24	Übergang	_	
+1-4	25-33	Fahrbahn	_	
+1-5	34-48	Bushaltestelle	_	
+
+#Text=Der Übergang von der Fahrbahn zur Bushaltestelle ist schadhaft (Rille, Spurrille, Fahrbahnschäden, Schlagloch).
+2-1	51-54	Der	_	
+2-2	55-63	Übergang	_	
+2-3	64-67	von	_	
+2-4	68-71	der	_	
+2-5	72-80	Fahrbahn	_	
+2-6	81-84	zur	_	
+2-7	85-99	Bushaltestelle	_	
+2-8	100-103	ist	_	
+2-9	104-113	schadhaft	_	
+2-10	114-115	(	_	
+2-11	115-120	Rille	_	
+2-12	120-121	,	_	
+2-13	122-131	Spurrille	_	
+2-14	131-132	,	_	
+2-15	133-148	Fahrbahnschäden	_	
+2-16	148-149	,	_	
+2-17	150-160	Schlagloch	_	
+2-18	160-161	)	_	
+2-19	161-162	.	_	
+
+#Text=Fährt man rechts an den stehenden Autos vorbei, kann einen das gefährlich aus der Bahn werfen oder sogar zum Sturz führen.
+3-1	163-168	Fährt	_	
+3-2	169-172	man	_	
+3-3	173-179	rechts	_	
+3-4	180-182	an	_	
+3-5	183-186	den	_	
+3-6	187-196	stehenden	_	
+3-7	197-202	Autos	_	
+3-8	203-209	vorbei	_	
+3-9	209-210	,	_	
+3-10	211-215	kann	_	
+3-11	216-221	einen	_	
+3-12	222-225	das	_	
+3-13	226-236	gefährlich	_	
+3-14	237-240	aus	_	
+3-15	241-244	der	_	
+3-16	245-249	Bahn	_	
+3-17	250-256	werfen	_	
+3-18	257-261	oder	_	
+3-19	262-267	sogar	_	
+3-20	268-271	zum	_	
+3-21	272-277	Sturz	_	
+3-22	278-284	führen	_	
+3-23	284-285	.	_	

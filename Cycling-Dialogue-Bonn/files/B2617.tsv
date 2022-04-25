@@ -1,0 +1,160 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radverkehrsführung/Beschilderung/Ampeln
+1-1	0-18	Radverkehrsführung	_	
+1-2	18-19	/	_	
+1-3	19-32	Beschilderung	_	
+1-4	32-33	/	_	
+1-5	33-39	Ampeln	_	
+
+#Text=Es gibt einen kleinen schmalen blau markierten Schutzstreifen an der Ampel, wenn man vom Wilhelmplatz Richtung Rosental fährt.
+2-1	42-44	Es	_	
+2-2	45-49	gibt	_	
+2-3	50-55	einen	_	
+2-4	56-63	kleinen	_	
+2-5	64-72	schmalen	_	
+2-6	73-77	blau	_	
+2-7	78-88	markierten	_	
+2-8	89-103	Schutzstreifen	_	
+2-9	104-106	an	_	
+2-10	107-110	der	_	
+2-11	111-116	Ampel	_	
+2-12	116-117	,	_	
+2-13	118-122	wenn	_	
+2-14	123-126	man	_	
+2-15	127-130	vom	*[8]	
+2-16	131-143	Wilhelmplatz	*[8]	
+2-17	144-152	Richtung	*[8]	
+2-18	153-161	Rosental	*[8]	
+2-19	162-167	fährt	_	
+2-20	167-168	.	_	
+
+#Text=Die Autos stehen meistens so, dass man diesen Schutzstreifen gar nicht erreichen kann, was allerdings auch daran liegt, dass die Straße an der Stelle sehr schmal ist.
+3-1	169-172	Die	_	
+3-2	173-178	Autos	_	
+3-3	179-185	stehen	_	
+3-4	186-194	meistens	_	
+3-5	195-197	so	_	
+3-6	197-198	,	_	
+3-7	199-203	dass	_	
+3-8	204-207	man	_	
+3-9	208-214	diesen	_	
+3-10	215-229	Schutzstreifen	_	
+3-11	230-233	gar	_	
+3-12	234-239	nicht	_	
+3-13	240-249	erreichen	_	
+3-14	250-254	kann	_	
+3-15	254-255	,	_	
+3-16	256-259	was	_	
+3-17	260-270	allerdings	_	
+3-18	271-275	auch	_	
+3-19	276-281	daran	_	
+3-20	282-287	liegt	_	
+3-21	287-288	,	_	
+3-22	289-293	dass	_	
+3-23	294-297	die	_	
+3-24	298-304	Straße	_	
+3-25	305-307	an	_	
+3-26	308-311	der	_	
+3-27	312-318	Stelle	_	
+3-28	319-323	sehr	_	
+3-29	324-330	schmal	_	
+3-30	331-334	ist	_	
+3-31	334-335	.	_	
+
+#Text=Ein Dauerkonflikt ist hier vorprogrammiert.
+4-1	336-339	Ein	_	
+4-2	340-353	Dauerkonflikt	_	
+4-3	354-357	ist	_	
+4-4	358-362	hier	_	
+4-5	363-378	vorprogrammiert	_	
+4-6	378-379	.	_	
+
+#Text=Richtig problematisch ist es, dass Radfahrer im Gegensatz zu den Autofahrern auch geradeaus weiter auf der Kölnstraße fahren dürfen und nicht nur rechts in den Rosental abbiegen dürfen.
+5-1	380-387	Richtig	_	
+5-2	388-401	problematisch	_	
+5-3	402-405	ist	_	
+5-4	406-408	es	_	
+5-5	408-409	,	_	
+5-6	410-414	dass	_	
+5-7	415-424	Radfahrer	_	
+5-8	425-427	im	_	
+5-9	428-437	Gegensatz	_	
+5-10	438-440	zu	_	
+5-11	441-444	den	_	
+5-12	445-456	Autofahrern	_	
+5-13	457-461	auch	_	
+5-14	462-471	geradeaus	*[9]	
+5-15	472-478	weiter	*[9]	
+5-16	479-482	auf	*[9]	
+5-17	483-486	der	*[9]	
+5-18	487-497	Kölnstraße	*[9]	
+5-19	498-504	fahren	*[9]	
+5-20	505-511	dürfen	*[9]	
+5-21	512-515	und	*[9]	
+5-22	516-521	nicht	*[9]	
+5-23	522-525	nur	*[9]	
+5-24	526-532	rechts	*[9]	
+5-25	533-535	in	*[9]	
+5-26	536-539	den	*[9]	
+5-27	540-548	Rosental	*[9]	
+5-28	549-557	abbiegen	*[9]	
+5-29	558-564	dürfen	_	
+5-30	564-565	.	_	
+
+#Text=Hier wäre es enorm hilfreich, wenn es eine Radfahrerampel gäbe und Radfahrer so vor den Autos schon die Kreuzung verlassen hätten.
+6-1	566-570	Hier	_	
+6-2	571-575	wäre	_	
+6-3	576-578	es	_	
+6-4	579-584	enorm	_	
+6-5	585-594	hilfreich	_	
+6-6	594-595	,	_	
+6-7	596-600	wenn	_	
+6-8	601-603	es	_	
+6-9	604-608	eine	_	
+6-10	609-623	Radfahrerampel	_	
+6-11	624-628	gäbe	_	
+6-12	629-632	und	_	
+6-13	633-642	Radfahrer	_	
+6-14	643-645	so	_	
+6-15	646-649	vor	_	
+6-16	650-653	den	_	
+6-17	654-659	Autos	_	
+6-18	660-665	schon	_	
+6-19	666-669	die	_	
+6-20	670-678	Kreuzung	_	
+6-21	679-688	verlassen	_	
+6-22	689-695	hätten	_	
+6-23	695-696	.	_	
+
+#Text=Die Beschilderung ist für Autofahrer sehr schlecht, sodass sie häufig hupen, da sie davon ausgehen, dass auch Radfahrer nur rechts abbiegen dürfen.
+7-1	697-700	Die	_	
+7-2	701-714	Beschilderung	_	
+7-3	715-718	ist	_	
+7-4	719-722	für	_	
+7-5	723-733	Autofahrer	_	
+7-6	734-738	sehr	_	
+7-7	739-747	schlecht	_	
+7-8	747-748	,	_	
+7-9	749-755	sodass	_	
+7-10	756-759	sie	_	
+7-11	760-766	häufig	_	
+7-12	767-772	hupen	_	
+7-13	772-773	,	_	
+7-14	774-776	da	_	
+7-15	777-780	sie	_	
+7-16	781-786	davon	_	
+7-17	787-795	ausgehen	_	
+7-18	795-796	,	_	
+7-19	797-801	dass	_	
+7-20	802-806	auch	_	
+7-21	807-816	Radfahrer	_	
+7-22	817-820	nur	_	
+7-23	821-827	rechts	_	
+7-24	828-836	abbiegen	_	
+7-25	837-843	dürfen	_	
+7-26	843-844	.	_	

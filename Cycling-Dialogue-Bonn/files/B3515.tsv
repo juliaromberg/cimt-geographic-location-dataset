@@ -1,0 +1,21 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bordsteinkante
+1-1	0-14	Bordsteinkante	_	
+
+#Text=Hier bitte einen weicheren Übergang zwischen Radweg und Straße schaffen.
+2-1	17-21	Hier	_	
+2-2	22-27	bitte	_	
+2-3	28-33	einen	_	
+2-4	34-43	weicheren	_	
+2-5	44-52	Übergang	_	
+2-6	53-61	zwischen	_	
+2-7	62-68	Radweg	_	
+2-8	69-72	und	_	
+2-9	73-79	Straße	_	
+2-10	80-88	schaffen	_	
+2-11	88-89	.	_	

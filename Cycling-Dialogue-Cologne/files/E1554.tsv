@@ -1,0 +1,59 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Richtige Radwege auf der Venloerstraße an Stelle der Fahrbahnmarkierungen
+1-1	0-8	Richtige	_	
+1-2	9-16	Radwege	*[4]	
+1-3	17-20	auf	*[4]	
+1-4	21-24	der	*[4]	
+1-5	25-38	Venloerstraße	*[4]	
+1-6	39-41	an	*[4]	
+1-7	42-48	Stelle	*[4]	
+1-8	49-52	der	*[4]	
+1-9	53-73	Fahrbahnmarkierungen	*[4]	
+
+#Text=Richtige Radwege auf der Venloerstraße an Stelle der Fahrbahnmarkierungen, die sehr oft von Autos in zweiter Reihe zugeparkt werden und überhaupt kein sicheres Fahrgefühl ermöglichen.
+2-1	76-84	Richtige	_	
+2-2	85-92	Radwege	*[5]	
+2-3	93-96	auf	*[5]	
+2-4	97-100	der	*[5]	
+2-5	101-114	Venloerstraße	*[5]	
+2-6	115-117	an	*[5]	
+2-7	118-124	Stelle	*[5]	
+2-8	125-128	der	*[5]	
+2-9	129-149	Fahrbahnmarkierungen	*[5]	
+2-10	149-150	,	_	
+2-11	151-154	die	_	
+2-12	155-159	sehr	_	
+2-13	160-163	oft	_	
+2-14	164-167	von	_	
+2-15	168-173	Autos	_	
+2-16	174-176	in	_	
+2-17	177-184	zweiter	_	
+2-18	185-190	Reihe	_	
+2-19	191-200	zugeparkt	_	
+2-20	201-207	werden	_	
+2-21	208-211	und	_	
+2-22	212-221	überhaupt	_	
+2-23	222-226	kein	_	
+2-24	227-235	sicheres	_	
+2-25	236-246	Fahrgefühl	_	
+2-26	247-258	ermöglichen	_	
+2-27	258-259	.	_	
+
+#Text=Als Fahrradfahrer fühlt man sich wie eine menschliche Geschwindigkeitsbegrenzung für Autofahrer.
+3-1	260-263	Als	_	
+3-2	264-277	Fahrradfahrer	_	
+3-3	278-283	fühlt	_	
+3-4	284-287	man	_	
+3-5	288-292	sich	_	
+3-6	293-296	wie	_	
+3-7	297-301	eine	_	
+3-8	302-313	menschliche	_	
+3-9	314-340	Geschwindigkeitsbegrenzung	_	
+3-10	341-344	für	_	
+3-11	345-355	Autofahrer	_	
+3-12	355-356	.	_	

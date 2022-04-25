@@ -1,0 +1,35 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=»Schutzstreifen« im Türbereich der parkenden Autos
+1-1	0-1	»	_	
+1-2	1-15	Schutzstreifen	_	
+1-3	15-16	«	_	
+1-4	17-19	im	_	
+1-5	20-30	Türbereich	_	
+1-6	31-34	der	_	
+1-7	35-44	parkenden	_	
+1-8	45-50	Autos	_	
+
+#Text=Ab diesem Punkt Richtung Norden ist ein Schutzstreifen, der direkt im Türbereich der parkenden Autos verläuft.
+2-1	53-55	Ab	_	
+2-2	56-62	diesem	_	
+2-3	63-68	Punkt	_	
+2-4	69-77	Richtung	_	
+2-5	78-84	Norden	_	
+2-6	85-88	ist	_	
+2-7	89-92	ein	_	
+2-8	93-107	Schutzstreifen	_	
+2-9	107-108	,	_	
+2-10	109-112	der	_	
+2-11	113-119	direkt	_	
+2-12	120-122	im	_	
+2-13	123-133	Türbereich	_	
+2-14	134-137	der	_	
+2-15	138-147	parkenden	_	
+2-16	148-153	Autos	_	
+2-17	154-162	verläuft	_	
+2-18	162-163	.	_	

@@ -1,0 +1,56 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg sicherer gestalten
+1-1	0-6	Radweg	_	
+1-2	7-15	sicherer	_	
+1-3	16-25	gestalten	_	
+
+#Text=Die Straße ist sehr eng und es kommt immer wieder zu sehr unangenehmen Situationen, wenn man hier mit dem Fahrrad auf den eingezeichneten schmalen Streifen zwischen parkenden Autos und fließendem Verkehr fährt.
+2-1	28-31	Die	_	
+2-2	32-38	Straße	_	
+2-3	39-42	ist	_	
+2-4	43-47	sehr	_	
+2-5	48-51	eng	_	
+2-6	52-55	und	_	
+2-7	56-58	es	_	
+2-8	59-64	kommt	_	
+2-9	65-70	immer	_	
+2-10	71-77	wieder	_	
+2-11	78-80	zu	_	
+2-12	81-85	sehr	_	
+2-13	86-98	unangenehmen	_	
+2-14	99-110	Situationen	_	
+2-15	110-111	,	_	
+2-16	112-116	wenn	_	
+2-17	117-120	man	_	
+2-18	121-125	hier	_	
+2-19	126-129	mit	_	
+2-20	130-133	dem	_	
+2-21	134-141	Fahrrad	_	
+2-22	142-145	auf	_	
+2-23	146-149	den	_	
+2-24	150-165	eingezeichneten	_	
+2-25	166-174	schmalen	_	
+2-26	175-183	Streifen	_	
+2-27	184-192	zwischen	_	
+2-28	193-202	parkenden	_	
+2-29	203-208	Autos	_	
+2-30	209-212	und	_	
+2-31	213-223	fließendem	_	
+2-32	224-231	Verkehr	_	
+2-33	232-237	fährt	_	
+2-34	237-238	.	_	
+
+#Text=Es sollte ein echter Radweg geplant werden.
+3-1	239-241	Es	_	
+3-2	242-248	sollte	_	
+3-3	249-252	ein	_	
+3-4	253-259	echter	_	
+3-5	260-266	Radweg	_	
+3-6	267-274	geplant	_	
+3-7	275-281	werden	_	
+3-8	281-282	.	_	

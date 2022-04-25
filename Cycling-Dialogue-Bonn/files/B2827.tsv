@@ -1,0 +1,12 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rampe asphaltieren, Kopfsteinpflaster entfernen
+1-1	0-5	Rampe	_	
+1-2	6-18	asphaltieren	_	
+1-3	18-19	,	_	
+1-4	20-37	Kopfsteinpflaster	_	
+1-5	38-47	entfernen	_	

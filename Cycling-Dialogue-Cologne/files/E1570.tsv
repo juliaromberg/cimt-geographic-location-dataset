@@ -1,0 +1,98 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Engpass beseitigen
+1-1	0-7	Engpass	_	
+1-2	8-18	beseitigen	_	
+
+#Text=Schon jetzt sind Rad- und Gehweg an dieser Stelle eng.
+2-1	21-26	Schon	_	
+2-2	27-32	jetzt	_	
+2-3	33-37	sind	_	
+2-4	38-41	Rad	_	
+2-5	41-42	-	_	
+2-6	43-46	und	_	
+2-7	47-53	Gehweg	_	
+2-8	54-56	an	_	
+2-9	57-63	dieser	_	
+2-10	64-70	Stelle	_	
+2-11	71-74	eng	_	
+2-12	74-75	.	_	
+
+#Text=Und dies wird noch schlimmer, wenn das Heliosgelände erst einmal bebaut ist.
+3-1	76-79	Und	_	
+3-2	80-84	dies	_	
+3-3	85-89	wird	_	
+3-4	90-94	noch	_	
+3-5	95-104	schlimmer	_	
+3-6	104-105	,	_	
+3-7	106-110	wenn	_	
+3-8	111-114	das	*[7]	
+3-9	115-128	Heliosgelände	*[7]	
+3-10	129-133	erst	_	
+3-11	134-140	einmal	_	
+3-12	141-147	bebaut	_	
+3-13	148-151	ist	_	
+3-14	151-152	.	_	
+
+#Text=Bitte die bisherigen Planungen zum Heliosgelände dahingehend prüfen, ob die Erreichbarkeit, das Verlassen und die Durchwegung ausreichend sind.
+4-1	153-158	Bitte	_	
+4-2	159-162	die	_	
+4-3	163-173	bisherigen	_	
+4-4	174-183	Planungen	_	
+4-5	184-187	zum	_	
+4-6	188-201	Heliosgelände	*	
+4-7	202-213	dahingehend	_	
+4-8	214-220	prüfen	_	
+4-9	220-221	,	_	
+4-10	222-224	ob	_	
+4-11	225-228	die	_	
+4-12	229-243	Erreichbarkeit	_	
+4-13	243-244	,	_	
+4-14	245-248	das	_	
+4-15	249-258	Verlassen	_	
+4-16	259-262	und	_	
+4-17	263-266	die	_	
+4-18	267-278	Durchwegung	_	
+4-19	279-290	ausreichend	_	
+4-20	291-295	sind	_	
+4-21	295-296	.	_	
+
+#Text=An der markierten Stelle werden wir vermutlich einen Zweirichtungsradweg benötigen und der braucht Platz.
+5-1	297-299	An	_	
+5-2	300-303	der	_	
+5-3	304-314	markierten	_	
+5-4	315-321	Stelle	_	
+5-5	322-328	werden	_	
+5-6	329-332	wir	_	
+5-7	333-343	vermutlich	_	
+5-8	344-349	einen	_	
+5-9	350-369	Zweirichtungsradweg	_	
+5-10	370-379	benötigen	_	
+5-11	380-383	und	_	
+5-12	384-387	der	_	
+5-13	388-395	braucht	_	
+5-14	396-401	Platz	_	
+5-15	401-402	.	_	
+
+#Text=Daher bitte auch darüber nachdenken, ob hier dem Autoverkehr nicht eine Spur genommen werden muss.
+6-1	403-408	Daher	_	
+6-2	409-414	bitte	_	
+6-3	415-419	auch	_	
+6-4	420-427	darüber	_	
+6-5	428-438	nachdenken	_	
+6-6	438-439	,	_	
+6-7	440-442	ob	_	
+6-8	443-447	hier	_	
+6-9	448-451	dem	_	
+6-10	452-463	Autoverkehr	_	
+6-11	464-469	nicht	_	
+6-12	470-474	eine	_	
+6-13	475-479	Spur	_	
+6-14	480-488	genommen	_	
+6-15	489-495	werden	_	
+6-16	496-500	muss	_	
+6-17	500-501	.	_	

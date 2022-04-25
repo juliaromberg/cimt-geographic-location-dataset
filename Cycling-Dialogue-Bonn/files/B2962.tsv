@@ -1,0 +1,116 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Brücke für Fußgänger und Radfahrer muss gebaut werden
+1-1	0-6	Brücke	_	
+1-2	7-10	für	_	
+1-3	11-20	Fußgänger	_	
+1-4	21-24	und	_	
+1-5	25-34	Radfahrer	_	
+1-6	35-39	muss	_	
+1-7	40-46	gebaut	_	
+1-8	47-53	werden	_	
+
+#Text=Die Überquerung der Schienen ist meistens schwierig, weil das Überklettern der Schranken illegal ist.
+2-1	56-59	Die	_	
+2-2	60-71	Überquerung	_	
+2-3	72-75	der	_	
+2-4	76-84	Schienen	_	
+2-5	85-88	ist	_	
+2-6	89-97	meistens	_	
+2-7	98-107	schwierig	_	
+2-8	107-108	,	_	
+2-9	109-113	weil	_	
+2-10	114-117	das	_	
+2-11	118-130	Überklettern	_	
+2-12	131-134	der	_	
+2-13	135-144	Schranken	_	
+2-14	145-152	illegal	_	
+2-15	153-156	ist	_	
+2-16	156-157	.	_	
+
+#Text=Seit die Kreuzungen umgestaltet und die Ampelschaltungen verändert wurden und die Bahn offensichtlich die Dauer der Schrankenschließung verlängert hat, sind alle sogenannten Übergänge ein einziges Ärgernis.
+3-1	158-162	Seit	_	
+3-2	163-166	die	_	
+3-3	167-177	Kreuzungen	_	
+3-4	178-189	umgestaltet	_	
+3-5	190-193	und	_	
+3-6	194-197	die	_	
+3-7	198-214	Ampelschaltungen	_	
+3-8	215-224	verändert	_	
+3-9	225-231	wurden	_	
+3-10	232-235	und	_	
+3-11	236-239	die	_	
+3-12	240-244	Bahn	_	
+3-13	245-259	offensichtlich	_	
+3-14	260-263	die	_	
+3-15	264-269	Dauer	_	
+3-16	270-273	der	_	
+3-17	274-293	Schrankenschließung	_	
+3-18	294-304	verlängert	_	
+3-19	305-308	hat	_	
+3-20	308-309	,	_	
+3-21	310-314	sind	_	
+3-22	315-319	alle	_	
+3-23	320-331	sogenannten	_	
+3-24	332-341	Übergänge	_	
+3-25	342-345	ein	_	
+3-26	346-354	einziges	_	
+3-27	355-363	Ärgernis	_	
+3-28	363-364	.	_	
+
+#Text=Wenigstens hier an der Dottendorfer Str. sollte es eine Möglichkeit für Fußgänger und Radfahrer geben, die Bahnlinie zu überqueren.
+4-1	365-375	Wenigstens	_	
+4-2	376-380	hier	_	
+4-3	381-383	an	*[6]	
+4-4	384-387	der	*[6]	
+4-5	388-400	Dottendorfer	*[6]	
+4-6	401-404	Str	*[6]	
+4-7	404-405	.	_	
+4-8	406-412	sollte	_	
+4-9	413-415	es	_	
+4-10	416-420	eine	_	
+4-11	421-432	Möglichkeit	_	
+4-12	433-436	für	_	
+4-13	437-446	Fußgänger	_	
+4-14	447-450	und	_	
+4-15	451-460	Radfahrer	_	
+4-16	461-466	geben	_	
+4-17	466-467	,	_	
+4-18	468-471	die	_	
+4-19	472-481	Bahnlinie	_	
+4-20	482-484	zu	_	
+4-21	485-495	überqueren	_	
+4-22	495-496	.	_	
+
+#Text=Übrigens müssen auch die Schüler des FEG hier rüber, nicht nur auf dem Schulweg, sondern auch, um zum Sportunterricht im Wasserland zu kommen.
+5-1	497-505	Übrigens	_	
+5-2	506-512	müssen	_	
+5-3	513-517	auch	_	
+5-4	518-521	die	_	
+5-5	522-529	Schüler	_	
+5-6	530-533	des	_	
+5-7	534-537	FEG	*	
+5-8	538-542	hier	_	
+5-9	543-548	rüber	_	
+5-10	548-549	,	_	
+5-11	550-555	nicht	_	
+5-12	556-559	nur	_	
+5-13	560-563	auf	_	
+5-14	564-567	dem	_	
+5-15	568-576	Schulweg	_	
+5-16	576-577	,	_	
+5-17	578-585	sondern	_	
+5-18	586-590	auch	_	
+5-19	590-591	,	_	
+5-20	592-594	um	_	
+5-21	595-598	zum	_	
+5-22	599-614	Sportunterricht	_	
+5-23	615-617	im	*[7]	
+5-24	618-628	Wasserland	*[7]	
+5-25	629-631	zu	_	
+5-26	632-638	kommen	_	
+5-27	638-639	.	_	

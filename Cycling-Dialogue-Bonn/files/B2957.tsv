@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Grünen Pfeil abschaffen!
+1-1	0-6	Grünen	_	
+1-2	7-12	Pfeil	_	
+1-3	13-23	abschaffen	_	
+1-4	23-24	!	_	
+
+#Text=Der grüne Pfeil führt regelmäßig zu gefährlichen Situationen, weil es zu viele Autofahrer gibt, die nicht wissen, dass er gleichbedeutend mit einem Stoppschild ist.
+2-1	27-30	Der	_	
+2-2	31-36	grüne	_	
+2-3	37-42	Pfeil	_	
+2-4	43-48	führt	_	
+2-5	49-59	regelmäßig	_	
+2-6	60-62	zu	_	
+2-7	63-75	gefährlichen	_	
+2-8	76-87	Situationen	_	
+2-9	87-88	,	_	
+2-10	89-93	weil	_	
+2-11	94-96	es	_	
+2-12	97-99	zu	_	
+2-13	100-105	viele	_	
+2-14	106-116	Autofahrer	_	
+2-15	117-121	gibt	_	
+2-16	121-122	,	_	
+2-17	123-126	die	_	
+2-18	127-132	nicht	_	
+2-19	133-139	wissen	_	
+2-20	139-140	,	_	
+2-21	141-145	dass	_	
+2-22	146-148	er	_	
+2-23	149-164	gleichbedeutend	_	
+2-24	165-168	mit	_	
+2-25	169-174	einem	_	
+2-26	175-186	Stoppschild	_	
+2-27	187-190	ist	_	
+2-28	190-191	.	_	
+
+#Text=Sie begreifen ihn als Lizenz zum Abbiegen ohne anzuhalten (wenn die Ampel gerade auf Rot geschaltet hat vor allem - täglich besonders nachmittags im Berufsverkehr zu sehen).
+3-1	192-195	Sie	_	
+3-2	196-205	begreifen	_	
+3-3	206-209	ihn	_	
+3-4	210-213	als	_	
+3-5	214-220	Lizenz	_	
+3-6	221-224	zum	_	
+3-7	225-233	Abbiegen	_	
+3-8	234-238	ohne	_	
+3-9	239-249	anzuhalten	_	
+3-10	250-251	(	_	
+3-11	251-255	wenn	_	
+3-12	256-259	die	_	
+3-13	260-265	Ampel	_	
+3-14	266-272	gerade	_	
+3-15	273-276	auf	_	
+3-16	277-280	Rot	_	
+3-17	281-291	geschaltet	_	
+3-18	292-295	hat	_	
+3-19	296-299	vor	_	
+3-20	300-305	allem	_	
+3-21	306-307	-	_	
+3-22	308-315	täglich	_	
+3-23	316-325	besonders	_	
+3-24	326-337	nachmittags	_	
+3-25	338-340	im	_	
+3-26	341-354	Berufsverkehr	_	
+3-27	355-357	zu	_	
+3-28	358-363	sehen	_	
+3-29	363-364	)	_	
+3-30	364-365	.	_	
+
+#Text=Und die, die nicht abbiegen können, stehen auf der Abstellfläche für Radfahrer.
+4-1	366-369	Und	_	
+4-2	370-373	die	_	
+4-3	373-374	,	_	
+4-4	375-378	die	_	
+4-5	379-384	nicht	_	
+4-6	385-393	abbiegen	_	
+4-7	394-400	können	_	
+4-8	400-401	,	_	
+4-9	402-408	stehen	_	
+4-10	409-412	auf	_	
+4-11	413-416	der	_	
+4-12	417-430	Abstellfläche	_	
+4-13	431-434	für	_	
+4-14	435-444	Radfahrer	_	
+4-15	444-445	.	_	

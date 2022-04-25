@@ -1,0 +1,53 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Freigabe der Kaufmannstraße in Gegenrichtung.
+1-1	0-8	Freigabe	_	
+1-2	9-12	der	_	
+1-3	13-27	Kaufmannstraße	*	
+1-4	28-30	in	_	
+1-5	31-44	Gegenrichtung	_	
+1-6	44-45	.	_	
+
+#Text=Dafür eine Autospur an der Ausfart zur Endenicher Straße wegnehmen.
+2-1	46-51	Dafür	_	
+2-2	52-56	eine	_	
+2-3	57-65	Autospur	_	
+2-4	66-68	an	*[5]	
+2-5	69-72	der	*[5]	
+2-6	73-80	Ausfart	*[5]	
+2-7	81-84	zur	*[5]	
+2-8	85-95	Endenicher	*[5]	
+2-9	96-102	Straße	*[5]	
+2-10	103-112	wegnehmen	_	
+2-11	112-113	.	_	
+
+#Text=Ein zweispuriges Abbiegen aus so einer kleinen Straße für Autos ist nun wirklich etwas dekadent.
+3-1	116-119	Ein	_	
+3-2	120-132	zweispuriges	_	
+3-3	133-141	Abbiegen	_	
+3-4	142-145	aus	_	
+3-5	146-148	so	_	
+3-6	149-154	einer	_	
+3-7	155-162	kleinen	_	
+3-8	163-169	Straße	_	
+3-9	170-173	für	_	
+3-10	174-179	Autos	_	
+3-11	180-183	ist	_	
+3-12	184-187	nun	_	
+3-13	188-196	wirklich	_	
+3-14	197-202	etwas	_	
+3-15	203-211	dekadent	_	
+3-16	211-212	.	_	
+
+#Text=Die 1960er Jahre sind bereits vorbei.
+4-1	213-216	Die	_	
+4-2	217-223	1960er	_	
+4-3	224-229	Jahre	_	
+4-4	230-234	sind	_	
+4-5	235-242	bereits	_	
+4-6	243-249	vorbei	_	
+4-7	249-250	.	_	

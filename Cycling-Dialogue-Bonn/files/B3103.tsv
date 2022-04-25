@@ -1,0 +1,125 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefahrenstelle durch Konvexspiegel entschärfen
+1-1	0-14	Gefahrenstelle	_	
+1-2	15-20	durch	_	
+1-3	21-34	Konvexspiegel	_	
+1-4	35-46	entschärfen	_	
+
+#Text=Der intensiv genutzte Uferradweg zwischen Kennedy- und Ebertbrücke verläuft durch die Wolfsgasse, wo sie am Straßenende in einem 90 Grad Winkel auf den Damm hochführt, bzw. aus umgekehrter Richtung herunter führt.
+2-1	49-52	Der	_	
+2-2	53-61	intensiv	_	
+2-3	62-70	genutzte	_	
+2-4	71-81	Uferradweg	*[7]	
+2-5	82-90	zwischen	*[7]	
+2-6	91-98	Kennedy	*[7]	
+2-7	98-99	-	*[7]	
+2-8	100-103	und	*[7]	
+2-9	104-115	Ebertbrücke	*[7]	
+2-10	116-124	verläuft	*[7]	
+2-11	125-130	durch	*[7]	
+2-12	131-134	die	*[7]	
+2-13	135-145	Wolfsgasse	*[7]	
+2-14	145-146	,	_	
+2-15	147-149	wo	_	
+2-16	150-153	sie	_	
+2-17	154-156	am	_	
+2-18	157-168	Straßenende	_	
+2-19	169-171	in	_	
+2-20	172-177	einem	_	
+2-21	178-180	90	_	
+2-22	181-185	Grad	_	
+2-23	186-192	Winkel	_	
+2-24	193-196	auf	_	
+2-25	197-200	den	_	
+2-26	201-205	Damm	_	
+2-27	206-215	hochführt	_	
+2-28	215-216	,	_	
+2-29	217-220	bzw	_	
+2-30	220-221	.	_	
+2-31	222-225	aus	_	
+2-32	226-237	umgekehrter	_	
+2-33	238-246	Richtung	_	
+2-34	247-255	herunter	_	
+2-35	256-261	führt	_	
+2-36	261-262	.	_	
+
+#Text=Siehe https://www.google.de/maps/@50.7446907,7.1140967,82a,35y,39.55t/data=!3m1!1e3
+3-1	263-268	Siehe	_	
+3-2	269-274	https	_	
+3-3	274-275	:	_	
+3-4	275-276	/	_	
+3-5	276-277	/	_	
+3-6	277-290	www.google.de	_	
+3-7	290-291	/	_	
+3-8	291-295	maps	_	
+3-9	295-296	/	_	
+3-10	296-297	@	_	
+3-11	297-321	50.7446907,7.1140967,82a	_	
+3-12	321-322	,	_	
+3-13	322-325	35y	_	
+3-14	325-326	,	_	
+3-15	326-332	39.55t	_	
+3-16	332-333	/	_	
+3-17	333-337	data	_	
+3-18	337-338	=	_	
+3-19	338-339	!	_	
+3-20	339-342	3m1	_	
+3-21	342-343	!	_	
+3-22	343-346	1e3	_	
+
+#Text=Die herunterfahrenden Räder haben gefällebedingt eine höhere Geschwindigkeit.
+4-1	347-350	Die	_	
+4-2	351-368	herunterfahrenden	_	
+4-3	369-374	Räder	_	
+4-4	375-380	haben	_	
+4-5	381-395	gefällebedingt	_	
+4-6	396-400	eine	_	
+4-7	401-407	höhere	_	
+4-8	408-423	Geschwindigkeit	_	
+4-9	423-424	.	_	
+
+#Text=Die Engstelle ist nicht einsehbar und hier kommt es durch Gegenverkehr häufiger zu Fastunfällen.
+5-1	425-428	Die	_	
+5-2	429-438	Engstelle	_	
+5-3	439-442	ist	_	
+5-4	443-448	nicht	_	
+5-5	449-458	einsehbar	_	
+5-6	459-462	und	_	
+5-7	463-467	hier	_	
+5-8	468-473	kommt	_	
+5-9	474-476	es	_	
+5-10	477-482	durch	_	
+5-11	483-495	Gegenverkehr	_	
+5-12	496-504	häufiger	_	
+5-13	505-507	zu	_	
+5-14	508-520	Fastunfällen	_	
+5-15	520-521	.	_	
+
+#Text=Vor dem Haus Wolfgasse 14 müsste ein Verkehrsspiegel ( = Konvexspiegel) montiert werden, um dort die Sichtverhältnisse zu verbessern.
+6-1	522-525	Vor	*[8]	
+6-2	526-529	dem	*[8]	
+6-3	530-534	Haus	*[8]	
+6-4	535-544	Wolfgasse	*[8]	
+6-5	545-547	14	*[8]	
+6-6	548-554	müsste	_	
+6-7	555-558	ein	_	
+6-8	559-574	Verkehrsspiegel	_	
+6-9	575-576	(	_	
+6-10	577-578	=	_	
+6-11	579-592	Konvexspiegel	_	
+6-12	592-593	)	_	
+6-13	594-602	montiert	_	
+6-14	603-609	werden	_	
+6-15	609-610	,	_	
+6-16	611-613	um	_	
+6-17	614-618	dort	_	
+6-18	619-622	die	_	
+6-19	623-640	Sichtverhältnisse	_	
+6-20	641-643	zu	_	
+6-21	644-654	verbessern	_	
+6-22	654-655	.	_	

@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Poller gefährlich in Radübergangmitte
+1-1	0-6	Poller	_	
+1-2	7-17	gefährlich	_	
+1-3	18-20	in	_	
+1-4	21-37	Radübergangmitte	_	
+
+#Text=Dieser Poller muß dringend versetzt werden, da er den direkten Weg auf den Münsterplatz blockiert und Radfahrer dort aber legal fahren sollen.
+2-1	40-46	Dieser	_	
+2-2	47-53	Poller	_	
+2-3	54-57	muß	_	
+2-4	58-66	dringend	_	
+2-5	67-75	versetzt	_	
+2-6	76-82	werden	_	
+2-7	82-83	,	_	
+2-8	84-86	da	_	
+2-9	87-89	er	_	
+2-10	90-93	den	_	
+2-11	94-102	direkten	_	
+2-12	103-106	Weg	_	
+2-13	107-110	auf	*[3]	
+2-14	111-114	den	*[3]	
+2-15	115-127	Münsterplatz	*[3]	
+2-16	128-137	blockiert	_	
+2-17	138-141	und	_	
+2-18	142-151	Radfahrer	_	
+2-19	152-156	dort	_	
+2-20	157-161	aber	_	
+2-21	162-167	legal	_	
+2-22	168-174	fahren	_	
+2-23	175-181	sollen	_	
+2-24	181-182	.	_	

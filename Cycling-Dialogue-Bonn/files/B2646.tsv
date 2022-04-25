@@ -1,0 +1,108 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rot für Rechtsabbieger bei Grün für Rad-/Fußgänger
+1-1	0-3	Rot	_	
+1-2	4-7	für	_	
+1-3	8-22	Rechtsabbieger	_	
+1-4	23-26	bei	_	
+1-5	27-31	Grün	_	
+1-6	32-35	für	_	
+1-7	36-39	Rad	_	
+1-8	39-40	-	_	
+1-9	40-41	/	_	
+1-10	41-50	Fußgänger	_	
+
+#Text=Die vom Bertha-von-Suttner-Platz kommenden Autofahrer biegen regelmäßig ohne Rücksicht auf Rad- und Fußgänger zum Belderberg ab, obwohl die Rad- und Fußgänger grün haben.
+2-1	53-56	Die	_	
+2-2	57-60	vom	*[7]	
+2-3	61-85	Bertha-von-Suttner-Platz	*[7]	
+2-4	86-95	kommenden	*[7]	
+2-5	96-106	Autofahrer	_	
+2-6	107-113	biegen	_	
+2-7	114-124	regelmäßig	_	
+2-8	125-129	ohne	_	
+2-9	130-139	Rücksicht	_	
+2-10	140-143	auf	*[8]	
+2-11	144-147	Rad	*[8]	
+2-12	147-148	-	*[8]	
+2-13	149-152	und	*[8]	
+2-14	153-162	Fußgänger	*[8]	
+2-15	163-166	zum	*[8]	
+2-16	167-177	Belderberg	*[8]	
+2-17	178-180	ab	*[8]	
+2-18	180-181	,	_	
+2-19	182-188	obwohl	_	
+2-20	189-192	die	_	
+2-21	193-196	Rad	_	
+2-22	196-197	-	_	
+2-23	198-201	und	_	
+2-24	202-211	Fußgänger	_	
+2-25	212-216	grün	_	
+2-26	217-222	haben	_	
+2-27	222-223	.	_	
+
+#Text=Alle Markierungen und Warnblinker helfen hier nicht weiter.
+3-1	224-228	Alle	_	
+3-2	229-241	Markierungen	_	
+3-3	242-245	und	_	
+3-4	246-257	Warnblinker	_	
+3-5	258-264	helfen	_	
+3-6	265-269	hier	_	
+3-7	270-275	nicht	_	
+3-8	276-282	weiter	_	
+3-9	282-283	.	_	
+
+#Text=Insbesondere, wenn man als Radfahrer von der Friedrichstraße kommt, wird man von den Autofahrern nicht wahrgenommen.
+4-1	284-296	Insbesondere	_	
+4-2	296-297	,	_	
+4-3	298-302	wenn	_	
+4-4	303-306	man	_	
+4-5	307-310	als	_	
+4-6	311-320	Radfahrer	_	
+4-7	321-324	von	*[9]	
+4-8	325-328	der	*[9]	
+4-9	329-344	Friedrichstraße	*[9]	
+4-10	345-350	kommt	*[9]	
+4-11	350-351	,	_	
+4-12	352-356	wird	_	
+4-13	357-360	man	_	
+4-14	361-364	von	_	
+4-15	365-368	den	_	
+4-16	369-380	Autofahrern	_	
+4-17	381-386	nicht	_	
+4-18	387-399	wahrgenommen	_	
+4-19	399-400	.	_	
+
+#Text=Ich habe leider auch noch nicht feststellen können, dass die Polizei hier gegen die rechtswidrigen Autofahrer vorgeht.
+5-1	401-404	Ich	_	
+5-2	405-409	habe	_	
+5-3	410-416	leider	_	
+5-4	417-421	auch	_	
+5-5	422-426	noch	_	
+5-6	427-432	nicht	_	
+5-7	433-444	feststellen	_	
+5-8	445-451	können	_	
+5-9	451-452	,	_	
+5-10	453-457	dass	_	
+5-11	458-461	die	_	
+5-12	462-469	Polizei	_	
+5-13	470-474	hier	_	
+5-14	475-480	gegen	_	
+5-15	481-484	die	_	
+5-16	485-499	rechtswidrigen	_	
+5-17	500-510	Autofahrer	_	
+5-18	511-518	vorgeht	_	
+5-19	518-519	.	_	
+
+#Text=Kontrollen erlebe ich nur für Radfahrer.
+6-1	520-530	Kontrollen	_	
+6-2	531-537	erlebe	_	
+6-3	538-541	ich	_	
+6-4	542-545	nur	_	
+6-5	546-549	für	_	
+6-6	550-559	Radfahrer	_	
+6-7	559-560	.	_	

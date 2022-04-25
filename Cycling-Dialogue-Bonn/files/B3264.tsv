@@ -1,0 +1,123 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text='Radfahrer frei' statt Abtrennung Radweg
+1-1	0-1	'	_	
+1-2	1-10	Radfahrer	_	
+1-3	11-15	frei	_	
+1-4	15-16	'	_	
+1-5	17-22	statt	_	
+1-6	23-33	Abtrennung	_	
+1-7	34-40	Radweg	_	
+
+#Text=Auf beiden Seiten der Kennedyallee wurde die Unterteilung in Fuß- und Radweg aufgegeben und in einen Fußgängerweg mit 'Fahrräder frei' umgewandelt, obwohl die Wege für beide Verkehrsteilnehmer mehr als ausreichend breit sind.
+2-1	43-46	Auf	*[7]	
+2-2	47-53	beiden	*[7]	
+2-3	54-60	Seiten	*[7]	
+2-4	61-64	der	*[7]	
+2-5	65-77	Kennedyallee	*[7]	
+2-6	78-83	wurde	_	
+2-7	84-87	die	_	
+2-8	88-100	Unterteilung	_	
+2-9	101-103	in	_	
+2-10	104-107	Fuß	_	
+2-11	107-108	-	_	
+2-12	109-112	und	_	
+2-13	113-119	Radweg	_	
+2-14	120-130	aufgegeben	_	
+2-15	131-134	und	_	
+2-16	135-137	in	_	
+2-17	138-143	einen	_	
+2-18	144-156	Fußgängerweg	_	
+2-19	157-160	mit	_	
+2-20	161-162	'	_	
+2-21	162-171	Fahrräder	_	
+2-22	172-176	frei	_	
+2-23	176-177	'	_	
+2-24	178-189	umgewandelt	_	
+2-25	189-190	,	_	
+2-26	191-197	obwohl	_	
+2-27	198-201	die	_	
+2-28	202-206	Wege	_	
+2-29	207-210	für	_	
+2-30	211-216	beide	_	
+2-31	217-235	Verkehrsteilnehmer	_	
+2-32	236-240	mehr	_	
+2-33	241-244	als	_	
+2-34	245-256	ausreichend	_	
+2-35	257-262	breit	_	
+2-36	263-267	sind	_	
+2-37	267-268	.	_	
+
+#Text=Sehr irreführend ist es, dass an den Straßenkreuzungen ein Radweg eingezeichnet ist, so als wäre ein Radweg vorhanden.
+3-1	269-273	Sehr	_	
+3-2	274-285	irreführend	_	
+3-3	286-289	ist	_	
+3-4	290-292	es	_	
+3-5	292-293	,	_	
+3-6	294-298	dass	_	
+3-7	299-301	an	_	
+3-8	302-305	den	_	
+3-9	306-323	Straßenkreuzungen	_	
+3-10	324-327	ein	_	
+3-11	328-334	Radweg	_	
+3-12	335-348	eingezeichnet	_	
+3-13	349-352	ist	_	
+3-14	352-353	,	_	
+3-15	354-356	so	_	
+3-16	357-360	als	_	
+3-17	361-365	wäre	_	
+3-18	366-369	ein	_	
+3-19	370-376	Radweg	_	
+3-20	377-386	vorhanden	_	
+3-21	386-387	.	_	
+
+#Text=Diese Kennzeichnungen machen in der Kombination keinen Sinn.
+4-1	388-393	Diese	_	
+4-2	394-409	Kennzeichnungen	_	
+4-3	410-416	machen	_	
+4-4	417-419	in	_	
+4-5	420-423	der	_	
+4-6	424-435	Kombination	_	
+4-7	436-442	keinen	_	
+4-8	443-447	Sinn	_	
+4-9	447-448	.	_	
+
+#Text=Für alle Verkehrsteilnehmer inklusive Autofahrer wäre m.E. eine klare Aufteilung und die definitive Abtrennung und Kennzeichnung eines Fahrradweges deutlich besser.
+5-1	449-452	Für	_	
+5-2	453-457	alle	_	
+5-3	458-476	Verkehrsteilnehmer	_	
+5-4	477-486	inklusive	_	
+5-5	487-497	Autofahrer	_	
+5-6	498-502	wäre	_	
+5-7	503-506	m.E	_	
+5-8	506-507	.	_	
+5-9	508-512	eine	_	
+5-10	513-518	klare	_	
+5-11	519-529	Aufteilung	_	
+5-12	530-533	und	_	
+5-13	534-537	die	_	
+5-14	538-548	definitive	_	
+5-15	549-559	Abtrennung	_	
+5-16	560-563	und	_	
+5-17	564-577	Kennzeichnung	_	
+5-18	578-583	eines	_	
+5-19	584-596	Fahrradweges	_	
+5-20	597-605	deutlich	_	
+5-21	606-612	besser	_	
+5-22	612-613	.	_	
+
+#Text=Warum der Radweg aufgegeben wurde erschließt sich mir nicht.
+6-1	614-619	Warum	_	
+6-2	620-623	der	_	
+6-3	624-630	Radweg	_	
+6-4	631-641	aufgegeben	_	
+6-5	642-647	wurde	_	
+6-6	648-658	erschließt	_	
+6-7	659-663	sich	_	
+6-8	664-667	mir	_	
+6-9	668-673	nicht	_	
+6-10	673-674	.	_	

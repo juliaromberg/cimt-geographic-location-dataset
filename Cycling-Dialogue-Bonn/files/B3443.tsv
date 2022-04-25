@@ -1,0 +1,94 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwege zu schmal, zu viele Falschparker
+1-1	0-7	Radwege	_	
+1-2	8-10	zu	_	
+1-3	11-17	schmal	_	
+1-4	17-18	,	_	
+1-5	19-21	zu	_	
+1-6	22-27	viele	_	
+1-7	28-40	Falschparker	_	
+
+#Text=Die Bonner Straße kommt mir manchmal wie ein rechtsfreier Raum vor: Auf zu schmalen Rad- und Fußwegen (besonders der Teil Richtung Kreuzung mit Moltkestraße) wird auch noch geparkt, Mülltonnen versperren den Weg oder Kartons.
+2-1	43-46	Die	_	
+2-2	47-53	Bonner	_	
+2-3	54-60	Straße	_	
+2-4	61-66	kommt	_	
+2-5	67-70	mir	_	
+2-6	71-79	manchmal	_	
+2-7	80-83	wie	_	
+2-8	84-87	ein	_	
+2-9	88-100	rechtsfreier	_	
+2-10	101-105	Raum	_	
+2-11	106-109	vor	_	
+2-12	109-110	:	_	
+2-13	111-114	Auf	_	
+2-14	115-117	zu	_	
+2-15	118-126	schmalen	_	
+2-16	127-130	Rad	_	
+2-17	130-131	-	_	
+2-18	132-135	und	_	
+2-19	136-144	Fußwegen	_	
+2-20	145-146	(	_	
+2-21	146-155	besonders	_	
+2-22	156-159	der	_	
+2-23	160-164	Teil	_	
+2-24	165-173	Richtung	*[6]	
+2-25	174-182	Kreuzung	*[6]	
+2-26	183-186	mit	*[6]	
+2-27	187-199	Moltkestraße	*[6]	
+2-28	199-200	)	_	
+2-29	201-205	wird	_	
+2-30	206-210	auch	_	
+2-31	211-215	noch	_	
+2-32	216-223	geparkt	_	
+2-33	223-224	,	_	
+2-34	225-235	Mülltonnen	_	
+2-35	236-246	versperren	_	
+2-36	247-250	den	_	
+2-37	251-254	Weg	_	
+2-38	255-259	oder	_	
+2-39	260-267	Kartons	_	
+2-40	267-268	.	_	
+
+#Text=Kontrollen gibt es offensichtlich nicht.
+3-1	269-279	Kontrollen	_	
+3-2	280-284	gibt	_	
+3-3	285-287	es	_	
+3-4	288-302	offensichtlich	_	
+3-5	303-308	nicht	_	
+3-6	308-309	.	_	
+
+#Text=Bei manchen Autos auf dem Fußweg fragt man sich, wie die dahin gekommen sind ...
+4-1	310-313	Bei	_	
+4-2	314-321	manchen	_	
+4-3	322-327	Autos	_	
+4-4	328-331	auf	_	
+4-5	332-335	dem	_	
+4-6	336-342	Fußweg	_	
+4-7	343-348	fragt	_	
+4-8	349-352	man	_	
+4-9	353-357	sich	_	
+4-10	357-358	,	_	
+4-11	359-362	wie	_	
+4-12	363-366	die	_	
+4-13	367-372	dahin	_	
+4-14	373-381	gekommen	_	
+4-15	382-386	sind	_	
+4-16	387-388	.	_	
+4-17	388-389	.	_	
+4-18	389-390	.	_	
+
+#Text=Die Fußgänger müssen auf den Radweg ausweichen.
+5-1	391-394	Die	_	
+5-2	395-404	Fußgänger	_	
+5-3	405-411	müssen	_	
+5-4	412-415	auf	_	
+5-5	416-419	den	_	
+5-6	420-426	Radweg	_	
+5-7	427-437	ausweichen	_	
+5-8	437-438	.	_	

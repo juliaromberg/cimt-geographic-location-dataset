@@ -1,0 +1,66 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zugeparkter Radweg
+1-1	0-11	Zugeparkter	_	
+1-2	12-18	Radweg	_	
+
+#Text=Um die Viktoriabrücke während der Umbaumaßnahmen erreichbar zu machen, wurde der Gehweg ab Jonas-Cahn-Straße für Fahrräder freigegeben.
+2-1	21-23	Um	*[5]	
+2-2	24-27	die	*[5]	
+2-3	28-42	Viktoriabrücke	*[5]	
+2-4	43-50	während	_	
+2-5	51-54	der	_	
+2-6	55-69	Umbaumaßnahmen	_	
+2-7	70-80	erreichbar	_	
+2-8	81-83	zu	_	
+2-9	84-90	machen	_	
+2-10	90-91	,	_	
+2-11	92-97	wurde	_	
+2-12	98-101	der	*[6]	
+2-13	102-108	Gehweg	*[6]	
+2-14	109-111	ab	*[6]	
+2-15	112-129	Jonas-Cahn-Straße	*[6]	
+2-16	130-133	für	_	
+2-17	134-143	Fahrräder	_	
+2-18	144-155	freigegeben	_	
+2-19	155-156	.	_	
+
+#Text=Hierzu wurde ein absolutes Halteverbot beschildert, dass jedoch komplett missachtet wird.
+3-1	157-163	Hierzu	_	
+3-2	164-169	wurde	_	
+3-3	170-173	ein	_	
+3-4	174-183	absolutes	_	
+3-5	184-195	Halteverbot	_	
+3-6	196-207	beschildert	_	
+3-7	207-208	,	_	
+3-8	209-213	dass	_	
+3-9	214-220	jedoch	_	
+3-10	221-229	komplett	_	
+3-11	230-240	missachtet	_	
+3-12	241-245	wird	_	
+3-13	245-246	.	_	
+
+#Text=Dadurch ist dieser Weg ständig zugeparkt und viel zu schmal für Begegnungen mit oder das Vorbeifahren an Fußgängern.
+4-1	247-254	Dadurch	_	
+4-2	255-258	ist	_	
+4-3	259-265	dieser	_	
+4-4	266-269	Weg	_	
+4-5	270-277	ständig	_	
+4-6	278-287	zugeparkt	_	
+4-7	288-291	und	_	
+4-8	292-296	viel	_	
+4-9	297-299	zu	_	
+4-10	300-306	schmal	_	
+4-11	307-310	für	_	
+4-12	311-322	Begegnungen	_	
+4-13	323-326	mit	_	
+4-14	327-331	oder	_	
+4-15	332-335	das	_	
+4-16	336-348	Vorbeifahren	_	
+4-17	349-351	an	_	
+4-18	352-362	Fußgängern	_	
+4-19	362-363	.	_	

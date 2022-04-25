@@ -1,0 +1,65 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Straße
+1-1	0-11	Gefährliche	_	
+1-2	12-18	Straße	_	
+
+#Text=Beim erlaubten Fahren gegen die Fahrtrichtung auf der Maxstr. wird man von den entgegenkommenden Autos oft von der Straße gedrängt bzw. fast Überfahren.
+2-1	21-25	Beim	_	
+2-2	26-35	erlaubten	_	
+2-3	36-42	Fahren	_	
+2-4	43-48	gegen	*[4]	
+2-5	49-52	die	*[4]	
+2-6	53-66	Fahrtrichtung	*[4]	
+2-7	67-70	auf	*[4]	
+2-8	71-74	der	*[4]	
+2-9	75-81	Maxstr	*[4]	
+2-10	81-82	.	*[4]	
+2-11	83-87	wird	_	
+2-12	88-91	man	_	
+2-13	92-95	von	_	
+2-14	96-99	den	_	
+2-15	100-117	entgegenkommenden	_	
+2-16	118-123	Autos	_	
+2-17	124-127	oft	_	
+2-18	128-131	von	_	
+2-19	132-135	der	_	
+2-20	136-142	Straße	_	
+2-21	143-151	gedrängt	_	
+2-22	152-155	bzw	_	
+2-23	155-156	.	_	
+2-24	157-161	fast	_	
+2-25	162-172	Überfahren	_	
+2-26	172-173	.	_	
+
+#Text=Hier sollte deutlicher - wie auch bei allen anderen vergleichbaren Straßen - gekennzeichnet werden, dass Fahrradfahren entgegen der eigentlichen Fahrtrichtung die Straße erlaubt ist.
+3-1	174-178	Hier	_	
+3-2	179-185	sollte	_	
+3-3	186-196	deutlicher	_	
+3-4	197-198	-	_	
+3-5	199-202	wie	_	
+3-6	203-207	auch	_	
+3-7	208-211	bei	_	
+3-8	212-217	allen	_	
+3-9	218-225	anderen	_	
+3-10	226-240	vergleichbaren	_	
+3-11	241-248	Straßen	_	
+3-12	249-250	-	_	
+3-13	251-265	gekennzeichnet	_	
+3-14	266-272	werden	_	
+3-15	272-273	,	_	
+3-16	274-278	dass	_	
+3-17	279-292	Fahrradfahren	_	
+3-18	293-301	entgegen	_	
+3-19	302-305	der	_	
+3-20	306-318	eigentlichen	_	
+3-21	319-332	Fahrtrichtung	_	
+3-22	333-336	die	_	
+3-23	337-343	Straße	_	
+3-24	344-351	erlaubt	_	
+3-25	352-355	ist	_	
+3-26	355-356	.	_	

@@ -1,0 +1,168 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Legale Zufahrt zur Georgstraße schaffen
+1-1	0-6	Legale	_	
+1-2	7-14	Zufahrt	_	
+1-3	15-18	zur	*[9]	
+1-4	19-30	Georgstraße	*[9]	
+1-5	31-39	schaffen	_	
+
+#Text=Problem: Von Georgstr. bis Breitestr. verlaufen Fahrradstraßen, dies wäre kofortable und sichere Alternative zur problematischen Kölnstr., wenn es denn eine legale Zufahrstmöglichkeit vom Clodwigplatz zur Georgstr. gäbe.
+2-1	42-49	Problem	_	
+2-2	49-50	:	_	
+2-3	51-54	Von	*[10]	
+2-4	55-63	Georgstr	*[10]	
+2-5	63-64	.	*[10]	
+2-6	65-68	bis	*[10]	
+2-7	69-78	Breitestr	*[10]	
+2-8	78-79	.	_	
+2-9	80-89	verlaufen	_	
+2-10	90-104	Fahrradstraßen	_	
+2-11	104-105	,	_	
+2-12	106-110	dies	_	
+2-13	111-115	wäre	_	
+2-14	116-126	kofortable	_	
+2-15	127-130	und	_	
+2-16	131-138	sichere	_	
+2-17	139-150	Alternative	_	
+2-18	151-154	zur	_	
+2-19	155-170	problematischen	_	
+2-20	171-178	Kölnstr	*[11]	
+2-21	178-179	.	*[11]	
+2-22	179-180	,	*[11]	
+2-23	181-185	wenn	_	
+2-24	186-188	es	_	
+2-25	189-193	denn	_	
+2-26	194-198	eine	_	
+2-27	199-205	legale	_	
+2-28	206-225	Zufahrstmöglichkeit	_	
+2-29	226-229	vom	*[12]	
+2-30	230-242	Clodwigplatz	*[12]	
+2-31	243-246	zur	*[12]	
+2-32	247-255	Georgstr	*[12]	
+2-33	255-256	.	_	
+2-34	257-261	gäbe	_	
+2-35	261-262	.	_	
+
+#Text=Da es diese nicht gibt, benutzen Radfahrer den Bürgersteig, was insbesondere an der Ecke Kaiser-Karl-Ring/Georgstr. zu Konflikten führt, zumal dort auch noch Ein Eiscafe mit Außengastronimie gibt.
+3-1	263-265	Da	_	
+3-2	266-268	es	_	
+3-3	269-274	diese	_	
+3-4	275-280	nicht	_	
+3-5	281-285	gibt	_	
+3-6	285-286	,	_	
+3-7	287-295	benutzen	_	
+3-8	296-305	Radfahrer	_	
+3-9	306-309	den	_	
+3-10	310-321	Bürgersteig	_	
+3-11	321-322	,	_	
+3-12	323-326	was	_	
+3-13	327-339	insbesondere	_	
+3-14	340-342	an	*[13]	
+3-15	343-346	der	*[13]	
+3-16	347-351	Ecke	*[13]	
+3-17	352-368	Kaiser-Karl-Ring	*[13]	
+3-18	368-369	/	*[13]	
+3-19	369-377	Georgstr	*[13]	
+3-20	377-378	.	_	
+3-21	379-381	zu	_	
+3-22	382-392	Konflikten	_	
+3-23	393-398	führt	_	
+3-24	398-399	,	_	
+3-25	400-405	zumal	_	
+3-26	406-410	dort	_	
+3-27	411-415	auch	_	
+3-28	416-420	noch	_	
+3-29	421-424	Ein	_	
+3-30	425-432	Eiscafe	_	
+3-31	433-436	mit	_	
+3-32	437-453	Außengastronimie	_	
+3-33	454-458	gibt	_	
+3-34	458-459	.	_	
+
+#Text=Aufforderung an die städt. Planer: Dringend Lösung schaffen.
+4-1	460-472	Aufforderung	_	
+4-2	473-475	an	_	
+4-3	476-479	die	_	
+4-4	480-485	städt	_	
+4-5	485-486	.	_	
+4-6	487-493	Planer	_	
+4-7	493-494	:	_	
+4-8	495-503	Dringend	_	
+4-9	504-510	Lösung	_	
+4-10	511-519	schaffen	_	
+4-11	519-520	.	_	
+
+#Text=Eine Möglichkeit: Die Fahrradstraßen Ellerstraße mit Fahrradstraße Georgstraßen verbinden.
+5-1	521-525	Eine	_	
+5-2	526-537	Möglichkeit	_	
+5-3	537-538	:	_	
+5-4	539-542	Die	*[14]	
+5-5	543-557	Fahrradstraßen	*[14]	
+5-6	558-569	Ellerstraße	*[14]	
+5-7	570-573	mit	*[14]	
+5-8	574-587	Fahrradstraße	*[14]	
+5-9	588-600	Georgstraßen	*[14]	
+5-10	601-610	verbinden	_	
+5-11	610-611	.	_	
+
+#Text=Dann hätte dieser bisher weitgehend sinnlose Fahrradstraßenstummel endlich auch einen Zweck und es gäbe eine durchgehende Radstrecke aus dem Bonner Norden zur Alt-/Innenstadt.
+6-1	612-616	Dann	_	
+6-2	617-622	hätte	_	
+6-3	623-629	dieser	_	
+6-4	630-636	bisher	_	
+6-5	637-647	weitgehend	_	
+6-6	648-656	sinnlose	_	
+6-7	657-678	Fahrradstraßenstummel	_	
+6-8	679-686	endlich	_	
+6-9	687-691	auch	_	
+6-10	692-697	einen	_	
+6-11	698-703	Zweck	_	
+6-12	704-707	und	_	
+6-13	708-710	es	_	
+6-14	711-715	gäbe	_	
+6-15	716-720	eine	_	
+6-16	721-733	durchgehende	_	
+6-17	734-744	Radstrecke	_	
+6-18	745-748	aus	*[15]	
+6-19	749-752	dem	*[15]	
+6-20	753-759	Bonner	*[15]	
+6-21	760-766	Norden	*[15]	
+6-22	767-770	zur	*[15]	
+6-23	771-774	Alt	*[15]	
+6-24	774-775	-	*[15]	
+6-25	775-776	/	*[15]	
+6-26	776-786	Innenstadt	*[15]	
+6-27	786-787	.	_	
+
+#Text=Dazu müsste eine gesicherter Fußgänger-/Radfahrer-Querung über den Kaiser-Karl-Ring geschaffen werden.
+7-1	788-792	Dazu	_	
+7-2	793-799	müsste	_	
+7-3	800-804	eine	_	
+7-4	805-816	gesicherter	_	
+7-5	817-826	Fußgänger	_	
+7-6	826-827	-	_	
+7-7	827-828	/	_	
+7-8	828-845	Radfahrer-Querung	_	
+7-9	846-850	über	*[16]	
+7-10	851-854	den	*[16]	
+7-11	855-871	Kaiser-Karl-Ring	*[16]	
+7-12	872-882	geschaffen	_	
+7-13	883-889	werden	_	
+7-14	889-890	.	_	
+
+#Text=Dieser könnte mit der Ampelschaltung am Clodwigplatz gekoppelt werden.
+8-1	891-897	Dieser	_	
+8-2	898-904	könnte	_	
+8-3	905-908	mit	_	
+8-4	909-912	der	_	
+8-5	913-927	Ampelschaltung	_	
+8-6	928-930	am	*[17]	
+8-7	931-943	Clodwigplatz	*[17]	
+8-8	944-953	gekoppelt	_	
+8-9	954-960	werden	_	
+8-10	960-961	.	_	

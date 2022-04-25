@@ -1,0 +1,43 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße einrichten
+1-1	0-13	Fahrradstraße	_	
+1-2	14-24	einrichten	_	
+
+#Text=Die Rochusstraße als Zuwegung zum Monte-Schulzentrum mit extrem vielen Rad fahrenden SchülerInnen als Fahrradstraße ausweisen!
+2-1	27-30	Die	*[4]	
+2-2	31-43	Rochusstraße	*[4]	
+2-3	44-47	als	_	
+2-4	48-56	Zuwegung	_	
+2-5	57-60	zum	*[5]	
+2-6	61-79	Monte-Schulzentrum	*[5]	
+2-7	80-83	mit	_	
+2-8	84-90	extrem	_	
+2-9	91-97	vielen	_	
+2-10	98-101	Rad	_	
+2-11	102-111	fahrenden	_	
+2-12	112-124	SchülerInnen	_	
+2-13	125-128	als	_	
+2-14	129-142	Fahrradstraße	_	
+2-15	143-152	ausweisen	_	
+2-16	152-153	!	_	
+
+#Text=Zu Schulanfangs- und -endzeiten für den Kfz-Verkehr über Poller ganz sperren.
+3-1	154-156	Zu	_	
+3-2	157-169	Schulanfangs	_	
+3-3	169-170	-	_	
+3-4	171-174	und	_	
+3-5	175-176	-	_	
+3-6	176-185	endzeiten	_	
+3-7	186-189	für	_	
+3-8	190-193	den	_	
+3-9	194-205	Kfz-Verkehr	_	
+3-10	206-210	über	_	
+3-11	211-217	Poller	_	
+3-12	218-222	ganz	_	
+3-13	223-230	sperren	_	
+3-14	230-231	.	_	

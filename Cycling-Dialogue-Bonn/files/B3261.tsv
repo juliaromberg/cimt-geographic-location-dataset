@@ -1,0 +1,54 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Holperstrecke, Reperaturen bringen keine Besserung
+1-1	0-13	Holperstrecke	_	
+1-2	13-14	,	_	
+1-3	15-26	Reperaturen	_	
+1-4	27-34	bringen	_	
+1-5	35-40	keine	_	
+1-6	41-50	Besserung	_	
+
+#Text=Einige Gefahrenstellen wurden im Hochsommer ausgebessert.
+2-1	53-59	Einige	_	
+2-2	60-75	Gefahrenstellen	_	
+2-3	76-82	wurden	_	
+2-4	83-85	im	_	
+2-5	86-96	Hochsommer	_	
+2-6	97-109	ausgebessert	_	
+2-7	109-110	.	_	
+
+#Text=Leider hat man den Asphalt nicht ebenerdig aufgebracht , sondern neue Buckel geschaffen.
+3-1	111-117	Leider	_	
+3-2	118-121	hat	_	
+3-3	122-125	man	_	
+3-4	126-129	den	_	
+3-5	130-137	Asphalt	_	
+3-6	138-143	nicht	_	
+3-7	144-153	ebenerdig	_	
+3-8	154-165	aufgebracht	_	
+3-9	166-167	,	_	
+3-10	168-175	sondern	_	
+3-11	176-180	neue	_	
+3-12	181-187	Buckel	_	
+3-13	188-198	geschaffen	_	
+3-14	198-199	.	_	
+
+#Text=Kann man die Firmen zur Nachbesserung auffordern und auch noch weitere Schadstellen ausbessern?
+4-1	200-204	Kann	_	
+4-2	205-208	man	_	
+4-3	209-212	die	_	
+4-4	213-219	Firmen	_	
+4-5	220-223	zur	_	
+4-6	224-237	Nachbesserung	_	
+4-7	238-248	auffordern	_	
+4-8	249-252	und	_	
+4-9	253-257	auch	_	
+4-10	258-262	noch	_	
+4-11	263-270	weitere	_	
+4-12	271-283	Schadstellen	_	
+4-13	284-294	ausbessern	_	
+4-14	294-295	?	_	

@@ -1,0 +1,221 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beschilderung
+1-1	0-13	Beschilderung	_	
+
+#Text=Will man von Am Josephinum in die Friedrich-Wöhler-Straße einbiegen sieht man das Schild Sackgasse, was ja bedeuten würde, da kommt ma nicht weiter.
+2-1	16-20	Will	_	
+2-2	21-24	man	_	
+2-3	25-28	von	_	
+2-4	29-31	Am	*[11]	
+2-5	32-42	Josephinum	*[11]	
+2-6	43-45	in	*[11]	
+2-7	46-49	die	*[11]	
+2-8	50-73	Friedrich-Wöhler-Straße	*[11]	
+2-9	74-83	einbiegen	*[11]	
+2-10	84-89	sieht	_	
+2-11	90-93	man	_	
+2-12	94-97	das	_	
+2-13	98-104	Schild	_	
+2-14	105-114	Sackgasse	_	
+2-15	114-115	,	_	
+2-16	116-119	was	_	
+2-17	120-122	ja	_	
+2-18	123-131	bedeuten	_	
+2-19	132-137	würde	_	
+2-20	137-138	,	_	
+2-21	139-141	da	_	
+2-22	142-147	kommt	_	
+2-23	148-150	ma	_	
+2-24	151-156	nicht	_	
+2-25	157-163	weiter	_	
+2-26	163-164	.	_	
+
+#Text=Später steht dann noch was von Umleitung oder frei für Anlieger.
+3-1	165-171	Später	_	
+3-2	172-177	steht	_	
+3-3	178-182	dann	_	
+3-4	183-187	noch	_	
+3-5	188-191	was	_	
+3-6	192-195	von	_	
+3-7	196-205	Umleitung	_	
+3-8	206-210	oder	_	
+3-9	211-215	frei	_	
+3-10	216-219	für	_	
+3-11	220-228	Anlieger	_	
+3-12	228-229	.	_	
+
+#Text=Es geht aber weiter.
+4-1	230-232	Es	_	
+4-2	233-237	geht	_	
+4-3	238-242	aber	_	
+4-4	243-249	weiter	_	
+4-5	249-250	.	_	
+
+#Text=Zumindest Fussgänger und Radfahrer können am Ende der Strasse leicht nach links, vorbei am Friedhof, bis zur Strasse In den Dauen gelangen.
+5-1	251-260	Zumindest	_	
+5-2	261-271	Fussgänger	_	
+5-3	272-275	und	_	
+5-4	276-285	Radfahrer	_	
+5-5	286-292	können	_	
+5-6	293-295	am	_	
+5-7	296-300	Ende	_	
+5-8	301-304	der	_	
+5-9	305-312	Strasse	_	
+5-10	313-319	leicht	_	
+5-11	320-324	nach	*[12]	
+5-12	325-330	links	*[12]	
+5-13	330-331	,	*[12]	
+5-14	332-338	vorbei	*[12]	
+5-15	339-341	am	*[12]	
+5-16	342-350	Friedhof	*[12]	
+5-17	350-351	,	*[12]	
+5-18	352-355	bis	*[12]	
+5-19	356-359	zur	*[12]	
+5-20	360-367	Strasse	*[12]	
+5-21	368-370	In	*[12]	
+5-22	371-374	den	*[12]	
+5-23	375-380	Dauen	*[12]	
+5-24	381-389	gelangen	_	
+5-25	389-390	.	_	
+
+#Text=Dafür gibt es aber ein spezielles Sackgassenschild.
+6-1	391-396	Dafür	_	
+6-2	397-401	gibt	_	
+6-3	402-404	es	_	
+6-4	405-409	aber	_	
+6-5	410-413	ein	_	
+6-6	414-424	spezielles	_	
+6-7	425-441	Sackgassenschild	_	
+6-8	441-442	.	_	
+
+#Text=Leider gibt es häufig Schilder, die keinen Sinn machen oder den Sachverhalt falsch und/oder undeutbar darstellen.
+7-1	443-449	Leider	_	
+7-2	450-454	gibt	_	
+7-3	455-457	es	_	
+7-4	458-464	häufig	_	
+7-5	465-473	Schilder	_	
+7-6	473-474	,	_	
+7-7	475-478	die	_	
+7-8	479-485	keinen	_	
+7-9	486-490	Sinn	_	
+7-10	491-497	machen	_	
+7-11	498-502	oder	_	
+7-12	503-506	den	_	
+7-13	507-518	Sachverhalt	_	
+7-14	519-525	falsch	_	
+7-15	526-529	und	_	
+7-16	529-530	/	_	
+7-17	530-534	oder	_	
+7-18	535-544	undeutbar	_	
+7-19	545-555	darstellen	_	
+7-20	555-556	.	_	
+
+#Text=Oft sieht man auch Schilder, die zeitweise gelten sollen und dann vorübergehend etwas weggedreht werden oder wenige meter umgesetzt werden.
+8-1	557-560	Oft	_	
+8-2	561-566	sieht	_	
+8-3	567-570	man	_	
+8-4	571-575	auch	_	
+8-5	576-584	Schilder	_	
+8-6	584-585	,	_	
+8-7	586-589	die	_	
+8-8	590-599	zeitweise	_	
+8-9	600-606	gelten	_	
+8-10	607-613	sollen	_	
+8-11	614-617	und	_	
+8-12	618-622	dann	_	
+8-13	623-636	vorübergehend	_	
+8-14	637-642	etwas	_	
+8-15	643-653	weggedreht	_	
+8-16	654-660	werden	_	
+8-17	661-665	oder	_	
+8-18	666-672	wenige	_	
+8-19	673-678	meter	_	
+8-20	679-688	umgesetzt	_	
+8-21	689-695	werden	_	
+8-22	695-696	.	_	
+
+#Text=Da weiss man nicht immer, ob es gilt oder nicht.
+9-1	697-699	Da	_	
+9-2	700-705	weiss	_	
+9-3	706-709	man	_	
+9-4	710-715	nicht	_	
+9-5	716-721	immer	_	
+9-6	721-722	,	_	
+9-7	723-725	ob	_	
+9-8	726-728	es	_	
+9-9	729-733	gilt	_	
+9-10	734-738	oder	_	
+9-11	739-744	nicht	_	
+9-12	744-745	.	_	
+
+#Text=Hier müsste einen Baustellenaufsicht mal kontrollieren, was da so aufgestellt wird.
+10-1	746-750	Hier	_	
+10-2	751-757	müsste	_	
+10-3	758-763	einen	_	
+10-4	764-782	Baustellenaufsicht	_	
+10-5	783-786	mal	_	
+10-6	787-800	kontrollieren	_	
+10-7	800-801	,	_	
+10-8	802-805	was	_	
+10-9	806-808	da	_	
+10-10	809-811	so	_	
+10-11	812-823	aufgestellt	_	
+10-12	824-828	wird	_	
+10-13	828-829	.	_	
+
+#Text=Ich habe sogar schon gesehen, dass man an einer Engstelle von beiden Seiten das blaue Schild mit dem roten und weißen Pfeil aufgestellt hat, wo eigentlich das runde Rote mit rotem und weißen Pfeil auf der anderen Seite hingehört, da wo die Vorfahrt geregelt werden soll.
+11-1	830-833	Ich	_	
+11-2	834-838	habe	_	
+11-3	839-844	sogar	_	
+11-4	845-850	schon	_	
+11-5	851-858	gesehen	_	
+11-6	858-859	,	_	
+11-7	860-864	dass	_	
+11-8	865-868	man	_	
+11-9	869-871	an	_	
+11-10	872-877	einer	_	
+11-11	878-887	Engstelle	_	
+11-12	888-891	von	_	
+11-13	892-898	beiden	_	
+11-14	899-905	Seiten	_	
+11-15	906-909	das	_	
+11-16	910-915	blaue	_	
+11-17	916-922	Schild	_	
+11-18	923-926	mit	_	
+11-19	927-930	dem	_	
+11-20	931-936	roten	_	
+11-21	937-940	und	_	
+11-22	941-947	weißen	_	
+11-23	948-953	Pfeil	_	
+11-24	954-965	aufgestellt	_	
+11-25	966-969	hat	_	
+11-26	969-970	,	_	
+11-27	971-973	wo	_	
+11-28	974-984	eigentlich	_	
+11-29	985-988	das	_	
+11-30	989-994	runde	_	
+11-31	995-999	Rote	_	
+11-32	1000-1003	mit	_	
+11-33	1004-1009	rotem	_	
+11-34	1010-1013	und	_	
+11-35	1014-1020	weißen	_	
+11-36	1021-1026	Pfeil	_	
+11-37	1027-1030	auf	_	
+11-38	1031-1034	der	_	
+11-39	1035-1042	anderen	_	
+11-40	1043-1048	Seite	_	
+11-41	1049-1058	hingehört	_	
+11-42	1058-1059	,	_	
+11-43	1060-1062	da	_	
+11-44	1063-1065	wo	_	
+11-45	1066-1069	die	_	
+11-46	1070-1078	Vorfahrt	_	
+11-47	1079-1087	geregelt	_	
+11-48	1088-1094	werden	_	
+11-49	1095-1099	soll	_	
+11-50	1099-1100	.	_	

@@ -1,0 +1,197 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unsicher auf der Rabinstraße
+1-1	0-8	Unsicher	_	
+1-2	9-12	auf	*[11]	
+1-3	13-16	der	*[11]	
+1-4	17-28	Rabinstraße	*[11]	
+
+#Text=Es gehört schon etwas Mut und Erfahrung dazu, als Radfahrer die Rabinstraße stadtauswärts zu fahren.
+2-1	31-33	Es	_	
+2-2	34-40	gehört	_	
+2-3	41-46	schon	_	
+2-4	47-52	etwas	_	
+2-5	53-56	Mut	_	
+2-6	57-60	und	_	
+2-7	61-70	Erfahrung	_	
+2-8	71-75	dazu	_	
+2-9	75-76	,	_	
+2-10	77-80	als	_	
+2-11	81-90	Radfahrer	_	
+2-12	91-94	die	*[12]	
+2-13	95-106	Rabinstraße	*[12]	
+2-14	107-120	stadtauswärts	*[12]	
+2-15	121-123	zu	_	
+2-16	124-130	fahren	_	
+2-17	130-131	.	_	
+
+#Text=Weil kein Radweg explizit ausgeschildert ist, bedeutet das, dass Radfahrer die (rechte) Fahrspur nehmen müssen.
+3-1	132-136	Weil	_	
+3-2	137-141	kein	_	
+3-3	142-148	Radweg	_	
+3-4	149-157	explizit	_	
+3-5	158-172	ausgeschildert	_	
+3-6	173-176	ist	_	
+3-7	176-177	,	_	
+3-8	178-186	bedeutet	_	
+3-9	187-190	das	_	
+3-10	190-191	,	_	
+3-11	192-196	dass	_	
+3-12	197-206	Radfahrer	_	
+3-13	207-210	die	_	
+3-14	211-212	(	_	
+3-15	212-218	rechte	_	
+3-16	218-219	)	_	
+3-17	220-228	Fahrspur	_	
+3-18	229-235	nehmen	_	
+3-19	236-242	müssen	_	
+3-20	242-243	.	_	
+
+#Text=Und dort ist nicht einmal ein Radweg markiert.
+4-1	244-247	Und	_	
+4-2	248-252	dort	_	
+4-3	253-256	ist	_	
+4-4	257-262	nicht	_	
+4-5	263-269	einmal	_	
+4-6	270-273	ein	_	
+4-7	274-280	Radweg	_	
+4-8	281-289	markiert	_	
+4-9	289-290	.	_	
+
+#Text=Die Straße ist zweispurig ausgeführt und wirkt schon wie eine Ausfallstraße - dementsprechend beschleunigen auch manche Autofahrer auf der Rabinstraße.
+5-1	291-294	Die	_	
+5-2	295-301	Straße	_	
+5-3	302-305	ist	_	
+5-4	306-316	zweispurig	_	
+5-5	317-327	ausgeführt	_	
+5-6	328-331	und	_	
+5-7	332-337	wirkt	_	
+5-8	338-343	schon	_	
+5-9	344-347	wie	_	
+5-10	348-352	eine	_	
+5-11	353-366	Ausfallstraße	_	
+5-12	367-368	-	_	
+5-13	369-384	dementsprechend	_	
+5-14	385-398	beschleunigen	_	
+5-15	399-403	auch	_	
+5-16	404-410	manche	_	
+5-17	411-421	Autofahrer	_	
+5-18	422-425	auf	*[13]	
+5-19	426-429	der	*[13]	
+5-20	430-441	Rabinstraße	*[13]	
+5-21	441-442	.	_	
+
+#Text=Besonders ungünstig ist, dass man auf die linke Spur wechseln muss, wenn mann geradeaus über den Kreisverkehr Richtung Viktoriabrücke weiterfahren möchte.
+6-1	443-452	Besonders	_	
+6-2	453-462	ungünstig	_	
+6-3	463-466	ist	_	
+6-4	466-467	,	_	
+6-5	468-472	dass	_	
+6-6	473-476	man	_	
+6-7	477-480	auf	_	
+6-8	481-484	die	_	
+6-9	485-490	linke	_	
+6-10	491-495	Spur	_	
+6-11	496-504	wechseln	_	
+6-12	505-509	muss	_	
+6-13	509-510	,	_	
+6-14	511-515	wenn	_	
+6-15	516-520	mann	_	
+6-16	521-530	geradeaus	*[14]	
+6-17	531-535	über	*[14]	
+6-18	536-539	den	*[14]	
+6-19	540-552	Kreisverkehr	*[14]	
+6-20	553-561	Richtung	*[14]	
+6-21	562-576	Viktoriabrücke	*[14]	
+6-22	577-589	weiterfahren	_	
+6-23	590-596	möchte	_	
+6-24	596-597	.	_	
+
+#Text=Und der Spurwechsel erfolgt ausgerechnet in dem Bereich hinter der Kurve.
+7-1	598-601	Und	_	
+7-2	602-605	der	_	
+7-3	606-617	Spurwechsel	_	
+7-4	618-625	erfolgt	_	
+7-5	626-638	ausgerechnet	_	
+7-6	639-641	in	_	
+7-7	642-645	dem	_	
+7-8	646-653	Bereich	_	
+7-9	654-660	hinter	_	
+7-10	661-664	der	_	
+7-11	665-670	Kurve	_	
+7-12	670-671	.	_	
+
+#Text=Ich finde es schon tagsüber bei ormalen Sichtverhältnissen nicht sonderlich angenehm aber handhabbar, die Thomastraße entlang zu fahren.
+8-1	672-675	Ich	_	
+8-2	676-681	finde	_	
+8-3	682-684	es	_	
+8-4	685-690	schon	_	
+8-5	691-699	tagsüber	_	
+8-6	700-703	bei	_	
+8-7	704-711	ormalen	_	
+8-8	712-730	Sichtverhältnissen	_	
+8-9	731-736	nicht	_	
+8-10	737-747	sonderlich	_	
+8-11	748-756	angenehm	_	
+8-12	757-761	aber	_	
+8-13	762-772	handhabbar	_	
+8-14	772-773	,	_	
+8-15	774-777	die	*[15]	
+8-16	778-789	Thomastraße	*[15]	
+8-17	790-797	entlang	*[15]	
+8-18	798-800	zu	_	
+8-19	801-807	fahren	_	
+8-20	807-808	.	_	
+
+#Text=Besonders kritisch wird es aber abends oder bei Regen.
+9-1	809-818	Besonders	_	
+9-2	819-827	kritisch	_	
+9-3	828-832	wird	_	
+9-4	833-835	es	_	
+9-5	836-840	aber	_	
+9-6	841-847	abends	_	
+9-7	848-852	oder	_	
+9-8	853-856	bei	_	
+9-9	857-862	Regen	_	
+9-10	862-863	.	_	
+
+#Text=Mein Vorschlag ist hier die Radweg über den (ziemlich breiten) Gehweg auf der rechten Seite zu führen und die Auffahrt auf den Gehweg deutlich(!) zu markieren und zu beschildern.
+10-1	864-868	Mein	_	
+10-2	869-878	Vorschlag	_	
+10-3	879-882	ist	_	
+10-4	883-887	hier	_	
+10-5	888-891	die	_	
+10-6	892-898	Radweg	_	
+10-7	899-903	über	_	
+10-8	904-907	den	_	
+10-9	908-909	(	_	
+10-10	909-917	ziemlich	_	
+10-11	918-925	breiten	_	
+10-12	925-926	)	_	
+10-13	927-933	Gehweg	_	
+10-14	934-937	auf	_	
+10-15	938-941	der	_	
+10-16	942-949	rechten	_	
+10-17	950-955	Seite	_	
+10-18	956-958	zu	_	
+10-19	959-965	führen	_	
+10-20	966-969	und	_	
+10-21	970-973	die	_	
+10-22	974-982	Auffahrt	_	
+10-23	983-986	auf	_	
+10-24	987-990	den	_	
+10-25	991-997	Gehweg	_	
+10-26	998-1006	deutlich	_	
+10-27	1006-1007	(	_	
+10-28	1007-1008	!	_	
+10-29	1008-1009	)	_	
+10-30	1010-1012	zu	_	
+10-31	1013-1022	markieren	_	
+10-32	1023-1026	und	_	
+10-33	1027-1029	zu	_	
+10-34	1030-1041	beschildern	_	
+10-35	1041-1042	.	_	

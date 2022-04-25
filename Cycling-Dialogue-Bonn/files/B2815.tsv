@@ -1,0 +1,105 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rutschige Brücke und Drängelgitter
+1-1	0-9	Rutschige	_	
+1-2	10-16	Brücke	_	
+1-3	17-20	und	_	
+1-4	21-34	Drängelgitter	_	
+
+#Text=Über diese Brücke führt ein Radweg (Radweg-Wegweiser), doch sie ist nicht für Radverkehr geeignet.
+2-1	37-41	Über	_	
+2-2	42-47	diese	_	
+2-3	48-54	Brücke	_	
+2-4	55-60	führt	_	
+2-5	61-64	ein	_	
+2-6	65-71	Radweg	_	
+2-7	72-73	(	_	
+2-8	73-89	Radweg-Wegweiser	_	
+2-9	89-90	)	_	
+2-10	90-91	,	_	
+2-11	92-96	doch	_	
+2-12	97-100	sie	_	
+2-13	101-104	ist	_	
+2-14	105-110	nicht	_	
+2-15	111-114	für	_	
+2-16	115-125	Radverkehr	_	
+2-17	126-134	geeignet	_	
+2-18	134-135	.	_	
+
+#Text=Die Zufahrt wird rheinseitig durch Drängelgitter eingeschränkt.
+3-1	136-139	Die	_	
+3-2	140-147	Zufahrt	_	
+3-3	148-152	wird	_	
+3-4	153-164	rheinseitig	_	
+3-5	165-170	durch	_	
+3-6	171-184	Drängelgitter	_	
+3-7	185-198	eingeschränkt	_	
+3-8	198-199	.	_	
+
+#Text=Dabei ist nicht klar, wozu diese Absperrung überhaupt dienen soll.
+4-1	200-205	Dabei	_	
+4-2	206-209	ist	_	
+4-3	210-215	nicht	_	
+4-4	216-220	klar	_	
+4-5	220-221	,	_	
+4-6	222-226	wozu	_	
+4-7	227-232	diese	_	
+4-8	233-243	Absperrung	_	
+4-9	244-253	überhaupt	_	
+4-10	254-260	dienen	_	
+4-11	261-265	soll	_	
+4-12	265-266	.	_	
+
+#Text=Die Brücke ist mit Holzbohlen belegt, die bei feuchtem Wetter und insbesondere im Herbst rutschig ist.
+5-1	267-270	Die	_	
+5-2	271-277	Brücke	_	
+5-3	278-281	ist	_	
+5-4	282-285	mit	_	
+5-5	286-296	Holzbohlen	_	
+5-6	297-303	belegt	_	
+5-7	303-304	,	_	
+5-8	305-308	die	_	
+5-9	309-312	bei	_	
+5-10	313-321	feuchtem	_	
+5-11	322-328	Wetter	_	
+5-12	329-332	und	_	
+5-13	333-345	insbesondere	_	
+5-14	346-348	im	_	
+5-15	349-355	Herbst	_	
+5-16	356-364	rutschig	_	
+5-17	365-368	ist	_	
+5-18	368-369	.	_	
+
+#Text=Besser wäre: Schild mit dem Hinweis, dass die Brücke im Schritttempo zu befahren sei, und gleichzeitig Entfernung des Drängelgitters und Aufbringen eines rutschfreien Belags.
+6-1	370-376	Besser	_	
+6-2	377-381	wäre	_	
+6-3	381-382	:	_	
+6-4	383-389	Schild	_	
+6-5	390-393	mit	_	
+6-6	394-397	dem	_	
+6-7	398-405	Hinweis	_	
+6-8	405-406	,	_	
+6-9	407-411	dass	_	
+6-10	412-415	die	_	
+6-11	416-422	Brücke	_	
+6-12	423-425	im	_	
+6-13	426-438	Schritttempo	_	
+6-14	439-441	zu	_	
+6-15	442-450	befahren	_	
+6-16	451-454	sei	_	
+6-17	454-455	,	_	
+6-18	456-459	und	_	
+6-19	460-472	gleichzeitig	_	
+6-20	473-483	Entfernung	_	
+6-21	484-487	des	_	
+6-22	488-502	Drängelgitters	_	
+6-23	503-506	und	_	
+6-24	507-517	Aufbringen	_	
+6-25	518-523	eines	_	
+6-26	524-536	rutschfreien	_	
+6-27	537-543	Belags	_	
+6-28	543-544	.	_	

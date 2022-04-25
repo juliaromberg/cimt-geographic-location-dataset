@@ -1,0 +1,67 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unbrauchbare Fahrradabstellmöglichkeiten bei [NAME ENTFERNT] Supermarktfiliale Bushalle
+1-1	0-12	Unbrauchbare	_	
+1-2	13-40	Fahrradabstellmöglichkeiten	_	
+1-3	41-44	bei	_	
+1-4	45-46	[	_	
+1-5	46-50	NAME	_	
+1-6	51-59	ENTFERNT	_	
+1-7	59-60	]	_	
+1-8	61-78	Supermarktfiliale	_	
+1-9	79-87	Bushalle	_	
+
+#Text=Hier ist für Fahrräder alles total überfüllt.
+2-1	90-94	Hier	_	
+2-2	95-98	ist	_	
+2-3	99-102	für	_	
+2-4	103-112	Fahrräder	_	
+2-5	113-118	alles	_	
+2-6	119-124	total	_	
+2-7	125-134	überfüllt	_	
+2-8	134-135	.	_	
+
+#Text=Es stehen dort nur unbrauchbare Felgenkiller.
+3-1	136-138	Es	_	
+3-2	139-145	stehen	_	
+3-3	146-150	dort	_	
+3-4	151-154	nur	_	
+3-5	155-167	unbrauchbare	_	
+3-6	168-180	Felgenkiller	_	
+3-7	180-181	.	_	
+
+#Text=Und es fehlt an Abstellmöglichkeiten für Räder mit Anhänger.
+4-1	182-185	Und	_	
+4-2	186-188	es	_	
+4-3	189-194	fehlt	_	
+4-4	195-197	an	_	
+4-5	198-218	Abstellmöglichkeiten	_	
+4-6	219-222	für	_	
+4-7	223-228	Räder	_	
+4-8	229-232	mit	_	
+4-9	233-241	Anhänger	_	
+4-10	241-242	.	_	
+
+#Text=Man will ja schließlich auch was kaufen.
+5-1	243-246	Man	_	
+5-2	247-251	will	_	
+5-3	252-254	ja	_	
+5-4	255-266	schließlich	_	
+5-5	267-271	auch	_	
+5-6	272-275	was	_	
+5-7	276-282	kaufen	_	
+5-8	282-283	.	_	
+
+#Text=Aber Hauptsache es stehen Hunderte Autostellplätze zur Verfügung
+6-1	284-288	Aber	_	
+6-2	289-299	Hauptsache	_	
+6-3	300-302	es	_	
+6-4	303-309	stehen	_	
+6-5	310-318	Hunderte	_	
+6-6	319-334	Autostellplätze	_	
+6-7	335-338	zur	_	
+6-8	339-348	Verfügung	_	

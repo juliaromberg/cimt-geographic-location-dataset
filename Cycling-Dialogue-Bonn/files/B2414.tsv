@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rechtsabbiegespur und Radweg auf Flodelinsweg
+1-1	0-17	Rechtsabbiegespur	_	
+1-2	18-21	und	_	
+1-3	22-28	Radweg	_	
+1-4	29-32	auf	*[4]	
+1-5	33-45	Flodelinsweg	*[4]	
+
+#Text=Beim Rechtabbiegen vom Flodelinsweg kommend in die Sebastianstraße behindern undvgefährden ebenfalls rechtsabiegende Autos die Weiterfahrt mit dem Rad.
+2-1	48-52	Beim	*[5]	
+2-2	53-66	Rechtabbiegen	*[5]	
+2-3	67-70	vom	*[5]	
+2-4	71-83	Flodelinsweg	*[5]	
+2-5	84-91	kommend	*[5]	
+2-6	92-94	in	*[5]	
+2-7	95-98	die	*[5]	
+2-8	99-114	Sebastianstraße	*[5]	
+2-9	115-124	behindern	_	
+2-10	125-138	undvgefährden	_	
+2-11	139-148	ebenfalls	_	
+2-12	149-164	rechtsabiegende	_	
+2-13	165-170	Autos	_	
+2-14	171-174	die	_	
+2-15	175-186	Weiterfahrt	_	
+2-16	187-190	mit	_	
+2-17	191-194	dem	_	
+2-18	195-198	Rad	_	
+2-19	198-199	.	_	
+
+#Text=Ein Radweg auf dem Flodelinsweg und insbesondere eine Rechtsabbiegespur, würden den Verkehrsfluß extrem beschleunigen und die Gefährdung mindern.
+3-1	200-203	Ein	_	
+3-2	204-210	Radweg	_	
+3-3	211-214	auf	*[6]	
+3-4	215-218	dem	*[6]	
+3-5	219-231	Flodelinsweg	*[6]	
+3-6	232-235	und	_	
+3-7	236-248	insbesondere	_	
+3-8	249-253	eine	_	
+3-9	254-271	Rechtsabbiegespur	_	
+3-10	271-272	,	_	
+3-11	273-279	würden	_	
+3-12	280-283	den	_	
+3-13	284-296	Verkehrsfluß	_	
+3-14	297-303	extrem	_	
+3-15	304-317	beschleunigen	_	
+3-16	318-321	und	_	
+3-17	322-325	die	_	
+3-18	326-336	Gefährdung	_	
+3-19	337-344	mindern	_	
+3-20	344-345	.	_	

@@ -1,0 +1,28 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bürgersteige weiter abflachen
+1-1	0-12	Bürgersteige	_	
+1-2	13-19	weiter	_	
+1-3	20-29	abflachen	_	
+
+#Text=Die Bürgersteige sollten noch weiter abgeflacht werden, aktuell sind die Kanten Hindernisse und Felgenbrecher.
+2-1	32-35	Die	_	
+2-2	36-48	Bürgersteige	_	
+2-3	49-56	sollten	_	
+2-4	57-61	noch	_	
+2-5	62-68	weiter	_	
+2-6	69-79	abgeflacht	_	
+2-7	80-86	werden	_	
+2-8	86-87	,	_	
+2-9	88-95	aktuell	_	
+2-10	96-100	sind	_	
+2-11	101-104	die	_	
+2-12	105-111	Kanten	_	
+2-13	112-123	Hindernisse	_	
+2-14	124-127	und	_	
+2-15	128-141	Felgenbrecher	_	
+2-16	141-142	.	_	

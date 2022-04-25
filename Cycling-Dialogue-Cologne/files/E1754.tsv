@@ -1,0 +1,43 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehrsführung gefährlich
+1-1	0-15	Verkehrsführung	_	
+1-2	16-26	gefährlich	_	
+
+#Text=Zwischen Bahnhaltestelle und Bürgersteig fahren bisweilen Autos, parkende Fahrzeuge, Bahnen, Fahrradfahrer und Fußgänger auf ca. 4 m Breite.
+2-1	29-37	Zwischen	_	
+2-2	38-53	Bahnhaltestelle	_	
+2-3	54-57	und	_	
+2-4	58-69	Bürgersteig	_	
+2-5	70-76	fahren	_	
+2-6	77-86	bisweilen	_	
+2-7	87-92	Autos	_	
+2-8	92-93	,	_	
+2-9	94-102	parkende	_	
+2-10	103-112	Fahrzeuge	_	
+2-11	112-113	,	_	
+2-12	114-120	Bahnen	_	
+2-13	120-121	,	_	
+2-14	122-135	Fahrradfahrer	_	
+2-15	136-139	und	_	
+2-16	140-149	Fußgänger	_	
+2-17	150-153	auf	_	
+2-18	154-156	ca	_	
+2-19	156-157	.	_	
+2-20	158-159	4	_	
+2-21	160-161	m	_	
+2-22	162-168	Breite	_	
+2-23	168-169	.	_	
+
+#Text=Dies ist als bescheiden zu bezeichnen.
+3-1	170-174	Dies	_	
+3-2	175-178	ist	_	
+3-3	179-182	als	_	
+3-4	183-193	bescheiden	_	
+3-5	194-196	zu	_	
+3-6	197-207	bezeichnen	_	
+3-7	207-208	.	_	

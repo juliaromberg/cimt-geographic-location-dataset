@@ -1,0 +1,87 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parken in zweiter Reihe
+1-1	0-6	Parken	_	
+1-2	7-9	in	_	
+1-3	10-17	zweiter	_	
+1-4	18-23	Reihe	_	
+
+#Text=In der Lennestr. gibt es bereits links und rechts parkende Autos.
+2-1	26-28	In	*[8]	
+2-2	29-32	der	*[8]	
+2-3	33-41	Lennestr	*[8]	
+2-4	41-42	.	_	
+2-5	43-47	gibt	_	
+2-6	48-50	es	_	
+2-7	51-58	bereits	_	
+2-8	59-64	links	_	
+2-9	65-68	und	_	
+2-10	69-75	rechts	_	
+2-11	76-84	parkende	_	
+2-12	85-90	Autos	_	
+2-13	90-91	.	_	
+
+#Text=Aber jetzt wird auch noch auf der Straße (!!) eine zweite Reihe aufgemacht.
+3-1	92-96	Aber	_	
+3-2	97-102	jetzt	_	
+3-3	103-107	wird	_	
+3-4	108-112	auch	_	
+3-5	113-117	noch	_	
+3-6	118-121	auf	_	
+3-7	122-125	der	_	
+3-8	126-132	Straße	_	
+3-9	133-134	(	_	
+3-10	134-135	!	_	
+3-11	135-136	!	_	
+3-12	136-137	)	_	
+3-13	138-142	eine	_	
+3-14	143-149	zweite	_	
+3-15	150-155	Reihe	_	
+3-16	156-166	aufgemacht	_	
+3-17	166-167	.	_	
+
+#Text=Dadurch verengt sich der Fahrraum und die Strecke wird zum Hindernislauf.
+4-1	168-175	Dadurch	_	
+4-2	176-183	verengt	_	
+4-3	184-188	sich	_	
+4-4	189-192	der	_	
+4-5	193-201	Fahrraum	_	
+4-6	202-205	und	_	
+4-7	206-209	die	_	
+4-8	210-217	Strecke	_	
+4-9	218-222	wird	_	
+4-10	223-226	zum	_	
+4-11	227-240	Hindernislauf	_	
+4-12	240-241	.	_	
+
+#Text=Sehr witzig.
+5-1	242-246	Sehr	_	
+5-2	247-253	witzig	_	
+5-3	253-254	.	_	
+
+#Text=Also abschaffen und zwar sofort.
+6-1	255-259	Also	_	
+6-2	260-270	abschaffen	_	
+6-3	271-274	und	_	
+6-4	275-279	zwar	_	
+6-5	280-286	sofort	_	
+6-6	286-287	.	_	
+
+#Text=Freie Fahrt für Wut-Radfahrer, die die Benachteiligung schon lange satt haben.
+7-1	288-293	Freie	_	
+7-2	294-299	Fahrt	_	
+7-3	300-303	für	_	
+7-4	304-317	Wut-Radfahrer	_	
+7-5	317-318	,	_	
+7-6	319-322	die	_	
+7-7	323-326	die	_	
+7-8	327-342	Benachteiligung	_	
+7-9	343-348	schon	_	
+7-10	349-354	lange	_	
+7-11	355-359	satt	_	
+7-12	360-365	haben	_	
+7-13	365-366	.	_	

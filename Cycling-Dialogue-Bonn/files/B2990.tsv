@@ -1,0 +1,109 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Abbiegen nur in einer Richtung vorgesehen
+1-1	0-8	Abbiegen	_	
+1-2	9-12	nur	_	
+1-3	13-15	in	_	
+1-4	16-21	einer	_	
+1-5	22-30	Richtung	_	
+1-6	31-41	vorgesehen	_	
+
+#Text=Mit der Umwandlung der Teutonenstraße in eine Fahrradstraße ist zwar vorgesehen worden, dass man aus der Teutonenstraße kommend links abbiegt auf die Wurzerstraße (dann weiter in Richtung Augustastraße).
+2-1	44-47	Mit	_	
+2-2	48-51	der	_	
+2-3	52-62	Umwandlung	_	
+2-4	63-66	der	_	
+2-5	67-81	Teutonenstraße	*	
+2-6	82-84	in	_	
+2-7	85-89	eine	_	
+2-8	90-103	Fahrradstraße	_	
+2-9	104-107	ist	_	
+2-10	108-112	zwar	_	
+2-11	113-123	vorgesehen	_	
+2-12	124-130	worden	_	
+2-13	130-131	,	_	
+2-14	132-136	dass	_	
+2-15	137-140	man	_	
+2-16	141-144	aus	*[5]	
+2-17	145-148	der	*[5]	
+2-18	149-163	Teutonenstraße	*[5]	
+2-19	164-171	kommend	*[5]	
+2-20	172-177	links	*[5]	
+2-21	178-185	abbiegt	*[5]	
+2-22	186-189	auf	*[5]	
+2-23	190-193	die	*[5]	
+2-24	194-206	Wurzerstraße	*[5]	
+2-25	207-208	(	*[5]	
+2-26	208-212	dann	*[5]	
+2-27	213-219	weiter	*[5]	
+2-28	220-222	in	*[5]	
+2-29	223-231	Richtung	*[5]	
+2-30	232-245	Augustastraße	*[5]	
+2-31	245-246	)	_	
+2-32	246-247	.	_	
+
+#Text=Aber wenn von aus Richtung Godesberger Allee kommt und nach links in die Teutonenstraße abbiegen möchte (z.B. auch um die gefährliche Kreuzung God. Allee / Wurzerstr. zu vermeiden), dann ist dieses Links-Abbiegen nicht vorgesehen.
+3-1	248-252	Aber	_	
+3-2	253-257	wenn	_	
+3-3	258-261	von	_	
+3-4	262-265	aus	*[6]	
+3-5	266-274	Richtung	*[6]	
+3-6	275-286	Godesberger	*[6]	
+3-7	287-292	Allee	*[6]	
+3-8	293-298	kommt	*[6]	
+3-9	299-302	und	*[6]	
+3-10	303-307	nach	*[6]	
+3-11	308-313	links	*[6]	
+3-12	314-316	in	*[6]	
+3-13	317-320	die	*[6]	
+3-14	321-335	Teutonenstraße	*[6]	
+3-15	336-344	abbiegen	*[6]	
+3-16	345-351	möchte	_	
+3-17	352-353	(	_	
+3-18	353-356	z.B	_	
+3-19	356-357	.	_	
+3-20	358-362	auch	_	
+3-21	363-365	um	_	
+3-22	366-369	die	_	
+3-23	370-381	gefährliche	_	
+3-24	382-390	Kreuzung	*[7]	
+3-25	391-394	God	*[7]	
+3-26	394-395	.	*[7]	
+3-27	396-401	Allee	*[7]	
+3-28	402-403	/	*[7]	
+3-29	404-413	Wurzerstr	*[7]	
+3-30	413-414	.	*[7]	
+3-31	415-417	zu	_	
+3-32	418-427	vermeiden	_	
+3-33	427-428	)	_	
+3-34	428-429	,	_	
+3-35	430-434	dann	_	
+3-36	435-438	ist	_	
+3-37	439-445	dieses	_	
+3-38	446-460	Links-Abbiegen	_	
+3-39	461-466	nicht	_	
+3-40	467-477	vorgesehen	_	
+3-41	477-478	.	_	
+
+#Text=Hier müsste ein Stellplatz geopfert und etwas Gebüsch weggeschnitten werden, damit das auch vernünftig geht.
+4-1	479-483	Hier	_	
+4-2	484-490	müsste	_	
+4-3	491-494	ein	_	
+4-4	495-505	Stellplatz	_	
+4-5	506-514	geopfert	_	
+4-6	515-518	und	_	
+4-7	519-524	etwas	_	
+4-8	525-532	Gebüsch	_	
+4-9	533-547	weggeschnitten	_	
+4-10	548-554	werden	_	
+4-11	554-555	,	_	
+4-12	556-561	damit	_	
+4-13	562-565	das	_	
+4-14	566-570	auch	_	
+4-15	571-581	vernünftig	_	
+4-16	582-586	geht	_	
+4-17	586-587	.	_	

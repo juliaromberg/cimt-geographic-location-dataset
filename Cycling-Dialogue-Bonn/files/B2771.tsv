@@ -1,0 +1,116 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Aufteilung in Geh- und Radteil entspricht nicht der Realität
+1-1	0-10	Aufteilung	_	
+1-2	11-13	in	_	
+1-3	14-17	Geh	_	
+1-4	17-18	-	_	
+1-5	19-22	und	_	
+1-6	23-30	Radteil	_	
+1-7	31-41	entspricht	_	
+1-8	42-47	nicht	_	
+1-9	48-51	der	_	
+1-10	52-60	Realität	_	
+
+#Text=Die Überquerung an der Ampel ist in einen 2/3 Gehweg und 1/3 Radweg geteilt.
+2-1	63-66	Die	_	
+2-2	67-78	Überquerung	_	
+2-3	79-81	an	_	
+2-4	82-85	der	_	
+2-5	86-91	Ampel	_	
+2-6	92-95	ist	_	
+2-7	96-98	in	_	
+2-8	99-104	einen	_	
+2-9	105-106	2	_	
+2-10	106-107	/	_	
+2-11	107-108	3	_	
+2-12	109-115	Gehweg	_	
+2-13	116-119	und	_	
+2-14	120-121	1	_	
+2-15	121-122	/	_	
+2-16	122-123	3	_	
+2-17	124-130	Radweg	_	
+2-18	131-138	geteilt	_	
+2-19	138-139	.	_	
+
+#Text=Die Ampel auf der mittleren Insel steht genau auf der Grenze.
+3-1	140-143	Die	_	
+3-2	144-149	Ampel	_	
+3-3	150-153	auf	_	
+3-4	154-157	der	_	
+3-5	158-167	mittleren	_	
+3-6	168-173	Insel	_	
+3-7	174-179	steht	_	
+3-8	180-185	genau	_	
+3-9	186-189	auf	_	
+3-10	190-193	der	_	
+3-11	194-200	Grenze	_	
+3-12	200-201	.	_	
+
+#Text=Der Radweg ist jedoch für Begegnungsverkehr etwas zu schmal, sodass Radfahrer häufig auch auf dem Gegweg fahren.
+4-1	202-205	Der	_	
+4-2	206-212	Radweg	_	
+4-3	213-216	ist	_	
+4-4	217-223	jedoch	_	
+4-5	224-227	für	_	
+4-6	228-245	Begegnungsverkehr	_	
+4-7	246-251	etwas	_	
+4-8	252-254	zu	_	
+4-9	255-261	schmal	_	
+4-10	261-262	,	_	
+4-11	263-269	sodass	_	
+4-12	270-279	Radfahrer	_	
+4-13	280-286	häufig	_	
+4-14	287-291	auch	_	
+4-15	292-295	auf	_	
+4-16	296-299	dem	_	
+4-17	300-306	Gegweg	_	
+4-18	307-313	fahren	_	
+4-19	313-314	.	_	
+
+#Text=Fußgänger laufen oft auch auf dem Radweg, dann fährt der erste Radfahrer um sie herum und die Trennung ist nicht mehr gegeben.
+5-1	315-324	Fußgänger	_	
+5-2	325-331	laufen	_	
+5-3	332-335	oft	_	
+5-4	336-340	auch	_	
+5-5	341-344	auf	_	
+5-6	345-348	dem	_	
+5-7	349-355	Radweg	_	
+5-8	355-356	,	_	
+5-9	357-361	dann	_	
+5-10	362-367	fährt	_	
+5-11	368-371	der	_	
+5-12	372-377	erste	_	
+5-13	378-387	Radfahrer	_	
+5-14	388-390	um	_	
+5-15	391-394	sie	_	
+5-16	395-400	herum	_	
+5-17	401-404	und	_	
+5-18	405-408	die	_	
+5-19	409-417	Trennung	_	
+5-20	418-421	ist	_	
+5-21	422-427	nicht	_	
+5-22	428-432	mehr	_	
+5-23	433-440	gegeben	_	
+5-24	440-441	.	_	
+
+#Text=Vielleicht sollte man entweder die Trennung aufheben oder die Breite des Radwegs etwas vergrößern.
+6-1	442-452	Vielleicht	_	
+6-2	453-459	sollte	_	
+6-3	460-463	man	_	
+6-4	464-472	entweder	_	
+6-5	473-476	die	_	
+6-6	477-485	Trennung	_	
+6-7	486-494	aufheben	_	
+6-8	495-499	oder	_	
+6-9	500-503	die	_	
+6-10	504-510	Breite	_	
+6-11	511-514	des	_	
+6-12	515-522	Radwegs	_	
+6-13	523-528	etwas	_	
+6-14	529-539	vergrößern	_	
+6-15	539-540	.	_	

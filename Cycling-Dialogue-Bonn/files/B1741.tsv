@@ -1,0 +1,46 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=P+R
+1-1	0-1	P	_	
+1-2	1-2	+	_	
+1-3	2-3	R	_	
+
+#Text=Am Stadthaus sind deutlich mehr Fahrradabstellplätze nötig, um allen P+R-Pendlern einen sicheren Abstellplatz zu gewähren.
+2-1	6-8	Am	*[4]	
+2-2	9-18	Stadthaus	*[4]	
+2-3	19-23	sind	_	
+2-4	24-32	deutlich	_	
+2-5	33-37	mehr	_	
+2-6	38-58	Fahrradabstellplätze	_	
+2-7	59-64	nötig	_	
+2-8	64-65	,	_	
+2-9	66-68	um	_	
+2-10	69-74	allen	_	
+2-11	75-76	P	_	
+2-12	76-77	+	_	
+2-13	77-87	R-Pendlern	_	
+2-14	88-93	einen	_	
+2-15	94-102	sicheren	_	
+2-16	103-115	Abstellplatz	_	
+2-17	116-118	zu	_	
+2-18	119-127	gewähren	_	
+2-19	127-128	.	_	
+
+#Text=Am besten solche, an denen man sein Fahrrad sicher abschließen kann.
+3-1	129-131	Am	_	
+3-2	132-138	besten	_	
+3-3	139-145	solche	_	
+3-4	145-146	,	_	
+3-5	147-149	an	_	
+3-6	150-155	denen	_	
+3-7	156-159	man	_	
+3-8	160-164	sein	_	
+3-9	165-172	Fahrrad	_	
+3-10	173-179	sicher	_	
+3-11	180-191	abschließen	_	
+3-12	192-196	kann	_	
+3-13	196-197	.	_	

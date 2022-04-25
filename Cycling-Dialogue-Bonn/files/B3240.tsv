@@ -1,0 +1,119 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Doppelt gemoppelt
+1-1	0-7	Doppelt	_	
+1-2	8-17	gemoppelt	_	
+
+#Text=Das letzte Stück der Kölnstrasse, vom Lievelingsweg bis zum Chlodwigplatz, ist für Fahrradfahrer in beide Richtungen frei gegeben.
+2-1	20-23	Das	_	
+2-2	24-30	letzte	*[8]	
+2-3	31-36	Stück	*[8]	
+2-4	37-40	der	*[8]	
+2-5	41-52	Kölnstrasse	*[8]	
+2-6	52-53	,	*[8]	
+2-7	54-57	vom	*[8]	
+2-8	58-71	Lievelingsweg	*[8]	
+2-9	72-75	bis	*[8]	
+2-10	76-79	zum	*[8]	
+2-11	80-93	Chlodwigplatz	*[8]	
+2-12	93-94	,	_	
+2-13	95-98	ist	_	
+2-14	99-102	für	_	
+2-15	103-116	Fahrradfahrer	_	
+2-16	117-119	in	_	
+2-17	120-125	beide	_	
+2-18	126-136	Richtungen	_	
+2-19	137-141	frei	_	
+2-20	142-149	gegeben	_	
+2-21	149-150	.	_	
+
+#Text=Die Breite des Radweges ist aber genauso schmall wie auf dem Stück davor.
+3-1	151-154	Die	_	
+3-2	155-161	Breite	_	
+3-3	162-165	des	_	
+3-4	166-174	Radweges	_	
+3-5	175-178	ist	_	
+3-6	179-183	aber	_	
+3-7	184-191	genauso	_	
+3-8	192-199	schmall	_	
+3-9	200-203	wie	_	
+3-10	204-207	auf	_	
+3-11	208-211	dem	_	
+3-12	212-217	Stück	_	
+3-13	218-223	davor	_	
+3-14	223-224	.	_	
+
+#Text=Außerdem ist auf der gegenüberliegenden Seite der Gehweg ebenfalls, stadtauswerts als Radweg frei gegeben.
+4-1	225-233	Außerdem	_	
+4-2	234-237	ist	_	
+4-3	238-241	auf	_	
+4-4	242-245	der	_	
+4-5	246-264	gegenüberliegenden	_	
+4-6	265-270	Seite	_	
+4-7	271-274	der	_	
+4-8	275-281	Gehweg	_	
+4-9	282-291	ebenfalls	_	
+4-10	291-292	,	_	
+4-11	293-306	stadtauswerts	_	
+4-12	307-310	als	_	
+4-13	311-317	Radweg	_	
+4-14	318-322	frei	_	
+4-15	323-330	gegeben	_	
+4-16	330-331	.	_	
+
+#Text=Dort fahren aber auch Räder in die falscheRichtung.
+5-1	332-336	Dort	_	
+5-2	337-343	fahren	_	
+5-3	344-348	aber	_	
+5-4	349-353	auch	_	
+5-5	354-359	Räder	_	
+5-6	360-362	in	_	
+5-7	363-366	die	_	
+5-8	367-382	falscheRichtung	_	
+5-9	382-383	.	_	
+
+#Text=Gerade im Kreuzungsbereich, durch die vielen Schüler und Fussgänger, parkende Autos etc. ist es an dieser Stelle oft unübersichtlich und schwierig zu fahren.
+6-1	384-390	Gerade	_	
+6-2	391-393	im	_	
+6-3	394-410	Kreuzungsbereich	_	
+6-4	410-411	,	_	
+6-5	412-417	durch	_	
+6-6	418-421	die	_	
+6-7	422-428	vielen	_	
+6-8	429-436	Schüler	_	
+6-9	437-440	und	_	
+6-10	441-451	Fussgänger	_	
+6-11	451-452	,	_	
+6-12	453-461	parkende	_	
+6-13	462-467	Autos	_	
+6-14	468-471	etc	_	
+6-15	471-472	.	_	
+6-16	473-476	ist	_	
+6-17	477-479	es	_	
+6-18	480-482	an	_	
+6-19	483-489	dieser	_	
+6-20	490-496	Stelle	_	
+6-21	497-500	oft	_	
+6-22	501-516	unübersichtlich	_	
+6-23	517-520	und	_	
+6-24	521-530	schwierig	_	
+6-25	531-533	zu	_	
+6-26	534-540	fahren	_	
+6-27	540-541	.	_	
+
+#Text=In beide Richtungen sind die Rad/Gehwege zu eng.
+7-1	542-544	In	_	
+7-2	545-550	beide	_	
+7-3	551-561	Richtungen	_	
+7-4	562-566	sind	_	
+7-5	567-570	die	_	
+7-6	571-574	Rad	_	
+7-7	574-575	/	_	
+7-8	575-582	Gehwege	_	
+7-9	583-585	zu	_	
+7-10	586-589	eng	_	
+7-11	589-590	.	_	

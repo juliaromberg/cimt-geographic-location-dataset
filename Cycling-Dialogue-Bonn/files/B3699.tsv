@@ -1,0 +1,117 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wegfall eines weiteren Radweges
+1-1	0-7	Wegfall	_	
+1-2	8-13	eines	_	
+1-3	14-22	weiteren	_	
+1-4	23-31	Radweges	_	
+
+#Text=Der Wegfall eines weiteren Radweges, konkret seit gestern, 16.10.17, auf der Rheingasse in Bonn ist eine erneute Zumutung für Radfahrer.
+2-1	34-37	Der	_	
+2-2	38-45	Wegfall	_	
+2-3	46-51	eines	_	
+2-4	52-60	weiteren	_	
+2-5	61-69	Radweges	_	
+2-6	69-70	,	_	
+2-7	71-78	konkret	_	
+2-8	79-83	seit	_	
+2-9	84-91	gestern	_	
+2-10	91-92	,	_	
+2-11	93-101	16.10.17	_	
+2-12	101-102	,	_	
+2-13	103-106	auf	*[7]	
+2-14	107-110	der	*[7]	
+2-15	111-121	Rheingasse	*[7]	
+2-16	122-124	in	*[7]	
+2-17	125-129	Bonn	*[7]	
+2-18	130-133	ist	_	
+2-19	134-138	eine	_	
+2-20	139-146	erneute	_	
+2-21	147-155	Zumutung	_	
+2-22	156-159	für	_	
+2-23	160-169	Radfahrer	_	
+2-24	169-170	.	_	
+
+#Text=Erneut werden wegen einer privaten Baustelle Teile des Verkehrs (alle Radfahrer) ausgeschlossen.
+3-1	171-177	Erneut	_	
+3-2	178-184	werden	_	
+3-3	185-190	wegen	_	
+3-4	191-196	einer	_	
+3-5	197-205	privaten	_	
+3-6	206-215	Baustelle	_	
+3-7	216-221	Teile	_	
+3-8	222-225	des	_	
+3-9	226-234	Verkehrs	_	
+3-10	235-236	(	_	
+3-11	236-240	alle	_	
+3-12	241-250	Radfahrer	_	
+3-13	250-251	)	_	
+3-14	252-266	ausgeschlossen	_	
+3-15	266-267	.	_	
+
+#Text=Wenn dort Autos an der Ampel stehen, kann der Radweg nicht benutzt werden.
+4-1	268-272	Wenn	_	
+4-2	273-277	dort	_	
+4-3	278-283	Autos	_	
+4-4	284-286	an	_	
+4-5	287-290	der	_	
+4-6	291-296	Ampel	_	
+4-7	297-303	stehen	_	
+4-8	303-304	,	_	
+4-9	305-309	kann	_	
+4-10	310-313	der	_	
+4-11	314-320	Radweg	_	
+4-12	321-326	nicht	_	
+4-13	327-334	benutzt	_	
+4-14	335-341	werden	_	
+4-15	341-342	.	_	
+
+#Text=Vor der Absperrung kan man noch links vorbei, jetzt gerät man dort in den Gegenverkehr und hat keine Chance mehr auszuweichen.
+5-1	343-346	Vor	_	
+5-2	347-350	der	_	
+5-3	351-361	Absperrung	_	
+5-4	362-365	kan	_	
+5-5	366-369	man	_	
+5-6	370-374	noch	_	
+5-7	375-380	links	_	
+5-8	381-387	vorbei	_	
+5-9	387-388	,	_	
+5-10	389-394	jetzt	_	
+5-11	395-400	gerät	_	
+5-12	401-404	man	_	
+5-13	405-409	dort	_	
+5-14	410-412	in	_	
+5-15	413-416	den	_	
+5-16	417-429	Gegenverkehr	_	
+5-17	430-433	und	_	
+5-18	434-437	hat	_	
+5-19	438-443	keine	_	
+5-20	444-450	Chance	_	
+5-21	451-455	mehr	_	
+5-22	456-468	auszuweichen	_	
+5-23	468-469	.	_	
+
+#Text=Es wird alles immer nur gefährlicher für Radfahrer, damit die Autofahrer es schön bequem haben!!!
+6-1	470-472	Es	_	
+6-2	473-477	wird	_	
+6-3	478-483	alles	_	
+6-4	484-489	immer	_	
+6-5	490-493	nur	_	
+6-6	494-506	gefährlicher	_	
+6-7	507-510	für	_	
+6-8	511-520	Radfahrer	_	
+6-9	520-521	,	_	
+6-10	522-527	damit	_	
+6-11	528-531	die	_	
+6-12	532-542	Autofahrer	_	
+6-13	543-545	es	_	
+6-14	546-551	schön	_	
+6-15	552-558	bequem	_	
+6-16	559-564	haben	_	
+6-17	564-565	!	_	
+6-18	565-566	!	_	
+6-19	566-567	!	_	

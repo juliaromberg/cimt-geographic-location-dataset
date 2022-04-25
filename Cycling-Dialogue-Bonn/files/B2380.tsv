@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beschilderung
+1-1	0-13	Beschilderung	_	
+
+#Text=Aufgrund der unterschiedlichen Asphaltierungen am Konrad-Zuse-Platz sind die Vorfahrtsregeln nicht für jeden eindeutig.
+2-1	16-24	Aufgrund	_	
+2-2	25-28	der	_	
+2-3	29-46	unterschiedlichen	_	
+2-4	47-62	Asphaltierungen	_	
+2-5	63-65	am	*[3]	
+2-6	66-83	Konrad-Zuse-Platz	*[3]	
+2-7	84-88	sind	_	
+2-8	89-92	die	_	
+2-9	93-108	Vorfahrtsregeln	_	
+2-10	109-114	nicht	_	
+2-11	115-118	für	_	
+2-12	119-124	jeden	_	
+2-13	125-134	eindeutig	_	
+2-14	134-135	.	_	
+
+#Text=Beschilderung wäre wünschenswert.
+3-1	136-149	Beschilderung	_	
+3-2	150-154	wäre	_	
+3-3	155-168	wünschenswert	_	
+3-4	168-169	.	_	

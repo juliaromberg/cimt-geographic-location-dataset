@@ -1,0 +1,261 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Tempo Reduzierung/ zusätzlich Fahrradstreifen/
+1-1	0-5	Tempo	_	
+1-2	6-17	Reduzierung	_	
+1-3	17-18	/	_	
+1-4	19-29	zusätzlich	_	
+1-5	30-45	Fahrradstreifen	_	
+1-6	45-46	/	_	
+
+#Text=Es sollte generell überlegt werden auf sämtlichen Straßen in dem Gebiet das Tempo zu reduzieren (30kmh bzw. 40kmh) um die Geschwindigkeiten von Fahrrad un Auto anzugleichen.
+2-1	49-51	Es	_	
+2-2	52-58	sollte	_	
+2-3	59-67	generell	_	
+2-4	68-76	überlegt	_	
+2-5	77-83	werden	_	
+2-6	84-87	auf	_	
+2-7	88-98	sämtlichen	_	
+2-8	99-106	Straßen	_	
+2-9	107-109	in	_	
+2-10	110-113	dem	_	
+2-11	114-120	Gebiet	_	
+2-12	121-124	das	_	
+2-13	125-130	Tempo	_	
+2-14	131-133	zu	_	
+2-15	134-144	reduzieren	_	
+2-16	145-146	(	_	
+2-17	146-151	30kmh	_	
+2-18	152-155	bzw	_	
+2-19	155-156	.	_	
+2-20	157-162	40kmh	_	
+2-21	162-163	)	_	
+2-22	164-166	um	_	
+2-23	167-170	die	_	
+2-24	171-188	Geschwindigkeiten	_	
+2-25	189-192	von	_	
+2-26	193-200	Fahrrad	_	
+2-27	201-203	un	_	
+2-28	204-208	Auto	_	
+2-29	209-221	anzugleichen	_	
+2-30	221-222	.	_	
+
+#Text=(grosse Verbindungsstraßen (Innere / äussere Kanalstraße könnten hierbei ausgenommen werden)
+3-1	223-224	(	_	
+3-2	224-230	grosse	_	
+3-3	231-249	Verbindungsstraßen	_	
+3-4	250-251	(	_	
+3-5	251-257	Innere	*[12]	
+3-6	258-259	/	*[12]	
+3-7	260-267	äussere	*[12]	
+3-8	268-279	Kanalstraße	*[12]	
+3-9	280-287	könnten	_	
+3-10	288-295	hierbei	_	
+3-11	296-307	ausgenommen	_	
+3-12	308-314	werden	_	
+3-13	314-315	)	_	
+
+#Text=Das fördet die Übersichtlichkeit und entschärft die Problematik mit abbiegenden und in die Straßen einfahrenden Verkehrsteilnehmern.
+4-1	316-319	Das	_	
+4-2	320-326	fördet	_	
+4-3	327-330	die	_	
+4-4	331-348	Übersichtlichkeit	_	
+4-5	349-352	und	_	
+4-6	353-363	entschärft	_	
+4-7	364-367	die	_	
+4-8	368-379	Problematik	_	
+4-9	380-383	mit	_	
+4-10	384-395	abbiegenden	_	
+4-11	396-399	und	_	
+4-12	400-402	in	_	
+4-13	403-406	die	_	
+4-14	407-414	Straßen	_	
+4-15	415-427	einfahrenden	_	
+4-16	428-447	Verkehrsteilnehmern	_	
+4-17	447-448	.	_	
+
+#Text=Diese Maßnahme sollte sofort dort geschehen wo keine , bzw. nur unzureichende Fahrradwege zur Verfügung stehen.
+5-1	449-454	Diese	_	
+5-2	455-463	Maßnahme	_	
+5-3	464-470	sollte	_	
+5-4	471-477	sofort	_	
+5-5	478-482	dort	_	
+5-6	483-492	geschehen	_	
+5-7	493-495	wo	_	
+5-8	496-501	keine	_	
+5-9	502-503	,	_	
+5-10	504-507	bzw	_	
+5-11	507-508	.	_	
+5-12	509-512	nur	_	
+5-13	513-526	unzureichende	_	
+5-14	527-538	Fahrradwege	_	
+5-15	539-542	zur	_	
+5-16	543-552	Verfügung	_	
+5-17	553-559	stehen	_	
+5-18	559-560	.	_	
+
+#Text=Kreuzung Vogelsanger Straße / Helmholtzstraße Doppelte Abbiegespur auf der Vogelsanger Straße links/ links + gerade / gerade + rechts Vogelsanger Straße führt zu gefärlichen Abbiegesituation mit dem Fahrrad.
+6-1	561-569	Kreuzung	*[13]	
+6-2	570-581	Vogelsanger	*[13]	
+6-3	582-588	Straße	*[13]	
+6-4	589-590	/	*[13]	
+6-5	591-606	Helmholtzstraße	*[13]	
+6-6	607-615	Doppelte	_	
+6-7	616-627	Abbiegespur	_	
+6-8	628-631	auf	*[14]	
+6-9	632-635	der	*[14]	
+6-10	636-647	Vogelsanger	*[14]	
+6-11	648-654	Straße	*[14]	
+6-12	655-660	links	*[14]	
+6-13	660-661	/	*[14]	
+6-14	662-667	links	*[14]	
+6-15	668-669	+	*[14]	
+6-16	670-676	gerade	*[14]	
+6-17	677-678	/	*[14]	
+6-18	679-685	gerade	*[14]	
+6-19	686-687	+	*[14]	
+6-20	688-694	rechts	*[14]	
+6-21	695-706	Vogelsanger	*[14]	
+6-22	707-713	Straße	*[14]	
+6-23	714-719	führt	_	
+6-24	720-722	zu	_	
+6-25	723-734	gefärlichen	_	
+6-26	735-751	Abbiegesituation	_	
+6-27	752-755	mit	_	
+6-28	756-759	dem	_	
+6-29	760-767	Fahrrad	_	
+6-30	767-768	.	_	
+
+#Text=Ferner fördert die Doppelspur (endet nach ca. 200 m) die Autofahrer hier zu Beschleunigungsrennen.
+7-1	769-775	Ferner	_	
+7-2	776-783	fördert	_	
+7-3	784-787	die	_	
+7-4	788-798	Doppelspur	_	
+7-5	799-800	(	_	
+7-6	800-805	endet	_	
+7-7	806-810	nach	_	
+7-8	811-813	ca	_	
+7-9	813-814	.	_	
+7-10	815-818	200	_	
+7-11	819-820	m	_	
+7-12	820-821	)	_	
+7-13	822-825	die	_	
+7-14	826-836	Autofahrer	_	
+7-15	837-841	hier	_	
+7-16	842-844	zu	_	
+7-17	845-866	Beschleunigungsrennen	_	
+7-18	866-867	.	_	
+
+#Text=Dabei wird häufig die erlaubte Geschwindigkeit (50kmh !?) deutlich überschritten.
+8-1	868-873	Dabei	_	
+8-2	874-878	wird	_	
+8-3	879-885	häufig	_	
+8-4	886-889	die	_	
+8-5	890-898	erlaubte	_	
+8-6	899-914	Geschwindigkeit	_	
+8-7	915-916	(	_	
+8-8	916-921	50kmh	_	
+8-9	922-923	!	_	
+8-10	923-924	?	_	
+8-11	924-925	)	_	
+8-12	926-934	deutlich	_	
+8-13	935-948	überschritten	_	
+8-14	948-949	.	_	
+
+#Text=Ferner ist die Ampelschaltung unübersichtlich, da teilweise Fussgängerampel grün geschaltet ist und der Autoverkehr abbiegen kann (schon mehrer gefährliche Situationen erlebt)
+9-1	950-956	Ferner	_	
+9-2	957-960	ist	_	
+9-3	961-964	die	_	
+9-4	965-979	Ampelschaltung	_	
+9-5	980-995	unübersichtlich	_	
+9-6	995-996	,	_	
+9-7	997-999	da	_	
+9-8	1000-1009	teilweise	_	
+9-9	1010-1025	Fussgängerampel	_	
+9-10	1026-1030	grün	_	
+9-11	1031-1041	geschaltet	_	
+9-12	1042-1045	ist	_	
+9-13	1046-1049	und	_	
+9-14	1050-1053	der	_	
+9-15	1054-1065	Autoverkehr	_	
+9-16	1066-1074	abbiegen	_	
+9-17	1075-1079	kann	_	
+9-18	1080-1081	(	_	
+9-19	1081-1086	schon	_	
+9-20	1087-1093	mehrer	_	
+9-21	1094-1105	gefährliche	_	
+9-22	1106-1117	Situationen	_	
+9-23	1118-1124	erlebt	_	
+9-24	1124-1125	)	_	
+
+#Text=Die Herstellung eines durchgängigen und vernünftigen Radweges entlang der Oskar Jäger Straße ist notwendig , in der jetzigen Form ist der Fahrradwegunzureichen und gefährlich, da man immer wieder auf die stark befahrene Straße (viel LKW-Verkehr) ausweichen muß.
+10-1	1126-1129	Die	_	
+10-2	1130-1141	Herstellung	_	
+10-3	1142-1147	eines	_	
+10-4	1148-1161	durchgängigen	_	
+10-5	1162-1165	und	_	
+10-6	1166-1178	vernünftigen	_	
+10-7	1179-1187	Radweges	_	
+10-8	1188-1195	entlang	*[15]	
+10-9	1196-1199	der	*[15]	
+10-10	1200-1205	Oskar	*[15]	
+10-11	1206-1211	Jäger	*[15]	
+10-12	1212-1218	Straße	*[15]	
+10-13	1219-1222	ist	_	
+10-14	1223-1232	notwendig	_	
+10-15	1233-1234	,	_	
+10-16	1235-1237	in	_	
+10-17	1238-1241	der	_	
+10-18	1242-1250	jetzigen	_	
+10-19	1251-1255	Form	_	
+10-20	1256-1259	ist	_	
+10-21	1260-1263	der	_	
+10-22	1264-1285	Fahrradwegunzureichen	_	
+10-23	1286-1289	und	_	
+10-24	1290-1300	gefährlich	_	
+10-25	1300-1301	,	_	
+10-26	1302-1304	da	_	
+10-27	1305-1308	man	_	
+10-28	1309-1314	immer	_	
+10-29	1315-1321	wieder	_	
+10-30	1322-1325	auf	_	
+10-31	1326-1329	die	_	
+10-32	1330-1335	stark	_	
+10-33	1336-1345	befahrene	_	
+10-34	1346-1352	Straße	_	
+10-35	1353-1354	(	_	
+10-36	1354-1358	viel	_	
+10-37	1359-1370	LKW-Verkehr	_	
+10-38	1370-1371	)	_	
+10-39	1372-1382	ausweichen	_	
+10-40	1383-1386	muß	_	
+10-41	1386-1387	.	_	
+
+#Text=Sollte der Platz für beiden Seiten nicht vorhanden sein, könnte man auch über einen gut ausgebauten Weg nur auf einer Straßenseite führen
+11-1	1388-1394	Sollte	_	
+11-2	1395-1398	der	_	
+11-3	1399-1404	Platz	_	
+11-4	1405-1408	für	_	
+11-5	1409-1415	beiden	_	
+11-6	1416-1422	Seiten	_	
+11-7	1423-1428	nicht	_	
+11-8	1429-1438	vorhanden	_	
+11-9	1439-1443	sein	_	
+11-10	1443-1444	,	_	
+11-11	1445-1451	könnte	_	
+11-12	1452-1455	man	_	
+11-13	1456-1460	auch	_	
+11-14	1461-1465	über	_	
+11-15	1466-1471	einen	_	
+11-16	1472-1475	gut	_	
+11-17	1476-1487	ausgebauten	_	
+11-18	1488-1491	Weg	_	
+11-19	1492-1495	nur	_	
+11-20	1496-1499	auf	_	
+11-21	1500-1505	einer	_	
+11-22	1506-1518	Straßenseite	_	
+11-23	1519-1525	führen	_	

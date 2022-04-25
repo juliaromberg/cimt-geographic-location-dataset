@@ -1,0 +1,162 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlender Radweg
+1-1	0-9	Fehlender	_	
+1-2	10-16	Radweg	_	
+
+#Text=Auf dem Bonner Talweg fehlt ein durchgehender Radweg.
+2-1	19-22	Auf	*[11]	
+2-2	23-26	dem	*[11]	
+2-3	27-33	Bonner	*[11]	
+2-4	34-40	Talweg	*[11]	
+2-5	41-46	fehlt	_	
+2-6	47-50	ein	_	
+2-7	51-64	durchgehender	_	
+2-8	65-71	Radweg	_	
+2-9	71-72	.	_	
+
+#Text=Besonders zwischen den Einmündungen Bismarckstraße und Weberstraße gibt es für Radfahrer kein sicheres Durchkommen.
+3-1	73-82	Besonders	_	
+3-2	83-91	zwischen	*[12]	
+3-3	92-95	den	*[12]	
+3-4	96-108	Einmündungen	*[12]	
+3-5	109-123	Bismarckstraße	*[12]	
+3-6	124-127	und	*[12]	
+3-7	128-139	Weberstraße	*[12]	
+3-8	140-144	gibt	_	
+3-9	145-147	es	_	
+3-10	148-151	für	_	
+3-11	152-161	Radfahrer	_	
+3-12	162-166	kein	_	
+3-13	167-175	sicheres	_	
+3-14	176-187	Durchkommen	_	
+3-15	187-188	.	_	
+
+#Text=In zweiter Reihe parken Lieferwagen und die Autos der Kunden, die mal eben schnell zum Bäcker wollen.
+4-1	189-191	In	_	
+4-2	192-199	zweiter	_	
+4-3	200-205	Reihe	_	
+4-4	206-212	parken	_	
+4-5	213-224	Lieferwagen	_	
+4-6	225-228	und	_	
+4-7	229-232	die	_	
+4-8	233-238	Autos	_	
+4-9	239-242	der	_	
+4-10	243-249	Kunden	_	
+4-11	249-250	,	_	
+4-12	251-254	die	_	
+4-13	255-258	mal	_	
+4-14	259-263	eben	_	
+4-15	264-271	schnell	_	
+4-16	272-275	zum	_	
+4-17	276-282	Bäcker	_	
+4-18	283-289	wollen	_	
+4-19	289-290	.	_	
+
+#Text=In der Mitte der Straße fahren die Straßenbahnen.
+5-1	291-293	In	_	
+5-2	294-297	der	_	
+5-3	298-303	Mitte	_	
+5-4	304-307	der	_	
+5-5	308-314	Straße	_	
+5-6	315-321	fahren	_	
+5-7	322-325	die	_	
+5-8	326-339	Straßenbahnen	_	
+5-9	339-340	.	_	
+
+#Text=Radfahrer müssen sich zwischen öffnenden Autotüren und den Straßenbahnschienen durchschlängeln.
+6-1	341-350	Radfahrer	_	
+6-2	351-357	müssen	_	
+6-3	358-362	sich	_	
+6-4	363-371	zwischen	_	
+6-5	372-381	öffnenden	_	
+6-6	382-391	Autotüren	_	
+6-7	392-395	und	_	
+6-8	396-399	den	_	
+6-9	400-419	Straßenbahnschienen	_	
+6-10	420-435	durchschlängeln	_	
+6-11	435-436	.	_	
+
+#Text=Hier kommt es oft zu gefährlichen Situationen und Unfällen, weil die Radfahrer in den Schienen hängenbleiben.
+7-1	437-441	Hier	_	
+7-2	442-447	kommt	_	
+7-3	448-450	es	_	
+7-4	451-454	oft	_	
+7-5	455-457	zu	_	
+7-6	458-470	gefährlichen	_	
+7-7	471-482	Situationen	_	
+7-8	483-486	und	_	
+7-9	487-495	Unfällen	_	
+7-10	495-496	,	_	
+7-11	497-501	weil	_	
+7-12	502-505	die	_	
+7-13	506-515	Radfahrer	_	
+7-14	516-518	in	_	
+7-15	519-522	den	_	
+7-16	523-531	Schienen	_	
+7-17	532-545	hängenbleiben	_	
+7-18	545-546	.	_	
+
+#Text=Die Stadt muss das Parken in zweiter Reihe ahnden und Fahrradstreifen in beide Richtungen abseits der Schienen sicherstellen.
+8-1	547-550	Die	_	
+8-2	551-556	Stadt	_	
+8-3	557-561	muss	_	
+8-4	562-565	das	_	
+8-5	566-572	Parken	_	
+8-6	573-575	in	_	
+8-7	576-583	zweiter	_	
+8-8	584-589	Reihe	_	
+8-9	590-596	ahnden	_	
+8-10	597-600	und	_	
+8-11	601-616	Fahrradstreifen	_	
+8-12	617-619	in	_	
+8-13	620-625	beide	_	
+8-14	626-636	Richtungen	_	
+8-15	637-644	abseits	_	
+8-16	645-648	der	_	
+8-17	649-657	Schienen	_	
+8-18	658-671	sicherstellen	_	
+8-19	671-672	.	_	
+
+#Text=Der Bonner Talweg verfügt über alle Arten von Geschäften für den täglichen Gebrauch.
+9-1	673-676	Der	*[13]	
+9-2	677-683	Bonner	*[13]	
+9-3	684-690	Talweg	*[13]	
+9-4	691-698	verfügt	_	
+9-5	699-703	über	_	
+9-6	704-708	alle	_	
+9-7	709-714	Arten	_	
+9-8	715-718	von	_	
+9-9	719-729	Geschäften	_	
+9-10	730-733	für	_	
+9-11	734-737	den	_	
+9-12	738-747	täglichen	_	
+9-13	748-756	Gebrauch	_	
+9-14	756-757	.	_	
+
+#Text=Da ohnehin die meisten Kunden mit dem Fahrrad aus dem Viertel kommen, sollte die Stadt hier auch Fahrradabstellplätze schaffen.
+10-1	758-760	Da	_	
+10-2	761-768	ohnehin	_	
+10-3	769-772	die	_	
+10-4	773-780	meisten	_	
+10-5	781-787	Kunden	_	
+10-6	788-791	mit	_	
+10-7	792-795	dem	_	
+10-8	796-803	Fahrrad	_	
+10-9	804-807	aus	_	
+10-10	808-811	dem	_	
+10-11	812-819	Viertel	_	
+10-12	820-826	kommen	_	
+10-13	826-827	,	_	
+10-14	828-834	sollte	_	
+10-15	835-838	die	_	
+10-16	839-844	Stadt	_	
+10-17	845-849	hier	_	
+10-18	850-854	auch	_	
+10-19	855-875	Fahrradabstellplätze	_	
+10-20	876-884	schaffen	_	
+10-21	884-885	.	_	

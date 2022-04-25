@@ -1,0 +1,56 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg plötzlich auf der Fahrbahn
+1-1	0-6	Radweg	_	
+1-2	7-16	plötzlich	_	
+1-3	17-20	auf	_	
+1-4	21-24	der	_	
+1-5	25-33	Fahrbahn	_	
+
+#Text=Ausgerechnet im Tunnel, der wegen parkender Fahrzeuge nicht leicht einzusehen ist, liegt der Radweg, wenn man aus Braunsfeld nach Bickendorf fährt, unvermittelt auf der Fahrbahn, um danach wieder auf den Bürgersteig gelenkt zu werden: Sicherheitsrisiko.
+2-1	36-48	Ausgerechnet	_	
+2-2	49-51	im	_	
+2-3	52-58	Tunnel	_	
+2-4	58-59	,	_	
+2-5	60-63	der	_	
+2-6	64-69	wegen	_	
+2-7	70-79	parkender	_	
+2-8	80-89	Fahrzeuge	_	
+2-9	90-95	nicht	_	
+2-10	96-102	leicht	_	
+2-11	103-113	einzusehen	_	
+2-12	114-117	ist	_	
+2-13	117-118	,	_	
+2-14	119-124	liegt	_	
+2-15	125-128	der	_	
+2-16	129-135	Radweg	_	
+2-17	135-136	,	_	
+2-18	137-141	wenn	_	
+2-19	142-145	man	_	
+2-20	146-149	aus	*[3]	
+2-21	150-160	Braunsfeld	*[3]	
+2-22	161-165	nach	*[3]	
+2-23	166-176	Bickendorf	*[3]	
+2-24	177-182	fährt	_	
+2-25	182-183	,	_	
+2-26	184-196	unvermittelt	_	
+2-27	197-200	auf	_	
+2-28	201-204	der	_	
+2-29	205-213	Fahrbahn	_	
+2-30	213-214	,	_	
+2-31	215-217	um	_	
+2-32	218-224	danach	_	
+2-33	225-231	wieder	_	
+2-34	232-235	auf	_	
+2-35	236-239	den	_	
+2-36	240-251	Bürgersteig	_	
+2-37	252-259	gelenkt	_	
+2-38	260-262	zu	_	
+2-39	263-269	werden	_	
+2-40	269-270	:	_	
+2-41	271-288	Sicherheitsrisiko	_	
+2-42	288-289	.	_	

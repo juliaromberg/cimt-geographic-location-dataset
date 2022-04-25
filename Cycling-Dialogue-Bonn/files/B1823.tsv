@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelanlage reagiert nicht auf Fahrräder
+1-1	0-11	Ampelanlage	_	
+1-2	12-20	reagiert	_	
+1-3	21-26	nicht	_	
+1-4	27-30	auf	_	
+1-5	31-40	Fahrräder	_	
+
+#Text=Die Ampel ist bis 6:00 abgeschaltet (gelbes Blinklicht) ab 6:00 ist die Ampelanlage verkehrsabhängig geschaltet - Ein Fahrrad löst aber keine Grünphase aus und Autos fahren da noch kaum.
+2-1	43-46	Die	_	
+2-2	47-52	Ampel	_	
+2-3	53-56	ist	_	
+2-4	57-60	bis	_	
+2-5	61-62	6	_	
+2-6	62-63	:	_	
+2-7	63-65	00	_	
+2-8	66-78	abgeschaltet	_	
+2-9	79-80	(	_	
+2-10	80-86	gelbes	_	
+2-11	87-97	Blinklicht	_	
+2-12	97-98	)	_	
+2-13	99-101	ab	_	
+2-14	102-103	6	_	
+2-15	103-104	:	_	
+2-16	104-106	00	_	
+2-17	107-110	ist	_	
+2-18	111-114	die	_	
+2-19	115-126	Ampelanlage	_	
+2-20	127-143	verkehrsabhängig	_	
+2-21	144-154	geschaltet	_	
+2-22	155-156	-	_	
+2-23	157-160	Ein	_	
+2-24	161-168	Fahrrad	_	
+2-25	169-173	löst	_	
+2-26	174-178	aber	_	
+2-27	179-184	keine	_	
+2-28	185-194	Grünphase	_	
+2-29	195-198	aus	_	
+2-30	199-202	und	_	
+2-31	203-208	Autos	_	
+2-32	209-215	fahren	_	
+2-33	216-218	da	_	
+2-34	219-223	noch	_	
+2-35	224-228	kaum	_	
+2-36	228-229	.	_	
+
+#Text=Vorschlag: Entweder länger abgeschaltet lassen oder die Ampel auf Dauerbetrieb ohne Sensorsteuerung umschalten.
+3-1	230-239	Vorschlag	_	
+3-2	239-240	:	_	
+3-3	241-249	Entweder	_	
+3-4	250-256	länger	_	
+3-5	257-269	abgeschaltet	_	
+3-6	270-276	lassen	_	
+3-7	277-281	oder	_	
+3-8	282-285	die	_	
+3-9	286-291	Ampel	_	
+3-10	292-295	auf	_	
+3-11	296-308	Dauerbetrieb	_	
+3-12	309-313	ohne	_	
+3-13	314-329	Sensorsteuerung	_	
+3-14	330-340	umschalten	_	
+3-15	340-341	.	_	
+
+#Text=Alternativ: zusätzliche Fahrradmessschleife
+4-1	342-352	Alternativ	_	
+4-2	352-353	:	_	
+4-3	354-365	zusätzliche	_	
+4-4	366-385	Fahrradmessschleife	_	

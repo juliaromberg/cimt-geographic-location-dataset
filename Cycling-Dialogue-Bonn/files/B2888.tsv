@@ -1,0 +1,91 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ungeklärte Radverkehrsführung
+1-1	0-10	Ungeklärte	_	
+1-2	11-29	Radverkehrsführung	_	
+
+#Text=In diesem Bereich fehlt eine Möglichkeit für Radfahrer, um von der B9 aus den nördlichen Radweg der Genscherallee zu erreichen.
+2-1	32-34	In	_	
+2-2	35-41	diesem	_	
+2-3	42-49	Bereich	_	
+2-4	50-55	fehlt	_	
+2-5	56-60	eine	_	
+2-6	61-72	Möglichkeit	_	
+2-7	73-76	für	_	
+2-8	77-86	Radfahrer	_	
+2-9	86-87	,	_	
+2-10	88-90	um	_	
+2-11	91-94	von	*[6]	
+2-12	95-98	der	*[6]	
+2-13	99-101	B9	*[6]	
+2-14	102-105	aus	*[6]	
+2-15	106-109	den	*[6]	
+2-16	110-120	nördlichen	*[6]	
+2-17	121-127	Radweg	*[6]	
+2-18	128-131	der	*[6]	
+2-19	132-145	Genscherallee	*[6]	
+2-20	146-148	zu	_	
+2-21	149-158	erreichen	_	
+2-22	158-159	.	_	
+
+#Text=Derzeit ist es so, dass Radfahrer in dem Bereich irgendwie hin- und herfahren.
+3-1	160-167	Derzeit	_	
+3-2	168-171	ist	_	
+3-3	172-174	es	_	
+3-4	175-177	so	_	
+3-5	177-178	,	_	
+3-6	179-183	dass	_	
+3-7	184-193	Radfahrer	_	
+3-8	194-196	in	_	
+3-9	197-200	dem	_	
+3-10	201-208	Bereich	_	
+3-11	209-218	irgendwie	_	
+3-12	219-222	hin	_	
+3-13	222-223	-	_	
+3-14	224-227	und	_	
+3-15	228-237	herfahren	_	
+3-16	237-238	.	_	
+
+#Text=Entweder Einrichtung einer zweiten Fußgänger-/Radfahrer-Ampel an der Kreuzung B9/Heussallee oder eine Überquerungsmöglichkeit der Genscherallee.
+4-1	239-247	Entweder	_	
+4-2	248-259	Einrichtung	_	
+4-3	260-265	einer	_	
+4-4	266-273	zweiten	_	
+4-5	274-283	Fußgänger	_	
+4-6	283-284	-	_	
+4-7	284-285	/	_	
+4-8	285-300	Radfahrer-Ampel	_	
+4-9	301-303	an	*[7]	
+4-10	304-307	der	*[7]	
+4-11	308-316	Kreuzung	*[7]	
+4-12	317-319	B9	*[7]	
+4-13	319-320	/	*[7]	
+4-14	320-330	Heussallee	*[7]	
+4-15	331-335	oder	_	
+4-16	336-340	eine	_	
+4-17	341-364	Überquerungsmöglichkeit	_	
+4-18	365-368	der	_	
+4-19	369-382	Genscherallee	*	
+4-20	382-383	.	_	
+
+#Text=Und auch in diesem Bereich gilt: Ein Radweg soll kein Kopfsteinpflaster haben...
+5-1	384-387	Und	_	
+5-2	388-392	auch	_	
+5-3	393-395	in	_	
+5-4	396-402	diesem	_	
+5-5	403-410	Bereich	_	
+5-6	411-415	gilt	_	
+5-7	415-416	:	_	
+5-8	417-420	Ein	_	
+5-9	421-427	Radweg	_	
+5-10	428-432	soll	_	
+5-11	433-437	kein	_	
+5-12	438-455	Kopfsteinpflaster	_	
+5-13	456-461	haben	_	
+5-14	461-462	.	_	
+5-15	462-463	.	_	
+5-16	463-464	.	_	

@@ -1,0 +1,26 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahradstrassen
+1-1	0-14	Fahradstrassen	_	
+
+#Text=Weshalb sind nur manche Strassen in der Alstadt Fahrradstrassen und nicht einfach das gesamte Gebiet?
+2-1	17-24	Weshalb	_	
+2-2	25-29	sind	_	
+2-3	30-33	nur	_	
+2-4	34-40	manche	_	
+2-5	41-49	Strassen	_	
+2-6	50-52	in	*[2]	
+2-7	53-56	der	*[2]	
+2-8	57-64	Alstadt	*[2]	
+2-9	65-80	Fahrradstrassen	_	
+2-10	81-84	und	_	
+2-11	85-90	nicht	_	
+2-12	91-98	einfach	_	
+2-13	99-102	das	_	
+2-14	103-110	gesamte	_	
+2-15	111-117	Gebiet	_	
+2-16	117-118	?	_	

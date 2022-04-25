@@ -1,0 +1,214 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wir korrekt die Fahrtrichtung bei Verbleib auf Flodelingsweg anzeigen?
+1-1	0-3	Wir	_	
+1-2	4-11	korrekt	_	
+1-3	12-15	die	_	
+1-4	16-29	Fahrtrichtung	_	
+1-5	30-33	bei	_	
+1-6	34-42	Verbleib	_	
+1-7	43-46	auf	*[11]	
+1-8	47-60	Flodelingsweg	*[11]	
+1-9	61-69	anzeigen	_	
+1-10	69-70	?	_	
+
+#Text=Ich fahre täglich den Flodelingsweg lang.
+2-1	73-76	Ich	_	
+2-2	77-82	fahre	_	
+2-3	83-90	täglich	_	
+2-4	91-94	den	_	
+2-5	95-108	Flodelingsweg	*	
+2-6	109-113	lang	_	
+2-7	113-114	.	_	
+
+#Text=In beide Richtungen ist mir nicht so ganz klar, wie ich hier die Fahrtrichtung anzeigen soll.
+3-1	115-117	In	_	
+3-2	118-123	beide	_	
+3-3	124-134	Richtungen	_	
+3-4	135-138	ist	_	
+3-5	139-142	mir	_	
+3-6	143-148	nicht	_	
+3-7	149-151	so	_	
+3-8	152-156	ganz	_	
+3-9	157-161	klar	_	
+3-10	161-162	,	_	
+3-11	163-166	wie	_	
+3-12	167-170	ich	_	
+3-13	171-175	hier	_	
+3-14	176-179	die	_	
+3-15	180-193	Fahrtrichtung	_	
+3-16	194-202	anzeigen	_	
+3-17	203-207	soll	_	
+3-18	207-208	.	_	
+
+#Text=Einerseits bleibe ich dem Namen nach auf der gleichen Straße, sodass ich keine Handzeichen für sinnvoll finde.
+4-1	209-219	Einerseits	_	
+4-2	220-226	bleibe	_	
+4-3	227-230	ich	_	
+4-4	231-234	dem	_	
+4-5	235-240	Namen	_	
+4-6	241-245	nach	_	
+4-7	246-249	auf	_	
+4-8	250-253	der	_	
+4-9	254-262	gleichen	_	
+4-10	263-269	Straße	_	
+4-11	269-270	,	_	
+4-12	271-277	sodass	_	
+4-13	278-281	ich	_	
+4-14	282-287	keine	_	
+4-15	288-299	Handzeichen	_	
+4-16	300-303	für	_	
+4-17	304-312	sinnvoll	_	
+4-18	313-318	finde	_	
+4-19	318-319	.	_	
+
+#Text=Andererseits ist die Kreuzung nicht sonderlich gradlinig und hat auch schon zu Konflikten geführt.
+5-1	320-332	Andererseits	_	
+5-2	333-336	ist	_	
+5-3	337-340	die	_	
+5-4	341-349	Kreuzung	_	
+5-5	350-355	nicht	_	
+5-6	356-366	sonderlich	_	
+5-7	367-376	gradlinig	_	
+5-8	377-380	und	_	
+5-9	381-384	hat	_	
+5-10	385-389	auch	_	
+5-11	390-395	schon	_	
+5-12	396-398	zu	_	
+5-13	399-409	Konflikten	_	
+5-14	410-417	geführt	_	
+5-15	417-418	.	_	
+
+#Text=Wenn ich von West nach Ost fahre, so wird mir hin und wieder die Vorfahrt genommen, Leute scheinen das für eine abknickende Vorfahrtsstraße zu halten.
+6-1	419-423	Wenn	_	
+6-2	424-427	ich	_	
+6-3	428-431	von	_	
+6-4	432-436	West	_	
+6-5	437-441	nach	_	
+6-6	442-445	Ost	_	
+6-7	446-451	fahre	_	
+6-8	451-452	,	_	
+6-9	453-455	so	_	
+6-10	456-460	wird	_	
+6-11	461-464	mir	_	
+6-12	465-468	hin	_	
+6-13	469-472	und	_	
+6-14	473-479	wieder	_	
+6-15	480-483	die	_	
+6-16	484-492	Vorfahrt	_	
+6-17	493-501	genommen	_	
+6-18	501-502	,	_	
+6-19	503-508	Leute	_	
+6-20	509-517	scheinen	_	
+6-21	518-521	das	_	
+6-22	522-525	für	_	
+6-23	526-530	eine	_	
+6-24	531-542	abknickende	_	
+6-25	543-558	Vorfahrtsstraße	_	
+6-26	559-561	zu	_	
+6-27	562-568	halten	_	
+6-28	568-569	.	_	
+
+#Text=Und weil die meisten Leute dem Irrglauben unterliegen, dass man bei Verbleib auf der abknickenden Vorfahrtsstraße *nicht* Blinken muss, glauben die Leute bei der Rückrichtung von Ost nach West, dass ich der Kurve nach rechts folgen möchte, wenn ich kein Handzeichen nach links gebe.
+7-1	570-573	Und	_	
+7-2	574-578	weil	_	
+7-3	579-582	die	_	
+7-4	583-590	meisten	_	
+7-5	591-596	Leute	_	
+7-6	597-600	dem	_	
+7-7	601-611	Irrglauben	_	
+7-8	612-623	unterliegen	_	
+7-9	623-624	,	_	
+7-10	625-629	dass	_	
+7-11	630-633	man	_	
+7-12	634-637	bei	_	
+7-13	638-646	Verbleib	_	
+7-14	647-650	auf	_	
+7-15	651-654	der	_	
+7-16	655-667	abknickenden	_	
+7-17	668-683	Vorfahrtsstraße	_	
+7-18	684-685	*	_	
+7-19	685-690	nicht	_	
+7-20	690-691	*	_	
+7-21	692-699	Blinken	_	
+7-22	700-704	muss	_	
+7-23	704-705	,	_	
+7-24	706-713	glauben	_	
+7-25	714-717	die	_	
+7-26	718-723	Leute	_	
+7-27	724-727	bei	_	
+7-28	728-731	der	_	
+7-29	732-744	Rückrichtung	_	
+7-30	745-748	von	_	
+7-31	749-752	Ost	_	
+7-32	753-757	nach	_	
+7-33	758-762	West	_	
+7-34	762-763	,	_	
+7-35	764-768	dass	_	
+7-36	769-772	ich	_	
+7-37	773-776	der	_	
+7-38	777-782	Kurve	_	
+7-39	783-787	nach	_	
+7-40	788-794	rechts	_	
+7-41	795-801	folgen	_	
+7-42	802-808	möchte	_	
+7-43	808-809	,	_	
+7-44	810-814	wenn	_	
+7-45	815-818	ich	_	
+7-46	819-823	kein	_	
+7-47	824-835	Handzeichen	_	
+7-48	836-840	nach	_	
+7-49	841-846	links	_	
+7-50	847-851	gebe	_	
+7-51	851-852	.	_	
+
+#Text=Handzeichen nach Links wäre völlig in Ordnung, wenn es eine T-Kreuzung wäre, der Flodelingsweg geht aber weiter.
+8-1	853-864	Handzeichen	_	
+8-2	865-869	nach	_	
+8-3	870-875	Links	_	
+8-4	876-880	wäre	_	
+8-5	881-887	völlig	_	
+8-6	888-890	in	_	
+8-7	891-898	Ordnung	_	
+8-8	898-899	,	_	
+8-9	900-904	wenn	_	
+8-10	905-907	es	_	
+8-11	908-912	eine	_	
+8-12	913-923	T-Kreuzung	_	
+8-13	924-928	wäre	_	
+8-14	928-929	,	_	
+8-15	930-933	der	*[12]	
+8-16	934-947	Flodelingsweg	*[12]	
+8-17	948-952	geht	_	
+8-18	953-957	aber	_	
+8-19	958-964	weiter	_	
+8-20	964-965	.	_	
+
+#Text=Wie verhalte ich mich hier korrekt?
+9-1	966-969	Wie	_	
+9-2	970-978	verhalte	_	
+9-3	979-982	ich	_	
+9-4	983-987	mich	_	
+9-5	988-992	hier	_	
+9-6	993-1000	korrekt	_	
+9-7	1000-1001	?	_	
+
+#Text=Und wie verhalte ich mich hier so, dass Autofahrer mich nicht umfahren?
+10-1	1002-1005	Und	_	
+10-2	1006-1009	wie	_	
+10-3	1010-1018	verhalte	_	
+10-4	1019-1022	ich	_	
+10-5	1023-1027	mich	_	
+10-6	1028-1032	hier	_	
+10-7	1033-1035	so	_	
+10-8	1035-1036	,	_	
+10-9	1037-1041	dass	_	
+10-10	1042-1052	Autofahrer	_	
+10-11	1053-1057	mich	_	
+10-12	1058-1063	nicht	_	
+10-13	1064-1072	umfahren	_	
+10-14	1072-1073	?	_	

@@ -1,0 +1,82 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Autobahn 565 zwischen Brüser Berg und Endenicher Ei tiefer legen, Abdeckeln und darauf einen Park mit durchgängigem Radschnellweg errichten.
+1-1	0-8	Autobahn	*[5]	
+1-2	9-12	565	*[5]	
+1-3	13-21	zwischen	*[5]	
+1-4	22-28	Brüser	*[5]	
+1-5	29-33	Berg	*[5]	
+1-6	34-37	und	*[5]	
+1-7	38-48	Endenicher	*[5]	
+1-8	49-51	Ei	*[5]	
+1-9	52-58	tiefer	_	
+1-10	59-64	legen	_	
+1-11	64-65	,	_	
+1-12	66-75	Abdeckeln	_	
+1-13	76-79	und	_	
+1-14	80-86	darauf	_	
+1-15	87-92	einen	_	
+1-16	93-97	Park	_	
+1-17	98-101	mit	_	
+1-18	102-115	durchgängigem	_	
+1-19	116-129	Radschnellweg	_	
+1-20	130-139	errichten	_	
+1-21	139-140	.	_	
+
+#Text=Am Rand des Deckels könnte dann innerstädtisch angemessen verdichtete Wohnbebauung entstehen und so den katastrophalen Bonner Wohnungsmarkt entlasten.
+2-1	143-145	Am	_	
+2-2	146-150	Rand	_	
+2-3	151-154	des	_	
+2-4	155-162	Deckels	_	
+2-5	163-169	könnte	_	
+2-6	170-174	dann	_	
+2-7	175-189	innerstädtisch	_	
+2-8	190-200	angemessen	_	
+2-9	201-212	verdichtete	_	
+2-10	213-225	Wohnbebauung	_	
+2-11	226-235	entstehen	_	
+2-12	236-239	und	_	
+2-13	240-242	so	_	
+2-14	243-246	den	_	
+2-15	247-261	katastrophalen	_	
+2-16	262-268	Bonner	_	
+2-17	269-282	Wohnungsmarkt	_	
+2-18	283-292	entlasten	_	
+2-19	292-293	.	_	
+
+#Text=Die völlig verlärmten angrenzenden Wohngebiete würden beruhigt.
+3-1	294-297	Die	_	
+3-2	298-304	völlig	_	
+3-3	305-315	verlärmten	_	
+3-4	316-328	angrenzenden	_	
+3-5	329-340	Wohngebiete	_	
+3-6	341-347	würden	_	
+3-7	348-356	beruhigt	_	
+3-8	356-357	.	_	
+
+#Text=So ähnlich wird es derzeit in Hamburg mit der A7 gemacht: https://de.wikipedia.org/wiki/Hamburger_Deckel
+4-1	358-360	So	_	
+4-2	361-368	ähnlich	_	
+4-3	369-373	wird	_	
+4-4	374-376	es	_	
+4-5	377-384	derzeit	_	
+4-6	385-387	in	_	
+4-7	388-395	Hamburg	*	
+4-8	396-399	mit	_	
+4-9	400-403	der	_	
+4-10	404-406	A7	_	
+4-11	407-414	gemacht	_	
+4-12	414-415	:	_	
+4-13	416-421	https	_	
+4-14	421-422	:	_	
+4-15	422-423	/	_	
+4-16	423-424	/	_	
+4-17	424-440	de.wikipedia.org	_	
+4-18	440-441	/	_	
+4-19	441-445	wiki	_	
+4-20	445-446	/	_	
+4-21	446-462	Hamburger_Deckel	_	

@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zu wenig Radständer
+1-1	0-2	Zu	_	
+1-2	3-8	wenig	_	
+1-3	9-19	Radständer	_	
+
+#Text=In der Clemens-August-Str. fehlen Fahrradständer.
+2-1	22-24	In	*[5]	
+2-2	25-28	der	*[5]	
+2-3	29-47	Clemens-August-Str	*[5]	
+2-4	47-48	.	*[5]	
+2-5	49-55	fehlen	_	
+2-6	56-70	Fahrradständer	_	
+2-7	70-71	.	_	
+
+#Text=Dort sind so viele Geschäfte und Restaurants und werden daher dringend benötigt.
+3-1	72-76	Dort	_	
+3-2	77-81	sind	_	
+3-3	82-84	so	_	
+3-4	85-90	viele	_	
+3-5	91-100	Geschäfte	_	
+3-6	101-104	und	_	
+3-7	105-116	Restaurants	_	
+3-8	117-120	und	_	
+3-9	121-127	werden	_	
+3-10	128-133	daher	_	
+3-11	134-142	dringend	_	
+3-12	143-151	benötigt	_	
+3-13	151-152	.	_	
+
+#Text=Neben dem Blumenladen wäre Platz auch wenn hier immer wieder ein Wagen geparkt wird(Poller wurde dafür extra herausgezogen und liegt jetzt an der Seite).
+4-1	153-158	Neben	_	
+4-2	159-162	dem	_	
+4-3	163-174	Blumenladen	_	
+4-4	175-179	wäre	_	
+4-5	180-185	Platz	_	
+4-6	186-190	auch	_	
+4-7	191-195	wenn	_	
+4-8	196-200	hier	_	
+4-9	201-206	immer	_	
+4-10	207-213	wieder	_	
+4-11	214-217	ein	_	
+4-12	218-223	Wagen	_	
+4-13	224-231	geparkt	_	
+4-14	232-236	wird	_	
+4-15	236-237	(	_	
+4-16	237-243	Poller	_	
+4-17	244-249	wurde	_	
+4-18	250-255	dafür	_	
+4-19	256-261	extra	_	
+4-20	262-275	herausgezogen	_	
+4-21	276-279	und	_	
+4-22	280-285	liegt	_	
+4-23	286-291	jetzt	_	
+4-24	292-294	an	_	
+4-25	295-298	der	_	
+4-26	299-304	Seite	_	
+4-27	304-305	)	_	
+4-28	305-306	.	_	

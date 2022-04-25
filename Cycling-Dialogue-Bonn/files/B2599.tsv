@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fußgänger auf Radweg
+1-1	0-9	Fußgänger	_	
+1-2	10-13	auf	_	
+1-3	14-20	Radweg	_	
+
+#Text=Häufig benutzen Fußgänger (oft mit Kinderwagen) den Radweg.
+2-1	23-29	Häufig	_	
+2-2	30-38	benutzen	_	
+2-3	39-48	Fußgänger	_	
+2-4	49-50	(	_	
+2-5	50-53	oft	_	
+2-6	54-57	mit	_	
+2-7	58-69	Kinderwagen	_	
+2-8	69-70	)	_	
+2-9	71-74	den	_	
+2-10	75-81	Radweg	_	
+2-11	81-82	.	_	
+
+#Text=Hierdurch entstehen regelmäßig gefährliche Situationen.
+3-1	83-92	Hierdurch	_	
+3-2	93-102	entstehen	_	
+3-3	103-113	regelmäßig	_	
+3-4	114-125	gefährliche	_	
+3-5	126-137	Situationen	_	
+3-6	137-138	.	_	

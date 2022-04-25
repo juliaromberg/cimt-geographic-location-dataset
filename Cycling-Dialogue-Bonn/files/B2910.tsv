@@ -1,0 +1,159 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg Nordbrücke
+1-1	0-6	Radweg	_	
+1-2	7-17	Nordbrücke	*	
+
+#Text=Wenn es das Wetter und meine Zeit zulassen, fahre ich gerne von Lohmar nach Bonn zu meiner Arbeitsstätte mit dem Fahrrad.
+2-1	20-24	Wenn	_	
+2-2	25-27	es	_	
+2-3	28-31	das	_	
+2-4	32-38	Wetter	_	
+2-5	39-42	und	_	
+2-6	43-48	meine	_	
+2-7	49-53	Zeit	_	
+2-8	54-62	zulassen	_	
+2-9	62-63	,	_	
+2-10	64-69	fahre	_	
+2-11	70-73	ich	_	
+2-12	74-79	gerne	_	
+2-13	80-83	von	*[9]	
+2-14	84-90	Lohmar	*[9]	
+2-15	91-95	nach	*[9]	
+2-16	96-100	Bonn	*[9]	
+2-17	101-103	zu	_	
+2-18	104-110	meiner	_	
+2-19	111-124	Arbeitsstätte	_	
+2-20	125-128	mit	_	
+2-21	129-132	dem	_	
+2-22	133-140	Fahrrad	_	
+2-23	140-141	.	_	
+
+#Text=Es ist eine wunderschöne Strecke an Agger, Sieg und Rhein entlang, vorwiegend über Radwege.
+3-1	142-144	Es	_	
+3-2	145-148	ist	_	
+3-3	149-153	eine	_	
+3-4	154-166	wunderschöne	_	
+3-5	167-174	Strecke	_	
+3-6	175-177	an	*[10]	
+3-7	178-183	Agger	*[10]	
+3-8	183-184	,	*[10]	
+3-9	185-189	Sieg	*[10]	
+3-10	190-193	und	*[10]	
+3-11	194-199	Rhein	*[10]	
+3-12	200-207	entlang	*[10]	
+3-13	207-208	,	_	
+3-14	209-219	vorwiegend	_	
+3-15	220-224	über	_	
+3-16	225-232	Radwege	_	
+3-17	232-233	.	_	
+
+#Text=Nur auf der Beueler Seite habe ich immer ein mulmiges Gefühl, wenn ich zur Nordbrücke hoch- bzw. später wieder herrunterfahre.
+4-1	234-237	Nur	_	
+4-2	238-241	auf	*[11]	
+4-3	242-245	der	*[11]	
+4-4	246-253	Beueler	*[11]	
+4-5	254-259	Seite	*[11]	
+4-6	260-264	habe	_	
+4-7	265-268	ich	_	
+4-8	269-274	immer	_	
+4-9	275-278	ein	_	
+4-10	279-287	mulmiges	_	
+4-11	288-294	Gefühl	_	
+4-12	294-295	,	_	
+4-13	296-300	wenn	_	
+4-14	301-304	ich	_	
+4-15	305-308	zur	*[12]	
+4-16	309-319	Nordbrücke	*[12]	
+4-17	320-324	hoch	*[12]	
+4-18	324-325	-	*[12]	
+4-19	326-329	bzw	*[12]	
+4-20	329-330	.	*[12]	
+4-21	331-337	später	*[12]	
+4-22	338-344	wieder	*[12]	
+4-23	345-359	herrunterfahre	*[12]	
+4-24	359-360	.	_	
+
+#Text=Auf beiden Seiten (rechte und linke Fahrbahn) befinden sich sehr enge, steile, unübersichtliche (durch Bepflanzung) 180 Grad Kurven.
+5-1	361-364	Auf	_	
+5-2	365-371	beiden	_	
+5-3	372-378	Seiten	_	
+5-4	379-380	(	_	
+5-5	380-386	rechte	_	
+5-6	387-390	und	_	
+5-7	391-396	linke	_	
+5-8	397-405	Fahrbahn	_	
+5-9	405-406	)	_	
+5-10	407-415	befinden	_	
+5-11	416-420	sich	_	
+5-12	421-425	sehr	_	
+5-13	426-430	enge	_	
+5-14	430-431	,	_	
+5-15	432-438	steile	_	
+5-16	438-439	,	_	
+5-17	440-456	unübersichtliche	_	
+5-18	457-458	(	_	
+5-19	458-463	durch	_	
+5-20	464-475	Bepflanzung	_	
+5-21	475-476	)	_	
+5-22	477-480	180	_	
+5-23	481-485	Grad	_	
+5-24	486-492	Kurven	_	
+5-25	492-493	.	_	
+
+#Text=Ich habe dort immer Angst vor Gegenverkehr, denn dort ist eine Kollision unvermeidbar.
+6-1	494-497	Ich	_	
+6-2	498-502	habe	_	
+6-3	503-507	dort	_	
+6-4	508-513	immer	_	
+6-5	514-519	Angst	_	
+6-6	520-523	vor	_	
+6-7	524-536	Gegenverkehr	_	
+6-8	536-537	,	_	
+6-9	538-542	denn	_	
+6-10	543-547	dort	_	
+6-11	548-551	ist	_	
+6-12	552-556	eine	_	
+6-13	557-566	Kollision	_	
+6-14	567-579	unvermeidbar	_	
+6-15	579-580	.	_	
+
+#Text=Deshalb schlage ich vor, beide Seiten, entsprechend der Fahrtrichtung, als Einbahnstraßen (auch für Fußgänger) zu erklären.
+7-1	581-588	Deshalb	_	
+7-2	589-596	schlage	_	
+7-3	597-600	ich	_	
+7-4	601-604	vor	_	
+7-5	604-605	,	_	
+7-6	606-611	beide	_	
+7-7	612-618	Seiten	_	
+7-8	618-619	,	_	
+7-9	620-632	entsprechend	_	
+7-10	633-636	der	_	
+7-11	637-650	Fahrtrichtung	_	
+7-12	650-651	,	_	
+7-13	652-655	als	_	
+7-14	656-670	Einbahnstraßen	_	
+7-15	671-672	(	_	
+7-16	672-676	auch	_	
+7-17	677-680	für	_	
+7-18	681-690	Fußgänger	_	
+7-19	690-691	)	_	
+7-20	692-694	zu	_	
+7-21	695-703	erklären	_	
+7-22	703-704	.	_	
+
+#Text=Damit ist nur ein kleiner Umweg ohne Straßenüberquerung verbunden.
+8-1	705-710	Damit	_	
+8-2	711-714	ist	_	
+8-3	715-718	nur	_	
+8-4	719-722	ein	_	
+8-5	723-730	kleiner	_	
+8-6	731-736	Umweg	_	
+8-7	737-741	ohne	_	
+8-8	742-760	Straßenüberquerung	_	
+8-9	761-770	verbunden	_	
+8-10	770-771	.	_	

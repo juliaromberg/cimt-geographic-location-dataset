@@ -1,0 +1,106 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gleichberechtigte Ampelschaltung
+1-1	0-17	Gleichberechtigte	_	
+1-2	18-32	Ampelschaltung	_	
+
+#Text=Bei der Fahrt aus der Charles-de-Gaulle-Straße in Richtung Sträßchensweg sollten Radfahrer nicht benachteiligt werden.
+2-1	35-38	Bei	_	
+2-2	39-42	der	_	
+2-3	43-48	Fahrt	_	
+2-4	49-52	aus	*[7]	
+2-5	53-56	der	*[7]	
+2-6	57-81	Charles-de-Gaulle-Straße	*[7]	
+2-7	82-84	in	*[7]	
+2-8	85-93	Richtung	*[7]	
+2-9	94-107	Sträßchensweg	*[7]	
+2-10	108-115	sollten	_	
+2-11	116-125	Radfahrer	_	
+2-12	126-131	nicht	_	
+2-13	132-145	benachteiligt	_	
+2-14	146-152	werden	_	
+2-15	152-153	.	_	
+
+#Text=Derzeit es erforderlich, sich per Taste (Fußgänger bitte drücken) grün anzufordern.
+3-1	154-161	Derzeit	_	
+3-2	162-164	es	_	
+3-3	165-177	erforderlich	_	
+3-4	177-178	,	_	
+3-5	179-183	sich	_	
+3-6	184-187	per	_	
+3-7	188-193	Taste	_	
+3-8	194-195	(	_	
+3-9	195-204	Fußgänger	_	
+3-10	205-210	bitte	_	
+3-11	211-218	drücken	_	
+3-12	218-219	)	_	
+3-13	220-224	grün	_	
+3-14	225-236	anzufordern	_	
+3-15	236-237	.	_	
+
+#Text=Bei Anfahrt an die Ampel kurz vor Umschalten der Auto-Ampel auf die Grünphase oder während der Grünphase müssen Radfahrer dadurch eine weitere Phasenschaltung abwarten.
+4-1	238-241	Bei	_	
+4-2	242-249	Anfahrt	_	
+4-3	250-252	an	_	
+4-4	253-256	die	_	
+4-5	257-262	Ampel	_	
+4-6	263-267	kurz	_	
+4-7	268-271	vor	_	
+4-8	272-282	Umschalten	_	
+4-9	283-286	der	_	
+4-10	287-297	Auto-Ampel	_	
+4-11	298-301	auf	_	
+4-12	302-305	die	_	
+4-13	306-315	Grünphase	_	
+4-14	316-320	oder	_	
+4-15	321-328	während	_	
+4-16	329-332	der	_	
+4-17	333-342	Grünphase	_	
+4-18	343-349	müssen	_	
+4-19	350-359	Radfahrer	_	
+4-20	360-367	dadurch	_	
+4-21	368-372	eine	_	
+4-22	373-380	weitere	_	
+4-23	381-396	Phasenschaltung	_	
+4-24	397-405	abwarten	_	
+4-25	405-406	.	_	
+
+#Text=Die zu Beginn des kurzen Radwegs vorhandene Induktionsschleife reagiert nicht (getestet).
+5-1	407-410	Die	_	
+5-2	411-413	zu	_	
+5-3	414-420	Beginn	_	
+5-4	421-424	des	_	
+5-5	425-431	kurzen	_	
+5-6	432-439	Radwegs	_	
+5-7	440-450	vorhandene	_	
+5-8	451-469	Induktionsschleife	_	
+5-9	470-478	reagiert	_	
+5-10	479-484	nicht	_	
+5-11	485-486	(	_	
+5-12	486-494	getestet	_	
+5-13	494-495	)	_	
+5-14	495-496	.	_	
+
+#Text=Streng genommen bestünde sogar eine Anhaltepflicht an der Haltelinie ohne die Möglichkeit, die Fußgängerampel zu betätigen.
+6-1	497-503	Streng	_	
+6-2	504-512	genommen	_	
+6-3	513-521	bestünde	_	
+6-4	522-527	sogar	_	
+6-5	528-532	eine	_	
+6-6	533-547	Anhaltepflicht	_	
+6-7	548-550	an	_	
+6-8	551-554	der	_	
+6-9	555-565	Haltelinie	_	
+6-10	566-570	ohne	_	
+6-11	571-574	die	_	
+6-12	575-586	Möglichkeit	_	
+6-13	586-587	,	_	
+6-14	588-591	die	_	
+6-15	592-606	Fußgängerampel	_	
+6-16	607-609	zu	_	
+6-17	610-619	betätigen	_	
+6-18	619-620	.	_	

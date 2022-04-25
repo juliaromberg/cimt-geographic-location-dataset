@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg zu schmal
+1-1	0-6	Radweg	_	
+1-2	7-9	zu	_	
+1-3	10-16	schmal	_	
+
+#Text=Radweg zu schmal, Hecken versperren Einsicht für kreuzende Fußgänger und Radfahrer, häufig Busse mit teils gehbehinderten aus-/einsteigenden Gästen der Fahrgastschifffahrt.
+2-1	19-25	Radweg	_	
+2-2	26-28	zu	_	
+2-3	29-35	schmal	_	
+2-4	35-36	,	_	
+2-5	37-43	Hecken	_	
+2-6	44-54	versperren	_	
+2-7	55-63	Einsicht	_	
+2-8	64-67	für	_	
+2-9	68-77	kreuzende	_	
+2-10	78-87	Fußgänger	_	
+2-11	88-91	und	_	
+2-12	92-101	Radfahrer	_	
+2-13	101-102	,	_	
+2-14	103-109	häufig	_	
+2-15	110-115	Busse	_	
+2-16	116-119	mit	_	
+2-17	120-125	teils	_	
+2-18	126-140	gehbehinderten	_	
+2-19	141-144	aus	_	
+2-20	144-145	-	_	
+2-21	145-146	/	_	
+2-22	146-159	einsteigenden	_	
+2-23	160-166	Gästen	_	
+2-24	167-170	der	_	
+2-25	171-190	Fahrgastschifffahrt	_	
+2-26	190-191	.	_	

@@ -1,0 +1,19 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zu wenig Fahrradstellplätze
+1-1	0-2	Zu	_	
+1-2	3-8	wenig	_	
+1-3	9-27	Fahrradstellplätze	_	
+
+#Text=Hier gibt es zu wenige Fahrradstellplätze.
+2-1	30-34	Hier	_	
+2-2	35-39	gibt	_	
+2-3	40-42	es	_	
+2-4	43-45	zu	_	
+2-5	46-52	wenige	_	
+2-6	53-71	Fahrradstellplätze	_	
+2-7	71-72	.	_	

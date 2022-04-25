@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Umfassendes Falschparken
+1-1	0-11	Umfassendes	_	
+1-2	12-24	Falschparken	_	
+
+#Text=Im gesamten Bereich der Prinz-Albert-Str. wird an vielen Stellen falsch geparkt, was teilweise zu gefährlichen Situationen führt.
+2-1	27-29	Im	*[5]	
+2-2	30-38	gesamten	*[5]	
+2-3	39-46	Bereich	*[5]	
+2-4	47-50	der	*[5]	
+2-5	51-67	Prinz-Albert-Str	*[5]	
+2-6	67-68	.	_	
+2-7	69-73	wird	_	
+2-8	74-76	an	_	
+2-9	77-83	vielen	_	
+2-10	84-91	Stellen	_	
+2-11	92-98	falsch	_	
+2-12	99-106	geparkt	_	
+2-13	106-107	,	_	
+2-14	108-111	was	_	
+2-15	112-121	teilweise	_	
+2-16	122-124	zu	_	
+2-17	125-137	gefährlichen	_	
+2-18	138-149	Situationen	_	
+2-19	150-155	führt	_	
+2-20	155-156	.	_	
+
+#Text=Das betrifft vor allem die Kreuzungsbereiche (insbesondere zur Weberstr.), aber auch Fahrzeuge, die (beispielsweise aufgrund von Bäumen auf dem Fußweg) zur Hälfte aus den Parkbuchten herausragen.
+3-1	157-160	Das	_	
+3-2	161-169	betrifft	_	
+3-3	170-173	vor	_	
+3-4	174-179	allem	_	
+3-5	180-183	die	_	
+3-6	184-201	Kreuzungsbereiche	_	
+3-7	202-203	(	_	
+3-8	203-215	insbesondere	_	
+3-9	216-219	zur	*[6]	
+3-10	220-228	Weberstr	*[6]	
+3-11	228-229	.	_	
+3-12	229-230	)	_	
+3-13	230-231	,	_	
+3-14	232-236	aber	_	
+3-15	237-241	auch	_	
+3-16	242-251	Fahrzeuge	_	
+3-17	251-252	,	_	
+3-18	253-256	die	_	
+3-19	257-258	(	_	
+3-20	258-272	beispielsweise	_	
+3-21	273-281	aufgrund	_	
+3-22	282-285	von	_	
+3-23	286-292	Bäumen	_	
+3-24	293-296	auf	_	
+3-25	297-300	dem	_	
+3-26	301-307	Fußweg	_	
+3-27	307-308	)	_	
+3-28	309-312	zur	_	
+3-29	313-319	Hälfte	_	
+3-30	320-323	aus	_	
+3-31	324-327	den	_	
+3-32	328-339	Parkbuchten	_	
+3-33	340-351	herausragen	_	
+3-34	351-352	.	_	
+
+#Text=Regelmäßige Kontrollen wären hier wünschenswert.
+4-1	353-364	Regelmäßige	_	
+4-2	365-375	Kontrollen	_	
+4-3	376-381	wären	_	
+4-4	382-386	hier	_	
+4-5	387-400	wünschenswert	_	
+4-6	400-401	.	_	

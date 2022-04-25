@@ -1,0 +1,116 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg für beide Fahrtrichtungen freigeben zwischen Lievelingsweg und Am Josephinum
+1-1	0-6	Radweg	_	
+1-2	7-10	für	_	
+1-3	11-16	beide	_	
+1-4	17-32	Fahrtrichtungen	_	
+1-5	33-42	freigeben	_	
+1-6	43-51	zwischen	*[7]	
+1-7	52-65	Lievelingsweg	*[7]	
+1-8	66-69	und	*[7]	
+1-9	70-72	Am	*[7]	
+1-10	73-83	Josephinum	*[7]	
+
+#Text=Hier liegen auf der südwestlichen Seite der Kölnstraße einige sehr interessante Ziele für Radfahrer: mehrere Supermärkte sowie das Josephinum.
+2-1	86-90	Hier	_	
+2-2	91-97	liegen	_	
+2-3	98-101	auf	_	
+2-4	102-105	der	_	
+2-5	106-119	südwestlichen	*[8]	
+2-6	120-125	Seite	*[8]	
+2-7	126-129	der	*[8]	
+2-8	130-140	Kölnstraße	*[8]	
+2-9	141-147	einige	_	
+2-10	148-152	sehr	_	
+2-11	153-165	interessante	_	
+2-12	166-171	Ziele	_	
+2-13	172-175	für	_	
+2-14	176-185	Radfahrer	_	
+2-15	185-186	:	_	
+2-16	187-194	mehrere	_	
+2-17	195-206	Supermärkte	_	
+2-18	207-212	sowie	_	
+2-19	213-216	das	*[9]	
+2-20	217-227	Josephinum	*[9]	
+2-21	227-228	.	_	
+
+#Text=Es wäre sehr sehr praktisch, wenn der Radweg in beide Fahrtrichtungne offen wäre, sodass auch stadtauswärts fahrende Radler diese Straßenseite nutzen könnten.
+3-1	229-231	Es	_	
+3-2	232-236	wäre	_	
+3-3	237-241	sehr	_	
+3-4	242-246	sehr	_	
+3-5	247-256	praktisch	_	
+3-6	256-257	,	_	
+3-7	258-262	wenn	_	
+3-8	263-266	der	_	
+3-9	267-273	Radweg	_	
+3-10	274-276	in	_	
+3-11	277-282	beide	_	
+3-12	283-298	Fahrtrichtungne	_	
+3-13	299-304	offen	_	
+3-14	305-309	wäre	_	
+3-15	309-310	,	_	
+3-16	311-317	sodass	_	
+3-17	318-322	auch	_	
+3-18	323-336	stadtauswärts	_	
+3-19	337-345	fahrende	_	
+3-20	346-352	Radler	_	
+3-21	353-358	diese	_	
+3-22	359-371	Straßenseite	_	
+3-23	372-378	nutzen	_	
+3-24	379-386	könnten	_	
+3-25	386-387	.	_	
+
+#Text=Denn das Wechseln der Straßenseite ist auf der vielbefahrenen Kölnstraße nur an bestimmten Stellen mit Ampel möglich.
+4-1	388-392	Denn	_	
+4-2	393-396	das	_	
+4-3	397-405	Wechseln	_	
+4-4	406-409	der	_	
+4-5	410-422	Straßenseite	_	
+4-6	423-426	ist	_	
+4-7	427-430	auf	_	
+4-8	431-434	der	_	
+4-9	435-449	vielbefahrenen	_	
+4-10	450-460	Kölnstraße	*	
+4-11	461-464	nur	_	
+4-12	465-467	an	_	
+4-13	468-478	bestimmten	_	
+4-14	479-486	Stellen	_	
+4-15	487-490	mit	_	
+4-16	491-496	Ampel	_	
+4-17	497-504	möglich	_	
+4-18	504-505	.	_	
+
+#Text=Das bedeutet i.d.R. Wartezeit und zusätzliche Strecke.
+5-1	506-509	Das	_	
+5-2	510-518	bedeutet	_	
+5-3	519-524	i.d.R	_	
+5-4	524-525	.	_	
+5-5	526-535	Wartezeit	_	
+5-6	536-539	und	_	
+5-7	540-551	zusätzliche	_	
+5-8	552-559	Strecke	_	
+5-9	559-560	.	_	
+
+#Text=Von der Wegebreite sollte die Befahrung in beide Richtungen in diesem Bereich problemlos möglich sein.
+6-1	561-564	Von	_	
+6-2	565-568	der	_	
+6-3	569-579	Wegebreite	_	
+6-4	580-586	sollte	_	
+6-5	587-590	die	_	
+6-6	591-600	Befahrung	_	
+6-7	601-603	in	_	
+6-8	604-609	beide	_	
+6-9	610-620	Richtungen	_	
+6-10	621-623	in	_	
+6-11	624-630	diesem	_	
+6-12	631-638	Bereich	_	
+6-13	639-649	problemlos	_	
+6-14	650-657	möglich	_	
+6-15	658-662	sein	_	
+6-16	662-663	.	_	

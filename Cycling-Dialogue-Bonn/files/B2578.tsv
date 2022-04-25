@@ -1,0 +1,40 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Blumenkübel auf dem Radweg
+1-1	0-11	Blumenkübel	_	
+1-2	12-15	auf	_	
+1-3	16-19	dem	_	
+1-4	20-26	Radweg	_	
+
+#Text=Wie kann es sein, dass auf dem ohnehin schon engen Radweg entlang der Königswinterer Straße auch noch Blumenkübel (in Richtung Süden) die Radfahrer behindern
+2-1	29-32	Wie	_	
+2-2	33-37	kann	_	
+2-3	38-40	es	_	
+2-4	41-45	sein	_	
+2-5	45-46	,	_	
+2-6	47-51	dass	_	
+2-7	52-55	auf	_	
+2-8	56-59	dem	_	
+2-9	60-67	ohnehin	_	
+2-10	68-73	schon	_	
+2-11	74-79	engen	_	
+2-12	80-86	Radweg	_	
+2-13	87-94	entlang	*[3]	
+2-14	95-98	der	*[3]	
+2-15	99-113	Königswinterer	*[3]	
+2-16	114-120	Straße	*[3]	
+2-17	121-125	auch	_	
+2-18	126-130	noch	_	
+2-19	131-142	Blumenkübel	_	
+2-20	143-144	(	_	
+2-21	144-146	in	_	
+2-22	147-155	Richtung	_	
+2-23	156-161	Süden	_	
+2-24	161-162	)	_	
+2-25	163-166	die	_	
+2-26	167-176	Radfahrer	_	
+2-27	177-186	behindern	_	

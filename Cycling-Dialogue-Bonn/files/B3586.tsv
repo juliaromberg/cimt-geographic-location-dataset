@@ -1,0 +1,152 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Nutzungspflichtigen Radweg aufheben
+1-1	0-19	Nutzungspflichtigen	_	
+1-2	20-26	Radweg	_	
+1-3	27-35	aufheben	_	
+
+#Text=In der Dorotheenstraße besteht zwischen Kaiser-Karl-Ring und Ellerstraße ein benutzungspflichtiger Radweg mit durchgezogener weißer Fahrbahnmarkierung.
+2-1	38-40	In	*[8]	
+2-2	41-44	der	*[8]	
+2-3	45-60	Dorotheenstraße	*[8]	
+2-4	61-68	besteht	_	
+2-5	69-77	zwischen	*[9]	
+2-6	78-94	Kaiser-Karl-Ring	*[9]	
+2-7	95-98	und	*[9]	
+2-8	99-110	Ellerstraße	*[9]	
+2-9	111-114	ein	_	
+2-10	115-136	benutzungspflichtiger	_	
+2-11	137-143	Radweg	_	
+2-12	144-147	mit	_	
+2-13	148-162	durchgezogener	_	
+2-14	163-169	weißer	_	
+2-15	170-188	Fahrbahnmarkierung	_	
+2-16	188-189	.	_	
+
+#Text=Ich schlage vor, diese Nutzungspflicht zwischen Karlsschule (Ecke Sachsenweg) und Ellerstraße aufzuheben.
+3-1	190-193	Ich	_	
+3-2	194-201	schlage	_	
+3-3	202-205	vor	_	
+3-4	205-206	,	_	
+3-5	207-212	diese	_	
+3-6	213-228	Nutzungspflicht	_	
+3-7	229-237	zwischen	*[10]	
+3-8	238-249	Karlsschule	*[10]	
+3-9	250-251	(	*[10]	
+3-10	251-255	Ecke	*[10]	
+3-11	256-266	Sachsenweg	*[10]	
+3-12	266-267	)	*[10]	
+3-13	268-271	und	*[10]	
+3-14	272-283	Ellerstraße	*[10]	
+3-15	284-294	aufzuheben	_	
+3-16	294-295	.	_	
+
+#Text=Begründung: Radfahrer, die von der Dorotheenstraße links in die Ellerstraße abbiegen möchten, müssen bis kurz vor der Ampelanlage an der Kreuzung auf dem Radweg fahren - hier erst endet nämlich die durchgezogene weiße Fahrbahnmarkierung.
+4-1	296-306	Begründung	_	
+4-2	306-307	:	_	
+4-3	308-317	Radfahrer	_	
+4-4	317-318	,	_	
+4-5	319-322	die	_	
+4-6	323-326	von	*[11]	
+4-7	327-330	der	*[11]	
+4-8	331-346	Dorotheenstraße	*[11]	
+4-9	347-352	links	*[11]	
+4-10	353-355	in	*[11]	
+4-11	356-359	die	*[11]	
+4-12	360-371	Ellerstraße	*[11]	
+4-13	372-380	abbiegen	*[11]	
+4-14	381-388	möchten	_	
+4-15	388-389	,	_	
+4-16	390-396	müssen	_	
+4-17	397-400	bis	_	
+4-18	401-405	kurz	_	
+4-19	406-409	vor	_	
+4-20	410-413	der	_	
+4-21	414-425	Ampelanlage	_	
+4-22	426-428	an	_	
+4-23	429-432	der	_	
+4-24	433-441	Kreuzung	_	
+4-25	442-445	auf	_	
+4-26	446-449	dem	_	
+4-27	450-456	Radweg	_	
+4-28	457-463	fahren	_	
+4-29	464-465	-	_	
+4-30	466-470	hier	_	
+4-31	471-475	erst	_	
+4-32	476-481	endet	_	
+4-33	482-489	nämlich	_	
+4-34	490-493	die	_	
+4-35	494-507	durchgezogene	_	
+4-36	508-513	weiße	_	
+4-37	514-532	Fahrbahnmarkierung	_	
+4-38	532-533	.	_	
+
+#Text=Wenn die Radfahrer dann auf die breite Fahrbahn fahren möchten, werden sie regelmäßig von neben ihnen fahrenden Autos blockiert.
+5-1	534-538	Wenn	_	
+5-2	539-542	die	_	
+5-3	543-552	Radfahrer	_	
+5-4	553-557	dann	_	
+5-5	558-561	auf	_	
+5-6	562-565	die	_	
+5-7	566-572	breite	_	
+5-8	573-581	Fahrbahn	_	
+5-9	582-588	fahren	_	
+5-10	589-596	möchten	_	
+5-11	596-597	,	_	
+5-12	598-604	werden	_	
+5-13	605-608	sie	_	
+5-14	609-619	regelmäßig	_	
+5-15	620-623	von	_	
+5-16	624-629	neben	_	
+5-17	630-635	ihnen	_	
+5-18	636-645	fahrenden	_	
+5-19	646-651	Autos	_	
+5-20	652-661	blockiert	_	
+5-21	661-662	.	_	
+
+#Text=Im ungünstigsten Fall bleibt nur: absteigen und warten.
+6-1	663-665	Im	_	
+6-2	666-679	ungünstigsten	_	
+6-3	680-684	Fall	_	
+6-4	685-691	bleibt	_	
+6-5	692-695	nur	_	
+6-6	695-696	:	_	
+6-7	697-706	absteigen	_	
+6-8	707-710	und	_	
+6-9	711-717	warten	_	
+6-10	717-718	.	_	
+
+#Text=Um nicht abgedrängt zu werden, ist es als Radfahrer notwendig, bereits ab der Ecke Sachsenweg legal (!) auf die breite Fahrbahn auffahren zu dürfen.
+7-1	719-721	Um	_	
+7-2	722-727	nicht	_	
+7-3	728-738	abgedrängt	_	
+7-4	739-741	zu	_	
+7-5	742-748	werden	_	
+7-6	748-749	,	_	
+7-7	750-753	ist	_	
+7-8	754-756	es	_	
+7-9	757-760	als	_	
+7-10	761-770	Radfahrer	_	
+7-11	771-780	notwendig	_	
+7-12	780-781	,	_	
+7-13	782-789	bereits	_	
+7-14	790-792	ab	_	
+7-15	793-796	der	_	
+7-16	797-801	Ecke	_	
+7-17	802-812	Sachsenweg	_	
+7-18	813-818	legal	_	
+7-19	819-820	(	_	
+7-20	820-821	!	_	
+7-21	821-822	)	_	
+7-22	823-826	auf	_	
+7-23	827-830	die	_	
+7-24	831-837	breite	_	
+7-25	838-846	Fahrbahn	_	
+7-26	847-856	auffahren	_	
+7-27	857-859	zu	_	
+7-28	860-866	dürfen	_	
+7-29	866-867	.	_	

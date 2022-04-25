@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg
+1-1	0-6	Radweg	_	
+
+#Text=Der Radweg sollte dringend ausgebessert werden, dort sind alle paar Meter lose Steine, so dass man Slalom fahren muß, um nicht zu straucheln.
+2-1	9-12	Der	_	
+2-2	13-19	Radweg	_	
+2-3	20-26	sollte	_	
+2-4	27-35	dringend	_	
+2-5	36-48	ausgebessert	_	
+2-6	49-55	werden	_	
+2-7	55-56	,	_	
+2-8	57-61	dort	_	
+2-9	62-66	sind	_	
+2-10	67-71	alle	_	
+2-11	72-76	paar	_	
+2-12	77-82	Meter	_	
+2-13	83-87	lose	_	
+2-14	88-94	Steine	_	
+2-15	94-95	,	_	
+2-16	96-98	so	_	
+2-17	99-103	dass	_	
+2-18	104-107	man	_	
+2-19	108-114	Slalom	_	
+2-20	115-121	fahren	_	
+2-21	122-125	muß	_	
+2-22	125-126	,	_	
+2-23	127-129	um	_	
+2-24	130-135	nicht	_	
+2-25	136-138	zu	_	
+2-26	139-149	straucheln	_	
+2-27	149-150	.	_	

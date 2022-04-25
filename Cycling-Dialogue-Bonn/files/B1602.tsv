@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg fast immer zugeparkt
+1-1	0-10	Fahrradweg	_	
+1-2	11-15	fast	_	
+1-3	16-21	immer	_	
+1-4	22-31	zugeparkt	_	
+
+#Text=An dieser Stelle wird der Fahrradweg von der Straße auf den Gehweg geführt (in beide Richtungen).
+2-1	34-36	An	_	
+2-2	37-43	dieser	_	
+2-3	44-50	Stelle	_	
+2-4	51-55	wird	_	
+2-5	56-59	der	_	
+2-6	60-70	Fahrradweg	_	
+2-7	71-74	von	_	
+2-8	75-78	der	_	
+2-9	79-85	Straße	_	
+2-10	86-89	auf	_	
+2-11	90-93	den	_	
+2-12	94-100	Gehweg	_	
+2-13	101-108	geführt	_	
+2-14	109-110	(	_	
+2-15	110-112	in	_	
+2-16	113-118	beide	_	
+2-17	119-129	Richtungen	_	
+2-18	129-130	)	_	
+2-19	130-131	.	_	
+
+#Text=In beide Richtungen ist hier der Radweg fast jeden Tag durch PKW zugeparkt.
+3-1	132-134	In	_	
+3-2	135-140	beide	_	
+3-3	141-151	Richtungen	_	
+3-4	152-155	ist	_	
+3-5	156-160	hier	_	
+3-6	161-164	der	_	
+3-7	165-171	Radweg	_	
+3-8	172-176	fast	_	
+3-9	177-182	jeden	_	
+3-10	183-186	Tag	_	
+3-11	187-192	durch	_	
+3-12	193-196	PKW	_	
+3-13	197-206	zugeparkt	_	
+3-14	206-207	.	_	
+
+#Text=Es müsste hier regelmäßige Kontrollen oder in letzter Instanz Poller oder sonstige Hindernisse geben, die Autofahrer vom Zuparken des Radweges abhalten.
+4-1	208-210	Es	_	
+4-2	211-217	müsste	_	
+4-3	218-222	hier	_	
+4-4	223-234	regelmäßige	_	
+4-5	235-245	Kontrollen	_	
+4-6	246-250	oder	_	
+4-7	251-253	in	_	
+4-8	254-261	letzter	_	
+4-9	262-269	Instanz	_	
+4-10	270-276	Poller	_	
+4-11	277-281	oder	_	
+4-12	282-290	sonstige	_	
+4-13	291-302	Hindernisse	_	
+4-14	303-308	geben	_	
+4-15	308-309	,	_	
+4-16	310-313	die	_	
+4-17	314-324	Autofahrer	_	
+4-18	325-328	vom	_	
+4-19	329-337	Zuparken	_	
+4-20	338-341	des	_	
+4-21	342-350	Radweges	_	
+4-22	351-359	abhalten	_	
+4-23	359-360	.	_	

@@ -1,0 +1,120 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Blockierte Radspur durch abholende Eltern
+1-1	0-10	Blockierte	_	
+1-2	11-18	Radspur	_	
+1-3	19-24	durch	_	
+1-4	25-34	abholende	_	
+1-5	35-41	Eltern	_	
+
+#Text=Vor dem Beethoven-Gymnasium an der Adenauerallee (aber sicher auch an anderen Schulen) kommt es immer wieder zu brenzligen Situationen, wenn Eltern am Straßenrand (und damit auf der markierten Fahrradspur) halten - oft über längere Zeitspannen, um ihre Kinder abzuholen.
+2-1	44-47	Vor	*[5]	
+2-2	48-51	dem	*[5]	
+2-3	52-71	Beethoven-Gymnasium	*[5]	
+2-4	72-74	an	*[5]	
+2-5	75-78	der	*[5]	
+2-6	79-92	Adenauerallee	*[5]	
+2-7	93-94	(	_	
+2-8	94-98	aber	_	
+2-9	99-105	sicher	_	
+2-10	106-110	auch	_	
+2-11	111-113	an	_	
+2-12	114-121	anderen	_	
+2-13	122-129	Schulen	_	
+2-14	129-130	)	_	
+2-15	131-136	kommt	_	
+2-16	137-139	es	_	
+2-17	140-145	immer	_	
+2-18	146-152	wieder	_	
+2-19	153-155	zu	_	
+2-20	156-166	brenzligen	_	
+2-21	167-178	Situationen	_	
+2-22	178-179	,	_	
+2-23	180-184	wenn	_	
+2-24	185-191	Eltern	_	
+2-25	192-194	am	_	
+2-26	195-206	Straßenrand	_	
+2-27	207-208	(	_	
+2-28	208-211	und	_	
+2-29	212-217	damit	_	
+2-30	218-221	auf	_	
+2-31	222-225	der	_	
+2-32	226-236	markierten	_	
+2-33	237-248	Fahrradspur	_	
+2-34	248-249	)	_	
+2-35	250-256	halten	_	
+2-36	257-258	-	_	
+2-37	259-262	oft	_	
+2-38	263-267	über	_	
+2-39	268-275	längere	_	
+2-40	276-287	Zeitspannen	_	
+2-41	287-288	,	_	
+2-42	289-291	um	_	
+2-43	292-296	ihre	_	
+2-44	297-303	Kinder	_	
+2-45	304-313	abzuholen	_	
+2-46	313-314	.	_	
+
+#Text=Als Radfahrer muss man dann auf die Autospuren ausweichen, die auf dieser Straße immer stark befahren sind, womit man sich selbst gefährdet und den Autoverkehr behindert.
+3-1	315-318	Als	_	
+3-2	319-328	Radfahrer	_	
+3-3	329-333	muss	_	
+3-4	334-337	man	_	
+3-5	338-342	dann	_	
+3-6	343-346	auf	_	
+3-7	347-350	die	_	
+3-8	351-361	Autospuren	_	
+3-9	362-372	ausweichen	_	
+3-10	372-373	,	_	
+3-11	374-377	die	_	
+3-12	378-381	auf	_	
+3-13	382-388	dieser	_	
+3-14	389-395	Straße	_	
+3-15	396-401	immer	_	
+3-16	402-407	stark	_	
+3-17	408-416	befahren	_	
+3-18	417-421	sind	_	
+3-19	421-422	,	_	
+3-20	423-428	womit	_	
+3-21	429-432	man	_	
+3-22	433-437	sich	_	
+3-23	438-444	selbst	_	
+3-24	445-454	gefährdet	_	
+3-25	455-458	und	_	
+3-26	459-462	den	_	
+3-27	463-474	Autoverkehr	_	
+3-28	475-484	behindert	_	
+3-29	484-485	.	_	
+
+#Text=An solchen Stellen - aber auch generell - sollte verstärkt darauf hingewiesen (und auch mal kontrolliert) werden, dass Radwege nicht behindert werden dürfen.
+4-1	486-488	An	_	
+4-2	489-496	solchen	_	
+4-3	497-504	Stellen	_	
+4-4	505-506	-	_	
+4-5	507-511	aber	_	
+4-6	512-516	auch	_	
+4-7	517-525	generell	_	
+4-8	526-527	-	_	
+4-9	528-534	sollte	_	
+4-10	535-544	verstärkt	_	
+4-11	545-551	darauf	_	
+4-12	552-563	hingewiesen	_	
+4-13	564-565	(	_	
+4-14	565-568	und	_	
+4-15	569-573	auch	_	
+4-16	574-577	mal	_	
+4-17	578-590	kontrolliert	_	
+4-18	590-591	)	_	
+4-19	592-598	werden	_	
+4-20	598-599	,	_	
+4-21	600-604	dass	_	
+4-22	605-612	Radwege	_	
+4-23	613-618	nicht	_	
+4-24	619-628	behindert	_	
+4-25	629-635	werden	_	
+4-26	636-642	dürfen	_	
+4-27	642-643	.	_	

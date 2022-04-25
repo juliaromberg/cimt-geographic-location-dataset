@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sicheres Fahren
+1-1	0-8	Sicheres	_	
+1-2	9-15	Fahren	_	
+
+#Text=Auch an dieser Einmündung wünscht man sich: eine Ampel für die Rechtsabbieger in den Lievelingsweg, eine Ampel für die aus dem Lievelingsweg nach rechts in die Kölnstraße abbiegenden Autos... ... und eine Kontaktschleife, so daß man aus Norden kommend in einem Rutsch alle 3 Straßen sicher überqueren kann.
+2-1	18-22	Auch	_	
+2-2	23-25	an	_	
+2-3	26-32	dieser	_	
+2-4	33-43	Einmündung	_	
+2-5	44-51	wünscht	_	
+2-6	52-55	man	_	
+2-7	56-60	sich	_	
+2-8	60-61	:	_	
+2-9	62-66	eine	_	
+2-10	67-72	Ampel	_	
+2-11	73-76	für	_	
+2-12	77-80	die	_	
+2-13	81-95	Rechtsabbieger	_	
+2-14	96-98	in	*[3]	
+2-15	99-102	den	*[3]	
+2-16	103-116	Lievelingsweg	*[3]	
+2-17	116-117	,	_	
+2-18	118-122	eine	_	
+2-19	123-128	Ampel	_	
+2-20	129-132	für	_	
+2-21	133-136	die	_	
+2-22	137-140	aus	*[4]	
+2-23	141-144	dem	*[4]	
+2-24	145-158	Lievelingsweg	*[4]	
+2-25	159-163	nach	*[4]	
+2-26	164-170	rechts	*[4]	
+2-27	171-173	in	*[4]	
+2-28	174-177	die	*[4]	
+2-29	178-188	Kölnstraße	*[4]	
+2-30	189-200	abbiegenden	*[4]	
+2-31	201-206	Autos	_	
+2-32	206-207	.	_	
+2-33	207-208	.	_	
+2-34	208-209	.	_	
+2-35	210-211	.	_	
+2-36	211-212	.	_	
+2-37	212-213	.	_	
+2-38	214-217	und	_	
+2-39	218-222	eine	_	
+2-40	223-238	Kontaktschleife	_	
+2-41	238-239	,	_	
+2-42	240-242	so	_	
+2-43	243-246	daß	_	
+2-44	247-250	man	_	
+2-45	251-254	aus	_	
+2-46	255-261	Norden	_	
+2-47	262-269	kommend	_	
+2-48	270-272	in	_	
+2-49	273-278	einem	_	
+2-50	279-285	Rutsch	_	
+2-51	286-290	alle	_	
+2-52	291-292	3	_	
+2-53	293-300	Straßen	_	
+2-54	301-307	sicher	_	
+2-55	308-318	überqueren	_	
+2-56	319-323	kann	_	
+2-57	323-324	.	_	

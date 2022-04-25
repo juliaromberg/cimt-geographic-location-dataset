@@ -1,0 +1,283 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehrsführung vor und um den Hauptbahnhof (schlimmste Stelle in Bonn)
+1-1	0-15	Verkehrsführung	_	
+1-2	16-19	vor	_	
+1-3	20-23	und	_	
+1-4	24-26	um	*[13]	
+1-5	27-30	den	*[13]	
+1-6	31-43	Hauptbahnhof	*[13]	
+1-7	44-45	(	_	
+1-8	45-55	schlimmste	_	
+1-9	56-62	Stelle	_	
+1-10	63-65	in	_	
+1-11	66-70	Bonn	*	
+1-12	70-71	)	_	
+
+#Text=Folgende Unzumutbarkeiten bestehen hier:
+2-1	74-82	Folgende	_	
+2-2	83-99	Unzumutbarkeiten	_	
+2-3	100-108	bestehen	_	
+2-4	109-113	hier	_	
+2-5	113-114	:	_	
+
+#Text=1. Keine fürs Rad gute Bahnquerung (Nordunterführung kurvig, Kopfsteinpflaster, schwer zu erreichen; Südunterführung noch kurviger und dafür mit gefährlichen Bahnschienen, Poppelsdorfer Allee nicht befahrbar)
+3-1	115-116	1	_	
+3-2	116-117	.	_	
+3-3	118-123	Keine	_	
+3-4	124-128	fürs	_	
+3-5	129-132	Rad	_	
+3-6	133-137	gute	_	
+3-7	138-149	Bahnquerung	_	
+3-8	150-151	(	_	
+3-9	151-167	Nordunterführung	_	
+3-10	168-174	kurvig	_	
+3-11	174-175	,	_	
+3-12	176-193	Kopfsteinpflaster	_	
+3-13	193-194	,	_	
+3-14	195-201	schwer	_	
+3-15	202-204	zu	_	
+3-16	205-214	erreichen	_	
+3-17	214-215	;	_	
+3-18	216-231	Südunterführung	_	
+3-19	232-236	noch	_	
+3-20	237-245	kurviger	_	
+3-21	246-249	und	_	
+3-22	250-255	dafür	_	
+3-23	256-259	mit	_	
+3-24	260-272	gefährlichen	_	
+3-25	273-285	Bahnschienen	_	
+3-26	285-286	,	_	
+3-27	287-300	Poppelsdorfer	*[14]	
+3-28	301-306	Allee	*[14]	
+3-29	307-312	nicht	_	
+3-30	313-322	befahrbar	_	
+3-31	322-323	)	_	
+
+#Text=2. Radinfrastruktur Am Hauptbahnhof nicht vorhanden, Befahren eingezwängt zwischen Autos und Bahnen.
+4-1	324-325	2	_	
+4-2	325-326	.	_	
+4-3	327-343	Radinfrastruktur	_	
+4-4	344-346	Am	*[15]	
+4-5	347-359	Hauptbahnhof	*[15]	
+4-6	360-365	nicht	_	
+4-7	366-375	vorhanden	_	
+4-8	375-376	,	_	
+4-9	377-385	Befahren	_	
+4-10	386-397	eingezwängt	_	
+4-11	398-406	zwischen	_	
+4-12	407-412	Autos	_	
+4-13	413-416	und	_	
+4-14	417-423	Bahnen	_	
+4-15	423-424	.	_	
+
+#Text=3. Aus der Bahnhofstür hinaus und einige Treppenstufen herunter plötzlich mitten auf der Straße (sonst in keiner Stadt).
+5-1	425-426	3	_	
+5-2	426-427	.	_	
+5-3	428-431	Aus	_	
+5-4	432-435	der	_	
+5-5	436-447	Bahnhofstür	_	
+5-6	448-454	hinaus	_	
+5-7	455-458	und	_	
+5-8	459-465	einige	_	
+5-9	466-479	Treppenstufen	_	
+5-10	480-488	herunter	_	
+5-11	489-498	plötzlich	_	
+5-12	499-505	mitten	_	
+5-13	506-509	auf	_	
+5-14	510-513	der	_	
+5-15	514-520	Straße	_	
+5-16	521-522	(	_	
+5-17	522-527	sonst	_	
+5-18	528-530	in	_	
+5-19	531-537	keiner	_	
+5-20	538-543	Stadt	_	
+5-21	543-544	)	_	
+5-22	544-545	.	_	
+
+#Text=Alles lange bekannt und nie verändert, für eine fahrradfreundliche Stadt lachhaft (müsste zur Entfernung aus dem AGFS führen).
+6-1	546-551	Alles	_	
+6-2	552-557	lange	_	
+6-3	558-565	bekannt	_	
+6-4	566-569	und	_	
+6-5	570-573	nie	_	
+6-6	574-583	verändert	_	
+6-7	583-584	,	_	
+6-8	585-588	für	_	
+6-9	589-593	eine	_	
+6-10	594-612	fahrradfreundliche	_	
+6-11	613-618	Stadt	_	
+6-12	619-627	lachhaft	_	
+6-13	628-629	(	_	
+6-14	629-635	müsste	_	
+6-15	636-639	zur	_	
+6-16	640-650	Entfernung	_	
+6-17	651-654	aus	_	
+6-18	655-658	dem	_	
+6-19	659-663	AGFS	_	
+6-20	664-670	führen	_	
+6-21	670-671	)	_	
+6-22	671-672	.	_	
+
+#Text=Derzeit (ohne Südüberbauung) sieht man, dass der Platz locker für Vorplatz, adäquaten Busbahnhof UND leistungsfähige Straße (alle Verkehrsarten) reichen würde.
+7-1	673-680	Derzeit	_	
+7-2	681-682	(	_	
+7-3	682-686	ohne	_	
+7-4	687-700	Südüberbauung	_	
+7-5	700-701	)	_	
+7-6	702-707	sieht	_	
+7-7	708-711	man	_	
+7-8	711-712	,	_	
+7-9	713-717	dass	_	
+7-10	718-721	der	_	
+7-11	722-727	Platz	_	
+7-12	728-734	locker	_	
+7-13	735-738	für	_	
+7-14	739-747	Vorplatz	_	
+7-15	747-748	,	_	
+7-16	749-758	adäquaten	_	
+7-17	759-769	Busbahnhof	_	
+7-18	770-773	UND	_	
+7-19	774-789	leistungsfähige	_	
+7-20	790-796	Straße	_	
+7-21	797-798	(	_	
+7-22	798-802	alle	_	
+7-23	803-816	Verkehrsarten	_	
+7-24	816-817	)	_	
+7-25	818-825	reichen	_	
+7-26	826-831	würde	_	
+7-27	831-832	.	_	
+
+#Text=Die anstehende völlige Neuplanung (!) wird dennoch nicht für Verbesserung des Radverkehrs genutzt: Zuerst war sogar Verschlechterung durch einen hier vollständig ungeeigneten Zweiwegeradweg vorgesehen (vollkommen gegen die StVO - Benutzungspflicht wäre im nu weggeklagt worden).
+8-1	833-836	Die	_	
+8-2	837-847	anstehende	_	
+8-3	848-855	völlige	_	
+8-4	856-866	Neuplanung	_	
+8-5	867-868	(	_	
+8-6	868-869	!	_	
+8-7	869-870	)	_	
+8-8	871-875	wird	_	
+8-9	876-883	dennoch	_	
+8-10	884-889	nicht	_	
+8-11	890-893	für	_	
+8-12	894-906	Verbesserung	_	
+8-13	907-910	des	_	
+8-14	911-922	Radverkehrs	_	
+8-15	923-930	genutzt	_	
+8-16	930-931	:	_	
+8-17	932-938	Zuerst	_	
+8-18	939-942	war	_	
+8-19	943-948	sogar	_	
+8-20	949-965	Verschlechterung	_	
+8-21	966-971	durch	_	
+8-22	972-977	einen	_	
+8-23	978-982	hier	_	
+8-24	983-994	vollständig	_	
+8-25	995-1007	ungeeigneten	_	
+8-26	1008-1022	Zweiwegeradweg	_	
+8-27	1023-1033	vorgesehen	_	
+8-28	1034-1035	(	_	
+8-29	1035-1045	vollkommen	_	
+8-30	1046-1051	gegen	_	
+8-31	1052-1055	die	_	
+8-32	1056-1060	StVO	_	
+8-33	1061-1062	-	_	
+8-34	1063-1080	Benutzungspflicht	_	
+8-35	1081-1085	wäre	_	
+8-36	1086-1088	im	_	
+8-37	1089-1091	nu	_	
+8-38	1092-1102	weggeklagt	_	
+8-39	1103-1109	worden	_	
+8-40	1109-1110	)	_	
+8-41	1110-1111	.	_	
+
+#Text=Aber auch die nun vorgestellte Lösung mit Radstreifen zwischen Bahn und Haltestelle verbessert die Führung kaum.
+9-1	1112-1116	Aber	_	
+9-2	1117-1121	auch	_	
+9-3	1122-1125	die	_	
+9-4	1126-1129	nun	_	
+9-5	1130-1142	vorgestellte	_	
+9-6	1143-1149	Lösung	_	
+9-7	1150-1153	mit	_	
+9-8	1154-1165	Radstreifen	_	
+9-9	1166-1174	zwischen	_	
+9-10	1175-1179	Bahn	_	
+9-11	1180-1183	und	_	
+9-12	1184-1195	Haltestelle	_	
+9-13	1196-1206	verbessert	_	
+9-14	1207-1210	die	_	
+9-15	1211-1218	Führung	_	
+9-16	1219-1223	kaum	_	
+9-17	1223-1224	.	_	
+
+#Text=Sollte eine solche Planung tatsächlich weiter verfolgt werden, treffen die Verantwortlichen klar die Aussage Radhauptstadt - dauerhaft ohne uns.
+10-1	1225-1231	Sollte	_	
+10-2	1232-1236	eine	_	
+10-3	1237-1243	solche	_	
+10-4	1244-1251	Planung	_	
+10-5	1252-1263	tatsächlich	_	
+10-6	1264-1270	weiter	_	
+10-7	1271-1279	verfolgt	_	
+10-8	1280-1286	werden	_	
+10-9	1286-1287	,	_	
+10-10	1288-1295	treffen	_	
+10-11	1296-1299	die	_	
+10-12	1300-1316	Verantwortlichen	_	
+10-13	1317-1321	klar	_	
+10-14	1322-1325	die	_	
+10-15	1326-1333	Aussage	_	
+10-16	1334-1347	Radhauptstadt	_	
+10-17	1348-1349	-	_	
+10-18	1350-1359	dauerhaft	_	
+10-19	1360-1364	ohne	_	
+10-20	1365-1368	uns	_	
+10-21	1368-1369	.	_	
+
+#Text=Stattdessen brauchen wir: Breite Radspuren/wege (>2m je Richtung) ohne Schienen und eine gut zu befahrende Bahnquerung.
+11-1	1370-1381	Stattdessen	_	
+11-2	1382-1390	brauchen	_	
+11-3	1391-1394	wir	_	
+11-4	1394-1395	:	_	
+11-5	1396-1402	Breite	_	
+11-6	1403-1412	Radspuren	_	
+11-7	1412-1413	/	_	
+11-8	1413-1417	wege	_	
+11-9	1418-1419	(	_	
+11-10	1419-1420	>	_	
+11-11	1420-1422	2m	_	
+11-12	1423-1425	je	_	
+11-13	1426-1434	Richtung	_	
+11-14	1434-1435	)	_	
+11-15	1436-1440	ohne	_	
+11-16	1441-1449	Schienen	_	
+11-17	1450-1453	und	_	
+11-18	1454-1458	eine	_	
+11-19	1459-1462	gut	_	
+11-20	1463-1465	zu	_	
+11-21	1466-1476	befahrende	_	
+11-22	1477-1488	Bahnquerung	_	
+11-23	1488-1489	.	_	
+
+#Text=Möglich, wenn vor dem Bf ÖPNV+Fuß+Rad Vorrang haben (siehe Karlsruhe).
+12-1	1490-1497	Möglich	_	
+12-2	1497-1498	,	_	
+12-3	1499-1503	wenn	_	
+12-4	1504-1507	vor	_	
+12-5	1508-1511	dem	_	
+12-6	1512-1514	Bf	_	
+12-7	1515-1519	ÖPNV	_	
+12-8	1519-1520	+	_	
+12-9	1520-1523	Fuß	_	
+12-10	1523-1524	+	_	
+12-11	1524-1527	Rad	_	
+12-12	1528-1535	Vorrang	_	
+12-13	1536-1541	haben	_	
+12-14	1542-1543	(	_	
+12-15	1543-1548	siehe	_	
+12-16	1549-1558	Karlsruhe	_	
+12-17	1558-1559	)	_	
+12-18	1559-1560	.	_	

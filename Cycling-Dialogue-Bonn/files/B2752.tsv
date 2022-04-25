@@ -1,0 +1,107 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Engstelle am Rhein beseitigen
+1-1	0-9	Engstelle	_	
+1-2	10-12	am	_	
+1-3	13-18	Rhein	_	
+1-4	19-29	beseitigen	_	
+
+#Text=Auf diesem Weg ist die östliche Hälfte mit runden Steinen gepflastert (vermutlich um den alten Verlauf der Bröltalbahn zu verdeutlichen).
+2-1	32-35	Auf	_	
+2-2	36-42	diesem	_	
+2-3	43-46	Weg	_	
+2-4	47-50	ist	_	
+2-5	51-54	die	_	
+2-6	55-63	östliche	_	
+2-7	64-70	Hälfte	_	
+2-8	71-74	mit	_	
+2-9	75-81	runden	_	
+2-10	82-89	Steinen	_	
+2-11	90-101	gepflastert	_	
+2-12	102-103	(	_	
+2-13	103-113	vermutlich	_	
+2-14	114-116	um	_	
+2-15	117-120	den	_	
+2-16	121-126	alten	_	
+2-17	127-134	Verlauf	_	
+2-18	135-138	der	_	
+2-19	139-150	Bröltalbahn	_	
+2-20	151-153	zu	_	
+2-21	154-167	verdeutlichen	_	
+2-22	167-168	)	_	
+2-23	168-169	.	_	
+
+#Text=Diese Aufpflasterung ist mit dem Fahrrad sehr schlecht zu befahren und auch Fußgänger (besonders mit Kinderwagen/Rollstuhl) benutzen diese Hälfte kaum.
+3-1	170-175	Diese	_	
+3-2	176-190	Aufpflasterung	_	
+3-3	191-194	ist	_	
+3-4	195-198	mit	_	
+3-5	199-202	dem	_	
+3-6	203-210	Fahrrad	_	
+3-7	211-215	sehr	_	
+3-8	216-224	schlecht	_	
+3-9	225-227	zu	_	
+3-10	228-236	befahren	_	
+3-11	237-240	und	_	
+3-12	241-245	auch	_	
+3-13	246-255	Fußgänger	_	
+3-14	256-257	(	_	
+3-15	257-266	besonders	_	
+3-16	267-270	mit	_	
+3-17	271-282	Kinderwagen	_	
+3-18	282-283	/	_	
+3-19	283-292	Rollstuhl	_	
+3-20	292-293	)	_	
+3-21	294-302	benutzen	_	
+3-22	303-308	diese	_	
+3-23	309-315	Hälfte	_	
+3-24	316-320	kaum	_	
+3-25	320-321	.	_	
+
+#Text=Da dieser Weg stark von Radfahrern und Fußgängern gemeinsam genutzt wird, sollte die gesamte Breite sinnvoll befahr- und begehbar sein.
+4-1	322-324	Da	_	
+4-2	325-331	dieser	_	
+4-3	332-335	Weg	_	
+4-4	336-341	stark	_	
+4-5	342-345	von	_	
+4-6	346-356	Radfahrern	_	
+4-7	357-360	und	_	
+4-8	361-371	Fußgängern	_	
+4-9	372-381	gemeinsam	_	
+4-10	382-389	genutzt	_	
+4-11	390-394	wird	_	
+4-12	394-395	,	_	
+4-13	396-402	sollte	_	
+4-14	403-406	die	_	
+4-15	407-414	gesamte	_	
+4-16	415-421	Breite	_	
+4-17	422-430	sinnvoll	_	
+4-18	431-437	befahr	_	
+4-19	437-438	-	_	
+4-20	439-442	und	_	
+4-21	443-451	begehbar	_	
+4-22	452-456	sein	_	
+4-23	456-457	.	_	
+
+#Text=Den Verlauf der alten Bahntrasse könnte man stattdessen zum Beispiel durch zwei andersfarbige eingelassene Pflasterbänder verdeutlichen.
+5-1	458-461	Den	_	
+5-2	462-469	Verlauf	_	
+5-3	470-473	der	_	
+5-4	474-479	alten	_	
+5-5	480-490	Bahntrasse	_	
+5-6	491-497	könnte	_	
+5-7	498-501	man	_	
+5-8	502-513	stattdessen	_	
+5-9	514-517	zum	_	
+5-10	518-526	Beispiel	_	
+5-11	527-532	durch	_	
+5-12	533-537	zwei	_	
+5-13	538-551	andersfarbige	_	
+5-14	552-564	eingelassene	_	
+5-15	565-579	Pflasterbänder	_	
+5-16	580-593	verdeutlichen	_	
+5-17	593-594	.	_	

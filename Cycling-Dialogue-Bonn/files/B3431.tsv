@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße mit extrem schlechten Fahrbahnbelag
+1-1	0-13	Fahrradstraße	_	
+1-2	14-17	mit	_	
+1-3	18-24	extrem	_	
+1-4	25-35	schlechten	_	
+1-5	36-49	Fahrbahnbelag	_	
+
+#Text=Die Martin-Luther-King-Straße ist zwar als Fahrradstraße markiert, hat aber einen unzumutbar schlechten Fahrbahnbelag.
+2-1	52-55	Die	*[4]	
+2-2	56-81	Martin-Luther-King-Straße	*[4]	
+2-3	82-85	ist	_	
+2-4	86-90	zwar	_	
+2-5	91-94	als	_	
+2-6	95-108	Fahrradstraße	_	
+2-7	109-117	markiert	_	
+2-8	117-118	,	_	
+2-9	119-122	hat	_	
+2-10	123-127	aber	_	
+2-11	128-133	einen	_	
+2-12	134-144	unzumutbar	_	
+2-13	145-155	schlechten	_	
+2-14	156-169	Fahrbahnbelag	_	
+2-15	169-170	.	_	
+
+#Text=Vorschlag: neu asphaltieren.
+3-1	171-180	Vorschlag	_	
+3-2	180-181	:	_	
+3-3	182-185	neu	_	
+3-4	186-198	asphaltieren	_	
+3-5	198-199	.	_	

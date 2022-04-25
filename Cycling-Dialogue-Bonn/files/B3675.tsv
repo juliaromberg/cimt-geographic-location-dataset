@@ -1,0 +1,138 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefahrenstelle durch Schüler und Tempo 70
+1-1	0-14	Gefahrenstelle	_	
+1-2	15-20	durch	_	
+1-3	21-28	Schüler	_	
+1-4	29-32	und	_	
+1-5	33-38	Tempo	_	
+1-6	39-41	70	_	
+
+#Text=An dieser Stelle darf man auf der B9 bereits 70 km/h fahren zu Stoßzeiten sind so viele Schüler mit und ohne Fahrrad die zur Bahn gehen, das es eine Frage der Zeit ist bis ein Schüler vom Auto erwischt wird.
+2-1	44-46	An	_	
+2-2	47-53	dieser	_	
+2-3	54-60	Stelle	_	
+2-4	61-65	darf	_	
+2-5	66-69	man	_	
+2-6	70-73	auf	*[6]	
+2-7	74-77	der	*[6]	
+2-8	78-80	B9	*[6]	
+2-9	81-88	bereits	_	
+2-10	89-91	70	_	
+2-11	92-94	km	_	
+2-12	94-95	/	_	
+2-13	95-96	h	_	
+2-14	97-103	fahren	_	
+2-15	104-106	zu	_	
+2-16	107-117	Stoßzeiten	_	
+2-17	118-122	sind	_	
+2-18	123-125	so	_	
+2-19	126-131	viele	_	
+2-20	132-139	Schüler	_	
+2-21	140-143	mit	_	
+2-22	144-147	und	_	
+2-23	148-152	ohne	_	
+2-24	153-160	Fahrrad	_	
+2-25	161-164	die	_	
+2-26	165-168	zur	_	
+2-27	169-173	Bahn	_	
+2-28	174-179	gehen	_	
+2-29	179-180	,	_	
+2-30	181-184	das	_	
+2-31	185-187	es	_	
+2-32	188-192	eine	_	
+2-33	193-198	Frage	_	
+2-34	199-202	der	_	
+2-35	203-207	Zeit	_	
+2-36	208-211	ist	_	
+2-37	212-215	bis	_	
+2-38	216-219	ein	_	
+2-39	220-227	Schüler	_	
+2-40	228-231	vom	_	
+2-41	232-236	Auto	_	
+2-42	237-245	erwischt	_	
+2-43	246-250	wird	_	
+2-44	250-251	.	_	
+
+#Text=Man müsste um etwas mehr Sicherheit zu haben nur 1 Verkehrsschild auf dem 70 km/h steht mit einem 50 km/h Schild .
+3-1	252-255	Man	_	
+3-2	256-262	müsste	_	
+3-3	263-265	um	_	
+3-4	266-271	etwas	_	
+3-5	272-276	mehr	_	
+3-6	277-287	Sicherheit	_	
+3-7	288-290	zu	_	
+3-8	291-296	haben	_	
+3-9	297-300	nur	_	
+3-10	301-302	1	_	
+3-11	303-317	Verkehrsschild	_	
+3-12	318-321	auf	_	
+3-13	322-325	dem	_	
+3-14	326-328	70	_	
+3-15	329-331	km	_	
+3-16	331-332	/	_	
+3-17	332-333	h	_	
+3-18	334-339	steht	_	
+3-19	340-343	mit	_	
+3-20	344-349	einem	_	
+3-21	350-352	50	_	
+3-22	353-355	km	_	
+3-23	355-356	/	_	
+3-24	356-357	h	_	
+3-25	358-364	Schild	_	
+3-26	365-366	.	_	
+
+#Text=Das heißt, nach dem Kreisel 50km/h bis hinter die Ampel beim [Firma] !
+4-1	367-370	Das	_	
+4-2	371-376	heißt	_	
+4-3	376-377	,	_	
+4-4	378-382	nach	_	
+4-5	383-386	dem	_	
+4-6	387-394	Kreisel	_	
+4-7	395-399	50km	_	
+4-8	399-400	/	_	
+4-9	400-401	h	_	
+4-10	402-405	bis	_	
+4-11	406-412	hinter	_	
+4-12	413-416	die	_	
+4-13	417-422	Ampel	_	
+4-14	423-427	beim	_	
+4-15	428-429	[	_	
+4-16	429-434	Firma	_	
+4-17	434-435	]	_	
+4-18	436-437	!	_	
+
+#Text=Durch die Fahradstation vor Ort ist dort einfach oft der teufel los und das direkt an der B9 bei 70 km/h die oft noch überschritten wird !
+5-1	438-443	Durch	_	
+5-2	444-447	die	_	
+5-3	448-461	Fahradstation	_	
+5-4	462-465	vor	_	
+5-5	466-469	Ort	_	
+5-6	470-473	ist	_	
+5-7	474-478	dort	_	
+5-8	479-486	einfach	_	
+5-9	487-490	oft	_	
+5-10	491-494	der	_	
+5-11	495-501	teufel	_	
+5-12	502-505	los	_	
+5-13	506-509	und	_	
+5-14	510-513	das	_	
+5-15	514-520	direkt	_	
+5-16	521-523	an	*[7]	
+5-17	524-527	der	*[7]	
+5-18	528-530	B9	*[7]	
+5-19	531-534	bei	_	
+5-20	535-537	70	_	
+5-21	538-540	km	_	
+5-22	540-541	/	_	
+5-23	541-542	h	_	
+5-24	543-546	die	_	
+5-25	547-550	oft	_	
+5-26	551-555	noch	_	
+5-27	556-569	überschritten	_	
+5-28	570-574	wird	_	
+5-29	575-576	!	_	

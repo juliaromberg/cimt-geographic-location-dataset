@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hier macht Radfahren wirklich kein Spaß
+1-1	0-4	Hier	_	
+1-2	5-10	macht	_	
+1-3	11-20	Radfahren	_	
+1-4	21-29	wirklich	_	
+1-5	30-34	kein	_	
+1-6	35-39	Spaß	_	
+
+#Text=rund um den Hauptbahnhof, also Maximilianstraße und Am Hauptbahnhof sind PKW Fahrer gefühlt noch rücksichtsloser als sonst.
+2-1	42-46	rund	*[5]	
+2-2	47-49	um	*[5]	
+2-3	50-53	den	*[5]	
+2-4	54-66	Hauptbahnhof	*[5]	
+2-5	66-67	,	*[5]	
+2-6	68-72	also	*[5]	
+2-7	73-89	Maximilianstraße	*[5]	
+2-8	90-93	und	*[5]	
+2-9	94-96	Am	*[5]	
+2-10	97-109	Hauptbahnhof	*[5]	
+2-11	110-114	sind	_	
+2-12	115-118	PKW	_	
+2-13	119-125	Fahrer	_	
+2-14	126-133	gefühlt	_	
+2-15	134-138	noch	_	
+2-16	139-154	rücksichtsloser	_	
+2-17	155-158	als	_	
+2-18	159-164	sonst	_	
+2-19	164-165	.	_	
+
+#Text=Fahrradwege werden teilweise mit Lieferfahrzeugen zugestellt oder als verbreiterte Fahrspur genutzt aber v.a. der Fahrstil ist das Problem.
+3-1	166-177	Fahrradwege	_	
+3-2	178-184	werden	_	
+3-3	185-194	teilweise	_	
+3-4	195-198	mit	_	
+3-5	199-215	Lieferfahrzeugen	_	
+3-6	216-226	zugestellt	_	
+3-7	227-231	oder	_	
+3-8	232-235	als	_	
+3-9	236-248	verbreiterte	_	
+3-10	249-257	Fahrspur	_	
+3-11	258-265	genutzt	_	
+3-12	266-270	aber	_	
+3-13	271-274	v.a	_	
+3-14	274-275	.	_	
+3-15	276-279	der	_	
+3-16	280-288	Fahrstil	_	
+3-17	289-292	ist	_	
+3-18	293-296	das	_	
+3-19	297-304	Problem	_	
+3-20	304-305	.	_	
+
+#Text=Wie Hacke im Wald bei manchen
+4-1	306-309	Wie	_	
+4-2	310-315	Hacke	_	
+4-3	316-318	im	_	
+4-4	319-323	Wald	_	
+4-5	324-327	bei	_	
+4-6	328-335	manchen	_	

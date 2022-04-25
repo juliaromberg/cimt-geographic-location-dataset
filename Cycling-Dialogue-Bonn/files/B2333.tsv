@@ -1,0 +1,32 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Mehr Radsständer
+1-1	0-4	Mehr	_	
+1-2	5-16	Radsständer	_	
+
+#Text=Die Fahrradständer am Marktplatz reichen oft nicht aus und die Laternenpfähle sind leider zu dick um ein Rad daran anszuschließen.
+2-1	19-22	Die	_	
+2-2	23-37	Fahrradständer	_	
+2-3	38-40	am	*[3]	
+2-4	41-51	Marktplatz	*[3]	
+2-5	52-59	reichen	_	
+2-6	60-63	oft	_	
+2-7	64-69	nicht	_	
+2-8	70-73	aus	_	
+2-9	74-77	und	_	
+2-10	78-81	die	_	
+2-11	82-96	Laternenpfähle	_	
+2-12	97-101	sind	_	
+2-13	102-108	leider	_	
+2-14	109-111	zu	_	
+2-15	112-116	dick	_	
+2-16	117-119	um	_	
+2-17	120-123	ein	_	
+2-18	124-127	Rad	_	
+2-19	128-133	daran	_	
+2-20	134-148	anszuschließen	_	
+2-21	148-149	.	_	

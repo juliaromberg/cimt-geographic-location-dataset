@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rückbau von getrenntem Radweg/Gehweg zu Gehweg mit geduldetem Radfahren
+1-1	0-7	Rückbau	_	
+1-2	8-11	von	_	
+1-3	12-22	getrenntem	_	
+1-4	23-29	Radweg	_	
+1-5	29-30	/	_	
+1-6	30-36	Gehweg	_	
+1-7	37-39	zu	_	
+1-8	40-46	Gehweg	_	
+1-9	47-50	mit	_	
+1-10	51-61	geduldetem	_	
+1-11	62-71	Radfahren	_	
+
+#Text=Warum wurde hier der Radweg zurückgebaut?
+2-1	74-79	Warum	_	
+2-2	80-85	wurde	_	
+2-3	86-90	hier	_	
+2-4	91-94	der	_	
+2-5	95-101	Radweg	_	
+2-6	102-114	zurückgebaut	_	
+2-7	114-115	?	_	
+
+#Text=Nun muss man sich durch die Fußgänger hindurcharbeiten.
+3-1	116-119	Nun	_	
+3-2	120-124	muss	_	
+3-3	125-128	man	_	
+3-4	129-133	sich	_	
+3-5	134-139	durch	_	
+3-6	140-143	die	_	
+3-7	144-153	Fußgänger	_	
+3-8	154-170	hindurcharbeiten	_	
+3-9	170-171	.	_	

@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlaglöcher und Scherben (Glascontainer)
+1-1	0-12	Schlaglöcher	_	
+1-2	13-16	und	_	
+1-3	17-25	Scherben	_	
+1-4	26-27	(	_	
+1-5	27-40	Glascontainer	_	
+1-6	40-41	)	_	
+
+#Text=Teilabschnitt zwischen Katzenburgweg und Kekuléstraße weist diverse Schlaglöcher/Absenkungen des Asphalts auf.
+2-1	44-57	Teilabschnitt	*[4]	
+2-2	58-66	zwischen	*[4]	
+2-3	67-80	Katzenburgweg	*[4]	
+2-4	81-84	und	*[4]	
+2-5	85-97	Kekuléstraße	*[4]	
+2-6	98-103	weist	_	
+2-7	104-111	diverse	_	
+2-8	112-124	Schlaglöcher	_	
+2-9	124-125	/	_	
+2-10	125-136	Absenkungen	_	
+2-11	137-140	des	_	
+2-12	141-149	Asphalts	_	
+2-13	150-153	auf	_	
+2-14	153-154	.	_	
+
+#Text=Als Fahrradfahrer fährt man hier momentan am besten in der Mitte der Straße, dann kann man auch den Scherben am Glascontainer ausweichen, die dort häufig anzutreffen sind.
+3-1	155-158	Als	_	
+3-2	159-172	Fahrradfahrer	_	
+3-3	173-178	fährt	_	
+3-4	179-182	man	_	
+3-5	183-187	hier	_	
+3-6	188-196	momentan	_	
+3-7	197-199	am	_	
+3-8	200-206	besten	_	
+3-9	207-209	in	_	
+3-10	210-213	der	_	
+3-11	214-219	Mitte	_	
+3-12	220-223	der	_	
+3-13	224-230	Straße	_	
+3-14	230-231	,	_	
+3-15	232-236	dann	_	
+3-16	237-241	kann	_	
+3-17	242-245	man	_	
+3-18	246-250	auch	_	
+3-19	251-254	den	_	
+3-20	255-263	Scherben	_	
+3-21	264-266	am	_	
+3-22	267-280	Glascontainer	_	
+3-23	281-291	ausweichen	_	
+3-24	291-292	,	_	
+3-25	293-296	die	_	
+3-26	297-301	dort	_	
+3-27	302-308	häufig	_	
+3-28	309-320	anzutreffen	_	
+3-29	321-325	sind	_	
+3-30	325-326	.	_	

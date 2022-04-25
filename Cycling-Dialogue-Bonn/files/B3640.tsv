@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehr in beide Richtungen abschaffen
+1-1	0-7	Verkehr	_	
+1-2	8-10	in	_	
+1-3	11-16	beide	_	
+1-4	17-27	Richtungen	_	
+1-5	28-38	abschaffen	_	
+
+#Text=Wenn man vom Lievelingsweg rechts auf die Kölnstraße abbiegt, muss man zusätzlich zum Autoverkehr noch den in beide Richtungen stattfindenden Radverkehr beachten.
+2-1	41-45	Wenn	_	
+2-2	46-49	man	_	
+2-3	50-53	vom	*[3]	
+2-4	54-67	Lievelingsweg	*[3]	
+2-5	68-74	rechts	*[3]	
+2-6	75-78	auf	*[3]	
+2-7	79-82	die	*[3]	
+2-8	83-93	Kölnstraße	*[3]	
+2-9	94-101	abbiegt	*[3]	
+2-10	101-102	,	_	
+2-11	103-107	muss	_	
+2-12	108-111	man	_	
+2-13	112-122	zusätzlich	_	
+2-14	123-126	zum	_	
+2-15	127-138	Autoverkehr	_	
+2-16	139-143	noch	_	
+2-17	144-147	den	_	
+2-18	148-150	in	_	
+2-19	151-156	beide	_	
+2-20	157-167	Richtungen	_	
+2-21	168-182	stattfindenden	_	
+2-22	183-193	Radverkehr	_	
+2-23	194-202	beachten	_	
+2-24	202-203	.	_	

@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Eingang zur Stadt aber fehlende Radabstellanlagen
+1-1	0-7	Eingang	_	
+1-2	8-11	zur	_	
+1-3	12-17	Stadt	_	
+1-4	18-22	aber	_	
+1-5	23-31	fehlende	_	
+1-6	32-49	Radabstellanlagen	_	
+
+#Text=Die Busspur wird eh nicht ganz genutzt und Abbiegeverkehr gefährdet Radfahrer, daher den Platzt auf der Straße besser für Radparkplätze nutzen!
+2-1	52-55	Die	_	
+2-2	56-63	Busspur	_	
+2-3	64-68	wird	_	
+2-4	69-71	eh	_	
+2-5	72-77	nicht	_	
+2-6	78-82	ganz	_	
+2-7	83-90	genutzt	_	
+2-8	91-94	und	_	
+2-9	95-109	Abbiegeverkehr	_	
+2-10	110-119	gefährdet	_	
+2-11	120-129	Radfahrer	_	
+2-12	129-130	,	_	
+2-13	131-136	daher	_	
+2-14	137-140	den	_	
+2-15	141-147	Platzt	_	
+2-16	148-151	auf	_	
+2-17	152-155	der	_	
+2-18	156-162	Straße	_	
+2-19	163-169	besser	_	
+2-20	170-173	für	_	
+2-21	174-187	Radparkplätze	_	
+2-22	188-194	nutzen	_	
+2-23	194-195	!	_	

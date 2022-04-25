@@ -1,0 +1,132 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kaiserstrasse
+1-1	0-13	Kaiserstrasse	*	
+
+#Text=Der Zweirichtungsradweg auf der Kaiserstrasse ist radfahrerunfreundlich und lebensgefährlich.
+2-1	16-19	Der	*[7]	
+2-2	20-39	Zweirichtungsradweg	*[7]	
+2-3	40-43	auf	*[7]	
+2-4	44-47	der	*[7]	
+2-5	48-61	Kaiserstrasse	*[7]	
+2-6	62-65	ist	_	
+2-7	66-87	radfahrerunfreundlich	_	
+2-8	88-91	und	_	
+2-9	92-108	lebensgefährlich	_	
+2-10	108-109	.	_	
+
+#Text=Wenn Radfahrer in beide Richtungen unterwegs sind wird der Weg noch enger als er eh schon ist.
+3-1	110-114	Wenn	_	
+3-2	115-124	Radfahrer	_	
+3-3	125-127	in	_	
+3-4	128-133	beide	_	
+3-5	134-144	Richtungen	_	
+3-6	145-154	unterwegs	_	
+3-7	155-159	sind	_	
+3-8	160-164	wird	_	
+3-9	165-168	der	_	
+3-10	169-172	Weg	_	
+3-11	173-177	noch	_	
+3-12	178-183	enger	_	
+3-13	184-187	als	_	
+3-14	188-190	er	_	
+3-15	191-193	eh	_	
+3-16	194-199	schon	_	
+3-17	200-203	ist	_	
+3-18	203-204	.	_	
+
+#Text=Wenn einem dann auch noch ein Bus in hohem Tempo entgegenkommt wird es gruselig.
+4-1	205-209	Wenn	_	
+4-2	210-215	einem	_	
+4-3	216-220	dann	_	
+4-4	221-225	auch	_	
+4-5	226-230	noch	_	
+4-6	231-234	ein	_	
+4-7	235-238	Bus	_	
+4-8	239-241	in	_	
+4-9	242-247	hohem	_	
+4-10	248-253	Tempo	_	
+4-11	254-267	entgegenkommt	_	
+4-12	268-272	wird	_	
+4-13	273-275	es	_	
+4-14	276-284	gruselig	_	
+4-15	284-285	.	_	
+
+#Text=Die hohe Borsteinkante ist ein weiterer Faktor, der zur Unsicherheit beiträgt.
+5-1	286-289	Die	_	
+5-2	290-294	hohe	_	
+5-3	295-308	Borsteinkante	_	
+5-4	309-312	ist	_	
+5-5	313-316	ein	_	
+5-6	317-325	weiterer	_	
+5-7	326-332	Faktor	_	
+5-8	332-333	,	_	
+5-9	334-337	der	_	
+5-10	338-341	zur	_	
+5-11	342-354	Unsicherheit	_	
+5-12	355-363	beiträgt	_	
+5-13	363-364	.	_	
+
+#Text=Damit Radfahrer von ihrem Recht, auf der Fahrbahn fahren zu dürfen, Gebrauch machen können ohne von den Autofahrern gemaßregelt zu werden, bedarf es der formalen Trennung der Richtungen und damit einhergehend einem Schutzstreifen für Radfahrer, die in Richtung Stadt unterwegs sind.
+6-1	365-370	Damit	_	
+6-2	371-380	Radfahrer	_	
+6-3	381-384	von	_	
+6-4	385-390	ihrem	_	
+6-5	391-396	Recht	_	
+6-6	396-397	,	_	
+6-7	398-401	auf	_	
+6-8	402-405	der	_	
+6-9	406-414	Fahrbahn	_	
+6-10	415-421	fahren	_	
+6-11	422-424	zu	_	
+6-12	425-431	dürfen	_	
+6-13	431-432	,	_	
+6-14	433-441	Gebrauch	_	
+6-15	442-448	machen	_	
+6-16	449-455	können	_	
+6-17	456-460	ohne	_	
+6-18	461-464	von	_	
+6-19	465-468	den	_	
+6-20	469-480	Autofahrern	_	
+6-21	481-492	gemaßregelt	_	
+6-22	493-495	zu	_	
+6-23	496-502	werden	_	
+6-24	502-503	,	_	
+6-25	504-510	bedarf	_	
+6-26	511-513	es	_	
+6-27	514-517	der	_	
+6-28	518-526	formalen	_	
+6-29	527-535	Trennung	_	
+6-30	536-539	der	_	
+6-31	540-550	Richtungen	_	
+6-32	551-554	und	_	
+6-33	555-560	damit	_	
+6-34	561-573	einhergehend	_	
+6-35	574-579	einem	_	
+6-36	580-594	Schutzstreifen	_	
+6-37	595-598	für	_	
+6-38	599-608	Radfahrer	_	
+6-39	608-609	,	_	
+6-40	610-613	die	_	
+6-41	614-616	in	_	
+6-42	617-625	Richtung	_	
+6-43	626-631	Stadt	_	
+6-44	632-641	unterwegs	_	
+6-45	642-646	sind	_	
+6-46	646-647	.	_	
+
+#Text=Eine gute Öffentlichkeitsarbeit für die Neuregelung wäre auch wichtig.
+7-1	648-652	Eine	_	
+7-2	653-657	gute	_	
+7-3	658-679	Öffentlichkeitsarbeit	_	
+7-4	680-683	für	_	
+7-5	684-687	die	_	
+7-6	688-699	Neuregelung	_	
+7-7	700-704	wäre	_	
+7-8	705-709	auch	_	
+7-9	710-717	wichtig	_	
+7-10	717-718	.	_	

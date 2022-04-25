@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße
+1-1	0-13	Fahrradstraße	_	
+
+#Text=Ich möchte das die Kumme eine Fahrradstarße wird da sie vielen Radlern als durchgangstraße von und nach Bad Godesberg dient!
+2-1	16-19	Ich	_	
+2-2	20-26	möchte	_	
+2-3	27-30	das	_	
+2-4	31-34	die	*[2]	
+2-5	35-40	Kumme	*[2]	
+2-6	41-45	eine	_	
+2-7	46-59	Fahrradstarße	_	
+2-8	60-64	wird	_	
+2-9	65-67	da	_	
+2-10	68-71	sie	_	
+2-11	72-78	vielen	_	
+2-12	79-86	Radlern	_	
+2-13	87-90	als	_	
+2-14	91-106	durchgangstraße	_	
+2-15	107-110	von	_	
+2-16	111-114	und	_	
+2-17	115-119	nach	*[3]	
+2-18	120-123	Bad	*[3]	
+2-19	124-133	Godesberg	*[3]	
+2-20	134-139	dient	_	
+2-21	139-140	!	_	

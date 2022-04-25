@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Nicht abgesenkte Radwege an zwei Einmündungen
+1-1	0-5	Nicht	_	
+1-2	6-16	abgesenkte	_	
+1-3	17-24	Radwege	_	
+1-4	25-27	an	_	
+1-5	28-32	zwei	_	
+1-6	33-45	Einmündungen	_	
+
+#Text=Die neu angelegte Fränkische Straße wurde (trotz Blindenführung mit Noppensteinen) nicht abgesenkt.
+2-1	48-51	Die	_	
+2-2	52-55	neu	_	
+2-3	56-65	angelegte	_	
+2-4	66-76	Fränkische	*[5]	
+2-5	77-83	Straße	*[5]	
+2-6	84-89	wurde	_	
+2-7	90-91	(	_	
+2-8	91-96	trotz	_	
+2-9	97-111	Blindenführung	_	
+2-10	112-115	mit	_	
+2-11	116-129	Noppensteinen	_	
+2-12	129-130	)	_	
+2-13	131-136	nicht	_	
+2-14	137-146	abgesenkt	_	
+2-15	146-147	.	_	
+
+#Text=Test für gefederte Fahrräder?
+3-1	148-152	Test	_	
+3-2	153-156	für	_	
+3-3	157-166	gefederte	_	
+3-4	167-176	Fahrräder	_	
+3-5	176-177	?	_	
+
+#Text=Forderung: Absenkung von Einmündungen auf Null!!
+4-1	178-187	Forderung	_	
+4-2	187-188	:	_	
+4-3	189-198	Absenkung	_	
+4-4	199-202	von	_	
+4-5	203-215	Einmündungen	_	
+4-6	216-219	auf	_	
+4-7	220-224	Null	_	
+4-8	224-225	!	_	
+4-9	225-226	!	_	

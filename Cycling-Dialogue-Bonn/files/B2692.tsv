@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg verbreitern
+1-1	0-10	Fahrradweg	_	
+1-2	11-22	verbreitern	_	
+
+#Text=Der Fahrradweg parallel zur Kaiserstraße ist an einigen Stellen sehr schmal.
+2-1	25-28	Der	_	
+2-2	29-39	Fahrradweg	_	
+2-3	40-48	parallel	_	
+2-4	49-52	zur	_	
+2-5	53-65	Kaiserstraße	*	
+2-6	66-69	ist	_	
+2-7	70-72	an	_	
+2-8	73-80	einigen	_	
+2-9	81-88	Stellen	_	
+2-10	89-93	sehr	_	
+2-11	94-100	schmal	_	
+2-12	100-101	.	_	
+
+#Text=Wenn ein Rad mit Anhänger entgegenkommt, ist es oft sehr knapp.
+3-1	102-106	Wenn	_	
+3-2	107-110	ein	_	
+3-3	111-114	Rad	_	
+3-4	115-118	mit	_	
+3-5	119-127	Anhänger	_	
+3-6	128-141	entgegenkommt	_	
+3-7	141-142	,	_	
+3-8	143-146	ist	_	
+3-9	147-149	es	_	
+3-10	150-153	oft	_	
+3-11	154-158	sehr	_	
+3-12	159-164	knapp	_	
+3-13	164-165	.	_	

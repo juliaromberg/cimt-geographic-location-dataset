@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wann kommt endlich ein durchgängiger Radweg auf der linken Seite der Bahn?
+1-1	0-4	Wann	_	
+1-2	5-10	kommt	_	
+1-3	11-18	endlich	_	
+1-4	19-22	ein	_	
+1-5	23-36	durchgängiger	_	
+1-6	37-43	Radweg	_	
+1-7	44-47	auf	_	
+1-8	48-51	der	_	
+1-9	52-58	linken	_	
+1-10	59-64	Seite	_	
+1-11	65-68	der	_	
+1-12	69-73	Bahn	_	
+1-13	73-74	?	_	
+
+#Text=Bisher endet der stadteinwärts gesehen linksseitige Radweg neben der Bahnlinie am Rheinweg.
+2-1	77-83	Bisher	_	
+2-2	84-89	endet	_	
+2-3	90-93	der	_	
+2-4	94-107	stadteinwärts	_	
+2-5	108-115	gesehen	_	
+2-6	116-128	linksseitige	_	
+2-7	129-135	Radweg	_	
+2-8	136-141	neben	_	
+2-9	142-145	der	_	
+2-10	146-155	Bahnlinie	_	
+2-11	156-158	am	*[5]	
+2-12	159-167	Rheinweg	*[5]	
+2-13	167-168	.	_	
+
+#Text=Wenn man diesen durchgängig vom Hochkreuz bis Lessingstraße befahren könnte, wäre das toll.
+3-1	169-173	Wenn	_	
+3-2	174-177	man	_	
+3-3	178-184	diesen	_	
+3-4	185-196	durchgängig	_	
+3-5	197-200	vom	*[6]	
+3-6	201-210	Hochkreuz	*[6]	
+3-7	211-214	bis	*[6]	
+3-8	215-228	Lessingstraße	*[6]	
+3-9	229-237	befahren	_	
+3-10	238-244	könnte	_	
+3-11	244-245	,	_	
+3-12	246-250	wäre	_	
+3-13	251-254	das	_	
+3-14	255-259	toll	_	
+3-15	259-260	.	_	
+
+#Text=Ab Lessingstr. kann man gut weiter durch die Fahrradstraße Schumannstr. fahren.
+4-1	261-263	Ab	*[7]	
+4-2	264-274	Lessingstr	*[7]	
+4-3	274-275	.	*[7]	
+4-4	276-280	kann	*[7]	
+4-5	281-284	man	*[7]	
+4-6	285-288	gut	*[7]	
+4-7	289-295	weiter	*[7]	
+4-8	296-301	durch	*[7]	
+4-9	302-305	die	*[7]	
+4-10	306-319	Fahrradstraße	*[7]	
+4-11	320-331	Schumannstr	*[7]	
+4-12	331-332	.	_	
+4-13	333-339	fahren	_	
+4-14	339-340	.	_	

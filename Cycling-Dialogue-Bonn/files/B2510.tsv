@@ -1,0 +1,190 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kein Grün für geradeaus fahrende Radler
+1-1	0-4	Kein	_	
+1-2	5-9	Grün	_	
+1-3	10-13	für	_	
+1-4	14-23	geradeaus	_	
+1-5	24-32	fahrende	_	
+1-6	33-39	Radler	_	
+
+#Text=Die August-Bier-Straße wurde vor einiger Zeit zwischen Hausdorffstraße und Aloys-Schulte-Straße zur Einbahnstraße umfunktioniert.
+2-1	42-45	Die	*[11]	
+2-2	46-64	August-Bier-Straße	*[11]	
+2-3	65-70	wurde	_	
+2-4	71-74	vor	_	
+2-5	75-82	einiger	_	
+2-6	83-87	Zeit	_	
+2-7	88-96	zwischen	*[12]	
+2-8	97-112	Hausdorffstraße	*[12]	
+2-9	113-116	und	*[12]	
+2-10	117-137	Aloys-Schulte-Straße	*[12]	
+2-11	138-141	zur	_	
+2-12	142-155	Einbahnstraße	_	
+2-13	156-170	umfunktioniert	_	
+2-14	170-171	.	_	
+
+#Text=An der Einmündung Hausdorffstraße ist sie jetzt zweispurig abmarkiert.
+3-1	172-174	An	*[13]	
+3-2	175-178	der	*[13]	
+3-3	179-189	Einmündung	*[13]	
+3-4	190-205	Hausdorffstraße	*[13]	
+3-5	206-209	ist	_	
+3-6	210-213	sie	_	
+3-7	214-219	jetzt	_	
+3-8	220-230	zweispurig	_	
+3-9	231-241	abmarkiert	_	
+3-10	241-242	.	_	
+
+#Text=Die rechte Spur ist für Rechtsabbieger - dort ist auch ein grüner Pfeil.
+4-1	243-246	Die	_	
+4-2	247-253	rechte	_	
+4-3	254-258	Spur	_	
+4-4	259-262	ist	_	
+4-5	263-266	für	_	
+4-6	267-281	Rechtsabbieger	_	
+4-7	282-283	-	_	
+4-8	284-288	dort	_	
+4-9	289-292	ist	_	
+4-10	293-297	auch	_	
+4-11	298-301	ein	_	
+4-12	302-308	grüner	_	
+4-13	309-314	Pfeil	_	
+4-14	314-315	.	_	
+
+#Text=Die linke Spur ist für Linksabbieger und Geradeausfahrer.
+5-1	316-319	Die	_	
+5-2	320-325	linke	_	
+5-3	326-330	Spur	_	
+5-4	331-334	ist	_	
+5-5	335-338	für	_	
+5-6	339-352	Linksabbieger	_	
+5-7	353-356	und	_	
+5-8	357-372	Geradeausfahrer	_	
+5-9	372-373	.	_	
+
+#Text=Leider ist nur auf der Spur für Rechtsabbieger eine Kontaktschleife.
+6-1	374-380	Leider	_	
+6-2	381-384	ist	_	
+6-3	385-388	nur	_	
+6-4	389-392	auf	_	
+6-5	393-396	der	_	
+6-6	397-401	Spur	_	
+6-7	402-405	für	_	
+6-8	406-420	Rechtsabbieger	_	
+6-9	421-425	eine	_	
+6-10	426-441	Kontaktschleife	_	
+6-11	441-442	.	_	
+
+#Text=Steht man mit dem Rad (und vermutlich auch mit dem Auto) als Geradeausfahrer auf der korrekten linken Spur und es ist später am Abend und kein weiterer Verkehr auf der August-Bier-Straße und es gibt auch keinen Fußgänger, der sich durch Drücken Grün holt, so kann man auf Grün bis zum nächsten Morgen warten.
+7-1	443-448	Steht	_	
+7-2	449-452	man	_	
+7-3	453-456	mit	_	
+7-4	457-460	dem	_	
+7-5	461-464	Rad	_	
+7-6	465-466	(	_	
+7-7	466-469	und	_	
+7-8	470-480	vermutlich	_	
+7-9	481-485	auch	_	
+7-10	486-489	mit	_	
+7-11	490-493	dem	_	
+7-12	494-498	Auto	_	
+7-13	498-499	)	_	
+7-14	500-503	als	_	
+7-15	504-519	Geradeausfahrer	_	
+7-16	520-523	auf	_	
+7-17	524-527	der	_	
+7-18	528-537	korrekten	_	
+7-19	538-544	linken	_	
+7-20	545-549	Spur	_	
+7-21	550-553	und	_	
+7-22	554-556	es	_	
+7-23	557-560	ist	_	
+7-24	561-567	später	_	
+7-25	568-570	am	_	
+7-26	571-576	Abend	_	
+7-27	577-580	und	_	
+7-28	581-585	kein	_	
+7-29	586-594	weiterer	_	
+7-30	595-602	Verkehr	_	
+7-31	603-606	auf	*[14]	
+7-32	607-610	der	*[14]	
+7-33	611-629	August-Bier-Straße	*[14]	
+7-34	630-633	und	_	
+7-35	634-636	es	_	
+7-36	637-641	gibt	_	
+7-37	642-646	auch	_	
+7-38	647-653	keinen	_	
+7-39	654-663	Fußgänger	_	
+7-40	663-664	,	_	
+7-41	665-668	der	_	
+7-42	669-673	sich	_	
+7-43	674-679	durch	_	
+7-44	680-687	Drücken	_	
+7-45	688-692	Grün	_	
+7-46	693-697	holt	_	
+7-47	697-698	,	_	
+7-48	699-701	so	_	
+7-49	702-706	kann	_	
+7-50	707-710	man	_	
+7-51	711-714	auf	_	
+7-52	715-719	Grün	_	
+7-53	720-723	bis	_	
+7-54	724-727	zum	_	
+7-55	728-736	nächsten	_	
+7-56	737-743	Morgen	_	
+7-57	744-750	warten	_	
+7-58	750-751	.	_	
+
+#Text=Man muss dann entweder auf der rechten Spur über die Kontaktschleife fahren, oder an der Fußgängerampel drücken.
+8-1	752-755	Man	_	
+8-2	756-760	muss	_	
+8-3	761-765	dann	_	
+8-4	766-774	entweder	_	
+8-5	775-778	auf	_	
+8-6	779-782	der	_	
+8-7	783-790	rechten	_	
+8-8	791-795	Spur	_	
+8-9	796-800	über	_	
+8-10	801-804	die	_	
+8-11	805-820	Kontaktschleife	_	
+8-12	821-827	fahren	_	
+8-13	827-828	,	_	
+8-14	829-833	oder	_	
+8-15	834-836	an	_	
+8-16	837-840	der	_	
+8-17	841-855	Fußgängerampel	_	
+8-18	856-863	drücken	_	
+8-19	863-864	.	_	
+
+#Text=Hat man's nicht selber gesehen und erlebt, man würde es nicht glauben.
+9-1	865-868	Hat	_	
+9-2	869-874	man's	_	
+9-3	875-880	nicht	_	
+9-4	881-887	selber	_	
+9-5	888-895	gesehen	_	
+9-6	896-899	und	_	
+9-7	900-906	erlebt	_	
+9-8	906-907	,	_	
+9-9	908-911	man	_	
+9-10	912-917	würde	_	
+9-11	918-920	es	_	
+9-12	921-926	nicht	_	
+9-13	927-934	glauben	_	
+9-14	934-935	.	_	
+
+#Text=Tolle Arbeit, lieber Planer bei der Stadt Bonn!
+10-1	936-941	Tolle	_	
+10-2	942-948	Arbeit	_	
+10-3	948-949	,	_	
+10-4	950-956	lieber	_	
+10-5	957-963	Planer	_	
+10-6	964-967	bei	_	
+10-7	968-971	der	_	
+10-8	972-977	Stadt	_	
+10-9	978-982	Bonn	*	
+10-10	982-983	!	_	

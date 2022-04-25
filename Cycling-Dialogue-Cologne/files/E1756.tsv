@@ -1,0 +1,92 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unklarer Verlauf des Radwegs wenn man aus Richtung Lukasstraße kommt
+1-1	0-8	Unklarer	_	
+1-2	9-16	Verlauf	_	
+1-3	17-20	des	_	
+1-4	21-28	Radwegs	_	
+1-5	29-33	wenn	_	
+1-6	34-37	man	_	
+1-7	38-41	aus	*[5]	
+1-8	42-50	Richtung	*[5]	
+1-9	51-62	Lukasstraße	*[5]	
+1-10	63-68	kommt	_	
+
+#Text=Der Verlauf des Radwegs in Richtung Innere Kanalstraße von der Lukasstraße kommen, ist unklar nachdem man die Brücke herunterfährt.
+2-1	71-74	Der	_	
+2-2	75-82	Verlauf	_	
+2-3	83-86	des	_	
+2-4	87-94	Radwegs	_	
+2-5	95-97	in	*[6]	
+2-6	98-106	Richtung	*[6]	
+2-7	107-113	Innere	*[6]	
+2-8	114-125	Kanalstraße	*[6]	
+2-9	126-129	von	*[6]	
+2-10	130-133	der	*[6]	
+2-11	134-145	Lukasstraße	*[6]	
+2-12	146-152	kommen	*[6]	
+2-13	152-153	,	_	
+2-14	154-157	ist	_	
+2-15	158-164	unklar	_	
+2-16	165-172	nachdem	_	
+2-17	173-176	man	_	
+2-18	177-180	die	_	
+2-19	181-187	Brücke	_	
+2-20	188-201	herunterfährt	_	
+2-21	201-202	.	_	
+
+#Text=Sollte man hier auf die Straße wechseln müssen fehlt hier der Platz durch parkende Autos.
+3-1	203-209	Sollte	_	
+3-2	210-213	man	_	
+3-3	214-218	hier	_	
+3-4	219-222	auf	_	
+3-5	223-226	die	_	
+3-6	227-233	Straße	_	
+3-7	234-242	wechseln	_	
+3-8	243-249	müssen	_	
+3-9	250-255	fehlt	_	
+3-10	256-260	hier	_	
+3-11	261-264	der	_	
+3-12	265-270	Platz	_	
+3-13	271-276	durch	_	
+3-14	277-285	parkende	_	
+3-15	286-291	Autos	_	
+3-16	291-292	.	_	
+
+#Text=Bleibt man auf dem Fuß und Radweg ist unklar wie man von diesem am Ende der Straße Am Gleisdreick vom Radweg auf die Straße kommt um die Innere Kanalstraße zu überqueren.
+4-1	293-299	Bleibt	_	
+4-2	300-303	man	_	
+4-3	304-307	auf	_	
+4-4	308-311	dem	_	
+4-5	312-315	Fuß	_	
+4-6	316-319	und	_	
+4-7	320-326	Radweg	_	
+4-8	327-330	ist	_	
+4-9	331-337	unklar	_	
+4-10	338-341	wie	_	
+4-11	342-345	man	_	
+4-12	346-349	von	_	
+4-13	350-356	diesem	_	
+4-14	357-359	am	*[7]	
+4-15	360-364	Ende	*[7]	
+4-16	365-368	der	*[7]	
+4-17	369-375	Straße	*[7]	
+4-18	376-378	Am	*[7]	
+4-19	379-390	Gleisdreick	*[7]	
+4-20	391-394	vom	_	
+4-21	395-401	Radweg	_	
+4-22	402-405	auf	_	
+4-23	406-409	die	_	
+4-24	410-416	Straße	_	
+4-25	417-422	kommt	_	
+4-26	423-425	um	_	
+4-27	426-429	die	*[8]	
+4-28	430-436	Innere	*[8]	
+4-29	437-448	Kanalstraße	*[8]	
+4-30	449-451	zu	*[8]	
+4-31	452-462	überqueren	*[8]	
+4-32	462-463	.	_	

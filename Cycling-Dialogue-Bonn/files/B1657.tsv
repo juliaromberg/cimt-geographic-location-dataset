@@ -1,0 +1,103 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kein Fahrradweg vorhanden
+1-1	0-4	Kein	_	
+1-2	5-15	Fahrradweg	_	
+1-3	16-25	vorhanden	_	
+
+#Text=Entlang eines Naherholungsgebietes befindet sich lediglich eine Hauptverkehrsstraße mit wenig Aufenthalt für Fußgänger und Radfahrer.
+2-1	28-35	Entlang	_	
+2-2	36-41	eines	_	
+2-3	42-62	Naherholungsgebietes	_	
+2-4	63-71	befindet	_	
+2-5	72-76	sich	_	
+2-6	77-86	lediglich	_	
+2-7	87-91	eine	_	
+2-8	92-111	Hauptverkehrsstraße	_	
+2-9	112-115	mit	_	
+2-10	116-121	wenig	_	
+2-11	122-132	Aufenthalt	_	
+2-12	133-136	für	_	
+2-13	137-146	Fußgänger	_	
+2-14	147-150	und	_	
+2-15	151-160	Radfahrer	_	
+2-16	160-161	.	_	
+
+#Text=Der Radfahrer soll dabei auf dem Fußweg fahren.
+3-1	162-165	Der	_	
+3-2	166-175	Radfahrer	_	
+3-3	176-180	soll	_	
+3-4	181-186	dabei	_	
+3-5	187-190	auf	_	
+3-6	191-194	dem	_	
+3-7	195-201	Fußweg	_	
+3-8	202-208	fahren	_	
+3-9	208-209	.	_	
+
+#Text=Dieser ist teilweise nicht mal einen Meter breit und besteht aus schiefen Gehwegplatten.
+4-1	210-216	Dieser	_	
+4-2	217-220	ist	_	
+4-3	221-230	teilweise	_	
+4-4	231-236	nicht	_	
+4-5	237-240	mal	_	
+4-6	241-246	einen	_	
+4-7	247-252	Meter	_	
+4-8	253-258	breit	_	
+4-9	259-262	und	_	
+4-10	263-270	besteht	_	
+4-11	271-274	aus	_	
+4-12	275-283	schiefen	_	
+4-13	284-297	Gehwegplatten	_	
+4-14	297-298	.	_	
+
+#Text=Ein ordentlicher Fahrradweg könnte hier zusätzlich eine schnelle Radverbindung in die Innenstadt darstellen auf dessen Weg auch noch neben dem Naherholungsgebiet zahlreiche Supermärkte gelegen sind.
+5-1	299-302	Ein	_	
+5-2	303-315	ordentlicher	_	
+5-3	316-326	Fahrradweg	_	
+5-4	327-333	könnte	_	
+5-5	334-338	hier	_	
+5-6	339-349	zusätzlich	_	
+5-7	350-354	eine	_	
+5-8	355-363	schnelle	_	
+5-9	364-377	Radverbindung	_	
+5-10	378-380	in	*[7]	
+5-11	381-384	die	*[7]	
+5-12	385-395	Innenstadt	*[7]	
+5-13	396-406	darstellen	_	
+5-14	407-410	auf	_	
+5-15	411-417	dessen	_	
+5-16	418-421	Weg	_	
+5-17	422-426	auch	_	
+5-18	427-431	noch	_	
+5-19	432-437	neben	_	
+5-20	438-441	dem	_	
+5-21	442-460	Naherholungsgebiet	_	
+5-22	461-471	zahlreiche	_	
+5-23	472-483	Supermärkte	_	
+5-24	484-491	gelegen	_	
+5-25	492-496	sind	_	
+5-26	496-497	.	_	
+
+#Text=Anders herum würden zentrale Einrichtungen wie das Jobcenter in Duisdorf eine verbesserte Anbindung an die Innenstadt erhalten.
+6-1	498-504	Anders	_	
+6-2	505-510	herum	_	
+6-3	511-517	würden	_	
+6-4	518-526	zentrale	_	
+6-5	527-540	Einrichtungen	_	
+6-6	541-544	wie	_	
+6-7	545-548	das	*[8]	
+6-8	549-558	Jobcenter	*[8]	
+6-9	559-561	in	*[8]	
+6-10	562-570	Duisdorf	*[8]	
+6-11	571-575	eine	_	
+6-12	576-587	verbesserte	_	
+6-13	588-597	Anbindung	_	
+6-14	598-600	an	_	
+6-15	601-604	die	*[9]	
+6-16	605-615	Innenstadt	*[9]	
+6-17	616-624	erhalten	_	
+6-18	624-625	.	_	

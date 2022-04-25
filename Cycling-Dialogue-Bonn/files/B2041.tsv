@@ -1,0 +1,108 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Keine Sichtbeziehung beim Abbiegen
+1-1	0-5	Keine	_	
+1-2	6-20	Sichtbeziehung	_	
+1-3	21-25	beim	_	
+1-4	26-34	Abbiegen	_	
+
+#Text=Die Straße am Propsthof ist über zwei kleine Wege an das Meßdorfer Feld angebunden.
+2-1	37-40	Die	*[8]	
+2-2	41-47	Straße	*[8]	
+2-3	48-50	am	*[8]	
+2-4	51-60	Propsthof	*[8]	
+2-5	61-64	ist	_	
+2-6	65-69	über	_	
+2-7	70-74	zwei	_	
+2-8	75-81	kleine	_	
+2-9	82-86	Wege	_	
+2-10	87-89	an	*[9]	
+2-11	90-93	das	*[9]	
+2-12	94-103	Meßdorfer	*[9]	
+2-13	104-108	Feld	*[9]	
+2-14	109-119	angebunden	_	
+2-15	119-120	.	_	
+
+#Text=Beide Wege sind jedoch sehr schmal und weisen keine Sichtbeziehung auf, sodass Unfälle vorprogrammiert sind.
+3-1	121-126	Beide	_	
+3-2	127-131	Wege	_	
+3-3	132-136	sind	_	
+3-4	137-143	jedoch	_	
+3-5	144-148	sehr	_	
+3-6	149-155	schmal	_	
+3-7	156-159	und	_	
+3-8	160-166	weisen	_	
+3-9	167-172	keine	_	
+3-10	173-187	Sichtbeziehung	_	
+3-11	188-191	auf	_	
+3-12	191-192	,	_	
+3-13	193-199	sodass	_	
+3-14	200-207	Unfälle	_	
+3-15	208-223	vorprogrammiert	_	
+3-16	224-228	sind	_	
+3-17	228-229	.	_	
+
+#Text=Zusätzlich sind die Wege daher noch durch enge Poller blockiert.
+4-1	230-240	Zusätzlich	_	
+4-2	241-245	sind	_	
+4-3	246-249	die	_	
+4-4	250-254	Wege	_	
+4-5	255-260	daher	_	
+4-6	261-265	noch	_	
+4-7	266-271	durch	_	
+4-8	272-276	enge	_	
+4-9	277-283	Poller	_	
+4-10	284-293	blockiert	_	
+4-11	293-294	.	_	
+
+#Text=Am Probsthof folgen dann gleich noch Glascontainer hinter denen man nicht sichtbar für Autofahrer verschwindet.
+5-1	295-297	Am	*[10]	
+5-2	298-307	Probsthof	*[10]	
+5-3	308-314	folgen	_	
+5-4	315-319	dann	_	
+5-5	320-326	gleich	_	
+5-6	327-331	noch	_	
+5-7	332-345	Glascontainer	_	
+5-8	346-352	hinter	_	
+5-9	353-358	denen	_	
+5-10	359-362	man	_	
+5-11	363-368	nicht	_	
+5-12	369-377	sichtbar	_	
+5-13	378-381	für	_	
+5-14	382-392	Autofahrer	_	
+5-15	393-405	verschwindet	_	
+5-16	405-406	.	_	
+
+#Text=Mein Vorschlag wäre eine größere Zufahrt mit Sichtbeziehung und ohne Poller anzulegen.
+6-1	407-411	Mein	_	
+6-2	412-421	Vorschlag	_	
+6-3	422-426	wäre	_	
+6-4	427-431	eine	_	
+6-5	432-439	größere	_	
+6-6	440-447	Zufahrt	_	
+6-7	448-451	mit	_	
+6-8	452-466	Sichtbeziehung	_	
+6-9	467-470	und	_	
+6-10	471-475	ohne	_	
+6-11	476-482	Poller	_	
+6-12	483-492	anzulegen	_	
+6-13	492-493	.	_	
+
+#Text=Die Glascontainer am Propsthof sollten dann natürlich auf der anderen Straßenseite stehen.
+7-1	494-497	Die	_	
+7-2	498-511	Glascontainer	_	
+7-3	512-514	am	*[11]	
+7-4	515-524	Propsthof	*[11]	
+7-5	525-532	sollten	_	
+7-6	533-537	dann	_	
+7-7	538-547	natürlich	_	
+7-8	548-551	auf	_	
+7-9	552-555	der	_	
+7-10	556-563	anderen	_	
+7-11	564-576	Straßenseite	_	
+7-12	577-583	stehen	_	
+7-13	583-584	.	_	

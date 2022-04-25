@@ -1,0 +1,91 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Übergang Johanniskreuz - Breitestraße
+1-1	0-8	Übergang	*[5]	
+1-2	9-22	Johanniskreuz	*[5]	
+1-3	23-24	-	*[5]	
+1-4	25-37	Breitestraße	*[5]	
+
+#Text=Für Fahrradfahrer von Castell ins Zentrum oder zurück ist die Route über Johanniskreuz, 100 Meter Kölnstraße, Breitestraße eigentlich sehr geeignet und wird auch viel genutzt.
+2-1	40-43	Für	_	
+2-2	44-57	Fahrradfahrer	_	
+2-3	58-61	von	*[6]	
+2-4	62-69	Castell	*[6]	
+2-5	70-73	ins	*[6]	
+2-6	74-81	Zentrum	*[6]	
+2-7	82-86	oder	*[6]	
+2-8	87-93	zurück	*[6]	
+2-9	94-97	ist	_	
+2-10	98-101	die	_	
+2-11	102-107	Route	_	
+2-12	108-112	über	*[7]	
+2-13	113-126	Johanniskreuz	*[7]	
+2-14	126-127	,	*[7]	
+2-15	128-131	100	*[7]	
+2-16	132-137	Meter	*[7]	
+2-17	138-148	Kölnstraße	*[7]	
+2-18	148-149	,	*[7]	
+2-19	150-162	Breitestraße	*[7]	
+2-20	163-173	eigentlich	_	
+2-21	174-178	sehr	_	
+2-22	179-187	geeignet	_	
+2-23	188-191	und	_	
+2-24	192-196	wird	_	
+2-25	197-201	auch	_	
+2-26	202-206	viel	_	
+2-27	207-214	genutzt	_	
+2-28	214-215	.	_	
+
+#Text=Dummerweise ist es in beiden Richtungen verboten links abzubiegen (also am Ende der Breitestraße darf man nicht links Richtung Johanniskreuz, beim Johanniskreuz darf man nicht links Richtung Breitestraße).
+3-1	216-227	Dummerweise	_	
+3-2	228-231	ist	_	
+3-3	232-234	es	_	
+3-4	235-237	in	_	
+3-5	238-244	beiden	_	
+3-6	245-255	Richtungen	_	
+3-7	256-264	verboten	_	
+3-8	265-270	links	_	
+3-9	271-281	abzubiegen	_	
+3-10	282-283	(	_	
+3-11	283-287	also	_	
+3-12	288-290	am	*[8]	
+3-13	291-295	Ende	*[8]	
+3-14	296-299	der	*[8]	
+3-15	300-312	Breitestraße	*[8]	
+3-16	313-317	darf	_	
+3-17	318-321	man	_	
+3-18	322-327	nicht	_	
+3-19	328-333	links	*[9]	
+3-20	334-342	Richtung	*[9]	
+3-21	343-356	Johanniskreuz	*[9]	
+3-22	356-357	,	_	
+3-23	358-362	beim	*[10]	
+3-24	363-376	Johanniskreuz	*[10]	
+3-25	377-381	darf	_	
+3-26	382-385	man	_	
+3-27	386-391	nicht	_	
+3-28	392-397	links	*[11]	
+3-29	398-406	Richtung	*[11]	
+3-30	407-419	Breitestraße	*[11]	
+3-31	419-420	)	_	
+3-32	420-421	.	_	
+
+#Text=Sehr schade und unpraktisch (und es hält auch kaum jemand auf).
+4-1	422-426	Sehr	_	
+4-2	427-433	schade	_	
+4-3	434-437	und	_	
+4-4	438-449	unpraktisch	_	
+4-5	450-451	(	_	
+4-6	451-454	und	_	
+4-7	455-457	es	_	
+4-8	458-462	hält	_	
+4-9	463-467	auch	_	
+4-10	468-472	kaum	_	
+4-11	473-479	jemand	_	
+4-12	480-483	auf	_	
+4-13	483-484	)	_	
+4-14	484-485	.	_	

@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlende Radwegmarkierung
+1-1	0-8	Fehlende	_	
+1-2	9-25	Radwegmarkierung	_	
+
+#Text=Vor über einem Jahr wurde der kombinierte Fuß/Radweg zu einem Fußweg mit der Möglichkeit der Nutzung für Fahrradfahrer umgewidmet.
+2-1	28-31	Vor	_	
+2-2	32-36	über	_	
+2-3	37-42	einem	_	
+2-4	43-47	Jahr	_	
+2-5	48-53	wurde	_	
+2-6	54-57	der	_	
+2-7	58-69	kombinierte	_	
+2-8	70-73	Fuß	_	
+2-9	73-74	/	_	
+2-10	74-80	Radweg	_	
+2-11	81-83	zu	_	
+2-12	84-89	einem	_	
+2-13	90-96	Fußweg	_	
+2-14	97-100	mit	_	
+2-15	101-104	der	_	
+2-16	105-116	Möglichkeit	_	
+2-17	117-120	der	_	
+2-18	121-128	Nutzung	_	
+2-19	129-132	für	_	
+2-20	133-146	Fahrradfahrer	_	
+2-21	147-157	umgewidmet	_	
+2-22	157-158	.	_	
+
+#Text=Die Markierung auf der Straße hört ca. 20 m nach dem neuen Kreisel einfach auf.
+3-1	159-162	Die	_	
+3-2	163-173	Markierung	_	
+3-3	174-177	auf	_	
+3-4	178-181	der	_	
+3-5	182-188	Straße	_	
+3-6	189-193	hört	_	
+3-7	194-196	ca	_	
+3-8	196-197	.	_	
+3-9	198-200	20	_	
+3-10	201-202	m	_	
+3-11	203-207	nach	_	
+3-12	208-211	dem	_	
+3-13	212-217	neuen	_	
+3-14	218-225	Kreisel	_	
+3-15	226-233	einfach	_	
+3-16	234-237	auf	_	
+3-17	237-238	.	_	
+
+#Text=Die wenigsten Autofahrer akzeptieren die Fahrradfahrer auf der Straße und verhalten sich entsprechend.
+4-1	239-242	Die	_	
+4-2	243-252	wenigsten	_	
+4-3	253-263	Autofahrer	_	
+4-4	264-275	akzeptieren	_	
+4-5	276-279	die	_	
+4-6	280-293	Fahrradfahrer	_	
+4-7	294-297	auf	_	
+4-8	298-301	der	_	
+4-9	302-308	Straße	_	
+4-10	309-312	und	_	
+4-11	313-322	verhalten	_	
+4-12	323-327	sich	_	
+4-13	328-340	entsprechend	_	
+4-14	340-341	.	_	

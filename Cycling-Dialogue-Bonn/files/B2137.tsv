@@ -1,0 +1,50 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verlängerung des Fuß- und Radwegs, der von der Lessenicher Straße bis zur DB-Haltestelle Helmholtzstraße führt, bis zum Bollenackerweg
+1-1	0-12	Verlängerung	_	
+1-2	13-16	des	_	
+1-3	17-20	Fuß	_	
+1-4	20-21	-	_	
+1-5	22-25	und	_	
+1-6	26-33	Radwegs	_	
+1-7	33-34	,	_	
+1-8	35-38	der	_	
+1-9	39-42	von	*[3]	
+1-10	43-46	der	*[3]	
+1-11	47-58	Lessenicher	*[3]	
+1-12	59-65	Straße	*[3]	
+1-13	66-69	bis	*[3]	
+1-14	70-73	zur	*[3]	
+1-15	74-88	DB-Haltestelle	*[3]	
+1-16	89-104	Helmholtzstraße	*[3]	
+1-17	105-110	führt	*[3]	
+1-18	110-111	,	*[3]	
+1-19	112-115	bis	*[3]	
+1-20	116-119	zum	*[3]	
+1-21	120-134	Bollenackerweg	*[3]	
+
+#Text=... denn bekanntlich darf man auf dem Bahnsteig, der die einzige Verbindung darstellt, nicht radfahren.
+2-1	137-138	.	_	
+2-2	138-139	.	_	
+2-3	139-140	.	_	
+2-4	141-145	denn	_	
+2-5	146-157	bekanntlich	_	
+2-6	158-162	darf	_	
+2-7	163-166	man	_	
+2-8	167-170	auf	_	
+2-9	171-174	dem	_	
+2-10	175-184	Bahnsteig	_	
+2-11	184-185	,	_	
+2-12	186-189	der	_	
+2-13	190-193	die	_	
+2-14	194-201	einzige	_	
+2-15	202-212	Verbindung	_	
+2-16	213-222	darstellt	_	
+2-17	222-223	,	_	
+2-18	224-229	nicht	_	
+2-19	230-239	radfahren	_	
+2-20	239-240	.	_	

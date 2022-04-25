@@ -1,0 +1,70 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelschaltung schlecht
+1-1	0-14	Ampelschaltung	_	
+1-2	15-23	schlecht	_	
+
+#Text=Es dauert zu lange bis die Ampel an dieser Stelle grün wird.
+2-1	26-28	Es	_	
+2-2	29-35	dauert	_	
+2-3	36-38	zu	_	
+2-4	39-44	lange	_	
+2-5	45-48	bis	_	
+2-6	49-52	die	_	
+2-7	53-58	Ampel	_	
+2-8	59-61	an	_	
+2-9	62-68	dieser	_	
+2-10	69-75	Stelle	_	
+2-11	76-80	grün	_	
+2-12	81-85	wird	_	
+2-13	85-86	.	_	
+
+#Text=Ferner sollte die Ampel besser mit den beiden anderen benachbarten Ampeln der Reuterstraße vertaktet werden.
+3-1	87-93	Ferner	_	
+3-2	94-100	sollte	_	
+3-3	101-104	die	_	
+3-4	105-110	Ampel	_	
+3-5	111-117	besser	_	
+3-6	118-121	mit	_	
+3-7	122-125	den	_	
+3-8	126-132	beiden	_	
+3-9	133-140	anderen	_	
+3-10	141-153	benachbarten	_	
+3-11	154-160	Ampeln	_	
+3-12	161-164	der	_	
+3-13	165-177	Reuterstraße	*	
+3-14	178-187	vertaktet	_	
+3-15	188-194	werden	_	
+3-16	194-195	.	_	
+
+#Text=Das wäre dann gleichermaßen für Autofahrer der Reuterstraße wie auch für Radfahrer (Fußgänger), die an dieser Stelle die Reuterstraße überqueren wollen vorteilhaft.
+4-1	196-199	Das	_	
+4-2	200-204	wäre	_	
+4-3	205-209	dann	_	
+4-4	210-223	gleichermaßen	_	
+4-5	224-227	für	_	
+4-6	228-238	Autofahrer	_	
+4-7	239-242	der	_	
+4-8	243-255	Reuterstraße	*	
+4-9	256-259	wie	_	
+4-10	260-264	auch	_	
+4-11	265-268	für	_	
+4-12	269-278	Radfahrer	_	
+4-13	279-280	(	_	
+4-14	280-289	Fußgänger	_	
+4-15	289-290	)	_	
+4-16	290-291	,	_	
+4-17	292-295	die	_	
+4-18	296-298	an	_	
+4-19	299-305	dieser	_	
+4-20	306-312	Stelle	_	
+4-21	313-316	die	*[5]	
+4-22	317-329	Reuterstraße	*[5]	
+4-23	330-340	überqueren	*[5]	
+4-24	341-347	wollen	_	
+4-25	348-359	vorteilhaft	_	
+4-26	359-360	.	_	

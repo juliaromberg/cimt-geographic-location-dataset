@@ -1,0 +1,115 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Aufhebung des gemeinsamen Rad/Fußweges und Freigabe des Radverkehrs auf der Fahrbahn
+1-1	0-9	Aufhebung	_	
+1-2	10-13	des	_	
+1-3	14-25	gemeinsamen	_	
+1-4	26-29	Rad	_	
+1-5	29-30	/	_	
+1-6	30-38	Fußweges	_	
+1-7	39-42	und	_	
+1-8	43-51	Freigabe	_	
+1-9	52-55	des	_	
+1-10	56-67	Radverkehrs	_	
+1-11	68-71	auf	_	
+1-12	72-75	der	_	
+1-13	76-84	Fahrbahn	_	
+
+#Text=Immer wieder kommt es auf der Viktoriabrücke zu gefährlichen Begegnungen auf dem derzeit für beide Fahrtrichtungen vorgeschriebenen Rad/Fußweg.
+2-1	87-92	Immer	_	
+2-2	93-99	wieder	_	
+2-3	100-105	kommt	_	
+2-4	106-108	es	_	
+2-5	109-112	auf	*[6]	
+2-6	113-116	der	*[6]	
+2-7	117-131	Viktoriabrücke	*[6]	
+2-8	132-134	zu	_	
+2-9	135-147	gefährlichen	_	
+2-10	148-159	Begegnungen	_	
+2-11	160-163	auf	_	
+2-12	164-167	dem	_	
+2-13	168-175	derzeit	_	
+2-14	176-179	für	_	
+2-15	180-185	beide	_	
+2-16	186-201	Fahrtrichtungen	_	
+2-17	202-218	vorgeschriebenen	_	
+2-18	219-222	Rad	_	
+2-19	222-223	/	_	
+2-20	223-229	Fußweg	_	
+2-21	229-230	.	_	
+
+#Text=Da ein Ende der Baustelle nicht abzusehen ist, sollten die Fahrbahnen wieder für Radfahrer freigegeben werden.
+3-1	231-233	Da	_	
+3-2	234-237	ein	_	
+3-3	238-242	Ende	_	
+3-4	243-246	der	_	
+3-5	247-256	Baustelle	_	
+3-6	257-262	nicht	_	
+3-7	263-272	abzusehen	_	
+3-8	273-276	ist	_	
+3-9	276-277	,	_	
+3-10	278-285	sollten	_	
+3-11	286-289	die	_	
+3-12	290-300	Fahrbahnen	_	
+3-13	301-307	wieder	_	
+3-14	308-311	für	_	
+3-15	312-321	Radfahrer	_	
+3-16	322-333	freigegeben	_	
+3-17	334-340	werden	_	
+3-18	340-341	.	_	
+
+#Text=Es ist nicht einzusehen, dass hier eine angebliche Gefährdung für Radfahrer durch Autofahrer als Begründung für das Aussperren eines Großteils der Verkehrsteilnehmer dient.
+4-1	342-344	Es	_	
+4-2	345-348	ist	_	
+4-3	349-354	nicht	_	
+4-4	355-365	einzusehen	_	
+4-5	365-366	,	_	
+4-6	367-371	dass	_	
+4-7	372-376	hier	_	
+4-8	377-381	eine	_	
+4-9	382-392	angebliche	_	
+4-10	393-403	Gefährdung	_	
+4-11	404-407	für	_	
+4-12	408-417	Radfahrer	_	
+4-13	418-423	durch	_	
+4-14	424-434	Autofahrer	_	
+4-15	435-438	als	_	
+4-16	439-449	Begründung	_	
+4-17	450-453	für	_	
+4-18	454-457	das	_	
+4-19	458-468	Aussperren	_	
+4-20	469-474	eines	_	
+4-21	475-484	Großteils	_	
+4-22	485-488	der	_	
+4-23	489-507	Verkehrsteilnehmer	_	
+4-24	508-513	dient	_	
+4-25	513-514	.	_	
+
+#Text=Vielmehr sollten Autofahrer durch entsprechende Kontrollen (Blitzeranhänger?) angehalten werden, sich verkehrsgerecht i.S. § 1 StVO zu verhalten.
+5-1	515-523	Vielmehr	_	
+5-2	524-531	sollten	_	
+5-3	532-542	Autofahrer	_	
+5-4	543-548	durch	_	
+5-5	549-562	entsprechende	_	
+5-6	563-573	Kontrollen	_	
+5-7	574-575	(	_	
+5-8	575-590	Blitzeranhänger	_	
+5-9	590-591	?	_	
+5-10	591-592	)	_	
+5-11	593-603	angehalten	_	
+5-12	604-610	werden	_	
+5-13	610-611	,	_	
+5-14	612-616	sich	_	
+5-15	617-632	verkehrsgerecht	_	
+5-16	633-636	i.S	_	
+5-17	636-637	.	_	
+5-18	638-639	§	_	
+5-19	640-641	1	_	
+5-20	642-646	StVO	_	
+5-21	647-649	zu	_	
+5-22	650-659	verhalten	_	
+5-23	659-660	.	_	

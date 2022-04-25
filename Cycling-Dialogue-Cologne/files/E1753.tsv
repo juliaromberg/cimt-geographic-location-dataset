@@ -1,0 +1,47 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehrsinsel vergrößern
+1-1	0-13	Verkehrsinsel	_	
+1-2	14-24	vergrößern	_	
+
+#Text=Die Verkehrsinsel in ihrer derzeitigen Größe und mit der angedachten Verkehrsführung dem Verkehrsaufkommen nicht gewachsen.
+2-1	27-30	Die	_	
+2-2	31-44	Verkehrsinsel	_	
+2-3	45-47	in	_	
+2-4	48-53	ihrer	_	
+2-5	54-65	derzeitigen	_	
+2-6	66-71	Größe	_	
+2-7	72-75	und	_	
+2-8	76-79	mit	_	
+2-9	80-83	der	_	
+2-10	84-95	angedachten	_	
+2-11	96-111	Verkehrsführung	_	
+2-12	112-115	dem	_	
+2-13	116-133	Verkehrsaufkommen	_	
+2-14	134-139	nicht	_	
+2-15	140-149	gewachsen	_	
+2-16	149-150	.	_	
+
+#Text=So überfüllt, wie sie zu Hauptverkehrszeiten ist, stellt sie eine Gefahr für alle Verkehrsteilnehmer dar.
+3-1	151-153	So	_	
+3-2	154-163	überfüllt	_	
+3-3	163-164	,	_	
+3-4	165-168	wie	_	
+3-5	169-172	sie	_	
+3-6	173-175	zu	_	
+3-7	176-195	Hauptverkehrszeiten	_	
+3-8	196-199	ist	_	
+3-9	199-200	,	_	
+3-10	201-207	stellt	_	
+3-11	208-211	sie	_	
+3-12	212-216	eine	_	
+3-13	217-223	Gefahr	_	
+3-14	224-227	für	_	
+3-15	228-232	alle	_	
+3-16	233-251	Verkehrsteilnehmer	_	
+3-17	252-255	dar	_	
+3-18	255-256	.	_	

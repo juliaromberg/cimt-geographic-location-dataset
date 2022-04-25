@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rüttelpiste
+1-1	0-11	Rüttelpiste	_	
+
+#Text=Der Radstreifen in Richtung Kreisel ist hier eine einzige Rüttelpiste.
+2-1	14-17	Der	_	
+2-2	18-29	Radstreifen	_	
+2-3	30-32	in	_	
+2-4	33-41	Richtung	_	
+2-5	42-49	Kreisel	_	
+2-6	50-53	ist	_	
+2-7	54-58	hier	_	
+2-8	59-63	eine	_	
+2-9	64-71	einzige	_	
+2-10	72-83	Rüttelpiste	_	
+2-11	83-84	.	_	
+
+#Text=Der Fahrbahnbelag ins besonders an der Bushaltestelle stellt eine starke Sturzgefahr für Fahrräder dar.
+3-1	85-88	Der	_	
+3-2	89-102	Fahrbahnbelag	_	
+3-3	103-106	ins	_	
+3-4	107-116	besonders	_	
+3-5	117-119	an	_	
+3-6	120-123	der	_	
+3-7	124-138	Bushaltestelle	_	
+3-8	139-145	stellt	_	
+3-9	146-150	eine	_	
+3-10	151-157	starke	_	
+3-11	158-169	Sturzgefahr	_	
+3-12	170-173	für	_	
+3-13	174-183	Fahrräder	_	
+3-14	184-187	dar	_	
+3-15	187-188	.	_	

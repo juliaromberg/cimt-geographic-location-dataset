@@ -1,0 +1,70 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Busfahrer missachtet entgegenkommenden Radverkehr
+1-1	0-9	Busfahrer	_	
+1-2	10-20	missachtet	_	
+1-3	21-38	entgegenkommenden	_	
+1-4	39-49	Radverkehr	_	
+
+#Text=Von der Berliner Freiheit rechts abbiegende Busse tun dies ohne Rücksicht auf den Radverkehr, der ihnen entgegenkommt.
+2-1	52-55	Von	*[6]	
+2-2	56-59	der	*[6]	
+2-3	60-68	Berliner	*[6]	
+2-4	69-77	Freiheit	*[6]	
+2-5	78-84	rechts	*[6]	
+2-6	85-95	abbiegende	*[6]	
+2-7	96-101	Busse	_	
+2-8	102-105	tun	_	
+2-9	106-110	dies	_	
+2-10	111-115	ohne	_	
+2-11	116-125	Rücksicht	_	
+2-12	126-129	auf	_	
+2-13	130-133	den	_	
+2-14	134-144	Radverkehr	_	
+2-15	144-145	,	_	
+2-16	146-149	der	_	
+2-17	150-155	ihnen	_	
+2-18	156-169	entgegenkommt	_	
+2-19	169-170	.	_	
+
+#Text=Dabei schwenkt der Bus über die ganze Straßenbreite und gebremst wird schon mal gar nicht.
+3-1	171-176	Dabei	_	
+3-2	177-185	schwenkt	_	
+3-3	186-189	der	_	
+3-4	190-193	Bus	_	
+3-5	194-198	über	_	
+3-6	199-202	die	_	
+3-7	203-208	ganze	_	
+3-8	209-222	Straßenbreite	_	
+3-9	223-226	und	_	
+3-10	227-235	gebremst	_	
+3-11	236-240	wird	_	
+3-12	241-246	schon	_	
+3-13	247-250	mal	_	
+3-14	251-254	gar	_	
+3-15	255-260	nicht	_	
+3-16	260-261	.	_	
+
+#Text=Bitte SWB Fahrer dringend sensibilisieren!
+4-1	262-267	Bitte	_	
+4-2	268-271	SWB	_	
+4-3	272-278	Fahrer	_	
+4-4	279-287	dringend	_	
+4-5	288-303	sensibilisieren	_	
+4-6	303-304	!	_	
+
+#Text=Hier fahren viele Räder auf dem Weg zur Kennedybrücke.
+5-1	305-309	Hier	_	
+5-2	310-316	fahren	_	
+5-3	317-322	viele	_	
+5-4	323-328	Räder	_	
+5-5	329-332	auf	_	
+5-6	333-336	dem	_	
+5-7	337-340	Weg	_	
+5-8	341-344	zur	*[7]	
+5-9	345-358	Kennedybrücke	*[7]	
+5-10	358-359	.	_	

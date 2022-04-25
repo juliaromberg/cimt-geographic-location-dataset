@@ -1,0 +1,101 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradgarage
+1-1	0-13	Fahrradgarage	_	
+
+#Text=In Bonn fehlt eine öffentliche Fahrradgarage in der Nähe der Kennedybrücke.
+2-1	16-18	In	*[5]	
+2-2	19-23	Bonn	*[5]	
+2-3	24-29	fehlt	_	
+2-4	30-34	eine	_	
+2-5	35-46	öffentliche	_	
+2-6	47-60	Fahrradgarage	_	
+2-7	61-63	in	*[6]	
+2-8	64-67	der	*[6]	
+2-9	68-72	Nähe	*[6]	
+2-10	73-76	der	*[6]	
+2-11	77-90	Kennedybrücke	*[6]	
+2-12	90-91	.	_	
+
+#Text=Die Radstation in der Quantiusstr. ist , wenn man z.B. aus Beuel kommt, nur schwer zu erreichen.
+3-1	92-95	Die	*[7]	
+3-2	96-106	Radstation	*[7]	
+3-3	107-109	in	*[7]	
+3-4	110-113	der	*[7]	
+3-5	114-125	Quantiusstr	*[7]	
+3-6	125-126	.	*[7]	
+3-7	127-130	ist	_	
+3-8	131-132	,	_	
+3-9	133-137	wenn	_	
+3-10	138-141	man	_	
+3-11	142-145	z.B	_	
+3-12	145-146	.	_	
+3-13	147-150	aus	*[8]	
+3-14	151-156	Beuel	*[8]	
+3-15	157-162	kommt	_	
+3-16	162-163	,	_	
+3-17	164-167	nur	_	
+3-18	168-174	schwer	_	
+3-19	175-177	zu	_	
+3-20	178-187	erreichen	_	
+3-21	187-188	.	_	
+
+#Text=Die zunehmende Nutzung von E-Bikes lässt es sinnvoll erscheinen, dass auch für Fahrräder eine bewachte Unterstellmöglichkeit geboten wird, wie es in holländischen Städten längst üblich ist.
+4-1	189-192	Die	_	
+4-2	193-203	zunehmende	_	
+4-3	204-211	Nutzung	_	
+4-4	212-215	von	_	
+4-5	216-223	E-Bikes	_	
+4-6	224-229	lässt	_	
+4-7	230-232	es	_	
+4-8	233-241	sinnvoll	_	
+4-9	242-252	erscheinen	_	
+4-10	252-253	,	_	
+4-11	254-258	dass	_	
+4-12	259-263	auch	_	
+4-13	264-267	für	_	
+4-14	268-277	Fahrräder	_	
+4-15	278-282	eine	_	
+4-16	283-291	bewachte	_	
+4-17	292-313	Unterstellmöglichkeit	_	
+4-18	314-321	geboten	_	
+4-19	322-326	wird	_	
+4-20	326-327	,	_	
+4-21	328-331	wie	_	
+4-22	332-334	es	_	
+4-23	335-337	in	_	
+4-24	338-351	holländischen	_	
+4-25	352-359	Städten	_	
+4-26	360-366	längst	_	
+4-27	367-373	üblich	_	
+4-28	374-377	ist	_	
+4-29	377-378	.	_	
+
+#Text=Für das gesamte Stadtbild wäre dies von Vorteil; momentan ist jeder Baum, jedes Baugitter, jeder Laternenpfahl mit Fahrrädern zugestellt.
+5-1	379-382	Für	_	
+5-2	383-386	das	_	
+5-3	387-394	gesamte	_	
+5-4	395-404	Stadtbild	_	
+5-5	405-409	wäre	_	
+5-6	410-414	dies	_	
+5-7	415-418	von	_	
+5-8	419-426	Vorteil	_	
+5-9	426-427	;	_	
+5-10	428-436	momentan	_	
+5-11	437-440	ist	_	
+5-12	441-446	jeder	_	
+5-13	447-451	Baum	_	
+5-14	451-452	,	_	
+5-15	453-458	jedes	_	
+5-16	459-468	Baugitter	_	
+5-17	468-469	,	_	
+5-18	470-475	jeder	_	
+5-19	476-489	Laternenpfahl	_	
+5-20	490-493	mit	_	
+5-21	494-504	Fahrrädern	_	
+5-22	505-515	zugestellt	_	
+5-23	515-516	.	_	

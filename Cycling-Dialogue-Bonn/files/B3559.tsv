@@ -1,0 +1,50 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bonner Rad-Dialog
+1-1	0-6	Bonner	_	
+1-2	7-17	Rad-Dialog	_	
+
+#Text=Gewünschte Verbesserungen: Ausbau des Rheinufer-Radwegs zwischen Bad Godesberg und Bonn (idealerweise mit Beleuchtung) mehr Fahrradstellplätze in der Bonner Innenstadt ausgewiesene Radroute zwischen Bonn Hbf und Rhein bessere Kennzeichnung der Radwege in der Bonner Innenstadt/City
+2-1	20-30	Gewünschte	_	
+2-2	31-45	Verbesserungen	_	
+2-3	45-46	:	_	
+2-4	47-53	Ausbau	_	
+2-5	54-57	des	_	
+2-6	58-75	Rheinufer-Radwegs	*[3]	
+2-7	76-84	zwischen	*[3]	
+2-8	85-88	Bad	*[3]	
+2-9	89-98	Godesberg	*[3]	
+2-10	99-102	und	*[3]	
+2-11	103-107	Bonn	*[3]	
+2-12	108-109	(	_	
+2-13	109-121	idealerweise	_	
+2-14	122-125	mit	_	
+2-15	126-137	Beleuchtung	_	
+2-16	137-138	)	_	
+2-17	139-143	mehr	_	
+2-18	144-162	Fahrradstellplätze	_	
+2-19	163-165	in	*[4]	
+2-20	166-169	der	*[4]	
+2-21	170-176	Bonner	*[4]	
+2-22	177-187	Innenstadt	*[4]	
+2-23	188-200	ausgewiesene	_	
+2-24	201-209	Radroute	_	
+2-25	210-218	zwischen	*[5]	
+2-26	219-223	Bonn	*[5]	
+2-27	224-227	Hbf	*[5]	
+2-28	228-231	und	*[5]	
+2-29	232-237	Rhein	*[5]	
+2-30	238-245	bessere	_	
+2-31	246-259	Kennzeichnung	_	
+2-32	260-263	der	_	
+2-33	264-271	Radwege	_	
+2-34	272-274	in	*[6]	
+2-35	275-278	der	*[6]	
+2-36	279-285	Bonner	*[6]	
+2-37	286-296	Innenstadt	*[6]	
+2-38	296-297	/	*[6]	
+2-39	297-301	City	*[6]	

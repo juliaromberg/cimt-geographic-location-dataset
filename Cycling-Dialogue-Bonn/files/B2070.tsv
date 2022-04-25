@@ -1,0 +1,169 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=breiterer Radweg
+1-1	0-9	breiterer	_	
+1-2	10-16	Radweg	_	
+
+#Text=An der Kaiserstraße sollte der Radweg von dem Bahnübergang an der Königstraße bis nach Gronau hin verbreitert werden.
+2-1	19-21	An	*[7]	
+2-2	22-25	der	*[7]	
+2-3	26-38	Kaiserstraße	*[7]	
+2-4	39-45	sollte	_	
+2-5	46-49	der	_	
+2-6	50-56	Radweg	_	
+2-7	57-60	von	*[8]	
+2-8	61-64	dem	*[8]	
+2-9	65-77	Bahnübergang	*[8]	
+2-10	78-80	an	*[8]	
+2-11	81-84	der	*[8]	
+2-12	85-96	Königstraße	*[8]	
+2-13	97-100	bis	*[8]	
+2-14	101-105	nach	*[8]	
+2-15	106-112	Gronau	*[8]	
+2-16	113-116	hin	_	
+2-17	117-128	verbreitert	_	
+2-18	129-135	werden	_	
+2-19	135-136	.	_	
+
+#Text=Wenn man Richtung Zentrum dort unterwegs ist, auf der einen Seite ein Bus knapp an einem vorbeirauscht und ein Fahrradfahrer mit Kinderanhänger entgegenkommt, ist es zu eng, als dass man entspannt aneinander vorbeifahren könte.
+3-1	137-141	Wenn	_	
+3-2	142-145	man	_	
+3-3	146-154	Richtung	*[9]	
+3-4	155-162	Zentrum	*[9]	
+3-5	163-167	dort	_	
+3-6	168-177	unterwegs	_	
+3-7	178-181	ist	_	
+3-8	181-182	,	_	
+3-9	183-186	auf	_	
+3-10	187-190	der	_	
+3-11	191-196	einen	_	
+3-12	197-202	Seite	_	
+3-13	203-206	ein	_	
+3-14	207-210	Bus	_	
+3-15	211-216	knapp	_	
+3-16	217-219	an	_	
+3-17	220-225	einem	_	
+3-18	226-239	vorbeirauscht	_	
+3-19	240-243	und	_	
+3-20	244-247	ein	_	
+3-21	248-261	Fahrradfahrer	_	
+3-22	262-265	mit	_	
+3-23	266-280	Kinderanhänger	_	
+3-24	281-294	entgegenkommt	_	
+3-25	294-295	,	_	
+3-26	296-299	ist	_	
+3-27	300-302	es	_	
+3-28	303-305	zu	_	
+3-29	306-309	eng	_	
+3-30	309-310	,	_	
+3-31	311-314	als	_	
+3-32	315-319	dass	_	
+3-33	320-323	man	_	
+3-34	324-333	entspannt	_	
+3-35	334-344	aneinander	_	
+3-36	345-357	vorbeifahren	_	
+3-37	358-363	könte	_	
+3-38	363-364	.	_	
+
+#Text=Zudem sollte besonders auf der Strecke am Straßburger Weg auf die Pflege der Grünanlagen gachtet werden: Oft ragen Äste der Sträucher, die entlang der Bahnstrecke stehen, mehr als nur ein paar geringfügige Zentimenter auf den Fahrradweg, denen man bei Gegenverkehr nicht ausweichen kann, sodass sie einem ins Gesicht peitschen.
+4-1	365-370	Zudem	_	
+4-2	371-377	sollte	_	
+4-3	378-387	besonders	_	
+4-4	388-391	auf	_	
+4-5	392-395	der	_	
+4-6	396-403	Strecke	_	
+4-7	404-406	am	_	
+4-8	407-418	Straßburger	*[10]	
+4-9	419-422	Weg	*[10]	
+4-10	423-426	auf	_	
+4-11	427-430	die	_	
+4-12	431-437	Pflege	_	
+4-13	438-441	der	_	
+4-14	442-453	Grünanlagen	_	
+4-15	454-461	gachtet	_	
+4-16	462-468	werden	_	
+4-17	468-469	:	_	
+4-18	470-473	Oft	_	
+4-19	474-479	ragen	_	
+4-20	480-484	Äste	_	
+4-21	485-488	der	_	
+4-22	489-498	Sträucher	_	
+4-23	498-499	,	_	
+4-24	500-503	die	_	
+4-25	504-511	entlang	_	
+4-26	512-515	der	_	
+4-27	516-527	Bahnstrecke	_	
+4-28	528-534	stehen	_	
+4-29	534-535	,	_	
+4-30	536-540	mehr	_	
+4-31	541-544	als	_	
+4-32	545-548	nur	_	
+4-33	549-552	ein	_	
+4-34	553-557	paar	_	
+4-35	558-570	geringfügige	_	
+4-36	571-582	Zentimenter	_	
+4-37	583-586	auf	_	
+4-38	587-590	den	_	
+4-39	591-601	Fahrradweg	_	
+4-40	601-602	,	_	
+4-41	603-608	denen	_	
+4-42	609-612	man	_	
+4-43	613-616	bei	_	
+4-44	617-629	Gegenverkehr	_	
+4-45	630-635	nicht	_	
+4-46	636-646	ausweichen	_	
+4-47	647-651	kann	_	
+4-48	651-652	,	_	
+4-49	653-659	sodass	_	
+4-50	660-663	sie	_	
+4-51	664-669	einem	_	
+4-52	670-673	ins	_	
+4-53	674-681	Gesicht	_	
+4-54	682-691	peitschen	_	
+4-55	691-692	.	_	
+
+#Text=Auch sollte auf diesem Wegstück eine bessere Straßenbeleuchtung installiert werden.
+5-1	693-697	Auch	_	
+5-2	698-704	sollte	_	
+5-3	705-708	auf	_	
+5-4	709-715	diesem	_	
+5-5	716-724	Wegstück	_	
+5-6	725-729	eine	_	
+5-7	730-737	bessere	_	
+5-8	738-756	Straßenbeleuchtung	_	
+5-9	757-768	installiert	_	
+5-10	769-775	werden	_	
+5-11	775-776	.	_	
+
+#Text=Nach dem Abriss des Bonn-Centers ist es dort völlig dunkel, was wiederum nicht zu einem sicheren Gefühl beiträgt, wenn man abends diesen Weg nutzt.
+6-1	777-781	Nach	_	
+6-2	782-785	dem	_	
+6-3	786-792	Abriss	_	
+6-4	793-796	des	_	
+6-5	797-809	Bonn-Centers	*	
+6-6	810-813	ist	_	
+6-7	814-816	es	_	
+6-8	817-821	dort	_	
+6-9	822-828	völlig	_	
+6-10	829-835	dunkel	_	
+6-11	835-836	,	_	
+6-12	837-840	was	_	
+6-13	841-849	wiederum	_	
+6-14	850-855	nicht	_	
+6-15	856-858	zu	_	
+6-16	859-864	einem	_	
+6-17	865-873	sicheren	_	
+6-18	874-880	Gefühl	_	
+6-19	881-889	beiträgt	_	
+6-20	889-890	,	_	
+6-21	891-895	wenn	_	
+6-22	896-899	man	_	
+6-23	900-906	abends	_	
+6-24	907-913	diesen	_	
+6-25	914-917	Weg	_	
+6-26	918-923	nutzt	_	
+6-27	923-924	.	_	

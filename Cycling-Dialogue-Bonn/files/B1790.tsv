@@ -1,0 +1,142 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Entfernen der Radweg Schilder, obwohl es nur einen Schutzstreifen gibt
+1-1	0-9	Entfernen	_	
+1-2	10-13	der	_	
+1-3	14-20	Radweg	_	
+1-4	21-29	Schilder	_	
+1-5	29-30	,	_	
+1-6	31-37	obwohl	_	
+1-7	38-40	es	_	
+1-8	41-44	nur	_	
+1-9	45-50	einen	_	
+1-10	51-65	Schutzstreifen	_	
+1-11	66-70	gibt	_	
+
+#Text=Auf der Straße An der Nesselburg gibt es beidseitig einen Schutzstreifen, der mit einer gestrichelten Linie gekennzeichnet ist.
+2-1	73-76	Auf	*[9]	
+2-2	77-80	der	*[9]	
+2-3	81-87	Straße	*[9]	
+2-4	88-90	An	*[9]	
+2-5	91-94	der	*[9]	
+2-6	95-105	Nesselburg	*[9]	
+2-7	106-110	gibt	_	
+2-8	111-113	es	_	
+2-9	114-124	beidseitig	_	
+2-10	125-130	einen	_	
+2-11	131-145	Schutzstreifen	_	
+2-12	145-146	,	_	
+2-13	147-150	der	_	
+2-14	151-154	mit	_	
+2-15	155-160	einer	_	
+2-16	161-174	gestrichelten	_	
+2-17	175-180	Linie	_	
+2-18	181-195	gekennzeichnet	_	
+2-19	196-199	ist	_	
+2-20	199-200	.	_	
+
+#Text=Dieser ist KEIN Radweg und somit kann er auch nicht benutzungspflichtig sein.
+3-1	201-207	Dieser	_	
+3-2	208-211	ist	_	
+3-3	212-216	KEIN	_	
+3-4	217-223	Radweg	_	
+3-5	224-227	und	_	
+3-6	228-233	somit	_	
+3-7	234-238	kann	_	
+3-8	239-241	er	_	
+3-9	242-246	auch	_	
+3-10	247-252	nicht	_	
+3-11	253-272	benutzungspflichtig	_	
+3-12	273-277	sein	_	
+3-13	277-278	.	_	
+
+#Text=ABER: Es stehen Radwegschilder dort, die einfach falsch sind.
+4-1	279-283	ABER	_	
+4-2	283-284	:	_	
+4-3	285-287	Es	_	
+4-4	288-294	stehen	_	
+4-5	295-309	Radwegschilder	_	
+4-6	310-314	dort	_	
+4-7	314-315	,	_	
+4-8	316-319	die	_	
+4-9	320-327	einfach	_	
+4-10	328-334	falsch	_	
+4-11	335-339	sind	_	
+4-12	339-340	.	_	
+
+#Text=Gleiches Bild an der Straße: Hochkreuzalle Gleiches Bilder an der Straße: Ubierstraße (Ecke Cäsariusstraße) Die Schilder sind dort schlichtweg falsch und nicht von der Straßenverkehrsordnung vorgesehen.
+5-1	341-349	Gleiches	_	
+5-2	350-354	Bild	_	
+5-3	355-357	an	_	
+5-4	358-361	der	_	
+5-5	362-368	Straße	_	
+5-6	368-369	:	_	
+5-7	370-383	Hochkreuzalle	*	
+5-8	384-392	Gleiches	_	
+5-9	393-399	Bilder	_	
+5-10	400-402	an	_	
+5-11	403-406	der	_	
+5-12	407-413	Straße	_	
+5-13	413-414	:	_	
+5-14	415-426	Ubierstraße	*[10]	
+5-15	427-428	(	*[10]	
+5-16	428-432	Ecke	*[10]	
+5-17	433-447	Cäsariusstraße	*[10]	
+5-18	447-448	)	*[10]	
+5-19	449-452	Die	_	
+5-20	453-461	Schilder	_	
+5-21	462-466	sind	_	
+5-22	467-471	dort	_	
+5-23	472-483	schlichtweg	_	
+5-24	484-490	falsch	_	
+5-25	491-494	und	_	
+5-26	495-500	nicht	_	
+5-27	501-504	von	_	
+5-28	505-508	der	_	
+5-29	509-531	Straßenverkehrsordnung	_	
+5-30	532-542	vorgesehen	_	
+5-31	542-543	.	_	
+
+#Text=Nur Radwege, die nicht von Autos ebenfalls befahren werden dürfen benutzungspflichtig sein.
+6-1	544-547	Nur	_	
+6-2	548-555	Radwege	_	
+6-3	555-556	,	_	
+6-4	557-560	die	_	
+6-5	561-566	nicht	_	
+6-6	567-570	von	_	
+6-7	571-576	Autos	_	
+6-8	577-586	ebenfalls	_	
+6-9	587-595	befahren	_	
+6-10	596-602	werden	_	
+6-11	603-609	dürfen	_	
+6-12	610-629	benutzungspflichtig	_	
+6-13	630-634	sein	_	
+6-14	634-635	.	_	
+
+#Text=Bei Schutzstreifen darf das Auto aber bei Bedarf ebenfalls diesen Teil der Fahrbahn verwenden.
+7-1	636-639	Bei	_	
+7-2	640-654	Schutzstreifen	_	
+7-3	655-659	darf	_	
+7-4	660-663	das	_	
+7-5	664-668	Auto	_	
+7-6	669-673	aber	_	
+7-7	674-677	bei	_	
+7-8	678-684	Bedarf	_	
+7-9	685-694	ebenfalls	_	
+7-10	695-701	diesen	_	
+7-11	702-706	Teil	_	
+7-12	707-710	der	_	
+7-13	711-719	Fahrbahn	_	
+7-14	720-729	verwenden	_	
+7-15	729-730	.	_	
+
+#Text=ich bitte um Entfernung!
+8-1	731-734	ich	_	
+8-2	735-740	bitte	_	
+8-3	741-743	um	_	
+8-4	744-754	Entfernung	_	
+8-5	754-755	!	_	

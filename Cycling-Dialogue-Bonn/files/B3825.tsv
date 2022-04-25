@@ -1,0 +1,143 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg endet im Nirwana
+1-1	0-6	Radweg	_	
+1-2	7-12	endet	_	
+1-3	13-15	im	_	
+1-4	16-23	Nirwana	_	
+
+#Text=Der Radweg auf der Kölnstraße in Richtung Innenstadt wird im unübersichtlichen Kreuzungsbereich in Richtung MIV spuren geleitet und verschwindet dann ganz.
+2-1	26-29	Der	_	
+2-2	30-36	Radweg	_	
+2-3	37-40	auf	*[8]	
+2-4	41-44	der	*[8]	
+2-5	45-55	Kölnstraße	*[8]	
+2-6	56-58	in	*[8]	
+2-7	59-67	Richtung	*[8]	
+2-8	68-78	Innenstadt	*[8]	
+2-9	79-83	wird	_	
+2-10	84-86	im	_	
+2-11	87-104	unübersichtlichen	_	
+2-12	105-121	Kreuzungsbereich	_	
+2-13	122-124	in	*[9]	
+2-14	125-133	Richtung	*[9]	
+2-15	134-137	MIV	*[9]	
+2-16	138-144	spuren	_	
+2-17	145-153	geleitet	_	
+2-18	154-157	und	_	
+2-19	158-170	verschwindet	_	
+2-20	171-175	dann	_	
+2-21	176-180	ganz	_	
+2-22	180-181	.	_	
+
+#Text=Gleichzeitig kommen die Straßenbahnschienen dem Bordstein gefährlich nahe, was den radfahrer dazu verleitet, die Schienen zu kreuzen.
+3-1	182-194	Gleichzeitig	_	
+3-2	195-201	kommen	_	
+3-3	202-205	die	_	
+3-4	206-225	Straßenbahnschienen	_	
+3-5	226-229	dem	_	
+3-6	230-239	Bordstein	_	
+3-7	240-250	gefährlich	_	
+3-8	251-255	nahe	_	
+3-9	255-256	,	_	
+3-10	257-260	was	_	
+3-11	261-264	den	_	
+3-12	265-274	radfahrer	_	
+3-13	275-279	dazu	_	
+3-14	280-289	verleitet	_	
+3-15	289-290	,	_	
+3-16	291-294	die	_	
+3-17	295-303	Schienen	_	
+3-18	304-306	zu	_	
+3-19	307-314	kreuzen	_	
+3-20	314-315	.	_	
+
+#Text=Eine der gefährlichsten und schlecht geplantesten Kreuzungen die ich kenne.
+4-1	316-320	Eine	_	
+4-2	321-324	der	_	
+4-3	325-339	gefährlichsten	_	
+4-4	340-343	und	_	
+4-5	344-352	schlecht	_	
+4-6	353-365	geplantesten	_	
+4-7	366-376	Kreuzungen	_	
+4-8	377-380	die	_	
+4-9	381-384	ich	_	
+4-10	385-390	kenne	_	
+4-11	390-391	.	_	
+
+#Text=Das I-Tüpfelchen sind die Bettelampeln für Radfahrer und Fußgänger: aus Richtung Auerberg kann ja gar kein Fahrzeug die Ampelkreuzung passieren, weil es ja zuvor den freien Rechtsabbieger gibt.
+5-1	392-395	Das	_	
+5-2	396-408	I-Tüpfelchen	_	
+5-3	409-413	sind	_	
+5-4	414-417	die	_	
+5-5	418-430	Bettelampeln	_	
+5-6	431-434	für	_	
+5-7	435-444	Radfahrer	_	
+5-8	445-448	und	_	
+5-9	449-458	Fußgänger	_	
+5-10	458-459	:	_	
+5-11	460-463	aus	*[10]	
+5-12	464-472	Richtung	*[10]	
+5-13	473-481	Auerberg	*[10]	
+5-14	482-486	kann	_	
+5-15	487-489	ja	_	
+5-16	490-493	gar	_	
+5-17	494-498	kein	_	
+5-18	499-507	Fahrzeug	_	
+5-19	508-511	die	_	
+5-20	512-525	Ampelkreuzung	_	
+5-21	526-535	passieren	_	
+5-22	535-536	,	_	
+5-23	537-541	weil	_	
+5-24	542-544	es	_	
+5-25	545-547	ja	_	
+5-26	548-553	zuvor	_	
+5-27	554-557	den	_	
+5-28	558-564	freien	_	
+5-29	565-579	Rechtsabbieger	_	
+5-30	580-584	gibt	_	
+5-31	584-585	.	_	
+
+#Text=Und aus der Gegenrichtung kann auch niemand kommen, weil die Kölnstraße Einbahnstraße ist und die einzelnen Ampelphasen zudem Zeitversetzt sind.
+6-1	586-589	Und	_	
+6-2	590-593	aus	_	
+6-3	594-597	der	_	
+6-4	598-611	Gegenrichtung	_	
+6-5	612-616	kann	_	
+6-6	617-621	auch	_	
+6-7	622-629	niemand	_	
+6-8	630-636	kommen	_	
+6-9	636-637	,	_	
+6-10	638-642	weil	_	
+6-11	643-646	die	*[11]	
+6-12	647-657	Kölnstraße	*[11]	
+6-13	658-671	Einbahnstraße	_	
+6-14	672-675	ist	_	
+6-15	676-679	und	_	
+6-16	680-683	die	_	
+6-17	684-693	einzelnen	_	
+6-18	694-705	Ampelphasen	_	
+6-19	706-711	zudem	_	
+6-20	712-724	Zeitversetzt	_	
+6-21	725-729	sind	_	
+6-22	729-730	.	_	
+
+#Text=Es handelt sich also um eine vollkommen sinnfreie Behinderung des Fußgänger und Radverkehrs!
+7-1	731-733	Es	_	
+7-2	734-741	handelt	_	
+7-3	742-746	sich	_	
+7-4	747-751	also	_	
+7-5	752-754	um	_	
+7-6	755-759	eine	_	
+7-7	760-770	vollkommen	_	
+7-8	771-780	sinnfreie	_	
+7-9	781-792	Behinderung	_	
+7-10	793-796	des	_	
+7-11	797-806	Fußgänger	_	
+7-12	807-810	und	_	
+7-13	811-822	Radverkehrs	_	
+7-14	822-823	!	_	

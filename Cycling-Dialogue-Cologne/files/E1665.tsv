@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parken auf dem Radweg
+1-1	0-6	Parken	_	
+1-2	7-10	auf	_	
+1-3	11-14	dem	_	
+1-4	15-21	Radweg	_	
+
+#Text=Hier wird ständig auf dem Radweg geparkt.
+2-1	24-28	Hier	_	
+2-2	29-33	wird	_	
+2-3	34-41	ständig	_	
+2-4	42-45	auf	_	
+2-5	46-49	dem	_	
+2-6	50-56	Radweg	_	
+2-7	57-64	geparkt	_	
+2-8	64-65	.	_	
+
+#Text=Hauptursächlich sind offenbar zwei Imbisse mit Lieferdienst.
+3-1	66-81	Hauptursächlich	_	
+3-2	82-86	sind	_	
+3-3	87-95	offenbar	_	
+3-4	96-100	zwei	_	
+3-5	101-108	Imbisse	_	
+3-6	109-112	mit	_	
+3-7	113-125	Lieferdienst	_	
+3-8	125-126	.	_	

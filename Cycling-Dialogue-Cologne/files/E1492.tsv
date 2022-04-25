@@ -1,0 +1,109 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=gefährliche Auffahrt und unklarer Fahradwegverlauf
+1-1	0-11	gefährliche	_	
+1-2	12-20	Auffahrt	_	
+1-3	21-24	und	_	
+1-4	25-33	unklarer	_	
+1-5	34-50	Fahradwegverlauf	_	
+
+#Text=Rad- und Fußweg münden in der Auffahrt der Waschanlage..
+2-1	53-56	Rad	_	
+2-2	56-57	-	_	
+2-3	58-61	und	_	
+2-4	62-68	Fußweg	_	
+2-5	69-75	münden	_	
+2-6	76-78	in	_	
+2-7	79-82	der	_	
+2-8	83-91	Auffahrt	_	
+2-9	92-95	der	_	
+2-10	96-107	Waschanlage	_	
+2-11	107-108	.	_	
+2-12	108-109	.	_	
+
+#Text=Der Radweg wird auf der Auffahrt an die Straße geführt (zuvor mit Grünstreifen und Parkbuchten getrennt.)
+3-1	110-113	Der	_	
+3-2	114-120	Radweg	_	
+3-3	121-125	wird	_	
+3-4	126-129	auf	_	
+3-5	130-133	der	_	
+3-6	134-142	Auffahrt	_	
+3-7	143-145	an	_	
+3-8	146-149	die	_	
+3-9	150-156	Straße	_	
+3-10	157-164	geführt	_	
+3-11	165-166	(	_	
+3-12	166-171	zuvor	_	
+3-13	172-175	mit	_	
+3-14	176-188	Grünstreifen	_	
+3-15	189-192	und	_	
+3-16	193-204	Parkbuchten	_	
+3-17	205-213	getrennt	_	
+3-18	213-214	.	_	
+3-19	214-215	)	_	
+
+#Text=Für Autofahrer sind die Radfahrer aufgrund von parkenden Autos, LKWs daher erst bei Einfahrt in die Auffahrt sichtbar.
+4-1	216-219	Für	_	
+4-2	220-230	Autofahrer	_	
+4-3	231-235	sind	_	
+4-4	236-239	die	_	
+4-5	240-249	Radfahrer	_	
+4-6	250-258	aufgrund	_	
+4-7	259-262	von	_	
+4-8	263-272	parkenden	_	
+4-9	273-278	Autos	_	
+4-10	278-279	,	_	
+4-11	280-284	LKWs	_	
+4-12	285-290	daher	_	
+4-13	291-295	erst	_	
+4-14	296-299	bei	_	
+4-15	300-308	Einfahrt	_	
+4-16	309-311	in	_	
+4-17	312-315	die	_	
+4-18	316-324	Auffahrt	_	
+4-19	325-333	sichtbar	_	
+4-20	333-334	.	_	
+
+#Text=Im Anschluss an die Auffahrt werden Fuß- und Radweg getrennt (durch parkende Autos) weitergeführt (links Radweg, rechts Fußweg).
+5-1	335-337	Im	_	
+5-2	338-347	Anschluss	_	
+5-3	348-350	an	_	
+5-4	351-354	die	_	
+5-5	355-363	Auffahrt	_	
+5-6	364-370	werden	_	
+5-7	371-374	Fuß	_	
+5-8	374-375	-	_	
+5-9	376-379	und	_	
+5-10	380-386	Radweg	_	
+5-11	387-395	getrennt	_	
+5-12	396-397	(	_	
+5-13	397-402	durch	_	
+5-14	403-411	parkende	_	
+5-15	412-417	Autos	_	
+5-16	417-418	)	_	
+5-17	419-432	weitergeführt	_	
+5-18	433-434	(	_	
+5-19	434-439	links	_	
+5-20	440-446	Radweg	_	
+5-21	446-447	,	_	
+5-22	448-454	rechts	_	
+5-23	455-461	Fußweg	_	
+5-24	461-462	)	_	
+5-25	462-463	.	_	
+
+#Text=Ortsunkundige Radfahrer sind z.T. irritiert welchen Weg sie nutzen sollen
+6-1	464-477	Ortsunkundige	_	
+6-2	478-487	Radfahrer	_	
+6-3	488-492	sind	_	
+6-4	493-496	z.T	_	
+6-5	496-497	.	_	
+6-6	498-507	irritiert	_	
+6-7	508-515	welchen	_	
+6-8	516-519	Weg	_	
+6-9	520-523	sie	_	
+6-10	524-530	nutzen	_	
+6-11	531-537	sollen	_	

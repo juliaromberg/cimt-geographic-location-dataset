@@ -1,0 +1,80 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verschiedene verbesserungsvorschläge
+1-1	0-12	Verschiedene	_	
+1-2	13-36	verbesserungsvorschläge	_	
+
+#Text=An der innere Kanalstraße zwischen subbelratherstraße und Hornstraße, also Richtung Norden, sind die Ampeln auch auf der Linke Fahrbahn gelegene Fahrradwege mit Fahrradzeichen in beide Richtungen beleuchtet.
+2-1	39-41	An	*[5]	
+2-2	42-45	der	*[5]	
+2-3	46-52	innere	*[5]	
+2-4	53-64	Kanalstraße	*[5]	
+2-5	65-73	zwischen	*[5]	
+2-6	74-92	subbelratherstraße	*[5]	
+2-7	93-96	und	*[5]	
+2-8	97-107	Hornstraße	*[5]	
+2-9	107-108	,	*[5]	
+2-10	109-113	also	*[5]	
+2-11	114-122	Richtung	*[5]	
+2-12	123-129	Norden	*[5]	
+2-13	129-130	,	_	
+2-14	131-135	sind	_	
+2-15	136-139	die	_	
+2-16	140-146	Ampeln	_	
+2-17	147-151	auch	_	
+2-18	152-155	auf	_	
+2-19	156-159	der	_	
+2-20	160-165	Linke	_	
+2-21	166-174	Fahrbahn	_	
+2-22	175-183	gelegene	_	
+2-23	184-195	Fahrradwege	_	
+2-24	196-199	mit	_	
+2-25	200-214	Fahrradzeichen	_	
+2-26	215-217	in	_	
+2-27	218-223	beide	_	
+2-28	224-234	Richtungen	_	
+2-29	235-245	beleuchtet	_	
+2-30	245-246	.	_	
+
+#Text=Eine eindeutige Markierung für Radverkehr in beide Richtung fehlt allerdings, sowohl auf der Fahrbahn als auch durch Schilder.
+3-1	247-251	Eine	_	
+3-2	252-262	eindeutige	_	
+3-3	263-273	Markierung	_	
+3-4	274-277	für	_	
+3-5	278-288	Radverkehr	_	
+3-6	289-291	in	_	
+3-7	292-297	beide	_	
+3-8	298-306	Richtung	_	
+3-9	307-312	fehlt	_	
+3-10	313-323	allerdings	_	
+3-11	323-324	,	_	
+3-12	325-331	sowohl	_	
+3-13	332-335	auf	_	
+3-14	336-339	der	_	
+3-15	340-348	Fahrbahn	_	
+3-16	349-352	als	_	
+3-17	353-357	auch	_	
+3-18	358-363	durch	_	
+3-19	364-372	Schilder	_	
+3-20	372-373	.	_	
+
+#Text=Gerade die viele (unnötige) Kurven sorgen hier für gefährliche Situationen für Radfahrer.
+4-1	374-380	Gerade	_	
+4-2	381-384	die	_	
+4-3	385-390	viele	_	
+4-4	391-392	(	_	
+4-5	392-400	unnötige	_	
+4-6	400-401	)	_	
+4-7	402-408	Kurven	_	
+4-8	409-415	sorgen	_	
+4-9	416-420	hier	_	
+4-10	421-424	für	_	
+4-11	425-436	gefährliche	_	
+4-12	437-448	Situationen	_	
+4-13	449-452	für	_	
+4-14	453-462	Radfahrer	_	
+4-15	462-463	.	_	

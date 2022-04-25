@@ -1,0 +1,95 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegführung über die Kreuzung
+1-1	0-13	Radwegführung	_	
+1-2	14-18	über	_	
+1-3	19-22	die	_	
+1-4	23-31	Kreuzung	_	
+
+#Text=Von Süden kommend führt eine Radfahrspur den Ring entlang bis zur Ampel.
+2-1	34-37	Von	_	
+2-2	38-43	Süden	_	
+2-3	44-51	kommend	_	
+2-4	52-57	führt	_	
+2-5	58-62	eine	_	
+2-6	63-74	Radfahrspur	_	
+2-7	75-78	den	_	
+2-8	79-83	Ring	_	
+2-9	84-91	entlang	_	
+2-10	92-95	bis	_	
+2-11	96-99	zur	_	
+2-12	100-105	Ampel	_	
+2-13	105-106	.	_	
+
+#Text=Die Ampel überqueren soll man aber offenbar an der Fußgängerampel, denn danach geht der Radweg neben dem Fußweg auf dem Bürgersteig weiter.
+3-1	107-110	Die	_	
+3-2	111-116	Ampel	_	
+3-3	117-127	überqueren	_	
+3-4	128-132	soll	_	
+3-5	133-136	man	_	
+3-6	137-141	aber	_	
+3-7	142-150	offenbar	_	
+3-8	151-153	an	_	
+3-9	154-157	der	_	
+3-10	158-172	Fußgängerampel	_	
+3-11	172-173	,	_	
+3-12	174-178	denn	_	
+3-13	179-185	danach	_	
+3-14	186-190	geht	_	
+3-15	191-194	der	_	
+3-16	195-201	Radweg	_	
+3-17	202-207	neben	_	
+3-18	208-211	dem	_	
+3-19	212-218	Fußweg	_	
+3-20	219-222	auf	_	
+3-21	223-226	dem	_	
+3-22	227-238	Bürgersteig	_	
+3-23	239-245	weiter	_	
+3-24	245-246	.	_	
+
+#Text=Die Warteinseln sind aber häufig zu klein für Fußgänger und Radfahrer.
+4-1	247-250	Die	_	
+4-2	251-262	Warteinseln	_	
+4-3	263-267	sind	_	
+4-4	268-272	aber	_	
+4-5	273-279	häufig	_	
+4-6	280-282	zu	_	
+4-7	283-288	klein	_	
+4-8	289-292	für	_	
+4-9	293-302	Fußgänger	_	
+4-10	303-306	und	_	
+4-11	307-316	Radfahrer	_	
+4-12	316-317	.	_	
+
+#Text=Besser wäre es, der Radweg würde mit ausreichend Platz auf der Straße fortgeführt und dann ggfs. im Laufe des Augustusrings auf den Bürgersteig geführt.
+5-1	318-324	Besser	_	
+5-2	325-329	wäre	_	
+5-3	330-332	es	_	
+5-4	332-333	,	_	
+5-5	334-337	der	_	
+5-6	338-344	Radweg	_	
+5-7	345-350	würde	_	
+5-8	351-354	mit	_	
+5-9	355-366	ausreichend	_	
+5-10	367-372	Platz	_	
+5-11	373-376	auf	_	
+5-12	377-380	der	_	
+5-13	381-387	Straße	_	
+5-14	388-399	fortgeführt	_	
+5-15	400-403	und	_	
+5-16	404-408	dann	_	
+5-17	409-413	ggfs	_	
+5-18	413-414	.	_	
+5-19	415-417	im	_	
+5-20	418-423	Laufe	_	
+5-21	424-427	des	_	
+5-22	428-441	Augustusrings	_	
+5-23	442-445	auf	_	
+5-24	446-449	den	_	
+5-25	450-461	Bürgersteig	_	
+5-26	462-469	geführt	_	
+5-27	469-470	.	_	

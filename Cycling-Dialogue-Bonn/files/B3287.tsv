@@ -1,0 +1,118 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Mehr Rad-Stellplätze an S-Bahnhaltestelle Oberkassel-Süd / Nordseite
+1-1	0-4	Mehr	_	
+1-2	5-20	Rad-Stellplätze	_	
+1-3	21-23	an	*[7]	
+1-4	24-41	S-Bahnhaltestelle	*[7]	
+1-5	42-56	Oberkassel-Süd	*[7]	
+1-6	57-58	/	*[7]	
+1-7	59-68	Nordseite	*[7]	
+
+#Text=An der Nordseite der Haltestelle Oberkassel-Süd fehlen Rad-Stellplätze.
+2-1	71-73	An	*[8]	
+2-2	74-77	der	*[8]	
+2-3	78-87	Nordseite	*[8]	
+2-4	88-91	der	*[8]	
+2-5	92-103	Haltestelle	*[8]	
+2-6	104-118	Oberkassel-Süd	*[8]	
+2-7	119-125	fehlen	_	
+2-8	126-141	Rad-Stellplätze	_	
+2-9	141-142	.	_	
+
+#Text=Tagsüber kommen eine Vielzahl von Radfahrer aus dem Umfeld sowie aus den Siebengebirgsorten (Vinxel, Stieldorf etc) und parken ihre Räder/Pedelocs dort.
+3-1	143-151	Tagsüber	_	
+3-2	152-158	kommen	_	
+3-3	159-163	eine	_	
+3-4	164-172	Vielzahl	_	
+3-5	173-176	von	_	
+3-6	177-186	Radfahrer	_	
+3-7	187-190	aus	_	
+3-8	191-194	dem	_	
+3-9	195-201	Umfeld	_	
+3-10	202-207	sowie	_	
+3-11	208-211	aus	*[9]	
+3-12	212-215	den	*[9]	
+3-13	216-234	Siebengebirgsorten	*[9]	
+3-14	235-236	(	*[9]	
+3-15	236-242	Vinxel	*[9]	
+3-16	242-243	,	*[9]	
+3-17	244-253	Stieldorf	*[9]	
+3-18	254-257	etc	_	
+3-19	257-258	)	_	
+3-20	259-262	und	_	
+3-21	263-269	parken	_	
+3-22	270-274	ihre	_	
+3-23	275-280	Räder	_	
+3-24	280-281	/	_	
+3-25	281-289	Pedelocs	_	
+3-26	290-294	dort	_	
+3-27	294-295	.	_	
+
+#Text=Sie steigen dann in die S66 oder S62 um, fast ausschließlich Richtung Beuel.
+4-1	296-299	Sie	_	
+4-2	300-307	steigen	_	
+4-3	308-312	dann	_	
+4-4	313-315	in	*[10]	
+4-5	316-319	die	*[10]	
+4-6	320-323	S66	*[10]	
+4-7	324-328	oder	*[10]	
+4-8	329-332	S62	*[10]	
+4-9	333-335	um	_	
+4-10	335-336	,	_	
+4-11	337-341	fast	_	
+4-12	342-356	ausschließlich	_	
+4-13	357-365	Richtung	*[11]	
+4-14	366-371	Beuel	*[11]	
+4-15	371-372	.	_	
+
+#Text=Es würde bereits ausreichen, wenn kostengünstigere, nicht überdachte Stellplätze auf einem Autoparkplatz geschaffen würden.
+5-1	373-375	Es	_	
+5-2	376-381	würde	_	
+5-3	382-389	bereits	_	
+5-4	390-400	ausreichen	_	
+5-5	400-401	,	_	
+5-6	402-406	wenn	_	
+5-7	407-423	kostengünstigere	_	
+5-8	423-424	,	_	
+5-9	425-430	nicht	_	
+5-10	431-441	überdachte	_	
+5-11	442-453	Stellplätze	_	
+5-12	454-457	auf	_	
+5-13	458-463	einem	_	
+5-14	464-477	Autoparkplatz	_	
+5-15	478-488	geschaffen	_	
+5-16	489-495	würden	_	
+5-17	495-496	.	_	
+
+#Text=Siehe https://goo.gl/yPaUJB (das Bild ist vor 9 Jahren gemacht worden. Mittlerweile parken dort viel mehr Radfahrer).
+6-1	497-502	Siehe	_	
+6-2	503-508	https	_	
+6-3	508-509	:	_	
+6-4	509-510	/	_	
+6-5	510-511	/	_	
+6-6	511-517	goo.gl	_	
+6-7	517-518	/	_	
+6-8	518-524	yPaUJB	_	
+6-9	525-526	(	_	
+6-10	526-529	das	_	
+6-11	530-534	Bild	_	
+6-12	535-538	ist	_	
+6-13	539-542	vor	_	
+6-14	543-544	9	_	
+6-15	545-551	Jahren	_	
+6-16	552-559	gemacht	_	
+6-17	560-566	worden	_	
+6-18	566-567	.	_	
+6-19	568-580	Mittlerweile	_	
+6-20	581-587	parken	_	
+6-21	588-592	dort	_	
+6-22	593-597	viel	_	
+6-23	598-602	mehr	_	
+6-24	603-612	Radfahrer	_	
+6-25	612-613	)	_	
+6-26	613-614	.	_	

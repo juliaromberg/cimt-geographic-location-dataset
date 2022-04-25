@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rückstau vor der Tiefgarage
+1-1	0-8	Rückstau	_	
+1-2	9-12	vor	_	
+1-3	13-16	der	_	
+1-4	17-27	Tiefgarage	_	
+
+#Text=An der Einfahrt zur Tiefgarage Friedensplatz bildet sich oft eine Schlange wartender Autos, die dann den Radweg blockiert.
+2-1	30-32	An	*[4]	
+2-2	33-36	der	*[4]	
+2-3	37-45	Einfahrt	*[4]	
+2-4	46-49	zur	*[4]	
+2-5	50-60	Tiefgarage	*[4]	
+2-6	61-74	Friedensplatz	*[4]	
+2-7	75-81	bildet	_	
+2-8	82-86	sich	_	
+2-9	87-90	oft	_	
+2-10	91-95	eine	_	
+2-11	96-104	Schlange	_	
+2-12	105-114	wartender	_	
+2-13	115-120	Autos	_	
+2-14	120-121	,	_	
+2-15	122-125	die	_	
+2-16	126-130	dann	_	
+2-17	131-134	den	_	
+2-18	135-141	Radweg	_	
+2-19	142-151	blockiert	_	
+2-20	151-152	.	_	
+
+#Text=Eventuell würde eine deutlichere Markierung des Radwegs etwa roter Farbe deutlicher machen, dass dort noch ein Fahrradstreifen verläuft.
+3-1	153-162	Eventuell	_	
+3-2	163-168	würde	_	
+3-3	169-173	eine	_	
+3-4	174-185	deutlichere	_	
+3-5	186-196	Markierung	_	
+3-6	197-200	des	_	
+3-7	201-208	Radwegs	_	
+3-8	209-213	etwa	_	
+3-9	214-219	roter	_	
+3-10	220-225	Farbe	_	
+3-11	226-236	deutlicher	_	
+3-12	237-243	machen	_	
+3-13	243-244	,	_	
+3-14	245-249	dass	_	
+3-15	250-254	dort	_	
+3-16	255-259	noch	_	
+3-17	260-263	ein	_	
+3-18	264-279	Fahrradstreifen	_	
+3-19	280-288	verläuft	_	
+3-20	288-289	.	_	

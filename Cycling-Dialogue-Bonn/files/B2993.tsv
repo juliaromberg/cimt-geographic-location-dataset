@@ -1,0 +1,99 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verbindung Paracelsusstr./ M.-Planck-Str.
+1-1	0-10	Verbindung	*[5]	
+1-2	11-24	Paracelsusstr	*[5]	
+1-3	24-25	.	*[5]	
+1-4	25-26	/	*[5]	
+1-5	27-28	M	*[5]	
+1-6	28-29	.	*[5]	
+1-7	29-30	-	*[5]	
+1-8	30-40	Planck-Str	*[5]	
+1-9	40-41	.	_	
+
+#Text=Es fehlt eine sinnvolle Verkehrsführung für Radfahrer von der Zanderstraße weiter Richtung Süden, obwohl sich die Max-Planck-Str. und die Paracelsusstr. dafür gut eignen würden.
+2-1	44-46	Es	_	
+2-2	47-52	fehlt	_	
+2-3	53-57	eine	_	
+2-4	58-67	sinnvolle	_	
+2-5	68-83	Verkehrsführung	_	
+2-6	84-87	für	_	
+2-7	88-97	Radfahrer	_	
+2-8	98-101	von	*[6]	
+2-9	102-105	der	*[6]	
+2-10	106-118	Zanderstraße	*[6]	
+2-11	119-125	weiter	*[6]	
+2-12	126-134	Richtung	*[6]	
+2-13	135-140	Süden	*[6]	
+2-14	140-141	,	_	
+2-15	142-148	obwohl	_	
+2-16	149-153	sich	_	
+2-17	154-157	die	*[7]	
+2-18	158-172	Max-Planck-Str	*[7]	
+2-19	172-173	.	*[7]	
+2-20	174-177	und	*[7]	
+2-21	178-181	die	*[7]	
+2-22	182-195	Paracelsusstr	*[7]	
+2-23	195-196	.	_	
+2-24	197-202	dafür	_	
+2-25	203-206	gut	_	
+2-26	207-213	eignen	_	
+2-27	214-220	würden	_	
+2-28	220-221	.	_	
+
+#Text=Dafür bräuchte man aber ein radtaugliche Verbindung zwischen diesen beiden Straßen.
+3-1	222-227	Dafür	_	
+3-2	228-236	bräuchte	_	
+3-3	237-240	man	_	
+3-4	241-245	aber	_	
+3-5	246-249	ein	_	
+3-6	250-262	radtaugliche	_	
+3-7	263-273	Verbindung	_	
+3-8	274-282	zwischen	_	
+3-9	283-289	diesen	_	
+3-10	290-296	beiden	_	
+3-11	297-304	Straßen	_	
+3-12	304-305	.	_	
+
+#Text=D.h., man sollte entweder die Rhodosstraße in Richtung Paracelsusstraße öffnen, oder am Südende der Max-Planck-Str. eine öffentliche Wegeführung zur Paracelsusstraße (mit entsprechend abgesenkten Bordsteinkanten und mit weniger parkenden Fahrzeugen) schaffen.
+4-1	306-309	D.h	_	
+4-2	309-310	.	_	
+4-3	310-311	,	_	
+4-4	312-315	man	_	
+4-5	316-322	sollte	_	
+4-6	323-331	entweder	_	
+4-7	332-335	die	*[8]	
+4-8	336-348	Rhodosstraße	*[8]	
+4-9	349-351	in	*[8]	
+4-10	352-360	Richtung	*[8]	
+4-11	361-377	Paracelsusstraße	*[8]	
+4-12	378-384	öffnen	_	
+4-13	384-385	,	_	
+4-14	386-390	oder	_	
+4-15	391-393	am	*[9]	
+4-16	394-401	Südende	*[9]	
+4-17	402-405	der	*[9]	
+4-18	406-420	Max-Planck-Str	*[9]	
+4-19	420-421	.	_	
+4-20	422-426	eine	_	
+4-21	427-438	öffentliche	_	
+4-22	439-450	Wegeführung	_	
+4-23	451-454	zur	*[10]	
+4-24	455-471	Paracelsusstraße	*[10]	
+4-25	472-473	(	_	
+4-26	473-476	mit	_	
+4-27	477-489	entsprechend	_	
+4-28	490-501	abgesenkten	_	
+4-29	502-517	Bordsteinkanten	_	
+4-30	518-521	und	_	
+4-31	522-525	mit	_	
+4-32	526-533	weniger	_	
+4-33	534-543	parkenden	_	
+4-34	544-554	Fahrzeugen	_	
+4-35	554-555	)	_	
+4-36	556-564	schaffen	_	
+4-37	564-565	.	_	

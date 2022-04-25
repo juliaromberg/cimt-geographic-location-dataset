@@ -1,0 +1,20 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radschnellweg nach Köln
+1-1	0-13	Radschnellweg	_	
+1-2	14-18	nach	*[3]	
+1-3	19-23	Köln	*[3]	
+
+#Text=Es fehlt ein durchgängiger Radschnellweg nach Köln.
+2-1	26-28	Es	_	
+2-2	29-34	fehlt	_	
+2-3	35-38	ein	_	
+2-4	39-52	durchgängiger	_	
+2-5	53-66	Radschnellweg	_	
+2-6	67-71	nach	*[4]	
+2-7	72-76	Köln	*[4]	
+2-8	76-77	.	_	

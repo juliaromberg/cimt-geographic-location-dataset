@@ -1,0 +1,122 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg versperrt
+1-1	0-6	Radweg	_	
+1-2	7-16	versperrt	_	
+
+#Text=An dieser engen Stelle ist der Radweg Richtung Dottendorf nahezu ständig blockiert.
+2-1	19-21	An	_	
+2-2	22-28	dieser	_	
+2-3	29-34	engen	_	
+2-4	35-41	Stelle	_	
+2-5	42-45	ist	_	
+2-6	46-49	der	_	
+2-7	50-56	Radweg	_	
+2-8	57-65	Richtung	*[9]	
+2-9	66-76	Dottendorf	*[9]	
+2-10	77-83	nahezu	_	
+2-11	84-91	ständig	_	
+2-12	92-101	blockiert	_	
+2-13	101-102	.	_	
+
+#Text=Mülltonnen, abgestellte Räder, Werbetafeln und einige Meter weiter quer über den Radweg parkende Autos.
+3-1	103-113	Mülltonnen	_	
+3-2	113-114	,	_	
+3-3	115-126	abgestellte	_	
+3-4	127-132	Räder	_	
+3-5	132-133	,	_	
+3-6	134-145	Werbetafeln	_	
+3-7	146-149	und	_	
+3-8	150-156	einige	_	
+3-9	157-162	Meter	_	
+3-10	163-169	weiter	_	
+3-11	170-174	quer	_	
+3-12	175-179	über	_	
+3-13	180-183	den	_	
+3-14	184-190	Radweg	_	
+3-15	191-199	parkende	_	
+3-16	200-205	Autos	_	
+3-17	205-206	.	_	
+
+#Text=Habe ich mehrfach fotografiert, ist gut bekannt ohne dass jemals ein Auto verwarnt oder gr abgeschleppt worden wäre.
+4-1	207-211	Habe	_	
+4-2	212-215	ich	_	
+4-3	216-224	mehrfach	_	
+4-4	225-237	fotografiert	_	
+4-5	237-238	,	_	
+4-6	239-242	ist	_	
+4-7	243-246	gut	_	
+4-8	247-254	bekannt	_	
+4-9	255-259	ohne	_	
+4-10	260-264	dass	_	
+4-11	265-271	jemals	_	
+4-12	272-275	ein	_	
+4-13	276-280	Auto	_	
+4-14	281-289	verwarnt	_	
+4-15	290-294	oder	_	
+4-16	295-297	gr	_	
+4-17	298-310	abgeschleppt	_	
+4-18	311-317	worden	_	
+4-19	318-322	wäre	_	
+4-20	322-323	.	_	
+
+#Text=Klar benötigt Abschleppen Zeit, aber es gäbe Hunderte Zeugen, und das macht Eindruck.
+5-1	324-328	Klar	_	
+5-2	329-337	benötigt	_	
+5-3	338-349	Abschleppen	_	
+5-4	350-354	Zeit	_	
+5-5	354-355	,	_	
+5-6	356-360	aber	_	
+5-7	361-363	es	_	
+5-8	364-368	gäbe	_	
+5-9	369-377	Hunderte	_	
+5-10	378-384	Zeugen	_	
+5-11	384-385	,	_	
+5-12	386-389	und	_	
+5-13	390-393	das	_	
+5-14	394-399	macht	_	
+5-15	400-408	Eindruck	_	
+5-16	408-409	.	_	
+
+#Text=Störende Straßenschilder müssen entfernt werden, sonst werden dort Räder angeschlossen.
+6-1	410-418	Störende	_	
+6-2	419-434	Straßenschilder	_	
+6-3	435-441	müssen	_	
+6-4	442-450	entfernt	_	
+6-5	451-457	werden	_	
+6-6	457-458	,	_	
+6-7	459-464	sonst	_	
+6-8	465-471	werden	_	
+6-9	472-476	dort	_	
+6-10	477-482	Räder	_	
+6-11	483-496	angeschlossen	_	
+6-12	496-497	.	_	
+
+#Text=Das gilt auch für die sehr breite Baumeinfassung vor dem Optiker und dem Bioladen.
+7-1	498-501	Das	_	
+7-2	502-506	gilt	_	
+7-3	507-511	auch	_	
+7-4	512-515	für	_	
+7-5	516-519	die	_	
+7-6	520-524	sehr	_	
+7-7	525-531	breite	_	
+7-8	532-546	Baumeinfassung	_	
+7-9	547-550	vor	_	
+7-10	551-554	dem	_	
+7-11	555-562	Optiker	_	
+7-12	563-566	und	_	
+7-13	567-570	dem	_	
+7-14	571-579	Bioladen	_	
+7-15	579-580	.	_	
+
+#Text=Es ist ein gefährlicher Hindernisparcours.
+8-1	581-583	Es	_	
+8-2	584-587	ist	_	
+8-3	588-591	ein	_	
+8-4	592-604	gefährlicher	_	
+8-5	605-622	Hindernisparcours	_	
+8-6	622-623	.	_	

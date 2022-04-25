@@ -1,0 +1,93 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg an der Rückseite des Westfriedhofs
+1-1	0-6	Radweg	_	
+1-2	7-9	an	*[6]	
+1-3	10-13	der	*[6]	
+1-4	14-23	Rückseite	*[6]	
+1-5	24-27	des	*[6]	
+1-6	28-41	Westfriedhofs	*[6]	
+
+#Text=Der neu asphaltierte Radweg an der Rückseite des Westfriedhofs ist eine Wohltat.
+2-1	44-47	Der	_	
+2-2	48-51	neu	_	
+2-3	52-64	asphaltierte	_	
+2-4	65-71	Radweg	_	
+2-5	72-74	an	_	
+2-6	75-78	der	*[7]	
+2-7	79-88	Rückseite	*[7]	
+2-8	89-92	des	*[7]	
+2-9	93-106	Westfriedhofs	*[7]	
+2-10	107-110	ist	_	
+2-11	111-115	eine	_	
+2-12	116-123	Wohltat	_	
+2-13	123-124	.	_	
+
+#Text=Aber: Die Zufahrt aus Richtung Ollenhauerring/Bocklemünd kommend erfolgt entweder durch drei Straßenüberquerungen mit entsprechenden Ampelwartezeiten oder geradeaus auf der Straße und ohne Radschutzstreifen o. ä..
+3-1	125-129	Aber	_	
+3-2	129-130	:	_	
+3-3	131-134	Die	*[8]	
+3-4	135-142	Zufahrt	*[8]	
+3-5	143-146	aus	*[8]	
+3-6	147-155	Richtung	*[8]	
+3-7	156-170	Ollenhauerring	*[8]	
+3-8	170-171	/	*[8]	
+3-9	171-181	Bocklemünd	*[8]	
+3-10	182-189	kommend	_	
+3-11	190-197	erfolgt	_	
+3-12	198-206	entweder	_	
+3-13	207-212	durch	_	
+3-14	213-217	drei	_	
+3-15	218-238	Straßenüberquerungen	_	
+3-16	239-242	mit	_	
+3-17	243-257	entsprechenden	_	
+3-18	258-274	Ampelwartezeiten	_	
+3-19	275-279	oder	_	
+3-20	280-289	geradeaus	_	
+3-21	290-293	auf	_	
+3-22	294-297	der	_	
+3-23	298-304	Straße	_	
+3-24	305-308	und	_	
+3-25	309-313	ohne	_	
+3-26	314-331	Radschutzstreifen	_	
+3-27	332-333	o	_	
+3-28	333-334	.	_	
+3-29	335-336	ä	_	
+3-30	336-337	.	_	
+3-31	337-338	.	_	
+
+#Text=Außerdem sind beide Zufahrten unbefestigt und daher nach Regen oft matschig.
+4-1	339-347	Außerdem	_	
+4-2	348-352	sind	_	
+4-3	353-358	beide	_	
+4-4	359-368	Zufahrten	_	
+4-5	369-380	unbefestigt	_	
+4-6	381-384	und	_	
+4-7	385-390	daher	_	
+4-8	391-395	nach	_	
+4-9	396-401	Regen	_	
+4-10	402-405	oft	_	
+4-11	406-414	matschig	_	
+4-12	414-415	.	_	
+
+#Text=Es wäre schön, wenn diese vergleichsweise kurzen Zuwege auch noch in Schuss gebracht würden.
+5-1	416-418	Es	_	
+5-2	419-423	wäre	_	
+5-3	424-429	schön	_	
+5-4	429-430	,	_	
+5-5	431-435	wenn	_	
+5-6	436-441	diese	_	
+5-7	442-457	vergleichsweise	_	
+5-8	458-464	kurzen	_	
+5-9	465-471	Zuwege	_	
+5-10	472-476	auch	_	
+5-11	477-481	noch	_	
+5-12	482-484	in	_	
+5-13	485-491	Schuss	_	
+5-14	492-500	gebracht	_	
+5-15	501-507	würden	_	
+5-16	507-508	.	_	

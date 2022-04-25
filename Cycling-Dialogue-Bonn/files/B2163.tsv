@@ -1,0 +1,153 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße NUR für Räder
+1-1	0-13	Fahrradstraße	_	
+1-2	14-17	NUR	_	
+1-3	18-21	für	_	
+1-4	22-27	Räder	_	
+
+#Text=In Bonn werden viele Fahrradstraßen ausgewiesen.
+2-1	30-32	In	_	
+2-2	33-37	Bonn	*	
+2-3	38-44	werden	_	
+2-4	45-50	viele	_	
+2-5	51-65	Fahrradstraßen	_	
+2-6	66-77	ausgewiesen	_	
+2-7	77-78	.	_	
+
+#Text=Das ist schön für die Statistik.
+3-1	79-82	Das	_	
+3-2	83-86	ist	_	
+3-3	87-92	schön	_	
+3-4	93-96	für	_	
+3-5	97-100	die	_	
+3-6	101-110	Statistik	_	
+3-7	110-111	.	_	
+
+#Text=Aber leider nicht für die Radfahrer.
+4-1	112-116	Aber	_	
+4-2	117-123	leider	_	
+4-3	124-129	nicht	_	
+4-4	130-133	für	_	
+4-5	134-137	die	_	
+4-6	138-147	Radfahrer	_	
+4-7	147-148	.	_	
+
+#Text=Denn die Fahrradstraßen werden gleichzeitig für PKW und Motorräder frei gegeben und somit ändert sich nichts.
+5-1	149-153	Denn	_	
+5-2	154-157	die	_	
+5-3	158-172	Fahrradstraßen	_	
+5-4	173-179	werden	_	
+5-5	180-192	gleichzeitig	_	
+5-6	193-196	für	_	
+5-7	197-200	PKW	_	
+5-8	201-204	und	_	
+5-9	205-215	Motorräder	_	
+5-10	216-220	frei	_	
+5-11	221-228	gegeben	_	
+5-12	229-232	und	_	
+5-13	233-238	somit	_	
+5-14	239-245	ändert	_	
+5-15	246-250	sich	_	
+5-16	251-257	nichts	_	
+5-17	257-258	.	_	
+
+#Text=Weder für den motorisierten Verkehr (evtl. auch mangels Information und Kenntniss der Fahrer/innen) noch und am wenigsten für die Radfahrer.
+6-1	259-264	Weder	_	
+6-2	265-268	für	_	
+6-3	269-272	den	_	
+6-4	273-286	motorisierten	_	
+6-5	287-294	Verkehr	_	
+6-6	295-296	(	_	
+6-7	296-300	evtl	_	
+6-8	300-301	.	_	
+6-9	302-306	auch	_	
+6-10	307-314	mangels	_	
+6-11	315-326	Information	_	
+6-12	327-330	und	_	
+6-13	331-340	Kenntniss	_	
+6-14	341-344	der	_	
+6-15	345-351	Fahrer	_	
+6-16	351-352	/	_	
+6-17	352-357	innen	_	
+6-18	357-358	)	_	
+6-19	359-363	noch	_	
+6-20	364-367	und	_	
+6-21	368-370	am	_	
+6-22	371-380	wenigsten	_	
+6-23	381-384	für	_	
+6-24	385-388	die	_	
+6-25	389-398	Radfahrer	_	
+6-26	398-399	.	_	
+
+#Text=Man fühlt sich als Radfahrer vermeintlich auf der sicheren Seite, aber das Gegenteil ist der Fall: hier wird eine Fahrradstraße vorgegaukelt, die aber faktisch keine ist.
+7-1	400-403	Man	_	
+7-2	404-409	fühlt	_	
+7-3	410-414	sich	_	
+7-4	415-418	als	_	
+7-5	419-428	Radfahrer	_	
+7-6	429-441	vermeintlich	_	
+7-7	442-445	auf	_	
+7-8	446-449	der	_	
+7-9	450-458	sicheren	_	
+7-10	459-464	Seite	_	
+7-11	464-465	,	_	
+7-12	466-470	aber	_	
+7-13	471-474	das	_	
+7-14	475-484	Gegenteil	_	
+7-15	485-488	ist	_	
+7-16	489-492	der	_	
+7-17	493-497	Fall	_	
+7-18	497-498	:	_	
+7-19	499-503	hier	_	
+7-20	504-508	wird	_	
+7-21	509-513	eine	_	
+7-22	514-527	Fahrradstraße	_	
+7-23	528-540	vorgegaukelt	_	
+7-24	540-541	,	_	
+7-25	542-545	die	_	
+7-26	546-550	aber	_	
+7-27	551-559	faktisch	_	
+7-28	560-565	keine	_	
+7-29	566-569	ist	_	
+7-30	569-570	.	_	
+
+#Text=Denn der Verkehr läuft wie bisher - ohne besondere Rücksicht auf Radler.
+8-1	571-575	Denn	_	
+8-2	576-579	der	_	
+8-3	580-587	Verkehr	_	
+8-4	588-593	läuft	_	
+8-5	594-597	wie	_	
+8-6	598-604	bisher	_	
+8-7	605-606	-	_	
+8-8	607-611	ohne	_	
+8-9	612-621	besondere	_	
+8-10	622-631	Rücksicht	_	
+8-11	632-635	auf	_	
+8-12	636-642	Radler	_	
+8-13	642-643	.	_	
+
+#Text=Daher die Forderung: Fahrradstraßen für den motorisierten Verkehr komplett sperren!
+9-1	644-649	Daher	_	
+9-2	650-653	die	_	
+9-3	654-663	Forderung	_	
+9-4	663-664	:	_	
+9-5	665-679	Fahrradstraßen	_	
+9-6	680-683	für	_	
+9-7	684-687	den	_	
+9-8	688-701	motorisierten	_	
+9-9	702-709	Verkehr	_	
+9-10	710-718	komplett	_	
+9-11	719-726	sperren	_	
+9-12	726-727	!	_	
+
+#Text=Maximal für Anwohner freigeben.
+10-1	728-735	Maximal	_	
+10-2	736-739	für	_	
+10-3	740-748	Anwohner	_	
+10-4	749-758	freigeben	_	
+10-5	758-759	.	_	

@@ -1,0 +1,149 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=nicht Fisch, nicht Fleisch
+1-1	0-5	nicht	_	
+1-2	6-11	Fisch	_	
+1-3	11-12	,	_	
+1-4	13-18	nicht	_	
+1-5	19-26	Fleisch	_	
+
+#Text=Nach dem Bau des neuen Studentenwohnheim, sowie des Kreisels an der Kreuzung Schlesienstraße ist die Radverkehrsführung entlang der Oppelnerstraße absolut unklar.
+2-1	29-33	Nach	_	
+2-2	34-37	dem	_	
+2-3	38-41	Bau	_	
+2-4	42-45	des	_	
+2-5	46-51	neuen	_	
+2-6	52-69	Studentenwohnheim	_	
+2-7	69-70	,	_	
+2-8	71-76	sowie	_	
+2-9	77-80	des	_	
+2-10	81-89	Kreisels	*[7]	
+2-11	90-92	an	*[7]	
+2-12	93-96	der	*[7]	
+2-13	97-105	Kreuzung	*[7]	
+2-14	106-121	Schlesienstraße	*[7]	
+2-15	122-125	ist	_	
+2-16	126-129	die	_	
+2-17	130-148	Radverkehrsführung	_	
+2-18	149-156	entlang	*[8]	
+2-19	157-160	der	*[8]	
+2-20	161-175	Oppelnerstraße	*[8]	
+2-21	176-183	absolut	_	
+2-22	184-190	unklar	_	
+2-23	190-191	.	_	
+
+#Text=Ab dem Bunzlauer Weg auf dem GEHweg, ab der Einmündung Riesengebirgsstraße ???? kein Schild, keine Markierung.
+3-1	192-194	Ab	*[9]	
+3-2	195-198	dem	*[9]	
+3-3	199-208	Bunzlauer	*[9]	
+3-4	209-212	Weg	*[9]	
+3-5	213-216	auf	*[9]	
+3-6	217-220	dem	*[9]	
+3-7	221-227	GEHweg	*[9]	
+3-8	227-228	,	*[9]	
+3-9	229-231	ab	*[9]	
+3-10	232-235	der	*[9]	
+3-11	236-246	Einmündung	*[9]	
+3-12	247-266	Riesengebirgsstraße	*[9]	
+3-13	267-268	?	_	
+3-14	268-269	?	_	
+3-15	269-270	?	_	
+3-16	270-271	?	_	
+3-17	272-276	kein	_	
+3-18	277-283	Schild	_	
+3-19	283-284	,	_	
+3-20	285-290	keine	_	
+3-21	291-301	Markierung	_	
+3-22	301-302	.	_	
+
+#Text=Fährt man auf dem GEHweg weiter und kommt an den Kreisel ist keine Absenkung des GEHWegs zu erkennen so daß man den Schutzstreifen der kurz vor dem Kreisel beginnt erreichen kann.
+4-1	303-308	Fährt	_	
+4-2	309-312	man	_	
+4-3	313-316	auf	_	
+4-4	317-320	dem	_	
+4-5	321-327	GEHweg	_	
+4-6	328-334	weiter	_	
+4-7	335-338	und	_	
+4-8	339-344	kommt	_	
+4-9	345-347	an	_	
+4-10	348-351	den	_	
+4-11	352-359	Kreisel	_	
+4-12	360-363	ist	_	
+4-13	364-369	keine	_	
+4-14	370-379	Absenkung	_	
+4-15	380-383	des	_	
+4-16	384-391	GEHWegs	_	
+4-17	392-394	zu	_	
+4-18	395-403	erkennen	_	
+4-19	404-406	so	_	
+4-20	407-410	daß	_	
+4-21	411-414	man	_	
+4-22	415-418	den	_	
+4-23	419-433	Schutzstreifen	_	
+4-24	434-437	der	_	
+4-25	438-442	kurz	_	
+4-26	443-446	vor	_	
+4-27	447-450	dem	_	
+4-28	451-458	Kreisel	_	
+4-29	459-466	beginnt	_	
+4-30	467-476	erreichen	_	
+4-31	477-481	kann	_	
+4-32	481-482	.	_	
+
+#Text=Ab dem Kreisel ist dann Radfahren auf der Fahrbahn ausdrücklich erlaubt (GEHweg mit Radfahrer frei)
+5-1	483-485	Ab	_	
+5-2	486-489	dem	_	
+5-3	490-497	Kreisel	_	
+5-4	498-501	ist	_	
+5-5	502-506	dann	_	
+5-6	507-516	Radfahren	_	
+5-7	517-520	auf	_	
+5-8	521-524	der	_	
+5-9	525-533	Fahrbahn	_	
+5-10	534-546	ausdrücklich	_	
+5-11	547-554	erlaubt	_	
+5-12	555-556	(	_	
+5-13	556-562	GEHweg	_	
+5-14	563-566	mit	_	
+5-15	567-576	Radfahrer	_	
+5-16	577-581	frei	_	
+5-17	581-582	)	_	
+
+#Text=Da im Bereich Tannenbusch Mitte eh Tempo 30 gilt..... dann wäre es doch sinnvoll auf der Fahrbahn einen BREITEN Schutzstreifen bis zum Kreisel an der Schlesienstraße durchzuziehen.
+6-1	583-585	Da	_	
+6-2	586-588	im	_	
+6-3	589-596	Bereich	_	
+6-4	597-608	Tannenbusch	*	
+6-5	609-614	Mitte	_	
+6-6	615-617	eh	_	
+6-7	618-623	Tempo	_	
+6-8	624-626	30	_	
+6-9	627-631	gilt	_	
+6-10	631-632	.	_	
+6-11	632-633	.	_	
+6-12	633-634	.	_	
+6-13	634-635	.	_	
+6-14	635-636	.	_	
+6-15	637-641	dann	_	
+6-16	642-646	wäre	_	
+6-17	647-649	es	_	
+6-18	650-654	doch	_	
+6-19	655-663	sinnvoll	_	
+6-20	664-667	auf	_	
+6-21	668-671	der	_	
+6-22	672-680	Fahrbahn	_	
+6-23	681-686	einen	_	
+6-24	687-694	BREITEN	_	
+6-25	695-709	Schutzstreifen	_	
+6-26	710-713	bis	*[10]	
+6-27	714-717	zum	*[10]	
+6-28	718-725	Kreisel	*[10]	
+6-29	726-728	an	*[10]	
+6-30	729-732	der	*[10]	
+6-31	733-748	Schlesienstraße	*[10]	
+6-32	749-762	durchzuziehen	_	
+6-33	762-763	.	_	

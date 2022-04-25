@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beleuchtung errichten
+1-1	0-11	Beleuchtung	_	
+1-2	12-21	errichten	_	
+
+#Text=Zunächst einmal besten Dank, dass Sie in den Raddialog einsteigen.
+2-1	24-32	Zunächst	_	
+2-2	33-39	einmal	_	
+2-3	40-46	besten	_	
+2-4	47-51	Dank	_	
+2-5	51-52	,	_	
+2-6	53-57	dass	_	
+2-7	58-61	Sie	_	
+2-8	62-64	in	_	
+2-9	65-68	den	_	
+2-10	69-78	Raddialog	_	
+2-11	79-89	einsteigen	_	
+2-12	89-90	.	_	
+
+#Text=Der Streckenabschnitt Konrad-Adenauer-Damm bis zur ersten Einfahrt nach Ückesdorf (Zum Wingertsberg) ist nicht beleuchtet.
+3-1	91-94	Der	_	
+3-2	95-112	Streckenabschnitt	_	
+3-3	113-133	Konrad-Adenauer-Damm	*[6]	
+3-4	134-137	bis	*[6]	
+3-5	138-141	zur	*[6]	
+3-6	142-148	ersten	*[6]	
+3-7	149-157	Einfahrt	*[6]	
+3-8	158-162	nach	*[6]	
+3-9	163-172	Ückesdorf	*[6]	
+3-10	173-174	(	*[6]	
+3-11	174-177	Zum	*[6]	
+3-12	178-190	Wingertsberg	*[6]	
+3-13	190-191	)	_	
+3-14	192-195	ist	_	
+3-15	196-201	nicht	_	
+3-16	202-212	beleuchtet	_	
+3-17	212-213	.	_	
+
+#Text=In der dunklen Jahreszeit sowie bei regnerischem Wetter ist dieser Abschnitt für Radfahrer eine Herausforderung.
+4-1	214-216	In	_	
+4-2	217-220	der	_	
+4-3	221-228	dunklen	_	
+4-4	229-239	Jahreszeit	_	
+4-5	240-245	sowie	_	
+4-6	246-249	bei	_	
+4-7	250-262	regnerischem	_	
+4-8	263-269	Wetter	_	
+4-9	270-273	ist	_	
+4-10	274-280	dieser	_	
+4-11	281-290	Abschnitt	_	
+4-12	291-294	für	_	
+4-13	295-304	Radfahrer	_	
+4-14	305-309	eine	_	
+4-15	310-325	Herausforderung	_	
+4-16	325-326	.	_	
+
+#Text=Eine Beleuchtung durch Straßenlaternen dieses Streckenabschnittes würde für mehr Sicherheit sorgen.
+5-1	327-331	Eine	_	
+5-2	332-343	Beleuchtung	_	
+5-3	344-349	durch	_	
+5-4	350-365	Straßenlaternen	_	
+5-5	366-372	dieses	_	
+5-6	373-392	Streckenabschnittes	_	
+5-7	393-398	würde	_	
+5-8	399-402	für	_	
+5-9	403-407	mehr	_	
+5-10	408-418	Sicherheit	_	
+5-11	419-425	sorgen	_	
+5-12	425-426	.	_	

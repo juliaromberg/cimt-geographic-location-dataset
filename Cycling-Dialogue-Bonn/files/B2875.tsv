@@ -1,0 +1,106 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Grüner Blechpfeil Endenicher Straße
+1-1	0-6	Grüner	_	
+1-2	7-17	Blechpfeil	_	
+1-3	18-28	Endenicher	*[5]	
+1-4	29-35	Straße	*[5]	
+
+#Text=Viele Autofahrer wissen nicht, dass ein grüner Blechpfeil bei roter Ampel zum Anhalten verpflichtet, bevor sie in die (freie) Kreuzung einfahren dürfen.
+2-1	38-43	Viele	_	
+2-2	44-54	Autofahrer	_	
+2-3	55-61	wissen	_	
+2-4	62-67	nicht	_	
+2-5	67-68	,	_	
+2-6	69-73	dass	_	
+2-7	74-77	ein	_	
+2-8	78-84	grüner	_	
+2-9	85-95	Blechpfeil	_	
+2-10	96-99	bei	_	
+2-11	100-105	roter	_	
+2-12	106-111	Ampel	_	
+2-13	112-115	zum	_	
+2-14	116-124	Anhalten	_	
+2-15	125-137	verpflichtet	_	
+2-16	137-138	,	_	
+2-17	139-144	bevor	_	
+2-18	145-148	sie	_	
+2-19	149-151	in	_	
+2-20	152-155	die	_	
+2-21	156-157	(	_	
+2-22	157-162	freie	_	
+2-23	162-163	)	_	
+2-24	164-172	Kreuzung	_	
+2-25	173-182	einfahren	_	
+2-26	183-189	dürfen	_	
+2-27	189-190	.	_	
+
+#Text=Wenn die Radfahrer die Frongasse bei grün hinunterfahren, kommt es regelmäßig zu Schockmomenten, wenn Autos und auch Busse aus der der Endenicher Straße kommend über die rote Ampel fahren und erst kurz vor dem kreuzenden Radweg stoppen.
+3-1	191-195	Wenn	_	
+3-2	196-199	die	_	
+3-3	200-209	Radfahrer	_	
+3-4	210-213	die	*[6]	
+3-5	214-223	Frongasse	*[6]	
+3-6	224-227	bei	*[6]	
+3-7	228-232	grün	*[6]	
+3-8	233-247	hinunterfahren	*[6]	
+3-9	247-248	,	_	
+3-10	249-254	kommt	_	
+3-11	255-257	es	_	
+3-12	258-268	regelmäßig	_	
+3-13	269-271	zu	_	
+3-14	272-286	Schockmomenten	_	
+3-15	286-287	,	_	
+3-16	288-292	wenn	_	
+3-17	293-298	Autos	_	
+3-18	299-302	und	_	
+3-19	303-307	auch	_	
+3-20	308-313	Busse	_	
+3-21	314-317	aus	*[7]	
+3-22	318-321	der	*[7]	
+3-23	322-325	der	*[7]	
+3-24	326-336	Endenicher	*[7]	
+3-25	337-343	Straße	*[7]	
+3-26	344-351	kommend	*[7]	
+3-27	352-356	über	_	
+3-28	357-360	die	_	
+3-29	361-365	rote	_	
+3-30	366-371	Ampel	_	
+3-31	372-378	fahren	_	
+3-32	379-382	und	_	
+3-33	383-387	erst	_	
+3-34	388-392	kurz	_	
+3-35	393-396	vor	_	
+3-36	397-400	dem	_	
+3-37	401-411	kreuzenden	_	
+3-38	412-418	Radweg	_	
+3-39	419-426	stoppen	_	
+3-40	426-427	.	_	
+
+#Text=Der Blechpfeil ist nachvollziehbar an dieser Stelle der Endenicher Straße, aber durch das Verhalten der Autofahrer entsteht hier eine Gefahrenstelle.
+4-1	428-431	Der	_	
+4-2	432-442	Blechpfeil	_	
+4-3	443-446	ist	_	
+4-4	447-462	nachvollziehbar	_	
+4-5	463-465	an	_	
+4-6	466-472	dieser	_	
+4-7	473-479	Stelle	_	
+4-8	480-483	der	_	
+4-9	484-494	Endenicher	*[8]	
+4-10	495-501	Straße	*[8]	
+4-11	501-502	,	_	
+4-12	503-507	aber	_	
+4-13	508-513	durch	_	
+4-14	514-517	das	_	
+4-15	518-527	Verhalten	_	
+4-16	528-531	der	_	
+4-17	532-542	Autofahrer	_	
+4-18	543-551	entsteht	_	
+4-19	552-556	hier	_	
+4-20	557-561	eine	_	
+4-21	562-576	Gefahrenstelle	_	
+4-22	576-577	.	_	

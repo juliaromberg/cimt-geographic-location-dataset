@@ -1,0 +1,107 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Dixstr. und Rheindorferstraße verkehrsberuhigen
+1-1	0-6	Dixstr	*[6]	
+1-2	6-7	.	*[6]	
+1-3	8-11	und	*[6]	
+1-4	12-29	Rheindorferstraße	*[6]	
+1-5	30-47	verkehrsberuhigen	_	
+
+#Text=Um Ampeln zu sparen, fahren sehr viele Autofahrer durch die Wohngebiete von Schwarzrheindorf und das sehr oft (kommend von der Autobahn) mit deutlich überhöhter Geschwindigkeit.
+2-1	50-52	Um	_	
+2-2	53-59	Ampeln	_	
+2-3	60-62	zu	_	
+2-4	63-69	sparen	_	
+2-5	69-70	,	_	
+2-6	71-77	fahren	_	
+2-7	78-82	sehr	_	
+2-8	83-88	viele	_	
+2-9	89-99	Autofahrer	_	
+2-10	100-105	durch	_	
+2-11	106-109	die	*[7]	
+2-12	110-121	Wohngebiete	*[7]	
+2-13	122-125	von	*[7]	
+2-14	126-142	Schwarzrheindorf	*[7]	
+2-15	143-146	und	_	
+2-16	147-150	das	_	
+2-17	151-155	sehr	_	
+2-18	156-159	oft	_	
+2-19	160-161	(	_	
+2-20	161-168	kommend	_	
+2-21	169-172	von	_	
+2-22	173-176	der	_	
+2-23	177-185	Autobahn	_	
+2-24	185-186	)	_	
+2-25	187-190	mit	_	
+2-26	191-199	deutlich	_	
+2-27	200-210	überhöhter	_	
+2-28	211-226	Geschwindigkeit	_	
+2-29	226-227	.	_	
+
+#Text=Dies ist sowohl für Fahrradfahrer als auch für Fußgänger sehr gefährlich.
+3-1	228-232	Dies	_	
+3-2	233-236	ist	_	
+3-3	237-243	sowohl	_	
+3-4	244-247	für	_	
+3-5	248-261	Fahrradfahrer	_	
+3-6	262-265	als	_	
+3-7	266-270	auch	_	
+3-8	271-274	für	_	
+3-9	275-284	Fußgänger	_	
+3-10	285-289	sehr	_	
+3-11	290-300	gefährlich	_	
+3-12	300-301	.	_	
+
+#Text=Da die Tempo 30 Zone hier sogut wie nie kontrolliert wird, hält sich auch keiner dran.
+4-1	302-304	Da	_	
+4-2	305-308	die	_	
+4-3	309-314	Tempo	_	
+4-4	315-317	30	_	
+4-5	318-322	Zone	_	
+4-6	323-327	hier	_	
+4-7	328-333	sogut	_	
+4-8	334-337	wie	_	
+4-9	338-341	nie	_	
+4-10	342-354	kontrolliert	_	
+4-11	355-359	wird	_	
+4-12	359-360	,	_	
+4-13	361-365	hält	_	
+4-14	366-370	sich	_	
+4-15	371-375	auch	_	
+4-16	376-382	keiner	_	
+4-17	383-387	dran	_	
+4-18	387-388	.	_	
+
+#Text=Neben häufigeren Kontrollen insbesondere an der Arnold-von-Wied Schule braucht es verkersberuhigende bauliche Maßnahmen (Z.B. Schwellen) damit die Autos nicht mehr so schnell fahren können.
+5-1	389-394	Neben	_	
+5-2	395-405	häufigeren	_	
+5-3	406-416	Kontrollen	_	
+5-4	417-429	insbesondere	_	
+5-5	430-432	an	*[8]	
+5-6	433-436	der	*[8]	
+5-7	437-452	Arnold-von-Wied	*[8]	
+5-8	453-459	Schule	*[8]	
+5-9	460-467	braucht	_	
+5-10	468-470	es	_	
+5-11	471-489	verkersberuhigende	_	
+5-12	490-498	bauliche	_	
+5-13	499-508	Maßnahmen	_	
+5-14	509-510	(	_	
+5-15	510-513	Z.B	_	
+5-16	513-514	.	_	
+5-17	515-524	Schwellen	_	
+5-18	524-525	)	_	
+5-19	526-531	damit	_	
+5-20	532-535	die	_	
+5-21	536-541	Autos	_	
+5-22	542-547	nicht	_	
+5-23	548-552	mehr	_	
+5-24	553-555	so	_	
+5-25	556-563	schnell	_	
+5-26	564-570	fahren	_	
+5-27	571-577	können	_	
+5-28	577-578	.	_	

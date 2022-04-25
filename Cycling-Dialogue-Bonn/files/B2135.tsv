@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hermann-Wandersleb-Ring
+1-1	0-23	Hermann-Wandersleb-Ring	*	
+
+#Text=An dieser Stelle ist der Fußgängerweg für Radfahrer freigegeben, was an dieser Stelle durchaus sinnvoll ist.
+2-1	26-28	An	_	
+2-2	29-35	dieser	_	
+2-3	36-42	Stelle	_	
+2-4	43-46	ist	_	
+2-5	47-50	der	_	
+2-6	51-63	Fußgängerweg	_	
+2-7	64-67	für	_	
+2-8	68-77	Radfahrer	_	
+2-9	78-89	freigegeben	_	
+2-10	89-90	,	_	
+2-11	91-94	was	_	
+2-12	95-97	an	_	
+2-13	98-104	dieser	_	
+2-14	105-111	Stelle	_	
+2-15	112-120	durchaus	_	
+2-16	121-129	sinnvoll	_	
+2-17	130-133	ist	_	
+2-18	133-134	.	_	
+
+#Text=Allerdings muss der Weg hier deutlich verbreitert werden - 2m vom Messdorfer Feld abzuknapsen sollte eigentlich möglich sein.
+3-1	135-145	Allerdings	_	
+3-2	146-150	muss	_	
+3-3	151-154	der	_	
+3-4	155-158	Weg	_	
+3-5	159-163	hier	_	
+3-6	164-172	deutlich	_	
+3-7	173-184	verbreitert	_	
+3-8	185-191	werden	_	
+3-9	192-193	-	_	
+3-10	194-196	2m	_	
+3-11	197-200	vom	*[3]	
+3-12	201-211	Messdorfer	*[3]	
+3-13	212-216	Feld	*[3]	
+3-14	217-228	abzuknapsen	_	
+3-15	229-235	sollte	_	
+3-16	236-246	eigentlich	_	
+3-17	247-254	möglich	_	
+3-18	255-259	sein	_	
+3-19	259-260	.	_	

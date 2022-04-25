@@ -1,0 +1,46 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schmaler Radweg und freilaufende Rechtsabbieger
+1-1	0-8	Schmaler	_	
+1-2	9-15	Radweg	_	
+1-3	16-19	und	_	
+1-4	20-32	freilaufende	_	
+1-5	33-47	Rechtsabbieger	_	
+
+#Text=Die Kreuzung Nattermannallee/Venloer Straße sollte überholt werden, dabei sollte die Radverkehrsführung direkt und ebenerdig erfolgen, dabei verbreitert werden.
+2-1	50-53	Die	*[4]	
+2-2	54-62	Kreuzung	*[4]	
+2-3	63-78	Nattermannallee	*[4]	
+2-4	78-79	/	*[4]	
+2-5	79-86	Venloer	*[4]	
+2-6	87-93	Straße	*[4]	
+2-7	94-100	sollte	_	
+2-8	101-109	überholt	_	
+2-9	110-116	werden	_	
+2-10	116-117	,	_	
+2-11	118-123	dabei	_	
+2-12	124-130	sollte	_	
+2-13	131-134	die	_	
+2-14	135-153	Radverkehrsführung	_	
+2-15	154-160	direkt	_	
+2-16	161-164	und	_	
+2-17	165-174	ebenerdig	_	
+2-18	175-183	erfolgen	_	
+2-19	183-184	,	_	
+2-20	185-190	dabei	_	
+2-21	191-202	verbreitert	_	
+2-22	203-209	werden	_	
+2-23	209-210	.	_	
+
+#Text=Die freilaufenden Rechtsabbieger sind zu entfernen.
+3-1	211-214	Die	_	
+3-2	215-228	freilaufenden	_	
+3-3	229-243	Rechtsabbieger	_	
+3-4	244-248	sind	_	
+3-5	249-251	zu	_	
+3-6	252-261	entfernen	_	
+3-7	261-262	.	_	

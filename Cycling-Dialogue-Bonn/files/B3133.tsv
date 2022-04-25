@@ -1,0 +1,9 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+			_#T_SP=webanno.custom.Typ|Name			_			_			_#Text=Sinn des Schutzstreifens			
+1-1	0-4	Sinn	_1-2	5-8	des	_1-3	9-24	Schutzstreifens	_			_#Text=Im Berfusverkehr ist hier kein Durchkommen, sonst auch nicht.			
+2-1	27-29	Im	_2-2	30-43	Berfusverkehr	_2-3	44-47	ist	_2-4	48-52	hier	_2-5	53-57	kein	_2-6	58-69	Durchkommen	_2-7	69-70	,	_2-8	71-76	sonst	_2-9	77-81	auch	_2-10	82-87	nicht	_2-11	87-88	.	_			_#Text=Wenn man brav hinter den PKW wartet ist man mehrere Ampelphasen beschäftigt.			
+3-1	89-93	Wenn	_3-2	94-97	man	_3-3	98-102	brav	_3-4	103-109	hinter	_3-5	110-113	den	_3-6	114-117	PKW	_3-7	118-124	wartet	_3-8	125-128	ist	_3-9	129-132	man	_3-10	133-140	mehrere	_3-11	141-152	Ampelphasen	_3-12	153-164	beschäftigt	_3-13	164-165	.	_			_#Text=Wie wäre es, den Streifen für die Radfahrer an dieser Stelle baulich zu trennen, damit nicht mehr PKW auf dem Schutzstreifen die Radfahrer am Verkehrsfluss hindern?			
+4-1	166-169	Wie	_4-2	170-174	wäre	_4-3	175-177	es	_4-4	177-178	,	_4-5	179-182	den	_4-6	183-191	Streifen	_4-7	192-195	für	_4-8	196-199	die	_4-9	200-209	Radfahrer	_4-10	210-212	an	_4-11	213-219	dieser	_4-12	220-226	Stelle	_4-13	227-234	baulich	_4-14	235-237	zu	_4-15	238-245	trennen	_4-16	245-246	,	_4-17	247-252	damit	_4-18	253-258	nicht	_4-19	259-263	mehr	_4-20	264-267	PKW	_4-21	268-271	auf	_4-22	272-275	dem	_4-23	276-290	Schutzstreifen	_4-24	291-294	die	_4-25	295-304	Radfahrer	_4-26	305-307	am	_4-27	308-321	Verkehrsfluss	_4-28	322-329	hindern	_4-29	329-330	?	_

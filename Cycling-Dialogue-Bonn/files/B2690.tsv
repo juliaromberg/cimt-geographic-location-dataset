@@ -1,0 +1,71 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehrsabhängige Ampel
+1-1	0-17	Verkehrsabhängige	_	
+1-2	18-23	Ampel	_	
+
+#Text=Von der Stadt kommend hält man als Radfahrer eigentlich nicht direkt neben der Ampel, diese wird aber nur grün, wenn man drückt, weshalb dort öfter mal Leute stehen, die sich wundern, warum es nicht weitergeht.
+2-1	26-29	Von	*[4]	
+2-2	30-33	der	*[4]	
+2-3	34-39	Stadt	*[4]	
+2-4	40-47	kommend	*[4]	
+2-5	48-52	hält	_	
+2-6	53-56	man	_	
+2-7	57-60	als	_	
+2-8	61-70	Radfahrer	_	
+2-9	71-81	eigentlich	_	
+2-10	82-87	nicht	_	
+2-11	88-94	direkt	_	
+2-12	95-100	neben	_	
+2-13	101-104	der	_	
+2-14	105-110	Ampel	_	
+2-15	110-111	,	_	
+2-16	112-117	diese	_	
+2-17	118-122	wird	_	
+2-18	123-127	aber	_	
+2-19	128-131	nur	_	
+2-20	132-136	grün	_	
+2-21	136-137	,	_	
+2-22	138-142	wenn	_	
+2-23	143-146	man	_	
+2-24	147-153	drückt	_	
+2-25	153-154	,	_	
+2-26	155-162	weshalb	_	
+2-27	163-167	dort	_	
+2-28	168-173	öfter	_	
+2-29	174-177	mal	_	
+2-30	178-183	Leute	_	
+2-31	184-190	stehen	_	
+2-32	190-191	,	_	
+2-33	192-195	die	_	
+2-34	196-200	sich	_	
+2-35	201-208	wundern	_	
+2-36	208-209	,	_	
+2-37	210-215	warum	_	
+2-38	216-218	es	_	
+2-39	219-224	nicht	_	
+2-40	225-235	weitergeht	_	
+2-41	235-236	.	_	
+
+#Text=Vielleicht könnte die Ampel immer auf grün schalten, und nicht nur nach Betätigung der Taste?
+3-1	237-247	Vielleicht	_	
+3-2	248-254	könnte	_	
+3-3	255-258	die	_	
+3-4	259-264	Ampel	_	
+3-5	265-270	immer	_	
+3-6	271-274	auf	_	
+3-7	275-279	grün	_	
+3-8	280-288	schalten	_	
+3-9	288-289	,	_	
+3-10	290-293	und	_	
+3-11	294-299	nicht	_	
+3-12	300-303	nur	_	
+3-13	304-308	nach	_	
+3-14	309-319	Betätigung	_	
+3-15	320-323	der	_	
+3-16	324-329	Taste	_	
+3-17	329-330	?	_	

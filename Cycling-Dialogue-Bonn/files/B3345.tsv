@@ -1,0 +1,108 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kennzeichnung Radweg
+1-1	0-13	Kennzeichnung	_	
+1-2	14-20	Radweg	_	
+
+#Text=Wer mit dem Fahrrad aus dem Dreizehnmorgenweg kommt und nach links fahren möchte (was durch ein Schild im Dreizehnmorgenweg als möglicher Radweg ausgeschildert ist), findet auf der Godesberger Allee dann aber keinen Hinweis, dass der Radweg in beiden Richtigungen befahren werden darf und die Autofahrer, die von der B9 in den Dreizehnmorgenweg einbiegen auch nicht!
+2-1	23-26	Wer	_	
+2-2	27-30	mit	_	
+2-3	31-34	dem	_	
+2-4	35-42	Fahrrad	_	
+2-5	43-46	aus	*[5]	
+2-6	47-50	dem	*[5]	
+2-7	51-68	Dreizehnmorgenweg	*[5]	
+2-8	69-74	kommt	*[5]	
+2-9	75-78	und	*[5]	
+2-10	79-83	nach	*[5]	
+2-11	84-89	links	_	
+2-12	90-96	fahren	_	
+2-13	97-103	möchte	_	
+2-14	104-105	(	_	
+2-15	105-108	was	_	
+2-16	109-114	durch	_	
+2-17	115-118	ein	_	
+2-18	119-125	Schild	_	
+2-19	126-128	im	*[6]	
+2-20	129-146	Dreizehnmorgenweg	*[6]	
+2-21	147-150	als	_	
+2-22	151-160	möglicher	_	
+2-23	161-167	Radweg	_	
+2-24	168-182	ausgeschildert	_	
+2-25	183-186	ist	_	
+2-26	186-187	)	_	
+2-27	187-188	,	_	
+2-28	189-195	findet	_	
+2-29	196-199	auf	*[7]	
+2-30	200-203	der	*[7]	
+2-31	204-215	Godesberger	*[7]	
+2-32	216-221	Allee	*[7]	
+2-33	222-226	dann	_	
+2-34	227-231	aber	_	
+2-35	232-238	keinen	_	
+2-36	239-246	Hinweis	_	
+2-37	246-247	,	_	
+2-38	248-252	dass	_	
+2-39	253-256	der	_	
+2-40	257-263	Radweg	_	
+2-41	264-266	in	_	
+2-42	267-273	beiden	_	
+2-43	274-286	Richtigungen	_	
+2-44	287-295	befahren	_	
+2-45	296-302	werden	_	
+2-46	303-307	darf	_	
+2-47	308-311	und	_	
+2-48	312-315	die	_	
+2-49	316-326	Autofahrer	_	
+2-50	326-327	,	_	
+2-51	328-331	die	_	
+2-52	332-335	von	*[8]	
+2-53	336-339	der	*[8]	
+2-54	340-342	B9	*[8]	
+2-55	343-345	in	*[8]	
+2-56	346-349	den	*[8]	
+2-57	350-367	Dreizehnmorgenweg	*[8]	
+2-58	368-377	einbiegen	*[8]	
+2-59	378-382	auch	_	
+2-60	383-388	nicht	_	
+2-61	388-389	!	_	
+
+#Text=Ich hatte dort schon mehrer unangenehme Fast-Zusammenstöße mit abbiegendne Autos.
+3-1	390-393	Ich	_	
+3-2	394-399	hatte	_	
+3-3	400-404	dort	_	
+3-4	405-410	schon	_	
+3-5	411-417	mehrer	_	
+3-6	418-429	unangenehme	_	
+3-7	430-448	Fast-Zusammenstöße	_	
+3-8	449-452	mit	_	
+3-9	453-464	abbiegendne	_	
+3-10	465-470	Autos	_	
+3-11	470-471	.	_	
+
+#Text==> Bitte den Radweg, zumindest bis zur Ampel über die B9, als in beide Richtungen befahrbar kennzeichnen.
+4-1	472-473	=	_	
+4-2	473-474	>	_	
+4-3	475-480	Bitte	_	
+4-4	481-484	den	_	
+4-5	485-491	Radweg	_	
+4-6	491-492	,	_	
+4-7	493-502	zumindest	_	
+4-8	503-506	bis	_	
+4-9	507-510	zur	_	
+4-10	511-516	Ampel	_	
+4-11	517-521	über	*[9]	
+4-12	522-525	die	*[9]	
+4-13	526-528	B9	*[9]	
+4-14	528-529	,	_	
+4-15	530-533	als	_	
+4-16	534-536	in	_	
+4-17	537-542	beide	_	
+4-18	543-553	Richtungen	_	
+4-19	554-563	befahrbar	_	
+4-20	564-576	kennzeichnen	_	
+4-21	576-577	.	_	

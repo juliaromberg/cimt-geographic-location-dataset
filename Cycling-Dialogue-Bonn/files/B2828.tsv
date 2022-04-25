@@ -1,0 +1,14 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradparken
+1-1	0-13	Fahrradparken	_	
+
+#Text=KFZ-Stellplätze in Fahrradparkplätze umwandeln
+2-1	16-31	KFZ-Stellplätze	_	
+2-2	32-34	in	_	
+2-3	35-52	Fahrradparkplätze	_	
+2-4	53-62	umwandeln	_	

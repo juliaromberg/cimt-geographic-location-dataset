@@ -1,0 +1,114 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Baustellenschilder
+1-1	0-18	Baustellenschilder	_	
+
+#Text=Ist an dieser Stelle momentan nicht mehr aktuell, hat aber längere Zeit sehr genervt: Hinweisschilder für Autofahrer (komplett ohne Relevanz für Radfahrer) wurden hier auf dem Radweg aufgestellt.
+2-1	21-24	Ist	_	
+2-2	25-27	an	_	
+2-3	28-34	dieser	_	
+2-4	35-41	Stelle	_	
+2-5	42-50	momentan	_	
+2-6	51-56	nicht	_	
+2-7	57-61	mehr	_	
+2-8	62-69	aktuell	_	
+2-9	69-70	,	_	
+2-10	71-74	hat	_	
+2-11	75-79	aber	_	
+2-12	80-87	längere	_	
+2-13	88-92	Zeit	_	
+2-14	93-97	sehr	_	
+2-15	98-105	genervt	_	
+2-16	105-106	:	_	
+2-17	107-122	Hinweisschilder	_	
+2-18	123-126	für	_	
+2-19	127-137	Autofahrer	_	
+2-20	138-139	(	_	
+2-21	139-147	komplett	_	
+2-22	148-152	ohne	_	
+2-23	153-161	Relevanz	_	
+2-24	162-165	für	_	
+2-25	166-175	Radfahrer	_	
+2-26	175-176	)	_	
+2-27	177-183	wurden	_	
+2-28	184-188	hier	_	
+2-29	189-192	auf	_	
+2-30	193-196	dem	_	
+2-31	197-203	Radweg	_	
+2-32	204-215	aufgestellt	_	
+2-33	215-216	.	_	
+
+#Text=Die schwarzen, schweren Füße waren bei Dunkelheit noch gerade zu erahnen.
+3-1	217-220	Die	_	
+3-2	221-230	schwarzen	_	
+3-3	230-231	,	_	
+3-4	232-240	schweren	_	
+3-5	241-245	Füße	_	
+3-6	246-251	waren	_	
+3-7	252-255	bei	_	
+3-8	256-266	Dunkelheit	_	
+3-9	267-271	noch	_	
+3-10	272-278	gerade	_	
+3-11	279-281	zu	_	
+3-12	282-289	erahnen	_	
+3-13	289-290	.	_	
+
+#Text=So eine Behinderung des Radverkehrs gehört sich einfach nicht!
+4-1	291-293	So	_	
+4-2	294-298	eine	_	
+4-3	299-310	Behinderung	_	
+4-4	311-314	des	_	
+4-5	315-326	Radverkehrs	_	
+4-6	327-333	gehört	_	
+4-7	334-338	sich	_	
+4-8	339-346	einfach	_	
+4-9	347-352	nicht	_	
+4-10	352-353	!	_	
+
+#Text=Warum kann so etwas nicht auf die Fahrbahn für die Autos gestellt werden, wenn es ausschließlich die betrifft?
+5-1	354-359	Warum	_	
+5-2	360-364	kann	_	
+5-3	365-367	so	_	
+5-4	368-373	etwas	_	
+5-5	374-379	nicht	_	
+5-6	380-383	auf	_	
+5-7	384-387	die	_	
+5-8	388-396	Fahrbahn	_	
+5-9	397-400	für	_	
+5-10	401-404	die	_	
+5-11	405-410	Autos	_	
+5-12	411-419	gestellt	_	
+5-13	420-426	werden	_	
+5-14	426-427	,	_	
+5-15	428-432	wenn	_	
+5-16	433-435	es	_	
+5-17	436-450	ausschließlich	_	
+5-18	451-454	die	_	
+5-19	455-463	betrifft	_	
+5-20	463-464	?	_	
+
+#Text=(Antwort: das ist gefährlich, weil es ein potentielles Hindernis für das Auto darstellt...)
+6-1	465-466	(	_	
+6-2	466-473	Antwort	_	
+6-3	473-474	:	_	
+6-4	475-478	das	_	
+6-5	479-482	ist	_	
+6-6	483-493	gefährlich	_	
+6-7	493-494	,	_	
+6-8	495-499	weil	_	
+6-9	500-502	es	_	
+6-10	503-506	ein	_	
+6-11	507-519	potentielles	_	
+6-12	520-529	Hindernis	_	
+6-13	530-533	für	_	
+6-14	534-537	das	_	
+6-15	538-542	Auto	_	
+6-16	543-552	darstellt	_	
+6-17	552-553	.	_	
+6-18	553-554	.	_	
+6-19	554-555	.	_	
+6-20	555-556	)	_	

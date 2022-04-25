@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlende Radwegmarkierung
+1-1	0-8	Fehlende	_	
+1-2	9-25	Radwegmarkierung	_	
+
+#Text=Die Friesdorferstraße ist breit genug, um dort beidseitig einen Radweg zu markieren - und das sogar, ohne den Autoverkehr großartig zu beeinträchtigen.
+2-1	28-31	Die	*[3]	
+2-2	32-49	Friesdorferstraße	*[3]	
+2-3	50-53	ist	_	
+2-4	54-59	breit	_	
+2-5	60-65	genug	_	
+2-6	65-66	,	_	
+2-7	67-69	um	_	
+2-8	70-74	dort	_	
+2-9	75-85	beidseitig	_	
+2-10	86-91	einen	_	
+2-11	92-98	Radweg	_	
+2-12	99-101	zu	_	
+2-13	102-111	markieren	_	
+2-14	112-113	-	_	
+2-15	114-117	und	_	
+2-16	118-121	das	_	
+2-17	122-127	sogar	_	
+2-18	127-128	,	_	
+2-19	129-133	ohne	_	
+2-20	134-137	den	_	
+2-21	138-149	Autoverkehr	_	
+2-22	150-159	großartig	_	
+2-23	160-162	zu	_	
+2-24	163-178	beeinträchtigen	_	
+2-25	178-179	.	_	

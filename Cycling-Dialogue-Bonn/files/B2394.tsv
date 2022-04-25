@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Straßenzustand
+1-1	0-14	Straßenzustand	_	
+
+#Text=Die Rheindorfer Straße ist allgemein in recht schlechtem Zustand.
+2-1	17-20	Die	*[5]	
+2-2	21-32	Rheindorfer	*[5]	
+2-3	33-39	Straße	*[5]	
+2-4	40-43	ist	_	
+2-5	44-53	allgemein	_	
+2-6	54-56	in	_	
+2-7	57-62	recht	_	
+2-8	63-73	schlechtem	_	
+2-9	74-81	Zustand	_	
+2-10	81-82	.	_	
+
+#Text=Besonders dramatisch ist der Bereich zwischen Combahnstraße und KAP.
+3-1	83-92	Besonders	_	
+3-2	93-103	dramatisch	_	
+3-3	104-107	ist	_	
+3-4	108-111	der	_	
+3-5	112-119	Bereich	_	
+3-6	120-128	zwischen	*[6]	
+3-7	129-142	Combahnstraße	*[6]	
+3-8	143-146	und	*[6]	
+3-9	147-150	KAP	*[6]	
+3-10	150-151	.	_	
+
+#Text=Dort ist Radfahren eigentlich nur per Mountainbike möglich.
+4-1	152-156	Dort	_	
+4-2	157-160	ist	_	
+4-3	161-170	Radfahren	_	
+4-4	171-181	eigentlich	_	
+4-5	182-185	nur	_	
+4-6	186-189	per	_	
+4-7	190-202	Mountainbike	_	
+4-8	203-210	möglich	_	
+4-9	210-211	.	_	
+
+#Text=Jeder Verantwortliche der dort mal Rad fahren müsste würde umgehend für einen neuen Straßenbelag sorgen.
+5-1	212-217	Jeder	_	
+5-2	218-233	Verantwortliche	_	
+5-3	234-237	der	_	
+5-4	238-242	dort	_	
+5-5	243-246	mal	_	
+5-6	247-250	Rad	_	
+5-7	251-257	fahren	_	
+5-8	258-264	müsste	_	
+5-9	265-270	würde	_	
+5-10	271-279	umgehend	_	
+5-11	280-283	für	_	
+5-12	284-289	einen	_	
+5-13	290-295	neuen	_	
+5-14	296-308	Straßenbelag	_	
+5-15	309-315	sorgen	_	
+5-16	315-316	.	_	

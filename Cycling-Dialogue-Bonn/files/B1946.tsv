@@ -1,0 +1,25 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwege mangelhaft und zugeparkt
+1-1	0-7	Radwege	_	
+1-2	8-18	mangelhaft	_	
+1-3	19-22	und	_	
+1-4	23-32	zugeparkt	_	
+
+#Text=Die Radwege sind in schlechtem zustand und regelmässig durch parkende Autos versperrt
+2-1	35-38	Die	_	
+2-2	39-46	Radwege	_	
+2-3	47-51	sind	_	
+2-4	52-54	in	_	
+2-5	55-65	schlechtem	_	
+2-6	66-73	zustand	_	
+2-7	74-77	und	_	
+2-8	78-89	regelmässig	_	
+2-9	90-95	durch	_	
+2-10	96-104	parkende	_	
+2-11	105-110	Autos	_	
+2-12	111-120	versperrt	_	

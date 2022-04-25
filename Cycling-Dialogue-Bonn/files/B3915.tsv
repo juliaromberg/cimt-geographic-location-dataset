@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Busbucht verengt gemeinsamen Rad- /Gehweg
+1-1	0-8	Busbucht	_	
+1-2	9-16	verengt	_	
+1-3	17-28	gemeinsamen	_	
+1-4	29-32	Rad	_	
+1-5	32-33	-	_	
+1-6	34-35	/	_	
+1-7	35-41	Gehweg	_	
+
+#Text=An der Einmündung Siegburger Straße / Am Herrengarten engt die Busbucht den gemeinsamen Geh- / Radweg ein.
+2-1	44-46	An	*[4]	
+2-2	47-50	der	*[4]	
+2-3	51-61	Einmündung	*[4]	
+2-4	62-72	Siegburger	*[4]	
+2-5	73-79	Straße	*[4]	
+2-6	80-81	/	*[4]	
+2-7	82-84	Am	*[4]	
+2-8	85-97	Herrengarten	*[4]	
+2-9	98-102	engt	_	
+2-10	103-106	die	_	
+2-11	107-115	Busbucht	_	
+2-12	116-119	den	_	
+2-13	120-131	gemeinsamen	_	
+2-14	132-135	Geh	_	
+2-15	135-136	-	_	
+2-16	137-138	/	_	
+2-17	139-145	Radweg	_	
+2-18	146-149	ein	_	
+2-19	149-150	.	_	
+
+#Text=Umwandlung der Busbucht in ein Buskap und damit Verbreiterung des Rad- / Gehweges.
+3-1	151-161	Umwandlung	_	
+3-2	162-165	der	_	
+3-3	166-174	Busbucht	_	
+3-4	175-177	in	_	
+3-5	178-181	ein	_	
+3-6	182-188	Buskap	_	
+3-7	189-192	und	_	
+3-8	193-198	damit	_	
+3-9	199-212	Verbreiterung	_	
+3-10	213-216	des	_	
+3-11	217-220	Rad	_	
+3-12	220-221	-	_	
+3-13	222-223	/	_	
+3-14	224-232	Gehweges	_	
+3-15	232-233	.	_	

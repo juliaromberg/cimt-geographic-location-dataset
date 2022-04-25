@@ -1,0 +1,82 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rechts vor links
+1-1	0-6	Rechts	_	
+1-2	7-10	vor	_	
+1-3	11-16	links	_	
+
+#Text=Kreuzung Schumannstr. - Lessingstr. und Kreuzung Schumanstr. - Diezstr.
+2-1	19-27	Kreuzung	*[6]	
+2-2	28-39	Schumannstr	*[6]	
+2-3	39-40	.	*[6]	
+2-4	41-42	-	*[6]	
+2-5	43-53	Lessingstr	*[6]	
+2-6	53-54	.	*[6]	
+2-7	55-58	und	*[6]	
+2-8	59-67	Kreuzung	*[6]	
+2-9	68-78	Schumanstr	*[6]	
+2-10	78-79	.	*[6]	
+2-11	80-81	-	*[6]	
+2-12	82-89	Diezstr	*[6]	
+2-13	89-90	.	*[6]	
+
+#Text=Rechts vor links wird durch Autofahrer häufig mißachtet, Lebensgefahr für Radfahrer
+3-1	91-97	Rechts	_	
+3-2	98-101	vor	_	
+3-3	102-107	links	_	
+3-4	108-112	wird	_	
+3-5	113-118	durch	_	
+3-6	119-129	Autofahrer	_	
+3-7	130-136	häufig	_	
+3-8	137-146	mißachtet	_	
+3-9	146-147	,	_	
+3-10	148-160	Lebensgefahr	_	
+3-11	161-164	für	_	
+3-12	165-174	Radfahrer	_	
+
+#Text=Spezialfall Lessingstr.: Autofahrer beeilen sich bei gerade geöffneter Schranke über den Bahnübergang zu kommen um Wartezeiten zu vermeiden
+4-1	175-186	Spezialfall	_	
+4-2	187-197	Lessingstr	*	
+4-3	197-198	.	_	
+4-4	198-199	:	_	
+4-5	200-210	Autofahrer	_	
+4-6	211-218	beeilen	_	
+4-7	219-223	sich	_	
+4-8	224-227	bei	_	
+4-9	228-234	gerade	_	
+4-10	235-245	geöffneter	_	
+4-11	246-254	Schranke	_	
+4-12	255-259	über	_	
+4-13	260-263	den	_	
+4-14	264-276	Bahnübergang	_	
+4-15	277-279	zu	_	
+4-16	280-286	kommen	_	
+4-17	287-289	um	_	
+4-18	290-301	Wartezeiten	_	
+4-19	302-304	zu	_	
+4-20	305-314	vermeiden	_	
+
+#Text=einfachste Lösung: Schumannstr. als Vorfahrtsstraße ausweisen, Vorfahrtachten für Verkehrsteilnehmer aus der Lessingstr. und Diezstr.
+5-1	315-325	einfachste	_	
+5-2	326-332	Lösung	_	
+5-3	332-333	:	_	
+5-4	334-345	Schumannstr	*	
+5-5	345-346	.	_	
+5-6	347-350	als	_	
+5-7	351-366	Vorfahrtsstraße	_	
+5-8	367-376	ausweisen	_	
+5-9	376-377	,	_	
+5-10	378-392	Vorfahrtachten	_	
+5-11	393-396	für	_	
+5-12	397-415	Verkehrsteilnehmer	_	
+5-13	416-419	aus	*[7]	
+5-14	420-423	der	*[7]	
+5-15	424-434	Lessingstr	*[7]	
+5-16	434-435	.	*[7]	
+5-17	436-439	und	*[7]	
+5-18	440-447	Diezstr	*[7]	
+5-19	447-448	.	*[7]	

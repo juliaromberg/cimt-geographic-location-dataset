@@ -1,0 +1,221 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwege zugewuchert trotz mehrfacher Meldung an die Stadt
+1-1	0-7	Radwege	_	
+1-2	8-19	zugewuchert	_	
+1-3	20-25	trotz	_	
+1-4	26-36	mehrfacher	_	
+1-5	37-44	Meldung	_	
+1-6	45-47	an	_	
+1-7	48-51	die	_	
+1-8	52-57	Stadt	_	
+
+#Text=Der Radweg entlang der Bahnlinie in Oberkassel ab Bootshaus bis hinter das Bundeshäuschen ist bahnseitig sehr zugewuchert.
+2-1	60-63	Der	_	
+2-2	64-70	Radweg	_	
+2-3	71-78	entlang	*[11]	
+2-4	79-82	der	*[11]	
+2-5	83-92	Bahnlinie	*[11]	
+2-6	93-95	in	*[11]	
+2-7	96-106	Oberkassel	*[11]	
+2-8	107-109	ab	*[11]	
+2-9	110-119	Bootshaus	*[11]	
+2-10	120-123	bis	*[11]	
+2-11	124-130	hinter	*[11]	
+2-12	131-134	das	*[11]	
+2-13	135-149	Bundeshäuschen	*[11]	
+2-14	150-153	ist	_	
+2-15	154-164	bahnseitig	_	
+2-16	165-169	sehr	_	
+2-17	170-181	zugewuchert	_	
+2-18	181-182	.	_	
+
+#Text=Trotz zweifacher Aufforderung die Stadt kamen nur Rückmeldungen wie wir sind nicht zuständig bzw. auf weitere Nachfrage wir leiten an die Deutsche Bahn weiter.
+3-1	183-188	Trotz	_	
+3-2	189-199	zweifacher	_	
+3-3	200-212	Aufforderung	_	
+3-4	213-216	die	_	
+3-5	217-222	Stadt	_	
+3-6	223-228	kamen	_	
+3-7	229-232	nur	_	
+3-8	233-246	Rückmeldungen	_	
+3-9	247-250	wie	_	
+3-10	251-254	wir	_	
+3-11	255-259	sind	_	
+3-12	260-265	nicht	_	
+3-13	266-275	zuständig	_	
+3-14	276-279	bzw	_	
+3-15	279-280	.	_	
+3-16	281-284	auf	_	
+3-17	285-292	weitere	_	
+3-18	293-302	Nachfrage	_	
+3-19	303-306	wir	_	
+3-20	307-313	leiten	_	
+3-21	314-316	an	_	
+3-22	317-320	die	_	
+3-23	321-329	Deutsche	_	
+3-24	330-334	Bahn	_	
+3-25	335-341	weiter	_	
+3-26	341-342	.	_	
+
+#Text=Immerhin wurde auf der Rheinseite des Radwegs etwas gemäht, was mittlerweile wieder nach gewuchert ist.
+4-1	343-351	Immerhin	_	
+4-2	352-357	wurde	_	
+4-3	358-361	auf	_	
+4-4	362-365	der	_	
+4-5	366-376	Rheinseite	_	
+4-6	377-380	des	_	
+4-7	381-388	Radwegs	_	
+4-8	389-394	etwas	_	
+4-9	395-401	gemäht	_	
+4-10	401-402	,	_	
+4-11	403-406	was	_	
+4-12	407-419	mittlerweile	_	
+4-13	420-426	wieder	_	
+4-14	427-431	nach	_	
+4-15	432-441	gewuchert	_	
+4-16	442-445	ist	_	
+4-17	445-446	.	_	
+
+#Text=Auf der Schienenseite des Radwegs wurde zwar jetzt nach einigen Wochen endlich etwas getan, aber das eigentliche Problem, dass der Radweg selbst schon auf bis zu einem halben Meter Breite zugewachsen ist, was sich nicht durch ein bisschen mähen beseitigen lässt, ist nicht behoben.
+5-1	447-450	Auf	_	
+5-2	451-454	der	_	
+5-3	455-468	Schienenseite	_	
+5-4	469-472	des	_	
+5-5	473-480	Radwegs	_	
+5-6	481-486	wurde	_	
+5-7	487-491	zwar	_	
+5-8	492-497	jetzt	_	
+5-9	498-502	nach	_	
+5-10	503-510	einigen	_	
+5-11	511-517	Wochen	_	
+5-12	518-525	endlich	_	
+5-13	526-531	etwas	_	
+5-14	532-537	getan	_	
+5-15	537-538	,	_	
+5-16	539-543	aber	_	
+5-17	544-547	das	_	
+5-18	548-559	eigentliche	_	
+5-19	560-567	Problem	_	
+5-20	567-568	,	_	
+5-21	569-573	dass	_	
+5-22	574-577	der	_	
+5-23	578-584	Radweg	_	
+5-24	585-591	selbst	_	
+5-25	592-597	schon	_	
+5-26	598-601	auf	_	
+5-27	602-605	bis	_	
+5-28	606-608	zu	_	
+5-29	609-614	einem	_	
+5-30	615-621	halben	_	
+5-31	622-627	Meter	_	
+5-32	628-634	Breite	_	
+5-33	635-646	zugewachsen	_	
+5-34	647-650	ist	_	
+5-35	650-651	,	_	
+5-36	652-655	was	_	
+5-37	656-660	sich	_	
+5-38	661-666	nicht	_	
+5-39	667-672	durch	_	
+5-40	673-676	ein	_	
+5-41	677-685	bisschen	_	
+5-42	686-691	mähen	_	
+5-43	692-702	beseitigen	_	
+5-44	703-708	lässt	_	
+5-45	708-709	,	_	
+5-46	710-713	ist	_	
+5-47	714-719	nicht	_	
+5-48	720-727	behoben	_	
+5-49	727-728	.	_	
+
+#Text=Es wurde nur oberhalb der Mauer das Grünzeug abgemäht.
+6-1	729-731	Es	_	
+6-2	732-737	wurde	_	
+6-3	738-741	nur	_	
+6-4	742-750	oberhalb	_	
+6-5	751-754	der	_	
+6-6	755-760	Mauer	_	
+6-7	761-764	das	_	
+6-8	765-773	Grünzeug	_	
+6-9	774-782	abgemäht	_	
+6-10	782-783	.	_	
+
+#Text=Im Berufsverkehr ist hier jeden Morgen und Nachmittag sehr viel los und der Weg ist einfach durch das Grünzeug zu schmal geworden.
+7-1	784-786	Im	_	
+7-2	787-800	Berufsverkehr	_	
+7-3	801-804	ist	_	
+7-4	805-809	hier	_	
+7-5	810-815	jeden	_	
+7-6	816-822	Morgen	_	
+7-7	823-826	und	_	
+7-8	827-837	Nachmittag	_	
+7-9	838-842	sehr	_	
+7-10	843-847	viel	_	
+7-11	848-851	los	_	
+7-12	852-855	und	_	
+7-13	856-859	der	_	
+7-14	860-863	Weg	_	
+7-15	864-867	ist	_	
+7-16	868-875	einfach	_	
+7-17	876-881	durch	_	
+7-18	882-885	das	_	
+7-19	886-894	Grünzeug	_	
+7-20	895-897	zu	_	
+7-21	898-904	schmal	_	
+7-22	905-913	geworden	_	
+7-23	913-914	.	_	
+
+#Text=Auch mit Kindern hier zu fahren ist nicht einfach, da gerade mal 2 Radfahrer an einander knapp vorbei kommen.
+8-1	915-919	Auch	_	
+8-2	920-923	mit	_	
+8-3	924-931	Kindern	_	
+8-4	932-936	hier	_	
+8-5	937-939	zu	_	
+8-6	940-946	fahren	_	
+8-7	947-950	ist	_	
+8-8	951-956	nicht	_	
+8-9	957-964	einfach	_	
+8-10	964-965	,	_	
+8-11	966-968	da	_	
+8-12	969-975	gerade	_	
+8-13	976-979	mal	_	
+8-14	980-981	2	_	
+8-15	982-991	Radfahrer	_	
+8-16	992-994	an	_	
+8-17	995-1003	einander	_	
+8-18	1004-1009	knapp	_	
+8-19	1010-1016	vorbei	_	
+8-20	1017-1023	kommen	_	
+8-21	1023-1024	.	_	
+
+#Text=Es ist sehr ärgerlich, dass sich einfach nichts tut.
+9-1	1025-1027	Es	_	
+9-2	1028-1031	ist	_	
+9-3	1032-1036	sehr	_	
+9-4	1037-1046	ärgerlich	_	
+9-5	1046-1047	,	_	
+9-6	1048-1052	dass	_	
+9-7	1053-1057	sich	_	
+9-8	1058-1065	einfach	_	
+9-9	1066-1072	nichts	_	
+9-10	1073-1076	tut	_	
+9-11	1076-1077	.	_	
+
+#Text=So wird sicher nicht für das umsteigen vom Auto aufs Rad geworben!
+10-1	1078-1080	So	_	
+10-2	1081-1085	wird	_	
+10-3	1086-1092	sicher	_	
+10-4	1093-1098	nicht	_	
+10-5	1099-1102	für	_	
+10-6	1103-1106	das	_	
+10-7	1107-1116	umsteigen	_	
+10-8	1117-1120	vom	_	
+10-9	1121-1125	Auto	_	
+10-10	1126-1130	aufs	_	
+10-11	1131-1134	Rad	_	
+10-12	1135-1143	geworben	_	
+10-13	1143-1144	!	_	

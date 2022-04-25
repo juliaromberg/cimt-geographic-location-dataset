@@ -1,0 +1,99 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlende Warnhinweise auf Radfahrer, die auf den Rad- und Fußweg wechseln
+1-1	0-8	Fehlende	_	
+1-2	9-21	Warnhinweise	_	
+1-3	22-25	auf	_	
+1-4	26-35	Radfahrer	_	
+1-5	35-36	,	_	
+1-6	37-40	die	_	
+1-7	41-44	auf	_	
+1-8	45-48	den	_	
+1-9	49-52	Rad	_	
+1-10	52-53	-	_	
+1-11	54-57	und	_	
+1-12	58-64	Fußweg	_	
+1-13	65-73	wechseln	_	
+
+#Text=An der Kreuzung Haager Weg/An der Waldau sollten Autofahrer durch eine entsprechende Beschilderung aus Richtung Waldau oder eindrückliche Linienführung im Kreuzungsbereich auf den Wechsel von Radfahrern auf den Fuß- und Radweg aufmerksam gemacht werden.
+2-1	76-78	An	*[4]	
+2-2	79-82	der	*[4]	
+2-3	83-91	Kreuzung	*[4]	
+2-4	92-98	Haager	*[4]	
+2-5	99-102	Weg	*[4]	
+2-6	102-103	/	*[4]	
+2-7	103-105	An	*[4]	
+2-8	106-109	der	*[4]	
+2-9	110-116	Waldau	*[4]	
+2-10	117-124	sollten	_	
+2-11	125-135	Autofahrer	_	
+2-12	136-141	durch	_	
+2-13	142-146	eine	_	
+2-14	147-160	entsprechende	_	
+2-15	161-174	Beschilderung	_	
+2-16	175-178	aus	*[5]	
+2-17	179-187	Richtung	*[5]	
+2-18	188-194	Waldau	*[5]	
+2-19	195-199	oder	_	
+2-20	200-213	eindrückliche	_	
+2-21	214-227	Linienführung	_	
+2-22	228-230	im	_	
+2-23	231-247	Kreuzungsbereich	_	
+2-24	248-251	auf	_	
+2-25	252-255	den	_	
+2-26	256-263	Wechsel	_	
+2-27	264-267	von	_	
+2-28	268-278	Radfahrern	_	
+2-29	279-282	auf	_	
+2-30	283-286	den	_	
+2-31	287-290	Fuß	_	
+2-32	290-291	-	_	
+2-33	292-295	und	_	
+2-34	296-302	Radweg	_	
+2-35	303-313	aufmerksam	_	
+2-36	314-321	gemacht	_	
+2-37	322-328	werden	_	
+2-38	328-329	.	_	
+
+#Text=Häufig fahren die Autofahrer - zwecks besseren Überblicks - zu weit in den Kreuzungsbereich hinein und gefährden so Radfahrer, die einen Rechtsschlenker fahrern müssen, um über den abgesenkten Bordstein auf den Radweg zu gelangen.
+3-1	330-336	Häufig	_	
+3-2	337-343	fahren	_	
+3-3	344-347	die	_	
+3-4	348-358	Autofahrer	_	
+3-5	359-360	-	_	
+3-6	361-367	zwecks	_	
+3-7	368-376	besseren	_	
+3-8	377-387	Überblicks	_	
+3-9	388-389	-	_	
+3-10	390-392	zu	_	
+3-11	393-397	weit	_	
+3-12	398-400	in	_	
+3-13	401-404	den	_	
+3-14	405-421	Kreuzungsbereich	_	
+3-15	422-428	hinein	_	
+3-16	429-432	und	_	
+3-17	433-442	gefährden	_	
+3-18	443-445	so	_	
+3-19	446-455	Radfahrer	_	
+3-20	455-456	,	_	
+3-21	457-460	die	_	
+3-22	461-466	einen	_	
+3-23	467-482	Rechtsschlenker	_	
+3-24	483-490	fahrern	_	
+3-25	491-497	müssen	_	
+3-26	497-498	,	_	
+3-27	499-501	um	_	
+3-28	502-506	über	_	
+3-29	507-510	den	_	
+3-30	511-522	abgesenkten	_	
+3-31	523-532	Bordstein	_	
+3-32	533-536	auf	_	
+3-33	537-540	den	_	
+3-34	541-547	Radweg	_	
+3-35	548-550	zu	_	
+3-36	551-559	gelangen	_	
+3-37	559-560	.	_	

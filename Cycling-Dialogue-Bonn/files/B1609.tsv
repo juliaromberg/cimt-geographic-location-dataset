@@ -1,0 +1,130 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schutzstreifen völlig unzureichend
+1-1	0-14	Schutzstreifen	_	
+1-2	15-21	völlig	_	
+1-3	22-34	unzureichend	_	
+
+#Text=Der Schutzstreifen ist viel zu schmal, so dass man als Radfahrer permanent vom Autoverkehr bedrängt wird.
+2-1	37-40	Der	_	
+2-2	41-55	Schutzstreifen	_	
+2-3	56-59	ist	_	
+2-4	60-64	viel	_	
+2-5	65-67	zu	_	
+2-6	68-74	schmal	_	
+2-7	74-75	,	_	
+2-8	76-78	so	_	
+2-9	79-83	dass	_	
+2-10	84-87	man	_	
+2-11	88-91	als	_	
+2-12	92-101	Radfahrer	_	
+2-13	102-111	permanent	_	
+2-14	112-115	vom	_	
+2-15	116-127	Autoverkehr	_	
+2-16	128-136	bedrängt	_	
+2-17	137-141	wird	_	
+2-18	141-142	.	_	
+
+#Text=Schlimmer: Auf dem schmalen Streifen fährt man permanent im Öffnungsbereich der Autotüren - extrem unangenehm und gefährlich!
+3-1	143-152	Schlimmer	_	
+3-2	152-153	:	_	
+3-3	154-157	Auf	_	
+3-4	158-161	dem	_	
+3-5	162-170	schmalen	_	
+3-6	171-179	Streifen	_	
+3-7	180-185	fährt	_	
+3-8	186-189	man	_	
+3-9	190-199	permanent	_	
+3-10	200-202	im	_	
+3-11	203-218	Öffnungsbereich	_	
+3-12	219-222	der	_	
+3-13	223-232	Autotüren	_	
+3-14	233-234	-	_	
+3-15	235-241	extrem	_	
+3-16	242-252	unangenehm	_	
+3-17	253-256	und	_	
+3-18	257-267	gefährlich	_	
+3-19	267-268	!	_	
+
+#Text=Und hält man en notwendigen Sicherheitsabstand, verlässt man bereits den Schutzstreifen nach links und wird deshalb von Autofahrern bedrängt.
+4-1	269-272	Und	_	
+4-2	273-277	hält	_	
+4-3	278-281	man	_	
+4-4	282-284	en	_	
+4-5	285-296	notwendigen	_	
+4-6	297-315	Sicherheitsabstand	_	
+4-7	315-316	,	_	
+4-8	317-325	verlässt	_	
+4-9	326-329	man	_	
+4-10	330-337	bereits	_	
+4-11	338-341	den	_	
+4-12	342-356	Schutzstreifen	_	
+4-13	357-361	nach	_	
+4-14	362-367	links	_	
+4-15	368-371	und	_	
+4-16	372-376	wird	_	
+4-17	377-384	deshalb	_	
+4-18	385-388	von	_	
+4-19	389-400	Autofahrern	_	
+4-20	401-409	bedrängt	_	
+4-21	409-410	.	_	
+
+#Text=- Verbesserung: In West-Ost-Richtung einen ordentlich breiten Radfahrstreifen mit Sicherheitsabstand wegen der Autotüren schaffen, auf der anderen Straßenseite - teilweise bergab, d.h. man ist als Radfahrer relativ flott - auf den Streifen verzichten.
+5-1	411-412	-	_	
+5-2	413-425	Verbesserung	_	
+5-3	425-426	:	_	
+5-4	427-429	In	_	
+5-5	430-447	West-Ost-Richtung	_	
+5-6	448-453	einen	_	
+5-7	454-464	ordentlich	_	
+5-8	465-472	breiten	_	
+5-9	473-488	Radfahrstreifen	_	
+5-10	489-492	mit	_	
+5-11	493-511	Sicherheitsabstand	_	
+5-12	512-517	wegen	_	
+5-13	518-521	der	_	
+5-14	522-531	Autotüren	_	
+5-15	532-540	schaffen	_	
+5-16	540-541	,	_	
+5-17	542-545	auf	_	
+5-18	546-549	der	_	
+5-19	550-557	anderen	_	
+5-20	558-570	Straßenseite	_	
+5-21	571-572	-	_	
+5-22	573-582	teilweise	_	
+5-23	583-589	bergab	_	
+5-24	589-590	,	_	
+5-25	591-594	d.h	_	
+5-26	594-595	.	_	
+5-27	596-599	man	_	
+5-28	600-603	ist	_	
+5-29	604-607	als	_	
+5-30	608-617	Radfahrer	_	
+5-31	618-625	relativ	_	
+5-32	626-631	flott	_	
+5-33	632-633	-	_	
+5-34	634-637	auf	_	
+5-35	638-641	den	_	
+5-36	642-650	Streifen	_	
+5-37	651-661	verzichten	_	
+5-38	661-662	.	_	
+
+#Text=Auch wenn das nicht optimal ist - aus Sicherheitsgründen ist es wohl besser.
+6-1	663-667	Auch	_	
+6-2	668-672	wenn	_	
+6-3	673-676	das	_	
+6-4	677-682	nicht	_	
+6-5	683-690	optimal	_	
+6-6	691-694	ist	_	
+6-7	695-696	-	_	
+6-8	697-700	aus	_	
+6-9	701-719	Sicherheitsgründen	_	
+6-10	720-723	ist	_	
+6-11	724-726	es	_	
+6-12	727-731	wohl	_	
+6-13	732-738	besser	_	
+6-14	738-739	.	_	

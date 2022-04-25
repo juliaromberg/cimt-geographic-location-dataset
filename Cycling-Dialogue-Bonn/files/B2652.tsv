@@ -1,0 +1,162 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Benutzung auch für High-Speed-E-Bikes erlauben.
+1-1	0-9	Benutzung	_	
+1-2	10-14	auch	_	
+1-3	15-18	für	_	
+1-4	19-37	High-Speed-E-Bikes	_	
+1-5	38-46	erlauben	_	
+1-6	46-47	.	_	
+
+#Text=Hallo Zusammen, meine tägliche Strecke mit dem E-Bike beginnt in Holzlar und endet in Mehlem, ca. 13 km.
+2-1	50-55	Hallo	_	
+2-2	56-64	Zusammen	_	
+2-3	64-65	,	_	
+2-4	66-71	meine	_	
+2-5	72-80	tägliche	_	
+2-6	81-88	Strecke	_	
+2-7	89-92	mit	_	
+2-8	93-96	dem	_	
+2-9	97-103	E-Bike	_	
+2-10	104-111	beginnt	_	
+2-11	112-114	in	_	
+2-12	115-122	Holzlar	*[9]	
+2-13	123-126	und	*[9]	
+2-14	127-132	endet	*[9]	
+2-15	133-135	in	*[9]	
+2-16	136-142	Mehlem	*[9]	
+2-17	142-143	,	_	
+2-18	144-146	ca	_	
+2-19	146-147	.	_	
+2-20	148-150	13	_	
+2-21	151-153	km	_	
+2-22	153-154	.	_	
+
+#Text=Um hier eine Pkw-ähnliche Fahrtzeit zu erreichen, fahre ich mit einem High-Speed-E-Bike, dass bis 45 km/h unterstützt.
+3-1	155-157	Um	_	
+3-2	158-162	hier	_	
+3-3	163-167	eine	_	
+3-4	168-180	Pkw-ähnliche	_	
+3-5	181-190	Fahrtzeit	_	
+3-6	191-193	zu	_	
+3-7	194-203	erreichen	_	
+3-8	203-204	,	_	
+3-9	205-210	fahre	_	
+3-10	211-214	ich	_	
+3-11	215-218	mit	_	
+3-12	219-224	einem	_	
+3-13	225-242	High-Speed-E-Bike	_	
+3-14	242-243	,	_	
+3-15	244-248	dass	_	
+3-16	249-252	bis	_	
+3-17	253-255	45	_	
+3-18	256-258	km	_	
+3-19	258-259	/	_	
+3-20	259-260	h	_	
+3-21	261-272	unterstützt	_	
+3-22	272-273	.	_	
+
+#Text=Diese hohe Unterstützung ist notwendig, um eine Durchschnittsgeschwindigkeit von 25 km/h zu erreichen und dabei nicht zu sehr zu schwitzen.
+4-1	274-279	Diese	_	
+4-2	280-284	hohe	_	
+4-3	285-298	Unterstützung	_	
+4-4	299-302	ist	_	
+4-5	303-312	notwendig	_	
+4-6	312-313	,	_	
+4-7	314-316	um	_	
+4-8	317-321	eine	_	
+4-9	322-350	Durchschnittsgeschwindigkeit	_	
+4-10	351-354	von	_	
+4-11	355-357	25	_	
+4-12	358-360	km	_	
+4-13	360-361	/	_	
+4-14	361-362	h	_	
+4-15	363-365	zu	_	
+4-16	366-375	erreichen	_	
+4-17	376-379	und	_	
+4-18	380-385	dabei	_	
+4-19	386-391	nicht	_	
+4-20	392-394	zu	_	
+4-21	395-399	sehr	_	
+4-22	400-402	zu	_	
+4-23	403-412	schwitzen	_	
+4-24	412-413	.	_	
+
+#Text=Nun ist ein solches Fahrrad am Versicherungskennzeichen zu erkennen und man befindet sich in einer rechtlichen Grauzone, wenn man damit die Rheinaue und das Von-Sanst-Ufer befährt.
+5-1	414-417	Nun	_	
+5-2	418-421	ist	_	
+5-3	422-425	ein	_	
+5-4	426-433	solches	_	
+5-5	434-441	Fahrrad	_	
+5-6	442-444	am	_	
+5-7	445-469	Versicherungskennzeichen	_	
+5-8	470-472	zu	_	
+5-9	473-481	erkennen	_	
+5-10	482-485	und	_	
+5-11	486-489	man	_	
+5-12	490-498	befindet	_	
+5-13	499-503	sich	_	
+5-14	504-506	in	_	
+5-15	507-512	einer	_	
+5-16	513-524	rechtlichen	_	
+5-17	525-533	Grauzone	_	
+5-18	533-534	,	_	
+5-19	535-539	wenn	_	
+5-20	540-543	man	_	
+5-21	544-549	damit	_	
+5-22	550-553	die	*[10]	
+5-23	554-562	Rheinaue	*[10]	
+5-24	563-566	und	*[10]	
+5-25	567-570	das	*[10]	
+5-26	571-585	Von-Sanst-Ufer	*[10]	
+5-27	586-593	befährt	*[10]	
+5-28	593-594	.	_	
+
+#Text=Hiermit schlage ich vor, dass die Benutzung der genannten Strecken auch ausdrücklich für High-Speed-E-Bikes erlaubt wird.
+6-1	595-602	Hiermit	_	
+6-2	603-610	schlage	_	
+6-3	611-614	ich	_	
+6-4	615-618	vor	_	
+6-5	618-619	,	_	
+6-6	620-624	dass	_	
+6-7	625-628	die	_	
+6-8	629-638	Benutzung	_	
+6-9	639-642	der	_	
+6-10	643-652	genannten	_	
+6-11	653-661	Strecken	_	
+6-12	662-666	auch	_	
+6-13	667-679	ausdrücklich	_	
+6-14	680-683	für	_	
+6-15	684-702	High-Speed-E-Bikes	_	
+6-16	703-710	erlaubt	_	
+6-17	711-715	wird	_	
+6-18	715-716	.	_	
+
+#Text=Natürlich muss man angemessen und vorausschauend fahren!
+7-1	717-726	Natürlich	_	
+7-2	727-731	muss	_	
+7-3	732-735	man	_	
+7-4	736-746	angemessen	_	
+7-5	747-750	und	_	
+7-6	751-765	vorausschauend	_	
+7-7	766-772	fahren	_	
+7-8	772-773	!	_	
+
+#Text=Ohne solche Maßnahmen wird der Stau auf der Südbrücke immer weiter zunehmen!
+8-1	774-778	Ohne	_	
+8-2	779-785	solche	_	
+8-3	786-795	Maßnahmen	_	
+8-4	796-800	wird	_	
+8-5	801-804	der	_	
+8-6	805-809	Stau	_	
+8-7	810-813	auf	*[11]	
+8-8	814-817	der	*[11]	
+8-9	818-827	Südbrücke	*[11]	
+8-10	828-833	immer	_	
+8-11	834-840	weiter	_	
+8-12	841-849	zunehmen	_	
+8-13	849-850	!	_	

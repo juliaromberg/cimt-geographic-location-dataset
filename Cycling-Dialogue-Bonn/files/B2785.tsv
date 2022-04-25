@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstellplätze
+1-1	0-18	Fahrradstellplätze	_	
+
+#Text=Statt der Beschilderung Keine Fahrräder abstellen sollten hier Fahrradstellplätze geschaffen werden.
+2-1	21-26	Statt	_	
+2-2	27-30	der	_	
+2-3	31-44	Beschilderung	_	
+2-4	45-50	Keine	_	
+2-5	51-60	Fahrräder	_	
+2-6	61-70	abstellen	_	
+2-7	71-78	sollten	_	
+2-8	79-83	hier	_	
+2-9	84-102	Fahrradstellplätze	_	
+2-10	103-113	geschaffen	_	
+2-11	114-120	werden	_	
+2-12	120-121	.	_	
+
+#Text=Ebenso zahlreiche mehr und funktional gut ausgestattete Parkmöglichkeiten für Fahrräder auf dem Münsterplatz.
+3-1	122-128	Ebenso	_	
+3-2	129-139	zahlreiche	_	
+3-3	140-144	mehr	_	
+3-4	145-148	und	_	
+3-5	149-159	funktional	_	
+3-6	160-163	gut	_	
+3-7	164-177	ausgestattete	_	
+3-8	178-195	Parkmöglichkeiten	_	
+3-9	196-199	für	_	
+3-10	200-209	Fahrräder	_	
+3-11	210-213	auf	*[4]	
+3-12	214-217	dem	*[4]	
+3-13	218-230	Münsterplatz	*[4]	
+3-14	230-231	.	_	
+
+#Text=Und am besten in jeder Straße des Fußgängerzonenbereichs.
+4-1	232-235	Und	_	
+4-2	236-238	am	_	
+4-3	239-245	besten	_	
+4-4	246-248	in	_	
+4-5	249-254	jeder	_	
+4-6	255-261	Straße	_	
+4-7	262-265	des	_	
+4-8	266-288	Fußgängerzonenbereichs	_	
+4-9	288-289	.	_	

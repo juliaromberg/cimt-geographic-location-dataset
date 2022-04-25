@@ -1,0 +1,50 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schmaler Radweg in schlechtem Zustand
+1-1	0-8	Schmaler	_	
+1-2	9-15	Radweg	_	
+1-3	16-18	in	_	
+1-4	19-29	schlechtem	_	
+1-5	30-37	Zustand	_	
+
+#Text=Dieser Bereich ist sowohl von Radfahrern als auch Fußgängern/ Joggern viel benutzt.
+2-1	40-46	Dieser	_	
+2-2	47-54	Bereich	_	
+2-3	55-58	ist	_	
+2-4	59-65	sowohl	_	
+2-5	66-69	von	_	
+2-6	70-80	Radfahrern	_	
+2-7	81-84	als	_	
+2-8	85-89	auch	_	
+2-9	90-100	Fußgängern	_	
+2-10	100-101	/	_	
+2-11	102-109	Joggern	_	
+2-12	110-114	viel	_	
+2-13	115-122	benutzt	_	
+2-14	122-123	.	_	
+
+#Text=Fahrradweg ist viel zu schmal und in schlechtem Zustand für diese Auslastung (siehe Trampelpfad neben dem eigentlichen Radweg)
+3-1	124-134	Fahrradweg	_	
+3-2	135-138	ist	_	
+3-3	139-143	viel	_	
+3-4	144-146	zu	_	
+3-5	147-153	schmal	_	
+3-6	154-157	und	_	
+3-7	158-160	in	_	
+3-8	161-171	schlechtem	_	
+3-9	172-179	Zustand	_	
+3-10	180-183	für	_	
+3-11	184-189	diese	_	
+3-12	190-200	Auslastung	_	
+3-13	201-202	(	_	
+3-14	202-207	siehe	_	
+3-15	208-219	Trampelpfad	_	
+3-16	220-225	neben	_	
+3-17	226-229	dem	_	
+3-18	230-242	eigentlichen	_	
+3-19	243-249	Radweg	_	
+3-20	249-250	)	_	

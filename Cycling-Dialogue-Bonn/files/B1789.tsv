@@ -1,0 +1,214 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ein schmaler Grat
+1-1	0-3	Ein	_	
+1-2	4-12	schmaler	_	
+1-3	13-17	Grat	_	
+
+#Text=Sowohl für Autofahrer, wie auch für Fahrradfahrer, ist das Entgegenkommen an dieser Stelle ein riskantes Spiel.
+2-1	20-26	Sowohl	_	
+2-2	27-30	für	_	
+2-3	31-41	Autofahrer	_	
+2-4	41-42	,	_	
+2-5	43-46	wie	_	
+2-6	47-51	auch	_	
+2-7	52-55	für	_	
+2-8	56-69	Fahrradfahrer	_	
+2-9	69-70	,	_	
+2-10	71-74	ist	_	
+2-11	75-78	das	_	
+2-12	79-93	Entgegenkommen	_	
+2-13	94-96	an	_	
+2-14	97-103	dieser	_	
+2-15	104-110	Stelle	_	
+2-16	111-114	ein	_	
+2-17	115-124	riskantes	_	
+2-18	125-130	Spiel	_	
+2-19	130-131	.	_	
+
+#Text=Die richtige Bucht zwischen den Laternenmasten zu finden, an der ein Vorbeikommen schadlos möglich ist, ist für beide Seiten eine Herausforderung.
+3-1	132-135	Die	_	
+3-2	136-144	richtige	_	
+3-3	145-150	Bucht	_	
+3-4	151-159	zwischen	_	
+3-5	160-163	den	_	
+3-6	164-178	Laternenmasten	_	
+3-7	179-181	zu	_	
+3-8	182-188	finden	_	
+3-9	188-189	,	_	
+3-10	190-192	an	_	
+3-11	193-196	der	_	
+3-12	197-200	ein	_	
+3-13	201-213	Vorbeikommen	_	
+3-14	214-222	schadlos	_	
+3-15	223-230	möglich	_	
+3-16	231-234	ist	_	
+3-17	234-235	,	_	
+3-18	236-239	ist	_	
+3-19	240-243	für	_	
+3-20	244-249	beide	_	
+3-21	250-256	Seiten	_	
+3-22	257-261	eine	_	
+3-23	262-277	Herausforderung	_	
+3-24	277-278	.	_	
+
+#Text=Die generelle Enge (2,50m?) sowie die schöne Pflasterung/Bordsteinkante tun ihr übriges.
+4-1	279-282	Die	_	
+4-2	283-292	generelle	_	
+4-3	293-297	Enge	_	
+4-4	298-299	(	_	
+4-5	299-304	2,50m	_	
+4-6	304-305	?	_	
+4-7	305-306	)	_	
+4-8	307-312	sowie	_	
+4-9	313-316	die	_	
+4-10	317-323	schöne	_	
+4-11	324-335	Pflasterung	_	
+4-12	335-336	/	_	
+4-13	336-350	Bordsteinkante	_	
+4-14	351-354	tun	_	
+4-15	355-358	ihr	_	
+4-16	359-366	übriges	_	
+4-17	366-367	.	_	
+
+#Text=Verbesserungsvorschläge:
+5-1	368-391	Verbesserungsvorschläge	_	
+5-2	391-392	:	_	
+
+#Text=1. Auf der linken Seite der Fahrbahn hätte man für die Fahrradfahrer von der Abflussrinne absehen müssen.
+6-1	393-394	1	_	
+6-2	394-395	.	_	
+6-3	396-399	Auf	_	
+6-4	400-403	der	_	
+6-5	404-410	linken	_	
+6-6	411-416	Seite	_	
+6-7	417-420	der	_	
+6-8	421-429	Fahrbahn	_	
+6-9	430-435	hätte	_	
+6-10	436-439	man	_	
+6-11	440-443	für	_	
+6-12	444-447	die	_	
+6-13	448-461	Fahrradfahrer	_	
+6-14	462-465	von	_	
+6-15	466-469	der	_	
+6-16	470-482	Abflussrinne	_	
+6-17	483-490	absehen	_	
+6-18	491-497	müssen	_	
+6-19	497-498	.	_	
+
+#Text=Bei (notwendiger) langsamer Fahrt machen Belag- und Höhenunterschiede es noch schwieriger, die Spur/Balance zu halten.
+7-1	499-502	Bei	_	
+7-2	503-504	(	_	
+7-3	504-515	notwendiger	_	
+7-4	515-516	)	_	
+7-5	517-526	langsamer	_	
+7-6	527-532	Fahrt	_	
+7-7	533-539	machen	_	
+7-8	540-545	Belag	_	
+7-9	545-546	-	_	
+7-10	547-550	und	_	
+7-11	551-568	Höhenunterschiede	_	
+7-12	569-571	es	_	
+7-13	572-576	noch	_	
+7-14	577-588	schwieriger	_	
+7-15	588-589	,	_	
+7-16	590-593	die	_	
+7-17	594-598	Spur	_	
+7-18	598-599	/	_	
+7-19	599-606	Balance	_	
+7-20	607-609	zu	_	
+7-21	610-616	halten	_	
+7-22	616-617	.	_	
+
+#Text=Und selbst niedrige Bordsteine werden dann zur Gefahrenquelle.
+8-1	618-621	Und	_	
+8-2	622-628	selbst	_	
+8-3	629-637	niedrige	_	
+8-4	638-648	Bordsteine	_	
+8-5	649-655	werden	_	
+8-6	656-660	dann	_	
+8-7	661-664	zur	_	
+8-8	665-679	Gefahrenquelle	_	
+8-9	679-680	.	_	
+
+#Text=Nicht hübsch, aber eine schnelle Idee: Einen Asphaltstreifen in den Buchten verlegen, um Fahrradfahren das kontrollierte Langsamfahren zu ermöglichen.
+9-1	681-686	Nicht	_	
+9-2	687-693	hübsch	_	
+9-3	693-694	,	_	
+9-4	695-699	aber	_	
+9-5	700-704	eine	_	
+9-6	705-713	schnelle	_	
+9-7	714-718	Idee	_	
+9-8	718-719	:	_	
+9-9	720-725	Einen	_	
+9-10	726-741	Asphaltstreifen	_	
+9-11	742-744	in	_	
+9-12	745-748	den	_	
+9-13	749-756	Buchten	_	
+9-14	757-765	verlegen	_	
+9-15	765-766	,	_	
+9-16	767-769	um	_	
+9-17	770-783	Fahrradfahren	_	
+9-18	784-787	das	_	
+9-19	788-801	kontrollierte	_	
+9-20	802-815	Langsamfahren	_	
+9-21	816-818	zu	_	
+9-22	819-830	ermöglichen	_	
+9-23	830-831	.	_	
+
+#Text=2. Wäre es möglich, Alternativen zu den stehenden Laternenmasten zu suchen - wo der Platz schon begrenzt ist?
+10-1	832-833	2	_	
+10-2	833-834	.	_	
+10-3	835-839	Wäre	_	
+10-4	840-842	es	_	
+10-5	843-850	möglich	_	
+10-6	850-851	,	_	
+10-7	852-864	Alternativen	_	
+10-8	865-867	zu	_	
+10-9	868-871	den	_	
+10-10	872-881	stehenden	_	
+10-11	882-896	Laternenmasten	_	
+10-12	897-899	zu	_	
+10-13	900-906	suchen	_	
+10-14	907-908	-	_	
+10-15	909-911	wo	_	
+10-16	912-915	der	_	
+10-17	916-921	Platz	_	
+10-18	922-927	schon	_	
+10-19	928-936	begrenzt	_	
+10-20	937-940	ist	_	
+10-21	940-941	?	_	
+
+#Text=Hängende, in den Boden eingefasste oder andere Systeme sind sicherlich auf dem Markt erhältlich.
+11-1	942-950	Hängende	_	
+11-2	950-951	,	_	
+11-3	952-954	in	_	
+11-4	955-958	den	_	
+11-5	959-964	Boden	_	
+11-6	965-976	eingefasste	_	
+11-7	977-981	oder	_	
+11-8	982-988	andere	_	
+11-9	989-996	Systeme	_	
+11-10	997-1001	sind	_	
+11-11	1002-1012	sicherlich	_	
+11-12	1013-1016	auf	_	
+11-13	1017-1020	dem	_	
+11-14	1021-1026	Markt	_	
+11-15	1027-1037	erhältlich	_	
+11-16	1037-1038	.	_	
+
+#Text=Dann wäre etwas mehr Raum für den Verkehr gewonnen.
+12-1	1039-1043	Dann	_	
+12-2	1044-1048	wäre	_	
+12-3	1049-1054	etwas	_	
+12-4	1055-1059	mehr	_	
+12-5	1060-1064	Raum	_	
+12-6	1065-1068	für	_	
+12-7	1069-1072	den	_	
+12-8	1073-1080	Verkehr	_	
+12-9	1081-1089	gewonnen	_	
+12-10	1089-1090	.	_	

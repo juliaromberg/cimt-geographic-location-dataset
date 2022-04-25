@@ -1,0 +1,33 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Abstellanlagen fehlen
+1-1	0-14	Abstellanlagen	_	
+1-2	15-21	fehlen	_	
+
+#Text=Im erweiterten Kreuzungsbereich fehlen Abstellanlagen mit Anschließmöglichkeit (Bügel).
+2-1	24-26	Im	_	
+2-2	27-38	erweiterten	_	
+2-3	39-55	Kreuzungsbereich	_	
+2-4	56-62	fehlen	_	
+2-5	63-77	Abstellanlagen	_	
+2-6	78-81	mit	_	
+2-7	82-102	Anschließmöglichkeit	_	
+2-8	103-104	(	_	
+2-9	104-109	Bügel	_	
+2-10	109-110	)	_	
+2-11	110-111	.	_	
+
+#Text=Bedarf ist angesichts Restaurant etc. hinreichend vorhanden.
+3-1	112-118	Bedarf	_	
+3-2	119-122	ist	_	
+3-3	123-133	angesichts	_	
+3-4	134-144	Restaurant	_	
+3-5	145-148	etc	_	
+3-6	148-149	.	_	
+3-7	150-161	hinreichend	_	
+3-8	162-171	vorhanden	_	
+3-9	171-172	.	_	

@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zebrastreifen für Fahrräder beim Bahnübergang
+1-1	0-13	Zebrastreifen	_	
+1-2	14-17	für	_	
+1-3	18-27	Fahrräder	_	
+1-4	28-32	beim	_	
+1-5	33-45	Bahnübergang	_	
+
+#Text=Viele FahrradfahrerInnen benutzen den Bahnübergang hinter dem Südfriedhof, um Richtung Bundesviertel weiterzufahren.
+2-1	48-53	Viele	_	
+2-2	54-72	FahrradfahrerInnen	_	
+2-3	73-81	benutzen	_	
+2-4	82-85	den	_	
+2-5	86-98	Bahnübergang	*[5]	
+2-6	99-105	hinter	*[5]	
+2-7	106-109	dem	*[5]	
+2-8	110-121	Südfriedhof	*[5]	
+2-9	121-122	,	*[5]	
+2-10	123-125	um	*[5]	
+2-11	126-134	Richtung	*[5]	
+2-12	135-148	Bundesviertel	*[5]	
+2-13	149-163	weiterzufahren	_	
+2-14	163-164	.	_	
+
+#Text=Kommt man die Rampe vom Bahnübergang Richtung Nahum-Goldmann-Allee herunter, ist es morgens im dichten Berufsverkehr fast unmöglich, die Nahum-Goldmann-Allee zu überqueren und auf der Olof-Palme-Allee weiter Richtung Bundesviertel/Ministerien / Rheinaue zu fahren.
+3-1	165-170	Kommt	_	
+3-2	171-174	man	_	
+3-3	175-178	die	_	
+3-4	179-184	Rampe	_	
+3-5	185-188	vom	*[6]	
+3-6	189-201	Bahnübergang	*[6]	
+3-7	202-210	Richtung	*[6]	
+3-8	211-231	Nahum-Goldmann-Allee	*[6]	
+3-9	232-240	herunter	*[6]	
+3-10	240-241	,	_	
+3-11	242-245	ist	_	
+3-12	246-248	es	_	
+3-13	249-256	morgens	_	
+3-14	257-259	im	_	
+3-15	260-267	dichten	_	
+3-16	268-281	Berufsverkehr	_	
+3-17	282-286	fast	_	
+3-18	287-296	unmöglich	_	
+3-19	296-297	,	_	
+3-20	298-301	die	*[7]	
+3-21	302-322	Nahum-Goldmann-Allee	*[7]	
+3-22	323-325	zu	*[7]	
+3-23	326-336	überqueren	*[7]	
+3-24	337-340	und	*[7]	
+3-25	341-344	auf	*[7]	
+3-26	345-348	der	*[7]	
+3-27	349-365	Olof-Palme-Allee	*[7]	
+3-28	366-372	weiter	*[7]	
+3-29	373-381	Richtung	*[7]	
+3-30	382-395	Bundesviertel	*[7]	
+3-31	395-396	/	*[7]	
+3-32	396-407	Ministerien	*[7]	
+3-33	408-409	/	*[7]	
+3-34	410-418	Rheinaue	*[7]	
+3-35	419-421	zu	_	
+3-36	422-428	fahren	_	
+3-37	428-429	.	_	
+
+#Text=Ein Zebrastreifen, wie er an anderen Stellen auf der bahnparallelen Straße würde das Überqueren sehr viel leichter machen.
+4-1	430-433	Ein	_	
+4-2	434-447	Zebrastreifen	_	
+4-3	447-448	,	_	
+4-4	449-452	wie	_	
+4-5	453-455	er	_	
+4-6	456-458	an	_	
+4-7	459-466	anderen	_	
+4-8	467-474	Stellen	_	
+4-9	475-478	auf	_	
+4-10	479-482	der	_	
+4-11	483-497	bahnparallelen	_	
+4-12	498-504	Straße	_	
+4-13	505-510	würde	_	
+4-14	511-514	das	_	
+4-15	515-525	Überqueren	_	
+4-16	526-530	sehr	_	
+4-17	531-535	viel	_	
+4-18	536-544	leichter	_	
+4-19	545-551	machen	_	
+4-20	551-552	.	_	

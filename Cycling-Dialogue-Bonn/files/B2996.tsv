@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Übergang vom Straße auf Rheinufer-Radweg
+1-1	0-8	Übergang	_	
+1-2	9-12	vom	_	
+1-3	13-19	Straße	_	
+1-4	20-23	auf	_	
+1-5	24-40	Rheinufer-Radweg	_	
+
+#Text=Die Bordsteinkante ist hoch, wenn man vom Ringstraße oder Rheinaustraße zum Radweg am Johannes-Bücher-Ufer hinfährt.
+2-1	43-46	Die	_	
+2-2	47-61	Bordsteinkante	_	
+2-3	62-65	ist	_	
+2-4	66-70	hoch	_	
+2-5	70-71	,	_	
+2-6	72-76	wenn	_	
+2-7	77-80	man	_	
+2-8	81-84	vom	*[4]	
+2-9	85-95	Ringstraße	*[4]	
+2-10	96-100	oder	*[4]	
+2-11	101-114	Rheinaustraße	*[4]	
+2-12	115-118	zum	*[4]	
+2-13	119-125	Radweg	*[4]	
+2-14	126-128	am	*[4]	
+2-15	129-149	Johannes-Bücher-Ufer	*[4]	
+2-16	150-158	hinfährt	_	
+2-17	158-159	.	_	
+
+#Text=Ein fließender und niedriger Übergang vom Straße zum Radweg wäre an dieser Stelle sehr wünschenswert.
+3-1	160-163	Ein	_	
+3-2	164-174	fließender	_	
+3-3	175-178	und	_	
+3-4	179-188	niedriger	_	
+3-5	189-197	Übergang	_	
+3-6	198-201	vom	_	
+3-7	202-208	Straße	_	
+3-8	209-212	zum	_	
+3-9	213-219	Radweg	_	
+3-10	220-224	wäre	_	
+3-11	225-227	an	_	
+3-12	228-234	dieser	_	
+3-13	235-241	Stelle	_	
+3-14	242-246	sehr	_	
+3-15	247-260	wünschenswert	_	
+3-16	260-261	.	_	

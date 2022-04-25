@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg auf der Brücke Richtung Buschdorf in teils schlechter Qualität
+1-1	0-6	Radweg	*[3]	
+1-2	7-10	auf	*[3]	
+1-3	11-14	der	*[3]	
+1-4	15-21	Brücke	*[3]	
+1-5	22-30	Richtung	*[3]	
+1-6	31-40	Buschdorf	*[3]	
+1-7	41-43	in	_	
+1-8	44-49	teils	_	
+1-9	50-60	schlechter	_	
+1-10	61-69	Qualität	_	
+
+#Text=Der Radweg auf der Brücke Richtung Buschdorf ist in teils schlechter Qualität, voller Hubbel und Löcher.
+2-1	72-75	Der	*[4]	
+2-2	76-82	Radweg	*[4]	
+2-3	83-86	auf	*[4]	
+2-4	87-90	der	*[4]	
+2-5	91-97	Brücke	*[4]	
+2-6	98-106	Richtung	*[4]	
+2-7	107-116	Buschdorf	*[4]	
+2-8	117-120	ist	_	
+2-9	121-123	in	_	
+2-10	124-129	teils	_	
+2-11	130-140	schlechter	_	
+2-12	141-149	Qualität	_	
+2-13	149-150	,	_	
+2-14	151-157	voller	_	
+2-15	158-164	Hubbel	_	
+2-16	165-168	und	_	
+2-17	169-175	Löcher	_	
+2-18	175-176	.	_	

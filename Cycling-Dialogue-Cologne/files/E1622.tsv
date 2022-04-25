@@ -1,0 +1,79 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=regelmäßig Kurz-parker auf Radweg beim [Firma Supermarkt]
+1-1	0-10	regelmäßig	_	
+1-2	11-22	Kurz-parker	_	
+1-3	23-26	auf	_	
+1-4	27-33	Radweg	_	
+1-5	34-38	beim	_	
+1-6	39-40	[	_	
+1-7	40-45	Firma	_	
+1-8	46-56	Supermarkt	_	
+1-9	56-57	]	_	
+
+#Text=Genau da, wo man vom [Firma]-Center aus auf den Radweg biegen würde, stehen immer wieder Fahrzeuge, die vermutlich zu bequem sind, aufs Parkdeck o.ä. zu fahren.
+2-1	60-65	Genau	_	
+2-2	66-68	da	_	
+2-3	68-69	,	_	
+2-4	70-72	wo	_	
+2-5	73-76	man	_	
+2-6	77-80	vom	_	
+2-7	81-82	[	_	
+2-8	82-87	Firma	_	
+2-9	87-88	]	_	
+2-10	88-89	-	_	
+2-11	89-95	Center	_	
+2-12	96-99	aus	_	
+2-13	100-103	auf	_	
+2-14	104-107	den	_	
+2-15	108-114	Radweg	_	
+2-16	115-121	biegen	_	
+2-17	122-127	würde	_	
+2-18	127-128	,	_	
+2-19	129-135	stehen	_	
+2-20	136-141	immer	_	
+2-21	142-148	wieder	_	
+2-22	149-158	Fahrzeuge	_	
+2-23	158-159	,	_	
+2-24	160-163	die	_	
+2-25	164-174	vermutlich	_	
+2-26	175-177	zu	_	
+2-27	178-184	bequem	_	
+2-28	185-189	sind	_	
+2-29	189-190	,	_	
+2-30	191-195	aufs	_	
+2-31	196-204	Parkdeck	_	
+2-32	205-208	o.ä	_	
+2-33	208-209	.	_	
+2-34	210-212	zu	_	
+2-35	213-219	fahren	_	
+2-36	219-220	.	_	
+
+#Text=Da gleichzeitig ein Glascontainer (oder Altkleider?) und Begrenzungspfähle den Raum gliedern, kommt man mit dem Rad kaum durch.
+3-1	221-223	Da	_	
+3-2	224-236	gleichzeitig	_	
+3-3	237-240	ein	_	
+3-4	241-254	Glascontainer	_	
+3-5	255-256	(	_	
+3-6	256-260	oder	_	
+3-7	261-271	Altkleider	_	
+3-8	271-272	?	_	
+3-9	272-273	)	_	
+3-10	274-277	und	_	
+3-11	278-295	Begrenzungspfähle	_	
+3-12	296-299	den	_	
+3-13	300-304	Raum	_	
+3-14	305-313	gliedern	_	
+3-15	313-314	,	_	
+3-16	315-320	kommt	_	
+3-17	321-324	man	_	
+3-18	325-328	mit	_	
+3-19	329-332	dem	_	
+3-20	333-336	Rad	_	
+3-21	337-341	kaum	_	
+3-22	342-347	durch	_	
+3-23	347-348	.	_	

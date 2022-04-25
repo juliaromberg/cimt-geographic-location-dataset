@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegweiser fehlt
+1-1	0-12	Radwegweiser	_	
+1-2	13-18	fehlt	_	
+
+#Text=Hier fehlt ein Radwegweiser und Straßenmarkierung die die Radfahrer über die Frongasse und Endenicher Straße Richtung Innenstadt führt.
+2-1	21-25	Hier	_	
+2-2	26-31	fehlt	_	
+2-3	32-35	ein	_	
+2-4	36-48	Radwegweiser	_	
+2-5	49-52	und	_	
+2-6	53-70	Straßenmarkierung	_	
+2-7	71-74	die	_	
+2-8	75-78	die	_	
+2-9	79-88	Radfahrer	_	
+2-10	89-93	über	*[3]	
+2-11	94-97	die	*[3]	
+2-12	98-107	Frongasse	*[3]	
+2-13	108-111	und	*[3]	
+2-14	112-122	Endenicher	*[3]	
+2-15	123-129	Straße	*[3]	
+2-16	130-138	Richtung	*[3]	
+2-17	139-149	Innenstadt	*[3]	
+2-18	150-155	führt	_	
+2-19	155-156	.	_	

@@ -1,0 +1,196 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vorgelagerte Haltezone für Fahrräder
+1-1	0-12	Vorgelagerte	_	
+1-2	13-22	Haltezone	_	
+1-3	23-26	für	_	
+1-4	27-36	Fahrräder	_	
+
+#Text=Ich habe einen ähnlichen Beitrag für die benachbarte Kreuzung gefunden.
+2-1	39-42	Ich	_	
+2-2	43-47	habe	_	
+2-3	48-53	einen	_	
+2-4	54-63	ähnlichen	_	
+2-5	64-71	Beitrag	_	
+2-6	72-75	für	_	
+2-7	76-79	die	_	
+2-8	80-91	benachbarte	_	
+2-9	92-100	Kreuzung	_	
+2-10	101-109	gefunden	_	
+2-11	109-110	.	_	
+
+#Text=Wenn man auf der Dorotheenstrasse an die Kreuzung bei rot heranfährt, warte ich an der Warteline vor dem Zebrastreifen.
+3-1	111-115	Wenn	_	
+3-2	116-119	man	_	
+3-3	120-123	auf	*[13]	
+3-4	124-127	der	*[13]	
+3-5	128-144	Dorotheenstrasse	*[13]	
+3-6	145-147	an	*[13]	
+3-7	148-151	die	*[13]	
+3-8	152-160	Kreuzung	*[13]	
+3-9	161-164	bei	_	
+3-10	165-168	rot	_	
+3-11	169-179	heranfährt	_	
+3-12	179-180	,	_	
+3-13	181-186	warte	_	
+3-14	187-190	ich	_	
+3-15	191-193	an	_	
+3-16	194-197	der	_	
+3-17	198-207	Warteline	_	
+3-18	208-211	vor	_	
+3-19	212-215	dem	_	
+3-20	216-229	Zebrastreifen	_	
+3-21	229-230	.	_	
+
+#Text=Die Fussgänger haben nämlich meistens dann.
+4-1	231-234	Die	_	
+4-2	235-245	Fussgänger	_	
+4-3	246-251	haben	_	
+4-4	252-259	nämlich	_	
+4-5	260-268	meistens	_	
+4-6	269-273	dann	_	
+4-7	273-274	.	_	
+
+#Text=Ich habe Radfahrer beobachte, die bei roter Ampel bis an die hinter dem Zebrastreifen liegende Wartezone gefahren sind.
+5-1	275-278	Ich	_	
+5-2	279-283	habe	_	
+5-3	284-293	Radfahrer	_	
+5-4	294-303	beobachte	_	
+5-5	303-304	,	_	
+5-6	305-308	die	_	
+5-7	309-312	bei	_	
+5-8	313-318	roter	_	
+5-9	319-324	Ampel	_	
+5-10	325-328	bis	_	
+5-11	329-331	an	_	
+5-12	332-335	die	_	
+5-13	336-342	hinter	_	
+5-14	343-346	dem	_	
+5-15	347-360	Zebrastreifen	_	
+5-16	361-369	liegende	_	
+5-17	370-379	Wartezone	_	
+5-18	380-388	gefahren	_	
+5-19	389-393	sind	_	
+5-20	393-394	.	_	
+
+#Text=Auch bei grün für Fussgänger.
+6-1	395-399	Auch	_	
+6-2	400-403	bei	_	
+6-3	404-408	grün	_	
+6-4	409-412	für	_	
+6-5	413-423	Fussgänger	_	
+6-6	423-424	.	_	
+
+#Text=Ich halte das für Gefährlich.
+7-1	425-428	Ich	_	
+7-2	429-434	halte	_	
+7-3	435-438	das	_	
+7-4	439-442	für	_	
+7-5	443-453	Gefährlich	_	
+7-6	453-454	.	_	
+
+#Text=Die Nutzung der Wartefläche scheint mir unklar.
+8-1	455-458	Die	_	
+8-2	459-466	Nutzung	_	
+8-3	467-470	der	_	
+8-4	471-482	Wartefläche	_	
+8-5	483-490	scheint	_	
+8-6	491-494	mir	_	
+8-7	495-501	unklar	_	
+8-8	501-502	.	_	
+
+#Text=Sollte die Fläche für Radler eingerichtet worden sein, die vom Kaiser-Karl-Ring aus nach links wollen macht es nur Sinn, wenn man das auf der Strasse durch entsprechende Markierungen erkennt.
+9-1	503-509	Sollte	_	
+9-2	510-513	die	_	
+9-3	514-520	Fläche	_	
+9-4	521-524	für	_	
+9-5	525-531	Radler	_	
+9-6	532-544	eingerichtet	_	
+9-7	545-551	worden	_	
+9-8	552-556	sein	_	
+9-9	556-557	,	_	
+9-10	558-561	die	_	
+9-11	562-565	vom	*[14]	
+9-12	566-582	Kaiser-Karl-Ring	*[14]	
+9-13	583-586	aus	*[14]	
+9-14	587-591	nach	*[14]	
+9-15	592-597	links	*[14]	
+9-16	598-604	wollen	_	
+9-17	605-610	macht	_	
+9-18	611-613	es	_	
+9-19	614-617	nur	_	
+9-20	618-622	Sinn	_	
+9-21	622-623	,	_	
+9-22	624-628	wenn	_	
+9-23	629-632	man	_	
+9-24	633-636	das	_	
+9-25	637-640	auf	_	
+9-26	641-644	der	_	
+9-27	645-652	Strasse	_	
+9-28	653-658	durch	_	
+9-29	659-672	entsprechende	_	
+9-30	673-685	Markierungen	_	
+9-31	686-693	erkennt	_	
+9-32	693-694	.	_	
+
+#Text=Eine extra Ampel für Radler steht ja bereits auf der gegenüberliegenden Seite, so dass die Fahrradfahrer sehen könne, wann sie fahren dürfen.
+10-1	695-699	Eine	_	
+10-2	700-705	extra	_	
+10-3	706-711	Ampel	_	
+10-4	712-715	für	_	
+10-5	716-722	Radler	_	
+10-6	723-728	steht	_	
+10-7	729-731	ja	_	
+10-8	732-739	bereits	_	
+10-9	740-743	auf	_	
+10-10	744-747	der	_	
+10-11	748-766	gegenüberliegenden	_	
+10-12	767-772	Seite	_	
+10-13	772-773	,	_	
+10-14	774-776	so	_	
+10-15	777-781	dass	_	
+10-16	782-785	die	_	
+10-17	786-799	Fahrradfahrer	_	
+10-18	800-805	sehen	_	
+10-19	806-811	könne	_	
+10-20	811-812	,	_	
+10-21	813-817	wann	_	
+10-22	818-821	sie	_	
+10-23	822-828	fahren	_	
+10-24	829-835	dürfen	_	
+10-25	835-836	.	_	
+
+#Text=Oder mann entfernt diese Flächen besser, weil es einfach Verwirrung stiftet.
+11-1	837-841	Oder	_	
+11-2	842-846	mann	_	
+11-3	847-855	entfernt	_	
+11-4	856-861	diese	_	
+11-5	862-869	Flächen	_	
+11-6	870-876	besser	_	
+11-7	876-877	,	_	
+11-8	878-882	weil	_	
+11-9	883-885	es	_	
+11-10	886-893	einfach	_	
+11-11	894-904	Verwirrung	_	
+11-12	905-912	stiftet	_	
+11-13	912-913	.	_	
+
+#Text=Wo findet man etwas, wie man sich an solchen Zonen richtig verhält.
+12-1	914-916	Wo	_	
+12-2	917-923	findet	_	
+12-3	924-927	man	_	
+12-4	928-933	etwas	_	
+12-5	933-934	,	_	
+12-6	935-938	wie	_	
+12-7	939-942	man	_	
+12-8	943-947	sich	_	
+12-9	948-950	an	_	
+12-10	951-958	solchen	_	
+12-11	959-964	Zonen	_	
+12-12	965-972	richtig	_	
+12-13	973-980	verhält	_	
+12-14	980-981	.	_	

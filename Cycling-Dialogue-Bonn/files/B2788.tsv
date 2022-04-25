@@ -1,0 +1,179 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegeführung zur Unterführung Königstraße
+1-1	0-14	Radwegeführung	_	
+1-2	15-18	zur	*[9]	
+1-3	19-31	Unterführung	*[9]	
+1-4	32-43	Königstraße	*[9]	
+
+#Text=Die gesamte Verkehrsführung zur Überquerung der Bahnstrecke ist optimierungsbedürftig.
+2-1	46-49	Die	_	
+2-2	50-57	gesamte	_	
+2-3	58-73	Verkehrsführung	_	
+2-4	74-77	zur	_	
+2-5	78-89	Überquerung	_	
+2-6	90-93	der	_	
+2-7	94-105	Bahnstrecke	_	
+2-8	106-109	ist	_	
+2-9	110-131	optimierungsbedürftig	_	
+2-10	131-132	.	_	
+
+#Text=Wer bspw. aus Richtung Norden/Nordwesten (Prinz-Albert-Straße) kommt, wird bei geschlossener Schranke die Unterführung nutzen wollen.
+3-1	133-136	Wer	_	
+3-2	137-141	bspw	_	
+3-3	141-142	.	_	
+3-4	143-146	aus	*[10]	
+3-5	147-155	Richtung	*[10]	
+3-6	156-162	Norden	*[10]	
+3-7	162-163	/	*[10]	
+3-8	163-173	Nordwesten	*[10]	
+3-9	174-175	(	*[10]	
+3-10	175-194	Prinz-Albert-Straße	*[10]	
+3-11	194-195	)	*[10]	
+3-12	196-201	kommt	*[10]	
+3-13	201-202	,	_	
+3-14	203-207	wird	_	
+3-15	208-211	bei	_	
+3-16	212-225	geschlossener	_	
+3-17	226-234	Schranke	_	
+3-18	235-238	die	_	
+3-19	239-251	Unterführung	_	
+3-20	252-258	nutzen	_	
+3-21	259-265	wollen	_	
+3-22	265-266	.	_	
+
+#Text=Diese ist aber wegen der wartenden Autos, die natürlich nicht woanders hin können, nur über den Fussweg zu erreichen, wenn man sich durch die Reihen der wartenden Autos gemüht hat.
+4-1	267-272	Diese	_	
+4-2	273-276	ist	_	
+4-3	277-281	aber	_	
+4-4	282-287	wegen	_	
+4-5	288-291	der	_	
+4-6	292-301	wartenden	_	
+4-7	302-307	Autos	_	
+4-8	307-308	,	_	
+4-9	309-312	die	_	
+4-10	313-322	natürlich	_	
+4-11	323-328	nicht	_	
+4-12	329-337	woanders	_	
+4-13	338-341	hin	_	
+4-14	342-348	können	_	
+4-15	348-349	,	_	
+4-16	350-353	nur	_	
+4-17	354-358	über	_	
+4-18	359-362	den	_	
+4-19	363-370	Fussweg	_	
+4-20	371-373	zu	_	
+4-21	374-383	erreichen	_	
+4-22	383-384	,	_	
+4-23	385-389	wenn	_	
+4-24	390-393	man	_	
+4-25	394-398	sich	_	
+4-26	399-404	durch	_	
+4-27	405-408	die	_	
+4-28	409-415	Reihen	_	
+4-29	416-419	der	_	
+4-30	420-429	wartenden	_	
+4-31	430-435	Autos	_	
+4-32	436-442	gemüht	_	
+4-33	443-446	hat	_	
+4-34	446-447	.	_	
+
+#Text=Diesen Fussweg muss man sich dazu mit Fussgängern und entgegenkommenden Radfahrern teilen, welche wiederum die Straßenseite nicht wechseln können.
+5-1	448-454	Diesen	_	
+5-2	455-462	Fussweg	_	
+5-3	463-467	muss	_	
+5-4	468-471	man	_	
+5-5	472-476	sich	_	
+5-6	477-481	dazu	_	
+5-7	482-485	mit	_	
+5-8	486-497	Fussgängern	_	
+5-9	498-501	und	_	
+5-10	502-519	entgegenkommenden	_	
+5-11	520-530	Radfahrern	_	
+5-12	531-537	teilen	_	
+5-13	537-538	,	_	
+5-14	539-545	welche	_	
+5-15	546-554	wiederum	_	
+5-16	555-558	die	_	
+5-17	559-571	Straßenseite	_	
+5-18	572-577	nicht	_	
+5-19	578-586	wechseln	_	
+5-20	587-593	können	_	
+5-21	593-594	.	_	
+
+#Text=Das Problem ist m.E. der Platzbedarf des ruhenden Verkehrs.
+6-1	595-598	Das	_	
+6-2	599-606	Problem	_	
+6-3	607-610	ist	_	
+6-4	611-614	m.E	_	
+6-5	614-615	.	_	
+6-6	616-619	der	_	
+6-7	620-631	Platzbedarf	_	
+6-8	632-635	des	_	
+6-9	636-644	ruhenden	_	
+6-10	645-653	Verkehrs	_	
+6-11	653-654	.	_	
+
+#Text=Leider kommt es sogar vor, dass direkt vor der Unterführung geparkt wird oder auch direkt vor dem Fussgängerüberweg am Beginn dieses Teilstücks der Königstraße.
+7-1	655-661	Leider	_	
+7-2	662-667	kommt	_	
+7-3	668-670	es	_	
+7-4	671-676	sogar	_	
+7-5	677-680	vor	_	
+7-6	680-681	,	_	
+7-7	682-686	dass	_	
+7-8	687-693	direkt	_	
+7-9	694-697	vor	_	
+7-10	698-701	der	_	
+7-11	702-714	Unterführung	_	
+7-12	715-722	geparkt	_	
+7-13	723-727	wird	_	
+7-14	728-732	oder	_	
+7-15	733-737	auch	_	
+7-16	738-744	direkt	_	
+7-17	745-748	vor	_	
+7-18	749-752	dem	_	
+7-19	753-770	Fussgängerüberweg	_	
+7-20	771-773	am	_	
+7-21	774-780	Beginn	_	
+7-22	781-787	dieses	_	
+7-23	788-798	Teilstücks	_	
+7-24	799-802	der	_	
+7-25	803-814	Königstraße	*	
+7-26	814-815	.	_	
+
+#Text=Ein generelles Parkverbot wäre ggf. in diesem Abschnitt der Königstraße überlegenswert, da die nächstgelegene nördliche Querungsmöglichkeit (Unterführung Poppelsdorfer Allee) derzeit auch keine wirkliche Alternative darstellt.
+8-1	816-819	Ein	_	
+8-2	820-830	generelles	_	
+8-3	831-841	Parkverbot	_	
+8-4	842-846	wäre	_	
+8-5	847-850	ggf	_	
+8-6	850-851	.	_	
+8-7	852-854	in	_	
+8-8	855-861	diesem	_	
+8-9	862-871	Abschnitt	_	
+8-10	872-875	der	_	
+8-11	876-887	Königstraße	*	
+8-12	888-902	überlegenswert	_	
+8-13	902-903	,	_	
+8-14	904-906	da	_	
+8-15	907-910	die	_	
+8-16	911-925	nächstgelegene	_	
+8-17	926-935	nördliche	*[11]	
+8-18	936-955	Querungsmöglichkeit	*[11]	
+8-19	956-957	(	*[11]	
+8-20	957-969	Unterführung	*[11]	
+8-21	970-983	Poppelsdorfer	*[11]	
+8-22	984-989	Allee	*[11]	
+8-23	989-990	)	_	
+8-24	991-998	derzeit	_	
+8-25	999-1003	auch	_	
+8-26	1004-1009	keine	_	
+8-27	1010-1019	wirkliche	_	
+8-28	1020-1031	Alternative	_	
+8-29	1032-1041	darstellt	_	
+8-30	1041-1042	.	_	

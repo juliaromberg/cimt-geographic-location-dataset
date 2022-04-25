@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Von Autofahrern eingequetscht
+1-1	0-3	Von	_	
+1-2	4-15	Autofahrern	_	
+1-3	16-29	eingequetscht	_	
+
+#Text=An dieser Stelle, Richtung Bertha-von-Suttner-Platz, wird man häufig von, vor der Ampel, wartenden Autos regelrecht eingequetscht, da diese glauben, sie könnten schneller rechts abbiegen, wenn sie weitere rechts stehen.
+2-1	32-34	An	_	
+2-2	35-41	dieser	_	
+2-3	42-48	Stelle	_	
+2-4	48-49	,	_	
+2-5	50-58	Richtung	*[4]	
+2-6	59-83	Bertha-von-Suttner-Platz	*[4]	
+2-7	83-84	,	_	
+2-8	85-89	wird	_	
+2-9	90-93	man	_	
+2-10	94-100	häufig	_	
+2-11	101-104	von	_	
+2-12	104-105	,	_	
+2-13	106-109	vor	_	
+2-14	110-113	der	_	
+2-15	114-119	Ampel	_	
+2-16	119-120	,	_	
+2-17	121-130	wartenden	_	
+2-18	131-136	Autos	_	
+2-19	137-147	regelrecht	_	
+2-20	148-161	eingequetscht	_	
+2-21	161-162	,	_	
+2-22	163-165	da	_	
+2-23	166-171	diese	_	
+2-24	172-179	glauben	_	
+2-25	179-180	,	_	
+2-26	181-184	sie	_	
+2-27	185-192	könnten	_	
+2-28	193-202	schneller	_	
+2-29	203-209	rechts	_	
+2-30	210-218	abbiegen	_	
+2-31	218-219	,	_	
+2-32	220-224	wenn	_	
+2-33	225-228	sie	_	
+2-34	229-236	weitere	_	
+2-35	237-243	rechts	_	
+2-36	244-250	stehen	_	
+2-37	250-251	.	_	
+
+#Text=Häufig ist auch gar kein Vorkommen bis zur Ampel möglich, da der ganze Fahrradweg blockiert wird.
+3-1	252-258	Häufig	_	
+3-2	259-262	ist	_	
+3-3	263-267	auch	_	
+3-4	268-271	gar	_	
+3-5	272-276	kein	_	
+3-6	277-286	Vorkommen	_	
+3-7	287-290	bis	_	
+3-8	291-294	zur	_	
+3-9	295-300	Ampel	_	
+3-10	301-308	möglich	_	
+3-11	308-309	,	_	
+3-12	310-312	da	_	
+3-13	313-316	der	_	
+3-14	317-322	ganze	_	
+3-15	323-333	Fahrradweg	_	
+3-16	334-343	blockiert	_	
+3-17	344-348	wird	_	
+3-18	348-349	.	_	

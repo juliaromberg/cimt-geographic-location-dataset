@@ -1,0 +1,132 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zugeparkter Geh und Radweg
+1-1	0-11	Zugeparkter	_	
+1-2	12-15	Geh	_	
+1-3	16-19	und	_	
+1-4	20-26	Radweg	_	
+
+#Text=Hier ist ständig der gemeinsame Geh- und Radweg zugeparkt.
+2-1	29-33	Hier	_	
+2-2	34-37	ist	_	
+2-3	38-45	ständig	_	
+2-4	46-49	der	_	
+2-5	50-60	gemeinsame	_	
+2-6	61-64	Geh	_	
+2-7	64-65	-	_	
+2-8	66-69	und	_	
+2-9	70-76	Radweg	_	
+2-10	77-86	zugeparkt	_	
+2-11	86-87	.	_	
+
+#Text=Noch vor einem halben Jahr war es ein eigenständiger Radweg.
+3-1	88-92	Noch	_	
+3-2	93-96	vor	_	
+3-3	97-102	einem	_	
+3-4	103-109	halben	_	
+3-5	110-114	Jahr	_	
+3-6	115-118	war	_	
+3-7	119-121	es	_	
+3-8	122-125	ein	_	
+3-9	126-140	eigenständiger	_	
+3-10	141-147	Radweg	_	
+3-11	147-148	.	_	
+
+#Text=Dieser wurde ab markiert, dadurch ist die Situation noch schlimmer.
+4-1	149-155	Dieser	_	
+4-2	156-161	wurde	_	
+4-3	162-164	ab	_	
+4-4	165-173	markiert	_	
+4-5	173-174	,	_	
+4-6	175-182	dadurch	_	
+4-7	183-186	ist	_	
+4-8	187-190	die	_	
+4-9	191-200	Situation	_	
+4-10	201-205	noch	_	
+4-11	206-215	schlimmer	_	
+4-12	215-216	.	_	
+
+#Text=Alternativen sind bislang aber noch nicht entstanden.
+5-1	217-229	Alternativen	_	
+5-2	230-234	sind	_	
+5-3	235-242	bislang	_	
+5-4	243-247	aber	_	
+5-5	248-252	noch	_	
+5-6	253-258	nicht	_	
+5-7	259-269	entstanden	_	
+5-8	269-270	.	_	
+
+#Text=Fährt man auf der Fahrbahn wird das hier von PKW oft nicht sehr toleriert, außerdem muss man an der nächsten Kreuzung wieder auf den benutzungspflichtigen zu schmalen Radweg.
+6-1	271-276	Fährt	_	
+6-2	277-280	man	_	
+6-3	281-284	auf	_	
+6-4	285-288	der	_	
+6-5	289-297	Fahrbahn	_	
+6-6	298-302	wird	_	
+6-7	303-306	das	_	
+6-8	307-311	hier	_	
+6-9	312-315	von	_	
+6-10	316-319	PKW	_	
+6-11	320-323	oft	_	
+6-12	324-329	nicht	_	
+6-13	330-334	sehr	_	
+6-14	335-344	toleriert	_	
+6-15	344-345	,	_	
+6-16	346-354	außerdem	_	
+6-17	355-359	muss	_	
+6-18	360-363	man	_	
+6-19	364-366	an	_	
+6-20	367-370	der	_	
+6-21	371-379	nächsten	_	
+6-22	380-388	Kreuzung	_	
+6-23	389-395	wieder	_	
+6-24	396-399	auf	_	
+6-25	400-403	den	_	
+6-26	404-425	benutzungspflichtigen	_	
+6-27	426-428	zu	_	
+6-28	429-437	schmalen	_	
+6-29	438-444	Radweg	_	
+6-30	444-445	.	_	
+
+#Text=So eine Neustrukturierung einer so bedeutenden Ringstraße sollte vielleicht zeitnah im Gesamten umgesetzt werden.
+7-1	446-448	So	_	
+7-2	449-453	eine	_	
+7-3	454-471	Neustrukturierung	_	
+7-4	472-477	einer	_	
+7-5	478-480	so	_	
+7-6	481-492	bedeutenden	_	
+7-7	493-503	Ringstraße	_	
+7-8	504-510	sollte	_	
+7-9	511-521	vielleicht	_	
+7-10	522-529	zeitnah	_	
+7-11	530-532	im	_	
+7-12	533-541	Gesamten	_	
+7-13	542-551	umgesetzt	_	
+7-14	552-558	werden	_	
+7-15	558-559	.	_	
+
+#Text=Zumindest sollten Wege nicht einfach entfernt werden und dann Monate oder Jahre später erst die neue Radverkehrsführung umgesetzt werden.
+8-1	560-569	Zumindest	_	
+8-2	570-577	sollten	_	
+8-3	578-582	Wege	_	
+8-4	583-588	nicht	_	
+8-5	589-596	einfach	_	
+8-6	597-605	entfernt	_	
+8-7	606-612	werden	_	
+8-8	613-616	und	_	
+8-9	617-621	dann	_	
+8-10	622-628	Monate	_	
+8-11	629-633	oder	_	
+8-12	634-639	Jahre	_	
+8-13	640-646	später	_	
+8-14	647-651	erst	_	
+8-15	652-655	die	_	
+8-16	656-660	neue	_	
+8-17	661-679	Radverkehrsführung	_	
+8-18	680-689	umgesetzt	_	
+8-19	690-696	werden	_	
+8-20	696-697	.	_	

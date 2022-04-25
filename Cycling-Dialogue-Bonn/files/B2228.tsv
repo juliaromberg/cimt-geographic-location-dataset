@@ -1,0 +1,108 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Falschparker führen zu Engstelle und Gefährdung durch Autoverkehr
+1-1	0-12	Falschparker	_	
+1-2	13-19	führen	_	
+1-3	20-22	zu	_	
+1-4	23-32	Engstelle	_	
+1-5	33-36	und	_	
+1-6	37-47	Gefährdung	_	
+1-7	48-53	durch	_	
+1-8	54-65	Autoverkehr	_	
+
+#Text=In der Schultheißstr. ist das Parken für Autos abwechselnd rechts und links in Parkbereichen auf der Straße vorgesehen.
+2-1	68-70	In	*[7]	
+2-2	71-74	der	*[7]	
+2-3	75-88	Schultheißstr	*[7]	
+2-4	88-89	.	_	
+2-5	90-93	ist	_	
+2-6	94-97	das	_	
+2-7	98-104	Parken	_	
+2-8	105-108	für	_	
+2-9	109-114	Autos	_	
+2-10	115-126	abwechselnd	_	
+2-11	127-133	rechts	_	
+2-12	134-137	und	_	
+2-13	138-143	links	_	
+2-14	144-146	in	_	
+2-15	147-160	Parkbereichen	_	
+2-16	161-164	auf	_	
+2-17	165-168	der	_	
+2-18	169-175	Straße	_	
+2-19	176-186	vorgesehen	_	
+2-20	186-187	.	_	
+
+#Text=Dies soll vermutlich der Verkehrsberuhigung dienen.
+3-1	188-192	Dies	_	
+3-2	193-197	soll	_	
+3-3	198-208	vermutlich	_	
+3-4	209-212	der	_	
+3-5	213-231	Verkehrsberuhigung	_	
+3-6	232-238	dienen	_	
+3-7	238-239	.	_	
+
+#Text=Da von Zeit zu Zeit jedoch Falschparker außerhalb der Parkbereiche parken, verengt sich die Straße so sehr, dass der Autoverkehr nicht mehr in beide Richtungen fahren kann.
+4-1	240-242	Da	_	
+4-2	243-246	von	_	
+4-3	247-251	Zeit	_	
+4-4	252-254	zu	_	
+4-5	255-259	Zeit	_	
+4-6	260-266	jedoch	_	
+4-7	267-279	Falschparker	_	
+4-8	280-289	außerhalb	_	
+4-9	290-293	der	_	
+4-10	294-306	Parkbereiche	_	
+4-11	307-313	parken	_	
+4-12	313-314	,	_	
+4-13	315-322	verengt	_	
+4-14	323-327	sich	_	
+4-15	328-331	die	_	
+4-16	332-338	Straße	_	
+4-17	339-341	so	_	
+4-18	342-346	sehr	_	
+4-19	346-347	,	_	
+4-20	348-352	dass	_	
+4-21	353-356	der	_	
+4-22	357-368	Autoverkehr	_	
+4-23	369-374	nicht	_	
+4-24	375-379	mehr	_	
+4-25	380-382	in	_	
+4-26	383-388	beide	_	
+4-27	389-399	Richtungen	_	
+4-28	400-406	fahren	_	
+4-29	407-411	kann	_	
+4-30	411-412	.	_	
+
+#Text=Dadurch entstehen immer wieder plötzliche Abbrems- und Ausweichmanöver von Autofahrern, die häufig Radfahrer gefährden.
+5-1	413-420	Dadurch	_	
+5-2	421-430	entstehen	_	
+5-3	431-436	immer	_	
+5-4	437-443	wieder	_	
+5-5	444-454	plötzliche	_	
+5-6	455-462	Abbrems	_	
+5-7	462-463	-	_	
+5-8	464-467	und	_	
+5-9	468-483	Ausweichmanöver	_	
+5-10	484-487	von	_	
+5-11	488-499	Autofahrern	_	
+5-12	499-500	,	_	
+5-13	501-504	die	_	
+5-14	505-511	häufig	_	
+5-15	512-521	Radfahrer	_	
+5-16	522-531	gefährden	_	
+5-17	531-532	.	_	
+
+#Text=Hier hilft vermutlich nur regelmäßige Parkkontrolle und Knöllchenvergabe.
+6-1	533-537	Hier	_	
+6-2	538-543	hilft	_	
+6-3	544-554	vermutlich	_	
+6-4	555-558	nur	_	
+6-5	559-570	regelmäßige	_	
+6-6	571-584	Parkkontrolle	_	
+6-7	585-588	und	_	
+6-8	589-605	Knöllchenvergabe	_	
+6-9	605-606	.	_	

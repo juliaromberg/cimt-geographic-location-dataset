@@ -1,0 +1,62 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradampel
+1-1	0-12	Fahrradampel	_	
+
+#Text=Bei der Grünschaltung der Fahrradampel von der Heerstraße ins Rosental, sollte diese der Grünschaltung der Autofahrer, die vom Rosental in die Kölnstraße abbiegen vorgezogen werden.
+2-1	15-18	Bei	_	
+2-2	19-22	der	_	
+2-3	23-36	Grünschaltung	_	
+2-4	37-40	der	_	
+2-5	41-53	Fahrradampel	*[3]	
+2-6	54-57	von	*[3]	
+2-7	58-61	der	*[3]	
+2-8	62-72	Heerstraße	*[3]	
+2-9	73-76	ins	*[3]	
+2-10	77-85	Rosental	*[3]	
+2-11	85-86	,	_	
+2-12	87-93	sollte	_	
+2-13	94-99	diese	_	
+2-14	100-103	der	_	
+2-15	104-117	Grünschaltung	_	
+2-16	118-121	der	_	
+2-17	122-132	Autofahrer	_	
+2-18	132-133	,	_	
+2-19	134-137	die	_	
+2-20	138-141	vom	*[4]	
+2-21	142-150	Rosental	*[4]	
+2-22	151-153	in	*[4]	
+2-23	154-157	die	*[4]	
+2-24	158-168	Kölnstraße	*[4]	
+2-25	169-177	abbiegen	*[4]	
+2-26	178-188	vorgezogen	_	
+2-27	189-195	werden	_	
+2-28	195-196	.	_	
+
+#Text=Hier entstehen immer wieder gefährliche Situationen, da die Abbieger nur auf die Fußgänger konzentriert sind und die Fahrradfahrer gerne übersehen.
+3-1	197-201	Hier	_	
+3-2	202-211	entstehen	_	
+3-3	212-217	immer	_	
+3-4	218-224	wieder	_	
+3-5	225-236	gefährliche	_	
+3-6	237-248	Situationen	_	
+3-7	248-249	,	_	
+3-8	250-252	da	_	
+3-9	253-256	die	_	
+3-10	257-265	Abbieger	_	
+3-11	266-269	nur	_	
+3-12	270-273	auf	_	
+3-13	274-277	die	_	
+3-14	278-287	Fußgänger	_	
+3-15	288-300	konzentriert	_	
+3-16	301-305	sind	_	
+3-17	306-309	und	_	
+3-18	310-313	die	_	
+3-19	314-327	Fahrradfahrer	_	
+3-20	328-333	gerne	_	
+3-21	334-343	übersehen	_	
+3-22	343-344	.	_	

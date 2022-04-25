@@ -1,0 +1,134 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Markierung des Radwegs am Brassertufer führt Radweg auf die Straße
+1-1	0-10	Markierung	_	
+1-2	11-14	des	_	
+1-3	15-22	Radwegs	*[7]	
+1-4	23-25	am	*[7]	
+1-5	26-38	Brassertufer	*[7]	
+1-6	39-44	führt	_	
+1-7	45-51	Radweg	_	
+1-8	52-55	auf	_	
+1-9	56-59	die	_	
+1-10	60-66	Straße	_	
+
+#Text=Am Brassertufer führt die Markierung die Radfahrer auf die Straße!
+2-1	69-71	Am	*[8]	
+2-2	72-84	Brassertufer	*[8]	
+2-3	85-90	führt	_	
+2-4	91-94	die	_	
+2-5	95-105	Markierung	_	
+2-6	106-109	die	_	
+2-7	110-119	Radfahrer	_	
+2-8	120-123	auf	_	
+2-9	124-127	die	_	
+2-10	128-134	Straße	_	
+2-11	134-135	!	_	
+
+#Text=Dies ist meines Erachtens sehr gefährlich, da man als Radfahrer in den Gegenverkehr der Straße gerät (die dort als Einbahnstraße verläuft).
+3-1	136-140	Dies	_	
+3-2	141-144	ist	_	
+3-3	145-151	meines	_	
+3-4	152-161	Erachtens	_	
+3-5	162-166	sehr	_	
+3-6	167-177	gefährlich	_	
+3-7	177-178	,	_	
+3-8	179-181	da	_	
+3-9	182-185	man	_	
+3-10	186-189	als	_	
+3-11	190-199	Radfahrer	_	
+3-12	200-202	in	_	
+3-13	203-206	den	_	
+3-14	207-219	Gegenverkehr	_	
+3-15	220-223	der	_	
+3-16	224-230	Straße	_	
+3-17	231-236	gerät	_	
+3-18	237-238	(	_	
+3-19	238-241	die	_	
+3-20	242-246	dort	_	
+3-21	247-250	als	_	
+3-22	251-264	Einbahnstraße	_	
+3-23	265-273	verläuft	_	
+3-24	273-274	)	_	
+3-25	274-275	.	_	
+
+#Text=Dies ist absolut sinnlos, da es ja einen Radweg gibt.
+4-1	276-280	Dies	_	
+4-2	281-284	ist	_	
+4-3	285-292	absolut	_	
+4-4	293-300	sinnlos	_	
+4-5	300-301	,	_	
+4-6	302-304	da	_	
+4-7	305-307	es	_	
+4-8	308-310	ja	_	
+4-9	311-316	einen	_	
+4-10	317-323	Radweg	_	
+4-11	324-328	gibt	_	
+4-12	328-329	.	_	
+
+#Text=Durch die Markierung auf der Straße wird man aber von ihm heruntergeführt und kann dann wegen des Bordsteins für ca. 100-200 Meter nicht mehr auffahren und stört gefährlich sich selbst und den Autoverkehr.
+5-1	330-335	Durch	_	
+5-2	336-339	die	_	
+5-3	340-350	Markierung	_	
+5-4	351-354	auf	_	
+5-5	355-358	der	_	
+5-6	359-365	Straße	_	
+5-7	366-370	wird	_	
+5-8	371-374	man	_	
+5-9	375-379	aber	_	
+5-10	380-383	von	_	
+5-11	384-387	ihm	_	
+5-12	388-403	heruntergeführt	_	
+5-13	404-407	und	_	
+5-14	408-412	kann	_	
+5-15	413-417	dann	_	
+5-16	418-423	wegen	_	
+5-17	424-427	des	_	
+5-18	428-438	Bordsteins	_	
+5-19	439-442	für	_	
+5-20	443-445	ca	_	
+5-21	445-446	.	_	
+5-22	447-450	100	_	
+5-23	450-451	-	_	
+5-24	451-454	200	_	
+5-25	455-460	Meter	_	
+5-26	461-466	nicht	_	
+5-27	467-471	mehr	_	
+5-28	472-481	auffahren	_	
+5-29	482-485	und	_	
+5-30	486-491	stört	_	
+5-31	492-502	gefährlich	_	
+5-32	503-507	sich	_	
+5-33	508-514	selbst	_	
+5-34	515-518	und	_	
+5-35	519-522	den	_	
+5-36	523-534	Autoverkehr	_	
+5-37	534-535	.	_	
+
+#Text=P.S. Vielleicht liegt die Stelle (ca. 1-2 Radminuten von der Oper entfernt) auch am Rathenauufer.
+6-1	536-539	P.S	_	
+6-2	539-540	.	_	
+6-3	541-551	Vielleicht	_	
+6-4	552-557	liegt	_	
+6-5	558-561	die	_	
+6-6	562-568	Stelle	_	
+6-7	569-570	(	_	
+6-8	570-572	ca	_	
+6-9	572-573	.	_	
+6-10	574-575	1	_	
+6-11	575-576	-	_	
+6-12	576-577	2	_	
+6-13	578-588	Radminuten	_	
+6-14	589-592	von	_	
+6-15	593-596	der	_	
+6-16	597-601	Oper	_	
+6-17	602-610	entfernt	_	
+6-18	610-611	)	_	
+6-19	612-616	auch	_	
+6-20	617-619	am	*[9]	
+6-21	620-632	Rathenauufer	*[9]	
+6-22	632-633	.	_	

@@ -1,0 +1,142 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg auf der Fahrbahn zu eng
+1-1	0-6	Radweg	_	
+1-2	7-10	auf	_	
+1-3	11-14	der	_	
+1-4	15-23	Fahrbahn	_	
+1-5	24-26	zu	_	
+1-6	27-30	eng	_	
+
+#Text=U.a. im Bereich der Kölnstraße ist der Fahrradweg auf der Fahrbahn zu eng.
+2-1	33-36	U.a	_	
+2-2	36-37	.	_	
+2-3	38-40	im	*[8]	
+2-4	41-48	Bereich	*[8]	
+2-5	49-52	der	*[8]	
+2-6	53-63	Kölnstraße	*[8]	
+2-7	64-67	ist	_	
+2-8	68-71	der	_	
+2-9	72-82	Fahrradweg	_	
+2-10	83-86	auf	_	
+2-11	87-90	der	_	
+2-12	91-99	Fahrbahn	_	
+2-13	100-102	zu	_	
+2-14	103-106	eng	_	
+2-15	106-107	.	_	
+
+#Text=Im Berufsverkehr (insbesondere wenn Busse unterwegs sind) ist in beiden Fahrtrichtung kaum möglich, dass Autos und Fahrräder nebeneinander fahren.
+3-1	108-110	Im	_	
+3-2	111-124	Berufsverkehr	_	
+3-3	125-126	(	_	
+3-4	126-138	insbesondere	_	
+3-5	139-143	wenn	_	
+3-6	144-149	Busse	_	
+3-7	150-159	unterwegs	_	
+3-8	160-164	sind	_	
+3-9	164-165	)	_	
+3-10	166-169	ist	_	
+3-11	170-172	in	_	
+3-12	173-179	beiden	_	
+3-13	180-193	Fahrtrichtung	_	
+3-14	194-198	kaum	_	
+3-15	199-206	möglich	_	
+3-16	206-207	,	_	
+3-17	208-212	dass	_	
+3-18	213-218	Autos	_	
+3-19	219-222	und	_	
+3-20	223-232	Fahrräder	_	
+3-21	233-246	nebeneinander	_	
+3-22	247-253	fahren	_	
+3-23	253-254	.	_	
+
+#Text=Das führt immer wieder dazu, dass Auto- und auch Busfahrer sich viel zu eng an den Fahrrädern vorbeidrängen.
+4-1	255-258	Das	_	
+4-2	259-264	führt	_	
+4-3	265-270	immer	_	
+4-4	271-277	wieder	_	
+4-5	278-282	dazu	_	
+4-6	282-283	,	_	
+4-7	284-288	dass	_	
+4-8	289-293	Auto	_	
+4-9	293-294	-	_	
+4-10	295-298	und	_	
+4-11	299-303	auch	_	
+4-12	304-313	Busfahrer	_	
+4-13	314-318	sich	_	
+4-14	319-323	viel	_	
+4-15	324-326	zu	_	
+4-16	327-330	eng	_	
+4-17	331-333	an	_	
+4-18	334-337	den	_	
+4-19	338-348	Fahrrädern	_	
+4-20	349-362	vorbeidrängen	_	
+4-21	362-363	.	_	
+
+#Text=Hinzukommt, dass häufig Fahrzeuge in zweiter Reihe geparkt werden, wodurch die Situation noch verschlechtert wird.
+5-1	364-374	Hinzukommt	_	
+5-2	374-375	,	_	
+5-3	376-380	dass	_	
+5-4	381-387	häufig	_	
+5-5	388-397	Fahrzeuge	_	
+5-6	398-400	in	_	
+5-7	401-408	zweiter	_	
+5-8	409-414	Reihe	_	
+5-9	415-422	geparkt	_	
+5-10	423-429	werden	_	
+5-11	429-430	,	_	
+5-12	431-438	wodurch	_	
+5-13	439-442	die	_	
+5-14	443-452	Situation	_	
+5-15	453-457	noch	_	
+5-16	458-472	verschlechtert	_	
+5-17	473-477	wird	_	
+5-18	477-478	.	_	
+
+#Text=An der Kreuzung Oxfordstraße darf mann als Radfahrer geradeaus bis zum Beginn der Fußgängerzone fahren.
+6-1	479-481	An	*[9]	
+6-2	482-485	der	*[9]	
+6-3	486-494	Kreuzung	*[9]	
+6-4	495-507	Oxfordstraße	*[9]	
+6-5	508-512	darf	_	
+6-6	513-517	mann	_	
+6-7	518-521	als	_	
+6-8	522-531	Radfahrer	_	
+6-9	532-541	geradeaus	_	
+6-10	542-545	bis	_	
+6-11	546-549	zum	_	
+6-12	550-556	Beginn	_	
+6-13	557-560	der	_	
+6-14	561-574	Fußgängerzone	_	
+6-15	575-581	fahren	_	
+6-16	581-582	.	_	
+
+#Text=Leider drängeln an dieser Stelle häufig Fahrzeuge von der Rechtsabiegerspur an den wegen der Fußgängerampel wartenden Linksabbiegern vorbei - ohne Rücksicht auf Radfahrer.
+7-1	583-589	Leider	_	
+7-2	590-598	drängeln	_	
+7-3	599-601	an	_	
+7-4	602-608	dieser	_	
+7-5	609-615	Stelle	_	
+7-6	616-622	häufig	_	
+7-7	623-632	Fahrzeuge	_	
+7-8	633-636	von	_	
+7-9	637-640	der	_	
+7-10	641-658	Rechtsabiegerspur	_	
+7-11	659-661	an	_	
+7-12	662-665	den	_	
+7-13	666-671	wegen	_	
+7-14	672-675	der	_	
+7-15	676-690	Fußgängerampel	_	
+7-16	691-700	wartenden	_	
+7-17	701-715	Linksabbiegern	_	
+7-18	716-722	vorbei	_	
+7-19	723-724	-	_	
+7-20	725-729	ohne	_	
+7-21	730-739	Rücksicht	_	
+7-22	740-743	auf	_	
+7-23	744-753	Radfahrer	_	
+7-24	753-754	.	_	

@@ -1,0 +1,41 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Pützchens Chaussee
+1-1	0-9	Pützchens	*[4]	
+1-2	10-18	Chaussee	*[4]	
+
+#Text=Beide Fahrradwege sind dürftig und z.T. ist der Belag sehr schlecht.
+2-1	21-26	Beide	_	
+2-2	27-38	Fahrradwege	_	
+2-3	39-43	sind	_	
+2-4	44-51	dürftig	_	
+2-5	52-55	und	_	
+2-6	56-59	z.T	_	
+2-7	59-60	.	_	
+2-8	61-64	ist	_	
+2-9	65-68	der	_	
+2-10	69-74	Belag	_	
+2-11	75-79	sehr	_	
+2-12	80-88	schlecht	_	
+2-13	88-89	.	_	
+
+#Text=Dadurch muss man mehr in die Strasse rein fahren, was sehr gefährlich ist.
+3-1	90-97	Dadurch	_	
+3-2	98-102	muss	_	
+3-3	103-106	man	_	
+3-4	107-111	mehr	_	
+3-5	112-114	in	_	
+3-6	115-118	die	_	
+3-7	119-126	Strasse	_	
+3-8	127-131	rein	_	
+3-9	132-138	fahren	_	
+3-10	138-139	,	_	
+3-11	140-143	was	_	
+3-12	144-148	sehr	_	
+3-13	149-159	gefährlich	_	
+3-14	160-163	ist	_	
+3-15	163-164	.	_	

@@ -1,0 +1,228 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Von Radweg zur Walter-Flex-Straße: Bisher Absteigen und Schieben
+1-1	0-3	Von	*[11]	
+1-2	4-10	Radweg	*[11]	
+1-3	11-14	zur	*[11]	
+1-4	15-33	Walter-Flex-Straße	*[11]	
+1-5	33-34	:	_	
+1-6	35-41	Bisher	_	
+1-7	42-51	Absteigen	_	
+1-8	52-55	und	_	
+1-9	56-64	Schieben	_	
+
+#Text=Bevor der neue Haltepunkt UN-Campus gebaut wurde, musste man um vom bahnparallelen Radweg kommend in die Walter-Flex-Straße zu gelangen über den dortigen Zebrastreifen.
+2-1	67-72	Bevor	_	
+2-2	73-76	der	_	
+2-3	77-81	neue	_	
+2-4	82-92	Haltepunkt	*[12]	
+2-5	93-102	UN-Campus	*[12]	
+2-6	103-109	gebaut	_	
+2-7	110-115	wurde	_	
+2-8	115-116	,	_	
+2-9	117-123	musste	_	
+2-10	124-127	man	_	
+2-11	128-130	um	_	
+2-12	131-134	vom	*[13]	
+2-13	135-149	bahnparallelen	*[13]	
+2-14	150-156	Radweg	*[13]	
+2-15	157-164	kommend	*[13]	
+2-16	165-167	in	*[13]	
+2-17	168-171	die	*[13]	
+2-18	172-190	Walter-Flex-Straße	*[13]	
+2-19	191-193	zu	_	
+2-20	194-202	gelangen	_	
+2-21	203-207	über	_	
+2-22	208-211	den	_	
+2-23	212-220	dortigen	_	
+2-24	221-234	Zebrastreifen	_	
+2-25	234-235	.	_	
+
+#Text=Eine andere Möglichkeit gab es nicht.
+3-1	236-240	Eine	_	
+3-2	241-247	andere	_	
+3-3	248-259	Möglichkeit	_	
+3-4	260-263	gab	_	
+3-5	264-266	es	_	
+3-6	267-272	nicht	_	
+3-7	272-273	.	_	
+
+#Text=Freundliche Polizisten verteilten schon mal ein Verwarnungsgeld, wenn man dabei sein Fahrrad nicht schob, sondern den Zebrastreifen fahrend überquerte.
+4-1	274-285	Freundliche	_	
+4-2	286-296	Polizisten	_	
+4-3	297-307	verteilten	_	
+4-4	308-313	schon	_	
+4-5	314-317	mal	_	
+4-6	318-321	ein	_	
+4-7	322-337	Verwarnungsgeld	_	
+4-8	337-338	,	_	
+4-9	339-343	wenn	_	
+4-10	344-347	man	_	
+4-11	348-353	dabei	_	
+4-12	354-358	sein	_	
+4-13	359-366	Fahrrad	_	
+4-14	367-372	nicht	_	
+4-15	373-378	schob	_	
+4-16	378-379	,	_	
+4-17	380-387	sondern	_	
+4-18	388-391	den	_	
+4-19	392-405	Zebrastreifen	_	
+4-20	406-413	fahrend	_	
+4-21	414-424	überquerte	_	
+4-22	424-425	.	_	
+
+#Text=Es handelt sich hier um eine vielbefahrene Stelle, u.a. da dies die Hauptverbindung von Kessenich zu den vielen Arbeitsplätzen im ehemaligen Regierungsviertel ist.
+5-1	426-428	Es	_	
+5-2	429-436	handelt	_	
+5-3	437-441	sich	_	
+5-4	442-446	hier	_	
+5-5	447-449	um	_	
+5-6	450-454	eine	_	
+5-7	455-468	vielbefahrene	_	
+5-8	469-475	Stelle	_	
+5-9	475-476	,	_	
+5-10	477-480	u.a	_	
+5-11	480-481	.	_	
+5-12	482-484	da	_	
+5-13	485-489	dies	_	
+5-14	490-493	die	_	
+5-15	494-509	Hauptverbindung	_	
+5-16	510-513	von	*[14]	
+5-17	514-523	Kessenich	*[14]	
+5-18	524-526	zu	_	
+5-19	527-530	den	_	
+5-20	531-537	vielen	_	
+5-21	538-552	Arbeitsplätzen	_	
+5-22	553-555	im	*[15]	
+5-23	556-566	ehemaligen	*[15]	
+5-24	567-584	Regierungsviertel	*[15]	
+5-25	585-588	ist	_	
+5-26	588-589	.	_	
+
+#Text=Mit dem Schließen des Bahnübergangs an der Walter-Flex-Straße und dem Bau einer Unterführung war bei mir die Hoffnung groß, dass die Stadt Bonn den angestrebten Titel Fahrradhauptstadt ernst nimmt und die Unterführung auch gleich unter der Joseph-Beuys-Allee führt, so dass die Überquerung dieser Straße gar nicht mehr notwendig ist.
+6-1	590-593	Mit	_	
+6-2	594-597	dem	_	
+6-3	598-607	Schließen	_	
+6-4	608-611	des	_	
+6-5	612-625	Bahnübergangs	_	
+6-6	626-628	an	_	
+6-7	629-632	der	_	
+6-8	633-651	Walter-Flex-Straße	*	
+6-9	652-655	und	_	
+6-10	656-659	dem	_	
+6-11	660-663	Bau	_	
+6-12	664-669	einer	_	
+6-13	670-682	Unterführung	_	
+6-14	683-686	war	_	
+6-15	687-690	bei	_	
+6-16	691-694	mir	_	
+6-17	695-698	die	_	
+6-18	699-707	Hoffnung	_	
+6-19	708-712	groß	_	
+6-20	712-713	,	_	
+6-21	714-718	dass	_	
+6-22	719-722	die	_	
+6-23	723-728	Stadt	_	
+6-24	729-733	Bonn	*	
+6-25	734-737	den	_	
+6-26	738-750	angestrebten	_	
+6-27	751-756	Titel	_	
+6-28	757-774	Fahrradhauptstadt	_	
+6-29	775-780	ernst	_	
+6-30	781-786	nimmt	_	
+6-31	787-790	und	_	
+6-32	791-794	die	_	
+6-33	795-807	Unterführung	_	
+6-34	808-812	auch	_	
+6-35	813-819	gleich	_	
+6-36	820-825	unter	_	
+6-37	826-829	der	_	
+6-38	830-848	Joseph-Beuys-Allee	*	
+6-39	849-854	führt	_	
+6-40	854-855	,	_	
+6-41	856-858	so	_	
+6-42	859-863	dass	_	
+6-43	864-867	die	_	
+6-44	868-879	Überquerung	_	
+6-45	880-886	dieser	_	
+6-46	887-893	Straße	_	
+6-47	894-897	gar	_	
+6-48	898-903	nicht	_	
+6-49	904-908	mehr	_	
+6-50	909-918	notwendig	_	
+6-51	919-922	ist	_	
+6-52	922-923	.	_	
+
+#Text=Leider zeigte sich ziemlich schnell, dass sich diese Hoffnung nicht erfüllen würde.
+7-1	924-930	Leider	_	
+7-2	931-937	zeigte	_	
+7-3	938-942	sich	_	
+7-4	943-951	ziemlich	_	
+7-5	952-959	schnell	_	
+7-6	959-960	,	_	
+7-7	961-965	dass	_	
+7-8	966-970	sich	_	
+7-9	971-976	diese	_	
+7-10	977-985	Hoffnung	_	
+7-11	986-991	nicht	_	
+7-12	992-1000	erfüllen	_	
+7-13	1001-1006	würde	_	
+7-14	1006-1007	.	_	
+
+#Text=Spannend wird es, wie geeignet die Unterführung jetzt für Radler ist und wie diese dann zur Walter-Flex-Straße geführt werden.
+8-1	1008-1016	Spannend	_	
+8-2	1017-1021	wird	_	
+8-3	1022-1024	es	_	
+8-4	1024-1025	,	_	
+8-5	1026-1029	wie	_	
+8-6	1030-1038	geeignet	_	
+8-7	1039-1042	die	_	
+8-8	1043-1055	Unterführung	_	
+8-9	1056-1061	jetzt	_	
+8-10	1062-1065	für	_	
+8-11	1066-1072	Radler	_	
+8-12	1073-1076	ist	_	
+8-13	1077-1080	und	_	
+8-14	1081-1084	wie	_	
+8-15	1085-1090	diese	_	
+8-16	1091-1095	dann	_	
+8-17	1096-1099	zur	*[16]	
+8-18	1100-1118	Walter-Flex-Straße	*[16]	
+8-19	1119-1126	geführt	_	
+8-20	1127-1133	werden	_	
+8-21	1133-1134	.	_	
+
+#Text=Ich hoffe zumindest, dass man hier nicht wieder absteigen muss.
+9-1	1135-1138	Ich	_	
+9-2	1139-1144	hoffe	_	
+9-3	1145-1154	zumindest	_	
+9-4	1154-1155	,	_	
+9-5	1156-1160	dass	_	
+9-6	1161-1164	man	_	
+9-7	1165-1169	hier	_	
+9-8	1170-1175	nicht	_	
+9-9	1176-1182	wieder	_	
+9-10	1183-1192	absteigen	_	
+9-11	1193-1197	muss	_	
+9-12	1197-1198	.	_	
+
+#Text=Eine Vorrang für Radler - wie in Beuel am alten Bröhltalbahnweg - wäre wünschenswert.
+10-1	1199-1203	Eine	_	
+10-2	1204-1211	Vorrang	_	
+10-3	1212-1215	für	_	
+10-4	1216-1222	Radler	_	
+10-5	1223-1224	-	_	
+10-6	1225-1228	wie	_	
+10-7	1229-1231	in	*[17]	
+10-8	1232-1237	Beuel	*[17]	
+10-9	1238-1240	am	*[17]	
+10-10	1241-1246	alten	*[17]	
+10-11	1247-1262	Bröhltalbahnweg	*[17]	
+10-12	1263-1264	-	_	
+10-13	1265-1269	wäre	_	
+10-14	1270-1283	wünschenswert	_	
+10-15	1283-1284	.	_	

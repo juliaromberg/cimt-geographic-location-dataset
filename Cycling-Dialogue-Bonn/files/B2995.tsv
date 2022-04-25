@@ -1,0 +1,29 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwege
+1-1	0-7	Radwege	_	
+
+#Text=Liebe Verkehrspolitiker Radwege mit fluoreszierenden Belag ausstatten, zum Anleuchten.
+2-1	10-15	Liebe	_	
+2-2	16-33	Verkehrspolitiker	_	
+2-3	34-41	Radwege	_	
+2-4	42-45	mit	_	
+2-5	46-62	fluoreszierenden	_	
+2-6	63-68	Belag	_	
+2-7	69-79	ausstatten	_	
+2-8	79-80	,	_	
+2-9	81-84	zum	_	
+2-10	85-95	Anleuchten	_	
+2-11	95-96	.	_	
+
+#Text=kostet leider auch Bernd Thelen Bonn
+3-1	97-103	kostet	_	
+3-2	104-110	leider	_	
+3-3	111-115	auch	_	
+3-4	116-121	Bernd	_	
+3-5	122-128	Thelen	_	
+3-6	129-133	Bonn	_	

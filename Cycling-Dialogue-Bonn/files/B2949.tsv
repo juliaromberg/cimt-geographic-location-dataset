@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=schmaler Radweg mit schlechter Oberfläche
+1-1	0-8	schmaler	_	
+1-2	9-15	Radweg	_	
+1-3	16-19	mit	_	
+1-4	20-30	schlechter	_	
+1-5	31-41	Oberfläche	_	
+
+#Text=Der Radweg, der an dieser Stelle von der Kennedyallee Richtung B9 führt, ist teilweise äußerst schmal und außerdem holperig.
+2-1	44-47	Der	_	
+2-2	48-54	Radweg	_	
+2-3	54-55	,	_	
+2-4	56-59	der	_	
+2-5	60-62	an	_	
+2-6	63-69	dieser	_	
+2-7	70-76	Stelle	_	
+2-8	77-80	von	*[3]	
+2-9	81-84	der	*[3]	
+2-10	85-97	Kennedyallee	*[3]	
+2-11	98-106	Richtung	*[3]	
+2-12	107-109	B9	*[3]	
+2-13	110-115	führt	_	
+2-14	115-116	,	_	
+2-15	117-120	ist	_	
+2-16	121-130	teilweise	_	
+2-17	131-138	äußerst	_	
+2-18	139-145	schmal	_	
+2-19	146-149	und	_	
+2-20	150-158	außerdem	_	
+2-21	159-167	holperig	_	
+2-22	167-168	.	_	

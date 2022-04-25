@@ -1,0 +1,60 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraßen
+1-1	0-14	Fahrradstraßen	_	
+
+#Text=Eine Informationskampagne über die Vekehrsregel einer Fahrradstaße wäre absolut notwendig, da die meisten Bürger sie nicht kennen.
+2-1	17-21	Eine	_	
+2-2	22-42	Informationskampagne	_	
+2-3	43-47	über	_	
+2-4	48-51	die	_	
+2-5	52-64	Vekehrsregel	_	
+2-6	65-70	einer	_	
+2-7	71-83	Fahrradstaße	_	
+2-8	84-88	wäre	_	
+2-9	89-96	absolut	_	
+2-10	97-106	notwendig	_	
+2-11	106-107	,	_	
+2-12	108-110	da	_	
+2-13	111-114	die	_	
+2-14	115-122	meisten	_	
+2-15	123-129	Bürger	_	
+2-16	130-133	sie	_	
+2-17	134-139	nicht	_	
+2-18	140-146	kennen	_	
+2-19	146-147	.	_	
+
+#Text=Es hat wenig Sinn markierungen auf dem Boden zu haben, wenn keiner weiß, was es bedeutet.
+3-1	148-150	Es	_	
+3-2	151-154	hat	_	
+3-3	155-160	wenig	_	
+3-4	161-165	Sinn	_	
+3-5	166-178	markierungen	_	
+3-6	179-182	auf	_	
+3-7	183-186	dem	_	
+3-8	187-192	Boden	_	
+3-9	193-195	zu	_	
+3-10	196-201	haben	_	
+3-11	201-202	,	_	
+3-12	203-207	wenn	_	
+3-13	208-214	keiner	_	
+3-14	215-219	weiß	_	
+3-15	219-220	,	_	
+3-16	221-224	was	_	
+3-17	225-227	es	_	
+3-18	228-236	bedeutet	_	
+3-19	236-237	.	_	
+
+#Text=Ein normalerAutofahrer wird sich nicht selbständig informieren.
+4-1	238-241	Ein	_	
+4-2	242-260	normalerAutofahrer	_	
+4-3	261-265	wird	_	
+4-4	266-270	sich	_	
+4-5	271-276	nicht	_	
+4-6	277-288	selbständig	_	
+4-7	289-300	informieren	_	
+4-8	300-301	.	_	

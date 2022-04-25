@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Keine Grünphase für Radfahrer an der Kreutzung Euskirchenerstr. Konrad Adenauer Damm
+1-1	0-5	Keine	_	
+1-2	6-15	Grünphase	_	
+1-3	16-19	für	_	
+1-4	20-29	Radfahrer	_	
+1-5	30-32	an	*[3]	
+1-6	33-36	der	*[3]	
+1-7	37-46	Kreutzung	*[3]	
+1-8	47-62	Euskirchenerstr	*[3]	
+1-9	62-63	.	*[3]	
+1-10	64-70	Konrad	*[3]	
+1-11	71-79	Adenauer	*[3]	
+1-12	80-84	Damm	*[3]	
+
+#Text=Auf dem Radweg Euskirchener Str aus Nettekoven kommend Richtung Duisdorf haben die Autofahrer Grün Radfahrer nicht.
+2-1	87-90	Auf	_	
+2-2	91-94	dem	_	
+2-3	95-101	Radweg	_	
+2-4	102-114	Euskirchener	*[4]	
+2-5	115-118	Str	*[4]	
+2-6	119-122	aus	*[4]	
+2-7	123-133	Nettekoven	*[4]	
+2-8	134-141	kommend	*[4]	
+2-9	142-150	Richtung	*[4]	
+2-10	151-159	Duisdorf	*[4]	
+2-11	160-165	haben	_	
+2-12	166-169	die	_	
+2-13	170-180	Autofahrer	_	
+2-14	181-185	Grün	_	
+2-15	186-195	Radfahrer	_	
+2-16	196-201	nicht	_	
+2-17	201-202	.	_	

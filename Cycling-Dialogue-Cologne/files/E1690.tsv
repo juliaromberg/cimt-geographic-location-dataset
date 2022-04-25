@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vorrang für zukünftigen Radschnellweg
+1-1	0-7	Vorrang	_	
+1-2	8-11	für	_	
+1-3	12-23	zukünftigen	_	
+1-4	24-37	Radschnellweg	_	
+
+#Text=Der Mühlenweg wird hier von vielen KFZ als Umfahrung der Mathias-Brüggen-Straße genutzt.
+2-1	40-43	Der	*[5]	
+2-2	44-53	Mühlenweg	*[5]	
+2-3	54-58	wird	_	
+2-4	59-63	hier	_	
+2-5	64-67	von	_	
+2-6	68-74	vielen	_	
+2-7	75-78	KFZ	_	
+2-8	79-82	als	_	
+2-9	83-92	Umfahrung	*[6]	
+2-10	93-96	der	*[6]	
+2-11	97-119	Mathias-Brüggen-Straße	*[6]	
+2-12	120-127	genutzt	_	
+2-13	127-128	.	_	
+
+#Text=Für Radfahrer ist dieser Knotenpunkt besonders gefährlich, da auch die Sichtbeziehungen nicht aus allen Richtungen gegeben sind und Kfz die Kurve gefährlich schneiden.
+3-1	129-132	Für	_	
+3-2	133-142	Radfahrer	_	
+3-3	143-146	ist	_	
+3-4	147-153	dieser	_	
+3-5	154-165	Knotenpunkt	_	
+3-6	166-175	besonders	_	
+3-7	176-186	gefährlich	_	
+3-8	186-187	,	_	
+3-9	188-190	da	_	
+3-10	191-195	auch	_	
+3-11	196-199	die	_	
+3-12	200-216	Sichtbeziehungen	_	
+3-13	217-222	nicht	_	
+3-14	223-226	aus	_	
+3-15	227-232	allen	_	
+3-16	233-243	Richtungen	_	
+3-17	244-251	gegeben	_	
+3-18	252-256	sind	_	
+3-19	257-260	und	_	
+3-20	261-264	Kfz	_	
+3-21	265-268	die	_	
+3-22	269-274	Kurve	_	
+3-23	275-285	gefährlich	_	
+3-24	286-295	schneiden	_	
+3-25	295-296	.	_	
+
+#Text=Vorschlag: Sackgasse bis Friedhof, Knotenpunkt für Radschnellweg in Richtung Innenstadt bevorrechtigen.
+4-1	297-306	Vorschlag	_	
+4-2	306-307	:	_	
+4-3	308-317	Sackgasse	_	
+4-4	318-321	bis	_	
+4-5	322-330	Friedhof	_	
+4-6	330-331	,	_	
+4-7	332-343	Knotenpunkt	_	
+4-8	344-347	für	_	
+4-9	348-361	Radschnellweg	_	
+4-10	362-364	in	*[7]	
+4-11	365-373	Richtung	*[7]	
+4-12	374-384	Innenstadt	*[7]	
+4-13	385-399	bevorrechtigen	_	
+4-14	399-400	.	_	

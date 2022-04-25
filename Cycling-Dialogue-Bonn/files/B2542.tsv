@@ -1,0 +1,67 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=PARKENDE AUTOS
+1-1	0-8	PARKENDE	_	
+1-2	9-14	AUTOS	_	
+
+#Text=Immer, wenn ich diese Straße täglich fahre, parken Lieferwagen und Autos auf dem Gehweg.
+2-1	17-22	Immer	_	
+2-2	22-23	,	_	
+2-3	24-28	wenn	_	
+2-4	29-32	ich	_	
+2-5	33-38	diese	_	
+2-6	39-45	Straße	_	
+2-7	46-53	täglich	_	
+2-8	54-59	fahre	_	
+2-9	59-60	,	_	
+2-10	61-67	parken	_	
+2-11	68-79	Lieferwagen	_	
+2-12	80-83	und	_	
+2-13	84-89	Autos	_	
+2-14	90-93	auf	_	
+2-15	94-97	dem	_	
+2-16	98-104	Gehweg	_	
+2-17	104-105	.	_	
+
+#Text=Ich will ausweichen auf die Straße und werden von Autos angehupt.
+3-1	106-109	Ich	_	
+3-2	110-114	will	_	
+3-3	115-125	ausweichen	_	
+3-4	126-129	auf	_	
+3-5	130-133	die	_	
+3-6	134-140	Straße	_	
+3-7	141-144	und	_	
+3-8	145-151	werden	_	
+3-9	152-155	von	_	
+3-10	156-161	Autos	_	
+3-11	162-170	angehupt	_	
+3-12	170-171	.	_	
+
+#Text=Der Radweg soll hier mit einer durchgezogenen Linie begrenzt werden, damit wir mehr Platz haben und vielleicht weniger Autos dort parken.
+4-1	172-175	Der	_	
+4-2	176-182	Radweg	_	
+4-3	183-187	soll	_	
+4-4	188-192	hier	_	
+4-5	193-196	mit	_	
+4-6	197-202	einer	_	
+4-7	203-217	durchgezogenen	_	
+4-8	218-223	Linie	_	
+4-9	224-232	begrenzt	_	
+4-10	233-239	werden	_	
+4-11	239-240	,	_	
+4-12	241-246	damit	_	
+4-13	247-250	wir	_	
+4-14	251-255	mehr	_	
+4-15	256-261	Platz	_	
+4-16	262-267	haben	_	
+4-17	268-271	und	_	
+4-18	272-282	vielleicht	_	
+4-19	283-290	weniger	_	
+4-20	291-296	Autos	_	
+4-21	297-301	dort	_	
+4-22	302-308	parken	_	
+4-23	308-309	.	_	

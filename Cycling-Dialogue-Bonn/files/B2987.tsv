@@ -1,0 +1,121 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radfahrern wird hier fast immer Vorfahrt genommen
+1-1	0-10	Radfahrern	_	
+1-2	11-15	wird	_	
+1-3	16-20	hier	_	
+1-4	21-25	fast	_	
+1-5	26-31	immer	_	
+1-6	32-40	Vorfahrt	_	
+1-7	41-49	genommen	_	
+
+#Text=Radfahrer, die auf der Straße Am Boeselagerhof (vor der Oper) in die Rheingasse einbiegen, haben gegenüber von unten kommenden Fahrzeugen Vorfahrt.
+2-1	52-61	Radfahrer	_	
+2-2	61-62	,	_	
+2-3	63-66	die	_	
+2-4	67-70	auf	*[7]	
+2-5	71-74	der	*[7]	
+2-6	75-81	Straße	*[7]	
+2-7	82-84	Am	*[7]	
+2-8	85-98	Boeselagerhof	*[7]	
+2-9	99-100	(	*[7]	
+2-10	100-103	vor	*[7]	
+2-11	104-107	der	*[7]	
+2-12	108-112	Oper	*[7]	
+2-13	112-113	)	*[7]	
+2-14	114-116	in	*[7]	
+2-15	117-120	die	*[7]	
+2-16	121-131	Rheingasse	*[7]	
+2-17	132-141	einbiegen	*[7]	
+2-18	141-142	,	_	
+2-19	143-148	haben	_	
+2-20	149-158	gegenüber	_	
+2-21	159-162	von	_	
+2-22	163-168	unten	_	
+2-23	169-178	kommenden	_	
+2-24	179-189	Fahrzeugen	_	
+2-25	190-198	Vorfahrt	_	
+2-26	198-199	.	_	
+
+#Text=Zumindest theoretisch.
+3-1	200-209	Zumindest	_	
+3-2	210-221	theoretisch	_	
+3-3	221-222	.	_	
+
+#Text=Praktisch jedoch nehmen 2 von 3 Autofahrer Radfahrern hier die Vorfahrt.
+4-1	223-232	Praktisch	_	
+4-2	233-239	jedoch	_	
+4-3	240-246	nehmen	_	
+4-4	247-248	2	_	
+4-5	249-252	von	_	
+4-6	253-254	3	_	
+4-7	255-265	Autofahrer	_	
+4-8	266-276	Radfahrern	_	
+4-9	277-281	hier	_	
+4-10	282-285	die	_	
+4-11	286-294	Vorfahrt	_	
+4-12	294-295	.	_	
+
+#Text=Das auf Vorfahrt hinweisende Verkehrsschild wird von den von unten kommenden Autofahrer kaum wahrgenommen, weil zwischen der nach oben führenden Fahrbahn nach rechts zusätzlich eine Abbiegespur verläuft, siehe https://goo.gl/YMqeS3
+5-1	296-299	Das	_	
+5-2	300-303	auf	_	
+5-3	304-312	Vorfahrt	_	
+5-4	313-324	hinweisende	_	
+5-5	325-339	Verkehrsschild	_	
+5-6	340-344	wird	_	
+5-7	345-348	von	_	
+5-8	349-352	den	_	
+5-9	353-356	von	_	
+5-10	357-362	unten	_	
+5-11	363-372	kommenden	_	
+5-12	373-383	Autofahrer	_	
+5-13	384-388	kaum	_	
+5-14	389-401	wahrgenommen	_	
+5-15	401-402	,	_	
+5-16	403-407	weil	_	
+5-17	408-416	zwischen	_	
+5-18	417-420	der	_	
+5-19	421-425	nach	_	
+5-20	426-430	oben	_	
+5-21	431-440	führenden	_	
+5-22	441-449	Fahrbahn	_	
+5-23	450-454	nach	_	
+5-24	455-461	rechts	_	
+5-25	462-472	zusätzlich	_	
+5-26	473-477	eine	_	
+5-27	478-489	Abbiegespur	_	
+5-28	490-498	verläuft	_	
+5-29	498-499	,	_	
+5-30	500-505	siehe	_	
+5-31	506-511	https	_	
+5-32	511-512	:	_	
+5-33	512-513	/	_	
+5-34	513-514	/	_	
+5-35	514-520	goo.gl	_	
+5-36	520-521	/	_	
+5-37	521-527	YMqeS3	_	
+
+#Text=Diese Situation muss verbessert werden, denn hier fahren viele Radfahrer lang, die von der Kennedybrücke kommen.
+6-1	528-533	Diese	_	
+6-2	534-543	Situation	_	
+6-3	544-548	muss	_	
+6-4	549-559	verbessert	_	
+6-5	560-566	werden	_	
+6-6	566-567	,	_	
+6-7	568-572	denn	_	
+6-8	573-577	hier	_	
+6-9	578-584	fahren	_	
+6-10	585-590	viele	_	
+6-11	591-600	Radfahrer	_	
+6-12	601-605	lang	_	
+6-13	605-606	,	_	
+6-14	607-610	die	_	
+6-15	611-614	von	*[8]	
+6-16	615-618	der	*[8]	
+6-17	619-632	Kennedybrücke	*[8]	
+6-18	633-639	kommen	*[8]	
+6-19	639-640	.	_	

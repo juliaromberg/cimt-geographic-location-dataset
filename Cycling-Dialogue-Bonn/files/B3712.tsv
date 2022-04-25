@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg zwischen Combahnsr. und Kreuzstr. (auf der B65 in Richtung St.Augustin)
+1-1	0-6	Radweg	*[5]	
+1-2	7-15	zwischen	*[5]	
+1-3	16-25	Combahnsr	*[5]	
+1-4	25-26	.	*[5]	
+1-5	27-30	und	*[5]	
+1-6	31-39	Kreuzstr	*[5]	
+1-7	39-40	.	*[5]	
+1-8	41-42	(	*[5]	
+1-9	42-45	auf	*[5]	
+1-10	46-49	der	*[5]	
+1-11	50-53	B65	*[5]	
+1-12	54-56	in	*[5]	
+1-13	57-65	Richtung	*[5]	
+1-14	66-77	St.Augustin	*[5]	
+1-15	77-78	)	_	
+
+#Text=sehr gefährlicher Abschnitt für Radfahrer, da zwei Autospuren+ Straßenbahn.
+2-1	81-85	sehr	_	
+2-2	86-98	gefährlicher	_	
+2-3	99-108	Abschnitt	_	
+2-4	109-112	für	_	
+2-5	113-122	Radfahrer	_	
+2-6	122-123	,	_	
+2-7	124-126	da	_	
+2-8	127-131	zwei	_	
+2-9	132-142	Autospuren	_	
+2-10	142-143	+	_	
+2-11	144-155	Straßenbahn	_	
+2-12	155-156	.	_	
+
+#Text=Autos überholen/ schneiden Fahrräder mit hoher Geschwindigkeit, der Radfahrer auf dem Fahrradstreifen ist besonders mit LKWs sehr gefährdet.
+3-1	157-162	Autos	_	
+3-2	163-172	überholen	_	
+3-3	172-173	/	_	
+3-4	174-183	schneiden	_	
+3-5	184-193	Fahrräder	_	
+3-6	194-197	mit	_	
+3-7	198-203	hoher	_	
+3-8	204-219	Geschwindigkeit	_	
+3-9	219-220	,	_	
+3-10	221-224	der	_	
+3-11	225-234	Radfahrer	_	
+3-12	235-238	auf	_	
+3-13	239-242	dem	_	
+3-14	243-258	Fahrradstreifen	_	
+3-15	259-262	ist	_	
+3-16	263-272	besonders	_	
+3-17	273-276	mit	_	
+3-18	277-281	LKWs	_	
+3-19	282-286	sehr	_	
+3-20	287-296	gefährdet	_	
+3-21	296-297	.	_	
+
+#Text=Es sollte bis zur Kreuzstr. nur eine Autospur zugelassen sein.
+4-1	298-300	Es	_	
+4-2	301-307	sollte	_	
+4-3	308-311	bis	_	
+4-4	312-315	zur	_	
+4-5	316-324	Kreuzstr	_	
+4-6	324-325	.	_	
+4-7	326-329	nur	_	
+4-8	330-334	eine	_	
+4-9	335-343	Autospur	_	
+4-10	344-354	zugelassen	_	
+4-11	355-359	sein	_	
+4-12	359-360	.	_	

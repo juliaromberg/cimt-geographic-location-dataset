@@ -1,0 +1,65 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verschwenkung des Schutzstreifens auf den Seitenweg über Bordstein
+1-1	0-13	Verschwenkung	_	
+1-2	14-17	des	_	
+1-3	18-33	Schutzstreifens	_	
+1-4	34-37	auf	_	
+1-5	38-41	den	_	
+1-6	42-51	Seitenweg	_	
+1-7	52-56	über	_	
+1-8	57-66	Bordstein	_	
+
+#Text=An dieser Stelle endet der Fahrradschutzstreifen und der Seitenweg wird sowohl für Radfahrer als auch Fußgänger freigegeben.
+2-1	69-71	An	_	
+2-2	72-78	dieser	_	
+2-3	79-85	Stelle	_	
+2-4	86-91	endet	_	
+2-5	92-95	der	_	
+2-6	96-117	Fahrradschutzstreifen	_	
+2-7	118-121	und	_	
+2-8	122-125	der	_	
+2-9	126-135	Seitenweg	_	
+2-10	136-140	wird	_	
+2-11	141-147	sowohl	_	
+2-12	148-151	für	_	
+2-13	152-161	Radfahrer	_	
+2-14	162-165	als	_	
+2-15	166-170	auch	_	
+2-16	171-180	Fußgänger	_	
+2-17	181-192	freigegeben	_	
+2-18	192-193	.	_	
+
+#Text=Allerdings ist aufgrund des hohen Bordsteins ein Wechsel nur in Schrittgeschwindigkeit möglich.
+3-1	194-204	Allerdings	_	
+3-2	205-208	ist	_	
+3-3	209-217	aufgrund	_	
+3-4	218-221	des	_	
+3-5	222-227	hohen	_	
+3-6	228-238	Bordsteins	_	
+3-7	239-242	ein	_	
+3-8	243-250	Wechsel	_	
+3-9	251-254	nur	_	
+3-10	255-257	in	_	
+3-11	258-280	Schrittgeschwindigkeit	_	
+3-12	281-288	möglich	_	
+3-13	288-289	.	_	
+
+#Text=Daher entweder den SChutzstreifen bis zur Telekom verlängern oder eine Rampe errichten.
+4-1	290-295	Daher	_	
+4-2	296-304	entweder	_	
+4-3	305-308	den	_	
+4-4	309-323	SChutzstreifen	_	
+4-5	324-327	bis	_	
+4-6	328-331	zur	*[5]	
+4-7	332-339	Telekom	*[5]	
+4-8	340-350	verlängern	_	
+4-9	351-355	oder	_	
+4-10	356-360	eine	_	
+4-11	361-366	Rampe	_	
+4-12	367-376	errichten	_	
+4-13	376-377	.	_	

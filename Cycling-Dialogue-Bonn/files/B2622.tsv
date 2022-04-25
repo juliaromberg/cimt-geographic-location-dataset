@@ -1,0 +1,78 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wartebereich für Linksabbiegende Radfahrer
+1-1	0-12	Wartebereich	_	
+1-2	13-16	für	_	
+1-3	17-32	Linksabbiegende	_	
+1-4	33-42	Radfahrer	_	
+
+#Text=Von der südlichen Burbacher Str kommend ist die Warteposition für auf die Reuterstr links abbiegende Radfahrer sehr unsicher.
+2-1	45-48	Von	*[5]	
+2-2	49-52	der	*[5]	
+2-3	53-62	südlichen	*[5]	
+2-4	63-72	Burbacher	*[5]	
+2-5	73-76	Str	*[5]	
+2-6	77-84	kommend	*[5]	
+2-7	85-88	ist	_	
+2-8	89-92	die	_	
+2-9	93-106	Warteposition	_	
+2-10	107-110	für	_	
+2-11	111-114	auf	_	
+2-12	115-118	die	*[6]	
+2-13	119-128	Reuterstr	*[6]	
+2-14	129-134	links	*[6]	
+2-15	135-145	abbiegende	*[6]	
+2-16	146-155	Radfahrer	_	
+2-17	156-160	sehr	_	
+2-18	161-169	unsicher	_	
+2-19	169-170	.	_	
+
+#Text=Man steht quasi auf der Gegenfahrbahn in einer Kurve und der lediglich durch eine Bodenmarkierung gesicherte Wartebereich wird regelmäßig von Autos/LKW, welche sehr schnell von der Reuterstr nach rechts abbiegen, überfahren.
+3-1	171-174	Man	_	
+3-2	175-180	steht	_	
+3-3	181-186	quasi	_	
+3-4	187-190	auf	_	
+3-5	191-194	der	_	
+3-6	195-208	Gegenfahrbahn	_	
+3-7	209-211	in	_	
+3-8	212-217	einer	_	
+3-9	218-223	Kurve	_	
+3-10	224-227	und	_	
+3-11	228-231	der	_	
+3-12	232-241	lediglich	_	
+3-13	242-247	durch	_	
+3-14	248-252	eine	_	
+3-15	253-268	Bodenmarkierung	_	
+3-16	269-279	gesicherte	_	
+3-17	280-292	Wartebereich	_	
+3-18	293-297	wird	_	
+3-19	298-308	regelmäßig	_	
+3-20	309-312	von	_	
+3-21	313-318	Autos	_	
+3-22	318-319	/	_	
+3-23	319-322	LKW	_	
+3-24	322-323	,	_	
+3-25	324-330	welche	_	
+3-26	331-335	sehr	_	
+3-27	336-343	schnell	_	
+3-28	344-347	von	_	
+3-29	348-351	der	_	
+3-30	352-361	Reuterstr	_	
+3-31	362-366	nach	_	
+3-32	367-373	rechts	_	
+3-33	374-382	abbiegen	_	
+3-34	382-383	,	_	
+3-35	384-394	überfahren	_	
+3-36	394-395	.	_	
+
+#Text=Kein sicherer Warteplatz für Radfahrer!
+4-1	396-400	Kein	_	
+4-2	401-409	sicherer	_	
+4-3	410-420	Warteplatz	_	
+4-4	421-424	für	_	
+4-5	425-434	Radfahrer	_	
+4-6	434-435	!	_	

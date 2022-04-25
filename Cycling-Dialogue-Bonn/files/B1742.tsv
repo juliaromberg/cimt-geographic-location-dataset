@@ -1,0 +1,85 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vorfahrt wird genommen
+1-1	0-8	Vorfahrt	_	
+1-2	9-13	wird	_	
+1-3	14-22	genommen	_	
+
+#Text=An dieser Stelle wird einem sehr häufig die Vorfahrt genommen, wenn man aus dem Wiesenweg kommt.
+2-1	25-27	An	_	
+2-2	28-34	dieser	_	
+2-3	35-41	Stelle	_	
+2-4	42-46	wird	_	
+2-5	47-52	einem	_	
+2-6	53-57	sehr	_	
+2-7	58-64	häufig	_	
+2-8	65-68	die	_	
+2-9	69-77	Vorfahrt	_	
+2-10	78-86	genommen	_	
+2-11	86-87	,	_	
+2-12	88-92	wenn	_	
+2-13	93-96	man	_	
+2-14	97-100	aus	*[7]	
+2-15	101-104	dem	*[7]	
+2-16	105-114	Wiesenweg	*[7]	
+2-17	115-120	kommt	*[7]	
+2-18	120-121	.	_	
+
+#Text=Wenn man das nicht weiß, ist das hier sehr gefahrlich.
+3-1	122-126	Wenn	_	
+3-2	127-130	man	_	
+3-3	131-134	das	_	
+3-4	135-140	nicht	_	
+3-5	141-145	weiß	_	
+3-6	145-146	,	_	
+3-7	147-150	ist	_	
+3-8	151-154	das	_	
+3-9	155-159	hier	_	
+3-10	160-164	sehr	_	
+3-11	165-175	gefahrlich	_	
+3-12	175-176	.	_	
+
+#Text=Denn für Radfahrer ist der Wiesenweg die Hauptverkehrsroute, für Autofahrer ist es die Endenicher Allee und die Alfred-Bucherer-Straße.
+4-1	177-181	Denn	_	
+4-2	182-185	für	_	
+4-3	186-195	Radfahrer	_	
+4-4	196-199	ist	_	
+4-5	200-203	der	*[8]	
+4-6	204-213	Wiesenweg	*[8]	
+4-7	214-217	die	_	
+4-8	218-236	Hauptverkehrsroute	_	
+4-9	236-237	,	_	
+4-10	238-241	für	_	
+4-11	242-252	Autofahrer	_	
+4-12	253-256	ist	_	
+4-13	257-259	es	_	
+4-14	260-263	die	*[9]	
+4-15	264-274	Endenicher	*[9]	
+4-16	275-280	Allee	*[9]	
+4-17	281-284	und	*[9]	
+4-18	285-288	die	*[9]	
+4-19	289-311	Alfred-Bucherer-Straße	*[9]	
+4-20	311-312	.	_	
+
+#Text=Es sollten mehr Kontrollen stattfinden.
+5-1	313-315	Es	_	
+5-2	316-323	sollten	_	
+5-3	324-328	mehr	_	
+5-4	329-339	Kontrollen	_	
+5-5	340-351	stattfinden	_	
+5-6	351-352	.	_	
+
+#Text=Ggf. lässt sich eine abknickende Vorfahrt realisieren.
+6-1	353-356	Ggf	_	
+6-2	356-357	.	_	
+6-3	358-363	lässt	_	
+6-4	364-368	sich	_	
+6-5	369-373	eine	_	
+6-6	374-385	abknickende	_	
+6-7	386-394	Vorfahrt	_	
+6-8	395-406	realisieren	_	
+6-9	406-407	.	_	

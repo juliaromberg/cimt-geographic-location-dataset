@@ -1,0 +1,99 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einrichtung einer Fahrradstraße Wiesenweg, Schubertstraße, Richard-Wagner-Straße, Lisztstraße
+1-1	0-11	Einrichtung	_	
+1-2	12-17	einer	_	
+1-3	18-31	Fahrradstraße	_	
+1-4	32-41	Wiesenweg	*[7]	
+1-5	41-42	,	*[7]	
+1-6	43-57	Schubertstraße	*[7]	
+1-7	57-58	,	*[7]	
+1-8	59-80	Richard-Wagner-Straße	*[7]	
+1-9	80-81	,	*[7]	
+1-10	82-93	Lisztstraße	*[7]	
+
+#Text=Einrichtung einer Fahrradstraße Wiesenweg, Schubertstraße, Richard-Wagner-Straße, Lisztstraße.
+2-1	96-107	Einrichtung	_	
+2-2	108-113	einer	_	
+2-3	114-127	Fahrradstraße	_	
+2-4	128-137	Wiesenweg	*[8]	
+2-5	137-138	,	*[8]	
+2-6	139-153	Schubertstraße	*[8]	
+2-7	153-154	,	*[8]	
+2-8	155-176	Richard-Wagner-Straße	*[8]	
+2-9	176-177	,	*[8]	
+2-10	178-189	Lisztstraße	*[8]	
+2-11	189-190	.	_	
+
+#Text=Am Ende dort eine brauchbare Querungsmöglichkeit in richtung Viktoriabrücke.
+3-1	191-193	Am	_	
+3-2	194-198	Ende	_	
+3-3	199-203	dort	_	
+3-4	204-208	eine	_	
+3-5	209-219	brauchbare	_	
+3-6	220-239	Querungsmöglichkeit	_	
+3-7	240-242	in	*[9]	
+3-8	243-251	richtung	*[9]	
+3-9	252-266	Viktoriabrücke	*[9]	
+3-10	266-267	.	_	
+
+#Text=Und zwar an allen Kreuzungen VORFAHRTBERECHTIGT, so dass man nicht andauernd anhalten muss.
+4-1	268-271	Und	_	
+4-2	272-276	zwar	_	
+4-3	277-279	an	_	
+4-4	280-285	allen	_	
+4-5	286-296	Kreuzungen	_	
+4-6	297-315	VORFAHRTBERECHTIGT	_	
+4-7	315-316	,	_	
+4-8	317-319	so	_	
+4-9	320-324	dass	_	
+4-10	325-328	man	_	
+4-11	329-334	nicht	_	
+4-12	335-344	andauernd	_	
+4-13	345-353	anhalten	_	
+4-14	354-358	muss	_	
+4-15	358-359	.	_	
+
+#Text=Das ist gerade mit Kinderanhänger unangenehm und völlig bescheuert.
+5-1	360-363	Das	_	
+5-2	364-367	ist	_	
+5-3	368-374	gerade	_	
+5-4	375-378	mit	_	
+5-5	379-393	Kinderanhänger	_	
+5-6	394-404	unangenehm	_	
+5-7	405-408	und	_	
+5-8	409-415	völlig	_	
+5-9	416-426	bescheuert	_	
+5-10	426-427	.	_	
+
+#Text=Die Route wäre eine sichere Alternative zur Endenicher Straße mit den vielen Ampeln, den unsäglichen und viel zu schmalen Schutzstreifen und den vielen Schlaglöchern.
+6-1	428-431	Die	_	
+6-2	432-437	Route	_	
+6-3	438-442	wäre	_	
+6-4	443-447	eine	_	
+6-5	448-455	sichere	_	
+6-6	456-467	Alternative	_	
+6-7	468-471	zur	*[10]	
+6-8	472-482	Endenicher	*[10]	
+6-9	483-489	Straße	*[10]	
+6-10	490-493	mit	_	
+6-11	494-497	den	_	
+6-12	498-504	vielen	_	
+6-13	505-511	Ampeln	_	
+6-14	511-512	,	_	
+6-15	513-516	den	_	
+6-16	517-528	unsäglichen	_	
+6-17	529-532	und	_	
+6-18	533-537	viel	_	
+6-19	538-540	zu	_	
+6-20	541-549	schmalen	_	
+6-21	550-564	Schutzstreifen	_	
+6-22	565-568	und	_	
+6-23	569-572	den	_	
+6-24	573-579	vielen	_	
+6-25	580-593	Schlaglöchern	_	
+6-26	593-594	.	_	

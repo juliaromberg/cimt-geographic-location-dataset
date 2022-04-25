@@ -1,0 +1,63 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße zu eng für Autos, Parkplätze und Radverkehr
+1-1	0-13	Fahrradstraße	_	
+1-2	14-16	zu	_	
+1-3	17-20	eng	_	
+1-4	21-24	für	_	
+1-5	25-30	Autos	_	
+1-6	30-31	,	_	
+1-7	32-42	Parkplätze	_	
+1-8	43-46	und	_	
+1-9	47-57	Radverkehr	_	
+
+#Text=Das Stück der Radstraße zwischen Friedrich-Friesen-Straße und Hans-Böckler-Straße ist zu schmal, um Parkplätze beiderseits der Straße, Autos in eine Fahrrichtung, und Gegenverkehr durch Radfahrer aufnehmen zu können.
+2-1	60-63	Das	_	
+2-2	64-69	Stück	_	
+2-3	70-73	der	_	
+2-4	74-83	Radstraße	_	
+2-5	84-92	zwischen	*[4]	
+2-6	93-117	Friedrich-Friesen-Straße	*[4]	
+2-7	118-121	und	*[4]	
+2-8	122-141	Hans-Böckler-Straße	*[4]	
+2-9	142-145	ist	_	
+2-10	146-148	zu	_	
+2-11	149-155	schmal	_	
+2-12	155-156	,	_	
+2-13	157-159	um	_	
+2-14	160-170	Parkplätze	_	
+2-15	171-182	beiderseits	_	
+2-16	183-186	der	_	
+2-17	187-193	Straße	_	
+2-18	193-194	,	_	
+2-19	195-200	Autos	_	
+2-20	201-203	in	_	
+2-21	204-208	eine	_	
+2-22	209-221	Fahrrichtung	_	
+2-23	221-222	,	_	
+2-24	223-226	und	_	
+2-25	227-239	Gegenverkehr	_	
+2-26	240-245	durch	_	
+2-27	246-255	Radfahrer	_	
+2-28	256-265	aufnehmen	_	
+2-29	266-268	zu	_	
+2-30	269-275	können	_	
+2-31	275-276	.	_	
+
+#Text=Hier sollten die Parkplätze auf einer Seite der Straße entfernt werden.
+3-1	277-281	Hier	_	
+3-2	282-289	sollten	_	
+3-3	290-293	die	_	
+3-4	294-304	Parkplätze	_	
+3-5	305-308	auf	_	
+3-6	309-314	einer	_	
+3-7	315-320	Seite	_	
+3-8	321-324	der	_	
+3-9	325-331	Straße	_	
+3-10	332-340	entfernt	_	
+3-11	341-347	werden	_	
+3-12	347-348	.	_	

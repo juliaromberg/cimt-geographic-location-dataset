@@ -1,0 +1,41 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sperrung zwischen Feldweg und Stöckheimer Weg
+1-1	0-8	Sperrung	_	
+1-2	9-17	zwischen	*[3]	
+1-3	18-25	Feldweg	*[3]	
+1-4	26-29	und	*[3]	
+1-5	30-41	Stöckheimer	*[3]	
+1-6	42-45	Weg	*[3]	
+
+#Text=Es gibt immer noch Talente, die mit ihren Fahrzeugen es schaffen an Tagen mit hohem Verkehraufkommen auf der Venloer Straße den Feldweg zu nutzen.
+2-1	48-50	Es	_	
+2-2	51-55	gibt	_	
+2-3	56-61	immer	_	
+2-4	62-66	noch	_	
+2-5	67-74	Talente	_	
+2-6	74-75	,	_	
+2-7	76-79	die	_	
+2-8	80-83	mit	_	
+2-9	84-89	ihren	_	
+2-10	90-100	Fahrzeugen	_	
+2-11	101-103	es	_	
+2-12	104-112	schaffen	_	
+2-13	113-115	an	_	
+2-14	116-121	Tagen	_	
+2-15	122-125	mit	_	
+2-16	126-131	hohem	_	
+2-17	132-148	Verkehraufkommen	_	
+2-18	149-152	auf	*[4]	
+2-19	153-156	der	*[4]	
+2-20	157-164	Venloer	*[4]	
+2-21	165-171	Straße	*[4]	
+2-22	172-175	den	*[4]	
+2-23	176-183	Feldweg	*[4]	
+2-24	184-186	zu	_	
+2-25	187-193	nutzen	_	
+2-26	193-194	.	_	

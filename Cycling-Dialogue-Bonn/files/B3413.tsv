@@ -1,0 +1,299 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+#FORMAT=WebAnno TSV 3.2			_	
+#T_SP=webanno.custom.Typ|Name			_	
+#T_SP=webanno.custom.Verortung|			_	
+			_	
+			_	
+#Text=Fahrradabstellanlage am Hauptbahnhof (Ost/Cityseite)				
+1-1	0-20	Fahrradabstellanlage	_	_
+1-2	21-23	am	_	*[13]
+1-3	24-36	Hauptbahnhof	_	*[13]
+1-4	37-38	(	_	*[13]
+1-5	38-41	Ost	_	*[13]
+1-6	41-42	/	_	*[13]
+1-7	42-51	Cityseite	_	*[13]
+1-8	51-52	)	_	*[13]
+			_	
+#Text=Nach der jüngsten Einrichtung der Baustelle parken jetzt die Autos der Bauarbeiter (wenn mal welche da sind) hinter dem Bauzaun vor Gleis 1, die (zu) wenigen Radabstellständer sind hinter die Hecke gezogen worden.				
+2-1	55-59	Nach	_	_
+2-2	60-63	der	_	_
+2-3	64-72	jüngsten	_	_
+2-4	73-84	Einrichtung	_	_
+2-5	85-88	der	_	_
+2-6	89-98	Baustelle	_	_
+2-7	99-105	parken	_	_
+2-8	106-111	jetzt	_	_
+2-9	112-115	die	_	_
+2-10	116-121	Autos	_	_
+2-11	122-125	der	_	_
+2-12	126-137	Bauarbeiter	_	_
+2-13	138-139	(	_	_
+2-14	139-143	wenn	_	_
+2-15	144-147	mal	_	_
+2-16	148-154	welche	_	_
+2-17	155-157	da	_	_
+2-18	158-162	sind	_	_
+2-19	162-163	)	_	_
+2-20	164-170	hinter	_	_
+2-21	171-174	dem	_	_
+2-22	175-182	Bauzaun	_	_
+2-23	183-186	vor	_	_
+2-24	187-192	Gleis	_	_
+2-25	193-194	1	_	_
+2-26	194-195	,	_	_
+2-27	196-199	die	_	_
+2-28	200-201	(	_	_
+2-29	201-203	zu	_	_
+2-30	203-204	)	_	_
+2-31	205-212	wenigen	_	_
+2-32	213-230	Radabstellständer	_	_
+2-33	231-235	sind	_	_
+2-34	236-242	hinter	_	_
+2-35	243-246	die	_	_
+2-36	247-252	Hecke	_	_
+2-37	253-260	gezogen	_	_
+2-38	261-267	worden	_	_
+2-39	267-268	.	_	_
+			_	
+#Text=Es gibt für Bike & Ride-Pendler praktisch keine freien Abstellplätz mehr, man muss sich irgendwie dazwischen quetschen.				
+3-1	269-271	Es	_	_
+3-2	272-276	gibt	_	_
+3-3	277-280	für	_	_
+3-4	281-285	Bike	_	_
+3-5	286-287	&	_	_
+3-6	288-300	Ride-Pendler	_	_
+3-7	301-310	praktisch	_	_
+3-8	311-316	keine	_	_
+3-9	317-323	freien	_	_
+3-10	324-336	Abstellplätz	_	_
+3-11	337-341	mehr	_	_
+3-12	341-342	,	_	_
+3-13	343-346	man	_	_
+3-14	347-351	muss	_	_
+3-15	352-356	sich	_	_
+3-16	357-366	irgendwie	_	_
+3-17	367-377	dazwischen	_	_
+3-18	378-387	quetschen	_	_
+3-19	387-388	.	_	_
+			_	
+#Text=Wenn man aus der Kaiserstraße kommt, hinter dem Residence-Hotel abbiegt, die Poppelsdorfer Allee überquert sind die ersten Räder bereits am Geländer (nicht anfassen! letzte Reinigung ca. vor 20 Jahren) der Südunterführung befestigt, so dass Begegnungsverkehr zwischen Radfahrern und Fußgängern kaum noch möglich ist.				
+4-1	389-393	Wenn	_	_
+4-2	394-397	man	_	_
+4-3	398-401	aus	_	*[14]
+4-4	402-405	der	_	*[14]
+4-5	406-418	Kaiserstraße	_	*[14]
+4-6	419-424	kommt	_	*[14]
+4-7	424-425	,	_	*[14]
+4-8	426-432	hinter	_	*[14]
+4-9	433-436	dem	_	*[14]
+4-10	437-452	Residence-Hotel	_	*[14]
+4-11	453-460	abbiegt	_	*[14]
+4-12	460-461	,	_	*[14]
+4-13	462-465	die	_	*[14]
+4-14	466-479	Poppelsdorfer	_	*[14]
+4-15	480-485	Allee	_	*[14]
+4-16	486-495	überquert	_	*[14]
+4-17	496-500	sind	_	_
+4-18	501-504	die	_	_
+4-19	505-511	ersten	_	_
+4-20	512-517	Räder	_	_
+4-21	518-525	bereits	_	_
+4-22	526-528	am	_	_
+4-23	529-537	Geländer	_	_
+4-24	538-539	(	_	_
+4-25	539-544	nicht	_	_
+4-26	545-553	anfassen	_	_
+4-27	553-554	!	_	_
+4-28	555-561	letzte	_	_
+4-29	562-571	Reinigung	_	_
+4-30	572-574	ca	_	_
+4-31	574-575	.	_	_
+4-32	576-579	vor	_	_
+4-33	580-582	20	_	_
+4-34	583-589	Jahren	_	_
+4-35	589-590	)	_	_
+4-36	591-594	der	_	_
+4-37	595-610	Südunterführung	_	_
+4-38	611-620	befestigt	_	_
+4-39	620-621	,	_	_
+4-40	622-624	so	_	_
+4-41	625-629	dass	_	_
+4-42	630-647	Begegnungsverkehr	_	_
+4-43	648-656	zwischen	_	_
+4-44	657-667	Radfahrern	_	_
+4-45	668-671	und	_	_
+4-46	672-682	Fußgängern	_	_
+4-47	683-687	kaum	_	_
+4-48	688-692	noch	_	_
+4-49	693-700	möglich	_	_
+4-50	701-704	ist	_	_
+4-51	704-705	.	_	_
+			_	
+#Text=Am schlimmsten ist aber, dass die ganze Ecke fest in der Hand der Drogenszene ist, die hier Geschäfte jeglicher Art erledigt.				
+5-1	706-708	Am	_	_
+5-2	709-720	schlimmsten	_	_
+5-3	721-724	ist	_	_
+5-4	725-729	aber	_	_
+5-5	729-730	,	_	_
+5-6	731-735	dass	_	_
+5-7	736-739	die	_	_
+5-8	740-745	ganze	_	_
+5-9	746-750	Ecke	_	_
+5-10	751-755	fest	_	_
+5-11	756-758	in	_	_
+5-12	759-762	der	_	_
+5-13	763-767	Hand	_	_
+5-14	768-771	der	_	_
+5-15	772-783	Drogenszene	_	_
+5-16	784-787	ist	_	_
+5-17	787-788	,	_	_
+5-18	789-792	die	_	_
+5-19	793-797	hier	_	_
+5-20	798-807	Geschäfte	_	_
+5-21	808-817	jeglicher	_	_
+5-22	818-821	Art	_	_
+5-23	822-830	erledigt	_	_
+5-24	830-831	.	_	_
+			_	
+#Text=Ungelogen in einer Woche: Abends erst mal nicht ans Rad gekommen, weil gerade eine Frau zwischen den Rädern piselte.				
+6-1	832-841	Ungelogen	_	_
+6-2	842-844	in	_	_
+6-3	845-850	einer	_	_
+6-4	851-856	Woche	_	_
+6-5	856-857	:	_	_
+6-6	858-864	Abends	_	_
+6-7	865-869	erst	_	_
+6-8	870-873	mal	_	_
+6-9	874-879	nicht	_	_
+6-10	880-883	ans	_	_
+6-11	884-887	Rad	_	_
+6-12	888-896	gekommen	_	_
+6-13	896-897	,	_	_
+6-14	898-902	weil	_	_
+6-15	903-909	gerade	_	_
+6-16	910-914	eine	_	_
+6-17	915-919	Frau	_	_
+6-18	920-928	zwischen	_	_
+6-19	929-932	den	_	_
+6-20	933-939	Rädern	_	_
+6-21	940-947	piselte	_	_
+6-22	947-948	.	_	_
+			_	
+#Text=Hinter der Hecke wird auch gern das große Geschäft erledigt.				
+7-1	949-955	Hinter	_	_
+7-2	956-959	der	_	_
+7-3	960-965	Hecke	_	_
+7-4	966-970	wird	_	_
+7-5	971-975	auch	_	_
+7-6	976-980	gern	_	_
+7-7	981-984	das	_	_
+7-8	985-990	große	_	_
+7-9	991-999	Geschäft	_	_
+7-10	1000-1008	erledigt	_	_
+7-11	1008-1009	.	_	_
+			_	
+#Text=Und eine Gruppe junger Männer saß dort mit Spritze im Arm und drückte den Stoff in die Venen.				
+8-1	1010-1013	Und	_	_
+8-2	1014-1018	eine	_	_
+8-3	1019-1025	Gruppe	_	_
+8-4	1026-1032	junger	_	_
+8-5	1033-1039	Männer	_	_
+8-6	1040-1043	saß	_	_
+8-7	1044-1048	dort	_	_
+8-8	1049-1052	mit	_	_
+8-9	1053-1060	Spritze	_	_
+8-10	1061-1063	im	_	_
+8-11	1064-1067	Arm	_	_
+8-12	1068-1071	und	_	_
+8-13	1072-1079	drückte	_	_
+8-14	1080-1083	den	_	_
+8-15	1084-1089	Stoff	_	_
+8-16	1090-1092	in	_	_
+8-17	1093-1096	die	_	_
+8-18	1097-1102	Venen	_	_
+8-19	1102-1103	.	_	_
+			_	
+#Text=Es ist unerträglich, auch geruchsmäßig.				
+9-1	1104-1106	Es	_	_
+9-2	1107-1110	ist	_	_
+9-3	1111-1123	unerträglich	_	_
+9-4	1123-1124	,	_	_
+9-5	1125-1129	auch	_	_
+9-6	1130-1142	geruchsmäßig	_	_
+9-7	1142-1143	.	_	_
+			_	
+#Text=Warum stellt man nicht auf den Parkplatz nördlich (Platz genug) drei Dixiklos hin, da können die Leute wenigstens das ordentlich erledigen.				
+10-1	1144-1149	Warum	_	_
+10-2	1150-1156	stellt	_	_
+10-3	1157-1160	man	_	_
+10-4	1161-1166	nicht	_	_
+10-5	1167-1170	auf	_	_
+10-6	1171-1174	den	_	_
+10-7	1175-1184	Parkplatz	_	_
+10-8	1185-1193	nördlich	_	_
+10-9	1194-1195	(	_	_
+10-10	1195-1200	Platz	_	_
+10-11	1201-1206	genug	_	_
+10-12	1206-1207	)	_	_
+10-13	1208-1212	drei	_	_
+10-14	1213-1221	Dixiklos	_	_
+10-15	1222-1225	hin	_	_
+10-16	1225-1226	,	_	_
+10-17	1227-1229	da	_	_
+10-18	1230-1236	können	_	_
+10-19	1237-1240	die	_	_
+10-20	1241-1246	Leute	_	_
+10-21	1247-1257	wenigstens	_	_
+10-22	1258-1261	das	_	_
+10-23	1262-1272	ordentlich	_	_
+10-24	1273-1282	erledigen	_	_
+10-25	1282-1283	.	_	_
+			_	
+#Text=Wenn sowieso vor Gleis 1 später eine Radstation gebaut werden soll, kann man auch jetzt die Hecke entfernen und Platz für 100 zusätzliche Radständer schaffen.				
+11-1	1284-1288	Wenn	_	_
+11-2	1289-1296	sowieso	_	_
+11-3	1297-1300	vor	_	_
+11-4	1301-1306	Gleis	_	_
+11-5	1307-1308	1	_	_
+11-6	1309-1315	später	_	_
+11-7	1316-1320	eine	_	_
+11-8	1321-1331	Radstation	_	_
+11-9	1332-1338	gebaut	_	_
+11-10	1339-1345	werden	_	_
+11-11	1346-1350	soll	_	_
+11-12	1350-1351	,	_	_
+11-13	1352-1356	kann	_	_
+11-14	1357-1360	man	_	_
+11-15	1361-1365	auch	_	_
+11-16	1366-1371	jetzt	_	_
+11-17	1372-1375	die	_	_
+11-18	1376-1381	Hecke	_	_
+11-19	1382-1391	entfernen	_	_
+11-20	1392-1395	und	_	_
+11-21	1396-1401	Platz	_	_
+11-22	1402-1405	für	_	_
+11-23	1406-1409	100	_	_
+11-24	1410-1421	zusätzliche	_	_
+11-25	1422-1432	Radständer	_	_
+11-26	1433-1441	schaffen	_	_
+11-27	1441-1442	.	_	_
+			_	
+#Text=Bis 2019 (Ende der Baustelle?) ist diese Situation nicht mehr auszuhalten.				
+12-1	1443-1446	Bis	_	_
+12-2	1447-1451	2019	_	_
+12-3	1452-1453	(	_	_
+12-4	1453-1457	Ende	_	_
+12-5	1458-1461	der	_	_
+12-6	1462-1471	Baustelle	_	_
+12-7	1471-1472	?	_	_
+12-8	1472-1473	)	_	_
+12-9	1474-1477	ist	_	_
+12-10	1478-1483	diese	_	_
+12-11	1484-1493	Situation	_	_
+12-12	1494-1499	nicht	_	_
+12-13	1500-1504	mehr	_	_
+12-14	1505-1516	auszuhalten	_	_
+12-15	1516-1517	.	_	_

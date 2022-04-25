@@ -1,0 +1,204 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vergrößerung der Vekehrsinsel Konrad-Adenauer-Straße/Hermannstraße
+1-1	0-12	Vergrößerung	_	
+1-2	13-16	der	_	
+1-3	17-29	Vekehrsinsel	_	
+1-4	30-52	Konrad-Adenauer-Straße	*[11]	
+1-5	52-53	/	*[11]	
+1-6	53-66	Hermannstraße	*[11]	
+
+#Text=Die Verkehrsinsel Konrad-Adenauer-Straße/Hermannstraße hinter dem Brückenforum ist viel zu klein.
+2-1	69-72	Die	*[12]	
+2-2	73-86	Verkehrsinsel	*[12]	
+2-3	87-109	Konrad-Adenauer-Straße	*[12]	
+2-4	109-110	/	*[12]	
+2-5	110-123	Hermannstraße	*[12]	
+2-6	124-130	hinter	*[12]	
+2-7	131-134	dem	*[12]	
+2-8	135-147	Brückenforum	*[12]	
+2-9	148-151	ist	_	
+2-10	152-156	viel	_	
+2-11	157-159	zu	_	
+2-12	160-165	klein	_	
+2-13	165-166	.	_	
+
+#Text=Dort treffen Fußgänger und Fahrradfahrer aus allen Richtungen zusammen.
+3-1	167-171	Dort	_	
+3-2	172-179	treffen	_	
+3-3	180-189	Fußgänger	_	
+3-4	190-193	und	_	
+3-5	194-207	Fahrradfahrer	_	
+3-6	208-211	aus	_	
+3-7	212-217	allen	_	
+3-8	218-228	Richtungen	_	
+3-9	229-237	zusammen	_	
+3-10	237-238	.	_	
+
+#Text=Während Fahrradfahrer und Fußgänger dort den Radweg von Konrad-Adenauer-Brücke Richtung Konrad-Adenauer-Platz queren, um über die Fußgängerampel Richtung Professor-Neu-Allee zu gehen, kommen Fahrradfahrer von der Kennedybrücke herunter.
+4-1	239-246	Während	_	
+4-2	247-260	Fahrradfahrer	_	
+4-3	261-264	und	_	
+4-4	265-274	Fußgänger	_	
+4-5	275-279	dort	_	
+4-6	280-283	den	_	
+4-7	284-290	Radweg	*[13]	
+4-8	291-294	von	*[13]	
+4-9	295-317	Konrad-Adenauer-Brücke	*[13]	
+4-10	318-326	Richtung	*[13]	
+4-11	327-348	Konrad-Adenauer-Platz	*[13]	
+4-12	349-355	queren	*[13]	
+4-13	355-356	,	*[13]	
+4-14	357-359	um	*[13]	
+4-15	360-364	über	*[13]	
+4-16	365-368	die	*[13]	
+4-17	369-383	Fußgängerampel	*[13]	
+4-18	384-392	Richtung	*[13]	
+4-19	393-412	Professor-Neu-Allee	*[13]	
+4-20	413-415	zu	*[13]	
+4-21	416-421	gehen	*[13]	
+4-22	421-422	,	_	
+4-23	423-429	kommen	_	
+4-24	430-443	Fahrradfahrer	_	
+4-25	444-447	von	*[14]	
+4-26	448-451	der	*[14]	
+4-27	452-465	Kennedybrücke	*[14]	
+4-28	466-474	herunter	*[14]	
+4-29	474-475	.	_	
+
+#Text=Bei roter Fußgängerampel ist nicht genug Platz auf der Insel für Fahrräder, Fußgänger und Kinderwagen.
+5-1	476-479	Bei	_	
+5-2	480-485	roter	_	
+5-3	486-500	Fußgängerampel	_	
+5-4	501-504	ist	_	
+5-5	505-510	nicht	_	
+5-6	511-516	genug	_	
+5-7	517-522	Platz	_	
+5-8	523-526	auf	_	
+5-9	527-530	der	_	
+5-10	531-536	Insel	_	
+5-11	537-540	für	_	
+5-12	541-550	Fahrräder	_	
+5-13	550-551	,	_	
+5-14	552-561	Fußgänger	_	
+5-15	562-565	und	_	
+5-16	566-577	Kinderwagen	_	
+5-17	577-578	.	_	
+
+#Text=Wartende Fährräder stehen aufgrund Platzmangels halb auf dem Radweg Richtung Konrad-Adenauer-Platz (https://www.google.de/maps/@50.7390003,7.1162447,3a,75y,270h,88.92t/data=!3m6!1e1!3m4!1sB2umlliyiTPOJu8l_69HGQ!2e0!7i13312!8i6656)
+6-1	579-587	Wartende	_	
+6-2	588-597	Fährräder	_	
+6-3	598-604	stehen	_	
+6-4	605-613	aufgrund	_	
+6-5	614-626	Platzmangels	_	
+6-6	627-631	halb	_	
+6-7	632-635	auf	*[15]	
+6-8	636-639	dem	*[15]	
+6-9	640-646	Radweg	*[15]	
+6-10	647-655	Richtung	*[15]	
+6-11	656-677	Konrad-Adenauer-Platz	*[15]	
+6-12	678-679	(	_	
+6-13	679-684	https	_	
+6-14	684-685	:	_	
+6-15	685-686	/	_	
+6-16	686-687	/	_	
+6-17	687-700	www.google.de	_	
+6-18	700-701	/	_	
+6-19	701-705	maps	_	
+6-20	705-706	/	_	
+6-21	706-707	@	_	
+6-22	707-730	50.7390003,7.1162447,3a	_	
+6-23	730-731	,	_	
+6-24	731-734	75y	_	
+6-25	734-735	,	_	
+6-26	735-739	270h	_	
+6-27	739-740	,	_	
+6-28	740-746	88.92t	_	
+6-29	746-747	/	_	
+6-30	747-751	data	_	
+6-31	751-752	=	_	
+6-32	752-753	!	_	
+6-33	753-756	3m6	_	
+6-34	756-757	!	_	
+6-35	757-760	1e1	_	
+6-36	760-761	!	_	
+6-37	761-764	3m4	_	
+6-38	764-765	!	_	
+6-39	765-783	1sB2umlliyiTPOJu8l	_	
+6-40	783-784	_	_	
+6-41	784-789	69HGQ	_	
+6-42	789-790	!	_	
+6-43	790-793	2e0	_	
+6-44	793-794	!	_	
+6-45	794-801	7i13312	_	
+6-46	801-802	!	_	
+6-47	802-808	8i6656	_	
+6-48	808-809	)	_	
+
+#Text=Lösungsvorschlag: Die Verkehrsinsel vergrößern, indem sie weiter Richtung Fahrbahn der B56 ausgeweitet wird.
+7-1	810-826	Lösungsvorschlag	_	
+7-2	826-827	:	_	
+7-3	828-831	Die	_	
+7-4	832-845	Verkehrsinsel	_	
+7-5	846-856	vergrößern	_	
+7-6	856-857	,	_	
+7-7	858-863	indem	_	
+7-8	864-867	sie	_	
+7-9	868-874	weiter	_	
+7-10	875-883	Richtung	*[16]	
+7-11	884-892	Fahrbahn	*[16]	
+7-12	893-896	der	*[16]	
+7-13	897-900	B56	*[16]	
+7-14	901-912	ausgeweitet	_	
+7-15	913-917	wird	_	
+7-16	917-918	.	_	
+
+#Text=Statt zwei Autospuren zwischen Kennedy-Brücke und Verkehrsinsel Hermannstraße in Richtung Konrad-Adenauer-Platz nur eine Autospur einrichten.
+8-1	919-924	Statt	_	
+8-2	925-929	zwei	_	
+8-3	930-940	Autospuren	_	
+8-4	941-949	zwischen	*[17]	
+8-5	950-964	Kennedy-Brücke	*[17]	
+8-6	965-968	und	*[17]	
+8-7	969-982	Verkehrsinsel	*[17]	
+8-8	983-996	Hermannstraße	*[17]	
+8-9	997-999	in	*[17]	
+8-10	1000-1008	Richtung	*[17]	
+8-11	1009-1030	Konrad-Adenauer-Platz	*[17]	
+8-12	1031-1034	nur	_	
+8-13	1035-1039	eine	_	
+8-14	1040-1048	Autospur	_	
+8-15	1049-1059	einrichten	_	
+8-16	1059-1060	.	_	
+
+#Text=Schließlich gibt es auch nur eine Autospur auf der Kennedybrücke.
+9-1	1061-1072	Schließlich	_	
+9-2	1073-1077	gibt	_	
+9-3	1078-1080	es	_	
+9-4	1081-1085	auch	_	
+9-5	1086-1089	nur	_	
+9-6	1090-1094	eine	_	
+9-7	1095-1103	Autospur	_	
+9-8	1104-1107	auf	*[18]	
+9-9	1108-1111	der	*[18]	
+9-10	1112-1125	Kennedybrücke	*[18]	
+9-11	1125-1126	.	_	
+
+#Text=Hinter der Verkehrsinsel Richtung Konrad-Adenauer-Platz können die beiden vorhandenen Autospuren bestehen bleiben.
+10-1	1127-1133	Hinter	*[19]	
+10-2	1134-1137	der	*[19]	
+10-3	1138-1151	Verkehrsinsel	*[19]	
+10-4	1152-1160	Richtung	*[19]	
+10-5	1161-1182	Konrad-Adenauer-Platz	*[19]	
+10-6	1183-1189	können	_	
+10-7	1190-1193	die	_	
+10-8	1194-1200	beiden	_	
+10-9	1201-1212	vorhandenen	_	
+10-10	1213-1223	Autospuren	_	
+10-11	1224-1232	bestehen	_	
+10-12	1233-1240	bleiben	_	
+10-13	1240-1241	.	_	

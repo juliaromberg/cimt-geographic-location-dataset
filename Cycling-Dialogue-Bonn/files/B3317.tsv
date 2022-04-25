@@ -1,0 +1,78 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Reisebusse nutzen den Radweg als Haltestelle
+1-1	0-10	Reisebusse	_	
+1-2	11-17	nutzen	_	
+1-3	18-21	den	_	
+1-4	22-28	Radweg	_	
+1-5	29-32	als	_	
+1-6	33-44	Haltestelle	_	
+
+#Text=Häufig stehen Reisebusse an der Stelle und deren Passagiere (häufig auch reaktionsschwache Rentner) stehen auf dem Radweg herum.
+2-1	47-53	Häufig	_	
+2-2	54-60	stehen	_	
+2-3	61-71	Reisebusse	_	
+2-4	72-74	an	_	
+2-5	75-78	der	_	
+2-6	79-85	Stelle	_	
+2-7	86-89	und	_	
+2-8	90-95	deren	_	
+2-9	96-106	Passagiere	_	
+2-10	107-108	(	_	
+2-11	108-114	häufig	_	
+2-12	115-119	auch	_	
+2-13	120-137	reaktionsschwache	_	
+2-14	138-145	Rentner	_	
+2-15	145-146	)	_	
+2-16	147-153	stehen	_	
+2-17	154-157	auf	_	
+2-18	158-161	dem	_	
+2-19	162-168	Radweg	_	
+2-20	169-174	herum	_	
+2-21	174-175	.	_	
+
+#Text=Manchmal wird der Radweg auch verwendet, um Gepäck zu be- oder entladen.
+3-1	176-184	Manchmal	_	
+3-2	185-189	wird	_	
+3-3	190-193	der	_	
+3-4	194-200	Radweg	_	
+3-5	201-205	auch	_	
+3-6	206-215	verwendet	_	
+3-7	215-216	,	_	
+3-8	217-219	um	_	
+3-9	220-226	Gepäck	_	
+3-10	227-229	zu	_	
+3-11	230-232	be	_	
+3-12	232-233	-	_	
+3-13	234-238	oder	_	
+3-14	239-247	entladen	_	
+3-15	247-248	.	_	
+
+#Text=Die Reisebusse benötigen einen ausgwiesenen Bereich mit ausreichendem Platz zum Einsteigen, Be- und Entladen, der den Radverkehr nicht behindert.
+4-1	249-252	Die	_	
+4-2	253-263	Reisebusse	_	
+4-3	264-273	benötigen	_	
+4-4	274-279	einen	_	
+4-5	280-292	ausgwiesenen	_	
+4-6	293-300	Bereich	_	
+4-7	301-304	mit	_	
+4-8	305-318	ausreichendem	_	
+4-9	319-324	Platz	_	
+4-10	325-328	zum	_	
+4-11	329-339	Einsteigen	_	
+4-12	339-340	,	_	
+4-13	341-343	Be	_	
+4-14	343-344	-	_	
+4-15	345-348	und	_	
+4-16	349-357	Entladen	_	
+4-17	357-358	,	_	
+4-18	359-362	der	_	
+4-19	363-366	den	_	
+4-20	367-377	Radverkehr	_	
+4-21	378-383	nicht	_	
+4-22	384-393	behindert	_	
+4-23	393-394	.	_	

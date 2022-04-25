@@ -1,0 +1,133 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Tempo 30, Verkehrsinsel, Straßenerhöhungen und Aufhebung Rechtsabbiegerspur
+1-1	0-5	Tempo	_	
+1-2	6-8	30	_	
+1-3	8-9	,	_	
+1-4	10-23	Verkehrsinsel	_	
+1-5	23-24	,	_	
+1-6	25-42	Straßenerhöhungen	_	
+1-7	43-46	und	_	
+1-8	47-56	Aufhebung	_	
+1-9	57-75	Rechtsabbiegerspur	_	
+
+#Text=Der Fahrradweg an der Kreuzzung Dottendorfer Str./ Servatiusstraße ist v.a. für die vielen Schüler/Schülerinnen gefährlich.
+2-1	78-81	Der	*[7]	
+2-2	82-92	Fahrradweg	*[7]	
+2-3	93-95	an	*[7]	
+2-4	96-99	der	*[7]	
+2-5	100-109	Kreuzzung	*[7]	
+2-6	110-122	Dottendorfer	*[7]	
+2-7	123-126	Str	*[7]	
+2-8	126-127	.	*[7]	
+2-9	127-128	/	*[7]	
+2-10	129-144	Servatiusstraße	*[7]	
+2-11	145-148	ist	_	
+2-12	149-152	v.a	_	
+2-13	152-153	.	_	
+2-14	154-157	für	_	
+2-15	158-161	die	_	
+2-16	162-168	vielen	_	
+2-17	169-176	Schüler	_	
+2-18	176-177	/	_	
+2-19	177-189	Schülerinnen	_	
+2-20	190-200	gefährlich	_	
+2-21	200-201	.	_	
+
+#Text=Verlängerung der Tempo 30 Zone (endet vom Quirinusplatz kommend kurz vor der Kreuzung) und einspurige Verkehrsführung würden Geschwindigkeit reduzieren und die Sicherheit für Radfahrende erheblich erhöhen.
+3-1	202-214	Verlängerung	_	
+3-2	215-218	der	_	
+3-3	219-224	Tempo	_	
+3-4	225-227	30	_	
+3-5	228-232	Zone	_	
+3-6	233-234	(	_	
+3-7	234-239	endet	_	
+3-8	240-243	vom	*[8]	
+3-9	244-257	Quirinusplatz	*[8]	
+3-10	258-265	kommend	*[8]	
+3-11	266-270	kurz	*[8]	
+3-12	271-274	vor	*[8]	
+3-13	275-278	der	*[8]	
+3-14	279-287	Kreuzung	*[8]	
+3-15	287-288	)	_	
+3-16	289-292	und	_	
+3-17	293-303	einspurige	_	
+3-18	304-319	Verkehrsführung	_	
+3-19	320-326	würden	_	
+3-20	327-342	Geschwindigkeit	_	
+3-21	343-353	reduzieren	_	
+3-22	354-357	und	_	
+3-23	358-361	die	_	
+3-24	362-372	Sicherheit	_	
+3-25	373-376	für	_	
+3-26	377-388	Radfahrende	_	
+3-27	389-398	erheblich	_	
+3-28	399-406	erhöhen	_	
+3-29	406-407	.	_	
+
+#Text=Ggf. könnte dort eine Verkehrsinsel entstehen.
+4-1	408-411	Ggf	_	
+4-2	411-412	.	_	
+4-3	413-419	könnte	_	
+4-4	420-424	dort	_	
+4-5	425-429	eine	_	
+4-6	430-443	Verkehrsinsel	_	
+4-7	444-453	entstehen	_	
+4-8	453-454	.	_	
+
+#Text=Auf der Dottendorfer Str., die sich inzwischen zu einer Hauptdurchgangsstraße (von Reuterstraße kommend) entwickelt hat sollten neben Tempo 30 auch Straßenerhöhungen eingeführt werden, um die Sicherheit für Radfahrende und Fußgänger zu erhöhen.
+5-1	455-458	Auf	*[9]	
+5-2	459-462	der	*[9]	
+5-3	463-475	Dottendorfer	*[9]	
+5-4	476-479	Str	*[9]	
+5-5	479-480	.	*[9]	
+5-6	480-481	,	_	
+5-7	482-485	die	_	
+5-8	486-490	sich	_	
+5-9	491-501	inzwischen	_	
+5-10	502-504	zu	_	
+5-11	505-510	einer	_	
+5-12	511-532	Hauptdurchgangsstraße	_	
+5-13	533-534	(	_	
+5-14	534-537	von	*[10]	
+5-15	538-550	Reuterstraße	*[10]	
+5-16	551-558	kommend	*[10]	
+5-17	558-559	)	_	
+5-18	560-570	entwickelt	_	
+5-19	571-574	hat	_	
+5-20	575-582	sollten	_	
+5-21	583-588	neben	_	
+5-22	589-594	Tempo	_	
+5-23	595-597	30	_	
+5-24	598-602	auch	_	
+5-25	603-620	Straßenerhöhungen	_	
+5-26	621-631	eingeführt	_	
+5-27	632-638	werden	_	
+5-28	638-639	,	_	
+5-29	640-642	um	_	
+5-30	643-646	die	_	
+5-31	647-657	Sicherheit	_	
+5-32	658-661	für	_	
+5-33	662-673	Radfahrende	_	
+5-34	674-677	und	_	
+5-35	678-687	Fußgänger	_	
+5-36	688-690	zu	_	
+5-37	691-698	erhöhen	_	
+5-38	698-699	.	_	
+
+#Text=Der Fahrradweg auf der Dottendorfer Straße müsste deutlicher gekennzeichnet werden.
+6-1	700-703	Der	*[11]	
+6-2	704-714	Fahrradweg	*[11]	
+6-3	715-718	auf	*[11]	
+6-4	719-722	der	*[11]	
+6-5	723-735	Dottendorfer	*[11]	
+6-6	736-742	Straße	*[11]	
+6-7	743-749	müsste	_	
+6-8	750-760	deutlicher	_	
+6-9	761-775	gekennzeichnet	_	
+6-10	776-782	werden	_	
+6-11	782-783	.	_	

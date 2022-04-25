@@ -1,0 +1,167 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Die Kurvenführung der Straße in Kombination mit einer deutlichen Verengung führt oft dazu, dass es für Radfahrer eng wird.
+1-1	0-3	Die	_	
+1-2	4-17	Kurvenführung	_	
+1-3	18-21	der	_	
+1-4	22-28	Straße	_	
+1-5	29-31	in	_	
+1-6	32-43	Kombination	_	
+1-7	44-47	mit	_	
+1-8	48-53	einer	_	
+1-9	54-64	deutlichen	_	
+1-10	65-74	Verengung	_	
+1-11	75-80	führt	_	
+1-12	81-84	oft	_	
+1-13	85-89	dazu	_	
+1-14	89-90	,	_	
+1-15	91-95	dass	_	
+1-16	96-98	es	_	
+1-17	99-102	für	_	
+1-18	103-112	Radfahrer	_	
+1-19	113-116	eng	_	
+1-20	117-121	wird	_	
+1-21	121-122	.	_	
+
+#Text=Aus Richtung Bickendorf kommend, führt die Helmholtzstraße/Vogelsanger Straße nach einem großzügigen und offenen Kreuzungsbereich (mit der Leyendeckerstraße) in einer leichten Rechtskurve in den dunklen Bereich unter den Bahngleisen.
+2-1	125-128	Aus	*[7]	
+2-2	129-137	Richtung	*[7]	
+2-3	138-148	Bickendorf	*[7]	
+2-4	149-156	kommend	*[7]	
+2-5	156-157	,	*[7]	
+2-6	158-163	führt	*[7]	
+2-7	164-167	die	*[7]	
+2-8	168-183	Helmholtzstraße	*[7]	
+2-9	183-184	/	*[7]	
+2-10	184-195	Vogelsanger	*[7]	
+2-11	196-202	Straße	*[7]	
+2-12	203-207	nach	*[7]	
+2-13	208-213	einem	*[7]	
+2-14	214-225	großzügigen	*[7]	
+2-15	226-229	und	*[7]	
+2-16	230-237	offenen	*[7]	
+2-17	238-254	Kreuzungsbereich	*[7]	
+2-18	255-256	(	*[7]	
+2-19	256-259	mit	*[7]	
+2-20	260-263	der	*[7]	
+2-21	264-281	Leyendeckerstraße	*[7]	
+2-22	281-282	)	_	
+2-23	283-285	in	_	
+2-24	286-291	einer	_	
+2-25	292-300	leichten	_	
+2-26	301-312	Rechtskurve	_	
+2-27	313-315	in	_	
+2-28	316-319	den	_	
+2-29	320-327	dunklen	_	
+2-30	328-335	Bereich	_	
+2-31	336-341	unter	_	
+2-32	342-345	den	_	
+2-33	346-357	Bahngleisen	_	
+2-34	357-358	.	_	
+
+#Text=Zudem wird die Straße an dieser Stelle deutlich schmaler und links ist die Einmündung zur Vogelsanger Straße.
+3-1	359-364	Zudem	_	
+3-2	365-369	wird	_	
+3-3	370-373	die	_	
+3-4	374-380	Straße	_	
+3-5	381-383	an	_	
+3-6	384-390	dieser	_	
+3-7	391-397	Stelle	_	
+3-8	398-406	deutlich	_	
+3-9	407-415	schmaler	_	
+3-10	416-419	und	_	
+3-11	420-425	links	_	
+3-12	426-429	ist	_	
+3-13	430-433	die	*[8]	
+3-14	434-444	Einmündung	*[8]	
+3-15	445-448	zur	*[8]	
+3-16	449-460	Vogelsanger	*[8]	
+3-17	461-467	Straße	*[8]	
+3-18	467-468	.	_	
+
+#Text=Das Zusammentreffen all dieser Faktoren führt oft dazu, dass Radfahrer an dieser sich verengenden Stelle von Autos, die die Verengung und eventuellen Gegenverkehr zu spät erkannt haben, abgedrängt werden.
+4-1	469-472	Das	_	
+4-2	473-488	Zusammentreffen	_	
+4-3	489-492	all	_	
+4-4	493-499	dieser	_	
+4-5	500-508	Faktoren	_	
+4-6	509-514	führt	_	
+4-7	515-518	oft	_	
+4-8	519-523	dazu	_	
+4-9	523-524	,	_	
+4-10	525-529	dass	_	
+4-11	530-539	Radfahrer	_	
+4-12	540-542	an	_	
+4-13	543-549	dieser	_	
+4-14	550-554	sich	_	
+4-15	555-566	verengenden	_	
+4-16	567-573	Stelle	_	
+4-17	574-577	von	_	
+4-18	578-583	Autos	_	
+4-19	583-584	,	_	
+4-20	585-588	die	_	
+4-21	589-592	die	_	
+4-22	593-602	Verengung	_	
+4-23	603-606	und	_	
+4-24	607-618	eventuellen	_	
+4-25	619-631	Gegenverkehr	_	
+4-26	632-634	zu	_	
+4-27	635-639	spät	_	
+4-28	640-647	erkannt	_	
+4-29	648-653	haben	_	
+4-30	653-654	,	_	
+4-31	655-665	abgedrängt	_	
+4-32	666-672	werden	_	
+4-33	672-673	.	_	
+
+#Text=Hier könnte eine Begradigung der Kurve zulasten des (ohnehin nicht genutzten) Gehwegs zu einer deutlichen Entschärfung führen.
+5-1	674-678	Hier	_	
+5-2	679-685	könnte	_	
+5-3	686-690	eine	_	
+5-4	691-702	Begradigung	_	
+5-5	703-706	der	_	
+5-6	707-712	Kurve	_	
+5-7	713-721	zulasten	_	
+5-8	722-725	des	_	
+5-9	726-727	(	_	
+5-10	727-734	ohnehin	_	
+5-11	735-740	nicht	_	
+5-12	741-750	genutzten	_	
+5-13	750-751	)	_	
+5-14	752-759	Gehwegs	_	
+5-15	760-762	zu	_	
+5-16	763-768	einer	_	
+5-17	769-779	deutlichen	_	
+5-18	780-792	Entschärfung	_	
+5-19	793-799	führen	_	
+5-20	799-800	.	_	
+
+#Text=Denkbar wäre sogar, an dieser Stelle einen Radschutzstreifen zu beginnen, wenn man bereit wäre auf Parkplätze entlang der Straße zu verzichten.
+6-1	801-808	Denkbar	_	
+6-2	809-813	wäre	_	
+6-3	814-819	sogar	_	
+6-4	819-820	,	_	
+6-5	821-823	an	_	
+6-6	824-830	dieser	_	
+6-7	831-837	Stelle	_	
+6-8	838-843	einen	_	
+6-9	844-861	Radschutzstreifen	_	
+6-10	862-864	zu	_	
+6-11	865-873	beginnen	_	
+6-12	873-874	,	_	
+6-13	875-879	wenn	_	
+6-14	880-883	man	_	
+6-15	884-890	bereit	_	
+6-16	891-895	wäre	_	
+6-17	896-899	auf	_	
+6-18	900-910	Parkplätze	_	
+6-19	911-918	entlang	_	
+6-20	919-922	der	_	
+6-21	923-929	Straße	_	
+6-22	930-932	zu	_	
+6-23	933-943	verzichten	_	
+6-24	943-944	.	_	

@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Belag
+1-1	0-5	Belag	_	
+
+#Text=Auf der Brücke über der Autobahn ist der Belag in einem erbärmlichen Zustand.
+2-1	8-11	Auf	*[3]	
+2-2	12-15	der	*[3]	
+2-3	16-22	Brücke	*[3]	
+2-4	23-27	über	*[3]	
+2-5	28-31	der	*[3]	
+2-6	32-40	Autobahn	*[3]	
+2-7	41-44	ist	_	
+2-8	45-48	der	_	
+2-9	49-54	Belag	_	
+2-10	55-57	in	_	
+2-11	58-63	einem	_	
+2-12	64-76	erbärmlichen	_	
+2-13	77-84	Zustand	_	
+2-14	84-85	.	_	
+
+#Text=Muß erneuert werden.
+3-1	86-89	Muß	_	
+3-2	90-98	erneuert	_	
+3-3	99-105	werden	_	
+3-4	105-106	.	_	

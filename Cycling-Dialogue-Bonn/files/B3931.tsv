@@ -1,0 +1,182 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampel für Radfahrer nur auf Bedarf bei Wutampel
+1-1	0-5	Ampel	_	
+1-2	6-9	für	_	
+1-3	10-19	Radfahrer	_	
+1-4	20-23	nur	_	
+1-5	24-27	auf	_	
+1-6	28-34	Bedarf	_	
+1-7	35-38	bei	_	
+1-8	39-47	Wutampel	_	
+
+#Text=Diese Ampelschaltung stand schon oft in der Presse und ist allgemein als Wutampel bekannt.
+2-1	50-55	Diese	_	
+2-2	56-70	Ampelschaltung	_	
+2-3	71-76	stand	_	
+2-4	77-82	schon	_	
+2-5	83-86	oft	_	
+2-6	87-89	in	_	
+2-7	90-93	der	_	
+2-8	94-100	Presse	_	
+2-9	101-104	und	_	
+2-10	105-108	ist	_	
+2-11	109-118	allgemein	_	
+2-12	119-122	als	_	
+2-13	123-131	Wutampel	_	
+2-14	132-139	bekannt	_	
+2-15	139-140	.	_	
+
+#Text=Mein Vorschlag wäre, dass die Fußgänger bzw. Radfahrerampel ausgestellt wird und einen Knopf bei Bedarf hat und nur dann anspringt.
+3-1	141-145	Mein	_	
+3-2	146-155	Vorschlag	_	
+3-3	156-160	wäre	_	
+3-4	160-161	,	_	
+3-5	162-166	dass	_	
+3-6	167-170	die	_	
+3-7	171-180	Fußgänger	_	
+3-8	181-184	bzw	_	
+3-9	184-185	.	_	
+3-10	186-200	Radfahrerampel	_	
+3-11	201-212	ausgestellt	_	
+3-12	213-217	wird	_	
+3-13	218-221	und	_	
+3-14	222-227	einen	_	
+3-15	228-233	Knopf	_	
+3-16	234-237	bei	_	
+3-17	238-244	Bedarf	_	
+3-18	245-248	hat	_	
+3-19	249-252	und	_	
+3-20	253-256	nur	_	
+3-21	257-261	dann	_	
+3-22	262-271	anspringt	_	
+3-23	271-272	.	_	
+
+#Text=Die meiste Zeit am Tag ist kein Verkehr und ich brauche die Ampel als Radfahrerin nicht zum sicheren Überqueren.
+4-1	273-276	Die	_	
+4-2	277-283	meiste	_	
+4-3	284-288	Zeit	_	
+4-4	289-291	am	_	
+4-5	292-295	Tag	_	
+4-6	296-299	ist	_	
+4-7	300-304	kein	_	
+4-8	305-312	Verkehr	_	
+4-9	313-316	und	_	
+4-10	317-320	ich	_	
+4-11	321-328	brauche	_	
+4-12	329-332	die	_	
+4-13	333-338	Ampel	_	
+4-14	339-342	als	_	
+4-15	343-354	Radfahrerin	_	
+4-16	355-360	nicht	_	
+4-17	361-364	zum	_	
+4-18	365-373	sicheren	_	
+4-19	374-384	Überqueren	_	
+4-20	384-385	.	_	
+
+#Text=Und für die Fälle mit einem sehr hohen Verkehrsaufkommen wird gedrückt und dann regelt die Ampel die sichere Überquerung.
+5-1	386-389	Und	_	
+5-2	390-393	für	_	
+5-3	394-397	die	_	
+5-4	398-403	Fälle	_	
+5-5	404-407	mit	_	
+5-6	408-413	einem	_	
+5-7	414-418	sehr	_	
+5-8	419-424	hohen	_	
+5-9	425-442	Verkehrsaufkommen	_	
+5-10	443-447	wird	_	
+5-11	448-456	gedrückt	_	
+5-12	457-460	und	_	
+5-13	461-465	dann	_	
+5-14	466-472	regelt	_	
+5-15	473-476	die	_	
+5-16	477-482	Ampel	_	
+5-17	483-486	die	_	
+5-18	487-494	sichere	_	
+5-19	495-506	Überquerung	_	
+5-20	506-507	.	_	
+
+#Text=Im Moment ignorieren viele diese Ampel, da sie einfach viel zu radfahrerunfreundlich getaktet ist.
+6-1	508-510	Im	_	
+6-2	511-517	Moment	_	
+6-3	518-528	ignorieren	_	
+6-4	529-534	viele	_	
+6-5	535-540	diese	_	
+6-6	541-546	Ampel	_	
+6-7	546-547	,	_	
+6-8	548-550	da	_	
+6-9	551-554	sie	_	
+6-10	555-562	einfach	_	
+6-11	563-567	viel	_	
+6-12	568-570	zu	_	
+6-13	571-592	radfahrerunfreundlich	_	
+6-14	593-601	getaktet	_	
+6-15	602-605	ist	_	
+6-16	605-606	.	_	
+
+#Text=Selbst wenn die Schranke runtergeht, dauert es lange bis sie auf grün springt.
+7-1	607-613	Selbst	_	
+7-2	614-618	wenn	_	
+7-3	619-622	die	_	
+7-4	623-631	Schranke	_	
+7-5	632-642	runtergeht	_	
+7-6	642-643	,	_	
+7-7	644-650	dauert	_	
+7-8	651-653	es	_	
+7-9	654-659	lange	_	
+7-10	660-663	bis	_	
+7-11	664-667	sie	_	
+7-12	668-671	auf	_	
+7-13	672-676	grün	_	
+7-14	677-684	springt	_	
+7-15	684-685	.	_	
+
+#Text=ist die Schranke hoch, erhalten oft die Autos, die aus vielen Richtungen kommen und geregelt werden müssen, 2x grün bis die Radfahrer grün erhalten.
+8-1	686-689	ist	_	
+8-2	690-693	die	_	
+8-3	694-702	Schranke	_	
+8-4	703-707	hoch	_	
+8-5	707-708	,	_	
+8-6	709-717	erhalten	_	
+8-7	718-721	oft	_	
+8-8	722-725	die	_	
+8-9	726-731	Autos	_	
+8-10	731-732	,	_	
+8-11	733-736	die	_	
+8-12	737-740	aus	_	
+8-13	741-747	vielen	_	
+8-14	748-758	Richtungen	_	
+8-15	759-765	kommen	_	
+8-16	766-769	und	_	
+8-17	770-778	geregelt	_	
+8-18	779-785	werden	_	
+8-19	786-792	müssen	_	
+8-20	792-793	,	_	
+8-21	794-796	2x	_	
+8-22	797-801	grün	_	
+8-23	802-805	bis	_	
+8-24	806-809	die	_	
+8-25	810-819	Radfahrer	_	
+8-26	820-824	grün	_	
+8-27	825-833	erhalten	_	
+8-28	833-834	.	_	
+
+#Text=Das verursacht unnötig Ärger.
+9-1	835-838	Das	_	
+9-2	839-849	verursacht	_	
+9-3	850-857	unnötig	_	
+9-4	858-863	Ärger	_	
+9-5	863-864	.	_	
+
+#Text=Ich brauche diese unnötige Ampelschaltung nicht.
+10-1	865-868	Ich	_	
+10-2	869-876	brauche	_	
+10-3	877-882	diese	_	
+10-4	883-891	unnötige	_	
+10-5	892-906	Ampelschaltung	_	
+10-6	907-912	nicht	_	
+10-7	912-913	.	_	

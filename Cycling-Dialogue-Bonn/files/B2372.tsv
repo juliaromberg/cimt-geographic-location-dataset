@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bahnübergang Alfterer Straße
+1-1	0-12	Bahnübergang	*[4]	
+1-2	13-21	Alfterer	*[4]	
+1-3	22-28	Straße	*[4]	
+
+#Text=Auf dem Radweg Rochusstraße kommend aus Richtung Nettekoven in Richtung Duisdorf: Hier ist es ein echtes Abenteuer auf die Alfterer Str zu gelangen.
+2-1	31-34	Auf	*[5]	
+2-2	35-38	dem	*[5]	
+2-3	39-45	Radweg	*[5]	
+2-4	46-58	Rochusstraße	*[5]	
+2-5	59-66	kommend	*[5]	
+2-6	67-70	aus	*[5]	
+2-7	71-79	Richtung	*[5]	
+2-8	80-90	Nettekoven	*[5]	
+2-9	91-93	in	*[5]	
+2-10	94-102	Richtung	*[5]	
+2-11	103-111	Duisdorf	*[5]	
+2-12	111-112	:	_	
+2-13	113-117	Hier	_	
+2-14	118-121	ist	_	
+2-15	122-124	es	_	
+2-16	125-128	ein	_	
+2-17	129-135	echtes	_	
+2-18	136-145	Abenteuer	_	
+2-19	146-149	auf	*[6]	
+2-20	150-153	die	*[6]	
+2-21	154-162	Alfterer	*[6]	
+2-22	163-166	Str	*[6]	
+2-23	167-169	zu	_	
+2-24	170-178	gelangen	_	
+2-25	178-179	.	_	
+
+#Text=Radfahrer die nach Bonn über das Meßdorfer Feld wollen wurden nicht berücksichtigt.
+3-1	180-189	Radfahrer	_	
+3-2	190-193	die	_	
+3-3	194-198	nach	*[7]	
+3-4	199-203	Bonn	*[7]	
+3-5	204-208	über	*[7]	
+3-6	209-212	das	*[7]	
+3-7	213-222	Meßdorfer	*[7]	
+3-8	223-227	Feld	*[7]	
+3-9	228-234	wollen	_	
+3-10	235-241	wurden	_	
+3-11	242-247	nicht	_	
+3-12	248-262	berücksichtigt	_	
+3-13	262-263	.	_	

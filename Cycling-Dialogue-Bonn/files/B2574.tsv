@@ -1,0 +1,172 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parker auf der Straße behindern den Radverkehr
+1-1	0-6	Parker	_	
+1-2	7-10	auf	_	
+1-3	11-14	der	_	
+1-4	15-21	Straße	_	
+1-5	22-31	behindern	_	
+1-6	32-35	den	_	
+1-7	36-46	Radverkehr	_	
+
+#Text=Obwohl auf der Eduard-Otto-Straße zwischen Hausdorffstraße und Burbacher Straße keine Parkzonen abmarkiert sind, parken im Prinzip ständig in Richtung Burbacher Straße einige Autos auf der Straße.
+2-1	49-55	Obwohl	_	
+2-2	56-59	auf	*[9]	
+2-3	60-63	der	*[9]	
+2-4	64-82	Eduard-Otto-Straße	*[9]	
+2-5	83-91	zwischen	*[9]	
+2-6	92-107	Hausdorffstraße	*[9]	
+2-7	108-111	und	*[9]	
+2-8	112-121	Burbacher	*[9]	
+2-9	122-128	Straße	*[9]	
+2-10	129-134	keine	_	
+2-11	135-144	Parkzonen	_	
+2-12	145-155	abmarkiert	_	
+2-13	156-160	sind	_	
+2-14	160-161	,	_	
+2-15	162-168	parken	_	
+2-16	169-171	im	_	
+2-17	172-179	Prinzip	_	
+2-18	180-187	ständig	_	
+2-19	188-190	in	*[10]	
+2-20	191-199	Richtung	*[10]	
+2-21	200-209	Burbacher	*[10]	
+2-22	210-216	Straße	*[10]	
+2-23	217-223	einige	_	
+2-24	224-229	Autos	_	
+2-25	230-233	auf	_	
+2-26	234-237	der	_	
+2-27	238-244	Straße	_	
+2-28	244-245	.	_	
+
+#Text=Daher staut sich hier häufiger der Autoverkehr.
+3-1	246-251	Daher	_	
+3-2	252-257	staut	_	
+3-3	258-262	sich	_	
+3-4	263-267	hier	_	
+3-5	268-276	häufiger	_	
+3-6	277-280	der	_	
+3-7	281-292	Autoverkehr	_	
+3-8	292-293	.	_	
+
+#Text=Als Radfahrer kommt man zwar auch bei Gegenverkehr an den parkenden Autos vorbei, nur kommt man an den sich stauenden Autos nicht rechts vorbei.
+4-1	294-297	Als	_	
+4-2	298-307	Radfahrer	_	
+4-3	308-313	kommt	_	
+4-4	314-317	man	_	
+4-5	318-322	zwar	_	
+4-6	323-327	auch	_	
+4-7	328-331	bei	_	
+4-8	332-344	Gegenverkehr	_	
+4-9	345-347	an	_	
+4-10	348-351	den	_	
+4-11	352-361	parkenden	_	
+4-12	362-367	Autos	_	
+4-13	368-374	vorbei	_	
+4-14	374-375	,	_	
+4-15	376-379	nur	_	
+4-16	380-385	kommt	_	
+4-17	386-389	man	_	
+4-18	390-392	an	_	
+4-19	393-396	den	_	
+4-20	397-401	sich	_	
+4-21	402-411	stauenden	_	
+4-22	412-417	Autos	_	
+4-23	418-423	nicht	_	
+4-24	424-430	rechts	_	
+4-25	431-437	vorbei	_	
+4-26	437-438	.	_	
+
+#Text=Außerdem passiert es immer wieder, dass man kurz vor den parkenden Autos noch schnell von Autos überholt und dann ausgebremst wird.
+5-1	439-447	Außerdem	_	
+5-2	448-456	passiert	_	
+5-3	457-459	es	_	
+5-4	460-465	immer	_	
+5-5	466-472	wieder	_	
+5-6	472-473	,	_	
+5-7	474-478	dass	_	
+5-8	479-482	man	_	
+5-9	483-487	kurz	_	
+5-10	488-491	vor	_	
+5-11	492-495	den	_	
+5-12	496-505	parkenden	_	
+5-13	506-511	Autos	_	
+5-14	512-516	noch	_	
+5-15	517-524	schnell	_	
+5-16	525-528	von	_	
+5-17	529-534	Autos	_	
+5-18	535-543	überholt	_	
+5-19	544-547	und	_	
+5-20	548-552	dann	_	
+5-21	553-564	ausgebremst	_	
+5-22	565-569	wird	_	
+5-23	569-570	.	_	
+
+#Text=Ich bin mir nicht sicher, ob hier parken überhaupt erlaubt ist.
+6-1	571-574	Ich	_	
+6-2	575-578	bin	_	
+6-3	579-582	mir	_	
+6-4	583-588	nicht	_	
+6-5	589-595	sicher	_	
+6-6	595-596	,	_	
+6-7	597-599	ob	_	
+6-8	600-604	hier	_	
+6-9	605-611	parken	_	
+6-10	612-621	überhaupt	_	
+6-11	622-629	erlaubt	_	
+6-12	630-633	ist	_	
+6-13	633-634	.	_	
+
+#Text=Wenn ja, sollte man die Flächen zumindest abmarkieren (was denn Radlern natürlich wenig hilft).
+7-1	635-639	Wenn	_	
+7-2	640-642	ja	_	
+7-3	642-643	,	_	
+7-4	644-650	sollte	_	
+7-5	651-654	man	_	
+7-6	655-658	die	_	
+7-7	659-666	Flächen	_	
+7-8	667-676	zumindest	_	
+7-9	677-688	abmarkieren	_	
+7-10	689-690	(	_	
+7-11	690-693	was	_	
+7-12	694-698	denn	_	
+7-13	699-706	Radlern	_	
+7-14	707-716	natürlich	_	
+7-15	717-722	wenig	_	
+7-16	723-728	hilft	_	
+7-17	728-729	)	_	
+7-18	729-730	.	_	
+
+#Text=Wenn nein, sollte man Richtung Burbacher Straße einen Fahrradstreifen abmarkieren, dann sollte die Hemmschwelle zum Falschparken sinken und man kommt mit dem Rad besser durch.
+8-1	731-735	Wenn	_	
+8-2	736-740	nein	_	
+8-3	740-741	,	_	
+8-4	742-748	sollte	_	
+8-5	749-752	man	_	
+8-6	753-761	Richtung	*[11]	
+8-7	762-771	Burbacher	*[11]	
+8-8	772-778	Straße	*[11]	
+8-9	779-784	einen	_	
+8-10	785-800	Fahrradstreifen	_	
+8-11	801-812	abmarkieren	_	
+8-12	812-813	,	_	
+8-13	814-818	dann	_	
+8-14	819-825	sollte	_	
+8-15	826-829	die	_	
+8-16	830-842	Hemmschwelle	_	
+8-17	843-846	zum	_	
+8-18	847-859	Falschparken	_	
+8-19	860-866	sinken	_	
+8-20	867-870	und	_	
+8-21	871-874	man	_	
+8-22	875-880	kommt	_	
+8-23	881-884	mit	_	
+8-24	885-888	dem	_	
+8-25	889-892	Rad	_	
+8-26	893-899	besser	_	
+8-27	900-905	durch	_	
+8-28	905-906	.	_	

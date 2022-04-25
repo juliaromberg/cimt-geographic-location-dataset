@@ -1,0 +1,155 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Benutzungspflicht aufheben
+1-1	0-17	Benutzungspflicht	_	
+1-2	18-26	aufheben	_	
+
+#Text=Dieser ehemals freigegebene Gehweg wurde im Zuge von Bauarbeiten an einem angrenzenden Gebäude vor einigen Jahren klammheimlich zu einem benutzungspflichtigen Fuß- und Radweg.
+2-1	29-35	Dieser	_	
+2-2	36-43	ehemals	_	
+2-3	44-56	freigegebene	_	
+2-4	57-63	Gehweg	_	
+2-5	64-69	wurde	_	
+2-6	70-72	im	_	
+2-7	73-77	Zuge	_	
+2-8	78-81	von	_	
+2-9	82-93	Bauarbeiten	_	
+2-10	94-96	an	_	
+2-11	97-102	einem	_	
+2-12	103-115	angrenzenden	_	
+2-13	116-123	Gebäude	_	
+2-14	124-127	vor	_	
+2-15	128-135	einigen	_	
+2-16	136-142	Jahren	_	
+2-17	143-156	klammheimlich	_	
+2-18	157-159	zu	_	
+2-19	160-165	einem	_	
+2-20	166-187	benutzungspflichtigen	_	
+2-21	188-191	Fuß	_	
+2-22	191-192	-	_	
+2-23	193-196	und	_	
+2-24	197-203	Radweg	_	
+2-25	203-204	.	_	
+
+#Text=Ich glaube immer noch, dass der Schildermast von den Gerüstbauern abgeflext wurde und die Wiederaufstellung des Fußwegzeichens danach einfach vergessen wurde, hier ist es noch zu sehen: https://goo.gl/maps/LYpBU3FNwVM2
+3-1	205-208	Ich	_	
+3-2	209-215	glaube	_	
+3-3	216-221	immer	_	
+3-4	222-226	noch	_	
+3-5	226-227	,	_	
+3-6	228-232	dass	_	
+3-7	233-236	der	_	
+3-8	237-249	Schildermast	_	
+3-9	250-253	von	_	
+3-10	254-257	den	_	
+3-11	258-270	Gerüstbauern	_	
+3-12	271-280	abgeflext	_	
+3-13	281-286	wurde	_	
+3-14	287-290	und	_	
+3-15	291-294	die	_	
+3-16	295-312	Wiederaufstellung	_	
+3-17	313-316	des	_	
+3-18	317-331	Fußwegzeichens	_	
+3-19	332-338	danach	_	
+3-20	339-346	einfach	_	
+3-21	347-356	vergessen	_	
+3-22	357-362	wurde	_	
+3-23	362-363	,	_	
+3-24	364-368	hier	_	
+3-25	369-372	ist	_	
+3-26	373-375	es	_	
+3-27	376-380	noch	_	
+3-28	381-383	zu	_	
+3-29	384-389	sehen	_	
+3-30	389-390	:	_	
+3-31	391-396	https	_	
+3-32	396-397	:	_	
+3-33	397-398	/	_	
+3-34	398-399	/	_	
+3-35	399-405	goo.gl	_	
+3-36	405-406	/	_	
+3-37	406-410	maps	_	
+3-38	410-411	/	_	
+3-39	411-423	LYpBU3FNwVM2	_	
+
+#Text=Jedenfalls wird der Weg an den Parkbuchten öfters durch raumgreifend geparkte Fahrzeuge verschmälert, er führt recht eng an der Fassade und mehreren Hauseingängen, eigentlich auch Ladenlokalen, vorbei und endet dann an der von mir bereits separat bemängelten Kreuzung Winterstraße.
+4-1	424-434	Jedenfalls	_	
+4-2	435-439	wird	_	
+4-3	440-443	der	_	
+4-4	444-447	Weg	_	
+4-5	448-450	an	_	
+4-6	451-454	den	_	
+4-7	455-466	Parkbuchten	_	
+4-8	467-473	öfters	_	
+4-9	474-479	durch	_	
+4-10	480-492	raumgreifend	_	
+4-11	493-501	geparkte	_	
+4-12	502-511	Fahrzeuge	_	
+4-13	512-524	verschmälert	_	
+4-14	524-525	,	_	
+4-15	526-528	er	_	
+4-16	529-534	führt	_	
+4-17	535-540	recht	_	
+4-18	541-544	eng	_	
+4-19	545-547	an	_	
+4-20	548-551	der	_	
+4-21	552-559	Fassade	_	
+4-22	560-563	und	_	
+4-23	564-572	mehreren	_	
+4-24	573-586	Hauseingängen	_	
+4-25	586-587	,	_	
+4-26	588-598	eigentlich	_	
+4-27	599-603	auch	_	
+4-28	604-616	Ladenlokalen	_	
+4-29	616-617	,	_	
+4-30	618-624	vorbei	_	
+4-31	625-628	und	_	
+4-32	629-634	endet	_	
+4-33	635-639	dann	_	
+4-34	640-642	an	_	
+4-35	643-646	der	_	
+4-36	647-650	von	_	
+4-37	651-654	mir	_	
+4-38	655-662	bereits	_	
+4-39	663-670	separat	_	
+4-40	671-682	bemängelten	_	
+4-41	683-691	Kreuzung	*[8]	
+4-42	692-704	Winterstraße	*[8]	
+4-43	704-705	.	_	
+
+#Text=Die Fahrbahn sollte wieder freigegeben werden.
+5-1	706-709	Die	_	
+5-2	710-718	Fahrbahn	_	
+5-3	719-725	sollte	_	
+5-4	726-732	wieder	_	
+5-5	733-744	freigegeben	_	
+5-6	745-751	werden	_	
+5-7	751-752	.	_	
+
+#Text=Damit würde auch das Linksabbiegen in die Pfarrer-Minartz-Straße wieder ermöglicht.
+6-1	753-758	Damit	_	
+6-2	759-764	würde	_	
+6-3	765-769	auch	_	
+6-4	770-773	das	*[9]	
+6-5	774-787	Linksabbiegen	*[9]	
+6-6	788-790	in	*[9]	
+6-7	791-794	die	*[9]	
+6-8	795-817	Pfarrer-Minartz-Straße	*[9]	
+6-9	818-824	wieder	_	
+6-10	825-835	ermöglicht	_	
+6-11	835-836	.	_	
+
+#Text=Luxusversion wäre, die langgezogene Rechtsabbiegerspur zu beschränken.
+7-1	837-849	Luxusversion	_	
+7-2	850-854	wäre	_	
+7-3	854-855	,	_	
+7-4	856-859	die	_	
+7-5	860-872	langgezogene	_	
+7-6	873-891	Rechtsabbiegerspur	_	
+7-7	892-894	zu	_	
+7-8	895-906	beschränken	_	
+7-9	906-907	.	_	

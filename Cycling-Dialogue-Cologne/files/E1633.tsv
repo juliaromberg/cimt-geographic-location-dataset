@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vorhandener Radweg nicht durchgängig markiert und beschildert
+1-1	0-11	Vorhandener	_	
+1-2	12-18	Radweg	_	
+1-3	19-24	nicht	_	
+1-4	25-36	durchgängig	_	
+1-5	37-45	markiert	_	
+1-6	46-49	und	_	
+1-7	50-61	beschildert	_	
+
+#Text=Von der Inneren Kanalstrasse kommend ist der Radweg auf der Strasse markiert.
+2-1	64-67	Von	*[5]	
+2-2	68-71	der	*[5]	
+2-3	72-79	Inneren	*[5]	
+2-4	80-92	Kanalstrasse	*[5]	
+2-5	93-100	kommend	*[5]	
+2-6	101-104	ist	_	
+2-7	105-108	der	_	
+2-8	109-115	Radweg	_	
+2-9	116-119	auf	_	
+2-10	120-123	der	_	
+2-11	124-131	Strasse	_	
+2-12	132-140	markiert	_	
+2-13	140-141	.	_	
+
+#Text=Ab der Mechternstrasse ist er dann verschwunden.
+3-1	142-144	Ab	*[6]	
+3-2	145-148	der	*[6]	
+3-3	149-164	Mechternstrasse	*[6]	
+3-4	165-168	ist	_	
+3-5	169-171	er	_	
+3-6	172-176	dann	_	
+3-7	177-189	verschwunden	_	
+3-8	189-190	.	_	
+
+#Text=Beim Autohaus Fleischhauer führt er dann anscheinend über den Fußweg, ist dort aber nur unzureichend gekennzeichnet - man erkennt es kaum, wenn man von der Strasse her schaut.
+4-1	191-195	Beim	*[7]	
+4-2	196-204	Autohaus	*[7]	
+4-3	205-217	Fleischhauer	*[7]	
+4-4	218-223	führt	_	
+4-5	224-226	er	_	
+4-6	227-231	dann	_	
+4-7	232-243	anscheinend	_	
+4-8	244-248	über	_	
+4-9	249-252	den	_	
+4-10	253-259	Fußweg	_	
+4-11	259-260	,	_	
+4-12	261-264	ist	_	
+4-13	265-269	dort	_	
+4-14	270-274	aber	_	
+4-15	275-278	nur	_	
+4-16	279-291	unzureichend	_	
+4-17	292-306	gekennzeichnet	_	
+4-18	307-308	-	_	
+4-19	309-312	man	_	
+4-20	313-320	erkennt	_	
+4-21	321-323	es	_	
+4-22	324-328	kaum	_	
+4-23	328-329	,	_	
+4-24	330-334	wenn	_	
+4-25	335-338	man	_	
+4-26	339-342	von	_	
+4-27	343-346	der	_	
+4-28	347-354	Strasse	_	
+4-29	355-358	her	_	
+4-30	359-365	schaut	_	
+4-31	365-366	.	_	

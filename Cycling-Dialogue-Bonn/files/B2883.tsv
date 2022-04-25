@@ -1,0 +1,71 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kopfsteinpflaster auf dem Radweg
+1-1	0-17	Kopfsteinpflaster	_	
+1-2	18-21	auf	_	
+1-3	22-25	dem	_	
+1-4	26-32	Radweg	_	
+
+#Text=An allen Rechtsabbiegerstrassen wird der Radverkehr durch weiträumiges Kopfsteinpflaster ausgebremst.
+2-1	35-37	An	_	
+2-2	38-43	allen	_	
+2-3	44-66	Rechtsabbiegerstrassen	_	
+2-4	67-71	wird	_	
+2-5	72-75	der	_	
+2-6	76-86	Radverkehr	_	
+2-7	87-92	durch	_	
+2-8	93-105	weiträumiges	_	
+2-9	106-123	Kopfsteinpflaster	_	
+2-10	124-135	ausgebremst	_	
+2-11	135-136	.	_	
+
+#Text=Das soll offenbar dem Schutz der Radfahrer dienen, damit die rechtsabbiegenden Autofahrer Vorrang haben.
+3-1	137-140	Das	_	
+3-2	141-145	soll	_	
+3-3	146-154	offenbar	_	
+3-4	155-158	dem	_	
+3-5	159-165	Schutz	_	
+3-6	166-169	der	_	
+3-7	170-179	Radfahrer	_	
+3-8	180-186	dienen	_	
+3-9	186-187	,	_	
+3-10	188-193	damit	_	
+3-11	194-197	die	_	
+3-12	198-215	rechtsabbiegenden	_	
+3-13	216-226	Autofahrer	_	
+3-14	227-234	Vorrang	_	
+3-15	235-240	haben	_	
+3-16	240-241	.	_	
+
+#Text=Verbesserung der Vorfahrt für Radfahrer, z.B. durch Ausbremsung von Rechtsabbiegern, z.B. durch leicht erhöhte Einfassung des Radwegs - ähnlich wie bei Fahrbahnkissen.
+4-1	242-254	Verbesserung	_	
+4-2	255-258	der	_	
+4-3	259-267	Vorfahrt	_	
+4-4	268-271	für	_	
+4-5	272-281	Radfahrer	_	
+4-6	281-282	,	_	
+4-7	283-286	z.B	_	
+4-8	286-287	.	_	
+4-9	288-293	durch	_	
+4-10	294-305	Ausbremsung	_	
+4-11	306-309	von	_	
+4-12	310-325	Rechtsabbiegern	_	
+4-13	325-326	,	_	
+4-14	327-330	z.B	_	
+4-15	330-331	.	_	
+4-16	332-337	durch	_	
+4-17	338-344	leicht	_	
+4-18	345-352	erhöhte	_	
+4-19	353-363	Einfassung	_	
+4-20	364-367	des	_	
+4-21	368-375	Radwegs	_	
+4-22	376-377	-	_	
+4-23	378-385	ähnlich	_	
+4-24	386-389	wie	_	
+4-25	390-393	bei	_	
+4-26	394-408	Fahrbahnkissen	_	
+4-27	408-409	.	_	

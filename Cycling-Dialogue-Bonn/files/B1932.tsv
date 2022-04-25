@@ -1,0 +1,277 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verbindung zur Grootestraße
+1-1	0-10	Verbindung	_	
+1-2	11-14	zur	*[17]	
+1-3	15-27	Grootestraße	*[17]	
+
+#Text=Vor ca 1 Jahr wurde der Bendenweg in eine Fahrradstraße umgewandelt.
+2-1	30-33	Vor	_	
+2-2	34-36	ca	_	
+2-3	37-38	1	_	
+2-4	39-43	Jahr	_	
+2-5	44-49	wurde	_	
+2-6	50-53	der	*[18]	
+2-7	54-63	Bendenweg	*[18]	
+2-8	64-66	in	_	
+2-9	67-71	eine	_	
+2-10	72-85	Fahrradstraße	_	
+2-11	86-97	umgewandelt	_	
+2-12	97-98	.	_	
+
+#Text=Ein halber Jahr später wurde die Haltestelle der KVB Behinderten gerecht umgestalltet und die Fahrradstrasse teiweise verengt.
+3-1	99-102	Ein	_	
+3-2	103-109	halber	_	
+3-3	110-114	Jahr	_	
+3-4	115-121	später	_	
+3-5	122-127	wurde	_	
+3-6	128-131	die	*[19]	
+3-7	132-143	Haltestelle	*[19]	
+3-8	144-147	der	*[19]	
+3-9	148-151	KVB	*[19]	
+3-10	152-163	Behinderten	_	
+3-11	164-171	gerecht	_	
+3-12	172-184	umgestalltet	_	
+3-13	185-188	und	_	
+3-14	189-192	die	_	
+3-15	193-207	Fahrradstrasse	_	
+3-16	208-216	teiweise	_	
+3-17	217-224	verengt	_	
+3-18	224-225	.	_	
+
+#Text=Inzwischen haben sich die Autofahrer wohl daran gewöhnt, aber nicht Alle.
+4-1	226-236	Inzwischen	_	
+4-2	237-242	haben	_	
+4-3	243-247	sich	_	
+4-4	248-251	die	_	
+4-5	252-262	Autofahrer	_	
+4-6	263-267	wohl	_	
+4-7	268-273	daran	_	
+4-8	274-281	gewöhnt	_	
+4-9	281-282	,	_	
+4-10	283-287	aber	_	
+4-11	288-293	nicht	_	
+4-12	294-298	Alle	_	
+4-13	298-299	.	_	
+
+#Text=Die Änderung der Vorfahrtsregeln (rechts vor links) an den Stichstrassen wurde anfangs nicht so ernst befolgt.
+5-1	300-303	Die	_	
+5-2	304-312	Änderung	_	
+5-3	313-316	der	_	
+5-4	317-332	Vorfahrtsregeln	_	
+5-5	333-334	(	_	
+5-6	334-340	rechts	_	
+5-7	341-344	vor	_	
+5-8	345-350	links	_	
+5-9	350-351	)	_	
+5-10	352-354	an	_	
+5-11	355-358	den	_	
+5-12	359-372	Stichstrassen	_	
+5-13	373-378	wurde	_	
+5-14	379-386	anfangs	_	
+5-15	387-392	nicht	_	
+5-16	393-395	so	_	
+5-17	396-401	ernst	_	
+5-18	402-409	befolgt	_	
+5-19	409-410	.	_	
+
+#Text=Viele PKW schießen noch um die Kurven.
+6-1	411-416	Viele	_	
+6-2	417-420	PKW	_	
+6-3	421-429	schießen	_	
+6-4	430-434	noch	_	
+6-5	435-437	um	_	
+6-6	438-441	die	_	
+6-7	442-448	Kurven	_	
+6-8	448-449	.	_	
+
+#Text=Die Beschilderung ist aber auch schlecht gemacht.
+7-1	450-453	Die	_	
+7-2	454-467	Beschilderung	_	
+7-3	468-471	ist	_	
+7-4	472-476	aber	_	
+7-5	477-481	auch	_	
+7-6	482-490	schlecht	_	
+7-7	491-498	gemacht	_	
+7-8	498-499	.	_	
+
+#Text=So befinden sich unterschiedliche Schilder auf beiden Seiten der Einmündungen und relativ hoch.
+8-1	500-502	So	_	
+8-2	503-511	befinden	_	
+8-3	512-516	sich	_	
+8-4	517-533	unterschiedliche	_	
+8-5	534-542	Schilder	_	
+8-6	543-546	auf	_	
+8-7	547-553	beiden	_	
+8-8	554-560	Seiten	_	
+8-9	561-564	der	_	
+8-10	565-577	Einmündungen	_	
+8-11	578-581	und	_	
+8-12	582-589	relativ	_	
+8-13	590-594	hoch	_	
+8-14	594-595	.	_	
+
+#Text=Eigentlich gilt immer was rechts steht.
+9-1	596-606	Eigentlich	_	
+9-2	607-611	gilt	_	
+9-3	612-617	immer	_	
+9-4	618-621	was	_	
+9-5	622-628	rechts	_	
+9-6	629-634	steht	_	
+9-7	634-635	.	_	
+
+#Text=Zusätzlich herrscht dort LKW Verkehr für die Firmen Wiehlpütz und die Glaserei, was schon mal eng werden kann.
+10-1	636-646	Zusätzlich	_	
+10-2	647-655	herrscht	_	
+10-3	656-660	dort	_	
+10-4	661-664	LKW	_	
+10-5	665-672	Verkehr	_	
+10-6	673-676	für	_	
+10-7	677-680	die	_	
+10-8	681-687	Firmen	_	
+10-9	688-697	Wiehlpütz	_	
+10-10	698-701	und	_	
+10-11	702-705	die	_	
+10-12	706-714	Glaserei	_	
+10-13	714-715	,	_	
+10-14	716-719	was	_	
+10-15	720-725	schon	_	
+10-16	726-729	mal	_	
+10-17	730-733	eng	_	
+10-18	734-740	werden	_	
+10-19	741-745	kann	_	
+10-20	745-746	.	_	
+
+#Text=Grundsätzlich scheint erwartet zu werden, dass man als Radfahrer Platz macht, egal ob die parkenden PKWs, auf der Gegenseite stehen oder die Fahrbahn sich verengt.
+11-1	747-760	Grundsätzlich	_	
+11-2	761-768	scheint	_	
+11-3	769-777	erwartet	_	
+11-4	778-780	zu	_	
+11-5	781-787	werden	_	
+11-6	787-788	,	_	
+11-7	789-793	dass	_	
+11-8	794-797	man	_	
+11-9	798-801	als	_	
+11-10	802-811	Radfahrer	_	
+11-11	812-817	Platz	_	
+11-12	818-823	macht	_	
+11-13	823-824	,	_	
+11-14	825-829	egal	_	
+11-15	830-832	ob	_	
+11-16	833-836	die	_	
+11-17	837-846	parkenden	_	
+11-18	847-851	PKWs	_	
+11-19	851-852	,	_	
+11-20	853-856	auf	_	
+11-21	857-860	der	_	
+11-22	861-871	Gegenseite	_	
+11-23	872-878	stehen	_	
+11-24	879-883	oder	_	
+11-25	884-887	die	_	
+11-26	888-896	Fahrbahn	_	
+11-27	897-901	sich	_	
+11-28	902-909	verengt	_	
+11-29	909-910	.	_	
+
+#Text=Während man von Dransdorf aus eine breite Zufahrt hat, endet die Fahrradstraße in einem Wendekreis mit einem gemeinsamen, schmalen, stark abwärts nach unten führenden gemeinsamen Rad/Gehweg (ist so beschildert).
+12-1	911-918	Während	_	
+12-2	919-922	man	_	
+12-3	923-926	von	*[20]	
+12-4	927-936	Dransdorf	*[20]	
+12-5	937-940	aus	*[20]	
+12-6	941-945	eine	_	
+12-7	946-952	breite	_	
+12-8	953-960	Zufahrt	_	
+12-9	961-964	hat	_	
+12-10	964-965	,	_	
+12-11	966-971	endet	_	
+12-12	972-975	die	_	
+12-13	976-989	Fahrradstraße	_	
+12-14	990-992	in	_	
+12-15	993-998	einem	_	
+12-16	999-1009	Wendekreis	_	
+12-17	1010-1013	mit	_	
+12-18	1014-1019	einem	_	
+12-19	1020-1031	gemeinsamen	_	
+12-20	1031-1032	,	_	
+12-21	1033-1041	schmalen	_	
+12-22	1041-1042	,	_	
+12-23	1043-1048	stark	_	
+12-24	1049-1056	abwärts	_	
+12-25	1057-1061	nach	_	
+12-26	1062-1067	unten	_	
+12-27	1068-1077	führenden	_	
+12-28	1078-1089	gemeinsamen	_	
+12-29	1090-1093	Rad	_	
+12-30	1093-1094	/	_	
+12-31	1094-1100	Gehweg	_	
+12-32	1101-1102	(	_	
+12-33	1102-1105	ist	_	
+12-34	1106-1108	so	_	
+12-35	1109-1120	beschildert	_	
+12-36	1120-1121	)	_	
+12-37	1121-1122	.	_	
+
+#Text=Natürlich stehen da 2 Pöller.
+13-1	1123-1132	Natürlich	_	
+13-2	1133-1139	stehen	_	
+13-3	1140-1142	da	_	
+13-4	1143-1144	2	_	
+13-5	1145-1151	Pöller	_	
+13-6	1151-1152	.	_	
+
+#Text=Nichts für Tandems, Liegeräder mit 3 Rädern oder Rad mit Hänger bei Gegenverkehr von Radfahrern oder Fußgängern.
+14-1	1153-1159	Nichts	_	
+14-2	1160-1163	für	_	
+14-3	1164-1171	Tandems	_	
+14-4	1171-1172	,	_	
+14-5	1173-1183	Liegeräder	_	
+14-6	1184-1187	mit	_	
+14-7	1188-1189	3	_	
+14-8	1190-1196	Rädern	_	
+14-9	1197-1201	oder	_	
+14-10	1202-1205	Rad	_	
+14-11	1206-1209	mit	_	
+14-12	1210-1216	Hänger	_	
+14-13	1217-1220	bei	_	
+14-14	1221-1233	Gegenverkehr	_	
+14-15	1234-1237	von	_	
+14-16	1238-1248	Radfahrern	_	
+14-17	1249-1253	oder	_	
+14-18	1254-1264	Fußgängern	_	
+14-19	1264-1265	.	_	
+
+#Text=Von der Gegenseite wird das Pflichtradwegschild von der Litfasssäule verdeckt.
+15-1	1266-1269	Von	_	
+15-2	1270-1273	der	_	
+15-3	1274-1284	Gegenseite	_	
+15-4	1285-1289	wird	_	
+15-5	1290-1293	das	_	
+15-6	1294-1313	Pflichtradwegschild	_	
+15-7	1314-1317	von	_	
+15-8	1318-1321	der	_	
+15-9	1322-1334	Litfasssäule	_	
+15-10	1335-1343	verdeckt	_	
+15-11	1343-1344	.	_	
+
+#Text=Vorschlag: Sichtbarkeit des Schildes verbessern, Pöller weg, Weg verbreitern und flache Wegführung.
+16-1	1345-1354	Vorschlag	_	
+16-2	1354-1355	:	_	
+16-3	1356-1368	Sichtbarkeit	_	
+16-4	1369-1372	des	_	
+16-5	1373-1381	Schildes	_	
+16-6	1382-1392	verbessern	_	
+16-7	1392-1393	,	_	
+16-8	1394-1400	Pöller	_	
+16-9	1401-1404	weg	_	
+16-10	1404-1405	,	_	
+16-11	1406-1409	Weg	_	
+16-12	1410-1421	verbreitern	_	
+16-13	1422-1425	und	_	
+16-14	1426-1432	flache	_	
+16-15	1433-1443	Wegführung	_	
+16-16	1443-1444	.	_	

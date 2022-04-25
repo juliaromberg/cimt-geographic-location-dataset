@@ -1,0 +1,165 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße sollte nicht gleichzeitig Busstrecke sein_
+1-1	0-13	Fahrradstraße	_	
+1-2	14-20	sollte	_	
+1-3	21-26	nicht	_	
+1-4	27-39	gleichzeitig	_	
+1-5	40-50	Busstrecke	_	
+1-6	51-55	sein	_	
+1-7	55-56	_	_	
+
+#Text=Da die sogenannte Fahrradstraße gleichzeitig Busroute ist, lässt sich der eigentliche Sinn und Zweck der Fahrradstraße nicht in die Tat umsetzen: sicheres, entspanntes Fahren, auch nebeneinander (was ausdrücklich erlaubt ist auf der Fahrradstraße) mit Kindern.
+2-1	59-61	Da	_	
+2-2	62-65	die	_	
+2-3	66-76	sogenannte	_	
+2-4	77-90	Fahrradstraße	_	
+2-5	91-103	gleichzeitig	_	
+2-6	104-112	Busroute	_	
+2-7	113-116	ist	_	
+2-8	116-117	,	_	
+2-9	118-123	lässt	_	
+2-10	124-128	sich	_	
+2-11	129-132	der	_	
+2-12	133-144	eigentliche	_	
+2-13	145-149	Sinn	_	
+2-14	150-153	und	_	
+2-15	154-159	Zweck	_	
+2-16	160-163	der	_	
+2-17	164-177	Fahrradstraße	_	
+2-18	178-183	nicht	_	
+2-19	184-186	in	_	
+2-20	187-190	die	_	
+2-21	191-194	Tat	_	
+2-22	195-203	umsetzen	_	
+2-23	203-204	:	_	
+2-24	205-213	sicheres	_	
+2-25	213-214	,	_	
+2-26	215-226	entspanntes	_	
+2-27	227-233	Fahren	_	
+2-28	233-234	,	_	
+2-29	235-239	auch	_	
+2-30	240-253	nebeneinander	_	
+2-31	254-255	(	_	
+2-32	255-258	was	_	
+2-33	259-271	ausdrücklich	_	
+2-34	272-279	erlaubt	_	
+2-35	280-283	ist	_	
+2-36	284-287	auf	_	
+2-37	288-291	der	_	
+2-38	292-305	Fahrradstraße	_	
+2-39	305-306	)	_	
+2-40	307-310	mit	_	
+2-41	311-318	Kindern	_	
+2-42	318-319	.	_	
+
+#Text=Was tun mit dem (verständlicherweise, da sicherlich häufig unter Zeitdruck) ungeduldigen Busfahrer im Nacken: erstmal die Tochter wieder auf den Gehsteig befördern.
+3-1	320-323	Was	_	
+3-2	324-327	tun	_	
+3-3	328-331	mit	_	
+3-4	332-335	dem	_	
+3-5	336-337	(	_	
+3-6	337-356	verständlicherweise	_	
+3-7	356-357	,	_	
+3-8	358-360	da	_	
+3-9	361-371	sicherlich	_	
+3-10	372-378	häufig	_	
+3-11	379-384	unter	_	
+3-12	385-394	Zeitdruck	_	
+3-13	394-395	)	_	
+3-14	396-408	ungeduldigen	_	
+3-15	409-418	Busfahrer	_	
+3-16	419-421	im	_	
+3-17	422-428	Nacken	_	
+3-18	428-429	:	_	
+3-19	430-437	erstmal	_	
+3-20	438-441	die	_	
+3-21	442-449	Tochter	_	
+3-22	450-456	wieder	_	
+3-23	457-460	auf	_	
+3-24	461-464	den	_	
+3-25	465-473	Gehsteig	_	
+3-26	474-483	befördern	_	
+3-27	483-484	.	_	
+
+#Text=Autos rasen wie eh und je mit viel zu hoher Geschwindigkeit durch die Turmstraße, die als Ausweichroute zur Mittelstraße genutzt wird.
+4-1	485-490	Autos	_	
+4-2	491-496	rasen	_	
+4-3	497-500	wie	_	
+4-4	501-503	eh	_	
+4-5	504-507	und	_	
+4-6	508-510	je	_	
+4-7	511-514	mit	_	
+4-8	515-519	viel	_	
+4-9	520-522	zu	_	
+4-10	523-528	hoher	_	
+4-11	529-544	Geschwindigkeit	_	
+4-12	545-550	durch	*[8]	
+4-13	551-554	die	*[8]	
+4-14	555-565	Turmstraße	*[8]	
+4-15	565-566	,	_	
+4-16	567-570	die	_	
+4-17	571-574	als	_	
+4-18	575-588	Ausweichroute	_	
+4-19	589-592	zur	_	
+4-20	593-605	Mittelstraße	_	
+4-21	606-613	genutzt	_	
+4-22	614-618	wird	_	
+4-23	618-619	.	_	
+
+#Text=Da müsste schon etwas an der Straßenführung geändert werden, um die Autos zwangsweise zu entschleunigen.
+5-1	620-622	Da	_	
+5-2	623-629	müsste	_	
+5-3	630-635	schon	_	
+5-4	636-641	etwas	_	
+5-5	642-644	an	_	
+5-6	645-648	der	_	
+5-7	649-663	Straßenführung	_	
+5-8	664-672	geändert	_	
+5-9	673-679	werden	_	
+5-10	679-680	,	_	
+5-11	681-683	um	_	
+5-12	684-687	die	_	
+5-13	688-693	Autos	_	
+5-14	694-705	zwangsweise	_	
+5-15	706-708	zu	_	
+5-16	709-723	entschleunigen	_	
+5-17	723-724	.	_	
+
+#Text=Fahrradstraße suggeriert mehr Sicherheit für Fahrradfahrer und die Möglichkeit für entspanntes Fahren ohne drängelnde Autos und Busse.
+6-1	725-738	Fahrradstraße	_	
+6-2	739-749	suggeriert	_	
+6-3	750-754	mehr	_	
+6-4	755-765	Sicherheit	_	
+6-5	766-769	für	_	
+6-6	770-783	Fahrradfahrer	_	
+6-7	784-787	und	_	
+6-8	788-791	die	_	
+6-9	792-803	Möglichkeit	_	
+6-10	804-807	für	_	
+6-11	808-819	entspanntes	_	
+6-12	820-826	Fahren	_	
+6-13	827-831	ohne	_	
+6-14	832-842	drängelnde	_	
+6-15	843-848	Autos	_	
+6-16	849-852	und	_	
+6-17	853-858	Busse	_	
+6-18	858-859	.	_	
+
+#Text=Wenn das nicht gegeben ist, ist das Fahrradstraßenkonzept nichts wert.
+7-1	860-864	Wenn	_	
+7-2	865-868	das	_	
+7-3	869-874	nicht	_	
+7-4	875-882	gegeben	_	
+7-5	883-886	ist	_	
+7-6	886-887	,	_	
+7-7	888-891	ist	_	
+7-8	892-895	das	_	
+7-9	896-917	Fahrradstraßenkonzept	_	
+7-10	918-924	nichts	_	
+7-11	925-929	wert	_	
+7-12	929-930	.	_	

@@ -1,0 +1,140 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kein getrennter Radweg
+1-1	0-4	Kein	_	
+1-2	5-15	getrennter	_	
+1-3	16-22	Radweg	_	
+
+#Text=Am gesamten Oberkasseler Ufer gibt es einen breitenm Weg, welcher von Fußgängern und Radfahrern gemeinsam genutzt wird.
+2-1	25-27	Am	*[8]	
+2-2	28-36	gesamten	*[8]	
+2-3	37-49	Oberkasseler	*[8]	
+2-4	50-54	Ufer	*[8]	
+2-5	55-59	gibt	_	
+2-6	60-62	es	_	
+2-7	63-68	einen	_	
+2-8	69-77	breitenm	_	
+2-9	78-81	Weg	_	
+2-10	81-82	,	_	
+2-11	83-90	welcher	_	
+2-12	91-94	von	_	
+2-13	95-105	Fußgängern	_	
+2-14	106-109	und	_	
+2-15	110-120	Radfahrern	_	
+2-16	121-130	gemeinsam	_	
+2-17	131-138	genutzt	_	
+2-18	139-143	wird	_	
+2-19	143-144	.	_	
+
+#Text=Hier kommt es sehr oft zu Staus und gefährlichen Situationen, da die Fußgänger über die komplette Breite des Weges verteilt gehen und sich nicht nach Radfahrern umschauen.
+3-1	145-149	Hier	_	
+3-2	150-155	kommt	_	
+3-3	156-158	es	_	
+3-4	159-163	sehr	_	
+3-5	164-167	oft	_	
+3-6	168-170	zu	_	
+3-7	171-176	Staus	_	
+3-8	177-180	und	_	
+3-9	181-193	gefährlichen	_	
+3-10	194-205	Situationen	_	
+3-11	205-206	,	_	
+3-12	207-209	da	_	
+3-13	210-213	die	_	
+3-14	214-223	Fußgänger	_	
+3-15	224-228	über	_	
+3-16	229-232	die	_	
+3-17	233-242	komplette	_	
+3-18	243-249	Breite	_	
+3-19	250-253	des	_	
+3-20	254-259	Weges	_	
+3-21	260-268	verteilt	_	
+3-22	269-274	gehen	_	
+3-23	275-278	und	_	
+3-24	279-283	sich	_	
+3-25	284-289	nicht	_	
+3-26	290-294	nach	_	
+3-27	295-305	Radfahrern	_	
+3-28	306-315	umschauen	_	
+3-29	315-316	.	_	
+
+#Text=Gleichzeitig rasen viele Radfahrer sehr nah an oder zwischen Fußgängern vorbei.
+4-1	317-329	Gleichzeitig	_	
+4-2	330-335	rasen	_	
+4-3	336-341	viele	_	
+4-4	342-351	Radfahrer	_	
+4-5	352-356	sehr	_	
+4-6	357-360	nah	_	
+4-7	361-363	an	_	
+4-8	364-368	oder	_	
+4-9	369-377	zwischen	_	
+4-10	378-388	Fußgängern	_	
+4-11	389-395	vorbei	_	
+4-12	395-396	.	_	
+
+#Text=Wenn dann noch Veranstaltungen in Sandys Beach stattfinden ist fast kein Durchkommen mehr auf dem Fahrrad.
+5-1	397-401	Wenn	_	
+5-2	402-406	dann	_	
+5-3	407-411	noch	_	
+5-4	412-427	Veranstaltungen	_	
+5-5	428-430	in	_	
+5-6	431-437	Sandys	_	
+5-7	438-443	Beach	_	
+5-8	444-455	stattfinden	_	
+5-9	456-459	ist	_	
+5-10	460-464	fast	_	
+5-11	465-469	kein	_	
+5-12	470-481	Durchkommen	_	
+5-13	482-486	mehr	_	
+5-14	487-490	auf	_	
+5-15	491-494	dem	_	
+5-16	495-502	Fahrrad	_	
+5-17	502-503	.	_	
+
+#Text=Hier könnte man über einen abgetrennten Fahrradweg nachdenken, oder zumindest mit Hilfe von SChildern regeln, welcher Verkehrsteilnehmer auf welcher Seite des Weges sein sollte.
+6-1	504-508	Hier	_	
+6-2	509-515	könnte	_	
+6-3	516-519	man	_	
+6-4	520-524	über	_	
+6-5	525-530	einen	_	
+6-6	531-543	abgetrennten	_	
+6-7	544-554	Fahrradweg	_	
+6-8	555-565	nachdenken	_	
+6-9	565-566	,	_	
+6-10	567-571	oder	_	
+6-11	572-581	zumindest	_	
+6-12	582-585	mit	_	
+6-13	586-591	Hilfe	_	
+6-14	592-595	von	_	
+6-15	596-605	SChildern	_	
+6-16	606-612	regeln	_	
+6-17	612-613	,	_	
+6-18	614-621	welcher	_	
+6-19	622-640	Verkehrsteilnehmer	_	
+6-20	641-644	auf	_	
+6-21	645-652	welcher	_	
+6-22	653-658	Seite	_	
+6-23	659-662	des	_	
+6-24	663-668	Weges	_	
+6-25	669-673	sein	_	
+6-26	674-680	sollte	_	
+6-27	680-681	.	_	
+
+#Text=Richtung Königswinter werden die Wege dann getrennt und es gibt keine Probleme mehr.
+7-1	682-690	Richtung	*[9]	
+7-2	691-703	Königswinter	*[9]	
+7-3	704-710	werden	_	
+7-4	711-714	die	_	
+7-5	715-719	Wege	_	
+7-6	720-724	dann	_	
+7-7	725-733	getrennt	_	
+7-8	734-737	und	_	
+7-9	738-740	es	_	
+7-10	741-745	gibt	_	
+7-11	746-751	keine	_	
+7-12	752-760	Probleme	_	
+7-13	761-765	mehr	_	
+7-14	765-766	.	_	

@@ -1,0 +1,27 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Grünschitt regelmäßig
+1-1	0-10	Grünschitt	_	
+1-2	11-21	regelmäßig	_	
+
+#Text=Der Radweg zwischen Stadtgrenze und Bundeshäuschen wächst in der Wachstumsperiode von der DB-Seite regelmäßig zu.
+2-1	24-27	Der	_	
+2-2	28-34	Radweg	_	
+2-3	35-43	zwischen	*[3]	
+2-4	44-55	Stadtgrenze	*[3]	
+2-5	56-59	und	*[3]	
+2-6	60-74	Bundeshäuschen	*[3]	
+2-7	75-81	wächst	_	
+2-8	82-84	in	_	
+2-9	85-88	der	_	
+2-10	89-105	Wachstumsperiode	_	
+2-11	106-109	von	_	
+2-12	110-113	der	_	
+2-13	114-122	DB-Seite	_	
+2-14	123-133	regelmäßig	_	
+2-15	134-136	zu	_	
+2-16	136-137	.	_	

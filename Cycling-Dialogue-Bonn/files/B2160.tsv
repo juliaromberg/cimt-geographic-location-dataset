@@ -1,0 +1,34 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlechter Fahrbahnbelag
+1-1	0-10	Schlechter	_	
+1-2	11-24	Fahrbahnbelag	_	
+
+#Text=Sehr schlechter Fahrbahnbelag auf der Friedrichallee in Fahrtrichtung Rhein sowie Kreuzung Friedrichallee / Lindenallee, so dass Radfahrer in der Straßenmitte fahren müssen
+2-1	27-31	Sehr	_	
+2-2	32-42	schlechter	_	
+2-3	43-56	Fahrbahnbelag	_	
+2-4	57-60	auf	*[3]	
+2-5	61-64	der	*[3]	
+2-6	65-79	Friedrichallee	*[3]	
+2-7	80-82	in	*[3]	
+2-8	83-96	Fahrtrichtung	*[3]	
+2-9	97-102	Rhein	*[3]	
+2-10	103-108	sowie	*[3]	
+2-11	109-117	Kreuzung	*[3]	
+2-12	118-132	Friedrichallee	*[3]	
+2-13	133-134	/	*[3]	
+2-14	135-146	Lindenallee	*[3]	
+2-15	146-147	,	_	
+2-16	148-150	so	_	
+2-17	151-155	dass	_	
+2-18	156-165	Radfahrer	_	
+2-19	166-168	in	_	
+2-20	169-172	der	_	
+2-21	173-185	Straßenmitte	_	
+2-22	186-192	fahren	_	
+2-23	193-199	müssen	_	

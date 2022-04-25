@@ -1,0 +1,143 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg an der Kaiserstraße/Bahn ist viel zu schmal
+1-1	0-6	Radweg	*[8]	
+1-2	7-9	an	*[8]	
+1-3	10-13	der	*[8]	
+1-4	14-26	Kaiserstraße	*[8]	
+1-5	26-27	/	*[8]	
+1-6	27-31	Bahn	*[8]	
+1-7	32-35	ist	_	
+1-8	36-40	viel	_	
+1-9	41-43	zu	_	
+1-10	44-50	schmal	_	
+
+#Text=Der Radweg an der Kaiserstraße ist eine Haupteinfallsstrecke von Süden zur Innenstadt und zurück - vergleichbar mit der B9 für den Autoverkehr.
+2-1	53-56	Der	*[9]	
+2-2	57-63	Radweg	*[9]	
+2-3	64-66	an	*[9]	
+2-4	67-70	der	*[9]	
+2-5	71-83	Kaiserstraße	*[9]	
+2-6	84-87	ist	_	
+2-7	88-92	eine	_	
+2-8	93-113	Haupteinfallsstrecke	_	
+2-9	114-117	von	*[10]	
+2-10	118-123	Süden	*[10]	
+2-11	124-127	zur	*[10]	
+2-12	128-138	Innenstadt	*[10]	
+2-13	139-142	und	_	
+2-14	143-149	zurück	_	
+2-15	150-151	-	_	
+2-16	152-164	vergleichbar	_	
+2-17	165-168	mit	_	
+2-18	169-172	der	_	
+2-19	173-175	B9	*	
+2-20	176-179	für	_	
+2-21	180-183	den	_	
+2-22	184-195	Autoverkehr	_	
+2-23	195-196	.	_	
+
+#Text=Leider ist der Weg viel zu schmal, kommt einem ein Fahrrad mit Anhänger entgegen, wird es eng.
+3-1	197-203	Leider	_	
+3-2	204-207	ist	_	
+3-3	208-211	der	_	
+3-4	212-215	Weg	_	
+3-5	216-220	viel	_	
+3-6	221-223	zu	_	
+3-7	224-230	schmal	_	
+3-8	230-231	,	_	
+3-9	232-237	kommt	_	
+3-10	238-243	einem	_	
+3-11	244-247	ein	_	
+3-12	248-255	Fahrrad	_	
+3-13	256-259	mit	_	
+3-14	260-268	Anhänger	_	
+3-15	269-277	entgegen	_	
+3-16	277-278	,	_	
+3-17	279-283	wird	_	
+3-18	284-286	es	_	
+3-19	287-290	eng	_	
+3-20	290-291	.	_	
+
+#Text=Zusätzliche Hindernisse wie schlecht geschnittene Hecken an der Bahnseite und Bushaltestellen machen das Fahren noch unerfreulicher.
+4-1	292-303	Zusätzliche	_	
+4-2	304-315	Hindernisse	_	
+4-3	316-319	wie	_	
+4-4	320-328	schlecht	_	
+4-5	329-341	geschnittene	_	
+4-6	342-348	Hecken	_	
+4-7	349-351	an	_	
+4-8	352-355	der	_	
+4-9	356-365	Bahnseite	_	
+4-10	366-369	und	_	
+4-11	370-385	Bushaltestellen	_	
+4-12	386-392	machen	_	
+4-13	393-396	das	_	
+4-14	397-403	Fahren	_	
+4-15	404-408	noch	_	
+4-16	409-423	unerfreulicher	_	
+4-17	423-424	.	_	
+
+#Text=Kommt einem, wenn man von Süden kommt, auch noch ein Bus entgegen, muss man fürchten, vom Seitenspiegel des Busses getroffen zu werden.
+5-1	425-430	Kommt	_	
+5-2	431-436	einem	_	
+5-3	436-437	,	_	
+5-4	438-442	wenn	_	
+5-5	443-446	man	_	
+5-6	447-450	von	_	
+5-7	451-456	Süden	_	
+5-8	457-462	kommt	_	
+5-9	462-463	,	_	
+5-10	464-468	auch	_	
+5-11	469-473	noch	_	
+5-12	474-477	ein	_	
+5-13	478-481	Bus	_	
+5-14	482-490	entgegen	_	
+5-15	490-491	,	_	
+5-16	492-496	muss	_	
+5-17	497-500	man	_	
+5-18	501-509	fürchten	_	
+5-19	509-510	,	_	
+5-20	511-514	vom	_	
+5-21	515-528	Seitenspiegel	_	
+5-22	529-532	des	_	
+5-23	533-539	Busses	_	
+5-24	540-549	getroffen	_	
+5-25	550-552	zu	_	
+5-26	553-559	werden	_	
+5-27	559-560	.	_	
+
+#Text=Vorschläge: Radweg deutlich verbreitern, Kaiserstr. wird Einbahnstraße oder zumindest Anliegerstraße mit nur einer schmalen Fahrspur.
+6-1	561-571	Vorschläge	_	
+6-2	571-572	:	_	
+6-3	573-579	Radweg	_	
+6-4	580-588	deutlich	_	
+6-5	589-600	verbreitern	_	
+6-6	600-601	,	_	
+6-7	602-611	Kaiserstr	_	
+6-8	611-612	.	_	
+6-9	613-617	wird	_	
+6-10	618-631	Einbahnstraße	_	
+6-11	632-636	oder	_	
+6-12	637-646	zumindest	_	
+6-13	647-661	Anliegerstraße	_	
+6-14	662-665	mit	_	
+6-15	666-669	nur	_	
+6-16	670-675	einer	_	
+6-17	676-684	schmalen	_	
+6-18	685-693	Fahrspur	_	
+6-19	693-694	.	_	
+
+#Text=Oder direkt eine Fahrradstraße ausrufen mit Busverkehr.
+7-1	695-699	Oder	_	
+7-2	700-706	direkt	_	
+7-3	707-711	eine	_	
+7-4	712-725	Fahrradstraße	_	
+7-5	726-734	ausrufen	_	
+7-6	735-738	mit	_	
+7-7	739-749	Busverkehr	_	
+7-8	749-750	.	_	

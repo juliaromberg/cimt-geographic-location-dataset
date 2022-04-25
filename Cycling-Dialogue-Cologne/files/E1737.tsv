@@ -1,0 +1,100 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=ungesichert zwischen Venloer Str. u. Radweg entlang der A1
+1-1	0-11	ungesichert	_	
+1-2	12-20	zwischen	*[6]	
+1-3	21-28	Venloer	*[6]	
+1-4	29-32	Str	*[6]	
+1-5	32-33	.	*[6]	
+1-6	34-35	u	*[6]	
+1-7	35-36	.	*[6]	
+1-8	37-43	Radweg	*[6]	
+1-9	44-51	entlang	*[6]	
+1-10	52-55	der	*[6]	
+1-11	56-58	A1	*[6]	
+
+#Text=fährt man von der Venloer Str. auf den Auf dem Paulsacker ist man als Fußgänger, Läufer, Walker, Radfahrer auf einem kurzen Teilstück von ca. 500 m absolut dem Verkehr ausgesetzt.
+2-1	61-66	fährt	_	
+2-2	67-70	man	_	
+2-3	71-74	von	*[7]	
+2-4	75-78	der	*[7]	
+2-5	79-86	Venloer	*[7]	
+2-6	87-90	Str	*[7]	
+2-7	90-91	.	*[7]	
+2-8	92-95	auf	*[7]	
+2-9	96-99	den	*[7]	
+2-10	100-103	Auf	*[7]	
+2-11	104-107	dem	*[7]	
+2-12	108-118	Paulsacker	*[7]	
+2-13	119-122	ist	_	
+2-14	123-126	man	_	
+2-15	127-130	als	_	
+2-16	131-140	Fußgänger	_	
+2-17	140-141	,	_	
+2-18	142-148	Läufer	_	
+2-19	148-149	,	_	
+2-20	150-156	Walker	_	
+2-21	156-157	,	_	
+2-22	158-167	Radfahrer	_	
+2-23	168-171	auf	_	
+2-24	172-177	einem	_	
+2-25	178-184	kurzen	_	
+2-26	185-194	Teilstück	_	
+2-27	195-198	von	_	
+2-28	199-201	ca	_	
+2-29	201-202	.	_	
+2-30	203-206	500	_	
+2-31	207-208	m	_	
+2-32	209-216	absolut	_	
+2-33	217-220	dem	_	
+2-34	221-228	Verkehr	_	
+2-35	229-239	ausgesetzt	_	
+2-36	239-240	.	_	
+
+#Text=Erst danach kommt ein getrennter Radweg.
+3-1	241-245	Erst	_	
+3-2	246-252	danach	_	
+3-3	253-258	kommt	_	
+3-4	259-262	ein	_	
+3-5	263-273	getrennter	_	
+3-6	274-280	Radweg	_	
+3-7	280-281	.	_	
+
+#Text=Durch die kurvige und unbeleuchtete Straße ist die Straßenführung für Autofahrer bei einer Geschwindigkeit von über 30 kmh uneinsehbar.
+4-1	282-287	Durch	_	
+4-2	288-291	die	_	
+4-3	292-299	kurvige	_	
+4-4	300-303	und	_	
+4-5	304-317	unbeleuchtete	_	
+4-6	318-324	Straße	_	
+4-7	325-328	ist	_	
+4-8	329-332	die	_	
+4-9	333-347	Straßenführung	_	
+4-10	348-351	für	_	
+4-11	352-362	Autofahrer	_	
+4-12	363-366	bei	_	
+4-13	367-372	einer	_	
+4-14	373-388	Geschwindigkeit	_	
+4-15	389-392	von	_	
+4-16	393-397	über	_	
+4-17	398-400	30	_	
+4-18	401-404	kmh	_	
+4-19	405-416	uneinsehbar	_	
+4-20	416-417	.	_	
+
+#Text=Vielleicht helfen ein paar Blitzer oder noch besser ein Radweg.
+5-1	418-428	Vielleicht	_	
+5-2	429-435	helfen	_	
+5-3	436-439	ein	_	
+5-4	440-444	paar	_	
+5-5	445-452	Blitzer	_	
+5-6	453-457	oder	_	
+5-7	458-462	noch	_	
+5-8	463-469	besser	_	
+5-9	470-473	ein	_	
+5-10	474-480	Radweg	_	
+5-11	480-481	.	_	

@@ -1,0 +1,80 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bodenschwellen
+1-1	0-14	Bodenschwellen	_	
+
+#Text=Die auf dieser Straße befindlichen Bodenschwellen sind besonders im Dunkeln, schlecht sichtbar und bilden für Radfahrer ein hohes Hinderniss mit Sturzpotential.
+2-1	17-20	Die	_	
+2-2	21-24	auf	_	
+2-3	25-31	dieser	_	
+2-4	32-38	Straße	_	
+2-5	39-51	befindlichen	_	
+2-6	52-66	Bodenschwellen	_	
+2-7	67-71	sind	_	
+2-8	72-81	besonders	_	
+2-9	82-84	im	_	
+2-10	85-92	Dunkeln	_	
+2-11	92-93	,	_	
+2-12	94-102	schlecht	_	
+2-13	103-111	sichtbar	_	
+2-14	112-115	und	_	
+2-15	116-122	bilden	_	
+2-16	123-126	für	_	
+2-17	127-136	Radfahrer	_	
+2-18	137-140	ein	_	
+2-19	141-146	hohes	_	
+2-20	147-157	Hinderniss	_	
+2-21	158-161	mit	_	
+2-22	162-176	Sturzpotential	_	
+2-23	176-177	.	_	
+
+#Text=Ein seitlichen Umfahren wird durch parkende Autos oft unmöglich.
+3-1	178-181	Ein	_	
+3-2	182-192	seitlichen	_	
+3-3	193-201	Umfahren	_	
+3-4	202-206	wird	_	
+3-5	207-212	durch	_	
+3-6	213-221	parkende	_	
+3-7	222-227	Autos	_	
+3-8	228-231	oft	_	
+3-9	232-241	unmöglich	_	
+3-10	241-242	.	_	
+
+#Text=Lösungsvorschlag: Absolutes Parkverbot seitlich der Bodenschwellen.
+4-1	243-259	Lösungsvorschlag	_	
+4-2	259-260	:	_	
+4-3	261-270	Absolutes	_	
+4-4	271-281	Parkverbot	_	
+4-5	282-290	seitlich	_	
+4-6	291-294	der	_	
+4-7	295-309	Bodenschwellen	_	
+4-8	309-310	.	_	
+
+#Text=Durchlässig machen für Zweiräder und eine besseren Markierung.
+5-1	311-322	Durchlässig	_	
+5-2	323-329	machen	_	
+5-3	330-333	für	_	
+5-4	334-343	Zweiräder	_	
+5-5	344-347	und	_	
+5-6	348-352	eine	_	
+5-7	353-361	besseren	_	
+5-8	362-372	Markierung	_	
+5-9	372-373	.	_	
+
+#Text=Alternativ Abriss, da es sich ja um eine Fahrradstraße handelt.
+6-1	374-384	Alternativ	_	
+6-2	385-391	Abriss	_	
+6-3	391-392	,	_	
+6-4	393-395	da	_	
+6-5	396-398	es	_	
+6-6	399-403	sich	_	
+6-7	404-406	ja	_	
+6-8	407-409	um	_	
+6-9	410-414	eine	_	
+6-10	415-428	Fahrradstraße	_	
+6-11	429-436	handelt	_	
+6-12	436-437	.	_	

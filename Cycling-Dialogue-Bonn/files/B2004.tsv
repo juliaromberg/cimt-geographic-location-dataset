@@ -1,0 +1,104 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährlicher Kreisverkehr
+1-1	0-12	Gefährlicher	_	
+1-2	13-25	Kreisverkehr	_	
+
+#Text=Die Radführung ist hier lebensgefährlich.
+2-1	28-31	Die	_	
+2-2	32-42	Radführung	_	
+2-3	43-46	ist	_	
+2-4	47-51	hier	_	
+2-5	52-68	lebensgefährlich	_	
+2-6	68-69	.	_	
+
+#Text=Von Ost nach West soll ein Radfahrer von der Rabinstrasse kommend gegen den Verkehrsfluss die Autospuren mehrmals kreuzen um auf die Thomastraße zu kommen.
+3-1	70-73	Von	_	
+3-2	74-77	Ost	_	
+3-3	78-82	nach	_	
+3-4	83-87	West	_	
+3-5	88-92	soll	_	
+3-6	93-96	ein	_	
+3-7	97-106	Radfahrer	_	
+3-8	107-110	von	*[7]	
+3-9	111-114	der	*[7]	
+3-10	115-127	Rabinstrasse	*[7]	
+3-11	128-135	kommend	*[7]	
+3-12	136-141	gegen	_	
+3-13	142-145	den	_	
+3-14	146-159	Verkehrsfluss	_	
+3-15	160-163	die	_	
+3-16	164-174	Autospuren	_	
+3-17	175-183	mehrmals	_	
+3-18	184-191	kreuzen	_	
+3-19	192-194	um	*[8]	
+3-20	195-198	auf	*[8]	
+3-21	199-202	die	*[8]	
+3-22	203-214	Thomastraße	*[8]	
+3-23	215-217	zu	*[8]	
+3-24	218-224	kommen	*[8]	
+3-25	224-225	.	_	
+
+#Text=Ein Auto hat also die Chance, den Radfahrer gleich mehrmals zu überfahren.
+4-1	226-229	Ein	_	
+4-2	230-234	Auto	_	
+4-3	235-238	hat	_	
+4-4	239-243	also	_	
+4-5	244-247	die	_	
+4-6	248-254	Chance	_	
+4-7	254-255	,	_	
+4-8	256-259	den	_	
+4-9	260-269	Radfahrer	_	
+4-10	270-276	gleich	_	
+4-11	277-285	mehrmals	_	
+4-12	286-288	zu	_	
+4-13	289-299	überfahren	_	
+4-14	299-300	.	_	
+
+#Text=Hier wird es garantiert zu schweren Unfällen kommen, da die Autofahrer die Radfahrer schlichtweg übersehen.
+5-1	301-305	Hier	_	
+5-2	306-310	wird	_	
+5-3	311-313	es	_	
+5-4	314-324	garantiert	_	
+5-5	325-327	zu	_	
+5-6	328-336	schweren	_	
+5-7	337-345	Unfällen	_	
+5-8	346-352	kommen	_	
+5-9	352-353	,	_	
+5-10	354-356	da	_	
+5-11	357-360	die	_	
+5-12	361-371	Autofahrer	_	
+5-13	372-375	die	_	
+5-14	376-385	Radfahrer	_	
+5-15	386-397	schlichtweg	_	
+5-16	398-407	übersehen	_	
+5-17	407-408	.	_	
+
+#Text=Warum gibt es keine Radspur im Uhrzeigersinn über die Oxfordstrasse auf die Thomastraße, also mit dem Verkehrsfluss um den Kreisverkehr herum?
+6-1	409-414	Warum	_	
+6-2	415-419	gibt	_	
+6-3	420-422	es	_	
+6-4	423-428	keine	_	
+6-5	429-436	Radspur	_	
+6-6	437-439	im	_	
+6-7	440-453	Uhrzeigersinn	_	
+6-8	454-458	über	*[9]	
+6-9	459-462	die	*[9]	
+6-10	463-476	Oxfordstrasse	*[9]	
+6-11	477-480	auf	*[9]	
+6-12	481-484	die	*[9]	
+6-13	485-496	Thomastraße	*[9]	
+6-14	496-497	,	_	
+6-15	498-502	also	_	
+6-16	503-506	mit	_	
+6-17	507-510	dem	_	
+6-18	511-524	Verkehrsfluss	_	
+6-19	525-527	um	_	
+6-20	528-531	den	_	
+6-21	532-544	Kreisverkehr	_	
+6-22	545-550	herum	_	
+6-23	550-551	?	_	

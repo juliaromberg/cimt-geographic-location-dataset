@@ -1,0 +1,16 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schmaler Radweg
+1-1	0-8	Schmaler	_	
+1-2	9-15	Radweg	_	
+
+#Text=Der Radweg ist zu schmal
+2-1	18-21	Der	_	
+2-2	22-28	Radweg	_	
+2-3	29-32	ist	_	
+2-4	33-35	zu	_	
+2-5	36-42	schmal	_	

@@ -1,0 +1,80 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Überquerung der Kreuzung parallel mit KFZ-Verkehr
+1-1	0-11	Überquerung	_	
+1-2	12-15	der	_	
+1-3	16-24	Kreuzung	_	
+1-4	25-33	parallel	_	
+1-5	34-37	mit	_	
+1-6	38-49	KFZ-Verkehr	_	
+
+#Text=Die Führung des Radverkehrs an dieser Stelle von Ost nach West ist gefährlich, da dieser rechts neben der Rechtsabbiegerspur geführt wird, dann in die Kurve, so dass der abbiegende KFZ-Verkehr aus dem Blickfeld verschwindet und anschließend in einem 90° Winkel auf die Straße.
+2-1	52-55	Die	_	
+2-2	56-63	Führung	_	
+2-3	64-67	des	_	
+2-4	68-79	Radverkehrs	_	
+2-5	80-82	an	_	
+2-6	83-89	dieser	_	
+2-7	90-96	Stelle	_	
+2-8	97-100	von	_	
+2-9	101-104	Ost	_	
+2-10	105-109	nach	_	
+2-11	110-114	West	_	
+2-12	115-118	ist	_	
+2-13	119-129	gefährlich	_	
+2-14	129-130	,	_	
+2-15	131-133	da	_	
+2-16	134-140	dieser	_	
+2-17	141-147	rechts	_	
+2-18	148-153	neben	_	
+2-19	154-157	der	_	
+2-20	158-176	Rechtsabbiegerspur	_	
+2-21	177-184	geführt	_	
+2-22	185-189	wird	_	
+2-23	189-190	,	_	
+2-24	191-195	dann	_	
+2-25	196-198	in	_	
+2-26	199-202	die	_	
+2-27	203-208	Kurve	_	
+2-28	208-209	,	_	
+2-29	210-212	so	_	
+2-30	213-217	dass	_	
+2-31	218-221	der	_	
+2-32	222-232	abbiegende	_	
+2-33	233-244	KFZ-Verkehr	_	
+2-34	245-248	aus	_	
+2-35	249-252	dem	_	
+2-36	253-262	Blickfeld	_	
+2-37	263-275	verschwindet	_	
+2-38	276-279	und	_	
+2-39	280-292	anschließend	_	
+2-40	293-295	in	_	
+2-41	296-301	einem	_	
+2-42	302-304	90	_	
+2-43	304-305	°	_	
+2-44	306-312	Winkel	_	
+2-45	313-316	auf	_	
+2-46	317-320	die	_	
+2-47	321-327	Straße	_	
+2-48	327-328	.	_	
+
+#Text=Eine Führung mit Schutzstreifen ab Beginn der Abbiegespur auf der Straße wäre hier sicherer.
+3-1	329-333	Eine	_	
+3-2	334-341	Führung	_	
+3-3	342-345	mit	_	
+3-4	346-360	Schutzstreifen	_	
+3-5	361-363	ab	_	
+3-6	364-370	Beginn	_	
+3-7	371-374	der	_	
+3-8	375-386	Abbiegespur	_	
+3-9	387-390	auf	_	
+3-10	391-394	der	_	
+3-11	395-401	Straße	_	
+3-12	402-406	wäre	_	
+3-13	407-411	hier	_	
+3-14	412-420	sicherer	_	
+3-15	420-421	.	_	

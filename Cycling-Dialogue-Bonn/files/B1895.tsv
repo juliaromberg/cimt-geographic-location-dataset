@@ -1,0 +1,135 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radschnellweg Richtung Siegburg
+1-1	0-13	Radschnellweg	_	
+1-2	14-22	Richtung	*[7]	
+1-3	23-31	Siegburg	*[7]	
+
+#Text=Die Radstrecke entlang der Straßenbahn Richtung Siegburg ist mit etwa 12 km die kürzeste Verbindung zwischen Bonn, Vilich, Hangelar, Sankt Augustin und Siegburg.
+2-1	34-37	Die	_	
+2-2	38-48	Radstrecke	_	
+2-3	49-56	entlang	*[8]	
+2-4	57-60	der	*[8]	
+2-5	61-72	Straßenbahn	*[8]	
+2-6	73-81	Richtung	*[8]	
+2-7	82-90	Siegburg	*[8]	
+2-8	91-94	ist	_	
+2-9	95-98	mit	_	
+2-10	99-103	etwa	_	
+2-11	104-106	12	_	
+2-12	107-109	km	_	
+2-13	110-113	die	_	
+2-14	114-122	kürzeste	_	
+2-15	123-133	Verbindung	_	
+2-16	134-142	zwischen	_	
+2-17	143-147	Bonn	*[9]	
+2-18	147-148	,	*[9]	
+2-19	149-155	Vilich	*[9]	
+2-20	155-156	,	*[9]	
+2-21	157-165	Hangelar	*[9]	
+2-22	165-166	,	*[9]	
+2-23	167-172	Sankt	*[9]	
+2-24	173-181	Augustin	*[9]	
+2-25	182-185	und	*[9]	
+2-26	186-194	Siegburg	*[9]	
+2-27	194-195	.	*[9]	
+
+#Text=Wenn sie sich flüssig fahren ließe, wäre die Distanz für Radpendler problemlos zu schaffen.
+3-1	196-200	Wenn	_	
+3-2	201-204	sie	_	
+3-3	205-209	sich	_	
+3-4	210-217	flüssig	_	
+3-5	218-224	fahren	_	
+3-6	225-230	ließe	_	
+3-7	230-231	,	_	
+3-8	232-236	wäre	_	
+3-9	237-240	die	_	
+3-10	241-248	Distanz	_	
+3-11	249-252	für	_	
+3-12	253-263	Radpendler	_	
+3-13	264-274	problemlos	_	
+3-14	275-277	zu	_	
+3-15	278-286	schaffen	_	
+3-16	286-287	.	_	
+
+#Text=Die aktuelle Strecke ist allerdings eine Zickzackführung entlang des Bahndamms mit vielen Abbiegungen und Kreuzungen.
+4-1	288-291	Die	_	
+4-2	292-300	aktuelle	_	
+4-3	301-308	Strecke	_	
+4-4	309-312	ist	_	
+4-5	313-323	allerdings	_	
+4-6	324-328	eine	_	
+4-7	329-344	Zickzackführung	_	
+4-8	345-352	entlang	_	
+4-9	353-356	des	_	
+4-10	357-366	Bahndamms	_	
+4-11	367-370	mit	_	
+4-12	371-377	vielen	_	
+4-13	378-389	Abbiegungen	_	
+4-14	390-393	und	_	
+4-15	394-404	Kreuzungen	_	
+4-16	404-405	.	_	
+
+#Text=Dadurch ist häufiges Bremsen und Beschleunigen notwendig, wodurch das Radfahren deutlich anstrengender wird und die Fahrtdauer verlängert wird.
+5-1	406-413	Dadurch	_	
+5-2	414-417	ist	_	
+5-3	418-426	häufiges	_	
+5-4	427-434	Bremsen	_	
+5-5	435-438	und	_	
+5-6	439-452	Beschleunigen	_	
+5-7	453-462	notwendig	_	
+5-8	462-463	,	_	
+5-9	464-471	wodurch	_	
+5-10	472-475	das	_	
+5-11	476-485	Radfahren	_	
+5-12	486-494	deutlich	_	
+5-13	495-508	anstrengender	_	
+5-14	509-513	wird	_	
+5-15	514-517	und	_	
+5-16	518-521	die	_	
+5-17	522-532	Fahrtdauer	_	
+5-18	533-543	verlängert	_	
+5-19	544-548	wird	_	
+5-20	548-549	.	_	
+
+#Text=Im Sinne einer Reduzierung des Autoverkehrs in Bonn sollte sich die Stadt für einen Radschnellweg entlang der Achse Bonn-Siegburg einsetzen, sodass Pendler aus den Orten entlang dieser Strecke eine attraktive Alternative zum Auto hätten.
+6-1	550-552	Im	_	
+6-2	553-558	Sinne	_	
+6-3	559-564	einer	_	
+6-4	565-576	Reduzierung	_	
+6-5	577-580	des	_	
+6-6	581-593	Autoverkehrs	_	
+6-7	594-596	in	*[10]	
+6-8	597-601	Bonn	*[10]	
+6-9	602-608	sollte	_	
+6-10	609-613	sich	_	
+6-11	614-617	die	_	
+6-12	618-623	Stadt	_	
+6-13	624-627	für	_	
+6-14	628-633	einen	_	
+6-15	634-647	Radschnellweg	_	
+6-16	648-655	entlang	_	
+6-17	656-659	der	_	
+6-18	660-665	Achse	*[11]	
+6-19	666-679	Bonn-Siegburg	*[11]	
+6-20	680-689	einsetzen	_	
+6-21	689-690	,	_	
+6-22	691-697	sodass	_	
+6-23	698-705	Pendler	_	
+6-24	706-709	aus	_	
+6-25	710-713	den	_	
+6-26	714-719	Orten	_	
+6-27	720-727	entlang	_	
+6-28	728-734	dieser	_	
+6-29	735-742	Strecke	_	
+6-30	743-747	eine	_	
+6-31	748-758	attraktive	_	
+6-32	759-770	Alternative	_	
+6-33	771-774	zum	_	
+6-34	775-779	Auto	_	
+6-35	780-786	hätten	_	
+6-36	786-787	.	_	

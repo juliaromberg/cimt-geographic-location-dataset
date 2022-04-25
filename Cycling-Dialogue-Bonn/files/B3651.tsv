@@ -1,0 +1,96 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelschaltung Kölnstraße stadteinwärts
+1-1	0-14	Ampelschaltung	_	
+1-2	15-25	Kölnstraße	*[6]	
+1-3	26-39	stadteinwärts	*[6]	
+
+#Text=Für die Autofahrer, die die Kölnstraße geradeaus stadteinwärts fahren, scheint es zwei Ampelphasen zu geben.
+2-1	42-45	Für	_	
+2-2	46-49	die	_	
+2-3	50-60	Autofahrer	_	
+2-4	60-61	,	_	
+2-5	62-65	die	_	
+2-6	66-69	die	*[7]	
+2-7	70-80	Kölnstraße	*[7]	
+2-8	81-90	geradeaus	*[7]	
+2-9	91-104	stadteinwärts	*[7]	
+2-10	105-111	fahren	_	
+2-11	111-112	,	_	
+2-12	113-120	scheint	_	
+2-13	121-123	es	_	
+2-14	124-128	zwei	_	
+2-15	129-140	Ampelphasen	_	
+2-16	141-143	zu	_	
+2-17	144-149	geben	_	
+2-18	149-150	.	_	
+
+#Text=Eine längere, bei der auch Fußgänger und Radfahrer grün haben, und eine kürzere, wo ausschließlich die Autos fahren dürfen.
+3-1	151-155	Eine	_	
+3-2	156-163	längere	_	
+3-3	163-164	,	_	
+3-4	165-168	bei	_	
+3-5	169-172	der	_	
+3-6	173-177	auch	_	
+3-7	178-187	Fußgänger	_	
+3-8	188-191	und	_	
+3-9	192-201	Radfahrer	_	
+3-10	202-206	grün	_	
+3-11	207-212	haben	_	
+3-12	212-213	,	_	
+3-13	214-217	und	_	
+3-14	218-222	eine	_	
+3-15	223-230	kürzere	_	
+3-16	230-231	,	_	
+3-17	232-234	wo	_	
+3-18	235-249	ausschließlich	_	
+3-19	250-253	die	_	
+3-20	254-259	Autos	_	
+3-21	260-266	fahren	_	
+3-22	267-273	dürfen	_	
+3-23	273-274	.	_	
+
+#Text=Das sind die Momente, die einem Radfahrer sehr viel Selbstbeherrschung abverlangen, um nicht bei Rot über die Ampel zu fahren...
+4-1	275-278	Das	_	
+4-2	279-283	sind	_	
+4-3	284-287	die	_	
+4-4	288-295	Momente	_	
+4-5	295-296	,	_	
+4-6	297-300	die	_	
+4-7	301-306	einem	_	
+4-8	307-316	Radfahrer	_	
+4-9	317-321	sehr	_	
+4-10	322-326	viel	_	
+4-11	327-345	Selbstbeherrschung	_	
+4-12	346-357	abverlangen	_	
+4-13	357-358	,	_	
+4-14	359-361	um	_	
+4-15	362-367	nicht	_	
+4-16	368-371	bei	_	
+4-17	372-375	Rot	_	
+4-18	376-380	über	_	
+4-19	381-384	die	_	
+4-20	385-390	Ampel	_	
+4-21	391-393	zu	_	
+4-22	394-400	fahren	_	
+4-23	400-401	.	_	
+4-24	401-402	.	_	
+4-25	402-403	.	_	
+
+#Text=Es wäre wünschenswert, wenn Radfahrer hier beide Ampelphasen nützen könnten.
+5-1	404-406	Es	_	
+5-2	407-411	wäre	_	
+5-3	412-425	wünschenswert	_	
+5-4	425-426	,	_	
+5-5	427-431	wenn	_	
+5-6	432-441	Radfahrer	_	
+5-7	442-446	hier	_	
+5-8	447-452	beide	_	
+5-9	453-464	Ampelphasen	_	
+5-10	465-471	nützen	_	
+5-11	472-479	könnten	_	
+5-12	479-480	.	_	

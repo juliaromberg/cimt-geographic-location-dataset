@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Weg über das Messdorfer Feld ein einziges Schlagloch
+1-1	0-3	Weg	*[4]	
+1-2	4-8	über	*[4]	
+1-3	9-12	das	*[4]	
+1-4	13-23	Messdorfer	*[4]	
+1-5	24-28	Feld	*[4]	
+1-6	29-32	ein	_	
+1-7	33-41	einziges	_	
+1-8	42-52	Schlagloch	_	
+
+#Text=Der Weg über das Feld beginnend von der Kreuzung nach Duisdorf ist durchsetzt mit Schlaglöchern.
+2-1	55-58	Der	*[5]	
+2-2	59-62	Weg	*[5]	
+2-3	63-67	über	*[5]	
+2-4	68-71	das	*[5]	
+2-5	72-76	Feld	*[5]	
+2-6	77-86	beginnend	*[5]	
+2-7	87-90	von	*[5]	
+2-8	91-94	der	*[5]	
+2-9	95-103	Kreuzung	*[5]	
+2-10	104-108	nach	*[5]	
+2-11	109-117	Duisdorf	*[5]	
+2-12	118-121	ist	_	
+2-13	122-132	durchsetzt	_	
+2-14	133-136	mit	_	
+2-15	137-150	Schlaglöchern	_	
+2-16	150-151	.	_	
+
+#Text=Dieser Weg ist vollständig zu erneuern.
+3-1	152-158	Dieser	_	
+3-2	159-162	Weg	_	
+3-3	163-166	ist	_	
+3-4	167-178	vollständig	_	
+3-5	179-181	zu	_	
+3-6	182-190	erneuern	_	
+3-7	190-191	.	_	

@@ -1,0 +1,79 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Weiterführung Radweg
+1-1	0-13	Weiterführung	_	
+1-2	14-20	Radweg	_	
+
+#Text=Für Fahrradfahrer, die den beidseitig nutzbaren Radweg auf der Kaiserstraße Richtung Innenstadt nutzen, endet am Hotel Günnewig plötzlich der Radweg.
+2-1	23-26	Für	_	
+2-2	27-40	Fahrradfahrer	_	
+2-3	40-41	,	_	
+2-4	42-45	die	_	
+2-5	46-49	den	_	
+2-6	50-60	beidseitig	_	
+2-7	61-70	nutzbaren	_	
+2-8	71-77	Radweg	_	
+2-9	78-81	auf	*[6]	
+2-10	82-85	der	*[6]	
+2-11	86-98	Kaiserstraße	*[6]	
+2-12	99-107	Richtung	*[6]	
+2-13	108-118	Innenstadt	*[6]	
+2-14	119-125	nutzen	_	
+2-15	125-126	,	_	
+2-16	127-132	endet	_	
+2-17	133-135	am	_	
+2-18	136-141	Hotel	_	
+2-19	142-150	Günnewig	_	
+2-20	151-160	plötzlich	_	
+2-21	161-164	der	_	
+2-22	165-171	Radweg	_	
+2-23	171-172	.	_	
+
+#Text=So richtig ersichtlich ist nicht, wie und wo man nun die Straße überqueren soll.
+3-1	173-175	So	_	
+3-2	176-183	richtig	_	
+3-3	184-195	ersichtlich	_	
+3-4	196-199	ist	_	
+3-5	200-205	nicht	_	
+3-6	205-206	,	_	
+3-7	207-210	wie	_	
+3-8	211-214	und	_	
+3-9	215-217	wo	_	
+3-10	218-221	man	_	
+3-11	222-225	nun	_	
+3-12	226-229	die	_	
+3-13	230-236	Straße	_	
+3-14	237-247	überqueren	_	
+3-15	248-252	soll	_	
+3-16	252-253	.	_	
+
+#Text=Gerade hier ist ein nicht unerheblicher Kfz-Verkehr inkl. Bussen, Taxis, usw.
+4-1	254-260	Gerade	_	
+4-2	261-265	hier	_	
+4-3	266-269	ist	_	
+4-4	270-273	ein	_	
+4-5	274-279	nicht	_	
+4-6	280-293	unerheblicher	_	
+4-7	294-305	Kfz-Verkehr	_	
+4-8	306-310	inkl	_	
+4-9	310-311	.	_	
+4-10	312-318	Bussen	_	
+4-11	318-319	,	_	
+4-12	320-325	Taxis	_	
+4-13	325-326	,	_	
+4-14	327-330	usw	_	
+4-15	330-331	.	_	
+
+#Text=Die Situation ist sehr unübersichtlich und gefährlich.
+5-1	332-335	Die	_	
+5-2	336-345	Situation	_	
+5-3	346-349	ist	_	
+5-4	350-354	sehr	_	
+5-5	355-370	unübersichtlich	_	
+5-6	371-374	und	_	
+5-7	375-385	gefährlich	_	
+5-8	385-386	.	_	

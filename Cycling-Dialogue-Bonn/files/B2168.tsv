@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schmal, schadhafter, unebener Belag, gefährliche Übergänge
+1-1	0-6	Schmal	_	
+1-2	6-7	,	_	
+1-3	8-19	schadhafter	_	
+1-4	19-20	,	_	
+1-5	21-29	unebener	_	
+1-6	30-35	Belag	_	
+1-7	35-36	,	_	
+1-8	37-48	gefährliche	_	
+1-9	49-58	Übergänge	_	
+
+#Text=Die Radwege sind so schmal und in einem derart schlechten Zustand, dass häufig auf den Gehweg ausgewichen wird und alle beteiligten mindestens Probleme mit dem Rechtsfahrgebot bekommen.
+2-1	61-64	Die	_	
+2-2	65-72	Radwege	_	
+2-3	73-77	sind	_	
+2-4	78-80	so	_	
+2-5	81-87	schmal	_	
+2-6	88-91	und	_	
+2-7	92-94	in	_	
+2-8	95-100	einem	_	
+2-9	101-107	derart	_	
+2-10	108-118	schlechten	_	
+2-11	119-126	Zustand	_	
+2-12	126-127	,	_	
+2-13	128-132	dass	_	
+2-14	133-139	häufig	_	
+2-15	140-143	auf	_	
+2-16	144-147	den	_	
+2-17	148-154	Gehweg	_	
+2-18	155-166	ausgewichen	_	
+2-19	167-171	wird	_	
+2-20	172-175	und	_	
+2-21	176-180	alle	_	
+2-22	181-192	beteiligten	_	
+2-23	193-203	mindestens	_	
+2-24	204-212	Probleme	_	
+2-25	213-216	mit	_	
+2-26	217-220	dem	_	
+2-27	221-236	Rechtsfahrgebot	_	
+2-28	237-245	bekommen	_	
+2-29	245-246	.	_	
+
+#Text=Regelkonform und sicher überholen ist kaum möglich.
+3-1	247-259	Regelkonform	_	
+3-2	260-263	und	_	
+3-3	264-270	sicher	_	
+3-4	271-280	überholen	_	
+3-5	281-284	ist	_	
+3-6	285-289	kaum	_	
+3-7	290-297	möglich	_	
+3-8	297-298	.	_	
+
+#Text=Die Übergänge am Rand des Weges sind insbesondere für schnellere / Rennräder gefährlich.
+4-1	299-302	Die	_	
+4-2	303-312	Übergänge	_	
+4-3	313-315	am	_	
+4-4	316-320	Rand	_	
+4-5	321-324	des	_	
+4-6	325-330	Weges	_	
+4-7	331-335	sind	_	
+4-8	336-348	insbesondere	_	
+4-9	349-352	für	_	
+4-10	353-363	schnellere	_	
+4-11	364-365	/	_	
+4-12	366-375	Rennräder	_	
+4-13	376-386	gefährlich	_	
+4-14	386-387	.	_	

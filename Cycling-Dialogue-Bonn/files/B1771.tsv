@@ -1,0 +1,275 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=An Straßenkreuzung Bonner Talweg/Reuterstrasse wurden Fahrradfahrer nicht mitgedacht
+1-1	0-2	An	_	
+1-2	3-18	Straßenkreuzung	*[14]	
+1-3	19-25	Bonner	*[14]	
+1-4	26-32	Talweg	*[14]	
+1-5	32-33	/	*[14]	
+1-6	33-46	Reuterstrasse	*[14]	
+1-7	47-53	wurden	_	
+1-8	54-67	Fahrradfahrer	_	
+1-9	68-73	nicht	_	
+1-10	74-84	mitgedacht	_	
+
+#Text=Die Straßenkreuzung Bonner Talweg/Reuterstraße ist für Fahrradfahrer äußerst gefährlich und schwer zu befahren; dabei ist die Anzahl der Radfahrer, welche die Reuterstraße an dieser Stelle überqueren wollen beachtlich.
+2-1	87-90	Die	*[15]	
+2-2	91-106	Straßenkreuzung	*[15]	
+2-3	107-113	Bonner	*[15]	
+2-4	114-120	Talweg	*[15]	
+2-5	120-121	/	*[15]	
+2-6	121-133	Reuterstraße	*[15]	
+2-7	134-137	ist	_	
+2-8	138-141	für	_	
+2-9	142-155	Fahrradfahrer	_	
+2-10	156-163	äußerst	_	
+2-11	164-174	gefährlich	_	
+2-12	175-178	und	_	
+2-13	179-185	schwer	_	
+2-14	186-188	zu	_	
+2-15	189-197	befahren	_	
+2-16	197-198	;	_	
+2-17	199-204	dabei	_	
+2-18	205-208	ist	_	
+2-19	209-212	die	_	
+2-20	213-219	Anzahl	_	
+2-21	220-223	der	_	
+2-22	224-233	Radfahrer	_	
+2-23	233-234	,	_	
+2-24	235-241	welche	_	
+2-25	242-245	die	*[16]	
+2-26	246-258	Reuterstraße	*[16]	
+2-27	259-261	an	*[16]	
+2-28	262-268	dieser	*[16]	
+2-29	269-275	Stelle	*[16]	
+2-30	276-286	überqueren	*[16]	
+2-31	287-293	wollen	_	
+2-32	294-304	beachtlich	_	
+2-33	304-305	.	_	
+
+#Text=Aus der Innenstadt kommend endet der Fahrradschutzstreifen kurz hinter der Straßenbahnhaltestelle Rittershausstraße.
+3-1	306-309	Aus	*[17]	
+3-2	310-313	der	*[17]	
+3-3	314-324	Innenstadt	*[17]	
+3-4	325-332	kommend	*[17]	
+3-5	333-338	endet	_	
+3-6	339-342	der	_	
+3-7	343-364	Fahrradschutzstreifen	_	
+3-8	365-369	kurz	*[18]	
+3-9	370-376	hinter	*[18]	
+3-10	377-380	der	*[18]	
+3-11	381-403	Straßenbahnhaltestelle	*[18]	
+3-12	404-421	Rittershausstraße	*[18]	
+3-13	421-422	.	_	
+
+#Text=Oftmals gerät man aber genau hier in Gefahr, da die Audtofahrer noch einmal 'Gas geben' um gerade eben noch über die grüne Ampel zu kommen.
+4-1	423-430	Oftmals	_	
+4-2	431-436	gerät	_	
+4-3	437-440	man	_	
+4-4	441-445	aber	_	
+4-5	446-451	genau	_	
+4-6	452-456	hier	_	
+4-7	457-459	in	_	
+4-8	460-466	Gefahr	_	
+4-9	466-467	,	_	
+4-10	468-470	da	_	
+4-11	471-474	die	_	
+4-12	475-486	Audtofahrer	_	
+4-13	487-491	noch	_	
+4-14	492-498	einmal	_	
+4-15	499-500	'	_	
+4-16	500-503	Gas	_	
+4-17	504-509	geben	_	
+4-18	509-510	'	_	
+4-19	511-513	um	_	
+4-20	514-520	gerade	_	
+4-21	521-525	eben	_	
+4-22	526-530	noch	_	
+4-23	531-535	über	_	
+4-24	536-539	die	_	
+4-25	540-545	grüne	_	
+4-26	546-551	Ampel	_	
+4-27	552-554	zu	_	
+4-28	555-561	kommen	_	
+4-29	561-562	.	_	
+
+#Text=Ein hoher Bordstein nach rechts macht das Ausweichen für den Radfahrer unmöglich.
+5-1	563-566	Ein	_	
+5-2	567-572	hoher	_	
+5-3	573-582	Bordstein	_	
+5-4	583-587	nach	_	
+5-5	588-594	rechts	_	
+5-6	595-600	macht	_	
+5-7	601-604	das	_	
+5-8	605-615	Ausweichen	_	
+5-9	616-619	für	_	
+5-10	620-623	den	_	
+5-11	624-633	Radfahrer	_	
+5-12	634-643	unmöglich	_	
+5-13	643-644	.	_	
+
+#Text=Ich beobachte ständig Radfahrer, die deshalb ab der Straßenbahnhaltestelle auf den Gehweg ausweichen, um dann gemeinsam mit den Fußgängern die Reuterstraße zu kreuzen.
+6-1	645-648	Ich	_	
+6-2	649-658	beobachte	_	
+6-3	659-666	ständig	_	
+6-4	667-676	Radfahrer	_	
+6-5	676-677	,	_	
+6-6	678-681	die	_	
+6-7	682-689	deshalb	_	
+6-8	690-692	ab	_	
+6-9	693-696	der	_	
+6-10	697-719	Straßenbahnhaltestelle	_	
+6-11	720-723	auf	_	
+6-12	724-727	den	_	
+6-13	728-734	Gehweg	_	
+6-14	735-745	ausweichen	_	
+6-15	745-746	,	_	
+6-16	747-749	um	_	
+6-17	750-754	dann	_	
+6-18	755-764	gemeinsam	_	
+6-19	765-768	mit	_	
+6-20	769-772	den	_	
+6-21	773-783	Fußgängern	_	
+6-22	784-787	die	*[19]	
+6-23	788-800	Reuterstraße	*[19]	
+6-24	801-803	zu	_	
+6-25	804-811	kreuzen	_	
+6-26	811-812	.	_	
+
+#Text=Leider kommt es dabei viel zu oft zu Zusammenstößen und Belästigung der Füßgängern.
+7-1	813-819	Leider	_	
+7-2	820-825	kommt	_	
+7-3	826-828	es	_	
+7-4	829-834	dabei	_	
+7-5	835-839	viel	_	
+7-6	840-842	zu	_	
+7-7	843-846	oft	_	
+7-8	847-849	zu	_	
+7-9	850-864	Zusammenstößen	_	
+7-10	865-868	und	_	
+7-11	869-880	Belästigung	_	
+7-12	881-884	der	_	
+7-13	885-895	Füßgängern	_	
+7-14	895-896	.	_	
+
+#Text=Eine sehr ähnliche Situation ergibt sich in der entgegengesetzten Richtung: auch hier fahren oft Radfahrer von Kessenich kommend auf den linken Bürgersteig, um dann über die Fußgängerampel zu fahren.
+8-1	897-901	Eine	_	
+8-2	902-906	sehr	_	
+8-3	907-915	ähnliche	_	
+8-4	916-925	Situation	_	
+8-5	926-932	ergibt	_	
+8-6	933-937	sich	_	
+8-7	938-940	in	_	
+8-8	941-944	der	_	
+8-9	945-962	entgegengesetzten	_	
+8-10	963-971	Richtung	_	
+8-11	971-972	:	_	
+8-12	973-977	auch	_	
+8-13	978-982	hier	_	
+8-14	983-989	fahren	_	
+8-15	990-993	oft	_	
+8-16	994-1003	Radfahrer	_	
+8-17	1004-1007	von	*[20]	
+8-18	1008-1017	Kessenich	*[20]	
+8-19	1018-1025	kommend	*[20]	
+8-20	1026-1029	auf	*[20]	
+8-21	1030-1033	den	*[20]	
+8-22	1034-1040	linken	*[20]	
+8-23	1041-1052	Bürgersteig	*[20]	
+8-24	1052-1053	,	_	
+8-25	1054-1056	um	_	
+8-26	1057-1061	dann	_	
+8-27	1062-1066	über	_	
+8-28	1067-1070	die	_	
+8-29	1071-1085	Fußgängerampel	_	
+8-30	1086-1088	zu	_	
+8-31	1089-1095	fahren	_	
+8-32	1095-1096	.	_	
+
+#Text=Aus Richtung Innenstadt kommend, möchte ich folgendes anregen:
+9-1	1097-1100	Aus	*[21]	
+9-2	1101-1109	Richtung	*[21]	
+9-3	1110-1120	Innenstadt	*[21]	
+9-4	1121-1128	kommend	*[21]	
+9-5	1128-1129	,	_	
+9-6	1130-1136	möchte	_	
+9-7	1137-1140	ich	_	
+9-8	1141-1150	folgendes	_	
+9-9	1151-1158	anregen	_	
+9-10	1158-1159	:	_	
+
+#Text=- der Schutzstreifen sollte bis zur Ampel verlängert werden.
+10-1	1160-1161	-	_	
+10-2	1162-1165	der	_	
+10-3	1166-1180	Schutzstreifen	_	
+10-4	1181-1187	sollte	_	
+10-5	1188-1191	bis	_	
+10-6	1192-1195	zur	_	
+10-7	1196-1201	Ampel	_	
+10-8	1202-1212	verlängert	_	
+10-9	1213-1219	werden	_	
+10-10	1219-1220	.	_	
+
+#Text=- Zusätzlich wird eine 'Fahrradfläche' zum Warten an der Ampel aufgemalt, so dass sich Fahrradfahrer offiziell vor den Autos einreihen dürfen.
+11-1	1221-1222	-	_	
+11-2	1223-1233	Zusätzlich	_	
+11-3	1234-1238	wird	_	
+11-4	1239-1243	eine	_	
+11-5	1244-1245	'	_	
+11-6	1245-1258	Fahrradfläche	_	
+11-7	1258-1259	'	_	
+11-8	1260-1263	zum	_	
+11-9	1264-1270	Warten	_	
+11-10	1271-1273	an	_	
+11-11	1274-1277	der	_	
+11-12	1278-1283	Ampel	_	
+11-13	1284-1293	aufgemalt	_	
+11-14	1293-1294	,	_	
+11-15	1295-1297	so	_	
+11-16	1298-1302	dass	_	
+11-17	1303-1307	sich	_	
+11-18	1308-1321	Fahrradfahrer	_	
+11-19	1322-1331	offiziell	_	
+11-20	1332-1335	vor	_	
+11-21	1336-1339	den	_	
+11-22	1340-1345	Autos	_	
+11-23	1346-1355	einreihen	_	
+11-24	1356-1362	dürfen	_	
+11-25	1362-1363	.	_	
+
+#Text=- Eine Fahrradampel wird installiert, die gleichzeitig mit der Fußgängerampel grün schaltet.
+12-1	1364-1365	-	_	
+12-2	1366-1370	Eine	_	
+12-3	1371-1383	Fahrradampel	_	
+12-4	1384-1388	wird	_	
+12-5	1389-1400	installiert	_	
+12-6	1400-1401	,	_	
+12-7	1402-1405	die	_	
+12-8	1406-1418	gleichzeitig	_	
+12-9	1419-1422	mit	_	
+12-10	1423-1426	der	_	
+12-11	1427-1441	Fußgängerampel	_	
+12-12	1442-1446	grün	_	
+12-13	1447-1455	schaltet	_	
+12-14	1455-1456	.	_	
+
+#Text=Aus Kessenich kommend wäre es ideal Radfahrern das gerade Überqueren der Kreuzung zu erlauben.
+13-1	1457-1460	Aus	*[22]	
+13-2	1461-1470	Kessenich	*[22]	
+13-3	1471-1478	kommend	*[22]	
+13-4	1479-1483	wäre	_	
+13-5	1484-1486	es	_	
+13-6	1487-1492	ideal	_	
+13-7	1493-1503	Radfahrern	_	
+13-8	1504-1507	das	_	
+13-9	1508-1514	gerade	_	
+13-10	1515-1525	Überqueren	_	
+13-11	1526-1529	der	_	
+13-12	1530-1538	Kreuzung	_	
+13-13	1539-1541	zu	_	
+13-14	1542-1550	erlauben	_	
+13-15	1550-1551	.	_	

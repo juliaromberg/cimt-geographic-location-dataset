@@ -1,0 +1,94 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radfahrstreifen
+1-1	0-15	Radfahrstreifen	_	
+
+#Text=Grundsätzlich sind Radfahrstreifen auf der Straße, insbesondere Nähe der Innenstadt, oft sehr bedrängt zu befahren.
+2-1	18-31	Grundsätzlich	_	
+2-2	32-36	sind	_	
+2-3	37-52	Radfahrstreifen	_	
+2-4	53-56	auf	_	
+2-5	57-60	der	_	
+2-6	61-67	Straße	_	
+2-7	67-68	,	_	
+2-8	69-81	insbesondere	_	
+2-9	82-86	Nähe	*[6]	
+2-10	87-90	der	*[6]	
+2-11	91-101	Innenstadt	*[6]	
+2-12	101-102	,	_	
+2-13	103-106	oft	_	
+2-14	107-111	sehr	_	
+2-15	112-120	bedrängt	_	
+2-16	121-123	zu	_	
+2-17	124-132	befahren	_	
+2-18	132-133	.	_	
+
+#Text=Autos und vor allem größere Fahrzege, wie Busse, verhindern das Radfahren und gefährden die Radfahrer.
+3-1	134-139	Autos	_	
+3-2	140-143	und	_	
+3-3	144-147	vor	_	
+3-4	148-153	allem	_	
+3-5	154-161	größere	_	
+3-6	162-170	Fahrzege	_	
+3-7	170-171	,	_	
+3-8	172-175	wie	_	
+3-9	176-181	Busse	_	
+3-10	181-182	,	_	
+3-11	183-193	verhindern	_	
+3-12	194-197	das	_	
+3-13	198-207	Radfahren	_	
+3-14	208-211	und	_	
+3-15	212-221	gefährden	_	
+3-16	222-225	die	_	
+3-17	226-235	Radfahrer	_	
+3-18	235-236	.	_	
+
+#Text=An Kreuzungen nutzen Autofahrer die Radfahrstreifen als Sichtstreifen, an anderer Stelle als Haltezone.
+4-1	237-239	An	_	
+4-2	240-250	Kreuzungen	_	
+4-3	251-257	nutzen	_	
+4-4	258-268	Autofahrer	_	
+4-5	269-272	die	_	
+4-6	273-288	Radfahrstreifen	_	
+4-7	289-292	als	_	
+4-8	293-306	Sichtstreifen	_	
+4-9	306-307	,	_	
+4-10	308-310	an	_	
+4-11	311-318	anderer	_	
+4-12	319-325	Stelle	_	
+4-13	326-329	als	_	
+4-14	330-339	Haltezone	_	
+4-15	339-340	.	_	
+
+#Text=Insbesondere kann ich hier den Berta zu nennen, Oxfordstr, Bornheimerstr, Thomasstr, Bundesstraße...
+5-1	341-353	Insbesondere	_	
+5-2	354-358	kann	_	
+5-3	359-362	ich	_	
+5-4	363-367	hier	_	
+5-5	368-371	den	_	
+5-6	372-377	Berta	*	
+5-7	378-380	zu	_	
+5-8	381-387	nennen	_	
+5-9	387-388	,	_	
+5-10	389-398	Oxfordstr	*[7]	
+5-11	398-399	,	*[7]	
+5-12	400-413	Bornheimerstr	*[7]	
+5-13	413-414	,	*[7]	
+5-14	415-424	Thomasstr	*[7]	
+5-15	424-425	,	*[7]	
+5-16	426-438	Bundesstraße	*[7]	
+5-17	438-439	.	_	
+5-18	439-440	.	_	
+5-19	440-441	.	_	
+
+#Text=Echte Radwege sind leider selten.
+6-1	442-447	Echte	_	
+6-2	448-455	Radwege	_	
+6-3	456-460	sind	_	
+6-4	461-467	leider	_	
+6-5	468-474	selten	_	
+6-6	474-475	.	_	

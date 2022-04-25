@@ -1,0 +1,104 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Die Radwege entlang dem Sandweg sind in beiden Richtungen aufgrund von zahlreichen Einmündungen, Parkplatzeinfahrten und Verschwenkungen für Radfahrer gefährlich
+1-1	0-3	Die	*[5]	
+1-2	4-11	Radwege	*[5]	
+1-3	12-19	entlang	*[5]	
+1-4	20-23	dem	*[5]	
+1-5	24-31	Sandweg	*[5]	
+1-6	32-36	sind	_	
+1-7	37-39	in	_	
+1-8	40-46	beiden	_	
+1-9	47-57	Richtungen	_	
+1-10	58-66	aufgrund	_	
+1-11	67-70	von	_	
+1-12	71-82	zahlreichen	_	
+1-13	83-95	Einmündungen	_	
+1-14	95-96	,	_	
+1-15	97-116	Parkplatzeinfahrten	_	
+1-16	117-120	und	_	
+1-17	121-136	Verschwenkungen	_	
+1-18	137-140	für	_	
+1-19	141-150	Radfahrer	_	
+1-20	151-161	gefährlich	_	
+
+#Text=Die Radwege entlang des Sandwegs sind in beiden Richtungen aufgrund von zahlreichen Einmündungen, Parkplatzeinfahrten und Verschwenkungen für Radfahrer gefährlich.
+2-1	164-167	Die	*[6]	
+2-2	168-175	Radwege	*[6]	
+2-3	176-183	entlang	*[6]	
+2-4	184-187	des	*[6]	
+2-5	188-196	Sandwegs	*[6]	
+2-6	197-201	sind	_	
+2-7	202-204	in	_	
+2-8	205-211	beiden	_	
+2-9	212-222	Richtungen	_	
+2-10	223-231	aufgrund	_	
+2-11	232-235	von	_	
+2-12	236-247	zahlreichen	_	
+2-13	248-260	Einmündungen	_	
+2-14	260-261	,	_	
+2-15	262-281	Parkplatzeinfahrten	_	
+2-16	282-285	und	_	
+2-17	286-301	Verschwenkungen	_	
+2-18	302-305	für	_	
+2-19	306-315	Radfahrer	_	
+2-20	316-326	gefährlich	_	
+2-21	326-327	.	_	
+
+#Text=Die Benutzungspflicht sollte in beiden Richtungen zumindest aufgehoben werden.
+3-1	328-331	Die	_	
+3-2	332-349	Benutzungspflicht	_	
+3-3	350-356	sollte	_	
+3-4	357-359	in	_	
+3-5	360-366	beiden	_	
+3-6	367-377	Richtungen	_	
+3-7	378-387	zumindest	_	
+3-8	388-398	aufgehoben	_	
+3-9	399-405	werden	_	
+3-10	405-406	.	_	
+
+#Text=Die Autofahrer sollten über die Bedeutung einer solchen Regelung aufgeklärt werden, da es in Richtung stadtauswärts (wo die Benutzungspflicht bereits aufgehoben ist) ständig zu Belehrungen durch Hupen, Auffahren und knappes Überholen seitens einiger Autofahrer kommt.
+4-1	407-410	Die	_	
+4-2	411-421	Autofahrer	_	
+4-3	422-429	sollten	_	
+4-4	430-434	über	_	
+4-5	435-438	die	_	
+4-6	439-448	Bedeutung	_	
+4-7	449-454	einer	_	
+4-8	455-462	solchen	_	
+4-9	463-471	Regelung	_	
+4-10	472-482	aufgeklärt	_	
+4-11	483-489	werden	_	
+4-12	489-490	,	_	
+4-13	491-493	da	_	
+4-14	494-496	es	_	
+4-15	497-499	in	_	
+4-16	500-508	Richtung	_	
+4-17	509-522	stadtauswärts	_	
+4-18	523-524	(	_	
+4-19	524-526	wo	_	
+4-20	527-530	die	_	
+4-21	531-548	Benutzungspflicht	_	
+4-22	549-556	bereits	_	
+4-23	557-567	aufgehoben	_	
+4-24	568-571	ist	_	
+4-25	571-572	)	_	
+4-26	573-580	ständig	_	
+4-27	581-583	zu	_	
+4-28	584-595	Belehrungen	_	
+4-29	596-601	durch	_	
+4-30	602-607	Hupen	_	
+4-31	607-608	,	_	
+4-32	609-618	Auffahren	_	
+4-33	619-622	und	_	
+4-34	623-630	knappes	_	
+4-35	631-640	Überholen	_	
+4-36	641-648	seitens	_	
+4-37	649-656	einiger	_	
+4-38	657-667	Autofahrer	_	
+4-39	668-673	kommt	_	
+4-40	673-674	.	_	

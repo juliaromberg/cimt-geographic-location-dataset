@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradparkplätze
+1-1	0-17	Fahrradparkplätze	_	
+
+#Text=Am Bahnhof Ehrenfeld gibt es erfreulicherweise viel mehr Fahrradparkplätze als noch vor ein paar Jahren.
+2-1	20-22	Am	*[3]	
+2-2	23-30	Bahnhof	*[3]	
+2-3	31-40	Ehrenfeld	*[3]	
+2-4	41-45	gibt	_	
+2-5	46-48	es	_	
+2-6	49-66	erfreulicherweise	_	
+2-7	67-71	viel	_	
+2-8	72-76	mehr	_	
+2-9	77-94	Fahrradparkplätze	_	
+2-10	95-98	als	_	
+2-11	99-103	noch	_	
+2-12	104-107	vor	_	
+2-13	108-111	ein	_	
+2-14	112-116	paar	_	
+2-15	117-123	Jahren	_	
+2-16	123-124	.	_	
+
+#Text=Leider stehen sehr viele Fahrradlaichen angeschlossen an den besten Stellen, sie sollten regelmäßig (am besten alle 3 Monate) entsorgt werden.
+3-1	125-131	Leider	_	
+3-2	132-138	stehen	_	
+3-3	139-143	sehr	_	
+3-4	144-149	viele	_	
+3-5	150-164	Fahrradlaichen	_	
+3-6	165-178	angeschlossen	_	
+3-7	179-181	an	_	
+3-8	182-185	den	_	
+3-9	186-192	besten	_	
+3-10	193-200	Stellen	_	
+3-11	200-201	,	_	
+3-12	202-205	sie	_	
+3-13	206-213	sollten	_	
+3-14	214-224	regelmäßig	_	
+3-15	225-226	(	_	
+3-16	226-228	am	_	
+3-17	229-235	besten	_	
+3-18	236-240	alle	_	
+3-19	241-242	3	_	
+3-20	243-249	Monate	_	
+3-21	249-250	)	_	
+3-22	251-259	entsorgt	_	
+3-23	260-266	werden	_	
+3-24	266-267	.	_	

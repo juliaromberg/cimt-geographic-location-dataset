@@ -1,0 +1,158 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Teil der Fahrbahn in Fahrradweg umwidmen
+1-1	0-4	Teil	_	
+1-2	5-8	der	_	
+1-3	9-17	Fahrbahn	_	
+1-4	18-20	in	_	
+1-5	21-31	Fahrradweg	_	
+1-6	32-40	umwidmen	_	
+
+#Text=Um den Radverkehr wirklich zu verbessern, sollte sich Bonn ein Beispiel an Städten nehmen, die neue breite Radwege angelegt haben, auf denen man mit dem Fahrrad zügig vorankommt.
+2-1	43-45	Um	_	
+2-2	46-49	den	_	
+2-3	50-60	Radverkehr	_	
+2-4	61-69	wirklich	_	
+2-5	70-72	zu	_	
+2-6	73-83	verbessern	_	
+2-7	83-84	,	_	
+2-8	85-91	sollte	_	
+2-9	92-96	sich	_	
+2-10	97-101	Bonn	*	
+2-11	102-105	ein	_	
+2-12	106-114	Beispiel	_	
+2-13	115-117	an	_	
+2-14	118-125	Städten	_	
+2-15	126-132	nehmen	_	
+2-16	132-133	,	_	
+2-17	134-137	die	_	
+2-18	138-142	neue	_	
+2-19	143-149	breite	_	
+2-20	150-157	Radwege	_	
+2-21	158-166	angelegt	_	
+2-22	167-172	haben	_	
+2-23	172-173	,	_	
+2-24	174-177	auf	_	
+2-25	178-183	denen	_	
+2-26	184-187	man	_	
+2-27	188-191	mit	_	
+2-28	192-195	dem	_	
+2-29	196-203	Fahrrad	_	
+2-30	204-209	zügig	_	
+2-31	210-220	vorankommt	_	
+2-32	220-221	.	_	
+
+#Text=So wird der Radverkehr wirklich attraktiv.
+3-1	222-224	So	_	
+3-2	225-229	wird	_	
+3-3	230-233	der	_	
+3-4	234-244	Radverkehr	_	
+3-5	245-253	wirklich	_	
+3-6	254-263	attraktiv	_	
+3-7	263-264	.	_	
+
+#Text=Solche Fahrradwege brauchen natürlich Platz, aber wenn bereit ist, einige Straßen zu Einbahnstraßen zu machen, wird genügend Platz für breite Fahrradwege auf der Fahrbahn frei.
+4-1	265-271	Solche	_	
+4-2	272-283	Fahrradwege	_	
+4-3	284-292	brauchen	_	
+4-4	293-302	natürlich	_	
+4-5	303-308	Platz	_	
+4-6	308-309	,	_	
+4-7	310-314	aber	_	
+4-8	315-319	wenn	_	
+4-9	320-326	bereit	_	
+4-10	327-330	ist	_	
+4-11	330-331	,	_	
+4-12	332-338	einige	_	
+4-13	339-346	Straßen	_	
+4-14	347-349	zu	_	
+4-15	350-364	Einbahnstraßen	_	
+4-16	365-367	zu	_	
+4-17	368-374	machen	_	
+4-18	374-375	,	_	
+4-19	376-380	wird	_	
+4-20	381-389	genügend	_	
+4-21	390-395	Platz	_	
+4-22	396-399	für	_	
+4-23	400-406	breite	_	
+4-24	407-418	Fahrradwege	_	
+4-25	419-422	auf	_	
+4-26	423-426	der	_	
+4-27	427-435	Fahrbahn	_	
+4-28	436-440	frei	_	
+4-29	440-441	.	_	
+
+#Text=Als Verbindung zwischen Plittersdorf und der Godesberger Fußgängerzone würde sich die Beethovenallee dazu anbieten.
+5-1	442-445	Als	_	
+5-2	446-456	Verbindung	_	
+5-3	457-465	zwischen	*[9]	
+5-4	466-478	Plittersdorf	*[9]	
+5-5	479-482	und	*[9]	
+5-6	483-486	der	*[9]	
+5-7	487-498	Godesberger	*[9]	
+5-8	499-512	Fußgängerzone	*[9]	
+5-9	513-518	würde	_	
+5-10	519-523	sich	_	
+5-11	524-527	die	*[10]	
+5-12	528-542	Beethovenallee	*[10]	
+5-13	543-547	dazu	_	
+5-14	548-556	anbieten	_	
+5-15	556-557	.	_	
+
+#Text=Der Autoverkehr könnte in einer Richtung auf die Plittersdorfer Straße, Denglerstraße und Rheinallee ausweichen.
+6-1	558-561	Der	_	
+6-2	562-573	Autoverkehr	_	
+6-3	574-580	könnte	_	
+6-4	581-583	in	*[11]	
+6-5	584-589	einer	*[11]	
+6-6	590-598	Richtung	*[11]	
+6-7	599-602	auf	*[11]	
+6-8	603-606	die	*[11]	
+6-9	607-621	Plittersdorfer	*[11]	
+6-10	622-628	Straße	*[11]	
+6-11	628-629	,	*[11]	
+6-12	630-643	Denglerstraße	*[11]	
+6-13	644-647	und	*[11]	
+6-14	648-658	Rheinallee	*[11]	
+6-15	659-669	ausweichen	_	
+6-16	669-670	.	_	
+
+#Text=Alternativ könnte die gesamte Straße zu einer Fahrradstraße erklärt werden, die Autos als Anlieger in einer Richtung mit nutzen dürfen.
+7-1	671-681	Alternativ	_	
+7-2	682-688	könnte	_	
+7-3	689-692	die	_	
+7-4	693-700	gesamte	_	
+7-5	701-707	Straße	_	
+7-6	708-710	zu	_	
+7-7	711-716	einer	_	
+7-8	717-730	Fahrradstraße	_	
+7-9	731-738	erklärt	_	
+7-10	739-745	werden	_	
+7-11	745-746	,	_	
+7-12	747-750	die	_	
+7-13	751-756	Autos	_	
+7-14	757-760	als	_	
+7-15	761-769	Anlieger	_	
+7-16	770-772	in	_	
+7-17	773-778	einer	_	
+7-18	779-787	Richtung	_	
+7-19	788-791	mit	_	
+7-20	792-798	nutzen	_	
+7-21	799-805	dürfen	_	
+7-22	805-806	.	_	
+
+#Text=Dadurch würde auch die Verkehrssituation vor der Grundschule entspannt.
+8-1	807-814	Dadurch	_	
+8-2	815-820	würde	_	
+8-3	821-825	auch	_	
+8-4	826-829	die	_	
+8-5	830-847	Verkehrssituation	_	
+8-6	848-851	vor	_	
+8-7	852-855	der	_	
+8-8	856-867	Grundschule	_	
+8-9	868-877	entspannt	_	
+8-10	877-878	.	_	

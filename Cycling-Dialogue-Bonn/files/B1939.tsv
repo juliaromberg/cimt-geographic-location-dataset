@@ -1,0 +1,222 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg vom durch dei Stadt: Martinsplatz zum Friedensplatz
+1-1	0-10	Fahrradweg	_	
+1-2	11-14	vom	_	
+1-3	15-20	durch	_	
+1-4	21-24	dei	_	
+1-5	25-30	Stadt	_	
+1-6	30-31	:	_	
+1-7	32-44	Martinsplatz	*[10]	
+1-8	45-48	zum	*[10]	
+1-9	49-62	Friedensplatz	*[10]	
+
+#Text=Guten Tag, wer mit dem Fahrrad aus dem Süden Bonns kommt und Richtung Alstadt (Nordstadt) fahren will, muss einen mehr oder weniger großen Umweg fahren - teilweise an sehr unangenehm zu fahrenden Stellen vorbei wie dem Busbahnhof, dem Bonner Loch, der Straße vor dem Gebäude des Hauptbahnhofs oder der B9 am Belderberg.
+2-1	65-70	Guten	_	
+2-2	71-74	Tag	_	
+2-3	74-75	,	_	
+2-4	76-79	wer	_	
+2-5	80-83	mit	_	
+2-6	84-87	dem	_	
+2-7	88-95	Fahrrad	_	
+2-8	96-99	aus	*[11]	
+2-9	100-103	dem	*[11]	
+2-10	104-109	Süden	*[11]	
+2-11	110-115	Bonns	*[11]	
+2-12	116-121	kommt	*[11]	
+2-13	122-125	und	*[11]	
+2-14	126-134	Richtung	*[11]	
+2-15	135-142	Alstadt	*[11]	
+2-16	143-144	(	*[11]	
+2-17	144-153	Nordstadt	*[11]	
+2-18	153-154	)	*[11]	
+2-19	155-161	fahren	_	
+2-20	162-166	will	_	
+2-21	166-167	,	_	
+2-22	168-172	muss	_	
+2-23	173-178	einen	_	
+2-24	179-183	mehr	_	
+2-25	184-188	oder	_	
+2-26	189-196	weniger	_	
+2-27	197-203	großen	_	
+2-28	204-209	Umweg	_	
+2-29	210-216	fahren	_	
+2-30	217-218	-	_	
+2-31	219-228	teilweise	_	
+2-32	229-231	an	_	
+2-33	232-236	sehr	_	
+2-34	237-247	unangenehm	_	
+2-35	248-250	zu	_	
+2-36	251-260	fahrenden	_	
+2-37	261-268	Stellen	_	
+2-38	269-275	vorbei	_	
+2-39	276-279	wie	_	
+2-40	280-283	dem	_	
+2-41	284-294	Busbahnhof	_	
+2-42	294-295	,	_	
+2-43	296-299	dem	_	
+2-44	300-306	Bonner	*[12]	
+2-45	307-311	Loch	*[12]	
+2-46	311-312	,	*[12]	
+2-47	313-316	der	*[12]	
+2-48	317-323	Straße	*[12]	
+2-49	324-327	vor	*[12]	
+2-50	328-331	dem	*[12]	
+2-51	332-339	Gebäude	*[12]	
+2-52	340-343	des	*[12]	
+2-53	344-357	Hauptbahnhofs	*[12]	
+2-54	358-362	oder	*[12]	
+2-55	363-366	der	*[12]	
+2-56	367-369	B9	*[12]	
+2-57	370-372	am	*[12]	
+2-58	373-383	Belderberg	*[12]	
+2-59	383-384	.	_	
+
+#Text=Ich würde mir wünschen, dass es folgenden Fahrradweg gibt: Vom Martinsplatz über den Münsterplatz, rechts vorbei an der Post durch die Vivatsgasse/Sterntor bis zum Friedensplatz.
+3-1	385-388	Ich	_	
+3-2	389-394	würde	_	
+3-3	395-398	mir	_	
+3-4	399-407	wünschen	_	
+3-5	407-408	,	_	
+3-6	409-413	dass	_	
+3-7	414-416	es	_	
+3-8	417-426	folgenden	_	
+3-9	427-437	Fahrradweg	_	
+3-10	438-442	gibt	_	
+3-11	442-443	:	_	
+3-12	444-447	Vom	*[13]	
+3-13	448-460	Martinsplatz	*[13]	
+3-14	461-465	über	*[13]	
+3-15	466-469	den	*[13]	
+3-16	470-482	Münsterplatz	*[13]	
+3-17	482-483	,	*[13]	
+3-18	484-490	rechts	*[13]	
+3-19	491-497	vorbei	*[13]	
+3-20	498-500	an	*[13]	
+3-21	501-504	der	*[13]	
+3-22	505-509	Post	*[13]	
+3-23	510-515	durch	*[13]	
+3-24	516-519	die	*[13]	
+3-25	520-531	Vivatsgasse	*[13]	
+3-26	531-532	/	*[13]	
+3-27	532-540	Sterntor	*[13]	
+3-28	541-544	bis	*[13]	
+3-29	545-548	zum	*[13]	
+3-30	549-562	Friedensplatz	*[13]	
+3-31	562-563	.	_	
+
+#Text=Das würde auch eine kurze Fahrt zum kleinen Bio-Markt unterhalb des Bonner Münsters (z.Z. am Martinsplatz) deutlich erleichtern.
+4-1	564-567	Das	_	
+4-2	568-573	würde	_	
+4-3	574-578	auch	_	
+4-4	579-583	eine	_	
+4-5	584-589	kurze	_	
+4-6	590-595	Fahrt	_	
+4-7	596-599	zum	_	
+4-8	600-607	kleinen	_	
+4-9	608-617	Bio-Markt	_	
+4-10	618-627	unterhalb	*[14]	
+4-11	628-631	des	*[14]	
+4-12	632-638	Bonner	*[14]	
+4-13	639-647	Münsters	*[14]	
+4-14	648-649	(	*[14]	
+4-15	649-652	z.Z	*[14]	
+4-16	652-653	.	*[14]	
+4-17	654-656	am	*[14]	
+4-18	657-669	Martinsplatz	*[14]	
+4-19	669-670	)	*[14]	
+4-20	671-679	deutlich	_	
+4-21	680-691	erleichtern	_	
+4-22	691-692	.	_	
+
+#Text=Ansonsten habe ich einen großen Traum: Eine Auto-freie Bonner Altstadt! :)
+5-1	693-702	Ansonsten	_	
+5-2	703-707	habe	_	
+5-3	708-711	ich	_	
+5-4	712-717	einen	_	
+5-5	718-724	großen	_	
+5-6	725-730	Traum	_	
+5-7	730-731	:	_	
+5-8	732-736	Eine	_	
+5-9	737-747	Auto-freie	_	
+5-10	748-754	Bonner	*[15]	
+5-11	755-763	Altstadt	*[15]	
+5-12	763-764	!	_	
+5-13	765-766	:	_	
+5-14	766-767	)	_	
+
+#Text=Dafür würde ich auch unser Auto und Parkplatz aufgeben, wenn wir dafür mehr Platz für E-Lastenräder, Fußgänger usw. hätten.
+6-1	768-773	Dafür	_	
+6-2	774-779	würde	_	
+6-3	780-783	ich	_	
+6-4	784-788	auch	_	
+6-5	789-794	unser	_	
+6-6	795-799	Auto	_	
+6-7	800-803	und	_	
+6-8	804-813	Parkplatz	_	
+6-9	814-822	aufgeben	_	
+6-10	822-823	,	_	
+6-11	824-828	wenn	_	
+6-12	829-832	wir	_	
+6-13	833-838	dafür	_	
+6-14	839-843	mehr	_	
+6-15	844-849	Platz	_	
+6-16	850-853	für	_	
+6-17	854-867	E-Lastenräder	_	
+6-18	867-868	,	_	
+6-19	869-878	Fußgänger	_	
+6-20	879-882	usw	_	
+6-21	882-883	.	_	
+6-22	884-890	hätten	_	
+6-23	890-891	.	_	
+
+#Text=Und vor allem keine Abgase mehr im Wohnzimmer und eien Flut an quer stehenden Autos in den engen Gassen der Altstadt.
+7-1	892-895	Und	_	
+7-2	896-899	vor	_	
+7-3	900-905	allem	_	
+7-4	906-911	keine	_	
+7-5	912-918	Abgase	_	
+7-6	919-923	mehr	_	
+7-7	924-926	im	_	
+7-8	927-937	Wohnzimmer	_	
+7-9	938-941	und	_	
+7-10	942-946	eien	_	
+7-11	947-951	Flut	_	
+7-12	952-954	an	_	
+7-13	955-959	quer	_	
+7-14	960-969	stehenden	_	
+7-15	970-975	Autos	_	
+7-16	976-978	in	_	
+7-17	979-982	den	_	
+7-18	983-988	engen	_	
+7-19	989-995	Gassen	_	
+7-20	996-999	der	_	
+7-21	1000-1008	Altstadt	_	
+7-22	1008-1009	.	_	
+
+#Text=Dort herrscht mittlerweile Park-Anarchie und es laufen durchgehend die Motoren.
+8-1	1010-1014	Dort	_	
+8-2	1015-1023	herrscht	_	
+8-3	1024-1036	mittlerweile	_	
+8-4	1037-1050	Park-Anarchie	_	
+8-5	1051-1054	und	_	
+8-6	1055-1057	es	_	
+8-7	1058-1064	laufen	_	
+8-8	1065-1076	durchgehend	_	
+8-9	1077-1080	die	_	
+8-10	1081-1088	Motoren	_	
+8-11	1088-1089	.	_	
+
+#Text=Mit besten Grüßen, [Name entfernt]
+9-1	1090-1093	Mit	_	
+9-2	1094-1100	besten	_	
+9-3	1101-1107	Grüßen	_	
+9-4	1107-1108	,	_	
+9-5	1109-1110	[	_	
+9-6	1110-1114	Name	_	
+9-7	1115-1123	entfernt	_	
+9-8	1123-1124	]	_	

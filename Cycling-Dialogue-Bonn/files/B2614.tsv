@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Nicht für Radfahrer benutzbar
+1-1	0-5	Nicht	_	
+1-2	6-9	für	_	
+1-3	10-19	Radfahrer	_	
+1-4	20-29	benutzbar	_	
+
+#Text=Die verkehrsberuhigenden Elemente reichen komplett über die gesamte Fahrbahn.
+2-1	32-35	Die	_	
+2-2	36-56	verkehrsberuhigenden	_	
+2-3	57-65	Elemente	_	
+2-4	66-73	reichen	_	
+2-5	74-82	komplett	_	
+2-6	83-87	über	_	
+2-7	88-91	die	_	
+2-8	92-99	gesamte	_	
+2-9	100-108	Fahrbahn	_	
+2-10	108-109	.	_	
+
+#Text=Für Radfahrer ist die Hoppelei nicht akzeptabel.
+3-1	110-113	Für	_	
+3-2	114-123	Radfahrer	_	
+3-3	124-127	ist	_	
+3-4	128-131	die	_	
+3-5	132-140	Hoppelei	_	
+3-6	141-146	nicht	_	
+3-7	147-157	akzeptabel	_	
+3-8	157-158	.	_	
+
+#Text=Die verkehrsberuhigenden Elemente sollten so gestaltet werden, dass Radfahrer diese passieren können.
+4-1	159-162	Die	_	
+4-2	163-183	verkehrsberuhigenden	_	
+4-3	184-192	Elemente	_	
+4-4	193-200	sollten	_	
+4-5	201-203	so	_	
+4-6	204-213	gestaltet	_	
+4-7	214-220	werden	_	
+4-8	220-221	,	_	
+4-9	222-226	dass	_	
+4-10	227-236	Radfahrer	_	
+4-11	237-242	diese	_	
+4-12	243-252	passieren	_	
+4-13	253-259	können	_	
+4-14	259-260	.	_	

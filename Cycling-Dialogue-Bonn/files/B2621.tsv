@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Konviktstraße/Belderberg
+1-1	0-13	Konviktstraße	*[5]	
+1-2	13-14	/	*[5]	
+1-3	14-24	Belderberg	*[5]	
+
+#Text=Häufig stehen Autos, die aus der Konviktstraße rauskommen, auf dem Radweg, damit sie durch das Tor einen Blick auf die Straße haben.
+2-1	27-33	Häufig	_	
+2-2	34-40	stehen	_	
+2-3	41-46	Autos	_	
+2-4	46-47	,	_	
+2-5	48-51	die	_	
+2-6	52-55	aus	*[6]	
+2-7	56-59	der	*[6]	
+2-8	60-73	Konviktstraße	*[6]	
+2-9	74-84	rauskommen	*[6]	
+2-10	84-85	,	_	
+2-11	86-89	auf	_	
+2-12	90-93	dem	_	
+2-13	94-100	Radweg	_	
+2-14	100-101	,	_	
+2-15	102-107	damit	_	
+2-16	108-111	sie	_	
+2-17	112-117	durch	_	
+2-18	118-121	das	_	
+2-19	122-125	Tor	_	
+2-20	126-131	einen	_	
+2-21	132-137	Blick	_	
+2-22	138-141	auf	_	
+2-23	142-145	die	_	
+2-24	146-152	Straße	_	
+2-25	153-158	haben	_	
+2-26	158-159	.	_	
+
+#Text=Dann parken zusätzlich auf dem Belderberg häufig Autos auf dem Radweg, weil sie keinen Parkplatz finden.
+3-1	160-164	Dann	_	
+3-2	165-171	parken	_	
+3-3	172-182	zusätzlich	_	
+3-4	183-186	auf	*[7]	
+3-5	187-190	dem	*[7]	
+3-6	191-201	Belderberg	*[7]	
+3-7	202-208	häufig	_	
+3-8	209-214	Autos	_	
+3-9	215-218	auf	_	
+3-10	219-222	dem	_	
+3-11	223-229	Radweg	_	
+3-12	229-230	,	_	
+3-13	231-235	weil	_	
+3-14	236-239	sie	_	
+3-15	240-246	keinen	_	
+3-16	247-256	Parkplatz	_	
+3-17	257-263	finden	_	
+3-18	263-264	.	_	
+
+#Text=Den Radweg vor der Konviktstraße rot zu markieren könnte zu mehr Aufmerksamkeit führen.
+4-1	265-268	Den	_	
+4-2	269-275	Radweg	*[8]	
+4-3	276-279	vor	*[8]	
+4-4	280-283	der	*[8]	
+4-5	284-297	Konviktstraße	*[8]	
+4-6	298-301	rot	_	
+4-7	302-304	zu	_	
+4-8	305-314	markieren	_	
+4-9	315-321	könnte	_	
+4-10	322-324	zu	_	
+4-11	325-329	mehr	_	
+4-12	330-344	Aufmerksamkeit	_	
+4-13	345-351	führen	_	
+4-14	351-352	.	_	

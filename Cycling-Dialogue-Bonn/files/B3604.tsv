@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg sehr ungünstig bei LKW Überholung
+1-1	0-6	Radweg	_	
+1-2	7-11	sehr	_	
+1-3	12-21	ungünstig	_	
+1-4	22-25	bei	_	
+1-5	26-29	LKW	_	
+1-6	30-40	Überholung	_	
+
+#Text=Durch die StraßenVerschwenkung bei der Verkehrinsel nach rechts überfahren LKWs den abmarkierten Radweg.
+2-1	43-48	Durch	_	
+2-2	49-52	die	_	
+2-3	53-73	StraßenVerschwenkung	_	
+2-4	74-77	bei	_	
+2-5	78-81	der	_	
+2-6	82-94	Verkehrinsel	_	
+2-7	95-99	nach	_	
+2-8	100-106	rechts	_	
+2-9	107-117	überfahren	_	
+2-10	118-122	LKWs	_	
+2-11	123-126	den	_	
+2-12	127-139	abmarkierten	_	
+2-13	140-146	Radweg	_	
+2-14	146-147	.	_	
+
+#Text=Radfahrer sind beim Überholvorgang im toten Winkel des LKWs.
+3-1	148-157	Radfahrer	_	
+3-2	158-162	sind	_	
+3-3	163-167	beim	_	
+3-4	168-182	Überholvorgang	_	
+3-5	183-185	im	_	
+3-6	186-191	toten	_	
+3-7	192-198	Winkel	_	
+3-8	199-202	des	_	
+3-9	203-207	LKWs	_	
+3-10	207-208	.	_	
+
+#Text=Eine sehr ungünstige Radverkehrsführung.
+4-1	209-213	Eine	_	
+4-2	214-218	sehr	_	
+4-3	219-229	ungünstige	_	
+4-4	230-248	Radverkehrsführung	_	
+4-5	248-249	.	_	

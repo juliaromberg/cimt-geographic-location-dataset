@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sehr schlechte Fahrbahndecke
+1-1	0-4	Sehr	_	
+1-2	5-14	schlechte	_	
+1-3	15-28	Fahrbahndecke	_	
+
+#Text=Besonders für zügig fahrende Pendler - sehr schlechte Fahrbahndecke mit zahlreichen Schlaglöchern.
+2-1	31-40	Besonders	_	
+2-2	41-44	für	_	
+2-3	45-50	zügig	_	
+2-4	51-59	fahrende	_	
+2-5	60-67	Pendler	_	
+2-6	68-69	-	_	
+2-7	70-74	sehr	_	
+2-8	75-84	schlechte	_	
+2-9	85-98	Fahrbahndecke	_	
+2-10	99-102	mit	_	
+2-11	103-114	zahlreichen	_	
+2-12	115-128	Schlaglöchern	_	
+2-13	128-129	.	_	
+
+#Text=Da auch viele Spaziergänger mit Hunden unterwegs.... ist ein Ausweichen notwendig, aber manchmal auch durch die schlechten Ränder gefährlich.
+3-1	130-132	Da	_	
+3-2	133-137	auch	_	
+3-3	138-143	viele	_	
+3-4	144-157	Spaziergänger	_	
+3-5	158-161	mit	_	
+3-6	162-168	Hunden	_	
+3-7	169-178	unterwegs	_	
+3-8	178-179	.	_	
+3-9	179-180	.	_	
+3-10	180-181	.	_	
+3-11	181-182	.	_	
+3-12	183-186	ist	_	
+3-13	187-190	ein	_	
+3-14	191-201	Ausweichen	_	
+3-15	202-211	notwendig	_	
+3-16	211-212	,	_	
+3-17	213-217	aber	_	
+3-18	218-226	manchmal	_	
+3-19	227-231	auch	_	
+3-20	232-237	durch	_	
+3-21	238-241	die	_	
+3-22	242-252	schlechten	_	
+3-23	253-259	Ränder	_	
+3-24	260-270	gefährlich	_	
+3-25	270-271	.	_	

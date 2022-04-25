@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Markierung Radweg Bornheimer Richtung Innenstadt
+1-1	0-10	Markierung	_	
+1-2	11-17	Radweg	*[3]	
+1-3	18-28	Bornheimer	*[3]	
+1-4	29-37	Richtung	*[3]	
+1-5	38-48	Innenstadt	*[3]	
+
+#Text=Auf diesem markierten Radweg, der für Radfahrer, die in die Stadt wollen sehr wichtig ist, fahren permanent die Autos und man muss sich noch anschreien lassen wenn man diesen nutzen will ....vielleicht sollte man den Gehweg freimachen da man diesen sowieso nutzen muss
+2-1	51-54	Auf	_	
+2-2	55-61	diesem	_	
+2-3	62-72	markierten	_	
+2-4	73-79	Radweg	_	
+2-5	79-80	,	_	
+2-6	81-84	der	_	
+2-7	85-88	für	_	
+2-8	89-98	Radfahrer	_	
+2-9	98-99	,	_	
+2-10	100-103	die	_	
+2-11	104-106	in	_	
+2-12	107-110	die	_	
+2-13	111-116	Stadt	_	
+2-14	117-123	wollen	_	
+2-15	124-128	sehr	_	
+2-16	129-136	wichtig	_	
+2-17	137-140	ist	_	
+2-18	140-141	,	_	
+2-19	142-148	fahren	_	
+2-20	149-158	permanent	_	
+2-21	159-162	die	_	
+2-22	163-168	Autos	_	
+2-23	169-172	und	_	
+2-24	173-176	man	_	
+2-25	177-181	muss	_	
+2-26	182-186	sich	_	
+2-27	187-191	noch	_	
+2-28	192-202	anschreien	_	
+2-29	203-209	lassen	_	
+2-30	210-214	wenn	_	
+2-31	215-218	man	_	
+2-32	219-225	diesen	_	
+2-33	226-232	nutzen	_	
+2-34	233-237	will	_	
+2-35	238-239	.	_	
+2-36	239-240	.	_	
+2-37	240-241	.	_	
+2-38	241-242	.	_	
+2-39	242-252	vielleicht	_	
+2-40	253-259	sollte	_	
+2-41	260-263	man	_	
+2-42	264-267	den	_	
+2-43	268-274	Gehweg	_	
+2-44	275-285	freimachen	_	
+2-45	286-288	da	_	
+2-46	289-292	man	_	
+2-47	293-299	diesen	_	
+2-48	300-307	sowieso	_	
+2-49	308-314	nutzen	_	
+2-50	315-319	muss	_	

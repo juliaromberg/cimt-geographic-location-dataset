@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Grüner Pfeil und Radweg/Fußweg trennen!
+1-1	0-6	Grüner	_	
+1-2	7-12	Pfeil	_	
+1-3	13-16	und	_	
+1-4	17-23	Radweg	_	
+1-5	23-24	/	_	
+1-6	24-30	Fußweg	_	
+1-7	31-38	trennen	_	
+1-8	38-39	!	_	
+
+#Text=An der Ampel muß der Radfahrer grundlos mit den Autos warten und Abgase einatmen.
+2-1	42-44	An	_	
+2-2	45-48	der	_	
+2-3	49-54	Ampel	_	
+2-4	55-58	muß	_	
+2-5	59-62	der	_	
+2-6	63-72	Radfahrer	_	
+2-7	73-81	grundlos	_	
+2-8	82-85	mit	_	
+2-9	86-89	den	_	
+2-10	90-95	Autos	_	
+2-11	96-102	warten	_	
+2-12	103-106	und	_	
+2-13	107-113	Abgase	_	
+2-14	114-122	einatmen	_	
+2-15	122-123	.	_	
+
+#Text=Ein Grüner Pfeil kann ihn aber abbiegen lassen ohne Gefahren für irgendjemand!
+3-1	124-127	Ein	_	
+3-2	128-134	Grüner	_	
+3-3	135-140	Pfeil	_	
+3-4	141-145	kann	_	
+3-5	146-149	ihn	_	
+3-6	150-154	aber	_	
+3-7	155-163	abbiegen	_	
+3-8	164-170	lassen	_	
+3-9	171-175	ohne	_	
+3-10	176-184	Gefahren	_	
+3-11	185-188	für	_	
+3-12	189-201	irgendjemand	_	
+3-13	201-202	!	_	
+
+#Text=Dazu ist der Bürgersteig breit genug um einzeln Rad - und Fahrradbereiche zu definieren, ebenfalls auf der Gegenrichtung möglich ab Ecke Augustusring/Graurheindorfer Straße!
+4-1	203-207	Dazu	_	
+4-2	208-211	ist	_	
+4-3	212-215	der	_	
+4-4	216-227	Bürgersteig	_	
+4-5	228-233	breit	_	
+4-6	234-239	genug	_	
+4-7	240-242	um	_	
+4-8	243-250	einzeln	_	
+4-9	251-254	Rad	_	
+4-10	255-256	-	_	
+4-11	257-260	und	_	
+4-12	261-276	Fahrradbereiche	_	
+4-13	277-279	zu	_	
+4-14	280-290	definieren	_	
+4-15	290-291	,	_	
+4-16	292-301	ebenfalls	_	
+4-17	302-305	auf	_	
+4-18	306-309	der	_	
+4-19	310-323	Gegenrichtung	_	
+4-20	324-331	möglich	_	
+4-21	332-334	ab	_	
+4-22	335-339	Ecke	*[5]	
+4-23	340-352	Augustusring	*[5]	
+4-24	352-353	/	*[5]	
+4-25	353-368	Graurheindorfer	*[5]	
+4-26	369-375	Straße	*[5]	
+4-27	375-376	!	_	

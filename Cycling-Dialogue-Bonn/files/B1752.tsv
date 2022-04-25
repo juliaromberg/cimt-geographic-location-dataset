@@ -1,0 +1,46 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=fehlende Radverkehrsführung und unklare Vorfahrt
+1-1	0-8	fehlende	_	
+1-2	9-27	Radverkehrsführung	_	
+1-3	28-31	und	_	
+1-4	32-39	unklare	_	
+1-5	40-48	Vorfahrt	_	
+
+#Text=An dieser Kreuzung ist die Vorfahrtsregelung nicht (auf Anhieb) zu verstehen.
+2-1	51-53	An	_	
+2-2	54-60	dieser	_	
+2-3	61-69	Kreuzung	_	
+2-4	70-73	ist	_	
+2-5	74-77	die	_	
+2-6	78-95	Vorfahrtsregelung	_	
+2-7	96-101	nicht	_	
+2-8	102-103	(	_	
+2-9	103-106	auf	_	
+2-10	107-113	Anhieb	_	
+2-11	113-114	)	_	
+2-12	115-117	zu	_	
+2-13	118-127	verstehen	_	
+2-14	127-128	.	_	
+
+#Text=Außerdem ist die Verkehrsführung über die Kreuzung für Radfahrer nicht in alle Richtungen deutlich geregelt.
+3-1	129-137	Außerdem	_	
+3-2	138-141	ist	_	
+3-3	142-145	die	_	
+3-4	146-161	Verkehrsführung	_	
+3-5	162-166	über	_	
+3-6	167-170	die	_	
+3-7	171-179	Kreuzung	_	
+3-8	180-183	für	_	
+3-9	184-193	Radfahrer	_	
+3-10	194-199	nicht	_	
+3-11	200-202	in	_	
+3-12	203-207	alle	_	
+3-13	208-218	Richtungen	_	
+3-14	219-227	deutlich	_	
+3-15	228-236	geregelt	_	
+3-16	236-237	.	_	

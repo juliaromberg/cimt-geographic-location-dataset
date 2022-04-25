@@ -1,0 +1,58 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schrott-Räder in Fahrradständern / Fahrradständer fehlen
+1-1	0-13	Schrott-Räder	_	
+1-2	14-16	in	_	
+1-3	17-32	Fahrradständern	_	
+1-4	33-34	/	_	
+1-5	35-49	Fahrradständer	_	
+1-6	50-56	fehlen	_	
+
+#Text=In allen Fahrradständern an der Ecke Weberstraße /Bonner-Talweg blockieren Schrotträder das Anschließen und Parken des eignen Fahrrads in den bereits vorhandenen Fahrradständern.
+2-1	59-61	In	_	
+2-2	62-67	allen	_	
+2-3	68-83	Fahrradständern	*[4]	
+2-4	84-86	an	*[4]	
+2-5	87-90	der	*[4]	
+2-6	91-95	Ecke	*[4]	
+2-7	96-107	Weberstraße	*[4]	
+2-8	108-109	/	*[4]	
+2-9	109-122	Bonner-Talweg	*[4]	
+2-10	123-133	blockieren	_	
+2-11	134-146	Schrotträder	_	
+2-12	147-150	das	_	
+2-13	151-162	Anschließen	_	
+2-14	163-166	und	_	
+2-15	167-173	Parken	_	
+2-16	174-177	des	_	
+2-17	178-184	eignen	_	
+2-18	185-193	Fahrrads	_	
+2-19	194-196	in	_	
+2-20	197-200	den	_	
+2-21	201-208	bereits	_	
+2-22	209-220	vorhandenen	_	
+2-23	221-236	Fahrradständern	_	
+2-24	236-237	.	_	
+
+#Text=Auch stehen an dieser Stelle mit vielen Geschäften insgesamt zu wenig Fahrradständer mit Anschließmöglichkeiten zur Verfügung.
+3-1	238-242	Auch	_	
+3-2	243-249	stehen	_	
+3-3	250-252	an	_	
+3-4	253-259	dieser	_	
+3-5	260-266	Stelle	_	
+3-6	267-270	mit	_	
+3-7	271-277	vielen	_	
+3-8	278-288	Geschäften	_	
+3-9	289-298	insgesamt	_	
+3-10	299-301	zu	_	
+3-11	302-307	wenig	_	
+3-12	308-322	Fahrradständer	_	
+3-13	323-326	mit	_	
+3-14	327-349	Anschließmöglichkeiten	_	
+3-15	350-353	zur	_	
+3-16	354-363	Verfügung	_	
+3-17	363-364	.	_	

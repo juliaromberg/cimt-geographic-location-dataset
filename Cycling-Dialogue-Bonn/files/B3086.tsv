@@ -1,0 +1,67 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unterführung mit Grusel-Faktor
+1-1	0-12	Unterführung	_	
+1-2	13-16	mit	_	
+1-3	17-30	Grusel-Faktor	_	
+
+#Text=Von der Innenstadt kommend schiebe ich das Rad durch diese UNterführung in die Colmantstr/Meckenheimer Str.
+2-1	33-36	Von	*[5]	
+2-2	37-40	der	*[5]	
+2-3	41-51	Innenstadt	*[5]	
+2-4	52-59	kommend	*[5]	
+2-5	60-67	schiebe	_	
+2-6	68-71	ich	_	
+2-7	72-75	das	_	
+2-8	76-79	Rad	_	
+2-9	80-85	durch	_	
+2-10	86-91	diese	_	
+2-11	92-104	UNterführung	*[6]	
+2-12	105-107	in	*[6]	
+2-13	108-111	die	*[6]	
+2-14	112-122	Colmantstr	*[6]	
+2-15	122-123	/	*[6]	
+2-16	123-135	Meckenheimer	*[6]	
+2-17	136-139	Str	*[6]	
+2-18	139-140	.	*[6]	
+
+#Text=Diese ist sowohl schrecklich dreckig mit Müll und oft auch tierischen und menschlichen Exkrementen.
+3-1	141-146	Diese	_	
+3-2	147-150	ist	_	
+3-3	151-157	sowohl	_	
+3-4	158-169	schrecklich	_	
+3-5	170-177	dreckig	_	
+3-6	178-181	mit	_	
+3-7	182-186	Müll	_	
+3-8	187-190	und	_	
+3-9	191-194	oft	_	
+3-10	195-199	auch	_	
+3-11	200-210	tierischen	_	
+3-12	211-214	und	_	
+3-13	215-227	menschlichen	_	
+3-14	228-239	Exkrementen	_	
+3-15	239-240	.	_	
+
+#Text=Außerdem duster, unübersichtlich am Tunnelende (unter der Brücke) und eine wahre Zumutung für alle.
+4-1	241-249	Außerdem	_	
+4-2	250-256	duster	_	
+4-3	256-257	,	_	
+4-4	258-273	unübersichtlich	_	
+4-5	274-276	am	_	
+4-6	277-287	Tunnelende	_	
+4-7	288-289	(	_	
+4-8	289-294	unter	_	
+4-9	295-298	der	_	
+4-10	299-305	Brücke	_	
+4-11	305-306	)	_	
+4-12	307-310	und	_	
+4-13	311-315	eine	_	
+4-14	316-321	wahre	_	
+4-15	322-330	Zumutung	_	
+4-16	331-334	für	_	
+4-17	335-339	alle	_	
+4-18	339-340	.	_	

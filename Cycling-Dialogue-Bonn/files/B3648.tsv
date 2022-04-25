@@ -1,0 +1,91 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Geradeausfahren ist sehr gefährlich!
+1-1	0-15	Geradeausfahren	_	
+1-2	16-19	ist	_	
+1-3	20-24	sehr	_	
+1-4	25-35	gefährlich	_	
+1-5	35-36	!	_	
+
+#Text=Hier ist insbesondere das Geradeausfahren über die abbiegenden Schienen (von Süden nach Norden fahrrend) sehr gefährlich.
+2-1	39-43	Hier	_	
+2-2	44-47	ist	_	
+2-3	48-60	insbesondere	_	
+2-4	61-64	das	_	
+2-5	65-80	Geradeausfahren	_	
+2-6	81-85	über	_	
+2-7	86-89	die	_	
+2-8	90-101	abbiegenden	_	
+2-9	102-110	Schienen	_	
+2-10	111-112	(	_	
+2-11	112-115	von	_	
+2-12	116-121	Süden	_	
+2-13	122-126	nach	_	
+2-14	127-133	Norden	_	
+2-15	134-142	fahrrend	_	
+2-16	142-143	)	_	
+2-17	144-148	sehr	_	
+2-18	149-159	gefährlich	_	
+2-19	159-160	.	_	
+
+#Text=Aufgrund der Schienen muss man eine leichte angedeutete Kurve in Richtung Thomas-Mann-Straße fahren, was die Autofahrer von hinten dazu verleitet, Gas zu geben und knapp zu überholen.
+3-1	161-169	Aufgrund	_	
+3-2	170-173	der	_	
+3-3	174-182	Schienen	_	
+3-4	183-187	muss	_	
+3-5	188-191	man	_	
+3-6	192-196	eine	_	
+3-7	197-204	leichte	*[6]	
+3-8	205-216	angedeutete	*[6]	
+3-9	217-222	Kurve	*[6]	
+3-10	223-225	in	*[6]	
+3-11	226-234	Richtung	*[6]	
+3-12	235-253	Thomas-Mann-Straße	*[6]	
+3-13	254-260	fahren	_	
+3-14	260-261	,	_	
+3-15	262-265	was	_	
+3-16	266-269	die	_	
+3-17	270-280	Autofahrer	_	
+3-18	281-284	von	_	
+3-19	285-291	hinten	_	
+3-20	292-296	dazu	_	
+3-21	297-306	verleitet	_	
+3-22	306-307	,	_	
+3-23	308-311	Gas	_	
+3-24	312-314	zu	_	
+3-25	315-320	geben	_	
+3-26	321-324	und	_	
+3-27	325-330	knapp	_	
+3-28	331-333	zu	_	
+3-29	334-343	überholen	_	
+3-30	343-344	.	_	
+
+#Text=Leider fährt man dann doch geradeaus, Unfälle sind vorprogrammiert.
+4-1	345-351	Leider	_	
+4-2	352-357	fährt	_	
+4-3	358-361	man	_	
+4-4	362-366	dann	_	
+4-5	367-371	doch	_	
+4-6	372-381	geradeaus	_	
+4-7	381-382	,	_	
+4-8	383-390	Unfälle	_	
+4-9	391-395	sind	_	
+4-10	396-411	vorprogrammiert	_	
+4-11	411-412	.	_	
+
+#Text=Vielleicht könnte die Radführung geradeaus farblich markiert werden?!?
+5-1	413-423	Vielleicht	_	
+5-2	424-430	könnte	_	
+5-3	431-434	die	_	
+5-4	435-445	Radführung	_	
+5-5	446-455	geradeaus	_	
+5-6	456-464	farblich	_	
+5-7	465-473	markiert	_	
+5-8	474-480	werden	_	
+5-9	480-481	?	_	
+5-10	481-482	!	_	
+5-11	482-483	?	_	

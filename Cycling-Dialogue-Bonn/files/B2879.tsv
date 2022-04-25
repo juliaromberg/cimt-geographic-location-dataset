@@ -1,0 +1,58 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kopfsteinpflaster
+1-1	0-17	Kopfsteinpflaster	_	
+
+#Text=Für Rennradfahrer ist der Kopfsteinpflasterstreifen an der Bootsrampe der DLRG ärgerlich.
+2-1	20-23	Für	_	
+2-2	24-37	Rennradfahrer	_	
+2-3	38-41	ist	_	
+2-4	42-45	der	_	
+2-5	46-71	Kopfsteinpflasterstreifen	_	
+2-6	72-74	an	_	
+2-7	75-78	der	_	
+2-8	79-89	Bootsrampe	_	
+2-9	90-93	der	_	
+2-10	94-98	DLRG	_	
+2-11	99-108	ärgerlich	_	
+2-12	108-109	.	_	
+
+#Text=Vielleicht könnte man zumindest für einen ca. 1m breiten Streifen die Oberfläche glätten.
+3-1	110-120	Vielleicht	_	
+3-2	121-127	könnte	_	
+3-3	128-131	man	_	
+3-4	132-141	zumindest	_	
+3-5	142-145	für	_	
+3-6	146-151	einen	_	
+3-7	152-154	ca	_	
+3-8	154-155	.	_	
+3-9	156-158	1m	_	
+3-10	159-166	breiten	_	
+3-11	167-175	Streifen	_	
+3-12	176-179	die	_	
+3-13	180-190	Oberfläche	_	
+3-14	191-198	glätten	_	
+3-15	198-199	.	_	
+
+#Text=Man muss ja nicht das gesamte Kopfsteinpflaster ersetzen.
+4-1	200-203	Man	_	
+4-2	204-208	muss	_	
+4-3	209-211	ja	_	
+4-4	212-217	nicht	_	
+4-5	218-221	das	_	
+4-6	222-229	gesamte	_	
+4-7	230-247	Kopfsteinpflaster	_	
+4-8	248-256	ersetzen	_	
+4-9	256-257	.	_	
+
+#Text=Gleiches gilt übrigens für Inline-Skater.
+5-1	258-266	Gleiches	_	
+5-2	267-271	gilt	_	
+5-3	272-280	übrigens	_	
+5-4	281-284	für	_	
+5-5	285-298	Inline-Skater	_	
+5-6	298-299	.	_	

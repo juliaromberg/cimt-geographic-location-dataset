@@ -1,0 +1,221 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unterführung auch für Radfahrer freigeben.
+1-1	0-12	Unterführung	_	
+1-2	13-17	auch	_	
+1-3	18-21	für	_	
+1-4	22-31	Radfahrer	_	
+1-5	32-41	freigeben	_	
+1-6	41-42	.	_	
+
+#Text=Trennung zwischen Fußgänger und Radfahrern durch ein Geländer in der Mitte.
+2-1	43-51	Trennung	_	
+2-2	52-60	zwischen	_	
+2-3	61-70	Fußgänger	_	
+2-4	71-74	und	_	
+2-5	75-85	Radfahrern	_	
+2-6	86-91	durch	_	
+2-7	92-95	ein	_	
+2-8	96-104	Geländer	_	
+2-9	105-107	in	_	
+2-10	108-111	der	_	
+2-11	112-117	Mitte	_	
+2-12	117-118	.	_	
+
+#Text=Läden verlagern.
+3-1	119-124	Läden	_	
+3-2	125-134	verlagern	_	
+3-3	134-135	.	_	
+
+#Text=Die Unterführung ist ca. 4,80m breit.
+4-1	138-141	Die	_	
+4-2	142-154	Unterführung	_	
+4-3	155-158	ist	_	
+4-4	159-161	ca	_	
+4-5	161-162	.	_	
+4-6	163-168	4,80m	_	
+4-7	169-174	breit	_	
+4-8	174-175	.	_	
+
+#Text=Bei einem 0,05 m breiten Geländer blieben jeweils 2,375 m übrig.
+5-1	176-179	Bei	_	
+5-2	180-185	einem	_	
+5-3	186-190	0,05	_	
+5-4	191-192	m	_	
+5-5	193-200	breiten	_	
+5-6	201-209	Geländer	_	
+5-7	210-217	blieben	_	
+5-8	218-225	jeweils	_	
+5-9	226-231	2,375	_	
+5-10	232-233	m	_	
+5-11	234-239	übrig	_	
+5-12	239-240	.	_	
+
+#Text=Das ist zwar nicht üppig, aber durch die enorme Barriere, welche die Bahnlinie und der gesamte Bahnhofsbereich im Stadtraum für den Radverkehr darstellt ist dies mehr als gerechtfertigt und Radfahrer könnten dort mit verminderter Geschwindigkeit durchgelassen werden.
+6-1	241-244	Das	_	
+6-2	245-248	ist	_	
+6-3	249-253	zwar	_	
+6-4	254-259	nicht	_	
+6-5	260-265	üppig	_	
+6-6	265-266	,	_	
+6-7	267-271	aber	_	
+6-8	272-277	durch	_	
+6-9	278-281	die	_	
+6-10	282-288	enorme	_	
+6-11	289-297	Barriere	_	
+6-12	297-298	,	_	
+6-13	299-305	welche	_	
+6-14	306-309	die	_	
+6-15	310-319	Bahnlinie	_	
+6-16	320-323	und	_	
+6-17	324-327	der	*[13]	
+6-18	328-335	gesamte	*[13]	
+6-19	336-351	Bahnhofsbereich	*[13]	
+6-20	352-354	im	*[13]	
+6-21	355-364	Stadtraum	*[13]	
+6-22	365-368	für	_	
+6-23	369-372	den	_	
+6-24	373-383	Radverkehr	_	
+6-25	384-393	darstellt	_	
+6-26	394-397	ist	_	
+6-27	398-402	dies	_	
+6-28	403-407	mehr	_	
+6-29	408-411	als	_	
+6-30	412-426	gerechtfertigt	_	
+6-31	427-430	und	_	
+6-32	431-440	Radfahrer	_	
+6-33	441-448	könnten	_	
+6-34	449-453	dort	_	
+6-35	454-457	mit	_	
+6-36	458-470	verminderter	_	
+6-37	471-486	Geschwindigkeit	_	
+6-38	487-500	durchgelassen	_	
+6-39	501-507	werden	_	
+6-40	507-508	.	_	
+
+#Text=Andererseits wird dem Bonner Radfahrer auch die Fahrt auch zum Teil nicht mal 70cm breiten Schutzstreifen zugemutet.
+7-1	509-521	Andererseits	_	
+7-2	522-526	wird	_	
+7-3	527-530	dem	_	
+7-4	531-537	Bonner	_	
+7-5	538-547	Radfahrer	_	
+7-6	548-552	auch	_	
+7-7	553-556	die	_	
+7-8	557-562	Fahrt	_	
+7-9	563-567	auch	_	
+7-10	568-571	zum	_	
+7-11	572-576	Teil	_	
+7-12	577-582	nicht	_	
+7-13	583-586	mal	_	
+7-14	587-591	70cm	_	
+7-15	592-599	breiten	_	
+7-16	600-614	Schutzstreifen	_	
+7-17	615-624	zugemutet	_	
+7-18	624-625	.	_	
+
+#Text=Da wären die dann 1,1875 m pro Fahrtrichtung fast schon Luxus.
+8-1	626-628	Da	_	
+8-2	629-634	wären	_	
+8-3	635-638	die	_	
+8-4	639-643	dann	_	
+8-5	644-650	1,1875	_	
+8-6	651-652	m	_	
+8-7	653-656	pro	_	
+8-8	657-670	Fahrtrichtung	_	
+8-9	671-675	fast	_	
+8-10	676-681	schon	_	
+8-11	682-687	Luxus	_	
+8-12	687-688	.	_	
+
+#Text=Eigentlich gehört die Unterführung komplett neugebaut und verbreitert, aber bis sich mal jemand durchringt, dort zu handeln, wird man wohl bis zum St. Nimmerleinstag warten müssen.
+9-1	689-699	Eigentlich	_	
+9-2	700-706	gehört	_	
+9-3	707-710	die	_	
+9-4	711-723	Unterführung	_	
+9-5	724-732	komplett	_	
+9-6	733-742	neugebaut	_	
+9-7	743-746	und	_	
+9-8	747-758	verbreitert	_	
+9-9	758-759	,	_	
+9-10	760-764	aber	_	
+9-11	765-768	bis	_	
+9-12	769-773	sich	_	
+9-13	774-777	mal	_	
+9-14	778-784	jemand	_	
+9-15	785-795	durchringt	_	
+9-16	795-796	,	_	
+9-17	797-801	dort	_	
+9-18	802-804	zu	_	
+9-19	805-812	handeln	_	
+9-20	812-813	,	_	
+9-21	814-818	wird	_	
+9-22	819-822	man	_	
+9-23	823-827	wohl	_	
+9-24	828-831	bis	_	
+9-25	832-835	zum	_	
+9-26	836-838	St	_	
+9-27	838-839	.	_	
+9-28	840-854	Nimmerleinstag	_	
+9-29	855-861	warten	_	
+9-30	862-868	müssen	_	
+9-31	868-869	.	_	
+
+#Text=Ach ja, die Südunterführung ist keine Alternative.
+10-1	870-873	Ach	_	
+10-2	874-876	ja	_	
+10-3	876-877	,	_	
+10-4	878-881	die	*[14]	
+10-5	882-897	Südunterführung	*[14]	
+10-6	898-901	ist	_	
+10-7	902-907	keine	_	
+10-8	908-919	Alternative	_	
+10-9	919-920	.	_	
+
+#Text=Man gerät an deren nördlichen Ende auf einen chaotischen Busbahnhof und darf dort über seit 40 Jahren nicht mehr genutzten Straßenbahnschienen schlittern.
+11-1	921-924	Man	_	
+11-2	925-930	gerät	_	
+11-3	931-933	an	_	
+11-4	934-939	deren	_	
+11-5	940-950	nördlichen	_	
+11-6	951-955	Ende	_	
+11-7	956-959	auf	_	
+11-8	960-965	einen	_	
+11-9	966-977	chaotischen	_	
+11-10	978-988	Busbahnhof	*	
+11-11	989-992	und	_	
+11-12	993-997	darf	_	
+11-13	998-1002	dort	_	
+11-14	1003-1007	über	_	
+11-15	1008-1012	seit	_	
+11-16	1013-1015	40	_	
+11-17	1016-1022	Jahren	_	
+11-18	1023-1028	nicht	_	
+11-19	1029-1033	mehr	_	
+11-20	1034-1043	genutzten	_	
+11-21	1044-1063	Straßenbahnschienen	_	
+11-22	1064-1074	schlittern	_	
+11-23	1074-1075	.	_	
+
+#Text=Mir ist auch nicht ersichtlich, wie soll man von dort Richtung Hofgarten und Rhein kommen soll.
+12-1	1076-1079	Mir	_	
+12-2	1080-1083	ist	_	
+12-3	1084-1088	auch	_	
+12-4	1089-1094	nicht	_	
+12-5	1095-1106	ersichtlich	_	
+12-6	1106-1107	,	_	
+12-7	1108-1111	wie	_	
+12-8	1112-1116	soll	_	
+12-9	1117-1120	man	_	
+12-10	1121-1124	von	_	
+12-11	1125-1129	dort	_	
+12-12	1130-1138	Richtung	*[15]	
+12-13	1139-1148	Hofgarten	*[15]	
+12-14	1149-1152	und	*[15]	
+12-15	1153-1158	Rhein	*[15]	
+12-16	1159-1165	kommen	_	
+12-17	1166-1170	soll	_	
+12-18	1170-1171	.	_	

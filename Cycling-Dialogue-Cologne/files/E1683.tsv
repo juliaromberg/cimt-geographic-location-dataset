@@ -1,0 +1,71 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radverkehrsführung Karl-Bosch-Straße
+1-1	0-18	Radverkehrsführung	_	
+1-2	19-36	Karl-Bosch-Straße	*	
+
+#Text=Die Führung des Radverkehrs auf einem schmalen Holperpflasterradweg auf dem Bürgersteig in beide Richtungen ist bei dem geringen Kfz-Verkehrsaufkommens nicht nachzuvollziehen.
+2-1	39-42	Die	_	
+2-2	43-50	Führung	_	
+2-3	51-54	des	_	
+2-4	55-66	Radverkehrs	_	
+2-5	67-70	auf	_	
+2-6	71-76	einem	_	
+2-7	77-85	schmalen	_	
+2-8	86-106	Holperpflasterradweg	_	
+2-9	107-110	auf	_	
+2-10	111-114	dem	_	
+2-11	115-126	Bürgersteig	_	
+2-12	127-129	in	_	
+2-13	130-135	beide	_	
+2-14	136-146	Richtungen	_	
+2-15	147-150	ist	_	
+2-16	151-154	bei	_	
+2-17	155-158	dem	_	
+2-18	159-167	geringen	_	
+2-19	168-190	Kfz-Verkehrsaufkommens	_	
+2-20	191-196	nicht	_	
+2-21	197-213	nachzuvollziehen	_	
+2-22	213-214	.	_	
+
+#Text=Warum verlegt man den Radverkehr nicht auf die Straße (mit Freigabe der Einbahnstraße für den Radverkehr), verbreitert diese um die Hälfte des alten Radwegs und schlägt die andere Hälfte dem Fußweg zu?
+3-1	215-220	Warum	_	
+3-2	221-228	verlegt	_	
+3-3	229-232	man	_	
+3-4	233-236	den	_	
+3-5	237-247	Radverkehr	_	
+3-6	248-253	nicht	_	
+3-7	254-257	auf	_	
+3-8	258-261	die	_	
+3-9	262-268	Straße	_	
+3-10	269-270	(	_	
+3-11	270-273	mit	_	
+3-12	274-282	Freigabe	_	
+3-13	283-286	der	_	
+3-14	287-300	Einbahnstraße	_	
+3-15	301-304	für	_	
+3-16	305-308	den	_	
+3-17	309-319	Radverkehr	_	
+3-18	319-320	)	_	
+3-19	320-321	,	_	
+3-20	322-333	verbreitert	_	
+3-21	334-339	diese	_	
+3-22	340-342	um	_	
+3-23	343-346	die	_	
+3-24	347-353	Hälfte	_	
+3-25	354-357	des	_	
+3-26	358-363	alten	_	
+3-27	364-371	Radwegs	_	
+3-28	372-375	und	_	
+3-29	376-383	schlägt	_	
+3-30	384-387	die	_	
+3-31	388-394	andere	_	
+3-32	395-401	Hälfte	_	
+3-33	402-405	dem	_	
+3-34	406-412	Fußweg	_	
+3-35	413-415	zu	_	
+3-36	415-416	?	_	

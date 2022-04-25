@@ -1,0 +1,123 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schwelle glätten
+1-1	0-8	Schwelle	_	
+1-2	9-16	glätten	_	
+
+#Text=Der Steinweg ist eine der Hauptverbindungen aus Lessenich in Richtung Bonn.
+2-1	19-22	Der	*[7]	
+2-2	23-31	Steinweg	*[7]	
+2-3	32-35	ist	_	
+2-4	36-40	eine	_	
+2-5	41-44	der	_	
+2-6	45-62	Hauptverbindungen	_	
+2-7	63-66	aus	*[8]	
+2-8	67-76	Lessenich	*[8]	
+2-9	77-79	in	*[8]	
+2-10	80-88	Richtung	*[8]	
+2-11	89-93	Bonn	*[8]	
+2-12	93-94	.	_	
+
+#Text=An dieser Stelle ist die gesamt Kreuzung ein Tempo 30-Buckel mit Schwellen, die für Fahrradfahrer unangenehm zu fahren sind.
+3-1	95-97	An	_	
+3-2	98-104	dieser	_	
+3-3	105-111	Stelle	_	
+3-4	112-115	ist	_	
+3-5	116-119	die	_	
+3-6	120-126	gesamt	_	
+3-7	127-135	Kreuzung	_	
+3-8	136-139	ein	_	
+3-9	140-145	Tempo	_	
+3-10	146-148	30	_	
+3-11	148-149	-	_	
+3-12	149-155	Buckel	_	
+3-13	156-159	mit	_	
+3-14	160-169	Schwellen	_	
+3-15	169-170	,	_	
+3-16	171-174	die	_	
+3-17	175-178	für	_	
+3-18	179-192	Fahrradfahrer	_	
+3-19	193-203	unangenehm	_	
+3-20	204-206	zu	_	
+3-21	207-213	fahren	_	
+3-22	214-218	sind	_	
+3-23	218-219	.	_	
+
+#Text=Jene auf dem Steinweg sollte in beiden Richtungen an der Seite für Fahrradfahrer geglättet werden.
+4-1	220-224	Jene	_	
+4-2	225-228	auf	_	
+4-3	229-232	dem	_	
+4-4	233-241	Steinweg	_	
+4-5	242-248	sollte	_	
+4-6	249-251	in	_	
+4-7	252-258	beiden	_	
+4-8	259-269	Richtungen	_	
+4-9	270-272	an	_	
+4-10	273-276	der	_	
+4-11	277-282	Seite	_	
+4-12	283-286	für	_	
+4-13	287-300	Fahrradfahrer	_	
+4-14	301-310	geglättet	_	
+4-15	311-317	werden	_	
+4-16	317-318	.	_	
+
+#Text=Da entlang des Steinwegs die Autos ohnehin keine großen Geschwindigkeiten fahren, könnte auch auf der gesamten Breite der Buckel geglättet werden, mindestens aber auf beiden Seite jeweils etwas mehr als die Breite eines Fahrradanhängers.
+5-1	319-321	Da	_	
+5-2	322-329	entlang	_	
+5-3	330-333	des	_	
+5-4	334-343	Steinwegs	_	
+5-5	344-347	die	_	
+5-6	348-353	Autos	_	
+5-7	354-361	ohnehin	_	
+5-8	362-367	keine	_	
+5-9	368-374	großen	_	
+5-10	375-392	Geschwindigkeiten	_	
+5-11	393-399	fahren	_	
+5-12	399-400	,	_	
+5-13	401-407	könnte	_	
+5-14	408-412	auch	_	
+5-15	413-416	auf	_	
+5-16	417-420	der	_	
+5-17	421-429	gesamten	_	
+5-18	430-436	Breite	_	
+5-19	437-440	der	_	
+5-20	441-447	Buckel	_	
+5-21	448-457	geglättet	_	
+5-22	458-464	werden	_	
+5-23	464-465	,	_	
+5-24	466-476	mindestens	_	
+5-25	477-481	aber	_	
+5-26	482-485	auf	_	
+5-27	486-492	beiden	_	
+5-28	493-498	Seite	_	
+5-29	499-506	jeweils	_	
+5-30	507-512	etwas	_	
+5-31	513-517	mehr	_	
+5-32	518-521	als	_	
+5-33	522-525	die	_	
+5-34	526-532	Breite	_	
+5-35	533-538	eines	_	
+5-36	539-555	Fahrradanhängers	_	
+5-37	555-556	.	_	
+
+#Text=Der Buckel in der Erich-Hoffmann-Str.sollte erhalten bleiben, um die von dort kommenden Autos abzubremsen.
+6-1	557-560	Der	_	
+6-2	561-567	Buckel	_	
+6-3	568-570	in	*[9]	
+6-4	571-574	der	*[9]	
+6-5	575-600	Erich-Hoffmann-Str.sollte	*[9]	
+6-6	601-609	erhalten	_	
+6-7	610-617	bleiben	_	
+6-8	617-618	,	_	
+6-9	619-621	um	_	
+6-10	622-625	die	_	
+6-11	626-629	von	_	
+6-12	630-634	dort	_	
+6-13	635-644	kommenden	_	
+6-14	645-650	Autos	_	
+6-15	651-662	abzubremsen	_	
+6-16	662-663	.	_	

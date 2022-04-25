@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradabstellflächen
+1-1	0-21	Fahrradabstellflächen	_	
+
+#Text=In der Innenstadt (an den Eingängen zur Fußgängerzone/Hauptbahnhof) fehlen ausreichende und sichere Stellplätze für Fahrräder.
+2-1	24-26	In	*[2]	
+2-2	27-30	der	*[2]	
+2-3	31-41	Innenstadt	*[2]	
+2-4	42-43	(	*[2]	
+2-5	43-45	an	*[2]	
+2-6	46-49	den	*[2]	
+2-7	50-59	Eingängen	*[2]	
+2-8	60-63	zur	*[2]	
+2-9	64-77	Fußgängerzone	*[2]	
+2-10	77-78	/	*[2]	
+2-11	78-90	Hauptbahnhof	*[2]	
+2-12	90-91	)	*[2]	
+2-13	92-98	fehlen	_	
+2-14	99-111	ausreichende	_	
+2-15	112-115	und	_	
+2-16	116-123	sichere	_	
+2-17	124-135	Stellplätze	_	
+2-18	136-139	für	_	
+2-19	140-149	Fahrräder	_	
+2-20	149-150	.	_	

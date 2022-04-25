@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bonn für PKW sperren
+1-1	0-4	Bonn	*	
+1-2	5-8	für	_	
+1-3	9-12	PKW	_	
+1-4	13-20	sperren	_	
+
+#Text=In Bonn sollte nur ÖPNV fahren.
+2-1	23-25	In	_	
+2-2	26-30	Bonn	*	
+2-3	31-37	sollte	_	
+2-4	38-41	nur	_	
+2-5	42-46	ÖPNV	_	
+2-6	47-53	fahren	_	
+2-7	53-54	.	_	
+
+#Text=Der individuelle PKW-Verkehr sollte draußen bleiben (ab Kaiser-Karl-Ring/Hochstadenring bis zum Rhein?); Bonn ist viel zu eng für PKW neben dem ÖPNV.
+3-1	55-58	Der	_	
+3-2	59-71	individuelle	_	
+3-3	72-83	PKW-Verkehr	_	
+3-4	84-90	sollte	_	
+3-5	91-98	draußen	_	
+3-6	99-106	bleiben	_	
+3-7	107-108	(	_	
+3-8	108-110	ab	*[6]	
+3-9	111-127	Kaiser-Karl-Ring	*[6]	
+3-10	127-128	/	*[6]	
+3-11	128-142	Hochstadenring	*[6]	
+3-12	143-146	bis	*[6]	
+3-13	147-150	zum	*[6]	
+3-14	151-156	Rhein	*[6]	
+3-15	156-157	?	_	
+3-16	157-158	)	_	
+3-17	158-159	;	_	
+3-18	160-164	Bonn	*	
+3-19	165-168	ist	_	
+3-20	169-173	viel	_	
+3-21	174-176	zu	_	
+3-22	177-180	eng	_	
+3-23	181-184	für	_	
+3-24	185-188	PKW	_	
+3-25	189-194	neben	_	
+3-26	195-198	dem	_	
+3-27	199-203	ÖPNV	_	
+3-28	203-204	.	_	
+
+#Text=ÖPNV ausbauen und attraktiver machen!
+4-1	205-209	ÖPNV	_	
+4-2	210-218	ausbauen	_	
+4-3	219-222	und	_	
+4-4	223-234	attraktiver	_	
+4-5	235-241	machen	_	
+4-6	241-242	!	_	
+
+#Text=Seid mal mutig!
+5-1	243-247	Seid	_	
+5-2	248-251	mal	_	
+5-3	252-257	mutig	_	
+5-4	257-258	!	_	

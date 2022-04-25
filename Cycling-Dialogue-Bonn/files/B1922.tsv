@@ -1,0 +1,84 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Discounter-Ausfahrt
+1-1	0-11	Gefährliche	_	
+1-2	12-31	Discounter-Ausfahrt	_	
+
+#Text=Hier kommt es regelmäßig zu Beinahe-Zusammenstößen mit Autos, die auf den Netto Parkplatz fahren, oder diesen verlassen möchten.
+2-1	34-38	Hier	_	
+2-2	39-44	kommt	_	
+2-3	45-47	es	_	
+2-4	48-58	regelmäßig	_	
+2-5	59-61	zu	_	
+2-6	62-84	Beinahe-Zusammenstößen	_	
+2-7	85-88	mit	_	
+2-8	89-94	Autos	_	
+2-9	94-95	,	_	
+2-10	96-99	die	_	
+2-11	100-103	auf	_	
+2-12	104-107	den	_	
+2-13	108-113	Netto	_	
+2-14	114-123	Parkplatz	_	
+2-15	124-130	fahren	_	
+2-16	130-131	,	_	
+2-17	132-136	oder	_	
+2-18	137-143	diesen	_	
+2-19	144-153	verlassen	_	
+2-20	154-161	möchten	_	
+2-21	161-162	.	_	
+
+#Text=Besonders gefährlich ist die Situation, wenn durch den an wenigen Wochentagen an der Stelle parkenden Hähnchenverkäufer die Sicht an dieser Zufahrt versperrt ist.
+3-1	163-172	Besonders	_	
+3-2	173-183	gefährlich	_	
+3-3	184-187	ist	_	
+3-4	188-191	die	_	
+3-5	192-201	Situation	_	
+3-6	201-202	,	_	
+3-7	203-207	wenn	_	
+3-8	208-213	durch	_	
+3-9	214-217	den	_	
+3-10	218-220	an	_	
+3-11	221-228	wenigen	_	
+3-12	229-240	Wochentagen	_	
+3-13	241-243	an	_	
+3-14	244-247	der	_	
+3-15	248-254	Stelle	_	
+3-16	255-264	parkenden	_	
+3-17	265-282	Hähnchenverkäufer	_	
+3-18	283-286	die	_	
+3-19	287-292	Sicht	_	
+3-20	293-295	an	_	
+3-21	296-302	dieser	_	
+3-22	303-310	Zufahrt	_	
+3-23	311-320	versperrt	_	
+3-24	321-324	ist	_	
+3-25	324-325	.	_	
+
+#Text=Mögliche Verbesserung: Radstreifen farblich besonders hervorheben und gegebenenfalls Hinweissschilder aufstellen.
+4-1	326-334	Mögliche	_	
+4-2	335-347	Verbesserung	_	
+4-3	347-348	:	_	
+4-4	349-360	Radstreifen	_	
+4-5	361-369	farblich	_	
+4-6	370-379	besonders	_	
+4-7	380-391	hervorheben	_	
+4-8	392-395	und	_	
+4-9	396-410	gegebenenfalls	_	
+4-10	411-427	Hinweissschilder	_	
+4-11	428-438	aufstellen	_	
+4-12	438-439	.	_	
+
+#Text=Das Parken in unmittelbarer Nähe zur Ausfahrt verbieten.
+5-1	440-443	Das	_	
+5-2	444-450	Parken	_	
+5-3	451-453	in	_	
+5-4	454-467	unmittelbarer	_	
+5-5	468-472	Nähe	_	
+5-6	473-476	zur	_	
+5-7	477-485	Ausfahrt	_	
+5-8	486-495	verbieten	_	
+5-9	495-496	.	_	

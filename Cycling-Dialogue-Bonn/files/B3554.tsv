@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Füßgängerüberweg: Hier bitte auch Vorfahrt für Radfahrer
+1-1	0-16	Füßgängerüberweg	_	
+1-2	16-17	:	_	
+1-3	18-22	Hier	_	
+1-4	23-28	bitte	_	
+1-5	29-33	auch	_	
+1-6	34-42	Vorfahrt	_	
+1-7	43-46	für	_	
+1-8	47-56	Radfahrer	_	
+
+#Text=Der Zebrastreifen sollte auch Radfahrer*innen (,die auf ihrem Fahrrad sitzen und fahren,) die Vorfahrt geben.
+2-1	59-62	Der	_	
+2-2	63-76	Zebrastreifen	_	
+2-3	77-83	sollte	_	
+2-4	84-88	auch	_	
+2-5	89-98	Radfahrer	_	
+2-6	98-99	*	_	
+2-7	99-104	innen	_	
+2-8	105-106	(	_	
+2-9	106-107	,	_	
+2-10	107-110	die	_	
+2-11	111-114	auf	_	
+2-12	115-120	ihrem	_	
+2-13	121-128	Fahrrad	_	
+2-14	129-135	sitzen	_	
+2-15	136-139	und	_	
+2-16	140-146	fahren	_	
+2-17	146-147	,	_	
+2-18	147-148	)	_	
+2-19	149-152	die	_	
+2-20	153-161	Vorfahrt	_	
+2-21	162-167	geben	_	
+2-22	167-168	.	_	
+
+#Text=Dazu wäre wahrscheinlich eine zusätzliche Straßenbemalung erforderlich.
+3-1	169-173	Dazu	_	
+3-2	174-178	wäre	_	
+3-3	179-193	wahrscheinlich	_	
+3-4	194-198	eine	_	
+3-5	199-210	zusätzliche	_	
+3-6	211-226	Straßenbemalung	_	
+3-7	227-239	erforderlich	_	
+3-8	239-240	.	_	

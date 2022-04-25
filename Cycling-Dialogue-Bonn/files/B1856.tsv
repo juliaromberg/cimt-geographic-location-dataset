@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rote Markierung auf Bürgersteig
+1-1	0-4	Rote	_	
+1-2	5-15	Markierung	_	
+1-3	16-19	auf	_	
+1-4	20-31	Bürgersteig	_	
+
+#Text=Die Einfahrten Godesberger Str. 51a und 57 werden häufig von Autofahrern, die von Süden aus dem Tunnel kommen und im Stau stehen, zum Wenden genutzt.
+2-1	34-37	Die	*[5]	
+2-2	38-48	Einfahrten	*[5]	
+2-3	49-60	Godesberger	*[5]	
+2-4	61-64	Str	*[5]	
+2-5	64-65	.	*[5]	
+2-6	66-69	51a	*[5]	
+2-7	70-73	und	*[5]	
+2-8	74-76	57	*[5]	
+2-9	77-83	werden	_	
+2-10	84-90	häufig	_	
+2-11	91-94	von	_	
+2-12	95-106	Autofahrern	_	
+2-13	106-107	,	_	
+2-14	108-111	die	_	
+2-15	112-115	von	_	
+2-16	116-121	Süden	_	
+2-17	122-125	aus	_	
+2-18	126-129	dem	_	
+2-19	130-136	Tunnel	_	
+2-20	137-143	kommen	_	
+2-21	144-147	und	_	
+2-22	148-150	im	_	
+2-23	151-155	Stau	_	
+2-24	156-162	stehen	_	
+2-25	162-163	,	_	
+2-26	164-167	zum	_	
+2-27	168-174	Wenden	_	
+2-28	175-182	genutzt	_	
+2-29	182-183	.	_	
+
+#Text=Dadurch sehr gefährliche Situationen, die durch rote Markierungen auf dem Radweg etwas entschärft werden könnten.
+3-1	184-191	Dadurch	_	
+3-2	192-196	sehr	_	
+3-3	197-208	gefährliche	_	
+3-4	209-220	Situationen	_	
+3-5	220-221	,	_	
+3-6	222-225	die	_	
+3-7	226-231	durch	_	
+3-8	232-236	rote	_	
+3-9	237-249	Markierungen	_	
+3-10	250-253	auf	_	
+3-11	254-257	dem	_	
+3-12	258-264	Radweg	_	
+3-13	265-270	etwas	_	
+3-14	271-281	entschärft	_	
+3-15	282-288	werden	_	
+3-16	289-296	könnten	_	
+3-17	296-297	.	_	
+
+#Text=Die Markierungen gibt es schon bei Obi und bei den südlicheren Einfahrten.
+4-1	298-301	Die	_	
+4-2	302-314	Markierungen	_	
+4-3	315-319	gibt	_	
+4-4	320-322	es	_	
+4-5	323-328	schon	_	
+4-6	329-332	bei	_	
+4-7	333-336	Obi	_	
+4-8	337-340	und	_	
+4-9	341-344	bei	_	
+4-10	345-348	den	_	
+4-11	349-360	südlicheren	_	
+4-12	361-371	Einfahrten	_	
+4-13	371-372	.	_	

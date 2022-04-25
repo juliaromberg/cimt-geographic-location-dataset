@@ -1,0 +1,108 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradständer
+1-1	0-14	Fahrradständer	_	
+
+#Text=Auf der Straße gibt es zahlreiche Einkaufsmöglichkeiten, Bäckerein und Cafés, jedoch komplett keine Fahrradabstellmöglichkeiten.
+2-1	17-20	Auf	_	
+2-2	21-24	der	_	
+2-3	25-31	Straße	_	
+2-4	32-36	gibt	_	
+2-5	37-39	es	_	
+2-6	40-50	zahlreiche	_	
+2-7	51-72	Einkaufsmöglichkeiten	_	
+2-8	72-73	,	_	
+2-9	74-83	Bäckerein	_	
+2-10	84-87	und	_	
+2-11	88-93	Cafés	_	
+2-12	93-94	,	_	
+2-13	95-101	jedoch	_	
+2-14	102-110	komplett	_	
+2-15	111-116	keine	_	
+2-16	117-144	Fahrradabstellmöglichkeiten	_	
+2-17	144-145	.	_	
+
+#Text=Ich würde mich sehr freuen, wenn es einen Bereich gibt, in dem man sicher sein Fahrrad abstellen kann.
+3-1	146-149	Ich	_	
+3-2	150-155	würde	_	
+3-3	156-160	mich	_	
+3-4	161-165	sehr	_	
+3-5	166-172	freuen	_	
+3-6	172-173	,	_	
+3-7	174-178	wenn	_	
+3-8	179-181	es	_	
+3-9	182-187	einen	_	
+3-10	188-195	Bereich	_	
+3-11	196-200	gibt	_	
+3-12	200-201	,	_	
+3-13	202-204	in	_	
+3-14	205-208	dem	_	
+3-15	209-212	man	_	
+3-16	213-219	sicher	_	
+3-17	220-224	sein	_	
+3-18	225-232	Fahrrad	_	
+3-19	233-242	abstellen	_	
+3-20	243-247	kann	_	
+3-21	247-248	.	_	
+
+#Text=Derzeit stehen Fahrräder beim Supermarkt* (diese Fahrradständer sind mE jedoch keiner Erwähnung wert, da fliegen ein paar Metallbügel herum) oder überall an Laternen oder anderen Säulen.
+4-1	249-256	Derzeit	_	
+4-2	257-263	stehen	_	
+4-3	264-273	Fahrräder	_	
+4-4	274-278	beim	_	
+4-5	279-289	Supermarkt	_	
+4-6	289-290	*	_	
+4-7	291-292	(	_	
+4-8	292-297	diese	_	
+4-9	298-312	Fahrradständer	_	
+4-10	313-317	sind	_	
+4-11	318-320	mE	_	
+4-12	321-327	jedoch	_	
+4-13	328-334	keiner	_	
+4-14	335-344	Erwähnung	_	
+4-15	345-349	wert	_	
+4-16	349-350	,	_	
+4-17	351-353	da	_	
+4-18	354-361	fliegen	_	
+4-19	362-365	ein	_	
+4-20	366-370	paar	_	
+4-21	371-382	Metallbügel	_	
+4-22	383-388	herum	_	
+4-23	388-389	)	_	
+4-24	390-394	oder	_	
+4-25	395-402	überall	_	
+4-26	403-405	an	_	
+4-27	406-414	Laternen	_	
+4-28	415-419	oder	_	
+4-29	420-427	anderen	_	
+4-30	428-434	Säulen	_	
+4-31	434-435	.	_	
+
+#Text=Das sorgt für noch mehr Unübersichtlichkeit und enge Stellen auf der ganzen Straße und den Fußwegen.
+5-1	436-439	Das	_	
+5-2	440-445	sorgt	_	
+5-3	446-449	für	_	
+5-4	450-454	noch	_	
+5-5	455-459	mehr	_	
+5-6	460-479	Unübersichtlichkeit	_	
+5-7	480-483	und	_	
+5-8	484-488	enge	_	
+5-9	489-496	Stellen	_	
+5-10	497-500	auf	_	
+5-11	501-504	der	_	
+5-12	505-511	ganzen	_	
+5-13	512-518	Straße	_	
+5-14	519-522	und	_	
+5-15	523-526	den	_	
+5-16	527-535	Fußwegen	_	
+5-17	535-536	.	_	
+
+#Text=*Änderung durch Moderation
+6-1	537-538	*	_	
+6-2	538-546	Änderung	_	
+6-3	547-552	durch	_	
+6-4	553-563	Moderation	_	

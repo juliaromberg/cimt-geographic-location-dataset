@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Feigabe Kaiserstraße für Radfahrer
+1-1	0-7	Feigabe	_	
+1-2	8-20	Kaiserstraße	*	
+1-3	21-24	für	_	
+1-4	25-34	Radfahrer	_	
+
+#Text=Der radweg entlang der bahmlinie ist zu schmal, insbesonder für Radfahrer mit Kinderanhänger.
+2-1	37-40	Der	_	
+2-2	41-47	radweg	_	
+2-3	48-55	entlang	_	
+2-4	56-59	der	_	
+2-5	60-69	bahmlinie	_	
+2-6	70-73	ist	_	
+2-7	74-76	zu	_	
+2-8	77-83	schmal	_	
+2-9	83-84	,	_	
+2-10	85-96	insbesonder	_	
+2-11	97-100	für	_	
+2-12	101-110	Radfahrer	_	
+2-13	111-114	mit	_	
+2-14	115-129	Kinderanhänger	_	
+2-15	129-130	.	_	
+
+#Text=Die Straße solle zur Fahrradstraße werden, die Busse sollten auf der Adenauerallee fahren, dies ist besser für die Anwohner!
+3-1	131-134	Die	_	
+3-2	135-141	Straße	_	
+3-3	142-147	solle	_	
+3-4	148-151	zur	_	
+3-5	152-165	Fahrradstraße	_	
+3-6	166-172	werden	_	
+3-7	172-173	,	_	
+3-8	174-177	die	_	
+3-9	178-183	Busse	_	
+3-10	184-191	sollten	_	
+3-11	192-195	auf	_	
+3-12	196-199	der	_	
+3-13	200-213	Adenauerallee	_	
+3-14	214-220	fahren	_	
+3-15	220-221	,	_	
+3-16	222-226	dies	_	
+3-17	227-230	ist	_	
+3-18	231-237	besser	_	
+3-19	238-241	für	_	
+3-20	242-245	die	_	
+3-21	246-254	Anwohner	_	
+3-22	254-255	!	_	

@@ -1,0 +1,160 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg nicht farblich gekennzeichnet, Touristen kreuzen den & laufen auf dem Radweg
+1-1	0-10	Fahrradweg	_	
+1-2	11-16	nicht	_	
+1-3	17-25	farblich	_	
+1-4	26-40	gekennzeichnet	_	
+1-5	40-41	,	_	
+1-6	42-51	Touristen	_	
+1-7	52-59	kreuzen	_	
+1-8	60-63	den	_	
+1-9	64-65	&	_	
+1-10	66-72	laufen	_	
+1-11	73-76	auf	_	
+1-12	77-80	dem	_	
+1-13	81-87	Radweg	_	
+
+#Text=Auf dem Hermann-Bleitbreu-Ufer gibt es einen breiten Radweg.
+2-1	90-93	Auf	*[9]	
+2-2	94-97	dem	*[9]	
+2-3	98-120	Hermann-Bleitbreu-Ufer	*[9]	
+2-4	121-125	gibt	_	
+2-5	126-128	es	_	
+2-6	129-134	einen	_	
+2-7	135-142	breiten	_	
+2-8	143-149	Radweg	_	
+2-9	149-150	.	_	
+
+#Text=Dies ist jedoch farblich nicht gekennzeichnet und es befinden sich auf keine blauen Radfahrlogos auf dem Boden.
+3-1	151-155	Dies	_	
+3-2	156-159	ist	_	
+3-3	160-166	jedoch	_	
+3-4	167-175	farblich	_	
+3-5	176-181	nicht	_	
+3-6	182-196	gekennzeichnet	_	
+3-7	197-200	und	_	
+3-8	201-203	es	_	
+3-9	204-212	befinden	_	
+3-10	213-217	sich	_	
+3-11	218-221	auf	_	
+3-12	222-227	keine	_	
+3-13	228-234	blauen	_	
+3-14	235-247	Radfahrlogos	_	
+3-15	248-251	auf	_	
+3-16	252-255	dem	_	
+3-17	256-261	Boden	_	
+3-18	261-262	.	_	
+
+#Text=Das führt dazu, das insbesondere Touristen oder kleine Kinder auf diesem Fahrradweg gehen oder ihn unbedarft kreuzen.
+4-1	263-266	Das	_	
+4-2	267-272	führt	_	
+4-3	273-277	dazu	_	
+4-4	277-278	,	_	
+4-5	279-282	das	_	
+4-6	283-295	insbesondere	_	
+4-7	296-305	Touristen	_	
+4-8	306-310	oder	_	
+4-9	311-317	kleine	_	
+4-10	318-324	Kinder	_	
+4-11	325-328	auf	_	
+4-12	329-335	diesem	_	
+4-13	336-346	Fahrradweg	_	
+4-14	347-352	gehen	_	
+4-15	353-357	oder	_	
+4-16	358-361	ihn	_	
+4-17	362-371	unbedarft	_	
+4-18	372-379	kreuzen	_	
+4-19	379-380	.	_	
+
+#Text=Und Touristen und Spaziergänger gibt es hier am Wochenende und abends tausende.
+5-1	381-384	Und	_	
+5-2	385-394	Touristen	_	
+5-3	395-398	und	_	
+5-4	399-412	Spaziergänger	_	
+5-5	413-417	gibt	_	
+5-6	418-420	es	_	
+5-7	421-425	hier	_	
+5-8	426-428	am	_	
+5-9	429-439	Wochenende	_	
+5-10	440-443	und	_	
+5-11	444-450	abends	_	
+5-12	451-459	tausende	_	
+5-13	459-460	.	_	
+
+#Text=Gefährlich wird es zudem immer, wenn Radfahrer aus Richtung Bonn kommen und durch die steile Abfahrt mit ca. 15 m Höhenunterschied danach mit hoher Geschwindigkeit auf den Radweg am Ufer fahren.
+6-1	461-471	Gefährlich	_	
+6-2	472-476	wird	_	
+6-3	477-479	es	_	
+6-4	480-485	zudem	_	
+6-5	486-491	immer	_	
+6-6	491-492	,	_	
+6-7	493-497	wenn	_	
+6-8	498-507	Radfahrer	_	
+6-9	508-511	aus	*[10]	
+6-10	512-520	Richtung	*[10]	
+6-11	521-525	Bonn	*[10]	
+6-12	526-532	kommen	_	
+6-13	533-536	und	_	
+6-14	537-542	durch	_	
+6-15	543-546	die	_	
+6-16	547-553	steile	_	
+6-17	554-561	Abfahrt	_	
+6-18	562-565	mit	_	
+6-19	566-568	ca	_	
+6-20	568-569	.	_	
+6-21	570-572	15	_	
+6-22	573-574	m	_	
+6-23	575-591	Höhenunterschied	_	
+6-24	592-598	danach	_	
+6-25	599-602	mit	_	
+6-26	603-608	hoher	_	
+6-27	609-624	Geschwindigkeit	_	
+6-28	625-628	auf	_	
+6-29	629-632	den	_	
+6-30	633-639	Radweg	_	
+6-31	640-642	am	_	
+6-32	643-647	Ufer	_	
+6-33	648-654	fahren	_	
+6-34	654-655	.	_	
+
+#Text=Insbesondere vom Kameha-Hotel gehen sehr häufig Touristen&Gäste - oder Kinder vom dortigen großen Kinderspielplatz - ohne auf Radfahrer zu achten auf den Radweg.
+7-1	656-668	Insbesondere	_	
+7-2	669-672	vom	*[11]	
+7-3	673-685	Kameha-Hotel	*[11]	
+7-4	686-691	gehen	_	
+7-5	692-696	sehr	_	
+7-6	697-703	häufig	_	
+7-7	704-713	Touristen	_	
+7-8	713-714	&	_	
+7-9	714-719	Gäste	_	
+7-10	720-721	-	_	
+7-11	722-726	oder	_	
+7-12	727-733	Kinder	_	
+7-13	734-737	vom	_	
+7-14	738-746	dortigen	_	
+7-15	747-753	großen	_	
+7-16	754-770	Kinderspielplatz	_	
+7-17	771-772	-	_	
+7-18	773-777	ohne	_	
+7-19	778-781	auf	_	
+7-20	782-791	Radfahrer	_	
+7-21	792-794	zu	_	
+7-22	795-801	achten	_	
+7-23	802-805	auf	_	
+7-24	806-809	den	_	
+7-25	810-816	Radweg	_	
+7-26	816-817	.	_	
+
+#Text=Dieser müsste hier farblich gekennzeichnet werden.
+8-1	818-824	Dieser	_	
+8-2	825-831	müsste	_	
+8-3	832-836	hier	_	
+8-4	837-845	farblich	_	
+8-5	846-860	gekennzeichnet	_	
+8-6	861-867	werden	_	
+8-7	867-868	.	_	

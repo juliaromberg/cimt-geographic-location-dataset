@@ -1,0 +1,28 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Asphalt-Löcher-Slalom
+1-1	0-21	Asphalt-Löcher-Slalom	_	
+
+#Text=Dieser Straßenabschnitt besteht nur aus Löchern.
+2-1	24-30	Dieser	_	
+2-2	31-47	Straßenabschnitt	_	
+2-3	48-55	besteht	_	
+2-4	56-59	nur	_	
+2-5	60-63	aus	_	
+2-6	64-71	Löchern	_	
+2-7	71-72	.	_	
+
+#Text=Fahrraddfahren bei Regen oder Schnee ist fast unmöglich.
+3-1	73-87	Fahrraddfahren	_	
+3-2	88-91	bei	_	
+3-3	92-97	Regen	_	
+3-4	98-102	oder	_	
+3-5	103-109	Schnee	_	
+3-6	110-113	ist	_	
+3-7	114-118	fast	_	
+3-8	119-128	unmöglich	_	
+3-9	128-129	.	_	

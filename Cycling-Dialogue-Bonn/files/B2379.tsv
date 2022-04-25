@@ -1,0 +1,47 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehr nicht sichtbar
+1-1	0-7	Verkehr	_	
+1-2	8-13	nicht	_	
+1-3	14-22	sichtbar	_	
+
+#Text=Bei der Ausfahrt aus den Garagen ist der von links aus dem Tunnel kommende Verkehr (Busse!) nicht sichtbar.
+2-1	25-28	Bei	_	
+2-2	29-32	der	_	
+2-3	33-41	Ausfahrt	_	
+2-4	42-45	aus	_	
+2-5	46-49	den	_	
+2-6	50-57	Garagen	_	
+2-7	58-61	ist	_	
+2-8	62-65	der	_	
+2-9	66-69	von	_	
+2-10	70-75	links	_	
+2-11	76-79	aus	_	
+2-12	80-83	dem	_	
+2-13	84-90	Tunnel	_	
+2-14	91-99	kommende	_	
+2-15	100-107	Verkehr	_	
+2-16	108-109	(	_	
+2-17	109-114	Busse	_	
+2-18	114-115	!	_	
+2-19	115-116	)	_	
+2-20	117-122	nicht	_	
+2-21	123-131	sichtbar	_	
+2-22	131-132	.	_	
+
+#Text=Das Zurückschneiden der Büsche würde ggf. schon Abhilfe schaffen.
+3-1	133-136	Das	_	
+3-2	137-152	Zurückschneiden	_	
+3-3	153-156	der	_	
+3-4	157-163	Büsche	_	
+3-5	164-169	würde	_	
+3-6	170-173	ggf	_	
+3-7	173-174	.	_	
+3-8	175-180	schon	_	
+3-9	181-188	Abhilfe	_	
+3-10	189-197	schaffen	_	
+3-11	197-198	.	_	

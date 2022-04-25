@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einmündung Baunscheidtstraße
+1-1	0-10	Einmündung	*[3]	
+1-2	11-28	Baunscheidtstraße	*[3]	
+
+#Text=Wenn man entlang der Marie-Kahle-Allee über die Einmündung Baunscheidtstraße fährt, wäre es vorteilhaft, wenn der Bürgersteig abgesenkt werden würde, oder ein Schutzstreifen entlang der Marie-Kahle-Allee vorgesehen wäre.
+2-1	31-35	Wenn	_	
+2-2	36-39	man	_	
+2-3	40-47	entlang	*[4]	
+2-4	48-51	der	*[4]	
+2-5	52-69	Marie-Kahle-Allee	*[4]	
+2-6	70-74	über	*[4]	
+2-7	75-78	die	*[4]	
+2-8	79-89	Einmündung	*[4]	
+2-9	90-107	Baunscheidtstraße	*[4]	
+2-10	108-113	fährt	_	
+2-11	113-114	,	_	
+2-12	115-119	wäre	_	
+2-13	120-122	es	_	
+2-14	123-134	vorteilhaft	_	
+2-15	134-135	,	_	
+2-16	136-140	wenn	_	
+2-17	141-144	der	_	
+2-18	145-156	Bürgersteig	_	
+2-19	157-166	abgesenkt	_	
+2-20	167-173	werden	_	
+2-21	174-179	würde	_	
+2-22	179-180	,	_	
+2-23	181-185	oder	_	
+2-24	186-189	ein	_	
+2-25	190-204	Schutzstreifen	_	
+2-26	205-212	entlang	*[5]	
+2-27	213-216	der	*[5]	
+2-28	217-234	Marie-Kahle-Allee	*[5]	
+2-29	235-245	vorgesehen	_	
+2-30	246-250	wäre	_	
+2-31	250-251	.	_	

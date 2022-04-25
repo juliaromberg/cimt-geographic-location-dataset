@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrbahn vor Ampelkreuzung ist in einem sehr schlechten Zustand
+1-1	0-8	Fahrbahn	_	
+1-2	9-12	vor	_	
+1-3	13-26	Ampelkreuzung	_	
+1-4	27-30	ist	_	
+1-5	31-33	in	_	
+1-6	34-39	einem	_	
+1-7	40-44	sehr	_	
+1-8	45-55	schlechten	_	
+1-9	56-63	Zustand	_	
+
+#Text=Kurz vor dem Ampel Ubierstr./Denglerstr. (Fahrtrichtung Rüngsdorf) ist die Fahrbahnqualität nur noch als unterirdisch zu bezeichnen.
+2-1	66-70	Kurz	*[5]	
+2-2	71-74	vor	*[5]	
+2-3	75-78	dem	*[5]	
+2-4	79-84	Ampel	*[5]	
+2-5	85-93	Ubierstr	*[5]	
+2-6	93-94	.	*[5]	
+2-7	94-95	/	*[5]	
+2-8	95-105	Denglerstr	*[5]	
+2-9	105-106	.	*[5]	
+2-10	107-108	(	*[5]	
+2-11	108-121	Fahrtrichtung	*[5]	
+2-12	122-131	Rüngsdorf	*[5]	
+2-13	131-132	)	*[5]	
+2-14	133-136	ist	_	
+2-15	137-140	die	_	
+2-16	141-157	Fahrbahnqualität	_	
+2-17	158-161	nur	_	
+2-18	162-166	noch	_	
+2-19	167-170	als	_	
+2-20	171-183	unterirdisch	_	
+2-21	184-186	zu	_	
+2-22	187-197	bezeichnen	_	
+2-23	197-198	.	_	
+
+#Text=Man muss aufpassen, dass einem die Schlaglöcher (sehr viele auf sehr engem Raum) nicht den Lenker aus der Hand schlagen.
+3-1	199-202	Man	_	
+3-2	203-207	muss	_	
+3-3	208-217	aufpassen	_	
+3-4	217-218	,	_	
+3-5	219-223	dass	_	
+3-6	224-229	einem	_	
+3-7	230-233	die	_	
+3-8	234-246	Schlaglöcher	_	
+3-9	247-248	(	_	
+3-10	248-252	sehr	_	
+3-11	253-258	viele	_	
+3-12	259-262	auf	_	
+3-13	263-267	sehr	_	
+3-14	268-273	engem	_	
+3-15	274-278	Raum	_	
+3-16	278-279	)	_	
+3-17	280-285	nicht	_	
+3-18	286-289	den	_	
+3-19	290-296	Lenker	_	
+3-20	297-300	aus	_	
+3-21	301-304	der	_	
+3-22	305-309	Hand	_	
+3-23	310-318	schlagen	_	
+3-24	318-319	.	_	
+
+#Text=Hier muss dringend die Fahrbahn saniert werden.
+4-1	320-324	Hier	_	
+4-2	325-329	muss	_	
+4-3	330-338	dringend	_	
+4-4	339-342	die	_	
+4-5	343-351	Fahrbahn	_	
+4-6	352-359	saniert	_	
+4-7	360-366	werden	_	
+4-8	366-367	.	_	

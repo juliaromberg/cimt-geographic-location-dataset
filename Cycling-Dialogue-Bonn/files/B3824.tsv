@@ -1,0 +1,95 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Parksituation
+1-1	0-11	Gefährliche	_	
+1-2	12-25	Parksituation	_	
+
+#Text=Werktags wird im Bereich der Kreuzung Sträßchensweg/Achim-von-Arnim Straße rücksichtslos gefährdend geparkt.
+2-1	28-36	Werktags	_	
+2-2	37-41	wird	_	
+2-3	42-44	im	_	
+2-4	45-52	Bereich	_	
+2-5	53-56	der	_	
+2-6	57-65	Kreuzung	*[6]	
+2-7	66-79	Sträßchensweg	*[6]	
+2-8	79-80	/	*[6]	
+2-9	80-95	Achim-von-Arnim	*[6]	
+2-10	96-102	Straße	*[6]	
+2-11	103-116	rücksichtslos	_	
+2-12	117-127	gefährdend	_	
+2-13	128-135	geparkt	_	
+2-14	135-136	.	_	
+
+#Text=Die Fahrzeuge stehen innerhalb der Kreuzung so dass das Abbiegen unübersichtlich und gefährlich wird da sich die Fahrbahnen für den fließenden Verkehr dann treffen wenn durch die parkenden Autos gefahren werden muss.
+3-1	137-140	Die	_	
+3-2	141-150	Fahrzeuge	_	
+3-3	151-157	stehen	_	
+3-4	158-167	innerhalb	_	
+3-5	168-171	der	_	
+3-6	172-180	Kreuzung	_	
+3-7	181-183	so	_	
+3-8	184-188	dass	_	
+3-9	189-192	das	_	
+3-10	193-201	Abbiegen	_	
+3-11	202-217	unübersichtlich	_	
+3-12	218-221	und	_	
+3-13	222-232	gefährlich	_	
+3-14	233-237	wird	_	
+3-15	238-240	da	_	
+3-16	241-245	sich	_	
+3-17	246-249	die	_	
+3-18	250-260	Fahrbahnen	_	
+3-19	261-264	für	_	
+3-20	265-268	den	_	
+3-21	269-279	fließenden	_	
+3-22	280-287	Verkehr	_	
+3-23	288-292	dann	_	
+3-24	293-300	treffen	_	
+3-25	301-305	wenn	_	
+3-26	306-311	durch	_	
+3-27	312-315	die	_	
+3-28	316-325	parkenden	_	
+3-29	326-331	Autos	_	
+3-30	332-340	gefahren	_	
+3-31	341-347	werden	_	
+3-32	348-352	muss	_	
+3-33	352-353	.	_	
+
+#Text=Teilweise wird auf den Fahrrad-/Bürgersteigen zu den beiden Brücken Richtung Rheinaue geparkt oder gewendet.
+4-1	354-363	Teilweise	_	
+4-2	364-368	wird	_	
+4-3	369-372	auf	_	
+4-4	373-376	den	_	
+4-5	377-384	Fahrrad	_	
+4-6	384-385	-	_	
+4-7	385-386	/	_	
+4-8	386-399	Bürgersteigen	_	
+4-9	400-402	zu	_	
+4-10	403-406	den	_	
+4-11	407-413	beiden	_	
+4-12	414-421	Brücken	_	
+4-13	422-430	Richtung	*[7]	
+4-14	431-439	Rheinaue	*[7]	
+4-15	440-447	geparkt	_	
+4-16	448-452	oder	_	
+4-17	453-461	gewendet	_	
+4-18	461-462	.	_	
+
+#Text=Durch eine große Anzahl Radfahrer und Fußgänger ist die Übersicht besonders wichtig.
+5-1	463-468	Durch	_	
+5-2	469-473	eine	_	
+5-3	474-479	große	_	
+5-4	480-486	Anzahl	_	
+5-5	487-496	Radfahrer	_	
+5-6	497-500	und	_	
+5-7	501-510	Fußgänger	_	
+5-8	511-514	ist	_	
+5-9	515-518	die	_	
+5-10	519-528	Übersicht	_	
+5-11	529-538	besonders	_	
+5-12	539-546	wichtig	_	
+5-13	546-547	.	_	

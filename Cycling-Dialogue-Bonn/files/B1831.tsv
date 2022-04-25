@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bremsschwellen
+1-1	0-14	Bremsschwellen	_	
+
+#Text=Die Bremsschwellen in der Adelheidisstraße bieten keine Möglichkeit sie als Radfahrer zu umfahren.
+2-1	17-20	Die	_	
+2-2	21-35	Bremsschwellen	_	
+2-3	36-38	in	*[3]	
+2-4	39-42	der	*[3]	
+2-5	43-59	Adelheidisstraße	*[3]	
+2-6	60-66	bieten	_	
+2-7	67-72	keine	_	
+2-8	73-84	Möglichkeit	_	
+2-9	85-88	sie	_	
+2-10	89-92	als	_	
+2-11	93-102	Radfahrer	_	
+2-12	103-105	zu	_	
+2-13	106-114	umfahren	_	
+2-14	114-115	.	_	
+
+#Text=Das macht das Fahren auf dieser Fahrradstraße nicht sehr angenehm.
+3-1	116-119	Das	_	
+3-2	120-125	macht	_	
+3-3	126-129	das	_	
+3-4	130-136	Fahren	_	
+3-5	137-140	auf	_	
+3-6	141-147	dieser	_	
+3-7	148-161	Fahrradstraße	_	
+3-8	162-167	nicht	_	
+3-9	168-172	sehr	_	
+3-10	173-181	angenehm	_	
+3-11	181-182	.	_	

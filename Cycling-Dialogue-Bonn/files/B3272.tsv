@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Verkehrsführung - Schutzstreifen unterbrochen
+1-1	0-11	Gefährliche	_	
+1-2	12-27	Verkehrsführung	_	
+1-3	28-29	-	_	
+1-4	30-44	Schutzstreifen	_	
+1-5	45-57	unterbrochen	_	
+
+#Text=In Höhe der Bushaltestelle / Verkehrsinsel ist die Verkehrsführung für Radfahrer(innen) extrem gefährlich, da hier der Fahrrad-Schutzstreifen unterbrochen ist.
+2-1	60-62	In	_	
+2-2	63-67	Höhe	_	
+2-3	68-71	der	_	
+2-4	72-86	Bushaltestelle	_	
+2-5	87-88	/	_	
+2-6	89-102	Verkehrsinsel	_	
+2-7	103-106	ist	_	
+2-8	107-110	die	_	
+2-9	111-126	Verkehrsführung	_	
+2-10	127-130	für	_	
+2-11	131-140	Radfahrer	_	
+2-12	140-141	(	_	
+2-13	141-146	innen	_	
+2-14	146-147	)	_	
+2-15	148-154	extrem	_	
+2-16	155-165	gefährlich	_	
+2-17	165-166	,	_	
+2-18	167-169	da	_	
+2-19	170-174	hier	_	
+2-20	175-178	der	_	
+2-21	179-201	Fahrrad-Schutzstreifen	_	
+2-22	202-214	unterbrochen	_	
+2-23	215-218	ist	_	
+2-24	218-219	.	_	
+
+#Text=Autofahrer(innen) versuchen einen noch vor der Verkehrsinsel zu überholen und schneiden einem den Weg ab oder versuchen auf Höhe der Verkehrsinsel zu überholen und unterschreiten den gesetzlich vorgeschriebenen Mindestabstand z.T. erheblich.
+3-1	220-230	Autofahrer	_	
+3-2	230-231	(	_	
+3-3	231-236	innen	_	
+3-4	236-237	)	_	
+3-5	238-247	versuchen	_	
+3-6	248-253	einen	_	
+3-7	254-258	noch	_	
+3-8	259-262	vor	_	
+3-9	263-266	der	_	
+3-10	267-280	Verkehrsinsel	_	
+3-11	281-283	zu	_	
+3-12	284-293	überholen	_	
+3-13	294-297	und	_	
+3-14	298-307	schneiden	_	
+3-15	308-313	einem	_	
+3-16	314-317	den	_	
+3-17	318-321	Weg	_	
+3-18	322-324	ab	_	
+3-19	325-329	oder	_	
+3-20	330-339	versuchen	_	
+3-21	340-343	auf	_	
+3-22	344-348	Höhe	_	
+3-23	349-352	der	_	
+3-24	353-366	Verkehrsinsel	_	
+3-25	367-369	zu	_	
+3-26	370-379	überholen	_	
+3-27	380-383	und	_	
+3-28	384-398	unterschreiten	_	
+3-29	399-402	den	_	
+3-30	403-413	gesetzlich	_	
+3-31	414-430	vorgeschriebenen	_	
+3-32	431-445	Mindestabstand	_	
+3-33	446-449	z.T	_	
+3-34	449-450	.	_	
+3-35	451-460	erheblich	_	
+3-36	460-461	.	_	

@@ -1,0 +1,119 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstrasse Feltenstraße
+1-1	0-14	Fahrradstrasse	*[7]	
+1-2	15-27	Feltenstraße	*[7]	
+
+#Text=Die Feltenstraße sollte von der Einmündung Sandweg bis Äussere Kanalstrasse als Fahrradstrasse ausgewiesen werden.
+2-1	30-33	Die	*[8]	
+2-2	34-46	Feltenstraße	*[8]	
+2-3	47-53	sollte	_	
+2-4	54-57	von	*[9]	
+2-5	58-61	der	*[9]	
+2-6	62-72	Einmündung	*[9]	
+2-7	73-80	Sandweg	*[9]	
+2-8	81-84	bis	*[9]	
+2-9	85-92	Äussere	*[9]	
+2-10	93-105	Kanalstrasse	*[9]	
+2-11	106-109	als	_	
+2-12	110-124	Fahrradstrasse	_	
+2-13	125-136	ausgewiesen	_	
+2-14	137-143	werden	_	
+2-15	143-144	.	_	
+
+#Text=Die Strasse ist bereit genug und auch jetzt schon eine Anlieger Strasse, also keine Durchgangsstrasse.
+3-1	145-148	Die	_	
+3-2	149-156	Strasse	_	
+3-3	157-160	ist	_	
+3-4	161-167	bereit	_	
+3-5	168-173	genug	_	
+3-6	174-177	und	_	
+3-7	178-182	auch	_	
+3-8	183-188	jetzt	_	
+3-9	189-194	schon	_	
+3-10	195-199	eine	_	
+3-11	200-208	Anlieger	_	
+3-12	209-216	Strasse	_	
+3-13	216-217	,	_	
+3-14	218-222	also	_	
+3-15	223-228	keine	_	
+3-16	229-246	Durchgangsstrasse	_	
+3-17	246-247	.	_	
+
+#Text=Die aktuelle Einbahnregelung für KFZ kann dann entfernen.
+4-1	248-251	Die	_	
+4-2	252-260	aktuelle	_	
+4-3	261-276	Einbahnregelung	_	
+4-4	277-280	für	_	
+4-5	281-284	KFZ	_	
+4-6	285-289	kann	_	
+4-7	290-294	dann	_	
+4-8	295-304	entfernen	_	
+4-9	304-305	.	_	
+
+#Text=Als Fahrradstrasse bittet die Feltenstraße eine gute Alternative zur stark befahrenen Subbelrather Straße, die auch in diesem Bereich nur schlechte und unsichere Radwege bietet.
+5-1	306-309	Als	_	
+5-2	310-324	Fahrradstrasse	_	
+5-3	325-331	bittet	_	
+5-4	332-335	die	*[10]	
+5-5	336-348	Feltenstraße	*[10]	
+5-6	349-353	eine	_	
+5-7	354-358	gute	_	
+5-8	359-370	Alternative	_	
+5-9	371-374	zur	_	
+5-10	375-380	stark	_	
+5-11	381-391	befahrenen	_	
+5-12	392-404	Subbelrather	*[11]	
+5-13	405-411	Straße	*[11]	
+5-14	411-412	,	_	
+5-15	413-416	die	_	
+5-16	417-421	auch	_	
+5-17	422-424	in	_	
+5-18	425-431	diesem	_	
+5-19	432-439	Bereich	_	
+5-20	440-443	nur	_	
+5-21	444-453	schlechte	_	
+5-22	454-457	und	_	
+5-23	458-467	unsichere	_	
+5-24	468-475	Radwege	_	
+5-25	476-482	bietet	_	
+5-26	482-483	.	_	
+
+#Text=Über diesen Weg ist es dann, nach Querung der Äusseren Kanalstrasse möglich durch den Rochuspark und die Dechenstrasse das Quartier rund um die Landmannstrasse und Lenauplatz einfach und konfliktfrei zu erreichen.
+6-1	484-488	Über	_	
+6-2	489-495	diesen	_	
+6-3	496-499	Weg	_	
+6-4	500-503	ist	_	
+6-5	504-506	es	_	
+6-6	507-511	dann	_	
+6-7	511-512	,	_	
+6-8	513-517	nach	*[12]	
+6-9	518-525	Querung	*[12]	
+6-10	526-529	der	*[12]	
+6-11	530-538	Äusseren	*[12]	
+6-12	539-551	Kanalstrasse	*[12]	
+6-13	552-559	möglich	_	
+6-14	560-565	durch	*[13]	
+6-15	566-569	den	*[13]	
+6-16	570-580	Rochuspark	*[13]	
+6-17	581-584	und	*[13]	
+6-18	585-588	die	*[13]	
+6-19	589-602	Dechenstrasse	*[13]	
+6-20	603-606	das	*[13]	
+6-21	607-615	Quartier	*[13]	
+6-22	616-620	rund	*[13]	
+6-23	621-623	um	*[13]	
+6-24	624-627	die	*[13]	
+6-25	628-643	Landmannstrasse	*[13]	
+6-26	644-647	und	*[13]	
+6-27	648-658	Lenauplatz	*[13]	
+6-28	659-666	einfach	_	
+6-29	667-670	und	_	
+6-30	671-683	konfliktfrei	_	
+6-31	684-686	zu	_	
+6-32	687-696	erreichen	_	
+6-33	696-697	.	_	

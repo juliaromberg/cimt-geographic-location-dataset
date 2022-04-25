@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radstreifen täglich zugeparkt
+1-1	0-11	Radstreifen	_	
+1-2	12-19	täglich	_	
+1-3	20-29	zugeparkt	_	
+
+#Text=Durch Kunden des griech. Imbiß und der Bäckerei Gilgens ist der Radstreifen (eigentlich deshalb schon Parkverbot) täglich durch zahlreiche Autos zugeparkt.
+2-1	32-37	Durch	_	
+2-2	38-44	Kunden	_	
+2-3	45-48	des	_	
+2-4	49-55	griech	*[5]	
+2-5	55-56	.	*[5]	
+2-6	57-62	Imbiß	*[5]	
+2-7	63-66	und	*[5]	
+2-8	67-70	der	*[5]	
+2-9	71-79	Bäckerei	*[5]	
+2-10	80-87	Gilgens	*[5]	
+2-11	88-91	ist	_	
+2-12	92-95	der	_	
+2-13	96-107	Radstreifen	_	
+2-14	108-109	(	_	
+2-15	109-119	eigentlich	_	
+2-16	120-127	deshalb	_	
+2-17	128-133	schon	_	
+2-18	134-144	Parkverbot	_	
+2-19	144-145	)	_	
+2-20	146-153	täglich	_	
+2-21	154-159	durch	_	
+2-22	160-170	zahlreiche	_	
+2-23	171-176	Autos	_	
+2-24	177-186	zugeparkt	_	
+2-25	186-187	.	_	
+
+#Text=Im Bereich der Ampelkreuzung mit engen Fahrspuren und leicht ansteigender Straße Richtung Ennert ist das für Radfahrer nicht akzeptabel.
+3-1	188-190	Im	_	
+3-2	191-198	Bereich	_	
+3-3	199-202	der	_	
+3-4	203-216	Ampelkreuzung	_	
+3-5	217-220	mit	_	
+3-6	221-226	engen	_	
+3-7	227-237	Fahrspuren	_	
+3-8	238-241	und	_	
+3-9	242-248	leicht	_	
+3-10	249-261	ansteigender	_	
+3-11	262-268	Straße	_	
+3-12	269-277	Richtung	*[6]	
+3-13	278-284	Ennert	*[6]	
+3-14	285-288	ist	_	
+3-15	289-292	das	_	
+3-16	293-296	für	_	
+3-17	297-306	Radfahrer	_	
+3-18	307-312	nicht	_	
+3-19	313-323	akzeptabel	_	
+3-20	323-324	.	_	
+
+#Text=Vorschlag: absolutes Halteverbot ausschildern, Einfluß auf Gewerbebetriebe nehmen, Kontrollen durch Verkehrsaufsicht erhöhen.
+4-1	325-334	Vorschlag	_	
+4-2	334-335	:	_	
+4-3	336-345	absolutes	_	
+4-4	346-357	Halteverbot	_	
+4-5	358-370	ausschildern	_	
+4-6	370-371	,	_	
+4-7	372-379	Einfluß	_	
+4-8	380-383	auf	_	
+4-9	384-399	Gewerbebetriebe	_	
+4-10	400-406	nehmen	_	
+4-11	406-407	,	_	
+4-12	408-418	Kontrollen	_	
+4-13	419-424	durch	_	
+4-14	425-441	Verkehrsaufsicht	_	
+4-15	442-449	erhöhen	_	
+4-16	449-450	.	_	

@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beidseitige Befahrungsmöglichkeit prüfen
+1-1	0-11	Beidseitige	_	
+1-2	12-33	Befahrungsmöglichkeit	_	
+1-3	34-40	prüfen	_	
+
+#Text=An vielen Stellen ist beidseitiges Befahren des Geh/Radweges möglich, von Platz her ist hier an der Kölnstrasse genausoviel Platz, wie auf der Kennedy-Brücke wo auch Fußgänger und beidseitige Benutzung erlaubt ist.
+2-1	43-45	An	_	
+2-2	46-52	vielen	_	
+2-3	53-60	Stellen	_	
+2-4	61-64	ist	_	
+2-5	65-77	beidseitiges	_	
+2-6	78-86	Befahren	_	
+2-7	87-90	des	_	
+2-8	91-94	Geh	_	
+2-9	94-95	/	_	
+2-10	95-103	Radweges	_	
+2-11	104-111	möglich	_	
+2-12	111-112	,	_	
+2-13	113-116	von	_	
+2-14	117-122	Platz	_	
+2-15	123-126	her	_	
+2-16	127-130	ist	_	
+2-17	131-135	hier	_	
+2-18	136-138	an	*[4]	
+2-19	139-142	der	*[4]	
+2-20	143-154	Kölnstrasse	*[4]	
+2-21	155-166	genausoviel	_	
+2-22	167-172	Platz	_	
+2-23	172-173	,	_	
+2-24	174-177	wie	_	
+2-25	178-181	auf	*[5]	
+2-26	182-185	der	*[5]	
+2-27	186-200	Kennedy-Brücke	*[5]	
+2-28	201-203	wo	_	
+2-29	204-208	auch	_	
+2-30	209-218	Fußgänger	_	
+2-31	219-222	und	_	
+2-32	223-234	beidseitige	_	
+2-33	235-244	Benutzung	_	
+2-34	245-252	erlaubt	_	
+2-35	253-256	ist	_	
+2-36	256-257	.	_	
+
+#Text=Da das Queren der Kölnstrasse immer mit Gefahr und Zeitverlust verbunden ist, was Radfahren unattraktiv macht sollte hier eine Änderung stattfinden, da man auf der Kennedybrücke - obwohl mehr befahren - durchweg positive Erfahrungen gemacht wurden!
+3-1	258-260	Da	_	
+3-2	261-264	das	*[6]	
+3-3	265-271	Queren	*[6]	
+3-4	272-275	der	*[6]	
+3-5	276-287	Kölnstrasse	*[6]	
+3-6	288-293	immer	_	
+3-7	294-297	mit	_	
+3-8	298-304	Gefahr	_	
+3-9	305-308	und	_	
+3-10	309-320	Zeitverlust	_	
+3-11	321-330	verbunden	_	
+3-12	331-334	ist	_	
+3-13	334-335	,	_	
+3-14	336-339	was	_	
+3-15	340-349	Radfahren	_	
+3-16	350-361	unattraktiv	_	
+3-17	362-367	macht	_	
+3-18	368-374	sollte	_	
+3-19	375-379	hier	_	
+3-20	380-384	eine	_	
+3-21	385-393	Änderung	_	
+3-22	394-405	stattfinden	_	
+3-23	405-406	,	_	
+3-24	407-409	da	_	
+3-25	410-413	man	_	
+3-26	414-417	auf	*[7]	
+3-27	418-421	der	*[7]	
+3-28	422-435	Kennedybrücke	*[7]	
+3-29	436-437	-	_	
+3-30	438-444	obwohl	_	
+3-31	445-449	mehr	_	
+3-32	450-458	befahren	_	
+3-33	459-460	-	_	
+3-34	461-469	durchweg	_	
+3-35	470-478	positive	_	
+3-36	479-490	Erfahrungen	_	
+3-37	491-498	gemacht	_	
+3-38	499-505	wurden	_	
+3-39	505-506	!	_	

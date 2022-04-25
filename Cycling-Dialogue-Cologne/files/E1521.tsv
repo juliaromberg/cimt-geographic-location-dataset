@@ -1,0 +1,18 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstraße
+1-1	0-13	Einbahnstraße	_	
+
+#Text=Die Venloer Straße sollte eine Einbahnstraße werden.
+2-1	16-19	Die	*[2]	
+2-2	20-27	Venloer	*[2]	
+2-3	28-34	Straße	*[2]	
+2-4	35-41	sollte	_	
+2-5	42-46	eine	_	
+2-6	47-60	Einbahnstraße	_	
+2-7	61-67	werden	_	
+2-8	67-68	.	_	

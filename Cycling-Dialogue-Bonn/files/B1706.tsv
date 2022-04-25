@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radfahren auf dem Gehweg
+1-1	0-9	Radfahren	_	
+1-2	10-13	auf	_	
+1-3	14-17	dem	_	
+1-4	18-24	Gehweg	_	
+
+#Text=Hier ist der Radweg in Fahrtrichtung Ringstraße auf dem schmalen Gehweg.
+2-1	27-31	Hier	_	
+2-2	32-35	ist	_	
+2-3	36-39	der	_	
+2-4	40-46	Radweg	_	
+2-5	47-49	in	*[6]	
+2-6	50-63	Fahrtrichtung	*[6]	
+2-7	64-74	Ringstraße	*[6]	
+2-8	75-78	auf	_	
+2-9	79-82	dem	_	
+2-10	83-91	schmalen	_	
+2-11	92-98	Gehweg	_	
+2-12	98-99	.	_	
+
+#Text=Der ist als Radweg völlig untauglich.
+3-1	100-103	Der	_	
+3-2	104-107	ist	_	
+3-3	108-111	als	_	
+3-4	112-118	Radweg	_	
+3-5	119-125	völlig	_	
+3-6	126-136	untauglich	_	
+3-7	136-137	.	_	
+
+#Text=Bitte Radfahrer als Teil des Verkehrs annehmen und nicht wie so oft auf den Gehweg verbannen.
+4-1	138-143	Bitte	_	
+4-2	144-153	Radfahrer	_	
+4-3	154-157	als	_	
+4-4	158-162	Teil	_	
+4-5	163-166	des	_	
+4-6	167-175	Verkehrs	_	
+4-7	176-184	annehmen	_	
+4-8	185-188	und	_	
+4-9	189-194	nicht	_	
+4-10	195-198	wie	_	
+4-11	199-201	so	_	
+4-12	202-205	oft	_	
+4-13	206-209	auf	_	
+4-14	210-213	den	_	
+4-15	214-220	Gehweg	_	
+4-16	221-230	verbannen	_	
+4-17	230-231	.	_	
+
+#Text=Der individuelle PKW-Verkehr darf nicht ständig Vorrang haben.
+5-1	232-235	Der	_	
+5-2	236-248	individuelle	_	
+5-3	249-260	PKW-Verkehr	_	
+5-4	261-265	darf	_	
+5-5	266-271	nicht	_	
+5-6	272-279	ständig	_	
+5-7	280-287	Vorrang	_	
+5-8	288-293	haben	_	
+5-9	293-294	.	_	

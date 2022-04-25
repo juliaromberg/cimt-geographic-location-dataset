@@ -1,0 +1,40 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstraße freigeben
+1-1	0-13	Einbahnstraße	_	
+1-2	14-23	freigeben	_	
+
+#Text=Eifelstr. zwischen Thomasstr. und Vorgebirgstr. ist breit genug, dass noch Radfahrer legal auch in die Gegenrichtung fahren können.
+2-1	26-34	Eifelstr	*[4]	
+2-2	34-35	.	*[4]	
+2-3	36-44	zwischen	*[4]	
+2-4	45-54	Thomasstr	*[4]	
+2-5	54-55	.	*[4]	
+2-6	56-59	und	*[4]	
+2-7	60-72	Vorgebirgstr	*[4]	
+2-8	72-73	.	_	
+2-9	74-77	ist	_	
+2-10	78-83	breit	_	
+2-11	84-89	genug	_	
+2-12	89-90	,	_	
+2-13	91-95	dass	_	
+2-14	96-100	noch	_	
+2-15	101-110	Radfahrer	_	
+2-16	111-116	legal	_	
+2-17	117-121	auch	_	
+2-18	122-124	in	_	
+2-19	125-128	die	_	
+2-20	129-142	Gegenrichtung	_	
+2-21	143-149	fahren	_	
+2-22	150-156	können	_	
+2-23	156-157	.	_	
+
+#Text=Ansonsten Parkplätze abbauen.
+3-1	158-167	Ansonsten	_	
+3-2	168-178	Parkplätze	_	
+3-3	179-186	abbauen	_	
+3-4	186-187	.	_	

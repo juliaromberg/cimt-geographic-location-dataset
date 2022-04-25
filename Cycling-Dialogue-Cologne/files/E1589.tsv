@@ -1,0 +1,106 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zugeparkter Radweg vor Geldautomat Sparkasse Köln
+1-1	0-11	Zugeparkter	_	
+1-2	12-18	Radweg	_	
+1-3	19-22	vor	_	
+1-4	23-34	Geldautomat	_	
+1-5	35-44	Sparkasse	_	
+1-6	45-49	Köln	_	
+
+#Text=Neben den Taxis, die schon oft den Radweg an dieser Stelle (Ehrenfeldgürtel / Subbelrather Str.) besetzen, wird der Fahrradweg oft von Kurzparkern genutzt, um am Geldautomaten der Sparkasse Köln Geld abzuheben.
+2-1	52-57	Neben	_	
+2-2	58-61	den	_	
+2-3	62-67	Taxis	_	
+2-4	67-68	,	_	
+2-5	69-72	die	_	
+2-6	73-78	schon	_	
+2-7	79-82	oft	_	
+2-8	83-86	den	_	
+2-9	87-93	Radweg	_	
+2-10	94-96	an	_	
+2-11	97-103	dieser	_	
+2-12	104-110	Stelle	_	
+2-13	111-112	(	_	
+2-14	112-127	Ehrenfeldgürtel	*[7]	
+2-15	128-129	/	*[7]	
+2-16	130-142	Subbelrather	*[7]	
+2-17	143-146	Str	_	
+2-18	146-147	.	_	
+2-19	147-148	)	_	
+2-20	149-157	besetzen	_	
+2-21	157-158	,	_	
+2-22	159-163	wird	_	
+2-23	164-167	der	_	
+2-24	168-178	Fahrradweg	_	
+2-25	179-182	oft	_	
+2-26	183-186	von	_	
+2-27	187-198	Kurzparkern	_	
+2-28	199-206	genutzt	_	
+2-29	206-207	,	_	
+2-30	208-210	um	_	
+2-31	211-213	am	_	
+2-32	214-227	Geldautomaten	_	
+2-33	228-231	der	_	
+2-34	232-241	Sparkasse	_	
+2-35	242-246	Köln	_	
+2-36	247-251	Geld	_	
+2-37	252-261	abzuheben	_	
+2-38	261-262	.	_	
+
+#Text=Die Situation ist für Fahrradfahrer nicht hinnehmbar und gefährlich.
+3-1	263-266	Die	_	
+3-2	267-276	Situation	_	
+3-3	277-280	ist	_	
+3-4	281-284	für	_	
+3-5	285-298	Fahrradfahrer	_	
+3-6	299-304	nicht	_	
+3-7	305-315	hinnehmbar	_	
+3-8	316-319	und	_	
+3-9	320-330	gefährlich	_	
+3-10	330-331	.	_	
+
+#Text=An der Kreuzung muss man eh schon aufpassen, weil man einen Zebrastreifen überquert.
+4-1	332-334	An	_	
+4-2	335-338	der	_	
+4-3	339-347	Kreuzung	_	
+4-4	348-352	muss	_	
+4-5	353-356	man	_	
+4-6	357-359	eh	_	
+4-7	360-365	schon	_	
+4-8	366-375	aufpassen	_	
+4-9	375-376	,	_	
+4-10	377-381	weil	_	
+4-11	382-385	man	_	
+4-12	386-391	einen	_	
+4-13	392-405	Zebrastreifen	_	
+4-14	406-415	überquert	_	
+4-15	415-416	.	_	
+
+#Text=Und dann fährt man quasi sofort in ein parkendes Auto.
+5-1	417-420	Und	_	
+5-2	421-425	dann	_	
+5-3	426-431	fährt	_	
+5-4	432-435	man	_	
+5-5	436-441	quasi	_	
+5-6	442-448	sofort	_	
+5-7	449-451	in	_	
+5-8	452-455	ein	_	
+5-9	456-465	parkendes	_	
+5-10	466-470	Auto	_	
+5-11	470-471	.	_	
+
+#Text=Hier sollte bitte ein absolutes Halteverbot eingerichtet werden.
+6-1	472-476	Hier	_	
+6-2	477-483	sollte	_	
+6-3	484-489	bitte	_	
+6-4	490-493	ein	_	
+6-5	494-503	absolutes	_	
+6-6	504-515	Halteverbot	_	
+6-7	516-528	eingerichtet	_	
+6-8	529-535	werden	_	
+6-9	535-536	.	_	

@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Geschwindigkeitskontrollen nötig
+1-1	0-26	Geschwindigkeitskontrollen	_	
+1-2	27-32	nötig	_	
+
+#Text=Auf der Mainzer Straße sind mehr Geschwindigkeitskontrollen nötig, da hier z.T. die zulässige Höchstgeschwindigkeit von 50 km/h erheblich überschritten wird.
+2-1	35-38	Auf	*[3]	
+2-2	39-42	der	*[3]	
+2-3	43-50	Mainzer	*[3]	
+2-4	51-57	Straße	*[3]	
+2-5	58-62	sind	_	
+2-6	63-67	mehr	_	
+2-7	68-94	Geschwindigkeitskontrollen	_	
+2-8	95-100	nötig	_	
+2-9	100-101	,	_	
+2-10	102-104	da	_	
+2-11	105-109	hier	_	
+2-12	110-113	z.T	_	
+2-13	113-114	.	_	
+2-14	115-118	die	_	
+2-15	119-128	zulässige	_	
+2-16	129-150	Höchstgeschwindigkeit	_	
+2-17	151-154	von	_	
+2-18	155-157	50	_	
+2-19	158-160	km	_	
+2-20	160-161	/	_	
+2-21	161-162	h	_	
+2-22	163-172	erheblich	_	
+2-23	173-186	überschritten	_	
+2-24	187-191	wird	_	
+2-25	191-192	.	_	

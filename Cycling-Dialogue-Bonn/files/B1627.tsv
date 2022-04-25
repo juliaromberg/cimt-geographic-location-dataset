@@ -1,0 +1,67 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Völlig Sinnfreie Rad/Fußgänger-Markierung auf dem Gehweg.
+1-1	0-6	Völlig	_	
+1-2	7-16	Sinnfreie	_	
+1-3	17-20	Rad	_	
+1-4	20-21	/	_	
+1-5	21-41	Fußgänger-Markierung	_	
+1-6	42-45	auf	_	
+1-7	46-49	dem	_	
+1-8	50-56	Gehweg	_	
+1-9	56-57	.	_	
+
+#Text=Bitte Räume eindeutig definieren, hier ist völlig unklar wie man sich korrekt verhalten soll und für wen die Kennzeichnung wie gedacht ist!
+2-1	60-65	Bitte	_	
+2-2	66-71	Räume	_	
+2-3	72-81	eindeutig	_	
+2-4	82-92	definieren	_	
+2-5	92-93	,	_	
+2-6	94-98	hier	_	
+2-7	99-102	ist	_	
+2-8	103-109	völlig	_	
+2-9	110-116	unklar	_	
+2-10	117-120	wie	_	
+2-11	121-124	man	_	
+2-12	125-129	sich	_	
+2-13	130-137	korrekt	_	
+2-14	138-147	verhalten	_	
+2-15	148-152	soll	_	
+2-16	153-156	und	_	
+2-17	157-160	für	_	
+2-18	161-164	wen	_	
+2-19	165-168	die	_	
+2-20	169-182	Kennzeichnung	_	
+2-21	183-186	wie	_	
+2-22	187-194	gedacht	_	
+2-23	195-198	ist	_	
+2-24	198-199	!	_	
+
+#Text=Kein Zweck und Sinn erkennbar, nur Verwirrung!
+3-1	200-204	Kein	_	
+3-2	205-210	Zweck	_	
+3-3	211-214	und	_	
+3-4	215-219	Sinn	_	
+3-5	220-229	erkennbar	_	
+3-6	229-230	,	_	
+3-7	231-234	nur	_	
+3-8	235-245	Verwirrung	_	
+3-9	245-246	!	_	
+
+#Text=Und Autofahrern ist oft nicht klar, daß hier Radfahrer sind!
+4-1	247-250	Und	_	
+4-2	251-262	Autofahrern	_	
+4-3	263-266	ist	_	
+4-4	267-270	oft	_	
+4-5	271-276	nicht	_	
+4-6	277-281	klar	_	
+4-7	281-282	,	_	
+4-8	283-286	daß	_	
+4-9	287-291	hier	_	
+4-10	292-301	Radfahrer	_	
+4-11	302-306	sind	_	
+4-12	306-307	!	_	

@@ -1,0 +1,51 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bodenmarkierung Zeichen 237 Richtungsgebunden
+1-1	0-15	Bodenmarkierung	_	
+1-2	16-23	Zeichen	_	
+1-3	24-27	237	_	
+1-4	28-45	Richtungsgebunden	_	
+
+#Text=Es ist unklar ob der Radweg an dieser Stelle nur in Fahrtrichtung Bonn Innenstadt benutzungspflichtig ist!
+2-1	48-50	Es	_	
+2-2	51-54	ist	_	
+2-3	55-61	unklar	_	
+2-4	62-64	ob	_	
+2-5	65-68	der	_	
+2-6	69-75	Radweg	_	
+2-7	76-78	an	_	
+2-8	79-85	dieser	_	
+2-9	86-92	Stelle	_	
+2-10	93-96	nur	_	
+2-11	97-99	in	*[4]	
+2-12	100-113	Fahrtrichtung	*[4]	
+2-13	114-118	Bonn	*[4]	
+2-14	119-129	Innenstadt	*[4]	
+2-15	130-149	benutzungspflichtig	_	
+2-16	150-153	ist	_	
+2-17	153-154	!	_	
+
+#Text=Die Bodenmarkierung ist an dieser Stelle (höhe Banhnübergang) nur mit einem Pfeil in Richtung Innenstadt versehen!
+3-1	155-158	Die	_	
+3-2	159-174	Bodenmarkierung	_	
+3-3	175-178	ist	_	
+3-4	179-181	an	_	
+3-5	182-188	dieser	_	
+3-6	189-195	Stelle	_	
+3-7	196-197	(	_	
+3-8	197-201	höhe	_	
+3-9	202-215	Banhnübergang	_	
+3-10	215-216	)	_	
+3-11	217-220	nur	_	
+3-12	221-224	mit	_	
+3-13	225-230	einem	_	
+3-14	231-236	Pfeil	_	
+3-15	237-239	in	*[5]	
+3-16	240-248	Richtung	*[5]	
+3-17	249-259	Innenstadt	*[5]	
+3-18	260-268	versehen	_	
+3-19	268-269	!	_	

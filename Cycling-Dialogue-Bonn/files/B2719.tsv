@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg an der Kaiserstr.
+1-1	0-10	Fahrradweg	_	
+1-2	11-13	an	*[4]	
+1-3	14-17	der	*[4]	
+1-4	18-27	Kaiserstr	*[4]	
+1-5	27-28	.	_	
+
+#Text=Obwohl die Benutzungspflicht für den Radweg an der Kaiserstr. Richtung Norden (Stadtzentrum) aufgehoben worden ist, kommt es wiederholt zu Konfliktsituationen zwischen Fahrradfahrern und manchen Autofahrern.
+2-1	31-37	Obwohl	_	
+2-2	38-41	die	_	
+2-3	42-59	Benutzungspflicht	_	
+2-4	60-63	für	_	
+2-5	64-67	den	_	
+2-6	68-74	Radweg	_	
+2-7	75-77	an	*[5]	
+2-8	78-81	der	*[5]	
+2-9	82-91	Kaiserstr	*[5]	
+2-10	91-92	.	*[5]	
+2-11	93-101	Richtung	*[5]	
+2-12	102-108	Norden	*[5]	
+2-13	109-110	(	*[5]	
+2-14	110-122	Stadtzentrum	*[5]	
+2-15	122-123	)	*[5]	
+2-16	124-134	aufgehoben	_	
+2-17	135-141	worden	_	
+2-18	142-145	ist	_	
+2-19	145-146	,	_	
+2-20	147-152	kommt	_	
+2-21	153-155	es	_	
+2-22	156-166	wiederholt	_	
+2-23	167-169	zu	_	
+2-24	170-189	Konfliktsituationen	_	
+2-25	190-198	zwischen	_	
+2-26	199-213	Fahrradfahrern	_	
+2-27	214-217	und	_	
+2-28	218-225	manchen	_	
+2-29	226-237	Autofahrern	_	
+2-30	237-238	.	_	
+
+#Text=Ein deutlicher Hinweis, dass Fahrradfahrer die Straße in Richtung Norden benutzen dürfen (und aufgrund der Enge des Fahrradwegs sogar sollten), könnte solche Situationen eventuell entspannen.
+3-1	239-242	Ein	_	
+3-2	243-253	deutlicher	_	
+3-3	254-261	Hinweis	_	
+3-4	261-262	,	_	
+3-5	263-267	dass	_	
+3-6	268-281	Fahrradfahrer	_	
+3-7	282-285	die	_	
+3-8	286-292	Straße	_	
+3-9	293-295	in	_	
+3-10	296-304	Richtung	_	
+3-11	305-311	Norden	_	
+3-12	312-320	benutzen	_	
+3-13	321-327	dürfen	_	
+3-14	328-329	(	_	
+3-15	329-332	und	_	
+3-16	333-341	aufgrund	_	
+3-17	342-345	der	_	
+3-18	346-350	Enge	_	
+3-19	351-354	des	_	
+3-20	355-366	Fahrradwegs	_	
+3-21	367-372	sogar	_	
+3-22	373-380	sollten	_	
+3-23	380-381	)	_	
+3-24	381-382	,	_	
+3-25	383-389	könnte	_	
+3-26	390-396	solche	_	
+3-27	397-408	Situationen	_	
+3-28	409-418	eventuell	_	
+3-29	419-429	entspannen	_	
+3-30	429-430	.	_	

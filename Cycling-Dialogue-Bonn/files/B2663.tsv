@@ -1,0 +1,63 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Straßenverengung
+1-1	0-16	Straßenverengung	_	
+
+#Text=An dieser Stelle verengt sich die Straße nach der Abzweigung der Lisztstraße, womit der Radschutzstreifen nach links führt.
+2-1	19-21	An	_	
+2-2	22-28	dieser	_	
+2-3	29-35	Stelle	_	
+2-4	36-43	verengt	_	
+2-5	44-48	sich	_	
+2-6	49-52	die	_	
+2-7	53-59	Straße	_	
+2-8	60-64	nach	*[4]	
+2-9	65-68	der	*[4]	
+2-10	69-79	Abzweigung	*[4]	
+2-11	80-83	der	*[4]	
+2-12	84-95	Lisztstraße	*[4]	
+2-13	95-96	,	_	
+2-14	97-102	womit	_	
+2-15	103-106	der	_	
+2-16	107-124	Radschutzstreifen	_	
+2-17	125-129	nach	_	
+2-18	130-135	links	_	
+2-19	136-141	führt	_	
+2-20	141-142	.	_	
+
+#Text=Oftmals fährt der motorisierte Verkehr jedoch einfach unter Mitbenutzung des Schutzstreifens geradeaus weiter, wodurch gefährliche Situationen entstehen.
+3-1	143-150	Oftmals	_	
+3-2	151-156	fährt	_	
+3-3	157-160	der	_	
+3-4	161-173	motorisierte	_	
+3-5	174-181	Verkehr	_	
+3-6	182-188	jedoch	_	
+3-7	189-196	einfach	_	
+3-8	197-202	unter	_	
+3-9	203-215	Mitbenutzung	_	
+3-10	216-219	des	_	
+3-11	220-235	Schutzstreifens	_	
+3-12	236-245	geradeaus	_	
+3-13	246-252	weiter	_	
+3-14	252-253	,	_	
+3-15	254-261	wodurch	_	
+3-16	262-273	gefährliche	_	
+3-17	274-285	Situationen	_	
+3-18	286-295	entstehen	_	
+3-19	295-296	.	_	
+
+#Text=Vielleicht könnte eine klarere farbliche Abhebung des Schutzstreifens helfen.
+4-1	297-307	Vielleicht	_	
+4-2	308-314	könnte	_	
+4-3	315-319	eine	_	
+4-4	320-327	klarere	_	
+4-5	328-337	farbliche	_	
+4-6	338-346	Abhebung	_	
+4-7	347-350	des	_	
+4-8	351-366	Schutzstreifens	_	
+4-9	367-373	helfen	_	
+4-10	373-374	.	_	

@@ -1,0 +1,65 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Mopeds
+1-1	0-6	Mopeds	_	
+
+#Text=Eine Seite der Brücke ist für Mofas freigegeben.
+2-1	9-13	Eine	_	
+2-2	14-19	Seite	_	
+2-3	20-23	der	_	
+2-4	24-30	Brücke	_	
+2-5	31-34	ist	_	
+2-6	35-38	für	_	
+2-7	39-44	Mofas	_	
+2-8	45-56	freigegeben	_	
+2-9	56-57	.	_	
+
+#Text=Hier kommen einem aber oft deutlich größere Gefährte auf beiden Seiten entgegen.
+3-1	58-62	Hier	_	
+3-2	63-69	kommen	_	
+3-3	70-75	einem	_	
+3-4	76-80	aber	_	
+3-5	81-84	oft	_	
+3-6	85-93	deutlich	_	
+3-7	94-101	größere	_	
+3-8	102-110	Gefährte	_	
+3-9	111-114	auf	_	
+3-10	115-121	beiden	_	
+3-11	122-128	Seiten	_	
+3-12	129-137	entgegen	_	
+3-13	137-138	.	_	
+
+#Text=Ich hatte schon mal fast eine Kollision mit einem Motorroller der mir auf dem Zubringer von unten entgegenkam.
+4-1	139-142	Ich	_	
+4-2	143-148	hatte	_	
+4-3	149-154	schon	_	
+4-4	155-158	mal	_	
+4-5	159-163	fast	_	
+4-6	164-168	eine	_	
+4-7	169-178	Kollision	_	
+4-8	179-182	mit	_	
+4-9	183-188	einem	_	
+4-10	189-200	Motorroller	_	
+4-11	201-204	der	_	
+4-12	205-208	mir	_	
+4-13	209-212	auf	_	
+4-14	213-216	dem	_	
+4-15	217-226	Zubringer	_	
+4-16	227-230	von	_	
+4-17	231-236	unten	_	
+4-18	237-248	entgegenkam	_	
+4-19	248-249	.	_	
+
+#Text=Eine Kontrolle zu Berufsverkehrszeiten wären mal interessant.
+5-1	250-254	Eine	_	
+5-2	255-264	Kontrolle	_	
+5-3	265-267	zu	_	
+5-4	268-288	Berufsverkehrszeiten	_	
+5-5	289-294	wären	_	
+5-6	295-298	mal	_	
+5-7	299-310	interessant	_	
+5-8	310-311	.	_	

@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Abstellanlage
+1-1	0-13	Abstellanlage	_	
+
+#Text=Hier steht eine Abstellanlage, die nur über den (für Fahrräder nicht freigegebenen) Bürgersteig erreicht werden kann.
+2-1	16-20	Hier	_	
+2-2	21-26	steht	_	
+2-3	27-31	eine	_	
+2-4	32-45	Abstellanlage	_	
+2-5	45-46	,	_	
+2-6	47-50	die	_	
+2-7	51-54	nur	_	
+2-8	55-59	über	_	
+2-9	60-63	den	_	
+2-10	64-65	(	_	
+2-11	65-68	für	_	
+2-12	69-78	Fahrräder	_	
+2-13	79-84	nicht	_	
+2-14	85-98	freigegebenen	_	
+2-15	98-99	)	_	
+2-16	100-111	Bürgersteig	_	
+2-17	112-120	erreicht	_	
+2-18	121-127	werden	_	
+2-19	128-132	kann	_	
+2-20	132-133	.	_	
+
+#Text=Letztendlich fahren alle aus dem Tulpenfeld kommenden Radfahrer über den Bürgersteig zu dieser Abstellanlage.
+3-1	134-146	Letztendlich	_	
+3-2	147-153	fahren	_	
+3-3	154-158	alle	_	
+3-4	159-162	aus	_	
+3-5	163-166	dem	_	
+3-6	167-177	Tulpenfeld	_	
+3-7	178-187	kommenden	_	
+3-8	188-197	Radfahrer	_	
+3-9	198-202	über	_	
+3-10	203-206	den	_	
+3-11	207-218	Bürgersteig	_	
+3-12	219-221	zu	_	
+3-13	222-228	dieser	_	
+3-14	229-242	Abstellanlage	_	
+3-15	242-243	.	_	
+
+#Text=Dies führt zu Konflikten mit den Passanten, die aus der U-Bahn kommen oder an der Bushaltestelle warten.
+4-1	244-248	Dies	_	
+4-2	249-254	führt	_	
+4-3	255-257	zu	_	
+4-4	258-268	Konflikten	_	
+4-5	269-272	mit	_	
+4-6	273-276	den	_	
+4-7	277-286	Passanten	_	
+4-8	286-287	,	_	
+4-9	288-291	die	_	
+4-10	292-295	aus	_	
+4-11	296-299	der	_	
+4-12	300-306	U-Bahn	_	
+4-13	307-313	kommen	_	
+4-14	314-318	oder	_	
+4-15	319-321	an	_	
+4-16	322-325	der	_	
+4-17	326-340	Bushaltestelle	_	
+4-18	341-347	warten	_	
+4-19	347-348	.	_	
+
+#Text=Die Abstellanlage sollte an die Ecke Tulpenfeld verlegt werden, so dass man sie auch per Rad erreichen kann.
+5-1	349-352	Die	_	
+5-2	353-366	Abstellanlage	_	
+5-3	367-373	sollte	_	
+5-4	374-376	an	_	
+5-5	377-380	die	*[5]	
+5-6	381-385	Ecke	*[5]	
+5-7	386-396	Tulpenfeld	*[5]	
+5-8	397-404	verlegt	_	
+5-9	405-411	werden	_	
+5-10	411-412	,	_	
+5-11	413-415	so	_	
+5-12	416-420	dass	_	
+5-13	421-424	man	_	
+5-14	425-428	sie	_	
+5-15	429-433	auch	_	
+5-16	434-437	per	_	
+5-17	438-441	Rad	_	
+5-18	442-451	erreichen	_	
+5-19	452-456	kann	_	
+5-20	456-457	.	_	

@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bedarfs-Ampel abschaffen
+1-1	0-13	Bedarfs-Ampel	_	
+1-2	14-24	abschaffen	_	
+
+#Text=Bedarfsampel stoert durch ueberfluessige wartezeit fuer Radfahrer und Fussgaenger, - besser ist die Loesung auf der anderen Seite der B9 durch Warnlicht fuer abbiegende Autofahrer
+2-1	27-39	Bedarfsampel	_	
+2-2	40-46	stoert	_	
+2-3	47-52	durch	_	
+2-4	53-67	ueberfluessige	_	
+2-5	68-77	wartezeit	_	
+2-6	78-82	fuer	_	
+2-7	83-92	Radfahrer	_	
+2-8	93-96	und	_	
+2-9	97-108	Fussgaenger	_	
+2-10	108-109	,	_	
+2-11	110-111	-	_	
+2-12	112-118	besser	_	
+2-13	119-122	ist	_	
+2-14	123-126	die	_	
+2-15	127-134	Loesung	_	
+2-16	135-138	auf	_	
+2-17	139-142	der	_	
+2-18	143-150	anderen	_	
+2-19	151-156	Seite	_	
+2-20	157-160	der	_	
+2-21	161-163	B9	*	
+2-22	164-169	durch	_	
+2-23	170-179	Warnlicht	_	
+2-24	180-184	fuer	_	
+2-25	185-195	abbiegende	_	
+2-26	196-206	Autofahrer	_	

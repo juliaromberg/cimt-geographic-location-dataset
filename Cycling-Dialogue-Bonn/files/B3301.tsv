@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bahnbrücke verbreitern
+1-1	0-10	Bahnbrücke	_	
+1-2	11-22	verbreitern	_	
+
+#Text=In einem Kommentar zur schlechten Querungsmöglichkeit der Straße AmProbsthof hat der Dauerradler eine sinnvolle Idee geäußert: die Bahnbrücke verbreitern, damit könnte man von Heintich Böll Ring/ Ennemoserstraße ohne Gefälle und ohne Anstieg kreuzungsfrei zumindest mal bis zur Brühler Straße gelangen.
+2-1	25-27	In	_	
+2-2	28-33	einem	_	
+2-3	34-43	Kommentar	_	
+2-4	44-47	zur	_	
+2-5	48-58	schlechten	_	
+2-6	59-78	Querungsmöglichkeit	_	
+2-7	79-82	der	_	
+2-8	83-89	Straße	*[3]	
+2-9	90-101	AmProbsthof	*[3]	
+2-10	102-105	hat	_	
+2-11	106-109	der	_	
+2-12	110-121	Dauerradler	_	
+2-13	122-126	eine	_	
+2-14	127-136	sinnvolle	_	
+2-15	137-141	Idee	_	
+2-16	142-150	geäußert	_	
+2-17	150-151	:	_	
+2-18	152-155	die	_	
+2-19	156-166	Bahnbrücke	_	
+2-20	167-178	verbreitern	_	
+2-21	178-179	,	_	
+2-22	180-185	damit	_	
+2-23	186-192	könnte	_	
+2-24	193-196	man	_	
+2-25	197-200	von	*[4]	
+2-26	201-209	Heintich	*[4]	
+2-27	210-214	Böll	*[4]	
+2-28	215-219	Ring	*[4]	
+2-29	219-220	/	*[4]	
+2-30	221-236	Ennemoserstraße	*[4]	
+2-31	237-241	ohne	_	
+2-32	242-249	Gefälle	_	
+2-33	250-253	und	_	
+2-34	254-258	ohne	_	
+2-35	259-266	Anstieg	_	
+2-36	267-280	kreuzungsfrei	_	
+2-37	281-290	zumindest	_	
+2-38	291-294	mal	_	
+2-39	295-298	bis	*[5]	
+2-40	299-302	zur	*[5]	
+2-41	303-310	Brühler	*[5]	
+2-42	311-317	Straße	*[5]	
+2-43	318-326	gelangen	_	
+2-44	326-327	.	_	

@@ -1,0 +1,175 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkflächen
+1-1	0-11	Parkflächen	_	
+
+#Text=Vor dem Bereich der Bushaltestelle wird es eng.
+2-1	14-17	Vor	_	
+2-2	18-21	dem	_	
+2-3	22-29	Bereich	_	
+2-4	30-33	der	_	
+2-5	34-48	Bushaltestelle	_	
+2-6	49-53	wird	_	
+2-7	54-56	es	_	
+2-8	57-60	eng	_	
+2-9	60-61	.	_	
+
+#Text=Der Radweg führt hinter dem Wartehaus vorbei zur Kreuzung.
+3-1	62-65	Der	_	
+3-2	66-72	Radweg	_	
+3-3	73-78	führt	_	
+3-4	79-85	hinter	_	
+3-5	86-89	dem	_	
+3-6	90-99	Wartehaus	_	
+3-7	100-106	vorbei	_	
+3-8	107-110	zur	_	
+3-9	111-119	Kreuzung	_	
+3-10	119-120	.	_	
+
+#Text=Parkende Fahrzeuge stehen oft so, das der Fußweg blockiert wird, da quer geparkt wird.
+4-1	121-129	Parkende	_	
+4-2	130-139	Fahrzeuge	_	
+4-3	140-146	stehen	_	
+4-4	147-150	oft	_	
+4-5	151-153	so	_	
+4-6	153-154	,	_	
+4-7	155-158	das	_	
+4-8	159-162	der	_	
+4-9	163-169	Fußweg	_	
+4-10	170-179	blockiert	_	
+4-11	180-184	wird	_	
+4-12	184-185	,	_	
+4-13	186-188	da	_	
+4-14	189-193	quer	_	
+4-15	194-201	geparkt	_	
+4-16	202-206	wird	_	
+4-17	206-207	.	_	
+
+#Text=Dann reichen die Hecks bis zum Radweg.
+5-1	208-212	Dann	_	
+5-2	213-220	reichen	_	
+5-3	221-224	die	_	
+5-4	225-230	Hecks	_	
+5-5	231-234	bis	_	
+5-6	235-238	zum	_	
+5-7	239-245	Radweg	_	
+5-8	245-246	.	_	
+
+#Text=Gehweg ist versperrt.
+6-1	247-253	Gehweg	_	
+6-2	254-257	ist	_	
+6-3	258-267	versperrt	_	
+6-4	267-268	.	_	
+
+#Text=Insgesamt ist die Verkehrführung schlecht:
+7-1	269-278	Insgesamt	_	
+7-2	279-282	ist	_	
+7-3	283-286	die	_	
+7-4	287-301	Verkehrführung	_	
+7-5	302-310	schlecht	_	
+7-6	310-311	:	_	
+
+#Text=1 Das Wartehaus verschlechtert die Sicht auf Radfahrer für rechtabiegende Autofahrer.
+8-1	312-313	1	_	
+8-2	314-317	Das	_	
+8-3	318-327	Wartehaus	_	
+8-4	328-342	verschlechtert	_	
+8-5	343-346	die	_	
+8-6	347-352	Sicht	_	
+8-7	353-356	auf	_	
+8-8	357-366	Radfahrer	_	
+8-9	367-370	für	_	
+8-10	371-385	rechtabiegende	_	
+8-11	386-396	Autofahrer	_	
+8-12	396-397	.	_	
+
+#Text=2 Die Radfahrer müssen mitten durch die Fussgängerzone
+9-1	398-399	2	_	
+9-2	400-403	Die	_	
+9-3	404-413	Radfahrer	_	
+9-4	414-420	müssen	_	
+9-5	421-427	mitten	_	
+9-6	428-433	durch	_	
+9-7	434-437	die	_	
+9-8	438-452	Fussgängerzone	_	
+
+#Text=Vorteil: Es gelangen Aus- und Einsteigende an der Haltestelle nicht direkt auf den Radweg.
+10-1	453-460	Vorteil	_	
+10-2	460-461	:	_	
+10-3	462-464	Es	_	
+10-4	465-473	gelangen	_	
+10-5	474-477	Aus	_	
+10-6	477-478	-	_	
+10-7	479-482	und	_	
+10-8	483-495	Einsteigende	_	
+10-9	496-498	an	_	
+10-10	499-502	der	_	
+10-11	503-514	Haltestelle	_	
+10-12	515-520	nicht	_	
+10-13	521-527	direkt	_	
+10-14	528-531	auf	_	
+10-15	532-535	den	_	
+10-16	536-542	Radweg	_	
+10-17	542-543	.	_	
+
+#Text=Es bleibt aber unübersichtlich.
+11-1	544-546	Es	_	
+11-2	547-553	bleibt	_	
+11-3	554-558	aber	_	
+11-4	559-574	unübersichtlich	_	
+11-5	574-575	.	_	
+
+#Text=Anmerkung: Eine entschärfung der Situation wäre, wenn man den Radweg vor der Haltestelle auf die Abbiegespur der Strasse leitet.
+12-1	576-585	Anmerkung	_	
+12-2	585-586	:	_	
+12-3	587-591	Eine	_	
+12-4	592-604	entschärfung	_	
+12-5	605-608	der	_	
+12-6	609-618	Situation	_	
+12-7	619-623	wäre	_	
+12-8	623-624	,	_	
+12-9	625-629	wenn	_	
+12-10	630-633	man	_	
+12-11	634-637	den	_	
+12-12	638-644	Radweg	_	
+12-13	645-648	vor	_	
+12-14	649-652	der	_	
+12-15	653-664	Haltestelle	_	
+12-16	665-668	auf	_	
+12-17	669-672	die	_	
+12-18	673-684	Abbiegespur	_	
+12-19	685-688	der	_	
+12-20	689-696	Strasse	_	
+12-21	697-703	leitet	_	
+12-22	703-704	.	_	
+
+#Text=Dann wird man als Radler besser gesehen.
+13-1	705-709	Dann	_	
+13-2	710-714	wird	_	
+13-3	715-718	man	_	
+13-4	719-722	als	_	
+13-5	723-729	Radler	_	
+13-6	730-736	besser	_	
+13-7	737-744	gesehen	_	
+13-8	744-745	.	_	
+
+#Text=Nachteil: Haltende Busse versperren die Strasse und Abstand zu den Auto wird kleiner.
+14-1	746-754	Nachteil	_	
+14-2	754-755	:	_	
+14-3	756-764	Haltende	_	
+14-4	765-770	Busse	_	
+14-5	771-781	versperren	_	
+14-6	782-785	die	_	
+14-7	786-793	Strasse	_	
+14-8	794-797	und	_	
+14-9	798-805	Abstand	_	
+14-10	806-808	zu	_	
+14-11	809-812	den	_	
+14-12	813-817	Auto	_	
+14-13	818-822	wird	_	
+14-14	823-830	kleiner	_	
+14-15	830-831	.	_	

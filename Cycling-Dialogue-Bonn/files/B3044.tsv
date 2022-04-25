@@ -1,0 +1,273 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Nord-/Süd und West-/Ostverbindung
+1-1	0-4	Nord	_	
+1-2	4-5	-	_	
+1-3	5-6	/	_	
+1-4	6-9	Süd	_	
+1-5	10-13	und	_	
+1-6	14-18	West	_	
+1-7	18-19	-	_	
+1-8	19-20	/	_	
+1-9	20-33	Ostverbindung	_	
+
+#Text=Bonn ist und bleibt eine Autostadt!
+2-1	36-40	Bonn	*	
+2-2	41-44	ist	_	
+2-3	45-48	und	_	
+2-4	49-55	bleibt	_	
+2-5	56-60	eine	_	
+2-6	61-70	Autostadt	_	
+2-7	70-71	!	_	
+
+#Text=Daran wird sich m.E. so schnell nichts ändern, da straßenbauliche Maßnahmen, die wiederum auch die Gebäude- bzw. Quartiersplanung beeinflussen, sich nicht so schnell rückgängig machen lassen.
+3-1	72-77	Daran	_	
+3-2	78-82	wird	_	
+3-3	83-87	sich	_	
+3-4	88-91	m.E	_	
+3-5	91-92	.	_	
+3-6	93-95	so	_	
+3-7	96-103	schnell	_	
+3-8	104-110	nichts	_	
+3-9	111-117	ändern	_	
+3-10	117-118	,	_	
+3-11	119-121	da	_	
+3-12	122-137	straßenbauliche	_	
+3-13	138-147	Maßnahmen	_	
+3-14	147-148	,	_	
+3-15	149-152	die	_	
+3-16	153-161	wiederum	_	
+3-17	162-166	auch	_	
+3-18	167-170	die	_	
+3-19	171-178	Gebäude	_	
+3-20	178-179	-	_	
+3-21	180-183	bzw	_	
+3-22	183-184	.	_	
+3-23	185-201	Quartiersplanung	_	
+3-24	202-214	beeinflussen	_	
+3-25	214-215	,	_	
+3-26	216-220	sich	_	
+3-27	221-226	nicht	_	
+3-28	227-229	so	_	
+3-29	230-237	schnell	_	
+3-30	238-248	rückgängig	_	
+3-31	249-255	machen	_	
+3-32	256-262	lassen	_	
+3-33	262-263	.	_	
+
+#Text=Fahrradverkehrskonzepte sind Kompromisse, die beide Seiten nerven.
+4-1	264-287	Fahrradverkehrskonzepte	_	
+4-2	288-292	sind	_	
+4-3	293-304	Kompromisse	_	
+4-4	304-305	,	_	
+4-5	306-309	die	_	
+4-6	310-315	beide	_	
+4-7	316-322	Seiten	_	
+4-8	323-329	nerven	_	
+4-9	329-330	.	_	
+
+#Text=Den Kraftfahrer als auch den Fahrradfahrer.
+5-1	331-334	Den	_	
+5-2	335-346	Kraftfahrer	_	
+5-3	347-350	als	_	
+5-4	351-355	auch	_	
+5-5	356-359	den	_	
+5-6	360-373	Fahrradfahrer	_	
+5-7	373-374	.	_	
+
+#Text=Fahrradwege werden in vorhanden Straßen hinzugefügt.
+6-1	375-386	Fahrradwege	_	
+6-2	387-393	werden	_	
+6-3	394-396	in	_	
+6-4	397-406	vorhanden	_	
+6-5	407-414	Straßen	_	
+6-6	415-426	hinzugefügt	_	
+6-7	426-427	.	_	
+
+#Text=Das nervt Auto- oder Busfahrer, da Fahrspuren verkleinert werden müssen.
+7-1	428-431	Das	_	
+7-2	432-437	nervt	_	
+7-3	438-442	Auto	_	
+7-4	442-443	-	_	
+7-5	444-448	oder	_	
+7-6	449-458	Busfahrer	_	
+7-7	458-459	,	_	
+7-8	460-462	da	_	
+7-9	463-473	Fahrspuren	_	
+7-10	474-485	verkleinert	_	
+7-11	486-492	werden	_	
+7-12	493-499	müssen	_	
+7-13	499-500	.	_	
+
+#Text=Fahrradwegen kann nur die mindeste Breite zugesprochen werden, was wiederum den Fahrradfahrer nervt.
+8-1	501-513	Fahrradwegen	_	
+8-2	514-518	kann	_	
+8-3	519-522	nur	_	
+8-4	523-526	die	_	
+8-5	527-535	mindeste	_	
+8-6	536-542	Breite	_	
+8-7	543-555	zugesprochen	_	
+8-8	556-562	werden	_	
+8-9	562-563	,	_	
+8-10	564-567	was	_	
+8-11	568-576	wiederum	_	
+8-12	577-580	den	_	
+8-13	581-594	Fahrradfahrer	_	
+8-14	595-600	nervt	_	
+8-15	600-601	.	_	
+
+#Text=Aber im Wesentlichen sind es doch nur Flickenteppiche.
+9-1	602-606	Aber	_	
+9-2	607-609	im	_	
+9-3	610-622	Wesentlichen	_	
+9-4	623-627	sind	_	
+9-5	628-630	es	_	
+9-6	631-635	doch	_	
+9-7	636-639	nur	_	
+9-8	640-655	Flickenteppiche	_	
+9-9	655-656	.	_	
+
+#Text=Hier wird ein Stück Fahrradweg erneuert; dort gibt es 200m Fahrradstraße.
+10-1	657-661	Hier	_	
+10-2	662-666	wird	_	
+10-3	667-670	ein	_	
+10-4	671-676	Stück	_	
+10-5	677-687	Fahrradweg	_	
+10-6	688-696	erneuert	_	
+10-7	696-697	;	_	
+10-8	698-702	dort	_	
+10-9	703-707	gibt	_	
+10-10	708-710	es	_	
+10-11	711-715	200m	_	
+10-12	716-729	Fahrradstraße	_	
+10-13	729-730	.	_	
+
+#Text=Das funktioniert nicht, wenn ich als Fahrradfahrer nach wenigen hundert Metern wieder in den fließenden Verkehr muss oder gezwungen werde durch die Fussgängerzone zu schieben.
+11-1	731-734	Das	_	
+11-2	735-747	funktioniert	_	
+11-3	748-753	nicht	_	
+11-4	753-754	,	_	
+11-5	755-759	wenn	_	
+11-6	760-763	ich	_	
+11-7	764-767	als	_	
+11-8	768-781	Fahrradfahrer	_	
+11-9	782-786	nach	_	
+11-10	787-794	wenigen	_	
+11-11	795-802	hundert	_	
+11-12	803-809	Metern	_	
+11-13	810-816	wieder	_	
+11-14	817-819	in	_	
+11-15	820-823	den	_	
+11-16	824-834	fließenden	_	
+11-17	835-842	Verkehr	_	
+11-18	843-847	muss	_	
+11-19	848-852	oder	_	
+11-20	853-862	gezwungen	_	
+11-21	863-868	werde	_	
+11-22	869-874	durch	_	
+11-23	875-878	die	_	
+11-24	879-893	Fussgängerzone	_	
+11-25	894-896	zu	_	
+11-26	897-905	schieben	_	
+11-27	905-906	.	_	
+
+#Text=Ich bin für einen ersten Schritt, der aber konsequent durchgedacht werden muss.
+12-1	907-910	Ich	_	
+12-2	911-914	bin	_	
+12-3	915-918	für	_	
+12-4	919-924	einen	_	
+12-5	925-931	ersten	_	
+12-6	932-939	Schritt	_	
+12-7	939-940	,	_	
+12-8	941-944	der	_	
+12-9	945-949	aber	_	
+12-10	950-960	konsequent	_	
+12-11	961-973	durchgedacht	_	
+12-12	974-980	werden	_	
+12-13	981-985	muss	_	
+12-14	985-986	.	_	
+
+#Text=Ich bin für eine Nord-/Süd- und Ost-/West-Verbindung ausschließlich für Fahrradfahrer, die es ermöglicht möglichst schnell von einer Stadtgrenze zur anderen zu gelangen.
+13-1	987-990	Ich	_	
+13-2	991-994	bin	_	
+13-3	995-998	für	_	
+13-4	999-1003	eine	_	
+13-5	1004-1008	Nord	_	
+13-6	1008-1009	-	_	
+13-7	1009-1010	/	_	
+13-8	1010-1013	Süd	_	
+13-9	1013-1014	-	_	
+13-10	1015-1018	und	_	
+13-11	1019-1022	Ost	_	
+13-12	1022-1023	-	_	
+13-13	1023-1024	/	_	
+13-14	1024-1039	West-Verbindung	_	
+13-15	1040-1054	ausschließlich	_	
+13-16	1055-1058	für	_	
+13-17	1059-1072	Fahrradfahrer	_	
+13-18	1072-1073	,	_	
+13-19	1074-1077	die	_	
+13-20	1078-1080	es	_	
+13-21	1081-1091	ermöglicht	_	
+13-22	1092-1101	möglichst	_	
+13-23	1102-1109	schnell	_	
+13-24	1110-1113	von	_	
+13-25	1114-1119	einer	_	
+13-26	1120-1131	Stadtgrenze	_	
+13-27	1132-1135	zur	_	
+13-28	1136-1143	anderen	_	
+13-29	1144-1146	zu	_	
+13-30	1147-1155	gelangen	_	
+13-31	1155-1156	.	_	
+
+#Text=Möchte man zu einem bestimmten Punkt in der Stadt, fährt man sozusagen ab und benutzt die vorhanden Verkehrsinfrastruktur.
+14-1	1157-1163	Möchte	_	
+14-2	1164-1167	man	_	
+14-3	1168-1170	zu	_	
+14-4	1171-1176	einem	_	
+14-5	1177-1187	bestimmten	_	
+14-6	1188-1193	Punkt	_	
+14-7	1194-1196	in	_	
+14-8	1197-1200	der	_	
+14-9	1201-1206	Stadt	_	
+14-10	1206-1207	,	_	
+14-11	1208-1213	fährt	_	
+14-12	1214-1217	man	_	
+14-13	1218-1227	sozusagen	_	
+14-14	1228-1230	ab	_	
+14-15	1231-1234	und	_	
+14-16	1235-1242	benutzt	_	
+14-17	1243-1246	die	_	
+14-18	1247-1256	vorhanden	_	
+14-19	1257-1278	Verkehrsinfrastruktur	_	
+14-20	1278-1279	.	_	
+
+#Text=Diese Verbindung muss allerdings die Anforderungen moderner Fahrradwege erfüllen.
+15-1	1280-1285	Diese	_	
+15-2	1286-1296	Verbindung	_	
+15-3	1297-1301	muss	_	
+15-4	1302-1312	allerdings	_	
+15-5	1313-1316	die	_	
+15-6	1317-1330	Anforderungen	_	
+15-7	1331-1339	moderner	_	
+15-8	1340-1351	Fahrradwege	_	
+15-9	1352-1360	erfüllen	_	
+15-10	1360-1361	.	_	
+
+#Text=Breit, zwei Richtungen, ordentlicher Belag und möglichst wenig Unterbrechungen.
+16-1	1362-1367	Breit	_	
+16-2	1367-1368	,	_	
+16-3	1369-1373	zwei	_	
+16-4	1374-1384	Richtungen	_	
+16-5	1384-1385	,	_	
+16-6	1386-1398	ordentlicher	_	
+16-7	1399-1404	Belag	_	
+16-8	1405-1408	und	_	
+16-9	1409-1418	möglichst	_	
+16-10	1419-1424	wenig	_	
+16-11	1425-1440	Unterbrechungen	_	
+16-12	1440-1441	.	_	

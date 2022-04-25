@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkbucht für Fahrräder
+1-1	0-9	Parkbucht	_	
+1-2	10-13	für	_	
+1-3	14-23	Fahrräder	_	
+
+#Text=In den Häusern Nordstraße 106-110 (und darüber hinaus) wohnen viele Menschen, die das Fahrrad als tägliches Verkehrsmittel nutzen, z.T. auch mit Fahrradanhänger.
+2-1	26-28	In	*[5]	
+2-2	29-32	den	*[5]	
+2-3	33-40	Häusern	*[5]	
+2-4	41-51	Nordstraße	*[5]	
+2-5	52-55	106	*[5]	
+2-6	55-56	-	*[5]	
+2-7	56-59	110	*[5]	
+2-8	60-61	(	_	
+2-9	61-64	und	_	
+2-10	65-72	darüber	_	
+2-11	73-79	hinaus	_	
+2-12	79-80	)	_	
+2-13	81-87	wohnen	_	
+2-14	88-93	viele	_	
+2-15	94-102	Menschen	_	
+2-16	102-103	,	_	
+2-17	104-107	die	_	
+2-18	108-111	das	_	
+2-19	112-119	Fahrrad	_	
+2-20	120-123	als	_	
+2-21	124-133	tägliches	_	
+2-22	134-148	Verkehrsmittel	_	
+2-23	149-155	nutzen	_	
+2-24	155-156	,	_	
+2-25	157-160	z.T	_	
+2-26	160-161	.	_	
+2-27	162-166	auch	_	
+2-28	167-170	mit	_	
+2-29	171-186	Fahrradanhänger	_	
+2-30	186-187	.	_	
+
+#Text=Dadurch wird es zunehmend schwierig, einen sicheren Fahrradparkplatz zu finden.
+3-1	188-195	Dadurch	_	
+3-2	196-200	wird	_	
+3-3	201-203	es	_	
+3-4	204-213	zunehmend	_	
+3-5	214-223	schwierig	_	
+3-6	223-224	,	_	
+3-7	225-230	einen	_	
+3-8	231-239	sicheren	_	
+3-9	240-256	Fahrradparkplatz	_	
+3-10	257-259	zu	_	
+3-11	260-266	finden	_	
+3-12	266-267	.	_	
+
+#Text=Durch die Umwandlung einer Parkbucht zum Fahrradparkplatz mit Metallbügeln zum Anschließen wäre hier leicht Abhilfe zu schaffen.
+4-1	268-273	Durch	_	
+4-2	274-277	die	_	
+4-3	278-288	Umwandlung	_	
+4-4	289-294	einer	_	
+4-5	295-304	Parkbucht	_	
+4-6	305-308	zum	_	
+4-7	309-325	Fahrradparkplatz	_	
+4-8	326-329	mit	_	
+4-9	330-342	Metallbügeln	_	
+4-10	343-346	zum	_	
+4-11	347-358	Anschließen	_	
+4-12	359-363	wäre	_	
+4-13	364-368	hier	_	
+4-14	369-375	leicht	_	
+4-15	376-383	Abhilfe	_	
+4-16	384-386	zu	_	
+4-17	387-395	schaffen	_	
+4-18	395-396	.	_	

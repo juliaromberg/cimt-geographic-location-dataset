@@ -1,0 +1,118 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Venloer Fahrradstraße
+1-1	0-7	Venloer	*	
+1-2	8-21	Fahrradstraße	_	
+
+#Text=Die Fahrradstreifen auf der Venloer Str. sind viel zu schmal.
+2-1	24-27	Die	*[6]	
+2-2	28-43	Fahrradstreifen	*[6]	
+2-3	44-47	auf	*[6]	
+2-4	48-51	der	*[6]	
+2-5	52-59	Venloer	*[6]	
+2-6	60-63	Str	*[6]	
+2-7	63-64	.	_	
+2-8	65-69	sind	_	
+2-9	70-74	viel	_	
+2-10	75-77	zu	_	
+2-11	78-84	schmal	_	
+2-12	84-85	.	_	
+
+#Text=Ich wünsche mir, dass es nicht weiter eine Straße für Autos ist auf der Fahrräder fahren dürfen, sondern dass es eine Straße für Fahrradfahrer ist, auf der hin und wieder ein Auto fährt.
+3-1	86-89	Ich	_	
+3-2	90-97	wünsche	_	
+3-3	98-101	mir	_	
+3-4	101-102	,	_	
+3-5	103-107	dass	_	
+3-6	108-110	es	_	
+3-7	111-116	nicht	_	
+3-8	117-123	weiter	_	
+3-9	124-128	eine	_	
+3-10	129-135	Straße	_	
+3-11	136-139	für	_	
+3-12	140-145	Autos	_	
+3-13	146-149	ist	_	
+3-14	150-153	auf	_	
+3-15	154-157	der	_	
+3-16	158-167	Fahrräder	_	
+3-17	168-174	fahren	_	
+3-18	175-181	dürfen	_	
+3-19	181-182	,	_	
+3-20	183-190	sondern	_	
+3-21	191-195	dass	_	
+3-22	196-198	es	_	
+3-23	199-203	eine	_	
+3-24	204-210	Straße	_	
+3-25	211-214	für	_	
+3-26	215-228	Fahrradfahrer	_	
+3-27	229-232	ist	_	
+3-28	232-233	,	_	
+3-29	234-237	auf	_	
+3-30	238-241	der	_	
+3-31	242-245	hin	_	
+3-32	246-249	und	_	
+3-33	250-256	wieder	_	
+3-34	257-260	ein	_	
+3-35	261-265	Auto	_	
+3-36	266-271	fährt	_	
+3-37	271-272	.	_	
+
+#Text=Die Fahrradfahrer sollten viel stärker unterstützt werden, die Fahrradstreifen müssen breiter werden und sollten besser gepflastert sein (momentan besteht die Hälfte des Radweges aus Regen-Ablauf-Streifen).
+4-1	273-276	Die	_	
+4-2	277-290	Fahrradfahrer	_	
+4-3	291-298	sollten	_	
+4-4	299-303	viel	_	
+4-5	304-311	stärker	_	
+4-6	312-323	unterstützt	_	
+4-7	324-330	werden	_	
+4-8	330-331	,	_	
+4-9	332-335	die	_	
+4-10	336-351	Fahrradstreifen	_	
+4-11	352-358	müssen	_	
+4-12	359-366	breiter	_	
+4-13	367-373	werden	_	
+4-14	374-377	und	_	
+4-15	378-385	sollten	_	
+4-16	386-392	besser	_	
+4-17	393-404	gepflastert	_	
+4-18	405-409	sein	_	
+4-19	410-411	(	_	
+4-20	411-419	momentan	_	
+4-21	420-427	besteht	_	
+4-22	428-431	die	_	
+4-23	432-438	Hälfte	_	
+4-24	439-442	des	_	
+4-25	443-451	Radweges	_	
+4-26	452-455	aus	_	
+4-27	456-477	Regen-Ablauf-Streifen	_	
+4-28	477-478	)	_	
+4-29	478-479	.	_	
+
+#Text=Die Geschwindigkeit auf der Venloer Str. sollte stärker kontrolliert werden und es bedarf an vielen Stellen weiteren Stellplätzen für die Fahrräder.
+5-1	480-483	Die	_	
+5-2	484-499	Geschwindigkeit	_	
+5-3	500-503	auf	*[7]	
+5-4	504-507	der	*[7]	
+5-5	508-515	Venloer	*[7]	
+5-6	516-519	Str	*[7]	
+5-7	519-520	.	_	
+5-8	521-527	sollte	_	
+5-9	528-535	stärker	_	
+5-10	536-548	kontrolliert	_	
+5-11	549-555	werden	_	
+5-12	556-559	und	_	
+5-13	560-562	es	_	
+5-14	563-569	bedarf	_	
+5-15	570-572	an	_	
+5-16	573-579	vielen	_	
+5-17	580-587	Stellen	_	
+5-18	588-596	weiteren	_	
+5-19	597-609	Stellplätzen	_	
+5-20	610-613	für	_	
+5-21	614-617	die	_	
+5-22	618-627	Fahrräder	_	
+5-23	627-628	.	_	

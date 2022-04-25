@@ -1,0 +1,83 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg schnell umsetzbar
+1-1	0-6	Radweg	_	
+1-2	7-14	schnell	_	
+1-3	15-24	umsetzbar	_	
+
+#Text=An der Trierer Straße gibt es bergauf ab der Kreuzung Kreuzbergallee auf der rechten Straßenseite einen fertigen Bürgersteig, der derzeit mit Grün überwachsen ist.
+2-1	27-29	An	*[5]	
+2-2	30-33	der	*[5]	
+2-3	34-41	Trierer	*[5]	
+2-4	42-48	Straße	*[5]	
+2-5	49-53	gibt	_	
+2-6	54-56	es	_	
+2-7	57-64	bergauf	*[6]	
+2-8	65-67	ab	*[6]	
+2-9	68-71	der	*[6]	
+2-10	72-80	Kreuzung	*[6]	
+2-11	81-95	Kreuzbergallee	*[6]	
+2-12	96-99	auf	*[6]	
+2-13	100-103	der	*[6]	
+2-14	104-111	rechten	*[6]	
+2-15	112-124	Straßenseite	*[6]	
+2-16	125-130	einen	_	
+2-17	131-139	fertigen	_	
+2-18	140-151	Bürgersteig	_	
+2-19	151-152	,	_	
+2-20	153-156	der	_	
+2-21	157-164	derzeit	_	
+2-22	165-168	mit	_	
+2-23	169-173	Grün	_	
+2-24	174-185	überwachsen	_	
+2-25	186-189	ist	_	
+2-26	189-190	.	_	
+
+#Text=Wenn man den Bürgersteig vom Grünüberwuchs befreit, könnte der Weg sehr gut als eigener Radweg, getrennt von der Straße, genutzt werden.
+3-1	191-195	Wenn	_	
+3-2	196-199	man	_	
+3-3	200-203	den	_	
+3-4	204-215	Bürgersteig	_	
+3-5	216-219	vom	_	
+3-6	220-233	Grünüberwuchs	_	
+3-7	234-241	befreit	_	
+3-8	241-242	,	_	
+3-9	243-249	könnte	_	
+3-10	250-253	der	_	
+3-11	254-257	Weg	_	
+3-12	258-262	sehr	_	
+3-13	263-266	gut	_	
+3-14	267-270	als	_	
+3-15	271-278	eigener	_	
+3-16	279-285	Radweg	_	
+3-17	285-286	,	_	
+3-18	287-295	getrennt	_	
+3-19	296-299	von	_	
+3-20	300-303	der	_	
+3-21	304-310	Straße	_	
+3-22	310-311	,	_	
+3-23	312-319	genutzt	_	
+3-24	320-326	werden	_	
+3-25	326-327	.	_	
+
+#Text=Hausbebauung gibt es auf der Seite nicht, sodass auch keine Konflikte mit Fußgängern entstehen.
+4-1	328-340	Hausbebauung	_	
+4-2	341-345	gibt	_	
+4-3	346-348	es	_	
+4-4	349-352	auf	_	
+4-5	353-356	der	_	
+4-6	357-362	Seite	_	
+4-7	363-368	nicht	_	
+4-8	368-369	,	_	
+4-9	370-376	sodass	_	
+4-10	377-381	auch	_	
+4-11	382-387	keine	_	
+4-12	388-397	Konflikte	_	
+4-13	398-401	mit	_	
+4-14	402-412	Fußgängern	_	
+4-15	413-422	entstehen	_	
+4-16	422-423	.	_	

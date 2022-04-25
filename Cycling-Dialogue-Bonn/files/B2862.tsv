@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehrsführung
+1-1	0-15	Verkehrsführung	_	
+
+#Text=Die Kreuzung ist aufgrund der Verkehrsführung und Ampelschaltung zu gefährlich für Fahhradfahrer.
+2-1	18-21	Die	_	
+2-2	22-30	Kreuzung	_	
+2-3	31-34	ist	_	
+2-4	35-43	aufgrund	_	
+2-5	44-47	der	_	
+2-6	48-63	Verkehrsführung	_	
+2-7	64-67	und	_	
+2-8	68-82	Ampelschaltung	_	
+2-9	83-85	zu	_	
+2-10	86-96	gefährlich	_	
+2-11	97-100	für	_	
+2-12	101-114	Fahhradfahrer	_	
+2-13	114-115	.	_	
+
+#Text=dEr Fahrradweg müsste besser einsehbar sein für Rechtsabbieger vom Kleinefeldweg.
+3-1	116-119	dEr	_	
+3-2	120-130	Fahrradweg	_	
+3-3	131-137	müsste	_	
+3-4	138-144	besser	_	
+3-5	145-154	einsehbar	_	
+3-6	155-159	sein	_	
+3-7	160-163	für	_	
+3-8	164-178	Rechtsabbieger	*[4]	
+3-9	179-182	vom	*[4]	
+3-10	183-196	Kleinefeldweg	*[4]	
+3-11	196-197	.	_	
+
+#Text=Bitte eine Vorrangschaltung für Radfahrer prüfen.
+4-1	198-203	Bitte	_	
+4-2	204-208	eine	_	
+4-3	209-225	Vorrangschaltung	_	
+4-4	226-229	für	_	
+4-5	230-239	Radfahrer	_	
+4-6	240-246	prüfen	_	
+4-7	246-247	.	_	

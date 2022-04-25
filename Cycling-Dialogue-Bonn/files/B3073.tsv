@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Überquerung August-Bebel-Allee
+1-1	0-11	Überquerung	*[4]	
+1-2	12-30	August-Bebel-Allee	*[4]	
+
+#Text=Die Überquerung der Straße kommend von der Marie-Schlei-Allee um auf den Fahhradweg parallel zu der Bahnstrecken zu gelangen ist kaum möglich.
+2-1	33-36	Die	*[5]	
+2-2	37-48	Überquerung	*[5]	
+2-3	49-52	der	*[5]	
+2-4	53-59	Straße	*[5]	
+2-5	60-67	kommend	*[5]	
+2-6	68-71	von	*[5]	
+2-7	72-75	der	*[5]	
+2-8	76-94	Marie-Schlei-Allee	*[5]	
+2-9	95-97	um	_	
+2-10	98-101	auf	_	
+2-11	102-105	den	_	
+2-12	106-116	Fahhradweg	_	
+2-13	117-125	parallel	_	
+2-14	126-128	zu	_	
+2-15	129-132	der	_	
+2-16	133-145	Bahnstrecken	_	
+2-17	146-148	zu	_	
+2-18	149-157	gelangen	_	
+2-19	158-161	ist	_	
+2-20	162-166	kaum	_	
+2-21	167-174	möglich	_	
+2-22	174-175	.	_	
+
+#Text=Hier wäre eine ausreichende Kennzeichnung notwendig.
+3-1	176-180	Hier	_	
+3-2	181-185	wäre	_	
+3-3	186-190	eine	_	
+3-4	191-203	ausreichende	_	
+3-5	204-217	Kennzeichnung	_	
+3-6	218-227	notwendig	_	
+3-7	227-228	.	_	

@@ -1,0 +1,16 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Eigener Fahrradweg statt gemeinsamer Weg für Fußgänger und Fahrradfahrer
+1-1	0-7	Eigener	_	
+1-2	8-18	Fahrradweg	_	
+1-3	19-24	statt	_	
+1-4	25-36	gemeinsamer	_	
+1-5	37-40	Weg	_	
+1-6	41-44	für	_	
+1-7	45-54	Fußgänger	_	
+1-8	55-58	und	_	
+1-9	59-72	Fahrradfahrer	_	

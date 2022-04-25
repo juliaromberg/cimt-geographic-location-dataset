@@ -1,0 +1,115 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Freigabe Einbahnstraße für Radfahrer
+1-1	0-8	Freigabe	_	
+1-2	9-22	Einbahnstraße	_	
+1-3	23-26	für	_	
+1-4	27-36	Radfahrer	_	
+
+#Text=Die Philippstr. zwischen Stammstr und Venloer Str ist in dieser Richtung Einbahnstraße und seit ca. 2 Jahren für den Fahrradverkehr freigegeben.
+2-1	39-42	Die	*[6]	
+2-2	43-53	Philippstr	*[6]	
+2-3	53-54	.	*[6]	
+2-4	55-63	zwischen	*[6]	
+2-5	64-72	Stammstr	*[6]	
+2-6	73-76	und	*[6]	
+2-7	77-84	Venloer	*[6]	
+2-8	85-88	Str	*[6]	
+2-9	89-92	ist	_	
+2-10	93-95	in	_	
+2-11	96-102	dieser	_	
+2-12	103-111	Richtung	_	
+2-13	112-125	Einbahnstraße	_	
+2-14	126-129	und	_	
+2-15	130-134	seit	_	
+2-16	135-137	ca	_	
+2-17	137-138	.	_	
+2-18	139-140	2	_	
+2-19	141-147	Jahren	_	
+2-20	148-151	für	_	
+2-21	152-155	den	_	
+2-22	156-170	Fahrradverkehr	_	
+2-23	171-182	freigegeben	_	
+2-24	182-183	.	_	
+
+#Text=Das Teilstück zwischen Glasstr und Stammstr ist zu diesem Zeitpunkt nicht freigegeben worden, weil das durch ein baubedingte Sperrung nicht notwendig ist.
+3-1	184-187	Das	_	
+3-2	188-197	Teilstück	_	
+3-3	198-206	zwischen	*[7]	
+3-4	207-214	Glasstr	*[7]	
+3-5	215-218	und	*[7]	
+3-6	219-227	Stammstr	*[7]	
+3-7	228-231	ist	_	
+3-8	232-234	zu	_	
+3-9	235-241	diesem	_	
+3-10	242-251	Zeitpunkt	_	
+3-11	252-257	nicht	_	
+3-12	258-269	freigegeben	_	
+3-13	270-276	worden	_	
+3-14	276-277	,	_	
+3-15	278-282	weil	_	
+3-16	283-286	das	_	
+3-17	287-292	durch	_	
+3-18	293-296	ein	_	
+3-19	297-308	baubedingte	_	
+3-20	309-317	Sperrung	_	
+3-21	318-323	nicht	_	
+3-22	324-333	notwendig	_	
+3-23	334-337	ist	_	
+3-24	337-338	.	_	
+
+#Text=Seitdem die Sperrung nicht mehr bestehtm habe ich schon 2x den Fahrradbeauftragten gebeten dieses Teilstück freizugeben - leider ist hier bis heute nichts passiert.
+4-1	339-346	Seitdem	_	
+4-2	347-350	die	_	
+4-3	351-359	Sperrung	_	
+4-4	360-365	nicht	_	
+4-5	366-370	mehr	_	
+4-6	371-379	bestehtm	_	
+4-7	380-384	habe	_	
+4-8	385-388	ich	_	
+4-9	389-394	schon	_	
+4-10	395-397	2x	_	
+4-11	398-401	den	_	
+4-12	402-421	Fahrradbeauftragten	_	
+4-13	422-429	gebeten	_	
+4-14	430-436	dieses	_	
+4-15	437-446	Teilstück	_	
+4-16	447-458	freizugeben	_	
+4-17	459-460	-	_	
+4-18	461-467	leider	_	
+4-19	468-471	ist	_	
+4-20	472-476	hier	_	
+4-21	477-480	bis	_	
+4-22	481-486	heute	_	
+4-23	487-493	nichts	_	
+4-24	494-502	passiert	_	
+4-25	502-503	.	_	
+
+#Text=Die Philippstr ist hier eine wichtige Querverbindung in der direkten Verbindung zwischen Gürtel über Fröbelstr - Rothehausstr und Liebigstr. Richtung Nippes.
+5-1	504-507	Die	*[8]	
+5-2	508-518	Philippstr	*[8]	
+5-3	519-522	ist	_	
+5-4	523-527	hier	_	
+5-5	528-532	eine	_	
+5-6	533-541	wichtige	_	
+5-7	542-556	Querverbindung	_	
+5-8	557-559	in	_	
+5-9	560-563	der	_	
+5-10	564-572	direkten	_	
+5-11	573-583	Verbindung	_	
+5-12	584-592	zwischen	*[9]	
+5-13	593-599	Gürtel	*[9]	
+5-14	600-604	über	*[9]	
+5-15	605-614	Fröbelstr	*[9]	
+5-16	615-616	-	*[9]	
+5-17	617-629	Rothehausstr	*[9]	
+5-18	630-633	und	*[9]	
+5-19	634-643	Liebigstr	*[9]	
+5-20	643-644	.	*[9]	
+5-21	645-653	Richtung	*[9]	
+5-22	654-660	Nippes	*[9]	
+5-23	660-661	.	_	

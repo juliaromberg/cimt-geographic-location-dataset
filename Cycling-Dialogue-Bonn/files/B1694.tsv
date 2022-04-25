@@ -1,0 +1,91 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Für Fahrräder geeignete Unterführungen im Stadtplan auf bonn.de deutlicher markieren
+1-1	0-3	Für	_	
+1-2	4-13	Fahrräder	_	
+1-3	14-23	geeignete	_	
+1-4	24-38	Unterführungen	_	
+1-5	39-41	im	_	
+1-6	42-51	Stadtplan	_	
+1-7	52-55	auf	_	
+1-8	56-63	bonn.de	_	
+1-9	64-74	deutlicher	_	
+1-10	75-84	markieren	_	
+
+#Text=Ich finde es schade, dass ich im Stadtplan raten muss, ob eine Unterführung für die Benutzung durch Radfahrer geeignet ist; ob man Fahrräder schieben könnte oder auf einer Treppe tragen müsste um die Unterführung zu nutzen.
+2-1	87-90	Ich	_	
+2-2	91-96	finde	_	
+2-3	97-99	es	_	
+2-4	100-106	schade	_	
+2-5	106-107	,	_	
+2-6	108-112	dass	_	
+2-7	113-116	ich	_	
+2-8	117-119	im	_	
+2-9	120-129	Stadtplan	_	
+2-10	130-135	raten	_	
+2-11	136-140	muss	_	
+2-12	140-141	,	_	
+2-13	142-144	ob	_	
+2-14	145-149	eine	_	
+2-15	150-162	Unterführung	_	
+2-16	163-166	für	_	
+2-17	167-170	die	_	
+2-18	171-180	Benutzung	_	
+2-19	181-186	durch	_	
+2-20	187-196	Radfahrer	_	
+2-21	197-205	geeignet	_	
+2-22	206-209	ist	_	
+2-23	209-210	;	_	
+2-24	211-213	ob	_	
+2-25	214-217	man	_	
+2-26	218-227	Fahrräder	_	
+2-27	228-236	schieben	_	
+2-28	237-243	könnte	_	
+2-29	244-248	oder	_	
+2-30	249-252	auf	_	
+2-31	253-258	einer	_	
+2-32	259-265	Treppe	_	
+2-33	266-272	tragen	_	
+2-34	273-279	müsste	_	
+2-35	280-282	um	_	
+2-36	283-286	die	_	
+2-37	287-299	Unterführung	_	
+2-38	300-302	zu	_	
+2-39	303-309	nutzen	_	
+2-40	309-310	.	_	
+
+#Text=Könnte man das im Bonner Stadtplan nicht deutlich markieren?
+3-1	311-317	Könnte	_	
+3-2	318-321	man	_	
+3-3	322-325	das	_	
+3-4	326-328	im	_	
+3-5	329-335	Bonner	_	
+3-6	336-345	Stadtplan	_	
+3-7	346-351	nicht	_	
+3-8	352-360	deutlich	_	
+3-9	361-370	markieren	_	
+3-10	370-371	?	_	
+
+#Text=Beispiel: Königstraße und Weberstraße.
+4-1	372-380	Beispiel	_	
+4-2	380-381	:	_	
+4-3	382-393	Königstraße	*[6]	
+4-4	394-397	und	*[6]	
+4-5	398-409	Weberstraße	*[6]	
+4-6	409-410	.	_	
+
+#Text=Es gibt ja einige Unterführungen im Stadtgebiet...
+5-1	411-413	Es	_	
+5-2	414-418	gibt	_	
+5-3	419-421	ja	_	
+5-4	422-428	einige	_	
+5-5	429-443	Unterführungen	_	
+5-6	444-446	im	_	
+5-7	447-458	Stadtgebiet	_	
+5-8	458-459	.	_	
+5-9	459-460	.	_	
+5-10	460-461	.	_	

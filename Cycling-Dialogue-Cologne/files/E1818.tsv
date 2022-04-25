@@ -1,0 +1,262 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=gefährliche Kreuzung: Vogelsangerstraße/Oskar-Jäger Straße/Tempolimmit 30km auf Vogelsangerstraße
+1-1	0-11	gefährliche	_	
+1-2	12-20	Kreuzung	_	
+1-3	20-21	:	_	
+1-4	22-39	Vogelsangerstraße	*[16]	
+1-5	39-40	/	*[16]	
+1-6	40-51	Oskar-Jäger	*[16]	
+1-7	52-58	Straße	*[16]	
+1-8	58-59	/	_	
+1-9	59-70	Tempolimmit	_	
+1-10	71-75	30km	_	
+1-11	76-79	auf	*[17]	
+1-12	80-97	Vogelsangerstraße	*[17]	
+
+#Text=[E-Mail entfernt]
+2-1	100-101	[	_	
+2-2	101-107	E-Mail	_	
+2-3	108-116	entfernt	_	
+2-4	116-117	]	_	
+
+#Text=Donnerstag, 30. März 2017 14:46
+3-1	118-128	Donnerstag	_	
+3-2	128-129	,	_	
+3-3	130-132	30	_	
+3-4	132-133	.	_	
+3-5	134-138	März	_	
+3-6	139-143	2017	_	
+3-7	144-146	14	_	
+3-8	146-147	:	_	
+3-9	147-149	46	_	
+
+#Text=An: 66-Poststelle Amt für Straßen + Verkehrstechnik strassen-verkehrstechnik@stadt-koeln.de
+4-1	150-152	An	_	
+4-2	152-153	:	_	
+4-3	154-156	66	_	
+4-4	156-157	-	_	
+4-5	157-167	Poststelle	_	
+4-6	168-171	Amt	_	
+4-7	172-175	für	_	
+4-8	176-183	Straßen	_	
+4-9	184-185	+	_	
+4-10	186-201	Verkehrstechnik	_	
+4-11	202-226	strassen-verkehrstechnik	_	
+4-12	226-227	@	_	
+4-13	227-241	stadt-koeln.de	_	
+
+#Text=Das starke Verkehrsaufkommen und das rücksichtlose Verhalten der Autofahrer beeinträchtigt alle Bewohner in der VogelsangerStr. u könnte unserer Meinung nach mit Hilfe weniger Umplanungen durch Ihr Amt verbessert werden.
+5-1	242-245	Das	_	
+5-2	246-252	starke	_	
+5-3	253-270	Verkehrsaufkommen	_	
+5-4	271-274	und	_	
+5-5	275-278	das	_	
+5-6	279-292	rücksichtlose	_	
+5-7	293-302	Verhalten	_	
+5-8	303-306	der	_	
+5-9	307-317	Autofahrer	_	
+5-10	318-332	beeinträchtigt	_	
+5-11	333-337	alle	_	
+5-12	338-346	Bewohner	_	
+5-13	347-349	in	*[18]	
+5-14	350-353	der	*[18]	
+5-15	354-368	VogelsangerStr	*[18]	
+5-16	368-369	.	_	
+5-17	370-371	u	_	
+5-18	372-378	könnte	_	
+5-19	379-386	unserer	_	
+5-20	387-394	Meinung	_	
+5-21	395-399	nach	_	
+5-22	400-403	mit	_	
+5-23	404-409	Hilfe	_	
+5-24	410-417	weniger	_	
+5-25	418-429	Umplanungen	_	
+5-26	430-435	durch	_	
+5-27	436-439	Ihr	_	
+5-28	440-443	Amt	_	
+5-29	444-454	verbessert	_	
+5-30	455-461	werden	_	
+5-31	461-462	.	_	
+
+#Text=Zum Einem möchten wir anregen die Verkehrsführung an der Kreuzung Oskar-Jäger Str/Helmholtzstr/VogelsangerStr stadtauswärts zu ändern.
+6-1	463-466	Zum	_	
+6-2	467-472	Einem	_	
+6-3	473-480	möchten	_	
+6-4	481-484	wir	_	
+6-5	485-492	anregen	_	
+6-6	493-496	die	_	
+6-7	497-512	Verkehrsführung	_	
+6-8	513-515	an	*[19]	
+6-9	516-519	der	*[19]	
+6-10	520-528	Kreuzung	*[19]	
+6-11	529-540	Oskar-Jäger	*[19]	
+6-12	541-544	Str	*[19]	
+6-13	544-545	/	*[19]	
+6-14	545-557	Helmholtzstr	*[19]	
+6-15	557-558	/	*[19]	
+6-16	558-572	VogelsangerStr	*[19]	
+6-17	573-586	stadtauswärts	*[19]	
+6-18	587-589	zu	_	
+6-19	590-596	ändern	_	
+6-20	596-597	.	_	
+
+#Text=Es existiert kein Fahrradweg o Fahrradstreifen.
+7-1	598-600	Es	_	
+7-2	601-610	existiert	_	
+7-3	611-615	kein	_	
+7-4	616-626	Fahrradweg	_	
+7-5	627-628	o	_	
+7-6	629-644	Fahrradstreifen	_	
+7-7	644-645	.	_	
+
+#Text=Möchte man von der Oskar-Jäger Str stadtauswärts in die VogelsangerStr einbiegen ist man lebensgefährlichen Situationen ausgesetzt!
+8-1	646-652	Möchte	_	
+8-2	653-656	man	_	
+8-3	657-660	von	*[20]	
+8-4	661-664	der	*[20]	
+8-5	665-676	Oskar-Jäger	*[20]	
+8-6	677-680	Str	*[20]	
+8-7	681-694	stadtauswärts	*[20]	
+8-8	695-697	in	*[20]	
+8-9	698-701	die	*[20]	
+8-10	702-716	VogelsangerStr	*[20]	
+8-11	717-726	einbiegen	_	
+8-12	727-730	ist	_	
+8-13	731-734	man	_	
+8-14	735-753	lebensgefährlichen	_	
+8-15	754-765	Situationen	_	
+8-16	766-776	ausgesetzt	_	
+8-17	776-777	!	_	
+
+#Text=Die PKW-Fahrer haben 2-spurig die Möglichkeit dort abzubiegen o geradeaus in die Helmoltzstr zu fahren.
+9-1	778-781	Die	_	
+9-2	782-792	PKW-Fahrer	_	
+9-3	793-798	haben	_	
+9-4	799-800	2	_	
+9-5	800-801	-	_	
+9-6	801-807	spurig	_	
+9-7	808-811	die	_	
+9-8	812-823	Möglichkeit	_	
+9-9	824-828	dort	_	
+9-10	829-839	abzubiegen	_	
+9-11	840-841	o	_	
+9-12	842-851	geradeaus	*[21]	
+9-13	852-854	in	*[21]	
+9-14	855-858	die	*[21]	
+9-15	859-870	Helmoltzstr	*[21]	
+9-16	871-873	zu	_	
+9-17	874-880	fahren	_	
+9-18	880-881	.	_	
+
+#Text=Die 2-spurig abbiegenden PKW-Fahrer versuchen sich an dieser Stelle gegenseitig auszustechen u beschleunigen derartig auf dieser kurzen Strecke, sodass es ständig zu gefährlichen Auffahr- oder Abbremssituationen kommt, da die 2 Spuren nach ca. 100 Metern wieder einspurig wird!
+10-1	882-885	Die	_	
+10-2	886-887	2	_	
+10-3	887-888	-	_	
+10-4	888-894	spurig	_	
+10-5	895-906	abbiegenden	_	
+10-6	907-917	PKW-Fahrer	_	
+10-7	918-927	versuchen	_	
+10-8	928-932	sich	_	
+10-9	933-935	an	_	
+10-10	936-942	dieser	_	
+10-11	943-949	Stelle	_	
+10-12	950-961	gegenseitig	_	
+10-13	962-974	auszustechen	_	
+10-14	975-976	u	_	
+10-15	977-990	beschleunigen	_	
+10-16	991-999	derartig	_	
+10-17	1000-1003	auf	_	
+10-18	1004-1010	dieser	_	
+10-19	1011-1017	kurzen	_	
+10-20	1018-1025	Strecke	_	
+10-21	1025-1026	,	_	
+10-22	1027-1033	sodass	_	
+10-23	1034-1036	es	_	
+10-24	1037-1044	ständig	_	
+10-25	1045-1047	zu	_	
+10-26	1048-1060	gefährlichen	_	
+10-27	1061-1068	Auffahr	_	
+10-28	1068-1069	-	_	
+10-29	1070-1074	oder	_	
+10-30	1075-1093	Abbremssituationen	_	
+10-31	1094-1099	kommt	_	
+10-32	1099-1100	,	_	
+10-33	1101-1103	da	_	
+10-34	1104-1107	die	_	
+10-35	1108-1109	2	_	
+10-36	1110-1116	Spuren	_	
+10-37	1117-1121	nach	_	
+10-38	1122-1124	ca	_	
+10-39	1124-1125	.	_	
+10-40	1126-1129	100	_	
+10-41	1130-1136	Metern	_	
+10-42	1137-1143	wieder	_	
+10-43	1144-1153	einspurig	_	
+10-44	1154-1158	wird	_	
+10-45	1158-1159	!	_	
+
+#Text=Tempolimit 30km wäre dringend nötig da hohe Geschwindigkeitsüberschreitungen.
+11-1	1160-1170	Tempolimit	_	
+11-2	1171-1175	30km	_	
+11-3	1176-1180	wäre	_	
+11-4	1181-1189	dringend	_	
+11-5	1190-1195	nötig	_	
+11-6	1196-1198	da	_	
+11-7	1199-1203	hohe	_	
+11-8	1204-1236	Geschwindigkeitsüberschreitungen	_	
+11-9	1236-1237	.	_	
+
+#Text=Radarkontrolle?
+12-1	1238-1252	Radarkontrolle	_	
+12-2	1252-1253	?	_	
+
+#Text=Als Radfahrer fühle ich mich nur auf dem Fussweg sicher.
+13-1	1254-1257	Als	_	
+13-2	1258-1267	Radfahrer	_	
+13-3	1268-1273	fühle	_	
+13-4	1274-1277	ich	_	
+13-5	1278-1282	mich	_	
+13-6	1283-1286	nur	_	
+13-7	1287-1290	auf	_	
+13-8	1291-1294	dem	_	
+13-9	1295-1302	Fussweg	_	
+13-10	1303-1309	sicher	_	
+13-11	1309-1310	.	_	
+
+#Text=Es wäre für alle Verkehrsbeteiligten lebensrettend bzw unfallverhindernd, wenn nur eine Abbiegespur in die VogelsangerStr zur Verfügung stände!
+14-1	1311-1313	Es	_	
+14-2	1314-1318	wäre	_	
+14-3	1319-1322	für	_	
+14-4	1323-1327	alle	_	
+14-5	1328-1347	Verkehrsbeteiligten	_	
+14-6	1348-1361	lebensrettend	_	
+14-7	1362-1365	bzw	_	
+14-8	1366-1383	unfallverhindernd	_	
+14-9	1383-1384	,	_	
+14-10	1385-1389	wenn	_	
+14-11	1390-1393	nur	_	
+14-12	1394-1398	eine	_	
+14-13	1399-1410	Abbiegespur	_	
+14-14	1411-1413	in	*[22]	
+14-15	1414-1417	die	*[22]	
+14-16	1418-1432	VogelsangerStr	*[22]	
+14-17	1433-1436	zur	_	
+14-18	1437-1446	Verfügung	_	
+14-19	1447-1453	stände	_	
+14-20	1453-1454	!	_	
+
+#Text=Somit wäre auch genügend Platz einen Fahrradstreifen einzurichten.
+15-1	1455-1460	Somit	_	
+15-2	1461-1465	wäre	_	
+15-3	1466-1470	auch	_	
+15-4	1471-1479	genügend	_	
+15-5	1480-1485	Platz	_	
+15-6	1486-1491	einen	_	
+15-7	1492-1507	Fahrradstreifen	_	
+15-8	1508-1520	einzurichten	_	
+15-9	1520-1521	.	_	

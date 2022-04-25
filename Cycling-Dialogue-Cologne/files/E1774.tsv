@@ -1,0 +1,28 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radstreifen Helmholtzstraße
+1-1	0-11	Radstreifen	_	
+1-2	12-27	Helmholtzstraße	*	
+
+#Text=Bitte Radstreifen in der Helmholtzstraße - die Straße ist breit und bietet ausreichend Platz für Schutzstreifen.
+2-1	30-35	Bitte	_	
+2-2	36-47	Radstreifen	_	
+2-3	48-50	in	*[3]	
+2-4	51-54	der	*[3]	
+2-5	55-70	Helmholtzstraße	*[3]	
+2-6	71-72	-	_	
+2-7	73-76	die	_	
+2-8	77-83	Straße	_	
+2-9	84-87	ist	_	
+2-10	88-93	breit	_	
+2-11	94-97	und	_	
+2-12	98-104	bietet	_	
+2-13	105-116	ausreichend	_	
+2-14	117-122	Platz	_	
+2-15	123-126	für	_	
+2-16	127-141	Schutzstreifen	_	
+2-17	141-142	.	_	

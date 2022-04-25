@@ -1,0 +1,119 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße/markierter Radweg benötigt (Schulweg!)
+1-1	0-13	Fahrradstraße	_	
+1-2	13-14	/	_	
+1-3	14-24	markierter	_	
+1-4	25-31	Radweg	_	
+1-5	32-40	benötigt	_	
+1-6	41-42	(	_	
+1-7	42-50	Schulweg	_	
+1-8	50-51	!	_	
+1-9	51-52	)	_	
+
+#Text=Ermekeilstraße und Argelanderstraße sind Schulweg von der östlichen Südstadt in das nördliche Kessenich (südlich der Reuterstraße).
+2-1	55-69	Ermekeilstraße	*[7]	
+2-2	70-73	und	*[7]	
+2-3	74-90	Argelanderstraße	*[7]	
+2-4	91-95	sind	_	
+2-5	96-104	Schulweg	_	
+2-6	105-108	von	*[8]	
+2-7	109-112	der	*[8]	
+2-8	113-122	östlichen	*[8]	
+2-9	123-131	Südstadt	*[8]	
+2-10	132-134	in	*[8]	
+2-11	135-138	das	*[8]	
+2-12	139-148	nördliche	*[8]	
+2-13	149-158	Kessenich	*[8]	
+2-14	159-160	(	*[8]	
+2-15	160-167	südlich	*[8]	
+2-16	168-171	der	*[8]	
+2-17	172-184	Reuterstraße	*[8]	
+2-18	184-185	)	*[8]	
+2-19	185-186	.	_	
+
+#Text=Und zurück.
+3-1	187-190	Und	_	
+3-2	191-197	zurück	_	
+3-3	197-198	.	_	
+
+#Text=Hier wären markierte Radwege, Fahrradstraßen, Tempo 30, reine Anliegerstraßen etc. sehr förderlich für die Sicherheit der Schulkinder.
+4-1	199-203	Hier	_	
+4-2	204-209	wären	_	
+4-3	210-219	markierte	_	
+4-4	220-227	Radwege	_	
+4-5	227-228	,	_	
+4-6	229-243	Fahrradstraßen	_	
+4-7	243-244	,	_	
+4-8	245-250	Tempo	_	
+4-9	251-253	30	_	
+4-10	253-254	,	_	
+4-11	255-260	reine	_	
+4-12	261-276	Anliegerstraßen	_	
+4-13	277-280	etc	_	
+4-14	280-281	.	_	
+4-15	282-286	sehr	_	
+4-16	287-297	förderlich	_	
+4-17	298-301	für	_	
+4-18	302-305	die	_	
+4-19	306-316	Sicherheit	_	
+4-20	317-320	der	_	
+4-21	321-332	Schulkinder	_	
+4-22	332-333	.	_	
+
+#Text=Zudem werden die Kinder oft von ihren Eltern auf der Straße fahrend begleitet, wodurch sich (eilige) Autofahrer durchaus mal behindert fühlen.
+5-1	334-339	Zudem	_	
+5-2	340-346	werden	_	
+5-3	347-350	die	_	
+5-4	351-357	Kinder	_	
+5-5	358-361	oft	_	
+5-6	362-365	von	_	
+5-7	366-371	ihren	_	
+5-8	372-378	Eltern	_	
+5-9	379-382	auf	_	
+5-10	383-386	der	_	
+5-11	387-393	Straße	_	
+5-12	394-401	fahrend	_	
+5-13	402-411	begleitet	_	
+5-14	411-412	,	_	
+5-15	413-420	wodurch	_	
+5-16	421-425	sich	_	
+5-17	426-427	(	_	
+5-18	427-433	eilige	_	
+5-19	433-434	)	_	
+5-20	435-445	Autofahrer	_	
+5-21	446-454	durchaus	_	
+5-22	455-458	mal	_	
+5-23	459-468	behindert	_	
+5-24	469-475	fühlen	_	
+5-25	475-476	.	_	
+
+#Text=Wenn die Radfahrer hier Vorfahrt hätten (Fahrradstraße) oder es zumindest auf der Straße markierte Radwege gäbe würde das sicher sehr helfen.
+6-1	477-481	Wenn	_	
+6-2	482-485	die	_	
+6-3	486-495	Radfahrer	_	
+6-4	496-500	hier	_	
+6-5	501-509	Vorfahrt	_	
+6-6	510-516	hätten	_	
+6-7	517-518	(	_	
+6-8	518-531	Fahrradstraße	_	
+6-9	531-532	)	_	
+6-10	533-537	oder	_	
+6-11	538-540	es	_	
+6-12	541-550	zumindest	_	
+6-13	551-554	auf	_	
+6-14	555-558	der	_	
+6-15	559-565	Straße	_	
+6-16	566-575	markierte	_	
+6-17	576-583	Radwege	_	
+6-18	584-588	gäbe	_	
+6-19	589-594	würde	_	
+6-20	595-598	das	_	
+6-21	599-605	sicher	_	
+6-22	606-610	sehr	_	
+6-23	611-617	helfen	_	
+6-24	617-618	.	_	

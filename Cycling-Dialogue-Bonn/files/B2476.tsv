@@ -1,0 +1,50 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rückbau von getrenntem Radweg/Gehweg zu Gehweg mit geduldetem Radfahren
+1-1	0-7	Rückbau	_	
+1-2	8-11	von	_	
+1-3	12-22	getrenntem	_	
+1-4	23-29	Radweg	_	
+1-5	29-30	/	_	
+1-6	30-36	Gehweg	_	
+1-7	37-39	zu	_	
+1-8	40-46	Gehweg	_	
+1-9	47-50	mit	_	
+1-10	51-61	geduldetem	_	
+1-11	62-71	Radfahren	_	
+
+#Text=Warum wurde hier der Radweg zurückgebaut?
+2-1	74-79	Warum	_	
+2-2	80-85	wurde	_	
+2-3	86-90	hier	_	
+2-4	91-94	der	_	
+2-5	95-101	Radweg	_	
+2-6	102-114	zurückgebaut	_	
+2-7	114-115	?	_	
+
+#Text=So war die eindeutige Nutzung geregelt.
+3-1	116-118	So	_	
+3-2	119-122	war	_	
+3-3	123-126	die	_	
+3-4	127-137	eindeutige	_	
+3-5	138-145	Nutzung	_	
+3-6	146-154	geregelt	_	
+3-7	154-155	.	_	
+
+#Text=Nun muss ich hier oftmals Klingeln, um durchfahren zu können.
+4-1	156-159	Nun	_	
+4-2	160-164	muss	_	
+4-3	165-168	ich	_	
+4-4	169-173	hier	_	
+4-5	174-181	oftmals	_	
+4-6	182-190	Klingeln	_	
+4-7	190-191	,	_	
+4-8	192-194	um	_	
+4-9	195-206	durchfahren	_	
+4-10	207-209	zu	_	
+4-11	210-216	können	_	
+4-12	216-217	.	_	

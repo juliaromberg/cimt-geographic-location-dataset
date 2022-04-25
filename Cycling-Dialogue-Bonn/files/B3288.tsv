@@ -1,0 +1,197 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg an der L261 von Meckenheim nach Röttgen
+1-1	0-6	Radweg	*[10]	
+1-2	7-9	an	*[10]	
+1-3	10-13	der	*[10]	
+1-4	14-18	L261	*[10]	
+1-5	19-22	von	*[10]	
+1-6	23-33	Meckenheim	*[10]	
+1-7	34-38	nach	*[10]	
+1-8	39-46	Röttgen	*[10]	
+
+#Text=Direkt an der L261 von Meckenheim nach Röttgen gibt es seit langer Zeit einen gut angelegten Radweg neben der Autostrasse.
+2-1	49-55	Direkt	_	
+2-2	56-58	an	*[11]	
+2-3	59-62	der	*[11]	
+2-4	63-67	L261	*[11]	
+2-5	68-71	von	*[11]	
+2-6	72-82	Meckenheim	*[11]	
+2-7	83-87	nach	*[11]	
+2-8	88-95	Röttgen	*[11]	
+2-9	96-100	gibt	_	
+2-10	101-103	es	_	
+2-11	104-108	seit	_	
+2-12	109-115	langer	_	
+2-13	116-120	Zeit	_	
+2-14	121-126	einen	_	
+2-15	127-130	gut	_	
+2-16	131-141	angelegten	_	
+2-17	142-148	Radweg	_	
+2-18	149-154	neben	_	
+2-19	155-158	der	_	
+2-20	159-170	Autostrasse	_	
+2-21	170-171	.	_	
+
+#Text=Seit einiger Zeit gibt es auf diesem Weg leider sehr viele Schäden!
+3-1	172-176	Seit	_	
+3-2	177-184	einiger	_	
+3-3	185-189	Zeit	_	
+3-4	190-194	gibt	_	
+3-5	195-197	es	_	
+3-6	198-201	auf	_	
+3-7	202-208	diesem	_	
+3-8	209-212	Weg	_	
+3-9	213-219	leider	_	
+3-10	220-224	sehr	_	
+3-11	225-230	viele	_	
+3-12	231-238	Schäden	_	
+3-13	238-239	!	_	
+
+#Text=Auf einem Teil sind einige Schäden schon markiert, aber noch nicht behoben.
+4-1	240-243	Auf	_	
+4-2	244-249	einem	_	
+4-3	250-254	Teil	_	
+4-4	255-259	sind	_	
+4-5	260-266	einige	_	
+4-6	267-274	Schäden	_	
+4-7	275-280	schon	_	
+4-8	281-289	markiert	_	
+4-9	289-290	,	_	
+4-10	291-295	aber	_	
+4-11	296-300	noch	_	
+4-12	301-306	nicht	_	
+4-13	307-314	behoben	_	
+4-14	314-315	.	_	
+
+#Text=Leider sind auch dort noch weitere Schäden, die noch nicht markiert sind.
+5-1	316-322	Leider	_	
+5-2	323-327	sind	_	
+5-3	328-332	auch	_	
+5-4	333-337	dort	_	
+5-5	338-342	noch	_	
+5-6	343-350	weitere	_	
+5-7	351-358	Schäden	_	
+5-8	358-359	,	_	
+5-9	360-363	die	_	
+5-10	364-368	noch	_	
+5-11	369-374	nicht	_	
+5-12	375-383	markiert	_	
+5-13	384-388	sind	_	
+5-14	388-389	.	_	
+
+#Text=Da ich und viele weitere Radler diesen Radweg benutze, fürchte ich, dass bald die Markierung durch Wettereinflüsse verschwinden und der sonst so schöne und positive Radweg für Bonn und Umgebung weiter so holprig bleibt.
+6-1	390-392	Da	_	
+6-2	393-396	ich	_	
+6-3	397-400	und	_	
+6-4	401-406	viele	_	
+6-5	407-414	weitere	_	
+6-6	415-421	Radler	_	
+6-7	422-428	diesen	_	
+6-8	429-435	Radweg	_	
+6-9	436-443	benutze	_	
+6-10	443-444	,	_	
+6-11	445-452	fürchte	_	
+6-12	453-456	ich	_	
+6-13	456-457	,	_	
+6-14	458-462	dass	_	
+6-15	463-467	bald	_	
+6-16	468-471	die	_	
+6-17	472-482	Markierung	_	
+6-18	483-488	durch	_	
+6-19	489-504	Wettereinflüsse	_	
+6-20	505-517	verschwinden	_	
+6-21	518-521	und	_	
+6-22	522-525	der	_	
+6-23	526-531	sonst	_	
+6-24	532-534	so	_	
+6-25	535-541	schöne	_	
+6-26	542-545	und	_	
+6-27	546-554	positive	_	
+6-28	555-561	Radweg	_	
+6-29	562-565	für	_	
+6-30	566-570	Bonn	*	
+6-31	571-574	und	_	
+6-32	575-583	Umgebung	_	
+6-33	584-590	weiter	_	
+6-34	591-593	so	_	
+6-35	594-601	holprig	_	
+6-36	602-608	bleibt	_	
+6-37	608-609	.	_	
+
+#Text=Da dieser Radweg mit der Autostrasse direkt durch den Kottenforst mit vielen Bäumen am Rand führt, kann ich nicht so ganz verstehen, dass zusätzlich an den Radwegen noch Bäume gepflanz wurden, die in der Hauptsache die Schäden verursachen.
+7-1	610-612	Da	_	
+7-2	613-619	dieser	_	
+7-3	620-626	Radweg	_	
+7-4	627-630	mit	_	
+7-5	631-634	der	_	
+7-6	635-646	Autostrasse	_	
+7-7	647-653	direkt	_	
+7-8	654-659	durch	*[12]	
+7-9	660-663	den	*[12]	
+7-10	664-675	Kottenforst	*[12]	
+7-11	676-679	mit	_	
+7-12	680-686	vielen	_	
+7-13	687-693	Bäumen	_	
+7-14	694-696	am	_	
+7-15	697-701	Rand	_	
+7-16	702-707	führt	_	
+7-17	707-708	,	_	
+7-18	709-713	kann	_	
+7-19	714-717	ich	_	
+7-20	718-723	nicht	_	
+7-21	724-726	so	_	
+7-22	727-731	ganz	_	
+7-23	732-741	verstehen	_	
+7-24	741-742	,	_	
+7-25	743-747	dass	_	
+7-26	748-758	zusätzlich	_	
+7-27	759-761	an	_	
+7-28	762-765	den	_	
+7-29	766-774	Radwegen	_	
+7-30	775-779	noch	_	
+7-31	780-785	Bäume	_	
+7-32	786-794	gepflanz	_	
+7-33	795-801	wurden	_	
+7-34	801-802	,	_	
+7-35	803-806	die	_	
+7-36	807-809	in	_	
+7-37	810-813	der	_	
+7-38	814-824	Hauptsache	_	
+7-39	825-828	die	_	
+7-40	829-836	Schäden	_	
+7-41	837-848	verursachen	_	
+7-42	848-849	.	_	
+
+#Text=Ich hoffe einfach,dass dieser Radweg auch nach Röttgen Innenstadt und natürlich noch weitere Radwege besser gewartet werden.
+8-1	850-853	Ich	_	
+8-2	854-859	hoffe	_	
+8-3	860-867	einfach	_	
+8-4	867-868	,	_	
+8-5	868-872	dass	_	
+8-6	873-879	dieser	_	
+8-7	880-886	Radweg	_	
+8-8	887-891	auch	_	
+8-9	892-896	nach	*[13]	
+8-10	897-904	Röttgen	*[13]	
+8-11	905-915	Innenstadt	*[13]	
+8-12	916-919	und	_	
+8-13	920-929	natürlich	_	
+8-14	930-934	noch	_	
+8-15	935-942	weitere	_	
+8-16	943-950	Radwege	_	
+8-17	951-957	besser	_	
+8-18	958-966	gewartet	_	
+8-19	967-973	werden	_	
+8-20	973-974	.	_	
+
+#Text=Mit freundlichen Grüßen Carola Markhof
+9-1	975-978	Mit	_	
+9-2	979-991	freundlichen	_	
+9-3	992-998	Grüßen	_	
+9-4	999-1005	Carola	_	
+9-5	1006-1013	Markhof	_	

@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Durchgehendes sicheres Radwegenetz
+1-1	0-13	Durchgehendes	_	
+1-2	14-22	sicheres	_	
+1-3	23-34	Radwegenetz	_	
+
+#Text=Es ist dringend notwendig, dass in Bonn ein durchgehendes, sicheres Radwegenetz für den Alltagsverkehr eingerichtet wird.
+2-1	37-39	Es	_	
+2-2	40-43	ist	_	
+2-3	44-52	dringend	_	
+2-4	53-62	notwendig	_	
+2-5	62-63	,	_	
+2-6	64-68	dass	_	
+2-7	69-71	in	*[4]	
+2-8	72-76	Bonn	*[4]	
+2-9	77-80	ein	_	
+2-10	81-94	durchgehendes	_	
+2-11	94-95	,	_	
+2-12	96-104	sicheres	_	
+2-13	105-116	Radwegenetz	_	
+2-14	117-120	für	_	
+2-15	121-124	den	_	
+2-16	125-139	Alltagsverkehr	_	
+2-17	140-152	eingerichtet	_	
+2-18	153-157	wird	_	
+2-19	157-158	.	_	
+
+#Text=Radfahrer sollten auf breiten, markierten, von der Straße und von Fusswegen abgetrennten Radwegen - oder auf verkehrsberuhigten Straßen - von jedem Ort in Bonn zu jedem anderen Ort in Bonn gelangen können.
+3-1	159-168	Radfahrer	_	
+3-2	169-176	sollten	_	
+3-3	177-180	auf	_	
+3-4	181-188	breiten	_	
+3-5	188-189	,	_	
+3-6	190-200	markierten	_	
+3-7	200-201	,	_	
+3-8	202-205	von	_	
+3-9	206-209	der	_	
+3-10	210-216	Straße	_	
+3-11	217-220	und	_	
+3-12	221-224	von	_	
+3-13	225-234	Fusswegen	_	
+3-14	235-247	abgetrennten	_	
+3-15	248-256	Radwegen	_	
+3-16	257-258	-	_	
+3-17	259-263	oder	_	
+3-18	264-267	auf	_	
+3-19	268-286	verkehrsberuhigten	_	
+3-20	287-294	Straßen	_	
+3-21	295-296	-	_	
+3-22	297-300	von	_	
+3-23	301-306	jedem	_	
+3-24	307-310	Ort	_	
+3-25	311-313	in	*[5]	
+3-26	314-318	Bonn	*[5]	
+3-27	319-321	zu	_	
+3-28	322-327	jedem	_	
+3-29	328-335	anderen	_	
+3-30	336-339	Ort	_	
+3-31	340-342	in	*[6]	
+3-32	343-347	Bonn	*[6]	
+3-33	348-356	gelangen	_	
+3-34	357-363	können	_	
+3-35	363-364	.	_	

@@ -1,0 +1,129 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radstreifenmarkierung endet unnötigerweise im nichts
+1-1	0-21	Radstreifenmarkierung	_	
+1-2	22-27	endet	_	
+1-3	28-42	unnötigerweise	_	
+1-4	43-45	im	_	
+1-5	46-52	nichts	_	
+
+#Text=Seit die Fahrbahn am Beginn der Ubierstr. saniert wurde, endet der sehr positive Radstreifen etwa in Höhe der Hausnummer 30 im nichts.
+2-1	55-59	Seit	_	
+2-2	60-63	die	_	
+2-3	64-72	Fahrbahn	_	
+2-4	73-75	am	*[8]	
+2-5	76-82	Beginn	*[8]	
+2-6	83-86	der	*[8]	
+2-7	87-95	Ubierstr	*[8]	
+2-8	95-96	.	_	
+2-9	97-104	saniert	_	
+2-10	105-110	wurde	_	
+2-11	110-111	,	_	
+2-12	112-117	endet	_	
+2-13	118-121	der	_	
+2-14	122-126	sehr	_	
+2-15	127-135	positive	_	
+2-16	136-147	Radstreifen	_	
+2-17	148-152	etwa	_	
+2-18	153-155	in	_	
+2-19	156-160	Höhe	_	
+2-20	161-164	der	_	
+2-21	165-175	Hausnummer	_	
+2-22	176-178	30	_	
+2-23	179-181	im	_	
+2-24	182-188	nichts	_	
+2-25	188-189	.	_	
+
+#Text=Warum wird er nicht fortgeführt?
+3-1	190-195	Warum	_	
+3-2	196-200	wird	_	
+3-3	201-203	er	_	
+3-4	204-209	nicht	_	
+3-5	210-221	fortgeführt	_	
+3-6	221-222	?	_	
+
+#Text=Gleichzeitig wäre es sinnvoll, wenn der zuvor exisitierende Mittelstreifen wieder aufgemalt wird, um die Fahrbahn für Autofahrer optisch (und nur optisch!) einzuengen.
+4-1	223-235	Gleichzeitig	_	
+4-2	236-240	wäre	_	
+4-3	241-243	es	_	
+4-4	244-252	sinnvoll	_	
+4-5	252-253	,	_	
+4-6	254-258	wenn	_	
+4-7	259-262	der	_	
+4-8	263-268	zuvor	_	
+4-9	269-282	exisitierende	_	
+4-10	283-297	Mittelstreifen	_	
+4-11	298-304	wieder	_	
+4-12	305-314	aufgemalt	_	
+4-13	315-319	wird	_	
+4-14	319-320	,	_	
+4-15	321-323	um	_	
+4-16	324-327	die	_	
+4-17	328-336	Fahrbahn	_	
+4-18	337-340	für	_	
+4-19	341-351	Autofahrer	_	
+4-20	352-359	optisch	_	
+4-21	360-361	(	_	
+4-22	361-364	und	_	
+4-23	365-368	nur	_	
+4-24	369-376	optisch	_	
+4-25	376-377	!	_	
+4-26	377-378	)	_	
+4-27	379-389	einzuengen	_	
+4-28	389-390	.	_	
+
+#Text=Eine optisch engere Wegstrecke wird in der Regel langsamer befahren als eine optisch weite Strecke.
+5-1	391-395	Eine	_	
+5-2	396-403	optisch	_	
+5-3	404-410	engere	_	
+5-4	411-421	Wegstrecke	_	
+5-5	422-426	wird	_	
+5-6	427-429	in	_	
+5-7	430-433	der	_	
+5-8	434-439	Regel	_	
+5-9	440-449	langsamer	_	
+5-10	450-458	befahren	_	
+5-11	459-462	als	_	
+5-12	463-467	eine	_	
+5-13	468-475	optisch	_	
+5-14	476-481	weite	_	
+5-15	482-489	Strecke	_	
+5-16	489-490	.	_	
+
+#Text=Das haben Untersuchungen des Instituts für Verkehrwissenschaften der TU Dresden bereits in den Neunziger Jahren herausgefunden.
+6-1	491-494	Das	_	
+6-2	495-500	haben	_	
+6-3	501-515	Untersuchungen	_	
+6-4	516-519	des	_	
+6-5	520-529	Instituts	_	
+6-6	530-533	für	_	
+6-7	534-555	Verkehrwissenschaften	_	
+6-8	556-559	der	_	
+6-9	560-562	TU	*[9]	
+6-10	563-570	Dresden	*[9]	
+6-11	571-578	bereits	_	
+6-12	579-581	in	_	
+6-13	582-585	den	_	
+6-14	586-595	Neunziger	_	
+6-15	596-602	Jahren	_	
+6-16	603-617	herausgefunden	_	
+6-17	617-618	.	_	
+
+#Text=Ohne eine einzige physikalische Einengung kann somit die Durchschnittsgeschwindigkeit spürbar gesenkt werden.
+7-1	619-623	Ohne	_	
+7-2	624-628	eine	_	
+7-3	629-636	einzige	_	
+7-4	637-650	physikalische	_	
+7-5	651-660	Einengung	_	
+7-6	661-665	kann	_	
+7-7	666-671	somit	_	
+7-8	672-675	die	_	
+7-9	676-704	Durchschnittsgeschwindigkeit	_	
+7-10	705-712	spürbar	_	
+7-11	713-720	gesenkt	_	
+7-12	721-727	werden	_	
+7-13	727-728	.	_	

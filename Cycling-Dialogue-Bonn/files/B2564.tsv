@@ -1,0 +1,46 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlaglöcher
+1-1	0-12	Schlaglöcher	_	
+
+#Text=Hier gibt es recht schmale aber lange und tiefe Risse in der Fahrbahn.
+2-1	15-19	Hier	_	
+2-2	20-24	gibt	_	
+2-3	25-27	es	_	
+2-4	28-33	recht	_	
+2-5	34-41	schmale	_	
+2-6	42-46	aber	_	
+2-7	47-52	lange	_	
+2-8	53-56	und	_	
+2-9	57-62	tiefe	_	
+2-10	63-68	Risse	_	
+2-11	69-71	in	_	
+2-12	72-75	der	_	
+2-13	76-84	Fahrbahn	_	
+2-14	84-85	.	_	
+
+#Text=Wenn man dort geradeaus zur Verkehrsinsel fahren möchte, muss man genau aufpassen um nich im Schlagloch zu landen.
+3-1	86-90	Wenn	_	
+3-2	91-94	man	_	
+3-3	95-99	dort	_	
+3-4	100-109	geradeaus	_	
+3-5	110-113	zur	_	
+3-6	114-127	Verkehrsinsel	_	
+3-7	128-134	fahren	_	
+3-8	135-141	möchte	_	
+3-9	141-142	,	_	
+3-10	143-147	muss	_	
+3-11	148-151	man	_	
+3-12	152-157	genau	_	
+3-13	158-167	aufpassen	_	
+3-14	168-170	um	_	
+3-15	171-175	nich	_	
+3-16	176-178	im	_	
+3-17	179-189	Schlagloch	_	
+3-18	190-192	zu	_	
+3-19	193-199	landen	_	
+3-20	199-200	.	_	

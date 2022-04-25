@@ -1,0 +1,145 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sperre wieder entfernen
+1-1	0-6	Sperre	_	
+1-2	7-13	wieder	_	
+1-3	14-23	entfernen	_	
+
+#Text=Man konnte sehr schön von der Heinemannstraße über die Brücke der A57 in den Blücherpark radeln.
+2-1	26-29	Man	_	
+2-2	30-36	konnte	_	
+2-3	37-41	sehr	_	
+2-4	42-47	schön	_	
+2-5	48-51	von	*[8]	
+2-6	52-55	der	*[8]	
+2-7	56-71	Heinemannstraße	*[8]	
+2-8	72-76	über	*[8]	
+2-9	77-80	die	*[8]	
+2-10	81-87	Brücke	*[8]	
+2-11	88-91	der	*[8]	
+2-12	92-95	A57	*[8]	
+2-13	96-98	in	*[8]	
+2-14	99-102	den	*[8]	
+2-15	103-114	Blücherpark	*[8]	
+2-16	115-121	radeln	_	
+2-17	121-122	.	_	
+
+#Text=Seit ein paar Monaten ist aber neben der Schranke ein enge Sperre eingebaut worden.
+3-1	123-127	Seit	_	
+3-2	128-131	ein	_	
+3-3	132-136	paar	_	
+3-4	137-144	Monaten	_	
+3-5	145-148	ist	_	
+3-6	149-153	aber	_	
+3-7	154-159	neben	_	
+3-8	160-163	der	_	
+3-9	164-172	Schranke	_	
+3-10	173-176	ein	_	
+3-11	177-181	enge	_	
+3-12	182-188	Sperre	_	
+3-13	189-198	eingebaut	_	
+3-14	199-205	worden	_	
+3-15	205-206	.	_	
+
+#Text=Durch diese Sperre ist es jetzt schwer geworden den Blücherpark mit dem Rad zu erreichen, da ja direkt hinter der Sperre der Anstieg der Brücke liegt.
+4-1	207-212	Durch	_	
+4-2	213-218	diese	_	
+4-3	219-225	Sperre	_	
+4-4	226-229	ist	_	
+4-5	230-232	es	_	
+4-6	233-238	jetzt	_	
+4-7	239-245	schwer	_	
+4-8	246-254	geworden	_	
+4-9	255-258	den	_	
+4-10	259-270	Blücherpark	*	
+4-11	271-274	mit	_	
+4-12	275-278	dem	_	
+4-13	279-282	Rad	_	
+4-14	283-285	zu	_	
+4-15	286-295	erreichen	_	
+4-16	295-296	,	_	
+4-17	297-299	da	_	
+4-18	300-302	ja	_	
+4-19	303-309	direkt	_	
+4-20	310-316	hinter	_	
+4-21	317-320	der	_	
+4-22	321-327	Sperre	_	
+4-23	328-331	der	_	
+4-24	332-339	Anstieg	_	
+4-25	340-343	der	_	
+4-26	344-350	Brücke	_	
+4-27	351-356	liegt	_	
+4-28	356-357	.	_	
+
+#Text=Für Fahrräder mit Anhänger ist es nahezu unmöglich, diesen Weg noch zu nutzen.
+5-1	358-361	Für	_	
+5-2	362-371	Fahrräder	_	
+5-3	372-375	mit	_	
+5-4	376-384	Anhänger	_	
+5-5	385-388	ist	_	
+5-6	389-391	es	_	
+5-7	392-398	nahezu	_	
+5-8	399-408	unmöglich	_	
+5-9	408-409	,	_	
+5-10	410-416	diesen	_	
+5-11	417-420	Weg	_	
+5-12	421-425	noch	_	
+5-13	426-428	zu	_	
+5-14	429-435	nutzen	_	
+5-15	435-436	.	_	
+
+#Text=Vorher standen an dieser Stelle einfache Poller, die Autos an der Durchfahrt gehindert haben, aber für Fahrräder kein Hindernis waren.
+6-1	437-443	Vorher	_	
+6-2	444-451	standen	_	
+6-3	452-454	an	_	
+6-4	455-461	dieser	_	
+6-5	462-468	Stelle	_	
+6-6	469-477	einfache	_	
+6-7	478-484	Poller	_	
+6-8	484-485	,	_	
+6-9	486-489	die	_	
+6-10	490-495	Autos	_	
+6-11	496-498	an	_	
+6-12	499-502	der	_	
+6-13	503-513	Durchfahrt	_	
+6-14	514-523	gehindert	_	
+6-15	524-529	haben	_	
+6-16	529-530	,	_	
+6-17	531-535	aber	_	
+6-18	536-539	für	_	
+6-19	540-549	Fahrräder	_	
+6-20	550-554	kein	_	
+6-21	555-564	Hindernis	_	
+6-22	565-570	waren	_	
+6-23	570-571	.	_	
+
+#Text=Warum jetzt eine solche Einfädelsperre aufgebaut wurde erschließt sich mir nicht, es sei denn, man wollte den Radverkehr durch den Blücherpark vermindern.
+7-1	572-577	Warum	_	
+7-2	578-583	jetzt	_	
+7-3	584-588	eine	_	
+7-4	589-595	solche	_	
+7-5	596-610	Einfädelsperre	_	
+7-6	611-620	aufgebaut	_	
+7-7	621-626	wurde	_	
+7-8	627-637	erschließt	_	
+7-9	638-642	sich	_	
+7-10	643-646	mir	_	
+7-11	647-652	nicht	_	
+7-12	652-653	,	_	
+7-13	654-656	es	_	
+7-14	657-660	sei	_	
+7-15	661-665	denn	_	
+7-16	665-666	,	_	
+7-17	667-670	man	_	
+7-18	671-677	wollte	_	
+7-19	678-681	den	_	
+7-20	682-692	Radverkehr	_	
+7-21	693-698	durch	*[9]	
+7-22	699-702	den	*[9]	
+7-23	703-714	Blücherpark	*[9]	
+7-24	715-725	vermindern	_	
+7-25	725-726	.	_	

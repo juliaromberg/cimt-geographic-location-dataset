@@ -1,0 +1,22 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Einmündung
+1-1	0-11	Gefährliche	_	
+1-2	12-22	Einmündung	_	
+
+#Text=Eventuell würden Spiegel oder eine bessere Sicht die Situation entschärfen.
+2-1	25-34	Eventuell	_	
+2-2	35-41	würden	_	
+2-3	42-49	Spiegel	_	
+2-4	50-54	oder	_	
+2-5	55-59	eine	_	
+2-6	60-67	bessere	_	
+2-7	68-73	Sicht	_	
+2-8	74-77	die	_	
+2-9	78-87	Situation	_	
+2-10	88-99	entschärfen	_	
+2-11	99-100	.	_	

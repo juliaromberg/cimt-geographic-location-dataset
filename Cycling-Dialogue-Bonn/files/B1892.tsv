@@ -1,0 +1,20 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlende Querungsmöglichkeit
+1-1	0-8	Fehlende	_	
+1-2	9-28	Querungsmöglichkeit	_	
+
+#Text=Fehlende gesicherte Querungsmöglichkeit am Beginn der linksseitigen Anordnung.
+2-1	31-39	Fehlende	_	
+2-2	40-50	gesicherte	_	
+2-3	51-70	Querungsmöglichkeit	_	
+2-4	71-73	am	_	
+2-5	74-80	Beginn	_	
+2-6	81-84	der	_	
+2-7	85-98	linksseitigen	_	
+2-8	99-108	Anordnung	_	
+2-9	108-109	.	_	

@@ -1,0 +1,190 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Entfernen der scharfen Holperkante im Bereich der Absperrung.
+1-1	0-9	Entfernen	_	
+1-2	10-13	der	_	
+1-3	14-22	scharfen	_	
+1-4	23-34	Holperkante	_	
+1-5	35-37	im	_	
+1-6	38-45	Bereich	_	
+1-7	46-49	der	_	
+1-8	50-60	Absperrung	_	
+1-9	60-61	.	_	
+
+#Text=Die Stelle gehört duchgängig asphaltiert, die Poller versetzt/entfernt.
+2-1	62-65	Die	_	
+2-2	66-72	Stelle	_	
+2-3	73-79	gehört	_	
+2-4	80-90	duchgängig	_	
+2-5	91-102	asphaltiert	_	
+2-6	102-103	,	_	
+2-7	104-107	die	_	
+2-8	108-114	Poller	_	
+2-9	115-123	versetzt	_	
+2-10	123-124	/	_	
+2-11	124-132	entfernt	_	
+2-12	132-133	.	_	
+
+#Text=Die geradeaus führende Fahrradstraße sollte hier bevorrechtigt sein.
+3-1	136-139	Die	_	
+3-2	140-149	geradeaus	_	
+3-3	150-158	führende	_	
+3-4	159-172	Fahrradstraße	_	
+3-5	173-179	sollte	_	
+3-6	180-184	hier	_	
+3-7	185-198	bevorrechtigt	_	
+3-8	199-203	sein	_	
+3-9	203-204	.	_	
+
+#Text=Eine Fahrradstraße soll doch der Beschleunigung und Attraktivitätssteigerung des Radverkehrs dienen.
+4-1	205-209	Eine	_	
+4-2	210-223	Fahrradstraße	_	
+4-3	224-228	soll	_	
+4-4	229-233	doch	_	
+4-5	234-237	der	_	
+4-6	238-252	Beschleunigung	_	
+4-7	253-256	und	_	
+4-8	257-281	Attraktivitätssteigerung	_	
+4-9	282-285	des	_	
+4-10	286-297	Radverkehrs	_	
+4-11	298-304	dienen	_	
+4-12	304-305	.	_	
+
+#Text=Dafür wurde viel Steuergeld investiert und großes Tamtam gemacht.
+5-1	306-311	Dafür	_	
+5-2	312-317	wurde	_	
+5-3	318-322	viel	_	
+5-4	323-333	Steuergeld	_	
+5-5	334-344	investiert	_	
+5-6	345-348	und	_	
+5-7	349-355	großes	_	
+5-8	356-362	Tamtam	_	
+5-9	363-370	gemacht	_	
+5-10	370-371	.	_	
+
+#Text=Hier wird er ohne Not ausgebremst, die Wirkung der Fahrradstraße verpufft komplett.
+6-1	372-376	Hier	_	
+6-2	377-381	wird	_	
+6-3	382-384	er	_	
+6-4	385-389	ohne	_	
+6-5	390-393	Not	_	
+6-6	394-405	ausgebremst	_	
+6-7	405-406	,	_	
+6-8	407-410	die	_	
+6-9	411-418	Wirkung	_	
+6-10	419-422	der	_	
+6-11	423-436	Fahrradstraße	_	
+6-12	437-445	verpufft	_	
+6-13	446-454	komplett	_	
+6-14	454-455	.	_	
+
+#Text=Es sind 30 km/h in Fahrradstraßen erlaubt, das schaffen viele Radfahrer auch ohne E-Bike, und die 30 die sollte man dann als Radfahrer auch fahren können, ohne dass einem die Achse bricht, eine 8 in die Felge gehauen oder der Fahrradanhänger durch die Luft gewirbelt wird.
+7-1	456-458	Es	_	
+7-2	459-463	sind	_	
+7-3	464-466	30	_	
+7-4	467-469	km	_	
+7-5	469-470	/	_	
+7-6	470-471	h	_	
+7-7	472-474	in	_	
+7-8	475-489	Fahrradstraßen	_	
+7-9	490-497	erlaubt	_	
+7-10	497-498	,	_	
+7-11	499-502	das	_	
+7-12	503-511	schaffen	_	
+7-13	512-517	viele	_	
+7-14	518-527	Radfahrer	_	
+7-15	528-532	auch	_	
+7-16	533-537	ohne	_	
+7-17	538-544	E-Bike	_	
+7-18	544-545	,	_	
+7-19	546-549	und	_	
+7-20	550-553	die	_	
+7-21	554-556	30	_	
+7-22	557-560	die	_	
+7-23	561-567	sollte	_	
+7-24	568-571	man	_	
+7-25	572-576	dann	_	
+7-26	577-580	als	_	
+7-27	581-590	Radfahrer	_	
+7-28	591-595	auch	_	
+7-29	596-602	fahren	_	
+7-30	603-609	können	_	
+7-31	609-610	,	_	
+7-32	611-615	ohne	_	
+7-33	616-620	dass	_	
+7-34	621-626	einem	_	
+7-35	627-630	die	_	
+7-36	631-636	Achse	_	
+7-37	637-643	bricht	_	
+7-38	643-644	,	_	
+7-39	645-649	eine	_	
+7-40	650-651	8	_	
+7-41	652-654	in	_	
+7-42	655-658	die	_	
+7-43	659-664	Felge	_	
+7-44	665-672	gehauen	_	
+7-45	673-677	oder	_	
+7-46	678-681	der	_	
+7-47	682-697	Fahrradanhänger	_	
+7-48	698-703	durch	_	
+7-49	704-707	die	_	
+7-50	708-712	Luft	_	
+7-51	713-722	gewirbelt	_	
+7-52	723-727	wird	_	
+7-53	727-728	.	_	
+
+#Text=Die Poller gehören so angelegt, dass sich zwei Radfahrer mit Anhänger an der Stelle begegnen können, ohne dass einer warten oder mit geringen Tempo um die viel zu eng stehenden Poller herumkurven muss.
+8-1	729-732	Die	_	
+8-2	733-739	Poller	_	
+8-3	740-747	gehören	_	
+8-4	748-750	so	_	
+8-5	751-759	angelegt	_	
+8-6	759-760	,	_	
+8-7	761-765	dass	_	
+8-8	766-770	sich	_	
+8-9	771-775	zwei	_	
+8-10	776-785	Radfahrer	_	
+8-11	786-789	mit	_	
+8-12	790-798	Anhänger	_	
+8-13	799-801	an	_	
+8-14	802-805	der	_	
+8-15	806-812	Stelle	_	
+8-16	813-821	begegnen	_	
+8-17	822-828	können	_	
+8-18	828-829	,	_	
+8-19	830-834	ohne	_	
+8-20	835-839	dass	_	
+8-21	840-845	einer	_	
+8-22	846-852	warten	_	
+8-23	853-857	oder	_	
+8-24	858-861	mit	_	
+8-25	862-870	geringen	_	
+8-26	871-876	Tempo	_	
+8-27	877-879	um	_	
+8-28	880-883	die	_	
+8-29	884-888	viel	_	
+8-30	889-891	zu	_	
+8-31	892-895	eng	_	
+8-32	896-905	stehenden	_	
+8-33	906-912	Poller	_	
+8-34	913-924	herumkurven	_	
+8-35	925-929	muss	_	
+8-36	929-930	.	_	
+
+#Text=Die Abstände von Pollern sollten RECHTWINKLING zur Straßenachse mindestens 1,60m betragen.
+9-1	931-934	Die	_	
+9-2	935-943	Abstände	_	
+9-3	944-947	von	_	
+9-4	948-955	Pollern	_	
+9-5	956-963	sollten	_	
+9-6	964-977	RECHTWINKLING	_	
+9-7	978-981	zur	_	
+9-8	982-994	Straßenachse	_	
+9-9	995-1005	mindestens	_	
+9-10	1006-1011	1,60m	_	
+9-11	1012-1020	betragen	_	
+9-12	1020-1021	.	_	

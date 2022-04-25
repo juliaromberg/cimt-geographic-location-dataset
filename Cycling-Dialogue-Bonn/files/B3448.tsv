@@ -1,0 +1,241 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Die Haribo-Route als positives Beispiel für Mischverkehr
+1-1	0-3	Die	*[13]	
+1-2	4-16	Haribo-Route	*[13]	
+1-3	17-20	als	_	
+1-4	21-30	positives	_	
+1-5	31-39	Beispiel	_	
+1-6	40-43	für	_	
+1-7	44-56	Mischverkehr	_	
+
+#Text=Als Pendler zwischen Bad Godesberg und Bonn finde ich die Route über Friesdorfer Straße - Karl-Barth-Straße sehr angenehm und sicher zu fahren.
+2-1	59-62	Als	_	
+2-2	63-70	Pendler	_	
+2-3	71-79	zwischen	*[14]	
+2-4	80-83	Bad	*[14]	
+2-5	84-93	Godesberg	*[14]	
+2-6	94-97	und	*[14]	
+2-7	98-102	Bonn	*[14]	
+2-8	103-108	finde	*[14]	
+2-9	109-112	ich	*[14]	
+2-10	113-116	die	*[14]	
+2-11	117-122	Route	*[14]	
+2-12	123-127	über	*[14]	
+2-13	128-139	Friesdorfer	*[14]	
+2-14	140-146	Straße	*[14]	
+2-15	147-148	-	*[14]	
+2-16	149-166	Karl-Barth-Straße	*[14]	
+2-17	167-171	sehr	_	
+2-18	172-180	angenehm	_	
+2-19	181-184	und	_	
+2-20	185-191	sicher	_	
+2-21	192-194	zu	_	
+2-22	195-201	fahren	_	
+2-23	201-202	.	_	
+
+#Text=Dabei handelt es sich um eine viel befahrene Kraftverkehrsstraße mit wenig Fahrradinfrastruktur.
+3-1	203-208	Dabei	_	
+3-2	209-216	handelt	_	
+3-3	217-219	es	_	
+3-4	220-224	sich	_	
+3-5	225-227	um	_	
+3-6	228-232	eine	_	
+3-7	233-237	viel	_	
+3-8	238-247	befahrene	_	
+3-9	248-267	Kraftverkehrsstraße	_	
+3-10	268-271	mit	_	
+3-11	272-277	wenig	_	
+3-12	278-298	Fahrradinfrastruktur	_	
+3-13	298-299	.	_	
+
+#Text=Nur im zentralen Teil zwischen Hochkreuzallee und Dottendorfer Straße sind Schutzstreifen markiert.
+4-1	300-303	Nur	_	
+4-2	304-306	im	_	
+4-3	307-316	zentralen	_	
+4-4	317-321	Teil	_	
+4-5	322-330	zwischen	*[15]	
+4-6	331-345	Hochkreuzallee	*[15]	
+4-7	346-349	und	*[15]	
+4-8	350-362	Dottendorfer	*[15]	
+4-9	363-369	Straße	*[15]	
+4-10	370-374	sind	_	
+4-11	375-389	Schutzstreifen	_	
+4-12	390-398	markiert	_	
+4-13	398-399	.	_	
+
+#Text=Es sind etliche Radfahrer unterwegs, meist allerdings auf Kurzstrecken.
+5-1	400-402	Es	_	
+5-2	403-407	sind	_	
+5-3	408-415	etliche	_	
+5-4	416-425	Radfahrer	_	
+5-5	426-435	unterwegs	_	
+5-6	435-436	,	_	
+5-7	437-442	meist	_	
+5-8	443-453	allerdings	_	
+5-9	454-457	auf	_	
+5-10	458-470	Kurzstrecken	_	
+5-11	470-471	.	_	
+
+#Text=Ich schätze, der Radverkehr ist vom Volumen vergleichbar zum Beispiel mit der parallelen B9 oder mit der Königswinterer Straße.
+6-1	472-475	Ich	_	
+6-2	476-483	schätze	_	
+6-3	483-484	,	_	
+6-4	485-488	der	_	
+6-5	489-499	Radverkehr	_	
+6-6	500-503	ist	_	
+6-7	504-507	vom	_	
+6-8	508-515	Volumen	_	
+6-9	516-528	vergleichbar	_	
+6-10	529-532	zum	_	
+6-11	533-541	Beispiel	_	
+6-12	542-545	mit	_	
+6-13	546-549	der	_	
+6-14	550-560	parallelen	_	
+6-15	561-563	B9	*	
+6-16	564-568	oder	_	
+6-17	569-572	mit	_	
+6-18	573-576	der	_	
+6-19	577-591	Königswinterer	*[16]	
+6-20	592-598	Straße	*[16]	
+6-21	598-599	.	_	
+
+#Text=Der Kfz-Verkehr, insbesondere auch der Linienbusverkehr, erweist sich in verschiedener Hinsicht als Verbündeter des Radverkehrs.
+7-1	600-603	Der	_	
+7-2	604-615	Kfz-Verkehr	_	
+7-3	615-616	,	_	
+7-4	617-629	insbesondere	_	
+7-5	630-634	auch	_	
+7-6	635-638	der	_	
+7-7	639-655	Linienbusverkehr	_	
+7-8	655-656	,	_	
+7-9	657-664	erweist	_	
+7-10	665-669	sich	_	
+7-11	670-672	in	_	
+7-12	673-686	verschiedener	_	
+7-13	687-695	Hinsicht	_	
+7-14	696-699	als	_	
+7-15	700-711	Verbündeter	_	
+7-16	712-715	des	_	
+7-17	716-727	Radverkehrs	_	
+7-18	727-728	.	_	
+
+#Text=Man bleibt von all den diversen radwegtypischen Schikanen verschont, die man nebenan besichtigen kann: Hindernisse, Verschwenkungen, Engstellen bzw. schmale Zweirichtungswege, Fahrbahnkanten, unklare Vorfahrt, lange Wartezeiten, schlechte Sichtbeziehungen, kompliziertes Abbiegen, mangelhafter Unterhalt/Grünschnitt/Winterdienst/Reinigung.
+8-1	729-732	Man	_	
+8-2	733-739	bleibt	_	
+8-3	740-743	von	_	
+8-4	744-747	all	_	
+8-5	748-751	den	_	
+8-6	752-760	diversen	_	
+8-7	761-776	radwegtypischen	_	
+8-8	777-786	Schikanen	_	
+8-9	787-796	verschont	_	
+8-10	796-797	,	_	
+8-11	798-801	die	_	
+8-12	802-805	man	_	
+8-13	806-813	nebenan	_	
+8-14	814-825	besichtigen	_	
+8-15	826-830	kann	_	
+8-16	830-831	:	_	
+8-17	832-843	Hindernisse	_	
+8-18	843-844	,	_	
+8-19	845-860	Verschwenkungen	_	
+8-20	860-861	,	_	
+8-21	862-872	Engstellen	_	
+8-22	873-876	bzw	_	
+8-23	876-877	.	_	
+8-24	878-885	schmale	_	
+8-25	886-903	Zweirichtungswege	_	
+8-26	903-904	,	_	
+8-27	905-919	Fahrbahnkanten	_	
+8-28	919-920	,	_	
+8-29	921-928	unklare	_	
+8-30	929-937	Vorfahrt	_	
+8-31	937-938	,	_	
+8-32	939-944	lange	_	
+8-33	945-956	Wartezeiten	_	
+8-34	956-957	,	_	
+8-35	958-967	schlechte	_	
+8-36	968-984	Sichtbeziehungen	_	
+8-37	984-985	,	_	
+8-38	986-999	kompliziertes	_	
+8-39	1000-1008	Abbiegen	_	
+8-40	1008-1009	,	_	
+8-41	1010-1022	mangelhafter	_	
+8-42	1023-1032	Unterhalt	_	
+8-43	1032-1033	/	_	
+8-44	1033-1044	Grünschnitt	_	
+8-45	1044-1045	/	_	
+8-46	1045-1057	Winterdienst	_	
+8-47	1057-1058	/	_	
+8-48	1058-1067	Reinigung	_	
+8-49	1067-1068	.	_	
+
+#Text=Meine Vorschläge:
+9-1	1069-1074	Meine	_	
+9-2	1075-1085	Vorschläge	_	
+9-3	1085-1086	:	_	
+
+#Text=- diese Route erhalten und schützen
+10-1	1087-1088	-	_	
+10-2	1089-1094	diese	_	
+10-3	1095-1100	Route	_	
+10-4	1101-1109	erhalten	_	
+10-5	1110-1113	und	_	
+10-6	1114-1122	schützen	_	
+
+#Text=- diese Route in das Radroutennetz aufnehmen (siehe Kommentar zu einem anderen Vorschlag, laut Routenplaner müsse man von Poppelsdorf nach Godesberg 20 bis 30 % Umweg in Kauf nehmen)
+11-1	1123-1124	-	_	
+11-2	1125-1130	diese	_	
+11-3	1131-1136	Route	_	
+11-4	1137-1139	in	_	
+11-5	1140-1143	das	_	
+11-6	1144-1157	Radroutennetz	_	
+11-7	1158-1167	aufnehmen	_	
+11-8	1168-1169	(	_	
+11-9	1169-1174	siehe	_	
+11-10	1175-1184	Kommentar	_	
+11-11	1185-1187	zu	_	
+11-12	1188-1193	einem	_	
+11-13	1194-1201	anderen	_	
+11-14	1202-1211	Vorschlag	_	
+11-15	1211-1212	,	_	
+11-16	1213-1217	laut	_	
+11-17	1218-1230	Routenplaner	_	
+11-18	1231-1236	müsse	_	
+11-19	1237-1240	man	_	
+11-20	1241-1244	von	*[17]	
+11-21	1245-1256	Poppelsdorf	*[17]	
+11-22	1257-1261	nach	*[17]	
+11-23	1262-1271	Godesberg	*[17]	
+11-24	1272-1274	20	_	
+11-25	1275-1278	bis	_	
+11-26	1279-1281	30	_	
+11-27	1282-1283	%	_	
+11-28	1284-1289	Umweg	_	
+11-29	1290-1292	in	_	
+11-30	1293-1297	Kauf	_	
+11-31	1298-1304	nehmen	_	
+11-32	1304-1305	)	_	
+
+#Text=- und als Aufgabe für eine Fahrradhauptstadt: in anderen ortsverbindenden Straßenzügen vergleichbare Verhältnisse zu schaffen
+12-1	1306-1307	-	_	
+12-2	1308-1311	und	_	
+12-3	1312-1315	als	_	
+12-4	1316-1323	Aufgabe	_	
+12-5	1324-1327	für	_	
+12-6	1328-1332	eine	_	
+12-7	1333-1350	Fahrradhauptstadt	_	
+12-8	1350-1351	:	_	
+12-9	1352-1354	in	_	
+12-10	1355-1362	anderen	_	
+12-11	1363-1379	ortsverbindenden	_	
+12-12	1380-1392	Straßenzügen	_	
+12-13	1393-1406	vergleichbare	_	
+12-14	1407-1419	Verhältnisse	_	
+12-15	1420-1422	zu	_	
+12-16	1423-1431	schaffen	_	

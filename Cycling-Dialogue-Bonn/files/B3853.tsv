@@ -1,0 +1,60 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=keine Überquerung
+1-1	0-5	keine	_	
+1-2	6-17	Überquerung	_	
+
+#Text=In der Auerberger Mitte gibt es keine Quermöglichkeit der Pariser Straße für Radfahrer.
+2-1	20-22	In	*[5]	
+2-2	23-26	der	*[5]	
+2-3	27-37	Auerberger	*[5]	
+2-4	38-43	Mitte	*[5]	
+2-5	44-48	gibt	_	
+2-6	49-51	es	_	
+2-7	52-57	keine	_	
+2-8	58-73	Quermöglichkeit	_	
+2-9	74-77	der	_	
+2-10	78-85	Pariser	*[6]	
+2-11	86-92	Straße	*[6]	
+2-12	93-96	für	_	
+2-13	97-106	Radfahrer	_	
+2-14	106-107	.	_	
+
+#Text=Auch absteigen und den Zebrastreifen nehmen nutzt nichts - da hier noch nie kontrolliert wurde werden beide Zebrastreifen von Autofahrern zumeist ignoriert.
+3-1	108-112	Auch	_	
+3-2	113-122	absteigen	_	
+3-3	123-126	und	_	
+3-4	127-130	den	_	
+3-5	131-144	Zebrastreifen	_	
+3-6	145-151	nehmen	_	
+3-7	152-157	nutzt	_	
+3-8	158-164	nichts	_	
+3-9	165-166	-	_	
+3-10	167-169	da	_	
+3-11	170-174	hier	_	
+3-12	175-179	noch	_	
+3-13	180-183	nie	_	
+3-14	184-196	kontrolliert	_	
+3-15	197-202	wurde	_	
+3-16	203-209	werden	_	
+3-17	210-215	beide	_	
+3-18	216-229	Zebrastreifen	_	
+3-19	230-233	von	_	
+3-20	234-245	Autofahrern	_	
+3-21	246-253	zumeist	_	
+3-22	254-263	ignoriert	_	
+3-23	263-264	.	_	
+
+#Text=Oft noch mit hämischem Grinsen und Winken.
+4-1	265-268	Oft	_	
+4-2	269-273	noch	_	
+4-3	274-277	mit	_	
+4-4	278-287	hämischem	_	
+4-5	288-295	Grinsen	_	
+4-6	296-299	und	_	
+4-7	300-306	Winken	_	
+4-8	306-307	.	_	

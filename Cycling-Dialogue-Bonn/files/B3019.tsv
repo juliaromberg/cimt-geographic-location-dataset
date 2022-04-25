@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Reuterbrücke
+1-1	0-12	Reuterbrücke	*	
+
+#Text=langanhaltende Schließungszeiten der Bahnschranken im Südstadtbereich machen ein Ausweichen über die Reuterbrücke notwendig.
+2-1	15-29	langanhaltende	_	
+2-2	30-47	Schließungszeiten	_	
+2-3	48-51	der	_	
+2-4	52-65	Bahnschranken	_	
+2-5	66-68	im	_	
+2-6	69-84	Südstadtbereich	*	
+2-7	85-91	machen	_	
+2-8	92-95	ein	_	
+2-9	96-106	Ausweichen	_	
+2-10	107-111	über	_	
+2-11	112-115	die	*[3]	
+2-12	116-128	Reuterbrücke	*[3]	
+2-13	129-138	notwendig	_	
+2-14	138-139	.	_	
+
+#Text=Die Verkehrsführung auf und über die Brücke sind mir unklar, gibt es überhaupt eine?
+3-1	140-143	Die	_	
+3-2	144-159	Verkehrsführung	_	
+3-3	160-163	auf	_	
+3-4	164-167	und	_	
+3-5	168-172	über	_	
+3-6	173-176	die	_	
+3-7	177-183	Brücke	_	
+3-8	184-188	sind	_	
+3-9	189-192	mir	_	
+3-10	193-199	unklar	_	
+3-11	199-200	,	_	
+3-12	201-205	gibt	_	
+3-13	206-208	es	_	
+3-14	209-218	überhaupt	_	
+3-15	219-223	eine	_	
+3-16	223-224	?	_	

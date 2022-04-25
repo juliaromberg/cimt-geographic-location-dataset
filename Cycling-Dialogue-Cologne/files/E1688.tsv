@@ -1,0 +1,100 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg ständig zugeparkt
+1-1	0-6	Radweg	_	
+1-2	7-14	ständig	_	
+1-3	15-24	zugeparkt	_	
+
+#Text=Der auf der Fahrbahn der Subbelrather Straße zwischen Gürtel und Äußerer Kanalstraße verlaufende rote Radfahrstreifen ist gut gemacht, leider aber in beiden Richtungen sehr häufig von PKWs zugeparkt.
+2-1	27-30	Der	_	
+2-2	31-34	auf	*[6]	
+2-3	35-38	der	*[6]	
+2-4	39-47	Fahrbahn	*[6]	
+2-5	48-51	der	*[6]	
+2-6	52-64	Subbelrather	*[6]	
+2-7	65-71	Straße	*[6]	
+2-8	72-80	zwischen	*[6]	
+2-9	81-87	Gürtel	*[6]	
+2-10	88-91	und	*[6]	
+2-11	92-99	Äußerer	*[6]	
+2-12	100-111	Kanalstraße	*[6]	
+2-13	112-123	verlaufende	_	
+2-14	124-128	rote	_	
+2-15	129-144	Radfahrstreifen	_	
+2-16	145-148	ist	_	
+2-17	149-152	gut	_	
+2-18	153-160	gemacht	_	
+2-19	160-161	,	_	
+2-20	162-168	leider	_	
+2-21	169-173	aber	_	
+2-22	174-176	in	_	
+2-23	177-183	beiden	_	
+2-24	184-194	Richtungen	_	
+2-25	195-199	sehr	_	
+2-26	200-206	häufig	_	
+2-27	207-210	von	_	
+2-28	211-215	PKWs	_	
+2-29	216-225	zugeparkt	_	
+2-30	225-226	.	_	
+
+#Text=Es vergeht kein Tag, an dem man nicht mindestens einmal parkenden Autos ausweichen muss.
+3-1	227-229	Es	_	
+3-2	230-237	vergeht	_	
+3-3	238-242	kein	_	
+3-4	243-246	Tag	_	
+3-5	246-247	,	_	
+3-6	248-250	an	_	
+3-7	251-254	dem	_	
+3-8	255-258	man	_	
+3-9	259-264	nicht	_	
+3-10	265-275	mindestens	_	
+3-11	276-282	einmal	_	
+3-12	283-292	parkenden	_	
+3-13	293-298	Autos	_	
+3-14	299-309	ausweichen	_	
+3-15	310-314	muss	_	
+3-16	314-315	.	_	
+
+#Text=Hier wünsche ich mir eine konsequentere Ahndung dieser Verstöße durch das Ordnungsamt.
+4-1	316-320	Hier	_	
+4-2	321-328	wünsche	_	
+4-3	329-332	ich	_	
+4-4	333-336	mir	_	
+4-5	337-341	eine	_	
+4-6	342-355	konsequentere	_	
+4-7	356-363	Ahndung	_	
+4-8	364-370	dieser	_	
+4-9	371-379	Verstöße	_	
+4-10	380-385	durch	_	
+4-11	386-389	das	_	
+4-12	390-401	Ordnungsamt	_	
+4-13	401-402	.	_	
+
+#Text=Ich stelle mein Fahrrad ja auch nicht eben mal mitten auf der Fahrspur ab, wenn ich Brötchen holen gehe...
+5-1	403-406	Ich	_	
+5-2	407-413	stelle	_	
+5-3	414-418	mein	_	
+5-4	419-426	Fahrrad	_	
+5-5	427-429	ja	_	
+5-6	430-434	auch	_	
+5-7	435-440	nicht	_	
+5-8	441-445	eben	_	
+5-9	446-449	mal	_	
+5-10	450-456	mitten	_	
+5-11	457-460	auf	_	
+5-12	461-464	der	_	
+5-13	465-473	Fahrspur	_	
+5-14	474-476	ab	_	
+5-15	476-477	,	_	
+5-16	478-482	wenn	_	
+5-17	483-486	ich	_	
+5-18	487-495	Brötchen	_	
+5-19	496-501	holen	_	
+5-20	502-506	gehe	_	
+5-21	506-507	.	_	
+5-22	507-508	.	_	
+5-23	508-509	.	_	

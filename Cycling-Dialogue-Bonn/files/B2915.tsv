@@ -1,0 +1,53 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Poller an der Brücker
+1-1	0-6	Poller	_	
+1-2	7-9	an	_	
+1-3	10-13	der	_	
+1-4	14-21	Brücker	_	
+
+#Text=die beiden Poller (Pfeiler) in der Mitte des Radwegs sind nachts sehr gefährlich, weil sie sehr leicht übersehen werden können und wenn man nebeneinander her fährt kann sich schwer verletzen - die Dinger sollten ersatzlos gestrichen werden
+2-1	24-27	die	_	
+2-2	28-34	beiden	_	
+2-3	35-41	Poller	_	
+2-4	42-43	(	_	
+2-5	43-50	Pfeiler	_	
+2-6	50-51	)	_	
+2-7	52-54	in	_	
+2-8	55-58	der	_	
+2-9	59-64	Mitte	_	
+2-10	65-68	des	_	
+2-11	69-76	Radwegs	_	
+2-12	77-81	sind	_	
+2-13	82-88	nachts	_	
+2-14	89-93	sehr	_	
+2-15	94-104	gefährlich	_	
+2-16	104-105	,	_	
+2-17	106-110	weil	_	
+2-18	111-114	sie	_	
+2-19	115-119	sehr	_	
+2-20	120-126	leicht	_	
+2-21	127-136	übersehen	_	
+2-22	137-143	werden	_	
+2-23	144-150	können	_	
+2-24	151-154	und	_	
+2-25	155-159	wenn	_	
+2-26	160-163	man	_	
+2-27	164-177	nebeneinander	_	
+2-28	178-181	her	_	
+2-29	182-187	fährt	_	
+2-30	188-192	kann	_	
+2-31	193-197	sich	_	
+2-32	198-204	schwer	_	
+2-33	205-214	verletzen	_	
+2-34	215-216	-	_	
+2-35	217-220	die	_	
+2-36	221-227	Dinger	_	
+2-37	228-235	sollten	_	
+2-38	236-245	ersatzlos	_	
+2-39	246-256	gestrichen	_	
+2-40	257-263	werden	_	

@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vorfahrt ändern
+1-1	0-8	Vorfahrt	_	
+1-2	9-15	ändern	_	
+
+#Text=Hier haben Autos aus der Hedwig-Dransfeld-Straße als Nebenstraße Vorfahrt gegenüber den Fahrrädern, die auf dem Radweg zwischen Ückesdorf und Lengsdorf unterwegs sind.
+2-1	18-22	Hier	_	
+2-2	23-28	haben	_	
+2-3	29-34	Autos	_	
+2-4	35-38	aus	*[6]	
+2-5	39-42	der	*[6]	
+2-6	43-66	Hedwig-Dransfeld-Straße	*[6]	
+2-7	67-70	als	*[6]	
+2-8	71-82	Nebenstraße	*[6]	
+2-9	83-91	Vorfahrt	_	
+2-10	92-101	gegenüber	_	
+2-11	102-105	den	_	
+2-12	106-116	Fahrrädern	_	
+2-13	116-117	,	_	
+2-14	118-121	die	_	
+2-15	122-125	auf	_	
+2-16	126-129	dem	_	
+2-17	130-136	Radweg	*[7]	
+2-18	137-145	zwischen	*[7]	
+2-19	146-155	Ückesdorf	*[7]	
+2-20	156-159	und	*[7]	
+2-21	160-169	Lengsdorf	*[7]	
+2-22	170-179	unterwegs	_	
+2-23	180-184	sind	_	
+2-24	184-185	.	_	
+
+#Text=Das ist unbegründet, da hier ein vielbenutzer Fahrradweg von einer einkreuzenden Straße unterbrochen wird.
+3-1	186-189	Das	_	
+3-2	190-193	ist	_	
+3-3	194-205	unbegründet	_	
+3-4	205-206	,	_	
+3-5	207-209	da	_	
+3-6	210-214	hier	_	
+3-7	215-218	ein	_	
+3-8	219-231	vielbenutzer	_	
+3-9	232-242	Fahrradweg	_	
+3-10	243-246	von	_	
+3-11	247-252	einer	_	
+3-12	253-266	einkreuzenden	_	
+3-13	267-273	Straße	_	
+3-14	274-286	unterbrochen	_	
+3-15	287-291	wird	_	
+3-16	291-292	.	_	
+
+#Text=Fahrräder sollten vorfahrt haben.
+4-1	293-302	Fahrräder	_	
+4-2	303-310	sollten	_	
+4-3	311-319	vorfahrt	_	
+4-4	320-325	haben	_	
+4-5	325-326	.	_	
+
+#Text=Autos müssen hier eh langsam fahren auf Grund des Kreisels.
+5-1	327-332	Autos	_	
+5-2	333-339	müssen	_	
+5-3	340-344	hier	_	
+5-4	345-347	eh	_	
+5-5	348-355	langsam	_	
+5-6	356-362	fahren	_	
+5-7	363-366	auf	_	
+5-8	367-372	Grund	_	
+5-9	373-376	des	_	
+5-10	377-385	Kreisels	_	
+5-11	385-386	.	_	

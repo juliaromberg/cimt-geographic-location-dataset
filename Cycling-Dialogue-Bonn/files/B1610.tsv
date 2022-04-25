@@ -1,0 +1,87 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Entfernung der lebensgefährlichen Rille in der Fahrbahn an der Rampe Viktoriabrücke Richtung Weststadt
+1-1	0-10	Entfernung	_	
+1-2	11-14	der	_	
+1-3	15-33	lebensgefährlichen	_	
+1-4	34-39	Rille	_	
+1-5	40-42	in	_	
+1-6	43-46	der	_	
+1-7	47-55	Fahrbahn	_	
+1-8	56-58	an	*[7]	
+1-9	59-62	der	*[7]	
+1-10	63-68	Rampe	*[7]	
+1-11	69-83	Viktoriabrücke	*[7]	
+1-12	84-92	Richtung	*[7]	
+1-13	93-102	Weststadt	*[7]	
+
+#Text=Entfernung der lebensgefährlichen schräg längs zum Radweg verlaufenden Rille in der Fahrbahn an der Rampe Viktoriabrücke Richtung Weststadt.
+2-1	105-115	Entfernung	_	
+2-2	116-119	der	_	
+2-3	120-138	lebensgefährlichen	_	
+2-4	139-145	schräg	_	
+2-5	146-151	längs	_	
+2-6	152-155	zum	_	
+2-7	156-162	Radweg	_	
+2-8	163-175	verlaufenden	_	
+2-9	176-181	Rille	_	
+2-10	182-184	in	_	
+2-11	185-188	der	_	
+2-12	189-197	Fahrbahn	_	
+2-13	198-200	an	*[8]	
+2-14	201-204	der	*[8]	
+2-15	205-210	Rampe	*[8]	
+2-16	211-225	Viktoriabrücke	*[8]	
+2-17	226-234	Richtung	*[8]	
+2-18	235-244	Weststadt	*[8]	
+2-19	244-245	.	_	
+
+#Text=Die ist genau so breit, dass man mit einem Rennradreifen genau reinrutschen kann.
+3-1	246-249	Die	_	
+3-2	250-253	ist	_	
+3-3	254-259	genau	_	
+3-4	260-262	so	_	
+3-5	263-268	breit	_	
+3-6	268-269	,	_	
+3-7	270-274	dass	_	
+3-8	275-278	man	_	
+3-9	279-282	mit	_	
+3-10	283-288	einem	_	
+3-11	289-302	Rennradreifen	_	
+3-12	303-308	genau	_	
+3-13	309-321	reinrutschen	_	
+3-14	322-326	kann	_	
+3-15	326-327	.	_	
+
+#Text=Die sieht auch so aus, als wäre sie schon seit Jahzehnten dort.
+4-1	328-331	Die	_	
+4-2	332-337	sieht	_	
+4-3	338-342	auch	_	
+4-4	343-345	so	_	
+4-5	346-349	aus	_	
+4-6	349-350	,	_	
+4-7	351-354	als	_	
+4-8	355-359	wäre	_	
+4-9	360-363	sie	_	
+4-10	364-369	schon	_	
+4-11	370-374	seit	_	
+4-12	375-385	Jahzehnten	_	
+4-13	386-390	dort	_	
+4-14	390-391	.	_	
+
+#Text=Fährt sich dann wie auf Schienen.
+5-1	392-397	Fährt	_	
+5-2	398-402	sich	_	
+5-3	403-407	dann	_	
+5-4	408-411	wie	_	
+5-5	412-415	auf	_	
+5-6	416-424	Schienen	_	
+5-7	424-425	.	_	
+
+#Text=Toll!
+6-1	426-430	Toll	_	
+6-2	430-431	!	_	

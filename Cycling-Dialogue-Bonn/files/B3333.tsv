@@ -1,0 +1,98 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg ist keiner
+1-1	0-10	Fahrradweg	_	
+1-2	11-14	ist	_	
+1-3	15-21	keiner	_	
+
+#Text=Durch entsprechende Beschilderung ist der Gehweg an der Bornheimer Straße als geteilter Radweg ausgewiesen.
+2-1	24-29	Durch	_	
+2-2	30-43	entsprechende	_	
+2-3	44-57	Beschilderung	_	
+2-4	58-61	ist	_	
+2-5	62-65	der	*[7]	
+2-6	66-72	Gehweg	*[7]	
+2-7	73-75	an	*[7]	
+2-8	76-79	der	*[7]	
+2-9	80-90	Bornheimer	*[7]	
+2-10	91-97	Straße	*[7]	
+2-11	98-101	als	_	
+2-12	102-111	geteilter	_	
+2-13	112-118	Radweg	_	
+2-14	119-130	ausgewiesen	_	
+2-15	130-131	.	_	
+
+#Text=Ein Gehweg wird leider durch ein blaues Schild noch lange nicht zum Radweg.
+3-1	132-135	Ein	_	
+3-2	136-142	Gehweg	_	
+3-3	143-147	wird	_	
+3-4	148-154	leider	_	
+3-5	155-160	durch	_	
+3-6	161-164	ein	_	
+3-7	165-171	blaues	_	
+3-8	172-178	Schild	_	
+3-9	179-183	noch	_	
+3-10	184-189	lange	_	
+3-11	190-195	nicht	_	
+3-12	196-199	zum	_	
+3-13	200-206	Radweg	_	
+3-14	206-207	.	_	
+
+#Text=An sämtlichen Einfahrten der Autohäuser z.B. ist nicht ersichtlich, dass es sich um einen Radweg handelt.
+4-1	208-210	An	_	
+4-2	211-221	sämtlichen	_	
+4-3	222-232	Einfahrten	_	
+4-4	233-236	der	_	
+4-5	237-247	Autohäuser	_	
+4-6	248-251	z.B	_	
+4-7	251-252	.	_	
+4-8	253-256	ist	_	
+4-9	257-262	nicht	_	
+4-10	263-274	ersichtlich	_	
+4-11	274-275	,	_	
+4-12	276-280	dass	_	
+4-13	281-283	es	_	
+4-14	284-288	sich	_	
+4-15	289-291	um	_	
+4-16	292-297	einen	_	
+4-17	298-304	Radweg	_	
+4-18	305-312	handelt	_	
+4-19	312-313	.	_	
+
+#Text=Auf die Rücksichtnahme von Autofahrern kann man sich folglich nicht verlassen.
+5-1	314-317	Auf	_	
+5-2	318-321	die	_	
+5-3	322-336	Rücksichtnahme	_	
+5-4	337-340	von	_	
+5-5	341-352	Autofahrern	_	
+5-6	353-357	kann	_	
+5-7	358-361	man	_	
+5-8	362-366	sich	_	
+5-9	367-375	folglich	_	
+5-10	376-381	nicht	_	
+5-11	382-391	verlassen	_	
+5-12	391-392	.	_	
+
+#Text=Vorschlag: Schild abbauen, Radfahrer auf der Straße fahren lassen (ggf. mit Schutzstreifen).
+6-1	393-402	Vorschlag	_	
+6-2	402-403	:	_	
+6-3	404-410	Schild	_	
+6-4	411-418	abbauen	_	
+6-5	418-419	,	_	
+6-6	420-429	Radfahrer	_	
+6-7	430-433	auf	_	
+6-8	434-437	der	_	
+6-9	438-444	Straße	_	
+6-10	445-451	fahren	_	
+6-11	452-458	lassen	_	
+6-12	459-460	(	_	
+6-13	460-463	ggf	_	
+6-14	463-464	.	_	
+6-15	465-468	mit	_	
+6-16	469-483	Schutzstreifen	_	
+6-17	483-484	)	_	
+6-18	484-485	.	_	

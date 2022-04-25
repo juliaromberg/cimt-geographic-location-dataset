@@ -1,0 +1,58 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahradwege ASPHALTIEREN
+1-1	0-10	Fahradwege	_	
+1-2	11-23	ASPHALTIEREN	_	
+
+#Text=Bitte, bitte, bitte: Gepflasterte Fahradwege gehen viel schneller kaputt als asphaltierte.
+2-1	26-31	Bitte	_	
+2-2	31-32	,	_	
+2-3	33-38	bitte	_	
+2-4	38-39	,	_	
+2-5	40-45	bitte	_	
+2-6	45-46	:	_	
+2-7	47-59	Gepflasterte	_	
+2-8	60-70	Fahradwege	_	
+2-9	71-76	gehen	_	
+2-10	77-81	viel	_	
+2-11	82-91	schneller	_	
+2-12	92-98	kaputt	_	
+2-13	99-102	als	_	
+2-14	103-115	asphaltierte	_	
+2-15	115-116	.	_	
+
+#Text=Das begreift in Köln aber kein Verantwortlicher.
+3-1	117-120	Das	_	
+3-2	121-129	begreift	_	
+3-3	130-132	in	*[6]	
+3-4	133-137	Köln	*[6]	
+3-5	138-142	aber	_	
+3-6	143-147	kein	_	
+3-7	148-164	Verantwortlicher	_	
+3-8	164-165	.	_	
+
+#Text=Pflastersteine lösen sich irgendwann, und hier regelmässig.
+4-1	166-180	Pflastersteine	_	
+4-2	181-186	lösen	_	
+4-3	187-191	sich	_	
+4-4	192-202	irgendwann	_	
+4-5	202-203	,	_	
+4-6	204-207	und	_	
+4-7	208-212	hier	_	
+4-8	213-224	regelmässig	_	
+4-9	224-225	.	_	
+
+#Text=Wenn also irgendwas neu kommt: ASPHALTIERT ES!
+5-1	226-230	Wenn	_	
+5-2	231-235	also	_	
+5-3	236-245	irgendwas	_	
+5-4	246-249	neu	_	
+5-5	250-255	kommt	_	
+5-6	255-256	:	_	
+5-7	257-268	ASPHALTIERT	_	
+5-8	269-271	ES	_	
+5-9	271-272	!	_	

@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreuzung entschärfen
+1-1	0-8	Kreuzung	_	
+1-2	9-20	entschärfen	_	
+
+#Text=Wenn ich als Radfahrer an der Ampel bei rotem Signal im Kreuzungsbereich Koblenzer Str/Löbestr. Fahrtrichtung Bad Godesberg Innenstadt stehe kommt es regelmäßig zu der Situation, dass die anfahrenden Autofahrer die links abbiegen, mich übersehen.
+2-1	23-27	Wenn	_	
+2-2	28-31	ich	_	
+2-3	32-35	als	_	
+2-4	36-45	Radfahrer	_	
+2-5	46-48	an	_	
+2-6	49-52	der	_	
+2-7	53-58	Ampel	_	
+2-8	59-62	bei	_	
+2-9	63-68	rotem	_	
+2-10	69-75	Signal	_	
+2-11	76-78	im	*[4]	
+2-12	79-95	Kreuzungsbereich	*[4]	
+2-13	96-105	Koblenzer	*[4]	
+2-14	106-109	Str	*[4]	
+2-15	109-110	/	*[4]	
+2-16	110-117	Löbestr	*[4]	
+2-17	117-118	.	*[4]	
+2-18	119-132	Fahrtrichtung	*[4]	
+2-19	133-136	Bad	*[4]	
+2-20	137-146	Godesberg	*[4]	
+2-21	147-157	Innenstadt	*[4]	
+2-22	158-163	stehe	_	
+2-23	164-169	kommt	_	
+2-24	170-172	es	_	
+2-25	173-183	regelmäßig	_	
+2-26	184-186	zu	_	
+2-27	187-190	der	_	
+2-28	191-200	Situation	_	
+2-29	200-201	,	_	
+2-30	202-206	dass	_	
+2-31	207-210	die	_	
+2-32	211-222	anfahrenden	_	
+2-33	223-233	Autofahrer	_	
+2-34	234-237	die	_	
+2-35	238-243	links	_	
+2-36	244-252	abbiegen	_	
+2-37	252-253	,	_	
+2-38	254-258	mich	_	
+2-39	259-268	übersehen	_	
+2-40	268-269	.	_	
+
+#Text=Wichtig wäre, den Haltestreifen für die Radfahrer nach vorne zu verschieben, damit die Autofahrer den Radfahrer auch wahrnehmen.
+3-1	270-277	Wichtig	_	
+3-2	278-282	wäre	_	
+3-3	282-283	,	_	
+3-4	284-287	den	_	
+3-5	288-301	Haltestreifen	_	
+3-6	302-305	für	_	
+3-7	306-309	die	_	
+3-8	310-319	Radfahrer	_	
+3-9	320-324	nach	_	
+3-10	325-330	vorne	_	
+3-11	331-333	zu	_	
+3-12	334-345	verschieben	_	
+3-13	345-346	,	_	
+3-14	347-352	damit	_	
+3-15	353-356	die	_	
+3-16	357-367	Autofahrer	_	
+3-17	368-371	den	_	
+3-18	372-381	Radfahrer	_	
+3-19	382-386	auch	_	
+3-20	387-397	wahrnehmen	_	
+3-21	397-398	.	_	

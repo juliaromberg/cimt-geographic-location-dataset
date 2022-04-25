@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg in die Naherholung durch Grünverbindungen
+1-1	0-6	Radweg	_	
+1-2	7-9	in	_	
+1-3	10-13	die	_	
+1-4	14-25	Naherholung	_	
+1-5	26-31	durch	_	
+1-6	32-48	Grünverbindungen	_	
+
+#Text=Ich würde mir hier einen Radweg zum Kottenforst wünschen, der nicht zu 80 % an Hauptverkehrsstraßen entlang läuft, sondern direkt durch den Grünzug!
+2-1	51-54	Ich	_	
+2-2	55-60	würde	_	
+2-3	61-64	mir	_	
+2-4	65-69	hier	_	
+2-5	70-75	einen	_	
+2-6	76-82	Radweg	_	
+2-7	83-86	zum	*[5]	
+2-8	87-98	Kottenforst	*[5]	
+2-9	99-107	wünschen	_	
+2-10	107-108	,	_	
+2-11	109-112	der	_	
+2-12	113-118	nicht	_	
+2-13	119-121	zu	_	
+2-14	122-124	80	_	
+2-15	125-126	%	_	
+2-16	127-129	an	_	
+2-17	130-150	Hauptverkehrsstraßen	_	
+2-18	151-158	entlang	_	
+2-19	159-164	läuft	_	
+2-20	164-165	,	_	
+2-21	166-173	sondern	_	
+2-22	174-180	direkt	_	
+2-23	181-186	durch	_	
+2-24	187-190	den	_	
+2-25	191-198	Grünzug	_	
+2-26	198-199	!	_	
+
+#Text=Dadurch könnte auch ein größerer Anreiz geschaffen werden die Freizeitziele mit dem Fahrrad und nicht mit dem Auto anzufahren!
+3-1	200-207	Dadurch	_	
+3-2	208-214	könnte	_	
+3-3	215-219	auch	_	
+3-4	220-223	ein	_	
+3-5	224-232	größerer	_	
+3-6	233-239	Anreiz	_	
+3-7	240-250	geschaffen	_	
+3-8	251-257	werden	_	
+3-9	258-261	die	_	
+3-10	262-275	Freizeitziele	_	
+3-11	276-279	mit	_	
+3-12	280-283	dem	_	
+3-13	284-291	Fahrrad	_	
+3-14	292-295	und	_	
+3-15	296-301	nicht	_	
+3-16	302-305	mit	_	
+3-17	306-309	dem	_	
+3-18	310-314	Auto	_	
+3-19	315-325	anzufahren	_	
+3-20	325-326	!	_	
+
+#Text=Auch für Rad-Pendler in die Innenstadt könnte eine attraktive Verbindung entstehen.
+4-1	327-331	Auch	_	
+4-2	332-335	für	_	
+4-3	336-347	Rad-Pendler	_	
+4-4	348-350	in	*[6]	
+4-5	351-354	die	*[6]	
+4-6	355-365	Innenstadt	*[6]	
+4-7	366-372	könnte	_	
+4-8	373-377	eine	_	
+4-9	378-388	attraktive	_	
+4-10	389-399	Verbindung	_	
+4-11	400-409	entstehen	_	
+4-12	409-410	.	_	

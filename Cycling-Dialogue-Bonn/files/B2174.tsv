@@ -1,0 +1,105 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg für Fussgänger sperren
+1-1	0-6	Radweg	_	
+1-2	7-10	für	_	
+1-3	11-21	Fussgänger	_	
+1-4	22-29	sperren	_	
+
+#Text=Regelmässig kommt es zu konfrontationen zwischen Fussgängern/Joggern und Radfahrern auf diesem Weg, welcher zudem nicht besonders breit ist.
+2-1	32-43	Regelmässig	_	
+2-2	44-49	kommt	_	
+2-3	50-52	es	_	
+2-4	53-55	zu	_	
+2-5	56-71	konfrontationen	_	
+2-6	72-80	zwischen	_	
+2-7	81-92	Fussgängern	_	
+2-8	92-93	/	_	
+2-9	93-100	Joggern	_	
+2-10	101-104	und	_	
+2-11	105-115	Radfahrern	_	
+2-12	116-119	auf	_	
+2-13	120-126	diesem	_	
+2-14	127-130	Weg	_	
+2-15	130-131	,	_	
+2-16	132-139	welcher	_	
+2-17	140-145	zudem	_	
+2-18	146-151	nicht	_	
+2-19	152-161	besonders	_	
+2-20	162-167	breit	_	
+2-21	168-171	ist	_	
+2-22	171-172	.	_	
+
+#Text=Wünschenswert wäre eine Regel, welche Fussgängern/Joggern einen eigenen Weg oberhalb diesen Weges zusichern würde, damit dieser Weg nur den Radfahrern vorbehalten bleiben kann.
+3-1	173-186	Wünschenswert	_	
+3-2	187-191	wäre	_	
+3-3	192-196	eine	_	
+3-4	197-202	Regel	_	
+3-5	202-203	,	_	
+3-6	204-210	welche	_	
+3-7	211-222	Fussgängern	_	
+3-8	222-223	/	_	
+3-9	223-230	Joggern	_	
+3-10	231-236	einen	_	
+3-11	237-244	eigenen	_	
+3-12	245-248	Weg	_	
+3-13	249-257	oberhalb	_	
+3-14	258-264	diesen	_	
+3-15	265-270	Weges	_	
+3-16	271-280	zusichern	_	
+3-17	281-286	würde	_	
+3-18	286-287	,	_	
+3-19	288-293	damit	_	
+3-20	294-300	dieser	_	
+3-21	301-304	Weg	_	
+3-22	305-308	nur	_	
+3-23	309-312	den	_	
+3-24	313-323	Radfahrern	_	
+3-25	324-335	vorbehalten	_	
+3-26	336-343	bleiben	_	
+3-27	344-348	kann	_	
+3-28	348-349	.	_	
+
+#Text=Der Radverkehr ist an dieser Stelle ist extrem hoch, da auch der gesamte Radverkehr der Fahrer die am Rhein entlang fahren hier entlang muss.
+4-1	350-353	Der	_	
+4-2	354-364	Radverkehr	_	
+4-3	365-368	ist	_	
+4-4	369-371	an	_	
+4-5	372-378	dieser	_	
+4-6	379-385	Stelle	_	
+4-7	386-389	ist	_	
+4-8	390-396	extrem	_	
+4-9	397-401	hoch	_	
+4-10	401-402	,	_	
+4-11	403-405	da	_	
+4-12	406-410	auch	_	
+4-13	411-414	der	_	
+4-14	415-422	gesamte	_	
+4-15	423-433	Radverkehr	_	
+4-16	434-437	der	_	
+4-17	438-444	Fahrer	_	
+4-18	445-448	die	_	
+4-19	449-451	am	*[6]	
+4-20	452-457	Rhein	*[6]	
+4-21	458-465	entlang	*[6]	
+4-22	466-472	fahren	_	
+4-23	473-477	hier	_	
+4-24	478-485	entlang	_	
+4-25	486-490	muss	_	
+4-26	490-491	.	_	
+
+#Text=Fussgänger können auf etliche Wege in der Rheinaue ausweichen.
+5-1	492-502	Fussgänger	_	
+5-2	503-509	können	_	
+5-3	510-513	auf	_	
+5-4	514-521	etliche	_	
+5-5	522-526	Wege	_	
+5-6	527-529	in	*[7]	
+5-7	530-533	der	*[7]	
+5-8	534-542	Rheinaue	*[7]	
+5-9	543-553	ausweichen	_	
+5-10	553-554	.	_	

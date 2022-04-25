@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bonner Bogen
+1-1	0-6	Bonner	*[5]	
+1-2	7-12	Bogen	*[5]	
+
+#Text=Beim Bonner Bogen sollten auch die Radfahrer beim weiteren Ausbau des Gewerbegebietes berücksichtigt werden.
+2-1	15-19	Beim	_	
+2-2	20-26	Bonner	*[6]	
+2-3	27-32	Bogen	*[6]	
+2-4	33-40	sollten	_	
+2-5	41-45	auch	_	
+2-6	46-49	die	_	
+2-7	50-59	Radfahrer	_	
+2-8	60-64	beim	_	
+2-9	65-73	weiteren	_	
+2-10	74-80	Ausbau	_	
+2-11	81-84	des	_	
+2-12	85-100	Gewerbegebietes	_	
+2-13	101-115	berücksichtigt	_	
+2-14	116-122	werden	_	
+2-15	122-123	.	_	
+
+#Text=Aktuell ist es sehr eng und wegen der vielen Einfahrten zu Parkhäusern auch oft gefährlich.
+3-1	124-131	Aktuell	_	
+3-2	132-135	ist	_	
+3-3	136-138	es	_	
+3-4	139-143	sehr	_	
+3-5	144-147	eng	_	
+3-6	148-151	und	_	
+3-7	152-157	wegen	_	
+3-8	158-161	der	_	
+3-9	162-168	vielen	_	
+3-10	169-179	Einfahrten	_	
+3-11	180-182	zu	_	
+3-12	183-194	Parkhäusern	_	
+3-13	195-199	auch	_	
+3-14	200-203	oft	_	
+3-15	204-214	gefährlich	_	
+3-16	214-215	.	_	
+
+#Text=Besonders unübersichtlich ist die Stelle nach der Unterführung vor der Heinrich-Konen-Str. 5 (Parkhaus-Einfahrt zum DLR) und entlang der Straße vor dem Kameha-Hotel, Rheinwerk, Beta-Klinik etc.
+4-1	216-225	Besonders	_	
+4-2	226-241	unübersichtlich	_	
+4-3	242-245	ist	_	
+4-4	246-249	die	_	
+4-5	250-256	Stelle	_	
+4-6	257-261	nach	*[7]	
+4-7	262-265	der	*[7]	
+4-8	266-278	Unterführung	*[7]	
+4-9	279-282	vor	*[7]	
+4-10	283-286	der	*[7]	
+4-11	287-305	Heinrich-Konen-Str	*[7]	
+4-12	305-306	.	*[7]	
+4-13	307-308	5	*[7]	
+4-14	309-310	(	*[7]	
+4-15	310-327	Parkhaus-Einfahrt	*[7]	
+4-16	328-331	zum	*[7]	
+4-17	332-335	DLR	*[7]	
+4-18	335-336	)	*[7]	
+4-19	337-340	und	*[7]	
+4-20	341-348	entlang	*[7]	
+4-21	349-352	der	*[7]	
+4-22	353-359	Straße	*[7]	
+4-23	360-363	vor	*[7]	
+4-24	364-367	dem	*[7]	
+4-25	368-380	Kameha-Hotel	*[7]	
+4-26	380-381	,	*[7]	
+4-27	382-391	Rheinwerk	*[7]	
+4-28	391-392	,	*[7]	
+4-29	393-404	Beta-Klinik	*[7]	
+4-30	405-408	etc	_	
+4-31	408-409	.	_	

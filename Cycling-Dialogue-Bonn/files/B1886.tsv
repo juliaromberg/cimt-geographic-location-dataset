@@ -1,0 +1,169 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=wir brauchen ein ganzheitliches Konzept für die Stadt und sollten uns nicht in Einzlvorschlägen verlieren
+1-1	0-3	wir	_	
+1-2	4-12	brauchen	_	
+1-3	13-16	ein	_	
+1-4	17-31	ganzheitliches	_	
+1-5	32-39	Konzept	_	
+1-6	40-43	für	_	
+1-7	44-47	die	_	
+1-8	48-53	Stadt	_	
+1-9	54-57	und	_	
+1-10	58-65	sollten	_	
+1-11	66-69	uns	_	
+1-12	70-75	nicht	_	
+1-13	76-78	in	_	
+1-14	79-95	Einzlvorschlägen	_	
+1-15	96-105	verlieren	_	
+
+#Text=Wie soll Bonn verkehrstechnisch in 2030 aussehen?
+2-1	108-111	Wie	_	
+2-2	112-116	soll	_	
+2-3	117-121	Bonn	*	
+2-4	122-139	verkehrstechnisch	_	
+2-5	140-142	in	_	
+2-6	143-147	2030	_	
+2-7	148-156	aussehen	_	
+2-8	156-157	?	_	
+
+#Text=Gibt es ein ganzheitliches Konzept, das dem Radverkehr und dem ÖPNV klar Vorrang vor dem PKW Verkehr gibt?
+3-1	158-162	Gibt	_	
+3-2	163-165	es	_	
+3-3	166-169	ein	_	
+3-4	170-184	ganzheitliches	_	
+3-5	185-192	Konzept	_	
+3-6	192-193	,	_	
+3-7	194-197	das	_	
+3-8	198-201	dem	_	
+3-9	202-212	Radverkehr	_	
+3-10	213-216	und	_	
+3-11	217-220	dem	_	
+3-12	221-225	ÖPNV	_	
+3-13	226-230	klar	_	
+3-14	231-238	Vorrang	_	
+3-15	239-242	vor	_	
+3-16	243-246	dem	_	
+3-17	247-250	PKW	_	
+3-18	251-258	Verkehr	_	
+3-19	259-263	gibt	_	
+3-20	263-264	?	_	
+
+#Text=Angesichts der begrenzten Fläche in der Innenstadt kann es m.E. nur um das Zurückdrängen des PKW Verkehrs gehen.
+4-1	265-275	Angesichts	_	
+4-2	276-279	der	_	
+4-3	280-290	begrenzten	_	
+4-4	291-297	Fläche	_	
+4-5	298-300	in	*[10]	
+4-6	301-304	der	*[10]	
+4-7	305-315	Innenstadt	*[10]	
+4-8	316-320	kann	_	
+4-9	321-323	es	_	
+4-10	324-327	m.E	_	
+4-11	327-328	.	_	
+4-12	329-332	nur	_	
+4-13	333-335	um	_	
+4-14	336-339	das	_	
+4-15	340-353	Zurückdrängen	_	
+4-16	354-357	des	_	
+4-17	358-361	PKW	_	
+4-18	362-370	Verkehrs	_	
+4-19	371-376	gehen	_	
+4-20	376-377	.	_	
+
+#Text=Dies sollte in ein langfristiges Konzpt eingebettet sein, da für alle nachvollziehbar ist.
+5-1	378-382	Dies	_	
+5-2	383-389	sollte	_	
+5-3	390-392	in	_	
+5-4	393-396	ein	_	
+5-5	397-410	langfristiges	_	
+5-6	411-417	Konzpt	_	
+5-7	418-429	eingebettet	_	
+5-8	430-434	sein	_	
+5-9	434-435	,	_	
+5-10	436-438	da	_	
+5-11	439-442	für	_	
+5-12	443-447	alle	_	
+5-13	448-463	nachvollziehbar	_	
+5-14	464-467	ist	_	
+5-15	467-468	.	_	
+
+#Text=Nehmen wir uns Kopenhagen als Beispiel.
+6-1	469-475	Nehmen	_	
+6-2	476-479	wir	_	
+6-3	480-483	uns	_	
+6-4	484-494	Kopenhagen	_	
+6-5	495-498	als	_	
+6-6	499-507	Beispiel	_	
+6-7	507-508	.	_	
+
+#Text=Jährliche Minderung der PKW Parkfläche in der Innenstadt um 2-3% zu gunsten von ÖPNV, Radwegen, Gewerbe oder Spielplätze.
+7-1	509-518	Jährliche	_	
+7-2	519-528	Minderung	_	
+7-3	529-532	der	_	
+7-4	533-536	PKW	_	
+7-5	537-547	Parkfläche	_	
+7-6	548-550	in	*[11]	
+7-7	551-554	der	*[11]	
+7-8	555-565	Innenstadt	*[11]	
+7-9	566-568	um	_	
+7-10	569-570	2	_	
+7-11	570-571	-	_	
+7-12	571-573	3%	_	
+7-13	574-576	zu	_	
+7-14	577-584	gunsten	_	
+7-15	585-588	von	_	
+7-16	589-593	ÖPNV	_	
+7-17	593-594	,	_	
+7-18	595-603	Radwegen	_	
+7-19	603-604	,	_	
+7-20	605-612	Gewerbe	_	
+7-21	613-617	oder	_	
+7-22	618-629	Spielplätze	_	
+7-23	629-630	.	_	
+
+#Text=Wenn die Zielrichtng klar ist, dann lassen sich auch die Vorschläge nachvollziehen und in ein großes Ganzes einbetten.
+8-1	631-635	Wenn	_	
+8-2	636-639	die	_	
+8-3	640-651	Zielrichtng	_	
+8-4	652-656	klar	_	
+8-5	657-660	ist	_	
+8-6	660-661	,	_	
+8-7	662-666	dann	_	
+8-8	667-673	lassen	_	
+8-9	674-678	sich	_	
+8-10	679-683	auch	_	
+8-11	684-687	die	_	
+8-12	688-698	Vorschläge	_	
+8-13	699-713	nachvollziehen	_	
+8-14	714-717	und	_	
+8-15	718-720	in	_	
+8-16	721-724	ein	_	
+8-17	725-731	großes	_	
+8-18	732-738	Ganzes	_	
+8-19	739-748	einbetten	_	
+8-20	748-749	.	_	
+
+#Text=Dies setzt eine langwierige, sehr kontroverse Diskussion voraus, die m.E. aber dringend nötig wäre.
+9-1	750-754	Dies	_	
+9-2	755-760	setzt	_	
+9-3	761-765	eine	_	
+9-4	766-777	langwierige	_	
+9-5	777-778	,	_	
+9-6	779-783	sehr	_	
+9-7	784-795	kontroverse	_	
+9-8	796-806	Diskussion	_	
+9-9	807-813	voraus	_	
+9-10	813-814	,	_	
+9-11	815-818	die	_	
+9-12	819-822	m.E	_	
+9-13	822-823	.	_	
+9-14	824-828	aber	_	
+9-15	829-837	dringend	_	
+9-16	838-843	nötig	_	
+9-17	844-848	wäre	_	
+9-18	848-849	.	_	

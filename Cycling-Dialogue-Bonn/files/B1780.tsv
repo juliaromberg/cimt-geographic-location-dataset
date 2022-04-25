@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Plakate versperren Sicht
+1-1	0-7	Plakate	_	
+1-2	8-18	versperren	_	
+1-3	19-24	Sicht	_	
+
+#Text=Wenn man über die Quantiusstr. Richtung Prinz-Albert-Str. fährt, stoßen kurz vor dem Hotel von rechts Fahrzeuge auf die Straße, die RadfahrerInnen nicht gut sehen können, weil dort permanent irgendwelche großen Plakate am Laternenmast hängen, die die Sicht versperren.
+2-1	27-31	Wenn	_	
+2-2	32-35	man	_	
+2-3	36-40	über	*[4]	
+2-4	41-44	die	*[4]	
+2-5	45-56	Quantiusstr	*[4]	
+2-6	56-57	.	*[4]	
+2-7	58-66	Richtung	*[4]	
+2-8	67-83	Prinz-Albert-Str	*[4]	
+2-9	83-84	.	*[4]	
+2-10	85-90	fährt	_	
+2-11	90-91	,	_	
+2-12	92-98	stoßen	_	
+2-13	99-103	kurz	_	
+2-14	104-107	vor	_	
+2-15	108-111	dem	_	
+2-16	112-117	Hotel	_	
+2-17	118-121	von	_	
+2-18	122-128	rechts	_	
+2-19	129-138	Fahrzeuge	_	
+2-20	139-142	auf	_	
+2-21	143-146	die	_	
+2-22	147-153	Straße	_	
+2-23	153-154	,	_	
+2-24	155-158	die	_	
+2-25	159-173	RadfahrerInnen	_	
+2-26	174-179	nicht	_	
+2-27	180-183	gut	_	
+2-28	184-189	sehen	_	
+2-29	190-196	können	_	
+2-30	196-197	,	_	
+2-31	198-202	weil	_	
+2-32	203-207	dort	_	
+2-33	208-217	permanent	_	
+2-34	218-230	irgendwelche	_	
+2-35	231-237	großen	_	
+2-36	238-245	Plakate	_	
+2-37	246-248	am	_	
+2-38	249-261	Laternenmast	_	
+2-39	262-268	hängen	_	
+2-40	268-269	,	_	
+2-41	270-273	die	_	
+2-42	274-277	die	_	
+2-43	278-283	Sicht	_	
+2-44	284-294	versperren	_	
+2-45	294-295	.	_	
+
+#Text=Die sollten entfernt werden.
+3-1	296-299	Die	_	
+3-2	300-307	sollten	_	
+3-3	308-316	entfernt	_	
+3-4	317-323	werden	_	
+3-5	323-324	.	_	

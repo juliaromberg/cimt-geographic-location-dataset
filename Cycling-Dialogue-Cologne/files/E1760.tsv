@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Lessingstraße link in Venloer abbiegen dürfen
+1-1	0-13	Lessingstraße	*[4]	
+1-2	14-18	link	*[4]	
+1-3	19-21	in	*[4]	
+1-4	22-29	Venloer	*[4]	
+1-5	30-38	abbiegen	*[4]	
+1-6	39-45	dürfen	_	
+
+#Text=Die geöfffnete Einbahnstr darf zur Zeit nur stadtauswärts auf die Venloer Str eingebogen werden.
+2-1	48-51	Die	_	
+2-2	52-62	geöfffnete	_	
+2-3	63-73	Einbahnstr	_	
+2-4	74-78	darf	_	
+2-5	79-82	zur	_	
+2-6	83-87	Zeit	_	
+2-7	88-91	nur	_	
+2-8	92-105	stadtauswärts	_	
+2-9	106-109	auf	*[5]	
+2-10	110-113	die	*[5]	
+2-11	114-121	Venloer	*[5]	
+2-12	122-125	Str	*[5]	
+2-13	126-136	eingebogen	*[5]	
+2-14	137-143	werden	_	
+2-15	143-144	.	_	
+
+#Text=Das ist absolut unverständllich und muss dringend geändert werden; aus welchem Grund sollen Radler nicht links in die Venloer Str einbiegen?
+3-1	145-148	Das	_	
+3-2	149-152	ist	_	
+3-3	153-160	absolut	_	
+3-4	161-176	unverständllich	_	
+3-5	177-180	und	_	
+3-6	181-185	muss	_	
+3-7	186-194	dringend	_	
+3-8	195-203	geändert	_	
+3-9	204-210	werden	_	
+3-10	210-211	;	_	
+3-11	212-215	aus	_	
+3-12	216-223	welchem	_	
+3-13	224-229	Grund	_	
+3-14	230-236	sollen	_	
+3-15	237-243	Radler	_	
+3-16	244-249	nicht	_	
+3-17	250-255	links	_	
+3-18	256-258	in	*[6]	
+3-19	259-262	die	*[6]	
+3-20	263-270	Venloer	*[6]	
+3-21	271-274	Str	*[6]	
+3-22	275-284	einbiegen	_	
+3-23	284-285	?	_	

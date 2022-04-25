@@ -1,0 +1,25 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Autos raus
+1-1	0-5	Autos	_	
+1-2	6-10	raus	_	
+
+#Text=Autos raus aus Ehrenfeld.
+2-1	13-18	Autos	_	
+2-2	19-23	raus	_	
+2-3	24-27	aus	_	
+2-4	28-37	Ehrenfeld	*	
+2-5	37-38	.	_	
+
+#Text=Warum kein Modellprojekt für autofreie Stadtteile?
+3-1	39-44	Warum	_	
+3-2	45-49	kein	_	
+3-3	50-63	Modellprojekt	_	
+3-4	64-67	für	_	
+3-5	68-77	autofreie	_	
+3-6	78-88	Stadtteile	_	
+3-7	88-89	?	_	

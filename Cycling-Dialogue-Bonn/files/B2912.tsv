@@ -1,0 +1,103 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlender Übergang von Fahrbahn Haager Weg zum Abzweig Nachtigallenweg
+1-1	0-9	Fehlender	_	
+1-2	10-18	Übergang	_	
+1-3	19-22	von	_	
+1-4	23-31	Fahrbahn	_	
+1-5	32-38	Haager	*[5]	
+1-6	39-42	Weg	*[5]	
+1-7	43-46	zum	*[5]	
+1-8	47-54	Abzweig	*[5]	
+1-9	55-70	Nachtigallenweg	*[5]	
+
+#Text=Um vom Venusberg Richtung Poppelsdorf zu fahren, kann man sehr gut den Nachtigallenweg benutzen.
+2-1	73-75	Um	_	
+2-2	76-79	vom	*[6]	
+2-3	80-89	Venusberg	*[6]	
+2-4	90-98	Richtung	*[6]	
+2-5	99-110	Poppelsdorf	*[6]	
+2-6	111-113	zu	_	
+2-7	114-120	fahren	_	
+2-8	120-121	,	_	
+2-9	122-126	kann	_	
+2-10	127-130	man	_	
+2-11	131-135	sehr	_	
+2-12	136-139	gut	_	
+2-13	140-143	den	_	
+2-14	144-159	Nachtigallenweg	*	
+2-15	160-168	benutzen	_	
+2-16	168-169	.	_	
+
+#Text=Wenn man sich jedoch auf dem Haager Weg befindet und rechts in den Nachtigallenweg einbiegen will, ist dies nur mit sehr sportlichem Einsatz oder absteigen möglich, da es hier keine geeignete Bordsteinabsenkung gibt, bzw. diese noch zu hoch ist und zu spät beginnt.
+3-1	170-174	Wenn	_	
+3-2	175-178	man	_	
+3-3	179-183	sich	_	
+3-4	184-190	jedoch	_	
+3-5	191-194	auf	*[7]	
+3-6	195-198	dem	*[7]	
+3-7	199-205	Haager	*[7]	
+3-8	206-209	Weg	*[7]	
+3-9	210-218	befindet	*[7]	
+3-10	219-222	und	*[7]	
+3-11	223-229	rechts	*[7]	
+3-12	230-232	in	*[7]	
+3-13	233-236	den	*[7]	
+3-14	237-252	Nachtigallenweg	*[7]	
+3-15	253-262	einbiegen	*[7]	
+3-16	263-267	will	_	
+3-17	267-268	,	_	
+3-18	269-272	ist	_	
+3-19	273-277	dies	_	
+3-20	278-281	nur	_	
+3-21	282-285	mit	_	
+3-22	286-290	sehr	_	
+3-23	291-302	sportlichem	_	
+3-24	303-310	Einsatz	_	
+3-25	311-315	oder	_	
+3-26	316-325	absteigen	_	
+3-27	326-333	möglich	_	
+3-28	333-334	,	_	
+3-29	335-337	da	_	
+3-30	338-340	es	_	
+3-31	341-345	hier	_	
+3-32	346-351	keine	_	
+3-33	352-361	geeignete	_	
+3-34	362-380	Bordsteinabsenkung	_	
+3-35	381-385	gibt	_	
+3-36	385-386	,	_	
+3-37	387-390	bzw	_	
+3-38	390-391	.	_	
+3-39	392-397	diese	_	
+3-40	398-402	noch	_	
+3-41	403-405	zu	_	
+3-42	406-410	hoch	_	
+3-43	411-414	ist	_	
+3-44	415-418	und	_	
+3-45	419-421	zu	_	
+3-46	422-426	spät	_	
+3-47	427-434	beginnt	_	
+3-48	434-435	.	_	
+
+#Text=Meistens wird man auf der Straße von ungeduldigen Autofahrern bedrängt, was die Situation noch verschärft.
+4-1	436-444	Meistens	_	
+4-2	445-449	wird	_	
+4-3	450-453	man	_	
+4-4	454-457	auf	_	
+4-5	458-461	der	_	
+4-6	462-468	Straße	_	
+4-7	469-472	von	_	
+4-8	473-485	ungeduldigen	_	
+4-9	486-497	Autofahrern	_	
+4-10	498-506	bedrängt	_	
+4-11	506-507	,	_	
+4-12	508-511	was	_	
+4-13	512-515	die	_	
+4-14	516-525	Situation	_	
+4-15	526-530	noch	_	
+4-16	531-541	verschärft	_	
+4-17	541-542	.	_	

@@ -1,0 +1,82 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Poller entfernen auf Popp.Allee
+1-1	0-6	Poller	_	
+1-2	7-16	entfernen	_	
+1-3	17-20	auf	*[6]	
+1-4	21-31	Popp.Allee	*[6]	
+
+#Text=Hier möchte man auf den Radweg der Poppelsdorfer Allee fahren, das heißt von der Straße links abzubiegen.
+2-1	34-38	Hier	_	
+2-2	39-45	möchte	_	
+2-3	46-49	man	_	
+2-4	50-53	auf	_	
+2-5	54-57	den	*[7]	
+2-6	58-64	Radweg	*[7]	
+2-7	65-68	der	*[7]	
+2-8	69-82	Poppelsdorfer	*[7]	
+2-9	83-88	Allee	*[7]	
+2-10	89-95	fahren	_	
+2-11	95-96	,	_	
+2-12	97-100	das	_	
+2-13	101-106	heißt	_	
+2-14	107-110	von	_	
+2-15	111-114	der	_	
+2-16	115-121	Straße	_	
+2-17	122-127	links	_	
+2-18	128-138	abzubiegen	_	
+2-19	138-139	.	_	
+
+#Text=Hier muss man dann durch die dicht gestellten Poller hindurch.
+3-1	140-144	Hier	_	
+3-2	145-149	muss	_	
+3-3	150-153	man	_	
+3-4	154-158	dann	_	
+3-5	159-164	durch	_	
+3-6	165-168	die	_	
+3-7	169-174	dicht	_	
+3-8	175-185	gestellten	_	
+3-9	186-192	Poller	_	
+3-10	193-201	hindurch	_	
+3-11	201-202	.	_	
+
+#Text=Dabei muss man fast auf null abbremsen, besonders unangenehm wenn hinter einem ein Auto fährt oder es dunkel ist.
+4-1	203-208	Dabei	_	
+4-2	209-213	muss	_	
+4-3	214-217	man	_	
+4-4	218-222	fast	_	
+4-5	223-226	auf	_	
+4-6	227-231	null	_	
+4-7	232-241	abbremsen	_	
+4-8	241-242	,	_	
+4-9	243-252	besonders	_	
+4-10	253-263	unangenehm	_	
+4-11	264-268	wenn	_	
+4-12	269-275	hinter	_	
+4-13	276-281	einem	_	
+4-14	282-285	ein	_	
+4-15	286-290	Auto	_	
+4-16	291-296	fährt	_	
+4-17	297-301	oder	_	
+4-18	302-304	es	_	
+4-19	305-311	dunkel	_	
+4-20	312-315	ist	_	
+4-21	315-316	.	_	
+
+#Text=Bitte entfernen Sie die Poller von der Einfahrt auf den Radweg!
+5-1	317-322	Bitte	_	
+5-2	323-332	entfernen	_	
+5-3	333-336	Sie	_	
+5-4	337-340	die	_	
+5-5	341-347	Poller	_	
+5-6	348-351	von	_	
+5-7	352-355	der	_	
+5-8	356-364	Einfahrt	_	
+5-9	365-368	auf	_	
+5-10	369-372	den	_	
+5-11	373-379	Radweg	_	
+5-12	379-380	!	_	

@@ -1,0 +1,60 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrrad und Fußgängerweg von der Südbrücke (Konrad-Adenauer-Brücke) Richtung Brücke Johanniter Viertel
+1-1	0-7	Fahrrad	_	
+1-2	8-11	und	_	
+1-3	12-24	Fußgängerweg	_	
+1-4	25-28	von	*[4]	
+1-5	29-32	der	*[4]	
+1-6	33-42	Südbrücke	*[4]	
+1-7	43-44	(	*[4]	
+1-8	44-66	Konrad-Adenauer-Brücke	*[4]	
+1-9	66-67	)	*[4]	
+1-10	68-76	Richtung	*[4]	
+1-11	77-83	Brücke	*[4]	
+1-12	84-94	Johanniter	*[4]	
+1-13	95-102	Viertel	*[4]	
+
+#Text=Der Fuß- und Fahrradweg am Ende der Südbrücke Richtung Bonn Johanniter-Vierter ist mit Baumwurzeln untergraben.
+2-1	105-108	Der	_	
+2-2	109-112	Fuß	_	
+2-3	112-113	-	_	
+2-4	114-117	und	_	
+2-5	118-128	Fahrradweg	_	
+2-6	129-131	am	*[5]	
+2-7	132-136	Ende	*[5]	
+2-8	137-140	der	*[5]	
+2-9	141-150	Südbrücke	*[5]	
+2-10	151-159	Richtung	*[5]	
+2-11	160-164	Bonn	*[5]	
+2-12	165-183	Johanniter-Vierter	*[5]	
+2-13	184-187	ist	_	
+2-14	188-191	mit	_	
+2-15	192-203	Baumwurzeln	_	
+2-16	204-215	untergraben	_	
+2-17	215-216	.	_	
+
+#Text=Hier sollte unbedingt der Belag erneuert werden, weil es bei Reifglätte und im Dunkeln echt gefährlich ist.
+3-1	217-221	Hier	_	
+3-2	222-228	sollte	_	
+3-3	229-238	unbedingt	_	
+3-4	239-242	der	_	
+3-5	243-248	Belag	_	
+3-6	249-257	erneuert	_	
+3-7	258-264	werden	_	
+3-8	264-265	,	_	
+3-9	266-270	weil	_	
+3-10	271-273	es	_	
+3-11	274-277	bei	_	
+3-12	278-288	Reifglätte	_	
+3-13	289-292	und	_	
+3-14	293-295	im	_	
+3-15	296-303	Dunkeln	_	
+3-16	304-308	echt	_	
+3-17	309-319	gefährlich	_	
+3-18	320-323	ist	_	
+3-19	323-324	.	_	

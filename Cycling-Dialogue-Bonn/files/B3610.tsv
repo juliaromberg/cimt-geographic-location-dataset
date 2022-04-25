@@ -1,0 +1,62 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schachtdeckel
+1-1	0-13	Schachtdeckel	_	
+
+#Text=Die Schachtdeckel sind hier sehr tief eingelassen.
+2-1	16-19	Die	_	
+2-2	20-33	Schachtdeckel	_	
+2-3	34-38	sind	_	
+2-4	39-43	hier	_	
+2-5	44-48	sehr	_	
+2-6	49-53	tief	_	
+2-7	54-65	eingelassen	_	
+2-8	65-66	.	_	
+
+#Text=Wahrscheinlich hat man eine neue Asphaltschicht aufgetragen ohne die Schachtdeckel anzugleichen.
+3-1	67-81	Wahrscheinlich	_	
+3-2	82-85	hat	_	
+3-3	86-89	man	_	
+3-4	90-94	eine	_	
+3-5	95-99	neue	_	
+3-6	100-114	Asphaltschicht	_	
+3-7	115-126	aufgetragen	_	
+3-8	127-131	ohne	_	
+3-9	132-135	die	_	
+3-10	136-149	Schachtdeckel	_	
+3-11	150-162	anzugleichen	_	
+3-12	162-163	.	_	
+
+#Text=Tückisch ist, dass man aus dem hellen hier unter die Brücke fährt und doch schnell in eine dieser Absenkungen fährt, wenn man sie nicht kennt.
+4-1	164-172	Tückisch	_	
+4-2	173-176	ist	_	
+4-3	176-177	,	_	
+4-4	178-182	dass	_	
+4-5	183-186	man	_	
+4-6	187-190	aus	_	
+4-7	191-194	dem	_	
+4-8	195-201	hellen	_	
+4-9	202-206	hier	_	
+4-10	207-212	unter	_	
+4-11	213-216	die	_	
+4-12	217-223	Brücke	_	
+4-13	224-229	fährt	_	
+4-14	230-233	und	_	
+4-15	234-238	doch	_	
+4-16	239-246	schnell	_	
+4-17	247-249	in	_	
+4-18	250-254	eine	_	
+4-19	255-261	dieser	_	
+4-20	262-273	Absenkungen	_	
+4-21	274-279	fährt	_	
+4-22	279-280	,	_	
+4-23	281-285	wenn	_	
+4-24	286-289	man	_	
+4-25	290-293	sie	_	
+4-26	294-299	nicht	_	
+4-27	300-305	kennt	_	
+4-28	305-306	.	_	

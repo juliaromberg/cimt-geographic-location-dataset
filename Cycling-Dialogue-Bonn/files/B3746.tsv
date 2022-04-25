@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Aufstellfläche für Linksabbieger benötigt
+1-1	0-14	Aufstellfläche	_	
+1-2	15-18	für	_	
+1-3	19-32	Linksabbieger	_	
+1-4	33-41	benötigt	_	
+
+#Text=Wenn ich von der Hausdorffstraße links in die Eduard-Otto-Straße abbiegen möchte (in Richtung Kreisverkehr), fehlt eine Aufstellfläche dafür.
+2-1	44-48	Wenn	_	
+2-2	49-52	ich	_	
+2-3	53-56	von	*[5]	
+2-4	57-60	der	*[5]	
+2-5	61-76	Hausdorffstraße	*[5]	
+2-6	77-82	links	*[5]	
+2-7	83-85	in	*[5]	
+2-8	86-89	die	*[5]	
+2-9	90-108	Eduard-Otto-Straße	*[5]	
+2-10	109-117	abbiegen	*[5]	
+2-11	118-124	möchte	_	
+2-12	125-126	(	_	
+2-13	126-128	in	_	
+2-14	129-137	Richtung	_	
+2-15	138-150	Kreisverkehr	_	
+2-16	150-151	)	_	
+2-17	151-152	,	_	
+2-18	153-158	fehlt	_	
+2-19	159-163	eine	_	
+2-20	164-178	Aufstellfläche	_	
+2-21	179-184	dafür	_	
+2-22	184-185	.	_	
+
+#Text=Bisher warte ich dann an der Fußgängerampel, aber das Einscheren in den Verkehr, der geradeaus in die Eduard-Otto-Straße fährt, ist unkomfortabel und häufig wird man dann von den PKW sehr nah überholt.
+3-1	186-192	Bisher	_	
+3-2	193-198	warte	_	
+3-3	199-202	ich	_	
+3-4	203-207	dann	_	
+3-5	208-210	an	_	
+3-6	211-214	der	_	
+3-7	215-229	Fußgängerampel	_	
+3-8	229-230	,	_	
+3-9	231-235	aber	_	
+3-10	236-239	das	_	
+3-11	240-250	Einscheren	_	
+3-12	251-253	in	_	
+3-13	254-257	den	_	
+3-14	258-265	Verkehr	_	
+3-15	265-266	,	_	
+3-16	267-270	der	_	
+3-17	271-280	geradeaus	*[6]	
+3-18	281-283	in	*[6]	
+3-19	284-287	die	*[6]	
+3-20	288-306	Eduard-Otto-Straße	*[6]	
+3-21	307-312	fährt	_	
+3-22	312-313	,	_	
+3-23	314-317	ist	_	
+3-24	318-331	unkomfortabel	_	
+3-25	332-335	und	_	
+3-26	336-342	häufig	_	
+3-27	343-347	wird	_	
+3-28	348-351	man	_	
+3-29	352-356	dann	_	
+3-30	357-360	von	_	
+3-31	361-364	den	_	
+3-32	365-368	PKW	_	
+3-33	369-373	sehr	_	
+3-34	374-377	nah	_	
+3-35	378-386	überholt	_	
+3-36	386-387	.	_	
+
+#Text=Alternativ würde es reichen, wenn die Fußgängerampel einige Sekunden früher grün zeigt.
+4-1	388-398	Alternativ	_	
+4-2	399-404	würde	_	
+4-3	405-407	es	_	
+4-4	408-415	reichen	_	
+4-5	415-416	,	_	
+4-6	417-421	wenn	_	
+4-7	422-425	die	_	
+4-8	426-440	Fußgängerampel	_	
+4-9	441-447	einige	_	
+4-10	448-456	Sekunden	_	
+4-11	457-463	früher	_	
+4-12	464-468	grün	_	
+4-13	469-474	zeigt	_	
+4-14	474-475	.	_	

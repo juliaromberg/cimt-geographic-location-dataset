@@ -1,0 +1,21 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radfahrer frei
+1-1	0-9	Radfahrer	_	
+1-2	10-14	frei	_	
+
+#Text=Freigabe der Einbahnstraße Lichtstraße für Radfahrer gegen die Fahrtrichtung.
+2-1	17-25	Freigabe	_	
+2-2	26-29	der	_	
+2-3	30-43	Einbahnstraße	_	
+2-4	44-55	Lichtstraße	*	
+2-5	56-59	für	_	
+2-6	60-69	Radfahrer	_	
+2-7	70-75	gegen	_	
+2-8	76-79	die	_	
+2-9	80-93	Fahrtrichtung	_	
+2-10	93-94	.	_	

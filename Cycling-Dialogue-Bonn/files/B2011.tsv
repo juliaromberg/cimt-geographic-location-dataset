@@ -1,0 +1,196 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Anbindung Sportpark Nord
+1-1	0-9	Anbindung	_	
+1-2	10-19	Sportpark	*[9]	
+1-3	20-24	Nord	*[9]	
+
+#Text=Der Sportpark Nord wird täglich von vielen Sportlern per Rad angefahren.
+2-1	27-30	Der	*[10]	
+2-2	31-40	Sportpark	*[10]	
+2-3	41-45	Nord	*[10]	
+2-4	46-50	wird	_	
+2-5	51-58	täglich	_	
+2-6	59-62	von	_	
+2-7	63-69	vielen	_	
+2-8	70-79	Sportlern	_	
+2-9	80-83	per	_	
+2-10	84-87	Rad	_	
+2-11	88-98	angefahren	_	
+2-12	98-99	.	_	
+
+#Text=Leider ist die Anbindung an das Bonner Stadtgebiet bzw. die einzelnen Stadtviertel nicht gegeben.
+3-1	100-106	Leider	_	
+3-2	107-110	ist	_	
+3-3	111-114	die	_	
+3-4	115-124	Anbindung	_	
+3-5	125-127	an	*[11]	
+3-6	128-131	das	*[11]	
+3-7	132-138	Bonner	*[11]	
+3-8	139-150	Stadtgebiet	*[11]	
+3-9	151-154	bzw	_	
+3-10	154-155	.	_	
+3-11	156-159	die	_	
+3-12	160-169	einzelnen	_	
+3-13	170-182	Stadtviertel	_	
+3-14	183-188	nicht	_	
+3-15	189-196	gegeben	_	
+3-16	196-197	.	_	
+
+#Text=Das Stadtzentrum kann man vom Sportpark aus nicht direkt erreichen da die Kölnstraße mit dem starken Verkehr und den tiefen Bahnschienen keine Option für Radfahrer ist.
+4-1	198-201	Das	*[12]	
+4-2	202-214	Stadtzentrum	*[12]	
+4-3	215-219	kann	_	
+4-4	220-223	man	_	
+4-5	224-227	vom	*[13]	
+4-6	228-237	Sportpark	*[13]	
+4-7	238-241	aus	*[13]	
+4-8	242-247	nicht	_	
+4-9	248-254	direkt	_	
+4-10	255-264	erreichen	_	
+4-11	265-267	da	_	
+4-12	268-271	die	*[14]	
+4-13	272-282	Kölnstraße	*[14]	
+4-14	283-286	mit	_	
+4-15	287-290	dem	_	
+4-16	291-298	starken	_	
+4-17	299-306	Verkehr	_	
+4-18	307-310	und	_	
+4-19	311-314	den	_	
+4-20	315-321	tiefen	_	
+4-21	322-334	Bahnschienen	_	
+4-22	335-340	keine	_	
+4-23	341-347	Option	_	
+4-24	348-351	für	_	
+4-25	352-361	Radfahrer	_	
+4-26	362-365	ist	_	
+4-27	365-366	.	_	
+
+#Text=In der Kölnstraße ist außerdem ständig Stau so dass der Radstreifen dann von drängelnden (oder nur kurz parkenden) PKWs blockiert wird.
+5-1	367-369	In	*[15]	
+5-2	370-373	der	*[15]	
+5-3	374-384	Kölnstraße	*[15]	
+5-4	385-388	ist	_	
+5-5	389-397	außerdem	_	
+5-6	398-405	ständig	_	
+5-7	406-410	Stau	_	
+5-8	411-413	so	_	
+5-9	414-418	dass	_	
+5-10	419-422	der	_	
+5-11	423-434	Radstreifen	_	
+5-12	435-439	dann	_	
+5-13	440-443	von	_	
+5-14	444-455	drängelnden	_	
+5-15	456-457	(	_	
+5-16	457-461	oder	_	
+5-17	462-465	nur	_	
+5-18	466-470	kurz	_	
+5-19	471-480	parkenden	_	
+5-20	480-481	)	_	
+5-21	482-486	PKWs	_	
+5-22	487-496	blockiert	_	
+5-23	497-501	wird	_	
+5-24	501-502	.	_	
+
+#Text=Die Ausweichmöglichkeit erster Wahl wäre der Radweg am Rheinufer um zum Stadtzentrum zu gelangen - aber es gibt keine Anbindung zum Rhein (Zustand der Radwege und Ampeln auf Kaiser-Karl-Ring sowie Augustusring sind unzumutbar) und später auch keine Anbindung vom Rhein zurück in die City.
+6-1	503-506	Die	_	
+6-2	507-526	Ausweichmöglichkeit	_	
+6-3	527-533	erster	_	
+6-4	534-538	Wahl	_	
+6-5	539-543	wäre	_	
+6-6	544-547	der	*[16]	
+6-7	548-554	Radweg	*[16]	
+6-8	555-557	am	*[16]	
+6-9	558-567	Rheinufer	*[16]	
+6-10	568-570	um	*[16]	
+6-11	571-574	zum	*[16]	
+6-12	575-587	Stadtzentrum	*[16]	
+6-13	588-590	zu	*[16]	
+6-14	591-599	gelangen	*[16]	
+6-15	600-601	-	_	
+6-16	602-606	aber	_	
+6-17	607-609	es	_	
+6-18	610-614	gibt	_	
+6-19	615-620	keine	_	
+6-20	621-630	Anbindung	_	
+6-21	631-634	zum	*[17]	
+6-22	635-640	Rhein	*[17]	
+6-23	641-642	(	_	
+6-24	642-649	Zustand	_	
+6-25	650-653	der	_	
+6-26	654-661	Radwege	_	
+6-27	662-665	und	_	
+6-28	666-672	Ampeln	_	
+6-29	673-676	auf	*[18]	
+6-30	677-693	Kaiser-Karl-Ring	*[18]	
+6-31	694-699	sowie	*[18]	
+6-32	700-712	Augustusring	*[18]	
+6-33	713-717	sind	_	
+6-34	718-728	unzumutbar	_	
+6-35	728-729	)	_	
+6-36	730-733	und	_	
+6-37	734-740	später	_	
+6-38	741-745	auch	_	
+6-39	746-751	keine	_	
+6-40	752-761	Anbindung	_	
+6-41	762-765	vom	*[19]	
+6-42	766-771	Rhein	*[19]	
+6-43	772-778	zurück	*[19]	
+6-44	779-781	in	*[19]	
+6-45	782-785	die	*[19]	
+6-46	786-790	City	*[19]	
+6-47	790-791	.	_	
+
+#Text=Die Anbindung nach Beuel wird durch den desolaten Zustand der Straße Am Mondorfer Bach und die langen Wartezeiten an der Ampel zur Autobahnauffahrt neben dem Heinrich-Hertz-Europakolleg erschwert.
+7-1	792-795	Die	_	
+7-2	796-805	Anbindung	_	
+7-3	806-810	nach	*[20]	
+7-4	811-816	Beuel	*[20]	
+7-5	817-821	wird	_	
+7-6	822-827	durch	_	
+7-7	828-831	den	_	
+7-8	832-841	desolaten	_	
+7-9	842-849	Zustand	_	
+7-10	850-853	der	_	
+7-11	854-860	Straße	*[21]	
+7-12	861-863	Am	*[21]	
+7-13	864-873	Mondorfer	*[21]	
+7-14	874-878	Bach	*[21]	
+7-15	879-882	und	_	
+7-16	883-886	die	_	
+7-17	887-893	langen	_	
+7-18	894-905	Wartezeiten	_	
+7-19	906-908	an	*[22]	
+7-20	909-912	der	*[22]	
+7-21	913-918	Ampel	*[22]	
+7-22	919-922	zur	*[22]	
+7-23	923-939	Autobahnauffahrt	*[22]	
+7-24	940-945	neben	*[22]	
+7-25	946-949	dem	*[22]	
+7-26	950-977	Heinrich-Hertz-Europakolleg	*[22]	
+7-27	978-987	erschwert	_	
+7-28	987-988	.	_	
+
+#Text=Es wäre dringend notwendig den Radweg zwischen Sportpark Nord und Kaiser-Karl-Ring in beide Richtungen frei zu geben.
+8-1	989-991	Es	_	
+8-2	992-996	wäre	_	
+8-3	997-1005	dringend	_	
+8-4	1006-1015	notwendig	_	
+8-5	1016-1019	den	*[23]	
+8-6	1020-1026	Radweg	*[23]	
+8-7	1027-1035	zwischen	*[23]	
+8-8	1036-1045	Sportpark	*[23]	
+8-9	1046-1050	Nord	*[23]	
+8-10	1051-1054	und	*[23]	
+8-11	1055-1071	Kaiser-Karl-Ring	*[23]	
+8-12	1072-1074	in	*[23]	
+8-13	1075-1080	beide	*[23]	
+8-14	1081-1091	Richtungen	*[23]	
+8-15	1092-1096	frei	_	
+8-16	1097-1099	zu	_	
+8-17	1100-1105	geben	_	
+8-18	1105-1106	.	_	

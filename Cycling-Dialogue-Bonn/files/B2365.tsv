@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unbefahrbar
+1-1	0-11	Unbefahrbar	_	
+
+#Text=Der Radweg parallel zum Rhein ist im Bereich der Rheinaue viel zu schmal und durch Wurzelaufbrüche und sonstige Mängel im Asphalt eigentlich nicht zu befahren.
+2-1	14-17	Der	*[2]	
+2-2	18-24	Radweg	*[2]	
+2-3	25-33	parallel	*[2]	
+2-4	34-37	zum	*[2]	
+2-5	38-43	Rhein	*[2]	
+2-6	44-47	ist	*[2]	
+2-7	48-50	im	*[2]	
+2-8	51-58	Bereich	*[2]	
+2-9	59-62	der	*[2]	
+2-10	63-71	Rheinaue	*[2]	
+2-11	72-76	viel	_	
+2-12	77-79	zu	_	
+2-13	80-86	schmal	_	
+2-14	87-90	und	_	
+2-15	91-96	durch	_	
+2-16	97-112	Wurzelaufbrüche	_	
+2-17	113-116	und	_	
+2-18	117-125	sonstige	_	
+2-19	126-132	Mängel	_	
+2-20	133-135	im	_	
+2-21	136-143	Asphalt	_	
+2-22	144-154	eigentlich	_	
+2-23	155-160	nicht	_	
+2-24	161-163	zu	_	
+2-25	164-172	befahren	_	
+2-26	172-173	.	_	

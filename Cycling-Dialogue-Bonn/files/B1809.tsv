@@ -1,0 +1,93 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg nicht vorhanden
+1-1	0-6	Radweg	_	
+1-2	7-12	nicht	_	
+1-3	13-22	vorhanden	_	
+
+#Text=Die Einbahnstraße Am Boeselagerhof ist für Radfahrer in entgegengesetzter Fahrtrichtung lediglich freigegeben.
+2-1	25-28	Die	*[7]	
+2-2	29-42	Einbahnstraße	*[7]	
+2-3	43-45	Am	*[7]	
+2-4	46-59	Boeselagerhof	*[7]	
+2-5	60-63	ist	_	
+2-6	64-67	für	_	
+2-7	68-77	Radfahrer	_	
+2-8	78-80	in	_	
+2-9	81-98	entgegengesetzter	_	
+2-10	99-112	Fahrtrichtung	_	
+2-11	113-122	lediglich	_	
+2-12	123-134	freigegeben	_	
+2-13	134-135	.	_	
+
+#Text=Dies ist der einzige Anschluss vom Rheinufer zur Kennedybrücke Richtung Beuel und auch für PKWs die einzige Wendemöglichkeit in Richtung Belderberg.
+3-1	136-140	Dies	_	
+3-2	141-144	ist	_	
+3-3	145-148	der	_	
+3-4	149-156	einzige	_	
+3-5	157-166	Anschluss	_	
+3-6	167-170	vom	*[8]	
+3-7	171-180	Rheinufer	*[8]	
+3-8	181-184	zur	*[8]	
+3-9	185-198	Kennedybrücke	*[8]	
+3-10	199-207	Richtung	*[8]	
+3-11	208-213	Beuel	*[8]	
+3-12	214-217	und	_	
+3-13	218-222	auch	_	
+3-14	223-226	für	_	
+3-15	227-231	PKWs	_	
+3-16	232-235	die	_	
+3-17	236-243	einzige	_	
+3-18	244-260	Wendemöglichkeit	_	
+3-19	261-263	in	*[9]	
+3-20	264-272	Richtung	*[9]	
+3-21	273-283	Belderberg	*[9]	
+3-22	283-284	.	_	
+
+#Text=Busse und PKWs biegen mit hoher Geschwindigkeit in diese Straße ein.
+4-1	285-290	Busse	_	
+4-2	291-294	und	_	
+4-3	295-299	PKWs	_	
+4-4	300-306	biegen	_	
+4-5	307-310	mit	_	
+4-6	311-316	hoher	_	
+4-7	317-332	Geschwindigkeit	_	
+4-8	333-335	in	_	
+4-9	336-341	diese	_	
+4-10	342-348	Straße	_	
+4-11	349-352	ein	_	
+4-12	352-353	.	_	
+
+#Text=Radfahrer bräuchten hier unbedingt einen baulich getrennten Radstreifen.
+5-1	354-363	Radfahrer	_	
+5-2	364-373	bräuchten	_	
+5-3	374-378	hier	_	
+5-4	379-388	unbedingt	_	
+5-5	389-394	einen	_	
+5-6	395-402	baulich	_	
+5-7	403-413	getrennten	_	
+5-8	414-425	Radstreifen	_	
+5-9	425-426	.	_	
+
+#Text=Auf dem Bürgersteig wäre genug Platz - dieser wird allerdings von der Oper als Parkplatz genutzt.
+6-1	427-430	Auf	_	
+6-2	431-434	dem	_	
+6-3	435-446	Bürgersteig	_	
+6-4	447-451	wäre	_	
+6-5	452-457	genug	_	
+6-6	458-463	Platz	_	
+6-7	464-465	-	_	
+6-8	466-472	dieser	_	
+6-9	473-477	wird	_	
+6-10	478-488	allerdings	_	
+6-11	489-492	von	_	
+6-12	493-496	der	_	
+6-13	497-501	Oper	*	
+6-14	502-505	als	_	
+6-15	506-515	Parkplatz	_	
+6-16	516-523	genutzt	_	
+6-17	523-524	.	_	

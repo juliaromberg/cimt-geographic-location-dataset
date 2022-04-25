@@ -1,0 +1,29 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radspur in West-Ost-Richtung
+1-1	0-7	Radspur	_	
+1-2	8-10	in	_	
+1-3	11-28	West-Ost-Richtung	_	
+
+#Text=Es fehlt eine Trasse in West-Ost-Richtung, am besten von der Poppelsdorfer Allee bis zur Kennedybrücke.
+2-1	31-33	Es	_	
+2-2	34-39	fehlt	_	
+2-3	40-44	eine	_	
+2-4	45-51	Trasse	_	
+2-5	52-54	in	_	
+2-6	55-72	West-Ost-Richtung	_	
+2-7	72-73	,	_	
+2-8	74-76	am	_	
+2-9	77-83	besten	_	
+2-10	84-87	von	*[3]	
+2-11	88-91	der	*[3]	
+2-12	92-105	Poppelsdorfer	*[3]	
+2-13	106-111	Allee	*[3]	
+2-14	112-115	bis	*[3]	
+2-15	116-119	zur	*[3]	
+2-16	120-133	Kennedybrücke	*[3]	
+2-17	133-134	.	_	

@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Grüner Pfeil für Radfahrer
+1-1	0-6	Grüner	_	
+1-2	7-12	Pfeil	_	
+1-3	13-16	für	_	
+1-4	17-26	Radfahrer	_	
+
+#Text=Alpener Straße / Ecke Subbelrather Straße: Hier sollten Radfahrer einen grünen Pfeil als Abbiegemöglichkeit rechts auf die Subbelrather Straße bekommen, da sie dort gleich auf dem Radstreifen weiterfahren könnten.
+2-1	29-36	Alpener	*[3]	
+2-2	37-43	Straße	*[3]	
+2-3	44-45	/	*[3]	
+2-4	46-50	Ecke	*[3]	
+2-5	51-63	Subbelrather	*[3]	
+2-6	64-70	Straße	*[3]	
+2-7	70-71	:	_	
+2-8	72-76	Hier	_	
+2-9	77-84	sollten	_	
+2-10	85-94	Radfahrer	_	
+2-11	95-100	einen	_	
+2-12	101-107	grünen	_	
+2-13	108-113	Pfeil	_	
+2-14	114-117	als	_	
+2-15	118-136	Abbiegemöglichkeit	_	
+2-16	137-143	rechts	*[4]	
+2-17	144-147	auf	*[4]	
+2-18	148-151	die	*[4]	
+2-19	152-164	Subbelrather	*[4]	
+2-20	165-171	Straße	*[4]	
+2-21	172-180	bekommen	_	
+2-22	180-181	,	_	
+2-23	182-184	da	_	
+2-24	185-188	sie	_	
+2-25	189-193	dort	_	
+2-26	194-200	gleich	_	
+2-27	201-204	auf	_	
+2-28	205-208	dem	_	
+2-29	209-220	Radstreifen	_	
+2-30	221-233	weiterfahren	_	
+2-31	234-241	könnten	_	
+2-32	241-242	.	_	

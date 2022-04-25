@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Mehr Licht
+1-1	0-4	Mehr	_	
+1-2	5-10	Licht	_	
+
+#Text=Mehr Licht in den Unterführungen auf dem Bröhltalweg!!
+2-1	13-17	Mehr	_	
+2-2	18-23	Licht	_	
+2-3	24-26	in	*[4]	
+2-4	27-30	den	*[4]	
+2-5	31-45	Unterführungen	*[4]	
+2-6	46-49	auf	*[4]	
+2-7	50-53	dem	*[4]	
+2-8	54-65	Bröhltalweg	*[4]	
+2-9	65-66	!	_	
+2-10	66-67	!	_	
+
+#Text=Zu dunkel, für Kinder/Jugendliche unheimlich
+3-1	68-70	Zu	_	
+3-2	71-77	dunkel	_	
+3-3	77-78	,	_	
+3-4	79-82	für	_	
+3-5	83-89	Kinder	_	
+3-6	89-90	/	_	
+3-7	90-101	Jugendliche	_	
+3-8	102-112	unheimlich	_	

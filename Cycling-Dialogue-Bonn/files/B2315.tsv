@@ -1,0 +1,277 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radverkehr in Bonn
+1-1	0-10	Radverkehr	_	
+1-2	11-13	in	*[14]	
+1-3	14-18	Bonn	*[14]	
+
+#Text=Am Berta-von-Suttner-Platz wird sehr deutlich, welchen Stellenwert der Radverkehr hier in Bonn hat: Die Strasse ist 2, sogar 3 spurig, der Radweg aber, nur aufgemalt, wird am Rande oder sogar in der Mitte der Strasse unter Verengung der Fahrspuren entlang geführt, was zu riskanten Überholmanövern des langsameren Radverkehrs führt.
+2-1	21-23	Am	*[15]	
+2-2	24-47	Berta-von-Suttner-Platz	*[15]	
+2-3	48-52	wird	_	
+2-4	53-57	sehr	_	
+2-5	58-66	deutlich	_	
+2-6	66-67	,	_	
+2-7	68-75	welchen	_	
+2-8	76-87	Stellenwert	_	
+2-9	88-91	der	_	
+2-10	92-102	Radverkehr	_	
+2-11	103-107	hier	_	
+2-12	108-110	in	*[16]	
+2-13	111-115	Bonn	*[16]	
+2-14	116-119	hat	_	
+2-15	119-120	:	_	
+2-16	121-124	Die	_	
+2-17	125-132	Strasse	_	
+2-18	133-136	ist	_	
+2-19	137-138	2	_	
+2-20	138-139	,	_	
+2-21	140-145	sogar	_	
+2-22	146-147	3	_	
+2-23	148-154	spurig	_	
+2-24	154-155	,	_	
+2-25	156-159	der	_	
+2-26	160-166	Radweg	_	
+2-27	167-171	aber	_	
+2-28	171-172	,	_	
+2-29	173-176	nur	_	
+2-30	177-186	aufgemalt	_	
+2-31	186-187	,	_	
+2-32	188-192	wird	_	
+2-33	193-195	am	_	
+2-34	196-201	Rande	_	
+2-35	202-206	oder	_	
+2-36	207-212	sogar	_	
+2-37	213-215	in	_	
+2-38	216-219	der	_	
+2-39	220-225	Mitte	_	
+2-40	226-229	der	_	
+2-41	230-237	Strasse	_	
+2-42	238-243	unter	_	
+2-43	244-253	Verengung	_	
+2-44	254-257	der	_	
+2-45	258-268	Fahrspuren	_	
+2-46	269-276	entlang	_	
+2-47	277-284	geführt	_	
+2-48	284-285	,	_	
+2-49	286-289	was	_	
+2-50	290-292	zu	_	
+2-51	293-302	riskanten	_	
+2-52	303-318	Überholmanövern	_	
+2-53	319-322	des	_	
+2-54	323-334	langsameren	_	
+2-55	335-346	Radverkehrs	_	
+2-56	347-352	führt	_	
+2-57	352-353	.	_	
+
+#Text=Die Situation ist so gefährlich, dass ich diese Stelle seit Jahren meide.
+3-1	354-357	Die	_	
+3-2	358-367	Situation	_	
+3-3	368-371	ist	_	
+3-4	372-374	so	_	
+3-5	375-385	gefährlich	_	
+3-6	385-386	,	_	
+3-7	387-391	dass	_	
+3-8	392-395	ich	_	
+3-9	396-401	diese	_	
+3-10	402-408	Stelle	_	
+3-11	409-413	seit	_	
+3-12	414-420	Jahren	_	
+3-13	421-426	meide	_	
+3-14	426-427	.	_	
+
+#Text=Tatsächlich hat der Umbau der Strassenbahnhaltestelle in der Mitte des Platzes vor einigen Jahren die Situation so belassen.
+4-1	428-439	Tatsächlich	_	
+4-2	440-443	hat	_	
+4-3	444-447	der	_	
+4-4	448-453	Umbau	_	
+4-5	454-457	der	_	
+4-6	458-481	Strassenbahnhaltestelle	_	
+4-7	482-484	in	_	
+4-8	485-488	der	_	
+4-9	489-494	Mitte	_	
+4-10	495-498	des	_	
+4-11	499-506	Platzes	_	
+4-12	507-510	vor	_	
+4-13	511-518	einigen	_	
+4-14	519-525	Jahren	_	
+4-15	526-529	die	_	
+4-16	530-539	Situation	_	
+4-17	540-542	so	_	
+4-18	543-551	belassen	_	
+4-19	551-552	.	_	
+
+#Text=Das sagt eigentlich alles.
+5-1	553-556	Das	_	
+5-2	557-561	sagt	_	
+5-3	562-572	eigentlich	_	
+5-4	573-578	alles	_	
+5-5	578-579	.	_	
+
+#Text=Wie will man hier denn etwas verändern, wenn nicht auf Kosten des Autoverkehrs?
+6-1	580-583	Wie	_	
+6-2	584-588	will	_	
+6-3	589-592	man	_	
+6-4	593-597	hier	_	
+6-5	598-602	denn	_	
+6-6	603-608	etwas	_	
+6-7	609-618	verändern	_	
+6-8	618-619	,	_	
+6-9	620-624	wenn	_	
+6-10	625-630	nicht	_	
+6-11	631-634	auf	_	
+6-12	635-641	Kosten	_	
+6-13	642-645	des	_	
+6-14	646-658	Autoverkehrs	_	
+6-15	658-659	?	_	
+
+#Text=Nur die Reduktion der Fahrspuren in jeder Richtung kann hier etwas verbessern.
+7-1	660-663	Nur	_	
+7-2	664-667	die	_	
+7-3	668-677	Reduktion	_	
+7-4	678-681	der	_	
+7-5	682-692	Fahrspuren	_	
+7-6	693-695	in	_	
+7-7	696-701	jeder	_	
+7-8	702-710	Richtung	_	
+7-9	711-715	kann	_	
+7-10	716-720	hier	_	
+7-11	721-726	etwas	_	
+7-12	727-737	verbessern	_	
+7-13	737-738	.	_	
+
+#Text=Mit anderen Worten: Die Stadtplaner haben seit Jahren den Radverkehr nur am Rande (wenn überhaupt) berücksichtigt, und jetzt wollen die Planer durch ein paar Massnahmen das ändern?
+8-1	739-742	Mit	_	
+8-2	743-750	anderen	_	
+8-3	751-757	Worten	_	
+8-4	757-758	:	_	
+8-5	759-762	Die	_	
+8-6	763-774	Stadtplaner	_	
+8-7	775-780	haben	_	
+8-8	781-785	seit	_	
+8-9	786-792	Jahren	_	
+8-10	793-796	den	_	
+8-11	797-807	Radverkehr	_	
+8-12	808-811	nur	_	
+8-13	812-814	am	_	
+8-14	815-820	Rande	_	
+8-15	821-822	(	_	
+8-16	822-826	wenn	_	
+8-17	827-836	überhaupt	_	
+8-18	836-837	)	_	
+8-19	838-852	berücksichtigt	_	
+8-20	852-853	,	_	
+8-21	854-857	und	_	
+8-22	858-863	jetzt	_	
+8-23	864-870	wollen	_	
+8-24	871-874	die	_	
+8-25	875-881	Planer	_	
+8-26	882-887	durch	_	
+8-27	888-891	ein	_	
+8-28	892-896	paar	_	
+8-29	897-907	Massnahmen	_	
+8-30	908-911	das	_	
+8-31	912-918	ändern	_	
+8-32	918-919	?	_	
+
+#Text=Der Vorschlag, der mir dabei zuerst in den Sinn kommt: schicken sie die Stadtplaner erst einmal nach Kopenhagen!
+9-1	920-923	Der	_	
+9-2	924-933	Vorschlag	_	
+9-3	933-934	,	_	
+9-4	935-938	der	_	
+9-5	939-942	mir	_	
+9-6	943-948	dabei	_	
+9-7	949-955	zuerst	_	
+9-8	956-958	in	_	
+9-9	959-962	den	_	
+9-10	963-967	Sinn	_	
+9-11	968-973	kommt	_	
+9-12	973-974	:	_	
+9-13	975-983	schicken	_	
+9-14	984-987	sie	_	
+9-15	988-991	die	_	
+9-16	992-1003	Stadtplaner	_	
+9-17	1004-1008	erst	_	
+9-18	1009-1015	einmal	_	
+9-19	1016-1020	nach	_	
+9-20	1021-1031	Kopenhagen	_	
+9-21	1031-1032	!	_	
+
+#Text=(kopenhagenize your city!!)
+10-1	1033-1034	(	_	
+10-2	1034-1047	kopenhagenize	_	
+10-3	1048-1052	your	_	
+10-4	1053-1057	city	_	
+10-5	1057-1058	!	_	
+10-6	1058-1059	!	_	
+10-7	1059-1060	)	_	
+
+#Text=Vielleicht verstehen die Planer dann, dass es mit ein paar Einzelmassnahmen NICHT getan ist, sondern dass es grundsätzlicher Entscheidungen bedarf: Wie hoch soll der Stellenwert des Radverkehrs in Bonn sein?
+11-1	1061-1071	Vielleicht	_	
+11-2	1072-1081	verstehen	_	
+11-3	1082-1085	die	_	
+11-4	1086-1092	Planer	_	
+11-5	1093-1097	dann	_	
+11-6	1097-1098	,	_	
+11-7	1099-1103	dass	_	
+11-8	1104-1106	es	_	
+11-9	1107-1110	mit	_	
+11-10	1111-1114	ein	_	
+11-11	1115-1119	paar	_	
+11-12	1120-1136	Einzelmassnahmen	_	
+11-13	1137-1142	NICHT	_	
+11-14	1143-1148	getan	_	
+11-15	1149-1152	ist	_	
+11-16	1152-1153	,	_	
+11-17	1154-1161	sondern	_	
+11-18	1162-1166	dass	_	
+11-19	1167-1169	es	_	
+11-20	1170-1185	grundsätzlicher	_	
+11-21	1186-1200	Entscheidungen	_	
+11-22	1201-1207	bedarf	_	
+11-23	1207-1208	:	_	
+11-24	1209-1212	Wie	_	
+11-25	1213-1217	hoch	_	
+11-26	1218-1222	soll	_	
+11-27	1223-1226	der	_	
+11-28	1227-1238	Stellenwert	_	
+11-29	1239-1242	des	_	
+11-30	1243-1254	Radverkehrs	_	
+11-31	1255-1257	in	*[17]	
+11-32	1258-1262	Bonn	*[17]	
+11-33	1263-1267	sein	_	
+11-34	1267-1268	?	_	
+
+#Text=welchen Anteil strebt man am gesamten Verkehrsaufkommen an?
+12-1	1269-1276	welchen	_	
+12-2	1277-1283	Anteil	_	
+12-3	1284-1290	strebt	_	
+12-4	1291-1294	man	_	
+12-5	1295-1297	am	_	
+12-6	1298-1306	gesamten	_	
+12-7	1307-1324	Verkehrsaufkommen	_	
+12-8	1325-1327	an	_	
+12-9	1327-1328	?	_	
+
+#Text=Ist man bereit, auf Kosten des Autoverkehrs, Strassenflächen für den Radverkehr bereit zu stellen.
+13-1	1329-1332	Ist	_	
+13-2	1333-1336	man	_	
+13-3	1337-1343	bereit	_	
+13-4	1343-1344	,	_	
+13-5	1345-1348	auf	_	
+13-6	1349-1355	Kosten	_	
+13-7	1356-1359	des	_	
+13-8	1360-1372	Autoverkehrs	_	
+13-9	1372-1373	,	_	
+13-10	1374-1389	Strassenflächen	_	
+13-11	1390-1393	für	_	
+13-12	1394-1397	den	_	
+13-13	1398-1408	Radverkehr	_	
+13-14	1409-1415	bereit	_	
+13-15	1416-1418	zu	_	
+13-16	1419-1426	stellen	_	
+13-17	1426-1427	.	_	

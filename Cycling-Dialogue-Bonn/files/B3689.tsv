@@ -1,0 +1,56 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fußgängerweg für Radfahrer freigeben
+1-1	0-12	Fußgängerweg	_	
+1-2	13-16	für	_	
+1-3	17-26	Radfahrer	_	
+1-4	27-36	freigeben	_	
+
+#Text=Bitte den breiten Weg für Fußgänger wenigstens bis zum Kreuzbergweg auch für Radfahrer freigeben.
+2-1	39-44	Bitte	_	
+2-2	45-48	den	_	
+2-3	49-56	breiten	_	
+2-4	57-60	Weg	_	
+2-5	61-64	für	_	
+2-6	65-74	Fußgänger	_	
+2-7	75-85	wenigstens	_	
+2-8	86-89	bis	*[5]	
+2-9	90-93	zum	*[5]	
+2-10	94-106	Kreuzbergweg	*[5]	
+2-11	107-111	auch	_	
+2-12	112-115	für	_	
+2-13	116-125	Radfahrer	_	
+2-14	126-135	freigeben	_	
+2-15	135-136	.	_	
+
+#Text=Das erspart einem das Stehen hinter dem Auspuff der Busse an der Haltestelle Beethovenstraße.
+3-1	137-140	Das	_	
+3-2	141-148	erspart	_	
+3-3	149-154	einem	_	
+3-4	155-158	das	_	
+3-5	159-165	Stehen	_	
+3-6	166-172	hinter	_	
+3-7	173-176	dem	_	
+3-8	177-184	Auspuff	_	
+3-9	185-188	der	_	
+3-10	189-194	Busse	_	
+3-11	195-197	an	*[6]	
+3-12	198-201	der	*[6]	
+3-13	202-213	Haltestelle	*[6]	
+3-14	214-229	Beethovenstraße	*[6]	
+3-15	229-230	.	_	
+
+#Text=Dort hatte ich auch schon mehrere brenzlige Situationen.
+4-1	231-235	Dort	_	
+4-2	236-241	hatte	_	
+4-3	242-245	ich	_	
+4-4	246-250	auch	_	
+4-5	251-256	schon	_	
+4-6	257-264	mehrere	_	
+4-7	265-274	brenzlige	_	
+4-8	275-286	Situationen	_	
+4-9	286-287	.	_	

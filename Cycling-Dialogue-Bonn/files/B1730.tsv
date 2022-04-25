@@ -1,0 +1,148 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Querung Bröltalbahnweg / Rheindorfer Straße
+1-1	0-7	Querung	*[9]	
+1-2	8-22	Bröltalbahnweg	*[9]	
+1-3	23-24	/	*[9]	
+1-4	25-36	Rheindorfer	*[9]	
+1-5	37-43	Straße	*[9]	
+
+#Text=Die Bushaltestelle vor dem Haus Rheindorfer Straße 75 ist scheinbar schon länger nicht mehr in Betrieb.
+2-1	46-49	Die	*[10]	
+2-2	50-64	Bushaltestelle	*[10]	
+2-3	65-68	vor	*[10]	
+2-4	69-72	dem	*[10]	
+2-5	73-77	Haus	*[10]	
+2-6	78-89	Rheindorfer	*[10]	
+2-7	90-96	Straße	*[10]	
+2-8	97-99	75	*[10]	
+2-9	100-103	ist	_	
+2-10	104-113	scheinbar	_	
+2-11	114-119	schon	_	
+2-12	120-126	länger	_	
+2-13	127-132	nicht	_	
+2-14	133-137	mehr	_	
+2-15	138-140	in	_	
+2-16	141-148	Betrieb	_	
+2-17	148-149	.	_	
+
+#Text=Dort befindet sich auch die Querung vom Bröltalbahnweg über die Rheindorfer Straße.
+3-1	150-154	Dort	_	
+3-2	155-163	befindet	_	
+3-3	164-168	sich	_	
+3-4	169-173	auch	_	
+3-5	174-177	die	*[11]	
+3-6	178-185	Querung	*[11]	
+3-7	186-189	vom	*[11]	
+3-8	190-204	Bröltalbahnweg	*[11]	
+3-9	205-209	über	*[11]	
+3-10	210-213	die	*[11]	
+3-11	214-225	Rheindorfer	*[11]	
+3-12	226-232	Straße	*[11]	
+3-13	232-233	.	_	
+
+#Text=Leider wird die Fläche vor der ehemaligen Haltestelle oft von KFZ zum Parken genutzt.
+4-1	234-240	Leider	_	
+4-2	241-245	wird	_	
+4-3	246-249	die	_	
+4-4	250-256	Fläche	_	
+4-5	257-260	vor	_	
+4-6	261-264	der	_	
+4-7	265-275	ehemaligen	_	
+4-8	276-287	Haltestelle	_	
+4-9	288-291	oft	_	
+4-10	292-295	von	_	
+4-11	296-299	KFZ	_	
+4-12	300-303	zum	_	
+4-13	304-310	Parken	_	
+4-14	311-318	genutzt	_	
+4-15	318-319	.	_	
+
+#Text=Nutzt man den Bröltalbahnweg vom Rhein aus Richtung Pützchen, kann man bei der Querung der Rheindorfer Straße je nach Größe des dort geparkten Fahrzeugs den Verkehr auf der Fahrbahn von links aus nicht einsehen.
+5-1	320-325	Nutzt	_	
+5-2	326-329	man	_	
+5-3	330-333	den	_	
+5-4	334-348	Bröltalbahnweg	*[12]	
+5-5	349-352	vom	*[12]	
+5-6	353-358	Rhein	*[12]	
+5-7	359-362	aus	*[12]	
+5-8	363-371	Richtung	*[12]	
+5-9	372-380	Pützchen	*[12]	
+5-10	380-381	,	_	
+5-11	382-386	kann	_	
+5-12	387-390	man	_	
+5-13	391-394	bei	_	
+5-14	395-398	der	_	
+5-15	399-406	Querung	*[13]	
+5-16	407-410	der	*[13]	
+5-17	411-422	Rheindorfer	*[13]	
+5-18	423-429	Straße	*[13]	
+5-19	430-432	je	_	
+5-20	433-437	nach	_	
+5-21	438-443	Größe	_	
+5-22	444-447	des	_	
+5-23	448-452	dort	_	
+5-24	453-462	geparkten	_	
+5-25	463-472	Fahrzeugs	_	
+5-26	473-476	den	_	
+5-27	477-484	Verkehr	_	
+5-28	485-488	auf	_	
+5-29	489-492	der	_	
+5-30	493-501	Fahrbahn	_	
+5-31	502-505	von	_	
+5-32	506-511	links	_	
+5-33	512-515	aus	_	
+5-34	516-521	nicht	_	
+5-35	522-530	einsehen	_	
+5-36	530-531	.	_	
+
+#Text=Man kann sich nur langsam auf die Fahrbahn vortasten und hoffen, dass kein Fahrzeug kommt.
+6-1	532-535	Man	_	
+6-2	536-540	kann	_	
+6-3	541-545	sich	_	
+6-4	546-549	nur	_	
+6-5	550-557	langsam	_	
+6-6	558-561	auf	_	
+6-7	562-565	die	_	
+6-8	566-574	Fahrbahn	_	
+6-9	575-584	vortasten	_	
+6-10	585-588	und	_	
+6-11	589-595	hoffen	_	
+6-12	595-596	,	_	
+6-13	597-601	dass	_	
+6-14	602-606	kein	_	
+6-15	607-615	Fahrzeug	_	
+6-16	616-621	kommt	_	
+6-17	621-622	.	_	
+
+#Text=Insbesondere für Kinder kann es zu gefährlichen Situationen kommen.
+7-1	623-635	Insbesondere	_	
+7-2	636-639	für	_	
+7-3	640-646	Kinder	_	
+7-4	647-651	kann	_	
+7-5	652-654	es	_	
+7-6	655-657	zu	_	
+7-7	658-670	gefährlichen	_	
+7-8	671-682	Situationen	_	
+7-9	683-689	kommen	_	
+7-10	689-690	.	_	
+
+#Text=Vielleicht kann das Abstellen von Fahrzeugen dort per Poller o.ä. verhindert werden.
+8-1	691-701	Vielleicht	_	
+8-2	702-706	kann	_	
+8-3	707-710	das	_	
+8-4	711-720	Abstellen	_	
+8-5	721-724	von	_	
+8-6	725-735	Fahrzeugen	_	
+8-7	736-740	dort	_	
+8-8	741-744	per	_	
+8-9	745-751	Poller	_	
+8-10	752-755	o.ä	_	
+8-11	755-756	.	_	
+8-12	757-767	verhindert	_	
+8-13	768-774	werden	_	
+8-14	774-775	.	_	

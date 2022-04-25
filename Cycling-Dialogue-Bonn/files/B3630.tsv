@@ -1,0 +1,141 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schikanierung von Radfahrern am Heinrich-Böll-Ring
+1-1	0-13	Schikanierung	_	
+1-2	14-17	von	_	
+1-3	18-28	Radfahrern	_	
+1-4	29-31	am	*[7]	
+1-5	32-50	Heinrich-Böll-Ring	*[7]	
+
+#Text=Die Radwegeführung stadteinwärts empfinde ich auf dem Heinrich-Böll-Ring als Schikanierung von Radfahrern.
+2-1	53-56	Die	_	
+2-2	57-71	Radwegeführung	_	
+2-3	72-85	stadteinwärts	_	
+2-4	86-94	empfinde	_	
+2-5	95-98	ich	_	
+2-6	99-102	auf	*[8]	
+2-7	103-106	dem	*[8]	
+2-8	107-125	Heinrich-Böll-Ring	*[8]	
+2-9	126-129	als	_	
+2-10	130-143	Schikanierung	_	
+2-11	144-147	von	_	
+2-12	148-158	Radfahrern	_	
+2-13	158-159	.	_	
+
+#Text=Hier wird man durch die Beschilderung und Wegegestaltung dazu gezwungen nach rechts abzubiegen und entlang des Bachs zur Bornheimer Straße zu fahren (denn gerade aus ist ein reiner Gehweg ausgeschildert).
+3-1	160-164	Hier	_	
+3-2	165-169	wird	_	
+3-3	170-173	man	_	
+3-4	174-179	durch	_	
+3-5	180-183	die	_	
+3-6	184-197	Beschilderung	_	
+3-7	198-201	und	_	
+3-8	202-216	Wegegestaltung	_	
+3-9	217-221	dazu	_	
+3-10	222-231	gezwungen	_	
+3-11	232-236	nach	*[9]	
+3-12	237-243	rechts	*[9]	
+3-13	244-254	abzubiegen	*[9]	
+3-14	255-258	und	*[9]	
+3-15	259-266	entlang	*[9]	
+3-16	267-270	des	*[9]	
+3-17	271-276	Bachs	*[9]	
+3-18	277-280	zur	*[9]	
+3-19	281-291	Bornheimer	*[9]	
+3-20	292-298	Straße	*[9]	
+3-21	299-301	zu	_	
+3-22	302-308	fahren	_	
+3-23	309-310	(	_	
+3-24	310-314	denn	_	
+3-25	315-321	gerade	_	
+3-26	322-325	aus	_	
+3-27	326-329	ist	_	
+3-28	330-333	ein	_	
+3-29	334-340	reiner	_	
+3-30	341-347	Gehweg	_	
+3-31	348-362	ausgeschildert	_	
+3-32	362-363	)	_	
+3-33	363-364	.	_	
+
+#Text=Das bedeutet die doppelte Wegstrecke + eine zusätzliche Ampelphase, um auf der Bornheimer Str. auf die richtige Fahrseite zu kommen.
+4-1	365-368	Das	_	
+4-2	369-377	bedeutet	_	
+4-3	378-381	die	_	
+4-4	382-390	doppelte	_	
+4-5	391-401	Wegstrecke	_	
+4-6	402-403	+	_	
+4-7	404-408	eine	_	
+4-8	409-420	zusätzliche	_	
+4-9	421-431	Ampelphase	_	
+4-10	431-432	,	_	
+4-11	433-435	um	_	
+4-12	436-439	auf	_	
+4-13	440-443	der	_	
+4-14	444-454	Bornheimer	_	
+4-15	455-458	Str	_	
+4-16	458-459	.	_	
+4-17	460-463	auf	_	
+4-18	464-467	die	_	
+4-19	468-476	richtige	_	
+4-20	477-486	Fahrseite	_	
+4-21	487-489	zu	_	
+4-22	490-496	kommen	_	
+4-23	496-497	.	_	
+
+#Text=Für so eine Wegeführung habe ich überhaupt kein Verständnis.
+5-1	498-501	Für	_	
+5-2	502-504	so	_	
+5-3	505-509	eine	_	
+5-4	510-521	Wegeführung	_	
+5-5	522-526	habe	_	
+5-6	527-530	ich	_	
+5-7	531-540	überhaupt	_	
+5-8	541-545	kein	_	
+5-9	546-557	Verständnis	_	
+5-10	557-558	.	_	
+
+#Text=Hier sollte es eigentlich unproblematisch sein, den Radweg entweder gemischt auf dem Gehweg (die Fußgängerfrequentz schätze ich hier sehr gering ein) oder auf der Fahrbahn abmarkiert (die Fahrspur ist hier recht breit) zu führen.
+6-1	559-563	Hier	_	
+6-2	564-570	sollte	_	
+6-3	571-573	es	_	
+6-4	574-584	eigentlich	_	
+6-5	585-600	unproblematisch	_	
+6-6	601-605	sein	_	
+6-7	605-606	,	_	
+6-8	607-610	den	_	
+6-9	611-617	Radweg	_	
+6-10	618-626	entweder	_	
+6-11	627-635	gemischt	_	
+6-12	636-639	auf	_	
+6-13	640-643	dem	_	
+6-14	644-650	Gehweg	_	
+6-15	651-652	(	_	
+6-16	652-655	die	_	
+6-17	656-674	Fußgängerfrequentz	_	
+6-18	675-682	schätze	_	
+6-19	683-686	ich	_	
+6-20	687-691	hier	_	
+6-21	692-696	sehr	_	
+6-22	697-703	gering	_	
+6-23	704-707	ein	_	
+6-24	707-708	)	_	
+6-25	709-713	oder	_	
+6-26	714-717	auf	_	
+6-27	718-721	der	_	
+6-28	722-730	Fahrbahn	_	
+6-29	731-741	abmarkiert	_	
+6-30	742-743	(	_	
+6-31	743-746	die	_	
+6-32	747-755	Fahrspur	_	
+6-33	756-759	ist	_	
+6-34	760-764	hier	_	
+6-35	765-770	recht	_	
+6-36	771-776	breit	_	
+6-37	776-777	)	_	
+6-38	778-780	zu	_	
+6-39	781-787	führen	_	
+6-40	787-788	.	_	

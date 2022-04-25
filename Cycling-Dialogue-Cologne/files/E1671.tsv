@@ -1,0 +1,43 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einfahrt in den Ossendorfer Weg
+1-1	0-8	Einfahrt	*[4]	
+1-2	9-11	in	*[4]	
+1-3	12-15	den	*[4]	
+1-4	16-27	Ossendorfer	*[4]	
+1-5	28-31	Weg	*[4]	
+
+#Text=Es sollte möglich gemacht werden, vom Sandweg in den Ossendorfer Weg einfahren zu dürfen.
+2-1	34-36	Es	_	
+2-2	37-43	sollte	_	
+2-3	44-51	möglich	_	
+2-4	52-59	gemacht	_	
+2-5	60-66	werden	_	
+2-6	66-67	,	_	
+2-7	68-71	vom	*[5]	
+2-8	72-79	Sandweg	*[5]	
+2-9	80-82	in	*[5]	
+2-10	83-86	den	*[5]	
+2-11	87-98	Ossendorfer	*[5]	
+2-12	99-102	Weg	*[5]	
+2-13	103-112	einfahren	_	
+2-14	113-115	zu	_	
+2-15	116-122	dürfen	_	
+2-16	122-123	.	_	
+
+#Text=Die Situation für Radfahrer ist an dieser Stelle vollkommen konfus.
+3-1	124-127	Die	_	
+3-2	128-137	Situation	_	
+3-3	138-141	für	_	
+3-4	142-151	Radfahrer	_	
+3-5	152-155	ist	_	
+3-6	156-158	an	_	
+3-7	159-165	dieser	_	
+3-8	166-172	Stelle	_	
+3-9	173-183	vollkommen	_	
+3-10	184-190	konfus	_	
+3-11	190-191	.	_	

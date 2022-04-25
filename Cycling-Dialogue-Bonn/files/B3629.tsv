@@ -1,0 +1,63 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg zu schmal
+1-1	0-6	Radweg	_	
+1-2	7-9	zu	_	
+1-3	10-16	schmal	_	
+
+#Text=der benutzungspflichtige Radweg vor dem von Carstanjen Mausoleum ist viel zu schmal.
+2-1	19-22	der	_	
+2-2	23-43	benutzungspflichtige	_	
+2-3	44-50	Radweg	*[5]	
+2-4	51-54	vor	*[5]	
+2-5	55-58	dem	*[5]	
+2-6	59-62	von	*[5]	
+2-7	63-73	Carstanjen	*[5]	
+2-8	74-83	Mausoleum	*[5]	
+2-9	84-87	ist	_	
+2-10	88-92	viel	_	
+2-11	93-95	zu	_	
+2-12	96-102	schmal	_	
+2-13	102-103	.	_	
+
+#Text=Bei Begegnung von Radfahrer mit Fahrrad plus Anhänger ist schon kein Platz für beide, bei zwei Rädern mit Anhänger muss auf die Wiese ausgewichen werden.
+3-1	104-107	Bei	_	
+3-2	108-117	Begegnung	_	
+3-3	118-121	von	_	
+3-4	122-131	Radfahrer	_	
+3-5	132-135	mit	_	
+3-6	136-143	Fahrrad	_	
+3-7	144-148	plus	_	
+3-8	149-157	Anhänger	_	
+3-9	158-161	ist	_	
+3-10	162-167	schon	_	
+3-11	168-172	kein	_	
+3-12	173-178	Platz	_	
+3-13	179-182	für	_	
+3-14	183-188	beide	_	
+3-15	188-189	,	_	
+3-16	190-193	bei	_	
+3-17	194-198	zwei	_	
+3-18	199-205	Rädern	_	
+3-19	206-209	mit	_	
+3-20	210-218	Anhänger	_	
+3-21	219-223	muss	_	
+3-22	224-227	auf	_	
+3-23	228-231	die	_	
+3-24	232-237	Wiese	_	
+3-25	238-249	ausgewichen	_	
+3-26	250-256	werden	_	
+3-27	256-257	.	_	
+
+#Text=Ein Ausbau ist hier dringend notwendig.
+4-1	258-261	Ein	_	
+4-2	262-268	Ausbau	_	
+4-3	269-272	ist	_	
+4-4	273-277	hier	_	
+4-5	278-286	dringend	_	
+4-6	287-296	notwendig	_	
+4-7	296-297	.	_	

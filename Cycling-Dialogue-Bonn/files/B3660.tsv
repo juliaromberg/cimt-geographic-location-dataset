@@ -1,0 +1,99 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegqualität
+1-1	0-14	Radwegqualität	_	
+
+#Text=Radweg UND Fußgängerüberweg sollten an dieser Kreuzung barrierefrei, also niveaugleich gestaltet sein.
+2-1	17-23	Radweg	_	
+2-2	24-27	UND	_	
+2-3	28-44	Fußgängerüberweg	_	
+2-4	45-52	sollten	_	
+2-5	53-55	an	_	
+2-6	56-62	dieser	_	
+2-7	63-71	Kreuzung	_	
+2-8	72-84	barrierefrei	_	
+2-9	84-85	,	_	
+2-10	86-90	also	_	
+2-11	91-103	niveaugleich	_	
+2-12	104-113	gestaltet	_	
+2-13	114-118	sein	_	
+2-14	118-119	.	_	
+
+#Text=Stellen Sie sich 20 Minuten an den Überweg und zählen, wieviele Fußgänger und KinderwagenfahrerInnen den Radweg benutzen, trotz farblicher Markierung.
+3-1	120-127	Stellen	_	
+3-2	128-131	Sie	_	
+3-3	132-136	sich	_	
+3-4	137-139	20	_	
+3-5	140-147	Minuten	_	
+3-6	148-150	an	_	
+3-7	151-154	den	_	
+3-8	155-162	Überweg	_	
+3-9	163-166	und	_	
+3-10	167-173	zählen	_	
+3-11	173-174	,	_	
+3-12	175-183	wieviele	_	
+3-13	184-193	Fußgänger	_	
+3-14	194-197	und	_	
+3-15	198-220	KinderwagenfahrerInnen	_	
+3-16	221-224	den	_	
+3-17	225-231	Radweg	_	
+3-18	232-240	benutzen	_	
+3-19	240-241	,	_	
+3-20	242-247	trotz	_	
+3-21	248-258	farblicher	_	
+3-22	259-269	Markierung	_	
+3-23	269-270	.	_	
+
+#Text=Niemand möchte eine Kante und für menschen mit Behinderung können 2 cm eine große Beeinträchtigung sein.
+4-1	271-278	Niemand	_	
+4-2	279-285	möchte	_	
+4-3	286-290	eine	_	
+4-4	291-296	Kante	_	
+4-5	297-300	und	_	
+4-6	301-304	für	_	
+4-7	305-313	menschen	_	
+4-8	314-317	mit	_	
+4-9	318-329	Behinderung	_	
+4-10	330-336	können	_	
+4-11	337-338	2	_	
+4-12	339-341	cm	_	
+4-13	342-346	eine	_	
+4-14	347-352	große	_	
+4-15	353-369	Beeinträchtigung	_	
+4-16	370-374	sein	_	
+4-17	374-375	.	_	
+
+#Text=Die Radfahrer können nicht gut nach links abbiegen, wenn sie von Richtung Kennedybrücke kommen, weil sie von Fußgängern blockiert werden, die auf dem Radweg gehen.
+5-1	376-379	Die	_	
+5-2	380-389	Radfahrer	_	
+5-3	390-396	können	_	
+5-4	397-402	nicht	_	
+5-5	403-406	gut	_	
+5-6	407-411	nach	_	
+5-7	412-417	links	_	
+5-8	418-426	abbiegen	_	
+5-9	426-427	,	_	
+5-10	428-432	wenn	_	
+5-11	433-436	sie	_	
+5-12	437-440	von	*[5]	
+5-13	441-449	Richtung	*[5]	
+5-14	450-463	Kennedybrücke	*[5]	
+5-15	464-470	kommen	*[5]	
+5-16	470-471	,	_	
+5-17	472-476	weil	_	
+5-18	477-480	sie	_	
+5-19	481-484	von	_	
+5-20	485-495	Fußgängern	_	
+5-21	496-505	blockiert	_	
+5-22	506-512	werden	_	
+5-23	512-513	,	_	
+5-24	514-517	die	_	
+5-25	518-521	auf	_	
+5-26	522-525	dem	_	
+5-27	526-532	Radweg	_	
+5-28	533-538	gehen	_	
+5-29	538-539	.	_	

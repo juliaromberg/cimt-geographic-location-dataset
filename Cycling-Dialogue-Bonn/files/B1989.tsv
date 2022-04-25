@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Maarflach in beide Richtungen freigeben für Radfahrer
+1-1	0-9	Maarflach	*	
+1-2	10-12	in	_	
+1-3	13-18	beide	_	
+1-4	19-29	Richtungen	_	
+1-5	30-39	freigeben	_	
+1-6	40-43	für	_	
+1-7	44-53	Radfahrer	_	
+
+#Text=Für Radfahrer die von der Lennéstraße auf Am Hofgarten abbiegen wollen ließe sich über diesen Weg eine Ampel sparen.
+2-1	56-59	Für	_	
+2-2	60-69	Radfahrer	_	
+2-3	70-73	die	_	
+2-4	74-77	von	*[4]	
+2-5	78-81	der	*[4]	
+2-6	82-93	Lennéstraße	*[4]	
+2-7	94-97	auf	*[4]	
+2-8	98-100	Am	*[4]	
+2-9	101-110	Hofgarten	*[4]	
+2-10	111-119	abbiegen	*[4]	
+2-11	120-126	wollen	_	
+2-12	127-132	ließe	_	
+2-13	133-137	sich	_	
+2-14	138-142	über	_	
+2-15	143-149	diesen	_	
+2-16	150-153	Weg	_	
+2-17	154-158	eine	_	
+2-18	159-164	Ampel	_	
+2-19	165-171	sparen	_	
+2-20	171-172	.	_	
+
+#Text=Alternativ wäre ein Grünpfeil für Radfahrer an der Ampel denkbar.
+3-1	173-183	Alternativ	_	
+3-2	184-188	wäre	_	
+3-3	189-192	ein	_	
+3-4	193-202	Grünpfeil	_	
+3-5	203-206	für	_	
+3-6	207-216	Radfahrer	_	
+3-7	217-219	an	_	
+3-8	220-223	der	_	
+3-9	224-229	Ampel	_	
+3-10	230-237	denkbar	_	
+3-11	237-238	.	_	

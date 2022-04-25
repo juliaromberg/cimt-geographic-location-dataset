@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße unterbrochen
+1-1	0-13	Fahrradstraße	_	
+1-2	14-26	unterbrochen	_	
+
+#Text=Warum ist die Fahrradstraße im Bereich Zingsheimstraße bis Heckelsbergplatz unterbrochen?
+2-1	29-34	Warum	_	
+2-2	35-38	ist	_	
+2-3	39-42	die	_	
+2-4	43-56	Fahrradstraße	_	
+2-5	57-59	im	*[8]	
+2-6	60-67	Bereich	*[8]	
+2-7	68-83	Zingsheimstraße	*[8]	
+2-8	84-87	bis	*[8]	
+2-9	88-104	Heckelsbergplatz	*[8]	
+2-10	105-117	unterbrochen	_	
+2-11	117-118	?	_	
+
+#Text=Warum ist an den beiden Kreuzungen rechts-vor-links, statt die Fahrradstraße zur Vorfahrtsstraße zu machen?
+3-1	119-124	Warum	_	
+3-2	125-128	ist	_	
+3-3	129-131	an	_	
+3-4	132-135	den	_	
+3-5	136-142	beiden	_	
+3-6	143-153	Kreuzungen	_	
+3-7	154-170	rechts-vor-links	_	
+3-8	170-171	,	_	
+3-9	172-177	statt	_	
+3-10	178-181	die	_	
+3-11	182-195	Fahrradstraße	_	
+3-12	196-199	zur	_	
+3-13	200-215	Vorfahrtsstraße	_	
+3-14	216-218	zu	_	
+3-15	219-225	machen	_	
+3-16	225-226	?	_	
+
+#Text=Soll der Kraftverkehr ausgebremst werden und der Kollateralschaden für die Fahrradfahrer wird bewusst in Kauf genommen?
+4-1	227-231	Soll	_	
+4-2	232-235	der	_	
+4-3	236-248	Kraftverkehr	_	
+4-4	249-260	ausgebremst	_	
+4-5	261-267	werden	_	
+4-6	268-271	und	_	
+4-7	272-275	der	_	
+4-8	276-293	Kollateralschaden	_	
+4-9	294-297	für	_	
+4-10	298-301	die	_	
+4-11	302-315	Fahrradfahrer	_	
+4-12	316-320	wird	_	
+4-13	321-328	bewusst	_	
+4-14	329-331	in	_	
+4-15	332-336	Kauf	_	
+4-16	337-345	genommen	_	
+4-17	345-346	?	_	
+
+#Text=Für mich wieder ein typisches Beispiel, wie lieblos in Bonn die Fahrradstraßen gestaltet werden.
+5-1	347-350	Für	_	
+5-2	351-355	mich	_	
+5-3	356-362	wieder	_	
+5-4	363-366	ein	_	
+5-5	367-376	typisches	_	
+5-6	377-385	Beispiel	_	
+5-7	385-386	,	_	
+5-8	387-390	wie	_	
+5-9	391-398	lieblos	_	
+5-10	399-401	in	*[9]	
+5-11	402-406	Bonn	*[9]	
+5-12	407-410	die	_	
+5-13	411-425	Fahrradstraßen	_	
+5-14	426-435	gestaltet	_	
+5-15	436-442	werden	_	
+5-16	442-443	.	_	
+
+#Text=Schöne Schilder aber praktisch ohne Relevanz.
+6-1	444-450	Schöne	_	
+6-2	451-459	Schilder	_	
+6-3	460-464	aber	_	
+6-4	465-474	praktisch	_	
+6-5	475-479	ohne	_	
+6-6	480-488	Relevanz	_	
+6-7	488-489	.	_	
+
+#Text=Schade!
+7-1	490-496	Schade	_	
+7-2	496-497	!	_	

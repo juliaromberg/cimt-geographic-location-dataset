@@ -1,0 +1,39 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radschnellweg Weststadt-Auerberg
+1-1	0-13	Radschnellweg	*[3]	
+1-2	14-32	Weststadt-Auerberg	*[3]	
+
+#Text=Gute Idee, der schließe ich mich an; der Radschnellweg sollte auch die Weststadt via Tannenbusch, Nordbrücke nach Mondorf/Beuel/Niederkasselerstr. einschließen.
+2-1	35-39	Gute	_	
+2-2	40-44	Idee	_	
+2-3	44-45	,	_	
+2-4	46-49	der	_	
+2-5	50-58	schließe	_	
+2-6	59-62	ich	_	
+2-7	63-67	mich	_	
+2-8	68-70	an	_	
+2-9	70-71	;	_	
+2-10	72-75	der	_	
+2-11	76-89	Radschnellweg	_	
+2-12	90-96	sollte	_	
+2-13	97-101	auch	_	
+2-14	102-105	die	*[4]	
+2-15	106-115	Weststadt	*[4]	
+2-16	116-119	via	*[4]	
+2-17	120-131	Tannenbusch	*[4]	
+2-18	131-132	,	*[4]	
+2-19	133-143	Nordbrücke	*[4]	
+2-20	144-148	nach	*[4]	
+2-21	149-156	Mondorf	*[4]	
+2-22	156-157	/	*[4]	
+2-23	157-162	Beuel	*[4]	
+2-24	162-163	/	*[4]	
+2-25	163-180	Niederkasselerstr	*[4]	
+2-26	180-181	.	_	
+2-27	182-194	einschließen	_	
+2-28	194-195	.	_	

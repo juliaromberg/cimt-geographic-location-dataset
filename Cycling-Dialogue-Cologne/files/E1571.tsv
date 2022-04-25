@@ -1,0 +1,50 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Mehr Radfreiheit auf größeren Straßen
+1-1	0-4	Mehr	_	
+1-2	5-16	Radfreiheit	_	
+1-3	17-20	auf	_	
+1-4	21-29	größeren	_	
+1-5	30-37	Straßen	_	
+
+#Text=Ich wünsche mir mehr Freiheit für Radfahrer auf der Venloer Straße, da ich sie für die wichtigste Verkehrsader im Veedel halte.
+2-1	40-43	Ich	_	
+2-2	44-51	wünsche	_	
+2-3	52-55	mir	_	
+2-4	56-60	mehr	_	
+2-5	61-69	Freiheit	_	
+2-6	70-73	für	_	
+2-7	74-83	Radfahrer	_	
+2-8	84-87	auf	*[4]	
+2-9	88-91	der	*[4]	
+2-10	92-99	Venloer	*[4]	
+2-11	100-106	Straße	*[4]	
+2-12	106-107	,	_	
+2-13	108-110	da	_	
+2-14	111-114	ich	_	
+2-15	115-118	sie	_	
+2-16	119-122	für	_	
+2-17	123-126	die	_	
+2-18	127-137	wichtigste	_	
+2-19	138-150	Verkehrsader	_	
+2-20	151-153	im	_	
+2-21	154-160	Veedel	_	
+2-22	161-166	halte	_	
+2-23	166-167	.	_	
+
+#Text=Deutlich breitere Radwege und durchweg Tempo 30 wären ein Anfang.
+3-1	168-176	Deutlich	_	
+3-2	177-185	breitere	_	
+3-3	186-193	Radwege	_	
+3-4	194-197	und	_	
+3-5	198-206	durchweg	_	
+3-6	207-212	Tempo	_	
+3-7	213-215	30	_	
+3-8	216-221	wären	_	
+3-9	222-225	ein	_	
+3-10	226-232	Anfang	_	
+3-11	232-233	.	_	

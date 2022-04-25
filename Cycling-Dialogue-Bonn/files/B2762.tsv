@@ -1,0 +1,60 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kölnstraße - marode - Parken auf Fahrradweg - Fahrradweg ungeschützt
+1-1	0-10	Kölnstraße	*	
+1-2	11-12	-	_	
+1-3	13-19	marode	_	
+1-4	20-21	-	_	
+1-5	22-28	Parken	_	
+1-6	29-32	auf	_	
+1-7	33-43	Fahrradweg	_	
+1-8	44-45	-	_	
+1-9	46-56	Fahrradweg	_	
+1-10	57-68	ungeschützt	_	
+
+#Text=Straßenschäden all überall, gefährden Radfahrer ganz besonders.
+2-1	71-85	Straßenschäden	_	
+2-2	86-89	all	_	
+2-3	90-97	überall	_	
+2-4	97-98	,	_	
+2-5	99-108	gefährden	_	
+2-6	109-118	Radfahrer	_	
+2-7	119-123	ganz	_	
+2-8	124-133	besonders	_	
+2-9	133-134	.	_	
+
+#Text=Autofahrer ignorieren Radbahnmarkierung, Parken in diesem Bereich alltäglich (Politessen noch nie gesichtet) einschl.
+3-1	135-145	Autofahrer	_	
+3-2	146-156	ignorieren	_	
+3-3	157-174	Radbahnmarkierung	_	
+3-4	174-175	,	_	
+3-5	176-182	Parken	_	
+3-6	183-185	in	_	
+3-7	186-192	diesem	_	
+3-8	193-200	Bereich	_	
+3-9	201-211	alltäglich	_	
+3-10	212-213	(	_	
+3-11	213-223	Politessen	_	
+3-12	224-228	noch	_	
+3-13	229-232	nie	_	
+3-14	233-242	gesichtet	_	
+3-15	242-243	)	_	
+3-16	244-251	einschl	_	
+3-17	251-252	.	_	
+
+#Text=ausscherender/rückwärts einparkender Fahrzeuge ergibt das eine hohe Gefährdung.
+4-1	253-266	ausscherender	_	
+4-2	266-267	/	_	
+4-3	267-276	rückwärts	_	
+4-4	277-289	einparkender	_	
+4-5	290-299	Fahrzeuge	_	
+4-6	300-306	ergibt	_	
+4-7	307-310	das	_	
+4-8	311-315	eine	_	
+4-9	316-320	hohe	_	
+4-10	321-331	Gefährdung	_	
+4-11	331-332	.	_	

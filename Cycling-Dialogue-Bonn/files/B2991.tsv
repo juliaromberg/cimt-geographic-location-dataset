@@ -1,0 +1,57 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße nicht fahrradgerecht
+1-1	0-13	Fahrradstraße	_	
+1-2	14-19	nicht	_	
+1-3	20-34	fahrradgerecht	_	
+
+#Text=In der Teutonenstraße ist es als Fahrradfahrer oft unmöglich, zwischen den einerseits parkenden und andererseits im Gegenverkehr fahrenden Pkw hindurchzukommen.
+2-1	37-39	In	*[4]	
+2-2	40-43	der	*[4]	
+2-3	44-58	Teutonenstraße	*[4]	
+2-4	59-62	ist	_	
+2-5	63-65	es	_	
+2-6	66-69	als	_	
+2-7	70-83	Fahrradfahrer	_	
+2-8	84-87	oft	_	
+2-9	88-97	unmöglich	_	
+2-10	97-98	,	_	
+2-11	99-107	zwischen	_	
+2-12	108-111	den	_	
+2-13	112-122	einerseits	_	
+2-14	123-132	parkenden	_	
+2-15	133-136	und	_	
+2-16	137-149	andererseits	_	
+2-17	150-152	im	_	
+2-18	153-165	Gegenverkehr	_	
+2-19	166-175	fahrenden	_	
+2-20	176-179	Pkw	_	
+2-21	180-196	hindurchzukommen	_	
+2-22	196-197	.	_	
+
+#Text=Hier müssten einige Stellflächen verschwinden (v.a. in Höhe der 40er Hausnummern), wenn man es ernst meint.
+3-1	198-202	Hier	_	
+3-2	203-210	müssten	_	
+3-3	211-217	einige	_	
+3-4	218-230	Stellflächen	_	
+3-5	231-243	verschwinden	_	
+3-6	244-245	(	_	
+3-7	245-248	v.a	_	
+3-8	248-249	.	_	
+3-9	250-252	in	_	
+3-10	253-257	Höhe	_	
+3-11	258-261	der	_	
+3-12	262-266	40er	_	
+3-13	267-278	Hausnummern	_	
+3-14	278-279	)	_	
+3-15	279-280	,	_	
+3-16	281-285	wenn	_	
+3-17	286-289	man	_	
+3-18	290-292	es	_	
+3-19	293-298	ernst	_	
+3-20	299-304	meint	_	
+3-21	304-305	.	_	

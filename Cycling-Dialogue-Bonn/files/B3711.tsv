@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sicherheitssperre zu schmal
+1-1	0-17	Sicherheitssperre	_	
+1-2	18-20	zu	_	
+1-3	21-27	schmal	_	
+
+#Text=Die Sperren vor den Gleisen sind zu schmal für Radverkehr mit Anhänger.
+2-1	30-33	Die	_	
+2-2	34-41	Sperren	_	
+2-3	42-45	vor	_	
+2-4	46-49	den	_	
+2-5	50-57	Gleisen	_	
+2-6	58-62	sind	_	
+2-7	63-65	zu	_	
+2-8	66-72	schmal	_	
+2-9	73-76	für	_	
+2-10	77-87	Radverkehr	_	
+2-11	88-91	mit	_	
+2-12	92-100	Anhänger	_	
+2-13	100-101	.	_	
+
+#Text=Eine Ausweitung von ca. 80 cm auf 150 cm ist angesichts der geringen Befahrung der Bahnstrecke zumutbar und sinnvoll.
+3-1	102-106	Eine	_	
+3-2	107-117	Ausweitung	_	
+3-3	118-121	von	_	
+3-4	122-124	ca	_	
+3-5	124-125	.	_	
+3-6	126-128	80	_	
+3-7	129-131	cm	_	
+3-8	132-135	auf	_	
+3-9	136-139	150	_	
+3-10	140-142	cm	_	
+3-11	143-146	ist	_	
+3-12	147-157	angesichts	_	
+3-13	158-161	der	_	
+3-14	162-170	geringen	_	
+3-15	171-180	Befahrung	_	
+3-16	181-184	der	_	
+3-17	185-196	Bahnstrecke	_	
+3-18	197-205	zumutbar	_	
+3-19	206-209	und	_	
+3-20	210-218	sinnvoll	_	
+3-21	218-219	.	_	

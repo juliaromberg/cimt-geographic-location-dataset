@@ -1,0 +1,41 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Linksabbiegen ermöglichen
+1-1	0-13	Linksabbiegen	_	
+1-2	14-25	ermöglichen	_	
+
+#Text=Es würde Radfahrern aus dem Bonner Süden einige Umwege ersparen, wenn das Linksabbiegen vom Belderberg auf den Bertha-von-Suttner-Platz (oder wenigstens auf die Friedrichstraße) ermöglicht werden würde!
+2-1	28-30	Es	_	
+2-2	31-36	würde	_	
+2-3	37-47	Radfahrern	_	
+2-4	48-51	aus	*[3]	
+2-5	52-55	dem	*[3]	
+2-6	56-62	Bonner	*[3]	
+2-7	63-68	Süden	*[3]	
+2-8	69-75	einige	_	
+2-9	76-82	Umwege	_	
+2-10	83-91	ersparen	_	
+2-11	91-92	,	_	
+2-12	93-97	wenn	_	
+2-13	98-101	das	*[4]	
+2-14	102-115	Linksabbiegen	*[4]	
+2-15	116-119	vom	*[4]	
+2-16	120-130	Belderberg	*[4]	
+2-17	131-134	auf	*[4]	
+2-18	135-138	den	*[4]	
+2-19	139-163	Bertha-von-Suttner-Platz	*[4]	
+2-20	164-165	(	_	
+2-21	165-169	oder	_	
+2-22	170-180	wenigstens	_	
+2-23	181-184	auf	*[5]	
+2-24	185-188	die	*[5]	
+2-25	189-204	Friedrichstraße	*[5]	
+2-26	204-205	)	_	
+2-27	206-216	ermöglicht	_	
+2-28	217-223	werden	_	
+2-29	224-229	würde	_	
+2-30	229-230	!	_	

@@ -1,0 +1,41 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bodenquerwellen durch Baumwurzeln
+1-1	0-15	Bodenquerwellen	_	
+1-2	16-21	durch	_	
+1-3	22-33	Baumwurzeln	_	
+
+#Text=+ es befinden sich unangenehme Bodenquerwellen auf dem Radweg im markierten Bereich vor Ückesdorf, die langsam aber sicher immer höher werden.
+2-1	36-37	+	_	
+2-2	38-40	es	_	
+2-3	41-49	befinden	_	
+2-4	50-54	sich	_	
+2-5	55-66	unangenehme	_	
+2-6	67-82	Bodenquerwellen	_	
+2-7	83-86	auf	_	
+2-8	87-90	dem	_	
+2-9	91-97	Radweg	_	
+2-10	98-100	im	_	
+2-11	101-111	markierten	_	
+2-12	112-119	Bereich	_	
+2-13	120-123	vor	*[4]	
+2-14	124-133	Ückesdorf	*[4]	
+2-15	133-134	,	_	
+2-16	135-138	die	_	
+2-17	139-146	langsam	_	
+2-18	147-151	aber	_	
+2-19	152-158	sicher	_	
+2-20	159-164	immer	_	
+2-21	165-170	höher	_	
+2-22	171-177	werden	_	
+2-23	177-178	.	_	
+
+#Text=Wahrscheinlich verursacht von Baumwurzeln
+3-1	179-193	Wahrscheinlich	_	
+3-2	194-204	verursacht	_	
+3-3	205-208	von	_	
+3-4	209-220	Baumwurzeln	_	

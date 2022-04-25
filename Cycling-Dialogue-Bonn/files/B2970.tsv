@@ -1,0 +1,171 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beidseitige Anbringung von Konvexspiegel (Schießbergweg-Bahnschranke)
+1-1	0-11	Beidseitige	_	
+1-2	12-22	Anbringung	_	
+1-3	23-26	von	_	
+1-4	27-40	Konvexspiegel	_	
+1-5	41-42	(	_	
+1-6	42-68	Schießbergweg-Bahnschranke	*	
+1-7	68-69	)	_	
+
+#Text=Hier kreuzen sich die Fußgänger-&Radwege von Schießbergweg (Übergang zur S-Bahn & T-Mobile) und Im Alten Wingert.
+2-1	72-76	Hier	_	
+2-2	77-84	kreuzen	_	
+2-3	85-89	sich	_	
+2-4	90-93	die	_	
+2-5	94-103	Fußgänger	_	
+2-6	103-104	-	_	
+2-7	104-105	&	_	
+2-8	105-112	Radwege	_	
+2-9	113-116	von	*[10]	
+2-10	117-130	Schießbergweg	*[10]	
+2-11	131-132	(	*[10]	
+2-12	132-140	Übergang	*[10]	
+2-13	141-144	zur	*[10]	
+2-14	145-151	S-Bahn	*[10]	
+2-15	152-153	&	*[10]	
+2-16	154-162	T-Mobile	*[10]	
+2-17	162-163	)	*[10]	
+2-18	164-167	und	*[10]	
+2-19	168-170	Im	*[10]	
+2-20	171-176	Alten	*[10]	
+2-21	177-184	Wingert	*[10]	
+2-22	184-185	.	_	
+
+#Text=Da der Schießbergweg sehr stark abschüssig ist, fahren hier Radfahrer i.d.R. mit hoher Geschwindigkeit in Richtung S-Bahnschranke.
+3-1	186-188	Da	_	
+3-2	189-192	der	*[11]	
+3-3	193-206	Schießbergweg	*[11]	
+3-4	207-211	sehr	_	
+3-5	212-217	stark	_	
+3-6	218-228	abschüssig	_	
+3-7	229-232	ist	_	
+3-8	232-233	,	_	
+3-9	234-240	fahren	_	
+3-10	241-245	hier	_	
+3-11	246-255	Radfahrer	_	
+3-12	256-261	i.d.R	_	
+3-13	261-262	.	_	
+3-14	263-266	mit	_	
+3-15	267-272	hoher	_	
+3-16	273-288	Geschwindigkeit	_	
+3-17	289-291	in	_	
+3-18	292-300	Richtung	_	
+3-19	301-315	S-Bahnschranke	_	
+3-20	315-316	.	_	
+
+#Text=Da diese meistens offen ist, lassen die Radfahrer i.d.R. ihr Rad mit höherer Geschwindigkeit durchrollen.
+4-1	317-319	Da	_	
+4-2	320-325	diese	_	
+4-3	326-334	meistens	_	
+4-4	335-340	offen	_	
+4-5	341-344	ist	_	
+4-6	344-345	,	_	
+4-7	346-352	lassen	_	
+4-8	353-356	die	_	
+4-9	357-366	Radfahrer	_	
+4-10	367-372	i.d.R	_	
+4-11	372-373	.	_	
+4-12	374-377	ihr	_	
+4-13	378-381	Rad	_	
+4-14	382-385	mit	_	
+4-15	386-393	höherer	_	
+4-16	394-409	Geschwindigkeit	_	
+4-17	410-421	durchrollen	_	
+4-18	421-422	.	_	
+
+#Text=Sie kreuzen dabei jedoch den Radweg Im Alten Wingert, der ebenfalls von relativ vielen Radfahrern genutzt wird.
+5-1	423-426	Sie	_	
+5-2	427-434	kreuzen	_	
+5-3	435-440	dabei	_	
+5-4	441-447	jedoch	_	
+5-5	448-451	den	_	
+5-6	452-458	Radweg	*[12]	
+5-7	459-461	Im	*[12]	
+5-8	462-467	Alten	*[12]	
+5-9	468-475	Wingert	*[12]	
+5-10	475-476	,	_	
+5-11	477-480	der	_	
+5-12	481-490	ebenfalls	_	
+5-13	491-494	von	_	
+5-14	495-502	relativ	_	
+5-15	503-509	vielen	_	
+5-16	510-520	Radfahrern	_	
+5-17	521-528	genutzt	_	
+5-18	529-533	wird	_	
+5-19	533-534	.	_	
+
+#Text=Die Radwege sind jedoch gegenseitig überhaupt nicht vorher einsehbar, da Bebauung und Begrünung in diesem Bereich bis an die Radwege heranreichen.
+6-1	535-538	Die	_	
+6-2	539-546	Radwege	_	
+6-3	547-551	sind	_	
+6-4	552-558	jedoch	_	
+6-5	559-570	gegenseitig	_	
+6-6	571-580	überhaupt	_	
+6-7	581-586	nicht	_	
+6-8	587-593	vorher	_	
+6-9	594-603	einsehbar	_	
+6-10	603-604	,	_	
+6-11	605-607	da	_	
+6-12	608-616	Bebauung	_	
+6-13	617-620	und	_	
+6-14	621-630	Begrünung	_	
+6-15	631-633	in	_	
+6-16	634-640	diesem	_	
+6-17	641-648	Bereich	_	
+6-18	649-652	bis	_	
+6-19	653-655	an	_	
+6-20	656-659	die	_	
+6-21	660-667	Radwege	_	
+6-22	668-680	heranreichen	_	
+6-23	680-681	.	_	
+
+#Text=Hier erlebt ich schon häufiger Fastunfälle und einmal morgens einen Unfall.
+7-1	682-686	Hier	_	
+7-2	687-693	erlebt	_	
+7-3	694-697	ich	_	
+7-4	698-703	schon	_	
+7-5	704-712	häufiger	_	
+7-6	713-724	Fastunfälle	_	
+7-7	725-728	und	_	
+7-8	729-735	einmal	_	
+7-9	736-743	morgens	_	
+7-10	744-749	einen	_	
+7-11	750-756	Unfall	_	
+7-12	756-757	.	_	
+
+#Text=Es müssten Verkehrsspiegel ( = Konvexspiegel) montiert werden.
+8-1	758-760	Es	_	
+8-2	761-768	müssten	_	
+8-3	769-784	Verkehrsspiegel	_	
+8-4	785-786	(	_	
+8-5	787-788	=	_	
+8-6	789-802	Konvexspiegel	_	
+8-7	802-803	)	_	
+8-8	804-812	montiert	_	
+8-9	813-819	werden	_	
+8-10	819-820	.	_	
+
+#Text=Diese kommen in unübersichtlichen Knotenpunkten, Kurven oder Grundstücksausfahrten zur Anwendung und verbessernt dort die Sichtverhältnisse.
+9-1	821-826	Diese	_	
+9-2	827-833	kommen	_	
+9-3	834-836	in	_	
+9-4	837-854	unübersichtlichen	_	
+9-5	855-868	Knotenpunkten	_	
+9-6	868-869	,	_	
+9-7	870-876	Kurven	_	
+9-8	877-881	oder	_	
+9-9	882-903	Grundstücksausfahrten	_	
+9-10	904-907	zur	_	
+9-11	908-917	Anwendung	_	
+9-12	918-921	und	_	
+9-13	922-933	verbessernt	_	
+9-14	934-938	dort	_	
+9-15	939-942	die	_	
+9-16	943-960	Sichtverhältnisse	_	
+9-17	960-961	.	_	

@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kopenhagen als Modell für alltagstaugliche (nicht nur Touri-taugliche) Radwege
+1-1	0-10	Kopenhagen	_	
+1-2	11-14	als	_	
+1-3	15-21	Modell	_	
+1-4	22-25	für	_	
+1-5	26-42	alltagstaugliche	_	
+1-6	43-44	(	_	
+1-7	44-49	nicht	_	
+1-8	50-53	nur	_	
+1-9	54-69	Touri-taugliche	_	
+1-10	69-70	)	_	
+1-11	71-78	Radwege	_	
+
+#Text=Vorschlag: Fahren Sie zu einer Studienreise nach Kopenhagen und lernen Sie, wie eine wirklich radfreundliche Stadt aussieht, und zwar nicht nur entlang von Touri-Strecken, sondern alltagstauglich für Bürger, die zur Arbeit per Rad fahren, ggf. auch in Kombination mit öffentlichem Nahverkehr.
+2-1	81-90	Vorschlag	_	
+2-2	90-91	:	_	
+2-3	92-98	Fahren	_	
+2-4	99-102	Sie	_	
+2-5	103-105	zu	_	
+2-6	106-111	einer	_	
+2-7	112-124	Studienreise	_	
+2-8	125-129	nach	_	
+2-9	130-140	Kopenhagen	_	
+2-10	141-144	und	_	
+2-11	145-151	lernen	_	
+2-12	152-155	Sie	_	
+2-13	155-156	,	_	
+2-14	157-160	wie	_	
+2-15	161-165	eine	_	
+2-16	166-174	wirklich	_	
+2-17	175-189	radfreundliche	_	
+2-18	190-195	Stadt	_	
+2-19	196-204	aussieht	_	
+2-20	204-205	,	_	
+2-21	206-209	und	_	
+2-22	210-214	zwar	_	
+2-23	215-220	nicht	_	
+2-24	221-224	nur	_	
+2-25	225-232	entlang	_	
+2-26	233-236	von	_	
+2-27	237-251	Touri-Strecken	_	
+2-28	251-252	,	_	
+2-29	253-260	sondern	_	
+2-30	261-276	alltagstauglich	_	
+2-31	277-280	für	_	
+2-32	281-287	Bürger	_	
+2-33	287-288	,	_	
+2-34	289-292	die	_	
+2-35	293-296	zur	_	
+2-36	297-303	Arbeit	_	
+2-37	304-307	per	_	
+2-38	308-311	Rad	_	
+2-39	312-318	fahren	_	
+2-40	318-319	,	_	
+2-41	320-323	ggf	_	
+2-42	323-324	.	_	
+2-43	325-329	auch	_	
+2-44	330-332	in	_	
+2-45	333-344	Kombination	_	
+2-46	345-348	mit	_	
+2-47	349-361	öffentlichem	_	
+2-48	362-372	Nahverkehr	_	
+2-49	372-373	.	_	
+
+#Text=Der Bonner Bahnhof ist leider nicht nur für Radfahrer eine Katastrophe in fast jeder Hinsicht ...
+3-1	374-377	Der	_	
+3-2	378-384	Bonner	_	
+3-3	385-392	Bahnhof	_	
+3-4	393-396	ist	_	
+3-5	397-403	leider	_	
+3-6	404-409	nicht	_	
+3-7	410-413	nur	_	
+3-8	414-417	für	_	
+3-9	418-427	Radfahrer	_	
+3-10	428-432	eine	_	
+3-11	433-444	Katastrophe	_	
+3-12	445-447	in	_	
+3-13	448-452	fast	_	
+3-14	453-458	jeder	_	
+3-15	459-467	Hinsicht	_	
+3-16	468-469	.	_	
+3-17	469-470	.	_	
+3-18	470-471	.	_	

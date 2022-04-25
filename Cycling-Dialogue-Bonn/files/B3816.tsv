@@ -1,0 +1,88 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehrssicherheit
+1-1	0-18	Verkehrssicherheit	_	
+
+#Text=Die Situation am Bahnübergang ist während der Schulzeiten unhaltbar.
+2-1	21-24	Die	_	
+2-2	25-34	Situation	_	
+2-3	35-37	am	_	
+2-4	38-50	Bahnübergang	_	
+2-5	51-54	ist	_	
+2-6	55-62	während	_	
+2-7	63-66	der	_	
+2-8	67-78	Schulzeiten	_	
+2-9	79-88	unhaltbar	_	
+2-10	88-89	.	_	
+
+#Text=Die Schüler sind gezwungen, mit Rad oder zu Fuß mitten auf der Straße zu stehen, während sie mitunter 25 (!!!)
+3-1	90-93	Die	_	
+3-2	94-101	Schüler	_	
+3-3	102-106	sind	_	
+3-4	107-116	gezwungen	_	
+3-5	116-117	,	_	
+3-6	118-121	mit	_	
+3-7	122-125	Rad	_	
+3-8	126-130	oder	_	
+3-9	131-133	zu	_	
+3-10	134-137	Fuß	_	
+3-11	138-144	mitten	_	
+3-12	145-148	auf	_	
+3-13	149-152	der	_	
+3-14	153-159	Straße	_	
+3-15	160-162	zu	_	
+3-16	163-169	stehen	_	
+3-17	169-170	,	_	
+3-18	171-178	während	_	
+3-19	179-182	sie	_	
+3-20	183-191	mitunter	_	
+3-21	192-194	25	_	
+3-22	195-196	(	_	
+3-23	196-197	!	_	
+3-24	197-198	!	_	
+3-25	198-199	!	_	
+3-26	199-200	)	_	
+
+#Text=Minuten auf das Öffnen der Schranken warten müssen.
+4-1	201-208	Minuten	_	
+4-2	209-212	auf	_	
+4-3	213-216	das	_	
+4-4	217-223	Öffnen	_	
+4-5	224-227	der	_	
+4-6	228-237	Schranken	_	
+4-7	238-244	warten	_	
+4-8	245-251	müssen	_	
+4-9	251-252	.	_	
+
+#Text=Eine Öffnung wäre sicherlich möglich, wenn die Phasen zwischen dem Passieren von 2 Zügen länger als 4 Minuten betragen, was gar nicht selten ist.
+5-1	253-257	Eine	_	
+5-2	258-265	Öffnung	_	
+5-3	266-270	wäre	_	
+5-4	271-281	sicherlich	_	
+5-5	282-289	möglich	_	
+5-6	289-290	,	_	
+5-7	291-295	wenn	_	
+5-8	296-299	die	_	
+5-9	300-306	Phasen	_	
+5-10	307-315	zwischen	_	
+5-11	316-319	dem	_	
+5-12	320-329	Passieren	_	
+5-13	330-333	von	_	
+5-14	334-335	2	_	
+5-15	336-341	Zügen	_	
+5-16	342-348	länger	_	
+5-17	349-352	als	_	
+5-18	353-354	4	_	
+5-19	355-362	Minuten	_	
+5-20	363-371	betragen	_	
+5-21	371-372	,	_	
+5-22	373-376	was	_	
+5-23	377-380	gar	_	
+5-24	381-386	nicht	_	
+5-25	387-393	selten	_	
+5-26	394-397	ist	_	
+5-27	397-398	.	_	

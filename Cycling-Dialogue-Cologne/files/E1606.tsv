@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radfahren gleicht einem Rodeoritt
+1-1	0-9	Radfahren	_	
+1-2	10-17	gleicht	_	
+1-3	18-23	einem	_	
+1-4	24-33	Rodeoritt	_	
+
+#Text=Die Radwege der Mathias-Brüggen-Straße sind durch Baumwurzeln unbenutzbar geworden - und das an ziemlich allen Abschnitten.
+2-1	36-39	Die	_	
+2-2	40-47	Radwege	_	
+2-3	48-51	der	_	
+2-4	52-74	Mathias-Brüggen-Straße	*	
+2-5	75-79	sind	_	
+2-6	80-85	durch	_	
+2-7	86-97	Baumwurzeln	_	
+2-8	98-109	unbenutzbar	_	
+2-9	110-118	geworden	_	
+2-10	119-120	-	_	
+2-11	121-124	und	_	
+2-12	125-128	das	_	
+2-13	129-131	an	_	
+2-14	132-140	ziemlich	_	
+2-15	141-146	allen	_	
+2-16	147-158	Abschnitten	_	
+2-17	158-159	.	_	

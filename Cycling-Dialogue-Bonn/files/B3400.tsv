@@ -1,0 +1,109 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radfahrstreifen zwischen Kreuzbergkirche und Ippendorfer Allee
+1-1	0-15	Radfahrstreifen	_	
+1-2	16-24	zwischen	*[8]	
+1-3	25-40	Kreuzbergkirche	*[8]	
+1-4	41-44	und	*[8]	
+1-5	45-56	Ippendorfer	*[8]	
+1-6	57-62	Allee	*[8]	
+
+#Text=Wir schlagen auf dem Stationsweg zwischen Kreuzbergkirche und Ippendorfer Allee einen einfach abmarkierten Streifen für Fußgänger und Radfahrer vor.
+2-1	65-68	Wir	_	
+2-2	69-77	schlagen	_	
+2-3	78-81	auf	_	
+2-4	82-85	dem	_	
+2-5	86-97	Stationsweg	*[9]	
+2-6	98-106	zwischen	*[9]	
+2-7	107-122	Kreuzbergkirche	*[9]	
+2-8	123-126	und	*[9]	
+2-9	127-138	Ippendorfer	*[9]	
+2-10	139-144	Allee	*[9]	
+2-11	145-150	einen	_	
+2-12	151-158	einfach	_	
+2-13	159-171	abmarkierten	_	
+2-14	172-180	Streifen	_	
+2-15	181-184	für	_	
+2-16	185-194	Fußgänger	_	
+2-17	195-198	und	_	
+2-18	199-208	Radfahrer	_	
+2-19	209-212	vor	_	
+2-20	212-213	.	_	
+
+#Text=Dies dürfte zur gefühlten Sicherheit beitragen und auf jeden Fall etwas Ordnung reinbringen.
+3-1	214-218	Dies	_	
+3-2	219-225	dürfte	_	
+3-3	226-229	zur	_	
+3-4	230-239	gefühlten	_	
+3-5	240-250	Sicherheit	_	
+3-6	251-260	beitragen	_	
+3-7	261-264	und	_	
+3-8	265-268	auf	_	
+3-9	269-274	jeden	_	
+3-10	275-279	Fall	_	
+3-11	280-285	etwas	_	
+3-12	286-293	Ordnung	_	
+3-13	294-305	reinbringen	_	
+3-14	305-306	.	_	
+
+#Text=Grundsätzlich sind wir shared space-Ansätzen ja aufgeschlossen.
+4-1	307-320	Grundsätzlich	_	
+4-2	321-325	sind	_	
+4-3	326-329	wir	_	
+4-4	330-336	shared	_	
+4-5	337-351	space-Ansätzen	_	
+4-6	352-354	ja	_	
+4-7	355-369	aufgeschlossen	_	
+4-8	369-370	.	_	
+
+#Text=Eine ganze Straße als shared space zu betreiben, hat aus unserer Sicht aber überwiegend Nachteile - für alle Verkehrsteilnehmer.
+5-1	371-375	Eine	_	
+5-2	376-381	ganze	_	
+5-3	382-388	Straße	_	
+5-4	389-392	als	_	
+5-5	393-399	shared	_	
+5-6	400-405	space	_	
+5-7	406-408	zu	_	
+5-8	409-418	betreiben	_	
+5-9	418-419	,	_	
+5-10	420-423	hat	_	
+5-11	424-427	aus	_	
+5-12	428-435	unserer	_	
+5-13	436-441	Sicht	_	
+5-14	442-446	aber	_	
+5-15	447-458	überwiegend	_	
+5-16	459-468	Nachteile	_	
+5-17	469-470	-	_	
+5-18	471-474	für	_	
+5-19	475-479	alle	_	
+5-20	480-498	Verkehrsteilnehmer	_	
+5-21	498-499	.	_	
+
+#Text=Alternative: Stationsweg nur noch für Anwohner freigeben und den autofahrenden Kreuzbergkirchen-Tourismus einschränken.
+6-1	500-511	Alternative	_	
+6-2	511-512	:	_	
+6-3	513-524	Stationsweg	*	
+6-4	525-528	nur	_	
+6-5	529-533	noch	_	
+6-6	534-537	für	_	
+6-7	538-546	Anwohner	_	
+6-8	547-556	freigeben	_	
+6-9	557-560	und	_	
+6-10	561-564	den	_	
+6-11	565-578	autofahrenden	_	
+6-12	579-605	Kreuzbergkirchen-Tourismus	_	
+6-13	606-618	einschränken	_	
+6-14	618-619	.	_	
+
+#Text=Damit dürfte shared space weiterhin funktionieren.
+7-1	620-625	Damit	_	
+7-2	626-632	dürfte	_	
+7-3	633-639	shared	_	
+7-4	640-645	space	_	
+7-5	646-655	weiterhin	_	
+7-6	656-669	funktionieren	_	
+7-7	669-670	.	_	

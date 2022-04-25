@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Innenstadt für Fahrradfahrer in Zeiten des Lieferverkehrs freigeben
+1-1	0-10	Innenstadt	*	
+1-2	11-14	für	_	
+1-3	15-28	Fahrradfahrer	_	
+1-4	29-31	in	_	
+1-5	32-38	Zeiten	_	
+1-6	39-42	des	_	
+1-7	43-57	Lieferverkehrs	_	
+1-8	58-67	freigeben	_	
+
+#Text=Ich kann nicht nachvollziehen, warum große Teile der Fußgängerzone von 9 bis 13 Uhr für den Lieferverkehr freigegeben sind, für Fahrradfahrer aber nicht.
+2-1	70-73	Ich	_	
+2-2	74-78	kann	_	
+2-3	79-84	nicht	_	
+2-4	85-99	nachvollziehen	_	
+2-5	99-100	,	_	
+2-6	101-106	warum	_	
+2-7	107-112	große	_	
+2-8	113-118	Teile	_	
+2-9	119-122	der	_	
+2-10	123-136	Fußgängerzone	_	
+2-11	137-140	von	_	
+2-12	141-142	9	_	
+2-13	143-146	bis	_	
+2-14	147-149	13	_	
+2-15	150-153	Uhr	_	
+2-16	154-157	für	_	
+2-17	158-161	den	_	
+2-18	162-175	Lieferverkehr	_	
+2-19	176-187	freigegeben	_	
+2-20	188-192	sind	_	
+2-21	192-193	,	_	
+2-22	194-197	für	_	
+2-23	198-211	Fahrradfahrer	_	
+2-24	212-216	aber	_	
+2-25	217-222	nicht	_	
+2-26	222-223	.	_	
+
+#Text=Dies sollte für Radfahrer genauso gelten.
+3-1	224-228	Dies	_	
+3-2	229-235	sollte	_	
+3-3	236-239	für	_	
+3-4	240-249	Radfahrer	_	
+3-5	250-257	genauso	_	
+3-6	258-264	gelten	_	
+3-7	264-265	.	_	

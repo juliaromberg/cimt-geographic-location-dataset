@@ -1,0 +1,153 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße ist sehr unsicher!
+1-1	0-13	Fahrradstraße	_	
+1-2	14-17	ist	_	
+1-3	18-22	sehr	_	
+1-4	23-31	unsicher	_	
+1-5	31-32	!	_	
+
+#Text=Weder Autofahrer noch Fußgänger kennen dir Regeln in Fahrradstraßen.
+2-1	35-40	Weder	_	
+2-2	41-51	Autofahrer	_	
+2-3	52-56	noch	_	
+2-4	57-66	Fußgänger	_	
+2-5	67-73	kennen	_	
+2-6	74-77	dir	_	
+2-7	78-84	Regeln	_	
+2-8	85-87	in	_	
+2-9	88-102	Fahrradstraßen	_	
+2-10	102-103	.	_	
+
+#Text=Die Fußgänger agieren, als wäre es eine Fußgängerzone (bin schon mehrfach willentlich zum Anhalten gezwungen worden).
+3-1	104-107	Die	_	
+3-2	108-117	Fußgänger	_	
+3-3	118-125	agieren	_	
+3-4	125-126	,	_	
+3-5	127-130	als	_	
+3-6	131-135	wäre	_	
+3-7	136-138	es	_	
+3-8	139-143	eine	_	
+3-9	144-157	Fußgängerzone	_	
+3-10	158-159	(	_	
+3-11	159-162	bin	_	
+3-12	163-168	schon	_	
+3-13	169-177	mehrfach	_	
+3-14	178-189	willentlich	_	
+3-15	190-193	zum	_	
+3-16	194-202	Anhalten	_	
+3-17	203-212	gezwungen	_	
+3-18	213-219	worden	_	
+3-19	219-220	)	_	
+3-20	220-221	.	_	
+
+#Text=Autofahrer agieren bei entgegenkommenden Fahrradfahrern als hätten sie Vorfahrt und die Fahrradfahrer würden unerlaubt ihre Einbahnstraße in falscher Fahrtrichtung queren und wären selbst schuld, wenn sie das nicht überleben.
+4-1	222-232	Autofahrer	_	
+4-2	233-240	agieren	_	
+4-3	241-244	bei	_	
+4-4	245-262	entgegenkommenden	_	
+4-5	263-277	Fahrradfahrern	_	
+4-6	278-281	als	_	
+4-7	282-288	hätten	_	
+4-8	289-292	sie	_	
+4-9	293-301	Vorfahrt	_	
+4-10	302-305	und	_	
+4-11	306-309	die	_	
+4-12	310-323	Fahrradfahrer	_	
+4-13	324-330	würden	_	
+4-14	331-340	unerlaubt	_	
+4-15	341-345	ihre	_	
+4-16	346-359	Einbahnstraße	_	
+4-17	360-362	in	_	
+4-18	363-371	falscher	_	
+4-19	372-385	Fahrtrichtung	_	
+4-20	386-392	queren	_	
+4-21	393-396	und	_	
+4-22	397-402	wären	_	
+4-23	403-409	selbst	_	
+4-24	410-416	schuld	_	
+4-25	416-417	,	_	
+4-26	418-422	wenn	_	
+4-27	423-426	sie	_	
+4-28	427-430	das	_	
+4-29	431-436	nicht	_	
+4-30	437-446	überleben	_	
+4-31	446-447	.	_	
+
+#Text=Ich meide die Fahrradstraße mittlerweile, meiner Tochter (12) habe ich verboten, sie entgegen der für Autos freigegebenen Fahrtrichtung zu nutzen.
+5-1	448-451	Ich	_	
+5-2	452-457	meide	_	
+5-3	458-461	die	_	
+5-4	462-475	Fahrradstraße	_	
+5-5	476-488	mittlerweile	_	
+5-6	488-489	,	_	
+5-7	490-496	meiner	_	
+5-8	497-504	Tochter	_	
+5-9	505-506	(	_	
+5-10	506-508	12	_	
+5-11	508-509	)	_	
+5-12	510-514	habe	_	
+5-13	515-518	ich	_	
+5-14	519-527	verboten	_	
+5-15	527-528	,	_	
+5-16	529-532	sie	_	
+5-17	533-541	entgegen	_	
+5-18	542-545	der	_	
+5-19	546-549	für	_	
+5-20	550-555	Autos	_	
+5-21	556-569	freigegebenen	_	
+5-22	570-583	Fahrtrichtung	_	
+5-23	584-586	zu	_	
+5-24	587-593	nutzen	_	
+5-25	593-594	.	_	
+
+#Text=Es ist zu gefährlich.
+6-1	595-597	Es	_	
+6-2	598-601	ist	_	
+6-3	602-604	zu	_	
+6-4	605-615	gefährlich	_	
+6-5	615-616	.	_	
+
+#Text=Ich finde das Konzept der Fahrradstraßen eigentlich gut, aber um die Sicherheit für Fahrradfahrer tatsächlich zu erhöhen und nicht zu verringern, muss hier Öffentlichkeitsarbeit geleistet werden und durch temporäre Polizeipräsenz umgesetzt werden!
+7-1	617-620	Ich	_	
+7-2	621-626	finde	_	
+7-3	627-630	das	_	
+7-4	631-638	Konzept	_	
+7-5	639-642	der	_	
+7-6	643-657	Fahrradstraßen	_	
+7-7	658-668	eigentlich	_	
+7-8	669-672	gut	_	
+7-9	672-673	,	_	
+7-10	674-678	aber	_	
+7-11	679-681	um	_	
+7-12	682-685	die	_	
+7-13	686-696	Sicherheit	_	
+7-14	697-700	für	_	
+7-15	701-714	Fahrradfahrer	_	
+7-16	715-726	tatsächlich	_	
+7-17	727-729	zu	_	
+7-18	730-737	erhöhen	_	
+7-19	738-741	und	_	
+7-20	742-747	nicht	_	
+7-21	748-750	zu	_	
+7-22	751-761	verringern	_	
+7-23	761-762	,	_	
+7-24	763-767	muss	_	
+7-25	768-772	hier	_	
+7-26	773-794	Öffentlichkeitsarbeit	_	
+7-27	795-804	geleistet	_	
+7-28	805-811	werden	_	
+7-29	812-815	und	_	
+7-30	816-821	durch	_	
+7-31	822-831	temporäre	_	
+7-32	832-846	Polizeipräsenz	_	
+7-33	847-856	umgesetzt	_	
+7-34	857-863	werden	_	
+7-35	863-864	!	_	
+
+#Text=Danke
+8-1	865-870	Danke	_	

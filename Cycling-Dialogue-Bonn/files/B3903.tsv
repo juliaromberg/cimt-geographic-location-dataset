@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkplätze in Fahrradstellplätze verwandeln
+1-1	0-10	Parkplätze	_	
+1-2	11-13	in	_	
+1-3	14-32	Fahrradstellplätze	_	
+1-4	33-43	verwandeln	_	
+
+#Text=Die Parkplätze (ca.4-5) auf dem Bürgersteig direkt ggü.vom Schloss behindern nicht nur die Fußgänger, sondern sind auch eine Gefährdung für die auf dem sehr schmalen Schutzstreifen fahrenden Radfahrer, der direkt daneben verläuft.
+2-1	46-49	Die	_	
+2-2	50-60	Parkplätze	_	
+2-3	61-62	(	_	
+2-4	62-64	ca	_	
+2-5	64-66	.4	_	
+2-6	66-67	-	_	
+2-7	67-68	5	_	
+2-8	68-69	)	_	
+2-9	70-73	auf	_	
+2-10	74-77	dem	_	
+2-11	78-89	Bürgersteig	_	
+2-12	90-96	direkt	*[5]	
+2-13	97-104	ggü.vom	*[5]	
+2-14	105-112	Schloss	*[5]	
+2-15	113-122	behindern	_	
+2-16	123-128	nicht	_	
+2-17	129-132	nur	_	
+2-18	133-136	die	_	
+2-19	137-146	Fußgänger	_	
+2-20	146-147	,	_	
+2-21	148-155	sondern	_	
+2-22	156-160	sind	_	
+2-23	161-165	auch	_	
+2-24	166-170	eine	_	
+2-25	171-181	Gefährdung	_	
+2-26	182-185	für	_	
+2-27	186-189	die	_	
+2-28	190-193	auf	_	
+2-29	194-197	dem	_	
+2-30	198-202	sehr	_	
+2-31	203-211	schmalen	_	
+2-32	212-226	Schutzstreifen	_	
+2-33	227-236	fahrenden	_	
+2-34	237-246	Radfahrer	_	
+2-35	246-247	,	_	
+2-36	248-251	der	_	
+2-37	252-258	direkt	_	
+2-38	259-266	daneben	_	
+2-39	267-275	verläuft	_	
+2-40	275-276	.	_	
+
+#Text=Hier kann sich durch Unachtsamkeit immer eine Tür öffnen.
+3-1	277-281	Hier	_	
+3-2	282-286	kann	_	
+3-3	287-291	sich	_	
+3-4	292-297	durch	_	
+3-5	298-311	Unachtsamkeit	_	
+3-6	312-317	immer	_	
+3-7	318-322	eine	_	
+3-8	323-326	Tür	_	
+3-9	327-333	öffnen	_	
+3-10	333-334	.	_	
+
+#Text=Man könnte sozusagen 3 Fliegen mit einer Klappe schlagen: die wenigen Parkplätze durch Fahrradständer für mehr als 20 Klimahelden ersetzen.
+4-1	335-338	Man	_	
+4-2	339-345	könnte	_	
+4-3	346-355	sozusagen	_	
+4-4	356-357	3	_	
+4-5	358-365	Fliegen	_	
+4-6	366-369	mit	_	
+4-7	370-375	einer	_	
+4-8	376-382	Klappe	_	
+4-9	383-391	schlagen	_	
+4-10	391-392	:	_	
+4-11	393-396	die	_	
+4-12	397-404	wenigen	_	
+4-13	405-415	Parkplätze	_	
+4-14	416-421	durch	_	
+4-15	422-436	Fahrradständer	_	
+4-16	437-440	für	_	
+4-17	441-445	mehr	_	
+4-18	446-449	als	_	
+4-19	450-452	20	_	
+4-20	453-464	Klimahelden	_	
+4-21	465-473	ersetzen	_	
+4-22	473-474	.	_	

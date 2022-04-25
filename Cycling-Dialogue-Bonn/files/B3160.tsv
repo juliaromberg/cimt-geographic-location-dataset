@@ -1,0 +1,97 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Belange der Mountain-Biker-Szene
+1-1	0-7	Belange	_	
+1-2	8-11	der	_	
+1-3	12-32	Mountain-Biker-Szene	_	
+
+#Text=Es gibt in Bonn eine aktive Mountain-Biker-Szene, die sich mit Wanderern bislang die Wege im 7-Gebirge und in Kottenforst und am Venusberg teilt.
+2-1	35-37	Es	_	
+2-2	38-42	gibt	_	
+2-3	43-45	in	_	
+2-4	46-50	Bonn	_	
+2-5	51-55	eine	_	
+2-6	56-62	aktive	_	
+2-7	63-83	Mountain-Biker-Szene	_	
+2-8	83-84	,	_	
+2-9	85-88	die	_	
+2-10	89-93	sich	_	
+2-11	94-97	mit	_	
+2-12	98-107	Wanderern	_	
+2-13	108-115	bislang	_	
+2-14	116-119	die	_	
+2-15	120-124	Wege	_	
+2-16	125-127	im	*[5]	
+2-17	128-129	7	*[5]	
+2-18	129-130	-	*[5]	
+2-19	130-137	Gebirge	*[5]	
+2-20	138-141	und	*[5]	
+2-21	142-144	in	*[5]	
+2-22	145-156	Kottenforst	*[5]	
+2-23	157-160	und	*[5]	
+2-24	161-163	am	*[5]	
+2-25	164-173	Venusberg	*[5]	
+2-26	174-179	teilt	_	
+2-27	179-180	.	_	
+
+#Text=Hier gibt es viel Ungeduld auf beiden Seiten, aber eine ausgewiesene Strecke stünde Bonn gut zu Gesicht, so wie z.B. Bad Ems oder Stromberg das tun.
+3-1	181-185	Hier	_	
+3-2	186-190	gibt	_	
+3-3	191-193	es	_	
+3-4	194-198	viel	_	
+3-5	199-207	Ungeduld	_	
+3-6	208-211	auf	_	
+3-7	212-218	beiden	_	
+3-8	219-225	Seiten	_	
+3-9	225-226	,	_	
+3-10	227-231	aber	_	
+3-11	232-236	eine	_	
+3-12	237-249	ausgewiesene	_	
+3-13	250-257	Strecke	_	
+3-14	258-264	stünde	_	
+3-15	265-269	Bonn	_	
+3-16	270-273	gut	_	
+3-17	274-276	zu	_	
+3-18	277-284	Gesicht	_	
+3-19	284-285	,	_	
+3-20	286-288	so	_	
+3-21	289-292	wie	_	
+3-22	293-296	z.B	_	
+3-23	296-297	.	_	
+3-24	298-301	Bad	*[6]	
+3-25	302-305	Ems	*[6]	
+3-26	306-310	oder	*[6]	
+3-27	311-320	Stromberg	*[6]	
+3-28	321-324	das	_	
+3-29	325-328	tun	_	
+3-30	328-329	.	_	
+
+#Text=Für die Pflege von Trails wären sicherlich Biker zu gewinnen, hier gibt es viel Motivation und Interesse, das kanalisiert werden kann.
+4-1	330-333	Für	_	
+4-2	334-337	die	_	
+4-3	338-344	Pflege	_	
+4-4	345-348	von	_	
+4-5	349-355	Trails	_	
+4-6	356-361	wären	_	
+4-7	362-372	sicherlich	_	
+4-8	373-378	Biker	_	
+4-9	379-381	zu	_	
+4-10	382-390	gewinnen	_	
+4-11	390-391	,	_	
+4-12	392-396	hier	_	
+4-13	397-401	gibt	_	
+4-14	402-404	es	_	
+4-15	405-409	viel	_	
+4-16	410-420	Motivation	_	
+4-17	421-424	und	_	
+4-18	425-434	Interesse	_	
+4-19	434-435	,	_	
+4-20	436-439	das	_	
+4-21	440-451	kanalisiert	_	
+4-22	452-458	werden	_	
+4-23	459-463	kann	_	
+4-24	463-464	.	_	

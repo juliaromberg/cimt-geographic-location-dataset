@@ -1,0 +1,125 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beschilderung, Kontrollen
+1-1	0-13	Beschilderung	_	
+1-2	13-14	,	_	
+1-3	15-25	Kontrollen	_	
+
+#Text=Ich wünsche mir eine besser erkennbare Beschilderung des nordseitigen Radwegs, möglicherweise vielleicht sogar ein explizites Fußgängerverbot.
+2-1	28-31	Ich	_	
+2-2	32-39	wünsche	_	
+2-3	40-43	mir	_	
+2-4	44-48	eine	_	
+2-5	49-55	besser	_	
+2-6	56-66	erkennbare	_	
+2-7	67-80	Beschilderung	_	
+2-8	81-84	des	_	
+2-9	85-97	nordseitigen	_	
+2-10	98-105	Radwegs	_	
+2-11	105-106	,	_	
+2-12	107-121	möglicherweise	_	
+2-13	122-132	vielleicht	_	
+2-14	133-138	sogar	_	
+2-15	139-142	ein	_	
+2-16	143-153	explizites	_	
+2-17	154-169	Fußgängerverbot	_	
+2-18	169-170	.	_	
+
+#Text=Vielen Fußgängern ist nicht klar, dass der nordseitige Parallelweg zur Autobahn als Sondernutzungsweg für Radfahrer ausgewiesen ist, mit Zusatz Kleinkrafträder frei.
+3-1	171-177	Vielen	_	
+3-2	178-188	Fußgängern	_	
+3-3	189-192	ist	_	
+3-4	193-198	nicht	_	
+3-5	199-203	klar	_	
+3-6	203-204	,	_	
+3-7	205-209	dass	_	
+3-8	210-213	der	_	
+3-9	214-225	nordseitige	_	
+3-10	226-237	Parallelweg	_	
+3-11	238-241	zur	_	
+3-12	242-250	Autobahn	_	
+3-13	251-254	als	_	
+3-14	255-272	Sondernutzungsweg	_	
+3-15	273-276	für	_	
+3-16	277-286	Radfahrer	_	
+3-17	287-298	ausgewiesen	_	
+3-18	299-302	ist	_	
+3-19	302-303	,	_	
+3-20	304-307	mit	_	
+3-21	308-314	Zusatz	_	
+3-22	315-330	Kleinkrafträder	_	
+3-23	331-335	frei	_	
+3-24	335-336	.	_	
+
+#Text=Südseitig handelt es sich um einen kombinierten Geh- und Radweg ohne zusätzliche Freigabe für Kleinkrafträder.
+4-1	337-346	Südseitig	_	
+4-2	347-354	handelt	_	
+4-3	355-357	es	_	
+4-4	358-362	sich	_	
+4-5	363-365	um	_	
+4-6	366-371	einen	_	
+4-7	372-384	kombinierten	_	
+4-8	385-388	Geh	_	
+4-9	388-389	-	_	
+4-10	390-393	und	_	
+4-11	394-400	Radweg	_	
+4-12	401-405	ohne	_	
+4-13	406-417	zusätzliche	_	
+4-14	418-426	Freigabe	_	
+4-15	427-430	für	_	
+4-16	431-446	Kleinkrafträder	_	
+4-17	446-447	.	_	
+
+#Text=Anderen Bürgern ist durchaus bekannt, dass sie auf dem Radweg joggen, sie ignorieren die Regelung bewusst.
+5-1	448-455	Anderen	_	
+5-2	456-463	Bürgern	_	
+5-3	464-467	ist	_	
+5-4	468-476	durchaus	_	
+5-5	477-484	bekannt	_	
+5-6	484-485	,	_	
+5-7	486-490	dass	_	
+5-8	491-494	sie	_	
+5-9	495-498	auf	_	
+5-10	499-502	dem	_	
+5-11	503-509	Radweg	_	
+5-12	510-516	joggen	_	
+5-13	516-517	,	_	
+5-14	518-521	sie	_	
+5-15	522-532	ignorieren	_	
+5-16	533-536	die	_	
+5-17	537-545	Regelung	_	
+5-18	546-553	bewusst	_	
+5-19	553-554	.	_	
+
+#Text=Dem Gebot zur Gleichbehandlung folgend wünsche ich mir hier behördliche Kontrollen der Fußgänger, so, wie sie sonst das Fehlverhalten von Radfahrern im Auge haben.
+6-1	555-558	Dem	_	
+6-2	559-564	Gebot	_	
+6-3	565-568	zur	_	
+6-4	569-585	Gleichbehandlung	_	
+6-5	586-593	folgend	_	
+6-6	594-601	wünsche	_	
+6-7	602-605	ich	_	
+6-8	606-609	mir	_	
+6-9	610-614	hier	_	
+6-10	615-626	behördliche	_	
+6-11	627-637	Kontrollen	_	
+6-12	638-641	der	_	
+6-13	642-651	Fußgänger	_	
+6-14	651-652	,	_	
+6-15	653-655	so	_	
+6-16	655-656	,	_	
+6-17	657-660	wie	_	
+6-18	661-664	sie	_	
+6-19	665-670	sonst	_	
+6-20	671-674	das	_	
+6-21	675-688	Fehlverhalten	_	
+6-22	689-692	von	_	
+6-23	693-703	Radfahrern	_	
+6-24	704-706	im	_	
+6-25	707-711	Auge	_	
+6-26	712-717	haben	_	
+6-27	717-718	.	_	

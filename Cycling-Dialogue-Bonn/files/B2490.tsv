@@ -1,0 +1,174 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Fahrradstraße mit schweren Unfällen
+1-1	0-11	Gefährliche	_	
+1-2	12-25	Fahrradstraße	_	
+1-3	26-29	mit	_	
+1-4	30-38	schweren	_	
+1-5	39-47	Unfällen	_	
+
+#Text=Den Florentiusgraben als Fahrradstraße zu titulieren möchte ich erstmal loben und das Vorhaben unterstützen.
+2-1	50-53	Den	*[9]	
+2-2	54-70	Florentiusgraben	*[9]	
+2-3	71-74	als	_	
+2-4	75-88	Fahrradstraße	_	
+2-5	89-91	zu	_	
+2-6	92-102	titulieren	_	
+2-7	103-109	möchte	_	
+2-8	110-113	ich	_	
+2-9	114-121	erstmal	_	
+2-10	122-127	loben	_	
+2-11	128-131	und	_	
+2-12	132-135	das	_	
+2-13	136-144	Vorhaben	_	
+2-14	145-157	unterstützen	_	
+2-15	157-158	.	_	
+
+#Text=Allerdings ist diese Straße für Fahrradfahrer und immer breiter werdende Autos zu eng.
+3-1	159-169	Allerdings	_	
+3-2	170-173	ist	_	
+3-3	174-179	diese	_	
+3-4	180-186	Straße	_	
+3-5	187-190	für	_	
+3-6	191-204	Fahrradfahrer	_	
+3-7	205-208	und	_	
+3-8	209-214	immer	_	
+3-9	215-222	breiter	_	
+3-10	223-231	werdende	_	
+3-11	232-237	Autos	_	
+3-12	238-240	zu	_	
+3-13	241-244	eng	_	
+3-14	244-245	.	_	
+
+#Text=Ich musste schon selbst Zeuge von schweren Unfällen und Beinahe-Unfällen werden.
+4-1	246-249	Ich	_	
+4-2	250-256	musste	_	
+4-3	257-262	schon	_	
+4-4	263-269	selbst	_	
+4-5	270-275	Zeuge	_	
+4-6	276-279	von	_	
+4-7	280-288	schweren	_	
+4-8	289-297	Unfällen	_	
+4-9	298-301	und	_	
+4-10	302-318	Beinahe-Unfällen	_	
+4-11	319-325	werden	_	
+4-12	325-326	.	_	
+
+#Text=Ich meide diese Straße seitdem.
+5-1	327-330	Ich	_	
+5-2	331-336	meide	_	
+5-3	337-342	diese	_	
+5-4	343-349	Straße	_	
+5-5	350-357	seitdem	_	
+5-6	357-358	.	_	
+
+#Text=Damit der Florentiusgraben wieder für Fahrradfahrer aktiv wird, bitte ich folgende Verbesserungen vorzunehmen: 1) Der Florentiusgraben darf nur noch von Anwohner und Lieferverkehr befahren werden (Durchfahrtsverbot mit Anwohner frei) 2) Die Pfosten zum Schutz der Fußgänger sollten zumindest im Kurvenbereich entfernt werden, damit man als Radfahrer zu breiten PKW/Lieferwagen noch ausweichen kann 3) Es sollte ein Konzept geben, wie man als Radfahrer vom Stadthaus zum Busbahnhof/Kaiserstraße gelangt.
+6-1	359-364	Damit	_	
+6-2	365-368	der	*[10]	
+6-3	369-385	Florentiusgraben	*[10]	
+6-4	386-392	wieder	_	
+6-5	393-396	für	_	
+6-6	397-410	Fahrradfahrer	_	
+6-7	411-416	aktiv	_	
+6-8	417-421	wird	_	
+6-9	421-422	,	_	
+6-10	423-428	bitte	_	
+6-11	429-432	ich	_	
+6-12	433-441	folgende	_	
+6-13	442-456	Verbesserungen	_	
+6-14	457-468	vorzunehmen	_	
+6-15	468-469	:	_	
+6-16	470-471	1	_	
+6-17	471-472	)	_	
+6-18	473-476	Der	*[11]	
+6-19	477-493	Florentiusgraben	*[11]	
+6-20	494-498	darf	_	
+6-21	499-502	nur	_	
+6-22	503-507	noch	_	
+6-23	508-511	von	_	
+6-24	512-520	Anwohner	_	
+6-25	521-524	und	_	
+6-26	525-538	Lieferverkehr	_	
+6-27	539-547	befahren	_	
+6-28	548-554	werden	_	
+6-29	555-556	(	_	
+6-30	556-573	Durchfahrtsverbot	_	
+6-31	574-577	mit	_	
+6-32	578-586	Anwohner	_	
+6-33	587-591	frei	_	
+6-34	591-592	)	_	
+6-35	593-594	2	_	
+6-36	594-595	)	_	
+6-37	596-599	Die	_	
+6-38	600-607	Pfosten	_	
+6-39	608-611	zum	_	
+6-40	612-618	Schutz	_	
+6-41	619-622	der	_	
+6-42	623-632	Fußgänger	_	
+6-43	633-640	sollten	_	
+6-44	641-650	zumindest	_	
+6-45	651-653	im	_	
+6-46	654-667	Kurvenbereich	_	
+6-47	668-676	entfernt	_	
+6-48	677-683	werden	_	
+6-49	683-684	,	_	
+6-50	685-690	damit	_	
+6-51	691-694	man	_	
+6-52	695-698	als	_	
+6-53	699-708	Radfahrer	_	
+6-54	709-711	zu	_	
+6-55	712-719	breiten	_	
+6-56	720-723	PKW	_	
+6-57	723-724	/	_	
+6-58	724-735	Lieferwagen	_	
+6-59	736-740	noch	_	
+6-60	741-751	ausweichen	_	
+6-61	752-756	kann	_	
+6-62	757-758	3	_	
+6-63	758-759	)	_	
+6-64	760-762	Es	_	
+6-65	763-769	sollte	_	
+6-66	770-773	ein	_	
+6-67	774-781	Konzept	_	
+6-68	782-787	geben	_	
+6-69	787-788	,	_	
+6-70	789-792	wie	_	
+6-71	793-796	man	_	
+6-72	797-800	als	_	
+6-73	801-810	Radfahrer	_	
+6-74	811-814	vom	*[12]	
+6-75	815-824	Stadthaus	*[12]	
+6-76	825-828	zum	*[12]	
+6-77	829-839	Busbahnhof	*[12]	
+6-78	839-840	/	*[12]	
+6-79	840-852	Kaiserstraße	*[12]	
+6-80	853-860	gelangt	_	
+6-81	860-861	.	_	
+
+#Text=Die Fahrradstraße endet in der Fußgängerzone bzw. auf dem Parkplatz.
+7-1	862-865	Die	_	
+7-2	866-879	Fahrradstraße	_	
+7-3	880-885	endet	_	
+7-4	886-888	in	_	
+7-5	889-892	der	_	
+7-6	893-906	Fußgängerzone	_	
+7-7	907-910	bzw	_	
+7-8	910-911	.	_	
+7-9	912-915	auf	_	
+7-10	916-919	dem	_	
+7-11	920-929	Parkplatz	_	
+7-12	929-930	.	_	
+
+#Text=Diese Verbesserungen würden das Unfallrisiko elementar verringern.
+8-1	931-936	Diese	_	
+8-2	937-951	Verbesserungen	_	
+8-3	952-958	würden	_	
+8-4	959-962	das	_	
+8-5	963-975	Unfallrisiko	_	
+8-6	976-985	elementar	_	
+8-7	986-996	verringern	_	
+8-8	996-997	.	_	

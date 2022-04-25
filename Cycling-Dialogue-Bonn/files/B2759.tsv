@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Abgrenzung des Radweges zur Strasse
+1-1	0-10	Abgrenzung	_	
+1-2	11-14	des	_	
+1-3	15-23	Radweges	_	
+1-4	24-27	zur	_	
+1-5	28-35	Strasse	_	
+
+#Text=von der Victoriabrücke kommend schneidet jedes zweite KFZ den Fahrradweg und bringt Radfahrer in Bedrängnis.
+2-1	38-41	von	*[4]	
+2-2	42-45	der	*[4]	
+2-3	46-60	Victoriabrücke	*[4]	
+2-4	61-68	kommend	*[4]	
+2-5	69-78	schneidet	_	
+2-6	79-84	jedes	_	
+2-7	85-91	zweite	_	
+2-8	92-95	KFZ	_	
+2-9	96-99	den	_	
+2-10	100-110	Fahrradweg	_	
+2-11	111-114	und	_	
+2-12	115-121	bringt	_	
+2-13	122-131	Radfahrer	_	
+2-14	132-134	in	_	
+2-15	135-145	Bedrängnis	_	
+2-16	145-146	.	_	
+
+#Text=Eine deutlich sichtbare Abgrenzung ist notwendig, z.B. in Form von auf dem Strassenbelag angebrachten Plastikwimpeln, die zwar überfahren werden können, aber dabei den Fahrer des KFZ geräuschvoll auf sein Fehlverhalten aufmerksam machen.
+3-1	147-151	Eine	_	
+3-2	152-160	deutlich	_	
+3-3	161-170	sichtbare	_	
+3-4	171-181	Abgrenzung	_	
+3-5	182-185	ist	_	
+3-6	186-195	notwendig	_	
+3-7	195-196	,	_	
+3-8	197-200	z.B	_	
+3-9	200-201	.	_	
+3-10	202-204	in	_	
+3-11	205-209	Form	_	
+3-12	210-213	von	_	
+3-13	214-217	auf	_	
+3-14	218-221	dem	_	
+3-15	222-235	Strassenbelag	_	
+3-16	236-248	angebrachten	_	
+3-17	249-263	Plastikwimpeln	_	
+3-18	263-264	,	_	
+3-19	265-268	die	_	
+3-20	269-273	zwar	_	
+3-21	274-284	überfahren	_	
+3-22	285-291	werden	_	
+3-23	292-298	können	_	
+3-24	298-299	,	_	
+3-25	300-304	aber	_	
+3-26	305-310	dabei	_	
+3-27	311-314	den	_	
+3-28	315-321	Fahrer	_	
+3-29	322-325	des	_	
+3-30	326-329	KFZ	_	
+3-31	330-342	geräuschvoll	_	
+3-32	343-346	auf	_	
+3-33	347-351	sein	_	
+3-34	352-365	Fehlverhalten	_	
+3-35	366-376	aufmerksam	_	
+3-36	377-383	machen	_	
+3-37	383-384	.	_	

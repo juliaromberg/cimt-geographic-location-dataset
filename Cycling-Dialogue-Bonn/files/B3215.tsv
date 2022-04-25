@@ -1,0 +1,71 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße
+1-1	0-13	Fahrradstraße	_	
+
+#Text=Es nutzt gar nichts, wenn mit viel Wirbel Straßen zu Fahrradstraßen umfunktioniert werden, wenn die Autofahrer die Straßen genau so befaren wie vorher: wenn man als Fahrradfahrer nicht höllisch aufpasst und den Autos ausweicht wird man über den Haufen gafahren.
+2-1	16-18	Es	_	
+2-2	19-24	nutzt	_	
+2-3	25-28	gar	_	
+2-4	29-35	nichts	_	
+2-5	35-36	,	_	
+2-6	37-41	wenn	_	
+2-7	42-45	mit	_	
+2-8	46-50	viel	_	
+2-9	51-57	Wirbel	_	
+2-10	58-65	Straßen	_	
+2-11	66-68	zu	_	
+2-12	69-83	Fahrradstraßen	_	
+2-13	84-98	umfunktioniert	_	
+2-14	99-105	werden	_	
+2-15	105-106	,	_	
+2-16	107-111	wenn	_	
+2-17	112-115	die	_	
+2-18	116-126	Autofahrer	_	
+2-19	127-130	die	_	
+2-20	131-138	Straßen	_	
+2-21	139-144	genau	_	
+2-22	145-147	so	_	
+2-23	148-155	befaren	_	
+2-24	156-159	wie	_	
+2-25	160-166	vorher	_	
+2-26	166-167	:	_	
+2-27	168-172	wenn	_	
+2-28	173-176	man	_	
+2-29	177-180	als	_	
+2-30	181-194	Fahrradfahrer	_	
+2-31	195-200	nicht	_	
+2-32	201-209	höllisch	_	
+2-33	210-218	aufpasst	_	
+2-34	219-222	und	_	
+2-35	223-226	den	_	
+2-36	227-232	Autos	_	
+2-37	233-242	ausweicht	_	
+2-38	243-247	wird	_	
+2-39	248-251	man	_	
+2-40	252-256	über	_	
+2-41	257-260	den	_	
+2-42	261-267	Haufen	_	
+2-43	268-276	gafahren	_	
+2-44	276-277	.	_	
+
+#Text=Hier müsste wohl erst einmal eine Aufklärung darüber stattfinden, was Fahrradstraßen überhaupt sind!
+3-1	278-282	Hier	_	
+3-2	283-289	müsste	_	
+3-3	290-294	wohl	_	
+3-4	295-299	erst	_	
+3-5	300-306	einmal	_	
+3-6	307-311	eine	_	
+3-7	312-322	Aufklärung	_	
+3-8	323-330	darüber	_	
+3-9	331-342	stattfinden	_	
+3-10	342-343	,	_	
+3-11	344-347	was	_	
+3-12	348-362	Fahrradstraßen	_	
+3-13	363-372	überhaupt	_	
+3-14	373-377	sind	_	
+3-15	377-378	!	_	

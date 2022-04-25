@@ -1,0 +1,112 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radschnellweg parallel des Militäring
+1-1	0-13	Radschnellweg	_	
+1-2	14-22	parallel	*[8]	
+1-3	23-26	des	*[8]	
+1-4	27-37	Militäring	*[8]	
+
+#Text=Der kombinierte Rad- und Fußweg zwischen Bocklemünd und Longerich ist in einem desolaten Zustand.
+2-1	40-43	Der	*[9]	
+2-2	44-55	kombinierte	*[9]	
+2-3	56-59	Rad	*[9]	
+2-4	59-60	-	*[9]	
+2-5	61-64	und	*[9]	
+2-6	65-71	Fußweg	*[9]	
+2-7	72-80	zwischen	*[9]	
+2-8	81-91	Bocklemünd	*[9]	
+2-9	92-95	und	*[9]	
+2-10	96-105	Longerich	*[9]	
+2-11	106-109	ist	_	
+2-12	110-112	in	_	
+2-13	113-118	einem	_	
+2-14	119-128	desolaten	_	
+2-15	129-136	Zustand	_	
+2-16	136-137	.	_	
+
+#Text=Schlaglöcher, Wurzeln, zu schmal und teilweise unübersichtlich, ausserdem werden die Sträucher viel zu selten zurück geschnitten.
+3-1	138-150	Schlaglöcher	_	
+3-2	150-151	,	_	
+3-3	152-159	Wurzeln	_	
+3-4	159-160	,	_	
+3-5	161-163	zu	_	
+3-6	164-170	schmal	_	
+3-7	171-174	und	_	
+3-8	175-184	teilweise	_	
+3-9	185-200	unübersichtlich	_	
+3-10	200-201	,	_	
+3-11	202-211	ausserdem	_	
+3-12	212-218	werden	_	
+3-13	219-222	die	_	
+3-14	223-232	Sträucher	_	
+3-15	233-237	viel	_	
+3-16	238-240	zu	_	
+3-17	241-247	selten	_	
+3-18	248-254	zurück	_	
+3-19	255-266	geschnitten	_	
+3-20	266-267	.	_	
+
+#Text=In den letzten 20 Jahren wurden hier lediglich die Schilder, die auf die Schäden hinweisen erneuert.
+4-1	268-270	In	_	
+4-2	271-274	den	_	
+4-3	275-282	letzten	_	
+4-4	283-285	20	_	
+4-5	286-292	Jahren	_	
+4-6	293-299	wurden	_	
+4-7	300-304	hier	_	
+4-8	305-314	lediglich	_	
+4-9	315-318	die	_	
+4-10	319-327	Schilder	_	
+4-11	327-328	,	_	
+4-12	329-332	die	_	
+4-13	333-336	auf	_	
+4-14	337-340	die	_	
+4-15	341-348	Schäden	_	
+4-16	349-358	hinweisen	_	
+4-17	359-367	erneuert	_	
+4-18	367-368	.	_	
+
+#Text=Hier muß defintiv etwas passieren!
+5-1	369-373	Hier	_	
+5-2	374-377	muß	_	
+5-3	378-386	defintiv	_	
+5-4	387-392	etwas	_	
+5-5	393-402	passieren	_	
+5-6	402-403	!	_	
+
+#Text=Dies ist eine wichtige Verbindung in den Kölner Norden ( Berufspendler ).
+6-1	404-408	Dies	_	
+6-2	409-412	ist	_	
+6-3	413-417	eine	_	
+6-4	418-426	wichtige	_	
+6-5	427-437	Verbindung	_	
+6-6	438-440	in	_	
+6-7	441-444	den	_	
+6-8	445-451	Kölner	_	
+6-9	452-458	Norden	_	
+6-10	459-460	(	_	
+6-11	461-474	Berufspendler	_	
+6-12	475-476	)	_	
+6-13	476-477	.	_	
+
+#Text=Die beste Lösung wäre ein Radschnellweg oder zumindest eine vernünftige Trennung zwischen Fußgängern und Radfahrern.
+7-1	478-481	Die	_	
+7-2	482-487	beste	_	
+7-3	488-494	Lösung	_	
+7-4	495-499	wäre	_	
+7-5	500-503	ein	_	
+7-6	504-517	Radschnellweg	_	
+7-7	518-522	oder	_	
+7-8	523-532	zumindest	_	
+7-9	533-537	eine	_	
+7-10	538-549	vernünftige	_	
+7-11	550-558	Trennung	_	
+7-12	559-567	zwischen	_	
+7-13	568-578	Fußgängern	_	
+7-14	579-582	und	_	
+7-15	583-593	Radfahrern	_	
+7-16	593-594	.	_	

@@ -1,0 +1,142 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Straße vom Buschweg zur Bundesgrenzschutzstraße kreuzt gefährlich den Radweg
+1-1	0-6	Straße	*[9]	
+1-2	7-10	vom	*[9]	
+1-3	11-19	Buschweg	*[9]	
+1-4	20-23	zur	*[9]	
+1-5	24-47	Bundesgrenzschutzstraße	*[9]	
+1-6	48-54	kreuzt	_	
+1-7	55-65	gefährlich	_	
+1-8	66-69	den	_	
+1-9	70-76	Radweg	_	
+
+#Text=Die Verbindungsstraße vom Buschweg im Neubaugebiet Vilich-Müldorf führt mit Gefälle zur Bundesgrenzschutzstraße und kreuzt den dortigen Radweg.
+2-1	79-82	Die	*[10]	
+2-2	83-100	Verbindungsstraße	*[10]	
+2-3	101-104	vom	*[10]	
+2-4	105-113	Buschweg	*[10]	
+2-5	114-116	im	*[10]	
+2-6	117-129	Neubaugebiet	*[10]	
+2-7	130-144	Vilich-Müldorf	*[10]	
+2-8	145-150	führt	*[10]	
+2-9	151-154	mit	*[10]	
+2-10	155-162	Gefälle	*[10]	
+2-11	163-166	zur	*[10]	
+2-12	167-190	Bundesgrenzschutzstraße	*[10]	
+2-13	191-194	und	_	
+2-14	195-201	kreuzt	_	
+2-15	202-205	den	_	
+2-16	206-214	dortigen	_	
+2-17	215-221	Radweg	_	
+2-18	221-222	.	_	
+
+#Text=Weder eine blaue Untergrundmarkierung noch andere Hinweise sensibilisieren abwärtsfahrenden Verkehr für eventuell kreuzende Radfahrer.
+3-1	223-228	Weder	_	
+3-2	229-233	eine	_	
+3-3	234-239	blaue	_	
+3-4	240-260	Untergrundmarkierung	_	
+3-5	261-265	noch	_	
+3-6	266-272	andere	_	
+3-7	273-281	Hinweise	_	
+3-8	282-297	sensibilisieren	_	
+3-9	298-314	abwärtsfahrenden	_	
+3-10	315-322	Verkehr	_	
+3-11	323-326	für	_	
+3-12	327-336	eventuell	_	
+3-13	337-346	kreuzende	_	
+3-14	347-356	Radfahrer	_	
+3-15	356-357	.	_	
+
+#Text=Der Radweg hat von linkskommend auch Gefälle, Radfahrer sind entsprechend schnell unterwegs.
+4-1	358-361	Der	_	
+4-2	362-368	Radweg	_	
+4-3	369-372	hat	_	
+4-4	373-376	von	_	
+4-5	377-389	linkskommend	_	
+4-6	390-394	auch	_	
+4-7	395-402	Gefälle	_	
+4-8	402-403	,	_	
+4-9	404-413	Radfahrer	_	
+4-10	414-418	sind	_	
+4-11	419-431	entsprechend	_	
+4-12	432-439	schnell	_	
+4-13	440-449	unterwegs	_	
+4-14	449-450	.	_	
+
+#Text=Anders als in der OSm-Karte dargestellt, besteht für Benutzer der Verbindungsstraße kein freier Blick nach links oder rechts auf den Radweg.
+5-1	451-457	Anders	_	
+5-2	458-461	als	_	
+5-3	462-464	in	_	
+5-4	465-468	der	_	
+5-5	469-478	OSm-Karte	_	
+5-6	479-490	dargestellt	_	
+5-7	490-491	,	_	
+5-8	492-499	besteht	_	
+5-9	500-503	für	_	
+5-10	504-512	Benutzer	_	
+5-11	513-516	der	_	
+5-12	517-534	Verbindungsstraße	_	
+5-13	535-539	kein	_	
+5-14	540-546	freier	_	
+5-15	547-552	Blick	_	
+5-16	553-557	nach	_	
+5-17	558-563	links	_	
+5-18	564-568	oder	_	
+5-19	569-575	rechts	_	
+5-20	576-579	auf	_	
+5-21	580-583	den	_	
+5-22	584-590	Radweg	_	
+5-23	590-591	.	_	
+
+#Text=Sie müssen erst in diesen hineinfahren.
+6-1	592-595	Sie	_	
+6-2	596-602	müssen	_	
+6-3	603-607	erst	_	
+6-4	608-610	in	_	
+6-5	611-617	diesen	_	
+6-6	618-630	hineinfahren	_	
+6-7	630-631	.	_	
+
+#Text=Vorschlag: Nach links und rechts die Grünanlagen zurückbauen, Untergrund des Radwegs im Mündungsb ereich blau markieren.
+7-1	632-641	Vorschlag	_	
+7-2	641-642	:	_	
+7-3	643-647	Nach	_	
+7-4	648-653	links	_	
+7-5	654-657	und	_	
+7-6	658-664	rechts	_	
+7-7	665-668	die	_	
+7-8	669-680	Grünanlagen	_	
+7-9	681-692	zurückbauen	_	
+7-10	692-693	,	_	
+7-11	694-704	Untergrund	_	
+7-12	705-708	des	_	
+7-13	709-716	Radwegs	_	
+7-14	717-719	im	_	
+7-15	720-729	Mündungsb	_	
+7-16	730-736	ereich	_	
+7-17	737-741	blau	_	
+7-18	742-751	markieren	_	
+7-19	751-752	.	_	
+
+#Text=Bitte: Verzichten Sie auf den Standarthinweis kein Unfallschwerpunkt, folgen Sie dem gesunden Menschenverstand.
+8-1	753-758	Bitte	_	
+8-2	758-759	:	_	
+8-3	760-770	Verzichten	_	
+8-4	771-774	Sie	_	
+8-5	775-778	auf	_	
+8-6	779-782	den	_	
+8-7	783-798	Standarthinweis	_	
+8-8	799-803	kein	_	
+8-9	804-821	Unfallschwerpunkt	_	
+8-10	821-822	,	_	
+8-11	823-829	folgen	_	
+8-12	830-833	Sie	_	
+8-13	834-837	dem	_	
+8-14	838-846	gesunden	_	
+8-15	847-863	Menschenverstand	_	
+8-16	863-864	.	_	

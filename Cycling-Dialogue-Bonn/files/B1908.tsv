@@ -1,0 +1,58 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sehr enge Fahrspur vor dem Kreisen
+1-1	0-4	Sehr	_	
+1-2	5-9	enge	_	
+1-3	10-18	Fahrspur	_	
+1-4	19-22	vor	_	
+1-5	23-26	dem	_	
+1-6	27-34	Kreisen	_	
+
+#Text=Die Fahrradspur vor dem Kreisel ist sehr eng.
+2-1	37-40	Die	_	
+2-2	41-52	Fahrradspur	_	
+2-3	53-56	vor	_	
+2-4	57-60	dem	_	
+2-5	61-68	Kreisel	_	
+2-6	69-72	ist	_	
+2-7	73-77	sehr	_	
+2-8	78-81	eng	_	
+2-9	81-82	.	_	
+
+#Text=In den Kreisel fahrende Autos fahren oft zu weit rechts benutzen diese mit.
+3-1	83-85	In	_	
+3-2	86-89	den	_	
+3-3	90-97	Kreisel	_	
+3-4	98-106	fahrende	_	
+3-5	107-112	Autos	_	
+3-6	113-119	fahren	_	
+3-7	120-123	oft	_	
+3-8	124-126	zu	_	
+3-9	127-131	weit	_	
+3-10	132-138	rechts	_	
+3-11	139-147	benutzen	_	
+3-12	148-153	diese	_	
+3-13	154-157	mit	_	
+3-14	157-158	.	_	
+
+#Text=Es besteht nicht die Möglichkeit sicher auf dem Radweg an wartenden Autos vorbei zu fahren.
+4-1	159-161	Es	_	
+4-2	162-169	besteht	_	
+4-3	170-175	nicht	_	
+4-4	176-179	die	_	
+4-5	180-191	Möglichkeit	_	
+4-6	192-198	sicher	_	
+4-7	199-202	auf	_	
+4-8	203-206	dem	_	
+4-9	207-213	Radweg	_	
+4-10	214-216	an	_	
+4-11	217-226	wartenden	_	
+4-12	227-232	Autos	_	
+4-13	233-239	vorbei	_	
+4-14	240-242	zu	_	
+4-15	243-249	fahren	_	
+4-16	249-250	.	_	

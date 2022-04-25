@@ -1,0 +1,44 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlecht sichtbare Schutzgitter
+1-1	0-8	Schlecht	_	
+1-2	9-18	sichtbare	_	
+1-3	19-31	Schutzgitter	_	
+
+#Text=Die runden Schutzgitter um die Baumscheiben an der Unterführung unter der A562 sind bei Dunkelheit kaum sichtbar.
+2-1	34-37	Die	_	
+2-2	38-44	runden	_	
+2-3	45-57	Schutzgitter	_	
+2-4	58-60	um	_	
+2-5	61-64	die	_	
+2-6	65-77	Baumscheiben	_	
+2-7	78-80	an	_	
+2-8	81-84	der	_	
+2-9	85-97	Unterführung	*[5]	
+2-10	98-103	unter	*[5]	
+2-11	104-107	der	*[5]	
+2-12	108-112	A562	*[5]	
+2-13	113-117	sind	_	
+2-14	118-121	bei	_	
+2-15	122-132	Dunkelheit	_	
+2-16	133-137	kaum	_	
+2-17	138-146	sichtbar	_	
+2-18	146-147	.	_	
+
+#Text=Sturzgefahr!
+3-1	148-159	Sturzgefahr	_	
+3-2	159-160	!	_	
+
+#Text=Lösung: Anstrich in stark reflektierender Signalfarbe.
+4-1	161-167	Lösung	_	
+4-2	167-168	:	_	
+4-3	169-177	Anstrich	_	
+4-4	178-180	in	_	
+4-5	181-186	stark	_	
+4-6	187-202	reflektierender	_	
+4-7	203-214	Signalfarbe	_	
+4-8	214-215	.	_	

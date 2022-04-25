@@ -1,0 +1,120 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg zu schmal - schlechter Zustand
+1-1	0-6	Radweg	_	
+1-2	7-9	zu	_	
+1-3	10-16	schmal	_	
+1-4	17-18	-	_	
+1-5	19-29	schlechter	_	
+1-6	30-37	Zustand	_	
+
+#Text=Der Radweg wird in Richtung Norden immer schmaler, obwohl es ein Zweirichtungsradweg ist.
+2-1	40-43	Der	_	
+2-2	44-50	Radweg	_	
+2-3	51-55	wird	_	
+2-4	56-58	in	_	
+2-5	59-67	Richtung	_	
+2-6	68-74	Norden	_	
+2-7	75-80	immer	_	
+2-8	81-89	schmaler	_	
+2-9	89-90	,	_	
+2-10	91-97	obwohl	_	
+2-11	98-100	es	_	
+2-12	101-104	ein	_	
+2-13	105-124	Zweirichtungsradweg	_	
+2-14	125-128	ist	_	
+2-15	128-129	.	_	
+
+#Text=Auch der Zustand ist teilweise sehr schlecht.
+3-1	130-134	Auch	_	
+3-2	135-138	der	_	
+3-3	139-146	Zustand	_	
+3-4	147-150	ist	_	
+3-5	151-160	teilweise	_	
+3-6	161-165	sehr	_	
+3-7	166-174	schlecht	_	
+3-8	174-175	.	_	
+
+#Text=Bei Dunkelheit wird man durch die schlechte Beleuchtung auch noch durch plötzlich auftretende Schlaglöcher bzw. Bodenwellen überrascht.
+4-1	176-179	Bei	_	
+4-2	180-190	Dunkelheit	_	
+4-3	191-195	wird	_	
+4-4	196-199	man	_	
+4-5	200-205	durch	_	
+4-6	206-209	die	_	
+4-7	210-219	schlechte	_	
+4-8	220-231	Beleuchtung	_	
+4-9	232-236	auch	_	
+4-10	237-241	noch	_	
+4-11	242-247	durch	_	
+4-12	248-257	plötzlich	_	
+4-13	258-269	auftretende	_	
+4-14	270-282	Schlaglöcher	_	
+4-15	283-286	bzw	_	
+4-16	286-287	.	_	
+4-17	288-299	Bodenwellen	_	
+4-18	300-310	überrascht	_	
+4-19	310-311	.	_	
+
+#Text=Dazu kommt noch eine Baustelle am Römerbad.
+5-1	312-316	Dazu	_	
+5-2	317-322	kommt	_	
+5-3	323-327	noch	_	
+5-4	328-332	eine	_	
+5-5	333-342	Baustelle	_	
+5-6	343-345	am	*[8]	
+5-7	346-354	Römerbad	*[8]	
+5-8	354-355	.	_	
+
+#Text=Anfangs wurde nicht mal ein Schild aufgestellt, sodass der Bauzaun mitten auf dem Radweg im Dunkeln nur zu erahnen war.
+6-1	356-363	Anfangs	_	
+6-2	364-369	wurde	_	
+6-3	370-375	nicht	_	
+6-4	376-379	mal	_	
+6-5	380-383	ein	_	
+6-6	384-390	Schild	_	
+6-7	391-402	aufgestellt	_	
+6-8	402-403	,	_	
+6-9	404-410	sodass	_	
+6-10	411-414	der	_	
+6-11	415-422	Bauzaun	_	
+6-12	423-429	mitten	_	
+6-13	430-433	auf	_	
+6-14	434-437	dem	_	
+6-15	438-444	Radweg	_	
+6-16	445-447	im	_	
+6-17	448-455	Dunkeln	_	
+6-18	456-459	nur	_	
+6-19	460-462	zu	_	
+6-20	463-470	erahnen	_	
+6-21	471-474	war	_	
+6-22	474-475	.	_	
+
+#Text=Für mich persönlich ist es insgesamt sehr sehr schade, dass die tolle Lage am Rhein hier für Radfahrer kaum genutzt wird.
+7-1	476-479	Für	_	
+7-2	480-484	mich	_	
+7-3	485-495	persönlich	_	
+7-4	496-499	ist	_	
+7-5	500-502	es	_	
+7-6	503-512	insgesamt	_	
+7-7	513-517	sehr	_	
+7-8	518-522	sehr	_	
+7-9	523-529	schade	_	
+7-10	529-530	,	_	
+7-11	531-535	dass	_	
+7-12	536-539	die	_	
+7-13	540-545	tolle	_	
+7-14	546-550	Lage	_	
+7-15	551-553	am	_	
+7-16	554-559	Rhein	_	
+7-17	560-564	hier	_	
+7-18	565-568	für	_	
+7-19	569-578	Radfahrer	_	
+7-20	579-583	kaum	_	
+7-21	584-591	genutzt	_	
+7-22	592-596	wird	_	
+7-23	596-597	.	_	

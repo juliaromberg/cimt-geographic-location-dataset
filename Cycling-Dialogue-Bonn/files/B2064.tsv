@@ -1,0 +1,84 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährdung durch Rechtsabbieger
+1-1	0-10	Gefährdung	_	
+1-2	11-16	durch	_	
+1-3	17-31	Rechtsabbieger	_	
+
+#Text=An dieser Stelle kommt es häufig zu gefährlichen Situationen.
+2-1	34-36	An	_	
+2-2	37-43	dieser	_	
+2-3	44-50	Stelle	_	
+2-4	51-56	kommt	_	
+2-5	57-59	es	_	
+2-6	60-66	häufig	_	
+2-7	67-69	zu	_	
+2-8	70-82	gefährlichen	_	
+2-9	83-94	Situationen	_	
+2-10	94-95	.	_	
+
+#Text=Die rechts abbiegenden Fahrzeuge von der B56 in die Reinhold-Hagen-Straße sehen die Radfahrer und Fußgänger, die den Überweg in Richtung Siegburg benutzen, erst sehr spät.
+3-1	96-99	Die	_	
+3-2	100-106	rechts	_	
+3-3	107-118	abbiegenden	_	
+3-4	119-128	Fahrzeuge	_	
+3-5	129-132	von	*[6]	
+3-6	133-136	der	*[6]	
+3-7	137-140	B56	*[6]	
+3-8	141-143	in	*[6]	
+3-9	144-147	die	*[6]	
+3-10	148-169	Reinhold-Hagen-Straße	*[6]	
+3-11	170-175	sehen	_	
+3-12	176-179	die	_	
+3-13	180-189	Radfahrer	_	
+3-14	190-193	und	_	
+3-15	194-203	Fußgänger	_	
+3-16	203-204	,	_	
+3-17	205-208	die	_	
+3-18	209-212	den	_	
+3-19	213-220	Überweg	_	
+3-20	221-223	in	*[7]	
+3-21	224-232	Richtung	*[7]	
+3-22	233-241	Siegburg	*[7]	
+3-23	242-250	benutzen	_	
+3-24	250-251	,	_	
+3-25	252-256	erst	_	
+3-26	257-261	sehr	_	
+3-27	262-266	spät	_	
+3-28	266-267	.	_	
+
+#Text=Grund ist der enge Verlauf der Kurve und der Bewuchs an dieser Stelle.
+4-1	268-273	Grund	_	
+4-2	274-277	ist	_	
+4-3	278-281	der	_	
+4-4	282-286	enge	_	
+4-5	287-294	Verlauf	_	
+4-6	295-298	der	_	
+4-7	299-304	Kurve	_	
+4-8	305-308	und	_	
+4-9	309-312	der	_	
+4-10	313-320	Bewuchs	_	
+4-11	321-323	an	_	
+4-12	324-330	dieser	_	
+4-13	331-337	Stelle	_	
+4-14	337-338	.	_	
+
+#Text=Verbesserungsvorschlag: Zusätzliche Warnampel (gelbes Blinklicht) als Hinweis für die Rechtsabbieger.
+5-1	339-361	Verbesserungsvorschlag	_	
+5-2	361-362	:	_	
+5-3	363-374	Zusätzliche	_	
+5-4	375-384	Warnampel	_	
+5-5	385-386	(	_	
+5-6	386-392	gelbes	_	
+5-7	393-403	Blinklicht	_	
+5-8	403-404	)	_	
+5-9	405-408	als	_	
+5-10	409-416	Hinweis	_	
+5-11	417-420	für	_	
+5-12	421-424	die	_	
+5-13	425-439	Rechtsabbieger	_	
+5-14	439-440	.	_	

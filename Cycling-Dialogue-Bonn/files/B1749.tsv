@@ -1,0 +1,268 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=kombinierter Rad- und Fußweg hinderlich und gefährlich
+1-1	0-12	kombinierter	_	
+1-2	13-16	Rad	_	
+1-3	16-17	-	_	
+1-4	18-21	und	_	
+1-5	22-28	Fußweg	_	
+1-6	29-39	hinderlich	_	
+1-7	40-43	und	_	
+1-8	44-54	gefährlich	_	
+
+#Text=Ich verstehe nicht so ganz, warum man hier in RIchtung Dransdorf auf dem Abschnitt Anfang Auf dem Hügel bis Einmündung An der Immenburg auf dem Fußweg fahren soll.
+2-1	57-60	Ich	_	
+2-2	61-69	verstehe	_	
+2-3	70-75	nicht	_	
+2-4	76-78	so	_	
+2-5	79-83	ganz	_	
+2-6	83-84	,	_	
+2-7	85-90	warum	_	
+2-8	91-94	man	_	
+2-9	95-99	hier	_	
+2-10	100-102	in	*[15]	
+2-11	103-111	RIchtung	*[15]	
+2-12	112-121	Dransdorf	*[15]	
+2-13	122-125	auf	*[15]	
+2-14	126-129	dem	*[15]	
+2-15	130-139	Abschnitt	*[15]	
+2-16	140-146	Anfang	*[15]	
+2-17	147-150	Auf	*[15]	
+2-18	151-154	dem	*[15]	
+2-19	155-160	Hügel	*[15]	
+2-20	161-164	bis	*[15]	
+2-21	165-175	Einmündung	*[15]	
+2-22	176-178	An	*[15]	
+2-23	179-182	der	*[15]	
+2-24	183-192	Immenburg	*[15]	
+2-25	193-196	auf	_	
+2-26	197-200	dem	_	
+2-27	201-207	Fußweg	_	
+2-28	208-214	fahren	_	
+2-29	215-219	soll	_	
+2-30	219-220	.	_	
+
+#Text=Es kommt regelmäßig zu Konflikten mit den wartenden Menschen an der Bushaltestelle.
+3-1	221-223	Es	_	
+3-2	224-229	kommt	_	
+3-3	230-240	regelmäßig	_	
+3-4	241-243	zu	_	
+3-5	244-254	Konflikten	_	
+3-6	255-258	mit	_	
+3-7	259-262	den	_	
+3-8	263-272	wartenden	_	
+3-9	273-281	Menschen	_	
+3-10	282-284	an	_	
+3-11	285-288	der	_	
+3-12	289-303	Bushaltestelle	_	
+3-13	303-304	.	_	
+
+#Text=Aus der Einmündung an der Immenburg kommen Autos, die den Gehweg nicht einsehen können.
+4-1	305-308	Aus	*[16]	
+4-2	309-312	der	*[16]	
+4-3	313-323	Einmündung	*[16]	
+4-4	324-326	an	*[16]	
+4-5	327-330	der	*[16]	
+4-6	331-340	Immenburg	*[16]	
+4-7	341-347	kommen	_	
+4-8	348-353	Autos	_	
+4-9	353-354	,	_	
+4-10	355-358	die	_	
+4-11	359-362	den	_	
+4-12	363-369	Gehweg	_	
+4-13	370-375	nicht	_	
+4-14	376-384	einsehen	_	
+4-15	385-391	können	_	
+4-16	391-392	.	_	
+
+#Text=Umgekehrt ist die Einmündung erst spät zu erkennen.
+5-1	393-402	Umgekehrt	_	
+5-2	403-406	ist	_	
+5-3	407-410	die	_	
+5-4	411-421	Einmündung	_	
+5-5	422-426	erst	_	
+5-6	427-431	spät	_	
+5-7	432-434	zu	_	
+5-8	435-443	erkennen	_	
+5-9	443-444	.	_	
+
+#Text=Für Radfahrer, die diese Strecke nicht kennen ist das sehr gefährlich.
+6-1	445-448	Für	_	
+6-2	449-458	Radfahrer	_	
+6-3	458-459	,	_	
+6-4	460-463	die	_	
+6-5	464-469	diese	_	
+6-6	470-477	Strecke	_	
+6-7	478-483	nicht	_	
+6-8	484-490	kennen	_	
+6-9	491-494	ist	_	
+6-10	495-498	das	_	
+6-11	499-503	sehr	_	
+6-12	504-514	gefährlich	_	
+6-13	514-515	.	_	
+
+#Text=Mit der Situatuation bekannte Radfahrer müssen sehr stark abbremsen.
+7-1	516-519	Mit	_	
+7-2	520-523	der	_	
+7-3	524-536	Situatuation	_	
+7-4	537-545	bekannte	_	
+7-5	546-555	Radfahrer	_	
+7-6	556-562	müssen	_	
+7-7	563-567	sehr	_	
+7-8	568-573	stark	_	
+7-9	574-583	abbremsen	_	
+7-10	583-584	.	_	
+
+#Text=Zusätzlich schwierig wird das Linksabbiegen auf den Steinweg, da der Wechsel auf die Mitte der Fahrbahn erst nach der Einmündung und nach Schulterblick erfolgen kann.
+8-1	585-595	Zusätzlich	_	
+8-2	596-605	schwierig	_	
+8-3	606-610	wird	_	
+8-4	611-614	das	_	
+8-5	615-628	Linksabbiegen	_	
+8-6	629-632	auf	*[17]	
+8-7	633-636	den	*[17]	
+8-8	637-645	Steinweg	*[17]	
+8-9	645-646	,	_	
+8-10	647-649	da	_	
+8-11	650-653	der	_	
+8-12	654-661	Wechsel	_	
+8-13	662-665	auf	_	
+8-14	666-669	die	_	
+8-15	670-675	Mitte	_	
+8-16	676-679	der	_	
+8-17	680-688	Fahrbahn	_	
+8-18	689-693	erst	_	
+8-19	694-698	nach	_	
+8-20	699-702	der	_	
+8-21	703-713	Einmündung	_	
+8-22	714-717	und	_	
+8-23	718-722	nach	_	
+8-24	723-736	Schulterblick	_	
+8-25	737-745	erfolgen	_	
+8-26	746-750	kann	_	
+8-27	750-751	.	_	
+
+#Text=Zunächst sollte in diesem Abschnitt Anfang Auf dem Hügel bis Einmündung An der Immenburg die Benutzungspflicht des kombinierten Wegs aufgehoben und der Gehweg für Fahrräder freigegeben werden, sodass man die Möglichkeit hat auf der Straße zu fahren.
+9-1	752-760	Zunächst	_	
+9-2	761-767	sollte	_	
+9-3	768-770	in	*[18]	
+9-4	771-777	diesem	*[18]	
+9-5	778-787	Abschnitt	*[18]	
+9-6	788-794	Anfang	*[18]	
+9-7	795-798	Auf	*[18]	
+9-8	799-802	dem	*[18]	
+9-9	803-808	Hügel	*[18]	
+9-10	809-812	bis	*[18]	
+9-11	813-823	Einmündung	*[18]	
+9-12	824-826	An	*[18]	
+9-13	827-830	der	*[18]	
+9-14	831-840	Immenburg	*[18]	
+9-15	841-844	die	_	
+9-16	845-862	Benutzungspflicht	_	
+9-17	863-866	des	_	
+9-18	867-879	kombinierten	_	
+9-19	880-884	Wegs	_	
+9-20	885-895	aufgehoben	_	
+9-21	896-899	und	_	
+9-22	900-903	der	_	
+9-23	904-910	Gehweg	_	
+9-24	911-914	für	_	
+9-25	915-924	Fahrräder	_	
+9-26	925-936	freigegeben	_	
+9-27	937-943	werden	_	
+9-28	943-944	,	_	
+9-29	945-951	sodass	_	
+9-30	952-955	man	_	
+9-31	956-959	die	_	
+9-32	960-971	Möglichkeit	_	
+9-33	972-975	hat	_	
+9-34	976-979	auf	_	
+9-35	980-983	der	_	
+9-36	984-990	Straße	_	
+9-37	991-993	zu	_	
+9-38	994-1000	fahren	_	
+9-39	1000-1001	.	_	
+
+#Text=Außerdem sollte vor der Einmündung An der Immenburg eine Warnung angebracht und ein Spiegel zur Einsicht aufgestellt werden.
+10-1	1002-1010	Außerdem	_	
+10-2	1011-1017	sollte	_	
+10-3	1018-1021	vor	*[19]	
+10-4	1022-1025	der	*[19]	
+10-5	1026-1036	Einmündung	*[19]	
+10-6	1037-1039	An	*[19]	
+10-7	1040-1043	der	*[19]	
+10-8	1044-1053	Immenburg	*[19]	
+10-9	1054-1058	eine	_	
+10-10	1059-1066	Warnung	_	
+10-11	1067-1077	angebracht	_	
+10-12	1078-1081	und	_	
+10-13	1082-1085	ein	_	
+10-14	1086-1093	Spiegel	_	
+10-15	1094-1097	zur	_	
+10-16	1098-1106	Einsicht	_	
+10-17	1107-1118	aufgestellt	_	
+10-18	1119-1125	werden	_	
+10-19	1125-1126	.	_	
+
+#Text=Zusätzlich sollte das Tempo der Autos auf 30 limitiert werden.
+11-1	1127-1137	Zusätzlich	_	
+11-2	1138-1144	sollte	_	
+11-3	1145-1148	das	_	
+11-4	1149-1154	Tempo	_	
+11-5	1155-1158	der	_	
+11-6	1159-1164	Autos	_	
+11-7	1165-1168	auf	_	
+11-8	1169-1171	30	_	
+11-9	1172-1181	limitiert	_	
+11-10	1182-1188	werden	_	
+11-11	1188-1189	.	_	
+
+#Text=Langfristig ist es wünschenswert, dass Radfahrer auf der Straße fahren.
+12-1	1190-1201	Langfristig	_	
+12-2	1202-1205	ist	_	
+12-3	1206-1208	es	_	
+12-4	1209-1222	wünschenswert	_	
+12-5	1222-1223	,	_	
+12-6	1224-1228	dass	_	
+12-7	1229-1238	Radfahrer	_	
+12-8	1239-1242	auf	_	
+12-9	1243-1246	der	_	
+12-10	1247-1253	Straße	_	
+12-11	1254-1260	fahren	_	
+12-12	1260-1261	.	_	
+
+#Text=Dafür ist der Parkstreifen auf der rechten Seite aber gefährlich.
+13-1	1262-1267	Dafür	_	
+13-2	1268-1271	ist	_	
+13-3	1272-1275	der	_	
+13-4	1276-1288	Parkstreifen	_	
+13-5	1289-1292	auf	_	
+13-6	1293-1296	der	_	
+13-7	1297-1304	rechten	_	
+13-8	1305-1310	Seite	_	
+13-9	1311-1315	aber	_	
+13-10	1316-1326	gefährlich	_	
+13-11	1326-1327	.	_	
+
+#Text=Diese sollten entfernt werden, falls für die Einzeichnung einer sogenannten Dooring-Zone nicht genug Platz ist.
+14-1	1328-1333	Diese	_	
+14-2	1334-1341	sollten	_	
+14-3	1342-1350	entfernt	_	
+14-4	1351-1357	werden	_	
+14-5	1357-1358	,	_	
+14-6	1359-1364	falls	_	
+14-7	1365-1368	für	_	
+14-8	1369-1372	die	_	
+14-9	1373-1385	Einzeichnung	_	
+14-10	1386-1391	einer	_	
+14-11	1392-1403	sogenannten	_	
+14-12	1404-1416	Dooring-Zone	_	
+14-13	1417-1422	nicht	_	
+14-14	1423-1428	genug	_	
+14-15	1429-1434	Platz	_	
+14-16	1435-1438	ist	_	
+14-17	1438-1439	.	_	

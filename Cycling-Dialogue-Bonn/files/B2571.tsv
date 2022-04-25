@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Umwandlung von ca. 4 Autoparkplätzen in kameraüberwachte Fahrradabstellplätze
+1-1	0-10	Umwandlung	_	
+1-2	11-14	von	_	
+1-3	15-17	ca	_	
+1-4	17-18	.	_	
+1-5	19-20	4	_	
+1-6	21-36	Autoparkplätzen	_	
+1-7	37-39	in	_	
+1-8	40-56	kameraüberwachte	_	
+1-9	57-77	Fahrradabstellplätze	_	
+
+#Text=Am Hauptbahnhof fehlten immer schon Fahrradabstellplätze.
+2-1	80-82	Am	_	
+2-2	83-95	Hauptbahnhof	_	
+2-3	96-103	fehlten	_	
+2-4	104-109	immer	_	
+2-5	110-115	schon	_	
+2-6	116-136	Fahrradabstellplätze	_	
+2-7	136-137	.	_	
+
+#Text=Die Situation hat sich seit dem Abriß und Umbaumaßnahmen jedoch extrem verschlechtert.
+3-1	138-141	Die	_	
+3-2	142-151	Situation	_	
+3-3	152-155	hat	_	
+3-4	156-160	sich	_	
+3-5	161-165	seit	_	
+3-6	166-169	dem	_	
+3-7	170-175	Abriß	_	
+3-8	176-179	und	_	
+3-9	180-194	Umbaumaßnahmen	_	
+3-10	195-201	jedoch	_	
+3-11	202-208	extrem	_	
+3-12	209-223	verschlechtert	_	
+3-13	223-224	.	_	
+
+#Text=Die einfachste und schnellste Möglichkeit wäre die Schaffung von Fahrradabstellplätzen auf einigen bisherigen Autoparkplätzen auf dem großen Parkplatz gegenüber des Bahnhofs.
+4-1	225-228	Die	_	
+4-2	229-239	einfachste	_	
+4-3	240-243	und	_	
+4-4	244-254	schnellste	_	
+4-5	255-266	Möglichkeit	_	
+4-6	267-271	wäre	_	
+4-7	272-275	die	_	
+4-8	276-285	Schaffung	_	
+4-9	286-289	von	_	
+4-10	290-311	Fahrradabstellplätzen	_	
+4-11	312-315	auf	_	
+4-12	316-323	einigen	_	
+4-13	324-334	bisherigen	_	
+4-14	335-350	Autoparkplätzen	_	
+4-15	351-354	auf	_	
+4-16	355-358	dem	_	
+4-17	359-365	großen	_	
+4-18	366-375	Parkplatz	_	
+4-19	376-385	gegenüber	_	
+4-20	386-389	des	_	
+4-21	390-398	Bahnhofs	_	
+4-22	398-399	.	_	

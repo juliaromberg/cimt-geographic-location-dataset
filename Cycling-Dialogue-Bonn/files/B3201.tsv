@@ -1,0 +1,58 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=unmögliche Ampelschaltung für Radfahrer und Fußgänger
+1-1	0-10	unmögliche	_	
+1-2	11-25	Ampelschaltung	_	
+1-3	26-29	für	_	
+1-4	30-39	Radfahrer	_	
+1-5	40-43	und	_	
+1-6	44-53	Fußgänger	_	
+
+#Text=Will man mit dem Rad oder zu Fuß die Ollenhauerstraße am Bahnübergang überqueren, so muss man 2-3 Ampelschaltungen bei Rot warten, während die Autos mehrmals hintereinander grün haben.
+2-1	56-60	Will	_	
+2-2	61-64	man	_	
+2-3	65-68	mit	_	
+2-4	69-72	dem	_	
+2-5	73-76	Rad	_	
+2-6	77-81	oder	_	
+2-7	82-84	zu	_	
+2-8	85-88	Fuß	_	
+2-9	89-92	die	*[4]	
+2-10	93-109	Ollenhauerstraße	*[4]	
+2-11	110-112	am	*[4]	
+2-12	113-125	Bahnübergang	*[4]	
+2-13	126-136	überqueren	*[4]	
+2-14	136-137	,	_	
+2-15	138-140	so	_	
+2-16	141-145	muss	_	
+2-17	146-149	man	_	
+2-18	150-151	2	_	
+2-19	151-152	-	_	
+2-20	152-153	3	_	
+2-21	154-170	Ampelschaltungen	_	
+2-22	171-174	bei	_	
+2-23	175-178	Rot	_	
+2-24	179-185	warten	_	
+2-25	185-186	,	_	
+2-26	187-194	während	_	
+2-27	195-198	die	_	
+2-28	199-204	Autos	_	
+2-29	205-213	mehrmals	_	
+2-30	214-228	hintereinander	_	
+2-31	229-233	grün	_	
+2-32	234-239	haben	_	
+2-33	239-240	.	_	
+
+#Text=Vorschlag: abwechselnd grün für Radfahrer und Autofahrer
+3-1	241-250	Vorschlag	_	
+3-2	250-251	:	_	
+3-3	252-263	abwechselnd	_	
+3-4	264-268	grün	_	
+3-5	269-272	für	_	
+3-6	273-282	Radfahrer	_	
+3-7	283-286	und	_	
+3-8	287-297	Autofahrer	_	

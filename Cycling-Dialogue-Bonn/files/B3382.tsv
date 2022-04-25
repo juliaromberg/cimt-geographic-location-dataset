@@ -1,0 +1,142 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radlereinfahrt bei Einbahnstraßen markieren
+1-1	0-14	Radlereinfahrt	_	
+1-2	15-18	bei	_	
+1-3	19-33	Einbahnstraßen	_	
+1-4	34-43	markieren	_	
+
+#Text=Dieser Vorschlag bezieht sich auf alle Einbahnstraßen die für Radverkehr in Gegenrichtung frei gegeben sind.
+2-1	46-52	Dieser	_	
+2-2	53-62	Vorschlag	_	
+2-3	63-70	bezieht	_	
+2-4	71-75	sich	_	
+2-5	76-79	auf	_	
+2-6	80-84	alle	_	
+2-7	85-99	Einbahnstraßen	_	
+2-8	100-103	die	_	
+2-9	104-107	für	_	
+2-10	108-118	Radverkehr	_	
+2-11	119-121	in	_	
+2-12	122-135	Gegenrichtung	_	
+2-13	136-140	frei	_	
+2-14	141-148	gegeben	_	
+2-15	149-153	sind	_	
+2-16	153-154	.	_	
+
+#Text=Das sind erfreulicherweise sehr viele in Bonn - vorbildlich!!!
+3-1	155-158	Das	_	
+3-2	159-163	sind	_	
+3-3	164-181	erfreulicherweise	_	
+3-4	182-186	sehr	_	
+3-5	187-192	viele	_	
+3-6	193-195	in	_	
+3-7	196-200	Bonn	*	
+3-8	201-202	-	_	
+3-9	203-214	vorbildlich	_	
+3-10	214-215	!	_	
+3-11	215-216	!	_	
+3-12	216-217	!	_	
+
+#Text=Der Einfahrtsbereich für die Radfahrer müsste markiert werden.
+4-1	218-221	Der	_	
+4-2	222-238	Einfahrtsbereich	_	
+4-3	239-242	für	_	
+4-4	243-246	die	_	
+4-5	247-256	Radfahrer	_	
+4-6	257-263	müsste	_	
+4-7	264-272	markiert	_	
+4-8	273-279	werden	_	
+4-9	279-280	.	_	
+
+#Text=Linksabbiegend ausfahrende Autofahrer ordnen sich verständlicherweise nach links ein, was zu Gefährdung der einbiegenden Radfahrer kommen kann.
+5-1	281-295	Linksabbiegend	_	
+5-2	296-307	ausfahrende	_	
+5-3	308-318	Autofahrer	_	
+5-4	319-325	ordnen	_	
+5-5	326-330	sich	_	
+5-6	331-350	verständlicherweise	_	
+5-7	351-355	nach	_	
+5-8	356-361	links	_	
+5-9	362-365	ein	_	
+5-10	365-366	,	_	
+5-11	367-370	was	_	
+5-12	371-373	zu	_	
+5-13	374-384	Gefährdung	_	
+5-14	385-388	der	_	
+5-15	389-401	einbiegenden	_	
+5-16	402-411	Radfahrer	_	
+5-17	412-418	kommen	_	
+5-18	419-423	kann	_	
+5-19	423-424	.	_	
+
+#Text=Die zu Beginn der Einbahnstraßen angebrachten Zusatzschilder, die auf entgegenkommende Radfahrer können a) übersehen werden (sehr klein) und b) bei der Ausfahrt wieder vergessen worden sein.
+6-1	425-428	Die	_	
+6-2	429-431	zu	_	
+6-3	432-438	Beginn	_	
+6-4	439-442	der	_	
+6-5	443-457	Einbahnstraßen	_	
+6-6	458-470	angebrachten	_	
+6-7	471-485	Zusatzschilder	_	
+6-8	485-486	,	_	
+6-9	487-490	die	_	
+6-10	491-494	auf	_	
+6-11	495-511	entgegenkommende	_	
+6-12	512-521	Radfahrer	_	
+6-13	522-528	können	_	
+6-14	529-530	a	_	
+6-15	530-531	)	_	
+6-16	532-541	übersehen	_	
+6-17	542-548	werden	_	
+6-18	549-550	(	_	
+6-19	550-554	sehr	_	
+6-20	555-560	klein	_	
+6-21	560-561	)	_	
+6-22	562-565	und	_	
+6-23	566-567	b	_	
+6-24	567-568	)	_	
+6-25	569-572	bei	_	
+6-26	573-576	der	_	
+6-27	577-585	Ausfahrt	_	
+6-28	586-592	wieder	_	
+6-29	593-602	vergessen	_	
+6-30	603-609	worden	_	
+6-31	610-614	sein	_	
+6-32	614-615	.	_	
+
+#Text=Positivbeispiele: Markeirung an Kreuzung Schubertstr./Wiesenweg/Endenicher Allee oder an Kreisverkehr Fohngasse/Magdalenenstr.
+7-1	616-632	Positivbeispiele	_	
+7-2	632-633	:	_	
+7-3	634-644	Markeirung	_	
+7-4	645-647	an	_	
+7-5	648-656	Kreuzung	*[9]	
+7-6	657-668	Schubertstr	*[9]	
+7-7	668-669	.	*[9]	
+7-8	669-670	/	*[9]	
+7-9	670-679	Wiesenweg	*[9]	
+7-10	679-680	/	*[9]	
+7-11	680-690	Endenicher	*[9]	
+7-12	691-696	Allee	*[9]	
+7-13	697-701	oder	_	
+7-14	702-704	an	_	
+7-15	705-717	Kreisverkehr	*[10]	
+7-16	718-727	Fohngasse	*[10]	
+7-17	727-728	/	*[10]	
+7-18	728-741	Magdalenenstr	*[10]	
+7-19	741-742	.	_	
+
+#Text=Solche Markierungen müssten in allen vergleichbaren Fällen aufgebracht werden.
+8-1	743-749	Solche	_	
+8-2	750-762	Markierungen	_	
+8-3	763-770	müssten	_	
+8-4	771-773	in	_	
+8-5	774-779	allen	_	
+8-6	780-794	vergleichbaren	_	
+8-7	795-801	Fällen	_	
+8-8	802-813	aufgebracht	_	
+8-9	814-820	werden	_	
+8-10	820-821	.	_	

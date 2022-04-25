@@ -1,0 +1,29 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rückbau des engen und gefährlichen Radwegs auf dem Bürgersteig über die Baumscheibenabdeckungen.
+1-1	0-7	Rückbau	_	
+1-2	8-11	des	_	
+1-3	12-17	engen	_	
+1-4	18-21	und	_	
+1-5	22-34	gefährlichen	_	
+1-6	35-42	Radwegs	_	
+1-7	43-46	auf	_	
+1-8	47-50	dem	_	
+1-9	51-62	Bürgersteig	_	
+1-10	63-67	über	_	
+1-11	68-71	die	_	
+1-12	72-95	Baumscheibenabdeckungen	_	
+1-13	95-96	.	_	
+
+#Text=Ummarkierung der jeweils rechten Autospur zum Fahrradstreifen
+2-1	97-109	Ummarkierung	_	
+2-2	110-113	der	_	
+2-3	114-121	jeweils	_	
+2-4	122-129	rechten	_	
+2-5	130-138	Autospur	_	
+2-6	139-142	zum	_	
+2-7	143-158	Fahrradstreifen	_	

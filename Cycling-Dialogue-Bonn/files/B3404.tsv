@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Poller sehr eng gesetzt für Kinderfahrradanhänger
+1-1	0-6	Poller	_	
+1-2	7-11	sehr	_	
+1-3	12-15	eng	_	
+1-4	16-23	gesetzt	_	
+1-5	24-27	für	_	
+1-6	28-49	Kinderfahrradanhänger	_	
+
+#Text=An dieser Stelle führt ein Radweg auf die Straße an der Rheindorfer Burg.
+2-1	52-54	An	_	
+2-2	55-61	dieser	_	
+2-3	62-68	Stelle	_	
+2-4	69-74	führt	_	
+2-5	75-78	ein	_	
+2-6	79-85	Radweg	*[6]	
+2-7	86-89	auf	*[6]	
+2-8	90-93	die	*[6]	
+2-9	94-100	Straße	*[6]	
+2-10	101-103	an	*[6]	
+2-11	104-107	der	*[6]	
+2-12	108-119	Rheindorfer	*[6]	
+2-13	120-124	Burg	*[6]	
+2-14	124-125	.	_	
+
+#Text=Die Poller sind sehr eng gesetzt für die Durchfahrt mit einem Kinderfahrradanhänger.
+3-1	126-129	Die	_	
+3-2	130-136	Poller	_	
+3-3	137-141	sind	_	
+3-4	142-146	sehr	_	
+3-5	147-150	eng	_	
+3-6	151-158	gesetzt	_	
+3-7	159-162	für	_	
+3-8	163-166	die	_	
+3-9	167-177	Durchfahrt	_	
+3-10	178-181	mit	_	
+3-11	182-187	einem	_	
+3-12	188-209	Kinderfahrradanhänger	_	
+3-13	209-210	.	_	
+
+#Text=Von oben kommend muss man erst einmal geradeaus halb auf die Straße fahren und kann dann erst lenken.
+4-1	211-214	Von	_	
+4-2	215-219	oben	_	
+4-3	220-227	kommend	_	
+4-4	228-232	muss	_	
+4-5	233-236	man	_	
+4-6	237-241	erst	_	
+4-7	242-248	einmal	_	
+4-8	249-258	geradeaus	_	
+4-9	259-263	halb	_	
+4-10	264-267	auf	_	
+4-11	268-271	die	_	
+4-12	272-278	Straße	_	
+4-13	279-285	fahren	_	
+4-14	286-289	und	_	
+4-15	290-294	kann	_	
+4-16	295-299	dann	_	
+4-17	300-304	erst	_	
+4-18	305-311	lenken	_	
+4-19	311-312	.	_	
+
+#Text=Zusätzlich ist die Straße nach links auch nicht einsehbar.
+5-1	313-323	Zusätzlich	_	
+5-2	324-327	ist	_	
+5-3	328-331	die	_	
+5-4	332-338	Straße	_	
+5-5	339-343	nach	_	
+5-6	344-349	links	_	
+5-7	350-354	auch	_	
+5-8	355-360	nicht	_	
+5-9	361-370	einsehbar	_	
+5-10	370-371	.	_	

@@ -1,0 +1,159 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Chaotische Radwegführung
+1-1	0-10	Chaotische	_	
+1-2	11-24	Radwegführung	_	
+
+#Text=Die Radwegführung und -beschilderung an der Königswintererstr. (Beuel Ost, Limperich, Küdingshoven, Ramersdorf) ist in beiden Richtungen chaotisch.
+2-1	27-30	Die	_	
+2-2	31-44	Radwegführung	_	
+2-3	45-48	und	_	
+2-4	49-50	-	_	
+2-5	50-63	beschilderung	_	
+2-6	64-66	an	*[10]	
+2-7	67-70	der	*[10]	
+2-8	71-88	Königswintererstr	*[10]	
+2-9	88-89	.	*[10]	
+2-10	90-91	(	*[10]	
+2-11	91-96	Beuel	*[10]	
+2-12	97-100	Ost	*[10]	
+2-13	100-101	,	*[10]	
+2-14	102-111	Limperich	*[10]	
+2-15	111-112	,	*[10]	
+2-16	113-125	Küdingshoven	*[10]	
+2-17	125-126	,	*[10]	
+2-18	127-137	Ramersdorf	*[10]	
+2-19	137-138	)	*[10]	
+2-20	139-142	ist	_	
+2-21	143-145	in	_	
+2-22	146-152	beiden	_	
+2-23	153-163	Richtungen	_	
+2-24	164-173	chaotisch	_	
+2-25	173-174	.	_	
+
+#Text=Teilweise benutzungspflichtig, teilweise Fußweg mit Fahrradfreigabe, teilweise Schutzstreifen, oft an den Einmündungen kein Schild, also nicht mehr benutzungspflichtig.
+3-1	175-184	Teilweise	_	
+3-2	185-204	benutzungspflichtig	_	
+3-3	204-205	,	_	
+3-4	206-215	teilweise	_	
+3-5	216-222	Fußweg	_	
+3-6	223-226	mit	_	
+3-7	227-242	Fahrradfreigabe	_	
+3-8	242-243	,	_	
+3-9	244-253	teilweise	_	
+3-10	254-268	Schutzstreifen	_	
+3-11	268-269	,	_	
+3-12	270-273	oft	_	
+3-13	274-276	an	_	
+3-14	277-280	den	_	
+3-15	281-293	Einmündungen	_	
+3-16	294-298	kein	_	
+3-17	299-305	Schild	_	
+3-18	305-306	,	_	
+3-19	307-311	also	_	
+3-20	312-317	nicht	_	
+3-21	318-322	mehr	_	
+3-22	323-342	benutzungspflichtig	_	
+3-23	342-343	.	_	
+
+#Text=Dazu Piktogramme auf der Fahrbahn ohne rechtliche Bedeutung (was aber viele nicht wissen).
+4-1	344-348	Dazu	_	
+4-2	349-360	Piktogramme	_	
+4-3	361-364	auf	_	
+4-4	365-368	der	_	
+4-5	369-377	Fahrbahn	_	
+4-6	378-382	ohne	_	
+4-7	383-393	rechtliche	_	
+4-8	394-403	Bedeutung	_	
+4-9	404-405	(	_	
+4-10	405-408	was	_	
+4-11	409-413	aber	_	
+4-12	414-419	viele	_	
+4-13	420-425	nicht	_	
+4-14	426-432	wissen	_	
+4-15	432-433	)	_	
+4-16	433-434	.	_	
+
+#Text=Nach meiner Erinnerung hat sich das in den letzten Jahren immer mal wieder geändert.
+5-1	435-439	Nach	_	
+5-2	440-446	meiner	_	
+5-3	447-457	Erinnerung	_	
+5-4	458-461	hat	_	
+5-5	462-466	sich	_	
+5-6	467-470	das	_	
+5-7	471-473	in	_	
+5-8	474-477	den	_	
+5-9	478-485	letzten	_	
+5-10	486-492	Jahren	_	
+5-11	493-498	immer	_	
+5-12	499-502	mal	_	
+5-13	503-509	wieder	_	
+5-14	510-518	geändert	_	
+5-15	518-519	.	_	
+
+#Text=Die Radwege sind teilweise zugeparkt.
+6-1	520-523	Die	_	
+6-2	524-531	Radwege	_	
+6-3	532-536	sind	_	
+6-4	537-546	teilweise	_	
+6-5	547-556	zugeparkt	_	
+6-6	556-557	.	_	
+
+#Text=Generell sind die Radwege veraltet, zu schmal und ohne eine Neugestaltung der Straße an den wenigsten Stellen wirklich sinnvoll benutzbar.
+7-1	558-566	Generell	_	
+7-2	567-571	sind	_	
+7-3	572-575	die	_	
+7-4	576-583	Radwege	_	
+7-5	584-592	veraltet	_	
+7-6	592-593	,	_	
+7-7	594-596	zu	_	
+7-8	597-603	schmal	_	
+7-9	604-607	und	_	
+7-10	608-612	ohne	_	
+7-11	613-617	eine	_	
+7-12	618-631	Neugestaltung	_	
+7-13	632-635	der	_	
+7-14	636-642	Straße	_	
+7-15	643-645	an	_	
+7-16	646-649	den	_	
+7-17	650-659	wenigsten	_	
+7-18	660-667	Stellen	_	
+7-19	668-676	wirklich	_	
+7-20	677-685	sinnvoll	_	
+7-21	686-695	benutzbar	_	
+7-22	695-696	.	_	
+
+#Text=Insofern sollte bis zu einem Umbau des Straßenquerschnitts die Benutzungspflicht durchgängig aufgehoben und möglichst Schutzstreifen markiert werden.
+8-1	697-705	Insofern	_	
+8-2	706-712	sollte	_	
+8-3	713-716	bis	_	
+8-4	717-719	zu	_	
+8-5	720-725	einem	_	
+8-6	726-731	Umbau	_	
+8-7	732-735	des	_	
+8-8	736-755	Straßenquerschnitts	_	
+8-9	756-759	die	_	
+8-10	760-777	Benutzungspflicht	_	
+8-11	778-789	durchgängig	_	
+8-12	790-800	aufgehoben	_	
+8-13	801-804	und	_	
+8-14	805-814	möglichst	_	
+8-15	815-829	Schutzstreifen	_	
+8-16	830-838	markiert	_	
+8-17	839-845	werden	_	
+8-18	845-846	.	_	
+
+#Text=Bei einer Ziellösung sollte auf Bordsteinradwege verzichtet werden.
+9-1	847-850	Bei	_	
+9-2	851-856	einer	_	
+9-3	857-867	Ziellösung	_	
+9-4	868-874	sollte	_	
+9-5	875-878	auf	_	
+9-6	879-895	Bordsteinradwege	_	
+9-7	896-906	verzichtet	_	
+9-8	907-913	werden	_	
+9-9	913-914	.	_	

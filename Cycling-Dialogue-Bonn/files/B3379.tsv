@@ -1,0 +1,205 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Provinzialstraße - Schutzstreifen weiter führen
+1-1	0-16	Provinzialstraße	*	
+1-2	17-18	-	_	
+1-3	19-33	Schutzstreifen	_	
+1-4	34-40	weiter	_	
+1-5	41-47	führen	_	
+
+#Text=Aus Richtung Ückesdorf kommend beginnt an Einmündung Adenauer Damm auf der Provinzialstraße ein Schutzstreifen, der Radverkehr wird dann vor der Kreuzung Villemombler Str. aus dem Sichtbereich der Autofahrer auf den Bürgersteig geführt und (bei Grünpfeil für Rechtsabbieger) ebenfalls außerhalb des Sichtbereichs der Autofahrer über die Straße (Gefahrenstelle!) und führt dann weiter als Kombi Fuß/Radweg bis Abzweig Frechengasse.
+2-1	50-53	Aus	*[9]	
+2-2	54-62	Richtung	*[9]	
+2-3	63-72	Ückesdorf	*[9]	
+2-4	73-80	kommend	*[9]	
+2-5	81-88	beginnt	_	
+2-6	89-91	an	_	
+2-7	92-102	Einmündung	*[10]	
+2-8	103-111	Adenauer	*[10]	
+2-9	112-116	Damm	*[10]	
+2-10	117-120	auf	*[10]	
+2-11	121-124	der	*[10]	
+2-12	125-141	Provinzialstraße	*[10]	
+2-13	142-145	ein	_	
+2-14	146-160	Schutzstreifen	_	
+2-15	160-161	,	_	
+2-16	162-165	der	_	
+2-17	166-176	Radverkehr	_	
+2-18	177-181	wird	_	
+2-19	182-186	dann	_	
+2-20	187-190	vor	*[11]	
+2-21	191-194	der	*[11]	
+2-22	195-203	Kreuzung	*[11]	
+2-23	204-216	Villemombler	*[11]	
+2-24	217-220	Str	*[11]	
+2-25	220-221	.	*[11]	
+2-26	222-225	aus	_	
+2-27	226-229	dem	_	
+2-28	230-242	Sichtbereich	_	
+2-29	243-246	der	_	
+2-30	247-257	Autofahrer	_	
+2-31	258-261	auf	_	
+2-32	262-265	den	_	
+2-33	266-277	Bürgersteig	_	
+2-34	278-285	geführt	_	
+2-35	286-289	und	_	
+2-36	290-291	(	_	
+2-37	291-294	bei	_	
+2-38	295-304	Grünpfeil	_	
+2-39	305-308	für	_	
+2-40	309-323	Rechtsabbieger	_	
+2-41	323-324	)	_	
+2-42	325-334	ebenfalls	_	
+2-43	335-344	außerhalb	_	
+2-44	345-348	des	_	
+2-45	349-362	Sichtbereichs	_	
+2-46	363-366	der	_	
+2-47	367-377	Autofahrer	_	
+2-48	378-382	über	_	
+2-49	383-386	die	_	
+2-50	387-393	Straße	_	
+2-51	394-395	(	_	
+2-52	395-409	Gefahrenstelle	_	
+2-53	409-410	!	_	
+2-54	410-411	)	_	
+2-55	412-415	und	_	
+2-56	416-421	führt	_	
+2-57	422-426	dann	_	
+2-58	427-433	weiter	_	
+2-59	434-437	als	_	
+2-60	438-443	Kombi	_	
+2-61	444-447	Fuß	_	
+2-62	447-448	/	_	
+2-63	448-454	Radweg	_	
+2-64	455-458	bis	*[12]	
+2-65	459-466	Abzweig	*[12]	
+2-66	467-479	Frechengasse	*[12]	
+2-67	479-480	.	_	
+
+#Text=Ebenfalls eine gefährliche und konfliktträchtige Strecke (Tankstelleneinfahrt/Fußgänger/Mülltonnen/Rechtsabbieger zur Frechengasse).
+3-1	481-490	Ebenfalls	_	
+3-2	491-495	eine	_	
+3-3	496-507	gefährliche	_	
+3-4	508-511	und	_	
+3-5	512-529	konfliktträchtige	_	
+3-6	530-537	Strecke	_	
+3-7	538-539	(	_	
+3-8	539-558	Tankstelleneinfahrt	_	
+3-9	558-559	/	_	
+3-10	559-568	Fußgänger	_	
+3-11	568-569	/	_	
+3-12	569-579	Mülltonnen	_	
+3-13	579-580	/	_	
+3-14	580-594	Rechtsabbieger	*[13]	
+3-15	595-598	zur	*[13]	
+3-16	599-611	Frechengasse	*[13]	
+3-17	611-612	)	_	
+3-18	612-613	.	_	
+
+#Text=Bergauf bestehen diese Probleme nicht, mehr Platz, Radverkehr langsamer.
+4-1	614-621	Bergauf	_	
+4-2	622-630	bestehen	_	
+4-3	631-636	diese	_	
+4-4	637-645	Probleme	_	
+4-5	646-651	nicht	_	
+4-6	651-652	,	_	
+4-7	653-657	mehr	_	
+4-8	658-663	Platz	_	
+4-9	663-664	,	_	
+4-10	665-675	Radverkehr	_	
+4-11	676-685	langsamer	_	
+4-12	685-686	.	_	
+
+#Text=Vorschläge: Schutzsstreifen über Kreuzung Villemombler Str. verlängern, falls erforderlich, separate Linksabbiegerspur zurück bauen.
+5-1	687-697	Vorschläge	_	
+5-2	697-698	:	_	
+5-3	699-714	Schutzsstreifen	_	
+5-4	715-719	über	_	
+5-5	720-728	Kreuzung	*[14]	
+5-6	729-741	Villemombler	*[14]	
+5-7	742-745	Str	*[14]	
+5-8	745-746	.	_	
+5-9	747-757	verlängern	_	
+5-10	757-758	,	_	
+5-11	759-764	falls	_	
+5-12	765-777	erforderlich	_	
+5-13	777-778	,	_	
+5-14	779-787	separate	_	
+5-15	788-805	Linksabbiegerspur	_	
+5-16	806-812	zurück	_	
+5-17	813-818	bauen	_	
+5-18	818-819	.	_	
+
+#Text=Benutzungspflicht des abseitigen Radweges aufheben (stattdessen Fußweg, Radfahrer frei) und Schutzstreifen bis Abzweig Frechengasse verlängern.
+6-1	820-837	Benutzungspflicht	_	
+6-2	838-841	des	_	
+6-3	842-852	abseitigen	_	
+6-4	853-861	Radweges	_	
+6-5	862-870	aufheben	_	
+6-6	871-872	(	_	
+6-7	872-883	stattdessen	_	
+6-8	884-890	Fußweg	_	
+6-9	890-891	,	_	
+6-10	892-901	Radfahrer	_	
+6-11	902-906	frei	_	
+6-12	906-907	)	_	
+6-13	908-911	und	_	
+6-14	912-926	Schutzstreifen	_	
+6-15	927-930	bis	*[15]	
+6-16	931-938	Abzweig	*[15]	
+6-17	939-951	Frechengasse	*[15]	
+6-18	952-962	verlängern	_	
+6-19	962-963	.	_	
+
+#Text=Vorher an Ecke Hubert-Maurer Str (Tankstelle) eine legale Abbiegemöglichkeit in diese Straße schaffen.
+7-1	964-970	Vorher	_	
+7-2	971-973	an	*[16]	
+7-3	974-978	Ecke	*[16]	
+7-4	979-992	Hubert-Maurer	*[16]	
+7-5	993-996	Str	*[16]	
+7-6	997-998	(	_	
+7-7	998-1008	Tankstelle	_	
+7-8	1008-1009	)	_	
+7-9	1010-1014	eine	_	
+7-10	1015-1021	legale	_	
+7-11	1022-1040	Abbiegemöglichkeit	_	
+7-12	1041-1043	in	_	
+7-13	1044-1049	diese	_	
+7-14	1050-1056	Straße	_	
+7-15	1057-1065	schaffen	_	
+7-16	1065-1066	.	_	
+
+#Text=Momentan ist dort alles zugeparkt (teilweise Abstell-/Schrottplatz), sodass Radfahrer zwangsläufig über den Bürgersteig abbiegen - unübersichtliche Ecke mit Gefahren-/Konfliktpotenzial.
+8-1	1067-1075	Momentan	_	
+8-2	1076-1079	ist	_	
+8-3	1080-1084	dort	_	
+8-4	1085-1090	alles	_	
+8-5	1091-1100	zugeparkt	_	
+8-6	1101-1102	(	_	
+8-7	1102-1111	teilweise	_	
+8-8	1112-1119	Abstell	_	
+8-9	1119-1120	-	_	
+8-10	1120-1121	/	_	
+8-11	1121-1133	Schrottplatz	_	
+8-12	1133-1134	)	_	
+8-13	1134-1135	,	_	
+8-14	1136-1142	sodass	_	
+8-15	1143-1152	Radfahrer	_	
+8-16	1153-1165	zwangsläufig	_	
+8-17	1166-1170	über	_	
+8-18	1171-1174	den	_	
+8-19	1175-1186	Bürgersteig	_	
+8-20	1187-1195	abbiegen	_	
+8-21	1196-1197	-	_	
+8-22	1198-1214	unübersichtliche	_	
+8-23	1215-1219	Ecke	_	
+8-24	1220-1223	mit	_	
+8-25	1224-1232	Gefahren	_	
+8-26	1232-1233	-	_	
+8-27	1233-1234	/	_	
+8-28	1234-1251	Konfliktpotenzial	_	
+8-29	1251-1252	.	_	

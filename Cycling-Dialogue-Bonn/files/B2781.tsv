@@ -1,0 +1,157 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Umleitung Schultheißstraße während Bauarbeiten S13
+1-1	0-9	Umleitung	_	
+1-2	10-26	Schultheißstraße	*	
+1-3	27-34	während	_	
+1-4	35-46	Bauarbeiten	_	
+1-5	47-50	S13	_	
+
+#Text=Im Zuge der Baumaßnahmen für die S13 soll die Bahnbrücke in der Schultheißstraße ersetzt werden.
+2-1	53-55	Im	_	
+2-2	56-60	Zuge	_	
+2-3	61-64	der	_	
+2-4	65-77	Baumaßnahmen	_	
+2-5	78-81	für	_	
+2-6	82-85	die	_	
+2-7	86-89	S13	_	
+2-8	90-94	soll	_	
+2-9	95-98	die	*[9]	
+2-10	99-109	Bahnbrücke	*[9]	
+2-11	110-112	in	*[9]	
+2-12	113-116	der	*[9]	
+2-13	117-133	Schultheißstraße	*[9]	
+2-14	134-141	ersetzt	_	
+2-15	142-148	werden	_	
+2-16	148-149	.	_	
+
+#Text=Da sich hier um eine wichtige Fahrradverbindung zwischen Villich und Hangelar handelt, stellt sich mir die Frage, wie der Radverkehr während der Bauzeit geführt werden soll: Die B56 ist für Radfahrer gesperrt.
+3-1	150-152	Da	_	
+3-2	153-157	sich	_	
+3-3	158-162	hier	_	
+3-4	163-165	um	_	
+3-5	166-170	eine	_	
+3-6	171-179	wichtige	_	
+3-7	180-197	Fahrradverbindung	_	
+3-8	198-206	zwischen	*[10]	
+3-9	207-214	Villich	*[10]	
+3-10	215-218	und	*[10]	
+3-11	219-227	Hangelar	*[10]	
+3-12	228-235	handelt	_	
+3-13	235-236	,	_	
+3-14	237-243	stellt	_	
+3-15	244-248	sich	_	
+3-16	249-252	mir	_	
+3-17	253-256	die	_	
+3-18	257-262	Frage	_	
+3-19	262-263	,	_	
+3-20	264-267	wie	_	
+3-21	268-271	der	_	
+3-22	272-282	Radverkehr	_	
+3-23	283-290	während	_	
+3-24	291-294	der	_	
+3-25	295-302	Bauzeit	_	
+3-26	303-310	geführt	_	
+3-27	311-317	werden	_	
+3-28	318-322	soll	_	
+3-29	322-323	:	_	
+3-30	324-327	Die	*[11]	
+3-31	328-331	B56	*[11]	
+3-32	332-335	ist	_	
+3-33	336-339	für	_	
+3-34	340-349	Radfahrer	_	
+3-35	350-358	gesperrt	_	
+3-36	358-359	.	_	
+
+#Text=Der Weg in der Verlängerung der Straße Am Burgpark ist ein dunkler unbefestigter Waldweg.
+4-1	360-363	Der	_	
+4-2	364-367	Weg	_	
+4-3	368-370	in	_	
+4-4	371-374	der	_	
+4-5	375-387	Verlängerung	_	
+4-6	388-391	der	_	
+4-7	392-398	Straße	*[12]	
+4-8	399-401	Am	*[12]	
+4-9	402-410	Burgpark	*[12]	
+4-10	411-414	ist	_	
+4-11	415-418	ein	_	
+4-12	419-426	dunkler	_	
+4-13	427-440	unbefestigter	_	
+4-14	441-448	Waldweg	_	
+4-15	448-449	.	_	
+
+#Text=Die nächste ordentliche Querung ist der Tunnel bei Geislar.
+5-1	450-453	Die	_	
+5-2	454-461	nächste	_	
+5-3	462-473	ordentliche	_	
+5-4	474-481	Querung	_	
+5-5	482-485	ist	_	
+5-6	486-489	der	*[13]	
+5-7	490-496	Tunnel	*[13]	
+5-8	497-500	bei	*[13]	
+5-9	501-508	Geislar	*[13]	
+5-10	508-509	.	_	
+
+#Text=Dies erfordert aber einen Umweg von etwa 1,5 km und einem steilem Anstieg.
+6-1	510-514	Dies	_	
+6-2	515-524	erfordert	_	
+6-3	525-529	aber	_	
+6-4	530-535	einen	_	
+6-5	536-541	Umweg	_	
+6-6	542-545	von	_	
+6-7	546-550	etwa	_	
+6-8	551-554	1,5	_	
+6-9	555-557	km	_	
+6-10	558-561	und	_	
+6-11	562-567	einem	_	
+6-12	568-575	steilem	_	
+6-13	576-583	Anstieg	_	
+6-14	583-584	.	_	
+
+#Text=In südlicher Richtung besteht die Möglichkeit über Gartenstraße und Siegburger Straße zu fahren.
+7-1	585-587	In	_	
+7-2	588-597	südlicher	_	
+7-3	598-606	Richtung	_	
+7-4	607-614	besteht	_	
+7-5	615-618	die	_	
+7-6	619-630	Möglichkeit	_	
+7-7	631-635	über	*[14]	
+7-8	636-648	Gartenstraße	*[14]	
+7-9	649-652	und	*[14]	
+7-10	653-663	Siegburger	*[14]	
+7-11	664-670	Straße	*[14]	
+7-12	671-673	zu	_	
+7-13	674-680	fahren	_	
+7-14	680-681	.	_	
+
+#Text=Dies ist aber ein Umweg von fast 3 km (über die Qualität des Radwegs entlang der Siegburger Straße ist ja bereits geschrieben worden).
+8-1	682-686	Dies	_	
+8-2	687-690	ist	_	
+8-3	691-695	aber	_	
+8-4	696-699	ein	_	
+8-5	700-705	Umweg	_	
+8-6	706-709	von	_	
+8-7	710-714	fast	_	
+8-8	715-716	3	_	
+8-9	717-719	km	_	
+8-10	720-721	(	_	
+8-11	721-725	über	_	
+8-12	726-729	die	_	
+8-13	730-738	Qualität	_	
+8-14	739-742	des	_	
+8-15	743-750	Radwegs	*[15]	
+8-16	751-758	entlang	*[15]	
+8-17	759-762	der	*[15]	
+8-18	763-773	Siegburger	*[15]	
+8-19	774-780	Straße	*[15]	
+8-20	781-784	ist	_	
+8-21	785-787	ja	_	
+8-22	788-795	bereits	_	
+8-23	796-807	geschrieben	_	
+8-24	808-814	worden	_	
+8-25	814-815	)	_	
+8-26	815-816	.	_	

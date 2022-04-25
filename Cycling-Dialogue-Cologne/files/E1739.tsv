@@ -1,0 +1,86 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlagloch, das es dir den Lenker wegreißen kann
+1-1	0-10	Schlagloch	_	
+1-2	10-11	,	_	
+1-3	12-15	das	_	
+1-4	16-18	es	_	
+1-5	19-22	dir	_	
+1-6	23-26	den	_	
+1-7	27-33	Lenker	_	
+1-8	34-43	wegreißen	_	
+1-9	44-48	kann	_	
+
+#Text=Colonia lässt man auf der rechten Seite, wenn man von der Mathias-Brüggen-Straße kommt.
+2-1	51-58	Colonia	_	
+2-2	59-64	lässt	_	
+2-3	65-68	man	_	
+2-4	69-72	auf	_	
+2-5	73-76	der	_	
+2-6	77-84	rechten	_	
+2-7	85-90	Seite	_	
+2-8	90-91	,	_	
+2-9	92-96	wenn	_	
+2-10	97-100	man	_	
+2-11	101-104	von	*[6]	
+2-12	105-108	der	*[6]	
+2-13	109-131	Mathias-Brüggen-Straße	*[6]	
+2-14	132-137	kommt	*[6]	
+2-15	137-138	.	_	
+
+#Text=Hier gibt es einige Schlaglöcher, die man bei Dunkelheit aufgrund der schlechten Beleuchtung, nämlich keiner, nicht sieht.
+3-1	139-143	Hier	_	
+3-2	144-148	gibt	_	
+3-3	149-151	es	_	
+3-4	152-158	einige	_	
+3-5	159-171	Schlaglöcher	_	
+3-6	171-172	,	_	
+3-7	173-176	die	_	
+3-8	177-180	man	_	
+3-9	181-184	bei	_	
+3-10	185-195	Dunkelheit	_	
+3-11	196-204	aufgrund	_	
+3-12	205-208	der	_	
+3-13	209-219	schlechten	_	
+3-14	220-231	Beleuchtung	_	
+3-15	231-232	,	_	
+3-16	233-240	nämlich	_	
+3-17	241-247	keiner	_	
+3-18	247-248	,	_	
+3-19	249-254	nicht	_	
+3-20	255-260	sieht	_	
+3-21	260-261	.	_	
+
+#Text=Manchmal trifft man sie auch im Hellen, wenn ein Fahrzeug von links hinten überholt.
+4-1	262-270	Manchmal	_	
+4-2	271-277	trifft	_	
+4-3	278-281	man	_	
+4-4	282-285	sie	_	
+4-5	286-290	auch	_	
+4-6	291-293	im	_	
+4-7	294-300	Hellen	_	
+4-8	300-301	,	_	
+4-9	302-306	wenn	_	
+4-10	307-310	ein	_	
+4-11	311-319	Fahrzeug	_	
+4-12	320-323	von	_	
+4-13	324-329	links	_	
+4-14	330-336	hinten	_	
+4-15	337-345	überholt	_	
+4-16	345-346	.	_	
+
+#Text=Die Schlaglöcher haben mindestens ihr 10 jähriges hinter sich.
+5-1	347-350	Die	_	
+5-2	351-363	Schlaglöcher	_	
+5-3	364-369	haben	_	
+5-4	370-380	mindestens	_	
+5-5	381-384	ihr	_	
+5-6	385-387	10	_	
+5-7	388-396	jähriges	_	
+5-8	397-403	hinter	_	
+5-9	404-408	sich	_	
+5-10	408-409	.	_	

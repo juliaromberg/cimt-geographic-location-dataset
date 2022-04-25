@@ -1,0 +1,121 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegkennzeichnung sollte verbessert werden
+1-1	0-19	Radwegkennzeichnung	_	
+1-2	20-26	sollte	_	
+1-3	27-37	verbessert	_	
+1-4	38-44	werden	_	
+
+#Text=Der an dieser Stelle (noch vor der Kreuzung) für den stadtauswärts fahrenden Radfahrer beginnende Radweg (von der Butzweilerstraße geradeaus auf die Hugo-Eckener-Straße) sollte eindeutiger (z.B. durch rote Flächenmarkierungen auf der Fahrbahn in diesem Bereich) gekennzeichnet werden.
+2-1	47-50	Der	_	
+2-2	51-53	an	_	
+2-3	54-60	dieser	_	
+2-4	61-67	Stelle	_	
+2-5	68-69	(	_	
+2-6	69-73	noch	_	
+2-7	74-77	vor	_	
+2-8	78-81	der	_	
+2-9	82-90	Kreuzung	_	
+2-10	90-91	)	_	
+2-11	92-95	für	_	
+2-12	96-99	den	_	
+2-13	100-113	stadtauswärts	*	
+2-14	114-123	fahrenden	_	
+2-15	124-133	Radfahrer	_	
+2-16	134-144	beginnende	_	
+2-17	145-151	Radweg	_	
+2-18	152-153	(	_	
+2-19	153-156	von	*[5]	
+2-20	157-160	der	*[5]	
+2-21	161-177	Butzweilerstraße	*[5]	
+2-22	178-187	geradeaus	*[5]	
+2-23	188-191	auf	*[5]	
+2-24	192-195	die	*[5]	
+2-25	196-215	Hugo-Eckener-Straße	*[5]	
+2-26	215-216	)	_	
+2-27	217-223	sollte	_	
+2-28	224-235	eindeutiger	_	
+2-29	236-237	(	_	
+2-30	237-240	z.B	_	
+2-31	240-241	.	_	
+2-32	242-247	durch	_	
+2-33	248-252	rote	_	
+2-34	253-272	Flächenmarkierungen	_	
+2-35	273-276	auf	_	
+2-36	277-280	der	_	
+2-37	281-289	Fahrbahn	_	
+2-38	290-292	in	_	
+2-39	293-299	diesem	_	
+2-40	300-307	Bereich	_	
+2-41	307-308	)	_	
+2-42	309-323	gekennzeichnet	_	
+2-43	324-330	werden	_	
+2-44	330-331	.	_	
+
+#Text=Die Fahrer der von rechts aus der (untergeordneten) Butzweilerstraße herausfahrenden Fahrzeuge nehmen nicht wahr, dass nicht nur die Fahrzeuge auf der Fahrbahn sondern auch die dort auf die Einfahrt zum Radweg zusteuernden Radfahrer vorfahrtberechtigt sind.
+3-1	332-335	Die	_	
+3-2	336-342	Fahrer	_	
+3-3	343-346	der	_	
+3-4	347-350	von	_	
+3-5	351-357	rechts	_	
+3-6	358-361	aus	_	
+3-7	362-365	der	_	
+3-8	366-367	(	_	
+3-9	367-382	untergeordneten	_	
+3-10	382-383	)	_	
+3-11	384-400	Butzweilerstraße	*	
+3-12	401-416	herausfahrenden	_	
+3-13	417-426	Fahrzeuge	_	
+3-14	427-433	nehmen	_	
+3-15	434-439	nicht	_	
+3-16	440-444	wahr	_	
+3-17	444-445	,	_	
+3-18	446-450	dass	_	
+3-19	451-456	nicht	_	
+3-20	457-460	nur	_	
+3-21	461-464	die	_	
+3-22	465-474	Fahrzeuge	_	
+3-23	475-478	auf	_	
+3-24	479-482	der	_	
+3-25	483-491	Fahrbahn	_	
+3-26	492-499	sondern	_	
+3-27	500-504	auch	_	
+3-28	505-508	die	_	
+3-29	509-513	dort	_	
+3-30	514-517	auf	_	
+3-31	518-521	die	_	
+3-32	522-530	Einfahrt	_	
+3-33	531-534	zum	_	
+3-34	535-541	Radweg	_	
+3-35	542-554	zusteuernden	_	
+3-36	555-564	Radfahrer	_	
+3-37	565-583	vorfahrtberechtigt	_	
+3-38	584-588	sind	_	
+3-39	588-589	.	_	
+
+#Text=Sie queren dabei den (für sie nicht hinreichend erkennbaren) Radweg und stoppen erst an der Haltelinie zur Querstraße.
+4-1	590-593	Sie	_	
+4-2	594-600	queren	_	
+4-3	601-606	dabei	_	
+4-4	607-610	den	_	
+4-5	611-612	(	_	
+4-6	612-615	für	_	
+4-7	616-619	sie	_	
+4-8	620-625	nicht	_	
+4-9	626-637	hinreichend	_	
+4-10	638-649	erkennbaren	_	
+4-11	649-650	)	_	
+4-12	651-657	Radweg	_	
+4-13	658-661	und	_	
+4-14	662-669	stoppen	_	
+4-15	670-674	erst	_	
+4-16	675-677	an	_	
+4-17	678-681	der	_	
+4-18	682-692	Haltelinie	_	
+4-19	693-696	zur	_	
+4-20	697-707	Querstraße	_	
+4-21	707-708	.	_	

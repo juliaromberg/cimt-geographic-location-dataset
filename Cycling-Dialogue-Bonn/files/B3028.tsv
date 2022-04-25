@@ -1,0 +1,33 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg oder Parkplatz
+1-1	0-6	Radweg	_	
+1-2	7-11	oder	_	
+1-3	12-21	Parkplatz	_	
+
+#Text=Der Beginn des Radweges wird wohl nicht als solcher erkannt.
+2-1	24-27	Der	_	
+2-2	28-34	Beginn	_	
+2-3	35-38	des	_	
+2-4	39-47	Radweges	_	
+2-5	48-52	wird	_	
+2-6	53-57	wohl	_	
+2-7	58-63	nicht	_	
+2-8	64-67	als	_	
+2-9	68-75	solcher	_	
+2-10	76-83	erkannt	_	
+2-11	83-84	.	_	
+
+#Text=Jedenfalls stehen dort IMMER Fahrzeuge aller Art.
+3-1	85-95	Jedenfalls	_	
+3-2	96-102	stehen	_	
+3-3	103-107	dort	_	
+3-4	108-113	IMMER	_	
+3-5	114-123	Fahrzeuge	_	
+3-6	124-129	aller	_	
+3-7	130-133	Art	_	
+3-8	133-134	.	_	

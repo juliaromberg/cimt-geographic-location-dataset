@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Öffnung der Lichtstraße für den Radverkehr
+1-1	0-7	Öffnung	_	
+1-2	8-11	der	_	
+1-3	12-23	Lichtstraße	*	
+1-4	24-27	für	_	
+1-5	28-31	den	_	
+1-6	32-42	Radverkehr	_	
+
+#Text=Die Lichtsstraße sollte beiderseits für den Radverkehr freigegeben werden, sowie MIV Parkplätze gekennzeichnet werden um Parken auf den Gehwegen zu vermeiden und bessere Sichtbeziehungen herzustellen.
+2-1	45-48	Die	*[3]	
+2-2	49-61	Lichtsstraße	*[3]	
+2-3	62-68	sollte	_	
+2-4	69-80	beiderseits	_	
+2-5	81-84	für	_	
+2-6	85-88	den	_	
+2-7	89-99	Radverkehr	_	
+2-8	100-111	freigegeben	_	
+2-9	112-118	werden	_	
+2-10	118-119	,	_	
+2-11	120-125	sowie	_	
+2-12	126-129	MIV	_	
+2-13	130-140	Parkplätze	_	
+2-14	141-155	gekennzeichnet	_	
+2-15	156-162	werden	_	
+2-16	163-165	um	_	
+2-17	166-172	Parken	_	
+2-18	173-176	auf	_	
+2-19	177-180	den	_	
+2-20	181-189	Gehwegen	_	
+2-21	190-192	zu	_	
+2-22	193-202	vermeiden	_	
+2-23	203-206	und	_	
+2-24	207-214	bessere	_	
+2-25	215-231	Sichtbeziehungen	_	
+2-26	232-244	herzustellen	_	
+2-27	244-245	.	_	

@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Blöde Idee: Plastiktüte über Zeichen 237
+1-1	0-5	Blöde	_	
+1-2	6-10	Idee	_	
+1-3	10-11	:	_	
+1-4	12-23	Plastiktüte	_	
+1-5	24-28	über	_	
+1-6	29-36	Zeichen	_	
+1-7	37-40	237	_	
+
+#Text=Der benutzungspflichtige Radweg (Zeichen 237) wurde mit einer Plastiktüte entwidmet.
+2-1	43-46	Der	_	
+2-2	47-67	benutzungspflichtige	_	
+2-3	68-74	Radweg	_	
+2-4	75-76	(	_	
+2-5	76-83	Zeichen	_	
+2-6	84-87	237	_	
+2-7	87-88	)	_	
+2-8	89-94	wurde	_	
+2-9	95-98	mit	_	
+2-10	99-104	einer	_	
+2-11	105-116	Plastiktüte	_	
+2-12	117-126	entwidmet	_	
+2-13	126-127	.	_	
+
+#Text=Radfahrer(innen) müssen sich wegen der Weltklimakonferenz bis Mitte November nun den ohnehin zu schmalen - und derzeit matschigen - Radweg jetzt auch noch offiziell mit Fußgängern teilen.
+3-1	128-137	Radfahrer	_	
+3-2	137-138	(	_	
+3-3	138-143	innen	_	
+3-4	143-144	)	_	
+3-5	145-151	müssen	_	
+3-6	152-156	sich	_	
+3-7	157-162	wegen	_	
+3-8	163-166	der	_	
+3-9	167-185	Weltklimakonferenz	_	
+3-10	186-189	bis	_	
+3-11	190-195	Mitte	_	
+3-12	196-204	November	_	
+3-13	205-208	nun	_	
+3-14	209-212	den	_	
+3-15	213-220	ohnehin	_	
+3-16	221-223	zu	_	
+3-17	224-232	schmalen	_	
+3-18	233-234	-	_	
+3-19	235-238	und	_	
+3-20	239-246	derzeit	_	
+3-21	247-257	matschigen	_	
+3-22	258-259	-	_	
+3-23	260-266	Radweg	_	
+3-24	267-272	jetzt	_	
+3-25	273-277	auch	_	
+3-26	278-282	noch	_	
+3-27	283-292	offiziell	_	
+3-28	293-296	mit	_	
+3-29	297-307	Fußgängern	_	
+3-30	308-314	teilen	_	
+3-31	314-315	.	_	
+
+#Text=Wieso hat man nicht einen provisorischen Schotterweg für Fußgänger angelegt ???
+4-1	316-321	Wieso	_	
+4-2	322-325	hat	_	
+4-3	326-329	man	_	
+4-4	330-335	nicht	_	
+4-5	336-341	einen	_	
+4-6	342-356	provisorischen	_	
+4-7	357-368	Schotterweg	_	
+4-8	369-372	für	_	
+4-9	373-382	Fußgänger	_	
+4-10	383-391	angelegt	_	
+4-11	392-393	?	_	
+4-12	393-394	?	_	
+4-13	394-395	?	_	

@@ -1,0 +1,142 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schöner Parkstreifen auf dem Schulweg meiner Töchter
+1-1	0-7	Schöner	_	
+1-2	8-20	Parkstreifen	_	
+1-3	21-24	auf	_	
+1-4	25-28	dem	_	
+1-5	29-37	Schulweg	_	
+1-6	38-44	meiner	_	
+1-7	45-52	Töchter	_	
+
+#Text=Schade, dass ich hier keine Photos beilegen kann.
+2-1	55-61	Schade	_	
+2-2	61-62	,	_	
+2-3	63-67	dass	_	
+2-4	68-71	ich	_	
+2-5	72-76	hier	_	
+2-6	77-82	keine	_	
+2-7	83-89	Photos	_	
+2-8	90-98	beilegen	_	
+2-9	99-103	kann	_	
+2-10	103-104	.	_	
+
+#Text=Die Adenaueralle besitzt einen echten Fahrradweg jeweils neben den beiden Hauptverkehrsspuren.
+3-1	105-108	Die	*[7]	
+3-2	109-121	Adenaueralle	*[7]	
+3-3	122-129	besitzt	_	
+3-4	130-135	einen	_	
+3-5	136-142	echten	_	
+3-6	143-153	Fahrradweg	_	
+3-7	154-161	jeweils	_	
+3-8	162-167	neben	_	
+3-9	168-171	den	_	
+3-10	172-178	beiden	_	
+3-11	179-198	Hauptverkehrsspuren	_	
+3-12	198-199	.	_	
+
+#Text=Ob nun Baufahrzeuge, Taxis oder private Halter - es ist real ein willkommener Parkstreifen, der jeden Tag in seiner vielfältigen Anwendung bewundert werden kann.
+4-1	200-202	Ob	_	
+4-2	203-206	nun	_	
+4-3	207-219	Baufahrzeuge	_	
+4-4	219-220	,	_	
+4-5	221-226	Taxis	_	
+4-6	227-231	oder	_	
+4-7	232-239	private	_	
+4-8	240-246	Halter	_	
+4-9	247-248	-	_	
+4-10	249-251	es	_	
+4-11	252-255	ist	_	
+4-12	256-260	real	_	
+4-13	261-264	ein	_	
+4-14	265-277	willkommener	_	
+4-15	278-290	Parkstreifen	_	
+4-16	290-291	,	_	
+4-17	292-295	der	_	
+4-18	296-301	jeden	_	
+4-19	302-305	Tag	_	
+4-20	306-308	in	_	
+4-21	309-315	seiner	_	
+4-22	316-328	vielfältigen	_	
+4-23	329-338	Anwendung	_	
+4-24	339-348	bewundert	_	
+4-25	349-355	werden	_	
+4-26	356-360	kann	_	
+4-27	360-361	.	_	
+
+#Text=Solange die Stadt Bonn mit ihrer passiven Duldung diesen Zustand belässt, wird dieser Fahradweg ein einziger gefährlicher Hindernislauf auch für unsere Kinder auf dem Weg zur Schule bleiben.
+5-1	362-369	Solange	_	
+5-2	370-373	die	_	
+5-3	374-379	Stadt	_	
+5-4	380-384	Bonn	_	
+5-5	385-388	mit	_	
+5-6	389-394	ihrer	_	
+5-7	395-403	passiven	_	
+5-8	404-411	Duldung	_	
+5-9	412-418	diesen	_	
+5-10	419-426	Zustand	_	
+5-11	427-434	belässt	_	
+5-12	434-435	,	_	
+5-13	436-440	wird	_	
+5-14	441-447	dieser	_	
+5-15	448-457	Fahradweg	_	
+5-16	458-461	ein	_	
+5-17	462-470	einziger	_	
+5-18	471-483	gefährlicher	_	
+5-19	484-497	Hindernislauf	_	
+5-20	498-502	auch	_	
+5-21	503-506	für	_	
+5-22	507-513	unsere	_	
+5-23	514-520	Kinder	_	
+5-24	521-524	auf	_	
+5-25	525-528	dem	_	
+5-26	529-532	Weg	_	
+5-27	533-536	zur	_	
+5-28	537-543	Schule	_	
+5-29	544-551	bleiben	_	
+5-30	551-552	.	_	
+
+#Text=Hier kontrolliert die Polizei auch gerne, ob die Kinder, die mit ihremn Rag ggf. auf den breiten Geweg ausweichen, vielleicht nicht schon zu alt sind um auf den Parkstreifen geschickt zu werden...
+6-1	553-557	Hier	_	
+6-2	558-570	kontrolliert	_	
+6-3	571-574	die	_	
+6-4	575-582	Polizei	_	
+6-5	583-587	auch	_	
+6-6	588-593	gerne	_	
+6-7	593-594	,	_	
+6-8	595-597	ob	_	
+6-9	598-601	die	_	
+6-10	602-608	Kinder	_	
+6-11	608-609	,	_	
+6-12	610-613	die	_	
+6-13	614-617	mit	_	
+6-14	618-624	ihremn	_	
+6-15	625-628	Rag	_	
+6-16	629-632	ggf	_	
+6-17	632-633	.	_	
+6-18	634-637	auf	_	
+6-19	638-641	den	_	
+6-20	642-649	breiten	_	
+6-21	650-655	Geweg	_	
+6-22	656-666	ausweichen	_	
+6-23	666-667	,	_	
+6-24	668-678	vielleicht	_	
+6-25	679-684	nicht	_	
+6-26	685-690	schon	_	
+6-27	691-693	zu	_	
+6-28	694-697	alt	_	
+6-29	698-702	sind	_	
+6-30	703-705	um	_	
+6-31	706-709	auf	_	
+6-32	710-713	den	_	
+6-33	714-726	Parkstreifen	_	
+6-34	727-736	geschickt	_	
+6-35	737-739	zu	_	
+6-36	740-746	werden	_	
+6-37	746-747	.	_	
+6-38	747-748	.	_	
+6-39	748-749	.	_	

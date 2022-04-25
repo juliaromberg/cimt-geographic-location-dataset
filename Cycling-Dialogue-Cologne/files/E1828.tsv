@@ -1,0 +1,84 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Überarbeitung des Radverkehrskonzepts auf der Venloer Straße zwischen Innere Kanalstraße und Gürtel
+1-1	0-13	Überarbeitung	_	
+1-2	14-17	des	_	
+1-3	18-37	Radverkehrskonzepts	_	
+1-4	38-41	auf	*[4]	
+1-5	42-45	der	*[4]	
+1-6	46-53	Venloer	*[4]	
+1-7	54-60	Straße	*[4]	
+1-8	61-69	zwischen	*[4]	
+1-9	70-76	Innere	*[4]	
+1-10	77-88	Kanalstraße	*[4]	
+1-11	89-92	und	*[4]	
+1-12	93-99	Gürtel	*[4]	
+
+#Text=Die Verkehrssituation auf der Venloer Straße zwischen Innere Kanalstraße und Gürtel ist gerade für Radfahrer völlig unakzeptabel: durch die geringe Breite der Straße werden Radfahrer auf Ihrem ungeschützten Radstreifen immer wieder gefährdet, sobald sich etwas größere Autos begegnen, da diese auf den Radstreifen ausweichen müssen.
+2-1	102-105	Die	_	
+2-2	106-123	Verkehrssituation	_	
+2-3	124-127	auf	*[5]	
+2-4	128-131	der	*[5]	
+2-5	132-139	Venloer	*[5]	
+2-6	140-146	Straße	*[5]	
+2-7	147-155	zwischen	*[5]	
+2-8	156-162	Innere	*[5]	
+2-9	163-174	Kanalstraße	*[5]	
+2-10	175-178	und	*[5]	
+2-11	179-185	Gürtel	*[5]	
+2-12	186-189	ist	_	
+2-13	190-196	gerade	_	
+2-14	197-200	für	_	
+2-15	201-210	Radfahrer	_	
+2-16	211-217	völlig	_	
+2-17	218-230	unakzeptabel	_	
+2-18	230-231	:	_	
+2-19	232-237	durch	_	
+2-20	238-241	die	_	
+2-21	242-249	geringe	_	
+2-22	250-256	Breite	_	
+2-23	257-260	der	_	
+2-24	261-267	Straße	_	
+2-25	268-274	werden	_	
+2-26	275-284	Radfahrer	_	
+2-27	285-288	auf	_	
+2-28	289-294	Ihrem	_	
+2-29	295-308	ungeschützten	_	
+2-30	309-320	Radstreifen	_	
+2-31	321-326	immer	_	
+2-32	327-333	wieder	_	
+2-33	334-343	gefährdet	_	
+2-34	343-344	,	_	
+2-35	345-351	sobald	_	
+2-36	352-356	sich	_	
+2-37	357-362	etwas	_	
+2-38	363-370	größere	_	
+2-39	371-376	Autos	_	
+2-40	377-385	begegnen	_	
+2-41	385-386	,	_	
+2-42	387-389	da	_	
+2-43	390-395	diese	_	
+2-44	396-399	auf	_	
+2-45	400-403	den	_	
+2-46	404-415	Radstreifen	_	
+2-47	416-426	ausweichen	_	
+2-48	427-433	müssen	_	
+2-49	433-434	.	_	
+
+#Text=Die einzig vernünftige Lösung wäre für mich die Einführung einer Einbahnstraßenregelung.
+3-1	435-438	Die	_	
+3-2	439-445	einzig	_	
+3-3	446-457	vernünftige	_	
+3-4	458-464	Lösung	_	
+3-5	465-469	wäre	_	
+3-6	470-473	für	_	
+3-7	474-478	mich	_	
+3-8	479-482	die	_	
+3-9	483-493	Einführung	_	
+3-10	494-499	einer	_	
+3-11	500-522	Einbahnstraßenregelung	_	
+3-12	522-523	.	_	

@@ -1,0 +1,56 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wurzelaufbrüche beseitigen
+1-1	0-15	Wurzelaufbrüche	_	
+1-2	16-26	beseitigen	_	
+
+#Text=In Höhe der Autobahnauffahrt sind zwei weitere Wurzelaufbrüche auf dem Zwei-Richtungs-Radweg.
+2-1	29-31	In	_	
+2-2	32-36	Höhe	_	
+2-3	37-40	der	_	
+2-4	41-57	Autobahnauffahrt	_	
+2-5	58-62	sind	_	
+2-6	63-67	zwei	_	
+2-7	68-75	weitere	_	
+2-8	76-91	Wurzelaufbrüche	_	
+2-9	92-95	auf	_	
+2-10	96-99	dem	_	
+2-11	100-121	Zwei-Richtungs-Radweg	_	
+2-12	121-122	.	_	
+
+#Text=Unebenheit auch im Bereich der Auffahrt von der Autobahnzufahrt.
+3-1	123-133	Unebenheit	_	
+3-2	134-138	auch	_	
+3-3	139-141	im	_	
+3-4	142-149	Bereich	_	
+3-5	150-153	der	_	
+3-6	154-162	Auffahrt	_	
+3-7	163-166	von	_	
+3-8	167-170	der	_	
+3-9	171-186	Autobahnzufahrt	_	
+3-10	186-187	.	_	
+
+#Text=Beseitigung der Aufbrüche und der Zufahrt, wie an anderer Stelle an der Siegburger Straße schon vorbildlich durchgeführt.
+4-1	188-199	Beseitigung	_	
+4-2	200-203	der	_	
+4-3	204-213	Aufbrüche	_	
+4-4	214-217	und	_	
+4-5	218-221	der	_	
+4-6	222-229	Zufahrt	_	
+4-7	229-230	,	_	
+4-8	231-234	wie	_	
+4-9	235-237	an	_	
+4-10	238-245	anderer	_	
+4-11	246-252	Stelle	_	
+4-12	253-255	an	*[5]	
+4-13	256-259	der	*[5]	
+4-14	260-270	Siegburger	*[5]	
+4-15	271-277	Straße	*[5]	
+4-16	278-283	schon	_	
+4-17	284-295	vorbildlich	_	
+4-18	296-308	durchgeführt	_	
+4-19	308-309	.	_	

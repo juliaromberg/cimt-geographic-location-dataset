@@ -1,0 +1,140 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=gefährlicher Begebnung
+1-1	0-12	gefährlicher	_	
+1-2	13-22	Begebnung	_	
+
+#Text=Ich biege an der Kreuzung von der Adolfstrasse oft nach recht in die Dorotheenstrasse ab oder fahre auch geradeaus weiter.
+2-1	25-28	Ich	_	
+2-2	29-34	biege	_	
+2-3	35-37	an	*[9]	
+2-4	38-41	der	*[9]	
+2-5	42-50	Kreuzung	*[9]	
+2-6	51-54	von	*[9]	
+2-7	55-58	der	*[9]	
+2-8	59-71	Adolfstrasse	*[9]	
+2-9	72-75	oft	*[9]	
+2-10	76-80	nach	*[9]	
+2-11	81-86	recht	*[9]	
+2-12	87-89	in	*[9]	
+2-13	90-93	die	*[9]	
+2-14	94-110	Dorotheenstrasse	*[9]	
+2-15	111-113	ab	_	
+2-16	114-118	oder	_	
+2-17	119-124	fahre	_	
+2-18	125-129	auch	_	
+2-19	130-139	geradeaus	_	
+2-20	140-146	weiter	_	
+2-21	146-147	.	_	
+
+#Text=Die PKW, linksabbieger, die mir entgegenkommen biegen ohne Rücksicht vor mir in die Dorotheenstrasse und nehmen mir die Vorfahrt.
+3-1	148-151	Die	_	
+3-2	152-155	PKW	_	
+3-3	155-156	,	_	
+3-4	157-170	linksabbieger	_	
+3-5	170-171	,	_	
+3-6	172-175	die	_	
+3-7	176-179	mir	_	
+3-8	180-194	entgegenkommen	_	
+3-9	195-201	biegen	_	
+3-10	202-206	ohne	_	
+3-11	207-216	Rücksicht	_	
+3-12	217-220	vor	_	
+3-13	221-224	mir	_	
+3-14	225-227	in	*[10]	
+3-15	228-231	die	*[10]	
+3-16	232-248	Dorotheenstrasse	*[10]	
+3-17	249-252	und	_	
+3-18	253-259	nehmen	_	
+3-19	260-263	mir	_	
+3-20	264-267	die	_	
+3-21	268-276	Vorfahrt	_	
+3-22	276-277	.	_	
+
+#Text=Oder mir nachfolgende KFZ, überholen auf der sehr schmalen Strasse, wo Radfahrer auch entgegen der Einbahnstrasse fahren dürfen, in einem viel zu kleinem Abstand.
+4-1	278-282	Oder	_	
+4-2	283-286	mir	_	
+4-3	287-299	nachfolgende	_	
+4-4	300-303	KFZ	_	
+4-5	303-304	,	_	
+4-6	305-314	überholen	_	
+4-7	315-318	auf	_	
+4-8	319-322	der	_	
+4-9	323-327	sehr	_	
+4-10	328-336	schmalen	_	
+4-11	337-344	Strasse	_	
+4-12	344-345	,	_	
+4-13	346-348	wo	_	
+4-14	349-358	Radfahrer	_	
+4-15	359-363	auch	_	
+4-16	364-372	entgegen	_	
+4-17	373-376	der	_	
+4-18	377-391	Einbahnstrasse	_	
+4-19	392-398	fahren	_	
+4-20	399-405	dürfen	_	
+4-21	405-406	,	_	
+4-22	407-409	in	_	
+4-23	410-415	einem	_	
+4-24	416-420	viel	_	
+4-25	421-423	zu	_	
+4-26	424-431	kleinem	_	
+4-27	432-439	Abstand	_	
+4-28	439-440	.	_	
+
+#Text=Ich habe das auf meiner Dashcam alltägliche Beispiele festgehalten.
+5-1	441-444	Ich	_	
+5-2	445-449	habe	_	
+5-3	450-453	das	_	
+5-4	454-457	auf	_	
+5-5	458-464	meiner	_	
+5-6	465-472	Dashcam	_	
+5-7	473-484	alltägliche	_	
+5-8	485-494	Beispiele	_	
+5-9	495-507	festgehalten	_	
+5-10	507-508	.	_	
+
+#Text=Den kurzen Filmbeitag, würde ich gerne am 18.10.2017 (Ende der Aktion) zeigen.
+6-1	509-512	Den	_	
+6-2	513-519	kurzen	_	
+6-3	520-530	Filmbeitag	_	
+6-4	530-531	,	_	
+6-5	532-537	würde	_	
+6-6	538-541	ich	_	
+6-7	542-547	gerne	_	
+6-8	548-550	am	_	
+6-9	551-561	18.10.2017	_	
+6-10	562-563	(	_	
+6-11	563-567	Ende	_	
+6-12	568-571	der	_	
+6-13	572-578	Aktion	_	
+6-14	578-579	)	_	
+6-15	580-586	zeigen	_	
+6-16	586-587	.	_	
+
+#Text=Vorschlag: Deutlicher auf entgegenkommende Radfahrer hinweisen oder Fahrradspur auf Strasse markieren.
+7-1	588-597	Vorschlag	_	
+7-2	597-598	:	_	
+7-3	599-609	Deutlicher	_	
+7-4	610-613	auf	_	
+7-5	614-630	entgegenkommende	_	
+7-6	631-640	Radfahrer	_	
+7-7	641-650	hinweisen	_	
+7-8	651-655	oder	_	
+7-9	656-667	Fahrradspur	_	
+7-10	668-671	auf	_	
+7-11	672-679	Strasse	_	
+7-12	680-689	markieren	_	
+7-13	689-690	.	_	
+
+#Text=Extra Ampel für Radfahrer mit Vorrangschaltung.
+8-1	691-696	Extra	_	
+8-2	697-702	Ampel	_	
+8-3	703-706	für	_	
+8-4	707-716	Radfahrer	_	
+8-5	717-720	mit	_	
+8-6	721-737	Vorrangschaltung	_	
+8-7	737-738	.	_	

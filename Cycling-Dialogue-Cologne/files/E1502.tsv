@@ -1,0 +1,276 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Errichtung einer Brücke über Militärring und Eisenbahn
+1-1	0-10	Errichtung	_	
+1-2	11-16	einer	_	
+1-3	17-23	Brücke	_	
+1-4	24-28	über	*[16]	
+1-5	29-40	Militärring	*[16]	
+1-6	41-44	und	_	
+1-7	45-54	Eisenbahn	_	
+
+#Text=Die Vogelsanger Str. kreutz am Militärring den hier vierspurig ausgebauten Militärring und unmittelbar davor eine zweigleisige Bahntrasse, die hoch frequentiert ist.
+2-1	57-60	Die	*[17]	
+2-2	61-72	Vogelsanger	*[17]	
+2-3	73-76	Str	*[17]	
+2-4	76-77	.	*[17]	
+2-5	78-84	kreutz	*[17]	
+2-6	85-87	am	*[17]	
+2-7	88-99	Militärring	*[17]	
+2-8	100-103	den	_	
+2-9	104-108	hier	_	
+2-10	109-119	vierspurig	_	
+2-11	120-131	ausgebauten	_	
+2-12	132-143	Militärring	*	
+2-13	144-147	und	_	
+2-14	148-159	unmittelbar	_	
+2-15	160-165	davor	_	
+2-16	166-170	eine	_	
+2-17	171-183	zweigleisige	_	
+2-18	184-194	Bahntrasse	_	
+2-19	194-195	,	_	
+2-20	196-199	die	_	
+2-21	200-204	hoch	_	
+2-22	205-217	frequentiert	_	
+2-23	218-221	ist	_	
+2-24	221-222	.	_	
+
+#Text=Die Querung des Militärrings ist derzeit mittels eine Bedarfsampelanlage möglich.
+3-1	223-226	Die	*[18]	
+3-2	227-234	Querung	*[18]	
+3-3	235-238	des	*[18]	
+3-4	239-251	Militärrings	*[18]	
+3-5	252-255	ist	_	
+3-6	256-263	derzeit	_	
+3-7	264-271	mittels	_	
+3-8	272-276	eine	_	
+3-9	277-295	Bedarfsampelanlage	_	
+3-10	296-303	möglich	_	
+3-11	303-304	.	_	
+
+#Text=Die Querung über die Ampel ist enorm gefährlich für Radfahrer und Fußgänger.
+4-1	305-308	Die	_	
+4-2	309-316	Querung	_	
+4-3	317-321	über	_	
+4-4	322-325	die	_	
+4-5	326-331	Ampel	_	
+4-6	332-335	ist	_	
+4-7	336-341	enorm	_	
+4-8	342-352	gefährlich	_	
+4-9	353-356	für	_	
+4-10	357-366	Radfahrer	_	
+4-11	367-370	und	_	
+4-12	371-380	Fußgänger	_	
+4-13	380-381	.	_	
+
+#Text=Trotz (oder wegen) der langen Geraden des Militärrings an dieser Stelle, wir das Rotlicht der Ampel häufig übersehen oder auch in der Frühphase ignoriert.
+5-1	382-387	Trotz	_	
+5-2	388-389	(	_	
+5-3	389-393	oder	_	
+5-4	394-399	wegen	_	
+5-5	399-400	)	_	
+5-6	401-404	der	_	
+5-7	405-411	langen	*[19]	
+5-8	412-419	Geraden	*[19]	
+5-9	420-423	des	*[19]	
+5-10	424-436	Militärrings	*[19]	
+5-11	437-439	an	_	
+5-12	440-446	dieser	_	
+5-13	447-453	Stelle	_	
+5-14	453-454	,	_	
+5-15	455-458	wir	_	
+5-16	459-462	das	_	
+5-17	463-471	Rotlicht	_	
+5-18	472-475	der	_	
+5-19	476-481	Ampel	_	
+5-20	482-488	häufig	_	
+5-21	489-498	übersehen	_	
+5-22	499-503	oder	_	
+5-23	504-508	auch	_	
+5-24	509-511	in	_	
+5-25	512-515	der	_	
+5-26	516-525	Frühphase	_	
+5-27	526-535	ignoriert	_	
+5-28	535-536	.	_	
+
+#Text=Dadurch kommt es täglich zu lebensgefährlichen Situation.
+6-1	537-544	Dadurch	_	
+6-2	545-550	kommt	_	
+6-3	551-553	es	_	
+6-4	554-561	täglich	_	
+6-5	562-564	zu	_	
+6-6	565-583	lebensgefährlichen	_	
+6-7	584-593	Situation	_	
+6-8	593-594	.	_	
+
+#Text=Unlängst gab es einen Toten zu beklagen.
+7-1	595-603	Unlängst	_	
+7-2	604-607	gab	_	
+7-3	608-610	es	_	
+7-4	611-616	einen	_	
+7-5	617-622	Toten	_	
+7-6	623-625	zu	_	
+7-7	626-634	beklagen	_	
+7-8	634-635	.	_	
+
+#Text=Umgekehrt behindert die Ampel auch den Verkehrsfluss auf dem Militärring.
+8-1	636-645	Umgekehrt	_	
+8-2	646-655	behindert	_	
+8-3	656-659	die	_	
+8-4	660-665	Ampel	_	
+8-5	666-670	auch	_	
+8-6	671-674	den	_	
+8-7	675-688	Verkehrsfluss	_	
+8-8	689-692	auf	*[20]	
+8-9	693-696	dem	*[20]	
+8-10	697-708	Militärring	*[20]	
+8-11	708-709	.	_	
+
+#Text=Die Querung der Bahngleise ist am beschrankten Bahnübergang möglich.
+9-1	710-713	Die	_	
+9-2	714-721	Querung	_	
+9-3	722-725	der	_	
+9-4	726-736	Bahngleise	_	
+9-5	737-740	ist	_	
+9-6	741-743	am	_	
+9-7	744-756	beschrankten	_	
+9-8	757-769	Bahnübergang	_	
+9-9	770-777	möglich	_	
+9-10	777-778	.	_	
+
+#Text=Allerdings ist die Schranke schlecht geschaltet, so dass es zu Warzeiten von im Extremfall über 5 Minuten kommt (wenn z.B. zwei entgegenkommende Züge abgewartet werden müssen).
+10-1	779-789	Allerdings	_	
+10-2	790-793	ist	_	
+10-3	794-797	die	_	
+10-4	798-806	Schranke	_	
+10-5	807-815	schlecht	_	
+10-6	816-826	geschaltet	_	
+10-7	826-827	,	_	
+10-8	828-830	so	_	
+10-9	831-835	dass	_	
+10-10	836-838	es	_	
+10-11	839-841	zu	_	
+10-12	842-851	Warzeiten	_	
+10-13	852-855	von	_	
+10-14	856-858	im	_	
+10-15	859-869	Extremfall	_	
+10-16	870-874	über	_	
+10-17	875-876	5	_	
+10-18	877-884	Minuten	_	
+10-19	885-890	kommt	_	
+10-20	891-892	(	_	
+10-21	892-896	wenn	_	
+10-22	897-900	z.B	_	
+10-23	900-901	.	_	
+10-24	902-906	zwei	_	
+10-25	907-923	entgegenkommende	_	
+10-26	924-928	Züge	_	
+10-27	929-939	abgewartet	_	
+10-28	940-946	werden	_	
+10-29	947-953	müssen	_	
+10-30	953-954	)	_	
+10-31	954-955	.	_	
+
+#Text=Teilweise wir die Schranke daher unterquert, um die Wartezeit zu verkürzen.
+11-1	956-965	Teilweise	_	
+11-2	966-969	wir	_	
+11-3	970-973	die	_	
+11-4	974-982	Schranke	_	
+11-5	983-988	daher	_	
+11-6	989-999	unterquert	_	
+11-7	999-1000	,	_	
+11-8	1001-1003	um	_	
+11-9	1004-1007	die	_	
+11-10	1008-1017	Wartezeit	_	
+11-11	1018-1020	zu	_	
+11-12	1021-1030	verkürzen	_	
+11-13	1030-1031	.	_	
+
+#Text=Dieser Streckenabschnitt der Vogelsanger Str. ist für den Fahrrad-Pendlerverkehr aus Widdersdorf, Lövenich, Brauweiler, Sinthern und Geyen von hoher Bedeutung.
+12-1	1032-1038	Dieser	_	
+12-2	1039-1056	Streckenabschnitt	_	
+12-3	1057-1060	der	_	
+12-4	1061-1072	Vogelsanger	*[21]	
+12-5	1073-1076	Str	*[21]	
+12-6	1076-1077	.	_	
+12-7	1078-1081	ist	_	
+12-8	1082-1085	für	_	
+12-9	1086-1089	den	_	
+12-10	1090-1112	Fahrrad-Pendlerverkehr	_	
+12-11	1113-1116	aus	*[22]	
+12-12	1117-1128	Widdersdorf	*[22]	
+12-13	1128-1129	,	*[22]	
+12-14	1130-1138	Lövenich	*[22]	
+12-15	1138-1139	,	*[22]	
+12-16	1140-1150	Brauweiler	*[22]	
+12-17	1150-1151	,	*[22]	
+12-18	1152-1160	Sinthern	*[22]	
+12-19	1161-1164	und	*[22]	
+12-20	1165-1170	Geyen	*[22]	
+12-21	1171-1174	von	_	
+12-22	1175-1180	hoher	_	
+12-23	1181-1190	Bedeutung	_	
+12-24	1190-1191	.	_	
+
+#Text=Mit dem Bau der Gesamtschule Girlitzweg wird die Nutzungsfrequenz weiter steigen.
+13-1	1192-1195	Mit	_	
+13-2	1196-1199	dem	_	
+13-3	1200-1203	Bau	_	
+13-4	1204-1207	der	_	
+13-5	1208-1220	Gesamtschule	_	
+13-6	1221-1231	Girlitzweg	_	
+13-7	1232-1236	wird	_	
+13-8	1237-1240	die	_	
+13-9	1241-1257	Nutzungsfrequenz	_	
+13-10	1258-1264	weiter	_	
+13-11	1265-1272	steigen	_	
+13-12	1272-1273	.	_	
+
+#Text=Die Brücke verbessert den Verkehrsfluss für Radfahrer, Fußgänger, Autofahrer und Bahnen, verringert Wartezeiten und erhöht die Verkehrssicherheit erheblich.
+14-1	1274-1277	Die	_	
+14-2	1278-1284	Brücke	_	
+14-3	1285-1295	verbessert	_	
+14-4	1296-1299	den	_	
+14-5	1300-1313	Verkehrsfluss	_	
+14-6	1314-1317	für	_	
+14-7	1318-1327	Radfahrer	_	
+14-8	1327-1328	,	_	
+14-9	1329-1338	Fußgänger	_	
+14-10	1338-1339	,	_	
+14-11	1340-1350	Autofahrer	_	
+14-12	1351-1354	und	_	
+14-13	1355-1361	Bahnen	_	
+14-14	1361-1362	,	_	
+14-15	1363-1373	verringert	_	
+14-16	1374-1385	Wartezeiten	_	
+14-17	1386-1389	und	_	
+14-18	1390-1396	erhöht	_	
+14-19	1397-1400	die	_	
+14-20	1401-1419	Verkehrssicherheit	_	
+14-21	1420-1429	erheblich	_	
+14-22	1429-1430	.	_	
+
+#Text=Wie es gehen kann zeigt die Brücke über den Militärring etwas weiter südlich (die orange TrioTop-Brücke).
+15-1	1431-1434	Wie	_	
+15-2	1435-1437	es	_	
+15-3	1438-1443	gehen	_	
+15-4	1444-1448	kann	_	
+15-5	1449-1454	zeigt	_	
+15-6	1455-1458	die	_	
+15-7	1459-1465	Brücke	_	
+15-8	1466-1470	über	*[23]	
+15-9	1471-1474	den	*[23]	
+15-10	1475-1486	Militärring	*[23]	
+15-11	1487-1492	etwas	*[23]	
+15-12	1493-1499	weiter	*[23]	
+15-13	1500-1507	südlich	*[23]	
+15-14	1508-1509	(	_	
+15-15	1509-1512	die	_	
+15-16	1513-1519	orange	_	
+15-17	1520-1534	TrioTop-Brücke	_	
+15-18	1534-1535	)	_	
+15-19	1535-1536	.	_	

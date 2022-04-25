@@ -1,0 +1,40 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Abbiegen vom Radweg auf den Platanenweg
+1-1	0-8	Abbiegen	_	
+1-2	9-12	vom	_	
+1-3	13-19	Radweg	_	
+1-4	20-23	auf	*[4]	
+1-5	24-27	den	*[4]	
+1-6	28-39	Platanenweg	*[4]	
+
+#Text=Vom Radweg aus Richtung BauHaus kommend möchte man gerne links in die Fahrradstraße Platanenweg abbiegen.
+2-1	42-45	Vom	_	
+2-2	46-52	Radweg	_	
+2-3	53-56	aus	*[5]	
+2-4	57-65	Richtung	*[5]	
+2-5	66-73	BauHaus	*[5]	
+2-6	74-81	kommend	*[5]	
+2-7	82-88	möchte	_	
+2-8	89-92	man	_	
+2-9	93-98	gerne	_	
+2-10	99-104	links	*[6]	
+2-11	105-107	in	*[6]	
+2-12	108-111	die	*[6]	
+2-13	112-125	Fahrradstraße	*[6]	
+2-14	126-137	Platanenweg	*[6]	
+2-15	138-146	abbiegen	*[6]	
+2-16	146-147	.	_	
+
+#Text=Doch wie macht man das StVO-Konform?
+3-1	148-152	Doch	_	
+3-2	153-156	wie	_	
+3-3	157-162	macht	_	
+3-4	163-166	man	_	
+3-5	167-170	das	_	
+3-6	171-183	StVO-Konform	_	
+3-7	183-184	?	_	

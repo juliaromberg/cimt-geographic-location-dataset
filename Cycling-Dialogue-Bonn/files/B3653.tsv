@@ -1,0 +1,145 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Weberstraße -> Kennedybrücke (am Rhein entlang)
+1-1	0-11	Weberstraße	*[7]	
+1-2	12-13	-	*[7]	
+1-3	13-14	>	*[7]	
+1-4	15-28	Kennedybrücke	*[7]	
+1-5	29-30	(	*[7]	
+1-6	30-32	am	*[7]	
+1-7	33-38	Rhein	*[7]	
+1-8	39-46	entlang	*[7]	
+1-9	46-47	)	_	
+
+#Text=Der Radweg von der Abfahrt Weberstraße bis zur Kennedybrücke ist zwar eigentlich ok, aber leider sehr missbraucht von Joggern und vor allem von Fußgängern und Touristen!
+2-1	50-53	Der	*[8]	
+2-2	54-60	Radweg	*[8]	
+2-3	61-64	von	*[8]	
+2-4	65-68	der	*[8]	
+2-5	69-76	Abfahrt	*[8]	
+2-6	77-88	Weberstraße	*[8]	
+2-7	89-92	bis	*[8]	
+2-8	93-96	zur	*[8]	
+2-9	97-110	Kennedybrücke	*[8]	
+2-10	111-114	ist	_	
+2-11	115-119	zwar	_	
+2-12	120-130	eigentlich	_	
+2-13	131-133	ok	_	
+2-14	133-134	,	_	
+2-15	135-139	aber	_	
+2-16	140-146	leider	_	
+2-17	147-151	sehr	_	
+2-18	152-163	missbraucht	_	
+2-19	164-167	von	_	
+2-20	168-175	Joggern	_	
+2-21	176-179	und	_	
+2-22	180-183	vor	_	
+2-23	184-189	allem	_	
+2-24	190-193	von	_	
+2-25	194-204	Fußgängern	_	
+2-26	205-208	und	_	
+2-27	209-218	Touristen	_	
+2-28	218-219	!	_	
+
+#Text=Da der Radweg leider auch schmal ist, kommt es of zu brenzligen Situationen, insbesondere wenn auch noch ein Auto auf der Straße nah am Bordstein fährt.
+3-1	220-222	Da	_	
+3-2	223-226	der	_	
+3-3	227-233	Radweg	_	
+3-4	234-240	leider	_	
+3-5	241-245	auch	_	
+3-6	246-252	schmal	_	
+3-7	253-256	ist	_	
+3-8	256-257	,	_	
+3-9	258-263	kommt	_	
+3-10	264-266	es	_	
+3-11	267-269	of	_	
+3-12	270-272	zu	_	
+3-13	273-283	brenzligen	_	
+3-14	284-295	Situationen	_	
+3-15	295-296	,	_	
+3-16	297-309	insbesondere	_	
+3-17	310-314	wenn	_	
+3-18	315-319	auch	_	
+3-19	320-324	noch	_	
+3-20	325-328	ein	_	
+3-21	329-333	Auto	_	
+3-22	334-337	auf	_	
+3-23	338-341	der	_	
+3-24	342-348	Straße	_	
+3-25	349-352	nah	_	
+3-26	353-355	am	_	
+3-27	356-365	Bordstein	_	
+3-28	366-371	fährt	_	
+3-29	371-372	.	_	
+
+#Text=Hier wäre eine bessere Markierung oder vielleicht eine bessere Trennung (kleiner Holzzaun, Pflanzen, ...) hilfreich.
+4-1	373-377	Hier	_	
+4-2	378-382	wäre	_	
+4-3	383-387	eine	_	
+4-4	388-395	bessere	_	
+4-5	396-406	Markierung	_	
+4-6	407-411	oder	_	
+4-7	412-422	vielleicht	_	
+4-8	423-427	eine	_	
+4-9	428-435	bessere	_	
+4-10	436-444	Trennung	_	
+4-11	445-446	(	_	
+4-12	446-453	kleiner	_	
+4-13	454-462	Holzzaun	_	
+4-14	462-463	,	_	
+4-15	464-472	Pflanzen	_	
+4-16	472-473	,	_	
+4-17	474-475	.	_	
+4-18	475-476	.	_	
+4-19	476-477	.	_	
+4-20	477-478	)	_	
+4-21	479-488	hilfreich	_	
+4-22	488-489	.	_	
+
+#Text=Auch die Straße könnte für (schnellere) Radfahrer (Pender, sportliche Fahrer) frei gegeben werden, wenn der Radweg nur Fahrrad frei wäre.
+5-1	490-494	Auch	_	
+5-2	495-498	die	_	
+5-3	499-505	Straße	_	
+5-4	506-512	könnte	_	
+5-5	513-516	für	_	
+5-6	517-518	(	_	
+5-7	518-528	schnellere	_	
+5-8	528-529	)	_	
+5-9	530-539	Radfahrer	_	
+5-10	540-541	(	_	
+5-11	541-547	Pender	_	
+5-12	547-548	,	_	
+5-13	549-559	sportliche	_	
+5-14	560-566	Fahrer	_	
+5-15	566-567	)	_	
+5-16	568-572	frei	_	
+5-17	573-580	gegeben	_	
+5-18	581-587	werden	_	
+5-19	587-588	,	_	
+5-20	589-593	wenn	_	
+5-21	594-597	der	_	
+5-22	598-604	Radweg	_	
+5-23	605-608	nur	_	
+5-24	609-616	Fahrrad	_	
+5-25	617-621	frei	_	
+5-26	622-626	wäre	_	
+5-27	626-627	.	_	
+
+#Text=In Amsterdam wäre die Straße übrigend für Autofahrer komplett gesperrt ;-)
+6-1	628-630	In	_	
+6-2	631-640	Amsterdam	*	
+6-3	641-645	wäre	_	
+6-4	646-649	die	_	
+6-5	650-656	Straße	_	
+6-6	657-665	übrigend	_	
+6-7	666-669	für	_	
+6-8	670-680	Autofahrer	_	
+6-9	681-689	komplett	_	
+6-10	690-698	gesperrt	_	
+6-11	699-700	;	_	
+6-12	700-701	-	_	
+6-13	701-702	)	_	

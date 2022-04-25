@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radständer auf der Rückseite des Buisdorfer Bahnhofs
+1-1	0-10	Radständer	_	
+1-2	11-14	auf	*[5]	
+1-3	15-18	der	*[5]	
+1-4	19-28	Rückseite	*[5]	
+1-5	29-32	des	*[5]	
+1-6	33-43	Buisdorfer	*[5]	
+1-7	44-52	Bahnhofs	*[5]	
+
+#Text=Viele Radfahrer parken auch auf der Nordseite des Duisdorfer Bahnhofs.
+2-1	55-60	Viele	_	
+2-2	61-70	Radfahrer	_	
+2-3	71-77	parken	_	
+2-4	78-82	auch	_	
+2-5	83-86	auf	*[6]	
+2-6	87-90	der	*[6]	
+2-7	91-100	Nordseite	*[6]	
+2-8	101-104	des	*[6]	
+2-9	105-115	Duisdorfer	*[6]	
+2-10	116-124	Bahnhofs	*[6]	
+2-11	124-125	.	_	
+
+#Text=Leider gibt es dort nur wenige, sicherer Fahrradständer.
+3-1	126-132	Leider	_	
+3-2	133-137	gibt	_	
+3-3	138-140	es	_	
+3-4	141-145	dort	_	
+3-5	146-149	nur	_	
+3-6	150-156	wenige	_	
+3-7	156-157	,	_	
+3-8	158-166	sicherer	_	
+3-9	167-181	Fahrradständer	_	
+3-10	181-182	.	_	
+
+#Text=Eine Erweiterung der Radparkanlage wäre wünschenswert.
+4-1	183-187	Eine	_	
+4-2	188-199	Erweiterung	_	
+4-3	200-203	der	_	
+4-4	204-217	Radparkanlage	_	
+4-5	218-222	wäre	_	
+4-6	223-236	wünschenswert	_	
+4-7	236-237	.	_	

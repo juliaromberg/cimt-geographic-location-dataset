@@ -1,0 +1,22 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlaglochpiste
+1-1	0-15	Schlaglochpiste	_	
+
+#Text=Die Effertzstr neu zu teeren, ist gefühlt seit Jahrzehnten überfällig.
+2-1	18-21	Die	*[2]	
+2-2	22-32	Effertzstr	*[2]	
+2-3	33-36	neu	_	
+2-4	37-39	zu	_	
+2-5	40-46	teeren	_	
+2-6	46-47	,	_	
+2-7	48-51	ist	_	
+2-8	52-59	gefühlt	_	
+2-9	60-64	seit	_	
+2-10	65-76	Jahrzehnten	_	
+2-11	77-87	überfällig	_	
+2-12	87-88	.	_	

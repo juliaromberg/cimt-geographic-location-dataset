@@ -1,0 +1,39 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schild fehlt
+1-1	0-6	Schild	_	
+1-2	7-12	fehlt	_	
+
+#Text=Aus Richtung Godesberg kommend fehlt ein Schild, das den Radweg kennzeichnet.
+2-1	15-18	Aus	*[4]	
+2-2	19-27	Richtung	*[4]	
+2-3	28-37	Godesberg	*[4]	
+2-4	38-45	kommend	*[4]	
+2-5	46-51	fehlt	_	
+2-6	52-55	ein	_	
+2-7	56-62	Schild	_	
+2-8	62-63	,	_	
+2-9	64-67	das	_	
+2-10	68-71	den	_	
+2-11	72-78	Radweg	_	
+2-12	79-91	kennzeichnet	_	
+2-13	91-92	.	_	
+
+#Text=Fussgänger können so nicht erkennen, dass sie auf dem Radweg wandern.
+3-1	93-103	Fussgänger	_	
+3-2	104-110	können	_	
+3-3	111-113	so	_	
+3-4	114-119	nicht	_	
+3-5	120-128	erkennen	_	
+3-6	128-129	,	_	
+3-7	130-134	dass	_	
+3-8	135-138	sie	_	
+3-9	139-142	auf	_	
+3-10	143-146	dem	_	
+3-11	147-153	Radweg	_	
+3-12	154-161	wandern	_	
+3-13	161-162	.	_	

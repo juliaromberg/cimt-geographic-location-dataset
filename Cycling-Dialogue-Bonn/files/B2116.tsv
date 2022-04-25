@@ -1,0 +1,22 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Viel zu schmal für einen gemeinsamen Rad-/Fußweg entlag von Heckstoßstangen geparkter Autos
+1-1	0-4	Viel	_	
+1-2	5-7	zu	_	
+1-3	8-14	schmal	_	
+1-4	15-18	für	_	
+1-5	19-24	einen	_	
+1-6	25-36	gemeinsamen	_	
+1-7	37-40	Rad	_	
+1-8	40-41	-	_	
+1-9	41-42	/	_	
+1-10	42-48	Fußweg	_	
+1-11	49-55	entlag	_	
+1-12	56-59	von	_	
+1-13	60-75	Heckstoßstangen	_	
+1-14	76-85	geparkter	_	
+1-15	86-91	Autos	_	

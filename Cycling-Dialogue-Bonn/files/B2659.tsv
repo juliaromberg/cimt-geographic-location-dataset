@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehrsabhängige Ampel oder Kreisverkehr einrichten
+1-1	0-17	Verkehrsabhängige	_	
+1-2	18-23	Ampel	_	
+1-3	24-28	oder	_	
+1-4	29-41	Kreisverkehr	_	
+1-5	42-52	einrichten	_	
+
+#Text=Aus Richtung Süden stehe ich an dieser Ampel fast immer.
+2-1	55-58	Aus	_	
+2-2	59-67	Richtung	_	
+2-3	68-73	Süden	_	
+2-4	74-79	stehe	_	
+2-5	80-83	ich	_	
+2-6	84-86	an	_	
+2-7	87-93	dieser	_	
+2-8	94-99	Ampel	_	
+2-9	100-104	fast	_	
+2-10	105-110	immer	_	
+2-11	110-111	.	_	
+
+#Text=In etwa der Hälfte der Fälle ohne dass sich ein Verkehrsteilnehmer auf der Ringstraße befindet und selbst wenn sind es meistens nur ein oder zwei Autos.
+3-1	112-114	In	_	
+3-2	115-119	etwa	_	
+3-3	120-123	der	_	
+3-4	124-130	Hälfte	_	
+3-5	131-134	der	_	
+3-6	135-140	Fälle	_	
+3-7	141-145	ohne	_	
+3-8	146-150	dass	_	
+3-9	151-155	sich	_	
+3-10	156-159	ein	_	
+3-11	160-178	Verkehrsteilnehmer	_	
+3-12	179-182	auf	*[5]	
+3-13	183-186	der	*[5]	
+3-14	187-197	Ringstraße	*[5]	
+3-15	198-206	befindet	_	
+3-16	207-210	und	_	
+3-17	211-217	selbst	_	
+3-18	218-222	wenn	_	
+3-19	223-227	sind	_	
+3-20	228-230	es	_	
+3-21	231-239	meistens	_	
+3-22	240-243	nur	_	
+3-23	244-247	ein	_	
+3-24	248-252	oder	_	
+3-25	253-257	zwei	_	
+3-26	258-263	Autos	_	
+3-27	263-264	.	_	
+
+#Text=Ein Kreisel oder zumindest eine verkehrsabhängige Ampel würden den Verkehrsfluss (nicht nur für Radfahrer) viel weniger einschränken.
+4-1	265-268	Ein	_	
+4-2	269-276	Kreisel	_	
+4-3	277-281	oder	_	
+4-4	282-291	zumindest	_	
+4-5	292-296	eine	_	
+4-6	297-314	verkehrsabhängige	_	
+4-7	315-320	Ampel	_	
+4-8	321-327	würden	_	
+4-9	328-331	den	_	
+4-10	332-345	Verkehrsfluss	_	
+4-11	346-347	(	_	
+4-12	347-352	nicht	_	
+4-13	353-356	nur	_	
+4-14	357-360	für	_	
+4-15	361-370	Radfahrer	_	
+4-16	370-371	)	_	
+4-17	372-376	viel	_	
+4-18	377-384	weniger	_	
+4-19	385-397	einschränken	_	
+4-20	397-398	.	_	

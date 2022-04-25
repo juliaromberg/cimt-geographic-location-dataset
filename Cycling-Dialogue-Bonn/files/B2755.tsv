@@ -1,0 +1,145 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Boden-Kennzeichnung des Radwegs auf Kennedybrücke fehlt
+1-1	0-19	Boden-Kennzeichnung	_	
+1-2	20-23	des	_	
+1-3	24-31	Radwegs	*[8]	
+1-4	32-35	auf	*[8]	
+1-5	36-49	Kennedybrücke	*[8]	
+1-6	50-55	fehlt	_	
+
+#Text=Insbesondere im Sommer gehen immer wieder Touristen oder andere Ortsunkundige auf dem Radweg (insbesondere von Bonn nach Beuel) der Kennedybrücke, weil der Radweg zwar leicht grau (bei Regen nicht erkennbar!), aber nicht durch Rad-Symbole auf dem Boden gekennzeichnet ist.
+2-1	58-70	Insbesondere	_	
+2-2	71-73	im	_	
+2-3	74-80	Sommer	_	
+2-4	81-86	gehen	_	
+2-5	87-92	immer	_	
+2-6	93-99	wieder	_	
+2-7	100-109	Touristen	_	
+2-8	110-114	oder	_	
+2-9	115-121	andere	_	
+2-10	122-135	Ortsunkundige	_	
+2-11	136-139	auf	*[9]	
+2-12	140-143	dem	*[9]	
+2-13	144-150	Radweg	*[9]	
+2-14	151-152	(	*[9]	
+2-15	152-164	insbesondere	*[9]	
+2-16	165-168	von	*[9]	
+2-17	169-173	Bonn	*[9]	
+2-18	174-178	nach	*[9]	
+2-19	179-184	Beuel	*[9]	
+2-20	184-185	)	*[9]	
+2-21	186-189	der	*[9]	
+2-22	190-203	Kennedybrücke	*[9]	
+2-23	203-204	,	_	
+2-24	205-209	weil	_	
+2-25	210-213	der	_	
+2-26	214-220	Radweg	_	
+2-27	221-225	zwar	_	
+2-28	226-232	leicht	_	
+2-29	233-237	grau	_	
+2-30	238-239	(	_	
+2-31	239-242	bei	_	
+2-32	243-248	Regen	_	
+2-33	249-254	nicht	_	
+2-34	255-264	erkennbar	_	
+2-35	264-265	!	_	
+2-36	265-266	)	_	
+2-37	266-267	,	_	
+2-38	268-272	aber	_	
+2-39	273-278	nicht	_	
+2-40	279-284	durch	_	
+2-41	285-296	Rad-Symbole	_	
+2-42	297-300	auf	_	
+2-43	301-304	dem	_	
+2-44	305-310	Boden	_	
+2-45	311-325	gekennzeichnet	_	
+2-46	326-329	ist	_	
+2-47	329-330	.	_	
+
+#Text=Meistens geschieht dies für Photos des Drachenfelses/Langer Eugen im vorderen Bereich der Kennedybrücke.
+3-1	331-339	Meistens	_	
+3-2	340-349	geschieht	_	
+3-3	350-354	dies	_	
+3-4	355-358	für	_	
+3-5	359-365	Photos	_	
+3-6	366-369	des	_	
+3-7	370-383	Drachenfelses	_	
+3-8	383-384	/	_	
+3-9	384-390	Langer	_	
+3-10	391-396	Eugen	_	
+3-11	397-399	im	*[10]	
+3-12	400-408	vorderen	*[10]	
+3-13	409-416	Bereich	*[10]	
+3-14	417-420	der	*[10]	
+3-15	421-434	Kennedybrücke	*[10]	
+3-16	434-435	.	_	
+
+#Text=Der Radweg ist ja zudem auch nicht baulich getrennt, sondern hat einfach nur einen graueren Belag.
+4-1	436-439	Der	_	
+4-2	440-446	Radweg	_	
+4-3	447-450	ist	_	
+4-4	451-453	ja	_	
+4-5	454-459	zudem	_	
+4-6	460-464	auch	_	
+4-7	465-470	nicht	_	
+4-8	471-478	baulich	_	
+4-9	479-487	getrennt	_	
+4-10	487-488	,	_	
+4-11	489-496	sondern	_	
+4-12	497-500	hat	_	
+4-13	501-508	einfach	_	
+4-14	509-512	nur	_	
+4-15	513-518	einen	_	
+4-16	519-527	graueren	_	
+4-17	528-533	Belag	_	
+4-18	533-534	.	_	
+
+#Text=Hinweisschilder sind nur am Anfang, den jedoch Touristen nicht mitbekommen.
+5-1	535-550	Hinweisschilder	_	
+5-2	551-555	sind	_	
+5-3	556-559	nur	_	
+5-4	560-562	am	_	
+5-5	563-569	Anfang	_	
+5-6	569-570	,	_	
+5-7	571-574	den	_	
+5-8	575-581	jedoch	_	
+5-9	582-591	Touristen	_	
+5-10	592-597	nicht	_	
+5-11	598-609	mitbekommen	_	
+5-12	609-610	.	_	
+
+#Text=Ich erlebte hier im Sommer schon dutzendfach Fastunfälle.
+6-1	611-614	Ich	_	
+6-2	615-622	erlebte	_	
+6-3	623-627	hier	_	
+6-4	628-630	im	_	
+6-5	631-637	Sommer	_	
+6-6	638-643	schon	_	
+6-7	644-655	dutzendfach	_	
+6-8	656-667	Fastunfälle	_	
+6-9	667-668	.	_	
+
+#Text=Auf dem Boden des Radwegs sollten daher - insbesondere im Anfangsbereich - einfach mehrere Radsymbole aufgesprüht werden.
+7-1	669-672	Auf	_	
+7-2	673-676	dem	_	
+7-3	677-682	Boden	_	
+7-4	683-686	des	_	
+7-5	687-694	Radwegs	_	
+7-6	695-702	sollten	_	
+7-7	703-708	daher	_	
+7-8	709-710	-	_	
+7-9	711-723	insbesondere	_	
+7-10	724-726	im	_	
+7-11	727-741	Anfangsbereich	_	
+7-12	742-743	-	_	
+7-13	744-751	einfach	_	
+7-14	752-759	mehrere	_	
+7-15	760-770	Radsymbole	_	
+7-16	771-782	aufgesprüht	_	
+7-17	783-789	werden	_	
+7-18	789-790	.	_	

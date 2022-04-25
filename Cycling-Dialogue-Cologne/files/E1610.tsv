@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bei roter Ampelschaltung geringe Fläche
+1-1	0-3	Bei	_	
+1-2	4-9	roter	_	
+1-3	10-24	Ampelschaltung	_	
+1-4	25-32	geringe	_	
+1-5	33-39	Fläche	_	
+
+#Text=Bei roter Ampelschaltung ist hier sehr wenig Raum wenn mehrere Radfahrer hier stehen.
+2-1	42-45	Bei	_	
+2-2	46-51	roter	_	
+2-3	52-66	Ampelschaltung	_	
+2-4	67-70	ist	_	
+2-5	71-75	hier	_	
+2-6	76-80	sehr	_	
+2-7	81-86	wenig	_	
+2-8	87-91	Raum	_	
+2-9	92-96	wenn	_	
+2-10	97-104	mehrere	_	
+2-11	105-114	Radfahrer	_	
+2-12	115-119	hier	_	
+2-13	120-126	stehen	_	
+2-14	126-127	.	_	
+
+#Text=Zudem fährt die Straßenbahn sehr eng um die Kurve.
+3-1	128-133	Zudem	_	
+3-2	134-139	fährt	_	
+3-3	140-143	die	_	
+3-4	144-155	Straßenbahn	_	
+3-5	156-160	sehr	_	
+3-6	161-164	eng	_	
+3-7	165-167	um	_	
+3-8	168-171	die	_	
+3-9	172-177	Kurve	_	
+3-10	177-178	.	_	
+
+#Text=Breiterer Radweg?
+4-1	179-188	Breiterer	_	
+4-2	189-195	Radweg	_	
+4-3	195-196	?	_	

@@ -1,0 +1,32 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Druchgäng Tempo 50
+1-1	0-9	Druchgäng	_	
+1-2	10-15	Tempo	_	
+1-3	16-18	50	_	
+
+#Text=Abbau der Tempo 70 Schildern die im wechsel mit Tempo 50 auf der Äußeren Kanalstr. zu finden sind.
+2-1	21-26	Abbau	_	
+2-2	27-30	der	_	
+2-3	31-36	Tempo	_	
+2-4	37-39	70	_	
+2-5	40-49	Schildern	_	
+2-6	50-53	die	_	
+2-7	54-56	im	_	
+2-8	57-64	wechsel	_	
+2-9	65-68	mit	_	
+2-10	69-74	Tempo	_	
+2-11	75-77	50	_	
+2-12	78-81	auf	*[3]	
+2-13	82-85	der	*[3]	
+2-14	86-93	Äußeren	*[3]	
+2-15	94-102	Kanalstr	*[3]	
+2-16	102-103	.	*[3]	
+2-17	104-106	zu	_	
+2-18	107-113	finden	_	
+2-19	114-118	sind	_	
+2-20	118-119	.	_	

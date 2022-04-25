@@ -1,0 +1,14 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Überfüllte Fahrradständer
+1-1	0-10	Überfüllte	_	
+1-2	11-25	Fahrradständer	_	
+
+#Text=Mehr Stellplätze.
+2-1	28-32	Mehr	_	
+2-2	33-44	Stellplätze	_	
+2-3	44-45	.	_	

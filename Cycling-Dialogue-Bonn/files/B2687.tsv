@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unbeleuchteter Rad-/Fußweg
+1-1	0-14	Unbeleuchteter	_	
+1-2	15-18	Rad	_	
+1-3	18-19	-	_	
+1-4	19-20	/	_	
+1-5	20-26	Fußweg	_	
+
+#Text=Der Weg Am Südfriedhof zwischen Prinzenstraße und dem Radweg an der Bahnstrecke ist größtenteils unbeleuchtet, bei den Kleingärten komplett finster.
+2-1	29-32	Der	*[4]	
+2-2	33-36	Weg	*[4]	
+2-3	37-39	Am	*[4]	
+2-4	40-51	Südfriedhof	*[4]	
+2-5	52-60	zwischen	*[4]	
+2-6	61-74	Prinzenstraße	*[4]	
+2-7	75-78	und	_	
+2-8	79-82	dem	_	
+2-9	83-89	Radweg	_	
+2-10	90-92	an	_	
+2-11	93-96	der	_	
+2-12	97-108	Bahnstrecke	_	
+2-13	109-112	ist	_	
+2-14	113-125	größtenteils	_	
+2-15	126-138	unbeleuchtet	_	
+2-16	138-139	,	_	
+2-17	140-143	bei	_	
+2-18	144-147	den	_	
+2-19	148-159	Kleingärten	_	
+2-20	160-168	komplett	_	
+2-21	169-176	finster	_	
+2-22	176-177	.	_	
+
+#Text=Den Weg kann man morgens früh/abends/nachts wirklich niemandem empfehlen.
+3-1	178-181	Den	_	
+3-2	182-185	Weg	_	
+3-3	186-190	kann	_	
+3-4	191-194	man	_	
+3-5	195-202	morgens	_	
+3-6	203-207	früh	_	
+3-7	207-208	/	_	
+3-8	208-214	abends	_	
+3-9	214-215	/	_	
+3-10	215-221	nachts	_	
+3-11	222-230	wirklich	_	
+3-12	231-240	niemandem	_	
+3-13	241-250	empfehlen	_	
+3-14	250-251	.	_	

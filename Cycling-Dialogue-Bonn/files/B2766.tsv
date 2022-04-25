@@ -1,0 +1,59 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Abfahrt Kennedybrücke nach Beuel Brückenforum
+1-1	0-7	Abfahrt	*[5]	
+1-2	8-21	Kennedybrücke	*[5]	
+1-3	22-26	nach	*[5]	
+1-4	27-32	Beuel	*[5]	
+1-5	33-45	Brückenforum	*[5]	
+
+#Text=Aus Richting Bonn kommend rechte Brückenseite ist das Abbiegen für Radfahrer lebensgefährlich (Kurve um das Brückenforum) .
+2-1	48-51	Aus	*[6]	
+2-2	52-60	Richting	*[6]	
+2-3	61-65	Bonn	*[6]	
+2-4	66-73	kommend	*[6]	
+2-5	74-80	rechte	*[6]	
+2-6	81-93	Brückenseite	*[6]	
+2-7	94-97	ist	_	
+2-8	98-101	das	_	
+2-9	102-110	Abbiegen	_	
+2-10	111-114	für	_	
+2-11	115-124	Radfahrer	_	
+2-12	125-141	lebensgefährlich	_	
+2-13	142-143	(	_	
+2-14	143-148	Kurve	_	
+2-15	149-151	um	_	
+2-16	152-155	das	_	
+2-17	156-168	Brückenforum	_	
+2-18	168-169	)	_	
+2-19	170-171	.	_	
+
+#Text=Dort gibt es nur einen Zebrastreifen, der viele Autofahrer nicht interessiert.
+3-1	172-176	Dort	_	
+3-2	177-181	gibt	_	
+3-3	182-184	es	_	
+3-4	185-188	nur	_	
+3-5	189-194	einen	_	
+3-6	195-208	Zebrastreifen	_	
+3-7	208-209	,	_	
+3-8	210-213	der	_	
+3-9	214-219	viele	_	
+3-10	220-230	Autofahrer	_	
+3-11	231-236	nicht	_	
+3-12	237-249	interessiert	_	
+3-13	249-250	.	_	
+
+#Text=Verbesserungsvorschlag: Ampelschaltung oder größere Warnhinweise für Autofahrer!
+4-1	251-273	Verbesserungsvorschlag	_	
+4-2	273-274	:	_	
+4-3	275-289	Ampelschaltung	_	
+4-4	290-294	oder	_	
+4-5	295-302	größere	_	
+4-6	303-315	Warnhinweise	_	
+4-7	316-319	für	_	
+4-8	320-330	Autofahrer	_	
+4-9	330-331	!	_	

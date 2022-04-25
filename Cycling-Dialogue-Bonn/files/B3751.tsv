@@ -1,0 +1,62 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Falschparken stärker ahnden
+1-1	0-12	Falschparken	_	
+1-2	13-20	stärker	_	
+1-3	21-27	ahnden	_	
+
+#Text=Dies ist lediglich ein Beispiel von regelmäßig auf Radwegen und -schutzstreifen abgestellten PKW, die Radfahrer gefährden.
+2-1	30-34	Dies	_	
+2-2	35-38	ist	_	
+2-3	39-48	lediglich	_	
+2-4	49-52	ein	_	
+2-5	53-61	Beispiel	_	
+2-6	62-65	von	_	
+2-7	66-76	regelmäßig	_	
+2-8	77-80	auf	_	
+2-9	81-89	Radwegen	_	
+2-10	90-93	und	_	
+2-11	94-95	-	_	
+2-12	95-109	schutzstreifen	_	
+2-13	110-122	abgestellten	_	
+2-14	123-126	PKW	_	
+2-15	126-127	,	_	
+2-16	128-131	die	_	
+2-17	132-141	Radfahrer	_	
+2-18	142-151	gefährden	_	
+2-19	151-152	.	_	
+
+#Text=Auf dem Schutzstreifen der Sternenburgstraße stehen wirklich jeden Morgen Falschparker und zwingen einen in den dichten Berufsverkehr.
+3-1	153-156	Auf	*[5]	
+3-2	157-160	dem	*[5]	
+3-3	161-175	Schutzstreifen	*[5]	
+3-4	176-179	der	*[5]	
+3-5	180-197	Sternenburgstraße	*[5]	
+3-6	198-204	stehen	_	
+3-7	205-213	wirklich	_	
+3-8	214-219	jeden	_	
+3-9	220-226	Morgen	_	
+3-10	227-239	Falschparker	_	
+3-11	240-243	und	_	
+3-12	244-251	zwingen	_	
+3-13	252-257	einen	_	
+3-14	258-260	in	_	
+3-15	261-264	den	_	
+3-16	265-272	dichten	_	
+3-17	273-286	Berufsverkehr	_	
+3-18	286-287	.	_	
+
+#Text=Warum tut die Stadt Bonn dagegen so wenig?
+4-1	288-293	Warum	_	
+4-2	294-297	tut	_	
+4-3	298-301	die	_	
+4-4	302-307	Stadt	_	
+4-5	308-312	Bonn	*	
+4-6	313-320	dagegen	_	
+4-7	321-323	so	_	
+4-8	324-329	wenig	_	
+4-9	329-330	?	_	

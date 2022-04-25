@@ -1,0 +1,93 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=alternative Radstrecke
+1-1	0-11	alternative	_	
+1-2	12-22	Radstrecke	_	
+
+#Text=Der Nachtigallenweg ist nicht als guter Fahrradweg bergauf auf den Venusberg ausgeschildert.
+2-1	25-28	Der	*[7]	
+2-2	29-44	Nachtigallenweg	*[7]	
+2-3	45-48	ist	_	
+2-4	49-54	nicht	_	
+2-5	55-58	als	_	
+2-6	59-64	guter	_	
+2-7	65-75	Fahrradweg	_	
+2-8	76-83	bergauf	*[8]	
+2-9	84-87	auf	*[8]	
+2-10	88-91	den	*[8]	
+2-11	92-101	Venusberg	*[8]	
+2-12	102-116	ausgeschildert	_	
+2-13	116-117	.	_	
+
+#Text=Bei der Runterfahrt von oben ist ein ungefährdetes Einfahren in/ auf die Robert-Koch-Str. nicht möglich, sodass viele bei steiler Abfahrt auf den Gehweg linksseitig ausweichen.
+3-1	118-121	Bei	_	
+3-2	122-125	der	_	
+3-3	126-137	Runterfahrt	_	
+3-4	138-141	von	_	
+3-5	142-146	oben	_	
+3-6	147-150	ist	_	
+3-7	151-154	ein	_	
+3-8	155-168	ungefährdetes	_	
+3-9	169-178	Einfahren	*[9]	
+3-10	179-181	in	*[9]	
+3-11	181-182	/	*[9]	
+3-12	183-186	auf	*[9]	
+3-13	187-190	die	*[9]	
+3-14	191-206	Robert-Koch-Str	*[9]	
+3-15	206-207	.	*[9]	
+3-16	208-213	nicht	_	
+3-17	214-221	möglich	_	
+3-18	221-222	,	_	
+3-19	223-229	sodass	_	
+3-20	230-235	viele	_	
+3-21	236-239	bei	_	
+3-22	240-247	steiler	_	
+3-23	248-255	Abfahrt	_	
+3-24	256-259	auf	_	
+3-25	260-263	den	_	
+3-26	264-270	Gehweg	_	
+3-27	271-282	linksseitig	_	
+3-28	283-293	ausweichen	_	
+3-29	293-294	.	_	
+
+#Text=Große Gefahren für Unfälle!
+4-1	295-300	Große	_	
+4-2	301-309	Gefahren	_	
+4-3	310-313	für	_	
+4-4	314-321	Unfälle	_	
+4-5	321-322	!	_	
+
+#Text=Die E-Bike-Nutzung soll weiter entwickelt werden zur Unterstützung des Mobilitätsmanagements des Universitätsklinikums.
+5-1	323-326	Die	_	
+5-2	327-341	E-Bike-Nutzung	_	
+5-3	342-346	soll	_	
+5-4	347-353	weiter	_	
+5-5	354-364	entwickelt	_	
+5-6	365-371	werden	_	
+5-7	372-375	zur	_	
+5-8	376-389	Unterstützung	_	
+5-9	390-393	des	_	
+5-10	394-415	Mobilitätsmanagements	_	
+5-11	416-419	des	_	
+5-12	420-441	Universitätsklinikums	_	
+5-13	441-442	.	_	
+
+#Text=Hier fehlt die entsprechend notwendige Infrastruktur außerhalb bei der Anfahrt des Campusgeländes völlig.
+6-1	443-447	Hier	_	
+6-2	448-453	fehlt	_	
+6-3	454-457	die	_	
+6-4	458-470	entsprechend	_	
+6-5	471-481	notwendige	_	
+6-6	482-495	Infrastruktur	_	
+6-7	496-505	außerhalb	_	
+6-8	506-509	bei	_	
+6-9	510-513	der	_	
+6-10	514-521	Anfahrt	_	
+6-11	522-525	des	_	
+6-12	526-540	Campusgeländes	*	
+6-13	541-547	völlig	_	
+6-14	547-548	.	_	

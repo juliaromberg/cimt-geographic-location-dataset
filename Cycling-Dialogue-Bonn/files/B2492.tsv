@@ -1,0 +1,177 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Immer wieder Kollisionsgefahr mit Fußgängern
+1-1	0-5	Immer	_	
+1-2	6-12	wieder	_	
+1-3	13-29	Kollisionsgefahr	_	
+1-4	30-33	mit	_	
+1-5	34-44	Fußgängern	_	
+
+#Text=Der hochfrequentierte Radfahrweg am Rhein ist eine Unfallgefahren - Stelle für Fußgänger und Radfahrer, da zu einem der Weg nicht deutlich genug als Radfahrweg erkenntlich wird und zum anderen Tourismusbusse direkt an diesem Halten und ihre Gäste den Radfahrweg zum Ein- und Aussteigen nutzen.
+2-1	47-50	Der	_	
+2-2	51-68	hochfrequentierte	_	
+2-3	69-79	Radfahrweg	_	
+2-4	80-82	am	_	
+2-5	83-88	Rhein	_	
+2-6	89-92	ist	_	
+2-7	93-97	eine	_	
+2-8	98-112	Unfallgefahren	_	
+2-9	113-114	-	_	
+2-10	115-121	Stelle	_	
+2-11	122-125	für	_	
+2-12	126-135	Fußgänger	_	
+2-13	136-139	und	_	
+2-14	140-149	Radfahrer	_	
+2-15	149-150	,	_	
+2-16	151-153	da	_	
+2-17	154-156	zu	_	
+2-18	157-162	einem	_	
+2-19	163-166	der	_	
+2-20	167-170	Weg	_	
+2-21	171-176	nicht	_	
+2-22	177-185	deutlich	_	
+2-23	186-191	genug	_	
+2-24	192-195	als	_	
+2-25	196-206	Radfahrweg	_	
+2-26	207-218	erkenntlich	_	
+2-27	219-223	wird	_	
+2-28	224-227	und	_	
+2-29	228-231	zum	_	
+2-30	232-239	anderen	_	
+2-31	240-254	Tourismusbusse	_	
+2-32	255-261	direkt	_	
+2-33	262-264	an	_	
+2-34	265-271	diesem	_	
+2-35	272-278	Halten	_	
+2-36	279-282	und	_	
+2-37	283-287	ihre	_	
+2-38	288-293	Gäste	_	
+2-39	294-297	den	_	
+2-40	298-308	Radfahrweg	_	
+2-41	309-312	zum	_	
+2-42	313-316	Ein	_	
+2-43	316-317	-	_	
+2-44	318-321	und	_	
+2-45	322-332	Aussteigen	_	
+2-46	333-339	nutzen	_	
+2-47	339-340	.	_	
+
+#Text=Aussteigende Gäste können dabei von Radfahrern nicht gesehen werden.
+3-1	341-353	Aussteigende	_	
+3-2	354-359	Gäste	_	
+3-3	360-366	können	_	
+3-4	367-372	dabei	_	
+3-5	373-376	von	_	
+3-6	377-387	Radfahrern	_	
+3-7	388-393	nicht	_	
+3-8	394-401	gesehen	_	
+3-9	402-408	werden	_	
+3-10	408-409	.	_	
+
+#Text=Folgende Verbesserungen sind notwendig:
+4-1	410-418	Folgende	_	
+4-2	419-433	Verbesserungen	_	
+4-3	434-438	sind	_	
+4-4	439-448	notwendig	_	
+4-5	448-449	:	_	
+
+#Text=1) Durchgehend rote Markierung des Radweges, solange dieser direkt am Brassertufer verläuft.
+5-1	450-451	1	_	
+5-2	451-452	)	_	
+5-3	453-464	Durchgehend	_	
+5-4	465-469	rote	_	
+5-5	470-480	Markierung	_	
+5-6	481-484	des	_	
+5-7	485-493	Radweges	_	
+5-8	493-494	,	_	
+5-9	495-502	solange	_	
+5-10	503-509	dieser	_	
+5-11	510-516	direkt	*[10]	
+5-12	517-519	am	*[10]	
+5-13	520-532	Brassertufer	*[10]	
+5-14	533-541	verläuft	_	
+5-15	541-542	.	_	
+
+#Text=Viele Touristen und nicht Anreisende können an vielen Stellen nicht erkennen, dass es sich um einen Radweg und nicht um einen Fußgängerweg handelt.
+6-1	543-548	Viele	_	
+6-2	549-558	Touristen	_	
+6-3	559-562	und	_	
+6-4	563-568	nicht	_	
+6-5	569-579	Anreisende	_	
+6-6	580-586	können	_	
+6-7	587-589	an	_	
+6-8	590-596	vielen	_	
+6-9	597-604	Stellen	_	
+6-10	605-610	nicht	_	
+6-11	611-619	erkennen	_	
+6-12	619-620	,	_	
+6-13	621-625	dass	_	
+6-14	626-628	es	_	
+6-15	629-633	sich	_	
+6-16	634-636	um	_	
+6-17	637-642	einen	_	
+6-18	643-649	Radweg	_	
+6-19	650-653	und	_	
+6-20	654-659	nicht	_	
+6-21	660-662	um	_	
+6-22	663-668	einen	_	
+6-23	669-681	Fußgängerweg	_	
+6-24	682-689	handelt	_	
+6-25	689-690	.	_	
+
+#Text=2) Tourismus-Busse dürfen nicht mehr direkt am Radweg halten.
+7-1	691-692	2	_	
+7-2	692-693	)	_	
+7-3	694-709	Tourismus-Busse	_	
+7-4	710-716	dürfen	_	
+7-5	717-722	nicht	_	
+7-6	723-727	mehr	_	
+7-7	728-734	direkt	_	
+7-8	735-737	am	_	
+7-9	738-744	Radweg	_	
+7-10	745-751	halten	_	
+7-11	751-752	.	_	
+
+#Text=Alternativ gibt es gute Haltemöglichkeiten vor der Beethovenhalle.
+8-1	753-763	Alternativ	_	
+8-2	764-768	gibt	_	
+8-3	769-771	es	_	
+8-4	772-776	gute	_	
+8-5	777-795	Haltemöglichkeiten	_	
+8-6	796-799	vor	*[11]	
+8-7	800-803	der	*[11]	
+8-8	804-818	Beethovenhalle	*[11]	
+8-9	818-819	.	_	
+
+#Text=3) So wie Radfahrer verwarnt werden, wenn sie auf dem Fußgängerweg fahren, müssen auch Fußgänger verwarnt werden, die auf dem Radfahrweg laufen.
+9-1	820-821	3	_	
+9-2	821-822	)	_	
+9-3	823-825	So	_	
+9-4	826-829	wie	_	
+9-5	830-839	Radfahrer	_	
+9-6	840-848	verwarnt	_	
+9-7	849-855	werden	_	
+9-8	855-856	,	_	
+9-9	857-861	wenn	_	
+9-10	862-865	sie	_	
+9-11	866-869	auf	_	
+9-12	870-873	dem	_	
+9-13	874-886	Fußgängerweg	_	
+9-14	887-893	fahren	_	
+9-15	893-894	,	_	
+9-16	895-901	müssen	_	
+9-17	902-906	auch	_	
+9-18	907-916	Fußgänger	_	
+9-19	917-925	verwarnt	_	
+9-20	926-932	werden	_	
+9-21	932-933	,	_	
+9-22	934-937	die	_	
+9-23	938-941	auf	_	
+9-24	942-945	dem	_	
+9-25	946-956	Radfahrweg	_	
+9-26	957-963	laufen	_	
+9-27	963-964	.	_	

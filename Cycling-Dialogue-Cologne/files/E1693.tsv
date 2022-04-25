@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstraße öffnen
+1-1	0-13	Einbahnstraße	_	
+1-2	14-20	öffnen	_	
+
+#Text=Wichtige Schulwegroute von Vogelsang zum Monte: Einbahnstraße auch auf Kosten der Kfz-Parkplätze öffnen und an Kurve baulich sichern.
+2-1	23-31	Wichtige	_	
+2-2	32-45	Schulwegroute	_	
+2-3	46-49	von	*[3]	
+2-4	50-59	Vogelsang	*[3]	
+2-5	60-63	zum	*[3]	
+2-6	64-69	Monte	*[3]	
+2-7	69-70	:	_	
+2-8	71-84	Einbahnstraße	_	
+2-9	85-89	auch	_	
+2-10	90-93	auf	_	
+2-11	94-100	Kosten	_	
+2-12	101-104	der	_	
+2-13	105-119	Kfz-Parkplätze	_	
+2-14	120-126	öffnen	_	
+2-15	127-130	und	_	
+2-16	131-133	an	_	
+2-17	134-139	Kurve	_	
+2-18	140-147	baulich	_	
+2-19	148-155	sichern	_	
+2-20	155-156	.	_	

@@ -1,0 +1,151 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkende Autos verhindern Einsicht in Sebastianstraße
+1-1	0-8	Parkende	_	
+1-2	9-14	Autos	_	
+1-3	15-25	verhindern	_	
+1-4	26-34	Einsicht	_	
+1-5	35-37	in	*[9]	
+1-6	38-53	Sebastianstraße	*[9]	
+
+#Text=Kommend von Nord-Ost auf dem kleinen Weg hat man es schwer, die Sebastianstraße Richtung Süd-Ost einzusehen.
+2-1	56-63	Kommend	_	
+2-2	64-67	von	_	
+2-3	68-76	Nord-Ost	_	
+2-4	77-80	auf	_	
+2-5	81-84	dem	_	
+2-6	85-92	kleinen	_	
+2-7	93-96	Weg	_	
+2-8	97-100	hat	_	
+2-9	101-104	man	_	
+2-10	105-107	es	_	
+2-11	108-114	schwer	_	
+2-12	114-115	,	_	
+2-13	116-119	die	*[10]	
+2-14	120-135	Sebastianstraße	*[10]	
+2-15	136-144	Richtung	*[10]	
+2-16	145-152	Süd-Ost	*[10]	
+2-17	153-163	einzusehen	_	
+2-18	163-164	.	_	
+
+#Text=Der Weg hat eine Steigung, sodass man tiefer als sonst ist.
+3-1	165-168	Der	_	
+3-2	169-172	Weg	_	
+3-3	173-176	hat	_	
+3-4	177-181	eine	_	
+3-5	182-190	Steigung	_	
+3-6	190-191	,	_	
+3-7	192-198	sodass	_	
+3-8	199-202	man	_	
+3-9	203-209	tiefer	_	
+3-10	210-213	als	_	
+3-11	214-219	sonst	_	
+3-12	220-223	ist	_	
+3-13	223-224	.	_	
+
+#Text=Die parkenden Autos am Bürgersteig haben ihre Motorhaube auf Kopfhöhe, sodass man nicht drüberschauen kann.
+4-1	225-228	Die	_	
+4-2	229-238	parkenden	_	
+4-3	239-244	Autos	_	
+4-4	245-247	am	_	
+4-5	248-259	Bürgersteig	_	
+4-6	260-265	haben	_	
+4-7	266-270	ihre	_	
+4-8	271-281	Motorhaube	_	
+4-9	282-285	auf	_	
+4-10	286-294	Kopfhöhe	_	
+4-11	294-295	,	_	
+4-12	296-302	sodass	_	
+4-13	303-306	man	_	
+4-14	307-312	nicht	_	
+4-15	313-326	drüberschauen	_	
+4-16	327-331	kann	_	
+4-17	331-332	.	_	
+
+#Text=Somit muss man ein wenig in die Kreuzung einfahren, damit man etwas sehen kann.
+5-1	333-338	Somit	_	
+5-2	339-343	muss	_	
+5-3	344-347	man	_	
+5-4	348-351	ein	_	
+5-5	352-357	wenig	_	
+5-6	358-360	in	_	
+5-7	361-364	die	_	
+5-8	365-373	Kreuzung	_	
+5-9	374-383	einfahren	_	
+5-10	383-384	,	_	
+5-11	385-390	damit	_	
+5-12	391-394	man	_	
+5-13	395-400	etwas	_	
+5-14	401-406	sehen	_	
+5-15	407-411	kann	_	
+5-16	411-412	.	_	
+
+#Text=Besonders wenn auf der Ecke ein großer Lieferwagen parkt, fühlt sich das ganze ziemlich gefährlich an.
+6-1	413-422	Besonders	_	
+6-2	423-427	wenn	_	
+6-3	428-431	auf	_	
+6-4	432-435	der	_	
+6-5	436-440	Ecke	_	
+6-6	441-444	ein	_	
+6-7	445-451	großer	_	
+6-8	452-463	Lieferwagen	_	
+6-9	464-469	parkt	_	
+6-10	469-470	,	_	
+6-11	471-476	fühlt	_	
+6-12	477-481	sich	_	
+6-13	482-485	das	_	
+6-14	486-491	ganze	_	
+6-15	492-500	ziemlich	_	
+6-16	501-511	gefährlich	_	
+6-17	512-514	an	_	
+6-18	514-515	.	_	
+
+#Text=Da auf der Nord-Westlichen Seite der Sebastianstrase die Süd-Westliche Seite zugeparkt ist, fahren die Autos Richtung Süd-Ost auch auf der Nord-Östlichen Straßenseite, was die Situation nochmal verschärft.
+7-1	516-518	Da	_	
+7-2	519-522	auf	*[11]	
+7-3	523-526	der	*[11]	
+7-4	527-542	Nord-Westlichen	*[11]	
+7-5	543-548	Seite	*[11]	
+7-6	549-552	der	*[11]	
+7-7	553-568	Sebastianstrase	*[11]	
+7-8	569-572	die	*[11]	
+7-9	573-586	Süd-Westliche	*[11]	
+7-10	587-592	Seite	*[11]	
+7-11	593-602	zugeparkt	_	
+7-12	603-606	ist	_	
+7-13	606-607	,	_	
+7-14	608-614	fahren	_	
+7-15	615-618	die	_	
+7-16	619-624	Autos	_	
+7-17	625-633	Richtung	_	
+7-18	634-641	Süd-Ost	_	
+7-19	642-646	auch	_	
+7-20	647-650	auf	_	
+7-21	651-654	der	_	
+7-22	655-669	Nord-Östlichen	_	
+7-23	670-682	Straßenseite	_	
+7-24	682-683	,	_	
+7-25	684-687	was	_	
+7-26	688-691	die	_	
+7-27	692-701	Situation	_	
+7-28	702-709	nochmal	_	
+7-29	710-720	verschärft	_	
+7-30	720-721	.	_	
+
+#Text=Hier wäre eine Reduktion des Parkens auf dem Bürgersteig eine Hilfe.
+8-1	722-726	Hier	_	
+8-2	727-731	wäre	_	
+8-3	732-736	eine	_	
+8-4	737-746	Reduktion	_	
+8-5	747-750	des	_	
+8-6	751-758	Parkens	_	
+8-7	759-762	auf	_	
+8-8	763-766	dem	_	
+8-9	767-778	Bürgersteig	_	
+8-10	779-783	eine	_	
+8-11	784-789	Hilfe	_	
+8-12	789-790	.	_	

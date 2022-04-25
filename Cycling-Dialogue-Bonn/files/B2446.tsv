@@ -1,0 +1,87 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Buckelpiste
+1-1	0-11	Buckelpiste	_	
+
+#Text=Ich kenne die Hohe Straße seit Jahren nur in einem absolut jämmerlichen Zustand.
+2-1	14-17	Ich	_	
+2-2	18-23	kenne	_	
+2-3	24-27	die	*[4]	
+2-4	28-32	Hohe	*[4]	
+2-5	33-39	Straße	*[4]	
+2-6	40-44	seit	_	
+2-7	45-51	Jahren	_	
+2-8	52-55	nur	_	
+2-9	56-58	in	_	
+2-10	59-64	einem	_	
+2-11	65-72	absolut	_	
+2-12	73-85	jämmerlichen	_	
+2-13	86-93	Zustand	_	
+2-14	93-94	.	_	
+
+#Text=Falls die Stadt Bonn planen sollte diese Straße endlich mal zu renovieren würde es sich anbieten auch hier für eine deutliche Markierung zum Schutze von Radfahrern zu sorgen.
+3-1	95-100	Falls	_	
+3-2	101-104	die	_	
+3-3	105-110	Stadt	_	
+3-4	111-115	Bonn	*	
+3-5	116-122	planen	_	
+3-6	123-129	sollte	_	
+3-7	130-135	diese	_	
+3-8	136-142	Straße	_	
+3-9	143-150	endlich	_	
+3-10	151-154	mal	_	
+3-11	155-157	zu	_	
+3-12	158-168	renovieren	_	
+3-13	169-174	würde	_	
+3-14	175-177	es	_	
+3-15	178-182	sich	_	
+3-16	183-191	anbieten	_	
+3-17	192-196	auch	_	
+3-18	197-201	hier	_	
+3-19	202-205	für	_	
+3-20	206-210	eine	_	
+3-21	211-220	deutliche	_	
+3-22	221-231	Markierung	_	
+3-23	232-235	zum	_	
+3-24	236-243	Schutze	_	
+3-25	244-247	von	_	
+3-26	248-258	Radfahrern	_	
+3-27	259-261	zu	_	
+3-28	262-268	sorgen	_	
+3-29	268-269	.	_	
+
+#Text=Tempo 30 darf gerne beibehalten werden... ist ja auch eine Schule, Sporverein etc... vorhanden die diese schöne Tempo für die Autofahrer rechtfertigen.
+4-1	270-275	Tempo	_	
+4-2	276-278	30	_	
+4-3	279-283	darf	_	
+4-4	284-289	gerne	_	
+4-5	290-301	beibehalten	_	
+4-6	302-308	werden	_	
+4-7	308-309	.	_	
+4-8	309-310	.	_	
+4-9	310-311	.	_	
+4-10	312-315	ist	_	
+4-11	316-318	ja	_	
+4-12	319-323	auch	_	
+4-13	324-328	eine	_	
+4-14	329-335	Schule	_	
+4-15	335-336	,	_	
+4-16	337-347	Sporverein	_	
+4-17	348-351	etc	_	
+4-18	351-352	.	_	
+4-19	352-353	.	_	
+4-20	353-354	.	_	
+4-21	355-364	vorhanden	_	
+4-22	365-368	die	_	
+4-23	369-374	diese	_	
+4-24	375-381	schöne	_	
+4-25	382-387	Tempo	_	
+4-26	388-391	für	_	
+4-27	392-395	die	_	
+4-28	396-406	Autofahrer	_	
+4-29	407-420	rechtfertigen	_	
+4-30	420-421	.	_	

@@ -1,0 +1,56 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Glascontainer am Radweg
+1-1	0-13	Glascontainer	_	
+1-2	14-16	am	_	
+1-3	17-23	Radweg	_	
+
+#Text=Durch die Glascontainer, die unmittelbar am Radweg stehen, befinden sich hier oft Glasscherben auf der Fahrbahn.
+2-1	26-31	Durch	_	
+2-2	32-35	die	_	
+2-3	36-49	Glascontainer	_	
+2-4	49-50	,	_	
+2-5	51-54	die	_	
+2-6	55-66	unmittelbar	_	
+2-7	67-69	am	_	
+2-8	70-76	Radweg	_	
+2-9	77-83	stehen	_	
+2-10	83-84	,	_	
+2-11	85-93	befinden	_	
+2-12	94-98	sich	_	
+2-13	99-103	hier	_	
+2-14	104-107	oft	_	
+2-15	108-120	Glasscherben	_	
+2-16	121-124	auf	_	
+2-17	125-128	der	_	
+2-18	129-137	Fahrbahn	_	
+2-19	137-138	.	_	
+
+#Text=Weiterhin nutzen Autofahrer den Radweg ständig als Parkplatz wenn sie Altglas wegbringen.
+3-1	139-148	Weiterhin	_	
+3-2	149-155	nutzen	_	
+3-3	156-166	Autofahrer	_	
+3-4	167-170	den	_	
+3-5	171-177	Radweg	_	
+3-6	178-185	ständig	_	
+3-7	186-189	als	_	
+3-8	190-199	Parkplatz	_	
+3-9	200-204	wenn	_	
+3-10	205-208	sie	_	
+3-11	209-216	Altglas	_	
+3-12	217-227	wegbringen	_	
+3-13	227-228	.	_	
+
+#Text=Glascontainer sollten prinzipiell niemals an Radwegen stehen.
+4-1	229-242	Glascontainer	_	
+4-2	243-250	sollten	_	
+4-3	251-262	prinzipiell	_	
+4-4	263-270	niemals	_	
+4-5	271-273	an	_	
+4-6	274-282	Radwegen	_	
+4-7	283-289	stehen	_	
+4-8	289-290	.	_	

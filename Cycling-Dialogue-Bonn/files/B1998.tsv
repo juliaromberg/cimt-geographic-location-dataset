@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zu viele fussgänger zwischen den vielen Berufspendlern und fehlende Beleuchtung sowie Markierung
+1-1	0-2	Zu	_	
+1-2	3-8	viele	_	
+1-3	9-19	fussgänger	_	
+1-4	20-28	zwischen	_	
+1-5	29-32	den	_	
+1-6	33-39	vielen	_	
+1-7	40-54	Berufspendlern	_	
+1-8	55-58	und	_	
+1-9	59-67	fehlende	_	
+1-10	68-79	Beleuchtung	_	
+1-11	80-85	sowie	_	
+1-12	86-96	Markierung	_	
+
+#Text=diese Strecke wird von sehr vielen Berufspendlern genutzt, die von Siegburg und Sankt Augustin nach Bonn müssen.
+2-1	99-104	diese	_	
+2-2	105-112	Strecke	_	
+2-3	113-117	wird	_	
+2-4	118-121	von	_	
+2-5	122-126	sehr	_	
+2-6	127-133	vielen	_	
+2-7	134-148	Berufspendlern	_	
+2-8	149-156	genutzt	_	
+2-9	156-157	,	_	
+2-10	158-161	die	_	
+2-11	162-165	von	*[6]	
+2-12	166-174	Siegburg	*[6]	
+2-13	175-178	und	*[6]	
+2-14	179-184	Sankt	*[6]	
+2-15	185-193	Augustin	*[6]	
+2-16	194-198	nach	*[6]	
+2-17	199-203	Bonn	*[6]	
+2-18	204-210	müssen	_	
+2-19	210-211	.	_	
+
+#Text=Es ist im Winter morgens stockdunkel und dabei ist das ein beliebter Hundehalterweg, da er am Feldrand liegt.
+3-1	212-214	Es	_	
+3-2	215-218	ist	_	
+3-3	219-221	im	_	
+3-4	222-228	Winter	_	
+3-5	229-236	morgens	_	
+3-6	237-248	stockdunkel	_	
+3-7	249-252	und	_	
+3-8	253-258	dabei	_	
+3-9	259-262	ist	_	
+3-10	263-266	das	_	
+3-11	267-270	ein	_	
+3-12	271-280	beliebter	_	
+3-13	281-295	Hundehalterweg	_	
+3-14	295-296	,	_	
+3-15	297-299	da	_	
+3-16	300-302	er	_	
+3-17	303-305	am	_	
+3-18	306-314	Feldrand	_	
+3-19	315-320	liegt	_	
+3-20	320-321	.	_	
+
+#Text=Das ist super gefährlich für alle Beteiligten.
+4-1	322-325	Das	_	
+4-2	326-329	ist	_	
+4-3	330-335	super	_	
+4-4	336-346	gefährlich	_	
+4-5	347-350	für	_	
+4-6	351-355	alle	_	
+4-7	356-367	Beteiligten	_	
+4-8	367-368	.	_	
+
+#Text=Hier wäre es wünschenswert, dass es einen reinen Radweg gibt, sowie eine Beleuchtung.
+5-1	369-373	Hier	_	
+5-2	374-378	wäre	_	
+5-3	379-381	es	_	
+5-4	382-395	wünschenswert	_	
+5-5	395-396	,	_	
+5-6	397-401	dass	_	
+5-7	402-404	es	_	
+5-8	405-410	einen	_	
+5-9	411-417	reinen	_	
+5-10	418-424	Radweg	_	
+5-11	425-429	gibt	_	
+5-12	429-430	,	_	
+5-13	431-436	sowie	_	
+5-14	437-441	eine	_	
+5-15	442-453	Beleuchtung	_	
+5-16	453-454	.	_	

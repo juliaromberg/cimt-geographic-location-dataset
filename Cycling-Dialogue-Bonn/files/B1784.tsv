@@ -1,0 +1,27 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradparken
+1-1	0-13	Fahrradparken	_	
+
+#Text=In Zeiten von Pedelecs etc. sollte es mehr Möglichkeiten zum sicheren Abstellen von Fahrrädern geben.
+2-1	16-18	In	_	
+2-2	19-25	Zeiten	_	
+2-3	26-29	von	_	
+2-4	30-38	Pedelecs	_	
+2-5	39-42	etc	_	
+2-6	42-43	.	_	
+2-7	44-50	sollte	_	
+2-8	51-53	es	_	
+2-9	54-58	mehr	_	
+2-10	59-72	Möglichkeiten	_	
+2-11	73-76	zum	_	
+2-12	77-85	sicheren	_	
+2-13	86-95	Abstellen	_	
+2-14	96-99	von	_	
+2-15	100-110	Fahrrädern	_	
+2-16	111-116	geben	_	
+2-17	116-117	.	_	

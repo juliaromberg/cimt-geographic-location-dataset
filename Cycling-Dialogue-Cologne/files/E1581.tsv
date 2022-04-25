@@ -1,0 +1,17 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg fehlt
+1-1	0-6	Radweg	_	
+1-2	7-12	fehlt	_	
+
+#Text=Ein Radweg für die Vogelsanger Straße
+2-1	15-18	Ein	_	
+2-2	19-25	Radweg	_	
+2-3	26-29	für	_	
+2-4	30-33	die	*[3]	
+2-5	34-45	Vogelsanger	*[3]	
+2-6	46-52	Straße	*[3]	

@@ -1,0 +1,206 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Betriebliches Mobilitätsmanagement einfordern
+1-1	0-13	Betriebliches	_	
+1-2	14-34	Mobilitätsmanagement	_	
+1-3	35-45	einfordern	_	
+
+#Text=Wichtig für die Radverkehrsförderung ist der Einsatz von Betrieben und Behörden pro Fahrrad.
+2-1	48-55	Wichtig	_	
+2-2	56-59	für	_	
+2-3	60-63	die	_	
+2-4	64-84	Radverkehrsförderung	_	
+2-5	85-88	ist	_	
+2-6	89-92	der	_	
+2-7	93-100	Einsatz	_	
+2-8	101-104	von	_	
+2-9	105-114	Betrieben	_	
+2-10	115-118	und	_	
+2-11	119-127	Behörden	_	
+2-12	128-131	pro	_	
+2-13	132-139	Fahrrad	_	
+2-14	139-140	.	_	
+
+#Text=Dazu bedarf es eines betrieblichen Mobilitätsmanagements (das neben dem Fahrrad auch Bus & Bahn fördern sollte).
+3-1	141-145	Dazu	_	
+3-2	146-152	bedarf	_	
+3-3	153-155	es	_	
+3-4	156-161	eines	_	
+3-5	162-175	betrieblichen	_	
+3-6	176-197	Mobilitätsmanagements	_	
+3-7	198-199	(	_	
+3-8	199-202	das	_	
+3-9	203-208	neben	_	
+3-10	209-212	dem	_	
+3-11	213-220	Fahrrad	_	
+3-12	221-225	auch	_	
+3-13	226-229	Bus	_	
+3-14	230-231	&	_	
+3-15	232-236	Bahn	_	
+3-16	237-244	fördern	_	
+3-17	245-251	sollte	_	
+3-18	251-252	)	_	
+3-19	252-253	.	_	
+
+#Text=Neben der Beratung der Mitarbeiterinnen und Mitarbeiter und Fördermaßnahmen geht es auch um die Fahrradinfrastruktur - hier sei insbesondere auf genügende Abstellmöglichkeiten für Fahrräder und Pedelecs hingewiesen.
+4-1	254-259	Neben	_	
+4-2	260-263	der	_	
+4-3	264-272	Beratung	_	
+4-4	273-276	der	_	
+4-5	277-293	Mitarbeiterinnen	_	
+4-6	294-297	und	_	
+4-7	298-309	Mitarbeiter	_	
+4-8	310-313	und	_	
+4-9	314-329	Fördermaßnahmen	_	
+4-10	330-334	geht	_	
+4-11	335-337	es	_	
+4-12	338-342	auch	_	
+4-13	343-345	um	_	
+4-14	346-349	die	_	
+4-15	350-370	Fahrradinfrastruktur	_	
+4-16	371-372	-	_	
+4-17	373-377	hier	_	
+4-18	378-381	sei	_	
+4-19	382-394	insbesondere	_	
+4-20	395-398	auf	_	
+4-21	399-408	genügende	_	
+4-22	409-429	Abstellmöglichkeiten	_	
+4-23	430-433	für	_	
+4-24	434-443	Fahrräder	_	
+4-25	444-447	und	_	
+4-26	448-456	Pedelecs	_	
+4-27	457-468	hingewiesen	_	
+4-28	468-469	.	_	
+
+#Text=Nur wenn das Zweirad wettergeschützt abgestellt und dabei diebstahlsicher mit Rahmen und einem Laufrad angeschlossen werden kann, handelt es sich um eine gute Abstellmöglichkeit.
+5-1	470-473	Nur	_	
+5-2	474-478	wenn	_	
+5-3	479-482	das	_	
+5-4	483-490	Zweirad	_	
+5-5	491-506	wettergeschützt	_	
+5-6	507-517	abgestellt	_	
+5-7	518-521	und	_	
+5-8	522-527	dabei	_	
+5-9	528-543	diebstahlsicher	_	
+5-10	544-547	mit	_	
+5-11	548-554	Rahmen	_	
+5-12	555-558	und	_	
+5-13	559-564	einem	_	
+5-14	565-572	Laufrad	_	
+5-15	573-586	angeschlossen	_	
+5-16	587-593	werden	_	
+5-17	594-598	kann	_	
+5-18	598-599	,	_	
+5-19	600-607	handelt	_	
+5-20	608-610	es	_	
+5-21	611-615	sich	_	
+5-22	616-618	um	_	
+5-23	619-623	eine	_	
+5-24	624-628	gute	_	
+5-25	629-647	Abstellmöglichkeit	_	
+5-26	647-648	.	_	
+
+#Text=Bei der markierten Bundesnetzagentur, bei der im Tulpenfeld rund 1000 Menschen arbeiten, gibt es keine ausreichend Zahl an attraktiven Abstellmöglichkeiten für Fahrräder, insbesondere auch nicht für Pedelecs.
+6-1	649-652	Bei	_	
+6-2	653-656	der	_	
+6-3	657-667	markierten	_	
+6-4	668-685	Bundesnetzagentur	_	
+6-5	685-686	,	_	
+6-6	687-690	bei	_	
+6-7	691-694	der	_	
+6-8	695-697	im	*[10]	
+6-9	698-708	Tulpenfeld	*[10]	
+6-10	709-713	rund	_	
+6-11	714-718	1000	_	
+6-12	719-727	Menschen	_	
+6-13	728-736	arbeiten	_	
+6-14	736-737	,	_	
+6-15	738-742	gibt	_	
+6-16	743-745	es	_	
+6-17	746-751	keine	_	
+6-18	752-763	ausreichend	_	
+6-19	764-768	Zahl	_	
+6-20	769-771	an	_	
+6-21	772-783	attraktiven	_	
+6-22	784-804	Abstellmöglichkeiten	_	
+6-23	805-808	für	_	
+6-24	809-818	Fahrräder	_	
+6-25	818-819	,	_	
+6-26	820-832	insbesondere	_	
+6-27	833-837	auch	_	
+6-28	838-843	nicht	_	
+6-29	844-847	für	_	
+6-30	848-856	Pedelecs	_	
+6-31	856-857	.	_	
+
+#Text=Entsprechend kommen Fahrrad und Pedelec nicht in dem Umfang für den Arbeitsweg zum Einsatz, wie das wünschenswert ist.
+7-1	858-870	Entsprechend	_	
+7-2	871-877	kommen	_	
+7-3	878-885	Fahrrad	_	
+7-4	886-889	und	_	
+7-5	890-897	Pedelec	_	
+7-6	898-903	nicht	_	
+7-7	904-906	in	_	
+7-8	907-910	dem	_	
+7-9	911-917	Umfang	_	
+7-10	918-921	für	_	
+7-11	922-925	den	_	
+7-12	926-936	Arbeitsweg	_	
+7-13	937-940	zum	_	
+7-14	941-948	Einsatz	_	
+7-15	948-949	,	_	
+7-16	950-953	wie	_	
+7-17	954-957	das	_	
+7-18	958-971	wünschenswert	_	
+7-19	972-975	ist	_	
+7-20	975-976	.	_	
+
+#Text=Die Stadt Bonn sollte daher mit allen größeren Arbeitgebern Kontakt aufnehmen und ein betriebliches Mobilitätsmanagement einfordern sowie dafür Hilfestellungen anbieten.
+8-1	977-980	Die	_	
+8-2	981-986	Stadt	_	
+8-3	987-991	Bonn	_	
+8-4	992-998	sollte	_	
+8-5	999-1004	daher	_	
+8-6	1005-1008	mit	_	
+8-7	1009-1014	allen	_	
+8-8	1015-1023	größeren	_	
+8-9	1024-1036	Arbeitgebern	_	
+8-10	1037-1044	Kontakt	_	
+8-11	1045-1054	aufnehmen	_	
+8-12	1055-1058	und	_	
+8-13	1059-1062	ein	_	
+8-14	1063-1076	betriebliches	_	
+8-15	1077-1097	Mobilitätsmanagement	_	
+8-16	1098-1108	einfordern	_	
+8-17	1109-1114	sowie	_	
+8-18	1115-1120	dafür	_	
+8-19	1121-1136	Hilfestellungen	_	
+8-20	1137-1145	anbieten	_	
+8-21	1145-1146	.	_	
+
+#Text=Über positive Maßnahmen sollte ebenso informiert werden wie über Betriebe und Behörden, bei denen es am entsprechenden Engagement fehlt.
+9-1	1147-1151	Über	_	
+9-2	1152-1160	positive	_	
+9-3	1161-1170	Maßnahmen	_	
+9-4	1171-1177	sollte	_	
+9-5	1178-1184	ebenso	_	
+9-6	1185-1195	informiert	_	
+9-7	1196-1202	werden	_	
+9-8	1203-1206	wie	_	
+9-9	1207-1211	über	_	
+9-10	1212-1220	Betriebe	_	
+9-11	1221-1224	und	_	
+9-12	1225-1233	Behörden	_	
+9-13	1233-1234	,	_	
+9-14	1235-1238	bei	_	
+9-15	1239-1244	denen	_	
+9-16	1245-1247	es	_	
+9-17	1248-1250	am	_	
+9-18	1251-1265	entsprechenden	_	
+9-19	1266-1276	Engagement	_	
+9-20	1277-1282	fehlt	_	
+9-21	1282-1283	.	_	

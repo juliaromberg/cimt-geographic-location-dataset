@@ -1,0 +1,32 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zusatzzeichen fehlt
+1-1	0-13	Zusatzzeichen	_	
+1-2	14-19	fehlt	_	
+
+#Text=Wieso darf ich hier nur rechts abbiegen?
+2-1	22-27	Wieso	_	
+2-2	28-32	darf	_	
+2-3	33-36	ich	_	
+2-4	37-41	hier	_	
+2-5	42-45	nur	_	
+2-6	46-52	rechts	_	
+2-7	53-61	abbiegen	_	
+2-8	61-62	?	_	
+
+#Text=Wo doch augenscheinlich extra eine Überquerung zum Linksabbiegen geschaffen wurde.
+3-1	63-65	Wo	_	
+3-2	66-70	doch	_	
+3-3	71-86	augenscheinlich	_	
+3-4	87-92	extra	_	
+3-5	93-97	eine	_	
+3-6	98-109	Überquerung	_	
+3-7	110-113	zum	_	
+3-8	114-127	Linksabbiegen	_	
+3-9	128-138	geschaffen	_	
+3-10	139-144	wurde	_	
+3-11	144-145	.	_	

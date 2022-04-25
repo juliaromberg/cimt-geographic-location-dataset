@@ -1,0 +1,40 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Knick des Radwegs und Belagswechsel entschärfen, gleichmäßige Kurve und durchgängige, glatte Asphaltierung
+1-1	0-5	Knick	_	
+1-2	6-9	des	_	
+1-3	10-17	Radwegs	_	
+1-4	18-21	und	_	
+1-5	22-35	Belagswechsel	_	
+1-6	36-47	entschärfen	_	
+1-7	47-48	,	_	
+1-8	49-61	gleichmäßige	_	
+1-9	62-67	Kurve	_	
+1-10	68-71	und	_	
+1-11	72-84	durchgängige	_	
+1-12	84-85	,	_	
+1-13	86-92	glatte	_	
+1-14	93-106	Asphaltierung	_	
+
+#Text=Hier könnte man schön schnell von Röttgen den Berg runterrollen, wenn der absurde Knick nicht wäre
+2-1	109-113	Hier	_	
+2-2	114-120	könnte	_	
+2-3	121-124	man	_	
+2-4	125-130	schön	_	
+2-5	131-138	schnell	_	
+2-6	139-142	von	*[3]	
+2-7	143-150	Röttgen	*[3]	
+2-8	151-154	den	*[3]	
+2-9	155-159	Berg	*[3]	
+2-10	160-172	runterrollen	*[3]	
+2-11	172-173	,	_	
+2-12	174-178	wenn	_	
+2-13	179-182	der	_	
+2-14	183-190	absurde	_	
+2-15	191-196	Knick	_	
+2-16	197-202	nicht	_	
+2-17	203-207	wäre	_	

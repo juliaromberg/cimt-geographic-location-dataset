@@ -1,0 +1,277 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Innovatives Verkehrskonzept rund um das Helios-Gelände (MBE_R014)
+1-1	0-11	Innovatives	_	
+1-2	12-27	Verkehrskonzept	_	
+1-3	28-32	rund	*[18]	
+1-4	33-35	um	*[18]	
+1-5	36-39	das	*[18]	
+1-6	40-54	Helios-Gelände	*[18]	
+1-7	55-56	(	_	
+1-8	56-64	MBE_R014	_	
+1-9	64-65	)	_	
+
+#Text=Im Jahr 2012 wurde das Leitbild Belebtes Stadtquartier für alle und den Kodex für die weitere Gestaltung des Heliosgeländes im Rahmen einer öffentlichen Bürgerbeteiligung erarbeitet.
+2-1	68-70	Im	_	
+2-2	71-75	Jahr	_	
+2-3	76-80	2012	_	
+2-4	81-86	wurde	_	
+2-5	87-90	das	_	
+2-6	91-99	Leitbild	_	
+2-7	100-108	Belebtes	_	
+2-8	109-122	Stadtquartier	_	
+2-9	123-126	für	_	
+2-10	127-131	alle	_	
+2-11	132-135	und	_	
+2-12	136-139	den	_	
+2-13	140-145	Kodex	_	
+2-14	146-149	für	_	
+2-15	150-153	die	_	
+2-16	154-161	weitere	_	
+2-17	162-172	Gestaltung	_	
+2-18	173-176	des	_	
+2-19	177-191	Heliosgeländes	*	
+2-20	192-194	im	_	
+2-21	195-201	Rahmen	_	
+2-22	202-207	einer	_	
+2-23	208-220	öffentlichen	_	
+2-24	221-238	Bürgerbeteiligung	_	
+2-25	239-249	erarbeitet	_	
+2-26	249-250	.	_	
+
+#Text=Ein Bestandteil des Kodex ist die Forderung nach Erstellung eines innovativen Verkehrskonzeptes, wovon inzwischen ein wichtiger Teil, nämlich die Umsetzung der Heliosstraße als Shared Space in den Planungen berücksichtigt wird.
+3-1	251-254	Ein	_	
+3-2	255-266	Bestandteil	_	
+3-3	267-270	des	_	
+3-4	271-276	Kodex	_	
+3-5	277-280	ist	_	
+3-6	281-284	die	_	
+3-7	285-294	Forderung	_	
+3-8	295-299	nach	_	
+3-9	300-310	Erstellung	_	
+3-10	311-316	eines	_	
+3-11	317-328	innovativen	_	
+3-12	329-346	Verkehrskonzeptes	_	
+3-13	346-347	,	_	
+3-14	348-353	wovon	_	
+3-15	354-364	inzwischen	_	
+3-16	365-368	ein	_	
+3-17	369-378	wichtiger	_	
+3-18	379-383	Teil	_	
+3-19	383-384	,	_	
+3-20	385-392	nämlich	_	
+3-21	393-396	die	_	
+3-22	397-406	Umsetzung	_	
+3-23	407-410	der	_	
+3-24	411-423	Heliosstraße	*	
+3-25	424-427	als	_	
+3-26	428-434	Shared	_	
+3-27	435-440	Space	_	
+3-28	441-443	in	_	
+3-29	444-447	den	_	
+3-30	448-457	Planungen	_	
+3-31	458-472	berücksichtigt	_	
+3-32	473-477	wird	_	
+3-33	477-478	.	_	
+
+#Text=Weitergehende Punkte sind bisher nicht berücksichtigt, zu denen aber verschiedene Vorschläge vorliegen, wie beispielsweise:
+4-1	479-492	Weitergehende	_	
+4-2	493-499	Punkte	_	
+4-3	500-504	sind	_	
+4-4	505-511	bisher	_	
+4-5	512-517	nicht	_	
+4-6	518-532	berücksichtigt	_	
+4-7	532-533	,	_	
+4-8	534-536	zu	_	
+4-9	537-542	denen	_	
+4-10	543-547	aber	_	
+4-11	548-560	verschiedene	_	
+4-12	561-571	Vorschläge	_	
+4-13	572-581	vorliegen	_	
+4-14	581-582	,	_	
+4-15	583-586	wie	_	
+4-16	587-601	beispielsweise	_	
+4-17	601-602	:	_	
+
+#Text=- zentraler Mobilitätsknoten Bahnhof Ehrenfeld.
+5-1	603-604	-	_	
+5-2	605-614	zentraler	_	
+5-3	615-631	Mobilitätsknoten	_	
+5-4	632-639	Bahnhof	*[19]	
+5-5	640-649	Ehrenfeld	*[19]	
+5-6	649-650	.	_	
+
+#Text=Neuordnung mit attraktivem Begegnungsraum Ehrenfelder Bahnhofsvorplatz und Bahnbögen.
+6-1	651-661	Neuordnung	_	
+6-2	662-665	mit	_	
+6-3	666-677	attraktivem	_	
+6-4	678-692	Begegnungsraum	_	
+6-5	693-704	Ehrenfelder	*[20]	
+6-6	705-721	Bahnhofsvorplatz	*[20]	
+6-7	722-725	und	*[20]	
+6-8	726-735	Bahnbögen	*[20]	
+6-9	735-736	.	_	
+
+#Text=http://tinyurl.com/y784pd5h
+7-1	737-741	http	_	
+7-2	741-742	:	_	
+7-3	742-743	/	_	
+7-4	743-744	/	_	
+7-5	744-755	tinyurl.com	_	
+7-6	755-756	/	_	
+7-7	756-764	y784pd5h	_	
+
+#Text=- Optimierung der Kreuzung Ehrenfeldgürtel und der Venloer Straße bis zum Bahnhof für den Fuß- und Radverkehr.
+8-1	765-766	-	_	
+8-2	767-778	Optimierung	_	
+8-3	779-782	der	_	
+8-4	783-791	Kreuzung	*[21]	
+8-5	792-807	Ehrenfeldgürtel	*[21]	
+8-6	808-811	und	*[21]	
+8-7	812-815	der	*[21]	
+8-8	816-823	Venloer	*[21]	
+8-9	824-830	Straße	*[21]	
+8-10	831-834	bis	*[21]	
+8-11	835-838	zum	*[21]	
+8-12	839-846	Bahnhof	*[21]	
+8-13	847-850	für	_	
+8-14	851-854	den	_	
+8-15	855-858	Fuß	_	
+8-16	858-859	-	_	
+8-17	860-863	und	_	
+8-18	864-874	Radverkehr	_	
+8-19	874-875	.	_	
+
+#Text=http://tinyurl.com/y9d336kp
+9-1	876-880	http	_	
+9-2	880-881	:	_	
+9-3	881-882	/	_	
+9-4	882-883	/	_	
+9-5	883-894	tinyurl.com	_	
+9-6	894-895	/	_	
+9-7	895-903	y9d336kp	_	
+
+#Text=- Verbesserung der Radwegeverbindung Ehrenfeldgürtel (Zweiwegeverbindung zwischen Zugang Gelände und Venloer Str.
+10-1	904-905	-	_	
+10-2	906-918	Verbesserung	_	
+10-3	919-922	der	_	
+10-4	923-940	Radwegeverbindung	_	
+10-5	941-956	Ehrenfeldgürtel	*	
+10-6	957-958	(	_	
+10-7	958-976	Zweiwegeverbindung	_	
+10-8	977-985	zwischen	_	
+10-9	986-992	Zugang	_	
+10-10	993-1000	Gelände	_	
+10-11	1001-1004	und	_	
+10-12	1005-1012	Venloer	_	
+10-13	1013-1016	Str	_	
+10-14	1016-1017	.	_	
+
+#Text=), http://tinyurl.com/y9gjybwn
+11-1	1018-1019	)	_	
+11-2	1019-1020	,	_	
+11-3	1021-1025	http	_	
+11-4	1025-1026	:	_	
+11-5	1026-1027	/	_	
+11-6	1027-1028	/	_	
+11-7	1028-1039	tinyurl.com	_	
+11-8	1039-1040	/	_	
+11-9	1040-1048	y9gjybwn	_	
+
+#Text=- Konzept für Rad- und Fußverkehr Vogelsanger Straße von und in umliegende Quartiere und Haupteingang IUS (Inklusive Universitätsschule).
+12-1	1049-1050	-	_	
+12-2	1051-1058	Konzept	_	
+12-3	1059-1062	für	_	
+12-4	1063-1066	Rad	_	
+12-5	1066-1067	-	_	
+12-6	1068-1071	und	_	
+12-7	1072-1082	Fußverkehr	_	
+12-8	1083-1094	Vogelsanger	*[22]	
+12-9	1095-1101	Straße	*[22]	
+12-10	1102-1105	von	*[22]	
+12-11	1106-1109	und	*[22]	
+12-12	1110-1112	in	*[22]	
+12-13	1113-1123	umliegende	*[22]	
+12-14	1124-1133	Quartiere	*[22]	
+12-15	1134-1137	und	*[22]	
+12-16	1138-1150	Haupteingang	*[22]	
+12-17	1151-1154	IUS	*[22]	
+12-18	1155-1156	(	*[22]	
+12-19	1156-1165	Inklusive	*[22]	
+12-20	1166-1184	Universitätsschule	*[22]	
+12-21	1184-1185	)	*[22]	
+12-22	1185-1186	.	_	
+
+#Text=http://tinyurl.com/y6uon8rp
+13-1	1187-1191	http	_	
+13-2	1191-1192	:	_	
+13-3	1192-1193	/	_	
+13-4	1193-1194	/	_	
+13-5	1194-1205	tinyurl.com	_	
+13-6	1205-1206	/	_	
+13-7	1206-1214	y6uon8rp	_	
+
+#Text=In der Stellungnahme zum B-Planentwurf (s.u.) fordert die BI Helios u.a. Einrichtung Runder Tisch Verkehr Heliosumfeld unter Berücksichtigung Radverkehrskonzept Ehrenfeld.
+14-1	1215-1217	In	_	
+14-2	1218-1221	der	_	
+14-3	1222-1235	Stellungnahme	_	
+14-4	1236-1239	zum	_	
+14-5	1240-1253	B-Planentwurf	_	
+14-6	1254-1255	(	_	
+14-7	1255-1258	s.u	_	
+14-8	1258-1259	.	_	
+14-9	1259-1260	)	_	
+14-10	1261-1268	fordert	_	
+14-11	1269-1272	die	_	
+14-12	1273-1275	BI	_	
+14-13	1276-1282	Helios	_	
+14-14	1283-1286	u.a	_	
+14-15	1286-1287	.	_	
+14-16	1288-1299	Einrichtung	_	
+14-17	1300-1306	Runder	_	
+14-18	1307-1312	Tisch	_	
+14-19	1313-1320	Verkehr	_	
+14-20	1321-1333	Heliosumfeld	_	
+14-21	1334-1339	unter	_	
+14-22	1340-1356	Berücksichtigung	_	
+14-23	1357-1375	Radverkehrskonzept	_	
+14-24	1376-1385	Ehrenfeld	_	
+14-25	1385-1386	.	_	
+
+#Text=Weitere Informationen
+15-1	1387-1394	Weitere	_	
+15-2	1395-1408	Informationen	_	
+
+#Text=- Unabhängig vom Ehrenfelder Raddialog: Mobilitätskarte: https://goo.gl/YmvMHK
+16-1	1409-1410	-	_	
+16-2	1411-1421	Unabhängig	_	
+16-3	1422-1425	vom	_	
+16-4	1426-1437	Ehrenfelder	_	
+16-5	1438-1447	Raddialog	_	
+16-6	1447-1448	:	_	
+16-7	1449-1464	Mobilitätskarte	_	
+16-8	1464-1465	:	_	
+16-9	1466-1471	https	_	
+16-10	1471-1472	:	_	
+16-11	1472-1473	/	_	
+16-12	1473-1474	/	_	
+16-13	1474-1480	goo.gl	_	
+16-14	1480-1481	/	_	
+16-15	1481-1487	YmvMHK	_	
+
+#Text=- BI Helios: https://tinyurl.com/y7v5goza
+17-1	1488-1489	-	_	
+17-2	1490-1492	BI	_	
+17-3	1493-1499	Helios	_	
+17-4	1499-1500	:	_	
+17-5	1501-1506	https	_	
+17-6	1506-1507	:	_	
+17-7	1507-1508	/	_	
+17-8	1508-1509	/	_	
+17-9	1509-1520	tinyurl.com	_	
+17-10	1520-1521	/	_	
+17-11	1521-1529	y7v5goza	_	

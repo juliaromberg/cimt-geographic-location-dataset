@@ -1,0 +1,63 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Umleitung auf den Bürgersteig
+1-1	0-9	Umleitung	_	
+1-2	10-13	auf	_	
+1-3	14-17	den	_	
+1-4	18-29	Bürgersteig	_	
+
+#Text=An dieser Stelle werden Radfahrer für eine Strecke von ca. 30 m auf den Bürgersteig geführt, und danach wieder auf die Straße.
+2-1	32-34	An	_	
+2-2	35-41	dieser	_	
+2-3	42-48	Stelle	_	
+2-4	49-55	werden	_	
+2-5	56-65	Radfahrer	_	
+2-6	66-69	für	_	
+2-7	70-74	eine	_	
+2-8	75-82	Strecke	_	
+2-9	83-86	von	_	
+2-10	87-89	ca	_	
+2-11	89-90	.	_	
+2-12	91-93	30	_	
+2-13	94-95	m	_	
+2-14	96-99	auf	_	
+2-15	100-103	den	_	
+2-16	104-115	Bürgersteig	_	
+2-17	116-123	geführt	_	
+2-18	123-124	,	_	
+2-19	125-128	und	_	
+2-20	129-135	danach	_	
+2-21	136-142	wieder	_	
+2-22	143-146	auf	_	
+2-23	147-150	die	_	
+2-24	151-157	Straße	_	
+2-25	157-158	.	_	
+
+#Text=Mit diesem Schlenker ist niemandem geholfen.
+3-1	159-162	Mit	_	
+3-2	163-169	diesem	_	
+3-3	170-179	Schlenker	_	
+3-4	180-183	ist	_	
+3-5	184-193	niemandem	_	
+3-6	194-202	geholfen	_	
+3-7	202-203	.	_	
+
+#Text=Stattdessen wird dem Autoverkehr damit suggeriert, Radfahrer dürften dort gar nicht fahren.
+4-1	204-215	Stattdessen	_	
+4-2	216-220	wird	_	
+4-3	221-224	dem	_	
+4-4	225-236	Autoverkehr	_	
+4-5	237-242	damit	_	
+4-6	243-253	suggeriert	_	
+4-7	253-254	,	_	
+4-8	255-264	Radfahrer	_	
+4-9	265-272	dürften	_	
+4-10	273-277	dort	_	
+4-11	278-281	gar	_	
+4-12	282-287	nicht	_	
+4-13	288-294	fahren	_	
+4-14	294-295	.	_	

@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße Wiesenweg
+1-1	0-13	Fahrradstraße	_	
+1-2	14-23	Wiesenweg	*	
+
+#Text=ich würde mich freuen, wenn der komplette Wiesenweg zur Fahrradstraße/Spielstraße wird.
+2-1	26-29	ich	_	
+2-2	30-35	würde	_	
+2-3	36-40	mich	_	
+2-4	41-47	freuen	_	
+2-5	47-48	,	_	
+2-6	49-53	wenn	_	
+2-7	54-57	der	*[5]	
+2-8	58-67	komplette	*[5]	
+2-9	68-77	Wiesenweg	*[5]	
+2-10	78-81	zur	_	
+2-11	82-95	Fahrradstraße	_	
+2-12	95-96	/	_	
+2-13	96-107	Spielstraße	_	
+2-14	108-112	wird	_	
+2-15	112-113	.	_	
+
+#Text=Durchgangsverkehr für PKW ist ohnehin recht niedrig und es ist eine der Hauptstrecken für Fahrradfahrer aus Richtung Endenich in die Stadt.
+3-1	114-131	Durchgangsverkehr	_	
+3-2	132-135	für	_	
+3-3	136-139	PKW	_	
+3-4	140-143	ist	_	
+3-5	144-151	ohnehin	_	
+3-6	152-157	recht	_	
+3-7	158-165	niedrig	_	
+3-8	166-169	und	_	
+3-9	170-172	es	_	
+3-10	173-176	ist	_	
+3-11	177-181	eine	_	
+3-12	182-185	der	_	
+3-13	186-199	Hauptstrecken	_	
+3-14	200-203	für	_	
+3-15	204-217	Fahrradfahrer	_	
+3-16	218-221	aus	*[6]	
+3-17	222-230	Richtung	*[6]	
+3-18	231-239	Endenich	*[6]	
+3-19	240-242	in	*[6]	
+3-20	243-246	die	*[6]	
+3-21	247-252	Stadt	*[6]	
+3-22	252-253	.	_	
+
+#Text=Dann wäre alles etwas ruhiger, PKW können trotzdem langsam durchfahren und es wäre entspannter zum befahren
+4-1	254-258	Dann	_	
+4-2	259-263	wäre	_	
+4-3	264-269	alles	_	
+4-4	270-275	etwas	_	
+4-5	276-283	ruhiger	_	
+4-6	283-284	,	_	
+4-7	285-288	PKW	_	
+4-8	289-295	können	_	
+4-9	296-304	trotzdem	_	
+4-10	305-312	langsam	_	
+4-11	313-324	durchfahren	_	
+4-12	325-328	und	_	
+4-13	329-331	es	_	
+4-14	332-336	wäre	_	
+4-15	337-348	entspannter	_	
+4-16	349-352	zum	_	
+4-17	353-361	befahren	_	

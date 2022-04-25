@@ -1,0 +1,250 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kölnstrasse
+1-1	0-11	Kölnstrasse	*	
+
+#Text=Die Kölnstrasse vom Rosental bis nach Buschdorf birgt vielerlei Gefahren und Mängel.
+2-1	14-17	Die	*[20]	
+2-2	18-29	Kölnstrasse	*[20]	
+2-3	30-33	vom	*[20]	
+2-4	34-42	Rosental	*[20]	
+2-5	43-46	bis	*[20]	
+2-6	47-51	nach	*[20]	
+2-7	52-61	Buschdorf	*[20]	
+2-8	62-67	birgt	_	
+2-9	68-77	vielerlei	_	
+2-10	78-86	Gefahren	_	
+2-11	87-90	und	_	
+2-12	91-97	Mängel	_	
+2-13	97-98	.	_	
+
+#Text=Vom Rosental bis Kaiser-Karl-Ring: Einbahnstrasse, aber geöffnet für Bahn und Fahrrad.
+3-1	99-102	Vom	*[21]	
+3-2	103-111	Rosental	*[21]	
+3-3	112-115	bis	*[21]	
+3-4	116-132	Kaiser-Karl-Ring	*[21]	
+3-5	132-133	:	_	
+3-6	134-148	Einbahnstrasse	_	
+3-7	148-149	,	_	
+3-8	150-154	aber	_	
+3-9	155-163	geöffnet	_	
+3-10	164-167	für	_	
+3-11	168-172	Bahn	_	
+3-12	173-176	und	_	
+3-13	177-184	Fahrrad	_	
+3-14	184-185	.	_	
+
+#Text=Trotz Überholverbot kommen einem Linksabbieger auf der 2. Spur entgegen.
+4-1	186-191	Trotz	_	
+4-2	192-205	Überholverbot	_	
+4-3	206-212	kommen	_	
+4-4	213-218	einem	_	
+4-5	219-232	Linksabbieger	_	
+4-6	233-236	auf	_	
+4-7	237-240	der	_	
+4-8	241-242	2	_	
+4-9	242-243	.	_	
+4-10	244-248	Spur	_	
+4-11	249-257	entgegen	_	
+4-12	257-258	.	_	
+
+#Text=Kopfsteinpflaster und Schienen - Unbeliebt bei Radlern.
+5-1	259-276	Kopfsteinpflaster	_	
+5-2	277-280	und	_	
+5-3	281-289	Schienen	_	
+5-4	290-291	-	_	
+5-5	292-301	Unbeliebt	_	
+5-6	302-305	bei	_	
+5-7	306-313	Radlern	_	
+5-8	313-314	.	_	
+
+#Text=Ander Kreuzung unklar wie man weiterfährt.
+6-1	315-320	Ander	_	
+6-2	321-329	Kreuzung	_	
+6-3	330-336	unklar	_	
+6-4	337-340	wie	_	
+6-5	341-344	man	_	
+6-6	345-356	weiterfährt	_	
+6-7	356-357	.	_	
+
+#Text=Man weiß nie, ob die anderen warten oder wer Rot oder Grün hat.
+7-1	358-361	Man	_	
+7-2	362-366	weiß	_	
+7-3	367-370	nie	_	
+7-4	370-371	,	_	
+7-5	372-374	ob	_	
+7-6	375-378	die	_	
+7-7	379-386	anderen	_	
+7-8	387-393	warten	_	
+7-9	394-398	oder	_	
+7-10	399-402	wer	_	
+7-11	403-406	Rot	_	
+7-12	407-411	oder	_	
+7-13	412-416	Grün	_	
+7-14	417-420	hat	_	
+7-15	420-421	.	_	
+
+#Text=Es gibt ja keine Ampel.
+8-1	422-424	Es	_	
+8-2	425-429	gibt	_	
+8-3	430-432	ja	_	
+8-4	433-438	keine	_	
+8-5	439-444	Ampel	_	
+8-6	444-445	.	_	
+
+#Text=Was mache ich als Linksabbieger.
+9-1	446-449	Was	_	
+9-2	450-455	mache	_	
+9-3	456-459	ich	_	
+9-4	460-463	als	_	
+9-5	464-477	Linksabbieger	_	
+9-6	477-478	.	_	
+
+#Text=Fährt man über die Nordstrasse, könnte man über die Fussgängerampel rüberkommen.
+10-1	479-484	Fährt	_	
+10-2	485-488	man	_	
+10-3	489-493	über	*[22]	
+10-4	494-497	die	*[22]	
+10-5	498-509	Nordstrasse	*[22]	
+10-6	509-510	,	_	
+10-7	511-517	könnte	_	
+10-8	518-521	man	_	
+10-9	522-526	über	_	
+10-10	527-530	die	_	
+10-11	531-546	Fussgängerampel	_	
+10-12	547-558	rüberkommen	_	
+10-13	558-559	.	_	
+
+#Text=Man müßte aber ein Stück auf der falschen Seite fahren.
+11-1	560-563	Man	_	
+11-2	564-569	müßte	_	
+11-3	570-574	aber	_	
+11-4	575-578	ein	_	
+11-5	579-584	Stück	_	
+11-6	585-588	auf	_	
+11-7	589-592	der	_	
+11-8	593-601	falschen	_	
+11-9	602-607	Seite	_	
+11-10	608-614	fahren	_	
+11-11	614-615	.	_	
+
+#Text=Ab der Kreuzung: Berg und Talfahrt, unübersichtliche und zahlreiche Einmündungen.
+12-1	616-618	Ab	_	
+12-2	619-622	der	_	
+12-3	623-631	Kreuzung	_	
+12-4	631-632	:	_	
+12-5	633-637	Berg	_	
+12-6	638-641	und	_	
+12-7	642-650	Talfahrt	_	
+12-8	650-651	,	_	
+12-9	652-668	unübersichtliche	_	
+12-10	669-672	und	_	
+12-11	673-683	zahlreiche	_	
+12-12	684-696	Einmündungen	_	
+12-13	696-697	.	_	
+
+#Text=Fussgängerampeln und Haltestellen kreuzen.
+13-1	698-714	Fussgängerampeln	_	
+13-2	715-718	und	_	
+13-3	719-731	Haltestellen	_	
+13-4	732-739	kreuzen	_	
+13-5	739-740	.	_	
+
+#Text=Schmale Radwege, parkende Fahrzeuge, Mülltonen und Trauben von Schülern blockieren die Wege.
+14-1	741-748	Schmale	_	
+14-2	749-756	Radwege	_	
+14-3	756-757	,	_	
+14-4	758-766	parkende	_	
+14-5	767-776	Fahrzeuge	_	
+14-6	776-777	,	_	
+14-7	778-787	Mülltonen	_	
+14-8	788-791	und	_	
+14-9	792-799	Trauben	_	
+14-10	800-803	von	_	
+14-11	804-812	Schülern	_	
+14-12	813-823	blockieren	_	
+14-13	824-827	die	_	
+14-14	828-832	Wege	_	
+14-15	832-833	.	_	
+
+#Text=Keine Abstände zu parkenden Autos, da wo Geschäfte sind.
+15-1	834-839	Keine	_	
+15-2	840-848	Abstände	_	
+15-3	849-851	zu	_	
+15-4	852-861	parkenden	_	
+15-5	862-867	Autos	_	
+15-6	867-868	,	_	
+15-7	869-871	da	_	
+15-8	872-874	wo	_	
+15-9	875-884	Geschäfte	_	
+15-10	885-889	sind	_	
+15-11	889-890	.	_	
+
+#Text=Schlechtes Plaster und schlechte Absenkungen.
+16-1	891-901	Schlechtes	_	
+16-2	902-909	Plaster	_	
+16-3	910-913	und	_	
+16-4	914-923	schlechte	_	
+16-5	924-935	Absenkungen	_	
+16-6	935-936	.	_	
+
+#Text=Jedes Mal tut mir meine Felge leid.
+17-1	937-942	Jedes	_	
+17-2	943-946	Mal	_	
+17-3	947-950	tut	_	
+17-4	951-954	mir	_	
+17-5	955-960	meine	_	
+17-6	961-966	Felge	_	
+17-7	967-971	leid	_	
+17-8	971-972	.	_	
+
+#Text=Rechtsabiegende Autos können wegen Bewuchs schlecht Radler erkennen.
+18-1	973-988	Rechtsabiegende	_	
+18-2	989-994	Autos	_	
+18-3	995-1001	können	_	
+18-4	1002-1007	wegen	_	
+18-5	1008-1015	Bewuchs	_	
+18-6	1016-1024	schlecht	_	
+18-7	1025-1031	Radler	_	
+18-8	1032-1040	erkennen	_	
+18-9	1040-1041	.	_	
+
+#Text=Bleibt nur die Möglichkeit, eine der Parrallestrassen zu nutzen, wie Römerstrasse oder am Rheinufer, um nach Hersel zu gelangen.
+19-1	1042-1048	Bleibt	_	
+19-2	1049-1052	nur	_	
+19-3	1053-1056	die	_	
+19-4	1057-1068	Möglichkeit	_	
+19-5	1068-1069	,	_	
+19-6	1070-1074	eine	_	
+19-7	1075-1078	der	_	
+19-8	1079-1095	Parrallestrassen	_	
+19-9	1096-1098	zu	_	
+19-10	1099-1105	nutzen	_	
+19-11	1105-1106	,	_	
+19-12	1107-1110	wie	_	
+19-13	1111-1123	Römerstrasse	*	
+19-14	1124-1128	oder	_	
+19-15	1129-1131	am	_	
+19-16	1132-1141	Rheinufer	_	
+19-17	1141-1142	,	_	
+19-18	1143-1145	um	_	
+19-19	1146-1150	nach	*[23]	
+19-20	1151-1157	Hersel	*[23]	
+19-21	1158-1160	zu	_	
+19-22	1161-1169	gelangen	_	
+19-23	1169-1170	.	_	
+
+#Text=Da gibt es aber andere Probleme zu meistern.
+20-1	1171-1173	Da	_	
+20-2	1174-1178	gibt	_	
+20-3	1179-1181	es	_	
+20-4	1182-1186	aber	_	
+20-5	1187-1193	andere	_	
+20-6	1194-1202	Probleme	_	
+20-7	1203-1205	zu	_	
+20-8	1206-1214	meistern	_	
+20-9	1214-1215	.	_	

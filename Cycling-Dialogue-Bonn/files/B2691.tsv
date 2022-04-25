@@ -1,0 +1,70 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kopfsteinpflaster
+1-1	0-17	Kopfsteinpflaster	_	
+
+#Text=Der Fahrradweg am Rhein quert in Höhe des Zebrastreifens am Peter-Josef-Lenne-Denkmal einen kleinen Abschnitt mit Basaltkopfsteinpflaster.
+2-1	20-23	Der	*[4]	
+2-2	24-34	Fahrradweg	*[4]	
+2-3	35-37	am	*[4]	
+2-4	38-43	Rhein	*[4]	
+2-5	44-49	quert	_	
+2-6	50-52	in	*[5]	
+2-7	53-57	Höhe	*[5]	
+2-8	58-61	des	*[5]	
+2-9	62-76	Zebrastreifens	*[5]	
+2-10	77-79	am	*[5]	
+2-11	80-105	Peter-Josef-Lenne-Denkmal	*[5]	
+2-12	106-111	einen	_	
+2-13	112-119	kleinen	_	
+2-14	120-129	Abschnitt	_	
+2-15	130-133	mit	_	
+2-16	134-157	Basaltkopfsteinpflaster	_	
+2-17	157-158	.	_	
+
+#Text=Dieses ist insbesondere bei Regenwetter oft extrem glatt und zudem noch ganz leicht abschüssig.
+3-1	159-165	Dieses	_	
+3-2	166-169	ist	_	
+3-3	170-182	insbesondere	_	
+3-4	183-186	bei	_	
+3-5	187-198	Regenwetter	_	
+3-6	199-202	oft	_	
+3-7	203-209	extrem	_	
+3-8	210-215	glatt	_	
+3-9	216-219	und	_	
+3-10	220-225	zudem	_	
+3-11	226-230	noch	_	
+3-12	231-235	ganz	_	
+3-13	236-242	leicht	_	
+3-14	243-253	abschüssig	_	
+3-15	253-254	.	_	
+
+#Text=Für Radfahrer sehr gefährlich, auch weil man sich an dieser Stelle oft sehr auf unberechenbare Fußgänger konzentrieren und zuweilen stark abbremsen muss.
+4-1	255-258	Für	_	
+4-2	259-268	Radfahrer	_	
+4-3	269-273	sehr	_	
+4-4	274-284	gefährlich	_	
+4-5	284-285	,	_	
+4-6	286-290	auch	_	
+4-7	291-295	weil	_	
+4-8	296-299	man	_	
+4-9	300-304	sich	_	
+4-10	305-307	an	_	
+4-11	308-314	dieser	_	
+4-12	315-321	Stelle	_	
+4-13	322-325	oft	_	
+4-14	326-330	sehr	_	
+4-15	331-334	auf	_	
+4-16	335-349	unberechenbare	_	
+4-17	350-359	Fußgänger	_	
+4-18	360-373	konzentrieren	_	
+4-19	374-377	und	_	
+4-20	378-386	zuweilen	_	
+4-21	387-392	stark	_	
+4-22	393-402	abbremsen	_	
+4-23	403-407	muss	_	
+4-24	407-408	.	_	

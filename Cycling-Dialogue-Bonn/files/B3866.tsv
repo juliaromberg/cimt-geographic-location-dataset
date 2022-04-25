@@ -1,0 +1,157 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradverkehr am Brassertufer/Rathnauufer sicherer gestalten
+1-1	0-14	Fahrradverkehr	_	
+1-2	15-17	am	*[7]	
+1-3	18-30	Brassertufer	*[7]	
+1-4	30-31	/	*[7]	
+1-5	31-42	Rathnauufer	*[7]	
+1-6	43-51	sicherer	_	
+1-7	52-61	gestalten	_	
+
+#Text=Der Fahrradweg an der Uferstraße im Innenstadtbereich (Brassertufer/Rathenauufer...) ist zu schmal, insbesondere zu stark frequentierten Zeiten, wenn viele Schüler und (meist schnell fahrende) Berufspendler in beiden Richtungen unterwegs sind.
+2-1	64-67	Der	*[8]	
+2-2	68-78	Fahrradweg	*[8]	
+2-3	79-81	an	*[8]	
+2-4	82-85	der	*[8]	
+2-5	86-96	Uferstraße	*[8]	
+2-6	97-99	im	*[8]	
+2-7	100-117	Innenstadtbereich	*[8]	
+2-8	118-119	(	*[8]	
+2-9	119-131	Brassertufer	*[8]	
+2-10	131-132	/	*[8]	
+2-11	132-144	Rathenauufer	*[8]	
+2-12	144-145	.	*[8]	
+2-13	145-146	.	*[8]	
+2-14	146-147	.	*[8]	
+2-15	147-148	)	*[8]	
+2-16	149-152	ist	_	
+2-17	153-155	zu	_	
+2-18	156-162	schmal	_	
+2-19	162-163	,	_	
+2-20	164-176	insbesondere	_	
+2-21	177-179	zu	_	
+2-22	180-185	stark	_	
+2-23	186-200	frequentierten	_	
+2-24	201-207	Zeiten	_	
+2-25	207-208	,	_	
+2-26	209-213	wenn	_	
+2-27	214-219	viele	_	
+2-28	220-227	Schüler	_	
+2-29	228-231	und	_	
+2-30	232-233	(	_	
+2-31	233-238	meist	_	
+2-32	239-246	schnell	_	
+2-33	247-255	fahrende	_	
+2-34	255-256	)	_	
+2-35	257-270	Berufspendler	_	
+2-36	271-273	in	_	
+2-37	274-280	beiden	_	
+2-38	281-291	Richtungen	_	
+2-39	292-301	unterwegs	_	
+2-40	302-306	sind	_	
+2-41	306-307	.	_	
+
+#Text=Durch Überholmanöver entstehen häufig gefährliche Situationen durch Gegenverkehr auf dem Radweg, da es keine Ausweichmöglichkeit gibt.
+3-1	308-313	Durch	_	
+3-2	314-328	Überholmanöver	_	
+3-3	329-338	entstehen	_	
+3-4	339-345	häufig	_	
+3-5	346-357	gefährliche	_	
+3-6	358-369	Situationen	_	
+3-7	370-375	durch	_	
+3-8	376-388	Gegenverkehr	_	
+3-9	389-392	auf	_	
+3-10	393-396	dem	_	
+3-11	397-403	Radweg	_	
+3-12	403-404	,	_	
+3-13	405-407	da	_	
+3-14	408-410	es	_	
+3-15	411-416	keine	_	
+3-16	417-436	Ausweichmöglichkeit	_	
+3-17	437-441	gibt	_	
+3-18	441-442	.	_	
+
+#Text=Dies gilt insbesondere, wenn auf der direkt angrenzenden Straße zusätzlich Autos in beiden Richtungen unterwegs sind.
+4-1	443-447	Dies	_	
+4-2	448-452	gilt	_	
+4-3	453-465	insbesondere	_	
+4-4	465-466	,	_	
+4-5	467-471	wenn	_	
+4-6	472-475	auf	_	
+4-7	476-479	der	_	
+4-8	480-486	direkt	_	
+4-9	487-499	angrenzenden	_	
+4-10	500-506	Straße	_	
+4-11	507-517	zusätzlich	_	
+4-12	518-523	Autos	_	
+4-13	524-526	in	_	
+4-14	527-533	beiden	_	
+4-15	534-544	Richtungen	_	
+4-16	545-554	unterwegs	_	
+4-17	555-559	sind	_	
+4-18	559-560	.	_	
+
+#Text=Dem Fahrradverkehr sollte im Bereich der Uferstraße mehr Platz eingeräumt werden und der Verkehr auf der Straße eingeschränkt werden, z.B. durch Einrichten einer Einbahn-, Anlieger- oder Fahrradstraße zumindest ab der Rheingasse Richtung Süden.
+5-1	561-564	Dem	_	
+5-2	565-579	Fahrradverkehr	_	
+5-3	580-586	sollte	_	
+5-4	587-589	im	_	
+5-5	590-597	Bereich	_	
+5-6	598-601	der	_	
+5-7	602-612	Uferstraße	*	
+5-8	613-617	mehr	_	
+5-9	618-623	Platz	_	
+5-10	624-634	eingeräumt	_	
+5-11	635-641	werden	_	
+5-12	642-645	und	_	
+5-13	646-649	der	_	
+5-14	650-657	Verkehr	_	
+5-15	658-661	auf	_	
+5-16	662-665	der	_	
+5-17	666-672	Straße	_	
+5-18	673-686	eingeschränkt	_	
+5-19	687-693	werden	_	
+5-20	693-694	,	_	
+5-21	695-698	z.B	_	
+5-22	698-699	.	_	
+5-23	700-705	durch	_	
+5-24	706-716	Einrichten	_	
+5-25	717-722	einer	_	
+5-26	723-730	Einbahn	_	
+5-27	730-731	-	_	
+5-28	731-732	,	_	
+5-29	733-741	Anlieger	_	
+5-30	741-742	-	_	
+5-31	743-747	oder	_	
+5-32	748-761	Fahrradstraße	_	
+5-33	762-771	zumindest	_	
+5-34	772-774	ab	*[9]	
+5-35	775-778	der	*[9]	
+5-36	779-789	Rheingasse	*[9]	
+5-37	790-798	Richtung	*[9]	
+5-38	799-804	Süden	*[9]	
+5-39	804-805	.	_	
+
+#Text=Vielleicht könnte dann der Radweg verbreitert oder ein Teil der Straße noch dem Fahrradverkehr zugesprochen werden.
+6-1	806-816	Vielleicht	_	
+6-2	817-823	könnte	_	
+6-3	824-828	dann	_	
+6-4	829-832	der	_	
+6-5	833-839	Radweg	_	
+6-6	840-851	verbreitert	_	
+6-7	852-856	oder	_	
+6-8	857-860	ein	_	
+6-9	861-865	Teil	_	
+6-10	866-869	der	_	
+6-11	870-876	Straße	_	
+6-12	877-881	noch	_	
+6-13	882-885	dem	_	
+6-14	886-900	Fahrradverkehr	_	
+6-15	901-913	zugesprochen	_	
+6-16	914-920	werden	_	
+6-17	920-921	.	_	

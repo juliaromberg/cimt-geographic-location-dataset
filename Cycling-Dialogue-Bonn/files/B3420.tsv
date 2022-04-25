@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=keine Verkehrsführung für Radfahrer
+1-1	0-5	keine	_	
+1-2	6-21	Verkehrsführung	_	
+1-3	22-25	für	_	
+1-4	26-35	Radfahrer	_	
+
+#Text=Von Königswinterer Str. kommend und die Kreuzung nach Niederkasseler Str überquerend gibt es keine Verkehrsführung.
+2-1	38-41	Von	*[6]	
+2-2	42-56	Königswinterer	*[6]	
+2-3	57-60	Str	*[6]	
+2-4	60-61	.	*[6]	
+2-5	62-69	kommend	*[6]	
+2-6	70-73	und	*[6]	
+2-7	74-77	die	*[6]	
+2-8	78-86	Kreuzung	*[6]	
+2-9	87-91	nach	*[6]	
+2-10	92-106	Niederkasseler	*[6]	
+2-11	107-110	Str	*[6]	
+2-12	111-122	überquerend	*[6]	
+2-13	123-127	gibt	_	
+2-14	128-130	es	_	
+2-15	131-136	keine	_	
+2-16	137-152	Verkehrsführung	_	
+2-17	152-153	.	_	
+
+#Text=Davor gibt es keinen Radweg, man fährt auf der Straße.
+3-1	154-159	Davor	_	
+3-2	160-164	gibt	_	
+3-3	165-167	es	_	
+3-4	168-174	keinen	_	
+3-5	175-181	Radweg	_	
+3-6	181-182	,	_	
+3-7	183-186	man	_	
+3-8	187-192	fährt	_	
+3-9	193-196	auf	_	
+3-10	197-200	der	_	
+3-11	201-207	Straße	_	
+3-12	207-208	.	_	
+
+#Text=Nach der Kreuzung gibt es einen kombinierten Fuß/Radweg mit hohem Bordstein.
+4-1	209-213	Nach	_	
+4-2	214-217	der	_	
+4-3	218-226	Kreuzung	_	
+4-4	227-231	gibt	_	
+4-5	232-234	es	_	
+4-6	235-240	einen	_	
+4-7	241-253	kombinierten	_	
+4-8	254-257	Fuß	_	
+4-9	257-258	/	_	
+4-10	258-264	Radweg	_	
+4-11	265-268	mit	_	
+4-12	269-274	hohem	_	
+4-13	275-284	Bordstein	_	
+4-14	284-285	.	_	
+
+#Text=Es gibt keine Überführung vor, auf oder hinter der Kreuzung.
+5-1	286-288	Es	_	
+5-2	289-293	gibt	_	
+5-3	294-299	keine	_	
+5-4	300-311	Überführung	_	
+5-5	312-315	vor	_	
+5-6	315-316	,	_	
+5-7	317-320	auf	_	
+5-8	321-325	oder	_	
+5-9	326-332	hinter	_	
+5-10	333-336	der	_	
+5-11	337-345	Kreuzung	_	
+5-12	345-346	.	_	

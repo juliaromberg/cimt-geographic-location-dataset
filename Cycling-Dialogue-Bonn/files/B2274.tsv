@@ -1,0 +1,47 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Eine Spur für Radfahrer
+1-1	0-4	Eine	_	
+1-2	5-9	Spur	_	
+1-3	10-13	für	_	
+1-4	14-23	Radfahrer	_	
+
+#Text=Die Radspur an der Kölnstrasse ist viel zu eng und wird gezwungenermaßen regelmässig von Autos blockiert.
+2-1	26-29	Die	*[4]	
+2-2	30-37	Radspur	*[4]	
+2-3	38-40	an	*[4]	
+2-4	41-44	der	*[4]	
+2-5	45-56	Kölnstrasse	*[4]	
+2-6	57-60	ist	_	
+2-7	61-65	viel	_	
+2-8	66-68	zu	_	
+2-9	69-72	eng	_	
+2-10	73-76	und	_	
+2-11	77-81	wird	_	
+2-12	82-98	gezwungenermaßen	_	
+2-13	99-110	regelmässig	_	
+2-14	111-114	von	_	
+2-15	115-120	Autos	_	
+2-16	121-130	blockiert	_	
+2-17	130-131	.	_	
+
+#Text=Ideal wäre eine kleine Radspur die in beide Richtungen führt, nach holländischem Vorbild.
+3-1	132-137	Ideal	_	
+3-2	138-142	wäre	_	
+3-3	143-147	eine	_	
+3-4	148-154	kleine	_	
+3-5	155-162	Radspur	_	
+3-6	163-166	die	_	
+3-7	167-169	in	_	
+3-8	170-175	beide	_	
+3-9	176-186	Richtungen	_	
+3-10	187-192	führt	_	
+3-11	192-193	,	_	
+3-12	194-198	nach	_	
+3-13	199-212	holländischem	_	
+3-14	213-220	Vorbild	_	
+3-15	220-221	.	_	

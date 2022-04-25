@@ -1,0 +1,81 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlechter Zustand des Radwegs
+1-1	0-10	Schlechter	_	
+1-2	11-18	Zustand	_	
+1-3	19-22	des	_	
+1-4	23-30	Radwegs	_	
+
+#Text=Der Radweg entlang der Niederkasseler Straße ist durch Wurzeln sehr beschädigt, sodass man lieber einen Umweg fährt, als diesen Radweg zu benutzen.
+2-1	33-36	Der	*[5]	
+2-2	37-43	Radweg	*[5]	
+2-3	44-51	entlang	*[5]	
+2-4	52-55	der	*[5]	
+2-5	56-70	Niederkasseler	*[5]	
+2-6	71-77	Straße	*[5]	
+2-7	78-81	ist	_	
+2-8	82-87	durch	_	
+2-9	88-95	Wurzeln	_	
+2-10	96-100	sehr	_	
+2-11	101-111	beschädigt	_	
+2-12	111-112	,	_	
+2-13	113-119	sodass	_	
+2-14	120-123	man	_	
+2-15	124-130	lieber	_	
+2-16	131-136	einen	_	
+2-17	137-142	Umweg	_	
+2-18	143-148	fährt	_	
+2-19	148-149	,	_	
+2-20	150-153	als	_	
+2-21	154-160	diesen	_	
+2-22	161-167	Radweg	_	
+2-23	168-170	zu	_	
+2-24	171-179	benutzen	_	
+2-25	179-180	.	_	
+
+#Text=Das Schild Achtung! Straßenschäden, das an der Kreuzung Stiftstraße steht, behebt das Problem nicht wirklich.
+3-1	181-184	Das	_	
+3-2	185-191	Schild	_	
+3-3	192-199	Achtung	_	
+3-4	199-200	!	_	
+3-5	201-215	Straßenschäden	_	
+3-6	215-216	,	_	
+3-7	217-220	das	_	
+3-8	221-223	an	*[6]	
+3-9	224-227	der	*[6]	
+3-10	228-236	Kreuzung	*[6]	
+3-11	237-248	Stiftstraße	*[6]	
+3-12	249-254	steht	_	
+3-13	254-255	,	_	
+3-14	256-262	behebt	_	
+3-15	263-266	das	_	
+3-16	267-274	Problem	_	
+3-17	275-280	nicht	_	
+3-18	281-289	wirklich	_	
+3-19	289-290	.	_	
+
+#Text=Es wäre schön, wenn der Radweg eine ordentliche Oberfläche hätte (wie beispielsweise die Autostraße direkt daneben).
+4-1	291-293	Es	_	
+4-2	294-298	wäre	_	
+4-3	299-304	schön	_	
+4-4	304-305	,	_	
+4-5	306-310	wenn	_	
+4-6	311-314	der	_	
+4-7	315-321	Radweg	_	
+4-8	322-326	eine	_	
+4-9	327-338	ordentliche	_	
+4-10	339-349	Oberfläche	_	
+4-11	350-355	hätte	_	
+4-12	356-357	(	_	
+4-13	357-360	wie	_	
+4-14	361-375	beispielsweise	_	
+4-15	376-379	die	_	
+4-16	380-390	Autostraße	_	
+4-17	391-397	direkt	_	
+4-18	398-405	daneben	_	
+4-19	405-406	)	_	
+4-20	406-407	.	_	

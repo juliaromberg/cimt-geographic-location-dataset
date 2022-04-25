@@ -1,0 +1,26 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg zugeparkt
+1-1	0-6	Radweg	_	
+1-2	7-16	zugeparkt	_	
+
+#Text=Auf Höhe des Kindergartens und weiter Richtung Lotharstraße wird sehr oft der Radweg zugeparkt.
+2-1	19-22	Auf	_	
+2-2	23-27	Höhe	_	
+2-3	28-31	des	_	
+2-4	32-45	Kindergartens	_	
+2-5	46-49	und	_	
+2-6	50-56	weiter	_	
+2-7	57-65	Richtung	*[3]	
+2-8	66-78	Lotharstraße	*[3]	
+2-9	79-83	wird	_	
+2-10	84-88	sehr	_	
+2-11	89-92	oft	_	
+2-12	93-96	der	_	
+2-13	97-103	Radweg	_	
+2-14	104-113	zugeparkt	_	
+2-15	113-114	.	_	

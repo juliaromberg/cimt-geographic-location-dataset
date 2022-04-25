@@ -1,0 +1,188 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=90 % des Verkehrsraumes für Autos reserviert
+1-1	0-2	90	_	
+1-2	3-4	%	_	
+1-3	5-8	des	_	
+1-4	9-23	Verkehrsraumes	_	
+1-5	24-27	für	_	
+1-6	28-33	Autos	_	
+1-7	34-44	reserviert	_	
+
+#Text=Die Dorotheenstr. zwischen zwischen Adolfstr. und Kaiser-Karl-Ring ist für Radfahrer nicht vernünftig zu befahren.
+2-1	47-50	Die	_	
+2-2	51-63	Dorotheenstr	_	
+2-3	63-64	.	_	
+2-4	65-73	zwischen	_	
+2-5	74-82	zwischen	_	
+2-6	83-91	Adolfstr	_	
+2-7	91-92	.	_	
+2-8	93-96	und	_	
+2-9	97-113	Kaiser-Karl-Ring	_	
+2-10	114-117	ist	_	
+2-11	118-121	für	_	
+2-12	122-131	Radfahrer	_	
+2-13	132-137	nicht	_	
+2-14	138-148	vernünftig	_	
+2-15	149-151	zu	_	
+2-16	152-160	befahren	_	
+2-17	160-161	.	_	
+
+#Text=Fast der gesamte Verkehrsraum ist für Autos reserviert.
+3-1	162-166	Fast	_	
+3-2	167-170	der	_	
+3-3	171-178	gesamte	_	
+3-4	179-191	Verkehrsraum	_	
+3-5	192-195	ist	_	
+3-6	196-199	für	_	
+3-7	200-205	Autos	_	
+3-8	206-216	reserviert	_	
+3-9	216-217	.	_	
+
+#Text=Auf der linken Seite ist der Bürgersteig zu zwei Dritteln in Parkfläche umgewandelt, und auf der rechten Seite können die Autos schräg einparken und belegen so auch nochmal fast zwei Fahrstreifen.
+4-1	218-221	Auf	_	
+4-2	222-225	der	_	
+4-3	226-232	linken	_	
+4-4	233-238	Seite	_	
+4-5	239-242	ist	_	
+4-6	243-246	der	_	
+4-7	247-258	Bürgersteig	_	
+4-8	259-261	zu	_	
+4-9	262-266	zwei	_	
+4-10	267-275	Dritteln	_	
+4-11	276-278	in	_	
+4-12	279-289	Parkfläche	_	
+4-13	290-301	umgewandelt	_	
+4-14	301-302	,	_	
+4-15	303-306	und	_	
+4-16	307-310	auf	_	
+4-17	311-314	der	_	
+4-18	315-322	rechten	_	
+4-19	323-328	Seite	_	
+4-20	329-335	können	_	
+4-21	336-339	die	_	
+4-22	340-345	Autos	_	
+4-23	346-352	schräg	_	
+4-24	353-362	einparken	_	
+4-25	363-366	und	_	
+4-26	367-374	belegen	_	
+4-27	375-377	so	_	
+4-28	378-382	auch	_	
+4-29	383-390	nochmal	_	
+4-30	391-395	fast	_	
+4-31	396-400	zwei	_	
+4-32	401-413	Fahrstreifen	_	
+4-33	413-414	.	_	
+
+#Text=Im Grunde werden also VIER Spuren von parkenden und fahrenden Autos belegt, den restlichen Platz dürfen sich Fahrräder und Fußgänger teilen.
+5-1	415-417	Im	_	
+5-2	418-424	Grunde	_	
+5-3	425-431	werden	_	
+5-4	432-436	also	_	
+5-5	437-441	VIER	_	
+5-6	442-448	Spuren	_	
+5-7	449-452	von	_	
+5-8	453-462	parkenden	_	
+5-9	463-466	und	_	
+5-10	467-476	fahrenden	_	
+5-11	477-482	Autos	_	
+5-12	483-489	belegt	_	
+5-13	489-490	,	_	
+5-14	491-494	den	_	
+5-15	495-505	restlichen	_	
+5-16	506-511	Platz	_	
+5-17	512-518	dürfen	_	
+5-18	519-523	sich	_	
+5-19	524-533	Fahrräder	_	
+5-20	534-537	und	_	
+5-21	538-547	Fußgänger	_	
+5-22	548-554	teilen	_	
+5-23	554-555	.	_	
+
+#Text=Die Radweg-führung ist eine Katastrophe.
+6-1	556-559	Die	_	
+6-2	560-574	Radweg-führung	_	
+6-3	575-578	ist	_	
+6-4	579-583	eine	_	
+6-5	584-595	Katastrophe	_	
+6-6	595-596	.	_	
+
+#Text=Fußgänger die auf der linken Seite (links Ri. Ring) zwischen den parkenden Autos hervortreten, rechnen nicht mit plötzlich kommende Fahrrädern von links und können sie bei den ganzen parkenden SUVs und Lieferwagen auch oft gar nicht kommen sehen.
+7-1	597-606	Fußgänger	_	
+7-2	607-610	die	_	
+7-3	611-614	auf	_	
+7-4	615-618	der	_	
+7-5	619-625	linken	_	
+7-6	626-631	Seite	_	
+7-7	632-633	(	_	
+7-8	633-638	links	_	
+7-9	639-641	Ri	_	
+7-10	641-642	.	_	
+7-11	643-647	Ring	_	
+7-12	647-648	)	_	
+7-13	649-657	zwischen	_	
+7-14	658-661	den	_	
+7-15	662-671	parkenden	_	
+7-16	672-677	Autos	_	
+7-17	678-690	hervortreten	_	
+7-18	690-691	,	_	
+7-19	692-699	rechnen	_	
+7-20	700-705	nicht	_	
+7-21	706-709	mit	_	
+7-22	710-719	plötzlich	_	
+7-23	720-728	kommende	_	
+7-24	729-739	Fahrrädern	_	
+7-25	740-743	von	_	
+7-26	744-749	links	_	
+7-27	750-753	und	_	
+7-28	754-760	können	_	
+7-29	761-764	sie	_	
+7-30	765-768	bei	_	
+7-31	769-772	den	_	
+7-32	773-779	ganzen	_	
+7-33	780-789	parkenden	_	
+7-34	790-794	SUVs	_	
+7-35	795-798	und	_	
+7-36	799-810	Lieferwagen	_	
+7-37	811-815	auch	_	
+7-38	816-819	oft	_	
+7-39	820-823	gar	_	
+7-40	824-829	nicht	_	
+7-41	830-836	kommen	_	
+7-42	837-842	sehen	_	
+7-43	842-843	.	_	
+
+#Text=Von der Ampel Adolfstr./Dorotheenstr. kommen die Autos außerdem alle erstmal mit hoher Beschleunigung angerast, weil die erste Bodenschwelle erst viel weiter hinten kommt.
+8-1	844-847	Von	_	
+8-2	848-851	der	_	
+8-3	852-857	Ampel	_	
+8-4	858-866	Adolfstr	_	
+8-5	866-867	.	_	
+8-6	867-868	/	_	
+8-7	868-880	Dorotheenstr	_	
+8-8	880-881	.	_	
+8-9	882-888	kommen	_	
+8-10	889-892	die	_	
+8-11	893-898	Autos	_	
+8-12	899-907	außerdem	_	
+8-13	908-912	alle	_	
+8-14	913-920	erstmal	_	
+8-15	921-924	mit	_	
+8-16	925-930	hoher	_	
+8-17	931-945	Beschleunigung	_	
+8-18	946-954	angerast	_	
+8-19	954-955	,	_	
+8-20	956-960	weil	_	
+8-21	961-964	die	_	
+8-22	965-970	erste	_	
+8-23	971-984	Bodenschwelle	_	
+8-24	985-989	erst	_	
+8-25	990-994	viel	_	
+8-26	995-1001	weiter	_	
+8-27	1002-1008	hinten	_	
+8-28	1009-1014	kommt	_	
+8-29	1014-1015	.	_	

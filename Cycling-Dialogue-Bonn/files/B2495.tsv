@@ -1,0 +1,29 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Pollen längs der B9
+1-1	0-6	Pollen	_	
+1-2	7-12	längs	*[3]	
+1-3	13-16	der	*[3]	
+1-4	17-19	B9	*[3]	
+
+#Text=Hier und an allen weiteren Einmündungen zur B9 stellen zu eng gestellte Poller eine Unfallgefahr dar
+2-1	22-26	Hier	_	
+2-2	27-30	und	_	
+2-3	31-33	an	_	
+2-4	34-39	allen	_	
+2-5	40-48	weiteren	_	
+2-6	49-61	Einmündungen	*[4]	
+2-7	62-65	zur	*[4]	
+2-8	66-68	B9	*[4]	
+2-9	69-76	stellen	_	
+2-10	77-79	zu	_	
+2-11	80-83	eng	_	
+2-12	84-93	gestellte	_	
+2-13	94-100	Poller	_	
+2-14	101-105	eine	_	
+2-15	106-118	Unfallgefahr	_	
+2-16	119-122	dar	_	

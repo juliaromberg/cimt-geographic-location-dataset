@@ -1,0 +1,93 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Markierung nicht eindeutig
+1-1	0-10	Markierung	_	
+1-2	11-16	nicht	_	
+1-3	17-26	eindeutig	_	
+
+#Text=Die Markierug des Radwegs ist auf der Maxstraße zwischen Weiherstraße und Berliner Paltz nicht eindeutig.
+2-1	29-32	Die	_	
+2-2	33-42	Markierug	_	
+2-3	43-46	des	_	
+2-4	47-54	Radwegs	_	
+2-5	55-58	ist	_	
+2-6	59-62	auf	*[6]	
+2-7	63-66	der	*[6]	
+2-8	67-76	Maxstraße	*[6]	
+2-9	77-85	zwischen	*[6]	
+2-10	86-98	Weiherstraße	*[6]	
+2-11	99-102	und	*[6]	
+2-12	103-111	Berliner	*[6]	
+2-13	112-117	Paltz	*[6]	
+2-14	118-123	nicht	_	
+2-15	124-133	eindeutig	_	
+2-16	133-134	.	_	
+
+#Text=In Richtung Weiherstraße ist das Befahren des seperaten Radwegs nicht gesattet.
+3-1	135-137	In	*[7]	
+3-2	138-146	Richtung	*[7]	
+3-3	147-159	Weiherstraße	*[7]	
+3-4	160-163	ist	_	
+3-5	164-167	das	_	
+3-6	168-176	Befahren	_	
+3-7	177-180	des	_	
+3-8	181-190	seperaten	_	
+3-9	191-198	Radwegs	_	
+3-10	199-204	nicht	_	
+3-11	205-213	gesattet	_	
+3-12	213-214	.	_	
+
+#Text=Dennoch kommt es häufig vor, dass Radfahrer den Weg in diese Richtung benutzen obwohl das Befahren der Straße hier unproblematisch ist.
+4-1	215-222	Dennoch	_	
+4-2	223-228	kommt	_	
+4-3	229-231	es	_	
+4-4	232-238	häufig	_	
+4-5	239-242	vor	_	
+4-6	242-243	,	_	
+4-7	244-248	dass	_	
+4-8	249-258	Radfahrer	_	
+4-9	259-262	den	_	
+4-10	263-266	Weg	_	
+4-11	267-269	in	_	
+4-12	270-275	diese	_	
+4-13	276-284	Richtung	_	
+4-14	285-293	benutzen	_	
+4-15	294-300	obwohl	_	
+4-16	301-304	das	_	
+4-17	305-313	Befahren	_	
+4-18	314-317	der	_	
+4-19	318-324	Straße	_	
+4-20	325-329	hier	_	
+4-21	330-345	unproblematisch	_	
+4-22	346-349	ist	_	
+4-23	349-350	.	_	
+
+#Text=Eine eindeutige Markierung des Radwegs (direkt ab Berliner Platz auch Markierungen auf der Straße in Richtung Weiherstraße) könnte hier Abhilfe schaffen.
+5-1	351-355	Eine	_	
+5-2	356-366	eindeutige	_	
+5-3	367-377	Markierung	_	
+5-4	378-381	des	_	
+5-5	382-389	Radwegs	_	
+5-6	390-391	(	_	
+5-7	391-397	direkt	_	
+5-8	398-400	ab	*[8]	
+5-9	401-409	Berliner	*[8]	
+5-10	410-415	Platz	*[8]	
+5-11	416-420	auch	_	
+5-12	421-433	Markierungen	_	
+5-13	434-437	auf	_	
+5-14	438-441	der	_	
+5-15	442-448	Straße	_	
+5-16	449-451	in	*[9]	
+5-17	452-460	Richtung	*[9]	
+5-18	461-473	Weiherstraße	*[9]	
+5-19	473-474	)	_	
+5-20	475-481	könnte	_	
+5-21	482-486	hier	_	
+5-22	487-494	Abhilfe	_	
+5-23	495-503	schaffen	_	
+5-24	503-504	.	_	

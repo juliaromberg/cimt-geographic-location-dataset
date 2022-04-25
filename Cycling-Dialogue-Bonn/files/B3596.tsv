@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Benutzungspflicht aufheben
+1-1	0-17	Benutzungspflicht	_	
+1-2	18-26	aufheben	_	
+
+#Text=Die Radwege entlang der Königswinterer Straße sind zum einen in einem teilweise sehr schlechten Zustand und oftmals zugeparkt.
+2-1	29-32	Die	*[4]	
+2-2	33-40	Radwege	*[4]	
+2-3	41-48	entlang	*[4]	
+2-4	49-52	der	*[4]	
+2-5	53-67	Königswinterer	*[4]	
+2-6	68-74	Straße	*[4]	
+2-7	75-79	sind	_	
+2-8	80-83	zum	_	
+2-9	84-89	einen	_	
+2-10	90-92	in	_	
+2-11	93-98	einem	_	
+2-12	99-108	teilweise	_	
+2-13	109-113	sehr	_	
+2-14	114-124	schlechten	_	
+2-15	125-132	Zustand	_	
+2-16	133-136	und	_	
+2-17	137-144	oftmals	_	
+2-18	145-154	zugeparkt	_	
+2-19	154-155	.	_	
+
+#Text=Deshalb sollte man die Pflicht zur Benutzung der Radwege durchgängig aufheben und durch einen Schutzstreifen auf der Fahrbahn ersetzten.
+3-1	156-163	Deshalb	_	
+3-2	164-170	sollte	_	
+3-3	171-174	man	_	
+3-4	175-178	die	_	
+3-5	179-186	Pflicht	_	
+3-6	187-190	zur	_	
+3-7	191-200	Benutzung	_	
+3-8	201-204	der	_	
+3-9	205-212	Radwege	_	
+3-10	213-224	durchgängig	_	
+3-11	225-233	aufheben	_	
+3-12	234-237	und	_	
+3-13	238-243	durch	_	
+3-14	244-249	einen	_	
+3-15	250-264	Schutzstreifen	_	
+3-16	265-268	auf	_	
+3-17	269-272	der	_	
+3-18	273-281	Fahrbahn	_	
+3-19	282-291	ersetzten	_	
+3-20	291-292	.	_	

@@ -1,0 +1,19 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vorfahrtregelung zugunsten der Fahrradstraße ändern
+1-1	0-16	Vorfahrtregelung	_	
+1-2	17-26	zugunsten	_	
+1-3	27-30	der	_	
+1-4	31-44	Fahrradstraße	_	
+1-5	45-51	ändern	_	
+
+#Text=Vorfahrtregelung zugunsten der Fahrradstraße ändern
+2-1	54-70	Vorfahrtregelung	_	
+2-2	71-80	zugunsten	_	
+2-3	81-84	der	_	
+2-4	85-98	Fahrradstraße	_	
+2-5	99-105	ändern	_	

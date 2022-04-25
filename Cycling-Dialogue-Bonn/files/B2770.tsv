@@ -1,0 +1,176 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rechte Abbiegespur für Fahradfahrer/innen auf Kennedybrücke schaffen
+1-1	0-6	Rechte	_	
+1-2	7-18	Abbiegespur	_	
+1-3	19-22	für	_	
+1-4	23-35	Fahradfahrer	_	
+1-5	35-36	/	_	
+1-6	36-41	innen	_	
+1-7	42-45	auf	*[8]	
+1-8	46-59	Kennedybrücke	*[8]	
+1-9	60-68	schaffen	_	
+
+#Text=Für Fahrradfahrer/innen, die aus der Prof.-Neu-Allee kommen und auf die Kennedybrücke Richtung Bonn-Zentrum nach rechts abbiegen möchten, gilt wie für alle Verkehrsteilnehmer/innen das Stopp-Schild vor Zebrastreifen und Radweg.
+2-1	71-74	Für	_	
+2-2	75-88	Fahrradfahrer	_	
+2-3	88-89	/	_	
+2-4	89-94	innen	_	
+2-5	94-95	,	_	
+2-6	96-99	die	_	
+2-7	100-103	aus	*[9]	
+2-8	104-107	der	*[9]	
+2-9	108-112	Prof	*[9]	
+2-10	112-113	.	*[9]	
+2-11	113-114	-	*[9]	
+2-12	114-123	Neu-Allee	*[9]	
+2-13	124-130	kommen	*[9]	
+2-14	131-134	und	*[9]	
+2-15	135-138	auf	*[9]	
+2-16	139-142	die	*[9]	
+2-17	143-156	Kennedybrücke	*[9]	
+2-18	157-165	Richtung	*[9]	
+2-19	166-178	Bonn-Zentrum	*[9]	
+2-20	179-183	nach	*[9]	
+2-21	184-190	rechts	*[9]	
+2-22	191-199	abbiegen	*[9]	
+2-23	200-207	möchten	_	
+2-24	207-208	,	_	
+2-25	209-213	gilt	_	
+2-26	214-217	wie	_	
+2-27	218-221	für	_	
+2-28	222-226	alle	_	
+2-29	227-245	Verkehrsteilnehmer	_	
+2-30	245-246	/	_	
+2-31	246-251	innen	_	
+2-32	252-255	das	_	
+2-33	256-268	Stopp-Schild	_	
+2-34	269-272	vor	_	
+2-35	273-286	Zebrastreifen	_	
+2-36	287-290	und	_	
+2-37	291-297	Radweg	_	
+2-38	297-298	.	_	
+
+#Text=Radfahrer/innen und Fußgänger/innen kommen hier aus verschiedenen Richtungen, sodass die Beschilderung aus Sicherheitsgründen für Autofahrer/innen sinnvoll ist.
+3-1	299-308	Radfahrer	_	
+3-2	308-309	/	_	
+3-3	309-314	innen	_	
+3-4	315-318	und	_	
+3-5	319-328	Fußgänger	_	
+3-6	328-329	/	_	
+3-7	329-334	innen	_	
+3-8	335-341	kommen	_	
+3-9	342-346	hier	_	
+3-10	347-350	aus	_	
+3-11	351-364	verschiedenen	_	
+3-12	365-375	Richtungen	_	
+3-13	375-376	,	_	
+3-14	377-383	sodass	_	
+3-15	384-387	die	_	
+3-16	388-401	Beschilderung	_	
+3-17	402-405	aus	_	
+3-18	406-424	Sicherheitsgründen	_	
+3-19	425-428	für	_	
+3-20	429-439	Autofahrer	_	
+3-21	439-440	/	_	
+3-22	440-445	innen	_	
+3-23	446-454	sinnvoll	_	
+3-24	455-458	ist	_	
+3-25	458-459	.	_	
+
+#Text=Für die Gruppe der rechtsabbiegenden Fahrradfahrer/innen ist das Schild schlicht störend.
+4-1	460-463	Für	_	
+4-2	464-467	die	_	
+4-3	468-474	Gruppe	_	
+4-4	475-478	der	_	
+4-5	479-496	rechtsabbiegenden	_	
+4-6	497-510	Fahrradfahrer	_	
+4-7	510-511	/	_	
+4-8	511-516	innen	_	
+4-9	517-520	ist	_	
+4-10	521-524	das	_	
+4-11	525-531	Schild	_	
+4-12	532-540	schlicht	_	
+4-13	541-548	störend	_	
+4-14	548-549	.	_	
+
+#Text=Selbst ein Polizeibeamter sagte bei einer Kontrolle hierzu: Sie müssen nicht absteigen.
+5-1	550-556	Selbst	_	
+5-2	557-560	ein	_	
+5-3	561-575	Polizeibeamter	_	
+5-4	576-581	sagte	_	
+5-5	582-585	bei	_	
+5-6	586-591	einer	_	
+5-7	592-601	Kontrolle	_	
+5-8	602-608	hierzu	_	
+5-9	608-609	:	_	
+5-10	610-613	Sie	_	
+5-11	614-620	müssen	_	
+5-12	621-626	nicht	_	
+5-13	627-636	absteigen	_	
+5-14	636-637	.	_	
+
+#Text=Schauen Sie nach rechts und links und fahren Sie nicht mit überhöhtem Tempo.
+6-1	638-645	Schauen	_	
+6-2	646-649	Sie	_	
+6-3	650-654	nach	_	
+6-4	655-661	rechts	_	
+6-5	662-665	und	_	
+6-6	666-671	links	_	
+6-7	672-675	und	_	
+6-8	676-682	fahren	_	
+6-9	683-686	Sie	_	
+6-10	687-692	nicht	_	
+6-11	693-696	mit	_	
+6-12	697-707	überhöhtem	_	
+6-13	708-713	Tempo	_	
+6-14	713-714	.	_	
+
+#Text=Ich schlage vor, für die rechtsabbiegenden Fahrradfahrer/innen bereits vorgezogen eine baulich abgetrennte Möglichkeit zu schaffen, sich auf einer Spur rechts einzuordnen und, ohne formal einen Verkehrsverstoß zu begehen, mit ein wenig Schwung auf die Kennedybrücke aufzufahren.
+7-1	715-718	Ich	_	
+7-2	719-726	schlage	_	
+7-3	727-730	vor	_	
+7-4	730-731	,	_	
+7-5	732-735	für	_	
+7-6	736-739	die	_	
+7-7	740-757	rechtsabbiegenden	_	
+7-8	758-771	Fahrradfahrer	_	
+7-9	771-772	/	_	
+7-10	772-777	innen	_	
+7-11	778-785	bereits	_	
+7-12	786-796	vorgezogen	_	
+7-13	797-801	eine	_	
+7-14	802-809	baulich	_	
+7-15	810-821	abgetrennte	_	
+7-16	822-833	Möglichkeit	_	
+7-17	834-836	zu	_	
+7-18	837-845	schaffen	_	
+7-19	845-846	,	_	
+7-20	847-851	sich	_	
+7-21	852-855	auf	_	
+7-22	856-861	einer	_	
+7-23	862-866	Spur	_	
+7-24	867-873	rechts	_	
+7-25	874-885	einzuordnen	_	
+7-26	886-889	und	_	
+7-27	889-890	,	_	
+7-28	891-895	ohne	_	
+7-29	896-902	formal	_	
+7-30	903-908	einen	_	
+7-31	909-924	Verkehrsverstoß	_	
+7-32	925-927	zu	_	
+7-33	928-935	begehen	_	
+7-34	935-936	,	_	
+7-35	937-940	mit	_	
+7-36	941-944	ein	_	
+7-37	945-950	wenig	_	
+7-38	951-958	Schwung	_	
+7-39	959-962	auf	*[10]	
+7-40	963-966	die	*[10]	
+7-41	967-980	Kennedybrücke	*[10]	
+7-42	981-992	aufzufahren	_	
+7-43	992-993	.	_	

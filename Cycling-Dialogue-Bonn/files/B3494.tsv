@@ -1,0 +1,35 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hauptbahnhof
+1-1	0-12	Hauptbahnhof	*	
+
+#Text=Es fehlt ein Radweg am Hbf Richtung Kaiserstraße.
+2-1	15-17	Es	_	
+2-2	18-23	fehlt	_	
+2-3	24-27	ein	_	
+2-4	28-34	Radweg	_	
+2-5	35-37	am	*[3]	
+2-6	38-41	Hbf	*[3]	
+2-7	42-50	Richtung	*[3]	
+2-8	51-63	Kaiserstraße	*[3]	
+2-9	63-64	.	_	
+
+#Text=Über den Busbahnhof kommt man legal und fahrend nur in entgegen gesetzter Richtung.
+3-1	65-69	Über	_	
+3-2	70-73	den	_	
+3-3	74-84	Busbahnhof	*	
+3-4	85-90	kommt	_	
+3-5	91-94	man	_	
+3-6	95-100	legal	_	
+3-7	101-104	und	_	
+3-8	105-112	fahrend	_	
+3-9	113-116	nur	_	
+3-10	117-119	in	_	
+3-11	120-128	entgegen	_	
+3-12	129-138	gesetzter	_	
+3-13	139-147	Richtung	_	
+3-14	147-148	.	_	

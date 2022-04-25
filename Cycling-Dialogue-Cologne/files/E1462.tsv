@@ -1,0 +1,70 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zugeparkter Radweg
+1-1	0-11	Zugeparkter	_	
+1-2	12-18	Radweg	_	
+
+#Text=Hier stehen beinahe durchgehend PKW halb auf dem Gehweg und halb auf dem Radweg, wodurch man auf die Fahrbahn ausweichen muss, da man sonst mit dem Lenker gegen die Außenspiegel kommen würde.
+2-1	21-25	Hier	_	
+2-2	26-32	stehen	_	
+2-3	33-40	beinahe	_	
+2-4	41-52	durchgehend	_	
+2-5	53-56	PKW	_	
+2-6	57-61	halb	_	
+2-7	62-65	auf	_	
+2-8	66-69	dem	_	
+2-9	70-76	Gehweg	_	
+2-10	77-80	und	_	
+2-11	81-85	halb	_	
+2-12	86-89	auf	_	
+2-13	90-93	dem	_	
+2-14	94-100	Radweg	_	
+2-15	100-101	,	_	
+2-16	102-109	wodurch	_	
+2-17	110-113	man	_	
+2-18	114-117	auf	_	
+2-19	118-121	die	_	
+2-20	122-130	Fahrbahn	_	
+2-21	131-141	ausweichen	_	
+2-22	142-146	muss	_	
+2-23	146-147	,	_	
+2-24	148-150	da	_	
+2-25	151-154	man	_	
+2-26	155-160	sonst	_	
+2-27	161-164	mit	_	
+2-28	165-168	dem	_	
+2-29	169-175	Lenker	_	
+2-30	176-181	gegen	_	
+2-31	182-185	die	_	
+2-32	186-198	Außenspiegel	_	
+2-33	199-205	kommen	_	
+2-34	206-211	würde	_	
+2-35	211-212	.	_	
+
+#Text=Eine unfassbar gefährliche Stelle.
+3-1	213-217	Eine	_	
+3-2	218-227	unfassbar	_	
+3-3	228-239	gefährliche	_	
+3-4	240-246	Stelle	_	
+3-5	246-247	.	_	
+
+#Text=Der Radweg muss dort entweder verbreitert werden, oder ein absolutes Halteverbot DURCHGESETZT werden.
+4-1	248-251	Der	_	
+4-2	252-258	Radweg	_	
+4-3	259-263	muss	_	
+4-4	264-268	dort	_	
+4-5	269-277	entweder	_	
+4-6	278-289	verbreitert	_	
+4-7	290-296	werden	_	
+4-8	296-297	,	_	
+4-9	298-302	oder	_	
+4-10	303-306	ein	_	
+4-11	307-316	absolutes	_	
+4-12	317-328	Halteverbot	_	
+4-13	329-341	DURCHGESETZT	_	
+4-14	342-348	werden	_	
+4-15	348-349	.	_	

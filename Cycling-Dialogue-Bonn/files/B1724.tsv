@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg Kaiserstraße
+1-1	0-6	Radweg	_	
+1-2	7-19	Kaiserstraße	*	
+
+#Text=Der Radweg, oft keine zwei Meter breit, in beide Richtungen zu nutzen und freigegeben für Fußgänger, ist zu schmal.
+2-1	22-25	Der	_	
+2-2	26-32	Radweg	_	
+2-3	32-33	,	_	
+2-4	34-37	oft	_	
+2-5	38-43	keine	_	
+2-6	44-48	zwei	_	
+2-7	49-54	Meter	_	
+2-8	55-60	breit	_	
+2-9	60-61	,	_	
+2-10	62-64	in	_	
+2-11	65-70	beide	_	
+2-12	71-81	Richtungen	_	
+2-13	82-84	zu	_	
+2-14	85-91	nutzen	_	
+2-15	92-95	und	_	
+2-16	96-107	freigegeben	_	
+2-17	108-111	für	_	
+2-18	112-121	Fußgänger	_	
+2-19	121-122	,	_	
+2-20	123-126	ist	_	
+2-21	127-129	zu	_	
+2-22	130-136	schmal	_	
+2-23	136-137	.	_	
+
+#Text=Der Radweg sollte nur in eine Richtung befahren werden und für Fußgänger nicht freigegeben sein.
+3-1	138-141	Der	_	
+3-2	142-148	Radweg	_	
+3-3	149-155	sollte	_	
+3-4	156-159	nur	_	
+3-5	160-162	in	_	
+3-6	163-167	eine	_	
+3-7	168-176	Richtung	_	
+3-8	177-185	befahren	_	
+3-9	186-192	werden	_	
+3-10	193-196	und	_	
+3-11	197-200	für	_	
+3-12	201-210	Fußgänger	_	
+3-13	211-216	nicht	_	
+3-14	217-228	freigegeben	_	
+3-15	229-233	sein	_	
+3-16	233-234	.	_	

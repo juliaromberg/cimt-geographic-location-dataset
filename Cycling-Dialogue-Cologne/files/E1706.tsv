@@ -1,0 +1,15 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Freilaufende Rechtsabbieger zurückbauen
+1-1	0-12	Freilaufende	_	
+1-2	13-27	Rechtsabbieger	_	
+1-3	28-39	zurückbauen	_	
+
+#Text=Freilaufende Rechtsabbieger zurückbauen
+2-1	42-54	Freilaufende	_	
+2-2	55-69	Rechtsabbieger	_	
+2-3	70-81	zurückbauen	_	

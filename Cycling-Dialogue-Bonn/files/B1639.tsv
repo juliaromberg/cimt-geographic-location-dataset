@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Keine West-Ost-Verbindung
+1-1	0-5	Keine	_	
+1-2	6-25	West-Ost-Verbindung	_	
+
+#Text=Wer aus dem Westen nach Osten in die Kaiserstraße möchte hat keine Chance irgendwie über den Busbahnhof zu kommen, auf einer Hauptverkehrsachse, ein Skandal!
+2-1	28-31	Wer	_	
+2-2	32-35	aus	*[3]	
+2-3	36-39	dem	*[3]	
+2-4	40-46	Westen	*[3]	
+2-5	47-51	nach	*[3]	
+2-6	52-57	Osten	*[3]	
+2-7	58-60	in	*[3]	
+2-8	61-64	die	*[3]	
+2-9	65-77	Kaiserstraße	*[3]	
+2-10	78-84	möchte	_	
+2-11	85-88	hat	_	
+2-12	89-94	keine	_	
+2-13	95-101	Chance	_	
+2-14	102-111	irgendwie	_	
+2-15	112-116	über	_	
+2-16	117-120	den	_	
+2-17	121-131	Busbahnhof	_	
+2-18	132-134	zu	_	
+2-19	135-141	kommen	_	
+2-20	141-142	,	_	
+2-21	143-146	auf	_	
+2-22	147-152	einer	_	
+2-23	153-171	Hauptverkehrsachse	_	
+2-24	171-172	,	_	
+2-25	173-176	ein	_	
+2-26	177-184	Skandal	_	
+2-27	184-185	!	_	

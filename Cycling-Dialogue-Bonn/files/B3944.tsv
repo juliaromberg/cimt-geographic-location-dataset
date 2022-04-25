@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlechter Straßenbelag, viele Schlaglöcher
+1-1	0-10	Schlechter	_	
+1-2	11-23	Straßenbelag	_	
+1-3	23-24	,	_	
+1-4	25-30	viele	_	
+1-5	31-43	Schlaglöcher	_	
+
+#Text=Am Probsthof, vor allem von Auf dem Hügel bis Gerhard-Domagk-Straße ist der Straßenbelag sehr schlecht und es gibt sehr viele Schlaglöcher!
+2-1	46-48	Am	*[3]	
+2-2	49-58	Probsthof	*[3]	
+2-3	58-59	,	*[3]	
+2-4	60-63	vor	*[3]	
+2-5	64-69	allem	*[3]	
+2-6	70-73	von	*[3]	
+2-7	74-77	Auf	*[3]	
+2-8	78-81	dem	*[3]	
+2-9	82-87	Hügel	*[3]	
+2-10	88-91	bis	*[3]	
+2-11	92-113	Gerhard-Domagk-Straße	*[3]	
+2-12	114-117	ist	_	
+2-13	118-121	der	_	
+2-14	122-134	Straßenbelag	_	
+2-15	135-139	sehr	_	
+2-16	140-148	schlecht	_	
+2-17	149-152	und	_	
+2-18	153-155	es	_	
+2-19	156-160	gibt	_	
+2-20	161-165	sehr	_	
+2-21	166-171	viele	_	
+2-22	172-184	Schlaglöcher	_	
+2-23	184-185	!	_	

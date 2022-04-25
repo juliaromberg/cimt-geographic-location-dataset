@@ -1,0 +1,34 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg Röttgen-Ückesdorf-Lengsdorf
+1-1	0-6	Radweg	*[3]	
+1-2	7-34	Röttgen-Ückesdorf-Lengsdorf	*[3]	
+
+#Text=Der Radweg Röttgen-Ückesdorf-Lengsdorf ist in einem sehr schlechten Zusatnd: Wurzeln, Hecken, Sträucher wohin man auch schaut....
+2-1	37-40	Der	*[4]	
+2-2	41-47	Radweg	*[4]	
+2-3	48-75	Röttgen-Ückesdorf-Lengsdorf	*[4]	
+2-4	76-79	ist	_	
+2-5	80-82	in	_	
+2-6	83-88	einem	_	
+2-7	89-93	sehr	_	
+2-8	94-104	schlechten	_	
+2-9	105-112	Zusatnd	_	
+2-10	112-113	:	_	
+2-11	114-121	Wurzeln	_	
+2-12	121-122	,	_	
+2-13	123-129	Hecken	_	
+2-14	129-130	,	_	
+2-15	131-140	Sträucher	_	
+2-16	141-146	wohin	_	
+2-17	147-150	man	_	
+2-18	151-155	auch	_	
+2-19	156-162	schaut	_	
+2-20	162-163	.	_	
+2-21	163-164	.	_	
+2-22	164-165	.	_	
+2-23	165-166	.	_	

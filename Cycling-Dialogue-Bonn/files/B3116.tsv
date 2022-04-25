@@ -1,0 +1,275 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Umleitung der Busse auf der Kaiserstraße zwischen Arndtstr. und Kaiserplatz
+1-1	0-9	Umleitung	_	
+1-2	10-13	der	_	
+1-3	14-19	Busse	_	
+1-4	20-23	auf	*[12]	
+1-5	24-27	der	*[12]	
+1-6	28-40	Kaiserstraße	*[12]	
+1-7	41-49	zwischen	*[12]	
+1-8	50-58	Arndtstr	*[12]	
+1-9	58-59	.	*[12]	
+1-10	60-63	und	*[12]	
+1-11	64-75	Kaiserplatz	*[12]	
+
+#Text=Die Vielzahl an Beiträgen stellt klar: Die Kaiserstraße muss Fahrradstraße und PKV und Busse müssen insbesondere zwischen Arndtstr. und Kaiserplatz anders geführt werden, damit das funktionieren kann.
+2-1	78-81	Die	_	
+2-2	82-90	Vielzahl	_	
+2-3	91-93	an	_	
+2-4	94-103	Beiträgen	_	
+2-5	104-110	stellt	_	
+2-6	111-115	klar	_	
+2-7	115-116	:	_	
+2-8	117-120	Die	*[13]	
+2-9	121-133	Kaiserstraße	*[13]	
+2-10	134-138	muss	_	
+2-11	139-152	Fahrradstraße	_	
+2-12	153-156	und	_	
+2-13	157-160	PKV	_	
+2-14	161-164	und	_	
+2-15	165-170	Busse	_	
+2-16	171-177	müssen	_	
+2-17	178-190	insbesondere	_	
+2-18	191-199	zwischen	*[14]	
+2-19	200-208	Arndtstr	*[14]	
+2-20	208-209	.	*[14]	
+2-21	210-213	und	*[14]	
+2-22	214-225	Kaiserplatz	*[14]	
+2-23	226-232	anders	_	
+2-24	233-240	geführt	_	
+2-25	241-247	werden	_	
+2-26	247-248	,	_	
+2-27	249-254	damit	_	
+2-28	255-258	das	_	
+2-29	259-272	funktionieren	_	
+2-30	273-277	kann	_	
+2-31	277-278	.	_	
+
+#Text=Hier stehen so viele KFZ nutzlos auf der Straße herum und behindern den Busverkehr (und verhindern, dass Radfahrer auf der Straße fahren können).
+3-1	279-283	Hier	_	
+3-2	284-290	stehen	_	
+3-3	291-293	so	_	
+3-4	294-299	viele	_	
+3-5	300-303	KFZ	_	
+3-6	304-311	nutzlos	_	
+3-7	312-315	auf	_	
+3-8	316-319	der	_	
+3-9	320-326	Straße	_	
+3-10	327-332	herum	_	
+3-11	333-336	und	_	
+3-12	337-346	behindern	_	
+3-13	347-350	den	_	
+3-14	351-361	Busverkehr	_	
+3-15	362-363	(	_	
+3-16	363-366	und	_	
+3-17	367-377	verhindern	_	
+3-18	377-378	,	_	
+3-19	379-383	dass	_	
+3-20	384-393	Radfahrer	_	
+3-21	394-397	auf	_	
+3-22	398-401	der	_	
+3-23	402-408	Straße	_	
+3-24	409-415	fahren	_	
+3-25	416-422	können	_	
+3-26	422-423	)	_	
+3-27	423-424	.	_	
+
+#Text=In diesem Abschnitt verläuft der parallele Straßenzug Niebuhrstr. - Lennéstr.
+4-1	425-427	In	_	
+4-2	428-434	diesem	_	
+4-3	435-444	Abschnitt	_	
+4-4	445-453	verläuft	_	
+4-5	454-457	der	*[15]	
+4-6	458-467	parallele	*[15]	
+4-7	468-478	Straßenzug	*[15]	
+4-8	479-489	Niebuhrstr	*[15]	
+4-9	489-490	.	*[15]	
+4-10	491-492	-	*[15]	
+4-11	493-501	Lennéstr	*[15]	
+4-12	501-502	.	*[15]	
+
+#Text=Die Kaiserstr. könnte vom ZOB in Richtung Süden (Gronau - Bad Godesberg) Einbahnstraße (nur für den motorisierten Verkehr) werden, während die KFZ in Richtung Kaiserplatz über Niebuhrstr. und Lennéstr. geführt werden - ebenfalls als Einbahnstraße nur für KFZ!
+5-1	503-506	Die	*[16]	
+5-2	507-516	Kaiserstr	*[16]	
+5-3	516-517	.	_	
+5-4	518-524	könnte	_	
+5-5	525-528	vom	*[17]	
+5-6	529-532	ZOB	*[17]	
+5-7	533-535	in	*[17]	
+5-8	536-544	Richtung	*[17]	
+5-9	545-550	Süden	*[17]	
+5-10	551-552	(	*[17]	
+5-11	552-558	Gronau	*[17]	
+5-12	559-560	-	*[17]	
+5-13	561-564	Bad	*[17]	
+5-14	565-574	Godesberg	*[17]	
+5-15	574-575	)	_	
+5-16	576-589	Einbahnstraße	_	
+5-17	590-591	(	_	
+5-18	591-594	nur	_	
+5-19	595-598	für	_	
+5-20	599-602	den	_	
+5-21	603-616	motorisierten	_	
+5-22	617-624	Verkehr	_	
+5-23	624-625	)	_	
+5-24	626-632	werden	_	
+5-25	632-633	,	_	
+5-26	634-641	während	_	
+5-27	642-645	die	_	
+5-28	646-649	KFZ	_	
+5-29	650-652	in	*[18]	
+5-30	653-661	Richtung	*[18]	
+5-31	662-673	Kaiserplatz	*[18]	
+5-32	674-678	über	*[18]	
+5-33	679-689	Niebuhrstr	*[18]	
+5-34	689-690	.	*[18]	
+5-35	691-694	und	*[18]	
+5-36	695-703	Lennéstr	*[18]	
+5-37	703-704	.	*[18]	
+5-38	705-712	geführt	_	
+5-39	713-719	werden	_	
+5-40	720-721	-	_	
+5-41	722-731	ebenfalls	_	
+5-42	732-735	als	_	
+5-43	736-749	Einbahnstraße	_	
+5-44	750-753	nur	_	
+5-45	754-757	für	_	
+5-46	758-761	KFZ	_	
+5-47	761-762	!	_	
+
+#Text=Gleichzeitig wird der jetzige, als Radweg ausgewiesene Bürgersteig als Parkraum genutzt, während der Straßenraum hier Fahrradstraße wird - mit absolutem Halteverbot für KFZ.
+6-1	763-775	Gleichzeitig	_	
+6-2	776-780	wird	_	
+6-3	781-784	der	_	
+6-4	785-792	jetzige	_	
+6-5	792-793	,	_	
+6-6	794-797	als	_	
+6-7	798-804	Radweg	_	
+6-8	805-817	ausgewiesene	_	
+6-9	818-829	Bürgersteig	_	
+6-10	830-833	als	_	
+6-11	834-842	Parkraum	_	
+6-12	843-850	genutzt	_	
+6-13	850-851	,	_	
+6-14	852-859	während	_	
+6-15	860-863	der	_	
+6-16	864-875	Straßenraum	_	
+6-17	876-880	hier	_	
+6-18	881-894	Fahrradstraße	_	
+6-19	895-899	wird	_	
+6-20	900-901	-	_	
+6-21	902-905	mit	_	
+6-22	906-915	absolutem	_	
+6-23	916-927	Halteverbot	_	
+6-24	928-931	für	_	
+6-25	932-935	KFZ	_	
+6-26	935-936	.	_	
+
+#Text=Damit hätten Fahrradfahrer endlich genügend Platz zur Verfügung, und auch die Busse könnten pünktlicher werden, weil sie nicht mehr von parkenden KFZ blockiert werden.
+7-1	937-942	Damit	_	
+7-2	943-949	hätten	_	
+7-3	950-963	Fahrradfahrer	_	
+7-4	964-971	endlich	_	
+7-5	972-980	genügend	_	
+7-6	981-986	Platz	_	
+7-7	987-990	zur	_	
+7-8	991-1000	Verfügung	_	
+7-9	1000-1001	,	_	
+7-10	1002-1005	und	_	
+7-11	1006-1010	auch	_	
+7-12	1011-1014	die	_	
+7-13	1015-1020	Busse	_	
+7-14	1021-1028	könnten	_	
+7-15	1029-1040	pünktlicher	_	
+7-16	1041-1047	werden	_	
+7-17	1047-1048	,	_	
+7-18	1049-1053	weil	_	
+7-19	1054-1057	sie	_	
+7-20	1058-1063	nicht	_	
+7-21	1064-1068	mehr	_	
+7-22	1069-1072	von	_	
+7-23	1073-1082	parkenden	_	
+7-24	1083-1086	KFZ	_	
+7-25	1087-1096	blockiert	_	
+7-26	1097-1103	werden	_	
+7-27	1103-1104	.	_	
+
+#Text=Der zusätzliche Parkraum würde den Anwohnern zugute kommen und somit potentiellen Gegenwind abmildern.
+8-1	1105-1108	Der	_	
+8-2	1109-1120	zusätzliche	_	
+8-3	1121-1129	Parkraum	_	
+8-4	1130-1135	würde	_	
+8-5	1136-1139	den	_	
+8-6	1140-1149	Anwohnern	_	
+8-7	1150-1156	zugute	_	
+8-8	1157-1163	kommen	_	
+8-9	1164-1167	und	_	
+8-10	1168-1173	somit	_	
+8-11	1174-1186	potentiellen	_	
+8-12	1187-1196	Gegenwind	_	
+8-13	1197-1206	abmildern	_	
+8-14	1206-1207	.	_	
+
+#Text=Für den Abschnitt Arndtstr. bis Bundeskanzlerplatz muss dem Fahrradverkehr Vorrang gegeben werden.
+9-1	1208-1211	Für	_	
+9-2	1212-1215	den	_	
+9-3	1216-1225	Abschnitt	_	
+9-4	1226-1234	Arndtstr	*[19]	
+9-5	1234-1235	.	*[19]	
+9-6	1236-1239	bis	*[19]	
+9-7	1240-1258	Bundeskanzlerplatz	*[19]	
+9-8	1259-1263	muss	_	
+9-9	1264-1267	dem	_	
+9-10	1268-1282	Fahrradverkehr	_	
+9-11	1283-1290	Vorrang	_	
+9-12	1291-1298	gegeben	_	
+9-13	1299-1305	werden	_	
+9-14	1305-1306	.	_	
+
+#Text=Wenn der jetzige Fahrradweg Parkraum wird, kann die Bushaltestelle Schedestr. zurückgebaut werden, da dann der Radweg nicht mehr für Radfahrer benötigt wird.
+10-1	1307-1311	Wenn	_	
+10-2	1312-1315	der	_	
+10-3	1316-1323	jetzige	_	
+10-4	1324-1334	Fahrradweg	_	
+10-5	1335-1343	Parkraum	_	
+10-6	1344-1348	wird	_	
+10-7	1348-1349	,	_	
+10-8	1350-1354	kann	_	
+10-9	1355-1358	die	*[20]	
+10-10	1359-1373	Bushaltestelle	*[20]	
+10-11	1374-1383	Schedestr	*[20]	
+10-12	1383-1384	.	*[20]	
+10-13	1385-1397	zurückgebaut	_	
+10-14	1398-1404	werden	_	
+10-15	1404-1405	,	_	
+10-16	1406-1408	da	_	
+10-17	1409-1413	dann	_	
+10-18	1414-1417	der	_	
+10-19	1418-1424	Radweg	_	
+10-20	1425-1430	nicht	_	
+10-21	1431-1435	mehr	_	
+10-22	1436-1439	für	_	
+10-23	1440-1449	Radfahrer	_	
+10-24	1450-1458	benötigt	_	
+10-25	1459-1463	wird	_	
+10-26	1463-1464	.	_	
+
+#Text=Der Abschnitt sollte Spielstraße werden, damit bei KFZ Schrittgeschwindigkeit vorgeschrieben ist.
+11-1	1465-1468	Der	_	
+11-2	1469-1478	Abschnitt	_	
+11-3	1479-1485	sollte	_	
+11-4	1486-1497	Spielstraße	_	
+11-5	1498-1504	werden	_	
+11-6	1504-1505	,	_	
+11-7	1506-1511	damit	_	
+11-8	1512-1515	bei	_	
+11-9	1516-1519	KFZ	_	
+11-10	1520-1542	Schrittgeschwindigkeit	_	
+11-11	1543-1557	vorgeschrieben	_	
+11-12	1558-1561	ist	_	
+11-13	1561-1562	.	_	

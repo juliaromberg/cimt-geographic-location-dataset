@@ -1,0 +1,120 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Eigene Linksabbiegeampel für den Radverkehr in die Villemombler Str.
+1-1	0-6	Eigene	_	
+1-2	7-24	Linksabbiegeampel	_	
+1-3	25-28	für	_	
+1-4	29-32	den	_	
+1-5	33-43	Radverkehr	_	
+1-6	44-46	in	*[6]	
+1-7	47-50	die	*[6]	
+1-8	51-63	Villemombler	*[6]	
+1-9	64-67	Str	*[6]	
+1-10	67-68	.	*[6]	
+
+#Text=kommt man aus Richtung Endenich und die Linksabbiegerampel für Autos hat grün, zeigt die Ampel für die anderen Richtungen rot.
+2-1	71-76	kommt	_	
+2-2	77-80	man	_	
+2-3	81-84	aus	*[7]	
+2-4	85-93	Richtung	*[7]	
+2-5	94-102	Endenich	*[7]	
+2-6	103-106	und	_	
+2-7	107-110	die	_	
+2-8	111-129	Linksabbiegerampel	_	
+2-9	130-133	für	_	
+2-10	134-139	Autos	_	
+2-11	140-143	hat	_	
+2-12	144-148	grün	_	
+2-13	148-149	,	_	
+2-14	150-155	zeigt	_	
+2-15	156-159	die	_	
+2-16	160-165	Ampel	_	
+2-17	166-169	für	_	
+2-18	170-173	die	_	
+2-19	174-181	anderen	_	
+2-20	182-192	Richtungen	_	
+2-21	193-196	rot	_	
+2-22	196-197	.	_	
+
+#Text=Es wäre somit konfliktfrei möglich, vom Radweg aus nach links in die Villemombler zu fahren.
+3-1	198-200	Es	_	
+3-2	201-205	wäre	_	
+3-3	206-211	somit	_	
+3-4	212-224	konfliktfrei	_	
+3-5	225-232	möglich	_	
+3-6	232-233	,	_	
+3-7	234-237	vom	*[8]	
+3-8	238-244	Radweg	*[8]	
+3-9	245-248	aus	*[8]	
+3-10	249-253	nach	*[8]	
+3-11	254-259	links	*[8]	
+3-12	260-262	in	*[8]	
+3-13	263-266	die	*[8]	
+3-14	267-279	Villemombler	*[8]	
+3-15	280-282	zu	_	
+3-16	283-289	fahren	_	
+3-17	289-290	.	_	
+
+#Text=Da aber eine unsinnige Haltelinie auf dem Radweg ist, begeht man einen Rotlichtverstoß, wenn man das macht (mache ich trotzdem).
+4-1	291-293	Da	_	
+4-2	294-298	aber	_	
+4-3	299-303	eine	_	
+4-4	304-313	unsinnige	_	
+4-5	314-324	Haltelinie	_	
+4-6	325-328	auf	_	
+4-7	329-332	dem	_	
+4-8	333-339	Radweg	_	
+4-9	340-343	ist	_	
+4-10	343-344	,	_	
+4-11	345-351	begeht	_	
+4-12	352-355	man	_	
+4-13	356-361	einen	_	
+4-14	362-377	Rotlichtverstoß	_	
+4-15	377-378	,	_	
+4-16	379-383	wenn	_	
+4-17	384-387	man	_	
+4-18	388-391	das	_	
+4-19	392-397	macht	_	
+4-20	398-399	(	_	
+4-21	399-404	mache	_	
+4-22	405-408	ich	_	
+4-23	409-417	trotzdem	_	
+4-24	417-418	)	_	
+4-25	418-419	.	_	
+
+#Text=Das ist Quatsch mit Soße und wieder mal eine Benachteiligung des Radverkehrs, der hier nicht in einem Rutsch abbiegen kann, weil so etwas nur den Autofahrern zugestanden wird.
+5-1	420-423	Das	_	
+5-2	424-427	ist	_	
+5-3	428-435	Quatsch	_	
+5-4	436-439	mit	_	
+5-5	440-444	Soße	_	
+5-6	445-448	und	_	
+5-7	449-455	wieder	_	
+5-8	456-459	mal	_	
+5-9	460-464	eine	_	
+5-10	465-480	Benachteiligung	_	
+5-11	481-484	des	_	
+5-12	485-496	Radverkehrs	_	
+5-13	496-497	,	_	
+5-14	498-501	der	_	
+5-15	502-506	hier	_	
+5-16	507-512	nicht	_	
+5-17	513-515	in	_	
+5-18	516-521	einem	_	
+5-19	522-528	Rutsch	_	
+5-20	529-537	abbiegen	_	
+5-21	538-542	kann	_	
+5-22	542-543	,	_	
+5-23	544-548	weil	_	
+5-24	549-551	so	_	
+5-25	552-557	etwas	_	
+5-26	558-561	nur	_	
+5-27	562-565	den	_	
+5-28	566-577	Autofahrern	_	
+5-29	578-589	zugestanden	_	
+5-30	590-594	wird	_	
+5-31	594-595	.	_	

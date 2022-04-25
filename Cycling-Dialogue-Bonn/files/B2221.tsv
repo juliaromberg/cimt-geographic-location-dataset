@@ -1,0 +1,97 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zu kleine Insel an der Ampel Kennedybrücke / Kreuzung Hermannstr bzw. Prof-Neu Alee
+1-1	0-2	Zu	_	
+1-2	3-9	kleine	_	
+1-3	10-15	Insel	_	
+1-4	16-18	an	_	
+1-5	19-22	der	_	
+1-6	23-28	Ampel	_	
+1-7	29-42	Kennedybrücke	*[5]	
+1-8	43-44	/	*[5]	
+1-9	45-53	Kreuzung	*[5]	
+1-10	54-64	Hermannstr	*[5]	
+1-11	65-68	bzw	*[5]	
+1-12	68-69	.	*[5]	
+1-13	70-78	Prof-Neu	*[5]	
+1-14	79-83	Alee	*[5]	
+
+#Text=Die Ampel-Insel nach der Kennedybrücke Richtung Konrad-Adenauer-Platz bietet viel zu wenig Platz für mehrere Radfahrer, die z.B. nach links über die Ampel in die Prof-Neu-Allee einbiegen wollen.
+2-1	86-89	Die	*[6]	
+2-2	90-101	Ampel-Insel	*[6]	
+2-3	102-106	nach	*[6]	
+2-4	107-110	der	*[6]	
+2-5	111-124	Kennedybrücke	*[6]	
+2-6	125-133	Richtung	*[6]	
+2-7	134-155	Konrad-Adenauer-Platz	*[6]	
+2-8	156-162	bietet	_	
+2-9	163-167	viel	_	
+2-10	168-170	zu	_	
+2-11	171-176	wenig	_	
+2-12	177-182	Platz	_	
+2-13	183-186	für	_	
+2-14	187-194	mehrere	_	
+2-15	195-204	Radfahrer	_	
+2-16	204-205	,	_	
+2-17	206-209	die	_	
+2-18	210-213	z.B	_	
+2-19	213-214	.	_	
+2-20	215-219	nach	_	
+2-21	220-225	links	_	
+2-22	226-230	über	_	
+2-23	231-234	die	_	
+2-24	235-240	Ampel	_	
+2-25	241-243	in	*[7]	
+2-26	244-247	die	*[7]	
+2-27	248-262	Prof-Neu-Allee	*[7]	
+2-28	263-272	einbiegen	*[7]	
+2-29	273-279	wollen	_	
+2-30	279-280	.	_	
+
+#Text=Wenn dann noch Radler auf dem Radweg Richtung KAP vorbei fahren möchten, wird es sehr eng.
+3-1	281-285	Wenn	_	
+3-2	286-290	dann	_	
+3-3	291-295	noch	_	
+3-4	296-302	Radler	_	
+3-5	303-306	auf	*[8]	
+3-6	307-310	dem	*[8]	
+3-7	311-317	Radweg	*[8]	
+3-8	318-326	Richtung	*[8]	
+3-9	327-330	KAP	*[8]	
+3-10	331-337	vorbei	_	
+3-11	338-344	fahren	_	
+3-12	345-352	möchten	_	
+3-13	352-353	,	_	
+3-14	354-358	wird	_	
+3-15	359-361	es	_	
+3-16	362-366	sehr	_	
+3-17	367-370	eng	_	
+3-18	370-371	.	_	
+
+#Text=Hier sollte die Ampel-Insel vergrößert, der Radweg von der Kennedybrücke anders gelegt werden, damit diese unübersichtliche Engstelle behoben wird.
+4-1	372-376	Hier	_	
+4-2	377-383	sollte	_	
+4-3	384-387	die	_	
+4-4	388-399	Ampel-Insel	_	
+4-5	400-410	vergrößert	_	
+4-6	410-411	,	_	
+4-7	412-415	der	*[9]	
+4-8	416-422	Radweg	*[9]	
+4-9	423-426	von	*[9]	
+4-10	427-430	der	*[9]	
+4-11	431-444	Kennedybrücke	*[9]	
+4-12	445-451	anders	_	
+4-13	452-458	gelegt	_	
+4-14	459-465	werden	_	
+4-15	465-466	,	_	
+4-16	467-472	damit	_	
+4-17	473-478	diese	_	
+4-18	479-495	unübersichtliche	_	
+4-19	496-505	Engstelle	_	
+4-20	506-513	behoben	_	
+4-21	514-518	wird	_	
+4-22	518-519	.	_	

@@ -1,0 +1,16 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beleuchtung
+1-1	0-11	Beleuchtung	_	
+
+#Text=durchgängige Beleuchtung beginnend am Haager Weg
+2-1	14-26	durchgängige	_	
+2-2	27-38	Beleuchtung	_	
+2-3	39-48	beginnend	_	
+2-4	49-51	am	*[2]	
+2-5	52-58	Haager	*[2]	
+2-6	59-62	Weg	*[2]	

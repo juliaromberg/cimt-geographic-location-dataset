@@ -1,0 +1,111 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wofür ist die Ampel an dieser Stelle?
+1-1	0-5	Wofür	_	
+1-2	6-9	ist	_	
+1-3	10-13	die	_	
+1-4	14-19	Ampel	_	
+1-5	20-22	an	_	
+1-6	23-29	dieser	_	
+1-7	30-36	Stelle	_	
+1-8	36-37	?	_	
+
+#Text=Die extra eingerichtete Ampel für Fahrradfahrer an der Kreuzung Budapester Straße/Thomas-Mann-Str. ist fast nutzlos.
+2-1	40-43	Die	_	
+2-2	44-49	extra	_	
+2-3	50-63	eingerichtete	_	
+2-4	64-69	Ampel	_	
+2-5	70-73	für	_	
+2-6	74-87	Fahrradfahrer	_	
+2-7	88-90	an	*[6]	
+2-8	91-94	der	*[6]	
+2-9	95-103	Kreuzung	*[6]	
+2-10	104-114	Budapester	*[6]	
+2-11	115-121	Straße	*[6]	
+2-12	121-122	/	*[6]	
+2-13	122-137	Thomas-Mann-Str	*[6]	
+2-14	137-138	.	*[6]	
+2-15	139-142	ist	_	
+2-16	143-147	fast	_	
+2-17	148-155	nutzlos	_	
+2-18	155-156	.	_	
+
+#Text=An dieser Stelle darf man im Grunde genommen nur rechts abbiegen (nach links in die Thomas-Mann-Str. und geradeaus weiter auf der Budapester Str. ist die Einfahrt verboten).
+3-1	157-159	An	_	
+3-2	160-166	dieser	_	
+3-3	167-173	Stelle	_	
+3-4	174-178	darf	_	
+3-5	179-182	man	_	
+3-6	183-185	im	_	
+3-7	186-192	Grunde	_	
+3-8	193-201	genommen	_	
+3-9	202-205	nur	_	
+3-10	206-212	rechts	_	
+3-11	213-221	abbiegen	_	
+3-12	222-223	(	_	
+3-13	223-227	nach	*[7]	
+3-14	228-233	links	*[7]	
+3-15	234-236	in	*[7]	
+3-16	237-240	die	*[7]	
+3-17	241-256	Thomas-Mann-Str	*[7]	
+3-18	256-257	.	*[7]	
+3-19	258-261	und	*[7]	
+3-20	262-271	geradeaus	*[7]	
+3-21	272-278	weiter	*[7]	
+3-22	279-282	auf	*[7]	
+3-23	283-286	der	*[7]	
+3-24	287-297	Budapester	*[7]	
+3-25	298-301	Str	*[7]	
+3-26	301-302	.	*[7]	
+3-27	303-306	ist	_	
+3-28	307-310	die	_	
+3-29	311-319	Einfahrt	_	
+3-30	320-328	verboten	_	
+3-31	328-329	)	_	
+3-32	329-330	.	_	
+
+#Text=Ein Stoppschild für Radfahrer an dieser Stelle würde genügen.
+4-1	331-334	Ein	_	
+4-2	335-346	Stoppschild	_	
+4-3	347-350	für	_	
+4-4	351-360	Radfahrer	_	
+4-5	361-363	an	_	
+4-6	364-370	dieser	_	
+4-7	371-377	Stelle	_	
+4-8	378-383	würde	_	
+4-9	384-391	genügen	_	
+4-10	391-392	.	_	
+
+#Text=Falls die Fahrt geradeaus oder nach links in Zukunft ermöglicht würde, wäre die Ampel wieder sinnvoll, aber am besten durch einen grünen Abbiegepfeil zu ergänzen.
+5-1	393-398	Falls	_	
+5-2	399-402	die	_	
+5-3	403-408	Fahrt	_	
+5-4	409-418	geradeaus	_	
+5-5	419-423	oder	_	
+5-6	424-428	nach	_	
+5-7	429-434	links	_	
+5-8	435-437	in	_	
+5-9	438-445	Zukunft	_	
+5-10	446-456	ermöglicht	_	
+5-11	457-462	würde	_	
+5-12	462-463	,	_	
+5-13	464-468	wäre	_	
+5-14	469-472	die	_	
+5-15	473-478	Ampel	_	
+5-16	479-485	wieder	_	
+5-17	486-494	sinnvoll	_	
+5-18	494-495	,	_	
+5-19	496-500	aber	_	
+5-20	501-503	am	_	
+5-21	504-510	besten	_	
+5-22	511-516	durch	_	
+5-23	517-522	einen	_	
+5-24	523-529	grünen	_	
+5-25	530-542	Abbiegepfeil	_	
+5-26	543-545	zu	_	
+5-27	546-554	ergänzen	_	
+5-28	554-555	.	_	

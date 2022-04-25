@@ -1,0 +1,79 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlende Fahrradständer
+1-1	0-8	Fehlende	_	
+1-2	9-23	Fahrradständer	_	
+
+#Text=Am Baseballstadion der Bonn Capitals in der Rheinaue vermisst man leider Fahrradständer.
+2-1	26-28	Am	*[5]	
+2-2	29-44	Baseballstadion	*[5]	
+2-3	45-48	der	*[5]	
+2-4	49-53	Bonn	*[5]	
+2-5	54-62	Capitals	*[5]	
+2-6	63-65	in	*[5]	
+2-7	66-69	der	*[5]	
+2-8	70-78	Rheinaue	*[5]	
+2-9	79-87	vermisst	_	
+2-10	88-91	man	_	
+2-11	92-98	leider	_	
+2-12	99-113	Fahrradständer	_	
+2-13	113-114	.	_	
+
+#Text=Obwohl die Spiele immer recht gut besucht sind und viele mit dem Fahrrad zu den Spielen fahren, gibt es hier keine geeignete Möglichkeit die Fahrräder abzustellen.
+3-1	115-121	Obwohl	_	
+3-2	122-125	die	_	
+3-3	126-132	Spiele	_	
+3-4	133-138	immer	_	
+3-5	139-144	recht	_	
+3-6	145-148	gut	_	
+3-7	149-156	besucht	_	
+3-8	157-161	sind	_	
+3-9	162-165	und	_	
+3-10	166-171	viele	_	
+3-11	172-175	mit	_	
+3-12	176-179	dem	_	
+3-13	180-187	Fahrrad	_	
+3-14	188-190	zu	_	
+3-15	191-194	den	_	
+3-16	195-202	Spielen	_	
+3-17	203-209	fahren	_	
+3-18	209-210	,	_	
+3-19	211-215	gibt	_	
+3-20	216-218	es	_	
+3-21	219-223	hier	_	
+3-22	224-229	keine	_	
+3-23	230-239	geeignete	_	
+3-24	240-251	Möglichkeit	_	
+3-25	252-255	die	_	
+3-26	256-265	Fahrräder	_	
+3-27	266-277	abzustellen	_	
+3-28	277-278	.	_	
+
+#Text=Das Ergebnis ist, eine Reihe von Fahrrädern, welche an die Zäune geschlossen werden und so teilweise auch den Fußgängerweg blockieren.
+4-1	279-282	Das	_	
+4-2	283-291	Ergebnis	_	
+4-3	292-295	ist	_	
+4-4	295-296	,	_	
+4-5	297-301	eine	_	
+4-6	302-307	Reihe	_	
+4-7	308-311	von	_	
+4-8	312-322	Fahrrädern	_	
+4-9	322-323	,	_	
+4-10	324-330	welche	_	
+4-11	331-333	an	_	
+4-12	334-337	die	_	
+4-13	338-343	Zäune	_	
+4-14	344-355	geschlossen	_	
+4-15	356-362	werden	_	
+4-16	363-366	und	_	
+4-17	367-369	so	_	
+4-18	370-379	teilweise	_	
+4-19	380-384	auch	_	
+4-20	385-388	den	_	
+4-21	389-401	Fußgängerweg	_	
+4-22	402-412	blockieren	_	
+4-23	412-413	.	_	

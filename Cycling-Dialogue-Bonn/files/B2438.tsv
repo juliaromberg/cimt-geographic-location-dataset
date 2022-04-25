@@ -1,0 +1,71 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Qualität des Radwegs
+1-1	0-8	Qualität	_	
+1-2	9-12	des	_	
+1-3	13-20	Radwegs	_	
+
+#Text=In der Ennemoserstraße ist auf der Höhe des ehem. M*** Möbelhauses und *** Hotels die Fassung eines runden Hydranten stark ausgewaschen, so dass die Fahrradreifen gerade in die tiefe, ausgewaschene Mulde geraten.
+2-1	23-25	In	*[4]	
+2-2	26-29	der	*[4]	
+2-3	30-45	Ennemoserstraße	*[4]	
+2-4	46-49	ist	_	
+2-5	50-53	auf	_	
+2-6	54-57	der	_	
+2-7	58-62	Höhe	_	
+2-8	63-66	des	_	
+2-9	67-71	ehem	_	
+2-10	71-72	.	_	
+2-11	73-74	M	_	
+2-12	74-75	*	_	
+2-13	75-76	*	_	
+2-14	76-77	*	_	
+2-15	78-89	Möbelhauses	_	
+2-16	90-93	und	_	
+2-17	94-95	*	_	
+2-18	95-96	*	_	
+2-19	96-97	*	_	
+2-20	98-104	Hotels	_	
+2-21	105-108	die	_	
+2-22	109-116	Fassung	_	
+2-23	117-122	eines	_	
+2-24	123-129	runden	_	
+2-25	130-139	Hydranten	_	
+2-26	140-145	stark	_	
+2-27	146-158	ausgewaschen	_	
+2-28	158-159	,	_	
+2-29	160-162	so	_	
+2-30	163-167	dass	_	
+2-31	168-171	die	_	
+2-32	172-185	Fahrradreifen	_	
+2-33	186-192	gerade	_	
+2-34	193-195	in	_	
+2-35	196-199	die	_	
+2-36	200-205	tiefe	_	
+2-37	205-206	,	_	
+2-38	207-220	ausgewaschene	_	
+2-39	221-226	Mulde	_	
+2-40	227-234	geraten	_	
+2-41	234-235	.	_	
+
+#Text=Bei Dunkelheit nicht erkennbar, bei Gegenverkehr und gleichzeitigem Fußgängeraufkommen kann man nicht rechtzeitig ausweichen.
+3-1	236-239	Bei	_	
+3-2	240-250	Dunkelheit	_	
+3-3	251-256	nicht	_	
+3-4	257-266	erkennbar	_	
+3-5	266-267	,	_	
+3-6	268-271	bei	_	
+3-7	272-284	Gegenverkehr	_	
+3-8	285-288	und	_	
+3-9	289-303	gleichzeitigem	_	
+3-10	304-322	Fußgängeraufkommen	_	
+3-11	323-327	kann	_	
+3-12	328-331	man	_	
+3-13	332-337	nicht	_	
+3-14	338-349	rechtzeitig	_	
+3-15	350-360	ausweichen	_	
+3-16	360-361	.	_	

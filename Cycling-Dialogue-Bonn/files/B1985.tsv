@@ -1,0 +1,83 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße als Einbahnstraße in beide Richtungen freigeben
+1-1	0-13	Fahrradstraße	_	
+1-2	14-17	als	_	
+1-3	18-31	Einbahnstraße	_	
+1-4	32-34	in	_	
+1-5	35-40	beide	_	
+1-6	41-51	Richtungen	_	
+1-7	52-61	freigeben	_	
+
+#Text=In Fahrradstraßen haben Radfahrer angeblich Vorrang.
+2-1	64-66	In	_	
+2-2	67-81	Fahrradstraßen	_	
+2-3	82-87	haben	_	
+2-4	88-97	Radfahrer	_	
+2-5	98-107	angeblich	_	
+2-6	108-115	Vorrang	_	
+2-7	115-116	.	_	
+
+#Text=Nicht so hier.
+3-1	117-122	Nicht	_	
+3-2	123-125	so	_	
+3-3	126-130	hier	_	
+3-4	130-131	.	_	
+
+#Text=Damit auch wirklich genau Null Parkplätze wegfallen, durfen Radfahrer hier nicht die Fahrradstraße in beiden Richtungen nutzen.
+4-1	132-137	Damit	_	
+4-2	138-142	auch	_	
+4-3	143-151	wirklich	_	
+4-4	152-157	genau	_	
+4-5	158-162	Null	_	
+4-6	163-173	Parkplätze	_	
+4-7	174-183	wegfallen	_	
+4-8	183-184	,	_	
+4-9	185-191	durfen	_	
+4-10	192-201	Radfahrer	_	
+4-11	202-206	hier	_	
+4-12	207-212	nicht	_	
+4-13	213-216	die	_	
+4-14	217-230	Fahrradstraße	_	
+4-15	231-233	in	_	
+4-16	234-240	beiden	_	
+4-17	241-251	Richtungen	_	
+4-18	252-258	nutzen	_	
+4-19	258-259	.	_	
+
+#Text=Als Anwohner muss man sein Rad also auf dem letzten Stück schieben oder einen großen Umweg fahren, damit Kraftfahrzeuge auch bloß keinen Nachteil haben.
+5-1	260-263	Als	_	
+5-2	264-272	Anwohner	_	
+5-3	273-277	muss	_	
+5-4	278-281	man	_	
+5-5	282-286	sein	_	
+5-6	287-290	Rad	_	
+5-7	291-295	also	_	
+5-8	296-299	auf	_	
+5-9	300-303	dem	_	
+5-10	304-311	letzten	_	
+5-11	312-317	Stück	_	
+5-12	318-326	schieben	_	
+5-13	327-331	oder	_	
+5-14	332-337	einen	_	
+5-15	338-344	großen	_	
+5-16	345-350	Umweg	_	
+5-17	351-357	fahren	_	
+5-18	357-358	,	_	
+5-19	359-364	damit	_	
+5-20	365-379	Kraftfahrzeuge	_	
+5-21	380-384	auch	_	
+5-22	385-389	bloß	_	
+5-23	390-396	keinen	_	
+5-24	397-405	Nachteil	_	
+5-25	406-411	haben	_	
+5-26	411-412	.	_	
+
+#Text=Tolles Konzept!
+6-1	413-419	Tolles	_	
+6-2	420-427	Konzept	_	
+6-3	427-428	!	_	

@@ -1,0 +1,95 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=fehlender Platz auf Radwegen
+1-1	0-9	fehlender	_	
+1-2	10-15	Platz	_	
+1-3	16-19	auf	_	
+1-4	20-28	Radwegen	_	
+
+#Text=Es ist einfach zu gefährlich auf der Venloer Strasse Radzufahren, da die Fahrbahn so eng ist und die Autos, sowie Lieferwagen stets an der Seite auf dem Radweg parken, sodass es unmöglich ist, an diesen vorbei zu kommen.
+2-1	31-33	Es	_	
+2-2	34-37	ist	_	
+2-3	38-45	einfach	_	
+2-4	46-48	zu	_	
+2-5	49-59	gefährlich	_	
+2-6	60-63	auf	*[5]	
+2-7	64-67	der	*[5]	
+2-8	68-75	Venloer	*[5]	
+2-9	76-83	Strasse	*[5]	
+2-10	84-95	Radzufahren	_	
+2-11	95-96	,	_	
+2-12	97-99	da	_	
+2-13	100-103	die	_	
+2-14	104-112	Fahrbahn	_	
+2-15	113-115	so	_	
+2-16	116-119	eng	_	
+2-17	120-123	ist	_	
+2-18	124-127	und	_	
+2-19	128-131	die	_	
+2-20	132-137	Autos	_	
+2-21	137-138	,	_	
+2-22	139-144	sowie	_	
+2-23	145-156	Lieferwagen	_	
+2-24	157-162	stets	_	
+2-25	163-165	an	_	
+2-26	166-169	der	_	
+2-27	170-175	Seite	_	
+2-28	176-179	auf	_	
+2-29	180-183	dem	_	
+2-30	184-190	Radweg	_	
+2-31	191-197	parken	_	
+2-32	197-198	,	_	
+2-33	199-205	sodass	_	
+2-34	206-208	es	_	
+2-35	209-218	unmöglich	_	
+2-36	219-222	ist	_	
+2-37	222-223	,	_	
+2-38	224-226	an	_	
+2-39	227-233	diesen	_	
+2-40	234-240	vorbei	_	
+2-41	241-243	zu	_	
+2-42	244-250	kommen	_	
+2-43	250-251	.	_	
+
+#Text=Des Weiteren gibt es oft mehr Fahrräder als Autos, sodass das Überholen ebenfalls fast unmöglich ist.
+3-1	252-255	Des	_	
+3-2	256-264	Weiteren	_	
+3-3	265-269	gibt	_	
+3-4	270-272	es	_	
+3-5	273-276	oft	_	
+3-6	277-281	mehr	_	
+3-7	282-291	Fahrräder	_	
+3-8	292-295	als	_	
+3-9	296-301	Autos	_	
+3-10	301-302	,	_	
+3-11	303-309	sodass	_	
+3-12	310-313	das	_	
+3-13	314-323	Überholen	_	
+3-14	324-333	ebenfalls	_	
+3-15	334-338	fast	_	
+3-16	339-348	unmöglich	_	
+3-17	349-352	ist	_	
+3-18	352-353	.	_	
+
+#Text=Wenn dabei keine Klingel benutzt wird, ist die Gefahr groß, dass zwei aufeinander stoßen.
+4-1	354-358	Wenn	_	
+4-2	359-364	dabei	_	
+4-3	365-370	keine	_	
+4-4	371-378	Klingel	_	
+4-5	379-386	benutzt	_	
+4-6	387-391	wird	_	
+4-7	391-392	,	_	
+4-8	393-396	ist	_	
+4-9	397-400	die	_	
+4-10	401-407	Gefahr	_	
+4-11	408-412	groß	_	
+4-12	412-413	,	_	
+4-13	414-418	dass	_	
+4-14	419-423	zwei	_	
+4-15	424-435	aufeinander	_	
+4-16	436-442	stoßen	_	
+4-17	442-443	.	_	

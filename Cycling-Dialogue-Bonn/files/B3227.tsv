@@ -1,0 +1,123 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelschaltung arbeitet je nach Witterung unterschiedlich
+1-1	0-14	Ampelschaltung	_	
+1-2	15-23	arbeitet	_	
+1-3	24-26	je	_	
+1-4	27-31	nach	_	
+1-5	32-41	Witterung	_	
+1-6	42-57	unterschiedlich	_	
+
+#Text=Die Ampelschaltung der Ampel Endenicher Allee / Kaufmannstaße bevorzugt nach Regenphasen für längere Zeit die Fahrtrichtung Nußallee Richtung Kaufmannstraße.
+2-1	60-63	Die	_	
+2-2	64-78	Ampelschaltung	_	
+2-3	79-82	der	_	
+2-4	83-88	Ampel	*[9]	
+2-5	89-99	Endenicher	*[9]	
+2-6	100-105	Allee	*[9]	
+2-7	106-107	/	*[9]	
+2-8	108-121	Kaufmannstaße	*[9]	
+2-9	122-131	bevorzugt	_	
+2-10	132-136	nach	_	
+2-11	137-148	Regenphasen	_	
+2-12	149-152	für	_	
+2-13	153-160	längere	_	
+2-14	161-165	Zeit	_	
+2-15	166-169	die	_	
+2-16	170-183	Fahrtrichtung	*[10]	
+2-17	184-192	Nußallee	*[10]	
+2-18	193-201	Richtung	*[10]	
+2-19	202-216	Kaufmannstraße	*[10]	
+2-20	216-217	.	_	
+
+#Text=Radfahrer auf der Endenicher Allee Richtung Hauptbahnhof müssen dann grundsätzlich warten, obwohl kein Querverkehr vorhanden ist.
+3-1	218-227	Radfahrer	_	
+3-2	228-231	auf	*[11]	
+3-3	232-235	der	*[11]	
+3-4	236-246	Endenicher	*[11]	
+3-5	247-252	Allee	*[11]	
+3-6	253-261	Richtung	*[11]	
+3-7	262-274	Hauptbahnhof	*[11]	
+3-8	275-281	müssen	_	
+3-9	282-286	dann	_	
+3-10	287-300	grundsätzlich	_	
+3-11	301-307	warten	_	
+3-12	307-308	,	_	
+3-13	309-315	obwohl	_	
+3-14	316-320	kein	_	
+3-15	321-332	Querverkehr	_	
+3-16	333-342	vorhanden	_	
+3-17	343-346	ist	_	
+3-18	346-347	.	_	
+
+#Text=Induktíonsschleifen, falls vorhanden, lösen keine oder sehr späte Umschaltung aus.
+4-1	348-367	Induktíonsschleifen	_	
+4-2	367-368	,	_	
+4-3	369-374	falls	_	
+4-4	375-384	vorhanden	_	
+4-5	384-385	,	_	
+4-6	386-391	lösen	_	
+4-7	392-397	keine	_	
+4-8	398-402	oder	_	
+4-9	403-407	sehr	_	
+4-10	408-413	späte	_	
+4-11	414-425	Umschaltung	_	
+4-12	426-429	aus	_	
+4-13	429-430	.	_	
+
+#Text=Bei längeren trockenen Phasen geht die Ampel in einen Lichtorgel Modus, der auch nur zeitweise oder zu spät auf Radfahrer reagiert.
+5-1	431-434	Bei	_	
+5-2	435-443	längeren	_	
+5-3	444-453	trockenen	_	
+5-4	454-460	Phasen	_	
+5-5	461-465	geht	_	
+5-6	466-469	die	_	
+5-7	470-475	Ampel	_	
+5-8	476-478	in	_	
+5-9	479-484	einen	_	
+5-10	485-495	Lichtorgel	_	
+5-11	496-501	Modus	_	
+5-12	501-502	,	_	
+5-13	503-506	der	_	
+5-14	507-511	auch	_	
+5-15	512-515	nur	_	
+5-16	516-525	zeitweise	_	
+5-17	526-530	oder	_	
+5-18	531-533	zu	_	
+5-19	534-538	spät	_	
+5-20	539-542	auf	_	
+5-21	543-552	Radfahrer	_	
+5-22	553-561	reagiert	_	
+5-23	561-562	.	_	
+
+#Text=Weiterhin sind die Zeiten bei denen alle Ampeln Rot anzeigen deutlich zu lang.
+6-1	563-572	Weiterhin	_	
+6-2	573-577	sind	_	
+6-3	578-581	die	_	
+6-4	582-588	Zeiten	_	
+6-5	589-592	bei	_	
+6-6	593-598	denen	_	
+6-7	599-603	alle	_	
+6-8	604-610	Ampeln	_	
+6-9	611-614	Rot	_	
+6-10	615-623	anzeigen	_	
+6-11	624-632	deutlich	_	
+6-12	633-635	zu	_	
+6-13	636-640	lang	_	
+6-14	640-641	.	_	
+
+#Text=Das geht auch kürzer.
+7-1	642-645	Das	_	
+7-2	646-650	geht	_	
+7-3	651-655	auch	_	
+7-4	656-662	kürzer	_	
+7-5	662-663	.	_	
+
+#Text=Beispiel Düsseldorf.
+8-1	664-672	Beispiel	_	
+8-2	673-683	Düsseldorf	*	
+8-3	683-684	.	_	

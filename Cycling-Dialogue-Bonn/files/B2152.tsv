@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlechter Fahrbahnbelag
+1-1	0-10	Schlechter	_	
+1-2	11-24	Fahrbahnbelag	_	
+
+#Text=Rechter Teil des Fahrbahnbelags Ubierstraße zwischen Kreisel Römerplatz und Rheinallee, Fahrtrichtung Rheinalle, ist extrem schadhaft, so dass Radfahrer in der Straßenmitte fahren müssen.
+2-1	27-34	Rechter	_	
+2-2	35-39	Teil	_	
+2-3	40-43	des	_	
+2-4	44-58	Fahrbahnbelags	_	
+2-5	59-70	Ubierstraße	*[3]	
+2-6	71-79	zwischen	*[3]	
+2-7	80-87	Kreisel	*[3]	
+2-8	88-98	Römerplatz	*[3]	
+2-9	99-102	und	*[3]	
+2-10	103-113	Rheinallee	*[3]	
+2-11	113-114	,	*[3]	
+2-12	115-128	Fahrtrichtung	*[3]	
+2-13	129-138	Rheinalle	*[3]	
+2-14	138-139	,	_	
+2-15	140-143	ist	_	
+2-16	144-150	extrem	_	
+2-17	151-160	schadhaft	_	
+2-18	160-161	,	_	
+2-19	162-164	so	_	
+2-20	165-169	dass	_	
+2-21	170-179	Radfahrer	_	
+2-22	180-182	in	_	
+2-23	183-186	der	_	
+2-24	187-199	Straßenmitte	_	
+2-25	200-206	fahren	_	
+2-26	207-213	müssen	_	
+2-27	213-214	.	_	

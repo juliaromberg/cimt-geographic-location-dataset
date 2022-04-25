@@ -1,0 +1,20 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kein Radweg
+1-1	0-4	Kein	_	
+1-2	5-11	Radweg	_	
+
+#Text=Kein Radweg und Strasse in sehr schlechtem Zustand.
+2-1	14-18	Kein	_	
+2-2	19-25	Radweg	_	
+2-3	26-29	und	_	
+2-4	30-37	Strasse	_	
+2-5	38-40	in	_	
+2-6	41-45	sehr	_	
+2-7	46-56	schlechtem	_	
+2-8	57-64	Zustand	_	
+2-9	64-65	.	_	

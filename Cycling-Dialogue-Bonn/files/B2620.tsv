@@ -1,0 +1,105 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radfahren bei Gegenverkehr nicht möglich
+1-1	0-9	Radfahren	_	
+1-2	10-13	bei	_	
+1-3	14-26	Gegenverkehr	_	
+1-4	27-32	nicht	_	
+1-5	33-40	möglich	_	
+
+#Text=Die Schumannstrasse ist ab Reuterstrasse bis zur Rittershausstrasse eine Einbahnstrasse, bei der auf beiden Seiten geparkt werden darf.
+2-1	43-46	Die	*[7]	
+2-2	47-62	Schumannstrasse	*[7]	
+2-3	63-66	ist	*[7]	
+2-4	67-69	ab	*[7]	
+2-5	70-83	Reuterstrasse	*[7]	
+2-6	84-87	bis	*[7]	
+2-7	88-91	zur	*[7]	
+2-8	92-110	Rittershausstrasse	*[7]	
+2-9	111-115	eine	_	
+2-10	116-130	Einbahnstrasse	_	
+2-11	130-131	,	_	
+2-12	132-135	bei	_	
+2-13	136-139	der	_	
+2-14	140-143	auf	_	
+2-15	144-150	beiden	_	
+2-16	151-157	Seiten	_	
+2-17	158-165	geparkt	_	
+2-18	166-172	werden	_	
+2-19	173-177	darf	_	
+2-20	177-178	.	_	
+
+#Text=Die Parkstreifen sind regelmäßig voll genutzt.
+3-1	179-182	Die	_	
+3-2	183-195	Parkstreifen	_	
+3-3	196-200	sind	_	
+3-4	201-211	regelmäßig	_	
+3-5	212-216	voll	_	
+3-6	217-224	genutzt	_	
+3-7	224-225	.	_	
+
+#Text=Dabei ist die verbleibende Strassenbreite so schmal, dass bei Gegenverkehr von Pkw ein Radfahrer - obwohl zulässig - keinen Verkehrsraum mehr findet.
+4-1	226-231	Dabei	_	
+4-2	232-235	ist	_	
+4-3	236-239	die	_	
+4-4	240-252	verbleibende	_	
+4-5	253-267	Strassenbreite	_	
+4-6	268-270	so	_	
+4-7	271-277	schmal	_	
+4-8	277-278	,	_	
+4-9	279-283	dass	_	
+4-10	284-287	bei	_	
+4-11	288-300	Gegenverkehr	_	
+4-12	301-304	von	_	
+4-13	305-308	Pkw	_	
+4-14	309-312	ein	_	
+4-15	313-322	Radfahrer	_	
+4-16	323-324	-	_	
+4-17	325-331	obwohl	_	
+4-18	332-340	zulässig	_	
+4-19	341-342	-	_	
+4-20	343-349	keinen	_	
+4-21	350-362	Verkehrsraum	_	
+4-22	363-367	mehr	_	
+4-23	368-374	findet	_	
+4-24	374-375	.	_	
+
+#Text=Vorschlag: auf der östlichen Seite sollte auf dem Fußweg ein Fahradstreifen abmarkiert werden.
+5-1	376-385	Vorschlag	_	
+5-2	385-386	:	_	
+5-3	387-390	auf	_	
+5-4	391-394	der	_	
+5-5	395-404	östlichen	_	
+5-6	405-410	Seite	_	
+5-7	411-417	sollte	_	
+5-8	418-421	auf	_	
+5-9	422-425	dem	_	
+5-10	426-432	Fußweg	_	
+5-11	433-436	ein	_	
+5-12	437-451	Fahradstreifen	_	
+5-13	452-462	abmarkiert	_	
+5-14	463-469	werden	_	
+5-15	469-470	.	_	
+
+#Text=Beitrag von Hans-Peter Lange, *********** *
+6-1	471-478	Beitrag	_	
+6-2	479-482	von	_	
+6-3	483-493	Hans-Peter	_	
+6-4	494-499	Lange	_	
+6-5	499-500	,	_	
+6-6	501-502	*	_	
+6-7	502-503	*	_	
+6-8	503-504	*	_	
+6-9	504-505	*	_	
+6-10	505-506	*	_	
+6-11	506-507	*	_	
+6-12	507-508	*	_	
+6-13	508-509	*	_	
+6-14	509-510	*	_	
+6-15	510-511	*	_	
+6-16	511-512	*	_	
+6-17	513-514	*	_	

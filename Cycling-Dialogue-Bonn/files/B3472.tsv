@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zustand Radweg
+1-1	0-7	Zustand	_	
+1-2	8-14	Radweg	_	
+
+#Text=Der Radweg an der L16 ist in einem schlechten Zustand.
+2-1	17-20	Der	_	
+2-2	21-27	Radweg	_	
+2-3	28-30	an	*[4]	
+2-4	31-34	der	*[4]	
+2-5	35-38	L16	*[4]	
+2-6	39-42	ist	_	
+2-7	43-45	in	_	
+2-8	46-51	einem	_	
+2-9	52-62	schlechten	_	
+2-10	63-70	Zustand	_	
+2-11	70-71	.	_	
+
+#Text=Wurzeln drücken seit Jahren den Belag hoch, gemacht wurde nichts.
+3-1	72-79	Wurzeln	_	
+3-2	80-87	drücken	_	
+3-3	88-92	seit	_	
+3-4	93-99	Jahren	_	
+3-5	100-103	den	_	
+3-6	104-109	Belag	_	
+3-7	110-114	hoch	_	
+3-8	114-115	,	_	
+3-9	116-123	gemacht	_	
+3-10	124-129	wurde	_	
+3-11	130-136	nichts	_	
+3-12	136-137	.	_	

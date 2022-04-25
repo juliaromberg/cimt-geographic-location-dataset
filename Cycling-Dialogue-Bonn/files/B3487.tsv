@@ -1,0 +1,116 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fußgänger und Radfahrer gerechte Kreuzungsmöglichkeiten schaffen
+1-1	0-9	Fußgänger	_	
+1-2	10-13	und	_	
+1-3	14-23	Radfahrer	_	
+1-4	24-32	gerechte	_	
+1-5	33-55	Kreuzungsmöglichkeiten	_	
+1-6	56-64	schaffen	_	
+
+#Text=Egal aus welcher Richtung man kommt und die Autobahn sowie die Provinzialstraße überwinden muss ist dies nur möglich auf:
+2-1	67-71	Egal	_	
+2-2	72-75	aus	_	
+2-3	76-83	welcher	_	
+2-4	84-92	Richtung	_	
+2-5	93-96	man	_	
+2-6	97-102	kommt	_	
+2-7	103-106	und	_	
+2-8	107-110	die	*[12]	
+2-9	111-119	Autobahn	*[12]	
+2-10	120-125	sowie	*[12]	
+2-11	126-129	die	*[12]	
+2-12	130-146	Provinzialstraße	*[12]	
+2-13	147-157	überwinden	*[12]	
+2-14	158-162	muss	_	
+2-15	163-166	ist	_	
+2-16	167-171	dies	_	
+2-17	172-175	nur	_	
+2-18	176-183	möglich	_	
+2-19	184-187	auf	_	
+2-20	187-188	:	_	
+
+#Text=- zu schmalen Gehwegen
+3-1	189-190	-	_	
+3-2	191-193	zu	_	
+3-3	194-202	schmalen	_	
+3-4	203-211	Gehwegen	_	
+
+#Text=- mit zu geringen Geländerhöhen
+4-1	212-213	-	_	
+4-2	214-217	mit	_	
+4-3	218-220	zu	_	
+4-4	221-229	geringen	_	
+4-5	230-243	Geländerhöhen	_	
+
+#Text=- zerstörtem Asphalt
+5-1	244-245	-	_	
+5-2	246-256	zerstörtem	_	
+5-3	257-264	Asphalt	_	
+
+#Text=- sehr hohen Bordsteinkanten (auf der Brücke schon fast mit Absturzgefahr)
+6-1	265-266	-	_	
+6-2	267-271	sehr	_	
+6-3	272-277	hohen	_	
+6-4	278-293	Bordsteinkanten	_	
+6-5	294-295	(	_	
+6-6	295-298	auf	_	
+6-7	299-302	der	_	
+6-8	303-309	Brücke	_	
+6-9	310-315	schon	_	
+6-10	316-320	fast	_	
+6-11	321-324	mit	_	
+6-12	325-338	Absturzgefahr	_	
+6-13	338-339	)	_	
+
+#Text=- gruseligen Unterführungen
+7-1	340-341	-	_	
+7-2	342-352	gruseligen	_	
+7-3	353-367	Unterführungen	_	
+
+#Text=- steilen Rampen in Angsträumen
+8-1	368-369	-	_	
+8-2	370-377	steilen	_	
+8-3	378-384	Rampen	_	
+8-4	385-387	in	_	
+8-5	388-399	Angsträumen	_	
+
+#Text=- Treppen mit unbrauchbaren Aufstiegshilfen (Rille)
+9-1	400-401	-	_	
+9-2	402-409	Treppen	_	
+9-3	410-413	mit	_	
+9-4	414-427	unbrauchbaren	_	
+9-5	428-443	Aufstiegshilfen	_	
+9-6	444-445	(	_	
+9-7	445-450	Rille	_	
+9-8	450-451	)	_	
+
+#Text=- alles mit umständlichen Umwegen
+10-1	452-453	-	_	
+10-2	454-459	alles	_	
+10-3	460-463	mit	_	
+10-4	464-477	umständlichen	_	
+10-5	478-485	Umwegen	_	
+
+#Text=Es wäre schön, wenn hier der Radverkehr und auch die Fußgänger mehr Beachtung finden würden!
+11-1	486-488	Es	_	
+11-2	489-493	wäre	_	
+11-3	494-499	schön	_	
+11-4	499-500	,	_	
+11-5	501-505	wenn	_	
+11-6	506-510	hier	_	
+11-7	511-514	der	_	
+11-8	515-525	Radverkehr	_	
+11-9	526-529	und	_	
+11-10	530-534	auch	_	
+11-11	535-538	die	_	
+11-12	539-548	Fußgänger	_	
+11-13	549-553	mehr	_	
+11-14	554-563	Beachtung	_	
+11-15	564-570	finden	_	
+11-16	571-577	würden	_	
+11-17	577-578	!	_	

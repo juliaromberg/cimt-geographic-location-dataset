@@ -1,0 +1,51 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verbesserung der Oberfläche
+1-1	0-12	Verbesserung	_	
+1-2	13-16	der	_	
+1-3	17-27	Oberfläche	_	
+
+#Text=In der Loestraße sind 30m Pflastersteine verlegt.
+2-1	30-32	In	*[5]	
+2-2	33-36	der	*[5]	
+2-3	37-46	Loestraße	*[5]	
+2-4	47-51	sind	_	
+2-5	52-55	30m	_	
+2-6	56-70	Pflastersteine	_	
+2-7	71-78	verlegt	_	
+2-8	78-79	.	_	
+
+#Text=Diese sollten, zumindest für einen Mittelstreifen für Radfahrer geteert werden.
+3-1	80-85	Diese	_	
+3-2	86-93	sollten	_	
+3-3	93-94	,	_	
+3-4	95-104	zumindest	_	
+3-5	105-108	für	_	
+3-6	109-114	einen	_	
+3-7	115-129	Mittelstreifen	_	
+3-8	130-133	für	_	
+3-9	134-143	Radfahrer	_	
+3-10	144-151	geteert	_	
+3-11	152-158	werden	_	
+3-12	158-159	.	_	
+
+#Text=Insbesondere da es sich am Anfang und Ende der Straße um eine Fahrradstraße handelt!
+4-1	160-172	Insbesondere	_	
+4-2	173-175	da	_	
+4-3	176-178	es	_	
+4-4	179-183	sich	_	
+4-5	184-186	am	_	
+4-6	187-193	Anfang	_	
+4-7	194-197	und	_	
+4-8	198-202	Ende	_	
+4-9	203-206	der	_	
+4-10	207-213	Straße	_	
+4-11	214-216	um	_	
+4-12	217-221	eine	_	
+4-13	222-235	Fahrradstraße	_	
+4-14	236-243	handelt	_	
+4-15	243-244	!	_	

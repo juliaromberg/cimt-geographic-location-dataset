@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=sehr, sehr schlechter, viel zu enger, benutzungspflichtiger Radweg.
+1-1	0-4	sehr	_	
+1-2	4-5	,	_	
+1-3	6-10	sehr	_	
+1-4	11-21	schlechter	_	
+1-5	21-22	,	_	
+1-6	23-27	viel	_	
+1-7	28-30	zu	_	
+1-8	31-36	enger	_	
+1-9	36-37	,	_	
+1-10	38-59	benutzungspflichtiger	_	
+1-11	60-66	Radweg	_	
+1-12	66-67	.	_	
+
+#Text=Lebensgefahr duch tausende Poller.
+2-1	68-80	Lebensgefahr	_	
+2-2	81-85	duch	_	
+2-3	86-94	tausende	_	
+2-4	95-101	Poller	_	
+2-5	101-102	.	_	
+
+#Text=Direktes Abbiegen nach links in den Fontainengraben wird vor der Polizei auch noch erschwert
+3-1	105-113	Direktes	_	
+3-2	114-122	Abbiegen	_	
+3-3	123-127	nach	_	
+3-4	128-133	links	_	
+3-5	134-136	in	_	
+3-6	137-140	den	_	
+3-7	141-156	Fontainengraben	_	
+3-8	157-161	wird	_	
+3-9	162-165	vor	_	
+3-10	166-169	der	_	
+3-11	170-177	Polizei	_	
+3-12	178-182	auch	_	
+3-13	183-187	noch	_	
+3-14	188-197	erschwert	_	

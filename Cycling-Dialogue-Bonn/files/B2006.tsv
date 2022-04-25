@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kopfsteinpflaster/Schienen DLRG
+1-1	0-17	Kopfsteinpflaster	_	
+1-2	17-18	/	_	
+1-3	18-26	Schienen	_	
+1-4	27-31	DLRG	*	
+
+#Text=Auf Höhe der DLRG befindet sich ein schmaler Streifen Kopfsteinpflaster und Schienen, die zum Rhein führen.
+2-1	34-37	Auf	*[4]	
+2-2	38-42	Höhe	*[4]	
+2-3	43-46	der	*[4]	
+2-4	47-51	DLRG	*[4]	
+2-5	52-60	befindet	_	
+2-6	61-65	sich	_	
+2-7	66-69	ein	_	
+2-8	70-78	schmaler	_	
+2-9	79-87	Streifen	_	
+2-10	88-105	Kopfsteinpflaster	_	
+2-11	106-109	und	_	
+2-12	110-118	Schienen	_	
+2-13	118-119	,	_	
+2-14	120-123	die	_	
+2-15	124-127	zum	*[5]	
+2-16	128-133	Rhein	*[5]	
+2-17	134-140	führen	*[5]	
+2-18	140-141	.	_	
+
+#Text=Dieser Streifen ist bei nasser Witterung sehr rutschig und sollte durch Asphalt ersetzt werden.
+3-1	142-148	Dieser	_	
+3-2	149-157	Streifen	_	
+3-3	158-161	ist	_	
+3-4	162-165	bei	_	
+3-5	166-172	nasser	_	
+3-6	173-182	Witterung	_	
+3-7	183-187	sehr	_	
+3-8	188-196	rutschig	_	
+3-9	197-200	und	_	
+3-10	201-207	sollte	_	
+3-11	208-213	durch	_	
+3-12	214-221	Asphalt	_	
+3-13	222-229	ersetzt	_	
+3-14	230-236	werden	_	
+3-15	236-237	.	_	

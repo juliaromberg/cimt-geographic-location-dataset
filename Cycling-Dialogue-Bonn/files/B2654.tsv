@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlechte Fahrbahnqualität, nicht möglich Sicherheitsabstand zu parkenden Autos zu halten ohne Schutzstreifen zu verlassen
+1-1	0-9	Schlechte	_	
+1-2	10-26	Fahrbahnqualität	_	
+1-3	26-27	,	_	
+1-4	28-33	nicht	_	
+1-5	34-41	möglich	_	
+1-6	42-60	Sicherheitsabstand	_	
+1-7	61-63	zu	_	
+1-8	64-73	parkenden	_	
+1-9	74-79	Autos	_	
+1-10	80-82	zu	_	
+1-11	83-89	halten	_	
+1-12	90-94	ohne	_	
+1-13	95-109	Schutzstreifen	_	
+1-14	110-112	zu	_	
+1-15	113-122	verlassen	_	
+
+#Text=Aufgrund der schlechten Fahrbahnqualität und der Dooringgefahr (plötzliches Öffnen von Fahrzeugtüren die in der Regel zu schwersten Verletzungen führen) ist es nicht möglich den Schutzstreifen zu nutzen.
+2-1	125-133	Aufgrund	_	
+2-2	134-137	der	_	
+2-3	138-148	schlechten	_	
+2-4	149-165	Fahrbahnqualität	_	
+2-5	166-169	und	_	
+2-6	170-173	der	_	
+2-7	174-187	Dooringgefahr	_	
+2-8	188-189	(	_	
+2-9	189-200	plötzliches	_	
+2-10	201-207	Öffnen	_	
+2-11	208-211	von	_	
+2-12	212-225	Fahrzeugtüren	_	
+2-13	226-229	die	_	
+2-14	230-232	in	_	
+2-15	233-236	der	_	
+2-16	237-242	Regel	_	
+2-17	243-245	zu	_	
+2-18	246-256	schwersten	_	
+2-19	257-269	Verletzungen	_	
+2-20	270-276	führen	_	
+2-21	276-277	)	_	
+2-22	278-281	ist	_	
+2-23	282-284	es	_	
+2-24	285-290	nicht	_	
+2-25	291-298	möglich	_	
+2-26	299-302	den	_	
+2-27	303-317	Schutzstreifen	_	
+2-28	318-320	zu	_	
+2-29	321-327	nutzen	_	
+2-30	327-328	.	_	
+
+#Text=Beim ausweichen auf die Fahrbahn die eine angemessene Geschwindigkeit und Sicherheitsabstand zulässt wird man bisweilen sehr aggressiv überholt und geschnitten.
+3-1	329-333	Beim	_	
+3-2	334-344	ausweichen	_	
+3-3	345-348	auf	_	
+3-4	349-352	die	_	
+3-5	353-361	Fahrbahn	_	
+3-6	362-365	die	_	
+3-7	366-370	eine	_	
+3-8	371-382	angemessene	_	
+3-9	383-398	Geschwindigkeit	_	
+3-10	399-402	und	_	
+3-11	403-421	Sicherheitsabstand	_	
+3-12	422-429	zulässt	_	
+3-13	430-434	wird	_	
+3-14	435-438	man	_	
+3-15	439-448	bisweilen	_	
+3-16	449-453	sehr	_	
+3-17	454-463	aggressiv	_	
+3-18	464-472	überholt	_	
+3-19	473-476	und	_	
+3-20	477-488	geschnitten	_	
+3-21	488-489	.	_	

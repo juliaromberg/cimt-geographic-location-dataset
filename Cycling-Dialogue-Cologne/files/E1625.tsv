@@ -1,0 +1,78 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelphase für Fußgänger-Radler-Kreuz- und Querverkehr
+1-1	0-10	Ampelphase	_	
+1-2	11-14	für	_	
+1-3	15-37	Fußgänger-Radler-Kreuz	_	
+1-4	37-38	-	_	
+1-5	39-42	und	_	
+1-6	43-54	Querverkehr	_	
+
+#Text=Aus Tokio z.B. kennt man Ampelschaltungen, bei denen Kreuzungen mit sehr viel Fußgängerverkehr die Nutzung der gesamten Kreuzung erlauben.
+2-1	57-60	Aus	_	
+2-2	61-66	Tokio	_	
+2-3	67-70	z.B	_	
+2-4	70-71	.	_	
+2-5	72-77	kennt	_	
+2-6	78-81	man	_	
+2-7	82-98	Ampelschaltungen	_	
+2-8	98-99	,	_	
+2-9	100-103	bei	_	
+2-10	104-109	denen	_	
+2-11	110-120	Kreuzungen	_	
+2-12	121-124	mit	_	
+2-13	125-129	sehr	_	
+2-14	130-134	viel	_	
+2-15	135-151	Fußgängerverkehr	_	
+2-16	152-155	die	_	
+2-17	156-163	Nutzung	_	
+2-18	164-167	der	_	
+2-19	168-176	gesamten	_	
+2-20	177-185	Kreuzung	_	
+2-21	186-194	erlauben	_	
+2-22	194-195	.	_	
+
+#Text=Alle können dann kreuz und quer hinüber.
+3-1	196-200	Alle	_	
+3-2	201-207	können	_	
+3-3	208-212	dann	_	
+3-4	213-218	kreuz	_	
+3-5	219-222	und	_	
+3-6	223-227	quer	_	
+3-7	228-235	hinüber	_	
+3-8	235-236	.	_	
+
+#Text=Bitte prüfen, ob das hier möglich ist, weil der schmale Übergang für Fußgänger, KVB-Passagiere und Radler vor allem zu Stoßzeiten immer viel zu eng ist.
+4-1	237-242	Bitte	_	
+4-2	243-249	prüfen	_	
+4-3	249-250	,	_	
+4-4	251-253	ob	_	
+4-5	254-257	das	_	
+4-6	258-262	hier	_	
+4-7	263-270	möglich	_	
+4-8	271-274	ist	_	
+4-9	274-275	,	_	
+4-10	276-280	weil	_	
+4-11	281-284	der	_	
+4-12	285-292	schmale	_	
+4-13	293-301	Übergang	_	
+4-14	302-305	für	_	
+4-15	306-315	Fußgänger	_	
+4-16	315-316	,	_	
+4-17	317-331	KVB-Passagiere	_	
+4-18	332-335	und	_	
+4-19	336-342	Radler	_	
+4-20	343-346	vor	_	
+4-21	347-352	allem	_	
+4-22	353-355	zu	_	
+4-23	356-366	Stoßzeiten	_	
+4-24	367-372	immer	_	
+4-25	373-377	viel	_	
+4-26	378-380	zu	_	
+4-27	381-384	eng	_	
+4-28	385-388	ist	_	
+4-29	388-389	.	_	

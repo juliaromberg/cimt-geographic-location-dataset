@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Erweiterung Radweg
+1-1	0-11	Erweiterung	_	
+1-2	12-18	Radweg	_	
+
+#Text=Hier endet der Radweg ohne Schild oder Warnung.
+2-1	21-25	Hier	_	
+2-2	26-31	endet	_	
+2-3	32-35	der	_	
+2-4	36-42	Radweg	_	
+2-5	43-47	ohne	_	
+2-6	48-54	Schild	_	
+2-7	55-59	oder	_	
+2-8	60-67	Warnung	_	
+2-9	67-68	.	_	
+
+#Text=Die Erweiterung der weg bis zu Ende Siegburger Str. Wäre für Pendler Sinnvoll
+3-1	69-72	Die	_	
+3-2	73-84	Erweiterung	_	
+3-3	85-88	der	_	
+3-4	89-92	weg	_	
+3-5	93-96	bis	_	
+3-6	97-99	zu	_	
+3-7	100-104	Ende	_	
+3-8	105-115	Siegburger	*[4]	
+3-9	116-119	Str	*[4]	
+3-10	119-120	.	_	
+3-11	121-125	Wäre	_	
+3-12	126-129	für	_	
+3-13	130-137	Pendler	_	
+3-14	138-146	Sinnvoll	_	

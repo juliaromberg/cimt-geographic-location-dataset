@@ -1,0 +1,44 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Für Autos sperren
+1-1	0-3	Für	_	
+1-2	4-9	Autos	_	
+1-3	10-17	sperren	_	
+
+#Text=Wer hier täglich mit dem Fahrrad mit Autofahrern in Konflikt gerät, weiss, dass diese Straße zu eng ist.
+2-1	20-23	Wer	_	
+2-2	24-28	hier	_	
+2-3	29-36	täglich	_	
+2-4	37-40	mit	_	
+2-5	41-44	dem	_	
+2-6	45-52	Fahrrad	_	
+2-7	53-56	mit	_	
+2-8	57-68	Autofahrern	_	
+2-9	69-71	in	_	
+2-10	72-80	Konflikt	_	
+2-11	81-86	gerät	_	
+2-12	86-87	,	_	
+2-13	88-93	weiss	_	
+2-14	93-94	,	_	
+2-15	95-99	dass	_	
+2-16	100-105	diese	_	
+2-17	106-112	Straße	_	
+2-18	113-115	zu	_	
+2-19	116-119	eng	_	
+2-20	120-123	ist	_	
+2-21	123-124	.	_	
+
+#Text=Bitte für Autofahrer sperren und zum Fahrrad machen.
+3-1	125-130	Bitte	_	
+3-2	131-134	für	_	
+3-3	135-145	Autofahrer	_	
+3-4	146-153	sperren	_	
+3-5	154-157	und	_	
+3-6	158-161	zum	_	
+3-7	162-169	Fahrrad	_	
+3-8	170-176	machen	_	
+3-9	176-177	.	_	

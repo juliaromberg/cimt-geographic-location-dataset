@@ -1,0 +1,94 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radspur einrichten
+1-1	0-7	Radspur	_	
+1-2	8-18	einrichten	_	
+
+#Text=Die Vogelsanger Str. ist eine der Haupverbindungen von Vogelsang.
+2-1	21-24	Die	*[7]	
+2-2	25-36	Vogelsanger	*[7]	
+2-3	37-40	Str	*[7]	
+2-4	40-41	.	_	
+2-5	42-45	ist	_	
+2-6	46-50	eine	_	
+2-7	51-54	der	_	
+2-8	55-71	Haupverbindungen	_	
+2-9	72-75	von	_	
+2-10	76-85	Vogelsang	_	
+2-11	85-86	.	_	
+
+#Text=Die Straße ist sehr breit und verleitet daher Autos oft zum Schnellfahren.
+3-1	87-90	Die	_	
+3-2	91-97	Straße	_	
+3-3	98-101	ist	_	
+3-4	102-106	sehr	_	
+3-5	107-112	breit	_	
+3-6	113-116	und	_	
+3-7	117-126	verleitet	_	
+3-8	127-132	daher	_	
+3-9	133-138	Autos	_	
+3-10	139-142	oft	_	
+3-11	143-146	zum	_	
+3-12	147-160	Schnellfahren	_	
+3-13	160-161	.	_	
+
+#Text=Radfahrer haeb hier keinen zugewiesenen Schutzraum (bis auf die paar Meter um die Kreuzung Äussere Kanalstr.).
+4-1	162-171	Radfahrer	_	
+4-2	172-176	haeb	_	
+4-3	177-181	hier	_	
+4-4	182-188	keinen	_	
+4-5	189-201	zugewiesenen	_	
+4-6	202-212	Schutzraum	_	
+4-7	213-214	(	_	
+4-8	214-217	bis	_	
+4-9	218-221	auf	_	
+4-10	222-225	die	_	
+4-11	226-230	paar	_	
+4-12	231-236	Meter	_	
+4-13	237-239	um	_	
+4-14	240-243	die	*[8]	
+4-15	244-252	Kreuzung	*[8]	
+4-16	253-260	Äussere	*[8]	
+4-17	261-269	Kanalstr	*[8]	
+4-18	269-270	.	_	
+4-19	270-271	)	_	
+4-20	271-272	.	_	
+
+#Text=Das sollte dringend installiert werden.
+5-1	273-276	Das	_	
+5-2	277-283	sollte	_	
+5-3	284-292	dringend	_	
+5-4	293-304	installiert	_	
+5-5	305-311	werden	_	
+5-6	311-312	.	_	
+
+#Text=Am besten breit, rot und mit durchgezogener Linie wie auf der Subbelrather Str. (zw. Gürtel und Äußere Kanal Str.)
+6-1	313-315	Am	_	
+6-2	316-322	besten	_	
+6-3	323-328	breit	_	
+6-4	328-329	,	_	
+6-5	330-333	rot	_	
+6-6	334-337	und	_	
+6-7	338-341	mit	_	
+6-8	342-356	durchgezogener	_	
+6-9	357-362	Linie	_	
+6-10	363-366	wie	_	
+6-11	367-370	auf	*[9]	
+6-12	371-374	der	*[9]	
+6-13	375-387	Subbelrather	*[9]	
+6-14	388-391	Str	*[9]	
+6-15	391-392	.	*[9]	
+6-16	393-394	(	*[9]	
+6-17	394-396	zw	*[9]	
+6-18	396-397	.	*[9]	
+6-19	398-404	Gürtel	*[9]	
+6-20	405-408	und	*[9]	
+6-21	409-415	Äußere	*[9]	
+6-22	416-421	Kanal	*[9]	
+6-23	422-425	Str	*[9]	
+6-24	425-426	.	_	
+6-25	426-427	)	_	

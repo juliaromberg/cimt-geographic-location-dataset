@@ -1,0 +1,142 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sperrung des Uferweg in der Rheinaue für Radfahrer
+1-1	0-8	Sperrung	_	
+1-2	9-12	des	_	
+1-3	13-20	Uferweg	*[9]	
+1-4	21-23	in	*[9]	
+1-5	24-27	der	*[9]	
+1-6	28-36	Rheinaue	*[9]	
+1-7	37-40	für	_	
+1-8	41-50	Radfahrer	_	
+
+#Text=Sehr geehrte Damen und Herren, ich schlage vor, in der linksrheinischen Rheinaue den Weg direkt am Rhein entlang für Radfahrer zu sperren.
+2-1	53-57	Sehr	_	
+2-2	58-65	geehrte	_	
+2-3	66-71	Damen	_	
+2-4	72-75	und	_	
+2-5	76-82	Herren	_	
+2-6	82-83	,	_	
+2-7	84-87	ich	_	
+2-8	88-95	schlage	_	
+2-9	96-99	vor	_	
+2-10	99-100	,	_	
+2-11	101-103	in	*[10]	
+2-12	104-107	der	*[10]	
+2-13	108-124	linksrheinischen	*[10]	
+2-14	125-133	Rheinaue	*[10]	
+2-15	134-137	den	*[10]	
+2-16	138-141	Weg	*[10]	
+2-17	142-148	direkt	*[10]	
+2-18	149-151	am	*[10]	
+2-19	152-157	Rhein	*[10]	
+2-20	158-165	entlang	*[10]	
+2-21	166-169	für	_	
+2-22	170-179	Radfahrer	_	
+2-23	180-182	zu	_	
+2-24	183-190	sperren	_	
+2-25	190-191	.	_	
+
+#Text=Als Fußgänger sollte man einen direkten Zugang zum Rhein haben und am Rhein entlang spazieren gehen können.
+3-1	192-195	Als	_	
+3-2	196-205	Fußgänger	_	
+3-3	206-212	sollte	_	
+3-4	213-216	man	_	
+3-5	217-222	einen	_	
+3-6	223-231	direkten	_	
+3-7	232-238	Zugang	_	
+3-8	239-242	zum	_	
+3-9	243-248	Rhein	_	
+3-10	249-254	haben	_	
+3-11	255-258	und	_	
+3-12	259-261	am	_	
+3-13	262-267	Rhein	_	
+3-14	268-275	entlang	_	
+3-15	276-285	spazieren	_	
+3-16	286-291	gehen	_	
+3-17	292-298	können	_	
+3-18	298-299	.	_	
+
+#Text=Dies ist derzeit nicht möglich, weil dort eine Radraserbahn ist, auf der Kampfradler verbissen in die Pedale tretend ihre Aggressionen ausleben.
+4-1	300-304	Dies	_	
+4-2	305-308	ist	_	
+4-3	309-316	derzeit	_	
+4-4	317-322	nicht	_	
+4-5	323-330	möglich	_	
+4-6	330-331	,	_	
+4-7	332-336	weil	_	
+4-8	337-341	dort	_	
+4-9	342-346	eine	_	
+4-10	347-359	Radraserbahn	_	
+4-11	360-363	ist	_	
+4-12	363-364	,	_	
+4-13	365-368	auf	_	
+4-14	369-372	der	_	
+4-15	373-384	Kampfradler	_	
+4-16	385-394	verbissen	_	
+4-17	395-397	in	_	
+4-18	398-401	die	_	
+4-19	402-408	Pedale	_	
+4-20	409-416	tretend	_	
+4-21	417-421	ihre	_	
+4-22	422-434	Aggressionen	_	
+4-23	435-443	ausleben	_	
+4-24	443-444	.	_	
+
+#Text=Auch in der Rheinaue selbst sind leider permanent Radfahrer auf Wegen unterwegs, die klar als Fußgängerwege gekennzeichnet sind.
+5-1	445-449	Auch	_	
+5-2	450-452	in	*[11]	
+5-3	453-456	der	*[11]	
+5-4	457-465	Rheinaue	*[11]	
+5-5	466-472	selbst	_	
+5-6	473-477	sind	_	
+5-7	478-484	leider	_	
+5-8	485-494	permanent	_	
+5-9	495-504	Radfahrer	_	
+5-10	505-508	auf	_	
+5-11	509-514	Wegen	_	
+5-12	515-524	unterwegs	_	
+5-13	524-525	,	_	
+5-14	526-529	die	_	
+5-15	530-534	klar	_	
+5-16	535-538	als	_	
+5-17	539-552	Fußgängerwege	_	
+5-18	553-567	gekennzeichnet	_	
+5-19	568-572	sind	_	
+5-20	572-573	.	_	
+
+#Text=Radfahrer sollten dazu verpflichtet werden, entlang der Straßen Ludwig-Erhard-Allee / Adenauerallee zu fahren.
+6-1	574-583	Radfahrer	_	
+6-2	584-591	sollten	_	
+6-3	592-596	dazu	_	
+6-4	597-609	verpflichtet	_	
+6-5	610-616	werden	_	
+6-6	616-617	,	_	
+6-7	618-625	entlang	*[12]	
+6-8	626-629	der	*[12]	
+6-9	630-637	Straßen	*[12]	
+6-10	638-657	Ludwig-Erhard-Allee	*[12]	
+6-11	658-659	/	*[12]	
+6-12	660-673	Adenauerallee	*[12]	
+6-13	674-676	zu	_	
+6-14	677-683	fahren	_	
+6-15	683-684	.	_	
+
+#Text=Hier belästigen sie keine Fußgänger.
+7-1	685-689	Hier	_	
+7-2	690-700	belästigen	_	
+7-3	701-704	sie	_	
+7-4	705-710	keine	_	
+7-5	711-720	Fußgänger	_	
+7-6	720-721	.	_	
+
+#Text=Mit freundlichen Grüßen Stephanie Gärtner
+8-1	722-725	Mit	_	
+8-2	726-738	freundlichen	_	
+8-3	739-745	Grüßen	_	
+8-4	746-755	Stephanie	_	
+8-5	756-763	Gärtner	_	

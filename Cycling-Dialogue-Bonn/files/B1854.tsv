@@ -1,0 +1,121 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kaiserstraße sollte Fahrradstraße werden
+1-1	0-12	Kaiserstraße	*	
+1-2	13-19	sollte	_	
+1-3	20-33	Fahrradstraße	_	
+1-4	34-40	werden	_	
+
+#Text=Die Kaiserstraße hat zwischen der Reuterbrücke und der Innenstadt einen schmalen Radweg auf der Bahnseite, der in beide Richtungen sehr stark von Radfahrern befahren ist.
+2-1	43-46	Die	*[8]	
+2-2	47-59	Kaiserstraße	*[8]	
+2-3	60-63	hat	_	
+2-4	64-72	zwischen	*[9]	
+2-5	73-76	der	*[9]	
+2-6	77-89	Reuterbrücke	*[9]	
+2-7	90-93	und	*[9]	
+2-8	94-97	der	*[9]	
+2-9	98-108	Innenstadt	*[9]	
+2-10	109-114	einen	_	
+2-11	115-123	schmalen	_	
+2-12	124-130	Radweg	_	
+2-13	131-134	auf	_	
+2-14	135-138	der	_	
+2-15	139-148	Bahnseite	_	
+2-16	148-149	,	_	
+2-17	150-153	der	_	
+2-18	154-156	in	_	
+2-19	157-162	beide	_	
+2-20	163-173	Richtungen	_	
+2-21	174-178	sehr	_	
+2-22	179-184	stark	_	
+2-23	185-188	von	_	
+2-24	189-199	Radfahrern	_	
+2-25	200-208	befahren	_	
+2-26	209-212	ist	_	
+2-27	212-213	.	_	
+
+#Text=Im morgendlichen und abendlichen Berufsverkehr sind hier deutlich mehr Radfahrer als Autofahrer unterwegs, die sich eine sehr viel schmalere Fahrbahn als die Autofahrer teilen müssen.
+3-1	214-216	Im	_	
+3-2	217-230	morgendlichen	_	
+3-3	231-234	und	_	
+3-4	235-246	abendlichen	_	
+3-5	247-260	Berufsverkehr	_	
+3-6	261-265	sind	_	
+3-7	266-270	hier	_	
+3-8	271-279	deutlich	_	
+3-9	280-284	mehr	_	
+3-10	285-294	Radfahrer	_	
+3-11	295-298	als	_	
+3-12	299-309	Autofahrer	_	
+3-13	310-319	unterwegs	_	
+3-14	319-320	,	_	
+3-15	321-324	die	_	
+3-16	325-329	sich	_	
+3-17	330-334	eine	_	
+3-18	335-339	sehr	_	
+3-19	340-344	viel	_	
+3-20	345-354	schmalere	_	
+3-21	355-363	Fahrbahn	_	
+3-22	364-367	als	_	
+3-23	368-371	die	_	
+3-24	372-382	Autofahrer	_	
+3-25	383-389	teilen	_	
+3-26	390-396	müssen	_	
+3-27	396-397	.	_	
+
+#Text=Bei der Begegnung der Radfahrer kommt es immer wieder zu kritischen Situationen.
+4-1	398-401	Bei	_	
+4-2	402-405	der	_	
+4-3	406-415	Begegnung	_	
+4-4	416-419	der	_	
+4-5	420-429	Radfahrer	_	
+4-6	430-435	kommt	_	
+4-7	436-438	es	_	
+4-8	439-444	immer	_	
+4-9	445-451	wieder	_	
+4-10	452-454	zu	_	
+4-11	455-465	kritischen	_	
+4-12	466-477	Situationen	_	
+4-13	477-478	.	_	
+
+#Text=Autofahrer hätten bei einer Fahrradstraße die Möglichkeit, auf die vierspurige Adenauerallee auszuweichen.
+5-1	479-489	Autofahrer	_	
+5-2	490-496	hätten	_	
+5-3	497-500	bei	_	
+5-4	501-506	einer	_	
+5-5	507-520	Fahrradstraße	_	
+5-6	521-524	die	_	
+5-7	525-536	Möglichkeit	_	
+5-8	536-537	,	_	
+5-9	538-541	auf	_	
+5-10	542-545	die	_	
+5-11	546-557	vierspurige	_	
+5-12	558-571	Adenauerallee	*	
+5-13	572-584	auszuweichen	_	
+5-14	584-585	.	_	
+
+#Text=Der Busverkehr müsste angepasst werden.
+6-1	586-589	Der	_	
+6-2	590-600	Busverkehr	_	
+6-3	601-607	müsste	_	
+6-4	608-617	angepasst	_	
+6-5	618-624	werden	_	
+6-6	624-625	.	_	
+
+#Text=Andere fahrradfreundliche Städte haben Straßen entsprechender Kategorie als Fahrradstraßen ausgewiesen.
+7-1	626-632	Andere	_	
+7-2	633-651	fahrradfreundliche	_	
+7-3	652-658	Städte	_	
+7-4	659-664	haben	_	
+7-5	665-672	Straßen	_	
+7-6	673-687	entsprechender	_	
+7-7	688-697	Kategorie	_	
+7-8	698-701	als	_	
+7-9	702-716	Fahrradstraßen	_	
+7-10	717-728	ausgewiesen	_	
+7-11	728-729	.	_	

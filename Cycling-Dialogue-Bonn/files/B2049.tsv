@@ -1,0 +1,98 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sehr gefährlich
+1-1	0-4	Sehr	_	
+1-2	5-15	gefährlich	_	
+
+#Text=Hier vor dem Hilton verläuft der Radweg rechts neben den parkenden Autos, in dem Fall ist es der Taxiparkplatz vor dem Hotel.
+2-1	18-22	Hier	_	
+2-2	23-26	vor	*[5]	
+2-3	27-30	dem	*[5]	
+2-4	31-37	Hilton	*[5]	
+2-5	38-46	verläuft	_	
+2-6	47-50	der	_	
+2-7	51-57	Radweg	_	
+2-8	58-64	rechts	_	
+2-9	65-70	neben	_	
+2-10	71-74	den	_	
+2-11	75-84	parkenden	_	
+2-12	85-90	Autos	_	
+2-13	90-91	,	_	
+2-14	92-94	in	_	
+2-15	95-98	dem	_	
+2-16	99-103	Fall	_	
+2-17	104-107	ist	_	
+2-18	108-110	es	_	
+2-19	111-114	der	_	
+2-20	115-128	Taxiparkplatz	_	
+2-21	129-132	vor	_	
+2-22	133-136	dem	_	
+2-23	137-142	Hotel	_	
+2-24	142-143	.	_	
+
+#Text=Die (ortsunkundigen) Taxigäste öffnen die Beifahrertür, ohne auf mögliche Radfahrer zu achten, was regelmäßig (ich fahre die Strecke 4x pro Woche) zu brenzligen Situationen führt.
+3-1	144-147	Die	_	
+3-2	148-149	(	_	
+3-3	149-163	ortsunkundigen	_	
+3-4	163-164	)	_	
+3-5	165-174	Taxigäste	_	
+3-6	175-181	öffnen	_	
+3-7	182-185	die	_	
+3-8	186-198	Beifahrertür	_	
+3-9	198-199	,	_	
+3-10	200-204	ohne	_	
+3-11	205-208	auf	_	
+3-12	209-217	mögliche	_	
+3-13	218-227	Radfahrer	_	
+3-14	228-230	zu	_	
+3-15	231-237	achten	_	
+3-16	237-238	,	_	
+3-17	239-242	was	_	
+3-18	243-253	regelmäßig	_	
+3-19	254-255	(	_	
+3-20	255-258	ich	_	
+3-21	259-264	fahre	_	
+3-22	265-268	die	_	
+3-23	269-276	Strecke	_	
+3-24	277-279	4x	_	
+3-25	280-283	pro	_	
+3-26	284-289	Woche	_	
+3-27	289-290	)	_	
+3-28	291-293	zu	_	
+3-29	294-304	brenzligen	_	
+3-30	305-316	Situationen	_	
+3-31	317-322	führt	_	
+3-32	322-323	.	_	
+
+#Text=Fazit: Unmittelbar am Aussteigebereich der Taxizone eines großen, gut frequentierten Hotels einen Radweg entlangzuführen, ist eine schlechte weil für alle Beteiligten gefährliche Lösung.
+4-1	324-329	Fazit	_	
+4-2	329-330	:	_	
+4-3	331-342	Unmittelbar	_	
+4-4	343-345	am	_	
+4-5	346-362	Aussteigebereich	_	
+4-6	363-366	der	_	
+4-7	367-375	Taxizone	_	
+4-8	376-381	eines	_	
+4-9	382-388	großen	_	
+4-10	388-389	,	_	
+4-11	390-393	gut	_	
+4-12	394-408	frequentierten	_	
+4-13	409-415	Hotels	_	
+4-14	416-421	einen	_	
+4-15	422-428	Radweg	_	
+4-16	429-444	entlangzuführen	_	
+4-17	444-445	,	_	
+4-18	446-449	ist	_	
+4-19	450-454	eine	_	
+4-20	455-464	schlechte	_	
+4-21	465-469	weil	_	
+4-22	470-473	für	_	
+4-23	474-478	alle	_	
+4-24	479-490	Beteiligten	_	
+4-25	491-502	gefährliche	_	
+4-26	503-509	Lösung	_	
+4-27	509-510	.	_	

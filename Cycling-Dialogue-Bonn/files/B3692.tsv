@@ -1,0 +1,123 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefahr durch hohe Bordsteine
+1-1	0-6	Gefahr	_	
+1-2	7-12	durch	_	
+1-3	13-17	hohe	_	
+1-4	18-28	Bordsteine	_	
+
+#Text=Auf der Friedrich-Ebert-Allee sind zwischen dem neuen Kreisverkehr (zur Maria-Kahle-Allee) und der Bahnhaltestelle Olof-Palme-Allee keine abgesenkten Bordsteine an den Stellen, wo der Fahrradweg einmündende Straßen kreuzt (Ausnahme: Einmündung der Ollenhauerstraße), also am Kreisverkehr selbst sowie Einmündung Olof-Pale-Allee und Autobahnzubringer.
+2-1	31-34	Auf	*[5]	
+2-2	35-38	der	*[5]	
+2-3	39-60	Friedrich-Ebert-Allee	*[5]	
+2-4	61-65	sind	*[5]	
+2-5	66-74	zwischen	*[5]	
+2-6	75-78	dem	*[5]	
+2-7	79-84	neuen	*[5]	
+2-8	85-97	Kreisverkehr	*[5]	
+2-9	98-99	(	*[5]	
+2-10	99-102	zur	*[5]	
+2-11	103-120	Maria-Kahle-Allee	*[5]	
+2-12	120-121	)	*[5]	
+2-13	122-125	und	*[5]	
+2-14	126-129	der	*[5]	
+2-15	130-145	Bahnhaltestelle	*[5]	
+2-16	146-162	Olof-Palme-Allee	*[5]	
+2-17	163-168	keine	_	
+2-18	169-180	abgesenkten	_	
+2-19	181-191	Bordsteine	_	
+2-20	192-194	an	_	
+2-21	195-198	den	_	
+2-22	199-206	Stellen	_	
+2-23	206-207	,	_	
+2-24	208-210	wo	_	
+2-25	211-214	der	_	
+2-26	215-225	Fahrradweg	_	
+2-27	226-237	einmündende	_	
+2-28	238-245	Straßen	_	
+2-29	246-252	kreuzt	_	
+2-30	253-254	(	_	
+2-31	254-262	Ausnahme	_	
+2-32	262-263	:	_	
+2-33	264-274	Einmündung	*[6]	
+2-34	275-278	der	*[6]	
+2-35	279-295	Ollenhauerstraße	*[6]	
+2-36	295-296	)	_	
+2-37	296-297	,	_	
+2-38	298-302	also	_	
+2-39	303-305	am	_	
+2-40	306-318	Kreisverkehr	_	
+2-41	319-325	selbst	_	
+2-42	326-331	sowie	_	
+2-43	332-342	Einmündung	*[7]	
+2-44	343-358	Olof-Pale-Allee	*[7]	
+2-45	359-362	und	_	
+2-46	363-380	Autobahnzubringer	_	
+2-47	380-381	.	_	
+
+#Text=Die Bordsteine sind z.T. sogar ungewöhnlich hoch, sodass sie nur sehr langsam befahren werden können bzw. am besten gar nicht befahren werden, da man sonst Gefahr läuft, sein Fahrrad zu beschädigen.
+3-1	382-385	Die	_	
+3-2	386-396	Bordsteine	_	
+3-3	397-401	sind	_	
+3-4	402-405	z.T	_	
+3-5	405-406	.	_	
+3-6	407-412	sogar	_	
+3-7	413-425	ungewöhnlich	_	
+3-8	426-430	hoch	_	
+3-9	430-431	,	_	
+3-10	432-438	sodass	_	
+3-11	439-442	sie	_	
+3-12	443-446	nur	_	
+3-13	447-451	sehr	_	
+3-14	452-459	langsam	_	
+3-15	460-468	befahren	_	
+3-16	469-475	werden	_	
+3-17	476-482	können	_	
+3-18	483-486	bzw	_	
+3-19	486-487	.	_	
+3-20	488-490	am	_	
+3-21	491-497	besten	_	
+3-22	498-501	gar	_	
+3-23	502-507	nicht	_	
+3-24	508-516	befahren	_	
+3-25	517-523	werden	_	
+3-26	523-524	,	_	
+3-27	525-527	da	_	
+3-28	528-531	man	_	
+3-29	532-537	sonst	_	
+3-30	538-544	Gefahr	_	
+3-31	545-550	läuft	_	
+3-32	550-551	,	_	
+3-33	552-556	sein	_	
+3-34	557-564	Fahrrad	_	
+3-35	565-567	zu	_	
+3-36	568-579	beschädigen	_	
+3-37	579-580	.	_	
+
+#Text=Jemand, der dort nicht gewohnheitsmäßig entlangfährt, dürfte, zumindest bei Dunkelheit, sogar Gefahr laufen, dort zu stürzen.
+4-1	581-587	Jemand	_	
+4-2	587-588	,	_	
+4-3	589-592	der	_	
+4-4	593-597	dort	_	
+4-5	598-603	nicht	_	
+4-6	604-620	gewohnheitsmäßig	_	
+4-7	621-633	entlangfährt	_	
+4-8	633-634	,	_	
+4-9	635-641	dürfte	_	
+4-10	641-642	,	_	
+4-11	643-652	zumindest	_	
+4-12	653-656	bei	_	
+4-13	657-667	Dunkelheit	_	
+4-14	667-668	,	_	
+4-15	669-674	sogar	_	
+4-16	675-681	Gefahr	_	
+4-17	682-688	laufen	_	
+4-18	688-689	,	_	
+4-19	690-694	dort	_	
+4-20	695-697	zu	_	
+4-21	698-705	stürzen	_	
+4-22	705-706	.	_	

@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Achtung Smombies
+1-1	0-7	Achtung	_	
+1-2	8-16	Smombies	_	
+
+#Text=Im Berufsverkehr strömen mit jeder Ampelphase Dutzende von Smombies über den Radweg ohne nach links oder rechts zu sehen.
+2-1	19-21	Im	_	
+2-2	22-35	Berufsverkehr	_	
+2-3	36-43	strömen	_	
+2-4	44-47	mit	_	
+2-5	48-53	jeder	_	
+2-6	54-64	Ampelphase	_	
+2-7	65-73	Dutzende	_	
+2-8	74-77	von	_	
+2-9	78-86	Smombies	_	
+2-10	87-91	über	_	
+2-11	92-95	den	_	
+2-12	96-102	Radweg	_	
+2-13	103-107	ohne	_	
+2-14	108-112	nach	_	
+2-15	113-118	links	_	
+2-16	119-123	oder	_	
+2-17	124-130	rechts	_	
+2-18	131-133	zu	_	
+2-19	134-139	sehen	_	
+2-20	139-140	.	_	

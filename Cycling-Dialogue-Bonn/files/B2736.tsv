@@ -1,0 +1,33 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unterführung am Bahnhof
+1-1	0-12	Unterführung	_	
+1-2	13-15	am	_	
+1-3	16-23	Bahnhof	_	
+
+#Text=Wir brauchen schnelle Radstrecken ohne absteigen.
+2-1	26-29	Wir	_	
+2-2	30-38	brauchen	_	
+2-3	39-47	schnelle	_	
+2-4	48-59	Radstrecken	_	
+2-5	60-64	ohne	_	
+2-6	65-74	absteigen	_	
+2-7	74-75	.	_	
+
+#Text=Ein Unterführung für Radfahrer an Bahnhof würde vieles für Radfahrer verbessern.
+3-1	76-79	Ein	_	
+3-2	80-92	Unterführung	_	
+3-3	93-96	für	_	
+3-4	97-106	Radfahrer	_	
+3-5	107-109	an	_	
+3-6	110-117	Bahnhof	_	
+3-7	118-123	würde	_	
+3-8	124-130	vieles	_	
+3-9	131-134	für	_	
+3-10	135-144	Radfahrer	_	
+3-11	145-155	verbessern	_	
+3-12	155-156	.	_	

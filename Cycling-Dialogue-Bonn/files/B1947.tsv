@@ -1,0 +1,47 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schulweg zur IGS
+1-1	0-8	Schulweg	_	
+1-2	9-12	zur	*[5]	
+1-3	13-16	IGS	*[5]	
+
+#Text=Hier müssen die auf der Fahrt zur IGS die Straße kreuzen.
+2-1	19-23	Hier	_	
+2-2	24-30	müssen	_	
+2-3	31-34	die	_	
+2-4	35-38	auf	_	
+2-5	39-42	der	_	
+2-6	43-48	Fahrt	_	
+2-7	49-52	zur	*[6]	
+2-8	53-56	IGS	*[6]	
+2-9	57-60	die	_	
+2-10	61-67	Straße	_	
+2-11	68-75	kreuzen	_	
+2-12	75-76	.	_	
+
+#Text=Die Kreuzung ist unübersichtlich und es gibt keinen Radweg.
+3-1	77-80	Die	_	
+3-2	81-89	Kreuzung	_	
+3-3	90-93	ist	_	
+3-4	94-109	unübersichtlich	_	
+3-5	110-113	und	_	
+3-6	114-116	es	_	
+3-7	117-121	gibt	_	
+3-8	122-128	keinen	_	
+3-9	129-135	Radweg	_	
+3-10	135-136	.	_	
+
+#Text=Zudem Parken Autos auf dem Weg vor den Autoläden
+4-1	137-142	Zudem	_	
+4-2	143-149	Parken	_	
+4-3	150-155	Autos	_	
+4-4	156-159	auf	_	
+4-5	160-163	dem	_	
+4-6	164-167	Weg	_	
+4-7	168-171	vor	_	
+4-8	172-175	den	_	
+4-9	176-185	Autoläden	_	

@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Erschließung Schulstandort Wasseramselweg
+1-1	0-12	Erschließung	_	
+1-2	13-26	Schulstandort	*[6]	
+1-3	27-41	Wasseramselweg	*[6]	
+
+#Text=Am Wasseramselweg gibt es bereits heute ein Grundschule, eine Sekundarschule und einen Kindergarten.
+2-1	44-46	Am	*[7]	
+2-2	47-61	Wasseramselweg	*[7]	
+2-3	62-66	gibt	_	
+2-4	67-69	es	_	
+2-5	70-77	bereits	_	
+2-6	78-83	heute	_	
+2-7	84-87	ein	_	
+2-8	88-99	Grundschule	_	
+2-9	99-100	,	_	
+2-10	101-105	eine	_	
+2-11	106-120	Sekundarschule	_	
+2-12	121-124	und	_	
+2-13	125-130	einen	_	
+2-14	131-143	Kindergarten	_	
+2-15	143-144	.	_	
+
+#Text=Eine direkte Erreichbarkeit aus Vogelsang ist derzeit nicht gegeben (auch wenn die Karte anderes suggeriert).
+3-1	145-149	Eine	_	
+3-2	150-157	direkte	_	
+3-3	158-172	Erreichbarkeit	_	
+3-4	173-176	aus	_	
+3-5	177-186	Vogelsang	_	
+3-6	187-190	ist	_	
+3-7	191-198	derzeit	_	
+3-8	199-204	nicht	_	
+3-9	205-212	gegeben	_	
+3-10	213-214	(	_	
+3-11	214-218	auch	_	
+3-12	219-223	wenn	_	
+3-13	224-227	die	_	
+3-14	228-233	Karte	_	
+3-15	234-241	anderes	_	
+3-16	242-252	suggeriert	_	
+3-17	252-253	)	_	
+3-18	253-254	.	_	
+
+#Text=Es wäre toll, eine direkte Radwegverbindung z.B. vom Dohlenweg zu haben.
+4-1	255-257	Es	_	
+4-2	258-262	wäre	_	
+4-3	263-267	toll	_	
+4-4	267-268	,	_	
+4-5	269-273	eine	_	
+4-6	274-281	direkte	_	
+4-7	282-298	Radwegverbindung	_	
+4-8	299-302	z.B	_	
+4-9	302-303	.	_	
+4-10	304-307	vom	_	
+4-11	308-317	Dohlenweg	*	
+4-12	318-320	zu	_	
+4-13	321-326	haben	_	
+4-14	326-327	.	_	
+
+#Text=Mit der Errichtung der neuen Gesamtschule am Wasseramselweg (interimsmäßig wohl ab 2018!), wird das Thema in jedem Fall kommen.
+5-1	328-331	Mit	_	
+5-2	332-335	der	_	
+5-3	336-346	Errichtung	_	
+5-4	347-350	der	_	
+5-5	351-356	neuen	_	
+5-6	357-369	Gesamtschule	*[8]	
+5-7	370-372	am	*[8]	
+5-8	373-387	Wasseramselweg	*[8]	
+5-9	388-389	(	_	
+5-10	389-402	interimsmäßig	_	
+5-11	403-407	wohl	_	
+5-12	408-410	ab	_	
+5-13	411-415	2018	_	
+5-14	415-416	!	_	
+5-15	416-417	)	_	
+5-16	417-418	,	_	
+5-17	419-423	wird	_	
+5-18	424-427	das	_	
+5-19	428-433	Thema	_	
+5-20	434-436	in	_	
+5-21	437-442	jedem	_	
+5-22	443-447	Fall	_	
+5-23	448-454	kommen	_	
+5-24	454-455	.	_	

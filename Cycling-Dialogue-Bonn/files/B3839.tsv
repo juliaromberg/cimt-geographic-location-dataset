@@ -1,0 +1,124 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Engstelle in Klufterstr. als Radweg
+1-1	0-9	Engstelle	_	
+1-2	10-12	in	_	
+1-3	13-23	Klufterstr	*	
+1-4	23-24	.	_	
+1-5	25-28	als	_	
+1-6	29-35	Radweg	_	
+
+#Text=In der Klufterstr. wird - trotz Parkverbot - immer wieder in der Engstelle auf dem markierten Bereich vor den Häusern Nr 4 und 6 geparkt.
+2-1	38-40	In	*[6]	
+2-2	41-44	der	*[6]	
+2-3	45-55	Klufterstr	*[6]	
+2-4	55-56	.	_	
+2-5	57-61	wird	_	
+2-6	62-63	-	_	
+2-7	64-69	trotz	_	
+2-8	70-80	Parkverbot	_	
+2-9	81-82	-	_	
+2-10	83-88	immer	_	
+2-11	89-95	wieder	_	
+2-12	96-98	in	_	
+2-13	99-102	der	_	
+2-14	103-112	Engstelle	_	
+2-15	113-116	auf	_	
+2-16	117-120	dem	_	
+2-17	121-131	markierten	_	
+2-18	132-139	Bereich	_	
+2-19	140-143	vor	_	
+2-20	144-147	den	_	
+2-21	148-155	Häusern	_	
+2-22	156-158	Nr	_	
+2-23	159-160	4	_	
+2-24	161-164	und	_	
+2-25	165-166	6	_	
+2-26	167-174	geparkt	_	
+2-27	174-175	.	_	
+
+#Text=Dies vornehmlich von Kunden des gegenüberliegenden [Name entfernt]-Marktes, denen ein eigener Parkplatz zur Verfügung steht.
+3-1	176-180	Dies	_	
+3-2	181-192	vornehmlich	_	
+3-3	193-196	von	_	
+3-4	197-203	Kunden	_	
+3-5	204-207	des	_	
+3-6	208-226	gegenüberliegenden	_	
+3-7	227-228	[	_	
+3-8	228-232	Name	_	
+3-9	233-241	entfernt	_	
+3-10	241-242	]	_	
+3-11	242-243	-	_	
+3-12	243-250	Marktes	_	
+3-13	250-251	,	_	
+3-14	252-257	denen	_	
+3-15	258-261	ein	_	
+3-16	262-269	eigener	_	
+3-17	270-279	Parkplatz	_	
+3-18	280-283	zur	_	
+3-19	284-293	Verfügung	_	
+3-20	294-299	steht	_	
+3-21	299-300	.	_	
+
+#Text=Hier bietet sich die Markierung als Radweg (oder wie einige Meter weiter bei Haus Nr. 8 als Radschleuse) an.
+4-1	301-305	Hier	_	
+4-2	306-312	bietet	_	
+4-3	313-317	sich	_	
+4-4	318-321	die	_	
+4-5	322-332	Markierung	_	
+4-6	333-336	als	_	
+4-7	337-343	Radweg	_	
+4-8	344-345	(	_	
+4-9	345-349	oder	_	
+4-10	350-353	wie	_	
+4-11	354-360	einige	_	
+4-12	361-366	Meter	_	
+4-13	367-373	weiter	_	
+4-14	374-377	bei	_	
+4-15	378-382	Haus	_	
+4-16	383-385	Nr	_	
+4-17	385-386	.	_	
+4-18	387-388	8	_	
+4-19	389-392	als	_	
+4-20	393-404	Radschleuse	_	
+4-21	404-405	)	_	
+4-22	406-408	an	_	
+4-23	408-409	.	_	
+
+#Text=Dies würde das illegale Parken beenden, den Lieferfahrzeugen von [Name entfernt] mehr Rangierplatz für die Einfahrt zur Laderampe bieten und den Fußgänger- und Radverkehr wesentlich sicherer machen.
+5-1	410-414	Dies	_	
+5-2	415-420	würde	_	
+5-3	421-424	das	_	
+5-4	425-433	illegale	_	
+5-5	434-440	Parken	_	
+5-6	441-448	beenden	_	
+5-7	448-449	,	_	
+5-8	450-453	den	_	
+5-9	454-470	Lieferfahrzeugen	_	
+5-10	471-474	von	_	
+5-11	475-476	[	_	
+5-12	476-480	Name	_	
+5-13	481-489	entfernt	_	
+5-14	489-490	]	_	
+5-15	491-495	mehr	_	
+5-16	496-508	Rangierplatz	_	
+5-17	509-512	für	_	
+5-18	513-516	die	_	
+5-19	517-525	Einfahrt	_	
+5-20	526-529	zur	_	
+5-21	530-539	Laderampe	_	
+5-22	540-546	bieten	_	
+5-23	547-550	und	_	
+5-24	551-554	den	_	
+5-25	555-564	Fußgänger	_	
+5-26	564-565	-	_	
+5-27	566-569	und	_	
+5-28	570-580	Radverkehr	_	
+5-29	581-591	wesentlich	_	
+5-30	592-600	sicherer	_	
+5-31	601-607	machen	_	
+5-32	607-608	.	_	

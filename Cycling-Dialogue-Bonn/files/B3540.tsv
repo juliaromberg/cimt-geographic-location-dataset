@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zu wenige und nicht nutzbare Fahrradständer bei [Name entfernt]
+1-1	0-2	Zu	_	
+1-2	3-9	wenige	_	
+1-3	10-13	und	_	
+1-4	14-19	nicht	_	
+1-5	20-28	nutzbare	_	
+1-6	29-43	Fahrradständer	_	
+1-7	44-47	bei	_	
+1-8	48-49	[	_	
+1-9	49-53	Name	_	
+1-10	54-62	entfernt	_	
+1-11	62-63	]	_	
+
+#Text=Hier gibt es nur ein paar versteckte Stellplätze mit sogenannten Felgenkillern.
+2-1	66-70	Hier	_	
+2-2	71-75	gibt	_	
+2-3	76-78	es	_	
+2-4	79-82	nur	_	
+2-5	83-86	ein	_	
+2-6	87-91	paar	_	
+2-7	92-102	versteckte	_	
+2-8	103-114	Stellplätze	_	
+2-9	115-118	mit	_	
+2-10	119-130	sogenannten	_	
+2-11	131-144	Felgenkillern	_	
+2-12	144-145	.	_	
+
+#Text=Anschließen praktisch nicht möglich.
+3-1	146-157	Anschließen	_	
+3-2	158-167	praktisch	_	
+3-3	168-173	nicht	_	
+3-4	174-181	möglich	_	
+3-5	181-182	.	_	
+
+#Text=Außerdem diekt im Bereich der Außemgastronomie, sehr beengt.
+4-1	183-191	Außerdem	_	
+4-2	192-197	diekt	_	
+4-3	198-200	im	_	
+4-4	201-208	Bereich	_	
+4-5	209-212	der	_	
+4-6	213-229	Außemgastronomie	_	
+4-7	229-230	,	_	
+4-8	231-235	sehr	_	
+4-9	236-242	beengt	_	
+4-10	242-243	.	_	
+
+#Text=Mit Anhänger oder Lastenrad überhaupt nicht benutzbar.
+5-1	244-247	Mit	_	
+5-2	248-256	Anhänger	_	
+5-3	257-261	oder	_	
+5-4	262-271	Lastenrad	_	
+5-5	272-281	überhaupt	_	
+5-6	282-287	nicht	_	
+5-7	288-297	benutzbar	_	
+5-8	297-298	.	_	
+
+#Text=Hier wäre eine Verpflichtung zum Stellplatznachweis durch die Bauordnung angebracht.
+6-1	299-303	Hier	_	
+6-2	304-308	wäre	_	
+6-3	309-313	eine	_	
+6-4	314-327	Verpflichtung	_	
+6-5	328-331	zum	_	
+6-6	332-350	Stellplatznachweis	_	
+6-7	351-356	durch	_	
+6-8	357-360	die	_	
+6-9	361-371	Bauordnung	_	
+6-10	372-382	angebracht	_	
+6-11	382-383	.	_	

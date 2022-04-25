@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Der Radfahrerschutzstreifen ist viel zu schmal
+1-1	0-3	Der	_	
+1-2	4-27	Radfahrerschutzstreifen	_	
+1-3	28-31	ist	_	
+1-4	32-36	viel	_	
+1-5	37-39	zu	_	
+1-6	40-46	schmal	_	
+
+#Text=und bezieht auch noch die Entwässerungsrinne mit ein, was im Zusammenhang mit sehr hohem Bordstein und Asphaltwulst an der Rinne eine schlechte Kombination ist.
+2-1	49-52	und	_	
+2-2	53-60	bezieht	_	
+2-3	61-65	auch	_	
+2-4	66-70	noch	_	
+2-5	71-74	die	_	
+2-6	75-93	Entwässerungsrinne	_	
+2-7	94-97	mit	_	
+2-8	98-101	ein	_	
+2-9	101-102	,	_	
+2-10	103-106	was	_	
+2-11	107-109	im	_	
+2-12	110-122	Zusammenhang	_	
+2-13	123-126	mit	_	
+2-14	127-131	sehr	_	
+2-15	132-137	hohem	_	
+2-16	138-147	Bordstein	_	
+2-17	148-151	und	_	
+2-18	152-164	Asphaltwulst	_	
+2-19	165-167	an	_	
+2-20	168-171	der	_	
+2-21	172-177	Rinne	_	
+2-22	178-182	eine	_	
+2-23	183-192	schlechte	_	
+2-24	193-204	Kombination	_	
+2-25	205-208	ist	_	
+2-26	208-209	.	_	
+
+#Text=Mal abgesehen davon, dass die Markierung eh kaum noch zu erkennen ist.
+3-1	210-213	Mal	_	
+3-2	214-223	abgesehen	_	
+3-3	224-229	davon	_	
+3-4	229-230	,	_	
+3-5	231-235	dass	_	
+3-6	236-239	die	_	
+3-7	240-250	Markierung	_	
+3-8	251-253	eh	_	
+3-9	254-258	kaum	_	
+3-10	259-263	noch	_	
+3-11	264-266	zu	_	
+3-12	267-275	erkennen	_	
+3-13	276-279	ist	_	
+3-14	279-280	.	_	
+
+#Text=Außerdem ist die verbleibende rechte Fahrspur für die Autoverkehr auch zu schmal.
+4-1	281-289	Außerdem	_	
+4-2	290-293	ist	_	
+4-3	294-297	die	_	
+4-4	298-310	verbleibende	_	
+4-5	311-317	rechte	_	
+4-6	318-326	Fahrspur	_	
+4-7	327-330	für	_	
+4-8	331-334	die	_	
+4-9	335-346	Autoverkehr	_	
+4-10	347-351	auch	_	
+4-11	352-354	zu	_	
+4-12	355-361	schmal	_	
+4-13	361-362	.	_	
+
+#Text=Autos müssen im Abstand von 1,50 m an Radfahren vorbeifahren, nicht 1,5 cm!
+5-1	363-368	Autos	_	
+5-2	369-375	müssen	_	
+5-3	376-378	im	_	
+5-4	379-386	Abstand	_	
+5-5	387-390	von	_	
+5-6	391-395	1,50	_	
+5-7	396-397	m	_	
+5-8	398-400	an	_	
+5-9	401-410	Radfahren	_	
+5-10	411-423	vorbeifahren	_	
+5-11	423-424	,	_	
+5-12	425-430	nicht	_	
+5-13	431-434	1,5	_	
+5-14	435-437	cm	_	
+5-15	437-438	!	_	

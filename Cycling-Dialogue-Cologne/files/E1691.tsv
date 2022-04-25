@@ -1,0 +1,26 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreisverkehr bauen
+1-1	0-12	Kreisverkehr	_	
+1-2	13-18	bauen	_	
+
+#Text=Total gefährliche Kreuzung für Radfahrer und Fußgänger, immer wieder Unfälle: Kreisverkehr bauen!
+2-1	21-26	Total	_	
+2-2	27-38	gefährliche	_	
+2-3	39-47	Kreuzung	_	
+2-4	48-51	für	_	
+2-5	52-61	Radfahrer	_	
+2-6	62-65	und	_	
+2-7	66-75	Fußgänger	_	
+2-8	75-76	,	_	
+2-9	77-82	immer	_	
+2-10	83-89	wieder	_	
+2-11	90-97	Unfälle	_	
+2-12	97-98	:	_	
+2-13	99-111	Kreisverkehr	_	
+2-14	112-117	bauen	_	
+2-15	117-118	!	_	

@@ -1,0 +1,174 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Durchgängiger Radweg entlang der Bahn
+1-1	0-13	Durchgängiger	_	
+1-2	14-20	Radweg	_	
+1-3	21-28	entlang	_	
+1-4	29-32	der	_	
+1-5	33-37	Bahn	_	
+
+#Text=Mir wurde vor Jahren von Seiten der Stadt zugesichert, dass im Rahmen des Neubauprojekts an der Reuterbrücke das fehlende Stück Radweg zwischen Reuterbrücke und Rheinweg gebaut werden würde.
+2-1	40-43	Mir	_	
+2-2	44-49	wurde	_	
+2-3	50-53	vor	_	
+2-4	54-60	Jahren	_	
+2-5	61-64	von	_	
+2-6	65-71	Seiten	_	
+2-7	72-75	der	_	
+2-8	76-81	Stadt	_	
+2-9	82-93	zugesichert	_	
+2-10	93-94	,	_	
+2-11	95-99	dass	_	
+2-12	100-102	im	_	
+2-13	103-109	Rahmen	_	
+2-14	110-113	des	_	
+2-15	114-128	Neubauprojekts	_	
+2-16	129-131	an	*[10]	
+2-17	132-135	der	*[10]	
+2-18	136-148	Reuterbrücke	*[10]	
+2-19	149-152	das	_	
+2-20	153-161	fehlende	_	
+2-21	162-167	Stück	_	
+2-22	168-174	Radweg	_	
+2-23	175-183	zwischen	*[11]	
+2-24	184-196	Reuterbrücke	*[11]	
+2-25	197-200	und	*[11]	
+2-26	201-209	Rheinweg	*[11]	
+2-27	210-216	gebaut	_	
+2-28	217-223	werden	_	
+2-29	224-229	würde	_	
+2-30	229-230	.	_	
+
+#Text=Nun sind die Häuser so gut wie fertig, aber von einem Radweg keine Spur.
+3-1	231-234	Nun	_	
+3-2	235-239	sind	_	
+3-3	240-243	die	_	
+3-4	244-250	Häuser	_	
+3-5	251-253	so	_	
+3-6	254-257	gut	_	
+3-7	258-261	wie	_	
+3-8	262-268	fertig	_	
+3-9	268-269	,	_	
+3-10	270-274	aber	_	
+3-11	275-278	von	_	
+3-12	279-284	einem	_	
+3-13	285-291	Radweg	_	
+3-14	292-297	keine	_	
+3-15	298-302	Spur	_	
+3-16	302-303	.	_	
+
+#Text=Hinzu kommt, dass im Rahmen der Bahn-Baustelle UN-Campus der Radweg beidseitig wegfällt (die Joseph-Beuys-Str. ist einfach nur gefährlich!) und wahrscheinlich auch nicht wieder hergestellt werden wird (wie soll das auch gehen, wenn dort regelmäßiger Publikumsverkehr läuft).
+4-1	304-309	Hinzu	_	
+4-2	310-315	kommt	_	
+4-3	315-316	,	_	
+4-4	317-321	dass	_	
+4-5	322-324	im	_	
+4-6	325-331	Rahmen	_	
+4-7	332-335	der	_	
+4-8	336-350	Bahn-Baustelle	*[12]	
+4-9	351-360	UN-Campus	*[12]	
+4-10	361-364	der	*[12]	
+4-11	365-371	Radweg	*[12]	
+4-12	372-382	beidseitig	_	
+4-13	383-391	wegfällt	_	
+4-14	392-393	(	_	
+4-15	393-396	die	*[13]	
+4-16	397-413	Joseph-Beuys-Str	*[13]	
+4-17	413-414	.	*[13]	
+4-18	415-418	ist	_	
+4-19	419-426	einfach	_	
+4-20	427-430	nur	_	
+4-21	431-441	gefährlich	_	
+4-22	441-442	!	_	
+4-23	442-443	)	_	
+4-24	444-447	und	_	
+4-25	448-462	wahrscheinlich	_	
+4-26	463-467	auch	_	
+4-27	468-473	nicht	_	
+4-28	474-480	wieder	_	
+4-29	481-492	hergestellt	_	
+4-30	493-499	werden	_	
+4-31	500-504	wird	_	
+4-32	505-506	(	_	
+4-33	506-509	wie	_	
+4-34	510-514	soll	_	
+4-35	515-518	das	_	
+4-36	519-523	auch	_	
+4-37	524-529	gehen	_	
+4-38	529-530	,	_	
+4-39	531-535	wenn	_	
+4-40	536-540	dort	_	
+4-41	541-553	regelmäßiger	_	
+4-42	554-570	Publikumsverkehr	_	
+4-43	571-576	läuft	_	
+4-44	576-577	)	_	
+4-45	577-578	.	_	
+
+#Text=Die Moselstraße wurde nicht als Alternative freigegeben.
+5-1	579-582	Die	*[14]	
+5-2	583-594	Moselstraße	*[14]	
+5-3	595-600	wurde	_	
+5-4	601-606	nicht	_	
+5-5	607-610	als	_	
+5-6	611-622	Alternative	_	
+5-7	623-634	freigegeben	_	
+5-8	634-635	.	_	
+
+#Text=Und zwar zugunsten der Autofahrer, obwohl dort genug Platz ist!
+6-1	636-639	Und	_	
+6-2	640-644	zwar	_	
+6-3	645-654	zugunsten	_	
+6-4	655-658	der	_	
+6-5	659-669	Autofahrer	_	
+6-6	669-670	,	_	
+6-7	671-677	obwohl	_	
+6-8	678-682	dort	_	
+6-9	683-688	genug	_	
+6-10	689-694	Platz	_	
+6-11	695-698	ist	_	
+6-12	698-699	!	_	
+
+#Text=Diese ganze Ecke ist eine Katastrophe, auch in Bezug auf die sehr schlecht gepflegte Fußgängerbrücke am Bundeskanzlerplatz.
+7-1	700-705	Diese	_	
+7-2	706-711	ganze	_	
+7-3	712-716	Ecke	_	
+7-4	717-720	ist	_	
+7-5	721-725	eine	_	
+7-6	726-737	Katastrophe	_	
+7-7	737-738	,	_	
+7-8	739-743	auch	_	
+7-9	744-746	in	_	
+7-10	747-752	Bezug	_	
+7-11	753-756	auf	_	
+7-12	757-760	die	_	
+7-13	761-765	sehr	_	
+7-14	766-774	schlecht	_	
+7-15	775-784	gepflegte	_	
+7-16	785-800	Fußgängerbrücke	*[15]	
+7-17	801-803	am	*[15]	
+7-18	804-822	Bundeskanzlerplatz	*[15]	
+7-19	822-823	.	_	
+
+#Text=Weiterhin soll der Übergang Rheinweg wegfallen nach Fertigstellung der Haltestelle.
+8-1	824-833	Weiterhin	_	
+8-2	834-838	soll	_	
+8-3	839-842	der	_	
+8-4	843-851	Übergang	*[16]	
+8-5	852-860	Rheinweg	*[16]	
+8-6	861-870	wegfallen	_	
+8-7	871-875	nach	_	
+8-8	876-890	Fertigstellung	_	
+8-9	891-894	der	_	
+8-10	895-906	Haltestelle	_	
+8-11	906-907	.	_	
+
+#Text=Hier besteht dringender Handlungsbedarf!
+9-1	908-912	Hier	_	
+9-2	913-920	besteht	_	
+9-3	921-931	dringender	_	
+9-4	932-947	Handlungsbedarf	_	
+9-5	947-948	!	_	

@@ -1,0 +1,221 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Entschärfung Gefahrenstellen Bundeshäuschen
+1-1	0-12	Entschärfung	_	
+1-2	13-28	Gefahrenstellen	_	
+1-3	29-43	Bundeshäuschen	*	
+
+#Text=Autofahrer, die zum beliebten Restaurant/Ausfluglokal Bundeshäuschen direkt am Rhein wollen, fahren schräg abwärts in eine enge Unterführung ein.
+2-1	46-56	Autofahrer	_	
+2-2	56-57	,	_	
+2-3	58-61	die	_	
+2-4	62-65	zum	_	
+2-5	66-75	beliebten	_	
+2-6	76-86	Restaurant	*[12]	
+2-7	86-87	/	*[12]	
+2-8	87-99	Ausfluglokal	*[12]	
+2-9	100-114	Bundeshäuschen	*[12]	
+2-10	115-121	direkt	_	
+2-11	122-124	am	_	
+2-12	125-130	Rhein	_	
+2-13	131-137	wollen	_	
+2-14	137-138	,	_	
+2-15	139-145	fahren	_	
+2-16	146-152	schräg	_	
+2-17	153-160	abwärts	_	
+2-18	161-163	in	_	
+2-19	164-168	eine	_	
+2-20	169-173	enge	_	
+2-21	174-186	Unterführung	_	
+2-22	187-190	ein	_	
+2-23	190-191	.	_	
+
+#Text=Nach der Unterführung müssten sie unbedingt am dortigen Radweg anhalten, auf dem sie dann links abbiegen.
+3-1	192-196	Nach	_	
+3-2	197-200	der	_	
+3-3	201-213	Unterführung	_	
+3-4	214-221	müssten	_	
+3-5	222-225	sie	_	
+3-6	226-235	unbedingt	_	
+3-7	236-238	am	_	
+3-8	239-247	dortigen	_	
+3-9	248-254	Radweg	_	
+3-10	255-263	anhalten	_	
+3-11	263-264	,	_	
+3-12	265-268	auf	_	
+3-13	269-272	dem	_	
+3-14	273-276	sie	_	
+3-15	277-281	dann	_	
+3-16	282-287	links	_	
+3-17	288-296	abbiegen	_	
+3-18	296-297	.	_	
+
+#Text=D.h. sie benutzten den Radweg (!) als Zufahrt, um überhaupt zum sehr beliebten Parkplatz des Bundeshäuschen zu kommen, siehe https://goo.gl/BMNo5p
+4-1	298-301	D.h	_	
+4-2	301-302	.	_	
+4-3	303-306	sie	_	
+4-4	307-316	benutzten	_	
+4-5	317-320	den	_	
+4-6	321-327	Radweg	_	
+4-7	328-329	(	_	
+4-8	329-330	!	_	
+4-9	330-331	)	_	
+4-10	332-335	als	_	
+4-11	336-343	Zufahrt	_	
+4-12	343-344	,	_	
+4-13	345-347	um	_	
+4-14	348-357	überhaupt	_	
+4-15	358-361	zum	_	
+4-16	362-366	sehr	_	
+4-17	367-376	beliebten	_	
+4-18	377-386	Parkplatz	*[13]	
+4-19	387-390	des	*[13]	
+4-20	391-405	Bundeshäuschen	*[13]	
+4-21	406-408	zu	_	
+4-22	409-415	kommen	_	
+4-23	415-416	,	_	
+4-24	417-422	siehe	_	
+4-25	423-428	https	_	
+4-26	428-429	:	_	
+4-27	429-430	/	_	
+4-28	430-431	/	_	
+4-29	431-437	goo.gl	_	
+4-30	437-438	/	_	
+4-31	438-444	BMNo5p	_	
+
+#Text=Gefährlich wird es zudem auch, wenn die Autos wieder aus dem Parkplatz heraus fahren.
+5-1	445-455	Gefährlich	_	
+5-2	456-460	wird	_	
+5-3	461-463	es	_	
+5-4	464-469	zudem	_	
+5-5	470-474	auch	_	
+5-6	474-475	,	_	
+5-7	476-480	wenn	_	
+5-8	481-484	die	_	
+5-9	485-490	Autos	_	
+5-10	491-497	wieder	_	
+5-11	498-501	aus	_	
+5-12	502-505	dem	_	
+5-13	506-515	Parkplatz	_	
+5-14	516-522	heraus	_	
+5-15	523-529	fahren	_	
+5-16	529-530	.	_	
+
+#Text=Denn der Radweg ist kaum erkennbar für sie gekennzeichnet.
+6-1	531-535	Denn	_	
+6-2	536-539	der	_	
+6-3	540-546	Radweg	_	
+6-4	547-550	ist	_	
+6-5	551-555	kaum	_	
+6-6	556-565	erkennbar	_	
+6-7	566-569	für	_	
+6-8	570-573	sie	_	
+6-9	574-588	gekennzeichnet	_	
+6-10	588-589	.	_	
+
+#Text=Es ist ein ca. 2,5 breiter Streifen längs der Bahn.
+7-1	590-592	Es	_	
+7-2	593-596	ist	_	
+7-3	597-600	ein	_	
+7-4	601-603	ca	_	
+7-5	603-604	.	_	
+7-6	605-608	2,5	_	
+7-7	609-616	breiter	_	
+7-8	617-625	Streifen	_	
+7-9	626-631	längs	_	
+7-10	632-635	der	_	
+7-11	636-640	Bahn	_	
+7-12	640-641	.	_	
+
+#Text=Ich erlebte an allen Stellen auf nur 75 m viele Dutzende Male Fastunfälle.
+8-1	642-645	Ich	_	
+8-2	646-653	erlebte	_	
+8-3	654-656	an	_	
+8-4	657-662	allen	_	
+8-5	663-670	Stellen	_	
+8-6	671-674	auf	_	
+8-7	675-678	nur	_	
+8-8	679-681	75	_	
+8-9	682-683	m	_	
+8-10	684-689	viele	_	
+8-11	690-698	Dutzende	_	
+8-12	699-703	Male	_	
+8-13	704-715	Fastunfälle	_	
+8-14	715-716	.	_	
+
+#Text=Damit die Gefahrenstelle entschärft wird, sollten an der Unterführungs-Durchfahrt Verkehrsspiegel (Konvexspiegel) angebracht werden.
+9-1	717-722	Damit	_	
+9-2	723-726	die	_	
+9-3	727-741	Gefahrenstelle	_	
+9-4	742-752	entschärft	_	
+9-5	753-757	wird	_	
+9-6	757-758	,	_	
+9-7	759-766	sollten	_	
+9-8	767-769	an	_	
+9-9	770-773	der	_	
+9-10	774-798	Unterführungs-Durchfahrt	_	
+9-11	799-814	Verkehrsspiegel	_	
+9-12	815-816	(	_	
+9-13	816-829	Konvexspiegel	_	
+9-14	829-830	)	_	
+9-15	831-841	angebracht	_	
+9-16	842-848	werden	_	
+9-17	848-849	.	_	
+
+#Text=Nach der Durchfahrt sollte optisch und mit grösserer Bodenwelle vorher das unbedingte Halten der Autos erreicht werden, denn hier radeln häufig Rennradfahrer und Pedelecs mit 20-25 km vorbei, die Vorfahrt haben.
+10-1	850-854	Nach	_	
+10-2	855-858	der	_	
+10-3	859-869	Durchfahrt	_	
+10-4	870-876	sollte	_	
+10-5	877-884	optisch	_	
+10-6	885-888	und	_	
+10-7	889-892	mit	_	
+10-8	893-902	grösserer	_	
+10-9	903-913	Bodenwelle	_	
+10-10	914-920	vorher	_	
+10-11	921-924	das	_	
+10-12	925-935	unbedingte	_	
+10-13	936-942	Halten	_	
+10-14	943-946	der	_	
+10-15	947-952	Autos	_	
+10-16	953-961	erreicht	_	
+10-17	962-968	werden	_	
+10-18	968-969	,	_	
+10-19	970-974	denn	_	
+10-20	975-979	hier	_	
+10-21	980-986	radeln	_	
+10-22	987-993	häufig	_	
+10-23	994-1007	Rennradfahrer	_	
+10-24	1008-1011	und	_	
+10-25	1012-1020	Pedelecs	_	
+10-26	1021-1024	mit	_	
+10-27	1025-1027	20	_	
+10-28	1027-1028	-	_	
+10-29	1028-1030	25	_	
+10-30	1031-1033	km	_	
+10-31	1034-1040	vorbei	_	
+10-32	1040-1041	,	_	
+10-33	1042-1045	die	_	
+10-34	1046-1054	Vorfahrt	_	
+10-35	1055-1060	haben	_	
+10-36	1060-1061	.	_	
+
+#Text=Der Radweg zwischen Abbiegung und Parkplatz sollte zudem unbedingt farblich deutlicher gekennzeichnet werden.
+11-1	1062-1065	Der	_	
+11-2	1066-1072	Radweg	_	
+11-3	1073-1081	zwischen	_	
+11-4	1082-1091	Abbiegung	_	
+11-5	1092-1095	und	_	
+11-6	1096-1105	Parkplatz	_	
+11-7	1106-1112	sollte	_	
+11-8	1113-1118	zudem	_	
+11-9	1119-1128	unbedingt	_	
+11-10	1129-1137	farblich	_	
+11-11	1138-1148	deutlicher	_	
+11-12	1149-1163	gekennzeichnet	_	
+11-13	1164-1170	werden	_	
+11-14	1170-1171	.	_	

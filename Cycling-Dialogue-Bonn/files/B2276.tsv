@@ -1,0 +1,87 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Überprüfung von Gemeinsamen Geh- und Radwegen an neuralgischen Punkten
+1-1	0-11	Überprüfung	_	
+1-2	12-15	von	_	
+1-3	16-27	Gemeinsamen	_	
+1-4	28-31	Geh	_	
+1-5	31-32	-	_	
+1-6	33-36	und	_	
+1-7	37-45	Radwegen	_	
+1-8	46-48	an	_	
+1-9	49-62	neuralgischen	_	
+1-10	63-70	Punkten	_	
+
+#Text=Die Verkehrsführung von gemeinsamen Geh- und Radwegen sollte grundsätzlich überprüft werden, insbesondere an Stellen mit erhöhtem Gefahrenpotential, wie der Bus- und Straßenbahnhaltestelle Hindenburgplatz in Fahrtrichtung Dottendorf, wo der gemeinsame Geh- und Radweg hinter dem schmalen Wartebereich dieser Haltestelle geführt wird, was hier regelmäßig zu Problemen zwischen aussteigenden Fahrgästen - insbesondere Kindern und älteren Menschen - und gleichzeitig passierenden Radfahrern führt.
+2-1	73-76	Die	_	
+2-2	77-92	Verkehrsführung	_	
+2-3	93-96	von	_	
+2-4	97-108	gemeinsamen	_	
+2-5	109-112	Geh	_	
+2-6	112-113	-	_	
+2-7	114-117	und	_	
+2-8	118-126	Radwegen	_	
+2-9	127-133	sollte	_	
+2-10	134-147	grundsätzlich	_	
+2-11	148-157	überprüft	_	
+2-12	158-164	werden	_	
+2-13	164-165	,	_	
+2-14	166-178	insbesondere	_	
+2-15	179-181	an	_	
+2-16	182-189	Stellen	_	
+2-17	190-193	mit	_	
+2-18	194-202	erhöhtem	_	
+2-19	203-220	Gefahrenpotential	_	
+2-20	220-221	,	_	
+2-21	222-225	wie	*[3]	
+2-22	226-229	der	*[3]	
+2-23	230-233	Bus	*[3]	
+2-24	233-234	-	*[3]	
+2-25	235-238	und	*[3]	
+2-26	239-261	Straßenbahnhaltestelle	*[3]	
+2-27	262-277	Hindenburgplatz	*[3]	
+2-28	278-280	in	*[3]	
+2-29	281-294	Fahrtrichtung	*[3]	
+2-30	295-305	Dottendorf	*[3]	
+2-31	305-306	,	_	
+2-32	307-309	wo	_	
+2-33	310-313	der	_	
+2-34	314-324	gemeinsame	_	
+2-35	325-328	Geh	_	
+2-36	328-329	-	_	
+2-37	330-333	und	_	
+2-38	334-340	Radweg	_	
+2-39	341-347	hinter	_	
+2-40	348-351	dem	_	
+2-41	352-360	schmalen	_	
+2-42	361-373	Wartebereich	_	
+2-43	374-380	dieser	_	
+2-44	381-392	Haltestelle	_	
+2-45	393-400	geführt	_	
+2-46	401-405	wird	_	
+2-47	405-406	,	_	
+2-48	407-410	was	_	
+2-49	411-415	hier	_	
+2-50	416-426	regelmäßig	_	
+2-51	427-429	zu	_	
+2-52	430-439	Problemen	_	
+2-53	440-448	zwischen	_	
+2-54	449-462	aussteigenden	_	
+2-55	463-473	Fahrgästen	_	
+2-56	474-475	-	_	
+2-57	476-488	insbesondere	_	
+2-58	489-496	Kindern	_	
+2-59	497-500	und	_	
+2-60	501-508	älteren	_	
+2-61	509-517	Menschen	_	
+2-62	518-519	-	_	
+2-63	520-523	und	_	
+2-64	524-536	gleichzeitig	_	
+2-65	537-549	passierenden	_	
+2-66	550-560	Radfahrern	_	
+2-67	561-566	führt	_	
+2-68	566-567	.	_	

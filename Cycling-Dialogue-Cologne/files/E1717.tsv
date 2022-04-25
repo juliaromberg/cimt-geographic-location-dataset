@@ -1,0 +1,47 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Venloerstr. autofrei jetzt!
+1-1	0-10	Venloerstr	*	
+1-2	10-11	.	_	
+1-3	12-20	autofrei	_	
+1-4	21-26	jetzt	_	
+1-5	26-27	!	_	
+
+#Text=...und wenn der Vergleich auf den ersten Blick hingt, auf den zweiten tut er es nicht mehr: Auf der Schildergasse parken und fahren auch keine Autos mehr!
+2-1	30-31	.	_	
+2-2	31-32	.	_	
+2-3	32-33	.	_	
+2-4	33-36	und	_	
+2-5	37-41	wenn	_	
+2-6	42-45	der	_	
+2-7	46-55	Vergleich	_	
+2-8	56-59	auf	_	
+2-9	60-63	den	_	
+2-10	64-70	ersten	_	
+2-11	71-76	Blick	_	
+2-12	77-82	hingt	_	
+2-13	82-83	,	_	
+2-14	84-87	auf	_	
+2-15	88-91	den	_	
+2-16	92-99	zweiten	_	
+2-17	100-103	tut	_	
+2-18	104-106	er	_	
+2-19	107-109	es	_	
+2-20	110-115	nicht	_	
+2-21	116-120	mehr	_	
+2-22	120-121	:	_	
+2-23	122-125	Auf	*[3]	
+2-24	126-129	der	*[3]	
+2-25	130-143	Schildergasse	*[3]	
+2-26	144-150	parken	_	
+2-27	151-154	und	_	
+2-28	155-161	fahren	_	
+2-29	162-166	auch	_	
+2-30	167-172	keine	_	
+2-31	173-178	Autos	_	
+2-32	179-183	mehr	_	
+2-33	183-184	!	_	

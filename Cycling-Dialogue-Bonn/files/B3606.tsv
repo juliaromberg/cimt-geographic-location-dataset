@@ -1,0 +1,44 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreuzung oder Einmündung mit Vorfahrt von rechts
+1-1	0-8	Kreuzung	_	
+1-2	9-13	oder	_	
+1-3	14-24	Einmündung	_	
+1-4	25-28	mit	_	
+1-5	29-37	Vorfahrt	_	
+1-6	38-41	von	_	
+1-7	42-48	rechts	_	
+
+#Text=An dieser Stelle herrscht Rechts-vor-Links als Vorfahrtsregel.
+2-1	51-53	An	_	
+2-2	54-60	dieser	_	
+2-3	61-67	Stelle	_	
+2-4	68-76	herrscht	_	
+2-5	77-93	Rechts-vor-Links	_	
+2-6	94-97	als	_	
+2-7	98-112	Vorfahrtsregel	_	
+2-8	112-113	.	_	
+
+#Text=Dies wird aber von vielen dort nicht wahrgenommen.
+3-1	114-118	Dies	_	
+3-2	119-123	wird	_	
+3-3	124-128	aber	_	
+3-4	129-132	von	_	
+3-5	133-139	vielen	_	
+3-6	140-144	dort	_	
+3-7	145-150	nicht	_	
+3-8	151-163	wahrgenommen	_	
+3-9	163-164	.	_	
+
+#Text=Ein entsprechendes Schild könnte schon helfen.
+4-1	165-168	Ein	_	
+4-2	169-183	entsprechendes	_	
+4-3	184-190	Schild	_	
+4-4	191-197	könnte	_	
+4-5	198-203	schon	_	
+4-6	204-210	helfen	_	
+4-7	210-211	.	_	

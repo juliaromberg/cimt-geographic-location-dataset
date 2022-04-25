@@ -1,0 +1,118 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Übersehene Radfahrer an der Einfahrt zum Obi
+1-1	0-10	Übersehene	_	
+1-2	11-20	Radfahrer	_	
+1-3	21-23	an	_	
+1-4	24-27	der	_	
+1-5	28-36	Einfahrt	*[7]	
+1-6	37-40	zum	*[7]	
+1-7	41-44	Obi	*[7]	
+
+#Text=Der vielbefahrene Radweg führt hier in beide Richtungen und hinter Bäumen entlang.
+2-1	47-50	Der	_	
+2-2	51-64	vielbefahrene	_	
+2-3	65-71	Radweg	_	
+2-4	72-77	führt	_	
+2-5	78-82	hier	_	
+2-6	83-85	in	_	
+2-7	86-91	beide	_	
+2-8	92-102	Richtungen	_	
+2-9	103-106	und	_	
+2-10	107-113	hinter	_	
+2-11	114-120	Bäumen	_	
+2-12	121-128	entlang	_	
+2-13	128-129	.	_	
+
+#Text=PKWs, die auf den Obi-Parkplatz einbiegen, bemerken daher kreuzende Radfahrer oftmals nicht.
+3-1	130-134	PKWs	_	
+3-2	134-135	,	_	
+3-3	136-139	die	_	
+3-4	140-143	auf	*[8]	
+3-5	144-147	den	*[8]	
+3-6	148-161	Obi-Parkplatz	*[8]	
+3-7	162-171	einbiegen	*[8]	
+3-8	171-172	,	_	
+3-9	173-181	bemerken	_	
+3-10	182-187	daher	_	
+3-11	188-197	kreuzende	_	
+3-12	198-207	Radfahrer	_	
+3-13	208-215	oftmals	_	
+3-14	216-221	nicht	_	
+3-15	221-222	.	_	
+
+#Text=Vollbremsungen von beiden Parteien sind hier zu Stoßzeiten fast minütlich zu sehen.
+4-1	223-237	Vollbremsungen	_	
+4-2	238-241	von	_	
+4-3	242-248	beiden	_	
+4-4	249-257	Parteien	_	
+4-5	258-262	sind	_	
+4-6	263-267	hier	_	
+4-7	268-270	zu	_	
+4-8	271-281	Stoßzeiten	_	
+4-9	282-286	fast	_	
+4-10	287-296	minütlich	_	
+4-11	297-299	zu	_	
+4-12	300-305	sehen	_	
+4-13	305-306	.	_	
+
+#Text=Es gibt zwar direkt an der Einfahrt gleich zwei Schilder Achtung Radfahrer, aber diese Schilder sehen PKW-Fahrer oft erst, wenn sie bereits mit hoher Geschwindigkeit am Abbiegen sind.
+5-1	307-309	Es	_	
+5-2	310-314	gibt	_	
+5-3	315-319	zwar	_	
+5-4	320-326	direkt	_	
+5-5	327-329	an	_	
+5-6	330-333	der	_	
+5-7	334-342	Einfahrt	_	
+5-8	343-349	gleich	_	
+5-9	350-354	zwei	_	
+5-10	355-363	Schilder	_	
+5-11	364-371	Achtung	_	
+5-12	372-381	Radfahrer	_	
+5-13	381-382	,	_	
+5-14	383-387	aber	_	
+5-15	388-393	diese	_	
+5-16	394-402	Schilder	_	
+5-17	403-408	sehen	_	
+5-18	409-419	PKW-Fahrer	_	
+5-19	420-423	oft	_	
+5-20	424-428	erst	_	
+5-21	428-429	,	_	
+5-22	430-434	wenn	_	
+5-23	435-438	sie	_	
+5-24	439-446	bereits	_	
+5-25	447-450	mit	_	
+5-26	451-456	hoher	_	
+5-27	457-472	Geschwindigkeit	_	
+5-28	473-475	am	_	
+5-29	476-484	Abbiegen	_	
+5-30	485-489	sind	_	
+5-31	489-490	.	_	
+
+#Text=Da ich die Bäume schon gerne behalten würde, sehe ich als Lösung nur noch ein Blinksymbol Fahrradfahrer an der Einfahrt.
+6-1	491-493	Da	_	
+6-2	494-497	ich	_	
+6-3	498-501	die	_	
+6-4	502-507	Bäume	_	
+6-5	508-513	schon	_	
+6-6	514-519	gerne	_	
+6-7	520-528	behalten	_	
+6-8	529-534	würde	_	
+6-9	534-535	,	_	
+6-10	536-540	sehe	_	
+6-11	541-544	ich	_	
+6-12	545-548	als	_	
+6-13	549-555	Lösung	_	
+6-14	556-559	nur	_	
+6-15	560-564	noch	_	
+6-16	565-568	ein	_	
+6-17	569-580	Blinksymbol	_	
+6-18	581-594	Fahrradfahrer	_	
+6-19	595-597	an	_	
+6-20	598-601	der	_	
+6-21	602-610	Einfahrt	_	
+6-22	610-611	.	_	

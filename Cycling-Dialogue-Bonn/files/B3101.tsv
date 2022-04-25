@@ -1,0 +1,195 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegführung und Übergang auf Straße unglücklich gelöst
+1-1	0-13	Radwegführung	_	
+1-2	14-17	und	_	
+1-3	18-26	Übergang	_	
+1-4	27-30	auf	_	
+1-5	31-37	Straße	_	
+1-6	38-49	unglücklich	_	
+1-7	50-56	gelöst	_	
+
+#Text=Der Radweg entlang der Sankt Augustiner Str. Richtung Beuel ist zunächst benutzungspflichtig (in teilweise sehr schlechtem Zustand, z.B. an der Kreuzung zur L16).
+2-1	59-62	Der	_	
+2-2	63-69	Radweg	_	
+2-3	70-77	entlang	*[9]	
+2-4	78-81	der	*[9]	
+2-5	82-87	Sankt	*[9]	
+2-6	88-98	Augustiner	*[9]	
+2-7	99-102	Str	*[9]	
+2-8	102-103	.	*[9]	
+2-9	104-112	Richtung	*[9]	
+2-10	113-118	Beuel	*[9]	
+2-11	119-122	ist	_	
+2-12	123-131	zunächst	_	
+2-13	132-151	benutzungspflichtig	_	
+2-14	152-153	(	_	
+2-15	153-155	in	_	
+2-16	156-165	teilweise	_	
+2-17	166-170	sehr	_	
+2-18	171-181	schlechtem	_	
+2-19	182-189	Zustand	_	
+2-20	189-190	,	_	
+2-21	191-194	z.B	_	
+2-22	194-195	.	_	
+2-23	196-198	an	*[10]	
+2-24	199-202	der	*[10]	
+2-25	203-211	Kreuzung	*[10]	
+2-26	212-215	zur	*[10]	
+2-27	216-219	L16	*[10]	
+2-28	219-220	)	_	
+2-29	220-221	.	_	
+
+#Text=Im Verlauf wird nun erst die Benutzungspflicht aufgehoben (Fußweg/Fahrrad frei), um vielleicht 20m später abrupt zu enden.
+3-1	222-224	Im	_	
+3-2	225-232	Verlauf	_	
+3-3	233-237	wird	_	
+3-4	238-241	nun	_	
+3-5	242-246	erst	_	
+3-6	247-250	die	_	
+3-7	251-268	Benutzungspflicht	_	
+3-8	269-279	aufgehoben	_	
+3-9	280-281	(	_	
+3-10	281-287	Fußweg	_	
+3-11	287-288	/	_	
+3-12	288-295	Fahrrad	_	
+3-13	296-300	frei	_	
+3-14	300-301	)	_	
+3-15	301-302	,	_	
+3-16	303-305	um	_	
+3-17	306-316	vielleicht	_	
+3-18	317-320	20m	_	
+3-19	321-327	später	_	
+3-20	328-334	abrupt	_	
+3-21	335-337	zu	_	
+3-22	338-343	enden	_	
+3-23	343-344	.	_	
+
+#Text=An der Stelle, wo die Benutzungspflicht endet, gibt es aber keine vernünftige Möglichkeit, auf die Straße zu wechseln.
+4-1	345-347	An	_	
+4-2	348-351	der	_	
+4-3	352-358	Stelle	_	
+4-4	358-359	,	_	
+4-5	360-362	wo	_	
+4-6	363-366	die	_	
+4-7	367-384	Benutzungspflicht	_	
+4-8	385-390	endet	_	
+4-9	390-391	,	_	
+4-10	392-396	gibt	_	
+4-11	397-399	es	_	
+4-12	400-404	aber	_	
+4-13	405-410	keine	_	
+4-14	411-422	vernünftige	_	
+4-15	423-434	Möglichkeit	_	
+4-16	434-435	,	_	
+4-17	436-439	auf	_	
+4-18	440-443	die	_	
+4-19	444-450	Straße	_	
+4-20	451-453	zu	_	
+4-21	454-462	wechseln	_	
+4-22	462-463	.	_	
+
+#Text=Kurze Zeit später folgt dann ein Schutzstreifen.
+5-1	464-469	Kurze	_	
+5-2	470-474	Zeit	_	
+5-3	475-481	später	_	
+5-4	482-487	folgt	_	
+5-5	488-492	dann	_	
+5-6	493-496	ein	_	
+5-7	497-511	Schutzstreifen	_	
+5-8	511-512	.	_	
+
+#Text=Dieser schnelle Wechsel der Beschilderung (den ich auch an anderen Stellen in Bonn gesehen habe) macht keinen Sinn.
+6-1	513-519	Dieser	_	
+6-2	520-528	schnelle	_	
+6-3	529-536	Wechsel	_	
+6-4	537-540	der	_	
+6-5	541-554	Beschilderung	_	
+6-6	555-556	(	_	
+6-7	556-559	den	_	
+6-8	560-563	ich	_	
+6-9	564-568	auch	_	
+6-10	569-571	an	_	
+6-11	572-579	anderen	_	
+6-12	580-587	Stellen	_	
+6-13	588-590	in	*[11]	
+6-14	591-595	Bonn	*[11]	
+6-15	596-603	gesehen	_	
+6-16	604-608	habe	_	
+6-17	608-609	)	_	
+6-18	610-615	macht	_	
+6-19	616-622	keinen	_	
+6-20	623-627	Sinn	_	
+6-21	627-628	.	_	
+
+#Text=Der Radweg sollte dann lieber etwas früher enden und mit einer Markierung sicher auf die Straße geführt werden, und zwar so, dass die Autofahrer dies auch deutlich erkennen können.
+7-1	629-632	Der	_	
+7-2	633-639	Radweg	_	
+7-3	640-646	sollte	_	
+7-4	647-651	dann	_	
+7-5	652-658	lieber	_	
+7-6	659-664	etwas	_	
+7-7	665-671	früher	_	
+7-8	672-677	enden	_	
+7-9	678-681	und	_	
+7-10	682-685	mit	_	
+7-11	686-691	einer	_	
+7-12	692-702	Markierung	_	
+7-13	703-709	sicher	_	
+7-14	710-713	auf	_	
+7-15	714-717	die	_	
+7-16	718-724	Straße	_	
+7-17	725-732	geführt	_	
+7-18	733-739	werden	_	
+7-19	739-740	,	_	
+7-20	741-744	und	_	
+7-21	745-749	zwar	_	
+7-22	750-752	so	_	
+7-23	752-753	,	_	
+7-24	754-758	dass	_	
+7-25	759-762	die	_	
+7-26	763-773	Autofahrer	_	
+7-27	774-778	dies	_	
+7-28	779-783	auch	_	
+7-29	784-792	deutlich	_	
+7-30	793-801	erkennen	_	
+7-31	802-808	können	_	
+7-32	808-809	.	_	
+
+#Text=Ich fahre selbst auch mit dem Auto dort und benutze lieber die linke Spur, weil ich die Stelle, wo die Radfahrer auf die Straße wechseln, sehr gefährlich finde.
+8-1	810-813	Ich	_	
+8-2	814-819	fahre	_	
+8-3	820-826	selbst	_	
+8-4	827-831	auch	_	
+8-5	832-835	mit	_	
+8-6	836-839	dem	_	
+8-7	840-844	Auto	_	
+8-8	845-849	dort	_	
+8-9	850-853	und	_	
+8-10	854-861	benutze	_	
+8-11	862-868	lieber	_	
+8-12	869-872	die	_	
+8-13	873-878	linke	_	
+8-14	879-883	Spur	_	
+8-15	883-884	,	_	
+8-16	885-889	weil	_	
+8-17	890-893	ich	_	
+8-18	894-897	die	_	
+8-19	898-904	Stelle	_	
+8-20	904-905	,	_	
+8-21	906-908	wo	_	
+8-22	909-912	die	_	
+8-23	913-922	Radfahrer	_	
+8-24	923-926	auf	_	
+8-25	927-930	die	_	
+8-26	931-937	Straße	_	
+8-27	938-946	wechseln	_	
+8-28	946-947	,	_	
+8-29	948-952	sehr	_	
+8-30	953-963	gefährlich	_	
+8-31	964-969	finde	_	
+8-32	969-970	.	_	

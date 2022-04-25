@@ -1,0 +1,126 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Raserei in enger Straße/Unübersichtliche Kurve
+1-1	0-7	Raserei	_	
+1-2	8-10	in	_	
+1-3	11-16	enger	_	
+1-4	17-23	Straße	_	
+1-5	23-24	/	_	
+1-6	24-40	Unübersichtliche	_	
+1-7	41-46	Kurve	_	
+
+#Text=Die Strecke ist sehr gefährlich, weil sich auch oft Lkws ([Firma]) in der Kurve schneiden und steckenbleiben, als Fahrradfahrer bleib da leider nichts übrig außer auf den Gehweg auszuweichen, Autofahrer müssen werten.
+2-1	49-52	Die	_	
+2-2	53-60	Strecke	_	
+2-3	61-64	ist	_	
+2-4	65-69	sehr	_	
+2-5	70-80	gefährlich	_	
+2-6	80-81	,	_	
+2-7	82-86	weil	_	
+2-8	87-91	sich	_	
+2-9	92-96	auch	_	
+2-10	97-100	oft	_	
+2-11	101-105	Lkws	_	
+2-12	106-107	(	_	
+2-13	107-108	[	_	
+2-14	108-113	Firma	_	
+2-15	113-114	]	_	
+2-16	114-115	)	_	
+2-17	116-118	in	_	
+2-18	119-122	der	_	
+2-19	123-128	Kurve	_	
+2-20	129-138	schneiden	_	
+2-21	139-142	und	_	
+2-22	143-157	steckenbleiben	_	
+2-23	157-158	,	_	
+2-24	159-162	als	_	
+2-25	163-176	Fahrradfahrer	_	
+2-26	177-182	bleib	_	
+2-27	183-185	da	_	
+2-28	186-192	leider	_	
+2-29	193-199	nichts	_	
+2-30	200-205	übrig	_	
+2-31	206-211	außer	_	
+2-32	212-215	auf	_	
+2-33	216-219	den	_	
+2-34	220-226	Gehweg	_	
+2-35	227-239	auszuweichen	_	
+2-36	239-240	,	_	
+2-37	241-251	Autofahrer	_	
+2-38	252-258	müssen	_	
+2-39	259-265	werten	_	
+2-40	265-266	.	_	
+
+#Text=Die parkenden Autos verschlimmern die ganze Situation und machen die Kurve noch enger.
+3-1	267-270	Die	_	
+3-2	271-280	parkenden	_	
+3-3	281-286	Autos	_	
+3-4	287-300	verschlimmern	_	
+3-5	301-304	die	_	
+3-6	305-310	ganze	_	
+3-7	311-320	Situation	_	
+3-8	321-324	und	_	
+3-9	325-331	machen	_	
+3-10	332-335	die	_	
+3-11	336-341	Kurve	_	
+3-12	342-346	noch	_	
+3-13	347-352	enger	_	
+3-14	352-353	.	_	
+
+#Text=Stehen entlang der Bahn keine Autos verleitet die Strecke zum Rasen, Tempo 30 wäre hier angebracht, zudem es manchmal auch zu Rückstau, durch die Ampel am Gürtel, kommt.
+4-1	354-360	Stehen	_	
+4-2	361-368	entlang	_	
+4-3	369-372	der	_	
+4-4	373-377	Bahn	_	
+4-5	378-383	keine	_	
+4-6	384-389	Autos	_	
+4-7	390-399	verleitet	_	
+4-8	400-403	die	_	
+4-9	404-411	Strecke	_	
+4-10	412-415	zum	_	
+4-11	416-421	Rasen	_	
+4-12	421-422	,	_	
+4-13	423-428	Tempo	_	
+4-14	429-431	30	_	
+4-15	432-436	wäre	_	
+4-16	437-441	hier	_	
+4-17	442-452	angebracht	_	
+4-18	452-453	,	_	
+4-19	454-459	zudem	_	
+4-20	460-462	es	_	
+4-21	463-471	manchmal	_	
+4-22	472-476	auch	_	
+4-23	477-479	zu	_	
+4-24	480-488	Rückstau	_	
+4-25	488-489	,	_	
+4-26	490-495	durch	_	
+4-27	496-499	die	_	
+4-28	500-505	Ampel	_	
+4-29	506-508	am	*[6]	
+4-30	509-515	Gürtel	*[6]	
+4-31	515-516	,	_	
+4-32	517-522	kommt	_	
+4-33	522-523	.	_	
+
+#Text=Als Radfahrer wünscht man sich hier eine sichere Spur um von Kreuzung zu Kreuzung zu gelangen.
+5-1	524-527	Als	_	
+5-2	528-537	Radfahrer	_	
+5-3	538-545	wünscht	_	
+5-4	546-549	man	_	
+5-5	550-554	sich	_	
+5-6	555-559	hier	_	
+5-7	560-564	eine	_	
+5-8	565-572	sichere	_	
+5-9	573-577	Spur	_	
+5-10	578-580	um	_	
+5-11	581-584	von	_	
+5-12	585-593	Kreuzung	_	
+5-13	594-596	zu	_	
+5-14	597-605	Kreuzung	_	
+5-15	606-608	zu	_	
+5-16	609-617	gelangen	_	
+5-17	617-618	.	_	

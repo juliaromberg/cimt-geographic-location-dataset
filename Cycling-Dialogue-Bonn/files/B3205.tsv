@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Angstraum durch schlechte Beleuchtung
+1-1	0-9	Angstraum	_	
+1-2	10-15	durch	_	
+1-3	16-25	schlechte	_	
+1-4	26-37	Beleuchtung	_	
+
+#Text=Bitte bessere Beleuchtung an den Auffahrten zur Brücke auf beiden Seiten der Brücke.
+2-1	40-45	Bitte	_	
+2-2	46-53	bessere	_	
+2-3	54-65	Beleuchtung	_	
+2-4	66-68	an	_	
+2-5	69-72	den	_	
+2-6	73-83	Auffahrten	_	
+2-7	84-87	zur	_	
+2-8	88-94	Brücke	_	
+2-9	95-98	auf	_	
+2-10	99-105	beiden	_	
+2-11	106-112	Seiten	_	
+2-12	113-116	der	_	
+2-13	117-123	Brücke	_	
+2-14	123-124	.	_	
+
+#Text=Sehr dunkel und unheimlich im Dunkeln.
+3-1	125-129	Sehr	_	
+3-2	130-136	dunkel	_	
+3-3	137-140	und	_	
+3-4	141-151	unheimlich	_	
+3-5	152-154	im	_	
+3-6	155-162	Dunkeln	_	
+3-7	162-163	.	_	

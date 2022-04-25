@@ -1,0 +1,188 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Falschparker in der Fahrradstraße und in der Kurve
+1-1	0-12	Falschparker	_	
+1-2	13-15	in	_	
+1-3	16-19	der	_	
+1-4	20-33	Fahrradstraße	_	
+1-5	34-37	und	_	
+1-6	38-40	in	_	
+1-7	41-44	der	_	
+1-8	45-50	Kurve	_	
+
+#Text=In dieser Kurve stehen auf der Seite der Kirche täglich zwei Autos hinter dem als Parkplatz ausgewiesenen Bereich.
+2-1	53-55	In	_	
+2-2	56-62	dieser	_	
+2-3	63-68	Kurve	_	
+2-4	69-75	stehen	_	
+2-5	76-79	auf	_	
+2-6	80-83	der	_	
+2-7	84-89	Seite	_	
+2-8	90-93	der	_	
+2-9	94-100	Kirche	_	
+2-10	101-108	täglich	_	
+2-11	109-113	zwei	_	
+2-12	114-119	Autos	_	
+2-13	120-126	hinter	_	
+2-14	127-130	dem	_	
+2-15	131-134	als	_	
+2-16	135-144	Parkplatz	_	
+2-17	145-158	ausgewiesenen	_	
+2-18	159-166	Bereich	_	
+2-19	166-167	.	_	
+
+#Text=Oft handelt es sich dabei um dicke SUVs oder andere große Autos.
+3-1	168-171	Oft	_	
+3-2	172-179	handelt	_	
+3-3	180-182	es	_	
+3-4	183-187	sich	_	
+3-5	188-193	dabei	_	
+3-6	194-196	um	_	
+3-7	197-202	dicke	_	
+3-8	203-207	SUVs	_	
+3-9	208-212	oder	_	
+3-10	213-219	andere	_	
+3-11	220-225	große	_	
+3-12	226-231	Autos	_	
+3-13	231-232	.	_	
+
+#Text=Sie versperren den Blick um die Kurve und Autos (die in Richtung der Einbahnstraße fahren) und Radfahrer (die ja auch in die andere Richtung fahren dürfen) können sich nicht frühzeitig sehen und ausweichen.
+4-1	233-236	Sie	_	
+4-2	237-247	versperren	_	
+4-3	248-251	den	_	
+4-4	252-257	Blick	_	
+4-5	258-260	um	_	
+4-6	261-264	die	_	
+4-7	265-270	Kurve	_	
+4-8	271-274	und	_	
+4-9	275-280	Autos	_	
+4-10	281-282	(	_	
+4-11	282-285	die	_	
+4-12	286-288	in	_	
+4-13	289-297	Richtung	_	
+4-14	298-301	der	_	
+4-15	302-315	Einbahnstraße	_	
+4-16	316-322	fahren	_	
+4-17	322-323	)	_	
+4-18	324-327	und	_	
+4-19	328-337	Radfahrer	_	
+4-20	338-339	(	_	
+4-21	339-342	die	_	
+4-22	343-345	ja	_	
+4-23	346-350	auch	_	
+4-24	351-353	in	_	
+4-25	354-357	die	_	
+4-26	358-364	andere	_	
+4-27	365-373	Richtung	_	
+4-28	374-380	fahren	_	
+4-29	381-387	dürfen	_	
+4-30	387-388	)	_	
+4-31	389-395	können	_	
+4-32	396-400	sich	_	
+4-33	401-406	nicht	_	
+4-34	407-417	frühzeitig	_	
+4-35	418-423	sehen	_	
+4-36	424-427	und	_	
+4-37	428-438	ausweichen	_	
+4-38	438-439	.	_	
+
+#Text=Vielleicht könnte man besonders an solchen Gefahrenstellen, durch Pflanzenkübel o.ä., sicherstellen, dass sich hier keine Falschparker breit machen.
+5-1	440-450	Vielleicht	_	
+5-2	451-457	könnte	_	
+5-3	458-461	man	_	
+5-4	462-471	besonders	_	
+5-5	472-474	an	_	
+5-6	475-482	solchen	_	
+5-7	483-498	Gefahrenstellen	_	
+5-8	498-499	,	_	
+5-9	500-505	durch	_	
+5-10	506-519	Pflanzenkübel	_	
+5-11	520-523	o.ä	_	
+5-12	523-524	.	_	
+5-13	524-525	,	_	
+5-14	526-539	sicherstellen	_	
+5-15	539-540	,	_	
+5-16	541-545	dass	_	
+5-17	546-550	sich	_	
+5-18	551-555	hier	_	
+5-19	556-561	keine	_	
+5-20	562-574	Falschparker	_	
+5-21	575-580	breit	_	
+5-22	581-587	machen	_	
+5-23	587-588	.	_	
+
+#Text=Generell ist die Falschparker-Quote in dieser Fahrradstraße SEHR hoch: Ich zähle dort täglich mindestens 6, manchmal bis 12 Falschparker auf der gesamten Länge der Straße.
+6-1	589-597	Generell	_	
+6-2	598-601	ist	_	
+6-3	602-605	die	_	
+6-4	606-624	Falschparker-Quote	_	
+6-5	625-627	in	_	
+6-6	628-634	dieser	_	
+6-7	635-648	Fahrradstraße	_	
+6-8	649-653	SEHR	_	
+6-9	654-658	hoch	_	
+6-10	658-659	:	_	
+6-11	660-663	Ich	_	
+6-12	664-669	zähle	_	
+6-13	670-674	dort	_	
+6-14	675-682	täglich	_	
+6-15	683-693	mindestens	_	
+6-16	694-695	6	_	
+6-17	695-696	,	_	
+6-18	697-705	manchmal	_	
+6-19	706-709	bis	_	
+6-20	710-712	12	_	
+6-21	713-725	Falschparker	_	
+6-22	726-729	auf	_	
+6-23	730-733	der	_	
+6-24	734-742	gesamten	_	
+6-25	743-748	Länge	_	
+6-26	749-752	der	_	
+6-27	753-759	Straße	_	
+6-28	759-760	.	_	
+
+#Text=Es ist kaum möglich, in einigermaßen sicherem Abstand zu fahrenden und parkenden Autos durch diese Fahrradstraße zu fahren.
+7-1	761-763	Es	_	
+7-2	764-767	ist	_	
+7-3	768-772	kaum	_	
+7-4	773-780	möglich	_	
+7-5	780-781	,	_	
+7-6	782-784	in	_	
+7-7	785-797	einigermaßen	_	
+7-8	798-806	sicherem	_	
+7-9	807-814	Abstand	_	
+7-10	815-817	zu	_	
+7-11	818-827	fahrenden	_	
+7-12	828-831	und	_	
+7-13	832-841	parkenden	_	
+7-14	842-847	Autos	_	
+7-15	848-853	durch	_	
+7-16	854-859	diese	_	
+7-17	860-873	Fahrradstraße	_	
+7-18	874-876	zu	_	
+7-19	877-883	fahren	_	
+7-20	883-884	.	_	
+
+#Text=Die Falschparker blockieren Ausweichflächen, die den Autofahrern ermöglichen würden, für die Radfahrer Platz zu machen.
+8-1	885-888	Die	_	
+8-2	889-901	Falschparker	_	
+8-3	902-912	blockieren	_	
+8-4	913-928	Ausweichflächen	_	
+8-5	928-929	,	_	
+8-6	930-933	die	_	
+8-7	934-937	den	_	
+8-8	938-949	Autofahrern	_	
+8-9	950-961	ermöglichen	_	
+8-10	962-968	würden	_	
+8-11	968-969	,	_	
+8-12	970-973	für	_	
+8-13	974-977	die	_	
+8-14	978-987	Radfahrer	_	
+8-15	988-993	Platz	_	
+8-16	994-996	zu	_	
+8-17	997-1003	machen	_	
+8-18	1003-1004	.	_	

@@ -1,0 +1,117 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstr.
+1-1	0-10	Fahrradstr	_	
+1-2	10-11	.	_	
+
+#Text=Um dem Radverkehr dort die der Fahrradstraße inhärente Priorität zu gewähren und Gefahren zu vermeiden, sollten die bei Nässe und v.a. bei nassem Laub höchst gefährlichen Pflasterbereiche vor den Kreuzungen (Lessing-/Schumannstr./Weberstr.) entfernt werden, an denen man beim Abbiegen oft abrutscht und beim Bremsen keine Fahrtrichtung anzeigen kann.
+2-1	14-16	Um	_	
+2-2	17-20	dem	_	
+2-3	21-31	Radverkehr	_	
+2-4	32-36	dort	_	
+2-5	37-40	die	_	
+2-6	41-44	der	_	
+2-7	45-58	Fahrradstraße	_	
+2-8	59-68	inhärente	_	
+2-9	69-78	Priorität	_	
+2-10	79-81	zu	_	
+2-11	82-90	gewähren	_	
+2-12	91-94	und	_	
+2-13	95-103	Gefahren	_	
+2-14	104-106	zu	_	
+2-15	107-116	vermeiden	_	
+2-16	116-117	,	_	
+2-17	118-125	sollten	_	
+2-18	126-129	die	_	
+2-19	130-133	bei	_	
+2-20	134-139	Nässe	_	
+2-21	140-143	und	_	
+2-22	144-147	v.a	_	
+2-23	147-148	.	_	
+2-24	149-152	bei	_	
+2-25	153-159	nassem	_	
+2-26	160-164	Laub	_	
+2-27	165-171	höchst	_	
+2-28	172-184	gefährlichen	_	
+2-29	185-201	Pflasterbereiche	*[5]	
+2-30	202-205	vor	*[5]	
+2-31	206-209	den	*[5]	
+2-32	210-220	Kreuzungen	*[5]	
+2-33	221-222	(	*[5]	
+2-34	222-229	Lessing	*[5]	
+2-35	229-230	-	*[5]	
+2-36	230-231	/	*[5]	
+2-37	231-242	Schumannstr	*[5]	
+2-38	242-243	.	*[5]	
+2-39	243-244	/	*[5]	
+2-40	244-252	Weberstr	*[5]	
+2-41	252-253	.	_	
+2-42	253-254	)	_	
+2-43	255-263	entfernt	_	
+2-44	264-270	werden	_	
+2-45	270-271	,	_	
+2-46	272-274	an	_	
+2-47	275-280	denen	_	
+2-48	281-284	man	_	
+2-49	285-289	beim	_	
+2-50	290-298	Abbiegen	_	
+2-51	299-302	oft	_	
+2-52	303-312	abrutscht	_	
+2-53	313-316	und	_	
+2-54	317-321	beim	_	
+2-55	322-329	Bremsen	_	
+2-56	330-335	keine	_	
+2-57	336-349	Fahrtrichtung	_	
+2-58	350-358	anzeigen	_	
+2-59	359-363	kann	_	
+2-60	363-364	.	_	
+
+#Text=Desgleichen sollten die in Pflastersteine (gleiches Problem bei Nässe und nassem Laub) eingefassten Verkehrsberuhigungskissen entfernt werden.
+3-1	365-376	Desgleichen	_	
+3-2	377-384	sollten	_	
+3-3	385-388	die	_	
+3-4	389-391	in	_	
+3-5	392-406	Pflastersteine	_	
+3-6	407-408	(	_	
+3-7	408-416	gleiches	_	
+3-8	417-424	Problem	_	
+3-9	425-428	bei	_	
+3-10	429-434	Nässe	_	
+3-11	435-438	und	_	
+3-12	439-445	nassem	_	
+3-13	446-450	Laub	_	
+3-14	450-451	)	_	
+3-15	452-464	eingefassten	_	
+3-16	465-490	Verkehrsberuhigungskissen	_	
+3-17	491-499	entfernt	_	
+3-18	500-506	werden	_	
+3-19	506-507	.	_	
+
+#Text=Da dort meist unerlaubt Fahrzeuge parken oder Paket-/Lieferdienste halten, kann man nur selten an den Kissen vorbei radeln.
+4-1	508-510	Da	_	
+4-2	511-515	dort	_	
+4-3	516-521	meist	_	
+4-4	522-531	unerlaubt	_	
+4-5	532-541	Fahrzeuge	_	
+4-6	542-548	parken	_	
+4-7	549-553	oder	_	
+4-8	554-559	Paket	_	
+4-9	559-560	-	_	
+4-10	560-561	/	_	
+4-11	561-574	Lieferdienste	_	
+4-12	575-581	halten	_	
+4-13	581-582	,	_	
+4-14	583-587	kann	_	
+4-15	588-591	man	_	
+4-16	592-595	nur	_	
+4-17	596-602	selten	_	
+4-18	603-605	an	_	
+4-19	606-609	den	_	
+4-20	610-616	Kissen	_	
+4-21	617-623	vorbei	_	
+4-22	624-630	radeln	_	
+4-23	630-631	.	_	

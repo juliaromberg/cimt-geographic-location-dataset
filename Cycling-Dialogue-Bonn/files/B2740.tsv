@@ -1,0 +1,63 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Strassenspiegel
+1-1	0-15	Strassenspiegel	_	
+
+#Text=Viele Radfahrer benutzen diese Strecke um in die Stadt zu fahren.
+2-1	18-23	Viele	_	
+2-2	24-33	Radfahrer	_	
+2-3	34-42	benutzen	_	
+2-4	43-48	diese	_	
+2-5	49-56	Strecke	_	
+2-6	57-59	um	_	
+2-7	60-62	in	_	
+2-8	63-66	die	_	
+2-9	67-72	Stadt	_	
+2-10	73-75	zu	_	
+2-11	76-82	fahren	_	
+2-12	82-83	.	_	
+
+#Text=Die Kurve an der Ecke des Priesterseminars ist nicht einsehbar.
+3-1	84-87	Die	_	
+3-2	88-93	Kurve	_	
+3-3	94-96	an	_	
+3-4	97-100	der	_	
+3-5	101-105	Ecke	_	
+3-6	106-109	des	_	
+3-7	110-126	Priesterseminars	_	
+3-8	127-130	ist	_	
+3-9	131-136	nicht	_	
+3-10	137-146	einsehbar	_	
+3-11	146-147	.	_	
+
+#Text=Fahrbahn ist sehr schmal.
+4-1	148-156	Fahrbahn	_	
+4-2	157-160	ist	_	
+4-3	161-165	sehr	_	
+4-4	166-172	schmal	_	
+4-5	172-173	.	_	
+
+#Text=Entgegenkommende Autos neben oft die ganze Fahrbahnbreite ein.
+5-1	174-190	Entgegenkommende	_	
+5-2	191-196	Autos	_	
+5-3	197-202	neben	_	
+5-4	203-206	oft	_	
+5-5	207-210	die	_	
+5-6	211-216	ganze	_	
+5-7	217-231	Fahrbahnbreite	_	
+5-8	232-235	ein	_	
+5-9	235-236	.	_	
+
+#Text=Ein Spiegel an der Ecke wäre sinnvoll.
+6-1	237-240	Ein	_	
+6-2	241-248	Spiegel	_	
+6-3	249-251	an	_	
+6-4	252-255	der	_	
+6-5	256-260	Ecke	_	
+6-6	261-265	wäre	_	
+6-7	266-274	sinnvoll	_	
+6-8	274-275	.	_	

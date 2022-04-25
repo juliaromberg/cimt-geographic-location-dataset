@@ -1,0 +1,192 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg auf dem Fußgängerweg
+1-1	0-6	Radweg	_	
+1-2	7-10	auf	_	
+1-3	11-14	dem	_	
+1-4	15-27	Fußgängerweg	_	
+
+#Text=Dieser gesamte Radweg auf der Clemens-August-Str. in Richtung Ippendorf ist eine Katastrophe für Fußgänger, Autos und Fahrradfahrer.
+2-1	30-36	Dieser	_	
+2-2	37-44	gesamte	_	
+2-3	45-51	Radweg	_	
+2-4	52-55	auf	*[9]	
+2-5	56-59	der	*[9]	
+2-6	60-78	Clemens-August-Str	*[9]	
+2-7	78-79	.	*[9]	
+2-8	80-82	in	*[9]	
+2-9	83-91	Richtung	*[9]	
+2-10	92-101	Ippendorf	*[9]	
+2-11	102-105	ist	_	
+2-12	106-110	eine	_	
+2-13	111-122	Katastrophe	_	
+2-14	123-126	für	_	
+2-15	127-136	Fußgänger	_	
+2-16	136-137	,	_	
+2-17	138-143	Autos	_	
+2-18	144-147	und	_	
+2-19	148-161	Fahrradfahrer	_	
+2-20	161-162	.	_	
+
+#Text=Der Fahrradweg ist kaum sichtbar und wird von den Fußgängern mitbenutzt, da der Fußgängerweg von der Gastronomie mit genutzt wird.
+3-1	163-166	Der	_	
+3-2	167-177	Fahrradweg	_	
+3-3	178-181	ist	_	
+3-4	182-186	kaum	_	
+3-5	187-195	sichtbar	_	
+3-6	196-199	und	_	
+3-7	200-204	wird	_	
+3-8	205-208	von	_	
+3-9	209-212	den	_	
+3-10	213-223	Fußgängern	_	
+3-11	224-234	mitbenutzt	_	
+3-12	234-235	,	_	
+3-13	236-238	da	_	
+3-14	239-242	der	_	
+3-15	243-255	Fußgängerweg	_	
+3-16	256-259	von	_	
+3-17	260-263	der	_	
+3-18	264-275	Gastronomie	_	
+3-19	276-279	mit	_	
+3-20	280-287	genutzt	_	
+3-21	288-292	wird	_	
+3-22	292-293	.	_	
+
+#Text=Rechtsabbiegende Autos in die Kekulé Str. / Sebastian Str / Rudolf-Stöcker-Weg sowie herausfahrender Verkehr aus der Karlrobert-Kreiten-Str. übersehen Fahrradfahrer.
+4-1	294-310	Rechtsabbiegende	*[10]	
+4-2	311-316	Autos	*[10]	
+4-3	317-319	in	*[10]	
+4-4	320-323	die	*[10]	
+4-5	324-330	Kekulé	*[10]	
+4-6	331-334	Str	*[10]	
+4-7	334-335	.	*[10]	
+4-8	336-337	/	*[10]	
+4-9	338-347	Sebastian	*[10]	
+4-10	348-351	Str	*[10]	
+4-11	352-353	/	*[10]	
+4-12	354-372	Rudolf-Stöcker-Weg	*[10]	
+4-13	373-378	sowie	_	
+4-14	379-394	herausfahrender	_	
+4-15	395-402	Verkehr	_	
+4-16	403-406	aus	*[11]	
+4-17	407-410	der	*[11]	
+4-18	411-433	Karlrobert-Kreiten-Str	*[11]	
+4-19	433-434	.	_	
+4-20	435-444	übersehen	_	
+4-21	445-458	Fahrradfahrer	_	
+4-22	458-459	.	_	
+
+#Text=Und zu allem Übel darf der Fahrradweg auch noch in beide Richtungen genutzt werden, was auf dem sowieso schon schmalen Weg zu einer echten Herausforderung werden kann.
+5-1	460-463	Und	_	
+5-2	464-466	zu	_	
+5-3	467-472	allem	_	
+5-4	473-477	Übel	_	
+5-5	478-482	darf	_	
+5-6	483-486	der	_	
+5-7	487-497	Fahrradweg	_	
+5-8	498-502	auch	_	
+5-9	503-507	noch	_	
+5-10	508-510	in	_	
+5-11	511-516	beide	_	
+5-12	517-527	Richtungen	_	
+5-13	528-535	genutzt	_	
+5-14	536-542	werden	_	
+5-15	542-543	,	_	
+5-16	544-547	was	_	
+5-17	548-551	auf	_	
+5-18	552-555	dem	_	
+5-19	556-563	sowieso	_	
+5-20	564-569	schon	_	
+5-21	570-578	schmalen	_	
+5-22	579-582	Weg	_	
+5-23	583-585	zu	_	
+5-24	586-591	einer	_	
+5-25	592-598	echten	_	
+5-26	599-614	Herausforderung	_	
+5-27	615-621	werden	_	
+5-28	622-626	kann	_	
+5-29	626-627	.	_	
+
+#Text=In dem Teilstück am Poppelsdorfer Platz ist dann auch noch fast überhaupt kein Fußgängerweg mehr vorhanden, da dort die Frittenbude die Tische stehen hat und jeder Fußgänger der noch schnell den Bus bekommen will rennt ohne rechts und links zu schauen zur Bushaltestelle.
+6-1	628-630	In	_	
+6-2	631-634	dem	_	
+6-3	635-644	Teilstück	_	
+6-4	645-647	am	*[12]	
+6-5	648-661	Poppelsdorfer	*[12]	
+6-6	662-667	Platz	*[12]	
+6-7	668-671	ist	_	
+6-8	672-676	dann	_	
+6-9	677-681	auch	_	
+6-10	682-686	noch	_	
+6-11	687-691	fast	_	
+6-12	692-701	überhaupt	_	
+6-13	702-706	kein	_	
+6-14	707-719	Fußgängerweg	_	
+6-15	720-724	mehr	_	
+6-16	725-734	vorhanden	_	
+6-17	734-735	,	_	
+6-18	736-738	da	_	
+6-19	739-743	dort	_	
+6-20	744-747	die	_	
+6-21	748-759	Frittenbude	_	
+6-22	760-763	die	_	
+6-23	764-770	Tische	_	
+6-24	771-777	stehen	_	
+6-25	778-781	hat	_	
+6-26	782-785	und	_	
+6-27	786-791	jeder	_	
+6-28	792-801	Fußgänger	_	
+6-29	802-805	der	_	
+6-30	806-810	noch	_	
+6-31	811-818	schnell	_	
+6-32	819-822	den	_	
+6-33	823-826	Bus	_	
+6-34	827-835	bekommen	_	
+6-35	836-840	will	_	
+6-36	841-846	rennt	_	
+6-37	847-851	ohne	_	
+6-38	852-858	rechts	_	
+6-39	859-862	und	_	
+6-40	863-868	links	_	
+6-41	869-871	zu	_	
+6-42	872-879	schauen	_	
+6-43	880-883	zur	_	
+6-44	884-898	Bushaltestelle	_	
+6-45	898-899	.	_	
+
+#Text=BITTE verlegt den Fahrradweg auf die Strasse!!!!!!
+7-1	900-905	BITTE	_	
+7-2	906-913	verlegt	_	
+7-3	914-917	den	_	
+7-4	918-928	Fahrradweg	_	
+7-5	929-932	auf	_	
+7-6	933-936	die	_	
+7-7	937-944	Strasse	_	
+7-8	944-945	!	_	
+7-9	945-946	!	_	
+7-10	946-947	!	_	
+7-11	947-948	!	_	
+7-12	948-949	!	_	
+7-13	949-950	!	_	
+
+#Text=Dort ist 30 und die Autofahrer sollten es geregelt bekommen auch die Fahrradfahrer zu berücksichtigen!
+8-1	951-955	Dort	_	
+8-2	956-959	ist	_	
+8-3	960-962	30	_	
+8-4	963-966	und	_	
+8-5	967-970	die	_	
+8-6	971-981	Autofahrer	_	
+8-7	982-989	sollten	_	
+8-8	990-992	es	_	
+8-9	993-1001	geregelt	_	
+8-10	1002-1010	bekommen	_	
+8-11	1011-1015	auch	_	
+8-12	1016-1019	die	_	
+8-13	1020-1033	Fahrradfahrer	_	
+8-14	1034-1036	zu	_	
+8-15	1037-1052	berücksichtigen	_	
+8-16	1052-1053	!	_	

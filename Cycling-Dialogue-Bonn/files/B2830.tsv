@@ -1,0 +1,276 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Umsetzung Stellplatzkonzept Innenstadt - Schaffung von mindestens 1.700 Stellplätzen!
+1-1	0-9	Umsetzung	_	
+1-2	10-27	Stellplatzkonzept	_	
+1-3	28-38	Innenstadt	*	
+1-4	39-40	-	_	
+1-5	41-50	Schaffung	_	
+1-6	51-54	von	_	
+1-7	55-65	mindestens	_	
+1-8	66-71	1.700	_	
+1-9	72-84	Stellplätzen	_	
+1-10	84-85	!	_	
+
+#Text=Das Handlungsprogramm 2020 des Konzept(es) zum ruhenden Radverkehr in der Bonner Innenstadt der Stadt Bonn ergab bis 2020 einen zusätzlichen Bedarf von mindestens 1.700 Stellplätzen.
+2-1	88-91	Das	_	
+2-2	92-109	Handlungsprogramm	_	
+2-3	110-114	2020	_	
+2-4	115-118	des	_	
+2-5	119-126	Konzept	_	
+2-6	126-127	(	_	
+2-7	127-129	es	_	
+2-8	129-130	)	_	
+2-9	131-134	zum	_	
+2-10	135-143	ruhenden	_	
+2-11	144-154	Radverkehr	_	
+2-12	155-157	in	*[13]	
+2-13	158-161	der	*[13]	
+2-14	162-168	Bonner	*[13]	
+2-15	169-179	Innenstadt	*[13]	
+2-16	180-183	der	_	
+2-17	184-189	Stadt	_	
+2-18	190-194	Bonn	*	
+2-19	195-200	ergab	_	
+2-20	201-204	bis	_	
+2-21	205-209	2020	_	
+2-22	210-215	einen	_	
+2-23	216-228	zusätzlichen	_	
+2-24	229-235	Bedarf	_	
+2-25	236-239	von	_	
+2-26	240-250	mindestens	_	
+2-27	251-256	1.700	_	
+2-28	257-269	Stellplätzen	_	
+2-29	269-270	.	_	
+
+#Text=Als wesentlichen Zubau kommuniziert die Stadtverwaltung immer den kommenden Neubau & Erweiterung der Radstation auf der Rückseite (!) des Bahnhofs.
+3-1	271-274	Als	_	
+3-2	275-287	wesentlichen	_	
+3-3	288-293	Zubau	_	
+3-4	294-306	kommuniziert	_	
+3-5	307-310	die	_	
+3-6	311-326	Stadtverwaltung	_	
+3-7	327-332	immer	_	
+3-8	333-336	den	_	
+3-9	337-346	kommenden	_	
+3-10	347-353	Neubau	_	
+3-11	354-355	&	_	
+3-12	356-367	Erweiterung	_	
+3-13	368-371	der	_	
+3-14	372-382	Radstation	_	
+3-15	383-386	auf	_	
+3-16	387-390	der	_	
+3-17	391-400	Rückseite	_	
+3-18	401-402	(	_	
+3-19	402-403	!	_	
+3-20	403-404	)	_	
+3-21	405-408	des	_	
+3-22	409-417	Bahnhofs	_	
+3-23	417-418	.	_	
+
+#Text=Hier wird jedoch die Kapazität nur um 230 der zusätzlichen mindestens 1.700 Stellplätze erweitert.
+4-1	419-423	Hier	_	
+4-2	424-428	wird	_	
+4-3	429-435	jedoch	_	
+4-4	436-439	die	_	
+4-5	440-449	Kapazität	_	
+4-6	450-453	nur	_	
+4-7	454-456	um	_	
+4-8	457-460	230	_	
+4-9	461-464	der	_	
+4-10	465-477	zusätzlichen	_	
+4-11	478-488	mindestens	_	
+4-12	489-494	1.700	_	
+4-13	495-506	Stellplätze	_	
+4-14	507-516	erweitert	_	
+4-15	516-517	.	_	
+
+#Text=Doch wann entstehen die weiteren 1.500 mindestens benötigten Stellplätze?
+5-1	518-522	Doch	_	
+5-2	523-527	wann	_	
+5-3	528-537	entstehen	_	
+5-4	538-541	die	_	
+5-5	542-550	weiteren	_	
+5-6	551-556	1.500	_	
+5-7	557-567	mindestens	_	
+5-8	568-578	benötigten	_	
+5-9	579-590	Stellplätze	_	
+5-10	590-591	?	_	
+
+#Text=2030 - oder später?
+6-1	592-596	2030	_	
+6-2	597-598	-	_	
+6-3	599-603	oder	_	
+6-4	604-610	später	_	
+6-5	610-611	?	_	
+
+#Text=Seit fast 40 Jahren ist ein Radweg für die Bahn-Unterführung der Poppelsdorfer Allee ein Thema, seit 9 Jahren ein städtisches Radverleihsystem, für das bereits 2011 (!) ein Finanzierungskonzept ausgearbeitet wurde.
+7-1	612-616	Seit	_	
+7-2	617-621	fast	_	
+7-3	622-624	40	_	
+7-4	625-631	Jahren	_	
+7-5	632-635	ist	_	
+7-6	636-639	ein	_	
+7-7	640-646	Radweg	_	
+7-8	647-650	für	_	
+7-9	651-654	die	*[14]	
+7-10	655-672	Bahn-Unterführung	*[14]	
+7-11	673-676	der	*[14]	
+7-12	677-690	Poppelsdorfer	*[14]	
+7-13	691-696	Allee	*[14]	
+7-14	697-700	ein	_	
+7-15	701-706	Thema	_	
+7-16	706-707	,	_	
+7-17	708-712	seit	_	
+7-18	713-714	9	_	
+7-19	715-721	Jahren	_	
+7-20	722-725	ein	_	
+7-21	726-737	städtisches	_	
+7-22	738-754	Radverleihsystem	_	
+7-23	754-755	,	_	
+7-24	756-759	für	_	
+7-25	760-763	das	_	
+7-26	764-771	bereits	_	
+7-27	772-776	2011	_	
+7-28	777-778	(	_	
+7-29	778-779	!	_	
+7-30	779-780	)	_	
+7-31	781-784	ein	_	
+7-32	785-805	Finanzierungskonzept	_	
+7-33	806-819	ausgearbeitet	_	
+7-34	820-825	wurde	_	
+7-35	825-826	.	_	
+
+#Text=Umgesetzt ist davon unverändert nichts - und ich würde ein Vermögen darauf wetten, auch bis 2020 noch nicht.
+8-1	827-836	Umgesetzt	_	
+8-2	837-840	ist	_	
+8-3	841-846	davon	_	
+8-4	847-858	unverändert	_	
+8-5	859-865	nichts	_	
+8-6	866-867	-	_	
+8-7	868-871	und	_	
+8-8	872-875	ich	_	
+8-9	876-881	würde	_	
+8-10	882-885	ein	_	
+8-11	886-894	Vermögen	_	
+8-12	895-901	darauf	_	
+8-13	902-908	wetten	_	
+8-14	908-909	,	_	
+8-15	910-914	auch	_	
+8-16	915-918	bis	_	
+8-17	919-923	2020	_	
+8-18	924-928	noch	_	
+8-19	929-934	nicht	_	
+8-20	934-935	.	_	
+
+#Text=Sowohl die aktuelle (320), als auch die geplante (550) Anzahl der Radstellplätze ist viel zu niedrig: So bietet z.B. die komplett ausgelastete Radstation im kleineren Münster 3.300 Stellplätze, mehr als zehn Mal (!) so viele wie das in Bonn.
+9-1	936-942	Sowohl	_	
+9-2	943-946	die	_	
+9-3	947-955	aktuelle	_	
+9-4	956-957	(	_	
+9-5	957-960	320	_	
+9-6	960-961	)	_	
+9-7	961-962	,	_	
+9-8	963-966	als	_	
+9-9	967-971	auch	_	
+9-10	972-975	die	_	
+9-11	976-984	geplante	_	
+9-12	985-986	(	_	
+9-13	986-989	550	_	
+9-14	989-990	)	_	
+9-15	991-997	Anzahl	_	
+9-16	998-1001	der	_	
+9-17	1002-1016	Radstellplätze	_	
+9-18	1017-1020	ist	_	
+9-19	1021-1025	viel	_	
+9-20	1026-1028	zu	_	
+9-21	1029-1036	niedrig	_	
+9-22	1036-1037	:	_	
+9-23	1038-1040	So	_	
+9-24	1041-1047	bietet	_	
+9-25	1048-1051	z.B	_	
+9-26	1051-1052	.	_	
+9-27	1053-1056	die	_	
+9-28	1057-1065	komplett	_	
+9-29	1066-1078	ausgelastete	_	
+9-30	1079-1089	Radstation	_	
+9-31	1090-1092	im	*[15]	
+9-32	1093-1102	kleineren	*[15]	
+9-33	1103-1110	Münster	*[15]	
+9-34	1111-1116	3.300	_	
+9-35	1117-1128	Stellplätze	_	
+9-36	1128-1129	,	_	
+9-37	1130-1134	mehr	_	
+9-38	1135-1138	als	_	
+9-39	1139-1143	zehn	_	
+9-40	1144-1147	Mal	_	
+9-41	1148-1149	(	_	
+9-42	1149-1150	!	_	
+9-43	1150-1151	)	_	
+9-44	1152-1154	so	_	
+9-45	1155-1160	viele	_	
+9-46	1161-1164	wie	_	
+9-47	1165-1168	das	_	
+9-48	1169-1171	in	_	
+9-49	1172-1176	Bonn	_	
+9-50	1176-1177	.	_	
+
+#Text=Wer zudem auf der Hauptbahnhof-Vorderseite Rad-Stellplätze sucht, ist die ärmste Sau der Welt.
+10-1	1178-1181	Wer	_	
+10-2	1182-1187	zudem	_	
+10-3	1188-1191	auf	*[16]	
+10-4	1192-1195	der	*[16]	
+10-5	1196-1220	Hauptbahnhof-Vorderseite	*[16]	
+10-6	1221-1236	Rad-Stellplätze	_	
+10-7	1237-1242	sucht	_	
+10-8	1242-1243	,	_	
+10-9	1244-1247	ist	_	
+10-10	1248-1251	die	_	
+10-11	1252-1258	ärmste	_	
+10-12	1259-1262	Sau	_	
+10-13	1263-1266	der	_	
+10-14	1267-1271	Welt	_	
+10-15	1271-1272	.	_	
+
+#Text=Es ist extrem zeitaufwendig, dort legale Möglichkeiten zum sichereren Anschließen für sein Rad zu finden.
+11-1	1273-1275	Es	_	
+11-2	1276-1279	ist	_	
+11-3	1280-1286	extrem	_	
+11-4	1287-1300	zeitaufwendig	_	
+11-5	1300-1301	,	_	
+11-6	1302-1306	dort	_	
+11-7	1307-1313	legale	_	
+11-8	1314-1327	Möglichkeiten	_	
+11-9	1328-1331	zum	_	
+11-10	1332-1342	sichereren	_	
+11-11	1343-1354	Anschließen	_	
+11-12	1355-1358	für	_	
+11-13	1359-1363	sein	_	
+11-14	1364-1367	Rad	_	
+11-15	1368-1370	zu	_	
+11-16	1371-1377	finden	_	
+11-17	1377-1378	.	_	
+
+#Text=Mir wurde in Bahnhofsnähe bereits tagsüber ein doppelt abgeschlossens Rad geklaut, das ich nicht anschließen konnte.
+12-1	1379-1382	Mir	_	
+12-2	1383-1388	wurde	_	
+12-3	1389-1391	in	_	
+12-4	1392-1404	Bahnhofsnähe	_	
+12-5	1405-1412	bereits	_	
+12-6	1413-1421	tagsüber	_	
+12-7	1422-1425	ein	_	
+12-8	1426-1433	doppelt	_	
+12-9	1434-1448	abgeschlossens	_	
+12-10	1449-1452	Rad	_	
+12-11	1453-1460	geklaut	_	
+12-12	1460-1461	,	_	
+12-13	1462-1465	das	_	
+12-14	1466-1469	ich	_	
+12-15	1470-1475	nicht	_	
+12-16	1476-1487	anschließen	_	
+12-17	1488-1494	konnte	_	
+12-18	1494-1495	.	_	

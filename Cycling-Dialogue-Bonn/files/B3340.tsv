@@ -1,0 +1,83 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ebikes über 25km/h
+1-1	0-6	Ebikes	_	
+1-2	7-11	über	_	
+1-3	12-16	25km	_	
+1-4	16-17	/	_	
+1-5	17-18	h	_	
+
+#Text=Es sind immer häufiger Ebikes auf den Radwegen der Rheinpromenade unterwegs, welche deutlich schneller als 25km/h sind.
+2-1	21-23	Es	_	
+2-2	24-28	sind	_	
+2-3	29-34	immer	_	
+2-4	35-43	häufiger	_	
+2-5	44-50	Ebikes	_	
+2-6	51-54	auf	*[6]	
+2-7	55-58	den	*[6]	
+2-8	59-67	Radwegen	*[6]	
+2-9	68-71	der	*[6]	
+2-10	72-86	Rheinpromenade	*[6]	
+2-11	87-96	unterwegs	_	
+2-12	96-97	,	_	
+2-13	98-104	welche	_	
+2-14	105-113	deutlich	_	
+2-15	114-123	schneller	_	
+2-16	124-127	als	_	
+2-17	128-132	25km	_	
+2-18	132-133	/	_	
+2-19	133-134	h	_	
+2-20	135-139	sind	_	
+2-21	139-140	.	_	
+
+#Text=Und geschätzt haben davon nur die Hälfte Nummernschilder.
+3-1	141-144	Und	_	
+3-2	145-154	geschätzt	_	
+3-3	155-160	haben	_	
+3-4	161-166	davon	_	
+3-5	167-170	nur	_	
+3-6	171-174	die	_	
+3-7	175-181	Hälfte	_	
+3-8	182-197	Nummernschilder	_	
+3-9	197-198	.	_	
+
+#Text=Hier wäre Kontrollen besonders von Ebikes, welche aufgemotzt sind, oder ohne Zulassung fahren gut.
+4-1	199-203	Hier	_	
+4-2	204-208	wäre	_	
+4-3	209-219	Kontrollen	_	
+4-4	220-229	besonders	_	
+4-5	230-233	von	_	
+4-6	234-240	Ebikes	_	
+4-7	240-241	,	_	
+4-8	242-248	welche	_	
+4-9	249-259	aufgemotzt	_	
+4-10	260-264	sind	_	
+4-11	264-265	,	_	
+4-12	266-270	oder	_	
+4-13	271-275	ohne	_	
+4-14	276-285	Zulassung	_	
+4-15	286-292	fahren	_	
+4-16	293-296	gut	_	
+4-17	296-297	.	_	
+
+#Text=Die Zunahme von normalen Ebikes bis 25km/h meine ich hier ganz klar nicht.
+5-1	298-301	Die	_	
+5-2	302-309	Zunahme	_	
+5-3	310-313	von	_	
+5-4	314-322	normalen	_	
+5-5	323-329	Ebikes	_	
+5-6	330-333	bis	_	
+5-7	334-338	25km	_	
+5-8	338-339	/	_	
+5-9	339-340	h	_	
+5-10	341-346	meine	_	
+5-11	347-350	ich	_	
+5-12	351-355	hier	_	
+5-13	356-360	ganz	_	
+5-14	361-365	klar	_	
+5-15	366-371	nicht	_	
+5-16	371-372	.	_	

@@ -1,0 +1,24 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hindernis
+1-1	0-9	Hindernis	_	
+
+#Text=Die Absperrungen sind so eng, dass ein Durchkommen mit Fahrradanhänger nicht möglich ist
+2-1	12-15	Die	_	
+2-2	16-28	Absperrungen	_	
+2-3	29-33	sind	_	
+2-4	34-36	so	_	
+2-5	37-40	eng	_	
+2-6	40-41	,	_	
+2-7	42-46	dass	_	
+2-8	47-50	ein	_	
+2-9	51-62	Durchkommen	_	
+2-10	63-66	mit	_	
+2-11	67-82	Fahrradanhänger	_	
+2-12	83-88	nicht	_	
+2-13	89-96	möglich	_	
+2-14	97-100	ist	_	

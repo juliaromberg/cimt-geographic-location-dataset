@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampel auf Radweg
+1-1	0-5	Ampel	_	
+1-2	6-9	auf	_	
+1-3	10-16	Radweg	_	
+
+#Text=Schwierige Situation.
+2-1	19-29	Schwierige	_	
+2-2	30-39	Situation	_	
+2-3	39-40	.	_	
+
+#Text=Sollen Radler*innen hier wirklich warten müssen?
+3-1	41-47	Sollen	_	
+3-2	48-54	Radler	_	
+3-3	54-55	*	_	
+3-4	55-60	innen	_	
+3-5	61-65	hier	_	
+3-6	66-74	wirklich	_	
+3-7	75-81	warten	_	
+3-8	82-88	müssen	_	
+3-9	88-89	?	_	
+
+#Text=Der Fußgänger*innenverkehr hält sich in Grenzen.
+4-1	90-93	Der	_	
+4-2	94-103	Fußgänger	_	
+4-3	103-104	*	_	
+4-4	104-116	innenverkehr	_	
+4-5	117-121	hält	_	
+4-6	122-126	sich	_	
+4-7	127-129	in	_	
+4-8	130-137	Grenzen	_	
+4-9	137-138	.	_	

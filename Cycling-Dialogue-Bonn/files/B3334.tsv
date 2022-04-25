@@ -1,0 +1,81 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=links abbiegen nahezu unmöglich
+1-1	0-5	links	_	
+1-2	6-14	abbiegen	_	
+1-3	15-21	nahezu	_	
+1-4	22-31	unmöglich	_	
+
+#Text=Bei Nutzung des Fahrradweges (Gehweg) ist ein links abbiegen in die Brühler Straße als Radfahrer nahezu unmöglich.
+2-1	34-37	Bei	_	
+2-2	38-45	Nutzung	_	
+2-3	46-49	des	_	
+2-4	50-62	Fahrradweges	_	
+2-5	63-64	(	_	
+2-6	64-70	Gehweg	_	
+2-7	70-71	)	_	
+2-8	72-75	ist	_	
+2-9	76-79	ein	_	
+2-10	80-85	links	*[5]	
+2-11	86-94	abbiegen	*[5]	
+2-12	95-97	in	*[5]	
+2-13	98-101	die	*[5]	
+2-14	102-109	Brühler	*[5]	
+2-15	110-116	Straße	*[5]	
+2-16	117-120	als	_	
+2-17	121-130	Radfahrer	_	
+2-18	131-137	nahezu	_	
+2-19	138-147	unmöglich	_	
+2-20	147-148	.	_	
+
+#Text=Vorschlag: Beschilderung Fahrradweg auf dem Gehweg entfernen und Straße für Fahrräder freigeben.
+3-1	149-158	Vorschlag	_	
+3-2	158-159	:	_	
+3-3	160-173	Beschilderung	_	
+3-4	174-184	Fahrradweg	_	
+3-5	185-188	auf	_	
+3-6	189-192	dem	_	
+3-7	193-199	Gehweg	_	
+3-8	200-209	entfernen	_	
+3-9	210-213	und	_	
+3-10	214-220	Straße	_	
+3-11	221-224	für	_	
+3-12	225-234	Fahrräder	_	
+3-13	235-244	freigeben	_	
+3-14	244-245	.	_	
+
+#Text=Exkurs: Da das Überqueren der Kreuzung für sämtliche Verkehrsteilnehmer aus allen Richtungen einem Himmelfahrtskommando gleicht, bietet sich ggf. der Bau einer Ampel oder eines Kreisverkehrs an.
+4-1	246-252	Exkurs	_	
+4-2	252-253	:	_	
+4-3	254-256	Da	_	
+4-4	257-260	das	_	
+4-5	261-271	Überqueren	_	
+4-6	272-275	der	_	
+4-7	276-284	Kreuzung	_	
+4-8	285-288	für	_	
+4-9	289-298	sämtliche	_	
+4-10	299-317	Verkehrsteilnehmer	_	
+4-11	318-321	aus	_	
+4-12	322-327	allen	_	
+4-13	328-338	Richtungen	_	
+4-14	339-344	einem	_	
+4-15	345-365	Himmelfahrtskommando	_	
+4-16	366-373	gleicht	_	
+4-17	373-374	,	_	
+4-18	375-381	bietet	_	
+4-19	382-386	sich	_	
+4-20	387-390	ggf	_	
+4-21	390-391	.	_	
+4-22	392-395	der	_	
+4-23	396-399	Bau	_	
+4-24	400-405	einer	_	
+4-25	406-411	Ampel	_	
+4-26	412-416	oder	_	
+4-27	417-422	eines	_	
+4-28	423-436	Kreisverkehrs	_	
+4-29	437-439	an	_	
+4-30	439-440	.	_	

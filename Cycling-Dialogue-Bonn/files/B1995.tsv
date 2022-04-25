@@ -1,0 +1,167 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Stärkeres Durchsetzen der Fahrradstraße im Florentiusgraben
+1-1	0-9	Stärkeres	_	
+1-2	10-21	Durchsetzen	_	
+1-3	22-25	der	_	
+1-4	26-39	Fahrradstraße	*[7]	
+1-5	40-42	im	*[7]	
+1-6	43-59	Florentiusgraben	*[7]	
+
+#Text=Der Florentiusgraben, der ja eigentlich schon eine Fahrradstraße ist, stellt noch immer eine sehr gefährliche Strecke für Radfahrer dar, gerade entgegen der Einbahnstraßenfahrtrichtung.
+2-1	62-65	Der	*[8]	
+2-2	66-82	Florentiusgraben	*[8]	
+2-3	82-83	,	_	
+2-4	84-87	der	_	
+2-5	88-90	ja	_	
+2-6	91-101	eigentlich	_	
+2-7	102-107	schon	_	
+2-8	108-112	eine	_	
+2-9	113-126	Fahrradstraße	_	
+2-10	127-130	ist	_	
+2-11	130-131	,	_	
+2-12	132-138	stellt	_	
+2-13	139-143	noch	_	
+2-14	144-149	immer	_	
+2-15	150-154	eine	_	
+2-16	155-159	sehr	_	
+2-17	160-171	gefährliche	_	
+2-18	172-179	Strecke	_	
+2-19	180-183	für	_	
+2-20	184-193	Radfahrer	_	
+2-21	194-197	dar	_	
+2-22	197-198	,	_	
+2-23	199-205	gerade	_	
+2-24	206-214	entgegen	_	
+2-25	215-218	der	_	
+2-26	219-246	Einbahnstraßenfahrtrichtung	_	
+2-27	246-247	.	_	
+
+#Text=Die Straße ist durch viele Kurven und parkende Autos an vielen Stellen unübersichtlich und die Autofahrer (insbesondere Taxifahrer) fahren teilweise sehr schnell und rücksichtslos, so dass es tlws. fast zu Kollisionen kommt.
+3-1	248-251	Die	_	
+3-2	252-258	Straße	_	
+3-3	259-262	ist	_	
+3-4	263-268	durch	_	
+3-5	269-274	viele	_	
+3-6	275-281	Kurven	_	
+3-7	282-285	und	_	
+3-8	286-294	parkende	_	
+3-9	295-300	Autos	_	
+3-10	301-303	an	_	
+3-11	304-310	vielen	_	
+3-12	311-318	Stellen	_	
+3-13	319-334	unübersichtlich	_	
+3-14	335-338	und	_	
+3-15	339-342	die	_	
+3-16	343-353	Autofahrer	_	
+3-17	354-355	(	_	
+3-18	355-367	insbesondere	_	
+3-19	368-378	Taxifahrer	_	
+3-20	378-379	)	_	
+3-21	380-386	fahren	_	
+3-22	387-396	teilweise	_	
+3-23	397-401	sehr	_	
+3-24	402-409	schnell	_	
+3-25	410-413	und	_	
+3-26	414-427	rücksichtslos	_	
+3-27	427-428	,	_	
+3-28	429-431	so	_	
+3-29	432-436	dass	_	
+3-30	437-439	es	_	
+3-31	440-444	tlws	_	
+3-32	444-445	.	_	
+3-33	446-450	fast	_	
+3-34	451-453	zu	_	
+3-35	454-465	Kollisionen	_	
+3-36	466-471	kommt	_	
+3-37	471-472	.	_	
+
+#Text=Da die Fahrbahn recht schmal ist, und an den Rändern durch Kopfsteinpflaster begrenzt ist, ist das Ausweichen mit dem Rad oft schwierig (gerade bei Regen ist das Kopfsteinpflaster sehr rutschig).
+4-1	473-475	Da	_	
+4-2	476-479	die	_	
+4-3	480-488	Fahrbahn	_	
+4-4	489-494	recht	_	
+4-5	495-501	schmal	_	
+4-6	502-505	ist	_	
+4-7	505-506	,	_	
+4-8	507-510	und	_	
+4-9	511-513	an	_	
+4-10	514-517	den	_	
+4-11	518-525	Rändern	_	
+4-12	526-531	durch	_	
+4-13	532-549	Kopfsteinpflaster	_	
+4-14	550-558	begrenzt	_	
+4-15	559-562	ist	_	
+4-16	562-563	,	_	
+4-17	564-567	ist	_	
+4-18	568-571	das	_	
+4-19	572-582	Ausweichen	_	
+4-20	583-586	mit	_	
+4-21	587-590	dem	_	
+4-22	591-594	Rad	_	
+4-23	595-598	oft	_	
+4-24	599-608	schwierig	_	
+4-25	609-610	(	_	
+4-26	610-616	gerade	_	
+4-27	617-620	bei	_	
+4-28	621-626	Regen	_	
+4-29	627-630	ist	_	
+4-30	631-634	das	_	
+4-31	635-652	Kopfsteinpflaster	_	
+4-32	653-657	sehr	_	
+4-33	658-666	rutschig	_	
+4-34	666-667	)	_	
+4-35	667-668	.	_	
+
+#Text=In dieser Straße sollte deutlicher werden, dass Fahrräder Vorrang haben und rasende Autofahrer sollten stärker sanktioniert und kontrolliert werden.
+5-1	669-671	In	_	
+5-2	672-678	dieser	_	
+5-3	679-685	Straße	_	
+5-4	686-692	sollte	_	
+5-5	693-703	deutlicher	_	
+5-6	704-710	werden	_	
+5-7	710-711	,	_	
+5-8	712-716	dass	_	
+5-9	717-726	Fahrräder	_	
+5-10	727-734	Vorrang	_	
+5-11	735-740	haben	_	
+5-12	741-744	und	_	
+5-13	745-752	rasende	_	
+5-14	753-763	Autofahrer	_	
+5-15	764-771	sollten	_	
+5-16	772-779	stärker	_	
+5-17	780-792	sanktioniert	_	
+5-18	793-796	und	_	
+5-19	797-809	kontrolliert	_	
+5-20	810-816	werden	_	
+5-21	816-817	.	_	
+
+#Text=Außerdem sollten das Kopfsteinpflaster am Rand der Fahrbahn durch ebenen Asphalt ersetzt werden, damit ein Ausweichen vor den entgegenkommenden Autos möglich ist.
+6-1	818-826	Außerdem	_	
+6-2	827-834	sollten	_	
+6-3	835-838	das	_	
+6-4	839-856	Kopfsteinpflaster	_	
+6-5	857-859	am	_	
+6-6	860-864	Rand	_	
+6-7	865-868	der	_	
+6-8	869-877	Fahrbahn	_	
+6-9	878-883	durch	_	
+6-10	884-890	ebenen	_	
+6-11	891-898	Asphalt	_	
+6-12	899-906	ersetzt	_	
+6-13	907-913	werden	_	
+6-14	913-914	,	_	
+6-15	915-920	damit	_	
+6-16	921-924	ein	_	
+6-17	925-935	Ausweichen	_	
+6-18	936-939	vor	_	
+6-19	940-943	den	_	
+6-20	944-961	entgegenkommenden	_	
+6-21	962-967	Autos	_	
+6-22	968-975	möglich	_	
+6-23	976-979	ist	_	
+6-24	979-980	.	_	

@@ -1,0 +1,57 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Erlauben: Abbiegen in Fahrradstraße
+1-1	0-8	Erlauben	_	
+1-2	8-9	:	_	
+1-3	10-18	Abbiegen	_	
+1-4	19-21	in	_	
+1-5	22-35	Fahrradstraße	_	
+
+#Text=Das Linksabbiegen ist von Osten aus der Niebuhrstraße kommend nach der Schranke in die Straße An der Elisabethkirche nicht erlaubt, dennoch verläuft hier der beste Radweg nach Süden, da diese Straße als Fahrradstraße eingerichtet ist.
+2-1	38-41	Das	_	
+2-2	42-55	Linksabbiegen	_	
+2-3	56-59	ist	_	
+2-4	60-63	von	*[4]	
+2-5	64-69	Osten	*[4]	
+2-6	70-73	aus	*[4]	
+2-7	74-77	der	*[4]	
+2-8	78-91	Niebuhrstraße	*[4]	
+2-9	92-99	kommend	*[4]	
+2-10	100-104	nach	*[4]	
+2-11	105-108	der	*[4]	
+2-12	109-117	Schranke	*[4]	
+2-13	118-120	in	*[4]	
+2-14	121-124	die	*[4]	
+2-15	125-131	Straße	*[4]	
+2-16	132-134	An	*[4]	
+2-17	135-138	der	*[4]	
+2-18	139-154	Elisabethkirche	*[4]	
+2-19	155-160	nicht	_	
+2-20	161-168	erlaubt	_	
+2-21	168-169	,	_	
+2-22	170-177	dennoch	_	
+2-23	178-186	verläuft	_	
+2-24	187-191	hier	_	
+2-25	192-195	der	_	
+2-26	196-201	beste	_	
+2-27	202-208	Radweg	_	
+2-28	209-213	nach	_	
+2-29	214-219	Süden	_	
+2-30	219-220	,	_	
+2-31	221-223	da	_	
+2-32	224-229	diese	_	
+2-33	230-236	Straße	_	
+2-34	237-240	als	_	
+2-35	241-254	Fahrradstraße	_	
+2-36	255-267	eingerichtet	_	
+2-37	268-271	ist	_	
+2-38	271-272	.	_	
+
+#Text=Bitte freigeben!
+3-1	273-278	Bitte	_	
+3-2	279-288	freigeben	_	
+3-3	288-289	!	_	

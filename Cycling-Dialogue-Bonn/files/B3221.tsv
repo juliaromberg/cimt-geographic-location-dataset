@@ -1,0 +1,128 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+#FORMAT=WebAnno TSV 3.2			_	
+#T_SP=webanno.custom.Typ|Name			_	
+#T_SP=webanno.custom.Verortung|			_	
+			_	
+			_	
+#Text=Parkchaos führt zu Gefährdung => Einbahnstr und Fahrradstr. errichten				
+1-1	0-9	Parkchaos	_	_
+1-2	10-15	führt	_	_
+1-3	16-18	zu	_	_
+1-4	19-29	Gefährdung	_	_
+1-5	30-31	=	_	_
+1-6	31-32	>	_	_
+1-7	33-43	Einbahnstr	_	_
+1-8	44-47	und	_	_
+1-9	48-58	Fahrradstr	_	_
+1-10	58-59	.	_	_
+1-11	60-69	errichten	_	_
+			_	
+#Text=Für Anwohner ist die gesamte Situation nicht nur als Fahrradfahrender an der Kulturmeile mittlerweile katastrophal!				
+2-1	72-75	Für	_	_
+2-2	76-84	Anwohner	_	_
+2-3	85-88	ist	_	_
+2-4	89-92	die	_	_
+2-5	93-100	gesamte	_	_
+2-6	101-110	Situation	_	_
+2-7	111-116	nicht	_	_
+2-8	117-120	nur	_	_
+2-9	121-124	als	_	_
+2-10	125-141	Fahrradfahrender	_	_
+2-11	142-144	an	_	_
+2-12	145-148	der	_	_
+2-13	149-160	Kulturmeile	_	_
+2-14	161-173	mittlerweile	_	_
+2-15	174-186	katastrophal	_	_
+2-16	186-187	!	_	_
+			_	
+#Text=Bei Veranstaltungen werde die schon kaum vorhandenen Stellplätze in den Nebenstrassen Bsp Brahmsstr, Wiesenweg etc ausgedehnt auf Halteverbote und Parken auf den Gehwegen Kurvenbereiche.				
+3-1	188-191	Bei	_	_
+3-2	192-207	Veranstaltungen	_	_
+3-3	208-213	werde	_	_
+3-4	214-217	die	_	_
+3-5	218-223	schon	_	_
+3-6	224-228	kaum	_	_
+3-7	229-240	vorhandenen	_	_
+3-8	241-252	Stellplätze	_	_
+3-9	253-255	in	_	_
+3-10	256-259	den	_	_
+3-11	260-273	Nebenstrassen	_	_
+3-12	274-277	Bsp	_	_
+3-13	278-287	Brahmsstr	_	*[7]
+3-14	287-288	,	_	*[7]
+3-15	289-298	Wiesenweg	_	*[7]
+3-16	299-302	etc	_	_
+3-17	303-313	ausgedehnt	_	_
+3-18	314-317	auf	_	_
+3-19	318-330	Halteverbote	_	_
+3-20	331-334	und	_	_
+3-21	335-341	Parken	_	_
+3-22	342-345	auf	_	_
+3-23	346-349	den	_	_
+3-24	350-358	Gehwegen	_	_
+3-25	359-373	Kurvenbereiche	_	_
+3-26	373-374	.	_	_
+			_	
+#Text=Dies führt dann dazu das Kinder und ältere Menschen auf die Strassen treten müssen, sowie Fahrradfahrende in Kurvenbereichen nicht wahrgenommen werden von parkplatzsuchenden Autofahrern!				
+4-1	375-379	Dies	_	_
+4-2	380-385	führt	_	_
+4-3	386-390	dann	_	_
+4-4	391-395	dazu	_	_
+4-5	396-399	das	_	_
+4-6	400-406	Kinder	_	_
+4-7	407-410	und	_	_
+4-8	411-417	ältere	_	_
+4-9	418-426	Menschen	_	_
+4-10	427-430	auf	_	_
+4-11	431-434	die	_	_
+4-12	435-443	Strassen	_	_
+4-13	444-450	treten	_	_
+4-14	451-457	müssen	_	_
+4-15	457-458	,	_	_
+4-16	459-464	sowie	_	_
+4-17	465-480	Fahrradfahrende	_	_
+4-18	481-483	in	_	_
+4-19	484-499	Kurvenbereichen	_	_
+4-20	500-505	nicht	_	_
+4-21	506-518	wahrgenommen	_	_
+4-22	519-525	werden	_	_
+4-23	526-529	von	_	_
+4-24	530-548	parkplatzsuchenden	_	_
+4-25	549-560	Autofahrern	_	_
+4-26	560-561	!	_	_
+			_	
+#Text=Daher mein Tipp: Einbahnstrassenregelung Wiesenweg/Brahmsstrasse/Regerstrasse und Errichtung als Fahrradstrasse!				
+5-1	562-567	Daher	_	_
+5-2	568-572	mein	_	_
+5-3	573-577	Tipp	_	_
+5-4	577-578	:	_	_
+5-5	579-602	Einbahnstrassenregelung	_	_
+5-6	603-612	Wiesenweg	_	*[8]
+5-7	612-613	/	_	*[8]
+5-8	613-626	Brahmsstrasse	_	*[8]
+5-9	626-627	/	_	*[8]
+5-10	627-639	Regerstrasse	_	*[8]
+5-11	640-643	und	_	_
+5-12	644-654	Errichtung	_	_
+5-13	655-658	als	_	_
+5-14	659-673	Fahrradstrasse	_	_
+5-15	673-674	!	_	_
+			_	
+#Text=Und natürlich Ortsbegehung durch Stadtverantwortliche nicht Mittwochs Mittags sondern mal Freitag abends zbsp!				
+6-1	675-678	Und	_	_
+6-2	679-688	natürlich	_	_
+6-3	689-701	Ortsbegehung	_	_
+6-4	702-707	durch	_	_
+6-5	708-728	Stadtverantwortliche	_	_
+6-6	729-734	nicht	_	_
+6-7	735-744	Mittwochs	_	_
+6-8	745-752	Mittags	_	_
+6-9	753-760	sondern	_	_
+6-10	761-764	mal	_	_
+6-11	765-772	Freitag	_	_
+6-12	773-779	abends	_	_
+6-13	780-784	zbsp	_	_
+6-14	784-785	!	_	_

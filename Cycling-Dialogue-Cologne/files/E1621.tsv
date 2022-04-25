@@ -1,0 +1,88 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sichtbehinderung durch parkendes Fahrzeug
+1-1	0-16	Sichtbehinderung	_	
+1-2	17-22	durch	_	
+1-3	23-32	parkendes	_	
+1-4	33-41	Fahrzeug	_	
+
+#Text=Direkt vor der Einmündung der Georg-Reiter-Str. ist ein Parkplatz ausgewiesen.
+2-1	44-50	Direkt	*[6]	
+2-2	51-54	vor	*[6]	
+2-3	55-58	der	*[6]	
+2-4	59-69	Einmündung	*[6]	
+2-5	70-73	der	*[6]	
+2-6	74-90	Georg-Reiter-Str	*[6]	
+2-7	90-91	.	_	
+2-8	92-95	ist	_	
+2-9	96-99	ein	_	
+2-10	100-109	Parkplatz	_	
+2-11	110-121	ausgewiesen	_	
+2-12	121-122	.	_	
+
+#Text=Wenn er besetzt ist, ist die Sicht auf sich nähernde Fahrzeuge aus Norden stark eingeschränkt.
+3-1	123-127	Wenn	_	
+3-2	128-130	er	_	
+3-3	131-138	besetzt	_	
+3-4	139-142	ist	_	
+3-5	142-143	,	_	
+3-6	144-147	ist	_	
+3-7	148-151	die	_	
+3-8	152-157	Sicht	_	
+3-9	158-161	auf	_	
+3-10	162-166	sich	_	
+3-11	167-175	nähernde	_	
+3-12	176-185	Fahrzeuge	_	
+3-13	186-189	aus	_	
+3-14	190-196	Norden	_	
+3-15	197-202	stark	_	
+3-16	203-216	eingeschränkt	_	
+3-17	216-217	.	_	
+
+#Text=Ebenso sehen die Fahrzeugführer/innen erst sehr spät auf die Rochusstr. einbiegende Fahrradfahrer/innen.
+4-1	218-224	Ebenso	_	
+4-2	225-230	sehen	_	
+4-3	231-234	die	_	
+4-4	235-249	Fahrzeugführer	_	
+4-5	249-250	/	_	
+4-6	250-255	innen	_	
+4-7	256-260	erst	_	
+4-8	261-265	sehr	_	
+4-9	266-270	spät	_	
+4-10	271-274	auf	*[7]	
+4-11	275-278	die	*[7]	
+4-12	279-288	Rochusstr	*[7]	
+4-13	288-289	.	*[7]	
+4-14	290-301	einbiegende	*[7]	
+4-15	302-315	Fahrradfahrer	_	
+4-16	315-316	/	_	
+4-17	316-321	innen	_	
+4-18	321-322	.	_	
+
+#Text=Da der Parkplatz nicht immer besetzt ist spricht Vieles dafür, dass die vorhandenen Parkplätze auch ohne diesen einen ausreichend sind.
+5-1	323-325	Da	_	
+5-2	326-329	der	_	
+5-3	330-339	Parkplatz	_	
+5-4	340-345	nicht	_	
+5-5	346-351	immer	_	
+5-6	352-359	besetzt	_	
+5-7	360-363	ist	_	
+5-8	364-371	spricht	_	
+5-9	372-378	Vieles	_	
+5-10	379-384	dafür	_	
+5-11	384-385	,	_	
+5-12	386-390	dass	_	
+5-13	391-394	die	_	
+5-14	395-406	vorhandenen	_	
+5-15	407-417	Parkplätze	_	
+5-16	418-422	auch	_	
+5-17	423-427	ohne	_	
+5-18	428-434	diesen	_	
+5-19	435-440	einen	_	
+5-20	441-452	ausreichend	_	
+5-21	453-457	sind	_	
+5-22	457-458	.	_	

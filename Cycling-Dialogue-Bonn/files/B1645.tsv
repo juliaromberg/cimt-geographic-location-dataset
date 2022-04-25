@@ -1,0 +1,59 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Glascontainer am Radweg
+1-1	0-13	Glascontainer	_	
+1-2	14-16	am	_	
+1-3	17-23	Radweg	_	
+
+#Text=Dieser Radweg ist eine sehr praktische Verbindung zwischen Rheinufer und Kennedybrücke, aber ich frage mich generell, ob Glascontainer ihren besten Platz unmittelbar an/auf einem Fahrradweg haben.
+2-1	26-32	Dieser	_	
+2-2	33-39	Radweg	_	
+2-3	40-43	ist	_	
+2-4	44-48	eine	_	
+2-5	49-53	sehr	_	
+2-6	54-64	praktische	_	
+2-7	65-75	Verbindung	_	
+2-8	76-84	zwischen	*[4]	
+2-9	85-94	Rheinufer	*[4]	
+2-10	95-98	und	*[4]	
+2-11	99-112	Kennedybrücke	*[4]	
+2-12	112-113	,	_	
+2-13	114-118	aber	_	
+2-14	119-122	ich	_	
+2-15	123-128	frage	_	
+2-16	129-133	mich	_	
+2-17	134-142	generell	_	
+2-18	142-143	,	_	
+2-19	144-146	ob	_	
+2-20	147-160	Glascontainer	_	
+2-21	161-166	ihren	_	
+2-22	167-173	besten	_	
+2-23	174-179	Platz	_	
+2-24	180-191	unmittelbar	_	
+2-25	192-194	an	_	
+2-26	194-195	/	_	
+2-27	195-198	auf	_	
+2-28	199-204	einem	_	
+2-29	205-215	Fahrradweg	_	
+2-30	216-221	haben	_	
+2-31	221-222	.	_	
+
+#Text=Ich befahre diesen Weg nur höchst ungern, um keinen Platten zu riskieren.
+3-1	223-226	Ich	_	
+3-2	227-234	befahre	_	
+3-3	235-241	diesen	_	
+3-4	242-245	Weg	_	
+3-5	246-249	nur	_	
+3-6	250-256	höchst	_	
+3-7	257-263	ungern	_	
+3-8	263-264	,	_	
+3-9	265-267	um	_	
+3-10	268-274	keinen	_	
+3-11	275-282	Platten	_	
+3-12	283-285	zu	_	
+3-13	286-295	riskieren	_	
+3-14	295-296	.	_	

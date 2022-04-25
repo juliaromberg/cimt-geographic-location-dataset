@@ -1,0 +1,44 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegbeleuchtung
+1-1	0-17	Radwegbeleuchtung	_	
+
+#Text=Der gesamte Radweg zwischen der Tapetenfabrik und der Gerhardstraße ist nicht beleuchtet.
+2-1	20-23	Der	*[3]	
+2-2	24-31	gesamte	*[3]	
+2-3	32-38	Radweg	*[3]	
+2-4	39-47	zwischen	*[3]	
+2-5	48-51	der	*[3]	
+2-6	52-65	Tapetenfabrik	*[3]	
+2-7	66-69	und	*[3]	
+2-8	70-73	der	*[3]	
+2-9	74-87	Gerhardstraße	*[3]	
+2-10	88-91	ist	_	
+2-11	92-97	nicht	_	
+2-12	98-108	beleuchtet	_	
+2-13	108-109	.	_	
+
+#Text=Dies führt dazu, dass bei Dunkelheit ganz viele Radfahrerinnen diesen Weg nicht nutzen können bzw. wollen.
+3-1	110-114	Dies	_	
+3-2	115-120	führt	_	
+3-3	121-125	dazu	_	
+3-4	125-126	,	_	
+3-5	127-131	dass	_	
+3-6	132-135	bei	_	
+3-7	136-146	Dunkelheit	_	
+3-8	147-151	ganz	_	
+3-9	152-157	viele	_	
+3-10	158-172	Radfahrerinnen	_	
+3-11	173-179	diesen	_	
+3-12	180-183	Weg	_	
+3-13	184-189	nicht	_	
+3-14	190-196	nutzen	_	
+3-15	197-203	können	_	
+3-16	204-207	bzw	_	
+3-17	207-208	.	_	
+3-18	209-215	wollen	_	
+3-19	215-216	.	_	

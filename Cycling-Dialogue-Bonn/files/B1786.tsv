@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Behinderung des Radverkehrs durch Grünpfeil
+1-1	0-11	Behinderung	_	
+1-2	12-15	des	_	
+1-3	16-27	Radverkehrs	_	
+1-4	28-33	durch	_	
+1-5	34-43	Grünpfeil	_	
+
+#Text=Hier sollte bitte der Grünpfeil für die Autofahrer abgeschafft werden.
+2-1	46-50	Hier	_	
+2-2	51-57	sollte	_	
+2-3	58-63	bitte	_	
+2-4	64-67	der	_	
+2-5	68-77	Grünpfeil	_	
+2-6	78-81	für	_	
+2-7	82-85	die	_	
+2-8	86-96	Autofahrer	_	
+2-9	97-108	abgeschafft	_	
+2-10	109-115	werden	_	
+2-11	115-116	.	_	
+
+#Text=Die wartenden Rechtsabbieger aus der Heinemannallee in Richtung Norden behindern zu den Stoßzeiten immer wieder den Radweg und den Radverkehr.
+3-1	117-120	Die	_	
+3-2	121-130	wartenden	_	
+3-3	131-145	Rechtsabbieger	_	
+3-4	146-149	aus	*[5]	
+3-5	150-153	der	*[5]	
+3-6	154-168	Heinemannallee	*[5]	
+3-7	169-171	in	*[5]	
+3-8	172-180	Richtung	*[5]	
+3-9	181-187	Norden	*[5]	
+3-10	188-197	behindern	_	
+3-11	198-200	zu	_	
+3-12	201-204	den	_	
+3-13	205-215	Stoßzeiten	_	
+3-14	216-221	immer	_	
+3-15	222-228	wieder	_	
+3-16	229-232	den	_	
+3-17	233-239	Radweg	_	
+3-18	240-243	und	_	
+3-19	244-247	den	_	
+3-20	248-258	Radverkehr	_	
+3-21	258-259	.	_	
+
+#Text=Hier sollte die Grüne Ampel für die Abbieger doch ausreichen.
+4-1	260-264	Hier	_	
+4-2	265-271	sollte	_	
+4-3	272-275	die	_	
+4-4	276-281	Grüne	_	
+4-5	282-287	Ampel	_	
+4-6	288-291	für	_	
+4-7	292-295	die	_	
+4-8	296-304	Abbieger	_	
+4-9	305-309	doch	_	
+4-10	310-320	ausreichen	_	
+4-11	320-321	.	_	

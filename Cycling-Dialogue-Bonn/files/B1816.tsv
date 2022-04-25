@@ -1,0 +1,119 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Erläuterung zur Fahrradampel
+1-1	0-11	Erläuterung	_	
+1-2	12-15	zur	_	
+1-3	16-28	Fahrradampel	_	
+
+#Text=Ich hätte gerne eine Erläuterung zur separaten Fahrradampel: und zwar geht es um das Linksabbiegen an dieser Kreuzung.
+2-1	31-34	Ich	_	
+2-2	35-40	hätte	_	
+2-3	41-46	gerne	_	
+2-4	47-51	eine	_	
+2-5	52-63	Erläuterung	_	
+2-6	64-67	zur	_	
+2-7	68-77	separaten	_	
+2-8	78-90	Fahrradampel	_	
+2-9	90-91	:	_	
+2-10	92-95	und	_	
+2-11	96-100	zwar	_	
+2-12	101-105	geht	_	
+2-13	106-108	es	_	
+2-14	109-111	um	_	
+2-15	112-115	das	_	
+2-16	116-129	Linksabbiegen	_	
+2-17	130-132	an	_	
+2-18	133-139	dieser	_	
+2-19	140-148	Kreuzung	_	
+2-20	148-149	.	_	
+
+#Text=Ich sehe den Sinn und Nutzen dieser Ampel, wenn es um die Fahrt von der Sternenburgstraße geradeaus in die Lotharstraße geht (da meist kein kreuzender Verkehr, der in die Sackgasse abbiegt).
+3-1	150-153	Ich	_	
+3-2	154-158	sehe	_	
+3-3	159-162	den	_	
+3-4	163-167	Sinn	_	
+3-5	168-171	und	_	
+3-6	172-178	Nutzen	_	
+3-7	179-185	dieser	_	
+3-8	186-191	Ampel	_	
+3-9	191-192	,	_	
+3-10	193-197	wenn	_	
+3-11	198-200	es	_	
+3-12	201-203	um	_	
+3-13	204-207	die	_	
+3-14	208-213	Fahrt	_	
+3-15	214-217	von	*[6]	
+3-16	218-221	der	*[6]	
+3-17	222-239	Sternenburgstraße	*[6]	
+3-18	240-249	geradeaus	*[6]	
+3-19	250-252	in	*[6]	
+3-20	253-256	die	*[6]	
+3-21	257-269	Lotharstraße	*[6]	
+3-22	270-274	geht	_	
+3-23	275-276	(	_	
+3-24	276-278	da	_	
+3-25	279-284	meist	_	
+3-26	285-289	kein	_	
+3-27	290-300	kreuzender	_	
+3-28	301-308	Verkehr	_	
+3-29	308-309	,	_	
+3-30	310-313	der	_	
+3-31	314-316	in	_	
+3-32	317-320	die	_	
+3-33	321-330	Sackgasse	_	
+3-34	331-338	abbiegt	_	
+3-35	338-339	)	_	
+3-36	339-340	.	_	
+
+#Text=Jedoch frage ich mich jedes Mal, ob die Ampel auch dazu gedacht ist, uns Radfahrern ein frühzeitiges Abbiegen nach links in die Argelanderstraße zu ermöglichen - weil man so nämlich in den Gegenverkehr aus der Lotharstraße kommt.
+4-1	341-347	Jedoch	_	
+4-2	348-353	frage	_	
+4-3	354-357	ich	_	
+4-4	358-362	mich	_	
+4-5	363-368	jedes	_	
+4-6	369-372	Mal	_	
+4-7	372-373	,	_	
+4-8	374-376	ob	_	
+4-9	377-380	die	_	
+4-10	381-386	Ampel	_	
+4-11	387-391	auch	_	
+4-12	392-396	dazu	_	
+4-13	397-404	gedacht	_	
+4-14	405-408	ist	_	
+4-15	408-409	,	_	
+4-16	410-413	uns	_	
+4-17	414-424	Radfahrern	_	
+4-18	425-428	ein	_	
+4-19	429-441	frühzeitiges	_	
+4-20	442-450	Abbiegen	*[7]	
+4-21	451-455	nach	*[7]	
+4-22	456-461	links	*[7]	
+4-23	462-464	in	*[7]	
+4-24	465-468	die	*[7]	
+4-25	469-485	Argelanderstraße	*[7]	
+4-26	486-488	zu	_	
+4-27	489-500	ermöglichen	_	
+4-28	501-502	-	_	
+4-29	503-507	weil	_	
+4-30	508-511	man	_	
+4-31	512-514	so	_	
+4-32	515-522	nämlich	_	
+4-33	523-525	in	_	
+4-34	526-529	den	_	
+4-35	530-542	Gegenverkehr	_	
+4-36	543-546	aus	*[8]	
+4-37	547-550	der	*[8]	
+4-38	551-563	Lotharstraße	*[8]	
+4-39	564-569	kommt	_	
+4-40	569-570	.	_	
+
+#Text=Ist das so gewollt?
+5-1	571-574	Ist	_	
+5-2	575-578	das	_	
+5-3	579-581	so	_	
+5-4	582-589	gewollt	_	
+5-5	589-590	?	_	

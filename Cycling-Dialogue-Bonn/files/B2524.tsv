@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zugang zu Zügen im HBF
+1-1	0-6	Zugang	_	
+1-2	7-9	zu	_	
+1-3	10-15	Zügen	_	
+1-4	16-18	im	*[4]	
+1-5	19-22	HBF	*[4]	
+
+#Text=Wenn man mit dem Fahrrad einen der Regionalzüge nehmen möchte, oder mit diesen ankommt, steht man am Bonner HBF vor dem Problem, dass man sein Fahrrad zunächst einmal durch die Gegend schleppen muss oder irgendwie auf den Rolltreppen festhalten.
+2-1	25-29	Wenn	_	
+2-2	30-33	man	_	
+2-3	34-37	mit	_	
+2-4	38-41	dem	_	
+2-5	42-49	Fahrrad	_	
+2-6	50-55	einen	_	
+2-7	56-59	der	_	
+2-8	60-72	Regionalzüge	_	
+2-9	73-79	nehmen	_	
+2-10	80-86	möchte	_	
+2-11	86-87	,	_	
+2-12	88-92	oder	_	
+2-13	93-96	mit	_	
+2-14	97-103	diesen	_	
+2-15	104-111	ankommt	_	
+2-16	111-112	,	_	
+2-17	113-118	steht	_	
+2-18	119-122	man	_	
+2-19	123-125	am	_	
+2-20	126-132	Bonner	*[5]	
+2-21	133-136	HBF	*[5]	
+2-22	137-140	vor	_	
+2-23	141-144	dem	_	
+2-24	145-152	Problem	_	
+2-25	152-153	,	_	
+2-26	154-158	dass	_	
+2-27	159-162	man	_	
+2-28	163-167	sein	_	
+2-29	168-175	Fahrrad	_	
+2-30	176-184	zunächst	_	
+2-31	185-191	einmal	_	
+2-32	192-197	durch	_	
+2-33	198-201	die	_	
+2-34	202-208	Gegend	_	
+2-35	209-218	schleppen	_	
+2-36	219-223	muss	_	
+2-37	224-228	oder	_	
+2-38	229-238	irgendwie	_	
+2-39	239-242	auf	_	
+2-40	243-246	den	_	
+2-41	247-258	Rolltreppen	_	
+2-42	259-269	festhalten	_	
+2-43	269-270	.	_	
+
+#Text=Die Aufzüge sind nämlich lustigerweise ein paar cm zu klein, als dass ein Fahrrad hineinpasst.
+3-1	271-274	Die	_	
+3-2	275-282	Aufzüge	_	
+3-3	283-287	sind	_	
+3-4	288-295	nämlich	_	
+3-5	296-309	lustigerweise	_	
+3-6	310-313	ein	_	
+3-7	314-318	paar	_	
+3-8	319-321	cm	_	
+3-9	322-324	zu	_	
+3-10	325-330	klein	_	
+3-11	330-331	,	_	
+3-12	332-335	als	_	
+3-13	336-340	dass	_	
+3-14	341-344	ein	_	
+3-15	345-352	Fahrrad	_	
+3-16	353-364	hineinpasst	_	
+3-17	364-365	.	_	

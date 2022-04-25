@@ -1,0 +1,62 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zu schmaler Schutzstreifen entlang von parkenden Autos
+1-1	0-2	Zu	_	
+1-2	3-11	schmaler	_	
+1-3	12-26	Schutzstreifen	_	
+1-4	27-34	entlang	_	
+1-5	35-38	von	_	
+1-6	39-48	parkenden	_	
+1-7	49-54	Autos	_	
+
+#Text=Auch hier wie an vielen Stellen ist der Schutzstreifen viel zu schmal.
+2-1	57-61	Auch	_	
+2-2	62-66	hier	_	
+2-3	67-70	wie	_	
+2-4	71-73	an	_	
+2-5	74-80	vielen	_	
+2-6	81-88	Stellen	_	
+2-7	89-92	ist	_	
+2-8	93-96	der	_	
+2-9	97-111	Schutzstreifen	_	
+2-10	112-116	viel	_	
+2-11	117-119	zu	_	
+2-12	120-126	schmal	_	
+2-13	126-127	.	_	
+
+#Text=Entlang von parkenden Autos muss man gleichzeitig drauf achten nicht vom fließenden Verkehr geschnitten zu werden oder eine Autotür ins Gesicht zu bekommen.
+3-1	128-135	Entlang	_	
+3-2	136-139	von	_	
+3-3	140-149	parkenden	_	
+3-4	150-155	Autos	_	
+3-5	156-160	muss	_	
+3-6	161-164	man	_	
+3-7	165-177	gleichzeitig	_	
+3-8	178-183	drauf	_	
+3-9	184-190	achten	_	
+3-10	191-196	nicht	_	
+3-11	197-200	vom	_	
+3-12	201-211	fließenden	_	
+3-13	212-219	Verkehr	_	
+3-14	220-231	geschnitten	_	
+3-15	232-234	zu	_	
+3-16	235-241	werden	_	
+3-17	242-246	oder	_	
+3-18	247-251	eine	_	
+3-19	252-259	Autotür	_	
+3-20	260-263	ins	_	
+3-21	264-271	Gesicht	_	
+3-22	272-274	zu	_	
+3-23	275-283	bekommen	_	
+3-24	283-284	.	_	
+
+#Text=Beides kann tödlich enden!
+4-1	285-291	Beides	_	
+4-2	292-296	kann	_	
+4-3	297-304	tödlich	_	
+4-4	305-310	enden	_	
+4-5	310-311	!	_	

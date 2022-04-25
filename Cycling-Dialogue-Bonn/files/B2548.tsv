@@ -1,0 +1,67 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreuzung häufig mit Kreisel verwechselt
+1-1	0-8	Kreuzung	_	
+1-2	9-15	häufig	_	
+1-3	16-19	mit	_	
+1-4	20-27	Kreisel	_	
+1-5	28-39	verwechselt	_	
+
+#Text=An dieser Stelle kommt es täglich zu gefährlichen Situationen für alle Straßenteilnehmer.
+2-1	42-44	An	_	
+2-2	45-51	dieser	_	
+2-3	52-58	Stelle	_	
+2-4	59-64	kommt	_	
+2-5	65-67	es	_	
+2-6	68-75	täglich	_	
+2-7	76-78	zu	_	
+2-8	79-91	gefährlichen	_	
+2-9	92-103	Situationen	_	
+2-10	104-107	für	_	
+2-11	108-112	alle	_	
+2-12	113-130	Straßenteilnehmer	_	
+2-13	130-131	.	_	
+
+#Text=Die Gestaltung der Kreuzung sorgt dafür, dass Verkehrsteilnehmer, die diese Kreuzung nicht kennen, diese als Kreisel wahrnehmen!
+3-1	132-135	Die	_	
+3-2	136-146	Gestaltung	_	
+3-3	147-150	der	_	
+3-4	151-159	Kreuzung	_	
+3-5	160-165	sorgt	_	
+3-6	166-171	dafür	_	
+3-7	171-172	,	_	
+3-8	173-177	dass	_	
+3-9	178-196	Verkehrsteilnehmer	_	
+3-10	196-197	,	_	
+3-11	198-201	die	_	
+3-12	202-207	diese	_	
+3-13	208-216	Kreuzung	_	
+3-14	217-222	nicht	_	
+3-15	223-229	kennen	_	
+3-16	229-230	,	_	
+3-17	231-236	diese	_	
+3-18	237-240	als	_	
+3-19	241-248	Kreisel	_	
+3-20	249-259	wahrnehmen	_	
+3-21	259-260	!	_	
+
+#Text=Dies kollidiert mit der Rechts-Vor-Links Regel.
+4-1	261-265	Dies	_	
+4-2	266-276	kollidiert	_	
+4-3	277-280	mit	_	
+4-4	281-284	der	_	
+4-5	285-301	Rechts-Vor-Links	_	
+4-6	302-307	Regel	_	
+4-7	307-308	.	_	
+
+#Text=Eine Beschilderung ist dringed notwendig.
+5-1	309-313	Eine	_	
+5-2	314-327	Beschilderung	_	
+5-3	328-331	ist	_	
+5-4	332-339	dringed	_	
+5-5	340-349	notwendig	_	
+5-6	349-350	.	_	

@@ -1,0 +1,211 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Die Radführung vom belgischen Viertel kommend geradeaus auf der Vogelsanger Straße muss dringend verbessert werden.
+1-1	0-3	Die	_	
+1-2	4-14	Radführung	_	
+1-3	15-18	vom	*[9]	
+1-4	19-29	belgischen	*[9]	
+1-5	30-37	Viertel	*[9]	
+1-6	38-45	kommend	*[9]	
+1-7	46-55	geradeaus	*[9]	
+1-8	56-59	auf	*[9]	
+1-9	60-63	der	*[9]	
+1-10	64-75	Vogelsanger	*[9]	
+1-11	76-82	Straße	*[9]	
+1-12	83-87	muss	_	
+1-13	88-96	dringend	_	
+1-14	97-107	verbessert	_	
+1-15	108-114	werden	_	
+1-16	114-115	.	_	
+
+#Text=Wer auf der Vogelsanger aus dem belgischen Viertel kommend einfach nur geradeaus die Innere Kanalstraße überqueren will, wird über den freilaufenden Rechtsabbieger für die Autofahrer geleitet, wo man dann scheinbar auf den Bürgersteig fahren soll.
+2-1	118-121	Wer	_	
+2-2	122-125	auf	*[10]	
+2-3	126-129	der	*[10]	
+2-4	130-141	Vogelsanger	*[10]	
+2-5	142-145	aus	*[10]	
+2-6	146-149	dem	*[10]	
+2-7	150-160	belgischen	*[10]	
+2-8	161-168	Viertel	*[10]	
+2-9	169-176	kommend	*[10]	
+2-10	177-184	einfach	_	
+2-11	185-188	nur	_	
+2-12	189-198	geradeaus	*[11]	
+2-13	199-202	die	*[11]	
+2-14	203-209	Innere	*[11]	
+2-15	210-221	Kanalstraße	*[11]	
+2-16	222-232	überqueren	*[11]	
+2-17	233-237	will	_	
+2-18	237-238	,	_	
+2-19	239-243	wird	_	
+2-20	244-248	über	_	
+2-21	249-252	den	_	
+2-22	253-266	freilaufenden	_	
+2-23	267-281	Rechtsabbieger	_	
+2-24	282-285	für	_	
+2-25	286-289	die	_	
+2-26	290-300	Autofahrer	_	
+2-27	301-309	geleitet	_	
+2-28	309-310	,	_	
+2-29	311-313	wo	_	
+2-30	314-317	man	_	
+2-31	318-322	dann	_	
+2-32	323-332	scheinbar	_	
+2-33	333-336	auf	_	
+2-34	337-340	den	_	
+2-35	341-352	Bürgersteig	_	
+2-36	353-359	fahren	_	
+2-37	360-364	soll	_	
+2-38	364-365	.	_	
+
+#Text=Dort ist aber a) kein Radweg deutlich markiert und b) man muss als Radfahrer nach wenigen Metern schon wieder auf die Straße (und in den fließenden Autoverkehr wechseln).
+3-1	366-370	Dort	_	
+3-2	371-374	ist	_	
+3-3	375-379	aber	_	
+3-4	380-381	a	_	
+3-5	381-382	)	_	
+3-6	383-387	kein	_	
+3-7	388-394	Radweg	_	
+3-8	395-403	deutlich	_	
+3-9	404-412	markiert	_	
+3-10	413-416	und	_	
+3-11	417-418	b	_	
+3-12	418-419	)	_	
+3-13	420-423	man	_	
+3-14	424-428	muss	_	
+3-15	429-432	als	_	
+3-16	433-442	Radfahrer	_	
+3-17	443-447	nach	_	
+3-18	448-455	wenigen	_	
+3-19	456-462	Metern	_	
+3-20	463-468	schon	_	
+3-21	469-475	wieder	_	
+3-22	476-479	auf	_	
+3-23	480-483	die	_	
+3-24	484-490	Straße	_	
+3-25	491-492	(	_	
+3-26	492-495	und	_	
+3-27	496-498	in	_	
+3-28	499-502	den	_	
+3-29	503-513	fließenden	_	
+3-30	514-525	Autoverkehr	_	
+3-31	526-534	wechseln	_	
+3-32	534-535	)	_	
+3-33	535-536	.	_	
+
+#Text=Auf Anhieb ist es aber auch gar nicht zu erkennen, dass man dort auf den Bürgersteig soll.
+4-1	537-540	Auf	_	
+4-2	541-547	Anhieb	_	
+4-3	548-551	ist	_	
+4-4	552-554	es	_	
+4-5	555-559	aber	_	
+4-6	560-564	auch	_	
+4-7	565-568	gar	_	
+4-8	569-574	nicht	_	
+4-9	575-577	zu	_	
+4-10	578-586	erkennen	_	
+4-11	586-587	,	_	
+4-12	588-592	dass	_	
+4-13	593-596	man	_	
+4-14	597-601	dort	_	
+4-15	602-605	auf	_	
+4-16	606-609	den	_	
+4-17	610-621	Bürgersteig	_	
+4-18	622-626	soll	_	
+4-19	626-627	.	_	
+
+#Text=Die Folge ist, dass eigentlich alle Radfahrer auf dem freilaufen Rechtsabbieger landen und von dort dann wieder auf die Vogelsanger fahren, wo man sich wiederum in den fließenden Autoverkehr einfädeln muss.
+5-1	628-631	Die	_	
+5-2	632-637	Folge	_	
+5-3	638-641	ist	_	
+5-4	641-642	,	_	
+5-5	643-647	dass	_	
+5-6	648-658	eigentlich	_	
+5-7	659-663	alle	_	
+5-8	664-673	Radfahrer	_	
+5-9	674-677	auf	_	
+5-10	678-681	dem	_	
+5-11	682-692	freilaufen	_	
+5-12	693-707	Rechtsabbieger	_	
+5-13	708-714	landen	_	
+5-14	715-718	und	_	
+5-15	719-722	von	_	
+5-16	723-727	dort	_	
+5-17	728-732	dann	_	
+5-18	733-739	wieder	_	
+5-19	740-743	auf	*[12]	
+5-20	744-747	die	*[12]	
+5-21	748-759	Vogelsanger	*[12]	
+5-22	760-766	fahren	_	
+5-23	766-767	,	_	
+5-24	768-770	wo	_	
+5-25	771-774	man	_	
+5-26	775-779	sich	_	
+5-27	780-788	wiederum	_	
+5-28	789-791	in	_	
+5-29	792-795	den	_	
+5-30	796-806	fließenden	_	
+5-31	807-818	Autoverkehr	_	
+5-32	819-828	einfädeln	_	
+5-33	829-833	muss	_	
+5-34	833-834	.	_	
+
+#Text=Die Stelle ist einfach nur unlogisch.
+6-1	835-838	Die	_	
+6-2	839-845	Stelle	_	
+6-3	846-849	ist	_	
+6-4	850-857	einfach	_	
+6-5	858-861	nur	_	
+6-6	862-871	unlogisch	_	
+6-7	871-872	.	_	
+
+#Text=Es muss einem doch möglich sein ganz einfach nur geradeaus die Kreuzung zu überqueren.
+7-1	873-875	Es	_	
+7-2	876-880	muss	_	
+7-3	881-886	einem	_	
+7-4	887-891	doch	_	
+7-5	892-899	möglich	_	
+7-6	900-904	sein	_	
+7-7	905-909	ganz	_	
+7-8	910-917	einfach	_	
+7-9	918-921	nur	_	
+7-10	922-931	geradeaus	_	
+7-11	932-935	die	_	
+7-12	936-944	Kreuzung	_	
+7-13	945-947	zu	_	
+7-14	948-958	überqueren	_	
+7-15	958-959	.	_	
+
+#Text=Wenn man die Stelle nicht kennt, merkt man gar im ersten Moment gar nicht wie seltsam man geleitet wird, was die Stelle recht gefährlich macht.
+8-1	960-964	Wenn	_	
+8-2	965-968	man	_	
+8-3	969-972	die	_	
+8-4	973-979	Stelle	_	
+8-5	980-985	nicht	_	
+8-6	986-991	kennt	_	
+8-7	991-992	,	_	
+8-8	993-998	merkt	_	
+8-9	999-1002	man	_	
+8-10	1003-1006	gar	_	
+8-11	1007-1009	im	_	
+8-12	1010-1016	ersten	_	
+8-13	1017-1023	Moment	_	
+8-14	1024-1027	gar	_	
+8-15	1028-1033	nicht	_	
+8-16	1034-1037	wie	_	
+8-17	1038-1045	seltsam	_	
+8-18	1046-1049	man	_	
+8-19	1050-1058	geleitet	_	
+8-20	1059-1063	wird	_	
+8-21	1063-1064	,	_	
+8-22	1065-1068	was	_	
+8-23	1069-1072	die	_	
+8-24	1073-1079	Stelle	_	
+8-25	1080-1085	recht	_	
+8-26	1086-1096	gefährlich	_	
+8-27	1097-1102	macht	_	
+8-28	1102-1103	.	_	

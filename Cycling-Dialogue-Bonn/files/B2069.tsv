@@ -1,0 +1,221 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegführung in Fahrtrichtung Beuel
+1-1	0-13	Radwegführung	_	
+1-2	14-16	in	*[12]	
+1-3	17-30	Fahrtrichtung	*[12]	
+1-4	31-36	Beuel	*[12]	
+
+#Text=Die Situation insbesondere im Bereich Brückenforum ist allgemein bekannt und führt immer wieder zu gefährlichen Situationen vor dem Brückenforum und an der Einmündung Hermannstraße.
+2-1	39-42	Die	_	
+2-2	43-52	Situation	_	
+2-3	53-65	insbesondere	_	
+2-4	66-68	im	_	
+2-5	69-76	Bereich	*[13]	
+2-6	77-89	Brückenforum	*[13]	
+2-7	90-93	ist	_	
+2-8	94-103	allgemein	_	
+2-9	104-111	bekannt	_	
+2-10	112-115	und	_	
+2-11	116-121	führt	_	
+2-12	122-127	immer	_	
+2-13	128-134	wieder	_	
+2-14	135-137	zu	_	
+2-15	138-150	gefährlichen	_	
+2-16	151-162	Situationen	_	
+2-17	163-166	vor	*[14]	
+2-18	167-170	dem	*[14]	
+2-19	171-183	Brückenforum	*[14]	
+2-20	184-187	und	*[14]	
+2-21	188-190	an	*[14]	
+2-22	191-194	der	*[14]	
+2-23	195-205	Einmündung	*[14]	
+2-24	206-219	Hermannstraße	*[14]	
+2-25	219-220	.	*[14]	
+
+#Text=Mein Verbesserungsvorschlag: In Fahrtrichtung Beuel hinter der Einfahrt zur Tiefgarage den Radweg auf die Fahrbahn verlegen.
+3-1	221-225	Mein	_	
+3-2	226-248	Verbesserungsvorschlag	_	
+3-3	248-249	:	_	
+3-4	250-252	In	*[15]	
+3-5	253-266	Fahrtrichtung	*[15]	
+3-6	267-272	Beuel	*[15]	
+3-7	273-279	hinter	_	
+3-8	280-283	der	_	
+3-9	284-292	Einfahrt	_	
+3-10	293-296	zur	_	
+3-11	297-307	Tiefgarage	_	
+3-12	308-311	den	_	
+3-13	312-318	Radweg	_	
+3-14	319-322	auf	_	
+3-15	323-326	die	_	
+3-16	327-335	Fahrbahn	_	
+3-17	336-344	verlegen	_	
+3-18	344-345	.	_	
+
+#Text=Da dort sowieso nur einspurig gefahren wird / werden kann, steht genug Raum für einen Fahrradweg zur Verfügung.
+4-1	346-348	Da	_	
+4-2	349-353	dort	_	
+4-3	354-361	sowieso	_	
+4-4	362-365	nur	_	
+4-5	366-375	einspurig	_	
+4-6	376-384	gefahren	_	
+4-7	385-389	wird	_	
+4-8	390-391	/	_	
+4-9	392-398	werden	_	
+4-10	399-403	kann	_	
+4-11	403-404	,	_	
+4-12	405-410	steht	_	
+4-13	411-416	genug	_	
+4-14	417-421	Raum	_	
+4-15	422-425	für	_	
+4-16	426-431	einen	_	
+4-17	432-442	Fahrradweg	_	
+4-18	443-446	zur	_	
+4-19	447-456	Verfügung	_	
+4-20	456-457	.	_	
+
+#Text=Der Fahrradweg könnte dann unmittelbar in die Hermannstraße übergehen.
+5-1	458-461	Der	_	
+5-2	462-472	Fahrradweg	_	
+5-3	473-479	könnte	_	
+5-4	480-484	dann	_	
+5-5	485-496	unmittelbar	_	
+5-6	497-499	in	*[16]	
+5-7	500-503	die	*[16]	
+5-8	504-517	Hermannstraße	*[16]	
+5-9	518-527	übergehen	_	
+5-10	527-528	.	_	
+
+#Text=Das würde den Engpass am Brückenforum entschärfen und auf dem Radweg genügend Platz für die Radler in Richtung Bonn übriglassen.
+6-1	529-532	Das	_	
+6-2	533-538	würde	_	
+6-3	539-542	den	_	
+6-4	543-550	Engpass	_	
+6-5	551-553	am	_	
+6-6	554-566	Brückenforum	_	
+6-7	567-578	entschärfen	_	
+6-8	579-582	und	_	
+6-9	583-586	auf	_	
+6-10	587-590	dem	_	
+6-11	591-597	Radweg	_	
+6-12	598-606	genügend	_	
+6-13	607-612	Platz	_	
+6-14	613-616	für	_	
+6-15	617-620	die	_	
+6-16	621-627	Radler	_	
+6-17	628-630	in	*[17]	
+6-18	631-639	Richtung	*[17]	
+6-19	640-644	Bonn	*[17]	
+6-20	645-656	übriglassen	_	
+6-21	656-657	.	_	
+
+#Text=Die zweite Fahrspur für PKW könnte erst wieder hinter der Hermannstraße beginnen, von wo die Rechtsabbieger unmittelbar auf die rechte Fahrspur der Sankt Augustiner Straße abbiegen könnten.
+7-1	658-661	Die	_	
+7-2	662-668	zweite	_	
+7-3	669-677	Fahrspur	_	
+7-4	678-681	für	_	
+7-5	682-685	PKW	_	
+7-6	686-692	könnte	_	
+7-7	693-697	erst	_	
+7-8	698-704	wieder	_	
+7-9	705-711	hinter	*[18]	
+7-10	712-715	der	*[18]	
+7-11	716-729	Hermannstraße	*[18]	
+7-12	730-738	beginnen	_	
+7-13	738-739	,	_	
+7-14	740-743	von	_	
+7-15	744-746	wo	_	
+7-16	747-750	die	_	
+7-17	751-765	Rechtsabbieger	_	
+7-18	766-777	unmittelbar	_	
+7-19	778-781	auf	*[19]	
+7-20	782-785	die	*[19]	
+7-21	786-792	rechte	*[19]	
+7-22	793-801	Fahrspur	*[19]	
+7-23	802-805	der	*[19]	
+7-24	806-811	Sankt	*[19]	
+7-25	812-822	Augustiner	*[19]	
+7-26	823-829	Straße	*[19]	
+7-27	830-838	abbiegen	*[19]	
+7-28	839-846	könnten	_	
+7-29	846-847	.	_	
+
+#Text=Noch besser wäre es allerdings, den Radweg bis zum Konrad-Adenauer-Platz auf der rechten Fahrspur weiter zu führen.
+8-1	848-852	Noch	_	
+8-2	853-859	besser	_	
+8-3	860-864	wäre	_	
+8-4	865-867	es	_	
+8-5	868-878	allerdings	_	
+8-6	878-879	,	_	
+8-7	880-883	den	_	
+8-8	884-890	Radweg	*[20]	
+8-9	891-894	bis	*[20]	
+8-10	895-898	zum	*[20]	
+8-11	899-920	Konrad-Adenauer-Platz	*[20]	
+8-12	921-924	auf	_	
+8-13	925-928	der	_	
+8-14	929-936	rechten	_	
+8-15	937-945	Fahrspur	_	
+8-16	946-952	weiter	_	
+8-17	953-955	zu	_	
+8-18	956-962	führen	_	
+8-19	962-963	.	_	
+
+#Text=Hier könnte dann die zweite Fahrspur beginnen und der Radweg auf dem Gehweg, wie bisher, fortgeführt werden.
+9-1	964-968	Hier	_	
+9-2	969-975	könnte	_	
+9-3	976-980	dann	_	
+9-4	981-984	die	_	
+9-5	985-991	zweite	_	
+9-6	992-1000	Fahrspur	_	
+9-7	1001-1009	beginnen	_	
+9-8	1010-1013	und	_	
+9-9	1014-1017	der	_	
+9-10	1018-1024	Radweg	_	
+9-11	1025-1028	auf	_	
+9-12	1029-1032	dem	_	
+9-13	1033-1039	Gehweg	_	
+9-14	1039-1040	,	_	
+9-15	1041-1044	wie	_	
+9-16	1045-1051	bisher	_	
+9-17	1051-1052	,	_	
+9-18	1053-1064	fortgeführt	_	
+9-19	1065-1071	werden	_	
+9-20	1071-1072	.	_	
+
+#Text=Hierdurch würde auch der Schlenker im Bereich der Einmündung Hermannstraße deutlich kleiner ausfallen.
+10-1	1073-1082	Hierdurch	_	
+10-2	1083-1088	würde	_	
+10-3	1089-1093	auch	_	
+10-4	1094-1097	der	_	
+10-5	1098-1107	Schlenker	_	
+10-6	1108-1110	im	_	
+10-7	1111-1118	Bereich	_	
+10-8	1119-1122	der	_	
+10-9	1123-1133	Einmündung	*[21]	
+10-10	1134-1147	Hermannstraße	*[21]	
+10-11	1148-1156	deutlich	_	
+10-12	1157-1164	kleiner	_	
+10-13	1165-1174	ausfallen	_	
+10-14	1174-1175	.	_	
+
+#Text=(Ein zweispuriger Verkehr findet hier meistens aufgrund des Schlenkers noch nicht statt)
+11-1	1176-1177	(	_	
+11-2	1177-1180	Ein	_	
+11-3	1181-1193	zweispuriger	_	
+11-4	1194-1201	Verkehr	_	
+11-5	1202-1208	findet	_	
+11-6	1209-1213	hier	_	
+11-7	1214-1222	meistens	_	
+11-8	1223-1231	aufgrund	_	
+11-9	1232-1235	des	_	
+11-10	1236-1246	Schlenkers	_	
+11-11	1247-1251	noch	_	
+11-12	1252-1257	nicht	_	
+11-13	1258-1263	statt	_	
+11-14	1263-1264	)	_	

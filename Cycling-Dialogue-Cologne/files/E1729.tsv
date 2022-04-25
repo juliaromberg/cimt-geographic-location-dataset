@@ -1,0 +1,120 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Linksabbiegebeziehung für Radfahrer ermöglichen
+1-1	0-21	Linksabbiegebeziehung	_	
+1-2	22-25	für	_	
+1-3	26-35	Radfahrer	_	
+1-4	36-47	ermöglichen	_	
+
+#Text=Die Kreuzung Butzweiler Str / Hugo Eckener Str ist trotz Wohnsiedlung, Schule und Bushaltestellen nicht für Rad und Fußverkehr ausgelegt.
+2-1	50-53	Die	*[6]	
+2-2	54-62	Kreuzung	*[6]	
+2-3	63-73	Butzweiler	*[6]	
+2-4	74-77	Str	*[6]	
+2-5	78-79	/	*[6]	
+2-6	80-84	Hugo	*[6]	
+2-7	85-92	Eckener	*[6]	
+2-8	93-96	Str	*[6]	
+2-9	97-100	ist	_	
+2-10	101-106	trotz	_	
+2-11	107-119	Wohnsiedlung	_	
+2-12	119-120	,	_	
+2-13	121-127	Schule	_	
+2-14	128-131	und	_	
+2-15	132-147	Bushaltestellen	_	
+2-16	148-153	nicht	_	
+2-17	154-157	für	_	
+2-18	158-161	Rad	_	
+2-19	162-165	und	_	
+2-20	166-176	Fußverkehr	_	
+2-21	177-186	ausgelegt	_	
+2-22	186-187	.	_	
+
+#Text=Als Radfahrer muss man von Longerich kommend den baulichen Radweg fahren und wird dann rechts auf die Hugo-Eckener Str geleitet; um dann nach 20m an einer Bettelampel die Straße zu überqueren und danach durch ein enges Drängelgitter zu fädeln.
+3-1	188-191	Als	_	
+3-2	192-201	Radfahrer	_	
+3-3	202-206	muss	_	
+3-4	207-210	man	_	
+3-5	211-214	von	*[7]	
+3-6	215-224	Longerich	*[7]	
+3-7	225-232	kommend	*[7]	
+3-8	233-236	den	_	
+3-9	237-246	baulichen	_	
+3-10	247-253	Radweg	_	
+3-11	254-260	fahren	_	
+3-12	261-264	und	_	
+3-13	265-269	wird	_	
+3-14	270-274	dann	_	
+3-15	275-281	rechts	*[8]	
+3-16	282-285	auf	*[8]	
+3-17	286-289	die	*[8]	
+3-18	290-302	Hugo-Eckener	*[8]	
+3-19	303-306	Str	*[8]	
+3-20	307-315	geleitet	_	
+3-21	315-316	;	_	
+3-22	317-319	um	_	
+3-23	320-324	dann	_	
+3-24	325-329	nach	_	
+3-25	330-333	20m	_	
+3-26	334-336	an	_	
+3-27	337-342	einer	_	
+3-28	343-354	Bettelampel	_	
+3-29	355-358	die	_	
+3-30	359-365	Straße	_	
+3-31	366-368	zu	_	
+3-32	369-379	überqueren	_	
+3-33	380-383	und	_	
+3-34	384-390	danach	_	
+3-35	391-396	durch	_	
+3-36	397-400	ein	_	
+3-37	401-406	enges	_	
+3-38	407-420	Drängelgitter	_	
+3-39	421-423	zu	_	
+3-40	424-430	fädeln	_	
+3-41	430-431	.	_	
+
+#Text=Da dieser bauliche Radweg nur auf der einen Seite existiert, fahren ihn viele Radler auch in der falschen Richtung; Ein Radfahrstreifen in Richtung Longerich würde hier Klarheit schaffen.
+4-1	432-434	Da	_	
+4-2	435-441	dieser	_	
+4-3	442-450	bauliche	_	
+4-4	451-457	Radweg	_	
+4-5	458-461	nur	_	
+4-6	462-465	auf	_	
+4-7	466-469	der	_	
+4-8	470-475	einen	_	
+4-9	476-481	Seite	_	
+4-10	482-491	existiert	_	
+4-11	491-492	,	_	
+4-12	493-499	fahren	_	
+4-13	500-503	ihn	_	
+4-14	504-509	viele	_	
+4-15	510-516	Radler	_	
+4-16	517-521	auch	_	
+4-17	522-524	in	_	
+4-18	525-528	der	_	
+4-19	529-537	falschen	_	
+4-20	538-546	Richtung	_	
+4-21	546-547	;	_	
+4-22	548-551	Ein	_	
+4-23	552-567	Radfahrstreifen	_	
+4-24	568-570	in	*[9]	
+4-25	571-579	Richtung	*[9]	
+4-26	580-589	Longerich	*[9]	
+4-27	590-595	würde	_	
+4-28	596-600	hier	_	
+4-29	601-609	Klarheit	_	
+4-30	610-618	schaffen	_	
+4-31	618-619	.	_	
+
+#Text=Evtl. wäre ein Kreisverkehr möglich?
+5-1	620-624	Evtl	_	
+5-2	624-625	.	_	
+5-3	626-630	wäre	_	
+5-4	631-634	ein	_	
+5-5	635-647	Kreisverkehr	_	
+5-6	648-655	möglich	_	
+5-7	655-656	?	_	

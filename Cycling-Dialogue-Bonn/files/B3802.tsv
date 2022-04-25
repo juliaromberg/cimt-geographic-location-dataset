@@ -1,0 +1,35 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radschutzstreifen
+1-1	0-17	Radschutzstreifen	_	
+
+#Text=Ein Schutzstreifen für Fahrradfahrer, die entgegen der Einbahnstraße fahren könnte gefährliche Situationen mit entgegenkommenden Autos entschärfen, die scheinbar nicht mit gegenverkehr rechnen.
+2-1	20-23	Ein	_	
+2-2	24-38	Schutzstreifen	_	
+2-3	39-42	für	_	
+2-4	43-56	Fahrradfahrer	_	
+2-5	56-57	,	_	
+2-6	58-61	die	_	
+2-7	62-70	entgegen	_	
+2-8	71-74	der	_	
+2-9	75-88	Einbahnstraße	_	
+2-10	89-95	fahren	_	
+2-11	96-102	könnte	_	
+2-12	103-114	gefährliche	_	
+2-13	115-126	Situationen	_	
+2-14	127-130	mit	_	
+2-15	131-148	entgegenkommenden	_	
+2-16	149-154	Autos	_	
+2-17	155-166	entschärfen	_	
+2-18	166-167	,	_	
+2-19	168-171	die	_	
+2-20	172-181	scheinbar	_	
+2-21	182-187	nicht	_	
+2-22	188-191	mit	_	
+2-23	192-204	gegenverkehr	_	
+2-24	205-212	rechnen	_	
+2-25	212-213	.	_	

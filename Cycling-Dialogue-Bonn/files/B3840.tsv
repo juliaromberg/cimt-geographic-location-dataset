@@ -1,0 +1,86 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Erweiterung Rad-Abstellplätze Oxfordstraße/Landgericht
+1-1	0-11	Erweiterung	_	
+1-2	12-29	Rad-Abstellplätze	_	
+1-3	30-42	Oxfordstraße	*[6]	
+1-4	42-43	/	*[6]	
+1-5	43-54	Landgericht	*[6]	
+
+#Text=Hier gibt es bereits Rad-Abstellplätze, die jedoch fast nie ausreichend sind.
+2-1	57-61	Hier	_	
+2-2	62-66	gibt	_	
+2-3	67-69	es	_	
+2-4	70-77	bereits	_	
+2-5	78-95	Rad-Abstellplätze	_	
+2-6	95-96	,	_	
+2-7	97-100	die	_	
+2-8	101-107	jedoch	_	
+2-9	108-112	fast	_	
+2-10	113-116	nie	_	
+2-11	117-128	ausreichend	_	
+2-12	129-133	sind	_	
+2-13	133-134	.	_	
+
+#Text=Das Google-Streetview-Bild zeigte bereits 2008 fast komplett belegte Abstellplätze.
+3-1	135-138	Das	_	
+3-2	139-161	Google-Streetview-Bild	_	
+3-3	162-168	zeigte	_	
+3-4	169-176	bereits	_	
+3-5	177-181	2008	_	
+3-6	182-186	fast	_	
+3-7	187-195	komplett	_	
+3-8	196-203	belegte	_	
+3-9	204-217	Abstellplätze	_	
+3-10	217-218	.	_	
+
+#Text=An beiden Seiten der ca. 4m x 6m Grünfläche wäre Platz für weitere Stellplätze, siehe https://goo.gl/rqiyCs
+4-1	219-221	An	_	
+4-2	222-228	beiden	_	
+4-3	229-235	Seiten	_	
+4-4	236-239	der	_	
+4-5	240-242	ca	_	
+4-6	242-243	.	_	
+4-7	244-246	4m	_	
+4-8	247-248	x	_	
+4-9	249-251	6m	_	
+4-10	252-262	Grünfläche	_	
+4-11	263-267	wäre	_	
+4-12	268-273	Platz	_	
+4-13	274-277	für	_	
+4-14	278-285	weitere	_	
+4-15	286-297	Stellplätze	_	
+4-16	297-298	,	_	
+4-17	299-304	siehe	_	
+4-18	305-310	https	_	
+4-19	310-311	:	_	
+4-20	311-312	/	_	
+4-21	312-313	/	_	
+4-22	313-319	goo.gl	_	
+4-23	319-320	/	_	
+4-24	320-326	rqiyCs	_	
+
+#Text=Die Abstellplätze werden sicherlich auch von Besuchern von Geschäften in der Umgebung (Fußgängerzone, Friedensplatz) genutzt.
+5-1	327-330	Die	_	
+5-2	331-344	Abstellplätze	_	
+5-3	345-351	werden	_	
+5-4	352-362	sicherlich	_	
+5-5	363-367	auch	_	
+5-6	368-371	von	_	
+5-7	372-381	Besuchern	_	
+5-8	382-385	von	_	
+5-9	386-396	Geschäften	_	
+5-10	397-399	in	_	
+5-11	400-403	der	_	
+5-12	404-412	Umgebung	_	
+5-13	413-414	(	_	
+5-14	414-427	Fußgängerzone	_	
+5-15	427-428	,	_	
+5-16	429-442	Friedensplatz	*	
+5-17	442-443	)	_	
+5-18	444-451	genutzt	_	
+5-19	451-452	.	_	

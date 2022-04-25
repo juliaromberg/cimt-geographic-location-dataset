@@ -1,0 +1,185 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Übergang Friedrich-Ebert Allee -Straßenbahnhaltestelle Ollenhauerstr. - Friedrich-Ebert-Allee - Ampelschaltung mit Straßenbahnüberquerung - Überquerung für Hunderte von Schülern
+1-1	0-8	Übergang	*[8]	
+1-2	9-24	Friedrich-Ebert	*[8]	
+1-3	25-30	Allee	*[8]	
+1-4	31-32	-	*[8]	
+1-5	32-54	Straßenbahnhaltestelle	*[8]	
+1-6	55-68	Ollenhauerstr	*[8]	
+1-7	68-69	.	*[8]	
+1-8	70-71	-	*[8]	
+1-9	72-93	Friedrich-Ebert-Allee	*[8]	
+1-10	94-95	-	_	
+1-11	96-110	Ampelschaltung	_	
+1-12	111-114	mit	_	
+1-13	115-137	Straßenbahnüberquerung	_	
+1-14	138-139	-	_	
+1-15	140-151	Überquerung	_	
+1-16	152-155	für	_	
+1-17	156-164	Hunderte	_	
+1-18	165-168	von	_	
+1-19	169-177	Schülern	_	
+
+#Text=Der Straßenbahnübergang von der Haltestelle Ollenhauerstraße in beide Richtungen zur Friedrich-Ebert-Allee ist aufgrund der zu geringen Plattfomgröße in der Mitte sowie aufgrund der dort bestehenden Höchstgeschwindkeit von 70 km/h überaus gefährlich.
+2-1	180-183	Der	*[9]	
+2-2	184-203	Straßenbahnübergang	*[9]	
+2-3	204-207	von	*[9]	
+2-4	208-211	der	*[9]	
+2-5	212-223	Haltestelle	*[9]	
+2-6	224-240	Ollenhauerstraße	*[9]	
+2-7	241-243	in	*[9]	
+2-8	244-249	beide	*[9]	
+2-9	250-260	Richtungen	*[9]	
+2-10	261-264	zur	*[9]	
+2-11	265-286	Friedrich-Ebert-Allee	*[9]	
+2-12	287-290	ist	_	
+2-13	291-299	aufgrund	_	
+2-14	300-303	der	_	
+2-15	304-306	zu	_	
+2-16	307-315	geringen	_	
+2-17	316-329	Plattfomgröße	_	
+2-18	330-332	in	_	
+2-19	333-336	der	_	
+2-20	337-342	Mitte	_	
+2-21	343-348	sowie	_	
+2-22	349-357	aufgrund	_	
+2-23	358-361	der	_	
+2-24	362-366	dort	_	
+2-25	367-378	bestehenden	_	
+2-26	379-398	Höchstgeschwindkeit	_	
+2-27	399-402	von	_	
+2-28	403-405	70	_	
+2-29	406-408	km	_	
+2-30	408-409	/	_	
+2-31	409-410	h	_	
+2-32	411-418	überaus	_	
+2-33	419-429	gefährlich	_	
+2-34	429-430	.	_	
+
+#Text=Ein nicht absichtliches Schubsen aufgrund der Enge kann zu Unfällen nicht nur in den Stoßzeiten führen.
+3-1	431-434	Ein	_	
+3-2	435-440	nicht	_	
+3-3	441-454	absichtliches	_	
+3-4	455-463	Schubsen	_	
+3-5	464-472	aufgrund	_	
+3-6	473-476	der	_	
+3-7	477-481	Enge	_	
+3-8	482-486	kann	_	
+3-9	487-489	zu	_	
+3-10	490-498	Unfällen	_	
+3-11	499-504	nicht	_	
+3-12	505-508	nur	_	
+3-13	509-511	in	_	
+3-14	512-515	den	_	
+3-15	516-526	Stoßzeiten	_	
+3-16	527-533	führen	_	
+3-17	533-534	.	_	
+
+#Text=Die Anzahl der täglich überquerenden Personen wie Mitarbeiter der Post, Postbank, Telekom, Schüler des größten städtischen Gymnasiums Bonn, Angestellten der anderen Dienstleistungsbetriebe wie Johanniterkrankenhaus, Ärztehaus, Kindergärten, UN und der Bewohner der Gronau ist in den Höchstzeiten unverantwortlich.
+4-1	535-538	Die	_	
+4-2	539-545	Anzahl	_	
+4-3	546-549	der	_	
+4-4	550-557	täglich	_	
+4-5	558-571	überquerenden	_	
+4-6	572-580	Personen	_	
+4-7	581-584	wie	_	
+4-8	585-596	Mitarbeiter	_	
+4-9	597-600	der	_	
+4-10	601-605	Post	_	
+4-11	605-606	,	_	
+4-12	607-615	Postbank	_	
+4-13	615-616	,	_	
+4-14	617-624	Telekom	_	
+4-15	624-625	,	_	
+4-16	626-633	Schüler	_	
+4-17	634-637	des	_	
+4-18	638-645	größten	_	
+4-19	646-657	städtischen	_	
+4-20	658-668	Gymnasiums	_	
+4-21	669-673	Bonn	_	
+4-22	673-674	,	_	
+4-23	675-687	Angestellten	_	
+4-24	688-691	der	_	
+4-25	692-699	anderen	_	
+4-26	700-723	Dienstleistungsbetriebe	_	
+4-27	724-727	wie	_	
+4-28	728-749	Johanniterkrankenhaus	_	
+4-29	749-750	,	_	
+4-30	751-760	Ärztehaus	_	
+4-31	760-761	,	_	
+4-32	762-774	Kindergärten	_	
+4-33	774-775	,	_	
+4-34	776-778	UN	_	
+4-35	779-782	und	_	
+4-36	783-786	der	_	
+4-37	787-795	Bewohner	_	
+4-38	796-799	der	_	
+4-39	800-806	Gronau	_	
+4-40	807-810	ist	_	
+4-41	811-813	in	_	
+4-42	814-817	den	_	
+4-43	818-830	Höchstzeiten	_	
+4-44	831-847	unverantwortlich	_	
+4-45	847-848	.	_	
+
+#Text=Bisher hatten wir nur wenige Personenschäden, allerdings liegt der letzte nur ein paar Monate zurück.
+5-1	849-855	Bisher	_	
+5-2	856-862	hatten	_	
+5-3	863-866	wir	_	
+5-4	867-870	nur	_	
+5-5	871-877	wenige	_	
+5-6	878-893	Personenschäden	_	
+5-7	893-894	,	_	
+5-8	895-905	allerdings	_	
+5-9	906-911	liegt	_	
+5-10	912-915	der	_	
+5-11	916-922	letzte	_	
+5-12	923-926	nur	_	
+5-13	927-930	ein	_	
+5-14	931-935	paar	_	
+5-15	936-942	Monate	_	
+5-16	943-949	zurück	_	
+5-17	949-950	.	_	
+
+#Text=Platformdimensionierung, Schaltung der Ampel mit Straßenbahn sowie Höchstgeschwindigkeiten in diesem Bereich von 70 km/h gefährden akut das Leben unserer Kinder!!!
+6-1	951-974	Platformdimensionierung	_	
+6-2	974-975	,	_	
+6-3	976-985	Schaltung	_	
+6-4	986-989	der	_	
+6-5	990-995	Ampel	_	
+6-6	996-999	mit	_	
+6-7	1000-1011	Straßenbahn	_	
+6-8	1012-1017	sowie	_	
+6-9	1018-1041	Höchstgeschwindigkeiten	_	
+6-10	1042-1044	in	_	
+6-11	1045-1051	diesem	_	
+6-12	1052-1059	Bereich	_	
+6-13	1060-1063	von	_	
+6-14	1064-1066	70	_	
+6-15	1067-1069	km	_	
+6-16	1069-1070	/	_	
+6-17	1070-1071	h	_	
+6-18	1072-1081	gefährden	_	
+6-19	1082-1086	akut	_	
+6-20	1087-1090	das	_	
+6-21	1091-1096	Leben	_	
+6-22	1097-1104	unserer	_	
+6-23	1105-1111	Kinder	_	
+6-24	1111-1112	!	_	
+6-25	1112-1113	!	_	
+6-26	1113-1114	!	_	
+
+#Text=Hier muss dringend Abhilfe geschaffen werden!!
+7-1	1115-1119	Hier	_	
+7-2	1120-1124	muss	_	
+7-3	1125-1133	dringend	_	
+7-4	1134-1141	Abhilfe	_	
+7-5	1142-1152	geschaffen	_	
+7-6	1153-1159	werden	_	
+7-7	1159-1160	!	_	
+7-8	1160-1161	!	_	

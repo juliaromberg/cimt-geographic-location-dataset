@@ -1,0 +1,149 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehrsführung am neuen Kreisel Alter Friedhof
+1-1	0-15	Verkehrsführung	_	
+1-2	16-18	am	*[7]	
+1-3	19-24	neuen	*[7]	
+1-4	25-32	Kreisel	*[7]	
+1-5	33-38	Alter	*[7]	
+1-6	39-47	Friedhof	*[7]	
+
+#Text=Die Radwegführung an dem neuen Kreisel ist für Radfahrer sehr unvorteilhaft.
+2-1	50-53	Die	_	
+2-2	54-67	Radwegführung	_	
+2-3	68-70	an	_	
+2-4	71-74	dem	_	
+2-5	75-80	neuen	_	
+2-6	81-88	Kreisel	_	
+2-7	89-92	ist	_	
+2-8	93-96	für	_	
+2-9	97-106	Radfahrer	_	
+2-10	107-111	sehr	_	
+2-11	112-125	unvorteilhaft	_	
+2-12	125-126	.	_	
+
+#Text=Beispiel: ich komme vom Hauptbahnhof und möchte über den Kreisel hinaus geradeaus weiterfahren.
+3-1	127-135	Beispiel	_	
+3-2	135-136	:	_	
+3-3	137-140	ich	_	
+3-4	141-146	komme	_	
+3-5	147-150	vom	*[8]	
+3-6	151-163	Hauptbahnhof	*[8]	
+3-7	164-167	und	_	
+3-8	168-174	möchte	_	
+3-9	175-179	über	_	
+3-10	180-183	den	_	
+3-11	184-191	Kreisel	_	
+3-12	192-198	hinaus	_	
+3-13	199-208	geradeaus	_	
+3-14	209-221	weiterfahren	_	
+3-15	221-222	.	_	
+
+#Text=Dazu muss ich - um im Kreisel zu fahren - den Rechtsabbieger für die Autos vor dem Kreisel queren, der zu Stosszeiten stark befahren ist oder auf den Seitenweg ausweichen.
+4-1	223-227	Dazu	_	
+4-2	228-232	muss	_	
+4-3	233-236	ich	_	
+4-4	237-238	-	_	
+4-5	239-241	um	_	
+4-6	242-244	im	_	
+4-7	245-252	Kreisel	_	
+4-8	253-255	zu	_	
+4-9	256-262	fahren	_	
+4-10	263-264	-	_	
+4-11	265-268	den	_	
+4-12	269-283	Rechtsabbieger	_	
+4-13	284-287	für	_	
+4-14	288-291	die	_	
+4-15	292-297	Autos	_	
+4-16	298-301	vor	_	
+4-17	302-305	dem	_	
+4-18	306-313	Kreisel	_	
+4-19	314-320	queren	_	
+4-20	320-321	,	_	
+4-21	322-325	der	_	
+4-22	326-328	zu	_	
+4-23	329-340	Stosszeiten	_	
+4-24	341-346	stark	_	
+4-25	347-355	befahren	_	
+4-26	356-359	ist	_	
+4-27	360-364	oder	_	
+4-28	365-368	auf	_	
+4-29	369-372	den	_	
+4-30	373-382	Seitenweg	_	
+4-31	383-393	ausweichen	_	
+4-32	393-394	.	_	
+
+#Text=Bei der Ausfahrt durch den Kreisel biegen dann die Autos, die vom Bertha-von-Suttnerplatz kommen, vor mir nach rechts auf die Strasse, während ich, um auf den dann neben der Strasse vorhandenen Radweg zu kommen, den Rechtsabbieger queren muss.
+5-1	395-398	Bei	_	
+5-2	399-402	der	_	
+5-3	403-411	Ausfahrt	_	
+5-4	412-417	durch	_	
+5-5	418-421	den	_	
+5-6	422-429	Kreisel	_	
+5-7	430-436	biegen	_	
+5-8	437-441	dann	_	
+5-9	442-445	die	_	
+5-10	446-451	Autos	_	
+5-11	451-452	,	_	
+5-12	453-456	die	_	
+5-13	457-460	vom	*[9]	
+5-14	461-484	Bertha-von-Suttnerplatz	*[9]	
+5-15	485-491	kommen	_	
+5-16	491-492	,	_	
+5-17	493-496	vor	_	
+5-18	497-500	mir	_	
+5-19	501-505	nach	_	
+5-20	506-512	rechts	_	
+5-21	513-516	auf	_	
+5-22	517-520	die	_	
+5-23	521-528	Strasse	_	
+5-24	528-529	,	_	
+5-25	530-537	während	_	
+5-26	538-541	ich	_	
+5-27	541-542	,	_	
+5-28	543-545	um	_	
+5-29	546-549	auf	_	
+5-30	550-553	den	_	
+5-31	554-558	dann	_	
+5-32	559-564	neben	_	
+5-33	565-568	der	_	
+5-34	569-576	Strasse	_	
+5-35	577-588	vorhandenen	_	
+5-36	589-595	Radweg	_	
+5-37	596-598	zu	_	
+5-38	599-605	kommen	_	
+5-39	605-606	,	_	
+5-40	607-610	den	_	
+5-41	611-625	Rechtsabbieger	_	
+5-42	626-632	queren	_	
+5-43	633-637	muss	_	
+5-44	637-638	.	_	
+
+#Text=Gibt es hier keine Lösung, bei der die Radfahrer auch einfach auf einem durchgehenden Radweg um den Kreisel herum fahren können?
+6-1	639-643	Gibt	_	
+6-2	644-646	es	_	
+6-3	647-651	hier	_	
+6-4	652-657	keine	_	
+6-5	658-664	Lösung	_	
+6-6	664-665	,	_	
+6-7	666-669	bei	_	
+6-8	670-673	der	_	
+6-9	674-677	die	_	
+6-10	678-687	Radfahrer	_	
+6-11	688-692	auch	_	
+6-12	693-700	einfach	_	
+6-13	701-704	auf	_	
+6-14	705-710	einem	_	
+6-15	711-724	durchgehenden	_	
+6-16	725-731	Radweg	_	
+6-17	732-734	um	_	
+6-18	735-738	den	_	
+6-19	739-746	Kreisel	_	
+6-20	747-752	herum	_	
+6-21	753-759	fahren	_	
+6-22	760-766	können	_	
+6-23	766-767	?	_	

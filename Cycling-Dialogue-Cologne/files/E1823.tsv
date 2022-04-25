@@ -1,0 +1,15 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße Körnerstraße
+1-1	0-13	Fahrradstraße	_	
+1-2	14-26	Körnerstraße	*	
+
+#Text=BV 4 Beschluß 15.07.2013
+2-1	29-31	BV	_	
+2-2	32-33	4	_	
+2-3	34-42	Beschluß	_	
+2-4	43-53	15.07.2013	_	

@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=untaugliche Unterführung
+1-1	0-11	untaugliche	_	
+1-2	12-24	Unterführung	_	
+
+#Text=Die Bahnunterführung ist gefährlich und mit Anhänger fast unpassierbar (zu eng, rechtwinklige Kurve, sehr holprige Pflasterung)
+2-1	27-30	Die	_	
+2-2	31-47	Bahnunterführung	_	
+2-3	48-51	ist	_	
+2-4	52-62	gefährlich	_	
+2-5	63-66	und	_	
+2-6	67-70	mit	_	
+2-7	71-79	Anhänger	_	
+2-8	80-84	fast	_	
+2-9	85-97	unpassierbar	_	
+2-10	98-99	(	_	
+2-11	99-101	zu	_	
+2-12	102-105	eng	_	
+2-13	105-106	,	_	
+2-14	107-120	rechtwinklige	_	
+2-15	121-126	Kurve	_	
+2-16	126-127	,	_	
+2-17	128-132	sehr	_	
+2-18	133-141	holprige	_	
+2-19	142-153	Pflasterung	_	
+2-20	153-154	)	_	

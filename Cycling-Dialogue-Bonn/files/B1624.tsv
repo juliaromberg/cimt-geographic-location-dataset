@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Katastrophe mit Kindern
+1-1	0-11	Katastrophe	_	
+1-2	12-15	mit	_	
+1-3	16-23	Kindern	_	
+
+#Text=Als Schulweg oder Strecke zum Kondergarten echt unübersichtlich und gefährlich für Kinder, die (noch) nicht auf der Straße fahren: die Radstrecke verlässt den Gehweg, kleine Radler müssen umständlich über den Sonnenpütz und hinten um die Buswendestelle herumfahren und auf querenden Verkehr sowie parkende Autos achten.
+2-1	26-29	Als	_	
+2-2	30-38	Schulweg	_	
+2-3	39-43	oder	_	
+2-4	44-51	Strecke	_	
+2-5	52-55	zum	_	
+2-6	56-68	Kondergarten	_	
+2-7	69-73	echt	_	
+2-8	74-89	unübersichtlich	_	
+2-9	90-93	und	_	
+2-10	94-104	gefährlich	_	
+2-11	105-108	für	_	
+2-12	109-115	Kinder	_	
+2-13	115-116	,	_	
+2-14	117-120	die	_	
+2-15	121-122	(	_	
+2-16	122-126	noch	_	
+2-17	126-127	)	_	
+2-18	128-133	nicht	_	
+2-19	134-137	auf	_	
+2-20	138-141	der	_	
+2-21	142-148	Straße	_	
+2-22	149-155	fahren	_	
+2-23	155-156	:	_	
+2-24	157-160	die	_	
+2-25	161-171	Radstrecke	_	
+2-26	172-180	verlässt	_	
+2-27	181-184	den	_	
+2-28	185-191	Gehweg	_	
+2-29	191-192	,	_	
+2-30	193-199	kleine	_	
+2-31	200-206	Radler	_	
+2-32	207-213	müssen	_	
+2-33	214-225	umständlich	_	
+2-34	226-230	über	*[4]	
+2-35	231-234	den	*[4]	
+2-36	235-245	Sonnenpütz	*[4]	
+2-37	246-249	und	_	
+2-38	250-256	hinten	_	
+2-39	257-259	um	_	
+2-40	260-263	die	_	
+2-41	264-278	Buswendestelle	_	
+2-42	279-290	herumfahren	_	
+2-43	291-294	und	_	
+2-44	295-298	auf	_	
+2-45	299-308	querenden	_	
+2-46	309-316	Verkehr	_	
+2-47	317-322	sowie	_	
+2-48	323-331	parkende	_	
+2-49	332-337	Autos	_	
+2-50	338-344	achten	_	
+2-51	344-345	.	_	
+
+#Text=Hingegen wird der auf der Straße geführte Radstreifen häufig von parkenden Lieferfahrzeugen oder Handwerkern genutzt, so dass Radfahrer den Schienen sehr nahe kommen.
+3-1	346-354	Hingegen	_	
+3-2	355-359	wird	_	
+3-3	360-363	der	_	
+3-4	364-367	auf	_	
+3-5	368-371	der	_	
+3-6	372-378	Straße	_	
+3-7	379-387	geführte	_	
+3-8	388-399	Radstreifen	_	
+3-9	400-406	häufig	_	
+3-10	407-410	von	_	
+3-11	411-420	parkenden	_	
+3-12	421-437	Lieferfahrzeugen	_	
+3-13	438-442	oder	_	
+3-14	443-454	Handwerkern	_	
+3-15	455-462	genutzt	_	
+3-16	462-463	,	_	
+3-17	464-466	so	_	
+3-18	467-471	dass	_	
+3-19	472-481	Radfahrer	_	
+3-20	482-485	den	_	
+3-21	486-494	Schienen	_	
+3-22	495-499	sehr	_	
+3-23	500-504	nahe	_	
+3-24	505-511	kommen	_	
+3-25	511-512	.	_	

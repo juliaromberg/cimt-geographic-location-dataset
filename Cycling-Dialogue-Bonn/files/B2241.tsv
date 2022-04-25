@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Nicht als Radweg nutzbar
+1-1	0-5	Nicht	_	
+1-2	6-9	als	_	
+1-3	10-16	Radweg	_	
+1-4	17-24	nutzbar	_	
+
+#Text=Insbesondere morgens strömen mit jeder ankommenden Bahn zahlreiche Werktätige und Schüler über diesen Fußgänger- und Radweg.
+2-1	27-39	Insbesondere	_	
+2-2	40-47	morgens	_	
+2-3	48-55	strömen	_	
+2-4	56-59	mit	_	
+2-5	60-65	jeder	_	
+2-6	66-77	ankommenden	_	
+2-7	78-82	Bahn	_	
+2-8	83-93	zahlreiche	_	
+2-9	94-104	Werktätige	_	
+2-10	105-108	und	_	
+2-11	109-116	Schüler	_	
+2-12	117-121	über	_	
+2-13	122-128	diesen	_	
+2-14	129-138	Fußgänger	_	
+2-15	138-139	-	_	
+2-16	140-143	und	_	
+2-17	144-150	Radweg	_	
+2-18	150-151	.	_	
+
+#Text=Die Radfahrerspur wird automatisch als Erweiterung des Fußgängerweges betrachtet.
+3-1	152-155	Die	_	
+3-2	156-169	Radfahrerspur	_	
+3-3	170-174	wird	_	
+3-4	175-186	automatisch	_	
+3-5	187-190	als	_	
+3-6	191-202	Erweiterung	_	
+3-7	203-206	des	_	
+3-8	207-221	Fußgängerweges	_	
+3-9	222-232	betrachtet	_	
+3-10	232-233	.	_	
+
+#Text=Auch an der Ampel ist für Fahrräder kein Durchkommen.
+4-1	234-238	Auch	_	
+4-2	239-241	an	_	
+4-3	242-245	der	_	
+4-4	246-251	Ampel	_	
+4-5	252-255	ist	_	
+4-6	256-259	für	_	
+4-7	260-269	Fahrräder	_	
+4-8	270-274	kein	_	
+4-9	275-286	Durchkommen	_	
+4-10	286-287	.	_	

@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rutschpartie auf Kopfsteinpflaster
+1-1	0-12	Rutschpartie	_	
+1-2	13-16	auf	_	
+1-3	17-34	Kopfsteinpflaster	_	
+
+#Text=Das Kopfsteinpflaster um das kleine Rondel ist bei Nässe eine Rutschpartie, es ist sehr glatt und aufgrund des Rondels muss dort jeder Radfahrer eine Kurve fahren.
+2-1	37-40	Das	_	
+2-2	41-58	Kopfsteinpflaster	_	
+2-3	59-61	um	_	
+2-4	62-65	das	_	
+2-5	66-72	kleine	_	
+2-6	73-79	Rondel	_	
+2-7	80-83	ist	_	
+2-8	84-87	bei	_	
+2-9	88-93	Nässe	_	
+2-10	94-98	eine	_	
+2-11	99-111	Rutschpartie	_	
+2-12	111-112	,	_	
+2-13	113-115	es	_	
+2-14	116-119	ist	_	
+2-15	120-124	sehr	_	
+2-16	125-130	glatt	_	
+2-17	131-134	und	_	
+2-18	135-143	aufgrund	_	
+2-19	144-147	des	_	
+2-20	148-155	Rondels	_	
+2-21	156-160	muss	_	
+2-22	161-165	dort	_	
+2-23	166-171	jeder	_	
+2-24	172-181	Radfahrer	_	
+2-25	182-186	eine	_	
+2-26	187-192	Kurve	_	
+2-27	193-199	fahren	_	
+2-28	199-200	.	_	
+
+#Text=Schlechte Kombination.
+3-1	201-210	Schlechte	_	
+3-2	211-222	Kombination	_	
+3-3	222-223	.	_	

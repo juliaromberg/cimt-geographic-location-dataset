@@ -1,0 +1,60 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Laubbeseitigung bzw. Streu- und Räumdienst im Herbst/Winter
+1-1	0-15	Laubbeseitigung	_	
+1-2	16-19	bzw	_	
+1-3	19-20	.	_	
+1-4	21-26	Streu	_	
+1-5	26-27	-	_	
+1-6	28-31	und	_	
+1-7	32-42	Räumdienst	_	
+1-8	43-45	im	_	
+1-9	46-52	Herbst	_	
+1-10	52-53	/	_	
+1-11	53-59	Winter	_	
+
+#Text=Insesondere vor dem Norfriedhof liegt im Herbst ständig massenweise abgefallenes Laub auf dem Radweg, welches bei Feuchtigkeit extrem glatt wird.
+2-1	62-73	Insesondere	_	
+2-2	74-77	vor	*[4]	
+2-3	78-81	dem	*[4]	
+2-4	82-93	Norfriedhof	*[4]	
+2-5	94-99	liegt	_	
+2-6	100-102	im	_	
+2-7	103-109	Herbst	_	
+2-8	110-117	ständig	_	
+2-9	118-129	massenweise	_	
+2-10	130-142	abgefallenes	_	
+2-11	143-147	Laub	_	
+2-12	148-151	auf	_	
+2-13	152-155	dem	_	
+2-14	156-162	Radweg	_	
+2-15	162-163	,	_	
+2-16	164-171	welches	_	
+2-17	172-175	bei	_	
+2-18	176-188	Feuchtigkeit	_	
+2-19	189-195	extrem	_	
+2-20	196-201	glatt	_	
+2-21	202-206	wird	_	
+2-22	206-207	.	_	
+
+#Text=Des Weiteren ist es um das Schneeräumen insbesondere vor dem Nordfriedhof nicht zum Besten bestellt.
+3-1	208-211	Des	_	
+3-2	212-220	Weiteren	_	
+3-3	221-224	ist	_	
+3-4	225-227	es	_	
+3-5	228-230	um	_	
+3-6	231-234	das	_	
+3-7	235-247	Schneeräumen	_	
+3-8	248-260	insbesondere	_	
+3-9	261-264	vor	*[5]	
+3-10	265-268	dem	*[5]	
+3-11	269-281	Nordfriedhof	*[5]	
+3-12	282-287	nicht	_	
+3-13	288-291	zum	_	
+3-14	292-298	Besten	_	
+3-15	299-307	bestellt	_	
+3-16	307-308	.	_	

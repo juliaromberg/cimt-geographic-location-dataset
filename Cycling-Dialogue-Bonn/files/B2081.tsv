@@ -1,0 +1,86 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg Richtung Straße verbreitern
+1-1	0-6	Radweg	_	
+1-2	7-15	Richtung	_	
+1-3	16-22	Straße	_	
+1-4	23-34	verbreitern	_	
+
+#Text=Der Radweg ist für das Radverkehrsaufkommen viel zu schmal und wird zudem auch von Fußgängern benutzt.
+2-1	37-40	Der	_	
+2-2	41-47	Radweg	_	
+2-3	48-51	ist	_	
+2-4	52-55	für	_	
+2-5	56-59	das	_	
+2-6	60-80	Radverkehrsaufkommen	_	
+2-7	81-85	viel	_	
+2-8	86-88	zu	_	
+2-9	89-95	schmal	_	
+2-10	96-99	und	_	
+2-11	100-104	wird	_	
+2-12	105-110	zudem	_	
+2-13	111-115	auch	_	
+2-14	116-119	von	_	
+2-15	120-130	Fußgängern	_	
+2-16	131-138	benutzt	_	
+2-17	138-139	.	_	
+
+#Text=Hier fahren nur sehr wenige Autos, die aber viel Platz haben, und sehr viele Radfahrer.
+3-1	140-144	Hier	_	
+3-2	145-151	fahren	_	
+3-3	152-155	nur	_	
+3-4	156-160	sehr	_	
+3-5	161-167	wenige	_	
+3-6	168-173	Autos	_	
+3-7	173-174	,	_	
+3-8	175-178	die	_	
+3-9	179-183	aber	_	
+3-10	184-188	viel	_	
+3-11	189-194	Platz	_	
+3-12	195-200	haben	_	
+3-13	200-201	,	_	
+3-14	202-205	und	_	
+3-15	206-210	sehr	_	
+3-16	211-216	viele	_	
+3-17	217-226	Radfahrer	_	
+3-18	226-227	.	_	
+
+#Text=Der Radweg sollte vom Bahnübergang Weberstraße bis zum Kaiserplatz erheblich verbreitert werden.
+4-1	228-231	Der	_	
+4-2	232-238	Radweg	_	
+4-3	239-245	sollte	_	
+4-4	246-249	vom	*[6]	
+4-5	250-262	Bahnübergang	*[6]	
+4-6	263-274	Weberstraße	*[6]	
+4-7	275-278	bis	*[6]	
+4-8	279-282	zum	*[6]	
+4-9	283-294	Kaiserplatz	*[6]	
+4-10	295-304	erheblich	_	
+4-11	305-316	verbreitert	_	
+4-12	317-323	werden	_	
+4-13	323-324	.	_	
+
+#Text=Auch die weitere Straßenführung für Fahrräder Richtung Busbahnhof oder Kaiserplatz sollte für alle Verkehrsbeteiligten besser sichtbar gemacht werden.
+5-1	325-329	Auch	_	
+5-2	330-333	die	_	
+5-3	334-341	weitere	_	
+5-4	342-356	Straßenführung	_	
+5-5	357-360	für	_	
+5-6	361-370	Fahrräder	_	
+5-7	371-379	Richtung	*[7]	
+5-8	380-390	Busbahnhof	*[7]	
+5-9	391-395	oder	*[7]	
+5-10	396-407	Kaiserplatz	*[7]	
+5-11	408-414	sollte	_	
+5-12	415-418	für	_	
+5-13	419-423	alle	_	
+5-14	424-443	Verkehrsbeteiligten	_	
+5-15	444-450	besser	_	
+5-16	451-459	sichtbar	_	
+5-17	460-467	gemacht	_	
+5-18	468-474	werden	_	
+5-19	474-475	.	_	

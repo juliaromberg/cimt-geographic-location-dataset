@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verbesserte Radwegführung
+1-1	0-11	Verbesserte	_	
+1-2	12-25	Radwegführung	_	
+
+#Text=Die Widdersdorfer Straße ist eigentlich eine gute Möglichkeit um die westlichen Stadteile zu erreichen.
+2-1	28-31	Die	*[6]	
+2-2	32-45	Widdersdorfer	*[6]	
+2-3	46-52	Straße	*[6]	
+2-4	53-56	ist	_	
+2-5	57-67	eigentlich	_	
+2-6	68-72	eine	_	
+2-7	73-77	gute	_	
+2-8	78-89	Möglichkeit	_	
+2-9	90-92	um	_	
+2-10	93-96	die	_	
+2-11	97-107	westlichen	_	
+2-12	108-117	Stadteile	_	
+2-13	118-120	zu	_	
+2-14	121-130	erreichen	_	
+2-15	130-131	.	_	
+
+#Text=Über die Tritop-Brücke könnte man wunderbar auch in die Bereiche jenseits des Militärrings gelangen.
+3-1	132-136	Über	*[7]	
+3-2	137-140	die	*[7]	
+3-3	141-154	Tritop-Brücke	*[7]	
+3-4	155-161	könnte	_	
+3-5	162-165	man	_	
+3-6	166-175	wunderbar	_	
+3-7	176-180	auch	_	
+3-8	181-183	in	_	
+3-9	184-187	die	_	
+3-10	188-196	Bereiche	_	
+3-11	197-205	jenseits	_	
+3-12	206-209	des	_	
+3-13	210-222	Militärrings	*	
+3-14	223-231	gelangen	_	
+3-15	231-232	.	_	
+
+#Text=Jedoch ist die Radwegführung auf dem Bürgersteig hochgradig unsicher und der Radweg in schlechtem Zustand.
+4-1	233-239	Jedoch	_	
+4-2	240-243	ist	_	
+4-3	244-247	die	_	
+4-4	248-261	Radwegführung	_	
+4-5	262-265	auf	_	
+4-6	266-269	dem	_	
+4-7	270-281	Bürgersteig	_	
+4-8	282-292	hochgradig	_	
+4-9	293-301	unsicher	_	
+4-10	302-305	und	_	
+4-11	306-309	der	_	
+4-12	310-316	Radweg	_	
+4-13	317-319	in	_	
+4-14	320-330	schlechtem	_	
+4-15	331-338	Zustand	_	
+4-16	338-339	.	_	
+
+#Text=Die Verlegung des Radwegs auf die Straße und die Führung desselben bis an die Einmündung der Vitalisstraße kurz vor dem Militärring, wäre ein echter Fortschritt.
+5-1	340-343	Die	_	
+5-2	344-353	Verlegung	_	
+5-3	354-357	des	_	
+5-4	358-365	Radwegs	_	
+5-5	366-369	auf	_	
+5-6	370-373	die	_	
+5-7	374-380	Straße	_	
+5-8	381-384	und	_	
+5-9	385-388	die	_	
+5-10	389-396	Führung	_	
+5-11	397-406	desselben	_	
+5-12	407-410	bis	*[8]	
+5-13	411-413	an	*[8]	
+5-14	414-417	die	*[8]	
+5-15	418-428	Einmündung	*[8]	
+5-16	429-432	der	*[8]	
+5-17	433-446	Vitalisstraße	*[8]	
+5-18	447-451	kurz	*[8]	
+5-19	452-455	vor	*[8]	
+5-20	456-459	dem	*[8]	
+5-21	460-471	Militärring	*[8]	
+5-22	471-472	,	_	
+5-23	473-477	wäre	_	
+5-24	478-481	ein	_	
+5-25	482-488	echter	_	
+5-26	489-500	Fortschritt	_	
+5-27	500-501	.	_	

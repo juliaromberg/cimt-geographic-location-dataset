@@ -1,0 +1,96 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Herkulesstrasse in beide Richtungen für Radfahrer öffnen
+1-1	0-15	Herkulesstrasse	*	
+1-2	16-18	in	_	
+1-3	19-24	beide	_	
+1-4	25-35	Richtungen	_	
+1-5	36-39	für	_	
+1-6	40-49	Radfahrer	_	
+1-7	50-56	öffnen	_	
+
+#Text=Die Herkulesstrasse sollte auch von Süd nach Nord für Radfahrer befahrbahr sein.
+2-1	59-62	Die	*[7]	
+2-2	63-78	Herkulesstrasse	*[7]	
+2-3	79-85	sollte	_	
+2-4	86-90	auch	_	
+2-5	91-94	von	_	
+2-6	95-98	Süd	_	
+2-7	99-103	nach	_	
+2-8	104-108	Nord	_	
+2-9	109-112	für	_	
+2-10	113-122	Radfahrer	_	
+2-11	123-133	befahrbahr	_	
+2-12	134-138	sein	_	
+2-13	138-139	.	_	
+
+#Text=Aktuell ist kein Platz für Radler wenn ein Auto entgegenkommt.
+3-1	140-147	Aktuell	_	
+3-2	148-151	ist	_	
+3-3	152-156	kein	_	
+3-4	157-162	Platz	_	
+3-5	163-166	für	_	
+3-6	167-173	Radler	_	
+3-7	174-178	wenn	_	
+3-8	179-182	ein	_	
+3-9	183-187	Auto	_	
+3-10	188-201	entgegenkommt	_	
+3-11	201-202	.	_	
+
+#Text=Die vorhandene Lösung, die Radler ab der Unterführung über die viel zu enge Rampe in den Park zu leiten ist mangelhaft.
+4-1	203-206	Die	_	
+4-2	207-217	vorhandene	_	
+4-3	218-224	Lösung	_	
+4-4	224-225	,	_	
+4-5	226-229	die	_	
+4-6	230-236	Radler	_	
+4-7	237-239	ab	_	
+4-8	240-243	der	_	
+4-9	244-256	Unterführung	_	
+4-10	257-261	über	_	
+4-11	262-265	die	_	
+4-12	266-270	viel	_	
+4-13	271-273	zu	_	
+4-14	274-278	enge	_	
+4-15	279-284	Rampe	_	
+4-16	285-287	in	_	
+4-17	288-291	den	_	
+4-18	292-296	Park	_	
+4-19	297-299	zu	_	
+4-20	300-306	leiten	_	
+4-21	307-310	ist	_	
+4-22	311-321	mangelhaft	_	
+4-23	321-322	.	_	
+
+#Text=Es fehlt auch eine fahrbare Fahrradrampe in dem Park ca. auf Höhe Parkmitte bei den 4 Treppenstufen.
+5-1	323-325	Es	_	
+5-2	326-331	fehlt	_	
+5-3	332-336	auch	_	
+5-4	337-341	eine	_	
+5-5	342-350	fahrbare	_	
+5-6	351-363	Fahrradrampe	_	
+5-7	364-366	in	_	
+5-8	367-370	dem	_	
+5-9	371-375	Park	_	
+5-10	376-378	ca	_	
+5-11	378-379	.	_	
+5-12	380-383	auf	_	
+5-13	384-388	Höhe	_	
+5-14	389-398	Parkmitte	_	
+5-15	399-402	bei	_	
+5-16	403-406	den	_	
+5-17	407-408	4	_	
+5-18	409-422	Treppenstufen	_	
+5-19	422-423	.	_	
+
+#Text=Die vorhandene Rampe ist mangelhaft.
+6-1	424-427	Die	_	
+6-2	428-438	vorhandene	_	
+6-3	439-444	Rampe	_	
+6-4	445-448	ist	_	
+6-5	449-459	mangelhaft	_	
+6-6	459-460	.	_	

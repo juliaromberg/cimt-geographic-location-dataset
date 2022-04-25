@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Möglichkeit zum sicheren Abbiegen
+1-1	0-11	Möglichkeit	_	
+1-2	12-15	zum	_	
+1-3	16-24	sicheren	_	
+1-4	25-33	Abbiegen	_	
+
+#Text=Die Freidrich-Breuer-Straße ist zwischen Hermannstraße und Konrad-Adenauer-Platz Einbahnstraße, Fahrräder dürfen jedoch auch in Gegenrichtung fahren.
+2-1	36-39	Die	*[6]	
+2-2	40-63	Freidrich-Breuer-Straße	*[6]	
+2-3	64-67	ist	_	
+2-4	68-76	zwischen	*[7]	
+2-5	77-90	Hermannstraße	*[7]	
+2-6	91-94	und	*[7]	
+2-7	95-116	Konrad-Adenauer-Platz	*[7]	
+2-8	117-130	Einbahnstraße	_	
+2-9	130-131	,	_	
+2-10	132-141	Fahrräder	_	
+2-11	142-148	dürfen	_	
+2-12	149-155	jedoch	_	
+2-13	156-160	auch	_	
+2-14	161-163	in	_	
+2-15	164-177	Gegenrichtung	_	
+2-16	178-184	fahren	_	
+2-17	184-185	.	_	
+
+#Text=Das ist schon mal sehr gut.
+3-1	186-189	Das	_	
+3-2	190-193	ist	_	
+3-3	194-199	schon	_	
+3-4	200-203	mal	_	
+3-5	204-208	sehr	_	
+3-6	209-212	gut	_	
+3-7	212-213	.	_	
+
+#Text=Wenn man allerdings auf der Friedrich-Breuer-Straße aus östlicher Richtung auf den Konrad-Adenauer-Platz zufährt, gibt es keine legale Möglichkeit, in diesen Einbahnstraßenabschnitt abzubiegen.
+4-1	214-218	Wenn	_	
+4-2	219-222	man	_	
+4-3	223-233	allerdings	_	
+4-4	234-237	auf	*[8]	
+4-5	238-241	der	*[8]	
+4-6	242-265	Friedrich-Breuer-Straße	*[8]	
+4-7	266-269	aus	*[8]	
+4-8	270-279	östlicher	*[8]	
+4-9	280-288	Richtung	*[8]	
+4-10	289-292	auf	*[8]	
+4-11	293-296	den	*[8]	
+4-12	297-318	Konrad-Adenauer-Platz	*[8]	
+4-13	319-326	zufährt	_	
+4-14	326-327	,	_	
+4-15	328-332	gibt	_	
+4-16	333-335	es	_	
+4-17	336-341	keine	_	
+4-18	342-348	legale	_	
+4-19	349-360	Möglichkeit	_	
+4-20	360-361	,	_	
+4-21	362-364	in	_	
+4-22	365-371	diesen	_	
+4-23	372-395	Einbahnstraßenabschnitt	_	
+4-24	396-406	abzubiegen	_	
+4-25	406-407	.	_	
+
+#Text=Diese Möglichkeit sollte für Fahrräder geschaffen werden.
+5-1	408-413	Diese	_	
+5-2	414-425	Möglichkeit	_	
+5-3	426-432	sollte	_	
+5-4	433-436	für	_	
+5-5	437-446	Fahrräder	_	
+5-6	447-457	geschaffen	_	
+5-7	458-464	werden	_	
+5-8	464-465	.	_	

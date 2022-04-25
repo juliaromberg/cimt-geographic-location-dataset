@@ -1,0 +1,88 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Freie Sicht bei Brückenauffahrt am Landgrabenweg schaffen
+1-1	0-5	Freie	_	
+1-2	6-11	Sicht	_	
+1-3	12-15	bei	_	
+1-4	16-31	Brückenauffahrt	*[6]	
+1-5	32-34	am	*[6]	
+1-6	35-48	Landgrabenweg	*[6]	
+1-7	49-57	schaffen	_	
+
+#Text=Wenn man auf dem Landgrabenweg hat man nach der Unterquerung der A562 aufgrund des Bewuchses keine Sicht auf die Auffahrt zur Brücke bzw. zur Rheinaue.
+2-1	60-64	Wenn	_	
+2-2	65-68	man	_	
+2-3	69-72	auf	*[7]	
+2-4	73-76	dem	*[7]	
+2-5	77-90	Landgrabenweg	*[7]	
+2-6	91-94	hat	_	
+2-7	95-98	man	_	
+2-8	99-103	nach	*[8]	
+2-9	104-107	der	*[8]	
+2-10	108-120	Unterquerung	*[8]	
+2-11	121-124	der	*[8]	
+2-12	125-129	A562	*[8]	
+2-13	130-138	aufgrund	_	
+2-14	139-142	des	_	
+2-15	143-152	Bewuchses	_	
+2-16	153-158	keine	_	
+2-17	159-164	Sicht	_	
+2-18	165-168	auf	_	
+2-19	169-172	die	_	
+2-20	173-181	Auffahrt	*[9]	
+2-21	182-185	zur	*[9]	
+2-22	186-192	Brücke	*[9]	
+2-23	193-196	bzw	*[9]	
+2-24	196-197	.	*[9]	
+2-25	198-201	zur	*[9]	
+2-26	202-210	Rheinaue	*[9]	
+2-27	210-211	.	_	
+
+#Text=Insbesondere wenn Radfahrer auf den Landgrabenweg nach links abbiegen wollen, kann es zu gefährlichen Situationen kommen.
+3-1	212-224	Insbesondere	_	
+3-2	225-229	wenn	_	
+3-3	230-239	Radfahrer	_	
+3-4	240-243	auf	*[10]	
+3-5	244-247	den	*[10]	
+3-6	248-261	Landgrabenweg	*[10]	
+3-7	262-266	nach	*[10]	
+3-8	267-272	links	*[10]	
+3-9	273-281	abbiegen	*[10]	
+3-10	282-288	wollen	_	
+3-11	288-289	,	_	
+3-12	290-294	kann	_	
+3-13	295-297	es	_	
+3-14	298-300	zu	_	
+3-15	301-313	gefährlichen	_	
+3-16	314-325	Situationen	_	
+3-17	326-332	kommen	_	
+3-18	332-333	.	_	
+
+#Text=Ich hatte hier schon mehrfach Beinahe-Kollisionen.
+4-1	334-337	Ich	_	
+4-2	338-343	hatte	_	
+4-3	344-348	hier	_	
+4-4	349-354	schon	_	
+4-5	355-363	mehrfach	_	
+4-6	364-383	Beinahe-Kollisionen	_	
+4-7	383-384	.	_	
+
+#Text=Der Bewuchs sollte zurückgeschnitten werden, damit an der Ecke freie Sicht besteht.
+5-1	385-388	Der	_	
+5-2	389-396	Bewuchs	_	
+5-3	397-403	sollte	_	
+5-4	404-421	zurückgeschnitten	_	
+5-5	422-428	werden	_	
+5-6	428-429	,	_	
+5-7	430-435	damit	_	
+5-8	436-438	an	_	
+5-9	439-442	der	_	
+5-10	443-447	Ecke	_	
+5-11	448-453	freie	_	
+5-12	454-459	Sicht	_	
+5-13	460-467	besteht	_	
+5-14	467-468	.	_	

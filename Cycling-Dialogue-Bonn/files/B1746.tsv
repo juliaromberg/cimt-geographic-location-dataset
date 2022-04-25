@@ -1,0 +1,43 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradabstellmöglichkeiten
+1-1	0-27	Fahrradabstellmöglichkeiten	_	
+
+#Text=Ich wünsche mir hier ein paar Fahrradständer für den Besuch der Unigebäude, des Botanischen Gartens und der gastronomischen Einrichtungen auf der Clemens-August-Straße und um in den Bus Richtung Venusberg zu steigen.
+2-1	30-33	Ich	_	
+2-2	34-41	wünsche	_	
+2-3	42-45	mir	_	
+2-4	46-50	hier	_	
+2-5	51-54	ein	_	
+2-6	55-59	paar	_	
+2-7	60-74	Fahrradständer	_	
+2-8	75-78	für	_	
+2-9	79-82	den	_	
+2-10	83-89	Besuch	_	
+2-11	90-93	der	_	
+2-12	94-104	Unigebäude	_	
+2-13	104-105	,	_	
+2-14	106-109	des	_	
+2-15	110-121	Botanischen	_	
+2-16	122-129	Gartens	_	
+2-17	130-133	und	_	
+2-18	134-137	der	_	
+2-19	138-153	gastronomischen	_	
+2-20	154-167	Einrichtungen	_	
+2-21	168-171	auf	_	
+2-22	172-175	der	_	
+2-23	176-197	Clemens-August-Straße	_	
+2-24	198-201	und	_	
+2-25	202-204	um	_	
+2-26	205-207	in	_	
+2-27	208-211	den	_	
+2-28	212-215	Bus	_	
+2-29	216-224	Richtung	*[2]	
+2-30	225-234	Venusberg	*[2]	
+2-31	235-237	zu	_	
+2-32	238-245	steigen	_	
+2-33	245-246	.	_	

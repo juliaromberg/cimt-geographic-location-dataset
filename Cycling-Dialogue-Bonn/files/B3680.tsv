@@ -1,0 +1,224 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Argelanderstraße Richtung Popp-Allee: Fahrradstraße dringend!!
+1-1	0-16	Argelanderstraße	*[10]	
+1-2	17-25	Richtung	*[10]	
+1-3	26-36	Popp-Allee	*[10]	
+1-4	36-37	:	*[10]	
+1-5	38-51	Fahrradstraße	_	
+1-6	52-60	dringend	_	
+1-7	60-61	!	_	
+1-8	61-62	!	_	
+
+#Text=!
+2-1	63-64	!	_	
+
+#Text=Die Argelanderstraße zwischen Popp-Allee und Weberstraße wird täglich von vielen Radfahrern benutzt, gerade auch als Hauptachse aus der Südstadt in Richtung Popp-Allee.
+3-1	67-70	Die	*[11]	
+3-2	71-87	Argelanderstraße	*[11]	
+3-3	88-96	zwischen	*[11]	
+3-4	97-107	Popp-Allee	*[11]	
+3-5	108-111	und	*[11]	
+3-6	112-123	Weberstraße	*[11]	
+3-7	124-128	wird	_	
+3-8	129-136	täglich	_	
+3-9	137-140	von	_	
+3-10	141-147	vielen	_	
+3-11	148-158	Radfahrern	_	
+3-12	159-166	benutzt	_	
+3-13	166-167	,	_	
+3-14	168-174	gerade	_	
+3-15	175-179	auch	_	
+3-16	180-183	als	_	
+3-17	184-194	Hauptachse	_	
+3-18	195-198	aus	*[12]	
+3-19	199-202	der	*[12]	
+3-20	203-211	Südstadt	*[12]	
+3-21	212-214	in	*[12]	
+3-22	215-223	Richtung	*[12]	
+3-23	224-234	Popp-Allee	*[12]	
+3-24	234-235	.	_	
+
+#Text=Aufgrund der parkenden Autos auf der rechten Seite (in Richtung Popp-Allee) ist die Straße quasi nur einspurig (was ok ist).
+4-1	236-244	Aufgrund	_	
+4-2	245-248	der	_	
+4-3	249-258	parkenden	_	
+4-4	259-264	Autos	_	
+4-5	265-268	auf	*[13]	
+4-6	269-272	der	*[13]	
+4-7	273-280	rechten	*[13]	
+4-8	281-286	Seite	*[13]	
+4-9	287-288	(	*[13]	
+4-10	288-290	in	*[13]	
+4-11	291-299	Richtung	*[13]	
+4-12	300-310	Popp-Allee	*[13]	
+4-13	310-311	)	*[13]	
+4-14	312-315	ist	_	
+4-15	316-319	die	_	
+4-16	320-326	Straße	_	
+4-17	327-332	quasi	_	
+4-18	333-336	nur	_	
+4-19	337-346	einspurig	_	
+4-20	347-348	(	_	
+4-21	348-351	was	_	
+4-22	352-354	ok	_	
+4-23	355-358	ist	_	
+4-24	358-359	)	_	
+4-25	359-360	.	_	
+
+#Text=Leider nutzen viele eilige Autofahrer, die aus Richtung Popp-Allee kommen, ihre freie Seite (ohne parkende Autos) dazu, die entgegen kommenden Radfahrer bewusst abzudrängen, durch schnelles Fahren und bewusstes Beschleunigen!
+5-1	361-367	Leider	_	
+5-2	368-374	nutzen	_	
+5-3	375-380	viele	_	
+5-4	381-387	eilige	_	
+5-5	388-398	Autofahrer	_	
+5-6	398-399	,	_	
+5-7	400-403	die	_	
+5-8	404-407	aus	*[14]	
+5-9	408-416	Richtung	*[14]	
+5-10	417-427	Popp-Allee	*[14]	
+5-11	428-434	kommen	*[14]	
+5-12	434-435	,	_	
+5-13	436-440	ihre	_	
+5-14	441-446	freie	_	
+5-15	447-452	Seite	_	
+5-16	453-454	(	_	
+5-17	454-458	ohne	_	
+5-18	459-467	parkende	_	
+5-19	468-473	Autos	_	
+5-20	473-474	)	_	
+5-21	475-479	dazu	_	
+5-22	479-480	,	_	
+5-23	481-484	die	_	
+5-24	485-493	entgegen	_	
+5-25	494-503	kommenden	_	
+5-26	504-513	Radfahrer	_	
+5-27	514-521	bewusst	_	
+5-28	522-533	abzudrängen	_	
+5-29	533-534	,	_	
+5-30	535-540	durch	_	
+5-31	541-550	schnelles	_	
+5-32	551-557	Fahren	_	
+5-33	558-561	und	_	
+5-34	562-571	bewusstes	_	
+5-35	572-585	Beschleunigen	_	
+5-36	585-586	!	_	
+
+#Text=Unfälle (wenn der Radfahrer mal nicht aufpassen oder zur Seite springen würde) werden billigend in Kauf genommen, sehr schade!
+6-1	587-594	Unfälle	_	
+6-2	595-596	(	_	
+6-3	596-600	wenn	_	
+6-4	601-604	der	_	
+6-5	605-614	Radfahrer	_	
+6-6	615-618	mal	_	
+6-7	619-624	nicht	_	
+6-8	625-634	aufpassen	_	
+6-9	635-639	oder	_	
+6-10	640-643	zur	_	
+6-11	644-649	Seite	_	
+6-12	650-658	springen	_	
+6-13	659-664	würde	_	
+6-14	664-665	)	_	
+6-15	666-672	werden	_	
+6-16	673-682	billigend	_	
+6-17	683-685	in	_	
+6-18	686-690	Kauf	_	
+6-19	691-699	genommen	_	
+6-20	699-700	,	_	
+6-21	701-705	sehr	_	
+6-22	706-712	schade	_	
+6-23	712-713	!	_	
+
+#Text=Auch wenn es sicher ein bisschen ein Vorurteil ist, leider sind dies häufig die großen dunklen SUVs (vermutlich auf dem Weg zur Autobahn oder auf einer Stauumfahrung durch die Wohnviertel).
+7-1	714-718	Auch	_	
+7-2	719-723	wenn	_	
+7-3	724-726	es	_	
+7-4	727-733	sicher	_	
+7-5	734-737	ein	_	
+7-6	738-746	bisschen	_	
+7-7	747-750	ein	_	
+7-8	751-760	Vorurteil	_	
+7-9	761-764	ist	_	
+7-10	764-765	,	_	
+7-11	766-772	leider	_	
+7-12	773-777	sind	_	
+7-13	778-782	dies	_	
+7-14	783-789	häufig	_	
+7-15	790-793	die	_	
+7-16	794-800	großen	_	
+7-17	801-808	dunklen	_	
+7-18	809-813	SUVs	_	
+7-19	814-815	(	_	
+7-20	815-825	vermutlich	_	
+7-21	826-829	auf	_	
+7-22	830-833	dem	_	
+7-23	834-837	Weg	_	
+7-24	838-841	zur	_	
+7-25	842-850	Autobahn	_	
+7-26	851-855	oder	_	
+7-27	856-859	auf	_	
+7-28	860-865	einer	_	
+7-29	866-879	Stauumfahrung	_	
+7-30	880-885	durch	_	
+7-31	886-889	die	_	
+7-32	890-901	Wohnviertel	_	
+7-33	901-902	)	_	
+7-34	902-903	.	_	
+
+#Text=Hier wäre eine Fahrradstraße dringend angeraten!
+8-1	904-908	Hier	_	
+8-2	909-913	wäre	_	
+8-3	914-918	eine	_	
+8-4	919-932	Fahrradstraße	_	
+8-5	933-941	dringend	_	
+8-6	942-951	angeraten	_	
+8-7	951-952	!	_	
+
+#Text=Die Radfahrer brauchen hier mehr Rechte und Sicherheit gegenüber den Autos!!!
+9-1	953-956	Die	_	
+9-2	957-966	Radfahrer	_	
+9-3	967-975	brauchen	_	
+9-4	976-980	hier	_	
+9-5	981-985	mehr	_	
+9-6	986-992	Rechte	_	
+9-7	993-996	und	_	
+9-8	997-1007	Sicherheit	_	
+9-9	1008-1017	gegenüber	_	
+9-10	1018-1021	den	_	
+9-11	1022-1027	Autos	_	
+9-12	1027-1028	!	_	
+9-13	1028-1029	!	_	
+9-14	1029-1030	!	_	
+
+#Text=Erst kürzlich gab es einen schweren Unfall an der Ecke Königsstraße mit einer Radfahrerin, die leider über die Motorhaube ging und verletzt wurde :-(
+10-1	1031-1035	Erst	_	
+10-2	1036-1044	kürzlich	_	
+10-3	1045-1048	gab	_	
+10-4	1049-1051	es	_	
+10-5	1052-1057	einen	_	
+10-6	1058-1066	schweren	_	
+10-7	1067-1073	Unfall	_	
+10-8	1074-1076	an	*[15]	
+10-9	1077-1080	der	*[15]	
+10-10	1081-1085	Ecke	*[15]	
+10-11	1086-1098	Königsstraße	*[15]	
+10-12	1099-1102	mit	_	
+10-13	1103-1108	einer	_	
+10-14	1109-1120	Radfahrerin	_	
+10-15	1120-1121	,	_	
+10-16	1122-1125	die	_	
+10-17	1126-1132	leider	_	
+10-18	1133-1137	über	_	
+10-19	1138-1141	die	_	
+10-20	1142-1152	Motorhaube	_	
+10-21	1153-1157	ging	_	
+10-22	1158-1161	und	_	
+10-23	1162-1170	verletzt	_	
+10-24	1171-1176	wurde	_	
+10-25	1177-1178	:	_	
+10-26	1178-1179	-	_	
+10-27	1179-1180	(	_	

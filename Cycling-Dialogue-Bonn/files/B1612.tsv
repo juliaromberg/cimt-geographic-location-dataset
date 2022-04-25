@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verbreiterung aller Schutz- und Radfahrstreifen auf mindestens 2 Meter, neben Parkenden Autos auf 2,75 Meter
+1-1	0-13	Verbreiterung	_	
+1-2	14-19	aller	_	
+1-3	20-26	Schutz	_	
+1-4	26-27	-	_	
+1-5	28-31	und	_	
+1-6	32-47	Radfahrstreifen	_	
+1-7	48-51	auf	_	
+1-8	52-62	mindestens	_	
+1-9	63-64	2	_	
+1-10	65-70	Meter	_	
+1-11	70-71	,	_	
+1-12	72-77	neben	_	
+1-13	78-87	Parkenden	_	
+1-14	88-93	Autos	_	
+1-15	94-97	auf	_	
+1-16	98-102	2,75	_	
+1-17	103-108	Meter	_	
+
+#Text=Verbreiterung aller Schutz- und Radfahrstreifen auf mindestens 2 Meter, neben parkenden Autos (Längsparker)auf 2,75 Meter.
+2-1	111-124	Verbreiterung	_	
+2-2	125-130	aller	_	
+2-3	131-137	Schutz	_	
+2-4	137-138	-	_	
+2-5	139-142	und	_	
+2-6	143-158	Radfahrstreifen	_	
+2-7	159-162	auf	_	
+2-8	163-173	mindestens	_	
+2-9	174-175	2	_	
+2-10	176-181	Meter	_	
+2-11	181-182	,	_	
+2-12	183-188	neben	_	
+2-13	189-198	parkenden	_	
+2-14	199-204	Autos	_	
+2-15	205-206	(	_	
+2-16	206-217	Längsparker	_	
+2-17	217-218	)	_	
+2-18	218-221	auf	_	
+2-19	222-226	2,75	_	
+2-20	227-232	Meter	_	
+2-21	232-233	.	_	
+
+#Text=Alles andere suggeriert dem Autofahrer, dass er Radfahrer in geringstem Abstand überholen kann, was jeden Tag hundetfach zu lebensgefährlichen Situationen führt.
+3-1	234-239	Alles	_	
+3-2	240-246	andere	_	
+3-3	247-257	suggeriert	_	
+3-4	258-261	dem	_	
+3-5	262-272	Autofahrer	_	
+3-6	272-273	,	_	
+3-7	274-278	dass	_	
+3-8	279-281	er	_	
+3-9	282-291	Radfahrer	_	
+3-10	292-294	in	_	
+3-11	295-305	geringstem	_	
+3-12	306-313	Abstand	_	
+3-13	314-323	überholen	_	
+3-14	324-328	kann	_	
+3-15	328-329	,	_	
+3-16	330-333	was	_	
+3-17	334-339	jeden	_	
+3-18	340-343	Tag	_	
+3-19	344-354	hundetfach	_	
+3-20	355-357	zu	_	
+3-21	358-376	lebensgefährlichen	_	
+3-22	377-388	Situationen	_	
+3-23	389-394	führt	_	
+3-24	394-395	.	_	

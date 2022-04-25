@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Nicht befahrbarer Untergrund
+1-1	0-5	Nicht	_	
+1-2	6-17	befahrbarer	_	
+1-3	18-28	Untergrund	_	
+
+#Text=Durch das verlegte Kopfsteinpflaster ist das befahren unmöglich ohne einen sicher platten Reifen zu riskieren.
+2-1	31-36	Durch	_	
+2-2	37-40	das	_	
+2-3	41-49	verlegte	_	
+2-4	50-67	Kopfsteinpflaster	_	
+2-5	68-71	ist	_	
+2-6	72-75	das	_	
+2-7	76-84	befahren	_	
+2-8	85-94	unmöglich	_	
+2-9	95-99	ohne	_	
+2-10	100-105	einen	_	
+2-11	106-112	sicher	_	
+2-12	113-120	platten	_	
+2-13	121-127	Reifen	_	
+2-14	128-130	zu	_	
+2-15	131-140	riskieren	_	
+2-16	140-141	.	_	
+
+#Text=Deswegen ist ein Umfahren der Stelle über den Fußweg notwendig, was immer wieder zu gefährlichen Situationen führt.
+3-1	142-150	Deswegen	_	
+3-2	151-154	ist	_	
+3-3	155-158	ein	_	
+3-4	159-167	Umfahren	_	
+3-5	168-171	der	_	
+3-6	172-178	Stelle	_	
+3-7	179-183	über	_	
+3-8	184-187	den	_	
+3-9	188-194	Fußweg	_	
+3-10	195-204	notwendig	_	
+3-11	204-205	,	_	
+3-12	206-209	was	_	
+3-13	210-215	immer	_	
+3-14	216-222	wieder	_	
+3-15	223-225	zu	_	
+3-16	226-238	gefährlichen	_	
+3-17	239-250	Situationen	_	
+3-18	251-256	führt	_	
+3-19	256-257	.	_	

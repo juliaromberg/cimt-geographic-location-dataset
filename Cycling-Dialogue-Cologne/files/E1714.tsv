@@ -1,0 +1,124 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Venloer autofrei zwischen Piusstr. und Ehrenfeldgürtel
+1-1	0-7	Venloer	*	
+1-2	8-16	autofrei	_	
+1-3	17-25	zwischen	*[9]	
+1-4	26-33	Piusstr	*[9]	
+1-5	33-34	.	*[9]	
+1-6	35-38	und	*[9]	
+1-7	39-54	Ehrenfeldgürtel	*[9]	
+
+#Text=Von einer autofreien Venloerstr. würden alle profitieren: Anwohner, der Einzelhandel, Fahrradfahrende und Fußgänger.
+2-1	57-60	Von	_	
+2-2	61-66	einer	_	
+2-3	67-77	autofreien	_	
+2-4	78-88	Venloerstr	*	
+2-5	88-89	.	_	
+2-6	90-96	würden	_	
+2-7	97-101	alle	_	
+2-8	102-113	profitieren	_	
+2-9	113-114	:	_	
+2-10	115-123	Anwohner	_	
+2-11	123-124	,	_	
+2-12	125-128	der	_	
+2-13	129-141	Einzelhandel	_	
+2-14	141-142	,	_	
+2-15	143-158	Fahrradfahrende	_	
+2-16	159-162	und	_	
+2-17	163-172	Fußgänger	_	
+2-18	172-173	.	_	
+
+#Text=Der Transitverkehr gefährdet und ist eine Belästigung.
+3-1	174-177	Der	_	
+3-2	178-192	Transitverkehr	_	
+3-3	193-202	gefährdet	_	
+3-4	203-206	und	_	
+3-5	207-210	ist	_	
+3-6	211-215	eine	_	
+3-7	216-227	Belästigung	_	
+3-8	227-228	.	_	
+
+#Text=Parkgaragen gibt es zuhauf.
+4-1	229-240	Parkgaragen	_	
+4-2	241-245	gibt	_	
+4-3	246-248	es	_	
+4-4	249-255	zuhauf	_	
+4-5	255-256	.	_	
+
+#Text=Der Verkehr kann auch über die Subbelrather, die Widdersdorferstr. und die Autobahn abgeleitet werden.
+5-1	257-260	Der	_	
+5-2	261-268	Verkehr	_	
+5-3	269-273	kann	_	
+5-4	274-278	auch	_	
+5-5	279-283	über	*[10]	
+5-6	284-287	die	*[10]	
+5-7	288-300	Subbelrather	*[10]	
+5-8	300-301	,	*[10]	
+5-9	302-305	die	*[10]	
+5-10	306-322	Widdersdorferstr	*[10]	
+5-11	322-323	.	*[10]	
+5-12	324-327	und	*[10]	
+5-13	328-331	die	*[10]	
+5-14	332-340	Autobahn	*[10]	
+5-15	341-351	abgeleitet	_	
+5-16	352-358	werden	_	
+5-17	358-359	.	_	
+
+#Text=Die tausenden Fußgänger die sich jeden Tag in dieser mitunter größten Einkaufstraße über schmale Bürgersteige zwängen könnten aufatmen.
+6-1	360-363	Die	_	
+6-2	364-373	tausenden	_	
+6-3	374-383	Fußgänger	_	
+6-4	384-387	die	_	
+6-5	388-392	sich	_	
+6-6	393-398	jeden	_	
+6-7	399-402	Tag	_	
+6-8	403-405	in	_	
+6-9	406-412	dieser	_	
+6-10	413-421	mitunter	_	
+6-11	422-429	größten	_	
+6-12	430-443	Einkaufstraße	_	
+6-13	444-448	über	_	
+6-14	449-456	schmale	_	
+6-15	457-469	Bürgersteige	_	
+6-16	470-477	zwängen	_	
+6-17	478-485	könnten	_	
+6-18	486-494	aufatmen	_	
+6-19	494-495	.	_	
+
+#Text=Wir müssen jetzt handeln und in die Zukunft denken.
+7-1	496-499	Wir	_	
+7-2	500-506	müssen	_	
+7-3	507-512	jetzt	_	
+7-4	513-520	handeln	_	
+7-5	521-524	und	_	
+7-6	525-527	in	_	
+7-7	528-531	die	_	
+7-8	532-539	Zukunft	_	
+7-9	540-546	denken	_	
+7-10	546-547	.	_	
+
+#Text=Alles andere führt zu dieser unmöglichen baulichen Situation, die jetzt nach wenigen Jahren wieder geändert werden muss.
+8-1	548-553	Alles	_	
+8-2	554-560	andere	_	
+8-3	561-566	führt	_	
+8-4	567-569	zu	_	
+8-5	570-576	dieser	_	
+8-6	577-588	unmöglichen	_	
+8-7	589-598	baulichen	_	
+8-8	599-608	Situation	_	
+8-9	608-609	,	_	
+8-10	610-613	die	_	
+8-11	614-619	jetzt	_	
+8-12	620-624	nach	_	
+8-13	625-632	wenigen	_	
+8-14	633-639	Jahren	_	
+8-15	640-646	wieder	_	
+8-16	647-655	geändert	_	
+8-17	656-662	werden	_	
+8-18	663-667	muss	_	
+8-19	667-668	.	_	

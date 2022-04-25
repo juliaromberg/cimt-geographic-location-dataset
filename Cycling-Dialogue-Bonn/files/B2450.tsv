@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vorfahrtfrage
+1-1	0-13	Vorfahrtfrage	_	
+
+#Text=Die Einmündung Albert-Fischer-Straße ist mE nicht mehr als Baustelleneinfahrt zu erkennen.
+2-1	16-19	Die	*[4]	
+2-2	20-30	Einmündung	*[4]	
+2-3	31-52	Albert-Fischer-Straße	*[4]	
+2-4	53-56	ist	_	
+2-5	57-59	mE	_	
+2-6	60-65	nicht	_	
+2-7	66-70	mehr	_	
+2-8	71-74	als	_	
+2-9	75-93	Baustelleneinfahrt	_	
+2-10	94-96	zu	_	
+2-11	97-105	erkennen	_	
+2-12	105-106	.	_	
+
+#Text=Als ich zuletzt dort war suggerierte die Fahrbahnmarkierung einen Vorrang der Fahrradstraße, mangels Verkehrsschildern galt aber wohl rechts vor links.
+3-1	107-110	Als	_	
+3-2	111-114	ich	_	
+3-3	115-122	zuletzt	_	
+3-4	123-127	dort	_	
+3-5	128-131	war	_	
+3-6	132-143	suggerierte	_	
+3-7	144-147	die	_	
+3-8	148-166	Fahrbahnmarkierung	_	
+3-9	167-172	einen	_	
+3-10	173-180	Vorrang	_	
+3-11	181-184	der	_	
+3-12	185-198	Fahrradstraße	_	
+3-13	198-199	,	_	
+3-14	200-207	mangels	_	
+3-15	208-225	Verkehrsschildern	_	
+3-16	226-230	galt	_	
+3-17	231-235	aber	_	
+3-18	236-240	wohl	_	
+3-19	241-247	rechts	_	
+3-20	248-251	vor	_	
+3-21	252-257	links	_	
+3-22	257-258	.	_	
+
+#Text=Bitte eindeutig kennzeichnen.
+4-1	259-264	Bitte	_	
+4-2	265-274	eindeutig	_	
+4-3	275-287	kennzeichnen	_	
+4-4	287-288	.	_	

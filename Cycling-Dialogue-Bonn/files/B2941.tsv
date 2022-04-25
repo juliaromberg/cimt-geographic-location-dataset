@@ -1,0 +1,182 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg zu unübersichtlich und gefährlich
+1-1	0-6	Radweg	_	
+1-2	7-9	zu	_	
+1-3	10-25	unübersichtlich	_	
+1-4	26-29	und	_	
+1-5	30-40	gefährlich	_	
+
+#Text=Ab dem Kreisel Siemensstr. - Dickobskreuz - Probsthof führt ein benutzungspflichtiger Rad- und Gehweg bergab unter der A 565 und der Bahn hindurch Richtung Einnemoserstraße.
+2-1	43-45	Ab	*[9]	
+2-2	46-49	dem	*[9]	
+2-3	50-57	Kreisel	*[9]	
+2-4	58-68	Siemensstr	*[9]	
+2-5	68-69	.	*[9]	
+2-6	70-71	-	*[9]	
+2-7	72-84	Dickobskreuz	*[9]	
+2-8	85-86	-	*[9]	
+2-9	87-96	Probsthof	*[9]	
+2-10	97-102	führt	*[9]	
+2-11	103-106	ein	*[9]	
+2-12	107-128	benutzungspflichtiger	*[9]	
+2-13	129-132	Rad	*[9]	
+2-14	132-133	-	*[9]	
+2-15	134-137	und	*[9]	
+2-16	138-144	Gehweg	*[9]	
+2-17	145-151	bergab	*[9]	
+2-18	152-157	unter	*[9]	
+2-19	158-161	der	*[9]	
+2-20	162-163	A	*[9]	
+2-21	164-167	565	*[9]	
+2-22	168-171	und	*[9]	
+2-23	172-175	der	*[9]	
+2-24	176-180	Bahn	*[9]	
+2-25	181-189	hindurch	*[9]	
+2-26	190-198	Richtung	*[9]	
+2-27	199-215	Einnemoserstraße	*[9]	
+2-28	215-216	.	_	
+
+#Text=Der Zustand mit Betonplatten ist so lala, der Weg ist aber viel zu eng.
+3-1	217-220	Der	_	
+3-2	221-228	Zustand	_	
+3-3	229-232	mit	_	
+3-4	233-245	Betonplatten	_	
+3-5	246-249	ist	_	
+3-6	250-252	so	_	
+3-7	253-257	lala	_	
+3-8	257-258	,	_	
+3-9	259-262	der	_	
+3-10	263-266	Weg	_	
+3-11	267-270	ist	_	
+3-12	271-275	aber	_	
+3-13	276-280	viel	_	
+3-14	281-283	zu	_	
+3-15	284-287	eng	_	
+3-16	287-288	.	_	
+
+#Text=Dadurch, dass man entlang einer Mauer in einer langgezogenen Rechtskurve unterwegs ist, sieht man Fußgänger erst sehr spät.
+4-1	289-296	Dadurch	_	
+4-2	296-297	,	_	
+4-3	298-302	dass	_	
+4-4	303-306	man	_	
+4-5	307-314	entlang	_	
+4-6	315-320	einer	_	
+4-7	321-326	Mauer	_	
+4-8	327-329	in	_	
+4-9	330-335	einer	_	
+4-10	336-349	langgezogenen	_	
+4-11	350-361	Rechtskurve	_	
+4-12	362-371	unterwegs	_	
+4-13	372-375	ist	_	
+4-14	375-376	,	_	
+4-15	377-382	sieht	_	
+4-16	383-386	man	_	
+4-17	387-396	Fußgänger	_	
+4-18	397-401	erst	_	
+4-19	402-406	sehr	_	
+4-20	407-411	spät	_	
+4-21	411-412	.	_	
+
+#Text=Häufig ist der auch Weg durch Fahrzeuge versperrt, die zur Fa. Neugart KG ein- oder ausfahren.
+5-1	413-419	Häufig	_	
+5-2	420-423	ist	_	
+5-3	424-427	der	_	
+5-4	428-432	auch	_	
+5-5	433-436	Weg	_	
+5-6	437-442	durch	_	
+5-7	443-452	Fahrzeuge	_	
+5-8	453-462	versperrt	_	
+5-9	462-463	,	_	
+5-10	464-467	die	_	
+5-11	468-471	zur	_	
+5-12	472-474	Fa	*[10]	
+5-13	474-475	.	*[10]	
+5-14	476-483	Neugart	*[10]	
+5-15	484-486	KG	*[10]	
+5-16	487-490	ein	_	
+5-17	490-491	-	_	
+5-18	492-496	oder	_	
+5-19	497-506	ausfahren	_	
+5-20	506-507	.	_	
+
+#Text=Ferner kommen einem hier auch immer wieder falsch fahrende Radfahrer entgegen, die dem ebenfalls zu schmalen Zweirichtungsradweg aus der Ennemoserstraße hier einfach weiter folgen.
+6-1	508-514	Ferner	_	
+6-2	515-521	kommen	_	
+6-3	522-527	einem	_	
+6-4	528-532	hier	_	
+6-5	533-537	auch	_	
+6-6	538-543	immer	_	
+6-7	544-550	wieder	_	
+6-8	551-557	falsch	_	
+6-9	558-566	fahrende	_	
+6-10	567-576	Radfahrer	_	
+6-11	577-585	entgegen	_	
+6-12	585-586	,	_	
+6-13	587-590	die	_	
+6-14	591-594	dem	_	
+6-15	595-604	ebenfalls	_	
+6-16	605-607	zu	_	
+6-17	608-616	schmalen	_	
+6-18	617-636	Zweirichtungsradweg	_	
+6-19	637-640	aus	*[11]	
+6-20	641-644	der	*[11]	
+6-21	645-660	Ennemoserstraße	*[11]	
+6-22	661-665	hier	_	
+6-23	666-673	einfach	_	
+6-24	674-680	weiter	_	
+6-25	681-687	folgen	_	
+6-26	687-688	.	_	
+
+#Text=Vorschlag: Da Radfahrer auf dieser bergab-Strecke zügig unterwegs sind, sollten Radfahrher zwischen Kreisverkehr und Ennemoserstraße auf der Straße fahren dürfen.
+7-1	689-698	Vorschlag	_	
+7-2	698-699	:	_	
+7-3	700-702	Da	_	
+7-4	703-712	Radfahrer	_	
+7-5	713-716	auf	_	
+7-6	717-723	dieser	_	
+7-7	724-738	bergab-Strecke	_	
+7-8	739-744	zügig	_	
+7-9	745-754	unterwegs	_	
+7-10	755-759	sind	_	
+7-11	759-760	,	_	
+7-12	761-768	sollten	_	
+7-13	769-779	Radfahrher	_	
+7-14	780-788	zwischen	*[12]	
+7-15	789-801	Kreisverkehr	*[12]	
+7-16	802-805	und	*[12]	
+7-17	806-821	Ennemoserstraße	*[12]	
+7-18	822-825	auf	_	
+7-19	826-829	der	_	
+7-20	830-836	Straße	_	
+7-21	837-843	fahren	_	
+7-22	844-850	dürfen	_	
+7-23	850-851	.	_	
+
+#Text=Hinderlich für den Verkehrsfluss dürfte dies nicht sein, die Autos trifft man an der Ampel zur Bornheimer Straße ohnehin wieder.
+8-1	852-862	Hinderlich	_	
+8-2	863-866	für	_	
+8-3	867-870	den	_	
+8-4	871-884	Verkehrsfluss	_	
+8-5	885-891	dürfte	_	
+8-6	892-896	dies	_	
+8-7	897-902	nicht	_	
+8-8	903-907	sein	_	
+8-9	907-908	,	_	
+8-10	909-912	die	_	
+8-11	913-918	Autos	_	
+8-12	919-925	trifft	_	
+8-13	926-929	man	_	
+8-14	930-932	an	*[13]	
+8-15	933-936	der	*[13]	
+8-16	937-942	Ampel	*[13]	
+8-17	943-946	zur	*[13]	
+8-18	947-957	Bornheimer	*[13]	
+8-19	958-964	Straße	*[13]	
+8-20	965-972	ohnehin	_	
+8-21	973-979	wieder	_	
+8-22	979-980	.	_	

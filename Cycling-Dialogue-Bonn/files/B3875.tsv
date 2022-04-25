@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg zu eng!
+1-1	0-6	Radweg	_	
+1-2	7-9	zu	_	
+1-3	10-13	eng	_	
+1-4	13-14	!	_	
+
+#Text=Hier sollte wegen des extrem hohen Radverkehrsaufkommens der Radweg verbreitert werden, um Unfallgefahr zu vermeiden!
+2-1	17-21	Hier	_	
+2-2	22-28	sollte	_	
+2-3	29-34	wegen	_	
+2-4	35-38	des	_	
+2-5	39-45	extrem	_	
+2-6	46-51	hohen	_	
+2-7	52-73	Radverkehrsaufkommens	_	
+2-8	74-77	der	_	
+2-9	78-84	Radweg	_	
+2-10	85-96	verbreitert	_	
+2-11	97-103	werden	_	
+2-12	103-104	,	_	
+2-13	105-107	um	_	
+2-14	108-120	Unfallgefahr	_	
+2-15	121-123	zu	_	
+2-16	124-133	vermeiden	_	
+2-17	133-134	!	_	

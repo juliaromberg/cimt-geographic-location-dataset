@@ -1,0 +1,70 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Stolperfalle
+1-1	0-12	Stolperfalle	_	
+
+#Text=Der Weg zwischen Rheinweg ist bis unter die Reuterbrücke durch einen Wulst geteilt.
+2-1	15-18	Der	_	
+2-2	19-22	Weg	_	
+2-3	23-31	zwischen	*[4]	
+2-4	32-40	Rheinweg	*[4]	
+2-5	41-44	ist	*[4]	
+2-6	45-48	bis	*[4]	
+2-7	49-54	unter	*[4]	
+2-8	55-58	die	*[4]	
+2-9	59-71	Reuterbrücke	*[4]	
+2-10	72-77	durch	_	
+2-11	78-83	einen	_	
+2-12	84-89	Wulst	_	
+2-13	90-97	geteilt	_	
+2-14	97-98	.	_	
+
+#Text=Es ist sehr risikoverbunden dort Rad zu fahren, besonders wenn Gegenverkehr ist.
+3-1	99-101	Es	_	
+3-2	102-105	ist	_	
+3-3	106-110	sehr	_	
+3-4	111-126	risikoverbunden	_	
+3-5	127-131	dort	_	
+3-6	132-135	Rad	_	
+3-7	136-138	zu	_	
+3-8	139-145	fahren	_	
+3-9	145-146	,	_	
+3-10	147-156	besonders	_	
+3-11	157-161	wenn	_	
+3-12	162-174	Gegenverkehr	_	
+3-13	175-178	ist	_	
+3-14	178-179	.	_	
+
+#Text=Entweder fährt man ganz dicht aneinandervorbei um nicht hinter dem Wulst zu fahren oder man fährt über den Wulst und es besteht die Gefahr deswegen zu stürzen.
+4-1	180-188	Entweder	_	
+4-2	189-194	fährt	_	
+4-3	195-198	man	_	
+4-4	199-203	ganz	_	
+4-5	204-209	dicht	_	
+4-6	210-226	aneinandervorbei	_	
+4-7	227-229	um	_	
+4-8	230-235	nicht	_	
+4-9	236-242	hinter	_	
+4-10	243-246	dem	_	
+4-11	247-252	Wulst	_	
+4-12	253-255	zu	_	
+4-13	256-262	fahren	_	
+4-14	263-267	oder	_	
+4-15	268-271	man	_	
+4-16	272-277	fährt	_	
+4-17	278-282	über	_	
+4-18	283-286	den	_	
+4-19	287-292	Wulst	_	
+4-20	293-296	und	_	
+4-21	297-299	es	_	
+4-22	300-307	besteht	_	
+4-23	308-311	die	_	
+4-24	312-318	Gefahr	_	
+4-25	319-327	deswegen	_	
+4-26	328-330	zu	_	
+4-27	331-338	stürzen	_	
+4-28	338-339	.	_	

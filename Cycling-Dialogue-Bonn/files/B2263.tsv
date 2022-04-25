@@ -1,0 +1,88 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrbahnkissen entfernen
+1-1	0-14	Fahrbahnkissen	_	
+1-2	15-24	entfernen	_	
+
+#Text=Der Schmittgasser Kirchweg (kann man die Straße mal umbenennen?
+2-1	27-30	Der	*[7]	
+2-2	31-44	Schmittgasser	*[7]	
+2-3	45-53	Kirchweg	*[7]	
+2-4	54-55	(	_	
+2-5	55-59	kann	_	
+2-6	60-63	man	_	
+2-7	64-67	die	_	
+2-8	68-74	Straße	_	
+2-9	75-78	mal	_	
+2-10	79-89	umbenennen	_	
+2-11	89-90	?	_	
+
+#Text=Das ist ja ein gräuslicher Name) wurde zur Fahrradstraße umgepinselt.
+3-1	91-94	Das	_	
+3-2	95-98	ist	_	
+3-3	99-101	ja	_	
+3-4	102-105	ein	_	
+3-5	106-117	gräuslicher	_	
+3-6	118-122	Name	_	
+3-7	122-123	)	_	
+3-8	124-129	wurde	_	
+3-9	130-133	zur	_	
+3-10	134-147	Fahrradstraße	_	
+3-11	148-159	umgepinselt	_	
+3-12	159-160	.	_	
+
+#Text=Die Fahrbahnkissen/-aufpflasterungen sind aber noch da und behindern den schnellen Radverkehr.
+4-1	161-164	Die	_	
+4-2	165-179	Fahrbahnkissen	_	
+4-3	179-180	/	_	
+4-4	180-181	-	_	
+4-5	181-197	aufpflasterungen	_	
+4-6	198-202	sind	_	
+4-7	203-207	aber	_	
+4-8	208-212	noch	_	
+4-9	213-215	da	_	
+4-10	216-219	und	_	
+4-11	220-229	behindern	_	
+4-12	230-233	den	_	
+4-13	234-243	schnellen	_	
+4-14	244-254	Radverkehr	_	
+4-15	254-255	.	_	
+
+#Text=Scheinbar wird der Sinn in Fahrradstraßen darin gesehen, den Verkehr zu verlangsamen.
+5-1	256-265	Scheinbar	_	
+5-2	266-270	wird	_	
+5-3	271-274	der	_	
+5-4	275-279	Sinn	_	
+5-5	280-282	in	_	
+5-6	283-297	Fahrradstraßen	_	
+5-7	298-303	darin	_	
+5-8	304-311	gesehen	_	
+5-9	311-312	,	_	
+5-10	313-316	den	_	
+5-11	317-324	Verkehr	_	
+5-12	325-327	zu	_	
+5-13	328-340	verlangsamen	_	
+5-14	340-341	.	_	
+
+#Text=Dann sollte man aber besser eine Spielstraße einrichten, denn Radfahrer sind auch gerne flott unterwegs.
+6-1	342-346	Dann	_	
+6-2	347-353	sollte	_	
+6-3	354-357	man	_	
+6-4	358-362	aber	_	
+6-5	363-369	besser	_	
+6-6	370-374	eine	_	
+6-7	375-386	Spielstraße	_	
+6-8	387-397	einrichten	_	
+6-9	397-398	,	_	
+6-10	399-403	denn	_	
+6-11	404-413	Radfahrer	_	
+6-12	414-418	sind	_	
+6-13	419-423	auch	_	
+6-14	424-429	gerne	_	
+6-15	430-435	flott	_	
+6-16	436-445	unterwegs	_	
+6-17	445-446	.	_	

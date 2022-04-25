@@ -1,0 +1,108 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sofortige Freigabe der Fahrbahn für den Radverkehr.
+1-1	0-9	Sofortige	_	
+1-2	10-18	Freigabe	_	
+1-3	19-22	der	_	
+1-4	23-31	Fahrbahn	_	
+1-5	32-35	für	_	
+1-6	36-39	den	_	
+1-7	40-50	Radverkehr	_	
+1-8	50-51	.	_	
+
+#Text=Das Verbot ist unerträglich.
+2-1	52-55	Das	_	
+2-2	56-62	Verbot	_	
+2-3	63-66	ist	_	
+2-4	67-79	unerträglich	_	
+2-5	79-80	.	_	
+
+#Text=Die Benutzung des Fußwegs ist lebensgefährlich für Radfahrer und Fußgänger
+3-1	81-84	Die	_	
+3-2	85-94	Benutzung	_	
+3-3	95-98	des	_	
+3-4	99-106	Fußwegs	_	
+3-5	107-110	ist	_	
+3-6	111-127	lebensgefährlich	_	
+3-7	128-131	für	_	
+3-8	132-141	Radfahrer	_	
+3-9	142-145	und	_	
+3-10	146-155	Fußgänger	_	
+
+#Text=Ich selbst missachte das Verbot seit über einem Jahr jeden Tag.
+4-1	158-161	Ich	_	
+4-2	162-168	selbst	_	
+4-3	169-178	missachte	_	
+4-4	179-182	das	_	
+4-5	183-189	Verbot	_	
+4-6	190-194	seit	_	
+4-7	195-199	über	_	
+4-8	200-205	einem	_	
+4-9	206-210	Jahr	_	
+4-10	211-216	jeden	_	
+4-11	217-220	Tag	_	
+4-12	220-221	.	_	
+
+#Text=Da ich immer in der Mitte der Fahrspur fahre, hatte ich noch nie eine gefährliche Situation.
+5-1	222-224	Da	_	
+5-2	225-228	ich	_	
+5-3	229-234	immer	_	
+5-4	235-237	in	_	
+5-5	238-241	der	_	
+5-6	242-247	Mitte	_	
+5-7	248-251	der	_	
+5-8	252-260	Fahrspur	_	
+5-9	261-266	fahre	_	
+5-10	266-267	,	_	
+5-11	268-273	hatte	_	
+5-12	274-277	ich	_	
+5-13	278-282	noch	_	
+5-14	283-286	nie	_	
+5-15	287-291	eine	_	
+5-16	292-303	gefährliche	_	
+5-17	304-313	Situation	_	
+5-18	313-314	.	_	
+
+#Text=Von den Mördern, die einen dann hinterher, wo wieder mehr Platz ist, mit voller Absicht mit wenigen cm Abstand aus pädagogischen Gründen überholen mal abgesehen (ja, ich zeige euch alle an).
+6-1	315-318	Von	_	
+6-2	319-322	den	_	
+6-3	323-330	Mördern	_	
+6-4	330-331	,	_	
+6-5	332-335	die	_	
+6-6	336-341	einen	_	
+6-7	342-346	dann	_	
+6-8	347-356	hinterher	_	
+6-9	356-357	,	_	
+6-10	358-360	wo	_	
+6-11	361-367	wieder	_	
+6-12	368-372	mehr	_	
+6-13	373-378	Platz	_	
+6-14	379-382	ist	_	
+6-15	382-383	,	_	
+6-16	384-387	mit	_	
+6-17	388-394	voller	_	
+6-18	395-402	Absicht	_	
+6-19	403-406	mit	_	
+6-20	407-414	wenigen	_	
+6-21	415-417	cm	_	
+6-22	418-425	Abstand	_	
+6-23	426-429	aus	_	
+6-24	430-443	pädagogischen	_	
+6-25	444-451	Gründen	_	
+6-26	452-461	überholen	_	
+6-27	462-465	mal	_	
+6-28	466-475	abgesehen	_	
+6-29	476-477	(	_	
+6-30	477-479	ja	_	
+6-31	479-480	,	_	
+6-32	481-484	ich	_	
+6-33	485-490	zeige	_	
+6-34	491-495	euch	_	
+6-35	496-500	alle	_	
+6-36	501-503	an	_	
+6-37	503-504	)	_	
+6-38	504-505	.	_	

@@ -1,0 +1,107 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg insuffizient
+1-1	0-10	Fahrradweg	_	
+1-2	11-23	insuffizient	_	
+
+#Text=Prof. Neu Allee Richtung Brückenforum und Sankt Augustiner Strasse Richtung Vilich: Es besteht markierten Fahrradwege, die überwiegend von geparkten Autos und fahrenden Autos benutzt werden.
+2-1	26-30	Prof	*[7]	
+2-2	30-31	.	*[7]	
+2-3	32-35	Neu	*[7]	
+2-4	36-41	Allee	*[7]	
+2-5	42-50	Richtung	*[7]	
+2-6	51-63	Brückenforum	*[7]	
+2-7	64-67	und	*[7]	
+2-8	68-73	Sankt	*[7]	
+2-9	74-84	Augustiner	*[7]	
+2-10	85-92	Strasse	*[7]	
+2-11	93-101	Richtung	*[7]	
+2-12	102-108	Vilich	*[7]	
+2-13	108-109	:	_	
+2-14	110-112	Es	_	
+2-15	113-120	besteht	_	
+2-16	121-131	markierten	_	
+2-17	132-143	Fahrradwege	_	
+2-18	143-144	,	_	
+2-19	145-148	die	_	
+2-20	149-160	überwiegend	_	
+2-21	161-164	von	_	
+2-22	165-174	geparkten	_	
+2-23	175-180	Autos	_	
+2-24	181-184	und	_	
+2-25	185-194	fahrenden	_	
+2-26	195-200	Autos	_	
+2-27	201-208	benutzt	_	
+2-28	209-215	werden	_	
+2-29	215-216	.	_	
+
+#Text=Auch gerne in eine beunruhigende Geschwindigkeit, um bloß voran zu kommen.
+3-1	217-221	Auch	_	
+3-2	222-227	gerne	_	
+3-3	228-230	in	_	
+3-4	231-235	eine	_	
+3-5	236-249	beunruhigende	_	
+3-6	250-265	Geschwindigkeit	_	
+3-7	265-266	,	_	
+3-8	267-269	um	_	
+3-9	270-274	bloß	_	
+3-10	275-280	voran	_	
+3-11	281-283	zu	_	
+3-12	284-290	kommen	_	
+3-13	290-291	.	_	
+
+#Text=Als Fahrradfahrer, ist es fast unmöglich ohne Hindernisse durchzufahren.
+4-1	292-295	Als	_	
+4-2	296-309	Fahrradfahrer	_	
+4-3	309-310	,	_	
+4-4	311-314	ist	_	
+4-5	315-317	es	_	
+4-6	318-322	fast	_	
+4-7	323-332	unmöglich	_	
+4-8	333-337	ohne	_	
+4-9	338-349	Hindernisse	_	
+4-10	350-363	durchzufahren	_	
+4-11	363-364	.	_	
+
+#Text=Wenn man auf sich aufmerksam (durch den Klingel) machen möchte, um einen Unfall zu vermeiden, wird man zusätzlich beschimpft oder angehupt!
+5-1	365-369	Wenn	_	
+5-2	370-373	man	_	
+5-3	374-377	auf	_	
+5-4	378-382	sich	_	
+5-5	383-393	aufmerksam	_	
+5-6	394-395	(	_	
+5-7	395-400	durch	_	
+5-8	401-404	den	_	
+5-9	405-412	Klingel	_	
+5-10	412-413	)	_	
+5-11	414-420	machen	_	
+5-12	421-427	möchte	_	
+5-13	427-428	,	_	
+5-14	429-431	um	_	
+5-15	432-437	einen	_	
+5-16	438-444	Unfall	_	
+5-17	445-447	zu	_	
+5-18	448-457	vermeiden	_	
+5-19	457-458	,	_	
+5-20	459-463	wird	_	
+5-21	464-467	man	_	
+5-22	468-478	zusätzlich	_	
+5-23	479-489	beschimpft	_	
+5-24	490-494	oder	_	
+5-25	495-503	angehupt	_	
+5-26	503-504	!	_	
+
+#Text=Eine deutliche Abgrenzung von der Fahrbahn wäre wünschenswert.
+6-1	505-509	Eine	_	
+6-2	510-519	deutliche	_	
+6-3	520-530	Abgrenzung	_	
+6-4	531-534	von	_	
+6-5	535-538	der	_	
+6-6	539-547	Fahrbahn	_	
+6-7	548-552	wäre	_	
+6-8	553-566	wünschenswert	_	
+6-9	566-567	.	_	

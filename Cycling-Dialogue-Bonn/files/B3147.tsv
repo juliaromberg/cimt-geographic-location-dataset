@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kein Winterdienst
+1-1	0-4	Kein	_	
+1-2	5-17	Winterdienst	_	
+
+#Text=Die Verlängerung des Hangelarer Wegs zwischen Vilich-Müldorf und Hangelar liegt de-facto auf der Hauptverkehrsstrecke für Fahrradpendler zwischen Siegburg und Bonn.
+2-1	20-23	Die	*[4]	
+2-2	24-36	Verlängerung	*[4]	
+2-3	37-40	des	*[4]	
+2-4	41-51	Hangelarer	*[4]	
+2-5	52-56	Wegs	*[4]	
+2-6	57-65	zwischen	*[4]	
+2-7	66-80	Vilich-Müldorf	*[4]	
+2-8	81-84	und	*[4]	
+2-9	85-93	Hangelar	*[4]	
+2-10	94-99	liegt	_	
+2-11	100-108	de-facto	_	
+2-12	109-112	auf	_	
+2-13	113-116	der	_	
+2-14	117-137	Hauptverkehrsstrecke	_	
+2-15	138-141	für	_	
+2-16	142-156	Fahrradpendler	_	
+2-17	157-165	zwischen	*[5]	
+2-18	166-174	Siegburg	*[5]	
+2-19	175-178	und	*[5]	
+2-20	179-183	Bonn	*[5]	
+2-21	183-184	.	_	
+
+#Text=Hier findet praktisch kein Winterdienst seitens der Stadt Bonn statt.
+3-1	185-189	Hier	_	
+3-2	190-196	findet	_	
+3-3	197-206	praktisch	_	
+3-4	207-211	kein	_	
+3-5	212-224	Winterdienst	_	
+3-6	225-232	seitens	_	
+3-7	233-236	der	_	
+3-8	237-242	Stadt	_	
+3-9	243-247	Bonn	*	
+3-10	248-253	statt	_	
+3-11	253-254	.	_	

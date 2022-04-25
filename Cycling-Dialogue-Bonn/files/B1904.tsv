@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg (bis zum Hbf) verbreitern
+1-1	0-10	Fahrradweg	_	
+1-2	11-12	(	_	
+1-3	12-15	bis	*[4]	
+1-4	16-19	zum	*[4]	
+1-5	20-23	Hbf	*[4]	
+1-6	23-24	)	_	
+1-7	25-36	verbreitern	_	
+
+#Text=Startend vom Bahnübergang Rheinweg bis zum Hbf ist der Fahrradweg kaum geeignet, damit zwei Fahrräder mit Anhänger (in unterschiedlicher Fahrrichtung) passieren können.
+2-1	39-47	Startend	*[5]	
+2-2	48-51	vom	*[5]	
+2-3	52-64	Bahnübergang	*[5]	
+2-4	65-73	Rheinweg	*[5]	
+2-5	74-77	bis	*[5]	
+2-6	78-81	zum	*[5]	
+2-7	82-85	Hbf	*[5]	
+2-8	86-89	ist	_	
+2-9	90-93	der	_	
+2-10	94-104	Fahrradweg	_	
+2-11	105-109	kaum	_	
+2-12	110-118	geeignet	_	
+2-13	118-119	,	_	
+2-14	120-125	damit	_	
+2-15	126-130	zwei	_	
+2-16	131-140	Fahrräder	_	
+2-17	141-144	mit	_	
+2-18	145-153	Anhänger	_	
+2-19	154-155	(	_	
+2-20	155-157	in	_	
+2-21	158-175	unterschiedlicher	_	
+2-22	176-188	Fahrrichtung	_	
+2-23	188-189	)	_	
+2-24	190-199	passieren	_	
+2-25	200-206	können	_	
+2-26	206-207	.	_	
+
+#Text=Aus diesem Grund wäre der Fahrradweg zu verbreitern, z.B. durch gleichzeitige Umgestaltung der Kaiserstraße in eine Einbahnstraße.
+3-1	208-211	Aus	_	
+3-2	212-218	diesem	_	
+3-3	219-224	Grund	_	
+3-4	225-229	wäre	_	
+3-5	230-233	der	_	
+3-6	234-244	Fahrradweg	_	
+3-7	245-247	zu	_	
+3-8	248-259	verbreitern	_	
+3-9	259-260	,	_	
+3-10	261-264	z.B	_	
+3-11	264-265	.	_	
+3-12	266-271	durch	_	
+3-13	272-285	gleichzeitige	_	
+3-14	286-298	Umgestaltung	_	
+3-15	299-302	der	_	
+3-16	303-315	Kaiserstraße	*	
+3-17	316-318	in	_	
+3-18	319-323	eine	_	
+3-19	324-337	Einbahnstraße	_	
+3-20	337-338	.	_	

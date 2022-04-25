@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Grünen Pfeil abschaffen!
+1-1	0-6	Grünen	_	
+1-2	7-12	Pfeil	_	
+1-3	13-23	abschaffen	_	
+1-4	23-24	!	_	
+
+#Text=Der grüne Pfeil führt regelmäßig zu gefährlichen Situationen für Radfahrer (und Fußgänger, übrigens auch viele Schulkinder), weil es zu viele Autofahrer gibt, die nicht wissen, dass er gleichbedeutend mit einem Stoppschild ist.
+2-1	27-30	Der	_	
+2-2	31-36	grüne	_	
+2-3	37-42	Pfeil	_	
+2-4	43-48	führt	_	
+2-5	49-59	regelmäßig	_	
+2-6	60-62	zu	_	
+2-7	63-75	gefährlichen	_	
+2-8	76-87	Situationen	_	
+2-9	88-91	für	_	
+2-10	92-101	Radfahrer	_	
+2-11	102-103	(	_	
+2-12	103-106	und	_	
+2-13	107-116	Fußgänger	_	
+2-14	116-117	,	_	
+2-15	118-126	übrigens	_	
+2-16	127-131	auch	_	
+2-17	132-137	viele	_	
+2-18	138-149	Schulkinder	_	
+2-19	149-150	)	_	
+2-20	150-151	,	_	
+2-21	152-156	weil	_	
+2-22	157-159	es	_	
+2-23	160-162	zu	_	
+2-24	163-168	viele	_	
+2-25	169-179	Autofahrer	_	
+2-26	180-184	gibt	_	
+2-27	184-185	,	_	
+2-28	186-189	die	_	
+2-29	190-195	nicht	_	
+2-30	196-202	wissen	_	
+2-31	202-203	,	_	
+2-32	204-208	dass	_	
+2-33	209-211	er	_	
+2-34	212-227	gleichbedeutend	_	
+2-35	228-231	mit	_	
+2-36	232-237	einem	_	
+2-37	238-249	Stoppschild	_	
+2-38	250-253	ist	_	
+2-39	253-254	.	_	
+
+#Text=Sie begreifen ihn als Lizenz zum Abbiegen ohne anzuhalten.
+3-1	255-258	Sie	_	
+3-2	259-268	begreifen	_	
+3-3	269-272	ihn	_	
+3-4	273-276	als	_	
+3-5	277-283	Lizenz	_	
+3-6	284-287	zum	_	
+3-7	288-296	Abbiegen	_	
+3-8	297-301	ohne	_	
+3-9	302-312	anzuhalten	_	
+3-10	312-313	.	_	

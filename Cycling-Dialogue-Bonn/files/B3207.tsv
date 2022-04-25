@@ -1,0 +1,170 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Getunte Pedelecs und S-Pedelec runter von den Radwegen
+1-1	0-7	Getunte	_	
+1-2	8-16	Pedelecs	_	
+1-3	17-20	und	_	
+1-4	21-30	S-Pedelec	_	
+1-5	31-37	runter	_	
+1-6	38-41	von	_	
+1-7	42-45	den	_	
+1-8	46-54	Radwegen	_	
+
+#Text=Ich fahre täglich am Rhein entlang zur Arbeit in die Bonner Innenstadt.
+2-1	57-60	Ich	_	
+2-2	61-66	fahre	_	
+2-3	67-74	täglich	_	
+2-4	75-77	am	_	
+2-5	78-83	Rhein	_	
+2-6	84-91	entlang	_	
+2-7	92-95	zur	_	
+2-8	96-102	Arbeit	_	
+2-9	103-105	in	*[8]	
+2-10	106-109	die	*[8]	
+2-11	110-116	Bonner	*[8]	
+2-12	117-127	Innenstadt	*[8]	
+2-13	127-128	.	_	
+
+#Text=Mich nerven schon geraume Zeit eBiker(innen), die ihre Pedelecs mit Chips tunen oder an ihrem S-Pedelec das Kennzeichen entfernen.
+3-1	129-133	Mich	_	
+3-2	134-140	nerven	_	
+3-3	141-146	schon	_	
+3-4	147-154	geraume	_	
+3-5	155-159	Zeit	_	
+3-6	160-166	eBiker	_	
+3-7	166-167	(	_	
+3-8	167-172	innen	_	
+3-9	172-173	)	_	
+3-10	173-174	,	_	
+3-11	175-178	die	_	
+3-12	179-183	ihre	_	
+3-13	184-192	Pedelecs	_	
+3-14	193-196	mit	_	
+3-15	197-202	Chips	_	
+3-16	203-208	tunen	_	
+3-17	209-213	oder	_	
+3-18	214-216	an	_	
+3-19	217-222	ihrem	_	
+3-20	223-232	S-Pedelec	_	
+3-21	233-236	das	_	
+3-22	237-248	Kennzeichen	_	
+3-23	249-258	entfernen	_	
+3-24	258-259	.	_	
+
+#Text=Die Geschwindigkeitsunterschiede zwischen Normalradlern (20 - 25 km/h) und getunten Pedelecs (>> 25 km/h) bzw. S-Pedelecs (~ 45 km/h) ist einfach zu groß.
+4-1	260-263	Die	_	
+4-2	264-292	Geschwindigkeitsunterschiede	_	
+4-3	293-301	zwischen	_	
+4-4	302-315	Normalradlern	_	
+4-5	316-317	(	_	
+4-6	317-319	20	_	
+4-7	320-321	-	_	
+4-8	322-324	25	_	
+4-9	325-327	km	_	
+4-10	327-328	/	_	
+4-11	328-329	h	_	
+4-12	329-330	)	_	
+4-13	331-334	und	_	
+4-14	335-343	getunten	_	
+4-15	344-352	Pedelecs	_	
+4-16	353-354	(	_	
+4-17	354-355	>	_	
+4-18	355-356	>	_	
+4-19	357-359	25	_	
+4-20	360-362	km	_	
+4-21	362-363	/	_	
+4-22	363-364	h	_	
+4-23	364-365	)	_	
+4-24	366-369	bzw	_	
+4-25	369-370	.	_	
+4-26	371-381	S-Pedelecs	_	
+4-27	382-383	(	_	
+4-28	383-384	~	_	
+4-29	385-387	45	_	
+4-30	388-390	km	_	
+4-31	390-391	/	_	
+4-32	391-392	h	_	
+4-33	392-393	)	_	
+4-34	394-397	ist	_	
+4-35	398-405	einfach	_	
+4-36	406-408	zu	_	
+4-37	409-413	groß	_	
+4-38	413-414	.	_	
+
+#Text=Man wird teilw. mit einem derartigen Speed überholt (natürlich ohne zu klingeln), dass einem schon manchmal ganz anders wird ...
+5-1	415-418	Man	_	
+5-2	419-423	wird	_	
+5-3	424-429	teilw	_	
+5-4	429-430	.	_	
+5-5	431-434	mit	_	
+5-6	435-440	einem	_	
+5-7	441-451	derartigen	_	
+5-8	452-457	Speed	_	
+5-9	458-466	überholt	_	
+5-10	467-468	(	_	
+5-11	468-477	natürlich	_	
+5-12	478-482	ohne	_	
+5-13	483-485	zu	_	
+5-14	486-494	klingeln	_	
+5-15	494-495	)	_	
+5-16	495-496	,	_	
+5-17	497-501	dass	_	
+5-18	502-507	einem	_	
+5-19	508-513	schon	_	
+5-20	514-522	manchmal	_	
+5-21	523-527	ganz	_	
+5-22	528-534	anders	_	
+5-23	535-539	wird	_	
+5-24	540-541	.	_	
+5-25	541-542	.	_	
+5-26	542-543	.	_	
+
+#Text=@Polizei & Ordungsamt: Bitte mal Pedelecs auf Manipulationen überprüfen !!!
+6-1	544-545	@	_	
+6-2	545-552	Polizei	_	
+6-3	553-554	&	_	
+6-4	555-565	Ordungsamt	_	
+6-5	565-566	:	_	
+6-6	567-572	Bitte	_	
+6-7	573-576	mal	_	
+6-8	577-585	Pedelecs	_	
+6-9	586-589	auf	_	
+6-10	590-604	Manipulationen	_	
+6-11	605-615	überprüfen	_	
+6-12	616-617	!	_	
+6-13	617-618	!	_	
+6-14	618-619	!	_	
+
+#Text=@all: Wer nicht glaubt, was es alles gibt, bitte mal im Internet nach chiptuning pedelec suchen und sich wundern oder ärgern :-(
+7-1	620-621	@	_	
+7-2	621-624	all	_	
+7-3	624-625	:	_	
+7-4	626-629	Wer	_	
+7-5	630-635	nicht	_	
+7-6	636-642	glaubt	_	
+7-7	642-643	,	_	
+7-8	644-647	was	_	
+7-9	648-650	es	_	
+7-10	651-656	alles	_	
+7-11	657-661	gibt	_	
+7-12	661-662	,	_	
+7-13	663-668	bitte	_	
+7-14	669-672	mal	_	
+7-15	673-675	im	_	
+7-16	676-684	Internet	_	
+7-17	685-689	nach	_	
+7-18	690-700	chiptuning	_	
+7-19	701-708	pedelec	_	
+7-20	709-715	suchen	_	
+7-21	716-719	und	_	
+7-22	720-724	sich	_	
+7-23	725-732	wundern	_	
+7-24	733-737	oder	_	
+7-25	738-744	ärgern	_	
+7-26	745-746	:	_	
+7-27	746-747	-	_	
+7-28	747-748	(	_	

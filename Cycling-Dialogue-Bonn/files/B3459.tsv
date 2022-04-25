@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Trennung von Rad- und Fußgängerwegen
+1-1	0-8	Trennung	_	
+1-2	9-12	von	_	
+1-3	13-16	Rad	_	
+1-4	16-17	-	_	
+1-5	18-21	und	_	
+1-6	22-36	Fußgängerwegen	_	
+
+#Text=Ein schlüssiges Konzept eines innerstädtischen Radwegenetzes, das für die Nutzer attraktiv ist und eine Alternative zur Pkw-Nutzung darstellen kann, muss - wo immer möglich - eine Trennung von Fußgänger- und Radwegen beinhalten.
+2-1	39-42	Ein	_	
+2-2	43-54	schlüssiges	_	
+2-3	55-62	Konzept	_	
+2-4	63-68	eines	_	
+2-5	69-85	innerstädtischen	_	
+2-6	86-99	Radwegenetzes	_	
+2-7	99-100	,	_	
+2-8	101-104	das	_	
+2-9	105-108	für	_	
+2-10	109-112	die	_	
+2-11	113-119	Nutzer	_	
+2-12	120-129	attraktiv	_	
+2-13	130-133	ist	_	
+2-14	134-137	und	_	
+2-15	138-142	eine	_	
+2-16	143-154	Alternative	_	
+2-17	155-158	zur	_	
+2-18	159-170	Pkw-Nutzung	_	
+2-19	171-181	darstellen	_	
+2-20	182-186	kann	_	
+2-21	186-187	,	_	
+2-22	188-192	muss	_	
+2-23	193-194	-	_	
+2-24	195-197	wo	_	
+2-25	198-203	immer	_	
+2-26	204-211	möglich	_	
+2-27	212-213	-	_	
+2-28	214-218	eine	_	
+2-29	219-227	Trennung	_	
+2-30	228-231	von	_	
+2-31	232-241	Fußgänger	_	
+2-32	241-242	-	_	
+2-33	243-246	und	_	
+2-34	247-255	Radwegen	_	
+2-35	256-266	beinhalten	_	
+2-36	266-267	.	_	
+
+#Text=Das betrifft vor allem stark frequentierte Verbindungen wie z.B. an beiden Rheinufern oder auch in der Innenstadt (Friedrichstraße).
+3-1	268-271	Das	_	
+3-2	272-280	betrifft	_	
+3-3	281-284	vor	_	
+3-4	285-290	allem	_	
+3-5	291-296	stark	_	
+3-6	297-310	frequentierte	_	
+3-7	311-323	Verbindungen	_	
+3-8	324-327	wie	_	
+3-9	328-331	z.B	_	
+3-10	331-332	.	_	
+3-11	333-335	an	*[4]	
+3-12	336-342	beiden	*[4]	
+3-13	343-353	Rheinufern	*[4]	
+3-14	354-358	oder	_	
+3-15	359-363	auch	_	
+3-16	364-366	in	*[5]	
+3-17	367-370	der	*[5]	
+3-18	371-381	Innenstadt	*[5]	
+3-19	382-383	(	*[5]	
+3-20	383-398	Friedrichstraße	*[5]	
+3-21	398-399	)	_	
+3-22	399-400	.	_	

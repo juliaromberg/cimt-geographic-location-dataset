@@ -1,0 +1,32 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einfahrt in Verdistraße zu schmal
+1-1	0-8	Einfahrt	_	
+1-2	9-11	in	_	
+1-3	12-23	Verdistraße	*	
+1-4	24-26	zu	_	
+1-5	27-33	schmal	_	
+
+#Text=Einbahnstraßenschild versetzen, Größe der Insel verringern / durch voluminösen Kunststoff Pfosten ersetzen und so Radweg verbreitern.
+2-1	36-56	Einbahnstraßenschild	_	
+2-2	57-66	versetzen	_	
+2-3	66-67	,	_	
+2-4	68-73	Größe	_	
+2-5	74-77	der	_	
+2-6	78-83	Insel	_	
+2-7	84-94	verringern	_	
+2-8	95-96	/	_	
+2-9	97-102	durch	_	
+2-10	103-114	voluminösen	_	
+2-11	115-125	Kunststoff	_	
+2-12	126-133	Pfosten	_	
+2-13	134-142	ersetzen	_	
+2-14	143-146	und	_	
+2-15	147-149	so	_	
+2-16	150-156	Radweg	_	
+2-17	157-168	verbreitern	_	
+2-18	168-169	.	_	

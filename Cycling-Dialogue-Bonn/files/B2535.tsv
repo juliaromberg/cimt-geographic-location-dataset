@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zusatzzeichen fehlt
+1-1	0-13	Zusatzzeichen	_	
+1-2	14-19	fehlt	_	
+
+#Text=Das blaue Einbahnstraßenschild ohne Zusatzzeichen scheint ganz verzichtbar.
+2-1	22-25	Das	_	
+2-2	26-31	blaue	_	
+2-3	32-52	Einbahnstraßenschild	_	
+2-4	53-57	ohne	_	
+2-5	58-71	Zusatzzeichen	_	
+2-6	72-79	scheint	_	
+2-7	80-84	ganz	_	
+2-8	85-96	verzichtbar	_	
+2-9	96-97	.	_	
+
+#Text=Wenn jemand in der Oststraße wenden will, soll er das doch tun.
+3-1	98-102	Wenn	_	
+3-2	103-109	jemand	_	
+3-3	110-112	in	*[4]	
+3-4	113-116	der	*[4]	
+3-5	117-126	Oststraße	*[4]	
+3-6	127-133	wenden	_	
+3-7	134-138	will	_	
+3-8	138-139	,	_	
+3-9	140-144	soll	_	
+3-10	145-147	er	_	
+3-11	148-151	das	_	
+3-12	152-156	doch	_	
+3-13	157-160	tun	_	
+3-14	160-161	.	_	

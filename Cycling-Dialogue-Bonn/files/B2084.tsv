@@ -1,0 +1,127 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradwege der besonderen Art entlang der Königswinterer Str. zwischen Ramersdorf-Mehlemstr. und Limperich-Auf dem Grendt
+1-1	0-11	Fahrradwege	_	
+1-2	12-15	der	_	
+1-3	16-26	besonderen	_	
+1-4	27-30	Art	_	
+1-5	31-38	entlang	*[6]	
+1-6	39-42	der	*[6]	
+1-7	43-57	Königswinterer	*[6]	
+1-8	58-61	Str	*[6]	
+1-9	61-62	.	*[6]	
+1-10	63-71	zwischen	*[6]	
+1-11	72-92	Ramersdorf-Mehlemstr	*[6]	
+1-12	92-93	.	*[6]	
+1-13	94-97	und	*[6]	
+1-14	98-111	Limperich-Auf	*[6]	
+1-15	112-115	dem	*[6]	
+1-16	116-122	Grendt	*[6]	
+
+#Text=Fast alle Autos, die auf der Ostseite der Königswinterer Str. auf dem Parkstreifen abgestellt sind, stehen weit oder manchmal fast ganz auf dem Radweg.
+2-1	125-129	Fast	_	
+2-2	130-134	alle	_	
+2-3	135-140	Autos	_	
+2-4	140-141	,	_	
+2-5	142-145	die	_	
+2-6	146-149	auf	*[7]	
+2-7	150-153	der	*[7]	
+2-8	154-162	Ostseite	*[7]	
+2-9	163-166	der	*[7]	
+2-10	167-181	Königswinterer	*[7]	
+2-11	182-185	Str	*[7]	
+2-12	185-186	.	*[7]	
+2-13	187-190	auf	*[7]	
+2-14	191-194	dem	*[7]	
+2-15	195-207	Parkstreifen	*[7]	
+2-16	208-218	abgestellt	_	
+2-17	219-223	sind	_	
+2-18	223-224	,	_	
+2-19	225-231	stehen	_	
+2-20	232-236	weit	_	
+2-21	237-241	oder	_	
+2-22	242-250	manchmal	_	
+2-23	251-255	fast	_	
+2-24	256-260	ganz	_	
+2-25	261-264	auf	_	
+2-26	265-268	dem	_	
+2-27	269-275	Radweg	_	
+2-28	275-276	.	_	
+
+#Text=Auch wenn der Radweg nicht als solcher gekennzeichnet ist, wäre auch das Abstellen auf dem Bürgersteig nicht erlaubt.
+3-1	277-281	Auch	_	
+3-2	282-286	wenn	_	
+3-3	287-290	der	_	
+3-4	291-297	Radweg	_	
+3-5	298-303	nicht	_	
+3-6	304-307	als	_	
+3-7	308-315	solcher	_	
+3-8	316-330	gekennzeichnet	_	
+3-9	331-334	ist	_	
+3-10	334-335	,	_	
+3-11	336-340	wäre	_	
+3-12	341-345	auch	_	
+3-13	346-349	das	_	
+3-14	350-359	Abstellen	_	
+3-15	360-363	auf	_	
+3-16	364-367	dem	_	
+3-17	368-379	Bürgersteig	_	
+3-18	380-385	nicht	_	
+3-19	386-393	erlaubt	_	
+3-20	393-394	.	_	
+
+#Text=Das Ordnungsamt kennt die Situation, die schon seit Jahren so ist, schreitet aber nicht ein.
+4-1	395-398	Das	_	
+4-2	399-410	Ordnungsamt	_	
+4-3	411-416	kennt	_	
+4-4	417-420	die	_	
+4-5	421-430	Situation	_	
+4-6	430-431	,	_	
+4-7	432-435	die	_	
+4-8	436-441	schon	_	
+4-9	442-446	seit	_	
+4-10	447-453	Jahren	_	
+4-11	454-456	so	_	
+4-12	457-460	ist	_	
+4-13	460-461	,	_	
+4-14	462-471	schreitet	_	
+4-15	472-476	aber	_	
+4-16	477-482	nicht	_	
+4-17	483-486	ein	_	
+4-18	486-487	.	_	
+
+#Text=Man muss ja nicht sofort ein Ordnungsverfahren einleiten, sondern könnte die Autofahrer erst einmal mit einem schriftlichen Hinweis an der Windschutzscheibe auf die nicht erlaubte Situation aufmerksam machen.
+5-1	488-491	Man	_	
+5-2	492-496	muss	_	
+5-3	497-499	ja	_	
+5-4	500-505	nicht	_	
+5-5	506-512	sofort	_	
+5-6	513-516	ein	_	
+5-7	517-534	Ordnungsverfahren	_	
+5-8	535-544	einleiten	_	
+5-9	544-545	,	_	
+5-10	546-553	sondern	_	
+5-11	554-560	könnte	_	
+5-12	561-564	die	_	
+5-13	565-575	Autofahrer	_	
+5-14	576-580	erst	_	
+5-15	581-587	einmal	_	
+5-16	588-591	mit	_	
+5-17	592-597	einem	_	
+5-18	598-611	schriftlichen	_	
+5-19	612-619	Hinweis	_	
+5-20	620-622	an	_	
+5-21	623-626	der	_	
+5-22	627-644	Windschutzscheibe	_	
+5-23	645-648	auf	_	
+5-24	649-652	die	_	
+5-25	653-658	nicht	_	
+5-26	659-667	erlaubte	_	
+5-27	668-677	Situation	_	
+5-28	678-688	aufmerksam	_	
+5-29	689-695	machen	_	
+5-30	695-696	.	_	

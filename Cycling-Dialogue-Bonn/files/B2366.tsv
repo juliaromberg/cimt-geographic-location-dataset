@@ -1,0 +1,33 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=mangelhafter Belag
+1-1	0-12	mangelhafter	_	
+1-2	13-18	Belag	_	
+
+#Text=Der Belag auf der Siegbrücke bremst das Rad regelrecht aus.
+2-1	21-24	Der	_	
+2-2	25-30	Belag	_	
+2-3	31-34	auf	*[4]	
+2-4	35-38	der	*[4]	
+2-5	39-49	Siegbrücke	*[4]	
+2-6	50-56	bremst	_	
+2-7	57-60	das	_	
+2-8	61-64	Rad	_	
+2-9	65-75	regelrecht	_	
+2-10	76-79	aus	_	
+2-11	79-80	.	_	
+
+#Text=Hier muß dringend ein fahrradfreundlicher Belag aufgetragen werden.
+3-1	81-85	Hier	_	
+3-2	86-89	muß	_	
+3-3	90-98	dringend	_	
+3-4	99-102	ein	_	
+3-5	103-122	fahrradfreundlicher	_	
+3-6	123-128	Belag	_	
+3-7	129-140	aufgetragen	_	
+3-8	141-147	werden	_	
+3-9	147-148	.	_	

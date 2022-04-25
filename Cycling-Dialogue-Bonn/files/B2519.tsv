@@ -1,0 +1,39 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg auf der Quantiusstraße ist 24/7 zugeparkt.
+1-1	0-6	Radweg	*[4]	
+1-2	7-10	auf	*[4]	
+1-3	11-14	der	*[4]	
+1-4	15-29	Quantiusstraße	*[4]	
+1-5	30-33	ist	_	
+1-6	34-36	24	_	
+1-7	36-37	/	_	
+1-8	37-38	7	_	
+1-9	39-48	zugeparkt	_	
+1-10	48-49	.	_	
+
+#Text=Radweg auf der Quantiusstraße ist 24/7 zugeparkt.
+2-1	52-58	Radweg	*[5]	
+2-2	59-62	auf	*[5]	
+2-3	63-66	der	*[5]	
+2-4	67-81	Quantiusstraße	*[5]	
+2-5	82-85	ist	_	
+2-6	86-88	24	_	
+2-7	88-89	/	_	
+2-8	89-90	7	_	
+2-9	91-100	zugeparkt	_	
+2-10	100-101	.	_	
+
+#Text=Lieferanten, Supermarktkunden, Bahnhofsbesucher...
+3-1	102-113	Lieferanten	_	
+3-2	113-114	,	_	
+3-3	115-131	Supermarktkunden	_	
+3-4	131-132	,	_	
+3-5	133-149	Bahnhofsbesucher	_	
+3-6	149-150	.	_	
+3-7	150-151	.	_	
+3-8	151-152	.	_	

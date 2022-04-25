@@ -1,0 +1,128 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Mittelstreifen auf der Fahrbahn fehlt
+1-1	0-14	Mittelstreifen	_	
+1-2	15-18	auf	_	
+1-3	19-22	der	_	
+1-4	23-31	Fahrbahn	_	
+1-5	32-37	fehlt	_	
+
+#Text=Der Mittelstreifen auf der Fahrbahn fehlt und sollte schnellstmöglich eingezeichnet werden.
+2-1	40-43	Der	_	
+2-2	44-58	Mittelstreifen	_	
+2-3	59-62	auf	_	
+2-4	63-66	der	_	
+2-5	67-75	Fahrbahn	_	
+2-6	76-81	fehlt	_	
+2-7	82-85	und	_	
+2-8	86-92	sollte	_	
+2-9	93-109	schnellstmöglich	_	
+2-10	110-123	eingezeichnet	_	
+2-11	124-130	werden	_	
+2-12	130-131	.	_	
+
+#Text=Ohne den Mittelstreifen halten sich viele wahrscheinlich ängstliche Autofahrer recht weit rechts auf dem Fahrradstreifen, weil sie offensichtlich die Mitte der Fahrbahn nicht einschätzen können.
+3-1	132-136	Ohne	_	
+3-2	137-140	den	_	
+3-3	141-155	Mittelstreifen	_	
+3-4	156-162	halten	_	
+3-5	163-167	sich	_	
+3-6	168-173	viele	_	
+3-7	174-188	wahrscheinlich	_	
+3-8	189-199	ängstliche	_	
+3-9	200-210	Autofahrer	_	
+3-10	211-216	recht	_	
+3-11	217-221	weit	_	
+3-12	222-228	rechts	_	
+3-13	229-232	auf	_	
+3-14	233-236	dem	_	
+3-15	237-252	Fahrradstreifen	_	
+3-16	252-253	,	_	
+3-17	254-258	weil	_	
+3-18	259-262	sie	_	
+3-19	263-277	offensichtlich	_	
+3-20	278-281	die	_	
+3-21	282-287	Mitte	_	
+3-22	288-291	der	_	
+3-23	292-300	Fahrbahn	_	
+3-24	301-306	nicht	_	
+3-25	307-318	einschätzen	_	
+3-26	319-325	können	_	
+3-27	325-326	.	_	
+
+#Text=Außerdem würde der Mittelstreifen die Autofahrspuren optisch einengen und somit dazu animieren, nicht so schnell zu fahren.
+4-1	327-335	Außerdem	_	
+4-2	336-341	würde	_	
+4-3	342-345	der	_	
+4-4	346-360	Mittelstreifen	_	
+4-5	361-364	die	_	
+4-6	365-379	Autofahrspuren	_	
+4-7	380-387	optisch	_	
+4-8	388-396	einengen	_	
+4-9	397-400	und	_	
+4-10	401-406	somit	_	
+4-11	407-411	dazu	_	
+4-12	412-421	animieren	_	
+4-13	421-422	,	_	
+4-14	423-428	nicht	_	
+4-15	429-431	so	_	
+4-16	432-439	schnell	_	
+4-17	440-442	zu	_	
+4-18	443-449	fahren	_	
+4-19	449-450	.	_	
+
+#Text=Eine optisch engere Wegstrecke wird in der Regel langsamer befahren als eine optisch weite Strecke.
+5-1	451-455	Eine	_	
+5-2	456-463	optisch	_	
+5-3	464-470	engere	_	
+5-4	471-481	Wegstrecke	_	
+5-5	482-486	wird	_	
+5-6	487-489	in	_	
+5-7	490-493	der	_	
+5-8	494-499	Regel	_	
+5-9	500-509	langsamer	_	
+5-10	510-518	befahren	_	
+5-11	519-522	als	_	
+5-12	523-527	eine	_	
+5-13	528-535	optisch	_	
+5-14	536-541	weite	_	
+5-15	542-549	Strecke	_	
+5-16	549-550	.	_	
+
+#Text=Das haben Untersuchungen des Instituts für Verkehrwissenschaften der TU Dresden bereits in den Neunziger Jahren herausgefunden.
+6-1	551-554	Das	_	
+6-2	555-560	haben	_	
+6-3	561-575	Untersuchungen	_	
+6-4	576-579	des	_	
+6-5	580-589	Instituts	_	
+6-6	590-593	für	_	
+6-7	594-615	Verkehrwissenschaften	_	
+6-8	616-619	der	_	
+6-9	620-622	TU	_	
+6-10	623-630	Dresden	_	
+6-11	631-638	bereits	_	
+6-12	639-641	in	_	
+6-13	642-645	den	_	
+6-14	646-655	Neunziger	_	
+6-15	656-662	Jahren	_	
+6-16	663-677	herausgefunden	_	
+6-17	677-678	.	_	
+
+#Text=Ohne eine einzige physikalische Einengung kann somit die Durchschnittsgeschwindigkeit spürbar gesenkt werden.
+7-1	679-683	Ohne	_	
+7-2	684-688	eine	_	
+7-3	689-696	einzige	_	
+7-4	697-710	physikalische	_	
+7-5	711-720	Einengung	_	
+7-6	721-725	kann	_	
+7-7	726-731	somit	_	
+7-8	732-735	die	_	
+7-9	736-764	Durchschnittsgeschwindigkeit	_	
+7-10	765-772	spürbar	_	
+7-11	773-780	gesenkt	_	
+7-12	781-787	werden	_	
+7-13	787-788	.	_	

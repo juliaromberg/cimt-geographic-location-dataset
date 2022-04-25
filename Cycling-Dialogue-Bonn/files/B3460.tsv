@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ost-West-Radweg Innenstadt
+1-1	0-15	Ost-West-Radweg	_	
+1-2	16-26	Innenstadt	_	
+
+#Text=Es existiert keine schnelle und zumutbare Fahrradverbindung zwischen Kennedybrücke und Hauptbahnhof.
+2-1	29-31	Es	_	
+2-2	32-41	existiert	_	
+2-3	42-47	keine	_	
+2-4	48-56	schnelle	_	
+2-5	57-60	und	_	
+2-6	61-70	zumutbare	_	
+2-7	71-88	Fahrradverbindung	_	
+2-8	89-97	zwischen	*[5]	
+2-9	98-111	Kennedybrücke	*[5]	
+2-10	112-115	und	*[5]	
+2-11	116-128	Hauptbahnhof	*[5]	
+2-12	128-129	.	_	
+
+#Text=Beste Lösung: Sperrung des Cityrings Süd (Rathausgasse/Am Hof/Wesselstraße) für den Individualverkehr (Ausnahmen für Busse, Taxen und Ausfahrt Marktgarage), Schaffung einer Fahrradverbindung in beide Richtungen.
+3-1	130-135	Beste	_	
+3-2	136-142	Lösung	_	
+3-3	142-143	:	_	
+3-4	144-152	Sperrung	_	
+3-5	153-156	des	_	
+3-6	157-166	Cityrings	*[6]	
+3-7	167-170	Süd	*[6]	
+3-8	171-172	(	*[6]	
+3-9	172-184	Rathausgasse	*[6]	
+3-10	184-185	/	*[6]	
+3-11	185-187	Am	*[6]	
+3-12	188-191	Hof	*[6]	
+3-13	191-192	/	*[6]	
+3-14	192-204	Wesselstraße	*[6]	
+3-15	204-205	)	_	
+3-16	206-209	für	_	
+3-17	210-213	den	_	
+3-18	214-231	Individualverkehr	_	
+3-19	232-233	(	_	
+3-20	233-242	Ausnahmen	_	
+3-21	243-246	für	_	
+3-22	247-252	Busse	_	
+3-23	252-253	,	_	
+3-24	254-259	Taxen	_	
+3-25	260-263	und	_	
+3-26	264-272	Ausfahrt	_	
+3-27	273-284	Marktgarage	_	
+3-28	284-285	)	_	
+3-29	285-286	,	_	
+3-30	287-296	Schaffung	_	
+3-31	297-302	einer	_	
+3-32	303-320	Fahrradverbindung	_	
+3-33	321-323	in	_	
+3-34	324-329	beide	_	
+3-35	330-340	Richtungen	_	
+3-36	340-341	.	_	
+
+#Text=Zweitbeste Lösung: Ganztägige Öffnung der Fußgängerzone für Fahrräder.
+4-1	342-352	Zweitbeste	_	
+4-2	353-359	Lösung	_	
+4-3	359-360	:	_	
+4-4	361-371	Ganztägige	_	
+4-5	372-379	Öffnung	_	
+4-6	380-383	der	_	
+4-7	384-397	Fußgängerzone	_	
+4-8	398-401	für	_	
+4-9	402-411	Fahrräder	_	
+4-10	411-412	.	_	

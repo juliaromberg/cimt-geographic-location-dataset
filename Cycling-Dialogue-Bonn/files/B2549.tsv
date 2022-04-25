@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Änderung des Radweges
+1-1	0-8	Änderung	_	
+1-2	9-12	des	_	
+1-3	13-21	Radweges	_	
+
+#Text=Der Radweg an der Bahnparallele wird rechts an einem Baum vorbeigeführt.
+2-1	24-27	Der	_	
+2-2	28-34	Radweg	_	
+2-3	35-37	an	_	
+2-4	38-41	der	_	
+2-5	42-55	Bahnparallele	_	
+2-6	56-60	wird	_	
+2-7	61-67	rechts	_	
+2-8	68-70	an	_	
+2-9	71-76	einem	_	
+2-10	77-81	Baum	_	
+2-11	82-95	vorbeigeführt	_	
+2-12	95-96	.	_	
+
+#Text=Dieser Baum behindert die Sicht und der Gegenverkehr ist nicht zu sehen.
+3-1	97-103	Dieser	_	
+3-2	104-108	Baum	_	
+3-3	109-118	behindert	_	
+3-4	119-122	die	_	
+3-5	123-128	Sicht	_	
+3-6	129-132	und	_	
+3-7	133-136	der	_	
+3-8	137-149	Gegenverkehr	_	
+3-9	150-153	ist	_	
+3-10	154-159	nicht	_	
+3-11	160-162	zu	_	
+3-12	163-168	sehen	_	
+3-13	168-169	.	_	
+
+#Text=Mein Vorschlag: Den Fahrrad weg hinter dem Baum vorbei führen.
+4-1	170-174	Mein	_	
+4-2	175-184	Vorschlag	_	
+4-3	184-185	:	_	
+4-4	186-189	Den	_	
+4-5	190-197	Fahrrad	_	
+4-6	198-201	weg	_	
+4-7	202-208	hinter	_	
+4-8	209-212	dem	_	
+4-9	213-217	Baum	_	
+4-10	218-224	vorbei	_	
+4-11	225-231	führen	_	
+4-12	231-232	.	_	
+
+#Text=Der Platz dafür ist vorhanden und der Baum braucht nicht gefällt zu werden.
+5-1	233-236	Der	_	
+5-2	237-242	Platz	_	
+5-3	243-248	dafür	_	
+5-4	249-252	ist	_	
+5-5	253-262	vorhanden	_	
+5-6	263-266	und	_	
+5-7	267-270	der	_	
+5-8	271-275	Baum	_	
+5-9	276-283	braucht	_	
+5-10	284-289	nicht	_	
+5-11	290-297	gefällt	_	
+5-12	298-300	zu	_	
+5-13	301-307	werden	_	
+5-14	307-308	.	_	

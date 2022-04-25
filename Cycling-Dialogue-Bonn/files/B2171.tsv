@@ -1,0 +1,71 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kinder sicher über die Straße
+1-1	0-6	Kinder	_	
+1-2	7-13	sicher	_	
+1-3	14-18	über	_	
+1-4	19-22	die	_	
+1-5	23-29	Straße	_	
+
+#Text=Der Panoramapark mit seinem Spielplatz ist ein beliebtes Ausflugsziel für Kinder mit Fahrrad.
+2-1	32-35	Der	*[5]	
+2-2	36-48	Panoramapark	*[5]	
+2-3	49-52	mit	_	
+2-4	53-59	seinem	_	
+2-5	60-70	Spielplatz	_	
+2-6	71-74	ist	_	
+2-7	75-78	ein	_	
+2-8	79-88	beliebtes	_	
+2-9	89-101	Ausflugsziel	_	
+2-10	102-105	für	_	
+2-11	106-112	Kinder	_	
+2-12	113-116	mit	_	
+2-13	117-124	Fahrrad	_	
+2-14	124-125	.	_	
+
+#Text=Kinder sind verpflichtet auf dem Gehweg zu fahren.
+3-1	126-132	Kinder	_	
+3-2	133-137	sind	_	
+3-3	138-150	verpflichtet	_	
+3-4	151-154	auf	_	
+3-5	155-158	dem	_	
+3-6	159-165	Gehweg	_	
+3-7	166-168	zu	_	
+3-8	169-175	fahren	_	
+3-9	175-176	.	_	
+
+#Text=An dieser beliebten Kreuzung (denn viele Familien nutzen die Abkürzung Am Büchel) muss daher dringend ein Zebrastreifen eingerichtet werden, damit Kinder sicher die Fahrbahn überqueren können.
+4-1	177-179	An	_	
+4-2	180-186	dieser	_	
+4-3	187-196	beliebten	_	
+4-4	197-205	Kreuzung	_	
+4-5	206-207	(	_	
+4-6	207-211	denn	_	
+4-7	212-217	viele	_	
+4-8	218-226	Familien	_	
+4-9	227-233	nutzen	_	
+4-10	234-237	die	_	
+4-11	238-247	Abkürzung	_	
+4-12	248-250	Am	*[6]	
+4-13	251-257	Büchel	*[6]	
+4-14	257-258	)	_	
+4-15	259-263	muss	_	
+4-16	264-269	daher	_	
+4-17	270-278	dringend	_	
+4-18	279-282	ein	_	
+4-19	283-296	Zebrastreifen	_	
+4-20	297-309	eingerichtet	_	
+4-21	310-316	werden	_	
+4-22	316-317	,	_	
+4-23	318-323	damit	_	
+4-24	324-330	Kinder	_	
+4-25	331-337	sicher	_	
+4-26	338-341	die	_	
+4-27	342-350	Fahrbahn	_	
+4-28	351-361	überqueren	_	
+4-29	362-368	können	_	
+4-30	368-369	.	_	

@@ -1,0 +1,29 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bushaltestelle
+1-1	0-14	Bushaltestelle	_	
+
+#Text=Durch die Kombination von Radweg, Bushaltestelle, unübersichtliche Ausfahrt und Rampe ergeben sich hier regelmäßig gefährliche Situationen.
+2-1	17-22	Durch	_	
+2-2	23-26	die	_	
+2-3	27-38	Kombination	_	
+2-4	39-42	von	_	
+2-5	43-49	Radweg	_	
+2-6	49-50	,	_	
+2-7	51-65	Bushaltestelle	_	
+2-8	65-66	,	_	
+2-9	67-83	unübersichtliche	_	
+2-10	84-92	Ausfahrt	_	
+2-11	93-96	und	_	
+2-12	97-102	Rampe	_	
+2-13	103-110	ergeben	_	
+2-14	111-115	sich	_	
+2-15	116-120	hier	_	
+2-16	121-131	regelmäßig	_	
+2-17	132-143	gefährliche	_	
+2-18	144-155	Situationen	_	
+2-19	155-156	.	_	

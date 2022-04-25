@@ -1,0 +1,161 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parker auf Radweg unter Brücke Ramersdorf / Bessere Radwegekennzeichnung & Ordnungsamt
+1-1	0-6	Parker	_	
+1-2	7-10	auf	*[9]	
+1-3	11-17	Radweg	*[9]	
+1-4	18-23	unter	*[9]	
+1-5	24-30	Brücke	*[9]	
+1-6	31-41	Ramersdorf	*[9]	
+1-7	42-43	/	_	
+1-8	44-51	Bessere	_	
+1-9	52-72	Radwegekennzeichnung	_	
+1-10	73-74	&	_	
+1-11	75-86	Ordnungsamt	_	
+
+#Text=Im Bereich des U-Bahnhofs Ramersdorf läuft unter der Brücke ein gut genutzter Radweg, der zwischen den dortigen Autoparkplätzen liegt.
+2-1	89-91	Im	_	
+2-2	92-99	Bereich	_	
+2-3	100-103	des	_	
+2-4	104-114	U-Bahnhofs	*[10]	
+2-5	115-125	Ramersdorf	*[10]	
+2-6	126-131	läuft	_	
+2-7	132-137	unter	_	
+2-8	138-141	der	_	
+2-9	142-148	Brücke	_	
+2-10	149-152	ein	_	
+2-11	153-156	gut	_	
+2-12	157-166	genutzter	_	
+2-13	167-173	Radweg	_	
+2-14	173-174	,	_	
+2-15	175-178	der	_	
+2-16	179-187	zwischen	_	
+2-17	188-191	den	_	
+2-18	192-200	dortigen	_	
+2-19	201-216	Autoparkplätzen	_	
+2-20	217-222	liegt	_	
+2-21	222-223	.	_	
+
+#Text=Da die legalen Parkplätze oft belegt sind, parken häufig Autofahrer auch auf dem Radweg, siehe https://goo.gl/evhw8h
+3-1	224-226	Da	_	
+3-2	227-230	die	_	
+3-3	231-238	legalen	_	
+3-4	239-249	Parkplätze	_	
+3-5	250-253	oft	_	
+3-6	254-260	belegt	_	
+3-7	261-265	sind	_	
+3-8	265-266	,	_	
+3-9	267-273	parken	_	
+3-10	274-280	häufig	_	
+3-11	281-291	Autofahrer	_	
+3-12	292-296	auch	_	
+3-13	297-300	auf	_	
+3-14	301-304	dem	_	
+3-15	305-311	Radweg	_	
+3-16	311-312	,	_	
+3-17	313-318	siehe	_	
+3-18	319-324	https	_	
+3-19	324-325	:	_	
+3-20	325-326	/	_	
+3-21	326-327	/	_	
+3-22	327-333	goo.gl	_	
+3-23	333-334	/	_	
+3-24	334-340	evhw8h	_	
+
+#Text=Der Radweg ist farblich kaum von anderen Flächen unterscheidbar, insbesondere morgens im Winter, wenn es noch dunkel ist.
+4-1	341-344	Der	_	
+4-2	345-351	Radweg	_	
+4-3	352-355	ist	_	
+4-4	356-364	farblich	_	
+4-5	365-369	kaum	_	
+4-6	370-373	von	_	
+4-7	374-381	anderen	_	
+4-8	382-389	Flächen	_	
+4-9	390-404	unterscheidbar	_	
+4-10	404-405	,	_	
+4-11	406-418	insbesondere	_	
+4-12	419-426	morgens	_	
+4-13	427-429	im	_	
+4-14	430-436	Winter	_	
+4-15	436-437	,	_	
+4-16	438-442	wenn	_	
+4-17	443-445	es	_	
+4-18	446-450	noch	_	
+4-19	451-457	dunkel	_	
+4-20	458-461	ist	_	
+4-21	461-462	.	_	
+
+#Text=Der Radweg müsste an dieser Stelle farblich besser erkennbar sein, z.B. im auffälligen Radwegeblau.
+5-1	463-466	Der	_	
+5-2	467-473	Radweg	_	
+5-3	474-480	müsste	_	
+5-4	481-483	an	_	
+5-5	484-490	dieser	_	
+5-6	491-497	Stelle	_	
+5-7	498-506	farblich	_	
+5-8	507-513	besser	_	
+5-9	514-523	erkennbar	_	
+5-10	524-528	sein	_	
+5-11	528-529	,	_	
+5-12	530-533	z.B	_	
+5-13	533-534	.	_	
+5-14	535-537	im	_	
+5-15	538-549	auffälligen	_	
+5-16	550-561	Radwegeblau	_	
+5-17	561-562	.	_	
+
+#Text=Zudem müsste das Ordnungsamt hier häufiger kontrollieren.
+6-1	563-568	Zudem	_	
+6-2	569-575	müsste	_	
+6-3	576-579	das	_	
+6-4	580-591	Ordnungsamt	_	
+6-5	592-596	hier	_	
+6-6	597-605	häufiger	_	
+6-7	606-619	kontrollieren	_	
+6-8	619-620	.	_	
+
+#Text=Gelegentlich erhalten die Falschparker 30 Euro Knöllchen, für meistens, da Berufspendler, 9-10 h Parken.
+7-1	621-633	Gelegentlich	_	
+7-2	634-642	erhalten	_	
+7-3	643-646	die	_	
+7-4	647-659	Falschparker	_	
+7-5	660-662	30	_	
+7-6	663-667	Euro	_	
+7-7	668-677	Knöllchen	_	
+7-8	677-678	,	_	
+7-9	679-682	für	_	
+7-10	683-691	meistens	_	
+7-11	691-692	,	_	
+7-12	693-695	da	_	
+7-13	696-709	Berufspendler	_	
+7-14	709-710	,	_	
+7-15	711-712	9	_	
+7-16	712-713	-	_	
+7-17	713-715	10	_	
+7-18	716-717	h	_	
+7-19	718-724	Parken	_	
+7-20	724-725	.	_	
+
+#Text=Ein lächerlicher Betrag, wenn man bedenkt, dass dafür mehrere hundert Radfahrer einen Umweg fahren mussten.
+8-1	726-729	Ein	_	
+8-2	730-742	lächerlicher	_	
+8-3	743-749	Betrag	_	
+8-4	749-750	,	_	
+8-5	751-755	wenn	_	
+8-6	756-759	man	_	
+8-7	760-767	bedenkt	_	
+8-8	767-768	,	_	
+8-9	769-773	dass	_	
+8-10	774-779	dafür	_	
+8-11	780-787	mehrere	_	
+8-12	788-795	hundert	_	
+8-13	796-805	Radfahrer	_	
+8-14	806-811	einen	_	
+8-15	812-817	Umweg	_	
+8-16	818-824	fahren	_	
+8-17	825-832	mussten	_	
+8-18	832-833	.	_	

@@ -1,0 +1,105 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gehwege sind Fahrradwege für Kinder unter 12 / Das scheint vielen nicht bekannt zu sein
+1-1	0-7	Gehwege	_	
+1-2	8-12	sind	_	
+1-3	13-24	Fahrradwege	_	
+1-4	25-28	für	_	
+1-5	29-35	Kinder	_	
+1-6	36-41	unter	_	
+1-7	42-44	12	_	
+1-8	45-46	/	_	
+1-9	47-50	Das	_	
+1-10	51-58	scheint	_	
+1-11	59-65	vielen	_	
+1-12	66-71	nicht	_	
+1-13	72-79	bekannt	_	
+1-14	80-82	zu	_	
+1-15	83-87	sein	_	
+
+#Text=Die Anmerkung gilt für die Stiftsstraße wie auch für zahlreiche anderen Straßen in der Stadt.
+2-1	90-93	Die	_	
+2-2	94-103	Anmerkung	_	
+2-3	104-108	gilt	_	
+2-4	109-112	für	_	
+2-5	113-116	die	*[7]	
+2-6	117-129	Stiftsstraße	*[7]	
+2-7	130-133	wie	_	
+2-8	134-138	auch	_	
+2-9	139-142	für	_	
+2-10	143-153	zahlreiche	_	
+2-11	154-161	anderen	_	
+2-12	162-169	Straßen	_	
+2-13	170-172	in	_	
+2-14	173-176	der	_	
+2-15	177-182	Stadt	_	
+2-16	182-183	.	_	
+
+#Text=Dass Gehwege für Kinder unter 12 Jahren vorgeschriebene Fahrradwege sind, scheint vielen Hauseigentümern und Autofahrern nicht bekannt zu sein.
+3-1	184-188	Dass	_	
+3-2	189-196	Gehwege	_	
+3-3	197-200	für	_	
+3-4	201-207	Kinder	_	
+3-5	208-213	unter	_	
+3-6	214-216	12	_	
+3-7	217-223	Jahren	_	
+3-8	224-239	vorgeschriebene	_	
+3-9	240-251	Fahrradwege	_	
+3-10	252-256	sind	_	
+3-11	256-257	,	_	
+3-12	258-265	scheint	_	
+3-13	266-272	vielen	_	
+3-14	273-288	Hauseigentümern	_	
+3-15	289-292	und	_	
+3-16	293-304	Autofahrern	_	
+3-17	305-310	nicht	_	
+3-18	311-318	bekannt	_	
+3-19	319-321	zu	_	
+3-20	322-326	sein	_	
+3-21	326-327	.	_	
+
+#Text=Mülltonnen und parkende Autos verstellen diese Wege im ganzen Stadtgebiet.
+4-1	328-338	Mülltonnen	_	
+4-2	339-342	und	_	
+4-3	343-351	parkende	_	
+4-4	352-357	Autos	_	
+4-5	358-368	verstellen	_	
+4-6	369-374	diese	_	
+4-7	375-379	Wege	_	
+4-8	380-382	im	_	
+4-9	383-389	ganzen	_	
+4-10	390-401	Stadtgebiet	_	
+4-11	401-402	.	_	
+
+#Text=Vielleicht hilft eine Aufklärungs-Aktion der Stadt, die darauf hinweist.
+5-1	403-413	Vielleicht	_	
+5-2	414-419	hilft	_	
+5-3	420-424	eine	_	
+5-4	425-443	Aufklärungs-Aktion	_	
+5-5	444-447	der	_	
+5-6	448-453	Stadt	_	
+5-7	453-454	,	_	
+5-8	455-458	die	_	
+5-9	459-465	darauf	_	
+5-10	466-474	hinweist	_	
+5-11	474-475	.	_	
+
+#Text=Flyer verteilt mit dem Müllkalender und erläuternde INfos auf Knöllchen wären eine Idee.
+6-1	476-481	Flyer	_	
+6-2	482-490	verteilt	_	
+6-3	491-494	mit	_	
+6-4	495-498	dem	_	
+6-5	499-511	Müllkalender	_	
+6-6	512-515	und	_	
+6-7	516-527	erläuternde	_	
+6-8	528-533	INfos	_	
+6-9	534-537	auf	_	
+6-10	538-547	Knöllchen	_	
+6-11	548-553	wären	_	
+6-12	554-558	eine	_	
+6-13	559-563	Idee	_	
+6-14	563-564	.	_	

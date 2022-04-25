@@ -1,0 +1,126 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radschutzstreifen auf der Venloer zwischen Äußere Kanalstraße und Gürtel
+1-1	0-17	Radschutzstreifen	_	
+1-2	18-21	auf	*[7]	
+1-3	22-25	der	*[7]	
+1-4	26-33	Venloer	*[7]	
+1-5	34-42	zwischen	*[7]	
+1-6	43-49	Äußere	*[7]	
+1-7	50-61	Kanalstraße	*[7]	
+1-8	62-65	und	*[7]	
+1-9	66-72	Gürtel	*[7]	
+
+#Text=Der Radweg entlang der Venloer Straße zwischen Äußere Kanalstraße und Gürtel ist ja offiziell kein Radweg mehr, weil die Radweg-Schilder demontiert wurden.
+2-1	75-78	Der	_	
+2-2	79-85	Radweg	_	
+2-3	86-93	entlang	*[8]	
+2-4	94-97	der	*[8]	
+2-5	98-105	Venloer	*[8]	
+2-6	106-112	Straße	*[8]	
+2-7	113-121	zwischen	*[8]	
+2-8	122-128	Äußere	*[8]	
+2-9	129-140	Kanalstraße	*[8]	
+2-10	141-144	und	*[8]	
+2-11	145-151	Gürtel	*[8]	
+2-12	152-155	ist	_	
+2-13	156-158	ja	_	
+2-14	159-168	offiziell	_	
+2-15	169-173	kein	_	
+2-16	174-180	Radweg	_	
+2-17	181-185	mehr	_	
+2-18	185-186	,	_	
+2-19	187-191	weil	_	
+2-20	192-195	die	_	
+2-21	196-211	Radweg-Schilder	_	
+2-22	212-222	demontiert	_	
+2-23	223-229	wurden	_	
+2-24	229-230	.	_	
+
+#Text=Er ist auch viel zu schmal als Radweg.
+3-1	231-233	Er	_	
+3-2	234-237	ist	_	
+3-3	238-242	auch	_	
+3-4	243-247	viel	_	
+3-5	248-250	zu	_	
+3-6	251-257	schmal	_	
+3-7	258-261	als	_	
+3-8	262-268	Radweg	_	
+3-9	268-269	.	_	
+
+#Text=Das ist aber den wenigsten klar und so fahren die meisten Radfahrer doch auf dem alten Radweg und damit offiziell auf dem Fußweg.
+4-1	270-273	Das	_	
+4-2	274-277	ist	_	
+4-3	278-282	aber	_	
+4-4	283-286	den	_	
+4-5	287-296	wenigsten	_	
+4-6	297-301	klar	_	
+4-7	302-305	und	_	
+4-8	306-308	so	_	
+4-9	309-315	fahren	_	
+4-10	316-319	die	_	
+4-11	320-327	meisten	_	
+4-12	328-337	Radfahrer	_	
+4-13	338-342	doch	_	
+4-14	343-346	auf	_	
+4-15	347-350	dem	_	
+4-16	351-356	alten	_	
+4-17	357-363	Radweg	_	
+4-18	364-367	und	_	
+4-19	368-373	damit	_	
+4-20	374-383	offiziell	_	
+4-21	384-387	auf	_	
+4-22	388-391	dem	_	
+4-23	392-398	Fußweg	_	
+4-24	398-399	.	_	
+
+#Text=Fährt man dagegen mit dem Rad auf der Straße, wird man von den Autofahreren mehr oder weniger freundlich darauf hingewiesen, dass man doch auf dem Radweg fahren solle.
+5-1	400-405	Fährt	_	
+5-2	406-409	man	_	
+5-3	410-417	dagegen	_	
+5-4	418-421	mit	_	
+5-5	422-425	dem	_	
+5-6	426-429	Rad	_	
+5-7	430-433	auf	_	
+5-8	434-437	der	_	
+5-9	438-444	Straße	_	
+5-10	444-445	,	_	
+5-11	446-450	wird	_	
+5-12	451-454	man	_	
+5-13	455-458	von	_	
+5-14	459-462	den	_	
+5-15	463-475	Autofahreren	_	
+5-16	476-480	mehr	_	
+5-17	481-485	oder	_	
+5-18	486-493	weniger	_	
+5-19	494-504	freundlich	_	
+5-20	505-511	darauf	_	
+5-21	512-523	hingewiesen	_	
+5-22	523-524	,	_	
+5-23	525-529	dass	_	
+5-24	530-533	man	_	
+5-25	534-538	doch	_	
+5-26	539-542	auf	_	
+5-27	543-546	dem	_	
+5-28	547-553	Radweg	_	
+5-29	554-560	fahren	_	
+5-30	561-566	solle	_	
+5-31	566-567	.	_	
+
+#Text=Hier sollte ein Radschutzstreifen markiert werden, um Abhilfe zu schaffen.
+6-1	568-572	Hier	_	
+6-2	573-579	sollte	_	
+6-3	580-583	ein	_	
+6-4	584-601	Radschutzstreifen	_	
+6-5	602-610	markiert	_	
+6-6	611-617	werden	_	
+6-7	617-618	,	_	
+6-8	619-621	um	_	
+6-9	622-629	Abhilfe	_	
+6-10	630-632	zu	_	
+6-11	633-641	schaffen	_	
+6-12	641-642	.	_	

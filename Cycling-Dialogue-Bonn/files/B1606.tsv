@@ -1,0 +1,81 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Markierung für Radwegabzweig
+1-1	0-10	Markierung	_	
+1-2	11-14	für	_	
+1-3	15-28	Radwegabzweig	_	
+
+#Text=An dieser Stelle beginnt der Radweg am Rheindorfer Bach entlang.
+2-1	31-33	An	_	
+2-2	34-40	dieser	_	
+2-3	41-47	Stelle	_	
+2-4	48-55	beginnt	_	
+2-5	56-59	der	*[6]	
+2-6	60-66	Radweg	*[6]	
+2-7	67-69	am	*[6]	
+2-8	70-81	Rheindorfer	*[6]	
+2-9	82-86	Bach	*[6]	
+2-10	87-94	entlang	*[6]	
+2-11	94-95	.	_	
+
+#Text=Kommt man aus der Straße Am Probsthof, biegt man links ab und dann direkt an der Fußgängerampel rechts in den Radweg am Bach entlang.
+3-1	96-101	Kommt	_	
+3-2	102-105	man	_	
+3-3	106-109	aus	*[7]	
+3-4	110-113	der	*[7]	
+3-5	114-120	Straße	*[7]	
+3-6	121-123	Am	*[7]	
+3-7	124-133	Probsthof	*[7]	
+3-8	133-134	,	*[7]	
+3-9	135-140	biegt	*[7]	
+3-10	141-144	man	*[7]	
+3-11	145-150	links	*[7]	
+3-12	151-153	ab	*[7]	
+3-13	154-157	und	*[7]	
+3-14	158-162	dann	*[7]	
+3-15	163-169	direkt	*[7]	
+3-16	170-172	an	*[7]	
+3-17	173-176	der	*[7]	
+3-18	177-191	Fußgängerampel	*[7]	
+3-19	192-198	rechts	*[7]	
+3-20	199-201	in	*[7]	
+3-21	202-205	den	*[7]	
+3-22	206-212	Radweg	*[7]	
+3-23	213-215	am	*[7]	
+3-24	216-220	Bach	*[7]	
+3-25	221-228	entlang	*[7]	
+3-26	228-229	.	_	
+
+#Text=Dies irritiert öfters nachfolgende Autofahrer.
+4-1	230-234	Dies	_	
+4-2	235-244	irritiert	_	
+4-3	245-251	öfters	_	
+4-4	252-264	nachfolgende	_	
+4-5	265-275	Autofahrer	_	
+4-6	275-276	.	_	
+
+#Text=Ich würde mir eine Markierung auf der Straße wünschen, die deutlich macht, dass hier ein Radweg abzweigt.
+5-1	277-280	Ich	_	
+5-2	281-286	würde	_	
+5-3	287-290	mir	_	
+5-4	291-295	eine	_	
+5-5	296-306	Markierung	_	
+5-6	307-310	auf	_	
+5-7	311-314	der	_	
+5-8	315-321	Straße	_	
+5-9	322-330	wünschen	_	
+5-10	330-331	,	_	
+5-11	332-335	die	_	
+5-12	336-344	deutlich	_	
+5-13	345-350	macht	_	
+5-14	350-351	,	_	
+5-15	352-356	dass	_	
+5-16	357-361	hier	_	
+5-17	362-365	ein	_	
+5-18	366-372	Radweg	_	
+5-19	373-381	abzweigt	_	
+5-20	381-382	.	_	

@@ -1,0 +1,137 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=unsinnige Radwegsführung, unklare Vorfahrtsregel
+1-1	0-9	unsinnige	_	
+1-2	10-24	Radwegsführung	_	
+1-3	24-25	,	_	
+1-4	26-33	unklare	_	
+1-5	34-48	Vorfahrtsregel	_	
+
+#Text=Kommend von der Werftstraße Richtung Hafen wird der Radweg für rund 15 Meter auf den Bürgersteig geführt, um dann unmittelbar an der Kreuzung wieder auf die Straße zurückgeführt zu werden.
+2-1	51-58	Kommend	*[9]	
+2-2	59-62	von	*[9]	
+2-3	63-66	der	*[9]	
+2-4	67-78	Werftstraße	*[9]	
+2-5	79-87	Richtung	*[9]	
+2-6	88-93	Hafen	*[9]	
+2-7	94-98	wird	_	
+2-8	99-102	der	_	
+2-9	103-109	Radweg	_	
+2-10	110-113	für	_	
+2-11	114-118	rund	_	
+2-12	119-121	15	_	
+2-13	122-127	Meter	_	
+2-14	128-131	auf	_	
+2-15	132-135	den	_	
+2-16	136-147	Bürgersteig	_	
+2-17	148-155	geführt	_	
+2-18	155-156	,	_	
+2-19	157-159	um	_	
+2-20	160-164	dann	_	
+2-21	165-176	unmittelbar	_	
+2-22	177-179	an	_	
+2-23	180-183	der	_	
+2-24	184-192	Kreuzung	_	
+2-25	193-199	wieder	_	
+2-26	200-203	auf	_	
+2-27	204-207	die	_	
+2-28	208-214	Straße	_	
+2-29	215-228	zurückgeführt	_	
+2-30	229-231	zu	_	
+2-31	232-238	werden	_	
+2-32	238-239	.	_	
+
+#Text=Das ist unsinnig und gefährlich.
+3-1	240-243	Das	_	
+3-2	244-247	ist	_	
+3-3	248-256	unsinnig	_	
+3-4	257-260	und	_	
+3-5	261-271	gefährlich	_	
+3-6	271-272	.	_	
+
+#Text=Die Vorfahrtsregelung direkt vor der Hafeneinfahrt ist mir unklar, insbesondere aus Graurheindorf Richtung Bonn Innenstadt kommend.
+4-1	273-276	Die	_	
+4-2	277-294	Vorfahrtsregelung	_	
+4-3	295-301	direkt	_	
+4-4	302-305	vor	_	
+4-5	306-309	der	_	
+4-6	310-323	Hafeneinfahrt	_	
+4-7	324-327	ist	_	
+4-8	328-331	mir	_	
+4-9	332-338	unklar	_	
+4-10	338-339	,	_	
+4-11	340-352	insbesondere	_	
+4-12	353-356	aus	*[10]	
+4-13	357-370	Graurheindorf	*[10]	
+4-14	371-379	Richtung	*[10]	
+4-15	380-384	Bonn	*[10]	
+4-16	385-395	Innenstadt	*[10]	
+4-17	396-403	kommend	*[10]	
+4-18	403-404	.	_	
+
+#Text=Auch viele Autofahrer reagieren hier unsicher.
+5-1	405-409	Auch	_	
+5-2	410-415	viele	_	
+5-3	416-426	Autofahrer	_	
+5-4	427-436	reagieren	_	
+5-5	437-441	hier	_	
+5-6	442-450	unsicher	_	
+5-7	450-451	.	_	
+
+#Text=Eigentlich müsste rechts vor links gelten, gleichzeitig scheinen aber die Fahrer auf der Karl-Legien-Straße Vorfahrt zu haben.
+6-1	452-462	Eigentlich	_	
+6-2	463-469	müsste	_	
+6-3	470-476	rechts	_	
+6-4	477-480	vor	_	
+6-5	481-486	links	_	
+6-6	487-493	gelten	_	
+6-7	493-494	,	_	
+6-8	495-507	gleichzeitig	_	
+6-9	508-516	scheinen	_	
+6-10	517-521	aber	_	
+6-11	522-525	die	_	
+6-12	526-532	Fahrer	_	
+6-13	533-536	auf	*[11]	
+6-14	537-540	der	*[11]	
+6-15	541-559	Karl-Legien-Straße	*[11]	
+6-16	560-568	Vorfahrt	_	
+6-17	569-571	zu	_	
+6-18	572-577	haben	_	
+6-19	577-578	.	_	
+
+#Text=Da hier sehr viel Lieferverkehr (u.a. Container-LKWs) ist, fahre ich hier generell sehr defensiv.
+7-1	579-581	Da	_	
+7-2	582-586	hier	_	
+7-3	587-591	sehr	_	
+7-4	592-596	viel	_	
+7-5	597-610	Lieferverkehr	_	
+7-6	611-612	(	_	
+7-7	612-615	u.a	_	
+7-8	615-616	.	_	
+7-9	617-631	Container-LKWs	_	
+7-10	631-632	)	_	
+7-11	633-636	ist	_	
+7-12	636-637	,	_	
+7-13	638-643	fahre	_	
+7-14	644-647	ich	_	
+7-15	648-652	hier	_	
+7-16	653-661	generell	_	
+7-17	662-666	sehr	_	
+7-18	667-675	defensiv	_	
+7-19	675-676	.	_	
+
+#Text=Eine klarere Regelung über Schilder wäre sehr zu begrüßen.
+8-1	677-681	Eine	_	
+8-2	682-689	klarere	_	
+8-3	690-698	Regelung	_	
+8-4	699-703	über	_	
+8-5	704-712	Schilder	_	
+8-6	713-717	wäre	_	
+8-7	718-722	sehr	_	
+8-8	723-725	zu	_	
+8-9	726-734	begrüßen	_	
+8-10	734-735	.	_	

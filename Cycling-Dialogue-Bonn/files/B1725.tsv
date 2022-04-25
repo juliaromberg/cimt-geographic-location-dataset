@@ -1,0 +1,63 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Straßenbeleuchtung installieren
+1-1	0-18	Straßenbeleuchtung	_	
+1-2	19-31	installieren	_	
+
+#Text=Die Annaberger Straße ist ab den letzten Häusern von Friesdorf komplett unbeleuchtet und im Winter abends stockdunkel.
+2-1	34-37	Die	*[4]	
+2-2	38-48	Annaberger	*[4]	
+2-3	49-55	Straße	*[4]	
+2-4	56-59	ist	_	
+2-5	60-62	ab	*[5]	
+2-6	63-66	den	*[5]	
+2-7	67-74	letzten	*[5]	
+2-8	75-82	Häusern	*[5]	
+2-9	83-86	von	*[5]	
+2-10	87-96	Friesdorf	*[5]	
+2-11	97-105	komplett	_	
+2-12	106-118	unbeleuchtet	_	
+2-13	119-122	und	_	
+2-14	123-125	im	_	
+2-15	126-132	Winter	_	
+2-16	133-139	abends	_	
+2-17	140-151	stockdunkel	_	
+2-18	151-152	.	_	
+
+#Text=Straßenbeleuchtung bis Ippendorf (Annaberger Str. - Annaberger Weg - Gudenauer Weg) würden den Weg - neben einer befahrbaren Oberfläche - viel attraktiver für Radfahrer und besonders Radfahrerinnen machen.
+3-1	153-171	Straßenbeleuchtung	_	
+3-2	172-175	bis	*[6]	
+3-3	176-185	Ippendorf	*[6]	
+3-4	186-187	(	*[6]	
+3-5	187-197	Annaberger	*[6]	
+3-6	198-201	Str	*[6]	
+3-7	201-202	.	*[6]	
+3-8	203-204	-	*[6]	
+3-9	205-215	Annaberger	*[6]	
+3-10	216-219	Weg	*[6]	
+3-11	220-221	-	*[6]	
+3-12	222-231	Gudenauer	*[6]	
+3-13	232-235	Weg	*[6]	
+3-14	235-236	)	*[6]	
+3-15	237-243	würden	_	
+3-16	244-247	den	_	
+3-17	248-251	Weg	_	
+3-18	252-253	-	_	
+3-19	254-259	neben	_	
+3-20	260-265	einer	_	
+3-21	266-277	befahrbaren	_	
+3-22	278-288	Oberfläche	_	
+3-23	289-290	-	_	
+3-24	291-295	viel	_	
+3-25	296-307	attraktiver	_	
+3-26	308-311	für	_	
+3-27	312-321	Radfahrer	_	
+3-28	322-325	und	_	
+3-29	326-335	besonders	_	
+3-30	336-350	Radfahrerinnen	_	
+3-31	351-357	machen	_	
+3-32	357-358	.	_	

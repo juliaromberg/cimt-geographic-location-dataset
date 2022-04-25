@@ -1,0 +1,209 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelschaltung gefährlich für Schulkinder!
+1-1	0-14	Ampelschaltung	_	
+1-2	15-25	gefährlich	_	
+1-3	26-29	für	_	
+1-4	30-41	Schulkinder	_	
+1-5	41-42	!	_	
+
+#Text=An dieser Ampel ist morgens ein reges Treiben vieler Schulkinder in Richtung der Grundschule, zu Fuß und mit dem Fahrrad.
+2-1	45-47	An	_	
+2-2	48-54	dieser	_	
+2-3	55-60	Ampel	_	
+2-4	61-64	ist	_	
+2-5	65-72	morgens	_	
+2-6	73-76	ein	_	
+2-7	77-82	reges	_	
+2-8	83-90	Treiben	_	
+2-9	91-97	vieler	_	
+2-10	98-109	Schulkinder	_	
+2-11	110-112	in	_	
+2-12	113-121	Richtung	_	
+2-13	122-125	der	_	
+2-14	126-137	Grundschule	_	
+2-15	137-138	,	_	
+2-16	139-141	zu	_	
+2-17	142-145	Fuß	_	
+2-18	146-149	und	_	
+2-19	150-153	mit	_	
+2-20	154-157	dem	_	
+2-21	158-165	Fahrrad	_	
+2-22	165-166	.	_	
+
+#Text=Leider ist diese Ampel prioritär für den (sehr vielen!) Autoverkehr geschaltet.
+3-1	167-173	Leider	_	
+3-2	174-177	ist	_	
+3-3	178-183	diese	_	
+3-4	184-189	Ampel	_	
+3-5	190-199	prioritär	_	
+3-6	200-203	für	_	
+3-7	204-207	den	_	
+3-8	208-209	(	_	
+3-9	209-213	sehr	_	
+3-10	214-220	vielen	_	
+3-11	220-221	!	_	
+3-12	221-222	)	_	
+3-13	223-234	Autoverkehr	_	
+3-14	235-245	geschaltet	_	
+3-15	245-246	.	_	
+
+#Text=Man wartet manchmal wirklich sehr sehr lange.
+4-1	247-250	Man	_	
+4-2	251-257	wartet	_	
+4-3	258-266	manchmal	_	
+4-4	267-275	wirklich	_	
+4-5	276-280	sehr	_	
+4-6	281-285	sehr	_	
+4-7	286-291	lange	_	
+4-8	291-292	.	_	
+
+#Text=Die Kinder werden dann zu Recht sehr ungeduldig und rennen blinlings los, sobald es grün wird.
+5-1	293-296	Die	_	
+5-2	297-303	Kinder	_	
+5-3	304-310	werden	_	
+5-4	311-315	dann	_	
+5-5	316-318	zu	_	
+5-6	319-324	Recht	_	
+5-7	325-329	sehr	_	
+5-8	330-340	ungeduldig	_	
+5-9	341-344	und	_	
+5-10	345-351	rennen	_	
+5-11	352-361	blinlings	_	
+5-12	362-365	los	_	
+5-13	365-366	,	_	
+5-14	367-373	sobald	_	
+5-15	374-376	es	_	
+5-16	377-381	grün	_	
+5-17	382-386	wird	_	
+5-18	386-387	.	_	
+
+#Text=Leider sind viele Autofahrer aufgrund des Staus jeden Morgen (zu Recht) sehr gestresst und unaufmerksam und wirklich viele fahren über Rot!
+6-1	388-394	Leider	_	
+6-2	395-399	sind	_	
+6-3	400-405	viele	_	
+6-4	406-416	Autofahrer	_	
+6-5	417-425	aufgrund	_	
+6-6	426-429	des	_	
+6-7	430-435	Staus	_	
+6-8	436-441	jeden	_	
+6-9	442-448	Morgen	_	
+6-10	449-450	(	_	
+6-11	450-452	zu	_	
+6-12	453-458	Recht	_	
+6-13	458-459	)	_	
+6-14	460-464	sehr	_	
+6-15	465-474	gestresst	_	
+6-16	475-478	und	_	
+6-17	479-491	unaufmerksam	_	
+6-18	492-495	und	_	
+6-19	496-504	wirklich	_	
+6-20	505-510	viele	_	
+6-21	511-517	fahren	_	
+6-22	518-522	über	_	
+6-23	523-526	Rot	_	
+6-24	526-527	!	_	
+
+#Text=Jedes Jahr gibt es hier sehr (!!!) knappe Situationen!
+7-1	528-533	Jedes	_	
+7-2	534-538	Jahr	_	
+7-3	539-543	gibt	_	
+7-4	544-546	es	_	
+7-5	547-551	hier	_	
+7-6	552-556	sehr	_	
+7-7	557-558	(	_	
+7-8	558-559	!	_	
+7-9	559-560	!	_	
+7-10	560-561	!	_	
+7-11	561-562	)	_	
+7-12	563-569	knappe	_	
+7-13	570-581	Situationen	_	
+7-14	581-582	!	_	
+
+#Text=Hier sollte:
+8-1	583-587	Hier	_	
+8-2	588-594	sollte	_	
+8-3	594-595	:	_	
+
+#Text=- mindestens sehr streng kontrolliert werden, am besten geblitzt!
+9-1	596-597	-	_	
+9-2	598-608	mindestens	_	
+9-3	609-613	sehr	_	
+9-4	614-620	streng	_	
+9-5	621-633	kontrolliert	_	
+9-6	634-640	werden	_	
+9-7	640-641	,	_	
+9-8	642-644	am	_	
+9-9	645-651	besten	_	
+9-10	652-660	geblitzt	_	
+9-11	660-661	!	_	
+
+#Text=- oder noch besser, die Ampel-Priorität den Fußgängern/Radfahrern gegeben werden (ggf. nur morgens zwischen 07:45 und 08:30) Vorbild ist hier die Ampel am Bonner Talweg/Ecke Netto-Garage.
+10-1	662-663	-	_	
+10-2	664-668	oder	_	
+10-3	669-673	noch	_	
+10-4	674-680	besser	_	
+10-5	680-681	,	_	
+10-6	682-685	die	_	
+10-7	686-701	Ampel-Priorität	_	
+10-8	702-705	den	_	
+10-9	706-716	Fußgängern	_	
+10-10	716-717	/	_	
+10-11	717-727	Radfahrern	_	
+10-12	728-735	gegeben	_	
+10-13	736-742	werden	_	
+10-14	743-744	(	_	
+10-15	744-747	ggf	_	
+10-16	747-748	.	_	
+10-17	749-752	nur	_	
+10-18	753-760	morgens	_	
+10-19	761-769	zwischen	_	
+10-20	770-772	07	_	
+10-21	772-773	:	_	
+10-22	773-775	45	_	
+10-23	776-779	und	_	
+10-24	780-782	08	_	
+10-25	782-783	:	_	
+10-26	783-785	30	_	
+10-27	785-786	)	_	
+10-28	787-794	Vorbild	_	
+10-29	795-798	ist	_	
+10-30	799-803	hier	_	
+10-31	804-807	die	*[12]	
+10-32	808-813	Ampel	*[12]	
+10-33	814-816	am	*[12]	
+10-34	817-823	Bonner	*[12]	
+10-35	824-830	Talweg	*[12]	
+10-36	830-831	/	*[12]	
+10-37	831-835	Ecke	*[12]	
+10-38	836-848	Netto-Garage	*[12]	
+10-39	848-849	.	_	
+
+#Text=Sobald gedrückt, wird es für die Autos auch schon rot... und 10 Sekunden später gehts schon wieder weiter.
+11-1	850-856	Sobald	_	
+11-2	857-865	gedrückt	_	
+11-3	865-866	,	_	
+11-4	867-871	wird	_	
+11-5	872-874	es	_	
+11-6	875-878	für	_	
+11-7	879-882	die	_	
+11-8	883-888	Autos	_	
+11-9	889-893	auch	_	
+11-10	894-899	schon	_	
+11-11	900-903	rot	_	
+11-12	903-904	.	_	
+11-13	904-905	.	_	
+11-14	905-906	.	_	
+11-15	907-910	und	_	
+11-16	911-913	10	_	
+11-17	914-922	Sekunden	_	
+11-18	923-929	später	_	
+11-19	930-935	gehts	_	
+11-20	936-941	schon	_	
+11-21	942-948	wieder	_	
+11-22	949-955	weiter	_	
+11-23	955-956	.	_	

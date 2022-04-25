@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Umlaufsperre (Drängelgitter) anpassen
+1-1	0-12	Umlaufsperre	_	
+1-2	13-14	(	_	
+1-3	14-27	Drängelgitter	_	
+1-4	27-28	)	_	
+1-5	29-37	anpassen	_	
+
+#Text=Die Umlaufsperre ist sehr eng und mit Fahrradanhänger kaum passierbar.
+2-1	40-43	Die	_	
+2-2	44-56	Umlaufsperre	_	
+2-3	57-60	ist	_	
+2-4	61-65	sehr	_	
+2-5	66-69	eng	_	
+2-6	70-73	und	_	
+2-7	74-77	mit	_	
+2-8	78-93	Fahrradanhänger	_	
+2-9	94-98	kaum	_	
+2-10	99-109	passierbar	_	
+2-11	109-110	.	_	
+
+#Text=Außerdem muss man teilweise auf den unbefestigten Randstreifen ausweichen (Sturzgefahr).
+3-1	111-119	Außerdem	_	
+3-2	120-124	muss	_	
+3-3	125-128	man	_	
+3-4	129-138	teilweise	_	
+3-5	139-142	auf	_	
+3-6	143-146	den	_	
+3-7	147-160	unbefestigten	_	
+3-8	161-173	Randstreifen	_	
+3-9	174-184	ausweichen	_	
+3-10	185-186	(	_	
+3-11	186-197	Sturzgefahr	_	
+3-12	197-198	)	_	
+3-13	198-199	.	_	
+
+#Text=Die Umlaufsperre bitte anpassen.
+4-1	200-203	Die	_	
+4-2	204-216	Umlaufsperre	_	
+4-3	217-222	bitte	_	
+4-4	223-231	anpassen	_	
+4-5	231-232	.	_	
+
+#Text=Sie darf nicht abgebaut werden, da der Weg ansonsten zu einer Rennstrecke, insbesondere für Motorroller, wird.
+5-1	233-236	Sie	_	
+5-2	237-241	darf	_	
+5-3	242-247	nicht	_	
+5-4	248-256	abgebaut	_	
+5-5	257-263	werden	_	
+5-6	263-264	,	_	
+5-7	265-267	da	_	
+5-8	268-271	der	_	
+5-9	272-275	Weg	_	
+5-10	276-285	ansonsten	_	
+5-11	286-288	zu	_	
+5-12	289-294	einer	_	
+5-13	295-306	Rennstrecke	_	
+5-14	306-307	,	_	
+5-15	308-320	insbesondere	_	
+5-16	321-324	für	_	
+5-17	325-336	Motorroller	_	
+5-18	336-337	,	_	
+5-19	338-342	wird	_	
+5-20	342-343	.	_	

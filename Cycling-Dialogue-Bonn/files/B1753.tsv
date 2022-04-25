@@ -1,0 +1,86 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hindernis schlecht durchdacht
+1-1	0-9	Hindernis	_	
+1-2	10-18	schlecht	_	
+1-3	19-29	durchdacht	_	
+
+#Text=Diese Route ist die beste Verbindung von der Stadt nach Lengsdorf, Duisdorf und Hardtberg und ist verkehrsreich.
+2-1	32-37	Diese	_	
+2-2	38-43	Route	_	
+2-3	44-47	ist	_	
+2-4	48-51	die	_	
+2-5	52-57	beste	_	
+2-6	58-68	Verbindung	_	
+2-7	69-72	von	*[5]	
+2-8	73-76	der	*[5]	
+2-9	77-82	Stadt	*[5]	
+2-10	83-87	nach	*[5]	
+2-11	88-97	Lengsdorf	*[5]	
+2-12	97-98	,	*[5]	
+2-13	99-107	Duisdorf	*[5]	
+2-14	108-111	und	*[5]	
+2-15	112-121	Hardtberg	*[5]	
+2-16	122-125	und	_	
+2-17	126-129	ist	_	
+2-18	130-143	verkehrsreich	_	
+2-19	143-144	.	_	
+
+#Text=Das Tor an dieser Stelle ist schlecht konstruiert, so dass der Radfahrer absteigen muss um es zu bedienen.
+3-1	145-148	Das	_	
+3-2	149-152	Tor	_	
+3-3	153-155	an	_	
+3-4	156-162	dieser	_	
+3-5	163-169	Stelle	_	
+3-6	170-173	ist	_	
+3-7	174-182	schlecht	_	
+3-8	183-194	konstruiert	_	
+3-9	194-195	,	_	
+3-10	196-198	so	_	
+3-11	199-203	dass	_	
+3-12	204-207	der	_	
+3-13	208-217	Radfahrer	_	
+3-14	218-227	absteigen	_	
+3-15	228-232	muss	_	
+3-16	233-235	um	_	
+3-17	236-238	es	_	
+3-18	239-241	zu	_	
+3-19	242-250	bedienen	_	
+3-20	250-251	.	_	
+
+#Text=Es muss einfach entfernt werden und ein kleiner Kreisverkehr soll an der Kreuzung angebracht werden, um Autos zu verlangsamen und den Radfahrern eine normale Interaktion im Straßenverkehr zu ermöglichen.
+4-1	252-254	Es	_	
+4-2	255-259	muss	_	
+4-3	260-267	einfach	_	
+4-4	268-276	entfernt	_	
+4-5	277-283	werden	_	
+4-6	284-287	und	_	
+4-7	288-291	ein	_	
+4-8	292-299	kleiner	_	
+4-9	300-312	Kreisverkehr	_	
+4-10	313-317	soll	_	
+4-11	318-320	an	_	
+4-12	321-324	der	_	
+4-13	325-333	Kreuzung	_	
+4-14	334-344	angebracht	_	
+4-15	345-351	werden	_	
+4-16	351-352	,	_	
+4-17	353-355	um	_	
+4-18	356-361	Autos	_	
+4-19	362-364	zu	_	
+4-20	365-377	verlangsamen	_	
+4-21	378-381	und	_	
+4-22	382-385	den	_	
+4-23	386-396	Radfahrern	_	
+4-24	397-401	eine	_	
+4-25	402-409	normale	_	
+4-26	410-421	Interaktion	_	
+4-27	422-424	im	_	
+4-28	425-439	Straßenverkehr	_	
+4-29	440-442	zu	_	
+4-30	443-454	ermöglichen	_	
+4-31	454-455	.	_	

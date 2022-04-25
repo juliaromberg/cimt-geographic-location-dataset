@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=(Mini)-Kreisel als Querungshilfe für die Wurzerstraße
+1-1	0-1	(	_	
+1-2	1-5	Mini	_	
+1-3	5-6	)	_	
+1-4	6-7	-	_	
+1-5	7-14	Kreisel	_	
+1-6	15-18	als	_	
+1-7	19-32	Querungshilfe	_	
+1-8	33-36	für	_	
+1-9	37-40	die	*[5]	
+1-10	41-53	Wurzerstraße	*[5]	
+
+#Text=Es ist sehr schwierig die Wurzerstraße an dieser Stelle zu überqueren - die Autos fahren zu schnell, die Situation ist unübersichtlich.
+2-1	56-58	Es	_	
+2-2	59-62	ist	_	
+2-3	63-67	sehr	_	
+2-4	68-77	schwierig	_	
+2-5	78-81	die	*[6]	
+2-6	82-94	Wurzerstraße	*[6]	
+2-7	95-97	an	_	
+2-8	98-104	dieser	_	
+2-9	105-111	Stelle	_	
+2-10	112-114	zu	_	
+2-11	115-125	überqueren	_	
+2-12	126-127	-	_	
+2-13	128-131	die	_	
+2-14	132-137	Autos	_	
+2-15	138-144	fahren	_	
+2-16	145-147	zu	_	
+2-17	148-155	schnell	_	
+2-18	155-156	,	_	
+2-19	157-160	die	_	
+2-20	161-170	Situation	_	
+2-21	171-174	ist	_	
+2-22	175-190	unübersichtlich	_	
+2-23	190-191	.	_	
+
+#Text=Ein (Mini)-Kreisel wäre hier eine große Hilfe, da die Autos die Kreuzung langsamer anfahren würden.
+3-1	192-195	Ein	_	
+3-2	196-197	(	_	
+3-3	197-201	Mini	_	
+3-4	201-202	)	_	
+3-5	202-203	-	_	
+3-6	203-210	Kreisel	_	
+3-7	211-215	wäre	_	
+3-8	216-220	hier	_	
+3-9	221-225	eine	_	
+3-10	226-231	große	_	
+3-11	232-237	Hilfe	_	
+3-12	237-238	,	_	
+3-13	239-241	da	_	
+3-14	242-245	die	_	
+3-15	246-251	Autos	_	
+3-16	252-255	die	_	
+3-17	256-264	Kreuzung	_	
+3-18	265-274	langsamer	_	
+3-19	275-283	anfahren	_	
+3-20	284-290	würden	_	
+3-21	290-291	.	_	
+
+#Text=Das Villenviertel und Neu-Plittersdorf würden damit besser verbunden.
+4-1	292-295	Das	*[7]	
+4-2	296-309	Villenviertel	*[7]	
+4-3	310-313	und	*[7]	
+4-4	314-330	Neu-Plittersdorf	*[7]	
+4-5	331-337	würden	_	
+4-6	338-343	damit	_	
+4-7	344-350	besser	_	
+4-8	351-360	verbunden	_	
+4-9	360-361	.	_	

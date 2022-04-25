@@ -1,0 +1,33 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwege von extrem schlechter Qualität.
+1-1	0-7	Radwege	_	
+1-2	8-11	von	_	
+1-3	12-18	extrem	_	
+1-4	19-29	schlechter	_	
+1-5	30-38	Qualität	_	
+1-6	38-39	.	_	
+
+#Text=Der Radweg auf dem Ehrenfeld Gürtel und Melatengürtel ist von extrem schlechter Qualität und viel zu schmal.
+2-1	42-45	Der	_	
+2-2	46-52	Radweg	_	
+2-3	53-56	auf	*[3]	
+2-4	57-60	dem	*[3]	
+2-5	61-70	Ehrenfeld	*[3]	
+2-6	71-77	Gürtel	*[3]	
+2-7	78-81	und	*[3]	
+2-8	82-95	Melatengürtel	*[3]	
+2-9	96-99	ist	_	
+2-10	100-103	von	_	
+2-11	104-110	extrem	_	
+2-12	111-121	schlechter	_	
+2-13	122-130	Qualität	_	
+2-14	131-134	und	_	
+2-15	135-139	viel	_	
+2-16	140-142	zu	_	
+2-17	143-149	schmal	_	
+2-18	149-150	.	_	

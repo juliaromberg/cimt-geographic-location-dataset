@@ -1,0 +1,82 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Autofreie Innenstadt
+1-1	0-9	Autofreie	_	
+1-2	10-20	Innenstadt	_	
+
+#Text=Eine Stadt, die Fahrradhauptstadt werden will, kann doch auch mal den großen Wurf wagen: Kein Autoverkehr in der Innenstadt, nur Fahrrad und (verbesserter) öffentlicher Nahverkehr plus Pendlerparkplätze.
+2-1	23-27	Eine	_	
+2-2	28-33	Stadt	_	
+2-3	33-34	,	_	
+2-4	35-38	die	_	
+2-5	39-56	Fahrradhauptstadt	_	
+2-6	57-63	werden	_	
+2-7	64-68	will	_	
+2-8	68-69	,	_	
+2-9	70-74	kann	_	
+2-10	75-79	doch	_	
+2-11	80-84	auch	_	
+2-12	85-88	mal	_	
+2-13	89-92	den	_	
+2-14	93-99	großen	_	
+2-15	100-104	Wurf	_	
+2-16	105-110	wagen	_	
+2-17	110-111	:	_	
+2-18	112-116	Kein	_	
+2-19	117-128	Autoverkehr	_	
+2-20	129-131	in	*[4]	
+2-21	132-135	der	*[4]	
+2-22	136-146	Innenstadt	*[4]	
+2-23	146-147	,	_	
+2-24	148-151	nur	_	
+2-25	152-159	Fahrrad	_	
+2-26	160-163	und	_	
+2-27	164-165	(	_	
+2-28	165-177	verbesserter	_	
+2-29	177-178	)	_	
+2-30	179-191	öffentlicher	_	
+2-31	192-202	Nahverkehr	_	
+2-32	203-207	plus	_	
+2-33	208-225	Pendlerparkplätze	_	
+2-34	225-226	.	_	
+
+#Text=Der Verkehr in der Innenstadt ist so aggressiv geworden, gerade die Premiumklasse gibt oft gnadenlos Gas ohne Rücksicht auf Fahrradfahrer, die zur Seite springen dürfen und erst recht ohne Rücksicht auf Kinder.
+3-1	227-230	Der	_	
+3-2	231-238	Verkehr	_	
+3-3	239-241	in	*[5]	
+3-4	242-245	der	*[5]	
+3-5	246-256	Innenstadt	*[5]	
+3-6	257-260	ist	_	
+3-7	261-263	so	_	
+3-8	264-273	aggressiv	_	
+3-9	274-282	geworden	_	
+3-10	282-283	,	_	
+3-11	284-290	gerade	_	
+3-12	291-294	die	_	
+3-13	295-308	Premiumklasse	_	
+3-14	309-313	gibt	_	
+3-15	314-317	oft	_	
+3-16	318-327	gnadenlos	_	
+3-17	328-331	Gas	_	
+3-18	332-336	ohne	_	
+3-19	337-346	Rücksicht	_	
+3-20	347-350	auf	_	
+3-21	351-364	Fahrradfahrer	_	
+3-22	364-365	,	_	
+3-23	366-369	die	_	
+3-24	370-373	zur	_	
+3-25	374-379	Seite	_	
+3-26	380-388	springen	_	
+3-27	389-395	dürfen	_	
+3-28	396-399	und	_	
+3-29	400-404	erst	_	
+3-30	405-410	recht	_	
+3-31	411-415	ohne	_	
+3-32	416-425	Rücksicht	_	
+3-33	426-429	auf	_	
+3-34	430-436	Kinder	_	
+3-35	436-437	.	_	

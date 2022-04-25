@@ -1,0 +1,122 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Endlich Ahndung von Überholen ohne Sicherheitsabstand
+1-1	0-7	Endlich	_	
+1-2	8-15	Ahndung	_	
+1-3	16-19	von	_	
+1-4	20-29	Überholen	_	
+1-5	30-34	ohne	_	
+1-6	35-53	Sicherheitsabstand	_	
+
+#Text=Der Lahnweg wird gerne von Autofahrern genutzt zur Umgehung der Markusstraße.
+2-1	56-59	Der	*[8]	
+2-2	60-67	Lahnweg	*[8]	
+2-3	68-72	wird	_	
+2-4	73-78	gerne	_	
+2-5	79-82	von	_	
+2-6	83-94	Autofahrern	_	
+2-7	95-102	genutzt	_	
+2-8	103-106	zur	_	
+2-9	107-115	Umgehung	_	
+2-10	116-119	der	_	
+2-11	120-132	Markusstraße	*	
+2-12	132-133	.	_	
+
+#Text=Der Lahnweg ist jedoch eine Anliegerstraße und darf gar nicht so durchfahren werden.
+3-1	134-137	Der	*[9]	
+3-2	138-145	Lahnweg	*[9]	
+3-3	146-149	ist	_	
+3-4	150-156	jedoch	_	
+3-5	157-161	eine	_	
+3-6	162-176	Anliegerstraße	_	
+3-7	177-180	und	_	
+3-8	181-185	darf	_	
+3-9	186-189	gar	_	
+3-10	190-195	nicht	_	
+3-11	196-198	so	_	
+3-12	199-210	durchfahren	_	
+3-13	211-217	werden	_	
+3-14	217-218	.	_	
+
+#Text=Dazu wird man als Radfahrer, weil die Straße legales Überholen auf Grund der Enge gar nicht zulässt, noch geschnitten.
+4-1	219-223	Dazu	_	
+4-2	224-228	wird	_	
+4-3	229-232	man	_	
+4-4	233-236	als	_	
+4-5	237-246	Radfahrer	_	
+4-6	246-247	,	_	
+4-7	248-252	weil	_	
+4-8	253-256	die	_	
+4-9	257-263	Straße	_	
+4-10	264-271	legales	_	
+4-11	272-281	Überholen	_	
+4-12	282-285	auf	_	
+4-13	286-291	Grund	_	
+4-14	292-295	der	_	
+4-15	296-300	Enge	_	
+4-16	301-304	gar	_	
+4-17	305-310	nicht	_	
+4-18	311-318	zulässt	_	
+4-19	318-319	,	_	
+4-20	320-324	noch	_	
+4-21	325-336	geschnitten	_	
+4-22	336-337	.	_	
+
+#Text=Bitte mal ahnden!
+5-1	338-343	Bitte	_	
+5-2	344-347	mal	_	
+5-3	348-354	ahnden	_	
+5-4	354-355	!	_	
+
+#Text=Bisher habe ich in Bonn zu Sicherheitsabstand und Anliegerstraßen(z.B. auch Schlossstraße) noch keine Kontrollen gesehen.
+6-1	356-362	Bisher	_	
+6-2	363-367	habe	_	
+6-3	368-371	ich	_	
+6-4	372-374	in	*[10]	
+6-5	375-379	Bonn	*[10]	
+6-6	380-382	zu	_	
+6-7	383-401	Sicherheitsabstand	_	
+6-8	402-405	und	_	
+6-9	406-421	Anliegerstraßen	_	
+6-10	421-422	(	_	
+6-11	422-425	z.B	_	
+6-12	425-426	.	_	
+6-13	427-431	auch	_	
+6-14	432-445	Schlossstraße	*	
+6-15	445-446	)	_	
+6-16	447-451	noch	_	
+6-17	452-457	keine	_	
+6-18	458-468	Kontrollen	_	
+6-19	469-476	gesehen	_	
+6-20	476-477	.	_	
+
+#Text=Um einen Polizisten an der Poppelsdorfer Unterführung abzustellen, um das Absteigen der Radler zu kontrollieren, ist ja auch immer wieder Geld da.
+7-1	478-480	Um	_	
+7-2	481-486	einen	_	
+7-3	487-497	Polizisten	_	
+7-4	498-500	an	*[11]	
+7-5	501-504	der	*[11]	
+7-6	505-518	Poppelsdorfer	*[11]	
+7-7	519-531	Unterführung	*[11]	
+7-8	532-543	abzustellen	_	
+7-9	543-544	,	_	
+7-10	545-547	um	_	
+7-11	548-551	das	_	
+7-12	552-561	Absteigen	_	
+7-13	562-565	der	_	
+7-14	566-572	Radler	_	
+7-15	573-575	zu	_	
+7-16	576-589	kontrollieren	_	
+7-17	589-590	,	_	
+7-18	591-594	ist	_	
+7-19	595-597	ja	_	
+7-20	598-602	auch	_	
+7-21	603-608	immer	_	
+7-22	609-615	wieder	_	
+7-23	616-620	Geld	_	
+7-24	621-623	da	_	
+7-25	623-624	.	_	

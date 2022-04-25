@@ -1,0 +1,95 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Auto-Moratorium
+1-1	0-15	Auto-Moratorium	_	
+
+#Text=Um das Radfahren in Bonn attraktiver zu gestalten, schlage ich ein tägliches Auto-Moratorium vor.
+2-1	18-20	Um	_	
+2-2	21-24	das	_	
+2-3	25-34	Radfahren	_	
+2-4	35-37	in	*[5]	
+2-5	38-42	Bonn	*[5]	
+2-6	43-54	attraktiver	_	
+2-7	55-57	zu	_	
+2-8	58-67	gestalten	_	
+2-9	67-68	,	_	
+2-10	69-76	schlage	_	
+2-11	77-80	ich	_	
+2-12	81-84	ein	_	
+2-13	85-94	tägliches	_	
+2-14	95-110	Auto-Moratorium	_	
+2-15	111-114	vor	_	
+2-16	114-115	.	_	
+
+#Text=Jeweils um 7:30 h, 8:30 h, 12:30 h und 17:30 Uhr müssen alle Kraftwagen - Polizei und Krankenwagen ausgenommen - ihren Wagen für 7 min. anhalten und abstellen.
+3-1	116-123	Jeweils	_	
+3-2	124-126	um	_	
+3-3	127-128	7	_	
+3-4	128-129	:	_	
+3-5	129-131	30	_	
+3-6	132-133	h	_	
+3-7	133-134	,	_	
+3-8	135-136	8	_	
+3-9	136-137	:	_	
+3-10	137-139	30	_	
+3-11	140-141	h	_	
+3-12	141-142	,	_	
+3-13	143-145	12	_	
+3-14	145-146	:	_	
+3-15	146-148	30	_	
+3-16	149-150	h	_	
+3-17	151-154	und	_	
+3-18	155-157	17	_	
+3-19	157-158	:	_	
+3-20	158-160	30	_	
+3-21	161-164	Uhr	_	
+3-22	165-171	müssen	_	
+3-23	172-176	alle	_	
+3-24	177-187	Kraftwagen	_	
+3-25	188-189	-	_	
+3-26	190-197	Polizei	_	
+3-27	198-201	und	_	
+3-28	202-214	Krankenwagen	_	
+3-29	215-226	ausgenommen	_	
+3-30	227-228	-	_	
+3-31	229-234	ihren	_	
+3-32	235-240	Wagen	_	
+3-33	241-244	für	_	
+3-34	245-246	7	_	
+3-35	247-250	min	_	
+3-36	250-251	.	_	
+3-37	252-260	anhalten	_	
+3-38	261-264	und	_	
+3-39	265-274	abstellen	_	
+3-40	274-275	.	_	
+
+#Text=Radfahrer/innen und Fußgänger/innen haben die Gelegenheit, schnell und entspannt voranzukommen.
+4-1	276-285	Radfahrer	_	
+4-2	285-286	/	_	
+4-3	286-291	innen	_	
+4-4	292-295	und	_	
+4-5	296-305	Fußgänger	_	
+4-6	305-306	/	_	
+4-7	306-311	innen	_	
+4-8	312-317	haben	_	
+4-9	318-321	die	_	
+4-10	322-333	Gelegenheit	_	
+4-11	333-334	,	_	
+4-12	335-342	schnell	_	
+4-13	343-346	und	_	
+4-14	347-356	entspannt	_	
+4-15	357-370	voranzukommen	_	
+4-16	370-371	.	_	
+
+#Text=Bonn wäre mit dieser Maßnahme Vorreiterkommune.
+5-1	372-376	Bonn	*	
+5-2	377-381	wäre	_	
+5-3	382-385	mit	_	
+5-4	386-392	dieser	_	
+5-5	393-401	Maßnahme	_	
+5-6	402-418	Vorreiterkommune	_	
+5-7	418-419	.	_	

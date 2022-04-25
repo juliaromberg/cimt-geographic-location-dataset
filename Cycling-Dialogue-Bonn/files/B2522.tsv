@@ -1,0 +1,113 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Buchfinkenweg und Fahrradstraße Maarweg durch Markierung trennen!
+1-1	0-13	Buchfinkenweg	*[7]	
+1-2	14-17	und	*[7]	
+1-3	18-31	Fahrradstraße	*[7]	
+1-4	32-39	Maarweg	*[7]	
+1-5	40-45	durch	_	
+1-6	46-56	Markierung	_	
+1-7	57-64	trennen	_	
+1-8	64-65	!	_	
+
+#Text=Aus dem Buchfinkenweg kommend ist Autofahrern nicht ersichtlich, dass sie in eine Fahrradstraße einbiegen.
+2-1	68-71	Aus	*[8]	
+2-2	72-75	dem	*[8]	
+2-3	76-89	Buchfinkenweg	*[8]	
+2-4	90-97	kommend	*[8]	
+2-5	98-101	ist	_	
+2-6	102-113	Autofahrern	_	
+2-7	114-119	nicht	_	
+2-8	120-131	ersichtlich	_	
+2-9	131-132	,	_	
+2-10	133-137	dass	_	
+2-11	138-141	sie	_	
+2-12	142-144	in	_	
+2-13	145-149	eine	_	
+2-14	150-163	Fahrradstraße	_	
+2-15	164-173	einbiegen	_	
+2-16	173-174	.	_	
+
+#Text=Das entsprechende Schild hängt links oben, die Aufmerksamkeit der Autofahrer ist jedoch rechts unten, bei etwaigem entgegenkommendem Verkehr.
+3-1	175-178	Das	_	
+3-2	179-192	entsprechende	_	
+3-3	193-199	Schild	_	
+3-4	200-205	hängt	_	
+3-5	206-211	links	_	
+3-6	212-216	oben	_	
+3-7	216-217	,	_	
+3-8	218-221	die	_	
+3-9	222-236	Aufmerksamkeit	_	
+3-10	237-240	der	_	
+3-11	241-251	Autofahrer	_	
+3-12	252-255	ist	_	
+3-13	256-262	jedoch	_	
+3-14	263-269	rechts	_	
+3-15	270-275	unten	_	
+3-16	275-276	,	_	
+3-17	277-280	bei	_	
+3-18	281-289	etwaigem	_	
+3-19	290-307	entgegenkommendem	_	
+3-20	308-315	Verkehr	_	
+3-21	315-316	.	_	
+
+#Text=Zumal die bauliche Trennung des Maarwegs suggeriert, dieser und der Buchfinkenweg seien hier eins.
+4-1	317-322	Zumal	_	
+4-2	323-326	die	_	
+4-3	327-335	bauliche	_	
+4-4	336-344	Trennung	_	
+4-5	345-348	des	_	
+4-6	349-357	Maarwegs	*	
+4-7	358-368	suggeriert	_	
+4-8	368-369	,	_	
+4-9	370-376	dieser	_	
+4-10	377-380	und	_	
+4-11	381-384	der	*[9]	
+4-12	385-398	Buchfinkenweg	*[9]	
+4-13	399-404	seien	_	
+4-14	405-409	hier	_	
+4-15	410-414	eins	_	
+4-16	414-415	.	_	
+
+#Text=Hier sollte der Maarweg klar durch eine Markierung vom Buchfinkenweg getrennt und mit durchgehender Vorfahrt belegt werden.
+5-1	416-420	Hier	_	
+5-2	421-427	sollte	_	
+5-3	428-431	der	_	
+5-4	432-439	Maarweg	*	
+5-5	440-444	klar	_	
+5-6	445-450	durch	_	
+5-7	451-455	eine	_	
+5-8	456-466	Markierung	_	
+5-9	467-470	vom	_	
+5-10	471-484	Buchfinkenweg	*	
+5-11	485-493	getrennt	_	
+5-12	494-497	und	_	
+5-13	498-501	mit	_	
+5-14	502-515	durchgehender	_	
+5-15	516-524	Vorfahrt	_	
+5-16	525-531	belegt	_	
+5-17	532-538	werden	_	
+5-18	538-539	.	_	
+
+#Text=Außerdem das Parkverbot in der Kurve durchgesetzt und die Bordsteine quer über den Maarweg beseitigt werden.
+6-1	540-548	Außerdem	_	
+6-2	549-552	das	_	
+6-3	553-563	Parkverbot	_	
+6-4	564-566	in	_	
+6-5	567-570	der	_	
+6-6	571-576	Kurve	_	
+6-7	577-589	durchgesetzt	_	
+6-8	590-593	und	_	
+6-9	594-597	die	_	
+6-10	598-608	Bordsteine	_	
+6-11	609-613	quer	*[10]	
+6-12	614-618	über	*[10]	
+6-13	619-622	den	*[10]	
+6-14	623-630	Maarweg	*[10]	
+6-15	631-640	beseitigt	_	
+6-16	641-647	werden	_	
+6-17	647-648	.	_	

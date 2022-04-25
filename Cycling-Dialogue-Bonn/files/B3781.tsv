@@ -1,0 +1,86 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Geradeausfahren erlauben
+1-1	0-15	Geradeausfahren	_	
+1-2	16-24	erlauben	_	
+
+#Text=Um auf dem Bonner Talweg die Reuterstraße in Richtung Innenstadt zu überqueren muss man immer ärgerlicher Weise die Fußgängerampel auf der Gegenrichtung benutzen und hat dann auf der Nordseite wieder das Problem, die Straße entweder abenteuerlich oder mit extra Wartzeit an der nächsten Fußgängerampel auf die richtige Fahrbahnseite zu überqueren.
+2-1	27-29	Um	_	
+2-2	30-33	auf	*[4]	
+2-3	34-37	dem	*[4]	
+2-4	38-44	Bonner	*[4]	
+2-5	45-51	Talweg	*[4]	
+2-6	52-55	die	*[4]	
+2-7	56-68	Reuterstraße	*[4]	
+2-8	69-71	in	*[4]	
+2-9	72-80	Richtung	*[4]	
+2-10	81-91	Innenstadt	*[4]	
+2-11	92-94	zu	*[4]	
+2-12	95-105	überqueren	*[4]	
+2-13	106-110	muss	_	
+2-14	111-114	man	_	
+2-15	115-120	immer	_	
+2-16	121-132	ärgerlicher	_	
+2-17	133-138	Weise	_	
+2-18	139-142	die	_	
+2-19	143-157	Fußgängerampel	_	
+2-20	158-161	auf	_	
+2-21	162-165	der	_	
+2-22	166-179	Gegenrichtung	_	
+2-23	180-188	benutzen	_	
+2-24	189-192	und	_	
+2-25	193-196	hat	_	
+2-26	197-201	dann	_	
+2-27	202-205	auf	_	
+2-28	206-209	der	_	
+2-29	210-219	Nordseite	_	
+2-30	220-226	wieder	_	
+2-31	227-230	das	_	
+2-32	231-238	Problem	_	
+2-33	238-239	,	_	
+2-34	240-243	die	_	
+2-35	244-250	Straße	_	
+2-36	251-259	entweder	_	
+2-37	260-273	abenteuerlich	_	
+2-38	274-278	oder	_	
+2-39	279-282	mit	_	
+2-40	283-288	extra	_	
+2-41	289-297	Wartzeit	_	
+2-42	298-300	an	_	
+2-43	301-304	der	_	
+2-44	305-313	nächsten	_	
+2-45	314-328	Fußgängerampel	_	
+2-46	329-332	auf	_	
+2-47	333-336	die	_	
+2-48	337-345	richtige	_	
+2-49	346-359	Fahrbahnseite	_	
+2-50	360-362	zu	_	
+2-51	363-373	überqueren	_	
+2-52	373-374	.	_	
+
+#Text=Könnte man hier nicht vergleichbar mit der Lösung an der Burbacher Straße Richtung An der Elisabethkirche eine seperate Geradeausspur einrichten?
+3-1	375-381	Könnte	_	
+3-2	382-385	man	_	
+3-3	386-390	hier	_	
+3-4	391-396	nicht	_	
+3-5	397-409	vergleichbar	_	
+3-6	410-413	mit	_	
+3-7	414-417	der	_	
+3-8	418-424	Lösung	_	
+3-9	425-427	an	*[5]	
+3-10	428-431	der	*[5]	
+3-11	432-441	Burbacher	*[5]	
+3-12	442-448	Straße	*[5]	
+3-13	449-457	Richtung	*[5]	
+3-14	458-460	An	*[5]	
+3-15	461-464	der	*[5]	
+3-16	465-480	Elisabethkirche	*[5]	
+3-17	481-485	eine	_	
+3-18	486-494	seperate	_	
+3-19	495-508	Geradeausspur	_	
+3-20	509-519	einrichten	_	
+3-21	519-520	?	_	

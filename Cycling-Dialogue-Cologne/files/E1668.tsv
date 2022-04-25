@@ -1,0 +1,23 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstraße öffnen
+1-1	0-13	Einbahnstraße	_	
+1-2	14-20	öffnen	_	
+
+#Text=Die Försterstraße sollte in beide Richtungen für den Radverkehr frei sein.
+2-1	23-26	Die	*[3]	
+2-2	27-40	Försterstraße	*[3]	
+2-3	41-47	sollte	_	
+2-4	48-50	in	_	
+2-5	51-56	beide	_	
+2-6	57-67	Richtungen	_	
+2-7	68-71	für	_	
+2-8	72-75	den	_	
+2-9	76-86	Radverkehr	_	
+2-10	87-91	frei	_	
+2-11	92-96	sein	_	
+2-12	96-97	.	_	

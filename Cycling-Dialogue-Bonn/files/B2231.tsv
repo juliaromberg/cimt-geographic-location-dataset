@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg zugeparkt
+1-1	0-6	Radweg	_	
+1-2	7-16	zugeparkt	_	
+
+#Text=An dieser Stelle halten auf dem Radweg häufig Autos und versperren diesen vollständig (Eisdiele, Pizzaria); Baulich könnte die Radwegkante zur Straße hin eine Abgrezung erhalten, die das verhindert.
+2-1	19-21	An	_	
+2-2	22-28	dieser	_	
+2-3	29-35	Stelle	_	
+2-4	36-42	halten	_	
+2-5	43-46	auf	_	
+2-6	47-50	dem	_	
+2-7	51-57	Radweg	_	
+2-8	58-64	häufig	_	
+2-9	65-70	Autos	_	
+2-10	71-74	und	_	
+2-11	75-85	versperren	_	
+2-12	86-92	diesen	_	
+2-13	93-104	vollständig	_	
+2-14	105-106	(	_	
+2-15	106-114	Eisdiele	_	
+2-16	114-115	,	_	
+2-17	116-124	Pizzaria	_	
+2-18	124-125	)	_	
+2-19	125-126	;	_	
+2-20	127-134	Baulich	_	
+2-21	135-141	könnte	_	
+2-22	142-145	die	_	
+2-23	146-157	Radwegkante	_	
+2-24	158-161	zur	_	
+2-25	162-168	Straße	_	
+2-26	169-172	hin	_	
+2-27	173-177	eine	_	
+2-28	178-187	Abgrezung	_	
+2-29	188-196	erhalten	_	
+2-30	196-197	,	_	
+2-31	198-201	die	_	
+2-32	202-205	das	_	
+2-33	206-216	verhindert	_	
+2-34	216-217	.	_	
+
+#Text=Schmale hohe Kunststoffsstreifen zum Aufkleben, die keinem Weh tun, aber eine klare Abgrezung schaffen.
+3-1	218-225	Schmale	_	
+3-2	226-230	hohe	_	
+3-3	231-250	Kunststoffsstreifen	_	
+3-4	251-254	zum	_	
+3-5	255-264	Aufkleben	_	
+3-6	264-265	,	_	
+3-7	266-269	die	_	
+3-8	270-276	keinem	_	
+3-9	277-280	Weh	_	
+3-10	281-284	tun	_	
+3-11	284-285	,	_	
+3-12	286-290	aber	_	
+3-13	291-295	eine	_	
+3-14	296-301	klare	_	
+3-15	302-311	Abgrezung	_	
+3-16	312-320	schaffen	_	
+3-17	320-321	.	_	

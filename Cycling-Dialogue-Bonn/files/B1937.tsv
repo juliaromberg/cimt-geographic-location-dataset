@@ -1,0 +1,109 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstrasse eigentlich für Radfahrer offen aber...
+1-1	0-14	Einbahnstrasse	_	
+1-2	15-25	eigentlich	_	
+1-3	26-29	für	_	
+1-4	30-39	Radfahrer	_	
+1-5	40-45	offen	_	
+1-6	46-50	aber	_	
+1-7	50-51	.	_	
+1-8	51-52	.	_	
+1-9	52-53	.	_	
+
+#Text=Fährt man die Colmannstrasse von Hbf Bonn kommend aus als Radfahrer (was per Schild erlaubt ist) wird dies zum Spießrutenlauf wenn auf Höhe des LVR Museums ein Bus entgegen kommt.
+2-1	56-61	Fährt	_	
+2-2	62-65	man	_	
+2-3	66-69	die	*[5]	
+2-4	70-84	Colmannstrasse	*[5]	
+2-5	85-88	von	*[5]	
+2-6	89-92	Hbf	*[5]	
+2-7	93-97	Bonn	*[5]	
+2-8	98-105	kommend	*[5]	
+2-9	106-109	aus	_	
+2-10	110-113	als	_	
+2-11	114-123	Radfahrer	_	
+2-12	124-125	(	_	
+2-13	125-128	was	_	
+2-14	129-132	per	_	
+2-15	133-139	Schild	_	
+2-16	140-147	erlaubt	_	
+2-17	148-151	ist	_	
+2-18	151-152	)	_	
+2-19	153-157	wird	_	
+2-20	158-162	dies	_	
+2-21	163-166	zum	_	
+2-22	167-181	Spießrutenlauf	_	
+2-23	182-186	wenn	_	
+2-24	187-190	auf	*[6]	
+2-25	191-195	Höhe	*[6]	
+2-26	196-199	des	*[6]	
+2-27	200-203	LVR	*[6]	
+2-28	204-211	Museums	*[6]	
+2-29	212-215	ein	_	
+2-30	216-219	Bus	_	
+2-31	220-228	entgegen	_	
+2-32	229-234	kommt	_	
+2-33	234-235	.	_	
+
+#Text=Durch die Parkenden Autos ist dann dort kein Platz mehr für Radfahrer wenn ein Bus entgegen kommt (ausweichen geht aber auch nicht!!!).
+3-1	236-241	Durch	_	
+3-2	242-245	die	_	
+3-3	246-255	Parkenden	_	
+3-4	256-261	Autos	_	
+3-5	262-265	ist	_	
+3-6	266-270	dann	_	
+3-7	271-275	dort	_	
+3-8	276-280	kein	_	
+3-9	281-286	Platz	_	
+3-10	287-291	mehr	_	
+3-11	292-295	für	_	
+3-12	296-305	Radfahrer	_	
+3-13	306-310	wenn	_	
+3-14	311-314	ein	_	
+3-15	315-318	Bus	_	
+3-16	319-327	entgegen	_	
+3-17	328-333	kommt	_	
+3-18	334-335	(	_	
+3-19	335-345	ausweichen	_	
+3-20	346-350	geht	_	
+3-21	351-355	aber	_	
+3-22	356-360	auch	_	
+3-23	361-366	nicht	_	
+3-24	366-367	!	_	
+3-25	367-368	!	_	
+3-26	368-369	!	_	
+3-27	369-370	)	_	
+3-28	370-371	.	_	
+
+#Text=Da die Busfahrer keine Rücksicht kennen und ein spontanes auflösen von Radfahrern in der Straßenverkehrsordung auch nicht vorgesehen ist kommt es hier zwangsläufig zu Konflikten.
+4-1	372-374	Da	_	
+4-2	375-378	die	_	
+4-3	379-388	Busfahrer	_	
+4-4	389-394	keine	_	
+4-5	395-404	Rücksicht	_	
+4-6	405-411	kennen	_	
+4-7	412-415	und	_	
+4-8	416-419	ein	_	
+4-9	420-429	spontanes	_	
+4-10	430-438	auflösen	_	
+4-11	439-442	von	_	
+4-12	443-453	Radfahrern	_	
+4-13	454-456	in	_	
+4-14	457-460	der	_	
+4-15	461-482	Straßenverkehrsordung	_	
+4-16	483-487	auch	_	
+4-17	488-493	nicht	_	
+4-18	494-504	vorgesehen	_	
+4-19	505-508	ist	_	
+4-20	509-514	kommt	_	
+4-21	515-517	es	_	
+4-22	518-522	hier	_	
+4-23	523-535	zwangsläufig	_	
+4-24	536-538	zu	_	
+4-25	539-549	Konflikten	_	
+4-26	549-550	.	_	

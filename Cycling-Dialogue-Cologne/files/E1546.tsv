@@ -1,0 +1,97 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkplätze weiter vom Adlerweg weg setzen / streichen
+1-1	0-10	Parkplätze	_	
+1-2	11-17	weiter	_	
+1-3	18-21	vom	_	
+1-4	22-30	Adlerweg	*[6]	
+1-5	31-34	weg	*[6]	
+1-6	35-41	setzen	_	
+1-7	42-43	/	_	
+1-8	44-53	streichen	_	
+
+#Text=Wenn man aus dem Adlerweg auf die Vogelsanger Straße kommt, ist so gut wie IMMER der von Rechts aus Vogelsang kommende Verkehr nicht einsehbar, weil dort am Fahrbahnrand parkende Autos stehen.
+2-1	56-60	Wenn	_	
+2-2	61-64	man	_	
+2-3	65-68	aus	*[7]	
+2-4	69-72	dem	*[7]	
+2-5	73-81	Adlerweg	*[7]	
+2-6	82-85	auf	*[7]	
+2-7	86-89	die	*[7]	
+2-8	90-101	Vogelsanger	*[7]	
+2-9	102-108	Straße	*[7]	
+2-10	109-114	kommt	*[7]	
+2-11	114-115	,	_	
+2-12	116-119	ist	_	
+2-13	120-122	so	_	
+2-14	123-126	gut	_	
+2-15	127-130	wie	_	
+2-16	131-136	IMMER	_	
+2-17	137-140	der	_	
+2-18	141-144	von	*[8]	
+2-19	145-151	Rechts	*[8]	
+2-20	152-155	aus	*[8]	
+2-21	156-165	Vogelsang	*[8]	
+2-22	166-174	kommende	_	
+2-23	175-182	Verkehr	_	
+2-24	183-188	nicht	_	
+2-25	189-198	einsehbar	_	
+2-26	198-199	,	_	
+2-27	200-204	weil	_	
+2-28	205-209	dort	_	
+2-29	210-212	am	_	
+2-30	213-225	Fahrbahnrand	_	
+2-31	226-234	parkende	_	
+2-32	235-240	Autos	_	
+2-33	241-247	stehen	_	
+2-34	247-248	.	_	
+
+#Text=Die Parklätze müssen entfernt werden , bzw. erheblich weiter von der Kreuzung entfernt beginnen.
+3-1	249-252	Die	_	
+3-2	253-262	Parklätze	_	
+3-3	263-269	müssen	_	
+3-4	270-278	entfernt	_	
+3-5	279-285	werden	_	
+3-6	286-287	,	_	
+3-7	288-291	bzw	_	
+3-8	291-292	.	_	
+3-9	293-302	erheblich	_	
+3-10	303-309	weiter	_	
+3-11	310-313	von	_	
+3-12	314-317	der	_	
+3-13	318-326	Kreuzung	_	
+3-14	327-335	entfernt	_	
+3-15	336-344	beginnen	_	
+3-16	344-345	.	_	
+
+#Text=Alternativ könnte ein Zebrastreifen oder ein Spiegel helfen?
+4-1	346-356	Alternativ	_	
+4-2	357-363	könnte	_	
+4-3	364-367	ein	_	
+4-4	368-381	Zebrastreifen	_	
+4-5	382-386	oder	_	
+4-6	387-390	ein	_	
+4-7	391-398	Spiegel	_	
+4-8	399-405	helfen	_	
+4-9	405-406	?	_	
+
+#Text=So ist es jedenfalls für Erwachsene schwer, für Kinder unmöglich den Verkehr einzusehen.
+5-1	407-409	So	_	
+5-2	410-413	ist	_	
+5-3	414-416	es	_	
+5-4	417-427	jedenfalls	_	
+5-5	428-431	für	_	
+5-6	432-442	Erwachsene	_	
+5-7	443-449	schwer	_	
+5-8	449-450	,	_	
+5-9	451-454	für	_	
+5-10	455-461	Kinder	_	
+5-11	462-471	unmöglich	_	
+5-12	472-475	den	_	
+5-13	476-483	Verkehr	_	
+5-14	484-494	einzusehen	_	
+5-15	494-495	.	_	

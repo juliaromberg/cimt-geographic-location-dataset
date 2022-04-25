@@ -1,0 +1,114 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Kanten durch Radwegeinfassung
+1-1	0-11	Gefährliche	_	
+1-2	12-18	Kanten	_	
+1-3	19-24	durch	_	
+1-4	25-41	Radwegeinfassung	_	
+
+#Text=Der Radweg an der Poppelsdorfer Allee ist durch Basaltsteine eingefasst, die an vielen Stellen einen bis wenige Zentimeter über die Fahrbahn hinausragen.
+2-1	44-47	Der	*[7]	
+2-2	48-54	Radweg	*[7]	
+2-3	55-57	an	*[7]	
+2-4	58-61	der	*[7]	
+2-5	62-75	Poppelsdorfer	*[7]	
+2-6	76-81	Allee	*[7]	
+2-7	82-85	ist	_	
+2-8	86-91	durch	_	
+2-9	92-104	Basaltsteine	_	
+2-10	105-115	eingefasst	_	
+2-11	115-116	,	_	
+2-12	117-120	die	_	
+2-13	121-123	an	_	
+2-14	124-130	vielen	_	
+2-15	131-138	Stellen	_	
+2-16	139-144	einen	_	
+2-17	145-148	bis	_	
+2-18	149-155	wenige	_	
+2-19	156-166	Zentimeter	_	
+2-20	167-171	über	_	
+2-21	172-175	die	_	
+2-22	176-184	Fahrbahn	_	
+2-23	185-196	hinausragen	_	
+2-24	196-197	.	_	
+
+#Text=Hinzu kommt, dass die Kanten dieser Begrenzungssteine abgerundet und glatt sind.
+3-1	198-203	Hinzu	_	
+3-2	204-209	kommt	_	
+3-3	209-210	,	_	
+3-4	211-215	dass	_	
+3-5	216-219	die	_	
+3-6	220-226	Kanten	_	
+3-7	227-233	dieser	_	
+3-8	234-251	Begrenzungssteine	_	
+3-9	252-262	abgerundet	_	
+3-10	263-266	und	_	
+3-11	267-272	glatt	_	
+3-12	273-277	sind	_	
+3-13	277-278	.	_	
+
+#Text=Fährt man in einem spitzen Winkel über diese Kanten (z.B. um den zahlreichen Fußgängern auszuweichen, die über den Radweg gehen) besteht erhebliche Sturzgefahr.
+4-1	279-284	Fährt	_	
+4-2	285-288	man	_	
+4-3	289-291	in	_	
+4-4	292-297	einem	_	
+4-5	298-305	spitzen	_	
+4-6	306-312	Winkel	_	
+4-7	313-317	über	_	
+4-8	318-323	diese	_	
+4-9	324-330	Kanten	_	
+4-10	331-332	(	_	
+4-11	332-335	z.B	_	
+4-12	335-336	.	_	
+4-13	337-339	um	_	
+4-14	340-343	den	_	
+4-15	344-355	zahlreichen	_	
+4-16	356-366	Fußgängern	_	
+4-17	367-379	auszuweichen	_	
+4-18	379-380	,	_	
+4-19	381-384	die	_	
+4-20	385-389	über	_	
+4-21	390-393	den	_	
+4-22	394-400	Radweg	_	
+4-23	401-406	gehen	_	
+4-24	406-407	)	_	
+4-25	408-415	besteht	_	
+4-26	416-426	erhebliche	_	
+4-27	427-438	Sturzgefahr	_	
+4-28	438-439	.	_	
+
+#Text=Ich selbst habe diesen Kanten einen Handgelenksbruch zu verdanken.
+5-1	440-443	Ich	_	
+5-2	444-450	selbst	_	
+5-3	451-455	habe	_	
+5-4	456-462	diesen	_	
+5-5	463-469	Kanten	_	
+5-6	470-475	einen	_	
+5-7	476-492	Handgelenksbruch	_	
+5-8	493-495	zu	_	
+5-9	496-505	verdanken	_	
+5-10	505-506	.	_	
+
+#Text=Nach dem Unfall habe ich die Stadt auf den Mangel hingewiesen, es ist aber nichts passiert.
+6-1	507-511	Nach	_	
+6-2	512-515	dem	_	
+6-3	516-522	Unfall	_	
+6-4	523-527	habe	_	
+6-5	528-531	ich	_	
+6-6	532-535	die	_	
+6-7	536-541	Stadt	_	
+6-8	542-545	auf	_	
+6-9	546-549	den	_	
+6-10	550-556	Mangel	_	
+6-11	557-568	hingewiesen	_	
+6-12	568-569	,	_	
+6-13	570-572	es	_	
+6-14	573-576	ist	_	
+6-15	577-581	aber	_	
+6-16	582-588	nichts	_	
+6-17	589-597	passiert	_	
+6-18	597-598	.	_	

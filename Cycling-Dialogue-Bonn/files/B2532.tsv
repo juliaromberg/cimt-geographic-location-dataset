@@ -1,0 +1,160 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße
+1-1	0-13	Fahrradstraße	_	
+
+#Text=Die Strecke vom Fritz-Schroeder-Ufer bis zum Rathenauufer hat schon viele Verbesserungsvorschläge erhalten was auf vielfältige Probleme und häufige Benutzung hinweist.
+2-1	16-19	Die	_	
+2-2	20-27	Strecke	_	
+2-3	28-31	vom	*[7]	
+2-4	32-52	Fritz-Schroeder-Ufer	*[7]	
+2-5	53-56	bis	*[7]	
+2-6	57-60	zum	*[7]	
+2-7	61-73	Rathenauufer	*[7]	
+2-8	74-77	hat	_	
+2-9	78-83	schon	_	
+2-10	84-89	viele	_	
+2-11	90-113	Verbesserungsvorschläge	_	
+2-12	114-122	erhalten	_	
+2-13	123-126	was	_	
+2-14	127-130	auf	_	
+2-15	131-142	vielfältige	_	
+2-16	143-151	Probleme	_	
+2-17	152-155	und	_	
+2-18	156-163	häufige	_	
+2-19	164-173	Benutzung	_	
+2-20	174-182	hinweist	_	
+2-21	182-183	.	_	
+
+#Text=Sie sollte eigentlch dem Stadtbild zuliebe eine der schönsten Strecken der Stadt sein (Radfernwanderweg, Spaziergänge am Rhein, etc.).
+3-1	184-187	Sie	_	
+3-2	188-194	sollte	_	
+3-3	195-204	eigentlch	_	
+3-4	205-208	dem	_	
+3-5	209-218	Stadtbild	_	
+3-6	219-226	zuliebe	_	
+3-7	227-231	eine	_	
+3-8	232-235	der	_	
+3-9	236-245	schönsten	_	
+3-10	246-254	Strecken	_	
+3-11	255-258	der	_	
+3-12	259-264	Stadt	_	
+3-13	265-269	sein	_	
+3-14	270-271	(	_	
+3-15	271-287	Radfernwanderweg	_	
+3-16	287-288	,	_	
+3-17	289-301	Spaziergänge	_	
+3-18	302-304	am	*[8]	
+3-19	305-310	Rhein	*[8]	
+3-20	310-311	,	_	
+3-21	312-315	etc	_	
+3-22	315-316	.	_	
+3-23	316-317	)	_	
+3-24	317-318	.	_	
+
+#Text=All diese Probleme wären gelöst, wenn man die gesamte Strecke als Fahrradstraße ausweist.
+4-1	319-322	All	_	
+4-2	323-328	diese	_	
+4-3	329-337	Probleme	_	
+4-4	338-343	wären	_	
+4-5	344-350	gelöst	_	
+4-6	350-351	,	_	
+4-7	352-356	wenn	_	
+4-8	357-360	man	_	
+4-9	361-364	die	_	
+4-10	365-372	gesamte	_	
+4-11	373-380	Strecke	_	
+4-12	381-384	als	_	
+4-13	385-398	Fahrradstraße	_	
+4-14	399-407	ausweist	_	
+4-15	407-408	.	_	
+
+#Text=Viele Fahrradstraßen, die ich kenne, sind in Sackgassen, in denen eh kaum ein Auto vorbeikommt und damit nutzlos (z.B. Ellerstraße).
+5-1	409-414	Viele	_	
+5-2	415-429	Fahrradstraßen	_	
+5-3	429-430	,	_	
+5-4	431-434	die	_	
+5-5	435-438	ich	_	
+5-6	439-444	kenne	_	
+5-7	444-445	,	_	
+5-8	446-450	sind	_	
+5-9	451-453	in	_	
+5-10	454-464	Sackgassen	_	
+5-11	464-465	,	_	
+5-12	466-468	in	_	
+5-13	469-474	denen	_	
+5-14	475-477	eh	_	
+5-15	478-482	kaum	_	
+5-16	483-486	ein	_	
+5-17	487-491	Auto	_	
+5-18	492-503	vorbeikommt	_	
+5-19	504-507	und	_	
+5-20	508-513	damit	_	
+5-21	514-521	nutzlos	_	
+5-22	522-523	(	_	
+5-23	523-526	z.B	_	
+5-24	526-527	.	_	
+5-25	528-539	Ellerstraße	*	
+5-26	539-540	)	_	
+5-27	540-541	.	_	
+
+#Text=Hier würde sie die gesamte Situation verbessern und vielleicht manche Autofahrer davon abhalten, das Ufer als stau- und ampelfreie Alternative zur Adenauerallee zu sehen.
+6-1	542-546	Hier	_	
+6-2	547-552	würde	_	
+6-3	553-556	sie	_	
+6-4	557-560	die	_	
+6-5	561-568	gesamte	_	
+6-6	569-578	Situation	_	
+6-7	579-589	verbessern	_	
+6-8	590-593	und	_	
+6-9	594-604	vielleicht	_	
+6-10	605-611	manche	_	
+6-11	612-622	Autofahrer	_	
+6-12	623-628	davon	_	
+6-13	629-637	abhalten	_	
+6-14	637-638	,	_	
+6-15	639-642	das	_	
+6-16	643-647	Ufer	_	
+6-17	648-651	als	_	
+6-18	652-656	stau	_	
+6-19	656-657	-	_	
+6-20	658-661	und	_	
+6-21	662-672	ampelfreie	_	
+6-22	673-684	Alternative	_	
+6-23	685-688	zur	_	
+6-24	689-702	Adenauerallee	*	
+6-25	703-705	zu	_	
+6-26	706-711	sehen	_	
+6-27	711-712	.	_	
+
+#Text=Wie schön wäre es die Strecke nebeneinander auf dem Rad geniesen zu können statt sich dem täglichen nervigen und gefährlichen Kampf zu stellen...
+7-1	713-716	Wie	_	
+7-2	717-722	schön	_	
+7-3	723-727	wäre	_	
+7-4	728-730	es	_	
+7-5	731-734	die	_	
+7-6	735-742	Strecke	_	
+7-7	743-756	nebeneinander	_	
+7-8	757-760	auf	_	
+7-9	761-764	dem	_	
+7-10	765-768	Rad	_	
+7-11	769-777	geniesen	_	
+7-12	778-780	zu	_	
+7-13	781-787	können	_	
+7-14	788-793	statt	_	
+7-15	794-798	sich	_	
+7-16	799-802	dem	_	
+7-17	803-812	täglichen	_	
+7-18	813-821	nervigen	_	
+7-19	822-825	und	_	
+7-20	826-838	gefährlichen	_	
+7-21	839-844	Kampf	_	
+7-22	845-847	zu	_	
+7-23	848-855	stellen	_	
+7-24	855-856	.	_	
+7-25	856-857	.	_	
+7-26	857-858	.	_	

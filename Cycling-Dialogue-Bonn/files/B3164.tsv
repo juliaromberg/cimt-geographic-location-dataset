@@ -1,0 +1,65 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlendes Durchfahrts-Verbotsschild für Kfz
+1-1	0-9	Fehlendes	_	
+1-2	10-35	Durchfahrts-Verbotsschild	_	
+1-3	36-39	für	_	
+1-4	40-43	Kfz	_	
+
+#Text=Das Durchfahrts-Verbotsschild für Kfz wurde hier entwendet.
+2-1	46-49	Das	_	
+2-2	50-75	Durchfahrts-Verbotsschild	_	
+2-3	76-79	für	_	
+2-4	80-83	Kfz	_	
+2-5	84-89	wurde	_	
+2-6	90-94	hier	_	
+2-7	95-104	entwendet	_	
+2-8	104-105	.	_	
+
+#Text=Bislang fuhren hier immer mal wieder Autos durch, seit das Schild fehlt, jedoch immer öfter, auch Transporter.
+3-1	106-113	Bislang	_	
+3-2	114-120	fuhren	_	
+3-3	121-125	hier	_	
+3-4	126-131	immer	_	
+3-5	132-135	mal	_	
+3-6	136-142	wieder	_	
+3-7	143-148	Autos	_	
+3-8	149-154	durch	_	
+3-9	154-155	,	_	
+3-10	156-160	seit	_	
+3-11	161-164	das	_	
+3-12	165-171	Schild	_	
+3-13	172-177	fehlt	_	
+3-14	177-178	,	_	
+3-15	179-185	jedoch	_	
+3-16	186-191	immer	_	
+3-17	192-197	öfter	_	
+3-18	197-198	,	_	
+3-19	199-203	auch	_	
+3-20	204-215	Transporter	_	
+3-21	215-216	.	_	
+
+#Text=Vielleicht sollte man hier Poller oder Pfosten aufstellen, um eine dauerhafte Nutzung durch den Autoverkehr zu unterbinden.
+4-1	217-227	Vielleicht	_	
+4-2	228-234	sollte	_	
+4-3	235-238	man	_	
+4-4	239-243	hier	_	
+4-5	244-250	Poller	_	
+4-6	251-255	oder	_	
+4-7	256-263	Pfosten	_	
+4-8	264-274	aufstellen	_	
+4-9	274-275	,	_	
+4-10	276-278	um	_	
+4-11	279-283	eine	_	
+4-12	284-294	dauerhafte	_	
+4-13	295-302	Nutzung	_	
+4-14	303-308	durch	_	
+4-15	309-312	den	_	
+4-16	313-324	Autoverkehr	_	
+4-17	325-327	zu	_	
+4-18	328-339	unterbinden	_	
+4-19	339-340	.	_	

@@ -1,0 +1,54 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrbahn sanierungsbedürftig
+1-1	0-8	Fahrbahn	_	
+1-2	9-28	sanierungsbedürftig	_	
+
+#Text=Die Prinz-Albert-Straße ist durchgehend dringend sanierungsbedürftig.
+2-1	31-34	Die	*[5]	
+2-2	35-54	Prinz-Albert-Straße	*[5]	
+2-3	55-58	ist	_	
+2-4	59-70	durchgehend	_	
+2-5	71-79	dringend	_	
+2-6	80-99	sanierungsbedürftig	_	
+2-7	99-100	.	_	
+
+#Text=Besonders im Fahrradstraßenabschnitt, kann man den vielen Huckeln und Schlaglöschern nur schwer ausweichen.
+3-1	101-110	Besonders	_	
+3-2	111-113	im	_	
+3-3	114-137	Fahrradstraßenabschnitt	_	
+3-4	137-138	,	_	
+3-5	139-143	kann	_	
+3-6	144-147	man	_	
+3-7	148-151	den	_	
+3-8	152-158	vielen	_	
+3-9	159-166	Huckeln	_	
+3-10	167-170	und	_	
+3-11	171-185	Schlaglöschern	_	
+3-12	186-189	nur	_	
+3-13	190-196	schwer	_	
+3-14	197-207	ausweichen	_	
+3-15	207-208	.	_	
+
+#Text=Das macht das Fahren nicht nur unkomfortabel, sondern führt auch zu einer schwer vorherzusehenden Slalom-Fahrweise.
+4-1	209-212	Das	_	
+4-2	213-218	macht	_	
+4-3	219-222	das	_	
+4-4	223-229	Fahren	_	
+4-5	230-235	nicht	_	
+4-6	236-239	nur	_	
+4-7	240-253	unkomfortabel	_	
+4-8	253-254	,	_	
+4-9	255-262	sondern	_	
+4-10	263-268	führt	_	
+4-11	269-273	auch	_	
+4-12	274-276	zu	_	
+4-13	277-282	einer	_	
+4-14	283-289	schwer	_	
+4-15	290-306	vorherzusehenden	_	
+4-16	307-323	Slalom-Fahrweise	_	
+4-17	323-324	.	_	

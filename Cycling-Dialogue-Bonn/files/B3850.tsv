@@ -1,0 +1,159 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=gefährliche Begegnung mit Fußgängern
+1-1	0-11	gefährliche	_	
+1-2	12-21	Begegnung	_	
+1-3	22-25	mit	_	
+1-4	26-36	Fußgängern	_	
+
+#Text=Der Radweg an einer der meistfrequentierten Stelle (Fußgänger und Radfahrer), Rheinufer auf Höhe Alter Zoll, ist viel zu schmal, um Radfahrer in beide Richtungen darauf zu lenken.
+2-1	39-42	Der	_	
+2-2	43-49	Radweg	_	
+2-3	50-52	an	_	
+2-4	53-58	einer	_	
+2-5	59-62	der	_	
+2-6	63-82	meistfrequentierten	_	
+2-7	83-89	Stelle	_	
+2-8	90-91	(	_	
+2-9	91-100	Fußgänger	_	
+2-10	101-104	und	_	
+2-11	105-114	Radfahrer	_	
+2-12	114-115	)	_	
+2-13	115-116	,	_	
+2-14	117-126	Rheinufer	*[8]	
+2-15	127-130	auf	*[8]	
+2-16	131-135	Höhe	*[8]	
+2-17	136-141	Alter	*[8]	
+2-18	142-146	Zoll	*[8]	
+2-19	146-147	,	_	
+2-20	148-151	ist	_	
+2-21	152-156	viel	_	
+2-22	157-159	zu	_	
+2-23	160-166	schmal	_	
+2-24	166-167	,	_	
+2-25	168-170	um	_	
+2-26	171-180	Radfahrer	_	
+2-27	181-183	in	_	
+2-28	184-189	beide	_	
+2-29	190-200	Richtungen	_	
+2-30	201-207	darauf	_	
+2-31	208-210	zu	_	
+2-32	211-217	lenken	_	
+2-33	217-218	.	_	
+
+#Text=Außerdem kreuzen hier viele Fußgänger den Radweg und beide Verkehrsteilnehmer können einander nicht sehen aufgrund der Hecken (vor allem beim Fußgängerüberweg!).
+3-1	219-227	Außerdem	_	
+3-2	228-235	kreuzen	_	
+3-3	236-240	hier	_	
+3-4	241-246	viele	_	
+3-5	247-256	Fußgänger	_	
+3-6	257-260	den	_	
+3-7	261-267	Radweg	_	
+3-8	268-271	und	_	
+3-9	272-277	beide	_	
+3-10	278-296	Verkehrsteilnehmer	_	
+3-11	297-303	können	_	
+3-12	304-312	einander	_	
+3-13	313-318	nicht	_	
+3-14	319-324	sehen	_	
+3-15	325-333	aufgrund	_	
+3-16	334-337	der	_	
+3-17	338-344	Hecken	_	
+3-18	345-346	(	_	
+3-19	346-349	vor	_	
+3-20	350-355	allem	_	
+3-21	356-360	beim	_	
+3-22	361-377	Fußgängerüberweg	_	
+3-23	377-378	!	_	
+3-24	378-379	)	_	
+3-25	379-380	.	_	
+
+#Text=Außerdem parken oft Busse direkt am oder teilweise sogar auf dem Radweg und lassen ihre Passagiere ein- und aussteigen, die dann in Gruppen auf dem Radweg rumstehen.
+4-1	381-389	Außerdem	_	
+4-2	390-396	parken	_	
+4-3	397-400	oft	_	
+4-4	401-406	Busse	_	
+4-5	407-413	direkt	_	
+4-6	414-416	am	_	
+4-7	417-421	oder	_	
+4-8	422-431	teilweise	_	
+4-9	432-437	sogar	_	
+4-10	438-441	auf	_	
+4-11	442-445	dem	_	
+4-12	446-452	Radweg	_	
+4-13	453-456	und	_	
+4-14	457-463	lassen	_	
+4-15	464-468	ihre	_	
+4-16	469-479	Passagiere	_	
+4-17	480-483	ein	_	
+4-18	483-484	-	_	
+4-19	485-488	und	_	
+4-20	489-499	aussteigen	_	
+4-21	499-500	,	_	
+4-22	501-504	die	_	
+4-23	505-509	dann	_	
+4-24	510-512	in	_	
+4-25	513-520	Gruppen	_	
+4-26	521-524	auf	_	
+4-27	525-528	dem	_	
+4-28	529-535	Radweg	_	
+4-29	536-545	rumstehen	_	
+4-30	545-546	.	_	
+
+#Text=Kollisionen sind vorprogrammiert.
+5-1	547-558	Kollisionen	_	
+5-2	559-563	sind	_	
+5-3	564-579	vorprogrammiert	_	
+5-4	579-580	.	_	
+
+#Text=Eine andere Zusteigestelle für Busse wäre angemessen.
+6-1	581-585	Eine	_	
+6-2	586-592	andere	_	
+6-3	593-607	Zusteigestelle	_	
+6-4	608-611	für	_	
+6-5	612-617	Busse	_	
+6-6	618-622	wäre	_	
+6-7	623-633	angemessen	_	
+6-8	633-634	.	_	
+
+#Text=Außerdem sollten die Stellen des Radwegs, die mit Kopfsteinpflaster versehen sind, einen anderen Belag erhalten (v.a. der Fußgängerüberweg) - hier kann man bei Regen nicht bremsen, ohne zu stürzen.
+7-1	635-643	Außerdem	_	
+7-2	644-651	sollten	_	
+7-3	652-655	die	_	
+7-4	656-663	Stellen	_	
+7-5	664-667	des	_	
+7-6	668-675	Radwegs	_	
+7-7	675-676	,	_	
+7-8	677-680	die	_	
+7-9	681-684	mit	_	
+7-10	685-702	Kopfsteinpflaster	_	
+7-11	703-711	versehen	_	
+7-12	712-716	sind	_	
+7-13	716-717	,	_	
+7-14	718-723	einen	_	
+7-15	724-731	anderen	_	
+7-16	732-737	Belag	_	
+7-17	738-746	erhalten	_	
+7-18	747-748	(	_	
+7-19	748-751	v.a	_	
+7-20	751-752	.	_	
+7-21	753-756	der	_	
+7-22	757-773	Fußgängerüberweg	_	
+7-23	773-774	)	_	
+7-24	775-776	-	_	
+7-25	777-781	hier	_	
+7-26	782-786	kann	_	
+7-27	787-790	man	_	
+7-28	791-794	bei	_	
+7-29	795-800	Regen	_	
+7-30	801-806	nicht	_	
+7-31	807-814	bremsen	_	
+7-32	814-815	,	_	
+7-33	816-820	ohne	_	
+7-34	821-823	zu	_	
+7-35	824-831	stürzen	_	
+7-36	831-832	.	_	

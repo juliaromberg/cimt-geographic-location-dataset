@@ -1,0 +1,22 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Mehr Fahrradständer
+1-1	0-4	Mehr	_	
+1-2	5-19	Fahrradständer	_	
+
+#Text=Es sollte mehr Fahrradständer vor dem [Discounter] geben.
+2-1	22-24	Es	_	
+2-2	25-31	sollte	_	
+2-3	32-36	mehr	_	
+2-4	37-51	Fahrradständer	_	
+2-5	52-55	vor	_	
+2-6	56-59	dem	_	
+2-7	60-61	[	_	
+2-8	61-71	Discounter	_	
+2-9	71-72	]	_	
+2-10	73-78	geben	_	
+2-11	78-79	.	_	

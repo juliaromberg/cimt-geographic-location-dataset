@@ -1,0 +1,134 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehrsführung
+1-1	0-15	Verkehrsführung	_	
+
+#Text=Die Schumannstr. endet aprupt als Fahrradstr., wenn man aus Richtung Innenstadt kommt und weiter über die Hausdorffstr. nach Kessenich radeln möchte.
+2-1	18-21	Die	*[7]	
+2-2	22-33	Schumannstr	*[7]	
+2-3	33-34	.	*[7]	
+2-4	35-40	endet	_	
+2-5	41-47	aprupt	_	
+2-6	48-51	als	_	
+2-7	52-62	Fahrradstr	_	
+2-8	62-63	.	_	
+2-9	63-64	,	_	
+2-10	65-69	wenn	_	
+2-11	70-73	man	_	
+2-12	74-77	aus	*[8]	
+2-13	78-86	Richtung	*[8]	
+2-14	87-97	Innenstadt	*[8]	
+2-15	98-103	kommt	*[8]	
+2-16	104-107	und	*[8]	
+2-17	108-114	weiter	*[8]	
+2-18	115-119	über	*[8]	
+2-19	120-123	die	*[8]	
+2-20	124-136	Hausdorffstr	*[8]	
+2-21	136-137	.	*[8]	
+2-22	138-142	nach	*[8]	
+2-23	143-152	Kessenich	*[8]	
+2-24	153-159	radeln	_	
+2-25	160-166	möchte	_	
+2-26	166-167	.	_	
+
+#Text=Hier erfolgt keine weitere Kennzeichnung auf der Straße wie der Radweg weiterverläuft.
+3-1	168-172	Hier	_	
+3-2	173-180	erfolgt	_	
+3-3	181-186	keine	_	
+3-4	187-194	weitere	_	
+3-5	195-208	Kennzeichnung	_	
+3-6	209-212	auf	_	
+3-7	213-216	der	_	
+3-8	217-223	Straße	_	
+3-9	224-227	wie	_	
+3-10	228-231	der	_	
+3-11	232-238	Radweg	_	
+3-12	239-253	weiterverläuft	_	
+3-13	253-254	.	_	
+
+#Text=Der Weg über die Kreuzung ist für Radfahrer nicht weiter gekennzeichnet.
+4-1	255-258	Der	_	
+4-2	259-262	Weg	_	
+4-3	263-267	über	_	
+4-4	268-271	die	_	
+4-5	272-280	Kreuzung	_	
+4-6	281-284	ist	_	
+4-7	285-288	für	_	
+4-8	289-298	Radfahrer	_	
+4-9	299-304	nicht	_	
+4-10	305-311	weiter	_	
+4-11	312-326	gekennzeichnet	_	
+4-12	326-327	.	_	
+
+#Text=Ortsunkundige sind hier gänzlich überfordert und überfragt.
+5-1	328-341	Ortsunkundige	_	
+5-2	342-346	sind	_	
+5-3	347-351	hier	_	
+5-4	352-360	gänzlich	_	
+5-5	361-372	überfordert	_	
+5-6	373-376	und	_	
+5-7	377-386	überfragt	_	
+5-8	386-387	.	_	
+
+#Text=Mein Vorschlag: Den Radweg über die Kreuzung bis zum Linksabbieger in die Hausdorffstr. richtig mit Pfeilen kennzeichnen und am Linksabbieger eine rote Fläche für Radfahrer aufpinseln und wo ein Linksabbiegepfeil eingezeichnet wird.
+6-1	388-392	Mein	_	
+6-2	393-402	Vorschlag	_	
+6-3	402-403	:	_	
+6-4	404-407	Den	_	
+6-5	408-414	Radweg	_	
+6-6	415-419	über	_	
+6-7	420-423	die	_	
+6-8	424-432	Kreuzung	_	
+6-9	433-436	bis	_	
+6-10	437-440	zum	_	
+6-11	441-454	Linksabbieger	*[9]	
+6-12	455-457	in	*[9]	
+6-13	458-461	die	*[9]	
+6-14	462-474	Hausdorffstr	*[9]	
+6-15	474-475	.	*[9]	
+6-16	476-483	richtig	_	
+6-17	484-487	mit	_	
+6-18	488-495	Pfeilen	_	
+6-19	496-508	kennzeichnen	_	
+6-20	509-512	und	_	
+6-21	513-515	am	_	
+6-22	516-529	Linksabbieger	_	
+6-23	530-534	eine	_	
+6-24	535-539	rote	_	
+6-25	540-546	Fläche	_	
+6-26	547-550	für	_	
+6-27	551-560	Radfahrer	_	
+6-28	561-571	aufpinseln	_	
+6-29	572-575	und	_	
+6-30	576-578	wo	_	
+6-31	579-582	ein	_	
+6-32	583-600	Linksabbiegepfeil	_	
+6-33	601-614	eingezeichnet	_	
+6-34	615-619	wird	_	
+6-35	619-620	.	_	
+
+#Text=Hilfreich wäre auch ein Schild am Ende der Schumannstraße, dass die Verkehrsführung für Radfahrer über die Kreuzung erklärt.
+7-1	621-630	Hilfreich	_	
+7-2	631-635	wäre	_	
+7-3	636-640	auch	_	
+7-4	641-644	ein	_	
+7-5	645-651	Schild	_	
+7-6	652-654	am	*[10]	
+7-7	655-659	Ende	*[10]	
+7-8	660-663	der	*[10]	
+7-9	664-678	Schumannstraße	*[10]	
+7-10	678-679	,	_	
+7-11	680-684	dass	_	
+7-12	685-688	die	_	
+7-13	689-704	Verkehrsführung	_	
+7-14	705-708	für	_	
+7-15	709-718	Radfahrer	_	
+7-16	719-723	über	_	
+7-17	724-727	die	_	
+7-18	728-736	Kreuzung	_	
+7-19	737-744	erklärt	_	
+7-20	744-745	.	_	

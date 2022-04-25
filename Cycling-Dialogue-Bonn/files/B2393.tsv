@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlecht erkennbare Kante
+1-1	0-8	Schlecht	_	
+1-2	9-19	erkennbare	_	
+1-3	20-25	Kante	_	
+
+#Text=An dieser Stelle läuft der bisherige Fahrradweg (von der Max.-Kolbe-Brücke kommend) mit dem Fußgängerweg vor dem Zebrastreifen zusammen.
+2-1	28-30	An	_	
+2-2	31-37	dieser	_	
+2-3	38-44	Stelle	_	
+2-4	45-50	läuft	_	
+2-5	51-54	der	_	
+2-6	55-64	bisherige	_	
+2-7	65-75	Fahrradweg	_	
+2-8	76-77	(	_	
+2-9	77-80	von	*[5]	
+2-10	81-84	der	*[5]	
+2-11	85-88	Max	*[5]	
+2-12	88-89	.	*[5]	
+2-13	89-90	-	*[5]	
+2-14	90-102	Kolbe-Brücke	*[5]	
+2-15	103-110	kommend	*[5]	
+2-16	110-111	)	_	
+2-17	112-115	mit	_	
+2-18	116-119	dem	_	
+2-19	120-132	Fußgängerweg	_	
+2-20	133-136	vor	_	
+2-21	137-140	dem	_	
+2-22	141-154	Zebrastreifen	_	
+2-23	155-163	zusammen	_	
+2-24	163-164	.	_	
+
+#Text=Allerdings ist dies kein glatter Übergang, sondern hier ist inbesondere auf den ersten Metern eine Kante, die man aufgrund der Bodenbeschaffenheit aber kaum erkennt.
+3-1	165-175	Allerdings	_	
+3-2	176-179	ist	_	
+3-3	180-184	dies	_	
+3-4	185-189	kein	_	
+3-5	190-197	glatter	_	
+3-6	198-206	Übergang	_	
+3-7	206-207	,	_	
+3-8	208-215	sondern	_	
+3-9	216-220	hier	_	
+3-10	221-224	ist	_	
+3-11	225-236	inbesondere	_	
+3-12	237-240	auf	_	
+3-13	241-244	den	_	
+3-14	245-251	ersten	_	
+3-15	252-258	Metern	_	
+3-16	259-263	eine	_	
+3-17	264-269	Kante	_	
+3-18	269-270	,	_	
+3-19	271-274	die	_	
+3-20	275-278	man	_	
+3-21	279-287	aufgrund	_	
+3-22	288-291	der	_	
+3-23	292-311	Bodenbeschaffenheit	_	
+3-24	312-316	aber	_	
+3-25	317-321	kaum	_	
+3-26	322-329	erkennt	_	
+3-27	329-330	.	_	
+
+#Text=Die Folge ist eine große Sturzgefahr.
+4-1	331-334	Die	_	
+4-2	335-340	Folge	_	
+4-3	341-344	ist	_	
+4-4	345-349	eine	_	
+4-5	350-355	große	_	
+4-6	356-367	Sturzgefahr	_	
+4-7	367-368	.	_	

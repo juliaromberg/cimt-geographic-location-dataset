@@ -1,0 +1,98 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Entscheidungsträger radeln selbst
+1-1	0-19	Entscheidungsträger	_	
+1-2	20-26	radeln	_	
+1-3	27-33	selbst	_	
+
+#Text=Ich fände gut, wenn die zuständigen Mitarbeiter der Stadt - einschließlich der Entscheidungsträger - die hier am häufigsten genannten oder gravierensten bemängelten Strecken über einen längeren Zeitraum zu den Stoßzeiten selber mit der Rad befahren und sich so ein umfassendes Bild von der jeweiligen Situation machen.
+2-1	36-39	Ich	_	
+2-2	40-45	fände	_	
+2-3	46-49	gut	_	
+2-4	49-50	,	_	
+2-5	51-55	wenn	_	
+2-6	56-59	die	_	
+2-7	60-71	zuständigen	_	
+2-8	72-83	Mitarbeiter	_	
+2-9	84-87	der	_	
+2-10	88-93	Stadt	_	
+2-11	94-95	-	_	
+2-12	96-110	einschließlich	_	
+2-13	111-114	der	_	
+2-14	115-134	Entscheidungsträger	_	
+2-15	135-136	-	_	
+2-16	137-140	die	_	
+2-17	141-145	hier	_	
+2-18	146-148	am	_	
+2-19	149-159	häufigsten	_	
+2-20	160-169	genannten	_	
+2-21	170-174	oder	_	
+2-22	175-188	gravierensten	_	
+2-23	189-200	bemängelten	_	
+2-24	201-209	Strecken	_	
+2-25	210-214	über	_	
+2-26	215-220	einen	_	
+2-27	221-229	längeren	_	
+2-28	230-238	Zeitraum	_	
+2-29	239-241	zu	_	
+2-30	242-245	den	_	
+2-31	246-256	Stoßzeiten	_	
+2-32	257-263	selber	_	
+2-33	264-267	mit	_	
+2-34	268-271	der	_	
+2-35	272-275	Rad	_	
+2-36	276-284	befahren	_	
+2-37	285-288	und	_	
+2-38	289-293	sich	_	
+2-39	294-296	so	_	
+2-40	297-300	ein	_	
+2-41	301-312	umfassendes	_	
+2-42	313-317	Bild	_	
+2-43	318-321	von	_	
+2-44	322-325	der	_	
+2-45	326-336	jeweiligen	_	
+2-46	337-346	Situation	_	
+2-47	347-353	machen	_	
+2-48	353-354	.	_	
+
+#Text=Ich denke, dass sich viele Problemstellen besser beurteilen lassen, wenn man die Wege selber nutzt und die Perspektive der Radfahrer einnimmt (statt nur vom Schreibtisch oder bei einem Vor-Ort Termin urteilt).
+3-1	355-358	Ich	_	
+3-2	359-364	denke	_	
+3-3	364-365	,	_	
+3-4	366-370	dass	_	
+3-5	371-375	sich	_	
+3-6	376-381	viele	_	
+3-7	382-396	Problemstellen	_	
+3-8	397-403	besser	_	
+3-9	404-414	beurteilen	_	
+3-10	415-421	lassen	_	
+3-11	421-422	,	_	
+3-12	423-427	wenn	_	
+3-13	428-431	man	_	
+3-14	432-435	die	_	
+3-15	436-440	Wege	_	
+3-16	441-447	selber	_	
+3-17	448-453	nutzt	_	
+3-18	454-457	und	_	
+3-19	458-461	die	_	
+3-20	462-473	Perspektive	_	
+3-21	474-477	der	_	
+3-22	478-487	Radfahrer	_	
+3-23	488-496	einnimmt	_	
+3-24	497-498	(	_	
+3-25	498-503	statt	_	
+3-26	504-507	nur	_	
+3-27	508-511	vom	_	
+3-28	512-524	Schreibtisch	_	
+3-29	525-529	oder	_	
+3-30	530-533	bei	_	
+3-31	534-539	einem	_	
+3-32	540-547	Vor-Ort	_	
+3-33	548-554	Termin	_	
+3-34	555-562	urteilt	_	
+3-35	562-563	)	_	
+3-36	563-564	.	_	

@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gürtel wird Radschnellweg
+1-1	0-6	Gürtel	_	
+1-2	7-11	wird	_	
+1-3	12-25	Radschnellweg	_	
+
+#Text=Auf dem Gürtel in jede Richtung eine Kfz-Spur in eine Protected Bike Lane umwandeln und als Radschnellwegring ausweisen.
+2-1	28-31	Auf	_	
+2-2	32-35	dem	_	
+2-3	36-42	Gürtel	_	
+2-4	43-45	in	_	
+2-5	46-50	jede	_	
+2-6	51-59	Richtung	_	
+2-7	60-64	eine	_	
+2-8	65-73	Kfz-Spur	_	
+2-9	74-76	in	_	
+2-10	77-81	eine	_	
+2-11	82-91	Protected	_	
+2-12	92-96	Bike	_	
+2-13	97-101	Lane	_	
+2-14	102-111	umwandeln	_	
+2-15	112-115	und	_	
+2-16	116-119	als	_	
+2-17	120-137	Radschnellwegring	_	
+2-18	138-147	ausweisen	_	
+2-19	147-148	.	_	

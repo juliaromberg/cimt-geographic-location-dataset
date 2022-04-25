@@ -1,0 +1,116 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bei Baustellen Radfahrer berücksichtigen
+1-1	0-3	Bei	_	
+1-2	4-14	Baustellen	_	
+1-3	15-24	Radfahrer	_	
+1-4	25-40	berücksichtigen	_	
+
+#Text=Ob Viktoriabrücke oder Reuterbrücke häufig wird in Bonn der Radfahrer bei Baustellen ausgeplant (kann ja 3 Jahre schieben).
+2-1	43-45	Ob	_	
+2-2	46-60	Viktoriabrücke	*[9]	
+2-3	61-65	oder	*[9]	
+2-4	66-78	Reuterbrücke	*[9]	
+2-5	79-85	häufig	_	
+2-6	86-90	wird	_	
+2-7	91-93	in	*[10]	
+2-8	94-98	Bonn	*[10]	
+2-9	99-102	der	_	
+2-10	103-112	Radfahrer	_	
+2-11	113-116	bei	_	
+2-12	117-127	Baustellen	_	
+2-13	128-138	ausgeplant	_	
+2-14	139-140	(	_	
+2-15	140-144	kann	_	
+2-16	145-147	ja	_	
+2-17	148-149	3	_	
+2-18	150-155	Jahre	_	
+2-19	156-164	schieben	_	
+2-20	164-165	)	_	
+2-21	165-166	.	_	
+
+#Text=An der markierten Stelle ist nun wieder eine Baustelle vor dem Ausgang der U-Bahn Uni/Markt entstanden.
+3-1	167-169	An	_	
+3-2	170-173	der	_	
+3-3	174-184	markierten	_	
+3-4	185-191	Stelle	_	
+3-5	192-195	ist	_	
+3-6	196-199	nun	_	
+3-7	200-206	wieder	_	
+3-8	207-211	eine	_	
+3-9	212-221	Baustelle	_	
+3-10	222-225	vor	_	
+3-11	226-229	dem	_	
+3-12	230-237	Ausgang	_	
+3-13	238-241	der	_	
+3-14	242-248	U-Bahn	_	
+3-15	249-252	Uni	_	
+3-16	252-253	/	_	
+3-17	253-258	Markt	_	
+3-18	259-269	entstanden	_	
+3-19	269-270	.	_	
+
+#Text=Der Bauzaun lässt nur einen Meter Platz für Radfahrer und Fußgänger, also kein Durchkommen mehr.
+4-1	271-274	Der	_	
+4-2	275-282	Bauzaun	_	
+4-3	283-288	lässt	_	
+4-4	289-292	nur	_	
+4-5	293-298	einen	_	
+4-6	299-304	Meter	_	
+4-7	305-310	Platz	_	
+4-8	311-314	für	_	
+4-9	315-324	Radfahrer	_	
+4-10	325-328	und	_	
+4-11	329-338	Fußgänger	_	
+4-12	338-339	,	_	
+4-13	340-344	also	_	
+4-14	345-349	kein	_	
+4-15	350-361	Durchkommen	_	
+4-16	362-366	mehr	_	
+4-17	366-367	.	_	
+
+#Text=Dabei ist hier die Hauptfahrradstrecke zum Rhein.
+5-1	368-373	Dabei	_	
+5-2	374-377	ist	_	
+5-3	378-382	hier	_	
+5-4	383-386	die	_	
+5-5	387-406	Hauptfahrradstrecke	_	
+5-6	407-410	zum	_	
+5-7	411-416	Rhein	_	
+5-8	416-417	.	_	
+
+#Text=Bitte umgehend den Bauzaun einen weiteren Meter verschieben.
+6-1	418-423	Bitte	_	
+6-2	424-432	umgehend	_	
+6-3	433-436	den	_	
+6-4	437-444	Bauzaun	_	
+6-5	445-450	einen	_	
+6-6	451-459	weiteren	_	
+6-7	460-465	Meter	_	
+6-8	466-477	verschieben	_	
+6-9	477-478	.	_	
+
+#Text=Dort lagert bisher auch nur Material.
+7-1	479-483	Dort	_	
+7-2	484-490	lagert	_	
+7-3	491-497	bisher	_	
+7-4	498-502	auch	_	
+7-5	503-506	nur	_	
+7-6	507-515	Material	_	
+7-7	515-516	.	_	
+
+#Text=Und generell die Bedürfnisse von Radlern bei Baustellen einplanen.
+8-1	517-520	Und	_	
+8-2	521-529	generell	_	
+8-3	530-533	die	_	
+8-4	534-545	Bedürfnisse	_	
+8-5	546-549	von	_	
+8-6	550-557	Radlern	_	
+8-7	558-561	bei	_	
+8-8	562-572	Baustellen	_	
+8-9	573-582	einplanen	_	
+8-10	582-583	.	_	

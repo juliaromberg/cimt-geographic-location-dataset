@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg oder nicht? (Burgstraße stadtauswärts)
+1-1	0-10	Fahrradweg	_	
+1-2	11-15	oder	_	
+1-3	16-21	nicht	_	
+1-4	21-22	?	_	
+1-5	23-24	(	_	
+1-6	24-34	Burgstraße	*[6]	
+1-7	35-48	stadtauswärts	*[6]	
+1-8	48-49	)	_	
+
+#Text=Die Beschilderung ist uneindeutig: handelt es sich um einen Fahrradweg (so suggeriert ein Schild), oder nicht (so erscheint es durch die entfernte Beschriftung auf dem Boden).
+2-1	52-55	Die	_	
+2-2	56-69	Beschilderung	_	
+2-3	70-73	ist	_	
+2-4	74-85	uneindeutig	_	
+2-5	85-86	:	_	
+2-6	87-94	handelt	_	
+2-7	95-97	es	_	
+2-8	98-102	sich	_	
+2-9	103-105	um	_	
+2-10	106-111	einen	_	
+2-11	112-122	Fahrradweg	_	
+2-12	123-124	(	_	
+2-13	124-126	so	_	
+2-14	127-137	suggeriert	_	
+2-15	138-141	ein	_	
+2-16	142-148	Schild	_	
+2-17	148-149	)	_	
+2-18	149-150	,	_	
+2-19	151-155	oder	_	
+2-20	156-161	nicht	_	
+2-21	162-163	(	_	
+2-22	163-165	so	_	
+2-23	166-175	erscheint	_	
+2-24	176-178	es	_	
+2-25	179-184	durch	_	
+2-26	185-188	die	_	
+2-27	189-198	entfernte	_	
+2-28	199-211	Beschriftung	_	
+2-29	212-215	auf	_	
+2-30	216-219	dem	_	
+2-31	220-225	Boden	_	
+2-32	225-226	)	_	
+2-33	226-227	.	_	
+
+#Text=Dies führt zu Uneinigkeit, v.a. mit den dort SEHR häufig parkenden Autofahrern....
+3-1	228-232	Dies	_	
+3-2	233-238	führt	_	
+3-3	239-241	zu	_	
+3-4	242-253	Uneinigkeit	_	
+3-5	253-254	,	_	
+3-6	255-258	v.a	_	
+3-7	258-259	.	_	
+3-8	260-263	mit	_	
+3-9	264-267	den	_	
+3-10	268-272	dort	_	
+3-11	273-277	SEHR	_	
+3-12	278-284	häufig	_	
+3-13	285-294	parkenden	_	
+3-14	295-306	Autofahrern	_	
+3-15	306-307	.	_	
+3-16	307-308	.	_	
+3-17	308-309	.	_	
+3-18	309-310	.	_	
+
+#Text=Es wird um eindeutige Beschilderung des Radwegs (geteilt mit Fußgängern) gebeten.
+4-1	311-313	Es	_	
+4-2	314-318	wird	_	
+4-3	319-321	um	_	
+4-4	322-332	eindeutige	_	
+4-5	333-346	Beschilderung	_	
+4-6	347-350	des	_	
+4-7	351-358	Radwegs	_	
+4-8	359-360	(	_	
+4-9	360-367	geteilt	_	
+4-10	368-371	mit	_	
+4-11	372-382	Fußgängern	_	
+4-12	382-383	)	_	
+4-13	384-391	gebeten	_	
+4-14	391-392	.	_	
+
+#Text=Danke!
+5-1	393-398	Danke	_	
+5-2	398-399	!	_	

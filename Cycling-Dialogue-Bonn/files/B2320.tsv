@@ -1,0 +1,135 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlechter Fahrbahnzustand & parkende PKW
+1-1	0-10	Schlechter	_	
+1-2	11-26	Fahrbahnzustand	_	
+1-3	27-28	&	_	
+1-4	29-37	parkende	_	
+1-5	38-41	PKW	_	
+
+#Text=Die Prinz-Albert-Str. wird rege vom Radverkehr genutzt, verbindet sie doch Teile der Südstadt mit dem Zentrum/Hauptbahnhof und in ihrer unmittelbaren Nähe befinden sich zwei Schulen.
+2-1	44-47	Die	*[8]	
+2-2	48-64	Prinz-Albert-Str	*[8]	
+2-3	64-65	.	_	
+2-4	66-70	wird	_	
+2-5	71-75	rege	_	
+2-6	76-79	vom	_	
+2-7	80-90	Radverkehr	_	
+2-8	91-98	genutzt	_	
+2-9	98-99	,	_	
+2-10	100-109	verbindet	_	
+2-11	110-113	sie	_	
+2-12	114-118	doch	_	
+2-13	119-124	Teile	*[9]	
+2-14	125-128	der	*[9]	
+2-15	129-137	Südstadt	*[9]	
+2-16	138-141	mit	*[9]	
+2-17	142-145	dem	*[9]	
+2-18	146-153	Zentrum	*[9]	
+2-19	153-154	/	*[9]	
+2-20	154-166	Hauptbahnhof	*[9]	
+2-21	167-170	und	_	
+2-22	171-173	in	_	
+2-23	174-179	ihrer	_	
+2-24	180-193	unmittelbaren	_	
+2-25	194-198	Nähe	_	
+2-26	199-207	befinden	_	
+2-27	208-212	sich	_	
+2-28	213-217	zwei	_	
+2-29	218-225	Schulen	_	
+2-30	225-226	.	_	
+
+#Text=Der Fahrbahnzustand, besonders an den Rändern der Straße ist jedoch sehr schlecht.
+3-1	227-230	Der	_	
+3-2	231-246	Fahrbahnzustand	_	
+3-3	246-247	,	_	
+3-4	248-257	besonders	_	
+3-5	258-260	an	_	
+3-6	261-264	den	_	
+3-7	265-272	Rändern	_	
+3-8	273-276	der	_	
+3-9	277-283	Straße	_	
+3-10	284-287	ist	_	
+3-11	288-294	jedoch	_	
+3-12	295-299	sehr	_	
+3-13	300-308	schlecht	_	
+3-14	308-309	.	_	
+
+#Text=Viele Schlaglöcher und aufgeplatzter Asphalt zwingen Radfahrer zum Slalomfahren.
+4-1	310-315	Viele	_	
+4-2	316-328	Schlaglöcher	_	
+4-3	329-332	und	_	
+4-4	333-346	aufgeplatzter	_	
+4-5	347-354	Asphalt	_	
+4-6	355-362	zwingen	_	
+4-7	363-372	Radfahrer	_	
+4-8	373-376	zum	_	
+4-9	377-389	Slalomfahren	_	
+4-10	389-390	.	_	
+
+#Text=Zudem behindern auf der Fahrbahn parkende PKW (häufig vor Bäumen) das Radfahren.
+5-1	391-396	Zudem	_	
+5-2	397-406	behindern	_	
+5-3	407-410	auf	_	
+5-4	411-414	der	_	
+5-5	415-423	Fahrbahn	_	
+5-6	424-432	parkende	_	
+5-7	433-436	PKW	_	
+5-8	437-438	(	_	
+5-9	438-444	häufig	_	
+5-10	445-448	vor	_	
+5-11	449-455	Bäumen	_	
+5-12	455-456	)	_	
+5-13	457-460	das	_	
+5-14	461-470	Radfahren	_	
+5-15	470-471	.	_	
+
+#Text=Sie müssen dadurch häufig auf die Straßenmitte ausweichen und hierfür die Straßenbahnschienen queren, was erhebliches Sturzpotential birgt, besonders für Kinder und ältere Menschen.
+6-1	472-475	Sie	_	
+6-2	476-482	müssen	_	
+6-3	483-490	dadurch	_	
+6-4	491-497	häufig	_	
+6-5	498-501	auf	_	
+6-6	502-505	die	_	
+6-7	506-518	Straßenmitte	_	
+6-8	519-529	ausweichen	_	
+6-9	530-533	und	_	
+6-10	534-541	hierfür	_	
+6-11	542-545	die	_	
+6-12	546-565	Straßenbahnschienen	_	
+6-13	566-572	queren	_	
+6-14	572-573	,	_	
+6-15	574-577	was	_	
+6-16	578-589	erhebliches	_	
+6-17	590-604	Sturzpotential	_	
+6-18	605-610	birgt	_	
+6-19	610-611	,	_	
+6-20	612-621	besonders	_	
+6-21	622-625	für	_	
+6-22	626-632	Kinder	_	
+6-23	633-636	und	_	
+6-24	637-643	ältere	_	
+6-25	644-652	Menschen	_	
+6-26	652-653	.	_	
+
+#Text=Ein Fahrradstreifen wäre, zumindest in eine Richtung, baulich sicherlich möglich um Verkehrsbehinderungen vorzubeugen.
+7-1	654-657	Ein	_	
+7-2	658-673	Fahrradstreifen	_	
+7-3	674-678	wäre	_	
+7-4	678-679	,	_	
+7-5	680-689	zumindest	_	
+7-6	690-692	in	_	
+7-7	693-697	eine	_	
+7-8	698-706	Richtung	_	
+7-9	706-707	,	_	
+7-10	708-715	baulich	_	
+7-11	716-726	sicherlich	_	
+7-12	727-734	möglich	_	
+7-13	735-737	um	_	
+7-14	738-759	Verkehrsbehinderungen	_	
+7-15	760-771	vorzubeugen	_	
+7-16	771-772	.	_	

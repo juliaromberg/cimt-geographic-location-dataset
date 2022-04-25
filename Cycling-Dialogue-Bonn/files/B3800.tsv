@@ -1,0 +1,138 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gute Verbindungen in West-Ost Richtung und Nord-Süd Richtung
+1-1	0-4	Gute	_	
+1-2	5-17	Verbindungen	_	
+1-3	18-20	in	_	
+1-4	21-29	West-Ost	_	
+1-5	30-38	Richtung	_	
+1-6	39-42	und	_	
+1-7	43-51	Nord-Süd	_	
+1-8	52-60	Richtung	_	
+
+#Text=Das Ziel sollte zumindestens sein, eine Möglichkeit der Stadtquerung von der Kennedybrücke bis Poppelsdorf zu schaffen und schnelle Verbindungen von Bonn nach Godesberg und von Beuel nach Ramersdorf.
+2-1	63-66	Das	_	
+2-2	67-71	Ziel	_	
+2-3	72-78	sollte	_	
+2-4	79-91	zumindestens	_	
+2-5	92-96	sein	_	
+2-6	96-97	,	_	
+2-7	98-102	eine	_	
+2-8	103-114	Möglichkeit	_	
+2-9	115-118	der	_	
+2-10	119-131	Stadtquerung	*[7]	
+2-11	132-135	von	*[7]	
+2-12	136-139	der	*[7]	
+2-13	140-153	Kennedybrücke	*[7]	
+2-14	154-157	bis	*[7]	
+2-15	158-169	Poppelsdorf	*[7]	
+2-16	170-172	zu	_	
+2-17	173-181	schaffen	_	
+2-18	182-185	und	_	
+2-19	186-194	schnelle	_	
+2-20	195-207	Verbindungen	_	
+2-21	208-211	von	_	
+2-22	212-216	Bonn	_	
+2-23	217-221	nach	_	
+2-24	222-231	Godesberg	_	
+2-25	232-235	und	_	
+2-26	236-239	von	_	
+2-27	240-245	Beuel	_	
+2-28	246-250	nach	_	
+2-29	251-261	Ramersdorf	_	
+2-30	261-262	.	_	
+
+#Text=Die Nutzer sollten die Möglichkeit erhalten, mit ihren Rädern auch zur Arbeit oder zum Einkauf... zu kommen.
+3-1	263-266	Die	_	
+3-2	267-273	Nutzer	_	
+3-3	274-281	sollten	_	
+3-4	282-285	die	_	
+3-5	286-297	Möglichkeit	_	
+3-6	298-306	erhalten	_	
+3-7	306-307	,	_	
+3-8	308-311	mit	_	
+3-9	312-317	ihren	_	
+3-10	318-324	Rädern	_	
+3-11	325-329	auch	_	
+3-12	330-333	zur	_	
+3-13	334-340	Arbeit	_	
+3-14	341-345	oder	_	
+3-15	346-349	zum	_	
+3-16	350-357	Einkauf	_	
+3-17	357-358	.	_	
+3-18	358-359	.	_	
+3-19	359-360	.	_	
+3-20	361-363	zu	_	
+3-21	364-370	kommen	_	
+3-22	370-371	.	_	
+
+#Text=Über die ärgerliche Unterführung an der Poppelsdorfer Allee ist schon häufig geschrieben, es gibt aber keine Alternative.
+4-1	372-376	Über	_	
+4-2	377-380	die	_	
+4-3	381-391	ärgerliche	_	
+4-4	392-404	Unterführung	*[8]	
+4-5	405-407	an	*[8]	
+4-6	408-411	der	*[8]	
+4-7	412-425	Poppelsdorfer	*[8]	
+4-8	426-431	Allee	*[8]	
+4-9	432-435	ist	_	
+4-10	436-441	schon	_	
+4-11	442-448	häufig	_	
+4-12	449-460	geschrieben	_	
+4-13	460-461	,	_	
+4-14	462-464	es	_	
+4-15	465-469	gibt	_	
+4-16	470-474	aber	_	
+4-17	475-480	keine	_	
+4-18	481-492	Alternative	_	
+4-19	492-493	.	_	
+
+#Text=Paralell zur Bundesbahntrasse wäre es mit relativ wenig Aufwand möglich, eine gute Verbindung zwischen Bonn und Bad Godesberg zu schaffen.
+5-1	494-502	Paralell	_	
+5-2	503-506	zur	_	
+5-3	507-523	Bundesbahntrasse	_	
+5-4	524-528	wäre	_	
+5-5	529-531	es	_	
+5-6	532-535	mit	_	
+5-7	536-543	relativ	_	
+5-8	544-549	wenig	_	
+5-9	550-557	Aufwand	_	
+5-10	558-565	möglich	_	
+5-11	565-566	,	_	
+5-12	567-571	eine	_	
+5-13	572-576	gute	_	
+5-14	577-587	Verbindung	_	
+5-15	588-596	zwischen	*[9]	
+5-16	597-601	Bonn	*[9]	
+5-17	602-605	und	*[9]	
+5-18	606-609	Bad	*[9]	
+5-19	610-619	Godesberg	*[9]	
+5-20	620-622	zu	_	
+5-21	623-631	schaffen	_	
+5-22	631-632	.	_	
+
+#Text=Auf der anderen Rheinseite böte sich die Straßenbahnlinie an, an der entlang eine querungsarme Durchfahrt geschaffen werden könnte.
+6-1	633-636	Auf	_	
+6-2	637-640	der	_	
+6-3	641-648	anderen	_	
+6-4	649-659	Rheinseite	_	
+6-5	660-664	böte	_	
+6-6	665-669	sich	_	
+6-7	670-673	die	_	
+6-8	674-690	Straßenbahnlinie	_	
+6-9	691-693	an	_	
+6-10	693-694	,	_	
+6-11	695-697	an	_	
+6-12	698-701	der	_	
+6-13	702-709	entlang	_	
+6-14	710-714	eine	_	
+6-15	715-727	querungsarme	_	
+6-16	728-738	Durchfahrt	_	
+6-17	739-749	geschaffen	_	
+6-18	750-756	werden	_	
+6-19	757-763	könnte	_	
+6-20	763-764	.	_	

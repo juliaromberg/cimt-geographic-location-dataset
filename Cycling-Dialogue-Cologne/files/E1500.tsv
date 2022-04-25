@@ -1,0 +1,142 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Überquerung des Gürtels
+1-1	0-11	Überquerung	_	
+1-2	12-15	des	_	
+1-3	16-23	Gürtels	_	
+
+#Text=Wenn man vom BF Ehrenfeld die Straße an der Ampel überqueren möchte, gibt es eine sehr enge Fahrradspur, die oft von Kinderwagen und anderen Fußgängern zusätzlich benutzt wird.
+2-1	26-30	Wenn	_	
+2-2	31-34	man	_	
+2-3	35-38	vom	*[8]	
+2-4	39-41	BF	*[8]	
+2-5	42-51	Ehrenfeld	*[8]	
+2-6	52-55	die	*[8]	
+2-7	56-62	Straße	*[8]	
+2-8	63-65	an	*[8]	
+2-9	66-69	der	*[8]	
+2-10	70-75	Ampel	*[8]	
+2-11	76-86	überqueren	*[8]	
+2-12	87-93	möchte	_	
+2-13	93-94	,	_	
+2-14	95-99	gibt	_	
+2-15	100-102	es	_	
+2-16	103-107	eine	_	
+2-17	108-112	sehr	_	
+2-18	113-117	enge	_	
+2-19	118-129	Fahrradspur	_	
+2-20	129-130	,	_	
+2-21	131-134	die	_	
+2-22	135-138	oft	_	
+2-23	139-142	von	_	
+2-24	143-154	Kinderwagen	_	
+2-25	155-158	und	_	
+2-26	159-166	anderen	_	
+2-27	167-177	Fußgängern	_	
+2-28	178-188	zusätzlich	_	
+2-29	189-196	benutzt	_	
+2-30	197-201	wird	_	
+2-31	201-202	.	_	
+
+#Text=Der Fußgängerweg ist durch eine Verkehrssicherung vor der Bahn geschützt.
+3-1	203-206	Der	_	
+3-2	207-219	Fußgängerweg	_	
+3-3	220-223	ist	_	
+3-4	224-229	durch	_	
+3-5	230-234	eine	_	
+3-6	235-252	Verkehrssicherung	_	
+3-7	253-256	vor	_	
+3-8	257-260	der	_	
+3-9	261-265	Bahn	_	
+3-10	266-275	geschützt	_	
+3-11	275-276	.	_	
+
+#Text=Eigentlich sinnvoll, aber praktisch nicht benutzt.
+4-1	277-287	Eigentlich	_	
+4-2	288-296	sinnvoll	_	
+4-3	296-297	,	_	
+4-4	298-302	aber	_	
+4-5	303-312	praktisch	_	
+4-6	313-318	nicht	_	
+4-7	319-326	benutzt	_	
+4-8	326-327	.	_	
+
+#Text=Dadurch kommt es zu Stau mitten auf der Verkehrsinsel zwischen Straße und Straßenbahn.
+5-1	328-335	Dadurch	_	
+5-2	336-341	kommt	_	
+5-3	342-344	es	_	
+5-4	345-347	zu	_	
+5-5	348-352	Stau	_	
+5-6	353-359	mitten	_	
+5-7	360-363	auf	_	
+5-8	364-367	der	_	
+5-9	368-381	Verkehrsinsel	_	
+5-10	382-390	zwischen	_	
+5-11	391-397	Straße	_	
+5-12	398-401	und	_	
+5-13	402-413	Straßenbahn	_	
+5-14	413-414	.	_	
+
+#Text=Mein Vorschlag wäre, die Fahrradspur zu verbreitern und die Verkehrsinsel zu vergrößern, so dass man auch als Fahrradfahrer - vor allem mit Anhänger- geschützt ist vor klingelnden Straßenbahnen und hupenden Autos.
+6-1	415-419	Mein	_	
+6-2	420-429	Vorschlag	_	
+6-3	430-434	wäre	_	
+6-4	434-435	,	_	
+6-5	436-439	die	_	
+6-6	440-451	Fahrradspur	_	
+6-7	452-454	zu	_	
+6-8	455-466	verbreitern	_	
+6-9	467-470	und	_	
+6-10	471-474	die	_	
+6-11	475-488	Verkehrsinsel	_	
+6-12	489-491	zu	_	
+6-13	492-502	vergrößern	_	
+6-14	502-503	,	_	
+6-15	504-506	so	_	
+6-16	507-511	dass	_	
+6-17	512-515	man	_	
+6-18	516-520	auch	_	
+6-19	521-524	als	_	
+6-20	525-538	Fahrradfahrer	_	
+6-21	539-540	-	_	
+6-22	541-544	vor	_	
+6-23	545-550	allem	_	
+6-24	551-554	mit	_	
+6-25	555-563	Anhänger	_	
+6-26	563-564	-	_	
+6-27	565-574	geschützt	_	
+6-28	575-578	ist	_	
+6-29	579-582	vor	_	
+6-30	583-594	klingelnden	_	
+6-31	595-608	Straßenbahnen	_	
+6-32	609-612	und	_	
+6-33	613-621	hupenden	_	
+6-34	622-627	Autos	_	
+6-35	627-628	.	_	
+
+#Text=Und/Oder die Ampelphase für die Fahrradfahrer zu verlängern und nicht immer dem Bus- und Straßenbahnverkehr Vorrang geben.
+7-1	629-632	Und	_	
+7-2	632-633	/	_	
+7-3	633-637	Oder	_	
+7-4	638-641	die	_	
+7-5	642-652	Ampelphase	_	
+7-6	653-656	für	_	
+7-7	657-660	die	_	
+7-8	661-674	Fahrradfahrer	_	
+7-9	675-677	zu	_	
+7-10	678-688	verlängern	_	
+7-11	689-692	und	_	
+7-12	693-698	nicht	_	
+7-13	699-704	immer	_	
+7-14	705-708	dem	_	
+7-15	709-712	Bus	_	
+7-16	712-713	-	_	
+7-17	714-717	und	_	
+7-18	718-736	Straßenbahnverkehr	_	
+7-19	737-744	Vorrang	_	
+7-20	745-750	geben	_	
+7-21	750-751	.	_	

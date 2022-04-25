@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Viel zu schmaler Schutzstreifen im Aufschwenkbereich der Türen parkender Autos.
+1-1	0-4	Viel	_	
+1-2	5-7	zu	_	
+1-3	8-16	schmaler	_	
+1-4	17-31	Schutzstreifen	_	
+1-5	32-34	im	_	
+1-6	35-52	Aufschwenkbereich	_	
+1-7	53-56	der	_	
+1-8	57-62	Türen	_	
+1-9	63-72	parkender	_	
+1-10	73-78	Autos	_	
+1-11	78-79	.	_	
+
+#Text=GEHTS NOCH?
+2-1	80-85	GEHTS	_	
+2-2	86-90	NOCH	_	
+2-3	90-91	?	_	
+
+#Text=Entweder Autos weg oder Schutzstreifen weg.
+3-1	94-102	Entweder	_	
+3-2	103-108	Autos	_	
+3-3	109-112	weg	_	
+3-4	113-117	oder	_	
+3-5	118-132	Schutzstreifen	_	
+3-6	133-136	weg	_	
+3-7	136-137	.	_	
+
+#Text=Oder beides.
+4-1	138-142	Oder	_	
+4-2	143-149	beides	_	
+4-3	149-150	.	_	

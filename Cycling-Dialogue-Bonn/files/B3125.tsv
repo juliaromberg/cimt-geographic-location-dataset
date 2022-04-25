@@ -1,0 +1,170 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einfahrt versperrt
+1-1	0-8	Einfahrt	_	
+1-2	9-18	versperrt	_	
+
+#Text=Die eigentlich für Radfahrer frei gegebene Einfahrt in die Pützstraße ist sehr häufig von Autos versperrt, die sich dort zum abbiegen einordnen, aber häufiger parken, und damit auch gleich den Behindertenparkplatz blockieren.
+2-1	21-24	Die	_	
+2-2	25-35	eigentlich	_	
+2-3	36-39	für	_	
+2-4	40-49	Radfahrer	_	
+2-5	50-54	frei	_	
+2-6	55-63	gegebene	_	
+2-7	64-72	Einfahrt	_	
+2-8	73-75	in	*[11]	
+2-9	76-79	die	*[11]	
+2-10	80-90	Pützstraße	*[11]	
+2-11	91-94	ist	_	
+2-12	95-99	sehr	_	
+2-13	100-106	häufig	_	
+2-14	107-110	von	_	
+2-15	111-116	Autos	_	
+2-16	117-126	versperrt	_	
+2-17	126-127	,	_	
+2-18	128-131	die	_	
+2-19	132-136	sich	_	
+2-20	137-141	dort	_	
+2-21	142-145	zum	_	
+2-22	146-154	abbiegen	_	
+2-23	155-164	einordnen	_	
+2-24	164-165	,	_	
+2-25	166-170	aber	_	
+2-26	171-179	häufiger	_	
+2-27	180-186	parken	_	
+2-28	186-187	,	_	
+2-29	188-191	und	_	
+2-30	192-197	damit	_	
+2-31	198-202	auch	_	
+2-32	203-209	gleich	_	
+2-33	210-213	den	_	
+2-34	214-234	Behindertenparkplatz	_	
+2-35	235-245	blockieren	_	
+2-36	245-246	.	_	
+
+#Text=Der örtliche Streifenbeamte unternimmt nichts.
+3-1	247-250	Der	_	
+3-2	251-259	örtliche	_	
+3-3	260-274	Streifenbeamte	_	
+3-4	275-285	unternimmt	_	
+3-5	286-292	nichts	_	
+3-6	292-293	.	_	
+
+#Text=Mir hat er gesagt, er sei ein Freund von shared place.
+4-1	294-297	Mir	_	
+4-2	298-301	hat	_	
+4-3	302-304	er	_	
+4-4	305-311	gesagt	_	
+4-5	311-312	,	_	
+4-6	313-315	er	_	
+4-7	316-319	sei	_	
+4-8	320-323	ein	_	
+4-9	324-330	Freund	_	
+4-10	331-334	von	_	
+4-11	335-341	shared	_	
+4-12	342-347	place	_	
+4-13	347-348	.	_	
+
+#Text=Das bin ich auch, aber von teilen kann dort keine Rede sein.
+5-1	349-352	Das	_	
+5-2	353-356	bin	_	
+5-3	357-360	ich	_	
+5-4	361-365	auch	_	
+5-5	365-366	,	_	
+5-6	367-371	aber	_	
+5-7	372-375	von	_	
+5-8	376-382	teilen	_	
+5-9	383-387	kann	_	
+5-10	388-392	dort	_	
+5-11	393-398	keine	_	
+5-12	399-403	Rede	_	
+5-13	404-408	sein	_	
+5-14	408-409	.	_	
+
+#Text=Die Pützstraße sollte Fußgängerzone sein, auch wenn einige Geschäftsleute schon wieder dagegen Amok laufen.
+6-1	410-413	Die	*[12]	
+6-2	414-424	Pützstraße	*[12]	
+6-3	425-431	sollte	_	
+6-4	432-445	Fußgängerzone	_	
+6-5	446-450	sein	_	
+6-6	450-451	,	_	
+6-7	452-456	auch	_	
+6-8	457-461	wenn	_	
+6-9	462-468	einige	_	
+6-10	469-483	Geschäftsleute	_	
+6-11	484-489	schon	_	
+6-12	490-496	wieder	_	
+6-13	497-504	dagegen	_	
+6-14	505-509	Amok	_	
+6-15	510-516	laufen	_	
+6-16	516-517	.	_	
+
+#Text=Sie verstehen nicht, dass ein mögliches Verweilen in der Straße auch zu mehr Konsum führt.
+7-1	518-521	Sie	_	
+7-2	522-531	verstehen	_	
+7-3	532-537	nicht	_	
+7-4	537-538	,	_	
+7-5	539-543	dass	_	
+7-6	544-547	ein	_	
+7-7	548-557	mögliches	_	
+7-8	558-567	Verweilen	_	
+7-9	568-570	in	_	
+7-10	571-574	der	_	
+7-11	575-581	Straße	_	
+7-12	582-586	auch	_	
+7-13	587-589	zu	_	
+7-14	590-594	mehr	_	
+7-15	595-601	Konsum	_	
+7-16	602-607	führt	_	
+7-17	607-608	.	_	
+
+#Text=Dazu sind Fußgänger und Radler dort durch Parken in 2. Reihe sehr gefährdet.
+8-1	609-613	Dazu	_	
+8-2	614-618	sind	_	
+8-3	619-628	Fußgänger	_	
+8-4	629-632	und	_	
+8-5	633-639	Radler	_	
+8-6	640-644	dort	_	
+8-7	645-650	durch	_	
+8-8	651-657	Parken	_	
+8-9	658-660	in	_	
+8-10	661-662	2	_	
+8-11	662-663	.	_	
+8-12	664-669	Reihe	_	
+8-13	670-674	sehr	_	
+8-14	675-684	gefährdet	_	
+8-15	684-685	.	_	
+
+#Text=Es ist purer Sress, sich in dieser Straße aufzuhalten.
+9-1	686-688	Es	_	
+9-2	689-692	ist	_	
+9-3	693-698	purer	_	
+9-4	699-704	Sress	_	
+9-5	704-705	,	_	
+9-6	706-710	sich	_	
+9-7	711-713	in	_	
+9-8	714-720	dieser	_	
+9-9	721-727	Straße	_	
+9-10	728-739	aufzuhalten	_	
+9-11	739-740	.	_	
+
+#Text=Die Einfahrt mit dem Rad gegen die Einbahnstraße ist durch blockierende Autos quasi unmöglich.
+10-1	741-744	Die	_	
+10-2	745-753	Einfahrt	_	
+10-3	754-757	mit	_	
+10-4	758-761	dem	_	
+10-5	762-765	Rad	_	
+10-6	766-771	gegen	_	
+10-7	772-775	die	_	
+10-8	776-789	Einbahnstraße	_	
+10-9	790-793	ist	_	
+10-10	794-799	durch	_	
+10-11	800-812	blockierende	_	
+10-12	813-818	Autos	_	
+10-13	819-824	quasi	_	
+10-14	825-834	unmöglich	_	
+10-15	834-835	.	_	

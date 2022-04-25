@@ -1,0 +1,59 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=keine Verkehrsführung vorhanden
+1-1	0-5	keine	_	
+1-2	6-21	Verkehrsführung	_	
+1-3	22-31	vorhanden	_	
+
+#Text=Auf der Niederkasseler Str. Richtung Oberkassel fahrend gibt es vor der Kreuzung St Augustiner Str. einen Radweg.
+2-1	34-37	Auf	*[5]	
+2-2	38-41	der	*[5]	
+2-3	42-56	Niederkasseler	*[5]	
+2-4	57-60	Str	*[5]	
+2-5	60-61	.	*[5]	
+2-6	62-70	Richtung	*[5]	
+2-7	71-81	Oberkassel	*[5]	
+2-8	82-89	fahrend	_	
+2-9	90-94	gibt	_	
+2-10	95-97	es	_	
+2-11	98-101	vor	*[6]	
+2-12	102-105	der	*[6]	
+2-13	106-114	Kreuzung	*[6]	
+2-14	115-117	St	*[6]	
+2-15	118-128	Augustiner	*[6]	
+2-16	129-132	Str	*[6]	
+2-17	132-133	.	*[6]	
+2-18	134-139	einen	_	
+2-19	140-146	Radweg	_	
+2-20	146-147	.	_	
+
+#Text=Dann endet die Verkehrsführung abrupt.
+3-1	148-152	Dann	_	
+3-2	153-158	endet	_	
+3-3	159-162	die	_	
+3-4	163-178	Verkehrsführung	_	
+3-5	179-185	abrupt	_	
+3-6	185-186	.	_	
+
+#Text=Es gibt keinen legalen Weg die Krezung in die Königswinterer Str. Richtung Oberkassel zu überqueren.
+4-1	187-189	Es	_	
+4-2	190-194	gibt	_	
+4-3	195-201	keinen	_	
+4-4	202-209	legalen	_	
+4-5	210-213	Weg	_	
+4-6	214-217	die	*[7]	
+4-7	218-225	Krezung	*[7]	
+4-8	226-228	in	*[7]	
+4-9	229-232	die	*[7]	
+4-10	233-247	Königswinterer	*[7]	
+4-11	248-251	Str	*[7]	
+4-12	251-252	.	*[7]	
+4-13	253-261	Richtung	*[7]	
+4-14	262-272	Oberkassel	*[7]	
+4-15	273-275	zu	*[7]	
+4-16	276-286	überqueren	*[7]	
+4-17	286-287	.	_	

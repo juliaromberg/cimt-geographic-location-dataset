@@ -1,0 +1,166 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährlicher kreuzender Radweg
+1-1	0-12	Gefährlicher	_	
+1-2	13-23	kreuzender	_	
+1-3	24-30	Radweg	_	
+
+#Text=An der Kreuzung Niederkasseler Straße/Liestraße gibt es eine Querung für FußgängerInnen und RadlerInnen, die v.a. von Berufspendlern und Eltern mit Kindern genutzt wird.
+2-1	33-35	An	*[8]	
+2-2	36-39	der	*[8]	
+2-3	40-48	Kreuzung	*[8]	
+2-4	49-63	Niederkasseler	*[8]	
+2-5	64-70	Straße	*[8]	
+2-6	70-71	/	*[8]	
+2-7	71-80	Liestraße	*[8]	
+2-8	81-85	gibt	_	
+2-9	86-88	es	_	
+2-10	89-93	eine	_	
+2-11	94-101	Querung	_	
+2-12	102-105	für	_	
+2-13	106-120	FußgängerInnen	_	
+2-14	121-124	und	_	
+2-15	125-136	RadlerInnen	_	
+2-16	136-137	,	_	
+2-17	138-141	die	_	
+2-18	142-145	v.a	_	
+2-19	145-146	.	_	
+2-20	147-150	von	_	
+2-21	151-165	Berufspendlern	_	
+2-22	166-169	und	_	
+2-23	170-176	Eltern	_	
+2-24	177-180	mit	_	
+2-25	181-188	Kindern	_	
+2-26	189-196	genutzt	_	
+2-27	197-201	wird	_	
+2-28	201-202	.	_	
+
+#Text=Diese ist nur durch eine Verkehrsinsel in der Mitte der Niederkasseler Straße gesichert.
+3-1	203-208	Diese	_	
+3-2	209-212	ist	_	
+3-3	213-216	nur	_	
+3-4	217-222	durch	_	
+3-5	223-227	eine	_	
+3-6	228-241	Verkehrsinsel	_	
+3-7	242-244	in	*[9]	
+3-8	245-248	der	*[9]	
+3-9	249-254	Mitte	*[9]	
+3-10	255-258	der	*[9]	
+3-11	259-273	Niederkasseler	*[9]	
+3-12	274-280	Straße	*[9]	
+3-13	281-290	gesichert	_	
+3-14	290-291	.	_	
+
+#Text=Die Geschwindigkeit in Richtung Bergheim ist dort auf 70 km/h beschränkt (wird meist nicht eingehalten); in der Gegenrichtung gibt es an dieser Stelle keine Geschwindigkeitsbegrenzung.
+4-1	292-295	Die	_	
+4-2	296-311	Geschwindigkeit	_	
+4-3	312-314	in	*[10]	
+4-4	315-323	Richtung	*[10]	
+4-5	324-332	Bergheim	*[10]	
+4-6	333-336	ist	_	
+4-7	337-341	dort	_	
+4-8	342-345	auf	_	
+4-9	346-348	70	_	
+4-10	349-351	km	_	
+4-11	351-352	/	_	
+4-12	352-353	h	_	
+4-13	354-364	beschränkt	_	
+4-14	365-366	(	_	
+4-15	366-370	wird	_	
+4-16	371-376	meist	_	
+4-17	377-382	nicht	_	
+4-18	383-394	eingehalten	_	
+4-19	394-395	)	_	
+4-20	395-396	;	_	
+4-21	397-399	in	_	
+4-22	400-403	der	_	
+4-23	404-417	Gegenrichtung	_	
+4-24	418-422	gibt	_	
+4-25	423-425	es	_	
+4-26	426-428	an	_	
+4-27	429-435	dieser	_	
+4-28	436-442	Stelle	_	
+4-29	443-448	keine	_	
+4-30	449-475	Geschwindigkeitsbegrenzung	_	
+4-31	475-476	.	_	
+
+#Text=Vorschlag 1: Die Geschwindigkeit sollte in beide Richtungen begrenzt werden, am besten auf 50 km/h, mindestens aber auf 70 km/h in beide Richtungen.
+5-1	477-486	Vorschlag	_	
+5-2	487-488	1	_	
+5-3	488-489	:	_	
+5-4	490-493	Die	_	
+5-5	494-509	Geschwindigkeit	_	
+5-6	510-516	sollte	_	
+5-7	517-519	in	_	
+5-8	520-525	beide	_	
+5-9	526-536	Richtungen	_	
+5-10	537-545	begrenzt	_	
+5-11	546-552	werden	_	
+5-12	552-553	,	_	
+5-13	554-556	am	_	
+5-14	557-563	besten	_	
+5-15	564-567	auf	_	
+5-16	568-570	50	_	
+5-17	571-573	km	_	
+5-18	573-574	/	_	
+5-19	574-575	h	_	
+5-20	575-576	,	_	
+5-21	577-587	mindestens	_	
+5-22	588-592	aber	_	
+5-23	593-596	auf	_	
+5-24	597-599	70	_	
+5-25	600-602	km	_	
+5-26	602-603	/	_	
+5-27	603-604	h	_	
+5-28	605-607	in	_	
+5-29	608-613	beide	_	
+5-30	614-624	Richtungen	_	
+5-31	624-625	.	_	
+
+#Text=Vorschlag 2: Besser noch wäre natürlich ein gesicherter Überweg mit Zebrastreifen (und einer Ampel).
+6-1	626-635	Vorschlag	_	
+6-2	636-637	2	_	
+6-3	637-638	:	_	
+6-4	639-645	Besser	_	
+6-5	646-650	noch	_	
+6-6	651-655	wäre	_	
+6-7	656-665	natürlich	_	
+6-8	666-669	ein	_	
+6-9	670-681	gesicherter	_	
+6-10	682-689	Überweg	_	
+6-11	690-693	mit	_	
+6-12	694-707	Zebrastreifen	_	
+6-13	708-709	(	_	
+6-14	709-712	und	_	
+6-15	713-718	einer	_	
+6-16	719-724	Ampel	_	
+6-17	724-725	)	_	
+6-18	725-726	.	_	
+
+#Text=Da sich die Stelle aber außerhalb der geschlossenen Ortschaft und zudem an einer Landesstraße befindet, könnte die Umsetzung problematisch sein.
+7-1	727-729	Da	_	
+7-2	730-734	sich	_	
+7-3	735-738	die	_	
+7-4	739-745	Stelle	_	
+7-5	746-750	aber	_	
+7-6	751-760	außerhalb	_	
+7-7	761-764	der	_	
+7-8	765-778	geschlossenen	_	
+7-9	779-788	Ortschaft	_	
+7-10	789-792	und	_	
+7-11	793-798	zudem	_	
+7-12	799-801	an	_	
+7-13	802-807	einer	_	
+7-14	808-820	Landesstraße	_	
+7-15	821-829	befindet	_	
+7-16	829-830	,	_	
+7-17	831-837	könnte	_	
+7-18	838-841	die	_	
+7-19	842-851	Umsetzung	_	
+7-20	852-865	problematisch	_	
+7-21	866-870	sein	_	
+7-22	870-871	.	_	

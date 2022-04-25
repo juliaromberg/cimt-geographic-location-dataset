@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=zu viele Fahrradfahrer und Fussgänger auf zu engem Weg
+1-1	0-2	zu	_	
+1-2	3-8	viele	_	
+1-3	9-22	Fahrradfahrer	_	
+1-4	23-26	und	_	
+1-5	27-37	Fussgänger	_	
+1-6	38-41	auf	_	
+1-7	42-44	zu	_	
+1-8	45-50	engem	_	
+1-9	51-54	Weg	_	
+
+#Text=Hier wäre es wünschenswert, dass der Weg ausschließlich für Fahrradfahrer gestaltet wird.
+2-1	57-61	Hier	_	
+2-2	62-66	wäre	_	
+2-3	67-69	es	_	
+2-4	70-83	wünschenswert	_	
+2-5	83-84	,	_	
+2-6	85-89	dass	_	
+2-7	90-93	der	_	
+2-8	94-97	Weg	_	
+2-9	98-112	ausschließlich	_	
+2-10	113-116	für	_	
+2-11	117-130	Fahrradfahrer	_	
+2-12	131-140	gestaltet	_	
+2-13	141-145	wird	_	
+2-14	145-146	.	_	
+
+#Text=Es gibt in unmittelbarer Nähe zahlreiche Möglichkeiten für Fussgänger zur Bahn zu kommen.
+3-1	147-149	Es	_	
+3-2	150-154	gibt	_	
+3-3	155-157	in	_	
+3-4	158-171	unmittelbarer	_	
+3-5	172-176	Nähe	_	
+3-6	177-187	zahlreiche	_	
+3-7	188-201	Möglichkeiten	_	
+3-8	202-205	für	_	
+3-9	206-216	Fussgänger	_	
+3-10	217-220	zur	_	
+3-11	221-225	Bahn	_	
+3-12	226-228	zu	_	
+3-13	229-235	kommen	_	
+3-14	235-236	.	_	
+
+#Text=der Weg ist zu eng für die vielen Pendler und Schüler, die als Fussgänger unterwegs sind.
+4-1	237-240	der	_	
+4-2	241-244	Weg	_	
+4-3	245-248	ist	_	
+4-4	249-251	zu	_	
+4-5	252-255	eng	_	
+4-6	256-259	für	_	
+4-7	260-263	die	_	
+4-8	264-270	vielen	_	
+4-9	271-278	Pendler	_	
+4-10	279-282	und	_	
+4-11	283-290	Schüler	_	
+4-12	290-291	,	_	
+4-13	292-295	die	_	
+4-14	296-299	als	_	
+4-15	300-310	Fussgänger	_	
+4-16	311-320	unterwegs	_	
+4-17	321-325	sind	_	
+4-18	325-326	.	_	

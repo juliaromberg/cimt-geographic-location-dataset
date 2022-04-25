@@ -1,0 +1,32 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unterquerung Gleise
+1-1	0-12	Unterquerung	_	
+1-2	13-19	Gleise	_	
+
+#Text=Es muss für Radfahrer eine Möglichkeit geben, unter den Gleisen am Hauptbahnhof hindurchzufahren - kein Absteigen, Schieben etc.
+2-1	22-24	Es	_	
+2-2	25-29	muss	_	
+2-3	30-33	für	_	
+2-4	34-43	Radfahrer	_	
+2-5	44-48	eine	_	
+2-6	49-60	Möglichkeit	_	
+2-7	61-66	geben	_	
+2-8	66-67	,	_	
+2-9	68-73	unter	*[3]	
+2-10	74-77	den	*[3]	
+2-11	78-85	Gleisen	*[3]	
+2-12	86-88	am	*[3]	
+2-13	89-101	Hauptbahnhof	*[3]	
+2-14	102-118	hindurchzufahren	*[3]	
+2-15	119-120	-	_	
+2-16	121-125	kein	_	
+2-17	126-135	Absteigen	_	
+2-18	135-136	,	_	
+2-19	137-145	Schieben	_	
+2-20	146-149	etc	_	
+2-21	149-150	.	_	

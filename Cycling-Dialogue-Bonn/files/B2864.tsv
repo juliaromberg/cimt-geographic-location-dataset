@@ -1,0 +1,20 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstrraße
+1-1	0-14	Einbahnstrraße	_	
+
+#Text=Einbahnstraße für Fahrradfahrer aufheben, beide Richtungen frei geben!
+2-1	17-30	Einbahnstraße	_	
+2-2	31-34	für	_	
+2-3	35-48	Fahrradfahrer	_	
+2-4	49-57	aufheben	_	
+2-5	57-58	,	_	
+2-6	59-64	beide	_	
+2-7	65-75	Richtungen	_	
+2-8	76-80	frei	_	
+2-9	81-86	geben	_	
+2-10	86-87	!	_	

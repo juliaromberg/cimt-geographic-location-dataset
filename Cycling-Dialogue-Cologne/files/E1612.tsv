@@ -1,0 +1,113 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Weitere Fahrradstrassen in Köln
+1-1	0-7	Weitere	_	
+1-2	8-23	Fahrradstrassen	_	
+1-3	24-26	in	*[7]	
+1-4	27-31	Köln	*[7]	
+
+#Text=Guten Tag!
+2-1	34-39	Guten	_	
+2-2	40-43	Tag	_	
+2-3	43-44	!	_	
+
+#Text=In dem Gebiet Marienstraße sowie in manchen Seitenstraßen stehen parkende PKWs auf beiden Seiten der Einbahnstraße(n).
+3-1	45-47	In	*[8]	
+3-2	48-51	dem	*[8]	
+3-3	52-58	Gebiet	*[8]	
+3-4	59-71	Marienstraße	*[8]	
+3-5	72-77	sowie	_	
+3-6	78-80	in	_	
+3-7	81-88	manchen	_	
+3-8	89-102	Seitenstraßen	_	
+3-9	103-109	stehen	_	
+3-10	110-118	parkende	_	
+3-11	119-123	PKWs	_	
+3-12	124-127	auf	_	
+3-13	128-134	beiden	_	
+3-14	135-141	Seiten	_	
+3-15	142-145	der	_	
+3-16	146-159	Einbahnstraße	_	
+3-17	159-160	(	_	
+3-18	160-161	n	_	
+3-19	161-162	)	_	
+3-20	162-163	.	_	
+
+#Text=Die Zufahrt ist mit dem Fahrrad erlaubt (sehr gut!), allerdings zwingen manche Autofahrer den Radfahrer zum Absteigen, da zu wenig Platz für PKW, parkende PKWs und Fahrrad ist.
+4-1	164-167	Die	_	
+4-2	168-175	Zufahrt	_	
+4-3	176-179	ist	_	
+4-4	180-183	mit	_	
+4-5	184-187	dem	_	
+4-6	188-195	Fahrrad	_	
+4-7	196-203	erlaubt	_	
+4-8	204-205	(	_	
+4-9	205-209	sehr	_	
+4-10	210-213	gut	_	
+4-11	213-214	!	_	
+4-12	214-215	)	_	
+4-13	215-216	,	_	
+4-14	217-227	allerdings	_	
+4-15	228-235	zwingen	_	
+4-16	236-242	manche	_	
+4-17	243-253	Autofahrer	_	
+4-18	254-257	den	_	
+4-19	258-267	Radfahrer	_	
+4-20	268-271	zum	_	
+4-21	272-281	Absteigen	_	
+4-22	281-282	,	_	
+4-23	283-285	da	_	
+4-24	286-288	zu	_	
+4-25	289-294	wenig	_	
+4-26	295-300	Platz	_	
+4-27	301-304	für	_	
+4-28	305-308	PKW	_	
+4-29	308-309	,	_	
+4-30	310-318	parkende	_	
+4-31	319-323	PKWs	_	
+4-32	324-327	und	_	
+4-33	328-335	Fahrrad	_	
+4-34	336-339	ist	_	
+4-35	339-340	.	_	
+
+#Text=Der Vorschlag wäre daher das Parken lediglich auf eine Seite zu beschränken und eine markierte Fahrradspur zu erstellen, um so mehr Platz für die Radfahrer zu gestalten.
+5-1	341-344	Der	_	
+5-2	345-354	Vorschlag	_	
+5-3	355-359	wäre	_	
+5-4	360-365	daher	_	
+5-5	366-369	das	_	
+5-6	370-376	Parken	_	
+5-7	377-386	lediglich	_	
+5-8	387-390	auf	_	
+5-9	391-395	eine	_	
+5-10	396-401	Seite	_	
+5-11	402-404	zu	_	
+5-12	405-416	beschränken	_	
+5-13	417-420	und	_	
+5-14	421-425	eine	_	
+5-15	426-435	markierte	_	
+5-16	436-447	Fahrradspur	_	
+5-17	448-450	zu	_	
+5-18	451-460	erstellen	_	
+5-19	460-461	,	_	
+5-20	462-464	um	_	
+5-21	465-467	so	_	
+5-22	468-472	mehr	_	
+5-23	473-478	Platz	_	
+5-24	479-482	für	_	
+5-25	483-486	die	_	
+5-26	487-496	Radfahrer	_	
+5-27	497-499	zu	_	
+5-28	500-509	gestalten	_	
+5-29	509-510	.	_	
+
+#Text=Danke und Gruß, Raddialog-Fan
+6-1	511-516	Danke	_	
+6-2	517-520	und	_	
+6-3	521-525	Gruß	_	
+6-4	525-526	,	_	
+6-5	527-540	Raddialog-Fan	_	

@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Übergang vom Fahrradspur auf Fahrradweg (Kaiser-Karl-Ring-kommend)
+1-1	0-8	Übergang	_	
+1-2	9-12	vom	_	
+1-3	13-24	Fahrradspur	_	
+1-4	25-28	auf	_	
+1-5	29-39	Fahrradweg	_	
+1-6	40-41	(	_	
+1-7	41-65	Kaiser-Karl-Ring-kommend	*	
+1-8	65-66	)	_	
+
+#Text=Der Übergang vom Fahrradspur auf dem Fahrradweg ist eine Gefahrenstelle.
+2-1	69-72	Der	_	
+2-2	73-81	Übergang	_	
+2-3	82-85	vom	_	
+2-4	86-97	Fahrradspur	_	
+2-5	98-101	auf	_	
+2-6	102-105	dem	_	
+2-7	106-116	Fahrradweg	_	
+2-8	117-120	ist	_	
+2-9	121-125	eine	_	
+2-10	126-140	Gefahrenstelle	_	
+2-11	140-141	.	_	
+
+#Text=Die FußgängerInnen und RadfahrerInnen, die entlang Kölnstraße richtung Sportpark Nord unterwegs sind, blockieren öfters die komplette Kreuzung.
+3-1	142-145	Die	_	
+3-2	146-160	FußgängerInnen	_	
+3-3	161-164	und	_	
+3-4	165-179	RadfahrerInnen	_	
+3-5	179-180	,	_	
+3-6	181-184	die	_	
+3-7	185-192	entlang	*[5]	
+3-8	193-203	Kölnstraße	*[5]	
+3-9	204-212	richtung	*[5]	
+3-10	213-222	Sportpark	*[5]	
+3-11	223-227	Nord	*[5]	
+3-12	228-237	unterwegs	_	
+3-13	238-242	sind	_	
+3-14	242-243	,	_	
+3-15	244-254	blockieren	_	
+3-16	255-261	öfters	_	
+3-17	262-265	die	_	
+3-18	266-275	komplette	_	
+3-19	276-284	Kreuzung	_	
+3-20	284-285	.	_	
+
+#Text=Es wäre sinnvoller, wenn die Fahrradspur auf der Kaiser-Karl-Ring bis zur Nordstraße liefe, und erst von dort auf den Radweg anschließt.
+4-1	286-288	Es	_	
+4-2	289-293	wäre	_	
+4-3	294-304	sinnvoller	_	
+4-4	304-305	,	_	
+4-5	306-310	wenn	_	
+4-6	311-314	die	_	
+4-7	315-326	Fahrradspur	_	
+4-8	327-330	auf	*[6]	
+4-9	331-334	der	*[6]	
+4-10	335-351	Kaiser-Karl-Ring	*[6]	
+4-11	352-355	bis	*[6]	
+4-12	356-359	zur	*[6]	
+4-13	360-370	Nordstraße	*[6]	
+4-14	371-376	liefe	_	
+4-15	376-377	,	_	
+4-16	378-381	und	_	
+4-17	382-386	erst	_	
+4-18	387-390	von	_	
+4-19	391-395	dort	_	
+4-20	396-399	auf	_	
+4-21	400-403	den	_	
+4-22	404-410	Radweg	_	
+4-23	411-421	anschließt	_	
+4-24	421-422	.	_	

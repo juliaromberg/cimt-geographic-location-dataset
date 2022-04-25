@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beschilderung ändern
+1-1	0-13	Beschilderung	_	
+1-2	14-20	ändern	_	
+
+#Text=Hier gibt es Schild Radfahrer nehmt Rücksicht auf Fußgänger.
+2-1	23-27	Hier	_	
+2-2	28-32	gibt	_	
+2-3	33-35	es	_	
+2-4	36-42	Schild	_	
+2-5	43-52	Radfahrer	_	
+2-6	53-58	nehmt	_	
+2-7	59-68	Rücksicht	_	
+2-8	69-72	auf	_	
+2-9	73-82	Fußgänger	_	
+2-10	82-83	.	_	
+
+#Text=Bitte dieses Schild ändern in Radfahrer und Fußgänger nehmt bitte gegenseitig Rücksicht aufeinander.
+3-1	84-89	Bitte	_	
+3-2	90-96	dieses	_	
+3-3	97-103	Schild	_	
+3-4	104-110	ändern	_	
+3-5	111-113	in	_	
+3-6	114-123	Radfahrer	_	
+3-7	124-127	und	_	
+3-8	128-137	Fußgänger	_	
+3-9	138-143	nehmt	_	
+3-10	144-149	bitte	_	
+3-11	150-161	gegenseitig	_	
+3-12	162-171	Rücksicht	_	
+3-13	172-183	aufeinander	_	
+3-14	183-184	.	_	
+
+#Text=Denn es muss z.B. auch nicht sein, dass Fußgängergruppen den Weg in voller Breite blockieren und wenn man dann klingelt, weil man vorbeifahren möchte, angepöbelt wird mit Verweis auf dieses Schild.
+4-1	185-189	Denn	_	
+4-2	190-192	es	_	
+4-3	193-197	muss	_	
+4-4	198-201	z.B	_	
+4-5	201-202	.	_	
+4-6	203-207	auch	_	
+4-7	208-213	nicht	_	
+4-8	214-218	sein	_	
+4-9	218-219	,	_	
+4-10	220-224	dass	_	
+4-11	225-241	Fußgängergruppen	_	
+4-12	242-245	den	_	
+4-13	246-249	Weg	_	
+4-14	250-252	in	_	
+4-15	253-259	voller	_	
+4-16	260-266	Breite	_	
+4-17	267-277	blockieren	_	
+4-18	278-281	und	_	
+4-19	282-286	wenn	_	
+4-20	287-290	man	_	
+4-21	291-295	dann	_	
+4-22	296-304	klingelt	_	
+4-23	304-305	,	_	
+4-24	306-310	weil	_	
+4-25	311-314	man	_	
+4-26	315-327	vorbeifahren	_	
+4-27	328-334	möchte	_	
+4-28	334-335	,	_	
+4-29	336-346	angepöbelt	_	
+4-30	347-351	wird	_	
+4-31	352-355	mit	_	
+4-32	356-363	Verweis	_	
+4-33	364-367	auf	_	
+4-34	368-374	dieses	_	
+4-35	375-381	Schild	_	
+4-36	381-382	.	_	

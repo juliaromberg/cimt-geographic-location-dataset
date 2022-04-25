@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Übergang zum Rad-/Fußweg
+1-1	0-8	Übergang	_	
+1-2	9-12	zum	_	
+1-3	13-16	Rad	_	
+1-4	16-17	-	_	
+1-5	17-18	/	_	
+1-6	18-24	Fußweg	_	
+
+#Text=Der Übergang vom Radstreifen (Fahrtrichtung Verteiler) auf die gegenüberliegende Seite ist unübersichtlich, schlecht markiert, der witerführende Rad- und Fußweg viel zu eng.
+2-1	27-30	Der	_	
+2-2	31-39	Übergang	_	
+2-3	40-43	vom	_	
+2-4	44-55	Radstreifen	_	
+2-5	56-57	(	_	
+2-6	57-70	Fahrtrichtung	_	
+2-7	71-80	Verteiler	_	
+2-8	80-81	)	_	
+2-9	82-85	auf	_	
+2-10	86-89	die	_	
+2-11	90-107	gegenüberliegende	_	
+2-12	108-113	Seite	_	
+2-13	114-117	ist	_	
+2-14	118-133	unübersichtlich	_	
+2-15	133-134	,	_	
+2-16	135-143	schlecht	_	
+2-17	144-152	markiert	_	
+2-18	152-153	,	_	
+2-19	154-157	der	_	
+2-20	158-171	witerführende	_	
+2-21	172-175	Rad	_	
+2-22	175-176	-	_	
+2-23	177-180	und	_	
+2-24	181-187	Fußweg	_	
+2-25	188-192	viel	_	
+2-26	193-195	zu	_	
+2-27	196-199	eng	_	
+2-28	199-200	.	_	
+
+#Text=Außerdem ist die Auffahrt regelmäßig zugeparkt.
+3-1	201-209	Außerdem	_	
+3-2	210-213	ist	_	
+3-3	214-217	die	_	
+3-4	218-226	Auffahrt	_	
+3-5	227-237	regelmäßig	_	
+3-6	238-247	zugeparkt	_	
+3-7	247-248	.	_	
+
+#Text=Eine deutliche Markierung evt. mit Blinklicht wäre sinnvoll, ebenfalls eine Sperre für Autos bzw. regelmäßige Kontrollen gegen Zuparker.
+4-1	249-253	Eine	_	
+4-2	254-263	deutliche	_	
+4-3	264-274	Markierung	_	
+4-4	275-278	evt	_	
+4-5	278-279	.	_	
+4-6	280-283	mit	_	
+4-7	284-294	Blinklicht	_	
+4-8	295-299	wäre	_	
+4-9	300-308	sinnvoll	_	
+4-10	308-309	,	_	
+4-11	310-319	ebenfalls	_	
+4-12	320-324	eine	_	
+4-13	325-331	Sperre	_	
+4-14	332-335	für	_	
+4-15	336-341	Autos	_	
+4-16	342-345	bzw	_	
+4-17	345-346	.	_	
+4-18	347-358	regelmäßige	_	
+4-19	359-369	Kontrollen	_	
+4-20	370-375	gegen	_	
+4-21	376-384	Zuparker	_	
+4-22	384-385	.	_	

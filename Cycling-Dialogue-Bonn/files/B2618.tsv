@@ -1,0 +1,132 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Belag des Kluttenweges ändern
+1-1	0-5	Belag	_	
+1-2	6-9	des	_	
+1-3	10-22	Kluttenweges	*	
+1-4	23-29	ändern	_	
+
+#Text=Das Teilstück des Weges KLuttenweg entlang der Annaberger Wiese ist nicht in gutem Zustand.
+2-1	32-35	Das	_	
+2-2	36-45	Teilstück	_	
+2-3	46-49	des	_	
+2-4	50-55	Weges	*[11]	
+2-5	56-66	KLuttenweg	*[11]	
+2-6	67-74	entlang	*[11]	
+2-7	75-78	der	*[11]	
+2-8	79-89	Annaberger	*[11]	
+2-9	90-95	Wiese	*[11]	
+2-10	96-99	ist	_	
+2-11	100-105	nicht	_	
+2-12	106-108	in	_	
+2-13	109-114	gutem	_	
+2-14	115-122	Zustand	_	
+2-15	122-123	.	_	
+
+#Text=Im Prinzip handelt es sich um eine wassergebundene Wegedecke.
+3-1	124-126	Im	_	
+3-2	127-134	Prinzip	_	
+3-3	135-142	handelt	_	
+3-4	143-145	es	_	
+3-5	146-150	sich	_	
+3-6	151-153	um	_	
+3-7	154-158	eine	_	
+3-8	159-174	wassergebundene	_	
+3-9	175-184	Wegedecke	_	
+3-10	184-185	.	_	
+
+#Text=Die aber im schlechten Zustand ist und sehr viele Unebenheiten aufweist.
+4-1	186-189	Die	_	
+4-2	190-194	aber	_	
+4-3	195-197	im	_	
+4-4	198-208	schlechten	_	
+4-5	209-216	Zustand	_	
+4-6	217-220	ist	_	
+4-7	221-224	und	_	
+4-8	225-229	sehr	_	
+4-9	230-235	viele	_	
+4-10	236-248	Unebenheiten	_	
+4-11	249-257	aufweist	_	
+4-12	257-258	.	_	
+
+#Text=Zur Hälfte hat eine Wegerneuerung stattgefunden, indem man Split aufgebracht hat.
+5-1	259-262	Zur	_	
+5-2	263-269	Hälfte	_	
+5-3	270-273	hat	_	
+5-4	274-278	eine	_	
+5-5	279-292	Wegerneuerung	_	
+5-6	293-306	stattgefunden	_	
+5-7	306-307	,	_	
+5-8	308-313	indem	_	
+5-9	314-317	man	_	
+5-10	318-323	Split	_	
+5-11	324-335	aufgebracht	_	
+5-12	336-339	hat	_	
+5-13	339-340	.	_	
+
+#Text=Damit ist jedoch nur vorübergehende Verbesserung eingetreten.
+6-1	341-346	Damit	_	
+6-2	347-350	ist	_	
+6-3	351-357	jedoch	_	
+6-4	358-361	nur	_	
+6-5	362-376	vorübergehende	_	
+6-6	377-389	Verbesserung	_	
+6-7	390-401	eingetreten	_	
+6-8	401-402	.	_	
+
+#Text=Früher oder später wird der aufgebrachte Split erodiert sein.
+7-1	403-409	Früher	_	
+7-2	410-414	oder	_	
+7-3	415-421	später	_	
+7-4	422-426	wird	_	
+7-5	427-430	der	_	
+7-6	431-443	aufgebrachte	_	
+7-7	444-449	Split	_	
+7-8	450-458	erodiert	_	
+7-9	459-463	sein	_	
+7-10	463-464	.	_	
+
+#Text=Wünschenswert wäre eine asphaltierte Wegedecke.
+8-1	465-478	Wünschenswert	_	
+8-2	479-483	wäre	_	
+8-3	484-488	eine	_	
+8-4	489-501	asphaltierte	_	
+8-5	502-511	Wegedecke	_	
+8-6	511-512	.	_	
+
+#Text=Das würde auch Unfallgefahren reduzieren.
+9-1	513-516	Das	_	
+9-2	517-522	würde	_	
+9-3	523-527	auch	_	
+9-4	528-542	Unfallgefahren	_	
+9-5	543-553	reduzieren	_	
+9-6	553-554	.	_	
+
+#Text=Ich selbst bin bereits an der EInmündung zum Rheinhöhenweg an einem aus der Fahrbahndecke herausragenden Stein gestürzt (mit Krankenhausaufenthalt usw.)
+10-1	555-558	Ich	_	
+10-2	559-565	selbst	_	
+10-3	566-569	bin	_	
+10-4	570-577	bereits	_	
+10-5	578-580	an	*[12]	
+10-6	581-584	der	*[12]	
+10-7	585-595	EInmündung	*[12]	
+10-8	596-599	zum	*[12]	
+10-9	600-613	Rheinhöhenweg	*[12]	
+10-10	614-616	an	_	
+10-11	617-622	einem	_	
+10-12	623-626	aus	_	
+10-13	627-630	der	_	
+10-14	631-644	Fahrbahndecke	_	
+10-15	645-659	herausragenden	_	
+10-16	660-665	Stein	_	
+10-17	666-674	gestürzt	_	
+10-18	675-676	(	_	
+10-19	676-679	mit	_	
+10-20	680-701	Krankenhausaufenthalt	_	
+10-21	702-705	usw	_	
+10-22	705-706	.	_	
+10-23	706-707	)	_	

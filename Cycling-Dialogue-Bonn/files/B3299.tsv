@@ -1,0 +1,86 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg endet
+1-1	0-10	Fahrradweg	_	
+1-2	11-16	endet	_	
+
+#Text=Inzwischen kommt man von der Stadtmitte über den Parkplatz an der Bahnlinie und dann im neuen Kreisel recht gut aus der Stadt raus.
+2-1	19-29	Inzwischen	_	
+2-2	30-35	kommt	_	
+2-3	36-39	man	_	
+2-4	40-43	von	*[6]	
+2-5	44-47	der	*[6]	
+2-6	48-58	Stadtmitte	*[6]	
+2-7	59-63	über	_	
+2-8	64-67	den	_	
+2-9	68-77	Parkplatz	_	
+2-10	78-80	an	_	
+2-11	81-84	der	_	
+2-12	85-94	Bahnlinie	_	
+2-13	95-98	und	_	
+2-14	99-103	dann	_	
+2-15	104-106	im	_	
+2-16	107-112	neuen	_	
+2-17	113-120	Kreisel	_	
+2-18	121-126	recht	_	
+2-19	127-130	gut	_	
+2-20	131-134	aus	_	
+2-21	135-138	der	_	
+2-22	139-144	Stadt	_	
+2-23	145-149	raus	_	
+2-24	149-150	.	_	
+
+#Text=Wenn man auf der Thomastr. weiter stadtauswärts fährt verengt sich aber der Radweg und man ist direkt neben der Straße zusammen mit Fußgängern.
+3-1	151-155	Wenn	_	
+3-2	156-159	man	_	
+3-3	160-163	auf	*[7]	
+3-4	164-167	der	*[7]	
+3-5	168-176	Thomastr	*[7]	
+3-6	176-177	.	*[7]	
+3-7	178-184	weiter	*[7]	
+3-8	185-198	stadtauswärts	*[7]	
+3-9	199-204	fährt	_	
+3-10	205-212	verengt	_	
+3-11	213-217	sich	_	
+3-12	218-222	aber	_	
+3-13	223-226	der	_	
+3-14	227-233	Radweg	_	
+3-15	234-237	und	_	
+3-16	238-241	man	_	
+3-17	242-245	ist	_	
+3-18	246-252	direkt	_	
+3-19	253-258	neben	_	
+3-20	259-262	der	_	
+3-21	263-269	Straße	_	
+3-22	270-278	zusammen	_	
+3-23	279-282	mit	_	
+3-24	283-293	Fußgängern	_	
+3-25	293-294	.	_	
+
+#Text=Das ist immer noch sehr gefährlich.
+4-1	295-298	Das	_	
+4-2	299-302	ist	_	
+4-3	303-308	immer	_	
+4-4	309-313	noch	_	
+4-5	314-318	sehr	_	
+4-6	319-329	gefährlich	_	
+4-7	329-330	.	_	
+
+#Text=Danach kommt dann wieder der Gehweg mit eigenem Radweg - sehr schön.
+5-1	331-337	Danach	_	
+5-2	338-343	kommt	_	
+5-3	344-348	dann	_	
+5-4	349-355	wieder	_	
+5-5	356-359	der	_	
+5-6	360-366	Gehweg	_	
+5-7	367-370	mit	_	
+5-8	371-378	eigenem	_	
+5-9	379-385	Radweg	_	
+5-10	386-387	-	_	
+5-11	388-392	sehr	_	
+5-12	393-398	schön	_	
+5-13	398-399	.	_	

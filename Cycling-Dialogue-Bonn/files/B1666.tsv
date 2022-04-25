@@ -1,0 +1,229 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehrsbezieung Nordstadt/Altstadt/Innenstadt - Poppelsdorf/Südstadt ist eine Katastrophe
+1-1	0-16	Verkehrsbezieung	_	
+1-2	17-26	Nordstadt	*[13]	
+1-3	26-27	/	*[13]	
+1-4	27-35	Altstadt	*[13]	
+1-5	35-36	/	*[13]	
+1-6	36-46	Innenstadt	*[13]	
+1-7	47-48	-	*[13]	
+1-8	49-60	Poppelsdorf	*[13]	
+1-9	60-61	/	*[13]	
+1-10	61-69	Südstadt	*[13]	
+1-11	70-73	ist	_	
+1-12	74-78	eine	_	
+1-13	79-90	Katastrophe	_	
+
+#Text=Wie bitte soll ich legal vom Florentiusgraben auf die andere Seite des Hauptbahnhofes gelangen?
+2-1	93-96	Wie	_	
+2-2	97-102	bitte	_	
+2-3	103-107	soll	_	
+2-4	108-111	ich	_	
+2-5	112-117	legal	_	
+2-6	118-121	vom	*[14]	
+2-7	122-138	Florentiusgraben	*[14]	
+2-8	139-142	auf	*[14]	
+2-9	143-146	die	*[14]	
+2-10	147-153	andere	*[14]	
+2-11	154-159	Seite	*[14]	
+2-12	160-163	des	*[14]	
+2-13	164-178	Hauptbahnhofes	*[14]	
+2-14	179-187	gelangen	_	
+2-15	187-188	?	_	
+
+#Text=Der Verkehr aus der Altstadt kommend wird sinnigerweise im Florentiusgraben (wenn auch brandgefährlich durch die zahlreichen PKW-Abkürzer, insb. Taxen) gebündelt, doch dann geht es nicht weiter.
+3-1	189-192	Der	_	
+3-2	193-200	Verkehr	_	
+3-3	201-204	aus	*[15]	
+3-4	205-208	der	*[15]	
+3-5	209-217	Altstadt	*[15]	
+3-6	218-225	kommend	*[15]	
+3-7	226-230	wird	_	
+3-8	231-244	sinnigerweise	_	
+3-9	245-247	im	*[16]	
+3-10	248-264	Florentiusgraben	*[16]	
+3-11	265-266	(	_	
+3-12	266-270	wenn	_	
+3-13	271-275	auch	_	
+3-14	276-291	brandgefährlich	_	
+3-15	292-297	durch	_	
+3-16	298-301	die	_	
+3-17	302-313	zahlreichen	_	
+3-18	314-326	PKW-Abkürzer	_	
+3-19	326-327	,	_	
+3-20	328-332	insb	_	
+3-21	332-333	.	_	
+3-22	334-339	Taxen	_	
+3-23	339-340	)	_	
+3-24	341-350	gebündelt	_	
+3-25	350-351	,	_	
+3-26	352-356	doch	_	
+3-27	357-361	dann	_	
+3-28	362-366	geht	_	
+3-29	367-369	es	_	
+3-30	370-375	nicht	_	
+3-31	376-382	weiter	_	
+3-32	382-383	.	_	
+
+#Text=Die meisten Radfahrer, so auch ich, nutzen dann den Parkplatz am Bonner Loch um in die nördliche Überführung am Hauptbahnhof zu gelangen.
+4-1	384-387	Die	_	
+4-2	388-395	meisten	_	
+4-3	396-405	Radfahrer	_	
+4-4	405-406	,	_	
+4-5	407-409	so	_	
+4-6	410-414	auch	_	
+4-7	415-418	ich	_	
+4-8	418-419	,	_	
+4-9	420-426	nutzen	_	
+4-10	427-431	dann	_	
+4-11	432-435	den	_	
+4-12	436-445	Parkplatz	*[17]	
+4-13	446-448	am	*[17]	
+4-14	449-455	Bonner	*[17]	
+4-15	456-460	Loch	*[17]	
+4-16	461-463	um	_	
+4-17	464-466	in	*[18]	
+4-18	467-470	die	*[18]	
+4-19	471-480	nördliche	*[18]	
+4-20	481-492	Überführung	*[18]	
+4-21	493-495	am	*[18]	
+4-22	496-508	Hauptbahnhof	*[18]	
+4-23	509-511	zu	_	
+4-24	512-520	gelangen	_	
+4-25	520-521	.	_	
+
+#Text=Erlaubt ist das ganze allerdings nicht.
+5-1	522-529	Erlaubt	_	
+5-2	530-533	ist	_	
+5-3	534-537	das	_	
+5-4	538-543	ganze	_	
+5-5	544-554	allerdings	_	
+5-6	555-560	nicht	_	
+5-7	560-561	.	_	
+
+#Text=Dies führt immer wieder zu gefährlichen Situation und gibt mir Rätsel auf, ja, ärgert mich maßlos.
+6-1	562-566	Dies	_	
+6-2	567-572	führt	_	
+6-3	573-578	immer	_	
+6-4	579-585	wieder	_	
+6-5	586-588	zu	_	
+6-6	589-601	gefährlichen	_	
+6-7	602-611	Situation	_	
+6-8	612-615	und	_	
+6-9	616-620	gibt	_	
+6-10	621-624	mir	_	
+6-11	625-631	Rätsel	_	
+6-12	632-635	auf	_	
+6-13	635-636	,	_	
+6-14	637-639	ja	_	
+6-15	639-640	,	_	
+6-16	641-647	ärgert	_	
+6-17	648-652	mich	_	
+6-18	653-659	maßlos	_	
+6-19	659-660	.	_	
+
+#Text=Bei der Verkehrsbeziehung Altstadt-Poppelsdorf (Uni!) handelt es sich um eine im Bonner Radverkehr sehr zentrale Achse, die auf legale Weise nicht befahren werden kann.
+7-1	661-664	Bei	_	
+7-2	665-668	der	_	
+7-3	669-686	Verkehrsbeziehung	_	
+7-4	687-707	Altstadt-Poppelsdorf	*[19]	
+7-5	708-709	(	*[19]	
+7-6	709-712	Uni	*[19]	
+7-7	712-713	!	*[19]	
+7-8	713-714	)	*[19]	
+7-9	715-722	handelt	_	
+7-10	723-725	es	_	
+7-11	726-730	sich	_	
+7-12	731-733	um	_	
+7-13	734-738	eine	_	
+7-14	739-741	im	_	
+7-15	742-748	Bonner	_	
+7-16	749-759	Radverkehr	_	
+7-17	760-764	sehr	_	
+7-18	765-773	zentrale	_	
+7-19	774-779	Achse	_	
+7-20	779-780	,	_	
+7-21	781-784	die	_	
+7-22	785-788	auf	_	
+7-23	789-795	legale	_	
+7-24	796-801	Weise	_	
+7-25	802-807	nicht	_	
+7-26	808-816	befahren	_	
+7-27	817-823	werden	_	
+7-28	824-828	kann	_	
+7-29	828-829	.	_	
+
+#Text=Unfassbar.
+8-1	830-839	Unfassbar	_	
+8-2	839-840	.	_	
+
+#Text=Gleichzeitig findet man sich in umgekehrter Fahrtrichtung, von der Poppelsdorfer Allee kommend vor dem Hauptbahnhof häufig zwischen Bussen, Straßenbahnen und ungeduldigen Autorfahrern eingeklemmt.
+9-1	841-853	Gleichzeitig	_	
+9-2	854-860	findet	_	
+9-3	861-864	man	_	
+9-4	865-869	sich	_	
+9-5	870-872	in	_	
+9-6	873-884	umgekehrter	_	
+9-7	885-898	Fahrtrichtung	_	
+9-8	898-899	,	_	
+9-9	900-903	von	*[20]	
+9-10	904-907	der	*[20]	
+9-11	908-921	Poppelsdorfer	*[20]	
+9-12	922-927	Allee	*[20]	
+9-13	928-935	kommend	*[20]	
+9-14	936-939	vor	*[20]	
+9-15	940-943	dem	*[20]	
+9-16	944-956	Hauptbahnhof	*[20]	
+9-17	957-963	häufig	_	
+9-18	964-972	zwischen	_	
+9-19	973-979	Bussen	_	
+9-20	979-980	,	_	
+9-21	981-994	Straßenbahnen	_	
+9-22	995-998	und	_	
+9-23	999-1011	ungeduldigen	_	
+9-24	1012-1024	Autorfahrern	_	
+9-25	1025-1036	eingeklemmt	_	
+9-26	1036-1037	.	_	
+
+#Text=Schon mehrmals bin ich an dieser Stelle Unfällen nur sehr knapp entgangen.
+10-1	1038-1043	Schon	_	
+10-2	1044-1052	mehrmals	_	
+10-3	1053-1056	bin	_	
+10-4	1057-1060	ich	_	
+10-5	1061-1063	an	_	
+10-6	1064-1070	dieser	_	
+10-7	1071-1077	Stelle	_	
+10-8	1078-1086	Unfällen	_	
+10-9	1087-1090	nur	_	
+10-10	1091-1095	sehr	_	
+10-11	1096-1101	knapp	_	
+10-12	1102-1111	entgangen	_	
+10-13	1111-1112	.	_	
+
+#Text=Hier gibt es zwei PKW-Spuren, aber keine (!) für Radfahrer.
+11-1	1113-1117	Hier	_	
+11-2	1118-1122	gibt	_	
+11-3	1123-1125	es	_	
+11-4	1126-1130	zwei	_	
+11-5	1131-1141	PKW-Spuren	_	
+11-6	1141-1142	,	_	
+11-7	1143-1147	aber	_	
+11-8	1148-1153	keine	_	
+11-9	1154-1155	(	_	
+11-10	1155-1156	!	_	
+11-11	1156-1157	)	_	
+11-12	1158-1161	für	_	
+11-13	1162-1171	Radfahrer	_	
+11-14	1171-1172	.	_	
+
+#Text=Und das am Hauptbahnhof.
+12-1	1173-1176	Und	_	
+12-2	1177-1180	das	_	
+12-3	1181-1183	am	*[21]	
+12-4	1184-1196	Hauptbahnhof	*[21]	
+12-5	1196-1197	.	_	

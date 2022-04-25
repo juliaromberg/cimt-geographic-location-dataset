@@ -1,0 +1,272 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Uferweg von Kenedybrücke bis Rheindorfer Hafen
+1-1	0-7	Uferweg	*[19]	
+1-2	8-11	von	*[19]	
+1-3	12-24	Kenedybrücke	*[19]	
+1-4	25-28	bis	*[19]	
+1-5	29-40	Rheindorfer	*[19]	
+1-6	41-46	Hafen	*[19]	
+
+#Text=Das Stück von der Friedrich-Ebert-Brücke bis zum Rheindorfer Hafen ist viel zu schmal.
+2-1	49-52	Das	_	
+2-2	53-58	Stück	_	
+2-3	59-62	von	*[20]	
+2-4	63-66	der	*[20]	
+2-5	67-89	Friedrich-Ebert-Brücke	*[20]	
+2-6	90-93	bis	*[20]	
+2-7	94-97	zum	*[20]	
+2-8	98-109	Rheindorfer	*[20]	
+2-9	110-115	Hafen	*[20]	
+2-10	116-119	ist	_	
+2-11	120-124	viel	_	
+2-12	125-127	zu	_	
+2-13	128-134	schmal	_	
+2-14	134-135	.	_	
+
+#Text=Zur Zeit gibt es dort auch noch zusätzlich eine Verengung durch Bauarbeiten.
+3-1	136-139	Zur	_	
+3-2	140-144	Zeit	_	
+3-3	145-149	gibt	_	
+3-4	150-152	es	_	
+3-5	153-157	dort	_	
+3-6	158-162	auch	_	
+3-7	163-167	noch	_	
+3-8	168-178	zusätzlich	_	
+3-9	179-183	eine	_	
+3-10	184-193	Verengung	_	
+3-11	194-199	durch	_	
+3-12	200-211	Bauarbeiten	_	
+3-13	211-212	.	_	
+
+#Text=In der letzen Kurve stehen 5 Pöller und weisen auf eine Sackgasse, obwohl dort heine Strasse weiterführt.
+4-1	213-215	In	_	
+4-2	216-219	der	_	
+4-3	220-226	letzen	_	
+4-4	227-232	Kurve	_	
+4-5	233-239	stehen	_	
+4-6	240-241	5	_	
+4-7	242-248	Pöller	_	
+4-8	249-252	und	_	
+4-9	253-259	weisen	_	
+4-10	260-263	auf	_	
+4-11	264-268	eine	_	
+4-12	269-278	Sackgasse	_	
+4-13	278-279	,	_	
+4-14	280-286	obwohl	_	
+4-15	287-291	dort	_	
+4-16	292-297	heine	_	
+4-17	298-305	Strasse	_	
+4-18	306-317	weiterführt	_	
+4-19	317-318	.	_	
+
+#Text=Das ist Unsinn und Geldverschwenung für die Verkehrzeichen.
+5-1	319-322	Das	_	
+5-2	323-326	ist	_	
+5-3	327-333	Unsinn	_	
+5-4	334-337	und	_	
+5-5	338-354	Geldverschwenung	_	
+5-6	355-358	für	_	
+5-7	359-362	die	_	
+5-8	363-377	Verkehrzeichen	_	
+5-9	377-378	.	_	
+
+#Text=Vorschlag: Langfristig wäre eine Verbreiterung des Wegen sinnvoll.
+6-1	379-388	Vorschlag	_	
+6-2	388-389	:	_	
+6-3	390-401	Langfristig	_	
+6-4	402-406	wäre	_	
+6-5	407-411	eine	_	
+6-6	412-425	Verbreiterung	_	
+6-7	426-429	des	_	
+6-8	430-435	Wegen	_	
+6-9	436-444	sinnvoll	_	
+6-10	444-445	.	_	
+
+#Text=Im Moment sollte man die Radfahrer hinweisen, dass es an dieser Stelle eng wird.
+7-1	446-448	Im	_	
+7-2	449-455	Moment	_	
+7-3	456-462	sollte	_	
+7-4	463-466	man	_	
+7-5	467-470	die	_	
+7-6	471-480	Radfahrer	_	
+7-7	481-490	hinweisen	_	
+7-8	490-491	,	_	
+7-9	492-496	dass	_	
+7-10	497-499	es	_	
+7-11	500-502	an	_	
+7-12	503-509	dieser	_	
+7-13	510-516	Stelle	_	
+7-14	517-520	eng	_	
+7-15	521-525	wird	_	
+7-16	525-526	.	_	
+
+#Text=Umleitung vorschlagen.
+8-1	527-536	Umleitung	_	
+8-2	537-548	vorschlagen	_	
+8-3	548-549	.	_	
+
+#Text=Der restliche Uferweg ist ausreichend breit, wird aber nicht sinvoll eingeteilt.
+9-1	550-553	Der	_	
+9-2	554-563	restliche	_	
+9-3	564-571	Uferweg	_	
+9-4	572-575	ist	_	
+9-5	576-587	ausreichend	_	
+9-6	588-593	breit	_	
+9-7	593-594	,	_	
+9-8	595-599	wird	_	
+9-9	600-604	aber	_	
+9-10	605-610	nicht	_	
+9-11	611-618	sinvoll	_	
+9-12	619-629	eingeteilt	_	
+9-13	629-630	.	_	
+
+#Text=Der Radweg ist zu schmal und geht mitten durch die Wegfläche.
+10-1	631-634	Der	_	
+10-2	635-641	Radweg	_	
+10-3	642-645	ist	_	
+10-4	646-648	zu	_	
+10-5	649-655	schmal	_	
+10-6	656-659	und	_	
+10-7	660-664	geht	_	
+10-8	665-671	mitten	_	
+10-9	672-677	durch	_	
+10-10	678-681	die	_	
+10-11	682-691	Wegfläche	_	
+10-12	691-692	.	_	
+
+#Text=Fussgänger laufen daher oft quer oder auf dem Radweg.
+11-1	693-703	Fussgänger	_	
+11-2	704-710	laufen	_	
+11-3	711-716	daher	_	
+11-4	717-720	oft	_	
+11-5	721-725	quer	_	
+11-6	726-730	oder	_	
+11-7	731-734	auf	_	
+11-8	735-738	dem	_	
+11-9	739-745	Radweg	_	
+11-10	745-746	.	_	
+
+#Text=Auch Bänke und Ruheflächen sind so angeordnet, dass der Radweg überquert werden muß.
+12-1	747-751	Auch	_	
+12-2	752-757	Bänke	_	
+12-3	758-761	und	_	
+12-4	762-773	Ruheflächen	_	
+12-5	774-778	sind	_	
+12-6	779-781	so	_	
+12-7	782-792	angeordnet	_	
+12-8	792-793	,	_	
+12-9	794-798	dass	_	
+12-10	799-802	der	_	
+12-11	803-809	Radweg	_	
+12-12	810-819	überquert	_	
+12-13	820-826	werden	_	
+12-14	827-830	muß	_	
+12-15	830-831	.	_	
+
+#Text=Hier sollte der Bereich der Fußgänger nur auf einer Seite des Radweges möglich sein.
+13-1	832-836	Hier	_	
+13-2	837-843	sollte	_	
+13-3	844-847	der	_	
+13-4	848-855	Bereich	_	
+13-5	856-859	der	_	
+13-6	860-869	Fußgänger	_	
+13-7	870-873	nur	_	
+13-8	874-877	auf	_	
+13-9	878-883	einer	_	
+13-10	884-889	Seite	_	
+13-11	890-893	des	_	
+13-12	894-902	Radweges	_	
+13-13	903-910	möglich	_	
+13-14	911-915	sein	_	
+13-15	915-916	.	_	
+
+#Text=Bänke sollten nicht im Radweg stehen.
+14-1	917-922	Bänke	_	
+14-2	923-930	sollten	_	
+14-3	931-936	nicht	_	
+14-4	937-939	im	_	
+14-5	940-946	Radweg	_	
+14-6	947-953	stehen	_	
+14-7	953-954	.	_	
+
+#Text=Eventuell Integration in die seitlichen Abgrenzungen.
+15-1	955-964	Eventuell	_	
+15-2	965-976	Integration	_	
+15-3	977-979	in	_	
+15-4	980-983	die	_	
+15-5	984-994	seitlichen	_	
+15-6	995-1007	Abgrenzungen	_	
+15-7	1007-1008	.	_	
+
+#Text=Alternativ kann man parallel auch über die Karl-Legend-Strasse oder Römerstrasse fahren, aber nach dem Hafengebiet wird es wieder eng am Rheinufer oder besonders in der Estermannstrasse.
+16-1	1009-1019	Alternativ	_	
+16-2	1020-1024	kann	_	
+16-3	1025-1028	man	_	
+16-4	1029-1037	parallel	_	
+16-5	1038-1042	auch	_	
+16-6	1043-1047	über	*[21]	
+16-7	1048-1051	die	*[21]	
+16-8	1052-1071	Karl-Legend-Strasse	*[21]	
+16-9	1072-1076	oder	*[21]	
+16-10	1077-1089	Römerstrasse	*[21]	
+16-11	1090-1096	fahren	_	
+16-12	1096-1097	,	_	
+16-13	1098-1102	aber	_	
+16-14	1103-1107	nach	_	
+16-15	1108-1111	dem	_	
+16-16	1112-1123	Hafengebiet	_	
+16-17	1124-1128	wird	_	
+16-18	1129-1131	es	_	
+16-19	1132-1138	wieder	_	
+16-20	1139-1142	eng	_	
+16-21	1143-1145	am	*[22]	
+16-22	1146-1155	Rheinufer	*[22]	
+16-23	1156-1160	oder	_	
+16-24	1161-1170	besonders	_	
+16-25	1171-1173	in	_	
+16-26	1174-1177	der	_	
+16-27	1178-1194	Estermannstrasse	_	
+16-28	1194-1195	.	_	
+
+#Text=Da sollte man über ein Fahrradstrasse nachdenken, wie es teilweise bereits an der Rheindorfer Burg gemacht wurde.
+17-1	1196-1198	Da	_	
+17-2	1199-1205	sollte	_	
+17-3	1206-1209	man	_	
+17-4	1210-1214	über	_	
+17-5	1215-1218	ein	_	
+17-6	1219-1233	Fahrradstrasse	_	
+17-7	1234-1244	nachdenken	_	
+17-8	1244-1245	,	_	
+17-9	1246-1249	wie	_	
+17-10	1250-1252	es	_	
+17-11	1253-1262	teilweise	_	
+17-12	1263-1270	bereits	_	
+17-13	1271-1273	an	*[23]	
+17-14	1274-1277	der	*[23]	
+17-15	1278-1289	Rheindorfer	*[23]	
+17-16	1290-1294	Burg	*[23]	
+17-17	1295-1302	gemacht	_	
+17-18	1303-1308	wurde	_	
+17-19	1308-1309	.	_	
+
+#Text=Allerdings queren dort auch normale Strassen und Autofahrer habe ich dort sehr agressiv erlebt.
+18-1	1310-1320	Allerdings	_	
+18-2	1321-1327	queren	_	
+18-3	1328-1332	dort	_	
+18-4	1333-1337	auch	_	
+18-5	1338-1345	normale	_	
+18-6	1346-1354	Strassen	_	
+18-7	1355-1358	und	_	
+18-8	1359-1369	Autofahrer	_	
+18-9	1370-1374	habe	_	
+18-10	1375-1378	ich	_	
+18-11	1379-1383	dort	_	
+18-12	1384-1388	sehr	_	
+18-13	1389-1397	agressiv	_	
+18-14	1398-1404	erlebt	_	
+18-15	1404-1405	.	_	

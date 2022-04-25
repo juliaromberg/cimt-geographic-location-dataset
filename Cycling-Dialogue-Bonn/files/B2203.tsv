@@ -1,0 +1,105 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Deutlicher Hinweis für Fußgänger auf getrennte Wege anbringen
+1-1	0-10	Deutlicher	_	
+1-2	11-18	Hinweis	_	
+1-3	19-22	für	_	
+1-4	23-32	Fußgänger	_	
+1-5	33-36	auf	_	
+1-6	37-46	getrennte	_	
+1-7	47-51	Wege	_	
+1-8	52-61	anbringen	_	
+
+#Text=Auf dem Fahrradweg an der Poppelsdorfer Allee laufen regelmäßig Fußgänger - gerne auch mehrere nebeneinander.
+2-1	64-67	Auf	*[6]	
+2-2	68-71	dem	*[6]	
+2-3	72-82	Fahrradweg	*[6]	
+2-4	83-85	an	*[6]	
+2-5	86-89	der	*[6]	
+2-6	90-103	Poppelsdorfer	*[6]	
+2-7	104-109	Allee	*[6]	
+2-8	110-116	laufen	_	
+2-9	117-127	regelmäßig	_	
+2-10	128-137	Fußgänger	_	
+2-11	138-139	-	_	
+2-12	140-145	gerne	_	
+2-13	146-150	auch	_	
+2-14	151-158	mehrere	_	
+2-15	159-172	nebeneinander	_	
+2-16	172-173	.	_	
+
+#Text=Bei jeder zweiten Fahrt sehe ich Beinaheunfälle.
+3-1	174-177	Bei	_	
+3-2	178-183	jeder	_	
+3-3	184-191	zweiten	_	
+3-4	192-197	Fahrt	_	
+3-5	198-202	sehe	_	
+3-6	203-206	ich	_	
+3-7	207-221	Beinaheunfälle	_	
+3-8	221-222	.	_	
+
+#Text=Ich vermute, sie sind sich nicht bewusst, dass der breitere Weg für die Radfahrer ist und der schmalere für die Fußgänger.
+4-1	223-226	Ich	_	
+4-2	227-234	vermute	_	
+4-3	234-235	,	_	
+4-4	236-239	sie	_	
+4-5	240-244	sind	_	
+4-6	245-249	sich	_	
+4-7	250-255	nicht	_	
+4-8	256-263	bewusst	_	
+4-9	263-264	,	_	
+4-10	265-269	dass	_	
+4-11	270-273	der	_	
+4-12	274-282	breitere	_	
+4-13	283-286	Weg	_	
+4-14	287-290	für	_	
+4-15	291-294	die	_	
+4-16	295-304	Radfahrer	_	
+4-17	305-308	ist	_	
+4-18	309-312	und	_	
+4-19	313-316	der	_	
+4-20	317-326	schmalere	_	
+4-21	327-330	für	_	
+4-22	331-334	die	_	
+4-23	335-344	Fußgänger	_	
+4-24	344-345	.	_	
+
+#Text=Ein Schild an jedem Weganfang Getrennte Weg Fuß-/Radverkehr mit zwei Pfeilen jeweils auf Fuß- und Radweg zeigend, würde vielleicht den einen oder anderen auf den richtigen Weg bringen.
+5-1	346-349	Ein	_	
+5-2	350-356	Schild	_	
+5-3	357-359	an	_	
+5-4	360-365	jedem	_	
+5-5	366-375	Weganfang	_	
+5-6	376-385	Getrennte	_	
+5-7	386-389	Weg	_	
+5-8	390-393	Fuß	_	
+5-9	393-394	-	_	
+5-10	394-395	/	_	
+5-11	395-405	Radverkehr	_	
+5-12	406-409	mit	_	
+5-13	410-414	zwei	_	
+5-14	415-422	Pfeilen	_	
+5-15	423-430	jeweils	_	
+5-16	431-434	auf	_	
+5-17	435-438	Fuß	_	
+5-18	438-439	-	_	
+5-19	440-443	und	_	
+5-20	444-450	Radweg	_	
+5-21	451-458	zeigend	_	
+5-22	458-459	,	_	
+5-23	460-465	würde	_	
+5-24	466-476	vielleicht	_	
+5-25	477-480	den	_	
+5-26	481-486	einen	_	
+5-27	487-491	oder	_	
+5-28	492-499	anderen	_	
+5-29	500-503	auf	_	
+5-30	504-507	den	_	
+5-31	508-517	richtigen	_	
+5-32	518-521	Weg	_	
+5-33	522-529	bringen	_	
+5-34	529-530	.	_	

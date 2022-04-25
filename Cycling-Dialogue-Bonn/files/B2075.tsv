@@ -1,0 +1,51 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Lebensgefährlicher Radstreifen
+1-1	0-18	Lebensgefährlicher	_	
+1-2	19-30	Radstreifen	_	
+
+#Text=Man wird hier durch die abschüssige Fahrbahn als Radfahrer schon mal ziemlich schnell, und durch die unmitelbar rechts neben dem Fahrradstreifen parkenden Autos ist dann das Risiko besonders groß, wenn ein parkender Autofahrer plötzlich seine Tür öffnet.
+2-1	33-36	Man	_	
+2-2	37-41	wird	_	
+2-3	42-46	hier	_	
+2-4	47-52	durch	_	
+2-5	53-56	die	_	
+2-6	57-68	abschüssige	_	
+2-7	69-77	Fahrbahn	_	
+2-8	78-81	als	_	
+2-9	82-91	Radfahrer	_	
+2-10	92-97	schon	_	
+2-11	98-101	mal	_	
+2-12	102-110	ziemlich	_	
+2-13	111-118	schnell	_	
+2-14	118-119	,	_	
+2-15	120-123	und	_	
+2-16	124-129	durch	_	
+2-17	130-133	die	_	
+2-18	134-144	unmitelbar	_	
+2-19	145-151	rechts	_	
+2-20	152-157	neben	_	
+2-21	158-161	dem	_	
+2-22	162-177	Fahrradstreifen	_	
+2-23	178-187	parkenden	_	
+2-24	188-193	Autos	_	
+2-25	194-197	ist	_	
+2-26	198-202	dann	_	
+2-27	203-206	das	_	
+2-28	207-213	Risiko	_	
+2-29	214-223	besonders	_	
+2-30	224-228	groß	_	
+2-31	228-229	,	_	
+2-32	230-234	wenn	_	
+2-33	235-238	ein	_	
+2-34	239-248	parkender	_	
+2-35	249-259	Autofahrer	_	
+2-36	260-269	plötzlich	_	
+2-37	270-275	seine	_	
+2-38	276-279	Tür	_	
+2-39	280-286	öffnet	_	
+2-40	286-287	.	_	

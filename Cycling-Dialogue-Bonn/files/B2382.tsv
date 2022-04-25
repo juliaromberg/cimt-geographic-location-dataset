@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einleitung in Straßenverkehr
+1-1	0-10	Einleitung	_	
+1-2	11-13	in	_	
+1-3	14-28	Straßenverkehr	_	
+
+#Text=Nach der Autobahnüberquerung fehlt in Richtung Zentrum eine Einleitung vom Fahrradweg zurück in den Straßenverkehr, der Fußweg ist an dieser Stelle nicht benutzungspflichtig.
+2-1	31-35	Nach	_	
+2-2	36-39	der	_	
+2-3	40-59	Autobahnüberquerung	_	
+2-4	60-65	fehlt	_	
+2-5	66-68	in	_	
+2-6	69-77	Richtung	*[3]	
+2-7	78-85	Zentrum	*[3]	
+2-8	86-90	eine	_	
+2-9	91-101	Einleitung	_	
+2-10	102-105	vom	_	
+2-11	106-116	Fahrradweg	_	
+2-12	117-123	zurück	_	
+2-13	124-126	in	_	
+2-14	127-130	den	_	
+2-15	131-145	Straßenverkehr	_	
+2-16	145-146	,	_	
+2-17	147-150	der	_	
+2-18	151-157	Fußweg	_	
+2-19	158-161	ist	_	
+2-20	162-164	an	_	
+2-21	165-171	dieser	_	
+2-22	172-178	Stelle	_	
+2-23	179-184	nicht	_	
+2-24	185-204	benutzungspflichtig	_	
+2-25	204-205	.	_	

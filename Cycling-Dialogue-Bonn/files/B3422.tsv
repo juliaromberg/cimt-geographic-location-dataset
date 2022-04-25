@@ -1,0 +1,102 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Durchgängiger Radweg in beide Richtungen
+1-1	0-13	Durchgängiger	_	
+1-2	14-20	Radweg	_	
+1-3	21-23	in	_	
+1-4	24-29	beide	_	
+1-5	30-40	Richtungen	_	
+
+#Text=Von Tannenbusch aus zum Lievelingsweg hört der Radweg an der Dorotheenstr.
+2-1	43-46	Von	*[7]	
+2-2	47-58	Tannenbusch	*[7]	
+2-3	59-62	aus	*[7]	
+2-4	63-66	zum	*[7]	
+2-5	67-80	Lievelingsweg	*[7]	
+2-6	81-85	hört	_	
+2-7	86-89	der	_	
+2-8	90-96	Radweg	*[8]	
+2-9	97-99	an	*[8]	
+2-10	100-103	der	*[8]	
+2-11	104-116	Dorotheenstr	*[8]	
+2-12	116-117	.	_	
+
+#Text=auf.
+3-1	118-121	auf	_	
+3-2	121-122	.	_	
+
+#Text=Wenn man weiter zum Lievelingsweg/Kölnstr. möchte wird man von Autofahrern leicht übersehen, die mit Speed aus dem Kreisel ausfahren.
+4-1	123-127	Wenn	_	
+4-2	128-131	man	_	
+4-3	132-138	weiter	_	
+4-4	139-142	zum	*[9]	
+4-5	143-156	Lievelingsweg	*[9]	
+4-6	156-157	/	*[9]	
+4-7	157-164	Kölnstr	*[9]	
+4-8	164-165	.	_	
+4-9	166-172	möchte	_	
+4-10	173-177	wird	_	
+4-11	178-181	man	_	
+4-12	182-185	von	_	
+4-13	186-197	Autofahrern	_	
+4-14	198-204	leicht	_	
+4-15	205-214	übersehen	_	
+4-16	214-215	,	_	
+4-17	216-219	die	_	
+4-18	220-223	mit	_	
+4-19	224-229	Speed	_	
+4-20	230-233	aus	_	
+4-21	234-237	dem	_	
+4-22	238-245	Kreisel	_	
+4-23	246-255	ausfahren	_	
+4-24	255-256	.	_	
+
+#Text=Andere Richtung ist noch schlimmer.
+5-1	257-263	Andere	_	
+5-2	264-272	Richtung	_	
+5-3	273-276	ist	_	
+5-4	277-281	noch	_	
+5-5	282-291	schlimmer	_	
+5-6	291-292	.	_	
+
+#Text=Lievelingsweg, verkehrt über den Bürgersteig oder durch die Aral-Tankstelle, kreuzen mit den Fahrradfahrern aus Gegenrichtung, bei Bonn-Orange im Rad-Gegenverkehr, dann an der Ampel warten um in richtiger Fahrtrichtung weiter zu fahren.
+6-1	293-306	Lievelingsweg	*[10]	
+6-2	306-307	,	*[10]	
+6-3	308-316	verkehrt	_	
+6-4	317-321	über	_	
+6-5	322-325	den	_	
+6-6	326-337	Bürgersteig	_	
+6-7	338-342	oder	_	
+6-8	343-348	durch	_	
+6-9	349-352	die	_	
+6-10	353-368	Aral-Tankstelle	_	
+6-11	368-369	,	_	
+6-12	370-377	kreuzen	_	
+6-13	378-381	mit	_	
+6-14	382-385	den	_	
+6-15	386-400	Fahrradfahrern	_	
+6-16	401-404	aus	_	
+6-17	405-418	Gegenrichtung	_	
+6-18	418-419	,	_	
+6-19	420-423	bei	_	
+6-20	424-435	Bonn-Orange	_	
+6-21	436-438	im	_	
+6-22	439-455	Rad-Gegenverkehr	_	
+6-23	455-456	,	_	
+6-24	457-461	dann	_	
+6-25	462-464	an	_	
+6-26	465-468	der	_	
+6-27	469-474	Ampel	_	
+6-28	475-481	warten	_	
+6-29	482-484	um	_	
+6-30	485-487	in	_	
+6-31	488-497	richtiger	_	
+6-32	498-511	Fahrtrichtung	_	
+6-33	512-518	weiter	_	
+6-34	519-521	zu	_	
+6-35	522-528	fahren	_	
+6-36	528-529	.	_	

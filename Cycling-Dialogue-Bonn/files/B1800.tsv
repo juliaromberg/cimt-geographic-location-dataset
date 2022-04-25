@@ -1,0 +1,63 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bushaltestelle
+1-1	0-14	Bushaltestelle	_	
+
+#Text=Am KAP gibt es keine Bucht für den Bus.
+2-1	17-19	Am	*[4]	
+2-2	20-23	KAP	*[4]	
+2-3	24-28	gibt	_	
+2-4	29-31	es	_	
+2-5	32-37	keine	_	
+2-6	38-43	Bucht	_	
+2-7	44-47	für	_	
+2-8	48-51	den	_	
+2-9	52-55	Bus	_	
+2-10	55-56	.	_	
+
+#Text=Radfahrer müssen, wenn ein Bus an der Haltestelle steht, auf die linke Fahrspur ausweichen.
+3-1	57-66	Radfahrer	_	
+3-2	67-73	müssen	_	
+3-3	73-74	,	_	
+3-4	75-79	wenn	_	
+3-5	80-83	ein	_	
+3-6	84-87	Bus	_	
+3-7	88-90	an	_	
+3-8	91-94	der	_	
+3-9	95-106	Haltestelle	_	
+3-10	107-112	steht	_	
+3-11	112-113	,	_	
+3-12	114-117	auf	_	
+3-13	118-121	die	_	
+3-14	122-127	linke	_	
+3-15	128-136	Fahrspur	_	
+3-16	137-147	ausweichen	_	
+3-17	147-148	.	_	
+
+#Text=Aufgrund der hohen Verkehrsdichte und der hohen Geschwindigkeiten, die hier gefahren werden, ist die Situation für Radfahrer sehr gefährlich.
+4-1	149-157	Aufgrund	_	
+4-2	158-161	der	_	
+4-3	162-167	hohen	_	
+4-4	168-182	Verkehrsdichte	_	
+4-5	183-186	und	_	
+4-6	187-190	der	_	
+4-7	191-196	hohen	_	
+4-8	197-214	Geschwindigkeiten	_	
+4-9	214-215	,	_	
+4-10	216-219	die	_	
+4-11	220-224	hier	_	
+4-12	225-233	gefahren	_	
+4-13	234-240	werden	_	
+4-14	240-241	,	_	
+4-15	242-245	ist	_	
+4-16	246-249	die	_	
+4-17	250-259	Situation	_	
+4-18	260-263	für	_	
+4-19	264-273	Radfahrer	_	
+4-20	274-278	sehr	_	
+4-21	279-289	gefährlich	_	
+4-22	289-290	.	_	

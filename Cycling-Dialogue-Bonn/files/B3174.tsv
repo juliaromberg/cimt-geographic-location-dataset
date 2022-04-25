@@ -1,0 +1,51 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Tempo 30 in der ganzen Innenstadt
+1-1	0-5	Tempo	_	
+1-2	6-8	30	_	
+1-3	9-11	in	*[4]	
+1-4	12-15	der	*[4]	
+1-5	16-22	ganzen	*[4]	
+1-6	23-33	Innenstadt	*[4]	
+
+#Text=Tempo 30 in der kompletten Innenstadt für den Autoverkehr erhöht die Verkehrsicherheit für die Radfahrer und Fussgänger und senkt nebenbei noch die Emmisions- und Lärmbelästigung
+2-1	36-41	Tempo	_	
+2-2	42-44	30	_	
+2-3	45-47	in	*[5]	
+2-4	48-51	der	*[5]	
+2-5	52-62	kompletten	*[5]	
+2-6	63-73	Innenstadt	*[5]	
+2-7	74-77	für	_	
+2-8	78-81	den	_	
+2-9	82-93	Autoverkehr	_	
+2-10	94-100	erhöht	_	
+2-11	101-104	die	_	
+2-12	105-122	Verkehrsicherheit	_	
+2-13	123-126	für	_	
+2-14	127-130	die	_	
+2-15	131-140	Radfahrer	_	
+2-16	141-144	und	_	
+2-17	145-155	Fussgänger	_	
+2-18	156-159	und	_	
+2-19	160-165	senkt	_	
+2-20	166-174	nebenbei	_	
+2-21	175-179	noch	_	
+2-22	180-183	die	_	
+2-23	184-193	Emmisions	_	
+2-24	193-194	-	_	
+2-25	195-198	und	_	
+2-26	199-214	Lärmbelästigung	_	
+
+#Text=Es könnten somit auch viele Verkehrsschilder abgebaut werden
+3-1	215-217	Es	_	
+3-2	218-225	könnten	_	
+3-3	226-231	somit	_	
+3-4	232-236	auch	_	
+3-5	237-242	viele	_	
+3-6	243-259	Verkehrsschilder	_	
+3-7	260-268	abgebaut	_	
+3-8	269-275	werden	_	

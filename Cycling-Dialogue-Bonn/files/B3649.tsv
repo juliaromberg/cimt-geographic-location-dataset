@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sehr schlechter Asphalt!
+1-1	0-4	Sehr	_	
+1-2	5-15	schlechter	_	
+1-3	16-23	Asphalt	_	
+1-4	23-24	!	_	
+
+#Text=Schön ist, dass man als Radfahrer vom Rhein kommend, hier gegen die Einbahnstraße fahren darf.
+2-1	27-32	Schön	_	
+2-2	33-36	ist	_	
+2-3	36-37	,	_	
+2-4	38-42	dass	_	
+2-5	43-46	man	_	
+2-6	47-50	als	_	
+2-7	51-60	Radfahrer	_	
+2-8	61-64	vom	_	
+2-9	65-70	Rhein	_	
+2-10	71-78	kommend	_	
+2-11	78-79	,	_	
+2-12	80-84	hier	_	
+2-13	85-90	gegen	_	
+2-14	91-94	die	_	
+2-15	95-108	Einbahnstraße	_	
+2-16	109-115	fahren	_	
+2-17	116-120	darf	_	
+2-18	120-121	.	_	
+
+#Text=Nach meinem bisherigen Eindruck nehmen darauf auch die Autofahrer Rücksicht.
+3-1	122-126	Nach	_	
+3-2	127-133	meinem	_	
+3-3	134-144	bisherigen	_	
+3-4	145-153	Eindruck	_	
+3-5	154-160	nehmen	_	
+3-6	161-167	darauf	_	
+3-7	168-172	auch	_	
+3-8	173-176	die	_	
+3-9	177-187	Autofahrer	_	
+3-10	188-197	Rücksicht	_	
+3-11	197-198	.	_	
+
+#Text=Leider ist der Asphalt hier sehr schlecht, wodurch man oft in Schlangenlinien fahren muss, was die Autofahrer wieder zu Recht nervt...
+4-1	199-205	Leider	_	
+4-2	206-209	ist	_	
+4-3	210-213	der	_	
+4-4	214-221	Asphalt	_	
+4-5	222-226	hier	_	
+4-6	227-231	sehr	_	
+4-7	232-240	schlecht	_	
+4-8	240-241	,	_	
+4-9	242-249	wodurch	_	
+4-10	250-253	man	_	
+4-11	254-257	oft	_	
+4-12	258-260	in	_	
+4-13	261-276	Schlangenlinien	_	
+4-14	277-283	fahren	_	
+4-15	284-288	muss	_	
+4-16	288-289	,	_	
+4-17	290-293	was	_	
+4-18	294-297	die	_	
+4-19	298-308	Autofahrer	_	
+4-20	309-315	wieder	_	
+4-21	316-318	zu	_	
+4-22	319-324	Recht	_	
+4-23	325-330	nervt	_	
+4-24	330-331	.	_	
+4-25	331-332	.	_	
+4-26	332-333	.	_	

@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ständiger Wechsel von Bürgersteig zu Fahrbahn
+1-1	0-9	Ständiger	_	
+1-2	10-17	Wechsel	_	
+1-3	18-21	von	_	
+1-4	22-33	Bürgersteig	_	
+1-5	34-36	zu	_	
+1-6	37-45	Fahrbahn	_	
+
+#Text=In diesem Teil der Bornheimerstraße wechseln die Radwege (in beiden Richtungen) häufig zwichen Fahrbahn und Bürgersteig.
+2-1	48-50	In	_	
+2-2	51-57	diesem	_	
+2-3	58-62	Teil	_	
+2-4	63-66	der	_	
+2-5	67-83	Bornheimerstraße	*	
+2-6	84-92	wechseln	_	
+2-7	93-96	die	_	
+2-8	97-104	Radwege	_	
+2-9	105-106	(	_	
+2-10	106-108	in	_	
+2-11	109-115	beiden	_	
+2-12	116-126	Richtungen	_	
+2-13	126-127	)	_	
+2-14	128-134	häufig	_	
+2-15	135-142	zwichen	_	
+2-16	143-151	Fahrbahn	_	
+2-17	152-155	und	_	
+2-18	156-167	Bürgersteig	_	
+2-19	167-168	.	_	
+
+#Text=Ein durchgehender Radweg, auf Bürgersteig oder Fahrbahn, wäre hier besser.
+3-1	169-172	Ein	_	
+3-2	173-186	durchgehender	_	
+3-3	187-193	Radweg	_	
+3-4	193-194	,	_	
+3-5	195-198	auf	_	
+3-6	199-210	Bürgersteig	_	
+3-7	211-215	oder	_	
+3-8	216-224	Fahrbahn	_	
+3-9	224-225	,	_	
+3-10	226-230	wäre	_	
+3-11	231-235	hier	_	
+3-12	236-242	besser	_	
+3-13	242-243	.	_	

@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehrsregelung Rheinaue
+1-1	0-16	Verkehrsregelung	_	
+1-2	17-25	Rheinaue	*	
+
+#Text=Der Zutritt zur Rheinaue ist als 'Fußgängerweg' gekennzeichnet und das Schild wird nicht wieder aufgehoben.
+2-1	28-31	Der	_	
+2-2	32-39	Zutritt	_	
+2-3	40-43	zur	*[5]	
+2-4	44-52	Rheinaue	*[5]	
+2-5	53-56	ist	*[5]	
+2-6	57-60	als	_	
+2-7	61-62	'	_	
+2-8	62-74	Fußgängerweg	_	
+2-9	74-75	'	_	
+2-10	76-90	gekennzeichnet	_	
+2-11	91-94	und	_	
+2-12	95-98	das	_	
+2-13	99-105	Schild	_	
+2-14	106-110	wird	_	
+2-15	111-116	nicht	_	
+2-16	117-123	wieder	_	
+2-17	124-134	aufgehoben	_	
+2-18	134-135	.	_	
+
+#Text=Andererseits führen zahlreiche beschilderte Radwege durch die Rheinaue.
+3-1	136-148	Andererseits	_	
+3-2	149-155	führen	_	
+3-3	156-166	zahlreiche	_	
+3-4	167-179	beschilderte	_	
+3-5	180-187	Radwege	*[6]	
+3-6	188-193	durch	*[6]	
+3-7	194-197	die	*[6]	
+3-8	198-206	Rheinaue	*[6]	
+3-9	206-207	.	_	
+
+#Text=Das Schild macht daher keinen Sinn.
+4-1	208-211	Das	_	
+4-2	212-218	Schild	_	
+4-3	219-224	macht	_	
+4-4	225-230	daher	_	
+4-5	231-237	keinen	_	
+4-6	238-242	Sinn	_	
+4-7	242-243	.	_	

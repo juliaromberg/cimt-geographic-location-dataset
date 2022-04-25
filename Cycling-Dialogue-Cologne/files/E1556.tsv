@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg zwischen Venloerstr. und Hugo-Eckener- Straße fehlt ( rechte Seite)
+1-1	0-6	Radweg	_	
+1-2	7-15	zwischen	*[5]	
+1-3	16-26	Venloerstr	*[5]	
+1-4	26-27	.	*[5]	
+1-5	28-31	und	*[5]	
+1-6	32-44	Hugo-Eckener	*[5]	
+1-7	44-45	-	*[5]	
+1-8	46-52	Straße	*[5]	
+1-9	53-58	fehlt	_	
+1-10	59-60	(	_	
+1-11	61-67	rechte	_	
+1-12	68-73	Seite	_	
+1-13	73-74	)	_	
+
+#Text=Richtung Longerich fehlt der Radweg.
+2-1	77-85	Richtung	*[6]	
+2-2	86-95	Longerich	*[6]	
+2-3	96-101	fehlt	_	
+2-4	102-105	der	_	
+2-5	106-112	Radweg	_	
+2-6	112-113	.	_	
+
+#Text=Der Radweg Richtung Vogelsang ist sehr schmal.
+3-1	114-117	Der	_	
+3-2	118-124	Radweg	_	
+3-3	125-133	Richtung	*[7]	
+3-4	134-143	Vogelsang	*[7]	
+3-5	144-147	ist	_	
+3-6	148-152	sehr	_	
+3-7	153-159	schmal	_	
+3-8	159-160	.	_	
+
+#Text=Hecken müssen zurückgeschnitten werden.
+4-1	161-167	Hecken	_	
+4-2	168-174	müssen	_	
+4-3	175-192	zurückgeschnitten	_	
+4-4	193-199	werden	_	
+4-5	199-200	.	_	

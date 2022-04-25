@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=klarere Kennzeichnung des Radwegs
+1-1	0-7	klarere	_	
+1-2	8-21	Kennzeichnung	_	
+1-3	22-25	des	_	
+1-4	26-33	Radwegs	_	
+
+#Text=Nach wie vor sind viele Fußgänger auf diesem Schnellradweg unterwegs.
+2-1	36-40	Nach	_	
+2-2	41-44	wie	_	
+2-3	45-48	vor	_	
+2-4	49-53	sind	_	
+2-5	54-59	viele	_	
+2-6	60-69	Fußgänger	_	
+2-7	70-73	auf	_	
+2-8	74-80	diesem	_	
+2-9	81-94	Schnellradweg	_	
+2-10	95-104	unterwegs	_	
+2-11	104-105	.	_	
+
+#Text=Vielen ist nicht bewusst, dass es sich um einen reinen Radweg handelt.
+3-1	106-112	Vielen	_	
+3-2	113-116	ist	_	
+3-3	117-122	nicht	_	
+3-4	123-130	bewusst	_	
+3-5	130-131	,	_	
+3-6	132-136	dass	_	
+3-7	137-139	es	_	
+3-8	140-144	sich	_	
+3-9	145-147	um	_	
+3-10	148-153	einen	_	
+3-11	154-160	reinen	_	
+3-12	161-167	Radweg	_	
+3-13	168-175	handelt	_	
+3-14	175-176	.	_	
+
+#Text=Durch Fahrradsymbole auf der Fahrbahn wäre dies noch offensichtlicher.
+4-1	177-182	Durch	_	
+4-2	183-197	Fahrradsymbole	_	
+4-3	198-201	auf	_	
+4-4	202-205	der	_	
+4-5	206-214	Fahrbahn	_	
+4-6	215-219	wäre	_	
+4-7	220-224	dies	_	
+4-8	225-229	noch	_	
+4-9	230-246	offensichtlicher	_	
+4-10	246-247	.	_	
+
+#Text=Der Radweg ist angesichts der hohen Frequenz relativ eng.
+5-1	248-251	Der	_	
+5-2	252-258	Radweg	_	
+5-3	259-262	ist	_	
+5-4	263-273	angesichts	_	
+5-5	274-277	der	_	
+5-6	278-283	hohen	_	
+5-7	284-292	Frequenz	_	
+5-8	293-300	relativ	_	
+5-9	301-304	eng	_	
+5-10	304-305	.	_	

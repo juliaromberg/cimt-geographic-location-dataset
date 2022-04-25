@@ -1,0 +1,117 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Belag der Straßendecke und deutliche Ausweisung der Fahrradspur
+1-1	0-5	Belag	_	
+1-2	6-9	der	_	
+1-3	10-22	Straßendecke	_	
+1-4	23-26	und	_	
+1-5	27-36	deutliche	_	
+1-6	37-47	Ausweisung	_	
+1-7	48-51	der	_	
+1-8	52-63	Fahrradspur	_	
+
+#Text=Zusammen mit der Verlängerung durch die Clemens-August-Straße und zuvor Thomas-Mann-Allee gehört diese Strecke zu den wichtigsten Verbindungen vom Hauptbahnhof Richtung Pappel und dort zu den universitären Einrichtungen.
+2-1	66-74	Zusammen	_	
+2-2	75-78	mit	_	
+2-3	79-82	der	_	
+2-4	83-95	Verlängerung	_	
+2-5	96-101	durch	*[6]	
+2-6	102-105	die	*[6]	
+2-7	106-127	Clemens-August-Straße	*[6]	
+2-8	128-131	und	*[6]	
+2-9	132-137	zuvor	*[6]	
+2-10	138-155	Thomas-Mann-Allee	*[6]	
+2-11	156-162	gehört	_	
+2-12	163-168	diese	_	
+2-13	169-176	Strecke	_	
+2-14	177-179	zu	_	
+2-15	180-183	den	_	
+2-16	184-195	wichtigsten	_	
+2-17	196-208	Verbindungen	_	
+2-18	209-212	vom	*[7]	
+2-19	213-225	Hauptbahnhof	*[7]	
+2-20	226-234	Richtung	*[7]	
+2-21	235-241	Pappel	*[7]	
+2-22	242-245	und	*[7]	
+2-23	246-250	dort	*[7]	
+2-24	251-253	zu	*[7]	
+2-25	254-257	den	*[7]	
+2-26	258-271	universitären	*[7]	
+2-27	272-285	Einrichtungen	*[7]	
+2-28	285-286	.	_	
+
+#Text=Zustand der Straßendecke und Beleuchtung sind seit Jahren ein beklagenswerten Zustand.
+3-1	287-294	Zustand	_	
+3-2	295-298	der	_	
+3-3	299-311	Straßendecke	_	
+3-4	312-315	und	_	
+3-5	316-327	Beleuchtung	_	
+3-6	328-332	sind	_	
+3-7	333-337	seit	_	
+3-8	338-344	Jahren	_	
+3-9	345-348	ein	_	
+3-10	349-364	beklagenswerten	_	
+3-11	365-372	Zustand	_	
+3-12	372-373	.	_	
+
+#Text=Die ausgewiesenen FahrradWEGE werden an den Ampeln missachtet (Meckenheim Allee/Baumschulallee) bzw. sind vom Straßenbelag in einem so schlechten Zustand, sie kaum befahrbar erscheinen.
+4-1	374-377	Die	_	
+4-2	378-391	ausgewiesenen	_	
+4-3	392-403	FahrradWEGE	_	
+4-4	404-410	werden	_	
+4-5	411-413	an	_	
+4-6	414-417	den	_	
+4-7	418-424	Ampeln	_	
+4-8	425-435	missachtet	_	
+4-9	436-437	(	_	
+4-10	437-447	Meckenheim	*[8]	
+4-11	448-453	Allee	*[8]	
+4-12	453-454	/	*[8]	
+4-13	454-468	Baumschulallee	*[8]	
+4-14	468-469	)	_	
+4-15	470-473	bzw	_	
+4-16	473-474	.	_	
+4-17	475-479	sind	_	
+4-18	480-483	vom	_	
+4-19	484-496	Straßenbelag	_	
+4-20	497-499	in	_	
+4-21	500-505	einem	_	
+4-22	506-508	so	_	
+4-23	509-519	schlechten	_	
+4-24	520-527	Zustand	_	
+4-25	527-528	,	_	
+4-26	529-532	sie	_	
+4-27	533-537	kaum	_	
+4-28	538-547	befahrbar	_	
+4-29	548-558	erscheinen	_	
+4-30	558-559	.	_	
+
+#Text=Die Radwegführung in beide Richtungen auf dem stadtauswärts führenden Gehsteig ist nicht praxisgerecht und führt wegen des regen Passanten Verkehrs zu vielen beinahe-Unfällen.
+5-1	560-563	Die	_	
+5-2	564-577	Radwegführung	_	
+5-3	578-580	in	_	
+5-4	581-586	beide	_	
+5-5	587-597	Richtungen	_	
+5-6	598-601	auf	_	
+5-7	602-605	dem	_	
+5-8	606-619	stadtauswärts	_	
+5-9	620-629	führenden	_	
+5-10	630-638	Gehsteig	_	
+5-11	639-642	ist	_	
+5-12	643-648	nicht	_	
+5-13	649-662	praxisgerecht	_	
+5-14	663-666	und	_	
+5-15	667-672	führt	_	
+5-16	673-678	wegen	_	
+5-17	679-682	des	_	
+5-18	683-688	regen	_	
+5-19	689-698	Passanten	_	
+5-20	699-707	Verkehrs	_	
+5-21	708-710	zu	_	
+5-22	711-717	vielen	_	
+5-23	718-734	beinahe-Unfällen	_	
+5-24	734-735	.	_	

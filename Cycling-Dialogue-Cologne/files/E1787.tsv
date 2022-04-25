@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zebrastreifen
+1-1	0-13	Zebrastreifen	_	
+
+#Text=Hier ist es für Fußgänger und Radfahrer und damit auch für Autofahrer sehr gefährlich.
+2-1	16-20	Hier	_	
+2-2	21-24	ist	_	
+2-3	25-27	es	_	
+2-4	28-31	für	_	
+2-5	32-41	Fußgänger	_	
+2-6	42-45	und	_	
+2-7	46-55	Radfahrer	_	
+2-8	56-59	und	_	
+2-9	60-65	damit	_	
+2-10	66-70	auch	_	
+2-11	71-74	für	_	
+2-12	75-85	Autofahrer	_	
+2-13	86-90	sehr	_	
+2-14	91-101	gefährlich	_	
+2-15	101-102	.	_	
+
+#Text=Durch die Rheinische Fachhochschule sind hier den ganzen Tag viele Fußgänger unterwegs, die mein Überqueren der Straße den Verkehr und sich selbst gefährden.
+3-1	103-108	Durch	_	
+3-2	109-112	die	*[4]	
+3-3	113-123	Rheinische	*[4]	
+3-4	124-138	Fachhochschule	*[4]	
+3-5	139-143	sind	_	
+3-6	144-148	hier	_	
+3-7	149-152	den	_	
+3-8	153-159	ganzen	_	
+3-9	160-163	Tag	_	
+3-10	164-169	viele	_	
+3-11	170-179	Fußgänger	_	
+3-12	180-189	unterwegs	_	
+3-13	189-190	,	_	
+3-14	191-194	die	_	
+3-15	195-199	mein	_	
+3-16	200-210	Überqueren	_	
+3-17	211-214	der	_	
+3-18	215-221	Straße	_	
+3-19	222-225	den	_	
+3-20	226-233	Verkehr	_	
+3-21	234-237	und	_	
+3-22	238-242	sich	_	
+3-23	243-249	selbst	_	
+3-24	250-259	gefährden	_	
+3-25	259-260	.	_	
+
+#Text=Mein Vorschlag würde eine Geschwindigkeitslimitierung auf 30 km/h und ein Zebrastreifen, der das sichere Überqueren ermöglicht.
+4-1	261-265	Mein	_	
+4-2	266-275	Vorschlag	_	
+4-3	276-281	würde	_	
+4-4	282-286	eine	_	
+4-5	287-314	Geschwindigkeitslimitierung	_	
+4-6	315-318	auf	_	
+4-7	319-321	30	_	
+4-8	322-324	km	_	
+4-9	324-325	/	_	
+4-10	325-326	h	_	
+4-11	327-330	und	_	
+4-12	331-334	ein	_	
+4-13	335-348	Zebrastreifen	_	
+4-14	348-349	,	_	
+4-15	350-353	der	_	
+4-16	354-357	das	_	
+4-17	358-365	sichere	_	
+4-18	366-376	Überqueren	_	
+4-19	377-387	ermöglicht	_	
+4-20	387-388	.	_	

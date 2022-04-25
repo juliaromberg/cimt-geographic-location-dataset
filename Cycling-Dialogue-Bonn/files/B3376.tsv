@@ -1,0 +1,59 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vorbild Radweg Römerstraße
+1-1	0-7	Vorbild	_	
+1-2	8-14	Radweg	_	
+1-3	15-26	Römerstraße	*	
+
+#Text=Der Radweg auf diesem Teil der Römerstraße ist vorbildlich.
+2-1	29-32	Der	_	
+2-2	33-39	Radweg	_	
+2-3	40-43	auf	_	
+2-4	44-50	diesem	_	
+2-5	51-55	Teil	_	
+2-6	56-59	der	_	
+2-7	60-71	Römerstraße	*	
+2-8	72-75	ist	_	
+2-9	76-87	vorbildlich	_	
+2-10	87-88	.	_	
+
+#Text=Die Verkehrsführung besteht aus neuen Markierungen für Fahrradwege, es besteht eine Tempo-30-Zone, so dass der Verkehrsfluss allgemein ruhiger ist.
+3-1	89-92	Die	_	
+3-2	93-108	Verkehrsführung	_	
+3-3	109-116	besteht	_	
+3-4	117-120	aus	_	
+3-5	121-126	neuen	_	
+3-6	127-139	Markierungen	_	
+3-7	140-143	für	_	
+3-8	144-155	Fahrradwege	_	
+3-9	155-156	,	_	
+3-10	157-159	es	_	
+3-11	160-167	besteht	_	
+3-12	168-172	eine	_	
+3-13	173-178	Tempo	_	
+3-14	178-179	-	_	
+3-15	179-181	30	_	
+3-16	181-182	-	_	
+3-17	182-186	Zone	_	
+3-18	186-187	,	_	
+3-19	188-190	so	_	
+3-20	191-195	dass	_	
+3-21	196-199	der	_	
+3-22	200-213	Verkehrsfluss	_	
+3-23	214-223	allgemein	_	
+3-24	224-231	ruhiger	_	
+3-25	232-235	ist	_	
+3-26	235-236	.	_	
+
+#Text=Großes Lob an für diesen Abschnitt!
+4-1	237-243	Großes	_	
+4-2	244-247	Lob	_	
+4-3	248-250	an	_	
+4-4	251-254	für	_	
+4-5	255-261	diesen	_	
+4-6	262-271	Abschnitt	_	
+4-7	271-272	!	_	

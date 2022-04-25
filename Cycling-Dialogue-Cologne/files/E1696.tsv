@@ -1,0 +1,85 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradparken an Wohnanlagen verbessern
+1-1	0-13	Fahrradparken	_	
+1-2	14-16	an	_	
+1-3	17-28	Wohnanlagen	_	
+1-4	29-39	verbessern	_	
+
+#Text=Die wichtigen Wohnungsanbieter ([Firma], [Firma], [Firma]) in der Siedlung müssen das Fahrradparken für Bewohner verbessern: Für Kfz steht genügend Parkraum zur Verfügung, Fahrräder müssen über Nacht immer noch in den KELLER GESCHLEPPT werden.
+2-1	42-45	Die	_	
+2-2	46-55	wichtigen	_	
+2-3	56-72	Wohnungsanbieter	_	
+2-4	73-74	(	_	
+2-5	74-75	[	_	
+2-6	75-80	Firma	_	
+2-7	80-81	]	_	
+2-8	81-82	,	_	
+2-9	83-84	[	_	
+2-10	84-89	Firma	_	
+2-11	89-90	]	_	
+2-12	90-91	,	_	
+2-13	92-93	[	_	
+2-14	93-98	Firma	_	
+2-15	98-99	]	_	
+2-16	99-100	)	_	
+2-17	101-103	in	_	
+2-18	104-107	der	_	
+2-19	108-116	Siedlung	_	
+2-20	117-123	müssen	_	
+2-21	124-127	das	_	
+2-22	128-141	Fahrradparken	_	
+2-23	142-145	für	_	
+2-24	146-154	Bewohner	_	
+2-25	155-165	verbessern	_	
+2-26	165-166	:	_	
+2-27	167-170	Für	_	
+2-28	171-174	Kfz	_	
+2-29	175-180	steht	_	
+2-30	181-189	genügend	_	
+2-31	190-198	Parkraum	_	
+2-32	199-202	zur	_	
+2-33	203-212	Verfügung	_	
+2-34	212-213	,	_	
+2-35	214-223	Fahrräder	_	
+2-36	224-230	müssen	_	
+2-37	231-235	über	_	
+2-38	236-241	Nacht	_	
+2-39	242-247	immer	_	
+2-40	248-252	noch	_	
+2-41	253-255	in	_	
+2-42	256-259	den	_	
+2-43	260-266	KELLER	_	
+2-44	267-277	GESCHLEPPT	_	
+2-45	278-284	werden	_	
+2-46	284-285	.	_	
+
+#Text=Abschließbare ebenerdige Räume stehen für Müll zur Verfügung, nicht aber für Fahrräder!!!!
+3-1	286-299	Abschließbare	_	
+3-2	300-310	ebenerdige	_	
+3-3	311-316	Räume	_	
+3-4	317-323	stehen	_	
+3-5	324-327	für	_	
+3-6	328-332	Müll	_	
+3-7	333-336	zur	_	
+3-8	337-346	Verfügung	_	
+3-9	346-347	,	_	
+3-10	348-353	nicht	_	
+3-11	354-358	aber	_	
+3-12	359-362	für	_	
+3-13	363-372	Fahrräder	_	
+3-14	372-373	!	_	
+3-15	373-374	!	_	
+3-16	374-375	!	_	
+3-17	375-376	!	_	
+
+#Text=Das muss nachgerüstet werden!
+4-1	377-380	Das	_	
+4-2	381-385	muss	_	
+4-3	386-398	nachgerüstet	_	
+4-4	399-405	werden	_	
+4-5	405-406	!	_	

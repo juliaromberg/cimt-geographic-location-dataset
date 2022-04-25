@@ -1,0 +1,84 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Enge Friedrichstraße
+1-1	0-4	Enge	_	
+1-2	5-20	Friedrichstraße	*	
+
+#Text=Die Friedrichstraße stellt eine an sich wertvolle Alternative zur sehr unangenehmen Nutzung von Oxfordstraße und Berta-von Suttner-Platz dar.
+2-1	23-26	Die	*[6]	
+2-2	27-42	Friedrichstraße	*[6]	
+2-3	43-49	stellt	_	
+2-4	50-54	eine	_	
+2-5	55-57	an	_	
+2-6	58-62	sich	_	
+2-7	63-72	wertvolle	_	
+2-8	73-84	Alternative	_	
+2-9	85-88	zur	_	
+2-10	89-93	sehr	_	
+2-11	94-106	unangenehmen	_	
+2-12	107-114	Nutzung	_	
+2-13	115-118	von	*[7]	
+2-14	119-131	Oxfordstraße	*[7]	
+2-15	132-135	und	*[7]	
+2-16	136-145	Berta-von	*[7]	
+2-17	146-159	Suttner-Platz	*[7]	
+2-18	160-163	dar	_	
+2-19	163-164	.	_	
+
+#Text=Durch die ausufernde und raumgreifende Außengastronomie und durch Warenpräsentationen auf den Verkehrsflächen ist zügiger Fahrradverkehr nicht möglich, es kommt zudem häufig zu Konflikten zwischen Fußgängern und Fahrradfahrern.
+3-1	165-170	Durch	_	
+3-2	171-174	die	_	
+3-3	175-185	ausufernde	_	
+3-4	186-189	und	_	
+3-5	190-203	raumgreifende	_	
+3-6	204-220	Außengastronomie	_	
+3-7	221-224	und	_	
+3-8	225-230	durch	_	
+3-9	231-250	Warenpräsentationen	_	
+3-10	251-254	auf	_	
+3-11	255-258	den	_	
+3-12	259-274	Verkehrsflächen	_	
+3-13	275-278	ist	_	
+3-14	279-286	zügiger	_	
+3-15	287-301	Fahrradverkehr	_	
+3-16	302-307	nicht	_	
+3-17	308-315	möglich	_	
+3-18	315-316	,	_	
+3-19	317-319	es	_	
+3-20	320-325	kommt	_	
+3-21	326-331	zudem	_	
+3-22	332-338	häufig	_	
+3-23	339-341	zu	_	
+3-24	342-352	Konflikten	_	
+3-25	353-361	zwischen	_	
+3-26	362-372	Fußgängern	_	
+3-27	373-376	und	_	
+3-28	377-391	Fahrradfahrern	_	
+3-29	391-392	.	_	
+
+#Text=Vorschlag: In Fahrbahnmitte abmarkierter Fahrradstreifen, Fußgängerführung seitlich.
+4-1	393-402	Vorschlag	_	
+4-2	402-403	:	_	
+4-3	404-406	In	_	
+4-4	407-420	Fahrbahnmitte	_	
+4-5	421-433	abmarkierter	_	
+4-6	434-449	Fahrradstreifen	_	
+4-7	449-450	,	_	
+4-8	451-467	Fußgängerführung	_	
+4-9	468-476	seitlich	_	
+4-10	476-477	.	_	
+
+#Text=Deutliche Reduzierung der Flächen für Außengastronomie und Kleiderständer.
+5-1	478-487	Deutliche	_	
+5-2	488-499	Reduzierung	_	
+5-3	500-503	der	_	
+5-4	504-511	Flächen	_	
+5-5	512-515	für	_	
+5-6	516-532	Außengastronomie	_	
+5-7	533-536	und	_	
+5-8	537-551	Kleiderständer	_	
+5-9	551-552	.	_	

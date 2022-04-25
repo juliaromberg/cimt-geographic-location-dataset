@@ -1,0 +1,274 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=unhaltbarer Zustand am Busbahnhof
+1-1	0-11	unhaltbarer	_	
+1-2	12-19	Zustand	_	
+1-3	20-22	am	_	
+1-4	23-33	Busbahnhof	_	
+
+#Text=Kommt man mit dem Rad von Norden von der Rabin- Richtung Kaiserstraße so _muss_ man über den Busbahnhof fahren.
+2-1	36-41	Kommt	_	
+2-2	42-45	man	_	
+2-3	46-49	mit	_	
+2-4	50-53	dem	_	
+2-5	54-57	Rad	_	
+2-6	58-61	von	*[14]	
+2-7	62-68	Norden	*[14]	
+2-8	69-72	von	*[14]	
+2-9	73-76	der	*[14]	
+2-10	77-82	Rabin	*[14]	
+2-11	82-83	-	*[14]	
+2-12	84-92	Richtung	*[14]	
+2-13	93-105	Kaiserstraße	*[14]	
+2-14	106-108	so	_	
+2-15	109-110	_	_	
+2-16	110-114	muss	_	
+2-17	114-115	_	_	
+2-18	116-119	man	_	
+2-19	120-124	über	_	
+2-20	125-128	den	_	
+2-21	129-139	Busbahnhof	_	
+2-22	140-146	fahren	_	
+2-23	146-147	.	_	
+
+#Text=Wo das Radfahren hier erlaubt ist?
+3-1	148-150	Wo	_	
+3-2	151-154	das	_	
+3-3	155-164	Radfahren	_	
+3-4	165-169	hier	_	
+3-5	170-177	erlaubt	_	
+3-6	178-181	ist	_	
+3-7	181-182	?	_	
+
+#Text=Unklar.
+4-1	183-189	Unklar	_	
+4-2	189-190	.	_	
+
+#Text=Die Beschilderung: unvollständig (nach meinem Verständnis über die von Norden aus kommend halb linken Busspuren erlaubt, weil es kein Schild dort verbietet, Busfahrer mögen das nicht, die Polizei gab mir und zahlreichen weiteren Radlern vor kurzem ein Knöllchen)
+5-1	191-194	Die	_	
+5-2	195-208	Beschilderung	_	
+5-3	208-209	:	_	
+5-4	210-223	unvollständig	_	
+5-5	224-225	(	_	
+5-6	225-229	nach	_	
+5-7	230-236	meinem	_	
+5-8	237-248	Verständnis	_	
+5-9	249-253	über	_	
+5-10	254-257	die	_	
+5-11	258-261	von	_	
+5-12	262-268	Norden	_	
+5-13	269-272	aus	_	
+5-14	273-280	kommend	_	
+5-15	281-285	halb	_	
+5-16	286-292	linken	_	
+5-17	293-302	Busspuren	_	
+5-18	303-310	erlaubt	_	
+5-19	310-311	,	_	
+5-20	312-316	weil	_	
+5-21	317-319	es	_	
+5-22	320-324	kein	_	
+5-23	325-331	Schild	_	
+5-24	332-336	dort	_	
+5-25	337-346	verbietet	_	
+5-26	346-347	,	_	
+5-27	348-357	Busfahrer	_	
+5-28	358-363	mögen	_	
+5-29	364-367	das	_	
+5-30	368-373	nicht	_	
+5-31	373-374	,	_	
+5-32	375-378	die	_	
+5-33	379-386	Polizei	_	
+5-34	387-390	gab	_	
+5-35	391-394	mir	_	
+5-36	395-398	und	_	
+5-37	399-410	zahlreichen	_	
+5-38	411-419	weiteren	_	
+5-39	420-427	Radlern	_	
+5-40	428-431	vor	_	
+5-41	432-438	kurzem	_	
+5-42	439-442	ein	_	
+5-43	443-452	Knöllchen	_	
+5-44	452-453	)	_	
+
+#Text=Absteigen und Schieben?
+6-1	454-463	Absteigen	_	
+6-2	464-467	und	_	
+6-3	468-476	Schieben	_	
+6-4	476-477	?	_	
+
+#Text=Dauert inakzeptabel lange, nervt die auf Busse wartenden Fahrgäste auch weil es keine ausreichend breiten Fußwege gibt.
+7-1	478-484	Dauert	_	
+7-2	485-497	inakzeptabel	_	
+7-3	498-503	lange	_	
+7-4	503-504	,	_	
+7-5	505-510	nervt	_	
+7-6	511-514	die	_	
+7-7	515-518	auf	_	
+7-8	519-524	Busse	_	
+7-9	525-534	wartenden	_	
+7-10	535-544	Fahrgäste	_	
+7-11	545-549	auch	_	
+7-12	550-554	weil	_	
+7-13	555-557	es	_	
+7-14	558-563	keine	_	
+7-15	564-575	ausreichend	_	
+7-16	576-583	breiten	_	
+7-17	584-591	Fußwege	_	
+7-18	592-596	gibt	_	
+7-19	596-597	.	_	
+
+#Text=Ausweichen auf andere Wege ist schlicht nicht möglich: auf einer Seite sind die Bahntrassen, auf der anderen Seite die viel frequentierte Fußgängerzone.
+8-1	598-608	Ausweichen	_	
+8-2	609-612	auf	_	
+8-3	613-619	andere	_	
+8-4	620-624	Wege	_	
+8-5	625-628	ist	_	
+8-6	629-637	schlicht	_	
+8-7	638-643	nicht	_	
+8-8	644-651	möglich	_	
+8-9	651-652	:	_	
+8-10	653-656	auf	_	
+8-11	657-662	einer	_	
+8-12	663-668	Seite	_	
+8-13	669-673	sind	_	
+8-14	674-677	die	_	
+8-15	678-689	Bahntrassen	_	
+8-16	689-690	,	_	
+8-17	691-694	auf	_	
+8-18	695-698	der	_	
+8-19	699-706	anderen	_	
+8-20	707-712	Seite	_	
+8-21	713-716	die	_	
+8-22	717-721	viel	_	
+8-23	722-735	frequentierte	_	
+8-24	736-749	Fußgängerzone	_	
+8-25	749-750	.	_	
+
+#Text=Es fehlt vor allem eine klare Regelung/Beschilderung.
+9-1	751-753	Es	_	
+9-2	754-759	fehlt	_	
+9-3	760-763	vor	_	
+9-4	764-769	allem	_	
+9-5	770-774	eine	_	
+9-6	775-780	klare	_	
+9-7	781-789	Regelung	_	
+9-8	789-790	/	_	
+9-9	790-803	Beschilderung	_	
+9-10	803-804	.	_	
+
+#Text=Wo Fahrradwege enden muss dem Radler aufgezeigt werden wo er fahren darf.
+10-1	805-807	Wo	_	
+10-2	808-819	Fahrradwege	_	
+10-3	820-825	enden	_	
+10-4	826-830	muss	_	
+10-5	831-834	dem	_	
+10-6	835-841	Radler	_	
+10-7	842-852	aufgezeigt	_	
+10-8	853-859	werden	_	
+10-9	860-862	wo	_	
+10-10	863-865	er	_	
+10-11	866-872	fahren	_	
+10-12	873-877	darf	_	
+10-13	877-878	.	_	
+
+#Text=Ich bin Fahrrad-Berufspendler (2x6km Strecke) und fahre diesen Weg täglich.
+11-1	879-882	Ich	_	
+11-2	883-886	bin	_	
+11-3	887-908	Fahrrad-Berufspendler	_	
+11-4	909-910	(	_	
+11-5	910-915	2x6km	_	
+11-6	916-923	Strecke	_	
+11-7	923-924	)	_	
+11-8	925-928	und	_	
+11-9	929-934	fahre	_	
+11-10	935-941	diesen	_	
+11-11	942-945	Weg	_	
+11-12	946-953	täglich	_	
+11-13	953-954	.	_	
+
+#Text=In die andere Richtung ist es weit weniger kritisch, auch wenn die Situation an der Thomastraße-Rabinstraße sowie die Beschaffenheit der extrem schmalen kombinierten Fuß-Radwege ebenfalls erheblich Verbesserungspotential bietet.
+12-1	955-957	In	_	
+12-2	958-961	die	_	
+12-3	962-968	andere	_	
+12-4	969-977	Richtung	_	
+12-5	978-981	ist	_	
+12-6	982-984	es	_	
+12-7	985-989	weit	_	
+12-8	990-997	weniger	_	
+12-9	998-1006	kritisch	_	
+12-10	1006-1007	,	_	
+12-11	1008-1012	auch	_	
+12-12	1013-1017	wenn	_	
+12-13	1018-1021	die	_	
+12-14	1022-1031	Situation	_	
+12-15	1032-1034	an	*[15]	
+12-16	1035-1038	der	*[15]	
+12-17	1039-1062	Thomastraße-Rabinstraße	*[15]	
+12-18	1063-1068	sowie	_	
+12-19	1069-1072	die	_	
+12-20	1073-1087	Beschaffenheit	_	
+12-21	1088-1091	der	_	
+12-22	1092-1098	extrem	_	
+12-23	1099-1107	schmalen	_	
+12-24	1108-1120	kombinierten	_	
+12-25	1121-1132	Fuß-Radwege	_	
+12-26	1133-1142	ebenfalls	_	
+12-27	1143-1152	erheblich	_	
+12-28	1153-1175	Verbesserungspotential	_	
+12-29	1176-1182	bietet	_	
+12-30	1182-1183	.	_	
+
+#Text=Anders als die bekannt-gefährliche Situation auf der Viktoriabrücke, die mit dem Ende der Bauarbeiten erledigt sein dürfte, ist es am Busbahnhof seit Jahren gefährlich weil in Nord-Süd-Richtung (Thoma->Kaiserstr.) anders als an vielen Orten der Bundesstadt Radfahrer offenbar nicht eingeplant wurden.
+13-1	1184-1190	Anders	_	
+13-2	1191-1194	als	_	
+13-3	1195-1198	die	_	
+13-4	1199-1218	bekannt-gefährliche	_	
+13-5	1219-1228	Situation	_	
+13-6	1229-1232	auf	*[16]	
+13-7	1233-1236	der	*[16]	
+13-8	1237-1251	Viktoriabrücke	*[16]	
+13-9	1251-1252	,	_	
+13-10	1253-1256	die	_	
+13-11	1257-1260	mit	_	
+13-12	1261-1264	dem	_	
+13-13	1265-1269	Ende	_	
+13-14	1270-1273	der	_	
+13-15	1274-1285	Bauarbeiten	_	
+13-16	1286-1294	erledigt	_	
+13-17	1295-1299	sein	_	
+13-18	1300-1306	dürfte	_	
+13-19	1306-1307	,	_	
+13-20	1308-1311	ist	_	
+13-21	1312-1314	es	_	
+13-22	1315-1317	am	_	
+13-23	1318-1328	Busbahnhof	_	
+13-24	1329-1333	seit	_	
+13-25	1334-1340	Jahren	_	
+13-26	1341-1351	gefährlich	_	
+13-27	1352-1356	weil	_	
+13-28	1357-1359	in	*[17]	
+13-29	1360-1377	Nord-Süd-Richtung	*[17]	
+13-30	1378-1379	(	*[17]	
+13-31	1379-1384	Thoma	*[17]	
+13-32	1384-1385	-	*[17]	
+13-33	1385-1386	>	*[17]	
+13-34	1386-1395	Kaiserstr	*[17]	
+13-35	1395-1396	.	*[17]	
+13-36	1396-1397	)	*[17]	
+13-37	1398-1404	anders	_	
+13-38	1405-1408	als	_	
+13-39	1409-1411	an	_	
+13-40	1412-1418	vielen	_	
+13-41	1419-1424	Orten	_	
+13-42	1425-1428	der	_	
+13-43	1429-1440	Bundesstadt	_	
+13-44	1441-1450	Radfahrer	_	
+13-45	1451-1459	offenbar	_	
+13-46	1460-1465	nicht	_	
+13-47	1466-1476	eingeplant	_	
+13-48	1477-1483	wurden	_	
+13-49	1483-1484	.	_	

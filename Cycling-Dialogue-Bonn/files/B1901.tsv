@@ -1,0 +1,32 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=kaiserstr
+1-1	0-9	kaiserstr	*	
+
+#Text=Es wäre toll wenn die Kaiserstr. einspurig für Autos sein könnte und der Fahrradweg verbreitet wird, mit 2 Spuren.
+2-1	12-14	Es	_	
+2-2	15-19	wäre	_	
+2-3	20-24	toll	_	
+2-4	25-29	wenn	_	
+2-5	30-33	die	*[2]	
+2-6	34-43	Kaiserstr	*[2]	
+2-7	43-44	.	_	
+2-8	45-54	einspurig	_	
+2-9	55-58	für	_	
+2-10	59-64	Autos	_	
+2-11	65-69	sein	_	
+2-12	70-76	könnte	_	
+2-13	77-80	und	_	
+2-14	81-84	der	_	
+2-15	85-95	Fahrradweg	_	
+2-16	96-106	verbreitet	_	
+2-17	107-111	wird	_	
+2-18	111-112	,	_	
+2-19	113-116	mit	_	
+2-20	117-118	2	_	
+2-21	119-125	Spuren	_	
+2-22	125-126	.	_	

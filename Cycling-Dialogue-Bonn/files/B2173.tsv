@@ -1,0 +1,95 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradabstellplätze fehlen am Anfang Bornheimer Straße
+1-1	0-20	Fahrradabstellplätze	_	
+1-2	21-27	fehlen	_	
+1-3	28-30	am	*[6]	
+1-4	31-37	Anfang	*[6]	
+1-5	38-48	Bornheimer	*[6]	
+1-6	49-55	Straße	*[6]	
+
+#Text=Am Anfang der Bornheimer Straße und Franzstraße 38 (Frittebud) befinden sich auf ca. 60 m mehrere Kneipen/Restaurants für 16-3x jährige.
+2-1	58-60	Am	*[7]	
+2-2	61-67	Anfang	*[7]	
+2-3	68-71	der	*[7]	
+2-4	72-82	Bornheimer	*[7]	
+2-5	83-89	Straße	*[7]	
+2-6	90-93	und	*[7]	
+2-7	94-105	Franzstraße	*[7]	
+2-8	106-108	38	*[7]	
+2-9	109-110	(	*[7]	
+2-10	110-119	Frittebud	*[7]	
+2-11	119-120	)	_	
+2-12	121-129	befinden	_	
+2-13	130-134	sich	_	
+2-14	135-138	auf	_	
+2-15	139-141	ca	_	
+2-16	141-142	.	_	
+2-17	143-145	60	_	
+2-18	146-147	m	_	
+2-19	148-155	mehrere	_	
+2-20	156-163	Kneipen	_	
+2-21	163-164	/	_	
+2-22	164-175	Restaurants	_	
+2-23	176-179	für	_	
+2-24	180-182	16	_	
+2-25	182-183	-	_	
+2-26	183-185	3x	_	
+2-27	186-193	jährige	_	
+2-28	193-194	.	_	
+
+#Text=Es fehlen jedoch Fahrradabstellplätze, die insbesondere in der Franzstraße, gegenüber den Hausnummer 38 und 40 errichtet werden könnten.
+3-1	195-197	Es	_	
+3-2	198-204	fehlen	_	
+3-3	205-211	jedoch	_	
+3-4	212-232	Fahrradabstellplätze	_	
+3-5	232-233	,	_	
+3-6	234-237	die	_	
+3-7	238-250	insbesondere	_	
+3-8	251-253	in	*[8]	
+3-9	254-257	der	*[8]	
+3-10	258-269	Franzstraße	*[8]	
+3-11	269-270	,	*[8]	
+3-12	271-280	gegenüber	*[8]	
+3-13	281-284	den	*[8]	
+3-14	285-295	Hausnummer	*[8]	
+3-15	296-298	38	*[8]	
+3-16	299-302	und	*[8]	
+3-17	303-305	40	*[8]	
+3-18	306-315	errichtet	_	
+3-19	316-322	werden	_	
+3-20	323-330	könnten	_	
+3-21	330-331	.	_	
+
+#Text=Aktuell blockieren dort Polder einfach nur das Parken von Autos auf dem dort breiten ungenutzten Bürgersteig.
+4-1	332-339	Aktuell	_	
+4-2	340-350	blockieren	_	
+4-3	351-355	dort	_	
+4-4	356-362	Polder	_	
+4-5	363-370	einfach	_	
+4-6	371-374	nur	_	
+4-7	375-378	das	_	
+4-8	379-385	Parken	_	
+4-9	386-389	von	_	
+4-10	390-395	Autos	_	
+4-11	396-399	auf	_	
+4-12	400-403	dem	_	
+4-13	404-408	dort	_	
+4-14	409-416	breiten	_	
+4-15	417-428	ungenutzten	_	
+4-16	429-440	Bürgersteig	_	
+4-17	440-441	.	_	
+
+#Text=Dort könnten sehr einfach Fahrradabstellanlagen errichtet werden.
+5-1	442-446	Dort	_	
+5-2	447-454	könnten	_	
+5-3	455-459	sehr	_	
+5-4	460-467	einfach	_	
+5-5	468-489	Fahrradabstellanlagen	_	
+5-6	490-499	errichtet	_	
+5-7	500-506	werden	_	
+5-8	506-507	.	_	

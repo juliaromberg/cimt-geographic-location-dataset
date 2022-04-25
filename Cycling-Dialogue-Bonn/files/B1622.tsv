@@ -1,0 +1,88 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radständer richtig aufstellen
+1-1	0-10	Radständer	_	
+1-2	11-18	richtig	_	
+1-3	19-29	aufstellen	_	
+
+#Text=Dieser an sich lobenswerte neue Radständer ist leider so an die Wand gedrückt, daß er nicht funktionsgerecht genutzt werden kann.
+2-1	32-38	Dieser	_	
+2-2	39-41	an	_	
+2-3	42-46	sich	_	
+2-4	47-58	lobenswerte	_	
+2-5	59-63	neue	_	
+2-6	64-74	Radständer	_	
+2-7	75-78	ist	_	
+2-8	79-85	leider	_	
+2-9	86-88	so	_	
+2-10	89-91	an	_	
+2-11	92-95	die	_	
+2-12	96-100	Wand	_	
+2-13	101-109	gedrückt	_	
+2-14	109-110	,	_	
+2-15	111-114	daß	_	
+2-16	115-117	er	_	
+2-17	118-123	nicht	_	
+2-18	124-140	funktionsgerecht	_	
+2-19	141-148	genutzt	_	
+2-20	149-155	werden	_	
+2-21	156-160	kann	_	
+2-22	160-161	.	_	
+
+#Text=Bügelabstellanlagen müssen nämlich so aufgestellt sein, daß ich nicht das Vorderrad anketten muß, sondern den Rahmen des Fahrrads!
+3-1	162-181	Bügelabstellanlagen	_	
+3-2	182-188	müssen	_	
+3-3	189-196	nämlich	_	
+3-4	197-199	so	_	
+3-5	200-211	aufgestellt	_	
+3-6	212-216	sein	_	
+3-7	216-217	,	_	
+3-8	218-221	daß	_	
+3-9	222-225	ich	_	
+3-10	226-231	nicht	_	
+3-11	232-235	das	_	
+3-12	236-245	Vorderrad	_	
+3-13	246-254	anketten	_	
+3-14	255-258	muß	_	
+3-15	258-259	,	_	
+3-16	260-267	sondern	_	
+3-17	268-271	den	_	
+3-18	272-278	Rahmen	_	
+3-19	279-282	des	_	
+3-20	283-291	Fahrrads	_	
+3-21	291-292	!	_	
+
+#Text=Das ist aber nicht möglich, wenn er direkt an der Wand aufgestellt wird, obwohl er keinen behindert!
+4-1	293-296	Das	_	
+4-2	297-300	ist	_	
+4-3	301-305	aber	_	
+4-4	306-311	nicht	_	
+4-5	312-319	möglich	_	
+4-6	319-320	,	_	
+4-7	321-325	wenn	_	
+4-8	326-328	er	_	
+4-9	329-335	direkt	_	
+4-10	336-338	an	_	
+4-11	339-342	der	_	
+4-12	343-347	Wand	_	
+4-13	348-359	aufgestellt	_	
+4-14	360-364	wird	_	
+4-15	364-365	,	_	
+4-16	366-372	obwohl	_	
+4-17	373-375	er	_	
+4-18	376-382	keinen	_	
+4-19	383-392	behindert	_	
+4-20	392-393	!	_	
+
+#Text=Bitte ändern, für weniger Diebstähle!
+5-1	394-399	Bitte	_	
+5-2	400-406	ändern	_	
+5-3	406-407	,	_	
+5-4	408-411	für	_	
+5-5	412-419	weniger	_	
+5-6	420-430	Diebstähle	_	
+5-7	430-431	!	_	

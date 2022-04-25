@@ -1,0 +1,82 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstraße und nicht den Bürgersteig freigeben
+1-1	0-13	Einbahnstraße	_	
+1-2	14-17	und	_	
+1-3	18-23	nicht	_	
+1-4	24-27	den	_	
+1-5	28-39	Bürgersteig	_	
+1-6	40-49	freigeben	_	
+
+#Text=Von der Rheingasse kommend muss ich Richtung Kennedybrücke links in Am Boeselagerhof einbiegen.
+2-1	52-55	Von	*[8]	
+2-2	56-59	der	*[8]	
+2-3	60-70	Rheingasse	*[8]	
+2-4	71-78	kommend	*[8]	
+2-5	79-83	muss	*[8]	
+2-6	84-87	ich	*[8]	
+2-7	88-96	Richtung	*[8]	
+2-8	97-110	Kennedybrücke	*[8]	
+2-9	111-116	links	*[8]	
+2-10	117-119	in	*[8]	
+2-11	120-122	Am	*[8]	
+2-12	123-136	Boeselagerhof	*[8]	
+2-13	137-146	einbiegen	*[8]	
+2-14	146-147	.	_	
+
+#Text=Hier fehlt ein Schild, dass die Einbahnstraße für Radfahrer freigegeben ist.
+3-1	148-152	Hier	_	
+3-2	153-158	fehlt	_	
+3-3	159-162	ein	_	
+3-4	163-169	Schild	_	
+3-5	169-170	,	_	
+3-6	171-175	dass	_	
+3-7	176-179	die	_	
+3-8	180-193	Einbahnstraße	_	
+3-9	194-197	für	_	
+3-10	198-207	Radfahrer	_	
+3-11	208-219	freigegeben	_	
+3-12	220-223	ist	_	
+3-13	223-224	.	_	
+
+#Text=Erst ab der Kapuzinerstraße gibt es das Schild.
+4-1	225-229	Erst	_	
+4-2	230-232	ab	_	
+4-3	233-236	der	_	
+4-4	237-252	Kapuzinerstraße	*	
+4-5	253-257	gibt	_	
+4-6	258-260	es	_	
+4-7	261-264	das	_	
+4-8	265-271	Schild	_	
+4-9	271-272	.	_	
+
+#Text=Vorher soll man wohl irgendwie über den Bürgersteig aus Kopfsteinpflaster zuckeln.
+5-1	273-279	Vorher	_	
+5-2	280-284	soll	_	
+5-3	285-288	man	_	
+5-4	289-293	wohl	_	
+5-5	294-303	irgendwie	_	
+5-6	304-308	über	_	
+5-7	309-312	den	_	
+5-8	313-324	Bürgersteig	_	
+5-9	325-328	aus	_	
+5-10	329-346	Kopfsteinpflaster	_	
+5-11	347-354	zuckeln	_	
+5-12	354-355	.	_	
+
+#Text=Bitte die Straße Am Boeselagerhof freigeben.
+6-1	356-361	Bitte	_	
+6-2	362-365	die	_	
+6-3	366-372	Straße	_	
+6-4	373-375	Am	*[9]	
+6-5	376-389	Boeselagerhof	*[9]	
+6-6	390-399	freigeben	_	
+6-7	399-400	.	_	
+
+#Text=Danke.
+7-1	401-406	Danke	_	
+7-2	406-407	.	_	

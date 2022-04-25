@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Anliegerstraße, Tempo 30, Fahrradstraße, Einbahnstraße
+1-1	0-14	Anliegerstraße	_	
+1-2	14-15	,	_	
+1-3	16-21	Tempo	_	
+1-4	22-24	30	_	
+1-5	24-25	,	_	
+1-6	26-39	Fahrradstraße	_	
+1-7	39-40	,	_	
+1-8	41-54	Einbahnstraße	_	
+
+#Text=Die Lessingstraße wird leider von vielen (eiligen) Autofahrern als Durchfahrt benutzt, meistens zum Bahnübergang.
+2-1	57-60	Die	*[5]	
+2-2	61-74	Lessingstraße	*[5]	
+2-3	75-79	wird	_	
+2-4	80-86	leider	_	
+2-5	87-90	von	_	
+2-6	91-97	vielen	_	
+2-7	98-99	(	_	
+2-8	99-106	eiligen	_	
+2-9	106-107	)	_	
+2-10	108-119	Autofahrern	_	
+2-11	120-123	als	_	
+2-12	124-134	Durchfahrt	_	
+2-13	135-142	benutzt	_	
+2-14	142-143	,	_	
+2-15	144-152	meistens	_	
+2-16	153-156	zum	_	
+2-17	157-169	Bahnübergang	_	
+2-18	169-170	.	_	
+
+#Text=Dadurch kommt es täglich zu vielen gefährlichen Situationen mit Radfahrern, auch vielen Kindern!
+3-1	171-178	Dadurch	_	
+3-2	179-184	kommt	_	
+3-3	185-187	es	_	
+3-4	188-195	täglich	_	
+3-5	196-198	zu	_	
+3-6	199-205	vielen	_	
+3-7	206-218	gefährlichen	_	
+3-8	219-230	Situationen	_	
+3-9	231-234	mit	_	
+3-10	235-245	Radfahrern	_	
+3-11	245-246	,	_	
+3-12	247-251	auch	_	
+3-13	252-258	vielen	_	
+3-14	259-266	Kindern	_	
+3-15	266-267	!	_	
+
+#Text=Vorschläge: - Reine Anliegerstraße - Einbahnstraße (Fahräder frei), Einfahrt nur noch aus Richtung Bahnübergang - Tempo 30 oder Fahrradstraße
+4-1	268-278	Vorschläge	_	
+4-2	278-279	:	_	
+4-3	280-281	-	_	
+4-4	282-287	Reine	_	
+4-5	288-302	Anliegerstraße	_	
+4-6	303-304	-	_	
+4-7	305-318	Einbahnstraße	_	
+4-8	319-320	(	_	
+4-9	320-328	Fahräder	_	
+4-10	329-333	frei	_	
+4-11	333-334	)	_	
+4-12	334-335	,	_	
+4-13	336-344	Einfahrt	_	
+4-14	345-348	nur	_	
+4-15	349-353	noch	_	
+4-16	354-357	aus	_	
+4-17	358-366	Richtung	_	
+4-18	367-379	Bahnübergang	_	
+4-19	380-381	-	_	
+4-20	382-387	Tempo	_	
+4-21	388-390	30	_	
+4-22	391-395	oder	_	
+4-23	396-409	Fahrradstraße	_	

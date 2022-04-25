@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verengter Bereich durch Außengastronomie
+1-1	0-9	Verengter	_	
+1-2	10-17	Bereich	_	
+1-3	18-23	durch	_	
+1-4	24-40	Außengastronomie	_	
+
+#Text=Durch Tische und Bänke im Außenbereich ist hier so wenig Platz für die Fußgänger, dass immer wieder auf den Fahrradweg ausgewichen wird.
+2-1	43-48	Durch	_	
+2-2	49-55	Tische	_	
+2-3	56-59	und	_	
+2-4	60-65	Bänke	_	
+2-5	66-68	im	_	
+2-6	69-81	Außenbereich	_	
+2-7	82-85	ist	_	
+2-8	86-90	hier	_	
+2-9	91-93	so	_	
+2-10	94-99	wenig	_	
+2-11	100-105	Platz	_	
+2-12	106-109	für	_	
+2-13	110-113	die	_	
+2-14	114-123	Fußgänger	_	
+2-15	123-124	,	_	
+2-16	125-129	dass	_	
+2-17	130-135	immer	_	
+2-18	136-142	wieder	_	
+2-19	143-146	auf	_	
+2-20	147-150	den	_	
+2-21	151-161	Fahrradweg	_	
+2-22	162-173	ausgewichen	_	
+2-23	174-178	wird	_	
+2-24	178-179	.	_	
+
+#Text=Gerade in diesem Bereich ist ein hohes Fußgänger- und Radfahreraufkommen.
+3-1	180-186	Gerade	_	
+3-2	187-189	in	_	
+3-3	190-196	diesem	_	
+3-4	197-204	Bereich	_	
+3-5	205-208	ist	_	
+3-6	209-212	ein	_	
+3-7	213-218	hohes	_	
+3-8	219-228	Fußgänger	_	
+3-9	228-229	-	_	
+3-10	230-233	und	_	
+3-11	234-252	Radfahreraufkommen	_	
+3-12	252-253	.	_	
+
+#Text=Es kommt immer wieder zu kritischen Situationen.
+4-1	254-256	Es	_	
+4-2	257-262	kommt	_	
+4-3	263-268	immer	_	
+4-4	269-275	wieder	_	
+4-5	276-278	zu	_	
+4-6	279-289	kritischen	_	
+4-7	290-301	Situationen	_	
+4-8	301-302	.	_	

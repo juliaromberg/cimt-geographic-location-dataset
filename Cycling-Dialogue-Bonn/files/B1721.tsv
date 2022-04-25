@@ -1,0 +1,82 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Viktoriabrücke
+1-1	0-14	Viktoriabrücke	*	
+
+#Text=Die Verkehrsführung durch die Baustelle auf der Viktoriabrücke ist für Radfahrer eine Zumutung.
+2-1	17-20	Die	_	
+2-2	21-36	Verkehrsführung	_	
+2-3	37-42	durch	_	
+2-4	43-46	die	_	
+2-5	47-56	Baustelle	_	
+2-6	57-60	auf	*[6]	
+2-7	61-64	der	*[6]	
+2-8	65-79	Viktoriabrücke	*[6]	
+2-9	80-83	ist	_	
+2-10	84-87	für	_	
+2-11	88-97	Radfahrer	_	
+2-12	98-102	eine	_	
+2-13	103-111	Zumutung	_	
+2-14	111-112	.	_	
+
+#Text=Eine Auffahrt auf die Brücke ist für Radfahrer nicht geregelt.
+3-1	113-117	Eine	_	
+3-2	118-126	Auffahrt	_	
+3-3	127-130	auf	_	
+3-4	131-134	die	_	
+3-5	135-141	Brücke	_	
+3-6	142-145	ist	_	
+3-7	146-149	für	_	
+3-8	150-159	Radfahrer	_	
+3-9	160-165	nicht	_	
+3-10	166-174	geregelt	_	
+3-11	174-175	.	_	
+
+#Text=Von der Endenicher Straße kommend hilft nur absteigen und schieben.
+4-1	176-179	Von	*[7]	
+4-2	180-183	der	*[7]	
+4-3	184-194	Endenicher	*[7]	
+4-4	195-201	Straße	*[7]	
+4-5	202-209	kommend	*[7]	
+4-6	210-215	hilft	_	
+4-7	216-219	nur	_	
+4-8	220-229	absteigen	_	
+4-9	230-233	und	_	
+4-10	234-242	schieben	_	
+4-11	242-243	.	_	
+
+#Text=Auf der anderen Seite angekommen gibt es dann keine Überführung zurück auf den Radweg in den regulären Straßenverkehr.
+5-1	244-247	Auf	_	
+5-2	248-251	der	_	
+5-3	252-259	anderen	_	
+5-4	260-265	Seite	_	
+5-5	266-276	angekommen	_	
+5-6	277-281	gibt	_	
+5-7	282-284	es	_	
+5-8	285-289	dann	_	
+5-9	290-295	keine	_	
+5-10	296-307	Überführung	_	
+5-11	308-314	zurück	_	
+5-12	315-318	auf	_	
+5-13	319-322	den	_	
+5-14	323-329	Radweg	_	
+5-15	330-332	in	_	
+5-16	333-336	den	_	
+5-17	337-346	regulären	_	
+5-18	347-361	Straßenverkehr	_	
+5-19	361-362	.	_	
+
+#Text=Die Verkehrsführung ist eine Frechheit gegenüber allen Radfahrern.
+6-1	363-366	Die	_	
+6-2	367-382	Verkehrsführung	_	
+6-3	383-386	ist	_	
+6-4	387-391	eine	_	
+6-5	392-401	Frechheit	_	
+6-6	402-411	gegenüber	_	
+6-7	412-417	allen	_	
+6-8	418-428	Radfahrern	_	
+6-9	428-429	.	_	

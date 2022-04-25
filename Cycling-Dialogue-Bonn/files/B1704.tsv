@@ -1,0 +1,33 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrbahnschäden markierter Radweg
+1-1	0-15	Fahrbahnschäden	_	
+1-2	16-26	markierter	_	
+1-3	27-33	Radweg	_	
+
+#Text=Die Fahrbahn ist im Bereich des markierten Radweges teilweise nicht nutzbar, von Schlaglöchern, Wurzelwerk etc. stark beschädigt,
+2-1	36-39	Die	_	
+2-2	40-48	Fahrbahn	_	
+2-3	49-52	ist	_	
+2-4	53-55	im	_	
+2-5	56-63	Bereich	_	
+2-6	64-67	des	_	
+2-7	68-78	markierten	_	
+2-8	79-87	Radweges	_	
+2-9	88-97	teilweise	_	
+2-10	98-103	nicht	_	
+2-11	104-111	nutzbar	_	
+2-12	111-112	,	_	
+2-13	113-116	von	_	
+2-14	117-130	Schlaglöchern	_	
+2-15	130-131	,	_	
+2-16	132-142	Wurzelwerk	_	
+2-17	143-146	etc	_	
+2-18	146-147	.	_	
+2-19	148-153	stark	_	
+2-20	154-164	beschädigt	_	
+2-21	164-165	,	_	

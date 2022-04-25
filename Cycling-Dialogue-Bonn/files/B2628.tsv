@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Täglich zugeparkter Radweg
+1-1	0-7	Täglich	_	
+1-2	8-19	zugeparkter	_	
+1-3	20-26	Radweg	_	
+
+#Text=Subunternehmen der [Name des Unternehmens] parken hier täglich den gesamtem Radweg zu, Ausweichen ist gefährlich
+2-1	29-43	Subunternehmen	_	
+2-2	44-47	der	_	
+2-3	48-49	[	_	
+2-4	49-53	Name	_	
+2-5	54-57	des	_	
+2-6	58-70	Unternehmens	_	
+2-7	70-71	]	_	
+2-8	72-78	parken	_	
+2-9	79-83	hier	_	
+2-10	84-91	täglich	_	
+2-11	92-95	den	_	
+2-12	96-104	gesamtem	_	
+2-13	105-111	Radweg	_	
+2-14	112-114	zu	_	
+2-15	114-115	,	_	
+2-16	116-126	Ausweichen	_	
+2-17	127-130	ist	_	
+2-18	131-141	gefährlich	_	

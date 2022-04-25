@@ -1,0 +1,95 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreisverkehr?
+1-1	0-12	Kreisverkehr	_	
+1-2	12-13	?	_	
+
+#Text=Dieser Kreisverkehr sorgt ständig für Irritationen.
+2-1	16-22	Dieser	_	
+2-2	23-35	Kreisverkehr	_	
+2-3	36-41	sorgt	_	
+2-4	42-49	ständig	_	
+2-5	50-53	für	_	
+2-6	54-66	Irritationen	_	
+2-7	66-67	.	_	
+
+#Text=Leider ist dies baulich ein Kreisverkehr bzw. soll wie einer aussehen, allerdings fehlen entsprechende Beschilderungen wie Vorfahrt achten oder ähnliches, damit auch dem Kreisverkehr vorrang gegeben wird.
+3-1	68-74	Leider	_	
+3-2	75-78	ist	_	
+3-3	79-83	dies	_	
+3-4	84-91	baulich	_	
+3-5	92-95	ein	_	
+3-6	96-108	Kreisverkehr	_	
+3-7	109-112	bzw	_	
+3-8	112-113	.	_	
+3-9	114-118	soll	_	
+3-10	119-122	wie	_	
+3-11	123-128	einer	_	
+3-12	129-137	aussehen	_	
+3-13	137-138	,	_	
+3-14	139-149	allerdings	_	
+3-15	150-156	fehlen	_	
+3-16	157-170	entsprechende	_	
+3-17	171-186	Beschilderungen	_	
+3-18	187-190	wie	_	
+3-19	191-199	Vorfahrt	_	
+3-20	200-206	achten	_	
+3-21	207-211	oder	_	
+3-22	212-221	ähnliches	_	
+3-23	221-222	,	_	
+3-24	223-228	damit	_	
+3-25	229-233	auch	_	
+3-26	234-237	dem	_	
+3-27	238-250	Kreisverkehr	_	
+3-28	251-258	vorrang	_	
+3-29	259-266	gegeben	_	
+3-30	267-271	wird	_	
+3-31	271-272	.	_	
+
+#Text=Ein Kreisverkehr Schild fehlt ebenfalls.
+4-1	273-276	Ein	_	
+4-2	277-289	Kreisverkehr	_	
+4-3	290-296	Schild	_	
+4-4	297-302	fehlt	_	
+4-5	303-312	ebenfalls	_	
+4-6	312-313	.	_	
+
+#Text=Gilt dementsprechend hier links vor rechts?
+5-1	314-318	Gilt	_	
+5-2	319-334	dementsprechend	_	
+5-3	335-339	hier	_	
+5-4	340-345	links	_	
+5-5	346-349	vor	_	
+5-6	350-356	rechts	_	
+5-7	356-357	?	_	
+
+#Text=Muss man dann trotzdem das Hindernis umständlich umfahren?
+6-1	358-362	Muss	_	
+6-2	363-366	man	_	
+6-3	367-371	dann	_	
+6-4	372-380	trotzdem	_	
+6-5	381-384	das	_	
+6-6	385-394	Hindernis	_	
+6-7	395-406	umständlich	_	
+6-8	407-415	umfahren	_	
+6-9	415-416	?	_	
+
+#Text=Dieses Hindernis sorgt täglich für Verwirrung bei Auto- und Radfahrern...
+7-1	417-423	Dieses	_	
+7-2	424-433	Hindernis	_	
+7-3	434-439	sorgt	_	
+7-4	440-447	täglich	_	
+7-5	448-451	für	_	
+7-6	452-462	Verwirrung	_	
+7-7	463-466	bei	_	
+7-8	467-471	Auto	_	
+7-9	471-472	-	_	
+7-10	473-476	und	_	
+7-11	477-487	Radfahrern	_	
+7-12	487-488	.	_	
+7-13	488-489	.	_	
+7-14	489-490	.	_	

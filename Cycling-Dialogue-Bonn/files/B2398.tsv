@@ -1,0 +1,121 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Planungsagentur?
+1-1	0-15	Planungsagentur	_	
+1-2	15-16	?	_	
+
+#Text=ist hier das komplette Mobilitätskonzept kriminell.
+2-1	19-22	ist	_	
+2-2	23-27	hier	_	
+2-3	28-31	das	_	
+2-4	32-41	komplette	_	
+2-5	42-59	Mobilitätskonzept	_	
+2-6	60-69	kriminell	_	
+2-7	69-70	.	_	
+
+#Text=Der Shopping- und Entertainmentbereich wurde von Grund auf neu konzipiert und gebaut, ohne jegliche finanzielle oder räumliche Einschränkungen.
+3-1	71-74	Der	_	
+3-2	75-83	Shopping	_	
+3-3	83-84	-	_	
+3-4	85-88	und	_	
+3-5	89-109	Entertainmentbereich	_	
+3-6	110-115	wurde	_	
+3-7	116-119	von	_	
+3-8	120-125	Grund	_	
+3-9	126-129	auf	_	
+3-10	130-133	neu	_	
+3-11	134-144	konzipiert	_	
+3-12	145-148	und	_	
+3-13	149-155	gebaut	_	
+3-14	155-156	,	_	
+3-15	157-161	ohne	_	
+3-16	162-170	jegliche	_	
+3-17	171-182	finanzielle	_	
+3-18	183-187	oder	_	
+3-19	188-197	räumliche	_	
+3-20	198-213	Einschränkungen	_	
+3-21	213-214	.	_	
+
+#Text=Trotzdem glaube ich nicht, dass es schlimmer hätte kommen können.
+4-1	215-223	Trotzdem	_	
+4-2	224-230	glaube	_	
+4-3	231-234	ich	_	
+4-4	235-240	nicht	_	
+4-5	240-241	,	_	
+4-6	242-246	dass	_	
+4-7	247-249	es	_	
+4-8	250-259	schlimmer	_	
+4-9	260-265	hätte	_	
+4-10	266-272	kommen	_	
+4-11	273-279	können	_	
+4-12	279-280	.	_	
+
+#Text=Einige Parkplätze sind mit Autos verstopft, während andere leer stehen, es gibt keine sichere und effiziente Zufahrtswege für Radfahrer oder Fußgänger zu diesem Bereich und wenn es hier zu einem Ereignis kommt, wird die gesamte Nachbarschaft geschlossen, obwohl noch genügend Parkplätze vorhanden sind.
+5-1	281-287	Einige	_	
+5-2	288-298	Parkplätze	_	
+5-3	299-303	sind	_	
+5-4	304-307	mit	_	
+5-5	308-313	Autos	_	
+5-6	314-323	verstopft	_	
+5-7	323-324	,	_	
+5-8	325-332	während	_	
+5-9	333-339	andere	_	
+5-10	340-344	leer	_	
+5-11	345-351	stehen	_	
+5-12	351-352	,	_	
+5-13	353-355	es	_	
+5-14	356-360	gibt	_	
+5-15	361-366	keine	_	
+5-16	367-374	sichere	_	
+5-17	375-378	und	_	
+5-18	379-389	effiziente	_	
+5-19	390-402	Zufahrtswege	_	
+5-20	403-406	für	_	
+5-21	407-416	Radfahrer	_	
+5-22	417-421	oder	_	
+5-23	422-431	Fußgänger	_	
+5-24	432-434	zu	_	
+5-25	435-441	diesem	_	
+5-26	442-449	Bereich	_	
+5-27	450-453	und	_	
+5-28	454-458	wenn	_	
+5-29	459-461	es	_	
+5-30	462-466	hier	_	
+5-31	467-469	zu	_	
+5-32	470-475	einem	_	
+5-33	476-484	Ereignis	_	
+5-34	485-490	kommt	_	
+5-35	490-491	,	_	
+5-36	492-496	wird	_	
+5-37	497-500	die	_	
+5-38	501-508	gesamte	_	
+5-39	509-522	Nachbarschaft	_	
+5-40	523-534	geschlossen	_	
+5-41	534-535	,	_	
+5-42	536-542	obwohl	_	
+5-43	543-547	noch	_	
+5-44	548-556	genügend	_	
+5-45	557-567	Parkplätze	_	
+5-46	568-577	vorhanden	_	
+5-47	578-582	sind	_	
+5-48	582-583	.	_	
+
+#Text=Es sollte für jeden peinlich sein, der an seiner Planung beteiligt war.
+6-1	584-586	Es	_	
+6-2	587-593	sollte	_	
+6-3	594-597	für	_	
+6-4	598-603	jeden	_	
+6-5	604-612	peinlich	_	
+6-6	613-617	sein	_	
+6-7	617-618	,	_	
+6-8	619-622	der	_	
+6-9	623-625	an	_	
+6-10	626-632	seiner	_	
+6-11	633-640	Planung	_	
+6-12	641-650	beteiligt	_	
+6-13	651-654	war	_	
+6-14	654-655	.	_	

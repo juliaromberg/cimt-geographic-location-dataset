@@ -1,0 +1,121 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Absperrbügel mit Fahrradanhänger auch schiebend schwer passierbar
+1-1	0-12	Absperrbügel	_	
+1-2	13-16	mit	_	
+1-3	17-32	Fahrradanhänger	_	
+1-4	33-37	auch	_	
+1-5	38-47	schiebend	_	
+1-6	48-54	schwer	_	
+1-7	55-65	passierbar	_	
+
+#Text=Die Absperrbügel am Fuße des steilen Hangs sollen vermutlich Autos abhalten.
+2-1	68-71	Die	_	
+2-2	72-84	Absperrbügel	_	
+2-3	85-87	am	_	
+2-4	88-92	Fuße	_	
+2-5	93-96	des	_	
+2-6	97-104	steilen	_	
+2-7	105-110	Hangs	_	
+2-8	111-117	sollen	_	
+2-9	118-128	vermutlich	_	
+2-10	129-134	Autos	_	
+2-11	135-143	abhalten	_	
+2-12	143-144	.	_	
+
+#Text=Wenn ich mit dem Fahrradanhänger von oben nach unten Richtung Endenicher Allee fahre, muss man nicht nur absteigen, es braucht auch viel Übung, um den schweren Anhänger geschickt durch die Öffnung zu schieben.
+3-1	145-149	Wenn	_	
+3-2	150-153	ich	_	
+3-3	154-157	mit	_	
+3-4	158-161	dem	_	
+3-5	162-177	Fahrradanhänger	_	
+3-6	178-181	von	_	
+3-7	182-186	oben	_	
+3-8	187-191	nach	_	
+3-9	192-197	unten	_	
+3-10	198-206	Richtung	*[6]	
+3-11	207-217	Endenicher	*[6]	
+3-12	218-223	Allee	*[6]	
+3-13	224-229	fahre	_	
+3-14	229-230	,	_	
+3-15	231-235	muss	_	
+3-16	236-239	man	_	
+3-17	240-245	nicht	_	
+3-18	246-249	nur	_	
+3-19	250-259	absteigen	_	
+3-20	259-260	,	_	
+3-21	261-263	es	_	
+3-22	264-271	braucht	_	
+3-23	272-276	auch	_	
+3-24	277-281	viel	_	
+3-25	282-287	Übung	_	
+3-26	287-288	,	_	
+3-27	289-291	um	_	
+3-28	292-295	den	_	
+3-29	296-304	schweren	_	
+3-30	305-313	Anhänger	_	
+3-31	314-323	geschickt	_	
+3-32	324-329	durch	_	
+3-33	330-333	die	_	
+3-34	334-341	Öffnung	_	
+3-35	342-344	zu	_	
+3-36	345-353	schieben	_	
+3-37	353-354	.	_	
+
+#Text=An dieser steilen Stelle kann man nicht mal eben ein Stück zurückschieben, um den Winkel zu ändern.
+4-1	355-357	An	_	
+4-2	358-364	dieser	_	
+4-3	365-372	steilen	_	
+4-4	373-379	Stelle	_	
+4-5	380-384	kann	_	
+4-6	385-388	man	_	
+4-7	389-394	nicht	_	
+4-8	395-398	mal	_	
+4-9	399-403	eben	_	
+4-10	404-407	ein	_	
+4-11	408-413	Stück	_	
+4-12	414-428	zurückschieben	_	
+4-13	428-429	,	_	
+4-14	430-432	um	_	
+4-15	433-436	den	_	
+4-16	437-443	Winkel	_	
+4-17	444-446	zu	_	
+4-18	447-453	ändern	_	
+4-19	453-454	.	_	
+
+#Text=In die Gegenrichtung kann ich nach dem Passieren der Bügel mit einem Fahrradanhänger nicht mehr aufsteigen, weil zu steil, und muss den gesamten steilen Weg nach oben schieben.
+5-1	455-457	In	_	
+5-2	458-461	die	_	
+5-3	462-475	Gegenrichtung	_	
+5-4	476-480	kann	_	
+5-5	481-484	ich	_	
+5-6	485-489	nach	_	
+5-7	490-493	dem	_	
+5-8	494-503	Passieren	_	
+5-9	504-507	der	_	
+5-10	508-513	Bügel	_	
+5-11	514-517	mit	_	
+5-12	518-523	einem	_	
+5-13	524-539	Fahrradanhänger	_	
+5-14	540-545	nicht	_	
+5-15	546-550	mehr	_	
+5-16	551-561	aufsteigen	_	
+5-17	561-562	,	_	
+5-18	563-567	weil	_	
+5-19	568-570	zu	_	
+5-20	571-576	steil	_	
+5-21	576-577	,	_	
+5-22	578-581	und	_	
+5-23	582-586	muss	_	
+5-24	587-590	den	_	
+5-25	591-599	gesamten	_	
+5-26	600-607	steilen	_	
+5-27	608-611	Weg	_	
+5-28	612-616	nach	_	
+5-29	617-621	oben	_	
+5-30	622-630	schieben	_	
+5-31	630-631	.	_	

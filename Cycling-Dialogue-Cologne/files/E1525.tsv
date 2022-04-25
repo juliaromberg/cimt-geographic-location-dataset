@@ -1,0 +1,66 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verbindung Stammstraße Grüngürtel
+1-1	0-10	Verbindung	_	
+1-2	11-22	Stammstraße	*[5]	
+1-3	23-33	Grüngürtel	*[5]	
+
+#Text=Von der Stammstraße bis in den Grüngürtel Fußgänger- und Fahrradweg ohne Hindernis, Ampel o.ä. mit Brücke über die Innere Kanalstraße.
+2-1	36-39	Von	*[6]	
+2-2	40-43	der	*[6]	
+2-3	44-55	Stammstraße	*[6]	
+2-4	56-59	bis	*[6]	
+2-5	60-62	in	*[6]	
+2-6	63-66	den	*[6]	
+2-7	67-77	Grüngürtel	*[6]	
+2-8	78-87	Fußgänger	_	
+2-9	87-88	-	_	
+2-10	89-92	und	_	
+2-11	93-103	Fahrradweg	_	
+2-12	104-108	ohne	_	
+2-13	109-118	Hindernis	_	
+2-14	118-119	,	_	
+2-15	120-125	Ampel	_	
+2-16	126-129	o.ä	_	
+2-17	129-130	.	_	
+2-18	131-134	mit	_	
+2-19	135-141	Brücke	_	
+2-20	142-146	über	*[7]	
+2-21	147-150	die	*[7]	
+2-22	151-157	Innere	*[7]	
+2-23	158-169	Kanalstraße	*[7]	
+2-24	169-170	.	_	
+
+#Text=Fahrradweg dabei in beide Richtungen für je zwei Fahrradfahrer, um auch nebeneinander fahren zu können oder überholen zu können.
+3-1	171-181	Fahrradweg	_	
+3-2	182-187	dabei	_	
+3-3	188-190	in	_	
+3-4	191-196	beide	_	
+3-5	197-207	Richtungen	_	
+3-6	208-211	für	_	
+3-7	212-214	je	_	
+3-8	215-219	zwei	_	
+3-9	220-233	Fahrradfahrer	_	
+3-10	233-234	,	_	
+3-11	235-237	um	_	
+3-12	238-242	auch	_	
+3-13	243-256	nebeneinander	_	
+3-14	257-263	fahren	_	
+3-15	264-266	zu	_	
+3-16	267-273	können	_	
+3-17	274-278	oder	_	
+3-18	279-288	überholen	_	
+3-19	289-291	zu	_	
+3-20	292-298	können	_	
+3-21	298-299	.	_	
+
+#Text=Davon klar getrennter Fußgängerweg.
+4-1	300-305	Davon	_	
+4-2	306-310	klar	_	
+4-3	311-321	getrennter	_	
+4-4	322-334	Fußgängerweg	_	
+4-5	334-335	.	_	

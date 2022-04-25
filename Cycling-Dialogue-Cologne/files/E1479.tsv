@@ -1,0 +1,19 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=fehlende Abstellmöglichkeiten
+1-1	0-8	fehlende	_	
+1-2	9-29	Abstellmöglichkeiten	_	
+
+#Text=Vor der Turnhalle der Schule fehlen sichere Fahrradabstellmöglichkeiten
+2-1	32-35	Vor	_	
+2-2	36-39	der	_	
+2-3	40-49	Turnhalle	_	
+2-4	50-53	der	_	
+2-5	54-60	Schule	_	
+2-6	61-67	fehlen	_	
+2-7	68-75	sichere	_	
+2-8	76-103	Fahrradabstellmöglichkeiten	_	

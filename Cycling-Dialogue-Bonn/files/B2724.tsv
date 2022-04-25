@@ -1,0 +1,198 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstrasse für Radfahrer freigeben
+1-1	0-14	Einbahnstrasse	_	
+1-2	15-18	für	_	
+1-3	19-28	Radfahrer	_	
+1-4	29-38	freigeben	_	
+
+#Text=Ich finde es positiv, dass diese Abfrage stattfindet!
+2-1	41-44	Ich	_	
+2-2	45-50	finde	_	
+2-3	51-53	es	_	
+2-4	54-61	positiv	_	
+2-5	61-62	,	_	
+2-6	63-67	dass	_	
+2-7	68-73	diese	_	
+2-8	74-81	Abfrage	_	
+2-9	82-93	stattfindet	_	
+2-10	93-94	!	_	
+
+#Text=Allgemein fällt mir auf, dass wenn es Baustellen / Umleitungen oder Ähnliches gibt, dass in diesen Fällen nur an den Autoverkehr aber nie an den Fahrradverkehr gedacht wird.
+3-1	95-104	Allgemein	_	
+3-2	105-110	fällt	_	
+3-3	111-114	mir	_	
+3-4	115-118	auf	_	
+3-5	118-119	,	_	
+3-6	120-124	dass	_	
+3-7	125-129	wenn	_	
+3-8	130-132	es	_	
+3-9	133-143	Baustellen	_	
+3-10	144-145	/	_	
+3-11	146-157	Umleitungen	_	
+3-12	158-162	oder	_	
+3-13	163-172	Ähnliches	_	
+3-14	173-177	gibt	_	
+3-15	177-178	,	_	
+3-16	179-183	dass	_	
+3-17	184-186	in	_	
+3-18	187-193	diesen	_	
+3-19	194-200	Fällen	_	
+3-20	201-204	nur	_	
+3-21	205-207	an	_	
+3-22	208-211	den	_	
+3-23	212-223	Autoverkehr	_	
+3-24	224-228	aber	_	
+3-25	229-232	nie	_	
+3-26	233-235	an	_	
+3-27	236-239	den	_	
+3-28	240-254	Fahrradverkehr	_	
+3-29	255-262	gedacht	_	
+3-30	263-267	wird	_	
+3-31	267-268	.	_	
+
+#Text=Hier muss eine allgemeine Anweisung stattfinden, dass bei allen Strassenbaustellen in der Planung und in der Beschilderung auch an die Radfahrer gedacht werden muss.
+4-1	269-273	Hier	_	
+4-2	274-278	muss	_	
+4-3	279-283	eine	_	
+4-4	284-294	allgemeine	_	
+4-5	295-304	Anweisung	_	
+4-6	305-316	stattfinden	_	
+4-7	316-317	,	_	
+4-8	318-322	dass	_	
+4-9	323-326	bei	_	
+4-10	327-332	allen	_	
+4-11	333-351	Strassenbaustellen	_	
+4-12	352-354	in	_	
+4-13	355-358	der	_	
+4-14	359-366	Planung	_	
+4-15	367-370	und	_	
+4-16	371-373	in	_	
+4-17	374-377	der	_	
+4-18	378-391	Beschilderung	_	
+4-19	392-396	auch	_	
+4-20	397-399	an	_	
+4-21	400-403	die	_	
+4-22	404-413	Radfahrer	_	
+4-23	414-421	gedacht	_	
+4-24	422-428	werden	_	
+4-25	429-433	muss	_	
+4-26	433-434	.	_	
+
+#Text=Auch Subunternehmer müssen dies berücksichtigen Konkretes Beispiel ist die Einbahnstrasse im Moselweg.
+5-1	435-439	Auch	_	
+5-2	440-454	Subunternehmer	_	
+5-3	455-461	müssen	_	
+5-4	462-466	dies	_	
+5-5	467-482	berücksichtigen	_	
+5-6	483-492	Konkretes	_	
+5-7	493-501	Beispiel	_	
+5-8	502-505	ist	_	
+5-9	506-509	die	_	
+5-10	510-524	Einbahnstrasse	_	
+5-11	525-527	im	_	
+5-12	528-536	Moselweg	_	
+5-13	536-537	.	_	
+
+#Text=Seit Beginn der Baustelle am UN-Bahnhof (Kunstmuseum) sind hier die Radwege an der Bahn entlang gesperrt.
+6-1	538-542	Seit	_	
+6-2	543-549	Beginn	_	
+6-3	550-553	der	_	
+6-4	554-563	Baustelle	_	
+6-5	564-566	am	*[11]	
+6-6	567-577	UN-Bahnhof	*[11]	
+6-7	578-579	(	*[11]	
+6-8	579-590	Kunstmuseum	*[11]	
+6-9	590-591	)	_	
+6-10	592-596	sind	_	
+6-11	597-601	hier	_	
+6-12	602-605	die	_	
+6-13	606-613	Radwege	_	
+6-14	614-616	an	_	
+6-15	617-620	der	_	
+6-16	621-625	Bahn	_	
+6-17	626-633	entlang	_	
+6-18	634-642	gesperrt	_	
+6-19	642-643	.	_	
+
+#Text=Mit dem Fahrrad kommt man richtung Zentrum z.B. aus Friesdorf/Dottendorf von dieser Seite nicht mehr weiter, muss einen riesigen Umweg fahren, wenn man nicht vorher (und das ist SEHR SELTEN) über die Schranken kommt.
+7-1	644-647	Mit	_	
+7-2	648-651	dem	_	
+7-3	652-659	Fahrrad	_	
+7-4	660-665	kommt	_	
+7-5	666-669	man	_	
+7-6	670-678	richtung	*[12]	
+7-7	679-686	Zentrum	*[12]	
+7-8	687-690	z.B	*[12]	
+7-9	690-691	.	*[12]	
+7-10	692-695	aus	*[12]	
+7-11	696-705	Friesdorf	*[12]	
+7-12	705-706	/	*[12]	
+7-13	706-716	Dottendorf	*[12]	
+7-14	717-720	von	_	
+7-15	721-727	dieser	_	
+7-16	728-733	Seite	_	
+7-17	734-739	nicht	_	
+7-18	740-744	mehr	_	
+7-19	745-751	weiter	_	
+7-20	751-752	,	_	
+7-21	753-757	muss	_	
+7-22	758-763	einen	_	
+7-23	764-772	riesigen	_	
+7-24	773-778	Umweg	_	
+7-25	779-785	fahren	_	
+7-26	785-786	,	_	
+7-27	787-791	wenn	_	
+7-28	792-795	man	_	
+7-29	796-801	nicht	_	
+7-30	802-808	vorher	_	
+7-31	809-810	(	_	
+7-32	810-813	und	_	
+7-33	814-817	das	_	
+7-34	818-821	ist	_	
+7-35	822-826	SEHR	_	
+7-36	827-833	SELTEN	_	
+7-37	833-834	)	_	
+7-38	835-839	über	_	
+7-39	840-843	die	_	
+7-40	844-853	Schranken	_	
+7-41	854-859	kommt	_	
+7-42	859-860	.	_	
+
+#Text=Es hat bei der Planung niemand daran gedacht, die Einbahnstrasse für den Radverkehr zu öffnen.
+8-1	861-863	Es	_	
+8-2	864-867	hat	_	
+8-3	868-871	bei	_	
+8-4	872-875	der	_	
+8-5	876-883	Planung	_	
+8-6	884-891	niemand	_	
+8-7	892-897	daran	_	
+8-8	898-905	gedacht	_	
+8-9	905-906	,	_	
+8-10	907-910	die	_	
+8-11	911-925	Einbahnstrasse	_	
+8-12	926-929	für	_	
+8-13	930-933	den	_	
+8-14	934-944	Radverkehr	_	
+8-15	945-947	zu	_	
+8-16	948-954	öffnen	_	
+8-17	954-955	.	_	
+
+#Text=Vielen Dank für die Berücksichtigung der Anmerkung.
+9-1	956-962	Vielen	_	
+9-2	963-967	Dank	_	
+9-3	968-971	für	_	
+9-4	972-975	die	_	
+9-5	976-992	Berücksichtigung	_	
+9-6	993-996	der	_	
+9-7	997-1006	Anmerkung	_	
+9-8	1006-1007	.	_	
+
+#Text=MfG, HJU
+10-1	1008-1011	MfG	_	
+10-2	1011-1012	,	_	
+10-3	1013-1016	HJU	_	

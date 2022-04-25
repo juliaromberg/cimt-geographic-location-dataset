@@ -1,0 +1,188 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Benutzungspflichtiger Geh-/und Radweg
+1-1	0-21	Benutzungspflichtiger	_	
+1-2	22-25	Geh	_	
+1-3	25-26	-	_	
+1-4	26-27	/	_	
+1-5	27-30	und	_	
+1-6	31-37	Radweg	_	
+
+#Text=In Nordrichtung steht hier (ich würde behaupten erst seit einigen Tagen/Wochen (?!?)) ein Geh-/Radweg-Schild, d.h. in Nordrichtung ist ab hier das Fahrradfahren auf der Straße nicht mehr erlaubt.
+2-1	40-42	In	_	
+2-2	43-55	Nordrichtung	_	
+2-3	56-61	steht	_	
+2-4	62-66	hier	_	
+2-5	67-68	(	_	
+2-6	68-71	ich	_	
+2-7	72-77	würde	_	
+2-8	78-87	behaupten	_	
+2-9	88-92	erst	_	
+2-10	93-97	seit	_	
+2-11	98-105	einigen	_	
+2-12	106-111	Tagen	_	
+2-13	111-112	/	_	
+2-14	112-118	Wochen	_	
+2-15	119-120	(	_	
+2-16	120-121	?	_	
+2-17	121-122	!	_	
+2-18	122-123	?	_	
+2-19	123-124	)	_	
+2-20	124-125	)	_	
+2-21	126-129	ein	_	
+2-22	130-133	Geh	_	
+2-23	133-134	-	_	
+2-24	134-135	/	_	
+2-25	135-148	Radweg-Schild	_	
+2-26	148-149	,	_	
+2-27	150-153	d.h	_	
+2-28	153-154	.	_	
+2-29	155-157	in	_	
+2-30	158-170	Nordrichtung	_	
+2-31	171-174	ist	_	
+2-32	175-177	ab	_	
+2-33	178-182	hier	_	
+2-34	183-186	das	_	
+2-35	187-200	Fahrradfahren	_	
+2-36	201-204	auf	_	
+2-37	205-208	der	_	
+2-38	209-215	Straße	_	
+2-39	216-221	nicht	_	
+2-40	222-226	mehr	_	
+2-41	227-234	erlaubt	_	
+2-42	234-235	.	_	
+
+#Text=Statt dessen muss der Geh- und Radweg benutzt werden.
+3-1	236-241	Statt	_	
+3-2	242-248	dessen	_	
+3-3	249-253	muss	_	
+3-4	254-257	der	_	
+3-5	258-261	Geh	_	
+3-6	261-262	-	_	
+3-7	263-266	und	_	
+3-8	267-273	Radweg	_	
+3-9	274-281	benutzt	_	
+3-10	282-288	werden	_	
+3-11	288-289	.	_	
+
+#Text=Weite Teile der Königswinterer Str. haben keinen benutzungspflichtigen Radweg.
+4-1	290-295	Weite	_	
+4-2	296-301	Teile	_	
+4-3	302-305	der	_	
+4-4	306-320	Königswinterer	*[8]	
+4-5	321-324	Str	*[8]	
+4-6	324-325	.	*[8]	
+4-7	326-331	haben	_	
+4-8	332-338	keinen	_	
+4-9	339-360	benutzungspflichtigen	_	
+4-10	361-367	Radweg	_	
+4-11	367-368	.	_	
+
+#Text=Solange es keinen durchgängigen und vor allem akzeptablen und _sicheren_ Radweg gibt (was es nach meiner Einschätzung in absehbarer Zeit nicht geben kann) ist eine Ausweisung eines Teilstücks nicht zielführend, gefährlich und schürt eher Konfliktsituationen: Radfahrer müssen von der Straße auf den Geh-und Radweg wechseln bzw. zurück, was zusätzliche Gefahr bedeutet.
+5-1	369-376	Solange	_	
+5-2	377-379	es	_	
+5-3	380-386	keinen	_	
+5-4	387-400	durchgängigen	_	
+5-5	401-404	und	_	
+5-6	405-408	vor	_	
+5-7	409-414	allem	_	
+5-8	415-426	akzeptablen	_	
+5-9	427-430	und	_	
+5-10	431-432	_	_	
+5-11	432-440	sicheren	_	
+5-12	440-441	_	_	
+5-13	442-448	Radweg	_	
+5-14	449-453	gibt	_	
+5-15	454-455	(	_	
+5-16	455-458	was	_	
+5-17	459-461	es	_	
+5-18	462-466	nach	_	
+5-19	467-473	meiner	_	
+5-20	474-486	Einschätzung	_	
+5-21	487-489	in	_	
+5-22	490-500	absehbarer	_	
+5-23	501-505	Zeit	_	
+5-24	506-511	nicht	_	
+5-25	512-517	geben	_	
+5-26	518-522	kann	_	
+5-27	522-523	)	_	
+5-28	524-527	ist	_	
+5-29	528-532	eine	_	
+5-30	533-543	Ausweisung	_	
+5-31	544-549	eines	_	
+5-32	550-560	Teilstücks	_	
+5-33	561-566	nicht	_	
+5-34	567-578	zielführend	_	
+5-35	578-579	,	_	
+5-36	580-590	gefährlich	_	
+5-37	591-594	und	_	
+5-38	595-601	schürt	_	
+5-39	602-606	eher	_	
+5-40	607-626	Konfliktsituationen	_	
+5-41	626-627	:	_	
+5-42	628-637	Radfahrer	_	
+5-43	638-644	müssen	_	
+5-44	645-648	von	_	
+5-45	649-652	der	_	
+5-46	653-659	Straße	_	
+5-47	660-663	auf	_	
+5-48	664-667	den	_	
+5-49	668-675	Geh-und	_	
+5-50	676-682	Radweg	_	
+5-51	683-691	wechseln	_	
+5-52	692-695	bzw	_	
+5-53	695-696	.	_	
+5-54	697-703	zurück	_	
+5-55	703-704	,	_	
+5-56	705-708	was	_	
+5-57	709-720	zusätzliche	_	
+5-58	721-727	Gefahr	_	
+5-59	728-736	bedeutet	_	
+5-60	736-737	.	_	
+
+#Text=Zudem wird das eher das Gefühl bei den Autofahrern bestärken, dass Radfahrer immer auf dem Gehweg unterwegs sein sollten, auch dort wo es nicht angeordnet ist.
+6-1	738-743	Zudem	_	
+6-2	744-748	wird	_	
+6-3	749-752	das	_	
+6-4	753-757	eher	_	
+6-5	758-761	das	_	
+6-6	762-768	Gefühl	_	
+6-7	769-772	bei	_	
+6-8	773-776	den	_	
+6-9	777-788	Autofahrern	_	
+6-10	789-798	bestärken	_	
+6-11	798-799	,	_	
+6-12	800-804	dass	_	
+6-13	805-814	Radfahrer	_	
+6-14	815-820	immer	_	
+6-15	821-824	auf	_	
+6-16	825-828	dem	_	
+6-17	829-835	Gehweg	_	
+6-18	836-845	unterwegs	_	
+6-19	846-850	sein	_	
+6-20	851-858	sollten	_	
+6-21	858-859	,	_	
+6-22	860-864	auch	_	
+6-23	865-869	dort	_	
+6-24	870-872	wo	_	
+6-25	873-875	es	_	
+6-26	876-881	nicht	_	
+6-27	882-892	angeordnet	_	
+6-28	893-896	ist	_	
+6-29	896-897	.	_	
+
+#Text=Deshalb: Bitte das Schild (wieder) entfernen!
+7-1	898-905	Deshalb	_	
+7-2	905-906	:	_	
+7-3	907-912	Bitte	_	
+7-4	913-916	das	_	
+7-5	917-923	Schild	_	
+7-6	924-925	(	_	
+7-7	925-931	wieder	_	
+7-8	931-932	)	_	
+7-9	933-942	entfernen	_	
+7-10	942-943	!	_	

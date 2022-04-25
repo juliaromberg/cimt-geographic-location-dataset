@@ -1,0 +1,129 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg kreuzt Spielstraße
+1-1	0-6	Radweg	_	
+1-2	7-13	kreuzt	_	
+1-3	14-25	Spielstraße	_	
+
+#Text=Der Rad ist grds. gut und kreuzt die Hildegard-Wegscheider-Straße, Elisabeth-Schwarzhaupt-Str.
+2-1	28-31	Der	_	
+2-2	32-35	Rad	_	
+2-3	36-39	ist	_	
+2-4	40-44	grds	_	
+2-5	44-45	.	_	
+2-6	46-49	gut	_	
+2-7	50-53	und	_	
+2-8	54-60	kreuzt	_	
+2-9	61-64	die	*[9]	
+2-10	65-93	Hildegard-Wegscheider-Straße	*[9]	
+2-11	93-94	,	*[9]	
+2-12	95-121	Elisabeth-Schwarzhaupt-Str	*[9]	
+2-13	121-122	.	_	
+
+#Text=und Hedwig Dransfeld-Straße.
+3-1	123-126	und	*[10]	
+3-2	127-133	Hedwig	*[10]	
+3-3	134-150	Dransfeld-Straße	*[10]	
+3-4	150-151	.	_	
+
+#Text=Autofahrern ist häufig nicht bewusst, wer an der Kreuzung Vorfahrt hat.
+4-1	152-163	Autofahrern	_	
+4-2	164-167	ist	_	
+4-3	168-174	häufig	_	
+4-4	175-180	nicht	_	
+4-5	181-188	bewusst	_	
+4-6	188-189	,	_	
+4-7	190-193	wer	_	
+4-8	194-196	an	_	
+4-9	197-200	der	_	
+4-10	201-209	Kreuzung	_	
+4-11	210-218	Vorfahrt	_	
+4-12	219-222	hat	_	
+4-13	222-223	.	_	
+
+#Text=HWS und ESS sind sogar Spielstraßen, dennoch wird oft zu schnell gefahren (ich fahre doch nur 30km/h...).
+5-1	224-227	HWS	_	
+5-2	228-231	und	_	
+5-3	232-235	ESS	_	
+5-4	236-240	sind	_	
+5-5	241-246	sogar	_	
+5-6	247-259	Spielstraßen	_	
+5-7	259-260	,	_	
+5-8	261-268	dennoch	_	
+5-9	269-273	wird	_	
+5-10	274-277	oft	_	
+5-11	278-280	zu	_	
+5-12	281-288	schnell	_	
+5-13	289-297	gefahren	_	
+5-14	298-299	(	_	
+5-15	299-302	ich	_	
+5-16	303-308	fahre	_	
+5-17	309-313	doch	_	
+5-18	314-317	nur	_	
+5-19	318-322	30km	_	
+5-20	322-323	/	_	
+5-21	323-324	h	_	
+5-22	324-325	.	_	
+5-23	325-326	.	_	
+5-24	326-327	.	_	
+5-25	327-328	)	_	
+5-26	328-329	.	_	
+
+#Text=Sinnvoll ware ein Stoppschild an der Kreuzung oder zumindest ein Warnschild.
+6-1	330-338	Sinnvoll	_	
+6-2	339-343	ware	_	
+6-3	344-347	ein	_	
+6-4	348-359	Stoppschild	_	
+6-5	360-362	an	_	
+6-6	363-366	der	_	
+6-7	367-375	Kreuzung	_	
+6-8	376-380	oder	_	
+6-9	381-390	zumindest	_	
+6-10	391-394	ein	_	
+6-11	395-405	Warnschild	_	
+6-12	405-406	.	_	
+
+#Text=Besser wäre es, die HWS und ESS zu Einbahnstraßen zu machen, um den Durchgangsverkehr nicht durch die Spielstraßen zu leiten.
+7-1	407-413	Besser	_	
+7-2	414-418	wäre	_	
+7-3	419-421	es	_	
+7-4	421-422	,	_	
+7-5	423-426	die	_	
+7-6	427-430	HWS	_	
+7-7	431-434	und	_	
+7-8	435-438	ESS	_	
+7-9	439-441	zu	_	
+7-10	442-456	Einbahnstraßen	_	
+7-11	457-459	zu	_	
+7-12	460-466	machen	_	
+7-13	466-467	,	_	
+7-14	468-470	um	_	
+7-15	471-474	den	_	
+7-16	475-492	Durchgangsverkehr	_	
+7-17	493-498	nicht	_	
+7-18	499-504	durch	_	
+7-19	505-508	die	_	
+7-20	509-521	Spielstraßen	_	
+7-21	522-524	zu	_	
+7-22	525-531	leiten	_	
+7-23	531-532	.	_	
+
+#Text=Das würde den Schülern, die morgens die Straße nutzen, sehr helfen.
+8-1	533-536	Das	_	
+8-2	537-542	würde	_	
+8-3	543-546	den	_	
+8-4	547-555	Schülern	_	
+8-5	555-556	,	_	
+8-6	557-560	die	_	
+8-7	561-568	morgens	_	
+8-8	569-572	die	_	
+8-9	573-579	Straße	_	
+8-10	580-586	nutzen	_	
+8-11	586-587	,	_	
+8-12	588-592	sehr	_	
+8-13	593-599	helfen	_	
+8-14	599-600	.	_	

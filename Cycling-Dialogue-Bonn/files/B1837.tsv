@@ -1,0 +1,149 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zusätzliche Fahrradwege
+1-1	0-11	Zusätzliche	_	
+1-2	12-23	Fahrradwege	_	
+
+#Text=Wie wir alle wissen, ist er Platz auf der Brücke endlich.
+2-1	26-29	Wie	_	
+2-2	30-33	wir	_	
+2-3	34-38	alle	_	
+2-4	39-45	wissen	_	
+2-5	45-46	,	_	
+2-6	47-50	ist	_	
+2-7	51-53	er	_	
+2-8	54-59	Platz	_	
+2-9	60-63	auf	_	
+2-10	64-67	der	_	
+2-11	68-74	Brücke	_	
+2-12	75-82	endlich	_	
+2-13	82-83	.	_	
+
+#Text=Sollte der Fahrradverkehr deutlich ansteigen, was wünschenswert ist, würden die engen Spuren eine Begrenzung darstellen.
+3-1	84-90	Sollte	_	
+3-2	91-94	der	_	
+3-3	95-109	Fahrradverkehr	_	
+3-4	110-118	deutlich	_	
+3-5	119-128	ansteigen	_	
+3-6	128-129	,	_	
+3-7	130-133	was	_	
+3-8	134-147	wünschenswert	_	
+3-9	148-151	ist	_	
+3-10	151-152	,	_	
+3-11	153-159	würden	_	
+3-12	160-163	die	_	
+3-13	164-169	engen	_	
+3-14	170-176	Spuren	_	
+3-15	177-181	eine	_	
+3-16	182-192	Begrenzung	_	
+3-17	193-203	darstellen	_	
+3-18	203-204	.	_	
+
+#Text=Mein Vorschlag ist sicherlich nicht Günstig, aber man sollte mal darüber nachdenken.
+4-1	205-209	Mein	_	
+4-2	210-219	Vorschlag	_	
+4-3	220-223	ist	_	
+4-4	224-234	sicherlich	_	
+4-5	235-240	nicht	_	
+4-6	241-248	Günstig	_	
+4-7	248-249	,	_	
+4-8	250-254	aber	_	
+4-9	255-258	man	_	
+4-10	259-265	sollte	_	
+4-11	266-269	mal	_	
+4-12	270-277	darüber	_	
+4-13	278-288	nachdenken	_	
+4-14	288-289	.	_	
+
+#Text=Vorschlagen würde ich, dass im Zuge der Sanierung der Brücke ein zusätzliches Deck unterhalb der jetzigen Brücke für Fußgänger und Radfahrer montiert wird.
+5-1	290-301	Vorschlagen	_	
+5-2	302-307	würde	_	
+5-3	308-311	ich	_	
+5-4	311-312	,	_	
+5-5	313-317	dass	_	
+5-6	318-320	im	_	
+5-7	321-325	Zuge	_	
+5-8	326-329	der	_	
+5-9	330-339	Sanierung	_	
+5-10	340-343	der	_	
+5-11	344-350	Brücke	_	
+5-12	351-354	ein	_	
+5-13	355-367	zusätzliches	_	
+5-14	368-372	Deck	_	
+5-15	373-382	unterhalb	_	
+5-16	383-386	der	_	
+5-17	387-395	jetzigen	_	
+5-18	396-402	Brücke	_	
+5-19	403-406	für	_	
+5-20	407-416	Fußgänger	_	
+5-21	417-420	und	_	
+5-22	421-430	Radfahrer	_	
+5-23	431-439	montiert	_	
+5-24	440-444	wird	_	
+5-25	444-445	.	_	
+
+#Text=Hierzu reicht ein Stahlkonstruktion völlig aus.
+6-1	446-452	Hierzu	_	
+6-2	453-459	reicht	_	
+6-3	460-463	ein	_	
+6-4	464-481	Stahlkonstruktion	_	
+6-5	482-488	völlig	_	
+6-6	489-492	aus	_	
+6-7	492-493	.	_	
+
+#Text=Empfehlen würde ich, dass die Geländer blickundurchlässig gehalten werden um Personen mit Höhenangst auch die Nutzung der Brücke zu ermöglichen.
+7-1	494-503	Empfehlen	_	
+7-2	504-509	würde	_	
+7-3	510-513	ich	_	
+7-4	513-514	,	_	
+7-5	515-519	dass	_	
+7-6	520-523	die	_	
+7-7	524-532	Geländer	_	
+7-8	533-551	blickundurchlässig	_	
+7-9	552-560	gehalten	_	
+7-10	561-567	werden	_	
+7-11	568-570	um	_	
+7-12	571-579	Personen	_	
+7-13	580-583	mit	_	
+7-14	584-594	Höhenangst	_	
+7-15	595-599	auch	_	
+7-16	600-603	die	_	
+7-17	604-611	Nutzung	_	
+7-18	612-615	der	_	
+7-19	616-622	Brücke	_	
+7-20	623-625	zu	_	
+7-21	626-637	ermöglichen	_	
+7-22	637-638	.	_	
+
+#Text=Durch die Konstruktion unter der Brücke wäre dieser Weg auch Überdacht.
+8-1	639-644	Durch	_	
+8-2	645-648	die	_	
+8-3	649-661	Konstruktion	_	
+8-4	662-667	unter	_	
+8-5	668-671	der	_	
+8-6	672-678	Brücke	_	
+8-7	679-683	wäre	_	
+8-8	684-690	dieser	_	
+8-9	691-694	Weg	_	
+8-10	695-699	auch	_	
+8-11	700-709	Überdacht	_	
+8-12	709-710	.	_	
+
+#Text=Auch könnte man so den Abgasen der Autos auf der Brücke entfliehen.
+9-1	711-715	Auch	_	
+9-2	716-722	könnte	_	
+9-3	723-726	man	_	
+9-4	727-729	so	_	
+9-5	730-733	den	_	
+9-6	734-741	Abgasen	_	
+9-7	742-745	der	_	
+9-8	746-751	Autos	_	
+9-9	752-755	auf	_	
+9-10	756-759	der	_	
+9-11	760-766	Brücke	_	
+9-12	767-777	entfliehen	_	
+9-13	777-778	.	_	

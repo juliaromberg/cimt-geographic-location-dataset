@@ -1,0 +1,35 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bepflanzung im Kreuzungsbereich
+1-1	0-11	Bepflanzung	_	
+1-2	12-14	im	_	
+1-3	15-31	Kreuzungsbereich	_	
+
+#Text=Hier sollte unbedingt die Bepflanzung im Kreuzungsbereich zurückgefahren werden, da diese für Radfahrer aus allen Richtungen kommend extrem die Sicht behindert.
+2-1	34-38	Hier	_	
+2-2	39-45	sollte	_	
+2-3	46-55	unbedingt	_	
+2-4	56-59	die	_	
+2-5	60-71	Bepflanzung	_	
+2-6	72-74	im	_	
+2-7	75-91	Kreuzungsbereich	_	
+2-8	92-106	zurückgefahren	_	
+2-9	107-113	werden	_	
+2-10	113-114	,	_	
+2-11	115-117	da	_	
+2-12	118-123	diese	_	
+2-13	124-127	für	_	
+2-14	128-137	Radfahrer	_	
+2-15	138-141	aus	_	
+2-16	142-147	allen	_	
+2-17	148-158	Richtungen	_	
+2-18	159-166	kommend	_	
+2-19	167-173	extrem	_	
+2-20	174-177	die	_	
+2-21	178-183	Sicht	_	
+2-22	184-193	behindert	_	
+2-23	193-194	.	_	

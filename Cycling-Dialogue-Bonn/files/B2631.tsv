@@ -1,0 +1,132 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Straßenbelag zwischen Bahnschiene und Bürgersteig mit durchgehend einheitlichen Belag versehen
+1-1	0-12	Straßenbelag	_	
+1-2	13-21	zwischen	_	
+1-3	22-33	Bahnschiene	_	
+1-4	34-37	und	_	
+1-5	38-49	Bürgersteig	_	
+1-6	50-53	mit	_	
+1-7	54-65	durchgehend	_	
+1-8	66-79	einheitlichen	_	
+1-9	80-85	Belag	_	
+1-10	86-94	versehen	_	
+
+#Text=Sehr geehrte Verantwortliche, der Straßenbelag zwischen den Bahnschienen und der Bürgersteigkante ist nicht einheitlich ausgeführt (zweierlei Muster).
+2-1	97-101	Sehr	_	
+2-2	102-109	geehrte	_	
+2-3	110-125	Verantwortliche	_	
+2-4	125-126	,	_	
+2-5	127-130	der	_	
+2-6	131-143	Straßenbelag	_	
+2-7	144-152	zwischen	_	
+2-8	153-156	den	_	
+2-9	157-169	Bahnschienen	_	
+2-10	170-173	und	_	
+2-11	174-177	der	_	
+2-12	178-194	Bürgersteigkante	_	
+2-13	195-198	ist	_	
+2-14	199-204	nicht	_	
+2-15	205-216	einheitlich	_	
+2-16	217-227	ausgeführt	_	
+2-17	228-229	(	_	
+2-18	229-238	zweierlei	_	
+2-19	239-245	Muster	_	
+2-20	245-246	)	_	
+2-21	246-247	.	_	
+
+#Text=Die führt i. d. R. dazu, dass die Radfahrer zu nahe an den Bahnschienen entlang der Fr.-Breuer-Str. fahren und nicht auf der Schnittstelle beider Oberflächenmuster, die genau mittig zwischen der äußeren Fahrbahnschiene und Bürgersteigkante.
+3-1	248-251	Die	_	
+3-2	252-257	führt	_	
+3-3	258-259	i	_	
+3-4	259-260	.	_	
+3-5	261-262	d	_	
+3-6	262-263	.	_	
+3-7	264-265	R	_	
+3-8	265-266	.	_	
+3-9	267-271	dazu	_	
+3-10	271-272	,	_	
+3-11	273-277	dass	_	
+3-12	278-281	die	_	
+3-13	282-291	Radfahrer	_	
+3-14	292-294	zu	_	
+3-15	295-299	nahe	_	
+3-16	300-302	an	_	
+3-17	303-306	den	_	
+3-18	307-319	Bahnschienen	_	
+3-19	320-327	entlang	*[7]	
+3-20	328-331	der	*[7]	
+3-21	332-334	Fr	*[7]	
+3-22	334-335	.	*[7]	
+3-23	335-336	-	*[7]	
+3-24	336-346	Breuer-Str	*[7]	
+3-25	346-347	.	_	
+3-26	348-354	fahren	_	
+3-27	355-358	und	_	
+3-28	359-364	nicht	_	
+3-29	365-368	auf	_	
+3-30	369-372	der	_	
+3-31	373-386	Schnittstelle	_	
+3-32	387-393	beider	_	
+3-33	394-411	Oberflächenmuster	_	
+3-34	411-412	,	_	
+3-35	413-416	die	_	
+3-36	417-422	genau	_	
+3-37	423-429	mittig	_	
+3-38	430-438	zwischen	_	
+3-39	439-442	der	_	
+3-40	443-450	äußeren	_	
+3-41	451-466	Fahrbahnschiene	_	
+3-42	467-470	und	_	
+3-43	471-487	Bürgersteigkante	_	
+3-44	487-488	.	_	
+
+#Text=Die befahrbare Breite von ca. 1m wird optisch unnötig in 2 Bahnen à 0,5 m aufgeteilt.
+4-1	489-492	Die	_	
+4-2	493-503	befahrbare	_	
+4-3	504-510	Breite	_	
+4-4	511-514	von	_	
+4-5	515-517	ca	_	
+4-6	517-518	.	_	
+4-7	519-521	1m	_	
+4-8	522-526	wird	_	
+4-9	527-534	optisch	_	
+4-10	535-542	unnötig	_	
+4-11	543-545	in	_	
+4-12	546-547	2	_	
+4-13	548-554	Bahnen	_	
+4-14	555-556	à	_	
+4-15	557-560	0,5	_	
+4-16	561-562	m	_	
+4-17	563-573	aufgeteilt	_	
+4-18	573-574	.	_	
+
+#Text=Das bringt Unruhe ins Rad und führt auch zu Unfällen.
+5-1	575-578	Das	_	
+5-2	579-585	bringt	_	
+5-3	586-592	Unruhe	_	
+5-4	593-596	ins	_	
+5-5	597-600	Rad	_	
+5-6	601-604	und	_	
+5-7	605-610	führt	_	
+5-8	611-615	auch	_	
+5-9	616-618	zu	_	
+5-10	619-627	Unfällen	_	
+5-11	627-628	.	_	
+
+#Text=Beste Grüße Marc Puchert, Tel. [Telefonnummer entfernt]
+6-1	629-634	Beste	_	
+6-2	635-640	Grüße	_	
+6-3	641-645	Marc	_	
+6-4	646-653	Puchert	_	
+6-5	653-654	,	_	
+6-6	655-658	Tel	_	
+6-7	658-659	.	_	
+6-8	660-661	[	_	
+6-9	661-674	Telefonnummer	_	
+6-10	675-683	entfernt	_	
+6-11	683-684	]	_	

@@ -1,0 +1,50 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hüttenstr öffnen,
+1-1	0-9	Hüttenstr	*	
+1-2	10-16	öffnen	_	
+1-3	16-17	,	_	
+
+#Text=Um von der Ottostr - welche ja gut für den Radweg ertüchtigt werden kann, wenn das wilde parken verhindert wird - weiter zum Bahnhof zu kommen, sollte die Einbahnstraße Hüttenstraße für den Radverkehr geöffnet werden.
+2-1	20-22	Um	_	
+2-2	23-26	von	*[3]	
+2-3	27-30	der	*[3]	
+2-4	31-38	Ottostr	*[3]	
+2-5	39-40	-	_	
+2-6	41-47	welche	_	
+2-7	48-50	ja	_	
+2-8	51-54	gut	_	
+2-9	55-58	für	_	
+2-10	59-62	den	_	
+2-11	63-69	Radweg	_	
+2-12	70-80	ertüchtigt	_	
+2-13	81-87	werden	_	
+2-14	88-92	kann	_	
+2-15	92-93	,	_	
+2-16	94-98	wenn	_	
+2-17	99-102	das	_	
+2-18	103-108	wilde	_	
+2-19	109-115	parken	_	
+2-20	116-126	verhindert	_	
+2-21	127-131	wird	_	
+2-22	132-133	-	_	
+2-23	134-140	weiter	_	
+2-24	141-144	zum	_	
+2-25	145-152	Bahnhof	_	
+2-26	153-155	zu	_	
+2-27	156-162	kommen	_	
+2-28	162-163	,	_	
+2-29	164-170	sollte	_	
+2-30	171-174	die	_	
+2-31	175-188	Einbahnstraße	_	
+2-32	189-201	Hüttenstraße	*	
+2-33	202-205	für	_	
+2-34	206-209	den	_	
+2-35	210-220	Radverkehr	_	
+2-36	221-229	geöffnet	_	
+2-37	230-236	werden	_	
+2-38	236-237	.	_	

@@ -1,0 +1,117 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Subbelrather: Timing Ampelschaltung und Parken auf Radweg
+1-1	0-12	Subbelrather	*	
+1-2	12-13	:	_	
+1-3	14-20	Timing	_	
+1-4	21-35	Ampelschaltung	_	
+1-5	36-39	und	_	
+1-6	40-46	Parken	_	
+1-7	47-50	auf	_	
+1-8	51-57	Radweg	_	
+
+#Text=Auf der Subbelrather zwischen Ringen und Äußerer Kanalstraße ist die Schaltung der Ampeln für den Großteil aller Radfahrer zeitlich so gestaltet, dass man (im Tross mit den meisten anderen) an so gut wie jeder Ampel steht.
+2-1	60-63	Auf	*[6]	
+2-2	64-67	der	*[6]	
+2-3	68-80	Subbelrather	*[6]	
+2-4	81-89	zwischen	*[6]	
+2-5	90-96	Ringen	*[6]	
+2-6	97-100	und	*[6]	
+2-7	101-108	Äußerer	*[6]	
+2-8	109-120	Kanalstraße	*[6]	
+2-9	121-124	ist	_	
+2-10	125-128	die	_	
+2-11	129-138	Schaltung	_	
+2-12	139-142	der	_	
+2-13	143-149	Ampeln	_	
+2-14	150-153	für	_	
+2-15	154-157	den	_	
+2-16	158-166	Großteil	_	
+2-17	167-172	aller	_	
+2-18	173-182	Radfahrer	_	
+2-19	183-191	zeitlich	_	
+2-20	192-194	so	_	
+2-21	195-204	gestaltet	_	
+2-22	204-205	,	_	
+2-23	206-210	dass	_	
+2-24	211-214	man	_	
+2-25	215-216	(	_	
+2-26	216-218	im	_	
+2-27	219-224	Tross	_	
+2-28	225-228	mit	_	
+2-29	229-232	den	_	
+2-30	233-240	meisten	_	
+2-31	241-248	anderen	_	
+2-32	248-249	)	_	
+2-33	250-252	an	_	
+2-34	253-255	so	_	
+2-35	256-259	gut	_	
+2-36	260-263	wie	_	
+2-37	264-269	jeder	_	
+2-38	270-275	Ampel	_	
+2-39	276-281	steht	_	
+2-40	281-282	.	_	
+
+#Text=Das ist frustrierend, bedeutet einen großen Zeitverlust und treibt einige dazu, bei rot über die Ampeln zu fahren.
+3-1	283-286	Das	_	
+3-2	287-290	ist	_	
+3-3	291-303	frustrierend	_	
+3-4	303-304	,	_	
+3-5	305-313	bedeutet	_	
+3-6	314-319	einen	_	
+3-7	320-326	großen	_	
+3-8	327-338	Zeitverlust	_	
+3-9	339-342	und	_	
+3-10	343-349	treibt	_	
+3-11	350-356	einige	_	
+3-12	357-361	dazu	_	
+3-13	361-362	,	_	
+3-14	363-366	bei	_	
+3-15	367-370	rot	_	
+3-16	371-375	über	_	
+3-17	376-379	die	_	
+3-18	380-386	Ampeln	_	
+3-19	387-389	zu	_	
+3-20	390-396	fahren	_	
+3-21	396-397	.	_	
+
+#Text=Kann man diese Schaltung intelligenter gestalten?
+4-1	398-402	Kann	_	
+4-2	403-406	man	_	
+4-3	407-412	diese	_	
+4-4	413-422	Schaltung	_	
+4-5	423-436	intelligenter	_	
+4-6	437-446	gestalten	_	
+4-7	446-447	?	_	
+
+#Text=Auf dem auf der Fahrbahn liegenden Radweg zwischen Gürtel und Äußerer parken zudem IMMER mehrere Kurzparker auf dem Radweg, hier sollte mehr geahndet werden.
+5-1	448-451	Auf	_	
+5-2	452-455	dem	_	
+5-3	456-459	auf	_	
+5-4	460-463	der	_	
+5-5	464-472	Fahrbahn	_	
+5-6	473-482	liegenden	_	
+5-7	483-489	Radweg	*[7]	
+5-8	490-498	zwischen	*[7]	
+5-9	499-505	Gürtel	*[7]	
+5-10	506-509	und	*[7]	
+5-11	510-517	Äußerer	*[7]	
+5-12	518-524	parken	_	
+5-13	525-530	zudem	_	
+5-14	531-536	IMMER	_	
+5-15	537-544	mehrere	_	
+5-16	545-555	Kurzparker	_	
+5-17	556-559	auf	_	
+5-18	560-563	dem	_	
+5-19	564-570	Radweg	_	
+5-20	570-571	,	_	
+5-21	572-576	hier	_	
+5-22	577-583	sollte	_	
+5-23	584-588	mehr	_	
+5-24	589-597	geahndet	_	
+5-25	598-604	werden	_	
+5-26	604-605	.	_	

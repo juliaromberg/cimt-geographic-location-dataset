@@ -1,0 +1,130 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rückbau von Parkplätzen auf der Venloer Straße zwischen innerer Kanalstraße und Gürtel
+1-1	0-7	Rückbau	_	
+1-2	8-11	von	_	
+1-3	12-23	Parkplätzen	_	
+1-4	24-27	auf	*[7]	
+1-5	28-31	der	*[7]	
+1-6	32-39	Venloer	*[7]	
+1-7	40-46	Straße	*[7]	
+1-8	47-55	zwischen	*[7]	
+1-9	56-63	innerer	*[7]	
+1-10	64-75	Kanalstraße	*[7]	
+1-11	76-79	und	*[7]	
+1-12	80-86	Gürtel	*[7]	
+
+#Text=Die Gefahr von sog. Dooring-Unfällen für Fahrradfahrer auf der Venloer Straße ist groß.
+2-1	89-92	Die	_	
+2-2	93-99	Gefahr	_	
+2-3	100-103	von	_	
+2-4	104-107	sog	_	
+2-5	107-108	.	_	
+2-6	109-125	Dooring-Unfällen	_	
+2-7	126-129	für	_	
+2-8	130-143	Fahrradfahrer	_	
+2-9	144-147	auf	*[8]	
+2-10	148-151	der	*[8]	
+2-11	152-159	Venloer	*[8]	
+2-12	160-166	Straße	*[8]	
+2-13	167-170	ist	_	
+2-14	171-175	groß	_	
+2-15	175-176	.	_	
+
+#Text=Der Schutzstreifen für Radfahrer auf der Fahrbahn beginnt direkt neben parkenden Autos.
+3-1	177-180	Der	_	
+3-2	181-195	Schutzstreifen	_	
+3-3	196-199	für	_	
+3-4	200-209	Radfahrer	_	
+3-5	210-213	auf	_	
+3-6	214-217	der	_	
+3-7	218-226	Fahrbahn	_	
+3-8	227-234	beginnt	_	
+3-9	235-241	direkt	_	
+3-10	242-247	neben	_	
+3-11	248-257	parkenden	_	
+3-12	258-263	Autos	_	
+3-13	263-264	.	_	
+
+#Text=Ich plädiere für einen Rückbau von Parkplätzen auf der Venloer Straße, denn diese sind nicht zwingend notwendig und gefährlich für Radfahrende.
+4-1	265-268	Ich	_	
+4-2	269-277	plädiere	_	
+4-3	278-281	für	_	
+4-4	282-287	einen	_	
+4-5	288-295	Rückbau	_	
+4-6	296-299	von	_	
+4-7	300-311	Parkplätzen	_	
+4-8	312-315	auf	*[9]	
+4-9	316-319	der	*[9]	
+4-10	320-327	Venloer	*[9]	
+4-11	328-334	Straße	*[9]	
+4-12	334-335	,	_	
+4-13	336-340	denn	_	
+4-14	341-346	diese	_	
+4-15	347-351	sind	_	
+4-16	352-357	nicht	_	
+4-17	358-366	zwingend	_	
+4-18	367-376	notwendig	_	
+4-19	377-380	und	_	
+4-20	381-391	gefährlich	_	
+4-21	392-395	für	_	
+4-22	396-407	Radfahrende	_	
+4-23	407-408	.	_	
+
+#Text=Es gibt z.B. mit den Parkhäusern Barthonia-Forum und Neptunplatz ausreichend Parkmöglichkeiten.
+5-1	409-411	Es	_	
+5-2	412-416	gibt	_	
+5-3	417-420	z.B	_	
+5-4	420-421	.	_	
+5-5	422-425	mit	_	
+5-6	426-429	den	_	
+5-7	430-441	Parkhäusern	*[10]	
+5-8	442-457	Barthonia-Forum	*[10]	
+5-9	458-461	und	*[10]	
+5-10	462-473	Neptunplatz	*[10]	
+5-11	474-485	ausreichend	_	
+5-12	486-503	Parkmöglichkeiten	_	
+5-13	503-504	.	_	
+
+#Text=Wenn wir es mit der Aufenthaltsqualität und dem Ideal der lebenswerten Stadt ernst meinen, dann sollte etwas dafür getan werden, dass weniger Platz für PKW zur Verfügung steht und mehr für Radfahrer und Fußgänger.
+6-1	505-509	Wenn	_	
+6-2	510-513	wir	_	
+6-3	514-516	es	_	
+6-4	517-520	mit	_	
+6-5	521-524	der	_	
+6-6	525-544	Aufenthaltsqualität	_	
+6-7	545-548	und	_	
+6-8	549-552	dem	_	
+6-9	553-558	Ideal	_	
+6-10	559-562	der	_	
+6-11	563-575	lebenswerten	_	
+6-12	576-581	Stadt	_	
+6-13	582-587	ernst	_	
+6-14	588-594	meinen	_	
+6-15	594-595	,	_	
+6-16	596-600	dann	_	
+6-17	601-607	sollte	_	
+6-18	608-613	etwas	_	
+6-19	614-619	dafür	_	
+6-20	620-625	getan	_	
+6-21	626-632	werden	_	
+6-22	632-633	,	_	
+6-23	634-638	dass	_	
+6-24	639-646	weniger	_	
+6-25	647-652	Platz	_	
+6-26	653-656	für	_	
+6-27	657-660	PKW	_	
+6-28	661-664	zur	_	
+6-29	665-674	Verfügung	_	
+6-30	675-680	steht	_	
+6-31	681-684	und	_	
+6-32	685-689	mehr	_	
+6-33	690-693	für	_	
+6-34	694-703	Radfahrer	_	
+6-35	704-707	und	_	
+6-36	708-717	Fußgänger	_	
+6-37	717-718	.	_	

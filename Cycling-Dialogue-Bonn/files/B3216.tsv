@@ -1,0 +1,87 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefahrenstelle Kreuzung Kaiserstr. / Königstr.
+1-1	0-14	Gefahrenstelle	_	
+1-2	15-23	Kreuzung	*[4]	
+1-3	24-33	Kaiserstr	*[4]	
+1-4	33-34	.	*[4]	
+1-5	35-36	/	*[4]	
+1-6	37-45	Königstr	*[4]	
+1-7	45-46	.	*[4]	
+
+#Text=Der Radweg Kaiserstr. an der Kreuzung Königstr. Ecke Nassestr. ist unfassbar eng und unnötig kurvig, obwohl seitlich Fläche vorhanden ist, durch den der Fahrradweg leicht verbreitert und begradigt werden könnte.
+2-1	49-52	Der	*[5]	
+2-2	53-59	Radweg	*[5]	
+2-3	60-69	Kaiserstr	*[5]	
+2-4	69-70	.	*[5]	
+2-5	71-73	an	*[5]	
+2-6	74-77	der	*[5]	
+2-7	78-86	Kreuzung	*[5]	
+2-8	87-95	Königstr	*[5]	
+2-9	95-96	.	*[5]	
+2-10	97-101	Ecke	*[5]	
+2-11	102-110	Nassestr	*[5]	
+2-12	110-111	.	*[5]	
+2-13	112-115	ist	_	
+2-14	116-125	unfassbar	_	
+2-15	126-129	eng	_	
+2-16	130-133	und	_	
+2-17	134-141	unnötig	_	
+2-18	142-148	kurvig	_	
+2-19	148-149	,	_	
+2-20	150-156	obwohl	_	
+2-21	157-165	seitlich	_	
+2-22	166-172	Fläche	_	
+2-23	173-182	vorhanden	_	
+2-24	183-186	ist	_	
+2-25	186-187	,	_	
+2-26	188-193	durch	_	
+2-27	194-197	den	_	
+2-28	198-201	der	_	
+2-29	202-212	Fahrradweg	_	
+2-30	213-219	leicht	_	
+2-31	220-231	verbreitert	_	
+2-32	232-235	und	_	
+2-33	236-245	begradigt	_	
+2-34	246-252	werden	_	
+2-35	253-259	könnte	_	
+2-36	259-260	.	_	
+
+#Text=Im weiteren Verlauf stadtauswärts könnte dieser wunderbare Nord / Süd Fahrradweg deutlich verbreitert werden, wenn die vor Jahren stillgelegte Strecke der Bundesbahn, endlich genutzt würde um den Fahrradweg zu verbreitern.
+3-1	261-263	Im	_	
+3-2	264-272	weiteren	_	
+3-3	273-280	Verlauf	_	
+3-4	281-294	stadtauswärts	_	
+3-5	295-301	könnte	_	
+3-6	302-308	dieser	_	
+3-7	309-319	wunderbare	_	
+3-8	320-324	Nord	_	
+3-9	325-326	/	_	
+3-10	327-330	Süd	_	
+3-11	331-341	Fahrradweg	_	
+3-12	342-350	deutlich	_	
+3-13	351-362	verbreitert	_	
+3-14	363-369	werden	_	
+3-15	369-370	,	_	
+3-16	371-375	wenn	_	
+3-17	376-379	die	_	
+3-18	380-383	vor	_	
+3-19	384-390	Jahren	_	
+3-20	391-403	stillgelegte	_	
+3-21	404-411	Strecke	_	
+3-22	412-415	der	_	
+3-23	416-426	Bundesbahn	_	
+3-24	426-427	,	_	
+3-25	428-435	endlich	_	
+3-26	436-443	genutzt	_	
+3-27	444-449	würde	_	
+3-28	450-452	um	_	
+3-29	453-456	den	_	
+3-30	457-467	Fahrradweg	_	
+3-31	468-470	zu	_	
+3-32	471-482	verbreitern	_	
+3-33	482-483	.	_	

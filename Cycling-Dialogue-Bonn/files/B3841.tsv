@@ -1,0 +1,160 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Führung des Fahrradstreifens (bergauf) am Ende der Bushaltestelle gefährlich
+1-1	0-7	Führung	_	
+1-2	8-11	des	_	
+1-3	12-28	Fahrradstreifens	_	
+1-4	29-30	(	_	
+1-5	30-37	bergauf	_	
+1-6	37-38	)	_	
+1-7	39-41	am	_	
+1-8	42-46	Ende	_	
+1-9	47-50	der	_	
+1-10	51-65	Bushaltestelle	_	
+1-11	66-76	gefährlich	_	
+
+#Text=Es ist nur ein kleines, aber exemplarisches Problem in der Radwegeführung: Die Markierung des Fahrradstreifens orientiert sich am rechten Rand der Bushaltebucht.
+2-1	79-81	Es	_	
+2-2	82-85	ist	_	
+2-3	86-89	nur	_	
+2-4	90-93	ein	_	
+2-5	94-101	kleines	_	
+2-6	101-102	,	_	
+2-7	103-107	aber	_	
+2-8	108-122	exemplarisches	_	
+2-9	123-130	Problem	_	
+2-10	131-133	in	_	
+2-11	134-137	der	_	
+2-12	138-152	Radwegeführung	_	
+2-13	152-153	:	_	
+2-14	154-157	Die	_	
+2-15	158-168	Markierung	_	
+2-16	169-172	des	_	
+2-17	173-189	Fahrradstreifens	_	
+2-18	190-200	orientiert	_	
+2-19	201-205	sich	_	
+2-20	206-208	am	_	
+2-21	209-216	rechten	_	
+2-22	217-221	Rand	_	
+2-23	222-225	der	_	
+2-24	226-239	Bushaltebucht	_	
+2-25	239-240	.	_	
+
+#Text=Am Ende der Bushaltebucht wird deshalb mit den Radstreifen ein Schwenk ca. 1 m nach links, zurück auf die Fahrbahn gemacht.
+3-1	241-243	Am	_	
+3-2	244-248	Ende	_	
+3-3	249-252	der	_	
+3-4	253-266	Bushaltebucht	_	
+3-5	267-271	wird	_	
+3-6	272-279	deshalb	_	
+3-7	280-283	mit	_	
+3-8	284-287	den	_	
+3-9	288-299	Radstreifen	_	
+3-10	300-303	ein	_	
+3-11	304-311	Schwenk	_	
+3-12	312-314	ca	_	
+3-13	314-315	.	_	
+3-14	316-317	1	_	
+3-15	318-319	m	_	
+3-16	320-324	nach	_	
+3-17	325-330	links	_	
+3-18	330-331	,	_	
+3-19	332-338	zurück	_	
+3-20	339-342	auf	_	
+3-21	343-346	die	_	
+3-22	347-355	Fahrbahn	_	
+3-23	356-363	gemacht	_	
+3-24	363-364	.	_	
+
+#Text=Das ist für Radfahrer immer unangenehm und potentiell gefährlich, da er sich hier wieder in die Fahrbahn der von hinten kommenden Fahrzeuge bewegen muss.
+4-1	365-368	Das	_	
+4-2	369-372	ist	_	
+4-3	373-376	für	_	
+4-4	377-386	Radfahrer	_	
+4-5	387-392	immer	_	
+4-6	393-403	unangenehm	_	
+4-7	404-407	und	_	
+4-8	408-418	potentiell	_	
+4-9	419-429	gefährlich	_	
+4-10	429-430	,	_	
+4-11	431-433	da	_	
+4-12	434-436	er	_	
+4-13	437-441	sich	_	
+4-14	442-446	hier	_	
+4-15	447-453	wieder	_	
+4-16	454-456	in	_	
+4-17	457-460	die	_	
+4-18	461-469	Fahrbahn	_	
+4-19	470-473	der	_	
+4-20	474-477	von	_	
+4-21	478-484	hinten	_	
+4-22	485-494	kommenden	_	
+4-23	495-504	Fahrzeuge	_	
+4-24	505-512	bewegen	_	
+4-25	513-517	muss	_	
+4-26	517-518	.	_	
+
+#Text=Die beschleunigen an dieser Stelle von 30 auf 50 km/h hoch, und das notwendige herüberschwenken auf die Fahrbahn ist für Kraftfahrzeuge kaum erwartbar.
+5-1	519-522	Die	_	
+5-2	523-536	beschleunigen	_	
+5-3	537-539	an	_	
+5-4	540-546	dieser	_	
+5-5	547-553	Stelle	_	
+5-6	554-557	von	_	
+5-7	558-560	30	_	
+5-8	561-564	auf	_	
+5-9	565-567	50	_	
+5-10	568-570	km	_	
+5-11	570-571	/	_	
+5-12	571-572	h	_	
+5-13	573-577	hoch	_	
+5-14	577-578	,	_	
+5-15	579-582	und	_	
+5-16	583-586	das	_	
+5-17	587-597	notwendige	_	
+5-18	598-614	herüberschwenken	_	
+5-19	615-618	auf	_	
+5-20	619-622	die	_	
+5-21	623-631	Fahrbahn	_	
+5-22	632-635	ist	_	
+5-23	636-639	für	_	
+5-24	640-654	Kraftfahrzeuge	_	
+5-25	655-659	kaum	_	
+5-26	660-669	erwartbar	_	
+5-27	669-670	.	_	
+
+#Text=Die Markierung des Fahrradstreifens gehört hier an den rechten Rand des eigentlichen Fahrstreifens (nicht der Bushaltebucht).
+6-1	671-674	Die	_	
+6-2	675-685	Markierung	_	
+6-3	686-689	des	_	
+6-4	690-706	Fahrradstreifens	_	
+6-5	707-713	gehört	_	
+6-6	714-718	hier	_	
+6-7	719-721	an	_	
+6-8	722-725	den	_	
+6-9	726-733	rechten	_	
+6-10	734-738	Rand	_	
+6-11	739-742	des	_	
+6-12	743-755	eigentlichen	_	
+6-13	756-769	Fahrstreifens	_	
+6-14	770-771	(	_	
+6-15	771-776	nicht	_	
+6-16	777-780	der	_	
+6-17	781-794	Bushaltebucht	_	
+6-18	794-795	)	_	
+6-19	795-796	.	_	
+
+#Text=Ein verschwenken des Fahrradstreifens sollte insgesamt minimiert werden.
+7-1	797-800	Ein	_	
+7-2	801-813	verschwenken	_	
+7-3	814-817	des	_	
+7-4	818-834	Fahrradstreifens	_	
+7-5	835-841	sollte	_	
+7-6	842-851	insgesamt	_	
+7-7	852-861	minimiert	_	
+7-8	862-868	werden	_	
+7-9	868-869	.	_	

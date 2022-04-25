@@ -1,0 +1,91 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg einrichten
+1-1	0-6	Radweg	_	
+1-2	7-17	einrichten	_	
+
+#Text=Das Viertel um den Bonner Bogen wird beständig ausgebaut und es entstehen zahlreiche neue Bürogebäude.
+2-1	20-23	Das	*[5]	
+2-2	24-31	Viertel	*[5]	
+2-3	32-34	um	*[5]	
+2-4	35-38	den	*[5]	
+2-5	39-45	Bonner	*[5]	
+2-6	46-51	Bogen	*[5]	
+2-7	52-56	wird	_	
+2-8	57-66	beständig	_	
+2-9	67-76	ausgebaut	_	
+2-10	77-80	und	_	
+2-11	81-83	es	_	
+2-12	84-93	entstehen	_	
+2-13	94-104	zahlreiche	_	
+2-14	105-109	neue	_	
+2-15	110-121	Bürogebäude	_	
+2-16	121-122	.	_	
+
+#Text=Bislang ist die Wegeführung ausschließlich für Autos konzipiert.
+3-1	123-130	Bislang	_	
+3-2	131-134	ist	_	
+3-3	135-138	die	_	
+3-4	139-150	Wegeführung	_	
+3-5	151-165	ausschließlich	_	
+3-6	166-169	für	_	
+3-7	170-175	Autos	_	
+3-8	176-186	konzipiert	_	
+3-9	186-187	.	_	
+
+#Text=Nicht nur bietet dies wenig Anreiz für Mitarbeitende sich aufs Fahrrad zu schwingen, sondern für Radfahrer, die bisher mit dem Fahrrad kommen, wird die Abfahrt immer schwieriger (mehr Verkehr, zahlreiche Ausfahrten für Autos, parkende Autos verschließen die Zufahrt zum Radweg auf die Rheinbrücke).
+4-1	188-193	Nicht	_	
+4-2	194-197	nur	_	
+4-3	198-204	bietet	_	
+4-4	205-209	dies	_	
+4-5	210-215	wenig	_	
+4-6	216-222	Anreiz	_	
+4-7	223-226	für	_	
+4-8	227-240	Mitarbeitende	_	
+4-9	241-245	sich	_	
+4-10	246-250	aufs	_	
+4-11	251-258	Fahrrad	_	
+4-12	259-261	zu	_	
+4-13	262-271	schwingen	_	
+4-14	271-272	,	_	
+4-15	273-280	sondern	_	
+4-16	281-284	für	_	
+4-17	285-294	Radfahrer	_	
+4-18	294-295	,	_	
+4-19	296-299	die	_	
+4-20	300-306	bisher	_	
+4-21	307-310	mit	_	
+4-22	311-314	dem	_	
+4-23	315-322	Fahrrad	_	
+4-24	323-329	kommen	_	
+4-25	329-330	,	_	
+4-26	331-335	wird	_	
+4-27	336-339	die	_	
+4-28	340-347	Abfahrt	_	
+4-29	348-353	immer	_	
+4-30	354-365	schwieriger	_	
+4-31	366-367	(	_	
+4-32	367-371	mehr	_	
+4-33	372-379	Verkehr	_	
+4-34	379-380	,	_	
+4-35	381-391	zahlreiche	_	
+4-36	392-402	Ausfahrten	_	
+4-37	403-406	für	_	
+4-38	407-412	Autos	_	
+4-39	412-413	,	_	
+4-40	414-422	parkende	_	
+4-41	423-428	Autos	_	
+4-42	429-441	verschließen	_	
+4-43	442-445	die	_	
+4-44	446-453	Zufahrt	_	
+4-45	454-457	zum	_	
+4-46	458-464	Radweg	_	
+4-47	465-468	auf	*[6]	
+4-48	469-472	die	*[6]	
+4-49	473-484	Rheinbrücke	*[6]	
+4-50	484-485	)	*[6]	
+4-51	485-486	.	_	

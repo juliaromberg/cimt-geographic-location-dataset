@@ -1,0 +1,25 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährlich!
+1-1	0-10	Gefährlich	_	
+1-2	10-11	!	_	
+
+#Text=Die Colmantstraße ist wegen beidseitig parkender Autos und Busverkehrs für Radfahrer sehr gefährlich.
+2-1	14-17	Die	*[3]	
+2-2	18-31	Colmantstraße	*[3]	
+2-3	32-35	ist	_	
+2-4	36-41	wegen	_	
+2-5	42-52	beidseitig	_	
+2-6	53-62	parkender	_	
+2-7	63-68	Autos	_	
+2-8	69-72	und	_	
+2-9	73-84	Busverkehrs	_	
+2-10	85-88	für	_	
+2-11	89-98	Radfahrer	_	
+2-12	99-103	sehr	_	
+2-13	104-114	gefährlich	_	
+2-14	114-115	.	_	

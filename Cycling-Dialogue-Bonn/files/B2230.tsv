@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zu wenig Platz zwischen parkenden Fahrzeugen und Straßenbahnschienen
+1-1	0-2	Zu	_	
+1-2	3-8	wenig	_	
+1-3	9-14	Platz	_	
+1-4	15-23	zwischen	_	
+1-5	24-33	parkenden	_	
+1-6	34-44	Fahrzeugen	_	
+1-7	45-48	und	_	
+1-8	49-68	Straßenbahnschienen	_	
+
+#Text=Im Bereich Bonner Talweg und Prinz-Albert-Straße ist der Abstand zwischen den parkenden Fahrzeugen und den Straßenbahnschienen sehr eng - vor allem wenn in 2. Reihe geparkt wird.
+2-1	71-73	Im	*[4]	
+2-2	74-81	Bereich	*[4]	
+2-3	82-88	Bonner	*[4]	
+2-4	89-95	Talweg	*[4]	
+2-5	96-99	und	*[4]	
+2-6	100-119	Prinz-Albert-Straße	*[4]	
+2-7	120-123	ist	_	
+2-8	124-127	der	_	
+2-9	128-135	Abstand	_	
+2-10	136-144	zwischen	_	
+2-11	145-148	den	_	
+2-12	149-158	parkenden	_	
+2-13	159-169	Fahrzeugen	_	
+2-14	170-173	und	_	
+2-15	174-177	den	_	
+2-16	178-197	Straßenbahnschienen	_	
+2-17	198-202	sehr	_	
+2-18	203-206	eng	_	
+2-19	207-208	-	_	
+2-20	209-212	vor	_	
+2-21	213-218	allem	_	
+2-22	219-223	wenn	_	
+2-23	224-226	in	_	
+2-24	227-228	2	_	
+2-25	228-229	.	_	
+2-26	230-235	Reihe	_	
+2-27	236-243	geparkt	_	
+2-28	244-248	wird	_	
+2-29	248-249	.	_	
+
+#Text=Da bei Nässe der Bereich der Straßenbahnschiene mit Fahrradreifen sehr rutschig ist, kommt es hier häufig zu gefährlichen Situationen.
+3-1	250-252	Da	_	
+3-2	253-256	bei	_	
+3-3	257-262	Nässe	_	
+3-4	263-266	der	_	
+3-5	267-274	Bereich	_	
+3-6	275-278	der	_	
+3-7	279-297	Straßenbahnschiene	_	
+3-8	298-301	mit	_	
+3-9	302-315	Fahrradreifen	_	
+3-10	316-320	sehr	_	
+3-11	321-329	rutschig	_	
+3-12	330-333	ist	_	
+3-13	333-334	,	_	
+3-14	335-340	kommt	_	
+3-15	341-343	es	_	
+3-16	344-348	hier	_	
+3-17	349-355	häufig	_	
+3-18	356-358	zu	_	
+3-19	359-371	gefährlichen	_	
+3-20	372-383	Situationen	_	
+3-21	383-384	.	_	

@@ -1,0 +1,46 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=schlechtes Pflaster
+1-1	0-10	schlechtes	_	
+1-2	11-19	Pflaster	_	
+
+#Text=Das Pflaster dieses Radweges an der Pascalstraße ist sehr uneben und es ist unangenehm, diesen Radweg zu benutzen.
+2-1	22-25	Das	_	
+2-2	26-34	Pflaster	_	
+2-3	35-41	dieses	_	
+2-4	42-50	Radweges	*[4]	
+2-5	51-53	an	*[4]	
+2-6	54-57	der	*[4]	
+2-7	58-70	Pascalstraße	*[4]	
+2-8	71-74	ist	_	
+2-9	75-79	sehr	_	
+2-10	80-86	uneben	_	
+2-11	87-90	und	_	
+2-12	91-93	es	_	
+2-13	94-97	ist	_	
+2-14	98-108	unangenehm	_	
+2-15	108-109	,	_	
+2-16	110-116	diesen	_	
+2-17	117-123	Radweg	_	
+2-18	124-126	zu	_	
+2-19	127-135	benutzen	_	
+2-20	135-136	.	_	
+
+#Text=Der parallele Fußweg wurde vor einigen Jahren repariert, der Radweg nicht.
+3-1	137-140	Der	_	
+3-2	141-150	parallele	_	
+3-3	151-157	Fußweg	_	
+3-4	158-163	wurde	_	
+3-5	164-167	vor	_	
+3-6	168-175	einigen	_	
+3-7	176-182	Jahren	_	
+3-8	183-192	repariert	_	
+3-9	192-193	,	_	
+3-10	194-197	der	_	
+3-11	198-204	Radweg	_	
+3-12	205-210	nicht	_	
+3-13	210-211	.	_	

@@ -1,0 +1,24 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beleuchtung lückenhaft
+1-1	0-11	Beleuchtung	_	
+1-2	12-22	lückenhaft	_	
+
+#Text=Auf den Zu- und Abfahrten der Südbrücke ist die Beleuchtung lückenhaft.
+2-1	25-28	Auf	*[3]	
+2-2	29-32	den	*[3]	
+2-3	33-35	Zu	*[3]	
+2-4	35-36	-	*[3]	
+2-5	37-40	und	*[3]	
+2-6	41-50	Abfahrten	*[3]	
+2-7	51-54	der	*[3]	
+2-8	55-64	Südbrücke	*[3]	
+2-9	65-68	ist	_	
+2-10	69-72	die	_	
+2-11	73-84	Beleuchtung	_	
+2-12	85-95	lückenhaft	_	
+2-13	95-96	.	_	

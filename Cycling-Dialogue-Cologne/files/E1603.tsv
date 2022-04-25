@@ -1,0 +1,266 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehrsführung führt zu Chaos und Gefahr für die öffentliche Sicherheit
+1-1	0-15	Verkehrsführung	_	
+1-2	16-21	führt	_	
+1-3	22-24	zu	_	
+1-4	25-30	Chaos	_	
+1-5	31-34	und	_	
+1-6	35-41	Gefahr	_	
+1-7	42-45	für	_	
+1-8	46-49	die	_	
+1-9	50-61	öffentliche	_	
+1-10	62-72	Sicherheit	_	
+
+#Text=Seit Jahren ärgere ich mich darüber, dass die PKWs von der Subbelratherstraße Richtung stadtauswärts fahrend, die zu Rush-Hour nahezu infarktgleich lahmliegt, verkehrswidrig links abbiegen Richtung Ehrenfeldgürtel.
+2-1	75-79	Seit	_	
+2-2	80-86	Jahren	_	
+2-3	87-93	ärgere	_	
+2-4	94-97	ich	_	
+2-5	98-102	mich	_	
+2-6	103-110	darüber	_	
+2-7	110-111	,	_	
+2-8	112-116	dass	_	
+2-9	117-120	die	_	
+2-10	121-125	PKWs	_	
+2-11	126-129	von	*[12]	
+2-12	130-133	der	*[12]	
+2-13	134-152	Subbelratherstraße	*[12]	
+2-14	153-161	Richtung	*[12]	
+2-15	162-175	stadtauswärts	*[12]	
+2-16	176-183	fahrend	_	
+2-17	183-184	,	_	
+2-18	185-188	die	_	
+2-19	189-191	zu	_	
+2-20	192-201	Rush-Hour	_	
+2-21	202-208	nahezu	_	
+2-22	209-222	infarktgleich	_	
+2-23	223-232	lahmliegt	_	
+2-24	232-233	,	_	
+2-25	234-248	verkehrswidrig	_	
+2-26	249-254	links	*[13]	
+2-27	255-263	abbiegen	*[13]	
+2-28	264-272	Richtung	*[13]	
+2-29	273-288	Ehrenfeldgürtel	*[13]	
+2-30	288-289	.	_	
+
+#Text=Eigentlich müssten die Autos rechts auf den Gürtel und sodann per U-turn wenden.
+3-1	290-300	Eigentlich	_	
+3-2	301-308	müssten	_	
+3-3	309-312	die	_	
+3-4	313-318	Autos	_	
+3-5	319-325	rechts	_	
+3-6	326-329	auf	_	
+3-7	330-333	den	_	
+3-8	334-340	Gürtel	_	
+3-9	341-344	und	_	
+3-10	345-351	sodann	_	
+3-11	352-355	per	_	
+3-12	356-362	U-turn	_	
+3-13	363-369	wenden	_	
+3-14	369-370	.	_	
+
+#Text=So wird es auch auf einer Schautafel gezeigt.
+4-1	371-373	So	_	
+4-2	374-378	wird	_	
+4-3	379-381	es	_	
+4-4	382-386	auch	_	
+4-5	387-390	auf	_	
+4-6	391-396	einer	_	
+4-7	397-407	Schautafel	_	
+4-8	408-415	gezeigt	_	
+4-9	415-416	.	_	
+
+#Text=Das ist den meisten bequemen und gestressten Autofahrern zu aufwendig, weshalb sie über die Subbelratherstr. hinterm Gürtel wenden.
+5-1	417-420	Das	_	
+5-2	421-424	ist	_	
+5-3	425-428	den	_	
+5-4	429-436	meisten	_	
+5-5	437-445	bequemen	_	
+5-6	446-449	und	_	
+5-7	450-461	gestressten	_	
+5-8	462-473	Autofahrern	_	
+5-9	474-476	zu	_	
+5-10	477-486	aufwendig	_	
+5-11	486-487	,	_	
+5-12	488-495	weshalb	_	
+5-13	496-499	sie	_	
+5-14	500-504	über	*[14]	
+5-15	505-508	die	*[14]	
+5-16	509-524	Subbelratherstr	*[14]	
+5-17	524-525	.	*[14]	
+5-18	526-533	hinterm	*[14]	
+5-19	534-540	Gürtel	*[14]	
+5-20	541-547	wenden	_	
+5-21	547-548	.	_	
+
+#Text=Es scheint so, dass ihnen das auch rechtliche zusteht, denn die durchgezogene Linie ist an der Stelle auf Höhe der SK Köln sogar unverständlicherweise unterbrochen, was aus meiner Sicht fatal ist.
+6-1	549-551	Es	_	
+6-2	552-559	scheint	_	
+6-3	560-562	so	_	
+6-4	562-563	,	_	
+6-5	564-568	dass	_	
+6-6	569-574	ihnen	_	
+6-7	575-578	das	_	
+6-8	579-583	auch	_	
+6-9	584-594	rechtliche	_	
+6-10	595-602	zusteht	_	
+6-11	602-603	,	_	
+6-12	604-608	denn	_	
+6-13	609-612	die	_	
+6-14	613-626	durchgezogene	_	
+6-15	627-632	Linie	_	
+6-16	633-636	ist	_	
+6-17	637-639	an	_	
+6-18	640-643	der	_	
+6-19	644-650	Stelle	_	
+6-20	651-654	auf	_	
+6-21	655-659	Höhe	_	
+6-22	660-663	der	_	
+6-23	664-666	SK	*[15]	
+6-24	667-671	Köln	*[15]	
+6-25	672-677	sogar	_	
+6-26	678-699	unverständlicherweise	_	
+6-27	700-712	unterbrochen	_	
+6-28	712-713	,	_	
+6-29	714-717	was	_	
+6-30	718-721	aus	_	
+6-31	722-728	meiner	_	
+6-32	729-734	Sicht	_	
+6-33	735-740	fatal	_	
+6-34	741-744	ist	_	
+6-35	744-745	.	_	
+
+#Text=Hier müsste entweder ganz klar gemacht werden, dass Linksabbiegen untersagt ist oder aber eine neues verkehrsgerechtes Abbiegekonzept erdacht werden.
+7-1	746-750	Hier	_	
+7-2	751-757	müsste	_	
+7-3	758-766	entweder	_	
+7-4	767-771	ganz	_	
+7-5	772-776	klar	_	
+7-6	777-784	gemacht	_	
+7-7	785-791	werden	_	
+7-8	791-792	,	_	
+7-9	793-797	dass	_	
+7-10	798-811	Linksabbiegen	_	
+7-11	812-821	untersagt	_	
+7-12	822-825	ist	_	
+7-13	826-830	oder	_	
+7-14	831-835	aber	_	
+7-15	836-840	eine	_	
+7-16	841-846	neues	_	
+7-17	847-864	verkehrsgerechtes	_	
+7-18	865-879	Abbiegekonzept	_	
+7-19	880-887	erdacht	_	
+7-20	888-894	werden	_	
+7-21	894-895	.	_	
+
+#Text=Das Chaos wird komplettiert dadurch, dass direkt an diesem Nadelöhr Subbelratherstr./Gürtel auch noch viele PKWs zweite Reihe stehen, um sich beim türkischen Imbiss [Name entfernt] oder der Pizzeria [Name entfernt] etwas zu holen und als weiteres I-Tüpfelchen auch noch völlig sinnfrei die Bushaltestelle Subbelratherstr./Gürtel platziert wurde.
+8-1	896-899	Das	_	
+8-2	900-905	Chaos	_	
+8-3	906-910	wird	_	
+8-4	911-923	komplettiert	_	
+8-5	924-931	dadurch	_	
+8-6	931-932	,	_	
+8-7	933-937	dass	_	
+8-8	938-944	direkt	_	
+8-9	945-947	an	_	
+8-10	948-954	diesem	_	
+8-11	955-963	Nadelöhr	*[16]	
+8-12	964-979	Subbelratherstr	*[16]	
+8-13	979-980	.	*[16]	
+8-14	980-981	/	*[16]	
+8-15	981-987	Gürtel	*[16]	
+8-16	988-992	auch	_	
+8-17	993-997	noch	_	
+8-18	998-1003	viele	_	
+8-19	1004-1008	PKWs	_	
+8-20	1009-1015	zweite	_	
+8-21	1016-1021	Reihe	_	
+8-22	1022-1028	stehen	_	
+8-23	1028-1029	,	_	
+8-24	1030-1032	um	_	
+8-25	1033-1037	sich	_	
+8-26	1038-1042	beim	_	
+8-27	1043-1053	türkischen	_	
+8-28	1054-1060	Imbiss	_	
+8-29	1061-1062	[	_	
+8-30	1062-1066	Name	_	
+8-31	1067-1075	entfernt	_	
+8-32	1075-1076	]	_	
+8-33	1077-1081	oder	_	
+8-34	1082-1085	der	_	
+8-35	1086-1094	Pizzeria	_	
+8-36	1095-1096	[	_	
+8-37	1096-1100	Name	_	
+8-38	1101-1109	entfernt	_	
+8-39	1109-1110	]	_	
+8-40	1111-1116	etwas	_	
+8-41	1117-1119	zu	_	
+8-42	1120-1125	holen	_	
+8-43	1126-1129	und	_	
+8-44	1130-1133	als	_	
+8-45	1134-1142	weiteres	_	
+8-46	1143-1155	I-Tüpfelchen	_	
+8-47	1156-1160	auch	_	
+8-48	1161-1165	noch	_	
+8-49	1166-1172	völlig	_	
+8-50	1173-1181	sinnfrei	_	
+8-51	1182-1185	die	*[17]	
+8-52	1186-1200	Bushaltestelle	*[17]	
+8-53	1201-1216	Subbelratherstr	*[17]	
+8-54	1216-1217	.	*[17]	
+8-55	1217-1218	/	*[17]	
+8-56	1218-1224	Gürtel	*[17]	
+8-57	1225-1234	platziert	_	
+8-58	1235-1240	wurde	_	
+8-59	1240-1241	.	_	
+
+#Text=Die Folge sind Rückstau auf der Subbelrather und genervte Verkehrsteilnehmer allenthalben.
+9-1	1242-1245	Die	_	
+9-2	1246-1251	Folge	_	
+9-3	1252-1256	sind	_	
+9-4	1257-1265	Rückstau	_	
+9-5	1266-1269	auf	*[18]	
+9-6	1270-1273	der	*[18]	
+9-7	1274-1286	Subbelrather	*[18]	
+9-8	1287-1290	und	_	
+9-9	1291-1299	genervte	_	
+9-10	1300-1318	Verkehrsteilnehmer	_	
+9-11	1319-1331	allenthalben	_	
+9-12	1331-1332	.	_	
+
+#Text=Dass Geschriebene betrifft natürlich auch die Radfahrer, weil die Harakiri-Wende-Manöver der Autofahrer Fahrradfahrer und Väter/Mütter mit Kinderlastenfahrrädern in Beinahe-Unfälle verwickeln.
+10-1	1333-1337	Dass	_	
+10-2	1338-1350	Geschriebene	_	
+10-3	1351-1359	betrifft	_	
+10-4	1360-1369	natürlich	_	
+10-5	1370-1374	auch	_	
+10-6	1375-1378	die	_	
+10-7	1379-1388	Radfahrer	_	
+10-8	1388-1389	,	_	
+10-9	1390-1394	weil	_	
+10-10	1395-1398	die	_	
+10-11	1399-1421	Harakiri-Wende-Manöver	_	
+10-12	1422-1425	der	_	
+10-13	1426-1436	Autofahrer	_	
+10-14	1437-1450	Fahrradfahrer	_	
+10-15	1451-1454	und	_	
+10-16	1455-1460	Väter	_	
+10-17	1460-1461	/	_	
+10-18	1461-1467	Mütter	_	
+10-19	1468-1471	mit	_	
+10-20	1472-1494	Kinderlastenfahrrädern	_	
+10-21	1495-1497	in	_	
+10-22	1498-1513	Beinahe-Unfälle	_	
+10-23	1514-1524	verwickeln	_	
+10-24	1524-1525	.	_	
+
+#Text=Bitten handeln Sie!
+11-1	1526-1532	Bitten	_	
+11-2	1533-1540	handeln	_	
+11-3	1541-1544	Sie	_	
+11-4	1544-1545	!	_	

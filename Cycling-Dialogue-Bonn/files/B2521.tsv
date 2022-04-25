@@ -1,0 +1,59 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Überweg markieren
+1-1	0-7	Überweg	_	
+1-2	8-17	markieren	_	
+
+#Text=Die neue namenlose Straße durch die ehemaligen Nutzgärten ist ein idealer Weg insbesondere mit radfahrenden Kindern von Endenich nach Poppelsdorf und eine hervorragende Entlastung für die parallele Sebastianstraße.
+2-1	20-23	Die	_	
+2-2	24-28	neue	_	
+2-3	29-38	namenlose	_	
+2-4	39-45	Straße	_	
+2-5	46-51	durch	_	
+2-6	52-55	die	_	
+2-7	56-66	ehemaligen	_	
+2-8	67-77	Nutzgärten	_	
+2-9	78-81	ist	_	
+2-10	82-85	ein	_	
+2-11	86-93	idealer	_	
+2-12	94-97	Weg	_	
+2-13	98-110	insbesondere	_	
+2-14	111-114	mit	_	
+2-15	115-127	radfahrenden	_	
+2-16	128-135	Kindern	_	
+2-17	136-139	von	*[4]	
+2-18	140-148	Endenich	*[4]	
+2-19	149-153	nach	*[4]	
+2-20	154-165	Poppelsdorf	*[4]	
+2-21	166-169	und	_	
+2-22	170-174	eine	_	
+2-23	175-188	hervorragende	_	
+2-24	189-199	Entlastung	_	
+2-25	200-203	für	_	
+2-26	204-207	die	_	
+2-27	208-217	parallele	_	
+2-28	218-233	Sebastianstraße	*	
+2-29	233-234	.	_	
+
+#Text=An der Carl-Troll-Straße fehlt lediglich ein markierter Überweg in Richtung des Fußwegs bzw. zur Karlrobert-Kreiten-Str.
+3-1	235-237	An	*[5]	
+3-2	238-241	der	*[5]	
+3-3	242-259	Carl-Troll-Straße	*[5]	
+3-4	260-265	fehlt	_	
+3-5	266-275	lediglich	_	
+3-6	276-279	ein	_	
+3-7	280-290	markierter	_	
+3-8	291-298	Überweg	_	
+3-9	299-301	in	_	
+3-10	302-310	Richtung	_	
+3-11	311-314	des	_	
+3-12	315-322	Fußwegs	_	
+3-13	323-326	bzw	_	
+3-14	326-327	.	_	
+3-15	328-331	zur	*[6]	
+3-16	332-354	Karlrobert-Kreiten-Str	*[6]	
+3-17	354-355	.	_	

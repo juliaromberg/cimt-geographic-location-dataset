@@ -1,0 +1,102 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schild für entgegenkommenden Verkehr
+1-1	0-6	Schild	_	
+1-2	7-10	für	_	
+1-3	11-28	entgegenkommenden	_	
+1-4	29-36	Verkehr	_	
+
+#Text=Als Radfahrer aus der Heerstraße Richtung Rosental kommend, hat man regelmäßig die Schwierigkeit, dass der aus dem Rosental auf die Kölnstraße stadteinwärts abbiegende Verkehr einem geradeausfahrenden Radfahrer die Vorfahrt nimmt, wohl auch, weil den Autofahrern oft nicht bewusst ist, dass es den Radlern erlaubt ist, aus der Heerstraße Richtung Rosental weiter geradeaus zu fahren (für Autofahrer ist das eine Einbahnstraße).
+2-1	39-42	Als	_	
+2-2	43-52	Radfahrer	_	
+2-3	53-56	aus	*[4]	
+2-4	57-60	der	*[4]	
+2-5	61-71	Heerstraße	*[4]	
+2-6	72-80	Richtung	*[4]	
+2-7	81-89	Rosental	*[4]	
+2-8	90-97	kommend	*[4]	
+2-9	97-98	,	_	
+2-10	99-102	hat	_	
+2-11	103-106	man	_	
+2-12	107-117	regelmäßig	_	
+2-13	118-121	die	_	
+2-14	122-135	Schwierigkeit	_	
+2-15	135-136	,	_	
+2-16	137-141	dass	_	
+2-17	142-145	der	_	
+2-18	146-149	aus	*[5]	
+2-19	150-153	dem	*[5]	
+2-20	154-162	Rosental	*[5]	
+2-21	163-166	auf	*[5]	
+2-22	167-170	die	*[5]	
+2-23	171-181	Kölnstraße	*[5]	
+2-24	182-195	stadteinwärts	*[5]	
+2-25	196-206	abbiegende	_	
+2-26	207-214	Verkehr	_	
+2-27	215-220	einem	_	
+2-28	221-239	geradeausfahrenden	_	
+2-29	240-249	Radfahrer	_	
+2-30	250-253	die	_	
+2-31	254-262	Vorfahrt	_	
+2-32	263-268	nimmt	_	
+2-33	268-269	,	_	
+2-34	270-274	wohl	_	
+2-35	275-279	auch	_	
+2-36	279-280	,	_	
+2-37	281-285	weil	_	
+2-38	286-289	den	_	
+2-39	290-301	Autofahrern	_	
+2-40	302-305	oft	_	
+2-41	306-311	nicht	_	
+2-42	312-319	bewusst	_	
+2-43	320-323	ist	_	
+2-44	323-324	,	_	
+2-45	325-329	dass	_	
+2-46	330-332	es	_	
+2-47	333-336	den	_	
+2-48	337-344	Radlern	_	
+2-49	345-352	erlaubt	_	
+2-50	353-356	ist	_	
+2-51	356-357	,	_	
+2-52	358-361	aus	*[6]	
+2-53	362-365	der	*[6]	
+2-54	366-376	Heerstraße	*[6]	
+2-55	377-385	Richtung	*[6]	
+2-56	386-394	Rosental	*[6]	
+2-57	395-401	weiter	*[6]	
+2-58	402-411	geradeaus	*[6]	
+2-59	412-414	zu	_	
+2-60	415-421	fahren	_	
+2-61	422-423	(	_	
+2-62	423-426	für	_	
+2-63	427-437	Autofahrer	_	
+2-64	438-441	ist	_	
+2-65	442-445	das	_	
+2-66	446-450	eine	_	
+2-67	451-464	Einbahnstraße	_	
+2-68	464-465	)	_	
+2-69	465-466	.	_	
+
+#Text=Hier sollte an der Ampel im Rosental bzw. am Eingang der Heerstraße deutlich darauf hingewiesen werden.
+3-1	467-471	Hier	_	
+3-2	472-478	sollte	_	
+3-3	479-481	an	*[7]	
+3-4	482-485	der	*[7]	
+3-5	486-491	Ampel	*[7]	
+3-6	492-494	im	*[7]	
+3-7	495-503	Rosental	*[7]	
+3-8	504-507	bzw	*[7]	
+3-9	507-508	.	*[7]	
+3-10	509-511	am	*[7]	
+3-11	512-519	Eingang	*[7]	
+3-12	520-523	der	*[7]	
+3-13	524-534	Heerstraße	*[7]	
+3-14	535-543	deutlich	_	
+3-15	544-550	darauf	_	
+3-16	551-562	hingewiesen	_	
+3-17	563-569	werden	_	
+3-18	569-570	.	_	

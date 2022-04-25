@@ -1,0 +1,51 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Poller am Eingang zum Spielplatz
+1-1	0-6	Poller	_	
+1-2	7-9	am	_	
+1-3	10-17	Eingang	_	
+1-4	18-21	zum	_	
+1-5	22-32	Spielplatz	_	
+
+#Text=Die Poller/Drängelgitter am nördlichen Eingang des Spielplatzes sollten entfernt oder durch andere ersetzt werden.
+2-1	35-38	Die	_	
+2-2	39-45	Poller	_	
+2-3	45-46	/	_	
+2-4	46-59	Drängelgitter	_	
+2-5	60-62	am	_	
+2-6	63-73	nördlichen	_	
+2-7	74-81	Eingang	_	
+2-8	82-85	des	_	
+2-9	86-98	Spielplatzes	_	
+2-10	99-106	sollten	_	
+2-11	107-115	entfernt	_	
+2-12	116-120	oder	_	
+2-13	121-126	durch	_	
+2-14	127-133	andere	_	
+2-15	134-141	ersetzt	_	
+2-16	142-148	werden	_	
+2-17	148-149	.	_	
+
+#Text=Mit der derzeitigen Lösung kommt mit dem Fahrrad mit Anhänger nicht ohne größere Umstände auf den Spielplatz.
+3-1	150-153	Mit	_	
+3-2	154-157	der	_	
+3-3	158-169	derzeitigen	_	
+3-4	170-176	Lösung	_	
+3-5	177-182	kommt	_	
+3-6	183-186	mit	_	
+3-7	187-190	dem	_	
+3-8	191-198	Fahrrad	_	
+3-9	199-202	mit	_	
+3-10	203-211	Anhänger	_	
+3-11	212-217	nicht	_	
+3-12	218-222	ohne	_	
+3-13	223-230	größere	_	
+3-14	231-239	Umstände	_	
+3-15	240-243	auf	_	
+3-16	244-247	den	_	
+3-17	248-258	Spielplatz	_	
+3-18	258-259	.	_	

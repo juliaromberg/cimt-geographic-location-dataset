@@ -1,0 +1,132 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Benutzungspflicht aufheben.
+1-1	0-17	Benutzungspflicht	_	
+1-2	18-26	aufheben	_	
+1-3	26-27	.	_	
+
+#Text=Bitte hier die Radwegbenutzungspflicht aufheben.
+2-1	30-35	Bitte	_	
+2-2	36-40	hier	_	
+2-3	41-44	die	_	
+2-4	45-68	Radwegbenutzungspflicht	_	
+2-5	69-77	aufheben	_	
+2-6	77-78	.	_	
+
+#Text=Für unsichere und langsamere Radfahrer bleibt der Radweg bestehen und wird ggf. durch Piktogramme o.ä. deutlicher abgegrenzt.
+3-1	79-82	Für	_	
+3-2	83-92	unsichere	_	
+3-3	93-96	und	_	
+3-4	97-107	langsamere	_	
+3-5	108-117	Radfahrer	_	
+3-6	118-124	bleibt	_	
+3-7	125-128	der	_	
+3-8	129-135	Radweg	_	
+3-9	136-144	bestehen	_	
+3-10	145-148	und	_	
+3-11	149-153	wird	_	
+3-12	154-157	ggf	_	
+3-13	157-158	.	_	
+3-14	159-164	durch	_	
+3-15	165-176	Piktogramme	_	
+3-16	177-180	o.ä	_	
+3-17	180-181	.	_	
+3-18	182-192	deutlicher	_	
+3-19	193-203	abgegrenzt	_	
+3-20	203-204	.	_	
+
+#Text=Es darf auch gerne durch die Radverkehrsführung suggestiv auf den dann nicht benutzungspflichtigen Radweg geleitet werden.
+4-1	205-207	Es	_	
+4-2	208-212	darf	_	
+4-3	213-217	auch	_	
+4-4	218-223	gerne	_	
+4-5	224-229	durch	_	
+4-6	230-233	die	_	
+4-7	234-252	Radverkehrsführung	_	
+4-8	253-262	suggestiv	_	
+4-9	263-266	auf	_	
+4-10	267-270	den	_	
+4-11	271-275	dann	_	
+4-12	276-281	nicht	_	
+4-13	282-303	benutzungspflichtigen	_	
+4-14	304-310	Radweg	_	
+4-15	311-319	geleitet	_	
+4-16	320-326	werden	_	
+4-17	326-327	.	_	
+
+#Text=Für schnelle Radfahrer kommt es hier aber bei den vielen Geschäften zu Konflikten mit Fußgängern.
+5-1	328-331	Für	_	
+5-2	332-340	schnelle	_	
+5-3	341-350	Radfahrer	_	
+5-4	351-356	kommt	_	
+5-5	357-359	es	_	
+5-6	360-364	hier	_	
+5-7	365-369	aber	_	
+5-8	370-373	bei	_	
+5-9	374-377	den	_	
+5-10	378-384	vielen	_	
+5-11	385-395	Geschäften	_	
+5-12	396-398	zu	_	
+5-13	399-409	Konflikten	_	
+5-14	410-413	mit	_	
+5-15	414-424	Fußgängern	_	
+5-16	424-425	.	_	
+
+#Text=Außerdem ist aktuell das direkte linksabbiegen auf die Sternenburgstr. verboten und man muss indirekt abbiegen, d. h. an zwei Ampeln warten.
+6-1	426-434	Außerdem	_	
+6-2	435-438	ist	_	
+6-3	439-446	aktuell	_	
+6-4	447-450	das	_	
+6-5	451-458	direkte	_	
+6-6	459-472	linksabbiegen	_	
+6-7	473-476	auf	_	
+6-8	477-480	die	_	
+6-9	481-495	Sternenburgstr	*[8]	
+6-10	495-496	.	*[8]	
+6-11	497-505	verboten	_	
+6-12	506-509	und	_	
+6-13	510-513	man	_	
+6-14	514-518	muss	_	
+6-15	519-527	indirekt	_	
+6-16	528-536	abbiegen	_	
+6-17	536-537	,	_	
+6-18	538-539	d	_	
+6-19	539-540	.	_	
+6-20	541-542	h	_	
+6-21	542-543	.	_	
+6-22	544-546	an	_	
+6-23	547-551	zwei	_	
+6-24	552-558	Ampeln	_	
+6-25	559-565	warten	_	
+6-26	565-566	.	_	
+
+#Text=Die Verkehrsbelastung ist hier mäßig, so dass m. E. keine besondere örtliche Gefahrenlage besteht, aufgrund derer Benutzungspflicht angeordnet werden darf.
+7-1	567-570	Die	_	
+7-2	571-588	Verkehrsbelastung	_	
+7-3	589-592	ist	_	
+7-4	593-597	hier	_	
+7-5	598-603	mäßig	_	
+7-6	603-604	,	_	
+7-7	605-607	so	_	
+7-8	608-612	dass	_	
+7-9	613-614	m	_	
+7-10	614-615	.	_	
+7-11	616-617	E	_	
+7-12	617-618	.	_	
+7-13	619-624	keine	_	
+7-14	625-634	besondere	_	
+7-15	635-643	örtliche	_	
+7-16	644-656	Gefahrenlage	_	
+7-17	657-664	besteht	_	
+7-18	664-665	,	_	
+7-19	666-674	aufgrund	_	
+7-20	675-680	derer	_	
+7-21	681-698	Benutzungspflicht	_	
+7-22	699-709	angeordnet	_	
+7-23	710-716	werden	_	
+7-24	717-721	darf	_	
+7-25	721-722	.	_	

@@ -1,0 +1,56 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vor der VHS gibt es keine Fahrradstellplätze
+1-1	0-3	Vor	*[6]	
+1-2	4-7	der	*[6]	
+1-3	8-11	VHS	*[6]	
+1-4	12-16	gibt	_	
+1-5	17-19	es	_	
+1-6	20-25	keine	_	
+1-7	26-44	Fahrradstellplätze	_	
+
+#Text=Am Haupteingang der VHS fehlen komplett Fahrradständer.
+2-1	47-49	Am	*[7]	
+2-2	50-62	Haupteingang	*[7]	
+2-3	63-66	der	*[7]	
+2-4	67-70	VHS	*[7]	
+2-5	71-77	fehlen	_	
+2-6	78-86	komplett	_	
+2-7	87-101	Fahrradständer	_	
+2-8	101-102	.	_	
+
+#Text=Dort stehen zu den Kurszeiten Mengen von Rädern.
+3-1	103-107	Dort	_	
+3-2	108-114	stehen	_	
+3-3	115-117	zu	_	
+3-4	118-121	den	_	
+3-5	122-132	Kurszeiten	_	
+3-6	133-139	Mengen	_	
+3-7	140-143	von	_	
+3-8	144-150	Rädern	_	
+3-9	150-151	.	_	
+
+#Text=Platz wäre zumindest schon mal da.
+4-1	152-157	Platz	_	
+4-2	158-162	wäre	_	
+4-3	163-172	zumindest	_	
+4-4	173-178	schon	_	
+4-5	179-182	mal	_	
+4-6	183-185	da	_	
+4-7	185-186	.	_	
+
+#Text=Ist das bei der Planung ernsthaft einfach vergessen worden?
+5-1	187-190	Ist	_	
+5-2	191-194	das	_	
+5-3	195-198	bei	_	
+5-4	199-202	der	_	
+5-5	203-210	Planung	_	
+5-6	211-220	ernsthaft	_	
+5-7	221-228	einfach	_	
+5-8	229-238	vergessen	_	
+5-9	239-245	worden	_	
+5-10	245-246	?	_	

@@ -1,0 +1,130 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße wird zur Durchfahrtsstraße!
+1-1	0-13	Fahrradstraße	_	
+1-2	14-18	wird	_	
+1-3	19-22	zur	_	
+1-4	23-40	Durchfahrtsstraße	_	
+1-5	40-41	!	_	
+
+#Text=Dass es in Bonn immer mehr Fahrradstraßen gibt, begrüße ich sehr.
+2-1	44-48	Dass	_	
+2-2	49-51	es	_	
+2-3	52-54	in	_	
+2-4	55-59	Bonn	*	
+2-5	60-65	immer	_	
+2-6	66-70	mehr	_	
+2-7	71-85	Fahrradstraßen	_	
+2-8	86-90	gibt	_	
+2-9	90-91	,	_	
+2-10	92-99	begrüße	_	
+2-11	100-103	ich	_	
+2-12	104-108	sehr	_	
+2-13	108-109	.	_	
+
+#Text=Diese sind nur für Anliegerautos geöffnet.
+3-1	110-115	Diese	_	
+3-2	116-120	sind	_	
+3-3	121-124	nur	_	
+3-4	125-128	für	_	
+3-5	129-142	Anliegerautos	_	
+3-6	143-151	geöffnet	_	
+3-7	151-152	.	_	
+
+#Text=Jedoch wird der Ahrweg und auch der Lahnweg morgens regelmäßig als Durchfahrtsstraße genutzt, um die Ampel in der Markusstr. zu umgehen.
+4-1	153-159	Jedoch	_	
+4-2	160-164	wird	_	
+4-3	165-168	der	_	
+4-4	169-175	Ahrweg	_	
+4-5	176-179	und	_	
+4-6	180-184	auch	_	
+4-7	185-188	der	*[8]	
+4-8	189-196	Lahnweg	*[8]	
+4-9	197-204	morgens	_	
+4-10	205-215	regelmäßig	_	
+4-11	216-219	als	_	
+4-12	220-237	Durchfahrtsstraße	_	
+4-13	238-245	genutzt	_	
+4-14	245-246	,	_	
+4-15	247-249	um	_	
+4-16	250-253	die	_	
+4-17	254-259	Ampel	_	
+4-18	260-262	in	_	
+4-19	263-266	der	_	
+4-20	267-276	Markusstr	*	
+4-21	276-277	.	_	
+4-22	278-280	zu	_	
+4-23	281-288	umgehen	_	
+4-24	288-289	.	_	
+
+#Text=Ich fahre dort fast jeden Morgen und schon oft klebte an meinem Hinterreifen ein drängelndes Auto, das so schnell wie möglich durch die Fahrradstraße wollte.
+5-1	290-293	Ich	_	
+5-2	294-299	fahre	_	
+5-3	300-304	dort	_	
+5-4	305-309	fast	_	
+5-5	310-315	jeden	_	
+5-6	316-322	Morgen	_	
+5-7	323-326	und	_	
+5-8	327-332	schon	_	
+5-9	333-336	oft	_	
+5-10	337-343	klebte	_	
+5-11	344-346	an	_	
+5-12	347-353	meinem	_	
+5-13	354-366	Hinterreifen	_	
+5-14	367-370	ein	_	
+5-15	371-382	drängelndes	_	
+5-16	383-387	Auto	_	
+5-17	387-388	,	_	
+5-18	389-392	das	_	
+5-19	393-395	so	_	
+5-20	396-403	schnell	_	
+5-21	404-407	wie	_	
+5-22	408-415	möglich	_	
+5-23	416-421	durch	_	
+5-24	422-425	die	_	
+5-25	426-439	Fahrradstraße	_	
+5-26	440-446	wollte	_	
+5-27	446-447	.	_	
+
+#Text=Klappt ja auch so gut, wenn es keine Kontrollen gibt :)
+6-1	448-454	Klappt	_	
+6-2	455-457	ja	_	
+6-3	458-462	auch	_	
+6-4	463-465	so	_	
+6-5	466-469	gut	_	
+6-6	469-470	,	_	
+6-7	471-475	wenn	_	
+6-8	476-478	es	_	
+6-9	479-484	keine	_	
+6-10	485-495	Kontrollen	_	
+6-11	496-500	gibt	_	
+6-12	501-502	:	_	
+6-13	502-503	)	_	
+
+#Text=Fahrradstraßen sind ja eine gute Initiative - nur sollte dann auch die Umsetzung kontrolliert werden, sonst bleiben sie ein Lippenbekenntnis.
+7-1	504-518	Fahrradstraßen	_	
+7-2	519-523	sind	_	
+7-3	524-526	ja	_	
+7-4	527-531	eine	_	
+7-5	532-536	gute	_	
+7-6	537-547	Initiative	_	
+7-7	548-549	-	_	
+7-8	550-553	nur	_	
+7-9	554-560	sollte	_	
+7-10	561-565	dann	_	
+7-11	566-570	auch	_	
+7-12	571-574	die	_	
+7-13	575-584	Umsetzung	_	
+7-14	585-597	kontrolliert	_	
+7-15	598-604	werden	_	
+7-16	604-605	,	_	
+7-17	606-611	sonst	_	
+7-18	612-619	bleiben	_	
+7-19	620-623	sie	_	
+7-20	624-627	ein	_	
+7-21	628-644	Lippenbekenntnis	_	
+7-22	644-645	.	_	

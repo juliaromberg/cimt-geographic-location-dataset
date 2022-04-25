@@ -1,0 +1,200 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schutzstreifen an der Kreuzung Muffendorfer Straße
+1-1	0-14	Schutzstreifen	_	
+1-2	15-17	an	*[10]	
+1-3	18-21	der	*[10]	
+1-4	22-30	Kreuzung	*[10]	
+1-5	31-43	Muffendorfer	*[10]	
+1-6	44-50	Straße	*[10]	
+
+#Text=An der Einmüdung Muffendorfer Straße auf die Kurfürstenallee/Deutschherrenstraße sind für Linksabbieger und gerade aus Fahrer Schutzstreifen vor der Ampel auf die Straße gemalt.
+2-1	53-55	An	*[11]	
+2-2	56-59	der	*[11]	
+2-3	60-69	Einmüdung	*[11]	
+2-4	70-82	Muffendorfer	*[11]	
+2-5	83-89	Straße	*[11]	
+2-6	90-93	auf	*[11]	
+2-7	94-97	die	*[11]	
+2-8	98-113	Kurfürstenallee	*[11]	
+2-9	113-114	/	*[11]	
+2-10	114-133	Deutschherrenstraße	*[11]	
+2-11	134-138	sind	_	
+2-12	139-142	für	_	
+2-13	143-156	Linksabbieger	_	
+2-14	157-160	und	_	
+2-15	161-167	gerade	_	
+2-16	168-171	aus	_	
+2-17	172-178	Fahrer	_	
+2-18	179-193	Schutzstreifen	_	
+2-19	194-197	vor	_	
+2-20	198-201	der	_	
+2-21	202-207	Ampel	_	
+2-22	208-211	auf	_	
+2-23	212-215	die	_	
+2-24	216-222	Straße	_	
+2-25	223-229	gemalt	_	
+2-26	229-230	.	_	
+
+#Text=Diese Schutzstreifen sind eine Frechheit und gemeingefährlich, denn sie sind so schmal, dass kaum ein Rad drauf Platz hat.
+3-1	231-236	Diese	_	
+3-2	237-251	Schutzstreifen	_	
+3-3	252-256	sind	_	
+3-4	257-261	eine	_	
+3-5	262-271	Frechheit	_	
+3-6	272-275	und	_	
+3-7	276-292	gemeingefährlich	_	
+3-8	292-293	,	_	
+3-9	294-298	denn	_	
+3-10	299-302	sie	_	
+3-11	303-307	sind	_	
+3-12	308-310	so	_	
+3-13	311-317	schmal	_	
+3-14	317-318	,	_	
+3-15	319-323	dass	_	
+3-16	324-328	kaum	_	
+3-17	329-332	ein	_	
+3-18	333-336	Rad	_	
+3-19	337-342	drauf	_	
+3-20	343-348	Platz	_	
+3-21	349-352	hat	_	
+3-22	352-353	.	_	
+
+#Text=Die Autospur ist ebenfalls extrem schmal was dazu führt, dass ein Radfahrer der als Linksabbieger an der Ampel wartet extrem gefährdet wird, da die Autos bergab mit 50 km/h als geradeausfahrer mit wenigen cm an dem Radfahrer vorbei rasen.
+4-1	354-357	Die	_	
+4-2	358-366	Autospur	_	
+4-3	367-370	ist	_	
+4-4	371-380	ebenfalls	_	
+4-5	381-387	extrem	_	
+4-6	388-394	schmal	_	
+4-7	395-398	was	_	
+4-8	399-403	dazu	_	
+4-9	404-409	führt	_	
+4-10	409-410	,	_	
+4-11	411-415	dass	_	
+4-12	416-419	ein	_	
+4-13	420-429	Radfahrer	_	
+4-14	430-433	der	_	
+4-15	434-437	als	_	
+4-16	438-451	Linksabbieger	_	
+4-17	452-454	an	_	
+4-18	455-458	der	_	
+4-19	459-464	Ampel	_	
+4-20	465-471	wartet	_	
+4-21	472-478	extrem	_	
+4-22	479-488	gefährdet	_	
+4-23	489-493	wird	_	
+4-24	493-494	,	_	
+4-25	495-497	da	_	
+4-26	498-501	die	_	
+4-27	502-507	Autos	_	
+4-28	508-514	bergab	_	
+4-29	515-518	mit	_	
+4-30	519-521	50	_	
+4-31	522-524	km	_	
+4-32	524-525	/	_	
+4-33	525-526	h	_	
+4-34	527-530	als	_	
+4-35	531-546	geradeausfahrer	_	
+4-36	547-550	mit	_	
+4-37	551-558	wenigen	_	
+4-38	559-561	cm	_	
+4-39	562-564	an	_	
+4-40	565-568	dem	_	
+4-41	569-578	Radfahrer	_	
+4-42	579-585	vorbei	_	
+4-43	586-591	rasen	_	
+4-44	591-592	.	_	
+
+#Text=Gerade Kinder nehmen die vermeindlichen Schutzstreifen sehr ernst und werden so unnötigen gefahren ausgesetzt, denn der Radfahrer muss sich weiter links stellen dürfen.
+5-1	593-599	Gerade	_	
+5-2	600-606	Kinder	_	
+5-3	607-613	nehmen	_	
+5-4	614-617	die	_	
+5-5	618-632	vermeindlichen	_	
+5-6	633-647	Schutzstreifen	_	
+5-7	648-652	sehr	_	
+5-8	653-658	ernst	_	
+5-9	659-662	und	_	
+5-10	663-669	werden	_	
+5-11	670-672	so	_	
+5-12	673-682	unnötigen	_	
+5-13	683-691	gefahren	_	
+5-14	692-702	ausgesetzt	_	
+5-15	702-703	,	_	
+5-16	704-708	denn	_	
+5-17	709-712	der	_	
+5-18	713-722	Radfahrer	_	
+5-19	723-727	muss	_	
+5-20	728-732	sich	_	
+5-21	733-739	weiter	_	
+5-22	740-745	links	_	
+5-23	746-753	stellen	_	
+5-24	754-760	dürfen	_	
+5-25	760-761	.	_	
+
+#Text=Ich sehe hier sogar Gefahr in Verzug.
+6-1	762-765	Ich	_	
+6-2	766-770	sehe	_	
+6-3	771-775	hier	_	
+6-4	776-781	sogar	_	
+6-5	782-788	Gefahr	_	
+6-6	789-791	in	_	
+6-7	792-798	Verzug	_	
+6-8	798-799	.	_	
+
+#Text=Die Angebotswege müssen weg!
+7-1	800-803	Die	_	
+7-2	804-816	Angebotswege	_	
+7-3	817-823	müssen	_	
+7-4	824-827	weg	_	
+7-5	827-828	!	_	
+
+#Text=Ein weiteres Problem ist, dass sich Autos auch noch neben den Radfahrer quetschen, weil es ja eine eigene Spur gibt und somit nur wenige cm neben dem Radfahrer halten.
+8-1	829-832	Ein	_	
+8-2	833-841	weiteres	_	
+8-3	842-849	Problem	_	
+8-4	850-853	ist	_	
+8-5	853-854	,	_	
+8-6	855-859	dass	_	
+8-7	860-864	sich	_	
+8-8	865-870	Autos	_	
+8-9	871-875	auch	_	
+8-10	876-880	noch	_	
+8-11	881-886	neben	_	
+8-12	887-890	den	_	
+8-13	891-900	Radfahrer	_	
+8-14	901-910	quetschen	_	
+8-15	910-911	,	_	
+8-16	912-916	weil	_	
+8-17	917-919	es	_	
+8-18	920-922	ja	_	
+8-19	923-927	eine	_	
+8-20	928-934	eigene	_	
+8-21	935-939	Spur	_	
+8-22	940-944	gibt	_	
+8-23	945-948	und	_	
+8-24	949-954	somit	_	
+8-25	955-958	nur	_	
+8-26	959-965	wenige	_	
+8-27	966-968	cm	_	
+8-28	969-974	neben	_	
+8-29	975-978	dem	_	
+8-30	979-988	Radfahrer	_	
+8-31	989-995	halten	_	
+8-32	995-996	.	_	
+
+#Text=Beim Losfahren kann dies zu gefährlichen Situationen führen.
+9-1	997-1001	Beim	_	
+9-2	1002-1011	Losfahren	_	
+9-3	1012-1016	kann	_	
+9-4	1017-1021	dies	_	
+9-5	1022-1024	zu	_	
+9-6	1025-1037	gefährlichen	_	
+9-7	1038-1049	Situationen	_	
+9-8	1050-1056	führen	_	
+9-9	1056-1057	.	_	

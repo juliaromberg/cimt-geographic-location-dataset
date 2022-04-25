@@ -1,0 +1,136 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rückverlegung der Haltelinien des Kfz-Verkehrs an den Ampeln im Zuge der Bornheimer Straße um mindestens 10 m
+1-1	0-13	Rückverlegung	_	
+1-2	14-17	der	_	
+1-3	18-29	Haltelinien	_	
+1-4	30-33	des	_	
+1-5	34-46	Kfz-Verkehrs	_	
+1-6	47-49	an	_	
+1-7	50-53	den	_	
+1-8	54-60	Ampeln	_	
+1-9	61-63	im	_	
+1-10	64-68	Zuge	_	
+1-11	69-72	der	_	
+1-12	73-83	Bornheimer	*[6]	
+1-13	84-90	Straße	*[6]	
+1-14	91-93	um	_	
+1-15	94-104	mindestens	_	
+1-16	105-107	10	_	
+1-17	108-109	m	_	
+
+#Text=Rückverlegung der Haltelinien des Kfz-Verkehrs an der Ampel im Zuge der Bornheimer Straße um mindestens 10 m, damit man den vorgezogenen Wartebereich für Linksabbieger Richtung Viktoriabrücke auch sicher vom Schutzstreifen erreichen kann.
+2-1	112-125	Rückverlegung	_	
+2-2	126-129	der	_	
+2-3	130-141	Haltelinien	_	
+2-4	142-145	des	_	
+2-5	146-158	Kfz-Verkehrs	_	
+2-6	159-161	an	_	
+2-7	162-165	der	_	
+2-8	166-171	Ampel	_	
+2-9	172-174	im	_	
+2-10	175-179	Zuge	_	
+2-11	180-183	der	_	
+2-12	184-194	Bornheimer	*[7]	
+2-13	195-201	Straße	*[7]	
+2-14	202-204	um	_	
+2-15	205-215	mindestens	_	
+2-16	216-218	10	_	
+2-17	219-220	m	_	
+2-18	220-221	,	_	
+2-19	222-227	damit	_	
+2-20	228-231	man	_	
+2-21	232-235	den	_	
+2-22	236-248	vorgezogenen	_	
+2-23	249-261	Wartebereich	*[8]	
+2-24	262-265	für	*[8]	
+2-25	266-279	Linksabbieger	*[8]	
+2-26	280-288	Richtung	*[8]	
+2-27	289-303	Viktoriabrücke	*[8]	
+2-28	304-308	auch	_	
+2-29	309-315	sicher	_	
+2-30	316-319	vom	_	
+2-31	320-334	Schutzstreifen	_	
+2-32	335-344	erreichen	_	
+2-33	345-349	kann	_	
+2-34	349-350	.	_	
+
+#Text=Wenn man kurz vor der Grünphase dort ankommt und nach links rüberwechseln möchte, passiert es oft, dass die Autos schon losfahren - lebensgefährlich!
+3-1	351-355	Wenn	_	
+3-2	356-359	man	_	
+3-3	360-364	kurz	_	
+3-4	365-368	vor	_	
+3-5	369-372	der	_	
+3-6	373-382	Grünphase	_	
+3-7	383-387	dort	_	
+3-8	388-395	ankommt	_	
+3-9	396-399	und	_	
+3-10	400-404	nach	_	
+3-11	405-410	links	_	
+3-12	411-424	rüberwechseln	_	
+3-13	425-431	möchte	_	
+3-14	431-432	,	_	
+3-15	433-441	passiert	_	
+3-16	442-444	es	_	
+3-17	445-448	oft	_	
+3-18	448-449	,	_	
+3-19	450-454	dass	_	
+3-20	455-458	die	_	
+3-21	459-464	Autos	_	
+3-22	465-470	schon	_	
+3-23	471-480	losfahren	_	
+3-24	481-482	-	_	
+3-25	483-499	lebensgefährlich	_	
+3-26	499-500	!	_	
+
+#Text=Und man muss eine scharfen Schwenk um 90 Grad machen, weil der Wartebereich für den Radverkehr unsinnig schmal ist.
+4-1	501-504	Und	_	
+4-2	505-508	man	_	
+4-3	509-513	muss	_	
+4-4	514-518	eine	_	
+4-5	519-527	scharfen	_	
+4-6	528-535	Schwenk	_	
+4-7	536-538	um	_	
+4-8	539-541	90	_	
+4-9	542-546	Grad	_	
+4-10	547-553	machen	_	
+4-11	553-554	,	_	
+4-12	555-559	weil	_	
+4-13	560-563	der	_	
+4-14	564-576	Wartebereich	_	
+4-15	577-580	für	_	
+4-16	581-584	den	_	
+4-17	585-595	Radverkehr	_	
+4-18	596-604	unsinnig	_	
+4-19	605-611	schmal	_	
+4-20	612-615	ist	_	
+4-21	615-616	.	_	
+
+#Text=Man kann übrigens auch die Ampel dort fast gar nicht erkennen, wenn man vorn an der Linie mit dem Fahrrad steht.
+5-1	617-620	Man	_	
+5-2	621-625	kann	_	
+5-3	626-634	übrigens	_	
+5-4	635-639	auch	_	
+5-5	640-643	die	_	
+5-6	644-649	Ampel	_	
+5-7	650-654	dort	_	
+5-8	655-659	fast	_	
+5-9	660-663	gar	_	
+5-10	664-669	nicht	_	
+5-11	670-678	erkennen	_	
+5-12	678-679	,	_	
+5-13	680-684	wenn	_	
+5-14	685-688	man	_	
+5-15	689-693	vorn	_	
+5-16	694-696	an	_	
+5-17	697-700	der	_	
+5-18	701-706	Linie	_	
+5-19	707-710	mit	_	
+5-20	711-714	dem	_	
+5-21	715-722	Fahrrad	_	
+5-22	723-728	steht	_	
+5-23	728-729	.	_	

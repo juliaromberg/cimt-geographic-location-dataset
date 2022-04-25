@@ -1,0 +1,152 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Warum?
+1-1	0-5	Warum	_	
+1-2	5-6	?	_	
+
+#Text=Warum sich die Arbeit machen und auf Stadtradeln und diesem Portal auf offensichtliche Missstände aufmerksam machen?
+2-1	9-14	Warum	_	
+2-2	15-19	sich	_	
+2-3	20-23	die	_	
+2-4	24-30	Arbeit	_	
+2-5	31-37	machen	_	
+2-6	38-41	und	_	
+2-7	42-45	auf	_	
+2-8	46-57	Stadtradeln	_	
+2-9	58-61	und	_	
+2-10	62-68	diesem	_	
+2-11	69-75	Portal	_	
+2-12	76-79	auf	_	
+2-13	80-95	offensichtliche	_	
+2-14	96-106	Missstände	_	
+2-15	107-117	aufmerksam	_	
+2-16	118-124	machen	_	
+2-17	124-125	?	_	
+
+#Text=Warum immernoch hoffen, dass die Politik, die Verwaltung, diese Umfrage und der fahrradbeauftragte Dilettant irgendetwas irgendwann zum Guten ändert?
+3-1	126-131	Warum	_	
+3-2	132-141	immernoch	_	
+3-3	142-148	hoffen	_	
+3-4	148-149	,	_	
+3-5	150-154	dass	_	
+3-6	155-158	die	_	
+3-7	159-166	Politik	_	
+3-8	166-167	,	_	
+3-9	168-171	die	_	
+3-10	172-182	Verwaltung	_	
+3-11	182-183	,	_	
+3-12	184-189	diese	_	
+3-13	190-197	Umfrage	_	
+3-14	198-201	und	_	
+3-15	202-205	der	_	
+3-16	206-224	fahrradbeauftragte	_	
+3-17	225-234	Dilettant	_	
+3-18	235-246	irgendetwas	_	
+3-19	247-257	irgendwann	_	
+3-20	258-261	zum	_	
+3-21	262-267	Guten	_	
+3-22	268-274	ändert	_	
+3-23	274-275	?	_	
+
+#Text=Warum glauben, dass sich ein Verantwortlicher diese Verbesserungswünsche auch nur einmal anschaut?
+4-1	276-281	Warum	_	
+4-2	282-289	glauben	_	
+4-3	289-290	,	_	
+4-4	291-295	dass	_	
+4-5	296-300	sich	_	
+4-6	301-304	ein	_	
+4-7	305-321	Verantwortlicher	_	
+4-8	322-327	diese	_	
+4-9	328-348	Verbesserungswünsche	_	
+4-10	349-353	auch	_	
+4-11	354-357	nur	_	
+4-12	358-364	einmal	_	
+4-13	365-373	anschaut	_	
+4-14	373-374	?	_	
+
+#Text=Weil die Hoffnung zuletzt stirbt.
+5-1	375-379	Weil	_	
+5-2	380-383	die	_	
+5-3	384-392	Hoffnung	_	
+5-4	393-400	zuletzt	_	
+5-5	401-407	stirbt	_	
+5-6	407-408	.	_	
+
+#Text=Auch wenn jeder der sich mit dem Thema Fahrradfahren in Köln auseinandergesetzt hat nach Jahren von Nichtstun, Verschlimmbessern und purer Unfähigkeit seitens der Stadt Köln davon träumt dass man irgendwann, oder vielleicht auch nur seine Enkel, irgendwann entspannter und ungefährdeter durch Ehrenfeld rollen können.
+6-1	409-413	Auch	_	
+6-2	414-418	wenn	_	
+6-3	419-424	jeder	_	
+6-4	425-428	der	_	
+6-5	429-433	sich	_	
+6-6	434-437	mit	_	
+6-7	438-441	dem	_	
+6-8	442-447	Thema	_	
+6-9	448-461	Fahrradfahren	_	
+6-10	462-464	in	*[8]	
+6-11	465-469	Köln	*[8]	
+6-12	470-488	auseinandergesetzt	_	
+6-13	489-492	hat	_	
+6-14	493-497	nach	_	
+6-15	498-504	Jahren	_	
+6-16	505-508	von	_	
+6-17	509-518	Nichtstun	_	
+6-18	518-519	,	_	
+6-19	520-537	Verschlimmbessern	_	
+6-20	538-541	und	_	
+6-21	542-547	purer	_	
+6-22	548-559	Unfähigkeit	_	
+6-23	560-567	seitens	_	
+6-24	568-571	der	_	
+6-25	572-577	Stadt	_	
+6-26	578-582	Köln	*	
+6-27	583-588	davon	_	
+6-28	589-595	träumt	_	
+6-29	596-600	dass	_	
+6-30	601-604	man	_	
+6-31	605-615	irgendwann	_	
+6-32	615-616	,	_	
+6-33	617-621	oder	_	
+6-34	622-632	vielleicht	_	
+6-35	633-637	auch	_	
+6-36	638-641	nur	_	
+6-37	642-647	seine	_	
+6-38	648-653	Enkel	_	
+6-39	653-654	,	_	
+6-40	655-665	irgendwann	_	
+6-41	666-677	entspannter	_	
+6-42	678-681	und	_	
+6-43	682-695	ungefährdeter	_	
+6-44	696-701	durch	_	
+6-45	702-711	Ehrenfeld	*	
+6-46	712-718	rollen	_	
+6-47	719-725	können	_	
+6-48	725-726	.	_	
+
+#Text=Bis dahin ist die Verwaltung die Kraft, die (angeblich) das Gute will und stets das Böse schafft...
+7-1	727-730	Bis	_	
+7-2	731-736	dahin	_	
+7-3	737-740	ist	_	
+7-4	741-744	die	_	
+7-5	745-755	Verwaltung	_	
+7-6	756-759	die	_	
+7-7	760-765	Kraft	_	
+7-8	765-766	,	_	
+7-9	767-770	die	_	
+7-10	771-772	(	_	
+7-11	772-781	angeblich	_	
+7-12	781-782	)	_	
+7-13	783-786	das	_	
+7-14	787-791	Gute	_	
+7-15	792-796	will	_	
+7-16	797-800	und	_	
+7-17	801-806	stets	_	
+7-18	807-810	das	_	
+7-19	811-815	Böse	_	
+7-20	816-823	schafft	_	
+7-21	823-824	.	_	
+7-22	824-825	.	_	
+7-23	825-826	.	_	

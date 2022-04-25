@@ -1,0 +1,86 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Maut für Autofahrer, die in die Innenstadt wollen, einführen
+1-1	0-4	Maut	_	
+1-2	5-8	für	_	
+1-3	9-19	Autofahrer	_	
+1-4	19-20	,	_	
+1-5	21-24	die	_	
+1-6	25-27	in	*[5]	
+1-7	28-31	die	*[5]	
+1-8	32-42	Innenstadt	*[5]	
+1-9	43-49	wollen	_	
+1-10	49-50	,	_	
+1-11	51-60	einführen	_	
+
+#Text=Die Nord- und Innenstadt ist inzwischen ganztägig von Autofahrern so derart bevölkert, dass man als RadfahrerIn von einer Gefahrensituation in die nächste schlittert.
+2-1	63-66	Die	*[6]	
+2-2	67-71	Nord	*[6]	
+2-3	71-72	-	*[6]	
+2-4	73-76	und	*[6]	
+2-5	77-87	Innenstadt	*[6]	
+2-6	88-91	ist	_	
+2-7	92-102	inzwischen	_	
+2-8	103-112	ganztägig	_	
+2-9	113-116	von	_	
+2-10	117-128	Autofahrern	_	
+2-11	129-131	so	_	
+2-12	132-138	derart	_	
+2-13	139-148	bevölkert	_	
+2-14	148-149	,	_	
+2-15	150-154	dass	_	
+2-16	155-158	man	_	
+2-17	159-162	als	_	
+2-18	163-174	RadfahrerIn	_	
+2-19	175-178	von	_	
+2-20	179-184	einer	_	
+2-21	185-202	Gefahrensituation	_	
+2-22	203-205	in	_	
+2-23	206-209	die	_	
+2-24	210-217	nächste	_	
+2-25	218-228	schlittert	_	
+2-26	228-229	.	_	
+
+#Text=Eine Maut für Autofahrer würde die Innenstadt sicherlich entlasten.
+3-1	230-234	Eine	_	
+3-2	235-239	Maut	_	
+3-3	240-243	für	_	
+3-4	244-254	Autofahrer	_	
+3-5	255-260	würde	_	
+3-6	261-264	die	*[7]	
+3-7	265-275	Innenstadt	*[7]	
+3-8	276-286	sicherlich	_	
+3-9	287-296	entlasten	_	
+3-10	296-297	.	_	
+
+#Text=Am Besten einführen, bevor der Weihnachtsmarkt beginnt und man garnicht mehr durchkommt, da alle Straßen und Kreuzungen von sich stauenden Autos verstellt sind.
+4-1	298-300	Am	_	
+4-2	301-307	Besten	_	
+4-3	308-317	einführen	_	
+4-4	317-318	,	_	
+4-5	319-324	bevor	_	
+4-6	325-328	der	_	
+4-7	329-344	Weihnachtsmarkt	_	
+4-8	345-352	beginnt	_	
+4-9	353-356	und	_	
+4-10	357-360	man	_	
+4-11	361-369	garnicht	_	
+4-12	370-374	mehr	_	
+4-13	375-385	durchkommt	_	
+4-14	385-386	,	_	
+4-15	387-389	da	_	
+4-16	390-394	alle	_	
+4-17	395-402	Straßen	_	
+4-18	403-406	und	_	
+4-19	407-417	Kreuzungen	_	
+4-20	418-421	von	_	
+4-21	422-426	sich	_	
+4-22	427-436	stauenden	_	
+4-23	437-442	Autos	_	
+4-24	443-452	verstellt	_	
+4-25	453-457	sind	_	
+4-26	457-458	.	_	

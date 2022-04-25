@@ -1,0 +1,109 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Poppelsdorfer Unterführung endlich für Fahrräder freigeben
+1-1	0-13	Poppelsdorfer	*[6]	
+1-2	14-26	Unterführung	*[6]	
+1-3	27-34	endlich	_	
+1-4	35-38	für	_	
+1-5	39-48	Fahrräder	_	
+1-6	49-58	freigeben	_	
+
+#Text=Man kann es gar nicht oft genug sagen: eine fahrbare Route durch den Bahnhof muss endlich her.
+2-1	61-64	Man	_	
+2-2	65-69	kann	_	
+2-3	70-72	es	_	
+2-4	73-76	gar	_	
+2-5	77-82	nicht	_	
+2-6	83-86	oft	_	
+2-7	87-92	genug	_	
+2-8	93-98	sagen	_	
+2-9	98-99	:	_	
+2-10	100-104	eine	_	
+2-11	105-113	fahrbare	_	
+2-12	114-119	Route	_	
+2-13	120-125	durch	_	
+2-14	126-129	den	_	
+2-15	130-137	Bahnhof	_	
+2-16	138-142	muss	_	
+2-17	143-150	endlich	_	
+2-18	151-154	her	_	
+2-19	154-155	.	_	
+
+#Text=Die Poppelsdorfer Unterführung ist noch am besten geeignet.
+3-1	156-159	Die	*[7]	
+3-2	160-173	Poppelsdorfer	*[7]	
+3-3	174-186	Unterführung	*[7]	
+3-4	187-190	ist	_	
+3-5	191-195	noch	_	
+3-6	196-198	am	_	
+3-7	199-205	besten	_	
+3-8	206-214	geeignet	_	
+3-9	214-215	.	_	
+
+#Text=Wenn man die Läden schließt und hälftig für Fußgänger und hälftig für Radfahrer freigibt, gäbe es endlich eine Möglichkeit von Weststadt/Endenich/Poppelsdorf etc. in die Stadt/an den Rhein/nach Beuel etc. zu fahren.
+4-1	216-220	Wenn	_	
+4-2	221-224	man	_	
+4-3	225-228	die	_	
+4-4	229-234	Läden	_	
+4-5	235-243	schließt	_	
+4-6	244-247	und	_	
+4-7	248-255	hälftig	_	
+4-8	256-259	für	_	
+4-9	260-269	Fußgänger	_	
+4-10	270-273	und	_	
+4-11	274-281	hälftig	_	
+4-12	282-285	für	_	
+4-13	286-295	Radfahrer	_	
+4-14	296-304	freigibt	_	
+4-15	304-305	,	_	
+4-16	306-310	gäbe	_	
+4-17	311-313	es	_	
+4-18	314-321	endlich	_	
+4-19	322-326	eine	_	
+4-20	327-338	Möglichkeit	_	
+4-21	339-342	von	*[8]	
+4-22	343-352	Weststadt	*[8]	
+4-23	352-353	/	*[8]	
+4-24	353-361	Endenich	*[8]	
+4-25	361-362	/	*[8]	
+4-26	362-373	Poppelsdorf	*[8]	
+4-27	374-377	etc	*[8]	
+4-28	377-378	.	*[8]	
+4-29	379-381	in	*[8]	
+4-30	382-385	die	*[8]	
+4-31	386-391	Stadt	*[8]	
+4-32	391-392	/	*[8]	
+4-33	392-394	an	*[8]	
+4-34	395-398	den	*[8]	
+4-35	399-404	Rhein	*[8]	
+4-36	404-405	/	*[8]	
+4-37	405-409	nach	*[8]	
+4-38	410-415	Beuel	*[8]	
+4-39	416-419	etc	*[8]	
+4-40	419-420	.	*[8]	
+4-41	421-423	zu	_	
+4-42	424-430	fahren	_	
+4-43	430-431	.	_	
+
+#Text=Der Radweg auf der Kaiserstraße ist an vielen Stellen übrigens deutlich schmaler als die halbe Unterführung.
+5-1	432-435	Der	*[9]	
+5-2	436-442	Radweg	*[9]	
+5-3	443-446	auf	*[9]	
+5-4	447-450	der	*[9]	
+5-5	451-463	Kaiserstraße	*[9]	
+5-6	464-467	ist	_	
+5-7	468-470	an	_	
+5-8	471-477	vielen	_	
+5-9	478-485	Stellen	_	
+5-10	486-494	übrigens	_	
+5-11	495-503	deutlich	_	
+5-12	504-512	schmaler	_	
+5-13	513-516	als	_	
+5-14	517-520	die	_	
+5-15	521-526	halbe	_	
+5-16	527-539	Unterführung	_	
+5-17	539-540	.	_	

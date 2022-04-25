@@ -1,0 +1,24 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlechte Radwegqualität Oskar-Jäger-Str
+1-1	0-9	Schlechte	_	
+1-2	10-24	Radwegqualität	_	
+1-3	25-40	Oskar-Jäger-Str	*	
+
+#Text=Der Fahrradweg Oskarjägerstr Richtung stadtauswärts zwischen Widdersdorfer und Vogelsanger ist renovierungsbedürftig.
+2-1	43-46	Der	*[3]	
+2-2	47-57	Fahrradweg	*[3]	
+2-3	58-71	Oskarjägerstr	*[3]	
+2-4	72-80	Richtung	*[3]	
+2-5	81-94	stadtauswärts	*[3]	
+2-6	95-103	zwischen	*[3]	
+2-7	104-117	Widdersdorfer	*[3]	
+2-8	118-121	und	*[3]	
+2-9	122-133	Vogelsanger	*[3]	
+2-10	134-137	ist	_	
+2-11	138-159	renovierungsbedürftig	_	
+2-12	159-160	.	_	

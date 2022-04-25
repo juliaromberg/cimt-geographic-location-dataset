@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unnötiger Pfosten
+1-1	0-9	Unnötiger	_	
+1-2	10-17	Pfosten	_	
+
+#Text=Auf diesem kurzen Rad/Fußverbindungsweg steht ein rot-weißer Pfosten.
+2-1	20-23	Auf	_	
+2-2	24-30	diesem	_	
+2-3	31-37	kurzen	_	
+2-4	38-41	Rad	_	
+2-5	41-42	/	_	
+2-6	42-59	Fußverbindungsweg	_	
+2-7	60-65	steht	_	
+2-8	66-69	ein	_	
+2-9	70-80	rot-weißer	_	
+2-10	81-88	Pfosten	_	
+2-11	88-89	.	_	
+
+#Text=Der Weg ist so schmal dass PKWs eh nicht durchpassen, aber als Radler muss man immer 'drumherum' fahren.
+3-1	90-93	Der	_	
+3-2	94-97	Weg	_	
+3-3	98-101	ist	_	
+3-4	102-104	so	_	
+3-5	105-111	schmal	_	
+3-6	112-116	dass	_	
+3-7	117-121	PKWs	_	
+3-8	122-124	eh	_	
+3-9	125-130	nicht	_	
+3-10	131-142	durchpassen	_	
+3-11	142-143	,	_	
+3-12	144-148	aber	_	
+3-13	149-152	als	_	
+3-14	153-159	Radler	_	
+3-15	160-164	muss	_	
+3-16	165-168	man	_	
+3-17	169-174	immer	_	
+3-18	175-176	'	_	
+3-19	176-185	drumherum	_	
+3-20	185-186	'	_	
+3-21	187-193	fahren	_	
+3-22	193-194	.	_	
+
+#Text=Der Pfosten kann sicherlich entfernt werden.
+4-1	195-198	Der	_	
+4-2	199-206	Pfosten	_	
+4-3	207-211	kann	_	
+4-4	212-222	sicherlich	_	
+4-5	223-231	entfernt	_	
+4-6	232-238	werden	_	
+4-7	238-239	.	_	

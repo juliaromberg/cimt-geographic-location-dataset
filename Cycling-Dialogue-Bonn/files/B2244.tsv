@@ -1,0 +1,290 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg viel zu eng für die Anzahl der Nutzer
+1-1	0-10	Fahrradweg	_	
+1-2	11-15	viel	_	
+1-3	16-18	zu	_	
+1-4	19-22	eng	_	
+1-5	23-26	für	_	
+1-6	27-30	die	_	
+1-7	31-37	Anzahl	_	
+1-8	38-41	der	_	
+1-9	42-48	Nutzer	_	
+
+#Text=Der Radweg neben der Kaiserstraße ist eine Art Hauptverkehrsweg für Fahrradfahrer.
+2-1	51-54	Der	*[14]	
+2-2	55-61	Radweg	*[14]	
+2-3	62-67	neben	*[14]	
+2-4	68-71	der	*[14]	
+2-5	72-84	Kaiserstraße	*[14]	
+2-6	85-88	ist	_	
+2-7	89-93	eine	_	
+2-8	94-97	Art	_	
+2-9	98-114	Hauptverkehrsweg	_	
+2-10	115-118	für	_	
+2-11	119-132	Fahrradfahrer	_	
+2-12	132-133	.	_	
+
+#Text=Der Weg ist aber viel zu eng, an vielen Stellen kommen kaum zwei entgegenkommende Räder aneinander vorbei.
+3-1	134-137	Der	_	
+3-2	138-141	Weg	_	
+3-3	142-145	ist	_	
+3-4	146-150	aber	_	
+3-5	151-155	viel	_	
+3-6	156-158	zu	_	
+3-7	159-162	eng	_	
+3-8	162-163	,	_	
+3-9	164-166	an	_	
+3-10	167-173	vielen	_	
+3-11	174-181	Stellen	_	
+3-12	182-188	kommen	_	
+3-13	189-193	kaum	_	
+3-14	194-198	zwei	_	
+3-15	199-215	entgegenkommende	_	
+3-16	216-221	Räder	_	
+3-17	222-232	aneinander	_	
+3-18	233-239	vorbei	_	
+3-19	239-240	.	_	
+
+#Text=Wenn dann ein Rad mit Anhänger für Kinder dabei ist (und an der Strecke sind Kitas!) ist es erst recht eng.
+4-1	241-245	Wenn	_	
+4-2	246-250	dann	_	
+4-3	251-254	ein	_	
+4-4	255-258	Rad	_	
+4-5	259-262	mit	_	
+4-6	263-271	Anhänger	_	
+4-7	272-275	für	_	
+4-8	276-282	Kinder	_	
+4-9	283-288	dabei	_	
+4-10	289-292	ist	_	
+4-11	293-294	(	_	
+4-12	294-297	und	_	
+4-13	298-300	an	_	
+4-14	301-304	der	_	
+4-15	305-312	Strecke	_	
+4-16	313-317	sind	_	
+4-17	318-323	Kitas	_	
+4-18	323-324	!	_	
+4-19	324-325	)	_	
+4-20	326-329	ist	_	
+4-21	330-332	es	_	
+4-22	333-337	erst	_	
+4-23	338-343	recht	_	
+4-24	344-347	eng	_	
+4-25	347-348	.	_	
+
+#Text=Da die Fahrbahn für den Verkehr in beide Richtung ebenfalls sehr eng, drängen sich Busfahrer teilweise so eng am Radweg vorbei, dass man nur mit Mühe dem Außenspiegel ausweichen kann.
+5-1	349-351	Da	_	
+5-2	352-355	die	_	
+5-3	356-364	Fahrbahn	_	
+5-4	365-368	für	_	
+5-5	369-372	den	_	
+5-6	373-380	Verkehr	_	
+5-7	381-383	in	_	
+5-8	384-389	beide	_	
+5-9	390-398	Richtung	_	
+5-10	399-408	ebenfalls	_	
+5-11	409-413	sehr	_	
+5-12	414-417	eng	_	
+5-13	417-418	,	_	
+5-14	419-426	drängen	_	
+5-15	427-431	sich	_	
+5-16	432-441	Busfahrer	_	
+5-17	442-451	teilweise	_	
+5-18	452-454	so	_	
+5-19	455-458	eng	_	
+5-20	459-461	am	_	
+5-21	462-468	Radweg	_	
+5-22	469-475	vorbei	_	
+5-23	475-476	,	_	
+5-24	477-481	dass	_	
+5-25	482-485	man	_	
+5-26	486-489	nur	_	
+5-27	490-493	mit	_	
+5-28	494-498	Mühe	_	
+5-29	499-502	dem	_	
+5-30	503-515	Außenspiegel	_	
+5-31	516-526	ausweichen	_	
+5-32	527-531	kann	_	
+5-33	531-532	.	_	
+
+#Text=Außerdem sollte es mehr Unterführungen unter der Bahn für Radfahrer umgebaut werden.
+6-1	533-541	Außerdem	_	
+6-2	542-548	sollte	_	
+6-3	549-551	es	_	
+6-4	552-556	mehr	_	
+6-5	557-571	Unterführungen	_	
+6-6	572-577	unter	_	
+6-7	578-581	der	_	
+6-8	582-586	Bahn	_	
+6-9	587-590	für	_	
+6-10	591-600	Radfahrer	_	
+6-11	601-609	umgebaut	_	
+6-12	610-616	werden	_	
+6-13	616-617	.	_	
+
+#Text=Das würde vor allem auch für Rollstuhlfahrer und Kinderwagen die Situation verbessern.
+7-1	618-621	Das	_	
+7-2	622-627	würde	_	
+7-3	628-631	vor	_	
+7-4	632-637	allem	_	
+7-5	638-642	auch	_	
+7-6	643-646	für	_	
+7-7	647-662	Rollstuhlfahrer	_	
+7-8	663-666	und	_	
+7-9	667-678	Kinderwagen	_	
+7-10	679-682	die	_	
+7-11	683-692	Situation	_	
+7-12	693-703	verbessern	_	
+7-13	703-704	.	_	
+
+#Text=Ein Fahrrad kann man notfalls auch mal die Treppe runter tragen - auch wenn das mit gehobener Gaderode fürs Büro oder mit Einkäufen beladen eher schlecht ist - aber als Rollstuhlfahrer fehlt diese Möglichkeit komplett.
+8-1	705-708	Ein	_	
+8-2	709-716	Fahrrad	_	
+8-3	717-721	kann	_	
+8-4	722-725	man	_	
+8-5	726-734	notfalls	_	
+8-6	735-739	auch	_	
+8-7	740-743	mal	_	
+8-8	744-747	die	_	
+8-9	748-754	Treppe	_	
+8-10	755-761	runter	_	
+8-11	762-768	tragen	_	
+8-12	769-770	-	_	
+8-13	771-775	auch	_	
+8-14	776-780	wenn	_	
+8-15	781-784	das	_	
+8-16	785-788	mit	_	
+8-17	789-798	gehobener	_	
+8-18	799-807	Gaderode	_	
+8-19	808-812	fürs	_	
+8-20	813-817	Büro	_	
+8-21	818-822	oder	_	
+8-22	823-826	mit	_	
+8-23	827-836	Einkäufen	_	
+8-24	837-844	beladen	_	
+8-25	845-849	eher	_	
+8-26	850-858	schlecht	_	
+8-27	859-862	ist	_	
+8-28	863-864	-	_	
+8-29	865-869	aber	_	
+8-30	870-873	als	_	
+8-31	874-889	Rollstuhlfahrer	_	
+8-32	890-895	fehlt	_	
+8-33	896-901	diese	_	
+8-34	902-913	Möglichkeit	_	
+8-35	914-922	komplett	_	
+8-36	922-923	.	_	
+
+#Text=Wenn durch die teilweise unzumutbar langen Schließzeiten der Schranken oder Umwegen, die mit dem Fahrrad länger dauern, sich die Fahrzeit verdoppelt, ist das schon abstrus und bei schlechtem Wetter nicht gerade angenehm.
+9-1	924-928	Wenn	_	
+9-2	929-934	durch	_	
+9-3	935-938	die	_	
+9-4	939-948	teilweise	_	
+9-5	949-959	unzumutbar	_	
+9-6	960-966	langen	_	
+9-7	967-980	Schließzeiten	_	
+9-8	981-984	der	_	
+9-9	985-994	Schranken	_	
+9-10	995-999	oder	_	
+9-11	1000-1007	Umwegen	_	
+9-12	1007-1008	,	_	
+9-13	1009-1012	die	_	
+9-14	1013-1016	mit	_	
+9-15	1017-1020	dem	_	
+9-16	1021-1028	Fahrrad	_	
+9-17	1029-1035	länger	_	
+9-18	1036-1042	dauern	_	
+9-19	1042-1043	,	_	
+9-20	1044-1048	sich	_	
+9-21	1049-1052	die	_	
+9-22	1053-1061	Fahrzeit	_	
+9-23	1062-1072	verdoppelt	_	
+9-24	1072-1073	,	_	
+9-25	1074-1077	ist	_	
+9-26	1078-1081	das	_	
+9-27	1082-1087	schon	_	
+9-28	1088-1095	abstrus	_	
+9-29	1096-1099	und	_	
+9-30	1100-1103	bei	_	
+9-31	1104-1114	schlechtem	_	
+9-32	1115-1121	Wetter	_	
+9-33	1122-1127	nicht	_	
+9-34	1128-1134	gerade	_	
+9-35	1135-1143	angenehm	_	
+9-36	1143-1144	.	_	
+
+#Text=Als Radfahrer warten man schließlich nicht im warmen, trockenem Innenraum sondern in Wind und Wetter.
+10-1	1145-1148	Als	_	
+10-2	1149-1158	Radfahrer	_	
+10-3	1159-1165	warten	_	
+10-4	1166-1169	man	_	
+10-5	1170-1181	schließlich	_	
+10-6	1182-1187	nicht	_	
+10-7	1188-1190	im	_	
+10-8	1191-1197	warmen	_	
+10-9	1197-1198	,	_	
+10-10	1199-1208	trockenem	_	
+10-11	1209-1218	Innenraum	_	
+10-12	1219-1226	sondern	_	
+10-13	1227-1229	in	_	
+10-14	1230-1234	Wind	_	
+10-15	1235-1238	und	_	
+10-16	1239-1245	Wetter	_	
+10-17	1245-1246	.	_	
+
+#Text=Die Stadt sollte ein deutliches Zeichen setzen, wenn sie ernsthaft den Radverkehr fördern möchte.
+11-1	1247-1250	Die	_	
+11-2	1251-1256	Stadt	_	
+11-3	1257-1263	sollte	_	
+11-4	1264-1267	ein	_	
+11-5	1268-1278	deutliches	_	
+11-6	1279-1286	Zeichen	_	
+11-7	1287-1293	setzen	_	
+11-8	1293-1294	,	_	
+11-9	1295-1299	wenn	_	
+11-10	1300-1303	sie	_	
+11-11	1304-1313	ernsthaft	_	
+11-12	1314-1317	den	_	
+11-13	1318-1328	Radverkehr	_	
+11-14	1329-1336	fördern	_	
+11-15	1337-1343	möchte	_	
+11-16	1343-1344	.	_	
+
+#Text=Die Bonner Straßen sind an vielen Stellen schlicht zu eng für mehrspurigen Autoverkehr und Radverkehr in zwei Richtungen.
+12-1	1345-1348	Die	_	
+12-2	1349-1355	Bonner	_	
+12-3	1356-1363	Straßen	_	
+12-4	1364-1368	sind	_	
+12-5	1369-1371	an	_	
+12-6	1372-1378	vielen	_	
+12-7	1379-1386	Stellen	_	
+12-8	1387-1395	schlicht	_	
+12-9	1396-1398	zu	_	
+12-10	1399-1402	eng	_	
+12-11	1403-1406	für	_	
+12-12	1407-1419	mehrspurigen	_	
+12-13	1420-1431	Autoverkehr	_	
+12-14	1432-1435	und	_	
+12-15	1436-1446	Radverkehr	_	
+12-16	1447-1449	in	_	
+12-17	1450-1454	zwei	_	
+12-18	1455-1465	Richtungen	_	
+12-19	1465-1466	.	_	
+
+#Text=Da bleibt nur eine klare Entscheidung und Priorisierung der Verkehrsmittel.
+13-1	1467-1469	Da	_	
+13-2	1470-1476	bleibt	_	
+13-3	1477-1480	nur	_	
+13-4	1481-1485	eine	_	
+13-5	1486-1491	klare	_	
+13-6	1492-1504	Entscheidung	_	
+13-7	1505-1508	und	_	
+13-8	1509-1522	Priorisierung	_	
+13-9	1523-1526	der	_	
+13-10	1527-1541	Verkehrsmittel	_	
+13-11	1541-1542	.	_	

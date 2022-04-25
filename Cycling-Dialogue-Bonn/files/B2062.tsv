@@ -1,0 +1,177 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Querung der Straße um auf den Boulevard zu kommen
+1-1	0-11	Gefährliche	_	
+1-2	12-19	Querung	_	
+1-3	20-23	der	_	
+1-4	24-30	Straße	_	
+1-5	31-33	um	_	
+1-6	34-37	auf	*[12]	
+1-7	38-41	den	*[12]	
+1-8	42-51	Boulevard	*[12]	
+1-9	52-54	zu	_	
+1-10	55-61	kommen	_	
+
+#Text=So schön die umgebaute Heussallee mit ihrem Boulevard auch sein mag: Für Radfahrer hat sich die Situation nach dem Umbau verschlechtert.
+2-1	64-66	So	_	
+2-2	67-72	schön	_	
+2-3	73-76	die	_	
+2-4	77-86	umgebaute	_	
+2-5	87-97	Heussallee	*	
+2-6	98-101	mit	_	
+2-7	102-107	ihrem	_	
+2-8	108-117	Boulevard	_	
+2-9	118-122	auch	_	
+2-10	123-127	sein	_	
+2-11	128-131	mag	_	
+2-12	131-132	:	_	
+2-13	133-136	Für	_	
+2-14	137-146	Radfahrer	_	
+2-15	147-150	hat	_	
+2-16	151-155	sich	_	
+2-17	156-159	die	_	
+2-18	160-169	Situation	_	
+2-19	170-174	nach	_	
+2-20	175-178	dem	_	
+2-21	179-184	Umbau	_	
+2-22	185-199	verschlechtert	_	
+2-23	199-200	.	_	
+
+#Text=Die Fahrspuren sind schmäler geworden, der vorher vorhandene abgezeichnete Radstreifen ist weggefallen.
+3-1	201-204	Die	_	
+3-2	205-215	Fahrspuren	_	
+3-3	216-220	sind	_	
+3-4	221-229	schmäler	_	
+3-5	230-238	geworden	_	
+3-6	238-239	,	_	
+3-7	240-243	der	_	
+3-8	244-250	vorher	_	
+3-9	251-261	vorhandene	_	
+3-10	262-275	abgezeichnete	_	
+3-11	276-287	Radstreifen	_	
+3-12	288-291	ist	_	
+3-13	292-303	weggefallen	_	
+3-14	303-304	.	_	
+
+#Text=Möchte man dieser Situation entkommen, so muss man in Richtung Rhein auf den Boulevard auf der anderen Straßenseite.
+4-1	305-311	Möchte	_	
+4-2	312-315	man	_	
+4-3	316-322	dieser	_	
+4-4	323-332	Situation	_	
+4-5	333-342	entkommen	_	
+4-6	342-343	,	_	
+4-7	344-346	so	_	
+4-8	347-351	muss	_	
+4-9	352-355	man	_	
+4-10	356-358	in	*[13]	
+4-11	359-367	Richtung	*[13]	
+4-12	368-373	Rhein	*[13]	
+4-13	374-377	auf	*[13]	
+4-14	378-381	den	*[13]	
+4-15	382-391	Boulevard	*[13]	
+4-16	392-395	auf	_	
+4-17	396-399	der	_	
+4-18	400-407	anderen	_	
+4-19	408-420	Straßenseite	_	
+4-20	420-421	.	_	
+
+#Text=Die erste Möglichkeit ergibt sich an der Schlegelstraße.
+5-1	422-425	Die	_	
+5-2	426-431	erste	_	
+5-3	432-443	Möglichkeit	_	
+5-4	444-450	ergibt	_	
+5-5	451-455	sich	_	
+5-6	456-458	an	*[14]	
+5-7	459-462	der	*[14]	
+5-8	463-477	Schlegelstraße	*[14]	
+5-9	477-478	.	_	
+
+#Text=Allerdings ist dies heikel: Die Heussallee wird genau an dieser Stelle in Richtung Friedrich-Ebert-Allee zweispurig.
+6-1	479-489	Allerdings	_	
+6-2	490-493	ist	_	
+6-3	494-498	dies	_	
+6-4	499-505	heikel	_	
+6-5	505-506	:	_	
+6-6	507-510	Die	*[15]	
+6-7	511-521	Heussallee	*[15]	
+6-8	522-526	wird	_	
+6-9	527-532	genau	_	
+6-10	533-535	an	*[16]	
+6-11	536-542	dieser	*[16]	
+6-12	543-549	Stelle	*[16]	
+6-13	550-552	in	*[16]	
+6-14	553-561	Richtung	*[16]	
+6-15	562-583	Friedrich-Ebert-Allee	*[16]	
+6-16	584-594	zweispurig	_	
+6-17	594-595	.	_	
+
+#Text=Kurz vorher befindet sich eine Bushaltestelle.
+7-1	596-600	Kurz	_	
+7-2	601-607	vorher	_	
+7-3	608-616	befindet	_	
+7-4	617-621	sich	_	
+7-5	622-626	eine	_	
+7-6	627-641	Bushaltestelle	_	
+7-7	641-642	.	_	
+
+#Text=Im Berufsverkehr ist die Stelle vielbefahren.
+8-1	643-645	Im	_	
+8-2	646-659	Berufsverkehr	_	
+8-3	660-663	ist	_	
+8-4	664-667	die	_	
+8-5	668-674	Stelle	_	
+8-6	675-687	vielbefahren	_	
+8-7	687-688	.	_	
+
+#Text=Gerne versperren aus der Schlegelstraße kommende Rechtsabbieger den Weg.
+9-1	689-694	Gerne	_	
+9-2	695-705	versperren	_	
+9-3	706-709	aus	*[17]	
+9-4	710-713	der	*[17]	
+9-5	714-728	Schlegelstraße	*[17]	
+9-6	729-737	kommende	*[17]	
+9-7	738-752	Rechtsabbieger	_	
+9-8	753-756	den	_	
+9-9	757-760	Weg	_	
+9-10	760-761	.	_	
+
+#Text=Ich finde die Situation für Radler hier sehr schlecht gelöst und frage mich außerdem, warum die Bordsteinkanten des Boulevards nicht bis zur Straße abgesenkt sind.
+10-1	762-765	Ich	_	
+10-2	766-771	finde	_	
+10-3	772-775	die	_	
+10-4	776-785	Situation	_	
+10-5	786-789	für	_	
+10-6	790-796	Radler	_	
+10-7	797-801	hier	_	
+10-8	802-806	sehr	_	
+10-9	807-815	schlecht	_	
+10-10	816-822	gelöst	_	
+10-11	823-826	und	_	
+10-12	827-832	frage	_	
+10-13	833-837	mich	_	
+10-14	838-846	außerdem	_	
+10-15	846-847	,	_	
+10-16	848-853	warum	_	
+10-17	854-857	die	_	
+10-18	858-873	Bordsteinkanten	_	
+10-19	874-877	des	_	
+10-20	878-888	Boulevards	*	
+10-21	889-894	nicht	_	
+10-22	895-898	bis	_	
+10-23	899-902	zur	_	
+10-24	903-909	Straße	_	
+10-25	910-919	abgesenkt	_	
+10-26	920-924	sind	_	
+10-27	924-925	.	_	
+
+#Text=Da hat niemand etwas davon!
+11-1	926-928	Da	_	
+11-2	929-932	hat	_	
+11-3	933-940	niemand	_	
+11-4	941-946	etwas	_	
+11-5	947-952	davon	_	
+11-6	952-953	!	_	

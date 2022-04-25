@@ -1,0 +1,95 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hier gehört ein Überweg für Radfahrer und Fußgänger hin
+1-1	0-4	Hier	_	
+1-2	5-11	gehört	_	
+1-3	12-15	ein	_	
+1-4	16-23	Überweg	_	
+1-5	24-27	für	_	
+1-6	28-37	Radfahrer	_	
+1-7	38-41	und	_	
+1-8	42-51	Fußgänger	_	
+1-9	52-55	hin	_	
+
+#Text=Die Brücken sind nun mal einmal wichtig für die Mobilität.
+2-1	58-61	Die	_	
+2-2	62-69	Brücken	_	
+2-3	70-74	sind	_	
+2-4	75-78	nun	_	
+2-5	79-82	mal	_	
+2-6	83-89	einmal	_	
+2-7	90-97	wichtig	_	
+2-8	98-101	für	_	
+2-9	102-105	die	_	
+2-10	106-115	Mobilität	_	
+2-11	115-116	.	_	
+
+#Text=Es gibt in diesem Areal kaum Wegweiser für die Überquerung des Rheines über die Nordbrücke .
+3-1	117-119	Es	_	
+3-2	120-124	gibt	_	
+3-3	125-127	in	_	
+3-4	128-134	diesem	_	
+3-5	135-140	Areal	_	
+3-6	141-145	kaum	_	
+3-7	146-155	Wegweiser	_	
+3-8	156-159	für	_	
+3-9	160-163	die	*[6]	
+3-10	164-175	Überquerung	*[6]	
+3-11	176-179	des	*[6]	
+3-12	180-187	Rheines	*[6]	
+3-13	188-192	über	*[6]	
+3-14	193-196	die	*[6]	
+3-15	197-207	Nordbrücke	*[6]	
+3-16	208-209	.	_	
+
+#Text=Außerdem ist die Radwegeführung für Leute die von der Kölnstraße kommen verwirrend und die Sanierung des Tausendfüßers steht an.
+4-1	210-218	Außerdem	_	
+4-2	219-222	ist	_	
+4-3	223-226	die	_	
+4-4	227-241	Radwegeführung	_	
+4-5	242-245	für	_	
+4-6	246-251	Leute	_	
+4-7	252-255	die	_	
+4-8	256-259	von	*[7]	
+4-9	260-263	der	*[7]	
+4-10	264-274	Kölnstraße	*[7]	
+4-11	275-281	kommen	*[7]	
+4-12	282-292	verwirrend	_	
+4-13	293-296	und	_	
+4-14	297-300	die	_	
+4-15	301-310	Sanierung	_	
+4-16	311-314	des	_	
+4-17	315-328	Tausendfüßers	_	
+4-18	329-334	steht	_	
+4-19	335-337	an	_	
+4-20	337-338	.	_	
+
+#Text=Hier sollte ein ampelgeschalteter Überweg hin, der die Thusneldastraße mit der anderen Seite verbindet und die ewigen Wartezeiten am nächsten Überweg entschärft.
+5-1	339-343	Hier	_	
+5-2	344-350	sollte	_	
+5-3	351-354	ein	_	
+5-4	355-372	ampelgeschalteter	_	
+5-5	373-380	Überweg	_	
+5-6	381-384	hin	_	
+5-7	384-385	,	_	
+5-8	386-389	der	_	
+5-9	390-393	die	*[8]	
+5-10	394-409	Thusneldastraße	*[8]	
+5-11	410-413	mit	_	
+5-12	414-417	der	_	
+5-13	418-425	anderen	_	
+5-14	426-431	Seite	_	
+5-15	432-441	verbindet	_	
+5-16	442-445	und	_	
+5-17	446-449	die	_	
+5-18	450-456	ewigen	_	
+5-19	457-468	Wartezeiten	_	
+5-20	469-471	am	_	
+5-21	472-480	nächsten	_	
+5-22	481-488	Überweg	_	
+5-23	489-499	entschärft	_	
+5-24	499-500	.	_	

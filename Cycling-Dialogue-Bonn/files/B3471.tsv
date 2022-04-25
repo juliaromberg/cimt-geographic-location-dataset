@@ -1,0 +1,115 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Neubau der Kurt-Schumacher-Straße ohne Radweg!
+1-1	0-6	Neubau	_	
+1-2	7-10	der	_	
+1-3	11-33	Kurt-Schumacher-Straße	*	
+1-4	34-38	ohne	_	
+1-5	39-45	Radweg	_	
+1-6	45-46	!	_	
+
+#Text=Warum?
+2-1	47-52	Warum	_	
+2-2	52-53	?	_	
+
+#Text=Der Straßenausbau der Kurt-Schumacher-Straße von der Heussallee bis zum Haupteingang wurde unter Wegfall von Parkplätzen mit einem sehr breiten Bürgersteig vorgenommen.
+3-1	56-59	Der	_	
+3-2	60-73	Straßenausbau	_	
+3-3	74-77	der	_	
+3-4	78-100	Kurt-Schumacher-Straße	*[7]	
+3-5	101-104	von	*[7]	
+3-6	105-108	der	*[7]	
+3-7	109-119	Heussallee	*[7]	
+3-8	120-123	bis	*[7]	
+3-9	124-127	zum	*[7]	
+3-10	128-140	Haupteingang	*[7]	
+3-11	141-146	wurde	_	
+3-12	147-152	unter	_	
+3-13	153-160	Wegfall	_	
+3-14	161-164	von	_	
+3-15	165-176	Parkplätzen	_	
+3-16	177-180	mit	_	
+3-17	181-186	einem	_	
+3-18	187-191	sehr	_	
+3-19	192-199	breiten	_	
+3-20	200-211	Bürgersteig	_	
+3-21	212-223	vorgenommen	_	
+3-22	223-224	.	_	
+
+#Text=Hier hätte ohne Probleme ein Radweg eingeplant und gebaut werden können, zumal hier weniger Fußgänger unterwegs sind.
+4-1	225-229	Hier	_	
+4-2	230-235	hätte	_	
+4-3	236-240	ohne	_	
+4-4	241-249	Probleme	_	
+4-5	250-253	ein	_	
+4-6	254-260	Radweg	_	
+4-7	261-271	eingeplant	_	
+4-8	272-275	und	_	
+4-9	276-282	gebaut	_	
+4-10	283-289	werden	_	
+4-11	290-296	können	_	
+4-12	296-297	,	_	
+4-13	298-303	zumal	_	
+4-14	304-308	hier	_	
+4-15	309-316	weniger	_	
+4-16	317-326	Fußgänger	_	
+4-17	327-336	unterwegs	_	
+4-18	337-341	sind	_	
+4-19	341-342	.	_	
+
+#Text=Bei dem Anspruch Fahrradhauptstadt 2020 zu werden wundere ich mich, warum bei verschiedenen Straßenneubau- und Ausbaumaßnahmen Radwege prinzipiell keine Berücksichtigung findet, obwohl die Straßenraumgestaltung einige Möglichkeiten bietet.
+5-1	343-346	Bei	_	
+5-2	347-350	dem	_	
+5-3	351-359	Anspruch	_	
+5-4	360-377	Fahrradhauptstadt	_	
+5-5	378-382	2020	_	
+5-6	383-385	zu	_	
+5-7	386-392	werden	_	
+5-8	393-400	wundere	_	
+5-9	401-404	ich	_	
+5-10	405-409	mich	_	
+5-11	409-410	,	_	
+5-12	411-416	warum	_	
+5-13	417-420	bei	_	
+5-14	421-434	verschiedenen	_	
+5-15	435-448	Straßenneubau	_	
+5-16	448-449	-	_	
+5-17	450-453	und	_	
+5-18	454-469	Ausbaumaßnahmen	_	
+5-19	470-477	Radwege	_	
+5-20	478-489	prinzipiell	_	
+5-21	490-495	keine	_	
+5-22	496-512	Berücksichtigung	_	
+5-23	513-519	findet	_	
+5-24	519-520	,	_	
+5-25	521-527	obwohl	_	
+5-26	528-531	die	_	
+5-27	532-553	Straßenraumgestaltung	_	
+5-28	554-560	einige	_	
+5-29	561-574	Möglichkeiten	_	
+5-30	575-581	bietet	_	
+5-31	581-582	.	_	
+
+#Text=Dieser Straßenabschnitt als Verbindung zu großen Arbeitsstätten, sowie die gesamte Heussallee ist dafür ein gutes Beispiel.
+6-1	583-589	Dieser	_	
+6-2	590-606	Straßenabschnitt	_	
+6-3	607-610	als	_	
+6-4	611-621	Verbindung	_	
+6-5	622-624	zu	_	
+6-6	625-631	großen	_	
+6-7	632-646	Arbeitsstätten	_	
+6-8	646-647	,	_	
+6-9	648-653	sowie	_	
+6-10	654-657	die	*[8]	
+6-11	658-665	gesamte	*[8]	
+6-12	666-676	Heussallee	*[8]	
+6-13	677-680	ist	_	
+6-14	681-686	dafür	_	
+6-15	687-690	ein	_	
+6-16	691-696	gutes	_	
+6-17	697-705	Beispiel	_	
+6-18	705-706	.	_	

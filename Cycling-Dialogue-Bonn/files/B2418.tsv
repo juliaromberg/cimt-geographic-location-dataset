@@ -1,0 +1,108 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Linksabbieger mit dem Fahrrad ganz vorne an die Ampel?
+1-1	0-13	Linksabbieger	_	
+1-2	14-17	mit	_	
+1-3	18-21	dem	_	
+1-4	22-29	Fahrrad	_	
+1-5	30-34	ganz	_	
+1-6	35-40	vorne	_	
+1-7	41-43	an	_	
+1-8	44-47	die	_	
+1-9	48-53	Ampel	_	
+1-10	53-54	?	_	
+
+#Text=Sehe ich das richtig, dass Radfahrer auf dem Radweg nach ganz vorne an den wartenden Autos vorbei fahren sollen und als erste an der Ampel abfahren?
+2-1	57-61	Sehe	_	
+2-2	62-65	ich	_	
+2-3	66-69	das	_	
+2-4	70-77	richtig	_	
+2-5	77-78	,	_	
+2-6	79-83	dass	_	
+2-7	84-93	Radfahrer	_	
+2-8	94-97	auf	_	
+2-9	98-101	dem	_	
+2-10	102-108	Radweg	_	
+2-11	109-113	nach	_	
+2-12	114-118	ganz	_	
+2-13	119-124	vorne	_	
+2-14	125-127	an	_	
+2-15	128-131	den	_	
+2-16	132-141	wartenden	_	
+2-17	142-147	Autos	_	
+2-18	148-154	vorbei	_	
+2-19	155-161	fahren	_	
+2-20	162-168	sollen	_	
+2-21	169-172	und	_	
+2-22	173-176	als	_	
+2-23	177-182	erste	_	
+2-24	183-185	an	_	
+2-25	186-189	der	_	
+2-26	190-195	Ampel	_	
+2-27	196-204	abfahren	_	
+2-28	204-205	?	_	
+
+#Text=Das sehen die meisten Autofahrer anders und beschimpfen vorbei fahrende Räder bzw lassen nicht genug Platz zum vorbei fahren.
+3-1	206-209	Das	_	
+3-2	210-215	sehen	_	
+3-3	216-219	die	_	
+3-4	220-227	meisten	_	
+3-5	228-238	Autofahrer	_	
+3-6	239-245	anders	_	
+3-7	246-249	und	_	
+3-8	250-261	beschimpfen	_	
+3-9	262-268	vorbei	_	
+3-10	269-277	fahrende	_	
+3-11	278-283	Räder	_	
+3-12	284-287	bzw	_	
+3-13	288-294	lassen	_	
+3-14	295-300	nicht	_	
+3-15	301-306	genug	_	
+3-16	307-312	Platz	_	
+3-17	313-316	zum	_	
+3-18	317-323	vorbei	_	
+3-19	324-330	fahren	_	
+3-20	330-331	.	_	
+
+#Text=Ich wurde schon ein paar mal von Autos angefahren/ gestreift und stehe deswegen an dieser Stelle oft in den Abgasen.
+4-1	332-335	Ich	_	
+4-2	336-341	wurde	_	
+4-3	342-347	schon	_	
+4-4	348-351	ein	_	
+4-5	352-356	paar	_	
+4-6	357-360	mal	_	
+4-7	361-364	von	_	
+4-8	365-370	Autos	_	
+4-9	371-381	angefahren	_	
+4-10	381-382	/	_	
+4-11	383-392	gestreift	_	
+4-12	393-396	und	_	
+4-13	397-402	stehe	_	
+4-14	403-411	deswegen	_	
+4-15	412-414	an	_	
+4-16	415-421	dieser	_	
+4-17	422-428	Stelle	_	
+4-18	429-432	oft	_	
+4-19	433-435	in	_	
+4-20	436-439	den	_	
+4-21	440-447	Abgasen	_	
+4-22	447-448	.	_	
+
+#Text=Vorschlag: breiterer Radweg, eindeutige Beschilderung und Überwachung der motorisierten Verkehrsteilnehmer.
+5-1	449-458	Vorschlag	_	
+5-2	458-459	:	_	
+5-3	460-469	breiterer	_	
+5-4	470-476	Radweg	_	
+5-5	476-477	,	_	
+5-6	478-488	eindeutige	_	
+5-7	489-502	Beschilderung	_	
+5-8	503-506	und	_	
+5-9	507-518	Überwachung	_	
+5-10	519-522	der	_	
+5-11	523-536	motorisierten	_	
+5-12	537-555	Verkehrsteilnehmer	_	
+5-13	555-556	.	_	

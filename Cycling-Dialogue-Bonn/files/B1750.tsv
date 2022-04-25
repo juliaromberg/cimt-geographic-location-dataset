@@ -1,0 +1,94 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwege am Rhein zu schmal
+1-1	0-7	Radwege	*[7]	
+1-2	8-10	am	*[7]	
+1-3	11-16	Rhein	*[7]	
+1-4	17-19	zu	_	
+1-5	20-26	schmal	_	
+
+#Text=Obwohl an den meisten Stellen Platz genug ist, sind die Radwege fast überall am Rhein zu schmal.
+2-1	29-35	Obwohl	_	
+2-2	36-38	an	_	
+2-3	39-42	den	_	
+2-4	43-50	meisten	_	
+2-5	51-58	Stellen	_	
+2-6	59-64	Platz	_	
+2-7	65-70	genug	_	
+2-8	71-74	ist	_	
+2-9	74-75	,	_	
+2-10	76-80	sind	_	
+2-11	81-84	die	_	
+2-12	85-92	Radwege	*[8]	
+2-13	93-97	fast	*[8]	
+2-14	98-105	überall	*[8]	
+2-15	106-108	am	*[8]	
+2-16	109-114	Rhein	*[8]	
+2-17	115-117	zu	_	
+2-18	118-124	schmal	_	
+2-19	124-125	.	_	
+
+#Text=Dabei ist zu bedenken, dass sie häufig in beide Richtungen befahrbar sind.
+3-1	126-131	Dabei	_	
+3-2	132-135	ist	_	
+3-3	136-138	zu	_	
+3-4	139-147	bedenken	_	
+3-5	147-148	,	_	
+3-6	149-153	dass	_	
+3-7	154-157	sie	_	
+3-8	158-164	häufig	_	
+3-9	165-167	in	_	
+3-10	168-173	beide	_	
+3-11	174-184	Richtungen	_	
+3-12	185-194	befahrbar	_	
+3-13	195-199	sind	_	
+3-14	199-200	.	_	
+
+#Text=Hinzu kommen häufige Überholungen durch sehr unterschiedlich schnelle Fahrstile.
+4-1	201-206	Hinzu	_	
+4-2	207-213	kommen	_	
+4-3	214-221	häufige	_	
+4-4	222-234	Überholungen	_	
+4-5	235-240	durch	_	
+4-6	241-245	sehr	_	
+4-7	246-261	unterschiedlich	_	
+4-8	262-270	schnelle	_	
+4-9	271-280	Fahrstile	_	
+4-10	280-281	.	_	
+
+#Text=Wo es möglich ist, sollten sämtliche Radwege am Rhein deutlich verbreitert werden.
+5-1	282-284	Wo	_	
+5-2	285-287	es	_	
+5-3	288-295	möglich	_	
+5-4	296-299	ist	_	
+5-5	299-300	,	_	
+5-6	301-308	sollten	_	
+5-7	309-318	sämtliche	*[9]	
+5-8	319-326	Radwege	*[9]	
+5-9	327-329	am	*[9]	
+5-10	330-335	Rhein	*[9]	
+5-11	336-344	deutlich	_	
+5-12	345-356	verbreitert	_	
+5-13	357-363	werden	_	
+5-14	363-364	.	_	
+
+#Text=Lediglich im Abschnitt nördlich der Rheinaue westlich des Rheins sind die Radwege breit genug.
+6-1	365-374	Lediglich	_	
+6-2	375-377	im	*[10]	
+6-3	378-387	Abschnitt	*[10]	
+6-4	388-396	nördlich	*[10]	
+6-5	397-400	der	*[10]	
+6-6	401-409	Rheinaue	*[10]	
+6-7	410-418	westlich	*[10]	
+6-8	419-422	des	*[10]	
+6-9	423-429	Rheins	*[10]	
+6-10	430-434	sind	_	
+6-11	435-438	die	_	
+6-12	439-446	Radwege	_	
+6-13	447-452	breit	_	
+6-14	453-458	genug	_	
+6-15	458-459	.	_	

@@ -1,0 +1,129 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg in Gegenfahrtrichtung offen?
+1-1	0-6	Radweg	_	
+1-2	7-9	in	_	
+1-3	10-28	Gegenfahrtrichtung	_	
+1-4	29-34	offen	_	
+1-5	34-35	?	_	
+
+#Text=Es wäre schön, wenn der Bereich der Kölnstraße vor den Berufskollegien offiziell für de Befahrung entgegen der eigentlichen Fahrtrichtung freigegeben würde.
+2-1	38-40	Es	_	
+2-2	41-45	wäre	_	
+2-3	46-51	schön	_	
+2-4	51-52	,	_	
+2-5	53-57	wenn	_	
+2-6	58-61	der	_	
+2-7	62-69	Bereich	_	
+2-8	70-73	der	_	
+2-9	74-84	Kölnstraße	*[7]	
+2-10	85-88	vor	*[7]	
+2-11	89-92	den	*[7]	
+2-12	93-108	Berufskollegien	*[7]	
+2-13	109-118	offiziell	_	
+2-14	119-122	für	_	
+2-15	123-125	de	_	
+2-16	126-135	Befahrung	_	
+2-17	136-144	entgegen	_	
+2-18	145-148	der	_	
+2-19	149-161	eigentlichen	_	
+2-20	162-175	Fahrtrichtung	_	
+2-21	176-187	freigegeben	_	
+2-22	188-193	würde	_	
+2-23	193-194	.	_	
+
+#Text=Denn auf dieser Seite liegen die eben die Schulen sowie der Schleichweg am Bach entlang, über den man schnell in das Quartier am Gerhardsplatz gelangt.
+3-1	195-199	Denn	_	
+3-2	200-203	auf	_	
+3-3	204-210	dieser	_	
+3-4	211-216	Seite	_	
+3-5	217-223	liegen	_	
+3-6	224-227	die	_	
+3-7	228-232	eben	_	
+3-8	233-236	die	_	
+3-9	237-244	Schulen	_	
+3-10	245-250	sowie	_	
+3-11	251-254	der	_	
+3-12	255-266	Schleichweg	_	
+3-13	267-269	am	_	
+3-14	270-274	Bach	_	
+3-15	275-282	entlang	_	
+3-16	282-283	,	_	
+3-17	284-288	über	_	
+3-18	289-292	den	_	
+3-19	293-296	man	_	
+3-20	297-304	schnell	_	
+3-21	305-307	in	*[8]	
+3-22	308-311	das	*[8]	
+3-23	312-320	Quartier	*[8]	
+3-24	321-323	am	*[8]	
+3-25	324-337	Gerhardsplatz	*[8]	
+3-26	338-345	gelangt	_	
+3-27	345-346	.	_	
+
+#Text=Somit könnte man Umweg und Wartezeit über die Ampel Kreuzung Lievelingsweg sparen.
+4-1	347-352	Somit	_	
+4-2	353-359	könnte	_	
+4-3	360-363	man	_	
+4-4	364-369	Umweg	_	
+4-5	370-373	und	_	
+4-6	374-383	Wartezeit	_	
+4-7	384-388	über	*[9]	
+4-8	389-392	die	*[9]	
+4-9	393-398	Ampel	*[9]	
+4-10	399-407	Kreuzung	*[9]	
+4-11	408-421	Lievelingsweg	*[9]	
+4-12	422-428	sparen	_	
+4-13	428-429	.	_	
+
+#Text=Tatsächlich gibt es auf Höhe der Turnhalle auch ein Schild, das in stadtauswärtige Fahrtrichtung zu lesen ist und einen getrennten Geh-/Radweg ausweist.
+5-1	430-441	Tatsächlich	_	
+5-2	442-446	gibt	_	
+5-3	447-449	es	_	
+5-4	450-453	auf	_	
+5-5	454-458	Höhe	_	
+5-6	459-462	der	_	
+5-7	463-472	Turnhalle	_	
+5-8	473-477	auch	_	
+5-9	478-481	ein	_	
+5-10	482-488	Schild	_	
+5-11	488-489	,	_	
+5-12	490-493	das	_	
+5-13	494-496	in	_	
+5-14	497-512	stadtauswärtige	_	
+5-15	513-526	Fahrtrichtung	_	
+5-16	527-529	zu	_	
+5-17	530-535	lesen	_	
+5-18	536-539	ist	_	
+5-19	540-543	und	_	
+5-20	544-549	einen	_	
+5-21	550-560	getrennten	_	
+5-22	561-564	Geh	_	
+5-23	564-565	-	_	
+5-24	565-566	/	_	
+5-25	566-572	Radweg	_	
+5-26	573-581	ausweist	_	
+5-27	581-582	.	_	
+
+#Text=Es ist aber unklar, ob das beabsichtigt ist, oder das Schild falsch aufgestellt ist.
+6-1	583-585	Es	_	
+6-2	586-589	ist	_	
+6-3	590-594	aber	_	
+6-4	595-601	unklar	_	
+6-5	601-602	,	_	
+6-6	603-605	ob	_	
+6-7	606-609	das	_	
+6-8	610-622	beabsichtigt	_	
+6-9	623-626	ist	_	
+6-10	626-627	,	_	
+6-11	628-632	oder	_	
+6-12	633-636	das	_	
+6-13	637-643	Schild	_	
+6-14	644-650	falsch	_	
+6-15	651-662	aufgestellt	_	
+6-16	663-666	ist	_	
+6-17	666-667	.	_	

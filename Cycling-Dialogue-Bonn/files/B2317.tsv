@@ -1,0 +1,98 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Büsche
+1-1	0-6	Büsche	_	
+
+#Text=An der Ecke Königsstr. 10/Prinz-Albert-Str. hängen Büsche auf die Straße, bis zu den Bahnschienen.
+2-1	9-11	An	*[7]	
+2-2	12-15	der	*[7]	
+2-3	16-20	Ecke	*[7]	
+2-4	21-30	Königsstr	*[7]	
+2-5	30-31	.	*[7]	
+2-6	32-34	10	*[7]	
+2-7	34-35	/	*[7]	
+2-8	35-51	Prinz-Albert-Str	*[7]	
+2-9	51-52	.	_	
+2-10	53-59	hängen	_	
+2-11	60-66	Büsche	_	
+2-12	67-70	auf	_	
+2-13	71-74	die	_	
+2-14	75-81	Straße	_	
+2-15	81-82	,	_	
+2-16	83-86	bis	_	
+2-17	87-89	zu	_	
+2-18	90-93	den	_	
+2-19	94-106	Bahnschienen	_	
+2-20	106-107	.	_	
+
+#Text=Als Radfahrer wird man gezwungen, über die Gleise auf die Fahrbahnmitte auszuweichen.
+3-1	108-111	Als	_	
+3-2	112-121	Radfahrer	_	
+3-3	122-126	wird	_	
+3-4	127-130	man	_	
+3-5	131-140	gezwungen	_	
+3-6	140-141	,	_	
+3-7	142-146	über	_	
+3-8	147-150	die	_	
+3-9	151-157	Gleise	_	
+3-10	158-161	auf	_	
+3-11	162-165	die	_	
+3-12	166-179	Fahrbahnmitte	_	
+3-13	180-192	auszuweichen	_	
+3-14	192-193	.	_	
+
+#Text=Die Sicht in die Kurve ist dadurch eingeschränkt.
+4-1	194-197	Die	_	
+4-2	198-203	Sicht	_	
+4-3	204-206	in	_	
+4-4	207-210	die	_	
+4-5	211-216	Kurve	_	
+4-6	217-220	ist	_	
+4-7	221-228	dadurch	_	
+4-8	229-242	eingeschränkt	_	
+4-9	242-243	.	_	
+
+#Text=Für Erwachsene Radfahrer kann das schon eine Herausforderung darstellen.
+5-1	244-247	Für	_	
+5-2	248-258	Erwachsene	_	
+5-3	259-268	Radfahrer	_	
+5-4	269-273	kann	_	
+5-5	274-277	das	_	
+5-6	278-283	schon	_	
+5-7	284-288	eine	_	
+5-8	289-304	Herausforderung	_	
+5-9	305-315	darstellen	_	
+5-10	315-316	.	_	
+
+#Text=Für ältere Menschen und Kinder (zwei Schulen in unmittelbarer Nähe) ist sie sehr gefährlich.
+6-1	317-320	Für	_	
+6-2	321-327	ältere	_	
+6-3	328-336	Menschen	_	
+6-4	337-340	und	_	
+6-5	341-347	Kinder	_	
+6-6	348-349	(	_	
+6-7	349-353	zwei	_	
+6-8	354-361	Schulen	_	
+6-9	362-364	in	_	
+6-10	365-378	unmittelbarer	_	
+6-11	379-383	Nähe	_	
+6-12	383-384	)	_	
+6-13	385-388	ist	_	
+6-14	389-392	sie	_	
+6-15	393-397	sehr	_	
+6-16	398-408	gefährlich	_	
+6-17	408-409	.	_	
+
+#Text=Übrigens wiederholt sich das Problem jedes Jahr.
+7-1	410-418	Übrigens	_	
+7-2	419-429	wiederholt	_	
+7-3	430-434	sich	_	
+7-4	435-438	das	_	
+7-5	439-446	Problem	_	
+7-6	447-452	jedes	_	
+7-7	453-457	Jahr	_	
+7-8	457-458	.	_	

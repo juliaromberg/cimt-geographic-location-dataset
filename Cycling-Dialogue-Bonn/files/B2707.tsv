@@ -1,0 +1,58 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Keine Überleitung auf Schutzstreifen
+1-1	0-5	Keine	_	
+1-2	6-17	Überleitung	_	
+1-3	18-21	auf	_	
+1-4	22-36	Schutzstreifen	_	
+
+#Text=Wenn man aus Richtung Süden auf dem Radweg fährt, ist hier keine Möglichkeit mehr gegeben auf den beginnenden Schutzstreifen zu wechseln (Grünstreifen zwischen Bürgersteig und Straße).
+2-1	39-43	Wenn	_	
+2-2	44-47	man	_	
+2-3	48-51	aus	_	
+2-4	52-60	Richtung	_	
+2-5	61-66	Süden	_	
+2-6	67-70	auf	_	
+2-7	71-74	dem	_	
+2-8	75-81	Radweg	_	
+2-9	82-87	fährt	_	
+2-10	87-88	,	_	
+2-11	89-92	ist	_	
+2-12	93-97	hier	_	
+2-13	98-103	keine	_	
+2-14	104-115	Möglichkeit	_	
+2-15	116-120	mehr	_	
+2-16	121-128	gegeben	_	
+2-17	129-132	auf	_	
+2-18	133-136	den	_	
+2-19	137-148	beginnenden	_	
+2-20	149-163	Schutzstreifen	_	
+2-21	164-166	zu	_	
+2-22	167-175	wechseln	_	
+2-23	176-177	(	_	
+2-24	177-189	Grünstreifen	_	
+2-25	190-198	zwischen	_	
+2-26	199-210	Bürgersteig	_	
+2-27	211-214	und	_	
+2-28	215-221	Straße	_	
+2-29	221-222	)	_	
+2-30	222-223	.	_	
+
+#Text=Ein vorheriger Wechsel auf die Straße wird auch an keiner Stelle suggeriert.
+3-1	224-227	Ein	_	
+3-2	228-238	vorheriger	_	
+3-3	239-246	Wechsel	_	
+3-4	247-250	auf	_	
+3-5	251-254	die	_	
+3-6	255-261	Straße	_	
+3-7	262-266	wird	_	
+3-8	267-271	auch	_	
+3-9	272-274	an	_	
+3-10	275-281	keiner	_	
+3-11	282-288	Stelle	_	
+3-12	289-299	suggeriert	_	
+3-13	299-300	.	_	

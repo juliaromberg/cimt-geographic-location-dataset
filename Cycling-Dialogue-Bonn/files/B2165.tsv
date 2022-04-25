@@ -1,0 +1,44 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Baustelle versperrt Radweg - keine Umleitung für Radler
+1-1	0-9	Baustelle	_	
+1-2	10-19	versperrt	_	
+1-3	20-26	Radweg	_	
+1-4	27-28	-	_	
+1-5	29-34	keine	_	
+1-6	35-44	Umleitung	_	
+1-7	45-48	für	_	
+1-8	49-55	Radler	_	
+
+#Text=Eine Baustelle auf Höhe Hausnr. 4 versperrt den Radstreifen.
+2-1	58-62	Eine	_	
+2-2	63-72	Baustelle	*[5]	
+2-3	73-76	auf	*[5]	
+2-4	77-81	Höhe	*[5]	
+2-5	82-88	Hausnr	*[5]	
+2-6	88-89	.	*[5]	
+2-7	90-91	4	*[5]	
+2-8	92-101	versperrt	_	
+2-9	102-105	den	_	
+2-10	106-117	Radstreifen	_	
+2-11	117-118	.	_	
+
+#Text=Eine alternative sichere Wegführung wurde nicht eingerichtet.
+3-1	119-123	Eine	_	
+3-2	124-135	alternative	_	
+3-3	136-143	sichere	_	
+3-4	144-154	Wegführung	_	
+3-5	155-160	wurde	_	
+3-6	161-166	nicht	_	
+3-7	167-179	eingerichtet	_	
+3-8	179-180	.	_	
+
+#Text=Bitte dies ändern.
+4-1	181-186	Bitte	_	
+4-2	187-191	dies	_	
+4-3	192-198	ändern	_	
+4-4	198-199	.	_	

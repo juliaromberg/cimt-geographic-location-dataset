@@ -1,0 +1,29 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlaglöcher auf der Straße
+1-1	0-12	Schlaglöcher	_	
+1-2	13-16	auf	_	
+1-3	17-20	der	_	
+1-4	21-27	Straße	_	
+
+#Text=Viele Schlaglöcher auf der Straße sollten ausgebessert werden, damit ein angenehmereschönes Fahren möglich ist.
+2-1	30-35	Viele	_	
+2-2	36-48	Schlaglöcher	_	
+2-3	49-52	auf	_	
+2-4	53-56	der	_	
+2-5	57-63	Straße	_	
+2-6	64-71	sollten	_	
+2-7	72-84	ausgebessert	_	
+2-8	85-91	werden	_	
+2-9	91-92	,	_	
+2-10	93-98	damit	_	
+2-11	99-102	ein	_	
+2-12	103-121	angenehmereschönes	_	
+2-13	122-128	Fahren	_	
+2-14	129-136	möglich	_	
+2-15	137-140	ist	_	
+2-16	140-141	.	_	

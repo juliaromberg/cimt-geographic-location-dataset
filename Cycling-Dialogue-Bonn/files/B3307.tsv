@@ -1,0 +1,98 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Grünphase der Fußgängerampel mit Verkehrsampel synchronisieren
+1-1	0-9	Grünphase	_	
+1-2	10-13	der	_	
+1-3	14-28	Fußgängerampel	_	
+1-4	29-32	mit	_	
+1-5	33-46	Verkehrsampel	_	
+1-6	47-62	synchronisieren	_	
+
+#Text=Die Fußgängerampel an der Kreuzung Dottenorfer Straße/Servatiunsstraße wird nicht automatisch grün, wenn der Fahrrad-/Autoverkehr grün hat.
+2-1	65-68	Die	*[6]	
+2-2	69-83	Fußgängerampel	*[6]	
+2-3	84-86	an	*[6]	
+2-4	87-90	der	*[6]	
+2-5	91-99	Kreuzung	*[6]	
+2-6	100-111	Dottenorfer	*[6]	
+2-7	112-118	Straße	*[6]	
+2-8	118-119	/	*[6]	
+2-9	119-135	Servatiunsstraße	*[6]	
+2-10	136-140	wird	_	
+2-11	141-146	nicht	_	
+2-12	147-158	automatisch	_	
+2-13	159-163	grün	_	
+2-14	163-164	,	_	
+2-15	165-169	wenn	_	
+2-16	170-173	der	_	
+2-17	174-181	Fahrrad	_	
+2-18	181-182	-	_	
+2-19	182-183	/	_	
+2-20	183-194	Autoverkehr	_	
+2-21	195-199	grün	_	
+2-22	200-203	hat	_	
+2-23	203-204	.	_	
+
+#Text=Es ist nötig, aktiv das Grünsignal mit dem Sensor am Ampelmast anzufordern.
+3-1	205-207	Es	_	
+3-2	208-211	ist	_	
+3-3	212-217	nötig	_	
+3-4	217-218	,	_	
+3-5	219-224	aktiv	_	
+3-6	225-228	das	_	
+3-7	229-239	Grünsignal	_	
+3-8	240-243	mit	_	
+3-9	244-247	dem	_	
+3-10	248-254	Sensor	_	
+3-11	255-257	am	_	
+3-12	258-267	Ampelmast	_	
+3-13	268-279	anzufordern	_	
+3-14	279-280	.	_	
+
+#Text=Das ist besonders ärgerlich, wenn man als Fahrradfahrer z.B. vom Quirinusplatz kommend Richtung Schranke unterwegs ist und Kinder, die auf dem Gehweg fahren, begleitet.
+4-1	281-284	Das	_	
+4-2	285-288	ist	_	
+4-3	289-298	besonders	_	
+4-4	299-308	ärgerlich	_	
+4-5	308-309	,	_	
+4-6	310-314	wenn	_	
+4-7	315-318	man	_	
+4-8	319-322	als	_	
+4-9	323-336	Fahrradfahrer	_	
+4-10	337-340	z.B	_	
+4-11	340-341	.	_	
+4-12	342-345	vom	*[7]	
+4-13	346-359	Quirinusplatz	*[7]	
+4-14	360-367	kommend	*[7]	
+4-15	368-376	Richtung	*[7]	
+4-16	377-385	Schranke	*[7]	
+4-17	386-395	unterwegs	_	
+4-18	396-399	ist	_	
+4-19	400-403	und	_	
+4-20	404-410	Kinder	_	
+4-21	410-411	,	_	
+4-22	412-415	die	_	
+4-23	416-419	auf	_	
+4-24	420-423	dem	_	
+4-25	424-430	Gehweg	_	
+4-26	431-437	fahren	_	
+4-27	437-438	,	_	
+4-28	439-448	begleitet	_	
+4-29	448-449	.	_	
+
+#Text=So wird man trotz grün der Verkehrsampel am Übergang ausgebremst.
+5-1	450-452	So	_	
+5-2	453-457	wird	_	
+5-3	458-461	man	_	
+5-4	462-467	trotz	_	
+5-5	468-472	grün	_	
+5-6	473-476	der	_	
+5-7	477-490	Verkehrsampel	_	
+5-8	491-493	am	_	
+5-9	494-502	Übergang	_	
+5-10	503-514	ausgebremst	_	
+5-11	514-515	.	_	

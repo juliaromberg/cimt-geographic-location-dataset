@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkende Autos auf Gehweg
+1-1	0-8	Parkende	_	
+1-2	9-14	Autos	_	
+1-3	15-18	auf	_	
+1-4	19-25	Gehweg	_	
+
+#Text=Es ist an dieser Stelle kaum möglich sein Fahrrad entlang des Fußweges zu schieben, da die parkenden Autos beinahe den ganzen Bürgersteig für sich beanspruchen.
+2-1	28-30	Es	_	
+2-2	31-34	ist	_	
+2-3	35-37	an	_	
+2-4	38-44	dieser	_	
+2-5	45-51	Stelle	_	
+2-6	52-56	kaum	_	
+2-7	57-64	möglich	_	
+2-8	65-69	sein	_	
+2-9	70-77	Fahrrad	_	
+2-10	78-85	entlang	_	
+2-11	86-89	des	_	
+2-12	90-98	Fußweges	_	
+2-13	99-101	zu	_	
+2-14	102-110	schieben	_	
+2-15	110-111	,	_	
+2-16	112-114	da	_	
+2-17	115-118	die	_	
+2-18	119-128	parkenden	_	
+2-19	129-134	Autos	_	
+2-20	135-142	beinahe	_	
+2-21	143-146	den	_	
+2-22	147-153	ganzen	_	
+2-23	154-165	Bürgersteig	_	
+2-24	166-169	für	_	
+2-25	170-174	sich	_	
+2-26	175-187	beanspruchen	_	
+2-27	187-188	.	_	
+
+#Text=Es ist zudem sehr gefährlich, da die Fahrbahn vor der Ampel eingeengt ist und überholende Autos einen in die parkenden Autos drängen.
+3-1	189-191	Es	_	
+3-2	192-195	ist	_	
+3-3	196-201	zudem	_	
+3-4	202-206	sehr	_	
+3-5	207-217	gefährlich	_	
+3-6	217-218	,	_	
+3-7	219-221	da	_	
+3-8	222-225	die	_	
+3-9	226-234	Fahrbahn	_	
+3-10	235-238	vor	_	
+3-11	239-242	der	_	
+3-12	243-248	Ampel	_	
+3-13	249-258	eingeengt	_	
+3-14	259-262	ist	_	
+3-15	263-266	und	_	
+3-16	267-278	überholende	_	
+3-17	279-284	Autos	_	
+3-18	285-290	einen	_	
+3-19	291-293	in	_	
+3-20	294-297	die	_	
+3-21	298-307	parkenden	_	
+3-22	308-313	Autos	_	
+3-23	314-321	drängen	_	
+3-24	321-322	.	_	
+
+#Text=Ich würde hier ein Parkverbot aushängen.
+4-1	323-326	Ich	_	
+4-2	327-332	würde	_	
+4-3	333-337	hier	_	
+4-4	338-341	ein	_	
+4-5	342-352	Parkverbot	_	
+4-6	353-362	aushängen	_	
+4-7	362-363	.	_	

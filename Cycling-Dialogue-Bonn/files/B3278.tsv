@@ -1,0 +1,138 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radfahrer bei der Gestaltung Bonner-Bogen/ Schumpeter-Allee vergessen.
+1-1	0-9	Radfahrer	_	
+1-2	10-13	bei	_	
+1-3	14-17	der	_	
+1-4	18-28	Gestaltung	_	
+1-5	29-41	Bonner-Bogen	*[7]	
+1-6	41-42	/	*[7]	
+1-7	43-59	Schumpeter-Allee	*[7]	
+1-8	60-69	vergessen	_	
+1-9	69-70	.	_	
+
+#Text=Radfahrer scheinen bei der (immer noch laufenden) Gestaltung und Neubebauung des Bonner Bogens - insbesondere im gesamten Verlauf der Joseph-Schumpeter-Allee - wohl vergessen worden zu sein.
+2-1	73-82	Radfahrer	_	
+2-2	83-91	scheinen	_	
+2-3	92-95	bei	_	
+2-4	96-99	der	_	
+2-5	100-101	(	_	
+2-6	101-106	immer	_	
+2-7	107-111	noch	_	
+2-8	112-121	laufenden	_	
+2-9	121-122	)	_	
+2-10	123-133	Gestaltung	_	
+2-11	134-137	und	_	
+2-12	138-149	Neubebauung	_	
+2-13	150-153	des	_	
+2-14	154-160	Bonner	*[8]	
+2-15	161-167	Bogens	*[8]	
+2-16	168-169	-	_	
+2-17	170-182	insbesondere	_	
+2-18	183-185	im	*[9]	
+2-19	186-194	gesamten	*[9]	
+2-20	195-202	Verlauf	*[9]	
+2-21	203-206	der	*[9]	
+2-22	207-230	Joseph-Schumpeter-Allee	*[9]	
+2-23	231-232	-	_	
+2-24	233-237	wohl	_	
+2-25	238-247	vergessen	_	
+2-26	248-254	worden	_	
+2-27	255-257	zu	_	
+2-28	258-262	sein	_	
+2-29	262-263	.	_	
+
+#Text=Es gibt keine Radwege.
+3-1	264-266	Es	_	
+3-2	267-271	gibt	_	
+3-3	272-277	keine	_	
+3-4	278-285	Radwege	_	
+3-5	285-286	.	_	
+
+#Text=Durch ständige in die Gebäude ein - und ausfahrende Autos oder z.B. startende Taxis ist das Radfahren an dieser Stelle gefährlich, weil diese die Radfahrer nicht ausreichend berücksichtigen.
+4-1	287-292	Durch	_	
+4-2	293-301	ständige	_	
+4-3	302-304	in	_	
+4-4	305-308	die	_	
+4-5	309-316	Gebäude	_	
+4-6	317-320	ein	_	
+4-7	321-322	-	_	
+4-8	323-326	und	_	
+4-9	327-338	ausfahrende	_	
+4-10	339-344	Autos	_	
+4-11	345-349	oder	_	
+4-12	350-353	z.B	_	
+4-13	353-354	.	_	
+4-14	355-364	startende	_	
+4-15	365-370	Taxis	_	
+4-16	371-374	ist	_	
+4-17	375-378	das	_	
+4-18	379-388	Radfahren	_	
+4-19	389-391	an	_	
+4-20	392-398	dieser	_	
+4-21	399-405	Stelle	_	
+4-22	406-416	gefährlich	_	
+4-23	416-417	,	_	
+4-24	418-422	weil	_	
+4-25	423-428	diese	_	
+4-26	429-432	die	_	
+4-27	433-442	Radfahrer	_	
+4-28	443-448	nicht	_	
+4-29	449-460	ausreichend	_	
+4-30	461-476	berücksichtigen	_	
+4-31	476-477	.	_	
+
+#Text=Dabei hätte man im Zuge der Neubebauung eigentlich die Chance gehabt, dies besser zu gestalten.
+5-1	478-483	Dabei	_	
+5-2	484-489	hätte	_	
+5-3	490-493	man	_	
+5-4	494-496	im	_	
+5-5	497-501	Zuge	_	
+5-6	502-505	der	_	
+5-7	506-517	Neubebauung	_	
+5-8	518-528	eigentlich	_	
+5-9	529-532	die	_	
+5-10	533-539	Chance	_	
+5-11	540-546	gehabt	_	
+5-12	546-547	,	_	
+5-13	548-552	dies	_	
+5-14	553-559	besser	_	
+5-15	560-562	zu	_	
+5-16	563-572	gestalten	_	
+5-17	572-573	.	_	
+
+#Text=Jedoch besteht vielmehr die Gefahr, dass sich die Situation für Radfahrer weiter zuspitzt, wenn auch noch die andere Seite mit den gerade gebauten Rhein-Palais genutzt werden wird.
+6-1	574-580	Jedoch	_	
+6-2	581-588	besteht	_	
+6-3	589-597	vielmehr	_	
+6-4	598-601	die	_	
+6-5	602-608	Gefahr	_	
+6-6	608-609	,	_	
+6-7	610-614	dass	_	
+6-8	615-619	sich	_	
+6-9	620-623	die	_	
+6-10	624-633	Situation	_	
+6-11	634-637	für	_	
+6-12	638-647	Radfahrer	_	
+6-13	648-654	weiter	_	
+6-14	655-663	zuspitzt	_	
+6-15	663-664	,	_	
+6-16	665-669	wenn	_	
+6-17	670-674	auch	_	
+6-18	675-679	noch	_	
+6-19	680-683	die	_	
+6-20	684-690	andere	_	
+6-21	691-696	Seite	_	
+6-22	697-700	mit	_	
+6-23	701-704	den	_	
+6-24	705-711	gerade	_	
+6-25	712-720	gebauten	_	
+6-26	721-733	Rhein-Palais	_	
+6-27	734-741	genutzt	_	
+6-28	742-748	werden	_	
+6-29	749-753	wird	_	
+6-30	753-754	.	_	

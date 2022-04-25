@@ -1,0 +1,114 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Übergang von Nordunterführung zur Fahrradstraße Florentiusgraben
+1-1	0-8	Übergang	*[5]	
+1-2	9-12	von	*[5]	
+1-3	13-29	Nordunterführung	*[5]	
+1-4	30-33	zur	*[5]	
+1-5	34-47	Fahrradstraße	*[5]	
+1-6	48-64	Florentiusgraben	*[5]	
+
+#Text=Es fehlt leider eine geregelte, ausgewiesene und sichere Verbindung zwischen dem Abschnitt Nordunterführung über die Straße vor dem Hauptbahnhof und den dortigen Parkplatz durch die Hausdurchfahrt auf der Rückseite der Sparkassenfiliale Thomas-Mann-Straße bis zur Fahrradstraße Florentiusgraben.
+2-1	67-69	Es	_	
+2-2	70-75	fehlt	_	
+2-3	76-82	leider	_	
+2-4	83-87	eine	_	
+2-5	88-97	geregelte	_	
+2-6	97-98	,	_	
+2-7	99-111	ausgewiesene	_	
+2-8	112-115	und	_	
+2-9	116-123	sichere	_	
+2-10	124-134	Verbindung	_	
+2-11	135-143	zwischen	*[6]	
+2-12	144-147	dem	*[6]	
+2-13	148-157	Abschnitt	*[6]	
+2-14	158-174	Nordunterführung	*[6]	
+2-15	175-179	über	*[6]	
+2-16	180-183	die	*[6]	
+2-17	184-190	Straße	*[6]	
+2-18	191-194	vor	*[6]	
+2-19	195-198	dem	*[6]	
+2-20	199-211	Hauptbahnhof	*[6]	
+2-21	212-215	und	*[6]	
+2-22	216-219	den	*[6]	
+2-23	220-228	dortigen	*[6]	
+2-24	229-238	Parkplatz	*[6]	
+2-25	239-244	durch	*[6]	
+2-26	245-248	die	*[6]	
+2-27	249-263	Hausdurchfahrt	*[6]	
+2-28	264-267	auf	*[6]	
+2-29	268-271	der	*[6]	
+2-30	272-281	Rückseite	*[6]	
+2-31	282-285	der	*[6]	
+2-32	286-303	Sparkassenfiliale	*[6]	
+2-33	304-322	Thomas-Mann-Straße	*[6]	
+2-34	323-326	bis	*[6]	
+2-35	327-330	zur	*[6]	
+2-36	331-344	Fahrradstraße	*[6]	
+2-37	345-361	Florentiusgraben	*[6]	
+2-38	361-362	.	_	
+
+#Text=Nach meinen Beobachtungen ist diese Strecke sehr stark von Fahrradfahrern frequentiert und sowohl auf dem Parkplatzgelände als auch der Straße vor dem Hbf, dort queren die Fahrradfahrer im Windschatten der Fußgängerampel, kommt es öfter zu gefährlichen Situationen.
+3-1	363-367	Nach	_	
+3-2	368-374	meinen	_	
+3-3	375-388	Beobachtungen	_	
+3-4	389-392	ist	_	
+3-5	393-398	diese	_	
+3-6	399-406	Strecke	_	
+3-7	407-411	sehr	_	
+3-8	412-417	stark	_	
+3-9	418-421	von	_	
+3-10	422-436	Fahrradfahrern	_	
+3-11	437-449	frequentiert	_	
+3-12	450-453	und	_	
+3-13	454-460	sowohl	_	
+3-14	461-464	auf	_	
+3-15	465-468	dem	_	
+3-16	469-485	Parkplatzgelände	_	
+3-17	486-489	als	_	
+3-18	490-494	auch	_	
+3-19	495-498	der	_	
+3-20	499-505	Straße	*[7]	
+3-21	506-509	vor	*[7]	
+3-22	510-513	dem	*[7]	
+3-23	514-517	Hbf	*[7]	
+3-24	517-518	,	_	
+3-25	519-523	dort	_	
+3-26	524-530	queren	_	
+3-27	531-534	die	_	
+3-28	535-548	Fahrradfahrer	_	
+3-29	549-551	im	_	
+3-30	552-564	Windschatten	_	
+3-31	565-568	der	_	
+3-32	569-583	Fußgängerampel	_	
+3-33	583-584	,	_	
+3-34	585-590	kommt	_	
+3-35	591-593	es	_	
+3-36	594-599	öfter	_	
+3-37	600-602	zu	_	
+3-38	603-615	gefährlichen	_	
+3-39	616-627	Situationen	_	
+3-40	627-628	.	_	
+
+#Text=Alternativ könnte natürlich auch der Viktoriatunnel benutzbar gemacht werden, derzeit ist der Zustand einfach unzumutbar.
+4-1	629-639	Alternativ	_	
+4-2	640-646	könnte	_	
+4-3	647-656	natürlich	_	
+4-4	657-661	auch	_	
+4-5	662-665	der	*[8]	
+4-6	666-680	Viktoriatunnel	*[8]	
+4-7	681-690	benutzbar	_	
+4-8	691-698	gemacht	_	
+4-9	699-705	werden	_	
+4-10	705-706	,	_	
+4-11	707-714	derzeit	_	
+4-12	715-718	ist	_	
+4-13	719-722	der	_	
+4-14	723-730	Zustand	_	
+4-15	731-738	einfach	_	
+4-16	739-749	unzumutbar	_	
+4-17	749-750	.	_	

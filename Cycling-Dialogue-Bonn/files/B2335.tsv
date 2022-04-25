@@ -1,0 +1,39 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlender Lärmschutz
+1-1	0-9	Fehlender	_	
+1-2	10-20	Lärmschutz	_	
+
+#Text=Radfahrer und Fußgänger sind auf der Nordbrücke einem sehr hohen Lärmpegel ausgesetzt.
+2-1	23-32	Radfahrer	_	
+2-2	33-36	und	_	
+2-3	37-46	Fußgänger	_	
+2-4	47-51	sind	_	
+2-5	52-55	auf	*[4]	
+2-6	56-59	der	*[4]	
+2-7	60-70	Nordbrücke	*[4]	
+2-8	71-76	einem	_	
+2-9	77-81	sehr	_	
+2-10	82-87	hohen	_	
+2-11	88-97	Lärmpegel	_	
+2-12	98-108	ausgesetzt	_	
+2-13	108-109	.	_	
+
+#Text=Hier sollten ganz dringend die Lärmschutzwände über die gesamte Brücke verlängert werden.
+3-1	110-114	Hier	_	
+3-2	115-122	sollten	_	
+3-3	123-127	ganz	_	
+3-4	128-136	dringend	_	
+3-5	137-140	die	_	
+3-6	141-156	Lärmschutzwände	_	
+3-7	157-161	über	_	
+3-8	162-165	die	_	
+3-9	166-173	gesamte	_	
+3-10	174-180	Brücke	_	
+3-11	181-191	verlängert	_	
+3-12	192-198	werden	_	
+3-13	198-199	.	_	

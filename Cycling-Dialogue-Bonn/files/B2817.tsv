@@ -1,0 +1,109 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg ins Nirgendwo
+1-1	0-6	Radweg	_	
+1-2	7-10	ins	_	
+1-3	11-20	Nirgendwo	_	
+
+#Text=Kommt man aus Richtung Zentrum, gibt es auf der Strasse einen Schutzstreifen, der sich über die Kreuzung fortsetzt.
+2-1	23-28	Kommt	_	
+2-2	29-32	man	_	
+2-3	33-36	aus	*[7]	
+2-4	37-45	Richtung	*[7]	
+2-5	46-53	Zentrum	*[7]	
+2-6	53-54	,	_	
+2-7	55-59	gibt	_	
+2-8	60-62	es	_	
+2-9	63-66	auf	_	
+2-10	67-70	der	_	
+2-11	71-78	Strasse	_	
+2-12	79-84	einen	_	
+2-13	85-99	Schutzstreifen	_	
+2-14	99-100	,	_	
+2-15	101-104	der	_	
+2-16	105-109	sich	_	
+2-17	110-114	über	_	
+2-18	115-118	die	_	
+2-19	119-127	Kreuzung	_	
+2-20	128-137	fortsetzt	_	
+2-21	137-138	.	_	
+
+#Text=Die Ampel ist ebenfalls für Radfahrer und Fußgänger.
+3-1	139-142	Die	_	
+3-2	143-148	Ampel	_	
+3-3	149-152	ist	_	
+3-4	153-162	ebenfalls	_	
+3-5	163-166	für	_	
+3-6	167-176	Radfahrer	_	
+3-7	177-180	und	_	
+3-8	181-190	Fußgänger	_	
+3-9	190-191	.	_	
+
+#Text=Auf der anderen Seite der Strasse ist jedoch Fußweg mit dem Zusatz Radfahrer frei.
+4-1	192-195	Auf	_	
+4-2	196-199	der	_	
+4-3	200-207	anderen	_	
+4-4	208-213	Seite	_	
+4-5	214-217	der	_	
+4-6	218-225	Strasse	_	
+4-7	226-229	ist	_	
+4-8	230-236	jedoch	_	
+4-9	237-243	Fußweg	_	
+4-10	244-247	mit	_	
+4-11	248-251	dem	_	
+4-12	252-258	Zusatz	_	
+4-13	259-268	Radfahrer	_	
+4-14	269-273	frei	_	
+4-15	273-274	.	_	
+
+#Text=Für schnellere Radfahrer ist der Fußweg auf der Hohen Strasse Richtung L183n nicht akzeptabel.
+5-1	275-278	Für	_	
+5-2	279-289	schnellere	_	
+5-3	290-299	Radfahrer	_	
+5-4	300-303	ist	_	
+5-5	304-307	der	*[8]	
+5-6	308-314	Fußweg	*[8]	
+5-7	315-318	auf	*[8]	
+5-8	319-322	der	*[8]	
+5-9	323-328	Hohen	*[8]	
+5-10	329-336	Strasse	*[8]	
+5-11	337-345	Richtung	*[8]	
+5-12	346-351	L183n	*[8]	
+5-13	352-357	nicht	_	
+5-14	358-368	akzeptabel	_	
+5-15	368-369	.	_	
+
+#Text=Hier müssen die Fahrbahnmarkierungen entfernt werden, da sowohl Radfahrer als auch Fußgänger erst einmal davon ausgehen, dass der Radweg sich auf der anderen Seite der Kreuzung fortsetzt
+6-1	370-374	Hier	_	
+6-2	375-381	müssen	_	
+6-3	382-385	die	_	
+6-4	386-406	Fahrbahnmarkierungen	_	
+6-5	407-415	entfernt	_	
+6-6	416-422	werden	_	
+6-7	422-423	,	_	
+6-8	424-426	da	_	
+6-9	427-433	sowohl	_	
+6-10	434-443	Radfahrer	_	
+6-11	444-447	als	_	
+6-12	448-452	auch	_	
+6-13	453-462	Fußgänger	_	
+6-14	463-467	erst	_	
+6-15	468-474	einmal	_	
+6-16	475-480	davon	_	
+6-17	481-489	ausgehen	_	
+6-18	489-490	,	_	
+6-19	491-495	dass	_	
+6-20	496-499	der	_	
+6-21	500-506	Radweg	_	
+6-22	507-511	sich	_	
+6-23	512-515	auf	_	
+6-24	516-519	der	_	
+6-25	520-527	anderen	_	
+6-26	528-533	Seite	_	
+6-27	534-537	der	_	
+6-28	538-546	Kreuzung	_	
+6-29	547-556	fortsetzt	_	

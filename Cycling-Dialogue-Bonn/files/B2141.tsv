@@ -1,0 +1,110 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verbesserung der Brückendurchfahrt
+1-1	0-12	Verbesserung	_	
+1-2	13-16	der	_	
+1-3	17-34	Brückendurchfahrt	_	
+
+#Text=Unterhalb der Reuterbrücke ist die Fahrbahn oft mit zahlreichen Glas Scherben, Staub und auch sonstigem Schmutz und Unrat, insbesondere durch die Glascontainer, bedeckt.
+2-1	37-46	Unterhalb	*[5]	
+2-2	47-50	der	*[5]	
+2-3	51-63	Reuterbrücke	*[5]	
+2-4	64-67	ist	_	
+2-5	68-71	die	_	
+2-6	72-80	Fahrbahn	_	
+2-7	81-84	oft	_	
+2-8	85-88	mit	_	
+2-9	89-100	zahlreichen	_	
+2-10	101-105	Glas	_	
+2-11	106-114	Scherben	_	
+2-12	114-115	,	_	
+2-13	116-121	Staub	_	
+2-14	122-125	und	_	
+2-15	126-130	auch	_	
+2-16	131-140	sonstigem	_	
+2-17	141-148	Schmutz	_	
+2-18	149-152	und	_	
+2-19	153-158	Unrat	_	
+2-20	158-159	,	_	
+2-21	160-172	insbesondere	_	
+2-22	173-178	durch	_	
+2-23	179-182	die	_	
+2-24	183-196	Glascontainer	_	
+2-25	196-197	,	_	
+2-26	198-205	bedeckt	_	
+2-27	205-206	.	_	
+
+#Text=Abhilfe könnte zB geschaffen werden, in dem man das Areal unter der Brücke etwas aufräumt und verschönert, sowie die Glascontainer ein Stück von der Straße zurücksetzt.
+3-1	207-214	Abhilfe	_	
+3-2	215-221	könnte	_	
+3-3	222-224	zB	_	
+3-4	225-235	geschaffen	_	
+3-5	236-242	werden	_	
+3-6	242-243	,	_	
+3-7	244-246	in	_	
+3-8	247-250	dem	_	
+3-9	251-254	man	_	
+3-10	255-258	das	_	
+3-11	259-264	Areal	_	
+3-12	265-270	unter	_	
+3-13	271-274	der	_	
+3-14	275-281	Brücke	_	
+3-15	282-287	etwas	_	
+3-16	288-296	aufräumt	_	
+3-17	297-300	und	_	
+3-18	301-312	verschönert	_	
+3-19	312-313	,	_	
+3-20	314-319	sowie	_	
+3-21	320-323	die	_	
+3-22	324-337	Glascontainer	_	
+3-23	338-341	ein	_	
+3-24	342-347	Stück	_	
+3-25	348-351	von	_	
+3-26	352-355	der	_	
+3-27	356-362	Straße	_	
+3-28	363-374	zurücksetzt	_	
+3-29	374-375	.	_	
+
+#Text=Zudem gibt es nachts keine Beleuchtung, so dass die Stelle sogar von vielen Leuten gemieden wird, obwohl sie die schnellste Verbindung auf dem Rad Richtung Kessenich und Dottendorf, sowie zukünftig zum Bahnhof, darstellt.
+4-1	376-381	Zudem	_	
+4-2	382-386	gibt	_	
+4-3	387-389	es	_	
+4-4	390-396	nachts	_	
+4-5	397-402	keine	_	
+4-6	403-414	Beleuchtung	_	
+4-7	414-415	,	_	
+4-8	416-418	so	_	
+4-9	419-423	dass	_	
+4-10	424-427	die	_	
+4-11	428-434	Stelle	_	
+4-12	435-440	sogar	_	
+4-13	441-444	von	_	
+4-14	445-451	vielen	_	
+4-15	452-458	Leuten	_	
+4-16	459-467	gemieden	_	
+4-17	468-472	wird	_	
+4-18	472-473	,	_	
+4-19	474-480	obwohl	_	
+4-20	481-484	sie	_	
+4-21	485-488	die	_	
+4-22	489-499	schnellste	_	
+4-23	500-510	Verbindung	_	
+4-24	511-514	auf	_	
+4-25	515-518	dem	_	
+4-26	519-522	Rad	_	
+4-27	523-531	Richtung	*[6]	
+4-28	532-541	Kessenich	*[6]	
+4-29	542-545	und	*[6]	
+4-30	546-556	Dottendorf	*[6]	
+4-31	556-557	,	_	
+4-32	558-563	sowie	_	
+4-33	564-573	zukünftig	_	
+4-34	574-577	zum	_	
+4-35	578-585	Bahnhof	_	
+4-36	585-586	,	_	
+4-37	587-596	darstellt	_	
+4-38	596-597	.	_	

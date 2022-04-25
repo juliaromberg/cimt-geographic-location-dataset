@@ -1,0 +1,27 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verbesserung der Fahrbahndecke
+1-1	0-12	Verbesserung	_	
+1-2	13-16	der	_	
+1-3	17-30	Fahrbahndecke	_	
+
+#Text=Eine regelmäßige Fahrbahndecke mit einheitlicher Markierung sollte bis zum Übergang zum Bröltalbahnweg geschaffen werden.
+2-1	33-37	Eine	_	
+2-2	38-49	regelmäßige	_	
+2-3	50-63	Fahrbahndecke	_	
+2-4	64-67	mit	_	
+2-5	68-81	einheitlicher	_	
+2-6	82-92	Markierung	_	
+2-7	93-99	sollte	_	
+2-8	100-103	bis	_	
+2-9	104-107	zum	*[3]	
+2-10	108-116	Übergang	*[3]	
+2-11	117-120	zum	*[3]	
+2-12	121-135	Bröltalbahnweg	*[3]	
+2-13	136-146	geschaffen	_	
+2-14	147-153	werden	_	
+2-15	153-154	.	_	

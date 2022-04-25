@@ -1,0 +1,113 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=verwirrend Straße oder Fuß- und Radweg
+1-1	0-10	verwirrend	_	
+1-2	11-17	Straße	_	
+1-3	18-22	oder	_	
+1-4	23-26	Fuß	_	
+1-5	26-27	-	_	
+1-6	28-31	und	_	
+1-7	32-38	Radweg	_	
+
+#Text=Fährt man aus Richtung Am Probsthof kommend zur Kreuzung Bornheimer Straße so geschieht das auf einem auf der Straße markierten Radweg.
+2-1	41-46	Fährt	_	
+2-2	47-50	man	_	
+2-3	51-54	aus	*[6]	
+2-4	55-63	Richtung	*[6]	
+2-5	64-66	Am	*[6]	
+2-6	67-76	Probsthof	*[6]	
+2-7	77-84	kommend	*[6]	
+2-8	85-88	zur	*[6]	
+2-9	89-97	Kreuzung	*[6]	
+2-10	98-108	Bornheimer	*[6]	
+2-11	109-115	Straße	*[6]	
+2-12	116-118	so	_	
+2-13	119-128	geschieht	_	
+2-14	129-132	das	_	
+2-15	133-136	auf	_	
+2-16	137-142	einem	_	
+2-17	143-146	auf	_	
+2-18	147-150	der	_	
+2-19	151-157	Straße	_	
+2-20	158-168	markierten	_	
+2-21	169-175	Radweg	_	
+2-22	175-176	.	_	
+
+#Text=Das nach links Einbiegen in die Bornheimer Straße verwirrt jedoch, zumal man am Fußgängerweg eine Radfahrerfuhrt mit extra Radfahrerampel eingerichtet hat.
+3-1	177-180	Das	_	
+3-2	181-185	nach	*[7]	
+3-3	186-191	links	*[7]	
+3-4	192-201	Einbiegen	*[7]	
+3-5	202-204	in	*[7]	
+3-6	205-208	die	*[7]	
+3-7	209-219	Bornheimer	*[7]	
+3-8	220-226	Straße	*[7]	
+3-9	227-235	verwirrt	_	
+3-10	236-242	jedoch	_	
+3-11	242-243	,	_	
+3-12	244-249	zumal	_	
+3-13	250-253	man	_	
+3-14	254-256	am	_	
+3-15	257-269	Fußgängerweg	_	
+3-16	270-274	eine	_	
+3-17	275-289	Radfahrerfuhrt	_	
+3-18	290-293	mit	_	
+3-19	294-299	extra	_	
+3-20	300-314	Radfahrerampel	_	
+3-21	315-327	eingerichtet	_	
+3-22	328-331	hat	_	
+3-23	331-332	.	_	
+
+#Text=Eigentlich müsste man vor der Ampel auf den Fußgängerweg geleitet werden, damit das funktioniert.
+4-1	333-343	Eigentlich	_	
+4-2	344-350	müsste	_	
+4-3	351-354	man	_	
+4-4	355-358	vor	_	
+4-5	359-362	der	_	
+4-6	363-368	Ampel	_	
+4-7	369-372	auf	_	
+4-8	373-376	den	_	
+4-9	377-389	Fußgängerweg	_	
+4-10	390-398	geleitet	_	
+4-11	399-405	werden	_	
+4-12	405-406	,	_	
+4-13	407-412	damit	_	
+4-14	413-416	das	_	
+4-15	417-429	funktioniert	_	
+4-16	429-430	.	_	
+
+#Text=Außerdem wird man nicht von nachfolgenden Autofahrern angehupt, die gerne den grünen Rechtsabbiegerpfeil nutzen möchten, aber es nicht können wenn man vor ihnen an der Ampel steht.
+5-1	431-439	Außerdem	_	
+5-2	440-444	wird	_	
+5-3	445-448	man	_	
+5-4	449-454	nicht	_	
+5-5	455-458	von	_	
+5-6	459-472	nachfolgenden	_	
+5-7	473-484	Autofahrern	_	
+5-8	485-493	angehupt	_	
+5-9	493-494	,	_	
+5-10	495-498	die	_	
+5-11	499-504	gerne	_	
+5-12	505-508	den	_	
+5-13	509-515	grünen	_	
+5-14	516-535	Rechtsabbiegerpfeil	_	
+5-15	536-542	nutzen	_	
+5-16	543-550	möchten	_	
+5-17	550-551	,	_	
+5-18	552-556	aber	_	
+5-19	557-559	es	_	
+5-20	560-565	nicht	_	
+5-21	566-572	können	_	
+5-22	573-577	wenn	_	
+5-23	578-581	man	_	
+5-24	582-585	vor	_	
+5-25	586-591	ihnen	_	
+5-26	592-594	an	_	
+5-27	595-598	der	_	
+5-28	599-604	Ampel	_	
+5-29	605-610	steht	_	
+5-30	610-611	.	_	

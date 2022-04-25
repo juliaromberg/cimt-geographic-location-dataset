@@ -1,0 +1,151 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sinnnlose Einbahnstraße
+1-1	0-9	Sinnnlose	_	
+1-2	10-23	Einbahnstraße	_	
+
+#Text=Dieser Teil der Vorgebirgsstraße (Einbahnstraße) ist, anders als der Abschnitt am Frankenbad, nicht für Fahrräder freigegeben.
+2-1	26-32	Dieser	_	
+2-2	33-37	Teil	_	
+2-3	38-41	der	_	
+2-4	42-58	Vorgebirgsstraße	*	
+2-5	59-60	(	_	
+2-6	60-73	Einbahnstraße	_	
+2-7	73-74	)	_	
+2-8	75-78	ist	_	
+2-9	78-79	,	_	
+2-10	80-86	anders	_	
+2-11	87-90	als	_	
+2-12	91-94	der	_	
+2-13	95-104	Abschnitt	_	
+2-14	105-107	am	*[8]	
+2-15	108-118	Frankenbad	*[8]	
+2-16	118-119	,	_	
+2-17	120-125	nicht	_	
+2-18	126-129	für	_	
+2-19	130-139	Fahrräder	_	
+2-20	140-151	freigegeben	_	
+2-21	151-152	.	_	
+
+#Text=Von der Maxstraße aus kommen muss man auf den, für Fahrräder freigegebenen, Bürgersteig ausweichen.
+3-1	153-156	Von	*[9]	
+3-2	157-160	der	*[9]	
+3-3	161-170	Maxstraße	*[9]	
+3-4	171-174	aus	*[9]	
+3-5	175-181	kommen	*[9]	
+3-6	182-186	muss	_	
+3-7	187-190	man	_	
+3-8	191-194	auf	_	
+3-9	195-198	den	_	
+3-10	198-199	,	_	
+3-11	200-203	für	_	
+3-12	204-213	Fahrräder	_	
+3-13	214-227	freigegebenen	_	
+3-14	227-228	,	_	
+3-15	229-240	Bürgersteig	_	
+3-16	241-251	ausweichen	_	
+3-17	251-252	.	_	
+
+#Text=Dieser ist zwar ein wenig breiter als normal, viele Fußgänger wissen jedoch nicht, dass man als Radfahrer dort fahren darf.
+4-1	253-259	Dieser	_	
+4-2	260-263	ist	_	
+4-3	264-268	zwar	_	
+4-4	269-272	ein	_	
+4-5	273-278	wenig	_	
+4-6	279-286	breiter	_	
+4-7	287-290	als	_	
+4-8	291-297	normal	_	
+4-9	297-298	,	_	
+4-10	299-304	viele	_	
+4-11	305-314	Fußgänger	_	
+4-12	315-321	wissen	_	
+4-13	322-328	jedoch	_	
+4-14	329-334	nicht	_	
+4-15	334-335	,	_	
+4-16	336-340	dass	_	
+4-17	341-344	man	_	
+4-18	345-348	als	_	
+4-19	349-358	Radfahrer	_	
+4-20	359-363	dort	_	
+4-21	364-370	fahren	_	
+4-22	371-375	darf	_	
+4-23	375-376	.	_	
+
+#Text=Es kommt zu regelmäßigen Konflikten, insbesondere da sich auch ein Kiosk und ein Restaurant mit Sitzgelegenheiten auf dem Bürgersteig in diesem Teil der Straße befinden.
+5-1	377-379	Es	_	
+5-2	380-385	kommt	_	
+5-3	386-388	zu	_	
+5-4	389-401	regelmäßigen	_	
+5-5	402-412	Konflikten	_	
+5-6	412-413	,	_	
+5-7	414-426	insbesondere	_	
+5-8	427-429	da	_	
+5-9	430-434	sich	_	
+5-10	435-439	auch	_	
+5-11	440-443	ein	_	
+5-12	444-449	Kiosk	_	
+5-13	450-453	und	_	
+5-14	454-457	ein	_	
+5-15	458-468	Restaurant	_	
+5-16	469-472	mit	_	
+5-17	473-490	Sitzgelegenheiten	_	
+5-18	491-494	auf	_	
+5-19	495-498	dem	_	
+5-20	499-510	Bürgersteig	_	
+5-21	511-513	in	_	
+5-22	514-520	diesem	_	
+5-23	521-525	Teil	_	
+5-24	526-529	der	_	
+5-25	530-536	Straße	_	
+5-26	537-545	befinden	_	
+5-27	545-546	.	_	
+
+#Text=Man endet dann an der Ecke Vorgebirgsstraße/Adolfstraße auf dem Bürgersteig und hat es schwer, sich als Fahrradfahrer wieder auf der normalen Straße einzusortieren.
+6-1	547-550	Man	_	
+6-2	551-556	endet	_	
+6-3	557-561	dann	_	
+6-4	562-564	an	*[10]	
+6-5	565-568	der	*[10]	
+6-6	569-573	Ecke	*[10]	
+6-7	574-590	Vorgebirgsstraße	*[10]	
+6-8	590-591	/	*[10]	
+6-9	591-602	Adolfstraße	*[10]	
+6-10	603-606	auf	_	
+6-11	607-610	dem	_	
+6-12	611-622	Bürgersteig	_	
+6-13	623-626	und	_	
+6-14	627-630	hat	_	
+6-15	631-633	es	_	
+6-16	634-640	schwer	_	
+6-17	640-641	,	_	
+6-18	642-646	sich	_	
+6-19	647-650	als	_	
+6-20	651-664	Fahrradfahrer	_	
+6-21	665-671	wieder	_	
+6-22	672-675	auf	_	
+6-23	676-679	der	_	
+6-24	680-688	normalen	_	
+6-25	689-695	Straße	_	
+6-26	696-710	einzusortieren	_	
+6-27	710-711	.	_	
+
+#Text=Die Vorgebirgsstraße ist breit genug, um sie für Fahrradfahrer in beide Richtungen freizugeben.
+7-1	712-715	Die	*[11]	
+7-2	716-732	Vorgebirgsstraße	*[11]	
+7-3	733-736	ist	_	
+7-4	737-742	breit	_	
+7-5	743-748	genug	_	
+7-6	748-749	,	_	
+7-7	750-752	um	_	
+7-8	753-756	sie	_	
+7-9	757-760	für	_	
+7-10	761-774	Fahrradfahrer	_	
+7-11	775-777	in	_	
+7-12	778-783	beide	_	
+7-13	784-794	Richtungen	_	
+7-14	795-806	freizugeben	_	
+7-15	806-807	.	_	

@@ -1,0 +1,82 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sankt-Nimmerleins-Brücke
+1-1	0-24	Sankt-Nimmerleins-Brücke	_	
+
+#Text=Liebe Fahrradbeauftragte , Seid weit über 10 Jahren wird über eine Fahrrad und Fußgängerbrücke über die Weinsbergstrasse nachgedacht.
+2-1	27-32	Liebe	_	
+2-2	33-51	Fahrradbeauftragte	_	
+2-3	52-53	,	_	
+2-4	54-58	Seid	_	
+2-5	59-63	weit	_	
+2-6	64-68	über	_	
+2-7	69-71	10	_	
+2-8	72-78	Jahren	_	
+2-9	79-83	wird	_	
+2-10	84-88	über	_	
+2-11	89-93	eine	_	
+2-12	94-101	Fahrrad	_	
+2-13	102-105	und	_	
+2-14	106-121	Fußgängerbrücke	_	
+2-15	122-126	über	*[5]	
+2-16	127-130	die	*[5]	
+2-17	131-147	Weinsbergstrasse	*[5]	
+2-18	148-159	nachgedacht	_	
+2-19	159-160	.	_	
+
+#Text=Es sollen sogar schon Gelder bewilligt gewesen sein , die wieder verfallen sind .
+3-1	161-163	Es	_	
+3-2	164-170	sollen	_	
+3-3	171-176	sogar	_	
+3-4	177-182	schon	_	
+3-5	183-189	Gelder	_	
+3-6	190-199	bewilligt	_	
+3-7	200-207	gewesen	_	
+3-8	208-212	sein	_	
+3-9	213-214	,	_	
+3-10	215-218	die	_	
+3-11	219-225	wieder	_	
+3-12	226-235	verfallen	_	
+3-13	236-240	sind	_	
+3-14	241-242	.	_	
+
+#Text=Es währe doch langsam mal Zeit was zu tun , zumal durch den Schulneubau auf dem Rheinlandhallengelände über eine Verbesserung der Schulwegsicherheit nachgedacht werden sollte.
+4-1	243-245	Es	_	
+4-2	246-251	währe	_	
+4-3	252-256	doch	_	
+4-4	257-264	langsam	_	
+4-5	265-268	mal	_	
+4-6	269-273	Zeit	_	
+4-7	274-277	was	_	
+4-8	278-280	zu	_	
+4-9	281-284	tun	_	
+4-10	285-286	,	_	
+4-11	287-292	zumal	_	
+4-12	293-298	durch	_	
+4-13	299-302	den	_	
+4-14	303-314	Schulneubau	_	
+4-15	315-318	auf	_	
+4-16	319-322	dem	_	
+4-17	323-345	Rheinlandhallengelände	_	
+4-18	346-350	über	_	
+4-19	351-355	eine	_	
+4-20	356-368	Verbesserung	_	
+4-21	369-372	der	_	
+4-22	373-391	Schulwegsicherheit	_	
+4-23	392-403	nachgedacht	_	
+4-24	404-410	werden	_	
+4-25	411-417	sollte	_	
+4-26	417-418	.	_	
+
+#Text=mit freundlichen Grüssen [Name entfernt]
+5-1	419-422	mit	_	
+5-2	423-435	freundlichen	_	
+5-3	436-443	Grüssen	_	
+5-4	444-445	[	_	
+5-5	445-449	Name	_	
+5-6	450-458	entfernt	_	
+5-7	458-459	]	_	

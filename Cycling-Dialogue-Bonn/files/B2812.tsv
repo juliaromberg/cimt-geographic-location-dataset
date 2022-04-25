@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kaiser-Konrad-Straße zur Fahrradstraße
+1-1	0-20	Kaiser-Konrad-Straße	*	
+1-2	21-24	zur	_	
+1-3	25-38	Fahrradstraße	_	
+
+#Text=Die Kaiser-Konrad-Straße bietet (neben dem Bröltalbahnweg) eine schöne und ampelfreie Ausweichmöglichkeit anstelle der sehr unangenehm zu befahrenden B56 über den KAP zur Kennedybrücke bzw. zum Rheinufer.
+2-1	41-44	Die	*[3]	
+2-2	45-65	Kaiser-Konrad-Straße	*[3]	
+2-3	66-72	bietet	_	
+2-4	73-74	(	_	
+2-5	74-79	neben	_	
+2-6	80-83	dem	_	
+2-7	84-98	Bröltalbahnweg	*	
+2-8	98-99	)	_	
+2-9	100-104	eine	_	
+2-10	105-111	schöne	_	
+2-11	112-115	und	_	
+2-12	116-126	ampelfreie	_	
+2-13	127-146	Ausweichmöglichkeit	_	
+2-14	147-155	anstelle	_	
+2-15	156-159	der	_	
+2-16	160-164	sehr	_	
+2-17	165-175	unangenehm	_	
+2-18	176-178	zu	_	
+2-19	179-190	befahrenden	_	
+2-20	191-194	B56	*[4]	
+2-21	195-199	über	*[4]	
+2-22	200-203	den	*[4]	
+2-23	204-207	KAP	*[4]	
+2-24	208-211	zur	*[4]	
+2-25	212-225	Kennedybrücke	*[4]	
+2-26	226-229	bzw	*[4]	
+2-27	229-230	.	*[4]	
+2-28	231-234	zum	*[4]	
+2-29	235-244	Rheinufer	*[4]	
+2-30	244-245	.	_	

@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kaiserplatz
+1-1	0-11	Kaiserplatz	*	
+
+#Text=Der Radweg entlang der Kaiserstraße endet am Kaiserplatz auf dem Gehweg.
+2-1	14-17	Der	_	
+2-2	18-24	Radweg	_	
+2-3	25-32	entlang	*[3]	
+2-4	33-36	der	*[3]	
+2-5	37-49	Kaiserstraße	*[3]	
+2-6	50-55	endet	_	
+2-7	56-58	am	*[4]	
+2-8	59-70	Kaiserplatz	*[4]	
+2-9	71-74	auf	_	
+2-10	75-78	dem	_	
+2-11	79-85	Gehweg	_	
+2-12	85-86	.	_	
+
+#Text=Bessere Überleitung in regulären Straßenverkehr durch Markierungen auf der Straße erwünscht.
+3-1	87-94	Bessere	_	
+3-2	95-106	Überleitung	_	
+3-3	107-109	in	_	
+3-4	110-119	regulären	_	
+3-5	120-134	Straßenverkehr	_	
+3-6	135-140	durch	_	
+3-7	141-153	Markierungen	_	
+3-8	154-157	auf	_	
+3-9	158-161	der	_	
+3-10	162-168	Straße	_	
+3-11	169-178	erwünscht	_	
+3-12	178-179	.	_	

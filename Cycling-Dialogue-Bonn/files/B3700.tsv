@@ -1,0 +1,160 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unverständliche Beschilderung
+1-1	0-15	Unverständliche	_	
+1-2	16-29	Beschilderung	_	
+
+#Text=Wenn die Baustelle wieder weg ist, kann man von der Karl-Legien-Straße zwischen Hafen und Klärwerk zum Rhein-Ufer gelangen.
+2-1	32-36	Wenn	_	
+2-2	37-40	die	_	
+2-3	41-50	Baustelle	_	
+2-4	51-57	wieder	_	
+2-5	58-61	weg	_	
+2-6	62-65	ist	_	
+2-7	65-66	,	_	
+2-8	67-71	kann	_	
+2-9	72-75	man	_	
+2-10	76-79	von	*[13]	
+2-11	80-83	der	*[13]	
+2-12	84-102	Karl-Legien-Straße	*[13]	
+2-13	103-111	zwischen	*[13]	
+2-14	112-117	Hafen	*[13]	
+2-15	118-121	und	*[13]	
+2-16	122-130	Klärwerk	*[13]	
+2-17	131-134	zum	*[13]	
+2-18	135-145	Rhein-Ufer	*[13]	
+2-19	146-154	gelangen	_	
+2-20	154-155	.	_	
+
+#Text=Dort ist mit einem Geh/Fahrradschild ausgeschildert.
+3-1	156-160	Dort	_	
+3-2	161-164	ist	_	
+3-3	165-168	mit	_	
+3-4	169-174	einem	_	
+3-5	175-178	Geh	_	
+3-6	178-179	/	_	
+3-7	179-192	Fahrradschild	_	
+3-8	193-207	ausgeschildert	_	
+3-9	207-208	.	_	
+
+#Text=Was mich doch nachdenklich macht ist das Textschild darunter, was ich jetzt schon ein 2tes Mal in Bonn gesehen habe.
+4-1	209-212	Was	_	
+4-2	213-217	mich	_	
+4-3	218-222	doch	_	
+4-4	223-235	nachdenklich	_	
+4-5	236-241	macht	_	
+4-6	242-245	ist	_	
+4-7	246-249	das	_	
+4-8	250-260	Textschild	_	
+4-9	261-269	darunter	_	
+4-10	269-270	,	_	
+4-11	271-274	was	_	
+4-12	275-278	ich	_	
+4-13	279-284	jetzt	_	
+4-14	285-290	schon	_	
+4-15	291-294	ein	_	
+4-16	295-299	2tes	_	
+4-17	300-303	Mal	_	
+4-18	304-306	in	*[14]	
+4-19	307-311	Bonn	*[14]	
+4-20	312-319	gesehen	_	
+4-21	320-324	habe	_	
+4-22	324-325	.	_	
+
+#Text=Darunter steht Anlieger frei.
+5-1	326-334	Darunter	_	
+5-2	335-340	steht	_	
+5-3	341-349	Anlieger	_	
+5-4	350-354	frei	_	
+5-5	354-355	.	_	
+
+#Text=Mich verwirrt das und ich weiß nicht wie es Anderen Mitbürgern geht.
+6-1	356-360	Mich	_	
+6-2	361-369	verwirrt	_	
+6-3	370-373	das	_	
+6-4	374-377	und	_	
+6-5	378-381	ich	_	
+6-6	382-386	weiß	_	
+6-7	387-392	nicht	_	
+6-8	393-396	wie	_	
+6-9	397-399	es	_	
+6-10	400-407	Anderen	_	
+6-11	408-418	Mitbürgern	_	
+6-12	419-423	geht	_	
+6-13	423-424	.	_	
+
+#Text=Darf ich dort nur als Anlieger mit dem Fahrrad fahren?
+7-1	425-429	Darf	_	
+7-2	430-433	ich	_	
+7-3	434-438	dort	_	
+7-4	439-442	nur	_	
+7-5	443-446	als	_	
+7-6	447-455	Anlieger	_	
+7-7	456-459	mit	_	
+7-8	460-463	dem	_	
+7-9	464-471	Fahrrad	_	
+7-10	472-478	fahren	_	
+7-11	478-479	?	_	
+
+#Text=Wohl kaum!
+8-1	480-484	Wohl	_	
+8-2	485-489	kaum	_	
+8-3	489-490	!	_	
+
+#Text=Aber wer denn dann?
+9-1	491-495	Aber	_	
+9-2	496-499	wer	_	
+9-3	500-504	denn	_	
+9-4	505-509	dann	_	
+9-5	509-510	?	_	
+
+#Text=Es ist doch nur für Fussgänger und Fahrradfahrer erlaubt.
+10-1	511-513	Es	_	
+10-2	514-517	ist	_	
+10-3	518-522	doch	_	
+10-4	523-526	nur	_	
+10-5	527-530	für	_	
+10-6	531-541	Fussgänger	_	
+10-7	542-545	und	_	
+10-8	546-559	Fahrradfahrer	_	
+10-9	560-567	erlaubt	_	
+10-10	567-568	.	_	
+
+#Text=Sollte das ein Freibrief für PKW, LKW etc. sein?
+11-1	569-575	Sollte	_	
+11-2	576-579	das	_	
+11-3	580-583	ein	_	
+11-4	584-593	Freibrief	_	
+11-5	594-597	für	_	
+11-6	598-601	PKW	_	
+11-7	601-602	,	_	
+11-8	603-606	LKW	_	
+11-9	607-610	etc	_	
+11-10	610-611	.	_	
+11-11	612-616	sein	_	
+11-12	616-617	?	_	
+
+#Text=Ich denke ein Verbotsschild für Auto und Motorad mit Hinweis auf Anlieger wäre besser und klarer zu verstehen.
+12-1	618-621	Ich	_	
+12-2	622-627	denke	_	
+12-3	628-631	ein	_	
+12-4	632-645	Verbotsschild	_	
+12-5	646-649	für	_	
+12-6	650-654	Auto	_	
+12-7	655-658	und	_	
+12-8	659-666	Motorad	_	
+12-9	667-670	mit	_	
+12-10	671-678	Hinweis	_	
+12-11	679-682	auf	_	
+12-12	683-691	Anlieger	_	
+12-13	692-696	wäre	_	
+12-14	697-703	besser	_	
+12-15	704-707	und	_	
+12-16	708-714	klarer	_	
+12-17	715-717	zu	_	
+12-18	718-727	verstehen	_	
+12-19	727-728	.	_	

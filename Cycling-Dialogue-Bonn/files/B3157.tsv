@@ -1,0 +1,120 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zufahrt zu Supermarkt schlecht gelöst
+1-1	0-7	Zufahrt	_	
+1-2	8-10	zu	_	
+1-3	11-21	Supermarkt	_	
+1-4	22-30	schlecht	_	
+1-5	31-37	gelöst	_	
+
+#Text=Die Situation der Zufahrten zu den Geschäften ist hier gefährlich und kaum nachvollziehbar.
+2-1	40-43	Die	_	
+2-2	44-53	Situation	_	
+2-3	54-57	der	_	
+2-4	58-67	Zufahrten	_	
+2-5	68-70	zu	_	
+2-6	71-74	den	_	
+2-7	75-85	Geschäften	_	
+2-8	86-89	ist	_	
+2-9	90-94	hier	_	
+2-10	95-105	gefährlich	_	
+2-11	106-109	und	_	
+2-12	110-114	kaum	_	
+2-13	115-130	nachvollziehbar	_	
+2-14	130-131	.	_	
+
+#Text=Eine Linksabbiegerspur von der Grootestraße fehlt, man muss gleichzeitig auf Fußgänger, Radfahrer und Gegenverkehr aus drei Richtungen achten.
+3-1	132-136	Eine	*[5]	
+3-2	137-154	Linksabbiegerspur	*[5]	
+3-3	155-158	von	*[5]	
+3-4	159-162	der	*[5]	
+3-5	163-175	Grootestraße	*[5]	
+3-6	176-181	fehlt	_	
+3-7	181-182	,	_	
+3-8	183-186	man	_	
+3-9	187-191	muss	_	
+3-10	192-204	gleichzeitig	_	
+3-11	205-208	auf	_	
+3-12	209-218	Fußgänger	_	
+3-13	218-219	,	_	
+3-14	220-229	Radfahrer	_	
+3-15	230-233	und	_	
+3-16	234-246	Gegenverkehr	_	
+3-17	247-250	aus	_	
+3-18	251-255	drei	_	
+3-19	256-266	Richtungen	_	
+3-20	267-273	achten	_	
+3-21	273-274	.	_	
+
+#Text=Eine Straßenseite ist komplett bis an den Zaun gebaut - man sieht nicht um die Ecke, Fußgänger kreuzen ohne Vorwarnung, die Straße ist dazu sehr schmal und macht unmögliche Kurven, der Bürgersteig endet im Nichts, 10 Km/h fährt hier keiner, ... warum daraus keine Einbahnstraße mit ordentlichem Rad- und Fußweg gemacht wurde, ist mir unverständlich.
+4-1	275-279	Eine	_	
+4-2	280-292	Straßenseite	_	
+4-3	293-296	ist	_	
+4-4	297-305	komplett	_	
+4-5	306-309	bis	_	
+4-6	310-312	an	_	
+4-7	313-316	den	_	
+4-8	317-321	Zaun	_	
+4-9	322-328	gebaut	_	
+4-10	329-330	-	_	
+4-11	331-334	man	_	
+4-12	335-340	sieht	_	
+4-13	341-346	nicht	_	
+4-14	347-349	um	_	
+4-15	350-353	die	_	
+4-16	354-358	Ecke	_	
+4-17	358-359	,	_	
+4-18	360-369	Fußgänger	_	
+4-19	370-377	kreuzen	_	
+4-20	378-382	ohne	_	
+4-21	383-393	Vorwarnung	_	
+4-22	393-394	,	_	
+4-23	395-398	die	_	
+4-24	399-405	Straße	_	
+4-25	406-409	ist	_	
+4-26	410-414	dazu	_	
+4-27	415-419	sehr	_	
+4-28	420-426	schmal	_	
+4-29	427-430	und	_	
+4-30	431-436	macht	_	
+4-31	437-447	unmögliche	_	
+4-32	448-454	Kurven	_	
+4-33	454-455	,	_	
+4-34	456-459	der	_	
+4-35	460-471	Bürgersteig	_	
+4-36	472-477	endet	_	
+4-37	478-480	im	_	
+4-38	481-487	Nichts	_	
+4-39	487-488	,	_	
+4-40	489-491	10	_	
+4-41	492-494	Km	_	
+4-42	494-495	/	_	
+4-43	495-496	h	_	
+4-44	497-502	fährt	_	
+4-45	503-507	hier	_	
+4-46	508-514	keiner	_	
+4-47	514-515	,	_	
+4-48	516-517	.	_	
+4-49	517-518	.	_	
+4-50	518-519	.	_	
+4-51	520-525	warum	_	
+4-52	526-532	daraus	_	
+4-53	533-538	keine	_	
+4-54	539-552	Einbahnstraße	_	
+4-55	553-556	mit	_	
+4-56	557-569	ordentlichem	_	
+4-57	570-573	Rad	_	
+4-58	573-574	-	_	
+4-59	575-578	und	_	
+4-60	579-585	Fußweg	_	
+4-61	586-593	gemacht	_	
+4-62	594-599	wurde	_	
+4-63	599-600	,	_	
+4-64	601-604	ist	_	
+4-65	605-608	mir	_	
+4-66	609-623	unverständlich	_	
+4-67	623-624	.	_	

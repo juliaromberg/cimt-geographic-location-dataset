@@ -1,0 +1,50 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Starke Steigung
+1-1	0-6	Starke	_	
+1-2	7-15	Steigung	_	
+
+#Text=Das Estermannufer hat hier Richtung Stadtmitte an einer Stelle eine sehr starke Steigung.
+2-1	18-21	Das	*[5]	
+2-2	22-35	Estermannufer	*[5]	
+2-3	36-39	hat	_	
+2-4	40-44	hier	_	
+2-5	45-53	Richtung	*[6]	
+2-6	54-64	Stadtmitte	*[6]	
+2-7	65-67	an	_	
+2-8	68-73	einer	_	
+2-9	74-80	Stelle	_	
+2-10	81-85	eine	_	
+2-11	86-90	sehr	_	
+2-12	91-97	starke	_	
+2-13	98-106	Steigung	_	
+2-14	106-107	.	_	
+
+#Text=Die Steigung ist für Normal-Radfahrer kaum oder nur unter großer Anstrengung zu bewältigen.
+3-1	108-111	Die	_	
+3-2	112-120	Steigung	_	
+3-3	121-124	ist	_	
+3-4	125-128	für	_	
+3-5	129-145	Normal-Radfahrer	_	
+3-6	146-150	kaum	_	
+3-7	151-155	oder	_	
+3-8	156-159	nur	_	
+3-9	160-165	unter	_	
+3-10	166-172	großer	_	
+3-11	173-184	Anstrengung	_	
+3-12	185-187	zu	_	
+3-13	188-198	bewältigen	_	
+3-14	198-199	.	_	
+
+#Text=Die Steigung sollte hier verringert werden.
+4-1	200-203	Die	_	
+4-2	204-212	Steigung	_	
+4-3	213-219	sollte	_	
+4-4	220-224	hier	_	
+4-5	225-235	verringert	_	
+4-6	236-242	werden	_	
+4-7	242-243	.	_	

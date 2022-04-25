@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrbereich und Haltebereich zu schmal
+1-1	0-11	Fahrbereich	_	
+1-2	12-15	und	_	
+1-3	16-28	Haltebereich	_	
+1-4	29-31	zu	_	
+1-5	32-38	schmal	_	
+
+#Text=Bei roter Ampel und stehenden Autos ist der Haltebereich auf dem Radweg viel zu klein und zu gefährlich an der Ampel Fahrtrichtung Stadtauswärts Venloerstr./Grütel.
+2-1	41-44	Bei	_	
+2-2	45-50	roter	_	
+2-3	51-56	Ampel	_	
+2-4	57-60	und	_	
+2-5	61-70	stehenden	_	
+2-6	71-76	Autos	_	
+2-7	77-80	ist	_	
+2-8	81-84	der	_	
+2-9	85-97	Haltebereich	_	
+2-10	98-101	auf	_	
+2-11	102-105	dem	_	
+2-12	106-112	Radweg	_	
+2-13	113-117	viel	_	
+2-14	118-120	zu	_	
+2-15	121-126	klein	_	
+2-16	127-130	und	_	
+2-17	131-133	zu	_	
+2-18	134-144	gefährlich	_	
+2-19	145-147	an	*[4]	
+2-20	148-151	der	*[4]	
+2-21	152-157	Ampel	*[4]	
+2-22	158-171	Fahrtrichtung	*[4]	
+2-23	172-185	Stadtauswärts	*[4]	
+2-24	186-196	Venloerstr	*[4]	
+2-25	196-197	.	*[4]	
+2-26	197-198	/	*[4]	
+2-27	198-204	Grütel	*[4]	
+2-28	204-205	.	_	
+
+#Text=Imm weider parken unmittelbar vor der schmalen Stelle wo rechts die Treppe zur Bahn ist Taxen oder Autos um Fahrgäste aufzunehmen oder abzuliefern.
+3-1	206-209	Imm	_	
+3-2	210-216	weider	_	
+3-3	217-223	parken	_	
+3-4	224-235	unmittelbar	_	
+3-5	236-239	vor	_	
+3-6	240-243	der	_	
+3-7	244-252	schmalen	_	
+3-8	253-259	Stelle	_	
+3-9	260-262	wo	_	
+3-10	263-269	rechts	_	
+3-11	270-273	die	_	
+3-12	274-280	Treppe	_	
+3-13	281-284	zur	_	
+3-14	285-289	Bahn	_	
+3-15	290-293	ist	_	
+3-16	294-299	Taxen	_	
+3-17	300-304	oder	_	
+3-18	305-310	Autos	_	
+3-19	311-313	um	_	
+3-20	314-323	Fahrgäste	_	
+3-21	324-335	aufzunehmen	_	
+3-22	336-340	oder	_	
+3-23	341-352	abzuliefern	_	
+3-24	352-353	.	_	

@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kasernenstraße für Radverkehr in beide Richtungen frei geben
+1-1	0-14	Kasernenstraße	_	
+1-2	15-18	für	_	
+1-3	19-29	Radverkehr	_	
+1-4	30-32	in	_	
+1-5	33-38	beide	_	
+1-6	39-49	Richtungen	_	
+1-7	50-54	frei	_	
+1-8	55-60	geben	_	
+
+#Text=Da es von der Oxfordstraße keine wirklich gute und sichere Möglichkeit gibt, in Richtung Nord-Ost zu fahren, sollte die Kasernenstraße hier in beide Richtungen freigegeben werden.
+2-1	63-65	Da	_	
+2-2	66-68	es	_	
+2-3	69-72	von	_	
+2-4	73-76	der	_	
+2-5	77-89	Oxfordstraße	*	
+2-6	90-95	keine	_	
+2-7	96-104	wirklich	_	
+2-8	105-109	gute	_	
+2-9	110-113	und	_	
+2-10	114-121	sichere	_	
+2-11	122-133	Möglichkeit	_	
+2-12	134-138	gibt	_	
+2-13	138-139	,	_	
+2-14	140-142	in	_	
+2-15	143-151	Richtung	_	
+2-16	152-160	Nord-Ost	_	
+2-17	161-163	zu	_	
+2-18	164-170	fahren	_	
+2-19	170-171	,	_	
+2-20	172-178	sollte	_	
+2-21	179-182	die	*[4]	
+2-22	183-197	Kasernenstraße	*[4]	
+2-23	198-202	hier	_	
+2-24	203-205	in	_	
+2-25	206-211	beide	_	
+2-26	212-222	Richtungen	_	
+2-27	223-234	freigegeben	_	
+2-28	235-241	werden	_	
+2-29	241-242	.	_	
+
+#Text=Eine gute Ampelschaltung hier könnte zudem helfen die südliche Kasernenstraße zu einer Zufahrt zur Innenstadt für Fahrräder umzugestalten(z.B bis zur Vivatsgasse).
+3-1	243-247	Eine	_	
+3-2	248-252	gute	_	
+3-3	253-267	Ampelschaltung	_	
+3-4	268-272	hier	_	
+3-5	273-279	könnte	_	
+3-6	280-285	zudem	_	
+3-7	286-292	helfen	_	
+3-8	293-296	die	*[5]	
+3-9	297-305	südliche	*[5]	
+3-10	306-320	Kasernenstraße	*[5]	
+3-11	321-323	zu	_	
+3-12	324-329	einer	_	
+3-13	330-337	Zufahrt	_	
+3-14	338-341	zur	*[6]	
+3-15	342-352	Innenstadt	*[6]	
+3-16	353-356	für	_	
+3-17	357-366	Fahrräder	_	
+3-18	367-380	umzugestalten	_	
+3-19	380-381	(	_	
+3-20	381-384	z.B	_	
+3-21	385-388	bis	*[7]	
+3-22	389-392	zur	*[7]	
+3-23	393-404	Vivatsgasse	*[7]	
+3-24	404-405	)	_	
+3-25	405-406	.	_	

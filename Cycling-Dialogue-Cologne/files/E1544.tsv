@@ -1,0 +1,67 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegmarkierung erneuern
+1-1	0-16	Radwegmarkierung	_	
+1-2	17-25	erneuern	_	
+
+#Text=Die Markierung des Radweges zur Querung der Fröbelstraße muss erneuert werden.
+2-1	28-31	Die	_	
+2-2	32-42	Markierung	_	
+2-3	43-46	des	_	
+2-4	47-55	Radweges	*[5]	
+2-5	56-59	zur	*[5]	
+2-6	60-67	Querung	*[5]	
+2-7	68-71	der	*[5]	
+2-8	72-84	Fröbelstraße	*[5]	
+2-9	85-89	muss	_	
+2-10	90-98	erneuert	_	
+2-11	99-105	werden	_	
+2-12	105-106	.	_	
+
+#Text=Aufgrund der strassenseitigen Parkplätze in der Weinsbergstraße rechts und links vom Mündungsbereich der Fröbelstraße liegt der Rad weg weit in den Wartebereich für PKW´s zurück.
+3-1	107-115	Aufgrund	_	
+3-2	116-119	der	_	
+3-3	120-136	strassenseitigen	*[6]	
+3-4	137-147	Parkplätze	*[6]	
+3-5	148-150	in	*[6]	
+3-6	151-154	der	*[6]	
+3-7	155-170	Weinsbergstraße	*[6]	
+3-8	171-177	rechts	*[6]	
+3-9	178-181	und	*[6]	
+3-10	182-187	links	*[6]	
+3-11	188-191	vom	*[6]	
+3-12	192-207	Mündungsbereich	*[6]	
+3-13	208-211	der	*[6]	
+3-14	212-224	Fröbelstraße	*[6]	
+3-15	225-230	liegt	_	
+3-16	231-234	der	_	
+3-17	235-238	Rad	_	
+3-18	239-242	weg	_	
+3-19	243-247	weit	_	
+3-20	248-250	in	_	
+3-21	251-254	den	_	
+3-22	255-267	Wartebereich	_	
+3-23	268-271	für	_	
+3-24	272-275	PKW	_	
+3-25	275-276	´	_	
+3-26	276-277	s	_	
+3-27	278-284	zurück	_	
+3-28	284-285	.	_	
+
+#Text=Wartende PKW´s blockieren regelmäßig die Vorfahrt für durchfahrende Radfahrer.
+4-1	286-294	Wartende	_	
+4-2	295-298	PKW	_	
+4-3	298-299	´	_	
+4-4	299-300	s	_	
+4-5	301-311	blockieren	_	
+4-6	312-322	regelmäßig	_	
+4-7	323-326	die	_	
+4-8	327-335	Vorfahrt	_	
+4-9	336-339	für	_	
+4-10	340-353	durchfahrende	_	
+4-11	354-363	Radfahrer	_	
+4-12	363-364	.	_	

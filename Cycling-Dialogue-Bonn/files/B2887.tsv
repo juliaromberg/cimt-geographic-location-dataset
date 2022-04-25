@@ -1,0 +1,98 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vorrang für den Radverkehr einrichten
+1-1	0-7	Vorrang	_	
+1-2	8-11	für	_	
+1-3	12-15	den	_	
+1-4	16-26	Radverkehr	_	
+1-5	27-37	einrichten	_	
+
+#Text=Die Querung der Straße Am Herrengarten ist für den Radverkehr sehr ungünstig.
+2-1	40-43	Die	*[6]	
+2-2	44-51	Querung	*[6]	
+2-3	52-55	der	*[6]	
+2-4	56-62	Straße	*[6]	
+2-5	63-65	Am	*[6]	
+2-6	66-78	Herrengarten	*[6]	
+2-7	79-82	ist	_	
+2-8	83-86	für	_	
+2-9	87-90	den	_	
+2-10	91-101	Radverkehr	_	
+2-11	102-106	sehr	_	
+2-12	107-116	ungünstig	_	
+2-13	116-117	.	_	
+
+#Text=Hier ist viel Autoverkehr und man muss als Radfahrer in beiden Fahrtrichtungen direkt nach dem Bahnübergang links abbiegen.
+3-1	118-122	Hier	_	
+3-2	123-126	ist	_	
+3-3	127-131	viel	_	
+3-4	132-143	Autoverkehr	_	
+3-5	144-147	und	_	
+3-6	148-151	man	_	
+3-7	152-156	muss	_	
+3-8	157-160	als	_	
+3-9	161-170	Radfahrer	_	
+3-10	171-173	in	_	
+3-11	174-180	beiden	_	
+3-12	181-196	Fahrtrichtungen	_	
+3-13	197-203	direkt	_	
+3-14	204-208	nach	_	
+3-15	209-212	dem	_	
+3-16	213-225	Bahnübergang	_	
+3-17	226-231	links	_	
+3-18	232-240	abbiegen	_	
+3-19	240-241	.	_	
+
+#Text=Hier müsste besser auf den Radverkehr aufmerksam gemacht werden, beispielsweise durch Markierungen, besser aber durch bauliche Veränderungen.
+4-1	242-246	Hier	_	
+4-2	247-253	müsste	_	
+4-3	254-260	besser	_	
+4-4	261-264	auf	_	
+4-5	265-268	den	_	
+4-6	269-279	Radverkehr	_	
+4-7	280-290	aufmerksam	_	
+4-8	291-298	gemacht	_	
+4-9	299-305	werden	_	
+4-10	305-306	,	_	
+4-11	307-321	beispielsweise	_	
+4-12	322-327	durch	_	
+4-13	328-340	Markierungen	_	
+4-14	340-341	,	_	
+4-15	342-348	besser	_	
+4-16	349-353	aber	_	
+4-17	354-359	durch	_	
+4-18	360-368	bauliche	_	
+4-19	369-382	Veränderungen	_	
+4-20	382-383	.	_	
+
+#Text=Schön wäre es auch gewesen, wenn im Zuge der Fahrbahnsanierung der Bordstein zum Geh- und Radweg zur Beueler Straße nieveaugleich abgesenkt worden wäre.
+5-1	384-389	Schön	_	
+5-2	390-394	wäre	_	
+5-3	395-397	es	_	
+5-4	398-402	auch	_	
+5-5	403-410	gewesen	_	
+5-6	410-411	,	_	
+5-7	412-416	wenn	_	
+5-8	417-419	im	_	
+5-9	420-424	Zuge	_	
+5-10	425-428	der	_	
+5-11	429-446	Fahrbahnsanierung	_	
+5-12	447-450	der	_	
+5-13	451-460	Bordstein	_	
+5-14	461-464	zum	_	
+5-15	465-468	Geh	*[7]	
+5-16	468-469	-	*[7]	
+5-17	470-473	und	*[7]	
+5-18	474-480	Radweg	*[7]	
+5-19	481-484	zur	*[7]	
+5-20	485-492	Beueler	*[7]	
+5-21	493-499	Straße	*[7]	
+5-22	500-513	nieveaugleich	_	
+5-23	514-523	abgesenkt	_	
+5-24	524-530	worden	_	
+5-25	531-535	wäre	_	
+5-26	535-536	.	_	

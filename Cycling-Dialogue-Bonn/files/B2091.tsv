@@ -1,0 +1,128 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zebrastreifen
+1-1	0-13	Zebrastreifen	_	
+
+#Text=Von der Ennemoserstrasse kommend und in Richtung 'Auf dem Hügel' fahren wollend ist offiziell der Radweg mit Beschilderung hinter dem Radparkplatz beendet.
+2-1	16-19	Von	*[7]	
+2-2	20-23	der	*[7]	
+2-3	24-40	Ennemoserstrasse	*[7]	
+2-4	41-48	kommend	*[7]	
+2-5	49-52	und	*[7]	
+2-6	53-55	in	*[7]	
+2-7	56-64	Richtung	*[7]	
+2-8	65-66	'	*[7]	
+2-9	66-69	Auf	*[7]	
+2-10	70-73	dem	*[7]	
+2-11	74-79	Hügel	*[7]	
+2-12	79-80	'	_	
+2-13	81-87	fahren	_	
+2-14	88-95	wollend	_	
+2-15	96-99	ist	_	
+2-16	100-109	offiziell	_	
+2-17	110-113	der	_	
+2-18	114-120	Radweg	_	
+2-19	121-124	mit	_	
+2-20	125-138	Beschilderung	_	
+2-21	139-145	hinter	_	
+2-22	146-149	dem	_	
+2-23	150-162	Radparkplatz	_	
+2-24	163-170	beendet	_	
+2-25	170-171	.	_	
+
+#Text=Somit ist eine Weiterfahrt nur auf der Strasse 'Am Probsthof' möglich.
+3-1	172-177	Somit	_	
+3-2	178-181	ist	_	
+3-3	182-186	eine	_	
+3-4	187-198	Weiterfahrt	_	
+3-5	199-202	nur	_	
+3-6	203-206	auf	_	
+3-7	207-210	der	_	
+3-8	211-218	Strasse	_	
+3-9	219-220	'	_	
+3-10	220-222	Am	*[8]	
+3-11	223-232	Probsthof	*[8]	
+3-12	232-233	'	_	
+3-13	234-241	möglich	_	
+3-14	241-242	.	_	
+
+#Text=Zur Überquerung der stark befahrenen Strasse ist zwar in der Mitte eine 'Rettungsinsel' vorhanden, aber um diese zu erreichen, muß man sich wagemutig in den fliessenden Verkehr hineindrängen.
+4-1	243-246	Zur	_	
+4-2	247-258	Überquerung	_	
+4-3	259-262	der	_	
+4-4	263-268	stark	_	
+4-5	269-279	befahrenen	_	
+4-6	280-287	Strasse	_	
+4-7	288-291	ist	_	
+4-8	292-296	zwar	_	
+4-9	297-299	in	_	
+4-10	300-303	der	_	
+4-11	304-309	Mitte	_	
+4-12	310-314	eine	_	
+4-13	315-316	'	_	
+4-14	316-329	Rettungsinsel	_	
+4-15	329-330	'	_	
+4-16	331-340	vorhanden	_	
+4-17	340-341	,	_	
+4-18	342-346	aber	_	
+4-19	347-349	um	_	
+4-20	350-355	diese	_	
+4-21	356-358	zu	_	
+4-22	359-368	erreichen	_	
+4-23	368-369	,	_	
+4-24	370-373	muß	_	
+4-25	374-377	man	_	
+4-26	378-382	sich	_	
+4-27	383-392	wagemutig	_	
+4-28	393-395	in	_	
+4-29	396-399	den	_	
+4-30	400-411	fliessenden	_	
+4-31	412-419	Verkehr	_	
+4-32	420-433	hineindrängen	_	
+4-33	433-434	.	_	
+
+#Text=Was hier an dieser gefährlichen Stelle fehlt ist ein Zebrastreifen, der einem das Überqueren erleichtern würde.
+5-1	435-438	Was	_	
+5-2	439-443	hier	_	
+5-3	444-446	an	_	
+5-4	447-453	dieser	_	
+5-5	454-466	gefährlichen	_	
+5-6	467-473	Stelle	_	
+5-7	474-479	fehlt	_	
+5-8	480-483	ist	_	
+5-9	484-487	ein	_	
+5-10	488-501	Zebrastreifen	_	
+5-11	501-502	,	_	
+5-12	503-506	der	_	
+5-13	507-512	einem	_	
+5-14	513-516	das	_	
+5-15	517-527	Überqueren	_	
+5-16	528-539	erleichtern	_	
+5-17	540-545	würde	_	
+5-18	545-546	.	_	
+
+#Text=Auf baldige Verbesseung würde ich mich, und viele andere Radfahgesellen sicherlich auch, freuen.
+6-1	547-550	Auf	_	
+6-2	551-558	baldige	_	
+6-3	559-570	Verbesseung	_	
+6-4	571-576	würde	_	
+6-5	577-580	ich	_	
+6-6	581-585	mich	_	
+6-7	585-586	,	_	
+6-8	587-590	und	_	
+6-9	591-596	viele	_	
+6-10	597-603	andere	_	
+6-11	604-618	Radfahgesellen	_	
+6-12	619-629	sicherlich	_	
+6-13	630-634	auch	_	
+6-14	634-635	,	_	
+6-15	636-642	freuen	_	
+6-16	642-643	.	_	
+
+#Text=Ein Bonner
+7-1	644-647	Ein	_	
+7-2	648-654	Bonner	_	

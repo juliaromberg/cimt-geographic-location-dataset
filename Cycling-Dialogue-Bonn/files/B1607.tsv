@@ -1,0 +1,113 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einfahrt ins Tulpenfeld verbessern
+1-1	0-8	Einfahrt	*[6]	
+1-2	9-12	ins	*[6]	
+1-3	13-23	Tulpenfeld	*[6]	
+1-4	24-34	verbessern	_	
+
+#Text=Die Straße Tulpenfeld ist eine attraktive, weil weitgehend autofreie Alternative zu Heussallee/Winston-Churchill-Straße, außerdem Zufahrt zur Bundesnetzagentur mit rund 1000 Beschäftigten.
+2-1	37-40	Die	*[7]	
+2-2	41-47	Straße	*[7]	
+2-3	48-58	Tulpenfeld	*[7]	
+2-4	59-62	ist	_	
+2-5	63-67	eine	_	
+2-6	68-78	attraktive	_	
+2-7	78-79	,	_	
+2-8	80-84	weil	_	
+2-9	85-95	weitgehend	_	
+2-10	96-105	autofreie	_	
+2-11	106-117	Alternative	_	
+2-12	118-120	zu	_	
+2-13	121-131	Heussallee	*[8]	
+2-14	131-132	/	*[8]	
+2-15	132-156	Winston-Churchill-Straße	*[8]	
+2-16	156-157	,	_	
+2-17	158-166	außerdem	_	
+2-18	167-174	Zufahrt	_	
+2-19	175-178	zur	_	
+2-20	179-196	Bundesnetzagentur	_	
+2-21	197-200	mit	_	
+2-22	201-205	rund	_	
+2-23	206-210	1000	_	
+2-24	211-224	Beschäftigten	_	
+2-25	224-225	.	_	
+
+#Text=Die Einfahrten sind aber problematisch: Von der Heussallee gibt es eine überflüssige Schwelle, so dass man in der Heussallee relativ weit links fahren muss, um die Schwelle sicher zu überfahren.
+3-1	226-229	Die	_	
+3-2	230-240	Einfahrten	_	
+3-3	241-245	sind	_	
+3-4	246-250	aber	_	
+3-5	251-264	problematisch	_	
+3-6	264-265	:	_	
+3-7	266-269	Von	*[9]	
+3-8	270-273	der	*[9]	
+3-9	274-284	Heussallee	*[9]	
+3-10	285-289	gibt	_	
+3-11	290-292	es	_	
+3-12	293-297	eine	_	
+3-13	298-310	überflüssige	_	
+3-14	311-319	Schwelle	_	
+3-15	319-320	,	_	
+3-16	321-323	so	_	
+3-17	324-328	dass	_	
+3-18	329-332	man	_	
+3-19	333-335	in	*[10]	
+3-20	336-339	der	*[10]	
+3-21	340-350	Heussallee	*[10]	
+3-22	351-358	relativ	_	
+3-23	359-363	weit	_	
+3-24	364-369	links	_	
+3-25	370-376	fahren	_	
+3-26	377-381	muss	_	
+3-27	381-382	,	_	
+3-28	383-385	um	_	
+3-29	386-389	die	_	
+3-30	390-398	Schwelle	_	
+3-31	399-405	sicher	_	
+3-32	406-408	zu	_	
+3-33	409-419	überfahren	_	
+3-34	419-420	.	_	
+
+#Text=Noch deutlich schlechter ist die Einfahrt von der Heinrich-Brüning-Straße wegen der Rechtskurve in die Winston-Churchill-Straße (auch als Querung für Fußgänger).
+4-1	421-425	Noch	_	
+4-2	426-434	deutlich	_	
+4-3	435-445	schlechter	_	
+4-4	446-449	ist	_	
+4-5	450-453	die	*[11]	
+4-6	454-462	Einfahrt	*[11]	
+4-7	463-466	von	*[11]	
+4-8	467-470	der	*[11]	
+4-9	471-494	Heinrich-Brüning-Straße	*[11]	
+4-10	495-500	wegen	_	
+4-11	501-504	der	_	
+4-12	505-516	Rechtskurve	*[12]	
+4-13	517-519	in	*[12]	
+4-14	520-523	die	*[12]	
+4-15	524-548	Winston-Churchill-Straße	*[12]	
+4-16	549-550	(	_	
+4-17	550-554	auch	_	
+4-18	555-558	als	_	
+4-19	559-566	Querung	_	
+4-20	567-570	für	_	
+4-21	571-580	Fußgänger	_	
+4-22	580-581	)	_	
+4-23	581-582	.	_	
+
+#Text=Im Bereich der Kurve sollte man deshalb für langsameren Autoverkehr sorgen.
+5-1	583-585	Im	_	
+5-2	586-593	Bereich	_	
+5-3	594-597	der	_	
+5-4	598-603	Kurve	_	
+5-5	604-610	sollte	_	
+5-6	611-614	man	_	
+5-7	615-622	deshalb	_	
+5-8	623-626	für	_	
+5-9	627-638	langsameren	_	
+5-10	639-650	Autoverkehr	_	
+5-11	651-657	sorgen	_	
+5-12	657-658	.	_	

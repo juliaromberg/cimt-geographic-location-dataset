@@ -1,0 +1,85 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parken im Halteverbot
+1-1	0-6	Parken	_	
+1-2	7-9	im	_	
+1-3	10-21	Halteverbot	_	
+
+#Text=Kommt man vom Bendenweg (Fahrradstraße) in Richtung Parkplatz (Aldi, Edeka) fährt.
+2-1	24-29	Kommt	_	
+2-2	30-33	man	_	
+2-3	34-37	vom	*[7]	
+2-4	38-47	Bendenweg	*[7]	
+2-5	48-49	(	*[7]	
+2-6	49-62	Fahrradstraße	*[7]	
+2-7	62-63	)	*[7]	
+2-8	64-66	in	*[7]	
+2-9	67-75	Richtung	*[7]	
+2-10	76-85	Parkplatz	*[7]	
+2-11	86-87	(	*[7]	
+2-12	87-91	Aldi	*[7]	
+2-13	91-92	,	*[7]	
+2-14	93-98	Edeka	*[7]	
+2-15	98-99	)	*[7]	
+2-16	100-105	fährt	_	
+2-17	105-106	.	_	
+
+#Text=komen einem oft PKW auf der Fahrspur entgegen, um vor der Sparkasse zu parken.
+3-1	107-112	komen	_	
+3-2	113-118	einem	_	
+3-3	119-122	oft	_	
+3-4	123-126	PKW	_	
+3-5	127-130	auf	_	
+3-6	131-134	der	_	
+3-7	135-143	Fahrspur	_	
+3-8	144-152	entgegen	_	
+3-9	152-153	,	_	
+3-10	154-156	um	_	
+3-11	157-160	vor	_	
+3-12	161-164	der	_	
+3-13	165-174	Sparkasse	_	
+3-14	175-177	zu	_	
+3-15	178-184	parken	_	
+3-16	184-185	.	_	
+
+#Text=Oft um dort den Geldautomet zu erreichen.
+4-1	186-189	Oft	_	
+4-2	190-192	um	_	
+4-3	193-197	dort	_	
+4-4	198-201	den	_	
+4-5	202-213	Geldautomet	_	
+4-6	214-216	zu	_	
+4-7	217-226	erreichen	_	
+4-8	226-227	.	_	
+
+#Text=Ausreichende Parkmöglichkeiten wären ja 10m weiter ja vorhanden.
+5-1	228-240	Ausreichende	_	
+5-2	241-258	Parkmöglichkeiten	_	
+5-3	259-264	wären	_	
+5-4	265-267	ja	_	
+5-5	268-271	10m	_	
+5-6	272-278	weiter	_	
+5-7	279-281	ja	_	
+5-8	282-291	vorhanden	_	
+5-9	291-292	.	_	
+
+#Text=So stehe die PKW aber im Weg im Halteverbot und noch in falscher Fahrtrichtung.
+6-1	293-295	So	_	
+6-2	296-301	stehe	_	
+6-3	302-305	die	_	
+6-4	306-309	PKW	_	
+6-5	310-314	aber	_	
+6-6	315-317	im	_	
+6-7	318-321	Weg	_	
+6-8	322-324	im	_	
+6-9	325-336	Halteverbot	_	
+6-10	337-340	und	_	
+6-11	341-345	noch	_	
+6-12	346-348	in	_	
+6-13	349-357	falscher	_	
+6-14	358-371	Fahrtrichtung	_	
+6-15	371-372	.	_	

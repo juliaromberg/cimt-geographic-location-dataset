@@ -1,0 +1,109 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrleitungsmasten stehen auf dem eh schon zu schmalen Radweg
+1-1	0-18	Fahrleitungsmasten	_	
+1-2	19-25	stehen	_	
+1-3	26-29	auf	_	
+1-4	30-33	dem	_	
+1-5	34-36	eh	_	
+1-6	37-42	schon	_	
+1-7	43-45	zu	_	
+1-8	46-54	schmalen	_	
+1-9	55-61	Radweg	_	
+
+#Text=Auf dem Radweg Sankt Augustiner Straße (B56), zwischen Rathausstraße und Combahnstraße, stehen die Fahrleitungsmasten der Stadtbahn, die auch noch einen ungewöhnlich großen Durchmesser aufweisen, auf dem eh schon zu schmalen Radweg.
+2-1	64-67	Auf	*[6]	
+2-2	68-71	dem	*[6]	
+2-3	72-78	Radweg	*[6]	
+2-4	79-84	Sankt	*[6]	
+2-5	85-95	Augustiner	*[6]	
+2-6	96-102	Straße	*[6]	
+2-7	103-104	(	*[6]	
+2-8	104-107	B56	*[6]	
+2-9	107-108	)	*[6]	
+2-10	108-109	,	*[6]	
+2-11	110-118	zwischen	*[6]	
+2-12	119-132	Rathausstraße	*[6]	
+2-13	133-136	und	*[6]	
+2-14	137-150	Combahnstraße	*[6]	
+2-15	150-151	,	_	
+2-16	152-158	stehen	_	
+2-17	159-162	die	_	
+2-18	163-181	Fahrleitungsmasten	_	
+2-19	182-185	der	_	
+2-20	186-195	Stadtbahn	_	
+2-21	195-196	,	_	
+2-22	197-200	die	_	
+2-23	201-205	auch	_	
+2-24	206-210	noch	_	
+2-25	211-216	einen	_	
+2-26	217-229	ungewöhnlich	_	
+2-27	230-236	großen	_	
+2-28	237-248	Durchmesser	_	
+2-29	249-258	aufweisen	_	
+2-30	258-259	,	_	
+2-31	260-263	auf	_	
+2-32	264-267	dem	_	
+2-33	268-270	eh	_	
+2-34	271-276	schon	_	
+2-35	277-279	zu	_	
+2-36	280-288	schmalen	_	
+2-37	289-295	Radweg	_	
+2-38	295-296	.	_	
+
+#Text=Es verbleibt ein befahrbarer Streifen von geschätzt 70 cm Breite, der direkt an die Fahrbahn angrenzt.
+3-1	297-299	Es	_	
+3-2	300-309	verbleibt	_	
+3-3	310-313	ein	_	
+3-4	314-325	befahrbarer	_	
+3-5	326-334	Streifen	_	
+3-6	335-338	von	_	
+3-7	339-348	geschätzt	_	
+3-8	349-351	70	_	
+3-9	352-354	cm	_	
+3-10	355-361	Breite	_	
+3-11	361-362	,	_	
+3-12	363-366	der	_	
+3-13	367-373	direkt	_	
+3-14	374-376	an	_	
+3-15	377-380	die	_	
+3-16	381-389	Fahrbahn	_	
+3-17	390-398	angrenzt	_	
+3-18	398-399	.	_	
+
+#Text=Das bedeutet, man fährt als Radfahrer im Grunde vollständig im Sicherheitstrennstreifen zur Bundesstraße.
+4-1	400-403	Das	_	
+4-2	404-412	bedeutet	_	
+4-3	412-413	,	_	
+4-4	414-417	man	_	
+4-5	418-423	fährt	_	
+4-6	424-427	als	_	
+4-7	428-437	Radfahrer	_	
+4-8	438-440	im	_	
+4-9	441-447	Grunde	_	
+4-10	448-459	vollständig	_	
+4-11	460-462	im	_	
+4-12	463-487	Sicherheitstrennstreifen	_	
+4-13	488-491	zur	_	
+4-14	492-504	Bundesstraße	_	
+4-15	504-505	.	_	
+
+#Text=Der nächste Außenspiegel eines LKW, Bus oder SUV könnte der letzte sein.
+5-1	506-509	Der	_	
+5-2	510-517	nächste	_	
+5-3	518-530	Außenspiegel	_	
+5-4	531-536	eines	_	
+5-5	537-540	LKW	_	
+5-6	540-541	,	_	
+5-7	542-545	Bus	_	
+5-8	546-550	oder	_	
+5-9	551-554	SUV	_	
+5-10	555-561	könnte	_	
+5-11	562-565	der	_	
+5-12	566-572	letzte	_	
+5-13	573-577	sein	_	
+5-14	577-578	.	_	

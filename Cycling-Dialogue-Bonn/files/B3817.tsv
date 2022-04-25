@@ -1,0 +1,39 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße
+1-1	0-13	Fahrradstraße	_	
+
+#Text=Die Kumme wird von vielen Schülerinnen und Schülern auf ihrem täglichen Weg zu den Godesberger weiterführenden Schulen benutzt und sollte deswegen in beide Richtungen als Fahrradstraße gekennzeichnet werden.
+2-1	16-19	Die	*[2]	
+2-2	20-25	Kumme	*[2]	
+2-3	26-30	wird	_	
+2-4	31-34	von	_	
+2-5	35-41	vielen	_	
+2-6	42-54	Schülerinnen	_	
+2-7	55-58	und	_	
+2-8	59-67	Schülern	_	
+2-9	68-71	auf	_	
+2-10	72-77	ihrem	_	
+2-11	78-87	täglichen	_	
+2-12	88-91	Weg	_	
+2-13	92-94	zu	_	
+2-14	95-98	den	_	
+2-15	99-110	Godesberger	_	
+2-16	111-126	weiterführenden	_	
+2-17	127-134	Schulen	_	
+2-18	135-142	benutzt	_	
+2-19	143-146	und	_	
+2-20	147-153	sollte	_	
+2-21	154-162	deswegen	_	
+2-22	163-165	in	_	
+2-23	166-171	beide	_	
+2-24	172-182	Richtungen	_	
+2-25	183-186	als	_	
+2-26	187-200	Fahrradstraße	_	
+2-27	201-215	gekennzeichnet	_	
+2-28	216-222	werden	_	
+2-29	222-223	.	_	

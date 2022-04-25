@@ -1,0 +1,82 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verwirrende Verkehrsführung
+1-1	0-11	Verwirrende	_	
+1-2	12-27	Verkehrsführung	_	
+
+#Text=Unter der Viktoriabrücke bricht der Radstreifen ab.
+2-1	30-35	Unter	*[7]	
+2-2	36-39	der	*[7]	
+2-3	40-54	Viktoriabrücke	*[7]	
+2-4	55-61	bricht	_	
+2-5	62-65	der	_	
+2-6	66-77	Radstreifen	_	
+2-7	78-80	ab	_	
+2-8	80-81	.	_	
+
+#Text=Dadurch kommt es zu Konflikten mit Autofahrern, die an der Stelle ohnehin zu schnell unterwegs sind.
+3-1	82-89	Dadurch	_	
+3-2	90-95	kommt	_	
+3-3	96-98	es	_	
+3-4	99-101	zu	_	
+3-5	102-112	Konflikten	_	
+3-6	113-116	mit	_	
+3-7	117-128	Autofahrern	_	
+3-8	128-129	,	_	
+3-9	130-133	die	_	
+3-10	134-136	an	_	
+3-11	137-140	der	_	
+3-12	141-147	Stelle	_	
+3-13	148-155	ohnehin	_	
+3-14	156-158	zu	_	
+3-15	159-166	schnell	_	
+3-16	167-176	unterwegs	_	
+3-17	177-181	sind	_	
+3-18	181-182	.	_	
+
+#Text=Sie halten keinen Sicherheitsabstand ein und drängen Radfahrer zur Seite, wenn sie verbotswidrig überholen.
+4-1	183-186	Sie	_	
+4-2	187-193	halten	_	
+4-3	194-200	keinen	_	
+4-4	201-219	Sicherheitsabstand	_	
+4-5	220-223	ein	_	
+4-6	224-227	und	_	
+4-7	228-235	drängen	_	
+4-8	236-245	Radfahrer	_	
+4-9	246-249	zur	_	
+4-10	250-255	Seite	_	
+4-11	255-256	,	_	
+4-12	257-261	wenn	_	
+4-13	262-265	sie	_	
+4-14	266-279	verbotswidrig	_	
+4-15	280-289	überholen	_	
+4-16	289-290	.	_	
+
+#Text=Die Verkehrsführung sollte geklärt werden und der Streifen zur Sicherheit doppelt eingezeichnet werden.
+5-1	291-294	Die	_	
+5-2	295-310	Verkehrsführung	_	
+5-3	311-317	sollte	_	
+5-4	318-325	geklärt	_	
+5-5	326-332	werden	_	
+5-6	333-336	und	_	
+5-7	337-340	der	_	
+5-8	341-349	Streifen	_	
+5-9	350-353	zur	_	
+5-10	354-364	Sicherheit	_	
+5-11	365-372	doppelt	_	
+5-12	373-386	eingezeichnet	_	
+5-13	387-393	werden	_	
+5-14	393-394	.	_	
+
+#Text=Die Stadt sollte öfter Geschwindigkeitskontrollen durchführen!
+6-1	395-398	Die	_	
+6-2	399-404	Stadt	_	
+6-3	405-411	sollte	_	
+6-4	412-417	öfter	_	
+6-5	418-444	Geschwindigkeitskontrollen	_	
+6-6	445-456	durchführen	_	
+6-7	456-457	!	_	

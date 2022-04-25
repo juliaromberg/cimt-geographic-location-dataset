@@ -1,0 +1,112 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehrssicherheit - fehlendes Schild Ende des Radwegs
+1-1	0-18	Verkehrssicherheit	_	
+1-2	19-20	-	_	
+1-3	21-30	fehlendes	_	
+1-4	31-37	Schild	_	
+1-5	38-42	Ende	_	
+1-6	43-46	des	_	
+1-7	47-54	Radwegs	_	
+
+#Text=Entlang der B9 ist von der Ollenhauerstraße bis zur Haltestelle Olaf-Palme-Allee auch auf der rheinzugwandte Seite auf dem Radweg das Fahren entgegen der Fahrtrichtung auf B9 erlaubt und durch die Beschilderung entsprechend ausgewiesen.
+2-1	57-64	Entlang	*[6]	
+2-2	65-68	der	*[6]	
+2-3	69-71	B9	*[6]	
+2-4	72-75	ist	_	
+2-5	76-79	von	*[7]	
+2-6	80-83	der	*[7]	
+2-7	84-100	Ollenhauerstraße	*[7]	
+2-8	101-104	bis	*[7]	
+2-9	105-108	zur	*[7]	
+2-10	109-120	Haltestelle	*[7]	
+2-11	121-137	Olaf-Palme-Allee	*[7]	
+2-12	138-142	auch	_	
+2-13	143-146	auf	_	
+2-14	147-150	der	_	
+2-15	151-165	rheinzugwandte	_	
+2-16	166-171	Seite	_	
+2-17	172-175	auf	_	
+2-18	176-179	dem	_	
+2-19	180-186	Radweg	_	
+2-20	187-190	das	_	
+2-21	191-197	Fahren	_	
+2-22	198-206	entgegen	*[8]	
+2-23	207-210	der	*[8]	
+2-24	211-224	Fahrtrichtung	*[8]	
+2-25	225-228	auf	*[8]	
+2-26	229-231	B9	*[8]	
+2-27	232-239	erlaubt	_	
+2-28	240-243	und	_	
+2-29	244-249	durch	_	
+2-30	250-253	die	_	
+2-31	254-267	Beschilderung	_	
+2-32	268-280	entsprechend	_	
+2-33	281-292	ausgewiesen	_	
+2-34	292-293	.	_	
+
+#Text=Ich beobachte sehr häufig kritische Verkehrssituationen an der Kreuzung B9 Heinemannstraße, wenn Fahrradfahrer hier auf dem Radweg entgegen der Fahrtrichtung in die Kreuzung reinfahren.
+3-1	294-297	Ich	_	
+3-2	298-307	beobachte	_	
+3-3	308-312	sehr	_	
+3-4	313-319	häufig	_	
+3-5	320-329	kritische	_	
+3-6	330-349	Verkehrssituationen	_	
+3-7	350-352	an	*[9]	
+3-8	353-356	der	*[9]	
+3-9	357-365	Kreuzung	*[9]	
+3-10	366-368	B9	*[9]	
+3-11	369-384	Heinemannstraße	*[9]	
+3-12	384-385	,	_	
+3-13	386-390	wenn	_	
+3-14	391-404	Fahrradfahrer	_	
+3-15	405-409	hier	_	
+3-16	410-413	auf	_	
+3-17	414-417	dem	_	
+3-18	418-424	Radweg	_	
+3-19	425-433	entgegen	_	
+3-20	434-437	der	_	
+3-21	438-451	Fahrtrichtung	_	
+3-22	452-454	in	_	
+3-23	455-458	die	_	
+3-24	459-467	Kreuzung	_	
+3-25	468-478	reinfahren	_	
+3-26	478-479	.	_	
+
+#Text=Für den Radfahrer ist es nicht hinreichend erkennbar, dass die Möglichkeit entgegen der Fahrtrichtung nach Überqueren der Autobahn endet.
+4-1	480-483	Für	_	
+4-2	484-487	den	_	
+4-3	488-497	Radfahrer	_	
+4-4	498-501	ist	_	
+4-5	502-504	es	_	
+4-6	505-510	nicht	_	
+4-7	511-522	hinreichend	_	
+4-8	523-532	erkennbar	_	
+4-9	532-533	,	_	
+4-10	534-538	dass	_	
+4-11	539-542	die	_	
+4-12	543-554	Möglichkeit	_	
+4-13	555-563	entgegen	_	
+4-14	564-567	der	_	
+4-15	568-581	Fahrtrichtung	_	
+4-16	582-586	nach	_	
+4-17	587-597	Überqueren	_	
+4-18	598-601	der	_	
+4-19	602-610	Autobahn	_	
+4-20	611-616	endet	_	
+4-21	616-617	.	_	
+
+#Text=Dies müsste hier deutlich markiert / beschildert werden.
+5-1	618-622	Dies	_	
+5-2	623-629	müsste	_	
+5-3	630-634	hier	_	
+5-4	635-643	deutlich	_	
+5-5	644-652	markiert	_	
+5-6	653-654	/	_	
+5-7	655-666	beschildert	_	
+5-8	667-673	werden	_	
+5-9	673-674	.	_	

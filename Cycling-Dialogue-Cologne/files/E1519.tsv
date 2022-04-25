@@ -1,0 +1,60 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradparkraum
+1-1	0-15	Fahrradparkraum	_	
+
+#Text=Es sollten mehr Fahrradstellplätze zur Verfügung gestellt werden, um zB auch Lastenräder die den Autoverkehr reduzieren, sicher parken zu können.
+2-1	18-20	Es	_	
+2-2	21-28	sollten	_	
+2-3	29-33	mehr	_	
+2-4	34-52	Fahrradstellplätze	_	
+2-5	53-56	zur	_	
+2-6	57-66	Verfügung	_	
+2-7	67-75	gestellt	_	
+2-8	76-82	werden	_	
+2-9	82-83	,	_	
+2-10	84-86	um	_	
+2-11	87-89	zB	_	
+2-12	90-94	auch	_	
+2-13	95-106	Lastenräder	_	
+2-14	107-110	die	_	
+2-15	111-114	den	_	
+2-16	115-126	Autoverkehr	_	
+2-17	127-137	reduzieren	_	
+2-18	137-138	,	_	
+2-19	139-145	sicher	_	
+2-20	146-152	parken	_	
+2-21	153-155	zu	_	
+2-22	156-162	können	_	
+2-23	162-163	.	_	
+
+#Text=So können zudem durch Räder zugeparkte Gehwege vermieden werden.
+3-1	164-166	So	_	
+3-2	167-173	können	_	
+3-3	174-179	zudem	_	
+3-4	180-185	durch	_	
+3-5	186-191	Räder	_	
+3-6	192-202	zugeparkte	_	
+3-7	203-210	Gehwege	_	
+3-8	211-220	vermieden	_	
+3-9	221-227	werden	_	
+3-10	227-228	.	_	
+
+#Text=1 PKW Parkplatz je Straßen-Abschnitt in Fahrradstellplätze umzuwandeln wäre mM nach angemessen.
+4-1	229-230	1	_	
+4-2	231-234	PKW	_	
+4-3	235-244	Parkplatz	_	
+4-4	245-247	je	_	
+4-5	248-265	Straßen-Abschnitt	_	
+4-6	266-268	in	_	
+4-7	269-287	Fahrradstellplätze	_	
+4-8	288-299	umzuwandeln	_	
+4-9	300-304	wäre	_	
+4-10	305-307	mM	_	
+4-11	308-312	nach	_	
+4-12	313-323	angemessen	_	
+4-13	323-324	.	_	

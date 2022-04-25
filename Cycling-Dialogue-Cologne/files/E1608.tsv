@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkmöglichkeiten
+1-1	0-17	Parkmöglichkeiten	_	
+
+#Text=Es gibt in Ehrenfeld und in ganz Köln zu wenige Fahrradpark-Möglichkeiten.
+2-1	20-22	Es	_	
+2-2	23-27	gibt	_	
+2-3	28-30	in	*[5]	
+2-4	31-40	Ehrenfeld	*[5]	
+2-5	41-44	und	_	
+2-6	45-47	in	*[6]	
+2-7	48-52	ganz	*[6]	
+2-8	53-57	Köln	*[6]	
+2-9	58-60	zu	_	
+2-10	61-67	wenige	_	
+2-11	68-93	Fahrradpark-Möglichkeiten	_	
+2-12	93-94	.	_	
+
+#Text=Die paar wenigen sind immer überfüllt.
+3-1	95-98	Die	_	
+3-2	99-103	paar	_	
+3-3	104-111	wenigen	_	
+3-4	112-116	sind	_	
+3-5	117-122	immer	_	
+3-6	123-132	überfüllt	_	
+3-7	132-133	.	_	
+
+#Text=Leute nutzen Zäune, Baumumrandungen usw. um ihre Räder anzuschließen.
+4-1	134-139	Leute	_	
+4-2	140-146	nutzen	_	
+4-3	147-152	Zäune	_	
+4-4	152-153	,	_	
+4-5	154-169	Baumumrandungen	_	
+4-6	170-173	usw	_	
+4-7	173-174	.	_	
+4-8	175-177	um	_	
+4-9	178-182	ihre	_	
+4-10	183-188	Räder	_	
+4-11	189-202	anzuschließen	_	
+4-12	202-203	.	_	
+
+#Text=Könnten nicht ein paar Auto-Parkplätze weichen, um Platz für Räder zu machen?
+5-1	204-211	Könnten	_	
+5-2	212-217	nicht	_	
+5-3	218-221	ein	_	
+5-4	222-226	paar	_	
+5-5	227-242	Auto-Parkplätze	_	
+5-6	243-250	weichen	_	
+5-7	250-251	,	_	
+5-8	252-254	um	_	
+5-9	255-260	Platz	_	
+5-10	261-264	für	_	
+5-11	265-270	Räder	_	
+5-12	271-273	zu	_	
+5-13	274-280	machen	_	
+5-14	280-281	?	_	

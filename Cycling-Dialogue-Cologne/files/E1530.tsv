@@ -1,0 +1,128 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Extrem schmaler Rad- und Gehweg
+1-1	0-6	Extrem	_	
+1-2	7-15	schmaler	_	
+1-3	16-19	Rad	_	
+1-4	19-20	-	_	
+1-5	21-24	und	_	
+1-6	25-31	Gehweg	_	
+
+#Text=Entlang des Ehrenfeldgürtels ist durchgängig eine benutzungspflichtiger Radweg auf dem Gehweg angelegt.
+2-1	34-41	Entlang	*[9]	
+2-2	42-45	des	*[9]	
+2-3	46-62	Ehrenfeldgürtels	*[9]	
+2-4	63-66	ist	_	
+2-5	67-78	durchgängig	_	
+2-6	79-83	eine	_	
+2-7	84-105	benutzungspflichtiger	_	
+2-8	106-112	Radweg	_	
+2-9	113-116	auf	_	
+2-10	117-120	dem	_	
+2-11	121-127	Gehweg	_	
+2-12	128-136	angelegt	_	
+2-13	136-137	.	_	
+
+#Text=Beide Wege sind in der Regel zu schmal, so dass es immer wieder zu Konflikten kommt.
+3-1	138-143	Beide	_	
+3-2	144-148	Wege	_	
+3-3	149-153	sind	_	
+3-4	154-156	in	_	
+3-5	157-160	der	_	
+3-6	161-166	Regel	_	
+3-7	167-169	zu	_	
+3-8	170-176	schmal	_	
+3-9	176-177	,	_	
+3-10	178-180	so	_	
+3-11	181-185	dass	_	
+3-12	186-188	es	_	
+3-13	189-194	immer	_	
+3-14	195-201	wieder	_	
+3-15	202-204	zu	_	
+3-16	205-215	Konflikten	_	
+3-17	216-221	kommt	_	
+3-18	221-222	.	_	
+
+#Text=Besonders extrem ist die Situation zwischen Röntgen- und Nußbaumerstraße.
+4-1	223-232	Besonders	_	
+4-2	233-239	extrem	_	
+4-3	240-243	ist	_	
+4-4	244-247	die	_	
+4-5	248-257	Situation	_	
+4-6	258-266	zwischen	*[10]	
+4-7	267-274	Röntgen	*[10]	
+4-8	274-275	-	*[10]	
+4-9	276-279	und	*[10]	
+4-10	280-295	Nußbaumerstraße	*[10]	
+4-11	295-296	.	_	
+
+#Text=Hier ist das Angebot inakzeptabel und eigentlich illegal.
+5-1	297-301	Hier	_	
+5-2	302-305	ist	_	
+5-3	306-309	das	_	
+5-4	310-317	Angebot	_	
+5-5	318-330	inakzeptabel	_	
+5-6	331-334	und	_	
+5-7	335-345	eigentlich	_	
+5-8	346-353	illegal	_	
+5-9	353-354	.	_	
+
+#Text=Verbesserungsvorschlag: Aus den zwei Richtungsfahrspuren des Gürtels eine überbreite Spur und eine mindestens 2,50-Meter-breite Radspur machen, die je nach Situation als Radweg oder Sicherheitsstreifen ausgewiesen ist.
+6-1	355-377	Verbesserungsvorschlag	_	
+6-2	377-378	:	_	
+6-3	379-382	Aus	_	
+6-4	383-386	den	_	
+6-5	387-391	zwei	_	
+6-6	392-411	Richtungsfahrspuren	_	
+6-7	412-415	des	_	
+6-8	416-423	Gürtels	*	
+6-9	424-428	eine	_	
+6-10	429-439	überbreite	_	
+6-11	440-444	Spur	_	
+6-12	445-448	und	_	
+6-13	449-453	eine	_	
+6-14	454-464	mindestens	_	
+6-15	465-469	2,50	_	
+6-16	469-470	-	_	
+6-17	470-482	Meter-breite	_	
+6-18	483-490	Radspur	_	
+6-19	491-497	machen	_	
+6-20	497-498	,	_	
+6-21	499-502	die	_	
+6-22	503-505	je	_	
+6-23	506-510	nach	_	
+6-24	511-520	Situation	_	
+6-25	521-524	als	_	
+6-26	525-531	Radweg	_	
+6-27	532-536	oder	_	
+6-28	537-556	Sicherheitsstreifen	_	
+6-29	557-568	ausgewiesen	_	
+6-30	569-572	ist	_	
+6-31	572-573	.	_	
+
+#Text=Das Radfahren auf den Gehwegen ist zu verbieten.
+7-1	574-577	Das	_	
+7-2	578-587	Radfahren	_	
+7-3	588-591	auf	_	
+7-4	592-595	den	_	
+7-5	596-604	Gehwegen	_	
+7-6	605-608	ist	_	
+7-7	609-611	zu	_	
+7-8	612-621	verbieten	_	
+7-9	621-622	.	_	
+
+#Text=Alle Parkplätze am Gürtel aufheben, lediglich Ladezonen einrichten.
+8-1	623-627	Alle	_	
+8-2	628-638	Parkplätze	_	
+8-3	639-641	am	*[11]	
+8-4	642-648	Gürtel	*[11]	
+8-5	649-657	aufheben	_	
+8-6	657-658	,	_	
+8-7	659-668	lediglich	_	
+8-8	669-678	Ladezonen	_	
+8-9	679-689	einrichten	_	
+8-10	689-690	.	_	

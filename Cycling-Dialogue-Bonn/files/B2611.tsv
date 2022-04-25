@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Lange Wartezeiten für Fahrräder/Fußgänger
+1-1	0-5	Lange	_	
+1-2	6-17	Wartezeiten	_	
+1-3	18-21	für	_	
+1-4	22-31	Fahrräder	_	
+1-5	31-32	/	_	
+1-6	32-41	Fußgänger	_	
+
+#Text=Durch die komplexe Verkehrssituation im Endenicher Ei enstehen hier lange Wartezeiten für Fahrradfahrer stadtauswärts.
+2-1	44-49	Durch	_	
+2-2	50-53	die	_	
+2-3	54-62	komplexe	_	
+2-4	63-80	Verkehrssituation	_	
+2-5	81-83	im	*[5]	
+2-6	84-94	Endenicher	*[5]	
+2-7	95-97	Ei	*[5]	
+2-8	98-106	enstehen	_	
+2-9	107-111	hier	_	
+2-10	112-117	lange	_	
+2-11	118-129	Wartezeiten	_	
+2-12	130-133	für	_	
+2-13	134-147	Fahrradfahrer	_	
+2-14	148-161	stadtauswärts	_	
+2-15	161-162	.	_	
+
+#Text=Durch eine Reduzierung der Grünzeiten für den rechtsabbiegenden KFZ Verkehr könnte hier Abhilfe geschaffen werden.
+3-1	163-168	Durch	_	
+3-2	169-173	eine	_	
+3-3	174-185	Reduzierung	_	
+3-4	186-189	der	_	
+3-5	190-200	Grünzeiten	_	
+3-6	201-204	für	_	
+3-7	205-208	den	_	
+3-8	209-226	rechtsabbiegenden	_	
+3-9	227-230	KFZ	_	
+3-10	231-238	Verkehr	_	
+3-11	239-245	könnte	_	
+3-12	246-250	hier	_	
+3-13	251-258	Abhilfe	_	
+3-14	259-269	geschaffen	_	
+3-15	270-276	werden	_	
+3-16	276-277	.	_	
+
+#Text=Gerade außerhalb der Stoßzeiten hält sich die Zahl der abbiegenden KFZ hier in Grenzen, so dass keine Rückstaus entstehen sollten.
+4-1	278-284	Gerade	_	
+4-2	285-294	außerhalb	_	
+4-3	295-298	der	_	
+4-4	299-309	Stoßzeiten	_	
+4-5	310-314	hält	_	
+4-6	315-319	sich	_	
+4-7	320-323	die	_	
+4-8	324-328	Zahl	_	
+4-9	329-332	der	_	
+4-10	333-344	abbiegenden	_	
+4-11	345-348	KFZ	_	
+4-12	349-353	hier	_	
+4-13	354-356	in	_	
+4-14	357-364	Grenzen	_	
+4-15	364-365	,	_	
+4-16	366-368	so	_	
+4-17	369-373	dass	_	
+4-18	374-379	keine	_	
+4-19	380-389	Rückstaus	_	
+4-20	390-399	entstehen	_	
+4-21	400-407	sollten	_	
+4-22	407-408	.	_	

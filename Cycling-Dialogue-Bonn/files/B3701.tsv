@@ -1,0 +1,265 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Die B56 sollte einen durchgängigen Radweg erhalten.
+1-1	0-3	Die	*[15]	
+1-2	4-7	B56	*[15]	
+1-3	8-14	sollte	_	
+1-4	15-20	einen	_	
+1-5	21-34	durchgängigen	_	
+1-6	35-41	Radweg	_	
+1-7	42-50	erhalten	_	
+1-8	50-51	.	_	
+
+#Text=Im Folgenden wird die Situation der Radfahrer an der B56 geschildert.
+2-1	54-56	Im	_	
+2-2	57-66	Folgenden	_	
+2-3	67-71	wird	_	
+2-4	72-75	die	_	
+2-5	76-85	Situation	_	
+2-6	86-89	der	_	
+2-7	90-99	Radfahrer	_	
+2-8	100-102	an	*[16]	
+2-9	103-106	der	*[16]	
+2-10	107-110	B56	*[16]	
+2-11	111-122	geschildert	_	
+2-12	122-123	.	_	
+
+#Text=Dabei gehe ich von der Kennedybrücke aus und behandle die Abschnitte in Richtung Sankt Augustin.
+3-1	124-129	Dabei	_	
+3-2	130-134	gehe	_	
+3-3	135-138	ich	_	
+3-4	139-142	von	*[17]	
+3-5	143-146	der	*[17]	
+3-6	147-160	Kennedybrücke	*[17]	
+3-7	161-164	aus	*[17]	
+3-8	165-168	und	_	
+3-9	169-177	behandle	_	
+3-10	178-181	die	_	
+3-11	182-192	Abschnitte	_	
+3-12	193-195	in	*[18]	
+3-13	196-204	Richtung	*[18]	
+3-14	205-210	Sankt	*[18]	
+3-15	211-219	Augustin	*[18]	
+3-16	219-220	.	_	
+
+#Text=Zwischen dem Konrad-Adenauer-Platz und der Haltestelle Adelheitisstraße müssen Radfahrer den Gehweg verwenden.
+4-1	221-229	Zwischen	*[19]	
+4-2	230-233	dem	*[19]	
+4-3	234-255	Konrad-Adenauer-Platz	*[19]	
+4-4	256-259	und	*[19]	
+4-5	260-263	der	*[19]	
+4-6	264-275	Haltestelle	*[19]	
+4-7	276-292	Adelheitisstraße	*[19]	
+4-8	293-299	müssen	_	
+4-9	300-309	Radfahrer	_	
+4-10	310-313	den	_	
+4-11	314-320	Gehweg	_	
+4-12	321-330	verwenden	_	
+4-13	330-331	.	_	
+
+#Text=Dieser ist teilweise sehr schmal und hat keinen gekennzeichneten Bereich für Radfahrer, so dass das Vorankommen erschwert ist und Fußgänger jederzeit mit Radfahrern auf dem Gehweg rechnen müssen.
+5-1	332-338	Dieser	_	
+5-2	339-342	ist	_	
+5-3	343-352	teilweise	_	
+5-4	353-357	sehr	_	
+5-5	358-364	schmal	_	
+5-6	365-368	und	_	
+5-7	369-372	hat	_	
+5-8	373-379	keinen	_	
+5-9	380-396	gekennzeichneten	_	
+5-10	397-404	Bereich	_	
+5-11	405-408	für	_	
+5-12	409-418	Radfahrer	_	
+5-13	418-419	,	_	
+5-14	420-422	so	_	
+5-15	423-427	dass	_	
+5-16	428-431	das	_	
+5-17	432-443	Vorankommen	_	
+5-18	444-453	erschwert	_	
+5-19	454-457	ist	_	
+5-20	458-461	und	_	
+5-21	462-471	Fußgänger	_	
+5-22	472-481	jederzeit	_	
+5-23	482-485	mit	_	
+5-24	486-496	Radfahrern	_	
+5-25	497-500	auf	_	
+5-26	501-504	dem	_	
+5-27	505-511	Gehweg	_	
+5-28	512-519	rechnen	_	
+5-29	520-526	müssen	_	
+5-30	526-527	.	_	
+
+#Text=Dies gilt für beide Richtungen, vor Allem aber in Richtung Bonn.
+6-1	528-532	Dies	_	
+6-2	533-537	gilt	_	
+6-3	538-541	für	_	
+6-4	542-547	beide	_	
+6-5	548-558	Richtungen	_	
+6-6	558-559	,	_	
+6-7	560-563	vor	_	
+6-8	564-569	Allem	_	
+6-9	570-574	aber	_	
+6-10	575-577	in	*[20]	
+6-11	578-586	Richtung	*[20]	
+6-12	587-591	Bonn	*[20]	
+6-13	591-592	.	*[20]	
+
+#Text=Zwischen der Haltestelle Adelheidisstraße und Villich gibt es jetzt einen Fußweg/Radweg.
+7-1	593-601	Zwischen	*[21]	
+7-2	602-605	der	*[21]	
+7-3	606-617	Haltestelle	*[21]	
+7-4	618-634	Adelheidisstraße	*[21]	
+7-5	635-638	und	*[21]	
+7-6	639-646	Villich	*[21]	
+7-7	647-651	gibt	_	
+7-8	652-654	es	_	
+7-9	655-660	jetzt	_	
+7-10	661-666	einen	_	
+7-11	667-673	Fußweg	_	
+7-12	673-674	/	_	
+7-13	674-680	Radweg	_	
+7-14	680-681	.	_	
+
+#Text=Dies stellt eine Verbesserung zur Situation vor einigen Jahren dar und ist soweit in Ordnung.
+8-1	682-686	Dies	_	
+8-2	687-693	stellt	_	
+8-3	694-698	eine	_	
+8-4	699-711	Verbesserung	_	
+8-5	712-715	zur	_	
+8-6	716-725	Situation	_	
+8-7	726-729	vor	_	
+8-8	730-737	einigen	_	
+8-9	738-744	Jahren	_	
+8-10	745-748	dar	_	
+8-11	749-752	und	_	
+8-12	753-756	ist	_	
+8-13	757-763	soweit	_	
+8-14	764-766	in	_	
+8-15	767-774	Ordnung	_	
+8-16	774-775	.	_	
+
+#Text=In Villich finden im Moment die Bauarbeiten für die neue Haltestelle statt.
+9-1	776-778	In	*[22]	
+9-2	779-786	Villich	*[22]	
+9-3	787-793	finden	*[22]	
+9-4	794-796	im	_	
+9-5	797-803	Moment	_	
+9-6	804-807	die	_	
+9-7	808-819	Bauarbeiten	_	
+9-8	820-823	für	_	
+9-9	824-827	die	_	
+9-10	828-832	neue	_	
+9-11	833-844	Haltestelle	_	
+9-12	845-850	statt	_	
+9-13	850-851	.	_	
+
+#Text=Ab Villich ist es nicht möglich der B56 weiter in Richtung Sankt Augustin zu folgen und man muss Umwege fahren.
+10-1	852-854	Ab	*[23]	
+10-2	855-862	Villich	*[23]	
+10-3	863-866	ist	*[23]	
+10-4	867-869	es	_	
+10-5	870-875	nicht	_	
+10-6	876-883	möglich	_	
+10-7	884-887	der	_	
+10-8	888-891	B56	*[24]	
+10-9	892-898	weiter	*[24]	
+10-10	899-901	in	*[24]	
+10-11	902-910	Richtung	*[24]	
+10-12	911-916	Sankt	*[24]	
+10-13	917-925	Augustin	*[24]	
+10-14	926-928	zu	_	
+10-15	929-935	folgen	_	
+10-16	936-939	und	_	
+10-17	940-943	man	_	
+10-18	944-948	muss	_	
+10-19	949-955	Umwege	_	
+10-20	956-962	fahren	_	
+10-21	962-963	.	_	
+
+#Text=Da die B56 ab da gerade stark verbreitert wird wäre es wünschenswert, wenn ebenfalls ein separater, von der Straße getrennter Radweg gebaut wird.
+11-1	964-966	Da	_	
+11-2	967-970	die	*[25]	
+11-3	971-974	B56	*[25]	
+11-4	975-977	ab	_	
+11-5	978-980	da	_	
+11-6	981-987	gerade	_	
+11-7	988-993	stark	_	
+11-8	994-1005	verbreitert	_	
+11-9	1006-1010	wird	_	
+11-10	1011-1015	wäre	_	
+11-11	1016-1018	es	_	
+11-12	1019-1032	wünschenswert	_	
+11-13	1032-1033	,	_	
+11-14	1034-1038	wenn	_	
+11-15	1039-1048	ebenfalls	_	
+11-16	1049-1052	ein	_	
+11-17	1053-1062	separater	_	
+11-18	1062-1063	,	_	
+11-19	1064-1067	von	_	
+11-20	1068-1071	der	_	
+11-21	1072-1078	Straße	_	
+11-22	1079-1089	getrennter	_	
+11-23	1090-1096	Radweg	_	
+11-24	1097-1103	gebaut	_	
+11-25	1104-1108	wird	_	
+11-26	1108-1109	.	_	
+
+#Text=So kennt man es auch von anderen Schnellstraßen.
+12-1	1110-1112	So	_	
+12-2	1113-1118	kennt	_	
+12-3	1119-1122	man	_	
+12-4	1123-1125	es	_	
+12-5	1126-1130	auch	_	
+12-6	1131-1134	von	_	
+12-7	1135-1142	anderen	_	
+12-8	1143-1157	Schnellstraßen	_	
+12-9	1157-1158	.	_	
+
+#Text=Die B56 ist die Hauptverkehrsader (neben den Autobahnen) von Bonn aus in Richtung Siegburg (und andersherum) und stellt für Pendler die schnellste und direkteste Verbindung dar.
+13-1	1159-1162	Die	*[26]	
+13-2	1163-1166	B56	*[26]	
+13-3	1167-1170	ist	_	
+13-4	1171-1174	die	_	
+13-5	1175-1192	Hauptverkehrsader	_	
+13-6	1193-1194	(	_	
+13-7	1194-1199	neben	_	
+13-8	1200-1203	den	_	
+13-9	1204-1214	Autobahnen	_	
+13-10	1214-1215	)	_	
+13-11	1216-1219	von	*[27]	
+13-12	1220-1224	Bonn	*[27]	
+13-13	1225-1228	aus	*[27]	
+13-14	1229-1231	in	*[27]	
+13-15	1232-1240	Richtung	*[27]	
+13-16	1241-1249	Siegburg	*[27]	
+13-17	1250-1251	(	_	
+13-18	1251-1254	und	_	
+13-19	1255-1266	andersherum	_	
+13-20	1266-1267	)	_	
+13-21	1268-1271	und	_	
+13-22	1272-1278	stellt	_	
+13-23	1279-1282	für	_	
+13-24	1283-1290	Pendler	_	
+13-25	1291-1294	die	_	
+13-26	1295-1305	schnellste	_	
+13-27	1306-1309	und	_	
+13-28	1310-1320	direkteste	_	
+13-29	1321-1331	Verbindung	_	
+13-30	1332-1335	dar	_	
+13-31	1335-1336	.	_	
+
+#Text=Sie sollte auch für Radfahrer sicher und zugänglich sein.
+14-1	1337-1340	Sie	_	
+14-2	1341-1347	sollte	_	
+14-3	1348-1352	auch	_	
+14-4	1353-1356	für	_	
+14-5	1357-1366	Radfahrer	_	
+14-6	1367-1373	sicher	_	
+14-7	1374-1377	und	_	
+14-8	1378-1388	zugänglich	_	
+14-9	1389-1393	sein	_	
+14-10	1393-1394	.	_	

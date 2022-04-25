@@ -1,0 +1,101 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unterführung endenicher Ei
+1-1	0-12	Unterführung	_	
+1-2	13-23	endenicher	*[5]	
+1-3	24-26	Ei	*[5]	
+
+#Text=Hier kommen einem leider öfters illegal Radfahrer richtung Innenstadt entgegen anstatt einfach die Endenicher Straße weiter zu fahren.
+2-1	29-33	Hier	_	
+2-2	34-40	kommen	_	
+2-3	41-46	einem	_	
+2-4	47-53	leider	_	
+2-5	54-60	öfters	_	
+2-6	61-68	illegal	_	
+2-7	69-78	Radfahrer	_	
+2-8	79-87	richtung	*[6]	
+2-9	88-98	Innenstadt	*[6]	
+2-10	99-107	entgegen	_	
+2-11	108-115	anstatt	_	
+2-12	116-123	einfach	_	
+2-13	124-127	die	*[7]	
+2-14	128-138	Endenicher	*[7]	
+2-15	139-145	Straße	*[7]	
+2-16	146-152	weiter	_	
+2-17	153-155	zu	_	
+2-18	156-162	fahren	_	
+2-19	162-163	.	_	
+
+#Text=Deutlichere Beschilderung und deutliche Richtungspfeile auf dem Boden sollten Radfahrer hier davon abhalten als Geisterfahrer in die Unterführung ein zu fahren.
+3-1	164-175	Deutlichere	_	
+3-2	176-189	Beschilderung	_	
+3-3	190-193	und	_	
+3-4	194-203	deutliche	_	
+3-5	204-219	Richtungspfeile	_	
+3-6	220-223	auf	_	
+3-7	224-227	dem	_	
+3-8	228-233	Boden	_	
+3-9	234-241	sollten	_	
+3-10	242-251	Radfahrer	_	
+3-11	252-256	hier	_	
+3-12	257-262	davon	_	
+3-13	263-271	abhalten	_	
+3-14	272-275	als	_	
+3-15	276-289	Geisterfahrer	_	
+3-16	290-292	in	_	
+3-17	293-296	die	_	
+3-18	297-309	Unterführung	_	
+3-19	310-313	ein	_	
+3-20	314-316	zu	_	
+3-21	317-323	fahren	_	
+3-22	323-324	.	_	
+
+#Text=Da dies nicht alle abhalten wird und es unten für die Radfahrer in erlaubter Richtung sehr gefährlich ist nach links in die Unterführung ein zu fahren könnte man dort einen Verkehrspiegel anbringen um Geisterfahrer oder Fußgänger auf dem Radweg früh genug zu erkennen.
+4-1	325-327	Da	_	
+4-2	328-332	dies	_	
+4-3	333-338	nicht	_	
+4-4	339-343	alle	_	
+4-5	344-352	abhalten	_	
+4-6	353-357	wird	_	
+4-7	358-361	und	_	
+4-8	362-364	es	_	
+4-9	365-370	unten	_	
+4-10	371-374	für	_	
+4-11	375-378	die	_	
+4-12	379-388	Radfahrer	_	
+4-13	389-391	in	_	
+4-14	392-401	erlaubter	_	
+4-15	402-410	Richtung	_	
+4-16	411-415	sehr	_	
+4-17	416-426	gefährlich	_	
+4-18	427-430	ist	_	
+4-19	431-435	nach	_	
+4-20	436-441	links	_	
+4-21	442-444	in	_	
+4-22	445-448	die	_	
+4-23	449-461	Unterführung	_	
+4-24	462-465	ein	_	
+4-25	466-468	zu	_	
+4-26	469-475	fahren	_	
+4-27	476-482	könnte	_	
+4-28	483-486	man	_	
+4-29	487-491	dort	_	
+4-30	492-497	einen	_	
+4-31	498-512	Verkehrspiegel	_	
+4-32	513-522	anbringen	_	
+4-33	523-525	um	_	
+4-34	526-539	Geisterfahrer	_	
+4-35	540-544	oder	_	
+4-36	545-554	Fußgänger	_	
+4-37	555-558	auf	_	
+4-38	559-562	dem	_	
+4-39	563-569	Radweg	_	
+4-40	570-574	früh	_	
+4-41	575-580	genug	_	
+4-42	581-583	zu	_	
+4-43	584-592	erkennen	_	
+4-44	592-593	.	_	

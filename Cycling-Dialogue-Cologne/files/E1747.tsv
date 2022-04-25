@@ -1,0 +1,114 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrrad und Anlieferung Priorität auf Venloer
+1-1	0-7	Fahrrad	_	
+1-2	8-11	und	_	
+1-3	12-23	Anlieferung	_	
+1-4	24-33	Priorität	_	
+1-5	34-37	auf	*[7]	
+1-6	38-45	Venloer	*[7]	
+
+#Text=Das Fahrradfahren auf der Venloer Straße zwischen Innere Kanalstraße und Gürtel ist im Moment gefährlich, zu Stoßzeiten sehr gefährlich.
+2-1	48-51	Das	_	
+2-2	52-65	Fahrradfahren	_	
+2-3	66-69	auf	*[8]	
+2-4	70-73	der	*[8]	
+2-5	74-81	Venloer	*[8]	
+2-6	82-88	Straße	*[8]	
+2-7	89-97	zwischen	*[8]	
+2-8	98-104	Innere	*[8]	
+2-9	105-116	Kanalstraße	*[8]	
+2-10	117-120	und	*[8]	
+2-11	121-127	Gürtel	*[8]	
+2-12	128-131	ist	_	
+2-13	132-134	im	_	
+2-14	135-141	Moment	_	
+2-15	142-152	gefährlich	_	
+2-16	152-153	,	_	
+2-17	154-156	zu	_	
+2-18	157-167	Stoßzeiten	_	
+2-19	168-172	sehr	_	
+2-20	173-183	gefährlich	_	
+2-21	183-184	.	_	
+
+#Text=Die Straße ist zu eng für alle Beteiligten zusammen.
+3-1	185-188	Die	_	
+3-2	189-195	Straße	_	
+3-3	196-199	ist	_	
+3-4	200-202	zu	_	
+3-5	203-206	eng	_	
+3-6	207-210	für	_	
+3-7	211-215	alle	_	
+3-8	216-227	Beteiligten	_	
+3-9	228-236	zusammen	_	
+3-10	236-237	.	_	
+
+#Text=Der Autoverkehr beeinträchtigt auch die Venloer Straße als Einkaufsstraße für die Fußgänger.
+4-1	238-241	Der	_	
+4-2	242-253	Autoverkehr	_	
+4-3	254-268	beeinträchtigt	_	
+4-4	269-273	auch	_	
+4-5	274-277	die	*[9]	
+4-6	278-285	Venloer	*[9]	
+4-7	286-292	Straße	*[9]	
+4-8	293-296	als	_	
+4-9	297-311	Einkaufsstraße	_	
+4-10	312-315	für	_	
+4-11	316-319	die	_	
+4-12	320-329	Fußgänger	_	
+4-13	329-330	.	_	
+
+#Text=Vorschlag daher: Fahrradwege in die Mitte der Straße legen, nicht als schmalen Randstreifen, der ohnehin ständig von Autofahrern und Autoparkern missachtet wird.
+5-1	331-340	Vorschlag	_	
+5-2	341-346	daher	_	
+5-3	346-347	:	_	
+5-4	348-359	Fahrradwege	_	
+5-5	360-362	in	_	
+5-6	363-366	die	_	
+5-7	367-372	Mitte	_	
+5-8	373-376	der	_	
+5-9	377-383	Straße	_	
+5-10	384-389	legen	_	
+5-11	389-390	,	_	
+5-12	391-396	nicht	_	
+5-13	397-400	als	_	
+5-14	401-409	schmalen	_	
+5-15	410-422	Randstreifen	_	
+5-16	422-423	,	_	
+5-17	424-427	der	_	
+5-18	428-435	ohnehin	_	
+5-19	436-443	ständig	_	
+5-20	444-447	von	_	
+5-21	448-459	Autofahrern	_	
+5-22	460-463	und	_	
+5-23	464-475	Autoparkern	_	
+5-24	476-486	missachtet	_	
+5-25	487-491	wird	_	
+5-26	491-492	.	_	
+
+#Text=Fahrradverkehr hat dann Vorrang gegenüber Autoverkehr, Autos müssen langsamer fahren und meiden die Venloer Straße irgendwann hoffentlich von selbst.
+6-1	493-507	Fahrradverkehr	_	
+6-2	508-511	hat	_	
+6-3	512-516	dann	_	
+6-4	517-524	Vorrang	_	
+6-5	525-534	gegenüber	_	
+6-6	535-546	Autoverkehr	_	
+6-7	546-547	,	_	
+6-8	548-553	Autos	_	
+6-9	554-560	müssen	_	
+6-10	561-570	langsamer	_	
+6-11	571-577	fahren	_	
+6-12	578-581	und	_	
+6-13	582-588	meiden	_	
+6-14	589-592	die	*[10]	
+6-15	593-600	Venloer	*[10]	
+6-16	601-607	Straße	*[10]	
+6-17	608-618	irgendwann	_	
+6-18	619-630	hoffentlich	_	
+6-19	631-634	von	_	
+6-20	635-641	selbst	_	
+6-21	641-642	.	_	

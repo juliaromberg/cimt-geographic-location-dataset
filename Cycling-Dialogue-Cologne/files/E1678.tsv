@@ -1,0 +1,40 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Lose Bodenplatten an der Liebigstraße
+1-1	0-4	Lose	_	
+1-2	5-17	Bodenplatten	_	
+1-3	18-20	an	*[4]	
+1-4	21-24	der	*[4]	
+1-5	25-37	Liebigstraße	*[4]	
+
+#Text=Die Bodenplatten der Liebigstraße sind ständig locker.
+2-1	40-43	Die	_	
+2-2	44-56	Bodenplatten	_	
+2-3	57-60	der	_	
+2-4	61-73	Liebigstraße	*	
+2-5	74-78	sind	_	
+2-6	79-86	ständig	_	
+2-7	87-93	locker	_	
+2-8	93-94	.	_	
+
+#Text=Sie werden zwar von Zeit zu Zeit ausgebessert, aber es ist eigentlich nur Flickwerk.
+3-1	95-98	Sie	_	
+3-2	99-105	werden	_	
+3-3	106-110	zwar	_	
+3-4	111-114	von	_	
+3-5	115-119	Zeit	_	
+3-6	120-122	zu	_	
+3-7	123-127	Zeit	_	
+3-8	128-140	ausgebessert	_	
+3-9	140-141	,	_	
+3-10	142-146	aber	_	
+3-11	147-149	es	_	
+3-12	150-153	ist	_	
+3-13	154-164	eigentlich	_	
+3-14	165-168	nur	_	
+3-15	169-178	Flickwerk	_	
+3-16	178-179	.	_	

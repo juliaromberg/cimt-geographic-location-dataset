@@ -1,0 +1,105 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Katastrophaler Zustand der Fahrbahn
+1-1	0-14	Katastrophaler	_	
+1-2	15-22	Zustand	_	
+1-3	23-26	der	_	
+1-4	27-35	Fahrbahn	_	
+
+#Text=Der Asphalt ist kaum noch zu befahren.
+2-1	38-41	Der	_	
+2-2	42-49	Asphalt	_	
+2-3	50-53	ist	_	
+2-4	54-58	kaum	_	
+2-5	59-63	noch	_	
+2-6	64-66	zu	_	
+2-7	67-75	befahren	_	
+2-8	75-76	.	_	
+
+#Text=Sehr unangenehm ist es auch hier gegen die Einbahnstraße zu fahren, was ja erlaubt ist, weil einfach viel zu wenig Platz ist.
+3-1	77-81	Sehr	_	
+3-2	82-92	unangenehm	_	
+3-3	93-96	ist	_	
+3-4	97-99	es	_	
+3-5	100-104	auch	_	
+3-6	105-109	hier	_	
+3-7	110-115	gegen	_	
+3-8	116-119	die	_	
+3-9	120-133	Einbahnstraße	_	
+3-10	134-136	zu	_	
+3-11	137-143	fahren	_	
+3-12	143-144	,	_	
+3-13	145-148	was	_	
+3-14	149-151	ja	_	
+3-15	152-159	erlaubt	_	
+3-16	160-163	ist	_	
+3-17	163-164	,	_	
+3-18	165-169	weil	_	
+3-19	170-177	einfach	_	
+3-20	178-182	viel	_	
+3-21	183-185	zu	_	
+3-22	186-191	wenig	_	
+3-23	192-197	Platz	_	
+3-24	198-201	ist	_	
+3-25	201-202	.	_	
+
+#Text=Eine sehr gute Lösung dafür wäre, die Parkplätze für Autos parallel statt schräg zum Fußgängerweg verlaufen zu lassen.
+4-1	203-207	Eine	_	
+4-2	208-212	sehr	_	
+4-3	213-217	gute	_	
+4-4	218-224	Lösung	_	
+4-5	225-230	dafür	_	
+4-6	231-235	wäre	_	
+4-7	235-236	,	_	
+4-8	237-240	die	_	
+4-9	241-251	Parkplätze	_	
+4-10	252-255	für	_	
+4-11	256-261	Autos	_	
+4-12	262-270	parallel	_	
+4-13	271-276	statt	_	
+4-14	277-283	schräg	_	
+4-15	284-287	zum	_	
+4-16	288-300	Fußgängerweg	_	
+4-17	301-310	verlaufen	_	
+4-18	311-313	zu	_	
+4-19	314-320	lassen	_	
+4-20	320-321	.	_	
+
+#Text=Klar würden so einige Parkplätze wegfallen, was für Autofahrer*innen immer schwer zu verkraften ist, aber diese Straße wird dadurch erst wieder verkehrstauglich für Fahrrad- fahrer*innen.
+5-1	322-326	Klar	_	
+5-2	327-333	würden	_	
+5-3	334-336	so	_	
+5-4	337-343	einige	_	
+5-5	344-354	Parkplätze	_	
+5-6	355-364	wegfallen	_	
+5-7	364-365	,	_	
+5-8	366-369	was	_	
+5-9	370-373	für	_	
+5-10	374-384	Autofahrer	_	
+5-11	384-385	*	_	
+5-12	385-390	innen	_	
+5-13	391-396	immer	_	
+5-14	397-403	schwer	_	
+5-15	404-406	zu	_	
+5-16	407-417	verkraften	_	
+5-17	418-421	ist	_	
+5-18	421-422	,	_	
+5-19	423-427	aber	_	
+5-20	428-433	diese	_	
+5-21	434-440	Straße	_	
+5-22	441-445	wird	_	
+5-23	446-453	dadurch	_	
+5-24	454-458	erst	_	
+5-25	459-465	wieder	_	
+5-26	466-482	verkehrstauglich	_	
+5-27	483-486	für	_	
+5-28	487-494	Fahrrad	_	
+5-29	494-495	-	_	
+5-30	496-502	fahrer	_	
+5-31	502-503	*	_	
+5-32	503-508	innen	_	
+5-33	508-509	.	_	

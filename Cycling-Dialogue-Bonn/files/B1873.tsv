@@ -1,0 +1,163 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Poller auf dem Radweg vor dem Blauen Affen
+1-1	0-6	Poller	_	
+1-2	7-10	auf	_	
+1-3	11-14	dem	_	
+1-4	15-21	Radweg	_	
+1-5	22-25	vor	*[11]	
+1-6	26-29	dem	*[11]	
+1-7	30-36	Blauen	*[11]	
+1-8	37-42	Affen	*[11]	
+
+#Text=Kurz vor dem Blauen Affen verengt sich der Radweg und es stehen 2 Poller auf dem Radweg.
+2-1	45-49	Kurz	_	
+2-2	50-53	vor	*[12]	
+2-3	54-57	dem	*[12]	
+2-4	58-64	Blauen	*[12]	
+2-5	65-70	Affen	*[12]	
+2-6	71-78	verengt	_	
+2-7	79-83	sich	_	
+2-8	84-87	der	_	
+2-9	88-94	Radweg	_	
+2-10	95-98	und	_	
+2-11	99-101	es	_	
+2-12	102-108	stehen	_	
+2-13	109-110	2	_	
+2-14	111-117	Poller	_	
+2-15	118-121	auf	_	
+2-16	122-125	dem	_	
+2-17	126-132	Radweg	_	
+2-18	132-133	.	_	
+
+#Text=Diese Stelle ist sehr gefährlich, weil Fußgänger kreuzen und eine Verengung besteht.
+3-1	134-139	Diese	_	
+3-2	140-146	Stelle	_	
+3-3	147-150	ist	_	
+3-4	151-155	sehr	_	
+3-5	156-166	gefährlich	_	
+3-6	166-167	,	_	
+3-7	168-172	weil	_	
+3-8	173-182	Fußgänger	_	
+3-9	183-190	kreuzen	_	
+3-10	191-194	und	_	
+3-11	195-199	eine	_	
+3-12	200-209	Verengung	_	
+3-13	210-217	besteht	_	
+3-14	217-218	.	_	
+
+#Text=Auto können nicht auf den schmalen Radweg fahren.
+4-1	219-223	Auto	_	
+4-2	224-230	können	_	
+4-3	231-236	nicht	_	
+4-4	237-240	auf	_	
+4-5	241-244	den	_	
+4-6	245-253	schmalen	_	
+4-7	254-260	Radweg	_	
+4-8	261-267	fahren	_	
+4-9	267-268	.	_	
+
+#Text=Außerdem ist der Radweg klar als Radweg erkennbar.
+5-1	269-277	Außerdem	_	
+5-2	278-281	ist	_	
+5-3	282-285	der	_	
+5-4	286-292	Radweg	_	
+5-5	293-297	klar	_	
+5-6	298-301	als	_	
+5-7	302-308	Radweg	_	
+5-8	309-318	erkennbar	_	
+5-9	318-319	.	_	
+
+#Text=Unter Abwägung aller Gesichtspunkte halte ich die Gefahr, dass Fahrradfahrer sich verletzen für wesentlich größer als die Gefahr, dass Autofahrer auf den Radweg fahren.
+6-1	320-325	Unter	_	
+6-2	326-334	Abwägung	_	
+6-3	335-340	aller	_	
+6-4	341-355	Gesichtspunkte	_	
+6-5	356-361	halte	_	
+6-6	362-365	ich	_	
+6-7	366-369	die	_	
+6-8	370-376	Gefahr	_	
+6-9	376-377	,	_	
+6-10	378-382	dass	_	
+6-11	383-396	Fahrradfahrer	_	
+6-12	397-401	sich	_	
+6-13	402-411	verletzen	_	
+6-14	412-415	für	_	
+6-15	416-426	wesentlich	_	
+6-16	427-433	größer	_	
+6-17	434-437	als	_	
+6-18	438-441	die	_	
+6-19	442-448	Gefahr	_	
+6-20	448-449	,	_	
+6-21	450-454	dass	_	
+6-22	455-465	Autofahrer	_	
+6-23	466-469	auf	_	
+6-24	470-473	den	_	
+6-25	474-480	Radweg	_	
+6-26	481-487	fahren	_	
+6-27	487-488	.	_	
+
+#Text=Ich bin daher für eine Verbreiterung des Radweges und eine Entfernung der Poller.
+7-1	489-492	Ich	_	
+7-2	493-496	bin	_	
+7-3	497-502	daher	_	
+7-4	503-506	für	_	
+7-5	507-511	eine	_	
+7-6	512-525	Verbreiterung	_	
+7-7	526-529	des	_	
+7-8	530-538	Radweges	_	
+7-9	539-542	und	_	
+7-10	543-547	eine	_	
+7-11	548-558	Entfernung	_	
+7-12	559-562	der	_	
+7-13	563-569	Poller	_	
+7-14	569-570	.	_	
+
+#Text=Außerdem laufen sehr oft Fußgänger auf diesem Teil der Radweges um zum Blauen Affen zu kommen.
+8-1	571-579	Außerdem	_	
+8-2	580-586	laufen	_	
+8-3	587-591	sehr	_	
+8-4	592-595	oft	_	
+8-5	596-605	Fußgänger	_	
+8-6	606-609	auf	_	
+8-7	610-616	diesem	_	
+8-8	617-621	Teil	_	
+8-9	622-625	der	_	
+8-10	626-634	Radweges	_	
+8-11	635-637	um	_	
+8-12	638-641	zum	*[13]	
+8-13	642-648	Blauen	*[13]	
+8-14	649-654	Affen	*[13]	
+8-15	655-657	zu	_	
+8-16	658-664	kommen	_	
+8-17	664-665	.	_	
+
+#Text=Durch eine deutlichere und sichtbare Verkehrsführung für Fußgänger würde dies nicht passieren.
+9-1	666-671	Durch	_	
+9-2	672-676	eine	_	
+9-3	677-688	deutlichere	_	
+9-4	689-692	und	_	
+9-5	693-702	sichtbare	_	
+9-6	703-718	Verkehrsführung	_	
+9-7	719-722	für	_	
+9-8	723-732	Fußgänger	_	
+9-9	733-738	würde	_	
+9-10	739-743	dies	_	
+9-11	744-749	nicht	_	
+9-12	750-759	passieren	_	
+9-13	759-760	.	_	
+
+#Text=Es handelt sich auch hier um eine Gefahrenstelle.
+10-1	761-763	Es	_	
+10-2	764-771	handelt	_	
+10-3	772-776	sich	_	
+10-4	777-781	auch	_	
+10-5	782-786	hier	_	
+10-6	787-789	um	_	
+10-7	790-794	eine	_	
+10-8	795-809	Gefahrenstelle	_	
+10-9	809-810	.	_	

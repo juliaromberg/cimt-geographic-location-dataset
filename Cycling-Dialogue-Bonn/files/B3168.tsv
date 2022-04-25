@@ -1,0 +1,125 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Falschparker Graurheindorferstraße
+1-1	0-12	Falschparker	_	
+1-2	13-34	Graurheindorferstraße	*	
+
+#Text=Auf der Graurheindorferstraße zwischen Nordstraße und Rosental könnte man eigentlich gut fahren: 2 Spuren, nicht zu viel Verkehr.
+2-1	37-40	Auf	*[7]	
+2-2	41-44	der	*[7]	
+2-3	45-66	Graurheindorferstraße	*[7]	
+2-4	67-75	zwischen	*[7]	
+2-5	76-86	Nordstraße	*[7]	
+2-6	87-90	und	*[7]	
+2-7	91-99	Rosental	*[7]	
+2-8	100-106	könnte	_	
+2-9	107-110	man	_	
+2-10	111-121	eigentlich	_	
+2-11	122-125	gut	_	
+2-12	126-132	fahren	_	
+2-13	132-133	:	_	
+2-14	134-135	2	_	
+2-15	136-142	Spuren	_	
+2-16	142-143	,	_	
+2-17	144-149	nicht	_	
+2-18	150-152	zu	_	
+2-19	153-157	viel	_	
+2-20	158-165	Verkehr	_	
+2-21	165-166	.	_	
+
+#Text=Leider wird da eigentlich am jeden Morgen (und Nacht) falsch geparkt (teilweise in Halteverbot, teilweise in Parkverbot).
+3-1	167-173	Leider	_	
+3-2	174-178	wird	_	
+3-3	179-181	da	_	
+3-4	182-192	eigentlich	_	
+3-5	193-195	am	_	
+3-6	196-201	jeden	_	
+3-7	202-208	Morgen	_	
+3-8	209-210	(	_	
+3-9	210-213	und	_	
+3-10	214-219	Nacht	_	
+3-11	219-220	)	_	
+3-12	221-227	falsch	_	
+3-13	228-235	geparkt	_	
+3-14	236-237	(	_	
+3-15	237-246	teilweise	_	
+3-16	247-249	in	_	
+3-17	250-261	Halteverbot	_	
+3-18	261-262	,	_	
+3-19	263-272	teilweise	_	
+3-20	273-275	in	_	
+3-21	276-286	Parkverbot	_	
+3-22	286-287	)	_	
+3-23	287-288	.	_	
+
+#Text=Dadurch müssen die Autos in richtung Zentrum warten, bis der andere Spur frei ist.
+4-1	289-296	Dadurch	_	
+4-2	297-303	müssen	_	
+4-3	304-307	die	_	
+4-4	308-313	Autos	_	
+4-5	314-316	in	_	
+4-6	317-325	richtung	_	
+4-7	326-333	Zentrum	_	
+4-8	334-340	warten	_	
+4-9	340-341	,	_	
+4-10	342-345	bis	_	
+4-11	346-349	der	_	
+4-12	350-356	andere	_	
+4-13	357-361	Spur	_	
+4-14	362-366	frei	_	
+4-15	367-370	ist	_	
+4-16	370-371	.	_	
+
+#Text=Und dadurch müssen auch Fahrradfahrer, die eigentlich zwischen den falsch geparkten Auto und dem Gegenverkehr fahren könnten, auch warten, weil die wartende Autos ihnen den Weg versperrt.
+5-1	372-375	Und	_	
+5-2	376-383	dadurch	_	
+5-3	384-390	müssen	_	
+5-4	391-395	auch	_	
+5-5	396-409	Fahrradfahrer	_	
+5-6	409-410	,	_	
+5-7	411-414	die	_	
+5-8	415-425	eigentlich	_	
+5-9	426-434	zwischen	_	
+5-10	435-438	den	_	
+5-11	439-445	falsch	_	
+5-12	446-455	geparkten	_	
+5-13	456-460	Auto	_	
+5-14	461-464	und	_	
+5-15	465-468	dem	_	
+5-16	469-481	Gegenverkehr	_	
+5-17	482-488	fahren	_	
+5-18	489-496	könnten	_	
+5-19	496-497	,	_	
+5-20	498-502	auch	_	
+5-21	503-509	warten	_	
+5-22	509-510	,	_	
+5-23	511-515	weil	_	
+5-24	516-519	die	_	
+5-25	520-528	wartende	_	
+5-26	529-534	Autos	_	
+5-27	535-540	ihnen	_	
+5-28	541-544	den	_	
+5-29	545-548	Weg	_	
+5-30	549-558	versperrt	_	
+5-31	558-559	.	_	
+
+#Text=Könnte das Ordnungsamt da einfach mal ein paar Tage vorbeifahren und den Weg freimachen?
+6-1	560-566	Könnte	_	
+6-2	567-570	das	_	
+6-3	571-582	Ordnungsamt	_	
+6-4	583-585	da	_	
+6-5	586-593	einfach	_	
+6-6	594-597	mal	_	
+6-7	598-601	ein	_	
+6-8	602-606	paar	_	
+6-9	607-611	Tage	_	
+6-10	612-624	vorbeifahren	_	
+6-11	625-628	und	_	
+6-12	629-632	den	_	
+6-13	633-636	Weg	_	
+6-14	637-647	freimachen	_	
+6-15	647-648	?	_	

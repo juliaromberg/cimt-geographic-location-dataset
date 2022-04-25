@@ -1,0 +1,124 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstreifen entlang der Gotenstraße, Fahrtrichtung Hochkreuz, fehlt
+1-1	0-15	Fahrradstreifen	*[7]	
+1-2	16-23	entlang	*[7]	
+1-3	24-27	der	*[7]	
+1-4	28-39	Gotenstraße	*[7]	
+1-5	39-40	,	*[7]	
+1-6	41-54	Fahrtrichtung	*[7]	
+1-7	55-64	Hochkreuz	*[7]	
+1-8	64-65	,	_	
+1-9	66-71	fehlt	_	
+
+#Text=Der Radstreifen auf der Gotenstr. in Richtung Plittersdorf ist klasse - nur fehlt das Gegenstück in Richtung Hochkreuz.
+2-1	74-77	Der	*[8]	
+2-2	78-89	Radstreifen	*[8]	
+2-3	90-93	auf	*[8]	
+2-4	94-97	der	*[8]	
+2-5	98-106	Gotenstr	*[8]	
+2-6	106-107	.	*[8]	
+2-7	108-110	in	*[8]	
+2-8	111-119	Richtung	*[8]	
+2-9	120-132	Plittersdorf	*[8]	
+2-10	133-136	ist	_	
+2-11	137-143	klasse	_	
+2-12	144-145	-	_	
+2-13	146-149	nur	_	
+2-14	150-155	fehlt	_	
+2-15	156-159	das	_	
+2-16	160-170	Gegenstück	_	
+2-17	171-173	in	*[9]	
+2-18	174-182	Richtung	*[9]	
+2-19	183-192	Hochkreuz	*[9]	
+2-20	192-193	.	_	
+
+#Text=Es wäre schön, wenn die Autoparkplätze entlang der Straße komplett auf den (breiten) Bürgersteig gesetzt werden (momentan halb und halb).
+3-1	194-196	Es	_	
+3-2	197-201	wäre	_	
+3-3	202-207	schön	_	
+3-4	207-208	,	_	
+3-5	209-213	wenn	_	
+3-6	214-217	die	_	
+3-7	218-232	Autoparkplätze	_	
+3-8	233-240	entlang	_	
+3-9	241-244	der	_	
+3-10	245-251	Straße	_	
+3-11	252-260	komplett	_	
+3-12	261-264	auf	_	
+3-13	265-268	den	_	
+3-14	269-270	(	_	
+3-15	270-277	breiten	_	
+3-16	277-278	)	_	
+3-17	279-290	Bürgersteig	_	
+3-18	291-298	gesetzt	_	
+3-19	299-305	werden	_	
+3-20	306-307	(	_	
+3-21	307-315	momentan	_	
+3-22	316-320	halb	_	
+3-23	321-324	und	_	
+3-24	325-329	halb	_	
+3-25	329-330	)	_	
+3-26	330-331	.	_	
+
+#Text=Dort war bis vor etwa einem Jahr ein enger Radweg.
+4-1	332-336	Dort	_	
+4-2	337-340	war	_	
+4-3	341-344	bis	_	
+4-4	345-348	vor	_	
+4-5	349-353	etwa	_	
+4-6	354-359	einem	_	
+4-7	360-364	Jahr	_	
+4-8	365-368	ein	_	
+4-9	369-374	enger	_	
+4-10	375-381	Radweg	_	
+4-11	381-382	.	_	
+
+#Text=Da die Markierung dafür glücklicherweise entfernt wurde, wäre jetzt Platz, die Parkplätze auf den Bürgersteig zu verlegen und dafür den Randstreifen am Bürgersteig als Radstreifen zu markieren.
+5-1	383-385	Da	_	
+5-2	386-389	die	_	
+5-3	390-400	Markierung	_	
+5-4	401-406	dafür	_	
+5-5	407-423	glücklicherweise	_	
+5-6	424-432	entfernt	_	
+5-7	433-438	wurde	_	
+5-8	438-439	,	_	
+5-9	440-444	wäre	_	
+5-10	445-450	jetzt	_	
+5-11	451-456	Platz	_	
+5-12	456-457	,	_	
+5-13	458-461	die	_	
+5-14	462-472	Parkplätze	_	
+5-15	473-476	auf	_	
+5-16	477-480	den	_	
+5-17	481-492	Bürgersteig	_	
+5-18	493-495	zu	_	
+5-19	496-504	verlegen	_	
+5-20	505-508	und	_	
+5-21	509-514	dafür	_	
+5-22	515-518	den	_	
+5-23	519-531	Randstreifen	_	
+5-24	532-534	am	_	
+5-25	535-546	Bürgersteig	_	
+5-26	547-550	als	_	
+5-27	551-562	Radstreifen	_	
+5-28	563-565	zu	_	
+5-29	566-575	markieren	_	
+5-30	575-576	.	_	
+
+#Text=Diese Maßnahme würde nur Markierungsarbeiten erfordern und keine baulichen Veränderungen.
+6-1	577-582	Diese	_	
+6-2	583-591	Maßnahme	_	
+6-3	592-597	würde	_	
+6-4	598-601	nur	_	
+6-5	602-621	Markierungsarbeiten	_	
+6-6	622-631	erfordern	_	
+6-7	632-635	und	_	
+6-8	636-641	keine	_	
+6-9	642-651	baulichen	_	
+6-10	652-665	Veränderungen	_	
+6-11	665-666	.	_	

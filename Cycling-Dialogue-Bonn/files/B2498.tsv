@@ -1,0 +1,136 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zu eng für Rad- und Autofahrer
+1-1	0-2	Zu	_	
+1-2	3-6	eng	_	
+1-3	7-10	für	_	
+1-4	11-14	Rad	_	
+1-5	14-15	-	_	
+1-6	16-19	und	_	
+1-7	20-30	Autofahrer	_	
+
+#Text=Ich bin in der Frongasse sowohl als Autofahrer wie als Radfahrer unterwegs und wo es für die Autos eine Einbahnstraße ist dürfen die Räder auch die entgegengesetzte Richtung nutzen.
+2-1	33-36	Ich	_	
+2-2	37-40	bin	_	
+2-3	41-43	in	*[5]	
+2-4	44-47	der	*[5]	
+2-5	48-57	Frongasse	*[5]	
+2-6	58-64	sowohl	_	
+2-7	65-68	als	_	
+2-8	69-79	Autofahrer	_	
+2-9	80-83	wie	_	
+2-10	84-87	als	_	
+2-11	88-97	Radfahrer	_	
+2-12	98-107	unterwegs	_	
+2-13	108-111	und	_	
+2-14	112-114	wo	_	
+2-15	115-117	es	_	
+2-16	118-121	für	_	
+2-17	122-125	die	_	
+2-18	126-131	Autos	_	
+2-19	132-136	eine	_	
+2-20	137-150	Einbahnstraße	_	
+2-21	151-154	ist	_	
+2-22	155-161	dürfen	_	
+2-23	162-165	die	_	
+2-24	166-171	Räder	_	
+2-25	172-176	auch	_	
+2-26	177-180	die	_	
+2-27	181-197	entgegengesetzte	_	
+2-28	198-206	Richtung	_	
+2-29	207-213	nutzen	_	
+2-30	213-214	.	_	
+
+#Text=Hier ist jedoch einfach zu wenig Platz da die Straße an einer Stelle noch enger wird und um eine Kurve führt, sodass es immer wieder zu beinahe Unfällen zwischen Autos und Radfahrern kommt.
+3-1	215-219	Hier	_	
+3-2	220-223	ist	_	
+3-3	224-230	jedoch	_	
+3-4	231-238	einfach	_	
+3-5	239-241	zu	_	
+3-6	242-247	wenig	_	
+3-7	248-253	Platz	_	
+3-8	254-256	da	_	
+3-9	257-260	die	_	
+3-10	261-267	Straße	_	
+3-11	268-270	an	_	
+3-12	271-276	einer	_	
+3-13	277-283	Stelle	_	
+3-14	284-288	noch	_	
+3-15	289-294	enger	_	
+3-16	295-299	wird	_	
+3-17	300-303	und	_	
+3-18	304-306	um	_	
+3-19	307-311	eine	_	
+3-20	312-317	Kurve	_	
+3-21	318-323	führt	_	
+3-22	323-324	,	_	
+3-23	325-331	sodass	_	
+3-24	332-334	es	_	
+3-25	335-340	immer	_	
+3-26	341-347	wieder	_	
+3-27	348-350	zu	_	
+3-28	351-358	beinahe	_	
+3-29	359-367	Unfällen	_	
+3-30	368-376	zwischen	_	
+3-31	377-382	Autos	_	
+3-32	383-386	und	_	
+3-33	387-397	Radfahrern	_	
+3-34	398-403	kommt	_	
+3-35	403-404	.	_	
+
+#Text=Als Radfahrer darf man die Straße nutzen, der Autofahrer kommt aber um die Ecke und sieht das Rad zu spät, welches dann oft noch ziemlich mittig fahren muss (zu eng & Falschparker), hier sollte die Einbahnstraße für alle Verkehrsteilnehmer gelten um sie sicherer zu machen.
+4-1	405-408	Als	_	
+4-2	409-418	Radfahrer	_	
+4-3	419-423	darf	_	
+4-4	424-427	man	_	
+4-5	428-431	die	_	
+4-6	432-438	Straße	_	
+4-7	439-445	nutzen	_	
+4-8	445-446	,	_	
+4-9	447-450	der	_	
+4-10	451-461	Autofahrer	_	
+4-11	462-467	kommt	_	
+4-12	468-472	aber	_	
+4-13	473-475	um	_	
+4-14	476-479	die	_	
+4-15	480-484	Ecke	_	
+4-16	485-488	und	_	
+4-17	489-494	sieht	_	
+4-18	495-498	das	_	
+4-19	499-502	Rad	_	
+4-20	503-505	zu	_	
+4-21	506-510	spät	_	
+4-22	510-511	,	_	
+4-23	512-519	welches	_	
+4-24	520-524	dann	_	
+4-25	525-528	oft	_	
+4-26	529-533	noch	_	
+4-27	534-542	ziemlich	_	
+4-28	543-549	mittig	_	
+4-29	550-556	fahren	_	
+4-30	557-561	muss	_	
+4-31	562-563	(	_	
+4-32	563-565	zu	_	
+4-33	566-569	eng	_	
+4-34	570-571	&	_	
+4-35	572-584	Falschparker	_	
+4-36	584-585	)	_	
+4-37	585-586	,	_	
+4-38	587-591	hier	_	
+4-39	592-598	sollte	_	
+4-40	599-602	die	_	
+4-41	603-616	Einbahnstraße	_	
+4-42	617-620	für	_	
+4-43	621-625	alle	_	
+4-44	626-644	Verkehrsteilnehmer	_	
+4-45	645-651	gelten	_	
+4-46	652-654	um	_	
+4-47	655-658	sie	_	
+4-48	659-667	sicherer	_	
+4-49	668-670	zu	_	
+4-50	671-677	machen	_	
+4-51	677-678	.	_	

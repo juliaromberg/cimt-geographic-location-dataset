@@ -1,0 +1,43 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unattraktive Radabstellanlage
+1-1	0-12	Unattraktive	_	
+1-2	13-29	Radabstellanlage	_	
+
+#Text=Die Tauben haben unter den Bäumen die ganze Anlage vollgeschissen, keinem Autofahrer würde man so einen Parkplatz zumuten!
+2-1	32-35	Die	_	
+2-2	36-42	Tauben	_	
+2-3	43-48	haben	_	
+2-4	49-54	unter	_	
+2-5	55-58	den	_	
+2-6	59-65	Bäumen	_	
+2-7	66-69	die	_	
+2-8	70-75	ganze	_	
+2-9	76-82	Anlage	_	
+2-10	83-97	vollgeschissen	_	
+2-11	97-98	,	_	
+2-12	99-105	keinem	_	
+2-13	106-116	Autofahrer	_	
+2-14	117-122	würde	_	
+2-15	123-126	man	_	
+2-16	127-129	so	_	
+2-17	130-135	einen	_	
+2-18	136-145	Parkplatz	_	
+2-19	146-153	zumuten	_	
+2-20	153-154	!	_	
+
+#Text=Noch dazu ist die Anlage zu eng und unbrauchbar!
+3-1	155-159	Noch	_	
+3-2	160-164	dazu	_	
+3-3	165-168	ist	_	
+3-4	169-172	die	_	
+3-5	173-179	Anlage	_	
+3-6	180-182	zu	_	
+3-7	183-186	eng	_	
+3-8	187-190	und	_	
+3-9	191-202	unbrauchbar	_	
+3-10	202-203	!	_	

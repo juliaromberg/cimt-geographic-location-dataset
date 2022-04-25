@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampeln und Poller versperren Radweg
+1-1	0-6	Ampeln	_	
+1-2	7-10	und	_	
+1-3	11-17	Poller	_	
+1-4	18-28	versperren	_	
+1-5	29-35	Radweg	_	
+
+#Text=Die Geradeausfahrt stadteinwärts entlang der B9 ist hier behindert durch eine enge und gefährliche Durchfahrt zwischen nebeneinanderstehenden Ampelmasten und Pollern.
+2-1	38-41	Die	_	
+2-2	42-56	Geradeausfahrt	_	
+2-3	57-70	stadteinwärts	_	
+2-4	71-78	entlang	*[4]	
+2-5	79-82	der	*[4]	
+2-6	83-85	B9	*[4]	
+2-7	86-89	ist	_	
+2-8	90-94	hier	_	
+2-9	95-104	behindert	_	
+2-10	105-110	durch	_	
+2-11	111-115	eine	_	
+2-12	116-120	enge	_	
+2-13	121-124	und	_	
+2-14	125-136	gefährliche	_	
+2-15	137-147	Durchfahrt	_	
+2-16	148-156	zwischen	_	
+2-17	157-179	nebeneinanderstehenden	_	
+2-18	180-191	Ampelmasten	_	
+2-19	192-195	und	_	
+2-20	196-203	Pollern	_	
+2-21	203-204	.	_	
+
+#Text=An dieser Stelle kann nicht sicher ein Schulterblick auf den Straßenverkehr durchgeführt werden ohne das Risiko einzugehen gegen eins der Hindernisse zu fahren.
+3-1	205-207	An	_	
+3-2	208-214	dieser	_	
+3-3	215-221	Stelle	_	
+3-4	222-226	kann	_	
+3-5	227-232	nicht	_	
+3-6	233-239	sicher	_	
+3-7	240-243	ein	_	
+3-8	244-257	Schulterblick	_	
+3-9	258-261	auf	_	
+3-10	262-265	den	_	
+3-11	266-280	Straßenverkehr	_	
+3-12	281-293	durchgeführt	_	
+3-13	294-300	werden	_	
+3-14	301-305	ohne	_	
+3-15	306-309	das	_	
+3-16	310-316	Risiko	_	
+3-17	317-327	einzugehen	_	
+3-18	328-333	gegen	_	
+3-19	334-338	eins	_	
+3-20	339-342	der	_	
+3-21	343-354	Hindernisse	_	
+3-22	355-357	zu	_	
+3-23	358-364	fahren	_	
+3-24	364-365	.	_	

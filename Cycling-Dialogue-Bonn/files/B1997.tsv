@@ -1,0 +1,178 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bitte besser machen!
+1-1	0-5	Bitte	_	
+1-2	6-12	besser	_	
+1-3	13-19	machen	_	
+1-4	19-20	!	_	
+
+#Text=Der Abschnitt auf der St. Augustiner Straße zwischen Combahnstraße und Kreuzung L16/L193 (Niederkasseler und Oberkasseler Straße) ist in beiden Richtungen für Fußgänger und Radfahrer eine einzige Zumutung!
+2-1	23-26	Der	*[9]	
+2-2	27-36	Abschnitt	*[9]	
+2-3	37-40	auf	*[9]	
+2-4	41-44	der	*[9]	
+2-5	45-47	St	*[9]	
+2-6	47-48	.	*[9]	
+2-7	49-59	Augustiner	*[9]	
+2-8	60-66	Straße	*[9]	
+2-9	67-75	zwischen	*[9]	
+2-10	76-89	Combahnstraße	*[9]	
+2-11	90-93	und	*[9]	
+2-12	94-102	Kreuzung	*[9]	
+2-13	103-106	L16	*[9]	
+2-14	106-107	/	*[9]	
+2-15	107-111	L193	*[9]	
+2-16	112-113	(	*[9]	
+2-17	113-127	Niederkasseler	*[9]	
+2-18	128-131	und	*[9]	
+2-19	132-144	Oberkasseler	*[9]	
+2-20	145-151	Straße	*[9]	
+2-21	151-152	)	_	
+2-22	153-156	ist	_	
+2-23	157-159	in	_	
+2-24	160-166	beiden	_	
+2-25	167-177	Richtungen	_	
+2-26	178-181	für	_	
+2-27	182-191	Fußgänger	_	
+2-28	192-195	und	_	
+2-29	196-205	Radfahrer	_	
+2-30	206-210	eine	_	
+2-31	211-218	einzige	_	
+2-32	219-227	Zumutung	_	
+2-33	227-228	!	_	
+
+#Text=Es fehlt an Flächen für Radfahrer und Fußgänger.
+3-1	229-231	Es	_	
+3-2	232-237	fehlt	_	
+3-3	238-240	an	_	
+3-4	241-248	Flächen	_	
+3-5	249-252	für	_	
+3-6	253-262	Radfahrer	_	
+3-7	263-266	und	_	
+3-8	267-276	Fußgänger	_	
+3-9	276-277	.	_	
+
+#Text=An Müllabfuhr-Tagen verschärft sich die Situation nochmals, da sich dann Fußgänger (u.a. morgens auch Grundschulkinder) und Radfahrer in Richtung Beuel-Mitte den eh sehr schmalen kombinierten Geh- und Radweg mit den abgestellten Mülltonnen teilen müssen.
+4-1	278-280	An	_	
+4-2	281-297	Müllabfuhr-Tagen	_	
+4-3	298-308	verschärft	_	
+4-4	309-313	sich	_	
+4-5	314-317	die	_	
+4-6	318-327	Situation	_	
+4-7	328-336	nochmals	_	
+4-8	336-337	,	_	
+4-9	338-340	da	_	
+4-10	341-345	sich	_	
+4-11	346-350	dann	_	
+4-12	351-360	Fußgänger	_	
+4-13	361-362	(	_	
+4-14	362-365	u.a	_	
+4-15	365-366	.	_	
+4-16	367-374	morgens	_	
+4-17	375-379	auch	_	
+4-18	380-396	Grundschulkinder	_	
+4-19	396-397	)	_	
+4-20	398-401	und	_	
+4-21	402-411	Radfahrer	_	
+4-22	412-414	in	*[10]	
+4-23	415-423	Richtung	*[10]	
+4-24	424-435	Beuel-Mitte	*[10]	
+4-25	436-439	den	_	
+4-26	440-442	eh	_	
+4-27	443-447	sehr	_	
+4-28	448-456	schmalen	_	
+4-29	457-469	kombinierten	_	
+4-30	470-473	Geh	_	
+4-31	473-474	-	_	
+4-32	475-478	und	_	
+4-33	479-485	Radweg	_	
+4-34	486-489	mit	_	
+4-35	490-493	den	_	
+4-36	494-506	abgestellten	_	
+4-37	507-517	Mülltonnen	_	
+4-38	518-524	teilen	_	
+4-39	525-531	müssen	_	
+4-40	531-532	.	_	
+
+#Text=In der Gegenrichtung ist man als Radfahrer auf dem abmarkierten Schutz(sic!)streifen den Annäherungsversuchen ungestümer Autofahrer ausgeliefert.
+5-1	533-535	In	_	
+5-2	536-539	der	_	
+5-3	540-553	Gegenrichtung	_	
+5-4	554-557	ist	_	
+5-5	558-561	man	_	
+5-6	562-565	als	_	
+5-7	566-575	Radfahrer	_	
+5-8	576-579	auf	_	
+5-9	580-583	dem	_	
+5-10	584-596	abmarkierten	_	
+5-11	597-603	Schutz	_	
+5-12	603-604	(	_	
+5-13	604-607	sic	_	
+5-14	607-608	!	_	
+5-15	608-609	)	_	
+5-16	609-617	streifen	_	
+5-17	618-621	den	_	
+5-18	622-642	Annäherungsversuchen	_	
+5-19	643-653	ungestümer	_	
+5-20	654-664	Autofahrer	_	
+5-21	665-677	ausgeliefert	_	
+5-22	677-678	.	_	
+
+#Text=Bei den Planungen zur Beschleunigung der Stadtbahnlinie 66 sollten die Belange von Stadtbahn, Fußgängern und Radfahrern gleichberechtigt an erster Stelle stehen.
+6-1	679-682	Bei	_	
+6-2	683-686	den	_	
+6-3	687-696	Planungen	_	
+6-4	697-700	zur	_	
+6-5	701-715	Beschleunigung	_	
+6-6	716-719	der	_	
+6-7	720-734	Stadtbahnlinie	_	
+6-8	735-737	66	_	
+6-9	738-745	sollten	_	
+6-10	746-749	die	_	
+6-11	750-757	Belange	_	
+6-12	758-761	von	_	
+6-13	762-771	Stadtbahn	_	
+6-14	771-772	,	_	
+6-15	773-783	Fußgängern	_	
+6-16	784-787	und	_	
+6-17	788-798	Radfahrern	_	
+6-18	799-815	gleichberechtigt	_	
+6-19	816-818	an	_	
+6-20	819-825	erster	_	
+6-21	826-832	Stelle	_	
+6-22	833-839	stehen	_	
+6-23	839-840	.	_	
+
+#Text=Am besten großzügig dimensionierte Fuß- und Radwege sowie exklusive Stadtbahntrassen in beide Richtungen.
+7-1	841-843	Am	_	
+7-2	844-850	besten	_	
+7-3	851-860	großzügig	_	
+7-4	861-875	dimensionierte	_	
+7-5	876-879	Fuß	_	
+7-6	879-880	-	_	
+7-7	881-884	und	_	
+7-8	885-892	Radwege	_	
+7-9	893-898	sowie	_	
+7-10	899-908	exklusive	_	
+7-11	909-925	Stadtbahntrassen	_	
+7-12	926-928	in	_	
+7-13	929-934	beide	_	
+7-14	935-945	Richtungen	_	
+7-15	945-946	.	_	
+
+#Text=Der MIV muss sich mit der verbleibenden Restfläche zufrieden geben.
+8-1	947-950	Der	_	
+8-2	951-954	MIV	_	
+8-3	955-959	muss	_	
+8-4	960-964	sich	_	
+8-5	965-968	mit	_	
+8-6	969-972	der	_	
+8-7	973-986	verbleibenden	_	
+8-8	987-997	Restfläche	_	
+8-9	998-1007	zufrieden	_	
+8-10	1008-1013	geben	_	
+8-11	1013-1014	.	_	

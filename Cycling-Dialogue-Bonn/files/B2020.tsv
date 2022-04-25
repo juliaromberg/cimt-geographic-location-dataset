@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Abstellanlagen
+1-1	0-14	Abstellanlagen	_	
+
+#Text=Das Ennertbad sollte mit modernen Abstellanlagen ausgestattet werden.
+2-1	17-20	Das	*[3]	
+2-2	21-30	Ennertbad	*[3]	
+2-3	31-37	sollte	_	
+2-4	38-41	mit	_	
+2-5	42-50	modernen	_	
+2-6	51-65	Abstellanlagen	_	
+2-7	66-78	ausgestattet	_	
+2-8	79-85	werden	_	
+2-9	85-86	.	_	
+
+#Text=Zurzeit befinden sich hier nur ein paar alte Felgenknicker.
+3-1	87-94	Zurzeit	_	
+3-2	95-103	befinden	_	
+3-3	104-108	sich	_	
+3-4	109-113	hier	_	
+3-5	114-117	nur	_	
+3-6	118-121	ein	_	
+3-7	122-126	paar	_	
+3-8	127-131	alte	_	
+3-9	132-145	Felgenknicker	_	
+3-10	145-146	.	_	

@@ -1,0 +1,97 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Linksabbiegerampel von Aufstellfläche aus nicht sichtbar
+1-1	0-18	Linksabbiegerampel	_	
+1-2	19-22	von	_	
+1-3	23-37	Aufstellfläche	_	
+1-4	38-41	aus	_	
+1-5	42-47	nicht	_	
+1-6	48-56	sichtbar	_	
+
+#Text=Wenn ich von der Bonner Straße in die Koblenzer Straße links abbiegen will, darf ich mich vor den Bussen auf der Aufstellfläche für Fahrradfahrer positionieren.
+2-1	59-63	Wenn	_	
+2-2	64-67	ich	_	
+2-3	68-71	von	*[6]	
+2-4	72-75	der	*[6]	
+2-5	76-82	Bonner	*[6]	
+2-6	83-89	Straße	*[6]	
+2-7	90-92	in	*[6]	
+2-8	93-96	die	*[6]	
+2-9	97-106	Koblenzer	*[6]	
+2-10	107-113	Straße	*[6]	
+2-11	114-119	links	*[6]	
+2-12	120-128	abbiegen	*[6]	
+2-13	129-133	will	_	
+2-14	133-134	,	_	
+2-15	135-139	darf	_	
+2-16	140-143	ich	_	
+2-17	144-148	mich	_	
+2-18	149-152	vor	_	
+2-19	153-156	den	_	
+2-20	157-163	Bussen	_	
+2-21	164-167	auf	_	
+2-22	168-171	der	_	
+2-23	172-186	Aufstellfläche	_	
+2-24	187-190	für	_	
+2-25	191-204	Fahrradfahrer	_	
+2-26	205-218	positionieren	_	
+2-27	218-219	.	_	
+
+#Text=Die Linksabbiegerampel befindet sich dann direkt über meinem Kopf und ich weigere mich, hier minutenlang senkrecht nach oben zu schauen.
+3-1	220-223	Die	_	
+3-2	224-242	Linksabbiegerampel	_	
+3-3	243-251	befindet	_	
+3-4	252-256	sich	_	
+3-5	257-261	dann	_	
+3-6	262-268	direkt	_	
+3-7	269-273	über	_	
+3-8	274-280	meinem	_	
+3-9	281-285	Kopf	_	
+3-10	286-289	und	_	
+3-11	290-293	ich	_	
+3-12	294-301	weigere	_	
+3-13	302-306	mich	_	
+3-14	306-307	,	_	
+3-15	308-312	hier	_	
+3-16	313-324	minutenlang	_	
+3-17	325-334	senkrecht	_	
+3-18	335-339	nach	_	
+3-19	340-344	oben	_	
+3-20	345-347	zu	_	
+3-21	348-355	schauen	_	
+3-22	355-356	.	_	
+
+#Text=Im Endeffekt biege ich dann unabhängig von der Ampel einfach ab, sobald es der Gegenverkehr zulässt.
+4-1	357-359	Im	_	
+4-2	360-369	Endeffekt	_	
+4-3	370-375	biege	_	
+4-4	376-379	ich	_	
+4-5	380-384	dann	_	
+4-6	385-395	unabhängig	_	
+4-7	396-399	von	_	
+4-8	400-403	der	_	
+4-9	404-409	Ampel	_	
+4-10	410-417	einfach	_	
+4-11	418-420	ab	_	
+4-12	420-421	,	_	
+4-13	422-428	sobald	_	
+4-14	429-431	es	_	
+4-15	432-435	der	_	
+4-16	436-448	Gegenverkehr	_	
+4-17	449-456	zulässt	_	
+4-18	456-457	.	_	
+
+#Text=Hier müsste eine Radfahrerampel im Sichtbereich aufgestellt werden.
+5-1	458-462	Hier	_	
+5-2	463-469	müsste	_	
+5-3	470-474	eine	_	
+5-4	475-489	Radfahrerampel	_	
+5-5	490-492	im	_	
+5-6	493-505	Sichtbereich	_	
+5-7	506-517	aufgestellt	_	
+5-8	518-524	werden	_	
+5-9	524-525	.	_	

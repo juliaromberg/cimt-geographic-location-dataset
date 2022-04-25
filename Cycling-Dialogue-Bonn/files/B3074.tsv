@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße zugeparkt
+1-1	0-13	Fahrradstraße	_	
+1-2	14-23	zugeparkt	_	
+
+#Text=Schön, dass die Limpericher Straße hier eine Fahrradstraße ist, doch rund im die Bahnhaltestelle Nord mehren sich die parkenden Autos.
+2-1	26-31	Schön	_	
+2-2	31-32	,	_	
+2-3	33-37	dass	_	
+2-4	38-41	die	*[4]	
+2-5	42-53	Limpericher	*[4]	
+2-6	54-60	Straße	*[4]	
+2-7	61-65	hier	_	
+2-8	66-70	eine	_	
+2-9	71-84	Fahrradstraße	_	
+2-10	85-88	ist	_	
+2-11	88-89	,	_	
+2-12	90-94	doch	_	
+2-13	95-99	rund	*[5]	
+2-14	100-102	im	*[5]	
+2-15	103-106	die	*[5]	
+2-16	107-122	Bahnhaltestelle	*[5]	
+2-17	123-127	Nord	*[5]	
+2-18	128-134	mehren	_	
+2-19	135-139	sich	_	
+2-20	140-143	die	_	
+2-21	144-153	parkenden	_	
+2-22	154-159	Autos	_	
+2-23	159-160	.	_	
+
+#Text=Teilweise ist der Bürgersteig Richtung Küdinghovener gar nicht mehr begehbar, und in die andere Richtung stehen die Fahrzeuge bis weit über die Mitte der Fahrradstraße, da dort größere Steine liegen, die ein parken mit Rädern im Gras neben der Fahrbahn verhindern (was natürlich auch nicht gewollt sein sollte).
+3-1	161-170	Teilweise	_	
+3-2	171-174	ist	_	
+3-3	175-178	der	*[6]	
+3-4	179-190	Bürgersteig	*[6]	
+3-5	191-199	Richtung	*[6]	
+3-6	200-213	Küdinghovener	*[6]	
+3-7	214-217	gar	_	
+3-8	218-223	nicht	_	
+3-9	224-228	mehr	_	
+3-10	229-237	begehbar	_	
+3-11	237-238	,	_	
+3-12	239-242	und	_	
+3-13	243-245	in	_	
+3-14	246-249	die	_	
+3-15	250-256	andere	_	
+3-16	257-265	Richtung	_	
+3-17	266-272	stehen	_	
+3-18	273-276	die	_	
+3-19	277-286	Fahrzeuge	_	
+3-20	287-290	bis	_	
+3-21	291-295	weit	_	
+3-22	296-300	über	_	
+3-23	301-304	die	_	
+3-24	305-310	Mitte	_	
+3-25	311-314	der	_	
+3-26	315-328	Fahrradstraße	_	
+3-27	328-329	,	_	
+3-28	330-332	da	_	
+3-29	333-337	dort	_	
+3-30	338-345	größere	_	
+3-31	346-352	Steine	_	
+3-32	353-359	liegen	_	
+3-33	359-360	,	_	
+3-34	361-364	die	_	
+3-35	365-368	ein	_	
+3-36	369-375	parken	_	
+3-37	376-379	mit	_	
+3-38	380-386	Rädern	_	
+3-39	387-389	im	_	
+3-40	390-394	Gras	_	
+3-41	395-400	neben	_	
+3-42	401-404	der	_	
+3-43	405-413	Fahrbahn	_	
+3-44	414-424	verhindern	_	
+3-45	425-426	(	_	
+3-46	426-429	was	_	
+3-47	430-439	natürlich	_	
+3-48	440-444	auch	_	
+3-49	445-450	nicht	_	
+3-50	451-458	gewollt	_	
+3-51	459-463	sein	_	
+3-52	464-470	sollte	_	
+3-53	470-471	)	_	
+3-54	471-472	.	_	

@@ -1,0 +1,116 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zweite-Reihe Parker und schlechter Zustand des Radweges gefährden Radfahrer
+1-1	0-12	Zweite-Reihe	_	
+1-2	13-19	Parker	_	
+1-3	20-23	und	_	
+1-4	24-34	schlechter	_	
+1-5	35-42	Zustand	_	
+1-6	43-46	des	_	
+1-7	47-55	Radweges	_	
+1-8	56-65	gefährden	_	
+1-9	66-75	Radfahrer	_	
+
+#Text=Auf der Kölnstraße, insbesondere auf dem letzten Teilstück Richtung Bertha-von-Suttner-Platz gefährden Fahrzeuge die in der zweiten Reihe parken und nicht zum Lieferverkehr gehören Radfahrer.
+2-1	78-81	Auf	_	
+2-2	82-85	der	_	
+2-3	86-96	Kölnstraße	_	
+2-4	96-97	,	_	
+2-5	98-110	insbesondere	_	
+2-6	111-114	auf	_	
+2-7	115-118	dem	_	
+2-8	119-126	letzten	_	
+2-9	127-136	Teilstück	_	
+2-10	137-145	Richtung	_	
+2-11	146-170	Bertha-von-Suttner-Platz	_	
+2-12	171-180	gefährden	_	
+2-13	181-190	Fahrzeuge	_	
+2-14	191-194	die	_	
+2-15	195-197	in	_	
+2-16	198-201	der	_	
+2-17	202-209	zweiten	_	
+2-18	210-215	Reihe	_	
+2-19	216-222	parken	_	
+2-20	223-226	und	_	
+2-21	227-232	nicht	_	
+2-22	233-236	zum	_	
+2-23	237-250	Lieferverkehr	_	
+2-24	251-258	gehören	_	
+2-25	259-268	Radfahrer	_	
+2-26	268-269	.	_	
+
+#Text=Verstärkt wird diese Gefährdungslage durch den schlechten Zustand des Radwegs selber, der zu schmal und an vielen Stellen aufgebrochen ist.
+3-1	270-279	Verstärkt	_	
+3-2	280-284	wird	_	
+3-3	285-290	diese	_	
+3-4	291-306	Gefährdungslage	_	
+3-5	307-312	durch	_	
+3-6	313-316	den	_	
+3-7	317-327	schlechten	_	
+3-8	328-335	Zustand	_	
+3-9	336-339	des	_	
+3-10	340-347	Radwegs	_	
+3-11	348-354	selber	_	
+3-12	354-355	,	_	
+3-13	356-359	der	_	
+3-14	360-362	zu	_	
+3-15	363-369	schmal	_	
+3-16	370-373	und	_	
+3-17	374-376	an	_	
+3-18	377-383	vielen	_	
+3-19	384-391	Stellen	_	
+3-20	392-404	aufgebrochen	_	
+3-21	405-408	ist	_	
+3-22	408-409	.	_	
+
+#Text=Lösungsmöglichkeiten wären verstärkte Kontrollen an dieser Stelle, sowie Lieferzeiten und Lieferzonen für den Lieferverkehr auf der Kölnstraße.
+4-1	410-430	Lösungsmöglichkeiten	_	
+4-2	431-436	wären	_	
+4-3	437-447	verstärkte	_	
+4-4	448-458	Kontrollen	_	
+4-5	459-461	an	_	
+4-6	462-468	dieser	_	
+4-7	469-475	Stelle	_	
+4-8	475-476	,	_	
+4-9	477-482	sowie	_	
+4-10	483-495	Lieferzeiten	_	
+4-11	496-499	und	_	
+4-12	500-511	Lieferzonen	_	
+4-13	512-515	für	_	
+4-14	516-519	den	_	
+4-15	520-533	Lieferverkehr	_	
+4-16	534-537	auf	_	
+4-17	538-541	der	_	
+4-18	542-552	Kölnstraße	_	
+4-19	552-553	.	_	
+
+#Text=Darüber hinaus wäre eine verbesserte Streckenführung für den Radverkehr angebracht, bspw. durch eine klare und physische Trennung des Radweges von der Straße.
+5-1	554-561	Darüber	_	
+5-2	562-568	hinaus	_	
+5-3	569-573	wäre	_	
+5-4	574-578	eine	_	
+5-5	579-590	verbesserte	_	
+5-6	591-606	Streckenführung	_	
+5-7	607-610	für	_	
+5-8	611-614	den	_	
+5-9	615-625	Radverkehr	_	
+5-10	626-636	angebracht	_	
+5-11	636-637	,	_	
+5-12	638-642	bspw	_	
+5-13	642-643	.	_	
+5-14	644-649	durch	_	
+5-15	650-654	eine	_	
+5-16	655-660	klare	_	
+5-17	661-664	und	_	
+5-18	665-674	physische	_	
+5-19	675-683	Trennung	_	
+5-20	684-687	des	_	
+5-21	688-696	Radweges	_	
+5-22	697-700	von	_	
+5-23	701-704	der	_	
+5-24	705-711	Straße	_	
+5-25	711-712	.	_	

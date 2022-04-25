@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradaufstellfläche wurde verkleinert und ist nun nicht mehr groß genug
+1-1	0-21	Fahrradaufstellfläche	_	
+1-2	22-27	wurde	_	
+1-3	28-39	verkleinert	_	
+1-4	40-43	und	_	
+1-5	44-47	ist	_	
+1-6	48-51	nun	_	
+1-7	52-57	nicht	_	
+1-8	58-62	mehr	_	
+1-9	63-67	groß	_	
+1-10	68-73	genug	_	
+
+#Text=Die Aufstellfläche für Fahrradfahrer vor der Ampel wurde verkleinert und erfüllt nun ihren Zweck nicht mehr wirklich.
+2-1	76-79	Die	_	
+2-2	80-94	Aufstellfläche	_	
+2-3	95-98	für	_	
+2-4	99-112	Fahrradfahrer	_	
+2-5	113-116	vor	_	
+2-6	117-120	der	_	
+2-7	121-126	Ampel	_	
+2-8	127-132	wurde	_	
+2-9	133-144	verkleinert	_	
+2-10	145-148	und	_	
+2-11	149-156	erfüllt	_	
+2-12	157-160	nun	_	
+2-13	161-166	ihren	_	
+2-14	167-172	Zweck	_	
+2-15	173-178	nicht	_	
+2-16	179-183	mehr	_	
+2-17	184-192	wirklich	_	
+2-18	192-193	.	_	
+
+#Text=Die Haltelinie für die Ampel befindet sich unmittelbar davor, so dass die wartenden Autos ganz knapp vor oder schon halb auf der Wartefläche stehen.
+3-1	194-197	Die	_	
+3-2	198-208	Haltelinie	_	
+3-3	209-212	für	_	
+3-4	213-216	die	_	
+3-5	217-222	Ampel	_	
+3-6	223-231	befindet	_	
+3-7	232-236	sich	_	
+3-8	237-248	unmittelbar	_	
+3-9	249-254	davor	_	
+3-10	254-255	,	_	
+3-11	256-258	so	_	
+3-12	259-263	dass	_	
+3-13	264-267	die	_	
+3-14	268-277	wartenden	_	
+3-15	278-283	Autos	_	
+3-16	284-288	ganz	_	
+3-17	289-294	knapp	_	
+3-18	295-298	vor	_	
+3-19	299-303	oder	_	
+3-20	304-309	schon	_	
+3-21	310-314	halb	_	
+3-22	315-318	auf	_	
+3-23	319-322	der	_	
+3-24	323-334	Wartefläche	_	
+3-25	335-341	stehen	_	
+3-26	341-342	.	_	
+
+#Text=Dann kann man sie ohne zu rangieren nicht erreichen und müsste sein Fahrrad rückwärts schieben, um auf die Fläche zu gelangen.
+4-1	343-347	Dann	_	
+4-2	348-352	kann	_	
+4-3	353-356	man	_	
+4-4	357-360	sie	_	
+4-5	361-365	ohne	_	
+4-6	366-368	zu	_	
+4-7	369-378	rangieren	_	
+4-8	379-384	nicht	_	
+4-9	385-394	erreichen	_	
+4-10	395-398	und	_	
+4-11	399-405	müsste	_	
+4-12	406-410	sein	_	
+4-13	411-418	Fahrrad	_	
+4-14	419-428	rückwärts	_	
+4-15	429-437	schieben	_	
+4-16	437-438	,	_	
+4-17	439-441	um	_	
+4-18	442-445	auf	_	
+4-19	446-449	die	_	
+4-20	450-456	Fläche	_	
+4-21	457-459	zu	_	
+4-22	460-468	gelangen	_	
+4-23	468-469	.	_	

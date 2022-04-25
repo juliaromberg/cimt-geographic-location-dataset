@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Aufhebung der Radwegpflicht zumindest abschnittsweise sinnvoll
+1-1	0-9	Aufhebung	_	
+1-2	10-13	der	_	
+1-3	14-27	Radwegpflicht	_	
+1-4	28-37	zumindest	_	
+1-5	38-53	abschnittsweise	_	
+1-6	54-62	sinnvoll	_	
+
+#Text=Als Fahrradfahrer vom Bahnhof über Poppelsdorfer Allee Richtung Meckenheimer Allee fahrend wird man künstlich dem Autoverkehr gegenüber deutlich benachteiligt: Linksabbiegen vom Radweg auf der Baumschulallee in die Meckenheimer Allee ist nicht möglich, Gefahr durch abbiegende Autos, öffnende Türen parkender Autos, Konflikte mit Fußgängern.
+2-1	65-68	Als	_	
+2-2	69-82	Fahrradfahrer	_	
+2-3	83-86	vom	*[4]	
+2-4	87-94	Bahnhof	*[4]	
+2-5	95-99	über	*[4]	
+2-6	100-113	Poppelsdorfer	*[4]	
+2-7	114-119	Allee	*[4]	
+2-8	120-128	Richtung	*[4]	
+2-9	129-141	Meckenheimer	*[4]	
+2-10	142-147	Allee	*[4]	
+2-11	148-155	fahrend	_	
+2-12	156-160	wird	_	
+2-13	161-164	man	_	
+2-14	165-174	künstlich	_	
+2-15	175-178	dem	_	
+2-16	179-190	Autoverkehr	_	
+2-17	191-200	gegenüber	_	
+2-18	201-209	deutlich	_	
+2-19	210-223	benachteiligt	_	
+2-20	223-224	:	_	
+2-21	225-238	Linksabbiegen	*[5]	
+2-22	239-242	vom	*[5]	
+2-23	243-249	Radweg	*[5]	
+2-24	250-253	auf	*[5]	
+2-25	254-257	der	*[5]	
+2-26	258-272	Baumschulallee	*[5]	
+2-27	273-275	in	*[5]	
+2-28	276-279	die	*[5]	
+2-29	280-292	Meckenheimer	*[5]	
+2-30	293-298	Allee	*[5]	
+2-31	299-302	ist	_	
+2-32	303-308	nicht	_	
+2-33	309-316	möglich	_	
+2-34	316-317	,	_	
+2-35	318-324	Gefahr	_	
+2-36	325-330	durch	_	
+2-37	331-341	abbiegende	_	
+2-38	342-347	Autos	_	
+2-39	347-348	,	_	
+2-40	349-357	öffnende	_	
+2-41	358-363	Türen	_	
+2-42	364-373	parkender	_	
+2-43	374-379	Autos	_	
+2-44	379-380	,	_	
+2-45	381-390	Konflikte	_	
+2-46	391-394	mit	_	
+2-47	395-405	Fußgängern	_	
+2-48	405-406	.	_	
+
+#Text=Eine zügige und sichere Fahrt schaut anders aus.
+3-1	407-411	Eine	_	
+3-2	412-418	zügige	_	
+3-3	419-422	und	_	
+3-4	423-430	sichere	_	
+3-5	431-436	Fahrt	_	
+3-6	437-443	schaut	_	
+3-7	444-450	anders	_	
+3-8	451-454	aus	_	
+3-9	454-455	.	_	

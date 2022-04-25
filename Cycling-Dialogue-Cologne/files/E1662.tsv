@@ -1,0 +1,29 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bordstein absenken
+1-1	0-9	Bordstein	_	
+1-2	10-18	absenken	_	
+
+#Text=Die Einfahrt in den Park ist sehr schlecht.
+2-1	21-24	Die	_	
+2-2	25-33	Einfahrt	_	
+2-3	34-36	in	_	
+2-4	37-40	den	_	
+2-5	41-45	Park	_	
+2-6	46-49	ist	_	
+2-7	50-54	sehr	_	
+2-8	55-63	schlecht	_	
+2-9	63-64	.	_	
+
+#Text=Ein Absenken des Bordsteins wäre hilfreich.
+3-1	65-68	Ein	_	
+3-2	69-77	Absenken	_	
+3-3	78-81	des	_	
+3-4	82-92	Bordsteins	_	
+3-5	93-97	wäre	_	
+3-6	98-107	hilfreich	_	
+3-7	107-108	.	_	

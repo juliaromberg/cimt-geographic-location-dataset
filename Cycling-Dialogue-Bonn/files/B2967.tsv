@@ -1,0 +1,124 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlende Kennzeichnug Radweg Friedricht-Ebert-Allee
+1-1	0-8	Fehlende	_	
+1-2	9-21	Kennzeichnug	_	
+1-3	22-28	Radweg	*[8]	
+1-4	29-51	Friedricht-Ebert-Allee	*[8]	
+
+#Text=Der Radweg auf der Friedrich-Ebert-Allee (Vorfahrtstraße) kreuzt auf dem Weg zum Trajektknoten mehrere Straßen, bei denen konsequent keine Einzeichnung des Radwegs vorgenommen wurde.
+2-1	54-57	Der	*[9]	
+2-2	58-64	Radweg	*[9]	
+2-3	65-68	auf	*[9]	
+2-4	69-72	der	*[9]	
+2-5	73-94	Friedrich-Ebert-Allee	*[9]	
+2-6	95-96	(	*[9]	
+2-7	96-110	Vorfahrtstraße	*[9]	
+2-8	110-111	)	*[9]	
+2-9	112-118	kreuzt	_	
+2-10	119-122	auf	_	
+2-11	123-126	dem	_	
+2-12	127-130	Weg	_	
+2-13	131-134	zum	*[10]	
+2-14	135-148	Trajektknoten	*[10]	
+2-15	149-156	mehrere	_	
+2-16	157-164	Straßen	_	
+2-17	164-165	,	_	
+2-18	166-169	bei	_	
+2-19	170-175	denen	_	
+2-20	176-186	konsequent	_	
+2-21	187-192	keine	_	
+2-22	193-205	Einzeichnung	_	
+2-23	206-209	des	_	
+2-24	210-217	Radwegs	_	
+2-25	218-229	vorgenommen	_	
+2-26	230-235	wurde	_	
+2-27	235-236	.	_	
+
+#Text=Autos, die auf die B9 zufahren, sind so leider nicht sensibilisiert für den kreuzenden Radweg und fahren meist ohne Rücksicht auf den Radweg.
+3-1	237-242	Autos	_	
+3-2	242-243	,	_	
+3-3	244-247	die	_	
+3-4	248-251	auf	*[11]	
+3-5	252-255	die	*[11]	
+3-6	256-258	B9	*[11]	
+3-7	259-267	zufahren	*[11]	
+3-8	267-268	,	_	
+3-9	269-273	sind	_	
+3-10	274-276	so	_	
+3-11	277-283	leider	_	
+3-12	284-289	nicht	_	
+3-13	290-304	sensibilisiert	_	
+3-14	305-308	für	_	
+3-15	309-312	den	_	
+3-16	313-323	kreuzenden	_	
+3-17	324-330	Radweg	_	
+3-18	331-334	und	_	
+3-19	335-341	fahren	_	
+3-20	342-347	meist	_	
+3-21	348-352	ohne	_	
+3-22	353-362	Rücksicht	_	
+3-23	363-366	auf	_	
+3-24	367-370	den	_	
+3-25	371-377	Radweg	_	
+3-26	377-378	.	_	
+
+#Text=Ich musste dort schon mehrfach scharf bremsen.
+4-1	379-382	Ich	_	
+4-2	383-389	musste	_	
+4-3	390-394	dort	_	
+4-4	395-400	schon	_	
+4-5	401-409	mehrfach	_	
+4-6	410-416	scharf	_	
+4-7	417-424	bremsen	_	
+4-8	424-425	.	_	
+
+#Text=Zudem sind die Überfahrten mit Kopfsteinpflaster besetzt.
+5-1	426-431	Zudem	_	
+5-2	432-436	sind	_	
+5-3	437-440	die	_	
+5-4	441-452	Überfahrten	_	
+5-5	453-456	mit	_	
+5-6	457-474	Kopfsteinpflaster	_	
+5-7	475-482	besetzt	_	
+5-8	482-483	.	_	
+
+#Text=Gerade bei Feuchtigkeit ist das scharfe Bremsen hochgefährlich.
+6-1	484-490	Gerade	_	
+6-2	491-494	bei	_	
+6-3	495-507	Feuchtigkeit	_	
+6-4	508-511	ist	_	
+6-5	512-515	das	_	
+6-6	516-523	scharfe	_	
+6-7	524-531	Bremsen	_	
+6-8	532-546	hochgefährlich	_	
+6-9	546-547	.	_	
+
+#Text=Bitte nehmen Sie eine ROTE Einzeichnung des Radweges bei den Überfahrten der Langenbachstraße, Friedrich-Wilhelm-Str., Zitelmannstr. und Adalbert-Stifter-Straße vor.
+7-1	548-553	Bitte	_	
+7-2	554-560	nehmen	_	
+7-3	561-564	Sie	_	
+7-4	565-569	eine	_	
+7-5	570-574	ROTE	_	
+7-6	575-587	Einzeichnung	_	
+7-7	588-591	des	_	
+7-8	592-600	Radweges	_	
+7-9	601-604	bei	_	
+7-10	605-608	den	_	
+7-11	609-620	Überfahrten	*[12]	
+7-12	621-624	der	*[12]	
+7-13	625-641	Langenbachstraße	*[12]	
+7-14	641-642	,	*[12]	
+7-15	643-664	Friedrich-Wilhelm-Str	*[12]	
+7-16	664-665	.	*[12]	
+7-17	665-666	,	*[12]	
+7-18	667-679	Zitelmannstr	*[12]	
+7-19	679-680	.	*[12]	
+7-20	681-684	und	*[12]	
+7-21	685-708	Adalbert-Stifter-Straße	*[12]	
+7-22	709-712	vor	_	
+7-23	712-713	.	_	

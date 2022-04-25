@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zu Eng
+1-1	0-2	Zu	_	
+1-2	3-6	Eng	_	
+
+#Text=Fahrrad/Fußweg ist hier für alle Beteildigten zu eng.
+2-1	9-16	Fahrrad	_	
+2-2	16-17	/	_	
+2-3	17-23	Fußweg	_	
+2-4	24-27	ist	_	
+2-5	28-32	hier	_	
+2-6	33-36	für	_	
+2-7	37-41	alle	_	
+2-8	42-54	Beteildigten	_	
+2-9	55-57	zu	_	
+2-10	58-61	eng	_	
+2-11	61-62	.	_	
+
+#Text=Fahrradfahrer teilen sich mit Fußgängern 1,5m Breite ein Trappelpfad der Fußgänger ist schon entstanden, da es eine sehr schöne Ecke am Rhein ist sollten doch hier gerade Spaziergänge und Radausflüge gefördert werden (durch eine gute Infrastruktur).
+3-1	63-76	Fahrradfahrer	_	
+3-2	77-83	teilen	_	
+3-3	84-88	sich	_	
+3-4	89-92	mit	_	
+3-5	93-103	Fußgängern	_	
+3-6	104-108	1,5m	_	
+3-7	109-115	Breite	_	
+3-8	116-119	ein	_	
+3-9	120-131	Trappelpfad	_	
+3-10	132-135	der	_	
+3-11	136-145	Fußgänger	_	
+3-12	146-149	ist	_	
+3-13	150-155	schon	_	
+3-14	156-166	entstanden	_	
+3-15	166-167	,	_	
+3-16	168-170	da	_	
+3-17	171-173	es	_	
+3-18	174-178	eine	_	
+3-19	179-183	sehr	_	
+3-20	184-190	schöne	_	
+3-21	191-195	Ecke	_	
+3-22	196-198	am	_	
+3-23	199-204	Rhein	_	
+3-24	205-208	ist	_	
+3-25	209-216	sollten	_	
+3-26	217-221	doch	_	
+3-27	222-226	hier	_	
+3-28	227-233	gerade	_	
+3-29	234-246	Spaziergänge	_	
+3-30	247-250	und	_	
+3-31	251-262	Radausflüge	_	
+3-32	263-272	gefördert	_	
+3-33	273-279	werden	_	
+3-34	280-281	(	_	
+3-35	281-286	durch	_	
+3-36	287-291	eine	_	
+3-37	292-296	gute	_	
+3-38	297-310	Infrastruktur	_	
+3-39	310-311	)	_	
+3-40	311-312	.	_	

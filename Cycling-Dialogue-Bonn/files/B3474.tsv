@@ -1,0 +1,132 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unterführung
+1-1	0-12	Unterführung	_	
+
+#Text=Es ist klar, am besten wäre hier eine eigene Unterführung für den Radverkehr.
+2-1	15-17	Es	_	
+2-2	18-21	ist	_	
+2-3	22-26	klar	_	
+2-4	26-27	,	_	
+2-5	28-30	am	_	
+2-6	31-37	besten	_	
+2-7	38-42	wäre	_	
+2-8	43-47	hier	_	
+2-9	48-52	eine	_	
+2-10	53-59	eigene	_	
+2-11	60-72	Unterführung	_	
+2-12	73-76	für	_	
+2-13	77-80	den	_	
+2-14	81-91	Radverkehr	_	
+2-15	91-92	.	_	
+
+#Text=Auch klar ist, dass bei der derzeitigen Situation und erhöhtem Fußgängeraufkommen Radfahrer absteigen müssen um die Fußgänger nicht zu gefährden.
+3-1	93-97	Auch	_	
+3-2	98-102	klar	_	
+3-3	103-106	ist	_	
+3-4	106-107	,	_	
+3-5	108-112	dass	_	
+3-6	113-116	bei	_	
+3-7	117-120	der	_	
+3-8	121-132	derzeitigen	_	
+3-9	133-142	Situation	_	
+3-10	143-146	und	_	
+3-11	147-155	erhöhtem	_	
+3-12	156-174	Fußgängeraufkommen	_	
+3-13	175-184	Radfahrer	_	
+3-14	185-194	absteigen	_	
+3-15	195-201	müssen	_	
+3-16	202-204	um	_	
+3-17	205-208	die	_	
+3-18	209-218	Fußgänger	_	
+3-19	219-224	nicht	_	
+3-20	225-227	zu	_	
+3-21	228-237	gefährden	_	
+3-22	237-238	.	_	
+
+#Text=Trotzdem ist das Absteigen nur eine Notlösung und sollte deshalb auf das absolut nötige Minimum reduziert werden, das heißt an dieser Stelle auf die Strecke zwischen den beiden Barrieren (Drängelgittern).
+4-1	239-247	Trotzdem	_	
+4-2	248-251	ist	_	
+4-3	252-255	das	_	
+4-4	256-265	Absteigen	_	
+4-5	266-269	nur	_	
+4-6	270-274	eine	_	
+4-7	275-284	Notlösung	_	
+4-8	285-288	und	_	
+4-9	289-295	sollte	_	
+4-10	296-303	deshalb	_	
+4-11	304-307	auf	_	
+4-12	308-311	das	_	
+4-13	312-319	absolut	_	
+4-14	320-326	nötige	_	
+4-15	327-334	Minimum	_	
+4-16	335-344	reduziert	_	
+4-17	345-351	werden	_	
+4-18	351-352	,	_	
+4-19	353-356	das	_	
+4-20	357-362	heißt	_	
+4-21	363-365	an	_	
+4-22	366-372	dieser	_	
+4-23	373-379	Stelle	_	
+4-24	380-383	auf	_	
+4-25	384-387	die	_	
+4-26	388-395	Strecke	_	
+4-27	396-404	zwischen	_	
+4-28	405-408	den	_	
+4-29	409-415	beiden	_	
+4-30	416-425	Barrieren	_	
+4-31	426-427	(	_	
+4-32	427-441	Drängelgittern	_	
+4-33	441-442	)	_	
+4-34	442-443	.	_	
+
+#Text=Auf den Zufahrten davor ist das Radfahren zu gestatten.
+5-1	444-447	Auf	_	
+5-2	448-451	den	_	
+5-3	452-461	Zufahrten	_	
+5-4	462-467	davor	_	
+5-5	468-471	ist	_	
+5-6	472-475	das	_	
+5-7	476-485	Radfahren	_	
+5-8	486-488	zu	_	
+5-9	489-498	gestatten	_	
+5-10	498-499	.	_	
+
+#Text=Und wenn man einen Mitarbeiter von Ordnungsamt oder Polizei dorthin stellt, um das Absteigegebot zu überwachen, dann bitte nur zu Zeiten, in denen auch wirklich viele Fußgänger unterwegs sind.
+6-1	500-503	Und	_	
+6-2	504-508	wenn	_	
+6-3	509-512	man	_	
+6-4	513-518	einen	_	
+6-5	519-530	Mitarbeiter	_	
+6-6	531-534	von	_	
+6-7	535-546	Ordnungsamt	_	
+6-8	547-551	oder	_	
+6-9	552-559	Polizei	_	
+6-10	560-567	dorthin	_	
+6-11	568-574	stellt	_	
+6-12	574-575	,	_	
+6-13	576-578	um	_	
+6-14	579-582	das	_	
+6-15	583-596	Absteigegebot	_	
+6-16	597-599	zu	_	
+6-17	600-610	überwachen	_	
+6-18	610-611	,	_	
+6-19	612-616	dann	_	
+6-20	617-622	bitte	_	
+6-21	623-626	nur	_	
+6-22	627-629	zu	_	
+6-23	630-636	Zeiten	_	
+6-24	636-637	,	_	
+6-25	638-640	in	_	
+6-26	641-646	denen	_	
+6-27	647-651	auch	_	
+6-28	652-660	wirklich	_	
+6-29	661-666	viele	_	
+6-30	667-676	Fußgänger	_	
+6-31	677-686	unterwegs	_	
+6-32	687-691	sind	_	
+6-33	691-692	.	_	

@@ -1,0 +1,130 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegenetz - Radwege von Bocklemünd nach Widdersdorf
+1-1	0-11	Radwegenetz	_	
+1-2	12-13	-	_	
+1-3	14-21	Radwege	*[6]	
+1-4	22-25	von	*[6]	
+1-5	26-36	Bocklemünd	*[6]	
+1-6	37-41	nach	*[6]	
+1-7	42-53	Widdersdorf	*[6]	
+
+#Text=Die Venloer Straße ' in Höhe der Straße 'Auf dem Paulsacker' ist mit dem Fahrrad in Richtung Widdersdorf (oder zurück) kaum zu überwinden, es sei denn, man ist lebensmüde.
+2-1	56-59	Die	*[7]	
+2-2	60-67	Venloer	*[7]	
+2-3	68-74	Straße	*[7]	
+2-4	75-76	'	*[7]	
+2-5	77-79	in	*[7]	
+2-6	80-84	Höhe	*[7]	
+2-7	85-88	der	*[7]	
+2-8	89-95	Straße	*[7]	
+2-9	96-97	'	*[7]	
+2-10	97-100	Auf	*[7]	
+2-11	101-104	dem	*[7]	
+2-12	105-115	Paulsacker	*[7]	
+2-13	115-116	'	_	
+2-14	117-120	ist	_	
+2-15	121-124	mit	_	
+2-16	125-128	dem	_	
+2-17	129-136	Fahrrad	_	
+2-18	137-139	in	*[8]	
+2-19	140-148	Richtung	*[8]	
+2-20	149-160	Widdersdorf	*[8]	
+2-21	161-162	(	_	
+2-22	162-166	oder	_	
+2-23	167-173	zurück	_	
+2-24	173-174	)	_	
+2-25	175-179	kaum	_	
+2-26	180-182	zu	_	
+2-27	183-193	überwinden	_	
+2-28	193-194	,	_	
+2-29	195-197	es	_	
+2-30	198-201	sei	_	
+2-31	202-206	denn	_	
+2-32	206-207	,	_	
+2-33	208-211	man	_	
+2-34	212-215	ist	_	
+2-35	216-226	lebensmüde	_	
+2-36	226-227	.	_	
+
+#Text=Eine Querung ist dort für Fahrradfahrer nicht vorgesehen, dabei gibt es einen großen Bedarf an fahrradtauglichen Strecken zwischen diesen beiden benachbarten Stadtteilen.
+3-1	228-232	Eine	_	
+3-2	233-240	Querung	_	
+3-3	241-244	ist	_	
+3-4	245-249	dort	_	
+3-5	250-253	für	_	
+3-6	254-267	Fahrradfahrer	_	
+3-7	268-273	nicht	_	
+3-8	274-284	vorgesehen	_	
+3-9	284-285	,	_	
+3-10	286-291	dabei	_	
+3-11	292-296	gibt	_	
+3-12	297-299	es	_	
+3-13	300-305	einen	_	
+3-14	306-312	großen	_	
+3-15	313-319	Bedarf	_	
+3-16	320-322	an	_	
+3-17	323-340	fahrradtauglichen	_	
+3-18	341-349	Strecken	_	
+3-19	350-358	zwischen	_	
+3-20	359-365	diesen	_	
+3-21	366-372	beiden	_	
+3-22	373-385	benachbarten	_	
+3-23	386-397	Stadtteilen	_	
+3-24	397-398	.	_	
+
+#Text=Einmal 'Auf dem Pausacker' angekommen, gibt es dann auf den ersten 300 bis 400 Metern keinerlei Fahrradweg, man muss auf der sehr schmalen und für Radler gefährlichen Fahrzeugspur fahren.
+4-1	399-405	Einmal	_	
+4-2	406-407	'	_	
+4-3	407-410	Auf	*[9]	
+4-4	411-414	dem	*[9]	
+4-5	415-424	Pausacker	*[9]	
+4-6	424-425	'	_	
+4-7	426-436	angekommen	_	
+4-8	436-437	,	_	
+4-9	438-442	gibt	_	
+4-10	443-445	es	_	
+4-11	446-450	dann	_	
+4-12	451-454	auf	_	
+4-13	455-458	den	_	
+4-14	459-465	ersten	_	
+4-15	466-469	300	_	
+4-16	470-473	bis	_	
+4-17	474-477	400	_	
+4-18	478-484	Metern	_	
+4-19	485-494	keinerlei	_	
+4-20	495-505	Fahrradweg	_	
+4-21	505-506	,	_	
+4-22	507-510	man	_	
+4-23	511-515	muss	_	
+4-24	516-519	auf	_	
+4-25	520-523	der	_	
+4-26	524-528	sehr	_	
+4-27	529-537	schmalen	_	
+4-28	538-541	und	_	
+4-29	542-545	für	_	
+4-30	546-552	Radler	_	
+4-31	553-565	gefährlichen	_	
+4-32	566-578	Fahrzeugspur	_	
+4-33	579-585	fahren	_	
+4-34	585-586	.	_	
+
+#Text=Erst nach der Bahnüberquerung gibt es einen gut augebauten Radweg entlang der Autobahn.
+5-1	587-591	Erst	_	
+5-2	592-596	nach	_	
+5-3	597-600	der	_	
+5-4	601-616	Bahnüberquerung	_	
+5-5	617-621	gibt	_	
+5-6	622-624	es	_	
+5-7	625-630	einen	_	
+5-8	631-634	gut	_	
+5-9	635-645	augebauten	_	
+5-10	646-652	Radweg	_	
+5-11	653-660	entlang	_	
+5-12	661-664	der	_	
+5-13	665-673	Autobahn	_	
+5-14	673-674	.	_	

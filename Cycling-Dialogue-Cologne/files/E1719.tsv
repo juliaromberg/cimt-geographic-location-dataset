@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehrführung desaströs
+1-1	0-14	Verkehrführung	_	
+1-2	15-24	desaströs	_	
+
+#Text=Im Berufsverkehr stehen hier 20 Fahradfahrer auf einer winzigen Verkehrsinsel und blockieren den Fahrradverkehr entlang der Inneren Kanalstr..
+2-1	27-29	Im	_	
+2-2	30-43	Berufsverkehr	_	
+2-3	44-50	stehen	_	
+2-4	51-55	hier	_	
+2-5	56-58	20	_	
+2-6	59-71	Fahradfahrer	_	
+2-7	72-75	auf	_	
+2-8	76-81	einer	_	
+2-9	82-90	winzigen	_	
+2-10	91-104	Verkehrsinsel	_	
+2-11	105-108	und	_	
+2-12	109-119	blockieren	_	
+2-13	120-123	den	_	
+2-14	124-138	Fahrradverkehr	_	
+2-15	139-146	entlang	*[6]	
+2-16	147-150	der	*[6]	
+2-17	151-158	Inneren	*[6]	
+2-18	159-167	Kanalstr	*[6]	
+2-19	167-168	.	_	
+2-20	168-169	.	_	
+
+#Text=Wenn dort mal ein Auto mit 70 kmh abschmiert Sind die Matsch.
+3-1	170-174	Wenn	_	
+3-2	175-179	dort	_	
+3-3	180-183	mal	_	
+3-4	184-187	ein	_	
+3-5	188-192	Auto	_	
+3-6	193-196	mit	_	
+3-7	197-199	70	_	
+3-8	200-203	kmh	_	
+3-9	204-214	abschmiert	_	
+3-10	215-219	Sind	_	
+3-11	220-223	die	_	
+3-12	224-230	Matsch	_	
+3-13	230-231	.	_	
+
+#Text=Köln muss verstehen dass wir nicht mehr in den 60er Jahren leben.
+4-1	232-236	Köln	*	
+4-2	237-241	muss	_	
+4-3	242-251	verstehen	_	
+4-4	252-256	dass	_	
+4-5	257-260	wir	_	
+4-6	261-266	nicht	_	
+4-7	267-271	mehr	_	
+4-8	272-274	in	_	
+4-9	275-278	den	_	
+4-10	279-283	60er	_	
+4-11	284-290	Jahren	_	
+4-12	291-296	leben	_	
+4-13	296-297	.	_	
+
+#Text=Fahrradfahrer brauchen eine komplette Spur auf der Subbelratherstr.
+5-1	298-311	Fahrradfahrer	_	
+5-2	312-320	brauchen	_	
+5-3	321-325	eine	_	
+5-4	326-335	komplette	_	
+5-5	336-340	Spur	_	
+5-6	341-344	auf	*[7]	
+5-7	345-348	der	*[7]	
+5-8	349-364	Subbelratherstr	*[7]	
+5-9	364-365	.	_	

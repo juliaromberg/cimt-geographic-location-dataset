@@ -1,0 +1,182 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verbesserung der Radachse BAB Anschlussstelle Friesdorf/August-Bebel-Allee - Rheinaue - Bundesviertel - Südbrücke - Beuel
+1-1	0-12	Verbesserung	_	
+1-2	13-16	der	_	
+1-3	17-25	Radachse	*[9]	
+1-4	26-29	BAB	*[9]	
+1-5	30-45	Anschlussstelle	*[9]	
+1-6	46-55	Friesdorf	*[9]	
+1-7	55-56	/	*[9]	
+1-8	56-74	August-Bebel-Allee	*[9]	
+1-9	75-76	-	*[9]	
+1-10	77-85	Rheinaue	*[9]	
+1-11	86-87	-	*[9]	
+1-12	88-101	Bundesviertel	*[9]	
+1-13	102-103	-	*[9]	
+1-14	104-113	Südbrücke	*[9]	
+1-15	114-115	-	*[9]	
+1-16	116-121	Beuel	*[9]	
+
+#Text=Vom bahnparallelen Radweg entlang der August-Bebel-Allee kommt man nur sehr mühsam zur Rheinaue - Südbrücke - Bundesviertel und nach Beuel.
+2-1	124-127	Vom	*[10]	
+2-2	128-142	bahnparallelen	*[10]	
+2-3	143-149	Radweg	*[10]	
+2-4	150-157	entlang	*[10]	
+2-5	158-161	der	*[10]	
+2-6	162-180	August-Bebel-Allee	*[10]	
+2-7	181-186	kommt	*[10]	
+2-8	187-190	man	*[10]	
+2-9	191-194	nur	*[10]	
+2-10	195-199	sehr	*[10]	
+2-11	200-206	mühsam	*[10]	
+2-12	207-210	zur	*[10]	
+2-13	211-219	Rheinaue	*[10]	
+2-14	220-221	-	*[10]	
+2-15	222-231	Südbrücke	*[10]	
+2-16	232-233	-	*[10]	
+2-17	234-247	Bundesviertel	*[10]	
+2-18	248-251	und	*[10]	
+2-19	252-256	nach	*[10]	
+2-20	257-262	Beuel	*[10]	
+2-21	262-263	.	_	
+
+#Text=Man muss 6 schlecht geschaltete Ampeln überqueren.
+3-1	264-267	Man	_	
+3-2	268-272	muss	_	
+3-3	273-274	6	_	
+3-4	275-283	schlecht	_	
+3-5	284-295	geschaltete	_	
+3-6	296-302	Ampeln	_	
+3-7	303-313	überqueren	_	
+3-8	313-314	.	_	
+
+#Text=Der notwendige Weg ist sehr umständlich und sicherlich ursprünglich nicht für den Fahrradverkehr gedacht gewesen.
+4-1	315-318	Der	_	
+4-2	319-329	notwendige	_	
+4-3	330-333	Weg	_	
+4-4	334-337	ist	_	
+4-5	338-342	sehr	_	
+4-6	343-354	umständlich	_	
+4-7	355-358	und	_	
+4-8	359-369	sicherlich	_	
+4-9	370-382	ursprünglich	_	
+4-10	383-388	nicht	_	
+4-11	389-392	für	_	
+4-12	393-396	den	_	
+4-13	397-411	Fahrradverkehr	_	
+4-14	412-419	gedacht	_	
+4-15	420-427	gewesen	_	
+4-16	427-428	.	_	
+
+#Text=Es sollte deshalb ein neuer Radweg gebaut werden.
+5-1	429-431	Es	_	
+5-2	432-438	sollte	_	
+5-3	439-446	deshalb	_	
+5-4	447-450	ein	_	
+5-5	451-456	neuer	_	
+5-6	457-463	Radweg	_	
+5-7	464-470	gebaut	_	
+5-8	471-477	werden	_	
+5-9	477-478	.	_	
+
+#Text=Dieser sollte über eine Ampel in der Mitte der Kreuzung BAB Anschlussstelle Friesdorf/August-Bebel-Allee auf den Mittelstreifen des Autobahnzubringers geführt werden, dann sollte über den neuen Radweg auf dem Mittelstreifen der BAB die Olof-Palme-Allee unterquert werden und der Radweg über eine Radbrücke nach der Querung der Olof-Palme-Allee (B9) an die Rheinaue angeschlossen werden.
+6-1	479-485	Dieser	_	
+6-2	486-492	sollte	_	
+6-3	493-497	über	_	
+6-4	498-502	eine	_	
+6-5	503-508	Ampel	_	
+6-6	509-511	in	*[11]	
+6-7	512-515	der	*[11]	
+6-8	516-521	Mitte	*[11]	
+6-9	522-525	der	*[11]	
+6-10	526-534	Kreuzung	*[11]	
+6-11	535-538	BAB	*[11]	
+6-12	539-554	Anschlussstelle	*[11]	
+6-13	555-564	Friesdorf	*[11]	
+6-14	564-565	/	*[11]	
+6-15	565-583	August-Bebel-Allee	*[11]	
+6-16	584-587	auf	_	
+6-17	588-591	den	_	
+6-18	592-606	Mittelstreifen	_	
+6-19	607-610	des	_	
+6-20	611-629	Autobahnzubringers	_	
+6-21	630-637	geführt	_	
+6-22	638-644	werden	_	
+6-23	644-645	,	_	
+6-24	646-650	dann	_	
+6-25	651-657	sollte	_	
+6-26	658-662	über	_	
+6-27	663-666	den	_	
+6-28	667-672	neuen	_	
+6-29	673-679	Radweg	_	
+6-30	680-683	auf	*[12]	
+6-31	684-687	dem	*[12]	
+6-32	688-702	Mittelstreifen	*[12]	
+6-33	703-706	der	*[12]	
+6-34	707-710	BAB	*[12]	
+6-35	711-714	die	*[12]	
+6-36	715-731	Olof-Palme-Allee	*[12]	
+6-37	732-742	unterquert	_	
+6-38	743-749	werden	_	
+6-39	750-753	und	_	
+6-40	754-757	der	_	
+6-41	758-764	Radweg	_	
+6-42	765-769	über	_	
+6-43	770-774	eine	_	
+6-44	775-784	Radbrücke	_	
+6-45	785-789	nach	*[13]	
+6-46	790-793	der	*[13]	
+6-47	794-801	Querung	*[13]	
+6-48	802-805	der	*[13]	
+6-49	806-822	Olof-Palme-Allee	*[13]	
+6-50	823-824	(	*[13]	
+6-51	824-826	B9	*[13]	
+6-52	826-827	)	*[13]	
+6-53	828-830	an	*[13]	
+6-54	831-834	die	*[13]	
+6-55	835-843	Rheinaue	*[13]	
+6-56	844-857	angeschlossen	_	
+6-57	858-864	werden	_	
+6-58	864-865	.	_	
+
+#Text=Auf diese Weise könnte man sehr bequem von der Nord-Süd-Radachse kommend, die links- und rechtsrheinische Rheinaue, das Bundesviertel und Beuel erreichen.
+7-1	866-869	Auf	_	
+7-2	870-875	diese	_	
+7-3	876-881	Weise	_	
+7-4	882-888	könnte	_	
+7-5	889-892	man	_	
+7-6	893-897	sehr	_	
+7-7	898-904	bequem	_	
+7-8	905-908	von	_	
+7-9	909-912	der	_	
+7-10	913-930	Nord-Süd-Radachse	_	
+7-11	931-938	kommend	_	
+7-12	938-939	,	_	
+7-13	940-943	die	_	
+7-14	944-949	links	_	
+7-15	949-950	-	_	
+7-16	951-954	und	_	
+7-17	955-971	rechtsrheinische	_	
+7-18	972-980	Rheinaue	_	
+7-19	980-981	,	_	
+7-20	982-985	das	_	
+7-21	986-999	Bundesviertel	_	
+7-22	1000-1003	und	_	
+7-23	1004-1009	Beuel	_	
+7-24	1010-1019	erreichen	_	
+7-25	1019-1020	.	_	
+
+#Text=Ausreichend Platz ist auf dem Mittelstreifen vorhanden.
+8-1	1021-1032	Ausreichend	_	
+8-2	1033-1038	Platz	_	
+8-3	1039-1042	ist	_	
+8-4	1043-1046	auf	_	
+8-5	1047-1050	dem	_	
+8-6	1051-1065	Mittelstreifen	_	
+8-7	1066-1075	vorhanden	_	
+8-8	1075-1076	.	_	

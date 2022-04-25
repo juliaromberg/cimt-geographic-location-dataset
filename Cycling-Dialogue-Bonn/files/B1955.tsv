@@ -1,0 +1,46 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Falschparker im Kreuzungsbereich
+1-1	0-12	Falschparker	_	
+1-2	13-15	im	_	
+1-3	16-32	Kreuzungsbereich	_	
+
+#Text=In diesem Bereich der Südstadt ist es inzwischen normal, dass Autos die Kreuzungen zuparken, so dass diese nicht mehr einsehbar sind.
+2-1	35-37	In	_	
+2-2	38-44	diesem	_	
+2-3	45-52	Bereich	_	
+2-4	53-56	der	_	
+2-5	57-65	Südstadt	*	
+2-6	66-69	ist	_	
+2-7	70-72	es	_	
+2-8	73-83	inzwischen	_	
+2-9	84-90	normal	_	
+2-10	90-91	,	_	
+2-11	92-96	dass	_	
+2-12	97-102	Autos	_	
+2-13	103-106	die	_	
+2-14	107-117	Kreuzungen	_	
+2-15	118-126	zuparken	_	
+2-16	126-127	,	_	
+2-17	128-130	so	_	
+2-18	131-135	dass	_	
+2-19	136-141	diese	_	
+2-20	142-147	nicht	_	
+2-21	148-152	mehr	_	
+2-22	153-162	einsehbar	_	
+2-23	163-167	sind	_	
+2-24	167-168	.	_	
+
+#Text=Das Ordnungsamt unternimmt scheinbar nichts gegen Falschparker.
+3-1	169-172	Das	_	
+3-2	173-184	Ordnungsamt	_	
+3-3	185-195	unternimmt	_	
+3-4	196-205	scheinbar	_	
+3-5	206-212	nichts	_	
+3-6	213-218	gegen	_	
+3-7	219-231	Falschparker	_	
+3-8	231-232	.	_	

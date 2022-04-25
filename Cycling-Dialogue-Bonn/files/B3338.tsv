@@ -1,0 +1,245 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unklare Situation
+1-1	0-7	Unklare	_	
+1-2	8-17	Situation	_	
+
+#Text=Fährt man auf der Kölnstraße in Richtung Nord-West, dann darf man ab Rosental als Radfahrer geradeaus weiter.
+2-1	20-25	Fährt	_	
+2-2	26-29	man	_	
+2-3	30-33	auf	*[15]	
+2-4	34-37	der	*[15]	
+2-5	38-48	Kölnstraße	*[15]	
+2-6	49-51	in	*[15]	
+2-7	52-60	Richtung	*[15]	
+2-8	61-70	Nord-West	*[15]	
+2-9	70-71	,	_	
+2-10	72-76	dann	_	
+2-11	77-81	darf	_	
+2-12	82-85	man	_	
+2-13	86-88	ab	_	
+2-14	89-97	Rosental	_	
+2-15	98-101	als	_	
+2-16	102-111	Radfahrer	_	
+2-17	112-121	geradeaus	_	
+2-18	122-128	weiter	_	
+2-19	128-129	.	_	
+
+#Text=Alle Kfz müssen recht abbiegen.
+3-1	130-134	Alle	_	
+3-2	135-138	Kfz	_	
+3-3	139-145	müssen	_	
+3-4	146-151	recht	_	
+3-5	152-160	abbiegen	_	
+3-6	160-161	.	_	
+
+#Text=Allerdings ist das nicht so ganz einfach.
+4-1	162-172	Allerdings	_	
+4-2	173-176	ist	_	
+4-3	177-180	das	_	
+4-4	181-186	nicht	_	
+4-5	187-189	so	_	
+4-6	190-194	ganz	_	
+4-7	195-202	einfach	_	
+4-8	202-203	.	_	
+
+#Text=Die meisten Radfahrer fahren bei grün geradeaus über die Kreuzung weiter und Einige biegen auch nach links in die Heerstrasse.
+5-1	204-207	Die	_	
+5-2	208-215	meisten	_	
+5-3	216-225	Radfahrer	_	
+5-4	226-232	fahren	_	
+5-5	233-236	bei	_	
+5-6	237-241	grün	_	
+5-7	242-251	geradeaus	_	
+5-8	252-256	über	_	
+5-9	257-260	die	_	
+5-10	261-269	Kreuzung	_	
+5-11	270-276	weiter	_	
+5-12	277-280	und	_	
+5-13	281-287	Einige	_	
+5-14	288-294	biegen	_	
+5-15	295-299	auch	_	
+5-16	300-304	nach	*[16]	
+5-17	305-310	links	*[16]	
+5-18	311-313	in	*[16]	
+5-19	314-317	die	*[16]	
+5-20	318-329	Heerstrasse	*[16]	
+5-21	329-330	.	_	
+
+#Text=Sieht man sich den Verlauf genauer an, so erkent man, das ein Fahrradstreifen neben dem Fussweg in einem Bogen vor eine Fahrradampel führt.
+6-1	331-336	Sieht	_	
+6-2	337-340	man	_	
+6-3	341-345	sich	_	
+6-4	346-349	den	_	
+6-5	350-357	Verlauf	_	
+6-6	358-365	genauer	_	
+6-7	366-368	an	_	
+6-8	368-369	,	_	
+6-9	370-372	so	_	
+6-10	373-379	erkent	_	
+6-11	380-383	man	_	
+6-12	383-384	,	_	
+6-13	385-388	das	_	
+6-14	389-392	ein	_	
+6-15	393-408	Fahrradstreifen	_	
+6-16	409-414	neben	_	
+6-17	415-418	dem	_	
+6-18	419-426	Fussweg	_	
+6-19	427-429	in	_	
+6-20	430-435	einem	_	
+6-21	436-441	Bogen	_	
+6-22	442-445	vor	_	
+6-23	446-450	eine	_	
+6-24	451-463	Fahrradampel	_	
+6-25	464-469	führt	_	
+6-26	469-470	.	_	
+
+#Text=Die ist aber rot.
+7-1	471-474	Die	_	
+7-2	475-478	ist	_	
+7-3	479-483	aber	_	
+7-4	484-487	rot	_	
+7-5	487-488	.	_	
+
+#Text=Ich habe mich gefragt, was das soll.
+8-1	489-492	Ich	_	
+8-2	493-497	habe	_	
+8-3	498-502	mich	_	
+8-4	503-510	gefragt	_	
+8-5	510-511	,	_	
+8-6	512-515	was	_	
+8-7	516-519	das	_	
+8-8	520-524	soll	_	
+8-9	524-525	.	_	
+
+#Text=Erst wenn man dort länger steht, erkennt man, warum die Fahrradfahrer hier ausgebremst werden.
+9-1	526-530	Erst	_	
+9-2	531-535	wenn	_	
+9-3	536-539	man	_	
+9-4	540-544	dort	_	
+9-5	545-551	länger	_	
+9-6	552-557	steht	_	
+9-7	557-558	,	_	
+9-8	559-566	erkennt	_	
+9-9	567-570	man	_	
+9-10	570-571	,	_	
+9-11	572-577	warum	_	
+9-12	578-581	die	_	
+9-13	582-595	Fahrradfahrer	_	
+9-14	596-600	hier	_	
+9-15	601-612	ausgebremst	_	
+9-16	613-619	werden	_	
+9-17	619-620	.	_	
+
+#Text=Es geht um die Strassenbahn, die nach der Kreuzung stark nach rechts schwenkt und dort dem Fahrradfahrer zu nahe kommt.
+10-1	621-623	Es	_	
+10-2	624-628	geht	_	
+10-3	629-631	um	_	
+10-4	632-635	die	_	
+10-5	636-648	Strassenbahn	_	
+10-6	648-649	,	_	
+10-7	650-653	die	_	
+10-8	654-658	nach	_	
+10-9	659-662	der	_	
+10-10	663-671	Kreuzung	_	
+10-11	672-677	stark	_	
+10-12	678-682	nach	_	
+10-13	683-689	rechts	_	
+10-14	690-698	schwenkt	_	
+10-15	699-702	und	_	
+10-16	703-707	dort	_	
+10-17	708-711	dem	_	
+10-18	712-725	Fahrradfahrer	_	
+10-19	726-728	zu	_	
+10-20	729-733	nahe	_	
+10-21	734-739	kommt	_	
+10-22	739-740	.	_	
+
+#Text=Mit der Ampel hat die Strassenbahn erst mal rot und der Fahrradfahrer kann dann erst mal weiter fahren oder nach links abbiegen.
+11-1	741-744	Mit	_	
+11-2	745-748	der	_	
+11-3	749-754	Ampel	_	
+11-4	755-758	hat	_	
+11-5	759-762	die	_	
+11-6	763-775	Strassenbahn	_	
+11-7	776-780	erst	_	
+11-8	781-784	mal	_	
+11-9	785-788	rot	_	
+11-10	789-792	und	_	
+11-11	793-796	der	_	
+11-12	797-810	Fahrradfahrer	_	
+11-13	811-815	kann	_	
+11-14	816-820	dann	_	
+11-15	821-825	erst	_	
+11-16	826-829	mal	_	
+11-17	830-836	weiter	_	
+11-18	837-843	fahren	_	
+11-19	844-848	oder	_	
+11-20	849-853	nach	_	
+11-21	854-859	links	_	
+11-22	860-868	abbiegen	_	
+11-23	868-869	.	_	
+
+#Text=Das ist sicher eine Gute Idee, aber ob das jeder Fahrradfahrer auch so versteht und realisiert möchte ich anzweifeln.
+12-1	870-873	Das	_	
+12-2	874-877	ist	_	
+12-3	878-884	sicher	_	
+12-4	885-889	eine	_	
+12-5	890-894	Gute	_	
+12-6	895-899	Idee	_	
+12-7	899-900	,	_	
+12-8	901-905	aber	_	
+12-9	906-908	ob	_	
+12-10	909-912	das	_	
+12-11	913-918	jeder	_	
+12-12	919-932	Fahrradfahrer	_	
+12-13	933-937	auch	_	
+12-14	938-940	so	_	
+12-15	941-949	versteht	_	
+12-16	950-953	und	_	
+12-17	954-964	realisiert	_	
+12-18	965-971	möchte	_	
+12-19	972-975	ich	_	
+12-20	976-986	anzweifeln	_	
+12-21	986-987	.	_	
+
+#Text=Es reicht ja auch, wenn der Fahrradfahrer nur rot hätte, wenn keine Strassenbahn kommt, aber dann denkt der Querverkehr sicher, er darf jetzt auch fahren.
+13-1	988-990	Es	_	
+13-2	991-997	reicht	_	
+13-3	998-1000	ja	_	
+13-4	1001-1005	auch	_	
+13-5	1005-1006	,	_	
+13-6	1007-1011	wenn	_	
+13-7	1012-1015	der	_	
+13-8	1016-1029	Fahrradfahrer	_	
+13-9	1030-1033	nur	_	
+13-10	1034-1037	rot	_	
+13-11	1038-1043	hätte	_	
+13-12	1043-1044	,	_	
+13-13	1045-1049	wenn	_	
+13-14	1050-1055	keine	_	
+13-15	1056-1068	Strassenbahn	_	
+13-16	1069-1074	kommt	_	
+13-17	1074-1075	,	_	
+13-18	1076-1080	aber	_	
+13-19	1081-1085	dann	_	
+13-20	1086-1091	denkt	_	
+13-21	1092-1095	der	_	
+13-22	1096-1107	Querverkehr	_	
+13-23	1108-1114	sicher	_	
+13-24	1114-1115	,	_	
+13-25	1116-1118	er	_	
+13-26	1119-1123	darf	_	
+13-27	1124-1129	jetzt	_	
+13-28	1130-1134	auch	_	
+13-29	1135-1141	fahren	_	
+13-30	1141-1142	.	_	
+
+#Text=Bleibt ein Problem
+14-1	1143-1149	Bleibt	_	
+14-2	1150-1153	ein	_	
+14-3	1154-1161	Problem	_	

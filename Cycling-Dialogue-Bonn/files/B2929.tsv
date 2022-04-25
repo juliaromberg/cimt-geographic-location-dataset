@@ -1,0 +1,126 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beschilderung für links abbiegende Radfahrer
+1-1	0-13	Beschilderung	_	
+1-2	14-17	für	_	
+1-3	18-23	links	_	
+1-4	24-34	abbiegende	_	
+1-5	35-44	Radfahrer	_	
+
+#Text=Nur ein Detail: Autos dürfen aus der Doetschstraße kommend nur rechts auf die Berliner Freiheit abbiegen.
+2-1	47-50	Nur	_	
+2-2	51-54	ein	_	
+2-3	55-61	Detail	_	
+2-4	61-62	:	_	
+2-5	63-68	Autos	_	
+2-6	69-75	dürfen	_	
+2-7	76-79	aus	*[7]	
+2-8	80-83	der	*[7]	
+2-9	84-97	Doetschstraße	*[7]	
+2-10	98-105	kommend	*[7]	
+2-11	106-109	nur	*[7]	
+2-12	110-116	rechts	*[7]	
+2-13	117-120	auf	*[7]	
+2-14	121-124	die	*[7]	
+2-15	125-133	Berliner	*[7]	
+2-16	134-142	Freiheit	*[7]	
+2-17	143-151	abbiegen	*[7]	
+2-18	151-152	.	_	
+
+#Text=Für Radfahrer ist hinter dem Zebrastreifen eine Linksabbiegespur aufgezeichnet, sodass sie auf die Kennedybrücke fahren können (sehr schön!).
+3-1	153-156	Für	_	
+3-2	157-166	Radfahrer	_	
+3-3	167-170	ist	_	
+3-4	171-177	hinter	*[8]	
+3-5	178-181	dem	*[8]	
+3-6	182-195	Zebrastreifen	*[8]	
+3-7	196-200	eine	*[8]	
+3-8	201-217	Linksabbiegespur	*[8]	
+3-9	218-231	aufgezeichnet	_	
+3-10	231-232	,	_	
+3-11	233-239	sodass	_	
+3-12	240-243	sie	_	
+3-13	244-247	auf	*[9]	
+3-14	248-251	die	*[9]	
+3-15	252-265	Kennedybrücke	*[9]	
+3-16	266-272	fahren	_	
+3-17	273-279	können	_	
+3-18	280-281	(	_	
+3-19	281-285	sehr	_	
+3-20	286-291	schön	_	
+3-21	291-292	!	_	
+3-22	292-293	)	_	
+3-23	293-294	.	_	
+
+#Text=Leider ist dies allerdings aus der Beschilderung nicht ersichtlich (es hängt nur ein Schild mit Rechtsabbiegepfeil).
+4-1	295-301	Leider	_	
+4-2	302-305	ist	_	
+4-3	306-310	dies	_	
+4-4	311-321	allerdings	_	
+4-5	322-325	aus	_	
+4-6	326-329	der	_	
+4-7	330-343	Beschilderung	_	
+4-8	344-349	nicht	_	
+4-9	350-361	ersichtlich	_	
+4-10	362-363	(	_	
+4-11	363-365	es	_	
+4-12	366-371	hängt	_	
+4-13	372-375	nur	_	
+4-14	376-379	ein	_	
+4-15	380-386	Schild	_	
+4-16	387-390	mit	_	
+4-17	391-409	Rechtsabbiegepfeil	_	
+4-18	409-410	)	_	
+4-19	410-411	.	_	
+
+#Text=Als ortsunkundiger Radfahrer kann man, gerade wenn Autos vor einem fahren, erst sehr spät erkennen, dass es eine Möglichkeit gibt, links abzubiegen.
+5-1	412-415	Als	_	
+5-2	416-430	ortsunkundiger	_	
+5-3	431-440	Radfahrer	_	
+5-4	441-445	kann	_	
+5-5	446-449	man	_	
+5-6	449-450	,	_	
+5-7	451-457	gerade	_	
+5-8	458-462	wenn	_	
+5-9	463-468	Autos	_	
+5-10	469-472	vor	_	
+5-11	473-478	einem	_	
+5-12	479-485	fahren	_	
+5-13	485-486	,	_	
+5-14	487-491	erst	_	
+5-15	492-496	sehr	_	
+5-16	497-501	spät	_	
+5-17	502-510	erkennen	_	
+5-18	510-511	,	_	
+5-19	512-516	dass	_	
+5-20	517-519	es	_	
+5-21	520-524	eine	_	
+5-22	525-536	Möglichkeit	_	
+5-23	537-541	gibt	_	
+5-24	541-542	,	_	
+5-25	543-548	links	_	
+5-26	549-559	abzubiegen	_	
+5-27	559-560	.	_	
+
+#Text=Es wäre schön, wenn die Freigabe zum links Abbiegen auch aus der Beschilderung erkennbar wäre.
+6-1	561-563	Es	_	
+6-2	564-568	wäre	_	
+6-3	569-574	schön	_	
+6-4	574-575	,	_	
+6-5	576-580	wenn	_	
+6-6	581-584	die	_	
+6-7	585-593	Freigabe	_	
+6-8	594-597	zum	_	
+6-9	598-603	links	_	
+6-10	604-612	Abbiegen	_	
+6-11	613-617	auch	_	
+6-12	618-621	aus	_	
+6-13	622-625	der	_	
+6-14	626-639	Beschilderung	_	
+6-15	640-649	erkennbar	_	
+6-16	650-654	wäre	_	
+6-17	654-655	.	_	

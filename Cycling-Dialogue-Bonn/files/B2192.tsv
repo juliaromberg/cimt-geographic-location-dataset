@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg
+1-1	0-10	Fahrradweg	_	
+
+#Text=Der Fahrradweg auf der Kaiserstraße müsste verbreitert werden.
+2-1	13-16	Der	*[4]	
+2-2	17-27	Fahrradweg	*[4]	
+2-3	28-31	auf	*[4]	
+2-4	32-35	der	*[4]	
+2-5	36-48	Kaiserstraße	*[4]	
+2-6	49-55	müsste	_	
+2-7	56-67	verbreitert	_	
+2-8	68-74	werden	_	
+2-9	74-75	.	_	
+
+#Text=Wenn morgens im Berufsverkehr Eltern mit Anhängern Richtung Stadt fahren, ist es extrem eng.
+3-1	76-80	Wenn	_	
+3-2	81-88	morgens	_	
+3-3	89-91	im	_	
+3-4	92-105	Berufsverkehr	_	
+3-5	106-112	Eltern	_	
+3-6	113-116	mit	_	
+3-7	117-126	Anhängern	_	
+3-8	127-135	Richtung	_	
+3-9	136-141	Stadt	_	
+3-10	142-148	fahren	_	
+3-11	148-149	,	_	
+3-12	150-153	ist	_	
+3-13	154-156	es	_	
+3-14	157-163	extrem	_	
+3-15	164-167	eng	_	
+3-16	167-168	.	_	
+
+#Text=Außerdem besteht die Gefahr, dass man an der Bushaltestelle Arndtstraße gegen das Busschild fährt.
+4-1	169-177	Außerdem	_	
+4-2	178-185	besteht	_	
+4-3	186-189	die	_	
+4-4	190-196	Gefahr	_	
+4-5	196-197	,	_	
+4-6	198-202	dass	_	
+4-7	203-206	man	_	
+4-8	207-209	an	*[5]	
+4-9	210-213	der	*[5]	
+4-10	214-228	Bushaltestelle	*[5]	
+4-11	229-240	Arndtstraße	*[5]	
+4-12	241-246	gegen	_	
+4-13	247-250	das	_	
+4-14	251-260	Busschild	_	
+4-15	261-266	fährt	_	
+4-16	266-267	.	_	

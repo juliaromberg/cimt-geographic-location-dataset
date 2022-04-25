@@ -1,0 +1,145 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=PKWs blockieren die Fahrradstraße komplett
+1-1	0-4	PKWs	_	
+1-2	5-15	blockieren	_	
+1-3	16-19	die	_	
+1-4	20-33	Fahrradstraße	_	
+1-5	34-42	komplett	_	
+
+#Text=Die Martin-Luther-King-Straße wird an dieser Stelle durch Blumenkübel in zwei Hälften geteilt.
+2-1	45-48	Die	*[7]	
+2-2	49-74	Martin-Luther-King-Straße	*[7]	
+2-3	75-79	wird	_	
+2-4	80-82	an	_	
+2-5	83-89	dieser	_	
+2-6	90-96	Stelle	_	
+2-7	97-102	durch	_	
+2-8	103-114	Blumenkübel	_	
+2-9	115-117	in	_	
+2-10	118-122	zwei	_	
+2-11	123-130	Hälften	_	
+2-12	131-138	geteilt	_	
+2-13	138-139	.	_	
+
+#Text=PKWs können hier nicht durch, Fahrradfahrer dagegen normalerweise problemlos, denn zwischen den Kübeln sind zweimal je etwa 1,50 m Platz.
+3-1	140-144	PKWs	_	
+3-2	145-151	können	_	
+3-3	152-156	hier	_	
+3-4	157-162	nicht	_	
+3-5	163-168	durch	_	
+3-6	168-169	,	_	
+3-7	170-183	Fahrradfahrer	_	
+3-8	184-191	dagegen	_	
+3-9	192-205	normalerweise	_	
+3-10	206-216	problemlos	_	
+3-11	216-217	,	_	
+3-12	218-222	denn	_	
+3-13	223-231	zwischen	_	
+3-14	232-235	den	_	
+3-15	236-242	Kübeln	_	
+3-16	243-247	sind	_	
+3-17	248-255	zweimal	_	
+3-18	256-258	je	_	
+3-19	259-263	etwa	_	
+3-20	264-268	1,50	_	
+3-21	269-270	m	_	
+3-22	271-276	Platz	_	
+3-23	276-277	.	_	
+
+#Text=Zur Abholzeit an der Schule oder abends beim Training auf dem nahe gelegenen Sportplatz werden die beiden Durchfahrten aber oft zugeparkt, man muss dann über den Bürgersteig gehend vorbeischieben.
+4-1	278-281	Zur	_	
+4-2	282-291	Abholzeit	_	
+4-3	292-294	an	_	
+4-4	295-298	der	_	
+4-5	299-305	Schule	_	
+4-6	306-310	oder	_	
+4-7	311-317	abends	_	
+4-8	318-322	beim	_	
+4-9	323-331	Training	_	
+4-10	332-335	auf	_	
+4-11	336-339	dem	_	
+4-12	340-344	nahe	_	
+4-13	345-354	gelegenen	_	
+4-14	355-365	Sportplatz	_	
+4-15	366-372	werden	_	
+4-16	373-376	die	_	
+4-17	377-383	beiden	_	
+4-18	384-396	Durchfahrten	_	
+4-19	397-401	aber	_	
+4-20	402-405	oft	_	
+4-21	406-415	zugeparkt	_	
+4-22	415-416	,	_	
+4-23	417-420	man	_	
+4-24	421-425	muss	_	
+4-25	426-430	dann	_	
+4-26	431-435	über	_	
+4-27	436-439	den	_	
+4-28	440-451	Bürgersteig	_	
+4-29	452-458	gehend	_	
+4-30	459-473	vorbeischieben	_	
+4-31	473-474	.	_	
+
+#Text=Zum einen sollte der Bereich zwischen den Kübeln farblich als Fahrradweg markiert werden (auch wenn das in einer Fahrradstraße etwas redundant ist), weil viele Autofahrer einfach nicht auf die simple Idee kommen, dass Fahrradfahrer dort langfahren, wo für PKWs Schluss ist..
+5-1	475-478	Zum	_	
+5-2	479-484	einen	_	
+5-3	485-491	sollte	_	
+5-4	492-495	der	_	
+5-5	496-503	Bereich	_	
+5-6	504-512	zwischen	_	
+5-7	513-516	den	_	
+5-8	517-523	Kübeln	_	
+5-9	524-532	farblich	_	
+5-10	533-536	als	_	
+5-11	537-547	Fahrradweg	_	
+5-12	548-556	markiert	_	
+5-13	557-563	werden	_	
+5-14	564-565	(	_	
+5-15	565-569	auch	_	
+5-16	570-574	wenn	_	
+5-17	575-578	das	_	
+5-18	579-581	in	_	
+5-19	582-587	einer	_	
+5-20	588-601	Fahrradstraße	_	
+5-21	602-607	etwas	_	
+5-22	608-617	redundant	_	
+5-23	618-621	ist	_	
+5-24	621-622	)	_	
+5-25	622-623	,	_	
+5-26	624-628	weil	_	
+5-27	629-634	viele	_	
+5-28	635-645	Autofahrer	_	
+5-29	646-653	einfach	_	
+5-30	654-659	nicht	_	
+5-31	660-663	auf	_	
+5-32	664-667	die	_	
+5-33	668-674	simple	_	
+5-34	675-679	Idee	_	
+5-35	680-686	kommen	_	
+5-36	686-687	,	_	
+5-37	688-692	dass	_	
+5-38	693-706	Fahrradfahrer	_	
+5-39	707-711	dort	_	
+5-40	712-722	langfahren	_	
+5-41	722-723	,	_	
+5-42	724-726	wo	_	
+5-43	727-730	für	_	
+5-44	731-735	PKWs	_	
+5-45	736-743	Schluss	_	
+5-46	744-747	ist	_	
+5-47	747-748	.	_	
+5-48	748-749	.	_	
+
+#Text=Zum anderen könnten auch Kontrollen nicht schaden.
+6-1	750-753	Zum	_	
+6-2	754-761	anderen	_	
+6-3	762-769	könnten	_	
+6-4	770-774	auch	_	
+6-5	775-785	Kontrollen	_	
+6-6	786-791	nicht	_	
+6-7	792-799	schaden	_	
+6-8	799-800	.	_	

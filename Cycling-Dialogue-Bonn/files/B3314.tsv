@@ -1,0 +1,133 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg hat unzureichende Kapazität
+1-1	0-6	Radweg	_	
+1-2	7-10	hat	_	
+1-3	11-24	unzureichende	_	
+1-4	25-34	Kapazität	_	
+
+#Text=Es ist schön, dass man am Rhein entlang auf einem Radweg fahren kann.
+2-1	37-39	Es	_	
+2-2	40-43	ist	_	
+2-3	44-49	schön	_	
+2-4	49-50	,	_	
+2-5	51-55	dass	_	
+2-6	56-59	man	_	
+2-7	60-62	am	_	
+2-8	63-68	Rhein	_	
+2-9	69-76	entlang	_	
+2-10	77-80	auf	_	
+2-11	81-86	einem	_	
+2-12	87-93	Radweg	_	
+2-13	94-100	fahren	_	
+2-14	101-105	kann	_	
+2-15	105-106	.	_	
+
+#Text=Leider ist der Radweg insbesondere morgens und nachmittags zu stark befahren, da der Radverkehr in beide Richtungen auf dem schmalen Streifen stattfindet.
+3-1	107-113	Leider	_	
+3-2	114-117	ist	_	
+3-3	118-121	der	_	
+3-4	122-128	Radweg	_	
+3-5	129-141	insbesondere	_	
+3-6	142-149	morgens	_	
+3-7	150-153	und	_	
+3-8	154-165	nachmittags	_	
+3-9	166-168	zu	_	
+3-10	169-174	stark	_	
+3-11	175-183	befahren	_	
+3-12	183-184	,	_	
+3-13	185-187	da	_	
+3-14	188-191	der	_	
+3-15	192-202	Radverkehr	_	
+3-16	203-205	in	_	
+3-17	206-211	beide	_	
+3-18	212-222	Richtungen	_	
+3-19	223-226	auf	_	
+3-20	227-230	dem	_	
+3-21	231-239	schmalen	_	
+3-22	240-248	Streifen	_	
+3-23	249-260	stattfindet	_	
+3-24	260-261	.	_	
+
+#Text=Es sind so viele Radfahrer unterwegs, dass es häufig zu Überholmanövern kommt, bei denen brenzlige Situationen entstehen.
+4-1	262-264	Es	_	
+4-2	265-269	sind	_	
+4-3	270-272	so	_	
+4-4	273-278	viele	_	
+4-5	279-288	Radfahrer	_	
+4-6	289-298	unterwegs	_	
+4-7	298-299	,	_	
+4-8	300-304	dass	_	
+4-9	305-307	es	_	
+4-10	308-314	häufig	_	
+4-11	315-317	zu	_	
+4-12	318-333	Überholmanövern	_	
+4-13	334-339	kommt	_	
+4-14	339-340	,	_	
+4-15	341-344	bei	_	
+4-16	345-350	denen	_	
+4-17	351-360	brenzlige	_	
+4-18	361-372	Situationen	_	
+4-19	373-382	entstehen	_	
+4-20	382-383	.	_	
+
+#Text=Oder aber einige Radfahrer sind gestresst/erschrocken durch die Überholmanöver.
+5-1	384-388	Oder	_	
+5-2	389-393	aber	_	
+5-3	394-400	einige	_	
+5-4	401-410	Radfahrer	_	
+5-5	411-415	sind	_	
+5-6	416-425	gestresst	_	
+5-7	425-426	/	_	
+5-8	426-437	erschrocken	_	
+5-9	438-443	durch	_	
+5-10	444-447	die	_	
+5-11	448-462	Überholmanöver	_	
+5-12	462-463	.	_	
+
+#Text=Ich denke, es sollte getrennte Spuren für die jeweilige Fahrtrichtung geben.
+6-1	464-467	Ich	_	
+6-2	468-473	denke	_	
+6-3	473-474	,	_	
+6-4	475-477	es	_	
+6-5	478-484	sollte	_	
+6-6	485-494	getrennte	_	
+6-7	495-501	Spuren	_	
+6-8	502-505	für	_	
+6-9	506-509	die	_	
+6-10	510-519	jeweilige	_	
+6-11	520-533	Fahrtrichtung	_	
+6-12	534-539	geben	_	
+6-13	539-540	.	_	
+
+#Text=Dazu müsste der Radweg verbreitert werden.
+7-1	541-545	Dazu	_	
+7-2	546-552	müsste	_	
+7-3	553-556	der	_	
+7-4	557-563	Radweg	_	
+7-5	564-575	verbreitert	_	
+7-6	576-582	werden	_	
+7-7	582-583	.	_	
+
+#Text=Das sollte aber auch gut machbar sein, da der Autoverkehr dort nicht zu stark ist.
+8-1	584-587	Das	_	
+8-2	588-594	sollte	_	
+8-3	595-599	aber	_	
+8-4	600-604	auch	_	
+8-5	605-608	gut	_	
+8-6	609-616	machbar	_	
+8-7	617-621	sein	_	
+8-8	621-622	,	_	
+8-9	623-625	da	_	
+8-10	626-629	der	_	
+8-11	630-641	Autoverkehr	_	
+8-12	642-646	dort	_	
+8-13	647-652	nicht	_	
+8-14	653-655	zu	_	
+8-15	656-661	stark	_	
+8-16	662-665	ist	_	
+8-17	665-666	.	_	

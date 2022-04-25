@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Ampelphasen
+1-1	0-11	Gefährliche	_	
+1-2	12-23	Ampelphasen	_	
+
+#Text=Fährt man auf der B 56 aus Beuel in Richtung Vilich und überquert die Kreuzung an der Combahnstraße am Ende der Grünphase geradeaus, kann es passieren, dass man mit Fußgängern zusammenstößt, die die Ampel auf der anderen Seite der Combahnstraße (von der Ecke des Friedhofs) bei Grün überqueren.
+2-1	26-31	Fährt	_	
+2-2	32-35	man	_	
+2-3	36-39	auf	*[4]	
+2-4	40-43	der	*[4]	
+2-5	44-45	B	*[4]	
+2-6	46-48	56	*[4]	
+2-7	49-52	aus	*[4]	
+2-8	53-58	Beuel	*[4]	
+2-9	59-61	in	*[4]	
+2-10	62-70	Richtung	*[4]	
+2-11	71-77	Vilich	*[4]	
+2-12	78-81	und	*[4]	
+2-13	82-91	überquert	*[4]	
+2-14	92-95	die	*[4]	
+2-15	96-104	Kreuzung	*[4]	
+2-16	105-107	an	*[4]	
+2-17	108-111	der	*[4]	
+2-18	112-125	Combahnstraße	*[4]	
+2-19	126-128	am	_	
+2-20	129-133	Ende	_	
+2-21	134-137	der	_	
+2-22	138-147	Grünphase	_	
+2-23	148-157	geradeaus	_	
+2-24	157-158	,	_	
+2-25	159-163	kann	_	
+2-26	164-166	es	_	
+2-27	167-176	passieren	_	
+2-28	176-177	,	_	
+2-29	178-182	dass	_	
+2-30	183-186	man	_	
+2-31	187-190	mit	_	
+2-32	191-201	Fußgängern	_	
+2-33	202-215	zusammenstößt	_	
+2-34	215-216	,	_	
+2-35	217-220	die	_	
+2-36	221-224	die	_	
+2-37	225-230	Ampel	_	
+2-38	231-234	auf	*[5]	
+2-39	235-238	der	*[5]	
+2-40	239-246	anderen	*[5]	
+2-41	247-252	Seite	*[5]	
+2-42	253-256	der	*[5]	
+2-43	257-270	Combahnstraße	*[5]	
+2-44	271-272	(	*[5]	
+2-45	272-275	von	*[5]	
+2-46	276-279	der	*[5]	
+2-47	280-284	Ecke	*[5]	
+2-48	285-288	des	*[5]	
+2-49	289-298	Friedhofs	*[5]	
+2-50	298-299	)	_	
+2-51	300-303	bei	_	
+2-52	304-308	Grün	_	
+2-53	309-319	überqueren	_	
+2-54	319-320	.	_	
+
+#Text=Die Ampelschaltung dort berücksichtigt nicht, dass der Kreuzungsbereich wegen der schrägen Einmündung der Combahnstraße auf die B 56 sehr weit ist.
+3-1	321-324	Die	_	
+3-2	325-339	Ampelschaltung	_	
+3-3	340-344	dort	_	
+3-4	345-359	berücksichtigt	_	
+3-5	360-365	nicht	_	
+3-6	365-366	,	_	
+3-7	367-371	dass	_	
+3-8	372-375	der	_	
+3-9	376-392	Kreuzungsbereich	_	
+3-10	393-398	wegen	_	
+3-11	399-402	der	_	
+3-12	403-411	schrägen	_	
+3-13	412-422	Einmündung	_	
+3-14	423-426	der	_	
+3-15	427-440	Combahnstraße	*[6]	
+3-16	441-444	auf	*[6]	
+3-17	445-448	die	*[6]	
+3-18	449-450	B	*[6]	
+3-19	451-453	56	*[6]	
+3-20	454-458	sehr	_	
+3-21	459-463	weit	_	
+3-22	464-467	ist	_	
+3-23	467-468	.	_	

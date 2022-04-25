@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Asphalt sehr schlecht Venner Straße
+1-1	0-7	Asphalt	_	
+1-2	8-12	sehr	_	
+1-3	13-21	schlecht	_	
+1-4	22-28	Venner	*[5]	
+1-5	29-35	Straße	*[5]	
+
+#Text=Ein beliebter Einstieg in den Kottenforst für viele Radfahrer ist die Venner Straße.
+2-1	38-41	Ein	_	
+2-2	42-51	beliebter	_	
+2-3	52-60	Einstieg	_	
+2-4	61-63	in	_	
+2-5	64-67	den	_	
+2-6	68-79	Kottenforst	_	
+2-7	80-83	für	_	
+2-8	84-89	viele	_	
+2-9	90-99	Radfahrer	_	
+2-10	100-103	ist	_	
+2-11	104-107	die	*[6]	
+2-12	108-114	Venner	*[6]	
+2-13	115-121	Straße	*[6]	
+2-14	121-122	.	_	
+
+#Text=Dort ist an 2 ca. 10-15 Meter langen Stellen der Asphalt sehr schlecht und es wird immer schlimmer.
+3-1	123-127	Dort	_	
+3-2	128-131	ist	_	
+3-3	132-134	an	_	
+3-4	135-136	2	_	
+3-5	137-139	ca	_	
+3-6	139-140	.	_	
+3-7	141-143	10	_	
+3-8	143-144	-	_	
+3-9	144-146	15	_	
+3-10	147-152	Meter	_	
+3-11	153-159	langen	_	
+3-12	160-167	Stellen	_	
+3-13	168-171	der	_	
+3-14	172-179	Asphalt	_	
+3-15	180-184	sehr	_	
+3-16	185-193	schlecht	_	
+3-17	194-197	und	_	
+3-18	198-200	es	_	
+3-19	201-205	wird	_	
+3-20	206-211	immer	_	
+3-21	212-221	schlimmer	_	
+3-22	221-222	.	_	
+
+#Text=Wäre schön, wenn dieser dort erneuert werden könnte.
+4-1	223-227	Wäre	_	
+4-2	228-233	schön	_	
+4-3	233-234	,	_	
+4-4	235-239	wenn	_	
+4-5	240-246	dieser	_	
+4-6	247-251	dort	_	
+4-7	252-260	erneuert	_	
+4-8	261-267	werden	_	
+4-9	268-274	könnte	_	
+4-10	274-275	.	_	

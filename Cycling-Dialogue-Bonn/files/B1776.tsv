@@ -1,0 +1,21 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hauptbahnhof
+1-1	0-12	Hauptbahnhof	*	
+
+#Text=Es fehlen Parkplätze für Radfahrer an beiden Seiten des Hauptbahnhofs.
+2-1	15-17	Es	_	
+2-2	18-24	fehlen	_	
+2-3	25-35	Parkplätze	_	
+2-4	36-39	für	_	
+2-5	40-49	Radfahrer	_	
+2-6	50-52	an	*[2]	
+2-7	53-59	beiden	*[2]	
+2-8	60-66	Seiten	*[2]	
+2-9	67-70	des	*[2]	
+2-10	71-84	Hauptbahnhofs	*[2]	
+2-11	84-85	.	_	

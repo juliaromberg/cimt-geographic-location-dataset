@@ -1,0 +1,151 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefahrenstelle durch Konvexspiegel entschärfen
+1-1	0-14	Gefahrenstelle	_	
+1-2	15-20	durch	_	
+1-3	21-34	Konvexspiegel	_	
+1-4	35-46	entschärfen	_	
+
+#Text=An der Bernhardstraße gibt es eine Straßenverengung, die zudem aus beiden Richtungen miserabel einsehbar ist: https://goo.gl/C7Czrp
+2-1	49-51	An	*[8]	
+2-2	52-55	der	*[8]	
+2-3	56-70	Bernhardstraße	*[8]	
+2-4	71-75	gibt	_	
+2-5	76-78	es	_	
+2-6	79-83	eine	_	
+2-7	84-100	Straßenverengung	_	
+2-8	100-101	,	_	
+2-9	102-105	die	_	
+2-10	106-111	zudem	_	
+2-11	112-115	aus	_	
+2-12	116-122	beiden	_	
+2-13	123-133	Richtungen	_	
+2-14	134-143	miserabel	_	
+2-15	144-153	einsehbar	_	
+2-16	154-157	ist	_	
+2-17	157-158	:	_	
+2-18	159-164	https	_	
+2-19	164-165	:	_	
+2-20	165-166	/	_	
+2-21	166-167	/	_	
+2-22	167-173	goo.gl	_	
+2-23	173-174	/	_	
+2-24	174-180	C7Czrp	_	
+
+#Text=Auto fahren hier häufig unangemessen schnell.
+3-1	181-185	Auto	_	
+3-2	186-192	fahren	_	
+3-3	193-197	hier	_	
+3-4	198-204	häufig	_	
+3-5	205-217	unangemessen	_	
+3-6	218-225	schnell	_	
+3-7	225-226	.	_	
+
+#Text=Aus Richtung Beuel kommende Autos schneiden die Straße nach links und kommen dann in den Gegenverkehr.
+4-1	227-230	Aus	*[9]	
+4-2	231-239	Richtung	*[9]	
+4-3	240-245	Beuel	*[9]	
+4-4	246-254	kommende	*[9]	
+4-5	255-260	Autos	_	
+4-6	261-270	schneiden	_	
+4-7	271-274	die	_	
+4-8	275-281	Straße	_	
+4-9	282-286	nach	_	
+4-10	287-292	links	_	
+4-11	293-296	und	_	
+4-12	297-303	kommen	_	
+4-13	304-308	dann	_	
+4-14	309-311	in	_	
+4-15	312-315	den	_	
+4-16	316-328	Gegenverkehr	_	
+4-17	328-329	.	_	
+
+#Text=Aus Richtung Königswinter kommende Autos fahren die vorher kerzengerade Straße meistens mit zu hoher Geschwindigkeit in die Engstelle und geraten ebenfalls in den Gegenverkehr.
+5-1	330-333	Aus	*[10]	
+5-2	334-342	Richtung	*[10]	
+5-3	343-355	Königswinter	*[10]	
+5-4	356-364	kommende	*[10]	
+5-5	365-370	Autos	_	
+5-6	371-377	fahren	_	
+5-7	378-381	die	_	
+5-8	382-388	vorher	_	
+5-9	389-401	kerzengerade	_	
+5-10	402-408	Straße	_	
+5-11	409-417	meistens	_	
+5-12	418-421	mit	_	
+5-13	422-424	zu	_	
+5-14	425-430	hoher	_	
+5-15	431-446	Geschwindigkeit	_	
+5-16	447-449	in	_	
+5-17	450-453	die	_	
+5-18	454-463	Engstelle	_	
+5-19	464-467	und	_	
+5-20	468-475	geraten	_	
+5-21	476-485	ebenfalls	_	
+5-22	486-488	in	_	
+5-23	489-492	den	_	
+5-24	493-505	Gegenverkehr	_	
+5-25	505-506	.	_	
+
+#Text=Die Straße dient vielen Kindern zur Fahrt zu/von Grundschule sowie Rheinuferpendler, um in der Simonstraße zum Rheinradweg herunter zu fahren Im unteren Außenbereich der Kurve muss ein Verkehrsspiegel ( = Konvexspiegel) montiert werden.
+6-1	507-510	Die	_	
+6-2	511-517	Straße	_	
+6-3	518-523	dient	_	
+6-4	524-530	vielen	_	
+6-5	531-538	Kindern	_	
+6-6	539-542	zur	_	
+6-7	543-548	Fahrt	_	
+6-8	549-551	zu	_	
+6-9	551-552	/	_	
+6-10	552-555	von	_	
+6-11	556-567	Grundschule	_	
+6-12	568-573	sowie	_	
+6-13	574-590	Rheinuferpendler	_	
+6-14	590-591	,	_	
+6-15	592-594	um	_	
+6-16	595-597	in	*[11]	
+6-17	598-601	der	*[11]	
+6-18	602-613	Simonstraße	*[11]	
+6-19	614-617	zum	*[11]	
+6-20	618-629	Rheinradweg	*[11]	
+6-21	630-638	herunter	_	
+6-22	639-641	zu	_	
+6-23	642-648	fahren	_	
+6-24	649-651	Im	_	
+6-25	652-659	unteren	_	
+6-26	660-672	Außenbereich	_	
+6-27	673-676	der	_	
+6-28	677-682	Kurve	_	
+6-29	683-687	muss	_	
+6-30	688-691	ein	_	
+6-31	692-707	Verkehrsspiegel	_	
+6-32	708-709	(	_	
+6-33	710-711	=	_	
+6-34	712-725	Konvexspiegel	_	
+6-35	725-726	)	_	
+6-36	727-735	montiert	_	
+6-37	736-742	werden	_	
+6-38	742-743	.	_	
+
+#Text=Konvexspiegel kommen in unübersichtlichen Knotenpunkten, Kurven oder Grundstücksausfahrten zur Anwendung und verbessern dort die Sichtverhältnisse.
+7-1	744-757	Konvexspiegel	_	
+7-2	758-764	kommen	_	
+7-3	765-767	in	_	
+7-4	768-785	unübersichtlichen	_	
+7-5	786-799	Knotenpunkten	_	
+7-6	799-800	,	_	
+7-7	801-807	Kurven	_	
+7-8	808-812	oder	_	
+7-9	813-834	Grundstücksausfahrten	_	
+7-10	835-838	zur	_	
+7-11	839-848	Anwendung	_	
+7-12	849-852	und	_	
+7-13	853-863	verbessern	_	
+7-14	864-868	dort	_	
+7-15	869-872	die	_	
+7-16	873-890	Sichtverhältnisse	_	
+7-17	890-891	.	_	

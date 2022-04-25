@@ -1,0 +1,51 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wie komme ich mit dem Rad in die Unterführung?
+1-1	0-3	Wie	_	
+1-2	4-9	komme	_	
+1-3	10-13	ich	_	
+1-4	14-17	mit	_	
+1-5	18-21	dem	_	
+1-6	22-25	Rad	_	
+1-7	26-28	in	_	
+1-8	29-32	die	_	
+1-9	33-45	Unterführung	_	
+1-10	45-46	?	_	
+
+#Text=Fahrrad- Überweg vom Parkplatz in die unterführung udn die auch markieren.
+2-1	49-56	Fahrrad	_	
+2-2	56-57	-	_	
+2-3	58-65	Überweg	_	
+2-4	66-69	vom	_	
+2-5	70-79	Parkplatz	_	
+2-6	80-82	in	_	
+2-7	83-86	die	_	
+2-8	87-99	unterführung	_	
+2-9	100-103	udn	_	
+2-10	104-107	die	_	
+2-11	108-112	auch	_	
+2-12	113-122	markieren	_	
+2-13	122-123	.	_	
+
+#Text=Hlate ich besonders für wichtig, weil es so wenige Möglchkeiten gibt, die Gleise zu überqueren
+3-1	124-129	Hlate	_	
+3-2	130-133	ich	_	
+3-3	134-143	besonders	_	
+3-4	144-147	für	_	
+3-5	148-155	wichtig	_	
+3-6	155-156	,	_	
+3-7	157-161	weil	_	
+3-8	162-164	es	_	
+3-9	165-167	so	_	
+3-10	168-174	wenige	_	
+3-11	175-187	Möglchkeiten	_	
+3-12	188-192	gibt	_	
+3-13	192-193	,	_	
+3-14	194-197	die	_	
+3-15	198-204	Gleise	_	
+3-16	205-207	zu	_	
+3-17	208-218	überqueren	_	

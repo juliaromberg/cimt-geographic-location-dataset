@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradparken für Pendler aus Nordost
+1-1	0-13	Fahrradparken	_	
+1-2	14-17	für	_	
+1-3	18-25	Pendler	_	
+1-4	26-29	aus	_	
+1-5	30-37	Nordost	_	
+
+#Text=Die ohnehin begrenzten Abstellflächen südlich des Hbf sind für Fahrradpendler, die aus Nordost kommen, nur schwer erreichbar.
+2-1	40-43	Die	_	
+2-2	44-51	ohnehin	_	
+2-3	52-62	begrenzten	_	
+2-4	63-77	Abstellflächen	_	
+2-5	78-85	südlich	_	
+2-6	86-89	des	_	
+2-7	90-93	Hbf	_	
+2-8	94-98	sind	_	
+2-9	99-102	für	_	
+2-10	103-117	Fahrradpendler	_	
+2-11	117-118	,	_	
+2-12	119-122	die	_	
+2-13	123-126	aus	_	
+2-14	127-134	Nordost	_	
+2-15	135-141	kommen	_	
+2-16	141-142	,	_	
+2-17	143-146	nur	_	
+2-18	147-153	schwer	_	
+2-19	154-164	erreichbar	_	
+2-20	164-165	.	_	
+
+#Text=In die Planung des Neuen Einkaufsparadises und Bahnhofvorplatzes müssen viele(!) Fahrradparkplätze integriert werden, da die vorhandenen jetzt schon überfüllt oder dermaßen verschmutzt sind (Tauben), dass man sie nicht nutzen kann.
+3-1	166-168	In	_	
+3-2	169-172	die	_	
+3-3	173-180	Planung	_	
+3-4	181-184	des	_	
+3-5	185-190	Neuen	_	
+3-6	191-208	Einkaufsparadises	_	
+3-7	209-212	und	_	
+3-8	213-230	Bahnhofvorplatzes	_	
+3-9	231-237	müssen	_	
+3-10	238-243	viele	_	
+3-11	243-244	(	_	
+3-12	244-245	!	_	
+3-13	245-246	)	_	
+3-14	247-264	Fahrradparkplätze	_	
+3-15	265-275	integriert	_	
+3-16	276-282	werden	_	
+3-17	282-283	,	_	
+3-18	284-286	da	_	
+3-19	287-290	die	_	
+3-20	291-302	vorhandenen	_	
+3-21	303-308	jetzt	_	
+3-22	309-314	schon	_	
+3-23	315-324	überfüllt	_	
+3-24	325-329	oder	_	
+3-25	330-338	dermaßen	_	
+3-26	339-350	verschmutzt	_	
+3-27	351-355	sind	_	
+3-28	356-357	(	_	
+3-29	357-363	Tauben	_	
+3-30	363-364	)	_	
+3-31	364-365	,	_	
+3-32	366-370	dass	_	
+3-33	371-374	man	_	
+3-34	375-378	sie	_	
+3-35	379-384	nicht	_	
+3-36	385-391	nutzen	_	
+3-37	392-396	kann	_	
+3-38	396-397	.	_	

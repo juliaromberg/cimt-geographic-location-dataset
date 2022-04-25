@@ -1,0 +1,174 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Quantiusstr. wieder frei geben für Radfahrer trotz Baustelle
+1-1	0-11	Quantiusstr	*	
+1-2	11-12	.	_	
+1-3	13-19	wieder	_	
+1-4	20-24	frei	_	
+1-5	25-30	geben	_	
+1-6	31-34	für	_	
+1-7	35-44	Radfahrer	_	
+1-8	45-50	trotz	_	
+1-9	51-60	Baustelle	_	
+
+#Text=Hier wurde aufgrund der Baustelle (Studentenwohnheim) hinterm Bahnhof kurzerhand die Zufahrt für Radfahrende gesperrt!
+2-1	63-67	Hier	_	
+2-2	68-73	wurde	_	
+2-3	74-82	aufgrund	_	
+2-4	83-86	der	_	
+2-5	87-96	Baustelle	_	
+2-6	97-98	(	_	
+2-7	98-115	Studentenwohnheim	_	
+2-8	115-116	)	_	
+2-9	117-124	hinterm	_	
+2-10	125-132	Bahnhof	_	
+2-11	133-143	kurzerhand	_	
+2-12	144-147	die	_	
+2-13	148-155	Zufahrt	_	
+2-14	156-159	für	_	
+2-15	160-171	Radfahrende	_	
+2-16	172-180	gesperrt	_	
+2-17	180-181	!	_	
+
+#Text=Zack, Bum!
+3-1	182-186	Zack	_	
+3-2	186-187	,	_	
+3-3	188-191	Bum	_	
+3-4	191-192	!	_	
+
+#Text=Radfahrer können ja jetzt schieben oder einen Umweg/Bogen fahren.
+4-1	193-202	Radfahrer	_	
+4-2	203-209	können	_	
+4-3	210-212	ja	_	
+4-4	213-218	jetzt	_	
+4-5	219-227	schieben	_	
+4-6	228-232	oder	_	
+4-7	233-238	einen	_	
+4-8	239-244	Umweg	_	
+4-9	244-245	/	_	
+4-10	245-250	Bogen	_	
+4-11	251-257	fahren	_	
+4-12	257-258	.	_	
+
+#Text=Das ist eine Frechheit und skandalös und führt dazu, dass sich niemand daran hält und wieder der Radfahrer der Dumme ist, der sich nicht an Verkehrsführungsvorschriften hält!
+5-1	259-262	Das	_	
+5-2	263-266	ist	_	
+5-3	267-271	eine	_	
+5-4	272-281	Frechheit	_	
+5-5	282-285	und	_	
+5-6	286-295	skandalös	_	
+5-7	296-299	und	_	
+5-8	300-305	führt	_	
+5-9	306-310	dazu	_	
+5-10	310-311	,	_	
+5-11	312-316	dass	_	
+5-12	317-321	sich	_	
+5-13	322-329	niemand	_	
+5-14	330-335	daran	_	
+5-15	336-340	hält	_	
+5-16	341-344	und	_	
+5-17	345-351	wieder	_	
+5-18	352-355	der	_	
+5-19	356-365	Radfahrer	_	
+5-20	366-369	der	_	
+5-21	370-375	Dumme	_	
+5-22	376-379	ist	_	
+5-23	379-380	,	_	
+5-24	381-384	der	_	
+5-25	385-389	sich	_	
+5-26	390-395	nicht	_	
+5-27	396-398	an	_	
+5-28	399-427	Verkehrsführungsvorschriften	_	
+5-29	428-432	hält	_	
+5-30	432-433	!	_	
+
+#Text=Das diese Regelung aber eine Zumutung ist und wieder einmal zum Ausdruck bringt, wie desinteressiert die Stadt an einer vernünftigen und gleichberechtigten Verkehrsplanung unter Berücksichtigung aller Verkehrsteilnehmenden ist, zeigt sich hier erneut.
+6-1	434-437	Das	_	
+6-2	438-443	diese	_	
+6-3	444-452	Regelung	_	
+6-4	453-457	aber	_	
+6-5	458-462	eine	_	
+6-6	463-471	Zumutung	_	
+6-7	472-475	ist	_	
+6-8	476-479	und	_	
+6-9	480-486	wieder	_	
+6-10	487-493	einmal	_	
+6-11	494-497	zum	_	
+6-12	498-506	Ausdruck	_	
+6-13	507-513	bringt	_	
+6-14	513-514	,	_	
+6-15	515-518	wie	_	
+6-16	519-534	desinteressiert	_	
+6-17	535-538	die	_	
+6-18	539-544	Stadt	_	
+6-19	545-547	an	_	
+6-20	548-553	einer	_	
+6-21	554-566	vernünftigen	_	
+6-22	567-570	und	_	
+6-23	571-589	gleichberechtigten	_	
+6-24	590-605	Verkehrsplanung	_	
+6-25	606-611	unter	_	
+6-26	612-628	Berücksichtigung	_	
+6-27	629-634	aller	_	
+6-28	635-656	Verkehrsteilnehmenden	_	
+6-29	657-660	ist	_	
+6-30	660-661	,	_	
+6-31	662-667	zeigt	_	
+6-32	668-672	sich	_	
+6-33	673-677	hier	_	
+6-34	678-684	erneut	_	
+6-35	684-685	.	_	
+
+#Text=Hier sollte umgehend eine Freigabe für Radfahrer erfolgen und eine andere Lösung erfolgen, die keinen so gravierenden und einseitigen Nachteil für die Radfahrer bedeutet.
+7-1	686-690	Hier	_	
+7-2	691-697	sollte	_	
+7-3	698-706	umgehend	_	
+7-4	707-711	eine	_	
+7-5	712-720	Freigabe	_	
+7-6	721-724	für	_	
+7-7	725-734	Radfahrer	_	
+7-8	735-743	erfolgen	_	
+7-9	744-747	und	_	
+7-10	748-752	eine	_	
+7-11	753-759	andere	_	
+7-12	760-766	Lösung	_	
+7-13	767-775	erfolgen	_	
+7-14	775-776	,	_	
+7-15	777-780	die	_	
+7-16	781-787	keinen	_	
+7-17	788-790	so	_	
+7-18	791-803	gravierenden	_	
+7-19	804-807	und	_	
+7-20	808-819	einseitigen	_	
+7-21	820-828	Nachteil	_	
+7-22	829-832	für	_	
+7-23	833-836	die	_	
+7-24	837-846	Radfahrer	_	
+7-25	847-855	bedeutet	_	
+7-26	855-856	.	_	
+
+#Text=Dies bitte dann auch zukünftig bei allen Baustellen berücksichtigen und nicht nur für den Autoverkehr eine annehmliche Lösung bieten.
+8-1	857-861	Dies	_	
+8-2	862-867	bitte	_	
+8-3	868-872	dann	_	
+8-4	873-877	auch	_	
+8-5	878-887	zukünftig	_	
+8-6	888-891	bei	_	
+8-7	892-897	allen	_	
+8-8	898-908	Baustellen	_	
+8-9	909-924	berücksichtigen	_	
+8-10	925-928	und	_	
+8-11	929-934	nicht	_	
+8-12	935-938	nur	_	
+8-13	939-942	für	_	
+8-14	943-946	den	_	
+8-15	947-958	Autoverkehr	_	
+8-16	959-963	eine	_	
+8-17	964-975	annehmliche	_	
+8-18	976-982	Lösung	_	
+8-19	983-989	bieten	_	
+8-20	989-990	.	_	

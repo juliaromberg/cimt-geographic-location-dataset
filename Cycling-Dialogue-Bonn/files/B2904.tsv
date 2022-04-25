@@ -1,0 +1,93 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Autorechtsabbieger - zu selten Verkehrsüberwachung durch die Polizei
+1-1	0-11	Gefährliche	_	
+1-2	12-30	Autorechtsabbieger	_	
+1-3	31-32	-	_	
+1-4	33-35	zu	_	
+1-5	36-42	selten	_	
+1-6	43-62	Verkehrsüberwachung	_	
+1-7	63-68	durch	_	
+1-8	69-72	die	_	
+1-9	73-80	Polizei	_	
+
+#Text=Häufig biegen hier Autofahrer auf der Oscar-Romero-Allee (Fahrtrichtung Godesberg) trotz Geradeausfahrtpflicht bei offener oder auch geschlossener Schranke rechts ab.
+2-1	83-89	Häufig	_	
+2-2	90-96	biegen	_	
+2-3	97-101	hier	_	
+2-4	102-112	Autofahrer	_	
+2-5	113-116	auf	*[5]	
+2-6	117-120	der	*[5]	
+2-7	121-139	Oscar-Romero-Allee	*[5]	
+2-8	140-141	(	*[5]	
+2-9	141-154	Fahrtrichtung	*[5]	
+2-10	155-164	Godesberg	*[5]	
+2-11	164-165	)	*[5]	
+2-12	166-171	trotz	_	
+2-13	172-193	Geradeausfahrtpflicht	_	
+2-14	194-197	bei	_	
+2-15	198-205	offener	_	
+2-16	206-210	oder	_	
+2-17	211-215	auch	_	
+2-18	216-229	geschlossener	_	
+2-19	230-238	Schranke	_	
+2-20	239-245	rechts	_	
+2-21	246-248	ab	_	
+2-22	248-249	.	_	
+
+#Text=Das führt dann zu gefährlichen Verkehrssituationen, weil für diese Autos keine Ampel sichtbar ist.
+3-1	250-253	Das	_	
+3-2	254-259	führt	_	
+3-3	260-264	dann	_	
+3-4	265-267	zu	_	
+3-5	268-280	gefährlichen	_	
+3-6	281-300	Verkehrssituationen	_	
+3-7	300-301	,	_	
+3-8	302-306	weil	_	
+3-9	307-310	für	_	
+3-10	311-316	diese	_	
+3-11	317-322	Autos	_	
+3-12	323-328	keine	_	
+3-13	329-334	Ampel	_	
+3-14	335-343	sichtbar	_	
+3-15	344-347	ist	_	
+3-16	347-348	.	_	
+
+#Text=Daher starten die Autos gleich bei Öffnung der Schranke, obwohl die Ampel in der Ollenhauerstraße vor dem Kreuzungsbereich noch Rotphase und der bahnparallele Radweg auf der Dottendorfer Seite noch Grünphase haben.
+4-1	349-354	Daher	_	
+4-2	355-362	starten	_	
+4-3	363-366	die	_	
+4-4	367-372	Autos	_	
+4-5	373-379	gleich	_	
+4-6	380-383	bei	_	
+4-7	384-391	Öffnung	_	
+4-8	392-395	der	_	
+4-9	396-404	Schranke	_	
+4-10	404-405	,	_	
+4-11	406-412	obwohl	_	
+4-12	413-416	die	*[6]	
+4-13	417-422	Ampel	*[6]	
+4-14	423-425	in	*[6]	
+4-15	426-429	der	*[6]	
+4-16	430-446	Ollenhauerstraße	*[6]	
+4-17	447-450	vor	*[6]	
+4-18	451-454	dem	*[6]	
+4-19	455-471	Kreuzungsbereich	*[6]	
+4-20	472-476	noch	_	
+4-21	477-485	Rotphase	_	
+4-22	486-489	und	_	
+4-23	490-493	der	*[7]	
+4-24	494-507	bahnparallele	*[7]	
+4-25	508-514	Radweg	*[7]	
+4-26	515-518	auf	*[7]	
+4-27	519-522	der	*[7]	
+4-28	523-535	Dottendorfer	*[7]	
+4-29	536-541	Seite	*[7]	
+4-30	542-546	noch	_	
+4-31	547-556	Grünphase	_	
+4-32	557-562	haben	_	
+4-33	562-563	.	_	

@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelschaltung für Autos
+1-1	0-14	Ampelschaltung	_	
+1-2	15-18	für	_	
+1-3	19-24	Autos	_	
+
+#Text=Die Ampel an der Kreuzung Friedrich-Breuer-Str./Rathausstr. stellt vor allem spät Abends/Nachts ein Problem dar.
+2-1	27-30	Die	_	
+2-2	31-36	Ampel	_	
+2-3	37-39	an	*[5]	
+2-4	40-43	der	*[5]	
+2-5	44-52	Kreuzung	*[5]	
+2-6	53-73	Friedrich-Breuer-Str	*[5]	
+2-7	73-74	.	*[5]	
+2-8	74-75	/	*[5]	
+2-9	75-85	Rathausstr	*[5]	
+2-10	85-86	.	_	
+2-11	87-93	stellt	_	
+2-12	94-97	vor	_	
+2-13	98-103	allem	_	
+2-14	104-108	spät	_	
+2-15	109-115	Abends	_	
+2-16	115-116	/	_	
+2-17	116-122	Nachts	_	
+2-18	123-126	ein	_	
+2-19	127-134	Problem	_	
+2-20	135-138	dar	_	
+2-21	138-139	.	_	
+
+#Text=Denn sobald nicht auch ein Auto auf meiner Route unterwegs ist, kann ich hier mit dem Rad stehen, bis die Sonne wieder aufgeht.
+3-1	140-144	Denn	_	
+3-2	145-151	sobald	_	
+3-3	152-157	nicht	_	
+3-4	158-162	auch	_	
+3-5	163-166	ein	_	
+3-6	167-171	Auto	_	
+3-7	172-175	auf	_	
+3-8	176-182	meiner	_	
+3-9	183-188	Route	_	
+3-10	189-198	unterwegs	_	
+3-11	199-202	ist	_	
+3-12	202-203	,	_	
+3-13	204-208	kann	_	
+3-14	209-212	ich	_	
+3-15	213-217	hier	_	
+3-16	218-221	mit	_	
+3-17	222-225	dem	_	
+3-18	226-229	Rad	_	
+3-19	230-236	stehen	_	
+3-20	236-237	,	_	
+3-21	238-241	bis	_	
+3-22	242-245	die	_	
+3-23	246-251	Sonne	_	
+3-24	252-258	wieder	_	
+3-25	259-266	aufgeht	_	
+3-26	266-267	.	_	
+
+#Text=Die Ampelschaltung funktioniert nur mit Autos oder wenn Fußgänger das Signal betätigen.
+4-1	268-271	Die	_	
+4-2	272-286	Ampelschaltung	_	
+4-3	287-299	funktioniert	_	
+4-4	300-303	nur	_	
+4-5	304-307	mit	_	
+4-6	308-313	Autos	_	
+4-7	314-318	oder	_	
+4-8	319-323	wenn	_	
+4-9	324-333	Fußgänger	_	
+4-10	334-337	das	_	
+4-11	338-344	Signal	_	
+4-12	345-354	betätigen	_	
+4-13	354-355	.	_	

@@ -1,0 +1,121 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg verbreitern!
+1-1	0-6	Radweg	_	
+1-2	7-18	verbreitern	_	
+1-3	18-19	!	_	
+
+#Text=Durch Veranstaltungen müssen sich oft Radfahrer und Fußgänger den schmalen Radweg am Rhein teilen, augenblicklich aufgrund der vorübergehenden Bebauung für die Weltklimakonferenz.
+2-1	22-27	Durch	_	
+2-2	28-43	Veranstaltungen	_	
+2-3	44-50	müssen	_	
+2-4	51-55	sich	_	
+2-5	56-59	oft	_	
+2-6	60-69	Radfahrer	_	
+2-7	70-73	und	_	
+2-8	74-83	Fußgänger	_	
+2-9	84-87	den	_	
+2-10	88-96	schmalen	_	
+2-11	97-103	Radweg	_	
+2-12	104-106	am	*[7]	
+2-13	107-112	Rhein	*[7]	
+2-14	113-119	teilen	_	
+2-15	119-120	,	_	
+2-16	121-135	augenblicklich	_	
+2-17	136-144	aufgrund	_	
+2-18	145-148	der	_	
+2-19	149-164	vorübergehenden	_	
+2-20	165-173	Bebauung	_	
+2-21	174-177	für	_	
+2-22	178-181	die	_	
+2-23	182-200	Weltklimakonferenz	_	
+2-24	200-201	.	_	
+
+#Text=Auf dem Radweg haben nebeneinander aber nur zwei Radfahrer Platz - und das auf einem der wichtigsten Radwege in Bonn.
+3-1	202-205	Auf	_	
+3-2	206-209	dem	_	
+3-3	210-216	Radweg	_	
+3-4	217-222	haben	_	
+3-5	223-236	nebeneinander	_	
+3-6	237-241	aber	_	
+3-7	242-245	nur	_	
+3-8	246-250	zwei	_	
+3-9	251-260	Radfahrer	_	
+3-10	261-266	Platz	_	
+3-11	267-268	-	_	
+3-12	269-272	und	_	
+3-13	273-276	das	_	
+3-14	277-280	auf	_	
+3-15	281-286	einem	_	
+3-16	287-290	der	_	
+3-17	291-302	wichtigsten	_	
+3-18	303-310	Radwege	_	
+3-19	311-313	in	*[8]	
+3-20	314-318	Bonn	*[8]	
+3-21	318-319	.	_	
+
+#Text=Teilweise ist auf dem gesamten Radweg längs des Rheins auch der Belag sehr schlecht, was gerade bei Gegen- oder Überholverkehr die Unfallgefahr erhöht.
+4-1	320-329	Teilweise	_	
+4-2	330-333	ist	_	
+4-3	334-337	auf	*[9]	
+4-4	338-341	dem	*[9]	
+4-5	342-350	gesamten	*[9]	
+4-6	351-357	Radweg	*[9]	
+4-7	358-363	längs	*[9]	
+4-8	364-367	des	*[9]	
+4-9	368-374	Rheins	*[9]	
+4-10	375-379	auch	_	
+4-11	380-383	der	_	
+4-12	384-389	Belag	_	
+4-13	390-394	sehr	_	
+4-14	395-403	schlecht	_	
+4-15	403-404	,	_	
+4-16	405-408	was	_	
+4-17	409-415	gerade	_	
+4-18	416-419	bei	_	
+4-19	420-425	Gegen	_	
+4-20	425-426	-	_	
+4-21	427-431	oder	_	
+4-22	432-446	Überholverkehr	_	
+4-23	447-450	die	_	
+4-24	451-463	Unfallgefahr	_	
+4-25	464-470	erhöht	_	
+4-26	470-471	.	_	
+
+#Text=Die Stadt Bonn sollte diesen Rad daher unbedingt besser ausbauen oder für - ganzjährig! - zu befahrende Alternativen sorgen!
+5-1	472-475	Die	_	
+5-2	476-481	Stadt	_	
+5-3	482-486	Bonn	*	
+5-4	487-493	sollte	_	
+5-5	494-500	diesen	_	
+5-6	501-504	Rad	_	
+5-7	505-510	daher	_	
+5-8	511-520	unbedingt	_	
+5-9	521-527	besser	_	
+5-10	528-536	ausbauen	_	
+5-11	537-541	oder	_	
+5-12	542-545	für	_	
+5-13	546-547	-	_	
+5-14	548-558	ganzjährig	_	
+5-15	558-559	!	_	
+5-16	560-561	-	_	
+5-17	562-564	zu	_	
+5-18	565-575	befahrende	_	
+5-19	576-588	Alternativen	_	
+5-20	589-595	sorgen	_	
+5-21	595-596	!	_	
+
+#Text=Eigentlich bräuchte es längs beider Rheinseiten eines Radschnellweges.
+6-1	597-607	Eigentlich	_	
+6-2	608-616	bräuchte	_	
+6-3	617-619	es	_	
+6-4	620-625	längs	*[10]	
+6-5	626-632	beider	*[10]	
+6-6	633-644	Rheinseiten	*[10]	
+6-7	645-650	eines	_	
+6-8	651-666	Radschnellweges	_	
+6-9	666-667	.	_	

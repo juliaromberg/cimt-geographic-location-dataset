@@ -1,0 +1,251 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstrecke von Kessenich nach Bad Godesberg
+1-1	0-14	Fahrradstrecke	*[11]	
+1-2	15-18	von	*[11]	
+1-3	19-28	Kessenich	*[11]	
+1-4	29-33	nach	*[11]	
+1-5	34-37	Bad	*[11]	
+1-6	38-47	Godesberg	*[11]	
+
+#Text=Mein Verbesserungswunsch für meinen täglichen Weg zur Arbeit:
+2-1	50-54	Mein	_	
+2-2	55-74	Verbesserungswunsch	_	
+2-3	75-78	für	_	
+2-4	79-85	meinen	_	
+2-5	86-95	täglichen	_	
+2-6	96-99	Weg	_	
+2-7	100-103	zur	_	
+2-8	104-110	Arbeit	_	
+2-9	110-111	:	_	
+
+#Text=Reuterstraße: vernünftige Trennung zwischen Fußgänger, Radfahrer und Autofahrer; vernünftige Lösung für die Mülltonnen, die mitten auf dem sehr schmalen Bürgersteig stehen; deutliche Markierung des Fahrradwegs für alle Autofahrer, die dort einmünden (Tankstelle, Seitenstraßen) bzw. abbiegen.
+3-1	112-124	Reuterstraße	*	
+3-2	124-125	:	_	
+3-3	126-137	vernünftige	_	
+3-4	138-146	Trennung	_	
+3-5	147-155	zwischen	_	
+3-6	156-165	Fußgänger	_	
+3-7	165-166	,	_	
+3-8	167-176	Radfahrer	_	
+3-9	177-180	und	_	
+3-10	181-191	Autofahrer	_	
+3-11	191-192	;	_	
+3-12	193-204	vernünftige	_	
+3-13	205-211	Lösung	_	
+3-14	212-215	für	_	
+3-15	216-219	die	_	
+3-16	220-230	Mülltonnen	_	
+3-17	230-231	,	_	
+3-18	232-235	die	_	
+3-19	236-242	mitten	_	
+3-20	243-246	auf	_	
+3-21	247-250	dem	_	
+3-22	251-255	sehr	_	
+3-23	256-264	schmalen	_	
+3-24	265-276	Bürgersteig	_	
+3-25	277-283	stehen	_	
+3-26	283-284	;	_	
+3-27	285-294	deutliche	_	
+3-28	295-305	Markierung	_	
+3-29	306-309	des	_	
+3-30	310-321	Fahrradwegs	_	
+3-31	322-325	für	_	
+3-32	326-330	alle	_	
+3-33	331-341	Autofahrer	_	
+3-34	341-342	,	_	
+3-35	343-346	die	_	
+3-36	347-351	dort	_	
+3-37	352-361	einmünden	_	
+3-38	362-363	(	_	
+3-39	363-373	Tankstelle	_	
+3-40	373-374	,	_	
+3-41	375-388	Seitenstraßen	_	
+3-42	388-389	)	_	
+3-43	390-393	bzw	_	
+3-44	393-394	.	_	
+3-45	395-403	abbiegen	_	
+3-46	403-404	.	_	
+
+#Text=Reuterbrücke: auf beiden Seiten ist der Fahhrad-Fußweg in einem sehr schlechten Zustand, viele Löcher, Absenkungen bzw. Hubbel.
+4-1	405-417	Reuterbrücke	*	
+4-2	417-418	:	_	
+4-3	419-422	auf	_	
+4-4	423-429	beiden	_	
+4-5	430-436	Seiten	_	
+4-6	437-440	ist	_	
+4-7	441-444	der	_	
+4-8	445-459	Fahhrad-Fußweg	_	
+4-9	460-462	in	_	
+4-10	463-468	einem	_	
+4-11	469-473	sehr	_	
+4-12	474-484	schlechten	_	
+4-13	485-492	Zustand	_	
+4-14	492-493	,	_	
+4-15	494-499	viele	_	
+4-16	500-506	Löcher	_	
+4-17	506-507	,	_	
+4-18	508-519	Absenkungen	_	
+4-19	520-523	bzw	_	
+4-20	523-524	.	_	
+4-21	525-531	Hubbel	_	
+4-22	531-532	.	_	
+
+#Text=Kanzlerplatz: die Ampelsituation ist für Fahrradfahrer eine Zumutung.
+5-1	533-545	Kanzlerplatz	*	
+5-2	545-546	:	_	
+5-3	547-550	die	_	
+5-4	551-565	Ampelsituation	_	
+5-5	566-569	ist	_	
+5-6	570-573	für	_	
+5-7	574-587	Fahrradfahrer	_	
+5-8	588-592	eine	_	
+5-9	593-601	Zumutung	_	
+5-10	601-602	.	_	
+
+#Text=Teilweise werden nur zwei Ampeln auf grün geschaltet, dann muss wieder lange auf eine Grünphase zum Überqueren aller vier Ampeln gewartet werden.
+6-1	603-612	Teilweise	_	
+6-2	613-619	werden	_	
+6-3	620-623	nur	_	
+6-4	624-628	zwei	_	
+6-5	629-635	Ampeln	_	
+6-6	636-639	auf	_	
+6-7	640-644	grün	_	
+6-8	645-655	geschaltet	_	
+6-9	655-656	,	_	
+6-10	657-661	dann	_	
+6-11	662-666	muss	_	
+6-12	667-673	wieder	_	
+6-13	674-679	lange	_	
+6-14	680-683	auf	_	
+6-15	684-688	eine	_	
+6-16	689-698	Grünphase	_	
+6-17	699-702	zum	_	
+6-18	703-713	Überqueren	_	
+6-19	714-719	aller	_	
+6-20	720-724	vier	_	
+6-21	725-731	Ampeln	_	
+6-22	732-740	gewartet	_	
+6-23	741-747	werden	_	
+6-24	747-748	.	_	
+
+#Text=Rheinaue: es gibt keinen vernünftigen Fahrradweg um schnell von Bonn nach Bad Godesberg zu fahren.
+7-1	749-757	Rheinaue	*	
+7-2	757-758	:	_	
+7-3	759-761	es	_	
+7-4	762-766	gibt	_	
+7-5	767-773	keinen	_	
+7-6	774-786	vernünftigen	_	
+7-7	787-797	Fahrradweg	_	
+7-8	798-800	um	_	
+7-9	801-808	schnell	_	
+7-10	809-812	von	*[12]	
+7-11	813-817	Bonn	*[12]	
+7-12	818-822	nach	*[12]	
+7-13	823-826	Bad	*[12]	
+7-14	827-836	Godesberg	*[12]	
+7-15	837-839	zu	_	
+7-16	840-846	fahren	_	
+7-17	846-847	.	_	
+
+#Text=Entweder nimmt man den unteren Weg am Rheinufer, der sehr schmal ist, durch Wurzeln eine Holperstrecke ist und von Joggern/Fußgängern benutzt wird oder man benutzt den breiteren oberen Weg, da der Fahrradweg oben ebenfalls zu schmal und zu holperig ist.
+8-1	848-856	Entweder	_	
+8-2	857-862	nimmt	_	
+8-3	863-866	man	_	
+8-4	867-870	den	*[13]	
+8-5	871-878	unteren	*[13]	
+8-6	879-882	Weg	*[13]	
+8-7	883-885	am	*[13]	
+8-8	886-895	Rheinufer	*[13]	
+8-9	895-896	,	_	
+8-10	897-900	der	_	
+8-11	901-905	sehr	_	
+8-12	906-912	schmal	_	
+8-13	913-916	ist	_	
+8-14	916-917	,	_	
+8-15	918-923	durch	_	
+8-16	924-931	Wurzeln	_	
+8-17	932-936	eine	_	
+8-18	937-950	Holperstrecke	_	
+8-19	951-954	ist	_	
+8-20	955-958	und	_	
+8-21	959-962	von	_	
+8-22	963-970	Joggern	_	
+8-23	970-971	/	_	
+8-24	971-981	Fußgängern	_	
+8-25	982-989	benutzt	_	
+8-26	990-994	wird	_	
+8-27	995-999	oder	_	
+8-28	1000-1003	man	_	
+8-29	1004-1011	benutzt	_	
+8-30	1012-1015	den	_	
+8-31	1016-1025	breiteren	_	
+8-32	1026-1032	oberen	_	
+8-33	1033-1036	Weg	_	
+8-34	1036-1037	,	_	
+8-35	1038-1040	da	_	
+8-36	1041-1044	der	_	
+8-37	1045-1055	Fahrradweg	_	
+8-38	1056-1060	oben	_	
+8-39	1061-1070	ebenfalls	_	
+8-40	1071-1073	zu	_	
+8-41	1074-1080	schmal	_	
+8-42	1081-1084	und	_	
+8-43	1085-1087	zu	_	
+8-44	1088-1096	holperig	_	
+8-45	1097-1100	ist	_	
+8-46	1100-1101	.	_	
+
+#Text=Eine vernünftige Beleuchtung wäre angebracht.
+9-1	1102-1106	Eine	_	
+9-2	1107-1118	vernünftige	_	
+9-3	1119-1130	Beleuchtung	_	
+9-4	1131-1135	wäre	_	
+9-5	1136-1146	angebracht	_	
+9-6	1146-1147	.	_	
+
+#Text=Fahrradweg an der Bahn entlang: durch die unverständliche Ampelschaltung (rot, wenn Schranken schließen bzw. geschlossen sind!!) ist dieser Weg nicht ohne mehrmals Halten (grüne Welle für Radfahrer?) keine Alternative.
+10-1	1148-1158	Fahrradweg	_	
+10-2	1159-1161	an	_	
+10-3	1162-1165	der	_	
+10-4	1166-1170	Bahn	_	
+10-5	1171-1178	entlang	_	
+10-6	1178-1179	:	_	
+10-7	1180-1185	durch	_	
+10-8	1186-1189	die	_	
+10-9	1190-1205	unverständliche	_	
+10-10	1206-1220	Ampelschaltung	_	
+10-11	1221-1222	(	_	
+10-12	1222-1225	rot	_	
+10-13	1225-1226	,	_	
+10-14	1227-1231	wenn	_	
+10-15	1232-1241	Schranken	_	
+10-16	1242-1251	schließen	_	
+10-17	1252-1255	bzw	_	
+10-18	1255-1256	.	_	
+10-19	1257-1268	geschlossen	_	
+10-20	1269-1273	sind	_	
+10-21	1273-1274	!	_	
+10-22	1274-1275	!	_	
+10-23	1275-1276	)	_	
+10-24	1277-1280	ist	_	
+10-25	1281-1287	dieser	_	
+10-26	1288-1291	Weg	_	
+10-27	1292-1297	nicht	_	
+10-28	1298-1302	ohne	_	
+10-29	1303-1311	mehrmals	_	
+10-30	1312-1318	Halten	_	
+10-31	1319-1320	(	_	
+10-32	1320-1325	grüne	_	
+10-33	1326-1331	Welle	_	
+10-34	1332-1335	für	_	
+10-35	1336-1345	Radfahrer	_	
+10-36	1345-1346	?	_	
+10-37	1346-1347	)	_	
+10-38	1348-1353	keine	_	
+10-39	1354-1365	Alternative	_	
+10-40	1365-1366	.	_	

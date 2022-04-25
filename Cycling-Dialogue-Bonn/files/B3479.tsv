@@ -1,0 +1,117 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zu schmale, zu kleine Ampelinseln
+1-1	0-2	Zu	_	
+1-2	3-10	schmale	_	
+1-3	10-11	,	_	
+1-4	12-14	zu	_	
+1-5	15-21	kleine	_	
+1-6	22-33	Ampelinseln	_	
+
+#Text=Die Kreuzung Sankt Augustiner Str./Königswinterer Str. ist nicht nur von Auto- sondern auch von Radfahrern stark frequentiert.
+2-1	36-39	Die	*[7]	
+2-2	40-48	Kreuzung	*[7]	
+2-3	49-54	Sankt	*[7]	
+2-4	55-65	Augustiner	*[7]	
+2-5	66-69	Str	*[7]	
+2-6	69-70	.	*[7]	
+2-7	70-71	/	*[7]	
+2-8	71-85	Königswinterer	*[7]	
+2-9	86-89	Str	*[7]	
+2-10	89-90	.	*[7]	
+2-11	91-94	ist	_	
+2-12	95-100	nicht	_	
+2-13	101-104	nur	_	
+2-14	105-108	von	_	
+2-15	109-113	Auto	_	
+2-16	113-114	-	_	
+2-17	115-122	sondern	_	
+2-18	123-127	auch	_	
+2-19	128-131	von	_	
+2-20	132-142	Radfahrern	_	
+2-21	143-148	stark	_	
+2-22	149-161	frequentiert	_	
+2-23	161-162	.	_	
+
+#Text=In Fahrtrichtung Innenstadt sind die Ampelinseln viel zu klein und es passen nur wenige Radfahrer neben/hintereinander, ohne dass man halb auf dem Zebrastreifen steht.
+3-1	163-165	In	*[8]	
+3-2	166-179	Fahrtrichtung	*[8]	
+3-3	180-190	Innenstadt	*[8]	
+3-4	191-195	sind	_	
+3-5	196-199	die	_	
+3-6	200-211	Ampelinseln	_	
+3-7	212-216	viel	_	
+3-8	217-219	zu	_	
+3-9	220-225	klein	_	
+3-10	226-229	und	_	
+3-11	230-232	es	_	
+3-12	233-239	passen	_	
+3-13	240-243	nur	_	
+3-14	244-250	wenige	_	
+3-15	251-260	Radfahrer	_	
+3-16	261-266	neben	_	
+3-17	266-267	/	_	
+3-18	267-281	hintereinander	_	
+3-19	281-282	,	_	
+3-20	283-287	ohne	_	
+3-21	288-292	dass	_	
+3-22	293-296	man	_	
+3-23	297-301	halb	_	
+3-24	302-305	auf	_	
+3-25	306-309	dem	_	
+3-26	310-323	Zebrastreifen	_	
+3-27	324-329	steht	_	
+3-28	329-330	.	_	
+
+#Text=Dies ist besonders der Fall mit Gespann, d.h. ein Fahrradanhänger steht meist halb auf der Straße.
+4-1	331-335	Dies	_	
+4-2	336-339	ist	_	
+4-3	340-349	besonders	_	
+4-4	350-353	der	_	
+4-5	354-358	Fall	_	
+4-6	359-362	mit	_	
+4-7	363-370	Gespann	_	
+4-8	370-371	,	_	
+4-9	372-375	d.h	_	
+4-10	375-376	.	_	
+4-11	377-380	ein	_	
+4-12	381-396	Fahrradanhänger	_	
+4-13	397-402	steht	_	
+4-14	403-408	meist	_	
+4-15	409-413	halb	_	
+4-16	414-417	auf	_	
+4-17	418-421	der	_	
+4-18	422-428	Straße	_	
+4-19	428-429	.	_	
+
+#Text=Zudem sind die Ampelüberquerungen viel zu schmal.
+5-1	430-435	Zudem	_	
+5-2	436-440	sind	_	
+5-3	441-444	die	_	
+5-4	445-463	Ampelüberquerungen	_	
+5-5	464-468	viel	_	
+5-6	469-471	zu	_	
+5-7	472-478	schmal	_	
+5-8	478-479	.	_	
+
+#Text=Mit Anhänger läuft man oft Gefahr, dass rechts oder links den hohen Bordstein touchiert.
+6-1	480-483	Mit	_	
+6-2	484-492	Anhänger	_	
+6-3	493-498	läuft	_	
+6-4	499-502	man	_	
+6-5	503-506	oft	_	
+6-6	507-513	Gefahr	_	
+6-7	513-514	,	_	
+6-8	515-519	dass	_	
+6-9	520-526	rechts	_	
+6-10	527-531	oder	_	
+6-11	532-537	links	_	
+6-12	538-541	den	_	
+6-13	542-547	hohen	_	
+6-14	548-557	Bordstein	_	
+6-15	558-567	touchiert	_	
+6-16	567-568	.	_	

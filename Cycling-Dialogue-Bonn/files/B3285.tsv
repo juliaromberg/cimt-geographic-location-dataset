@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schutzstreifen unbrauchbar
+1-1	0-14	Schutzstreifen	_	
+1-2	15-26	unbrauchbar	_	
+
+#Text=Hier ist der Fahrrad-Schutzstreifen zu schmal, so dass man sich öffnenden Autotüren nicht ausweichen kann, wenn man den Schutzstreifen benutzt.
+2-1	29-33	Hier	_	
+2-2	34-37	ist	_	
+2-3	38-41	der	_	
+2-4	42-64	Fahrrad-Schutzstreifen	_	
+2-5	65-67	zu	_	
+2-6	68-74	schmal	_	
+2-7	74-75	,	_	
+2-8	76-78	so	_	
+2-9	79-83	dass	_	
+2-10	84-87	man	_	
+2-11	88-92	sich	_	
+2-12	93-102	öffnenden	_	
+2-13	103-112	Autotüren	_	
+2-14	113-118	nicht	_	
+2-15	119-129	ausweichen	_	
+2-16	130-134	kann	_	
+2-17	134-135	,	_	
+2-18	136-140	wenn	_	
+2-19	141-144	man	_	
+2-20	145-148	den	_	
+2-21	149-163	Schutzstreifen	_	
+2-22	164-171	benutzt	_	
+2-23	171-172	.	_	
+
+#Text=Der Schutzstreifen sollte entweder vernünftig breit sein oder ganz entfernt werden.
+3-1	173-176	Der	_	
+3-2	177-191	Schutzstreifen	_	
+3-3	192-198	sollte	_	
+3-4	199-207	entweder	_	
+3-5	208-218	vernünftig	_	
+3-6	219-224	breit	_	
+3-7	225-229	sein	_	
+3-8	230-234	oder	_	
+3-9	235-239	ganz	_	
+3-10	240-248	entfernt	_	
+3-11	249-255	werden	_	
+3-12	255-256	.	_	

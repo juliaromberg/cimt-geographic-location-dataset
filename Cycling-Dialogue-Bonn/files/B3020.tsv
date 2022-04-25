@@ -1,0 +1,136 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hier wird im Herbst nie das Laub weggemacht.
+1-1	0-4	Hier	_	
+1-2	5-9	wird	_	
+1-3	10-12	im	_	
+1-4	13-19	Herbst	_	
+1-5	20-23	nie	_	
+1-6	24-27	das	_	
+1-7	28-32	Laub	_	
+1-8	33-43	weggemacht	_	
+1-9	43-44	.	_	
+
+#Text=Es bleibt so lange liegen, bis sich ein schmieriger, glitschiger Brei bildet, der dann langsam verrottet.
+2-1	45-47	Es	_	
+2-2	48-54	bleibt	_	
+2-3	55-57	so	_	
+2-4	58-63	lange	_	
+2-5	64-70	liegen	_	
+2-6	70-71	,	_	
+2-7	72-75	bis	_	
+2-8	76-80	sich	_	
+2-9	81-84	ein	_	
+2-10	85-96	schmieriger	_	
+2-11	96-97	,	_	
+2-12	98-109	glitschiger	_	
+2-13	110-114	Brei	_	
+2-14	115-121	bildet	_	
+2-15	121-122	,	_	
+2-16	123-126	der	_	
+2-17	127-131	dann	_	
+2-18	132-139	langsam	_	
+2-19	140-149	verrottet	_	
+2-20	149-150	.	_	
+
+#Text=Die Ecke ist sowieso viel zu eng, da könnten einige Parkplätze verschwinden, dann wäre schon mal mehr Platz.
+3-1	153-156	Die	_	
+3-2	157-161	Ecke	_	
+3-3	162-165	ist	_	
+3-4	166-173	sowieso	_	
+3-5	174-178	viel	_	
+3-6	179-181	zu	_	
+3-7	182-185	eng	_	
+3-8	185-186	,	_	
+3-9	187-189	da	_	
+3-10	190-197	könnten	_	
+3-11	198-204	einige	_	
+3-12	205-215	Parkplätze	_	
+3-13	216-228	verschwinden	_	
+3-14	228-229	,	_	
+3-15	230-234	dann	_	
+3-16	235-239	wäre	_	
+3-17	240-245	schon	_	
+3-18	246-249	mal	_	
+3-19	250-254	mehr	_	
+3-20	255-260	Platz	_	
+3-21	260-261	.	_	
+
+#Text=Der Wiesenweg sollte auch vorfahrtsberechtigt sein (Fahrradstraße?), denn der ist eine ganz wichtige und viel befahrene Radverbindung.
+4-1	262-265	Der	*[7]	
+4-2	266-275	Wiesenweg	*[7]	
+4-3	276-282	sollte	_	
+4-4	283-287	auch	_	
+4-5	288-307	vorfahrtsberechtigt	_	
+4-6	308-312	sein	_	
+4-7	313-314	(	_	
+4-8	314-327	Fahrradstraße	_	
+4-9	327-328	?	_	
+4-10	328-329	)	_	
+4-11	329-330	,	_	
+4-12	331-335	denn	_	
+4-13	336-339	der	_	
+4-14	340-343	ist	_	
+4-15	344-348	eine	_	
+4-16	349-353	ganz	_	
+4-17	354-362	wichtige	_	
+4-18	363-366	und	_	
+4-19	367-371	viel	_	
+4-20	372-381	befahrene	_	
+4-21	382-395	Radverbindung	_	
+4-22	395-396	.	_	
+
+#Text=Dazu kommt der schlechte Fahrbahnbelag, die bröckelige Gosse, in die man reinrutschen kann und die zwei Poller, die man auch zu einem vereinigen könnte, so dass man vernünftig dran vorbeikommt.
+5-1	397-401	Dazu	_	
+5-2	402-407	kommt	_	
+5-3	408-411	der	_	
+5-4	412-421	schlechte	_	
+5-5	422-435	Fahrbahnbelag	_	
+5-6	435-436	,	_	
+5-7	437-440	die	_	
+5-8	441-451	bröckelige	_	
+5-9	452-457	Gosse	_	
+5-10	457-458	,	_	
+5-11	459-461	in	_	
+5-12	462-465	die	_	
+5-13	466-469	man	_	
+5-14	470-482	reinrutschen	_	
+5-15	483-487	kann	_	
+5-16	488-491	und	_	
+5-17	492-495	die	_	
+5-18	496-500	zwei	_	
+5-19	501-507	Poller	_	
+5-20	507-508	,	_	
+5-21	509-512	die	_	
+5-22	513-516	man	_	
+5-23	517-521	auch	_	
+5-24	522-524	zu	_	
+5-25	525-530	einem	_	
+5-26	531-541	vereinigen	_	
+5-27	542-548	könnte	_	
+5-28	548-549	,	_	
+5-29	550-552	so	_	
+5-30	553-557	dass	_	
+5-31	558-561	man	_	
+5-32	562-572	vernünftig	_	
+5-33	573-577	dran	_	
+5-34	578-589	vorbeikommt	_	
+5-35	589-590	.	_	
+
+#Text=Aber zunächst mal alle zwei Tage das Laub weg im Herbst.
+6-1	591-595	Aber	_	
+6-2	596-604	zunächst	_	
+6-3	605-608	mal	_	
+6-4	609-613	alle	_	
+6-5	614-618	zwei	_	
+6-6	619-623	Tage	_	
+6-7	624-627	das	_	
+6-8	628-632	Laub	_	
+6-9	633-636	weg	_	
+6-10	637-639	im	_	
+6-11	640-646	Herbst	_	
+6-12	646-647	.	_	

@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkende Autos
+1-1	0-8	Parkende	_	
+1-2	9-14	Autos	_	
+
+#Text=Hier parken Autos den ganzen Gehweg zu und sehr nah am Radstreifen, so dass die Fahrradfahrer durch die Autotüren gefährdet sind.
+2-1	17-21	Hier	_	
+2-2	22-28	parken	_	
+2-3	29-34	Autos	_	
+2-4	35-38	den	_	
+2-5	39-45	ganzen	_	
+2-6	46-52	Gehweg	_	
+2-7	53-55	zu	_	
+2-8	56-59	und	_	
+2-9	60-64	sehr	_	
+2-10	65-68	nah	_	
+2-11	69-71	am	_	
+2-12	72-83	Radstreifen	_	
+2-13	83-84	,	_	
+2-14	85-87	so	_	
+2-15	88-92	dass	_	
+2-16	93-96	die	_	
+2-17	97-110	Fahrradfahrer	_	
+2-18	111-116	durch	_	
+2-19	117-120	die	_	
+2-20	121-130	Autotüren	_	
+2-21	131-140	gefährdet	_	
+2-22	141-145	sind	_	
+2-23	145-146	.	_	
+
+#Text=Manche Autos ragen auch auf den Radstreifen hinaus.
+3-1	147-153	Manche	_	
+3-2	154-159	Autos	_	
+3-3	160-165	ragen	_	
+3-4	166-170	auch	_	
+3-5	171-174	auf	_	
+3-6	175-178	den	_	
+3-7	179-190	Radstreifen	_	
+3-8	191-197	hinaus	_	
+3-9	197-198	.	_	

@@ -1,0 +1,179 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=nicht nutzbarer Radstreifen
+1-1	0-5	nicht	_	
+1-2	6-15	nutzbarer	_	
+1-3	16-27	Radstreifen	_	
+
+#Text=Der Radstreifen nördl. der Königswinterer Straße wird zu jeder Tages- und Nachtzeit von Autos beparkt.
+2-1	30-33	Der	*[9]	
+2-2	34-45	Radstreifen	*[9]	
+2-3	46-51	nördl	*[9]	
+2-4	51-52	.	*[9]	
+2-5	53-56	der	*[9]	
+2-6	57-71	Königswinterer	*[9]	
+2-7	72-78	Straße	*[9]	
+2-8	79-83	wird	_	
+2-9	84-86	zu	_	
+2-10	87-92	jeder	_	
+2-11	93-98	Tages	_	
+2-12	98-99	-	_	
+2-13	100-103	und	_	
+2-14	104-113	Nachtzeit	_	
+2-15	114-117	von	_	
+2-16	118-123	Autos	_	
+2-17	124-131	beparkt	_	
+2-18	131-132	.	_	
+
+#Text=Es ist egal, wann man dort vorbei kommt: ein Auto steht immer komplett auf dem Weg und mind. 10 Fahrzeuge parken auf dem ohnehin schmalen Gehweg und nutzen den Radstreifen teilweise mit.
+3-1	133-135	Es	_	
+3-2	136-139	ist	_	
+3-3	140-144	egal	_	
+3-4	144-145	,	_	
+3-5	146-150	wann	_	
+3-6	151-154	man	_	
+3-7	155-159	dort	_	
+3-8	160-166	vorbei	_	
+3-9	167-172	kommt	_	
+3-10	172-173	:	_	
+3-11	174-177	ein	_	
+3-12	178-182	Auto	_	
+3-13	183-188	steht	_	
+3-14	189-194	immer	_	
+3-15	195-203	komplett	_	
+3-16	204-207	auf	_	
+3-17	208-211	dem	_	
+3-18	212-215	Weg	_	
+3-19	216-219	und	_	
+3-20	220-224	mind	_	
+3-21	224-225	.	_	
+3-22	226-228	10	_	
+3-23	229-238	Fahrzeuge	_	
+3-24	239-245	parken	_	
+3-25	246-249	auf	_	
+3-26	250-253	dem	_	
+3-27	254-261	ohnehin	_	
+3-28	262-270	schmalen	_	
+3-29	271-277	Gehweg	_	
+3-30	278-281	und	_	
+3-31	282-288	nutzen	_	
+3-32	289-292	den	_	
+3-33	293-304	Radstreifen	_	
+3-34	305-314	teilweise	_	
+3-35	315-318	mit	_	
+3-36	318-319	.	_	
+
+#Text=Radfahrer sind zur Eigensicherung (z.B. plötzlich öffnende Türen) gezwungen, auf der Fahrbahn zu fahren.
+4-1	320-329	Radfahrer	_	
+4-2	330-334	sind	_	
+4-3	335-338	zur	_	
+4-4	339-353	Eigensicherung	_	
+4-5	354-355	(	_	
+4-6	355-358	z.B	_	
+4-7	358-359	.	_	
+4-8	360-369	plötzlich	_	
+4-9	370-378	öffnende	_	
+4-10	379-384	Türen	_	
+4-11	384-385	)	_	
+4-12	386-395	gezwungen	_	
+4-13	395-396	,	_	
+4-14	397-400	auf	_	
+4-15	401-404	der	_	
+4-16	405-413	Fahrbahn	_	
+4-17	414-416	zu	_	
+4-18	417-423	fahren	_	
+4-19	423-424	.	_	
+
+#Text=Dies findet leider nicht bei allen motorisierten Fahrzeuglenkern Zustimmung und führt schon mal zu brenzligen Situationen durch zu geringen Abstand beim Überholen.
+5-1	425-429	Dies	_	
+5-2	430-436	findet	_	
+5-3	437-443	leider	_	
+5-4	444-449	nicht	_	
+5-5	450-453	bei	_	
+5-6	454-459	allen	_	
+5-7	460-473	motorisierten	_	
+5-8	474-489	Fahrzeuglenkern	_	
+5-9	490-500	Zustimmung	_	
+5-10	501-504	und	_	
+5-11	505-510	führt	_	
+5-12	511-516	schon	_	
+5-13	517-520	mal	_	
+5-14	521-523	zu	_	
+5-15	524-534	brenzligen	_	
+5-16	535-546	Situationen	_	
+5-17	547-552	durch	_	
+5-18	553-555	zu	_	
+5-19	556-564	geringen	_	
+5-20	565-572	Abstand	_	
+5-21	573-577	beim	_	
+5-22	578-587	Überholen	_	
+5-23	587-588	.	_	
+
+#Text=Hier sollte die Situation entweder durch ein Halteverbot entschärft werden, welches auch häufig kontrolliert wird.
+6-1	589-593	Hier	_	
+6-2	594-600	sollte	_	
+6-3	601-604	die	_	
+6-4	605-614	Situation	_	
+6-5	615-623	entweder	_	
+6-6	624-629	durch	_	
+6-7	630-633	ein	_	
+6-8	634-645	Halteverbot	_	
+6-9	646-656	entschärft	_	
+6-10	657-663	werden	_	
+6-11	663-664	,	_	
+6-12	665-672	welches	_	
+6-13	673-677	auch	_	
+6-14	678-684	häufig	_	
+6-15	685-697	kontrolliert	_	
+6-16	698-702	wird	_	
+6-17	702-703	.	_	
+
+#Text=Wenn beide Maßnahmen nicht dauerhaft durchgehalten werden, sollte der Pseudo-Radstreifen an dieser Stelle aufgehoben werden.
+7-1	704-708	Wenn	_	
+7-2	709-714	beide	_	
+7-3	715-724	Maßnahmen	_	
+7-4	725-730	nicht	_	
+7-5	731-740	dauerhaft	_	
+7-6	741-754	durchgehalten	_	
+7-7	755-761	werden	_	
+7-8	761-762	,	_	
+7-9	763-769	sollte	_	
+7-10	770-773	der	_	
+7-11	774-792	Pseudo-Radstreifen	_	
+7-12	793-795	an	_	
+7-13	796-802	dieser	_	
+7-14	803-809	Stelle	_	
+7-15	810-820	aufgehoben	_	
+7-16	821-827	werden	_	
+7-17	827-828	.	_	
+
+#Text=Dann ist das Fahren auf der Fahrbahn eindeutig und führt nicht zu Missverständnissen der Autofahrer, die Radfahrer von der eigentlichen Pkw-Fahrbahn drängen wollen.
+8-1	829-833	Dann	_	
+8-2	834-837	ist	_	
+8-3	838-841	das	_	
+8-4	842-848	Fahren	_	
+8-5	849-852	auf	_	
+8-6	853-856	der	_	
+8-7	857-865	Fahrbahn	_	
+8-8	866-875	eindeutig	_	
+8-9	876-879	und	_	
+8-10	880-885	führt	_	
+8-11	886-891	nicht	_	
+8-12	892-894	zu	_	
+8-13	895-913	Missverständnissen	_	
+8-14	914-917	der	_	
+8-15	918-928	Autofahrer	_	
+8-16	928-929	,	_	
+8-17	930-933	die	_	
+8-18	934-943	Radfahrer	_	
+8-19	944-947	von	_	
+8-20	948-951	der	_	
+8-21	952-964	eigentlichen	_	
+8-22	965-977	Pkw-Fahrbahn	_	
+8-23	978-985	drängen	_	
+8-24	986-992	wollen	_	
+8-25	992-993	.	_	

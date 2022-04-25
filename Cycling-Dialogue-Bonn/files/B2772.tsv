@@ -1,0 +1,271 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreisel vorziehen geht, aber Unterführung nicht?
+1-1	0-7	Kreisel	_	
+1-2	8-17	vorziehen	_	
+1-3	18-22	geht	_	
+1-4	22-23	,	_	
+1-5	24-28	aber	_	
+1-6	29-41	Unterführung	_	
+1-7	42-47	nicht	_	
+1-8	47-48	?	_	
+
+#Text=Bei der Sanierung der Viktoriabrücke wurde vorher keine sinnvolle Alternative Route für Radfahrer geschaffen.
+2-1	51-54	Bei	_	
+2-2	55-58	der	_	
+2-3	59-68	Sanierung	_	
+2-4	69-72	der	_	
+2-5	73-87	Viktoriabrücke	*	
+2-6	88-93	wurde	_	
+2-7	94-100	vorher	_	
+2-8	101-106	keine	_	
+2-9	107-116	sinnvolle	_	
+2-10	117-128	Alternative	_	
+2-11	129-134	Route	_	
+2-12	135-138	für	_	
+2-13	139-148	Radfahrer	_	
+2-14	149-159	geschaffen	_	
+2-15	159-160	.	_	
+
+#Text=Irgendwann wurde dann die Unterführung in der Nähe, die aber wohl eine Treppe enthält, gereinigt.
+3-1	161-171	Irgendwann	_	
+3-2	172-177	wurde	_	
+3-3	178-182	dann	_	
+3-4	183-186	die	_	
+3-5	187-199	Unterführung	_	
+3-6	200-202	in	_	
+3-7	203-206	der	_	
+3-8	207-211	Nähe	_	
+3-9	211-212	,	_	
+3-10	213-216	die	_	
+3-11	217-221	aber	_	
+3-12	222-226	wohl	_	
+3-13	227-231	eine	_	
+3-14	232-238	Treppe	_	
+3-15	239-246	enthält	_	
+3-16	246-247	,	_	
+3-17	248-257	gereinigt	_	
+3-18	257-258	.	_	
+
+#Text=Das hilft aber auch nicht wirklich viel.
+4-1	259-262	Das	_	
+4-2	263-268	hilft	_	
+4-3	269-273	aber	_	
+4-4	274-278	auch	_	
+4-5	279-284	nicht	_	
+4-6	285-293	wirklich	_	
+4-7	294-298	viel	_	
+4-8	298-299	.	_	
+
+#Text=Diese Unterführung soll ausgebaut werden, irgendwann.
+5-1	300-305	Diese	_	
+5-2	306-318	Unterführung	_	
+5-3	319-323	soll	_	
+5-4	324-333	ausgebaut	_	
+5-5	334-340	werden	_	
+5-6	340-341	,	_	
+5-7	342-352	irgendwann	_	
+5-8	352-353	.	_	
+
+#Text=Über einen [Artikel im General Anzeiger Bonn](http://www.general-anzeiger-bonn.de/bonn/stadt-bonn/Neue-Viktoriabr%C3%BCcke-r%C3%BCckt-n%C3%A4her-article1738840.html) bin ich darauf gestoßen, dass im Rahmen der Bauarbeiten am HBF dieser Kreisel vorgezogen worden ist.
+6-1	354-358	Über	_	
+6-2	359-364	einen	_	
+6-3	365-366	[	_	
+6-4	366-373	Artikel	_	
+6-5	374-376	im	_	
+6-6	377-384	General	_	
+6-7	385-393	Anzeiger	_	
+6-8	394-398	Bonn	_	
+6-9	398-399	]	_	
+6-10	399-400	(	_	
+6-11	400-404	http	_	
+6-12	404-405	:	_	
+6-13	405-406	/	_	
+6-14	406-407	/	_	
+6-15	407-435	www.general-anzeiger-bonn.de	_	
+6-16	435-436	/	_	
+6-17	436-440	bonn	_	
+6-18	440-441	/	_	
+6-19	441-451	stadt-bonn	_	
+6-20	451-452	/	_	
+6-21	452-467	Neue-Viktoriabr	_	
+6-22	467-468	%	_	
+6-23	468-471	C3%	_	
+6-24	471-478	BCcke-r	_	
+6-25	478-479	%	_	
+6-26	479-482	C3%	_	
+6-27	482-489	BCckt-n	_	
+6-28	489-490	%	_	
+6-29	490-493	C3%	_	
+6-30	493-513	A4her-article1738840	_	
+6-31	513-514	.	_	
+6-32	514-518	html	_	
+6-33	518-519	)	_	
+6-34	520-523	bin	_	
+6-35	524-527	ich	_	
+6-36	528-534	darauf	_	
+6-37	535-543	gestoßen	_	
+6-38	543-544	,	_	
+6-39	545-549	dass	_	
+6-40	550-552	im	_	
+6-41	553-559	Rahmen	_	
+6-42	560-563	der	_	
+6-43	564-575	Bauarbeiten	_	
+6-44	576-578	am	*[12]	
+6-45	579-582	HBF	*[12]	
+6-46	583-589	dieser	_	
+6-47	590-597	Kreisel	_	
+6-48	598-608	vorgezogen	_	
+6-49	609-615	worden	_	
+6-50	616-619	ist	_	
+6-51	619-620	.	_	
+
+#Text=Dort steht: > Doch mit der Vergabe des Nordfelds schräg gegenüber dem Hauptbahnhof solle der Kreisel nun vorgezogen werden, damit der Baustellenverkehr zum Nordfeld darüber abgewickelt werden könne und nicht umständlich über den ganzen Cityring fahren müsse, sagte Esch.
+7-1	621-625	Dort	_	
+7-2	626-631	steht	_	
+7-3	631-632	:	_	
+7-4	633-634	>	_	
+7-5	635-639	Doch	_	
+7-6	640-643	mit	_	
+7-7	644-647	der	_	
+7-8	648-655	Vergabe	_	
+7-9	656-659	des	_	
+7-10	660-669	Nordfelds	*[13]	
+7-11	670-676	schräg	*[13]	
+7-12	677-686	gegenüber	*[13]	
+7-13	687-690	dem	*[13]	
+7-14	691-703	Hauptbahnhof	*[13]	
+7-15	704-709	solle	_	
+7-16	710-713	der	_	
+7-17	714-721	Kreisel	_	
+7-18	722-725	nun	_	
+7-19	726-736	vorgezogen	_	
+7-20	737-743	werden	_	
+7-21	743-744	,	_	
+7-22	745-750	damit	_	
+7-23	751-754	der	_	
+7-24	755-772	Baustellenverkehr	_	
+7-25	773-776	zum	*[14]	
+7-26	777-785	Nordfeld	*[14]	
+7-27	786-793	darüber	_	
+7-28	794-805	abgewickelt	_	
+7-29	806-812	werden	_	
+7-30	813-818	könne	_	
+7-31	819-822	und	_	
+7-32	823-828	nicht	_	
+7-33	829-840	umständlich	_	
+7-34	841-845	über	_	
+7-35	846-849	den	_	
+7-36	850-856	ganzen	_	
+7-37	857-865	Cityring	*	
+7-38	866-872	fahren	_	
+7-39	873-878	müsse	_	
+7-40	878-879	,	_	
+7-41	880-885	sagte	_	
+7-42	886-890	Esch	_	
+7-43	890-891	.	_	
+
+#Text=Es wurde also festgestellt, dass der Cityring, den man nur im Uhrzeigersinn befahren kann, umständlich ist.
+8-1	892-894	Es	_	
+8-2	895-900	wurde	_	
+8-3	901-905	also	_	
+8-4	906-918	festgestellt	_	
+8-5	918-919	,	_	
+8-6	920-924	dass	_	
+8-7	925-928	der	_	
+8-8	929-937	Cityring	_	
+8-9	937-938	,	_	
+8-10	939-942	den	_	
+8-11	943-946	man	_	
+8-12	947-950	nur	_	
+8-13	951-953	im	_	
+8-14	954-967	Uhrzeigersinn	_	
+8-15	968-976	befahren	_	
+8-16	977-981	kann	_	
+8-17	981-982	,	_	
+8-18	983-994	umständlich	_	
+8-19	995-998	ist	_	
+8-20	998-999	.	_	
+
+#Text=Als Radfahrer hatte man dieses Problem schon die ganze Zeit, da ein Umweg einmal um die ganze Innenstadt schon ein nennenswerter Umweg ist.
+9-1	1000-1003	Als	_	
+9-2	1004-1013	Radfahrer	_	
+9-3	1014-1019	hatte	_	
+9-4	1020-1023	man	_	
+9-5	1024-1030	dieses	_	
+9-6	1031-1038	Problem	_	
+9-7	1039-1044	schon	_	
+9-8	1045-1048	die	_	
+9-9	1049-1054	ganze	_	
+9-10	1055-1059	Zeit	_	
+9-11	1059-1060	,	_	
+9-12	1061-1063	da	_	
+9-13	1064-1067	ein	_	
+9-14	1068-1073	Umweg	_	
+9-15	1074-1080	einmal	_	
+9-16	1081-1083	um	_	
+9-17	1084-1087	die	*[15]	
+9-18	1088-1093	ganze	*[15]	
+9-19	1094-1104	Innenstadt	*[15]	
+9-20	1105-1110	schon	_	
+9-21	1111-1114	ein	_	
+9-22	1115-1128	nennenswerter	_	
+9-23	1129-1134	Umweg	_	
+9-24	1135-1138	ist	_	
+9-25	1138-1139	.	_	
+
+#Text=Für die Baustelle wurde das jetzt umgestellt, damit die Baufahrzeuge nicht so viel durch die Stadt kurven müssen.
+10-1	1140-1143	Für	_	
+10-2	1144-1147	die	_	
+10-3	1148-1157	Baustelle	_	
+10-4	1158-1163	wurde	_	
+10-5	1164-1167	das	_	
+10-6	1168-1173	jetzt	_	
+10-7	1174-1184	umgestellt	_	
+10-8	1184-1185	,	_	
+10-9	1186-1191	damit	_	
+10-10	1192-1195	die	_	
+10-11	1196-1208	Baufahrzeuge	_	
+10-12	1209-1214	nicht	_	
+10-13	1215-1217	so	_	
+10-14	1218-1222	viel	_	
+10-15	1223-1228	durch	_	
+10-16	1229-1232	die	_	
+10-17	1233-1238	Stadt	_	
+10-18	1239-1245	kurven	_	
+10-19	1246-1252	müssen	_	
+10-20	1252-1253	.	_	
+
+#Text=Warum wurde analog denn die Unterführung in der Nähe der Viktoriabrücke nicht auch vorgezogen, damit Radfahrer hier bequem fahren können, während die Brücke saniert wird?
+11-1	1254-1259	Warum	_	
+11-2	1260-1265	wurde	_	
+11-3	1266-1272	analog	_	
+11-4	1273-1277	denn	_	
+11-5	1278-1281	die	_	
+11-6	1282-1294	Unterführung	_	
+11-7	1295-1297	in	*[16]	
+11-8	1298-1301	der	*[16]	
+11-9	1302-1306	Nähe	*[16]	
+11-10	1307-1310	der	*[16]	
+11-11	1311-1325	Viktoriabrücke	*[16]	
+11-12	1326-1331	nicht	_	
+11-13	1332-1336	auch	_	
+11-14	1337-1347	vorgezogen	_	
+11-15	1347-1348	,	_	
+11-16	1349-1354	damit	_	
+11-17	1355-1364	Radfahrer	_	
+11-18	1365-1369	hier	_	
+11-19	1370-1376	bequem	_	
+11-20	1377-1383	fahren	_	
+11-21	1384-1390	können	_	
+11-22	1390-1391	,	_	
+11-23	1392-1399	während	_	
+11-24	1400-1403	die	_	
+11-25	1404-1410	Brücke	_	
+11-26	1411-1418	saniert	_	
+11-27	1419-1423	wird	_	
+11-28	1423-1424	?	_	

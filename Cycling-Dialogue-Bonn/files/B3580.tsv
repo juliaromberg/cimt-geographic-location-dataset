@@ -1,0 +1,57 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vorfahrtsregeln
+1-1	0-15	Vorfahrtsregeln	_	
+
+#Text=Leider beachten hier viele Autofahrer nicht die Verkehrsregel: rechts vor links.
+2-1	18-24	Leider	_	
+2-2	25-33	beachten	_	
+2-3	34-38	hier	_	
+2-4	39-44	viele	_	
+2-5	45-55	Autofahrer	_	
+2-6	56-61	nicht	_	
+2-7	62-65	die	_	
+2-8	66-79	Verkehrsregel	_	
+2-9	79-80	:	_	
+2-10	81-87	rechts	_	
+2-11	88-91	vor	_	
+2-12	92-97	links	_	
+2-13	97-98	.	_	
+
+#Text=Als Radfahrer kann man sich hier nie auf die Einhaltung der Regel verlassen.
+3-1	99-102	Als	_	
+3-2	103-112	Radfahrer	_	
+3-3	113-117	kann	_	
+3-4	118-121	man	_	
+3-5	122-126	sich	_	
+3-6	127-131	hier	_	
+3-7	132-135	nie	_	
+3-8	136-139	auf	_	
+3-9	140-143	die	_	
+3-10	144-154	Einhaltung	_	
+3-11	155-158	der	_	
+3-12	159-164	Regel	_	
+3-13	165-174	verlassen	_	
+3-14	174-175	.	_	
+
+#Text=Vielleicht würde es helfen, wenn eine Tempo 30 Zone eingerichtet bzw. erweitert wird.
+4-1	176-186	Vielleicht	_	
+4-2	187-192	würde	_	
+4-3	193-195	es	_	
+4-4	196-202	helfen	_	
+4-5	202-203	,	_	
+4-6	204-208	wenn	_	
+4-7	209-213	eine	_	
+4-8	214-219	Tempo	_	
+4-9	220-222	30	_	
+4-10	223-227	Zone	_	
+4-11	228-240	eingerichtet	_	
+4-12	241-244	bzw	_	
+4-13	244-245	.	_	
+4-14	246-255	erweitert	_	
+4-15	256-260	wird	_	
+4-16	260-261	.	_	

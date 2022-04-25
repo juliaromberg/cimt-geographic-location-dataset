@@ -1,0 +1,103 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Suggestivradweg
+1-1	0-15	Suggestivradweg	_	
+
+#Text=Fährt vom Bahnhof über die Meckenheimer Allee Richtung Ippendorf, begegnet man einem anscheinend völlig willkürlichen Wechsel von Radweg, Suggestivradweg und gar nichts.
+2-1	18-23	Fährt	_	
+2-2	24-27	vom	*[9]	
+2-3	28-35	Bahnhof	*[9]	
+2-4	36-40	über	*[9]	
+2-5	41-44	die	*[9]	
+2-6	45-57	Meckenheimer	*[9]	
+2-7	58-63	Allee	*[9]	
+2-8	64-72	Richtung	*[9]	
+2-9	73-82	Ippendorf	*[9]	
+2-10	82-83	,	_	
+2-11	84-92	begegnet	_	
+2-12	93-96	man	_	
+2-13	97-102	einem	_	
+2-14	103-114	anscheinend	_	
+2-15	115-121	völlig	_	
+2-16	122-135	willkürlichen	_	
+2-17	136-143	Wechsel	_	
+2-18	144-147	von	_	
+2-19	148-154	Radweg	_	
+2-20	154-155	,	_	
+2-21	156-171	Suggestivradweg	_	
+2-22	172-175	und	_	
+2-23	176-179	gar	_	
+2-24	180-186	nichts	_	
+2-25	186-187	.	_	
+
+#Text=Bis zur Baumschulallee nichts.
+3-1	188-191	Bis	*[10]	
+3-2	192-195	zur	*[10]	
+3-3	196-210	Baumschulallee	*[10]	
+3-4	211-217	nichts	_	
+3-5	217-218	.	_	
+
+#Text=Warum?
+4-1	219-224	Warum	_	
+4-2	224-225	?	_	
+
+#Text=Also: bitte beidseitigen Streifen.
+5-1	226-230	Also	_	
+5-2	230-231	:	_	
+5-3	232-237	bitte	_	
+5-4	238-250	beidseitigen	_	
+5-5	251-259	Streifen	_	
+5-6	259-260	.	_	
+
+#Text=Von da bis zum Poppelsdorfer Schloss: auf weiten Strecken Reste von Markierungen.
+6-1	261-264	Von	_	
+6-2	265-267	da	_	
+6-3	268-271	bis	*[11]	
+6-4	272-275	zum	*[11]	
+6-5	276-289	Poppelsdorfer	*[11]	
+6-6	290-297	Schloss	*[11]	
+6-7	297-298	:	_	
+6-8	299-302	auf	_	
+6-9	303-309	weiten	_	
+6-10	310-318	Strecken	_	
+6-11	319-324	Reste	_	
+6-12	325-328	von	_	
+6-13	329-341	Markierungen	_	
+6-14	341-342	.	_	
+
+#Text=Also: Markierung erneuern.
+7-1	343-347	Also	_	
+7-2	347-348	:	_	
+7-3	349-359	Markierung	_	
+7-4	360-368	erneuern	_	
+7-5	368-369	.	_	
+
+#Text=In Poppelsdorf völlig unzureichender Mischweg auf der rechten Seite.
+8-1	370-372	In	*[12]	
+8-2	373-384	Poppelsdorf	*[12]	
+8-3	385-391	völlig	_	
+8-4	392-406	unzureichender	_	
+8-5	407-415	Mischweg	_	
+8-6	416-419	auf	_	
+8-7	420-423	der	_	
+8-8	424-431	rechten	_	
+8-9	432-437	Seite	_	
+8-10	437-438	.	_	
+
+#Text=Auch hier: Suggestivstreifen auf beiden Seiten, bis zum Clemens-August-Platz.
+9-1	439-443	Auch	_	
+9-2	444-448	hier	_	
+9-3	448-449	:	_	
+9-4	450-467	Suggestivstreifen	_	
+9-5	468-471	auf	_	
+9-6	472-478	beiden	_	
+9-7	479-485	Seiten	_	
+9-8	485-486	,	_	
+9-9	487-490	bis	*[13]	
+9-10	491-494	zum	*[13]	
+9-11	495-515	Clemens-August-Platz	*[13]	
+9-12	515-516	.	_	

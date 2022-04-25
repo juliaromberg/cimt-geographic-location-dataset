@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rad- und Fußweg tauschen
+1-1	0-3	Rad	_	
+1-2	3-4	-	_	
+1-3	5-8	und	_	
+1-4	9-15	Fußweg	_	
+1-5	16-24	tauschen	_	
+
+#Text=Fußgänger nutzen häufig den Radweg weil dieser in direkter Linie mit dem Zebrastreifen liegt.
+2-1	27-36	Fußgänger	_	
+2-2	37-43	nutzen	_	
+2-3	44-50	häufig	_	
+2-4	51-54	den	_	
+2-5	55-61	Radweg	_	
+2-6	62-66	weil	_	
+2-7	67-73	dieser	_	
+2-8	74-76	in	_	
+2-9	77-85	direkter	_	
+2-10	86-91	Linie	_	
+2-11	92-95	mit	_	
+2-12	96-99	dem	_	
+2-13	100-113	Zebrastreifen	_	
+2-14	114-119	liegt	_	
+2-15	119-120	.	_	
+
+#Text=Verhalten sich Fußgänger und Radfahrer korrekt, kreuzen sich die Wege unnötigerweise.
+3-1	121-130	Verhalten	_	
+3-2	131-135	sich	_	
+3-3	136-145	Fußgänger	_	
+3-4	146-149	und	_	
+3-5	150-159	Radfahrer	_	
+3-6	160-167	korrekt	_	
+3-7	167-168	,	_	
+3-8	169-176	kreuzen	_	
+3-9	177-181	sich	_	
+3-10	182-185	die	_	
+3-11	186-190	Wege	_	
+3-12	191-205	unnötigerweise	_	
+3-13	205-206	.	_	
+
+#Text=Warum nicht einfach das kurze Stück von der Rheinaustraße runter ans Rheinufer Fuß- und Radweg tauschen?
+4-1	207-212	Warum	_	
+4-2	213-218	nicht	_	
+4-3	219-226	einfach	_	
+4-4	227-230	das	_	
+4-5	231-236	kurze	_	
+4-6	237-242	Stück	_	
+4-7	243-246	von	*[5]	
+4-8	247-250	der	*[5]	
+4-9	251-264	Rheinaustraße	*[5]	
+4-10	265-271	runter	*[5]	
+4-11	272-275	ans	*[5]	
+4-12	276-285	Rheinufer	*[5]	
+4-13	286-289	Fuß	_	
+4-14	289-290	-	_	
+4-15	291-294	und	_	
+4-16	295-301	Radweg	_	
+4-17	302-310	tauschen	_	
+4-18	310-311	?	_	

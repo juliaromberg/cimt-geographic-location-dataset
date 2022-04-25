@@ -1,0 +1,141 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradampel/Zebrastreifen über Kaiserstr. nach Bahnübergang notwendig
+1-1	0-12	Fahrradampel	_	
+1-2	12-13	/	_	
+1-3	13-26	Zebrastreifen	_	
+1-4	27-31	über	*[10]	
+1-5	32-41	Kaiserstr	*[10]	
+1-6	41-42	.	*[10]	
+1-7	43-47	nach	*[10]	
+1-8	48-60	Bahnübergang	*[10]	
+1-9	61-70	notwendig	_	
+
+#Text=Mittlerweile ist die gesamte Weberstr für beide Richtungen für Fahrräder frei.
+2-1	73-85	Mittlerweile	_	
+2-2	86-89	ist	_	
+2-3	90-93	die	*[11]	
+2-4	94-101	gesamte	*[11]	
+2-5	102-110	Weberstr	*[11]	
+2-6	111-114	für	_	
+2-7	115-120	beide	_	
+2-8	121-131	Richtungen	_	
+2-9	132-135	für	_	
+2-10	136-145	Fahrräder	_	
+2-11	146-150	frei	_	
+2-12	150-151	.	_	
+
+#Text=Super!
+3-1	152-157	Super	_	
+3-2	157-158	!	_	
+
+#Text=Problematisch wird es nur, wenn man gerade über die Zuggleise in Richtung Rhein fahren will.
+4-1	159-172	Problematisch	_	
+4-2	173-177	wird	_	
+4-3	178-180	es	_	
+4-4	181-184	nur	_	
+4-5	184-185	,	_	
+4-6	186-190	wenn	_	
+4-7	191-194	man	_	
+4-8	195-201	gerade	_	
+4-9	202-206	über	_	
+4-10	207-210	die	_	
+4-11	211-220	Zuggleise	_	
+4-12	221-223	in	_	
+4-13	224-232	Richtung	_	
+4-14	233-238	Rhein	_	
+4-15	239-245	fahren	_	
+4-16	246-250	will	_	
+4-17	250-251	.	_	
+
+#Text=Dort kreuzt man den Fahrrad der Kaiserstr.
+5-1	252-256	Dort	_	
+5-2	257-263	kreuzt	_	
+5-3	264-267	man	_	
+5-4	268-271	den	_	
+5-5	272-279	Fahrrad	_	
+5-6	280-283	der	_	
+5-7	284-293	Kaiserstr	*	
+5-8	293-294	.	_	
+
+#Text=Genau dort müsste eine Fahrradampel oder ein Zebrastreifen hin.
+6-1	295-300	Genau	_	
+6-2	301-305	dort	_	
+6-3	306-312	müsste	_	
+6-4	313-317	eine	_	
+6-5	318-330	Fahrradampel	_	
+6-6	331-335	oder	_	
+6-7	336-339	ein	_	
+6-8	340-353	Zebrastreifen	_	
+6-9	354-357	hin	_	
+6-10	357-358	.	_	
+
+#Text=Zum einen, um eine Kollision mit den Kaiserstraßen-Radfahrern zu vermeiden und zum anderen, um zu wissen, wann man die Kaiserstraße kreuzen darf.
+7-1	359-362	Zum	_	
+7-2	363-368	einen	_	
+7-3	368-369	,	_	
+7-4	370-372	um	_	
+7-5	373-377	eine	_	
+7-6	378-387	Kollision	_	
+7-7	388-391	mit	_	
+7-8	392-395	den	_	
+7-9	396-420	Kaiserstraßen-Radfahrern	*	
+7-10	421-423	zu	_	
+7-11	424-433	vermeiden	_	
+7-12	434-437	und	_	
+7-13	438-441	zum	_	
+7-14	442-449	anderen	_	
+7-15	449-450	,	_	
+7-16	451-453	um	_	
+7-17	454-456	zu	_	
+7-18	457-463	wissen	_	
+7-19	463-464	,	_	
+7-20	465-469	wann	_	
+7-21	470-473	man	_	
+7-22	474-477	die	*[12]	
+7-23	478-490	Kaiserstraße	*[12]	
+7-24	491-498	kreuzen	*[12]	
+7-25	499-503	darf	_	
+7-26	503-504	.	_	
+
+#Text=Momentan kann man sich nur an der Fußgängerampel (die aber etwas entfernt links an der Studiokneipe steht) oder an den entgegenkommenden Autos orientieren.
+8-1	505-513	Momentan	_	
+8-2	514-518	kann	_	
+8-3	519-522	man	_	
+8-4	523-527	sich	_	
+8-5	528-531	nur	_	
+8-6	532-534	an	_	
+8-7	535-538	der	_	
+8-8	539-553	Fußgängerampel	_	
+8-9	554-555	(	_	
+8-10	555-558	die	_	
+8-11	559-563	aber	_	
+8-12	564-569	etwas	_	
+8-13	570-578	entfernt	_	
+8-14	579-584	links	_	
+8-15	585-587	an	_	
+8-16	588-591	der	_	
+8-17	592-604	Studiokneipe	_	
+8-18	605-610	steht	_	
+8-19	610-611	)	_	
+8-20	612-616	oder	_	
+8-21	617-619	an	_	
+8-22	620-623	den	_	
+8-23	624-641	entgegenkommenden	_	
+8-24	642-647	Autos	_	
+8-25	648-659	orientieren	_	
+8-26	659-660	.	_	
+
+#Text=Man muss trotzdem jedes mal höllisch aufpassen!
+9-1	661-664	Man	_	
+9-2	665-669	muss	_	
+9-3	670-678	trotzdem	_	
+9-4	679-684	jedes	_	
+9-5	685-688	mal	_	
+9-6	689-697	höllisch	_	
+9-7	698-707	aufpassen	_	
+9-8	707-708	!	_	

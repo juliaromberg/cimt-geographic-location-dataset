@@ -1,0 +1,44 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zuwachsender Radweg
+1-1	0-12	Zuwachsender	_	
+1-2	13-19	Radweg	_	
+
+#Text=Die Mauer zwischen Radweg und Bahndamm ist im Abschnitt zwischen der Straße Am Strandbad und dem Bundeshäuschen völlig zugewachsen, sodass der Radweg viel schmaler ist, als er eigentlich sein könnte.
+2-1	22-25	Die	_	
+2-2	26-31	Mauer	_	
+2-3	32-40	zwischen	_	
+2-4	41-47	Radweg	_	
+2-5	48-51	und	_	
+2-6	52-60	Bahndamm	_	
+2-7	61-64	ist	_	
+2-8	65-67	im	_	
+2-9	68-77	Abschnitt	_	
+2-10	78-86	zwischen	*[3]	
+2-11	87-90	der	*[3]	
+2-12	91-97	Straße	*[3]	
+2-13	98-100	Am	*[3]	
+2-14	101-110	Strandbad	*[3]	
+2-15	111-114	und	*[3]	
+2-16	115-118	dem	*[3]	
+2-17	119-133	Bundeshäuschen	*[3]	
+2-18	134-140	völlig	_	
+2-19	141-152	zugewachsen	_	
+2-20	152-153	,	_	
+2-21	154-160	sodass	_	
+2-22	161-164	der	_	
+2-23	165-171	Radweg	_	
+2-24	172-176	viel	_	
+2-25	177-185	schmaler	_	
+2-26	186-189	ist	_	
+2-27	189-190	,	_	
+2-28	191-194	als	_	
+2-29	195-197	er	_	
+2-30	198-208	eigentlich	_	
+2-31	209-213	sein	_	
+2-32	214-220	könnte	_	
+2-33	220-221	.	_	

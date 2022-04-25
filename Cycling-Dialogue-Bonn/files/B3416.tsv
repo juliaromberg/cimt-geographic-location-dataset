@@ -1,0 +1,60 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zweirichtungsradweg aufheben
+1-1	0-19	Zweirichtungsradweg	_	
+1-2	20-28	aufheben	_	
+
+#Text=Viel zu eng, zu gefährlich, zu vile Zufahrten, miserabler Belag, Wurzelaufbrüche.
+2-1	31-35	Viel	_	
+2-2	36-38	zu	_	
+2-3	39-42	eng	_	
+2-4	42-43	,	_	
+2-5	44-46	zu	_	
+2-6	47-57	gefährlich	_	
+2-7	57-58	,	_	
+2-8	59-61	zu	_	
+2-9	62-66	vile	_	
+2-10	67-76	Zufahrten	_	
+2-11	76-77	,	_	
+2-12	78-88	miserabler	_	
+2-13	89-94	Belag	_	
+2-14	94-95	,	_	
+2-15	96-111	Wurzelaufbrüche	_	
+2-16	111-112	.	_	
+
+#Text=Es ist schlicht unzulässig, solch einen Radweg zu betreiben.
+3-1	113-115	Es	_	
+3-2	116-119	ist	_	
+3-3	120-128	schlicht	_	
+3-4	129-139	unzulässig	_	
+3-5	139-140	,	_	
+3-6	141-146	solch	_	
+3-7	147-152	einen	_	
+3-8	153-159	Radweg	_	
+3-9	160-162	zu	_	
+3-10	163-172	betreiben	_	
+3-11	172-173	.	_	
+
+#Text=Mindestens in Richtung Westen gehört der Radverkehr auf die Straße.
+4-1	174-184	Mindestens	_	
+4-2	185-187	in	_	
+4-3	188-196	Richtung	_	
+4-4	197-203	Westen	_	
+4-5	204-210	gehört	_	
+4-6	211-214	der	_	
+4-7	215-225	Radverkehr	_	
+4-8	226-229	auf	_	
+4-9	230-233	die	_	
+4-10	234-240	Straße	_	
+4-11	240-241	.	_	
+
+#Text=Radfahrstreifen,Parkplätze enfernen.
+5-1	242-257	Radfahrstreifen	_	
+5-2	257-258	,	_	
+5-3	258-268	Parkplätze	_	
+5-4	269-277	enfernen	_	
+5-5	277-278	.	_	

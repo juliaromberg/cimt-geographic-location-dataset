@@ -1,0 +1,120 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg von Bürgersteig auf Straße
+1-1	0-6	Radweg	_	
+1-2	7-10	von	_	
+1-3	11-22	Bürgersteig	_	
+1-4	23-26	auf	_	
+1-5	27-33	Straße	_	
+
+#Text=Der Radweg wird an dieser Ecke vom Bürgersteig auf die Straße geführt.
+2-1	36-39	Der	_	
+2-2	40-46	Radweg	_	
+2-3	47-51	wird	_	
+2-4	52-54	an	_	
+2-5	55-61	dieser	_	
+2-6	62-66	Ecke	_	
+2-7	67-70	vom	_	
+2-8	71-82	Bürgersteig	_	
+2-9	83-86	auf	_	
+2-10	87-90	die	_	
+2-11	91-97	Straße	_	
+2-12	98-105	geführt	_	
+2-13	105-106	.	_	
+
+#Text=Da man auf dem Radweg gegen die Verkehrsrichtung fährt, landet man häufig vor dem Kühler von PKWs, die sich schon zum linksabbiegen auf genau diesem Radweg eingereht haben.
+3-1	107-109	Da	_	
+3-2	110-113	man	_	
+3-3	114-117	auf	_	
+3-4	118-121	dem	_	
+3-5	122-128	Radweg	_	
+3-6	129-134	gegen	_	
+3-7	135-138	die	_	
+3-8	139-155	Verkehrsrichtung	_	
+3-9	156-161	fährt	_	
+3-10	161-162	,	_	
+3-11	163-169	landet	_	
+3-12	170-173	man	_	
+3-13	174-180	häufig	_	
+3-14	181-184	vor	_	
+3-15	185-188	dem	_	
+3-16	189-195	Kühler	_	
+3-17	196-199	von	_	
+3-18	200-204	PKWs	_	
+3-19	204-205	,	_	
+3-20	206-209	die	_	
+3-21	210-214	sich	_	
+3-22	215-220	schon	_	
+3-23	221-224	zum	_	
+3-24	225-238	linksabbiegen	_	
+3-25	239-242	auf	_	
+3-26	243-248	genau	_	
+3-27	249-255	diesem	_	
+3-28	256-262	Radweg	_	
+3-29	263-272	eingereht	_	
+3-30	273-278	haben	_	
+3-31	278-279	.	_	
+
+#Text=Viele Autofahrer brettern mit überhöhter Geschwindigkeit durch die Dorotheenstraße so dass einem an dieser Kreuzung als Radfahrer häufiger das Herz in die Hose rutscht.
+4-1	280-285	Viele	_	
+4-2	286-296	Autofahrer	_	
+4-3	297-305	brettern	_	
+4-4	306-309	mit	_	
+4-5	310-320	überhöhter	_	
+4-6	321-336	Geschwindigkeit	_	
+4-7	337-342	durch	*[6]	
+4-8	343-346	die	*[6]	
+4-9	347-362	Dorotheenstraße	*[6]	
+4-10	363-365	so	_	
+4-11	366-370	dass	_	
+4-12	371-376	einem	_	
+4-13	377-379	an	_	
+4-14	380-386	dieser	_	
+4-15	387-395	Kreuzung	_	
+4-16	396-399	als	_	
+4-17	400-409	Radfahrer	_	
+4-18	410-418	häufiger	_	
+4-19	419-422	das	_	
+4-20	423-427	Herz	_	
+4-21	428-430	in	_	
+4-22	431-434	die	_	
+4-23	435-439	Hose	_	
+4-24	440-447	rutscht	_	
+4-25	447-448	.	_	
+
+#Text=Der Radweg sollte sich durchgehend auf der Straße befinden, baulich von der PKW Fahrspur getrennt sein, und die Dorotheenstraße sollte mit Hindernissen zur Geschwindigkeitsbegrenzung von PKWs ausgestattet werden.
+5-1	449-452	Der	_	
+5-2	453-459	Radweg	_	
+5-3	460-466	sollte	_	
+5-4	467-471	sich	_	
+5-5	472-483	durchgehend	_	
+5-6	484-487	auf	_	
+5-7	488-491	der	_	
+5-8	492-498	Straße	_	
+5-9	499-507	befinden	_	
+5-10	507-508	,	_	
+5-11	509-516	baulich	_	
+5-12	517-520	von	_	
+5-13	521-524	der	_	
+5-14	525-528	PKW	_	
+5-15	529-537	Fahrspur	_	
+5-16	538-546	getrennt	_	
+5-17	547-551	sein	_	
+5-18	551-552	,	_	
+5-19	553-556	und	_	
+5-20	557-560	die	*[7]	
+5-21	561-576	Dorotheenstraße	*[7]	
+5-22	577-583	sollte	_	
+5-23	584-587	mit	_	
+5-24	588-600	Hindernissen	_	
+5-25	601-604	zur	_	
+5-26	605-631	Geschwindigkeitsbegrenzung	_	
+5-27	632-635	von	_	
+5-28	636-640	PKWs	_	
+5-29	641-653	ausgestattet	_	
+5-30	654-660	werden	_	
+5-31	660-661	.	_	

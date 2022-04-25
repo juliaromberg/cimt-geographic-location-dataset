@@ -1,0 +1,29 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Die Viktoriabrücke muss endlich wieder befahrbahr sein
+1-1	0-3	Die	*[3]	
+1-2	4-18	Viktoriabrücke	*[3]	
+1-3	19-23	muss	_	
+1-4	24-31	endlich	_	
+1-5	32-38	wieder	_	
+1-6	39-49	befahrbahr	_	
+1-7	50-54	sein	_	
+
+#Text=Die Brücke muss endlich wieder repariert werden, bevor es Verletzte gibt!
+2-1	57-60	Die	_	
+2-2	61-67	Brücke	_	
+2-3	68-72	muss	_	
+2-4	73-80	endlich	_	
+2-5	81-87	wieder	_	
+2-6	88-97	repariert	_	
+2-7	98-104	werden	_	
+2-8	104-105	,	_	
+2-9	106-111	bevor	_	
+2-10	112-114	es	_	
+2-11	115-124	Verletzte	_	
+2-12	125-129	gibt	_	
+2-13	129-130	!	_	

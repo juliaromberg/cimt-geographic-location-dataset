@@ -1,0 +1,29 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unfallschwerpunkt
+1-1	0-17	Unfallschwerpunkt	_	
+
+#Text=Die Ampfel wird regelmäßig von Autofahrern übersehen - eine Ampfel als Hinweis weiter vorne könnte evtl die Aufmerksamkeit erhöhen
+2-1	20-23	Die	_	
+2-2	24-30	Ampfel	_	
+2-3	31-35	wird	_	
+2-4	36-46	regelmäßig	_	
+2-5	47-50	von	_	
+2-6	51-62	Autofahrern	_	
+2-7	63-72	übersehen	_	
+2-8	73-74	-	_	
+2-9	75-79	eine	_	
+2-10	80-86	Ampfel	_	
+2-11	87-90	als	_	
+2-12	91-98	Hinweis	_	
+2-13	99-105	weiter	_	
+2-14	106-111	vorne	_	
+2-15	112-118	könnte	_	
+2-16	119-123	evtl	_	
+2-17	124-127	die	_	
+2-18	128-142	Aufmerksamkeit	_	
+2-19	143-150	erhöhen	_	

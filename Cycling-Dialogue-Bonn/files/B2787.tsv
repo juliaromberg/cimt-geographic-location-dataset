@@ -1,0 +1,83 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Verkehrsführung
+1-1	0-11	Gefährliche	_	
+1-2	12-27	Verkehrsführung	_	
+
+#Text=Nach meinem Verständnis ist lt. vorangehender Beschilderung das Fahren mit dem Fahrrad auf der Straße in Richtung Norden erlaubt.
+2-1	30-34	Nach	_	
+2-2	35-41	meinem	_	
+2-3	42-53	Verständnis	_	
+2-4	54-57	ist	_	
+2-5	58-60	lt	_	
+2-6	60-61	.	_	
+2-7	62-75	vorangehender	_	
+2-8	76-89	Beschilderung	_	
+2-9	90-93	das	_	
+2-10	94-100	Fahren	_	
+2-11	101-104	mit	_	
+2-12	105-108	dem	_	
+2-13	109-116	Fahrrad	_	
+2-14	117-120	auf	_	
+2-15	121-124	der	_	
+2-16	125-131	Straße	_	
+2-17	132-134	in	_	
+2-18	135-143	Richtung	_	
+2-19	144-150	Norden	_	
+2-20	151-158	erlaubt	_	
+2-21	158-159	.	_	
+
+#Text=Allerdings kommt es zu Konflikten mit dem in Einbahnstraßen-Regelung aus dem Rostental geführten KFZ-Verkehr, da (1) die Fahrzeugführer nicht mit Farradfahrern rechnen - und sie auch nicht akzeptieren - und (2) hier wegen der beiderseits parkenden KFZ kaum Platz bleibt, aneinander vorbeizufahren.
+3-1	160-170	Allerdings	_	
+3-2	171-176	kommt	_	
+3-3	177-179	es	_	
+3-4	180-182	zu	_	
+3-5	183-193	Konflikten	_	
+3-6	194-197	mit	_	
+3-7	198-201	dem	_	
+3-8	202-204	in	_	
+3-9	205-228	Einbahnstraßen-Regelung	_	
+3-10	229-232	aus	*[4]	
+3-11	233-236	dem	*[4]	
+3-12	237-246	Rostental	*[4]	
+3-13	247-256	geführten	_	
+3-14	257-268	KFZ-Verkehr	_	
+3-15	268-269	,	_	
+3-16	270-272	da	_	
+3-17	273-274	(	_	
+3-18	274-275	1	_	
+3-19	275-276	)	_	
+3-20	277-280	die	_	
+3-21	281-295	Fahrzeugführer	_	
+3-22	296-301	nicht	_	
+3-23	302-305	mit	_	
+3-24	306-319	Farradfahrern	_	
+3-25	320-327	rechnen	_	
+3-26	328-329	-	_	
+3-27	330-333	und	_	
+3-28	334-337	sie	_	
+3-29	338-342	auch	_	
+3-30	343-348	nicht	_	
+3-31	349-360	akzeptieren	_	
+3-32	361-362	-	_	
+3-33	363-366	und	_	
+3-34	367-368	(	_	
+3-35	368-369	2	_	
+3-36	369-370	)	_	
+3-37	371-375	hier	_	
+3-38	376-381	wegen	_	
+3-39	382-385	der	_	
+3-40	386-397	beiderseits	_	
+3-41	398-407	parkenden	_	
+3-42	408-411	KFZ	_	
+3-43	412-416	kaum	_	
+3-44	417-422	Platz	_	
+3-45	423-429	bleibt	_	
+3-46	429-430	,	_	
+3-47	431-441	aneinander	_	
+3-48	442-456	vorbeizufahren	_	
+3-49	456-457	.	_	

@@ -1,0 +1,91 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg verschlammt
+1-1	0-6	Radweg	_	
+1-2	7-18	verschlammt	_	
+
+#Text=Die Oberfläche des Radweges auf der Poppelsdorfer Allee hat beidseitig und fast durchgängig eine Schicht Dreck angesetzt, der bei Nässe zu tiefem Schlamm wird.
+2-1	21-24	Die	_	
+2-2	25-35	Oberfläche	_	
+2-3	36-39	des	_	
+2-4	40-48	Radweges	*[6]	
+2-5	49-52	auf	*[6]	
+2-6	53-56	der	*[6]	
+2-7	57-70	Poppelsdorfer	*[6]	
+2-8	71-76	Allee	*[6]	
+2-9	77-80	hat	_	
+2-10	81-91	beidseitig	_	
+2-11	92-95	und	_	
+2-12	96-100	fast	_	
+2-13	101-112	durchgängig	_	
+2-14	113-117	eine	_	
+2-15	118-125	Schicht	_	
+2-16	126-131	Dreck	_	
+2-17	132-141	angesetzt	_	
+2-18	141-142	,	_	
+2-19	143-146	der	_	
+2-20	147-150	bei	_	
+2-21	151-156	Nässe	_	
+2-22	157-159	zu	_	
+2-23	160-166	tiefem	_	
+2-24	167-174	Schlamm	_	
+2-25	175-179	wird	_	
+2-26	179-180	.	_	
+
+#Text=Dies führt dazu, dass sich der Radverkehr bei Nässe auf einen schmalen Streifen begrenzt und bei Gegenverkehr gefährlich enge Situationen entstehen.
+3-1	181-185	Dies	_	
+3-2	186-191	führt	_	
+3-3	192-196	dazu	_	
+3-4	196-197	,	_	
+3-5	198-202	dass	_	
+3-6	203-207	sich	_	
+3-7	208-211	der	_	
+3-8	212-222	Radverkehr	_	
+3-9	223-226	bei	_	
+3-10	227-232	Nässe	_	
+3-11	233-236	auf	_	
+3-12	237-242	einen	_	
+3-13	243-251	schmalen	_	
+3-14	252-260	Streifen	_	
+3-15	261-269	begrenzt	_	
+3-16	270-273	und	_	
+3-17	274-277	bei	_	
+3-18	278-290	Gegenverkehr	_	
+3-19	291-301	gefährlich	_	
+3-20	302-306	enge	_	
+3-21	307-318	Situationen	_	
+3-22	319-328	entstehen	_	
+3-23	328-329	.	_	
+
+#Text=Hier sollte die Oberfläche erneuert werden und der Abfluss des anfallenden Regenwassers gewährleistet werden.
+4-1	330-334	Hier	_	
+4-2	335-341	sollte	_	
+4-3	342-345	die	_	
+4-4	346-356	Oberfläche	_	
+4-5	357-365	erneuert	_	
+4-6	366-372	werden	_	
+4-7	373-376	und	_	
+4-8	377-380	der	_	
+4-9	381-388	Abfluss	_	
+4-10	389-392	des	_	
+4-11	393-404	anfallenden	_	
+4-12	405-417	Regenwassers	_	
+4-13	418-431	gewährleistet	_	
+4-14	432-438	werden	_	
+4-15	438-439	.	_	
+
+#Text=Eine regelmäßige Reinigung ist ja bereits Bestandteil der Grünpflegemaßnahmen.
+5-1	440-444	Eine	_	
+5-2	445-456	regelmäßige	_	
+5-3	457-466	Reinigung	_	
+5-4	467-470	ist	_	
+5-5	471-473	ja	_	
+5-6	474-481	bereits	_	
+5-7	482-493	Bestandteil	_	
+5-8	494-497	der	_	
+5-9	498-517	Grünpflegemaßnahmen	_	
+5-10	517-518	.	_	

@@ -1,0 +1,41 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hecke behindert Sicht
+1-1	0-5	Hecke	_	
+1-2	6-15	behindert	_	
+1-3	16-21	Sicht	_	
+
+#Text=An dieser Ecke biegen viele Radfahrer von der Rheinaue auf die Kennedyallee oder umgekehrt.
+2-1	24-26	An	_	
+2-2	27-33	dieser	_	
+2-3	34-38	Ecke	_	
+2-4	39-45	biegen	_	
+2-5	46-51	viele	_	
+2-6	52-61	Radfahrer	_	
+2-7	62-65	von	*[4]	
+2-8	66-69	der	*[4]	
+2-9	70-78	Rheinaue	*[4]	
+2-10	79-82	auf	*[4]	
+2-11	83-86	die	*[4]	
+2-12	87-99	Kennedyallee	*[4]	
+2-13	100-104	oder	*[4]	
+2-14	105-114	umgekehrt	*[4]	
+2-15	114-115	.	_	
+
+#Text=Leider behindert die Hecke die Sicht und erschwert das sichere Einbiegen.
+3-1	116-122	Leider	_	
+3-2	123-132	behindert	_	
+3-3	133-136	die	_	
+3-4	137-142	Hecke	_	
+3-5	143-146	die	_	
+3-6	147-152	Sicht	_	
+3-7	153-156	und	_	
+3-8	157-166	erschwert	_	
+3-9	167-170	das	_	
+3-10	171-178	sichere	_	
+3-11	179-188	Einbiegen	_	
+3-12	188-189	.	_	

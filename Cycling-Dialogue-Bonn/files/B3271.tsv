@@ -1,0 +1,92 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parken auf Radfarhstreifen im absoluten Halteverbot
+1-1	0-6	Parken	_	
+1-2	7-10	auf	_	
+1-3	11-26	Radfarhstreifen	_	
+1-4	27-29	im	_	
+1-5	30-39	absoluten	_	
+1-6	40-51	Halteverbot	_	
+
+#Text=Hier stehen zumindest am späteren Nachmittag bis zum Ende der Geschäftszeit oft Ausfahrer der Pizzeria.
+2-1	54-58	Hier	_	
+2-2	59-65	stehen	_	
+2-3	66-75	zumindest	_	
+2-4	76-78	am	_	
+2-5	79-87	späteren	_	
+2-6	88-98	Nachmittag	_	
+2-7	99-102	bis	_	
+2-8	103-106	zum	_	
+2-9	107-111	Ende	_	
+2-10	112-115	der	_	
+2-11	116-129	Geschäftszeit	_	
+2-12	130-133	oft	_	
+2-13	134-143	Ausfahrer	_	
+2-14	144-147	der	_	
+2-15	148-156	Pizzeria	_	
+2-16	156-157	.	_	
+
+#Text=An dieser Stelle vor der Verengung und dem Fußgängerüberweg am Kreisel ist das Ausweichen von Radfahrern durch den Rückstau von Autofahrern kaum möglich.
+3-1	158-160	An	_	
+3-2	161-167	dieser	_	
+3-3	168-174	Stelle	_	
+3-4	175-178	vor	_	
+3-5	179-182	der	_	
+3-6	183-192	Verengung	_	
+3-7	193-196	und	_	
+3-8	197-200	dem	_	
+3-9	201-217	Fußgängerüberweg	_	
+3-10	218-220	am	_	
+3-11	221-228	Kreisel	_	
+3-12	229-232	ist	_	
+3-13	233-236	das	_	
+3-14	237-247	Ausweichen	_	
+3-15	248-251	von	_	
+3-16	252-262	Radfahrern	_	
+3-17	263-268	durch	_	
+3-18	269-272	den	_	
+3-19	273-281	Rückstau	_	
+3-20	282-285	von	_	
+3-21	286-297	Autofahrern	_	
+3-22	298-302	kaum	_	
+3-23	303-310	möglich	_	
+3-24	310-311	.	_	
+
+#Text=Daher sollte in diesem Bereich der Gehweg baulich gegen Parken gesichert werden und der Radfahrstteifen mit Piktogrammen gepflastert werden.
+4-1	312-317	Daher	_	
+4-2	318-324	sollte	_	
+4-3	325-327	in	_	
+4-4	328-334	diesem	_	
+4-5	335-342	Bereich	_	
+4-6	343-346	der	_	
+4-7	347-353	Gehweg	_	
+4-8	354-361	baulich	_	
+4-9	362-367	gegen	_	
+4-10	368-374	Parken	_	
+4-11	375-384	gesichert	_	
+4-12	385-391	werden	_	
+4-13	392-395	und	_	
+4-14	396-399	der	_	
+4-15	400-415	Radfahrstteifen	_	
+4-16	416-419	mit	_	
+4-17	420-432	Piktogrammen	_	
+4-18	433-444	gepflastert	_	
+4-19	445-451	werden	_	
+4-20	451-452	.	_	
+
+#Text=Preiswertere Alternative, hier erfolgen Schwerpunktaktionen des Ordnungsamtes...
+5-1	453-465	Preiswertere	_	
+5-2	466-477	Alternative	_	
+5-3	477-478	,	_	
+5-4	479-483	hier	_	
+5-5	484-492	erfolgen	_	
+5-6	493-512	Schwerpunktaktionen	_	
+5-7	513-516	des	_	
+5-8	517-530	Ordnungsamtes	_	
+5-9	530-531	.	_	
+5-10	531-532	.	_	
+5-11	532-533	.	_	

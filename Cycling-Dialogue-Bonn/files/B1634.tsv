@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg wird regelmäßig zugeparkt
+1-1	0-6	Radweg	_	
+1-2	7-11	wird	_	
+1-3	12-22	regelmäßig	_	
+1-4	23-32	zugeparkt	_	
+
+#Text=Öfter Radwege kontrollieren und Strafen erhöhen!
+2-1	35-40	Öfter	_	
+2-2	41-48	Radwege	_	
+2-3	49-62	kontrollieren	_	
+2-4	63-66	und	_	
+2-5	67-74	Strafen	_	
+2-6	75-82	erhöhen	_	
+2-7	82-83	!	_	
+
+#Text=Steigert generelle Attraktivität des Radfahrens und finanziert gut weitere Maßnahmen der Verkehrswende in Bonn!
+3-1	84-92	Steigert	_	
+3-2	93-102	generelle	_	
+3-3	103-116	Attraktivität	_	
+3-4	117-120	des	_	
+3-5	121-131	Radfahrens	_	
+3-6	132-135	und	_	
+3-7	136-146	finanziert	_	
+3-8	147-150	gut	_	
+3-9	151-158	weitere	_	
+3-10	159-168	Maßnahmen	_	
+3-11	169-172	der	_	
+3-12	173-186	Verkehrswende	_	
+3-13	187-189	in	*[4]	
+3-14	190-194	Bonn	*[4]	
+3-15	194-195	!	_	

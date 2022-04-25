@@ -1,0 +1,116 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlechte Wegeführung am Verteilerkreis III
+1-1	0-9	Schlechte	_	
+1-2	10-21	Wegeführung	_	
+1-3	22-24	am	*[7]	
+1-4	25-39	Verteilerkreis	*[7]	
+1-5	40-43	III	*[7]	
+
+#Text=Warum wird hier die Befahrung des Radwegs bei Verpoorten in Gegenrichtung ganz explizit durch die Beschilderung unterbunden?
+2-1	46-51	Warum	_	
+2-2	52-56	wird	_	
+2-3	57-61	hier	_	
+2-4	62-65	die	_	
+2-5	66-75	Befahrung	_	
+2-6	76-79	des	_	
+2-7	80-87	Radwegs	_	
+2-8	88-91	bei	*[8]	
+2-9	92-102	Verpoorten	*[8]	
+2-10	103-105	in	_	
+2-11	106-119	Gegenrichtung	_	
+2-12	120-124	ganz	_	
+2-13	125-133	explizit	_	
+2-14	134-139	durch	_	
+2-15	140-143	die	_	
+2-16	144-157	Beschilderung	_	
+2-17	158-169	unterbunden	_	
+2-18	169-170	?	_	
+
+#Text=Kann an den Radweg hier nicht bis zur Vorgebirgsstraße für beide Fahrtrichtungen freigeben?
+3-1	171-175	Kann	_	
+3-2	176-178	an	_	
+3-3	179-182	den	_	
+3-4	183-189	Radweg	_	
+3-5	190-194	hier	_	
+3-6	195-200	nicht	_	
+3-7	201-204	bis	*[9]	
+3-8	205-208	zur	*[9]	
+3-9	209-225	Vorgebirgsstraße	*[9]	
+3-10	226-229	für	_	
+3-11	230-235	beide	_	
+3-12	236-251	Fahrtrichtungen	_	
+3-13	252-261	freigeben	_	
+3-14	261-262	?	_	
+
+#Text=So muss man als Radfahrer am Kreisverkehr 3 Fahrspuren queren um 100 m weiter an der Ampel zu warten, um die Straße erneut zu queren.
+4-1	263-265	So	_	
+4-2	266-270	muss	_	
+4-3	271-274	man	_	
+4-4	275-278	als	_	
+4-5	279-288	Radfahrer	_	
+4-6	289-291	am	_	
+4-7	292-304	Kreisverkehr	_	
+4-8	305-306	3	_	
+4-9	307-317	Fahrspuren	_	
+4-10	318-324	queren	_	
+4-11	325-327	um	_	
+4-12	328-331	100	_	
+4-13	332-333	m	_	
+4-14	334-340	weiter	_	
+4-15	341-343	an	_	
+4-16	344-347	der	_	
+4-17	348-353	Ampel	_	
+4-18	354-356	zu	_	
+4-19	357-363	warten	_	
+4-20	363-364	,	_	
+4-21	365-367	um	_	
+4-22	368-371	die	_	
+4-23	372-378	Straße	_	
+4-24	379-385	erneut	_	
+4-25	386-388	zu	_	
+4-26	389-395	queren	_	
+4-27	395-396	.	_	
+
+#Text=Insgesamt ist die Radverkehrsführung am Verteilerkreis schlecht - und dieses Verbotsschild setzt dem ganzen die Krone auf...
+5-1	397-406	Insgesamt	_	
+5-2	407-410	ist	_	
+5-3	411-414	die	_	
+5-4	415-433	Radverkehrsführung	_	
+5-5	434-436	am	*[10]	
+5-6	437-451	Verteilerkreis	*[10]	
+5-7	452-460	schlecht	_	
+5-8	461-462	-	_	
+5-9	463-466	und	_	
+5-10	467-473	dieses	_	
+5-11	474-487	Verbotsschild	_	
+5-12	488-493	setzt	_	
+5-13	494-497	dem	_	
+5-14	498-504	ganzen	_	
+5-15	505-508	die	_	
+5-16	509-514	Krone	_	
+5-17	515-518	auf	_	
+5-18	518-519	.	_	
+5-19	519-520	.	_	
+5-20	520-521	.	_	
+
+#Text=Es wäre schön, wenn man den Radfahrern hier ein bisschen entgegen kommen würde.
+6-1	522-524	Es	_	
+6-2	525-529	wäre	_	
+6-3	530-535	schön	_	
+6-4	535-536	,	_	
+6-5	537-541	wenn	_	
+6-6	542-545	man	_	
+6-7	546-549	den	_	
+6-8	550-560	Radfahrern	_	
+6-9	561-565	hier	_	
+6-10	566-569	ein	_	
+6-11	570-578	bisschen	_	
+6-12	579-587	entgegen	_	
+6-13	588-594	kommen	_	
+6-14	595-600	würde	_	
+6-15	600-601	.	_	

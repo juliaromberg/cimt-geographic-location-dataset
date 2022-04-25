@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehrsführung klären
+1-1	0-15	Verkehrsführung	_	
+1-2	16-22	klären	_	
+
+#Text=die Verkehrsführung ist nicht geklärt für die Fahrradfahrer, welche aus Kessenich kommend links Richtung Stadtzentrum auf den Fahrradweg einbiegen wollen.
+2-1	25-28	die	_	
+2-2	29-44	Verkehrsführung	_	
+2-3	45-48	ist	_	
+2-4	49-54	nicht	_	
+2-5	55-62	geklärt	_	
+2-6	63-66	für	_	
+2-7	67-70	die	_	
+2-8	71-84	Fahrradfahrer	_	
+2-9	84-85	,	_	
+2-10	86-92	welche	_	
+2-11	93-96	aus	*[4]	
+2-12	97-106	Kessenich	*[4]	
+2-13	107-114	kommend	*[4]	
+2-14	115-120	links	*[4]	
+2-15	121-129	Richtung	*[4]	
+2-16	130-142	Stadtzentrum	*[4]	
+2-17	143-146	auf	*[4]	
+2-18	147-150	den	*[4]	
+2-19	151-161	Fahrradweg	*[4]	
+2-20	162-171	einbiegen	*[4]	
+2-21	172-178	wollen	_	
+2-22	178-179	.	_	
+
+#Text=Vor allem kommt es zu Stau und Behinderungen, wenn die runtergelassene Schranke sich wieder öffnet.
+3-1	180-183	Vor	_	
+3-2	184-189	allem	_	
+3-3	190-195	kommt	_	
+3-4	196-198	es	_	
+3-5	199-201	zu	_	
+3-6	202-206	Stau	_	
+3-7	207-210	und	_	
+3-8	211-224	Behinderungen	_	
+3-9	224-225	,	_	
+3-10	226-230	wenn	_	
+3-11	231-234	die	_	
+3-12	235-250	runtergelassene	_	
+3-13	251-259	Schranke	_	
+3-14	260-264	sich	_	
+3-15	265-271	wieder	_	
+3-16	272-278	öffnet	_	
+3-17	278-279	.	_	

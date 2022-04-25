@@ -1,0 +1,92 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg über Kreuzung Richtung Süden endet auf einem Bürgersteig, der nicht für Fahrräder frei gegeben ist.
+1-1	0-10	Fahrradweg	_	
+1-2	11-15	über	_	
+1-3	16-24	Kreuzung	_	
+1-4	25-33	Richtung	_	
+1-5	34-39	Süden	_	
+1-6	40-45	endet	_	
+1-7	46-49	auf	_	
+1-8	50-55	einem	_	
+1-9	56-67	Bürgersteig	_	
+1-10	67-68	,	_	
+1-11	69-72	der	_	
+1-12	73-78	nicht	_	
+1-13	79-82	für	_	
+1-14	83-92	Fahrräder	_	
+1-15	93-97	frei	_	
+1-16	98-105	gegeben	_	
+1-17	106-109	ist	_	
+1-18	109-110	.	_	
+
+#Text=Also entweder sollte man den Radweg so führen, dass er direkt auf die (Graurheindorfer) Straße führt (und nicht auf den Bürgersteig oder aber den Bürgersteig für Räder frei geben.
+2-1	113-117	Also	_	
+2-2	118-126	entweder	_	
+2-3	127-133	sollte	_	
+2-4	134-137	man	_	
+2-5	138-141	den	_	
+2-6	142-148	Radweg	_	
+2-7	149-151	so	_	
+2-8	152-158	führen	_	
+2-9	158-159	,	_	
+2-10	160-164	dass	_	
+2-11	165-167	er	_	
+2-12	168-174	direkt	_	
+2-13	175-178	auf	_	
+2-14	179-182	die	*[4]	
+2-15	183-184	(	*[4]	
+2-16	184-199	Graurheindorfer	*[4]	
+2-17	199-200	)	*[4]	
+2-18	201-207	Straße	*[4]	
+2-19	208-213	führt	_	
+2-20	214-215	(	_	
+2-21	215-218	und	_	
+2-22	219-224	nicht	_	
+2-23	225-228	auf	_	
+2-24	229-232	den	_	
+2-25	233-244	Bürgersteig	_	
+2-26	245-249	oder	_	
+2-27	250-254	aber	_	
+2-28	255-258	den	_	
+2-29	259-270	Bürgersteig	_	
+2-30	271-274	für	_	
+2-31	275-280	Räder	_	
+2-32	281-285	frei	_	
+2-33	286-291	geben	_	
+2-34	291-292	.	_	
+
+#Text=Aktuell ist es gefährlich, da man aktiv den Fahrradweg verlassen muss um auf die Straße zu kommen, aber die Autos aufgrund des Radwegs nicht damit rechnen.
+3-1	293-300	Aktuell	_	
+3-2	301-304	ist	_	
+3-3	305-307	es	_	
+3-4	308-318	gefährlich	_	
+3-5	318-319	,	_	
+3-6	320-322	da	_	
+3-7	323-326	man	_	
+3-8	327-332	aktiv	_	
+3-9	333-336	den	_	
+3-10	337-347	Fahrradweg	_	
+3-11	348-357	verlassen	_	
+3-12	358-362	muss	_	
+3-13	363-365	um	_	
+3-14	366-369	auf	_	
+3-15	370-373	die	_	
+3-16	374-380	Straße	_	
+3-17	381-383	zu	_	
+3-18	384-390	kommen	_	
+3-19	390-391	,	_	
+3-20	392-396	aber	_	
+3-21	397-400	die	_	
+3-22	401-406	Autos	_	
+3-23	407-415	aufgrund	_	
+3-24	416-419	des	_	
+3-25	420-427	Radwegs	_	
+3-26	428-433	nicht	_	
+3-27	434-439	damit	_	
+3-28	440-447	rechnen	_	
+3-29	447-448	.	_	

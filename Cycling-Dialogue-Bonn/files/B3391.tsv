@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Linksabbieger
+1-1	0-13	Linksabbieger	_	
+
+#Text=Insbesondere im morgendlichen Berufsverkehr ist es den Schülern und Studenten kaum möglich gefahrlos stadteinwärts von der Meckenheimer Allee in den Kreuzbergweg links abzubiegen.
+2-1	16-28	Insbesondere	_	
+2-2	29-31	im	_	
+2-3	32-45	morgendlichen	_	
+2-4	46-59	Berufsverkehr	_	
+2-5	60-63	ist	_	
+2-6	64-66	es	_	
+2-7	67-70	den	_	
+2-8	71-79	Schülern	_	
+2-9	80-83	und	_	
+2-10	84-93	Studenten	_	
+2-11	94-98	kaum	_	
+2-12	99-106	möglich	_	
+2-13	107-116	gefahrlos	_	
+2-14	117-130	stadteinwärts	*[3]	
+2-15	131-134	von	*[3]	
+2-16	135-138	der	*[3]	
+2-17	139-151	Meckenheimer	*[3]	
+2-18	152-157	Allee	*[3]	
+2-19	158-160	in	*[3]	
+2-20	161-164	den	*[3]	
+2-21	165-177	Kreuzbergweg	*[3]	
+2-22	178-183	links	*[3]	
+2-23	184-194	abzubiegen	*[3]	
+2-24	194-195	.	_	
+
+#Text=Möglich ist nur ein sehr umständlicher Umweg und zeitraubender Umweg über zwei Fußgängerampeln an der folgenden Kreuzung - Meckenheimer Allee/Am Poppelsdorfer Weiher.
+3-1	196-203	Möglich	_	
+3-2	204-207	ist	_	
+3-3	208-211	nur	_	
+3-4	212-215	ein	_	
+3-5	216-220	sehr	_	
+3-6	221-234	umständlicher	_	
+3-7	235-240	Umweg	_	
+3-8	241-244	und	_	
+3-9	245-258	zeitraubender	_	
+3-10	259-264	Umweg	_	
+3-11	265-269	über	_	
+3-12	270-274	zwei	_	
+3-13	275-290	Fußgängerampeln	_	
+3-14	291-293	an	_	
+3-15	294-297	der	_	
+3-16	298-307	folgenden	_	
+3-17	308-316	Kreuzung	*[4]	
+3-18	317-318	-	*[4]	
+3-19	319-331	Meckenheimer	*[4]	
+3-20	332-337	Allee	*[4]	
+3-21	337-338	/	*[4]	
+3-22	338-340	Am	*[4]	
+3-23	341-354	Poppelsdorfer	*[4]	
+3-24	355-361	Weiher	*[4]	
+3-25	361-362	.	_	

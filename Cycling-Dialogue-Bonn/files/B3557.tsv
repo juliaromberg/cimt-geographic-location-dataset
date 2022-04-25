@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Poller, die kein Durchkommen mit Fahrradanhänger ermöglichen
+1-1	0-6	Poller	_	
+1-2	6-7	,	_	
+1-3	8-11	die	_	
+1-4	12-16	kein	_	
+1-5	17-28	Durchkommen	_	
+1-6	29-32	mit	_	
+1-7	33-48	Fahrradanhänger	_	
+1-8	49-60	ermöglichen	_	
+
+#Text=Die Poller ermöglichen lediglich ein Durchkommen mit dem Fahrrad.
+2-1	63-66	Die	_	
+2-2	67-73	Poller	_	
+2-3	74-85	ermöglichen	_	
+2-4	86-95	lediglich	_	
+2-5	96-99	ein	_	
+2-6	100-111	Durchkommen	_	
+2-7	112-115	mit	_	
+2-8	116-119	dem	_	
+2-9	120-127	Fahrrad	_	
+2-10	127-128	.	_	
+
+#Text=Mit dem Anhänger kommt man dort nicht vorbei.
+3-1	129-132	Mit	_	
+3-2	133-136	dem	_	
+3-3	137-145	Anhänger	_	
+3-4	146-151	kommt	_	
+3-5	152-155	man	_	
+3-6	156-160	dort	_	
+3-7	161-166	nicht	_	
+3-8	167-173	vorbei	_	
+3-9	173-174	.	_	

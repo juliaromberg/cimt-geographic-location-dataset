@@ -1,0 +1,111 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradfahrer kreuzen Hauptstrasse ohne gesehen zu werden
+1-1	0-13	Fahrradfahrer	_	
+1-2	14-21	kreuzen	_	
+1-3	22-34	Hauptstrasse	_	
+1-4	35-39	ohne	_	
+1-5	40-47	gesehen	_	
+1-6	48-50	zu	_	
+1-7	51-57	werden	_	
+
+#Text=Dieser Radweg wird oft genutzt, da er die beste Verbindung zwischen Hangelar und Bonn ist.
+2-1	60-66	Dieser	_	
+2-2	67-73	Radweg	_	
+2-3	74-78	wird	_	
+2-4	79-82	oft	_	
+2-5	83-90	genutzt	_	
+2-6	90-91	,	_	
+2-7	92-94	da	_	
+2-8	95-97	er	_	
+2-9	98-101	die	_	
+2-10	102-107	beste	_	
+2-11	108-118	Verbindung	*[6]	
+2-12	119-127	zwischen	*[6]	
+2-13	128-136	Hangelar	*[6]	
+2-14	137-140	und	*[6]	
+2-15	141-145	Bonn	*[6]	
+2-16	146-149	ist	_	
+2-17	149-150	.	_	
+
+#Text=Leider sehr gefährlich, da die Radfahrer sich aus dem Nichts auf die Strasse begeben müssen und die Autofahrer hier oft deutlich Mehr als die erlaubten 30 km/h fahren.
+3-1	151-157	Leider	_	
+3-2	158-162	sehr	_	
+3-3	163-173	gefährlich	_	
+3-4	173-174	,	_	
+3-5	175-177	da	_	
+3-6	178-181	die	_	
+3-7	182-191	Radfahrer	_	
+3-8	192-196	sich	_	
+3-9	197-200	aus	_	
+3-10	201-204	dem	_	
+3-11	205-211	Nichts	_	
+3-12	212-215	auf	_	
+3-13	216-219	die	_	
+3-14	220-227	Strasse	_	
+3-15	228-235	begeben	_	
+3-16	236-242	müssen	_	
+3-17	243-246	und	_	
+3-18	247-250	die	_	
+3-19	251-261	Autofahrer	_	
+3-20	262-266	hier	_	
+3-21	267-270	oft	_	
+3-22	271-279	deutlich	_	
+3-23	280-284	Mehr	_	
+3-24	285-288	als	_	
+3-25	289-292	die	_	
+3-26	293-302	erlaubten	_	
+3-27	303-305	30	_	
+3-28	306-308	km	_	
+3-29	308-309	/	_	
+3-30	309-310	h	_	
+3-31	311-317	fahren	_	
+3-32	317-318	.	_	
+
+#Text=Wünschenswert wäre hier eine besondere Befriedung des Übergangs oder eine Insel, um den Radfahrern besseren Schutz zu bieten und den Verkehrsstrom etwas zu bremsen.
+4-1	319-332	Wünschenswert	_	
+4-2	333-337	wäre	_	
+4-3	338-342	hier	_	
+4-4	343-347	eine	_	
+4-5	348-357	besondere	_	
+4-6	358-368	Befriedung	_	
+4-7	369-372	des	_	
+4-8	373-382	Übergangs	_	
+4-9	383-387	oder	_	
+4-10	388-392	eine	_	
+4-11	393-398	Insel	_	
+4-12	398-399	,	_	
+4-13	400-402	um	_	
+4-14	403-406	den	_	
+4-15	407-417	Radfahrern	_	
+4-16	418-426	besseren	_	
+4-17	427-433	Schutz	_	
+4-18	434-436	zu	_	
+4-19	437-443	bieten	_	
+4-20	444-447	und	_	
+4-21	448-451	den	_	
+4-22	452-465	Verkehrsstrom	_	
+4-23	466-471	etwas	_	
+4-24	472-474	zu	_	
+4-25	475-482	bremsen	_	
+4-26	482-483	.	_	
+
+#Text=Der Radweg könnte auch in Richtung Buschweg kleinere Hausnummern - Nordwesten verlängert werden.
+5-1	484-487	Der	_	
+5-2	488-494	Radweg	_	
+5-3	495-501	könnte	_	
+5-4	502-506	auch	_	
+5-5	507-509	in	*[7]	
+5-6	510-518	Richtung	*[7]	
+5-7	519-527	Buschweg	*[7]	
+5-8	528-536	kleinere	*[7]	
+5-9	537-548	Hausnummern	*[7]	
+5-10	549-550	-	*[7]	
+5-11	551-561	Nordwesten	*[7]	
+5-12	562-572	verlängert	_	
+5-13	573-579	werden	_	
+5-14	579-580	.	_	

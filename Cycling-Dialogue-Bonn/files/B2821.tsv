@@ -1,0 +1,131 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Alternative für Radfahrer zur Südbrücke (A562)
+1-1	0-11	Alternative	_	
+1-2	12-15	für	_	
+1-3	16-25	Radfahrer	_	
+1-4	26-29	zur	_	
+1-5	30-39	Südbrücke	*[8]	
+1-6	40-41	(	*[8]	
+1-7	41-45	A562	*[8]	
+1-8	45-46	)	*[8]	
+
+#Text=Der Radweg über die Südbrücke ist aus meiner Sicht eine der gefährlichsten und unangenehmsten Radstrecken in ganz Bonn.
+2-1	49-52	Der	*[9]	
+2-2	53-59	Radweg	*[9]	
+2-3	60-64	über	*[9]	
+2-4	65-68	die	*[9]	
+2-5	69-78	Südbrücke	*[9]	
+2-6	79-82	ist	_	
+2-7	83-86	aus	_	
+2-8	87-93	meiner	_	
+2-9	94-99	Sicht	_	
+2-10	100-104	eine	_	
+2-11	105-108	der	_	
+2-12	109-123	gefährlichsten	_	
+2-13	124-127	und	_	
+2-14	128-142	unangenehmsten	_	
+2-15	143-154	Radstrecken	_	
+2-16	155-157	in	_	
+2-17	158-162	ganz	_	
+2-18	163-167	Bonn	_	
+2-19	167-168	.	_	
+
+#Text=Man ist den Abgasen ausgesetzt und die Autos rasen mit bis zu 100 km/h an einem vorbei.
+3-1	169-172	Man	_	
+3-2	173-176	ist	_	
+3-3	177-180	den	_	
+3-4	181-188	Abgasen	_	
+3-5	189-199	ausgesetzt	_	
+3-6	200-203	und	_	
+3-7	204-207	die	_	
+3-8	208-213	Autos	_	
+3-9	214-219	rasen	_	
+3-10	220-223	mit	_	
+3-11	224-227	bis	_	
+3-12	228-230	zu	_	
+3-13	231-234	100	_	
+3-14	235-237	km	_	
+3-15	237-238	/	_	
+3-16	238-239	h	_	
+3-17	240-242	an	_	
+3-18	243-248	einem	_	
+3-19	249-255	vorbei	_	
+3-20	255-256	.	_	
+
+#Text=Dabei ist der Radweg nur durch eine schmale, niedrige Betonmauer von der Straße getrennt.
+4-1	257-262	Dabei	_	
+4-2	263-266	ist	_	
+4-3	267-270	der	_	
+4-4	271-277	Radweg	_	
+4-5	278-281	nur	_	
+4-6	282-287	durch	_	
+4-7	288-292	eine	_	
+4-8	293-300	schmale	_	
+4-9	300-301	,	_	
+4-10	302-310	niedrige	_	
+4-11	311-321	Betonmauer	_	
+4-12	322-325	von	_	
+4-13	326-329	der	_	
+4-14	330-336	Straße	_	
+4-15	337-345	getrennt	_	
+4-16	345-346	.	_	
+
+#Text=Nicht auszudenken, was passiert, wenn ein Kfz oder LkW von der Straße abkommt.
+5-1	347-352	Nicht	_	
+5-2	353-364	auszudenken	_	
+5-3	364-365	,	_	
+5-4	366-369	was	_	
+5-5	370-378	passiert	_	
+5-6	378-379	,	_	
+5-7	380-384	wenn	_	
+5-8	385-388	ein	_	
+5-9	389-392	Kfz	_	
+5-10	393-397	oder	_	
+5-11	398-401	LkW	_	
+5-12	402-405	von	_	
+5-13	406-409	der	_	
+5-14	410-416	Straße	_	
+5-15	417-424	abkommt	_	
+5-16	424-425	.	_	
+
+#Text=Daher würde ich mich sehr freuen, wenn es schon bald eine Alternative für Radfahrer zur Südbrücke gäbe, sei es eine kleine Fußgänger/Radfahrer-Brücke oder eine Fähre.
+6-1	426-431	Daher	_	
+6-2	432-437	würde	_	
+6-3	438-441	ich	_	
+6-4	442-446	mich	_	
+6-5	447-451	sehr	_	
+6-6	452-458	freuen	_	
+6-7	458-459	,	_	
+6-8	460-464	wenn	_	
+6-9	465-467	es	_	
+6-10	468-473	schon	_	
+6-11	474-478	bald	_	
+6-12	479-483	eine	_	
+6-13	484-495	Alternative	_	
+6-14	496-499	für	_	
+6-15	500-509	Radfahrer	_	
+6-16	510-513	zur	_	
+6-17	514-523	Südbrücke	*	
+6-18	524-528	gäbe	_	
+6-19	528-529	,	_	
+6-20	530-533	sei	_	
+6-21	534-536	es	_	
+6-22	537-541	eine	_	
+6-23	542-548	kleine	_	
+6-24	549-558	Fußgänger	_	
+6-25	558-559	/	_	
+6-26	559-575	Radfahrer-Brücke	_	
+6-27	576-580	oder	_	
+6-28	581-585	eine	_	
+6-29	586-591	Fähre	_	
+6-30	591-592	.	_	
+
+#Text=Vielen Dank!
+7-1	593-599	Vielen	_	
+7-2	600-604	Dank	_	
+7-3	604-605	!	_	

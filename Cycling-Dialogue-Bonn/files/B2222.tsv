@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradständer am Fronhof permanent stehen lassen
+1-1	0-14	Fahrradständer	_	
+1-2	15-17	am	*[5]	
+1-3	18-25	Fronhof	*[5]	
+1-4	26-35	permanent	_	
+1-5	36-42	stehen	_	
+1-6	43-49	lassen	_	
+
+#Text=Die Fahrradständer vor der Galeria Fronhof sind gefühlt die Hälfte des Jahres abgebaut, z.B. für den Weihnachtsmarkt, für das Stadtfest und charmanterweise auch für die Autoausstellung.
+2-1	52-55	Die	_	
+2-2	56-70	Fahrradständer	_	
+2-3	71-74	vor	*[6]	
+2-4	75-78	der	*[6]	
+2-5	79-86	Galeria	*[6]	
+2-6	87-94	Fronhof	*[6]	
+2-7	95-99	sind	_	
+2-8	100-107	gefühlt	_	
+2-9	108-111	die	_	
+2-10	112-118	Hälfte	_	
+2-11	119-122	des	_	
+2-12	123-129	Jahres	_	
+2-13	130-138	abgebaut	_	
+2-14	138-139	,	_	
+2-15	140-143	z.B	_	
+2-16	143-144	.	_	
+2-17	145-148	für	_	
+2-18	149-152	den	_	
+2-19	153-168	Weihnachtsmarkt	_	
+2-20	168-169	,	_	
+2-21	170-173	für	_	
+2-22	174-177	das	_	
+2-23	178-187	Stadtfest	_	
+2-24	188-191	und	_	
+2-25	192-207	charmanterweise	_	
+2-26	208-212	auch	_	
+2-27	213-216	für	_	
+2-28	217-220	die	_	
+2-29	221-236	Autoausstellung	_	
+2-30	236-237	.	_	
+
+#Text=Daher kann man das Fahrrad über eine Lange Zeit des Jahres nicht diebstahlsicher abstellen.
+3-1	238-243	Daher	_	
+3-2	244-248	kann	_	
+3-3	249-252	man	_	
+3-4	253-256	das	_	
+3-5	257-264	Fahrrad	_	
+3-6	265-269	über	_	
+3-7	270-274	eine	_	
+3-8	275-280	Lange	_	
+3-9	281-285	Zeit	_	
+3-10	286-289	des	_	
+3-11	290-296	Jahres	_	
+3-12	297-302	nicht	_	
+3-13	303-318	diebstahlsicher	_	
+3-14	319-328	abstellen	_	
+3-15	328-329	.	_	
+
+#Text=Die Planung und Genehmigung von Sondernutzungen ist so anzupassen, dass Fahrradabstellplätze an 365/366-Tagen des Jahres vorhanden und nutzbar sind.
+4-1	330-333	Die	_	
+4-2	334-341	Planung	_	
+4-3	342-345	und	_	
+4-4	346-357	Genehmigung	_	
+4-5	358-361	von	_	
+4-6	362-377	Sondernutzungen	_	
+4-7	378-381	ist	_	
+4-8	382-384	so	_	
+4-9	385-395	anzupassen	_	
+4-10	395-396	,	_	
+4-11	397-401	dass	_	
+4-12	402-422	Fahrradabstellplätze	_	
+4-13	423-425	an	_	
+4-14	426-429	365	_	
+4-15	429-430	/	_	
+4-16	430-433	366	_	
+4-17	433-434	-	_	
+4-18	434-439	Tagen	_	
+4-19	440-443	des	_	
+4-20	444-450	Jahres	_	
+4-21	451-460	vorhanden	_	
+4-22	461-464	und	_	
+4-23	465-472	nutzbar	_	
+4-24	473-477	sind	_	
+4-25	477-478	.	_	

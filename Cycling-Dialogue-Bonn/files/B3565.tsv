@@ -1,0 +1,91 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schulung für Busfahrer bzgl StVO
+1-1	0-8	Schulung	_	
+1-2	9-12	für	_	
+1-3	13-22	Busfahrer	_	
+1-4	23-27	bzgl	_	
+1-5	28-32	StVO	_	
+
+#Text=Man sollte regelmäßige Schulungen für Busfahrer anbieten.
+2-1	35-38	Man	_	
+2-2	39-45	sollte	_	
+2-3	46-57	regelmäßige	_	
+2-4	58-68	Schulungen	_	
+2-5	69-72	für	_	
+2-6	73-82	Busfahrer	_	
+2-7	83-91	anbieten	_	
+2-8	91-92	.	_	
+
+#Text=Für Radfahrer freigegebene Gehwege sind nicht benutzungspflichtig.
+3-1	93-96	Für	_	
+3-2	97-106	Radfahrer	_	
+3-3	107-119	freigegebene	_	
+3-4	120-127	Gehwege	_	
+3-5	128-132	sind	_	
+3-6	133-138	nicht	_	
+3-7	139-158	benutzungspflichtig	_	
+3-8	158-159	.	_	
+
+#Text=Man darf auf dem Hermann-Wandersleb-Ring die Fahrbahn benutzen.
+4-1	160-163	Man	_	
+4-2	164-168	darf	_	
+4-3	169-172	auf	*[7]	
+4-4	173-176	dem	*[7]	
+4-5	177-200	Hermann-Wandersleb-Ring	*[7]	
+4-6	201-204	die	_	
+4-7	205-213	Fahrbahn	_	
+4-8	214-222	benutzen	_	
+4-9	222-223	.	_	
+
+#Text=Ich bin mal Sonntags, als aus der Fahrbahn nichts los war, dafür aber viele Fußgänger auf dem Gehweg unterwegs waren, mit einem Busfahrer deswegen aneinander geraten weil er mich absichtlich geschnitten hat als erzieherische Maßnahme.
+5-1	224-227	Ich	_	
+5-2	228-231	bin	_	
+5-3	232-235	mal	_	
+5-4	236-244	Sonntags	_	
+5-5	244-245	,	_	
+5-6	246-249	als	_	
+5-7	250-253	aus	_	
+5-8	254-257	der	_	
+5-9	258-266	Fahrbahn	_	
+5-10	267-273	nichts	_	
+5-11	274-277	los	_	
+5-12	278-281	war	_	
+5-13	281-282	,	_	
+5-14	283-288	dafür	_	
+5-15	289-293	aber	_	
+5-16	294-299	viele	_	
+5-17	300-309	Fußgänger	_	
+5-18	310-313	auf	_	
+5-19	314-317	dem	_	
+5-20	318-324	Gehweg	_	
+5-21	325-334	unterwegs	_	
+5-22	335-340	waren	_	
+5-23	340-341	,	_	
+5-24	342-345	mit	_	
+5-25	346-351	einem	_	
+5-26	352-361	Busfahrer	_	
+5-27	362-370	deswegen	_	
+5-28	371-381	aneinander	_	
+5-29	382-389	geraten	_	
+5-30	390-394	weil	_	
+5-31	395-397	er	_	
+5-32	398-402	mich	_	
+5-33	403-414	absichtlich	_	
+5-34	415-426	geschnitten	_	
+5-35	427-430	hat	_	
+5-36	431-434	als	_	
+5-37	435-448	erzieherische	_	
+5-38	449-457	Maßnahme	_	
+5-39	457-458	.	_	
+
+#Text=Das geht so nicht.
+6-1	459-462	Das	_	
+6-2	463-467	geht	_	
+6-3	468-470	so	_	
+6-4	471-476	nicht	_	
+6-5	476-477	.	_	

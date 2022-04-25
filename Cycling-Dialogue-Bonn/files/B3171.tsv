@@ -1,0 +1,102 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beschilderung der Baustelle Victoriabrücke von Seite der Bornheimer Str Hochstadenring und Kreuzungsbereich
+1-1	0-13	Beschilderung	_	
+1-2	14-17	der	_	
+1-3	18-27	Baustelle	_	
+1-4	28-42	Victoriabrücke	*[6]	
+1-5	43-46	von	*[6]	
+1-6	47-52	Seite	*[6]	
+1-7	53-56	der	*[6]	
+1-8	57-67	Bornheimer	*[6]	
+1-9	68-71	Str	*[6]	
+1-10	72-86	Hochstadenring	*[6]	
+1-11	87-90	und	*[6]	
+1-12	91-107	Kreuzungsbereich	*[6]	
+
+#Text=Es wäre sinnvoll und für den Radverkehr sicherer wenn eine Beschilderung 100 Meter jeweils vor der Brücke die Autofahrer - auf Tempo 30 gedrosselt werden - sowie Schilder Nehmt Rücksicht auf Fahrradfahrer augestellt werden würden
+2-1	110-112	Es	_	
+2-2	113-117	wäre	_	
+2-3	118-126	sinnvoll	_	
+2-4	127-130	und	_	
+2-5	131-134	für	_	
+2-6	135-138	den	_	
+2-7	139-149	Radverkehr	_	
+2-8	150-158	sicherer	_	
+2-9	159-163	wenn	_	
+2-10	164-168	eine	_	
+2-11	169-182	Beschilderung	_	
+2-12	183-186	100	_	
+2-13	187-192	Meter	_	
+2-14	193-200	jeweils	_	
+2-15	201-204	vor	_	
+2-16	205-208	der	_	
+2-17	209-215	Brücke	_	
+2-18	216-219	die	_	
+2-19	220-230	Autofahrer	_	
+2-20	231-232	-	_	
+2-21	233-236	auf	_	
+2-22	237-242	Tempo	_	
+2-23	243-245	30	_	
+2-24	246-256	gedrosselt	_	
+2-25	257-263	werden	_	
+2-26	264-265	-	_	
+2-27	266-271	sowie	_	
+2-28	272-280	Schilder	_	
+2-29	281-286	Nehmt	_	
+2-30	287-296	Rücksicht	_	
+2-31	297-300	auf	_	
+2-32	301-314	Fahrradfahrer	_	
+2-33	315-325	augestellt	_	
+2-34	326-332	werden	_	
+2-35	333-339	würden	_	
+
+#Text=Nach Beendigung der Baumaßnahme wäre diese Kreuzung von allen Seiten mit Verkehrspiegel zur Vermeidung des toten Winkels zu versehen
+3-1	340-344	Nach	_	
+3-2	345-355	Beendigung	_	
+3-3	356-359	der	_	
+3-4	360-371	Baumaßnahme	_	
+3-5	372-376	wäre	_	
+3-6	377-382	diese	_	
+3-7	383-391	Kreuzung	_	
+3-8	392-395	von	_	
+3-9	396-401	allen	_	
+3-10	402-408	Seiten	_	
+3-11	409-412	mit	_	
+3-12	413-427	Verkehrspiegel	_	
+3-13	428-431	zur	_	
+3-14	432-442	Vermeidung	_	
+3-15	443-446	des	_	
+3-16	447-452	toten	_	
+3-17	453-460	Winkels	_	
+3-18	461-463	zu	_	
+3-19	464-472	versehen	_	
+
+#Text=Das gilt für alle gefährlichen Kreuzungen in Bonn
+4-1	473-476	Das	_	
+4-2	477-481	gilt	_	
+4-3	482-485	für	_	
+4-4	486-490	alle	_	
+4-5	491-503	gefährlichen	_	
+4-6	504-514	Kreuzungen	_	
+4-7	515-517	in	*[7]	
+4-8	518-522	Bonn	*[7]	
+
+#Text=In vielen anderen Stadten wird dieses schon lange prakatiziert und ist schnell umsetzbar
+5-1	523-525	In	_	
+5-2	526-532	vielen	_	
+5-3	533-540	anderen	_	
+5-4	541-548	Stadten	_	
+5-5	549-553	wird	_	
+5-6	554-560	dieses	_	
+5-7	561-566	schon	_	
+5-8	567-572	lange	_	
+5-9	573-585	prakatiziert	_	
+5-10	586-589	und	_	
+5-11	590-593	ist	_	
+5-12	594-601	schnell	_	
+5-13	602-611	umsetzbar	_	

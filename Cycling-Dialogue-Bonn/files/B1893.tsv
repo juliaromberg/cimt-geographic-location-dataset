@@ -1,0 +1,181 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rutschiger Belag verursacht gefährliche Stürze
+1-1	0-10	Rutschiger	_	
+1-2	11-16	Belag	_	
+1-3	17-27	verursacht	_	
+1-4	28-39	gefährliche	_	
+1-5	40-46	Stürze	_	
+
+#Text=Um die Friedrich-Ebert-Brücke auf der Bonner Seite mit dem Fahrrad zu verlassen, muss man eine spiralartige Abfahrt nehmen.
+2-1	49-51	Um	*[9]	
+2-2	52-55	die	*[9]	
+2-3	56-78	Friedrich-Ebert-Brücke	*[9]	
+2-4	79-82	auf	*[9]	
+2-5	83-86	der	*[9]	
+2-6	87-93	Bonner	*[9]	
+2-7	94-99	Seite	*[9]	
+2-8	100-103	mit	_	
+2-9	104-107	dem	_	
+2-10	108-115	Fahrrad	_	
+2-11	116-118	zu	_	
+2-12	119-128	verlassen	_	
+2-13	128-129	,	_	
+2-14	130-134	muss	_	
+2-15	135-138	man	_	
+2-16	139-143	eine	_	
+2-17	144-156	spiralartige	_	
+2-18	157-164	Abfahrt	_	
+2-19	165-171	nehmen	_	
+2-20	171-172	.	_	
+
+#Text=Diese ist bei Feuchtigkeit rutschig wie Schmierseife - insbesondere wenn ab Frühjahr die Blütenpollenzeit ist.
+3-1	173-178	Diese	_	
+3-2	179-182	ist	_	
+3-3	183-186	bei	_	
+3-4	187-199	Feuchtigkeit	_	
+3-5	200-208	rutschig	_	
+3-6	209-212	wie	_	
+3-7	213-225	Schmierseife	_	
+3-8	226-227	-	_	
+3-9	228-240	insbesondere	_	
+3-10	241-245	wenn	_	
+3-11	246-248	ab	_	
+3-12	249-257	Frühjahr	_	
+3-13	258-261	die	_	
+3-14	262-278	Blütenpollenzeit	_	
+3-15	279-282	ist	_	
+3-16	282-283	.	_	
+
+#Text=Ich bin im April dort mit dem Rad gestürzt - ich bremste, das Vorderrad rutschte weg und habe mir den Arm kompliziert gebrochen.
+4-1	284-287	Ich	_	
+4-2	288-291	bin	_	
+4-3	292-294	im	_	
+4-4	295-300	April	_	
+4-5	301-305	dort	_	
+4-6	306-309	mit	_	
+4-7	310-313	dem	_	
+4-8	314-317	Rad	_	
+4-9	318-326	gestürzt	_	
+4-10	327-328	-	_	
+4-11	329-332	ich	_	
+4-12	333-340	bremste	_	
+4-13	340-341	,	_	
+4-14	342-345	das	_	
+4-15	346-355	Vorderrad	_	
+4-16	356-364	rutschte	_	
+4-17	365-368	weg	_	
+4-18	369-372	und	_	
+4-19	373-377	habe	_	
+4-20	378-381	mir	_	
+4-21	382-385	den	_	
+4-22	386-389	Arm	_	
+4-23	390-401	kompliziert	_	
+4-24	402-411	gebrochen	_	
+4-25	411-412	.	_	
+
+#Text=In meinem engeren Bekanntenkreis passierte kurz danach ein weiterer Sturz, der glücklicherweise glimpflicher ausging.
+5-1	413-415	In	_	
+5-2	416-422	meinem	_	
+5-3	423-430	engeren	_	
+5-4	431-445	Bekanntenkreis	_	
+5-5	446-455	passierte	_	
+5-6	456-460	kurz	_	
+5-7	461-467	danach	_	
+5-8	468-471	ein	_	
+5-9	472-480	weiterer	_	
+5-10	481-486	Sturz	_	
+5-11	486-487	,	_	
+5-12	488-491	der	_	
+5-13	492-508	glücklicherweise	_	
+5-14	509-521	glimpflicher	_	
+5-15	522-529	ausging	_	
+5-16	529-530	.	_	
+
+#Text=Jedesmal wenn ich dort Kinder spielen sehe, die sich einen Spaß machen und mit Rad oder Skateboard dort herunterrasen, denke ich, was dabei alles passieren kann.
+6-1	531-539	Jedesmal	_	
+6-2	540-544	wenn	_	
+6-3	545-548	ich	_	
+6-4	549-553	dort	_	
+6-5	554-560	Kinder	_	
+6-6	561-568	spielen	_	
+6-7	569-573	sehe	_	
+6-8	573-574	,	_	
+6-9	575-578	die	_	
+6-10	579-583	sich	_	
+6-11	584-589	einen	_	
+6-12	590-594	Spaß	_	
+6-13	595-601	machen	_	
+6-14	602-605	und	_	
+6-15	606-609	mit	_	
+6-16	610-613	Rad	_	
+6-17	614-618	oder	_	
+6-18	619-629	Skateboard	_	
+6-19	630-634	dort	_	
+6-20	635-648	herunterrasen	_	
+6-21	648-649	,	_	
+6-22	650-655	denke	_	
+6-23	656-659	ich	_	
+6-24	659-660	,	_	
+6-25	661-664	was	_	
+6-26	665-670	dabei	_	
+6-27	671-676	alles	_	
+6-28	677-686	passieren	_	
+6-29	687-691	kann	_	
+6-30	691-692	.	_	
+
+#Text=Der Belag ist zwar aufgeraut, aber offenbar mit einer Art Farbe überstrichen, die vielleicht Ursache des Ganzen ist.
+7-1	693-696	Der	_	
+7-2	697-702	Belag	_	
+7-3	703-706	ist	_	
+7-4	707-711	zwar	_	
+7-5	712-721	aufgeraut	_	
+7-6	721-722	,	_	
+7-7	723-727	aber	_	
+7-8	728-736	offenbar	_	
+7-9	737-740	mit	_	
+7-10	741-746	einer	_	
+7-11	747-750	Art	_	
+7-12	751-756	Farbe	_	
+7-13	757-769	überstrichen	_	
+7-14	769-770	,	_	
+7-15	771-774	die	_	
+7-16	775-785	vielleicht	_	
+7-17	786-793	Ursache	_	
+7-18	794-797	des	_	
+7-19	798-804	Ganzen	_	
+7-20	805-808	ist	_	
+7-21	808-809	.	_	
+
+#Text=Zumindest eine Aufforderung abzusteigen fände ich plausibel, eventuell mit einem Hindernis, das dazu zwingt - auch ansonsten ist die Abfahrt ohne gute Bremsen gefährlich.
+8-1	810-819	Zumindest	_	
+8-2	820-824	eine	_	
+8-3	825-837	Aufforderung	_	
+8-4	838-849	abzusteigen	_	
+8-5	850-855	fände	_	
+8-6	856-859	ich	_	
+8-7	860-869	plausibel	_	
+8-8	869-870	,	_	
+8-9	871-880	eventuell	_	
+8-10	881-884	mit	_	
+8-11	885-890	einem	_	
+8-12	891-900	Hindernis	_	
+8-13	900-901	,	_	
+8-14	902-905	das	_	
+8-15	906-910	dazu	_	
+8-16	911-917	zwingt	_	
+8-17	918-919	-	_	
+8-18	920-924	auch	_	
+8-19	925-934	ansonsten	_	
+8-20	935-938	ist	_	
+8-21	939-942	die	_	
+8-22	943-950	Abfahrt	_	
+8-23	951-955	ohne	_	
+8-24	956-960	gute	_	
+8-25	961-968	Bremsen	_	
+8-26	969-979	gefährlich	_	
+8-27	979-980	.	_	

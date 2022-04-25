@@ -1,0 +1,123 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg unterbrochen
+1-1	0-6	Radweg	_	
+1-2	7-19	unterbrochen	_	
+
+#Text=Die Überführung des Radwegs von der Josefstr. auf die Rheinpromenade ist völlig unklar.
+2-1	22-25	Die	_	
+2-2	26-37	Überführung	_	
+2-3	38-41	des	_	
+2-4	42-49	Radwegs	_	
+2-5	50-53	von	*[6]	
+2-6	54-57	der	*[6]	
+2-7	58-66	Josefstr	*[6]	
+2-8	66-67	.	*[6]	
+2-9	68-71	auf	*[6]	
+2-10	72-75	die	*[6]	
+2-11	76-90	Rheinpromenade	*[6]	
+2-12	91-94	ist	_	
+2-13	95-101	völlig	_	
+2-14	102-108	unklar	_	
+2-15	108-109	.	_	
+
+#Text=Hier sollte Radfahrern und Autofahrern deutlich angezeigt werden, wer zuerst fahren darf, da die Radfahrer die Straße überqueren müssen und das Rechts-vor-Links-Prinzip damit nicht mehr funktioniert.
+3-1	110-114	Hier	_	
+3-2	115-121	sollte	_	
+3-3	122-132	Radfahrern	_	
+3-4	133-136	und	_	
+3-5	137-148	Autofahrern	_	
+3-6	149-157	deutlich	_	
+3-7	158-167	angezeigt	_	
+3-8	168-174	werden	_	
+3-9	174-175	,	_	
+3-10	176-179	wer	_	
+3-11	180-186	zuerst	_	
+3-12	187-193	fahren	_	
+3-13	194-198	darf	_	
+3-14	198-199	,	_	
+3-15	200-202	da	_	
+3-16	203-206	die	_	
+3-17	207-216	Radfahrer	_	
+3-18	217-220	die	_	
+3-19	221-227	Straße	_	
+3-20	228-238	überqueren	_	
+3-21	239-245	müssen	_	
+3-22	246-249	und	_	
+3-23	250-253	das	_	
+3-24	254-278	Rechts-vor-Links-Prinzip	_	
+3-25	279-284	damit	_	
+3-26	285-290	nicht	_	
+3-27	291-295	mehr	_	
+3-28	296-308	funktioniert	_	
+3-29	308-309	.	_	
+
+#Text=Vorschlag wäre, den Radweg ausschließlich nach rechts weiterzuführen und dann, vielleicht in blau) eine Radquerungszone auf der Straße zu zeichnen, um den gesamten Verkehr wie auf einer Spielstraße zu verlangsamen und allen Verkehrsteilnehmern mehr Sicherheit zu geben.
+4-1	310-319	Vorschlag	_	
+4-2	320-324	wäre	_	
+4-3	324-325	,	_	
+4-4	326-329	den	_	
+4-5	330-336	Radweg	_	
+4-6	337-351	ausschließlich	_	
+4-7	352-356	nach	_	
+4-8	357-363	rechts	_	
+4-9	364-378	weiterzuführen	_	
+4-10	379-382	und	_	
+4-11	383-387	dann	_	
+4-12	387-388	,	_	
+4-13	389-399	vielleicht	_	
+4-14	400-402	in	_	
+4-15	403-407	blau	_	
+4-16	407-408	)	_	
+4-17	409-413	eine	_	
+4-18	414-429	Radquerungszone	_	
+4-19	430-433	auf	_	
+4-20	434-437	der	_	
+4-21	438-444	Straße	_	
+4-22	445-447	zu	_	
+4-23	448-456	zeichnen	_	
+4-24	456-457	,	_	
+4-25	458-460	um	_	
+4-26	461-464	den	_	
+4-27	465-473	gesamten	_	
+4-28	474-481	Verkehr	_	
+4-29	482-485	wie	_	
+4-30	486-489	auf	_	
+4-31	490-495	einer	_	
+4-32	496-507	Spielstraße	_	
+4-33	508-510	zu	_	
+4-34	511-523	verlangsamen	_	
+4-35	524-527	und	_	
+4-36	528-533	allen	_	
+4-37	534-553	Verkehrsteilnehmern	_	
+4-38	554-558	mehr	_	
+4-39	559-569	Sicherheit	_	
+4-40	570-572	zu	_	
+4-41	573-578	geben	_	
+4-42	578-579	.	_	
+
+#Text=Dieser Bereich könnte sich bis auf die andere Seite der Kennedy-Brücke erstrecken, wo im Prinzip dieselbe Situation herrscht.
+5-1	580-586	Dieser	_	
+5-2	587-594	Bereich	_	
+5-3	595-601	könnte	_	
+5-4	602-606	sich	_	
+5-5	607-610	bis	_	
+5-6	611-614	auf	_	
+5-7	615-618	die	_	
+5-8	619-625	andere	_	
+5-9	626-631	Seite	_	
+5-10	632-635	der	_	
+5-11	636-650	Kennedy-Brücke	*	
+5-12	651-661	erstrecken	_	
+5-13	661-662	,	_	
+5-14	663-665	wo	_	
+5-15	666-668	im	_	
+5-16	669-676	Prinzip	_	
+5-17	677-685	dieselbe	_	
+5-18	686-695	Situation	_	
+5-19	696-704	herrscht	_	
+5-20	704-705	.	_	

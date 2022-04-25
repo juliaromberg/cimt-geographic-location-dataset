@@ -1,0 +1,162 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=West-Ost-Radwegeverbindung verbessern
+1-1	0-26	West-Ost-Radwegeverbindung	_	
+1-2	27-37	verbessern	_	
+
+#Text=Die Verbindungen in West-Ost-Richtung durch die Bonner City sind für den Auto- wie Radverkehr extrem schwierig.
+2-1	40-43	Die	_	
+2-2	44-56	Verbindungen	_	
+2-3	57-59	in	*[9]	
+2-4	60-77	West-Ost-Richtung	*[9]	
+2-5	78-83	durch	*[9]	
+2-6	84-87	die	*[9]	
+2-7	88-94	Bonner	*[9]	
+2-8	95-99	City	*[9]	
+2-9	100-104	sind	_	
+2-10	105-108	für	_	
+2-11	109-112	den	_	
+2-12	113-117	Auto	_	
+2-13	117-118	-	_	
+2-14	119-122	wie	_	
+2-15	123-133	Radverkehr	_	
+2-16	134-140	extrem	_	
+2-17	141-150	schwierig	_	
+2-18	150-151	.	_	
+
+#Text=Eine viel genutzte Verbindung für Radfahrer ist die Achse Poppelsdorfer Alle, Unterführung Hbf/Busbahnhof, Kaiserplatz, Universität, um dann auf die Adenauerallee und in Richtung Kennedybrücke zu gelangen.
+3-1	152-156	Eine	_	
+3-2	157-161	viel	_	
+3-3	162-170	genutzte	_	
+3-4	171-181	Verbindung	_	
+3-5	182-185	für	_	
+3-6	186-195	Radfahrer	_	
+3-7	196-199	ist	_	
+3-8	200-203	die	*[10]	
+3-9	204-209	Achse	*[10]	
+3-10	210-223	Poppelsdorfer	*[10]	
+3-11	224-228	Alle	*[10]	
+3-12	228-229	,	*[10]	
+3-13	230-242	Unterführung	*[10]	
+3-14	243-246	Hbf	*[10]	
+3-15	246-247	/	*[10]	
+3-16	247-257	Busbahnhof	*[10]	
+3-17	257-258	,	*[10]	
+3-18	259-270	Kaiserplatz	*[10]	
+3-19	270-271	,	*[10]	
+3-20	272-283	Universität	*[10]	
+3-21	283-284	,	*[10]	
+3-22	285-287	um	*[10]	
+3-23	288-292	dann	*[10]	
+3-24	293-296	auf	*[10]	
+3-25	297-300	die	*[10]	
+3-26	301-314	Adenauerallee	*[10]	
+3-27	315-318	und	*[10]	
+3-28	319-321	in	*[10]	
+3-29	322-330	Richtung	*[10]	
+3-30	331-344	Kennedybrücke	*[10]	
+3-31	345-347	zu	_	
+3-32	348-356	gelangen	_	
+3-33	356-357	.	_	
+
+#Text=Allerdings gibt es immer wieder Konflikte mit dem Fußgängerverkehr, vor allem zwischen dem Unihauptgebäude und der Hofgartenwiese.
+4-1	358-368	Allerdings	_	
+4-2	369-373	gibt	_	
+4-3	374-376	es	_	
+4-4	377-382	immer	_	
+4-5	383-389	wieder	_	
+4-6	390-399	Konflikte	_	
+4-7	400-403	mit	_	
+4-8	404-407	dem	_	
+4-9	408-424	Fußgängerverkehr	_	
+4-10	424-425	,	_	
+4-11	426-429	vor	_	
+4-12	430-435	allem	_	
+4-13	436-444	zwischen	*[11]	
+4-14	445-448	dem	*[11]	
+4-15	449-464	Unihauptgebäude	*[11]	
+4-16	465-468	und	*[11]	
+4-17	469-472	der	*[11]	
+4-18	473-487	Hofgartenwiese	*[11]	
+4-19	487-488	.	_	
+
+#Text=Hier engen die vorhandenen riesige Betonblumenkübel den gemischten Bereich für Fußgänger und Radfahrer stark ein.
+5-1	489-493	Hier	_	
+5-2	494-499	engen	_	
+5-3	500-503	die	_	
+5-4	504-515	vorhandenen	_	
+5-5	516-523	riesige	_	
+5-6	524-540	Betonblumenkübel	_	
+5-7	541-544	den	_	
+5-8	545-555	gemischten	_	
+5-9	556-563	Bereich	_	
+5-10	564-567	für	_	
+5-11	568-577	Fußgänger	_	
+5-12	578-581	und	_	
+5-13	582-591	Radfahrer	_	
+5-14	592-597	stark	_	
+5-15	598-601	ein	_	
+5-16	601-602	.	_	
+
+#Text=Anregung ist eine klare Trennung von Radfahrern entlang der Hofgartenwiese oder dem Rückbau der Blumenkübel, um die Konflikte zu verringern.
+6-1	603-611	Anregung	_	
+6-2	612-615	ist	_	
+6-3	616-620	eine	_	
+6-4	621-626	klare	_	
+6-5	627-635	Trennung	_	
+6-6	636-639	von	_	
+6-7	640-650	Radfahrern	_	
+6-8	651-658	entlang	*[12]	
+6-9	659-662	der	*[12]	
+6-10	663-677	Hofgartenwiese	*[12]	
+6-11	678-682	oder	_	
+6-12	683-686	dem	_	
+6-13	687-694	Rückbau	_	
+6-14	695-698	der	_	
+6-15	699-710	Blumenkübel	_	
+6-16	710-711	,	_	
+6-17	712-714	um	_	
+6-18	715-718	die	_	
+6-19	719-728	Konflikte	_	
+6-20	729-731	zu	_	
+6-21	732-742	verringern	_	
+6-22	742-743	.	_	
+
+#Text=Zudem sollte über eine Sanierung und Erweiterung der Unterführung zwischen Poopeldorfer Alee und Kaiserplatz nachgedacht werden.
+7-1	744-749	Zudem	_	
+7-2	750-756	sollte	_	
+7-3	757-761	über	_	
+7-4	762-766	eine	_	
+7-5	767-776	Sanierung	_	
+7-6	777-780	und	_	
+7-7	781-792	Erweiterung	_	
+7-8	793-796	der	_	
+7-9	797-809	Unterführung	*[13]	
+7-10	810-818	zwischen	*[13]	
+7-11	819-831	Poopeldorfer	*[13]	
+7-12	832-836	Alee	*[13]	
+7-13	837-840	und	*[13]	
+7-14	841-852	Kaiserplatz	*[13]	
+7-15	853-864	nachgedacht	_	
+7-16	865-871	werden	_	
+7-17	871-872	.	_	
+
+#Text=Für Fahrradfahrer mit Anhängern ist eine Passage nur schwer möglich durch die Drängelgitter.
+8-1	873-876	Für	_	
+8-2	877-890	Fahrradfahrer	_	
+8-3	891-894	mit	_	
+8-4	895-904	Anhängern	_	
+8-5	905-908	ist	_	
+8-6	909-913	eine	_	
+8-7	914-921	Passage	_	
+8-8	922-925	nur	_	
+8-9	926-932	schwer	_	
+8-10	933-940	möglich	_	
+8-11	941-946	durch	_	
+8-12	947-950	die	_	
+8-13	951-964	Drängelgitter	_	
+8-14	964-965	.	_	

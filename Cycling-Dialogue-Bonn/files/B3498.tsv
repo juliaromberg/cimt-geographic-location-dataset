@@ -1,0 +1,181 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kaiserstraße als Fahrradstraße ausbauen
+1-1	0-12	Kaiserstraße	*	
+1-2	13-16	als	_	
+1-3	17-30	Fahrradstraße	_	
+1-4	31-39	ausbauen	_	
+
+#Text=Fahre seit 18 Jahren jeden Tag von Friesdorf an der Bahn entlang zum Hbf.
+2-1	42-47	Fahre	_	
+2-2	48-52	seit	_	
+2-3	53-55	18	_	
+2-4	56-62	Jahren	_	
+2-5	63-68	jeden	_	
+2-6	69-72	Tag	_	
+2-7	73-76	von	*[12]	
+2-8	77-86	Friesdorf	*[12]	
+2-9	87-89	an	*[12]	
+2-10	90-93	der	*[12]	
+2-11	94-98	Bahn	*[12]	
+2-12	99-106	entlang	*[12]	
+2-13	107-110	zum	*[12]	
+2-14	111-114	Hbf	*[12]	
+2-15	114-115	.	_	
+
+#Text=Der Radweg an der gesamten Kaiserstraße (Kaiserplatz bis Reuterbrücke) ist ein Problem, weil sehr stark frequentiert.
+3-1	116-119	Der	*[13]	
+3-2	120-126	Radweg	*[13]	
+3-3	127-129	an	*[13]	
+3-4	130-133	der	*[13]	
+3-5	134-142	gesamten	*[13]	
+3-6	143-155	Kaiserstraße	*[13]	
+3-7	156-157	(	*[13]	
+3-8	157-168	Kaiserplatz	*[13]	
+3-9	169-172	bis	*[13]	
+3-10	173-185	Reuterbrücke	*[13]	
+3-11	185-186	)	*[13]	
+3-12	187-190	ist	_	
+3-13	191-194	ein	_	
+3-14	195-202	Problem	_	
+3-15	202-203	,	_	
+3-16	204-208	weil	_	
+3-17	209-213	sehr	_	
+3-18	214-219	stark	_	
+3-19	220-232	frequentiert	_	
+3-20	232-233	.	_	
+
+#Text=Je mehr es der Stadt zugeht, desto enger wird es, für die Autos ist nicht durchgehend 30 km/h vorgesehen.
+4-1	234-236	Je	_	
+4-2	237-241	mehr	_	
+4-3	242-244	es	_	
+4-4	245-248	der	_	
+4-5	249-254	Stadt	_	
+4-6	255-261	zugeht	_	
+4-7	261-262	,	_	
+4-8	263-268	desto	_	
+4-9	269-274	enger	_	
+4-10	275-279	wird	_	
+4-11	280-282	es	_	
+4-12	282-283	,	_	
+4-13	284-287	für	_	
+4-14	288-291	die	_	
+4-15	292-297	Autos	_	
+4-16	298-301	ist	_	
+4-17	302-307	nicht	_	
+4-18	308-319	durchgehend	_	
+4-19	320-322	30	_	
+4-20	323-325	km	_	
+4-21	325-326	/	_	
+4-22	326-327	h	_	
+4-23	328-338	vorgesehen	_	
+4-24	338-339	.	_	
+
+#Text=Besser wäre es, die Kaiserstraße zur Fahrradstraße inklusive ÖPNV umzubauen.
+5-1	340-346	Besser	_	
+5-2	347-351	wäre	_	
+5-3	352-354	es	_	
+5-4	354-355	,	_	
+5-5	356-359	die	*[14]	
+5-6	360-372	Kaiserstraße	*[14]	
+5-7	373-376	zur	_	
+5-8	377-390	Fahrradstraße	_	
+5-9	391-400	inklusive	_	
+5-10	401-405	ÖPNV	_	
+5-11	406-415	umzubauen	_	
+5-12	415-416	.	_	
+
+#Text=Autos bis auf Anlieger müssten draußen bleiben.
+6-1	417-422	Autos	_	
+6-2	423-426	bis	_	
+6-3	427-430	auf	_	
+6-4	431-439	Anlieger	_	
+6-5	440-447	müssten	_	
+6-6	448-455	draußen	_	
+6-7	456-463	bleiben	_	
+6-8	463-464	.	_	
+
+#Text=Besonders schwierig ist der Bahnübergang Lessingstraße mit den Stopbalken.
+7-1	465-474	Besonders	_	
+7-2	475-484	schwierig	_	
+7-3	485-488	ist	_	
+7-4	489-492	der	*[15]	
+7-5	493-505	Bahnübergang	*[15]	
+7-6	506-519	Lessingstraße	*[15]	
+7-7	520-523	mit	_	
+7-8	524-527	den	_	
+7-9	528-538	Stopbalken	_	
+7-10	538-539	.	_	
+
+#Text=De facto wird das ignoriert.
+8-1	540-542	De	_	
+8-2	543-548	facto	_	
+8-3	549-553	wird	_	
+8-4	554-557	das	_	
+8-5	558-567	ignoriert	_	
+8-6	567-568	.	_	
+
+#Text=Das führt immer wieder zu gefährlichen Situation.
+9-1	569-572	Das	_	
+9-2	573-578	führt	_	
+9-3	579-584	immer	_	
+9-4	585-591	wieder	_	
+9-5	592-594	zu	_	
+9-6	595-607	gefährlichen	_	
+9-7	608-617	Situation	_	
+9-8	617-618	.	_	
+
+#Text=Der Stoppbalken macht aber auch wenig Sinn, wenn die Schranken geschlossen sind und es nicht gerade Rush-hour ist.
+10-1	619-622	Der	_	
+10-2	623-634	Stoppbalken	_	
+10-3	635-640	macht	_	
+10-4	641-645	aber	_	
+10-5	646-650	auch	_	
+10-6	651-656	wenig	_	
+10-7	657-661	Sinn	_	
+10-8	661-662	,	_	
+10-9	663-667	wenn	_	
+10-10	668-671	die	_	
+10-11	672-681	Schranken	_	
+10-12	682-693	geschlossen	_	
+10-13	694-698	sind	_	
+10-14	699-702	und	_	
+10-15	703-705	es	_	
+10-16	706-711	nicht	_	
+10-17	712-718	gerade	_	
+10-18	719-728	Rush-hour	_	
+10-19	729-732	ist	_	
+10-20	732-733	.	_	
+
+#Text=Zwischen Weber- und Koenigstraße wird es dann vollends abenteurlich, man kommt kaum aneinander vorbei, weil auch die Randbewachsung nicht oft genug rückgeschnitten wird.
+11-1	734-742	Zwischen	*[16]	
+11-2	743-748	Weber	*[16]	
+11-3	748-749	-	*[16]	
+11-4	750-753	und	*[16]	
+11-5	754-766	Koenigstraße	*[16]	
+11-6	767-771	wird	_	
+11-7	772-774	es	_	
+11-8	775-779	dann	_	
+11-9	780-788	vollends	_	
+11-10	789-801	abenteurlich	_	
+11-11	801-802	,	_	
+11-12	803-806	man	_	
+11-13	807-812	kommt	_	
+11-14	813-817	kaum	_	
+11-15	818-828	aneinander	_	
+11-16	829-835	vorbei	_	
+11-17	835-836	,	_	
+11-18	837-841	weil	_	
+11-19	842-846	auch	_	
+11-20	847-850	die	_	
+11-21	851-865	Randbewachsung	_	
+11-22	866-871	nicht	_	
+11-23	872-875	oft	_	
+11-24	876-881	genug	_	
+11-25	882-897	rückgeschnitten	_	
+11-26	898-902	wird	_	
+11-27	902-903	.	_	

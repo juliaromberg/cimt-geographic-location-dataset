@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hinweisschild für einmündende Kraftfahrer
+1-1	0-13	Hinweisschild	_	
+1-2	14-17	für	_	
+1-3	18-29	einmündende	_	
+1-4	30-41	Kraftfahrer	_	
+
+#Text=Hinweisschild für einmündende Kraftfahrer auf querende Radfahrer von der Reichststraße.
+2-1	44-57	Hinweisschild	_	
+2-2	58-61	für	_	
+2-3	62-73	einmündende	_	
+2-4	74-85	Kraftfahrer	_	
+2-5	86-89	auf	_	
+2-6	90-98	querende	_	
+2-7	99-108	Radfahrer	_	
+2-8	109-112	von	*[4]	
+2-9	113-116	der	*[4]	
+2-10	117-130	Reichststraße	*[4]	
+2-11	130-131	.	_	
+
+#Text=Meistens stellen sich wartende Kraftfahrzeuge auf den Radweg der Reichsstr. bevor sie in diese (Richtung Lngsdorf oder Rottgen) einbiegen und zwingen die Radfahrer auf der Reichstr. zum Anhalten oder Ausweichen auf die Fahrbahn.
+3-1	132-140	Meistens	_	
+3-2	141-148	stellen	_	
+3-3	149-153	sich	_	
+3-4	154-162	wartende	_	
+3-5	163-177	Kraftfahrzeuge	_	
+3-6	178-181	auf	_	
+3-7	182-185	den	_	
+3-8	186-192	Radweg	_	
+3-9	193-196	der	_	
+3-10	197-206	Reichsstr	*	
+3-11	206-207	.	_	
+3-12	208-213	bevor	_	
+3-13	214-217	sie	_	
+3-14	218-220	in	_	
+3-15	221-226	diese	_	
+3-16	227-228	(	_	
+3-17	228-236	Richtung	*[5]	
+3-18	237-245	Lngsdorf	*[5]	
+3-19	246-250	oder	*[5]	
+3-20	251-258	Rottgen	*[5]	
+3-21	258-259	)	_	
+3-22	260-269	einbiegen	_	
+3-23	270-273	und	_	
+3-24	274-281	zwingen	_	
+3-25	282-285	die	_	
+3-26	286-295	Radfahrer	_	
+3-27	296-299	auf	*[6]	
+3-28	300-303	der	*[6]	
+3-29	304-312	Reichstr	*[6]	
+3-30	312-313	.	_	
+3-31	314-317	zum	_	
+3-32	318-326	Anhalten	_	
+3-33	327-331	oder	_	
+3-34	332-342	Ausweichen	_	
+3-35	343-346	auf	_	
+3-36	347-350	die	_	
+3-37	351-359	Fahrbahn	_	
+3-38	359-360	.	_	

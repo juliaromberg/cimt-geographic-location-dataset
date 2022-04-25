@@ -1,0 +1,137 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Linksabbieger in die Ellerstraße brauchen zwei Ampelübergänge
+1-1	0-13	Linksabbieger	_	
+1-2	14-16	in	*[8]	
+1-3	17-20	die	*[8]	
+1-4	21-32	Ellerstraße	*[8]	
+1-5	33-41	brauchen	_	
+1-6	42-46	zwei	_	
+1-7	47-61	Ampelübergänge	_	
+
+#Text=Kommt man hier von Westen auf dem Heinrich-Böll-Ring und möchte links in die Ellerstraße abbiegen, sieht die Verkehrsführung die Überquerung des Heinrich-Böll-Rings mit der Ampel auf der Westseite der Kreuzung und eine Überquerung der Ellerstraße mit der Ampel auf der Nordseite vor.
+2-1	64-69	Kommt	_	
+2-2	70-73	man	_	
+2-3	74-78	hier	_	
+2-4	79-82	von	*[9]	
+2-5	83-89	Westen	*[9]	
+2-6	90-93	auf	*[9]	
+2-7	94-97	dem	*[9]	
+2-8	98-116	Heinrich-Böll-Ring	*[9]	
+2-9	117-120	und	_	
+2-10	121-127	möchte	_	
+2-11	128-133	links	*[10]	
+2-12	134-136	in	*[10]	
+2-13	137-140	die	*[10]	
+2-14	141-152	Ellerstraße	*[10]	
+2-15	153-161	abbiegen	*[10]	
+2-16	161-162	,	_	
+2-17	163-168	sieht	_	
+2-18	169-172	die	_	
+2-19	173-188	Verkehrsführung	_	
+2-20	189-192	die	_	
+2-21	193-204	Überquerung	*[11]	
+2-22	205-208	des	*[11]	
+2-23	209-228	Heinrich-Böll-Rings	*[11]	
+2-24	229-232	mit	_	
+2-25	233-236	der	_	
+2-26	237-242	Ampel	_	
+2-27	243-246	auf	_	
+2-28	247-250	der	_	
+2-29	251-260	Westseite	_	
+2-30	261-264	der	_	
+2-31	265-273	Kreuzung	_	
+2-32	274-277	und	_	
+2-33	278-282	eine	_	
+2-34	283-294	Überquerung	*[12]	
+2-35	295-298	der	*[12]	
+2-36	299-310	Ellerstraße	*[12]	
+2-37	311-314	mit	_	
+2-38	315-318	der	_	
+2-39	319-324	Ampel	_	
+2-40	325-328	auf	_	
+2-41	329-332	der	_	
+2-42	333-342	Nordseite	_	
+2-43	343-346	vor	_	
+2-44	346-347	.	_	
+
+#Text=Dadurch muss man hier recht lange warten.
+3-1	348-355	Dadurch	_	
+3-2	356-360	muss	_	
+3-3	361-364	man	_	
+3-4	365-369	hier	_	
+3-5	370-375	recht	_	
+3-6	376-381	lange	_	
+3-7	382-388	warten	_	
+3-8	388-389	.	_	
+
+#Text=Deutlich schneller geht es, wenn man parallel zum Heinrich-Böll-Ring fährt und dann die Thomastraße mit der anderen Ampel überquert.
+4-1	390-398	Deutlich	_	
+4-2	399-408	schneller	_	
+4-3	409-413	geht	_	
+4-4	414-416	es	_	
+4-5	416-417	,	_	
+4-6	418-422	wenn	_	
+4-7	423-426	man	_	
+4-8	427-435	parallel	*[13]	
+4-9	436-439	zum	*[13]	
+4-10	440-458	Heinrich-Böll-Ring	*[13]	
+4-11	459-464	fährt	_	
+4-12	465-468	und	_	
+4-13	469-473	dann	_	
+4-14	474-477	die	*[14]	
+4-15	478-489	Thomastraße	*[14]	
+4-16	490-493	mit	*[14]	
+4-17	494-497	der	*[14]	
+4-18	498-505	anderen	*[14]	
+4-19	506-511	Ampel	*[14]	
+4-20	512-521	überquert	*[14]	
+4-21	521-522	.	_	
+
+#Text=Da ist aber kein Radweg mehr, nur noch ein »Schutzstreifen« auf der Straße.
+5-1	523-525	Da	_	
+5-2	526-529	ist	_	
+5-3	530-534	aber	_	
+5-4	535-539	kein	_	
+5-5	540-546	Radweg	_	
+5-6	547-551	mehr	_	
+5-7	551-552	,	_	
+5-8	553-556	nur	_	
+5-9	557-561	noch	_	
+5-10	562-565	ein	_	
+5-11	566-567	»	_	
+5-12	567-581	Schutzstreifen	_	
+5-13	581-582	«	_	
+5-14	583-586	auf	_	
+5-15	587-590	der	_	
+5-16	591-597	Straße	_	
+5-17	597-598	.	_	
+
+#Text=Offiziell müsste man also auf die Fahrbahn wechseln und dann die Straßenseite wechseln.
+6-1	599-608	Offiziell	_	
+6-2	609-615	müsste	_	
+6-3	616-619	man	_	
+6-4	620-624	also	_	
+6-5	625-628	auf	_	
+6-6	629-632	die	_	
+6-7	633-641	Fahrbahn	_	
+6-8	642-650	wechseln	_	
+6-9	651-654	und	_	
+6-10	655-659	dann	_	
+6-11	660-663	die	_	
+6-12	664-676	Straßenseite	_	
+6-13	677-685	wechseln	_	
+6-14	685-686	.	_	
+
+#Text=Alles nicht so ganz das Wahre.
+7-1	687-692	Alles	_	
+7-2	693-698	nicht	_	
+7-3	699-701	so	_	
+7-4	702-706	ganz	_	
+7-5	707-710	das	_	
+7-6	711-716	Wahre	_	
+7-7	716-717	.	_	

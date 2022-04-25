@@ -1,0 +1,96 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bitte unterbinden Sie das Radfahren in der Fußgängerzone!
+1-1	0-5	Bitte	_	
+1-2	6-17	unterbinden	_	
+1-3	18-21	Sie	_	
+1-4	22-25	das	_	
+1-5	26-35	Radfahren	_	
+1-6	36-38	in	_	
+1-7	39-42	der	_	
+1-8	43-56	Fußgängerzone	_	
+1-9	56-57	!	_	
+
+#Text=Sehr geehrte Damen und Herren!
+2-1	60-64	Sehr	_	
+2-2	65-72	geehrte	_	
+2-3	73-78	Damen	_	
+2-4	79-82	und	_	
+2-5	83-89	Herren	_	
+2-6	89-90	!	_	
+
+#Text=In der Fußgängerzone sollte Radfahren komplett verboten werden, damit hier endlich Rechtssicherheit herrscht.
+3-1	91-93	In	_	
+3-2	94-97	der	_	
+3-3	98-111	Fußgängerzone	_	
+3-4	112-118	sollte	_	
+3-5	119-128	Radfahren	_	
+3-6	129-137	komplett	_	
+3-7	138-146	verboten	_	
+3-8	147-153	werden	_	
+3-9	153-154	,	_	
+3-10	155-160	damit	_	
+3-11	161-165	hier	_	
+3-12	166-173	endlich	_	
+3-13	174-190	Rechtssicherheit	_	
+3-14	191-199	herrscht	_	
+3-15	199-200	.	_	
+
+#Text=Dieses Verbot sollte durch regelmäßige Kontrollen und möglichst hohe Geldstrafen auch durchgesetzt werden.
+4-1	201-207	Dieses	_	
+4-2	208-214	Verbot	_	
+4-3	215-221	sollte	_	
+4-4	222-227	durch	_	
+4-5	228-239	regelmäßige	_	
+4-6	240-250	Kontrollen	_	
+4-7	251-254	und	_	
+4-8	255-264	möglichst	_	
+4-9	265-269	hohe	_	
+4-10	270-281	Geldstrafen	_	
+4-11	282-286	auch	_	
+4-12	287-299	durchgesetzt	_	
+4-13	300-306	werden	_	
+4-14	306-307	.	_	
+
+#Text=Eine Fußgängerzone ist keine Radrennbahn.
+5-1	308-312	Eine	_	
+5-2	313-326	Fußgängerzone	_	
+5-3	327-330	ist	_	
+5-4	331-336	keine	_	
+5-5	337-348	Radrennbahn	_	
+5-6	348-349	.	_	
+
+#Text=Als Fußgänger fühlt man sich in der Fußgängerzone oftmals wie Freiwild, man ist den aggressiven Kampfradlern hilflos ausgeliefert.
+6-1	350-353	Als	_	
+6-2	354-363	Fußgänger	_	
+6-3	364-369	fühlt	_	
+6-4	370-373	man	_	
+6-5	374-378	sich	_	
+6-6	379-381	in	_	
+6-7	382-385	der	_	
+6-8	386-399	Fußgängerzone	_	
+6-9	400-407	oftmals	_	
+6-10	408-411	wie	_	
+6-11	412-420	Freiwild	_	
+6-12	420-421	,	_	
+6-13	422-425	man	_	
+6-14	426-429	ist	_	
+6-15	430-433	den	_	
+6-16	434-445	aggressiven	_	
+6-17	446-458	Kampfradlern	_	
+6-18	459-466	hilflos	_	
+6-19	467-479	ausgeliefert	_	
+6-20	479-480	.	_	
+
+#Text=Mit freundlichen Grüßen [Name entfernt]
+7-1	481-484	Mit	_	
+7-2	485-497	freundlichen	_	
+7-3	498-504	Grüßen	_	
+7-4	505-506	[	_	
+7-5	506-510	Name	_	
+7-6	511-519	entfernt	_	
+7-7	519-520	]	_	

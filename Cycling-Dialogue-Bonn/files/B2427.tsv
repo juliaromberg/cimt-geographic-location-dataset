@@ -1,0 +1,175 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unübersichtliches Ende des Fahrradweges - Bushaltestelle
+1-1	0-17	Unübersichtliches	_	
+1-2	18-22	Ende	_	
+1-3	23-26	des	_	
+1-4	27-39	Fahrradweges	_	
+1-5	40-41	-	_	
+1-6	42-56	Bushaltestelle	_	
+
+#Text=An der makierten Stelle endet der Fahrradweg genau an einer Bushaltestelle.
+2-1	59-61	An	_	
+2-2	62-65	der	_	
+2-3	66-75	makierten	_	
+2-4	76-82	Stelle	_	
+2-5	83-88	endet	_	
+2-6	89-92	der	_	
+2-7	93-103	Fahrradweg	_	
+2-8	104-109	genau	_	
+2-9	110-112	an	_	
+2-10	113-118	einer	_	
+2-11	119-133	Bushaltestelle	_	
+2-12	133-134	.	_	
+
+#Text=Dies ist auch schon mit meinem Schild kenntlich gemacht.
+3-1	135-139	Dies	_	
+3-2	140-143	ist	_	
+3-3	144-148	auch	_	
+3-4	149-154	schon	_	
+3-5	155-158	mit	_	
+3-6	159-165	meinem	_	
+3-7	166-172	Schild	_	
+3-8	173-182	kenntlich	_	
+3-9	183-190	gemacht	_	
+3-10	190-191	.	_	
+
+#Text=Jedoch wird dieses Schild leicht übersehen, da die Bodenstruktur gleich bleibt und die gesamte Kaiserstraße an dieser Stelle eigentlich einen Fahrradweg hätte.
+4-1	192-198	Jedoch	_	
+4-2	199-203	wird	_	
+4-3	204-210	dieses	_	
+4-4	211-217	Schild	_	
+4-5	218-224	leicht	_	
+4-6	225-234	übersehen	_	
+4-7	234-235	,	_	
+4-8	236-238	da	_	
+4-9	239-242	die	_	
+4-10	243-256	Bodenstruktur	_	
+4-11	257-263	gleich	_	
+4-12	264-270	bleibt	_	
+4-13	271-274	und	_	
+4-14	275-278	die	*[9]	
+4-15	279-286	gesamte	*[9]	
+4-16	287-299	Kaiserstraße	*[9]	
+4-17	300-302	an	_	
+4-18	303-309	dieser	_	
+4-19	310-316	Stelle	_	
+4-20	317-327	eigentlich	_	
+4-21	328-333	einen	_	
+4-22	334-344	Fahrradweg	_	
+4-23	345-350	hätte	_	
+4-24	350-351	.	_	
+
+#Text=Die Fahrradfahrer ärgern sich über die Personen an der Bushaltestelle die aus ihrer Sicht auf dem Fahrradweg stehen (was sie aber nicht tun).
+5-1	352-355	Die	_	
+5-2	356-369	Fahrradfahrer	_	
+5-3	370-376	ärgern	_	
+5-4	377-381	sich	_	
+5-5	382-386	über	_	
+5-6	387-390	die	_	
+5-7	391-399	Personen	_	
+5-8	400-402	an	_	
+5-9	403-406	der	_	
+5-10	407-421	Bushaltestelle	_	
+5-11	422-425	die	_	
+5-12	426-429	aus	_	
+5-13	430-435	ihrer	_	
+5-14	436-441	Sicht	_	
+5-15	442-445	auf	_	
+5-16	446-449	dem	_	
+5-17	450-460	Fahrradweg	_	
+5-18	461-467	stehen	_	
+5-19	468-469	(	_	
+5-20	469-472	was	_	
+5-21	473-476	sie	_	
+5-22	477-481	aber	_	
+5-23	482-487	nicht	_	
+5-24	488-491	tun	_	
+5-25	491-492	)	_	
+5-26	492-493	.	_	
+
+#Text=Das Missverständnis zwischen Fahrradfahrern und Fußgängern könnte durch eine eindeutige Bodenmakierung beseitigt werden.
+6-1	494-497	Das	_	
+6-2	498-513	Missverständnis	_	
+6-3	514-522	zwischen	_	
+6-4	523-537	Fahrradfahrern	_	
+6-5	538-541	und	_	
+6-6	542-552	Fußgängern	_	
+6-7	553-559	könnte	_	
+6-8	560-565	durch	_	
+6-9	566-570	eine	_	
+6-10	571-581	eindeutige	_	
+6-11	582-596	Bodenmakierung	_	
+6-12	597-606	beseitigt	_	
+6-13	607-613	werden	_	
+6-14	613-614	.	_	
+
+#Text=Am besten wäre ein quer zum Fahrradweg verlaufende durchgezogene (ca. 75cm lange) weiße Linie.
+7-1	615-617	Am	_	
+7-2	618-624	besten	_	
+7-3	625-629	wäre	_	
+7-4	630-633	ein	_	
+7-5	634-638	quer	_	
+7-6	639-642	zum	_	
+7-7	643-653	Fahrradweg	_	
+7-8	654-665	verlaufende	_	
+7-9	666-679	durchgezogene	_	
+7-10	680-681	(	_	
+7-11	681-683	ca	_	
+7-12	683-684	.	_	
+7-13	685-689	75cm	_	
+7-14	690-695	lange	_	
+7-15	695-696	)	_	
+7-16	697-702	weiße	_	
+7-17	703-708	Linie	_	
+7-18	708-709	.	_	
+
+#Text=Zum Optimieren könnte noch das Wort Anfang und Ende jeweils auf der entsprechenden Seite der Linie makiert werden oder das Gefahrenzeichen für Achtung Personen (Rotes Dreieck auf weißen Grund mit einer gehenden Person in der Mitte) auf dem Boden platziert werden.
+8-1	710-713	Zum	_	
+8-2	714-724	Optimieren	_	
+8-3	725-731	könnte	_	
+8-4	732-736	noch	_	
+8-5	737-740	das	_	
+8-6	741-745	Wort	_	
+8-7	746-752	Anfang	_	
+8-8	753-756	und	_	
+8-9	757-761	Ende	_	
+8-10	762-769	jeweils	_	
+8-11	770-773	auf	_	
+8-12	774-777	der	_	
+8-13	778-792	entsprechenden	_	
+8-14	793-798	Seite	_	
+8-15	799-802	der	_	
+8-16	803-808	Linie	_	
+8-17	809-816	makiert	_	
+8-18	817-823	werden	_	
+8-19	824-828	oder	_	
+8-20	829-832	das	_	
+8-21	833-848	Gefahrenzeichen	_	
+8-22	849-852	für	_	
+8-23	853-860	Achtung	_	
+8-24	861-869	Personen	_	
+8-25	870-871	(	_	
+8-26	871-876	Rotes	_	
+8-27	877-884	Dreieck	_	
+8-28	885-888	auf	_	
+8-29	889-895	weißen	_	
+8-30	896-901	Grund	_	
+8-31	902-905	mit	_	
+8-32	906-911	einer	_	
+8-33	912-920	gehenden	_	
+8-34	921-927	Person	_	
+8-35	928-930	in	_	
+8-36	931-934	der	_	
+8-37	935-940	Mitte	_	
+8-38	940-941	)	_	
+8-39	942-945	auf	_	
+8-40	946-949	dem	_	
+8-41	950-955	Boden	_	
+8-42	956-965	platziert	_	
+8-43	966-972	werden	_	
+8-44	972-973	.	_	

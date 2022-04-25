@@ -1,0 +1,15 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kennzeichnunhspflicht für Fahrräder
+1-1	0-21	Kennzeichnunhspflicht	_	
+1-2	22-25	für	_	
+1-3	26-35	Fahrräder	_	
+
+#Text=gez. Prof.Kohlenbrenner
+2-1	38-41	gez	_	
+2-2	41-42	.	_	
+2-3	43-61	Prof.Kohlenbrenner	_	

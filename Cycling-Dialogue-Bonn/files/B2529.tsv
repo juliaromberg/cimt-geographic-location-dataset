@@ -1,0 +1,43 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zusatzzeichen fehlen
+1-1	0-13	Zusatzzeichen	_	
+1-2	14-20	fehlen	_	
+
+#Text=Zwar sind Fahrräder hier von der vorgeschriebenen Fahrtrichtung befreit, dank Einfahrt verboten ohne Zusatzzeichen haben wir aber keine andere Wahl.
+2-1	23-27	Zwar	_	
+2-2	28-32	sind	_	
+2-3	33-42	Fahrräder	_	
+2-4	43-47	hier	_	
+2-5	48-51	von	_	
+2-6	52-55	der	_	
+2-7	56-72	vorgeschriebenen	_	
+2-8	73-86	Fahrtrichtung	_	
+2-9	87-94	befreit	_	
+2-10	94-95	,	_	
+2-11	96-100	dank	_	
+2-12	101-109	Einfahrt	_	
+2-13	110-118	verboten	_	
+2-14	119-123	ohne	_	
+2-15	124-137	Zusatzzeichen	_	
+2-16	138-143	haben	_	
+2-17	144-147	wir	_	
+2-18	148-152	aber	_	
+2-19	153-158	keine	_	
+2-20	159-165	andere	_	
+2-21	166-170	Wahl	_	
+2-22	170-171	.	_	
+
+#Text=Auch beim blauen Einbahnstraßenschild fehlt das Zusatzzeichen.
+3-1	172-176	Auch	_	
+3-2	177-181	beim	_	
+3-3	182-188	blauen	_	
+3-4	189-209	Einbahnstraßenschild	_	
+3-5	210-215	fehlt	_	
+3-6	216-219	das	_	
+3-7	220-233	Zusatzzeichen	_	
+3-8	233-234	.	_	

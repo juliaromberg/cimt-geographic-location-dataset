@@ -1,0 +1,33 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Absenkung der Bordsteinkante ungenügend und/oder Anschrägung für Radfahrer fehlt.
+1-1	0-9	Absenkung	_	
+1-2	10-13	der	_	
+1-3	14-28	Bordsteinkante	_	
+1-4	29-39	ungenügend	_	
+1-5	40-43	und	_	
+1-6	43-44	/	_	
+1-7	44-48	oder	_	
+1-8	49-60	Anschrägung	_	
+1-9	61-64	für	_	
+1-10	65-74	Radfahrer	_	
+1-11	75-80	fehlt	_	
+1-12	80-81	.	_	
+
+#Text=Absenkung der Bordsteinkante ungenügend und/oder Anschrägung für Radfahrer fehlt.
+2-1	84-93	Absenkung	_	
+2-2	94-97	der	_	
+2-3	98-112	Bordsteinkante	_	
+2-4	113-123	ungenügend	_	
+2-5	124-127	und	_	
+2-6	127-128	/	_	
+2-7	128-132	oder	_	
+2-8	133-144	Anschrägung	_	
+2-9	145-148	für	_	
+2-10	149-158	Radfahrer	_	
+2-11	159-164	fehlt	_	
+2-12	164-165	.	_	

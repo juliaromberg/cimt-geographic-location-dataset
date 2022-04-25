@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sauberkeit, Unebenheiten und Hindernisse
+1-1	0-10	Sauberkeit	_	
+1-2	10-11	,	_	
+1-3	12-24	Unebenheiten	_	
+1-4	25-28	und	_	
+1-5	29-40	Hindernisse	_	
+
+#Text=Ich fände es toll, wenn die Radwege besser sauber gehalten würden, ohne Scherben, im Herbst ohne Blätter und im Winter von Schnee und Eis befreit.
+2-1	43-46	Ich	_	
+2-2	47-52	fände	_	
+2-3	53-55	es	_	
+2-4	56-60	toll	_	
+2-5	60-61	,	_	
+2-6	62-66	wenn	_	
+2-7	67-70	die	_	
+2-8	71-78	Radwege	_	
+2-9	79-85	besser	_	
+2-10	86-92	sauber	_	
+2-11	93-101	gehalten	_	
+2-12	102-108	würden	_	
+2-13	108-109	,	_	
+2-14	110-114	ohne	_	
+2-15	115-123	Scherben	_	
+2-16	123-124	,	_	
+2-17	125-127	im	_	
+2-18	128-134	Herbst	_	
+2-19	135-139	ohne	_	
+2-20	140-147	Blätter	_	
+2-21	148-151	und	_	
+2-22	152-154	im	_	
+2-23	155-161	Winter	_	
+2-24	162-165	von	_	
+2-25	166-172	Schnee	_	
+2-26	173-176	und	_	
+2-27	177-180	Eis	_	
+2-28	181-188	befreit	_	
+2-29	188-189	.	_	
+
+#Text=Desweiteren wünsche ich mir, dass auf Radwegen parkende PKW besser kontrolliert und geahndet werden.
+3-1	190-201	Desweiteren	_	
+3-2	202-209	wünsche	_	
+3-3	210-213	ich	_	
+3-4	214-217	mir	_	
+3-5	217-218	,	_	
+3-6	219-223	dass	_	
+3-7	224-227	auf	_	
+3-8	228-236	Radwegen	_	
+3-9	237-245	parkende	_	
+3-10	246-249	PKW	_	
+3-11	250-256	besser	_	
+3-12	257-269	kontrolliert	_	
+3-13	270-273	und	_	
+3-14	274-282	geahndet	_	
+3-15	283-289	werden	_	
+3-16	289-290	.	_	

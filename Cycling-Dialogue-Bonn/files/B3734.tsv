@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Illegaler Schleichweg für Kraftfahrer
+1-1	0-9	Illegaler	_	
+1-2	10-21	Schleichweg	_	
+1-3	22-25	für	_	
+1-4	26-37	Kraftfahrer	_	
+
+#Text=Die Liesstraße zwischen Geislar und L16 wird ständig von Kraftfahrern als Schleichweg benutzt, obwohl hier nur eine Freigabe für landwirtschaftliche Fahrzeuge besteht.
+2-1	40-43	Die	*[3]	
+2-2	44-54	Liesstraße	*[3]	
+2-3	55-63	zwischen	*[3]	
+2-4	64-71	Geislar	*[3]	
+2-5	72-75	und	*[3]	
+2-6	76-79	L16	*[3]	
+2-7	80-84	wird	_	
+2-8	85-92	ständig	_	
+2-9	93-96	von	_	
+2-10	97-109	Kraftfahrern	_	
+2-11	110-113	als	_	
+2-12	114-125	Schleichweg	_	
+2-13	126-133	benutzt	_	
+2-14	133-134	,	_	
+2-15	135-141	obwohl	_	
+2-16	142-146	hier	_	
+2-17	147-150	nur	_	
+2-18	151-155	eine	_	
+2-19	156-164	Freigabe	_	
+2-20	165-168	für	_	
+2-21	169-188	landwirtschaftliche	_	
+2-22	189-198	Fahrzeuge	_	
+2-23	199-206	besteht	_	
+2-24	206-207	.	_	

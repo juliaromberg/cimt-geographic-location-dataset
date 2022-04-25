@@ -1,0 +1,114 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahradweg nicht deutlich genug abgegrenz von Fussgängerweg
+1-1	0-9	Fahradweg	_	
+1-2	10-15	nicht	_	
+1-3	16-24	deutlich	_	
+1-4	25-30	genug	_	
+1-5	31-40	abgegrenz	_	
+1-6	41-44	von	_	
+1-7	45-58	Fussgängerweg	_	
+
+#Text=Hier handelt es sich um einen Zwitter aus Fahrradweg und Fussgängerweg, der keine deutliche Kennzeichnung hat.
+2-1	61-65	Hier	_	
+2-2	66-73	handelt	_	
+2-3	74-76	es	_	
+2-4	77-81	sich	_	
+2-5	82-84	um	_	
+2-6	85-90	einen	_	
+2-7	91-98	Zwitter	_	
+2-8	99-102	aus	_	
+2-9	103-113	Fahrradweg	_	
+2-10	114-117	und	_	
+2-11	118-131	Fussgängerweg	_	
+2-12	131-132	,	_	
+2-13	133-136	der	_	
+2-14	137-142	keine	_	
+2-15	143-152	deutliche	_	
+2-16	153-166	Kennzeichnung	_	
+2-17	167-170	hat	_	
+2-18	170-171	.	_	
+
+#Text=Ausserdem werden hier die Radfahrer ständig durch unachtsame Autofahrer, die schon mal gern quer in der Parktasche anhalten, um Fahrgäste aussteigen zu lassen, sehr gern auch vor dem Hotel in dieser Strasse, in Gefahr gebracht.
+3-1	172-181	Ausserdem	_	
+3-2	182-188	werden	_	
+3-3	189-193	hier	_	
+3-4	194-197	die	_	
+3-5	198-207	Radfahrer	_	
+3-6	208-215	ständig	_	
+3-7	216-221	durch	_	
+3-8	222-232	unachtsame	_	
+3-9	233-243	Autofahrer	_	
+3-10	243-244	,	_	
+3-11	245-248	die	_	
+3-12	249-254	schon	_	
+3-13	255-258	mal	_	
+3-14	259-263	gern	_	
+3-15	264-268	quer	_	
+3-16	269-271	in	_	
+3-17	272-275	der	_	
+3-18	276-286	Parktasche	_	
+3-19	287-295	anhalten	_	
+3-20	295-296	,	_	
+3-21	297-299	um	_	
+3-22	300-309	Fahrgäste	_	
+3-23	310-320	aussteigen	_	
+3-24	321-323	zu	_	
+3-25	324-330	lassen	_	
+3-26	330-331	,	_	
+3-27	332-336	sehr	_	
+3-28	337-341	gern	_	
+3-29	342-346	auch	_	
+3-30	347-350	vor	_	
+3-31	351-354	dem	_	
+3-32	355-360	Hotel	_	
+3-33	361-363	in	_	
+3-34	364-370	dieser	_	
+3-35	371-378	Strasse	_	
+3-36	378-379	,	_	
+3-37	380-382	in	_	
+3-38	383-389	Gefahr	_	
+3-39	390-398	gebracht	_	
+3-40	398-399	.	_	
+
+#Text=Anlieferungen für Bäckerei, Hotel, Geüseladen und andere sollten zwischen 6:30 - 8:00 und zwischen 15:30-17:00 Uhr zum Schutz der Pendler nicht erlaubt sein.
+4-1	400-413	Anlieferungen	_	
+4-2	414-417	für	_	
+4-3	418-426	Bäckerei	_	
+4-4	426-427	,	_	
+4-5	428-433	Hotel	_	
+4-6	433-434	,	_	
+4-7	435-445	Geüseladen	_	
+4-8	446-449	und	_	
+4-9	450-456	andere	_	
+4-10	457-464	sollten	_	
+4-11	465-473	zwischen	_	
+4-12	474-475	6	_	
+4-13	475-476	:	_	
+4-14	476-478	30	_	
+4-15	479-480	-	_	
+4-16	481-482	8	_	
+4-17	482-483	:	_	
+4-18	483-485	00	_	
+4-19	486-489	und	_	
+4-20	490-498	zwischen	_	
+4-21	499-501	15	_	
+4-22	501-502	:	_	
+4-23	502-504	30	_	
+4-24	504-505	-	_	
+4-25	505-507	17	_	
+4-26	507-508	:	_	
+4-27	508-510	00	_	
+4-28	511-514	Uhr	_	
+4-29	515-518	zum	_	
+4-30	519-525	Schutz	_	
+4-31	526-529	der	_	
+4-32	530-537	Pendler	_	
+4-33	538-543	nicht	_	
+4-34	544-551	erlaubt	_	
+4-35	552-556	sein	_	
+4-36	556-557	.	_	

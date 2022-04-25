@@ -1,0 +1,35 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=(Kreisverkehre und) Zebrastreifen
+1-1	0-1	(	_	
+1-2	1-14	Kreisverkehre	_	
+1-3	15-18	und	_	
+1-4	18-19	)	_	
+1-5	20-33	Zebrastreifen	_	
+
+#Text=Fußgängerüberwege sollten durch Zebrastreifen ermöglicht werden.
+2-1	36-53	Fußgängerüberwege	_	
+2-2	54-61	sollten	_	
+2-3	62-67	durch	_	
+2-4	68-81	Zebrastreifen	_	
+2-5	82-92	ermöglicht	_	
+2-6	93-99	werden	_	
+2-7	99-100	.	_	
+
+#Text=So ließen sich (in Kombination mit Kreisverkehren) Ampelanlagen reduzieren.
+3-1	101-103	So	_	
+3-2	104-110	ließen	_	
+3-3	111-115	sich	_	
+3-4	116-117	(	_	
+3-5	117-119	in	_	
+3-6	120-131	Kombination	_	
+3-7	132-135	mit	_	
+3-8	136-150	Kreisverkehren	_	
+3-9	150-151	)	_	
+3-10	152-164	Ampelanlagen	_	
+3-11	165-175	reduzieren	_	
+3-12	175-176	.	_	

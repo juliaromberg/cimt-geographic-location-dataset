@@ -1,0 +1,50 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Autos auf Fahrradweg gefährden Radfahrer
+1-1	0-5	Autos	_	
+1-2	6-9	auf	_	
+1-3	10-20	Fahrradweg	_	
+1-4	21-30	gefährden	_	
+1-5	31-40	Radfahrer	_	
+
+#Text=Regelmäßig weichen Autofahrer in der Maxstraße zwischen Stadthaus und Ecke Weiherstraße, wenn z.B. andere Autos einparken, über den erhöhten Radweg aus und gefährden entgegenkommende Radfahrer.
+2-1	43-53	Regelmäßig	_	
+2-2	54-61	weichen	_	
+2-3	62-72	Autofahrer	_	
+2-4	73-75	in	*[4]	
+2-5	76-79	der	*[4]	
+2-6	80-89	Maxstraße	*[4]	
+2-7	90-98	zwischen	*[4]	
+2-8	99-108	Stadthaus	*[4]	
+2-9	109-112	und	*[4]	
+2-10	113-117	Ecke	*[4]	
+2-11	118-130	Weiherstraße	*[4]	
+2-12	130-131	,	_	
+2-13	132-136	wenn	_	
+2-14	137-140	z.B	_	
+2-15	140-141	.	_	
+2-16	142-148	andere	_	
+2-17	149-154	Autos	_	
+2-18	155-164	einparken	_	
+2-19	164-165	,	_	
+2-20	166-170	über	_	
+2-21	171-174	den	_	
+2-22	175-183	erhöhten	_	
+2-23	184-190	Radweg	_	
+2-24	191-194	aus	_	
+2-25	195-198	und	_	
+2-26	199-208	gefährden	_	
+2-27	209-225	entgegenkommende	_	
+2-28	226-235	Radfahrer	_	
+2-29	235-236	.	_	
+
+#Text=Vorschlag: Kontrollen oder Parkverbot
+3-1	237-246	Vorschlag	_	
+3-2	246-247	:	_	
+3-3	248-258	Kontrollen	_	
+3-4	259-263	oder	_	
+3-5	264-274	Parkverbot	_	

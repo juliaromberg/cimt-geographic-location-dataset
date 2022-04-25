@@ -1,0 +1,134 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreuzung für Fahrradfaher umbauen
+1-1	0-8	Kreuzung	_	
+1-2	9-12	für	_	
+1-3	13-25	Fahrradfaher	_	
+1-4	26-33	umbauen	_	
+
+#Text=Die Querung der Subbelrather Straße ist aus beiden (!!!) Richtung mit dem Fahrrad nicht möglich.
+2-1	36-39	Die	*[8]	
+2-2	40-47	Querung	*[8]	
+2-3	48-51	der	*[8]	
+2-4	52-64	Subbelrather	*[8]	
+2-5	65-71	Straße	*[8]	
+2-6	72-75	ist	_	
+2-7	76-79	aus	_	
+2-8	80-86	beiden	_	
+2-9	87-88	(	_	
+2-10	88-89	!	_	
+2-11	89-90	!	_	
+2-12	90-91	!	_	
+2-13	91-92	)	_	
+2-14	93-101	Richtung	_	
+2-15	102-105	mit	_	
+2-16	106-109	dem	_	
+2-17	110-117	Fahrrad	_	
+2-18	118-123	nicht	_	
+2-19	124-131	möglich	_	
+2-20	131-132	.	_	
+
+#Text=Zum einen ist die Gutenbergstraße auf beiden Seiten eine Einbahnstraße, die nicht für Fahrradfahrer in Gegenrichtung (zur Subbelratherstraße hin) zugelassen ist.
+3-1	133-136	Zum	_	
+3-2	137-142	einen	_	
+3-3	143-146	ist	_	
+3-4	147-150	die	*[9]	
+3-5	151-166	Gutenbergstraße	*[9]	
+3-6	167-170	auf	_	
+3-7	171-177	beiden	_	
+3-8	178-184	Seiten	_	
+3-9	185-189	eine	_	
+3-10	190-203	Einbahnstraße	_	
+3-11	203-204	,	_	
+3-12	205-208	die	_	
+3-13	209-214	nicht	_	
+3-14	215-218	für	_	
+3-15	219-232	Fahrradfahrer	_	
+3-16	233-235	in	_	
+3-17	236-249	Gegenrichtung	_	
+3-18	250-251	(	_	
+3-19	251-254	zur	*[10]	
+3-20	255-273	Subbelratherstraße	*[10]	
+3-21	274-277	hin	*[10]	
+3-22	277-278	)	_	
+3-23	279-289	zugelassen	_	
+3-24	290-293	ist	_	
+3-25	293-294	.	_	
+
+#Text=Zum anderen ist die Ampelanlage an der Kreuzung zur Querung der Subbelrather Straße ausschließlich für Fußgänger gebaut, auf einer Seite sogar mit Umlaufgitter als zusätzlicher Schikane.
+4-1	295-298	Zum	_	
+4-2	299-306	anderen	_	
+4-3	307-310	ist	_	
+4-4	311-314	die	_	
+4-5	315-326	Ampelanlage	_	
+4-6	327-329	an	*[11]	
+4-7	330-333	der	*[11]	
+4-8	334-342	Kreuzung	*[11]	
+4-9	343-346	zur	*[11]	
+4-10	347-354	Querung	*[11]	
+4-11	355-358	der	*[11]	
+4-12	359-371	Subbelrather	*[11]	
+4-13	372-378	Straße	*[11]	
+4-14	379-393	ausschließlich	_	
+4-15	394-397	für	_	
+4-16	398-407	Fußgänger	_	
+4-17	408-414	gebaut	_	
+4-18	414-415	,	_	
+4-19	416-419	auf	_	
+4-20	420-425	einer	_	
+4-21	426-431	Seite	_	
+4-22	432-437	sogar	_	
+4-23	438-441	mit	_	
+4-24	442-454	Umlaufgitter	_	
+4-25	455-458	als	_	
+4-26	459-471	zusätzlicher	_	
+4-27	472-480	Schikane	_	
+4-28	480-481	.	_	
+
+#Text=Das ist absolut unzumutbar.
+5-1	482-485	Das	_	
+5-2	486-489	ist	_	
+5-3	490-497	absolut	_	
+5-4	498-508	unzumutbar	_	
+5-5	508-509	.	_	
+
+#Text=Als Fahrradfahrer kann man die Subbelrather Straße erst wieder an der Körnerstraße oder vorher nur an der Inneren Kanalstraße queren.
+6-1	510-513	Als	_	
+6-2	514-527	Fahrradfahrer	_	
+6-3	528-532	kann	_	
+6-4	533-536	man	_	
+6-5	537-540	die	*[12]	
+6-6	541-553	Subbelrather	*[12]	
+6-7	554-560	Straße	*[12]	
+6-8	561-565	erst	_	
+6-9	566-572	wieder	_	
+6-10	573-575	an	*[13]	
+6-11	576-579	der	*[13]	
+6-12	580-592	Körnerstraße	*[13]	
+6-13	593-597	oder	_	
+6-14	598-604	vorher	_	
+6-15	605-608	nur	_	
+6-16	609-611	an	*[14]	
+6-17	612-615	der	*[14]	
+6-18	616-623	Inneren	*[14]	
+6-19	624-635	Kanalstraße	*[14]	
+6-20	636-642	queren	*[14]	
+6-21	642-643	.	_	
+
+#Text=Hier muss die Kreuzung dringend auf den querenden Radverkehr umgebaut werden.
+7-1	644-648	Hier	_	
+7-2	649-653	muss	_	
+7-3	654-657	die	_	
+7-4	658-666	Kreuzung	_	
+7-5	667-675	dringend	_	
+7-6	676-679	auf	_	
+7-7	680-683	den	_	
+7-8	684-693	querenden	_	
+7-9	694-704	Radverkehr	_	
+7-10	705-713	umgebaut	_	
+7-11	714-720	werden	_	
+7-12	720-721	.	_	

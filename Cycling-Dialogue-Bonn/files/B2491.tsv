@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unsinnige Fahrradampel
+1-1	0-9	Unsinnige	_	
+1-2	10-22	Fahrradampel	_	
+
+#Text=An dieser Kreuzung fühlt man sich als Fahrradfahrer deutlich benachteiligt, wenn die Fahrradampel noch vor der Fußgängerampel rot wird, obwohl diese in der Regel deutlich langsamer die Straße queren.
+2-1	25-27	An	_	
+2-2	28-34	dieser	_	
+2-3	35-43	Kreuzung	_	
+2-4	44-49	fühlt	_	
+2-5	50-53	man	_	
+2-6	54-58	sich	_	
+2-7	59-62	als	_	
+2-8	63-76	Fahrradfahrer	_	
+2-9	77-85	deutlich	_	
+2-10	86-99	benachteiligt	_	
+2-11	99-100	,	_	
+2-12	101-105	wenn	_	
+2-13	106-109	die	_	
+2-14	110-122	Fahrradampel	_	
+2-15	123-127	noch	_	
+2-16	128-131	vor	_	
+2-17	132-135	der	_	
+2-18	136-150	Fußgängerampel	_	
+2-19	151-154	rot	_	
+2-20	155-159	wird	_	
+2-21	159-160	,	_	
+2-22	161-167	obwohl	_	
+2-23	168-173	diese	_	
+2-24	174-176	in	_	
+2-25	177-180	der	_	
+2-26	181-186	Regel	_	
+2-27	187-195	deutlich	_	
+2-28	196-205	langsamer	_	
+2-29	206-209	die	_	
+2-30	210-216	Straße	_	
+2-31	217-223	queren	_	
+2-32	223-224	.	_	
+
+#Text=Wenn man Fahrradfahrer fördern will, dann gebt Fahrradfahrern zumindest genauso lang - wenn nicht sogar etwas länger - grün, wie den Fußgängern, die die gleiche Straße kreuzen.
+3-1	225-229	Wenn	_	
+3-2	230-233	man	_	
+3-3	234-247	Fahrradfahrer	_	
+3-4	248-255	fördern	_	
+3-5	256-260	will	_	
+3-6	260-261	,	_	
+3-7	262-266	dann	_	
+3-8	267-271	gebt	_	
+3-9	272-286	Fahrradfahrern	_	
+3-10	287-296	zumindest	_	
+3-11	297-304	genauso	_	
+3-12	305-309	lang	_	
+3-13	310-311	-	_	
+3-14	312-316	wenn	_	
+3-15	317-322	nicht	_	
+3-16	323-328	sogar	_	
+3-17	329-334	etwas	_	
+3-18	335-341	länger	_	
+3-19	342-343	-	_	
+3-20	344-348	grün	_	
+3-21	348-349	,	_	
+3-22	350-353	wie	_	
+3-23	354-357	den	_	
+3-24	358-368	Fußgängern	_	
+3-25	368-369	,	_	
+3-26	370-373	die	_	
+3-27	374-377	die	_	
+3-28	378-385	gleiche	_	
+3-29	386-392	Straße	_	
+3-30	393-400	kreuzen	_	
+3-31	400-401	.	_	

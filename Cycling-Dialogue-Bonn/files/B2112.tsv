@@ -1,0 +1,194 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rheinufer Bonn
+1-1	0-9	Rheinufer	*[12]	
+1-2	10-14	Bonn	*[12]	
+
+#Text=Wilhelm-Spiritus Ufer / Rathenau Ufer Von Bad Godesberg kommend verengt sich hier der Radweg und läuft an der Strasse entlang.
+2-1	17-33	Wilhelm-Spiritus	*[13]	
+2-2	34-38	Ufer	*[13]	
+2-3	39-40	/	*[13]	
+2-4	41-49	Rathenau	*[13]	
+2-5	50-54	Ufer	*[13]	
+2-6	55-58	Von	*[13]	
+2-7	59-62	Bad	*[13]	
+2-8	63-72	Godesberg	*[13]	
+2-9	73-80	kommend	*[13]	
+2-10	81-88	verengt	_	
+2-11	89-93	sich	_	
+2-12	94-98	hier	_	
+2-13	99-102	der	_	
+2-14	103-109	Radweg	_	
+2-15	110-113	und	_	
+2-16	114-119	läuft	_	
+2-17	120-122	an	_	
+2-18	123-126	der	_	
+2-19	127-134	Strasse	_	
+2-20	135-142	entlang	_	
+2-21	142-143	.	_	
+
+#Text=Warum?
+3-1	144-149	Warum	_	
+3-2	149-150	?	_	
+
+#Text=Am Rhein-Pavillon hoch zur Ersten Fährgasse wird wegen Platzproblemen der Radweg geteilt, da dort ein Baum im Wege steht.
+4-1	151-153	Am	*[14]	
+4-2	154-168	Rhein-Pavillon	*[14]	
+4-3	169-173	hoch	*[14]	
+4-4	174-177	zur	*[14]	
+4-5	178-184	Ersten	*[14]	
+4-6	185-194	Fährgasse	*[14]	
+4-7	195-199	wird	_	
+4-8	200-205	wegen	_	
+4-9	206-220	Platzproblemen	_	
+4-10	221-224	der	_	
+4-11	225-231	Radweg	_	
+4-12	232-239	geteilt	_	
+4-13	239-240	,	_	
+4-14	241-243	da	_	
+4-15	244-248	dort	_	
+4-16	249-252	ein	_	
+4-17	253-257	Baum	_	
+4-18	258-260	im	_	
+4-19	261-265	Wege	_	
+4-20	266-271	steht	_	
+4-21	271-272	.	_	
+
+#Text=Das ist ein Gefahrenstelle, die seit Jahren besteht.
+5-1	273-276	Das	_	
+5-2	277-280	ist	_	
+5-3	281-284	ein	_	
+5-4	285-299	Gefahrenstelle	_	
+5-5	299-300	,	_	
+5-6	301-304	die	_	
+5-7	305-309	seit	_	
+5-8	310-316	Jahren	_	
+5-9	317-324	besteht	_	
+5-10	324-325	.	_	
+
+#Text=Was soll das?
+6-1	326-329	Was	_	
+6-2	330-334	soll	_	
+6-3	335-338	das	_	
+6-4	338-339	?	_	
+
+#Text=Platz genug wäre für die Führung des Radweges zwischen den Bäumen.
+7-1	340-345	Platz	_	
+7-2	346-351	genug	_	
+7-3	352-356	wäre	_	
+7-4	357-360	für	_	
+7-5	361-364	die	_	
+7-6	365-372	Führung	_	
+7-7	373-376	des	_	
+7-8	377-385	Radweges	_	
+7-9	386-394	zwischen	_	
+7-10	395-398	den	_	
+7-11	399-405	Bäumen	_	
+7-12	405-406	.	_	
+
+#Text=Weitere Anregung: Sperrung des Rathenau Ufers / Erste Fährgasse für den Individualverkehr.
+8-1	407-414	Weitere	_	
+8-2	415-423	Anregung	_	
+8-3	423-424	:	_	
+8-4	425-433	Sperrung	_	
+8-5	434-437	des	_	
+8-6	438-446	Rathenau	*[15]	
+8-7	447-452	Ufers	*[15]	
+8-8	453-454	/	*[15]	
+8-9	455-460	Erste	*[15]	
+8-10	461-470	Fährgasse	*[15]	
+8-11	471-474	für	_	
+8-12	475-478	den	_	
+8-13	479-496	Individualverkehr	_	
+8-14	496-497	.	_	
+
+#Text=Busse müssen für den Transport der mit den Schiffen ankommenden Touristen natürlich hier fahren und parken dürfen.
+9-1	498-503	Busse	_	
+9-2	504-510	müssen	_	
+9-3	511-514	für	_	
+9-4	515-518	den	_	
+9-5	519-528	Transport	_	
+9-6	529-532	der	_	
+9-7	533-536	mit	_	
+9-8	537-540	den	_	
+9-9	541-549	Schiffen	_	
+9-10	550-561	ankommenden	_	
+9-11	562-571	Touristen	_	
+9-12	572-581	natürlich	_	
+9-13	582-586	hier	_	
+9-14	587-593	fahren	_	
+9-15	594-597	und	_	
+9-16	598-604	parken	_	
+9-17	605-611	dürfen	_	
+9-18	611-612	.	_	
+
+#Text=Aber wer einmal beobachten durfte, wie Touristen, die vom Ufer her kommend zur Innenstadt unterwegs sind, in der Ersten Fährgasse zwischen parkenden Autos hin und her gejagt werden, möchte den Planern doch ein fröhliches Weidmanns Heil zurufen.
+10-1	613-617	Aber	_	
+10-2	618-621	wer	_	
+10-3	622-628	einmal	_	
+10-4	629-639	beobachten	_	
+10-5	640-646	durfte	_	
+10-6	646-647	,	_	
+10-7	648-651	wie	_	
+10-8	652-661	Touristen	_	
+10-9	661-662	,	_	
+10-10	663-666	die	_	
+10-11	667-670	vom	_	
+10-12	671-675	Ufer	_	
+10-13	676-679	her	_	
+10-14	680-687	kommend	_	
+10-15	688-691	zur	_	
+10-16	692-702	Innenstadt	_	
+10-17	703-712	unterwegs	_	
+10-18	713-717	sind	_	
+10-19	717-718	,	_	
+10-20	719-721	in	*[16]	
+10-21	722-725	der	*[16]	
+10-22	726-732	Ersten	*[16]	
+10-23	733-742	Fährgasse	*[16]	
+10-24	743-751	zwischen	_	
+10-25	752-761	parkenden	_	
+10-26	762-767	Autos	_	
+10-27	768-771	hin	_	
+10-28	772-775	und	_	
+10-29	776-779	her	_	
+10-30	780-786	gejagt	_	
+10-31	787-793	werden	_	
+10-32	793-794	,	_	
+10-33	795-801	möchte	_	
+10-34	802-805	den	_	
+10-35	806-813	Planern	_	
+10-36	814-818	doch	_	
+10-37	819-822	ein	_	
+10-38	823-833	fröhliches	_	
+10-39	834-843	Weidmanns	_	
+10-40	844-848	Heil	_	
+10-41	849-856	zurufen	_	
+10-42	856-857	.	_	
+
+#Text=Also meine Anregung: Wenn schon nicht die Uferstrasse, dann doch wenigstens die Erste Fährgasse für den Autoverkehr sperren.
+11-1	858-862	Also	_	
+11-2	863-868	meine	_	
+11-3	869-877	Anregung	_	
+11-4	877-878	:	_	
+11-5	879-883	Wenn	_	
+11-6	884-889	schon	_	
+11-7	890-895	nicht	_	
+11-8	896-899	die	*[17]	
+11-9	900-911	Uferstrasse	*[17]	
+11-10	911-912	,	_	
+11-11	913-917	dann	_	
+11-12	918-922	doch	_	
+11-13	923-933	wenigstens	_	
+11-14	934-937	die	*[18]	
+11-15	938-943	Erste	*[18]	
+11-16	944-953	Fährgasse	*[18]	
+11-17	954-957	für	_	
+11-18	958-961	den	_	
+11-19	962-973	Autoverkehr	_	
+11-20	974-981	sperren	_	
+11-21	981-982	.	_	

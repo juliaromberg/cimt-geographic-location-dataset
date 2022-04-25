@@ -1,0 +1,34 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreuzung Ausgang Schumannstraße/Fehlende Regelung
+1-1	0-8	Kreuzung	*[4]	
+1-2	9-16	Ausgang	*[4]	
+1-3	17-31	Schumannstraße	*[4]	
+1-4	31-32	/	_	
+1-5	32-40	Fehlende	_	
+1-6	41-49	Regelung	_	
+
+#Text=Wie kommt man als Radfahrer legal über die Kreuzung von der Schuhmannstraße!
+2-1	52-55	Wie	_	
+2-2	56-61	kommt	_	
+2-3	62-65	man	_	
+2-4	66-69	als	_	
+2-5	70-79	Radfahrer	_	
+2-6	80-85	legal	_	
+2-7	86-90	über	*[5]	
+2-8	91-94	die	*[5]	
+2-9	95-103	Kreuzung	*[5]	
+2-10	104-107	von	*[5]	
+2-11	108-111	der	*[5]	
+2-12	112-127	Schuhmannstraße	*[5]	
+2-13	127-128	!	_	
+
+#Text=Völlig unklare Verhältnisse!
+3-1	129-135	Völlig	_	
+3-2	136-143	unklare	_	
+3-3	144-156	Verhältnisse	_	
+3-4	156-157	!	_	

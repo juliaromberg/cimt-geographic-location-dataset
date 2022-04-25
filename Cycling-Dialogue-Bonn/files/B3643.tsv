@@ -1,0 +1,150 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraßen - Autos müssen den Fahrradverkehr abwarten!
+1-1	0-14	Fahrradstraßen	_	
+1-2	15-16	-	_	
+1-3	17-22	Autos	_	
+1-4	23-29	müssen	_	
+1-5	30-33	den	_	
+1-6	34-48	Fahrradverkehr	_	
+1-7	49-57	abwarten	_	
+1-8	57-58	!	_	
+
+#Text=Der Bürgerbrief Fahrradhauptstadt 2020 beschreibt Folgendes: Radfahrer/-innen dürfen nebeneinander fahren, sollten aber bei Gelegenheit Kraftfahrzeuge überholen lassen.
+2-1	61-64	Der	_	
+2-2	65-76	Bürgerbrief	_	
+2-3	77-94	Fahrradhauptstadt	_	
+2-4	95-99	2020	_	
+2-5	100-110	beschreibt	_	
+2-6	111-120	Folgendes	_	
+2-7	120-121	:	_	
+2-8	122-131	Radfahrer	_	
+2-9	131-132	/	_	
+2-10	132-133	-	_	
+2-11	133-138	innen	_	
+2-12	139-145	dürfen	_	
+2-13	146-159	nebeneinander	_	
+2-14	160-166	fahren	_	
+2-15	166-167	,	_	
+2-16	168-175	sollten	_	
+2-17	176-180	aber	_	
+2-18	181-184	bei	_	
+2-19	185-196	Gelegenheit	_	
+2-20	197-211	Kraftfahrzeuge	_	
+2-21	212-221	überholen	_	
+2-22	222-228	lassen	_	
+2-23	228-229	.	_	
+
+#Text=Genau damit ist der Sinn einer echten Fahrradstraße schon wieder ad acta gelegt, wenn z.B. entgegenkommende Fahrzeuge vorbeigelassen werden sollen.
+3-1	230-235	Genau	_	
+3-2	236-241	damit	_	
+3-3	242-245	ist	_	
+3-4	246-249	der	_	
+3-5	250-254	Sinn	_	
+3-6	255-260	einer	_	
+3-7	261-267	echten	_	
+3-8	268-281	Fahrradstraße	_	
+3-9	282-287	schon	_	
+3-10	288-294	wieder	_	
+3-11	295-297	ad	_	
+3-12	298-302	acta	_	
+3-13	303-309	gelegt	_	
+3-14	309-310	,	_	
+3-15	311-315	wenn	_	
+3-16	316-319	z.B	_	
+3-17	319-320	.	_	
+3-18	321-337	entgegenkommende	_	
+3-19	338-347	Fahrzeuge	_	
+3-20	348-362	vorbeigelassen	_	
+3-21	363-369	werden	_	
+3-22	370-376	sollen	_	
+3-23	376-377	.	_	
+
+#Text=Das bedeutet entweder die ständige Unterbrechung des Fahrens und ein erneutes Wiederanfahren oder das Hindurchfahren zwischen den parkenden und entgegenkommenden Autos.
+4-1	378-381	Das	_	
+4-2	382-390	bedeutet	_	
+4-3	391-399	entweder	_	
+4-4	400-403	die	_	
+4-5	404-412	ständige	_	
+4-6	413-426	Unterbrechung	_	
+4-7	427-430	des	_	
+4-8	431-438	Fahrens	_	
+4-9	439-442	und	_	
+4-10	443-446	ein	_	
+4-11	447-455	erneutes	_	
+4-12	456-470	Wiederanfahren	_	
+4-13	471-475	oder	_	
+4-14	476-479	das	_	
+4-15	480-494	Hindurchfahren	_	
+4-16	495-503	zwischen	_	
+4-17	504-507	den	_	
+4-18	508-517	parkenden	_	
+4-19	518-521	und	_	
+4-20	522-539	entgegenkommenden	_	
+4-21	540-545	Autos	_	
+4-22	545-546	.	_	
+
+#Text=Dies ist zwar möglich, aber nicht in sicheren Abstand zu den parkenden Autos.
+5-1	547-551	Dies	_	
+5-2	552-555	ist	_	
+5-3	556-560	zwar	_	
+5-4	561-568	möglich	_	
+5-5	568-569	,	_	
+5-6	570-574	aber	_	
+5-7	575-580	nicht	_	
+5-8	581-583	in	_	
+5-9	584-592	sicheren	_	
+5-10	593-600	Abstand	_	
+5-11	601-603	zu	_	
+5-12	604-607	den	_	
+5-13	608-617	parkenden	_	
+5-14	618-623	Autos	_	
+5-15	623-624	.	_	
+
+#Text=Wirklich sinnvoll sind die Fahrradstraßen meiner Meinung nach nur, wenn die Autos tatsächlich warten müssen, bis die Fahrräder vorbeigefahren sind bzw. hinter den Fahrrädern bleiben müssen.
+6-1	625-633	Wirklich	_	
+6-2	634-642	sinnvoll	_	
+6-3	643-647	sind	_	
+6-4	648-651	die	_	
+6-5	652-666	Fahrradstraßen	_	
+6-6	667-673	meiner	_	
+6-7	674-681	Meinung	_	
+6-8	682-686	nach	_	
+6-9	687-690	nur	_	
+6-10	690-691	,	_	
+6-11	692-696	wenn	_	
+6-12	697-700	die	_	
+6-13	701-706	Autos	_	
+6-14	707-718	tatsächlich	_	
+6-15	719-725	warten	_	
+6-16	726-732	müssen	_	
+6-17	732-733	,	_	
+6-18	734-737	bis	_	
+6-19	738-741	die	_	
+6-20	742-751	Fahrräder	_	
+6-21	752-766	vorbeigefahren	_	
+6-22	767-771	sind	_	
+6-23	772-775	bzw	_	
+6-24	775-776	.	_	
+6-25	777-783	hinter	_	
+6-26	784-787	den	_	
+6-27	788-798	Fahrrädern	_	
+6-28	799-806	bleiben	_	
+6-29	807-813	müssen	_	
+6-30	813-814	.	_	
+
+#Text=Ansonsten ist man auf dem Rad eben doch gestresst.
+7-1	815-824	Ansonsten	_	
+7-2	825-828	ist	_	
+7-3	829-832	man	_	
+7-4	833-836	auf	_	
+7-5	837-840	dem	_	
+7-6	841-844	Rad	_	
+7-7	845-849	eben	_	
+7-8	850-854	doch	_	
+7-9	855-864	gestresst	_	
+7-10	864-865	.	_	

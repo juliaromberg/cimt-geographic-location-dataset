@@ -1,0 +1,60 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Durchfahrt für Radfahrer frei geben
+1-1	0-10	Durchfahrt	_	
+1-2	11-14	für	_	
+1-3	15-24	Radfahrer	_	
+1-4	25-29	frei	_	
+1-5	30-35	geben	_	
+
+#Text=Die Durchfahrt der Karmeliterstr. sollte hier für Radfahrer frei gegeben werden, um eine Alternative zur Strecke über Marktstr. und Friedenstr. zu schaffen.
+2-1	38-41	Die	*[4]	
+2-2	42-52	Durchfahrt	*[4]	
+2-3	53-56	der	*[4]	
+2-4	57-70	Karmeliterstr	*[4]	
+2-5	70-71	.	_	
+2-6	72-78	sollte	_	
+2-7	79-83	hier	_	
+2-8	84-87	für	_	
+2-9	88-97	Radfahrer	_	
+2-10	98-102	frei	_	
+2-11	103-110	gegeben	_	
+2-12	111-117	werden	_	
+2-13	117-118	,	_	
+2-14	119-121	um	_	
+2-15	122-126	eine	_	
+2-16	127-138	Alternative	_	
+2-17	139-142	zur	_	
+2-18	143-150	Strecke	_	
+2-19	151-155	über	*[5]	
+2-20	156-164	Marktstr	*[5]	
+2-21	164-165	.	*[5]	
+2-22	166-169	und	*[5]	
+2-23	170-180	Friedenstr	*[5]	
+2-24	180-181	.	_	
+2-25	182-184	zu	_	
+2-26	185-193	schaffen	_	
+2-27	193-194	.	_	
+
+#Text=Ersatzweise (oder zusätzlich) sollte zumindest die Verbindung Karmeliterstr. - Pfarrer-Marten-Straße frei gegeben werden.
+3-1	195-206	Ersatzweise	_	
+3-2	207-208	(	_	
+3-3	208-212	oder	_	
+3-4	213-223	zusätzlich	_	
+3-5	223-224	)	_	
+3-6	225-231	sollte	_	
+3-7	232-241	zumindest	_	
+3-8	242-245	die	*[6]	
+3-9	246-256	Verbindung	*[6]	
+3-10	257-270	Karmeliterstr	*[6]	
+3-11	270-271	.	*[6]	
+3-12	272-273	-	*[6]	
+3-13	274-295	Pfarrer-Marten-Straße	*[6]	
+3-14	296-300	frei	_	
+3-15	301-308	gegeben	_	
+3-16	309-315	werden	_	
+3-17	315-316	.	_	

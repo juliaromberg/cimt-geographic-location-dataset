@@ -1,0 +1,60 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=L16-Gefährliche Strecke
+1-1	0-3	L16	*	
+1-2	3-4	-	_	
+1-3	4-15	Gefährliche	_	
+1-4	16-23	Strecke	_	
+
+#Text=Der Zustand der Radwege (scharfkantige Aufwerfungen des Belags durch Baumwurzeln) beidseits der L16 in Schwarzrheindorf zwischen Clemensstraße und Stiftsstraße ist eine Zumutung für die Nutzer und obendrein sehr gefährlich.
+2-1	26-29	Der	_	
+2-2	30-37	Zustand	_	
+2-3	38-41	der	_	
+2-4	42-49	Radwege	_	
+2-5	50-51	(	_	
+2-6	51-64	scharfkantige	_	
+2-7	65-77	Aufwerfungen	_	
+2-8	78-81	des	_	
+2-9	82-88	Belags	_	
+2-10	89-94	durch	_	
+2-11	95-106	Baumwurzeln	_	
+2-12	106-107	)	_	
+2-13	108-117	beidseits	*[4]	
+2-14	118-121	der	*[4]	
+2-15	122-125	L16	*[4]	
+2-16	126-128	in	*[4]	
+2-17	129-145	Schwarzrheindorf	*[4]	
+2-18	146-154	zwischen	*[4]	
+2-19	155-168	Clemensstraße	*[4]	
+2-20	169-172	und	*[4]	
+2-21	173-185	Stiftsstraße	*[4]	
+2-22	186-189	ist	_	
+2-23	190-194	eine	_	
+2-24	195-203	Zumutung	_	
+2-25	204-207	für	_	
+2-26	208-211	die	_	
+2-27	212-218	Nutzer	_	
+2-28	219-222	und	_	
+2-29	223-232	obendrein	_	
+2-30	233-237	sehr	_	
+2-31	238-248	gefährlich	_	
+2-32	248-249	.	_	
+
+#Text=Dieser Zustand ist der Verwaltung ausweislich der aufgestellten Schilder seit Jahren bekannt.
+3-1	250-256	Dieser	_	
+3-2	257-264	Zustand	_	
+3-3	265-268	ist	_	
+3-4	269-272	der	_	
+3-5	273-283	Verwaltung	_	
+3-6	284-295	ausweislich	_	
+3-7	296-299	der	_	
+3-8	300-313	aufgestellten	_	
+3-9	314-322	Schilder	_	
+3-10	323-327	seit	_	
+3-11	328-334	Jahren	_	
+3-12	335-342	bekannt	_	
+3-13	342-343	.	_	

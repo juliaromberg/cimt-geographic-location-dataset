@@ -1,0 +1,155 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verengte Straße durch parkende Autos
+1-1	0-8	Verengte	_	
+1-2	9-15	Straße	_	
+1-3	16-21	durch	_	
+1-4	22-30	parkende	_	
+1-5	31-36	Autos	_	
+
+#Text=Die halbe Straße ist zugeparkt, wodurch ständig knappe Überholvorgänge entstehen.
+2-1	39-42	Die	_	
+2-2	43-48	halbe	_	
+2-3	49-55	Straße	_	
+2-4	56-59	ist	_	
+2-5	60-69	zugeparkt	_	
+2-6	69-70	,	_	
+2-7	71-78	wodurch	_	
+2-8	79-86	ständig	_	
+2-9	87-93	knappe	_	
+2-10	94-109	Überholvorgänge	_	
+2-11	110-119	entstehen	_	
+2-12	119-120	.	_	
+
+#Text=Durch die leichte Steigung in Richtung Duisdorf ist man als Fahrradfahrer hier nicht so schnell, sodass Autos immer wieder viel zu knapp überholen.
+3-1	121-126	Durch	_	
+3-2	127-130	die	_	
+3-3	131-138	leichte	_	
+3-4	139-147	Steigung	_	
+3-5	148-150	in	_	
+3-6	151-159	Richtung	*[9]	
+3-7	160-168	Duisdorf	*[9]	
+3-8	169-172	ist	_	
+3-9	173-176	man	_	
+3-10	177-180	als	_	
+3-11	181-194	Fahrradfahrer	_	
+3-12	195-199	hier	_	
+3-13	200-205	nicht	_	
+3-14	206-208	so	_	
+3-15	209-216	schnell	_	
+3-16	216-217	,	_	
+3-17	218-224	sodass	_	
+3-18	225-230	Autos	_	
+3-19	231-236	immer	_	
+3-20	237-243	wieder	_	
+3-21	244-248	viel	_	
+3-22	249-251	zu	_	
+3-23	252-257	knapp	_	
+3-24	258-267	überholen	_	
+3-25	267-268	.	_	
+
+#Text=Noch dazu muss man mitten auf der Straße fahren um keine Autotür der parkenden Autos abzubekommen.
+4-1	269-273	Noch	_	
+4-2	274-278	dazu	_	
+4-3	279-283	muss	_	
+4-4	284-287	man	_	
+4-5	288-294	mitten	_	
+4-6	295-298	auf	_	
+4-7	299-302	der	_	
+4-8	303-309	Straße	_	
+4-9	310-316	fahren	_	
+4-10	317-319	um	_	
+4-11	320-325	keine	_	
+4-12	326-333	Autotür	_	
+4-13	334-337	der	_	
+4-14	338-347	parkenden	_	
+4-15	348-353	Autos	_	
+4-16	354-366	abzubekommen	_	
+4-17	366-367	.	_	
+
+#Text=Auch in die Gegenrichtung entstehen immer wieder gefährliche Situationen durch überholende Autos, so ist z.B. heut morgen ein entgegenkommendes Autos auf meine Fahrbahn gewechselt und hat mich nur knapp verfehlt!
+5-1	368-372	Auch	_	
+5-2	373-375	in	_	
+5-3	376-379	die	_	
+5-4	380-393	Gegenrichtung	_	
+5-5	394-403	entstehen	_	
+5-6	404-409	immer	_	
+5-7	410-416	wieder	_	
+5-8	417-428	gefährliche	_	
+5-9	429-440	Situationen	_	
+5-10	441-446	durch	_	
+5-11	447-458	überholende	_	
+5-12	459-464	Autos	_	
+5-13	464-465	,	_	
+5-14	466-468	so	_	
+5-15	469-472	ist	_	
+5-16	473-476	z.B	_	
+5-17	476-477	.	_	
+5-18	478-482	heut	_	
+5-19	483-489	morgen	_	
+5-20	490-493	ein	_	
+5-21	494-511	entgegenkommendes	_	
+5-22	512-517	Autos	_	
+5-23	518-521	auf	_	
+5-24	522-527	meine	_	
+5-25	528-536	Fahrbahn	_	
+5-26	537-547	gewechselt	_	
+5-27	548-551	und	_	
+5-28	552-555	hat	_	
+5-29	556-560	mich	_	
+5-30	561-564	nur	_	
+5-31	565-570	knapp	_	
+5-32	571-579	verfehlt	_	
+5-33	579-580	!	_	
+
+#Text=Generell wird hier in den 30-Zonen knapp überholt oder unverschämterweise kurz vor einer Kreuzung und dann rechts abgebogen.
+6-1	581-589	Generell	_	
+6-2	590-594	wird	_	
+6-3	595-599	hier	_	
+6-4	600-602	in	_	
+6-5	603-606	den	_	
+6-6	607-609	30	_	
+6-7	609-610	-	_	
+6-8	610-615	Zonen	_	
+6-9	616-621	knapp	_	
+6-10	622-630	überholt	_	
+6-11	631-635	oder	_	
+6-12	636-654	unverschämterweise	_	
+6-13	655-659	kurz	_	
+6-14	660-663	vor	_	
+6-15	664-669	einer	_	
+6-16	670-678	Kreuzung	_	
+6-17	679-682	und	_	
+6-18	683-687	dann	_	
+6-19	688-694	rechts	_	
+6-20	695-704	abgebogen	_	
+6-21	704-705	.	_	
+
+#Text=Letztlich ist der Radfahrer der, der am Ende verliert!
+7-1	706-715	Letztlich	_	
+7-2	716-719	ist	_	
+7-3	720-723	der	_	
+7-4	724-733	Radfahrer	_	
+7-5	734-737	der	_	
+7-6	737-738	,	_	
+7-7	739-742	der	_	
+7-8	743-745	am	_	
+7-9	746-750	Ende	_	
+7-10	751-759	verliert	_	
+7-11	759-760	!	_	
+
+#Text=Eine Sensibilisierung der Autofahrer wäre hier auch mal wünschenswert!
+8-1	761-765	Eine	_	
+8-2	766-782	Sensibilisierung	_	
+8-3	783-786	der	_	
+8-4	787-797	Autofahrer	_	
+8-5	798-802	wäre	_	
+8-6	803-807	hier	_	
+8-7	808-812	auch	_	
+8-8	813-816	mal	_	
+8-9	817-830	wünschenswert	_	
+8-10	830-831	!	_	

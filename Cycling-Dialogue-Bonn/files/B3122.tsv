@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Markierung Kaiserstraße
+1-1	0-10	Markierung	_	
+1-2	11-23	Kaiserstraße	*	
+
+#Text=Bei den widersprüchlichen Schildern und Piktogrammen ist völlig unklar, was aktuell gültig ist.
+2-1	26-29	Bei	_	
+2-2	30-33	den	_	
+2-3	34-51	widersprüchlichen	_	
+2-4	52-61	Schildern	_	
+2-5	62-65	und	_	
+2-6	66-78	Piktogrammen	_	
+2-7	79-82	ist	_	
+2-8	83-89	völlig	_	
+2-9	90-96	unklar	_	
+2-10	96-97	,	_	
+2-11	98-101	was	_	
+2-12	102-109	aktuell	_	
+2-13	110-116	gültig	_	
+2-14	117-120	ist	_	
+2-15	120-121	.	_	
+
+#Text=Der ADFC sagt, stadteinwärts kann ich auf der Straße fahren, stadtauswärts muss ich den Radweg benutzen.
+3-1	122-125	Der	_	
+3-2	126-130	ADFC	_	
+3-3	131-135	sagt	_	
+3-4	135-136	,	_	
+3-5	137-150	stadteinwärts	_	
+3-6	151-155	kann	_	
+3-7	156-159	ich	_	
+3-8	160-163	auf	_	
+3-9	164-167	der	_	
+3-10	168-174	Straße	_	
+3-11	175-181	fahren	_	
+3-12	181-182	,	_	
+3-13	183-196	stadtauswärts	_	
+3-14	197-201	muss	_	
+3-15	202-205	ich	_	
+3-16	206-209	den	_	
+3-17	210-216	Radweg	_	
+3-18	217-225	benutzen	_	
+3-19	225-226	.	_	
+
+#Text=Stimmt das?
+4-1	227-233	Stimmt	_	
+4-2	234-237	das	_	
+4-3	237-238	?	_	

@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg Kaiserstrasse
+1-1	0-6	Radweg	_	
+1-2	7-20	Kaiserstrasse	*	
+
+#Text=Für den Radverkehr in 2 Richtungen ist nach meinem Empfinden der Radweg zu eng, vor allem, wenn ein Rad mir Anhänger entgegenkommt und auch, da oft die Büsche nicht geschnitten sind.
+2-1	23-26	Für	_	
+2-2	27-30	den	_	
+2-3	31-41	Radverkehr	_	
+2-4	42-44	in	_	
+2-5	45-46	2	_	
+2-6	47-57	Richtungen	_	
+2-7	58-61	ist	_	
+2-8	62-66	nach	_	
+2-9	67-73	meinem	_	
+2-10	74-83	Empfinden	_	
+2-11	84-87	der	_	
+2-12	88-94	Radweg	_	
+2-13	95-97	zu	_	
+2-14	98-101	eng	_	
+2-15	101-102	,	_	
+2-16	103-106	vor	_	
+2-17	107-112	allem	_	
+2-18	112-113	,	_	
+2-19	114-118	wenn	_	
+2-20	119-122	ein	_	
+2-21	123-126	Rad	_	
+2-22	127-130	mir	_	
+2-23	131-139	Anhänger	_	
+2-24	140-153	entgegenkommt	_	
+2-25	154-157	und	_	
+2-26	158-162	auch	_	
+2-27	162-163	,	_	
+2-28	164-166	da	_	
+2-29	167-170	oft	_	
+2-30	171-174	die	_	
+2-31	175-181	Büsche	_	
+2-32	182-187	nicht	_	
+2-33	188-199	geschnitten	_	
+2-34	200-204	sind	_	
+2-35	204-205	.	_	
+
+#Text=Ich fahre idR schon auf der Strasse, wenn ich stadteinwärts unterwegs bin.
+3-1	206-209	Ich	_	
+3-2	210-215	fahre	_	
+3-3	216-219	idR	_	
+3-4	220-225	schon	_	
+3-5	226-229	auf	_	
+3-6	230-233	der	_	
+3-7	234-241	Strasse	_	
+3-8	241-242	,	_	
+3-9	243-247	wenn	_	
+3-10	248-251	ich	_	
+3-11	252-265	stadteinwärts	_	
+3-12	266-275	unterwegs	_	
+3-13	276-279	bin	_	
+3-14	279-280	.	_	
+
+#Text=Das sollte man m.E. berücksichtigen, wenn ohnehin der Verkehr von und zur Innenstadt neu geregelt wird.
+4-1	281-284	Das	_	
+4-2	285-291	sollte	_	
+4-3	292-295	man	_	
+4-4	296-299	m.E	_	
+4-5	299-300	.	_	
+4-6	301-316	berücksichtigen	_	
+4-7	316-317	,	_	
+4-8	318-322	wenn	_	
+4-9	323-330	ohnehin	_	
+4-10	331-334	der	_	
+4-11	335-342	Verkehr	_	
+4-12	343-346	von	*[6]	
+4-13	347-350	und	*[6]	
+4-14	351-354	zur	*[6]	
+4-15	355-365	Innenstadt	*[6]	
+4-16	366-369	neu	_	
+4-17	370-378	geregelt	_	
+4-18	379-383	wird	_	
+4-19	383-384	.	_	
+
+#Text=Kaiserstraße - Einbahnstrasse?
+5-1	385-397	Kaiserstraße	*	
+5-2	398-399	-	_	
+5-3	400-414	Einbahnstrasse	_	
+5-4	414-415	?	_	

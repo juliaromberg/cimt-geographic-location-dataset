@@ -1,0 +1,88 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Geschwindigkeitskontrollen nötig
+1-1	0-26	Geschwindigkeitskontrollen	_	
+1-2	27-32	nötig	_	
+
+#Text=Auf der Rüdigerstraße sind mehr Geschwindigkeitskontrollen nötig, da hier z.T. die zulässige Höchstgeschwindigkeit von 30 km/h erheblich überschritten wird.
+2-1	35-38	Auf	*[5]	
+2-2	39-42	der	*[5]	
+2-3	43-56	Rüdigerstraße	*[5]	
+2-4	57-61	sind	_	
+2-5	62-66	mehr	_	
+2-6	67-93	Geschwindigkeitskontrollen	_	
+2-7	94-99	nötig	_	
+2-8	99-100	,	_	
+2-9	101-103	da	_	
+2-10	104-108	hier	_	
+2-11	109-112	z.T	_	
+2-12	112-113	.	_	
+2-13	114-117	die	_	
+2-14	118-127	zulässige	_	
+2-15	128-149	Höchstgeschwindigkeit	_	
+2-16	150-153	von	_	
+2-17	154-156	30	_	
+2-18	157-159	km	_	
+2-19	159-160	/	_	
+2-20	160-161	h	_	
+2-21	162-171	erheblich	_	
+2-22	172-185	überschritten	_	
+2-23	186-190	wird	_	
+2-24	190-191	.	_	
+
+#Text=Dies liegt z.T. auch daran, das keinerlei bauliche Veränderungen an der für ein Wohngebiet extrem breiten Straße vorgenommen wurden.
+3-1	192-196	Dies	_	
+3-2	197-202	liegt	_	
+3-3	203-206	z.T	_	
+3-4	206-207	.	_	
+3-5	208-212	auch	_	
+3-6	213-218	daran	_	
+3-7	218-219	,	_	
+3-8	220-223	das	_	
+3-9	224-233	keinerlei	_	
+3-10	234-242	bauliche	_	
+3-11	243-256	Veränderungen	_	
+3-12	257-259	an	_	
+3-13	260-263	der	_	
+3-14	264-267	für	_	
+3-15	268-271	ein	_	
+3-16	272-282	Wohngebiet	_	
+3-17	283-289	extrem	_	
+3-18	290-297	breiten	_	
+3-19	298-304	Straße	_	
+3-20	305-316	vorgenommen	_	
+3-21	317-323	wurden	_	
+3-22	323-324	.	_	
+
+#Text=Nach meiner Einschätzung besteht hier vor dem Hintergrund, dass die Rüdigerstraße zw. Siegfriedstr. und Austraße zur Fahrradstraße umgewidmet werden soll, akuter Handlungsbedarf.
+4-1	325-329	Nach	_	
+4-2	330-336	meiner	_	
+4-3	337-349	Einschätzung	_	
+4-4	350-357	besteht	_	
+4-5	358-362	hier	_	
+4-6	363-366	vor	_	
+4-7	367-370	dem	_	
+4-8	371-382	Hintergrund	_	
+4-9	382-383	,	_	
+4-10	384-388	dass	_	
+4-11	389-392	die	*[6]	
+4-12	393-406	Rüdigerstraße	*[6]	
+4-13	407-409	zw	*[6]	
+4-14	409-410	.	*[6]	
+4-15	411-423	Siegfriedstr	*[6]	
+4-16	423-424	.	*[6]	
+4-17	425-428	und	*[6]	
+4-18	429-437	Austraße	*[6]	
+4-19	438-441	zur	_	
+4-20	442-455	Fahrradstraße	_	
+4-21	456-466	umgewidmet	_	
+4-22	467-473	werden	_	
+4-23	474-478	soll	_	
+4-24	478-479	,	_	
+4-25	480-486	akuter	_	
+4-26	487-502	Handlungsbedarf	_	
+4-27	502-503	.	_	

@@ -1,0 +1,40 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Anschluss der kommenden Brücke über die Weinsbergstraße
+1-1	0-9	Anschluss	_	
+1-2	10-13	der	_	
+1-3	14-23	kommenden	_	
+1-4	24-30	Brücke	_	
+1-5	31-35	über	*[4]	
+1-6	36-39	die	*[4]	
+1-7	40-55	Weinsbergstraße	*[4]	
+
+#Text=Angeblich soll die Fuß-/Rad-Brücke über Weinsbergstraße in absehbarer Zeit kommen.
+2-1	58-67	Angeblich	_	
+2-2	68-72	soll	_	
+2-3	73-76	die	_	
+2-4	77-80	Fuß	_	
+2-5	80-81	-	_	
+2-6	81-82	/	_	
+2-7	82-92	Rad-Brücke	_	
+2-8	93-97	über	*[5]	
+2-9	98-113	Weinsbergstraße	*[5]	
+2-10	114-116	in	_	
+2-11	117-127	absehbarer	_	
+2-12	128-132	Zeit	_	
+2-13	133-139	kommen	_	
+2-14	139-140	.	_	
+
+#Text=Vorplanen der Verbindung zur Oskar-Jäger-Str. und Ölstraße
+3-1	141-150	Vorplanen	_	
+3-2	151-154	der	_	
+3-3	155-165	Verbindung	_	
+3-4	166-169	zur	*[6]	
+3-5	170-185	Oskar-Jäger-Str	*[6]	
+3-6	185-186	.	*[6]	
+3-7	187-190	und	*[6]	
+3-8	191-199	Ölstraße	*[6]	

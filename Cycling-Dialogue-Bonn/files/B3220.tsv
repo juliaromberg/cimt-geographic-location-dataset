@@ -1,0 +1,205 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=fehlende Markierungen
+1-1	0-8	fehlende	_	
+1-2	9-21	Markierungen	_	
+
+#Text=Kennedy-Brücke: die Beleuchtung von den 12m hohen Masten strahlt das Licht da oben zur Seite ab, aber nicht nach unten auf den Asphalt.
+2-1	24-38	Kennedy-Brücke	*	
+2-2	38-39	:	_	
+2-3	40-43	die	_	
+2-4	44-55	Beleuchtung	_	
+2-5	56-59	von	_	
+2-6	60-63	den	_	
+2-7	64-67	12m	_	
+2-8	68-73	hohen	_	
+2-9	74-80	Masten	_	
+2-10	81-88	strahlt	_	
+2-11	89-92	das	_	
+2-12	93-98	Licht	_	
+2-13	99-101	da	_	
+2-14	102-106	oben	_	
+2-15	107-110	zur	_	
+2-16	111-116	Seite	_	
+2-17	117-119	ab	_	
+2-18	119-120	,	_	
+2-19	121-125	aber	_	
+2-20	126-131	nicht	_	
+2-21	132-136	nach	_	
+2-22	137-142	unten	_	
+2-23	143-146	auf	_	
+2-24	147-150	den	_	
+2-25	151-158	Asphalt	_	
+2-26	158-159	.	_	
+
+#Text=Positionslampen für Flugzeuge ?
+3-1	160-175	Positionslampen	_	
+3-2	176-179	für	_	
+3-3	180-189	Flugzeuge	_	
+3-4	190-191	?	_	
+
+#Text=Für Fussgänger ungeeignet.
+4-1	192-195	Für	_	
+4-2	196-206	Fussgänger	_	
+4-3	207-217	ungeeignet	_	
+4-4	217-218	.	_	
+
+#Text=Die alten Lampen strahlten das Licht nach unten ab.
+5-1	219-222	Die	_	
+5-2	223-228	alten	_	
+5-3	229-235	Lampen	_	
+5-4	236-245	strahlten	_	
+5-5	246-249	das	_	
+5-6	250-255	Licht	_	
+5-7	256-260	nach	_	
+5-8	261-266	unten	_	
+5-9	267-269	ab	_	
+5-10	269-270	.	_	
+
+#Text=Wer hat sich das bloss ausgedacht.... ?
+6-1	271-274	Wer	_	
+6-2	275-278	hat	_	
+6-3	279-283	sich	_	
+6-4	284-287	das	_	
+6-5	288-293	bloss	_	
+6-6	294-304	ausgedacht	_	
+6-7	304-305	.	_	
+6-8	305-306	.	_	
+6-9	306-307	.	_	
+6-10	307-308	.	_	
+6-11	309-310	?	_	
+
+#Text=Fussgänger, Radfahrer, alles fährt und läuft durcheinander, Slalom in beide Richtungen.
+7-1	311-321	Fussgänger	_	
+7-2	321-322	,	_	
+7-3	323-332	Radfahrer	_	
+7-4	332-333	,	_	
+7-5	334-339	alles	_	
+7-6	340-345	fährt	_	
+7-7	346-349	und	_	
+7-8	350-355	läuft	_	
+7-9	356-369	durcheinander	_	
+7-10	369-370	,	_	
+7-11	371-377	Slalom	_	
+7-12	378-380	in	_	
+7-13	381-386	beide	_	
+7-14	387-397	Richtungen	_	
+7-15	397-398	.	_	
+
+#Text=Sehr empfehlenswert -> Fussweg blau, Radweg rot einfärben, beides mit den entsprechenden Piktogrammen.
+8-1	399-403	Sehr	_	
+8-2	404-418	empfehlenswert	_	
+8-3	419-420	-	_	
+8-4	420-421	>	_	
+8-5	422-429	Fussweg	_	
+8-6	430-434	blau	_	
+8-7	434-435	,	_	
+8-8	436-442	Radweg	_	
+8-9	443-446	rot	_	
+8-10	447-456	einfärben	_	
+8-11	456-457	,	_	
+8-12	458-464	beides	_	
+8-13	465-468	mit	_	
+8-14	469-472	den	_	
+8-15	473-487	entsprechenden	_	
+8-16	488-500	Piktogrammen	_	
+8-17	500-501	.	_	
+
+#Text=Anders funktioniert es nicht !
+9-1	502-508	Anders	_	
+9-2	509-521	funktioniert	_	
+9-3	522-524	es	_	
+9-4	525-530	nicht	_	
+9-5	531-532	!	_	
+
+#Text=Das selbe zwischen Friedrichstraße -> Berliner Freiheit.
+10-1	533-536	Das	_	
+10-2	537-542	selbe	_	
+10-3	543-551	zwischen	_	
+10-4	552-567	Friedrichstraße	*[17]	
+10-5	568-569	-	*[17]	
+10-6	569-570	>	*[17]	
+10-7	571-579	Berliner	*[17]	
+10-8	580-588	Freiheit	*[17]	
+10-9	588-589	.	_	
+
+#Text=Dort ist der Zustand katastrophal.
+11-1	590-594	Dort	_	
+11-2	595-598	ist	_	
+11-3	599-602	der	_	
+11-4	603-610	Zustand	_	
+11-5	611-623	katastrophal	_	
+11-6	623-624	.	_	
+
+#Text=Auto-Rechtsabbieger vom Suttner Platz -> Belderberg nehmen den Fussgängerübergang mit den paar weissen Strichen überhaupt nicht wahr !
+12-1	625-644	Auto-Rechtsabbieger	*[18]	
+12-2	645-648	vom	*[18]	
+12-3	649-656	Suttner	*[18]	
+12-4	657-662	Platz	*[18]	
+12-5	663-664	-	*[18]	
+12-6	664-665	>	*[18]	
+12-7	666-676	Belderberg	*[18]	
+12-8	677-683	nehmen	_	
+12-9	684-687	den	_	
+12-10	688-706	Fussgängerübergang	_	
+12-11	707-710	mit	_	
+12-12	711-714	den	_	
+12-13	715-719	paar	_	
+12-14	720-727	weissen	_	
+12-15	728-736	Strichen	_	
+12-16	737-746	überhaupt	_	
+12-17	747-752	nicht	_	
+12-18	753-757	wahr	_	
+12-19	758-759	!	_	
+
+#Text=Die meisten Fussgänger dort laufen auf dem rot eingefärbten Fahrradstreifen daneben, aus beiden Richtungen.
+13-1	760-763	Die	_	
+13-2	764-771	meisten	_	
+13-3	772-782	Fussgänger	_	
+13-4	783-787	dort	_	
+13-5	788-794	laufen	_	
+13-6	795-798	auf	_	
+13-7	799-802	dem	_	
+13-8	803-806	rot	_	
+13-9	807-819	eingefärbten	_	
+13-10	820-835	Fahrradstreifen	_	
+13-11	836-843	daneben	_	
+13-12	843-844	,	_	
+13-13	845-848	aus	_	
+13-14	849-855	beiden	_	
+13-15	856-866	Richtungen	_	
+13-16	866-867	.	_	
+
+#Text=Da sollte der Fussgängerübergang in voller Breite blau gefärbt sein !
+14-1	868-870	Da	_	
+14-2	871-877	sollte	_	
+14-3	878-881	der	_	
+14-4	882-900	Fussgängerübergang	_	
+14-5	901-903	in	_	
+14-6	904-910	voller	_	
+14-7	911-917	Breite	_	
+14-8	918-922	blau	_	
+14-9	923-930	gefärbt	_	
+14-10	931-935	sein	_	
+14-11	936-937	!	_	
+
+#Text=An dieser Ecke gab es schon einige Unfälle !
+15-1	938-940	An	_	
+15-2	941-947	dieser	_	
+15-3	948-952	Ecke	_	
+15-4	953-956	gab	_	
+15-5	957-959	es	_	
+15-6	960-965	schon	_	
+15-7	966-972	einige	_	
+15-8	973-980	Unfälle	_	
+15-9	981-982	!	_	
+
+#Text=Farben können helfen !
+16-1	983-989	Farben	_	
+16-2	990-996	können	_	
+16-3	997-1003	helfen	_	
+16-4	1004-1005	!	_	

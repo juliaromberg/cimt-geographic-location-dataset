@@ -1,0 +1,25 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Freigabe fehlt
+1-1	0-8	Freigabe	_	
+1-2	9-14	fehlt	_	
+
+#Text=Vorgeschriebene Fahrtrichtung geradeaus, warum darf ich hier nicht rechts und links abbiegen?
+2-1	17-32	Vorgeschriebene	_	
+2-2	33-46	Fahrtrichtung	_	
+2-3	47-56	geradeaus	_	
+2-4	56-57	,	_	
+2-5	58-63	warum	_	
+2-6	64-68	darf	_	
+2-7	69-72	ich	_	
+2-8	73-77	hier	_	
+2-9	78-83	nicht	_	
+2-10	84-90	rechts	_	
+2-11	91-94	und	_	
+2-12	95-100	links	_	
+2-13	101-109	abbiegen	_	
+2-14	109-110	?	_	

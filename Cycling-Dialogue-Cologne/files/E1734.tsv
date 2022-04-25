@@ -1,0 +1,78 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=30 cm breite und 3 cm tiefe Versenkungen auf der Richard-Byrd-Straße
+1-1	0-2	30	_	
+1-2	3-5	cm	_	
+1-3	6-12	breite	_	
+1-4	13-16	und	_	
+1-5	17-18	3	_	
+1-6	19-21	cm	_	
+1-7	22-27	tiefe	_	
+1-8	28-40	Versenkungen	_	
+1-9	41-44	auf	*[5]	
+1-10	45-48	der	*[5]	
+1-11	49-68	Richard-Byrd-Straße	*[5]	
+
+#Text=über die Jahre wurden immer wieder von der einen Straßenseite des einen Gebäudes zur anderen Straßenseite Kabelarbeiten vorgenommen.
+2-1	71-75	über	_	
+2-2	76-79	die	_	
+2-3	80-85	Jahre	_	
+2-4	86-92	wurden	_	
+2-5	93-98	immer	_	
+2-6	99-105	wieder	_	
+2-7	106-109	von	_	
+2-8	110-113	der	_	
+2-9	114-119	einen	_	
+2-10	120-132	Straßenseite	_	
+2-11	133-136	des	_	
+2-12	137-142	einen	_	
+2-13	143-151	Gebäudes	_	
+2-14	152-155	zur	_	
+2-15	156-163	anderen	_	
+2-16	164-176	Straßenseite	_	
+2-17	177-190	Kabelarbeiten	_	
+2-18	191-202	vorgenommen	_	
+2-19	202-203	.	_	
+
+#Text=Nach dem Schließen der Kabelgräben, die quer über die Straße führen, gibt es nun Versenkungen, die teils 3 cm tiefer liegen als die Fahrbahndecke.
+3-1	204-208	Nach	_	
+3-2	209-212	dem	_	
+3-3	213-222	Schließen	_	
+3-4	223-226	der	_	
+3-5	227-238	Kabelgräben	_	
+3-6	238-239	,	_	
+3-7	240-243	die	_	
+3-8	244-248	quer	_	
+3-9	249-253	über	_	
+3-10	254-257	die	_	
+3-11	258-264	Straße	_	
+3-12	265-271	führen	_	
+3-13	271-272	,	_	
+3-14	273-277	gibt	_	
+3-15	278-280	es	_	
+3-16	281-284	nun	_	
+3-17	285-297	Versenkungen	_	
+3-18	297-298	,	_	
+3-19	299-302	die	_	
+3-20	303-308	teils	_	
+3-21	309-310	3	_	
+3-22	311-313	cm	_	
+3-23	314-320	tiefer	_	
+3-24	321-327	liegen	_	
+3-25	328-331	als	_	
+3-26	332-335	die	_	
+3-27	336-349	Fahrbahndecke	_	
+3-28	349-350	.	_	
+
+#Text=Vielen Dank [Name entfernt].
+4-1	351-357	Vielen	_	
+4-2	358-362	Dank	_	
+4-3	363-364	[	_	
+4-4	364-368	Name	_	
+4-5	369-377	entfernt	_	
+4-6	377-378	]	_	
+4-7	378-379	.	_	

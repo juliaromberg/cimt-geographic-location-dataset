@@ -1,0 +1,99 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zu viele parkende Autos
+1-1	0-2	Zu	_	
+1-2	3-8	viele	_	
+1-3	9-17	parkende	_	
+1-4	18-23	Autos	_	
+
+#Text=Der Wiesenweg ist im westlichen Teil komplett zugeparkt.
+2-1	26-29	Der	*[7]	
+2-2	30-39	Wiesenweg	*[7]	
+2-3	40-43	ist	_	
+2-4	44-46	im	_	
+2-5	47-57	westlichen	_	
+2-6	58-62	Teil	_	
+2-7	63-71	komplett	_	
+2-8	72-81	zugeparkt	_	
+2-9	81-82	.	_	
+
+#Text=Die Autos stehen halb auf dem Gehweg, sodass der Gehweg teilweise zu schmal für Fußgänger mit Gepäck oder Kinderwagen ist.
+3-1	83-86	Die	_	
+3-2	87-92	Autos	_	
+3-3	93-99	stehen	_	
+3-4	100-104	halb	_	
+3-5	105-108	auf	_	
+3-6	109-112	dem	_	
+3-7	113-119	Gehweg	_	
+3-8	119-120	,	_	
+3-9	121-127	sodass	_	
+3-10	128-131	der	_	
+3-11	132-138	Gehweg	_	
+3-12	139-148	teilweise	_	
+3-13	149-151	zu	_	
+3-14	152-158	schmal	_	
+3-15	159-162	für	_	
+3-16	163-172	Fußgänger	_	
+3-17	173-176	mit	_	
+3-18	177-183	Gepäck	_	
+3-19	184-188	oder	_	
+3-20	189-200	Kinderwagen	_	
+3-21	201-204	ist	_	
+3-22	204-205	.	_	
+
+#Text=Dann gehen die Leute auf der Fahrbahn.
+4-1	206-210	Dann	_	
+4-2	211-216	gehen	_	
+4-3	217-220	die	_	
+4-4	221-226	Leute	_	
+4-5	227-230	auf	_	
+4-6	231-234	der	_	
+4-7	235-243	Fahrbahn	_	
+4-8	243-244	.	_	
+
+#Text=Effektiv ist die Straße nur noch ein Auto breit, es ist deutlich stressiger als nötig.
+5-1	245-253	Effektiv	_	
+5-2	254-257	ist	_	
+5-3	258-261	die	_	
+5-4	262-268	Straße	_	
+5-5	269-272	nur	_	
+5-6	273-277	noch	_	
+5-7	278-281	ein	_	
+5-8	282-286	Auto	_	
+5-9	287-292	breit	_	
+5-10	292-293	,	_	
+5-11	294-296	es	_	
+5-12	297-300	ist	_	
+5-13	301-309	deutlich	_	
+5-14	310-320	stressiger	_	
+5-15	321-324	als	_	
+5-16	325-330	nötig	_	
+5-17	330-331	.	_	
+
+#Text=Würde man die ganzen Autos entfernen (oder zumindest mal auf eine Seite begrenzen), ginge es hier deutlich einfacher.
+6-1	332-337	Würde	_	
+6-2	338-341	man	_	
+6-3	342-345	die	_	
+6-4	346-352	ganzen	_	
+6-5	353-358	Autos	_	
+6-6	359-368	entfernen	_	
+6-7	369-370	(	_	
+6-8	370-374	oder	_	
+6-9	375-384	zumindest	_	
+6-10	385-388	mal	_	
+6-11	389-392	auf	_	
+6-12	393-397	eine	_	
+6-13	398-403	Seite	_	
+6-14	404-413	begrenzen	_	
+6-15	413-414	)	_	
+6-16	414-415	,	_	
+6-17	416-421	ginge	_	
+6-18	422-424	es	_	
+6-19	425-429	hier	_	
+6-20	430-438	deutlich	_	
+6-21	439-448	einfacher	_	
+6-22	448-449	.	_	

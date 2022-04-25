@@ -1,0 +1,32 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rechts vor links auf allen Fahrradstraßen abschaffen
+1-1	0-6	Rechts	_	
+1-2	7-10	vor	_	
+1-3	11-16	links	_	
+1-4	17-20	auf	_	
+1-5	21-26	allen	_	
+1-6	27-41	Fahrradstraßen	_	
+1-7	42-52	abschaffen	_	
+
+#Text=Die Straßen sollten zügig befahrbar sein und man sollte als Radfahrer nicht dauernd ausgebremst werden.
+2-1	55-58	Die	_	
+2-2	59-66	Straßen	_	
+2-3	67-74	sollten	_	
+2-4	75-80	zügig	_	
+2-5	81-90	befahrbar	_	
+2-6	91-95	sein	_	
+2-7	96-99	und	_	
+2-8	100-103	man	_	
+2-9	104-110	sollte	_	
+2-10	111-114	als	_	
+2-11	115-124	Radfahrer	_	
+2-12	125-130	nicht	_	
+2-13	131-138	dauernd	_	
+2-14	139-150	ausgebremst	_	
+2-15	151-157	werden	_	
+2-16	157-158	.	_	

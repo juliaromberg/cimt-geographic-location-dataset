@@ -1,0 +1,100 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrbahnmrkierung mit Vorhahrthaltelinien und Tempo 30 im Combahnviertel
+1-1	0-17	Fahrbahnmrkierung	_	
+1-2	18-21	mit	_	
+1-3	22-41	Vorhahrthaltelinien	_	
+1-4	42-45	und	_	
+1-5	46-51	Tempo	_	
+1-6	52-54	30	_	
+1-7	55-57	im	*[6]	
+1-8	58-72	Combahnviertel	*[6]	
+
+#Text=Im Combahnviertel gilt durchgängig Tempo 30.
+2-1	75-77	Im	*[7]	
+2-2	78-92	Combahnviertel	*[7]	
+2-3	93-97	gilt	_	
+2-4	98-109	durchgängig	_	
+2-5	110-115	Tempo	_	
+2-6	116-118	30	_	
+2-7	118-119	.	_	
+
+#Text=Dies ist aber nur an wenigen Stellen durch Schilder markiert, so dass Autofahrer zu schnell und ohne auf Rechts vor links zu achten die Kaiser-Konrad- und die Combahnstraße entlang brettern und dadurch Radfahrer gefährden.
+3-1	120-124	Dies	_	
+3-2	125-128	ist	_	
+3-3	129-133	aber	_	
+3-4	134-137	nur	_	
+3-5	138-140	an	_	
+3-6	141-148	wenigen	_	
+3-7	149-156	Stellen	_	
+3-8	157-162	durch	_	
+3-9	163-171	Schilder	_	
+3-10	172-180	markiert	_	
+3-11	180-181	,	_	
+3-12	182-184	so	_	
+3-13	185-189	dass	_	
+3-14	190-200	Autofahrer	_	
+3-15	201-203	zu	_	
+3-16	204-211	schnell	_	
+3-17	212-215	und	_	
+3-18	216-220	ohne	_	
+3-19	221-224	auf	_	
+3-20	225-231	Rechts	_	
+3-21	232-235	vor	_	
+3-22	236-241	links	_	
+3-23	242-244	zu	_	
+3-24	245-251	achten	_	
+3-25	252-255	die	*[8]	
+3-26	256-269	Kaiser-Konrad	*[8]	
+3-27	269-270	-	*[8]	
+3-28	271-274	und	*[8]	
+3-29	275-278	die	*[8]	
+3-30	279-292	Combahnstraße	*[8]	
+3-31	293-300	entlang	*[8]	
+3-32	301-309	brettern	_	
+3-33	310-313	und	_	
+3-34	314-321	dadurch	_	
+3-35	322-331	Radfahrer	_	
+3-36	332-341	gefährden	_	
+3-37	341-342	.	_	
+
+#Text=Die Markierung von Haltelinien an den vielen Kreuzungen und Tempo 30-Markierungen auf der Straße würden die Aufmerksamkeit erhöhen.
+4-1	343-346	Die	_	
+4-2	347-357	Markierung	_	
+4-3	358-361	von	_	
+4-4	362-373	Haltelinien	_	
+4-5	374-376	an	_	
+4-6	377-380	den	_	
+4-7	381-387	vielen	_	
+4-8	388-398	Kreuzungen	_	
+4-9	399-402	und	_	
+4-10	403-408	Tempo	_	
+4-11	409-411	30	_	
+4-12	411-412	-	_	
+4-13	412-424	Markierungen	_	
+4-14	425-428	auf	_	
+4-15	429-432	der	_	
+4-16	433-439	Straße	_	
+4-17	440-446	würden	_	
+4-18	447-450	die	_	
+4-19	451-465	Aufmerksamkeit	_	
+4-20	466-473	erhöhen	_	
+4-21	473-474	.	_	
+
+#Text=Besser wäre natürlich die Kaiser-Konrad-Straße zur Fahrradstraße oder Einbahnstraße zu ändern.
+5-1	475-481	Besser	_	
+5-2	482-486	wäre	_	
+5-3	487-496	natürlich	_	
+5-4	497-500	die	*[9]	
+5-5	501-521	Kaiser-Konrad-Straße	*[9]	
+5-6	522-525	zur	_	
+5-7	526-539	Fahrradstraße	_	
+5-8	540-544	oder	_	
+5-9	545-558	Einbahnstraße	_	
+5-10	559-561	zu	_	
+5-11	562-568	ändern	_	
+5-12	568-569	.	_	

@@ -1,0 +1,46 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Kreuzung
+1-1	0-11	Gefährliche	_	
+1-2	12-20	Kreuzung	_	
+
+#Text=An dieser Stelle wurde ich schon mehrfach totz auffälliger Kleidung und neongelbem Helm von Autofahrern ignoriert und gefährdet.
+2-1	23-25	An	_	
+2-2	26-32	dieser	_	
+2-3	33-39	Stelle	_	
+2-4	40-45	wurde	_	
+2-5	46-49	ich	_	
+2-6	50-55	schon	_	
+2-7	56-64	mehrfach	_	
+2-8	65-69	totz	_	
+2-9	70-81	auffälliger	_	
+2-10	82-90	Kleidung	_	
+2-11	91-94	und	_	
+2-12	95-105	neongelbem	_	
+2-13	106-110	Helm	_	
+2-14	111-114	von	_	
+2-15	115-126	Autofahrern	_	
+2-16	127-136	ignoriert	_	
+2-17	137-140	und	_	
+2-18	141-150	gefährdet	_	
+2-19	150-151	.	_	
+
+#Text=Rechtsabbieger achten nicht gut genug auf geradeaus fahrende Radfahrer (Richtung Post).
+3-1	152-166	Rechtsabbieger	_	
+3-2	167-173	achten	_	
+3-3	174-179	nicht	_	
+3-4	180-183	gut	_	
+3-5	184-189	genug	_	
+3-6	190-193	auf	_	
+3-7	194-203	geradeaus	_	
+3-8	204-212	fahrende	_	
+3-9	213-222	Radfahrer	_	
+3-10	223-224	(	_	
+3-11	224-232	Richtung	_	
+3-12	233-237	Post	_	
+3-13	237-238	)	_	
+3-14	238-239	.	_	

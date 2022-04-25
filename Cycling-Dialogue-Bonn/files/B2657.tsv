@@ -1,0 +1,58 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg endet
+1-1	0-6	Radweg	_	
+1-2	7-12	endet	_	
+
+#Text=Der Radweg biegt unverhofft in Richtung Dransdorf/Tannenbusch ab.
+2-1	15-18	Der	_	
+2-2	19-25	Radweg	_	
+2-3	26-31	biegt	_	
+2-4	32-42	unverhofft	_	
+2-5	43-45	in	*[5]	
+2-6	46-54	Richtung	*[5]	
+2-7	55-64	Dransdorf	*[5]	
+2-8	64-65	/	*[5]	
+2-9	65-76	Tannenbusch	*[5]	
+2-10	77-79	ab	_	
+2-11	79-80	.	_	
+
+#Text=Es nicht möglich Richtung Innenstadt weiterzufahren, da man, durch den Grünstreifen, noch nicht einmal auf die Straße wechseln kann.
+3-1	81-83	Es	_	
+3-2	84-89	nicht	_	
+3-3	90-97	möglich	_	
+3-4	98-106	Richtung	*[6]	
+3-5	107-117	Innenstadt	*[6]	
+3-6	118-132	weiterzufahren	_	
+3-7	132-133	,	_	
+3-8	134-136	da	_	
+3-9	137-140	man	_	
+3-10	140-141	,	_	
+3-11	142-147	durch	_	
+3-12	148-151	den	_	
+3-13	152-164	Grünstreifen	_	
+3-14	164-165	,	_	
+3-15	166-170	noch	_	
+3-16	171-176	nicht	_	
+3-17	177-183	einmal	_	
+3-18	184-187	auf	_	
+3-19	188-191	die	_	
+3-20	192-198	Straße	_	
+3-21	199-207	wechseln	_	
+3-22	208-212	kann	_	
+3-23	212-213	.	_	
+
+#Text=Der Radweg sollte bis zur Bornheimerstraße verlängert werden.
+4-1	214-217	Der	_	
+4-2	218-224	Radweg	_	
+4-3	225-231	sollte	_	
+4-4	232-235	bis	*[7]	
+4-5	236-239	zur	*[7]	
+4-6	240-256	Bornheimerstraße	*[7]	
+4-7	257-267	verlängert	_	
+4-8	268-274	werden	_	
+4-9	274-275	.	_	

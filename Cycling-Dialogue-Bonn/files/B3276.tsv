@@ -1,0 +1,41 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Durchfahrt Kaierplatz
+1-1	0-10	Durchfahrt	_	
+1-2	11-21	Kaierplatz	_	
+
+#Text=Die Notwendigkeit an dieser Stelle abzusteigen und das Rad zu schieben ist ein dauerndes Ärgernis.
+2-1	24-27	Die	_	
+2-2	28-41	Notwendigkeit	_	
+2-3	42-44	an	_	
+2-4	45-51	dieser	_	
+2-5	52-58	Stelle	_	
+2-6	59-70	abzusteigen	_	
+2-7	71-74	und	_	
+2-8	75-78	das	_	
+2-9	79-82	Rad	_	
+2-10	83-85	zu	_	
+2-11	86-94	schieben	_	
+2-12	95-98	ist	_	
+2-13	99-102	ein	_	
+2-14	103-112	dauerndes	_	
+2-15	113-121	Ärgernis	_	
+2-16	121-122	.	_	
+
+#Text=Es sollte z.B. eine Unterführung nur für Radfahrer geschaffen werden.
+3-1	123-125	Es	_	
+3-2	126-132	sollte	_	
+3-3	133-136	z.B	_	
+3-4	136-137	.	_	
+3-5	138-142	eine	_	
+3-6	143-155	Unterführung	_	
+3-7	156-159	nur	_	
+3-8	160-163	für	_	
+3-9	164-173	Radfahrer	_	
+3-10	174-184	geschaffen	_	
+3-11	185-191	werden	_	
+3-12	191-192	.	_	

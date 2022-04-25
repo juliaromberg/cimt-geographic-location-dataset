@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bitte die -Venolerstraße nicht mehr als bundestraße führen
+1-1	0-5	Bitte	_	
+1-2	6-9	die	*[3]	
+1-3	10-11	-	*[3]	
+1-4	11-24	Venolerstraße	*[3]	
+1-5	25-30	nicht	_	
+1-6	31-35	mehr	_	
+1-7	36-39	als	_	
+1-8	40-51	bundestraße	_	
+1-9	52-58	führen	_	
+
+#Text=Um den LKW Verkehr zu reduzieren wäre deine Entwidmung als Bundesstraße sinnvoll
+2-1	61-63	Um	_	
+2-2	64-67	den	_	
+2-3	68-71	LKW	_	
+2-4	72-79	Verkehr	_	
+2-5	80-82	zu	_	
+2-6	83-93	reduzieren	_	
+2-7	94-98	wäre	_	
+2-8	99-104	deine	_	
+2-9	105-115	Entwidmung	_	
+2-10	116-119	als	_	
+2-11	120-132	Bundesstraße	_	
+2-12	133-141	sinnvoll	_	

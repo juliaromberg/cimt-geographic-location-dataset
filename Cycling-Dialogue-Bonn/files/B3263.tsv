@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Mangelnde Grünpflege und Wegeschäden die sich besonders nach Regen bemerkbar machen
+1-1	0-9	Mangelnde	_	
+1-2	10-20	Grünpflege	_	
+1-3	21-24	und	_	
+1-4	25-36	Wegeschäden	_	
+1-5	37-40	die	_	
+1-6	41-45	sich	_	
+1-7	46-55	besonders	_	
+1-8	56-60	nach	_	
+1-9	61-66	Regen	_	
+1-10	67-76	bemerkbar	_	
+1-11	77-83	machen	_	
+
+#Text=Der Gehweg ist für Radfahrer freigegeben.
+2-1	86-89	Der	_	
+2-2	90-96	Gehweg	_	
+2-3	97-100	ist	_	
+2-4	101-104	für	_	
+2-5	105-114	Radfahrer	_	
+2-6	115-126	freigegeben	_	
+2-7	126-127	.	_	
+
+#Text=Die Benutzung macht keine Freude, da mangels Grünpflege der Weg sehr eng ist.
+3-1	128-131	Die	_	
+3-2	132-141	Benutzung	_	
+3-3	142-147	macht	_	
+3-4	148-153	keine	_	
+3-5	154-160	Freude	_	
+3-6	160-161	,	_	
+3-7	162-164	da	_	
+3-8	165-172	mangels	_	
+3-9	173-183	Grünpflege	_	
+3-10	184-187	der	_	
+3-11	188-191	Weg	_	
+3-12	192-196	sehr	_	
+3-13	197-200	eng	_	
+3-14	201-204	ist	_	
+3-15	204-205	.	_	
+
+#Text=Außerdem stehen hier nach Regen oft die Pfützen.
+4-1	206-214	Außerdem	_	
+4-2	215-221	stehen	_	
+4-3	222-226	hier	_	
+4-4	227-231	nach	_	
+4-5	232-237	Regen	_	
+4-6	238-241	oft	_	
+4-7	242-245	die	_	
+4-8	246-253	Pfützen	_	
+4-9	253-254	.	_	

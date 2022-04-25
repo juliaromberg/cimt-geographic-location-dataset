@@ -1,0 +1,39 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelschaltung radfahrerunfreundlich
+1-1	0-14	Ampelschaltung	_	
+1-2	15-36	radfahrerunfreundlich	_	
+
+#Text=Auch hier auf der Oskar-Jäger-Str warten Linksabbieger per Rad in die Stolberger Straße elendig lang an der Ampel, während der KFZ-Verkehr in verschiedene Richtungen fließen darf.
+2-1	39-43	Auch	_	
+2-2	44-48	hier	_	
+2-3	49-52	auf	*[3]	
+2-4	53-56	der	*[3]	
+2-5	57-72	Oskar-Jäger-Str	*[3]	
+2-6	73-79	warten	_	
+2-7	80-93	Linksabbieger	_	
+2-8	94-97	per	_	
+2-9	98-101	Rad	_	
+2-10	102-104	in	*[4]	
+2-11	105-108	die	*[4]	
+2-12	109-119	Stolberger	*[4]	
+2-13	120-126	Straße	*[4]	
+2-14	127-134	elendig	_	
+2-15	135-139	lang	_	
+2-16	140-142	an	_	
+2-17	143-146	der	_	
+2-18	147-152	Ampel	_	
+2-19	152-153	,	_	
+2-20	154-161	während	_	
+2-21	162-165	der	_	
+2-22	166-177	KFZ-Verkehr	_	
+2-23	178-180	in	_	
+2-24	181-193	verschiedene	_	
+2-25	194-204	Richtungen	_	
+2-26	205-212	fließen	_	
+2-27	213-217	darf	_	
+2-28	217-218	.	_	

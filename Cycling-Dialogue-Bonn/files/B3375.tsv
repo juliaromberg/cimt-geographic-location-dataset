@@ -1,0 +1,27 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg in schlechtem Zustand
+1-1	0-6	Radweg	_	
+1-2	7-9	in	_	
+1-3	10-20	schlechtem	_	
+1-4	21-28	Zustand	_	
+
+#Text=Radweg in schlechtem Zustand.
+2-1	31-37	Radweg	_	
+2-2	38-40	in	_	
+2-3	41-51	schlechtem	_	
+2-4	52-59	Zustand	_	
+2-5	59-60	.	_	
+
+#Text=Rad und Fußgängerbereiche nicht eindeutig abgegrenzt.
+3-1	61-64	Rad	_	
+3-2	65-68	und	_	
+3-3	69-86	Fußgängerbereiche	_	
+3-4	87-92	nicht	_	
+3-5	93-102	eindeutig	_	
+3-6	103-113	abgegrenzt	_	
+3-7	113-114	.	_	

@@ -1,0 +1,296 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Stiefkinder Rheinauen-Radwege: Viel zu schmal & keine Beleuchtung & kaum Beschilderung
+1-1	0-11	Stiefkinder	_	
+1-2	12-29	Rheinauen-Radwege	*	
+1-3	29-30	:	_	
+1-4	31-35	Viel	_	
+1-5	36-38	zu	_	
+1-6	39-45	schmal	_	
+1-7	46-47	&	_	
+1-8	48-53	keine	_	
+1-9	54-65	Beleuchtung	_	
+1-10	66-67	&	_	
+1-11	68-72	kaum	_	
+1-12	73-86	Beschilderung	_	
+
+#Text=Die Rheinaue Bonn existiert seit 38 Jahren.
+2-1	89-92	Die	*[18]	
+2-2	93-101	Rheinaue	*[18]	
+2-3	102-106	Bonn	*[18]	
+2-4	107-116	existiert	_	
+2-5	117-121	seit	_	
+2-6	122-124	38	_	
+2-7	125-131	Jahren	_	
+2-8	131-132	.	_	
+
+#Text=Genauso lange gab es keine Verbesserungen für dortige Radwege: Sie sind viel zu eng & unbeleuchtet.
+3-1	133-140	Genauso	_	
+3-2	141-146	lange	_	
+3-3	147-150	gab	_	
+3-4	151-153	es	_	
+3-5	154-159	keine	_	
+3-6	160-174	Verbesserungen	_	
+3-7	175-178	für	_	
+3-8	179-186	dortige	_	
+3-9	187-194	Radwege	_	
+3-10	194-195	:	_	
+3-11	196-199	Sie	_	
+3-12	200-204	sind	_	
+3-13	205-209	viel	_	
+3-14	210-212	zu	_	
+3-15	213-216	eng	_	
+3-16	217-218	&	_	
+3-17	219-231	unbeleuchtet	_	
+3-18	231-232	.	_	
+
+#Text=Schon bei einem entgegenkommenden Fahrradanhänger muß man abbremsen.
+4-1	233-238	Schon	_	
+4-2	239-242	bei	_	
+4-3	243-248	einem	_	
+4-4	249-266	entgegenkommenden	_	
+4-5	267-282	Fahrradanhänger	_	
+4-6	283-286	muß	_	
+4-7	287-290	man	_	
+4-8	291-300	abbremsen	_	
+4-9	300-301	.	_	
+
+#Text=Abbremsen muss man als Radfahrer auch bei den am Wochenende hunderten Spaziergängern mit Hund am Heimkehrerweg, der eigentlich nur Radweg ist, was hundertausend Mal im Jahr von Fußgängern ignoriert wird.
+5-1	302-311	Abbremsen	_	
+5-2	312-316	muss	_	
+5-3	317-320	man	_	
+5-4	321-324	als	_	
+5-5	325-334	Radfahrer	_	
+5-6	335-339	auch	_	
+5-7	340-343	bei	_	
+5-8	344-347	den	_	
+5-9	348-350	am	_	
+5-10	351-361	Wochenende	_	
+5-11	362-371	hunderten	_	
+5-12	372-386	Spaziergängern	_	
+5-13	387-390	mit	_	
+5-14	391-395	Hund	_	
+5-15	396-398	am	_	
+5-16	399-412	Heimkehrerweg	_	
+5-17	412-413	,	_	
+5-18	414-417	der	_	
+5-19	418-428	eigentlich	_	
+5-20	429-432	nur	_	
+5-21	433-439	Radweg	_	
+5-22	440-443	ist	_	
+5-23	443-444	,	_	
+5-24	445-448	was	_	
+5-25	449-462	hundertausend	_	
+5-26	463-466	Mal	_	
+5-27	467-469	im	_	
+5-28	470-474	Jahr	_	
+5-29	475-478	von	_	
+5-30	479-489	Fußgängern	_	
+5-31	490-499	ignoriert	_	
+5-32	500-504	wird	_	
+5-33	504-505	.	_	
+
+#Text=Kein Wunder, bei der miserablen Beschilderung.
+6-1	506-510	Kein	_	
+6-2	511-517	Wunder	_	
+6-3	517-518	,	_	
+6-4	519-522	bei	_	
+6-5	523-526	der	_	
+6-6	527-537	miserablen	_	
+6-7	538-551	Beschilderung	_	
+6-8	551-552	.	_	
+
+#Text=Aktuell ist er zudem mal wieder teilweise nur Fußweg.
+7-1	553-560	Aktuell	_	
+7-2	561-564	ist	_	
+7-3	565-567	er	_	
+7-4	568-573	zudem	_	
+7-5	574-577	mal	_	
+7-6	578-584	wieder	_	
+7-7	585-594	teilweise	_	
+7-8	595-598	nur	_	
+7-9	599-605	Fußweg	_	
+7-10	605-606	.	_	
+
+#Text=Damit sich Unwissende ein Bild vom Heimkehrerweg machen können, hier ein Bild davon: https://goo.gl/v3GtHX
+8-1	607-612	Damit	_	
+8-2	613-617	sich	_	
+8-3	618-628	Unwissende	_	
+8-4	629-632	ein	_	
+8-5	633-637	Bild	_	
+8-6	638-641	vom	_	
+8-7	642-655	Heimkehrerweg	_	
+8-8	656-662	machen	_	
+8-9	663-669	können	_	
+8-10	669-670	,	_	
+8-11	671-675	hier	_	
+8-12	676-679	ein	_	
+8-13	680-684	Bild	_	
+8-14	685-690	davon	_	
+8-15	690-691	:	_	
+8-16	692-697	https	_	
+8-17	697-698	:	_	
+8-18	698-699	/	_	
+8-19	699-700	/	_	
+8-20	700-706	goo.gl	_	
+8-21	706-707	/	_	
+8-22	707-713	v3GtHX	_	
+
+#Text=Wohlgemerkt: Das ist kein historisches Photo aus den 50er Jahren!
+9-1	714-725	Wohlgemerkt	_	
+9-2	725-726	:	_	
+9-3	727-730	Das	_	
+9-4	731-734	ist	_	
+9-5	735-739	kein	_	
+9-6	740-752	historisches	_	
+9-7	753-758	Photo	_	
+9-8	759-762	aus	_	
+9-9	763-766	den	_	
+9-10	767-771	50er	_	
+9-11	772-778	Jahren	_	
+9-12	778-779	!	_	
+
+#Text=Gleiche Kritik gilt für die Beueler Rheinauen-Radwege.
+10-1	780-787	Gleiche	_	
+10-2	788-794	Kritik	_	
+10-3	795-799	gilt	_	
+10-4	800-803	für	_	
+10-5	804-807	die	*[19]	
+10-6	808-815	Beueler	*[19]	
+10-7	816-833	Rheinauen-Radwege	*[19]	
+10-8	833-834	.	_	
+
+#Text=Dort zumindest hält 2018 nach 40 Jahren in Teilen die Elektrizität Einzug, sprich: Die Wege werden endlich beleuchtet.
+11-1	835-839	Dort	_	
+11-2	840-849	zumindest	_	
+11-3	850-854	hält	_	
+11-4	855-859	2018	_	
+11-5	860-864	nach	_	
+11-6	865-867	40	_	
+11-7	868-874	Jahren	_	
+11-8	875-877	in	_	
+11-9	878-884	Teilen	_	
+11-10	885-888	die	_	
+11-11	889-901	Elektrizität	_	
+11-12	902-908	Einzug	_	
+11-13	908-909	,	_	
+11-14	910-916	sprich	_	
+11-15	916-917	:	_	
+11-16	918-921	Die	_	
+11-17	922-926	Wege	_	
+11-18	927-933	werden	_	
+11-19	934-941	endlich	_	
+11-20	942-952	beleuchtet	_	
+11-21	952-953	.	_	
+
+#Text=Die Bonner Seite, auch der Radweg weiter nach Godesberg, bleiben hingegen weiter dunkel.
+12-1	954-957	Die	*[20]	
+12-2	958-964	Bonner	*[20]	
+12-3	965-970	Seite	*[20]	
+12-4	970-971	,	*[20]	
+12-5	972-976	auch	*[20]	
+12-6	977-980	der	*[20]	
+12-7	981-987	Radweg	*[20]	
+12-8	988-994	weiter	*[20]	
+12-9	995-999	nach	*[20]	
+12-10	1000-1009	Godesberg	*[20]	
+12-11	1009-1010	,	_	
+12-12	1011-1018	bleiben	_	
+12-13	1019-1027	hingegen	_	
+12-14	1028-1034	weiter	_	
+12-15	1035-1041	dunkel	_	
+12-16	1041-1042	.	_	
+
+#Text=Nirgendwo wäre es räumlich einfacher und kostengünstiger, sehr intensiv genutzte Radwege erforderungsgemäß auszubauen.
+13-1	1043-1052	Nirgendwo	_	
+13-2	1053-1057	wäre	_	
+13-3	1058-1060	es	_	
+13-4	1061-1069	räumlich	_	
+13-5	1070-1079	einfacher	_	
+13-6	1080-1083	und	_	
+13-7	1084-1099	kostengünstiger	_	
+13-8	1099-1100	,	_	
+13-9	1101-1105	sehr	_	
+13-10	1106-1114	intensiv	_	
+13-11	1115-1123	genutzte	_	
+13-12	1124-1131	Radwege	_	
+13-13	1132-1149	erforderungsgemäß	_	
+13-14	1150-1160	auszubauen	_	
+13-15	1160-1161	.	_	
+
+#Text=Aber Bonn macht nichts.
+14-1	1162-1166	Aber	_	
+14-2	1167-1171	Bonn	*	
+14-3	1172-1177	macht	_	
+14-4	1178-1184	nichts	_	
+14-5	1184-1185	.	_	
+
+#Text=In Oberkassel/Ramersdorf entstanden seit 2000 ca. 15.000 Arbeitsplätze, da ist morgens/abends Rushhour auf dem unbeleuchteten Miniradweg bis Beuel.
+15-1	1186-1188	In	*[21]	
+15-2	1189-1199	Oberkassel	*[21]	
+15-3	1199-1200	/	*[21]	
+15-4	1200-1210	Ramersdorf	*[21]	
+15-5	1211-1221	entstanden	_	
+15-6	1222-1226	seit	_	
+15-7	1227-1231	2000	_	
+15-8	1232-1234	ca	_	
+15-9	1234-1235	.	_	
+15-10	1236-1242	15.000	_	
+15-11	1243-1256	Arbeitsplätze	_	
+15-12	1256-1257	,	_	
+15-13	1258-1260	da	_	
+15-14	1261-1264	ist	_	
+15-15	1265-1272	morgens	_	
+15-16	1272-1273	/	_	
+15-17	1273-1279	abends	_	
+15-18	1280-1288	Rushhour	_	
+15-19	1289-1292	auf	_	
+15-20	1293-1296	dem	_	
+15-21	1297-1311	unbeleuchteten	_	
+15-22	1312-1322	Miniradweg	_	
+15-23	1323-1326	bis	*[22]	
+15-24	1327-1332	Beuel	*[22]	
+15-25	1332-1333	.	_	
+
+#Text=Gestern fuhren auf beiden Seiten laut Radverkehrszählung über 10.000 Räder, aber die Bonner Rheinauen-Radwege werden schlechter behandelt, als Nebenstrecken.
+16-1	1334-1341	Gestern	_	
+16-2	1342-1348	fuhren	_	
+16-3	1349-1352	auf	_	
+16-4	1353-1359	beiden	_	
+16-5	1360-1366	Seiten	_	
+16-6	1367-1371	laut	_	
+16-7	1372-1390	Radverkehrszählung	_	
+16-8	1391-1395	über	_	
+16-9	1396-1402	10.000	_	
+16-10	1403-1408	Räder	_	
+16-11	1408-1409	,	_	
+16-12	1410-1414	aber	_	
+16-13	1415-1418	die	_	
+16-14	1419-1425	Bonner	*[23]	
+16-15	1426-1443	Rheinauen-Radwege	*[23]	
+16-16	1444-1450	werden	_	
+16-17	1451-1461	schlechter	_	
+16-18	1462-1471	behandelt	_	
+16-19	1471-1472	,	_	
+16-20	1473-1476	als	_	
+16-21	1477-1490	Nebenstrecken	_	
+16-22	1490-1491	.	_	
+
+#Text=Denn auf dem zu schmalen Heimkehrerweg gibt es auch zukünftig kein Licht.
+17-1	1492-1496	Denn	_	
+17-2	1497-1500	auf	_	
+17-3	1501-1504	dem	_	
+17-4	1505-1507	zu	_	
+17-5	1508-1516	schmalen	_	
+17-6	1517-1530	Heimkehrerweg	_	
+17-7	1531-1535	gibt	_	
+17-8	1536-1538	es	_	
+17-9	1539-1543	auch	_	
+17-10	1544-1553	zukünftig	_	
+17-11	1554-1558	kein	_	
+17-12	1559-1564	Licht	_	
+17-13	1564-1565	.	_	

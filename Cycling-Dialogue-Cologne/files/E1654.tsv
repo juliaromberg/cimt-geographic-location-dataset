@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg mit Lücken
+1-1	0-6	Radweg	_	
+1-2	7-10	mit	_	
+1-3	11-17	Lücken	_	
+
+#Text=Sowohl stadtein- wie auch stadtauswärts hat der Radweg entlang der Iltisstraße Lücken.
+2-1	20-26	Sowohl	_	
+2-2	27-35	stadtein	_	
+2-3	35-36	-	_	
+2-4	37-40	wie	_	
+2-5	41-45	auch	_	
+2-6	46-59	stadtauswärts	_	
+2-7	60-63	hat	_	
+2-8	64-67	der	*[5]	
+2-9	68-74	Radweg	*[5]	
+2-10	75-82	entlang	*[5]	
+2-11	83-86	der	*[5]	
+2-12	87-98	Iltisstraße	*[5]	
+2-13	99-105	Lücken	_	
+2-14	105-106	.	_	
+
+#Text=Wenn man nicht komplett auf der Straße fährt bzw zwischenzeitig den Bürgersteig nutzt (beides wahrscheinlich nicht korrekt) muss man immer mal wieder kurz auf die Straße fahren um dann zurück auf den Radweg zu fahren.
+3-1	107-111	Wenn	_	
+3-2	112-115	man	_	
+3-3	116-121	nicht	_	
+3-4	122-130	komplett	_	
+3-5	131-134	auf	_	
+3-6	135-138	der	_	
+3-7	139-145	Straße	_	
+3-8	146-151	fährt	_	
+3-9	152-155	bzw	_	
+3-10	156-170	zwischenzeitig	_	
+3-11	171-174	den	_	
+3-12	175-186	Bürgersteig	_	
+3-13	187-192	nutzt	_	
+3-14	193-194	(	_	
+3-15	194-200	beides	_	
+3-16	201-215	wahrscheinlich	_	
+3-17	216-221	nicht	_	
+3-18	222-229	korrekt	_	
+3-19	229-230	)	_	
+3-20	231-235	muss	_	
+3-21	236-239	man	_	
+3-22	240-245	immer	_	
+3-23	246-249	mal	_	
+3-24	250-256	wieder	_	
+3-25	257-261	kurz	_	
+3-26	262-265	auf	_	
+3-27	266-269	die	_	
+3-28	270-276	Straße	_	
+3-29	277-283	fahren	_	
+3-30	284-286	um	_	
+3-31	287-291	dann	_	
+3-32	292-298	zurück	_	
+3-33	299-302	auf	_	
+3-34	303-306	den	_	
+3-35	307-313	Radweg	_	
+3-36	314-316	zu	_	
+3-37	317-323	fahren	_	
+3-38	323-324	.	_	
+
+#Text=Das macht es gefährlich.
+4-1	325-328	Das	_	
+4-2	329-334	macht	_	
+4-3	335-337	es	_	
+4-4	338-348	gefährlich	_	
+4-5	348-349	.	_	

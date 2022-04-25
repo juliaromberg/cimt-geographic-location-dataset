@@ -1,0 +1,88 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrspurteilung
+1-1	0-15	Fahrspurteilung	_	
+
+#Text=Reduzieren Sie die Spurweite auf der gesamten Julius-Leber-Straße und vergrößern Sie die Breite der Radwege.
+2-1	18-28	Reduzieren	_	
+2-2	29-32	Sie	_	
+2-3	33-36	die	_	
+2-4	37-46	Spurweite	_	
+2-5	47-50	auf	*[5]	
+2-6	51-54	der	*[5]	
+2-7	55-63	gesamten	*[5]	
+2-8	64-83	Julius-Leber-Straße	*[5]	
+2-9	84-87	und	_	
+2-10	88-98	vergrößern	_	
+2-11	99-102	Sie	_	
+2-12	103-106	die	_	
+2-13	107-113	Breite	_	
+2-14	114-117	der	_	
+2-15	118-125	Radwege	_	
+2-16	125-126	.	_	
+
+#Text=Die Fahrspuren sind derzeit 4 Meter breit und werden als Rennstrecke genutzt.
+3-1	127-130	Die	_	
+3-2	131-141	Fahrspuren	_	
+3-3	142-146	sind	_	
+3-4	147-154	derzeit	_	
+3-5	155-156	4	_	
+3-6	157-162	Meter	_	
+3-7	163-168	breit	_	
+3-8	169-172	und	_	
+3-9	173-179	werden	_	
+3-10	180-183	als	_	
+3-11	184-195	Rennstrecke	_	
+3-12	196-203	genutzt	_	
+3-13	203-204	.	_	
+
+#Text=Auch, und das ist eine allgemeine Planungsregel: Bikelanes sind notwendig bergauf und sie müssen breit sein, bergab ist weniger wichtig, da Fahrräder in der Regel halten die Geschwindigkeit des Verkehrs.
+4-1	205-209	Auch	_	
+4-2	209-210	,	_	
+4-3	211-214	und	_	
+4-4	215-218	das	_	
+4-5	219-222	ist	_	
+4-6	223-227	eine	_	
+4-7	228-238	allgemeine	_	
+4-8	239-252	Planungsregel	_	
+4-9	252-253	:	_	
+4-10	254-263	Bikelanes	_	
+4-11	264-268	sind	_	
+4-12	269-278	notwendig	_	
+4-13	279-286	bergauf	_	
+4-14	287-290	und	_	
+4-15	291-294	sie	_	
+4-16	295-301	müssen	_	
+4-17	302-307	breit	_	
+4-18	308-312	sein	_	
+4-19	312-313	,	_	
+4-20	314-320	bergab	_	
+4-21	321-324	ist	_	
+4-22	325-332	weniger	_	
+4-23	333-340	wichtig	_	
+4-24	340-341	,	_	
+4-25	342-344	da	_	
+4-26	345-354	Fahrräder	_	
+4-27	355-357	in	_	
+4-28	358-361	der	_	
+4-29	362-367	Regel	_	
+4-30	368-374	halten	_	
+4-31	375-378	die	_	
+4-32	379-394	Geschwindigkeit	_	
+4-33	395-398	des	_	
+4-34	399-407	Verkehrs	_	
+4-35	407-408	.	_	
+
+#Text=Die Julius-Leber-Straße ist dafür ein perfektes Beispiel.
+5-1	409-412	Die	*[6]	
+5-2	413-432	Julius-Leber-Straße	*[6]	
+5-3	433-436	ist	_	
+5-4	437-442	dafür	_	
+5-5	443-446	ein	_	
+5-6	447-456	perfektes	_	
+5-7	457-465	Beispiel	_	
+5-8	465-466	.	_	

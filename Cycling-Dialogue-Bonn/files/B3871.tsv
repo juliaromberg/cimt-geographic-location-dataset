@@ -1,0 +1,21 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Platzmangel für Radfahrer und Fußgänger
+1-1	0-11	Platzmangel	_	
+1-2	12-15	für	_	
+1-3	16-25	Radfahrer	_	
+1-4	26-29	und	_	
+1-5	30-39	Fußgänger	_	
+
+#Text=Auflösung der Parkplätze und Verbreiterung des Fußwegs
+2-1	42-51	Auflösung	_	
+2-2	52-55	der	_	
+2-3	56-66	Parkplätze	_	
+2-4	67-70	und	_	
+2-5	71-84	Verbreiterung	_	
+2-6	85-88	des	_	
+2-7	89-96	Fußwegs	_	

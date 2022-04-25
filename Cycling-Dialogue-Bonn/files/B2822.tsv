@@ -1,0 +1,60 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraßen
+1-1	0-14	Fahrradstraßen	_	
+
+#Text=Die Straßen in der Altstadt, also zwischen Kaiser-Karl-Ring/Hochstadenring, Bornheimer Straße, Kölnstraße und Oxfordstraße/Stadthaus zu Fahrradstraßen machen, so wie teilweise schon geschehen.
+2-1	17-20	Die	_	
+2-2	21-28	Straßen	_	
+2-3	29-31	in	*[3]	
+2-4	32-35	der	*[3]	
+2-5	36-44	Altstadt	*[3]	
+2-6	44-45	,	*[3]	
+2-7	46-50	also	*[3]	
+2-8	51-59	zwischen	*[3]	
+2-9	60-76	Kaiser-Karl-Ring	*[3]	
+2-10	76-77	/	*[3]	
+2-11	77-91	Hochstadenring	*[3]	
+2-12	91-92	,	*[3]	
+2-13	93-103	Bornheimer	*[3]	
+2-14	104-110	Straße	*[3]	
+2-15	110-111	,	*[3]	
+2-16	112-122	Kölnstraße	*[3]	
+2-17	123-126	und	*[3]	
+2-18	127-139	Oxfordstraße	*[3]	
+2-19	139-140	/	*[3]	
+2-20	140-149	Stadthaus	*[3]	
+2-21	150-152	zu	_	
+2-22	153-167	Fahrradstraßen	_	
+2-23	168-174	machen	_	
+2-24	174-175	,	_	
+2-25	176-178	so	_	
+2-26	179-182	wie	_	
+2-27	183-192	teilweise	_	
+2-28	193-198	schon	_	
+2-29	199-208	geschehen	_	
+2-30	208-209	.	_	
+
+#Text=Die Maßnahme lässt sich schnell und günstig umsetzen, sie erhöht die Verkehrssicherheit und dient der Verkehrsberuhigung.
+3-1	210-213	Die	_	
+3-2	214-222	Maßnahme	_	
+3-3	223-228	lässt	_	
+3-4	229-233	sich	_	
+3-5	234-241	schnell	_	
+3-6	242-245	und	_	
+3-7	246-253	günstig	_	
+3-8	254-262	umsetzen	_	
+3-9	262-263	,	_	
+3-10	264-267	sie	_	
+3-11	268-274	erhöht	_	
+3-12	275-278	die	_	
+3-13	279-297	Verkehrssicherheit	_	
+3-14	298-301	und	_	
+3-15	302-307	dient	_	
+3-16	308-311	der	_	
+3-17	312-330	Verkehrsberuhigung	_	
+3-18	330-331	.	_	

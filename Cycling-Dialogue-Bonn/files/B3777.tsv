@@ -1,0 +1,85 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sinn des Zählapparates
+1-1	0-4	Sinn	_	
+1-2	5-8	des	_	
+1-3	9-22	Zählapparates	_	
+
+#Text=Man fragt sich schon was dieser Radfahrerzählapparat für einen Sinn macht.
+2-1	25-28	Man	_	
+2-2	29-34	fragt	_	
+2-3	35-39	sich	_	
+2-4	40-45	schon	_	
+2-5	46-49	was	_	
+2-6	50-56	dieser	_	
+2-7	57-77	Radfahrerzählapparat	_	
+2-8	78-81	für	_	
+2-9	82-87	einen	_	
+2-10	88-92	Sinn	_	
+2-11	93-98	macht	_	
+2-12	98-99	.	_	
+
+#Text=Zum einen ist er im Kurvenbereich und die Induktionsschleife im Boden reicht nicht über die ganze Breite des Rad- und Gehweges und außerdem sind ja beide Brückenseiten beidseitig befahrbar.
+3-1	100-103	Zum	_	
+3-2	104-109	einen	_	
+3-3	110-113	ist	_	
+3-4	114-116	er	_	
+3-5	117-119	im	_	
+3-6	120-133	Kurvenbereich	_	
+3-7	134-137	und	_	
+3-8	138-141	die	_	
+3-9	142-160	Induktionsschleife	_	
+3-10	161-163	im	_	
+3-11	164-169	Boden	_	
+3-12	170-176	reicht	_	
+3-13	177-182	nicht	_	
+3-14	183-187	über	_	
+3-15	188-191	die	_	
+3-16	192-197	ganze	_	
+3-17	198-204	Breite	_	
+3-18	205-208	des	_	
+3-19	209-212	Rad	_	
+3-20	212-213	-	_	
+3-21	214-217	und	_	
+3-22	218-226	Gehweges	_	
+3-23	227-230	und	_	
+3-24	231-239	außerdem	_	
+3-25	240-244	sind	_	
+3-26	245-247	ja	_	
+3-27	248-253	beide	_	
+3-28	254-267	Brückenseiten	_	
+3-29	268-278	beidseitig	_	
+3-30	279-288	befahrbar	_	
+3-31	288-289	.	_	
+
+#Text=Da sollte vielleicht auch einer auf der anderen Seite hin, oder wird nur gezählt wieviel Radfahrer auf die Schäl Sick fahren ;-).
+4-1	290-292	Da	_	
+4-2	293-299	sollte	_	
+4-3	300-310	vielleicht	_	
+4-4	311-315	auch	_	
+4-5	316-321	einer	_	
+4-6	322-325	auf	_	
+4-7	326-329	der	_	
+4-8	330-337	anderen	_	
+4-9	338-343	Seite	_	
+4-10	344-347	hin	_	
+4-11	347-348	,	_	
+4-12	349-353	oder	_	
+4-13	354-358	wird	_	
+4-14	359-362	nur	_	
+4-15	363-370	gezählt	_	
+4-16	371-378	wieviel	_	
+4-17	379-388	Radfahrer	_	
+4-18	389-392	auf	_	
+4-19	393-396	die	_	
+4-20	397-402	Schäl	_	
+4-21	403-407	Sick	_	
+4-22	408-414	fahren	_	
+4-23	415-416	;	_	
+4-24	416-417	-	_	
+4-25	417-418	)	_	
+4-26	418-419	.	_	

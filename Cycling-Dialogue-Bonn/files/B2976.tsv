@@ -1,0 +1,114 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstraße angekündigt, »Radfahrer frei« erst später
+1-1	0-13	Einbahnstraße	_	
+1-2	14-25	angekündigt	_	
+1-3	25-26	,	_	
+1-4	27-28	»	_	
+1-5	28-37	Radfahrer	_	
+1-6	38-42	frei	_	
+1-7	42-43	«	_	
+1-8	44-48	erst	_	
+1-9	49-55	später	_	
+
+#Text=Kommend von Süden steht am Ende der Straße ein »Einbahnstraße in X Metern« Schild.
+2-1	58-65	Kommend	_	
+2-2	66-69	von	_	
+2-3	70-75	Süden	_	
+2-4	76-81	steht	_	
+2-5	82-84	am	_	
+2-6	85-89	Ende	_	
+2-7	90-93	der	_	
+2-8	94-100	Straße	_	
+2-9	101-104	ein	_	
+2-10	105-106	»	_	
+2-11	106-119	Einbahnstraße	_	
+2-12	120-122	in	_	
+2-13	123-124	X	_	
+2-14	125-131	Metern	_	
+2-15	131-132	«	_	
+2-16	133-139	Schild	_	
+2-17	139-140	.	_	
+
+#Text=Daher bin ich das erste Mal mit dem Radfahrer nicht reingefahren.
+3-1	141-146	Daher	_	
+3-2	147-150	bin	_	
+3-3	151-154	ich	_	
+3-4	155-158	das	_	
+3-5	159-164	erste	_	
+3-6	165-168	Mal	_	
+3-7	169-172	mit	_	
+3-8	173-176	dem	_	
+3-9	177-186	Radfahrer	_	
+3-10	187-192	nicht	_	
+3-11	193-205	reingefahren	_	
+3-12	205-206	.	_	
+
+#Text=Bei genauerer Betrachtung sieht man aber, dass nach X Metern dann aber ein Einbahnstraßenschild mit Zusatz »Radfahrer frei« steht.
+4-1	207-210	Bei	_	
+4-2	211-220	genauerer	_	
+4-3	221-232	Betrachtung	_	
+4-4	233-238	sieht	_	
+4-5	239-242	man	_	
+4-6	243-247	aber	_	
+4-7	247-248	,	_	
+4-8	249-253	dass	_	
+4-9	254-258	nach	_	
+4-10	259-260	X	_	
+4-11	261-267	Metern	_	
+4-12	268-272	dann	_	
+4-13	273-277	aber	_	
+4-14	278-281	ein	_	
+4-15	282-302	Einbahnstraßenschild	_	
+4-16	303-306	mit	_	
+4-17	307-313	Zusatz	_	
+4-18	314-315	»	_	
+4-19	315-324	Radfahrer	_	
+4-20	325-329	frei	_	
+4-21	329-330	«	_	
+4-22	331-336	steht	_	
+4-23	336-337	.	_	
+
+#Text=Somit kann man also als Radfahrer doch durch die Straße fahren.
+5-1	338-343	Somit	_	
+5-2	344-348	kann	_	
+5-3	349-352	man	_	
+5-4	353-357	also	_	
+5-5	358-361	als	_	
+5-6	362-371	Radfahrer	_	
+5-7	372-376	doch	_	
+5-8	377-382	durch	_	
+5-9	383-386	die	_	
+5-10	387-393	Straße	_	
+5-11	394-400	fahren	_	
+5-12	400-401	.	_	
+
+#Text=Vielleicht wäre es hilfreich, wenn das Schild, das die Einbahnstraße ankündigt, auch schon den Zusatz »Radfahrer frei« anzubringen.
+6-1	402-412	Vielleicht	_	
+6-2	413-417	wäre	_	
+6-3	418-420	es	_	
+6-4	421-430	hilfreich	_	
+6-5	430-431	,	_	
+6-6	432-436	wenn	_	
+6-7	437-440	das	_	
+6-8	441-447	Schild	_	
+6-9	447-448	,	_	
+6-10	449-452	das	_	
+6-11	453-456	die	_	
+6-12	457-470	Einbahnstraße	_	
+6-13	471-480	ankündigt	_	
+6-14	480-481	,	_	
+6-15	482-486	auch	_	
+6-16	487-492	schon	_	
+6-17	493-496	den	_	
+6-18	497-503	Zusatz	_	
+6-19	504-505	»	_	
+6-20	505-514	Radfahrer	_	
+6-21	515-519	frei	_	
+6-22	519-520	«	_	
+6-23	521-532	anzubringen	_	
+6-24	532-533	.	_	

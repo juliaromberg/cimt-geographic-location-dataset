@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Super gefährliche Kreuzung
+1-1	0-5	Super	_	
+1-2	6-17	gefährliche	_	
+1-3	18-26	Kreuzung	_	
+
+#Text=Musste selbst mit ansehen wie ein Fahrradfahrer trotz klingeln fast gegen zwei ältere Menschen geprallt ist.
+2-1	29-35	Musste	_	
+2-2	36-42	selbst	_	
+2-3	43-46	mit	_	
+2-4	47-54	ansehen	_	
+2-5	55-58	wie	_	
+2-6	59-62	ein	_	
+2-7	63-76	Fahrradfahrer	_	
+2-8	77-82	trotz	_	
+2-9	83-91	klingeln	_	
+2-10	92-96	fast	_	
+2-11	97-102	gegen	_	
+2-12	103-107	zwei	_	
+2-13	108-114	ältere	_	
+2-14	115-123	Menschen	_	
+2-15	124-132	geprallt	_	
+2-16	133-136	ist	_	
+2-17	136-137	.	_	
+
+#Text=Er hat sich aber netterweise geopfert und ist paar Meter weiter richtig auf die Fresse Gefallen :-(.
+3-1	138-140	Er	_	
+3-2	141-144	hat	_	
+3-3	145-149	sich	_	
+3-4	150-154	aber	_	
+3-5	155-166	netterweise	_	
+3-6	167-175	geopfert	_	
+3-7	176-179	und	_	
+3-8	180-183	ist	_	
+3-9	184-188	paar	_	
+3-10	189-194	Meter	_	
+3-11	195-201	weiter	_	
+3-12	202-209	richtig	_	
+3-13	210-213	auf	_	
+3-14	214-217	die	_	
+3-15	218-224	Fresse	_	
+3-16	225-233	Gefallen	_	
+3-17	234-235	:	_	
+3-18	235-236	-	_	
+3-19	236-237	(	_	
+3-20	237-238	.	_	
+
+#Text=Da hilft vielleicht ein Achtung Schild bei den Fußgänger wie beim [Name entfernt] Hotel in Beuel Nähe Konrad-Adenauer-Brücke..
+4-1	239-241	Da	_	
+4-2	242-247	hilft	_	
+4-3	248-258	vielleicht	_	
+4-4	259-262	ein	_	
+4-5	263-270	Achtung	_	
+4-6	271-277	Schild	_	
+4-7	278-281	bei	_	
+4-8	282-285	den	_	
+4-9	286-295	Fußgänger	_	
+4-10	296-299	wie	_	
+4-11	300-304	beim	*[5]	
+4-12	305-306	[	*[5]	
+4-13	306-310	Name	*[5]	
+4-14	311-319	entfernt	*[5]	
+4-15	319-320	]	*[5]	
+4-16	321-326	Hotel	*[5]	
+4-17	327-329	in	*[5]	
+4-18	330-335	Beuel	*[5]	
+4-19	336-340	Nähe	*[5]	
+4-20	341-363	Konrad-Adenauer-Brücke	*[5]	
+4-21	363-364	.	_	
+4-22	364-365	.	_	

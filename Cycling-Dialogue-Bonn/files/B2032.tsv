@@ -1,0 +1,80 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Auffahrt aus Parkanlage ständig zugeparkt
+1-1	0-8	Auffahrt	_	
+1-2	9-12	aus	_	
+1-3	13-23	Parkanlage	_	
+1-4	24-31	ständig	_	
+1-5	32-41	zugeparkt	_	
+
+#Text=Die Auffahrt aus der Parkanlage auf die Hainstraße ist ständig zugeparkt.
+2-1	44-47	Die	*[6]	
+2-2	48-56	Auffahrt	*[6]	
+2-3	57-60	aus	*[6]	
+2-4	61-64	der	*[6]	
+2-5	65-75	Parkanlage	*[6]	
+2-6	76-79	auf	*[6]	
+2-7	80-83	die	*[6]	
+2-8	84-94	Hainstraße	*[6]	
+2-9	95-98	ist	_	
+2-10	99-106	ständig	_	
+2-11	107-116	zugeparkt	_	
+2-12	116-117	.	_	
+
+#Text=Manchmal so eng, dass man gar nicht durchpasst und absteigen muss.
+3-1	118-126	Manchmal	_	
+3-2	127-129	so	_	
+3-3	130-133	eng	_	
+3-4	133-134	,	_	
+3-5	135-139	dass	_	
+3-6	140-143	man	_	
+3-7	144-147	gar	_	
+3-8	148-153	nicht	_	
+3-9	154-164	durchpasst	_	
+3-10	165-168	und	_	
+3-11	169-178	absteigen	_	
+3-12	179-183	muss	_	
+3-13	183-184	.	_	
+
+#Text=Meistens aber mindestens so, dass die Sichtbeziehung zur Hainstraße eingeschränkt ist.
+4-1	185-193	Meistens	_	
+4-2	194-198	aber	_	
+4-3	199-209	mindestens	_	
+4-4	210-212	so	_	
+4-5	212-213	,	_	
+4-6	214-218	dass	_	
+4-7	219-222	die	_	
+4-8	223-237	Sichtbeziehung	_	
+4-9	238-241	zur	*[7]	
+4-10	242-252	Hainstraße	*[7]	
+4-11	253-266	eingeschränkt	_	
+4-12	267-270	ist	_	
+4-13	270-271	.	_	
+
+#Text=Insbesondere mit Rücksicht auf Kinder sollte hier ein Parkverbot sein, da diese sonst aus der Parkanlage kommend nicht gesehen werden!
+5-1	272-284	Insbesondere	_	
+5-2	285-288	mit	_	
+5-3	289-298	Rücksicht	_	
+5-4	299-302	auf	_	
+5-5	303-309	Kinder	_	
+5-6	310-316	sollte	_	
+5-7	317-321	hier	_	
+5-8	322-325	ein	_	
+5-9	326-336	Parkverbot	_	
+5-10	337-341	sein	_	
+5-11	341-342	,	_	
+5-12	343-345	da	_	
+5-13	346-351	diese	_	
+5-14	352-357	sonst	_	
+5-15	358-361	aus	_	
+5-16	362-365	der	_	
+5-17	366-376	Parkanlage	_	
+5-18	377-384	kommend	_	
+5-19	385-390	nicht	_	
+5-20	391-398	gesehen	_	
+5-21	399-405	werden	_	
+5-22	405-406	!	_	

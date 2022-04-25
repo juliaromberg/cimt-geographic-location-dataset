@@ -1,0 +1,205 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schulweg kreuzt Radweg
+1-1	0-8	Schulweg	_	
+1-2	9-15	kreuzt	_	
+1-3	16-22	Radweg	_	
+
+#Text=Die Fußgängerüberweg mit Ampelregelung an der Reuterstraße zur Till-Eugenspiegel-Schule kreuzt zu beiden Seiten den Radweg (komb. Fuß-/Radweg) entlang der Reuterstraße.
+2-1	25-28	Die	*[9]	
+2-2	29-45	Fußgängerüberweg	*[9]	
+2-3	46-49	mit	*[9]	
+2-4	50-63	Ampelregelung	*[9]	
+2-5	64-66	an	*[9]	
+2-6	67-70	der	*[9]	
+2-7	71-83	Reuterstraße	*[9]	
+2-8	84-87	zur	*[9]	
+2-9	88-112	Till-Eugenspiegel-Schule	*[9]	
+2-10	113-119	kreuzt	*[9]	
+2-11	120-122	zu	*[9]	
+2-12	123-129	beiden	*[9]	
+2-13	130-136	Seiten	*[9]	
+2-14	137-140	den	*[9]	
+2-15	141-147	Radweg	*[9]	
+2-16	148-149	(	*[9]	
+2-17	149-153	komb	*[9]	
+2-18	153-154	.	*[9]	
+2-19	155-158	Fuß	*[9]	
+2-20	158-159	-	*[9]	
+2-21	159-160	/	*[9]	
+2-22	160-166	Radweg	*[9]	
+2-23	166-167	)	*[9]	
+2-24	168-175	entlang	*[9]	
+2-25	176-179	der	*[9]	
+2-26	180-192	Reuterstraße	*[9]	
+2-27	192-193	.	_	
+
+#Text=Zeigt die Fußgängerampel grün, gilt für die Autofahrer rot, allerdings nicht für die Radfahrer, die Ampel steht links von ihnen an der Straße, gilt somit nicht für den Radweg.
+3-1	194-199	Zeigt	_	
+3-2	200-203	die	_	
+3-3	204-218	Fußgängerampel	_	
+3-4	219-223	grün	_	
+3-5	223-224	,	_	
+3-6	225-229	gilt	_	
+3-7	230-233	für	_	
+3-8	234-237	die	_	
+3-9	238-248	Autofahrer	_	
+3-10	249-252	rot	_	
+3-11	252-253	,	_	
+3-12	254-264	allerdings	_	
+3-13	265-270	nicht	_	
+3-14	271-274	für	_	
+3-15	275-278	die	_	
+3-16	279-288	Radfahrer	_	
+3-17	288-289	,	_	
+3-18	290-293	die	_	
+3-19	294-299	Ampel	_	
+3-20	300-305	steht	_	
+3-21	306-311	links	_	
+3-22	312-315	von	_	
+3-23	316-321	ihnen	_	
+3-24	322-324	an	_	
+3-25	325-328	der	_	
+3-26	329-335	Straße	_	
+3-27	335-336	,	_	
+3-28	337-341	gilt	_	
+3-29	342-347	somit	_	
+3-30	348-353	nicht	_	
+3-31	354-357	für	_	
+3-32	358-361	den	_	
+3-33	362-368	Radweg	_	
+3-34	368-369	.	_	
+
+#Text=So kommt es regelmäßig zu gefährlichen Situationen zwischen Fußgängern (v.a. Schulkindern) und Radlern.
+4-1	370-372	So	_	
+4-2	373-378	kommt	_	
+4-3	379-381	es	_	
+4-4	382-392	regelmäßig	_	
+4-5	393-395	zu	_	
+4-6	396-408	gefährlichen	_	
+4-7	409-420	Situationen	_	
+4-8	421-429	zwischen	_	
+4-9	430-440	Fußgängern	_	
+4-10	441-442	(	_	
+4-11	442-445	v.a	_	
+4-12	445-446	.	_	
+4-13	447-459	Schulkindern	_	
+4-14	459-460	)	_	
+4-15	461-464	und	_	
+4-16	465-472	Radlern	_	
+4-17	472-473	.	_	
+
+#Text=Die Kinder können die Situation nicht einschätzen, bei grün rennen sie los... und sind damit vollkommen im Recht.
+5-1	474-477	Die	_	
+5-2	478-484	Kinder	_	
+5-3	485-491	können	_	
+5-4	492-495	die	_	
+5-5	496-505	Situation	_	
+5-6	506-511	nicht	_	
+5-7	512-523	einschätzen	_	
+5-8	523-524	,	_	
+5-9	525-528	bei	_	
+5-10	529-533	grün	_	
+5-11	534-540	rennen	_	
+5-12	541-544	sie	_	
+5-13	545-548	los	_	
+5-14	548-549	.	_	
+5-15	549-550	.	_	
+5-16	550-551	.	_	
+5-17	552-555	und	_	
+5-18	556-560	sind	_	
+5-19	561-566	damit	_	
+5-20	567-577	vollkommen	_	
+5-21	578-580	im	_	
+5-22	581-586	Recht	_	
+5-23	586-587	.	_	
+
+#Text=Das nichts passiert (bisher), ist den Radlern zu danken, denn wer schon so mutig ist, an der Reuterstraße entlang zu fahren, kennt die gefährlichen Stellen.
+6-1	588-591	Das	_	
+6-2	592-598	nichts	_	
+6-3	599-607	passiert	_	
+6-4	608-609	(	_	
+6-5	609-615	bisher	_	
+6-6	615-616	)	_	
+6-7	616-617	,	_	
+6-8	618-621	ist	_	
+6-9	622-625	den	_	
+6-10	626-633	Radlern	_	
+6-11	634-636	zu	_	
+6-12	637-643	danken	_	
+6-13	643-644	,	_	
+6-14	645-649	denn	_	
+6-15	650-653	wer	_	
+6-16	654-659	schon	_	
+6-17	660-662	so	_	
+6-18	663-668	mutig	_	
+6-19	669-672	ist	_	
+6-20	672-673	,	_	
+6-21	674-676	an	*[10]	
+6-22	677-680	der	*[10]	
+6-23	681-693	Reuterstraße	*[10]	
+6-24	694-701	entlang	*[10]	
+6-25	702-704	zu	_	
+6-26	705-711	fahren	_	
+6-27	711-712	,	_	
+6-28	713-718	kennt	_	
+6-29	719-722	die	_	
+6-30	723-735	gefährlichen	_	
+6-31	736-743	Stellen	_	
+6-32	743-744	.	_	
+
+#Text=Noch dazu stehen in Fahrtrichtung vor und hinter der Einmündung der Renoisstraße je 1 Poller, die Ausweichmanöver erschweren ( und nachts kaum zu sehen sind), die gehören entfernt.
+7-1	745-749	Noch	_	
+7-2	750-754	dazu	_	
+7-3	755-761	stehen	_	
+7-4	762-764	in	_	
+7-5	765-778	Fahrtrichtung	_	
+7-6	779-782	vor	*[11]	
+7-7	783-786	und	*[11]	
+7-8	787-793	hinter	*[11]	
+7-9	794-797	der	*[11]	
+7-10	798-808	Einmündung	*[11]	
+7-11	809-812	der	*[11]	
+7-12	813-825	Renoisstraße	*[11]	
+7-13	826-828	je	_	
+7-14	829-830	1	_	
+7-15	831-837	Poller	_	
+7-16	837-838	,	_	
+7-17	839-842	die	_	
+7-18	843-858	Ausweichmanöver	_	
+7-19	859-869	erschweren	_	
+7-20	870-871	(	_	
+7-21	872-875	und	_	
+7-22	876-882	nachts	_	
+7-23	883-887	kaum	_	
+7-24	888-890	zu	_	
+7-25	891-896	sehen	_	
+7-26	897-901	sind	_	
+7-27	901-902	)	_	
+7-28	902-903	,	_	
+7-29	904-907	die	_	
+7-30	908-915	gehören	_	
+7-31	916-924	entfernt	_	
+7-32	924-925	.	_	
+
+#Text=Hier ist auch für die Radfahrer die Ampelregelung anzuwenden, und zwar bevor was passiert.
+8-1	926-930	Hier	_	
+8-2	931-934	ist	_	
+8-3	935-939	auch	_	
+8-4	940-943	für	_	
+8-5	944-947	die	_	
+8-6	948-957	Radfahrer	_	
+8-7	958-961	die	_	
+8-8	962-975	Ampelregelung	_	
+8-9	976-986	anzuwenden	_	
+8-10	986-987	,	_	
+8-11	988-991	und	_	
+8-12	992-996	zwar	_	
+8-13	997-1002	bevor	_	
+8-14	1003-1006	was	_	
+8-15	1007-1015	passiert	_	
+8-16	1015-1016	.	_	

@@ -1,0 +1,106 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=beleuchteter Radweg durch die Rheinaue fehlt
+1-1	0-12	beleuchteter	_	
+1-2	13-19	Radweg	_	
+1-3	20-25	durch	*[6]	
+1-4	26-29	die	*[6]	
+1-5	30-38	Rheinaue	*[6]	
+1-6	39-44	fehlt	_	
+
+#Text=Es sollte einen beleuchteten Radweg durch die Rheinaue geben, bei dem die Lichter nicht um 22:00 Uhr ausgeschaltet werden.
+2-1	47-49	Es	_	
+2-2	50-56	sollte	_	
+2-3	57-62	einen	_	
+2-4	63-75	beleuchteten	_	
+2-5	76-82	Radweg	_	
+2-6	83-88	durch	*[7]	
+2-7	89-92	die	*[7]	
+2-8	93-101	Rheinaue	*[7]	
+2-9	102-107	geben	_	
+2-10	107-108	,	_	
+2-11	109-112	bei	_	
+2-12	113-116	dem	_	
+2-13	117-120	die	_	
+2-14	121-128	Lichter	_	
+2-15	129-134	nicht	_	
+2-16	135-137	um	_	
+2-17	138-140	22	_	
+2-18	140-141	:	_	
+2-19	141-143	00	_	
+2-20	144-147	Uhr	_	
+2-21	148-161	ausgeschaltet	_	
+2-22	162-168	werden	_	
+2-23	168-169	.	_	
+
+#Text=Die Rheinaue ist wichtiger Bestandteil des Radverkehrswegenetzes zwischen Bonn und Plittersdorf bzw. Mehlem.
+3-1	170-173	Die	*[8]	
+3-2	174-182	Rheinaue	*[8]	
+3-3	183-186	ist	_	
+3-4	187-196	wichtiger	_	
+3-5	197-208	Bestandteil	_	
+3-6	209-212	des	_	
+3-7	213-234	Radverkehrswegenetzes	_	
+3-8	235-243	zwischen	*[9]	
+3-9	244-248	Bonn	*[9]	
+3-10	249-252	und	*[9]	
+3-11	253-265	Plittersdorf	*[9]	
+3-12	266-269	bzw	*[9]	
+3-13	269-270	.	*[9]	
+3-14	271-277	Mehlem	*[9]	
+3-15	277-278	.	_	
+
+#Text=Leider bin ich den Weg schon oft im Dunkeln gefahren, weil die Lampen auf dem oberen Weg (Nähe Ludwig Erhard Allee) im vergangenen Jahr schon sehr früh abgeschaltet wurden.
+4-1	279-285	Leider	_	
+4-2	286-289	bin	_	
+4-3	290-293	ich	_	
+4-4	294-297	den	_	
+4-5	298-301	Weg	_	
+4-6	302-307	schon	_	
+4-7	308-311	oft	_	
+4-8	312-314	im	_	
+4-9	315-322	Dunkeln	_	
+4-10	323-331	gefahren	_	
+4-11	331-332	,	_	
+4-12	333-337	weil	_	
+4-13	338-341	die	_	
+4-14	342-348	Lampen	_	
+4-15	349-352	auf	_	
+4-16	353-356	dem	_	
+4-17	357-363	oberen	_	
+4-18	364-367	Weg	_	
+4-19	368-369	(	_	
+4-20	369-373	Nähe	*[10]	
+4-21	374-380	Ludwig	*[10]	
+4-22	381-387	Erhard	*[10]	
+4-23	388-393	Allee	*[10]	
+4-24	393-394	)	_	
+4-25	395-397	im	_	
+4-26	398-409	vergangenen	_	
+4-27	410-414	Jahr	_	
+4-28	415-420	schon	_	
+4-29	421-425	sehr	_	
+4-30	426-430	früh	_	
+4-31	431-443	abgeschaltet	_	
+4-32	444-450	wurden	_	
+4-33	450-451	.	_	
+
+#Text=Alternativrouten sind alle mit wesentlich mehr Straßenverkehr verbunden und für Radfahrer wesentlich unsicherer.
+5-1	452-468	Alternativrouten	_	
+5-2	469-473	sind	_	
+5-3	474-478	alle	_	
+5-4	479-482	mit	_	
+5-5	483-493	wesentlich	_	
+5-6	494-498	mehr	_	
+5-7	499-513	Straßenverkehr	_	
+5-8	514-523	verbunden	_	
+5-9	524-527	und	_	
+5-10	528-531	für	_	
+5-11	532-541	Radfahrer	_	
+5-12	542-552	wesentlich	_	
+5-13	553-563	unsicherer	_	
+5-14	563-564	.	_	

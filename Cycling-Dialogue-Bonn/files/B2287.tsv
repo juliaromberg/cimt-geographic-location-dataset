@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Autos fahren viel zu schnell!
+1-1	0-5	Autos	_	
+1-2	6-12	fahren	_	
+1-3	13-17	viel	_	
+1-4	18-20	zu	_	
+1-5	21-28	schnell	_	
+1-6	28-29	!	_	
+
+#Text=Von der Röckumstraße aus der Innenstad kommend, ist ein Überqueren der Straße in fast alle Richtungen abenteuerlich.
+2-1	32-35	Von	*[5]	
+2-2	36-39	der	*[5]	
+2-3	40-52	Röckumstraße	*[5]	
+2-4	53-56	aus	*[5]	
+2-5	57-60	der	*[5]	
+2-6	61-70	Innenstad	*[5]	
+2-7	71-78	kommend	*[5]	
+2-8	78-79	,	_	
+2-9	80-83	ist	_	
+2-10	84-87	ein	_	
+2-11	88-98	Überqueren	_	
+2-12	99-102	der	_	
+2-13	103-109	Straße	_	
+2-14	110-112	in	_	
+2-15	113-117	fast	_	
+2-16	118-122	alle	_	
+2-17	123-133	Richtungen	_	
+2-18	134-147	abenteuerlich	_	
+2-19	147-148	.	_	
+
+#Text=Die Autos fahren viel zu schnell, vor allem bergab von der Röckumstraße aus Lengsdorf kommend.
+3-1	149-152	Die	_	
+3-2	153-158	Autos	_	
+3-3	159-165	fahren	_	
+3-4	166-170	viel	_	
+3-5	171-173	zu	_	
+3-6	174-181	schnell	_	
+3-7	181-182	,	_	
+3-8	183-186	vor	_	
+3-9	187-192	allem	_	
+3-10	193-199	bergab	_	
+3-11	200-203	von	*[6]	
+3-12	204-207	der	*[6]	
+3-13	208-220	Röckumstraße	*[6]	
+3-14	221-224	aus	*[6]	
+3-15	225-234	Lengsdorf	*[6]	
+3-16	235-242	kommend	*[6]	
+3-17	242-243	.	_	
+
+#Text=Die gesamte Strecke vor und hinter der abbiegenden Vorfahrtsstraße sind mit 30 beschildert, dies wird jedoch nicht eingehalten!
+4-1	244-247	Die	_	
+4-2	248-255	gesamte	_	
+4-3	256-263	Strecke	_	
+4-4	264-267	vor	_	
+4-5	268-271	und	_	
+4-6	272-278	hinter	_	
+4-7	279-282	der	_	
+4-8	283-294	abbiegenden	_	
+4-9	295-310	Vorfahrtsstraße	_	
+4-10	311-315	sind	_	
+4-11	316-319	mit	_	
+4-12	320-322	30	_	
+4-13	323-334	beschildert	_	
+4-14	334-335	,	_	
+4-15	336-340	dies	_	
+4-16	341-345	wird	_	
+4-17	346-352	jedoch	_	
+4-18	353-358	nicht	_	
+4-19	359-370	eingehalten	_	
+4-20	370-371	!	_	

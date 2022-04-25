@@ -1,0 +1,19 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefärliche Kreuzung
+1-1	0-10	Gefärliche	_	
+1-2	11-19	Kreuzung	_	
+
+#Text=Verkehrsführung ist für Radfahrer sehr gefährlich - Unfallschwerpunkt
+2-1	22-37	Verkehrsführung	_	
+2-2	38-41	ist	_	
+2-3	42-45	für	_	
+2-4	46-55	Radfahrer	_	
+2-5	56-60	sehr	_	
+2-6	61-71	gefährlich	_	
+2-7	72-73	-	_	
+2-8	74-91	Unfallschwerpunkt	_	

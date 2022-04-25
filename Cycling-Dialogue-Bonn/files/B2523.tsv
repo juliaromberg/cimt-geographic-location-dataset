@@ -1,0 +1,137 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradleihsystem
+1-1	0-17	Fahrradleihsystem	_	
+
+#Text=Ich fände ein Leihsystem für Fahrräder sehr praktisch.
+2-1	20-23	Ich	_	
+2-2	24-29	fände	_	
+2-3	30-33	ein	_	
+2-4	34-44	Leihsystem	_	
+2-5	45-48	für	_	
+2-6	49-58	Fahrräder	_	
+2-7	59-63	sehr	_	
+2-8	64-73	praktisch	_	
+2-9	73-74	.	_	
+
+#Text=Anders als in einigen anderen Städten, wo es festgelegte Stationen gibt, an denen die Fahrräder abgeholt und zurückgebracht werden müssen, wäre ich allerdings dafür das Ganze am Beispiel von Shanghai (oder war eine andere große Stadt Chinas?) auszurichten: Per App kann man sehen, wo das nächste verfügbare Fahrrad steht, dieses für eine gewisse Zeit reservieren (z.B. bis man bei dem Fahrrad sein kann) und es überall wieder abstellen zu können.
+3-1	75-81	Anders	_	
+3-2	82-85	als	_	
+3-3	86-88	in	_	
+3-4	89-96	einigen	_	
+3-5	97-104	anderen	_	
+3-6	105-112	Städten	_	
+3-7	112-113	,	_	
+3-8	114-116	wo	_	
+3-9	117-119	es	_	
+3-10	120-131	festgelegte	_	
+3-11	132-141	Stationen	_	
+3-12	142-146	gibt	_	
+3-13	146-147	,	_	
+3-14	148-150	an	_	
+3-15	151-156	denen	_	
+3-16	157-160	die	_	
+3-17	161-170	Fahrräder	_	
+3-18	171-179	abgeholt	_	
+3-19	180-183	und	_	
+3-20	184-198	zurückgebracht	_	
+3-21	199-205	werden	_	
+3-22	206-212	müssen	_	
+3-23	212-213	,	_	
+3-24	214-218	wäre	_	
+3-25	219-222	ich	_	
+3-26	223-233	allerdings	_	
+3-27	234-239	dafür	_	
+3-28	240-243	das	_	
+3-29	244-249	Ganze	_	
+3-30	250-252	am	_	
+3-31	253-261	Beispiel	_	
+3-32	262-265	von	_	
+3-33	266-274	Shanghai	_	
+3-34	275-276	(	_	
+3-35	276-280	oder	_	
+3-36	281-284	war	_	
+3-37	285-289	eine	_	
+3-38	290-296	andere	_	
+3-39	297-302	große	_	
+3-40	303-308	Stadt	_	
+3-41	309-315	Chinas	_	
+3-42	315-316	?	_	
+3-43	316-317	)	_	
+3-44	318-330	auszurichten	_	
+3-45	330-331	:	_	
+3-46	332-335	Per	_	
+3-47	336-339	App	_	
+3-48	340-344	kann	_	
+3-49	345-348	man	_	
+3-50	349-354	sehen	_	
+3-51	354-355	,	_	
+3-52	356-358	wo	_	
+3-53	359-362	das	_	
+3-54	363-370	nächste	_	
+3-55	371-381	verfügbare	_	
+3-56	382-389	Fahrrad	_	
+3-57	390-395	steht	_	
+3-58	395-396	,	_	
+3-59	397-403	dieses	_	
+3-60	404-407	für	_	
+3-61	408-412	eine	_	
+3-62	413-420	gewisse	_	
+3-63	421-425	Zeit	_	
+3-64	426-437	reservieren	_	
+3-65	438-439	(	_	
+3-66	439-442	z.B	_	
+3-67	442-443	.	_	
+3-68	444-447	bis	_	
+3-69	448-451	man	_	
+3-70	452-455	bei	_	
+3-71	456-459	dem	_	
+3-72	460-467	Fahrrad	_	
+3-73	468-472	sein	_	
+3-74	473-477	kann	_	
+3-75	477-478	)	_	
+3-76	479-482	und	_	
+3-77	483-485	es	_	
+3-78	486-493	überall	_	
+3-79	494-500	wieder	_	
+3-80	501-510	abstellen	_	
+3-81	511-513	zu	_	
+3-82	514-520	können	_	
+3-83	520-521	.	_	
+
+#Text=Ansonsten sind die Hürden eventuell zu hoch, sollte die nächste Station zu weit von dem eigentlichen Ziel entfernt liegen.
+4-1	522-531	Ansonsten	_	
+4-2	532-536	sind	_	
+4-3	537-540	die	_	
+4-4	541-547	Hürden	_	
+4-5	548-557	eventuell	_	
+4-6	558-560	zu	_	
+4-7	561-565	hoch	_	
+4-8	565-566	,	_	
+4-9	567-573	sollte	_	
+4-10	574-577	die	_	
+4-11	578-585	nächste	_	
+4-12	586-593	Station	_	
+4-13	594-596	zu	_	
+4-14	597-601	weit	_	
+4-15	602-605	von	_	
+4-16	606-609	dem	_	
+4-17	610-622	eigentlichen	_	
+4-18	623-627	Ziel	_	
+4-19	628-636	entfernt	_	
+4-20	637-643	liegen	_	
+4-21	643-644	.	_	
+
+#Text=Gezahlt werden ein paar Cent pro Kilometer.
+5-1	645-652	Gezahlt	_	
+5-2	653-659	werden	_	
+5-3	660-663	ein	_	
+5-4	664-668	paar	_	
+5-5	669-673	Cent	_	
+5-6	674-677	pro	_	
+5-7	678-687	Kilometer	_	
+5-8	687-688	.	_	

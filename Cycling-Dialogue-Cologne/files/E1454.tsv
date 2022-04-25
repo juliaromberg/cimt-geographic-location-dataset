@@ -1,0 +1,32 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreuzung sicherer machen
+1-1	0-8	Kreuzung	_	
+1-2	9-17	sicherer	_	
+1-3	18-24	machen	_	
+
+#Text=Durch geparkte Autos entstehen beim Abbiegen von Radfahrern oder PKWs oft gefährliche Situationen, da die Kreuzung unübersichtlich ist.
+2-1	27-32	Durch	_	
+2-2	33-41	geparkte	_	
+2-3	42-47	Autos	_	
+2-4	48-57	entstehen	_	
+2-5	58-62	beim	_	
+2-6	63-71	Abbiegen	_	
+2-7	72-75	von	_	
+2-8	76-86	Radfahrern	_	
+2-9	87-91	oder	_	
+2-10	92-96	PKWs	_	
+2-11	97-100	oft	_	
+2-12	101-112	gefährliche	_	
+2-13	113-124	Situationen	_	
+2-14	124-125	,	_	
+2-15	126-128	da	_	
+2-16	129-132	die	_	
+2-17	133-141	Kreuzung	_	
+2-18	142-157	unübersichtlich	_	
+2-19	158-161	ist	_	
+2-20	161-162	.	_	

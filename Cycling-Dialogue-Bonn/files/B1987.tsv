@@ -1,0 +1,58 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Reuterstraße fahrradfreundlicher machen
+1-1	0-12	Reuterstraße	*	
+1-2	13-32	fahrradfreundlicher	_	
+1-3	33-39	machen	_	
+
+#Text=Die Reuterstraße ist für Fußgänger und Fahrradfahrer sehr gefährlich, weil man hier alles dem Auto geopfert hat!
+2-1	42-45	Die	*[5]	
+2-2	46-58	Reuterstraße	*[5]	
+2-3	59-62	ist	_	
+2-4	63-66	für	_	
+2-5	67-76	Fußgänger	_	
+2-6	77-80	und	_	
+2-7	81-94	Fahrradfahrer	_	
+2-8	95-99	sehr	_	
+2-9	100-110	gefährlich	_	
+2-10	110-111	,	_	
+2-11	112-116	weil	_	
+2-12	117-120	man	_	
+2-13	121-125	hier	_	
+2-14	126-131	alles	_	
+2-15	132-135	dem	_	
+2-16	136-140	Auto	_	
+2-17	141-149	geopfert	_	
+2-18	150-153	hat	_	
+2-19	153-154	!	_	
+
+#Text=Fuß- und Radweg gehören verbreitert und die Poller entfernt.
+3-1	155-158	Fuß	_	
+3-2	158-159	-	_	
+3-3	160-163	und	_	
+3-4	164-170	Radweg	_	
+3-5	171-178	gehören	_	
+3-6	179-190	verbreitert	_	
+3-7	191-194	und	_	
+3-8	195-198	die	_	
+3-9	199-205	Poller	_	
+3-10	206-214	entfernt	_	
+3-11	214-215	.	_	
+
+#Text=Radweg und Fußweg sollten durch eine deutliche farbliche Markierung getrennt werden.
+4-1	216-222	Radweg	_	
+4-2	223-226	und	_	
+4-3	227-233	Fußweg	_	
+4-4	234-241	sollten	_	
+4-5	242-247	durch	_	
+4-6	248-252	eine	_	
+4-7	253-262	deutliche	_	
+4-8	263-272	farbliche	_	
+4-9	273-283	Markierung	_	
+4-10	284-292	getrennt	_	
+4-11	293-299	werden	_	
+4-12	299-300	.	_	

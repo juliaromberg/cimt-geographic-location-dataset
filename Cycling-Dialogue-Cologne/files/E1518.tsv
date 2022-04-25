@@ -1,0 +1,115 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einspurigkeit der Venloer Straße und Möglichkeit zur Ausladung von Lasten für Lieferwagen
+1-1	0-13	Einspurigkeit	_	
+1-2	14-17	der	_	
+1-3	18-25	Venloer	*[6]	
+1-4	26-32	Straße	*[6]	
+1-5	33-36	und	_	
+1-6	37-48	Möglichkeit	_	
+1-7	49-52	zur	_	
+1-8	53-62	Ausladung	_	
+1-9	63-66	von	_	
+1-10	67-73	Lasten	_	
+1-11	74-77	für	_	
+1-12	78-89	Lieferwagen	_	
+
+#Text=Die Venloer Straße ist ein Nadelöhr für Radfahrer und in Hochverkehrszeiten absolut gefährlich zu befahren.
+2-1	92-95	Die	*[7]	
+2-2	96-103	Venloer	*[7]	
+2-3	104-110	Straße	*[7]	
+2-4	111-114	ist	_	
+2-5	115-118	ein	_	
+2-6	119-127	Nadelöhr	_	
+2-7	128-131	für	_	
+2-8	132-141	Radfahrer	_	
+2-9	142-145	und	_	
+2-10	146-148	in	_	
+2-11	149-167	Hochverkehrszeiten	_	
+2-12	168-175	absolut	_	
+2-13	176-186	gefährlich	_	
+2-14	187-189	zu	_	
+2-15	190-198	befahren	_	
+2-16	198-199	.	_	
+
+#Text=Daher plädiere ich dafür, die Straße für PKW nur noch einspurig befahrbar zu machen und so den Radfahrerern mehr Raum zu geben.
+3-1	200-205	Daher	_	
+3-2	206-214	plädiere	_	
+3-3	215-218	ich	_	
+3-4	219-224	dafür	_	
+3-5	224-225	,	_	
+3-6	226-229	die	_	
+3-7	230-236	Straße	_	
+3-8	237-240	für	_	
+3-9	241-244	PKW	_	
+3-10	245-248	nur	_	
+3-11	249-253	noch	_	
+3-12	254-263	einspurig	_	
+3-13	264-273	befahrbar	_	
+3-14	274-276	zu	_	
+3-15	277-283	machen	_	
+3-16	284-287	und	_	
+3-17	288-290	so	_	
+3-18	291-294	den	_	
+3-19	295-307	Radfahrerern	_	
+3-20	308-312	mehr	_	
+3-21	313-317	Raum	_	
+3-22	318-320	zu	_	
+3-23	321-326	geben	_	
+3-24	326-327	.	_	
+
+#Text=Darüberhinaus ist ein großes Problem, dass häufig Lieferwagen den Radweg blockieren und durch gefährliche dooring aktionen (unachtsames Öffnen der Fahrrertür) den vorbeifahrenden Radfahrer gefährden!!!
+4-1	328-341	Darüberhinaus	_	
+4-2	342-345	ist	_	
+4-3	346-349	ein	_	
+4-4	350-356	großes	_	
+4-5	357-364	Problem	_	
+4-6	364-365	,	_	
+4-7	366-370	dass	_	
+4-8	371-377	häufig	_	
+4-9	378-389	Lieferwagen	_	
+4-10	390-393	den	_	
+4-11	394-400	Radweg	_	
+4-12	401-411	blockieren	_	
+4-13	412-415	und	_	
+4-14	416-421	durch	_	
+4-15	422-433	gefährliche	_	
+4-16	434-441	dooring	_	
+4-17	442-450	aktionen	_	
+4-18	451-452	(	_	
+4-19	452-463	unachtsames	_	
+4-20	464-470	Öffnen	_	
+4-21	471-474	der	_	
+4-22	475-485	Fahrrertür	_	
+4-23	485-486	)	_	
+4-24	487-490	den	_	
+4-25	491-506	vorbeifahrenden	_	
+4-26	507-516	Radfahrer	_	
+4-27	517-526	gefährden	_	
+4-28	526-527	!	_	
+4-29	527-528	!	_	
+4-30	528-529	!	_	
+
+#Text=Daher müssen mehr Ladezonen geschaffen werden, um die Lieferwagen vom AUsladen auf dem Radweg zu behindern!
+5-1	530-535	Daher	_	
+5-2	536-542	müssen	_	
+5-3	543-547	mehr	_	
+5-4	548-557	Ladezonen	_	
+5-5	558-568	geschaffen	_	
+5-6	569-575	werden	_	
+5-7	575-576	,	_	
+5-8	577-579	um	_	
+5-9	580-583	die	_	
+5-10	584-595	Lieferwagen	_	
+5-11	596-599	vom	_	
+5-12	600-608	AUsladen	_	
+5-13	609-612	auf	_	
+5-14	613-616	dem	_	
+5-15	617-623	Radweg	_	
+5-16	624-626	zu	_	
+5-17	627-636	behindern	_	
+5-18	636-637	!	_	

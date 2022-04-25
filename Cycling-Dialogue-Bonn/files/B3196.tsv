@@ -1,0 +1,116 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße bis auf dem Grendt erweitern
+1-1	0-13	Fahrradstraße	_	
+1-2	14-17	bis	*[6]	
+1-3	18-21	auf	*[6]	
+1-4	22-25	dem	*[6]	
+1-5	26-32	Grendt	*[6]	
+1-6	33-42	erweitern	_	
+
+#Text=Es wäre sinnvoll, die Fahrradstraße auch von der Goetheallee bis Auf dem Grendt weiterzuführen.
+2-1	45-47	Es	_	
+2-2	48-52	wäre	_	
+2-3	53-61	sinnvoll	_	
+2-4	61-62	,	_	
+2-5	63-66	die	_	
+2-6	67-80	Fahrradstraße	_	
+2-7	81-85	auch	_	
+2-8	86-89	von	*[7]	
+2-9	90-93	der	*[7]	
+2-10	94-105	Goetheallee	*[7]	
+2-11	106-109	bis	*[7]	
+2-12	110-113	Auf	*[7]	
+2-13	114-117	dem	*[7]	
+2-14	118-124	Grendt	*[7]	
+2-15	125-139	weiterzuführen	_	
+2-16	139-140	.	_	
+
+#Text=Dies sollte allerdings mit einer klaren Markierung der Parkplätze und der Bereitstellung von Ausweichflächen einhergehen, damit Rad- und Autoverkehr sich nicht in die Quere kommen.
+3-1	141-145	Dies	_	
+3-2	146-152	sollte	_	
+3-3	153-163	allerdings	_	
+3-4	164-167	mit	_	
+3-5	168-173	einer	_	
+3-6	174-180	klaren	_	
+3-7	181-191	Markierung	_	
+3-8	192-195	der	_	
+3-9	196-206	Parkplätze	_	
+3-10	207-210	und	_	
+3-11	211-214	der	_	
+3-12	215-229	Bereitstellung	_	
+3-13	230-233	von	_	
+3-14	234-249	Ausweichflächen	_	
+3-15	250-261	einhergehen	_	
+3-16	261-262	,	_	
+3-17	263-268	damit	_	
+3-18	269-272	Rad	_	
+3-19	272-273	-	_	
+3-20	274-277	und	_	
+3-21	278-289	Autoverkehr	_	
+3-22	290-294	sich	_	
+3-23	295-300	nicht	_	
+3-24	301-303	in	_	
+3-25	304-307	die	_	
+3-26	308-313	Quere	_	
+3-27	314-320	kommen	_	
+3-28	320-321	.	_	
+
+#Text=Eine Gefahrenstelle in dieser Straße stellt die Ausfahrt der SWB dar.
+4-1	322-326	Eine	_	
+4-2	327-341	Gefahrenstelle	_	
+4-3	342-344	in	_	
+4-4	345-351	dieser	_	
+4-5	352-358	Straße	_	
+4-6	359-365	stellt	_	
+4-7	366-369	die	_	
+4-8	370-378	Ausfahrt	_	
+4-9	379-382	der	_	
+4-10	383-386	SWB	_	
+4-11	387-390	dar	_	
+4-12	390-391	.	_	
+
+#Text=Durch die nahe an der Ausfahrt parkenden Autos müssen die Mitarbeiter fast schon auf die Kreuzung (Neustraße/Ringstraße) fahren, und schauen dabei oft nicht nach links, denn aus dieser Richtung kommen nur Radfahrer.
+5-1	392-397	Durch	_	
+5-2	398-401	die	_	
+5-3	402-406	nahe	_	
+5-4	407-409	an	_	
+5-5	410-413	der	_	
+5-6	414-422	Ausfahrt	_	
+5-7	423-432	parkenden	_	
+5-8	433-438	Autos	_	
+5-9	439-445	müssen	_	
+5-10	446-449	die	_	
+5-11	450-461	Mitarbeiter	_	
+5-12	462-466	fast	_	
+5-13	467-472	schon	_	
+5-14	473-476	auf	*[8]	
+5-15	477-480	die	*[8]	
+5-16	481-489	Kreuzung	*[8]	
+5-17	490-491	(	*[8]	
+5-18	491-500	Neustraße	*[8]	
+5-19	500-501	/	*[8]	
+5-20	501-511	Ringstraße	*[8]	
+5-21	511-512	)	*[8]	
+5-22	513-519	fahren	_	
+5-23	519-520	,	_	
+5-24	521-524	und	_	
+5-25	525-532	schauen	_	
+5-26	533-538	dabei	_	
+5-27	539-542	oft	_	
+5-28	543-548	nicht	_	
+5-29	549-553	nach	_	
+5-30	554-559	links	_	
+5-31	559-560	,	_	
+5-32	561-565	denn	_	
+5-33	566-569	aus	_	
+5-34	570-576	dieser	_	
+5-35	577-585	Richtung	_	
+5-36	586-592	kommen	_	
+5-37	593-596	nur	_	
+5-38	597-606	Radfahrer	_	
+5-39	606-607	.	_	

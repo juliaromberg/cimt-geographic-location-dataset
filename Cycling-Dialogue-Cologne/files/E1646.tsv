@@ -1,0 +1,79 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg Liebigstraße zugeparkt
+1-1	0-6	Radweg	*[6]	
+1-2	7-19	Liebigstraße	*[6]	
+1-3	20-29	zugeparkt	_	
+
+#Text=In der Fahrtrichtung zur Subbelrather str. ist der Radweg regelmäßig durch parkende Autos verstellt oder zumindest eingeschränkt.
+2-1	32-34	In	*[7]	
+2-2	35-38	der	*[7]	
+2-3	39-52	Fahrtrichtung	*[7]	
+2-4	53-56	zur	*[7]	
+2-5	57-69	Subbelrather	*[7]	
+2-6	70-73	str	*[7]	
+2-7	73-74	.	_	
+2-8	75-78	ist	_	
+2-9	79-82	der	_	
+2-10	83-89	Radweg	_	
+2-11	90-100	regelmäßig	_	
+2-12	101-106	durch	_	
+2-13	107-115	parkende	_	
+2-14	116-121	Autos	_	
+2-15	122-131	verstellt	_	
+2-16	132-136	oder	_	
+2-17	137-146	zumindest	_	
+2-18	147-160	eingeschränkt	_	
+2-19	160-161	.	_	
+
+#Text=Grund: Die Fahrzeuge fahren zu weit vor.
+3-1	162-167	Grund	_	
+3-2	167-168	:	_	
+3-3	169-172	Die	_	
+3-4	173-182	Fahrzeuge	_	
+3-5	183-189	fahren	_	
+3-6	190-192	zu	_	
+3-7	193-197	weit	_	
+3-8	198-201	vor	_	
+3-9	201-202	.	_	
+
+#Text=Abhilfe könnten Poller bringen, die das Vorfahren der Autos verhindern.
+4-1	203-210	Abhilfe	_	
+4-2	211-218	könnten	_	
+4-3	219-225	Poller	_	
+4-4	226-233	bringen	_	
+4-5	233-234	,	_	
+4-6	235-238	die	_	
+4-7	239-242	das	_	
+4-8	243-252	Vorfahren	_	
+4-9	253-256	der	_	
+4-10	257-262	Autos	_	
+4-11	263-273	verhindern	_	
+4-12	273-274	.	_	
+
+#Text=(Bitte keine Ketten zwischen den Pollern anbringen, da Fußgänger und Radfahrer nicht mehr die Straßenseite wechseln können!)
+5-1	275-276	(	_	
+5-2	276-281	Bitte	_	
+5-3	282-287	keine	_	
+5-4	288-294	Ketten	_	
+5-5	295-303	zwischen	_	
+5-6	304-307	den	_	
+5-7	308-315	Pollern	_	
+5-8	316-325	anbringen	_	
+5-9	325-326	,	_	
+5-10	327-329	da	_	
+5-11	330-339	Fußgänger	_	
+5-12	340-343	und	_	
+5-13	344-353	Radfahrer	_	
+5-14	354-359	nicht	_	
+5-15	360-364	mehr	_	
+5-16	365-368	die	_	
+5-17	369-381	Straßenseite	_	
+5-18	382-390	wechseln	_	
+5-19	391-397	können	_	
+5-20	397-398	!	_	
+5-21	398-399	)	_	

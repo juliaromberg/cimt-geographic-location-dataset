@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unnötig hohe Hoppelkanten
+1-1	0-7	Unnötig	_	
+1-2	8-12	hohe	_	
+1-3	13-25	Hoppelkanten	_	
+
+#Text=An beiden Einmündungen der Fränkischen Straße in die Siegburger Straße muss man unnötig abbremsen wegen viel zu hoher Kantsteine.
+2-1	28-30	An	*[4]	
+2-2	31-37	beiden	*[4]	
+2-3	38-50	Einmündungen	*[4]	
+2-4	51-54	der	*[4]	
+2-5	55-66	Fränkischen	*[4]	
+2-6	67-73	Straße	*[4]	
+2-7	74-76	in	*[4]	
+2-8	77-80	die	*[4]	
+2-9	81-91	Siegburger	*[4]	
+2-10	92-98	Straße	*[4]	
+2-11	99-103	muss	_	
+2-12	104-107	man	_	
+2-13	108-115	unnötig	_	
+2-14	116-125	abbremsen	_	
+2-15	126-131	wegen	_	
+2-16	132-136	viel	_	
+2-17	137-139	zu	_	
+2-18	140-145	hoher	_	
+2-19	146-156	Kantsteine	_	
+2-20	156-157	.	_	
+
+#Text=Gummikeile sind nicht haltbar; bitte abmeißeln oder tiefer legen.
+3-1	158-168	Gummikeile	_	
+3-2	169-173	sind	_	
+3-3	174-179	nicht	_	
+3-4	180-187	haltbar	_	
+3-5	187-188	;	_	
+3-6	189-194	bitte	_	
+3-7	195-204	abmeißeln	_	
+3-8	205-209	oder	_	
+3-9	210-216	tiefer	_	
+3-10	217-222	legen	_	
+3-11	222-223	.	_	

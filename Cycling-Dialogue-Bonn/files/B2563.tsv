@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Staßenbahnweichen
+1-1	0-17	Staßenbahnweichen	_	
+
+#Text=Hier verlaufen einige Straßenbahnlinien und an dieser Stelle gibt es tückische Weichen.
+2-1	20-24	Hier	_	
+2-2	25-34	verlaufen	_	
+2-3	35-41	einige	_	
+2-4	42-59	Straßenbahnlinien	_	
+2-5	60-63	und	_	
+2-6	64-66	an	_	
+2-7	67-73	dieser	_	
+2-8	74-80	Stelle	_	
+2-9	81-85	gibt	_	
+2-10	86-88	es	_	
+2-11	89-98	tückische	_	
+2-12	99-106	Weichen	_	
+2-13	106-107	.	_	
+
+#Text=Ich bin auch schon einmal mit dem Hinterrad in eine Weiche geraten und habe mich abgelegt.
+3-1	108-111	Ich	_	
+3-2	112-115	bin	_	
+3-3	116-120	auch	_	
+3-4	121-126	schon	_	
+3-5	127-133	einmal	_	
+3-6	134-137	mit	_	
+3-7	138-141	dem	_	
+3-8	142-151	Hinterrad	_	
+3-9	152-154	in	_	
+3-10	155-159	eine	_	
+3-11	160-166	Weiche	_	
+3-12	167-174	geraten	_	
+3-13	175-178	und	_	
+3-14	179-183	habe	_	
+3-15	184-188	mich	_	
+3-16	189-197	abgelegt	_	
+3-17	197-198	.	_	
+
+#Text=Ich kenne auch andere Radfahrer, denen das passiert ist.
+4-1	199-202	Ich	_	
+4-2	203-208	kenne	_	
+4-3	209-213	auch	_	
+4-4	214-220	andere	_	
+4-5	221-230	Radfahrer	_	
+4-6	230-231	,	_	
+4-7	232-237	denen	_	
+4-8	238-241	das	_	
+4-9	242-250	passiert	_	
+4-10	251-254	ist	_	
+4-11	254-255	.	_	
+
+#Text=Wir fahren jetzt lieber größere Umwege um die Gleise zu meiden ;)
+5-1	256-259	Wir	_	
+5-2	260-266	fahren	_	
+5-3	267-272	jetzt	_	
+5-4	273-279	lieber	_	
+5-5	280-287	größere	_	
+5-6	288-294	Umwege	_	
+5-7	295-297	um	_	
+5-8	298-301	die	_	
+5-9	302-308	Gleise	_	
+5-10	309-311	zu	_	
+5-11	312-318	meiden	_	
+5-12	319-320	;	_	
+5-13	320-321	)	_	
+
+#Text=Ich habe auch keine Ahnung, ob man an dieser Stelle wirklich etwas für Radfahrer verbessern kann.
+6-1	322-325	Ich	_	
+6-2	326-330	habe	_	
+6-3	331-335	auch	_	
+6-4	336-341	keine	_	
+6-5	342-348	Ahnung	_	
+6-6	348-349	,	_	
+6-7	350-352	ob	_	
+6-8	353-356	man	_	
+6-9	357-359	an	_	
+6-10	360-366	dieser	_	
+6-11	367-373	Stelle	_	
+6-12	374-382	wirklich	_	
+6-13	383-388	etwas	_	
+6-14	389-392	für	_	
+6-15	393-402	Radfahrer	_	
+6-16	403-413	verbessern	_	
+6-17	414-418	kann	_	
+6-18	418-419	.	_	

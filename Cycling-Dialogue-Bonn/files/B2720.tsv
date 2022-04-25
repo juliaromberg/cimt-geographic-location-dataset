@@ -1,0 +1,93 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkende Autos verengen Fahrbahn
+1-1	0-8	Parkende	_	
+1-2	9-14	Autos	_	
+1-3	15-23	verengen	_	
+1-4	24-32	Fahrbahn	_	
+
+#Text=Vor dem Seniorenheim existiert ein Parkverbot.
+2-1	35-38	Vor	_	
+2-2	39-42	dem	_	
+2-3	43-55	Seniorenheim	_	
+2-4	56-65	existiert	_	
+2-5	66-69	ein	_	
+2-6	70-80	Parkverbot	_	
+2-7	80-81	.	_	
+
+#Text=Dennoch stehen hier fast ständig Autos, so dass die Straße eigentlich nur einspurig befahrbar ist.
+3-1	82-89	Dennoch	_	
+3-2	90-96	stehen	_	
+3-3	97-101	hier	_	
+3-4	102-106	fast	_	
+3-5	107-114	ständig	_	
+3-6	115-120	Autos	_	
+3-7	120-121	,	_	
+3-8	122-124	so	_	
+3-9	125-129	dass	_	
+3-10	130-133	die	_	
+3-11	134-140	Straße	_	
+3-12	141-151	eigentlich	_	
+3-13	152-155	nur	_	
+3-14	156-165	einspurig	_	
+3-15	166-175	befahrbar	_	
+3-16	176-179	ist	_	
+3-17	179-180	.	_	
+
+#Text=Wenn man als Autofahrer in Richtung Luisenstr. aus dem Kreisel kommt, kommen einem oft Radfahrer entgegen, denen man kaum entsprechenden Platz geben kann.
+4-1	181-185	Wenn	_	
+4-2	186-189	man	_	
+4-3	190-193	als	_	
+4-4	194-204	Autofahrer	_	
+4-5	205-207	in	*[6]	
+4-6	208-216	Richtung	*[6]	
+4-7	217-226	Luisenstr	*[6]	
+4-8	226-227	.	*[6]	
+4-9	228-231	aus	*[6]	
+4-10	232-235	dem	*[6]	
+4-11	236-243	Kreisel	*[6]	
+4-12	244-249	kommt	*[6]	
+4-13	249-250	,	_	
+4-14	251-257	kommen	_	
+4-15	258-263	einem	_	
+4-16	264-267	oft	_	
+4-17	268-277	Radfahrer	_	
+4-18	278-286	entgegen	_	
+4-19	286-287	,	_	
+4-20	288-293	denen	_	
+4-21	294-297	man	_	
+4-22	298-302	kaum	_	
+4-23	303-317	entsprechenden	_	
+4-24	318-323	Platz	_	
+4-25	324-329	geben	_	
+4-26	330-334	kann	_	
+4-27	334-335	.	_	
+
+#Text=Sprich umgekehrt vom Radfahrer aus gesehen, ist hier eine gefährliche Engstelle, die einen durch überholende Autos oder entgegenkommende Autos gefährdet.
+5-1	336-342	Sprich	_	
+5-2	343-352	umgekehrt	_	
+5-3	353-356	vom	_	
+5-4	357-366	Radfahrer	_	
+5-5	367-370	aus	_	
+5-6	371-378	gesehen	_	
+5-7	378-379	,	_	
+5-8	380-383	ist	_	
+5-9	384-388	hier	_	
+5-10	389-393	eine	_	
+5-11	394-405	gefährliche	_	
+5-12	406-415	Engstelle	_	
+5-13	415-416	,	_	
+5-14	417-420	die	_	
+5-15	421-426	einen	_	
+5-16	427-432	durch	_	
+5-17	433-444	überholende	_	
+5-18	445-450	Autos	_	
+5-19	451-455	oder	_	
+5-20	456-472	entgegenkommende	_	
+5-21	473-478	Autos	_	
+5-22	479-488	gefährdet	_	
+5-23	488-489	.	_	

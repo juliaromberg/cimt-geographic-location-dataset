@@ -1,0 +1,205 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=zugeparkter Rheinweg, riskante Überholmanöver
+1-1	0-11	zugeparkter	_	
+1-2	12-20	Rheinweg	_	
+1-3	20-21	,	_	
+1-4	22-30	riskante	_	
+1-5	31-45	Überholmanöver	_	
+
+#Text=Hier geht es um den in Richtung Kassenich laufenden Verkehr.
+2-1	48-52	Hier	_	
+2-2	53-57	geht	_	
+2-3	58-60	es	_	
+2-4	61-63	um	_	
+2-5	64-67	den	_	
+2-6	68-70	in	_	
+2-7	71-79	Richtung	*[12]	
+2-8	80-89	Kassenich	*[12]	
+2-9	90-99	laufenden	_	
+2-10	100-107	Verkehr	_	
+2-11	107-108	.	_	
+
+#Text=Bei den teilweise sehr lange geschlossenen Schranken sammeln sich oft viele Verkehrsteilnehmer an der Schranke, die Fahrräder stehen in erster Reihe.
+3-1	109-112	Bei	_	
+3-2	113-116	den	_	
+3-3	117-126	teilweise	_	
+3-4	127-131	sehr	_	
+3-5	132-137	lange	_	
+3-6	138-151	geschlossenen	_	
+3-7	152-161	Schranken	_	
+3-8	162-169	sammeln	_	
+3-9	170-174	sich	_	
+3-10	175-178	oft	_	
+3-11	179-184	viele	_	
+3-12	185-203	Verkehrsteilnehmer	_	
+3-13	204-206	an	_	
+3-14	207-210	der	_	
+3-15	211-219	Schranke	_	
+3-16	219-220	,	_	
+3-17	221-224	die	_	
+3-18	225-234	Fahrräder	_	
+3-19	235-241	stehen	_	
+3-20	242-244	in	_	
+3-21	245-251	erster	_	
+3-22	252-257	Reihe	_	
+3-23	257-258	.	_	
+
+#Text=Öffnen sich die Schranken setzt sich alles in Bewegung.
+4-1	259-265	Öffnen	_	
+4-2	266-270	sich	_	
+4-3	271-274	die	_	
+4-4	275-284	Schranken	_	
+4-5	285-290	setzt	_	
+4-6	291-295	sich	_	
+4-7	296-301	alles	_	
+4-8	302-304	in	_	
+4-9	305-313	Bewegung	_	
+4-10	313-314	.	_	
+
+#Text=Hinter dem Bahnübergang befinden sich rechts und links sind Parkplätze, die Straße wird dadurch verengt.
+5-1	315-321	Hinter	_	
+5-2	322-325	dem	_	
+5-3	326-338	Bahnübergang	_	
+5-4	339-347	befinden	_	
+5-5	348-352	sich	_	
+5-6	353-359	rechts	_	
+5-7	360-363	und	_	
+5-8	364-369	links	_	
+5-9	370-374	sind	_	
+5-10	375-385	Parkplätze	_	
+5-11	385-386	,	_	
+5-12	387-390	die	_	
+5-13	391-397	Straße	_	
+5-14	398-402	wird	_	
+5-15	403-410	dadurch	_	
+5-16	411-418	verengt	_	
+5-17	418-419	.	_	
+
+#Text=Autos wollen Radfahrer überholen, was schlicht und ergreifend nicht geht, da Sicherheitsabstände nicht eingehalten werden können.
+6-1	420-425	Autos	_	
+6-2	426-432	wollen	_	
+6-3	433-442	Radfahrer	_	
+6-4	443-452	überholen	_	
+6-5	452-453	,	_	
+6-6	454-457	was	_	
+6-7	458-466	schlicht	_	
+6-8	467-470	und	_	
+6-9	471-481	ergreifend	_	
+6-10	482-487	nicht	_	
+6-11	488-492	geht	_	
+6-12	492-493	,	_	
+6-13	494-496	da	_	
+6-14	497-516	Sicherheitsabstände	_	
+6-15	517-522	nicht	_	
+6-16	523-534	eingehalten	_	
+6-17	535-541	werden	_	
+6-18	542-548	können	_	
+6-19	548-549	.	_	
+
+#Text=Da hier oft etliche Fahrräder hintereinander unterwegs sind dauert der Überholvorgang auch sehr lange, so dass es oft zu hektischem Einscheren kommen muss, um dem Gegenverkehr auszuweichen.
+7-1	550-552	Da	_	
+7-2	553-557	hier	_	
+7-3	558-561	oft	_	
+7-4	562-569	etliche	_	
+7-5	570-579	Fahrräder	_	
+7-6	580-594	hintereinander	_	
+7-7	595-604	unterwegs	_	
+7-8	605-609	sind	_	
+7-9	610-616	dauert	_	
+7-10	617-620	der	_	
+7-11	621-635	Überholvorgang	_	
+7-12	636-640	auch	_	
+7-13	641-645	sehr	_	
+7-14	646-651	lange	_	
+7-15	651-652	,	_	
+7-16	653-655	so	_	
+7-17	656-660	dass	_	
+7-18	661-663	es	_	
+7-19	664-667	oft	_	
+7-20	668-670	zu	_	
+7-21	671-681	hektischem	_	
+7-22	682-692	Einscheren	_	
+7-23	693-699	kommen	_	
+7-24	700-704	muss	_	
+7-25	704-705	,	_	
+7-26	706-708	um	_	
+7-27	709-712	dem	_	
+7-28	713-725	Gegenverkehr	_	
+7-29	726-738	auszuweichen	_	
+7-30	738-739	.	_	
+
+#Text=Die Autos bremsen in aller Regel spätestens am Fahrweg wieder ab, da hier Rechts vor links gilt.
+8-1	740-743	Die	_	
+8-2	744-749	Autos	_	
+8-3	750-757	bremsen	_	
+8-4	758-760	in	_	
+8-5	761-766	aller	_	
+8-6	767-772	Regel	_	
+8-7	773-783	spätestens	_	
+8-8	784-786	am	_	
+8-9	787-794	Fahrweg	_	
+8-10	795-801	wieder	_	
+8-11	802-804	ab	_	
+8-12	804-805	,	_	
+8-13	806-808	da	_	
+8-14	809-813	hier	_	
+8-15	814-820	Rechts	_	
+8-16	821-824	vor	_	
+8-17	825-830	links	_	
+8-18	831-835	gilt	_	
+8-19	835-836	.	_	
+
+#Text=Allerspätestens trifft man sich an der Ampel zu Markusstraße wieder und dann geht das Spiel von vorne los.
+9-1	837-852	Allerspätestens	_	
+9-2	853-859	trifft	_	
+9-3	860-863	man	_	
+9-4	864-868	sich	_	
+9-5	869-871	an	*[13]	
+9-6	872-875	der	*[13]	
+9-7	876-881	Ampel	*[13]	
+9-8	882-884	zu	*[13]	
+9-9	885-897	Markusstraße	*[13]	
+9-10	898-904	wieder	_	
+9-11	905-908	und	_	
+9-12	909-913	dann	_	
+9-13	914-918	geht	_	
+9-14	919-922	das	_	
+9-15	923-928	Spiel	_	
+9-16	929-932	von	_	
+9-17	933-938	vorne	_	
+9-18	939-942	los	_	
+9-19	942-943	.	_	
+
+#Text=Vorschlag: Rechtsseitig zwischen Bahnübergang und Markusstr die Parkplätze entfernen und einen Radweg markieren.
+10-1	944-953	Vorschlag	_	
+10-2	953-954	:	_	
+10-3	955-967	Rechtsseitig	_	
+10-4	968-976	zwischen	*[14]	
+10-5	977-989	Bahnübergang	*[14]	
+10-6	990-993	und	*[14]	
+10-7	994-1003	Markusstr	*[14]	
+10-8	1004-1007	die	*[14]	
+10-9	1008-1018	Parkplätze	*[14]	
+10-10	1019-1028	entfernen	_	
+10-11	1029-1032	und	_	
+10-12	1033-1038	einen	_	
+10-13	1039-1045	Radweg	_	
+10-14	1046-1055	markieren	_	
+10-15	1055-1056	.	_	
+
+#Text=Tempo 30 und Überholverbot wäre schon ein erster Schritt.
+11-1	1057-1062	Tempo	_	
+11-2	1063-1065	30	_	
+11-3	1066-1069	und	_	
+11-4	1070-1083	Überholverbot	_	
+11-5	1084-1088	wäre	_	
+11-6	1089-1094	schon	_	
+11-7	1095-1098	ein	_	
+11-8	1099-1105	erster	_	
+11-9	1106-1113	Schritt	_	
+11-10	1113-1114	.	_	

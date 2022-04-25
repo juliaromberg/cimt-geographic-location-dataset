@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bessere Einmündung
+1-1	0-7	Bessere	_	
+1-2	8-18	Einmündung	_	
+
+#Text=Verkürzung der Rechtsabbiegespur Dottendorfer Str., sodas die Übersichtlichkeit beim Linksabbiegen aus dem Oberen Lindweg sicherer wird.
+2-1	21-31	Verkürzung	_	
+2-2	32-35	der	_	
+2-3	36-53	Rechtsabbiegespur	*[3]	
+2-4	54-66	Dottendorfer	*[3]	
+2-5	67-70	Str	*[3]	
+2-6	70-71	.	_	
+2-7	71-72	,	_	
+2-8	73-78	sodas	_	
+2-9	79-82	die	_	
+2-10	83-100	Übersichtlichkeit	_	
+2-11	101-105	beim	_	
+2-12	106-119	Linksabbiegen	*[4]	
+2-13	120-123	aus	*[4]	
+2-14	124-127	dem	*[4]	
+2-15	128-134	Oberen	*[4]	
+2-16	135-142	Lindweg	*[4]	
+2-17	143-151	sicherer	_	
+2-18	152-156	wird	_	
+2-19	156-157	.	_	

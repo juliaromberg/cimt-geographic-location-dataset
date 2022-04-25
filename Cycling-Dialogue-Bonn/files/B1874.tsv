@@ -1,0 +1,125 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Änderung der Bauordnung
+1-1	0-8	Änderung	_	
+1-2	9-12	der	_	
+1-3	13-23	Bauordnung	_	
+
+#Text=Die Bonner Bauordnung sieht keine verpflichtende Schaffung von Fahrradstellplätzen vor.
+2-1	26-29	Die	_	
+2-2	30-36	Bonner	_	
+2-3	37-47	Bauordnung	_	
+2-4	48-53	sieht	_	
+2-5	54-59	keine	_	
+2-6	60-74	verpflichtende	_	
+2-7	75-84	Schaffung	_	
+2-8	85-88	von	_	
+2-9	89-108	Fahrradstellplätzen	_	
+2-10	109-112	vor	_	
+2-11	112-113	.	_	
+
+#Text=Anders als bei Autos ist eine Garage oder ein Stellplatz für Fahrräder nicht vorgesehen.
+3-1	114-120	Anders	_	
+3-2	121-124	als	_	
+3-3	125-128	bei	_	
+3-4	129-134	Autos	_	
+3-5	135-138	ist	_	
+3-6	139-143	eine	_	
+3-7	144-150	Garage	_	
+3-8	151-155	oder	_	
+3-9	156-159	ein	_	
+3-10	160-170	Stellplatz	_	
+3-11	171-174	für	_	
+3-12	175-184	Fahrräder	_	
+3-13	185-190	nicht	_	
+3-14	191-201	vorgesehen	_	
+3-15	201-202	.	_	
+
+#Text=Dies widerspricht einer modernen Bauordnung.
+4-1	203-207	Dies	_	
+4-2	208-220	widerspricht	_	
+4-3	221-226	einer	_	
+4-4	227-235	modernen	_	
+4-5	236-246	Bauordnung	_	
+4-6	246-247	.	_	
+
+#Text=Durch verbindliche Vorgaben kann der Fahrradverkehr gefördert werden.
+5-1	248-253	Durch	_	
+5-2	254-266	verbindliche	_	
+5-3	267-275	Vorgaben	_	
+5-4	276-280	kann	_	
+5-5	281-284	der	_	
+5-6	285-299	Fahrradverkehr	_	
+5-7	300-309	gefördert	_	
+5-8	310-316	werden	_	
+5-9	316-317	.	_	
+
+#Text=Wer möchte schon sein Fahrrad aus dem steilen Keller schleppen?
+6-1	318-321	Wer	_	
+6-2	322-328	möchte	_	
+6-3	329-334	schon	_	
+6-4	335-339	sein	_	
+6-5	340-347	Fahrrad	_	
+6-6	348-351	aus	_	
+6-7	352-355	dem	_	
+6-8	356-363	steilen	_	
+6-9	364-370	Keller	_	
+6-10	371-380	schleppen	_	
+6-11	380-381	?	_	
+
+#Text=Wer möchte sein Fahrrad nicht sicher und trocken abstellen können?
+7-1	382-385	Wer	_	
+7-2	386-392	möchte	_	
+7-3	393-397	sein	_	
+7-4	398-405	Fahrrad	_	
+7-5	406-411	nicht	_	
+7-6	412-418	sicher	_	
+7-7	419-422	und	_	
+7-8	423-430	trocken	_	
+7-9	431-440	abstellen	_	
+7-10	441-447	können	_	
+7-11	447-448	?	_	
+
+#Text=Nur wenn beides gewährleistet ist, steigen mehr Leute auf das Fahrrad um.
+8-1	449-452	Nur	_	
+8-2	453-457	wenn	_	
+8-3	458-464	beides	_	
+8-4	465-478	gewährleistet	_	
+8-5	479-482	ist	_	
+8-6	482-483	,	_	
+8-7	484-491	steigen	_	
+8-8	492-496	mehr	_	
+8-9	497-502	Leute	_	
+8-10	503-506	auf	_	
+8-11	507-510	das	_	
+8-12	511-518	Fahrrad	_	
+8-13	519-521	um	_	
+8-14	521-522	.	_	
+
+#Text=Ich habe Zweifel ob die Stadt hierzu einen Beitrag leisten will.
+9-1	523-526	Ich	_	
+9-2	527-531	habe	_	
+9-3	532-539	Zweifel	_	
+9-4	540-542	ob	_	
+9-5	543-546	die	_	
+9-6	547-552	Stadt	_	
+9-7	553-559	hierzu	_	
+9-8	560-565	einen	_	
+9-9	566-573	Beitrag	_	
+9-10	574-581	leisten	_	
+9-11	582-586	will	_	
+9-12	586-587	.	_	
+
+#Text=Bisher hat sie es noch nicht getan.
+10-1	588-594	Bisher	_	
+10-2	595-598	hat	_	
+10-3	599-602	sie	_	
+10-4	603-605	es	_	
+10-5	606-610	noch	_	
+10-6	611-616	nicht	_	
+10-7	617-622	getan	_	
+10-8	622-623	.	_	

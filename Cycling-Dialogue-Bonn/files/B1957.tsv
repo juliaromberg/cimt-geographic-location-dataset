@@ -1,0 +1,131 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unklare Verkehrsführung in Richtung Bahnhof
+1-1	0-7	Unklare	_	
+1-2	8-23	Verkehrsführung	_	
+1-3	24-26	in	_	
+1-4	27-35	Richtung	_	
+1-5	36-43	Bahnhof	_	
+
+#Text=Regelmäßig stehe ich vor der Frage, wie ich am sichersten von Poppelsdorf auf der Poppelsdorfer Allee kommend, nach links in die Quantius-Straße zum Bahnhof/Radstation einbiegen soll.
+2-1	46-56	Regelmäßig	_	
+2-2	57-62	stehe	_	
+2-3	63-66	ich	_	
+2-4	67-70	vor	_	
+2-5	71-74	der	_	
+2-6	75-80	Frage	_	
+2-7	80-81	,	_	
+2-8	82-85	wie	_	
+2-9	86-89	ich	_	
+2-10	90-92	am	_	
+2-11	93-103	sichersten	_	
+2-12	104-107	von	*[7]	
+2-13	108-119	Poppelsdorf	*[7]	
+2-14	120-123	auf	*[7]	
+2-15	124-127	der	*[7]	
+2-16	128-141	Poppelsdorfer	*[7]	
+2-17	142-147	Allee	*[7]	
+2-18	148-155	kommend	*[7]	
+2-19	155-156	,	*[7]	
+2-20	157-161	nach	*[7]	
+2-21	162-167	links	*[7]	
+2-22	168-170	in	*[7]	
+2-23	171-174	die	*[7]	
+2-24	175-190	Quantius-Straße	*[7]	
+2-25	191-194	zum	*[7]	
+2-26	195-202	Bahnhof	*[7]	
+2-27	202-203	/	*[7]	
+2-28	203-213	Radstation	*[7]	
+2-29	214-223	einbiegen	_	
+2-30	224-228	soll	_	
+2-31	228-229	.	_	
+
+#Text=An der Quantiusstraße ist keine Ampel.
+3-1	230-232	An	*[8]	
+3-2	233-236	der	*[8]	
+3-3	237-251	Quantiusstraße	*[8]	
+3-4	252-255	ist	_	
+3-5	256-261	keine	_	
+3-6	262-267	Ampel	_	
+3-7	267-268	.	_	
+
+#Text=Wenn ich die Straße überquere, bin ich gezwungen in der unübersichtlichen Kurve Richtung Bahnhof abzubiegen.
+4-1	269-273	Wenn	_	
+4-2	274-277	ich	_	
+4-3	278-281	die	_	
+4-4	282-288	Straße	_	
+4-5	289-298	überquere	_	
+4-6	298-299	,	_	
+4-7	300-303	bin	_	
+4-8	304-307	ich	_	
+4-9	308-317	gezwungen	_	
+4-10	318-320	in	_	
+4-11	321-324	der	_	
+4-12	325-342	unübersichtlichen	_	
+4-13	343-348	Kurve	_	
+4-14	349-357	Richtung	_	
+4-15	358-365	Bahnhof	_	
+4-16	366-376	abzubiegen	_	
+4-17	376-377	.	_	
+
+#Text=Da ich diese beiden Querungen für zu gefährlich halte, fahre ich meist auf der linken (!!) Straßenseite hinüber zur Einbahnstraße und wechsle dann wieder auf die rechte Straßenseite, wo der Radweg beginnt.
+5-1	378-380	Da	_	
+5-2	381-384	ich	_	
+5-3	385-390	diese	_	
+5-4	391-397	beiden	_	
+5-5	398-407	Querungen	_	
+5-6	408-411	für	_	
+5-7	412-414	zu	_	
+5-8	415-425	gefährlich	_	
+5-9	426-431	halte	_	
+5-10	431-432	,	_	
+5-11	433-438	fahre	_	
+5-12	439-442	ich	_	
+5-13	443-448	meist	_	
+5-14	449-452	auf	_	
+5-15	453-456	der	_	
+5-16	457-463	linken	_	
+5-17	464-465	(	_	
+5-18	465-466	!	_	
+5-19	466-467	!	_	
+5-20	467-468	)	_	
+5-21	469-481	Straßenseite	_	
+5-22	482-489	hinüber	_	
+5-23	490-493	zur	_	
+5-24	494-507	Einbahnstraße	_	
+5-25	508-511	und	_	
+5-26	512-519	wechsle	_	
+5-27	520-524	dann	_	
+5-28	525-531	wieder	_	
+5-29	532-535	auf	_	
+5-30	536-539	die	_	
+5-31	540-546	rechte	_	
+5-32	547-559	Straßenseite	_	
+5-33	559-560	,	_	
+5-34	561-563	wo	_	
+5-35	564-567	der	_	
+5-36	568-574	Radweg	_	
+5-37	575-582	beginnt	_	
+5-38	582-583	.	_	
+
+#Text=An dieser Stelle fehlt es an einer Radwegmarkierung, Ampel oder einem Linksabbiegerstreifen für Radfahrer.
+6-1	584-586	An	_	
+6-2	587-593	dieser	_	
+6-3	594-600	Stelle	_	
+6-4	601-606	fehlt	_	
+6-5	607-609	es	_	
+6-6	610-612	an	_	
+6-7	613-618	einer	_	
+6-8	619-635	Radwegmarkierung	_	
+6-9	635-636	,	_	
+6-10	637-642	Ampel	_	
+6-11	643-647	oder	_	
+6-12	648-653	einem	_	
+6-13	654-675	Linksabbiegerstreifen	_	
+6-14	676-679	für	_	
+6-15	680-689	Radfahrer	_	
+6-16	689-690	.	_	

@@ -1,0 +1,209 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Straßenbelag zerstört, Fahrradfahren nur mitten auf der Straße möglich
+1-1	0-12	Straßenbelag	_	
+1-2	13-21	zerstört	_	
+1-3	21-22	,	_	
+1-4	23-36	Fahrradfahren	_	
+1-5	37-40	nur	_	
+1-6	41-47	mitten	_	
+1-7	48-51	auf	_	
+1-8	52-55	der	_	
+1-9	56-62	Straße	_	
+1-10	63-70	möglich	_	
+
+#Text=Wenn man die Heinrich-Lützeler-Str. bergab fährt, muss man mitten auf der Straße fahren, da der Straßenbelag so kaputt ist, dass rechts fahren zu gefährlich ist wegen der Schlaglöcher.
+2-1	73-77	Wenn	_	
+2-2	78-81	man	_	
+2-3	82-85	die	*[10]	
+2-4	86-107	Heinrich-Lützeler-Str	*[10]	
+2-5	107-108	.	*[10]	
+2-6	109-115	bergab	*[10]	
+2-7	116-121	fährt	_	
+2-8	121-122	,	_	
+2-9	123-127	muss	_	
+2-10	128-131	man	_	
+2-11	132-138	mitten	_	
+2-12	139-142	auf	_	
+2-13	143-146	der	_	
+2-14	147-153	Straße	_	
+2-15	154-160	fahren	_	
+2-16	160-161	,	_	
+2-17	162-164	da	_	
+2-18	165-168	der	_	
+2-19	169-181	Straßenbelag	_	
+2-20	182-184	so	_	
+2-21	185-191	kaputt	_	
+2-22	192-195	ist	_	
+2-23	195-196	,	_	
+2-24	197-201	dass	_	
+2-25	202-208	rechts	_	
+2-26	209-215	fahren	_	
+2-27	216-218	zu	_	
+2-28	219-229	gefährlich	_	
+2-29	230-233	ist	_	
+2-30	234-239	wegen	_	
+2-31	240-243	der	_	
+2-32	244-256	Schlaglöcher	_	
+2-33	256-257	.	_	
+
+#Text=Man bedenke: Kinder ab 10 Jahren sind angehalten auf der Straße zu fahren.
+3-1	258-261	Man	_	
+3-2	262-269	bedenke	_	
+3-3	269-270	:	_	
+3-4	271-277	Kinder	_	
+3-5	278-280	ab	_	
+3-6	281-283	10	_	
+3-7	284-290	Jahren	_	
+3-8	291-295	sind	_	
+3-9	296-306	angehalten	_	
+3-10	307-310	auf	_	
+3-11	311-314	der	_	
+3-12	315-321	Straße	_	
+3-13	322-324	zu	_	
+3-14	325-331	fahren	_	
+3-15	331-332	.	_	
+
+#Text=Das ist hier absolut gefährlich.
+4-1	333-336	Das	_	
+4-2	337-340	ist	_	
+4-3	341-345	hier	_	
+4-4	346-353	absolut	_	
+4-5	354-364	gefährlich	_	
+4-6	364-365	.	_	
+
+#Text=Doch nicht nur für Kinder, denn obwohl man als Radler ganz ordentlich Tempo bekommt, wird man riskant von Autos überholt.
+5-1	366-370	Doch	_	
+5-2	371-376	nicht	_	
+5-3	377-380	nur	_	
+5-4	381-384	für	_	
+5-5	385-391	Kinder	_	
+5-6	391-392	,	_	
+5-7	393-397	denn	_	
+5-8	398-404	obwohl	_	
+5-9	405-408	man	_	
+5-10	409-412	als	_	
+5-11	413-419	Radler	_	
+5-12	420-424	ganz	_	
+5-13	425-435	ordentlich	_	
+5-14	436-441	Tempo	_	
+5-15	442-449	bekommt	_	
+5-16	449-450	,	_	
+5-17	451-455	wird	_	
+5-18	456-459	man	_	
+5-19	460-467	riskant	_	
+5-20	468-471	von	_	
+5-21	472-477	Autos	_	
+5-22	478-486	überholt	_	
+5-23	486-487	.	_	
+
+#Text=Wenn Kinder dann, weil es zu gefährlich ist auf der Straße zu fahren, auf den Bürgersteig ausweichen, muss man sich auf dem schmalen Streifen zwischen Brennesseln und Spaziergängern mit Hunden durchschlägeln.
+6-1	488-492	Wenn	_	
+6-2	493-499	Kinder	_	
+6-3	500-504	dann	_	
+6-4	504-505	,	_	
+6-5	506-510	weil	_	
+6-6	511-513	es	_	
+6-7	514-516	zu	_	
+6-8	517-527	gefährlich	_	
+6-9	528-531	ist	_	
+6-10	532-535	auf	_	
+6-11	536-539	der	_	
+6-12	540-546	Straße	_	
+6-13	547-549	zu	_	
+6-14	550-556	fahren	_	
+6-15	556-557	,	_	
+6-16	558-561	auf	_	
+6-17	562-565	den	_	
+6-18	566-577	Bürgersteig	_	
+6-19	578-588	ausweichen	_	
+6-20	588-589	,	_	
+6-21	590-594	muss	_	
+6-22	595-598	man	_	
+6-23	599-603	sich	_	
+6-24	604-607	auf	_	
+6-25	608-611	dem	_	
+6-26	612-620	schmalen	_	
+6-27	621-629	Streifen	_	
+6-28	630-638	zwischen	_	
+6-29	639-650	Brennesseln	_	
+6-30	651-654	und	_	
+6-31	655-669	Spaziergängern	_	
+6-32	670-673	mit	_	
+6-33	674-680	Hunden	_	
+6-34	681-695	durchschlägeln	_	
+6-35	695-696	.	_	
+
+#Text=Unten ist dann alles zugeparkt, wie üblich auf den Bonner Gehwegen, v.a. durch den Besucherverkehr der Johannesschule.
+7-1	697-702	Unten	_	
+7-2	703-706	ist	_	
+7-3	707-711	dann	_	
+7-4	712-717	alles	_	
+7-5	718-727	zugeparkt	_	
+7-6	727-728	,	_	
+7-7	729-732	wie	_	
+7-8	733-739	üblich	_	
+7-9	740-743	auf	_	
+7-10	744-747	den	_	
+7-11	748-754	Bonner	_	
+7-12	755-763	Gehwegen	_	
+7-13	763-764	,	_	
+7-14	765-768	v.a	_	
+7-15	768-769	.	_	
+7-16	770-775	durch	_	
+7-17	776-779	den	_	
+7-18	780-795	Besucherverkehr	_	
+7-19	796-799	der	_	
+7-20	800-814	Johannesschule	*	
+7-21	814-815	.	_	
+
+#Text=Ich würde mir wünschen, die Straße hier in einen besseren Zustand zu versetzen und dabei auch gleich eine Verbreiterung mit Radstreifen und Gehweg durchführen.
+8-1	816-819	Ich	_	
+8-2	820-825	würde	_	
+8-3	826-829	mir	_	
+8-4	830-838	wünschen	_	
+8-5	838-839	,	_	
+8-6	840-843	die	_	
+8-7	844-850	Straße	_	
+8-8	851-855	hier	_	
+8-9	856-858	in	_	
+8-10	859-864	einen	_	
+8-11	865-873	besseren	_	
+8-12	874-881	Zustand	_	
+8-13	882-884	zu	_	
+8-14	885-894	versetzen	_	
+8-15	895-898	und	_	
+8-16	899-904	dabei	_	
+8-17	905-909	auch	_	
+8-18	910-916	gleich	_	
+8-19	917-921	eine	_	
+8-20	922-935	Verbreiterung	_	
+8-21	936-939	mit	_	
+8-22	940-951	Radstreifen	_	
+8-23	952-955	und	_	
+8-24	956-962	Gehweg	_	
+8-25	963-974	durchführen	_	
+8-26	974-975	.	_	
+
+#Text=Oder wenn Verbreiterung aus topgrafischen Gründen nicht möglich ist, eine Radspur beidseits auf sanierter Straße.
+9-1	976-980	Oder	_	
+9-2	981-985	wenn	_	
+9-3	986-999	Verbreiterung	_	
+9-4	1000-1003	aus	_	
+9-5	1004-1017	topgrafischen	_	
+9-6	1018-1025	Gründen	_	
+9-7	1026-1031	nicht	_	
+9-8	1032-1039	möglich	_	
+9-9	1040-1043	ist	_	
+9-10	1043-1044	,	_	
+9-11	1045-1049	eine	_	
+9-12	1050-1057	Radspur	_	
+9-13	1058-1067	beidseits	_	
+9-14	1068-1071	auf	_	
+9-15	1072-1081	sanierter	_	
+9-16	1082-1088	Straße	_	
+9-17	1088-1089	.	_	

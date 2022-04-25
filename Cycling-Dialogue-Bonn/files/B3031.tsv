@@ -1,0 +1,65 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Länge der Ampelphasen für Radfahrer
+1-1	0-5	Länge	_	
+1-2	6-9	der	_	
+1-3	10-21	Ampelphasen	_	
+1-4	22-25	für	_	
+1-5	26-35	Radfahrer	_	
+
+#Text=Es ist absolut nicht nachvollziehbar, warum bei Querung der Oxfordstraße die Radfahrer lediglich eine im Vergleich zu den Fußgängern erheblich verkürzte Grünphase erhalten.
+2-1	38-40	Es	_	
+2-2	41-44	ist	_	
+2-3	45-52	absolut	_	
+2-4	53-58	nicht	_	
+2-5	59-74	nachvollziehbar	_	
+2-6	74-75	,	_	
+2-7	76-81	warum	_	
+2-8	82-85	bei	*[5]	
+2-9	86-93	Querung	*[5]	
+2-10	94-97	der	*[5]	
+2-11	98-110	Oxfordstraße	*[5]	
+2-12	111-114	die	_	
+2-13	115-124	Radfahrer	_	
+2-14	125-134	lediglich	_	
+2-15	135-139	eine	_	
+2-16	140-142	im	_	
+2-17	143-152	Vergleich	_	
+2-18	153-155	zu	_	
+2-19	156-159	den	_	
+2-20	160-170	Fußgängern	_	
+2-21	171-180	erheblich	_	
+2-22	181-190	verkürzte	_	
+2-23	191-200	Grünphase	_	
+2-24	201-209	erhalten	_	
+2-25	209-210	.	_	
+
+#Text=Dies führt zu unnötigen Radstaus an den Aufstellflächen.
+3-1	211-215	Dies	_	
+3-2	216-221	führt	_	
+3-3	222-224	zu	_	
+3-4	225-234	unnötigen	_	
+3-5	235-243	Radstaus	_	
+3-6	244-246	an	_	
+3-7	247-250	den	_	
+3-8	251-266	Aufstellflächen	_	
+3-9	266-267	.	_	
+
+#Text=Hier sollten die Grünphasen genau so lange wie die Fußgängergrünphasen geschaltet werden!
+4-1	268-272	Hier	_	
+4-2	273-280	sollten	_	
+4-3	281-284	die	_	
+4-4	285-295	Grünphasen	_	
+4-5	296-301	genau	_	
+4-6	302-304	so	_	
+4-7	305-310	lange	_	
+4-8	311-314	wie	_	
+4-9	315-318	die	_	
+4-10	319-338	Fußgängergrünphasen	_	
+4-11	339-349	geschaltet	_	
+4-12	350-356	werden	_	
+4-13	356-357	!	_	

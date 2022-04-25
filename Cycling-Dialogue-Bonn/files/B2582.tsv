@@ -1,0 +1,46 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sperrung des südlichen Rad/Fußweges für Mopeds Co.
+1-1	0-8	Sperrung	_	
+1-2	9-12	des	_	
+1-3	13-22	südlichen	_	
+1-4	23-26	Rad	_	
+1-5	26-27	/	_	
+1-6	27-35	Fußweges	_	
+1-7	36-39	für	_	
+1-8	40-46	Mopeds	_	
+1-9	47-49	Co	_	
+1-10	49-50	.	_	
+
+#Text=Immer häufiger nutzen Motorroller etc. Auch den südlichen Überweg, was oft gefährliche Situationen auslöst.
+2-1	53-58	Immer	_	
+2-2	59-67	häufiger	_	
+2-3	68-74	nutzen	_	
+2-4	75-86	Motorroller	_	
+2-5	87-90	etc	_	
+2-6	90-91	.	_	
+2-7	92-96	Auch	_	
+2-8	97-100	den	_	
+2-9	101-110	südlichen	_	
+2-10	111-118	Überweg	_	
+2-11	118-119	,	_	
+2-12	120-123	was	_	
+2-13	124-127	oft	_	
+2-14	128-139	gefährliche	_	
+2-15	140-151	Situationen	_	
+2-16	152-159	auslöst	_	
+2-17	159-160	.	_	
+
+#Text=Es sollten daher entsprechende Sperrschilder aufgestellt werden.
+3-1	161-163	Es	_	
+3-2	164-171	sollten	_	
+3-3	172-177	daher	_	
+3-4	178-191	entsprechende	_	
+3-5	192-205	Sperrschilder	_	
+3-6	206-217	aufgestellt	_	
+3-7	218-224	werden	_	
+3-8	224-225	.	_	

@@ -1,0 +1,229 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradauffahrt und -weg Joseph-Schumpeter-Allee
+1-1	0-15	Fahrradauffahrt	_	
+1-2	16-19	und	_	
+1-3	20-21	-	_	
+1-4	21-24	weg	_	
+1-5	25-48	Joseph-Schumpeter-Allee	*	
+
+#Text=Die Dichte des Auto- und Fahrradverkehrs auf der Joseph-Schumpeter-Allee hat in den letzten Jahren massiv zugenommen.
+2-1	51-54	Die	_	
+2-2	55-61	Dichte	_	
+2-3	62-65	des	_	
+2-4	66-70	Auto	_	
+2-5	70-71	-	_	
+2-6	72-75	und	_	
+2-7	76-91	Fahrradverkehrs	_	
+2-8	92-95	auf	*[12]	
+2-9	96-99	der	*[12]	
+2-10	100-123	Joseph-Schumpeter-Allee	*[12]	
+2-11	124-127	hat	_	
+2-12	128-130	in	_	
+2-13	131-134	den	_	
+2-14	135-142	letzten	_	
+2-15	143-149	Jahren	_	
+2-16	150-156	massiv	_	
+2-17	157-167	zugenommen	_	
+2-18	167-168	.	_	
+
+#Text=Hier bestehen zwei zunehmend dringende Probleme: Gefahrenstelle
+3-1	169-173	Hier	_	
+3-2	174-182	bestehen	_	
+3-3	183-187	zwei	_	
+3-4	188-197	zunehmend	_	
+3-5	198-207	dringende	_	
+3-6	208-216	Probleme	_	
+3-7	216-217	:	_	
+3-8	218-232	Gefahrenstelle	_	
+
+#Text=Im morgendlichen Berufsverkehr erreichen Fahrradfahrer die Alle von der Ebertbrücke kommend teils im Sekundentakt.
+4-1	233-235	Im	_	
+4-2	236-249	morgendlichen	_	
+4-3	250-263	Berufsverkehr	_	
+4-4	264-273	erreichen	_	
+4-5	274-287	Fahrradfahrer	_	
+4-6	288-291	die	_	
+4-7	292-296	Alle	_	
+4-8	297-300	von	*[13]	
+4-9	301-304	der	*[13]	
+4-10	305-316	Ebertbrücke	*[13]	
+4-11	317-324	kommend	*[13]	
+4-12	325-330	teils	_	
+4-13	331-333	im	_	
+4-14	334-346	Sekundentakt	_	
+4-15	346-347	.	_	
+
+#Text=Bei der Auffahrt vom Fahrradweg auf die Alle sind sie gezwungen, sie ohne weitere Fahrbahnmarkierungen in den Verkehr einzureihen.
+5-1	348-351	Bei	_	
+5-2	352-355	der	_	
+5-3	356-364	Auffahrt	_	
+5-4	365-368	vom	_	
+5-5	369-379	Fahrradweg	_	
+5-6	380-383	auf	_	
+5-7	384-387	die	_	
+5-8	388-392	Alle	_	
+5-9	393-397	sind	_	
+5-10	398-401	sie	_	
+5-11	402-411	gezwungen	_	
+5-12	411-412	,	_	
+5-13	413-416	sie	_	
+5-14	417-421	ohne	_	
+5-15	422-429	weitere	_	
+5-16	430-450	Fahrbahnmarkierungen	_	
+5-17	451-453	in	_	
+5-18	454-457	den	_	
+5-19	458-465	Verkehr	_	
+5-20	466-477	einzureihen	_	
+5-21	477-478	.	_	
+
+#Text=Da die Autos hier zugleich vom Beschleunigungsstreifen auf die Allee einbiegen, gilt die Hauptaufmerksamkeit der Autos dem links von ihnen fließenden Verkehr und weniger den von rechts in die Fahrbahn kommenden Fahrrädern.
+6-1	479-481	Da	_	
+6-2	482-485	die	_	
+6-3	486-491	Autos	_	
+6-4	492-496	hier	_	
+6-5	497-505	zugleich	_	
+6-6	506-509	vom	_	
+6-7	510-533	Beschleunigungsstreifen	_	
+6-8	534-537	auf	_	
+6-9	538-541	die	_	
+6-10	542-547	Allee	_	
+6-11	548-557	einbiegen	_	
+6-12	557-558	,	_	
+6-13	559-563	gilt	_	
+6-14	564-567	die	_	
+6-15	568-587	Hauptaufmerksamkeit	_	
+6-16	588-591	der	_	
+6-17	592-597	Autos	_	
+6-18	598-601	dem	_	
+6-19	602-607	links	_	
+6-20	608-611	von	_	
+6-21	612-617	ihnen	_	
+6-22	618-628	fließenden	_	
+6-23	629-636	Verkehr	_	
+6-24	637-640	und	_	
+6-25	641-648	weniger	_	
+6-26	649-652	den	_	
+6-27	653-656	von	_	
+6-28	657-663	rechts	_	
+6-29	664-666	in	_	
+6-30	667-670	die	_	
+6-31	671-679	Fahrbahn	_	
+6-32	680-689	kommenden	_	
+6-33	690-700	Fahrrädern	_	
+6-34	700-701	.	_	
+
+#Text=Die Gleichzeitigkeit der beschleunigenden Autos, der bereits auf der Allee fahrenden Autos und der von rechts hinzukommenden Fahrräder sorgt regelmäßig für brenzlige Situationen.
+7-1	702-705	Die	_	
+7-2	706-722	Gleichzeitigkeit	_	
+7-3	723-726	der	_	
+7-4	727-743	beschleunigenden	_	
+7-5	744-749	Autos	_	
+7-6	749-750	,	_	
+7-7	751-754	der	_	
+7-8	755-762	bereits	_	
+7-9	763-766	auf	_	
+7-10	767-770	der	_	
+7-11	771-776	Allee	_	
+7-12	777-786	fahrenden	_	
+7-13	787-792	Autos	_	
+7-14	793-796	und	_	
+7-15	797-800	der	_	
+7-16	801-804	von	_	
+7-17	805-811	rechts	_	
+7-18	812-826	hinzukommenden	_	
+7-19	827-836	Fahrräder	_	
+7-20	837-842	sorgt	_	
+7-21	843-853	regelmäßig	_	
+7-22	854-857	für	_	
+7-23	858-867	brenzlige	_	
+7-24	868-879	Situationen	_	
+7-25	879-880	.	_	
+
+#Text=Mit der Eröffnung des Rhein Palais wird sich die Situation nochmals erheblich verschlechtern.
+8-1	881-884	Mit	_	
+8-2	885-888	der	_	
+8-3	889-898	Eröffnung	_	
+8-4	899-902	des	_	
+8-5	903-908	Rhein	*[14]	
+8-6	909-915	Palais	*[14]	
+8-7	916-920	wird	_	
+8-8	921-925	sich	_	
+8-9	926-929	die	_	
+8-10	930-939	Situation	_	
+8-11	940-948	nochmals	_	
+8-12	949-958	erheblich	_	
+8-13	959-973	verschlechtern	_	
+8-14	973-974	.	_	
+
+#Text=Fahrradweg
+9-1	975-985	Fahrradweg	_	
+
+#Text=Entlang der Allee sind erhebliche Flächen für den verkehrsführungsparallel ruhenden Verkehr reserviert, während zugleich keine Fahrradwege markiert sind.
+10-1	986-993	Entlang	_	
+10-2	994-997	der	_	
+10-3	998-1003	Allee	_	
+10-4	1004-1008	sind	_	
+10-5	1009-1019	erhebliche	_	
+10-6	1020-1027	Flächen	_	
+10-7	1028-1031	für	_	
+10-8	1032-1035	den	_	
+10-9	1036-1060	verkehrsführungsparallel	_	
+10-10	1061-1069	ruhenden	_	
+10-11	1070-1077	Verkehr	_	
+10-12	1078-1088	reserviert	_	
+10-13	1088-1089	,	_	
+10-14	1090-1097	während	_	
+10-15	1098-1106	zugleich	_	
+10-16	1107-1112	keine	_	
+10-17	1113-1124	Fahrradwege	_	
+10-18	1125-1133	markiert	_	
+10-19	1134-1138	sind	_	
+10-20	1138-1139	.	_	
+
+#Text=Für die Neuerschließung des Areals ist das leider sehr traurig und führt zu Wettkämpfen zwischen dem inzwischen recht dichten Fahrradverkehr und dem ebenfalls an Dichte stark zunehmenden MIV und ÖPNV.
+11-1	1140-1143	Für	_	
+11-2	1144-1147	die	_	
+11-3	1148-1163	Neuerschließung	_	
+11-4	1164-1167	des	_	
+11-5	1168-1174	Areals	_	
+11-6	1175-1178	ist	_	
+11-7	1179-1182	das	_	
+11-8	1183-1189	leider	_	
+11-9	1190-1194	sehr	_	
+11-10	1195-1202	traurig	_	
+11-11	1203-1206	und	_	
+11-12	1207-1212	führt	_	
+11-13	1213-1215	zu	_	
+11-14	1216-1227	Wettkämpfen	_	
+11-15	1228-1236	zwischen	_	
+11-16	1237-1240	dem	_	
+11-17	1241-1251	inzwischen	_	
+11-18	1252-1257	recht	_	
+11-19	1258-1265	dichten	_	
+11-20	1266-1280	Fahrradverkehr	_	
+11-21	1281-1284	und	_	
+11-22	1285-1288	dem	_	
+11-23	1289-1298	ebenfalls	_	
+11-24	1299-1301	an	_	
+11-25	1302-1308	Dichte	_	
+11-26	1309-1314	stark	_	
+11-27	1315-1326	zunehmenden	_	
+11-28	1327-1330	MIV	_	
+11-29	1331-1334	und	_	
+11-30	1335-1339	ÖPNV	_	
+11-31	1339-1340	.	_	
+
+#Text=Eine Fahrradwegmarkierung wäre hier wünschenswert und zeitgemäß.
+12-1	1341-1345	Eine	_	
+12-2	1346-1366	Fahrradwegmarkierung	_	
+12-3	1367-1371	wäre	_	
+12-4	1372-1376	hier	_	
+12-5	1377-1390	wünschenswert	_	
+12-6	1391-1394	und	_	
+12-7	1395-1404	zeitgemäß	_	
+12-8	1404-1405	.	_	

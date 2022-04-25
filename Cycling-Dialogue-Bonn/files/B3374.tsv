@@ -1,0 +1,160 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rheinuferweg Beschilderung
+1-1	0-12	Rheinuferweg	_	
+1-2	13-26	Beschilderung	_	
+
+#Text=Ich fahre oft ab der Mondorfer Autofähre am Rhein entlang.
+2-1	29-32	Ich	_	
+2-2	33-38	fahre	_	
+2-3	39-42	oft	_	
+2-4	43-45	ab	_	
+2-5	46-49	der	_	
+2-6	50-59	Mondorfer	_	
+2-7	60-69	Autofähre	_	
+2-8	70-72	am	_	
+2-9	73-78	Rhein	_	
+2-10	79-86	entlang	_	
+2-11	86-87	.	_	
+
+#Text=Im Bereich der Autofähre stehen die übliche blauen Verkehrzeichen, die auf einen gemeinsamen Rad/Fussweg hinweisen.
+3-1	88-90	Im	_	
+3-2	91-98	Bereich	_	
+3-3	99-102	der	_	
+3-4	103-112	Autofähre	_	
+3-5	113-119	stehen	_	
+3-6	120-123	die	_	
+3-7	124-131	übliche	_	
+3-8	132-138	blauen	_	
+3-9	139-153	Verkehrzeichen	_	
+3-10	153-154	,	_	
+3-11	155-158	die	_	
+3-12	159-162	auf	_	
+3-13	163-168	einen	_	
+3-14	169-180	gemeinsamen	_	
+3-15	181-184	Rad	_	
+3-16	184-185	/	_	
+3-17	185-192	Fussweg	_	
+3-18	193-202	hinweisen	_	
+3-19	202-203	.	_	
+
+#Text=Seit einiger Zeit ist entweder da kein Schild mehr oder wieder mal das mit dem roten Rand, was weitergehen für Fussgänger und fahren mit dem Rad verdieten.
+4-1	204-208	Seit	_	
+4-2	209-216	einiger	_	
+4-3	217-221	Zeit	_	
+4-4	222-225	ist	_	
+4-5	226-234	entweder	_	
+4-6	235-237	da	_	
+4-7	238-242	kein	_	
+4-8	243-249	Schild	_	
+4-9	250-254	mehr	_	
+4-10	255-259	oder	_	
+4-11	260-266	wieder	_	
+4-12	267-270	mal	_	
+4-13	271-274	das	_	
+4-14	275-278	mit	_	
+4-15	279-282	dem	_	
+4-16	283-288	roten	_	
+4-17	289-293	Rand	_	
+4-18	293-294	,	_	
+4-19	295-298	was	_	
+4-20	299-310	weitergehen	_	
+4-21	311-314	für	_	
+4-22	315-325	Fussgänger	_	
+4-23	326-329	und	_	
+4-24	330-336	fahren	_	
+4-25	337-340	mit	_	
+4-26	341-344	dem	_	
+4-27	345-348	Rad	_	
+4-28	349-358	verdieten	_	
+4-29	358-359	.	_	
+
+#Text=Es handelt sich hier um Schilder, die über eine spezielle Halterung leicht verändert werden können.
+5-1	360-362	Es	_	
+5-2	363-370	handelt	_	
+5-3	371-375	sich	_	
+5-4	376-380	hier	_	
+5-5	381-383	um	_	
+5-6	384-392	Schilder	_	
+5-7	392-393	,	_	
+5-8	394-397	die	_	
+5-9	398-402	über	_	
+5-10	403-407	eine	_	
+5-11	408-417	spezielle	_	
+5-12	418-427	Halterung	_	
+5-13	428-434	leicht	_	
+5-14	435-444	verändert	_	
+5-15	445-451	werden	_	
+5-16	452-458	können	_	
+5-17	458-459	.	_	
+
+#Text=Wahrscheinlich soll bei Hochwaser hier der Weg gesperrt werden können.
+6-1	460-474	Wahrscheinlich	_	
+6-2	475-479	soll	_	
+6-3	480-483	bei	_	
+6-4	484-493	Hochwaser	_	
+6-5	494-498	hier	_	
+6-6	499-502	der	_	
+6-7	503-506	Weg	_	
+6-8	507-515	gesperrt	_	
+6-9	516-522	werden	_	
+6-10	523-529	können	_	
+6-11	529-530	.	_	
+
+#Text=Leider sind hier entweder Scherzbolde unterwegs oder man hat vergessen die Schilder auszuwechseln.
+7-1	531-537	Leider	_	
+7-2	538-542	sind	_	
+7-3	543-547	hier	_	
+7-4	548-556	entweder	_	
+7-5	557-568	Scherzbolde	_	
+7-6	569-578	unterwegs	_	
+7-7	579-583	oder	_	
+7-8	584-587	man	_	
+7-9	588-591	hat	_	
+7-10	592-601	vergessen	_	
+7-11	602-605	die	_	
+7-12	606-614	Schilder	_	
+7-13	615-628	auszuwechseln	_	
+7-14	628-629	.	_	
+
+#Text=Jedenfalls ist das hier eine überflüssige Verfahrensweise.
+8-1	630-640	Jedenfalls	_	
+8-2	641-644	ist	_	
+8-3	645-648	das	_	
+8-4	649-653	hier	_	
+8-5	654-658	eine	_	
+8-6	659-671	überflüssige	_	
+8-7	672-687	Verfahrensweise	_	
+8-8	687-688	.	_	
+
+#Text=Warum läßt man nicht die blauen Schilder und schreibt drunter Bei Hochwasser Durchfahrt verboten.
+9-1	689-694	Warum	_	
+9-2	695-699	läßt	_	
+9-3	700-703	man	_	
+9-4	704-709	nicht	_	
+9-5	710-713	die	_	
+9-6	714-720	blauen	_	
+9-7	721-729	Schilder	_	
+9-8	730-733	und	_	
+9-9	734-742	schreibt	_	
+9-10	743-750	drunter	_	
+9-11	751-754	Bei	_	
+9-12	755-765	Hochwasser	_	
+9-13	766-776	Durchfahrt	_	
+9-14	777-785	verboten	_	
+9-15	785-786	.	_	
+
+#Text=Sieht doch jeder, wenn der Rhein überschwappt.
+10-1	787-792	Sieht	_	
+10-2	793-797	doch	_	
+10-3	798-803	jeder	_	
+10-4	803-804	,	_	
+10-5	805-809	wenn	_	
+10-6	810-813	der	_	
+10-7	814-819	Rhein	_	
+10-8	820-832	überschwappt	_	
+10-9	832-833	.	_	

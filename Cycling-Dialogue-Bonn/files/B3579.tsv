@@ -1,0 +1,223 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Aufgabe Projekt Unterführung zwischen Alter Friedhof und Endenicher Straße & 3,5 Mio sparen für Radverkehr
+1-1	0-7	Aufgabe	_	
+1-2	8-15	Projekt	_	
+1-3	16-28	Unterführung	*[10]	
+1-4	29-37	zwischen	*[10]	
+1-5	38-43	Alter	*[10]	
+1-6	44-52	Friedhof	*[10]	
+1-7	53-56	und	*[10]	
+1-8	57-67	Endenicher	*[10]	
+1-9	68-74	Straße	*[10]	
+1-10	75-76	&	_	
+1-11	77-80	3,5	_	
+1-12	81-84	Mio	_	
+1-13	85-91	sparen	_	
+1-14	92-95	für	_	
+1-15	96-106	Radverkehr	_	
+
+#Text=3,5 Mio soll die Umgestaltung der bestehenden Unterführung zwischen Alter Friedhof und Endenicher Straße kosten.
+2-1	109-112	3,5	_	
+2-2	113-116	Mio	_	
+2-3	117-121	soll	_	
+2-4	122-125	die	_	
+2-5	126-138	Umgestaltung	_	
+2-6	139-142	der	_	
+2-7	143-154	bestehenden	_	
+2-8	155-167	Unterführung	*[11]	
+2-9	168-176	zwischen	*[11]	
+2-10	177-182	Alter	*[11]	
+2-11	183-191	Friedhof	*[11]	
+2-12	192-195	und	*[11]	
+2-13	196-206	Endenicher	*[11]	
+2-14	207-213	Straße	*[11]	
+2-15	214-220	kosten	_	
+2-16	220-221	.	_	
+
+#Text=Wer die bestehende Unterführung nicht kennt: Einfach einen Obdachlosen & Junkie in der Nähe der City Station (Suchberatung & Infos, Hilfe für Süchtige etc) dort fragen.
+3-1	222-225	Wer	_	
+3-2	226-229	die	_	
+3-3	230-240	bestehende	_	
+3-4	241-253	Unterführung	_	
+3-5	254-259	nicht	_	
+3-6	260-265	kennt	_	
+3-7	265-266	:	_	
+3-8	267-274	Einfach	_	
+3-9	275-280	einen	_	
+3-10	281-292	Obdachlosen	_	
+3-11	293-294	&	_	
+3-12	295-301	Junkie	_	
+3-13	302-304	in	_	
+3-14	305-308	der	_	
+3-15	309-313	Nähe	_	
+3-16	314-317	der	_	
+3-17	318-322	City	_	
+3-18	323-330	Station	_	
+3-19	331-332	(	_	
+3-20	332-344	Suchberatung	_	
+3-21	345-346	&	_	
+3-22	347-352	Infos	_	
+3-23	352-353	,	_	
+3-24	354-359	Hilfe	_	
+3-25	360-363	für	_	
+3-26	364-372	Süchtige	_	
+3-27	373-376	etc	_	
+3-28	376-377	)	_	
+3-29	378-382	dort	_	
+3-30	383-389	fragen	_	
+3-31	389-390	.	_	
+
+#Text=Denn die Unterführung wird hunderte Mal jährlich von Junkies und Obdachlose sachfremd genutzt.
+4-1	391-395	Denn	_	
+4-2	396-399	die	_	
+4-3	400-412	Unterführung	_	
+4-4	413-417	wird	_	
+4-5	418-426	hunderte	_	
+4-6	427-430	Mal	_	
+4-7	431-439	jährlich	_	
+4-8	440-443	von	_	
+4-9	444-451	Junkies	_	
+4-10	452-455	und	_	
+4-11	456-466	Obdachlose	_	
+4-12	467-476	sachfremd	_	
+4-13	477-484	genutzt	_	
+4-14	484-485	.	_	
+
+#Text=Wer Angst und Brechreiz mal schnell gleichzeitig erleben will, der sollte sich die Unterführung jetzt antun, siehe auch www.general-anzeiger-bonn.de/bonn/stadt-bonn/Viktoria-Unterf%C3%BChrung-soll-freundlicher-werden-article3633629.html
+5-1	486-489	Wer	_	
+5-2	490-495	Angst	_	
+5-3	496-499	und	_	
+5-4	500-509	Brechreiz	_	
+5-5	510-513	mal	_	
+5-6	514-521	schnell	_	
+5-7	522-534	gleichzeitig	_	
+5-8	535-542	erleben	_	
+5-9	543-547	will	_	
+5-10	547-548	,	_	
+5-11	549-552	der	_	
+5-12	553-559	sollte	_	
+5-13	560-564	sich	_	
+5-14	565-568	die	_	
+5-15	569-581	Unterführung	_	
+5-16	582-587	jetzt	_	
+5-17	588-593	antun	_	
+5-18	593-594	,	_	
+5-19	595-600	siehe	_	
+5-20	601-605	auch	_	
+5-21	606-634	www.general-anzeiger-bonn.de	_	
+5-22	634-635	/	_	
+5-23	635-639	bonn	_	
+5-24	639-640	/	_	
+5-25	640-650	stadt-bonn	_	
+5-26	650-651	/	_	
+5-27	651-666	Viktoria-Unterf	_	
+5-28	666-667	%	_	
+5-29	667-670	C3%	_	
+5-30	670-717	BChrung-soll-freundlicher-werden-article3633629	_	
+5-31	717-718	.	_	
+5-32	718-722	html	_	
+
+#Text=Auch der ADFC Bonn verneint die Sinnhaftigkeit des teuren Umbaus: Es ist vielmehr fraglich, wie viele Radfahrer überhaupt diese Verbindung nutzen werden.
+6-1	723-727	Auch	_	
+6-2	728-731	der	_	
+6-3	732-736	ADFC	_	
+6-4	737-741	Bonn	_	
+6-5	742-750	verneint	_	
+6-6	751-754	die	_	
+6-7	755-769	Sinnhaftigkeit	_	
+6-8	770-773	des	_	
+6-9	774-780	teuren	_	
+6-10	781-787	Umbaus	_	
+6-11	787-788	:	_	
+6-12	789-791	Es	_	
+6-13	792-795	ist	_	
+6-14	796-804	vielmehr	_	
+6-15	805-813	fraglich	_	
+6-16	813-814	,	_	
+6-17	815-818	wie	_	
+6-18	819-824	viele	_	
+6-19	825-834	Radfahrer	_	
+6-20	835-844	überhaupt	_	
+6-21	845-850	diese	_	
+6-22	851-861	Verbindung	_	
+6-23	862-868	nutzen	_	
+6-24	869-875	werden	_	
+6-25	875-876	.	_	
+
+#Text=Gut vorstellbar, dass vor allem nachts die lange Röhre für viele einen Angstraum darstellen wird.
+7-1	877-880	Gut	_	
+7-2	881-892	vorstellbar	_	
+7-3	892-893	,	_	
+7-4	894-898	dass	_	
+7-5	899-902	vor	_	
+7-6	903-908	allem	_	
+7-7	909-915	nachts	_	
+7-8	916-919	die	_	
+7-9	920-925	lange	_	
+7-10	926-931	Röhre	_	
+7-11	932-935	für	_	
+7-12	936-941	viele	_	
+7-13	942-947	einen	_	
+7-14	948-957	Angstraum	_	
+7-15	958-968	darstellen	_	
+7-16	969-973	wird	_	
+7-17	973-974	.	_	
+
+#Text=Bei den Rampen auf beiden Seiten der Unterführung sind viel zu scharfwinklige Richtungswechsel geplant.
+8-1	975-978	Bei	_	
+8-2	979-982	den	_	
+8-3	983-989	Rampen	_	
+8-4	990-993	auf	_	
+8-5	994-1000	beiden	_	
+8-6	1001-1007	Seiten	_	
+8-7	1008-1011	der	_	
+8-8	1012-1024	Unterführung	_	
+8-9	1025-1029	sind	_	
+8-10	1030-1034	viel	_	
+8-11	1035-1037	zu	_	
+8-12	1038-1052	scharfwinklige	_	
+8-13	1053-1069	Richtungswechsel	_	
+8-14	1070-1077	geplant	_	
+8-15	1077-1078	.	_	
+
+#Text=Unmittelbar neben der Unterführung können Radler und Fußgänger bald oberirdisch auf die dort in Bau befindliche Rampe (zur Viktoriabrücke) direkt neben den Unterführungseingang benutzen, siehe https://goo.gl/uq1QTM
+9-1	1079-1090	Unmittelbar	_	
+9-2	1091-1096	neben	_	
+9-3	1097-1100	der	_	
+9-4	1101-1113	Unterführung	_	
+9-5	1114-1120	können	_	
+9-6	1121-1127	Radler	_	
+9-7	1128-1131	und	_	
+9-8	1132-1141	Fußgänger	_	
+9-9	1142-1146	bald	_	
+9-10	1147-1158	oberirdisch	_	
+9-11	1159-1162	auf	_	
+9-12	1163-1166	die	_	
+9-13	1167-1171	dort	_	
+9-14	1172-1174	in	_	
+9-15	1175-1178	Bau	_	
+9-16	1179-1190	befindliche	_	
+9-17	1191-1196	Rampe	_	
+9-18	1197-1198	(	_	
+9-19	1198-1201	zur	*[12]	
+9-20	1202-1216	Viktoriabrücke	*[12]	
+9-21	1216-1217	)	_	
+9-22	1218-1224	direkt	_	
+9-23	1225-1230	neben	_	
+9-24	1231-1234	den	_	
+9-25	1235-1255	Unterführungseingang	_	
+9-26	1256-1264	benutzen	_	
+9-27	1264-1265	,	_	
+9-28	1266-1271	siehe	_	
+9-29	1272-1277	https	_	
+9-30	1277-1278	:	_	
+9-31	1278-1279	/	_	
+9-32	1279-1280	/	_	
+9-33	1280-1286	goo.gl	_	
+9-34	1286-1287	/	_	
+9-35	1287-1293	uq1QTM	_	

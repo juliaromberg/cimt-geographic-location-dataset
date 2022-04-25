@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parken in 2 Reihe verbieten / Bonner Talweg
+1-1	0-6	Parken	_	
+1-2	7-9	in	_	
+1-3	10-11	2	_	
+1-4	12-17	Reihe	_	
+1-5	18-27	verbieten	_	
+1-6	28-29	/	_	
+1-7	30-36	Bonner	*[5]	
+1-8	37-43	Talweg	*[5]	
+
+#Text=Auf dem Bonner Talweg zwischen Petruskrankenhaus und Weberstrasse parken durchgehend Autos in 2. Reihe
+2-1	46-49	Auf	*[6]	
+2-2	50-53	dem	*[6]	
+2-3	54-60	Bonner	*[6]	
+2-4	61-67	Talweg	*[6]	
+2-5	68-76	zwischen	*[6]	
+2-6	77-94	Petruskrankenhaus	*[6]	
+2-7	95-98	und	*[6]	
+2-8	99-111	Weberstrasse	*[6]	
+2-9	112-118	parken	_	
+2-10	119-130	durchgehend	_	
+2-11	131-136	Autos	_	
+2-12	137-139	in	_	
+2-13	140-141	2	_	
+2-14	141-142	.	_	
+2-15	143-148	Reihe	_	
+
+#Text=Da die Strasse sowieso schon eng ist und noch dazu von der Strassenbahn genutzt wird, wäre das Durchsetzten eines Verbotes in der 2.Reihe notwendig.
+3-1	149-151	Da	_	
+3-2	152-155	die	_	
+3-3	156-163	Strasse	_	
+3-4	164-171	sowieso	_	
+3-5	172-177	schon	_	
+3-6	178-181	eng	_	
+3-7	182-185	ist	_	
+3-8	186-189	und	_	
+3-9	190-194	noch	_	
+3-10	195-199	dazu	_	
+3-11	200-203	von	_	
+3-12	204-207	der	_	
+3-13	208-220	Strassenbahn	_	
+3-14	221-228	genutzt	_	
+3-15	229-233	wird	_	
+3-16	233-234	,	_	
+3-17	235-239	wäre	_	
+3-18	240-243	das	_	
+3-19	244-256	Durchsetzten	_	
+3-20	257-262	eines	_	
+3-21	263-271	Verbotes	_	
+3-22	272-274	in	_	
+3-23	275-278	der	_	
+3-24	279-280	2	_	
+3-25	280-281	.	_	
+3-26	281-286	Reihe	_	
+3-27	287-296	notwendig	_	
+3-28	296-297	.	_	
+
+#Text=Eine Radwegmarkierung könnte auch helfen
+4-1	298-302	Eine	_	
+4-2	303-319	Radwegmarkierung	_	
+4-3	320-326	könnte	_	
+4-4	327-331	auch	_	
+4-5	332-338	helfen	_	

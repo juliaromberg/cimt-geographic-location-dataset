@@ -1,0 +1,35 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Für eine der Hauptachsen Ost-West als Radweg viel zu schmal
+1-1	0-3	Für	_	
+1-2	4-8	eine	_	
+1-3	9-12	der	_	
+1-4	13-24	Hauptachsen	_	
+1-5	25-33	Ost-West	_	
+1-6	34-37	als	_	
+1-7	38-44	Radweg	_	
+1-8	45-49	viel	_	
+1-9	50-52	zu	_	
+1-10	53-59	schmal	_	
+
+#Text=Besonders bei Fußgängern regelmäßig auf dem Radweg und Begegnungsverkehr, Verdoppelung der Breite dringend nötig!
+2-1	62-71	Besonders	_	
+2-2	72-75	bei	_	
+2-3	76-86	Fußgängern	_	
+2-4	87-97	regelmäßig	_	
+2-5	98-101	auf	_	
+2-6	102-105	dem	_	
+2-7	106-112	Radweg	_	
+2-8	113-116	und	_	
+2-9	117-134	Begegnungsverkehr	_	
+2-10	134-135	,	_	
+2-11	136-148	Verdoppelung	_	
+2-12	149-152	der	_	
+2-13	153-159	Breite	_	
+2-14	160-168	dringend	_	
+2-15	169-174	nötig	_	
+2-16	174-175	!	_	

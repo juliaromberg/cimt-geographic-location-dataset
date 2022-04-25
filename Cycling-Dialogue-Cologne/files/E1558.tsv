@@ -1,0 +1,26 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Breite der Radwege
+1-1	0-6	Breite	_	
+1-2	7-10	der	_	
+1-3	11-18	Radwege	_	
+
+#Text=die Radweg sind viel zu schmal, man kommt den Autofahrern ständig ins Gehege
+2-1	21-24	die	_	
+2-2	25-31	Radweg	_	
+2-3	32-36	sind	_	
+2-4	37-41	viel	_	
+2-5	42-44	zu	_	
+2-6	45-51	schmal	_	
+2-7	51-52	,	_	
+2-8	53-56	man	_	
+2-9	57-62	kommt	_	
+2-10	63-66	den	_	
+2-11	67-78	Autofahrern	_	
+2-12	79-86	ständig	_	
+2-13	87-90	ins	_	
+2-14	91-97	Gehege	_	

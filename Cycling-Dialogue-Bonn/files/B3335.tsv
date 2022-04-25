@@ -1,0 +1,50 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrbahnverängung gefährlich
+1-1	0-17	Fahrbahnverängung	_	
+1-2	18-28	gefährlich	_	
+
+#Text=An der Fahrbahnverengung aus Richtung Viktoriabrücke Richtung Baumschulallee wird permanent der Schutzstreifen für Radfahrer durch PKW/LKW geschnitten.
+2-1	31-33	An	_	
+2-2	34-37	der	_	
+2-3	38-55	Fahrbahnverengung	_	
+2-4	56-59	aus	*[4]	
+2-5	60-68	Richtung	*[4]	
+2-6	69-83	Viktoriabrücke	*[4]	
+2-7	84-92	Richtung	*[4]	
+2-8	93-107	Baumschulallee	*[4]	
+2-9	108-112	wird	_	
+2-10	113-122	permanent	_	
+2-11	123-126	der	_	
+2-12	127-141	Schutzstreifen	_	
+2-13	142-145	für	_	
+2-14	146-155	Radfahrer	_	
+2-15	156-161	durch	_	
+2-16	162-165	PKW	_	
+2-17	165-166	/	_	
+2-18	166-169	LKW	_	
+2-19	170-181	geschnitten	_	
+2-20	181-182	.	_	
+
+#Text=Vorschlag: Fahrspur noch deutlicher hervorheben oder z.B. durch Poller, Warnbaken o.ä. abgrenzen.
+3-1	183-192	Vorschlag	_	
+3-2	192-193	:	_	
+3-3	194-202	Fahrspur	_	
+3-4	203-207	noch	_	
+3-5	208-218	deutlicher	_	
+3-6	219-230	hervorheben	_	
+3-7	231-235	oder	_	
+3-8	236-239	z.B	_	
+3-9	239-240	.	_	
+3-10	241-246	durch	_	
+3-11	247-253	Poller	_	
+3-12	253-254	,	_	
+3-13	255-264	Warnbaken	_	
+3-14	265-268	o.ä	_	
+3-15	268-269	.	_	
+3-16	270-279	abgrenzen	_	
+3-17	279-280	.	_	

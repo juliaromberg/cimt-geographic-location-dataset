@@ -1,0 +1,39 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hindernis durch Poller, die keinen Sinn ergeben!
+1-1	0-9	Hindernis	_	
+1-2	10-15	durch	_	
+1-3	16-22	Poller	_	
+1-4	22-23	,	_	
+1-5	24-27	die	_	
+1-6	28-34	keinen	_	
+1-7	35-39	Sinn	_	
+1-8	40-47	ergeben	_	
+1-9	47-48	!	_	
+
+#Text=Mit Fahrradanhänger kaum eine Möglichkeit die Unterführung zu nutzen, welchen Sinn machen die Poller, wen sollen sie abhalten?
+2-1	51-54	Mit	_	
+2-2	55-70	Fahrradanhänger	_	
+2-3	71-75	kaum	_	
+2-4	76-80	eine	_	
+2-5	81-92	Möglichkeit	_	
+2-6	93-96	die	_	
+2-7	97-109	Unterführung	_	
+2-8	110-112	zu	_	
+2-9	113-119	nutzen	_	
+2-10	119-120	,	_	
+2-11	121-128	welchen	_	
+2-12	129-133	Sinn	_	
+2-13	134-140	machen	_	
+2-14	141-144	die	_	
+2-15	145-151	Poller	_	
+2-16	151-152	,	_	
+2-17	153-156	wen	_	
+2-18	157-163	sollen	_	
+2-19	164-167	sie	_	
+2-20	168-176	abhalten	_	
+2-21	176-177	?	_	

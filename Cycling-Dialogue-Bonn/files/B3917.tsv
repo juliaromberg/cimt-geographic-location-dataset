@@ -1,0 +1,28 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg, Rheinaue, rechtsrheinisch
+1-1	0-6	Radweg	_	
+1-2	6-7	,	_	
+1-3	8-16	Rheinaue	*[3]	
+1-4	16-17	,	*[3]	
+1-5	18-33	rechtsrheinisch	*[3]	
+
+#Text=Der Radweg in der Rheinaue rechtrheinisch ist nördlich der Suedbruecke viel zu schmal.
+2-1	36-39	Der	*[4]	
+2-2	40-46	Radweg	*[4]	
+2-3	47-49	in	*[4]	
+2-4	50-53	der	*[4]	
+2-5	54-62	Rheinaue	*[4]	
+2-6	63-77	rechtrheinisch	*[4]	
+2-7	78-81	ist	*[4]	
+2-8	82-90	nördlich	*[4]	
+2-9	91-94	der	*[4]	
+2-10	95-106	Suedbruecke	*[4]	
+2-11	107-111	viel	_	
+2-12	112-114	zu	_	
+2-13	115-121	schmal	_	
+2-14	121-122	.	_	

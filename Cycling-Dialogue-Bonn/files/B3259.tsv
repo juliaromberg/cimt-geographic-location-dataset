@@ -1,0 +1,51 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg für beide Richtungen
+1-1	0-6	Radweg	_	
+1-2	7-10	für	_	
+1-3	11-16	beide	_	
+1-4	17-27	Richtungen	_	
+
+#Text=Der Überweg ist hier 4,5m breit, darf aber regulär nur von Radfahrern Richtung Graurheindorf genutzt werden.
+2-1	30-33	Der	_	
+2-2	34-41	Überweg	_	
+2-3	42-45	ist	_	
+2-4	46-50	hier	_	
+2-5	51-55	4,5m	_	
+2-6	56-61	breit	_	
+2-7	61-62	,	_	
+2-8	63-67	darf	_	
+2-9	68-72	aber	_	
+2-10	73-80	regulär	_	
+2-11	81-84	nur	_	
+2-12	85-88	von	_	
+2-13	89-99	Radfahrern	_	
+2-14	100-108	Richtung	*[4]	
+2-15	109-122	Graurheindorf	*[4]	
+2-16	123-130	genutzt	_	
+2-17	131-137	werden	_	
+2-18	137-138	.	_	
+
+#Text=Da die nächsten Überwege sehr weit entfernt sind sollte hier eine Radfahrerfurt für beide Richtungen eingerichtet werden.
+3-1	139-141	Da	_	
+3-2	142-145	die	_	
+3-3	146-154	nächsten	_	
+3-4	155-163	Überwege	_	
+3-5	164-168	sehr	_	
+3-6	169-173	weit	_	
+3-7	174-182	entfernt	_	
+3-8	183-187	sind	_	
+3-9	188-194	sollte	_	
+3-10	195-199	hier	_	
+3-11	200-204	eine	_	
+3-12	205-218	Radfahrerfurt	_	
+3-13	219-222	für	_	
+3-14	223-228	beide	_	
+3-15	229-239	Richtungen	_	
+3-16	240-252	eingerichtet	_	
+3-17	253-259	werden	_	
+3-18	259-260	.	_	

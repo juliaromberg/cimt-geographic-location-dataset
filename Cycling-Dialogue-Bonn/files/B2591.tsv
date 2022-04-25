@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Freigabe der Einbahnstraße für Radfahrer in Gegenrichtung
+1-1	0-8	Freigabe	_	
+1-2	9-12	der	_	
+1-3	13-26	Einbahnstraße	_	
+1-4	27-30	für	_	
+1-5	31-40	Radfahrer	_	
+1-6	41-43	in	_	
+1-7	44-57	Gegenrichtung	_	
+
+#Text=Insbesondere wegen der langen Sperrung des Weges an der Baustelle Haltepunkt Bonn UN Campus ist eine Freigabe der Einbahnstraße Moselweg für Radfahrer in Gegenrichtung überfällig!
+2-1	60-72	Insbesondere	_	
+2-2	73-78	wegen	_	
+2-3	79-82	der	_	
+2-4	83-89	langen	_	
+2-5	90-98	Sperrung	_	
+2-6	99-102	des	_	
+2-7	103-108	Weges	_	
+2-8	109-111	an	*[3]	
+2-9	112-115	der	*[3]	
+2-10	116-125	Baustelle	*[3]	
+2-11	126-136	Haltepunkt	*[3]	
+2-12	137-141	Bonn	*[3]	
+2-13	142-144	UN	*[3]	
+2-14	145-151	Campus	*[3]	
+2-15	152-155	ist	_	
+2-16	156-160	eine	_	
+2-17	161-169	Freigabe	_	
+2-18	170-173	der	_	
+2-19	174-187	Einbahnstraße	*[4]	
+2-20	188-196	Moselweg	*[4]	
+2-21	197-200	für	_	
+2-22	201-210	Radfahrer	_	
+2-23	211-213	in	_	
+2-24	214-227	Gegenrichtung	_	
+2-25	228-238	überfällig	_	
+2-26	238-239	!	_	

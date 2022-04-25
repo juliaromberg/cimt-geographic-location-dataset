@@ -1,0 +1,105 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Extreme Engstelle Radfahrer-Auto, Radweg überfällig
+1-1	0-7	Extreme	_	
+1-2	8-17	Engstelle	_	
+1-3	18-32	Radfahrer-Auto	_	
+1-4	32-33	,	_	
+1-5	34-40	Radweg	_	
+1-6	41-51	überfällig	_	
+
+#Text=Auf der Robert-Koch-Straße ist bergauf die Fahrbahn zwischen Ecke Heinrich-Lützeler-Str. und Ecke Im Wingert sehr schmal.
+2-1	54-57	Auf	*[7]	
+2-2	58-61	der	*[7]	
+2-3	62-80	Robert-Koch-Straße	*[7]	
+2-4	81-84	ist	_	
+2-5	85-92	bergauf	_	
+2-6	93-96	die	_	
+2-7	97-105	Fahrbahn	_	
+2-8	106-114	zwischen	*[8]	
+2-9	115-119	Ecke	*[8]	
+2-10	120-141	Heinrich-Lützeler-Str	*[8]	
+2-11	141-142	.	*[8]	
+2-12	143-146	und	*[8]	
+2-13	147-151	Ecke	*[8]	
+2-14	152-154	Im	*[8]	
+2-15	155-162	Wingert	*[8]	
+2-16	163-167	sehr	_	
+2-17	168-174	schmal	_	
+2-18	174-175	.	_	
+
+#Text=Dadurch werden Radfahrer oft ohne den nötigen Abstand überholt und nach rechts abgedrängt.
+3-1	176-183	Dadurch	_	
+3-2	184-190	werden	_	
+3-3	191-200	Radfahrer	_	
+3-4	201-204	oft	_	
+3-5	205-209	ohne	_	
+3-6	210-213	den	_	
+3-7	214-221	nötigen	_	
+3-8	222-229	Abstand	_	
+3-9	230-238	überholt	_	
+3-10	239-242	und	_	
+3-11	243-247	nach	_	
+3-12	248-254	rechts	_	
+3-13	255-265	abgedrängt	_	
+3-14	265-266	.	_	
+
+#Text=Dazu kommt das Abbremsen der Autos vor der Ampel Ecke Im Wingert.
+4-1	267-271	Dazu	_	
+4-2	272-277	kommt	_	
+4-3	278-281	das	_	
+4-4	282-291	Abbremsen	_	
+4-5	292-295	der	_	
+4-6	296-301	Autos	_	
+4-7	302-305	vor	*[9]	
+4-8	306-309	der	*[9]	
+4-9	310-315	Ampel	*[9]	
+4-10	316-320	Ecke	*[9]	
+4-11	321-323	Im	*[9]	
+4-12	324-331	Wingert	*[9]	
+4-13	331-332	.	_	
+
+#Text=Auf den Gehweg kann man auch nicht ausweichen, weil hier die Autos diesen meist komplett breit zuparken.
+5-1	333-336	Auf	_	
+5-2	337-340	den	_	
+5-3	341-347	Gehweg	_	
+5-4	348-352	kann	_	
+5-5	353-356	man	_	
+5-6	357-361	auch	_	
+5-7	362-367	nicht	_	
+5-8	368-378	ausweichen	_	
+5-9	378-379	,	_	
+5-10	380-384	weil	_	
+5-11	385-389	hier	_	
+5-12	390-393	die	_	
+5-13	394-399	Autos	_	
+5-14	400-406	diesen	_	
+5-15	407-412	meist	_	
+5-16	413-421	komplett	_	
+5-17	422-427	breit	_	
+5-18	428-436	zuparken	_	
+5-19	436-437	.	_	
+
+#Text=Hier müsste zumindest bergauf ein Radweg angelegt werden, um das hohe Gefahrenpotential für Radfahrer zu entschärfen.
+6-1	438-442	Hier	_	
+6-2	443-449	müsste	_	
+6-3	450-459	zumindest	_	
+6-4	460-467	bergauf	_	
+6-5	468-471	ein	_	
+6-6	472-478	Radweg	_	
+6-7	479-487	angelegt	_	
+6-8	488-494	werden	_	
+6-9	494-495	,	_	
+6-10	496-498	um	_	
+6-11	499-502	das	_	
+6-12	503-507	hohe	_	
+6-13	508-525	Gefahrenpotential	_	
+6-14	526-529	für	_	
+6-15	530-539	Radfahrer	_	
+6-16	540-542	zu	_	
+6-17	543-554	entschärfen	_	
+6-18	554-555	.	_	

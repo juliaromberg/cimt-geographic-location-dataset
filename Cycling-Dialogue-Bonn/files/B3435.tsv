@@ -1,0 +1,58 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Poller sind Sicherheitsrisiko
+1-1	0-6	Poller	_	
+1-2	7-11	sind	_	
+1-3	12-29	Sicherheitsrisiko	_	
+
+#Text=Die dunklen Poller auf dem Radweg sind bei Dunkelheit nicht sichtbar.
+2-1	32-35	Die	_	
+2-2	36-43	dunklen	_	
+2-3	44-50	Poller	_	
+2-4	51-54	auf	_	
+2-5	55-58	dem	_	
+2-6	59-65	Radweg	_	
+2-7	66-70	sind	_	
+2-8	71-74	bei	_	
+2-9	75-85	Dunkelheit	_	
+2-10	86-91	nicht	_	
+2-11	92-100	sichtbar	_	
+2-12	100-101	.	_	
+
+#Text=Sie haben zwar oben weiße Häubchen, aber Fahrradscheinwerfer beleuchten nur den unteren Teil.
+3-1	102-105	Sie	_	
+3-2	106-111	haben	_	
+3-3	112-116	zwar	_	
+3-4	117-121	oben	_	
+3-5	122-127	weiße	_	
+3-6	128-136	Häubchen	_	
+3-7	136-137	,	_	
+3-8	138-142	aber	_	
+3-9	143-162	Fahrradscheinwerfer	_	
+3-10	163-173	beleuchten	_	
+3-11	174-177	nur	_	
+3-12	178-181	den	_	
+3-13	182-189	unteren	_	
+3-14	190-194	Teil	_	
+3-15	194-195	.	_	
+
+#Text=Vorschlag: Alle derartigen Poller im Stadtgebiet mit rot-weißem, stark reflektierendem Anstrich versehen.
+4-1	196-205	Vorschlag	_	
+4-2	205-206	:	_	
+4-3	207-211	Alle	_	
+4-4	212-222	derartigen	_	
+4-5	223-229	Poller	_	
+4-6	230-232	im	_	
+4-7	233-244	Stadtgebiet	_	
+4-8	245-248	mit	_	
+4-9	249-259	rot-weißem	_	
+4-10	259-260	,	_	
+4-11	261-266	stark	_	
+4-12	267-282	reflektierendem	_	
+4-13	283-291	Anstrich	_	
+4-14	292-300	versehen	_	
+4-15	300-301	.	_	

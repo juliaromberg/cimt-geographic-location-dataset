@@ -1,0 +1,148 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=ABSCHLEPPEN
+1-1	0-11	ABSCHLEPPEN	_	
+
+#Text=Es steht ausreichen Infrastruktur zur Verfügung, um in Ehrenfeld Rad zu fahren wie es sonst nur in Holland möglich ist.
+2-1	14-16	Es	_	
+2-2	17-22	steht	_	
+2-3	23-33	ausreichen	_	
+2-4	34-47	Infrastruktur	_	
+2-5	48-51	zur	_	
+2-6	52-61	Verfügung	_	
+2-7	61-62	,	_	
+2-8	63-65	um	_	
+2-9	66-68	in	*[7]	
+2-10	69-78	Ehrenfeld	*[7]	
+2-11	79-82	Rad	_	
+2-12	83-85	zu	_	
+2-13	86-92	fahren	_	
+2-14	93-96	wie	_	
+2-15	97-99	es	_	
+2-16	100-105	sonst	_	
+2-17	106-109	nur	_	
+2-18	110-112	in	_	
+2-19	113-120	Holland	_	
+2-20	121-128	möglich	_	
+2-21	129-132	ist	_	
+2-22	132-133	.	_	
+
+#Text=Das Problem ist, dass alles zugeparkt ist und es einfach keinen Ordnungs- und Verkehrsdienst gibt.
+3-1	134-137	Das	_	
+3-2	138-145	Problem	_	
+3-3	146-149	ist	_	
+3-4	149-150	,	_	
+3-5	151-155	dass	_	
+3-6	156-161	alles	_	
+3-7	162-171	zugeparkt	_	
+3-8	172-175	ist	_	
+3-9	176-179	und	_	
+3-10	180-182	es	_	
+3-11	183-190	einfach	_	
+3-12	191-197	keinen	_	
+3-13	198-206	Ordnungs	_	
+3-14	206-207	-	_	
+3-15	208-211	und	_	
+3-16	212-226	Verkehrsdienst	_	
+3-17	227-231	gibt	_	
+3-18	231-232	.	_	
+
+#Text=Und solange sich daran nichts ändert, ist jede noch so tolle neue Infrastruktur oder freigegebene Einbahnstraße komplett für den Eimer!
+4-1	233-236	Und	_	
+4-2	237-244	solange	_	
+4-3	245-249	sich	_	
+4-4	250-255	daran	_	
+4-5	256-262	nichts	_	
+4-6	263-269	ändert	_	
+4-7	269-270	,	_	
+4-8	271-274	ist	_	
+4-9	275-279	jede	_	
+4-10	280-284	noch	_	
+4-11	285-287	so	_	
+4-12	288-293	tolle	_	
+4-13	294-298	neue	_	
+4-14	299-312	Infrastruktur	_	
+4-15	313-317	oder	_	
+4-16	318-330	freigegebene	_	
+4-17	331-344	Einbahnstraße	_	
+4-18	345-353	komplett	_	
+4-19	354-357	für	_	
+4-20	358-361	den	_	
+4-21	362-367	Eimer	_	
+4-22	367-368	!	_	
+
+#Text=Ich empfinde diese Platform als Beleidigung.
+5-1	369-372	Ich	_	
+5-2	373-381	empfinde	_	
+5-3	382-387	diese	_	
+5-4	388-396	Platform	_	
+5-5	397-400	als	_	
+5-6	401-412	Beleidigung	_	
+5-7	412-413	.	_	
+
+#Text=Es liegt schließlich auf der Hand.
+6-1	414-416	Es	_	
+6-2	417-422	liegt	_	
+6-3	423-434	schließlich	_	
+6-4	435-438	auf	_	
+6-5	439-442	der	_	
+6-6	443-447	Hand	_	
+6-7	447-448	.	_	
+
+#Text=Die Meldungen bei sagsuns sind voll, bei Twitter und Facebook ist Köln als #autogerechtestadt bekannt und wenn man online einen Falschparker melden will, bekommt man eine E-Mail zurück, die einem sagt dass das Postfach der Stadt voll, ist weil zuviele Meldungen eingehen (!!!)
+7-1	449-452	Die	_	
+7-2	453-462	Meldungen	_	
+7-3	463-466	bei	_	
+7-4	467-474	sagsuns	_	
+7-5	475-479	sind	_	
+7-6	480-484	voll	_	
+7-7	484-485	,	_	
+7-8	486-489	bei	_	
+7-9	490-497	Twitter	_	
+7-10	498-501	und	_	
+7-11	502-510	Facebook	_	
+7-12	511-514	ist	_	
+7-13	515-519	Köln	*	
+7-14	520-523	als	_	
+7-15	524-525	#	_	
+7-16	525-542	autogerechtestadt	_	
+7-17	543-550	bekannt	_	
+7-18	551-554	und	_	
+7-19	555-559	wenn	_	
+7-20	560-563	man	_	
+7-21	564-570	online	_	
+7-22	571-576	einen	_	
+7-23	577-589	Falschparker	_	
+7-24	590-596	melden	_	
+7-25	597-601	will	_	
+7-26	601-602	,	_	
+7-27	603-610	bekommt	_	
+7-28	611-614	man	_	
+7-29	615-619	eine	_	
+7-30	620-626	E-Mail	_	
+7-31	627-633	zurück	_	
+7-32	633-634	,	_	
+7-33	635-638	die	_	
+7-34	639-644	einem	_	
+7-35	645-649	sagt	_	
+7-36	650-654	dass	_	
+7-37	655-658	das	_	
+7-38	659-667	Postfach	_	
+7-39	668-671	der	_	
+7-40	672-677	Stadt	_	
+7-41	678-682	voll	_	
+7-42	682-683	,	_	
+7-43	684-687	ist	_	
+7-44	688-692	weil	_	
+7-45	693-700	zuviele	_	
+7-46	701-710	Meldungen	_	
+7-47	711-719	eingehen	_	
+7-48	720-721	(	_	
+7-49	721-722	!	_	
+7-50	722-723	!	_	
+7-51	723-724	!	_	
+7-52	724-725	)	_	

@@ -1,0 +1,70 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg = Warteraum Bushaltestelle
+1-1	0-10	Fahrradweg	_	
+1-2	11-12	=	_	
+1-3	13-22	Warteraum	_	
+1-4	23-37	Bushaltestelle	_	
+
+#Text=Dieser Fahrradweg verdient seinen Namen nicht.
+2-1	40-46	Dieser	_	
+2-2	47-57	Fahrradweg	_	
+2-3	58-66	verdient	_	
+2-4	67-73	seinen	_	
+2-5	74-79	Namen	_	
+2-6	80-85	nicht	_	
+2-7	85-86	.	_	
+
+#Text=Man muss vor der Bushaltestelle herfahren und die Wartenden warnen usw.
+3-1	87-90	Man	_	
+3-2	91-95	muss	_	
+3-3	96-99	vor	_	
+3-4	100-103	der	_	
+3-5	104-118	Bushaltestelle	_	
+3-6	119-128	herfahren	_	
+3-7	129-132	und	_	
+3-8	133-136	die	_	
+3-9	137-146	Wartenden	_	
+3-10	147-153	warnen	_	
+3-11	154-157	usw	_	
+3-12	157-158	.	_	
+
+#Text=Kurz davor teilt der Mast einer Straßenbeleuchtung den schon engen Weg, so dass man immer genau auf den Fahrweg achten muss.
+4-1	159-163	Kurz	_	
+4-2	164-169	davor	_	
+4-3	170-175	teilt	_	
+4-4	176-179	der	_	
+4-5	180-184	Mast	_	
+4-6	185-190	einer	_	
+4-7	191-209	Straßenbeleuchtung	_	
+4-8	210-213	den	_	
+4-9	214-219	schon	_	
+4-10	220-225	engen	_	
+4-11	226-229	Weg	_	
+4-12	229-230	,	_	
+4-13	231-233	so	_	
+4-14	234-238	dass	_	
+4-15	239-242	man	_	
+4-16	243-248	immer	_	
+4-17	249-254	genau	_	
+4-18	255-258	auf	_	
+4-19	259-262	den	_	
+4-20	263-270	Fahrweg	_	
+4-21	271-277	achten	_	
+4-22	278-282	muss	_	
+4-23	282-283	.	_	
+
+#Text=Der Fahrradweg muss hinter die Haltestelle verlegt werden.
+5-1	284-287	Der	_	
+5-2	288-298	Fahrradweg	_	
+5-3	299-303	muss	_	
+5-4	304-310	hinter	_	
+5-5	311-314	die	_	
+5-6	315-326	Haltestelle	_	
+5-7	327-334	verlegt	_	
+5-8	335-341	werden	_	
+5-9	341-342	.	_	

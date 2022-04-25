@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kopfsteinpflaster auf Fahrradweg ist bei Nässe sehr rutschig
+1-1	0-17	Kopfsteinpflaster	_	
+1-2	18-21	auf	_	
+1-3	22-32	Fahrradweg	_	
+1-4	33-36	ist	_	
+1-5	37-40	bei	_	
+1-6	41-46	Nässe	_	
+1-7	47-51	sehr	_	
+1-8	52-60	rutschig	_	
+
+#Text=Der Fahrradweg am Rhein besteht auf Höhe des alten Zolls am Zebrastreifen aus Kopfsteinpflaster.
+2-1	63-66	Der	_	
+2-2	67-77	Fahrradweg	_	
+2-3	78-80	am	_	
+2-4	81-86	Rhein	_	
+2-5	87-94	besteht	_	
+2-6	95-98	auf	_	
+2-7	99-103	Höhe	_	
+2-8	104-107	des	_	
+2-9	108-113	alten	_	
+2-10	114-119	Zolls	_	
+2-11	120-122	am	_	
+2-12	123-136	Zebrastreifen	_	
+2-13	137-140	aus	_	
+2-14	141-158	Kopfsteinpflaster	_	
+2-15	158-159	.	_	
+
+#Text=Dieses ist bei Nässe sehr rutschig und nicht geeignet als Untergrund für einen Fahrradweg.
+3-1	160-166	Dieses	_	
+3-2	167-170	ist	_	
+3-3	171-174	bei	_	
+3-4	175-180	Nässe	_	
+3-5	181-185	sehr	_	
+3-6	186-194	rutschig	_	
+3-7	195-198	und	_	
+3-8	199-204	nicht	_	
+3-9	205-213	geeignet	_	
+3-10	214-217	als	_	
+3-11	218-228	Untergrund	_	
+3-12	229-232	für	_	
+3-13	233-238	einen	_	
+3-14	239-249	Fahrradweg	_	
+3-15	249-250	.	_	

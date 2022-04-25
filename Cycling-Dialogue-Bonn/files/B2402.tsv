@@ -1,0 +1,199 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=keiner hält sich an Fahrradstraßen-Regelung
+1-1	0-6	keiner	_	
+1-2	7-11	hält	_	
+1-3	12-16	sich	_	
+1-4	17-19	an	_	
+1-5	20-43	Fahrradstraßen-Regelung	_	
+
+#Text=Der Florentiusgraben ist als Fahrradstraße beschildert, allerdings haben Fahrräder hier nur in seltenen Fällen Vorfahrt.
+2-1	46-49	Der	*[11]	
+2-2	50-66	Florentiusgraben	*[11]	
+2-3	67-70	ist	_	
+2-4	71-74	als	_	
+2-5	75-88	Fahrradstraße	_	
+2-6	89-100	beschildert	_	
+2-7	100-101	,	_	
+2-8	102-112	allerdings	_	
+2-9	113-118	haben	_	
+2-10	119-128	Fahrräder	_	
+2-11	129-133	hier	_	
+2-12	134-137	nur	_	
+2-13	138-140	in	_	
+2-14	141-149	seltenen	_	
+2-15	150-156	Fällen	_	
+2-16	157-165	Vorfahrt	_	
+2-17	165-166	.	_	
+
+#Text=Für breite Karossen, plus ein Fahrrad ist hier kaum Platz.
+3-1	167-170	Für	_	
+3-2	171-177	breite	_	
+3-3	178-186	Karossen	_	
+3-4	186-187	,	_	
+3-5	188-192	plus	_	
+3-6	193-196	ein	_	
+3-7	197-204	Fahrrad	_	
+3-8	205-208	ist	_	
+3-9	209-213	hier	_	
+3-10	214-218	kaum	_	
+3-11	219-224	Platz	_	
+3-12	224-225	.	_	
+
+#Text=Oft rasen besonders Taxis so schnell durch die Straßen, dass wir schon ein paar mal gestriffen wurden bzw vom Rad springen mussten.
+4-1	226-229	Oft	_	
+4-2	230-235	rasen	_	
+4-3	236-245	besonders	_	
+4-4	246-251	Taxis	_	
+4-5	252-254	so	_	
+4-6	255-262	schnell	_	
+4-7	263-268	durch	_	
+4-8	269-272	die	_	
+4-9	273-280	Straßen	_	
+4-10	280-281	,	_	
+4-11	282-286	dass	_	
+4-12	287-290	wir	_	
+4-13	291-296	schon	_	
+4-14	297-300	ein	_	
+4-15	301-305	paar	_	
+4-16	306-309	mal	_	
+4-17	310-320	gestriffen	_	
+4-18	321-327	wurden	_	
+4-19	328-331	bzw	_	
+4-20	332-335	vom	_	
+4-21	336-339	Rad	_	
+4-22	340-348	springen	_	
+4-23	349-356	mussten	_	
+4-24	356-357	.	_	
+
+#Text=Autofahrer verstehen auch nicht, dass die Kopfstein-Pflaster-Rinne für Fahrräder nicht geeignet ist bzw. warum nicht der Fußweg nicht mit genutzt wird.
+5-1	358-368	Autofahrer	_	
+5-2	369-378	verstehen	_	
+5-3	379-383	auch	_	
+5-4	384-389	nicht	_	
+5-5	389-390	,	_	
+5-6	391-395	dass	_	
+5-7	396-399	die	_	
+5-8	400-424	Kopfstein-Pflaster-Rinne	_	
+5-9	425-428	für	_	
+5-10	429-438	Fahrräder	_	
+5-11	439-444	nicht	_	
+5-12	445-453	geeignet	_	
+5-13	454-457	ist	_	
+5-14	458-461	bzw	_	
+5-15	461-462	.	_	
+5-16	463-468	warum	_	
+5-17	469-474	nicht	_	
+5-18	475-478	der	_	
+5-19	479-485	Fußweg	_	
+5-20	486-491	nicht	_	
+5-21	492-495	mit	_	
+5-22	496-503	genutzt	_	
+5-23	504-508	wird	_	
+5-24	508-509	.	_	
+
+#Text=Anders kann ich nicht verstehen, warum sie nciht versuchen aus zu weichen.
+6-1	510-516	Anders	_	
+6-2	517-521	kann	_	
+6-3	522-525	ich	_	
+6-4	526-531	nicht	_	
+6-5	532-541	verstehen	_	
+6-6	541-542	,	_	
+6-7	543-548	warum	_	
+6-8	549-552	sie	_	
+6-9	553-558	nciht	_	
+6-10	559-568	versuchen	_	
+6-11	569-572	aus	_	
+6-12	573-575	zu	_	
+6-13	576-583	weichen	_	
+6-14	583-584	.	_	
+
+#Text=Autos, die in die [Supermarkt]-Garage wollen blockieren regelmäßig die gesamte Straße, sodass Fußgänger und Radfahrer warten müssen.
+7-1	585-590	Autos	_	
+7-2	590-591	,	_	
+7-3	592-595	die	_	
+7-4	596-598	in	_	
+7-5	599-602	die	_	
+7-6	603-604	[	_	
+7-7	604-614	Supermarkt	_	
+7-8	614-615	]	_	
+7-9	615-616	-	_	
+7-10	616-622	Garage	_	
+7-11	623-629	wollen	_	
+7-12	630-640	blockieren	_	
+7-13	641-651	regelmäßig	_	
+7-14	652-655	die	_	
+7-15	656-663	gesamte	_	
+7-16	664-670	Straße	_	
+7-17	670-671	,	_	
+7-18	672-678	sodass	_	
+7-19	679-688	Fußgänger	_	
+7-20	689-692	und	_	
+7-21	693-702	Radfahrer	_	
+7-22	703-709	warten	_	
+7-23	710-716	müssen	_	
+7-24	716-717	.	_	
+
+#Text=Mein Vorschlag: Mehr Überwachung des Tempolimits und der Einhaltung des Vorfahrtgebots für Radfahrer.
+8-1	718-722	Mein	_	
+8-2	723-732	Vorschlag	_	
+8-3	732-733	:	_	
+8-4	734-738	Mehr	_	
+8-5	739-750	Überwachung	_	
+8-6	751-754	des	_	
+8-7	755-766	Tempolimits	_	
+8-8	767-770	und	_	
+8-9	771-774	der	_	
+8-10	775-785	Einhaltung	_	
+8-11	786-789	des	_	
+8-12	790-804	Vorfahrtgebots	_	
+8-13	805-808	für	_	
+8-14	809-818	Radfahrer	_	
+8-15	818-819	.	_	
+
+#Text=Vor allem Taxis mit Lizenzentzug drohen.
+9-1	820-823	Vor	_	
+9-2	824-829	allem	_	
+9-3	830-835	Taxis	_	
+9-4	836-839	mit	_	
+9-5	840-852	Lizenzentzug	_	
+9-6	853-859	drohen	_	
+9-7	859-860	.	_	
+
+#Text=[Supermarkt] darauf hinweisen, dass sie ihre Tore öffnen müssen, bevor sie in die Straße einbiegen und ggf auch hier Bußgeldbescheide (z.b. wegen Parken im Halteverbot)
+10-1	861-862	[	_	
+10-2	862-872	Supermarkt	_	
+10-3	872-873	]	_	
+10-4	874-880	darauf	_	
+10-5	881-890	hinweisen	_	
+10-6	890-891	,	_	
+10-7	892-896	dass	_	
+10-8	897-900	sie	_	
+10-9	901-905	ihre	_	
+10-10	906-910	Tore	_	
+10-11	911-917	öffnen	_	
+10-12	918-924	müssen	_	
+10-13	924-925	,	_	
+10-14	926-931	bevor	_	
+10-15	932-935	sie	_	
+10-16	936-938	in	_	
+10-17	939-942	die	_	
+10-18	943-949	Straße	_	
+10-19	950-959	einbiegen	_	
+10-20	960-963	und	_	
+10-21	964-967	ggf	_	
+10-22	968-972	auch	_	
+10-23	973-977	hier	_	
+10-24	978-994	Bußgeldbescheide	_	
+10-25	995-996	(	_	
+10-26	996-999	z.b	_	
+10-27	999-1000	.	_	
+10-28	1001-1006	wegen	_	
+10-29	1007-1013	Parken	_	
+10-30	1014-1016	im	_	
+10-31	1017-1028	Halteverbot	_	
+10-32	1028-1029	)	_	

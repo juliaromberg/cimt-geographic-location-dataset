@@ -1,0 +1,109 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hinweisschild auf querende Radfahrer für einbiegende Kraftfahrer
+1-1	0-13	Hinweisschild	_	
+1-2	14-17	auf	_	
+1-3	18-26	querende	_	
+1-4	27-36	Radfahrer	_	
+1-5	37-40	für	_	
+1-6	41-52	einbiegende	_	
+1-7	53-64	Kraftfahrer	_	
+
+#Text=Hinweisschild für einmündende Kraftfahrer auf querende Radfahrer von der Reichststraße.
+2-1	67-80	Hinweisschild	_	
+2-2	81-84	für	_	
+2-3	85-96	einmündende	_	
+2-4	97-108	Kraftfahrer	_	
+2-5	109-112	auf	_	
+2-6	113-121	querende	_	
+2-7	122-131	Radfahrer	_	
+2-8	132-135	von	*[5]	
+2-9	136-139	der	*[5]	
+2-10	140-153	Reichststraße	*[5]	
+2-11	153-154	.	*[5]	
+
+#Text=Meistens stellen sich wartende Kraftfahrzeuge auf den Radweg der Reichsstr. bevor sie, von der Max-Braubach-Str. kommend, (Richtung Lngsdorf oder Rottgen) einbiegen und zwingen die Radfahrer auf der Reichstr. zum Anhalten oder Ausweichen auf die Fahrbahn.
+3-1	155-163	Meistens	_	
+3-2	164-171	stellen	_	
+3-3	172-176	sich	_	
+3-4	177-185	wartende	_	
+3-5	186-200	Kraftfahrzeuge	_	
+3-6	201-204	auf	*[6]	
+3-7	205-208	den	*[6]	
+3-8	209-215	Radweg	*[6]	
+3-9	216-219	der	*[6]	
+3-10	220-229	Reichsstr	*[6]	
+3-11	229-230	.	_	
+3-12	231-236	bevor	_	
+3-13	237-240	sie	_	
+3-14	240-241	,	_	
+3-15	242-245	von	*[7]	
+3-16	246-249	der	*[7]	
+3-17	250-266	Max-Braubach-Str	*[7]	
+3-18	266-267	.	*[7]	
+3-19	268-275	kommend	*[7]	
+3-20	275-276	,	*[7]	
+3-21	277-278	(	*[7]	
+3-22	278-286	Richtung	*[7]	
+3-23	287-295	Lngsdorf	*[7]	
+3-24	296-300	oder	*[7]	
+3-25	301-308	Rottgen	*[7]	
+3-26	308-309	)	*[7]	
+3-27	310-319	einbiegen	*[7]	
+3-28	320-323	und	_	
+3-29	324-331	zwingen	_	
+3-30	332-335	die	_	
+3-31	336-345	Radfahrer	_	
+3-32	346-349	auf	*[8]	
+3-33	350-353	der	*[8]	
+3-34	354-362	Reichstr	*[8]	
+3-35	362-363	.	*[8]	
+3-36	364-367	zum	_	
+3-37	368-376	Anhalten	_	
+3-38	377-381	oder	_	
+3-39	382-392	Ausweichen	_	
+3-40	393-396	auf	_	
+3-41	397-400	die	_	
+3-42	401-409	Fahrbahn	_	
+3-43	409-410	.	_	
+
+#Text=Hier wurde beim Abbiegen eines PKW ein Radfahrer am 11.10.2017 schwer verletzt (http://www.general-anzeiger-bonn.de/bonn/hardtberg/39-j%C3%A4hriger-E-Bike-Fahrer-in-Bonn-lebensgef%C3%A4hrlich-verletzt-article3675487.html)
+4-1	411-415	Hier	_	
+4-2	416-421	wurde	_	
+4-3	422-426	beim	_	
+4-4	427-435	Abbiegen	_	
+4-5	436-441	eines	_	
+4-6	442-445	PKW	_	
+4-7	446-449	ein	_	
+4-8	450-459	Radfahrer	_	
+4-9	460-462	am	_	
+4-10	463-473	11.10.2017	_	
+4-11	474-480	schwer	_	
+4-12	481-489	verletzt	_	
+4-13	490-491	(	_	
+4-14	491-495	http	_	
+4-15	495-496	:	_	
+4-16	496-497	/	_	
+4-17	497-498	/	_	
+4-18	498-526	www.general-anzeiger-bonn.de	_	
+4-19	526-527	/	_	
+4-20	527-531	bonn	_	
+4-21	531-532	/	_	
+4-22	532-541	hardtberg	_	
+4-23	541-542	/	_	
+4-24	542-544	39	_	
+4-25	544-545	-	_	
+4-26	545-546	j	_	
+4-27	546-547	%	_	
+4-28	547-550	C3%	_	
+4-29	550-590	A4hriger-E-Bike-Fahrer-in-Bonn-lebensgef	_	
+4-30	590-591	%	_	
+4-31	591-594	C3%	_	
+4-32	594-626	A4hrlich-verletzt-article3675487	_	
+4-33	626-627	.	_	
+4-34	627-631	html	_	
+4-35	631-632	)	_	

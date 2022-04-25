@@ -1,0 +1,95 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Oft zugewachsener Radweg und starke Unebenheiten durch Wurzel
+1-1	0-3	Oft	_	
+1-2	4-17	zugewachsener	_	
+1-3	18-24	Radweg	_	
+1-4	25-28	und	_	
+1-5	29-35	starke	_	
+1-6	36-48	Unebenheiten	_	
+1-7	49-54	durch	_	
+1-8	55-61	Wurzel	_	
+
+#Text=Dieser Radweg ist eigentlich sehr gut, nur leider ist er häufig enger, da die Brombeerranken und sonstige Bepflanzung den Weg verengen und nur sehr selten geschnitten werden.
+2-1	64-70	Dieser	_	
+2-2	71-77	Radweg	_	
+2-3	78-81	ist	_	
+2-4	82-92	eigentlich	_	
+2-5	93-97	sehr	_	
+2-6	98-101	gut	_	
+2-7	101-102	,	_	
+2-8	103-106	nur	_	
+2-9	107-113	leider	_	
+2-10	114-117	ist	_	
+2-11	118-120	er	_	
+2-12	121-127	häufig	_	
+2-13	128-133	enger	_	
+2-14	133-134	,	_	
+2-15	135-137	da	_	
+2-16	138-141	die	_	
+2-17	142-156	Brombeerranken	_	
+2-18	157-160	und	_	
+2-19	161-169	sonstige	_	
+2-20	170-181	Bepflanzung	_	
+2-21	182-185	den	_	
+2-22	186-189	Weg	_	
+2-23	190-198	verengen	_	
+2-24	199-202	und	_	
+2-25	203-206	nur	_	
+2-26	207-211	sehr	_	
+2-27	212-218	selten	_	
+2-28	219-230	geschnitten	_	
+2-29	231-237	werden	_	
+2-30	237-238	.	_	
+
+#Text=Außerdem ist dort durch eine Wurzel der Asphalt stark angehoben und aufgerissen.
+3-1	239-247	Außerdem	_	
+3-2	248-251	ist	_	
+3-3	252-256	dort	_	
+3-4	257-262	durch	_	
+3-5	263-267	eine	_	
+3-6	268-274	Wurzel	_	
+3-7	275-278	der	_	
+3-8	279-286	Asphalt	_	
+3-9	287-292	stark	_	
+3-10	293-302	angehoben	_	
+3-11	303-306	und	_	
+3-12	307-318	aufgerissen	_	
+3-13	318-319	.	_	
+
+#Text=Bei Gegenverkehr kann man nicht ausweichen und fährt über diesen starken Defekt und läuft Gefahr sich die Felgen oder Speichen kaputt zu fahren!
+4-1	320-323	Bei	_	
+4-2	324-336	Gegenverkehr	_	
+4-3	337-341	kann	_	
+4-4	342-345	man	_	
+4-5	346-351	nicht	_	
+4-6	352-362	ausweichen	_	
+4-7	363-366	und	_	
+4-8	367-372	fährt	_	
+4-9	373-377	über	_	
+4-10	378-384	diesen	_	
+4-11	385-392	starken	_	
+4-12	393-399	Defekt	_	
+4-13	400-403	und	_	
+4-14	404-409	läuft	_	
+4-15	410-416	Gefahr	_	
+4-16	417-421	sich	_	
+4-17	422-425	die	_	
+4-18	426-432	Felgen	_	
+4-19	433-437	oder	_	
+4-20	438-446	Speichen	_	
+4-21	447-453	kaputt	_	
+4-22	454-456	zu	_	
+4-23	457-463	fahren	_	
+4-24	463-464	!	_	
+
+#Text=Bitte unbedingt ausbessern!!
+5-1	465-470	Bitte	_	
+5-2	471-480	unbedingt	_	
+5-3	481-491	ausbessern	_	
+5-4	491-492	!	_	
+5-5	492-493	!	_	

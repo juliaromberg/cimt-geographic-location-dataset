@@ -1,0 +1,66 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Querung der Niederkasseler Strasse mit dem Fahrrad
+1-1	0-7	Querung	*[4]	
+1-2	8-11	der	*[4]	
+1-3	12-26	Niederkasseler	*[4]	
+1-4	27-34	Strasse	*[4]	
+1-5	35-38	mit	_	
+1-6	39-42	dem	_	
+1-7	43-50	Fahrrad	_	
+
+#Text=Der Rheinradweg von Bonn Richtung Niederkassel rechtsrheinisch ist durch die Niederkasseler Strasse völlig durchgeteilt, man wartet pro Strecke zwei mal sehr lange, anstatt es eine Möglichkeit der Überfahrt über beide Straßen gibt.
+2-1	53-56	Der	*[5]	
+2-2	57-68	Rheinradweg	*[5]	
+2-3	69-72	von	*[5]	
+2-4	73-77	Bonn	*[5]	
+2-5	78-86	Richtung	*[5]	
+2-6	87-99	Niederkassel	*[5]	
+2-7	100-115	rechtsrheinisch	_	
+2-8	116-119	ist	_	
+2-9	120-125	durch	*[6]	
+2-10	126-129	die	*[6]	
+2-11	130-144	Niederkasseler	*[6]	
+2-12	145-152	Strasse	*[6]	
+2-13	153-159	völlig	_	
+2-14	160-172	durchgeteilt	_	
+2-15	172-173	,	_	
+2-16	174-177	man	_	
+2-17	178-184	wartet	_	
+2-18	185-188	pro	_	
+2-19	189-196	Strecke	_	
+2-20	197-201	zwei	_	
+2-21	202-205	mal	_	
+2-22	206-210	sehr	_	
+2-23	211-216	lange	_	
+2-24	216-217	,	_	
+2-25	218-225	anstatt	_	
+2-26	226-228	es	_	
+2-27	229-233	eine	_	
+2-28	234-245	Möglichkeit	_	
+2-29	246-249	der	_	
+2-30	250-259	Überfahrt	_	
+2-31	260-264	über	_	
+2-32	265-270	beide	_	
+2-33	271-278	Straßen	_	
+2-34	279-283	gibt	_	
+2-35	283-284	.	_	
+
+#Text=Alternativ sollte die Strecke von der Rheinbrücke bis zur Siegfähre ausgebaut werden.
+3-1	285-295	Alternativ	_	
+3-2	296-302	sollte	_	
+3-3	303-306	die	_	
+3-4	307-314	Strecke	_	
+3-5	315-318	von	*[7]	
+3-6	319-322	der	*[7]	
+3-7	323-334	Rheinbrücke	*[7]	
+3-8	335-338	bis	*[7]	
+3-9	339-342	zur	*[7]	
+3-10	343-352	Siegfähre	*[7]	
+3-11	353-362	ausgebaut	_	
+3-12	363-369	werden	_	
+3-13	369-370	.	_	

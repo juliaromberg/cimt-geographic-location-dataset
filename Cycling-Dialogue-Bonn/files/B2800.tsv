@@ -1,0 +1,97 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Tunnel gefährlich
+1-1	0-6	Tunnel	_	
+1-2	7-17	gefährlich	_	
+
+#Text=Der Tunnel ist für Radfahrer und besonders für Frauen eine äußerst gefährliche Angelegenheit: Unbewacht, keine Infrastruktur in der Nähe falls man Hilfe braucht, auf der anderen Seite im Park die Drogenabhängigen, die oft im Tunnel ihre Notdurft verrichten.
+2-1	20-23	Der	_	
+2-2	24-30	Tunnel	_	
+2-3	31-34	ist	_	
+2-4	35-38	für	_	
+2-5	39-48	Radfahrer	_	
+2-6	49-52	und	_	
+2-7	53-62	besonders	_	
+2-8	63-66	für	_	
+2-9	67-73	Frauen	_	
+2-10	74-78	eine	_	
+2-11	79-86	äußerst	_	
+2-12	87-98	gefährliche	_	
+2-13	99-112	Angelegenheit	_	
+2-14	112-113	:	_	
+2-15	114-123	Unbewacht	_	
+2-16	123-124	,	_	
+2-17	125-130	keine	_	
+2-18	131-144	Infrastruktur	_	
+2-19	145-147	in	_	
+2-20	148-151	der	_	
+2-21	152-156	Nähe	_	
+2-22	157-162	falls	_	
+2-23	163-166	man	_	
+2-24	167-172	Hilfe	_	
+2-25	173-180	braucht	_	
+2-26	180-181	,	_	
+2-27	182-185	auf	_	
+2-28	186-189	der	_	
+2-29	190-197	anderen	_	
+2-30	198-203	Seite	_	
+2-31	204-206	im	_	
+2-32	207-211	Park	_	
+2-33	212-215	die	_	
+2-34	216-232	Drogenabhängigen	_	
+2-35	232-233	,	_	
+2-36	234-237	die	_	
+2-37	238-241	oft	_	
+2-38	242-244	im	_	
+2-39	245-251	Tunnel	_	
+2-40	252-256	ihre	_	
+2-41	257-265	Notdurft	_	
+2-42	266-276	verrichten	_	
+2-43	276-277	.	_	
+
+#Text=Die Alternative, um an dieser Stelle auf die andere Seite der Bahnstrecke zu gelangen, ist ebenfalls gefährlich, wenn man von Süden nach Norden fährt, da es auf der Brücke keinerlei Regelung für Radfahrer Richtung Norden gibt.
+3-1	278-281	Die	_	
+3-2	282-293	Alternative	_	
+3-3	293-294	,	_	
+3-4	295-297	um	_	
+3-5	298-300	an	_	
+3-6	301-307	dieser	_	
+3-7	308-314	Stelle	_	
+3-8	315-318	auf	_	
+3-9	319-322	die	_	
+3-10	323-329	andere	_	
+3-11	330-335	Seite	_	
+3-12	336-339	der	_	
+3-13	340-351	Bahnstrecke	_	
+3-14	352-354	zu	_	
+3-15	355-363	gelangen	_	
+3-16	363-364	,	_	
+3-17	365-368	ist	_	
+3-18	369-378	ebenfalls	_	
+3-19	379-389	gefährlich	_	
+3-20	389-390	,	_	
+3-21	391-395	wenn	_	
+3-22	396-399	man	_	
+3-23	400-403	von	_	
+3-24	404-409	Süden	_	
+3-25	410-414	nach	_	
+3-26	415-421	Norden	_	
+3-27	422-427	fährt	_	
+3-28	427-428	,	_	
+3-29	429-431	da	_	
+3-30	432-434	es	_	
+3-31	435-438	auf	_	
+3-32	439-442	der	_	
+3-33	443-449	Brücke	_	
+3-34	450-459	keinerlei	_	
+3-35	460-468	Regelung	_	
+3-36	469-472	für	_	
+3-37	473-482	Radfahrer	_	
+3-38	483-491	Richtung	_	
+3-39	492-498	Norden	_	
+3-40	499-503	gibt	_	
+3-41	503-504	.	_	

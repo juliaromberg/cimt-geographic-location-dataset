@@ -1,0 +1,137 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Haltelinie für KfZ, die in die Kennedyalle einbiegen
+1-1	0-10	Haltelinie	_	
+1-2	11-14	für	_	
+1-3	15-18	KfZ	_	
+1-4	18-19	,	_	
+1-5	20-23	die	_	
+1-6	24-26	in	*[8]	
+1-7	27-30	die	*[8]	
+1-8	31-42	Kennedyalle	*[8]	
+1-9	43-52	einbiegen	*[8]	
+
+#Text=Fahrzeuge die aus Richtung Rheinaue nach links in die Kennedyallee abbiegen fahren oft weit in die Kreuzung und schon teilweise in die Spur des Gegenverkehrs.
+2-1	55-64	Fahrzeuge	_	
+2-2	65-68	die	_	
+2-3	69-72	aus	*[9]	
+2-4	73-81	Richtung	*[9]	
+2-5	82-90	Rheinaue	*[9]	
+2-6	91-95	nach	*[9]	
+2-7	96-101	links	*[9]	
+2-8	102-104	in	*[9]	
+2-9	105-108	die	*[9]	
+2-10	109-121	Kennedyallee	*[9]	
+2-11	122-130	abbiegen	*[9]	
+2-12	131-137	fahren	_	
+2-13	138-141	oft	_	
+2-14	142-146	weit	_	
+2-15	147-149	in	_	
+2-16	150-153	die	_	
+2-17	154-162	Kreuzung	_	
+2-18	163-166	und	_	
+2-19	167-172	schon	_	
+2-20	173-182	teilweise	_	
+2-21	183-185	in	_	
+2-22	186-189	die	_	
+2-23	190-194	Spur	_	
+2-24	195-198	des	_	
+2-25	199-212	Gegenverkehrs	_	
+2-26	212-213	.	_	
+
+#Text=Das führt dazu, dass die Autofahrer aus Plittersdorf nach Rechts ausweichen ohne Rücksicht auf neben Ihnen fahrende Radfahrer zu nehmen.
+3-1	214-217	Das	_	
+3-2	218-223	führt	_	
+3-3	224-228	dazu	_	
+3-4	228-229	,	_	
+3-5	230-234	dass	_	
+3-6	235-238	die	_	
+3-7	239-249	Autofahrer	_	
+3-8	250-253	aus	*[10]	
+3-9	254-266	Plittersdorf	*[10]	
+3-10	267-271	nach	*[10]	
+3-11	272-278	Rechts	*[10]	
+3-12	279-289	ausweichen	*[10]	
+3-13	290-294	ohne	_	
+3-14	295-304	Rücksicht	_	
+3-15	305-308	auf	_	
+3-16	309-314	neben	_	
+3-17	315-320	Ihnen	_	
+3-18	321-329	fahrende	_	
+3-19	330-339	Radfahrer	_	
+3-20	340-342	zu	_	
+3-21	343-349	nehmen	_	
+3-22	349-350	.	_	
+
+#Text=Regelmässig werde ich hier gegen den Bordstein abgedrängt.
+4-1	351-362	Regelmässig	_	
+4-2	363-368	werde	_	
+4-3	369-372	ich	_	
+4-4	373-377	hier	_	
+4-5	378-383	gegen	_	
+4-6	384-387	den	_	
+4-7	388-397	Bordstein	_	
+4-8	398-408	abgedrängt	_	
+4-9	408-409	.	_	
+
+#Text=Das zu weite Einfahren in die Kreuzung kann durch eine Fahrbahnmarkierung für die Linksabbieger reduziert werden.
+5-1	410-413	Das	_	
+5-2	414-416	zu	_	
+5-3	417-422	weite	_	
+5-4	423-432	Einfahren	_	
+5-5	433-435	in	_	
+5-6	436-439	die	_	
+5-7	440-448	Kreuzung	_	
+5-8	449-453	kann	_	
+5-9	454-459	durch	_	
+5-10	460-464	eine	_	
+5-11	465-483	Fahrbahnmarkierung	_	
+5-12	484-487	für	_	
+5-13	488-491	die	_	
+5-14	492-505	Linksabbieger	_	
+5-15	506-515	reduziert	_	
+5-16	516-522	werden	_	
+5-17	522-523	.	_	
+
+#Text=Damit sollte auch die Frequenz des Abdrängens von Radfahrern und das Risiko von Unfällen vermindert werden.
+6-1	524-529	Damit	_	
+6-2	530-536	sollte	_	
+6-3	537-541	auch	_	
+6-4	542-545	die	_	
+6-5	546-554	Frequenz	_	
+6-6	555-558	des	_	
+6-7	559-569	Abdrängens	_	
+6-8	570-573	von	_	
+6-9	574-584	Radfahrern	_	
+6-10	585-588	und	_	
+6-11	589-592	das	_	
+6-12	593-599	Risiko	_	
+6-13	600-603	von	_	
+6-14	604-612	Unfällen	_	
+6-15	613-623	vermindert	_	
+6-16	624-630	werden	_	
+6-17	630-631	.	_	
+
+#Text=Am Hochkreuz hat man die Linksabbiegerspuren markiert - aber dort will man auch Autofahrer vor Autofahrern schützen.
+7-1	632-634	Am	_	
+7-2	635-644	Hochkreuz	_	
+7-3	645-648	hat	_	
+7-4	649-652	man	_	
+7-5	653-656	die	_	
+7-6	657-676	Linksabbiegerspuren	_	
+7-7	677-685	markiert	_	
+7-8	686-687	-	_	
+7-9	688-692	aber	_	
+7-10	693-697	dort	_	
+7-11	698-702	will	_	
+7-12	703-706	man	_	
+7-13	707-711	auch	_	
+7-14	712-722	Autofahrer	_	
+7-15	723-726	vor	_	
+7-16	727-738	Autofahrern	_	
+7-17	739-747	schützen	_	
+7-18	747-748	.	_	

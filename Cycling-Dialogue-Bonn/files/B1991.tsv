@@ -1,0 +1,83 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreuzung für Radverkehr ausbauen/Kreuzungsmöglichkeit verbessern.
+1-1	0-8	Kreuzung	_	
+1-2	9-12	für	_	
+1-3	13-23	Radverkehr	_	
+1-4	24-32	ausbauen	_	
+1-5	32-33	/	_	
+1-6	33-53	Kreuzungsmöglichkeit	_	
+1-7	54-64	verbessern	_	
+1-8	64-65	.	_	
+
+#Text=Denkt man sich die Burbacher Straße mit der Kessenicher Straße als Nord-Süd-Achse für den Fahrradverkehr, ergibt sich hier eine ideale Chance diese Achse in die Südstadt zu verlängern.
+2-1	68-73	Denkt	_	
+2-2	74-77	man	_	
+2-3	78-82	sich	_	
+2-4	83-86	die	*[5]	
+2-5	87-96	Burbacher	*[5]	
+2-6	97-103	Straße	*[5]	
+2-7	104-107	mit	*[5]	
+2-8	108-111	der	*[5]	
+2-9	112-123	Kessenicher	*[5]	
+2-10	124-130	Straße	*[5]	
+2-11	131-134	als	*[5]	
+2-12	135-149	Nord-Süd-Achse	*[5]	
+2-13	150-153	für	_	
+2-14	154-157	den	_	
+2-15	158-172	Fahrradverkehr	_	
+2-16	172-173	,	_	
+2-17	174-180	ergibt	_	
+2-18	181-185	sich	_	
+2-19	186-190	hier	_	
+2-20	191-195	eine	_	
+2-21	196-202	ideale	_	
+2-22	203-209	Chance	_	
+2-23	210-215	diese	_	
+2-24	216-221	Achse	_	
+2-25	222-224	in	*[6]	
+2-26	225-228	die	*[6]	
+2-27	229-237	Südstadt	*[6]	
+2-28	238-240	zu	_	
+2-29	241-251	verlängern	_	
+2-30	251-252	.	_	
+
+#Text=Dafür muss die Kreuzung aber fahrradfreundlicher werden und sich in einem Zug überqueren lassen.
+3-1	253-258	Dafür	_	
+3-2	259-263	muss	_	
+3-3	264-267	die	_	
+3-4	268-276	Kreuzung	_	
+3-5	277-281	aber	_	
+3-6	282-301	fahrradfreundlicher	_	
+3-7	302-308	werden	_	
+3-8	309-312	und	_	
+3-9	313-317	sich	_	
+3-10	318-320	in	_	
+3-11	321-326	einem	_	
+3-12	327-330	Zug	_	
+3-13	331-341	überqueren	_	
+3-14	342-348	lassen	_	
+3-15	348-349	.	_	
+
+#Text=Zudem sollte sie aus beiden Richtungen von den Radwegen der Reuterstraße Abbiegemöglichkeiten auf die Nord-Süd-Achse bestehen.
+4-1	350-355	Zudem	_	
+4-2	356-362	sollte	_	
+4-3	363-366	sie	_	
+4-4	367-370	aus	*[7]	
+4-5	371-377	beiden	*[7]	
+4-6	378-388	Richtungen	*[7]	
+4-7	389-392	von	*[7]	
+4-8	393-396	den	*[7]	
+4-9	397-405	Radwegen	*[7]	
+4-10	406-409	der	*[7]	
+4-11	410-422	Reuterstraße	*[7]	
+4-12	423-443	Abbiegemöglichkeiten	_	
+4-13	444-447	auf	_	
+4-14	448-451	die	_	
+4-15	452-466	Nord-Süd-Achse	_	
+4-16	467-475	bestehen	_	
+4-17	475-476	.	_	

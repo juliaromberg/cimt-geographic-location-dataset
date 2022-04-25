@@ -1,0 +1,151 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Autofahrer nutzen Fußweg als Ausweichfahrspur
+1-1	0-10	Autofahrer	_	
+1-2	11-17	nutzen	_	
+1-3	18-24	Fußweg	_	
+1-4	25-28	als	_	
+1-5	29-45	Ausweichfahrspur	_	
+
+#Text=In Vilich-Müldorf nutzen Autofahrer in den (durchaus engen) Kurven der Wilfried-Hatzfeld-Str.
+2-1	48-50	In	*[7]	
+2-2	51-65	Vilich-Müldorf	*[7]	
+2-3	66-72	nutzen	_	
+2-4	73-83	Autofahrer	_	
+2-5	84-86	in	_	
+2-6	87-90	den	_	
+2-7	91-92	(	_	
+2-8	92-100	durchaus	_	
+2-9	101-106	engen	_	
+2-10	106-107	)	_	
+2-11	108-114	Kurven	_	
+2-12	115-118	der	_	
+2-13	119-140	Wilfried-Hatzfeld-Str	*	
+2-14	140-141	.	_	
+
+#Text=(sowohl an der Seite Dorothea-Erxleben-Weg als auch an der anderen Seite am Buschweg) gerne den Fußweg als Zusatzfahrspur, wenn sie Gegenverkehr haben.
+3-1	142-143	(	_	
+3-2	143-149	sowohl	_	
+3-3	150-152	an	*[8]	
+3-4	153-156	der	*[8]	
+3-5	157-162	Seite	*[8]	
+3-6	163-184	Dorothea-Erxleben-Weg	*[8]	
+3-7	185-188	als	*[8]	
+3-8	189-193	auch	*[8]	
+3-9	194-196	an	*[8]	
+3-10	197-200	der	*[8]	
+3-11	201-208	anderen	*[8]	
+3-12	209-214	Seite	*[8]	
+3-13	215-217	am	*[8]	
+3-14	218-226	Buschweg	*[8]	
+3-15	226-227	)	_	
+3-16	228-233	gerne	_	
+3-17	234-237	den	_	
+3-18	238-244	Fußweg	_	
+3-19	245-248	als	_	
+3-20	249-263	Zusatzfahrspur	_	
+3-21	263-264	,	_	
+3-22	265-269	wenn	_	
+3-23	270-273	sie	_	
+3-24	274-286	Gegenverkehr	_	
+3-25	287-292	haben	_	
+3-26	292-293	.	_	
+
+#Text=Führen sie langsamer, müssten sie das nicht machen.
+4-1	294-300	Führen	_	
+4-2	301-304	sie	_	
+4-3	305-314	langsamer	_	
+4-4	314-315	,	_	
+4-5	316-323	müssten	_	
+4-6	324-327	sie	_	
+4-7	328-331	das	_	
+4-8	332-337	nicht	_	
+4-9	338-344	machen	_	
+4-10	344-345	.	_	
+
+#Text=Besonders an der Seite Dorothea-Erxleben-Weg können sie - von Osten kommend - nicht sehen, ob vielleicht ein Kind auf dem Fahrrad oder auch nur ein*e schnelle*r Fußgänger*in auf dem Gehweg in Gegenrichtung unterwegs ist.
+5-1	346-355	Besonders	_	
+5-2	356-358	an	*[9]	
+5-3	359-362	der	*[9]	
+5-4	363-368	Seite	*[9]	
+5-5	369-390	Dorothea-Erxleben-Weg	*[9]	
+5-6	391-397	können	_	
+5-7	398-401	sie	_	
+5-8	402-403	-	_	
+5-9	404-407	von	_	
+5-10	408-413	Osten	_	
+5-11	414-421	kommend	_	
+5-12	422-423	-	_	
+5-13	424-429	nicht	_	
+5-14	430-435	sehen	_	
+5-15	435-436	,	_	
+5-16	437-439	ob	_	
+5-17	440-450	vielleicht	_	
+5-18	451-454	ein	_	
+5-19	455-459	Kind	_	
+5-20	460-463	auf	_	
+5-21	464-467	dem	_	
+5-22	468-475	Fahrrad	_	
+5-23	476-480	oder	_	
+5-24	481-485	auch	_	
+5-25	486-489	nur	_	
+5-26	490-493	ein	_	
+5-27	493-494	*	_	
+5-28	494-495	e	_	
+5-29	496-504	schnelle	_	
+5-30	504-505	*	_	
+5-31	505-506	r	_	
+5-32	507-516	Fußgänger	_	
+5-33	516-517	*	_	
+5-34	517-519	in	_	
+5-35	520-523	auf	_	
+5-36	524-527	dem	_	
+5-37	528-534	Gehweg	_	
+5-38	535-537	in	_	
+5-39	538-551	Gegenrichtung	_	
+5-40	552-561	unterwegs	_	
+5-41	562-565	ist	_	
+5-42	565-566	.	_	
+
+#Text=Vielleicht wäre es eine Lösung, den Gehweg auf der Ecke mit einem Blumenkübel o.ä. zu versehen oder einem kleinen Absperrgitter, dass die Fußgänger und Radfahrer aber nicht am Weg zur Haltestelle behindern sollte.
+6-1	567-577	Vielleicht	_	
+6-2	578-582	wäre	_	
+6-3	583-585	es	_	
+6-4	586-590	eine	_	
+6-5	591-597	Lösung	_	
+6-6	597-598	,	_	
+6-7	599-602	den	_	
+6-8	603-609	Gehweg	_	
+6-9	610-613	auf	_	
+6-10	614-617	der	_	
+6-11	618-622	Ecke	_	
+6-12	623-626	mit	_	
+6-13	627-632	einem	_	
+6-14	633-644	Blumenkübel	_	
+6-15	645-648	o.ä	_	
+6-16	648-649	.	_	
+6-17	650-652	zu	_	
+6-18	653-661	versehen	_	
+6-19	662-666	oder	_	
+6-20	667-672	einem	_	
+6-21	673-680	kleinen	_	
+6-22	681-694	Absperrgitter	_	
+6-23	694-695	,	_	
+6-24	696-700	dass	_	
+6-25	701-704	die	_	
+6-26	705-714	Fußgänger	_	
+6-27	715-718	und	_	
+6-28	719-728	Radfahrer	_	
+6-29	729-733	aber	_	
+6-30	734-739	nicht	_	
+6-31	740-742	am	_	
+6-32	743-746	Weg	_	
+6-33	747-750	zur	_	
+6-34	751-762	Haltestelle	_	
+6-35	763-772	behindern	_	
+6-36	773-779	sollte	_	
+6-37	779-780	.	_	

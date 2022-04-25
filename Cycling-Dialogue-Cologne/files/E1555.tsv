@@ -1,0 +1,84 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sehr enge und unbersichtliche Kreuzung
+1-1	0-4	Sehr	_	
+1-2	5-9	enge	_	
+1-3	10-13	und	_	
+1-4	14-29	unbersichtliche	_	
+1-5	30-38	Kreuzung	_	
+
+#Text=Die Ecken vor allem an der zur Innenstadt hin liegenden Seite des Gürtels Ecke Subbelrather sind unglaublich eng und unübersichtlich.
+2-1	41-44	Die	*[6]	
+2-2	45-50	Ecken	*[6]	
+2-3	51-54	vor	*[6]	
+2-4	55-60	allem	*[6]	
+2-5	61-63	an	*[6]	
+2-6	64-67	der	*[6]	
+2-7	68-71	zur	*[6]	
+2-8	72-82	Innenstadt	*[6]	
+2-9	83-86	hin	*[6]	
+2-10	87-96	liegenden	*[6]	
+2-11	97-102	Seite	*[6]	
+2-12	103-106	des	*[6]	
+2-13	107-114	Gürtels	*[6]	
+2-14	115-119	Ecke	*[6]	
+2-15	120-132	Subbelrather	*[6]	
+2-16	133-137	sind	_	
+2-17	138-149	unglaublich	_	
+2-18	150-153	eng	_	
+2-19	154-157	und	_	
+2-20	158-173	unübersichtlich	_	
+2-21	173-174	.	_	
+
+#Text=Winziger Rad- und Fußweg, dann die Abbieger dazu.
+3-1	175-183	Winziger	_	
+3-2	184-187	Rad	_	
+3-3	187-188	-	_	
+3-4	189-192	und	_	
+3-5	193-199	Fußweg	_	
+3-6	199-200	,	_	
+3-7	201-205	dann	_	
+3-8	206-209	die	_	
+3-9	210-218	Abbieger	_	
+3-10	219-223	dazu	_	
+3-11	223-224	.	_	
+
+#Text=Der Fahrradweg aber auch Fußgängerweg müsste drastisch verbessert und vor allem verbreitert werden!
+4-1	225-228	Der	_	
+4-2	229-239	Fahrradweg	_	
+4-3	240-244	aber	_	
+4-4	245-249	auch	_	
+4-5	250-262	Fußgängerweg	_	
+4-6	263-269	müsste	_	
+4-7	270-279	drastisch	_	
+4-8	280-290	verbessert	_	
+4-9	291-294	und	_	
+4-10	295-298	vor	_	
+4-11	299-304	allem	_	
+4-12	305-316	verbreitert	_	
+4-13	317-323	werden	_	
+4-14	323-324	!	_	
+
+#Text=Hier knubbelt es sich ständig mit Fußgängern, Kinderwagen, Kindern auf Rollern und Rädern und Radfahrern!
+5-1	325-329	Hier	_	
+5-2	330-338	knubbelt	_	
+5-3	339-341	es	_	
+5-4	342-346	sich	_	
+5-5	347-354	ständig	_	
+5-6	355-358	mit	_	
+5-7	359-369	Fußgängern	_	
+5-8	369-370	,	_	
+5-9	371-382	Kinderwagen	_	
+5-10	382-383	,	_	
+5-11	384-391	Kindern	_	
+5-12	392-395	auf	_	
+5-13	396-403	Rollern	_	
+5-14	404-407	und	_	
+5-15	408-414	Rädern	_	
+5-16	415-418	und	_	
+5-17	419-429	Radfahrern	_	
+5-18	429-430	!	_	

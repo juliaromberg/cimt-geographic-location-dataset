@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Benutzungspflicht nicht sinnvoll
+1-1	0-17	Benutzungspflicht	_	
+1-2	18-23	nicht	_	
+1-3	24-32	sinnvoll	_	
+
+#Text=Die Benutzungspflicht des Gehwegs für Radfahrer in diesem kurzen Abschnitt ist eher verwirrend und führt am Knoten Limpericher Str./Auf dem Grendt (Fahrtrichtung Nord-West) zum gefährlichen Einfädeln auf die Limpericher Str.
+2-1	35-38	Die	_	
+2-2	39-56	Benutzungspflicht	_	
+2-3	57-60	des	_	
+2-4	61-68	Gehwegs	_	
+2-5	69-72	für	_	
+2-6	73-82	Radfahrer	_	
+2-7	83-85	in	_	
+2-8	86-92	diesem	_	
+2-9	93-99	kurzen	_	
+2-10	100-109	Abschnitt	_	
+2-11	110-113	ist	_	
+2-12	114-118	eher	_	
+2-13	119-129	verwirrend	_	
+2-14	130-133	und	_	
+2-15	134-139	führt	_	
+2-16	140-142	am	*[3]	
+2-17	143-149	Knoten	*[3]	
+2-18	150-161	Limpericher	*[3]	
+2-19	162-165	Str	*[3]	
+2-20	165-166	.	*[3]	
+2-21	166-167	/	*[3]	
+2-22	167-170	Auf	*[3]	
+2-23	171-174	dem	*[3]	
+2-24	175-181	Grendt	*[3]	
+2-25	182-183	(	*[3]	
+2-26	183-196	Fahrtrichtung	*[3]	
+2-27	197-206	Nord-West	*[3]	
+2-28	206-207	)	*[3]	
+2-29	208-211	zum	_	
+2-30	212-224	gefährlichen	_	
+2-31	225-234	Einfädeln	_	
+2-32	235-238	auf	*[4]	
+2-33	239-242	die	*[4]	
+2-34	243-254	Limpericher	*[4]	
+2-35	255-258	Str	*[4]	
+2-36	258-259	.	*[4]	

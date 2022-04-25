@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bushaltestelle
+1-1	0-14	Bushaltestelle	_	
+
+#Text=Hier wird eine neue Bushaltestelle gabaut, damit es hübsch ist für die Klimakonferenz.
+2-1	17-21	Hier	_	
+2-2	22-26	wird	_	
+2-3	27-31	eine	_	
+2-4	32-36	neue	_	
+2-5	37-51	Bushaltestelle	_	
+2-6	52-58	gabaut	_	
+2-7	58-59	,	_	
+2-8	60-65	damit	_	
+2-9	66-68	es	_	
+2-10	69-75	hübsch	_	
+2-11	76-79	ist	_	
+2-12	80-83	für	_	
+2-13	84-87	die	_	
+2-14	88-102	Klimakonferenz	_	
+2-15	102-103	.	_	
+
+#Text=Die Passagiere werden demnächst direkt aus dem Bus auf den Radweg steigen.
+3-1	104-107	Die	_	
+3-2	108-118	Passagiere	_	
+3-3	119-125	werden	_	
+3-4	126-135	demnächst	_	
+3-5	136-142	direkt	_	
+3-6	143-146	aus	_	
+3-7	147-150	dem	_	
+3-8	151-154	Bus	_	
+3-9	155-158	auf	_	
+3-10	159-162	den	_	
+3-11	163-169	Radweg	_	
+3-12	170-177	steigen	_	
+3-13	177-178	.	_	
+
+#Text=Absolute Fehlplanung.
+4-1	179-187	Absolute	_	
+4-2	188-199	Fehlplanung	_	
+4-3	199-200	.	_	

@@ -1,0 +1,71 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlechte Verkehrsführung
+1-1	0-9	Schlechte	_	
+1-2	10-25	Verkehrsführung	_	
+
+#Text=Radfahrer dürfen zwar weiter in Richtung Rhein fahren, müssen aber absteigen, um den Konrad-Adenauer-Platz zu überqueren.
+2-1	28-37	Radfahrer	_	
+2-2	38-44	dürfen	_	
+2-3	45-49	zwar	_	
+2-4	50-56	weiter	_	
+2-5	57-59	in	_	
+2-6	60-68	Richtung	*[5]	
+2-7	69-74	Rhein	*[5]	
+2-8	75-81	fahren	_	
+2-9	81-82	,	_	
+2-10	83-89	müssen	_	
+2-11	90-94	aber	_	
+2-12	95-104	absteigen	_	
+2-13	104-105	,	_	
+2-14	106-108	um	_	
+2-15	109-112	den	_	
+2-16	113-134	Konrad-Adenauer-Platz	*[6]	
+2-17	135-137	zu	*[6]	
+2-18	138-148	überqueren	*[6]	
+2-19	148-149	.	_	
+
+#Text=Anstatt hier regelmässig Radfahrer zur Kasse zu bitten sollte die Verkehrsführung sinnvoller gestaltet werden.
+3-1	150-157	Anstatt	_	
+3-2	158-162	hier	_	
+3-3	163-174	regelmässig	_	
+3-4	175-184	Radfahrer	_	
+3-5	185-188	zur	_	
+3-6	189-194	Kasse	_	
+3-7	195-197	zu	_	
+3-8	198-204	bitten	_	
+3-9	205-211	sollte	_	
+3-10	212-215	die	_	
+3-11	216-231	Verkehrsführung	_	
+3-12	232-242	sinnvoller	_	
+3-13	243-252	gestaltet	_	
+3-14	253-259	werden	_	
+3-15	259-260	.	_	
+
+#Text=Das Argument man fährt sonst gegen die Verkehrsrichtung ist quatsch, da dass an jeder Y-Kreuzung dieser Welt der Fall ist.
+4-1	261-264	Das	_	
+4-2	265-273	Argument	_	
+4-3	274-277	man	_	
+4-4	278-283	fährt	_	
+4-5	284-289	sonst	_	
+4-6	290-295	gegen	_	
+4-7	296-299	die	_	
+4-8	300-316	Verkehrsrichtung	_	
+4-9	317-320	ist	_	
+4-10	321-328	quatsch	_	
+4-11	328-329	,	_	
+4-12	330-332	da	_	
+4-13	333-337	dass	_	
+4-14	338-340	an	_	
+4-15	341-346	jeder	_	
+4-16	347-357	Y-Kreuzung	_	
+4-17	358-364	dieser	_	
+4-18	365-369	Welt	_	
+4-19	370-373	der	_	
+4-20	374-378	Fall	_	
+4-21	379-382	ist	_	
+4-22	382-383	.	_	

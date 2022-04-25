@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Venusberg runter fahren
+1-1	0-9	Venusberg	*	
+1-2	10-16	runter	_	
+1-3	17-23	fahren	_	
+
+#Text=der rechte Gehweg, sollte für Fahrradfaher ausgeschildert und fahrbar gemacht werden, da den Berg runter auf der STraße eine hohe Sturzgefahr und dann auch Verkehrsunfall vorherrt.
+2-1	26-29	der	_	
+2-2	30-36	rechte	_	
+2-3	37-43	Gehweg	_	
+2-4	43-44	,	_	
+2-5	45-51	sollte	_	
+2-6	52-55	für	_	
+2-7	56-68	Fahrradfaher	_	
+2-8	69-83	ausgeschildert	_	
+2-9	84-87	und	_	
+2-10	88-95	fahrbar	_	
+2-11	96-103	gemacht	_	
+2-12	104-110	werden	_	
+2-13	110-111	,	_	
+2-14	112-114	da	_	
+2-15	115-118	den	_	
+2-16	119-123	Berg	_	
+2-17	124-130	runter	_	
+2-18	131-134	auf	_	
+2-19	135-138	der	_	
+2-20	139-145	STraße	_	
+2-21	146-150	eine	_	
+2-22	151-155	hohe	_	
+2-23	156-167	Sturzgefahr	_	
+2-24	168-171	und	_	
+2-25	172-176	dann	_	
+2-26	177-181	auch	_	
+2-27	182-196	Verkehrsunfall	_	
+2-28	197-205	vorherrt	_	
+2-29	205-206	.	_	
+
+#Text=Da müsste jedoch der Gehweg auch zu direser jahreszeit vom nassen Laub befreit werden.
+3-1	207-209	Da	_	
+3-2	210-216	müsste	_	
+3-3	217-223	jedoch	_	
+3-4	224-227	der	_	
+3-5	228-234	Gehweg	_	
+3-6	235-239	auch	_	
+3-7	240-242	zu	_	
+3-8	243-250	direser	_	
+3-9	251-261	jahreszeit	_	
+3-10	262-265	vom	_	
+3-11	266-272	nassen	_	
+3-12	273-277	Laub	_	
+3-13	278-285	befreit	_	
+3-14	286-292	werden	_	
+3-15	292-293	.	_	
+
+#Text=Un die Zufahrten auf dem Venusberg zum Gew´hweg abgeflacht und gezeichnet werden.
+4-1	294-296	Un	_	
+4-2	297-300	die	_	
+4-3	301-310	Zufahrten	*[5]	
+4-4	311-314	auf	*[5]	
+4-5	315-318	dem	*[5]	
+4-6	319-328	Venusberg	*[5]	
+4-7	329-332	zum	*[5]	
+4-8	333-336	Gew	*[5]	
+4-9	336-337	´	*[5]	
+4-10	337-341	hweg	*[5]	
+4-11	342-352	abgeflacht	_	
+4-12	353-356	und	_	
+4-13	357-367	gezeichnet	_	
+4-14	368-374	werden	_	
+4-15	374-375	.	_	

@@ -1,0 +1,96 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße
+1-1	0-13	Fahrradstraße	_	
+
+#Text=Die Lotharstraße in diesem Abschnitt sowie in Verlängerung der Bonner Talweg und die Nikolausstraße in Richtung Kessenich Zentrum (Kita und Grundschule!) sind Schulweg für viele Kinder mit Rollern oder Rädern.
+2-1	16-19	Die	*[4]	
+2-2	20-32	Lotharstraße	*[4]	
+2-3	33-35	in	_	
+2-4	36-42	diesem	_	
+2-5	43-52	Abschnitt	_	
+2-6	53-58	sowie	_	
+2-7	59-61	in	_	
+2-8	62-74	Verlängerung	_	
+2-9	75-78	der	*[5]	
+2-10	79-85	Bonner	*[5]	
+2-11	86-92	Talweg	*[5]	
+2-12	93-96	und	*[5]	
+2-13	97-100	die	*[5]	
+2-14	101-115	Nikolausstraße	*[5]	
+2-15	116-118	in	*[5]	
+2-16	119-127	Richtung	*[5]	
+2-17	128-137	Kessenich	*[5]	
+2-18	138-145	Zentrum	*[5]	
+2-19	146-147	(	_	
+2-20	147-151	Kita	_	
+2-21	152-155	und	_	
+2-22	156-167	Grundschule	_	
+2-23	167-168	!	_	
+2-24	168-169	)	_	
+2-25	170-174	sind	_	
+2-26	175-183	Schulweg	_	
+2-27	184-187	für	_	
+2-28	188-193	viele	_	
+2-29	194-200	Kinder	_	
+2-30	201-204	mit	_	
+2-31	205-212	Rollern	_	
+2-32	213-217	oder	_	
+2-33	218-224	Rädern	_	
+2-34	224-225	.	_	
+
+#Text=Die Gehwege sind aber durch parkende Autos viel zu schmal.
+3-1	226-229	Die	_	
+3-2	230-237	Gehwege	_	
+3-3	238-242	sind	_	
+3-4	243-247	aber	_	
+3-5	248-253	durch	_	
+3-6	254-262	parkende	_	
+3-7	263-268	Autos	_	
+3-8	269-273	viel	_	
+3-9	274-276	zu	_	
+3-10	277-283	schmal	_	
+3-11	283-284	.	_	
+
+#Text=Vorschlag: Fahrradstraße auf der gesamten Stecke von der Graf Stauffenbergstraße bis zur Pützstraße einrichten, damit die Kinder, aber auch alle anderen Anwohner sicher mit dem Rad zur Schule/in Kessenichs Zentrum kommen.
+4-1	285-294	Vorschlag	_	
+4-2	294-295	:	_	
+4-3	296-309	Fahrradstraße	_	
+4-4	310-313	auf	_	
+4-5	314-317	der	_	
+4-6	318-326	gesamten	_	
+4-7	327-333	Stecke	_	
+4-8	334-337	von	*[6]	
+4-9	338-341	der	*[6]	
+4-10	342-346	Graf	*[6]	
+4-11	347-365	Stauffenbergstraße	*[6]	
+4-12	366-369	bis	*[6]	
+4-13	370-373	zur	*[6]	
+4-14	374-384	Pützstraße	*[6]	
+4-15	385-395	einrichten	_	
+4-16	395-396	,	_	
+4-17	397-402	damit	_	
+4-18	403-406	die	_	
+4-19	407-413	Kinder	_	
+4-20	413-414	,	_	
+4-21	415-419	aber	_	
+4-22	420-424	auch	_	
+4-23	425-429	alle	_	
+4-24	430-437	anderen	_	
+4-25	438-446	Anwohner	_	
+4-26	447-453	sicher	_	
+4-27	454-457	mit	_	
+4-28	458-461	dem	_	
+4-29	462-465	Rad	_	
+4-30	466-469	zur	_	
+4-31	470-476	Schule	_	
+4-32	476-477	/	_	
+4-33	477-479	in	_	
+4-34	480-490	Kessenichs	*[7]	
+4-35	491-498	Zentrum	*[7]	
+4-36	499-505	kommen	_	
+4-37	505-506	.	_	

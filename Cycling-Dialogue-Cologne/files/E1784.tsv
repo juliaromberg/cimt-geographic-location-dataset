@@ -1,0 +1,112 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vogelsanger Straße zur Einbahnstraße umbauen
+1-1	0-11	Vogelsanger	*[6]	
+1-2	12-18	Straße	*[6]	
+1-3	19-22	zur	_	
+1-4	23-36	Einbahnstraße	_	
+1-5	37-44	umbauen	_	
+
+#Text=Ich sehe es einen großen Vorteil an einem Umbau der Vogelsanger und der Venloer Straße zu einer Einbahnstraße mit einem anständigen Radweg.
+2-1	47-50	Ich	_	
+2-2	51-55	sehe	_	
+2-3	56-58	es	_	
+2-4	59-64	einen	_	
+2-5	65-71	großen	_	
+2-6	72-79	Vorteil	_	
+2-7	80-82	an	_	
+2-8	83-88	einem	_	
+2-9	89-94	Umbau	_	
+2-10	95-98	der	_	
+2-11	99-110	Vogelsanger	*[7]	
+2-12	111-114	und	*[7]	
+2-13	115-118	der	*[7]	
+2-14	119-126	Venloer	*[7]	
+2-15	127-133	Straße	*[7]	
+2-16	134-136	zu	_	
+2-17	137-142	einer	_	
+2-18	143-156	Einbahnstraße	_	
+2-19	157-160	mit	_	
+2-20	161-166	einem	_	
+2-21	167-178	anständigen	_	
+2-22	179-185	Radweg	_	
+2-23	185-186	.	_	
+
+#Text=(Bsp. Venloer Stadt auswärts, Vogelsanger einwärts)
+3-1	187-188	(	_	
+3-2	188-191	Bsp	_	
+3-3	191-192	.	_	
+3-4	193-200	Venloer	*[8]	
+3-5	201-206	Stadt	*[8]	
+3-6	207-215	auswärts	*[8]	
+3-7	215-216	,	*[8]	
+3-8	217-228	Vogelsanger	*[8]	
+3-9	229-237	einwärts	*[8]	
+3-10	237-238	)	_	
+
+#Text=In der Venloer Straße staut sich der Verkehr durch rangierende Lkws und Fußgänger, während die Vogelsanger Straße zwischenzeitlich als Rennstrecke benutzt wird, da sie aus meiner Sicht nicht genug ausgelastet ist.
+4-1	239-241	In	*[9]	
+4-2	242-245	der	*[9]	
+4-3	246-253	Venloer	*[9]	
+4-4	254-260	Straße	*[9]	
+4-5	261-266	staut	_	
+4-6	267-271	sich	_	
+4-7	272-275	der	_	
+4-8	276-283	Verkehr	_	
+4-9	284-289	durch	_	
+4-10	290-301	rangierende	_	
+4-11	302-306	Lkws	_	
+4-12	307-310	und	_	
+4-13	311-320	Fußgänger	_	
+4-14	320-321	,	_	
+4-15	322-329	während	_	
+4-16	330-333	die	*[10]	
+4-17	334-345	Vogelsanger	*[10]	
+4-18	346-352	Straße	*[10]	
+4-19	353-369	zwischenzeitlich	_	
+4-20	370-373	als	_	
+4-21	374-385	Rennstrecke	_	
+4-22	386-393	benutzt	_	
+4-23	394-398	wird	_	
+4-24	398-399	,	_	
+4-25	400-402	da	_	
+4-26	403-406	sie	_	
+4-27	407-410	aus	_	
+4-28	411-417	meiner	_	
+4-29	418-423	Sicht	_	
+4-30	424-429	nicht	_	
+4-31	430-435	genug	_	
+4-32	436-447	ausgelastet	_	
+4-33	448-451	ist	_	
+4-34	451-452	.	_	
+
+#Text=die Vogelsanger Straße könnte dann sogar 2 Spurig gemacht werden und es wäre immer noch genügend Platz für eine anständige Fahrradspur von 2m Breite.
+5-1	453-456	die	*[11]	
+5-2	457-468	Vogelsanger	*[11]	
+5-3	469-475	Straße	*[11]	
+5-4	476-482	könnte	_	
+5-5	483-487	dann	_	
+5-6	488-493	sogar	_	
+5-7	494-495	2	_	
+5-8	496-502	Spurig	_	
+5-9	503-510	gemacht	_	
+5-10	511-517	werden	_	
+5-11	518-521	und	_	
+5-12	522-524	es	_	
+5-13	525-529	wäre	_	
+5-14	530-535	immer	_	
+5-15	536-540	noch	_	
+5-16	541-549	genügend	_	
+5-17	550-555	Platz	_	
+5-18	556-559	für	_	
+5-19	560-564	eine	_	
+5-20	565-575	anständige	_	
+5-21	576-587	Fahrradspur	_	
+5-22	588-591	von	_	
+5-23	592-594	2m	_	
+5-24	595-601	Breite	_	
+5-25	601-602	.	_	

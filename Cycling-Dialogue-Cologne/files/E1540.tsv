@@ -1,0 +1,24 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradparkplätze
+1-1	0-17	Fahrradparkplätze	_	
+
+#Text=An den Bahnhöfen Köln Ehrenfeld und Köln West fehlen ausreichende Fahrradparkplätze mit Anschließmöglichkeit.
+2-1	20-22	An	*[2]	
+2-2	23-26	den	*[2]	
+2-3	27-36	Bahnhöfen	*[2]	
+2-4	37-41	Köln	*[2]	
+2-5	42-51	Ehrenfeld	*[2]	
+2-6	52-55	und	*[2]	
+2-7	56-60	Köln	*[2]	
+2-8	61-65	West	*[2]	
+2-9	66-72	fehlen	_	
+2-10	73-85	ausreichende	_	
+2-11	86-103	Fahrradparkplätze	_	
+2-12	104-107	mit	_	
+2-13	108-128	Anschließmöglichkeit	_	
+2-14	128-129	.	_	

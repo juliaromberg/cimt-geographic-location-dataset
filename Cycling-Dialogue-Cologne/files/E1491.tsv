@@ -1,0 +1,150 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Venloer Strasse Ehrenfeld
+1-1	0-7	Venloer	*[10]	
+1-2	8-15	Strasse	*[10]	
+1-3	16-25	Ehrenfeld	*[10]	
+
+#Text=Ich bin morgens gegen 8:30 Uhr abends gegen 18:00 Uhr mit meinem Fahrrad unterwegs und mache den Vorschlag, die Venloer Strasse von der Moschee bis Ehrenfeldgürtel als Einbahnstrasse umzuwandeln.
+2-1	28-31	Ich	_	
+2-2	32-35	bin	_	
+2-3	36-43	morgens	_	
+2-4	44-49	gegen	_	
+2-5	50-51	8	_	
+2-6	51-52	:	_	
+2-7	52-54	30	_	
+2-8	55-58	Uhr	_	
+2-9	59-65	abends	_	
+2-10	66-71	gegen	_	
+2-11	72-74	18	_	
+2-12	74-75	:	_	
+2-13	75-77	00	_	
+2-14	78-81	Uhr	_	
+2-15	82-85	mit	_	
+2-16	86-92	meinem	_	
+2-17	93-100	Fahrrad	_	
+2-18	101-110	unterwegs	_	
+2-19	111-114	und	_	
+2-20	115-120	mache	_	
+2-21	121-124	den	_	
+2-22	125-134	Vorschlag	_	
+2-23	134-135	,	_	
+2-24	136-139	die	*[11]	
+2-25	140-147	Venloer	*[11]	
+2-26	148-155	Strasse	*[11]	
+2-27	156-159	von	*[11]	
+2-28	160-163	der	*[11]	
+2-29	164-171	Moschee	*[11]	
+2-30	172-175	bis	*[11]	
+2-31	176-191	Ehrenfeldgürtel	*[11]	
+2-32	192-195	als	_	
+2-33	196-210	Einbahnstrasse	_	
+2-34	211-222	umzuwandeln	_	
+2-35	222-223	.	_	
+
+#Text=Bitte beobachen Sie mal zu diesen Zeiten diesen Abschnitt.
+3-1	224-229	Bitte	_	
+3-2	230-239	beobachen	_	
+3-3	240-243	Sie	_	
+3-4	244-247	mal	_	
+3-5	248-250	zu	_	
+3-6	251-257	diesen	_	
+3-7	258-264	Zeiten	_	
+3-8	265-271	diesen	_	
+3-9	272-281	Abschnitt	_	
+3-10	281-282	.	_	
+
+#Text=Autofahrer, Radfahrer (langsame und Rennradfahrer), Fussgänger, Lieferantenfahrzeuge, Parkende Autos auf der Strasse... und fast jeder besteht auf sein Recht.
+4-1	283-293	Autofahrer	_	
+4-2	293-294	,	_	
+4-3	295-304	Radfahrer	_	
+4-4	305-306	(	_	
+4-5	306-314	langsame	_	
+4-6	315-318	und	_	
+4-7	319-332	Rennradfahrer	_	
+4-8	332-333	)	_	
+4-9	333-334	,	_	
+4-10	335-345	Fussgänger	_	
+4-11	345-346	,	_	
+4-12	347-367	Lieferantenfahrzeuge	_	
+4-13	367-368	,	_	
+4-14	369-377	Parkende	_	
+4-15	378-383	Autos	_	
+4-16	384-387	auf	_	
+4-17	388-391	der	_	
+4-18	392-399	Strasse	_	
+4-19	399-400	.	_	
+4-20	400-401	.	_	
+4-21	401-402	.	_	
+4-22	403-406	und	_	
+4-23	407-411	fast	_	
+4-24	412-417	jeder	_	
+4-25	418-425	besteht	_	
+4-26	426-429	auf	_	
+4-27	430-434	sein	_	
+4-28	435-440	Recht	_	
+4-29	440-441	.	_	
+
+#Text=Ein eigener Fahrradweg existiert zwar, allerdings befindet er sich auf der normalen Strasse, die dafür viel zu eng ist.
+5-1	442-445	Ein	_	
+5-2	446-453	eigener	_	
+5-3	454-464	Fahrradweg	_	
+5-4	465-474	existiert	_	
+5-5	475-479	zwar	_	
+5-6	479-480	,	_	
+5-7	481-491	allerdings	_	
+5-8	492-500	befindet	_	
+5-9	501-503	er	_	
+5-10	504-508	sich	_	
+5-11	509-512	auf	_	
+5-12	513-516	der	_	
+5-13	517-525	normalen	_	
+5-14	526-533	Strasse	_	
+5-15	533-534	,	_	
+5-16	535-538	die	_	
+5-17	539-544	dafür	_	
+5-18	545-549	viel	_	
+5-19	550-552	zu	_	
+5-20	553-556	eng	_	
+5-21	557-560	ist	_	
+5-22	560-561	.	_	
+
+#Text=Hier ist wirklich Handlungsbedarf!!!!
+6-1	562-566	Hier	_	
+6-2	567-570	ist	_	
+6-3	571-579	wirklich	_	
+6-4	580-595	Handlungsbedarf	_	
+6-5	595-596	!	_	
+6-6	596-597	!	_	
+6-7	597-598	!	_	
+6-8	598-599	!	_	
+
+#Text=Danke für die tolle Aktion.
+7-1	600-605	Danke	_	
+7-2	606-609	für	_	
+7-3	610-613	die	_	
+7-4	614-619	tolle	_	
+7-5	620-626	Aktion	_	
+7-6	626-627	.	_	
+
+#Text=Hoffentlich fruchtet auch was...
+8-1	628-639	Hoffentlich	_	
+8-2	640-648	fruchtet	_	
+8-3	649-653	auch	_	
+8-4	654-657	was	_	
+8-5	657-658	.	_	
+8-6	658-659	.	_	
+8-7	659-660	.	_	
+
+#Text=Viele Grüße, [Name entfernt]
+9-1	661-666	Viele	_	
+9-2	667-672	Grüße	_	
+9-3	672-673	,	_	
+9-4	674-675	[	_	
+9-5	675-679	Name	_	
+9-6	680-688	entfernt	_	
+9-7	688-689	]	_	

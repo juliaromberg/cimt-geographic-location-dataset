@@ -1,0 +1,95 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=durchgehender Radweg
+1-1	0-13	durchgehender	_	
+1-2	14-20	Radweg	_	
+
+#Text=Leider endet der Radweg an der Äußeren Kanalstraße kurz hinter dem Ossendorfbad.
+2-1	23-29	Leider	_	
+2-2	30-35	endet	_	
+2-3	36-39	der	_	
+2-4	40-46	Radweg	_	
+2-5	47-49	an	*[6]	
+2-6	50-53	der	*[6]	
+2-7	54-61	Äußeren	*[6]	
+2-8	62-73	Kanalstraße	*[6]	
+2-9	74-78	kurz	*[6]	
+2-10	79-85	hinter	*[6]	
+2-11	86-89	dem	*[6]	
+2-12	90-102	Ossendorfbad	*[6]	
+2-13	102-103	.	_	
+
+#Text=Man holpert über den befestigten Weg, schlängelt sich dann zwischen parkenden Autos durch, muss dann die Bürgersteigkante bei der Feltenstraße bewältigen, um dann nach diesem unerfreulichen Stück wieder auf den Radweg ab der Subbelrather Straße zu gelangen.
+3-1	104-107	Man	_	
+3-2	108-115	holpert	_	
+3-3	116-120	über	_	
+3-4	121-124	den	_	
+3-5	125-136	befestigten	_	
+3-6	137-140	Weg	_	
+3-7	140-141	,	_	
+3-8	142-152	schlängelt	_	
+3-9	153-157	sich	_	
+3-10	158-162	dann	_	
+3-11	163-171	zwischen	_	
+3-12	172-181	parkenden	_	
+3-13	182-187	Autos	_	
+3-14	188-193	durch	_	
+3-15	193-194	,	_	
+3-16	195-199	muss	_	
+3-17	200-204	dann	_	
+3-18	205-208	die	_	
+3-19	209-225	Bürgersteigkante	_	
+3-20	226-229	bei	_	
+3-21	230-233	der	_	
+3-22	234-246	Feltenstraße	*	
+3-23	247-257	bewältigen	_	
+3-24	257-258	,	_	
+3-25	259-261	um	_	
+3-26	262-266	dann	_	
+3-27	267-271	nach	_	
+3-28	272-278	diesem	_	
+3-29	279-293	unerfreulichen	_	
+3-30	294-299	Stück	_	
+3-31	300-306	wieder	_	
+3-32	307-310	auf	_	
+3-33	311-314	den	_	
+3-34	315-321	Radweg	_	
+3-35	322-324	ab	_	
+3-36	325-328	der	_	
+3-37	329-341	Subbelrather	*[7]	
+3-38	342-348	Straße	*[7]	
+3-39	349-351	zu	_	
+3-40	352-360	gelangen	_	
+3-41	360-361	.	_	
+
+#Text=Hier wünsche ich mir einen durchgehenden Radweg, damit man sich nicht gestraft fühlt.
+4-1	362-366	Hier	_	
+4-2	367-374	wünsche	_	
+4-3	375-378	ich	_	
+4-4	379-382	mir	_	
+4-5	383-388	einen	_	
+4-6	389-402	durchgehenden	_	
+4-7	403-409	Radweg	_	
+4-8	409-410	,	_	
+4-9	411-416	damit	_	
+4-10	417-420	man	_	
+4-11	421-425	sich	_	
+4-12	426-431	nicht	_	
+4-13	432-440	gestraft	_	
+4-14	441-446	fühlt	_	
+4-15	446-447	.	_	
+
+#Text=dafür dass man mit dem Fahrrad unterwegs ist.
+5-1	448-453	dafür	_	
+5-2	454-458	dass	_	
+5-3	459-462	man	_	
+5-4	463-466	mit	_	
+5-5	467-470	dem	_	
+5-6	471-478	Fahrrad	_	
+5-7	479-488	unterwegs	_	
+5-8	489-492	ist	_	
+5-9	492-493	.	_	

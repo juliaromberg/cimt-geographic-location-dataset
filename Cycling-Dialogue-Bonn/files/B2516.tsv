@@ -1,0 +1,113 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Frongasse als shared space ausführen
+1-1	0-9	Frongasse	*	
+1-2	10-13	als	_	
+1-3	14-20	shared	_	
+1-4	21-26	space	_	
+1-5	27-36	ausführen	_	
+
+#Text=Die Frongasse ist in weiten Bereichen für Radverkehr entgegen der Einbahnstraße zu schmal und es kommt z.B. vor der Bäckerei Gruhn zu gefährlichen Begegnungen, da Radfahrer grundsätzlich in die gepflasterte Gosse gezwungen werden.
+2-1	39-42	Die	*[6]	
+2-2	43-52	Frongasse	*[6]	
+2-3	53-56	ist	_	
+2-4	57-59	in	_	
+2-5	60-66	weiten	_	
+2-6	67-76	Bereichen	_	
+2-7	77-80	für	_	
+2-8	81-91	Radverkehr	_	
+2-9	92-100	entgegen	_	
+2-10	101-104	der	_	
+2-11	105-118	Einbahnstraße	_	
+2-12	119-121	zu	_	
+2-13	122-128	schmal	_	
+2-14	129-132	und	_	
+2-15	133-135	es	_	
+2-16	136-141	kommt	_	
+2-17	142-145	z.B	_	
+2-18	145-146	.	_	
+2-19	147-150	vor	_	
+2-20	151-154	der	_	
+2-21	155-163	Bäckerei	_	
+2-22	164-169	Gruhn	_	
+2-23	170-172	zu	_	
+2-24	173-185	gefährlichen	_	
+2-25	186-197	Begegnungen	_	
+2-26	197-198	,	_	
+2-27	199-201	da	_	
+2-28	202-211	Radfahrer	_	
+2-29	212-225	grundsätzlich	_	
+2-30	226-228	in	_	
+2-31	229-232	die	_	
+2-32	233-245	gepflasterte	_	
+2-33	246-251	Gosse	_	
+2-34	252-261	gezwungen	_	
+2-35	262-268	werden	_	
+2-36	268-269	.	_	
+
+#Text=Im Bereich des Fiddlers ist Radverkehr wie intendiert auf dem Bürgersteig praktisch gar nicht möglich.
+3-1	270-272	Im	_	
+3-2	273-280	Bereich	_	
+3-3	281-284	des	_	
+3-4	285-293	Fiddlers	*	
+3-5	294-297	ist	_	
+3-6	298-308	Radverkehr	_	
+3-7	309-312	wie	_	
+3-8	313-323	intendiert	_	
+3-9	324-327	auf	_	
+3-10	328-331	dem	_	
+3-11	332-343	Bürgersteig	_	
+3-12	344-353	praktisch	_	
+3-13	354-357	gar	_	
+3-14	358-363	nicht	_	
+3-15	364-371	möglich	_	
+3-16	371-372	.	_	
+
+#Text=Da die Sperrung für KFZ nicht möglich erscheint sollte die Frongasse in einen shared space umgewandelt werden.
+4-1	373-375	Da	_	
+4-2	376-379	die	_	
+4-3	380-388	Sperrung	_	
+4-4	389-392	für	_	
+4-5	393-396	KFZ	_	
+4-6	397-402	nicht	_	
+4-7	403-410	möglich	_	
+4-8	411-420	erscheint	_	
+4-9	421-427	sollte	_	
+4-10	428-431	die	*[7]	
+4-11	432-441	Frongasse	*[7]	
+4-12	442-444	in	_	
+4-13	445-450	einen	_	
+4-14	451-457	shared	_	
+4-15	458-463	space	_	
+4-16	464-475	umgewandelt	_	
+4-17	476-482	werden	_	
+4-18	482-483	.	_	
+
+#Text=Dies kommt nicht nur Radfahrern und Fußgängern sondern auch der Kulturmeile und dem Einzelhandel zugute, da es die Aufenthaltsqualität deutlich erhöht.
+5-1	484-488	Dies	_	
+5-2	489-494	kommt	_	
+5-3	495-500	nicht	_	
+5-4	501-504	nur	_	
+5-5	505-515	Radfahrern	_	
+5-6	516-519	und	_	
+5-7	520-530	Fußgängern	_	
+5-8	531-538	sondern	_	
+5-9	539-543	auch	_	
+5-10	544-547	der	_	
+5-11	548-559	Kulturmeile	_	
+5-12	560-563	und	_	
+5-13	564-567	dem	_	
+5-14	568-580	Einzelhandel	_	
+5-15	581-587	zugute	_	
+5-16	587-588	,	_	
+5-17	589-591	da	_	
+5-18	592-594	es	_	
+5-19	595-598	die	_	
+5-20	599-618	Aufenthaltsqualität	_	
+5-21	619-627	deutlich	_	
+5-22	628-634	erhöht	_	
+5-23	634-635	.	_	

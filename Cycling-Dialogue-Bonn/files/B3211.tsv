@@ -1,0 +1,53 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkende Autos auf dem Radweg Königswinterer Straße Bonn Beuel
+1-1	0-8	Parkende	_	
+1-2	9-14	Autos	_	
+1-3	15-18	auf	*[5]	
+1-4	19-22	dem	*[5]	
+1-5	23-29	Radweg	*[5]	
+1-6	30-44	Königswinterer	*[5]	
+1-7	45-51	Straße	*[5]	
+1-8	52-56	Bonn	*[5]	
+1-9	57-62	Beuel	*[5]	
+
+#Text=Königswinterer Straße zwischen Limperich und Ramersdorf parken zu viele Autos auf dem Radweg.
+2-1	65-79	Königswinterer	*[6]	
+2-2	80-86	Straße	*[6]	
+2-3	87-95	zwischen	*[6]	
+2-4	96-105	Limperich	*[6]	
+2-5	106-109	und	*[6]	
+2-6	110-120	Ramersdorf	*[6]	
+2-7	121-127	parken	_	
+2-8	128-130	zu	_	
+2-9	131-136	viele	_	
+2-10	137-142	Autos	_	
+2-11	143-146	auf	_	
+2-12	147-150	dem	_	
+2-13	151-157	Radweg	_	
+2-14	157-158	.	_	
+
+#Text=Und das jeden Tag.
+3-1	159-162	Und	_	
+3-2	163-166	das	_	
+3-3	167-172	jeden	_	
+3-4	173-176	Tag	_	
+3-5	176-177	.	_	
+
+#Text=Man muss mit dem Rad auf den Bürgersteig oder Straße ausweichen.
+4-1	178-181	Man	_	
+4-2	182-186	muss	_	
+4-3	187-190	mit	_	
+4-4	191-194	dem	_	
+4-5	195-198	Rad	_	
+4-6	199-202	auf	_	
+4-7	203-206	den	_	
+4-8	207-218	Bürgersteig	_	
+4-9	219-223	oder	_	
+4-10	224-230	Straße	_	
+4-11	231-241	ausweichen	_	
+4-12	241-242	.	_	

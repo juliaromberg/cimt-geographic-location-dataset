@@ -1,0 +1,243 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Critical Mass: Ein Unterschied wie Tag und Nacht
+1-1	0-8	Critical	_	
+1-2	9-13	Mass	_	
+1-3	13-14	:	_	
+1-4	15-18	Ein	_	
+1-5	19-30	Unterschied	_	
+1-6	31-34	wie	_	
+1-7	35-38	Tag	_	
+1-8	39-42	und	_	
+1-9	43-48	Nacht	_	
+
+#Text=Gestern bin ich das erste Mal bei Critical Mass mitgefahren.
+2-1	51-58	Gestern	_	
+2-2	59-62	bin	_	
+2-3	63-66	ich	_	
+2-4	67-70	das	_	
+2-5	71-76	erste	_	
+2-6	77-80	Mal	_	
+2-7	81-84	bei	_	
+2-8	85-93	Critical	_	
+2-9	94-98	Mass	_	
+2-10	99-110	mitgefahren	_	
+2-11	110-111	.	_	
+
+#Text=Für die, die das nicht kennen: Viele Radfahrer (einige Hundert) treffen sich und fahren als Konvoi durch die Stadt.
+3-1	112-115	Für	_	
+3-2	116-119	die	_	
+3-3	119-120	,	_	
+3-4	121-124	die	_	
+3-5	125-128	das	_	
+3-6	129-134	nicht	_	
+3-7	135-141	kennen	_	
+3-8	141-142	:	_	
+3-9	143-148	Viele	_	
+3-10	149-158	Radfahrer	_	
+3-11	159-160	(	_	
+3-12	160-166	einige	_	
+3-13	167-174	Hundert	_	
+3-14	174-175	)	_	
+3-15	176-183	treffen	_	
+3-16	184-188	sich	_	
+3-17	189-192	und	_	
+3-18	193-199	fahren	_	
+3-19	200-203	als	_	
+3-20	204-210	Konvoi	_	
+3-21	211-216	durch	*[12]	
+3-22	217-220	die	*[12]	
+3-23	221-226	Stadt	*[12]	
+3-24	226-227	.	_	
+
+#Text=Laut StVO darf man ab 15 Radfahrern einen Verband bilden, der dann von der Radwegnutzungspflicht befreit ist und auch am Stück über Ampeln fahren darf, selbst wenn diese rot werden.
+4-1	228-232	Laut	_	
+4-2	233-237	StVO	_	
+4-3	238-242	darf	_	
+4-4	243-246	man	_	
+4-5	247-249	ab	_	
+4-6	250-252	15	_	
+4-7	253-263	Radfahrern	_	
+4-8	264-269	einen	_	
+4-9	270-277	Verband	_	
+4-10	278-284	bilden	_	
+4-11	284-285	,	_	
+4-12	286-289	der	_	
+4-13	290-294	dann	_	
+4-14	295-298	von	_	
+4-15	299-302	der	_	
+4-16	303-324	Radwegnutzungspflicht	_	
+4-17	325-332	befreit	_	
+4-18	333-336	ist	_	
+4-19	337-340	und	_	
+4-20	341-345	auch	_	
+4-21	346-348	am	_	
+4-22	349-354	Stück	_	
+4-23	355-359	über	_	
+4-24	360-366	Ampeln	_	
+4-25	367-373	fahren	_	
+4-26	374-378	darf	_	
+4-27	378-379	,	_	
+4-28	380-386	selbst	_	
+4-29	387-391	wenn	_	
+4-30	392-397	diese	_	
+4-31	398-401	rot	_	
+4-32	402-408	werden	_	
+4-33	408-409	.	_	
+
+#Text=Das ist jeden letzten Freitag im Monat um 18:00 an der Hofgartenwiese.
+5-1	410-413	Das	_	
+5-2	414-417	ist	_	
+5-3	418-423	jeden	_	
+5-4	424-431	letzten	_	
+5-5	432-439	Freitag	_	
+5-6	440-442	im	_	
+5-7	443-448	Monat	_	
+5-8	449-451	um	_	
+5-9	452-454	18	_	
+5-10	454-455	:	_	
+5-11	455-457	00	_	
+5-12	458-460	an	_	
+5-13	461-464	der	_	
+5-14	465-479	Hofgartenwiese	_	
+5-15	479-480	.	_	
+
+#Text=Es ist ein deutlich anderes Gefühl, insbesondere auf der Viktoriabrücke, der Oxfordstraße am Bertha-von-Suttner-Platz oder dem Kaiser-Karl-Ring.
+6-1	481-483	Es	_	
+6-2	484-487	ist	_	
+6-3	488-491	ein	_	
+6-4	492-500	deutlich	_	
+6-5	501-508	anderes	_	
+6-6	509-515	Gefühl	_	
+6-7	515-516	,	_	
+6-8	517-529	insbesondere	_	
+6-9	530-533	auf	*[13]	
+6-10	534-537	der	*[13]	
+6-11	538-552	Viktoriabrücke	*[13]	
+6-12	552-553	,	*[13]	
+6-13	554-557	der	*[13]	
+6-14	558-570	Oxfordstraße	*[13]	
+6-15	571-573	am	*[13]	
+6-16	574-598	Bertha-von-Suttner-Platz	*[13]	
+6-17	599-603	oder	*[13]	
+6-18	604-607	dem	*[13]	
+6-19	608-624	Kaiser-Karl-Ring	*[13]	
+6-20	624-625	.	_	
+
+#Text=Radfahren in der Stadt macht plötzlich Spaß, man fühlt sich sicher und hat durch die konstante Nutzung der Straße eine deutlich bessere Fahrbahn zur Verfügung.
+7-1	626-635	Radfahren	_	
+7-2	636-638	in	_	
+7-3	639-642	der	_	
+7-4	643-648	Stadt	_	
+7-5	649-654	macht	_	
+7-6	655-664	plötzlich	_	
+7-7	665-669	Spaß	_	
+7-8	669-670	,	_	
+7-9	671-674	man	_	
+7-10	675-680	fühlt	_	
+7-11	681-685	sich	_	
+7-12	686-692	sicher	_	
+7-13	693-696	und	_	
+7-14	697-700	hat	_	
+7-15	701-706	durch	_	
+7-16	707-710	die	_	
+7-17	711-720	konstante	_	
+7-18	721-728	Nutzung	_	
+7-19	729-732	der	_	
+7-20	733-739	Straße	_	
+7-21	740-744	eine	_	
+7-22	745-753	deutlich	_	
+7-23	754-761	bessere	_	
+7-24	762-770	Fahrbahn	_	
+7-25	771-774	zur	_	
+7-26	775-784	Verfügung	_	
+7-27	784-785	.	_	
+
+#Text=Durch diesen extremen Unterschied im Fahrgefühl wird besonders deutlich, wie wenig Spaß Radfahren im Bonner Stadtgebiet normalerweise macht.
+8-1	786-791	Durch	_	
+8-2	792-798	diesen	_	
+8-3	799-807	extremen	_	
+8-4	808-819	Unterschied	_	
+8-5	820-822	im	_	
+8-6	823-833	Fahrgefühl	_	
+8-7	834-838	wird	_	
+8-8	839-848	besonders	_	
+8-9	849-857	deutlich	_	
+8-10	857-858	,	_	
+8-11	859-862	wie	_	
+8-12	863-868	wenig	_	
+8-13	869-873	Spaß	_	
+8-14	874-883	Radfahren	_	
+8-15	884-886	im	*[14]	
+8-16	887-893	Bonner	*[14]	
+8-17	894-905	Stadtgebiet	*[14]	
+8-18	906-919	normalerweise	_	
+8-19	920-925	macht	_	
+8-20	925-926	.	_	
+
+#Text=Das Fahrgefühl bei der Critical Mass ist das, was ich von einer Fahrradstadt erwarten würde.
+9-1	927-930	Das	_	
+9-2	931-941	Fahrgefühl	_	
+9-3	942-945	bei	_	
+9-4	946-949	der	_	
+9-5	950-958	Critical	_	
+9-6	959-963	Mass	_	
+9-7	964-967	ist	_	
+9-8	968-971	das	_	
+9-9	971-972	,	_	
+9-10	973-976	was	_	
+9-11	977-980	ich	_	
+9-12	981-984	von	_	
+9-13	985-990	einer	_	
+9-14	991-1003	Fahrradstadt	_	
+9-15	1004-1012	erwarten	_	
+9-16	1013-1018	würde	_	
+9-17	1018-1019	.	_	
+
+#Text=Es ist also noch viel zu tun, bis sich Alltag und Fahrradkonvoi im Fahrgefühl annähern.
+10-1	1020-1022	Es	_	
+10-2	1023-1026	ist	_	
+10-3	1027-1031	also	_	
+10-4	1032-1036	noch	_	
+10-5	1037-1041	viel	_	
+10-6	1042-1044	zu	_	
+10-7	1045-1048	tun	_	
+10-8	1048-1049	,	_	
+10-9	1050-1053	bis	_	
+10-10	1054-1058	sich	_	
+10-11	1059-1065	Alltag	_	
+10-12	1066-1069	und	_	
+10-13	1070-1083	Fahrradkonvoi	_	
+10-14	1084-1086	im	_	
+10-15	1087-1097	Fahrgefühl	_	
+10-16	1098-1106	annähern	_	
+10-17	1106-1107	.	_	
+
+#Text=Vielleicht wäre es für Verantwortlichen eine gute Erfahrung, an dieser Tour ein wenig teilzunehmen, um den Unterschied selbst zu erleben.
+11-1	1108-1118	Vielleicht	_	
+11-2	1119-1123	wäre	_	
+11-3	1124-1126	es	_	
+11-4	1127-1130	für	_	
+11-5	1131-1147	Verantwortlichen	_	
+11-6	1148-1152	eine	_	
+11-7	1153-1157	gute	_	
+11-8	1158-1167	Erfahrung	_	
+11-9	1167-1168	,	_	
+11-10	1169-1171	an	_	
+11-11	1172-1178	dieser	_	
+11-12	1179-1183	Tour	_	
+11-13	1184-1187	ein	_	
+11-14	1188-1193	wenig	_	
+11-15	1194-1206	teilzunehmen	_	
+11-16	1206-1207	,	_	
+11-17	1208-1210	um	_	
+11-18	1211-1214	den	_	
+11-19	1215-1226	Unterschied	_	
+11-20	1227-1233	selbst	_	
+11-21	1234-1236	zu	_	
+11-22	1237-1244	erleben	_	
+11-23	1244-1245	.	_	

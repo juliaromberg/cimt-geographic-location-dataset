@@ -1,0 +1,116 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vorfahrt wird regelmäßig missachtet
+1-1	0-8	Vorfahrt	_	
+1-2	9-13	wird	_	
+1-3	14-24	regelmäßig	_	
+1-4	25-35	missachtet	_	
+
+#Text=Die Pfalsterung der Endenicher Straße suggerie den Autofahrern, dass sie Vorfahrt hätten.
+2-1	38-41	Die	_	
+2-2	42-53	Pfalsterung	_	
+2-3	54-57	der	_	
+2-4	58-68	Endenicher	*[7]	
+2-5	69-75	Straße	*[7]	
+2-6	76-84	suggerie	_	
+2-7	85-88	den	_	
+2-8	89-100	Autofahrern	_	
+2-9	100-101	,	_	
+2-10	102-106	dass	_	
+2-11	107-110	sie	_	
+2-12	111-119	Vorfahrt	_	
+2-13	120-126	hätten	_	
+2-14	126-127	.	_	
+
+#Text=Viele erkennen nicht einmal, dass hier von rechts eine Straße einmündet.
+3-1	128-133	Viele	_	
+3-2	134-142	erkennen	_	
+3-3	143-148	nicht	_	
+3-4	149-155	einmal	_	
+3-5	155-156	,	_	
+3-6	157-161	dass	_	
+3-7	162-166	hier	_	
+3-8	167-170	von	_	
+3-9	171-177	rechts	_	
+3-10	178-182	eine	_	
+3-11	183-189	Straße	_	
+3-12	190-199	einmündet	_	
+3-13	199-200	.	_	
+
+#Text=Meistens ist auch die Ecke so zugeparkt, dass Fahrradfahrer, die auf der Magdalenestraße kommen, von dem Autoverkehr auf der Endenicher Straße nicht hesehen werden können.
+4-1	201-209	Meistens	_	
+4-2	210-213	ist	_	
+4-3	214-218	auch	_	
+4-4	219-222	die	_	
+4-5	223-227	Ecke	_	
+4-6	228-230	so	_	
+4-7	231-240	zugeparkt	_	
+4-8	240-241	,	_	
+4-9	242-246	dass	_	
+4-10	247-260	Fahrradfahrer	_	
+4-11	260-261	,	_	
+4-12	262-265	die	_	
+4-13	266-269	auf	_	
+4-14	270-273	der	_	
+4-15	274-289	Magdalenestraße	_	
+4-16	290-296	kommen	_	
+4-17	296-297	,	_	
+4-18	298-301	von	_	
+4-19	302-305	dem	_	
+4-20	306-317	Autoverkehr	_	
+4-21	318-321	auf	*[8]	
+4-22	322-325	der	*[8]	
+4-23	326-336	Endenicher	*[8]	
+4-24	337-343	Straße	*[8]	
+4-25	344-349	nicht	_	
+4-26	350-357	hesehen	_	
+4-27	358-364	werden	_	
+4-28	365-371	können	_	
+4-29	371-372	.	_	
+
+#Text=Vorschlag: Die Ekce so mit Pollern absperren, dass dort keine Autos parken können.
+5-1	373-382	Vorschlag	_	
+5-2	382-383	:	_	
+5-3	384-387	Die	_	
+5-4	388-392	Ekce	_	
+5-5	393-395	so	_	
+5-6	396-399	mit	_	
+5-7	400-407	Pollern	_	
+5-8	408-417	absperren	_	
+5-9	417-418	,	_	
+5-10	419-423	dass	_	
+5-11	424-428	dort	_	
+5-12	429-434	keine	_	
+5-13	435-440	Autos	_	
+5-14	441-447	parken	_	
+5-15	448-454	können	_	
+5-16	454-455	.	_	
+
+#Text=Zudem den Pflasterbelag der Endenicher Straße durch eine Querrinne abändern, so dass klar ersichtlich wird, dass die Magdalenstraße Vorfahrt hat.
+6-1	456-461	Zudem	_	
+6-2	462-465	den	_	
+6-3	466-479	Pflasterbelag	_	
+6-4	480-483	der	*[9]	
+6-5	484-494	Endenicher	*[9]	
+6-6	495-501	Straße	*[9]	
+6-7	502-507	durch	_	
+6-8	508-512	eine	_	
+6-9	513-522	Querrinne	_	
+6-10	523-531	abändern	_	
+6-11	531-532	,	_	
+6-12	533-535	so	_	
+6-13	536-540	dass	_	
+6-14	541-545	klar	_	
+6-15	546-557	ersichtlich	_	
+6-16	558-562	wird	_	
+6-17	562-563	,	_	
+6-18	564-568	dass	_	
+6-19	569-572	die	*[10]	
+6-20	573-587	Magdalenstraße	*[10]	
+6-21	588-596	Vorfahrt	_	
+6-22	597-600	hat	_	
+6-23	600-601	.	_	

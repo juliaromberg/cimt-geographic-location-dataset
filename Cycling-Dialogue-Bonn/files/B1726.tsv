@@ -1,0 +1,162 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Große Unfallgefahr!
+1-1	0-5	Große	_	
+1-2	6-18	Unfallgefahr	_	
+1-3	18-19	!	_	
+
+#Text=Am 30.8.2016, also vor über einem Jahr, hatte ich an dieser Stelle einen schweren Fahrradunfall.
+2-1	22-24	Am	_	
+2-2	25-34	30.8.2016	_	
+2-3	34-35	,	_	
+2-4	36-40	also	_	
+2-5	41-44	vor	_	
+2-6	45-49	über	_	
+2-7	50-55	einem	_	
+2-8	56-60	Jahr	_	
+2-9	60-61	,	_	
+2-10	62-67	hatte	_	
+2-11	68-71	ich	_	
+2-12	72-74	an	_	
+2-13	75-81	dieser	_	
+2-14	82-88	Stelle	_	
+2-15	89-94	einen	_	
+2-16	95-103	schweren	_	
+2-17	104-117	Fahrradunfall	_	
+2-18	117-118	.	_	
+
+#Text=Beim Linksabbiegen (zum Rheinauepark hin) traf ich unvorbereitet auf eine Bodenwelle, die durch die Licht-Schatten-Verhältnisse bei tiefstehender Sonne (19:00 Uhr) nicht zu erkennen war.
+3-1	119-123	Beim	_	
+3-2	124-137	Linksabbiegen	_	
+3-3	138-139	(	_	
+3-4	139-142	zum	_	
+3-5	143-155	Rheinauepark	_	
+3-6	156-159	hin	_	
+3-7	159-160	)	_	
+3-8	161-165	traf	_	
+3-9	166-169	ich	_	
+3-10	170-183	unvorbereitet	_	
+3-11	184-187	auf	_	
+3-12	188-192	eine	_	
+3-13	193-203	Bodenwelle	_	
+3-14	203-204	,	_	
+3-15	205-208	die	_	
+3-16	209-214	durch	_	
+3-17	215-218	die	_	
+3-18	219-246	Licht-Schatten-Verhältnisse	_	
+3-19	247-250	bei	_	
+3-20	251-264	tiefstehender	_	
+3-21	265-270	Sonne	_	
+3-22	271-272	(	_	
+3-23	272-274	19	_	
+3-24	274-275	:	_	
+3-25	275-277	00	_	
+3-26	278-281	Uhr	_	
+3-27	281-282	)	_	
+3-28	283-288	nicht	_	
+3-29	289-291	zu	_	
+3-30	292-300	erkennen	_	
+3-31	301-304	war	_	
+3-32	304-305	.	_	
+
+#Text=Zuständig ist hier nicht die Stadt Bonn, sondern der Landesbetrieb Straßen NRW, der die Unfallstelle bis heute nicht entschärft hat.
+4-1	306-315	Zuständig	_	
+4-2	316-319	ist	_	
+4-3	320-324	hier	_	
+4-4	325-330	nicht	_	
+4-5	331-334	die	_	
+4-6	335-340	Stadt	_	
+4-7	341-345	Bonn	_	
+4-8	345-346	,	_	
+4-9	347-354	sondern	_	
+4-10	355-358	der	_	
+4-11	359-372	Landesbetrieb	_	
+4-12	373-380	Straßen	_	
+4-13	381-384	NRW	_	
+4-14	384-385	,	_	
+4-15	386-389	der	_	
+4-16	390-393	die	_	
+4-17	394-406	Unfallstelle	_	
+4-18	407-410	bis	_	
+4-19	411-416	heute	_	
+4-20	417-422	nicht	_	
+4-21	423-433	entschärft	_	
+4-22	434-437	hat	_	
+4-23	437-438	.	_	
+
+#Text=Auch bei den anderen Auffahrten zur Autobahnbrücke gibt es Bodenwellen: Allerdings sind dort die Radwege so schlecht, dass man als Radfahrer automatisch langsamer fährt.
+5-1	439-443	Auch	_	
+5-2	444-447	bei	_	
+5-3	448-451	den	_	
+5-4	452-459	anderen	_	
+5-5	460-470	Auffahrten	_	
+5-6	471-474	zur	_	
+5-7	475-489	Autobahnbrücke	_	
+5-8	490-494	gibt	_	
+5-9	495-497	es	_	
+5-10	498-509	Bodenwellen	_	
+5-11	509-510	:	_	
+5-12	511-521	Allerdings	_	
+5-13	522-526	sind	_	
+5-14	527-531	dort	_	
+5-15	532-535	die	_	
+5-16	536-543	Radwege	_	
+5-17	544-546	so	_	
+5-18	547-555	schlecht	_	
+5-19	555-556	,	_	
+5-20	557-561	dass	_	
+5-21	562-565	man	_	
+5-22	566-569	als	_	
+5-23	570-579	Radfahrer	_	
+5-24	580-591	automatisch	_	
+5-25	592-601	langsamer	_	
+5-26	602-607	fährt	_	
+5-27	607-608	.	_	
+
+#Text=Warnschilder gibt es bis heute nicht, Radfahrer auf einer Autobahnbrücke sind für den Landesbetrieb kein Thema, so dass man offenkundig deren Gesundheit massiv gefährden kann.
+6-1	609-621	Warnschilder	_	
+6-2	622-626	gibt	_	
+6-3	627-629	es	_	
+6-4	630-633	bis	_	
+6-5	634-639	heute	_	
+6-6	640-645	nicht	_	
+6-7	645-646	,	_	
+6-8	647-656	Radfahrer	_	
+6-9	657-660	auf	_	
+6-10	661-666	einer	_	
+6-11	667-681	Autobahnbrücke	_	
+6-12	682-686	sind	_	
+6-13	687-690	für	_	
+6-14	691-694	den	_	
+6-15	695-708	Landesbetrieb	_	
+6-16	709-713	kein	_	
+6-17	714-719	Thema	_	
+6-18	719-720	,	_	
+6-19	721-723	so	_	
+6-20	724-728	dass	_	
+6-21	729-732	man	_	
+6-22	733-744	offenkundig	_	
+6-23	745-750	deren	_	
+6-24	751-761	Gesundheit	_	
+6-25	762-768	massiv	_	
+6-26	769-778	gefährden	_	
+6-27	779-783	kann	_	
+6-28	783-784	.	_	
+
+#Text=Deshalb unbedingt hier langsam fahren und immer beide Hände am Lenker!
+7-1	785-792	Deshalb	_	
+7-2	793-802	unbedingt	_	
+7-3	803-807	hier	_	
+7-4	808-815	langsam	_	
+7-5	816-822	fahren	_	
+7-6	823-826	und	_	
+7-7	827-832	immer	_	
+7-8	833-838	beide	_	
+7-9	839-844	Hände	_	
+7-10	845-847	am	_	
+7-11	848-854	Lenker	_	
+7-12	854-855	!	_	

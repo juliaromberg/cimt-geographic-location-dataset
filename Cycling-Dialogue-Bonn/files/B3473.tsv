@@ -1,0 +1,100 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Nicht einsehbare Straße
+1-1	0-5	Nicht	_	
+1-2	6-16	einsehbare	_	
+1-3	17-23	Straße	_	
+
+#Text=An dieser Stelle kreuzt der Radweg die Allensteiner Str.
+2-1	26-28	An	_	
+2-2	29-35	dieser	_	
+2-3	36-42	Stelle	_	
+2-4	43-49	kreuzt	_	
+2-5	50-53	der	_	
+2-6	54-60	Radweg	_	
+2-7	61-64	die	*[6]	
+2-8	65-77	Allensteiner	*[6]	
+2-9	78-81	Str	*[6]	
+2-10	81-82	.	_	
+
+#Text=Vor einigen Jahren konnte man noch problemlos die letzten Meter der Straße einsehen, da das angrenzende Grundstück nur von einem kleinen Zaun begrenzt wurde.
+3-1	83-86	Vor	_	
+3-2	87-94	einigen	_	
+3-3	95-101	Jahren	_	
+3-4	102-108	konnte	_	
+3-5	109-112	man	_	
+3-6	113-117	noch	_	
+3-7	118-128	problemlos	_	
+3-8	129-132	die	_	
+3-9	133-140	letzten	_	
+3-10	141-146	Meter	_	
+3-11	147-150	der	_	
+3-12	151-157	Straße	_	
+3-13	158-166	einsehen	_	
+3-14	166-167	,	_	
+3-15	168-170	da	_	
+3-16	171-174	das	_	
+3-17	175-186	angrenzende	_	
+3-18	187-197	Grundstück	_	
+3-19	198-201	nur	_	
+3-20	202-205	von	_	
+3-21	206-211	einem	_	
+3-22	212-219	kleinen	_	
+3-23	220-224	Zaun	_	
+3-24	225-233	begrenzt	_	
+3-25	234-239	wurde	_	
+3-26	239-240	.	_	
+
+#Text=Mittlerweile steht dort ein hoher Sichtschutz, der es unmöglich macht zu sehen, ob sich von rechts ein Auto nähert - genauso natürlich auch umgekehrt für die Autofahrer.
+4-1	241-253	Mittlerweile	_	
+4-2	254-259	steht	_	
+4-3	260-264	dort	_	
+4-4	265-268	ein	_	
+4-5	269-274	hoher	_	
+4-6	275-286	Sichtschutz	_	
+4-7	286-287	,	_	
+4-8	288-291	der	_	
+4-9	292-294	es	_	
+4-10	295-304	unmöglich	_	
+4-11	305-310	macht	_	
+4-12	311-313	zu	_	
+4-13	314-319	sehen	_	
+4-14	319-320	,	_	
+4-15	321-323	ob	_	
+4-16	324-328	sich	_	
+4-17	329-332	von	_	
+4-18	333-339	rechts	_	
+4-19	340-343	ein	_	
+4-20	344-348	Auto	_	
+4-21	349-355	nähert	_	
+4-22	356-357	-	_	
+4-23	358-365	genauso	_	
+4-24	366-375	natürlich	_	
+4-25	376-380	auch	_	
+4-26	381-390	umgekehrt	_	
+4-27	391-394	für	_	
+4-28	395-398	die	_	
+4-29	399-409	Autofahrer	_	
+4-30	409-410	.	_	
+
+#Text=Es wäre gut, wenn hier Maßnahmen ergriffen würden, um diese Situation zu entschärfen.
+5-1	411-413	Es	_	
+5-2	414-418	wäre	_	
+5-3	419-422	gut	_	
+5-4	422-423	,	_	
+5-5	424-428	wenn	_	
+5-6	429-433	hier	_	
+5-7	434-443	Maßnahmen	_	
+5-8	444-453	ergriffen	_	
+5-9	454-460	würden	_	
+5-10	460-461	,	_	
+5-11	462-464	um	_	
+5-12	465-470	diese	_	
+5-13	471-480	Situation	_	
+5-14	481-483	zu	_	
+5-15	484-495	entschärfen	_	
+5-16	495-496	.	_	

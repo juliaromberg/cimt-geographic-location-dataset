@@ -1,0 +1,22 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstraße
+1-1	0-13	Einbahnstraße	_	
+
+#Text=Die Einbahnstraße zwischen Subbelratherstr. Und Venloer Str. für Radfahrer freigeben
+2-1	16-19	Die	*[2]	
+2-2	20-33	Einbahnstraße	*[2]	
+2-3	34-42	zwischen	*[2]	
+2-4	43-58	Subbelratherstr	*[2]	
+2-5	58-59	.	*[2]	
+2-6	60-63	Und	*[2]	
+2-7	64-71	Venloer	*[2]	
+2-8	72-75	Str	*[2]	
+2-9	75-76	.	_	
+2-10	77-80	für	_	
+2-11	81-90	Radfahrer	_	
+2-12	91-100	freigeben	_	

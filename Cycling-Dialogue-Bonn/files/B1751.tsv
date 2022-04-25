@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Aus dem Stand die zweite Fahrgäste hoch...
+1-1	0-3	Aus	_	
+1-2	4-7	dem	_	
+1-3	8-13	Stand	_	
+1-4	14-17	die	_	
+1-5	18-24	zweite	_	
+1-6	25-34	Fahrgäste	_	
+1-7	35-39	hoch	_	
+1-8	39-40	.	_	
+1-9	40-41	.	_	
+1-10	41-42	.	_	
+
+#Text=Hier müssen Sie Radfahrer die Straße queren, um die zweite Fährgasse hoch zu fahren - und oft genug wegen des Autoverkehrs aus dem Stand am Berg anfahren.
+2-1	45-49	Hier	_	
+2-2	50-56	müssen	_	
+2-3	57-60	Sie	_	
+2-4	61-70	Radfahrer	_	
+2-5	71-74	die	_	
+2-6	75-81	Straße	_	
+2-7	82-88	queren	_	
+2-8	88-89	,	_	
+2-9	90-92	um	_	
+2-10	93-96	die	_	
+2-11	97-103	zweite	_	
+2-12	104-113	Fährgasse	_	
+2-13	114-118	hoch	_	
+2-14	119-121	zu	_	
+2-15	122-128	fahren	_	
+2-16	129-130	-	_	
+2-17	131-134	und	_	
+2-18	135-138	oft	_	
+2-19	139-144	genug	_	
+2-20	145-150	wegen	_	
+2-21	151-154	des	_	
+2-22	155-167	Autoverkehrs	_	
+2-23	168-171	aus	_	
+2-24	172-175	dem	_	
+2-25	176-181	Stand	_	
+2-26	182-184	am	_	
+2-27	185-189	Berg	_	
+2-28	190-198	anfahren	_	
+2-29	198-199	.	_	
+
+#Text=Ein Parkverbot für Autos auf dem Gehweg und eine Freigabe des Gehwegs für Räder wäre eine Lösung.
+3-1	200-203	Ein	_	
+3-2	204-214	Parkverbot	_	
+3-3	215-218	für	_	
+3-4	219-224	Autos	_	
+3-5	225-228	auf	_	
+3-6	229-232	dem	_	
+3-7	233-239	Gehweg	_	
+3-8	240-243	und	_	
+3-9	244-248	eine	_	
+3-10	249-257	Freigabe	_	
+3-11	258-261	des	_	
+3-12	262-269	Gehwegs	_	
+3-13	270-273	für	_	
+3-14	274-279	Räder	_	
+3-15	280-284	wäre	_	
+3-16	285-289	eine	_	
+3-17	290-296	Lösung	_	
+3-18	296-297	.	_	

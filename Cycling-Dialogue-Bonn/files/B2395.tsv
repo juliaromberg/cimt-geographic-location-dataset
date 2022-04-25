@@ -1,0 +1,152 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Alternative Radwege
+1-1	0-11	Alternative	_	
+1-2	12-19	Radwege	_	
+
+#Text=Ich fahre fast jeden Tag von Bornheim über Buschdorf nach Bonn.
+2-1	22-25	Ich	_	
+2-2	26-31	fahre	_	
+2-3	32-36	fast	_	
+2-4	37-42	jeden	_	
+2-5	43-46	Tag	_	
+2-6	47-50	von	*[11]	
+2-7	51-59	Bornheim	*[11]	
+2-8	60-64	über	*[11]	
+2-9	65-74	Buschdorf	*[11]	
+2-10	75-79	nach	*[11]	
+2-11	80-84	Bonn	*[11]	
+2-12	84-85	.	_	
+
+#Text=Mir ist dabei eine alte Bahntrasse aufgefallen, die von Hersel (Havelstrasse) bis zur Fridrich-Wöhler-Str. (Buschdorf) führt.
+3-1	86-89	Mir	_	
+3-2	90-93	ist	_	
+3-3	94-99	dabei	_	
+3-4	100-104	eine	_	
+3-5	105-109	alte	_	
+3-6	110-120	Bahntrasse	_	
+3-7	121-132	aufgefallen	_	
+3-8	132-133	,	_	
+3-9	134-137	die	_	
+3-10	138-141	von	*[12]	
+3-11	142-148	Hersel	*[12]	
+3-12	149-150	(	*[12]	
+3-13	150-162	Havelstrasse	*[12]	
+3-14	162-163	)	*[12]	
+3-15	164-167	bis	*[12]	
+3-16	168-171	zur	*[12]	
+3-17	172-191	Fridrich-Wöhler-Str	*[12]	
+3-18	191-192	.	*[12]	
+3-19	193-194	(	*[12]	
+3-20	194-203	Buschdorf	*[12]	
+3-21	203-204	)	*[12]	
+3-22	205-210	führt	_	
+3-23	210-211	.	_	
+
+#Text=Die Trasse scheint seit Jahren nicht mehr genutzt zu werden.
+4-1	212-215	Die	_	
+4-2	216-222	Trasse	_	
+4-3	223-230	scheint	_	
+4-4	231-235	seit	_	
+4-5	236-242	Jahren	_	
+4-6	243-248	nicht	_	
+4-7	249-253	mehr	_	
+4-8	254-261	genutzt	_	
+4-9	262-264	zu	_	
+4-10	265-271	werden	_	
+4-11	271-272	.	_	
+
+#Text=Überall sind die schienen mit Palettenbauten und Blumenkästen blockiert.
+5-1	273-280	Überall	_	
+5-2	281-285	sind	_	
+5-3	286-289	die	_	
+5-4	290-298	schienen	_	
+5-5	299-302	mit	_	
+5-6	303-317	Palettenbauten	_	
+5-7	318-321	und	_	
+5-8	322-334	Blumenkästen	_	
+5-9	335-344	blockiert	_	
+5-10	344-345	.	_	
+
+#Text=Müßte man mit der DB oder mit der Firma in Buschdorf kären, wer da Eigentumsrechte an der Trasse hat und dann in die Planung des Radwegkonzeptes einbinden.
+6-1	346-351	Müßte	_	
+6-2	352-355	man	_	
+6-3	356-359	mit	_	
+6-4	360-363	der	_	
+6-5	364-366	DB	_	
+6-6	367-371	oder	_	
+6-7	372-375	mit	_	
+6-8	376-379	der	_	
+6-9	380-385	Firma	_	
+6-10	386-388	in	*[13]	
+6-11	389-398	Buschdorf	*[13]	
+6-12	399-404	kären	_	
+6-13	404-405	,	_	
+6-14	406-409	wer	_	
+6-15	410-412	da	_	
+6-16	413-428	Eigentumsrechte	_	
+6-17	429-431	an	_	
+6-18	432-435	der	_	
+6-19	436-442	Trasse	_	
+6-20	443-446	hat	_	
+6-21	447-450	und	_	
+6-22	451-455	dann	_	
+6-23	456-458	in	_	
+6-24	459-462	die	_	
+6-25	463-470	Planung	_	
+6-26	471-474	des	_	
+6-27	475-490	Radwegkonzeptes	_	
+6-28	491-500	einbinden	_	
+6-29	500-501	.	_	
+
+#Text=Hier wäre eine Fahrradautobahn ideal.
+7-1	502-506	Hier	_	
+7-2	507-511	wäre	_	
+7-3	512-516	eine	_	
+7-4	517-532	Fahrradautobahn	_	
+7-5	533-538	ideal	_	
+7-6	538-539	.	_	
+
+#Text=Keine PKW, keine LKW, keine Fussgänger, ausreichend breit.
+8-1	540-545	Keine	_	
+8-2	546-549	PKW	_	
+8-3	549-550	,	_	
+8-4	551-556	keine	_	
+8-5	557-560	LKW	_	
+8-6	560-561	,	_	
+8-7	562-567	keine	_	
+8-8	568-578	Fussgänger	_	
+8-9	578-579	,	_	
+8-10	580-591	ausreichend	_	
+8-11	592-597	breit	_	
+8-12	597-598	.	_	
+
+#Text=Man sieht die Schienen deutlich in der Satellitendarstellung auf z.B. Google Maps.
+9-1	599-602	Man	_	
+9-2	603-608	sieht	_	
+9-3	609-612	die	_	
+9-4	613-621	Schienen	_	
+9-5	622-630	deutlich	_	
+9-6	631-633	in	_	
+9-7	634-637	der	_	
+9-8	638-659	Satellitendarstellung	_	
+9-9	660-663	auf	_	
+9-10	664-667	z.B	_	
+9-11	667-668	.	_	
+9-12	669-675	Google	_	
+9-13	676-680	Maps	_	
+9-14	680-681	.	_	
+
+#Text=In der normalen Karte nicht zu erkennen.
+10-1	682-684	In	_	
+10-2	685-688	der	_	
+10-3	689-697	normalen	_	
+10-4	698-703	Karte	_	
+10-5	704-709	nicht	_	
+10-6	710-712	zu	_	
+10-7	713-721	erkennen	_	
+10-8	721-722	.	_	

@@ -1,0 +1,102 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zebrastreifen nicht einsehbar
+1-1	0-13	Zebrastreifen	_	
+1-2	14-19	nicht	_	
+1-3	20-29	einsehbar	_	
+
+#Text=An dieser Stelle, an der die Straße recht eng ist befindet sich ein Zebrastreifen.
+2-1	32-34	An	_	
+2-2	35-41	dieser	_	
+2-3	42-48	Stelle	_	
+2-4	48-49	,	_	
+2-5	50-52	an	_	
+2-6	53-56	der	_	
+2-7	57-60	die	_	
+2-8	61-67	Straße	_	
+2-9	68-73	recht	_	
+2-10	74-77	eng	_	
+2-11	78-81	ist	_	
+2-12	82-90	befindet	_	
+2-13	91-95	sich	_	
+2-14	96-99	ein	_	
+2-15	100-113	Zebrastreifen	_	
+2-16	113-114	.	_	
+
+#Text=Da an der Ecke ein Haus steht, ist der Zugang zum Zebrastreifen nicht einsehbar, sodass eigentlich selbst bei Schritttempo noch Unfallgefahr herrscht.
+3-1	115-117	Da	_	
+3-2	118-120	an	_	
+3-3	121-124	der	_	
+3-4	125-129	Ecke	_	
+3-5	130-133	ein	_	
+3-6	134-138	Haus	_	
+3-7	139-144	steht	_	
+3-8	144-145	,	_	
+3-9	146-149	ist	_	
+3-10	150-153	der	_	
+3-11	154-160	Zugang	_	
+3-12	161-164	zum	_	
+3-13	165-178	Zebrastreifen	_	
+3-14	179-184	nicht	_	
+3-15	185-194	einsehbar	_	
+3-16	194-195	,	_	
+3-17	196-202	sodass	_	
+3-18	203-213	eigentlich	_	
+3-19	214-220	selbst	_	
+3-20	221-224	bei	_	
+3-21	225-237	Schritttempo	_	
+3-22	238-242	noch	_	
+3-23	243-255	Unfallgefahr	_	
+3-24	256-264	herrscht	_	
+3-25	264-265	.	_	
+
+#Text=Bin mir nicht ganz sicher, was man am besten dort macht.
+4-1	266-269	Bin	_	
+4-2	270-273	mir	_	
+4-3	274-279	nicht	_	
+4-4	280-284	ganz	_	
+4-5	285-291	sicher	_	
+4-6	291-292	,	_	
+4-7	293-296	was	_	
+4-8	297-300	man	_	
+4-9	301-303	am	_	
+4-10	304-310	besten	_	
+4-11	311-315	dort	_	
+4-12	316-321	macht	_	
+4-13	321-322	.	_	
+
+#Text=Allerdings habe ich jedesmal Angst, das ein Fußgänger sein Überquerungsrecht nutzt, ohne nochmal zu schauen.
+5-1	323-333	Allerdings	_	
+5-2	334-338	habe	_	
+5-3	339-342	ich	_	
+5-4	343-351	jedesmal	_	
+5-5	352-357	Angst	_	
+5-6	357-358	,	_	
+5-7	359-362	das	_	
+5-8	363-366	ein	_	
+5-9	367-376	Fußgänger	_	
+5-10	377-381	sein	_	
+5-11	382-399	Überquerungsrecht	_	
+5-12	400-405	nutzt	_	
+5-13	405-406	,	_	
+5-14	407-411	ohne	_	
+5-15	412-419	nochmal	_	
+5-16	420-422	zu	_	
+5-17	423-430	schauen	_	
+5-18	430-431	.	_	
+
+#Text=Insbesondere, da eine Grundschule in der Nähe ist.
+6-1	432-444	Insbesondere	_	
+6-2	444-445	,	_	
+6-3	446-448	da	_	
+6-4	449-453	eine	_	
+6-5	454-465	Grundschule	_	
+6-6	466-468	in	_	
+6-7	469-472	der	_	
+6-8	473-477	Nähe	_	
+6-9	478-481	ist	_	
+6-10	481-482	.	_	

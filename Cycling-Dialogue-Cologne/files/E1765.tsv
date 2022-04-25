@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampel (stadteinwärts) nicht während einer Grünphase passierbar.
+1-1	0-5	Ampel	*[4]	
+1-2	6-7	(	*[4]	
+1-3	7-20	stadteinwärts	*[4]	
+1-4	20-21	)	_	
+1-5	22-27	nicht	_	
+1-6	28-35	während	_	
+1-7	36-41	einer	_	
+1-8	42-51	Grünphase	_	
+1-9	52-62	passierbar	_	
+1-10	62-63	.	_	
+
+#Text=Die Ampel über den Parkgürtel lässt sich nicht während einer Grünphase passieren.
+2-1	66-69	Die	*[5]	
+2-2	70-75	Ampel	*[5]	
+2-3	76-80	über	*[5]	
+2-4	81-84	den	*[5]	
+2-5	85-95	Parkgürtel	*[5]	
+2-6	96-101	lässt	_	
+2-7	102-106	sich	_	
+2-8	107-112	nicht	_	
+2-9	113-120	während	_	
+2-10	121-126	einer	_	
+2-11	127-136	Grünphase	_	
+2-12	137-146	passieren	_	
+2-13	146-147	.	_	
+
+#Text=Darüber hinaus gibt es sehr lange Wartezeiten.
+3-1	148-155	Darüber	_	
+3-2	156-162	hinaus	_	
+3-3	163-167	gibt	_	
+3-4	168-170	es	_	
+3-5	171-175	sehr	_	
+3-6	176-181	lange	_	
+3-7	182-193	Wartezeiten	_	
+3-8	193-194	.	_	

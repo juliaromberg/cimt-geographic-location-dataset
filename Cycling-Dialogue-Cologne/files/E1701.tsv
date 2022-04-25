@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Übergang vom/zum Innenstadtbezirk verbessern
+1-1	0-8	Übergang	_	
+1-2	9-12	vom	*[4]	
+1-3	12-13	/	*[4]	
+1-4	13-16	zum	*[4]	
+1-5	17-33	Innenstadtbezirk	*[4]	
+1-6	34-44	verbessern	_	
+
+#Text=Insbesondere wenn man aus der Innenstadt kommt, wird man arg in den Seitenraum gedrängt und muss im Grunde geisterradeln, um die Radampel zu erreichen.
+2-1	47-59	Insbesondere	_	
+2-2	60-64	wenn	_	
+2-3	65-68	man	_	
+2-4	69-72	aus	*[5]	
+2-5	73-76	der	*[5]	
+2-6	77-87	Innenstadt	*[5]	
+2-7	88-93	kommt	*[5]	
+2-8	93-94	,	_	
+2-9	95-99	wird	_	
+2-10	100-103	man	_	
+2-11	104-107	arg	_	
+2-12	108-110	in	_	
+2-13	111-114	den	_	
+2-14	115-125	Seitenraum	_	
+2-15	126-134	gedrängt	_	
+2-16	135-138	und	_	
+2-17	139-143	muss	_	
+2-18	144-146	im	_	
+2-19	147-153	Grunde	_	
+2-20	154-167	geisterradeln	_	
+2-21	167-168	,	_	
+2-22	169-171	um	_	
+2-23	172-175	die	_	
+2-24	176-184	Radampel	_	
+2-25	185-187	zu	_	
+2-26	188-197	erreichen	_	
+2-27	197-198	.	_	
+
+#Text=Die Markierung müsste auf die andere Straßenseite.
+3-1	199-202	Die	_	
+3-2	203-213	Markierung	_	
+3-3	214-220	müsste	_	
+3-4	221-224	auf	_	
+3-5	225-228	die	_	
+3-6	229-235	andere	_	
+3-7	236-248	Straßenseite	_	
+3-8	248-249	.	_	

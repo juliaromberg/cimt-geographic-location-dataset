@@ -1,0 +1,114 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Anwohner nutzen den Weg mit ihren Autos
+1-1	0-8	Anwohner	_	
+1-2	9-15	nutzen	_	
+1-3	16-19	den	_	
+1-4	20-23	Weg	_	
+1-5	24-27	mit	_	
+1-6	28-33	ihren	_	
+1-7	34-39	Autos	_	
+
+#Text=Dieser asphaltierte Weg ist nur für landwirtschaftlichen Verkehr freigegeben.
+2-1	42-48	Dieser	_	
+2-2	49-61	asphaltierte	_	
+2-3	62-65	Weg	_	
+2-4	66-69	ist	_	
+2-5	70-73	nur	_	
+2-6	74-77	für	_	
+2-7	78-98	landwirtschaftlichen	_	
+2-8	99-106	Verkehr	_	
+2-9	107-118	freigegeben	_	
+2-10	118-119	.	_	
+
+#Text=Scheinbar zählen sich auch viel Anwohner aus Geislar dazu, denn häufig sieht man hier Autos, die von der Niederkasseler Straße nach Geislar fahren.
+3-1	120-129	Scheinbar	_	
+3-2	130-136	zählen	_	
+3-3	137-141	sich	_	
+3-4	142-146	auch	_	
+3-5	147-151	viel	_	
+3-6	152-160	Anwohner	_	
+3-7	161-164	aus	*[7]	
+3-8	165-172	Geislar	*[7]	
+3-9	173-177	dazu	_	
+3-10	177-178	,	_	
+3-11	179-183	denn	_	
+3-12	184-190	häufig	_	
+3-13	191-196	sieht	_	
+3-14	197-200	man	_	
+3-15	201-205	hier	_	
+3-16	206-211	Autos	_	
+3-17	211-212	,	_	
+3-18	213-216	die	_	
+3-19	217-220	von	*[8]	
+3-20	221-224	der	*[8]	
+3-21	225-239	Niederkasseler	*[8]	
+3-22	240-246	Straße	*[8]	
+3-23	247-251	nach	*[8]	
+3-24	252-259	Geislar	*[8]	
+3-25	260-266	fahren	_	
+3-26	266-267	.	_	
+
+#Text=Der Weg ist aber eng, für landwirtschaftlichen Anwohner-Verkehr und Fahrradfahrer / Fußgänger ist nicht genug Platz.
+4-1	268-271	Der	_	
+4-2	272-275	Weg	_	
+4-3	276-279	ist	_	
+4-4	280-284	aber	_	
+4-5	285-288	eng	_	
+4-6	288-289	,	_	
+4-7	290-293	für	_	
+4-8	294-314	landwirtschaftlichen	_	
+4-9	315-331	Anwohner-Verkehr	_	
+4-10	332-335	und	_	
+4-11	336-349	Fahrradfahrer	_	
+4-12	350-351	/	_	
+4-13	352-361	Fußgänger	_	
+4-14	362-365	ist	_	
+4-15	366-371	nicht	_	
+4-16	372-377	genug	_	
+4-17	378-383	Platz	_	
+4-18	383-384	.	_	
+
+#Text=Auf der gegenüberliegenden Seite der Niederkasseler Straße, der Bergheimer Straße, wurde erst vor kurzem mit einem Poller dieser Unsitte ein Riegel vorgeschoben.
+5-1	385-388	Auf	*[9]	
+5-2	389-392	der	*[9]	
+5-3	393-411	gegenüberliegenden	*[9]	
+5-4	412-417	Seite	*[9]	
+5-5	418-421	der	*[9]	
+5-6	422-436	Niederkasseler	*[9]	
+5-7	437-443	Straße	*[9]	
+5-8	443-444	,	*[9]	
+5-9	445-448	der	*[9]	
+5-10	449-459	Bergheimer	*[9]	
+5-11	460-466	Straße	*[9]	
+5-12	466-467	,	*[9]	
+5-13	468-473	wurde	_	
+5-14	474-478	erst	_	
+5-15	479-482	vor	_	
+5-16	483-489	kurzem	_	
+5-17	490-493	mit	_	
+5-18	494-499	einem	_	
+5-19	500-506	Poller	_	
+5-20	507-513	dieser	_	
+5-21	514-521	Unsitte	_	
+5-22	522-525	ein	_	
+5-23	526-532	Riegel	_	
+5-24	533-545	vorgeschoben	_	
+5-25	545-546	.	_	
+
+#Text=Vielleicht ist das ja auch eine Idee für die Liestraße.
+6-1	547-557	Vielleicht	_	
+6-2	558-561	ist	_	
+6-3	562-565	das	_	
+6-4	566-568	ja	_	
+6-5	569-573	auch	_	
+6-6	574-578	eine	_	
+6-7	579-583	Idee	_	
+6-8	584-587	für	_	
+6-9	588-591	die	*[10]	
+6-10	592-601	Liestraße	*[10]	
+6-11	601-602	.	_	

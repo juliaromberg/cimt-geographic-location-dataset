@@ -1,0 +1,98 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radverkehrsführung durch die Innenstadt
+1-1	0-18	Radverkehrsführung	_	
+1-2	19-24	durch	*[4]	
+1-3	25-28	die	*[4]	
+1-4	29-39	Innenstadt	*[4]	
+
+#Text=Für Radfahrer, die von Beuel aus über die Kennedybrücke kommen und in die Weststadt oder nach Endenich / Poppelsdorf etc. wollen (sprich: auf möglichst direktem Weg an der Innenstadt vorbei auf die andere Seite der Bahnlinie), gibt es kaum eine logische, direkte und weitgehende ungehinderte Radverkehrsführung.
+2-1	42-45	Für	_	
+2-2	46-55	Radfahrer	_	
+2-3	55-56	,	_	
+2-4	57-60	die	_	
+2-5	61-64	von	*[5]	
+2-6	65-70	Beuel	*[5]	
+2-7	71-74	aus	*[5]	
+2-8	75-79	über	*[5]	
+2-9	80-83	die	*[5]	
+2-10	84-97	Kennedybrücke	*[5]	
+2-11	98-104	kommen	_	
+2-12	105-108	und	_	
+2-13	109-111	in	*[6]	
+2-14	112-115	die	*[6]	
+2-15	116-125	Weststadt	*[6]	
+2-16	126-130	oder	*[6]	
+2-17	131-135	nach	*[6]	
+2-18	136-144	Endenich	*[6]	
+2-19	145-146	/	*[6]	
+2-20	147-158	Poppelsdorf	*[6]	
+2-21	159-162	etc	_	
+2-22	162-163	.	_	
+2-23	164-170	wollen	_	
+2-24	171-172	(	_	
+2-25	172-178	sprich	_	
+2-26	178-179	:	_	
+2-27	180-183	auf	_	
+2-28	184-193	möglichst	_	
+2-29	194-202	direktem	_	
+2-30	203-206	Weg	_	
+2-31	207-209	an	*[7]	
+2-32	210-213	der	*[7]	
+2-33	214-224	Innenstadt	*[7]	
+2-34	225-231	vorbei	_	
+2-35	232-235	auf	_	
+2-36	236-239	die	_	
+2-37	240-246	andere	_	
+2-38	247-252	Seite	_	
+2-39	253-256	der	_	
+2-40	257-266	Bahnlinie	_	
+2-41	266-267	)	_	
+2-42	267-268	,	_	
+2-43	269-273	gibt	_	
+2-44	274-276	es	_	
+2-45	277-281	kaum	_	
+2-46	282-286	eine	_	
+2-47	287-295	logische	_	
+2-48	295-296	,	_	
+2-49	297-304	direkte	_	
+2-50	305-308	und	_	
+2-51	309-320	weitgehende	_	
+2-52	321-333	ungehinderte	_	
+2-53	334-352	Radverkehrsführung	_	
+2-54	352-353	.	_	
+
+#Text=Eine Art nördlicher und südlicher Innenstadt-Umgehung auf durchgehend markierten Radwegen mit eine sinnvollen und sicheren Streckenführung zur Querung der Bahnlinie wäre hier eine deutliche Verbesserung für den Rad-Durchgangsverkehr.
+3-1	354-358	Eine	_	
+3-2	359-362	Art	_	
+3-3	363-373	nördlicher	*[8]	
+3-4	374-377	und	*[8]	
+3-5	378-387	südlicher	*[8]	
+3-6	388-407	Innenstadt-Umgehung	*[8]	
+3-7	408-411	auf	_	
+3-8	412-423	durchgehend	_	
+3-9	424-434	markierten	_	
+3-10	435-443	Radwegen	_	
+3-11	444-447	mit	_	
+3-12	448-452	eine	_	
+3-13	453-463	sinnvollen	_	
+3-14	464-467	und	_	
+3-15	468-476	sicheren	_	
+3-16	477-492	Streckenführung	_	
+3-17	493-496	zur	_	
+3-18	497-504	Querung	_	
+3-19	505-508	der	_	
+3-20	509-518	Bahnlinie	_	
+3-21	519-523	wäre	_	
+3-22	524-528	hier	_	
+3-23	529-533	eine	_	
+3-24	534-543	deutliche	_	
+3-25	544-556	Verbesserung	_	
+3-26	557-560	für	_	
+3-27	561-564	den	_	
+3-28	565-586	Rad-Durchgangsverkehr	_	
+3-29	586-587	.	_	

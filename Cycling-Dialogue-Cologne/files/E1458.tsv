@@ -1,0 +1,53 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampel Ecke Venloer / Franz Greuer
+1-1	0-5	Ampel	*[4]	
+1-2	6-10	Ecke	*[4]	
+1-3	11-18	Venloer	*[4]	
+1-4	19-20	/	*[4]	
+1-5	21-26	Franz	*[4]	
+1-6	27-33	Greuer	*[4]	
+
+#Text=Die Ampel kann wegfallen und durch einen Mini-Kreisverkehr mit Zebrastreifen an den Ein-/Ausgängen ersetzt werden.
+2-1	36-39	Die	_	
+2-2	40-45	Ampel	_	
+2-3	46-50	kann	_	
+2-4	51-60	wegfallen	_	
+2-5	61-64	und	_	
+2-6	65-70	durch	_	
+2-7	71-76	einen	_	
+2-8	77-94	Mini-Kreisverkehr	_	
+2-9	95-98	mit	_	
+2-10	99-112	Zebrastreifen	_	
+2-11	113-115	an	_	
+2-12	116-119	den	_	
+2-13	120-123	Ein	_	
+2-14	123-124	-	_	
+2-15	124-125	/	_	
+2-16	125-134	Ausgängen	_	
+2-17	135-142	ersetzt	_	
+2-18	143-149	werden	_	
+2-19	149-150	.	_	
+
+#Text=Damit würden Wartezeiten für Radfahrer (und Fußgänger) reduziert und ein allgemein achtsames Miteinander gefördert.
+3-1	151-156	Damit	_	
+3-2	157-163	würden	_	
+3-3	164-175	Wartezeiten	_	
+3-4	176-179	für	_	
+3-5	180-189	Radfahrer	_	
+3-6	190-191	(	_	
+3-7	191-194	und	_	
+3-8	195-204	Fußgänger	_	
+3-9	204-205	)	_	
+3-10	206-215	reduziert	_	
+3-11	216-219	und	_	
+3-12	220-223	ein	_	
+3-13	224-233	allgemein	_	
+3-14	234-243	achtsames	_	
+3-15	244-255	Miteinander	_	
+3-16	256-265	gefördert	_	
+3-17	265-266	.	_	

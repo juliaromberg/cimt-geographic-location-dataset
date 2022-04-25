@@ -1,0 +1,104 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Straßeneinbauten führen zu Konflikten mit dem Autoverkehr
+1-1	0-16	Straßeneinbauten	_	
+1-2	17-23	führen	_	
+1-3	24-26	zu	_	
+1-4	27-37	Konflikten	_	
+1-5	38-41	mit	_	
+1-6	42-45	dem	_	
+1-7	46-57	Autoverkehr	_	
+
+#Text=In der Schultheißstraße sind noch die Straßeneinbauten bzw. Fahrbahnverengungen aus der Zeit vorhanden, als der Radverkehr noch auf dem Gehweg geführt wurde.
+2-1	60-62	In	*[6]	
+2-2	63-66	der	*[6]	
+2-3	67-83	Schultheißstraße	*[6]	
+2-4	84-88	sind	_	
+2-5	89-93	noch	_	
+2-6	94-97	die	_	
+2-7	98-114	Straßeneinbauten	_	
+2-8	115-118	bzw	_	
+2-9	118-119	.	_	
+2-10	120-139	Fahrbahnverengungen	_	
+2-11	140-143	aus	_	
+2-12	144-147	der	_	
+2-13	148-152	Zeit	_	
+2-14	153-162	vorhanden	_	
+2-15	162-163	,	_	
+2-16	164-167	als	_	
+2-17	168-171	der	_	
+2-18	172-182	Radverkehr	_	
+2-19	183-187	noch	_	
+2-20	188-191	auf	_	
+2-21	192-195	dem	_	
+2-22	196-202	Gehweg	_	
+2-23	203-210	geführt	_	
+2-24	211-216	wurde	_	
+2-25	216-217	.	_	
+
+#Text=Die Verengungen sind so schmal (insbesondere die am Ende des Siedlungsbereichs), dass Autos und Radfahrer nichtt gleichzeitig durchfahren können.
+3-1	218-221	Die	_	
+3-2	222-233	Verengungen	_	
+3-3	234-238	sind	_	
+3-4	239-241	so	_	
+3-5	242-248	schmal	_	
+3-6	249-250	(	_	
+3-7	250-262	insbesondere	_	
+3-8	263-266	die	_	
+3-9	267-269	am	_	
+3-10	270-274	Ende	_	
+3-11	275-278	des	_	
+3-12	279-296	Siedlungsbereichs	_	
+3-13	296-297	)	_	
+3-14	297-298	,	_	
+3-15	299-303	dass	_	
+3-16	304-309	Autos	_	
+3-17	310-313	und	_	
+3-18	314-323	Radfahrer	_	
+3-19	324-330	nichtt	_	
+3-20	331-343	gleichzeitig	_	
+3-21	344-355	durchfahren	_	
+3-22	356-362	können	_	
+3-23	362-363	.	_	
+
+#Text=Das führt dementsprechend ständig zu schwierigen Situationen mit dem Autoverkehr, vor allem wenn dieser gerade von der Autobahn Beueler Straße reingeflogen kommt.
+4-1	364-367	Das	_	
+4-2	368-373	führt	_	
+4-3	374-389	dementsprechend	_	
+4-4	390-397	ständig	_	
+4-5	398-400	zu	_	
+4-6	401-412	schwierigen	_	
+4-7	413-424	Situationen	_	
+4-8	425-428	mit	_	
+4-9	429-432	dem	_	
+4-10	433-444	Autoverkehr	_	
+4-11	444-445	,	_	
+4-12	446-449	vor	_	
+4-13	450-455	allem	_	
+4-14	456-460	wenn	_	
+4-15	461-467	dieser	_	
+4-16	468-474	gerade	_	
+4-17	475-478	von	*[7]	
+4-18	479-482	der	*[7]	
+4-19	483-491	Autobahn	*[7]	
+4-20	492-499	Beueler	*[7]	
+4-21	500-506	Straße	*[7]	
+4-22	507-519	reingeflogen	_	
+4-23	520-525	kommt	_	
+4-24	525-526	.	_	
+
+#Text=Hier müsste die Radverkehrsführung durch bauliche Maßnahmen verbessert werden.
+5-1	527-531	Hier	_	
+5-2	532-538	müsste	_	
+5-3	539-542	die	_	
+5-4	543-561	Radverkehrsführung	_	
+5-5	562-567	durch	_	
+5-6	568-576	bauliche	_	
+5-7	577-586	Maßnahmen	_	
+5-8	587-597	verbessert	_	
+5-9	598-604	werden	_	
+5-10	604-605	.	_	

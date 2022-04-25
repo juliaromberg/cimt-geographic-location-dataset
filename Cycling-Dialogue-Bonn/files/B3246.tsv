@@ -1,0 +1,149 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unklare Beschilderung
+1-1	0-7	Unklare	_	
+1-2	8-21	Beschilderung	_	
+
+#Text=Überquert man den Am Probsthof von der Ennemoserstraße in Richtung Brühler Strasse, dann sieht man ein blaues Schild auf dem Weg, das dies als reinen Radweg ausschildert.
+2-1	24-33	Überquert	*[9]	
+2-2	34-37	man	*[9]	
+2-3	38-41	den	*[9]	
+2-4	42-44	Am	*[9]	
+2-5	45-54	Probsthof	*[9]	
+2-6	55-58	von	*[9]	
+2-7	59-62	der	*[9]	
+2-8	63-78	Ennemoserstraße	*[9]	
+2-9	79-81	in	*[9]	
+2-10	82-90	Richtung	*[9]	
+2-11	91-98	Brühler	*[9]	
+2-12	99-106	Strasse	*[9]	
+2-13	106-107	,	_	
+2-14	108-112	dann	_	
+2-15	113-118	sieht	_	
+2-16	119-122	man	_	
+2-17	123-126	ein	_	
+2-18	127-133	blaues	_	
+2-19	134-140	Schild	_	
+2-20	141-144	auf	_	
+2-21	145-148	dem	_	
+2-22	149-152	Weg	_	
+2-23	152-153	,	_	
+2-24	154-157	das	_	
+2-25	158-162	dies	_	
+2-26	163-166	als	_	
+2-27	167-173	reinen	_	
+2-28	174-180	Radweg	_	
+2-29	181-193	ausschildert	_	
+2-30	193-194	.	_	
+
+#Text=Warum laufen den dann Fussgänger dort.
+3-1	195-200	Warum	_	
+3-2	201-207	laufen	_	
+3-3	208-211	den	_	
+3-4	212-216	dann	_	
+3-5	217-227	Fussgänger	_	
+3-6	228-232	dort	_	
+3-7	232-233	.	_	
+
+#Text=Hier fehlt ein Schild mit Hinweis auf den gemeinsamen Fuss-/Geweg, wenn es anders gemeit ist.
+4-1	234-238	Hier	_	
+4-2	239-244	fehlt	_	
+4-3	245-248	ein	_	
+4-4	249-255	Schild	_	
+4-5	256-259	mit	_	
+4-6	260-267	Hinweis	_	
+4-7	268-271	auf	_	
+4-8	272-275	den	_	
+4-9	276-287	gemeinsamen	_	
+4-10	288-292	Fuss	_	
+4-11	292-293	-	_	
+4-12	293-294	/	_	
+4-13	294-299	Geweg	_	
+4-14	299-300	,	_	
+4-15	301-305	wenn	_	
+4-16	306-308	es	_	
+4-17	309-315	anders	_	
+4-18	316-322	gemeit	_	
+4-19	323-326	ist	_	
+4-20	326-327	.	_	
+
+#Text=Überquert man den Probsthof in die andere Richtung, etwa am Fussgängerüberweg, dann kann man die Beschilderung, dass der Fusseg frei gegeben ist, nicht sehen.
+5-1	328-337	Überquert	*[10]	
+5-2	338-341	man	*[10]	
+5-3	342-345	den	*[10]	
+5-4	346-355	Probsthof	*[10]	
+5-5	356-358	in	_	
+5-6	359-362	die	_	
+5-7	363-369	andere	_	
+5-8	370-378	Richtung	_	
+5-9	378-379	,	_	
+5-10	380-384	etwa	_	
+5-11	385-387	am	_	
+5-12	388-405	Fussgängerüberweg	_	
+5-13	405-406	,	_	
+5-14	407-411	dann	_	
+5-15	412-416	kann	_	
+5-16	417-420	man	_	
+5-17	421-424	die	_	
+5-18	425-438	Beschilderung	_	
+5-19	438-439	,	_	
+5-20	440-444	dass	_	
+5-21	445-448	der	_	
+5-22	449-455	Fusseg	_	
+5-23	456-460	frei	_	
+5-24	461-468	gegeben	_	
+5-25	469-472	ist	_	
+5-26	472-473	,	_	
+5-27	474-479	nicht	_	
+5-28	480-485	sehen	_	
+5-29	485-486	.	_	
+
+#Text=Allerdings ist dieser schmale Weg am Zaun entlang eher eine Zumutung.
+6-1	487-497	Allerdings	_	
+6-2	498-501	ist	_	
+6-3	502-508	dieser	_	
+6-4	509-516	schmale	_	
+6-5	517-520	Weg	_	
+6-6	521-523	am	_	
+6-7	524-528	Zaun	_	
+6-8	529-536	entlang	_	
+6-9	537-541	eher	_	
+6-10	542-546	eine	_	
+6-11	547-555	Zumutung	_	
+6-12	555-556	.	_	
+
+#Text=zugewachesen, zu schmal, Radgegenverkehr und holprig durch Schäden am Belag durch Baumwurzeln.
+7-1	557-569	zugewachesen	_	
+7-2	569-570	,	_	
+7-3	571-573	zu	_	
+7-4	574-580	schmal	_	
+7-5	580-581	,	_	
+7-6	582-597	Radgegenverkehr	_	
+7-7	598-601	und	_	
+7-8	602-609	holprig	_	
+7-9	610-615	durch	_	
+7-10	616-623	Schäden	_	
+7-11	624-626	am	_	
+7-12	627-632	Belag	_	
+7-13	633-638	durch	_	
+7-14	639-650	Baumwurzeln	_	
+7-15	650-651	.	_	
+
+#Text=Fussgänger nutzen den nur für Radfahrer freigegeben Teil oft verkehrswidrig als Abkürzung.
+8-1	652-662	Fussgänger	_	
+8-2	663-669	nutzen	_	
+8-3	670-673	den	_	
+8-4	674-677	nur	_	
+8-5	678-681	für	_	
+8-6	682-691	Radfahrer	_	
+8-7	692-703	freigegeben	_	
+8-8	704-708	Teil	_	
+8-9	709-712	oft	_	
+8-10	713-727	verkehrswidrig	_	
+8-11	728-731	als	_	
+8-12	732-741	Abkürzung	_	
+8-13	741-742	.	_	

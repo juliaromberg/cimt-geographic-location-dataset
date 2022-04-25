@@ -1,0 +1,159 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Der Autofahrer vergisst das hier Radfahrer vorfahrtsberechtigt queren
+1-1	0-3	Der	_	
+1-2	4-14	Autofahrer	_	
+1-3	15-23	vergisst	_	
+1-4	24-27	das	_	
+1-5	28-32	hier	_	
+1-6	33-42	Radfahrer	_	
+1-7	43-62	vorfahrtsberechtigt	_	
+1-8	63-69	queren	_	
+
+#Text=Für den Autofahrer der aus der Stadt kommt und in Richtung Kreisverkehr unterwegs ist, hat man an einer Laterne 30m vor dem Kreisverkehr ein VZ 205 mit dem Zusatzschild Zeichen 1000-32 (Vorfahrt mit Radfahrer kreuzen von rechts und links) und einem Zusatzschild 30m angebracht.
+2-1	72-75	Für	_	
+2-2	76-79	den	_	
+2-3	80-90	Autofahrer	_	
+2-4	91-94	der	_	
+2-5	95-98	aus	_	
+2-6	99-102	der	_	
+2-7	103-108	Stadt	_	
+2-8	109-114	kommt	_	
+2-9	115-118	und	_	
+2-10	119-121	in	_	
+2-11	122-130	Richtung	_	
+2-12	131-143	Kreisverkehr	_	
+2-13	144-153	unterwegs	_	
+2-14	154-157	ist	_	
+2-15	157-158	,	_	
+2-16	159-162	hat	_	
+2-17	163-166	man	_	
+2-18	167-169	an	_	
+2-19	170-175	einer	_	
+2-20	176-183	Laterne	_	
+2-21	184-187	30m	_	
+2-22	188-191	vor	_	
+2-23	192-195	dem	_	
+2-24	196-208	Kreisverkehr	_	
+2-25	209-212	ein	_	
+2-26	213-215	VZ	_	
+2-27	216-219	205	_	
+2-28	220-223	mit	_	
+2-29	224-227	dem	_	
+2-30	228-240	Zusatzschild	_	
+2-31	241-248	Zeichen	_	
+2-32	249-253	1000	_	
+2-33	253-254	-	_	
+2-34	254-256	32	_	
+2-35	257-258	(	_	
+2-36	258-266	Vorfahrt	_	
+2-37	267-270	mit	_	
+2-38	271-280	Radfahrer	_	
+2-39	281-288	kreuzen	_	
+2-40	289-292	von	_	
+2-41	293-299	rechts	_	
+2-42	300-303	und	_	
+2-43	304-309	links	_	
+2-44	309-310	)	_	
+2-45	311-314	und	_	
+2-46	315-320	einem	_	
+2-47	321-333	Zusatzschild	_	
+2-48	334-337	30m	_	
+2-49	338-348	angebracht	_	
+2-50	348-349	.	_	
+
+#Text=Dieses sollte man durch ein zusätzliches gelbes Blinklicht nochmal hervorheben (Strom ist ja durch die Laterne da :-) ).
+3-1	350-356	Dieses	_	
+3-2	357-363	sollte	_	
+3-3	364-367	man	_	
+3-4	368-373	durch	_	
+3-5	374-377	ein	_	
+3-6	378-390	zusätzliches	_	
+3-7	391-397	gelbes	_	
+3-8	398-408	Blinklicht	_	
+3-9	409-416	nochmal	_	
+3-10	417-428	hervorheben	_	
+3-11	429-430	(	_	
+3-12	430-435	Strom	_	
+3-13	436-439	ist	_	
+3-14	440-442	ja	_	
+3-15	443-448	durch	_	
+3-16	449-452	die	_	
+3-17	453-460	Laterne	_	
+3-18	461-463	da	_	
+3-19	464-465	:	_	
+3-20	465-466	-	_	
+3-21	466-467	)	_	
+3-22	468-469	)	_	
+3-23	469-470	.	_	
+
+#Text=Viele Autofahrer nehmen dieses Schild nicht wahr oder vergessen es auf dem Weg zum Kreisverkehr.
+4-1	471-476	Viele	_	
+4-2	477-487	Autofahrer	_	
+4-3	488-494	nehmen	_	
+4-4	495-501	dieses	_	
+4-5	502-508	Schild	_	
+4-6	509-514	nicht	_	
+4-7	515-519	wahr	_	
+4-8	520-524	oder	_	
+4-9	525-534	vergessen	_	
+4-10	535-537	es	_	
+4-11	538-541	auf	_	
+4-12	542-545	dem	_	
+4-13	546-549	Weg	_	
+4-14	550-553	zum	_	
+4-15	554-566	Kreisverkehr	_	
+4-16	566-567	.	_	
+
+#Text=Man wird dann von den Autofahrern unverständig angesehen oder sogar belehrt man sollte absteigen und schieben, wenn man auf der Radfahrerfurt hinter dem Zebrastreifen die Straße fahrend quert.
+5-1	568-571	Man	_	
+5-2	572-576	wird	_	
+5-3	577-581	dann	_	
+5-4	582-585	von	_	
+5-5	586-589	den	_	
+5-6	590-601	Autofahrern	_	
+5-7	602-614	unverständig	_	
+5-8	615-624	angesehen	_	
+5-9	625-629	oder	_	
+5-10	630-635	sogar	_	
+5-11	636-643	belehrt	_	
+5-12	644-647	man	_	
+5-13	648-654	sollte	_	
+5-14	655-664	absteigen	_	
+5-15	665-668	und	_	
+5-16	669-677	schieben	_	
+5-17	677-678	,	_	
+5-18	679-683	wenn	_	
+5-19	684-687	man	_	
+5-20	688-691	auf	_	
+5-21	692-695	der	_	
+5-22	696-709	Radfahrerfurt	_	
+5-23	710-716	hinter	_	
+5-24	717-720	dem	_	
+5-25	721-734	Zebrastreifen	_	
+5-26	735-738	die	_	
+5-27	739-745	Straße	_	
+5-28	746-753	fahrend	_	
+5-29	754-759	quert	_	
+5-30	759-760	.	_	
+
+#Text=Eine Freundin wurde hier auch angefahren und lag auf der Motorhaube:-(.
+6-1	761-765	Eine	_	
+6-2	766-774	Freundin	_	
+6-3	775-780	wurde	_	
+6-4	781-785	hier	_	
+6-5	786-790	auch	_	
+6-6	791-801	angefahren	_	
+6-7	802-805	und	_	
+6-8	806-809	lag	_	
+6-9	810-813	auf	_	
+6-10	814-817	der	_	
+6-11	818-828	Motorhaube	_	
+6-12	828-829	:	_	
+6-13	829-830	-	_	
+6-14	830-831	(	_	
+6-15	831-832	.	_	

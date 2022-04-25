@@ -1,0 +1,47 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegmarkierung gegen die Einbahnstraße
+1-1	0-16	Radwegmarkierung	_	
+1-2	17-22	gegen	_	
+1-3	23-26	die	_	
+1-4	27-40	Einbahnstraße	_	
+
+#Text=Für Fahrradfahrer, die vom Rheinufer das Rosental hochfahren, sollte ein Fahrradweg eingezeichnet werden, auch damit sich Autofahrer besser bewusst sind, dass ihnen Fahrradfahrer in der Einbahnstraße entgegen kommen können.
+2-1	43-46	Für	_	
+2-2	47-60	Fahrradfahrer	_	
+2-3	60-61	,	_	
+2-4	62-65	die	_	
+2-5	66-69	vom	*[3]	
+2-6	70-79	Rheinufer	*[3]	
+2-7	80-83	das	*[3]	
+2-8	84-92	Rosental	*[3]	
+2-9	93-103	hochfahren	*[3]	
+2-10	103-104	,	_	
+2-11	105-111	sollte	_	
+2-12	112-115	ein	_	
+2-13	116-126	Fahrradweg	_	
+2-14	127-140	eingezeichnet	_	
+2-15	141-147	werden	_	
+2-16	147-148	,	_	
+2-17	149-153	auch	_	
+2-18	154-159	damit	_	
+2-19	160-164	sich	_	
+2-20	165-175	Autofahrer	_	
+2-21	176-182	besser	_	
+2-22	183-190	bewusst	_	
+2-23	191-195	sind	_	
+2-24	195-196	,	_	
+2-25	197-201	dass	_	
+2-26	202-207	ihnen	_	
+2-27	208-221	Fahrradfahrer	_	
+2-28	222-224	in	_	
+2-29	225-228	der	_	
+2-30	229-242	Einbahnstraße	_	
+2-31	243-251	entgegen	_	
+2-32	252-258	kommen	_	
+2-33	259-265	können	_	
+2-34	265-266	.	_	

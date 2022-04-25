@@ -1,0 +1,156 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radfahrer-Ampelschaltung im Konflikt zur Autoampelschaltung
+1-1	0-24	Radfahrer-Ampelschaltung	_	
+1-2	25-27	im	_	
+1-3	28-36	Konflikt	_	
+1-4	37-40	zur	_	
+1-5	41-59	Autoampelschaltung	_	
+
+#Text=Radfahrer*innen, vor allem Kinder auf dem Weg zur Schule, die aus der Heerstrasße kommend (dort gibt es seit einiger Zeit eine Radfahrer*innenampel) die Kölnstraße überqueren wollen, um Richtung Rosental und Graurheindorfer Str.
+2-1	62-71	Radfahrer	_	
+2-2	71-72	*	_	
+2-3	72-77	innen	_	
+2-4	77-78	,	_	
+2-5	79-82	vor	_	
+2-6	83-88	allem	_	
+2-7	89-95	Kinder	_	
+2-8	96-99	auf	_	
+2-9	100-103	dem	_	
+2-10	104-107	Weg	_	
+2-11	108-111	zur	_	
+2-12	112-118	Schule	_	
+2-13	118-119	,	_	
+2-14	120-123	die	_	
+2-15	124-127	aus	*[7]	
+2-16	128-131	der	*[7]	
+2-17	132-143	Heerstrasße	*[7]	
+2-18	144-151	kommend	*[7]	
+2-19	152-153	(	_	
+2-20	153-157	dort	_	
+2-21	158-162	gibt	_	
+2-22	163-165	es	_	
+2-23	166-170	seit	_	
+2-24	171-178	einiger	_	
+2-25	179-183	Zeit	_	
+2-26	184-188	eine	_	
+2-27	189-198	Radfahrer	_	
+2-28	198-199	*	_	
+2-29	199-209	innenampel	_	
+2-30	209-210	)	_	
+2-31	211-214	die	*[8]	
+2-32	215-225	Kölnstraße	*[8]	
+2-33	226-236	überqueren	*[8]	
+2-34	237-243	wollen	_	
+2-35	243-244	,	_	
+2-36	245-247	um	_	
+2-37	248-256	Richtung	*[9]	
+2-38	257-265	Rosental	*[9]	
+2-39	266-269	und	*[9]	
+2-40	270-285	Graurheindorfer	*[9]	
+2-41	286-289	Str	*[9]	
+2-42	289-290	.	_	
+
+#Text=weiterfahren zu können müssen fast immer damit rechen, dass die Autofahrer*innen, die vom Rosental kommen und in die Kölnstr abbiegen möchten ihnen riskant die Vorfahrt nehmen.
+3-1	291-303	weiterfahren	_	
+3-2	304-306	zu	_	
+3-3	307-313	können	_	
+3-4	314-320	müssen	_	
+3-5	321-325	fast	_	
+3-6	326-331	immer	_	
+3-7	332-337	damit	_	
+3-8	338-344	rechen	_	
+3-9	344-345	,	_	
+3-10	346-350	dass	_	
+3-11	351-354	die	_	
+3-12	355-365	Autofahrer	_	
+3-13	365-366	*	_	
+3-14	366-371	innen	_	
+3-15	371-372	,	_	
+3-16	373-376	die	_	
+3-17	377-380	vom	*[10]	
+3-18	381-389	Rosental	*[10]	
+3-19	390-396	kommen	*[10]	
+3-20	397-400	und	*[10]	
+3-21	401-403	in	*[10]	
+3-22	404-407	die	*[10]	
+3-23	408-415	Kölnstr	*[10]	
+3-24	416-424	abbiegen	*[10]	
+3-25	425-432	möchten	_	
+3-26	433-438	ihnen	_	
+3-27	439-446	riskant	_	
+3-28	447-450	die	_	
+3-29	451-459	Vorfahrt	_	
+3-30	460-466	nehmen	_	
+3-31	466-467	.	_	
+
+#Text=Der Hauptgrund liegt darin, dass die Ampelschaltung für die Autofahrer sehr knapp eingestellt ist und oft nur zwei oder drei Autos durchkommen.
+4-1	468-471	Der	_	
+4-2	472-482	Hauptgrund	_	
+4-3	483-488	liegt	_	
+4-4	489-494	darin	_	
+4-5	494-495	,	_	
+4-6	496-500	dass	_	
+4-7	501-504	die	_	
+4-8	505-519	Ampelschaltung	_	
+4-9	520-523	für	_	
+4-10	524-527	die	_	
+4-11	528-538	Autofahrer	_	
+4-12	539-543	sehr	_	
+4-13	544-549	knapp	_	
+4-14	550-561	eingestellt	_	
+4-15	562-565	ist	_	
+4-16	566-569	und	_	
+4-17	570-573	oft	_	
+4-18	574-577	nur	_	
+4-19	578-582	zwei	_	
+4-20	583-587	oder	_	
+4-21	588-592	drei	_	
+4-22	593-598	Autos	_	
+4-23	599-610	durchkommen	_	
+4-24	610-611	.	_	
+
+#Text=Die Autos stauen sich oft bis in die Graurheindorfer Str. bzw in das Rosental.
+5-1	612-615	Die	_	
+5-2	616-621	Autos	_	
+5-3	622-628	stauen	_	
+5-4	629-633	sich	_	
+5-5	634-637	oft	_	
+5-6	638-641	bis	_	
+5-7	642-644	in	*[11]	
+5-8	645-648	die	*[11]	
+5-9	649-664	Graurheindorfer	*[11]	
+5-10	665-668	Str	*[11]	
+5-11	668-669	.	*[11]	
+5-12	670-673	bzw	*[11]	
+5-13	674-676	in	*[11]	
+5-14	677-680	das	*[11]	
+5-15	681-689	Rosental	*[11]	
+5-16	689-690	.	_	
+
+#Text=Eine sehr gefährliche Situation, wie ich finde, der Abhilfe dadurch geschaffen werden könnte indem die Ampelschaltung entspannt würde.
+6-1	691-695	Eine	_	
+6-2	696-700	sehr	_	
+6-3	701-712	gefährliche	_	
+6-4	713-722	Situation	_	
+6-5	722-723	,	_	
+6-6	724-727	wie	_	
+6-7	728-731	ich	_	
+6-8	732-737	finde	_	
+6-9	737-738	,	_	
+6-10	739-742	der	_	
+6-11	743-750	Abhilfe	_	
+6-12	751-758	dadurch	_	
+6-13	759-769	geschaffen	_	
+6-14	770-776	werden	_	
+6-15	777-783	könnte	_	
+6-16	784-789	indem	_	
+6-17	790-793	die	_	
+6-18	794-808	Ampelschaltung	_	
+6-19	809-818	entspannt	_	
+6-20	819-824	würde	_	
+6-21	824-825	.	_	

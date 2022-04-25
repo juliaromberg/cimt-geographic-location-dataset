@@ -1,0 +1,197 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährlicher Radweg in beiden Richtungen
+1-1	0-12	Gefährlicher	_	
+1-2	13-19	Radweg	_	
+1-3	20-22	in	_	
+1-4	23-29	beiden	_	
+1-5	30-40	Richtungen	_	
+
+#Text=Der Haager Weg ist in beiden Richtungen zwischen Ippendorf und Venusberg besonders in den kalten Jahreszeiten für Radfahrer ungeeignet.
+2-1	43-46	Der	*[12]	
+2-2	47-53	Haager	*[12]	
+2-3	54-57	Weg	*[12]	
+2-4	58-61	ist	_	
+2-5	62-64	in	*[13]	
+2-6	65-71	beiden	*[13]	
+2-7	72-82	Richtungen	*[13]	
+2-8	83-91	zwischen	*[13]	
+2-9	92-101	Ippendorf	*[13]	
+2-10	102-105	und	*[13]	
+2-11	106-115	Venusberg	*[13]	
+2-12	116-125	besonders	_	
+2-13	126-128	in	_	
+2-14	129-132	den	_	
+2-15	133-139	kalten	_	
+2-16	140-152	Jahreszeiten	_	
+2-17	153-156	für	_	
+2-18	157-166	Radfahrer	_	
+2-19	167-177	ungeeignet	_	
+2-20	177-178	.	_	
+
+#Text=Aus Richtung Venusberg ist der Radweg teils schräg, so dass Schmutz, Äste, Steine bei Regen genau dort hin gespült werden und daher für Radfahrer sehr gefährlich ist.
+3-1	179-182	Aus	*[14]	
+3-2	183-191	Richtung	*[14]	
+3-3	192-201	Venusberg	*[14]	
+3-4	202-205	ist	_	
+3-5	206-209	der	_	
+3-6	210-216	Radweg	_	
+3-7	217-222	teils	_	
+3-8	223-229	schräg	_	
+3-9	229-230	,	_	
+3-10	231-233	so	_	
+3-11	234-238	dass	_	
+3-12	239-246	Schmutz	_	
+3-13	246-247	,	_	
+3-14	248-252	Äste	_	
+3-15	252-253	,	_	
+3-16	254-260	Steine	_	
+3-17	261-264	bei	_	
+3-18	265-270	Regen	_	
+3-19	271-276	genau	_	
+3-20	277-281	dort	_	
+3-21	282-285	hin	_	
+3-22	286-293	gespült	_	
+3-23	294-300	werden	_	
+3-24	301-304	und	_	
+3-25	305-310	daher	_	
+3-26	311-314	für	_	
+3-27	315-324	Radfahrer	_	
+3-28	325-329	sehr	_	
+3-29	330-340	gefährlich	_	
+3-30	341-344	ist	_	
+3-31	344-345	.	_	
+
+#Text=Der Radstreifen ist zudem sehr schmal und ist nicht von der Fahrbahn abgetrennt.
+4-1	346-349	Der	_	
+4-2	350-361	Radstreifen	_	
+4-3	362-365	ist	_	
+4-4	366-371	zudem	_	
+4-5	372-376	sehr	_	
+4-6	377-383	schmal	_	
+4-7	384-387	und	_	
+4-8	388-391	ist	_	
+4-9	392-397	nicht	_	
+4-10	398-401	von	_	
+4-11	402-405	der	_	
+4-12	406-414	Fahrbahn	_	
+4-13	415-425	abgetrennt	_	
+4-14	425-426	.	_	
+
+#Text=PKW und LKW/Linienbusse nutzen den Radstreifen, um den Gegenverkehr schneller passieren zu können.
+5-1	427-430	PKW	_	
+5-2	431-434	und	_	
+5-3	435-438	LKW	_	
+5-4	438-439	/	_	
+5-5	439-450	Linienbusse	_	
+5-6	451-457	nutzen	_	
+5-7	458-461	den	_	
+5-8	462-473	Radstreifen	_	
+5-9	473-474	,	_	
+5-10	475-477	um	_	
+5-11	478-481	den	_	
+5-12	482-494	Gegenverkehr	_	
+5-13	495-504	schneller	_	
+5-14	505-514	passieren	_	
+5-15	515-517	zu	_	
+5-16	518-524	können	_	
+5-17	524-525	.	_	
+
+#Text=Der Radstreifen hat viele Löcher und verengt sich zum Ende hin.
+6-1	526-529	Der	_	
+6-2	530-541	Radstreifen	_	
+6-3	542-545	hat	_	
+6-4	546-551	viele	_	
+6-5	552-558	Löcher	_	
+6-6	559-562	und	_	
+6-7	563-570	verengt	_	
+6-8	571-575	sich	_	
+6-9	576-579	zum	_	
+6-10	580-584	Ende	_	
+6-11	585-588	hin	_	
+6-12	588-589	.	_	
+
+#Text=Aus Richtung Ippendorf ist der Weg zwar von der Straße durch eine Bordsteinkante abgegrenzt.
+7-1	590-593	Aus	*[15]	
+7-2	594-602	Richtung	*[15]	
+7-3	603-612	Ippendorf	*[15]	
+7-4	613-616	ist	_	
+7-5	617-620	der	_	
+7-6	621-624	Weg	_	
+7-7	625-629	zwar	_	
+7-8	630-633	von	_	
+7-9	634-637	der	_	
+7-10	638-644	Straße	_	
+7-11	645-650	durch	_	
+7-12	651-655	eine	_	
+7-13	656-670	Bordsteinkante	_	
+7-14	671-681	abgegrenzt	_	
+7-15	681-682	.	_	
+
+#Text=Hier teilen sich Radfahrer und Fußgänger den Weg.
+8-1	683-687	Hier	_	
+8-2	688-694	teilen	_	
+8-3	695-699	sich	_	
+8-4	700-709	Radfahrer	_	
+8-5	710-713	und	_	
+8-6	714-723	Fußgänger	_	
+8-7	724-727	den	_	
+8-8	728-731	Weg	_	
+8-9	731-732	.	_	
+
+#Text=Dieser ist besonders im Winter sehr rutschig und wird seltenst geräumt.
+9-1	733-739	Dieser	_	
+9-2	740-743	ist	_	
+9-3	744-753	besonders	_	
+9-4	754-756	im	_	
+9-5	757-763	Winter	_	
+9-6	764-768	sehr	_	
+9-7	769-777	rutschig	_	
+9-8	778-781	und	_	
+9-9	782-786	wird	_	
+9-10	787-795	seltenst	_	
+9-11	796-803	geräumt	_	
+9-12	803-804	.	_	
+
+#Text=Am Ende des Radwegs muss der Radfahrer über einen Zebrastreifen auf die Straße fahren.
+10-1	805-807	Am	_	
+10-2	808-812	Ende	_	
+10-3	813-816	des	_	
+10-4	817-824	Radwegs	_	
+10-5	825-829	muss	_	
+10-6	830-833	der	_	
+10-7	834-843	Radfahrer	_	
+10-8	844-848	über	_	
+10-9	849-854	einen	_	
+10-10	855-868	Zebrastreifen	_	
+10-11	869-872	auf	_	
+10-12	873-876	die	_	
+10-13	877-883	Straße	_	
+10-14	884-890	fahren	_	
+10-15	890-891	.	_	
+
+#Text=Diese ist mit zahlreichen tiefen Löchern am Straßenrand nicht nur eine Zumutung für Biker, sondern auch noch gefährlich.
+11-1	892-897	Diese	_	
+11-2	898-901	ist	_	
+11-3	902-905	mit	_	
+11-4	906-917	zahlreichen	_	
+11-5	918-924	tiefen	_	
+11-6	925-932	Löchern	_	
+11-7	933-935	am	_	
+11-8	936-947	Straßenrand	_	
+11-9	948-953	nicht	_	
+11-10	954-957	nur	_	
+11-11	958-962	eine	_	
+11-12	963-971	Zumutung	_	
+11-13	972-975	für	_	
+11-14	976-981	Biker	_	
+11-15	981-982	,	_	
+11-16	983-990	sondern	_	
+11-17	991-995	auch	_	
+11-18	996-1000	noch	_	
+11-19	1001-1011	gefährlich	_	
+11-20	1011-1012	.	_	

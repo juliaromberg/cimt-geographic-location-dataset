@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radschutzstreifen in Dooring Zone
+1-1	0-17	Radschutzstreifen	_	
+1-2	18-20	in	_	
+1-3	21-28	Dooring	*[6]	
+1-4	29-33	Zone	*[6]	
+
+#Text=Am Propsthof existiert in Richtung der Straße auf dem Hügel ein Radschutzstreifen, der größtenteils direkt in der Dooring Zone parkender Autos verläuft.
+2-1	36-38	Am	*[7]	
+2-2	39-48	Propsthof	*[7]	
+2-3	49-58	existiert	*[7]	
+2-4	59-61	in	*[7]	
+2-5	62-70	Richtung	*[7]	
+2-6	71-74	der	*[7]	
+2-7	75-81	Straße	*[7]	
+2-8	82-85	auf	*[7]	
+2-9	86-89	dem	*[7]	
+2-10	90-95	Hügel	*[7]	
+2-11	96-99	ein	_	
+2-12	100-117	Radschutzstreifen	_	
+2-13	117-118	,	_	
+2-14	119-122	der	_	
+2-15	123-135	größtenteils	_	
+2-16	136-142	direkt	_	
+2-17	143-145	in	*[8]	
+2-18	146-149	der	*[8]	
+2-19	150-157	Dooring	*[8]	
+2-20	158-162	Zone	*[8]	
+2-21	163-172	parkender	_	
+2-22	173-178	Autos	_	
+2-23	179-187	verläuft	_	
+2-24	187-188	.	_	
+
+#Text=Radfahrer sind daher gezwungen eher neben, als auf dem Schutzstreifen zu fahren.
+3-1	189-198	Radfahrer	_	
+3-2	199-203	sind	_	
+3-3	204-209	daher	_	
+3-4	210-219	gezwungen	_	
+3-5	220-224	eher	_	
+3-6	225-230	neben	_	
+3-7	230-231	,	_	
+3-8	232-235	als	_	
+3-9	236-239	auf	_	
+3-10	240-243	dem	_	
+3-11	244-258	Schutzstreifen	_	
+3-12	259-261	zu	_	
+3-13	262-268	fahren	_	
+3-14	268-269	.	_	
+
+#Text=Lösungsvorschlag 1: Entfernung des nicht regelkonformen Schutzstreifens und Ausweisen eines Tempolimits.
+4-1	270-286	Lösungsvorschlag	_	
+4-2	287-288	1	_	
+4-3	288-289	:	_	
+4-4	290-300	Entfernung	_	
+4-5	301-304	des	_	
+4-6	305-310	nicht	_	
+4-7	311-325	regelkonformen	_	
+4-8	326-341	Schutzstreifens	_	
+4-9	342-345	und	_	
+4-10	346-355	Ausweisen	_	
+4-11	356-361	eines	_	
+4-12	362-373	Tempolimits	_	
+4-13	373-374	.	_	
+
+#Text=Lösungsvorschlag 2: Entfernung der Parkplätze.
+5-1	375-391	Lösungsvorschlag	_	
+5-2	392-393	2	_	
+5-3	393-394	:	_	
+5-4	395-405	Entfernung	_	
+5-5	406-409	der	_	
+5-6	410-420	Parkplätze	_	
+5-7	420-421	.	_	

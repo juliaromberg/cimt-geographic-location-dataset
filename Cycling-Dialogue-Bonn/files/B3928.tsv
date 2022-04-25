@@ -1,0 +1,120 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Auto-Ampeln vorhanden, warum nicht auch Fußgänger-Ampel?
+1-1	0-11	Auto-Ampeln	_	
+1-2	12-21	vorhanden	_	
+1-3	21-22	,	_	
+1-4	23-28	warum	_	
+1-5	29-34	nicht	_	
+1-6	35-39	auch	_	
+1-7	40-55	Fußgänger-Ampel	_	
+1-8	55-56	?	_	
+
+#Text=!
+2-1	57-58	!	_	
+
+#Text=Wenn man von der Kinderklinik kommend (stadteinwärts) links abbiegen will, um auf die ruhigere Kaiserstraße zu gelangen ist dies erst relativ spät (kurz vor dem Hofgarten) möglich.
+3-1	61-65	Wenn	_	
+3-2	66-69	man	_	
+3-3	70-73	von	_	
+3-4	74-77	der	_	
+3-5	78-90	Kinderklinik	_	
+3-6	91-98	kommend	_	
+3-7	99-100	(	_	
+3-8	100-113	stadteinwärts	*[5]	
+3-9	113-114	)	*[5]	
+3-10	115-120	links	*[5]	
+3-11	121-129	abbiegen	*[5]	
+3-12	130-134	will	_	
+3-13	134-135	,	_	
+3-14	136-138	um	_	
+3-15	139-142	auf	*[6]	
+3-16	143-146	die	*[6]	
+3-17	147-155	ruhigere	*[6]	
+3-18	156-168	Kaiserstraße	*[6]	
+3-19	169-171	zu	_	
+3-20	172-180	gelangen	_	
+3-21	181-184	ist	_	
+3-22	185-189	dies	_	
+3-23	190-194	erst	_	
+3-24	195-202	relativ	_	
+3-25	203-207	spät	_	
+3-26	208-209	(	_	
+3-27	209-213	kurz	*[7]	
+3-28	214-217	vor	*[7]	
+3-29	218-221	dem	*[7]	
+3-30	222-231	Hofgarten	*[7]	
+3-31	231-232	)	_	
+3-32	233-240	möglich	_	
+3-33	240-241	.	_	
+
+#Text=Es sind ein paar Ampeln auf dieser Strecke installiert, aber u.a. an der Tempelstraße gibt es dort keinen Fußgängerüberweg über die Adenauerallee.
+4-1	242-244	Es	_	
+4-2	245-249	sind	_	
+4-3	250-253	ein	_	
+4-4	254-258	paar	_	
+4-5	259-265	Ampeln	_	
+4-6	266-269	auf	_	
+4-7	270-276	dieser	_	
+4-8	277-284	Strecke	_	
+4-9	285-296	installiert	_	
+4-10	296-297	,	_	
+4-11	298-302	aber	_	
+4-12	303-306	u.a	_	
+4-13	306-307	.	_	
+4-14	308-310	an	*[8]	
+4-15	311-314	der	*[8]	
+4-16	315-327	Tempelstraße	*[8]	
+4-17	328-332	gibt	_	
+4-18	333-335	es	_	
+4-19	336-340	dort	_	
+4-20	341-347	keinen	_	
+4-21	348-364	Fußgängerüberweg	_	
+4-22	365-369	über	*[9]	
+4-23	370-373	die	*[9]	
+4-24	374-387	Adenauerallee	*[9]	
+4-25	387-388	.	_	
+
+#Text=Ich würde mir wünschen, dass bei den bereits bestehenden Verkehrsampeln auf der Adenauerallee auch Fußgänger- (und Rad-) Ampeln installiert werden, sodass Fußgänger und Radfahrer die stark befahrene Adenauerallee gefahrlos kreuzen können.
+5-1	389-392	Ich	_	
+5-2	393-398	würde	_	
+5-3	399-402	mir	_	
+5-4	403-411	wünschen	_	
+5-5	411-412	,	_	
+5-6	413-417	dass	_	
+5-7	418-421	bei	_	
+5-8	422-425	den	_	
+5-9	426-433	bereits	_	
+5-10	434-445	bestehenden	_	
+5-11	446-460	Verkehrsampeln	_	
+5-12	461-464	auf	*[10]	
+5-13	465-468	der	*[10]	
+5-14	469-482	Adenauerallee	*[10]	
+5-15	483-487	auch	_	
+5-16	488-497	Fußgänger	_	
+5-17	497-498	-	_	
+5-18	499-500	(	_	
+5-19	500-503	und	_	
+5-20	504-507	Rad	_	
+5-21	507-508	-	_	
+5-22	508-509	)	_	
+5-23	510-516	Ampeln	_	
+5-24	517-528	installiert	_	
+5-25	529-535	werden	_	
+5-26	535-536	,	_	
+5-27	537-543	sodass	_	
+5-28	544-553	Fußgänger	_	
+5-29	554-557	und	_	
+5-30	558-567	Radfahrer	_	
+5-31	568-571	die	_	
+5-32	572-577	stark	_	
+5-33	578-587	befahrene	_	
+5-34	588-601	Adenauerallee	*	
+5-35	602-611	gefahrlos	_	
+5-36	612-619	kreuzen	_	
+5-37	620-626	können	_	
+5-38	626-627	.	_	

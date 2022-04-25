@@ -1,0 +1,78 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=manchmal verschneiter oder zugewachsener Radweg entlang der kompletten Bahnstrecke von Nord nach Süd
+1-1	0-8	manchmal	_	
+1-2	9-21	verschneiter	_	
+1-3	22-26	oder	_	
+1-4	27-40	zugewachsener	_	
+1-5	41-47	Radweg	_	
+1-6	48-55	entlang	_	
+1-7	56-59	der	_	
+1-8	60-70	kompletten	_	
+1-9	71-82	Bahnstrecke	_	
+1-10	83-86	von	_	
+1-11	87-91	Nord	_	
+1-12	92-96	nach	_	
+1-13	97-100	Süd	_	
+
+#Text=Der Radweg parallel entlang der Bahn von Friesdorf bis in die Südstadt ist manchmal von Hecken zugewachsen (müssen früh genug zurückgeschnitten werden) und im Winterhalbjahr bei Schnee/Matsch wird er viel seltener oder gar nicht geräumt, im Gegensatz zu den von Autos befahrenen Straßen, so dass es manchmal glatt ist.
+2-1	103-106	Der	*[3]	
+2-2	107-113	Radweg	*[3]	
+2-3	114-122	parallel	*[3]	
+2-4	123-130	entlang	*[3]	
+2-5	131-134	der	*[3]	
+2-6	135-139	Bahn	*[3]	
+2-7	140-143	von	*[3]	
+2-8	144-153	Friesdorf	*[3]	
+2-9	154-157	bis	*[3]	
+2-10	158-160	in	*[3]	
+2-11	161-164	die	*[3]	
+2-12	165-173	Südstadt	*[3]	
+2-13	174-177	ist	_	
+2-14	178-186	manchmal	_	
+2-15	187-190	von	_	
+2-16	191-197	Hecken	_	
+2-17	198-209	zugewachsen	_	
+2-18	210-211	(	_	
+2-19	211-217	müssen	_	
+2-20	218-222	früh	_	
+2-21	223-228	genug	_	
+2-22	229-246	zurückgeschnitten	_	
+2-23	247-253	werden	_	
+2-24	253-254	)	_	
+2-25	255-258	und	_	
+2-26	259-261	im	_	
+2-27	262-276	Winterhalbjahr	_	
+2-28	277-280	bei	_	
+2-29	281-287	Schnee	_	
+2-30	287-288	/	_	
+2-31	288-294	Matsch	_	
+2-32	295-299	wird	_	
+2-33	300-302	er	_	
+2-34	303-307	viel	_	
+2-35	308-316	seltener	_	
+2-36	317-321	oder	_	
+2-37	322-325	gar	_	
+2-38	326-331	nicht	_	
+2-39	332-339	geräumt	_	
+2-40	339-340	,	_	
+2-41	341-343	im	_	
+2-42	344-353	Gegensatz	_	
+2-43	354-356	zu	_	
+2-44	357-360	den	_	
+2-45	361-364	von	_	
+2-46	365-370	Autos	_	
+2-47	371-381	befahrenen	_	
+2-48	382-389	Straßen	_	
+2-49	389-390	,	_	
+2-50	391-393	so	_	
+2-51	394-398	dass	_	
+2-52	399-401	es	_	
+2-53	402-410	manchmal	_	
+2-54	411-416	glatt	_	
+2-55	417-420	ist	_	
+2-56	420-421	.	_	

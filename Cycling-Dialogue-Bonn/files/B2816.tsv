@@ -1,0 +1,106 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kein Platz für Radfahrer entlang des Haupt- und Busbahnhofes
+1-1	0-4	Kein	_	
+1-2	5-10	Platz	_	
+1-3	11-14	für	_	
+1-4	15-24	Radfahrer	_	
+1-5	25-32	entlang	*[5]	
+1-6	33-36	des	*[5]	
+1-7	37-42	Haupt	*[5]	
+1-8	42-43	-	*[5]	
+1-9	44-47	und	*[5]	
+1-10	48-60	Busbahnhofes	*[5]	
+
+#Text=Von Rabin- oder Thomas-Mann-Straße kommend muss man als Radfahrer wild parkende Taxis umrunden, dann kommen Entführungen mit Schienen und am Busbahnhof kommt man als Radfahrer überhaupt nicht sicher in Richtung Kaiserplatz - alle fahren wild, da Radfahrer dort einfach vergessen worden sind.
+2-1	63-66	Von	*[6]	
+2-2	67-72	Rabin	*[6]	
+2-3	72-73	-	*[6]	
+2-4	74-78	oder	*[6]	
+2-5	79-97	Thomas-Mann-Straße	*[6]	
+2-6	98-105	kommend	*[6]	
+2-7	106-110	muss	_	
+2-8	111-114	man	_	
+2-9	115-118	als	_	
+2-10	119-128	Radfahrer	_	
+2-11	129-133	wild	_	
+2-12	134-142	parkende	_	
+2-13	143-148	Taxis	_	
+2-14	149-157	umrunden	_	
+2-15	157-158	,	_	
+2-16	159-163	dann	_	
+2-17	164-170	kommen	_	
+2-18	171-183	Entführungen	_	
+2-19	184-187	mit	_	
+2-20	188-196	Schienen	_	
+2-21	197-200	und	_	
+2-22	201-203	am	*[7]	
+2-23	204-214	Busbahnhof	*[7]	
+2-24	215-220	kommt	_	
+2-25	221-224	man	_	
+2-26	225-228	als	_	
+2-27	229-238	Radfahrer	_	
+2-28	239-248	überhaupt	_	
+2-29	249-254	nicht	_	
+2-30	255-261	sicher	_	
+2-31	262-264	in	*[8]	
+2-32	265-273	Richtung	*[8]	
+2-33	274-285	Kaiserplatz	*[8]	
+2-34	286-287	-	_	
+2-35	288-292	alle	_	
+2-36	293-299	fahren	_	
+2-37	300-304	wild	_	
+2-38	304-305	,	_	
+2-39	306-308	da	_	
+2-40	309-318	Radfahrer	_	
+2-41	319-323	dort	_	
+2-42	324-331	einfach	_	
+2-43	332-341	vergessen	_	
+2-44	342-348	worden	_	
+2-45	349-353	sind	_	
+2-46	353-354	.	_	
+
+#Text=An so einem Verkehrsknotenpunkt dürfte das echt nicht passieren!
+3-1	355-357	An	_	
+3-2	358-360	so	_	
+3-3	361-366	einem	_	
+3-4	367-386	Verkehrsknotenpunkt	_	
+3-5	387-393	dürfte	_	
+3-6	394-397	das	_	
+3-7	398-402	echt	_	
+3-8	403-408	nicht	_	
+3-9	409-418	passieren	_	
+3-10	418-419	!	_	
+
+#Text=Wenn man schon den einst passierbaren Fußweg entlang der Gleise und des Busbahnhofes mit Gittern absperrt, sollte man Fußgängern und Radfahrern irgendeine sichere Alternative bieten.
+4-1	420-424	Wenn	_	
+4-2	425-428	man	_	
+4-3	429-434	schon	_	
+4-4	435-438	den	_	
+4-5	439-444	einst	_	
+4-6	445-457	passierbaren	_	
+4-7	458-464	Fußweg	_	
+4-8	465-472	entlang	_	
+4-9	473-476	der	_	
+4-10	477-483	Gleise	_	
+4-11	484-487	und	_	
+4-12	488-491	des	_	
+4-13	492-504	Busbahnhofes	*	
+4-14	505-508	mit	_	
+4-15	509-516	Gittern	_	
+4-16	517-525	absperrt	_	
+4-17	525-526	,	_	
+4-18	527-533	sollte	_	
+4-19	534-537	man	_	
+4-20	538-548	Fußgängern	_	
+4-21	549-552	und	_	
+4-22	553-563	Radfahrern	_	
+4-23	564-574	irgendeine	_	
+4-24	575-582	sichere	_	
+4-25	583-594	Alternative	_	
+4-26	595-601	bieten	_	
+4-27	601-602	.	_	

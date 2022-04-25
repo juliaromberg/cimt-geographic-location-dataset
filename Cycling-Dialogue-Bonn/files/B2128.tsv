@@ -1,0 +1,143 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vorschriftswidriges Hindernis auf Radweg
+1-1	0-19	Vorschriftswidriges	_	
+1-2	20-29	Hindernis	_	
+1-3	30-33	auf	_	
+1-4	34-40	Radweg	_	
+
+#Text=An dieser Stelle befindet sich auf dem Radweg ein fest installiertes, unbeleuchtetes, Hindernis in Tarnfarbe.
+2-1	43-45	An	_	
+2-2	46-52	dieser	_	
+2-3	53-59	Stelle	_	
+2-4	60-68	befindet	_	
+2-5	69-73	sich	_	
+2-6	74-77	auf	_	
+2-7	78-81	dem	_	
+2-8	82-88	Radweg	_	
+2-9	89-92	ein	_	
+2-10	93-97	fest	_	
+2-11	98-111	installiertes	_	
+2-12	111-112	,	_	
+2-13	113-127	unbeleuchtetes	_	
+2-14	127-128	,	_	
+2-15	129-138	Hindernis	_	
+2-16	139-141	in	_	
+2-17	142-151	Tarnfarbe	_	
+2-18	151-152	.	_	
+
+#Text=Dies widerspricht der einschlägigen Verwaltungsvorschrift zur StVO (zu §2, Randziffer 17).
+3-1	153-157	Dies	_	
+3-2	158-170	widerspricht	_	
+3-3	171-174	der	_	
+3-4	175-188	einschlägigen	_	
+3-5	189-210	Verwaltungsvorschrift	_	
+3-6	211-214	zur	_	
+3-7	215-219	StVO	_	
+3-8	220-221	(	_	
+3-9	221-223	zu	_	
+3-10	224-225	§	_	
+3-11	225-226	2	_	
+3-12	226-227	,	_	
+3-13	228-238	Randziffer	_	
+3-14	239-241	17	_	
+3-15	241-242	)	_	
+3-16	242-243	.	_	
+
+#Text=Damit entspricht der Radweg nicht den Vorschriften, die Radwegbenutzungspflicht an dieser Stelle entfällt und darf nicht eingefordert werden.
+4-1	244-249	Damit	_	
+4-2	250-260	entspricht	_	
+4-3	261-264	der	_	
+4-4	265-271	Radweg	_	
+4-5	272-277	nicht	_	
+4-6	278-281	den	_	
+4-7	282-294	Vorschriften	_	
+4-8	294-295	,	_	
+4-9	296-299	die	_	
+4-10	300-323	Radwegbenutzungspflicht	_	
+4-11	324-326	an	_	
+4-12	327-333	dieser	_	
+4-13	334-340	Stelle	_	
+4-14	341-349	entfällt	_	
+4-15	350-353	und	_	
+4-16	354-358	darf	_	
+4-17	359-364	nicht	_	
+4-18	365-377	eingefordert	_	
+4-19	378-384	werden	_	
+4-20	384-385	.	_	
+
+#Text=Was die Stadt trotzdem tut.
+5-1	386-389	Was	_	
+5-2	390-393	die	_	
+5-3	394-399	Stadt	_	
+5-4	400-408	trotzdem	_	
+5-5	409-412	tut	_	
+5-6	412-413	.	_	
+
+#Text=Der Radfahrer muss, um dem Hindernis auszuweichen auf der B9 weiter fahren (gefärhlich!) oder verbotswidrig auf den Gehweg ausweichen oder schieben.
+6-1	414-417	Der	_	
+6-2	418-427	Radfahrer	_	
+6-3	428-432	muss	_	
+6-4	432-433	,	_	
+6-5	434-436	um	_	
+6-6	437-440	dem	_	
+6-7	441-450	Hindernis	_	
+6-8	451-463	auszuweichen	_	
+6-9	464-467	auf	*[10]	
+6-10	468-471	der	*[10]	
+6-11	472-474	B9	*[10]	
+6-12	475-481	weiter	_	
+6-13	482-488	fahren	_	
+6-14	489-490	(	_	
+6-15	490-500	gefärhlich	_	
+6-16	500-501	!	_	
+6-17	501-502	)	_	
+6-18	503-507	oder	_	
+6-19	508-521	verbotswidrig	_	
+6-20	522-525	auf	_	
+6-21	526-529	den	_	
+6-22	530-536	Gehweg	_	
+6-23	537-547	ausweichen	_	
+6-24	548-552	oder	_	
+6-25	553-561	schieben	_	
+6-26	561-562	.	_	
+
+#Text=Der Verwaltung ist dieses Problem bekannt.
+7-1	563-566	Der	_	
+7-2	567-577	Verwaltung	_	
+7-3	578-581	ist	_	
+7-4	582-588	dieses	_	
+7-5	589-596	Problem	_	
+7-6	597-604	bekannt	_	
+7-7	604-605	.	_	
+
+#Text=Sie rät Radfahrern dazu, sich an dieser Stelle verbotswidrig zu verhalten.
+8-1	606-609	Sie	_	
+8-2	610-613	rät	_	
+8-3	614-624	Radfahrern	_	
+8-4	625-629	dazu	_	
+8-5	629-630	,	_	
+8-6	631-635	sich	_	
+8-7	636-638	an	_	
+8-8	639-645	dieser	_	
+8-9	646-652	Stelle	_	
+8-10	653-666	verbotswidrig	_	
+8-11	667-669	zu	_	
+8-12	670-679	verhalten	_	
+8-13	679-680	.	_	
+
+#Text=Ich finde, das kann nicht ihr Ernst sein.
+9-1	681-684	Ich	_	
+9-2	685-690	finde	_	
+9-3	690-691	,	_	
+9-4	692-695	das	_	
+9-5	696-700	kann	_	
+9-6	701-706	nicht	_	
+9-7	707-710	ihr	_	
+9-8	711-716	Ernst	_	
+9-9	717-721	sein	_	
+9-10	721-722	.	_	

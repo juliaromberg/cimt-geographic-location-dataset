@@ -1,0 +1,62 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Tunnel Am Probsthof - Gefährlich eng
+1-1	0-6	Tunnel	*[5]	
+1-2	7-9	Am	*[5]	
+1-3	10-19	Probsthof	*[5]	
+1-4	20-21	-	_	
+1-5	22-32	Gefährlich	_	
+1-6	33-36	eng	_	
+
+#Text=Lieferverkehr, LKW von Remondis, Kleintransporter vom Gewerbepark Siemensstraße, Berufsverkehr der Telekom, Pendler zw. Weststadt/Endenich und Tannenbusch - treffen auf Radfahrer und Fußgänger.
+2-1	39-52	Lieferverkehr	_	
+2-2	52-53	,	_	
+2-3	54-57	LKW	_	
+2-4	58-61	von	_	
+2-5	62-70	Remondis	_	
+2-6	70-71	,	_	
+2-7	72-88	Kleintransporter	_	
+2-8	89-92	vom	_	
+2-9	93-104	Gewerbepark	*[6]	
+2-10	105-118	Siemensstraße	*[6]	
+2-11	118-119	,	_	
+2-12	120-133	Berufsverkehr	_	
+2-13	134-137	der	_	
+2-14	138-145	Telekom	_	
+2-15	145-146	,	_	
+2-16	147-154	Pendler	_	
+2-17	155-157	zw	*[7]	
+2-18	157-158	.	*[7]	
+2-19	159-168	Weststadt	*[7]	
+2-20	168-169	/	*[7]	
+2-21	169-177	Endenich	*[7]	
+2-22	178-181	und	*[7]	
+2-23	182-193	Tannenbusch	*[7]	
+2-24	194-195	-	_	
+2-25	196-203	treffen	_	
+2-26	204-207	auf	_	
+2-27	208-217	Radfahrer	_	
+2-28	218-221	und	_	
+2-29	222-231	Fußgänger	_	
+2-30	231-232	.	_	
+
+#Text=Nicht zu vergessen, die Bahnpassagiere.
+3-1	233-238	Nicht	_	
+3-2	239-241	zu	_	
+3-3	242-251	vergessen	_	
+3-4	251-252	,	_	
+3-5	253-256	die	_	
+3-6	257-271	Bahnpassagiere	_	
+3-7	271-272	.	_	
+
+#Text=Der Tunnel muß vergrößert werden.
+4-1	273-276	Der	_	
+4-2	277-283	Tunnel	_	
+4-3	284-287	muß	_	
+4-4	288-298	vergrößert	_	
+4-5	299-305	werden	_	
+4-6	305-306	.	_	

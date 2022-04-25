@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Tempo 30 auf der Weinsbergstraße
+1-1	0-5	Tempo	_	
+1-2	6-8	30	_	
+1-3	9-12	auf	*[5]	
+1-4	13-16	der	*[5]	
+1-5	17-32	Weinsbergstraße	*[5]	
+
+#Text=Die Weinsbergstraße sollte von der Inneren Kanalstraße bis zum Gürtel zu einer Tempo 30-Zone deklariert werden.
+2-1	35-38	Die	*[6]	
+2-2	39-54	Weinsbergstraße	*[6]	
+2-3	55-61	sollte	_	
+2-4	62-65	von	*[7]	
+2-5	66-69	der	*[7]	
+2-6	70-77	Inneren	*[7]	
+2-7	78-89	Kanalstraße	*[7]	
+2-8	90-93	bis	*[7]	
+2-9	94-97	zum	*[7]	
+2-10	98-104	Gürtel	*[7]	
+2-11	105-107	zu	_	
+2-12	108-113	einer	_	
+2-13	114-119	Tempo	_	
+2-14	120-122	30	_	
+2-15	122-123	-	_	
+2-16	123-127	Zone	_	
+2-17	128-138	deklariert	_	
+2-18	139-145	werden	_	
+2-19	145-146	.	_	
+
+#Text=Die Strecke wird regelmäßig für Kurzstreckenrennen genutzt, wobei die Ampel am Berufskolleg Ehrenfeld als Startsignal fungiert.
+3-1	147-150	Die	_	
+3-2	151-158	Strecke	_	
+3-3	159-163	wird	_	
+3-4	164-174	regelmäßig	_	
+3-5	175-178	für	_	
+3-6	179-197	Kurzstreckenrennen	_	
+3-7	198-205	genutzt	_	
+3-8	205-206	,	_	
+3-9	207-212	wobei	_	
+3-10	213-216	die	_	
+3-11	217-222	Ampel	_	
+3-12	223-225	am	*[8]	
+3-13	226-238	Berufskolleg	*[8]	
+3-14	239-248	Ehrenfeld	*[8]	
+3-15	249-252	als	_	
+3-16	253-264	Startsignal	_	
+3-17	265-273	fungiert	_	
+3-18	273-274	.	_	
+
+#Text=Darüber hinaus werden Radfahrer, die stadtauswärts unterwegs sind, regelmäßig von Kraftfahrzeugen bedrängt - entweder indem diese von hinten, bzw. seitlich die Fahrradfahrer schneiden oder durch das Parken auf dem Fahrradstreifen.
+4-1	275-282	Darüber	_	
+4-2	283-289	hinaus	_	
+4-3	290-296	werden	_	
+4-4	297-306	Radfahrer	_	
+4-5	306-307	,	_	
+4-6	308-311	die	_	
+4-7	312-325	stadtauswärts	_	
+4-8	326-335	unterwegs	_	
+4-9	336-340	sind	_	
+4-10	340-341	,	_	
+4-11	342-352	regelmäßig	_	
+4-12	353-356	von	_	
+4-13	357-372	Kraftfahrzeugen	_	
+4-14	373-381	bedrängt	_	
+4-15	382-383	-	_	
+4-16	384-392	entweder	_	
+4-17	393-398	indem	_	
+4-18	399-404	diese	_	
+4-19	405-408	von	_	
+4-20	409-415	hinten	_	
+4-21	415-416	,	_	
+4-22	417-420	bzw	_	
+4-23	420-421	.	_	
+4-24	422-430	seitlich	_	
+4-25	431-434	die	_	
+4-26	435-448	Fahrradfahrer	_	
+4-27	449-458	schneiden	_	
+4-28	459-463	oder	_	
+4-29	464-469	durch	_	
+4-30	470-473	das	_	
+4-31	474-480	Parken	_	
+4-32	481-484	auf	_	
+4-33	485-488	dem	_	
+4-34	489-504	Fahrradstreifen	_	
+4-35	504-505	.	_	

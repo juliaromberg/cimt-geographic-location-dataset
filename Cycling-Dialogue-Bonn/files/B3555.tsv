@@ -1,0 +1,229 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Noch ein weiter Weg zur Fahrrad-Hauptstadt
+1-1	0-4	Noch	_	
+1-2	5-8	ein	_	
+1-3	9-15	weiter	_	
+1-4	16-19	Weg	_	
+1-5	20-23	zur	_	
+1-6	24-42	Fahrrad-Hauptstadt	_	
+
+#Text=In Bonn fahre ich viel und meistens auch gern mit dem Rad.
+2-1	45-47	In	*[14]	
+2-2	48-52	Bonn	*[14]	
+2-3	53-58	fahre	_	
+2-4	59-62	ich	_	
+2-5	63-67	viel	_	
+2-6	68-71	und	_	
+2-7	72-80	meistens	_	
+2-8	81-85	auch	_	
+2-9	86-90	gern	_	
+2-10	91-94	mit	_	
+2-11	95-98	dem	_	
+2-12	99-102	Rad	_	
+2-13	102-103	.	_	
+
+#Text=Z.B. täglich zur Arbeit.
+3-1	104-107	Z.B	_	
+3-2	107-108	.	_	
+3-3	109-116	täglich	_	
+3-4	117-120	zur	_	
+3-5	121-127	Arbeit	_	
+3-6	127-128	.	_	
+
+#Text=Aus eigener Erfahrung ist mir Münster bekannt, nicht zu Unrecht gelobt und ausgezeichnet für eine hervorragende Förderung der Radverkehrs.
+4-1	129-132	Aus	_	
+4-2	133-140	eigener	_	
+4-3	141-150	Erfahrung	_	
+4-4	151-154	ist	_	
+4-5	155-158	mir	_	
+4-6	159-166	Münster	_	
+4-7	167-174	bekannt	_	
+4-8	174-175	,	_	
+4-9	176-181	nicht	_	
+4-10	182-184	zu	_	
+4-11	185-192	Unrecht	_	
+4-12	193-199	gelobt	_	
+4-13	200-203	und	_	
+4-14	204-217	ausgezeichnet	_	
+4-15	218-221	für	_	
+4-16	222-226	eine	_	
+4-17	227-240	hervorragende	_	
+4-18	241-250	Förderung	_	
+4-19	251-254	der	_	
+4-20	255-266	Radverkehrs	_	
+4-21	266-267	.	_	
+
+#Text=Was mir in Bonn fehlt:
+5-1	268-271	Was	_	
+5-2	272-275	mir	_	
+5-3	276-278	in	_	
+5-4	279-283	Bonn	_	
+5-5	284-289	fehlt	_	
+5-6	289-290	:	_	
+
+#Text=* nicht diskriminierende Ampelschaltungen (die Radler müssen den Wunsch auf 'GRÜN' zunächst ausdrücken, bevor die Ampel reagiert, Autofahrer hingegen bekommen die Grünphase automatisch)
+6-1	291-292	*	_	
+6-2	293-298	nicht	_	
+6-3	299-315	diskriminierende	_	
+6-4	316-332	Ampelschaltungen	_	
+6-5	333-334	(	_	
+6-6	334-337	die	_	
+6-7	338-344	Radler	_	
+6-8	345-351	müssen	_	
+6-9	352-355	den	_	
+6-10	356-362	Wunsch	_	
+6-11	363-366	auf	_	
+6-12	367-368	'	_	
+6-13	368-372	GRÜN	_	
+6-14	372-373	'	_	
+6-15	374-382	zunächst	_	
+6-16	383-393	ausdrücken	_	
+6-17	393-394	,	_	
+6-18	395-400	bevor	_	
+6-19	401-404	die	_	
+6-20	405-410	Ampel	_	
+6-21	411-419	reagiert	_	
+6-22	419-420	,	_	
+6-23	421-431	Autofahrer	_	
+6-24	432-440	hingegen	_	
+6-25	441-449	bekommen	_	
+6-26	450-453	die	_	
+6-27	454-463	Grünphase	_	
+6-28	464-475	automatisch	_	
+6-29	475-476	)	_	
+
+#Text=* Radwege ohne Bordsteinkanten (sogar bei Neuanlage von Radwegen (z.b. Siegburger Strasse) werden diese damit verteidigt, dass ansonsten blinde Verkehrsteilnehmer gefährdet wären - heute gibt es zur Information vom Blinden andere Möglichkeiten - Oberflächengestaltung z.B. an Kreuzungen
+7-1	477-478	*	_	
+7-2	479-486	Radwege	_	
+7-3	487-491	ohne	_	
+7-4	492-507	Bordsteinkanten	_	
+7-5	508-509	(	_	
+7-6	509-514	sogar	_	
+7-7	515-518	bei	_	
+7-8	519-528	Neuanlage	_	
+7-9	529-532	von	_	
+7-10	533-541	Radwegen	_	
+7-11	542-543	(	_	
+7-12	543-546	z.b	_	
+7-13	546-547	.	_	
+7-14	548-558	Siegburger	_	
+7-15	559-566	Strasse	_	
+7-16	566-567	)	_	
+7-17	568-574	werden	_	
+7-18	575-580	diese	_	
+7-19	581-586	damit	_	
+7-20	587-597	verteidigt	_	
+7-21	597-598	,	_	
+7-22	599-603	dass	_	
+7-23	604-613	ansonsten	_	
+7-24	614-620	blinde	_	
+7-25	621-639	Verkehrsteilnehmer	_	
+7-26	640-649	gefährdet	_	
+7-27	650-655	wären	_	
+7-28	656-657	-	_	
+7-29	658-663	heute	_	
+7-30	664-668	gibt	_	
+7-31	669-671	es	_	
+7-32	672-675	zur	_	
+7-33	676-687	Information	_	
+7-34	688-691	vom	_	
+7-35	692-699	Blinden	_	
+7-36	700-706	andere	_	
+7-37	707-720	Möglichkeiten	_	
+7-38	721-722	-	_	
+7-39	723-744	Oberflächengestaltung	_	
+7-40	745-748	z.B	_	
+7-41	748-749	.	_	
+7-42	750-752	an	_	
+7-43	753-763	Kreuzungen	_	
+
+#Text=* Klare Beschriftung der Radfahrstecken - wenn z.b. auf der B56 Richtung Hangelar auf der Höhe Gartenstrasse plötzlich die Straße (wohl der Enge wegen) für Radfahrer gesperrt ist und der anliegende, schmale Fußgängerweg für Radfahrer nicht freigegeben wird.
+8-1	764-765	*	_	
+8-2	766-771	Klare	_	
+8-3	772-784	Beschriftung	_	
+8-4	785-788	der	_	
+8-5	789-803	Radfahrstecken	_	
+8-6	804-805	-	_	
+8-7	806-810	wenn	_	
+8-8	811-814	z.b	_	
+8-9	814-815	.	_	
+8-10	816-819	auf	*[15]	
+8-11	820-823	der	*[15]	
+8-12	824-827	B56	*[15]	
+8-13	828-836	Richtung	*[15]	
+8-14	837-845	Hangelar	*[15]	
+8-15	846-849	auf	*[15]	
+8-16	850-853	der	*[15]	
+8-17	854-858	Höhe	*[15]	
+8-18	859-872	Gartenstrasse	*[15]	
+8-19	873-882	plötzlich	_	
+8-20	883-886	die	_	
+8-21	887-893	Straße	_	
+8-22	894-895	(	_	
+8-23	895-899	wohl	_	
+8-24	900-903	der	_	
+8-25	904-908	Enge	_	
+8-26	909-914	wegen	_	
+8-27	914-915	)	_	
+8-28	916-919	für	_	
+8-29	920-929	Radfahrer	_	
+8-30	930-938	gesperrt	_	
+8-31	939-942	ist	_	
+8-32	943-946	und	_	
+8-33	947-950	der	_	
+8-34	951-961	anliegende	_	
+8-35	961-962	,	_	
+8-36	963-970	schmale	_	
+8-37	971-983	Fußgängerweg	_	
+8-38	984-987	für	_	
+8-39	988-997	Radfahrer	_	
+8-40	998-1003	nicht	_	
+8-41	1004-1015	freigegeben	_	
+8-42	1016-1020	wird	_	
+8-43	1020-1021	.	_	
+
+#Text=Wohin fahren?
+9-1	1022-1027	Wohin	_	
+9-2	1028-1034	fahren	_	
+9-3	1034-1035	?	_	
+
+#Text=* Durchgreifen der Ordnungskräfte gegen Falschpaker auf Radwegen (z.b. Königswinterer Strasse)
+10-1	1036-1037	*	_	
+10-2	1038-1050	Durchgreifen	_	
+10-3	1051-1054	der	_	
+10-4	1055-1069	Ordnungskräfte	_	
+10-5	1070-1075	gegen	_	
+10-6	1076-1087	Falschpaker	_	
+10-7	1088-1091	auf	_	
+10-8	1092-1100	Radwegen	_	
+10-9	1101-1102	(	_	
+10-10	1102-1105	z.b	_	
+10-11	1105-1106	.	_	
+10-12	1107-1121	Königswinterer	*[16]	
+10-13	1122-1129	Strasse	*[16]	
+10-14	1129-1130	)	_	
+
+#Text=* Investitionen in Radschnellwege
+11-1	1131-1132	*	_	
+11-2	1133-1146	Investitionen	_	
+11-3	1147-1149	in	_	
+11-4	1150-1164	Radschnellwege	_	
+
+#Text=Es darf besser werden.
+12-1	1165-1167	Es	_	
+12-2	1168-1172	darf	_	
+12-3	1173-1179	besser	_	
+12-4	1180-1186	werden	_	
+12-5	1186-1187	.	_	
+
+#Text=Toi, toi Bonn!
+13-1	1188-1191	Toi	_	
+13-2	1191-1192	,	_	
+13-3	1193-1196	toi	_	
+13-4	1197-1201	Bonn	_	
+13-5	1201-1202	!	_	

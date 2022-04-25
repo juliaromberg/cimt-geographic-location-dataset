@@ -1,0 +1,130 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Umlaufsperre
+1-1	0-12	Umlaufsperre	_	
+
+#Text=Fährt man Estermannufer Richtung Innenstadt und kommt an diese Stelle, so kann man weiter den steilen letzten Teil hochfahren oder biegt nach rechts ab am Bach entlang und kommt am Kanuverein raus.
+2-1	15-20	Fährt	_	
+2-2	21-24	man	_	
+2-3	25-38	Estermannufer	*[7]	
+2-4	39-47	Richtung	*[7]	
+2-5	48-58	Innenstadt	*[7]	
+2-6	59-62	und	_	
+2-7	63-68	kommt	_	
+2-8	69-71	an	_	
+2-9	72-77	diese	_	
+2-10	78-84	Stelle	_	
+2-11	84-85	,	_	
+2-12	86-88	so	_	
+2-13	89-93	kann	_	
+2-14	94-97	man	_	
+2-15	98-104	weiter	_	
+2-16	105-108	den	_	
+2-17	109-116	steilen	_	
+2-18	117-124	letzten	_	
+2-19	125-129	Teil	_	
+2-20	130-140	hochfahren	_	
+2-21	141-145	oder	_	
+2-22	146-151	biegt	_	
+2-23	152-156	nach	_	
+2-24	157-163	rechts	_	
+2-25	164-166	ab	_	
+2-26	167-169	am	_	
+2-27	170-174	Bach	_	
+2-28	175-182	entlang	_	
+2-29	183-186	und	_	
+2-30	187-192	kommt	_	
+2-31	193-195	am	_	
+2-32	196-206	Kanuverein	_	
+2-33	207-211	raus	_	
+2-34	211-212	.	_	
+
+#Text=Dann weiter nach links über Mertensgasse und Am Rheindorfer Ufer.
+3-1	213-217	Dann	_	
+3-2	218-224	weiter	_	
+3-3	225-229	nach	*[8]	
+3-4	230-235	links	*[8]	
+3-5	236-240	über	*[8]	
+3-6	241-253	Mertensgasse	*[8]	
+3-7	254-257	und	*[8]	
+3-8	258-260	Am	*[8]	
+3-9	261-272	Rheindorfer	*[8]	
+3-10	273-277	Ufer	*[8]	
+3-11	277-278	.	*[8]	
+
+#Text=Leider ist der als Fahrradroute (weiße Schild mit roter Schrift) beschilderte Weg hier sehr schmal und wird durch eine Umlaufsperre stark eingeschränkt.
+4-1	279-285	Leider	_	
+4-2	286-289	ist	_	
+4-3	290-293	der	_	
+4-4	294-297	als	_	
+4-5	298-310	Fahrradroute	_	
+4-6	311-312	(	_	
+4-7	312-317	weiße	_	
+4-8	318-324	Schild	_	
+4-9	325-328	mit	_	
+4-10	329-334	roter	_	
+4-11	335-342	Schrift	_	
+4-12	342-343	)	_	
+4-13	344-356	beschilderte	_	
+4-14	357-360	Weg	_	
+4-15	361-365	hier	_	
+4-16	366-370	sehr	_	
+4-17	371-377	schmal	_	
+4-18	378-381	und	_	
+4-19	382-386	wird	_	
+4-20	387-392	durch	_	
+4-21	393-397	eine	_	
+4-22	398-410	Umlaufsperre	_	
+4-23	411-416	stark	_	
+4-24	417-430	eingeschränkt	_	
+4-25	430-431	.	_	
+
+#Text=Hierher kann kein Auto.
+5-1	432-439	Hierher	_	
+5-2	440-444	kann	_	
+5-3	445-449	kein	_	
+5-4	450-454	Auto	_	
+5-5	454-455	.	_	
+
+#Text=Auch ein Pöller in der Mitte wäre ein großes Hindernis für Räder mit Anhänger, Tandem oder die Rikschas, die demnächst sicher auch am Rhein entlang unterwegs sind.
+6-1	456-460	Auch	_	
+6-2	461-464	ein	_	
+6-3	465-471	Pöller	_	
+6-4	472-474	in	_	
+6-5	475-478	der	_	
+6-6	479-484	Mitte	_	
+6-7	485-489	wäre	_	
+6-8	490-493	ein	_	
+6-9	494-500	großes	_	
+6-10	501-510	Hindernis	_	
+6-11	511-514	für	_	
+6-12	515-520	Räder	_	
+6-13	521-524	mit	_	
+6-14	525-533	Anhänger	_	
+6-15	533-534	,	_	
+6-16	535-541	Tandem	_	
+6-17	542-546	oder	_	
+6-18	547-550	die	_	
+6-19	551-559	Rikschas	_	
+6-20	559-560	,	_	
+6-21	561-564	die	_	
+6-22	565-574	demnächst	_	
+6-23	575-581	sicher	_	
+6-24	582-586	auch	_	
+6-25	587-589	am	_	
+6-26	590-595	Rhein	_	
+6-27	596-603	entlang	_	
+6-28	604-613	unterwegs	_	
+6-29	614-618	sind	_	
+6-30	618-619	.	_	
+
+#Text=Meine Bitte: Sperre entfernen
+7-1	620-625	Meine	_	
+7-2	626-631	Bitte	_	
+7-3	631-632	:	_	
+7-4	633-639	Sperre	_	
+7-5	640-649	entfernen	_	

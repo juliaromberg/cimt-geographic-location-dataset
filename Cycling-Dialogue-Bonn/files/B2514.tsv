@@ -1,0 +1,81 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Die Würzel der Pflanzen stören den Fahrradweg
+1-1	0-3	Die	_	
+1-2	4-10	Würzel	_	
+1-3	11-14	der	_	
+1-4	15-23	Pflanzen	_	
+1-5	24-30	stören	_	
+1-6	31-34	den	_	
+1-7	35-45	Fahrradweg	_	
+
+#Text=In der Niederkasseler Straße Richtung Geislar so wie an vielen anderen Stellen in Bonn stören die Würzel der Pflanzen den Fahrradweg.
+2-1	48-50	In	*[5]	
+2-2	51-54	der	*[5]	
+2-3	55-69	Niederkasseler	*[5]	
+2-4	70-76	Straße	*[5]	
+2-5	77-85	Richtung	*[5]	
+2-6	86-93	Geislar	*[5]	
+2-7	94-96	so	_	
+2-8	97-100	wie	_	
+2-9	101-103	an	_	
+2-10	104-110	vielen	_	
+2-11	111-118	anderen	_	
+2-12	119-126	Stellen	_	
+2-13	127-129	in	*[6]	
+2-14	130-134	Bonn	*[6]	
+2-15	135-141	stören	_	
+2-16	142-145	die	_	
+2-17	146-152	Würzel	_	
+2-18	153-156	der	_	
+2-19	157-165	Pflanzen	_	
+2-20	166-169	den	_	
+2-21	170-180	Fahrradweg	_	
+2-22	180-181	.	_	
+
+#Text=Manchmal ist die Lage so schlecht, dass die Gefahr vom Fahrrad abzustürzen oder das Fahrrad kaputt zu machen ziemlich hoch ist.
+3-1	182-190	Manchmal	_	
+3-2	191-194	ist	_	
+3-3	195-198	die	_	
+3-4	199-203	Lage	_	
+3-5	204-206	so	_	
+3-6	207-215	schlecht	_	
+3-7	215-216	,	_	
+3-8	217-221	dass	_	
+3-9	222-225	die	_	
+3-10	226-232	Gefahr	_	
+3-11	233-236	vom	_	
+3-12	237-244	Fahrrad	_	
+3-13	245-256	abzustürzen	_	
+3-14	257-261	oder	_	
+3-15	262-265	das	_	
+3-16	266-273	Fahrrad	_	
+3-17	274-280	kaputt	_	
+3-18	281-283	zu	_	
+3-19	284-290	machen	_	
+3-20	291-299	ziemlich	_	
+3-21	300-304	hoch	_	
+3-22	305-308	ist	_	
+3-23	308-309	.	_	
+
+#Text=Um Unfälle zu vermeiden, wäre es wünschenswert, dass die Fahrradwege regelmäßig gewartet werden.
+4-1	310-312	Um	_	
+4-2	313-320	Unfälle	_	
+4-3	321-323	zu	_	
+4-4	324-333	vermeiden	_	
+4-5	333-334	,	_	
+4-6	335-339	wäre	_	
+4-7	340-342	es	_	
+4-8	343-356	wünschenswert	_	
+4-9	356-357	,	_	
+4-10	358-362	dass	_	
+4-11	363-366	die	_	
+4-12	367-378	Fahrradwege	_	
+4-13	379-389	regelmäßig	_	
+4-14	390-398	gewartet	_	
+4-15	399-405	werden	_	
+4-16	405-406	.	_	

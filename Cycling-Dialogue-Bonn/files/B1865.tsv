@@ -1,0 +1,83 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Straße für Radfahrer öffnen
+1-1	0-6	Straße	_	
+1-2	7-10	für	_	
+1-3	11-20	Radfahrer	_	
+1-4	21-27	öffnen	_	
+
+#Text=Vom Wilhelmsplatz kommend darf man nicht in den Annagraben einfahren.
+2-1	30-33	Vom	*[6]	
+2-2	34-47	Wilhelmsplatz	*[6]	
+2-3	48-55	kommend	*[6]	
+2-4	56-60	darf	_	
+2-5	61-64	man	_	
+2-6	65-70	nicht	_	
+2-7	71-73	in	*[7]	
+2-8	74-77	den	*[7]	
+2-9	78-88	Annagraben	*[7]	
+2-10	89-98	einfahren	_	
+2-11	98-99	.	_	
+
+#Text=Das ist ungünstig, wenn man von der Kölnstraße kommend in die Altstadt fahren möchte.
+3-1	100-103	Das	_	
+3-2	104-107	ist	_	
+3-3	108-117	ungünstig	_	
+3-4	117-118	,	_	
+3-5	119-123	wenn	_	
+3-6	124-127	man	_	
+3-7	128-131	von	*[8]	
+3-8	132-135	der	*[8]	
+3-9	136-146	Kölnstraße	*[8]	
+3-10	147-154	kommend	*[8]	
+3-11	155-157	in	*[8]	
+3-12	158-161	die	*[8]	
+3-13	162-170	Altstadt	*[8]	
+3-14	171-177	fahren	_	
+3-15	178-184	möchte	_	
+3-16	184-185	.	_	
+
+#Text=Vorschlag: Annagraben an der Stelle für Radfahrer öffnen.
+4-1	186-195	Vorschlag	_	
+4-2	195-196	:	_	
+4-3	197-207	Annagraben	*	
+4-4	208-210	an	_	
+4-5	211-214	der	_	
+4-6	215-221	Stelle	_	
+4-7	222-225	für	_	
+4-8	226-235	Radfahrer	_	
+4-9	236-242	öffnen	_	
+4-10	242-243	.	_	
+
+#Text=Wichtig wäre dann, Autofahrer, die aus der Gegenrichtung kommen, rechtzeitig auf die entgegenkommenden Radfahrer hinzuweisen, da die Stelle nicht gut einsehbar ist.
+5-1	244-251	Wichtig	_	
+5-2	252-256	wäre	_	
+5-3	257-261	dann	_	
+5-4	261-262	,	_	
+5-5	263-273	Autofahrer	_	
+5-6	273-274	,	_	
+5-7	275-278	die	_	
+5-8	279-282	aus	_	
+5-9	283-286	der	_	
+5-10	287-300	Gegenrichtung	_	
+5-11	301-307	kommen	_	
+5-12	307-308	,	_	
+5-13	309-320	rechtzeitig	_	
+5-14	321-324	auf	_	
+5-15	325-328	die	_	
+5-16	329-346	entgegenkommenden	_	
+5-17	347-356	Radfahrer	_	
+5-18	357-368	hinzuweisen	_	
+5-19	368-369	,	_	
+5-20	370-372	da	_	
+5-21	373-376	die	_	
+5-22	377-383	Stelle	_	
+5-23	384-389	nicht	_	
+5-24	390-393	gut	_	
+5-25	394-403	einsehbar	_	
+5-26	404-407	ist	_	
+5-27	407-408	.	_	

@@ -1,0 +1,43 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampel durch Kreisverkehr ersetzen
+1-1	0-5	Ampel	_	
+1-2	6-11	durch	_	
+1-3	12-24	Kreisverkehr	_	
+1-4	25-33	ersetzen	_	
+
+#Text=Diese Ampel mitten im Wohngebiet ist völlig überflüssig und sollte durch einen Kreisverkehr ersetzt werden.
+2-1	36-41	Diese	_	
+2-2	42-47	Ampel	_	
+2-3	48-54	mitten	_	
+2-4	55-57	im	_	
+2-5	58-68	Wohngebiet	_	
+2-6	69-72	ist	_	
+2-7	73-79	völlig	_	
+2-8	80-91	überflüssig	_	
+2-9	92-95	und	_	
+2-10	96-102	sollte	_	
+2-11	103-108	durch	_	
+2-12	109-114	einen	_	
+2-13	115-127	Kreisverkehr	_	
+2-14	128-135	ersetzt	_	
+2-15	136-142	werden	_	
+2-16	142-143	.	_	
+
+#Text=Ein Kreisverkehr würde auch Autofahrer zwingen, die Geschwindigkeit zu reduzieren.
+3-1	144-147	Ein	_	
+3-2	148-160	Kreisverkehr	_	
+3-3	161-166	würde	_	
+3-4	167-171	auch	_	
+3-5	172-182	Autofahrer	_	
+3-6	183-190	zwingen	_	
+3-7	190-191	,	_	
+3-8	192-195	die	_	
+3-9	196-211	Geschwindigkeit	_	
+3-10	212-214	zu	_	
+3-11	215-225	reduzieren	_	
+3-12	225-226	.	_	

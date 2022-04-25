@@ -1,0 +1,23 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Linksabbiegen ermöglichen
+1-1	0-13	Linksabbiegen	_	
+1-2	14-25	ermöglichen	_	
+
+#Text=Ziel: aus der Unterführung kommend das Linksabbiegen für Fahrradfahrer ermöglichen.
+2-1	28-32	Ziel	_	
+2-2	32-33	:	_	
+2-3	34-37	aus	_	
+2-4	38-41	der	_	
+2-5	42-54	Unterführung	_	
+2-6	55-62	kommend	_	
+2-7	63-66	das	_	
+2-8	67-80	Linksabbiegen	_	
+2-9	81-84	für	_	
+2-10	85-98	Fahrradfahrer	_	
+2-11	99-110	ermöglichen	_	
+2-12	110-111	.	_	

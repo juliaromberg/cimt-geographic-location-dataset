@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=sehr viele Schlaglöcher
+1-1	0-4	sehr	_	
+1-2	5-10	viele	_	
+1-3	11-23	Schlaglöcher	_	
+
+#Text=Bitte nachhaltige Ausbesserung der Schlaglöcher.
+2-1	26-31	Bitte	_	
+2-2	32-43	nachhaltige	_	
+2-3	44-56	Ausbesserung	_	
+2-4	57-60	der	_	
+2-5	61-73	Schlaglöcher	_	
+2-6	73-74	.	_	
+
+#Text=Diese werden von Jahr zu Jahr tiefer und gefährlicher.
+3-1	75-80	Diese	_	
+3-2	81-87	werden	_	
+3-3	88-91	von	_	
+3-4	92-96	Jahr	_	
+3-5	97-99	zu	_	
+3-6	100-104	Jahr	_	
+3-7	105-111	tiefer	_	
+3-8	112-115	und	_	
+3-9	116-128	gefährlicher	_	
+3-10	128-129	.	_	

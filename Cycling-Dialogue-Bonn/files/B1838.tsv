@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Durchfahrt verhindern
+1-1	0-10	Durchfahrt	_	
+1-2	11-21	verhindern	_	
+
+#Text=Diese Fahrradstraße ist eigentlich nur für Autofahrer frei, die Anlieger sind.
+2-1	24-29	Diese	_	
+2-2	30-43	Fahrradstraße	_	
+2-3	44-47	ist	_	
+2-4	48-58	eigentlich	_	
+2-5	59-62	nur	_	
+2-6	63-66	für	_	
+2-7	67-77	Autofahrer	_	
+2-8	78-82	frei	_	
+2-9	82-83	,	_	
+2-10	84-87	die	_	
+2-11	88-96	Anlieger	_	
+2-12	97-101	sind	_	
+2-13	101-102	.	_	
+
+#Text=Leider nutzen viele Autofahrer die Strecke als Abkürzung und halten sich oft nicht an die Geschwindigkeitsbegrenzung - geschweige denn, dass sie den Radfahrern Vorfahr gewähren.
+3-1	103-109	Leider	_	
+3-2	110-116	nutzen	_	
+3-3	117-122	viele	_	
+3-4	123-133	Autofahrer	_	
+3-5	134-137	die	_	
+3-6	138-145	Strecke	_	
+3-7	146-149	als	_	
+3-8	150-159	Abkürzung	_	
+3-9	160-163	und	_	
+3-10	164-170	halten	_	
+3-11	171-175	sich	_	
+3-12	176-179	oft	_	
+3-13	180-185	nicht	_	
+3-14	186-188	an	_	
+3-15	189-192	die	_	
+3-16	193-219	Geschwindigkeitsbegrenzung	_	
+3-17	220-221	-	_	
+3-18	222-232	geschweige	_	
+3-19	233-237	denn	_	
+3-20	237-238	,	_	
+3-21	239-243	dass	_	
+3-22	244-247	sie	_	
+3-23	248-251	den	_	
+3-24	252-262	Radfahrern	_	
+3-25	263-270	Vorfahr	_	
+3-26	271-279	gewähren	_	
+3-27	279-280	.	_	
+
+#Text=Eine gute Lösung wäre die Teilung der Strecke durch Poller hinter dem Parkplatz des Hauses Müllestumpe.
+4-1	281-285	Eine	_	
+4-2	286-290	gute	_	
+4-3	291-297	Lösung	_	
+4-4	298-302	wäre	_	
+4-5	303-306	die	_	
+4-6	307-314	Teilung	_	
+4-7	315-318	der	_	
+4-8	319-326	Strecke	_	
+4-9	327-332	durch	_	
+4-10	333-339	Poller	_	
+4-11	340-346	hinter	*[6]	
+4-12	347-350	dem	*[6]	
+4-13	351-360	Parkplatz	*[6]	
+4-14	361-364	des	*[6]	
+4-15	365-371	Hauses	*[6]	
+4-16	372-383	Müllestumpe	*[6]	
+4-17	383-384	.	_	
+
+#Text=Damit wäre eine Durchfahrt nicht mehr möglich, die Anlieger könnten aber alles erreichen.
+5-1	385-390	Damit	_	
+5-2	391-395	wäre	_	
+5-3	396-400	eine	_	
+5-4	401-411	Durchfahrt	_	
+5-5	412-417	nicht	_	
+5-6	418-422	mehr	_	
+5-7	423-430	möglich	_	
+5-8	430-431	,	_	
+5-9	432-435	die	_	
+5-10	436-444	Anlieger	_	
+5-11	445-452	könnten	_	
+5-12	453-457	aber	_	
+5-13	458-463	alles	_	
+5-14	464-473	erreichen	_	
+5-15	473-474	.	_	

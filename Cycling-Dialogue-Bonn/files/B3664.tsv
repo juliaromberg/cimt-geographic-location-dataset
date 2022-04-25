@@ -1,0 +1,158 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegqualität
+1-1	0-14	Radwegqualität	_	
+
+#Text=An dieser nagelneuen Kreuzung, die auf einen Pflichtradweg trifft, müssen Radler, Kinderwagenschieber, Rollstuhlfahrer eine halbrunde 2 cm hohe Kante rauf- bzw. runterfahren.
+2-1	17-19	An	_	
+2-2	20-26	dieser	_	
+2-3	27-37	nagelneuen	_	
+2-4	38-46	Kreuzung	_	
+2-5	46-47	,	_	
+2-6	48-51	die	_	
+2-7	52-55	auf	_	
+2-8	56-61	einen	_	
+2-9	62-75	Pflichtradweg	_	
+2-10	76-82	trifft	_	
+2-11	82-83	,	_	
+2-12	84-90	müssen	_	
+2-13	91-97	Radler	_	
+2-14	97-98	,	_	
+2-15	99-118	Kinderwagenschieber	_	
+2-16	118-119	,	_	
+2-17	120-135	Rollstuhlfahrer	_	
+2-18	136-140	eine	_	
+2-19	141-150	halbrunde	_	
+2-20	151-152	2	_	
+2-21	153-155	cm	_	
+2-22	156-160	hohe	_	
+2-23	161-166	Kante	_	
+2-24	167-171	rauf	_	
+2-25	171-172	-	_	
+2-26	173-176	bzw	_	
+2-27	176-177	.	_	
+2-28	178-190	runterfahren	_	
+2-29	190-191	.	_	
+
+#Text=20 Meter später das Gleiche, weil es eine Rundstraße ist.
+3-1	192-194	20	_	
+3-2	195-200	Meter	_	
+3-3	201-207	später	_	
+3-4	208-211	das	_	
+3-5	212-219	Gleiche	_	
+3-6	219-220	,	_	
+3-7	221-225	weil	_	
+3-8	226-228	es	_	
+3-9	229-233	eine	_	
+3-10	234-244	Rundstraße	_	
+3-11	245-248	ist	_	
+3-12	248-249	.	_	
+
+#Text=Das schadet den Felgen, bietet bei Nässe Gefahr des Abrutschens, ist für Kinderwagen eine Tortur und für Rollifahrer noch mehr.
+4-1	250-253	Das	_	
+4-2	254-261	schadet	_	
+4-3	262-265	den	_	
+4-4	266-272	Felgen	_	
+4-5	272-273	,	_	
+4-6	274-280	bietet	_	
+4-7	281-284	bei	_	
+4-8	285-290	Nässe	_	
+4-9	291-297	Gefahr	_	
+4-10	298-301	des	_	
+4-11	302-313	Abrutschens	_	
+4-12	313-314	,	_	
+4-13	315-318	ist	_	
+4-14	319-322	für	_	
+4-15	323-334	Kinderwagen	_	
+4-16	335-339	eine	_	
+4-17	340-346	Tortur	_	
+4-18	347-350	und	_	
+4-19	351-354	für	_	
+4-20	355-366	Rollifahrer	_	
+4-21	367-371	noch	_	
+4-22	372-376	mehr	_	
+4-23	376-377	.	_	
+
+#Text=Das muss heutzutage nicht mehr sein: bitte hier und bei künftigen Planungen einen niveaulosen Übergang.
+5-1	378-381	Das	_	
+5-2	382-386	muss	_	
+5-3	387-397	heutzutage	_	
+5-4	398-403	nicht	_	
+5-5	404-408	mehr	_	
+5-6	409-413	sein	_	
+5-7	413-414	:	_	
+5-8	415-420	bitte	_	
+5-9	421-425	hier	_	
+5-10	426-429	und	_	
+5-11	430-433	bei	_	
+5-12	434-443	künftigen	_	
+5-13	444-453	Planungen	_	
+5-14	454-459	einen	_	
+5-15	460-471	niveaulosen	_	
+5-16	472-480	Übergang	_	
+5-17	480-481	.	_	
+
+#Text=Als Vorschlag sehen Sie bitte den Memminger Rillenstein unter http://www.adfc-diepholz.de/memminger-rillenstein der all dies ermöglicht und im Allgäu sehr effizient und sehr zur Zufriedenheit der angesprochenen Personengruppen verbaut wird.
+6-1	482-485	Als	_	
+6-2	486-495	Vorschlag	_	
+6-3	496-501	sehen	_	
+6-4	502-505	Sie	_	
+6-5	506-511	bitte	_	
+6-6	512-515	den	_	
+6-7	516-525	Memminger	*[7]	
+6-8	526-537	Rillenstein	*[7]	
+6-9	538-543	unter	_	
+6-10	544-548	http	_	
+6-11	548-549	:	_	
+6-12	549-550	/	_	
+6-13	550-551	/	_	
+6-14	551-571	www.adfc-diepholz.de	_	
+6-15	571-572	/	_	
+6-16	572-593	memminger-rillenstein	_	
+6-17	594-597	der	_	
+6-18	598-601	all	_	
+6-19	602-606	dies	_	
+6-20	607-617	ermöglicht	_	
+6-21	618-621	und	_	
+6-22	622-624	im	_	
+6-23	625-631	Allgäu	_	
+6-24	632-636	sehr	_	
+6-25	637-646	effizient	_	
+6-26	647-650	und	_	
+6-27	651-655	sehr	_	
+6-28	656-659	zur	_	
+6-29	660-673	Zufriedenheit	_	
+6-30	674-677	der	_	
+6-31	678-692	angesprochenen	_	
+6-32	693-708	Personengruppen	_	
+6-33	709-716	verbaut	_	
+6-34	717-721	wird	_	
+6-35	721-722	.	_	
+
+#Text=500 Meter weiter ist eine Behinderteneinrichtung, das TZ, wo die Kante kostspielig abgeschliffen und mit pflegeintensivem Plastik angeglichen wurde.
+7-1	723-726	500	_	
+7-2	727-732	Meter	_	
+7-3	733-739	weiter	_	
+7-4	740-743	ist	_	
+7-5	744-748	eine	_	
+7-6	749-771	Behinderteneinrichtung	*[8]	
+7-7	771-772	,	*[8]	
+7-8	773-776	das	*[8]	
+7-9	777-779	TZ	*[8]	
+7-10	779-780	,	_	
+7-11	781-783	wo	_	
+7-12	784-787	die	_	
+7-13	788-793	Kante	_	
+7-14	794-805	kostspielig	_	
+7-15	806-819	abgeschliffen	_	
+7-16	820-823	und	_	
+7-17	824-827	mit	_	
+7-18	828-844	pflegeintensivem	_	
+7-19	845-852	Plastik	_	
+7-20	853-864	angeglichen	_	
+7-21	865-870	wurde	_	
+7-22	870-871	.	_	

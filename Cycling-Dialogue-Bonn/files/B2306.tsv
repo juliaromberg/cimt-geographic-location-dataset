@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bodenschwellen entfernen
+1-1	0-14	Bodenschwellen	_	
+1-2	15-24	entfernen	_	
+
+#Text=Auf dieser Fahrradstraße (!) befinden sich mehrere Bodenschwellen, die auch für Fahrradfahrer äußerst unangenehm zu überfahren sind.
+2-1	27-30	Auf	_	
+2-2	31-37	dieser	_	
+2-3	38-51	Fahrradstraße	_	
+2-4	52-53	(	_	
+2-5	53-54	!	_	
+2-6	54-55	)	_	
+2-7	56-64	befinden	_	
+2-8	65-69	sich	_	
+2-9	70-77	mehrere	_	
+2-10	78-92	Bodenschwellen	_	
+2-11	92-93	,	_	
+2-12	94-97	die	_	
+2-13	98-102	auch	_	
+2-14	103-106	für	_	
+2-15	107-120	Fahrradfahrer	_	
+2-16	121-128	äußerst	_	
+2-17	129-139	unangenehm	_	
+2-18	140-142	zu	_	
+2-19	143-153	überfahren	_	
+2-20	154-158	sind	_	
+2-21	158-159	.	_	
+
+#Text=Ein Vorbeifahren ist auch schwierig, da der Straßenbelag an der Seite eher abschüssig und uneben ist.
+3-1	160-163	Ein	_	
+3-2	164-176	Vorbeifahren	_	
+3-3	177-180	ist	_	
+3-4	181-185	auch	_	
+3-5	186-195	schwierig	_	
+3-6	195-196	,	_	
+3-7	197-199	da	_	
+3-8	200-203	der	_	
+3-9	204-216	Straßenbelag	_	
+3-10	217-219	an	_	
+3-11	220-223	der	_	
+3-12	224-229	Seite	_	
+3-13	230-234	eher	_	
+3-14	235-245	abschüssig	_	
+3-15	246-249	und	_	
+3-16	250-256	uneben	_	
+3-17	257-260	ist	_	
+3-18	260-261	.	_	

@@ -1,0 +1,50 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wege für Radfahrer freigeben
+1-1	0-4	Wege	_	
+1-2	5-8	für	_	
+1-3	9-18	Radfahrer	_	
+1-4	19-28	freigeben	_	
+
+#Text=Offiziell sind die Wege im Baumschulwäldchen nicht für Radfahrer freigegeben, tatsächlich aber viel genutzt.
+2-1	31-40	Offiziell	_	
+2-2	41-45	sind	_	
+2-3	46-49	die	_	
+2-4	50-54	Wege	_	
+2-5	55-57	im	*[4]	
+2-6	58-75	Baumschulwäldchen	*[4]	
+2-7	76-81	nicht	_	
+2-8	82-85	für	_	
+2-9	86-95	Radfahrer	_	
+2-10	96-107	freigegeben	_	
+2-11	107-108	,	_	
+2-12	109-120	tatsächlich	_	
+2-13	121-125	aber	_	
+2-14	126-130	viel	_	
+2-15	131-138	genutzt	_	
+2-16	138-139	.	_	
+
+#Text=Eine Freigabe der Fußwege für Radfahrer würde dem Rechnung tragen und Klarheit für alle Nutzer des Parks schaffen.
+3-1	140-144	Eine	_	
+3-2	145-153	Freigabe	_	
+3-3	154-157	der	_	
+3-4	158-165	Fußwege	_	
+3-5	166-169	für	_	
+3-6	170-179	Radfahrer	_	
+3-7	180-185	würde	_	
+3-8	186-189	dem	_	
+3-9	190-198	Rechnung	_	
+3-10	199-205	tragen	_	
+3-11	206-209	und	_	
+3-12	210-218	Klarheit	_	
+3-13	219-222	für	_	
+3-14	223-227	alle	_	
+3-15	228-234	Nutzer	_	
+3-16	235-238	des	_	
+3-17	239-244	Parks	_	
+3-18	245-253	schaffen	_	
+3-19	253-254	.	_	

@@ -1,0 +1,54 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstraßenregelung für Radfahrer aufheben
+1-1	0-22	Einbahnstraßenregelung	_	
+1-2	23-26	für	_	
+1-3	27-36	Radfahrer	_	
+1-4	37-45	aufheben	_	
+
+#Text=Der Moselweg sollte auch von Süden kommend für Radfahrer befahrbar sein.
+2-1	48-51	Der	*[5]	
+2-2	52-60	Moselweg	*[5]	
+2-3	61-67	sollte	_	
+2-4	68-72	auch	_	
+2-5	73-76	von	_	
+2-6	77-82	Süden	_	
+2-7	83-90	kommend	_	
+2-8	91-94	für	_	
+2-9	95-104	Radfahrer	_	
+2-10	105-114	befahrbar	_	
+2-11	115-119	sein	_	
+2-12	119-120	.	_	
+
+#Text=Es ist nicht nachvollziehbar, warum gerade hier nicht gegen die Einbahnstraße gefahren werden darf.
+3-1	121-123	Es	_	
+3-2	124-127	ist	_	
+3-3	128-133	nicht	_	
+3-4	134-149	nachvollziehbar	_	
+3-5	149-150	,	_	
+3-6	151-156	warum	_	
+3-7	157-163	gerade	_	
+3-8	164-168	hier	_	
+3-9	169-174	nicht	_	
+3-10	175-180	gegen	_	
+3-11	181-184	die	_	
+3-12	185-198	Einbahnstraße	_	
+3-13	199-207	gefahren	_	
+3-14	208-214	werden	_	
+3-15	215-219	darf	_	
+3-16	219-220	.	_	
+
+#Text=Diese Einschränkung beeinträchtigt den Süd-Nord-Verkehr für Radfahrer erheblich.
+4-1	221-226	Diese	_	
+4-2	227-240	Einschränkung	_	
+4-3	241-255	beeinträchtigt	_	
+4-4	256-259	den	_	
+4-5	260-276	Süd-Nord-Verkehr	_	
+4-6	277-280	für	_	
+4-7	281-290	Radfahrer	_	
+4-8	291-300	erheblich	_	
+4-9	300-301	.	_	

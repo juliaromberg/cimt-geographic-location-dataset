@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Die Radspur auf der Fahrbahn sicherer machen
+1-1	0-3	Die	_	
+1-2	4-11	Radspur	_	
+1-3	12-15	auf	_	
+1-4	16-19	der	_	
+1-5	20-28	Fahrbahn	_	
+1-6	29-37	sicherer	_	
+1-7	38-44	machen	_	
+
+#Text=Die Verlegung des Radverkehrs auf die Straße ist schon eine Verbesserung im Vergleich zum vorherigen Zustand.
+2-1	47-50	Die	_	
+2-2	51-60	Verlegung	_	
+2-3	61-64	des	_	
+2-4	65-76	Radverkehrs	_	
+2-5	77-80	auf	_	
+2-6	81-84	die	_	
+2-7	85-91	Straße	_	
+2-8	92-95	ist	_	
+2-9	96-101	schon	_	
+2-10	102-106	eine	_	
+2-11	107-119	Verbesserung	_	
+2-12	120-122	im	_	
+2-13	123-132	Vergleich	_	
+2-14	133-136	zum	_	
+2-15	137-147	vorherigen	_	
+2-16	148-155	Zustand	_	
+2-17	155-156	.	_	
+
+#Text=Der Radfahrstreifen ist aber noch zu unsicher, er sollte zu einer Protected Bike Lane ausgebaut werden.
+3-1	157-160	Der	_	
+3-2	161-176	Radfahrstreifen	_	
+3-3	177-180	ist	_	
+3-4	181-185	aber	_	
+3-5	186-190	noch	_	
+3-6	191-193	zu	_	
+3-7	194-202	unsicher	_	
+3-8	202-203	,	_	
+3-9	204-206	er	_	
+3-10	207-213	sollte	_	
+3-11	214-216	zu	_	
+3-12	217-222	einer	_	
+3-13	223-232	Protected	_	
+3-14	233-237	Bike	_	
+3-15	238-242	Lane	_	
+3-16	243-252	ausgebaut	_	
+3-17	253-259	werden	_	
+3-18	259-260	.	_	
+
+#Text=Deutlich rot eingefärbt, und auch mit Schwellen gegenüber der Kfz-Spur abgegrenzt werden.
+4-1	261-269	Deutlich	_	
+4-2	270-273	rot	_	
+4-3	274-284	eingefärbt	_	
+4-4	284-285	,	_	
+4-5	286-289	und	_	
+4-6	290-294	auch	_	
+4-7	295-298	mit	_	
+4-8	299-308	Schwellen	_	
+4-9	309-318	gegenüber	_	
+4-10	319-322	der	_	
+4-11	323-331	Kfz-Spur	_	
+4-12	332-342	abgegrenzt	_	
+4-13	343-349	werden	_	
+4-14	349-350	.	_	

@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg verbreitern
+1-1	0-6	Radweg	_	
+1-2	7-18	verbreitern	_	
+
+#Text=Der Radweg an der Kaiserstraße ist oft so zugewachsen, dass ein Drittel des ohnehin schmalen Radwegs verloren geht.
+2-1	21-24	Der	*[7]	
+2-2	25-31	Radweg	*[7]	
+2-3	32-34	an	*[7]	
+2-4	35-38	der	*[7]	
+2-5	39-51	Kaiserstraße	*[7]	
+2-6	52-55	ist	_	
+2-7	56-59	oft	_	
+2-8	60-62	so	_	
+2-9	63-74	zugewachsen	_	
+2-10	74-75	,	_	
+2-11	76-80	dass	_	
+2-12	81-84	ein	_	
+2-13	85-92	Drittel	_	
+2-14	93-96	des	_	
+2-15	97-104	ohnehin	_	
+2-16	105-113	schmalen	_	
+2-17	114-121	Radwegs	_	
+2-18	122-130	verloren	_	
+2-19	131-135	geht	_	
+2-20	135-136	.	_	
+
+#Text=Zwei Fahrradfahrer kommen dann auf dem viel befahrenen Stück nicht mehr aneinander vorbei.
+3-1	137-141	Zwei	_	
+3-2	142-155	Fahrradfahrer	_	
+3-3	156-162	kommen	_	
+3-4	163-167	dann	_	
+3-5	168-171	auf	_	
+3-6	172-175	dem	_	
+3-7	176-180	viel	_	
+3-8	181-191	befahrenen	_	
+3-9	192-197	Stück	_	
+3-10	198-203	nicht	_	
+3-11	204-208	mehr	_	
+3-12	209-219	aneinander	_	
+3-13	220-226	vorbei	_	
+3-14	226-227	.	_	
+
+#Text=Eine Lösung wäre, den Radweg regelmäßiger freizuschneiden.
+4-1	228-232	Eine	_	
+4-2	233-239	Lösung	_	
+4-3	240-244	wäre	_	
+4-4	244-245	,	_	
+4-5	246-249	den	_	
+4-6	250-256	Radweg	_	
+4-7	257-269	regelmäßiger	_	
+4-8	270-285	freizuschneiden	_	
+4-9	285-286	.	_	
+
+#Text=Man sollte allerdings auch mal überlegen, ob man den Radweg nicht verbreitern kann und dafür die Straße verengen.
+5-1	287-290	Man	_	
+5-2	291-297	sollte	_	
+5-3	298-308	allerdings	_	
+5-4	309-313	auch	_	
+5-5	314-317	mal	_	
+5-6	318-327	überlegen	_	
+5-7	327-328	,	_	
+5-8	329-331	ob	_	
+5-9	332-335	man	_	
+5-10	336-339	den	_	
+5-11	340-346	Radweg	_	
+5-12	347-352	nicht	_	
+5-13	353-364	verbreitern	_	
+5-14	365-369	kann	_	
+5-15	370-373	und	_	
+5-16	374-379	dafür	_	
+5-17	380-383	die	_	
+5-18	384-390	Straße	_	
+5-19	391-399	verengen	_	
+5-20	399-400	.	_	
+
+#Text=Eventuell wäre eine Einbahnstraßenlösung denkbar...
+6-1	401-410	Eventuell	_	
+6-2	411-415	wäre	_	
+6-3	416-420	eine	_	
+6-4	421-441	Einbahnstraßenlösung	_	
+6-5	442-449	denkbar	_	
+6-6	449-450	.	_	
+6-7	450-451	.	_	
+6-8	451-452	.	_	

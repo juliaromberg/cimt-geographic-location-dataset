@@ -1,0 +1,113 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unvermitteltes Ende des Radwegs und Radfahrer absteigen vermeiden
+1-1	0-14	Unvermitteltes	_	
+1-2	15-19	Ende	_	
+1-3	20-23	des	_	
+1-4	24-31	Radwegs	_	
+1-5	32-35	und	_	
+1-6	36-45	Radfahrer	_	
+1-7	46-55	absteigen	_	
+1-8	56-65	vermeiden	_	
+
+#Text=Es ist zwar nur temporäre Situation, aber typisch für den Umgang mit Radfahrern an Baustellen in Bonn: Die Fahrt wird jäh und unvermittelt mit Zeichen 237 und den Zusatzsatzzeichen Ende sowie Radfahrer absteigen gestoppt.
+2-1	68-70	Es	_	
+2-2	71-74	ist	_	
+2-3	75-79	zwar	_	
+2-4	80-83	nur	_	
+2-5	84-93	temporäre	_	
+2-6	94-103	Situation	_	
+2-7	103-104	,	_	
+2-8	105-109	aber	_	
+2-9	110-117	typisch	_	
+2-10	118-121	für	_	
+2-11	122-125	den	_	
+2-12	126-132	Umgang	_	
+2-13	133-136	mit	_	
+2-14	137-147	Radfahrern	_	
+2-15	148-150	an	_	
+2-16	151-161	Baustellen	_	
+2-17	162-164	in	*[6]	
+2-18	165-169	Bonn	*[6]	
+2-19	169-170	:	_	
+2-20	171-174	Die	_	
+2-21	175-180	Fahrt	_	
+2-22	181-185	wird	_	
+2-23	186-189	jäh	_	
+2-24	190-193	und	_	
+2-25	194-206	unvermittelt	_	
+2-26	207-210	mit	_	
+2-27	211-218	Zeichen	_	
+2-28	219-222	237	_	
+2-29	223-226	und	_	
+2-30	227-230	den	_	
+2-31	231-248	Zusatzsatzzeichen	_	
+2-32	249-253	Ende	_	
+2-33	254-259	sowie	_	
+2-34	260-269	Radfahrer	_	
+2-35	270-279	absteigen	_	
+2-36	280-288	gestoppt	_	
+2-37	288-289	.	_	
+
+#Text=Ein Schilderkombination, die entsprechend auf Autofahrer anwendbar ist, habe ich noch nicht gesehen.
+3-1	290-293	Ein	_	
+3-2	294-313	Schilderkombination	_	
+3-3	313-314	,	_	
+3-4	315-318	die	_	
+3-5	319-331	entsprechend	_	
+3-6	332-335	auf	_	
+3-7	336-346	Autofahrer	_	
+3-8	347-356	anwendbar	_	
+3-9	357-360	ist	_	
+3-10	360-361	,	_	
+3-11	362-366	habe	_	
+3-12	367-370	ich	_	
+3-13	371-375	noch	_	
+3-14	376-381	nicht	_	
+3-15	382-389	gesehen	_	
+3-16	389-390	.	_	
+
+#Text=Wer nicht nicht ab-/aussteigen kann, hat hier wenigstens noch die B9 als legale Ausweichmöglichkeit zur Auswahl.
+4-1	391-394	Wer	_	
+4-2	395-400	nicht	_	
+4-3	401-406	nicht	_	
+4-4	407-409	ab	_	
+4-5	409-410	-	_	
+4-6	410-411	/	_	
+4-7	411-421	aussteigen	_	
+4-8	422-426	kann	_	
+4-9	426-427	,	_	
+4-10	428-431	hat	_	
+4-11	432-436	hier	_	
+4-12	437-447	wenigstens	_	
+4-13	448-452	noch	_	
+4-14	453-456	die	*[7]	
+4-15	457-459	B9	*[7]	
+4-16	460-463	als	_	
+4-17	464-470	legale	_	
+4-18	471-490	Ausweichmöglichkeit	_	
+4-19	491-494	zur	_	
+4-20	495-502	Auswahl	_	
+4-21	502-503	.	_	
+
+#Text=Lösungen gibt es: Beschilderung mit Zeichen 240 oder eine Umleiitungsbeschilderung zu Beginn des Radwegs.
+5-1	504-512	Lösungen	_	
+5-2	513-517	gibt	_	
+5-3	518-520	es	_	
+5-4	520-521	:	_	
+5-5	522-535	Beschilderung	_	
+5-6	536-539	mit	_	
+5-7	540-547	Zeichen	_	
+5-8	548-551	240	_	
+5-9	552-556	oder	_	
+5-10	557-561	eine	_	
+5-11	562-586	Umleiitungsbeschilderung	_	
+5-12	587-589	zu	_	
+5-13	590-596	Beginn	_	
+5-14	597-600	des	_	
+5-15	601-608	Radwegs	_	
+5-16	608-609	.	_	

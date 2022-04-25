@@ -1,0 +1,33 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Häufig Glas auf der Straße
+1-1	0-6	Häufig	_	
+1-2	7-11	Glas	_	
+1-3	12-15	auf	_	
+1-4	16-19	der	_	
+1-5	20-26	Straße	_	
+
+#Text=Durch den Glascontainer ist regelmäßig Glas auf der Straße, dies muss man als Radfahrer immer großflächig umfahren.
+2-1	29-34	Durch	_	
+2-2	35-38	den	_	
+2-3	39-52	Glascontainer	_	
+2-4	53-56	ist	_	
+2-5	57-67	regelmäßig	_	
+2-6	68-72	Glas	_	
+2-7	73-76	auf	_	
+2-8	77-80	der	_	
+2-9	81-87	Straße	_	
+2-10	87-88	,	_	
+2-11	89-93	dies	_	
+2-12	94-98	muss	_	
+2-13	99-102	man	_	
+2-14	103-106	als	_	
+2-15	107-116	Radfahrer	_	
+2-16	117-122	immer	_	
+2-17	123-134	großflächig	_	
+2-18	135-143	umfahren	_	
+2-19	143-144	.	_	

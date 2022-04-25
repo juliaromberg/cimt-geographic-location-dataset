@@ -1,0 +1,79 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Grüner Pfeil an Ampel Endenicher Allee/Nussallee fragwürdig
+1-1	0-6	Grüner	_	
+1-2	7-12	Pfeil	_	
+1-3	13-15	an	_	
+1-4	16-21	Ampel	*[5]	
+1-5	22-32	Endenicher	*[5]	
+1-6	33-38	Allee	*[5]	
+1-7	38-39	/	*[5]	
+1-8	39-48	Nussallee	*[5]	
+1-9	49-59	fragwürdig	_	
+
+#Text=Es gibt an der Ampel stadteinwärts einen grünen Pfeil an der Ampel.
+2-1	62-64	Es	_	
+2-2	65-69	gibt	_	
+2-3	70-72	an	_	
+2-4	73-76	der	_	
+2-5	77-82	Ampel	_	
+2-6	83-96	stadteinwärts	_	
+2-7	97-102	einen	_	
+2-8	103-109	grünen	_	
+2-9	110-115	Pfeil	_	
+2-10	116-118	an	_	
+2-11	119-122	der	_	
+2-12	123-128	Ampel	_	
+2-13	128-129	.	_	
+
+#Text=Der wird einerseits von vielen Verkehrsteilnehmern falsch interpretiert (man muss dort stoppen!) und wurde vermutlich angebracht bevor die Kaufmannstraße für Radfahrer freigegeben wurde.
+3-1	130-133	Der	_	
+3-2	134-138	wird	_	
+3-3	139-149	einerseits	_	
+3-4	150-153	von	_	
+3-5	154-160	vielen	_	
+3-6	161-180	Verkehrsteilnehmern	_	
+3-7	181-187	falsch	_	
+3-8	188-201	interpretiert	_	
+3-9	202-203	(	_	
+3-10	203-206	man	_	
+3-11	207-211	muss	_	
+3-12	212-216	dort	_	
+3-13	217-224	stoppen	_	
+3-14	224-225	!	_	
+3-15	225-226	)	_	
+3-16	227-230	und	_	
+3-17	231-236	wurde	_	
+3-18	237-247	vermutlich	_	
+3-19	248-258	angebracht	_	
+3-20	259-264	bevor	_	
+3-21	265-268	die	_	
+3-22	269-283	Kaufmannstraße	_	
+3-23	284-287	für	_	
+3-24	288-297	Radfahrer	_	
+3-25	298-309	freigegeben	_	
+3-26	310-315	wurde	_	
+3-27	315-316	.	_	
+
+#Text=Im dieser Kombination passiert es, dass einen aus der Kaufmannstrasse kommend von rechts Fahrzeuge gefährden.
+4-1	317-319	Im	_	
+4-2	320-326	dieser	_	
+4-3	327-338	Kombination	_	
+4-4	339-347	passiert	_	
+4-5	348-350	es	_	
+4-6	350-351	,	_	
+4-7	352-356	dass	_	
+4-8	357-362	einen	_	
+4-9	363-366	aus	*[6]	
+4-10	367-370	der	*[6]	
+4-11	371-386	Kaufmannstrasse	*[6]	
+4-12	387-394	kommend	*[6]	
+4-13	395-398	von	*[6]	
+4-14	399-405	rechts	*[6]	
+4-15	406-415	Fahrzeuge	_	
+4-16	416-425	gefährden	_	
+4-17	425-426	.	_	

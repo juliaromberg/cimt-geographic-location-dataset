@@ -1,0 +1,40 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zusatzzeichen fehlt
+1-1	0-13	Zusatzzeichen	_	
+1-2	14-19	fehlt	_	
+
+#Text=Zwar hat man es vor kurzem geschafft, das Einfahrt verboten am Königsplatz mit einer Freigabe zu versehen, am zugehörigen blauen Einbahnstraßenschild fehlt die Kennzeichnung immer noch.
+2-1	22-26	Zwar	_	
+2-2	27-30	hat	_	
+2-3	31-34	man	_	
+2-4	35-37	es	_	
+2-5	38-41	vor	_	
+2-6	42-48	kurzem	_	
+2-7	49-58	geschafft	_	
+2-8	58-59	,	_	
+2-9	60-63	das	_	
+2-10	64-72	Einfahrt	_	
+2-11	73-81	verboten	_	
+2-12	82-84	am	*[3]	
+2-13	85-96	Königsplatz	*[3]	
+2-14	97-100	mit	_	
+2-15	101-106	einer	_	
+2-16	107-115	Freigabe	_	
+2-17	116-118	zu	_	
+2-18	119-127	versehen	_	
+2-19	127-128	,	_	
+2-20	129-131	am	_	
+2-21	132-143	zugehörigen	_	
+2-22	144-150	blauen	_	
+2-23	151-171	Einbahnstraßenschild	_	
+2-24	172-177	fehlt	_	
+2-25	178-181	die	_	
+2-26	182-195	Kennzeichnung	_	
+2-27	196-201	immer	_	
+2-28	202-206	noch	_	
+2-29	206-207	.	_	

@@ -1,0 +1,57 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrbahnbelag Elsa-Brändström-Straße
+1-1	0-13	Fahrbahnbelag	_	
+1-2	14-36	Elsa-Brändström-Straße	*	
+
+#Text=Hier ist dringend ein neuer Belag nötig, um hier mit dem Fahrrad entlangfahren zu können!
+2-1	39-43	Hier	_	
+2-2	44-47	ist	_	
+2-3	48-56	dringend	_	
+2-4	57-60	ein	_	
+2-5	61-66	neuer	_	
+2-6	67-72	Belag	_	
+2-7	73-78	nötig	_	
+2-8	78-79	,	_	
+2-9	80-82	um	_	
+2-10	83-87	hier	_	
+2-11	88-91	mit	_	
+2-12	92-95	dem	_	
+2-13	96-103	Fahrrad	_	
+2-14	104-117	entlangfahren	_	
+2-15	118-120	zu	_	
+2-16	121-127	können	_	
+2-17	127-128	!	_	
+
+#Text=Der aktuelle Belag hat Rillen & Risse in der Oberfläche, so dass das Radfahren zwischen Ringstraße & Kreuzherrenstraße sehr riskant ist, insbesondere bei Nässe.
+3-1	129-132	Der	_	
+3-2	133-141	aktuelle	_	
+3-3	142-147	Belag	_	
+3-4	148-151	hat	_	
+3-5	152-158	Rillen	_	
+3-6	159-160	&	_	
+3-7	161-166	Risse	_	
+3-8	167-169	in	_	
+3-9	170-173	der	_	
+3-10	174-184	Oberfläche	_	
+3-11	184-185	,	_	
+3-12	186-188	so	_	
+3-13	189-193	dass	_	
+3-14	194-197	das	_	
+3-15	198-207	Radfahren	_	
+3-16	208-216	zwischen	*[4]	
+3-17	217-227	Ringstraße	*[4]	
+3-18	228-229	&	*[4]	
+3-19	230-247	Kreuzherrenstraße	*[4]	
+3-20	248-252	sehr	_	
+3-21	253-260	riskant	_	
+3-22	261-264	ist	_	
+3-23	264-265	,	_	
+3-24	266-278	insbesondere	_	
+3-25	279-282	bei	_	
+3-26	283-288	Nässe	_	
+3-27	288-289	.	_	

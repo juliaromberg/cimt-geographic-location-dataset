@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradsymbole überall dort auf die Fahrbahnen markieren , wo radfahren auf der Fahrbahn erlaubt bzw. geboten ist
+1-1	0-14	Fahrradsymbole	_	
+1-2	15-22	überall	_	
+1-3	23-27	dort	_	
+1-4	28-31	auf	_	
+1-5	32-35	die	_	
+1-6	36-46	Fahrbahnen	_	
+1-7	47-56	markieren	_	
+1-8	57-58	,	_	
+1-9	59-61	wo	_	
+1-10	62-71	radfahren	_	
+1-11	72-75	auf	_	
+1-12	76-79	der	_	
+1-13	80-88	Fahrbahn	_	
+1-14	89-96	erlaubt	_	
+1-15	97-100	bzw	_	
+1-16	100-101	.	_	
+1-17	102-109	geboten	_	
+1-18	110-113	ist	_	
+
+#Text=Damit die ignoranten Bonner Autofahrer es auch mal mitbekommen.
+2-1	116-121	Damit	_	
+2-2	122-125	die	_	
+2-3	126-136	ignoranten	_	
+2-4	137-143	Bonner	_	
+2-5	144-154	Autofahrer	_	
+2-6	155-157	es	_	
+2-7	158-162	auch	_	
+2-8	163-166	mal	_	
+2-9	167-178	mitbekommen	_	
+2-10	178-179	.	_	
+
+#Text=Vor allem auch die Busfahrer, neulich wieder so einen hupenden Bus au dem Hermann-Wandersleb-Ring erlebt.
+3-1	180-183	Vor	_	
+3-2	184-189	allem	_	
+3-3	190-194	auch	_	
+3-4	195-198	die	_	
+3-5	199-208	Busfahrer	_	
+3-6	208-209	,	_	
+3-7	210-217	neulich	_	
+3-8	218-224	wieder	_	
+3-9	225-227	so	_	
+3-10	228-233	einen	_	
+3-11	234-242	hupenden	_	
+3-12	243-246	Bus	_	
+3-13	247-249	au	*[5]	
+3-14	250-253	dem	*[5]	
+3-15	254-277	Hermann-Wandersleb-Ring	*[5]	
+3-16	278-284	erlebt	_	
+3-17	284-285	.	_	
+
+#Text=Die Symbole dort anbringen, wo der Radfahrer zu fahren hat, nämlich mindestens 1m vom rechten Fahrbahnrand entfernt
+4-1	286-289	Die	_	
+4-2	290-297	Symbole	_	
+4-3	298-302	dort	_	
+4-4	303-312	anbringen	_	
+4-5	312-313	,	_	
+4-6	314-316	wo	_	
+4-7	317-320	der	_	
+4-8	321-330	Radfahrer	_	
+4-9	331-333	zu	_	
+4-10	334-340	fahren	_	
+4-11	341-344	hat	_	
+4-12	344-345	,	_	
+4-13	346-353	nämlich	_	
+4-14	354-364	mindestens	_	
+4-15	365-367	1m	_	
+4-16	368-371	vom	_	
+4-17	372-379	rechten	_	
+4-18	380-392	Fahrbahnrand	_	
+4-19	393-401	entfernt	_	

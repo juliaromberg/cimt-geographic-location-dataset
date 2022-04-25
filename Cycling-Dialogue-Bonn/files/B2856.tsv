@@ -1,0 +1,33 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Strassenueberquerung einrichten
+1-1	0-20	Strassenueberquerung	_	
+1-2	21-31	einrichten	_	
+
+#Text=Wenn ich hier parallel zur Autobahn komme und weiterfahren will, muss ich einen grossen Umweg bis zur nächsten Haltestelle machen.
+2-1	34-38	Wenn	_	
+2-2	39-42	ich	_	
+2-3	43-47	hier	_	
+2-4	48-56	parallel	_	
+2-5	57-60	zur	_	
+2-6	61-69	Autobahn	_	
+2-7	70-75	komme	_	
+2-8	76-79	und	_	
+2-9	80-92	weiterfahren	_	
+2-10	93-97	will	_	
+2-11	97-98	,	_	
+2-12	99-103	muss	_	
+2-13	104-107	ich	_	
+2-14	108-113	einen	_	
+2-15	114-121	grossen	_	
+2-16	122-127	Umweg	_	
+2-17	128-131	bis	_	
+2-18	132-135	zur	_	
+2-19	136-144	nächsten	_	
+2-20	145-156	Haltestelle	_	
+2-21	157-163	machen	_	
+2-22	163-164	.	_	

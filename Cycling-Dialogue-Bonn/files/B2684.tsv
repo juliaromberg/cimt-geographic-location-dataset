@@ -1,0 +1,290 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Straße zu eng
+1-1	0-6	Straße	_	
+1-2	7-9	zu	_	
+1-3	10-13	eng	_	
+
+#Text=Die Adolfstr. ist hier unechte Einbahnstr..
+2-1	16-19	Die	*[14]	
+2-2	20-28	Adolfstr	*[14]	
+2-3	28-29	.	*[14]	
+2-4	30-33	ist	_	
+2-5	34-38	hier	_	
+2-6	39-46	unechte	_	
+2-7	47-57	Einbahnstr	_	
+2-8	57-58	.	_	
+2-9	58-59	.	_	
+
+#Text=Als Radfahrer darf man auch Richtung Vorgebirgsstr. fahren.
+3-1	60-63	Als	_	
+3-2	64-73	Radfahrer	_	
+3-3	74-78	darf	_	
+3-4	79-82	man	_	
+3-5	83-87	auch	_	
+3-6	88-96	Richtung	*[15]	
+3-7	97-110	Vorgebirgsstr	*[15]	
+3-8	110-111	.	*[15]	
+3-9	112-118	fahren	_	
+3-10	118-119	.	_	
+
+#Text=die Autofahrer dürfen nur in Gegenrichtung Richtung Dorotheenstr.
+4-1	120-123	die	_	
+4-2	124-134	Autofahrer	_	
+4-3	135-141	dürfen	_	
+4-4	142-145	nur	_	
+4-5	146-148	in	*[16]	
+4-6	149-162	Gegenrichtung	*[16]	
+4-7	163-171	Richtung	*[16]	
+4-8	172-184	Dorotheenstr	*[16]	
+4-9	184-185	.	*[16]	
+
+#Text=Die Straßenbreite reicht so gerade, aber wirklich auch nur so gerade, um an einem entgegenkommenden PKW vorbeizukommen.
+5-1	186-189	Die	_	
+5-2	190-203	Straßenbreite	_	
+5-3	204-210	reicht	_	
+5-4	211-213	so	_	
+5-5	214-220	gerade	_	
+5-6	220-221	,	_	
+5-7	222-226	aber	_	
+5-8	227-235	wirklich	_	
+5-9	236-240	auch	_	
+5-10	241-244	nur	_	
+5-11	245-247	so	_	
+5-12	248-254	gerade	_	
+5-13	254-255	,	_	
+5-14	256-258	um	_	
+5-15	259-261	an	_	
+5-16	262-267	einem	_	
+5-17	268-285	entgegenkommenden	_	
+5-18	286-289	PKW	_	
+5-19	290-304	vorbeizukommen	_	
+5-20	304-305	.	_	
+
+#Text=Insbesondere entgegenkommende Busse lassen den Radfahrern noch max. 50 cm.
+6-1	306-318	Insbesondere	_	
+6-2	319-335	entgegenkommende	_	
+6-3	336-341	Busse	_	
+6-4	342-348	lassen	_	
+6-5	349-352	den	_	
+6-6	353-363	Radfahrern	_	
+6-7	364-368	noch	_	
+6-8	369-372	max	_	
+6-9	372-373	.	_	
+6-10	374-376	50	_	
+6-11	377-379	cm	_	
+6-12	379-380	.	_	
+
+#Text=Das Problem ist, dass zwar nicht alle Autofahrer, aber doch so ungefähr 98-99%, es nicht für nötig halten, ihre Geschwindigkeit zu reduzieren, wenn sie zu entgegenkommenden Radfahrern keinen Sicherheitsabstand einhalten können.
+7-1	381-384	Das	_	
+7-2	385-392	Problem	_	
+7-3	393-396	ist	_	
+7-4	396-397	,	_	
+7-5	398-402	dass	_	
+7-6	403-407	zwar	_	
+7-7	408-413	nicht	_	
+7-8	414-418	alle	_	
+7-9	419-429	Autofahrer	_	
+7-10	429-430	,	_	
+7-11	431-435	aber	_	
+7-12	436-440	doch	_	
+7-13	441-443	so	_	
+7-14	444-452	ungefähr	_	
+7-15	453-455	98	_	
+7-16	455-456	-	_	
+7-17	456-459	99%	_	
+7-18	459-460	,	_	
+7-19	461-463	es	_	
+7-20	464-469	nicht	_	
+7-21	470-473	für	_	
+7-22	474-479	nötig	_	
+7-23	480-486	halten	_	
+7-24	486-487	,	_	
+7-25	488-492	ihre	_	
+7-26	493-508	Geschwindigkeit	_	
+7-27	509-511	zu	_	
+7-28	512-522	reduzieren	_	
+7-29	522-523	,	_	
+7-30	524-528	wenn	_	
+7-31	529-532	sie	_	
+7-32	533-535	zu	_	
+7-33	536-553	entgegenkommenden	_	
+7-34	554-564	Radfahrern	_	
+7-35	565-571	keinen	_	
+7-36	572-590	Sicherheitsabstand	_	
+7-37	591-600	einhalten	_	
+7-38	601-607	können	_	
+7-39	607-608	.	_	
+
+#Text=Dem durchschnittlichen Bonner Autofahrer (und Busfahrer) ist das völlig schnuppe, selbst wenn der seitliche Abstand zu Radfahrern so gering ist, dass der Radfahrer einen Luftzug spürt und kurz davor ist, den PKW zu streifen - das ist kein Grund zum Abbremsen auf Schrittgeschwindigkeit, niemals!
+8-1	609-612	Dem	_	
+8-2	613-631	durchschnittlichen	_	
+8-3	632-638	Bonner	_	
+8-4	639-649	Autofahrer	_	
+8-5	650-651	(	_	
+8-6	651-654	und	_	
+8-7	655-664	Busfahrer	_	
+8-8	664-665	)	_	
+8-9	666-669	ist	_	
+8-10	670-673	das	_	
+8-11	674-680	völlig	_	
+8-12	681-689	schnuppe	_	
+8-13	689-690	,	_	
+8-14	691-697	selbst	_	
+8-15	698-702	wenn	_	
+8-16	703-706	der	_	
+8-17	707-716	seitliche	_	
+8-18	717-724	Abstand	_	
+8-19	725-727	zu	_	
+8-20	728-738	Radfahrern	_	
+8-21	739-741	so	_	
+8-22	742-748	gering	_	
+8-23	749-752	ist	_	
+8-24	752-753	,	_	
+8-25	754-758	dass	_	
+8-26	759-762	der	_	
+8-27	763-772	Radfahrer	_	
+8-28	773-778	einen	_	
+8-29	779-786	Luftzug	_	
+8-30	787-792	spürt	_	
+8-31	793-796	und	_	
+8-32	797-801	kurz	_	
+8-33	802-807	davor	_	
+8-34	808-811	ist	_	
+8-35	811-812	,	_	
+8-36	813-816	den	_	
+8-37	817-820	PKW	_	
+8-38	821-823	zu	_	
+8-39	824-832	streifen	_	
+8-40	833-834	-	_	
+8-41	835-838	das	_	
+8-42	839-842	ist	_	
+8-43	843-847	kein	_	
+8-44	848-853	Grund	_	
+8-45	854-857	zum	_	
+8-46	858-867	Abbremsen	_	
+8-47	868-871	auf	_	
+8-48	872-894	Schrittgeschwindigkeit	_	
+8-49	894-895	,	_	
+8-50	896-903	niemals	_	
+8-51	903-904	!	_	
+
+#Text=Das ist ein Problem auf allen unechten Einbahnstraßen in der Nordstadt, aber auf diesem Stück Adolfstr. ist es extrem.
+9-1	905-908	Das	_	
+9-2	909-912	ist	_	
+9-3	913-916	ein	_	
+9-4	917-924	Problem	_	
+9-5	925-928	auf	_	
+9-6	929-934	allen	_	
+9-7	935-943	unechten	_	
+9-8	944-958	Einbahnstraßen	*[17]	
+9-9	959-961	in	*[17]	
+9-10	962-965	der	*[17]	
+9-11	966-975	Nordstadt	*[17]	
+9-12	975-976	,	_	
+9-13	977-981	aber	_	
+9-14	982-985	auf	_	
+9-15	986-992	diesem	_	
+9-16	993-998	Stück	_	
+9-17	999-1007	Adolfstr	*	
+9-18	1007-1008	.	_	
+9-19	1009-1012	ist	_	
+9-20	1013-1015	es	_	
+9-21	1016-1022	extrem	_	
+9-22	1022-1023	.	_	
+
+#Text=Und natürlich geht auch hier, wie überall, die Abwägung zwischen Platz für Radfahrer und Parkraum für PKW zugunsten der PKW aus.
+10-1	1024-1027	Und	_	
+10-2	1028-1037	natürlich	_	
+10-3	1038-1042	geht	_	
+10-4	1043-1047	auch	_	
+10-5	1048-1052	hier	_	
+10-6	1052-1053	,	_	
+10-7	1054-1057	wie	_	
+10-8	1058-1065	überall	_	
+10-9	1065-1066	,	_	
+10-10	1067-1070	die	_	
+10-11	1071-1079	Abwägung	_	
+10-12	1080-1088	zwischen	_	
+10-13	1089-1094	Platz	_	
+10-14	1095-1098	für	_	
+10-15	1099-1108	Radfahrer	_	
+10-16	1109-1112	und	_	
+10-17	1113-1121	Parkraum	_	
+10-18	1122-1125	für	_	
+10-19	1126-1129	PKW	_	
+10-20	1130-1139	zugunsten	_	
+10-21	1140-1143	der	_	
+10-22	1144-1147	PKW	_	
+10-23	1148-1151	aus	_	
+10-24	1151-1152	.	_	
+
+#Text=Der ganze Weg ist so eng, weil die Hälfte der Straße als Parkplatz ausgewiesen ist.
+11-1	1153-1156	Der	_	
+11-2	1157-1162	ganze	_	
+11-3	1163-1166	Weg	_	
+11-4	1167-1170	ist	_	
+11-5	1171-1173	so	_	
+11-6	1174-1177	eng	_	
+11-7	1177-1178	,	_	
+11-8	1179-1183	weil	_	
+11-9	1184-1187	die	_	
+11-10	1188-1194	Hälfte	_	
+11-11	1195-1198	der	_	
+11-12	1199-1205	Straße	_	
+11-13	1206-1209	als	_	
+11-14	1210-1219	Parkplatz	_	
+11-15	1220-1231	ausgewiesen	_	
+11-16	1232-1235	ist	_	
+11-17	1235-1236	.	_	
+
+#Text=Wenn man hier nicht verbreitern will, weil die Parkplätze bleiben sollen, muss man mit radikalen Mitteln dafür sorgen, dass die PKWs hier langsamer fahren.
+12-1	1237-1241	Wenn	_	
+12-2	1242-1245	man	_	
+12-3	1246-1250	hier	_	
+12-4	1251-1256	nicht	_	
+12-5	1257-1268	verbreitern	_	
+12-6	1269-1273	will	_	
+12-7	1273-1274	,	_	
+12-8	1275-1279	weil	_	
+12-9	1280-1283	die	_	
+12-10	1284-1294	Parkplätze	_	
+12-11	1295-1302	bleiben	_	
+12-12	1303-1309	sollen	_	
+12-13	1309-1310	,	_	
+12-14	1311-1315	muss	_	
+12-15	1316-1319	man	_	
+12-16	1320-1323	mit	_	
+12-17	1324-1333	radikalen	_	
+12-18	1334-1341	Mitteln	_	
+12-19	1342-1347	dafür	_	
+12-20	1348-1354	sorgen	_	
+12-21	1354-1355	,	_	
+12-22	1356-1360	dass	_	
+12-23	1361-1364	die	_	
+12-24	1365-1369	PKWs	_	
+12-25	1370-1374	hier	_	
+12-26	1375-1384	langsamer	_	
+12-27	1385-1391	fahren	_	
+12-28	1391-1392	.	_	
+
+#Text=Z.B. Bodenschwellen und Einrichtung einer Spielstraße - schließlich ist hier auch ein Spielplatz!
+13-1	1393-1396	Z.B	_	
+13-2	1396-1397	.	_	
+13-3	1398-1412	Bodenschwellen	_	
+13-4	1413-1416	und	_	
+13-5	1417-1428	Einrichtung	_	
+13-6	1429-1434	einer	_	
+13-7	1435-1446	Spielstraße	_	
+13-8	1447-1448	-	_	
+13-9	1449-1460	schließlich	_	
+13-10	1461-1464	ist	_	
+13-11	1465-1469	hier	_	
+13-12	1470-1474	auch	_	
+13-13	1475-1478	ein	_	
+13-14	1479-1489	Spielplatz	_	
+13-15	1489-1490	!	_	

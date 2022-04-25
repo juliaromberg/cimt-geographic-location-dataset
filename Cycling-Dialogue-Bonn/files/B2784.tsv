@@ -1,0 +1,65 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Mittellinie muss durchgezogen werden
+1-1	0-11	Mittellinie	_	
+1-2	12-16	muss	_	
+1-3	17-29	durchgezogen	_	
+1-4	30-36	werden	_	
+
+#Text=Nach der kürzlichen Ausbesserung des Straßenbelags Ippendorfer Allee ist die Mittellinie im Kurvenbereich nicht durchgezogen worden; dies führt zu riskanten Überholmanövern im Kurvenbereich.
+2-1	39-43	Nach	_	
+2-2	44-47	der	_	
+2-3	48-58	kürzlichen	_	
+2-4	59-71	Ausbesserung	_	
+2-5	72-75	des	_	
+2-6	76-89	Straßenbelags	_	
+2-7	90-101	Ippendorfer	*[4]	
+2-8	102-107	Allee	*[4]	
+2-9	108-111	ist	_	
+2-10	112-115	die	_	
+2-11	116-127	Mittellinie	_	
+2-12	128-130	im	_	
+2-13	131-144	Kurvenbereich	_	
+2-14	145-150	nicht	_	
+2-15	151-163	durchgezogen	_	
+2-16	164-170	worden	_	
+2-17	170-171	;	_	
+2-18	172-176	dies	_	
+2-19	177-182	führt	_	
+2-20	183-185	zu	_	
+2-21	186-195	riskanten	_	
+2-22	196-211	Überholmanövern	_	
+2-23	212-214	im	_	
+2-24	215-228	Kurvenbereich	_	
+2-25	228-229	.	_	
+
+#Text=Grundsätzliche Empfehlung: Geschwindigkeitsbegrenzung auf 40 km im ganzen Stadtgebiet - erst recht Ippendorfer Allee/Trierer Straße verbunden mit einem Überholverbot an dieser Stelle
+3-1	230-244	Grundsätzliche	_	
+3-2	245-255	Empfehlung	_	
+3-3	255-256	:	_	
+3-4	257-283	Geschwindigkeitsbegrenzung	_	
+3-5	284-287	auf	_	
+3-6	288-290	40	_	
+3-7	291-293	km	_	
+3-8	294-296	im	*[5]	
+3-9	297-303	ganzen	*[5]	
+3-10	304-315	Stadtgebiet	*[5]	
+3-11	316-317	-	_	
+3-12	318-322	erst	_	
+3-13	323-328	recht	_	
+3-14	329-340	Ippendorfer	*[6]	
+3-15	341-346	Allee	*[6]	
+3-16	346-347	/	*[6]	
+3-17	347-354	Trierer	*[6]	
+3-18	355-361	Straße	*[6]	
+3-19	362-371	verbunden	_	
+3-20	372-375	mit	_	
+3-21	376-381	einem	_	
+3-22	382-395	Überholverbot	_	
+3-23	396-398	an	_	
+3-24	399-405	dieser	_	
+3-25	406-412	Stelle	_	

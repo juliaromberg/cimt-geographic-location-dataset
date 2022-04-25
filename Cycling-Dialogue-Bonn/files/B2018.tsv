@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Grüne Welle Schießbergweg
+1-1	0-5	Grüne	_	
+1-2	6-11	Welle	_	
+1-3	12-25	Schießbergweg	*	
+
+#Text=Wenn man den Schießbergweg hochfährt muss man in einem steilen Hang stehen bleiben und warten um die Straße zu überqueren.
+2-1	28-32	Wenn	_	
+2-2	33-36	man	_	
+2-3	37-40	den	_	
+2-4	41-54	Schießbergweg	*	
+2-5	55-64	hochfährt	_	
+2-6	65-69	muss	_	
+2-7	70-73	man	_	
+2-8	74-76	in	_	
+2-9	77-82	einem	_	
+2-10	83-90	steilen	_	
+2-11	91-95	Hang	_	
+2-12	96-102	stehen	_	
+2-13	103-110	bleiben	_	
+2-14	111-114	und	_	
+2-15	115-121	warten	_	
+2-16	122-124	um	_	
+2-17	125-128	die	_	
+2-18	129-135	Straße	_	
+2-19	136-138	zu	_	
+2-20	139-149	überqueren	_	
+2-21	149-150	.	_	
+
+#Text=Es ist aufgrund des starken Gefälles kaum möglich in diesem Hang noch einmal anzufahren.
+3-1	151-153	Es	_	
+3-2	154-157	ist	_	
+3-3	158-166	aufgrund	_	
+3-4	167-170	des	_	
+3-5	171-178	starken	_	
+3-6	179-187	Gefälles	_	
+3-7	188-192	kaum	_	
+3-8	193-200	möglich	_	
+3-9	201-203	in	_	
+3-10	204-210	diesem	_	
+3-11	211-215	Hang	_	
+3-12	216-220	noch	_	
+3-13	221-227	einmal	_	
+3-14	228-238	anzufahren	_	
+3-15	238-239	.	_	
+
+#Text=Die Fußgängerampel an der Ecke Schießbergweg/Königswinterer Straße sollte auf Höhe Schießbergweg verlegt werden und auf grün schalten wenn ein Radfahrer den Berg hochfährt so dass dieser direkt durchfahren kann und nicht im Hang halten muss.
+4-1	240-243	Die	*[5]	
+4-2	244-258	Fußgängerampel	*[5]	
+4-3	259-261	an	*[5]	
+4-4	262-265	der	*[5]	
+4-5	266-270	Ecke	*[5]	
+4-6	271-284	Schießbergweg	*[5]	
+4-7	284-285	/	*[5]	
+4-8	285-299	Königswinterer	*[5]	
+4-9	300-306	Straße	*[5]	
+4-10	307-313	sollte	_	
+4-11	314-317	auf	*[6]	
+4-12	318-322	Höhe	*[6]	
+4-13	323-336	Schießbergweg	*[6]	
+4-14	337-344	verlegt	_	
+4-15	345-351	werden	_	
+4-16	352-355	und	_	
+4-17	356-359	auf	_	
+4-18	360-364	grün	_	
+4-19	365-373	schalten	_	
+4-20	374-378	wenn	_	
+4-21	379-382	ein	_	
+4-22	383-392	Radfahrer	_	
+4-23	393-396	den	_	
+4-24	397-401	Berg	_	
+4-25	402-411	hochfährt	_	
+4-26	412-414	so	_	
+4-27	415-419	dass	_	
+4-28	420-426	dieser	_	
+4-29	427-433	direkt	_	
+4-30	434-445	durchfahren	_	
+4-31	446-450	kann	_	
+4-32	451-454	und	_	
+4-33	455-460	nicht	_	
+4-34	461-463	im	_	
+4-35	464-468	Hang	_	
+4-36	469-475	halten	_	
+4-37	476-480	muss	_	
+4-38	480-481	.	_	

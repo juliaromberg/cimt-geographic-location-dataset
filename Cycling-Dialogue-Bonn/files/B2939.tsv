@@ -1,0 +1,27 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schulweg Röttgen / Ücksedorf zum Hardtberggymnasium
+1-1	0-8	Schulweg	*[4]	
+1-2	9-16	Röttgen	*[4]	
+1-3	17-18	/	*[4]	
+1-4	19-28	Ücksedorf	*[4]	
+1-5	29-32	zum	*[4]	
+1-6	33-51	Hardtberggymnasium	*[4]	
+
+#Text=Hier fehlt Beleuchtung.
+2-1	54-58	Hier	_	
+2-2	59-64	fehlt	_	
+2-3	65-76	Beleuchtung	_	
+2-4	76-77	.	_	
+
+#Text=Kein sicherer Radweg zur Schule.
+3-1	78-82	Kein	_	
+3-2	83-91	sicherer	_	
+3-3	92-98	Radweg	_	
+3-4	99-102	zur	_	
+3-5	103-109	Schule	_	
+3-6	109-110	.	_	

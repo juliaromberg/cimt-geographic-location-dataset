@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Durch Autos zugestellte Radwege
+1-1	0-5	Durch	_	
+1-2	6-11	Autos	_	
+1-3	12-23	zugestellte	_	
+1-4	24-31	Radwege	_	
+
+#Text=Diese Ortsangabe steht stellvertretend für viele Radwege in Bonn: Parkende oder haltende Autos verhindern das Fahren auf dem Radweg, sodass auf die Straße in den fahrenden Autoverkehr ausgewichen werdn muss, was oft zu Gefahrensituationen führt.
+2-1	34-39	Diese	_	
+2-2	40-50	Ortsangabe	_	
+2-3	51-56	steht	_	
+2-4	57-72	stellvertretend	_	
+2-5	73-76	für	_	
+2-6	77-82	viele	_	
+2-7	83-90	Radwege	*[3]	
+2-8	91-93	in	*[3]	
+2-9	94-98	Bonn	*[3]	
+2-10	98-99	:	_	
+2-11	100-108	Parkende	_	
+2-12	109-113	oder	_	
+2-13	114-122	haltende	_	
+2-14	123-128	Autos	_	
+2-15	129-139	verhindern	_	
+2-16	140-143	das	_	
+2-17	144-150	Fahren	_	
+2-18	151-154	auf	_	
+2-19	155-158	dem	_	
+2-20	159-165	Radweg	_	
+2-21	165-166	,	_	
+2-22	167-173	sodass	_	
+2-23	174-177	auf	_	
+2-24	178-181	die	_	
+2-25	182-188	Straße	_	
+2-26	189-191	in	_	
+2-27	192-195	den	_	
+2-28	196-205	fahrenden	_	
+2-29	206-217	Autoverkehr	_	
+2-30	218-229	ausgewichen	_	
+2-31	230-235	werdn	_	
+2-32	236-240	muss	_	
+2-33	240-241	,	_	
+2-34	242-245	was	_	
+2-35	246-249	oft	_	
+2-36	250-252	zu	_	
+2-37	253-272	Gefahrensituationen	_	
+2-38	273-278	führt	_	
+2-39	278-279	.	_	

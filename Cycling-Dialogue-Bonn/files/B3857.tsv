@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Laub am Fahrradschutzstreifen
+1-1	0-4	Laub	_	
+1-2	5-7	am	_	
+1-3	8-29	Fahrradschutzstreifen	_	
+
+#Text=Autofahrer verstehen nicht,dass man nicht direkt am Schutzstreifen parkt, um der Gefährdung vor sich öffnenden Türen vorzubeugen.
+2-1	32-42	Autofahrer	_	
+2-2	43-52	verstehen	_	
+2-3	53-58	nicht	_	
+2-4	58-59	,	_	
+2-5	59-63	dass	_	
+2-6	64-67	man	_	
+2-7	68-73	nicht	_	
+2-8	74-80	direkt	_	
+2-9	81-83	am	_	
+2-10	84-98	Schutzstreifen	_	
+2-11	99-104	parkt	_	
+2-12	104-105	,	_	
+2-13	106-108	um	_	
+2-14	109-112	der	_	
+2-15	113-123	Gefährdung	_	
+2-16	124-127	vor	_	
+2-17	128-132	sich	_	
+2-18	133-142	öffnenden	_	
+2-19	143-148	Türen	_	
+2-20	149-160	vorzubeugen	_	
+2-21	160-161	.	_	
+
+#Text=Bitte das Laub häufiger bzw.überhaupt mal entfernen,damit zumindest die Einzeichnung des Puffers sichtbar bleibt.
+3-1	162-167	Bitte	_	
+3-2	168-171	das	_	
+3-3	172-176	Laub	_	
+3-4	177-185	häufiger	_	
+3-5	186-199	bzw.überhaupt	_	
+3-6	200-203	mal	_	
+3-7	204-213	entfernen	_	
+3-8	213-214	,	_	
+3-9	214-219	damit	_	
+3-10	220-229	zumindest	_	
+3-11	230-233	die	_	
+3-12	234-246	Einzeichnung	_	
+3-13	247-250	des	_	
+3-14	251-258	Puffers	_	
+3-15	259-267	sichtbar	_	
+3-16	268-274	bleibt	_	
+3-17	274-275	.	_	

@@ -1,0 +1,87 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schwierig für Linksabieger
+1-1	0-9	Schwierig	_	
+1-2	10-13	für	_	
+1-3	14-26	Linksabieger	_	
+
+#Text=An dieser Stelle müsssen Radfahrer die links in die Aennchdenstr. abbiegen wollen besonders mutig sein.
+2-1	29-31	An	_	
+2-2	32-38	dieser	_	
+2-3	39-45	Stelle	_	
+2-4	46-53	müsssen	_	
+2-5	54-63	Radfahrer	_	
+2-6	64-67	die	_	
+2-7	68-73	links	*[5]	
+2-8	74-76	in	*[5]	
+2-9	77-80	die	*[5]	
+2-10	81-93	Aennchdenstr	*[5]	
+2-11	93-94	.	*[5]	
+2-12	95-103	abbiegen	*[5]	
+2-13	104-110	wollen	_	
+2-14	111-120	besonders	_	
+2-15	121-126	mutig	_	
+2-16	127-131	sein	_	
+2-17	131-132	.	_	
+
+#Text=Da die Straße mehrspurig und damit der zu kreuzende Weg vom Radweg zur linken Abbiegespur groß ist und weil Autos hier schnell fahren, ist die Situation für Radler sehr kritisch.
+3-1	133-135	Da	_	
+3-2	136-139	die	_	
+3-3	140-146	Straße	_	
+3-4	147-157	mehrspurig	_	
+3-5	158-161	und	_	
+3-6	162-167	damit	_	
+3-7	168-171	der	_	
+3-8	172-174	zu	_	
+3-9	175-184	kreuzende	_	
+3-10	185-188	Weg	_	
+3-11	189-192	vom	_	
+3-12	193-199	Radweg	_	
+3-13	200-203	zur	_	
+3-14	204-210	linken	_	
+3-15	211-222	Abbiegespur	_	
+3-16	223-227	groß	_	
+3-17	228-231	ist	_	
+3-18	232-235	und	_	
+3-19	236-240	weil	_	
+3-20	241-246	Autos	_	
+3-21	247-251	hier	_	
+3-22	252-259	schnell	_	
+3-23	260-266	fahren	_	
+3-24	266-267	,	_	
+3-25	268-271	ist	_	
+3-26	272-275	die	_	
+3-27	276-285	Situation	_	
+3-28	286-289	für	_	
+3-29	290-296	Radler	_	
+3-30	297-301	sehr	_	
+3-31	302-310	kritisch	_	
+3-32	310-311	.	_	
+
+#Text=Lösung: Tempo 20 für KFZ, eine Ampel mit ausreichend Zeitvorsprung für Radler um freie Bahn beim Linksabbiegen zu bekommen.
+4-1	312-318	Lösung	_	
+4-2	318-319	:	_	
+4-3	320-325	Tempo	_	
+4-4	326-328	20	_	
+4-5	329-332	für	_	
+4-6	333-336	KFZ	_	
+4-7	336-337	,	_	
+4-8	338-342	eine	_	
+4-9	343-348	Ampel	_	
+4-10	349-352	mit	_	
+4-11	353-364	ausreichend	_	
+4-12	365-378	Zeitvorsprung	_	
+4-13	379-382	für	_	
+4-14	383-389	Radler	_	
+4-15	390-392	um	_	
+4-16	393-398	freie	_	
+4-17	399-403	Bahn	_	
+4-18	404-408	beim	_	
+4-19	409-422	Linksabbiegen	_	
+4-20	423-425	zu	_	
+4-21	426-434	bekommen	_	
+4-22	434-435	.	_	

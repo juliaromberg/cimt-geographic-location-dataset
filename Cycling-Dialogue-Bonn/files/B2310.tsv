@@ -1,0 +1,47 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Busse jagen Radfahrer
+1-1	0-5	Busse	_	
+1-2	6-11	jagen	_	
+1-3	12-21	Radfahrer	_	
+
+#Text=Hier kommt es immer wieder dazu, dass die Busse Radfahrer jagen bzw. so dicht an den rechten Bordstein fahren, dass Radfahrer auf den Bürgersteig abspringen müssen oder vom Bus touchiert werden.
+2-1	24-28	Hier	_	
+2-2	29-34	kommt	_	
+2-3	35-37	es	_	
+2-4	38-43	immer	_	
+2-5	44-50	wieder	_	
+2-6	51-55	dazu	_	
+2-7	55-56	,	_	
+2-8	57-61	dass	_	
+2-9	62-65	die	_	
+2-10	66-71	Busse	_	
+2-11	72-81	Radfahrer	_	
+2-12	82-87	jagen	_	
+2-13	88-91	bzw	_	
+2-14	91-92	.	_	
+2-15	93-95	so	_	
+2-16	96-101	dicht	_	
+2-17	102-104	an	_	
+2-18	105-108	den	_	
+2-19	109-116	rechten	_	
+2-20	117-126	Bordstein	_	
+2-21	127-133	fahren	_	
+2-22	133-134	,	_	
+2-23	135-139	dass	_	
+2-24	140-149	Radfahrer	_	
+2-25	150-153	auf	_	
+2-26	154-157	den	_	
+2-27	158-169	Bürgersteig	_	
+2-28	170-180	abspringen	_	
+2-29	181-187	müssen	_	
+2-30	188-192	oder	_	
+2-31	193-196	vom	_	
+2-32	197-200	Bus	_	
+2-33	201-210	touchiert	_	
+2-34	211-217	werden	_	
+2-35	217-218	.	_	

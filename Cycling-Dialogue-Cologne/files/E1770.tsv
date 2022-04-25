@@ -1,0 +1,28 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlender Radweg auf der Vogelsanger Straße
+1-1	0-9	Fehlender	_	
+1-2	10-16	Radweg	_	
+1-3	17-20	auf	*[3]	
+1-4	21-24	der	*[3]	
+1-5	25-36	Vogelsanger	*[3]	
+1-6	37-43	Straße	*[3]	
+
+#Text=Auf der Vogelsanger Straße gibt es in beide Richtungen überhaupt keinen Radweg.
+2-1	46-49	Auf	*[4]	
+2-2	50-53	der	*[4]	
+2-3	54-65	Vogelsanger	*[4]	
+2-4	66-72	Straße	*[4]	
+2-5	73-77	gibt	_	
+2-6	78-80	es	_	
+2-7	81-83	in	_	
+2-8	84-89	beide	_	
+2-9	90-100	Richtungen	_	
+2-10	101-110	überhaupt	_	
+2-11	111-117	keinen	_	
+2-12	118-124	Radweg	_	
+2-13	124-125	.	_	

@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreisverkehr
+1-1	0-12	Kreisverkehr	_	
+
+#Text=Es waren immer wieder Fahrradfahrer, Straßenverkehrsordnungswidrig, in den Bonner Verteiler.
+2-1	15-17	Es	_	
+2-2	18-23	waren	_	
+2-3	24-29	immer	_	
+2-4	30-36	wieder	_	
+2-5	37-50	Fahrradfahrer	_	
+2-6	50-51	,	_	
+2-7	52-81	Straßenverkehrsordnungswidrig	_	
+2-8	81-82	,	_	
+2-9	83-85	in	_	
+2-10	86-89	den	_	
+2-11	90-96	Bonner	_	
+2-12	97-106	Verteiler	_	
+2-13	106-107	.	_	
+
+#Text=Dies aufgrund der Geschwindigkeit dort (Autos kommen von der Autobahn) extrem gefährlich.
+3-1	108-112	Dies	_	
+3-2	113-121	aufgrund	_	
+3-3	122-125	der	_	
+3-4	126-141	Geschwindigkeit	_	
+3-5	142-146	dort	_	
+3-6	147-148	(	_	
+3-7	148-153	Autos	_	
+3-8	154-160	kommen	_	
+3-9	161-164	von	_	
+3-10	165-168	der	_	
+3-11	169-177	Autobahn	_	
+3-12	177-178	)	_	
+3-13	179-185	extrem	_	
+3-14	186-196	gefährlich	_	
+3-15	196-197	.	_	
+
+#Text=Da die Verbotsschilder sehr klein und unauffällig sind, übersehen dies einige Radfahrer
+4-1	198-200	Da	_	
+4-2	201-204	die	_	
+4-3	205-220	Verbotsschilder	_	
+4-4	221-225	sehr	_	
+4-5	226-231	klein	_	
+4-6	232-235	und	_	
+4-7	236-247	unauffällig	_	
+4-8	248-252	sind	_	
+4-9	252-253	,	_	
+4-10	254-263	übersehen	_	
+4-11	264-268	dies	_	
+4-12	269-275	einige	_	
+4-13	276-285	Radfahrer	_	

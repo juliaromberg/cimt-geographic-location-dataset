@@ -1,0 +1,20 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkenden Autos
+1-1	0-9	Parkenden	_	
+1-2	10-15	Autos	_	
+
+#Text=Jeden Tag, genau wo es gefährlich ist.
+2-1	18-23	Jeden	_	
+2-2	24-27	Tag	_	
+2-3	27-28	,	_	
+2-4	29-34	genau	_	
+2-5	35-37	wo	_	
+2-6	38-40	es	_	
+2-7	41-51	gefährlich	_	
+2-8	52-55	ist	_	
+2-9	55-56	.	_	

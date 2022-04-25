@@ -1,0 +1,67 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=irreführende Radwegsführung
+1-1	0-12	irreführende	_	
+1-2	13-27	Radwegsführung	_	
+
+#Text=An der Kreuzung Graurheindorfer Straße/Kaiser-Karl-Ring Richtung stadteinwärts ist unklar, ob die Ampel für Rad- und Fußgänger oder die Autoampel gilt.
+2-1	30-32	An	*[5]	
+2-2	33-36	der	*[5]	
+2-3	37-45	Kreuzung	*[5]	
+2-4	46-61	Graurheindorfer	*[5]	
+2-5	62-68	Straße	*[5]	
+2-6	68-69	/	*[5]	
+2-7	69-85	Kaiser-Karl-Ring	*[5]	
+2-8	86-94	Richtung	*[5]	
+2-9	95-108	stadteinwärts	*[5]	
+2-10	109-112	ist	_	
+2-11	113-119	unklar	_	
+2-12	119-120	,	_	
+2-13	121-123	ob	_	
+2-14	124-127	die	_	
+2-15	128-133	Ampel	_	
+2-16	134-137	für	_	
+2-17	138-141	Rad	_	
+2-18	141-142	-	_	
+2-19	143-146	und	_	
+2-20	147-156	Fußgänger	_	
+2-21	157-161	oder	_	
+2-22	162-165	die	_	
+2-23	166-175	Autoampel	_	
+2-24	176-180	gilt	_	
+2-25	180-181	.	_	
+
+#Text=Der markierte Radweg an der Fußgänger Ampel führt ins Nichts, auf den Bürgersteig, auf dem dann aber kein Platz ist.
+3-1	182-185	Der	_	
+3-2	186-195	markierte	_	
+3-3	196-202	Radweg	_	
+3-4	203-205	an	_	
+3-5	206-209	der	_	
+3-6	210-219	Fußgänger	_	
+3-7	220-225	Ampel	_	
+3-8	226-231	führt	_	
+3-9	232-235	ins	_	
+3-10	236-242	Nichts	_	
+3-11	242-243	,	_	
+3-12	244-247	auf	_	
+3-13	248-251	den	_	
+3-14	252-263	Bürgersteig	_	
+3-15	263-264	,	_	
+3-16	265-268	auf	_	
+3-17	269-272	dem	_	
+3-18	273-277	dann	_	
+3-19	278-282	aber	_	
+3-20	283-287	kein	_	
+3-21	288-293	Platz	_	
+3-22	294-297	ist	_	
+3-23	297-298	.	_	
+
+#Text=Bitte klare Wegführung.
+4-1	299-304	Bitte	_	
+4-2	305-310	klare	_	
+4-3	311-321	Wegführung	_	
+4-4	321-322	.	_	

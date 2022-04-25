@@ -1,0 +1,295 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gesamtkonzept für den Verkehr nötig.
+1-1	0-13	Gesamtkonzept	_	
+1-2	14-17	für	_	
+1-3	18-21	den	_	
+1-4	22-29	Verkehr	_	
+1-5	30-35	nötig	_	
+1-6	35-36	.	_	
+
+#Text=Ausweichverkehr von Reuterstraße / B9 aus den Kessenicher Wohnvierteln raushalten.
+2-1	37-52	Ausweichverkehr	_	
+2-2	53-56	von	*[15]	
+2-3	57-69	Reuterstraße	*[15]	
+2-4	70-71	/	*[15]	
+2-5	72-74	B9	*[15]	
+2-6	75-78	aus	*[15]	
+2-7	79-82	den	*[15]	
+2-8	83-94	Kessenicher	*[15]	
+2-9	95-107	Wohnvierteln	*[15]	
+2-10	108-118	raushalten	_	
+2-11	118-119	.	_	
+
+#Text=Auch an die Kinder denken!
+3-1	120-124	Auch	_	
+3-2	125-127	an	_	
+3-3	128-131	die	_	
+3-4	132-138	Kinder	_	
+3-5	139-145	denken	_	
+3-6	145-146	!	_	
+
+#Text=Ein gutes Verkehrskonzept sollte alle Verkehrsteilnehmer berücksichtigen, klare Prioritäten setzen und die engen Bonner Straßen entlasten!
+4-1	149-152	Ein	_	
+4-2	153-158	gutes	_	
+4-3	159-174	Verkehrskonzept	_	
+4-4	175-181	sollte	_	
+4-5	182-186	alle	_	
+4-6	187-205	Verkehrsteilnehmer	_	
+4-7	206-221	berücksichtigen	_	
+4-8	221-222	,	_	
+4-9	223-228	klare	_	
+4-10	229-240	Prioritäten	_	
+4-11	241-247	setzen	_	
+4-12	248-251	und	_	
+4-13	252-255	die	_	
+4-14	256-261	engen	_	
+4-15	262-268	Bonner	_	
+4-16	269-276	Straßen	_	
+4-17	277-286	entlasten	_	
+4-18	286-287	!	_	
+
+#Text=Dadurch würde das Radfahrern deutlich erleichtert.
+5-1	288-295	Dadurch	_	
+5-2	296-301	würde	_	
+5-3	302-305	das	_	
+5-4	306-316	Radfahrern	_	
+5-5	317-325	deutlich	_	
+5-6	326-337	erleichtert	_	
+5-7	337-338	.	_	
+
+#Text=In Kessenich sind viele Fußwege und Straßen sehr eng.
+6-1	339-341	In	*[16]	
+6-2	342-351	Kessenich	*[16]	
+6-3	352-356	sind	_	
+6-4	357-362	viele	_	
+6-5	363-370	Fußwege	_	
+6-6	371-374	und	_	
+6-7	375-382	Straßen	_	
+6-8	383-387	sehr	_	
+6-9	388-391	eng	_	
+6-10	391-392	.	_	
+
+#Text=Gleichzeitig leben hier viele Familien mit Kindern, die lernen Fahrrad zufahren oder lernen alleine den Schulweg zu bewältigen.
+7-1	393-405	Gleichzeitig	_	
+7-2	406-411	leben	_	
+7-3	412-416	hier	_	
+7-4	417-422	viele	_	
+7-5	423-431	Familien	_	
+7-6	432-435	mit	_	
+7-7	436-443	Kindern	_	
+7-8	443-444	,	_	
+7-9	445-448	die	_	
+7-10	449-455	lernen	_	
+7-11	456-463	Fahrrad	_	
+7-12	464-472	zufahren	_	
+7-13	473-477	oder	_	
+7-14	478-484	lernen	_	
+7-15	485-492	alleine	_	
+7-16	493-496	den	_	
+7-17	497-505	Schulweg	_	
+7-18	506-508	zu	_	
+7-19	509-519	bewältigen	_	
+7-20	519-520	.	_	
+
+#Text=Dies wird durch die sehr engen Straßen und Fußweg nicht gerade leichter.
+8-1	521-525	Dies	_	
+8-2	526-530	wird	_	
+8-3	531-536	durch	_	
+8-4	537-540	die	_	
+8-5	541-545	sehr	_	
+8-6	546-551	engen	_	
+8-7	552-559	Straßen	_	
+8-8	560-563	und	_	
+8-9	564-570	Fußweg	_	
+8-10	571-576	nicht	_	
+8-11	577-583	gerade	_	
+8-12	584-592	leichter	_	
+8-13	592-593	.	_	
+
+#Text=Trotzdem parken viele Autos auf den Fußwegen, zu dicht an Kreuzungen, stehen Mülltonnen kreuz und quer auf dem Fußweg, werden an Baustellen keine Ausweichwege eingerichtet etc. Außerdem stauen sich in den engen Straßen die Abgase.
+9-1	594-602	Trotzdem	_	
+9-2	603-609	parken	_	
+9-3	610-615	viele	_	
+9-4	616-621	Autos	_	
+9-5	622-625	auf	_	
+9-6	626-629	den	_	
+9-7	630-638	Fußwegen	_	
+9-8	638-639	,	_	
+9-9	640-642	zu	_	
+9-10	643-648	dicht	_	
+9-11	649-651	an	_	
+9-12	652-662	Kreuzungen	_	
+9-13	662-663	,	_	
+9-14	664-670	stehen	_	
+9-15	671-681	Mülltonnen	_	
+9-16	682-687	kreuz	_	
+9-17	688-691	und	_	
+9-18	692-696	quer	_	
+9-19	697-700	auf	_	
+9-20	701-704	dem	_	
+9-21	705-711	Fußweg	_	
+9-22	711-712	,	_	
+9-23	713-719	werden	_	
+9-24	720-722	an	_	
+9-25	723-733	Baustellen	_	
+9-26	734-739	keine	_	
+9-27	740-752	Ausweichwege	_	
+9-28	753-765	eingerichtet	_	
+9-29	766-769	etc	_	
+9-30	769-770	.	_	
+9-31	771-779	Außerdem	_	
+9-32	780-786	stauen	_	
+9-33	787-791	sich	_	
+9-34	792-794	in	_	
+9-35	795-798	den	_	
+9-36	799-804	engen	_	
+9-37	805-812	Straßen	_	
+9-38	813-816	die	_	
+9-39	817-823	Abgase	_	
+9-40	823-824	.	_	
+
+#Text=Dabei scheint ein erheblicher Anteil des Verkehrs nicht von Anwohner verursacht zu werden, sondern vom Ausweichverkehr, der die Reuterstraße/B9 umgehen will.
+10-1	825-830	Dabei	_	
+10-2	831-838	scheint	_	
+10-3	839-842	ein	_	
+10-4	843-854	erheblicher	_	
+10-5	855-861	Anteil	_	
+10-6	862-865	des	_	
+10-7	866-874	Verkehrs	_	
+10-8	875-880	nicht	_	
+10-9	881-884	von	_	
+10-10	885-893	Anwohner	_	
+10-11	894-904	verursacht	_	
+10-12	905-907	zu	_	
+10-13	908-914	werden	_	
+10-14	914-915	,	_	
+10-15	916-923	sondern	_	
+10-16	924-927	vom	_	
+10-17	928-943	Ausweichverkehr	_	
+10-18	943-944	,	_	
+10-19	945-948	der	_	
+10-20	949-952	die	_	
+10-21	953-965	Reuterstraße	_	
+10-22	965-966	/	_	
+10-23	966-968	B9	_	
+10-24	969-976	umgehen	_	
+10-25	977-981	will	_	
+10-26	981-982	.	_	
+
+#Text=Vorschläge: Ausweitung der Umweltzone; mehr Einbahnstraßen; Fahrradstraßen, die nur für Anwohner und den Lieferverkehr für die örtlichen Geschäfte/Betriebe für den Autoverkehr freigegeben werden - im Gegenzug Strecken für Durchgangsverkehr deutlich ausweisen; Falschparken konsequent ahnden; Verbesserung der Taktung der Buslinien um Straßen zu entlasten.
+11-1	983-993	Vorschläge	_	
+11-2	993-994	:	_	
+11-3	995-1005	Ausweitung	_	
+11-4	1006-1009	der	_	
+11-5	1010-1020	Umweltzone	_	
+11-6	1020-1021	;	_	
+11-7	1022-1026	mehr	_	
+11-8	1027-1041	Einbahnstraßen	_	
+11-9	1041-1042	;	_	
+11-10	1043-1057	Fahrradstraßen	_	
+11-11	1057-1058	,	_	
+11-12	1059-1062	die	_	
+11-13	1063-1066	nur	_	
+11-14	1067-1070	für	_	
+11-15	1071-1079	Anwohner	_	
+11-16	1080-1083	und	_	
+11-17	1084-1087	den	_	
+11-18	1088-1101	Lieferverkehr	_	
+11-19	1102-1105	für	_	
+11-20	1106-1109	die	_	
+11-21	1110-1119	örtlichen	_	
+11-22	1120-1129	Geschäfte	_	
+11-23	1129-1130	/	_	
+11-24	1130-1138	Betriebe	_	
+11-25	1139-1142	für	_	
+11-26	1143-1146	den	_	
+11-27	1147-1158	Autoverkehr	_	
+11-28	1159-1170	freigegeben	_	
+11-29	1171-1177	werden	_	
+11-30	1178-1179	-	_	
+11-31	1180-1182	im	_	
+11-32	1183-1191	Gegenzug	_	
+11-33	1192-1200	Strecken	_	
+11-34	1201-1204	für	_	
+11-35	1205-1222	Durchgangsverkehr	_	
+11-36	1223-1231	deutlich	_	
+11-37	1232-1241	ausweisen	_	
+11-38	1241-1242	;	_	
+11-39	1243-1255	Falschparken	_	
+11-40	1256-1266	konsequent	_	
+11-41	1267-1273	ahnden	_	
+11-42	1273-1274	;	_	
+11-43	1275-1287	Verbesserung	_	
+11-44	1288-1291	der	_	
+11-45	1292-1299	Taktung	_	
+11-46	1300-1303	der	_	
+11-47	1304-1313	Buslinien	_	
+11-48	1314-1316	um	_	
+11-49	1317-1324	Straßen	_	
+11-50	1325-1327	zu	_	
+11-51	1328-1337	entlasten	_	
+11-52	1337-1338	.	_	
+
+#Text=Die Taktung der Straßenbahnen ist hervorragend, leider hängen sie häufig im Verkehr und die Busse decken andere Richtungen ab.
+12-1	1339-1342	Die	_	
+12-2	1343-1350	Taktung	_	
+12-3	1351-1354	der	_	
+12-4	1355-1368	Straßenbahnen	_	
+12-5	1369-1372	ist	_	
+12-6	1373-1385	hervorragend	_	
+12-7	1385-1386	,	_	
+12-8	1387-1393	leider	_	
+12-9	1394-1400	hängen	_	
+12-10	1401-1404	sie	_	
+12-11	1405-1411	häufig	_	
+12-12	1412-1414	im	_	
+12-13	1415-1422	Verkehr	_	
+12-14	1423-1426	und	_	
+12-15	1427-1430	die	_	
+12-16	1431-1436	Busse	_	
+12-17	1437-1443	decken	_	
+12-18	1444-1450	andere	_	
+12-19	1451-1461	Richtungen	_	
+12-20	1462-1464	ab	_	
+12-21	1464-1465	.	_	
+
+#Text=Wenn der Bus aber nur im 1/2 Stunden Takt fährt ist das kein gutes Angebot.
+13-1	1466-1470	Wenn	_	
+13-2	1471-1474	der	_	
+13-3	1475-1478	Bus	_	
+13-4	1479-1483	aber	_	
+13-5	1484-1487	nur	_	
+13-6	1488-1490	im	_	
+13-7	1491-1492	1	_	
+13-8	1492-1493	/	_	
+13-9	1493-1494	2	_	
+13-10	1495-1502	Stunden	_	
+13-11	1503-1507	Takt	_	
+13-12	1508-1513	fährt	_	
+13-13	1514-1517	ist	_	
+13-14	1518-1521	das	_	
+13-15	1522-1526	kein	_	
+13-16	1527-1532	gutes	_	
+13-17	1533-1540	Angebot	_	
+13-18	1540-1541	.	_	
+
+#Text=Nur isoliert die Radwege betrachten, ist aus meiner Sicht zu kurz gedacht.
+14-1	1542-1545	Nur	_	
+14-2	1546-1554	isoliert	_	
+14-3	1555-1558	die	_	
+14-4	1559-1566	Radwege	_	
+14-5	1567-1577	betrachten	_	
+14-6	1577-1578	,	_	
+14-7	1579-1582	ist	_	
+14-8	1583-1586	aus	_	
+14-9	1587-1593	meiner	_	
+14-10	1594-1599	Sicht	_	
+14-11	1600-1602	zu	_	
+14-12	1603-1607	kurz	_	
+14-13	1608-1615	gedacht	_	
+14-14	1615-1616	.	_	

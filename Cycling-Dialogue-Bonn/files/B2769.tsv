@@ -1,0 +1,227 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unterführungen
+1-1	0-14	Unterführungen	_	
+
+#Text=Aus dem Raum Endenich/Hardtberg kommend sind sämtliche Moeglichkeiten, in die Innenstadt zu kommen, eine Zumutung.
+2-1	17-20	Aus	*[11]	
+2-2	21-24	dem	*[11]	
+2-3	25-29	Raum	*[11]	
+2-4	30-38	Endenich	*[11]	
+2-5	38-39	/	*[11]	
+2-6	39-48	Hardtberg	*[11]	
+2-7	49-56	kommend	*[11]	
+2-8	57-61	sind	_	
+2-9	62-71	sämtliche	_	
+2-10	72-86	Moeglichkeiten	_	
+2-11	86-87	,	_	
+2-12	88-90	in	*[12]	
+2-13	91-94	die	*[12]	
+2-14	95-105	Innenstadt	*[12]	
+2-15	106-108	zu	_	
+2-16	109-115	kommen	_	
+2-17	115-116	,	_	
+2-18	117-121	eine	_	
+2-19	122-130	Zumutung	_	
+2-20	130-131	.	_	
+
+#Text=Die Viktoriabrücke ist nicht für jede Wade geeignet, ein Umweg und momentan nicht benutzbar.
+3-1	132-135	Die	*[13]	
+3-2	136-150	Viktoriabrücke	*[13]	
+3-3	151-154	ist	_	
+3-4	155-160	nicht	_	
+3-5	161-164	für	_	
+3-6	165-169	jede	_	
+3-7	170-174	Wade	_	
+3-8	175-183	geeignet	_	
+3-9	183-184	,	_	
+3-10	185-188	ein	_	
+3-11	189-194	Umweg	_	
+3-12	195-198	und	_	
+3-13	199-207	momentan	_	
+3-14	208-213	nicht	_	
+3-15	214-223	benutzbar	_	
+3-16	223-224	.	_	
+
+#Text=Die Unterführung Herwarthstrasse zur Thomasstrasse ist einerseits wegen des Gestanks nach Urin u.ä. absolut ekelhaft und unschoen, aber auch die Metallführungen, auf denen das Fahrrad herauf- oder hinuntergerollt werden soll, unbrauchbar.
+4-1	225-228	Die	*[14]	
+4-2	229-241	Unterführung	*[14]	
+4-3	242-257	Herwarthstrasse	*[14]	
+4-4	258-261	zur	*[14]	
+4-5	262-275	Thomasstrasse	*[14]	
+4-6	276-279	ist	_	
+4-7	280-290	einerseits	_	
+4-8	291-296	wegen	_	
+4-9	297-300	des	_	
+4-10	301-309	Gestanks	_	
+4-11	310-314	nach	_	
+4-12	315-319	Urin	_	
+4-13	320-323	u.ä	_	
+4-14	323-324	.	_	
+4-15	325-332	absolut	_	
+4-16	333-341	ekelhaft	_	
+4-17	342-345	und	_	
+4-18	346-354	unschoen	_	
+4-19	354-355	,	_	
+4-20	356-360	aber	_	
+4-21	361-365	auch	_	
+4-22	366-369	die	_	
+4-23	370-385	Metallführungen	_	
+4-24	385-386	,	_	
+4-25	387-390	auf	_	
+4-26	391-396	denen	_	
+4-27	397-400	das	_	
+4-28	401-408	Fahrrad	_	
+4-29	409-415	herauf	_	
+4-30	415-416	-	_	
+4-31	417-421	oder	_	
+4-32	422-437	hinuntergerollt	_	
+4-33	438-444	werden	_	
+4-34	445-449	soll	_	
+4-35	449-450	,	_	
+4-36	451-462	unbrauchbar	_	
+4-37	462-463	.	_	
+
+#Text=Die Unterführung am Ende der Quantiusstrasse Richtung Thomas-Mann-Strasse ist nur geeignet wenn man die Kraft hat das Fahrrad auf der einen Seite zu tragen, weil dort Stufen sind.
+5-1	464-467	Die	*[15]	
+5-2	468-480	Unterführung	*[15]	
+5-3	481-483	am	*[15]	
+5-4	484-488	Ende	*[15]	
+5-5	489-492	der	*[15]	
+5-6	493-508	Quantiusstrasse	*[15]	
+5-7	509-517	Richtung	*[15]	
+5-8	518-537	Thomas-Mann-Strasse	*[15]	
+5-9	538-541	ist	_	
+5-10	542-545	nur	_	
+5-11	546-554	geeignet	_	
+5-12	555-559	wenn	_	
+5-13	560-563	man	_	
+5-14	564-567	die	_	
+5-15	568-573	Kraft	_	
+5-16	574-577	hat	_	
+5-17	578-581	das	_	
+5-18	582-589	Fahrrad	_	
+5-19	590-593	auf	_	
+5-20	594-597	der	_	
+5-21	598-603	einen	_	
+5-22	604-609	Seite	_	
+5-23	610-612	zu	_	
+5-24	613-619	tragen	_	
+5-25	619-620	,	_	
+5-26	621-625	weil	_	
+5-27	626-630	dort	_	
+5-28	631-637	Stufen	_	
+5-29	638-642	sind	_	
+5-30	642-643	.	_	
+
+#Text=Unterm Bahnhof muss man schieben.
+6-1	644-650	Unterm	_	
+6-2	651-658	Bahnhof	_	
+6-3	659-663	muss	_	
+6-4	664-667	man	_	
+6-5	668-676	schieben	_	
+6-6	676-677	.	_	
+
+#Text=Dann bleibt noch die Unterführung von der Poppelsdorfer Allee zum Kaiserplatz.
+7-1	678-682	Dann	_	
+7-2	683-689	bleibt	_	
+7-3	690-694	noch	_	
+7-4	695-698	die	*[16]	
+7-5	699-711	Unterführung	*[16]	
+7-6	712-715	von	*[16]	
+7-7	716-719	der	*[16]	
+7-8	720-733	Poppelsdorfer	*[16]	
+7-9	734-739	Allee	*[16]	
+7-10	740-743	zum	*[16]	
+7-11	744-755	Kaiserplatz	*[16]	
+7-12	755-756	.	_	
+
+#Text=Dort stehen aus irgendeinem Grund Umlaufsperren.
+8-1	757-761	Dort	_	
+8-2	762-768	stehen	_	
+8-3	769-772	aus	_	
+8-4	773-784	irgendeinem	_	
+8-5	785-790	Grund	_	
+8-6	791-804	Umlaufsperren	_	
+8-7	804-805	.	_	
+
+#Text=Von Fußgängern gern benutzt und für Fahrradfahrer die einzig schoene Moeglichkeit in die City zu kommen, gibt es dort sehr häufig Stau.
+9-1	806-809	Von	_	
+9-2	810-820	Fußgängern	_	
+9-3	821-825	gern	_	
+9-4	826-833	benutzt	_	
+9-5	834-837	und	_	
+9-6	838-841	für	_	
+9-7	842-855	Fahrradfahrer	_	
+9-8	856-859	die	_	
+9-9	860-866	einzig	_	
+9-10	867-874	schoene	_	
+9-11	875-887	Moeglichkeit	_	
+9-12	888-890	in	_	
+9-13	891-894	die	_	
+9-14	895-899	City	_	
+9-15	900-902	zu	_	
+9-16	903-909	kommen	_	
+9-17	909-910	,	_	
+9-18	911-915	gibt	_	
+9-19	916-918	es	_	
+9-20	919-923	dort	_	
+9-21	924-928	sehr	_	
+9-22	929-935	häufig	_	
+9-23	936-940	Stau	_	
+9-24	940-941	.	_	
+
+#Text=Ich bin eine zeitlang von Lessenich nach Beuel mit dem Rad gefahren, und diese Umstände haben mich sehr genervt.
+10-1	942-945	Ich	_	
+10-2	946-949	bin	_	
+10-3	950-954	eine	_	
+10-4	955-963	zeitlang	_	
+10-5	964-967	von	*[17]	
+10-6	968-977	Lessenich	*[17]	
+10-7	978-982	nach	*[17]	
+10-8	983-988	Beuel	*[17]	
+10-9	989-992	mit	_	
+10-10	993-996	dem	_	
+10-11	997-1000	Rad	_	
+10-12	1001-1009	gefahren	_	
+10-13	1009-1010	,	_	
+10-14	1011-1014	und	_	
+10-15	1015-1020	diese	_	
+10-16	1021-1029	Umstände	_	
+10-17	1030-1035	haben	_	
+10-18	1036-1040	mich	_	
+10-19	1041-1045	sehr	_	
+10-20	1046-1053	genervt	_	
+10-21	1053-1054	.	_	
+
+#Text=Besonders nachdem ich im Sommer ein paar Tage in Amsterdam verbringen durfte und gesehen habe, wie schoen alles funktionieren kann, wenn jemand will.
+11-1	1055-1064	Besonders	_	
+11-2	1065-1072	nachdem	_	
+11-3	1073-1076	ich	_	
+11-4	1077-1079	im	_	
+11-5	1080-1086	Sommer	_	
+11-6	1087-1090	ein	_	
+11-7	1091-1095	paar	_	
+11-8	1096-1100	Tage	_	
+11-9	1101-1103	in	_	
+11-10	1104-1113	Amsterdam	_	
+11-11	1114-1124	verbringen	_	
+11-12	1125-1131	durfte	_	
+11-13	1132-1135	und	_	
+11-14	1136-1143	gesehen	_	
+11-15	1144-1148	habe	_	
+11-16	1148-1149	,	_	
+11-17	1150-1153	wie	_	
+11-18	1154-1160	schoen	_	
+11-19	1161-1166	alles	_	
+11-20	1167-1180	funktionieren	_	
+11-21	1181-1185	kann	_	
+11-22	1185-1186	,	_	
+11-23	1187-1191	wenn	_	
+11-24	1192-1198	jemand	_	
+11-25	1199-1203	will	_	
+11-26	1203-1204	.	_	

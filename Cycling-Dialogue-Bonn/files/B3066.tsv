@@ -1,0 +1,85 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=gefährliche Kreuzung
+1-1	0-11	gefährliche	_	
+1-2	12-20	Kreuzung	_	
+
+#Text=Um von der Brunnenallee nach links in die Elisabethstraße abzubiegen muss man zwei viel befahrene Fahrstreifen überqueren, was oft nahezu unmöglich ist.
+2-1	23-25	Um	_	
+2-2	26-29	von	*[7]	
+2-3	30-33	der	*[7]	
+2-4	34-46	Brunnenallee	*[7]	
+2-5	47-51	nach	*[7]	
+2-6	52-57	links	*[7]	
+2-7	58-60	in	*[7]	
+2-8	61-64	die	*[7]	
+2-9	65-80	Elisabethstraße	*[7]	
+2-10	81-91	abzubiegen	*[7]	
+2-11	92-96	muss	_	
+2-12	97-100	man	_	
+2-13	101-105	zwei	_	
+2-14	106-110	viel	_	
+2-15	111-120	befahrene	_	
+2-16	121-133	Fahrstreifen	_	
+2-17	134-144	überqueren	_	
+2-18	144-145	,	_	
+2-19	146-149	was	_	
+2-20	150-153	oft	_	
+2-21	154-160	nahezu	_	
+2-22	161-170	unmöglich	_	
+2-23	171-174	ist	_	
+2-24	174-175	.	_	
+
+#Text=Dasselbe gilt wenn man nach links in die Junkerstraße abbiegen möchte.
+3-1	176-184	Dasselbe	_	
+3-2	185-189	gilt	_	
+3-3	190-194	wenn	_	
+3-4	195-198	man	_	
+3-5	199-203	nach	_	
+3-6	204-209	links	*[8]	
+3-7	210-212	in	*[8]	
+3-8	213-216	die	*[8]	
+3-9	217-229	Junkerstraße	*[8]	
+3-10	230-238	abbiegen	*[8]	
+3-11	239-245	möchte	_	
+3-12	245-246	.	_	
+
+#Text=Es fehlt eine Möglichkeit die Brunnenallee zu überqueren.
+4-1	247-249	Es	_	
+4-2	250-255	fehlt	_	
+4-3	256-260	eine	_	
+4-4	261-272	Möglichkeit	_	
+4-5	273-276	die	*[9]	
+4-6	277-289	Brunnenallee	*[9]	
+4-7	290-292	zu	*[9]	
+4-8	293-303	überqueren	*[9]	
+4-9	303-304	.	_	
+
+#Text=Dafür sollte ein Zebrastreifen ( oder eine Ampel) über die Brunnenallee angelegt werden.
+5-1	305-310	Dafür	_	
+5-2	311-317	sollte	_	
+5-3	318-321	ein	_	
+5-4	322-335	Zebrastreifen	_	
+5-5	336-337	(	_	
+5-6	338-342	oder	_	
+5-7	343-347	eine	_	
+5-8	348-353	Ampel	_	
+5-9	353-354	)	_	
+5-10	355-359	über	*[10]	
+5-11	360-363	die	*[10]	
+5-12	364-376	Brunnenallee	*[10]	
+5-13	377-385	angelegt	_	
+5-14	386-392	werden	_	
+5-15	392-393	.	_	
+
+#Text=Das würde auch Fußgängern helfen.
+6-1	394-397	Das	_	
+6-2	398-403	würde	_	
+6-3	404-408	auch	_	
+6-4	409-419	Fußgängern	_	
+6-5	420-426	helfen	_	
+6-6	426-427	.	_	

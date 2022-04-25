@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Grünphase für Radfahrer endet sehr früh
+1-1	0-9	Grünphase	_	
+1-2	10-13	für	_	
+1-3	14-23	Radfahrer	_	
+1-4	24-29	endet	_	
+1-5	30-34	sehr	_	
+1-6	35-39	früh	_	
+
+#Text=Die Grünphase für den Radverkehr Richtung Innenstadt endet sehr früh vor der Grünphase des KFZ Verkehrs.
+2-1	42-45	Die	_	
+2-2	46-55	Grünphase	_	
+2-3	56-59	für	_	
+2-4	60-63	den	_	
+2-5	64-74	Radverkehr	_	
+2-6	75-83	Richtung	*[5]	
+2-7	84-94	Innenstadt	*[5]	
+2-8	95-100	endet	_	
+2-9	101-105	sehr	_	
+2-10	106-110	früh	_	
+2-11	111-114	vor	_	
+2-12	115-118	der	_	
+2-13	119-128	Grünphase	_	
+2-14	129-132	des	_	
+2-15	133-136	KFZ	_	
+2-16	137-145	Verkehrs	_	
+2-17	145-146	.	_	
+
+#Text=Dies macht ein Überqueren des Endenicher Eis in einem Zug häufig unmöglich.
+3-1	147-151	Dies	_	
+3-2	152-157	macht	_	
+3-3	158-161	ein	_	
+3-4	162-172	Überqueren	*[6]	
+3-5	173-176	des	*[6]	
+3-6	177-187	Endenicher	*[6]	
+3-7	188-191	Eis	*[6]	
+3-8	192-194	in	*[6]	
+3-9	195-200	einem	*[6]	
+3-10	201-204	Zug	*[6]	
+3-11	205-211	häufig	_	
+3-12	212-221	unmöglich	_	
+3-13	221-222	.	_	
+
+#Text=Wenn die langen Räumzeiten für den Fußverkehr nötig sein sollten, wäre eine extra Ampel für Fahrradfahrer sinnvoll.
+4-1	223-227	Wenn	_	
+4-2	228-231	die	_	
+4-3	232-238	langen	_	
+4-4	239-249	Räumzeiten	_	
+4-5	250-253	für	_	
+4-6	254-257	den	_	
+4-7	258-268	Fußverkehr	_	
+4-8	269-274	nötig	_	
+4-9	275-279	sein	_	
+4-10	280-287	sollten	_	
+4-11	287-288	,	_	
+4-12	289-293	wäre	_	
+4-13	294-298	eine	_	
+4-14	299-304	extra	_	
+4-15	305-310	Ampel	_	
+4-16	311-314	für	_	
+4-17	315-328	Fahrradfahrer	_	
+4-18	329-337	sinnvoll	_	
+4-19	337-338	.	_	

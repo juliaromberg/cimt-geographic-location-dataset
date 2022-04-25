@@ -1,0 +1,234 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradwege
+1-1	0-11	Fahrradwege	_	
+
+#Text=Aufgezeichnete Radwege auf den Straßen sind eine Mogelpackung und gefährden Rad- und Autofahrer.
+2-1	14-28	Aufgezeichnete	_	
+2-2	29-36	Radwege	_	
+2-3	37-40	auf	_	
+2-4	41-44	den	_	
+2-5	45-52	Straßen	_	
+2-6	53-57	sind	_	
+2-7	58-62	eine	_	
+2-8	63-75	Mogelpackung	_	
+2-9	76-79	und	_	
+2-10	80-89	gefährden	_	
+2-11	90-93	Rad	_	
+2-12	93-94	-	_	
+2-13	95-98	und	_	
+2-14	99-109	Autofahrer	_	
+2-15	109-110	.	_	
+
+#Text=Im Berufsverkehr entstehen dadurch unnötige Staus und riskante Überholmanöver, jeden Werktag zu beobachten z.B. vom Marien Hospital Richtung Unikliniken.
+3-1	111-113	Im	_	
+3-2	114-127	Berufsverkehr	_	
+3-3	128-137	entstehen	_	
+3-4	138-145	dadurch	_	
+3-5	146-154	unnötige	_	
+3-6	155-160	Staus	_	
+3-7	161-164	und	_	
+3-8	165-173	riskante	_	
+3-9	174-188	Überholmanöver	_	
+3-10	188-189	,	_	
+3-11	190-195	jeden	_	
+3-12	196-203	Werktag	_	
+3-13	204-206	zu	_	
+3-14	207-217	beobachten	_	
+3-15	218-221	z.B	_	
+3-16	221-222	.	_	
+3-17	223-226	vom	*[11]	
+3-18	227-233	Marien	*[11]	
+3-19	234-242	Hospital	*[11]	
+3-20	243-251	Richtung	*[11]	
+3-21	252-263	Unikliniken	*[11]	
+3-22	263-264	.	_	
+
+#Text=Des weiteren ist auch Radfahren entgegen der Fahrtrichtung bei Einbahnstraßen meines Erachtens keine Lösung, teilweise sind die Straßen zu eng um gefahrlos aneinander vorbei zu kommen, als Autofahrer hat man fast immer den Schwarzen Peter bei solchen Gefahrensituationen.
+4-1	265-268	Des	_	
+4-2	269-277	weiteren	_	
+4-3	278-281	ist	_	
+4-4	282-286	auch	_	
+4-5	287-296	Radfahren	_	
+4-6	297-305	entgegen	_	
+4-7	306-309	der	_	
+4-8	310-323	Fahrtrichtung	_	
+4-9	324-327	bei	_	
+4-10	328-342	Einbahnstraßen	_	
+4-11	343-349	meines	_	
+4-12	350-359	Erachtens	_	
+4-13	360-365	keine	_	
+4-14	366-372	Lösung	_	
+4-15	372-373	,	_	
+4-16	374-383	teilweise	_	
+4-17	384-388	sind	_	
+4-18	389-392	die	_	
+4-19	393-400	Straßen	_	
+4-20	401-403	zu	_	
+4-21	404-407	eng	_	
+4-22	408-410	um	_	
+4-23	411-420	gefahrlos	_	
+4-24	421-431	aneinander	_	
+4-25	432-438	vorbei	_	
+4-26	439-441	zu	_	
+4-27	442-448	kommen	_	
+4-28	448-449	,	_	
+4-29	450-453	als	_	
+4-30	454-464	Autofahrer	_	
+4-31	465-468	hat	_	
+4-32	469-472	man	_	
+4-33	473-477	fast	_	
+4-34	478-483	immer	_	
+4-35	484-487	den	_	
+4-36	488-497	Schwarzen	_	
+4-37	498-503	Peter	_	
+4-38	504-507	bei	_	
+4-39	508-515	solchen	_	
+4-40	516-535	Gefahrensituationen	_	
+4-41	535-536	.	_	
+
+#Text=Hatte selbst schon solche Situationen obwohl ich rechts an parkenden Autos fuhr schlug mir ein Radfahrer erbost mit der Faust auf das Autodach, bis ich anhielt und ausstieg war er jedoch schon über alle Berge.
+5-1	537-542	Hatte	_	
+5-2	543-549	selbst	_	
+5-3	550-555	schon	_	
+5-4	556-562	solche	_	
+5-5	563-574	Situationen	_	
+5-6	575-581	obwohl	_	
+5-7	582-585	ich	_	
+5-8	586-592	rechts	_	
+5-9	593-595	an	_	
+5-10	596-605	parkenden	_	
+5-11	606-611	Autos	_	
+5-12	612-616	fuhr	_	
+5-13	617-623	schlug	_	
+5-14	624-627	mir	_	
+5-15	628-631	ein	_	
+5-16	632-641	Radfahrer	_	
+5-17	642-648	erbost	_	
+5-18	649-652	mit	_	
+5-19	653-656	der	_	
+5-20	657-662	Faust	_	
+5-21	663-666	auf	_	
+5-22	667-670	das	_	
+5-23	671-679	Autodach	_	
+5-24	679-680	,	_	
+5-25	681-684	bis	_	
+5-26	685-688	ich	_	
+5-27	689-696	anhielt	_	
+5-28	697-700	und	_	
+5-29	701-709	ausstieg	_	
+5-30	710-713	war	_	
+5-31	714-716	er	_	
+5-32	717-723	jedoch	_	
+5-33	724-729	schon	_	
+5-34	730-734	über	_	
+5-35	735-739	alle	_	
+5-36	740-745	Berge	_	
+5-37	745-746	.	_	
+
+#Text=Fahre selbst auch Fahrrad, stelle aber fest dass für die meisten Fahrradfahrer Verkehrsregeln ein Buch mit sieben Siegeln ist.
+6-1	747-752	Fahre	_	
+6-2	753-759	selbst	_	
+6-3	760-764	auch	_	
+6-4	765-772	Fahrrad	_	
+6-5	772-773	,	_	
+6-6	774-780	stelle	_	
+6-7	781-785	aber	_	
+6-8	786-790	fest	_	
+6-9	791-795	dass	_	
+6-10	796-799	für	_	
+6-11	800-803	die	_	
+6-12	804-811	meisten	_	
+6-13	812-825	Fahrradfahrer	_	
+6-14	826-840	Verkehrsregeln	_	
+6-15	841-844	ein	_	
+6-16	845-849	Buch	_	
+6-17	850-853	mit	_	
+6-18	854-860	sieben	_	
+6-19	861-868	Siegeln	_	
+6-20	869-872	ist	_	
+6-21	872-873	.	_	
+
+#Text=Fahrradfahren in Bonn ja, aber Radfahrer sollten soweit sie keinen Führerschein haben auch eine Fahrerlaubnisprüfung ablegen.
+7-1	874-887	Fahrradfahren	_	
+7-2	888-890	in	*[12]	
+7-3	891-895	Bonn	*[12]	
+7-4	896-898	ja	_	
+7-5	898-899	,	_	
+7-6	900-904	aber	_	
+7-7	905-914	Radfahrer	_	
+7-8	915-922	sollten	_	
+7-9	923-929	soweit	_	
+7-10	930-933	sie	_	
+7-11	934-940	keinen	_	
+7-12	941-953	Führerschein	_	
+7-13	954-959	haben	_	
+7-14	960-964	auch	_	
+7-15	965-969	eine	_	
+7-16	970-990	Fahrerlaubnisprüfung	_	
+7-17	991-998	ablegen	_	
+7-18	998-999	.	_	
+
+#Text=Radfahrer sollten mehr kontrolliert werden, besonders zur jetzigen Jahreszeit, ohne Licht wird so eine Fahrt zum Himmelfahrtskommando und für den Autofahrer nicht selten ein Trauma.
+8-1	1000-1009	Radfahrer	_	
+8-2	1010-1017	sollten	_	
+8-3	1018-1022	mehr	_	
+8-4	1023-1035	kontrolliert	_	
+8-5	1036-1042	werden	_	
+8-6	1042-1043	,	_	
+8-7	1044-1053	besonders	_	
+8-8	1054-1057	zur	_	
+8-9	1058-1066	jetzigen	_	
+8-10	1067-1077	Jahreszeit	_	
+8-11	1077-1078	,	_	
+8-12	1079-1083	ohne	_	
+8-13	1084-1089	Licht	_	
+8-14	1090-1094	wird	_	
+8-15	1095-1097	so	_	
+8-16	1098-1102	eine	_	
+8-17	1103-1108	Fahrt	_	
+8-18	1109-1112	zum	_	
+8-19	1113-1133	Himmelfahrtskommando	_	
+8-20	1134-1137	und	_	
+8-21	1138-1141	für	_	
+8-22	1142-1145	den	_	
+8-23	1146-1156	Autofahrer	_	
+8-24	1157-1162	nicht	_	
+8-25	1163-1169	selten	_	
+8-26	1170-1173	ein	_	
+8-27	1174-1180	Trauma	_	
+8-28	1180-1181	.	_	
+
+#Text=Ein TüV für Fahrräder.
+9-1	1182-1185	Ein	_	
+9-2	1186-1189	TüV	_	
+9-3	1190-1193	für	_	
+9-4	1194-1203	Fahrräder	_	
+9-5	1203-1204	.	_	
+
+#Text=Radwege sind so zu gestallten, dass auch andere Verkehrsteilnehmer nicht gefährdet werden.
+10-1	1205-1212	Radwege	_	
+10-2	1213-1217	sind	_	
+10-3	1218-1220	so	_	
+10-4	1221-1223	zu	_	
+10-5	1224-1234	gestallten	_	
+10-6	1234-1235	,	_	
+10-7	1236-1240	dass	_	
+10-8	1241-1245	auch	_	
+10-9	1246-1252	andere	_	
+10-10	1253-1271	Verkehrsteilnehmer	_	
+10-11	1272-1277	nicht	_	
+10-12	1278-1287	gefährdet	_	
+10-13	1288-1294	werden	_	
+10-14	1294-1295	.	_	
+
+#Text=Soviel zur Fahrradhauptstadt Bonn.
+11-1	1296-1302	Soviel	_	
+11-2	1303-1306	zur	_	
+11-3	1307-1324	Fahrradhauptstadt	_	
+11-4	1325-1329	Bonn	_	
+11-5	1329-1330	.	_	

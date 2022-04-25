@@ -1,0 +1,135 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Autos versperren Radweg
+1-1	0-5	Autos	_	
+1-2	6-16	versperren	_	
+1-3	17-23	Radweg	_	
+
+#Text=Der Radweg ist hier in Ordnung, vielmehr ergibt sich ein Problem, sobald ein Auto aus der Straße An der Immenburg auf die Straße Auf dem Hügel abbiegen möchte.
+2-1	26-29	Der	_	
+2-2	30-36	Radweg	_	
+2-3	37-40	ist	_	
+2-4	41-45	hier	_	
+2-5	46-48	in	_	
+2-6	49-56	Ordnung	_	
+2-7	56-57	,	_	
+2-8	58-66	vielmehr	_	
+2-9	67-73	ergibt	_	
+2-10	74-78	sich	_	
+2-11	79-82	ein	_	
+2-12	83-90	Problem	_	
+2-13	90-91	,	_	
+2-14	92-98	sobald	_	
+2-15	99-102	ein	_	
+2-16	103-107	Auto	_	
+2-17	108-111	aus	*[6]	
+2-18	112-115	der	*[6]	
+2-19	116-122	Straße	*[6]	
+2-20	123-125	An	*[6]	
+2-21	126-129	der	*[6]	
+2-22	130-139	Immenburg	*[6]	
+2-23	140-143	auf	*[6]	
+2-24	144-147	die	*[6]	
+2-25	148-154	Straße	*[6]	
+2-26	155-158	Auf	*[6]	
+2-27	159-162	dem	*[6]	
+2-28	163-168	Hügel	*[6]	
+2-29	169-177	abbiegen	*[6]	
+2-30	178-184	möchte	_	
+2-31	184-185	.	_	
+
+#Text=Dadurch, dass das Parken bis kurz vor der Einmündung der Straße An der Immenburg erlaubt ist, ist die Sicht für Autofahrer so stark behindert, dass nichts anderes übrig bleibt, als komplett den Radweg zu versperren.
+3-1	186-193	Dadurch	_	
+3-2	193-194	,	_	
+3-3	195-199	dass	_	
+3-4	200-203	das	_	
+3-5	204-210	Parken	_	
+3-6	211-214	bis	_	
+3-7	215-219	kurz	_	
+3-8	220-223	vor	*[7]	
+3-9	224-227	der	*[7]	
+3-10	228-238	Einmündung	*[7]	
+3-11	239-242	der	*[7]	
+3-12	243-249	Straße	*[7]	
+3-13	250-252	An	*[7]	
+3-14	253-256	der	*[7]	
+3-15	257-266	Immenburg	*[7]	
+3-16	267-274	erlaubt	_	
+3-17	275-278	ist	_	
+3-18	278-279	,	_	
+3-19	280-283	ist	_	
+3-20	284-287	die	_	
+3-21	288-293	Sicht	_	
+3-22	294-297	für	_	
+3-23	298-308	Autofahrer	_	
+3-24	309-311	so	_	
+3-25	312-317	stark	_	
+3-26	318-327	behindert	_	
+3-27	327-328	,	_	
+3-28	329-333	dass	_	
+3-29	334-340	nichts	_	
+3-30	341-348	anderes	_	
+3-31	349-354	übrig	_	
+3-32	355-361	bleibt	_	
+3-33	361-362	,	_	
+3-34	363-366	als	_	
+3-35	367-375	komplett	_	
+3-36	376-379	den	_	
+3-37	380-386	Radweg	_	
+3-38	387-389	zu	_	
+3-39	390-400	versperren	_	
+3-40	400-401	.	_	
+
+#Text=Dies ist unschön für Radfahrer als auch für die Autofahrer, die nun im Weg stehen.
+4-1	402-406	Dies	_	
+4-2	407-410	ist	_	
+4-3	411-418	unschön	_	
+4-4	419-422	für	_	
+4-5	423-432	Radfahrer	_	
+4-6	433-436	als	_	
+4-7	437-441	auch	_	
+4-8	442-445	für	_	
+4-9	446-449	die	_	
+4-10	450-460	Autofahrer	_	
+4-11	460-461	,	_	
+4-12	462-465	die	_	
+4-13	466-469	nun	_	
+4-14	470-472	im	_	
+4-15	473-476	Weg	_	
+4-16	477-483	stehen	_	
+4-17	483-484	.	_	
+
+#Text=Mögliche Lösung: Das Parken nicht bis kurz vor der Einmündung erlauben oder geeignete Spiegel anbringen, die den Autofahrern Sicht auf die Straße Auf dem Hügel geben.
+5-1	485-493	Mögliche	_	
+5-2	494-500	Lösung	_	
+5-3	500-501	:	_	
+5-4	502-505	Das	_	
+5-5	506-512	Parken	_	
+5-6	513-518	nicht	_	
+5-7	519-522	bis	_	
+5-8	523-527	kurz	_	
+5-9	528-531	vor	_	
+5-10	532-535	der	_	
+5-11	536-546	Einmündung	_	
+5-12	547-555	erlauben	_	
+5-13	556-560	oder	_	
+5-14	561-570	geeignete	_	
+5-15	571-578	Spiegel	_	
+5-16	579-588	anbringen	_	
+5-17	588-589	,	_	
+5-18	590-593	die	_	
+5-19	594-597	den	_	
+5-20	598-609	Autofahrern	_	
+5-21	610-615	Sicht	_	
+5-22	616-619	auf	*[8]	
+5-23	620-623	die	*[8]	
+5-24	624-630	Straße	*[8]	
+5-25	631-634	Auf	*[8]	
+5-26	635-638	dem	*[8]	
+5-27	639-644	Hügel	*[8]	
+5-28	645-650	geben	_	
+5-29	650-651	.	_	

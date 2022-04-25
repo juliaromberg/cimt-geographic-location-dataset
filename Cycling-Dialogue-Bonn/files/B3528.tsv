@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegführung an Bushaltestelle
+1-1	0-13	Radwegführung	_	
+1-2	14-16	an	_	
+1-3	17-31	Bushaltestelle	_	
+
+#Text=Der Radweg an der Bushaltestelle Telekom Campus führt vor der Haltestelle entlang.
+2-1	34-37	Der	_	
+2-2	38-44	Radweg	_	
+2-3	45-47	an	*[5]	
+2-4	48-51	der	*[5]	
+2-5	52-66	Bushaltestelle	*[5]	
+2-6	67-74	Telekom	*[5]	
+2-7	75-81	Campus	*[5]	
+2-8	82-87	führt	_	
+2-9	88-91	vor	_	
+2-10	92-95	der	_	
+2-11	96-107	Haltestelle	_	
+2-12	108-115	entlang	_	
+2-13	115-116	.	_	
+
+#Text=Dadurch kommt es zu kritischen Situationen mit wartenden oder ein- und aussteigenden Fahrgästen.
+3-1	117-124	Dadurch	_	
+3-2	125-130	kommt	_	
+3-3	131-133	es	_	
+3-4	134-136	zu	_	
+3-5	137-147	kritischen	_	
+3-6	148-159	Situationen	_	
+3-7	160-163	mit	_	
+3-8	164-173	wartenden	_	
+3-9	174-178	oder	_	
+3-10	179-182	ein	_	
+3-11	182-183	-	_	
+3-12	184-187	und	_	
+3-13	188-201	aussteigenden	_	
+3-14	202-212	Fahrgästen	_	
+3-15	212-213	.	_	
+
+#Text=Hier musste der Fahrradweg hinter der Bushaltestelle entlang geführt werden.
+4-1	214-218	Hier	_	
+4-2	219-225	musste	_	
+4-3	226-229	der	_	
+4-4	230-240	Fahrradweg	_	
+4-5	241-247	hinter	_	
+4-6	248-251	der	_	
+4-7	252-266	Bushaltestelle	_	
+4-8	267-274	entlang	_	
+4-9	275-282	geführt	_	
+4-10	283-289	werden	_	
+4-11	289-290	.	_	

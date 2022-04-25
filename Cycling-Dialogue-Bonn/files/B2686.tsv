@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Baustelleneinrichtung
+1-1	0-21	Baustelleneinrichtung	_	
+
+#Text=Bei der Baustelleneinrichtung den Radverkehr mitdenken.
+2-1	24-27	Bei	_	
+2-2	28-31	der	_	
+2-3	32-53	Baustelleneinrichtung	_	
+2-4	54-57	den	_	
+2-5	58-68	Radverkehr	_	
+2-6	69-78	mitdenken	_	
+2-7	78-79	.	_	
+
+#Text=Beispielsweise steht derzeit auf dem Radweg am Fritz-Schroeder-Ufer ein Umleitungsschild obwohl rheinseitig sich ein befestigter Plattenstreifen befindet.
+3-1	80-94	Beispielsweise	_	
+3-2	95-100	steht	_	
+3-3	101-108	derzeit	_	
+3-4	109-112	auf	*[3]	
+3-5	113-116	dem	*[3]	
+3-6	117-123	Radweg	*[3]	
+3-7	124-126	am	*[3]	
+3-8	127-147	Fritz-Schroeder-Ufer	*[3]	
+3-9	148-151	ein	_	
+3-10	152-168	Umleitungsschild	_	
+3-11	169-175	obwohl	_	
+3-12	176-187	rheinseitig	_	
+3-13	188-192	sich	_	
+3-14	193-196	ein	_	
+3-15	197-208	befestigter	_	
+3-16	209-224	Plattenstreifen	_	
+3-17	225-233	befindet	_	
+3-18	233-234	.	_	

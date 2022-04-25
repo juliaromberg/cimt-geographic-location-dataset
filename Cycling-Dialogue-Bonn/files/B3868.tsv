@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beleuchtung Radweg
+1-1	0-11	Beleuchtung	_	
+1-2	12-18	Radweg	_	
+
+#Text=Der neue Radweg entlang der Sankt Augustiner Straße ist nicht extra beleuchtet.
+2-1	21-24	Der	*[4]	
+2-2	25-29	neue	*[4]	
+2-3	30-36	Radweg	*[4]	
+2-4	37-44	entlang	*[4]	
+2-5	45-48	der	*[4]	
+2-6	49-54	Sankt	*[4]	
+2-7	55-65	Augustiner	*[4]	
+2-8	66-72	Straße	*[4]	
+2-9	73-76	ist	_	
+2-10	77-82	nicht	_	
+2-11	83-88	extra	_	
+2-12	89-99	beleuchtet	_	
+2-13	99-100	.	_	
+
+#Text=Bei Dunkelheit reicht die Beleuchtung der B56 jedoch nicht aus, um sicher diesen Radweg nutzen zu können.
+3-1	101-104	Bei	_	
+3-2	105-115	Dunkelheit	_	
+3-3	116-122	reicht	_	
+3-4	123-126	die	_	
+3-5	127-138	Beleuchtung	_	
+3-6	139-142	der	_	
+3-7	143-146	B56	*	
+3-8	147-153	jedoch	_	
+3-9	154-159	nicht	_	
+3-10	160-163	aus	_	
+3-11	163-164	,	_	
+3-12	165-167	um	_	
+3-13	168-174	sicher	_	
+3-14	175-181	diesen	_	
+3-15	182-188	Radweg	_	
+3-16	189-195	nutzen	_	
+3-17	196-198	zu	_	
+3-18	199-205	können	_	
+3-19	205-206	.	_	

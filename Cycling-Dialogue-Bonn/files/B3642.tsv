@@ -1,0 +1,294 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg-Führung in beide Richtungen der Prinz-Albert-Straße!
+1-1	0-14	Radweg-Führung	_	
+1-2	15-17	in	_	
+1-3	18-23	beide	*[15]	
+1-4	24-34	Richtungen	*[15]	
+1-5	35-38	der	*[15]	
+1-6	39-58	Prinz-Albert-Straße	*[15]	
+1-7	58-59	!	_	
+
+#Text=Diese Kreuzung ist ein großes Problem und sehr gefährlich, die anderen Beiträge zeigen dies bereits!
+2-1	62-67	Diese	_	
+2-2	68-76	Kreuzung	_	
+2-3	77-80	ist	_	
+2-4	81-84	ein	_	
+2-5	85-91	großes	_	
+2-6	92-99	Problem	_	
+2-7	100-103	und	_	
+2-8	104-108	sehr	_	
+2-9	109-119	gefährlich	_	
+2-10	119-120	,	_	
+2-11	121-124	die	_	
+2-12	125-132	anderen	_	
+2-13	133-141	Beiträge	_	
+2-14	142-148	zeigen	_	
+2-15	149-153	dies	_	
+2-16	154-161	bereits	_	
+2-17	161-162	!	_	
+
+#Text=Hier muss dringend die Führung des Radverkehrs in beide Richtungen der Prinz-Albert-Straße verbessert werden!
+3-1	163-167	Hier	_	
+3-2	168-172	muss	_	
+3-3	173-181	dringend	_	
+3-4	182-185	die	_	
+3-5	186-193	Führung	_	
+3-6	194-197	des	_	
+3-7	198-209	Radverkehrs	_	
+3-8	210-212	in	_	
+3-9	213-218	beide	_	
+3-10	219-229	Richtungen	_	
+3-11	230-233	der	_	
+3-12	234-253	Prinz-Albert-Straße	*	
+3-13	254-264	verbessert	_	
+3-14	265-271	werden	_	
+3-15	271-272	!	_	
+
+#Text=Aus Süden kommend sollte der Radweg durchgängig am Zebrastreifen vorbei bis zu der kleinen Verkehrsinsel markiert werden (hier stehen oft Autos mitten auf der Radlinie).
+4-1	273-276	Aus	_	
+4-2	277-282	Süden	_	
+4-3	283-290	kommend	_	
+4-4	291-297	sollte	_	
+4-5	298-301	der	_	
+4-6	302-308	Radweg	_	
+4-7	309-320	durchgängig	_	
+4-8	321-323	am	_	
+4-9	324-337	Zebrastreifen	_	
+4-10	338-344	vorbei	_	
+4-11	345-348	bis	_	
+4-12	349-351	zu	_	
+4-13	352-355	der	_	
+4-14	356-363	kleinen	_	
+4-15	364-377	Verkehrsinsel	_	
+4-16	378-386	markiert	_	
+4-17	387-393	werden	_	
+4-18	394-395	(	_	
+4-19	395-399	hier	_	
+4-20	400-406	stehen	_	
+4-21	407-410	oft	_	
+4-22	411-416	Autos	_	
+4-23	417-423	mitten	_	
+4-24	424-427	auf	_	
+4-25	428-431	der	_	
+4-26	432-440	Radlinie	_	
+4-27	440-441	)	_	
+4-28	441-442	.	_	
+
+#Text=Und auch auf der anderen Seite der Kreuzung sollte die Markierung bis zur Popp-Alle weiter gehen.
+5-1	443-446	Und	_	
+5-2	447-451	auch	_	
+5-3	452-455	auf	_	
+5-4	456-459	der	_	
+5-5	460-467	anderen	_	
+5-6	468-473	Seite	_	
+5-7	474-477	der	_	
+5-8	478-486	Kreuzung	_	
+5-9	487-493	sollte	_	
+5-10	494-497	die	_	
+5-11	498-508	Markierung	_	
+5-12	509-512	bis	_	
+5-13	513-516	zur	_	
+5-14	517-526	Popp-Alle	_	
+5-15	527-533	weiter	_	
+5-16	534-539	gehen	_	
+5-17	539-540	.	_	
+
+#Text=Aufgrund der in 2. Reihe parkenden Autos müssen entgegen kommende Autos (oft sehr zügige Taxis!) in der Mitte fahren.
+6-1	541-549	Aufgrund	_	
+6-2	550-553	der	_	
+6-3	554-556	in	_	
+6-4	557-558	2	_	
+6-5	558-559	.	_	
+6-6	560-565	Reihe	_	
+6-7	566-575	parkenden	_	
+6-8	576-581	Autos	_	
+6-9	582-588	müssen	_	
+6-10	589-597	entgegen	_	
+6-11	598-606	kommende	_	
+6-12	607-612	Autos	_	
+6-13	613-614	(	_	
+6-14	614-617	oft	_	
+6-15	618-622	sehr	_	
+6-16	623-629	zügige	_	
+6-17	630-635	Taxis	_	
+6-18	635-636	!	_	
+6-19	636-637	)	_	
+6-20	638-640	in	_	
+6-21	641-644	der	_	
+6-22	645-650	Mitte	_	
+6-23	651-657	fahren	_	
+6-24	657-658	.	_	
+
+#Text=Die Radfahrer aber auch, zudem noch wegen der Schienen.
+7-1	659-662	Die	_	
+7-2	663-672	Radfahrer	_	
+7-3	673-677	aber	_	
+7-4	678-682	auch	_	
+7-5	682-683	,	_	
+7-6	684-689	zudem	_	
+7-7	690-694	noch	_	
+7-8	695-700	wegen	_	
+7-9	701-704	der	_	
+7-10	705-713	Schienen	_	
+7-11	713-714	.	_	
+
+#Text=Das ist oft sehr brenzlig!!!
+8-1	715-718	Das	_	
+8-2	719-722	ist	_	
+8-3	723-726	oft	_	
+8-4	727-731	sehr	_	
+8-5	732-740	brenzlig	_	
+8-6	740-741	!	_	
+8-7	741-742	!	_	
+8-8	742-743	!	_	
+
+#Text=Warum ist das Stück bis zur Popp-Allee eigentlich keine Fahrradstraße mehr?!?
+9-1	744-749	Warum	_	
+9-2	750-753	ist	_	
+9-3	754-757	das	_	
+9-4	758-763	Stück	_	
+9-5	764-767	bis	*[16]	
+9-6	768-771	zur	*[16]	
+9-7	772-782	Popp-Allee	*[16]	
+9-8	783-793	eigentlich	_	
+9-9	794-799	keine	_	
+9-10	800-813	Fahrradstraße	_	
+9-11	814-818	mehr	_	
+9-12	818-819	?	_	
+9-13	819-820	!	_	
+9-14	820-821	?	_	
+
+#Text=Aus Norden kommend ist das geradeaus abbiegen sehr gefährlich, da man wegen der Bahnschienen erst eine leichte angedeutete Kurve in Richtung Königstraße fahren muss, um dann doch geradeaus in die Prinz-Albert-Straße zu fahren.
+10-1	822-825	Aus	_	
+10-2	826-832	Norden	_	
+10-3	833-840	kommend	_	
+10-4	841-844	ist	_	
+10-5	845-848	das	_	
+10-6	849-858	geradeaus	_	
+10-7	859-867	abbiegen	_	
+10-8	868-872	sehr	_	
+10-9	873-883	gefährlich	_	
+10-10	883-884	,	_	
+10-11	885-887	da	_	
+10-12	888-891	man	_	
+10-13	892-897	wegen	_	
+10-14	898-901	der	_	
+10-15	902-914	Bahnschienen	_	
+10-16	915-919	erst	_	
+10-17	920-924	eine	_	
+10-18	925-932	leichte	_	
+10-19	933-944	angedeutete	_	
+10-20	945-950	Kurve	_	
+10-21	951-953	in	*[17]	
+10-22	954-962	Richtung	*[17]	
+10-23	963-974	Königstraße	*[17]	
+10-24	975-981	fahren	_	
+10-25	982-986	muss	_	
+10-26	986-987	,	_	
+10-27	988-990	um	_	
+10-28	991-995	dann	_	
+10-29	996-1000	doch	_	
+10-30	1001-1010	geradeaus	*[18]	
+10-31	1011-1013	in	*[18]	
+10-32	1014-1017	die	*[18]	
+10-33	1018-1037	Prinz-Albert-Straße	*[18]	
+10-34	1038-1040	zu	_	
+10-35	1041-1047	fahren	_	
+10-36	1047-1048	.	_	
+
+#Text=Autofahrer, die aus der Prinz-Albert-Straße wartend dann losfahren, weil sie (zu Recht) denken, man biege ab, sind oft immer sehr überrascht, wenn man doch noch geradeaus fährt.
+11-1	1049-1059	Autofahrer	_	
+11-2	1059-1060	,	_	
+11-3	1061-1064	die	_	
+11-4	1065-1068	aus	*[19]	
+11-5	1069-1072	der	*[19]	
+11-6	1073-1092	Prinz-Albert-Straße	*[19]	
+11-7	1093-1100	wartend	_	
+11-8	1101-1105	dann	_	
+11-9	1106-1115	losfahren	_	
+11-10	1115-1116	,	_	
+11-11	1117-1121	weil	_	
+11-12	1122-1125	sie	_	
+11-13	1126-1127	(	_	
+11-14	1127-1129	zu	_	
+11-15	1130-1135	Recht	_	
+11-16	1135-1136	)	_	
+11-17	1137-1143	denken	_	
+11-18	1143-1144	,	_	
+11-19	1145-1148	man	_	
+11-20	1149-1154	biege	_	
+11-21	1155-1157	ab	_	
+11-22	1157-1158	,	_	
+11-23	1159-1163	sind	_	
+11-24	1164-1167	oft	_	
+11-25	1168-1173	immer	_	
+11-26	1174-1178	sehr	_	
+11-27	1179-1189	überrascht	_	
+11-28	1189-1190	,	_	
+11-29	1191-1195	wenn	_	
+11-30	1196-1199	man	_	
+11-31	1200-1204	doch	_	
+11-32	1205-1209	noch	_	
+11-33	1210-1219	geradeaus	_	
+11-34	1220-1225	fährt	_	
+11-35	1225-1226	.	_	
+
+#Text=Unfälle sind vorprogrammiert!
+12-1	1227-1234	Unfälle	_	
+12-2	1235-1239	sind	_	
+12-3	1240-1255	vorprogrammiert	_	
+12-4	1255-1256	!	_	
+
+#Text=Auch das eigentlich selbstverständliche Handzeichen ist wegen der Bahnschienen fast unmöglich, da deren Überfahrung mit einer Hand sehr riskant ist (und zudem fährt man ja eigentlich auch geradeaus).
+13-1	1257-1261	Auch	_	
+13-2	1262-1265	das	_	
+13-3	1266-1276	eigentlich	_	
+13-4	1277-1296	selbstverständliche	_	
+13-5	1297-1308	Handzeichen	_	
+13-6	1309-1312	ist	_	
+13-7	1313-1318	wegen	_	
+13-8	1319-1322	der	_	
+13-9	1323-1335	Bahnschienen	_	
+13-10	1336-1340	fast	_	
+13-11	1341-1350	unmöglich	_	
+13-12	1350-1351	,	_	
+13-13	1352-1354	da	_	
+13-14	1355-1360	deren	_	
+13-15	1361-1372	Überfahrung	_	
+13-16	1373-1376	mit	_	
+13-17	1377-1382	einer	_	
+13-18	1383-1387	Hand	_	
+13-19	1388-1392	sehr	_	
+13-20	1393-1400	riskant	_	
+13-21	1401-1404	ist	_	
+13-22	1405-1406	(	_	
+13-23	1406-1409	und	_	
+13-24	1410-1415	zudem	_	
+13-25	1416-1421	fährt	_	
+13-26	1422-1425	man	_	
+13-27	1426-1428	ja	_	
+13-28	1429-1439	eigentlich	_	
+13-29	1440-1444	auch	_	
+13-30	1445-1454	geradeaus	_	
+13-31	1454-1455	)	_	
+13-32	1455-1456	.	_	
+
+#Text=Vielleicht könnte man die Radführung auch auf der Straße markieren...
+14-1	1457-1467	Vielleicht	_	
+14-2	1468-1474	könnte	_	
+14-3	1475-1478	man	_	
+14-4	1479-1482	die	_	
+14-5	1483-1493	Radführung	_	
+14-6	1494-1498	auch	_	
+14-7	1499-1502	auf	_	
+14-8	1503-1506	der	_	
+14-9	1507-1513	Straße	_	
+14-10	1514-1523	markieren	_	
+14-11	1523-1524	.	_	
+14-12	1524-1525	.	_	
+14-13	1525-1526	.	_	

@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Falschparker auf Geh- und Radweg
+1-1	0-12	Falschparker	_	
+1-2	13-16	auf	_	
+1-3	17-20	Geh	_	
+1-4	20-21	-	_	
+1-5	22-25	und	_	
+1-6	26-32	Radweg	_	
+
+#Text=An dieser Stelle sind Falschparker aufgrund der schlechten Radverkehrsführung auf dem Geh- und Radweg mit Bushaltestelle und schiefen Gehwegplatten sowie zahlreichen Ein- und Ausfahrten eine besonders große Belastung.
+2-1	35-37	An	_	
+2-2	38-44	dieser	_	
+2-3	45-51	Stelle	_	
+2-4	52-56	sind	_	
+2-5	57-69	Falschparker	_	
+2-6	70-78	aufgrund	_	
+2-7	79-82	der	_	
+2-8	83-93	schlechten	_	
+2-9	94-112	Radverkehrsführung	_	
+2-10	113-116	auf	_	
+2-11	117-120	dem	_	
+2-12	121-124	Geh	_	
+2-13	124-125	-	_	
+2-14	126-129	und	_	
+2-15	130-136	Radweg	_	
+2-16	137-140	mit	_	
+2-17	141-155	Bushaltestelle	_	
+2-18	156-159	und	_	
+2-19	160-168	schiefen	_	
+2-20	169-182	Gehwegplatten	_	
+2-21	183-188	sowie	_	
+2-22	189-200	zahlreichen	_	
+2-23	201-204	Ein	_	
+2-24	204-205	-	_	
+2-25	206-209	und	_	
+2-26	210-220	Ausfahrten	_	
+2-27	221-225	eine	_	
+2-28	226-235	besonders	_	
+2-29	236-241	große	_	
+2-30	242-251	Belastung	_	
+2-31	251-252	.	_	
+
+#Text=Vor allem Lieferdiensten [***] sollte man doch erklären können, wie sie zu parken haben!
+3-1	253-256	Vor	_	
+3-2	257-262	allem	_	
+3-3	263-277	Lieferdiensten	_	
+3-4	278-279	[	_	
+3-5	279-280	*	_	
+3-6	280-281	*	_	
+3-7	281-282	*	_	
+3-8	282-283	]	_	
+3-9	284-290	sollte	_	
+3-10	291-294	man	_	
+3-11	295-299	doch	_	
+3-12	300-308	erklären	_	
+3-13	309-315	können	_	
+3-14	315-316	,	_	
+3-15	317-320	wie	_	
+3-16	321-324	sie	_	
+3-17	325-327	zu	_	
+3-18	328-334	parken	_	
+3-19	335-340	haben	_	
+3-20	340-341	!	_	

@@ -1,0 +1,82 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstellplätze am Bahnhof
+1-1	0-18	Fahrradstellplätze	_	
+1-2	19-21	am	_	
+1-3	22-29	Bahnhof	_	
+
+#Text=Die Parksituation für Radfahrer am Bahnhof ist schon seit Jahrzehnten sehr miserabel und wird von Jahr zu Jahr schlechter.
+2-1	32-35	Die	_	
+2-2	36-49	Parksituation	_	
+2-3	50-53	für	_	
+2-4	54-63	Radfahrer	_	
+2-5	64-66	am	_	
+2-6	67-74	Bahnhof	_	
+2-7	75-78	ist	_	
+2-8	79-84	schon	_	
+2-9	85-89	seit	_	
+2-10	90-101	Jahrzehnten	_	
+2-11	102-106	sehr	_	
+2-12	107-116	miserabel	_	
+2-13	117-120	und	_	
+2-14	121-125	wird	_	
+2-15	126-129	von	_	
+2-16	130-134	Jahr	_	
+2-17	135-137	zu	_	
+2-18	138-142	Jahr	_	
+2-19	143-153	schlechter	_	
+2-20	153-154	.	_	
+
+#Text=Wenn man denn einen Platz für sein Rad findet, kann mann nur hoffen, dass es später noch dort steht, bzw dass alle Teile noch dran sind.
+3-1	155-159	Wenn	_	
+3-2	160-163	man	_	
+3-3	164-168	denn	_	
+3-4	169-174	einen	_	
+3-5	175-180	Platz	_	
+3-6	181-184	für	_	
+3-7	185-189	sein	_	
+3-8	190-193	Rad	_	
+3-9	194-200	findet	_	
+3-10	200-201	,	_	
+3-11	202-206	kann	_	
+3-12	207-211	mann	_	
+3-13	212-215	nur	_	
+3-14	216-222	hoffen	_	
+3-15	222-223	,	_	
+3-16	224-228	dass	_	
+3-17	229-231	es	_	
+3-18	232-238	später	_	
+3-19	239-243	noch	_	
+3-20	244-248	dort	_	
+3-21	249-254	steht	_	
+3-22	254-255	,	_	
+3-23	256-259	bzw	_	
+3-24	260-264	dass	_	
+3-25	265-269	alle	_	
+3-26	270-275	Teile	_	
+3-27	276-280	noch	_	
+3-28	281-285	dran	_	
+3-29	286-290	sind	_	
+3-30	290-291	.	_	
+
+#Text=Wer wissen will, wie es auch geht, sollte sich mal in Münster umsehen!
+4-1	292-295	Wer	_	
+4-2	296-302	wissen	_	
+4-3	303-307	will	_	
+4-4	307-308	,	_	
+4-5	309-312	wie	_	
+4-6	313-315	es	_	
+4-7	316-320	auch	_	
+4-8	321-325	geht	_	
+4-9	325-326	,	_	
+4-10	327-333	sollte	_	
+4-11	334-338	sich	_	
+4-12	339-342	mal	_	
+4-13	343-345	in	_	
+4-14	346-353	Münster	_	
+4-15	354-361	umsehen	_	
+4-16	361-362	!	_	

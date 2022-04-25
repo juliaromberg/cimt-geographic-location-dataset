@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bus-/Fahrradspur Oxfordstraße zwischen Friedensplatz und Bertha-von-Suttner-Platz
+1-1	0-3	Bus	_	
+1-2	3-4	-	_	
+1-3	4-5	/	_	
+1-4	5-16	Fahrradspur	_	
+1-5	17-29	Oxfordstraße	*[3]	
+1-6	30-38	zwischen	*[3]	
+1-7	39-52	Friedensplatz	*[3]	
+1-8	53-56	und	*[3]	
+1-9	57-81	Bertha-von-Suttner-Platz	*[3]	
+
+#Text=Da der Schutzstreifen auf der Oxfordstraße vom Friedensplatz in Richtung Bertha-von-Suttner-Platz sehr schmal ist und man oft sehr knapp überholt wird, wäre eine kombinierte Bus-/Fahrradspur auf der rechten Spur eine sinnvolle Lösung für den reichlichen Busverkehr und für Fahrradfahrer
+2-1	84-86	Da	_	
+2-2	87-90	der	*[4]	
+2-3	91-105	Schutzstreifen	*[4]	
+2-4	106-109	auf	*[4]	
+2-5	110-113	der	*[4]	
+2-6	114-126	Oxfordstraße	*[4]	
+2-7	127-130	vom	*[4]	
+2-8	131-144	Friedensplatz	*[4]	
+2-9	145-147	in	*[4]	
+2-10	148-156	Richtung	*[4]	
+2-11	157-181	Bertha-von-Suttner-Platz	*[4]	
+2-12	182-186	sehr	_	
+2-13	187-193	schmal	_	
+2-14	194-197	ist	_	
+2-15	198-201	und	_	
+2-16	202-205	man	_	
+2-17	206-209	oft	_	
+2-18	210-214	sehr	_	
+2-19	215-220	knapp	_	
+2-20	221-229	überholt	_	
+2-21	230-234	wird	_	
+2-22	234-235	,	_	
+2-23	236-240	wäre	_	
+2-24	241-245	eine	_	
+2-25	246-257	kombinierte	_	
+2-26	258-261	Bus	_	
+2-27	261-262	-	_	
+2-28	262-263	/	_	
+2-29	263-274	Fahrradspur	_	
+2-30	275-278	auf	_	
+2-31	279-282	der	_	
+2-32	283-290	rechten	_	
+2-33	291-295	Spur	_	
+2-34	296-300	eine	_	
+2-35	301-310	sinnvolle	_	
+2-36	311-317	Lösung	_	
+2-37	318-321	für	_	
+2-38	322-325	den	_	
+2-39	326-337	reichlichen	_	
+2-40	338-348	Busverkehr	_	
+2-41	349-352	und	_	
+2-42	353-356	für	_	
+2-43	357-370	Fahrradfahrer	_	

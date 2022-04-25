@@ -1,0 +1,41 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kaputter Radweg
+1-1	0-8	Kaputter	_	
+1-2	9-15	Radweg	_	
+
+#Text=Entlang der L16 zwischen der Autobahnabfahrt und der Meindorfer Str. ist der Asphalt des Radweges auf Grund von Wurzel an vielen Stellen aufgebrochen und mit vielen Hubbeln übersäht.
+2-1	18-25	Entlang	*[3]	
+2-2	26-29	der	*[3]	
+2-3	30-33	L16	*[3]	
+2-4	34-42	zwischen	*[3]	
+2-5	43-46	der	*[3]	
+2-6	47-62	Autobahnabfahrt	*[3]	
+2-7	63-66	und	*[3]	
+2-8	67-70	der	*[3]	
+2-9	71-81	Meindorfer	*[3]	
+2-10	82-85	Str	*[3]	
+2-11	85-86	.	*[3]	
+2-12	87-90	ist	_	
+2-13	91-94	der	_	
+2-14	95-102	Asphalt	_	
+2-15	103-106	des	_	
+2-16	107-115	Radweges	_	
+2-17	116-119	auf	_	
+2-18	120-125	Grund	_	
+2-19	126-129	von	_	
+2-20	130-136	Wurzel	_	
+2-21	137-139	an	_	
+2-22	140-146	vielen	_	
+2-23	147-154	Stellen	_	
+2-24	155-167	aufgebrochen	_	
+2-25	168-171	und	_	
+2-26	172-175	mit	_	
+2-27	176-182	vielen	_	
+2-28	183-190	Hubbeln	_	
+2-29	191-199	übersäht	_	
+2-30	199-200	.	_	

@@ -1,0 +1,27 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstr.
+1-1	0-10	Einbahnstr	_	
+1-2	10-11	.	_	
+
+#Text=Bitte Einbahnstraße in beide Richtungen freigeben.
+2-1	14-19	Bitte	_	
+2-2	20-33	Einbahnstraße	_	
+2-3	34-36	in	_	
+2-4	37-42	beide	_	
+2-5	43-53	Richtungen	_	
+2-6	54-63	freigeben	_	
+2-7	63-64	.	_	
+
+#Text=Bessere und kürzere Zufahrt zur Poppelsdorfer Allee
+3-1	65-72	Bessere	_	
+3-2	73-76	und	_	
+3-3	77-84	kürzere	_	
+3-4	85-92	Zufahrt	_	
+3-5	93-96	zur	*[4]	
+3-6	97-110	Poppelsdorfer	*[4]	
+3-7	111-116	Allee	*[4]	

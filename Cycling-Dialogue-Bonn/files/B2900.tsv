@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Linksabbiegen nicht ganz einfach
+1-1	0-13	Linksabbiegen	_	
+1-2	14-19	nicht	_	
+1-3	20-24	ganz	_	
+1-4	25-32	einfach	_	
+
+#Text=Kommt man hier aus Süden und möchte links abbiegen, muss man sich schon entsprechend früh auf die Spur zum Linkabbiegen einordnen.
+2-1	35-40	Kommt	_	
+2-2	41-44	man	_	
+2-3	45-49	hier	_	
+2-4	50-53	aus	_	
+2-5	54-59	Süden	_	
+2-6	60-63	und	_	
+2-7	64-70	möchte	_	
+2-8	71-76	links	_	
+2-9	77-85	abbiegen	_	
+2-10	85-86	,	_	
+2-11	87-91	muss	_	
+2-12	92-95	man	_	
+2-13	96-100	sich	_	
+2-14	101-106	schon	_	
+2-15	107-119	entsprechend	_	
+2-16	120-124	früh	_	
+2-17	125-128	auf	_	
+2-18	129-132	die	_	
+2-19	133-137	Spur	_	
+2-20	138-141	zum	_	
+2-21	142-154	Linkabbiegen	_	
+2-22	155-164	einordnen	_	
+2-23	164-165	.	_	
+
+#Text=Fährt man der Verkehrsführung für Radfahrer nach, so landet man rechts von der Straßenbahnhaltestelle und kann von dort aus nicht mehr sinnvoll links abbiegen.
+3-1	166-171	Fährt	_	
+3-2	172-175	man	_	
+3-3	176-179	der	_	
+3-4	180-195	Verkehrsführung	_	
+3-5	196-199	für	_	
+3-6	200-209	Radfahrer	_	
+3-7	210-214	nach	_	
+3-8	214-215	,	_	
+3-9	216-218	so	_	
+3-10	219-225	landet	_	
+3-11	226-229	man	_	
+3-12	230-236	rechts	_	
+3-13	237-240	von	_	
+3-14	241-244	der	_	
+3-15	245-267	Straßenbahnhaltestelle	_	
+3-16	268-271	und	_	
+3-17	272-276	kann	_	
+3-18	277-280	von	_	
+3-19	281-285	dort	_	
+3-20	286-289	aus	_	
+3-21	290-295	nicht	_	
+3-22	296-300	mehr	_	
+3-23	301-309	sinnvoll	_	
+3-24	310-315	links	_	
+3-25	316-324	abbiegen	_	
+3-26	324-325	.	_	

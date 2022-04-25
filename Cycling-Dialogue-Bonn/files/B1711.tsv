@@ -1,0 +1,47 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg = Gehweg
+1-1	0-6	Radweg	_	
+1-2	7-8	=	_	
+1-3	9-15	Gehweg	_	
+
+#Text=Einen holperigen Gehweg als Radweg auszuweisen ist einfach schlecht.
+2-1	18-23	Einen	_	
+2-2	24-34	holperigen	_	
+2-3	35-41	Gehweg	_	
+2-4	42-45	als	_	
+2-5	46-52	Radweg	_	
+2-6	53-64	auszuweisen	_	
+2-7	65-68	ist	_	
+2-8	69-76	einfach	_	
+2-9	77-85	schlecht	_	
+2-10	85-86	.	_	
+
+#Text=Ich nutze den nicht und fahre immer auf der Straße.
+3-1	87-90	Ich	_	
+3-2	91-96	nutze	_	
+3-3	97-100	den	_	
+3-4	101-106	nicht	_	
+3-5	107-110	und	_	
+3-6	111-116	fahre	_	
+3-7	117-122	immer	_	
+3-8	123-126	auf	_	
+3-9	127-130	der	_	
+3-10	131-137	Straße	_	
+3-11	137-138	.	_	
+
+#Text=Also bitte direkt den Radweg auf die Straße legen.
+4-1	139-143	Also	_	
+4-2	144-149	bitte	_	
+4-3	150-156	direkt	_	
+4-4	157-160	den	_	
+4-5	161-167	Radweg	_	
+4-6	168-171	auf	_	
+4-7	172-175	die	_	
+4-8	176-182	Straße	_	
+4-9	183-188	legen	_	
+4-10	188-189	.	_	

@@ -1,0 +1,100 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße endet an Gehweg
+1-1	0-13	Fahrradstraße	_	
+1-2	14-19	endet	_	
+1-3	20-22	an	_	
+1-4	23-29	Gehweg	_	
+
+#Text=Der vor etwa einem Jahr zur Fahrradstraße umgewidmete Bendenweg geht am östlichen Ende in den Gehweg entlang der Justus-von-Liebig-Straße über, auf dem Radfahrer nur geduldet sind.
+2-1	32-35	Der	_	
+2-2	36-39	vor	_	
+2-3	40-44	etwa	_	
+2-4	45-50	einem	_	
+2-5	51-55	Jahr	_	
+2-6	56-59	zur	_	
+2-7	60-73	Fahrradstraße	_	
+2-8	74-85	umgewidmete	_	
+2-9	86-95	Bendenweg	*[4]	
+2-10	96-100	geht	*[4]	
+2-11	101-103	am	*[4]	
+2-12	104-113	östlichen	*[4]	
+2-13	114-118	Ende	*[4]	
+2-14	119-121	in	*[4]	
+2-15	122-125	den	*[4]	
+2-16	126-132	Gehweg	*[4]	
+2-17	133-140	entlang	*[4]	
+2-18	141-144	der	*[4]	
+2-19	145-169	Justus-von-Liebig-Straße	*[4]	
+2-20	170-174	über	*[4]	
+2-21	174-175	,	_	
+2-22	176-179	auf	_	
+2-23	180-183	dem	_	
+2-24	184-193	Radfahrer	_	
+2-25	194-197	nur	_	
+2-26	198-206	geduldet	_	
+2-27	207-211	sind	_	
+2-28	211-212	.	_	
+
+#Text=Es gibt wegen hoher Bordsteinkanten und Parkreihen in der JvL-Straße keine Möglichkeit, sicher und flüssig in den Verkehr einzufädeln, was aber notwendig ist, wenn man nicht im Schritttempo weiterfahren will (was ich als Distanzpendler von 16Km pro Richtung nicht akzeptieren kann) und wenn man nach links in die Soenneckenstraße abbiegen möchte.
+3-1	213-215	Es	_	
+3-2	216-220	gibt	_	
+3-3	221-226	wegen	_	
+3-4	227-232	hoher	_	
+3-5	233-248	Bordsteinkanten	_	
+3-6	249-252	und	_	
+3-7	253-263	Parkreihen	_	
+3-8	264-266	in	_	
+3-9	267-270	der	_	
+3-10	271-281	JvL-Straße	*	
+3-11	282-287	keine	_	
+3-12	288-299	Möglichkeit	_	
+3-13	299-300	,	_	
+3-14	301-307	sicher	_	
+3-15	308-311	und	_	
+3-16	312-319	flüssig	_	
+3-17	320-322	in	_	
+3-18	323-326	den	_	
+3-19	327-334	Verkehr	_	
+3-20	335-346	einzufädeln	_	
+3-21	346-347	,	_	
+3-22	348-351	was	_	
+3-23	352-356	aber	_	
+3-24	357-366	notwendig	_	
+3-25	367-370	ist	_	
+3-26	370-371	,	_	
+3-27	372-376	wenn	_	
+3-28	377-380	man	_	
+3-29	381-386	nicht	_	
+3-30	387-389	im	_	
+3-31	390-402	Schritttempo	_	
+3-32	403-415	weiterfahren	_	
+3-33	416-420	will	_	
+3-34	421-422	(	_	
+3-35	422-425	was	_	
+3-36	426-429	ich	_	
+3-37	430-433	als	_	
+3-38	434-448	Distanzpendler	_	
+3-39	449-452	von	_	
+3-40	453-457	16Km	_	
+3-41	458-461	pro	_	
+3-42	462-470	Richtung	_	
+3-43	471-476	nicht	_	
+3-44	477-488	akzeptieren	_	
+3-45	489-493	kann	_	
+3-46	493-494	)	_	
+3-47	495-498	und	_	
+3-48	499-503	wenn	_	
+3-49	504-507	man	_	
+3-50	508-512	nach	*[5]	
+3-51	513-518	links	*[5]	
+3-52	519-521	in	*[5]	
+3-53	522-525	die	*[5]	
+3-54	526-542	Soenneckenstraße	*[5]	
+3-55	543-551	abbiegen	*[5]	
+3-56	552-558	möchte	_	
+3-57	558-559	.	_	

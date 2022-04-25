@@ -1,0 +1,65 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelschaltung zu schnell
+1-1	0-14	Ampelschaltung	_	
+1-2	15-17	zu	_	
+1-3	18-25	schnell	_	
+
+#Text=Spring die Ampel gerade auf Orange und man quert man als Radfahrer die Kreuzung von der Karl-Carstens-Strasse in die Winston-Churchill-Straße (oder umgekehrt), wird zu schnell grün auf der gegenüberliegenden Fußgängerampel.
+2-1	28-34	Spring	_	
+2-2	35-38	die	_	
+2-3	39-44	Ampel	_	
+2-4	45-51	gerade	_	
+2-5	52-55	auf	_	
+2-6	56-62	Orange	_	
+2-7	63-66	und	_	
+2-8	67-70	man	_	
+2-9	71-76	quert	_	
+2-10	77-80	man	_	
+2-11	81-84	als	_	
+2-12	85-94	Radfahrer	_	
+2-13	95-98	die	*[4]	
+2-14	99-107	Kreuzung	*[4]	
+2-15	108-111	von	*[4]	
+2-16	112-115	der	*[4]	
+2-17	116-137	Karl-Carstens-Strasse	*[4]	
+2-18	138-140	in	*[4]	
+2-19	141-144	die	*[4]	
+2-20	145-169	Winston-Churchill-Straße	*[4]	
+2-21	170-171	(	_	
+2-22	171-175	oder	_	
+2-23	176-185	umgekehrt	_	
+2-24	185-186	)	_	
+2-25	186-187	,	_	
+2-26	188-192	wird	_	
+2-27	193-195	zu	_	
+2-28	196-203	schnell	_	
+2-29	204-208	grün	_	
+2-30	209-212	auf	_	
+2-31	213-216	der	_	
+2-32	217-235	gegenüberliegenden	_	
+2-33	236-250	Fußgängerampel	_	
+2-34	250-251	.	_	
+
+#Text=Selbst als recht schnell fahrender Radfahrer schafft man es nicht, trotz ordnungsgemäßer Überquerung der Kreuzung.
+3-1	252-258	Selbst	_	
+3-2	259-262	als	_	
+3-3	263-268	recht	_	
+3-4	269-276	schnell	_	
+3-5	277-286	fahrender	_	
+3-6	287-296	Radfahrer	_	
+3-7	297-304	schafft	_	
+3-8	305-308	man	_	
+3-9	309-311	es	_	
+3-10	312-317	nicht	_	
+3-11	317-318	,	_	
+3-12	319-324	trotz	_	
+3-13	325-340	ordnungsgemäßer	_	
+3-14	341-352	Überquerung	_	
+3-15	353-356	der	_	
+3-16	357-365	Kreuzung	_	
+3-17	365-366	.	_	

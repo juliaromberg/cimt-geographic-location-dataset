@@ -1,0 +1,59 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zweirichtungsradwege
+1-1	0-20	Zweirichtungsradwege	_	
+
+#Text=Radwege in zwei Richtungen sind an vielen Stellen gut gemeint, aber nicht gut zu fahren.
+2-1	23-30	Radwege	_	
+2-2	31-33	in	_	
+2-3	34-38	zwei	_	
+2-4	39-49	Richtungen	_	
+2-5	50-54	sind	_	
+2-6	55-57	an	_	
+2-7	58-64	vielen	_	
+2-8	65-72	Stellen	_	
+2-9	73-76	gut	_	
+2-10	77-84	gemeint	_	
+2-11	84-85	,	_	
+2-12	86-90	aber	_	
+2-13	91-96	nicht	_	
+2-14	97-100	gut	_	
+2-15	101-103	zu	_	
+2-16	104-110	fahren	_	
+2-17	110-111	.	_	
+
+#Text=Gegenverkehr, Fußgänger, überholen, lässt sich zu oft nicht ohne Stress und Risiken zusammen bringen.
+3-1	112-124	Gegenverkehr	_	
+3-2	124-125	,	_	
+3-3	126-135	Fußgänger	_	
+3-4	135-136	,	_	
+3-5	137-146	überholen	_	
+3-6	146-147	,	_	
+3-7	148-153	lässt	_	
+3-8	154-158	sich	_	
+3-9	159-161	zu	_	
+3-10	162-165	oft	_	
+3-11	166-171	nicht	_	
+3-12	172-176	ohne	_	
+3-13	177-183	Stress	_	
+3-14	184-187	und	_	
+3-15	188-195	Risiken	_	
+3-16	196-204	zusammen	_	
+3-17	205-212	bringen	_	
+3-18	212-213	.	_	
+
+#Text=Sicherer und entspannter wäre es zwei Radwege zu haben.
+4-1	214-222	Sicherer	_	
+4-2	223-226	und	_	
+4-3	227-238	entspannter	_	
+4-4	239-243	wäre	_	
+4-5	244-246	es	_	
+4-6	247-251	zwei	_	
+4-7	252-259	Radwege	_	
+4-8	260-262	zu	_	
+4-9	263-268	haben	_	
+4-10	268-269	.	_	

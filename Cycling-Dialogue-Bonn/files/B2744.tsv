@@ -1,0 +1,167 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Lärmschutz auf den Autobahnbrücken
+1-1	0-10	Lärmschutz	_	
+1-2	11-14	auf	_	
+1-3	15-18	den	_	
+1-4	19-34	Autobahnbrücken	_	
+
+#Text=Beide Autobahnbrücken stellen in Bonn sehr wichtige Verkehrswege für Radfahrer, aber auch Fußgänger (Läufer, 2- und 3-Brücken-Runde) dar.
+2-1	37-42	Beide	_	
+2-2	43-58	Autobahnbrücken	_	
+2-3	59-66	stellen	_	
+2-4	67-69	in	*[8]	
+2-5	70-74	Bonn	*[8]	
+2-6	75-79	sehr	_	
+2-7	80-88	wichtige	_	
+2-8	89-101	Verkehrswege	_	
+2-9	102-105	für	_	
+2-10	106-115	Radfahrer	_	
+2-11	115-116	,	_	
+2-12	117-121	aber	_	
+2-13	122-126	auch	_	
+2-14	127-136	Fußgänger	_	
+2-15	137-138	(	_	
+2-16	138-144	Läufer	_	
+2-17	144-145	,	_	
+2-18	146-147	2	_	
+2-19	147-148	-	_	
+2-20	149-152	und	_	
+2-21	153-154	3	_	
+2-22	154-155	-	_	
+2-23	155-168	Brücken-Runde	_	
+2-24	168-169	)	_	
+2-25	170-173	dar	_	
+2-26	173-174	.	_	
+
+#Text=Benutzt man sie, ist man aber einer gesundheitsschädigenden Lärmkulisse ausgesetzt.
+3-1	175-182	Benutzt	_	
+3-2	183-186	man	_	
+3-3	187-190	sie	_	
+3-4	190-191	,	_	
+3-5	192-195	ist	_	
+3-6	196-199	man	_	
+3-7	200-204	aber	_	
+3-8	205-210	einer	_	
+3-9	211-234	gesundheitsschädigenden	_	
+3-10	235-246	Lärmkulisse	_	
+3-11	247-257	ausgesetzt	_	
+3-12	257-258	.	_	
+
+#Text=Überquert man die Friedrich-Ebert-Brücke (südliche Seite, von der Beueler Seite her), ist es eine unglaubliche Wohltat, wenn man endlich die Lärmschutzwand erreicht hat, weil es hinter dieser geradezu erholsam ist.
+4-1	259-268	Überquert	_	
+4-2	269-272	man	_	
+4-3	273-276	die	*[9]	
+4-4	277-299	Friedrich-Ebert-Brücke	*[9]	
+4-5	300-301	(	*[9]	
+4-6	301-309	südliche	*[9]	
+4-7	310-315	Seite	*[9]	
+4-8	315-316	,	*[9]	
+4-9	317-320	von	*[9]	
+4-10	321-324	der	*[9]	
+4-11	325-332	Beueler	*[9]	
+4-12	333-338	Seite	*[9]	
+4-13	339-342	her	*[9]	
+4-14	342-343	)	*[9]	
+4-15	343-344	,	_	
+4-16	345-348	ist	_	
+4-17	349-351	es	_	
+4-18	352-356	eine	_	
+4-19	357-369	unglaubliche	_	
+4-20	370-377	Wohltat	_	
+4-21	377-378	,	_	
+4-22	379-383	wenn	_	
+4-23	384-387	man	_	
+4-24	388-395	endlich	_	
+4-25	396-399	die	_	
+4-26	400-414	Lärmschutzwand	_	
+4-27	415-423	erreicht	_	
+4-28	424-427	hat	_	
+4-29	427-428	,	_	
+4-30	429-433	weil	_	
+4-31	434-436	es	_	
+4-32	437-443	hinter	_	
+4-33	444-450	dieser	_	
+4-34	451-459	geradezu	_	
+4-35	460-468	erholsam	_	
+4-36	469-472	ist	_	
+4-37	472-473	.	_	
+
+#Text=Mag sein, dass der Bund der Steuerzahler etwas gegen Lärmschutzwände auf Autobahnbrücken hat: Als Radfahrer und Läufer würde ich sie aber sehr begrüßen.
+5-1	474-477	Mag	_	
+5-2	478-482	sein	_	
+5-3	482-483	,	_	
+5-4	484-488	dass	_	
+5-5	489-492	der	_	
+5-6	493-497	Bund	_	
+5-7	498-501	der	_	
+5-8	502-514	Steuerzahler	_	
+5-9	515-520	etwas	_	
+5-10	521-526	gegen	_	
+5-11	527-542	Lärmschutzwände	_	
+5-12	543-546	auf	_	
+5-13	547-562	Autobahnbrücken	_	
+5-14	563-566	hat	_	
+5-15	566-567	:	_	
+5-16	568-571	Als	_	
+5-17	572-581	Radfahrer	_	
+5-18	582-585	und	_	
+5-19	586-592	Läufer	_	
+5-20	593-598	würde	_	
+5-21	599-602	ich	_	
+5-22	603-606	sie	_	
+5-23	607-611	aber	_	
+5-24	612-616	sehr	_	
+5-25	617-625	begrüßen	_	
+5-26	625-626	.	_	
+
+#Text=Verbesserungsvorschlag: Die Stadt Bonn verdeutlicht Straßen.NRW als Autobahnunterhalter die Bedeutung der Rad- und Fußwege auf den beiden Brücken und fordert entsprechenden Lärmschutz.
+6-1	627-649	Verbesserungsvorschlag	_	
+6-2	649-650	:	_	
+6-3	651-654	Die	_	
+6-4	655-660	Stadt	_	
+6-5	661-665	Bonn	_	
+6-6	666-678	verdeutlicht	_	
+6-7	679-690	Straßen.NRW	_	
+6-8	691-694	als	_	
+6-9	695-714	Autobahnunterhalter	_	
+6-10	715-718	die	_	
+6-11	719-728	Bedeutung	_	
+6-12	729-732	der	_	
+6-13	733-736	Rad	_	
+6-14	736-737	-	_	
+6-15	738-741	und	_	
+6-16	742-749	Fußwege	_	
+6-17	750-753	auf	_	
+6-18	754-757	den	_	
+6-19	758-764	beiden	_	
+6-20	765-772	Brücken	_	
+6-21	773-776	und	_	
+6-22	777-784	fordert	_	
+6-23	785-799	entsprechenden	_	
+6-24	800-810	Lärmschutz	_	
+6-25	810-811	.	_	
+
+#Text=Gegen Lücken bzw. Türen, z.B. wegen Notsituationen bei Verkehrsunfällen, ist dabei nichts einzuwenden.
+7-1	812-817	Gegen	_	
+7-2	818-824	Lücken	_	
+7-3	825-828	bzw	_	
+7-4	828-829	.	_	
+7-5	830-835	Türen	_	
+7-6	835-836	,	_	
+7-7	837-840	z.B	_	
+7-8	840-841	.	_	
+7-9	842-847	wegen	_	
+7-10	848-862	Notsituationen	_	
+7-11	863-866	bei	_	
+7-12	867-883	Verkehrsunfällen	_	
+7-13	883-884	,	_	
+7-14	885-888	ist	_	
+7-15	889-894	dabei	_	
+7-16	895-901	nichts	_	
+7-17	902-913	einzuwenden	_	
+7-18	913-914	.	_	

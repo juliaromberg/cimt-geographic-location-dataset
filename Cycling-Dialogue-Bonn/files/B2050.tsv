@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Poppelsdorfer Allee zum Fahrradschnellweg ausbauen
+1-1	0-13	Poppelsdorfer	*[4]	
+1-2	14-19	Allee	*[4]	
+1-3	20-23	zum	_	
+1-4	24-41	Fahrradschnellweg	_	
+1-5	42-50	ausbauen	_	
+
+#Text=Die Poppelsdorfer Allee bietet sich sehr gut an, Teil eines Fahrradschnellweges zu werden.
+2-1	53-56	Die	*[5]	
+2-2	57-70	Poppelsdorfer	*[5]	
+2-3	71-76	Allee	*[5]	
+2-4	77-83	bietet	_	
+2-5	84-88	sich	_	
+2-6	89-93	sehr	_	
+2-7	94-97	gut	_	
+2-8	98-100	an	_	
+2-9	100-101	,	_	
+2-10	102-106	Teil	_	
+2-11	107-112	eines	_	
+2-12	113-132	Fahrradschnellweges	_	
+2-13	133-135	zu	_	
+2-14	136-142	werden	_	
+2-15	142-143	.	_	
+
+#Text=Entlang der Poppelsdorfer Allee können auf beiden Seiten breite, asphaltierte, je nur für eine Richtung freigegebene Radschnellwege entstehen.
+3-1	144-151	Entlang	*[6]	
+3-2	152-155	der	*[6]	
+3-3	156-169	Poppelsdorfer	*[6]	
+3-4	170-175	Allee	*[6]	
+3-5	176-182	können	_	
+3-6	183-186	auf	_	
+3-7	187-193	beiden	_	
+3-8	194-200	Seiten	_	
+3-9	201-207	breite	_	
+3-10	207-208	,	_	
+3-11	209-221	asphaltierte	_	
+3-12	221-222	,	_	
+3-13	223-225	je	_	
+3-14	226-229	nur	_	
+3-15	230-233	für	_	
+3-16	234-238	eine	_	
+3-17	239-247	Richtung	_	
+3-18	248-260	freigegebene	_	
+3-19	261-275	Radschnellwege	_	
+3-20	276-285	entstehen	_	
+3-21	285-286	.	_	

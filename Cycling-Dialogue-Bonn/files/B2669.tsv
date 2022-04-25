@@ -1,0 +1,136 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Absenkung Fahrbahnkante Talweg zur Kreuzherrenstraße
+1-1	0-9	Absenkung	*[8]	
+1-2	10-23	Fahrbahnkante	*[8]	
+1-3	24-30	Talweg	*[8]	
+1-4	31-34	zur	*[8]	
+1-5	35-52	Kreuzherrenstraße	*[8]	
+
+#Text=An der Einmündung Kreuzherrenstraße/Talweg (Fahrradstraße) ist die Fahrbahnkante abgesenkt.
+2-1	55-57	An	*[9]	
+2-2	58-61	der	*[9]	
+2-3	62-72	Einmündung	*[9]	
+2-4	73-90	Kreuzherrenstraße	*[9]	
+2-5	90-91	/	*[9]	
+2-6	91-97	Talweg	*[9]	
+2-7	98-99	(	*[9]	
+2-8	99-112	Fahrradstraße	*[9]	
+2-9	112-113	)	*[9]	
+2-10	114-117	ist	_	
+2-11	118-121	die	_	
+2-12	122-135	Fahrbahnkante	_	
+2-13	136-145	abgesenkt	_	
+2-14	145-146	.	_	
+
+#Text=Leider jedoch nur über eine Hälfte der Fahrbahnbreite.
+3-1	147-153	Leider	_	
+3-2	154-160	jedoch	_	
+3-3	161-164	nur	_	
+3-4	165-169	über	_	
+3-5	170-174	eine	_	
+3-6	175-181	Hälfte	_	
+3-7	182-185	der	_	
+3-8	186-200	Fahrbahnbreite	_	
+3-9	200-201	.	_	
+
+#Text=Der abgesenkte Bereich wird, da er überhaupt keine Stufe enthält und dadurch sehr sicher und komfortabel ist, von sämtlichen Radlern genutzt, egal in welche Richtung gefahren wird.
+4-1	202-205	Der	_	
+4-2	206-216	abgesenkte	_	
+4-3	217-224	Bereich	_	
+4-4	225-229	wird	_	
+4-5	229-230	,	_	
+4-6	231-233	da	_	
+4-7	234-236	er	_	
+4-8	237-246	überhaupt	_	
+4-9	247-252	keine	_	
+4-10	253-258	Stufe	_	
+4-11	259-266	enthält	_	
+4-12	267-270	und	_	
+4-13	271-278	dadurch	_	
+4-14	279-283	sehr	_	
+4-15	284-290	sicher	_	
+4-16	291-294	und	_	
+4-17	295-306	komfortabel	_	
+4-18	307-310	ist	_	
+4-19	310-311	,	_	
+4-20	312-315	von	_	
+4-21	316-326	sämtlichen	_	
+4-22	327-334	Radlern	_	
+4-23	335-342	genutzt	_	
+4-24	342-343	,	_	
+4-25	344-348	egal	_	
+4-26	349-351	in	_	
+4-27	352-358	welche	_	
+4-28	359-367	Richtung	_	
+4-29	368-376	gefahren	_	
+4-30	377-381	wird	_	
+4-31	381-382	.	_	
+
+#Text=So kommt es immer wieder zu brenzligen Situationen und Beinahe-Zusammenstößen, auch mit Autos, die in den Talweg einfahren.
+5-1	383-385	So	_	
+5-2	386-391	kommt	_	
+5-3	392-394	es	_	
+5-4	395-400	immer	_	
+5-5	401-407	wieder	_	
+5-6	408-410	zu	_	
+5-7	411-421	brenzligen	_	
+5-8	422-433	Situationen	_	
+5-9	434-437	und	_	
+5-10	438-460	Beinahe-Zusammenstößen	_	
+5-11	460-461	,	_	
+5-12	462-466	auch	_	
+5-13	467-470	mit	_	
+5-14	471-476	Autos	_	
+5-15	476-477	,	_	
+5-16	478-481	die	_	
+5-17	482-484	in	_	
+5-18	485-488	den	_	
+5-19	489-495	Talweg	_	
+5-20	496-505	einfahren	_	
+5-21	505-506	.	_	
+
+#Text=Hinzu kommt eine starke Sichtbehinderung durch eine hohe Hecke im Einmündungsbereich.
+6-1	507-512	Hinzu	_	
+6-2	513-518	kommt	_	
+6-3	519-523	eine	_	
+6-4	524-530	starke	_	
+6-5	531-547	Sichtbehinderung	_	
+6-6	548-553	durch	_	
+6-7	554-558	eine	_	
+6-8	559-563	hohe	_	
+6-9	564-569	Hecke	_	
+6-10	570-572	im	_	
+6-11	573-591	Einmündungsbereich	_	
+6-12	591-592	.	_	
+
+#Text=Es wäre sinnvoll, die Absenkung in derselben Art, wie sie bereits über einer Hälfte existiert, über die gesamte Fahrbahnbreite zu erweitern.
+7-1	593-595	Es	_	
+7-2	596-600	wäre	_	
+7-3	601-609	sinnvoll	_	
+7-4	609-610	,	_	
+7-5	611-614	die	_	
+7-6	615-624	Absenkung	_	
+7-7	625-627	in	_	
+7-8	628-637	derselben	_	
+7-9	638-641	Art	_	
+7-10	641-642	,	_	
+7-11	643-646	wie	_	
+7-12	647-650	sie	_	
+7-13	651-658	bereits	_	
+7-14	659-663	über	_	
+7-15	664-669	einer	_	
+7-16	670-676	Hälfte	_	
+7-17	677-686	existiert	_	
+7-18	686-687	,	_	
+7-19	688-692	über	_	
+7-20	693-696	die	_	
+7-21	697-704	gesamte	_	
+7-22	705-719	Fahrbahnbreite	_	
+7-23	720-722	zu	_	
+7-24	723-732	erweitern	_	
+7-25	732-733	.	_	

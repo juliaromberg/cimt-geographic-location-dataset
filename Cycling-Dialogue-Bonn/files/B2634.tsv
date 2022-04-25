@@ -1,0 +1,60 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radstreifen auf die Fahrbahn anstelle des Rauf und Runter auf den holprigen Gehweg.
+1-1	0-11	Radstreifen	_	
+1-2	12-15	auf	_	
+1-3	16-19	die	_	
+1-4	20-28	Fahrbahn	_	
+1-5	29-37	anstelle	_	
+1-6	38-41	des	_	
+1-7	42-46	Rauf	_	
+1-8	47-50	und	_	
+1-9	51-57	Runter	_	
+1-10	58-61	auf	_	
+1-11	62-65	den	_	
+1-12	66-75	holprigen	_	
+1-13	76-82	Gehweg	_	
+1-14	82-83	.	_	
+
+#Text=In der Kurve ein Trennbordstein zwischen Auto- und Fahrradspuren gegen Kurvenschneider
+2-1	84-86	In	_	
+2-2	87-90	der	_	
+2-3	91-96	Kurve	_	
+2-4	97-100	ein	_	
+2-5	101-115	Trennbordstein	_	
+2-6	116-124	zwischen	_	
+2-7	125-129	Auto	_	
+2-8	129-130	-	_	
+2-9	131-134	und	_	
+2-10	135-148	Fahrradspuren	_	
+2-11	149-154	gegen	_	
+2-12	155-170	Kurvenschneider	_	
+
+#Text=Den Radstreifen auf der Endenicher Straße insgesamt sanieren und auf mindestens 2m verbreitern.
+3-1	173-176	Den	_	
+3-2	177-188	Radstreifen	_	
+3-3	189-192	auf	*[5]	
+3-4	193-196	der	*[5]	
+3-5	197-207	Endenicher	*[5]	
+3-6	208-214	Straße	*[5]	
+3-7	215-224	insgesamt	_	
+3-8	225-233	sanieren	_	
+3-9	234-237	und	_	
+3-10	238-241	auf	_	
+3-11	242-252	mindestens	_	
+3-12	253-255	2m	_	
+3-13	256-267	verbreitern	_	
+3-14	267-268	.	_	
+
+#Text=Belag und Breite sind derzeit katastrophal.
+4-1	269-274	Belag	_	
+4-2	275-278	und	_	
+4-3	279-285	Breite	_	
+4-4	286-290	sind	_	
+4-5	291-298	derzeit	_	
+4-6	299-311	katastrophal	_	
+4-7	311-312	.	_	

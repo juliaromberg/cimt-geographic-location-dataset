@@ -1,0 +1,217 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Autos beparken Radweg, der farblich nicht gekennzeichnet ist
+1-1	0-5	Autos	_	
+1-2	6-14	beparken	_	
+1-3	15-21	Radweg	_	
+1-4	21-22	,	_	
+1-5	23-26	der	_	
+1-6	27-35	farblich	_	
+1-7	36-41	nicht	_	
+1-8	42-56	gekennzeichnet	_	
+1-9	57-60	ist	_	
+
+#Text=Seit circa 15 Jahren fahre ich mehrmals wöchentlich von Oberkassel nach Beuel und abends zurück.
+2-1	63-67	Seit	_	
+2-2	68-73	circa	_	
+2-3	74-76	15	_	
+2-4	77-83	Jahren	_	
+2-5	84-89	fahre	_	
+2-6	90-93	ich	_	
+2-7	94-102	mehrmals	_	
+2-8	103-114	wöchentlich	_	
+2-9	115-118	von	*[12]	
+2-10	119-129	Oberkassel	*[12]	
+2-11	130-134	nach	*[12]	
+2-12	135-140	Beuel	*[12]	
+2-13	141-144	und	_	
+2-14	145-151	abends	_	
+2-15	152-158	zurück	_	
+2-16	158-159	.	_	
+
+#Text=Immer parken ca. 20 bis 40 Auto ganz oder teilweise auf dem Radweg, insbesondere in Richtung Beuel.
+3-1	160-165	Immer	_	
+3-2	166-172	parken	_	
+3-3	173-175	ca	_	
+3-4	175-176	.	_	
+3-5	177-179	20	_	
+3-6	180-183	bis	_	
+3-7	184-186	40	_	
+3-8	187-191	Auto	_	
+3-9	192-196	ganz	_	
+3-10	197-201	oder	_	
+3-11	202-211	teilweise	_	
+3-12	212-215	auf	_	
+3-13	216-219	dem	_	
+3-14	220-226	Radweg	_	
+3-15	226-227	,	_	
+3-16	228-240	insbesondere	_	
+3-17	241-243	in	_	
+3-18	244-252	Richtung	*[13]	
+3-19	253-258	Beuel	*[13]	
+3-20	258-259	.	_	
+
+#Text=Im Schnitt habe ich jeweils pro Fahrt ein bis zwei gefährliche Begegnungen mit Fußgängern.
+4-1	260-262	Im	_	
+4-2	263-270	Schnitt	_	
+4-3	271-275	habe	_	
+4-4	276-279	ich	_	
+4-5	280-287	jeweils	_	
+4-6	288-291	pro	_	
+4-7	292-297	Fahrt	_	
+4-8	298-301	ein	_	
+4-9	302-305	bis	_	
+4-10	306-310	zwei	_	
+4-11	311-322	gefährliche	_	
+4-12	323-334	Begegnungen	_	
+4-13	335-338	mit	_	
+4-14	339-349	Fußgängern	_	
+4-15	349-350	.	_	
+
+#Text=Da auf der Straße seit Jahren immer wieder mal gebaut wird, ist dann der zugeparkte Radweg oft komplett nicht nutzbar.
+5-1	351-353	Da	_	
+5-2	354-357	auf	_	
+5-3	358-361	der	_	
+5-4	362-368	Straße	_	
+5-5	369-373	seit	_	
+5-6	374-380	Jahren	_	
+5-7	381-386	immer	_	
+5-8	387-393	wieder	_	
+5-9	394-397	mal	_	
+5-10	398-404	gebaut	_	
+5-11	405-409	wird	_	
+5-12	409-410	,	_	
+5-13	411-414	ist	_	
+5-14	415-419	dann	_	
+5-15	420-423	der	_	
+5-16	424-434	zugeparkte	_	
+5-17	435-441	Radweg	_	
+5-18	442-445	oft	_	
+5-19	446-454	komplett	_	
+5-20	455-460	nicht	_	
+5-21	461-468	nutzbar	_	
+5-22	468-469	.	_	
+
+#Text=Dabei nutzen die Autos fast nie die Breite des Parkplatzes aus, sondern parken einfach halb oder ganz den nicht markierten Fahrradweg zu.
+6-1	470-475	Dabei	_	
+6-2	476-482	nutzen	_	
+6-3	483-486	die	_	
+6-4	487-492	Autos	_	
+6-5	493-497	fast	_	
+6-6	498-501	nie	_	
+6-7	502-505	die	_	
+6-8	506-512	Breite	_	
+6-9	513-516	des	_	
+6-10	517-528	Parkplatzes	_	
+6-11	529-532	aus	_	
+6-12	532-533	,	_	
+6-13	534-541	sondern	_	
+6-14	542-548	parken	_	
+6-15	549-556	einfach	_	
+6-16	557-561	halb	_	
+6-17	562-566	oder	_	
+6-18	567-571	ganz	_	
+6-19	572-575	den	_	
+6-20	576-581	nicht	_	
+6-21	582-592	markierten	_	
+6-22	593-603	Fahrradweg	_	
+6-23	604-606	zu	_	
+6-24	606-607	.	_	
+
+#Text=Das ist auf Google Streetview herausragend gut zu erkennen.
+7-1	608-611	Das	_	
+7-2	612-615	ist	_	
+7-3	616-619	auf	_	
+7-4	620-626	Google	_	
+7-5	627-637	Streetview	_	
+7-6	638-650	herausragend	_	
+7-7	651-654	gut	_	
+7-8	655-657	zu	_	
+7-9	658-666	erkennen	_	
+7-10	666-667	.	_	
+
+#Text=In den ca. 15 Jahren habe ich noch nie (!) ein einziges Auto mit Knöllchen gesehen.
+8-1	668-670	In	_	
+8-2	671-674	den	_	
+8-3	675-677	ca	_	
+8-4	677-678	.	_	
+8-5	679-681	15	_	
+8-6	682-688	Jahren	_	
+8-7	689-693	habe	_	
+8-8	694-697	ich	_	
+8-9	698-702	noch	_	
+8-10	703-706	nie	_	
+8-11	707-708	(	_	
+8-12	708-709	!	_	
+8-13	709-710	)	_	
+8-14	711-714	ein	_	
+8-15	715-723	einziges	_	
+8-16	724-728	Auto	_	
+8-17	729-732	mit	_	
+8-18	733-742	Knöllchen	_	
+8-19	743-750	gesehen	_	
+8-20	750-751	.	_	
+
+#Text=Online-Anzeigen bei der Polizei, die kurioserweise ihre Zentrale direkt an dieser Königswinterer Straße hat, blieben bislang komplett wirkungslos.
+9-1	752-767	Online-Anzeigen	_	
+9-2	768-771	bei	_	
+9-3	772-775	der	_	
+9-4	776-783	Polizei	_	
+9-5	783-784	,	_	
+9-6	785-788	die	_	
+9-7	789-802	kurioserweise	_	
+9-8	803-807	ihre	_	
+9-9	808-816	Zentrale	_	
+9-10	817-823	direkt	_	
+9-11	824-826	an	_	
+9-12	827-833	dieser	_	
+9-13	834-848	Königswinterer	*[14]	
+9-14	849-855	Straße	*[14]	
+9-15	856-859	hat	_	
+9-16	859-860	,	_	
+9-17	861-868	blieben	_	
+9-18	869-876	bislang	_	
+9-19	877-885	komplett	_	
+9-20	886-897	wirkungslos	_	
+9-21	897-898	.	_	
+
+#Text=Der Radweg müsste durch häufig aufgesprühte blaue Räder (= Radwegsymbol) als Radweg erkennbarer sein.
+10-1	899-902	Der	_	
+10-2	903-909	Radweg	_	
+10-3	910-916	müsste	_	
+10-4	917-922	durch	_	
+10-5	923-929	häufig	_	
+10-6	930-942	aufgesprühte	_	
+10-7	943-948	blaue	_	
+10-8	949-954	Räder	_	
+10-9	955-956	(	_	
+10-10	956-957	=	_	
+10-11	958-970	Radwegsymbol	_	
+10-12	970-971	)	_	
+10-13	972-975	als	_	
+10-14	976-982	Radweg	_	
+10-15	983-994	erkennbarer	_	
+10-16	995-999	sein	_	
+10-17	999-1000	.	_	
+
+#Text=Und die Autofahrer - großteils Anwohner - sollten anfänglich Mahnzettel, später konsequent Verwarnungen erhalten.
+11-1	1001-1004	Und	_	
+11-2	1005-1008	die	_	
+11-3	1009-1019	Autofahrer	_	
+11-4	1020-1021	-	_	
+11-5	1022-1031	großteils	_	
+11-6	1032-1040	Anwohner	_	
+11-7	1041-1042	-	_	
+11-8	1043-1050	sollten	_	
+11-9	1051-1061	anfänglich	_	
+11-10	1062-1072	Mahnzettel	_	
+11-11	1072-1073	,	_	
+11-12	1074-1080	später	_	
+11-13	1081-1091	konsequent	_	
+11-14	1092-1104	Verwarnungen	_	
+11-15	1105-1113	erhalten	_	
+11-16	1113-1114	.	_	

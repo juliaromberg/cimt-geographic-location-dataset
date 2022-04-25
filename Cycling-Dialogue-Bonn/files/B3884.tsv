@@ -1,0 +1,34 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=hoher Absatz bei neu gemachtem Radweg
+1-1	0-5	hoher	_	
+1-2	6-12	Absatz	_	
+1-3	13-16	bei	_	
+1-4	17-20	neu	_	
+1-5	21-30	gemachtem	_	
+1-6	31-37	Radweg	_	
+
+#Text=an der Ecke Celsiusstraße ist der Absatz zum Fahrradweg Pascalstraße Richtung Gaußstraße unverhältnismäßig hoch.
+2-1	40-42	an	*[4]	
+2-2	43-46	der	*[4]	
+2-3	47-51	Ecke	*[4]	
+2-4	52-65	Celsiusstraße	*[4]	
+2-5	66-69	ist	_	
+2-6	70-73	der	_	
+2-7	74-80	Absatz	_	
+2-8	81-84	zum	_	
+2-9	85-95	Fahrradweg	*[5]	
+2-10	96-108	Pascalstraße	*[5]	
+2-11	109-117	Richtung	*[5]	
+2-12	118-128	Gaußstraße	*[5]	
+2-13	129-146	unverhältnismäßig	_	
+2-14	147-151	hoch	_	
+2-15	151-152	.	_	
+
+#Text=Sturzgefahr!
+3-1	153-164	Sturzgefahr	_	
+3-2	164-165	!	_	

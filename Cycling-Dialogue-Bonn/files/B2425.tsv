@@ -1,0 +1,95 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Baustellenbeschilderung
+1-1	0-23	Baustellenbeschilderung	_	
+
+#Text=Ein schönes Beispiel für undurchdachte Beschilderungen: Nach Markierung der Fahrradstraßen war an dieser Stelle monatelang Durchfahrt verboten.
+2-1	26-29	Ein	_	
+2-2	30-37	schönes	_	
+2-3	38-46	Beispiel	_	
+2-4	47-50	für	_	
+2-5	51-64	undurchdachte	_	
+2-6	65-80	Beschilderungen	_	
+2-7	80-81	:	_	
+2-8	82-86	Nach	_	
+2-9	87-97	Markierung	_	
+2-10	98-101	der	_	
+2-11	102-116	Fahrradstraßen	_	
+2-12	117-120	war	_	
+2-13	121-123	an	_	
+2-14	124-130	dieser	_	
+2-15	131-137	Stelle	_	
+2-16	138-148	monatelang	_	
+2-17	149-159	Durchfahrt	_	
+2-18	160-168	verboten	_	
+2-19	168-169	.	_	
+
+#Text=Auch jetzt noch steht an der Einmündung Schumannstraße/Weberstraße ein Sperrschild Durchfahrt verboten, Anlieger frei.
+3-1	170-174	Auch	_	
+3-2	175-180	jetzt	_	
+3-3	181-185	noch	_	
+3-4	186-191	steht	_	
+3-5	192-194	an	_	
+3-6	195-198	der	_	
+3-7	199-209	Einmündung	_	
+3-8	210-224	Schumannstraße	_	
+3-9	224-225	/	_	
+3-10	225-236	Weberstraße	_	
+3-11	237-240	ein	_	
+3-12	241-252	Sperrschild	_	
+3-13	253-263	Durchfahrt	_	
+3-14	264-272	verboten	_	
+3-15	272-273	,	_	
+3-16	274-282	Anlieger	_	
+3-17	283-287	frei	_	
+3-18	287-288	.	_	
+
+#Text=Verstoß kostet lt. https://www.deutsche-anwaltshotline.de/rechtsanwalt/baurecht__oeffentliches_/anlieger_frei mindestens 10 EUR Bußgeld.
+4-1	289-296	Verstoß	_	
+4-2	297-303	kostet	_	
+4-3	304-306	lt	_	
+4-4	306-307	.	_	
+4-5	308-313	https	_	
+4-6	313-314	:	_	
+4-7	314-315	/	_	
+4-8	315-316	/	_	
+4-9	316-346	www.deutsche-anwaltshotline.de	_	
+4-10	346-347	/	_	
+4-11	347-359	rechtsanwalt	_	
+4-12	359-360	/	_	
+4-13	360-368	baurecht	_	
+4-14	368-369	_	_	
+4-15	369-370	_	_	
+4-16	370-383	oeffentliches	_	
+4-17	383-384	_	_	
+4-18	384-385	/	_	
+4-19	385-398	anlieger_frei	_	
+4-20	399-409	mindestens	_	
+4-21	410-412	10	_	
+4-22	413-416	EUR	_	
+4-23	417-424	Bußgeld	_	
+4-24	424-425	.	_	
+
+#Text=In der Gegenrichtung steht glaube ich Sackgasse, keine Wendemöglichkeit.
+5-1	426-428	In	_	
+5-2	429-432	der	_	
+5-3	433-446	Gegenrichtung	_	
+5-4	447-452	steht	_	
+5-5	453-459	glaube	_	
+5-6	460-463	ich	_	
+5-7	464-473	Sackgasse	_	
+5-8	473-474	,	_	
+5-9	475-480	keine	_	
+5-10	481-497	Wendemöglichkeit	_	
+5-11	497-498	.	_	
+
+#Text=Ohne Kennzeichnung für Radfahrer.
+6-1	499-503	Ohne	_	
+6-2	504-517	Kennzeichnung	_	
+6-3	518-521	für	_	
+6-4	522-531	Radfahrer	_	
+6-5	531-532	.	_	

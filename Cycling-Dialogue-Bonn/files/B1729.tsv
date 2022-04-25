@@ -1,0 +1,82 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Links abbiegen in Altstadt, wie geht das?
+1-1	0-5	Links	_	
+1-2	6-14	abbiegen	_	
+1-3	15-17	in	_	
+1-4	18-26	Altstadt	*	
+1-5	26-27	,	_	
+1-6	28-31	wie	_	
+1-7	32-36	geht	_	
+1-8	37-40	das	_	
+1-9	40-41	?	_	
+
+#Text=Von der Thomas-Mann-Straße kommend ist es überhaupt nicht ersichtlich, wie ich mich als Radfahrer verhalten soll, wenn ich links in die Altstadt (Breite Straße/Maxstraße) abbiegen will.
+2-1	44-47	Von	*[4]	
+2-2	48-51	der	*[4]	
+2-3	52-70	Thomas-Mann-Straße	*[4]	
+2-4	71-78	kommend	*[4]	
+2-5	79-82	ist	_	
+2-6	83-85	es	_	
+2-7	86-95	überhaupt	_	
+2-8	96-101	nicht	_	
+2-9	102-113	ersichtlich	_	
+2-10	113-114	,	_	
+2-11	115-118	wie	_	
+2-12	119-122	ich	_	
+2-13	123-127	mich	_	
+2-14	128-131	als	_	
+2-15	132-141	Radfahrer	_	
+2-16	142-151	verhalten	_	
+2-17	152-156	soll	_	
+2-18	156-157	,	_	
+2-19	158-162	wenn	_	
+2-20	163-166	ich	_	
+2-21	167-172	links	*[5]	
+2-22	173-175	in	*[5]	
+2-23	176-179	die	*[5]	
+2-24	180-188	Altstadt	*[5]	
+2-25	189-190	(	*[5]	
+2-26	190-196	Breite	*[5]	
+2-27	197-203	Straße	*[5]	
+2-28	203-204	/	*[5]	
+2-29	204-213	Maxstraße	*[5]	
+2-30	213-214	)	*[5]	
+2-31	215-223	abbiegen	*[5]	
+2-32	224-228	will	_	
+2-33	228-229	.	_	
+
+#Text=Auf der Straße scheint dieser Weg nicht vorgesehen zu sein aber absteigen und als Fußgänger über die Ampel gehen kann ja wohl auch nicht der richtige Weg sein.
+3-1	230-233	Auf	_	
+3-2	234-237	der	_	
+3-3	238-244	Straße	_	
+3-4	245-252	scheint	_	
+3-5	253-259	dieser	_	
+3-6	260-263	Weg	_	
+3-7	264-269	nicht	_	
+3-8	270-280	vorgesehen	_	
+3-9	281-283	zu	_	
+3-10	284-288	sein	_	
+3-11	289-293	aber	_	
+3-12	294-303	absteigen	_	
+3-13	304-307	und	_	
+3-14	308-311	als	_	
+3-15	312-321	Fußgänger	_	
+3-16	322-326	über	_	
+3-17	327-330	die	_	
+3-18	331-336	Ampel	_	
+3-19	337-342	gehen	_	
+3-20	343-347	kann	_	
+3-21	348-350	ja	_	
+3-22	351-355	wohl	_	
+3-23	356-360	auch	_	
+3-24	361-366	nicht	_	
+3-25	367-370	der	_	
+3-26	371-379	richtige	_	
+3-27	380-383	Weg	_	
+3-28	384-388	sein	_	
+3-29	388-389	.	_	

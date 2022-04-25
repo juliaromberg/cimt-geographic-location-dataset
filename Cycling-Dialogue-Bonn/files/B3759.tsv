@@ -1,0 +1,101 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Lücken entfernen
+1-1	0-6	Lücken	_	
+1-2	7-16	entfernen	_	
+
+#Text=Stellvertretend für viele Stellen: hier gibt es keinen abschließenden Zusammenfluss aus Bordstein und Fahrradwegpflaster.
+2-1	19-34	Stellvertretend	_	
+2-2	35-38	für	_	
+2-3	39-44	viele	_	
+2-4	45-52	Stellen	_	
+2-5	52-53	:	_	
+2-6	54-58	hier	_	
+2-7	59-63	gibt	_	
+2-8	64-66	es	_	
+2-9	67-73	keinen	_	
+2-10	74-88	abschließenden	_	
+2-11	89-102	Zusammenfluss	_	
+2-12	103-106	aus	_	
+2-13	107-116	Bordstein	_	
+2-14	117-120	und	_	
+2-15	121-139	Fahrradwegpflaster	_	
+2-16	139-140	.	_	
+
+#Text=So gibt es eine Kante/Rille, die für Fahrradfahren gefährlich ist, da man dort schnell hängen bleibt.
+3-1	141-143	So	_	
+3-2	144-148	gibt	_	
+3-3	149-151	es	_	
+3-4	152-156	eine	_	
+3-5	157-162	Kante	_	
+3-6	162-163	/	_	
+3-7	163-168	Rille	_	
+3-8	168-169	,	_	
+3-9	170-173	die	_	
+3-10	174-177	für	_	
+3-11	178-191	Fahrradfahren	_	
+3-12	192-202	gefährlich	_	
+3-13	203-206	ist	_	
+3-14	206-207	,	_	
+3-15	208-210	da	_	
+3-16	211-214	man	_	
+3-17	215-219	dort	_	
+3-18	220-227	schnell	_	
+3-19	228-234	hängen	_	
+3-20	235-241	bleibt	_	
+3-21	241-242	.	_	
+
+#Text=Der geschlossen gepflasterte Weg ist aber zu schmal sobald einem jemand entgegenkommt.
+4-1	243-246	Der	_	
+4-2	247-258	geschlossen	_	
+4-3	259-271	gepflasterte	_	
+4-4	272-275	Weg	_	
+4-5	276-279	ist	_	
+4-6	280-284	aber	_	
+4-7	285-287	zu	_	
+4-8	288-294	schmal	_	
+4-9	295-301	sobald	_	
+4-10	302-307	einem	_	
+4-11	308-314	jemand	_	
+4-12	315-328	entgegenkommt	_	
+4-13	328-329	.	_	
+
+#Text=Hier verweise ich auch noch mal auf meine Idee der App mit der Leute Stellen melden können, die ausgebessert werden müssen, BEVOR es zu stürzen kommt (siehe mein voriger Kommentar)
+5-1	330-334	Hier	_	
+5-2	335-343	verweise	_	
+5-3	344-347	ich	_	
+5-4	348-352	auch	_	
+5-5	353-357	noch	_	
+5-6	358-361	mal	_	
+5-7	362-365	auf	_	
+5-8	366-371	meine	_	
+5-9	372-376	Idee	_	
+5-10	377-380	der	_	
+5-11	381-384	App	_	
+5-12	385-388	mit	_	
+5-13	389-392	der	_	
+5-14	393-398	Leute	_	
+5-15	399-406	Stellen	_	
+5-16	407-413	melden	_	
+5-17	414-420	können	_	
+5-18	420-421	,	_	
+5-19	422-425	die	_	
+5-20	426-438	ausgebessert	_	
+5-21	439-445	werden	_	
+5-22	446-452	müssen	_	
+5-23	452-453	,	_	
+5-24	454-459	BEVOR	_	
+5-25	460-462	es	_	
+5-26	463-465	zu	_	
+5-27	466-473	stürzen	_	
+5-28	474-479	kommt	_	
+5-29	480-481	(	_	
+5-30	481-486	siehe	_	
+5-31	487-491	mein	_	
+5-32	492-499	voriger	_	
+5-33	500-509	Kommentar	_	
+5-34	509-510	)	_	

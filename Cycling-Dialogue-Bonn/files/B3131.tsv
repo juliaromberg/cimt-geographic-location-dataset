@@ -1,0 +1,27 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Benutzungspflicht aufheben
+1-1	0-17	Benutzungspflicht	_	
+1-2	18-26	aufheben	_	
+
+#Text=Benutzungspflicht aufheben - in beiden Richtungen.
+2-1	29-46	Benutzungspflicht	_	
+2-2	47-55	aufheben	_	
+2-3	56-57	-	_	
+2-4	58-60	in	_	
+2-5	61-67	beiden	_	
+2-6	68-78	Richtungen	_	
+2-7	78-79	.	_	
+
+#Text=Die rechtliche Grundlage ist schon lange da
+3-1	80-83	Die	_	
+3-2	84-94	rechtliche	_	
+3-3	95-104	Grundlage	_	
+3-4	105-108	ist	_	
+3-5	109-114	schon	_	
+3-6	115-120	lange	_	
+3-7	121-123	da	_	

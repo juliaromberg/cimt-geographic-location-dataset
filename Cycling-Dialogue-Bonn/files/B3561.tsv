@@ -1,0 +1,85 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Autofahrer ignorieren Verkehrsregeln
+1-1	0-10	Autofahrer	_	
+1-2	11-21	ignorieren	_	
+1-3	22-36	Verkehrsregeln	_	
+
+#Text=In der Angelbisstraße und in der Nonnstraße herrscht Tempo 30.
+2-1	39-41	In	*[8]	
+2-2	42-45	der	*[8]	
+2-3	46-60	Angelbisstraße	*[8]	
+2-4	61-64	und	*[8]	
+2-5	65-67	in	*[8]	
+2-6	68-71	der	*[8]	
+2-7	72-82	Nonnstraße	*[8]	
+2-8	83-91	herrscht	_	
+2-9	92-97	Tempo	_	
+2-10	98-100	30	_	
+2-11	100-101	.	_	
+
+#Text=Leider hält sich kaum jemand daran, ganz im Gegenteil, Autofahrer rasen gerne möglichst schnell durch, ignorieren rechts vor links etc.
+3-1	102-108	Leider	_	
+3-2	109-113	hält	_	
+3-3	114-118	sich	_	
+3-4	119-123	kaum	_	
+3-5	124-130	jemand	_	
+3-6	131-136	daran	_	
+3-7	136-137	,	_	
+3-8	138-142	ganz	_	
+3-9	143-145	im	_	
+3-10	146-155	Gegenteil	_	
+3-11	155-156	,	_	
+3-12	157-167	Autofahrer	_	
+3-13	168-173	rasen	_	
+3-14	174-179	gerne	_	
+3-15	180-189	möglichst	_	
+3-16	190-197	schnell	_	
+3-17	198-203	durch	_	
+3-18	203-204	,	_	
+3-19	205-215	ignorieren	_	
+3-20	216-222	rechts	_	
+3-21	223-226	vor	_	
+3-22	227-232	links	_	
+3-23	233-236	etc	_	
+3-24	236-237	.	_	
+
+#Text=Für FahrradfahrerInnen sehr gefährlich!
+4-1	238-241	Für	_	
+4-2	242-260	FahrradfahrerInnen	_	
+4-3	261-265	sehr	_	
+4-4	266-276	gefährlich	_	
+4-5	276-277	!	_	
+
+#Text=Zudem wohnen viele Kinder in diesem Viertel.
+5-1	278-283	Zudem	_	
+5-2	284-290	wohnen	_	
+5-3	291-296	viele	_	
+5-4	297-303	Kinder	_	
+5-5	304-306	in	_	
+5-6	307-313	diesem	_	
+5-7	314-321	Viertel	_	
+5-8	321-322	.	_	
+
+#Text=Ich wünsche mir eine deutliche Verkehrsberuhigung.
+6-1	323-326	Ich	_	
+6-2	327-334	wünsche	_	
+6-3	335-338	mir	_	
+6-4	339-343	eine	_	
+6-5	344-353	deutliche	_	
+6-6	354-372	Verkehrsberuhigung	_	
+6-7	372-373	.	_	
+
+#Text=Am Besten nur noch für Anwohner öffnen.
+7-1	374-376	Am	_	
+7-2	377-383	Besten	_	
+7-3	384-387	nur	_	
+7-4	388-392	noch	_	
+7-5	393-396	für	_	
+7-6	397-405	Anwohner	_	
+7-7	406-412	öffnen	_	
+7-8	412-413	.	_	

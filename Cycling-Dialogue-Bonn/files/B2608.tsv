@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verlegung des Radweges auf die Straße
+1-1	0-9	Verlegung	_	
+1-2	10-13	des	_	
+1-3	14-22	Radweges	_	
+1-4	23-26	auf	_	
+1-5	27-30	die	_	
+1-6	31-37	Straße	_	
+
+#Text=In diesem Abschnitt ist ein sehr schmaler benutzungspflichtiger Radweg vorhanden.
+2-1	40-42	In	_	
+2-2	43-49	diesem	_	
+2-3	50-59	Abschnitt	_	
+2-4	60-63	ist	_	
+2-5	64-67	ein	_	
+2-6	68-72	sehr	_	
+2-7	73-81	schmaler	_	
+2-8	82-103	benutzungspflichtiger	_	
+2-9	104-110	Radweg	_	
+2-10	111-120	vorhanden	_	
+2-11	120-121	.	_	
+
+#Text=Selbst Begegnungen mit Fußgängern sind kritisch.
+3-1	122-128	Selbst	_	
+3-2	129-140	Begegnungen	_	
+3-3	141-144	mit	_	
+3-4	145-155	Fußgängern	_	
+3-5	156-160	sind	_	
+3-6	161-169	kritisch	_	
+3-7	169-170	.	_	
+
+#Text=Die Straße ist in diesem Bereich sehr breit für eine Fahrspur, somit könnte der Radweg problemlos auf die Straße verlegt werden.
+4-1	171-174	Die	_	
+4-2	175-181	Straße	_	
+4-3	182-185	ist	_	
+4-4	186-188	in	_	
+4-5	189-195	diesem	_	
+4-6	196-203	Bereich	_	
+4-7	204-208	sehr	_	
+4-8	209-214	breit	_	
+4-9	215-218	für	_	
+4-10	219-223	eine	_	
+4-11	224-232	Fahrspur	_	
+4-12	232-233	,	_	
+4-13	234-239	somit	_	
+4-14	240-246	könnte	_	
+4-15	247-250	der	_	
+4-16	251-257	Radweg	_	
+4-17	258-268	problemlos	_	
+4-18	269-272	auf	_	
+4-19	273-276	die	_	
+4-20	277-283	Straße	_	
+4-21	284-291	verlegt	_	
+4-22	292-298	werden	_	
+4-23	298-299	.	_	
+
+#Text=Dies würde auch Linksabbiegen erheblich vereinfachen.
+5-1	300-304	Dies	_	
+5-2	305-310	würde	_	
+5-3	311-315	auch	_	
+5-4	316-329	Linksabbiegen	_	
+5-5	330-339	erheblich	_	
+5-6	340-352	vereinfachen	_	
+5-7	352-353	.	_	

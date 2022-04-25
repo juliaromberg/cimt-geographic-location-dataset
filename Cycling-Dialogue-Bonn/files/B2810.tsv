@@ -1,0 +1,88 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hunde und daddelnde Hundebesitzer
+1-1	0-5	Hunde	_	
+1-2	6-9	und	_	
+1-3	10-19	daddelnde	_	
+1-4	20-33	Hundebesitzer	_	
+
+#Text=Insbesondere freilaufende Hunde, die sich aggressiv gegenüber Radfahrern verhalten, aber auch mit ihrem Handy daddelnde Hundebesitzer gefährden Radfahrer.
+2-1	36-48	Insbesondere	_	
+2-2	49-61	freilaufende	_	
+2-3	62-67	Hunde	_	
+2-4	67-68	,	_	
+2-5	69-72	die	_	
+2-6	73-77	sich	_	
+2-7	78-87	aggressiv	_	
+2-8	88-97	gegenüber	_	
+2-9	98-108	Radfahrern	_	
+2-10	109-118	verhalten	_	
+2-11	118-119	,	_	
+2-12	120-124	aber	_	
+2-13	125-129	auch	_	
+2-14	130-133	mit	_	
+2-15	134-139	ihrem	_	
+2-16	140-145	Handy	_	
+2-17	146-155	daddelnde	_	
+2-18	156-169	Hundebesitzer	_	
+2-19	170-179	gefährden	_	
+2-20	180-189	Radfahrer	_	
+2-21	189-190	.	_	
+
+#Text=Im günstigsten Fall müssen Radfahrer auf diesen Wegen mit Rücksicht auf Fußgänger, Hunde und auch Trecker langsam fahren.
+3-1	191-193	Im	_	
+3-2	194-205	günstigsten	_	
+3-3	206-210	Fall	_	
+3-4	211-217	müssen	_	
+3-5	218-227	Radfahrer	_	
+3-6	228-231	auf	_	
+3-7	232-238	diesen	_	
+3-8	239-244	Wegen	_	
+3-9	245-248	mit	_	
+3-10	249-258	Rücksicht	_	
+3-11	259-262	auf	_	
+3-12	263-272	Fußgänger	_	
+3-13	272-273	,	_	
+3-14	274-279	Hunde	_	
+3-15	280-283	und	_	
+3-16	284-288	auch	_	
+3-17	289-296	Trecker	_	
+3-18	297-304	langsam	_	
+3-19	305-311	fahren	_	
+3-20	311-312	.	_	
+
+#Text=Radfahrer-freundliche Stadt funktioniert nicht, solange Radfahrer keinen eigenen Verkehrsraum haben.
+4-1	313-334	Radfahrer-freundliche	_	
+4-2	335-340	Stadt	_	
+4-3	341-353	funktioniert	_	
+4-4	354-359	nicht	_	
+4-5	359-360	,	_	
+4-6	361-368	solange	_	
+4-7	369-378	Radfahrer	_	
+4-8	379-385	keinen	_	
+4-9	386-393	eigenen	_	
+4-10	394-406	Verkehrsraum	_	
+4-11	407-412	haben	_	
+4-12	412-413	.	_	
+
+#Text=Solange Radfahrer sich Wege mit anderen Verkehrsteilnehmern teilen müssen, werden sie ein Ärgernis sein.
+5-1	414-421	Solange	_	
+5-2	422-431	Radfahrer	_	
+5-3	432-436	sich	_	
+5-4	437-441	Wege	_	
+5-5	442-445	mit	_	
+5-6	446-453	anderen	_	
+5-7	454-473	Verkehrsteilnehmern	_	
+5-8	474-480	teilen	_	
+5-9	481-487	müssen	_	
+5-10	487-488	,	_	
+5-11	489-495	werden	_	
+5-12	496-499	sie	_	
+5-13	500-503	ein	_	
+5-14	504-512	Ärgernis	_	
+5-15	513-517	sein	_	
+5-16	517-518	.	_	

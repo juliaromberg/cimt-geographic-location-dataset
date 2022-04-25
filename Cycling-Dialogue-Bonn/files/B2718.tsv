@@ -1,0 +1,104 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg den Venusberg hinunter
+1-1	0-6	Radweg	_	
+1-2	7-10	den	*[6]	
+1-3	11-20	Venusberg	*[6]	
+1-4	21-29	hinunter	*[6]	
+
+#Text=Wir brauchen dringend einen sicheren Radweg vom Venusberg nach Poppelsdorf, weil die Busse beim Überholen die Geschwindigkeit der Radfahrer nicht richtig einschätzen.
+2-1	32-35	Wir	_	
+2-2	36-44	brauchen	_	
+2-3	45-53	dringend	_	
+2-4	54-59	einen	_	
+2-5	60-68	sicheren	_	
+2-6	69-75	Radweg	_	
+2-7	76-79	vom	*[7]	
+2-8	80-89	Venusberg	*[7]	
+2-9	90-94	nach	*[7]	
+2-10	95-106	Poppelsdorf	*[7]	
+2-11	106-107	,	_	
+2-12	108-112	weil	_	
+2-13	113-116	die	_	
+2-14	117-122	Busse	_	
+2-15	123-127	beim	_	
+2-16	128-137	Überholen	_	
+2-17	138-141	die	_	
+2-18	142-157	Geschwindigkeit	_	
+2-19	158-161	der	_	
+2-20	162-171	Radfahrer	_	
+2-21	172-177	nicht	_	
+2-22	178-185	richtig	_	
+2-23	186-197	einschätzen	_	
+2-24	197-198	.	_	
+
+#Text=Sowohl eine Kollegin als auch ich sind bei der Abfahrt schon geschnitten worden.
+3-1	199-205	Sowohl	_	
+3-2	206-210	eine	_	
+3-3	211-219	Kollegin	_	
+3-4	220-223	als	_	
+3-5	224-228	auch	_	
+3-6	229-232	ich	_	
+3-7	233-237	sind	_	
+3-8	238-241	bei	_	
+3-9	242-245	der	_	
+3-10	246-253	Abfahrt	_	
+3-11	254-259	schon	_	
+3-12	260-271	geschnitten	_	
+3-13	272-278	worden	_	
+3-14	278-279	.	_	
+
+#Text=Auch die Autofahrer fahren nicht langsam und die Strecke ist unübersichtlich und daher gefährlich.
+4-1	280-284	Auch	_	
+4-2	285-288	die	_	
+4-3	289-299	Autofahrer	_	
+4-4	300-306	fahren	_	
+4-5	307-312	nicht	_	
+4-6	313-320	langsam	_	
+4-7	321-324	und	_	
+4-8	325-328	die	_	
+4-9	329-336	Strecke	_	
+4-10	337-340	ist	_	
+4-11	341-356	unübersichtlich	_	
+4-12	357-360	und	_	
+4-13	361-366	daher	_	
+4-14	367-377	gefährlich	_	
+4-15	377-378	.	_	
+
+#Text=Man kann den Nachtigallenweg zwar nehmen, obwohl es ein Umweg ist, muss dann nach der Abfahrt die Robert-Koch-Straße aber in der Kurve überqueren, was auch nicht ungefährlich ist.
+5-1	379-382	Man	_	
+5-2	383-387	kann	_	
+5-3	388-391	den	_	
+5-4	392-407	Nachtigallenweg	*	
+5-5	408-412	zwar	_	
+5-6	413-419	nehmen	_	
+5-7	419-420	,	_	
+5-8	421-427	obwohl	_	
+5-9	428-430	es	_	
+5-10	431-434	ein	_	
+5-11	435-440	Umweg	_	
+5-12	441-444	ist	_	
+5-13	444-445	,	_	
+5-14	446-450	muss	_	
+5-15	451-455	dann	_	
+5-16	456-460	nach	_	
+5-17	461-464	der	_	
+5-18	465-472	Abfahrt	_	
+5-19	473-476	die	*[8]	
+5-20	477-495	Robert-Koch-Straße	*[8]	
+5-21	496-500	aber	_	
+5-22	501-503	in	_	
+5-23	504-507	der	_	
+5-24	508-513	Kurve	_	
+5-25	514-524	überqueren	_	
+5-26	524-525	,	_	
+5-27	526-529	was	_	
+5-28	530-534	auch	_	
+5-29	535-540	nicht	_	
+5-30	541-553	ungefährlich	_	
+5-31	554-557	ist	_	
+5-32	557-558	.	_	

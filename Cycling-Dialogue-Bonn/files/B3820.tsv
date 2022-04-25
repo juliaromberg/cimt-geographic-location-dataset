@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradabsellanlagen sind an Kreuzung erforderlich
+1-1	0-20	Fahrradabsellanlagen	_	
+1-2	21-25	sind	_	
+1-3	26-28	an	_	
+1-4	29-37	Kreuzung	_	
+1-5	38-50	erforderlich	_	
+
+#Text=An dieser Kreuzung parken sehr häufig PKW den kompletten Gehweg zu.
+2-1	53-55	An	_	
+2-2	56-62	dieser	_	
+2-3	63-71	Kreuzung	_	
+2-4	72-78	parken	_	
+2-5	79-83	sehr	_	
+2-6	84-90	häufig	_	
+2-7	91-94	PKW	_	
+2-8	95-98	den	_	
+2-9	99-109	kompletten	_	
+2-10	110-116	Gehweg	_	
+2-11	117-119	zu	_	
+2-12	119-120	.	_	
+
+#Text=Abhilfe würden hier einige Bügel für Räder schaffen, die einerseits dafür sorgen, dass Fahrräder sicher abgestellt werden können (fehlt in der Gegend komplett) und der Gehweg für Fußgänger, Rollifahrer, radfahrende Kinder erhalten bleibt.
+3-1	121-128	Abhilfe	_	
+3-2	129-135	würden	_	
+3-3	136-140	hier	_	
+3-4	141-147	einige	_	
+3-5	148-153	Bügel	_	
+3-6	154-157	für	_	
+3-7	158-163	Räder	_	
+3-8	164-172	schaffen	_	
+3-9	172-173	,	_	
+3-10	174-177	die	_	
+3-11	178-188	einerseits	_	
+3-12	189-194	dafür	_	
+3-13	195-201	sorgen	_	
+3-14	201-202	,	_	
+3-15	203-207	dass	_	
+3-16	208-217	Fahrräder	_	
+3-17	218-224	sicher	_	
+3-18	225-235	abgestellt	_	
+3-19	236-242	werden	_	
+3-20	243-249	können	_	
+3-21	250-251	(	_	
+3-22	251-256	fehlt	_	
+3-23	257-259	in	_	
+3-24	260-263	der	_	
+3-25	264-270	Gegend	_	
+3-26	271-279	komplett	_	
+3-27	279-280	)	_	
+3-28	281-284	und	_	
+3-29	285-288	der	_	
+3-30	289-295	Gehweg	_	
+3-31	296-299	für	_	
+3-32	300-309	Fußgänger	_	
+3-33	309-310	,	_	
+3-34	311-322	Rollifahrer	_	
+3-35	322-323	,	_	
+3-36	324-335	radfahrende	_	
+3-37	336-342	Kinder	_	
+3-38	343-351	erhalten	_	
+3-39	352-358	bleibt	_	
+3-40	358-359	.	_	

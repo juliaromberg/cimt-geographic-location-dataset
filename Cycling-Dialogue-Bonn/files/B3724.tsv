@@ -1,0 +1,124 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kaiserstraße - Zweiwegeradweg zu schmal
+1-1	0-12	Kaiserstraße	*	
+1-2	13-14	-	_	
+1-3	15-29	Zweiwegeradweg	_	
+1-4	30-32	zu	_	
+1-5	33-39	schmal	_	
+
+#Text=Danke für die Möglichkeit mitzusprechen!
+2-1	42-47	Danke	_	
+2-2	48-51	für	_	
+2-3	52-55	die	_	
+2-4	56-67	Möglichkeit	_	
+2-5	68-81	mitzusprechen	_	
+2-6	81-82	!	_	
+
+#Text=Der Radweg auf der Kaiserstraße ist zu schmal und dazu Fahrrad-Hauptverkehrstrecke zwischen Innenstadt und den großen Arbeitgebern (inkl. anstehender Neubau Bonn-Center).
+3-1	83-86	Der	*[8]	
+3-2	87-93	Radweg	*[8]	
+3-3	94-97	auf	*[8]	
+3-4	98-101	der	*[8]	
+3-5	102-114	Kaiserstraße	*[8]	
+3-6	115-118	ist	_	
+3-7	119-121	zu	_	
+3-8	122-128	schmal	_	
+3-9	129-132	und	_	
+3-10	133-137	dazu	_	
+3-11	138-165	Fahrrad-Hauptverkehrstrecke	_	
+3-12	166-174	zwischen	_	
+3-13	175-185	Innenstadt	*	
+3-14	186-189	und	_	
+3-15	190-193	den	_	
+3-16	194-200	großen	_	
+3-17	201-213	Arbeitgebern	_	
+3-18	214-215	(	_	
+3-19	215-219	inkl	_	
+3-20	219-220	.	_	
+3-21	221-232	anstehender	_	
+3-22	233-239	Neubau	_	
+3-23	240-251	Bonn-Center	_	
+3-24	251-252	)	_	
+3-25	252-253	.	_	
+
+#Text=Mit der B9 haben eigentliche alle eiligen PKW eine Ausweichstrecke direkt neben der Kaiserstraße.
+4-1	254-257	Mit	_	
+4-2	258-261	der	_	
+4-3	262-264	B9	*	
+4-4	265-270	haben	_	
+4-5	271-282	eigentliche	_	
+4-6	283-287	alle	_	
+4-7	288-295	eiligen	_	
+4-8	296-299	PKW	_	
+4-9	300-304	eine	_	
+4-10	305-320	Ausweichstrecke	_	
+4-11	321-327	direkt	*[9]	
+4-12	328-333	neben	*[9]	
+4-13	334-337	der	*[9]	
+4-14	338-350	Kaiserstraße	*[9]	
+4-15	350-351	.	_	
+
+#Text=So kann man die gesamte Kaiserstraße unter Einbeziehung des jetzigen Radweges (absenken) zur Fahrradstraße machen.
+5-1	352-354	So	_	
+5-2	355-359	kann	_	
+5-3	360-363	man	_	
+5-4	364-367	die	*[10]	
+5-5	368-375	gesamte	*[10]	
+5-6	376-388	Kaiserstraße	*[10]	
+5-7	389-394	unter	_	
+5-8	395-407	Einbeziehung	_	
+5-9	408-411	des	_	
+5-10	412-420	jetzigen	_	
+5-11	421-429	Radweges	_	
+5-12	430-431	(	_	
+5-13	431-439	absenken	_	
+5-14	439-440	)	_	
+5-15	441-444	zur	_	
+5-16	445-458	Fahrradstraße	_	
+5-17	459-465	machen	_	
+5-18	465-466	.	_	
+
+#Text=Dann bliebe auch genug Platz zum gelegentlichen Überholen von Gast-PKW und für die Buslinien.
+6-1	467-471	Dann	_	
+6-2	472-478	bliebe	_	
+6-3	479-483	auch	_	
+6-4	484-489	genug	_	
+6-5	490-495	Platz	_	
+6-6	496-499	zum	_	
+6-7	500-514	gelegentlichen	_	
+6-8	515-524	Überholen	_	
+6-9	525-528	von	_	
+6-10	529-537	Gast-PKW	_	
+6-11	538-541	und	_	
+6-12	542-545	für	_	
+6-13	546-549	die	_	
+6-14	550-559	Buslinien	_	
+6-15	559-560	.	_	
+
+#Text=Das wäre eine echte Verbesserung (bitte mal selber ausprobieren und zur rush hour mit dem Rad stadteinwärts fahren)!
+7-1	561-564	Das	_	
+7-2	565-569	wäre	_	
+7-3	570-574	eine	_	
+7-4	575-580	echte	_	
+7-5	581-593	Verbesserung	_	
+7-6	594-595	(	_	
+7-7	595-600	bitte	_	
+7-8	601-604	mal	_	
+7-9	605-611	selber	_	
+7-10	612-624	ausprobieren	_	
+7-11	625-628	und	_	
+7-12	629-632	zur	_	
+7-13	633-637	rush	_	
+7-14	638-642	hour	_	
+7-15	643-646	mit	_	
+7-16	647-650	dem	_	
+7-17	651-654	Rad	_	
+7-18	655-668	stadteinwärts	_	
+7-19	669-675	fahren	_	
+7-20	675-676	)	_	
+7-21	676-677	!	_	

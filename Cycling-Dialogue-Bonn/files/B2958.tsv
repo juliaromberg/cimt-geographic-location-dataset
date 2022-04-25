@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrräder im Gegenverkehr
+1-1	0-9	Fahrräder	_	
+1-2	10-12	im	_	
+1-3	13-25	Gegenverkehr	_	
+
+#Text=von der Heerstraße zum Rosental wird man als Fahrradfahrer oft vom Gegenverkehr (Autos) geschnitten.
+2-1	28-31	von	*[5]	
+2-2	32-35	der	*[5]	
+2-3	36-46	Heerstraße	*[5]	
+2-4	47-50	zum	*[5]	
+2-5	51-59	Rosental	*[5]	
+2-6	60-64	wird	_	
+2-7	65-68	man	_	
+2-8	69-72	als	_	
+2-9	73-86	Fahrradfahrer	_	
+2-10	87-90	oft	_	
+2-11	91-94	vom	_	
+2-12	95-107	Gegenverkehr	_	
+2-13	108-109	(	_	
+2-14	109-114	Autos	_	
+2-15	114-115	)	_	
+2-16	116-127	geschnitten	_	
+2-17	127-128	.	_	
+
+#Text=Offensichtlich rechnen die Autos, die aus dem Rosental kommen, nicht mit Gegenverkehr.
+3-1	129-143	Offensichtlich	_	
+3-2	144-151	rechnen	_	
+3-3	152-155	die	_	
+3-4	156-161	Autos	_	
+3-5	161-162	,	_	
+3-6	163-166	die	_	
+3-7	167-170	aus	*[6]	
+3-8	171-174	dem	*[6]	
+3-9	175-183	Rosental	*[6]	
+3-10	184-190	kommen	*[6]	
+3-11	190-191	,	_	
+3-12	192-197	nicht	_	
+3-13	198-201	mit	_	
+3-14	202-214	Gegenverkehr	_	
+3-15	214-215	.	_	
+
+#Text=Hier könnte eine Warnampel installiert werden oder ein Fahrradweg farblich abgesetzt werden - wie bspw. an der Dorotheenstraße Ecke K-K-Ring
+4-1	216-220	Hier	_	
+4-2	221-227	könnte	_	
+4-3	228-232	eine	_	
+4-4	233-242	Warnampel	_	
+4-5	243-254	installiert	_	
+4-6	255-261	werden	_	
+4-7	262-266	oder	_	
+4-8	267-270	ein	_	
+4-9	271-281	Fahrradweg	_	
+4-10	282-290	farblich	_	
+4-11	291-300	abgesetzt	_	
+4-12	301-307	werden	_	
+4-13	308-309	-	_	
+4-14	310-313	wie	_	
+4-15	314-318	bspw	_	
+4-16	318-319	.	_	
+4-17	320-322	an	*[7]	
+4-18	323-326	der	*[7]	
+4-19	327-342	Dorotheenstraße	*[7]	
+4-20	343-347	Ecke	*[7]	
+4-21	348-356	K-K-Ring	*[7]	

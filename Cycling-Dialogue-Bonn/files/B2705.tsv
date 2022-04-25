@@ -1,0 +1,86 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Neumarkierung nach Kanalbau
+1-1	0-13	Neumarkierung	_	
+1-2	14-18	nach	_	
+1-3	19-27	Kanalbau	_	
+
+#Text=An dieser Stelle war vor dem Umbau eine Haltelinie über beide Fahrspuren markiert, da es sich um eine Einbahnstraße handelt.
+2-1	30-32	An	_	
+2-2	33-39	dieser	_	
+2-3	40-46	Stelle	_	
+2-4	47-50	war	_	
+2-5	51-54	vor	_	
+2-6	55-58	dem	_	
+2-7	59-64	Umbau	_	
+2-8	65-69	eine	_	
+2-9	70-80	Haltelinie	_	
+2-10	81-85	über	_	
+2-11	86-91	beide	_	
+2-12	92-102	Fahrspuren	_	
+2-13	103-111	markiert	_	
+2-14	111-112	,	_	
+2-15	113-115	da	_	
+2-16	116-118	es	_	
+2-17	119-123	sich	_	
+2-18	124-126	um	_	
+2-19	127-131	eine	_	
+2-20	132-145	Einbahnstraße	_	
+2-21	146-153	handelt	_	
+2-22	153-154	.	_	
+
+#Text=Dies führte jedoch dazu, dass häufig zwei Autos nebeneinander auf grün warteten und eine Einfahrt vom Bonner Talweg in die freigegebene Einbahnstraße für Fahrräder nicht mehr sicher möglich war.
+3-1	155-159	Dies	_	
+3-2	160-166	führte	_	
+3-3	167-173	jedoch	_	
+3-4	174-178	dazu	_	
+3-5	178-179	,	_	
+3-6	180-184	dass	_	
+3-7	185-191	häufig	_	
+3-8	192-196	zwei	_	
+3-9	197-202	Autos	_	
+3-10	203-216	nebeneinander	_	
+3-11	217-220	auf	_	
+3-12	221-225	grün	_	
+3-13	226-234	warteten	_	
+3-14	235-238	und	_	
+3-15	239-243	eine	_	
+3-16	244-252	Einfahrt	*[5]	
+3-17	253-256	vom	*[5]	
+3-18	257-263	Bonner	*[5]	
+3-19	264-270	Talweg	*[5]	
+3-20	271-273	in	_	
+3-21	274-277	die	_	
+3-22	278-290	freigegebene	_	
+3-23	291-304	Einbahnstraße	_	
+3-24	305-308	für	_	
+3-25	309-318	Fahrräder	_	
+3-26	319-324	nicht	_	
+3-27	325-329	mehr	_	
+3-28	330-336	sicher	_	
+3-29	337-344	möglich	_	
+3-30	345-348	war	_	
+3-31	348-349	.	_	
+
+#Text=Nach Abschluss der Kanalbauarbeiten sollte die alte Markierung nicht wieder hergestellt, sondern fahrradfreundlich angepasst werden.
+4-1	350-354	Nach	_	
+4-2	355-364	Abschluss	_	
+4-3	365-368	der	_	
+4-4	369-385	Kanalbauarbeiten	_	
+4-5	386-392	sollte	_	
+4-6	393-396	die	_	
+4-7	397-401	alte	_	
+4-8	402-412	Markierung	_	
+4-9	413-418	nicht	_	
+4-10	419-425	wieder	_	
+4-11	426-437	hergestellt	_	
+4-12	437-438	,	_	
+4-13	439-446	sondern	_	
+4-14	447-464	fahrradfreundlich	_	
+4-15	465-474	angepasst	_	
+4-16	475-481	werden	_	
+4-17	481-482	.	_	

@@ -1,0 +1,123 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Behinderung der Radfahrer und Fußgänger durch (falsch-)parkende Fahrzeuge
+1-1	0-11	Behinderung	_	
+1-2	12-15	der	_	
+1-3	16-25	Radfahrer	_	
+1-4	26-29	und	_	
+1-5	30-39	Fußgänger	_	
+1-6	40-45	durch	_	
+1-7	46-47	(	_	
+1-8	47-53	falsch	_	
+1-9	53-54	-	_	
+1-10	54-55	)	_	
+1-11	55-63	parkende	_	
+1-12	64-73	Fahrzeuge	_	
+
+#Text=Die an dieser Stelle aufgrund ihrer Zweckbestimmung als Überweg für Fußgänger und Radfahrer gepflasterte kleine Platzfläche neben der Hugo-Eckener-Straße sowie die Wiesen werden regelmäßig durch dort parkende Fahrzeuge blockiert.
+2-1	76-79	Die	_	
+2-2	80-82	an	_	
+2-3	83-89	dieser	_	
+2-4	90-96	Stelle	_	
+2-5	97-105	aufgrund	_	
+2-6	106-111	ihrer	_	
+2-7	112-127	Zweckbestimmung	_	
+2-8	128-131	als	_	
+2-9	132-139	Überweg	_	
+2-10	140-143	für	_	
+2-11	144-153	Fußgänger	_	
+2-12	154-157	und	_	
+2-13	158-167	Radfahrer	_	
+2-14	168-180	gepflasterte	_	
+2-15	181-187	kleine	_	
+2-16	188-199	Platzfläche	_	
+2-17	200-205	neben	*[7]	
+2-18	206-209	der	*[7]	
+2-19	210-229	Hugo-Eckener-Straße	*[7]	
+2-20	230-235	sowie	_	
+2-21	236-239	die	_	
+2-22	240-246	Wiesen	_	
+2-23	247-253	werden	_	
+2-24	254-264	regelmäßig	_	
+2-25	265-270	durch	_	
+2-26	271-275	dort	_	
+2-27	276-284	parkende	_	
+2-28	285-294	Fahrzeuge	_	
+2-29	295-304	blockiert	_	
+2-30	304-305	.	_	
+
+#Text=Der abgesenkte Bordstein wird als Einfahrt zu einem Parkplatz fehlinterbretiert.
+3-1	306-309	Der	_	
+3-2	310-320	abgesenkte	_	
+3-3	321-330	Bordstein	_	
+3-4	331-335	wird	_	
+3-5	336-339	als	_	
+3-6	340-348	Einfahrt	_	
+3-7	349-351	zu	_	
+3-8	352-357	einem	_	
+3-9	358-367	Parkplatz	_	
+3-10	368-385	fehlinterbretiert	_	
+3-11	385-386	.	_	
+
+#Text=Insbesondere freitags gegen 17:30 Uhr ist dort wegen mehrerer dort abgestellter Autos kein Durchkommen mehr.
+4-1	387-399	Insbesondere	_	
+4-2	400-408	freitags	_	
+4-3	409-414	gegen	_	
+4-4	415-417	17	_	
+4-5	417-418	:	_	
+4-6	418-420	30	_	
+4-7	421-424	Uhr	_	
+4-8	425-428	ist	_	
+4-9	429-433	dort	_	
+4-10	434-439	wegen	_	
+4-11	440-448	mehrerer	_	
+4-12	449-453	dort	_	
+4-13	454-466	abgestellter	_	
+4-14	467-472	Autos	_	
+4-15	473-477	kein	_	
+4-16	478-489	Durchkommen	_	
+4-17	490-494	mehr	_	
+4-18	494-495	.	_	
+
+#Text=Zudem werden die angrenzenden unbefestigten Flächen bei den Rangiermanövern stark zerfahren, so dass eine Matschwüste mit tiefen Löchern zurückbleibt.
+5-1	496-501	Zudem	_	
+5-2	502-508	werden	_	
+5-3	509-512	die	_	
+5-4	513-525	angrenzenden	_	
+5-5	526-539	unbefestigten	_	
+5-6	540-547	Flächen	_	
+5-7	548-551	bei	_	
+5-8	552-555	den	_	
+5-9	556-571	Rangiermanövern	_	
+5-10	572-577	stark	_	
+5-11	578-587	zerfahren	_	
+5-12	587-588	,	_	
+5-13	589-591	so	_	
+5-14	592-596	dass	_	
+5-15	597-601	eine	_	
+5-16	602-613	Matschwüste	_	
+5-17	614-617	mit	_	
+5-18	618-624	tiefen	_	
+5-19	625-632	Löchern	_	
+5-20	633-645	zurückbleibt	_	
+5-21	645-646	.	_	
+
+#Text=Abhilfe: Zwei oder drei Poller an der Zufahrt von der Straße aus.
+6-1	647-654	Abhilfe	_	
+6-2	654-655	:	_	
+6-3	656-660	Zwei	_	
+6-4	661-665	oder	_	
+6-5	666-670	drei	_	
+6-6	671-677	Poller	_	
+6-7	678-680	an	_	
+6-8	681-684	der	_	
+6-9	685-692	Zufahrt	_	
+6-10	693-696	von	_	
+6-11	697-700	der	_	
+6-12	701-707	Straße	_	
+6-13	708-711	aus	_	
+6-14	711-712	.	_	

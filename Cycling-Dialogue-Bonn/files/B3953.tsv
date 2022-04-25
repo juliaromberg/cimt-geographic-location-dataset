@@ -1,0 +1,70 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefahrenstelle Tankstelle
+1-1	0-14	Gefahrenstelle	_	
+1-2	15-25	Tankstelle	_	
+
+#Text=Von der Reuterbrücke kommend wird man an der Tankstelle immer wieder von PKW, die zur oder von der Tankstelle fahren, gefährdet.
+2-1	28-31	Von	*[5]	
+2-2	32-35	der	*[5]	
+2-3	36-48	Reuterbrücke	*[5]	
+2-4	49-56	kommend	*[5]	
+2-5	57-61	wird	_	
+2-6	62-65	man	_	
+2-7	66-68	an	_	
+2-8	69-72	der	_	
+2-9	73-83	Tankstelle	_	
+2-10	84-89	immer	_	
+2-11	90-96	wieder	_	
+2-12	97-100	von	_	
+2-13	101-104	PKW	_	
+2-14	104-105	,	_	
+2-15	106-109	die	_	
+2-16	110-113	zur	_	
+2-17	114-118	oder	_	
+2-18	119-122	von	_	
+2-19	123-126	der	_	
+2-20	127-137	Tankstelle	_	
+2-21	138-144	fahren	_	
+2-22	144-145	,	_	
+2-23	146-155	gefährdet	_	
+2-24	155-156	.	_	
+
+#Text=Lediglich ein unauffälliges Piktogramm weist die Autofahrer auf Radfahrer hin.
+3-1	157-166	Lediglich	_	
+3-2	167-170	ein	_	
+3-3	171-184	unauffälliges	_	
+3-4	185-195	Piktogramm	_	
+3-5	196-201	weist	_	
+3-6	202-205	die	_	
+3-7	206-216	Autofahrer	_	
+3-8	217-220	auf	_	
+3-9	221-230	Radfahrer	_	
+3-10	231-234	hin	_	
+3-11	234-235	.	_	
+
+#Text=Hier müsste in rot sowohl auf der Ein- als auch der Ausfahrt deutlich gekennzeichnet werden im Interesse beider.
+4-1	236-240	Hier	_	
+4-2	241-247	müsste	_	
+4-3	248-250	in	_	
+4-4	251-254	rot	_	
+4-5	255-261	sowohl	_	
+4-6	262-265	auf	_	
+4-7	266-269	der	_	
+4-8	270-273	Ein	_	
+4-9	273-274	-	_	
+4-10	275-278	als	_	
+4-11	279-283	auch	_	
+4-12	284-287	der	_	
+4-13	288-296	Ausfahrt	_	
+4-14	297-305	deutlich	_	
+4-15	306-320	gekennzeichnet	_	
+4-16	321-327	werden	_	
+4-17	328-330	im	_	
+4-18	331-340	Interesse	_	
+4-19	341-347	beider	_	
+4-20	347-348	.	_	

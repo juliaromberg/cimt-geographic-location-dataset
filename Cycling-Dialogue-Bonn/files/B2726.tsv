@@ -1,0 +1,157 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radspurmarkierung auf der Hausdorffstr.
+1-1	0-17	Radspurmarkierung	_	
+1-2	18-21	auf	*[7]	
+1-3	22-25	der	*[7]	
+1-4	26-38	Hausdorffstr	*[7]	
+1-5	38-39	.	_	
+
+#Text=Die Markierung des Radwegs auf der Hausdorffstr. zwischen August-Bier- und Reuterstr. wird insbesondere bei hohem Verkehrsaufkommen (etwa im Berufsverkehr) nicht beachtet.
+2-1	42-45	Die	_	
+2-2	46-56	Markierung	_	
+2-3	57-60	des	_	
+2-4	61-68	Radwegs	_	
+2-5	69-72	auf	*[8]	
+2-6	73-76	der	*[8]	
+2-7	77-89	Hausdorffstr	*[8]	
+2-8	89-90	.	*[8]	
+2-9	91-99	zwischen	*[8]	
+2-10	100-111	August-Bier	*[8]	
+2-11	111-112	-	*[8]	
+2-12	113-116	und	*[8]	
+2-13	117-126	Reuterstr	*[8]	
+2-14	126-127	.	_	
+2-15	128-132	wird	_	
+2-16	133-145	insbesondere	_	
+2-17	146-149	bei	_	
+2-18	150-155	hohem	_	
+2-19	156-173	Verkehrsaufkommen	_	
+2-20	174-175	(	_	
+2-21	175-179	etwa	_	
+2-22	180-182	im	_	
+2-23	183-196	Berufsverkehr	_	
+2-24	196-197	)	_	
+2-25	198-203	nicht	_	
+2-26	204-212	beachtet	_	
+2-27	212-213	.	_	
+
+#Text=Der Radweg wird dann, bedingt durch die Enge aufgrund zweier Auto-Fahrspuren, regelmäßig und auf ganzer Länge durch Autos befahren und, bei roter Ampel, zugestellt, so dass man nicht mehr an den Autos vorbeifahren kann.
+3-1	214-217	Der	_	
+3-2	218-224	Radweg	_	
+3-3	225-229	wird	_	
+3-4	230-234	dann	_	
+3-5	234-235	,	_	
+3-6	236-243	bedingt	_	
+3-7	244-249	durch	_	
+3-8	250-253	die	_	
+3-9	254-258	Enge	_	
+3-10	259-267	aufgrund	_	
+3-11	268-274	zweier	_	
+3-12	275-290	Auto-Fahrspuren	_	
+3-13	290-291	,	_	
+3-14	292-302	regelmäßig	_	
+3-15	303-306	und	_	
+3-16	307-310	auf	_	
+3-17	311-317	ganzer	_	
+3-18	318-323	Länge	_	
+3-19	324-329	durch	_	
+3-20	330-335	Autos	_	
+3-21	336-344	befahren	_	
+3-22	345-348	und	_	
+3-23	348-349	,	_	
+3-24	350-353	bei	_	
+3-25	354-359	roter	_	
+3-26	360-365	Ampel	_	
+3-27	365-366	,	_	
+3-28	367-377	zugestellt	_	
+3-29	377-378	,	_	
+3-30	379-381	so	_	
+3-31	382-386	dass	_	
+3-32	387-390	man	_	
+3-33	391-396	nicht	_	
+3-34	397-401	mehr	_	
+3-35	402-404	an	_	
+3-36	405-408	den	_	
+3-37	409-414	Autos	_	
+3-38	415-427	vorbeifahren	_	
+3-39	428-432	kann	_	
+3-40	432-433	.	_	
+
+#Text=Der Radweg hat dann rein kosmetischen Charakter.
+4-1	434-437	Der	_	
+4-2	438-444	Radweg	_	
+4-3	445-448	hat	_	
+4-4	449-453	dann	_	
+4-5	454-458	rein	_	
+4-6	459-471	kosmetischen	_	
+4-7	472-481	Charakter	_	
+4-8	481-482	.	_	
+
+#Text=Die Hausdorffstr. sollte daher in diesem Bereich entweder einspurig geführt werden (genau wie im ganzen Rest der Straße) oder der Radweg sollte mit durchgezogener Linie, die nicht durch Autos überfahren werden darf, und durch rote flächige Markierung von der Straße abgetrennt werden.
+5-1	483-486	Die	*[9]	
+5-2	487-499	Hausdorffstr	*[9]	
+5-3	499-500	.	_	
+5-4	501-507	sollte	_	
+5-5	508-513	daher	_	
+5-6	514-516	in	_	
+5-7	517-523	diesem	_	
+5-8	524-531	Bereich	_	
+5-9	532-540	entweder	_	
+5-10	541-550	einspurig	_	
+5-11	551-558	geführt	_	
+5-12	559-565	werden	_	
+5-13	566-567	(	_	
+5-14	567-572	genau	_	
+5-15	573-576	wie	_	
+5-16	577-579	im	_	
+5-17	580-586	ganzen	_	
+5-18	587-591	Rest	_	
+5-19	592-595	der	_	
+5-20	596-602	Straße	_	
+5-21	602-603	)	_	
+5-22	604-608	oder	_	
+5-23	609-612	der	_	
+5-24	613-619	Radweg	_	
+5-25	620-626	sollte	_	
+5-26	627-630	mit	_	
+5-27	631-645	durchgezogener	_	
+5-28	646-651	Linie	_	
+5-29	651-652	,	_	
+5-30	653-656	die	_	
+5-31	657-662	nicht	_	
+5-32	663-668	durch	_	
+5-33	669-674	Autos	_	
+5-34	675-685	überfahren	_	
+5-35	686-692	werden	_	
+5-36	693-697	darf	_	
+5-37	697-698	,	_	
+5-38	699-702	und	_	
+5-39	703-708	durch	_	
+5-40	709-713	rote	_	
+5-41	714-722	flächige	_	
+5-42	723-733	Markierung	_	
+5-43	734-737	von	_	
+5-44	738-741	der	_	
+5-45	742-748	Straße	_	
+5-46	749-759	abgetrennt	_	
+5-47	760-766	werden	_	
+5-48	766-767	.	_	
+
+#Text=Ein Radweg auf dem Fußweg ist aufgrund dessen Schmalheit nicht praktikabel.
+6-1	768-771	Ein	_	
+6-2	772-778	Radweg	_	
+6-3	779-782	auf	_	
+6-4	783-786	dem	_	
+6-5	787-793	Fußweg	_	
+6-6	794-797	ist	_	
+6-7	798-806	aufgrund	_	
+6-8	807-813	dessen	_	
+6-9	814-824	Schmalheit	_	
+6-10	825-830	nicht	_	
+6-11	831-842	praktikabel	_	
+6-12	842-843	.	_	

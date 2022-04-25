@@ -1,0 +1,95 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einfach mal: Erd- und Grasswuchs entfernen
+1-1	0-7	Einfach	_	
+1-2	8-11	mal	_	
+1-3	11-12	:	_	
+1-4	13-16	Erd	_	
+1-5	16-17	-	_	
+1-6	18-21	und	_	
+1-7	22-32	Grasswuchs	_	
+1-8	33-42	entfernen	_	
+
+#Text=Auf der linksrheinischen Bahnstrecke sollten die Erdansammlung und Grünbewuchs entfernt werden.
+2-1	45-48	Auf	_	
+2-2	49-52	der	_	
+2-3	53-69	linksrheinischen	_	
+2-4	70-81	Bahnstrecke	_	
+2-5	82-89	sollten	_	
+2-6	90-93	die	_	
+2-7	94-107	Erdansammlung	_	
+2-8	108-111	und	_	
+2-9	112-123	Grünbewuchs	_	
+2-10	124-132	entfernt	_	
+2-11	133-139	werden	_	
+2-12	139-140	.	_	
+
+#Text=Diese stehen zwischen der Haltestelle UN-Campus bis zum Obi teilweise 10 - 20cm in die Fahrbahn (in Teilen sowohl links wie rechts des Fahrwegs).
+3-1	141-146	Diese	_	
+3-2	147-153	stehen	_	
+3-3	154-162	zwischen	*[6]	
+3-4	163-166	der	*[6]	
+3-5	167-178	Haltestelle	*[6]	
+3-6	179-188	UN-Campus	*[6]	
+3-7	189-192	bis	*[6]	
+3-8	193-196	zum	*[6]	
+3-9	197-200	Obi	*[6]	
+3-10	201-210	teilweise	_	
+3-11	211-213	10	_	
+3-12	214-215	-	_	
+3-13	216-220	20cm	_	
+3-14	221-223	in	_	
+3-15	224-227	die	_	
+3-16	228-236	Fahrbahn	_	
+3-17	237-238	(	_	
+3-18	238-240	in	_	
+3-19	241-247	Teilen	_	
+3-20	248-254	sowohl	_	
+3-21	255-260	links	_	
+3-22	261-264	wie	_	
+3-23	265-271	rechts	_	
+3-24	272-275	des	_	
+3-25	276-284	Fahrwegs	_	
+3-26	284-285	)	_	
+3-27	285-286	.	_	
+
+#Text=Zur Vermeidung des Überwuchs könnte entweder regelmäßig die Strecke gereinigt werden, und das Überwachsende Grün zurückgeschnitten werden.
+4-1	287-290	Zur	_	
+4-2	291-301	Vermeidung	_	
+4-3	302-305	des	_	
+4-4	306-315	Überwuchs	_	
+4-5	316-322	könnte	_	
+4-6	323-331	entweder	_	
+4-7	332-342	regelmäßig	_	
+4-8	343-346	die	_	
+4-9	347-354	Strecke	_	
+4-10	355-364	gereinigt	_	
+4-11	365-371	werden	_	
+4-12	371-372	,	_	
+4-13	373-376	und	_	
+4-14	377-380	das	_	
+4-15	381-394	Überwachsende	_	
+4-16	395-399	Grün	_	
+4-17	400-417	zurückgeschnitten	_	
+4-18	418-424	werden	_	
+4-19	424-425	.	_	
+
+#Text=Eine bauliche Möglichkeit wäre jeweils links und rechts eine Reihe Platten zu legen.
+5-1	426-430	Eine	_	
+5-2	431-439	bauliche	_	
+5-3	440-451	Möglichkeit	_	
+5-4	452-456	wäre	_	
+5-5	457-464	jeweils	_	
+5-6	465-470	links	_	
+5-7	471-474	und	_	
+5-8	475-481	rechts	_	
+5-9	482-486	eine	_	
+5-10	487-492	Reihe	_	
+5-11	493-500	Platten	_	
+5-12	501-503	zu	_	
+5-13	504-509	legen	_	
+5-14	509-510	.	_	

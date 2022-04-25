@@ -1,0 +1,123 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg auf der Straße belassen
+1-1	0-10	Fahrradweg	_	
+1-2	11-14	auf	_	
+1-3	15-18	der	_	
+1-4	19-25	Straße	_	
+1-5	26-34	belassen	_	
+
+#Text=Die Radverkehrsführung ist eine katastrophal.
+2-1	37-40	Die	_	
+2-2	41-59	Radverkehrsführung	_	
+2-3	60-63	ist	_	
+2-4	64-68	eine	_	
+2-5	69-81	katastrophal	_	
+2-6	81-82	.	_	
+
+#Text=Wenn man als Autofahrer von der Simrockstraße auf die Subbelrather Straße abbiegen will, ist es unmöglich von links kommende Radfahrer zu sehen.
+3-1	83-87	Wenn	_	
+3-2	88-91	man	_	
+3-3	92-95	als	_	
+3-4	96-106	Autofahrer	_	
+3-5	107-110	von	*[8]	
+3-6	111-114	der	*[8]	
+3-7	115-128	Simrockstraße	*[8]	
+3-8	129-132	auf	*[8]	
+3-9	133-136	die	*[8]	
+3-10	137-149	Subbelrather	*[8]	
+3-11	150-156	Straße	*[8]	
+3-12	157-165	abbiegen	_	
+3-13	166-170	will	_	
+3-14	170-171	,	_	
+3-15	172-175	ist	_	
+3-16	176-178	es	_	
+3-17	179-188	unmöglich	_	
+3-18	189-192	von	_	
+3-19	193-198	links	_	
+3-20	199-207	kommende	_	
+3-21	208-217	Radfahrer	_	
+3-22	218-220	zu	_	
+3-23	221-226	sehen	_	
+3-24	226-227	.	_	
+
+#Text=Dabei wird der Radweg an dieser Kreuzung von der Straße auf den Bürgersteig geleitet, so dass man als Autofahrer immer auf diesen Radweg fahren muss, um die Subbelratherstraße auch nur ansatzweise einzusehen.
+4-1	228-233	Dabei	_	
+4-2	234-238	wird	_	
+4-3	239-242	der	_	
+4-4	243-249	Radweg	_	
+4-5	250-252	an	_	
+4-6	253-259	dieser	_	
+4-7	260-268	Kreuzung	_	
+4-8	269-272	von	_	
+4-9	273-276	der	_	
+4-10	277-283	Straße	_	
+4-11	284-287	auf	_	
+4-12	288-291	den	_	
+4-13	292-303	Bürgersteig	_	
+4-14	304-312	geleitet	_	
+4-15	312-313	,	_	
+4-16	314-316	so	_	
+4-17	317-321	dass	_	
+4-18	322-325	man	_	
+4-19	326-329	als	_	
+4-20	330-340	Autofahrer	_	
+4-21	341-346	immer	_	
+4-22	347-350	auf	_	
+4-23	351-357	diesen	_	
+4-24	358-364	Radweg	_	
+4-25	365-371	fahren	_	
+4-26	372-376	muss	_	
+4-27	376-377	,	_	
+4-28	378-380	um	_	
+4-29	381-384	die	_	
+4-30	385-403	Subbelratherstraße	_	
+4-31	404-408	auch	_	
+4-32	409-412	nur	_	
+4-33	413-424	ansatzweise	_	
+4-34	425-435	einzusehen	_	
+4-35	435-436	.	_	
+
+#Text=Das ist für Fahrradfahrer viel zu gefährlich.
+5-1	437-440	Das	_	
+5-2	441-444	ist	_	
+5-3	445-448	für	_	
+5-4	449-462	Fahrradfahrer	_	
+5-5	463-467	viel	_	
+5-6	468-470	zu	_	
+5-7	471-481	gefährlich	_	
+5-8	481-482	.	_	
+
+#Text=Der Radweg muss dringen auf die Straße und dort bleiben bis zur Kreuzung Innere Kanalstraße.
+6-1	483-486	Der	_	
+6-2	487-493	Radweg	_	
+6-3	494-498	muss	_	
+6-4	499-506	dringen	_	
+6-5	507-510	auf	_	
+6-6	511-514	die	_	
+6-7	515-521	Straße	_	
+6-8	522-525	und	_	
+6-9	526-530	dort	_	
+6-10	531-538	bleiben	_	
+6-11	539-542	bis	_	
+6-12	543-546	zur	_	
+6-13	547-555	Kreuzung	*[9]	
+6-14	556-562	Innere	*[9]	
+6-15	563-574	Kanalstraße	*[9]	
+6-16	574-575	.	_	
+
+#Text=Dann wäre dort auch der lebensgefährliche freilaufende Rechtsabbieger Geschichte.
+7-1	576-580	Dann	_	
+7-2	581-585	wäre	_	
+7-3	586-590	dort	_	
+7-4	591-595	auch	_	
+7-5	596-599	der	_	
+7-6	600-617	lebensgefährliche	_	
+7-7	618-630	freilaufende	_	
+7-8	631-645	Rechtsabbieger	_	
+7-9	646-656	Geschichte	_	
+7-10	656-657	.	_	

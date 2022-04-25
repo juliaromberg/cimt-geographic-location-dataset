@@ -1,0 +1,283 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Defizite beim Radklima eingestehen: Fahrradklimatest-Ergebnis!
+1-1	0-8	Defizite	_	
+1-2	9-13	beim	_	
+1-3	14-22	Radklima	_	
+1-4	23-34	eingestehen	_	
+1-5	34-35	:	_	
+1-6	36-61	Fahrradklimatest-Ergebnis	_	
+1-7	61-62	!	_	
+
+#Text=Ich habe das Bonner Stadthaus als Ort gewählt, weil dies passt: Der Raddialog Bonn soll den Dialog zwischen den Bürgerinnen und Bürgern und der Verwaltung starten.
+2-1	65-68	Ich	_	
+2-2	69-73	habe	_	
+2-3	74-77	das	_	
+2-4	78-84	Bonner	*[17]	
+2-5	85-94	Stadthaus	*[17]	
+2-6	95-98	als	_	
+2-7	99-102	Ort	_	
+2-8	103-110	gewählt	_	
+2-9	110-111	,	_	
+2-10	112-116	weil	_	
+2-11	117-121	dies	_	
+2-12	122-127	passt	_	
+2-13	127-128	:	_	
+2-14	129-132	Der	_	
+2-15	133-142	Raddialog	_	
+2-16	143-147	Bonn	*	
+2-17	148-152	soll	_	
+2-18	153-156	den	_	
+2-19	157-163	Dialog	_	
+2-20	164-172	zwischen	_	
+2-21	173-176	den	_	
+2-22	177-188	Bürgerinnen	_	
+2-23	189-192	und	_	
+2-24	193-200	Bürgern	_	
+2-25	201-204	und	_	
+2-26	205-208	der	_	
+2-27	209-219	Verwaltung	_	
+2-28	220-227	starten	_	
+2-29	227-228	.	_	
+
+#Text=Möglicherweise in der Verwaltung nicht bekannt: Ein Dialog ist zweiseitig!
+3-1	229-243	Möglicherweise	_	
+3-2	244-246	in	_	
+3-3	247-250	der	_	
+3-4	251-261	Verwaltung	_	
+3-5	262-267	nicht	_	
+3-6	268-275	bekannt	_	
+3-7	275-276	:	_	
+3-8	277-280	Ein	_	
+3-9	281-287	Dialog	_	
+3-10	288-291	ist	_	
+3-11	292-302	zweiseitig	_	
+3-12	302-303	!	_	
+
+#Text=Beim letzten Fahrradklimatest schnitt Bonn nur noch mit der Schulnote 4,1 ab, nach 3,9 zuvor, siehe https://goo.gl/oUDSsP
+4-1	304-308	Beim	_	
+4-2	309-316	letzten	_	
+4-3	317-333	Fahrradklimatest	_	
+4-4	334-341	schnitt	_	
+4-5	342-346	Bonn	*	
+4-6	347-350	nur	_	
+4-7	351-355	noch	_	
+4-8	356-359	mit	_	
+4-9	360-363	der	_	
+4-10	364-373	Schulnote	_	
+4-11	374-377	4,1	_	
+4-12	378-380	ab	_	
+4-13	380-381	,	_	
+4-14	382-386	nach	_	
+4-15	387-390	3,9	_	
+4-16	391-396	zuvor	_	
+4-17	396-397	,	_	
+4-18	398-403	siehe	_	
+4-19	404-409	https	_	
+4-20	409-410	:	_	
+4-21	410-411	/	_	
+4-22	411-412	/	_	
+4-23	412-418	goo.gl	_	
+4-24	418-419	/	_	
+4-25	419-425	oUDSsP	_	
+
+#Text=Die Verwaltung verschweigt das seit April bekannte Ergebnis, siehe https://goo.gl/JYfyPg
+5-1	426-429	Die	_	
+5-2	430-440	Verwaltung	_	
+5-3	441-452	verschweigt	_	
+5-4	453-456	das	_	
+5-5	457-461	seit	_	
+5-6	462-467	April	_	
+5-7	468-476	bekannte	_	
+5-8	477-485	Ergebnis	_	
+5-9	485-486	,	_	
+5-10	487-492	siehe	_	
+5-11	493-498	https	_	
+5-12	498-499	:	_	
+5-13	499-500	/	_	
+5-14	500-501	/	_	
+5-15	501-507	goo.gl	_	
+5-16	507-508	/	_	
+5-17	508-514	JYfyPg	_	
+
+#Text=Die Verwaltung hat den Fahrradklimaatest weder bekannt gegeben, noch kommentiert.
+6-1	515-518	Die	_	
+6-2	519-529	Verwaltung	_	
+6-3	530-533	hat	_	
+6-4	534-537	den	_	
+6-5	538-555	Fahrradklimaatest	_	
+6-6	556-561	weder	_	
+6-7	562-569	bekannt	_	
+6-8	570-577	gegeben	_	
+6-9	577-578	,	_	
+6-10	579-583	noch	_	
+6-11	584-595	kommentiert	_	
+6-12	595-596	.	_	
+
+#Text=Das Ziel 2020 Fahrrad-HAUPTSTADT zu werden ist angesichts von mittlerweile über 400 (!!!) besser bewerteten Städten totale Realitätsverweigerung.
+7-1	597-600	Das	_	
+7-2	601-605	Ziel	_	
+7-3	606-610	2020	_	
+7-4	611-629	Fahrrad-HAUPTSTADT	_	
+7-5	630-632	zu	_	
+7-6	633-639	werden	_	
+7-7	640-643	ist	_	
+7-8	644-654	angesichts	_	
+7-9	655-658	von	_	
+7-10	659-671	mittlerweile	_	
+7-11	672-676	über	_	
+7-12	677-680	400	_	
+7-13	681-682	(	_	
+7-14	682-683	!	_	
+7-15	683-684	!	_	
+7-16	684-685	!	_	
+7-17	685-686	)	_	
+7-18	687-693	besser	_	
+7-19	694-704	bewerteten	_	
+7-20	705-712	Städten	_	
+7-21	713-719	totale	_	
+7-22	720-741	Realitätsverweigerung	_	
+7-23	741-742	.	_	
+
+#Text=Die Rad-Defizite in Bonn sind gigantisch.
+8-1	743-746	Die	_	
+8-2	747-759	Rad-Defizite	_	
+8-3	760-762	in	*[18]	
+8-4	763-767	Bonn	*[18]	
+8-5	768-772	sind	_	
+8-6	773-783	gigantisch	_	
+8-7	783-784	.	_	
+
+#Text=Die in Vergangenheit und Gegenwart eingesetzten Finanzmittel für den Radverkehr sind im Deutschlandvergleich viel zu wenig.
+9-1	785-788	Die	_	
+9-2	789-791	in	_	
+9-3	792-805	Vergangenheit	_	
+9-4	806-809	und	_	
+9-5	810-819	Gegenwart	_	
+9-6	820-832	eingesetzten	_	
+9-7	833-845	Finanzmittel	_	
+9-8	846-849	für	_	
+9-9	850-853	den	_	
+9-10	854-864	Radverkehr	_	
+9-11	865-869	sind	_	
+9-12	870-872	im	_	
+9-13	873-893	Deutschlandvergleich	_	
+9-14	894-898	viel	_	
+9-15	899-901	zu	_	
+9-16	902-907	wenig	_	
+9-17	907-908	.	_	
+
+#Text=Die Umsetzungsgeschwindigkeit von Verbesserungen in Bonn ist katastrophal: So sollte es nach 2012-Konzept in 2017 zwei Hbf-Radstationen mit 1250 Stellplätzen geben.
+10-1	909-912	Die	_	
+10-2	913-938	Umsetzungsgeschwindigkeit	_	
+10-3	939-942	von	_	
+10-4	943-957	Verbesserungen	_	
+10-5	958-960	in	*[19]	
+10-6	961-965	Bonn	*[19]	
+10-7	966-969	ist	_	
+10-8	970-982	katastrophal	_	
+10-9	982-983	:	_	
+10-10	984-986	So	_	
+10-11	987-993	sollte	_	
+10-12	994-996	es	_	
+10-13	997-1001	nach	_	
+10-14	1002-1006	2012	_	
+10-15	1006-1007	-	_	
+10-16	1007-1014	Konzept	_	
+10-17	1015-1017	in	_	
+10-18	1018-1022	2017	_	
+10-19	1023-1027	zwei	_	
+10-20	1028-1044	Hbf-Radstationen	*	
+10-21	1045-1048	mit	_	
+10-22	1049-1053	1250	_	
+10-23	1054-1066	Stellplätzen	_	
+10-24	1067-1072	geben	_	
+10-25	1072-1073	.	_	
+
+#Text=Die Realität: Bis 2020 wird es nur eine Radstation mit nur 550 Plätzen geben.
+11-1	1074-1077	Die	_	
+11-2	1078-1086	Realität	_	
+11-3	1086-1087	:	_	
+11-4	1088-1091	Bis	_	
+11-5	1092-1096	2020	_	
+11-6	1097-1101	wird	_	
+11-7	1102-1104	es	_	
+11-8	1105-1108	nur	_	
+11-9	1109-1113	eine	_	
+11-10	1114-1124	Radstation	_	
+11-11	1125-1128	mit	_	
+11-12	1129-1132	nur	_	
+11-13	1133-1136	550	_	
+11-14	1137-1144	Plätzen	_	
+11-15	1145-1150	geben	_	
+11-16	1150-1151	.	_	
+
+#Text=Zudem auf der miserabel erreichbaren Hbf-Rückseite.
+12-1	1152-1157	Zudem	_	
+12-2	1158-1161	auf	_	
+12-3	1162-1165	der	_	
+12-4	1166-1175	miserabel	_	
+12-5	1176-1188	erreichbaren	_	
+12-6	1189-1202	Hbf-Rückseite	*	
+12-7	1202-1203	.	_	
+
+#Text=Unverändert fehlen in jegliche Richtung Radschnellwege in Bonn.
+13-1	1204-1215	Unverändert	_	
+13-2	1216-1222	fehlen	_	
+13-3	1223-1225	in	_	
+13-4	1226-1234	jegliche	_	
+13-5	1235-1243	Richtung	_	
+13-6	1244-1258	Radschnellwege	_	
+13-7	1259-1261	in	*[20]	
+13-8	1262-1266	Bonn	*[20]	
+13-9	1266-1267	.	_	
+
+#Text=Radstrecken selbst zu großen Zielen (St. Augustin, Godesberg, Nord-Süd, West-Ost) sind ausnahmlos Stückwerk mit xxx-Unterbrechungen auf zu schmalen Wegen.
+14-1	1268-1279	Radstrecken	_	
+14-2	1280-1286	selbst	_	
+14-3	1287-1289	zu	_	
+14-4	1290-1296	großen	_	
+14-5	1297-1303	Zielen	_	
+14-6	1304-1305	(	_	
+14-7	1305-1307	St	*[21]	
+14-8	1307-1308	.	*[21]	
+14-9	1309-1317	Augustin	*[21]	
+14-10	1317-1318	,	*[21]	
+14-11	1319-1328	Godesberg	*[21]	
+14-12	1328-1329	,	_	
+14-13	1330-1338	Nord-Süd	_	
+14-14	1338-1339	,	_	
+14-15	1340-1348	West-Ost	_	
+14-16	1348-1349	)	_	
+14-17	1350-1354	sind	_	
+14-18	1355-1365	ausnahmlos	_	
+14-19	1366-1375	Stückwerk	_	
+14-20	1376-1379	mit	_	
+14-21	1380-1399	xxx-Unterbrechungen	_	
+14-22	1400-1403	auf	_	
+14-23	1404-1406	zu	_	
+14-24	1407-1415	schmalen	_	
+14-25	1416-1421	Wegen	_	
+14-26	1421-1422	.	_	
+
+#Text=Autoverkehr genießt in der Verwaltungsrealität unverändert totale Priorität.
+15-1	1423-1434	Autoverkehr	_	
+15-2	1435-1442	genießt	_	
+15-3	1443-1445	in	_	
+15-4	1446-1449	der	_	
+15-5	1450-1469	Verwaltungsrealität	_	
+15-6	1470-1481	unverändert	_	
+15-7	1482-1488	totale	_	
+15-8	1489-1498	Priorität	_	
+15-9	1498-1499	.	_	
+
+#Text=Gesteht euch das ein.
+16-1	1500-1507	Gesteht	_	
+16-2	1508-1512	euch	_	
+16-3	1513-1516	das	_	
+16-4	1517-1520	ein	_	
+16-5	1520-1521	.	_	

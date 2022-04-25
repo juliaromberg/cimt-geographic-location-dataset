@@ -1,0 +1,197 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rheinufer-Radweg breiter
+1-1	0-16	Rheinufer-Radweg	_	
+1-2	17-24	breiter	_	
+
+#Text=Der Rheinufer-Radweg ist Teil des Rheinradwegs von Basel nach Rotterdam und einer Deutschland-Radfernroute.
+2-1	27-30	Der	_	
+2-2	31-47	Rheinufer-Radweg	_	
+2-3	48-51	ist	_	
+2-4	52-56	Teil	_	
+2-5	57-60	des	_	
+2-6	61-73	Rheinradwegs	_	
+2-7	74-77	von	*[10]	
+2-8	78-83	Basel	*[10]	
+2-9	84-88	nach	*[10]	
+2-10	89-98	Rotterdam	*[10]	
+2-11	99-102	und	_	
+2-12	103-108	einer	_	
+2-13	109-133	Deutschland-Radfernroute	_	
+2-14	133-134	.	_	
+
+#Text=Für das schon jezt vorhandene Rasdverkehrsaufkommen ist er insbesondere zwischen Rheingasse und Erste Fährgasse eindeutig zu schmal.
+3-1	135-138	Für	_	
+3-2	139-142	das	_	
+3-3	143-148	schon	_	
+3-4	149-153	jezt	_	
+3-5	154-164	vorhandene	_	
+3-6	165-186	Rasdverkehrsaufkommen	_	
+3-7	187-190	ist	_	
+3-8	191-193	er	_	
+3-9	194-206	insbesondere	_	
+3-10	207-215	zwischen	_	
+3-11	216-226	Rheingasse	_	
+3-12	227-230	und	_	
+3-13	231-236	Erste	_	
+3-14	237-246	Fährgasse	_	
+3-15	247-256	eindeutig	_	
+3-16	257-259	zu	_	
+3-17	260-266	schmal	_	
+3-18	266-267	.	_	
+
+#Text=Der Weg sollte auf dem Abschnitt zwischen Zweiter Fährgasse und Hermann-Ehlers-Straße einheitlich 4,00 m breit sein - so wie jetzt am Stresemann-Ufer ( derzeit ständig wechselnde Breite ).
+4-1	268-271	Der	_	
+4-2	272-275	Weg	_	
+4-3	276-282	sollte	_	
+4-4	283-286	auf	_	
+4-5	287-290	dem	_	
+4-6	291-300	Abschnitt	_	
+4-7	301-309	zwischen	*[11]	
+4-8	310-317	Zweiter	*[11]	
+4-9	318-327	Fährgasse	*[11]	
+4-10	328-331	und	*[11]	
+4-11	332-353	Hermann-Ehlers-Straße	*[11]	
+4-12	354-365	einheitlich	_	
+4-13	366-370	4,00	_	
+4-14	371-372	m	_	
+4-15	373-378	breit	_	
+4-16	379-383	sein	_	
+4-17	384-385	-	_	
+4-18	386-388	so	_	
+4-19	389-392	wie	_	
+4-20	393-398	jetzt	_	
+4-21	399-401	am	_	
+4-22	402-417	Stresemann-Ufer	_	
+4-23	418-419	(	_	
+4-24	420-427	derzeit	_	
+4-25	428-435	ständig	_	
+4-26	436-446	wechselnde	_	
+4-27	447-453	Breite	_	
+4-28	454-455	)	_	
+4-29	455-456	.	_	
+
+#Text=Der Fußgängerverkehr muss auf den daneben liegenden Weg direkt an der Uferkante verwiesen werden.
+5-1	457-460	Der	_	
+5-2	461-477	Fußgängerverkehr	_	
+5-3	478-482	muss	_	
+5-4	483-486	auf	_	
+5-5	487-490	den	_	
+5-6	491-498	daneben	_	
+5-7	499-508	liegenden	_	
+5-8	509-512	Weg	_	
+5-9	513-519	direkt	_	
+5-10	520-522	an	_	
+5-11	523-526	der	_	
+5-12	527-536	Uferkante	_	
+5-13	537-546	verwiesen	_	
+5-14	547-553	werden	_	
+5-15	553-554	.	_	
+
+#Text=Im Abschnitt zwischen Erste und Zweite Fährgasse sollte der Weg in Nord-Süd-Richtung wie bisher auf dem Bordstein-Radweg geführt werden, in Gegenrichtung zwischen den Bäumen - hier zusätzlich asphaltieren.
+6-1	555-557	Im	_	
+6-2	558-567	Abschnitt	_	
+6-3	568-576	zwischen	*[12]	
+6-4	577-582	Erste	*[12]	
+6-5	583-586	und	*[12]	
+6-6	587-593	Zweite	*[12]	
+6-7	594-603	Fährgasse	*[12]	
+6-8	604-610	sollte	_	
+6-9	611-614	der	_	
+6-10	615-618	Weg	_	
+6-11	619-621	in	_	
+6-12	622-639	Nord-Süd-Richtung	_	
+6-13	640-643	wie	_	
+6-14	644-650	bisher	_	
+6-15	651-654	auf	_	
+6-16	655-658	dem	_	
+6-17	659-675	Bordstein-Radweg	_	
+6-18	676-683	geführt	_	
+6-19	684-690	werden	_	
+6-20	690-691	,	_	
+6-21	692-694	in	_	
+6-22	695-708	Gegenrichtung	_	
+6-23	709-717	zwischen	_	
+6-24	718-721	den	_	
+6-25	722-728	Bäumen	_	
+6-26	729-730	-	_	
+6-27	731-735	hier	_	
+6-28	736-746	zusätzlich	_	
+6-29	747-759	asphaltieren	_	
+6-30	759-760	.	_	
+
+#Text=Zwischen Erste Fährgasse und Rheingasse wird die Fahrbahn der Straße Brassertuifer auf die Hälfte reduziert und zur Einbahnstraße in Nord-Süd-Richtung.
+7-1	761-769	Zwischen	*[13]	
+7-2	770-775	Erste	*[13]	
+7-3	776-785	Fährgasse	*[13]	
+7-4	786-789	und	*[13]	
+7-5	790-800	Rheingasse	*[13]	
+7-6	801-805	wird	_	
+7-7	806-809	die	_	
+7-8	810-818	Fahrbahn	_	
+7-9	819-822	der	_	
+7-10	823-829	Straße	*[14]	
+7-11	830-843	Brassertuifer	*[14]	
+7-12	844-847	auf	_	
+7-13	848-851	die	_	
+7-14	852-858	Hälfte	_	
+7-15	859-868	reduziert	_	
+7-16	869-872	und	_	
+7-17	873-876	zur	_	
+7-18	877-890	Einbahnstraße	_	
+7-19	891-893	in	_	
+7-20	894-911	Nord-Süd-Richtung	_	
+7-21	911-912	.	_	
+
+#Text=Die östliche Fahrbahnhälfte wird durch einen Fahrbahnteiler abgetrennt und für den Radverkehr in Nord-Süd-Richtung markiert.
+8-1	913-916	Die	_	
+8-2	917-925	östliche	_	
+8-3	926-940	Fahrbahnhälfte	_	
+8-4	941-945	wird	_	
+8-5	946-951	durch	_	
+8-6	952-957	einen	_	
+8-7	958-972	Fahrbahnteiler	_	
+8-8	973-983	abgetrennt	_	
+8-9	984-987	und	_	
+8-10	988-991	für	_	
+8-11	992-995	den	_	
+8-12	996-1006	Radverkehr	_	
+8-13	1007-1009	in	_	
+8-14	1010-1027	Nord-Süd-Richtung	_	
+8-15	1028-1036	markiert	_	
+8-16	1036-1037	.	_	
+
+#Text=Der Radverkehr in Süd-Nord-Richtung bleibt auf dem schon vorhandenen Bordstein-Radweg, der für einen Fahrrad-Begegnungs-verkehr angesichts der Bedeutung dieser Verbindung (s.o.) viel zu schmal ist.
+9-1	1038-1041	Der	_	
+9-2	1042-1052	Radverkehr	_	
+9-3	1053-1055	in	_	
+9-4	1056-1073	Süd-Nord-Richtung	_	
+9-5	1074-1080	bleibt	_	
+9-6	1081-1084	auf	_	
+9-7	1085-1088	dem	_	
+9-8	1089-1094	schon	_	
+9-9	1095-1106	vorhandenen	_	
+9-10	1107-1123	Bordstein-Radweg	_	
+9-11	1123-1124	,	_	
+9-12	1125-1128	der	_	
+9-13	1129-1132	für	_	
+9-14	1133-1138	einen	_	
+9-15	1139-1165	Fahrrad-Begegnungs-verkehr	_	
+9-16	1166-1176	angesichts	_	
+9-17	1177-1180	der	_	
+9-18	1181-1190	Bedeutung	_	
+9-19	1191-1197	dieser	_	
+9-20	1198-1208	Verbindung	_	
+9-21	1209-1210	(	_	
+9-22	1210-1213	s.o	_	
+9-23	1213-1214	.	_	
+9-24	1214-1215	)	_	
+9-25	1216-1220	viel	_	
+9-26	1221-1223	zu	_	
+9-27	1224-1230	schmal	_	
+9-28	1231-1234	ist	_	
+9-29	1234-1235	.	_	

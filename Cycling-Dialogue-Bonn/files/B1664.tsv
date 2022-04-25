@@ -1,0 +1,84 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Grünüberwuchs im Schutzstreifen
+1-1	0-13	Grünüberwuchs	_	
+1-2	14-16	im	_	
+1-3	17-31	Schutzstreifen	_	
+
+#Text=Der Schutzstreifen ist an vielen Stellen zugewachsen.
+2-1	34-37	Der	_	
+2-2	38-52	Schutzstreifen	_	
+2-3	53-56	ist	_	
+2-4	57-59	an	_	
+2-5	60-66	vielen	_	
+2-6	67-74	Stellen	_	
+2-7	75-86	zugewachsen	_	
+2-8	86-87	.	_	
+
+#Text=Unkundige Radfahrende haben im unübersichtlichen Kurvenbereich dann plötzlich ein Hindernis vor sich und müssen spontan nach links ausweichen.
+3-1	88-97	Unkundige	_	
+3-2	98-109	Radfahrende	_	
+3-3	110-115	haben	_	
+3-4	116-118	im	_	
+3-5	119-136	unübersichtlichen	_	
+3-6	137-150	Kurvenbereich	_	
+3-7	151-155	dann	_	
+3-8	156-165	plötzlich	_	
+3-9	166-169	ein	_	
+3-10	170-179	Hindernis	_	
+3-11	180-183	vor	_	
+3-12	184-188	sich	_	
+3-13	189-192	und	_	
+3-14	193-199	müssen	_	
+3-15	200-207	spontan	_	
+3-16	208-212	nach	_	
+3-17	213-218	links	_	
+3-18	219-229	ausweichen	_	
+3-19	229-230	.	_	
+
+#Text=Überholt dort gerade ein PKW, kann das sehr gefährlich werden.
+4-1	231-239	Überholt	_	
+4-2	240-244	dort	_	
+4-3	245-251	gerade	_	
+4-4	252-255	ein	_	
+4-5	256-259	PKW	_	
+4-6	259-260	,	_	
+4-7	261-265	kann	_	
+4-8	266-269	das	_	
+4-9	270-274	sehr	_	
+4-10	275-285	gefährlich	_	
+4-11	286-292	werden	_	
+4-12	292-293	.	_	
+
+#Text=Die Stadt reagierte leider auf eine Mängelmeldung nur mit dem Hinweis, dass es sich nicht um städtisches Gelände handele und sie daher nicht zuständig sei.
+5-1	294-297	Die	_	
+5-2	298-303	Stadt	_	
+5-3	304-313	reagierte	_	
+5-4	314-320	leider	_	
+5-5	321-324	auf	_	
+5-6	325-329	eine	_	
+5-7	330-343	Mängelmeldung	_	
+5-8	344-347	nur	_	
+5-9	348-351	mit	_	
+5-10	352-355	dem	_	
+5-11	356-363	Hinweis	_	
+5-12	363-364	,	_	
+5-13	365-369	dass	_	
+5-14	370-372	es	_	
+5-15	373-377	sich	_	
+5-16	378-383	nicht	_	
+5-17	384-386	um	_	
+5-18	387-398	städtisches	_	
+5-19	399-406	Gelände	_	
+5-20	407-414	handele	_	
+5-21	415-418	und	_	
+5-22	419-422	sie	_	
+5-23	423-428	daher	_	
+5-24	429-434	nicht	_	
+5-25	435-444	zuständig	_	
+5-26	445-448	sei	_	
+5-27	448-449	.	_	

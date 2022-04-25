@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ständig haltende Autos auf dem Radweg
+1-1	0-7	Ständig	_	
+1-2	8-16	haltende	_	
+1-3	17-22	Autos	_	
+1-4	23-26	auf	_	
+1-5	27-30	dem	_	
+1-6	31-37	Radweg	_	
+
+#Text=In der Quantiusstraße hinter dem HBF halten unentwegt Autos auf dem Radfahrstreifen und warten dort auf abzuholende Personen.
+2-1	40-42	In	*[5]	
+2-2	43-46	der	*[5]	
+2-3	47-61	Quantiusstraße	*[5]	
+2-4	62-68	hinter	*[5]	
+2-5	69-72	dem	*[5]	
+2-6	73-76	HBF	*[5]	
+2-7	77-83	halten	_	
+2-8	84-93	unentwegt	_	
+2-9	94-99	Autos	_	
+2-10	100-103	auf	_	
+2-11	104-107	dem	_	
+2-12	108-123	Radfahrstreifen	_	
+2-13	124-127	und	_	
+2-14	128-134	warten	_	
+2-15	135-139	dort	_	
+2-16	140-143	auf	_	
+2-17	144-155	abzuholende	_	
+2-18	156-164	Personen	_	
+2-19	164-165	.	_	
+
+#Text=Dadurch ist es für Radfahrer sehr gefährlich, zumal wenn noch ein Bus entgegen kommt, dann wird es extrem eng.
+3-1	166-173	Dadurch	_	
+3-2	174-177	ist	_	
+3-3	178-180	es	_	
+3-4	181-184	für	_	
+3-5	185-194	Radfahrer	_	
+3-6	195-199	sehr	_	
+3-7	200-210	gefährlich	_	
+3-8	210-211	,	_	
+3-9	212-217	zumal	_	
+3-10	218-222	wenn	_	
+3-11	223-227	noch	_	
+3-12	228-231	ein	_	
+3-13	232-235	Bus	_	
+3-14	236-244	entgegen	_	
+3-15	245-250	kommt	_	
+3-16	250-251	,	_	
+3-17	252-256	dann	_	
+3-18	257-261	wird	_	
+3-19	262-264	es	_	
+3-20	265-271	extrem	_	
+3-21	272-275	eng	_	
+3-22	275-276	.	_	
+
+#Text=Das Halten auf dem Radweg muss mit geeigneten Mitteln unterbunden werden.
+4-1	277-280	Das	_	
+4-2	281-287	Halten	_	
+4-3	288-291	auf	_	
+4-4	292-295	dem	_	
+4-5	296-302	Radweg	_	
+4-6	303-307	muss	_	
+4-7	308-311	mit	_	
+4-8	312-322	geeigneten	_	
+4-9	323-330	Mitteln	_	
+4-10	331-342	unterbunden	_	
+4-11	343-349	werden	_	
+4-12	349-350	.	_	

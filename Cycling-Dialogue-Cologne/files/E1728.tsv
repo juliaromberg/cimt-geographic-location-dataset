@@ -1,0 +1,63 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Miese Radwegqualität
+1-1	0-5	Miese	_	
+1-2	6-20	Radwegqualität	_	
+
+#Text=Die Wegqualität entlang des benutzungspflichtigen Radweges ist relativ schlecht (Wurzelaufbrüche und lose Pflastersteine).
+2-1	23-26	Die	_	
+2-2	27-38	Wegqualität	_	
+2-3	39-46	entlang	_	
+2-4	47-50	des	_	
+2-5	51-72	benutzungspflichtigen	_	
+2-6	73-81	Radweges	_	
+2-7	82-85	ist	_	
+2-8	86-93	relativ	_	
+2-9	94-102	schlecht	_	
+2-10	103-104	(	_	
+2-11	104-119	Wurzelaufbrüche	_	
+2-12	120-123	und	_	
+2-13	124-128	lose	_	
+2-14	129-143	Pflastersteine	_	
+2-15	143-144	)	_	
+2-16	144-145	.	_	
+
+#Text=Dies gilt für den gesamten Bereich zwischen Kreuzung Weinsbergstraße/Gürtel bis Weinsbergstraße/Piusstraße.
+3-1	146-150	Dies	_	
+3-2	151-155	gilt	_	
+3-3	156-159	für	_	
+3-4	160-163	den	_	
+3-5	164-172	gesamten	_	
+3-6	173-180	Bereich	_	
+3-7	181-189	zwischen	*[5]	
+3-8	190-198	Kreuzung	*[5]	
+3-9	199-214	Weinsbergstraße	*[5]	
+3-10	214-215	/	*[5]	
+3-11	215-221	Gürtel	*[5]	
+3-12	222-225	bis	*[5]	
+3-13	226-241	Weinsbergstraße	*[5]	
+3-14	241-242	/	*[5]	
+3-15	242-252	Piusstraße	*[5]	
+3-16	252-253	.	_	
+
+#Text=Hier wäre eine komplette Sanierung fällig oder die konsequente Verlegung des Radverkehrs auf die Weinsbergstraße.
+4-1	254-258	Hier	_	
+4-2	259-263	wäre	_	
+4-3	264-268	eine	_	
+4-4	269-278	komplette	_	
+4-5	279-288	Sanierung	_	
+4-6	289-295	fällig	_	
+4-7	296-300	oder	_	
+4-8	301-304	die	_	
+4-9	305-316	konsequente	_	
+4-10	317-326	Verlegung	_	
+4-11	327-330	des	_	
+4-12	331-342	Radverkehrs	_	
+4-13	343-346	auf	*[6]	
+4-14	347-350	die	*[6]	
+4-15	351-366	Weinsbergstraße	*[6]	
+4-16	366-367	.	_	

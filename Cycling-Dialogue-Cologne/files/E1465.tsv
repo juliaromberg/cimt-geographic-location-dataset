@@ -1,0 +1,83 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Auffahrt zum Radweg
+1-1	0-8	Auffahrt	_	
+1-2	9-12	zum	_	
+1-3	13-19	Radweg	_	
+
+#Text=Die Auffahrt zu und vom Radweg entlang der Inneren Kanalstraße muss dringend vergrößert und mit deutlichen Richtungsangaben versehen werden.
+2-1	22-25	Die	*[5]	
+2-2	26-34	Auffahrt	*[5]	
+2-3	35-37	zu	*[5]	
+2-4	38-41	und	*[5]	
+2-5	42-45	vom	*[5]	
+2-6	46-52	Radweg	*[5]	
+2-7	53-60	entlang	*[5]	
+2-8	61-64	der	*[5]	
+2-9	65-72	Inneren	*[5]	
+2-10	73-84	Kanalstraße	*[5]	
+2-11	85-89	muss	_	
+2-12	90-98	dringend	_	
+2-13	99-109	vergrößert	_	
+2-14	110-113	und	_	
+2-15	114-117	mit	_	
+2-16	118-128	deutlichen	_	
+2-17	129-145	Richtungsangaben	_	
+2-18	146-154	versehen	_	
+2-19	155-161	werden	_	
+2-20	161-162	.	_	
+
+#Text=Von der Weinsbergstraße aus kommend schafft man die Kurve an der Stelle nur, in dem man weit ausholt.
+3-1	163-166	Von	*[6]	
+3-2	167-170	der	*[6]	
+3-3	171-186	Weinsbergstraße	*[6]	
+3-4	187-190	aus	*[6]	
+3-5	191-198	kommend	*[6]	
+3-6	199-206	schafft	_	
+3-7	207-210	man	_	
+3-8	211-214	die	_	
+3-9	215-220	Kurve	_	
+3-10	221-223	an	_	
+3-11	224-227	der	_	
+3-12	228-234	Stelle	_	
+3-13	235-238	nur	_	
+3-14	238-239	,	_	
+3-15	240-242	in	_	
+3-16	243-246	dem	_	
+3-17	247-250	man	_	
+3-18	251-255	weit	_	
+3-19	256-263	ausholt	_	
+3-20	263-264	.	_	
+
+#Text=Da hier gerade morgens gerne mal viel Verkehr mit meheren Radfahrern ist, muss man ziemlich aufpassen, dass man einander nicht in die Quere kommt.
+4-1	265-267	Da	_	
+4-2	268-272	hier	_	
+4-3	273-279	gerade	_	
+4-4	280-287	morgens	_	
+4-5	288-293	gerne	_	
+4-6	294-297	mal	_	
+4-7	298-302	viel	_	
+4-8	303-310	Verkehr	_	
+4-9	311-314	mit	_	
+4-10	315-322	meheren	_	
+4-11	323-333	Radfahrern	_	
+4-12	334-337	ist	_	
+4-13	337-338	,	_	
+4-14	339-343	muss	_	
+4-15	344-347	man	_	
+4-16	348-356	ziemlich	_	
+4-17	357-366	aufpassen	_	
+4-18	366-367	,	_	
+4-19	368-372	dass	_	
+4-20	373-376	man	_	
+4-21	377-385	einander	_	
+4-22	386-391	nicht	_	
+4-23	392-394	in	_	
+4-24	395-398	die	_	
+4-25	399-404	Quere	_	
+4-26	405-410	kommt	_	
+4-27	410-411	.	_	

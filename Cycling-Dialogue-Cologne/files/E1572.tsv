@@ -1,0 +1,54 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sicherer radfahren
+1-1	0-8	Sicherer	_	
+1-2	9-18	radfahren	_	
+
+#Text=1. Radwege ausbessern.
+2-1	21-22	1	_	
+2-2	22-23	.	_	
+2-3	24-31	Radwege	_	
+2-4	32-42	ausbessern	_	
+2-5	42-43	.	_	
+
+#Text=Viele sind in einem desolaten Zustand
+3-1	44-49	Viele	_	
+3-2	50-54	sind	_	
+3-3	55-57	in	_	
+3-4	58-63	einem	_	
+3-5	64-73	desolaten	_	
+3-6	74-81	Zustand	_	
+
+#Text=2. Radwege verbreitern
+4-1	82-83	2	_	
+4-2	83-84	.	_	
+4-3	85-92	Radwege	_	
+4-4	93-104	verbreitern	_	
+
+#Text=3. Radwege ganz klar kenntlich machen
+5-1	105-106	3	_	
+5-2	106-107	.	_	
+5-3	108-115	Radwege	_	
+5-4	116-120	ganz	_	
+5-5	121-125	klar	_	
+5-6	126-135	kenntlich	_	
+5-7	136-142	machen	_	
+
+#Text=4. Radwege im Winter auch bitte schon morgens früh räumen und streuen
+6-1	143-144	4	_	
+6-2	144-145	.	_	
+6-3	146-153	Radwege	_	
+6-4	154-156	im	_	
+6-5	157-163	Winter	_	
+6-6	164-168	auch	_	
+6-7	169-174	bitte	_	
+6-8	175-180	schon	_	
+6-9	181-188	morgens	_	
+6-10	189-193	früh	_	
+6-11	194-200	räumen	_	
+6-12	201-204	und	_	
+6-13	205-212	streuen	_	

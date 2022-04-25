@@ -1,0 +1,16 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Poller entfernen
+1-1	0-6	Poller	_	
+1-2	7-16	entfernen	_	
+
+#Text=Der Titel sagt alles.
+2-1	19-22	Der	_	
+2-2	23-28	Titel	_	
+2-3	29-33	sagt	_	
+2-4	34-39	alles	_	
+2-5	39-40	.	_	

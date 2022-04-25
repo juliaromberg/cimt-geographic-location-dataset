@@ -1,0 +1,120 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Darf die rote Fußgängerampel von Radfahrern ignoriert werden?
+1-1	0-4	Darf	_	
+1-2	5-8	die	_	
+1-3	9-13	rote	_	
+1-4	14-28	Fußgängerampel	_	
+1-5	29-32	von	_	
+1-6	33-43	Radfahrern	_	
+1-7	44-53	ignoriert	_	
+1-8	54-60	werden	_	
+1-9	60-61	?	_	
+
+#Text=Wenn ich von der Max-Löbner-Straße in die Annaberger Straße möchte, werde ich als Radfahrer auf den linksseitigen Fußweg geführt und stehe dann vor einer reinen Fußgängerampel.
+2-1	64-68	Wenn	_	
+2-2	69-72	ich	_	
+2-3	73-76	von	*[6]	
+2-4	77-80	der	*[6]	
+2-5	81-98	Max-Löbner-Straße	*[6]	
+2-6	99-101	in	*[6]	
+2-7	102-105	die	*[6]	
+2-8	106-116	Annaberger	*[6]	
+2-9	117-123	Straße	*[6]	
+2-10	124-130	möchte	_	
+2-11	130-131	,	_	
+2-12	132-137	werde	_	
+2-13	138-141	ich	_	
+2-14	142-145	als	_	
+2-15	146-155	Radfahrer	_	
+2-16	156-159	auf	_	
+2-17	160-163	den	_	
+2-18	164-177	linksseitigen	_	
+2-19	178-184	Fußweg	_	
+2-20	185-192	geführt	_	
+2-21	193-196	und	_	
+2-22	197-202	stehe	_	
+2-23	203-207	dann	_	
+2-24	208-211	vor	_	
+2-25	212-217	einer	_	
+2-26	218-224	reinen	_	
+2-27	225-239	Fußgängerampel	_	
+2-28	239-240	.	_	
+
+#Text=Seit der letzten Novelle der StVO gelten aber Fußgängerampeln nicht mehr für Rad fahrende.
+3-1	241-245	Seit	_	
+3-2	246-249	der	_	
+3-3	250-257	letzten	_	
+3-4	258-265	Novelle	_	
+3-5	266-269	der	_	
+3-6	270-274	StVO	_	
+3-7	275-281	gelten	_	
+3-8	282-286	aber	_	
+3-9	287-302	Fußgängerampeln	_	
+3-10	303-308	nicht	_	
+3-11	309-313	mehr	_	
+3-12	314-317	für	_	
+3-13	318-321	Rad	_	
+3-14	322-330	fahrende	_	
+3-15	330-331	.	_	
+
+#Text=Darf ich die B9 bei einer Lücke im Verkehr dann überqueren oder muss ich hier absteigen und schieben, womit dann doch die Fußgängerampel gelten würde?
+4-1	332-336	Darf	_	
+4-2	337-340	ich	_	
+4-3	341-344	die	*[7]	
+4-4	345-347	B9	*[7]	
+4-5	348-351	bei	_	
+4-6	352-357	einer	_	
+4-7	358-363	Lücke	_	
+4-8	364-366	im	_	
+4-9	367-374	Verkehr	_	
+4-10	375-379	dann	_	
+4-11	380-390	überqueren	_	
+4-12	391-395	oder	_	
+4-13	396-400	muss	_	
+4-14	401-404	ich	_	
+4-15	405-409	hier	_	
+4-16	410-419	absteigen	_	
+4-17	420-423	und	_	
+4-18	424-432	schieben	_	
+4-19	432-433	,	_	
+4-20	434-439	womit	_	
+4-21	440-444	dann	_	
+4-22	445-449	doch	_	
+4-23	450-453	die	_	
+4-24	454-468	Fußgängerampel	_	
+4-25	469-475	gelten	_	
+4-26	476-481	würde	_	
+4-27	481-482	?	_	
+
+#Text=Ehrlich gesagt bin ich hier schon öfter bei Rot rübergefahren, während die Fußgänger gewartet haben, aber ganz wohl fühle ich mich dabei nicht.
+5-1	483-490	Ehrlich	_	
+5-2	491-497	gesagt	_	
+5-3	498-501	bin	_	
+5-4	502-505	ich	_	
+5-5	506-510	hier	_	
+5-6	511-516	schon	_	
+5-7	517-522	öfter	_	
+5-8	523-526	bei	_	
+5-9	527-530	Rot	_	
+5-10	531-544	rübergefahren	_	
+5-11	544-545	,	_	
+5-12	546-553	während	_	
+5-13	554-557	die	_	
+5-14	558-567	Fußgänger	_	
+5-15	568-576	gewartet	_	
+5-16	577-582	haben	_	
+5-17	582-583	,	_	
+5-18	584-588	aber	_	
+5-19	589-593	ganz	_	
+5-20	594-598	wohl	_	
+5-21	599-604	fühle	_	
+5-22	605-608	ich	_	
+5-23	609-613	mich	_	
+5-24	614-619	dabei	_	
+5-25	620-625	nicht	_	
+5-26	625-626	.	_	

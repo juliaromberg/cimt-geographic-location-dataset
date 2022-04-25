@@ -1,0 +1,26 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg parallel zur L 261
+1-1	0-6	Radweg	_	
+1-2	7-15	parallel	_	
+1-3	16-19	zur	_	
+1-4	20-21	L	*[3]	
+1-5	22-25	261	*[3]	
+
+#Text=Der komplette Radweg enthält Unfallgefahren durch Baumwurzelschäden die nicht beseitigt werden.
+2-1	28-31	Der	_	
+2-2	32-41	komplette	_	
+2-3	42-48	Radweg	_	
+2-4	49-56	enthält	_	
+2-5	57-71	Unfallgefahren	_	
+2-6	72-77	durch	_	
+2-7	78-95	Baumwurzelschäden	_	
+2-8	96-99	die	_	
+2-9	100-105	nicht	_	
+2-10	106-115	beseitigt	_	
+2-11	116-122	werden	_	
+2-12	122-123	.	_	

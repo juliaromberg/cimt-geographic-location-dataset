@@ -1,0 +1,79 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg bauen
+1-1	0-6	Radweg	_	
+1-2	7-12	bauen	_	
+
+#Text=Der Fontainegraben von der Polizei Duisdorf bis zur Südwache bietet genug Platz für vollwertige Radwege in beide Richtungen, am besten zwischen Parkstreifen und Bürgersteig.
+2-1	15-18	Der	*[5]	
+2-2	19-33	Fontainegraben	*[5]	
+2-3	34-37	von	*[5]	
+2-4	38-41	der	*[5]	
+2-5	42-49	Polizei	*[5]	
+2-6	50-58	Duisdorf	*[5]	
+2-7	59-62	bis	*[5]	
+2-8	63-66	zur	*[5]	
+2-9	67-75	Südwache	*[5]	
+2-10	76-82	bietet	_	
+2-11	83-88	genug	_	
+2-12	89-94	Platz	_	
+2-13	95-98	für	_	
+2-14	99-110	vollwertige	_	
+2-15	111-118	Radwege	_	
+2-16	119-121	in	_	
+2-17	122-127	beide	_	
+2-18	128-138	Richtungen	_	
+2-19	138-139	,	_	
+2-20	140-142	am	_	
+2-21	143-149	besten	_	
+2-22	150-158	zwischen	_	
+2-23	159-171	Parkstreifen	_	
+2-24	172-175	und	_	
+2-25	176-187	Bürgersteig	_	
+2-26	187-188	.	_	
+
+#Text=Wenn sich Bonn fahrradfreundlich nennen möchte, sollte dieser Radweg auch gebaut werden.
+3-1	189-193	Wenn	_	
+3-2	194-198	sich	_	
+3-3	199-203	Bonn	*	
+3-4	204-221	fahrradfreundlich	_	
+3-5	222-228	nennen	_	
+3-6	229-235	möchte	_	
+3-7	235-236	,	_	
+3-8	237-243	sollte	_	
+3-9	244-250	dieser	_	
+3-10	251-257	Radweg	_	
+3-11	258-262	auch	_	
+3-12	263-269	gebaut	_	
+3-13	270-276	werden	_	
+3-14	276-277	.	_	
+
+#Text=Der halbgare Schutzstreifen ist hier nicht nötig, Geld für sinnlose Fahrradstraßen in Tempo 30 Zonen wäre in dieser vollwertigen Lösung besser investiert.
+4-1	278-281	Der	_	
+4-2	282-290	halbgare	_	
+4-3	291-305	Schutzstreifen	_	
+4-4	306-309	ist	_	
+4-5	310-314	hier	_	
+4-6	315-320	nicht	_	
+4-7	321-326	nötig	_	
+4-8	326-327	,	_	
+4-9	328-332	Geld	_	
+4-10	333-336	für	_	
+4-11	337-345	sinnlose	_	
+4-12	346-360	Fahrradstraßen	_	
+4-13	361-363	in	_	
+4-14	364-369	Tempo	_	
+4-15	370-372	30	_	
+4-16	373-378	Zonen	_	
+4-17	379-383	wäre	_	
+4-18	384-386	in	_	
+4-19	387-393	dieser	_	
+4-20	394-406	vollwertigen	_	
+4-21	407-413	Lösung	_	
+4-22	414-420	besser	_	
+4-23	421-431	investiert	_	
+4-24	431-432	.	_	

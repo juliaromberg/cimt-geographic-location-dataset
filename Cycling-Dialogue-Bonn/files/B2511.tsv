@@ -1,0 +1,93 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kölnstraße ab Wilhelmsplatz Richtung Bertha
+1-1	0-10	Kölnstraße	*[5]	
+1-2	11-13	ab	*[5]	
+1-3	14-27	Wilhelmsplatz	*[5]	
+1-4	28-36	Richtung	*[5]	
+1-5	37-43	Bertha	*[5]	
+
+#Text=Auf dem Stück vom Wilhelmsplatz bis zum Stiftsplatz ist die rechte Spur für Autos so eng dass sie ohnehin selten genutzt wird, wenn auch ein Radfahrer dort unterwegs ist.
+2-1	46-49	Auf	*[6]	
+2-2	50-53	dem	*[6]	
+2-3	54-59	Stück	*[6]	
+2-4	60-63	vom	*[6]	
+2-5	64-77	Wilhelmsplatz	*[6]	
+2-6	78-81	bis	*[6]	
+2-7	82-85	zum	*[6]	
+2-8	86-97	Stiftsplatz	*[6]	
+2-9	98-101	ist	_	
+2-10	102-105	die	_	
+2-11	106-112	rechte	_	
+2-12	113-117	Spur	_	
+2-13	118-121	für	_	
+2-14	122-127	Autos	_	
+2-15	128-130	so	_	
+2-16	131-134	eng	_	
+2-17	135-139	dass	_	
+2-18	140-143	sie	_	
+2-19	144-151	ohnehin	_	
+2-20	152-158	selten	_	
+2-21	159-166	genutzt	_	
+2-22	167-171	wird	_	
+2-23	171-172	,	_	
+2-24	173-177	wenn	_	
+2-25	178-182	auch	_	
+2-26	183-186	ein	_	
+2-27	187-196	Radfahrer	_	
+2-28	197-201	dort	_	
+2-29	202-211	unterwegs	_	
+2-30	212-215	ist	_	
+2-31	215-216	.	_	
+
+#Text=Wenn es aber doch eine Autofahrer durchzieht wird alles sehr eng und gefährlich.
+3-1	217-221	Wenn	_	
+3-2	222-224	es	_	
+3-3	225-229	aber	_	
+3-4	230-234	doch	_	
+3-5	235-239	eine	_	
+3-6	240-250	Autofahrer	_	
+3-7	251-261	durchzieht	_	
+3-8	262-266	wird	_	
+3-9	267-272	alles	_	
+3-10	273-277	sehr	_	
+3-11	278-281	eng	_	
+3-12	282-285	und	_	
+3-13	286-296	gefährlich	_	
+3-14	296-297	.	_	
+
+#Text=Hier könnte man (meiner Meinung nach) die rechte Spur auch komplett zum Radweg machen und die Autos betreten diese dann nur noch zum Ein- und Ausparken.
+4-1	298-302	Hier	_	
+4-2	303-309	könnte	_	
+4-3	310-313	man	_	
+4-4	314-315	(	_	
+4-5	315-321	meiner	_	
+4-6	322-329	Meinung	_	
+4-7	330-334	nach	_	
+4-8	334-335	)	_	
+4-9	336-339	die	_	
+4-10	340-346	rechte	_	
+4-11	347-351	Spur	_	
+4-12	352-356	auch	_	
+4-13	357-365	komplett	_	
+4-14	366-369	zum	_	
+4-15	370-376	Radweg	_	
+4-16	377-383	machen	_	
+4-17	384-387	und	_	
+4-18	388-391	die	_	
+4-19	392-397	Autos	_	
+4-20	398-406	betreten	_	
+4-21	407-412	diese	_	
+4-22	413-417	dann	_	
+4-23	418-421	nur	_	
+4-24	422-426	noch	_	
+4-25	427-430	zum	_	
+4-26	431-434	Ein	_	
+4-27	434-435	-	_	
+4-28	436-439	und	_	
+4-29	440-449	Ausparken	_	
+4-30	449-450	.	_	

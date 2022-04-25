@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Senke an seitlichem Einlaufschacht
+1-1	0-5	Senke	_	
+1-2	6-8	an	_	
+1-3	9-19	seitlichem	_	
+1-4	20-34	Einlaufschacht	_	
+
+#Text=Am Asphalt sieht man, dass hier einmal die Straße aufgerissen wurde.
+2-1	37-39	Am	_	
+2-2	40-47	Asphalt	_	
+2-3	48-53	sieht	_	
+2-4	54-57	man	_	
+2-5	57-58	,	_	
+2-6	59-63	dass	_	
+2-7	64-68	hier	_	
+2-8	69-75	einmal	_	
+2-9	76-79	die	_	
+2-10	80-86	Straße	_	
+2-11	87-98	aufgerissen	_	
+2-12	99-104	wurde	_	
+2-13	104-105	.	_	
+
+#Text=Entweder ist die Stelle unterspült oder die neu Decke wurde falsch aufgebracht, jedenfalls ist hier ein starke Senke, bei der man mit höherer Geschwindigkeit unvermittelt wie in ein Loch fährt.
+3-1	106-114	Entweder	_	
+3-2	115-118	ist	_	
+3-3	119-122	die	_	
+3-4	123-129	Stelle	_	
+3-5	130-140	unterspült	_	
+3-6	141-145	oder	_	
+3-7	146-149	die	_	
+3-8	150-153	neu	_	
+3-9	154-159	Decke	_	
+3-10	160-165	wurde	_	
+3-11	166-172	falsch	_	
+3-12	173-184	aufgebracht	_	
+3-13	184-185	,	_	
+3-14	186-196	jedenfalls	_	
+3-15	197-200	ist	_	
+3-16	201-205	hier	_	
+3-17	206-209	ein	_	
+3-18	210-216	starke	_	
+3-19	217-222	Senke	_	
+3-20	222-223	,	_	
+3-21	224-227	bei	_	
+3-22	228-231	der	_	
+3-23	232-235	man	_	
+3-24	236-239	mit	_	
+3-25	240-247	höherer	_	
+3-26	248-263	Geschwindigkeit	_	
+3-27	264-276	unvermittelt	_	
+3-28	277-280	wie	_	
+3-29	281-283	in	_	
+3-30	284-287	ein	_	
+3-31	288-292	Loch	_	
+3-32	293-298	fährt	_	
+3-33	298-299	.	_	

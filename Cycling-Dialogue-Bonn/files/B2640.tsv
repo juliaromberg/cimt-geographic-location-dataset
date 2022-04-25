@@ -1,0 +1,114 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=In beide Richtungen befahrbarer Radweg zwischen Ollenhauer Str. und Wurzerstr.
+1-1	0-2	In	_	
+1-2	3-8	beide	_	
+1-3	9-19	Richtungen	_	
+1-4	20-31	befahrbarer	_	
+1-5	32-38	Radweg	_	
+1-6	39-47	zwischen	*[8]	
+1-7	48-58	Ollenhauer	*[8]	
+1-8	59-62	Str	*[8]	
+1-9	62-63	.	*[8]	
+1-10	64-67	und	*[8]	
+1-11	68-77	Wurzerstr	*[8]	
+1-12	77-78	.	_	
+
+#Text=Ich wünsche mir beidseitig befahrbare Radwege zwischen Ollenhauerstr. und Wurzerstr.
+2-1	81-84	Ich	_	
+2-2	85-92	wünsche	_	
+2-3	93-96	mir	_	
+2-4	97-107	beidseitig	_	
+2-5	108-118	befahrbare	_	
+2-6	119-126	Radwege	_	
+2-7	127-135	zwischen	*[9]	
+2-8	136-149	Ollenhauerstr	*[9]	
+2-9	149-150	.	*[9]	
+2-10	151-154	und	*[9]	
+2-11	155-164	Wurzerstr	*[9]	
+2-12	164-165	.	_	
+
+#Text=Hier ist die Streckenführung verwirrend.
+3-1	166-170	Hier	_	
+3-2	171-174	ist	_	
+3-3	175-178	die	_	
+3-4	179-194	Streckenführung	_	
+3-5	195-205	verwirrend	_	
+3-6	205-206	.	_	
+
+#Text=Ein Teil ist in beide Richtungen befahrbar, z.B. in der Nähe der Telekom.
+4-1	207-210	Ein	_	
+4-2	211-215	Teil	_	
+4-3	216-219	ist	_	
+4-4	220-222	in	_	
+4-5	223-228	beide	_	
+4-6	229-239	Richtungen	_	
+4-7	240-249	befahrbar	_	
+4-8	249-250	,	_	
+4-9	251-254	z.B	_	
+4-10	254-255	.	_	
+4-11	256-258	in	*[10]	
+4-12	259-262	der	*[10]	
+4-13	263-267	Nähe	*[10]	
+4-14	268-271	der	*[10]	
+4-15	272-279	Telekom	*[10]	
+4-16	279-280	.	_	
+
+#Text=Dann müsste man aber wieder auf die andere Seite wechseln, um dann an Hochkreuz z.B. wieder die Straße zu kreuzen.
+5-1	281-285	Dann	_	
+5-2	286-292	müsste	_	
+5-3	293-296	man	_	
+5-4	297-301	aber	_	
+5-5	302-308	wieder	_	
+5-6	309-312	auf	_	
+5-7	313-316	die	_	
+5-8	317-323	andere	_	
+5-9	324-329	Seite	_	
+5-10	330-338	wechseln	_	
+5-11	338-339	,	_	
+5-12	340-342	um	_	
+5-13	343-347	dann	_	
+5-14	348-350	an	*[11]	
+5-15	351-360	Hochkreuz	*[11]	
+5-16	361-364	z.B	_	
+5-17	364-365	.	_	
+5-18	366-372	wieder	_	
+5-19	373-376	die	_	
+5-20	377-383	Straße	_	
+5-21	384-386	zu	_	
+5-22	387-394	kreuzen	_	
+5-23	394-395	.	_	
+
+#Text=Warum geht es nicht, dass man Radwege immer in beide Richtungen befahrbar machen kann?
+6-1	396-401	Warum	_	
+6-2	402-406	geht	_	
+6-3	407-409	es	_	
+6-4	410-415	nicht	_	
+6-5	415-416	,	_	
+6-6	417-421	dass	_	
+6-7	422-425	man	_	
+6-8	426-433	Radwege	_	
+6-9	434-439	immer	_	
+6-10	440-442	in	_	
+6-11	443-448	beide	_	
+6-12	449-459	Richtungen	_	
+6-13	460-469	befahrbar	_	
+6-14	470-476	machen	_	
+6-15	477-481	kann	_	
+6-16	481-482	?	_	
+
+#Text=Dieses ständige Überqueren der Fahrbahn ist nicht sehr radfahrerfreundlich.
+7-1	483-489	Dieses	_	
+7-2	490-498	ständige	_	
+7-3	499-509	Überqueren	_	
+7-4	510-513	der	_	
+7-5	514-522	Fahrbahn	_	
+7-6	523-526	ist	_	
+7-7	527-532	nicht	_	
+7-8	533-537	sehr	_	
+7-9	538-557	radfahrerfreundlich	_	
+7-10	557-558	.	_	

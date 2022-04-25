@@ -1,0 +1,22 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rheinuferradweg
+1-1	0-15	Rheinuferradweg	_	
+
+#Text=Besonders in diesem Bereich wird der Radweg selten gereinigt/gekehrt.
+2-1	18-27	Besonders	_	
+2-2	28-30	in	_	
+2-3	31-37	diesem	_	
+2-4	38-45	Bereich	_	
+2-5	46-50	wird	_	
+2-6	51-54	der	_	
+2-7	55-61	Radweg	_	
+2-8	62-68	selten	_	
+2-9	69-78	gereinigt	_	
+2-10	78-79	/	_	
+2-11	79-86	gekehrt	_	
+2-12	86-87	.	_	

@@ -1,0 +1,79 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Stockenstr. in beide Richtungen für Fahrräder öffnen
+1-1	0-10	Stockenstr	*	
+1-2	10-11	.	_	
+1-3	12-14	in	_	
+1-4	15-20	beide	_	
+1-5	21-31	Richtungen	_	
+1-6	32-35	für	_	
+1-7	36-45	Fahrräder	_	
+1-8	46-52	öffnen	_	
+
+#Text=Die Stockenstr. ist eine wichtige Verbindung, um ins oder aus dem Zentrum mit dem Fahrrad zu kommen.
+2-1	55-58	Die	*[5]	
+2-2	59-69	Stockenstr	*[5]	
+2-3	69-70	.	_	
+2-4	71-74	ist	_	
+2-5	75-79	eine	_	
+2-6	80-88	wichtige	_	
+2-7	89-99	Verbindung	_	
+2-8	99-100	,	_	
+2-9	101-103	um	_	
+2-10	104-107	ins	_	
+2-11	108-112	oder	_	
+2-12	113-116	aus	_	
+2-13	117-120	dem	_	
+2-14	121-128	Zentrum	_	
+2-15	129-132	mit	_	
+2-16	133-136	dem	_	
+2-17	137-144	Fahrrad	_	
+2-18	145-147	zu	_	
+2-19	148-154	kommen	_	
+2-20	154-155	.	_	
+
+#Text=Bisher muss man aber aufgrund der Einbahnstraßenregelung das Fahrrad vom Bischofsplatz zur Straße An der Schloßkirche auf dem engen Bürgersteig schieben.
+3-1	156-162	Bisher	_	
+3-2	163-167	muss	_	
+3-3	168-171	man	_	
+3-4	172-176	aber	_	
+3-5	177-185	aufgrund	_	
+3-6	186-189	der	_	
+3-7	190-212	Einbahnstraßenregelung	_	
+3-8	213-216	das	_	
+3-9	217-224	Fahrrad	_	
+3-10	225-228	vom	*[6]	
+3-11	229-242	Bischofsplatz	*[6]	
+3-12	243-246	zur	*[6]	
+3-13	247-253	Straße	*[6]	
+3-14	254-256	An	*[6]	
+3-15	257-260	der	*[6]	
+3-16	261-273	Schloßkirche	*[6]	
+3-17	274-277	auf	_	
+3-18	278-281	dem	_	
+3-19	282-287	engen	_	
+3-20	288-299	Bürgersteig	_	
+3-21	300-308	schieben	_	
+3-22	308-309	.	_	
+
+#Text=Eine beidseitige Öffnung der Stockenstr. im gesamten Bereich für den Fahrradverkehr wäre sehr sinnvoll.
+4-1	310-314	Eine	_	
+4-2	315-326	beidseitige	_	
+4-3	327-334	Öffnung	_	
+4-4	335-338	der	_	
+4-5	339-349	Stockenstr	*	
+4-6	349-350	.	_	
+4-7	351-353	im	_	
+4-8	354-362	gesamten	_	
+4-9	363-370	Bereich	_	
+4-10	371-374	für	_	
+4-11	375-378	den	_	
+4-12	379-393	Fahrradverkehr	_	
+4-13	394-398	wäre	_	
+4-14	399-403	sehr	_	
+4-15	404-412	sinnvoll	_	
+4-16	412-413	.	_	

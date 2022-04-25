@@ -1,0 +1,30 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Häufig Falschparker (auf Radweg)
+1-1	0-6	Häufig	_	
+1-2	7-19	Falschparker	_	
+1-3	20-21	(	_	
+1-4	21-24	auf	_	
+1-5	25-31	Radweg	_	
+1-6	31-32	)	_	
+
+#Text=Der Radweg wird hier häufig zugeparkt, vermutlich von Kundschaft der dort befindlichen Firma.
+2-1	35-38	Der	_	
+2-2	39-45	Radweg	_	
+2-3	46-50	wird	_	
+2-4	51-55	hier	_	
+2-5	56-62	häufig	_	
+2-6	63-72	zugeparkt	_	
+2-7	72-73	,	_	
+2-8	74-84	vermutlich	_	
+2-9	85-88	von	_	
+2-10	89-99	Kundschaft	_	
+2-11	100-103	der	_	
+2-12	104-108	dort	_	
+2-13	109-121	befindlichen	_	
+2-14	122-127	Firma	_	
+2-15	127-128	.	_	

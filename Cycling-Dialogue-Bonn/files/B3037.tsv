@@ -1,0 +1,35 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zuviele Poller
+1-1	0-7	Zuviele	_	
+1-2	8-14	Poller	_	
+
+#Text=Zwischen der Servatiusstr. und Am Weckhasen stehen die Poller viel zu dicht.
+2-1	17-25	Zwischen	*[4]	
+2-2	26-29	der	*[4]	
+2-3	30-42	Servatiusstr	*[4]	
+2-4	42-43	.	*[4]	
+2-5	44-47	und	*[4]	
+2-6	48-50	Am	*[4]	
+2-7	51-60	Weckhasen	*[4]	
+2-8	61-67	stehen	_	
+2-9	68-71	die	_	
+2-10	72-78	Poller	_	
+2-11	79-83	viel	_	
+2-12	84-86	zu	_	
+2-13	87-92	dicht	_	
+2-14	92-93	.	_	
+
+#Text=Besonders mit Kinderanhängern gibt es hier Probleme.
+3-1	94-103	Besonders	_	
+3-2	104-107	mit	_	
+3-3	108-123	Kinderanhängern	_	
+3-4	124-128	gibt	_	
+3-5	129-131	es	_	
+3-6	132-136	hier	_	
+3-7	137-145	Probleme	_	
+3-8	145-146	.	_	

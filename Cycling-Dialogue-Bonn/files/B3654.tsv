@@ -1,0 +1,120 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sehr schlechter Asphalt am Rhein bis zur Nordbrücke!
+1-1	0-4	Sehr	_	
+1-2	5-15	schlechter	_	
+1-3	16-23	Asphalt	_	
+1-4	24-26	am	*[7]	
+1-5	27-32	Rhein	*[7]	
+1-6	33-36	bis	*[7]	
+1-7	37-40	zur	*[7]	
+1-8	41-51	Nordbrücke	*[7]	
+1-9	51-52	!	_	
+
+#Text=Eigentlich eine der schönsten Strecken in Richtung Norden, für Pendler (auch viele Kölner zu den großen Bonner Konzernen) und für Kinder und Jugendliche (Römerbad, Sport-Park-Nord).
+2-1	55-65	Eigentlich	_	
+2-2	66-70	eine	_	
+2-3	71-74	der	_	
+2-4	75-84	schönsten	_	
+2-5	85-93	Strecken	_	
+2-6	94-96	in	_	
+2-7	97-105	Richtung	_	
+2-8	106-112	Norden	_	
+2-9	112-113	,	_	
+2-10	114-117	für	_	
+2-11	118-125	Pendler	_	
+2-12	126-127	(	_	
+2-13	127-131	auch	_	
+2-14	132-137	viele	_	
+2-15	138-144	Kölner	_	
+2-16	145-147	zu	_	
+2-17	148-151	den	_	
+2-18	152-158	großen	_	
+2-19	159-165	Bonner	_	
+2-20	166-175	Konzernen	_	
+2-21	175-176	)	_	
+2-22	177-180	und	_	
+2-23	181-184	für	_	
+2-24	185-191	Kinder	_	
+2-25	192-195	und	_	
+2-26	196-207	Jugendliche	_	
+2-27	208-209	(	_	
+2-28	209-217	Römerbad	*[8]	
+2-29	217-218	,	*[8]	
+2-30	219-234	Sport-Park-Nord	*[8]	
+2-31	234-235	)	_	
+2-32	235-236	.	_	
+
+#Text=Leider ist der Asphalt hier sehr schlecht und oft auch kaum zu erkennen (plötzliche Wurzelhubbel).
+3-1	237-243	Leider	_	
+3-2	244-247	ist	_	
+3-3	248-251	der	_	
+3-4	252-259	Asphalt	_	
+3-5	260-264	hier	_	
+3-6	265-269	sehr	_	
+3-7	270-278	schlecht	_	
+3-8	279-282	und	_	
+3-9	283-286	oft	_	
+3-10	287-291	auch	_	
+3-11	292-296	kaum	_	
+3-12	297-299	zu	_	
+3-13	300-308	erkennen	_	
+3-14	309-310	(	_	
+3-15	310-320	plötzliche	_	
+3-16	321-333	Wurzelhubbel	_	
+3-17	333-334	)	_	
+3-18	334-335	.	_	
+
+#Text=Da sich die meisten Radfahrer an den schmalen Radweg halten, ist es zudem sehr eng und kleine Schlenker führen schnell zu Zusammenstößen!
+4-1	336-338	Da	_	
+4-2	339-343	sich	_	
+4-3	344-347	die	_	
+4-4	348-355	meisten	_	
+4-5	356-365	Radfahrer	_	
+4-6	366-368	an	_	
+4-7	369-372	den	_	
+4-8	373-381	schmalen	_	
+4-9	382-388	Radweg	_	
+4-10	389-395	halten	_	
+4-11	395-396	,	_	
+4-12	397-400	ist	_	
+4-13	401-403	es	_	
+4-14	404-409	zudem	_	
+4-15	410-414	sehr	_	
+4-16	415-418	eng	_	
+4-17	419-422	und	_	
+4-18	423-429	kleine	_	
+4-19	430-439	Schlenker	_	
+4-20	440-446	führen	_	
+4-21	447-454	schnell	_	
+4-22	455-457	zu	_	
+4-23	458-472	Zusammenstößen	_	
+4-24	472-473	!	_	
+
+#Text=Auch eine Verbreiterung wäre sinnvoll!
+5-1	474-478	Auch	_	
+5-2	479-483	eine	_	
+5-3	484-497	Verbreiterung	_	
+5-4	498-502	wäre	_	
+5-5	503-511	sinnvoll	_	
+5-6	511-512	!	_	
+
+#Text=50/50 (Radweg, Fußweg) anstelle von 30/70.
+6-1	513-515	50	_	
+6-2	515-516	/	_	
+6-3	516-518	50	_	
+6-4	519-520	(	_	
+6-5	520-526	Radweg	_	
+6-6	526-527	,	_	
+6-7	528-534	Fußweg	_	
+6-8	534-535	)	_	
+6-9	536-544	anstelle	_	
+6-10	545-548	von	_	
+6-11	549-551	30	_	
+6-12	551-552	/	_	
+6-13	552-554	70	_	
+6-14	554-555	.	_	

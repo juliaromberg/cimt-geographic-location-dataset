@@ -1,0 +1,261 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kein Radweg, toter Winkel und überhöhte Geschwindigkeit bei Autos.
+1-1	0-4	Kein	_	
+1-2	5-11	Radweg	_	
+1-3	11-12	,	_	
+1-4	13-18	toter	_	
+1-5	19-25	Winkel	_	
+1-6	26-29	und	_	
+1-7	30-39	überhöhte	_	
+1-8	40-55	Geschwindigkeit	_	
+1-9	56-59	bei	_	
+1-10	60-65	Autos	_	
+1-11	65-66	.	_	
+
+#Text=Von der Reuterstraße kommen, rechts abbiegen zum Am Botanischen Garten gibt es erheblichen Verbesserungsbedarf.
+2-1	69-72	Von	*[15]	
+2-2	73-76	der	*[15]	
+2-3	77-89	Reuterstraße	*[15]	
+2-4	90-96	kommen	*[15]	
+2-5	96-97	,	*[15]	
+2-6	98-104	rechts	*[15]	
+2-7	105-113	abbiegen	*[15]	
+2-8	114-117	zum	*[15]	
+2-9	118-120	Am	*[15]	
+2-10	121-132	Botanischen	*[15]	
+2-11	133-139	Garten	*[15]	
+2-12	140-144	gibt	_	
+2-13	145-147	es	_	
+2-14	148-159	erheblichen	_	
+2-15	160-179	Verbesserungsbedarf	_	
+2-16	179-180	.	_	
+
+#Text=Hier sind regelmäßig Polizeimarkierungen nach Unfällen zu sehen.
+3-1	181-185	Hier	_	
+3-2	186-190	sind	_	
+3-3	191-201	regelmäßig	_	
+3-4	202-221	Polizeimarkierungen	_	
+3-5	222-226	nach	_	
+3-6	227-235	Unfällen	_	
+3-7	236-238	zu	_	
+3-8	239-244	sehen	_	
+3-9	244-245	.	_	
+
+#Text=Es geht nach rechts an der Hecke des Botanischen Gartens entlang, somit entsteht auf der Innenseite der Kurve ein toter Winkel.
+4-1	246-248	Es	_	
+4-2	249-253	geht	_	
+4-3	254-258	nach	*[16]	
+4-4	259-265	rechts	*[16]	
+4-5	266-268	an	*[16]	
+4-6	269-272	der	*[16]	
+4-7	273-278	Hecke	*[16]	
+4-8	279-282	des	*[16]	
+4-9	283-294	Botanischen	*[16]	
+4-10	295-302	Gartens	*[16]	
+4-11	303-310	entlang	*[16]	
+4-12	310-311	,	_	
+4-13	312-317	somit	_	
+4-14	318-326	entsteht	_	
+4-15	327-330	auf	_	
+4-16	331-334	der	_	
+4-17	335-345	Innenseite	_	
+4-18	346-349	der	_	
+4-19	350-355	Kurve	_	
+4-20	356-359	ein	_	
+4-21	360-365	toter	_	
+4-22	366-372	Winkel	_	
+4-23	372-373	.	_	
+
+#Text=Deswegen werden Fahrradfahrer relativ früh vom Gehweg/Fahrradweg auf die Straße geführt.
+5-1	374-382	Deswegen	_	
+5-2	383-389	werden	_	
+5-3	390-403	Fahrradfahrer	_	
+5-4	404-411	relativ	_	
+5-5	412-416	früh	_	
+5-6	417-420	vom	_	
+5-7	421-427	Gehweg	_	
+5-8	427-428	/	_	
+5-9	428-438	Fahrradweg	_	
+5-10	439-442	auf	_	
+5-11	443-446	die	_	
+5-12	447-453	Straße	_	
+5-13	454-461	geführt	_	
+5-14	461-462	.	_	
+
+#Text=Dies ist nur mit einer einfachen Bodenmarkierung abgesichert.
+6-1	463-467	Dies	_	
+6-2	468-471	ist	_	
+6-3	472-475	nur	_	
+6-4	476-479	mit	_	
+6-5	480-485	einer	_	
+6-6	486-495	einfachen	_	
+6-7	496-511	Bodenmarkierung	_	
+6-8	512-523	abgesichert	_	
+6-9	523-524	.	_	
+
+#Text=Leider fahren an dieser Stelle von der Reuterstraße abfahrende Autos meist 50/60 kmh, aber neimals die vorgegebenen 30 kmh.
+7-1	525-531	Leider	_	
+7-2	532-538	fahren	_	
+7-3	539-541	an	_	
+7-4	542-548	dieser	_	
+7-5	549-555	Stelle	_	
+7-6	556-559	von	*[17]	
+7-7	560-563	der	*[17]	
+7-8	564-576	Reuterstraße	*[17]	
+7-9	577-587	abfahrende	_	
+7-10	588-593	Autos	_	
+7-11	594-599	meist	_	
+7-12	600-602	50	_	
+7-13	602-603	/	_	
+7-14	603-605	60	_	
+7-15	606-609	kmh	_	
+7-16	609-610	,	_	
+7-17	611-615	aber	_	
+7-18	616-623	neimals	_	
+7-19	624-627	die	_	
+7-20	628-640	vorgegebenen	_	
+7-21	641-643	30	_	
+7-22	644-647	kmh	_	
+7-23	647-648	.	_	
+
+#Text=Somit ist der Radfahrer in einer Schwierigen Situation: Man fährt auf einen toten Winkel zu, muss vom Radweg auf eine teils stark und schnell befahrene Straße wechseln und kann sich dabei auf keinerlei physische Absicherung gegen teils abgelenkte oder zu schnell fahrende Autos verlassen.
+8-1	649-654	Somit	_	
+8-2	655-658	ist	_	
+8-3	659-662	der	_	
+8-4	663-672	Radfahrer	_	
+8-5	673-675	in	_	
+8-6	676-681	einer	_	
+8-7	682-693	Schwierigen	_	
+8-8	694-703	Situation	_	
+8-9	703-704	:	_	
+8-10	705-708	Man	_	
+8-11	709-714	fährt	_	
+8-12	715-718	auf	_	
+8-13	719-724	einen	_	
+8-14	725-730	toten	_	
+8-15	731-737	Winkel	_	
+8-16	738-740	zu	_	
+8-17	740-741	,	_	
+8-18	742-746	muss	_	
+8-19	747-750	vom	_	
+8-20	751-757	Radweg	_	
+8-21	758-761	auf	_	
+8-22	762-766	eine	_	
+8-23	767-772	teils	_	
+8-24	773-778	stark	_	
+8-25	779-782	und	_	
+8-26	783-790	schnell	_	
+8-27	791-800	befahrene	_	
+8-28	801-807	Straße	_	
+8-29	808-816	wechseln	_	
+8-30	817-820	und	_	
+8-31	821-825	kann	_	
+8-32	826-830	sich	_	
+8-33	831-836	dabei	_	
+8-34	837-840	auf	_	
+8-35	841-850	keinerlei	_	
+8-36	851-860	physische	_	
+8-37	861-872	Absicherung	_	
+8-38	873-878	gegen	_	
+8-39	879-884	teils	_	
+8-40	885-895	abgelenkte	_	
+8-41	896-900	oder	_	
+8-42	901-903	zu	_	
+8-43	904-911	schnell	_	
+8-44	912-920	fahrende	_	
+8-45	921-926	Autos	_	
+8-46	927-936	verlassen	_	
+8-47	936-937	.	_	
+
+#Text=Roulette...
+9-1	938-946	Roulette	_	
+9-2	946-947	.	_	
+9-3	947-948	.	_	
+9-4	948-949	.	_	
+
+#Text=Hinzu kommt, dass die als Einahnstraße ausgeschilderte Straße von Radfahrern in beide Richtungen genutzt wird.
+10-1	950-955	Hinzu	_	
+10-2	956-961	kommt	_	
+10-3	961-962	,	_	
+10-4	963-967	dass	_	
+10-5	968-971	die	_	
+10-6	972-975	als	_	
+10-7	976-988	Einahnstraße	_	
+10-8	989-1004	ausgeschilderte	_	
+10-9	1005-1011	Straße	_	
+10-10	1012-1015	von	_	
+10-11	1016-1026	Radfahrern	_	
+10-12	1027-1029	in	_	
+10-13	1030-1035	beide	_	
+10-14	1036-1046	Richtungen	_	
+10-15	1047-1054	genutzt	_	
+10-16	1055-1059	wird	_	
+10-17	1059-1060	.	_	
+
+#Text=Dies liegt an fehlenden fahrradtauglichen Alternativen.
+11-1	1061-1065	Dies	_	
+11-2	1066-1071	liegt	_	
+11-3	1072-1074	an	_	
+11-4	1075-1084	fehlenden	_	
+11-5	1085-1102	fahrradtauglichen	_	
+11-6	1103-1115	Alternativen	_	
+11-7	1115-1116	.	_	
+
+#Text=Es könnte Beispielsweise über einen Ausbau der Fahrradwege auf Venusbergweg und am Poppelsdorfer Weiher als nutzbare Alternativroute nachgedacht werden.
+12-1	1117-1119	Es	_	
+12-2	1120-1126	könnte	_	
+12-3	1127-1141	Beispielsweise	_	
+12-4	1142-1146	über	_	
+12-5	1147-1152	einen	_	
+12-6	1153-1159	Ausbau	_	
+12-7	1160-1163	der	_	
+12-8	1164-1175	Fahrradwege	_	
+12-9	1176-1179	auf	*[18]	
+12-10	1180-1192	Venusbergweg	*[18]	
+12-11	1193-1196	und	*[18]	
+12-12	1197-1199	am	*[18]	
+12-13	1200-1213	Poppelsdorfer	*[18]	
+12-14	1214-1220	Weiher	*[18]	
+12-15	1221-1224	als	_	
+12-16	1225-1233	nutzbare	_	
+12-17	1234-1249	Alternativroute	_	
+12-18	1250-1261	nachgedacht	_	
+12-19	1262-1268	werden	_	
+12-20	1268-1269	.	_	
+
+#Text=Durch die Nutzung der Straße durch Radfahrer in beide Richtungen wird der Tote Winkel in der Rechtskurve sehr gefährlich.
+13-1	1270-1275	Durch	_	
+13-2	1276-1279	die	_	
+13-3	1280-1287	Nutzung	_	
+13-4	1288-1291	der	_	
+13-5	1292-1298	Straße	_	
+13-6	1299-1304	durch	_	
+13-7	1305-1314	Radfahrer	_	
+13-8	1315-1317	in	_	
+13-9	1318-1323	beide	_	
+13-10	1324-1334	Richtungen	_	
+13-11	1335-1339	wird	_	
+13-12	1340-1343	der	_	
+13-13	1344-1348	Tote	_	
+13-14	1349-1355	Winkel	_	
+13-15	1356-1358	in	_	
+13-16	1359-1362	der	_	
+13-17	1363-1374	Rechtskurve	_	
+13-18	1375-1379	sehr	_	
+13-19	1380-1390	gefährlich	_	
+13-20	1390-1391	.	_	
+
+#Text=Oft stehen hier zudem Autos im Halteverbot.
+14-1	1392-1395	Oft	_	
+14-2	1396-1402	stehen	_	
+14-3	1403-1407	hier	_	
+14-4	1408-1413	zudem	_	
+14-5	1414-1419	Autos	_	
+14-6	1420-1422	im	_	
+14-7	1423-1434	Halteverbot	_	
+14-8	1434-1435	.	_	

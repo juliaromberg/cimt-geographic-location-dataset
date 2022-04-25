@@ -1,0 +1,71 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegparker und schmale Radwege
+1-1	0-12	Radwegparker	_	
+1-2	13-16	und	_	
+1-3	17-24	schmale	_	
+1-4	25-32	Radwege	_	
+
+#Text=Auf dem Abschnitt zwischen Widdersdorfer und Bahnunterquerung parken zunehmend PKW, aber oft auch Autotransporter oder andere LKW die RAdwege in beiden Richtungen zu.
+2-1	35-38	Auf	*[4]	
+2-2	39-42	dem	*[4]	
+2-3	43-52	Abschnitt	*[4]	
+2-4	53-61	zwischen	*[4]	
+2-5	62-75	Widdersdorfer	*[4]	
+2-6	76-79	und	*[4]	
+2-7	80-96	Bahnunterquerung	*[4]	
+2-8	97-103	parken	_	
+2-9	104-113	zunehmend	_	
+2-10	114-117	PKW	_	
+2-11	117-118	,	_	
+2-12	119-123	aber	_	
+2-13	124-127	oft	_	
+2-14	128-132	auch	_	
+2-15	133-148	Autotransporter	_	
+2-16	149-153	oder	_	
+2-17	154-160	andere	_	
+2-18	161-164	LKW	_	
+2-19	165-168	die	_	
+2-20	169-176	RAdwege	_	
+2-21	177-179	in	_	
+2-22	180-186	beiden	_	
+2-23	187-197	Richtungen	_	
+2-24	198-200	zu	_	
+2-25	200-201	.	_	
+
+#Text=Da die Radwege wie auch die Bürgersteige in diesem Abschnitt sehr eingezängt liegen, bleibt für Räder mit Anhängern manchmal kein Platz: Man muss auf die Fahrbahn: gefährlich.
+3-1	202-204	Da	_	
+3-2	205-208	die	_	
+3-3	209-216	Radwege	_	
+3-4	217-220	wie	_	
+3-5	221-225	auch	_	
+3-6	226-229	die	_	
+3-7	230-242	Bürgersteige	_	
+3-8	243-245	in	_	
+3-9	246-252	diesem	_	
+3-10	253-262	Abschnitt	_	
+3-11	263-267	sehr	_	
+3-12	268-278	eingezängt	_	
+3-13	279-285	liegen	_	
+3-14	285-286	,	_	
+3-15	287-293	bleibt	_	
+3-16	294-297	für	_	
+3-17	298-303	Räder	_	
+3-18	304-307	mit	_	
+3-19	308-317	Anhängern	_	
+3-20	318-326	manchmal	_	
+3-21	327-331	kein	_	
+3-22	332-337	Platz	_	
+3-23	337-338	:	_	
+3-24	339-342	Man	_	
+3-25	343-347	muss	_	
+3-26	348-351	auf	_	
+3-27	352-355	die	_	
+3-28	356-364	Fahrbahn	_	
+3-29	364-365	:	_	
+3-30	366-376	gefährlich	_	
+3-31	376-377	.	_	

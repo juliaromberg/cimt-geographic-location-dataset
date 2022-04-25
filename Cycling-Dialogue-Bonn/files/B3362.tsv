@@ -1,0 +1,139 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unklare Verkehrsführung von der August-Bier-Straße auf die Reuterbrücke
+1-1	0-7	Unklare	_	
+1-2	8-23	Verkehrsführung	_	
+1-3	24-27	von	*[9]	
+1-4	28-31	der	*[9]	
+1-5	32-50	August-Bier-Straße	*[9]	
+1-6	51-54	auf	*[9]	
+1-7	55-58	die	*[9]	
+1-8	59-71	Reuterbrücke	*[9]	
+
+#Text=Fährt man die Fahrradstraße auf der August-Bier-Straße in Richtung Reuterbrücke, so wird man mit Piktogrammen auf der Straße vor der Reuterbrücke in die Oskar-Walzel-Straße geführt.
+2-1	74-79	Fährt	_	
+2-2	80-83	man	_	
+2-3	84-87	die	*[10]	
+2-4	88-101	Fahrradstraße	*[10]	
+2-5	102-105	auf	*[10]	
+2-6	106-109	der	*[10]	
+2-7	110-128	August-Bier-Straße	*[10]	
+2-8	129-131	in	*[10]	
+2-9	132-140	Richtung	*[10]	
+2-10	141-153	Reuterbrücke	*[10]	
+2-11	153-154	,	_	
+2-12	155-157	so	_	
+2-13	158-162	wird	_	
+2-14	163-166	man	_	
+2-15	167-170	mit	_	
+2-16	171-183	Piktogrammen	_	
+2-17	184-187	auf	*[11]	
+2-18	188-191	der	*[11]	
+2-19	192-198	Straße	*[11]	
+2-20	199-202	vor	*[11]	
+2-21	203-206	der	*[11]	
+2-22	207-219	Reuterbrücke	*[11]	
+2-23	220-222	in	*[11]	
+2-24	223-226	die	*[11]	
+2-25	227-246	Oskar-Walzel-Straße	*[11]	
+2-26	247-254	geführt	_	
+2-27	254-255	.	_	
+
+#Text=Möchte man aber geradeaus bzw. halb links und dann rechts auf die Reuterbrücke, ist nicht klar, wie man hier fahren soll.
+3-1	256-262	Möchte	_	
+3-2	263-266	man	_	
+3-3	267-271	aber	_	
+3-4	272-281	geradeaus	*[12]	
+3-5	282-285	bzw	*[12]	
+3-6	285-286	.	*[12]	
+3-7	287-291	halb	*[12]	
+3-8	292-297	links	*[12]	
+3-9	298-301	und	*[12]	
+3-10	302-306	dann	*[12]	
+3-11	307-313	rechts	*[12]	
+3-12	314-317	auf	*[12]	
+3-13	318-321	die	*[12]	
+3-14	322-334	Reuterbrücke	*[12]	
+3-15	334-335	,	_	
+3-16	336-339	ist	_	
+3-17	340-345	nicht	_	
+3-18	346-350	klar	_	
+3-19	350-351	,	_	
+3-20	352-355	wie	_	
+3-21	356-359	man	_	
+3-22	360-364	hier	_	
+3-23	365-371	fahren	_	
+3-24	372-376	soll	_	
+3-25	376-377	.	_	
+
+#Text=Für Geradeausfahrer steht dort ein Durchfahrt-Verboten-Schild.
+4-1	378-381	Für	_	
+4-2	382-397	Geradeausfahrer	_	
+4-3	398-403	steht	_	
+4-4	404-408	dort	_	
+4-5	409-412	ein	_	
+4-6	413-439	Durchfahrt-Verboten-Schild	_	
+4-7	439-440	.	_	
+
+#Text=Gemeint ist hier sicher der Kfz-Verkehr, der sich aber leider überhaupt nicht an dieses Schild hält.
+5-1	441-448	Gemeint	_	
+5-2	449-452	ist	_	
+5-3	453-457	hier	_	
+5-4	458-464	sicher	_	
+5-5	465-468	der	_	
+5-6	469-480	Kfz-Verkehr	_	
+5-7	480-481	,	_	
+5-8	482-485	der	_	
+5-9	486-490	sich	_	
+5-10	491-495	aber	_	
+5-11	496-502	leider	_	
+5-12	503-512	überhaupt	_	
+5-13	513-518	nicht	_	
+5-14	519-521	an	_	
+5-15	522-528	dieses	_	
+5-16	529-535	Schild	_	
+5-17	536-540	hält	_	
+5-18	540-541	.	_	
+
+#Text=Eigentlich müsste ich hier absteigen und das Fahrrad auf die Reuterbrücke schieben.
+6-1	542-552	Eigentlich	_	
+6-2	553-559	müsste	_	
+6-3	560-563	ich	_	
+6-4	564-568	hier	_	
+6-5	569-578	absteigen	_	
+6-6	579-582	und	_	
+6-7	583-586	das	_	
+6-8	587-594	Fahrrad	_	
+6-9	595-598	auf	*[13]	
+6-10	599-602	die	*[13]	
+6-11	603-615	Reuterbrücke	*[13]	
+6-12	616-624	schieben	_	
+6-13	624-625	.	_	
+
+#Text=Ich kann mir nicht vorstellen, dass das wirklich so gewollt ist.
+7-1	626-629	Ich	_	
+7-2	630-634	kann	_	
+7-3	635-638	mir	_	
+7-4	639-644	nicht	_	
+7-5	645-655	vorstellen	_	
+7-6	655-656	,	_	
+7-7	657-661	dass	_	
+7-8	662-665	das	_	
+7-9	666-674	wirklich	_	
+7-10	675-677	so	_	
+7-11	678-685	gewollt	_	
+7-12	686-689	ist	_	
+7-13	689-690	.	_	
+
+#Text=Oder habe ich hier irgendwas übersehen?
+8-1	691-695	Oder	_	
+8-2	696-700	habe	_	
+8-3	701-704	ich	_	
+8-4	705-709	hier	_	
+8-5	710-719	irgendwas	_	
+8-6	720-729	übersehen	_	
+8-7	729-730	?	_	

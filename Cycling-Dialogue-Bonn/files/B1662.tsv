@@ -1,0 +1,26 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Straßenbelag ist eine Zumutung
+1-1	0-12	Straßenbelag	_	
+1-2	13-16	ist	_	
+1-3	17-21	eine	_	
+1-4	22-30	Zumutung	_	
+
+#Text=Das ist wie Trailfahren mit dem Mountainbike.
+2-1	33-36	Das	_	
+2-2	37-40	ist	_	
+2-3	41-44	wie	_	
+2-4	45-56	Trailfahren	_	
+2-5	57-60	mit	_	
+2-6	61-64	dem	_	
+2-7	65-77	Mountainbike	_	
+2-8	77-78	.	_	
+
+#Text=Bitte ausbessern!
+3-1	79-84	Bitte	_	
+3-2	85-95	ausbessern	_	
+3-3	95-96	!	_	

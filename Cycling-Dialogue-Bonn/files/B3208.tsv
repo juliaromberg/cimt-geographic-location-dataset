@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=zu schmaler Bürgersteig Bonn Beuel Auf dem Grendt
+1-1	0-2	zu	_	
+1-2	3-11	schmaler	_	
+1-3	12-23	Bürgersteig	_	
+1-4	24-28	Bonn	*[4]	
+1-5	29-34	Beuel	*[4]	
+1-6	35-38	Auf	*[4]	
+1-7	39-42	dem	*[4]	
+1-8	43-49	Grendt	*[4]	
+
+#Text=Auf dem Grendt ist der Bürgersteig viel zu schmal.
+2-1	52-55	Auf	*[5]	
+2-2	56-59	dem	*[5]	
+2-3	60-66	Grendt	*[5]	
+2-4	67-70	ist	_	
+2-5	71-74	der	_	
+2-6	75-86	Bürgersteig	_	
+2-7	87-91	viel	_	
+2-8	92-94	zu	_	
+2-9	95-101	schmal	_	
+2-10	101-102	.	_	
+
+#Text=Kinder unter 8 Jahren müssen mit ihrem Fahrrad eigentlich auf der Straße fahren und das ist super gefährlich.
+3-1	103-109	Kinder	_	
+3-2	110-115	unter	_	
+3-3	116-117	8	_	
+3-4	118-124	Jahren	_	
+3-5	125-131	müssen	_	
+3-6	132-135	mit	_	
+3-7	136-141	ihrem	_	
+3-8	142-149	Fahrrad	_	
+3-9	150-160	eigentlich	_	
+3-10	161-164	auf	_	
+3-11	165-168	der	_	
+3-12	169-175	Straße	_	
+3-13	176-182	fahren	_	
+3-14	183-186	und	_	
+3-15	187-190	das	_	
+3-16	191-194	ist	_	
+3-17	195-200	super	_	
+3-18	201-211	gefährlich	_	
+3-19	211-212	.	_	

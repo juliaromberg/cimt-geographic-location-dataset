@@ -1,0 +1,275 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Busse queren Radweg
+1-1	0-5	Busse	_	
+1-2	6-12	queren	_	
+1-3	13-19	Radweg	_	
+
+#Text=Am Bertha-von-Suttner-Platz halten Stadtbusse mehrerer Buslinien auf einer eigenen Busspur auf rechten Straßenseite (Richtung Kennedybrücke).
+2-1	22-24	Am	*[13]	
+2-2	25-49	Bertha-von-Suttner-Platz	*[13]	
+2-3	50-56	halten	_	
+2-4	57-67	Stadtbusse	_	
+2-5	68-76	mehrerer	_	
+2-6	77-86	Buslinien	_	
+2-7	87-90	auf	_	
+2-8	91-96	einer	_	
+2-9	97-104	eigenen	_	
+2-10	105-112	Busspur	_	
+2-11	113-116	auf	_	
+2-12	117-124	rechten	_	
+2-13	125-137	Straßenseite	_	
+2-14	138-139	(	_	
+2-15	139-147	Richtung	*[14]	
+2-16	148-161	Kennedybrücke	*[14]	
+2-17	161-162	)	_	
+2-18	162-163	.	_	
+
+#Text=Zwischen Busspur und Autospuren befindet sich eine schmale Fahrradspur.
+3-1	164-172	Zwischen	_	
+3-2	173-180	Busspur	_	
+3-3	181-184	und	_	
+3-4	185-195	Autospuren	_	
+3-5	196-204	befindet	_	
+3-6	205-209	sich	_	
+3-7	210-214	eine	_	
+3-8	215-222	schmale	_	
+3-9	223-234	Fahrradspur	_	
+3-10	234-235	.	_	
+
+#Text=Nach Verlassen der Bushaltestelle müssen sich einige Busse nach links auf die Autospuren einordnen und überqueren dabei die Fahrradspur.
+4-1	236-240	Nach	_	
+4-2	241-250	Verlassen	_	
+4-3	251-254	der	_	
+4-4	255-269	Bushaltestelle	_	
+4-5	270-276	müssen	_	
+4-6	277-281	sich	_	
+4-7	282-288	einige	_	
+4-8	289-294	Busse	_	
+4-9	295-299	nach	_	
+4-10	300-305	links	_	
+4-11	306-309	auf	_	
+4-12	310-313	die	_	
+4-13	314-324	Autospuren	_	
+4-14	325-334	einordnen	_	
+4-15	335-338	und	_	
+4-16	339-349	überqueren	_	
+4-17	350-355	dabei	_	
+4-18	356-359	die	_	
+4-19	360-371	Fahrradspur	_	
+4-20	371-372	.	_	
+
+#Text=Für Fahrradfahrer eine sehr gefährliche Situation, da gleichzeitig auch Autos nach rechts abbiegen wollen, um auf die Abbiegespur zum Belderberg zu kommen.
+5-1	373-376	Für	_	
+5-2	377-390	Fahrradfahrer	_	
+5-3	391-395	eine	_	
+5-4	396-400	sehr	_	
+5-5	401-412	gefährliche	_	
+5-6	413-422	Situation	_	
+5-7	422-423	,	_	
+5-8	424-426	da	_	
+5-9	427-439	gleichzeitig	_	
+5-10	440-444	auch	_	
+5-11	445-450	Autos	_	
+5-12	451-455	nach	_	
+5-13	456-462	rechts	_	
+5-14	463-471	abbiegen	_	
+5-15	472-478	wollen	_	
+5-16	478-479	,	_	
+5-17	480-482	um	_	
+5-18	483-486	auf	_	
+5-19	487-490	die	_	
+5-20	491-502	Abbiegespur	_	
+5-21	503-506	zum	_	
+5-22	507-517	Belderberg	_	
+5-23	518-520	zu	_	
+5-24	521-527	kommen	_	
+5-25	527-528	.	_	
+
+#Text=Besonders kritisch wird die Situation, wenn alle Fahrzeuge (Autos, Busse, Fahrräder) nahezu gleichzeitig bei Umschalten der Ampel (in Höhe der Bäckerei Schell) von Rot auf Grün losfahren.
+6-1	529-538	Besonders	_	
+6-2	539-547	kritisch	_	
+6-3	548-552	wird	_	
+6-4	553-556	die	_	
+6-5	557-566	Situation	_	
+6-6	566-567	,	_	
+6-7	568-572	wenn	_	
+6-8	573-577	alle	_	
+6-9	578-587	Fahrzeuge	_	
+6-10	588-589	(	_	
+6-11	589-594	Autos	_	
+6-12	594-595	,	_	
+6-13	596-601	Busse	_	
+6-14	601-602	,	_	
+6-15	603-612	Fahrräder	_	
+6-16	612-613	)	_	
+6-17	614-620	nahezu	_	
+6-18	621-633	gleichzeitig	_	
+6-19	634-637	bei	_	
+6-20	638-648	Umschalten	_	
+6-21	649-652	der	_	
+6-22	653-658	Ampel	_	
+6-23	659-660	(	_	
+6-24	660-662	in	_	
+6-25	663-667	Höhe	_	
+6-26	668-671	der	_	
+6-27	672-680	Bäckerei	_	
+6-28	681-687	Schell	_	
+6-29	687-688	)	_	
+6-30	689-692	von	_	
+6-31	693-696	Rot	_	
+6-32	697-700	auf	_	
+6-33	701-705	Grün	_	
+6-34	706-715	losfahren	_	
+6-35	715-716	.	_	
+
+#Text=Die Busse dürfen zwar einige Sekunden früher losfahren, doch ist diese Zeit oft zu knapp.
+7-1	717-720	Die	_	
+7-2	721-726	Busse	_	
+7-3	727-733	dürfen	_	
+7-4	734-738	zwar	_	
+7-5	739-745	einige	_	
+7-6	746-754	Sekunden	_	
+7-7	755-761	früher	_	
+7-8	762-771	losfahren	_	
+7-9	771-772	,	_	
+7-10	773-777	doch	_	
+7-11	778-781	ist	_	
+7-12	782-787	diese	_	
+7-13	788-792	Zeit	_	
+7-14	793-796	oft	_	
+7-15	797-799	zu	_	
+7-16	800-805	knapp	_	
+7-17	805-806	.	_	
+
+#Text=Teilweise fährt der Bus nicht direkt bei Grün los, da noch Personen Ein-/Aussteigen oder ein zweiter Bus kommt von hinten angerauscht, wenn die Ampel für Fahrräder und Autos bereits auf Grün steht.
+8-1	807-816	Teilweise	_	
+8-2	817-822	fährt	_	
+8-3	823-826	der	_	
+8-4	827-830	Bus	_	
+8-5	831-836	nicht	_	
+8-6	837-843	direkt	_	
+8-7	844-847	bei	_	
+8-8	848-852	Grün	_	
+8-9	853-856	los	_	
+8-10	856-857	,	_	
+8-11	858-860	da	_	
+8-12	861-865	noch	_	
+8-13	866-874	Personen	_	
+8-14	875-878	Ein	_	
+8-15	878-879	-	_	
+8-16	879-880	/	_	
+8-17	880-890	Aussteigen	_	
+8-18	891-895	oder	_	
+8-19	896-899	ein	_	
+8-20	900-907	zweiter	_	
+8-21	908-911	Bus	_	
+8-22	912-917	kommt	_	
+8-23	918-921	von	_	
+8-24	922-928	hinten	_	
+8-25	929-940	angerauscht	_	
+8-26	940-941	,	_	
+8-27	942-946	wenn	_	
+8-28	947-950	die	_	
+8-29	951-956	Ampel	_	
+8-30	957-960	für	_	
+8-31	961-970	Fahrräder	_	
+8-32	971-974	und	_	
+8-33	975-980	Autos	_	
+8-34	981-988	bereits	_	
+8-35	989-992	auf	_	
+8-36	993-997	Grün	_	
+8-37	998-1003	steht	_	
+8-38	1003-1004	.	_	
+
+#Text=Dann kann es passieren, dass Fahrradfahrer bereits losgefahren sind und der Bus dann erst losfährt.
+9-1	1005-1009	Dann	_	
+9-2	1010-1014	kann	_	
+9-3	1015-1017	es	_	
+9-4	1018-1027	passieren	_	
+9-5	1027-1028	,	_	
+9-6	1029-1033	dass	_	
+9-7	1034-1047	Fahrradfahrer	_	
+9-8	1048-1055	bereits	_	
+9-9	1056-1067	losgefahren	_	
+9-10	1068-1072	sind	_	
+9-11	1073-1076	und	_	
+9-12	1077-1080	der	_	
+9-13	1081-1084	Bus	_	
+9-14	1085-1089	dann	_	
+9-15	1090-1094	erst	_	
+9-16	1095-1103	losfährt	_	
+9-17	1103-1104	.	_	
+
+#Text=Statt den Fahrradfahrern die Vorfahrt zu gewähren, überholen viele Busfahrer die Fahrradfahrer auf der rechten Seite und scheren kurz danach nach links aus, um auf die Autospur zu kommen.
+10-1	1105-1110	Statt	_	
+10-2	1111-1114	den	_	
+10-3	1115-1129	Fahrradfahrern	_	
+10-4	1130-1133	die	_	
+10-5	1134-1142	Vorfahrt	_	
+10-6	1143-1145	zu	_	
+10-7	1146-1154	gewähren	_	
+10-8	1154-1155	,	_	
+10-9	1156-1165	überholen	_	
+10-10	1166-1171	viele	_	
+10-11	1172-1181	Busfahrer	_	
+10-12	1182-1185	die	_	
+10-13	1186-1199	Fahrradfahrer	_	
+10-14	1200-1203	auf	_	
+10-15	1204-1207	der	_	
+10-16	1208-1215	rechten	_	
+10-17	1216-1221	Seite	_	
+10-18	1222-1225	und	_	
+10-19	1226-1233	scheren	_	
+10-20	1234-1238	kurz	_	
+10-21	1239-1245	danach	_	
+10-22	1246-1250	nach	_	
+10-23	1251-1256	links	_	
+10-24	1257-1260	aus	_	
+10-25	1260-1261	,	_	
+10-26	1262-1264	um	_	
+10-27	1265-1268	auf	_	
+10-28	1269-1272	die	_	
+10-29	1273-1281	Autospur	_	
+10-30	1282-1284	zu	_	
+10-31	1285-1291	kommen	_	
+10-32	1291-1292	.	_	
+
+#Text=Bei einer solchen Aktion schneiden die Busse die Fahrradfahrer oft sehr knapp.
+11-1	1293-1296	Bei	_	
+11-2	1297-1302	einer	_	
+11-3	1303-1310	solchen	_	
+11-4	1311-1317	Aktion	_	
+11-5	1318-1327	schneiden	_	
+11-6	1328-1331	die	_	
+11-7	1332-1337	Busse	_	
+11-8	1338-1341	die	_	
+11-9	1342-1355	Fahrradfahrer	_	
+11-10	1356-1359	oft	_	
+11-11	1360-1364	sehr	_	
+11-12	1365-1370	knapp	_	
+11-13	1370-1371	.	_	
+
+#Text=Die Fahrradfahrer sind gezwungen, abzubremsen, um nicht vom Bus an- oder überfahren zu werden.
+12-1	1372-1375	Die	_	
+12-2	1376-1389	Fahrradfahrer	_	
+12-3	1390-1394	sind	_	
+12-4	1395-1404	gezwungen	_	
+12-5	1404-1405	,	_	
+12-6	1406-1417	abzubremsen	_	
+12-7	1417-1418	,	_	
+12-8	1419-1421	um	_	
+12-9	1422-1427	nicht	_	
+12-10	1428-1431	vom	_	
+12-11	1432-1435	Bus	_	
+12-12	1436-1438	an	_	
+12-13	1438-1439	-	_	
+12-14	1440-1444	oder	_	
+12-15	1445-1455	überfahren	_	
+12-16	1456-1458	zu	_	
+12-17	1459-1465	werden	_	
+12-18	1465-1466	.	_	

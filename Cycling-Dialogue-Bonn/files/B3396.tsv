@@ -1,0 +1,137 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ippendorfer Westhang für Radfahrer und Kinderwagen durchgehend öffnen
+1-1	0-11	Ippendorfer	*[6]	
+1-2	12-20	Westhang	*[6]	
+1-3	21-24	für	_	
+1-4	25-34	Radfahrer	_	
+1-5	35-38	und	_	
+1-6	39-50	Kinderwagen	_	
+1-7	51-62	durchgehend	_	
+1-8	63-69	öffnen	_	
+
+#Text=Wer sich der Hektik von Röttgener Straße / Ippendorfer Allee (inkl. der dort völlig fehlenden Radwege und viel zu schmalen Fußwege) entziehen möchte, könnte statt dessen die Idylle am Ippendorfer Westhang genießen.
+2-1	72-75	Wer	_	
+2-2	76-80	sich	_	
+2-3	81-84	der	_	
+2-4	85-91	Hektik	_	
+2-5	92-95	von	*[7]	
+2-6	96-105	Röttgener	*[7]	
+2-7	106-112	Straße	*[7]	
+2-8	113-114	/	*[7]	
+2-9	115-126	Ippendorfer	*[7]	
+2-10	127-132	Allee	*[7]	
+2-11	133-134	(	_	
+2-12	134-138	inkl	_	
+2-13	138-139	.	_	
+2-14	140-143	der	_	
+2-15	144-148	dort	_	
+2-16	149-155	völlig	_	
+2-17	156-165	fehlenden	_	
+2-18	166-173	Radwege	_	
+2-19	174-177	und	_	
+2-20	178-182	viel	_	
+2-21	183-185	zu	_	
+2-22	186-194	schmalen	_	
+2-23	195-202	Fußwege	_	
+2-24	202-203	)	_	
+2-25	204-213	entziehen	_	
+2-26	214-220	möchte	_	
+2-27	220-221	,	_	
+2-28	222-228	könnte	_	
+2-29	229-234	statt	_	
+2-30	235-241	dessen	_	
+2-31	242-245	die	_	
+2-32	246-252	Idylle	_	
+2-33	253-255	am	*[8]	
+2-34	256-267	Ippendorfer	*[8]	
+2-35	268-276	Westhang	*[8]	
+2-36	277-285	genießen	_	
+2-37	285-286	.	_	
+
+#Text=Dorthin gelangt man derzeit aber nur als Fußgänger oder über einen großen Umweg via [Firma] / Alte Schule und dann Auf dem Heidgen bis runter zur Sackgasse (Auf dem Heidgen 86) wieder alles zurück.
+3-1	287-294	Dorthin	_	
+3-2	295-302	gelangt	_	
+3-3	303-306	man	_	
+3-4	307-314	derzeit	_	
+3-5	315-319	aber	_	
+3-6	320-323	nur	_	
+3-7	324-327	als	_	
+3-8	328-337	Fußgänger	_	
+3-9	338-342	oder	_	
+3-10	343-347	über	_	
+3-11	348-353	einen	_	
+3-12	354-360	großen	_	
+3-13	361-366	Umweg	_	
+3-14	367-370	via	_	
+3-15	371-372	[	_	
+3-16	372-377	Firma	_	
+3-17	377-378	]	_	
+3-18	379-380	/	_	
+3-19	381-385	Alte	*[9]	
+3-20	386-392	Schule	*[9]	
+3-21	393-396	und	*[9]	
+3-22	397-401	dann	*[9]	
+3-23	402-405	Auf	*[9]	
+3-24	406-409	dem	*[9]	
+3-25	410-417	Heidgen	*[9]	
+3-26	418-421	bis	*[9]	
+3-27	422-428	runter	*[9]	
+3-28	429-432	zur	*[9]	
+3-29	433-442	Sackgasse	*[9]	
+3-30	443-444	(	*[9]	
+3-31	444-447	Auf	*[9]	
+3-32	448-451	dem	*[9]	
+3-33	452-459	Heidgen	*[9]	
+3-34	460-462	86	*[9]	
+3-35	462-463	)	*[9]	
+3-36	464-470	wieder	_	
+3-37	471-476	alles	_	
+3-38	477-483	zurück	_	
+3-39	483-484	.	_	
+
+#Text=Lösung: Entfernung der Absperrgitter sowie Begradigung der Stufen an der markierten Stelle (Verbindung Westhang zur Röttgener Straße 198).
+4-1	485-491	Lösung	_	
+4-2	491-492	:	_	
+4-3	493-503	Entfernung	_	
+4-4	504-507	der	_	
+4-5	508-521	Absperrgitter	_	
+4-6	522-527	sowie	_	
+4-7	528-539	Begradigung	_	
+4-8	540-543	der	_	
+4-9	544-550	Stufen	_	
+4-10	551-553	an	_	
+4-11	554-557	der	_	
+4-12	558-568	markierten	_	
+4-13	569-575	Stelle	_	
+4-14	576-577	(	_	
+4-15	577-587	Verbindung	*[10]	
+4-16	588-596	Westhang	*[10]	
+4-17	597-600	zur	*[10]	
+4-18	601-610	Röttgener	*[10]	
+4-19	611-617	Straße	*[10]	
+4-20	618-621	198	*[10]	
+4-21	621-622	)	_	
+4-22	622-623	.	_	
+
+#Text=Nicht nur Radfahrer, sondern auch fußläufige Chauffeure von Kinderwagen würden sich darüber bestimmt freuen.
+5-1	624-629	Nicht	_	
+5-2	630-633	nur	_	
+5-3	634-643	Radfahrer	_	
+5-4	643-644	,	_	
+5-5	645-652	sondern	_	
+5-6	653-657	auch	_	
+5-7	658-668	fußläufige	_	
+5-8	669-679	Chauffeure	_	
+5-9	680-683	von	_	
+5-10	684-695	Kinderwagen	_	
+5-11	696-702	würden	_	
+5-12	703-707	sich	_	
+5-13	708-715	darüber	_	
+5-14	716-724	bestimmt	_	
+5-15	725-731	freuen	_	
+5-16	731-732	.	_	

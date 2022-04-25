@@ -1,0 +1,46 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beschleunigung des Radverkehrs
+1-1	0-14	Beschleunigung	_	
+1-2	15-18	des	_	
+1-3	19-30	Radverkehrs	_	
+
+#Text=Hier sollte die Ampelschaltung in Nord-Süd-Richtung und andersrum bitte für den Radverkehr optimiert werden, damit es eine Grüne Welle gibt.
+2-1	33-37	Hier	_	
+2-2	38-44	sollte	_	
+2-3	45-48	die	_	
+2-4	49-63	Ampelschaltung	_	
+2-5	64-66	in	_	
+2-6	67-84	Nord-Süd-Richtung	_	
+2-7	85-88	und	_	
+2-8	89-98	andersrum	_	
+2-9	99-104	bitte	_	
+2-10	105-108	für	_	
+2-11	109-112	den	_	
+2-12	113-123	Radverkehr	_	
+2-13	124-133	optimiert	_	
+2-14	134-140	werden	_	
+2-15	140-141	,	_	
+2-16	142-147	damit	_	
+2-17	148-150	es	_	
+2-18	151-155	eine	_	
+2-19	156-161	Grüne	_	
+2-20	162-167	Welle	_	
+2-21	168-172	gibt	_	
+2-22	172-173	.	_	
+
+#Text=Oder ggfs. mit Bodensensoren automatisch Grün geschaltet wird.
+3-1	174-178	Oder	_	
+3-2	179-183	ggfs	_	
+3-3	183-184	.	_	
+3-4	185-188	mit	_	
+3-5	189-202	Bodensensoren	_	
+3-6	203-214	automatisch	_	
+3-7	215-219	Grün	_	
+3-8	220-230	geschaltet	_	
+3-9	231-235	wird	_	
+3-10	235-236	.	_	

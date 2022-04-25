@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelschaltung Höhe Museum König
+1-1	0-14	Ampelschaltung	*[6]	
+1-2	15-19	Höhe	*[6]	
+1-3	20-26	Museum	*[6]	
+1-4	27-32	König	*[6]	
+
+#Text=Diese Ampelschaltung für Radfahrer und Fußgänger zum fast einzigen Überqueren der B9 ist leider sehr zum Nachteil der Radfahrer und Fußgänger geschaltet.
+2-1	35-40	Diese	_	
+2-2	41-55	Ampelschaltung	_	
+2-3	56-59	für	_	
+2-4	60-69	Radfahrer	_	
+2-5	70-73	und	_	
+2-6	74-83	Fußgänger	_	
+2-7	84-87	zum	_	
+2-8	88-92	fast	_	
+2-9	93-101	einzigen	_	
+2-10	102-112	Überqueren	*[7]	
+2-11	113-116	der	*[7]	
+2-12	117-119	B9	*[7]	
+2-13	120-123	ist	_	
+2-14	124-130	leider	_	
+2-15	131-135	sehr	_	
+2-16	136-139	zum	_	
+2-17	140-148	Nachteil	_	
+2-18	149-152	der	_	
+2-19	153-162	Radfahrer	_	
+2-20	163-166	und	_	
+2-21	167-176	Fußgänger	_	
+2-22	177-187	geschaltet	_	
+2-23	187-188	.	_	
+
+#Text=Man muss extrem lange warten bis zu auf grün springt und das ist ungerecht und die Autofahrer sind deutlich hier im Vorteil.
+3-1	189-192	Man	_	
+3-2	193-197	muss	_	
+3-3	198-204	extrem	_	
+3-4	205-210	lange	_	
+3-5	211-217	warten	_	
+3-6	218-221	bis	_	
+3-7	222-224	zu	_	
+3-8	225-228	auf	_	
+3-9	229-233	grün	_	
+3-10	234-241	springt	_	
+3-11	242-245	und	_	
+3-12	246-249	das	_	
+3-13	250-253	ist	_	
+3-14	254-263	ungerecht	_	
+3-15	264-267	und	_	
+3-16	268-271	die	_	
+3-17	272-282	Autofahrer	_	
+3-18	283-287	sind	_	
+3-19	288-296	deutlich	_	
+3-20	297-301	hier	_	
+3-21	302-304	im	_	
+3-22	305-312	Vorteil	_	
+3-23	312-313	.	_	
+
+#Text=Das muss ja nicht so sein.
+4-1	314-317	Das	_	
+4-2	318-322	muss	_	
+4-3	323-325	ja	_	
+4-4	326-331	nicht	_	
+4-5	332-334	so	_	
+4-6	335-339	sein	_	
+4-7	339-340	.	_	
+
+#Text=Bitte ändern und verbessern.
+5-1	341-346	Bitte	_	
+5-2	347-353	ändern	_	
+5-3	354-357	und	_	
+5-4	358-368	verbessern	_	
+5-5	368-369	.	_	

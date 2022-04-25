@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Anlieger frei für Kraftfahrer - wird aber ignoriert
+1-1	0-8	Anlieger	_	
+1-2	9-13	frei	_	
+1-3	14-17	für	_	
+1-4	18-29	Kraftfahrer	_	
+1-5	30-31	-	_	
+1-6	32-36	wird	_	
+1-7	37-41	aber	_	
+1-8	42-51	ignoriert	_	
+
+#Text=Der Schwarze Weg ist eigentlich Anlieger frei für Kraftfahrer.
+2-1	54-57	Der	_	
+2-2	58-66	Schwarze	_	
+2-3	67-70	Weg	_	
+2-4	71-74	ist	_	
+2-5	75-85	eigentlich	_	
+2-6	86-94	Anlieger	_	
+2-7	95-99	frei	_	
+2-8	100-103	für	_	
+2-9	104-115	Kraftfahrer	_	
+2-10	115-116	.	_	
+
+#Text=Im Berufsverkehr scheint das aber viele Autofahrer nicht zu stören, was die Attraktivität des Weges für Radfahrer schmälert.
+3-1	117-119	Im	_	
+3-2	120-133	Berufsverkehr	_	
+3-3	134-141	scheint	_	
+3-4	142-145	das	_	
+3-5	146-150	aber	_	
+3-6	151-156	viele	_	
+3-7	157-167	Autofahrer	_	
+3-8	168-173	nicht	_	
+3-9	174-176	zu	_	
+3-10	177-183	stören	_	
+3-11	183-184	,	_	
+3-12	185-188	was	_	
+3-13	189-192	die	_	
+3-14	193-206	Attraktivität	_	
+3-15	207-210	des	_	
+3-16	211-216	Weges	_	
+3-17	217-220	für	_	
+3-18	221-230	Radfahrer	_	
+3-19	231-240	schmälert	_	
+3-20	240-241	.	_	
+
+#Text=Ab und zu dürfte könnte man hier durchaus den Druchgangsverkehr kontrollieren bzw. verwarnen.
+4-1	242-244	Ab	_	
+4-2	245-248	und	_	
+4-3	249-251	zu	_	
+4-4	252-258	dürfte	_	
+4-5	259-265	könnte	_	
+4-6	266-269	man	_	
+4-7	270-274	hier	_	
+4-8	275-283	durchaus	_	
+4-9	284-287	den	_	
+4-10	288-305	Druchgangsverkehr	_	
+4-11	306-319	kontrollieren	_	
+4-12	320-323	bzw	_	
+4-13	323-324	.	_	
+4-14	325-334	verwarnen	_	
+4-15	334-335	.	_	
+
+#Text=Vielleicht erhöht das die Verkehrsmoral.
+5-1	336-346	Vielleicht	_	
+5-2	347-353	erhöht	_	
+5-3	354-357	das	_	
+5-4	358-361	die	_	
+5-5	362-375	Verkehrsmoral	_	
+5-6	375-376	.	_	

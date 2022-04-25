@@ -1,0 +1,17 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Der Fahhradstraße Vorrang einräumen
+1-1	0-3	Der	_	
+1-2	4-17	Fahhradstraße	_	
+1-3	18-25	Vorrang	_	
+1-4	26-35	einräumen	_	
+
+#Text=Der Fahhradstraße Vorrang einräumen
+2-1	38-41	Der	_	
+2-2	42-55	Fahhradstraße	_	
+2-3	56-63	Vorrang	_	
+2-4	64-73	einräumen	_	

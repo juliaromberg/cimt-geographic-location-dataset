@@ -1,0 +1,122 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parken auf der Fahrbahn
+1-1	0-6	Parken	_	
+1-2	7-10	auf	_	
+1-3	11-14	der	_	
+1-4	15-23	Fahrbahn	_	
+
+#Text=Zwischen 17 Uhr und 8 Uhr parken die Bewohner ihre Autos auf der Straße (insbesondere Heerstraße, Adolfstraße, Breite Straße, Dorotheenstraße) weil alle Parkplätze belegt sind.
+2-1	26-34	Zwischen	_	
+2-2	35-37	17	_	
+2-3	38-41	Uhr	_	
+2-4	42-45	und	_	
+2-5	46-47	8	_	
+2-6	48-51	Uhr	_	
+2-7	52-58	parken	_	
+2-8	59-62	die	_	
+2-9	63-71	Bewohner	_	
+2-10	72-76	ihre	_	
+2-11	77-82	Autos	_	
+2-12	83-86	auf	_	
+2-13	87-90	der	_	
+2-14	91-97	Straße	_	
+2-15	98-99	(	_	
+2-16	99-111	insbesondere	_	
+2-17	112-122	Heerstraße	*[7]	
+2-18	122-123	,	*[7]	
+2-19	124-135	Adolfstraße	*[7]	
+2-20	135-136	,	*[7]	
+2-21	137-143	Breite	*[7]	
+2-22	144-150	Straße	*[7]	
+2-23	150-151	,	*[7]	
+2-24	152-167	Dorotheenstraße	*[7]	
+2-25	167-168	)	_	
+2-26	169-173	weil	_	
+2-27	174-178	alle	_	
+2-28	179-189	Parkplätze	_	
+2-29	190-196	belegt	_	
+2-30	197-201	sind	_	
+2-31	201-202	.	_	
+
+#Text=Dies führt häufig zu Chaos da z.B. morgens die Müllabfuhr nicht vorbei kommt.
+3-1	203-207	Dies	_	
+3-2	208-213	führt	_	
+3-3	214-220	häufig	_	
+3-4	221-223	zu	_	
+3-5	224-229	Chaos	_	
+3-6	230-232	da	_	
+3-7	233-236	z.B	_	
+3-8	236-237	.	_	
+3-9	238-245	morgens	_	
+3-10	246-249	die	_	
+3-11	250-260	Müllabfuhr	_	
+3-12	261-266	nicht	_	
+3-13	267-273	vorbei	_	
+3-14	274-279	kommt	_	
+3-15	279-280	.	_	
+
+#Text=Durch die Falschparker können Radfahrer nicht mehr gegen den Verkehr fahren (die Einbahnstraßen sind für Radfahrer in beide Richtungen frei gegeben).
+4-1	281-286	Durch	_	
+4-2	287-290	die	_	
+4-3	291-303	Falschparker	_	
+4-4	304-310	können	_	
+4-5	311-320	Radfahrer	_	
+4-6	321-326	nicht	_	
+4-7	327-331	mehr	_	
+4-8	332-337	gegen	_	
+4-9	338-341	den	_	
+4-10	342-349	Verkehr	_	
+4-11	350-356	fahren	_	
+4-12	357-358	(	_	
+4-13	358-361	die	_	
+4-14	362-376	Einbahnstraßen	_	
+4-15	377-381	sind	_	
+4-16	382-385	für	_	
+4-17	386-395	Radfahrer	_	
+4-18	396-398	in	_	
+4-19	399-404	beide	_	
+4-20	405-415	Richtungen	_	
+4-21	416-420	frei	_	
+4-22	421-428	gegeben	_	
+4-23	428-429	)	_	
+4-24	429-430	.	_	
+
+#Text=Diese Praxis wird einfach toleriert: Falschparker werden nicht abgeschleppt und kriegen auch keine Knöllchen.
+5-1	431-436	Diese	_	
+5-2	437-443	Praxis	_	
+5-3	444-448	wird	_	
+5-4	449-456	einfach	_	
+5-5	457-466	toleriert	_	
+5-6	466-467	:	_	
+5-7	468-480	Falschparker	_	
+5-8	481-487	werden	_	
+5-9	488-493	nicht	_	
+5-10	494-506	abgeschleppt	_	
+5-11	507-510	und	_	
+5-12	511-518	kriegen	_	
+5-13	519-523	auch	_	
+5-14	524-529	keine	_	
+5-15	530-539	Knöllchen	_	
+5-16	539-540	.	_	
+
+#Text=Der Verkehr sollte aus der Altstadt verbannt werden und Falschparker sollten sofort abgeschleppt werden.
+6-1	541-544	Der	_	
+6-2	545-552	Verkehr	_	
+6-3	553-559	sollte	_	
+6-4	560-563	aus	_	
+6-5	564-567	der	_	
+6-6	568-576	Altstadt	_	
+6-7	577-585	verbannt	_	
+6-8	586-592	werden	_	
+6-9	593-596	und	_	
+6-10	597-609	Falschparker	_	
+6-11	610-617	sollten	_	
+6-12	618-624	sofort	_	
+6-13	625-637	abgeschleppt	_	
+6-14	638-644	werden	_	
+6-15	644-645	.	_	

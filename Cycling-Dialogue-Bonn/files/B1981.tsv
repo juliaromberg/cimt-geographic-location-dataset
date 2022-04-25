@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Steinweg bis Auf dem Hügel zur Fahrradstraße (Vorfahrt!) machen.
+1-1	0-8	Steinweg	*[5]	
+1-2	9-12	bis	*[5]	
+1-3	13-16	Auf	*[5]	
+1-4	17-20	dem	*[5]	
+1-5	21-26	Hügel	*[5]	
+1-6	27-30	zur	_	
+1-7	31-44	Fahrradstraße	_	
+1-8	45-46	(	_	
+1-9	46-54	Vorfahrt	_	
+1-10	54-55	!	_	
+1-11	55-56	)	_	
+1-12	57-63	machen	_	
+1-13	63-64	.	_	
+
+#Text=Den viel zu steilen Drempel bei Aldi Süd entschärfen (kann weg).
+2-1	65-68	Den	_	
+2-2	69-73	viel	_	
+2-3	74-76	zu	_	
+2-4	77-84	steilen	_	
+2-5	85-92	Drempel	_	
+2-6	93-96	bei	_	
+2-7	97-101	Aldi	_	
+2-8	102-105	Süd	_	
+2-9	106-117	entschärfen	_	
+2-10	118-119	(	_	
+2-11	119-123	kann	_	
+2-12	124-127	weg	_	
+2-13	127-128	)	_	
+2-14	128-129	.	_	
+
+#Text=Auch hier muss man als Radfahrer unnötigerweise eine Vollbremsung hinlegen, während Autos parallel auf dem Wanderslebring mit 70 in die Innenstadt durchrauschen können.
+3-1	132-136	Auch	_	
+3-2	137-141	hier	_	
+3-3	142-146	muss	_	
+3-4	147-150	man	_	
+3-5	151-154	als	_	
+3-6	155-164	Radfahrer	_	
+3-7	165-179	unnötigerweise	_	
+3-8	180-184	eine	_	
+3-9	185-197	Vollbremsung	_	
+3-10	198-206	hinlegen	_	
+3-11	206-207	,	_	
+3-12	208-215	während	_	
+3-13	216-221	Autos	_	
+3-14	222-230	parallel	_	
+3-15	231-234	auf	_	
+3-16	235-238	dem	_	
+3-17	239-253	Wanderslebring	_	
+3-18	254-257	mit	_	
+3-19	258-260	70	_	
+3-20	261-263	in	_	
+3-21	264-267	die	_	
+3-22	268-278	Innenstadt	_	
+3-23	279-292	durchrauschen	_	
+3-24	293-299	können	_	
+3-25	299-300	.	_	
+
+#Text=Heißt es nun Autohauptstadt oder Fahrradhauptstadt?
+4-1	301-306	Heißt	_	
+4-2	307-309	es	_	
+4-3	310-313	nun	_	
+4-4	314-328	Autohauptstadt	_	
+4-5	329-333	oder	_	
+4-6	334-351	Fahrradhauptstadt	_	
+4-7	351-352	?	_	

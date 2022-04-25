@@ -1,0 +1,28 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radschnellweg vom Steinweg geradeaus durch den Park und Brücke/Tunnel über die Autobahn zur Immenburgstraße, diese zur Fahrradstraße umwidmen
+1-1	0-13	Radschnellweg	*[2]	
+1-2	14-17	vom	*[2]	
+1-3	18-26	Steinweg	*[2]	
+1-4	27-36	geradeaus	*[2]	
+1-5	37-42	durch	*[2]	
+1-6	43-46	den	*[2]	
+1-7	47-51	Park	*[2]	
+1-8	52-55	und	*[2]	
+1-9	56-62	Brücke	*[2]	
+1-10	62-63	/	*[2]	
+1-11	63-69	Tunnel	*[2]	
+1-12	70-74	über	*[2]	
+1-13	75-78	die	*[2]	
+1-14	79-87	Autobahn	*[2]	
+1-15	88-91	zur	*[2]	
+1-16	92-107	Immenburgstraße	*[2]	
+1-17	107-108	,	_	
+1-18	109-114	diese	_	
+1-19	115-118	zur	_	
+1-20	119-132	Fahrradstraße	_	
+1-21	133-141	umwidmen	_	

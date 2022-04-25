@@ -1,0 +1,60 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Just vor dem Verkehrsministerium unangenehmes Pflaster
+1-1	0-4	Just	_	
+1-2	5-8	vor	*[5]	
+1-3	9-12	dem	*[5]	
+1-4	13-32	Verkehrsministerium	*[5]	
+1-5	33-45	unangenehmes	_	
+1-6	46-54	Pflaster	_	
+
+#Text=Bezeichnend, dass im Bereich der U-Bahn-Haltestelle und angesichts des Bundesverkehrsministeriums ein unangenehmes Pflaster verlegt ist!
+2-1	57-68	Bezeichnend	_	
+2-2	68-69	,	_	
+2-3	70-74	dass	_	
+2-4	75-77	im	*[6]	
+2-5	78-85	Bereich	*[6]	
+2-6	86-89	der	*[6]	
+2-7	90-108	U-Bahn-Haltestelle	*[6]	
+2-8	109-112	und	*[6]	
+2-9	113-123	angesichts	*[6]	
+2-10	124-127	des	*[6]	
+2-11	128-154	Bundesverkehrsministeriums	*[6]	
+2-12	155-158	ein	_	
+2-13	159-171	unangenehmes	_	
+2-14	172-180	Pflaster	_	
+2-15	181-188	verlegt	_	
+2-16	189-192	ist	_	
+2-17	192-193	!	_	
+
+#Text=Das betrifft mich insbesondere, wenn ich aus Richtung Sträßchensweg zum Ministerium oder zu den Kreuzbauten muss.
+3-1	194-197	Das	_	
+3-2	198-206	betrifft	_	
+3-3	207-211	mich	_	
+3-4	212-224	insbesondere	_	
+3-5	224-225	,	_	
+3-6	226-230	wenn	_	
+3-7	231-234	ich	_	
+3-8	235-238	aus	*[7]	
+3-9	239-247	Richtung	*[7]	
+3-10	248-261	Sträßchensweg	*[7]	
+3-11	262-265	zum	*[7]	
+3-12	266-277	Ministerium	*[7]	
+3-13	278-282	oder	*[7]	
+3-14	283-285	zu	*[7]	
+3-15	286-289	den	*[7]	
+3-16	290-301	Kreuzbauten	*[7]	
+3-17	302-306	muss	_	
+3-18	306-307	.	_	
+
+#Text=Verbesserungsvorschlag: Radweg ohne Pflaster.
+4-1	308-330	Verbesserungsvorschlag	_	
+4-2	330-331	:	_	
+4-3	332-338	Radweg	_	
+4-4	339-343	ohne	_	
+4-5	344-352	Pflaster	_	
+4-6	352-353	.	_	

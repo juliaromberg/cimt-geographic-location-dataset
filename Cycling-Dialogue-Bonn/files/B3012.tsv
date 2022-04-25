@@ -1,0 +1,40 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Weg durch den Kottenforst von Merl nach Röttgen asphaltieren
+1-1	0-3	Weg	*[4]	
+1-2	4-9	durch	*[4]	
+1-3	10-13	den	*[4]	
+1-4	14-25	Kottenforst	*[4]	
+1-5	26-29	von	*[4]	
+1-6	30-34	Merl	*[4]	
+1-7	35-39	nach	*[4]	
+1-8	40-47	Röttgen	*[4]	
+1-9	48-60	asphaltieren	_	
+
+#Text=So ein Matsch- und Buckelpiste muss nicht sein.
+2-1	63-65	So	_	
+2-2	66-69	ein	_	
+2-3	70-76	Matsch	_	
+2-4	76-77	-	_	
+2-5	78-81	und	_	
+2-6	82-93	Buckelpiste	_	
+2-7	94-98	muss	_	
+2-8	99-104	nicht	_	
+2-9	105-109	sein	_	
+2-10	109-110	.	_	
+
+#Text=Der Weg wäre als Radschnellweg für viele Pendler interessant.
+3-1	111-114	Der	_	
+3-2	115-118	Weg	_	
+3-3	119-123	wäre	_	
+3-4	124-127	als	_	
+3-5	128-141	Radschnellweg	_	
+3-6	142-145	für	_	
+3-7	146-151	viele	_	
+3-8	152-159	Pendler	_	
+3-9	160-171	interessant	_	
+3-10	171-172	.	_	

@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Linksabbieger für Radfahrer
+1-1	0-13	Linksabbieger	_	
+1-2	14-17	für	_	
+1-3	18-27	Radfahrer	_	
+
+#Text=An dieser Stelle bietet sich ein Linksabbieger (vor der Schranke, ohne LSA) an, um auch bei geschlossener Schranke von Dottendorf kommend auf den/ die bahnparallelen Radweg/e zu gelangen.
+2-1	30-32	An	_	
+2-2	33-39	dieser	_	
+2-3	40-46	Stelle	_	
+2-4	47-53	bietet	_	
+2-5	54-58	sich	_	
+2-6	59-62	ein	_	
+2-7	63-76	Linksabbieger	_	
+2-8	77-78	(	_	
+2-9	78-81	vor	_	
+2-10	82-85	der	_	
+2-11	86-94	Schranke	_	
+2-12	94-95	,	_	
+2-13	96-100	ohne	_	
+2-14	101-104	LSA	_	
+2-15	104-105	)	_	
+2-16	106-108	an	_	
+2-17	108-109	,	_	
+2-18	110-112	um	_	
+2-19	113-117	auch	_	
+2-20	118-121	bei	_	
+2-21	122-135	geschlossener	_	
+2-22	136-144	Schranke	_	
+2-23	145-148	von	*[5]	
+2-24	149-159	Dottendorf	*[5]	
+2-25	160-167	kommend	*[5]	
+2-26	168-171	auf	_	
+2-27	172-175	den	_	
+2-28	175-176	/	_	
+2-29	177-180	die	_	
+2-30	181-195	bahnparallelen	_	
+2-31	196-202	Radweg	_	
+2-32	202-203	/	_	
+2-33	203-204	e	_	
+2-34	205-207	zu	_	
+2-35	208-216	gelangen	_	
+2-36	216-217	.	_	
+
+#Text=Eine mögliche Aufstellfläche wäre der Bereich vor der Mittelinsel.
+3-1	218-222	Eine	_	
+3-2	223-231	mögliche	_	
+3-3	232-246	Aufstellfläche	_	
+3-4	247-251	wäre	_	
+3-5	252-255	der	_	
+3-6	256-263	Bereich	_	
+3-7	264-267	vor	_	
+3-8	268-271	der	_	
+3-9	272-283	Mittelinsel	_	
+3-10	283-284	.	_	
+
+#Text=Bisher ist das legale Linksabbiegen für Radfahrer an dieser Kreuzung nicht möglich!
+4-1	285-291	Bisher	_	
+4-2	292-295	ist	_	
+4-3	296-299	das	_	
+4-4	300-306	legale	_	
+4-5	307-320	Linksabbiegen	_	
+4-6	321-324	für	_	
+4-7	325-334	Radfahrer	_	
+4-8	335-337	an	_	
+4-9	338-344	dieser	_	
+4-10	345-353	Kreuzung	_	
+4-11	354-359	nicht	_	
+4-12	360-367	möglich	_	
+4-13	367-368	!	_	

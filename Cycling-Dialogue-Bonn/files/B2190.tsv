@@ -1,0 +1,106 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg nicht farblich gekennzeichnet, Touristen kreuzen den & laufen auf dem Radweg
+1-1	0-10	Fahrradweg	_	
+1-2	11-16	nicht	_	
+1-3	17-25	farblich	_	
+1-4	26-40	gekennzeichnet	_	
+1-5	40-41	,	_	
+1-6	42-51	Touristen	_	
+1-7	52-59	kreuzen	_	
+1-8	60-63	den	_	
+1-9	64-65	&	_	
+1-10	66-72	laufen	_	
+1-11	73-76	auf	_	
+1-12	77-80	dem	_	
+1-13	81-87	Radweg	_	
+
+#Text=Am Brassertufer liegen häufig Hotelschiffe mit Touristen.
+2-1	90-92	Am	*[6]	
+2-2	93-105	Brassertufer	*[6]	
+2-3	106-112	liegen	_	
+2-4	113-119	häufig	_	
+2-5	120-132	Hotelschiffe	_	
+2-6	133-136	mit	_	
+2-7	137-146	Touristen	_	
+2-8	146-147	.	_	
+
+#Text=Zudem fahren ab dort viele Touristen mit der KD auf dem Rhein - oder machen einfach Photos vom Rheinpanorama mit Langer Eugen etc.
+3-1	148-153	Zudem	_	
+3-2	154-160	fahren	_	
+3-3	161-163	ab	_	
+3-4	164-168	dort	_	
+3-5	169-174	viele	_	
+3-6	175-184	Touristen	_	
+3-7	185-188	mit	_	
+3-8	189-192	der	_	
+3-9	193-195	KD	_	
+3-10	196-199	auf	_	
+3-11	200-203	dem	_	
+3-12	204-209	Rhein	_	
+3-13	210-211	-	_	
+3-14	212-216	oder	_	
+3-15	217-223	machen	_	
+3-16	224-231	einfach	_	
+3-17	232-238	Photos	_	
+3-18	239-242	vom	_	
+3-19	243-256	Rheinpanorama	_	
+3-20	257-260	mit	_	
+3-21	261-267	Langer	_	
+3-22	268-273	Eugen	_	
+3-23	274-277	etc	_	
+3-24	277-278	.	_	
+
+#Text=Viele Touristen gehen auf dem Radweg oder kreuzen ihn ohne die Radfahrer zu achten, weil der Radweg oder häufig mit blauen Radfahrsymbolen gekennzeichnet ist und deshalb kaum als Radweg erkennbar ist.
+4-1	279-284	Viele	_	
+4-2	285-294	Touristen	_	
+4-3	295-300	gehen	_	
+4-4	301-304	auf	_	
+4-5	305-308	dem	_	
+4-6	309-315	Radweg	_	
+4-7	316-320	oder	_	
+4-8	321-328	kreuzen	_	
+4-9	329-332	ihn	_	
+4-10	333-337	ohne	_	
+4-11	338-341	die	_	
+4-12	342-351	Radfahrer	_	
+4-13	352-354	zu	_	
+4-14	355-361	achten	_	
+4-15	361-362	,	_	
+4-16	363-367	weil	_	
+4-17	368-371	der	_	
+4-18	372-378	Radweg	_	
+4-19	379-383	oder	_	
+4-20	384-390	häufig	_	
+4-21	391-394	mit	_	
+4-22	395-401	blauen	_	
+4-23	402-417	Radfahrsymbolen	_	
+4-24	418-432	gekennzeichnet	_	
+4-25	433-436	ist	_	
+4-26	437-440	und	_	
+4-27	441-448	deshalb	_	
+4-28	449-453	kaum	_	
+4-29	454-457	als	_	
+4-30	458-464	Radweg	_	
+4-31	465-474	erkennbar	_	
+4-32	475-478	ist	_	
+4-33	478-479	.	_	
+
+#Text=Der Radweg sollte deshalb farblich eindeutiger als solcher beim Brassertufer gekennzeichnet werden.
+5-1	480-483	Der	_	
+5-2	484-490	Radweg	_	
+5-3	491-497	sollte	_	
+5-4	498-505	deshalb	_	
+5-5	506-514	farblich	_	
+5-6	515-526	eindeutiger	_	
+5-7	527-530	als	_	
+5-8	531-538	solcher	_	
+5-9	539-543	beim	*[7]	
+5-10	544-556	Brassertufer	*[7]	
+5-11	557-571	gekennzeichnet	_	
+5-12	572-578	werden	_	
+5-13	578-579	.	_	

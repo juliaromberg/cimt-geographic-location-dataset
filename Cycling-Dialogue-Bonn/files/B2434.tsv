@@ -1,0 +1,51 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg Rheinaue
+1-1	0-6	Radweg	*[5]	
+1-2	7-15	Rheinaue	*[5]	
+
+#Text=Der Radweg direkt am Rhein ist viel zu schmal.
+2-1	18-21	Der	*[6]	
+2-2	22-28	Radweg	*[6]	
+2-3	29-35	direkt	*[6]	
+2-4	36-38	am	*[6]	
+2-5	39-44	Rhein	*[6]	
+2-6	45-48	ist	_	
+2-7	49-53	viel	_	
+2-8	54-56	zu	_	
+2-9	57-63	schmal	_	
+2-10	63-64	.	_	
+
+#Text=Er ist teilweise kaum breiter als einen Meter und wird in beide Richtungen befahren sowie von Fußgängern genutzt.
+3-1	65-67	Er	_	
+3-2	68-71	ist	_	
+3-3	72-81	teilweise	_	
+3-4	82-86	kaum	_	
+3-5	87-94	breiter	_	
+3-6	95-98	als	_	
+3-7	99-104	einen	_	
+3-8	105-110	Meter	_	
+3-9	111-114	und	_	
+3-10	115-119	wird	_	
+3-11	120-122	in	_	
+3-12	123-128	beide	_	
+3-13	129-139	Richtungen	_	
+3-14	140-148	befahren	_	
+3-15	149-154	sowie	_	
+3-16	155-158	von	_	
+3-17	159-169	Fußgängern	_	
+3-18	170-177	genutzt	_	
+3-19	177-178	.	_	
+
+#Text=Überholen ist zu Stoßzeiten kaum möglich.
+4-1	179-188	Überholen	_	
+4-2	189-192	ist	_	
+4-3	193-195	zu	_	
+4-4	196-206	Stoßzeiten	_	
+4-5	207-211	kaum	_	
+4-6	212-219	möglich	_	
+4-7	219-220	.	_	

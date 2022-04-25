@@ -1,0 +1,79 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg ist zu schmal / Wegfall einer Fahrspur zugunsten eines Radweges
+1-1	0-6	Radweg	_	
+1-2	7-10	ist	_	
+1-3	11-13	zu	_	
+1-4	14-20	schmal	_	
+1-5	21-22	/	_	
+1-6	23-30	Wegfall	_	
+1-7	31-36	einer	_	
+1-8	37-45	Fahrspur	_	
+1-9	46-55	zugunsten	_	
+1-10	56-61	eines	_	
+1-11	62-70	Radweges	_	
+
+#Text=Vom Stadthaus bis zum Berta von Suttner Platz ist der Radweg kaum nutzbar, da er von Autos befahren wird.
+2-1	73-76	Vom	*[5]	
+2-2	77-86	Stadthaus	*[5]	
+2-3	87-90	bis	*[5]	
+2-4	91-94	zum	*[5]	
+2-5	95-100	Berta	*[5]	
+2-6	101-104	von	*[5]	
+2-7	105-112	Suttner	*[5]	
+2-8	113-118	Platz	*[5]	
+2-9	119-122	ist	_	
+2-10	123-126	der	_	
+2-11	127-133	Radweg	_	
+2-12	134-138	kaum	_	
+2-13	139-146	nutzbar	_	
+2-14	146-147	,	_	
+2-15	148-150	da	_	
+2-16	151-153	er	_	
+2-17	154-157	von	_	
+2-18	158-163	Autos	_	
+2-19	164-172	befahren	_	
+2-20	173-177	wird	_	
+2-21	177-178	.	_	
+
+#Text=Er ist nicht ordentlich gekennzeichnet und viel zu schmal für eine Radweg.
+3-1	179-181	Er	_	
+3-2	182-185	ist	_	
+3-3	186-191	nicht	_	
+3-4	192-202	ordentlich	_	
+3-5	203-217	gekennzeichnet	_	
+3-6	218-221	und	_	
+3-7	222-226	viel	_	
+3-8	227-229	zu	_	
+3-9	230-236	schmal	_	
+3-10	237-240	für	_	
+3-11	241-245	eine	_	
+3-12	246-252	Radweg	_	
+3-13	252-253	.	_	
+
+#Text=Es wäre gut dort eine Fahrbahn für die Auots weg zu nehmen und dafür den Radfahren eine große Bahn zu geben
+4-1	254-256	Es	_	
+4-2	257-261	wäre	_	
+4-3	262-265	gut	_	
+4-4	266-270	dort	_	
+4-5	271-275	eine	_	
+4-6	276-284	Fahrbahn	_	
+4-7	285-288	für	_	
+4-8	289-292	die	_	
+4-9	293-298	Auots	_	
+4-10	299-302	weg	_	
+4-11	303-305	zu	_	
+4-12	306-312	nehmen	_	
+4-13	313-316	und	_	
+4-14	317-322	dafür	_	
+4-15	323-326	den	_	
+4-16	327-336	Radfahren	_	
+4-17	337-341	eine	_	
+4-18	342-347	große	_	
+4-19	348-352	Bahn	_	
+4-20	353-355	zu	_	
+4-21	356-361	geben	_	

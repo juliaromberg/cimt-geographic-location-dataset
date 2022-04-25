@@ -1,0 +1,141 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=gefährliche Wegeführung
+1-1	0-11	gefährliche	_	
+1-2	12-23	Wegeführung	_	
+
+#Text=Die Radwegeführung an der Kreuzung Hochkreuz, Südseite, ist sehr gefährlich für Rad- und Fußgänger.
+2-1	26-29	Die	*[8]	
+2-2	30-44	Radwegeführung	*[8]	
+2-3	45-47	an	*[8]	
+2-4	48-51	der	*[8]	
+2-5	52-60	Kreuzung	*[8]	
+2-6	61-70	Hochkreuz	*[8]	
+2-7	70-71	,	*[8]	
+2-8	72-80	Südseite	*[8]	
+2-9	80-81	,	_	
+2-10	82-85	ist	_	
+2-11	86-90	sehr	_	
+2-12	91-101	gefährlich	_	
+2-13	102-105	für	_	
+2-14	106-109	Rad	_	
+2-15	109-110	-	_	
+2-16	111-114	und	_	
+2-17	115-124	Fußgänger	_	
+2-18	124-125	.	_	
+
+#Text=Der Radweg wird aus Richtung Hochkreuzallee kommend auf den Fußweg leitet und mit den Fußgängern zusammen durch die Bahnhaltestelle und dann weiter auf dem Fußweg bis Kreuzung Gotenstraße.
+3-1	126-129	Der	*[9]	
+3-2	130-136	Radweg	*[9]	
+3-3	137-141	wird	*[9]	
+3-4	142-145	aus	*[9]	
+3-5	146-154	Richtung	*[9]	
+3-6	155-169	Hochkreuzallee	*[9]	
+3-7	170-177	kommend	*[9]	
+3-8	178-181	auf	_	
+3-9	182-185	den	_	
+3-10	186-192	Fußweg	_	
+3-11	193-199	leitet	_	
+3-12	200-203	und	_	
+3-13	204-207	mit	_	
+3-14	208-211	den	_	
+3-15	212-222	Fußgängern	_	
+3-16	223-231	zusammen	_	
+3-17	232-237	durch	_	
+3-18	238-241	die	_	
+3-19	242-257	Bahnhaltestelle	_	
+3-20	258-261	und	_	
+3-21	262-266	dann	_	
+3-22	267-273	weiter	_	
+3-23	274-277	auf	_	
+3-24	278-281	dem	_	
+3-25	282-288	Fußweg	_	
+3-26	289-292	bis	*[10]	
+3-27	293-301	Kreuzung	*[10]	
+3-28	302-313	Gotenstraße	*[10]	
+3-29	313-314	.	_	
+
+#Text=Der Radweg ist viel zu schmal und der Fußweg durch die Bahnhaltestelle hochfrequentiert.
+4-1	315-318	Der	_	
+4-2	319-325	Radweg	_	
+4-3	326-329	ist	_	
+4-4	330-334	viel	_	
+4-5	335-337	zu	_	
+4-6	338-344	schmal	_	
+4-7	345-348	und	_	
+4-8	349-352	der	_	
+4-9	353-359	Fußweg	_	
+4-10	360-365	durch	_	
+4-11	366-369	die	_	
+4-12	370-385	Bahnhaltestelle	_	
+4-13	386-402	hochfrequentiert	_	
+4-14	402-403	.	_	
+
+#Text=Jeden Morgen kommt es hier zu Ärgernissen.
+5-1	404-409	Jeden	_	
+5-2	410-416	Morgen	_	
+5-3	417-422	kommt	_	
+5-4	423-425	es	_	
+5-5	426-430	hier	_	
+5-6	431-433	zu	_	
+5-7	434-445	Ärgernissen	_	
+5-8	445-446	.	_	
+
+#Text=An der Kreuzung Gotenstraße biegt der Radweg mit dem Fußweg rechts ab, zahlreiche Fußgänger gehen aber geradeaus in die Kennedyallee - an der Ampel Kennedyallee/Gotenstraße kommt es regelmäßig zu Zusammenstößen trotzt des erkennbaren Bemühens um gegenseitige Rücksichtnahme.
+6-1	447-449	An	*[11]	
+6-2	450-453	der	*[11]	
+6-3	454-462	Kreuzung	*[11]	
+6-4	463-474	Gotenstraße	*[11]	
+6-5	475-480	biegt	_	
+6-6	481-484	der	_	
+6-7	485-491	Radweg	_	
+6-8	492-495	mit	_	
+6-9	496-499	dem	_	
+6-10	500-506	Fußweg	_	
+6-11	507-513	rechts	_	
+6-12	514-516	ab	_	
+6-13	516-517	,	_	
+6-14	518-528	zahlreiche	_	
+6-15	529-538	Fußgänger	_	
+6-16	539-544	gehen	_	
+6-17	545-549	aber	_	
+6-18	550-559	geradeaus	*[12]	
+6-19	560-562	in	*[12]	
+6-20	563-566	die	*[12]	
+6-21	567-579	Kennedyallee	*[12]	
+6-22	580-581	-	*[12]	
+6-23	582-584	an	*[12]	
+6-24	585-588	der	*[12]	
+6-25	589-594	Ampel	*[12]	
+6-26	595-607	Kennedyallee	*[12]	
+6-27	607-608	/	*[12]	
+6-28	608-619	Gotenstraße	*[12]	
+6-29	620-625	kommt	_	
+6-30	626-628	es	_	
+6-31	629-639	regelmäßig	_	
+6-32	640-642	zu	_	
+6-33	643-657	Zusammenstößen	_	
+6-34	658-664	trotzt	_	
+6-35	665-668	des	_	
+6-36	669-680	erkennbaren	_	
+6-37	681-689	Bemühens	_	
+6-38	690-692	um	_	
+6-39	693-705	gegenseitige	_	
+6-40	706-720	Rücksichtnahme	_	
+6-41	720-721	.	_	
+
+#Text=Eine Trennung von Rad- und Fußweg ist notwendig.
+7-1	722-726	Eine	_	
+7-2	727-735	Trennung	_	
+7-3	736-739	von	_	
+7-4	740-743	Rad	_	
+7-5	743-744	-	_	
+7-6	745-748	und	_	
+7-7	749-755	Fußweg	_	
+7-8	756-759	ist	_	
+7-9	760-769	notwendig	_	
+7-10	769-770	.	_	

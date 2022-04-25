@@ -1,0 +1,41 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Die Ausfahrt für Radfahrer aus der kleinen Endenicher Straße in Richtung Endenicher Ei gegenüber den Autos aus der Regerstraße bevorrechtigen.
+1-1	0-3	Die	_	
+1-2	4-12	Ausfahrt	_	
+1-3	13-16	für	_	
+1-4	17-26	Radfahrer	_	
+1-5	27-30	aus	*[3]	
+1-6	31-34	der	*[3]	
+1-7	35-42	kleinen	*[3]	
+1-8	43-53	Endenicher	*[3]	
+1-9	54-60	Straße	*[3]	
+1-10	61-63	in	*[3]	
+1-11	64-72	Richtung	*[3]	
+1-12	73-83	Endenicher	*[3]	
+1-13	84-86	Ei	*[3]	
+1-14	87-96	gegenüber	_	
+1-15	97-100	den	_	
+1-16	101-106	Autos	_	
+1-17	107-110	aus	*[4]	
+1-18	111-114	der	*[4]	
+1-19	115-126	Regerstraße	*[4]	
+1-20	127-141	bevorrechtigen	_	
+1-21	141-142	.	_	
+
+#Text=Die Autos auf der parallelen B56 haben schließlich auch Vorrang.
+2-1	145-148	Die	_	
+2-2	149-154	Autos	_	
+2-3	155-158	auf	_	
+2-4	159-162	der	_	
+2-5	163-173	parallelen	_	
+2-6	174-177	B56	*	
+2-7	178-183	haben	_	
+2-8	184-195	schließlich	_	
+2-9	196-200	auch	_	
+2-10	201-208	Vorrang	_	
+2-11	208-209	.	_	

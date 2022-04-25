@@ -1,0 +1,222 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=ALLE Fahrradstraßen als vorfahrtberechtigt markieren und beschildern.
+1-1	0-4	ALLE	_	
+1-2	5-19	Fahrradstraßen	_	
+1-3	20-23	als	_	
+1-4	24-42	vorfahrtberechtigt	_	
+1-5	43-52	markieren	_	
+1-6	53-56	und	_	
+1-7	57-68	beschildern	_	
+1-8	68-69	.	_	
+
+#Text=Mindestlänge für Fahrradstraßen 1000m.
+2-1	70-82	Mindestlänge	_	
+2-2	83-86	für	_	
+2-3	87-101	Fahrradstraßen	_	
+2-4	102-107	1000m	_	
+2-5	107-108	.	_	
+
+#Text=ALLE Fahrradstraßen als sind vorfahrtberechtigt markieren und beschildern.
+3-1	111-115	ALLE	_	
+3-2	116-130	Fahrradstraßen	_	
+3-3	131-134	als	_	
+3-4	135-139	sind	_	
+3-5	140-158	vorfahrtberechtigt	_	
+3-6	159-168	markieren	_	
+3-7	169-172	und	_	
+3-8	173-184	beschildern	_	
+3-9	184-185	.	_	
+
+#Text=Was sollen Fahrradstraßen eigentlich bringen?
+4-1	186-189	Was	_	
+4-2	190-196	sollen	_	
+4-3	197-211	Fahrradstraßen	_	
+4-4	212-222	eigentlich	_	
+4-5	223-230	bringen	_	
+4-6	230-231	?	_	
+
+#Text=Man kann angeblich nebeneinander fahren, doll.
+5-1	232-235	Man	_	
+5-2	236-240	kann	_	
+5-3	241-250	angeblich	_	
+5-4	251-264	nebeneinander	_	
+5-5	265-271	fahren	_	
+5-6	271-272	,	_	
+5-7	273-277	doll	_	
+5-8	277-278	.	_	
+
+#Text=Ach so, die meisten Radfahrer fahren eher alleine zur Arbeit, Uni oder Schule.
+6-1	279-282	Ach	_	
+6-2	283-285	so	_	
+6-3	285-286	,	_	
+6-4	287-290	die	_	
+6-5	291-298	meisten	_	
+6-6	299-308	Radfahrer	_	
+6-7	309-315	fahren	_	
+6-8	316-320	eher	_	
+6-9	321-328	alleine	_	
+6-10	329-332	zur	_	
+6-11	333-339	Arbeit	_	
+6-12	339-340	,	_	
+6-13	341-344	Uni	_	
+6-14	345-349	oder	_	
+6-15	350-356	Schule	_	
+6-16	356-357	.	_	
+
+#Text=Und über was genau soll man sich auf einer vielleicht 200m langen Strecke wie z.B. der Nassestraße in den 10 Sekunden, in denen man da durch ist, mit dem neben einem Fahrenden Radfahrer unterhalten?
+7-1	358-361	Und	_	
+7-2	362-366	über	_	
+7-3	367-370	was	_	
+7-4	371-376	genau	_	
+7-5	377-381	soll	_	
+7-6	382-385	man	_	
+7-7	386-390	sich	_	
+7-8	391-394	auf	_	
+7-9	395-400	einer	_	
+7-10	401-411	vielleicht	_	
+7-11	412-416	200m	_	
+7-12	417-423	langen	_	
+7-13	424-431	Strecke	_	
+7-14	432-435	wie	_	
+7-15	436-439	z.B	_	
+7-16	439-440	.	_	
+7-17	441-444	der	_	
+7-18	445-456	Nassestraße	*	
+7-19	457-459	in	_	
+7-20	460-463	den	_	
+7-21	464-466	10	_	
+7-22	467-475	Sekunden	_	
+7-23	475-476	,	_	
+7-24	477-479	in	_	
+7-25	480-485	denen	_	
+7-26	486-489	man	_	
+7-27	490-492	da	_	
+7-28	493-498	durch	_	
+7-29	499-502	ist	_	
+7-30	502-503	,	_	
+7-31	504-507	mit	_	
+7-32	508-511	dem	_	
+7-33	512-517	neben	_	
+7-34	518-523	einem	_	
+7-35	524-533	Fahrenden	_	
+7-36	534-543	Radfahrer	_	
+7-37	544-555	unterhalten	_	
+7-38	555-556	?	_	
+
+#Text=Naja, dann bleibt ja noch, dass Radfahrer irgendwie Vorrang haben oder so.
+8-1	557-561	Naja	_	
+8-2	561-562	,	_	
+8-3	563-567	dann	_	
+8-4	568-574	bleibt	_	
+8-5	575-577	ja	_	
+8-6	578-582	noch	_	
+8-7	582-583	,	_	
+8-8	584-588	dass	_	
+8-9	589-598	Radfahrer	_	
+8-10	599-608	irgendwie	_	
+8-11	609-616	Vorrang	_	
+8-12	617-622	haben	_	
+8-13	623-627	oder	_	
+8-14	628-630	so	_	
+8-15	630-631	.	_	
+
+#Text=Oh, in der Realität sind aber genau so viele Autos, Parkplätze und Hindernisse unterwegs wie zuvor, nur dass jetzt auch noch teure Schilder und Markierungen da sind.
+9-1	632-634	Oh	_	
+9-2	634-635	,	_	
+9-3	636-638	in	_	
+9-4	639-642	der	_	
+9-5	643-651	Realität	_	
+9-6	652-656	sind	_	
+9-7	657-661	aber	_	
+9-8	662-667	genau	_	
+9-9	668-670	so	_	
+9-10	671-676	viele	_	
+9-11	677-682	Autos	_	
+9-12	682-683	,	_	
+9-13	684-694	Parkplätze	_	
+9-14	695-698	und	_	
+9-15	699-710	Hindernisse	_	
+9-16	711-720	unterwegs	_	
+9-17	721-724	wie	_	
+9-18	725-730	zuvor	_	
+9-19	730-731	,	_	
+9-20	732-735	nur	_	
+9-21	736-740	dass	_	
+9-22	741-746	jetzt	_	
+9-23	747-751	auch	_	
+9-24	752-756	noch	_	
+9-25	757-762	teure	_	
+9-26	763-771	Schilder	_	
+9-27	772-775	und	_	
+9-28	776-788	Markierungen	_	
+9-29	789-791	da	_	
+9-30	792-796	sind	_	
+9-31	796-797	.	_	
+
+#Text=Nein, einen wirklichen Vorteil für Radfahrer bieten diese Straßen nur, wenn man als Radfahrer nicht an jeder rechts-vor-links-Einmündung (oder sogar an Stopschildern wie in Beuel in der Siegfried-Leopold-Straße) abbremsen muss und die Straßen durchgängig breit und hindernisfrei eine gewisse Länge haben.
+10-1	798-802	Nein	_	
+10-2	802-803	,	_	
+10-3	804-809	einen	_	
+10-4	810-820	wirklichen	_	
+10-5	821-828	Vorteil	_	
+10-6	829-832	für	_	
+10-7	833-842	Radfahrer	_	
+10-8	843-849	bieten	_	
+10-9	850-855	diese	_	
+10-10	856-863	Straßen	_	
+10-11	864-867	nur	_	
+10-12	867-868	,	_	
+10-13	869-873	wenn	_	
+10-14	874-877	man	_	
+10-15	878-881	als	_	
+10-16	882-891	Radfahrer	_	
+10-17	892-897	nicht	_	
+10-18	898-900	an	_	
+10-19	901-906	jeder	_	
+10-20	907-934	rechts-vor-links-Einmündung	_	
+10-21	935-936	(	_	
+10-22	936-940	oder	_	
+10-23	941-946	sogar	_	
+10-24	947-949	an	_	
+10-25	950-963	Stopschildern	_	
+10-26	964-967	wie	_	
+10-27	968-970	in	*[12]	
+10-28	971-976	Beuel	*[12]	
+10-29	977-979	in	*[12]	
+10-30	980-983	der	*[12]	
+10-31	984-1008	Siegfried-Leopold-Straße	*[12]	
+10-32	1008-1009	)	_	
+10-33	1010-1019	abbremsen	_	
+10-34	1020-1024	muss	_	
+10-35	1025-1028	und	_	
+10-36	1029-1032	die	_	
+10-37	1033-1040	Straßen	_	
+10-38	1041-1052	durchgängig	_	
+10-39	1053-1058	breit	_	
+10-40	1059-1062	und	_	
+10-41	1063-1076	hindernisfrei	_	
+10-42	1077-1081	eine	_	
+10-43	1082-1089	gewisse	_	
+10-44	1090-1095	Länge	_	
+10-45	1096-1101	haben	_	
+10-46	1101-1102	.	_	
+
+#Text=Unter 1000m Länge und ohne konsequente Vorfahrtregelung sind Fahrradstraßen schlicht rausgeschmissenes Geld.
+11-1	1103-1108	Unter	_	
+11-2	1109-1114	1000m	_	
+11-3	1115-1120	Länge	_	
+11-4	1121-1124	und	_	
+11-5	1125-1129	ohne	_	
+11-6	1130-1141	konsequente	_	
+11-7	1142-1158	Vorfahrtregelung	_	
+11-8	1159-1163	sind	_	
+11-9	1164-1178	Fahrradstraßen	_	
+11-10	1179-1187	schlicht	_	
+11-11	1188-1205	rausgeschmissenes	_	
+11-12	1206-1210	Geld	_	
+11-13	1210-1211	.	_	

@@ -1,0 +1,56 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Legales Abbiegen für Fahrräder
+1-1	0-7	Legales	_	
+1-2	8-16	Abbiegen	_	
+1-3	17-20	für	_	
+1-4	21-30	Fahrräder	_	
+
+#Text=Von der Johann-Link-Straße in die Hermannstraße dürfen alle Fahrzeuge nur nach rechts abbiegen.
+2-1	33-36	Von	*[5]	
+2-2	37-40	der	*[5]	
+2-3	41-59	Johann-Link-Straße	*[5]	
+2-4	60-62	in	*[5]	
+2-5	63-66	die	*[5]	
+2-6	67-80	Hermannstraße	*[5]	
+2-7	81-87	dürfen	_	
+2-8	88-92	alle	_	
+2-9	93-102	Fahrzeuge	_	
+2-10	103-106	nur	_	
+2-11	107-111	nach	_	
+2-12	112-118	rechts	_	
+2-13	119-127	abbiegen	_	
+2-14	127-128	.	_	
+
+#Text=Das ist aufgrund der Unübersichtlichkeit der Straße an dieser Ecke für Autos sicher sinnvoll.
+3-1	129-132	Das	_	
+3-2	133-136	ist	_	
+3-3	137-145	aufgrund	_	
+3-4	146-149	der	_	
+3-5	150-169	Unübersichtlichkeit	_	
+3-6	170-173	der	_	
+3-7	174-180	Straße	_	
+3-8	181-183	an	_	
+3-9	184-190	dieser	_	
+3-10	191-195	Ecke	_	
+3-11	196-199	für	_	
+3-12	200-205	Autos	_	
+3-13	206-212	sicher	_	
+3-14	213-221	sinnvoll	_	
+3-15	221-222	.	_	
+
+#Text=Radfahrer sollten an dieser Stelle auch links abbiegen dürfen.
+4-1	223-232	Radfahrer	_	
+4-2	233-240	sollten	_	
+4-3	241-243	an	_	
+4-4	244-250	dieser	_	
+4-5	251-257	Stelle	_	
+4-6	258-262	auch	_	
+4-7	263-268	links	_	
+4-8	269-277	abbiegen	_	
+4-9	278-284	dürfen	_	
+4-10	284-285	.	_	

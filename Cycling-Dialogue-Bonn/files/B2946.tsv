@@ -1,0 +1,109 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Erlaubtes Fahrradfahren in der Koblenzer Str. gegen Einbahnstr.
+1-1	0-9	Erlaubtes	_	
+1-2	10-23	Fahrradfahren	_	
+1-3	24-26	in	*[5]	
+1-4	27-30	der	*[5]	
+1-5	31-40	Koblenzer	*[5]	
+1-6	41-44	Str	*[5]	
+1-7	44-45	.	*[5]	
+1-8	46-51	gegen	*[5]	
+1-9	52-62	Einbahnstr	_	
+1-10	62-63	.	_	
+
+#Text=Insgesamt ist das Fahrradfahren in der Koblenzer Str. (Fußgängerzone) gefährlich, da Busse zu eng überholen, Taxifahrer und Privat-PKW die Busse überholen und damit die Radfahrer gefährden.
+2-1	66-75	Insgesamt	_	
+2-2	76-79	ist	_	
+2-3	80-83	das	_	
+2-4	84-97	Fahrradfahren	_	
+2-5	98-100	in	*[6]	
+2-6	101-104	der	*[6]	
+2-7	105-114	Koblenzer	*[6]	
+2-8	115-118	Str	*[6]	
+2-9	118-119	.	*[6]	
+2-10	120-121	(	*[6]	
+2-11	121-134	Fußgängerzone	*[6]	
+2-12	134-135	)	_	
+2-13	136-146	gefährlich	_	
+2-14	146-147	,	_	
+2-15	148-150	da	_	
+2-16	151-156	Busse	_	
+2-17	157-159	zu	_	
+2-18	160-163	eng	_	
+2-19	164-173	überholen	_	
+2-20	173-174	,	_	
+2-21	175-185	Taxifahrer	_	
+2-22	186-189	und	_	
+2-23	190-200	Privat-PKW	_	
+2-24	201-204	die	_	
+2-25	205-210	Busse	_	
+2-26	211-220	überholen	_	
+2-27	221-224	und	_	
+2-28	225-230	damit	_	
+2-29	231-234	die	_	
+2-30	235-244	Radfahrer	_	
+2-31	245-254	gefährden	_	
+2-32	254-255	.	_	
+
+#Text=Besonders problematisch ist das erlaubte Fahrradfahren gegen die Einbahnstraßenrichtung, da Fußgänger beim Überqueren der Straße überhaupt nicht damit rechnen und nicht gucken (oft auch schimpfen!), entgegenkommende Busse und Autos die Radfahrer abdrängen.
+3-1	256-265	Besonders	_	
+3-2	266-279	problematisch	_	
+3-3	280-283	ist	_	
+3-4	284-287	das	_	
+3-5	288-296	erlaubte	_	
+3-6	297-310	Fahrradfahren	_	
+3-7	311-316	gegen	_	
+3-8	317-320	die	_	
+3-9	321-343	Einbahnstraßenrichtung	_	
+3-10	343-344	,	_	
+3-11	345-347	da	_	
+3-12	348-357	Fußgänger	_	
+3-13	358-362	beim	_	
+3-14	363-373	Überqueren	_	
+3-15	374-377	der	_	
+3-16	378-384	Straße	_	
+3-17	385-394	überhaupt	_	
+3-18	395-400	nicht	_	
+3-19	401-406	damit	_	
+3-20	407-414	rechnen	_	
+3-21	415-418	und	_	
+3-22	419-424	nicht	_	
+3-23	425-431	gucken	_	
+3-24	432-433	(	_	
+3-25	433-436	oft	_	
+3-26	437-441	auch	_	
+3-27	442-451	schimpfen	_	
+3-28	451-452	!	_	
+3-29	452-453	)	_	
+3-30	453-454	,	_	
+3-31	455-471	entgegenkommende	_	
+3-32	472-477	Busse	_	
+3-33	478-481	und	_	
+3-34	482-487	Autos	_	
+3-35	488-491	die	_	
+3-36	492-501	Radfahrer	_	
+3-37	502-511	abdrängen	_	
+3-38	511-512	.	_	
+
+#Text=Es müsste auf jeden Fall eine deutlich markierte Fahrradspur in Rot oder Blau aufgebracht werden.
+4-1	513-515	Es	_	
+4-2	516-522	müsste	_	
+4-3	523-526	auf	_	
+4-4	527-532	jeden	_	
+4-5	533-537	Fall	_	
+4-6	538-542	eine	_	
+4-7	543-551	deutlich	_	
+4-8	552-561	markierte	_	
+4-9	562-573	Fahrradspur	_	
+4-10	574-576	in	_	
+4-11	577-580	Rot	_	
+4-12	581-585	oder	_	
+4-13	586-590	Blau	_	
+4-14	591-602	aufgebracht	_	
+4-15	603-609	werden	_	
+4-16	609-610	.	_	

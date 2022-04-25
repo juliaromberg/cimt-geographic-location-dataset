@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg ausbessern!
+1-1	0-6	Radweg	_	
+1-2	7-17	ausbessern	_	
+1-3	17-18	!	_	
+
+#Text=Der Belag ist hier mehr als schlecht.
+2-1	21-24	Der	_	
+2-2	25-30	Belag	_	
+2-3	31-34	ist	_	
+2-4	35-39	hier	_	
+2-5	40-44	mehr	_	
+2-6	45-48	als	_	
+2-7	49-57	schlecht	_	
+2-8	57-58	.	_	
+
+#Text=Dergleichen habe ich noch nie auf Wegen entdeckt, die von von MIV genutzt werden.
+3-1	59-70	Dergleichen	_	
+3-2	71-75	habe	_	
+3-3	76-79	ich	_	
+3-4	80-84	noch	_	
+3-5	85-88	nie	_	
+3-6	89-92	auf	_	
+3-7	93-98	Wegen	_	
+3-8	99-107	entdeckt	_	
+3-9	107-108	,	_	
+3-10	109-112	die	_	
+3-11	113-116	von	_	
+3-12	117-120	von	_	
+3-13	121-124	MIV	_	
+3-14	125-132	genutzt	_	
+3-15	133-139	werden	_	
+3-16	139-140	.	_	

@@ -1,0 +1,78 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Aufstellfläche an Ampel nicht erreichbar
+1-1	0-14	Aufstellfläche	_	
+1-2	15-17	an	_	
+1-3	18-23	Ampel	_	
+1-4	24-29	nicht	_	
+1-5	30-40	erreichbar	_	
+
+#Text=Die Aufstellfläche an der Ampel Platanenweg X St. Augustiner Str. ist praktisch.
+2-1	43-46	Die	_	
+2-2	47-61	Aufstellfläche	_	
+2-3	62-64	an	_	
+2-4	65-68	der	_	
+2-5	69-74	Ampel	_	
+2-6	75-86	Platanenweg	*[5]	
+2-7	87-88	X	*[5]	
+2-8	89-91	St	*[5]	
+2-9	91-92	.	*[5]	
+2-10	93-103	Augustiner	*[5]	
+2-11	104-107	Str	*[5]	
+2-12	107-108	.	_	
+2-13	109-112	ist	_	
+2-14	113-122	praktisch	_	
+2-15	122-123	.	_	
+
+#Text=In 75% der Fälle steht auch kein Auto darauf.
+3-1	124-126	In	_	
+3-2	127-130	75%	_	
+3-3	131-134	der	_	
+3-4	135-140	Fälle	_	
+3-5	141-146	steht	_	
+3-6	147-151	auch	_	
+3-7	152-156	kein	_	
+3-8	157-161	Auto	_	
+3-9	162-168	darauf	_	
+3-10	168-169	.	_	
+
+#Text=Allerdings lässt sie sich unter Einhaltung der Verkehrsregeln bei normalem Verkehr über den Platanenweg nicht erreichen, da dort mehrere Autos vor der Kreuzung warten und es keinen Radweg rechts von den Autos gibt.
+4-1	170-180	Allerdings	_	
+4-2	181-186	lässt	_	
+4-3	187-190	sie	_	
+4-4	191-195	sich	_	
+4-5	196-201	unter	_	
+4-6	202-212	Einhaltung	_	
+4-7	213-216	der	_	
+4-8	217-231	Verkehrsregeln	_	
+4-9	232-235	bei	_	
+4-10	236-244	normalem	_	
+4-11	245-252	Verkehr	_	
+4-12	253-257	über	*[6]	
+4-13	258-261	den	*[6]	
+4-14	262-273	Platanenweg	*[6]	
+4-15	274-279	nicht	_	
+4-16	280-289	erreichen	_	
+4-17	289-290	,	_	
+4-18	291-293	da	_	
+4-19	294-298	dort	_	
+4-20	299-306	mehrere	_	
+4-21	307-312	Autos	_	
+4-22	313-316	vor	_	
+4-23	317-320	der	_	
+4-24	321-329	Kreuzung	_	
+4-25	330-336	warten	_	
+4-26	337-340	und	_	
+4-27	341-343	es	_	
+4-28	344-350	keinen	_	
+4-29	351-357	Radweg	_	
+4-30	358-364	rechts	_	
+4-31	365-368	von	_	
+4-32	369-372	den	_	
+4-33	373-378	Autos	_	
+4-34	379-383	gibt	_	
+4-35	383-384	.	_	

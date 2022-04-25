@@ -1,0 +1,211 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Auffahrt / Abfahrt Brücke zum Blücherpark
+1-1	0-8	Auffahrt	*[14]	
+1-2	9-10	/	*[14]	
+1-3	11-18	Abfahrt	*[14]	
+1-4	19-25	Brücke	*[14]	
+1-5	26-29	zum	*[14]	
+1-6	30-41	Blücherpark	*[14]	
+
+#Text=Auf Seite der Heidemannstraße wurde vor kurzem ein Drängelgitter eingerichtet.
+2-1	44-47	Auf	*[15]	
+2-2	48-53	Seite	*[15]	
+2-3	54-57	der	*[15]	
+2-4	58-73	Heidemannstraße	*[15]	
+2-5	74-79	wurde	_	
+2-6	80-83	vor	_	
+2-7	84-90	kurzem	_	
+2-8	91-94	ein	_	
+2-9	95-108	Drängelgitter	_	
+2-10	109-121	eingerichtet	_	
+2-11	121-122	.	_	
+
+#Text=Die sehr enge Stelle ist für Lastenverkehrsfahrräder und Fahrräder mit Anhängern nicht zu passieren.
+3-1	123-126	Die	_	
+3-2	127-131	sehr	_	
+3-3	132-136	enge	_	
+3-4	137-143	Stelle	_	
+3-5	144-147	ist	_	
+3-6	148-151	für	_	
+3-7	152-175	Lastenverkehrsfahrräder	_	
+3-8	176-179	und	_	
+3-9	180-189	Fahrräder	_	
+3-10	190-193	mit	_	
+3-11	194-203	Anhängern	_	
+3-12	204-209	nicht	_	
+3-13	210-212	zu	_	
+3-14	213-222	passieren	_	
+3-15	222-223	.	_	
+
+#Text=Selbst mit Satteltaschen hat man schon Schwierigkeiten, die Verengung zu passieren.
+4-1	224-230	Selbst	_	
+4-2	231-234	mit	_	
+4-3	235-248	Satteltaschen	_	
+4-4	249-252	hat	_	
+4-5	253-256	man	_	
+4-6	257-262	schon	_	
+4-7	263-278	Schwierigkeiten	_	
+4-8	278-279	,	_	
+4-9	280-283	die	_	
+4-10	284-293	Verengung	_	
+4-11	294-296	zu	_	
+4-12	297-306	passieren	_	
+4-13	306-307	.	_	
+
+#Text=- Die Abmessungen müssen vernünftig dimensioniert werden.
+5-1	308-309	-	_	
+5-2	310-313	Die	_	
+5-3	314-325	Abmessungen	_	
+5-4	326-332	müssen	_	
+5-5	333-343	vernünftig	_	
+5-6	344-357	dimensioniert	_	
+5-7	358-364	werden	_	
+5-8	364-365	.	_	
+
+#Text=- Die Damen und Herren, die so etwas planen, sollten eine Fortbildung absolvieren müssen, was so an Rad-Typen im Stadtverkehr unterwegs ist
+6-1	366-367	-	_	
+6-2	368-371	Die	_	
+6-3	372-377	Damen	_	
+6-4	378-381	und	_	
+6-5	382-388	Herren	_	
+6-6	388-389	,	_	
+6-7	390-393	die	_	
+6-8	394-396	so	_	
+6-9	397-402	etwas	_	
+6-10	403-409	planen	_	
+6-11	409-410	,	_	
+6-12	411-418	sollten	_	
+6-13	419-423	eine	_	
+6-14	424-435	Fortbildung	_	
+6-15	436-447	absolvieren	_	
+6-16	448-454	müssen	_	
+6-17	454-455	,	_	
+6-18	456-459	was	_	
+6-19	460-462	so	_	
+6-20	463-465	an	_	
+6-21	466-475	Rad-Typen	_	
+6-22	476-478	im	_	
+6-23	479-491	Stadtverkehr	_	
+6-24	492-501	unterwegs	_	
+6-25	502-505	ist	_	
+
+#Text=- Im Bereich des Drängelgitters gibt es eine Unebenheit (Betonpfropf).
+7-1	506-507	-	_	
+7-2	508-510	Im	_	
+7-3	511-518	Bereich	_	
+7-4	519-522	des	_	
+7-5	523-537	Drängelgitters	_	
+7-6	538-542	gibt	_	
+7-7	543-545	es	_	
+7-8	546-550	eine	_	
+7-9	551-561	Unebenheit	_	
+7-10	562-563	(	_	
+7-11	563-574	Betonpfropf	_	
+7-12	574-575	)	_	
+7-13	575-576	.	_	
+
+#Text=Zumindest diese sollte sehr kurzfristig entfernt werden.
+8-1	577-586	Zumindest	_	
+8-2	587-592	diese	_	
+8-3	593-599	sollte	_	
+8-4	600-604	sehr	_	
+8-5	605-616	kurzfristig	_	
+8-6	617-625	entfernt	_	
+8-7	626-632	werden	_	
+8-8	632-633	.	_	
+
+#Text=Die Brücke sollte regelmäßig gekehrt werden.
+9-1	634-637	Die	_	
+9-2	638-644	Brücke	_	
+9-3	645-651	sollte	_	
+9-4	652-662	regelmäßig	_	
+9-5	663-670	gekehrt	_	
+9-6	671-677	werden	_	
+9-7	677-678	.	_	
+
+#Text=Hier handelt es sich um die Grenzstelle zwischen zwei Stadtbezirken.
+10-1	679-683	Hier	_	
+10-2	684-691	handelt	_	
+10-3	692-694	es	_	
+10-4	695-699	sich	_	
+10-5	700-702	um	_	
+10-6	703-706	die	_	
+10-7	707-718	Grenzstelle	_	
+10-8	719-727	zwischen	_	
+10-9	728-732	zwei	_	
+10-10	733-746	Stadtbezirken	_	
+10-11	746-747	.	_	
+
+#Text=Da die Brücke zudem wohl zur Autobahn gehört bzw. das Land für diesen Übergang zuständig ist, kollidieren hier die Zuständigkeiten.
+11-1	748-750	Da	_	
+11-2	751-754	die	_	
+11-3	755-761	Brücke	_	
+11-4	762-767	zudem	_	
+11-5	768-772	wohl	_	
+11-6	773-776	zur	_	
+11-7	777-785	Autobahn	_	
+11-8	786-792	gehört	_	
+11-9	793-796	bzw	_	
+11-10	796-797	.	_	
+11-11	798-801	das	_	
+11-12	802-806	Land	_	
+11-13	807-810	für	_	
+11-14	811-817	diesen	_	
+11-15	818-826	Übergang	_	
+11-16	827-836	zuständig	_	
+11-17	837-840	ist	_	
+11-18	840-841	,	_	
+11-19	842-853	kollidieren	_	
+11-20	854-858	hier	_	
+11-21	859-862	die	_	
+11-22	863-878	Zuständigkeiten	_	
+11-23	878-879	.	_	
+
+#Text=Es ist jedesmal ein Riesenakt, wenn ich melden möchte, dass die Brücke wieder voll Blätter liegt oder Glasscherben dort liegen.
+12-1	880-882	Es	_	
+12-2	883-886	ist	_	
+12-3	887-895	jedesmal	_	
+12-4	896-899	ein	_	
+12-5	900-909	Riesenakt	_	
+12-6	909-910	,	_	
+12-7	911-915	wenn	_	
+12-8	916-919	ich	_	
+12-9	920-926	melden	_	
+12-10	927-933	möchte	_	
+12-11	933-934	,	_	
+12-12	935-939	dass	_	
+12-13	940-943	die	_	
+12-14	944-950	Brücke	_	
+12-15	951-957	wieder	_	
+12-16	958-962	voll	_	
+12-17	963-970	Blätter	_	
+12-18	971-976	liegt	_	
+12-19	977-981	oder	_	
+12-20	982-994	Glasscherben	_	
+12-21	995-999	dort	_	
+12-22	1000-1006	liegen	_	
+12-23	1006-1007	.	_	
+
+#Text=Auch oder gerade im Grenzbereich des Radverkehrskonzepts Ehrenfeld sollte diese sehr häufig genutzte Stelle geregelt werden.
+13-1	1008-1012	Auch	_	
+13-2	1013-1017	oder	_	
+13-3	1018-1024	gerade	_	
+13-4	1025-1027	im	_	
+13-5	1028-1040	Grenzbereich	_	
+13-6	1041-1044	des	_	
+13-7	1045-1064	Radverkehrskonzepts	_	
+13-8	1065-1074	Ehrenfeld	_	
+13-9	1075-1081	sollte	_	
+13-10	1082-1087	diese	_	
+13-11	1088-1092	sehr	_	
+13-12	1093-1099	häufig	_	
+13-13	1100-1108	genutzte	_	
+13-14	1109-1115	Stelle	_	
+13-15	1116-1124	geregelt	_	
+13-16	1125-1131	werden	_	
+13-17	1131-1132	.	_	

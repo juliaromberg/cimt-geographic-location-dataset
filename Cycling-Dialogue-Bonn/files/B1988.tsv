@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=In beide Richtungen für Fahrräder frei geben
+1-1	0-2	In	_	
+1-2	3-8	beide	_	
+1-3	9-19	Richtungen	_	
+1-4	20-23	für	_	
+1-5	24-33	Fahrräder	_	
+1-6	34-38	frei	_	
+1-7	39-44	geben	_	
+
+#Text=Um die Kreuzung Argelanderstraße-Luisenstraße ein wenig zu entlasten könnte man den Fahrradverkehr durch diese wenig befahrene Straße in beide Richtungen umlegen und ihn so zumindest zum Teil von der Kreuzung zu verlagern
+2-1	47-49	Um	_	
+2-2	50-53	die	*[3]	
+2-3	54-62	Kreuzung	*[3]	
+2-4	63-92	Argelanderstraße-Luisenstraße	*[3]	
+2-5	93-96	ein	_	
+2-6	97-102	wenig	_	
+2-7	103-105	zu	_	
+2-8	106-115	entlasten	_	
+2-9	116-122	könnte	_	
+2-10	123-126	man	_	
+2-11	127-130	den	_	
+2-12	131-145	Fahrradverkehr	_	
+2-13	146-151	durch	_	
+2-14	152-157	diese	_	
+2-15	158-163	wenig	_	
+2-16	164-173	befahrene	_	
+2-17	174-180	Straße	_	
+2-18	181-183	in	_	
+2-19	184-189	beide	_	
+2-20	190-200	Richtungen	_	
+2-21	201-208	umlegen	_	
+2-22	209-212	und	_	
+2-23	213-216	ihn	_	
+2-24	217-219	so	_	
+2-25	220-229	zumindest	_	
+2-26	230-233	zum	_	
+2-27	234-238	Teil	_	
+2-28	239-242	von	_	
+2-29	243-246	der	_	
+2-30	247-255	Kreuzung	_	
+2-31	256-258	zu	_	
+2-32	259-268	verlagern	_	

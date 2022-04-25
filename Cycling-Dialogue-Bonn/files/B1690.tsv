@@ -1,0 +1,115 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bushaltestelle
+1-1	0-14	Bushaltestelle	_	
+
+#Text=Die Bushaltestelle befindet sich in unmittelbarer Nähe der Kreuzung so dass PKWs, die von der Friedrich-Ebert-Allee in die Heussallee einbiegen, haltende Busse immer auf der Gegenfahrbahn überholen.
+2-1	17-20	Die	_	
+2-2	21-35	Bushaltestelle	_	
+2-3	36-44	befindet	_	
+2-4	45-49	sich	_	
+2-5	50-52	in	_	
+2-6	53-66	unmittelbarer	_	
+2-7	67-71	Nähe	_	
+2-8	72-75	der	_	
+2-9	76-84	Kreuzung	_	
+2-10	85-87	so	_	
+2-11	88-92	dass	_	
+2-12	93-97	PKWs	_	
+2-13	97-98	,	_	
+2-14	99-102	die	_	
+2-15	103-106	von	*[4]	
+2-16	107-110	der	*[4]	
+2-17	111-132	Friedrich-Ebert-Allee	*[4]	
+2-18	133-135	in	*[4]	
+2-19	136-139	die	*[4]	
+2-20	140-150	Heussallee	*[4]	
+2-21	151-160	einbiegen	*[4]	
+2-22	160-161	,	_	
+2-23	162-170	haltende	_	
+2-24	171-176	Busse	_	
+2-25	177-182	immer	_	
+2-26	183-186	auf	_	
+2-27	187-190	der	_	
+2-28	191-204	Gegenfahrbahn	_	
+2-29	205-214	überholen	_	
+2-30	214-215	.	_	
+
+#Text=Auf dieser Fahrbahn muss man sich als Radfahrer einreihen wenn man von der Heussallee über die Kreuzung in die Genscherallee weiter fahren möchte.
+3-1	216-219	Auf	_	
+3-2	220-226	dieser	_	
+3-3	227-235	Fahrbahn	_	
+3-4	236-240	muss	_	
+3-5	241-244	man	_	
+3-6	245-249	sich	_	
+3-7	250-253	als	_	
+3-8	254-263	Radfahrer	_	
+3-9	264-273	einreihen	_	
+3-10	274-278	wenn	_	
+3-11	279-282	man	_	
+3-12	283-286	von	*[5]	
+3-13	287-290	der	*[5]	
+3-14	291-301	Heussallee	*[5]	
+3-15	302-306	über	*[5]	
+3-16	307-310	die	*[5]	
+3-17	311-319	Kreuzung	*[5]	
+3-18	320-322	in	*[5]	
+3-19	323-326	die	*[5]	
+3-20	327-340	Genscherallee	*[5]	
+3-21	341-347	weiter	_	
+3-22	348-354	fahren	_	
+3-23	355-361	möchte	_	
+3-24	361-362	.	_	
+
+#Text=Hier würde helfen 1) ein Grünstreifen in der Mitte der Fahrbahn, so dass PKWs auf den vorgesehenen Spuren bleiben müssen, 2) die Bushaltestelle weiter von der Kreuzung weg verlegen 3) ein Radweg, der von der Heussallee in die Genscherallee führt.
+4-1	363-367	Hier	_	
+4-2	368-373	würde	_	
+4-3	374-380	helfen	_	
+4-4	381-382	1	_	
+4-5	382-383	)	_	
+4-6	384-387	ein	_	
+4-7	388-400	Grünstreifen	_	
+4-8	401-403	in	_	
+4-9	404-407	der	_	
+4-10	408-413	Mitte	_	
+4-11	414-417	der	_	
+4-12	418-426	Fahrbahn	_	
+4-13	426-427	,	_	
+4-14	428-430	so	_	
+4-15	431-435	dass	_	
+4-16	436-440	PKWs	_	
+4-17	441-444	auf	_	
+4-18	445-448	den	_	
+4-19	449-461	vorgesehenen	_	
+4-20	462-468	Spuren	_	
+4-21	469-476	bleiben	_	
+4-22	477-483	müssen	_	
+4-23	483-484	,	_	
+4-24	485-486	2	_	
+4-25	486-487	)	_	
+4-26	488-491	die	_	
+4-27	492-506	Bushaltestelle	_	
+4-28	507-513	weiter	_	
+4-29	514-517	von	_	
+4-30	518-521	der	_	
+4-31	522-530	Kreuzung	_	
+4-32	531-534	weg	_	
+4-33	535-543	verlegen	_	
+4-34	544-545	3	_	
+4-35	545-546	)	_	
+4-36	547-550	ein	_	
+4-37	551-557	Radweg	_	
+4-38	557-558	,	_	
+4-39	559-562	der	_	
+4-40	563-566	von	*[6]	
+4-41	567-570	der	*[6]	
+4-42	571-581	Heussallee	*[6]	
+4-43	582-584	in	*[6]	
+4-44	585-588	die	*[6]	
+4-45	589-602	Genscherallee	*[6]	
+4-46	603-608	führt	_	
+4-47	608-609	.	_	

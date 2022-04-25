@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegbenutzungspflicht aufheben
+1-1	0-23	Radwegbenutzungspflicht	_	
+1-2	24-32	aufheben	_	
+
+#Text=Hier ist linksseitig Am Herrengarten Richtung B56 ein Radweg ausgewiesen.
+2-1	35-39	Hier	_	
+2-2	40-43	ist	_	
+2-3	44-55	linksseitig	*[5]	
+2-4	56-58	Am	*[5]	
+2-5	59-71	Herrengarten	*[5]	
+2-6	72-80	Richtung	*[5]	
+2-7	81-84	B56	*[5]	
+2-8	85-88	ein	_	
+2-9	89-95	Radweg	_	
+2-10	96-107	ausgewiesen	_	
+2-11	107-108	.	_	
+
+#Text=Die Benutzungpflicht sollte spätestens nach Ende der Umbauten der Kreuzung Am Herrengarten/B56 aufgehoben werden, weil dann die Querung der B56 auf der rechten Seite über einen Schutzstreifen bzw. eine Ampel erfolgen soll.
+3-1	109-112	Die	_	
+3-2	113-129	Benutzungpflicht	_	
+3-3	130-136	sollte	_	
+3-4	137-147	spätestens	_	
+3-5	148-152	nach	_	
+3-6	153-157	Ende	_	
+3-7	158-161	der	_	
+3-8	162-170	Umbauten	_	
+3-9	171-174	der	*[6]	
+3-10	175-183	Kreuzung	*[6]	
+3-11	184-186	Am	*[6]	
+3-12	187-199	Herrengarten	*[6]	
+3-13	199-200	/	*[6]	
+3-14	200-203	B56	*[6]	
+3-15	204-214	aufgehoben	_	
+3-16	215-221	werden	_	
+3-17	221-222	,	_	
+3-18	223-227	weil	_	
+3-19	228-232	dann	_	
+3-20	233-236	die	*[7]	
+3-21	237-244	Querung	*[7]	
+3-22	245-248	der	*[7]	
+3-23	249-252	B56	*[7]	
+3-24	253-256	auf	_	
+3-25	257-260	der	_	
+3-26	261-268	rechten	_	
+3-27	269-274	Seite	_	
+3-28	275-279	über	_	
+3-29	280-285	einen	_	
+3-30	286-300	Schutzstreifen	_	
+3-31	301-304	bzw	_	
+3-32	304-305	.	_	
+3-33	306-310	eine	_	
+3-34	311-316	Ampel	_	
+3-35	317-325	erfolgen	_	
+3-36	326-330	soll	_	
+3-37	330-331	.	_	
+
+#Text=Ich halte die Benutzungspflicht aber auch derzeit schon nicht sinnvoll.
+4-1	332-335	Ich	_	
+4-2	336-341	halte	_	
+4-3	342-345	die	_	
+4-4	346-363	Benutzungspflicht	_	
+4-5	364-368	aber	_	
+4-6	369-373	auch	_	
+4-7	374-381	derzeit	_	
+4-8	382-387	schon	_	
+4-9	388-393	nicht	_	
+4-10	394-402	sinnvoll	_	
+4-11	402-403	.	_	

@@ -1,0 +1,194 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg auf Venloer Str. regelmässig von Autos in 2. Reihe zugeparkt
+1-1	0-6	Radweg	*[11]	
+1-2	7-10	auf	*[11]	
+1-3	11-18	Venloer	*[11]	
+1-4	19-22	Str	*[11]	
+1-5	22-23	.	*[11]	
+1-6	24-35	regelmässig	_	
+1-7	36-39	von	_	
+1-8	40-45	Autos	_	
+1-9	46-48	in	_	
+1-10	49-50	2	_	
+1-11	50-51	.	_	
+1-12	52-57	Reihe	_	
+1-13	58-67	zugeparkt	_	
+
+#Text=Der Radweg auf der Venloer Str. wird regelmässig von Autos zugeparkt.
+2-1	70-73	Der	*[12]	
+2-2	74-80	Radweg	*[12]	
+2-3	81-84	auf	*[12]	
+2-4	85-88	der	*[12]	
+2-5	89-96	Venloer	*[12]	
+2-6	97-100	Str	*[12]	
+2-7	100-101	.	_	
+2-8	102-106	wird	_	
+2-9	107-118	regelmässig	_	
+2-10	119-122	von	_	
+2-11	123-128	Autos	_	
+2-12	129-138	zugeparkt	_	
+2-13	138-139	.	_	
+
+#Text=Entweder sind es Autofahrer, die nur ganz schnell etwas kaufen möchten oder Anlieferer.
+3-1	140-148	Entweder	_	
+3-2	149-153	sind	_	
+3-3	154-156	es	_	
+3-4	157-167	Autofahrer	_	
+3-5	167-168	,	_	
+3-6	169-172	die	_	
+3-7	173-176	nur	_	
+3-8	177-181	ganz	_	
+3-9	182-189	schnell	_	
+3-10	190-195	etwas	_	
+3-11	196-202	kaufen	_	
+3-12	203-210	möchten	_	
+3-13	211-215	oder	_	
+3-14	216-226	Anlieferer	_	
+3-15	226-227	.	_	
+
+#Text=Wir Radfahrer sind dann meist gezwungen, den Autos auszuweichen und dies ist gefährlich und führt den Sinn eines Radweges ad absurdum.
+4-1	228-231	Wir	_	
+4-2	232-241	Radfahrer	_	
+4-3	242-246	sind	_	
+4-4	247-251	dann	_	
+4-5	252-257	meist	_	
+4-6	258-267	gezwungen	_	
+4-7	267-268	,	_	
+4-8	269-272	den	_	
+4-9	273-278	Autos	_	
+4-10	279-291	auszuweichen	_	
+4-11	292-295	und	_	
+4-12	296-300	dies	_	
+4-13	301-304	ist	_	
+4-14	305-315	gefährlich	_	
+4-15	316-319	und	_	
+4-16	320-325	führt	_	
+4-17	326-329	den	_	
+4-18	330-334	Sinn	_	
+4-19	335-340	eines	_	
+4-20	341-349	Radweges	_	
+4-21	350-352	ad	_	
+4-22	353-361	absurdum	_	
+4-23	361-362	.	_	
+
+#Text=Selten mal ist es so, dass ein Autofahrer den Radweg freilässt und auf der Fahrspur in 2. Reihe hält.
+5-1	363-369	Selten	_	
+5-2	370-373	mal	_	
+5-3	374-377	ist	_	
+5-4	378-380	es	_	
+5-5	381-383	so	_	
+5-6	383-384	,	_	
+5-7	385-389	dass	_	
+5-8	390-393	ein	_	
+5-9	394-404	Autofahrer	_	
+5-10	405-408	den	_	
+5-11	409-415	Radweg	_	
+5-12	416-425	freilässt	_	
+5-13	426-429	und	_	
+5-14	430-433	auf	_	
+5-15	434-437	der	_	
+5-16	438-446	Fahrspur	_	
+5-17	447-449	in	_	
+5-18	450-451	2	_	
+5-19	451-452	.	_	
+5-20	453-458	Reihe	_	
+5-21	459-463	hält	_	
+5-22	463-464	.	_	
+
+#Text=Aber Spass macht das auch nicht: zwischen parkendem Auto und haltendenm Auto sich durchschlängeln und hoffen, dass sich keine Fahrer- oder Beifahrertür öffnet.
+6-1	465-469	Aber	_	
+6-2	470-475	Spass	_	
+6-3	476-481	macht	_	
+6-4	482-485	das	_	
+6-5	486-490	auch	_	
+6-6	491-496	nicht	_	
+6-7	496-497	:	_	
+6-8	498-506	zwischen	_	
+6-9	507-516	parkendem	_	
+6-10	517-521	Auto	_	
+6-11	522-525	und	_	
+6-12	526-536	haltendenm	_	
+6-13	537-541	Auto	_	
+6-14	542-546	sich	_	
+6-15	547-562	durchschlängeln	_	
+6-16	563-566	und	_	
+6-17	567-573	hoffen	_	
+6-18	573-574	,	_	
+6-19	575-579	dass	_	
+6-20	580-584	sich	_	
+6-21	585-590	keine	_	
+6-22	591-597	Fahrer	_	
+6-23	597-598	-	_	
+6-24	599-603	oder	_	
+6-25	604-616	Beifahrertür	_	
+6-26	617-623	öffnet	_	
+6-27	623-624	.	_	
+
+#Text=Für den Liefererkehr gibt es wohl Halteplätze, aber die scheinen mir oft zugeparkt zu sein.
+7-1	625-628	Für	_	
+7-2	629-632	den	_	
+7-3	633-645	Liefererkehr	_	
+7-4	646-650	gibt	_	
+7-5	651-653	es	_	
+7-6	654-658	wohl	_	
+7-7	659-670	Halteplätze	_	
+7-8	670-671	,	_	
+7-9	672-676	aber	_	
+7-10	677-680	die	_	
+7-11	681-689	scheinen	_	
+7-12	690-693	mir	_	
+7-13	694-697	oft	_	
+7-14	698-707	zugeparkt	_	
+7-15	708-710	zu	_	
+7-16	711-715	sein	_	
+7-17	715-716	.	_	
+
+#Text=Entweder wir erhöaten doch die weitgehende Lösung einer Einbahnstrasse (für Autofahrer) oder es fänden regelmässige Kontrollen statt.
+8-1	717-725	Entweder	_	
+8-2	726-729	wir	_	
+8-3	730-738	erhöaten	_	
+8-4	739-743	doch	_	
+8-5	744-747	die	_	
+8-6	748-759	weitgehende	_	
+8-7	760-766	Lösung	_	
+8-8	767-772	einer	_	
+8-9	773-787	Einbahnstrasse	_	
+8-10	788-789	(	_	
+8-11	789-792	für	_	
+8-12	793-803	Autofahrer	_	
+8-13	803-804	)	_	
+8-14	805-809	oder	_	
+8-15	810-812	es	_	
+8-16	813-819	fänden	_	
+8-17	820-832	regelmässige	_	
+8-18	833-843	Kontrollen	_	
+8-19	844-849	statt	_	
+8-20	849-850	.	_	
+
+#Text=Meinen Kindern jedenfalls rate ich ab, die Venloer Str. mit dem Rad zu befahren.
+9-1	851-857	Meinen	_	
+9-2	858-865	Kindern	_	
+9-3	866-876	jedenfalls	_	
+9-4	877-881	rate	_	
+9-5	882-885	ich	_	
+9-6	886-888	ab	_	
+9-7	888-889	,	_	
+9-8	890-893	die	_	
+9-9	894-901	Venloer	_	
+9-10	902-905	Str	_	
+9-11	905-906	.	_	
+9-12	907-910	mit	_	
+9-13	911-914	dem	_	
+9-14	915-918	Rad	_	
+9-15	919-921	zu	_	
+9-16	922-930	befahren	_	
+9-17	930-931	.	_	
+
+#Text=Schade!
+10-1	932-938	Schade	_	
+10-2	938-939	!	_	

@@ -1,0 +1,41 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Sichteinschränkung durch Wildwuchs
+1-1	0-11	Gefährliche	_	
+1-2	12-30	Sichteinschränkung	_	
+1-3	31-36	durch	_	
+1-4	37-46	Wildwuchs	_	
+
+#Text=Hier sehen Radfahrer weder von oben noch von unten kommend, ob ihnen jemand entgegen kommt.
+2-1	49-53	Hier	_	
+2-2	54-59	sehen	_	
+2-3	60-69	Radfahrer	_	
+2-4	70-75	weder	_	
+2-5	76-79	von	_	
+2-6	80-84	oben	_	
+2-7	85-89	noch	_	
+2-8	90-93	von	_	
+2-9	94-99	unten	_	
+2-10	100-107	kommend	_	
+2-11	107-108	,	_	
+2-12	109-111	ob	_	
+2-13	112-117	ihnen	_	
+2-14	118-124	jemand	_	
+2-15	125-133	entgegen	_	
+2-16	134-139	kommt	_	
+2-17	139-140	.	_	
+
+#Text=Die Stadt sollte hier dringend das Gestrüpp beschneiden.
+3-1	141-144	Die	_	
+3-2	145-150	Stadt	_	
+3-3	151-157	sollte	_	
+3-4	158-162	hier	_	
+3-5	163-171	dringend	_	
+3-6	172-175	das	_	
+3-7	176-184	Gestrüpp	_	
+3-8	185-196	beschneiden	_	
+3-9	196-197	.	_	

@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Baustelle
+1-1	0-9	Baustelle	_	
+
+#Text=Hier ist seit einiger Zeit eine Baustelle, die den Radweg beendet und auf die Strasse führt.
+2-1	12-16	Hier	_	
+2-2	17-20	ist	_	
+2-3	21-25	seit	_	
+2-4	26-33	einiger	_	
+2-5	34-38	Zeit	_	
+2-6	39-43	eine	_	
+2-7	44-53	Baustelle	_	
+2-8	53-54	,	_	
+2-9	55-58	die	_	
+2-10	59-62	den	_	
+2-11	63-69	Radweg	_	
+2-12	70-77	beendet	_	
+2-13	78-81	und	_	
+2-14	82-85	auf	_	
+2-15	86-89	die	_	
+2-16	90-97	Strasse	_	
+2-17	98-103	führt	_	
+2-18	103-104	.	_	
+
+#Text=Es gibt keine Info was und wie lange dort gebaut wird.
+3-1	105-107	Es	_	
+3-2	108-112	gibt	_	
+3-3	113-118	keine	_	
+3-4	119-123	Info	_	
+3-5	124-127	was	_	
+3-6	128-131	und	_	
+3-7	132-135	wie	_	
+3-8	136-141	lange	_	
+3-9	142-146	dort	_	
+3-10	147-153	gebaut	_	
+3-11	154-158	wird	_	
+3-12	158-159	.	_	

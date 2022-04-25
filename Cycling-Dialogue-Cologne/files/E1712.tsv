@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegbenutzungspflicht aufheben
+1-1	0-23	Radwegbenutzungspflicht	_	
+1-2	24-32	aufheben	_	
+
+#Text=Der stadtauswärtsführende Radweg ist zu eng, kaputt und schlecht geführt.
+2-1	35-38	Der	_	
+2-2	39-60	stadtauswärtsführende	_	
+2-3	61-67	Radweg	_	
+2-4	68-71	ist	_	
+2-5	72-74	zu	_	
+2-6	75-78	eng	_	
+2-7	78-79	,	_	
+2-8	80-86	kaputt	_	
+2-9	87-90	und	_	
+2-10	91-99	schlecht	_	
+2-11	100-107	geführt	_	
+2-12	107-108	.	_	
+
+#Text=Hier muss ein breiter Radweg auf die Straße.
+3-1	109-113	Hier	_	
+3-2	114-118	muss	_	
+3-3	119-122	ein	_	
+3-4	123-130	breiter	_	
+3-5	131-137	Radweg	_	
+3-6	138-141	auf	_	
+3-7	142-145	die	_	
+3-8	146-152	Straße	_	
+3-9	152-153	.	_	
+
+#Text=Alles andere ist murks und nimmt Fußgängern Platz.
+4-1	154-159	Alles	_	
+4-2	160-166	andere	_	
+4-3	167-170	ist	_	
+4-4	171-176	murks	_	
+4-5	177-180	und	_	
+4-6	181-186	nimmt	_	
+4-7	187-197	Fußgängern	_	
+4-8	198-203	Platz	_	
+4-9	203-204	.	_	

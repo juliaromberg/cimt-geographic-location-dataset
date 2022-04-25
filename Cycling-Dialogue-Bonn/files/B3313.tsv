@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Von Kölnstr. in Rosental als Linksabbieger
+1-1	0-3	Von	*[5]	
+1-2	4-11	Kölnstr	*[5]	
+1-3	11-12	.	*[5]	
+1-4	13-15	in	*[5]	
+1-5	16-24	Rosental	*[5]	
+1-6	25-28	als	*[5]	
+1-7	29-42	Linksabbieger	*[5]	
+
+#Text=Die Ampelführung von der Kölnstraße kommend ins Rosental ist suboptimal gelöst.
+2-1	45-48	Die	*[6]	
+2-2	49-61	Ampelführung	*[6]	
+2-3	62-65	von	*[6]	
+2-4	66-69	der	*[6]	
+2-5	70-80	Kölnstraße	*[6]	
+2-6	81-88	kommend	*[6]	
+2-7	89-92	ins	*[6]	
+2-8	93-101	Rosental	*[6]	
+2-9	102-105	ist	_	
+2-10	106-116	suboptimal	_	
+2-11	117-123	gelöst	_	
+2-12	123-124	.	_	
+
+#Text=Da der Gegenverkehr ausschließlich die Straßenbahn ist, könnten Fahrradfahrer viel häufiger und sicherer die Straße queren, als dies derzeit der Fall ist.
+3-1	125-127	Da	_	
+3-2	128-131	der	_	
+3-3	132-144	Gegenverkehr	_	
+3-4	145-159	ausschließlich	_	
+3-5	160-163	die	_	
+3-6	164-175	Straßenbahn	_	
+3-7	176-179	ist	_	
+3-8	179-180	,	_	
+3-9	181-188	könnten	_	
+3-10	189-202	Fahrradfahrer	_	
+3-11	203-207	viel	_	
+3-12	208-216	häufiger	_	
+3-13	217-220	und	_	
+3-14	221-229	sicherer	_	
+3-15	230-233	die	_	
+3-16	234-240	Straße	_	
+3-17	241-247	queren	_	
+3-18	247-248	,	_	
+3-19	249-252	als	_	
+3-20	253-257	dies	_	
+3-21	258-265	derzeit	_	
+3-22	266-269	der	_	
+3-23	270-274	Fall	_	
+3-24	275-278	ist	_	
+3-25	278-279	.	_	
+
+#Text=Vielleicht macht hier eine Ampelschaltung für Fahrräder Sinn, die auf die Vorfahrt der Fußgänger aufmerksam macht.
+4-1	280-290	Vielleicht	_	
+4-2	291-296	macht	_	
+4-3	297-301	hier	_	
+4-4	302-306	eine	_	
+4-5	307-321	Ampelschaltung	_	
+4-6	322-325	für	_	
+4-7	326-335	Fahrräder	_	
+4-8	336-340	Sinn	_	
+4-9	340-341	,	_	
+4-10	342-345	die	_	
+4-11	346-349	auf	_	
+4-12	350-353	die	_	
+4-13	354-362	Vorfahrt	_	
+4-14	363-366	der	_	
+4-15	367-376	Fußgänger	_	
+4-16	377-387	aufmerksam	_	
+4-17	388-393	macht	_	
+4-18	393-394	.	_	

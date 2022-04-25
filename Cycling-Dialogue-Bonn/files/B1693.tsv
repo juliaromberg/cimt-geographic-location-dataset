@@ -1,0 +1,112 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg
+1-1	0-10	Fahrradweg	_	
+
+#Text=Kurz vor der Ampel wird der Radweg vom Bürgersteig auf die Fahrbahn verlegt.
+2-1	13-17	Kurz	_	
+2-2	18-21	vor	_	
+2-3	22-25	der	_	
+2-4	26-31	Ampel	_	
+2-5	32-36	wird	_	
+2-6	37-40	der	_	
+2-7	41-47	Radweg	_	
+2-8	48-51	vom	_	
+2-9	52-63	Bürgersteig	_	
+2-10	64-67	auf	_	
+2-11	68-71	die	_	
+2-12	72-80	Fahrbahn	_	
+2-13	81-88	verlegt	_	
+2-14	88-89	.	_	
+
+#Text=Auf der Fahrbahn reihen sich die Autos auf 2 Spuren ein (Linksabbieger neben Geradeausfahrer).
+3-1	90-93	Auf	_	
+3-2	94-97	der	_	
+3-3	98-106	Fahrbahn	_	
+3-4	107-113	reihen	_	
+3-5	114-118	sich	_	
+3-6	119-122	die	_	
+3-7	123-128	Autos	_	
+3-8	129-132	auf	_	
+3-9	133-134	2	_	
+3-10	135-141	Spuren	_	
+3-11	142-145	ein	_	
+3-12	146-147	(	_	
+3-13	147-160	Linksabbieger	_	
+3-14	161-166	neben	_	
+3-15	167-182	Geradeausfahrer	_	
+3-16	182-183	)	_	
+3-17	183-184	.	_	
+
+#Text=Die Spuren für die PKWs sind so schmal, dass die Autos in der Regel den Radweg mit benutzen und man sich als Radfahrer nicht vernünftig einreihen kann.
+4-1	185-188	Die	_	
+4-2	189-195	Spuren	_	
+4-3	196-199	für	_	
+4-4	200-203	die	_	
+4-5	204-208	PKWs	_	
+4-6	209-213	sind	_	
+4-7	214-216	so	_	
+4-8	217-223	schmal	_	
+4-9	223-224	,	_	
+4-10	225-229	dass	_	
+4-11	230-233	die	_	
+4-12	234-239	Autos	_	
+4-13	240-242	in	_	
+4-14	243-246	der	_	
+4-15	247-252	Regel	_	
+4-16	253-256	den	_	
+4-17	257-263	Radweg	_	
+4-18	264-267	mit	_	
+4-19	268-276	benutzen	_	
+4-20	277-280	und	_	
+4-21	281-284	man	_	
+4-22	285-289	sich	_	
+4-23	290-293	als	_	
+4-24	294-303	Radfahrer	_	
+4-25	304-309	nicht	_	
+4-26	310-320	vernünftig	_	
+4-27	321-330	einreihen	_	
+4-28	331-335	kann	_	
+4-29	335-336	.	_	
+
+#Text=Wenn der Bus sich dann noch dazwischen quetscht wird die Situation besonders gefährlich.
+5-1	337-341	Wenn	_	
+5-2	342-345	der	_	
+5-3	346-349	Bus	_	
+5-4	350-354	sich	_	
+5-5	355-359	dann	_	
+5-6	360-364	noch	_	
+5-7	365-375	dazwischen	_	
+5-8	376-384	quetscht	_	
+5-9	385-389	wird	_	
+5-10	390-393	die	_	
+5-11	394-403	Situation	_	
+5-12	404-413	besonders	_	
+5-13	414-424	gefährlich	_	
+5-14	424-425	.	_	
+
+#Text=Hier würde ein baulich getrennter Radweg dafür sorgen, dass jeder Verkehrsteilnehmer auf der für ihn vorgesehenen Spur bleibt.
+6-1	426-430	Hier	_	
+6-2	431-436	würde	_	
+6-3	437-440	ein	_	
+6-4	441-448	baulich	_	
+6-5	449-459	getrennter	_	
+6-6	460-466	Radweg	_	
+6-7	467-472	dafür	_	
+6-8	473-479	sorgen	_	
+6-9	479-480	,	_	
+6-10	481-485	dass	_	
+6-11	486-491	jeder	_	
+6-12	492-510	Verkehrsteilnehmer	_	
+6-13	511-514	auf	_	
+6-14	515-518	der	_	
+6-15	519-522	für	_	
+6-16	523-526	ihn	_	
+6-17	527-539	vorgesehenen	_	
+6-18	540-544	Spur	_	
+6-19	545-551	bleibt	_	
+6-20	551-552	.	_	

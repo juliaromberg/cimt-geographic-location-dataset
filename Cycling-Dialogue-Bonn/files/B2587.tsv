@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg regelmäßig zugeparkt
+1-1	0-6	Radweg	_	
+1-2	7-17	regelmäßig	_	
+1-3	18-27	zugeparkt	_	
+
+#Text=Der Radweg ist regelmäßig (z.B. durch Werbe-Anhänger) und auf km-Länge auf beiden Seiten zugeparkt = Abgrenzung zwischen Radweg und Parkstreifen erforderlich.
+2-1	30-33	Der	_	
+2-2	34-40	Radweg	_	
+2-3	41-44	ist	_	
+2-4	45-55	regelmäßig	_	
+2-5	56-57	(	_	
+2-6	57-60	z.B	_	
+2-7	60-61	.	_	
+2-8	62-67	durch	_	
+2-9	68-82	Werbe-Anhänger	_	
+2-10	82-83	)	_	
+2-11	84-87	und	_	
+2-12	88-91	auf	_	
+2-13	92-100	km-Länge	_	
+2-14	101-104	auf	_	
+2-15	105-111	beiden	_	
+2-16	112-118	Seiten	_	
+2-17	119-128	zugeparkt	_	
+2-18	129-130	=	_	
+2-19	131-141	Abgrenzung	_	
+2-20	142-150	zwischen	_	
+2-21	151-157	Radweg	_	
+2-22	158-161	und	_	
+2-23	162-174	Parkstreifen	_	
+2-24	175-187	erforderlich	_	
+2-25	187-188	.	_	

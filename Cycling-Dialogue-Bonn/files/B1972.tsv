@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Naturnaher Fuß/Radweg :-((
+1-1	0-10	Naturnaher	_	
+1-2	11-14	Fuß	_	
+1-3	14-15	/	_	
+1-4	15-21	Radweg	_	
+1-5	22-23	:	_	
+1-6	23-24	-	_	
+1-7	24-25	(	_	
+1-8	25-26	(	_	
+
+#Text=Ein Radweg für 2 Richtungen, sowie Fußgänger... auf ca. 1,5 m Breite, Hecken, Baumwurzeln, Pfützen ohne Ende.
+2-1	29-32	Ein	_	
+2-2	33-39	Radweg	_	
+2-3	40-43	für	_	
+2-4	44-45	2	_	
+2-5	46-56	Richtungen	_	
+2-6	56-57	,	_	
+2-7	58-63	sowie	_	
+2-8	64-73	Fußgänger	_	
+2-9	73-74	.	_	
+2-10	74-75	.	_	
+2-11	75-76	.	_	
+2-12	77-80	auf	_	
+2-13	81-83	ca	_	
+2-14	83-84	.	_	
+2-15	85-88	1,5	_	
+2-16	89-90	m	_	
+2-17	91-97	Breite	_	
+2-18	97-98	,	_	
+2-19	99-105	Hecken	_	
+2-20	105-106	,	_	
+2-21	107-118	Baumwurzeln	_	
+2-22	118-119	,	_	
+2-23	120-127	Pfützen	_	
+2-24	128-132	ohne	_	
+2-25	133-137	Ende	_	
+2-26	137-138	.	_	
+
+#Text=Eine Radwegführung und Qualität der die Ausführungsbestimmungen der StvO am Arsch vorbeigehen.
+3-1	139-143	Eine	_	
+3-2	144-157	Radwegführung	_	
+3-3	158-161	und	_	
+3-4	162-170	Qualität	_	
+3-5	171-174	der	_	
+3-6	175-178	die	_	
+3-7	179-202	Ausführungsbestimmungen	_	
+3-8	203-206	der	_	
+3-9	207-211	StvO	_	
+3-10	212-214	am	_	
+3-11	215-220	Arsch	_	
+3-12	221-232	vorbeigehen	_	
+3-13	232-233	.	_	
+
+#Text=Vorschlag: 2 breite Radstreifen auf der Fahrbahn
+4-1	234-243	Vorschlag	_	
+4-2	243-244	:	_	
+4-3	245-246	2	_	
+4-4	247-253	breite	_	
+4-5	254-265	Radstreifen	_	
+4-6	266-269	auf	_	
+4-7	270-273	der	_	
+4-8	274-282	Fahrbahn	_	

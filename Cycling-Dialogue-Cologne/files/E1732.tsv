@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg am Militärweg zwischen Buschweg und Alte Escher Straße
+1-1	0-6	Radweg	_	
+1-2	7-9	am	*[4]	
+1-3	10-20	Militärweg	*[4]	
+1-4	21-29	zwischen	*[4]	
+1-5	30-38	Buschweg	*[4]	
+1-6	39-42	und	*[4]	
+1-7	43-47	Alte	*[4]	
+1-8	48-54	Escher	*[4]	
+1-9	55-61	Straße	*[4]	
+
+#Text=der Radweg ist im Grunde kaum noch befahrbar und für ältere Meschen mit einem E-Bike, die mal zufällig drauf geraten eine Gefahr für ihre Knochen aufgrund überhöhter Sturzgefahr.
+2-1	64-67	der	_	
+2-2	68-74	Radweg	_	
+2-3	75-78	ist	_	
+2-4	79-81	im	_	
+2-5	82-88	Grunde	_	
+2-6	89-93	kaum	_	
+2-7	94-98	noch	_	
+2-8	99-108	befahrbar	_	
+2-9	109-112	und	_	
+2-10	113-116	für	_	
+2-11	117-123	ältere	_	
+2-12	124-131	Meschen	_	
+2-13	132-135	mit	_	
+2-14	136-141	einem	_	
+2-15	142-148	E-Bike	_	
+2-16	148-149	,	_	
+2-17	150-153	die	_	
+2-18	154-157	mal	_	
+2-19	158-166	zufällig	_	
+2-20	167-172	drauf	_	
+2-21	173-180	geraten	_	
+2-22	181-185	eine	_	
+2-23	186-192	Gefahr	_	
+2-24	193-196	für	_	
+2-25	197-201	ihre	_	
+2-26	202-209	Knochen	_	
+2-27	210-218	aufgrund	_	
+2-28	219-229	überhöhter	_	
+2-29	230-241	Sturzgefahr	_	
+2-30	241-242	.	_	
+
+#Text=Ab Herbst und mit eintretender Dunkelheit sieht man nicht mal mehr das Wurzelwerk und die viele Schlaglöcher aufgrund nicht geräumten Laubs.
+3-1	243-245	Ab	_	
+3-2	246-252	Herbst	_	
+3-3	253-256	und	_	
+3-4	257-260	mit	_	
+3-5	261-273	eintretender	_	
+3-6	274-284	Dunkelheit	_	
+3-7	285-290	sieht	_	
+3-8	291-294	man	_	
+3-9	295-300	nicht	_	
+3-10	301-304	mal	_	
+3-11	305-309	mehr	_	
+3-12	310-313	das	_	
+3-13	314-324	Wurzelwerk	_	
+3-14	325-328	und	_	
+3-15	329-332	die	_	
+3-16	333-338	viele	_	
+3-17	339-351	Schlaglöcher	_	
+3-18	352-360	aufgrund	_	
+3-19	361-366	nicht	_	
+3-20	367-376	geräumten	_	
+3-21	377-382	Laubs	_	
+3-22	382-383	.	_	

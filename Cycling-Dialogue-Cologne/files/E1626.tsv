@@ -1,0 +1,88 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rücksichtslos
+1-1	0-13	Rücksichtslos	_	
+
+#Text=wie der Radweg vor den Restos mit der griechischen und italienischen Flagge zugeparkt wird.
+2-1	16-19	wie	_	
+2-2	20-23	der	_	
+2-3	24-30	Radweg	_	
+2-4	31-34	vor	_	
+2-5	35-38	den	_	
+2-6	39-45	Restos	_	
+2-7	46-49	mit	_	
+2-8	50-53	der	_	
+2-9	54-66	griechischen	_	
+2-10	67-70	und	_	
+2-11	71-84	italienischen	_	
+2-12	85-91	Flagge	_	
+2-13	92-101	zugeparkt	_	
+2-14	102-106	wird	_	
+2-15	106-107	.	_	
+
+#Text=Warnblinker an, Gyros geholt, Zigarette geraucht, Schwätzchen gehalten - 2 Autos, 3 Autos selten kein Auto.
+3-1	108-119	Warnblinker	_	
+3-2	120-122	an	_	
+3-3	122-123	,	_	
+3-4	124-129	Gyros	_	
+3-5	130-136	geholt	_	
+3-6	136-137	,	_	
+3-7	138-147	Zigarette	_	
+3-8	148-156	geraucht	_	
+3-9	156-157	,	_	
+3-10	158-169	Schwätzchen	_	
+3-11	170-178	gehalten	_	
+3-12	179-180	-	_	
+3-13	181-182	2	_	
+3-14	183-188	Autos	_	
+3-15	188-189	,	_	
+3-16	190-191	3	_	
+3-17	192-197	Autos	_	
+3-18	198-204	selten	_	
+3-19	205-209	kein	_	
+3-20	210-214	Auto	_	
+3-21	214-215	.	_	
+
+#Text=Radfahren auf der Subbelrather ist insgesamt kein Vergnügen, aber die Ignoranz der Autofahrer an dieser Stelle ist kaum zu toppen.
+4-1	216-225	Radfahren	_	
+4-2	226-229	auf	_	
+4-3	230-233	der	_	
+4-4	234-246	Subbelrather	_	
+4-5	247-250	ist	_	
+4-6	251-260	insgesamt	_	
+4-7	261-265	kein	_	
+4-8	266-275	Vergnügen	_	
+4-9	275-276	,	_	
+4-10	277-281	aber	_	
+4-11	282-285	die	_	
+4-12	286-294	Ignoranz	_	
+4-13	295-298	der	_	
+4-14	299-309	Autofahrer	_	
+4-15	310-312	an	_	
+4-16	313-319	dieser	_	
+4-17	320-326	Stelle	_	
+4-18	327-330	ist	_	
+4-19	331-335	kaum	_	
+4-20	336-338	zu	_	
+4-21	339-345	toppen	_	
+4-22	345-346	.	_	
+
+#Text=Warum bitte tritt niemand mal den Autofahrern und Ladenbesitzern dort auf die Füße?
+5-1	347-352	Warum	_	
+5-2	353-358	bitte	_	
+5-3	359-364	tritt	_	
+5-4	365-372	niemand	_	
+5-5	373-376	mal	_	
+5-6	377-380	den	_	
+5-7	381-392	Autofahrern	_	
+5-8	393-396	und	_	
+5-9	397-411	Ladenbesitzern	_	
+5-10	412-416	dort	_	
+5-11	417-420	auf	_	
+5-12	421-424	die	_	
+5-13	425-429	Füße	_	
+5-14	429-430	?	_	

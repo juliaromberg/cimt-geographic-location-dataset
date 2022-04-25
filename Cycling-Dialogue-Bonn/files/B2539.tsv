@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Warum Neubau der Unterführung ohne Radweg?
+1-1	0-5	Warum	_	
+1-2	6-12	Neubau	_	
+1-3	13-16	der	_	
+1-4	17-29	Unterführung	_	
+1-5	30-34	ohne	_	
+1-6	35-41	Radweg	_	
+1-7	41-42	?	_	
+
+#Text=Bei dem Neubau eine gute Radwegequerung unter der DB Strecke überhaupt nicht zu berücksichtigen, ist eine beachtliche Fehlentscheidung.
+2-1	45-48	Bei	_	
+2-2	49-52	dem	_	
+2-3	53-59	Neubau	_	
+2-4	60-64	eine	_	
+2-5	65-69	gute	_	
+2-6	70-84	Radwegequerung	_	
+2-7	85-90	unter	_	
+2-8	91-94	der	_	
+2-9	95-97	DB	_	
+2-10	98-105	Strecke	_	
+2-11	106-115	überhaupt	_	
+2-12	116-121	nicht	_	
+2-13	122-124	zu	_	
+2-14	125-140	berücksichtigen	_	
+2-15	140-141	,	_	
+2-16	142-145	ist	_	
+2-17	146-150	eine	_	
+2-18	151-162	beachtliche	_	
+2-19	163-179	Fehlentscheidung	_	
+2-20	179-180	.	_	
+
+#Text=Fahrradrampen wären vom Platz kein Problem gewesen.
+3-1	181-194	Fahrradrampen	_	
+3-2	195-200	wären	_	
+3-3	201-204	vom	_	
+3-4	205-210	Platz	_	
+3-5	211-215	kein	_	
+3-6	216-223	Problem	_	
+3-7	224-231	gewesen	_	
+3-8	231-232	.	_	
+
+#Text=So werden jetzt Fußgänger und Radfahrer an einer Stelle zusammen geführt, was planungstechnisch nicht mehr zeitgemäß und unverständlich ist.
+4-1	233-235	So	_	
+4-2	236-242	werden	_	
+4-3	243-248	jetzt	_	
+4-4	249-258	Fußgänger	_	
+4-5	259-262	und	_	
+4-6	263-272	Radfahrer	_	
+4-7	273-275	an	_	
+4-8	276-281	einer	_	
+4-9	282-288	Stelle	_	
+4-10	289-297	zusammen	_	
+4-11	298-305	geführt	_	
+4-12	305-306	,	_	
+4-13	307-310	was	_	
+4-14	311-328	planungstechnisch	_	
+4-15	329-334	nicht	_	
+4-16	335-339	mehr	_	
+4-17	340-349	zeitgemäß	_	
+4-18	350-353	und	_	
+4-19	354-368	unverständlich	_	
+4-20	369-372	ist	_	
+4-21	372-373	.	_	

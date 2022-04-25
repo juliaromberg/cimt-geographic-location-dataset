@@ -1,0 +1,26 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg zu schmal
+1-1	0-6	Radweg	_	
+1-2	7-9	zu	_	
+1-3	10-16	schmal	_	
+
+#Text=Der weg ist zu schmal, zumal er auch mit Fußgängern geteilt werden muss
+2-1	19-22	Der	_	
+2-2	23-26	weg	_	
+2-3	27-30	ist	_	
+2-4	31-33	zu	_	
+2-5	34-40	schmal	_	
+2-6	40-41	,	_	
+2-7	42-47	zumal	_	
+2-8	48-50	er	_	
+2-9	51-55	auch	_	
+2-10	56-59	mit	_	
+2-11	60-70	Fußgängern	_	
+2-12	71-78	geteilt	_	
+2-13	79-85	werden	_	
+2-14	86-90	muss	_	

@@ -1,0 +1,20 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg zugeparkt
+1-1	0-6	Radweg	_	
+1-2	7-16	zugeparkt	_	
+
+#Text=Die Radstreifen an der Kennedyallee sind oft zugeparkt.
+2-1	19-22	Die	*[3]	
+2-2	23-34	Radstreifen	*[3]	
+2-3	35-37	an	*[3]	
+2-4	38-41	der	*[3]	
+2-5	42-54	Kennedyallee	*[3]	
+2-6	55-59	sind	_	
+2-7	60-63	oft	_	
+2-8	64-73	zugeparkt	_	
+2-9	73-74	.	_	

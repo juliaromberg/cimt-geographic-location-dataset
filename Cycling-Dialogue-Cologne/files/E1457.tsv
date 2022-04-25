@@ -1,0 +1,26 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=freilaufende Rechtsabbieger
+1-1	0-12	freilaufende	_	
+1-2	13-27	Rechtsabbieger	_	
+
+#Text=freilaufende Rechtsabbeiger haben in Köln schon soviele Menschen getötet, trotzdem werden sie nicht zurückgebaut
+2-1	30-42	freilaufende	_	
+2-2	43-57	Rechtsabbeiger	_	
+2-3	58-63	haben	_	
+2-4	64-66	in	*[3]	
+2-5	67-71	Köln	*[3]	
+2-6	72-77	schon	_	
+2-7	78-85	soviele	_	
+2-8	86-94	Menschen	_	
+2-9	95-102	getötet	_	
+2-10	102-103	,	_	
+2-11	104-112	trotzdem	_	
+2-12	113-119	werden	_	
+2-13	120-123	sie	_	
+2-14	124-129	nicht	_	
+2-15	130-142	zurückgebaut	_	

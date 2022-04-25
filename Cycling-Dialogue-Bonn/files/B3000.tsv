@@ -1,0 +1,118 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg nicht farblich gekennzeichnet, Touristen laufen auf dem Radweg
+1-1	0-6	Radweg	_	
+1-2	7-12	nicht	_	
+1-3	13-21	farblich	_	
+1-4	22-36	gekennzeichnet	_	
+1-5	36-37	,	_	
+1-6	38-47	Touristen	_	
+1-7	48-54	laufen	_	
+1-8	55-58	auf	_	
+1-9	59-62	dem	_	
+1-10	63-69	Radweg	_	
+
+#Text=An dieser Stelle der Willy-Brandt-Allee laufen jährlich hunderttausende Touristen & Besucher des Hauses der Geschichte über den Radweg, auf dem Weg von/zur U-Bahnstation oder ihren Parkplätzen, siehe https://goo.gl/HMWXUj
+2-1	72-74	An	_	
+2-2	75-81	dieser	_	
+2-3	82-88	Stelle	_	
+2-4	89-92	der	_	
+2-5	93-111	Willy-Brandt-Allee	*	
+2-6	112-118	laufen	_	
+2-7	119-127	jährlich	_	
+2-8	128-143	hunderttausende	_	
+2-9	144-153	Touristen	_	
+2-10	154-155	&	_	
+2-11	156-164	Besucher	_	
+2-12	165-168	des	_	
+2-13	169-175	Hauses	*[6]	
+2-14	176-179	der	*[6]	
+2-15	180-190	Geschichte	*[6]	
+2-16	191-195	über	_	
+2-17	196-199	den	_	
+2-18	200-206	Radweg	_	
+2-19	206-207	,	_	
+2-20	208-211	auf	_	
+2-21	212-215	dem	_	
+2-22	216-219	Weg	_	
+2-23	220-223	von	_	
+2-24	223-224	/	_	
+2-25	224-227	zur	_	
+2-26	228-241	U-Bahnstation	_	
+2-27	242-246	oder	_	
+2-28	247-252	ihren	_	
+2-29	253-264	Parkplätzen	_	
+2-30	264-265	,	_	
+2-31	266-271	siehe	_	
+2-32	272-277	https	_	
+2-33	277-278	:	_	
+2-34	278-279	/	_	
+2-35	279-280	/	_	
+2-36	280-286	goo.gl	_	
+2-37	286-287	/	_	
+2-38	287-293	HMWXUj	_	
+
+#Text=Der Radweg ist hier bislang nicht farblich nicht gekennzeichnet und es befinden sich auch keine blauen Radfahrlogos auf der Fahrbahn.
+3-1	294-297	Der	_	
+3-2	298-304	Radweg	_	
+3-3	305-308	ist	_	
+3-4	309-313	hier	_	
+3-5	314-321	bislang	_	
+3-6	322-327	nicht	_	
+3-7	328-336	farblich	_	
+3-8	337-342	nicht	_	
+3-9	343-357	gekennzeichnet	_	
+3-10	358-361	und	_	
+3-11	362-364	es	_	
+3-12	365-373	befinden	_	
+3-13	374-378	sich	_	
+3-14	379-383	auch	_	
+3-15	384-389	keine	_	
+3-16	390-396	blauen	_	
+3-17	397-409	Radfahrlogos	_	
+3-18	410-413	auf	_	
+3-19	414-417	der	_	
+3-20	418-426	Fahrbahn	_	
+3-21	426-427	.	_	
+
+#Text=Er ist insbesondere für Menschen, die aus der U-Bahn kommen, als Radweg nicht erkennbar.
+4-1	428-430	Er	_	
+4-2	431-434	ist	_	
+4-3	435-447	insbesondere	_	
+4-4	448-451	für	_	
+4-5	452-460	Menschen	_	
+4-6	460-461	,	_	
+4-7	462-465	die	_	
+4-8	466-469	aus	_	
+4-9	470-473	der	_	
+4-10	474-480	U-Bahn	_	
+4-11	481-487	kommen	_	
+4-12	487-488	,	_	
+4-13	489-492	als	_	
+4-14	493-499	Radweg	_	
+4-15	500-505	nicht	_	
+4-16	506-515	erkennbar	_	
+4-17	515-516	.	_	
+
+#Text=Zudem sollte ein Poller entfernt werden, der am Ende des Straßenübergangs Rheinwegs am Radweg steht.
+5-1	517-522	Zudem	_	
+5-2	523-529	sollte	_	
+5-3	530-533	ein	_	
+5-4	534-540	Poller	_	
+5-5	541-549	entfernt	_	
+5-6	550-556	werden	_	
+5-7	556-557	,	_	
+5-8	558-561	der	_	
+5-9	562-564	am	*[7]	
+5-10	565-569	Ende	*[7]	
+5-11	570-573	des	*[7]	
+5-12	574-590	Straßenübergangs	*[7]	
+5-13	591-600	Rheinwegs	*[7]	
+5-14	601-603	am	*[7]	
+5-15	604-610	Radweg	*[7]	
+5-16	611-616	steht	_	
+5-17	616-617	.	_	

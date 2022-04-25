@@ -1,0 +1,268 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Falschparkerkontrolle auf Radwegen deutlich intensivieren!
+1-1	0-21	Falschparkerkontrolle	_	
+1-2	22-25	auf	_	
+1-3	26-34	Radwegen	_	
+1-4	35-43	deutlich	_	
+1-5	44-57	intensivieren	_	
+1-6	57-58	!	_	
+
+#Text=Mit der miserablen Schulnote 4,9 schnitt Bonn beim letzten Fahrradklimatest in der Kategorie Falschparkerkontrolle auf Radwegen ab, siehe Seite 3 dort: https://goo.gl/xPX4uY
+2-1	61-64	Mit	_	
+2-2	65-68	der	_	
+2-3	69-79	miserablen	_	
+2-4	80-89	Schulnote	_	
+2-5	90-93	4,9	_	
+2-6	94-101	schnitt	_	
+2-7	102-106	Bonn	*	
+2-8	107-111	beim	_	
+2-9	112-119	letzten	_	
+2-10	120-136	Fahrradklimatest	_	
+2-11	137-139	in	_	
+2-12	140-143	der	_	
+2-13	144-153	Kategorie	_	
+2-14	154-175	Falschparkerkontrolle	_	
+2-15	176-179	auf	_	
+2-16	180-188	Radwegen	_	
+2-17	189-191	ab	_	
+2-18	191-192	,	_	
+2-19	193-198	siehe	_	
+2-20	199-204	Seite	_	
+2-21	205-206	3	_	
+2-22	207-211	dort	_	
+2-23	211-212	:	_	
+2-24	213-218	https	_	
+2-25	218-219	:	_	
+2-26	219-220	/	_	
+2-27	220-221	/	_	
+2-28	221-227	goo.gl	_	
+2-29	227-228	/	_	
+2-30	228-234	xPX4uY	_	
+
+#Text=Zuletzt am häufigsten wegen Falschparker in der Umfrage genannt wurden die Königswinterer (Ramersdorf bis Beuel), Sternburg-, Köln-, Oxford-, Hausdorff-, Siegburger und Koblenzer Straße sowie die Kennedyallee.
+3-1	235-242	Zuletzt	_	
+3-2	243-245	am	_	
+3-3	246-256	häufigsten	_	
+3-4	257-262	wegen	_	
+3-5	263-275	Falschparker	_	
+3-6	276-278	in	_	
+3-7	279-282	der	_	
+3-8	283-290	Umfrage	_	
+3-9	291-298	genannt	_	
+3-10	299-305	wurden	_	
+3-11	306-309	die	_	
+3-12	310-324	Königswinterer	*[13]	
+3-13	325-326	(	*[13]	
+3-14	326-336	Ramersdorf	*[13]	
+3-15	337-340	bis	*[13]	
+3-16	341-346	Beuel	*[13]	
+3-17	346-347	)	*[13]	
+3-18	347-348	,	*[13]	
+3-19	349-358	Sternburg	*[13]	
+3-20	358-359	-	*[13]	
+3-21	359-360	,	*[13]	
+3-22	361-365	Köln	*[13]	
+3-23	365-366	-	*[13]	
+3-24	366-367	,	*[13]	
+3-25	368-374	Oxford	*[13]	
+3-26	374-375	-	*[13]	
+3-27	375-376	,	*[13]	
+3-28	377-386	Hausdorff	*[13]	
+3-29	386-387	-	*[13]	
+3-30	387-388	,	*[13]	
+3-31	389-399	Siegburger	*[13]	
+3-32	400-403	und	*[13]	
+3-33	404-413	Koblenzer	*[13]	
+3-34	414-420	Straße	*[13]	
+3-35	421-426	sowie	*[13]	
+3-36	427-430	die	*[13]	
+3-37	431-443	Kennedyallee	*[13]	
+3-38	443-444	.	_	
+
+#Text=Zudem abends die Rheingasse und der Belderberg.
+4-1	445-450	Zudem	_	
+4-2	451-457	abends	_	
+4-3	458-461	die	*[14]	
+4-4	462-472	Rheingasse	*[14]	
+4-5	473-476	und	*[14]	
+4-6	477-480	der	*[14]	
+4-7	481-491	Belderberg	*[14]	
+4-8	491-492	.	_	
+
+#Text=Nach meinem Erleben ist es z.B. auf der Königswinterer Straße seit Jahren unverändert katastrophal.
+5-1	493-497	Nach	_	
+5-2	498-504	meinem	_	
+5-3	505-512	Erleben	_	
+5-4	513-516	ist	_	
+5-5	517-519	es	_	
+5-6	520-523	z.B	_	
+5-7	523-524	.	_	
+5-8	525-528	auf	*[15]	
+5-9	529-532	der	*[15]	
+5-10	533-547	Königswinterer	*[15]	
+5-11	548-554	Straße	*[15]	
+5-12	555-559	seit	_	
+5-13	560-566	Jahren	_	
+5-14	567-578	unverändert	_	
+5-15	579-591	katastrophal	_	
+5-16	591-592	.	_	
+
+#Text=Zuletzt zählte ich fast einhundert Falschparker bei Hin- und Rückfahrt und elf Autos, die den Radweg komplett blockierten.
+6-1	593-600	Zuletzt	_	
+6-2	601-607	zählte	_	
+6-3	608-611	ich	_	
+6-4	612-616	fast	_	
+6-5	617-627	einhundert	_	
+6-6	628-640	Falschparker	_	
+6-7	641-644	bei	_	
+6-8	645-648	Hin	_	
+6-9	648-649	-	_	
+6-10	650-653	und	_	
+6-11	654-663	Rückfahrt	_	
+6-12	664-667	und	_	
+6-13	668-671	elf	_	
+6-14	672-677	Autos	_	
+6-15	677-678	,	_	
+6-16	679-682	die	_	
+6-17	683-686	den	_	
+6-18	687-693	Radweg	_	
+6-19	694-702	komplett	_	
+6-20	703-714	blockierten	_	
+6-21	714-715	.	_	
+
+#Text=Da ich Werbefahrzeuge & Wohnmobile über Wochen an der gleichen Stelle auf Radweg parkend feststelle, wird hier wohl offenbar nicht kontrolliert.
+7-1	716-718	Da	_	
+7-2	719-722	ich	_	
+7-3	723-737	Werbefahrzeuge	_	
+7-4	738-739	&	_	
+7-5	740-750	Wohnmobile	_	
+7-6	751-755	über	_	
+7-7	756-762	Wochen	_	
+7-8	763-765	an	_	
+7-9	766-769	der	_	
+7-10	770-778	gleichen	_	
+7-11	779-785	Stelle	_	
+7-12	786-789	auf	_	
+7-13	790-796	Radweg	_	
+7-14	797-804	parkend	_	
+7-15	805-815	feststelle	_	
+7-16	815-816	,	_	
+7-17	817-821	wird	_	
+7-18	822-826	hier	_	
+7-19	827-831	wohl	_	
+7-20	832-840	offenbar	_	
+7-21	841-846	nicht	_	
+7-22	847-859	kontrolliert	_	
+7-23	859-860	.	_	
+
+#Text=Ich kann mich nicht erinnern, hier jemals Knöllchen gesehen zu haben.
+8-1	861-864	Ich	_	
+8-2	865-869	kann	_	
+8-3	870-874	mich	_	
+8-4	875-880	nicht	_	
+8-5	881-889	erinnern	_	
+8-6	889-890	,	_	
+8-7	891-895	hier	_	
+8-8	896-902	jemals	_	
+8-9	903-912	Knöllchen	_	
+8-10	913-920	gesehen	_	
+8-11	921-923	zu	_	
+8-12	924-929	haben	_	
+8-13	929-930	.	_	
+
+#Text=Jedes für einen Tag auf Radwegen der o.g. Straßen geparktes Autos bedeutet mehrere hunderte Male für Radfahrer abbremsen, sich in eine Gefahrensituation begeben und dann wieder beschleunigen.
+9-1	931-936	Jedes	_	
+9-2	937-940	für	_	
+9-3	941-946	einen	_	
+9-4	947-950	Tag	_	
+9-5	951-954	auf	_	
+9-6	955-963	Radwegen	_	
+9-7	964-967	der	_	
+9-8	968-971	o.g	_	
+9-9	971-972	.	_	
+9-10	973-980	Straßen	_	
+9-11	981-990	geparktes	_	
+9-12	991-996	Autos	_	
+9-13	997-1005	bedeutet	_	
+9-14	1006-1013	mehrere	_	
+9-15	1014-1022	hunderte	_	
+9-16	1023-1027	Male	_	
+9-17	1028-1031	für	_	
+9-18	1032-1041	Radfahrer	_	
+9-19	1042-1051	abbremsen	_	
+9-20	1051-1052	,	_	
+9-21	1053-1057	sich	_	
+9-22	1058-1060	in	_	
+9-23	1061-1065	eine	_	
+9-24	1066-1083	Gefahrensituation	_	
+9-25	1084-1091	begeben	_	
+9-26	1092-1095	und	_	
+9-27	1096-1100	dann	_	
+9-28	1101-1107	wieder	_	
+9-29	1108-1121	beschleunigen	_	
+9-30	1121-1122	.	_	
+
+#Text=Das alles kostet Auto-Falschparker nur lächerliche 30 je Knöllchen, denn ein radwegblockierendes Auto wird in der autogerechten Stadt Bonn niemals abgeschleppt.
+10-1	1123-1126	Das	_	
+10-2	1127-1132	alles	_	
+10-3	1133-1139	kostet	_	
+10-4	1140-1157	Auto-Falschparker	_	
+10-5	1158-1161	nur	_	
+10-6	1162-1173	lächerliche	_	
+10-7	1174-1176	30	_	
+10-8	1177-1179	je	_	
+10-9	1180-1189	Knöllchen	_	
+10-10	1189-1190	,	_	
+10-11	1191-1195	denn	_	
+10-12	1196-1199	ein	_	
+10-13	1200-1219	radwegblockierendes	_	
+10-14	1220-1224	Auto	_	
+10-15	1225-1229	wird	_	
+10-16	1230-1232	in	_	
+10-17	1233-1236	der	_	
+10-18	1237-1250	autogerechten	_	
+10-19	1251-1256	Stadt	_	
+10-20	1257-1261	Bonn	*	
+10-21	1262-1269	niemals	_	
+10-22	1270-1282	abgeschleppt	_	
+10-23	1282-1283	.	_	
+
+#Text=Die Kontrolle des ruhenden Verkehrs obliegt in den Städten meistens der Stadtverwaltung, die hierfür Politessen einsetzen.
+11-1	1284-1287	Die	_	
+11-2	1288-1297	Kontrolle	_	
+11-3	1298-1301	des	_	
+11-4	1302-1310	ruhenden	_	
+11-5	1311-1319	Verkehrs	_	
+11-6	1320-1327	obliegt	_	
+11-7	1328-1330	in	_	
+11-8	1331-1334	den	_	
+11-9	1335-1342	Städten	_	
+11-10	1343-1351	meistens	_	
+11-11	1352-1355	der	_	
+11-12	1356-1371	Stadtverwaltung	_	
+11-13	1371-1372	,	_	
+11-14	1373-1376	die	_	
+11-15	1377-1384	hierfür	_	
+11-16	1385-1395	Politessen	_	
+11-17	1396-1405	einsetzen	_	
+11-18	1405-1406	.	_	
+
+#Text=Die Falschparker-Kontrolle muss in Bonn unbedingt in den genannten Straßen intensiviert werden.
+12-1	1407-1410	Die	_	
+12-2	1411-1433	Falschparker-Kontrolle	_	
+12-3	1434-1438	muss	_	
+12-4	1439-1441	in	_	
+12-5	1442-1446	Bonn	_	
+12-6	1447-1456	unbedingt	_	
+12-7	1457-1459	in	_	
+12-8	1460-1463	den	_	
+12-9	1464-1473	genannten	_	
+12-10	1474-1481	Straßen	_	
+12-11	1482-1494	intensiviert	_	
+12-12	1495-1501	werden	_	
+12-13	1501-1502	.	_	

@@ -1,0 +1,102 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=positives Beispiel Gefahrenstelle
+1-1	0-9	positives	_	
+1-2	10-18	Beispiel	_	
+1-3	19-33	Gefahrenstelle	_	
+
+#Text=Die Ortseinfahrt Vilich-Müldorf (aus Beuel kommend) ist eigentlich eine Gefahrenstelle: ein vielbefahrener Radweg trifft auf die Straße, beschattet durch dichte Bäume.
+2-1	36-39	Die	*[9]	
+2-2	40-52	Ortseinfahrt	*[9]	
+2-3	53-67	Vilich-Müldorf	*[9]	
+2-4	68-69	(	*[9]	
+2-5	69-72	aus	*[9]	
+2-6	73-78	Beuel	*[9]	
+2-7	79-86	kommend	*[9]	
+2-8	86-87	)	_	
+2-9	88-91	ist	_	
+2-10	92-102	eigentlich	_	
+2-11	103-107	eine	_	
+2-12	108-122	Gefahrenstelle	_	
+2-13	122-123	:	_	
+2-14	124-127	ein	_	
+2-15	128-142	vielbefahrener	_	
+2-16	143-149	Radweg	_	
+2-17	150-156	trifft	_	
+2-18	157-160	auf	_	
+2-19	161-164	die	_	
+2-20	165-171	Straße	_	
+2-21	171-172	,	_	
+2-22	173-183	beschattet	_	
+2-23	184-189	durch	_	
+2-24	190-196	dichte	_	
+2-25	197-202	Bäume	_	
+2-26	202-203	.	_	
+
+#Text=50er- wechselt zu 30er-Zone.
+3-1	204-208	50er	_	
+3-2	208-209	-	_	
+3-3	210-218	wechselt	_	
+3-4	219-221	zu	_	
+3-5	222-231	30er-Zone	_	
+3-6	231-232	.	_	
+
+#Text=Warum sich die Autofahrer an der Stelle daran halten und zumeist umsichtig fahren?
+4-1	233-238	Warum	_	
+4-2	239-243	sich	_	
+4-3	244-247	die	_	
+4-4	248-258	Autofahrer	_	
+4-5	259-261	an	_	
+4-6	262-265	der	_	
+4-7	266-272	Stelle	_	
+4-8	273-278	daran	_	
+4-9	279-285	halten	_	
+4-10	286-289	und	_	
+4-11	290-297	zumeist	_	
+4-12	298-307	umsichtig	_	
+4-13	308-314	fahren	_	
+4-14	314-315	?	_	
+
+#Text=Der genau richtig hohe Verkehrshubbel hilft!
+5-1	316-319	Der	_	
+5-2	320-325	genau	_	
+5-3	326-333	richtig	_	
+5-4	334-338	hohe	_	
+5-5	339-353	Verkehrshubbel	_	
+5-6	354-359	hilft	_	
+5-7	359-360	!	_	
+
+#Text=Ein positives und nachahmenswertes Beispiel.
+6-1	361-364	Ein	_	
+6-2	365-374	positives	_	
+6-3	375-378	und	_	
+6-4	379-395	nachahmenswertes	_	
+6-5	396-404	Beispiel	_	
+6-6	404-405	.	_	
+
+#Text=Die Poller am Radweg sind weiß gestrichen und gut zu sehen.
+7-1	406-409	Die	_	
+7-2	410-416	Poller	_	
+7-3	417-419	am	_	
+7-4	420-426	Radweg	_	
+7-5	427-431	sind	_	
+7-6	432-436	weiß	_	
+7-7	437-447	gestrichen	_	
+7-8	448-451	und	_	
+7-9	452-455	gut	_	
+7-10	456-458	zu	_	
+7-11	459-464	sehen	_	
+7-12	464-465	.	_	
+
+#Text=Auch mit Fahrradanhänger passt man durch.
+8-1	466-470	Auch	_	
+8-2	471-474	mit	_	
+8-3	475-490	Fahrradanhänger	_	
+8-4	491-496	passt	_	
+8-5	497-500	man	_	
+8-6	501-506	durch	_	
+8-7	506-507	.	_	

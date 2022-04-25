@@ -1,0 +1,173 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße nur für die Statistik
+1-1	0-13	Fahrradstraße	_	
+1-2	14-17	nur	_	
+1-3	18-21	für	_	
+1-4	22-25	die	_	
+1-5	26-35	Statistik	_	
+
+#Text=Die Fahrradstraße (südöstlicher Abschnitt der Limpericher Straße und der Talweg; Autos frei) schönt, so wie sie angelegt wurde, lediglich die Statistik der Stadt Bonn.
+2-1	38-41	Die	_	
+2-2	42-55	Fahrradstraße	_	
+2-3	56-57	(	_	
+2-4	57-69	südöstlicher	*[8]	
+2-5	70-79	Abschnitt	*[8]	
+2-6	80-83	der	*[8]	
+2-7	84-95	Limpericher	*[8]	
+2-8	96-102	Straße	*[8]	
+2-9	103-106	und	*[8]	
+2-10	107-110	der	*[8]	
+2-11	111-117	Talweg	*[8]	
+2-12	117-118	;	_	
+2-13	119-124	Autos	_	
+2-14	125-129	frei	_	
+2-15	129-130	)	_	
+2-16	131-137	schönt	_	
+2-17	137-138	,	_	
+2-18	139-141	so	_	
+2-19	142-145	wie	_	
+2-20	146-149	sie	_	
+2-21	150-158	angelegt	_	
+2-22	159-164	wurde	_	
+2-23	164-165	,	_	
+2-24	166-175	lediglich	_	
+2-25	176-179	die	_	
+2-26	180-189	Statistik	_	
+2-27	190-193	der	_	
+2-28	194-199	Stadt	_	
+2-29	200-204	Bonn	_	
+2-30	204-205	.	_	
+
+#Text=Im Vergleich zum Zustand davor (Tempo-30-Zone, Wohnstraße ohne übergeordnete Erschließungsfunktion) gibt es keinerlei praktischen Vorteil für Radfahrer!
+3-1	206-208	Im	_	
+3-2	209-218	Vergleich	_	
+3-3	219-222	zum	_	
+3-4	223-230	Zustand	_	
+3-5	231-236	davor	_	
+3-6	237-238	(	_	
+3-7	238-243	Tempo	_	
+3-8	243-244	-	_	
+3-9	244-246	30	_	
+3-10	246-247	-	_	
+3-11	247-251	Zone	_	
+3-12	251-252	,	_	
+3-13	253-263	Wohnstraße	_	
+3-14	264-268	ohne	_	
+3-15	269-282	übergeordnete	_	
+3-16	283-304	Erschließungsfunktion	_	
+3-17	304-305	)	_	
+3-18	306-310	gibt	_	
+3-19	311-313	es	_	
+3-20	314-323	keinerlei	_	
+3-21	324-335	praktischen	_	
+3-22	336-343	Vorteil	_	
+3-23	344-347	für	_	
+3-24	348-357	Radfahrer	_	
+3-25	357-358	!	_	
+
+#Text=An jeder Kreuzung wird per Schilderwald die Fahrradstraße beendet bei gleichzeitigem Beginn Tempo-30-Zone und hinter der Kreuzung die Tempo-30-Zone beendet und die Fahrradstraße erneut begonnen.
+4-1	359-361	An	_	
+4-2	362-367	jeder	_	
+4-3	368-376	Kreuzung	_	
+4-4	377-381	wird	_	
+4-5	382-385	per	_	
+4-6	386-398	Schilderwald	_	
+4-7	399-402	die	_	
+4-8	403-416	Fahrradstraße	_	
+4-9	417-424	beendet	_	
+4-10	425-428	bei	_	
+4-11	429-443	gleichzeitigem	_	
+4-12	444-450	Beginn	_	
+4-13	451-456	Tempo	_	
+4-14	456-457	-	_	
+4-15	457-459	30	_	
+4-16	459-460	-	_	
+4-17	460-464	Zone	_	
+4-18	465-468	und	_	
+4-19	469-475	hinter	_	
+4-20	476-479	der	_	
+4-21	480-488	Kreuzung	_	
+4-22	489-492	die	_	
+4-23	493-498	Tempo	_	
+4-24	498-499	-	_	
+4-25	499-501	30	_	
+4-26	501-502	-	_	
+4-27	502-506	Zone	_	
+4-28	507-514	beendet	_	
+4-29	515-518	und	_	
+4-30	519-522	die	_	
+4-31	523-536	Fahrradstraße	_	
+4-32	537-543	erneut	_	
+4-33	544-552	begonnen	_	
+4-34	552-553	.	_	
+
+#Text=Selbstredend ist auch über all rechts-vor-links - wie es auch davor der Fall war.
+5-1	554-566	Selbstredend	_	
+5-2	567-570	ist	_	
+5-3	571-575	auch	_	
+5-4	576-580	über	_	
+5-5	581-584	all	_	
+5-6	585-601	rechts-vor-links	_	
+5-7	602-603	-	_	
+5-8	604-607	wie	_	
+5-9	608-610	es	_	
+5-10	611-615	auch	_	
+5-11	616-621	davor	_	
+5-12	622-625	der	_	
+5-13	626-630	Fall	_	
+5-14	631-634	war	_	
+5-15	634-635	.	_	
+
+#Text=Wenn man ernsthaft etwas für den Fahrradverkehr unternehmen wollte, müsste die Fahrradstraße durchgängig über die gesamte Länge gehen und vorfahrtsberechtigt sein.
+6-1	636-640	Wenn	_	
+6-2	641-644	man	_	
+6-3	645-654	ernsthaft	_	
+6-4	655-660	etwas	_	
+6-5	661-664	für	_	
+6-6	665-668	den	_	
+6-7	669-683	Fahrradverkehr	_	
+6-8	684-695	unternehmen	_	
+6-9	696-702	wollte	_	
+6-10	702-703	,	_	
+6-11	704-710	müsste	_	
+6-12	711-714	die	_	
+6-13	715-728	Fahrradstraße	_	
+6-14	729-740	durchgängig	_	
+6-15	741-745	über	_	
+6-16	746-749	die	_	
+6-17	750-757	gesamte	_	
+6-18	758-763	Länge	_	
+6-19	764-769	gehen	_	
+6-20	770-773	und	_	
+6-21	774-793	vorfahrtsberechtigt	_	
+6-22	794-798	sein	_	
+6-23	798-799	.	_	
+
+#Text=Dazu würde dann auch zählen, das Stück Kreuzherrenstraße zwischen Limpericher Straße und Talweg zur Fahrradstraße zu machen jeweils mit über-Eck-Vorfahrt.
+7-1	800-804	Dazu	_	
+7-2	805-810	würde	_	
+7-3	811-815	dann	_	
+7-4	816-820	auch	_	
+7-5	821-827	zählen	_	
+7-6	827-828	,	_	
+7-7	829-832	das	_	
+7-8	833-838	Stück	_	
+7-9	839-856	Kreuzherrenstraße	*[9]	
+7-10	857-865	zwischen	*[9]	
+7-11	866-877	Limpericher	*[9]	
+7-12	878-884	Straße	*[9]	
+7-13	885-888	und	*[9]	
+7-14	889-895	Talweg	*[9]	
+7-15	896-899	zur	_	
+7-16	900-913	Fahrradstraße	_	
+7-17	914-916	zu	_	
+7-18	917-923	machen	_	
+7-19	924-931	jeweils	_	
+7-20	932-935	mit	_	
+7-21	936-953	über-Eck-Vorfahrt	_	
+7-22	953-954	.	_	

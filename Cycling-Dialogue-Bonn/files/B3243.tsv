@@ -1,0 +1,129 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Getrennte Rad/Gehwege anstatt Gemeinsame
+1-1	0-9	Getrennte	_	
+1-2	10-13	Rad	_	
+1-3	13-14	/	_	
+1-4	14-21	Gehwege	_	
+1-5	22-29	anstatt	_	
+1-6	30-40	Gemeinsame	_	
+
+#Text=Die Gewege, Am Josepinum und Oppelner Strasse, sind teilweise sehr breit.
+2-1	43-46	Die	*[8]	
+2-2	47-53	Gewege	*[8]	
+2-3	53-54	,	*[8]	
+2-4	55-57	Am	*[8]	
+2-5	58-67	Josepinum	*[8]	
+2-6	68-71	und	*[8]	
+2-7	72-80	Oppelner	*[8]	
+2-8	81-88	Strasse	*[8]	
+2-9	88-89	,	_	
+2-10	90-94	sind	_	
+2-11	95-104	teilweise	_	
+2-12	105-109	sehr	_	
+2-13	110-115	breit	_	
+2-14	115-116	.	_	
+
+#Text=Eine Hälfte ist glatt asphaltiert und die andere Hälfte plattiert.
+3-1	117-121	Eine	_	
+3-2	122-128	Hälfte	_	
+3-3	129-132	ist	_	
+3-4	133-138	glatt	_	
+3-5	139-150	asphaltiert	_	
+3-6	151-154	und	_	
+3-7	155-158	die	_	
+3-8	159-165	andere	_	
+3-9	166-172	Hälfte	_	
+3-10	173-182	plattiert	_	
+3-11	182-183	.	_	
+
+#Text=Es sieht aus wie eine Trennung zwischen Fuss- und Radweg.
+4-1	184-186	Es	_	
+4-2	187-192	sieht	_	
+4-3	193-196	aus	_	
+4-4	197-200	wie	_	
+4-5	201-205	eine	_	
+4-6	206-214	Trennung	_	
+4-7	215-223	zwischen	_	
+4-8	224-228	Fuss	_	
+4-9	228-229	-	_	
+4-10	230-233	und	_	
+4-11	234-240	Radweg	_	
+4-12	240-241	.	_	
+
+#Text=Leider gibt es nur Hinweisschilder, die den Gehweg als gemeinsamen Fuss-/Gehweg ausschildern mit dem weißen Balken waagerecht.
+5-1	242-248	Leider	_	
+5-2	249-253	gibt	_	
+5-3	254-256	es	_	
+5-4	257-260	nur	_	
+5-5	261-276	Hinweisschilder	_	
+5-6	276-277	,	_	
+5-7	278-281	die	_	
+5-8	282-285	den	_	
+5-9	286-292	Gehweg	_	
+5-10	293-296	als	_	
+5-11	297-308	gemeinsamen	_	
+5-12	309-313	Fuss	_	
+5-13	313-314	-	_	
+5-14	314-315	/	_	
+5-15	315-321	Gehweg	_	
+5-16	322-334	ausschildern	_	
+5-17	335-338	mit	_	
+5-18	339-342	dem	_	
+5-19	343-349	weißen	_	
+5-20	350-356	Balken	_	
+5-21	357-367	waagerecht	_	
+5-22	367-368	.	_	
+
+#Text=Hier würde ich mir wünschen, das andere Schild, dass den Fussweg und Radweg mit senkrechten Balken trennt.
+6-1	369-373	Hier	_	
+6-2	374-379	würde	_	
+6-3	380-383	ich	_	
+6-4	384-387	mir	_	
+6-5	388-396	wünschen	_	
+6-6	396-397	,	_	
+6-7	398-401	das	_	
+6-8	402-408	andere	_	
+6-9	409-415	Schild	_	
+6-10	415-416	,	_	
+6-11	417-421	dass	_	
+6-12	422-425	den	_	
+6-13	426-433	Fussweg	_	
+6-14	434-437	und	_	
+6-15	438-444	Radweg	_	
+6-16	445-448	mit	_	
+6-17	449-460	senkrechten	_	
+6-18	461-467	Balken	_	
+6-19	468-474	trennt	_	
+6-20	474-475	.	_	
+
+#Text=Eine weiße Linie auf dem Weg und an einigen Stellen den Grünstreifen etwas verlegen, würde hier eine Verbesserung bedeuten und zur Sicherheit beitragen.
+7-1	476-480	Eine	_	
+7-2	481-486	weiße	_	
+7-3	487-492	Linie	_	
+7-4	493-496	auf	_	
+7-5	497-500	dem	_	
+7-6	501-504	Weg	_	
+7-7	505-508	und	_	
+7-8	509-511	an	_	
+7-9	512-519	einigen	_	
+7-10	520-527	Stellen	_	
+7-11	528-531	den	_	
+7-12	532-544	Grünstreifen	_	
+7-13	545-550	etwas	_	
+7-14	551-559	verlegen	_	
+7-15	559-560	,	_	
+7-16	561-566	würde	_	
+7-17	567-571	hier	_	
+7-18	572-576	eine	_	
+7-19	577-589	Verbesserung	_	
+7-20	590-598	bedeuten	_	
+7-21	599-602	und	_	
+7-22	603-606	zur	_	
+7-23	607-617	Sicherheit	_	
+7-24	618-627	beitragen	_	
+7-25	627-628	.	_	

@@ -1,0 +1,140 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sicherheit auf dem Schulweg
+1-1	0-10	Sicherheit	_	
+1-2	11-14	auf	_	
+1-3	15-18	dem	_	
+1-4	19-27	Schulweg	_	
+
+#Text=Auf dem im Berufsverkehr stark befahrenen Stück des Haager Wegs zwischen Jugendherberge und Quellenweg (Nordwestseite) ist der Fahrradweg zu schmal, zu dunkel und streckenweise unbefestigt oder für Kinder zu schlecht ausgebaut.
+2-1	30-33	Auf	_	
+2-2	34-37	dem	_	
+2-3	38-40	im	_	
+2-4	41-54	Berufsverkehr	_	
+2-5	55-60	stark	_	
+2-6	61-71	befahrenen	_	
+2-7	72-77	Stück	*[8]	
+2-8	78-81	des	*[8]	
+2-9	82-88	Haager	*[8]	
+2-10	89-93	Wegs	*[8]	
+2-11	94-102	zwischen	*[8]	
+2-12	103-117	Jugendherberge	*[8]	
+2-13	118-121	und	*[8]	
+2-14	122-132	Quellenweg	*[8]	
+2-15	133-134	(	*[8]	
+2-16	134-147	Nordwestseite	*[8]	
+2-17	147-148	)	_	
+2-18	149-152	ist	_	
+2-19	153-156	der	_	
+2-20	157-167	Fahrradweg	_	
+2-21	168-170	zu	_	
+2-22	171-177	schmal	_	
+2-23	177-178	,	_	
+2-24	179-181	zu	_	
+2-25	182-188	dunkel	_	
+2-26	189-192	und	_	
+2-27	193-206	streckenweise	_	
+2-28	207-218	unbefestigt	_	
+2-29	219-223	oder	_	
+2-30	224-227	für	_	
+2-31	228-234	Kinder	_	
+2-32	235-237	zu	_	
+2-33	238-246	schlecht	_	
+2-34	247-256	ausgebaut	_	
+2-35	256-257	.	_	
+
+#Text=Das Verkehrsschild, welches auf den Fahrradweg hinweist, ist kaum zu sehen.
+3-1	258-261	Das	_	
+3-2	262-276	Verkehrsschild	_	
+3-3	276-277	,	_	
+3-4	278-285	welches	_	
+3-5	286-289	auf	_	
+3-6	290-293	den	_	
+3-7	294-304	Fahrradweg	_	
+3-8	305-313	hinweist	_	
+3-9	313-314	,	_	
+3-10	315-318	ist	_	
+3-11	319-323	kaum	_	
+3-12	324-326	zu	_	
+3-13	327-332	sehen	_	
+3-14	332-333	.	_	
+
+#Text=Die Einfahrt in den Fahrradweg am V-Hotel ist gefährlich eng.
+4-1	334-337	Die	*[9]	
+4-2	338-346	Einfahrt	*[9]	
+4-3	347-349	in	*[9]	
+4-4	350-353	den	*[9]	
+4-5	354-364	Fahrradweg	*[9]	
+4-6	365-367	am	*[9]	
+4-7	368-375	V-Hotel	*[9]	
+4-8	376-379	ist	_	
+4-9	380-390	gefährlich	_	
+4-10	391-394	eng	_	
+4-11	394-395	.	_	
+
+#Text=Morgens parkt hier im Berufsverkehr häufig ein Linienbus in der Pause.
+5-1	396-403	Morgens	_	
+5-2	404-409	parkt	_	
+5-3	410-414	hier	_	
+5-4	415-417	im	_	
+5-5	418-431	Berufsverkehr	_	
+5-6	432-438	häufig	_	
+5-7	439-442	ein	_	
+5-8	443-452	Linienbus	_	
+5-9	453-455	in	_	
+5-10	456-459	der	_	
+5-11	460-465	Pause	_	
+5-12	465-466	.	_	
+
+#Text=Gleichwohl handelt es sich um ein Stück Schulwegs zwischen dem Venusberg und der Grundschule in Ippendorf (Engelsbachschule).
+6-1	467-477	Gleichwohl	_	
+6-2	478-485	handelt	_	
+6-3	486-488	es	_	
+6-4	489-493	sich	_	
+6-5	494-496	um	_	
+6-6	497-500	ein	_	
+6-7	501-506	Stück	_	
+6-8	507-516	Schulwegs	_	
+6-9	517-525	zwischen	*[10]	
+6-10	526-529	dem	*[10]	
+6-11	530-539	Venusberg	*[10]	
+6-12	540-543	und	*[10]	
+6-13	544-547	der	*[10]	
+6-14	548-559	Grundschule	*[10]	
+6-15	560-562	in	*[10]	
+6-16	563-572	Ippendorf	*[10]	
+6-17	573-574	(	*[10]	
+6-18	574-590	Engelsbachschule	*[10]	
+6-19	590-591	)	*[10]	
+6-20	591-592	.	_	
+
+#Text=Hier könnte mit einfachen Maßnahmen die Sicherheit und Attraktivität des Fahrradverkehrs auf kurzen Strecken auf der Höhe zwischen Ippendorf und Venusberg deutlich verbessert werden.
+7-1	593-597	Hier	_	
+7-2	598-604	könnte	_	
+7-3	605-608	mit	_	
+7-4	609-618	einfachen	_	
+7-5	619-628	Maßnahmen	_	
+7-6	629-632	die	_	
+7-7	633-643	Sicherheit	_	
+7-8	644-647	und	_	
+7-9	648-661	Attraktivität	_	
+7-10	662-665	des	_	
+7-11	666-681	Fahrradverkehrs	_	
+7-12	682-685	auf	_	
+7-13	686-692	kurzen	_	
+7-14	693-701	Strecken	_	
+7-15	702-705	auf	*[11]	
+7-16	706-709	der	*[11]	
+7-17	710-714	Höhe	*[11]	
+7-18	715-723	zwischen	*[11]	
+7-19	724-733	Ippendorf	*[11]	
+7-20	734-737	und	*[11]	
+7-21	738-747	Venusberg	*[11]	
+7-22	748-756	deutlich	_	
+7-23	757-767	verbessert	_	
+7-24	768-774	werden	_	
+7-25	774-775	.	_	

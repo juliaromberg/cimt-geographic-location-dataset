@@ -1,0 +1,203 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verbindung zwischen Radweg Ladestr. (Duisdorf Bahnhof) und Meßdorfer Feld
+1-1	0-10	Verbindung	_	
+1-2	11-19	zwischen	*[10]	
+1-3	20-26	Radweg	*[10]	
+1-4	27-34	Ladestr	*[10]	
+1-5	34-35	.	*[10]	
+1-6	36-37	(	*[10]	
+1-7	37-45	Duisdorf	*[10]	
+1-8	46-53	Bahnhof	*[10]	
+1-9	53-54	)	*[10]	
+1-10	55-58	und	*[10]	
+1-11	59-68	Meßdorfer	*[10]	
+1-12	69-73	Feld	*[10]	
+
+#Text=Wenn man von Westen kommend übers Meßdorfer Feld Richtung Innenstadt radeln möchte (es gibt viele Berufspendler auf der Strecke), muss man sich
+2-1	76-80	Wenn	_	
+2-2	81-84	man	_	
+2-3	85-88	von	*[11]	
+2-4	89-95	Westen	*[11]	
+2-5	96-103	kommend	*[11]	
+2-6	104-109	übers	*[11]	
+2-7	110-119	Meßdorfer	*[11]	
+2-8	120-124	Feld	*[11]	
+2-9	125-133	Richtung	*[11]	
+2-10	134-144	Innenstadt	*[11]	
+2-11	145-151	radeln	_	
+2-12	152-158	möchte	_	
+2-13	159-160	(	_	
+2-14	160-162	es	_	
+2-15	163-167	gibt	_	
+2-16	168-173	viele	_	
+2-17	174-187	Berufspendler	_	
+2-18	188-191	auf	_	
+2-19	192-195	der	_	
+2-20	196-203	Strecke	_	
+2-21	203-204	)	_	
+2-22	204-205	,	_	
+2-23	206-210	muss	_	
+2-24	211-214	man	_	
+2-25	215-219	sich	_	
+
+#Text=- entweder durch die Fußgängerzone Rochusstraße quälen und anschließend den Maarweg entlangholpern, was ein ziemlicher Umweg ist.
+3-1	220-221	-	_	
+3-2	222-230	entweder	_	
+3-3	231-236	durch	_	
+3-4	237-240	die	*[12]	
+3-5	241-254	Fußgängerzone	*[12]	
+3-6	255-267	Rochusstraße	*[12]	
+3-7	268-274	quälen	_	
+3-8	275-278	und	_	
+3-9	279-291	anschließend	_	
+3-10	292-295	den	_	
+3-11	296-303	Maarweg	*	
+3-12	304-318	entlangholpern	_	
+3-13	318-319	,	_	
+3-14	320-323	was	_	
+3-15	324-327	ein	_	
+3-16	328-338	ziemlicher	_	
+3-17	339-344	Umweg	_	
+3-18	345-348	ist	_	
+3-19	348-349	.	_	
+
+#Text=- oder man nimmt die Ladestraße, Bahnhofstraße (Bahnübergang) und biegt dann in die Gerberastraße und Orchideenweg ab.
+4-1	350-351	-	_	
+4-2	352-356	oder	_	
+4-3	357-360	man	_	
+4-4	361-366	nimmt	_	
+4-5	367-370	die	*[13]	
+4-6	371-381	Ladestraße	*[13]	
+4-7	381-382	,	*[13]	
+4-8	383-396	Bahnhofstraße	*[13]	
+4-9	397-398	(	*[13]	
+4-10	398-410	Bahnübergang	*[13]	
+4-11	410-411	)	*[13]	
+4-12	412-415	und	*[13]	
+4-13	416-421	biegt	*[13]	
+4-14	422-426	dann	*[13]	
+4-15	427-429	in	*[13]	
+4-16	430-433	die	*[13]	
+4-17	434-447	Gerberastraße	*[13]	
+4-18	448-451	und	*[13]	
+4-19	452-464	Orchideenweg	*[13]	
+4-20	465-467	ab	*[13]	
+4-21	467-468	.	_	
+
+#Text=Dann muss man entweder zum Alten Heerweg fahren oder über den zweiten Bahnübergang und wiederum zum Maarweg.
+5-1	469-473	Dann	_	
+5-2	474-478	muss	_	
+5-3	479-482	man	_	
+5-4	483-491	entweder	_	
+5-5	492-495	zum	*[14]	
+5-6	496-501	Alten	*[14]	
+5-7	502-509	Heerweg	*[14]	
+5-8	510-516	fahren	_	
+5-9	517-521	oder	_	
+5-10	522-526	über	*[15]	
+5-11	527-530	den	*[15]	
+5-12	531-538	zweiten	*[15]	
+5-13	539-551	Bahnübergang	*[15]	
+5-14	552-555	und	*[15]	
+5-15	556-564	wiederum	*[15]	
+5-16	565-568	zum	*[15]	
+5-17	569-576	Maarweg	*[15]	
+5-18	576-577	.	_	
+
+#Text=Dies ist ebendfalls ein Umweg, je nachdem, ob gerade ein Zug kommt.
+6-1	578-582	Dies	_	
+6-2	583-586	ist	_	
+6-3	587-597	ebendfalls	_	
+6-4	598-601	ein	_	
+6-5	602-607	Umweg	_	
+6-6	607-608	,	_	
+6-7	609-611	je	_	
+6-8	612-619	nachdem	_	
+6-9	619-620	,	_	
+6-10	621-623	ob	_	
+6-11	624-630	gerade	_	
+6-12	631-634	ein	_	
+6-13	635-638	Zug	_	
+6-14	639-644	kommt	_	
+6-15	644-645	.	_	
+
+#Text=- Dritte Möglichkeit: Im Neubaugebiet Im Grünen Winkel gibt es bereits einen schönen neuen Rad- und Fußweg durchs Grüne, bis zum neuen S-Bahn-Halt Bonn Helmholtzstraße.
+7-1	646-647	-	_	
+7-2	648-654	Dritte	_	
+7-3	655-666	Möglichkeit	_	
+7-4	666-667	:	_	
+7-5	668-670	Im	*[16]	
+7-6	671-683	Neubaugebiet	*[16]	
+7-7	684-686	Im	*[16]	
+7-8	687-693	Grünen	*[16]	
+7-9	694-700	Winkel	*[16]	
+7-10	701-705	gibt	_	
+7-11	706-708	es	_	
+7-12	709-716	bereits	_	
+7-13	717-722	einen	_	
+7-14	723-730	schönen	_	
+7-15	731-736	neuen	_	
+7-16	737-740	Rad	_	
+7-17	740-741	-	_	
+7-18	742-745	und	_	
+7-19	746-752	Fußweg	_	
+7-20	753-759	durchs	_	
+7-21	760-765	Grüne	_	
+7-22	765-766	,	_	
+7-23	767-770	bis	*[17]	
+7-24	771-774	zum	*[17]	
+7-25	775-780	neuen	*[17]	
+7-26	781-792	S-Bahn-Halt	*[17]	
+7-27	793-797	Bonn	*[17]	
+7-28	798-813	Helmholtzstraße	*[17]	
+7-29	813-814	.	_	
+
+#Text=Mein Vorschlag: Zwischen Bahnhofstraße und Schmittgasser Kirchweg einen Radweg an den Gleisen einrichten und den bestehenden Radweg zur Haltestelle Helmholtzstraße bis zum Bollenackerweg verlängern.
+8-1	815-819	Mein	_	
+8-2	820-829	Vorschlag	_	
+8-3	829-830	:	_	
+8-4	831-839	Zwischen	*[18]	
+8-5	840-853	Bahnhofstraße	*[18]	
+8-6	854-857	und	*[18]	
+8-7	858-871	Schmittgasser	*[18]	
+8-8	872-880	Kirchweg	*[18]	
+8-9	881-886	einen	_	
+8-10	887-893	Radweg	_	
+8-11	894-896	an	_	
+8-12	897-900	den	_	
+8-13	901-908	Gleisen	_	
+8-14	909-919	einrichten	_	
+8-15	920-923	und	_	
+8-16	924-927	den	_	
+8-17	928-939	bestehenden	_	
+8-18	940-946	Radweg	*[19]	
+8-19	947-950	zur	*[19]	
+8-20	951-962	Haltestelle	*[19]	
+8-21	963-978	Helmholtzstraße	*[19]	
+8-22	979-982	bis	*[19]	
+8-23	983-986	zum	*[19]	
+8-24	987-1001	Bollenackerweg	*[19]	
+8-25	1002-1012	verlängern	_	
+8-26	1012-1013	.	_	
+
+#Text=Dann hätte man einen schön schnellen Radweg abseits von Straßen bis aufs Meßdorfer Feld.
+9-1	1014-1018	Dann	_	
+9-2	1019-1024	hätte	_	
+9-3	1025-1028	man	_	
+9-4	1029-1034	einen	_	
+9-5	1035-1040	schön	_	
+9-6	1041-1050	schnellen	_	
+9-7	1051-1057	Radweg	_	
+9-8	1058-1065	abseits	_	
+9-9	1066-1069	von	_	
+9-10	1070-1077	Straßen	_	
+9-11	1078-1081	bis	*[20]	
+9-12	1082-1086	aufs	*[20]	
+9-13	1087-1096	Meßdorfer	*[20]	
+9-14	1097-1101	Feld	*[20]	
+9-15	1101-1102	.	_	

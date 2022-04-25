@@ -1,0 +1,245 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Autos kreuzen Radweg, Radweg nicht einsehbar: Verkehrsspiegel fehlt
+1-1	0-5	Autos	_	
+1-2	6-13	kreuzen	_	
+1-3	14-20	Radweg	_	
+1-4	20-21	,	_	
+1-5	22-28	Radweg	_	
+1-6	29-34	nicht	_	
+1-7	35-44	einsehbar	_	
+1-8	44-45	:	_	
+1-9	46-61	Verkehrsspiegel	_	
+1-10	62-67	fehlt	_	
+
+#Text=Die Zufahrt zur Kita Sonnenpänz (An der Umkehr 48a) kreuzt den hier verlaufenden Radweg Im Alten Wingert.
+2-1	70-73	Die	*[11]	
+2-2	74-81	Zufahrt	*[11]	
+2-3	82-85	zur	*[11]	
+2-4	86-90	Kita	*[11]	
+2-5	91-101	Sonnenpänz	*[11]	
+2-6	102-103	(	*[11]	
+2-7	103-105	An	*[11]	
+2-8	106-109	der	*[11]	
+2-9	110-116	Umkehr	*[11]	
+2-10	117-120	48a	*[11]	
+2-11	120-121	)	_	
+2-12	122-128	kreuzt	_	
+2-13	129-132	den	_	
+2-14	133-137	hier	_	
+2-15	138-150	verlaufenden	_	
+2-16	151-157	Radweg	*[12]	
+2-17	158-160	Im	*[12]	
+2-18	161-166	Alten	*[12]	
+2-19	167-174	Wingert	*[12]	
+2-20	174-175	.	_	
+
+#Text=Auf der hier von Raddialog aufgeführten Karte fehlt sogar die Zufahrtstraße zum Kindergarten - bei Google Maps ist sie jedoch einsehbar, siehe ttps://www.google.de/maps/@50.7243266,7.149588,52a,35y,39.52t/data=!3m1!1e3
+3-1	176-179	Auf	_	
+3-2	180-183	der	_	
+3-3	184-188	hier	_	
+3-4	189-192	von	_	
+3-5	193-202	Raddialog	_	
+3-6	203-215	aufgeführten	_	
+3-7	216-221	Karte	_	
+3-8	222-227	fehlt	_	
+3-9	228-233	sogar	_	
+3-10	234-237	die	_	
+3-11	238-251	Zufahrtstraße	_	
+3-12	252-255	zum	_	
+3-13	256-268	Kindergarten	_	
+3-14	269-270	-	_	
+3-15	271-274	bei	_	
+3-16	275-281	Google	_	
+3-17	282-286	Maps	_	
+3-18	287-290	ist	_	
+3-19	291-294	sie	_	
+3-20	295-301	jedoch	_	
+3-21	302-311	einsehbar	_	
+3-22	311-312	,	_	
+3-23	313-318	siehe	_	
+3-24	319-323	ttps	_	
+3-25	323-324	:	_	
+3-26	324-325	/	_	
+3-27	325-326	/	_	
+3-28	326-339	www.google.de	_	
+3-29	339-340	/	_	
+3-30	340-344	maps	_	
+3-31	344-345	/	_	
+3-32	345-346	@	_	
+3-33	346-369	50.7243266,7.149588,52a	_	
+3-34	369-370	,	_	
+3-35	370-373	35y	_	
+3-36	373-374	,	_	
+3-37	374-380	39.52t	_	
+3-38	380-381	/	_	
+3-39	381-385	data	_	
+3-40	385-386	=	_	
+3-41	386-387	!	_	
+3-42	387-390	3m1	_	
+3-43	390-391	!	_	
+3-44	391-394	1e3	_	
+
+#Text=Dieser weitgehend entlang der S-Bahntrasse verlaufende Radweg von Ramersdorf nach Beuel hin bzw. umgekehrt wird intensiv genutzt.
+4-1	395-401	Dieser	_	
+4-2	402-412	weitgehend	_	
+4-3	413-420	entlang	_	
+4-4	421-424	der	_	
+4-5	425-437	S-Bahntrasse	_	
+4-6	438-449	verlaufende	_	
+4-7	450-456	Radweg	*[13]	
+4-8	457-460	von	*[13]	
+4-9	461-471	Ramersdorf	*[13]	
+4-10	472-476	nach	*[13]	
+4-11	477-482	Beuel	*[13]	
+4-12	483-486	hin	_	
+4-13	487-490	bzw	_	
+4-14	490-491	.	_	
+4-15	492-501	umgekehrt	_	
+4-16	502-506	wird	_	
+4-17	507-515	intensiv	_	
+4-18	516-523	genutzt	_	
+4-19	523-524	.	_	
+
+#Text=Die Autozufahrt zum Kindergarten ist sehr schmal.
+5-1	525-528	Die	_	
+5-2	529-540	Autozufahrt	_	
+5-3	541-544	zum	_	
+5-4	545-557	Kindergarten	_	
+5-5	558-561	ist	_	
+5-6	562-566	sehr	_	
+5-7	567-573	schmal	_	
+5-8	573-574	.	_	
+
+#Text=Durch Bebauung und Zaun links und rechts der Zuggangsstraße ist der Radweg vorher nicht einsehbar!
+6-1	575-580	Durch	_	
+6-2	581-589	Bebauung	_	
+6-3	590-593	und	_	
+6-4	594-598	Zaun	_	
+6-5	599-604	links	_	
+6-6	605-608	und	_	
+6-7	609-615	rechts	_	
+6-8	616-619	der	_	
+6-9	620-634	Zuggangsstraße	_	
+6-10	635-638	ist	_	
+6-11	639-642	der	_	
+6-12	643-649	Radweg	_	
+6-13	650-656	vorher	_	
+6-14	657-662	nicht	_	
+6-15	663-672	einsehbar	_	
+6-16	672-673	!	_	
+
+#Text=Der Radweg wird mangels fehlender Farbunterscheidung des Radwegs zur Straße als solcher zudem von Autofahrern auch kaum wahr genommen.
+7-1	674-677	Der	_	
+7-2	678-684	Radweg	_	
+7-3	685-689	wird	_	
+7-4	690-697	mangels	_	
+7-5	698-707	fehlender	_	
+7-6	708-726	Farbunterscheidung	_	
+7-7	727-730	des	_	
+7-8	731-738	Radwegs	_	
+7-9	739-742	zur	_	
+7-10	743-749	Straße	_	
+7-11	750-753	als	_	
+7-12	754-761	solcher	_	
+7-13	762-767	zudem	_	
+7-14	768-771	von	_	
+7-15	772-783	Autofahrern	_	
+7-16	784-788	auch	_	
+7-17	789-793	kaum	_	
+7-18	794-798	wahr	_	
+7-19	799-807	genommen	_	
+7-20	807-808	.	_	
+
+#Text=Daher kommt es insbesondere morgens, wenn Eltern ihre Kinder mit dem Auto oder Fahrrad zur Kita bringen, häufiger zu Fastunfällen.
+8-1	809-814	Daher	_	
+8-2	815-820	kommt	_	
+8-3	821-823	es	_	
+8-4	824-836	insbesondere	_	
+8-5	837-844	morgens	_	
+8-6	844-845	,	_	
+8-7	846-850	wenn	_	
+8-8	851-857	Eltern	_	
+8-9	858-862	ihre	_	
+8-10	863-869	Kinder	_	
+8-11	870-873	mit	_	
+8-12	874-877	dem	_	
+8-13	878-882	Auto	_	
+8-14	883-887	oder	_	
+8-15	888-895	Fahrrad	_	
+8-16	896-899	zur	_	
+8-17	900-904	Kita	_	
+8-18	905-912	bringen	_	
+8-19	912-913	,	_	
+8-20	914-922	häufiger	_	
+8-21	923-925	zu	_	
+8-22	926-938	Fastunfällen	_	
+8-23	938-939	.	_	
+
+#Text=Hinzu kommt, dass der Radweg im Alten Wingert an der tiefer gelegenen Straßeneinkerbung von beiden Seiten des Radwegs abschüssig ist, so dass Radfahrer hier eine höhere Geschwindigkeit haben.
+9-1	940-945	Hinzu	_	
+9-2	946-951	kommt	_	
+9-3	951-952	,	_	
+9-4	953-957	dass	_	
+9-5	958-961	der	*[14]	
+9-6	962-968	Radweg	*[14]	
+9-7	969-971	im	*[14]	
+9-8	972-977	Alten	*[14]	
+9-9	978-985	Wingert	*[14]	
+9-10	986-988	an	_	
+9-11	989-992	der	_	
+9-12	993-999	tiefer	_	
+9-13	1000-1009	gelegenen	_	
+9-14	1010-1027	Straßeneinkerbung	_	
+9-15	1028-1031	von	_	
+9-16	1032-1038	beiden	_	
+9-17	1039-1045	Seiten	_	
+9-18	1046-1049	des	_	
+9-19	1050-1057	Radwegs	_	
+9-20	1058-1068	abschüssig	_	
+9-21	1069-1072	ist	_	
+9-22	1072-1073	,	_	
+9-23	1074-1076	so	_	
+9-24	1077-1081	dass	_	
+9-25	1082-1091	Radfahrer	_	
+9-26	1092-1096	hier	_	
+9-27	1097-1101	eine	_	
+9-28	1102-1108	höhere	_	
+9-29	1109-1124	Geschwindigkeit	_	
+9-30	1125-1130	haben	_	
+9-31	1130-1131	.	_	
+
+#Text=Es müssten Verkehrsspiegel ( = Konvexspiegel) montiert werden, die im Bereich von unübersichtlichen Knotenpunkten, Kurven oder Grundstücksausfahrten zur Anwendung kommen und dort die Sichtverhältnisse verbessern.
+10-1	1132-1134	Es	_	
+10-2	1135-1142	müssten	_	
+10-3	1143-1158	Verkehrsspiegel	_	
+10-4	1159-1160	(	_	
+10-5	1161-1162	=	_	
+10-6	1163-1176	Konvexspiegel	_	
+10-7	1176-1177	)	_	
+10-8	1178-1186	montiert	_	
+10-9	1187-1193	werden	_	
+10-10	1193-1194	,	_	
+10-11	1195-1198	die	_	
+10-12	1199-1201	im	_	
+10-13	1202-1209	Bereich	_	
+10-14	1210-1213	von	_	
+10-15	1214-1231	unübersichtlichen	_	
+10-16	1232-1245	Knotenpunkten	_	
+10-17	1245-1246	,	_	
+10-18	1247-1253	Kurven	_	
+10-19	1254-1258	oder	_	
+10-20	1259-1280	Grundstücksausfahrten	_	
+10-21	1281-1284	zur	_	
+10-22	1285-1294	Anwendung	_	
+10-23	1295-1301	kommen	_	
+10-24	1302-1305	und	_	
+10-25	1306-1310	dort	_	
+10-26	1311-1314	die	_	
+10-27	1315-1332	Sichtverhältnisse	_	
+10-28	1333-1343	verbessern	_	
+10-29	1343-1344	.	_	

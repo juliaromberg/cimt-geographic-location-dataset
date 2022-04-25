@@ -1,0 +1,155 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Alternativen für Autofahrer schaffen.
+1-1	0-12	Alternativen	_	
+1-2	13-16	für	_	
+1-3	17-27	Autofahrer	_	
+1-4	28-36	schaffen	_	
+1-5	36-37	.	_	
+
+#Text=Parkraum Tagesticket = KVB Tagesticket 5 Personen
+2-1	38-46	Parkraum	_	
+2-2	47-58	Tagesticket	_	
+2-3	59-60	=	_	
+2-4	61-64	KVB	_	
+2-5	65-76	Tagesticket	_	
+2-6	77-78	5	_	
+2-7	79-87	Personen	_	
+
+#Text=Es wäre ein riesen Gewinn, wenn man die Venloer Str. lebenswerter gestalten würde und es auch weniger Autos gäbe.
+3-1	90-92	Es	_	
+3-2	93-97	wäre	_	
+3-3	98-101	ein	_	
+3-4	102-108	riesen	_	
+3-5	109-115	Gewinn	_	
+3-6	115-116	,	_	
+3-7	117-121	wenn	_	
+3-8	122-125	man	_	
+3-9	126-129	die	*[13]	
+3-10	130-137	Venloer	*[13]	
+3-11	138-141	Str	*[13]	
+3-12	141-142	.	_	
+3-13	143-155	lebenswerter	_	
+3-14	156-165	gestalten	_	
+3-15	166-171	würde	_	
+3-16	172-175	und	_	
+3-17	176-178	es	_	
+3-18	179-183	auch	_	
+3-19	184-191	weniger	_	
+3-20	192-197	Autos	_	
+3-21	198-202	gäbe	_	
+3-22	202-203	.	_	
+
+#Text=Hierzu diese Straße ab der Fuchsstr. Stadtauswärts zur Einbahnstraße machen.
+4-1	204-210	Hierzu	_	
+4-2	211-216	diese	_	
+4-3	217-223	Straße	_	
+4-4	224-226	ab	*[14]	
+4-5	227-230	der	*[14]	
+4-6	231-239	Fuchsstr	*[14]	
+4-7	239-240	.	*[14]	
+4-8	241-254	Stadtauswärts	*[14]	
+4-9	255-258	zur	_	
+4-10	259-272	Einbahnstraße	_	
+4-11	273-279	machen	_	
+4-12	279-280	.	_	
+
+#Text=Genauso könnte man dies stadteinwärts ab der Äusseren Kanalstr. praktizieren.
+5-1	281-288	Genauso	_	
+5-2	289-295	könnte	_	
+5-3	296-299	man	_	
+5-4	300-304	dies	_	
+5-5	305-318	stadteinwärts	*[15]	
+5-6	319-321	ab	*[15]	
+5-7	322-325	der	*[15]	
+5-8	326-334	Äusseren	*[15]	
+5-9	335-343	Kanalstr	*[15]	
+5-10	343-344	.	_	
+5-11	345-357	praktizieren	_	
+5-12	357-358	.	_	
+
+#Text=Hier könnte man auch ein Großraumparkplatz einrichten (Parkhaus).
+6-1	359-363	Hier	_	
+6-2	364-370	könnte	_	
+6-3	371-374	man	_	
+6-4	375-379	auch	_	
+6-5	380-383	ein	_	
+6-6	384-401	Großraumparkplatz	_	
+6-7	402-412	einrichten	_	
+6-8	413-414	(	_	
+6-9	414-422	Parkhaus	_	
+6-10	422-423	)	_	
+6-11	423-424	.	_	
+
+#Text=Das gelöste Tagesparkticket wäre gleichzeitig KVB Tagesticket für 5 Personen.
+7-1	425-428	Das	_	
+7-2	429-436	gelöste	_	
+7-3	437-452	Tagesparkticket	_	
+7-4	453-457	wäre	_	
+7-5	458-470	gleichzeitig	_	
+7-6	471-474	KVB	_	
+7-7	475-486	Tagesticket	_	
+7-8	487-490	für	_	
+7-9	491-492	5	_	
+7-10	493-501	Personen	_	
+7-11	501-502	.	_	
+
+#Text=So müssten generell alternativen für Autofahrer geschaffen werden!
+8-1	503-505	So	_	
+8-2	506-513	müssten	_	
+8-3	514-522	generell	_	
+8-4	523-535	alternativen	_	
+8-5	536-539	für	_	
+8-6	540-550	Autofahrer	_	
+8-7	551-561	geschaffen	_	
+8-8	562-568	werden	_	
+8-9	568-569	!	_	
+
+#Text=Ich kann generell nur appellieren: Mehr Mut zu Veränderungen für Fußgänger und Radfahrer in der Stadt.
+9-1	570-573	Ich	_	
+9-2	574-578	kann	_	
+9-3	579-587	generell	_	
+9-4	588-591	nur	_	
+9-5	592-603	appellieren	_	
+9-6	603-604	:	_	
+9-7	605-609	Mehr	_	
+9-8	610-613	Mut	_	
+9-9	614-616	zu	_	
+9-10	617-630	Veränderungen	_	
+9-11	631-634	für	_	
+9-12	635-644	Fußgänger	_	
+9-13	645-648	und	_	
+9-14	649-658	Radfahrer	_	
+9-15	659-661	in	_	
+9-16	662-665	der	_	
+9-17	666-671	Stadt	_	
+9-18	671-672	.	_	
+
+#Text=Die Stadt Kopenhagen macht vor, wie es gehen kann.
+10-1	673-676	Die	_	
+10-2	677-682	Stadt	_	
+10-3	683-693	Kopenhagen	*	
+10-4	694-699	macht	_	
+10-5	700-703	vor	_	
+10-6	703-704	,	_	
+10-7	705-708	wie	_	
+10-8	709-711	es	_	
+10-9	712-717	gehen	_	
+10-10	718-722	kann	_	
+10-11	722-723	.	_	
+
+#Text=Mit freundlichen Grüßen!
+11-1	724-727	Mit	_	
+11-2	728-740	freundlichen	_	
+11-3	741-747	Grüßen	_	
+11-4	747-748	!	_	
+
+#Text=[Name entfernt]
+12-1	749-750	[	_	
+12-2	750-754	Name	_	
+12-3	755-763	entfernt	_	
+12-4	763-764	]	_	

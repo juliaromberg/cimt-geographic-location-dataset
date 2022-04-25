@@ -1,0 +1,111 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fußgänger- Fahrradampel schaltet nicht automatisch auf grün, wenn Autos grün bekommen
+1-1	0-9	Fußgänger	_	
+1-2	9-10	-	_	
+1-3	11-23	Fahrradampel	_	
+1-4	24-32	schaltet	_	
+1-5	33-38	nicht	_	
+1-6	39-50	automatisch	_	
+1-7	51-54	auf	_	
+1-8	55-59	grün	_	
+1-9	59-60	,	_	
+1-10	61-65	wenn	_	
+1-11	66-71	Autos	_	
+1-12	72-76	grün	_	
+1-13	77-85	bekommen	_	
+
+#Text=Die Fußgänger- und Fahrradampel sollte automatisch auch für die Fußgänger und Fahrradfahrer auf grün schalten, wenn die Autos grün bekommen.
+2-1	88-91	Die	_	
+2-2	92-101	Fußgänger	_	
+2-3	101-102	-	_	
+2-4	103-106	und	_	
+2-5	107-119	Fahrradampel	_	
+2-6	120-126	sollte	_	
+2-7	127-138	automatisch	_	
+2-8	139-143	auch	_	
+2-9	144-147	für	_	
+2-10	148-151	die	_	
+2-11	152-161	Fußgänger	_	
+2-12	162-165	und	_	
+2-13	166-179	Fahrradfahrer	_	
+2-14	180-183	auf	_	
+2-15	184-188	grün	_	
+2-16	189-197	schalten	_	
+2-17	197-198	,	_	
+2-18	199-203	wenn	_	
+2-19	204-207	die	_	
+2-20	208-213	Autos	_	
+2-21	214-218	grün	_	
+2-22	219-227	bekommen	_	
+2-23	227-228	.	_	
+
+#Text=Bislang ist es so, dass für grün extra gedrückt werden muss, d.h. kommt man vom Rhein her an die Ampel herangefahren kann es sein, dass die Autos zwar grün haben, die Fußgänger- und Fahrradfahrerampel aber auf rot steht, da zuvor niemand gedrückt hat.
+3-1	229-236	Bislang	_	
+3-2	237-240	ist	_	
+3-3	241-243	es	_	
+3-4	244-246	so	_	
+3-5	246-247	,	_	
+3-6	248-252	dass	_	
+3-7	253-256	für	_	
+3-8	257-261	grün	_	
+3-9	262-267	extra	_	
+3-10	268-276	gedrückt	_	
+3-11	277-283	werden	_	
+3-12	284-288	muss	_	
+3-13	288-289	,	_	
+3-14	290-293	d.h	_	
+3-15	293-294	.	_	
+3-16	295-300	kommt	_	
+3-17	301-304	man	_	
+3-18	305-308	vom	*[5]	
+3-19	309-314	Rhein	*[5]	
+3-20	315-318	her	_	
+3-21	319-321	an	_	
+3-22	322-325	die	_	
+3-23	326-331	Ampel	_	
+3-24	332-345	herangefahren	_	
+3-25	346-350	kann	_	
+3-26	351-353	es	_	
+3-27	354-358	sein	_	
+3-28	358-359	,	_	
+3-29	360-364	dass	_	
+3-30	365-368	die	_	
+3-31	369-374	Autos	_	
+3-32	375-379	zwar	_	
+3-33	380-384	grün	_	
+3-34	385-390	haben	_	
+3-35	390-391	,	_	
+3-36	392-395	die	_	
+3-37	396-405	Fußgänger	_	
+3-38	405-406	-	_	
+3-39	407-410	und	_	
+3-40	411-429	Fahrradfahrerampel	_	
+3-41	430-434	aber	_	
+3-42	435-438	auf	_	
+3-43	439-442	rot	_	
+3-44	443-448	steht	_	
+3-45	448-449	,	_	
+3-46	450-452	da	_	
+3-47	453-458	zuvor	_	
+3-48	459-466	niemand	_	
+3-49	467-475	gedrückt	_	
+3-50	476-479	hat	_	
+3-51	479-480	.	_	
+
+#Text=So muss man für grün leider die nächste Ampelphase abwarten.
+4-1	481-483	So	_	
+4-2	484-488	muss	_	
+4-3	489-492	man	_	
+4-4	493-496	für	_	
+4-5	497-501	grün	_	
+4-6	502-508	leider	_	
+4-7	509-512	die	_	
+4-8	513-520	nächste	_	
+4-9	521-531	Ampelphase	_	
+4-10	532-540	abwarten	_	
+4-11	540-541	.	_	

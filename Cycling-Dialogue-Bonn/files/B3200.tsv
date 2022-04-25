@@ -1,0 +1,81 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährdung durch Falschparker
+1-1	0-10	Gefährdung	_	
+1-2	11-16	durch	_	
+1-3	17-29	Falschparker	_	
+
+#Text=Auf diesem Abschnitt der Villemombler Straße parken trotz halteverbot regelmäßig Autos (auf der Rathaus-Seite).
+2-1	32-35	Auf	_	
+2-2	36-42	diesem	_	
+2-3	43-52	Abschnitt	_	
+2-4	53-56	der	_	
+2-5	57-69	Villemombler	*[5]	
+2-6	70-76	Straße	*[5]	
+2-7	77-83	parken	_	
+2-8	84-89	trotz	_	
+2-9	90-101	halteverbot	_	
+2-10	102-112	regelmäßig	_	
+2-11	113-118	Autos	_	
+2-12	119-120	(	_	
+2-13	120-123	auf	_	
+2-14	124-127	der	_	
+2-15	128-141	Rathaus-Seite	_	
+2-16	141-142	)	_	
+2-17	142-143	.	_	
+
+#Text=Der Auto- und Busverkehr in Richtung Rochusstraße weicht automatisch aus, was dazu führt, dass der Verkehr in die Gegenrichtung selbstverständlich den Schutzstreifen für Radfahrer mitbenutzt.
+3-1	144-147	Der	_	
+3-2	148-152	Auto	_	
+3-3	152-153	-	_	
+3-4	154-157	und	_	
+3-5	158-168	Busverkehr	_	
+3-6	169-171	in	*[6]	
+3-7	172-180	Richtung	*[6]	
+3-8	181-193	Rochusstraße	*[6]	
+3-9	194-200	weicht	_	
+3-10	201-212	automatisch	_	
+3-11	213-216	aus	_	
+3-12	216-217	,	_	
+3-13	218-221	was	_	
+3-14	222-226	dazu	_	
+3-15	227-232	führt	_	
+3-16	232-233	,	_	
+3-17	234-238	dass	_	
+3-18	239-242	der	_	
+3-19	243-250	Verkehr	_	
+3-20	251-253	in	_	
+3-21	254-257	die	_	
+3-22	258-271	Gegenrichtung	_	
+3-23	272-290	selbstverständlich	_	
+3-24	291-294	den	_	
+3-25	295-309	Schutzstreifen	_	
+3-26	310-313	für	_	
+3-27	314-323	Radfahrer	_	
+3-28	324-334	mitbenutzt	_	
+3-29	334-335	.	_	
+
+#Text=Die deutlich langsameren (es geht leicht bergauf) Radfahrer sind dort entsprechen beliebt, also ernsthaft gefährdet.
+4-1	336-339	Die	_	
+4-2	340-348	deutlich	_	
+4-3	349-360	langsameren	_	
+4-4	361-362	(	_	
+4-5	362-364	es	_	
+4-6	365-369	geht	_	
+4-7	370-376	leicht	_	
+4-8	377-384	bergauf	_	
+4-9	384-385	)	_	
+4-10	386-395	Radfahrer	_	
+4-11	396-400	sind	_	
+4-12	401-405	dort	_	
+4-13	406-417	entsprechen	_	
+4-14	418-425	beliebt	_	
+4-15	425-426	,	_	
+4-16	427-431	also	_	
+4-17	432-441	ernsthaft	_	
+4-18	442-451	gefährdet	_	
+4-19	451-452	.	_	

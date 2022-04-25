@@ -1,0 +1,43 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=geteilten Fuß- und Radweg einrichten
+1-1	0-9	geteilten	_	
+1-2	10-13	Fuß	_	
+1-3	13-14	-	_	
+1-4	15-18	und	_	
+1-5	19-25	Radweg	_	
+1-6	26-36	einrichten	_	
+
+#Text=Der Überweg ist hier 4,5m breit, darf aber regulär nicht von Radfahrern genutzt werden.
+2-1	39-42	Der	_	
+2-2	43-50	Überweg	_	
+2-3	51-54	ist	_	
+2-4	55-59	hier	_	
+2-5	60-64	4,5m	_	
+2-6	65-70	breit	_	
+2-7	70-71	,	_	
+2-8	72-76	darf	_	
+2-9	77-81	aber	_	
+2-10	82-89	regulär	_	
+2-11	90-95	nicht	_	
+2-12	96-99	von	_	
+2-13	100-110	Radfahrern	_	
+2-14	111-118	genutzt	_	
+2-15	119-125	werden	_	
+2-16	125-126	.	_	
+
+#Text=Hier sollte eine Radfahrerfurt für beide Richtungen eingerichtet werden.
+3-1	127-131	Hier	_	
+3-2	132-138	sollte	_	
+3-3	139-143	eine	_	
+3-4	144-157	Radfahrerfurt	_	
+3-5	158-161	für	_	
+3-6	162-167	beide	_	
+3-7	168-178	Richtungen	_	
+3-8	179-191	eingerichtet	_	
+3-9	192-198	werden	_	
+3-10	198-199	.	_	

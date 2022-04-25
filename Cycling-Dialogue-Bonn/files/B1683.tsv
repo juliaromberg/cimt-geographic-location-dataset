@@ -1,0 +1,84 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstellfläche ohne Anschließmöglichkeit
+1-1	0-18	Fahrradstellfläche	_	
+1-2	19-23	ohne	_	
+1-3	24-44	Anschließmöglichkeit	_	
+
+#Text=Auf der Seite der Straße ist ein Bereich als Fahrradstellfläche ausgezeichnet.
+2-1	47-50	Auf	_	
+2-2	51-54	der	_	
+2-3	55-60	Seite	_	
+2-4	61-64	der	_	
+2-5	65-71	Straße	_	
+2-6	72-75	ist	_	
+2-7	76-79	ein	_	
+2-8	80-87	Bereich	_	
+2-9	88-91	als	_	
+2-10	92-110	Fahrradstellfläche	_	
+2-11	111-124	ausgezeichnet	_	
+2-12	124-125	.	_	
+
+#Text=Man kann sein Fahrrad dort allerdings nicht anschließen, sodass ich mich nicht traue, mein Fahrrad dort stehen zu lassen.
+3-1	126-129	Man	_	
+3-2	130-134	kann	_	
+3-3	135-139	sein	_	
+3-4	140-147	Fahrrad	_	
+3-5	148-152	dort	_	
+3-6	153-163	allerdings	_	
+3-7	164-169	nicht	_	
+3-8	170-181	anschließen	_	
+3-9	181-182	,	_	
+3-10	183-189	sodass	_	
+3-11	190-193	ich	_	
+3-12	194-198	mich	_	
+3-13	199-204	nicht	_	
+3-14	205-210	traue	_	
+3-15	210-211	,	_	
+3-16	212-216	mein	_	
+3-17	217-224	Fahrrad	_	
+3-18	225-229	dort	_	
+3-19	230-236	stehen	_	
+3-20	237-239	zu	_	
+3-21	240-246	lassen	_	
+3-22	246-247	.	_	
+
+#Text=An der Stelle gibt es zwei Verkehrsschilder oder Laternen, die sind aber natürlich meist belegt.
+4-1	248-250	An	_	
+4-2	251-254	der	_	
+4-3	255-261	Stelle	_	
+4-4	262-266	gibt	_	
+4-5	267-269	es	_	
+4-6	270-274	zwei	_	
+4-7	275-291	Verkehrsschilder	_	
+4-8	292-296	oder	_	
+4-9	297-305	Laternen	_	
+4-10	305-306	,	_	
+4-11	307-310	die	_	
+4-12	311-315	sind	_	
+4-13	316-320	aber	_	
+4-14	321-330	natürlich	_	
+4-15	331-336	meist	_	
+4-16	337-343	belegt	_	
+4-17	343-344	.	_	
+
+#Text=Würde man dort ordentliche Anlehnbügel montieren, so würden auch weniger KFZ dort parken.
+5-1	345-350	Würde	_	
+5-2	351-354	man	_	
+5-3	355-359	dort	_	
+5-4	360-371	ordentliche	_	
+5-5	372-383	Anlehnbügel	_	
+5-6	384-393	montieren	_	
+5-7	393-394	,	_	
+5-8	395-397	so	_	
+5-9	398-404	würden	_	
+5-10	405-409	auch	_	
+5-11	410-417	weniger	_	
+5-12	418-421	KFZ	_	
+5-13	422-426	dort	_	
+5-14	427-433	parken	_	
+5-15	433-434	.	_	

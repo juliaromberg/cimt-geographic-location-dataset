@@ -1,0 +1,47 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstraße freigeben
+1-1	0-13	Einbahnstraße	_	
+1-2	14-23	freigeben	_	
+
+#Text=Diese Einbahnstraße für den Radverkehr freigeben (und Asphalt neu machen).
+2-1	26-31	Diese	_	
+2-2	32-45	Einbahnstraße	_	
+2-3	46-49	für	_	
+2-4	50-53	den	_	
+2-5	54-64	Radverkehr	_	
+2-6	65-74	freigeben	_	
+2-7	75-76	(	_	
+2-8	76-79	und	_	
+2-9	80-87	Asphalt	_	
+2-10	88-91	neu	_	
+2-11	92-98	machen	_	
+2-12	98-99	)	_	
+2-13	99-100	.	_	
+
+#Text=Ja, die Straße ist eng - deshalb müssten die Parkplätze reduziert werden.
+3-1	101-103	Ja	_	
+3-2	103-104	,	_	
+3-3	105-108	die	_	
+3-4	109-115	Straße	_	
+3-5	116-119	ist	_	
+3-6	120-123	eng	_	
+3-7	124-125	-	_	
+3-8	126-133	deshalb	_	
+3-9	134-141	müssten	_	
+3-10	142-145	die	_	
+3-11	146-156	Parkplätze	_	
+3-12	157-166	reduziert	_	
+3-13	167-173	werden	_	
+3-14	173-174	.	_	
+
+#Text=Danke für diesen Raddialog!
+4-1	175-180	Danke	_	
+4-2	181-184	für	_	
+4-3	185-191	diesen	_	
+4-4	192-201	Raddialog	_	
+4-5	201-202	!	_	

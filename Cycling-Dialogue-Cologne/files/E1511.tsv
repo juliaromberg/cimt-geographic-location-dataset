@@ -1,0 +1,100 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Tempo 20 statt Tempo 30 als Geschwindigkeitsbeschränkung auf der Venloer Straße zwischen innerer Kanalstraße und Gürtel
+1-1	0-5	Tempo	_	
+1-2	6-8	20	_	
+1-3	9-14	statt	_	
+1-4	15-20	Tempo	_	
+1-5	21-23	30	_	
+1-6	24-27	als	_	
+1-7	28-56	Geschwindigkeitsbeschränkung	_	
+1-8	57-60	auf	*[4]	
+1-9	61-64	der	*[4]	
+1-10	65-72	Venloer	*[4]	
+1-11	73-79	Straße	*[4]	
+1-12	80-88	zwischen	*[4]	
+1-13	89-96	innerer	*[4]	
+1-14	97-108	Kanalstraße	*[4]	
+1-15	109-112	und	*[4]	
+1-16	113-119	Gürtel	*[4]	
+
+#Text=Dadurch, dass auf der Venloer Straße 30km/h schnell gefahren werden darf, sehen sich Autofahrer dazu animiert, die durchschnittlich etwas langsamer fahrenden Fahrradfahrer zu überholen, auch an den ohnehin schon recht engen Stellen, oft unter Missachtung des Mindestabstands.
+2-1	122-129	Dadurch	_	
+2-2	129-130	,	_	
+2-3	131-135	dass	_	
+2-4	136-139	auf	*[5]	
+2-5	140-143	der	*[5]	
+2-6	144-151	Venloer	*[5]	
+2-7	152-158	Straße	*[5]	
+2-8	159-163	30km	_	
+2-9	163-164	/	_	
+2-10	164-165	h	_	
+2-11	166-173	schnell	_	
+2-12	174-182	gefahren	_	
+2-13	183-189	werden	_	
+2-14	190-194	darf	_	
+2-15	194-195	,	_	
+2-16	196-201	sehen	_	
+2-17	202-206	sich	_	
+2-18	207-217	Autofahrer	_	
+2-19	218-222	dazu	_	
+2-20	223-231	animiert	_	
+2-21	231-232	,	_	
+2-22	233-236	die	_	
+2-23	237-253	durchschnittlich	_	
+2-24	254-259	etwas	_	
+2-25	260-269	langsamer	_	
+2-26	270-279	fahrenden	_	
+2-27	280-293	Fahrradfahrer	_	
+2-28	294-296	zu	_	
+2-29	297-306	überholen	_	
+2-30	306-307	,	_	
+2-31	308-312	auch	_	
+2-32	313-315	an	_	
+2-33	316-319	den	_	
+2-34	320-327	ohnehin	_	
+2-35	328-333	schon	_	
+2-36	334-339	recht	_	
+2-37	340-345	engen	_	
+2-38	346-353	Stellen	_	
+2-39	353-354	,	_	
+2-40	355-358	oft	_	
+2-41	359-364	unter	_	
+2-42	365-376	Missachtung	_	
+2-43	377-380	des	_	
+2-44	381-396	Mindestabstands	_	
+2-45	396-397	.	_	
+
+#Text=Eine Geschwindigkeitsbeschränkung von 20km/h auf der Venloer Straße würde die Autofahrer in etwa so schnell wie die Fahrradfahrer machen und die Gefahren für Fahrradfahrer reduzieren.
+3-1	398-402	Eine	_	
+3-2	403-431	Geschwindigkeitsbeschränkung	_	
+3-3	432-435	von	_	
+3-4	436-440	20km	_	
+3-5	440-441	/	_	
+3-6	441-442	h	_	
+3-7	443-446	auf	*[6]	
+3-8	447-450	der	*[6]	
+3-9	451-458	Venloer	*[6]	
+3-10	459-465	Straße	*[6]	
+3-11	466-471	würde	_	
+3-12	472-475	die	_	
+3-13	476-486	Autofahrer	_	
+3-14	487-489	in	_	
+3-15	490-494	etwa	_	
+3-16	495-497	so	_	
+3-17	498-505	schnell	_	
+3-18	506-509	wie	_	
+3-19	510-513	die	_	
+3-20	514-527	Fahrradfahrer	_	
+3-21	528-534	machen	_	
+3-22	535-538	und	_	
+3-23	539-542	die	_	
+3-24	543-551	Gefahren	_	
+3-25	552-555	für	_	
+3-26	556-569	Fahrradfahrer	_	
+3-27	570-580	reduzieren	_	
+3-28	580-581	.	_	

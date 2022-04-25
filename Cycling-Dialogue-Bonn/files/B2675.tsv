@@ -1,0 +1,35 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg Ecke Robert-Koch-Str./Im Wingert aufgebrochen
+1-1	0-6	Radweg	*[3]	
+1-2	7-11	Ecke	*[3]	
+1-3	12-27	Robert-Koch-Str	*[3]	
+1-4	27-28	.	*[3]	
+1-5	28-29	/	*[3]	
+1-6	29-31	Im	*[3]	
+1-7	32-39	Wingert	*[3]	
+1-8	40-52	aufgebrochen	_	
+
+#Text=Der Radweg Ecke Robert-Koch-Str./Im Wingert ist nach Bauarbeiten stark verengt und durch Frost aufgebrochen.
+2-1	55-58	Der	*[4]	
+2-2	59-65	Radweg	*[4]	
+2-3	66-70	Ecke	*[4]	
+2-4	71-86	Robert-Koch-Str	*[4]	
+2-5	86-87	.	*[4]	
+2-6	87-88	/	*[4]	
+2-7	88-90	Im	*[4]	
+2-8	91-98	Wingert	*[4]	
+2-9	99-102	ist	_	
+2-10	103-107	nach	_	
+2-11	108-119	Bauarbeiten	_	
+2-12	120-125	stark	_	
+2-13	126-133	verengt	_	
+2-14	134-137	und	_	
+2-15	138-143	durch	_	
+2-16	144-149	Frost	_	
+2-17	150-162	aufgebrochen	_	
+2-18	162-163	.	_	

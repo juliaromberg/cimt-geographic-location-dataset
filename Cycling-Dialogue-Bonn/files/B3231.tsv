@@ -1,0 +1,162 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Durchgehender sicherer und sauberer Radweg entlang der Bahnstrecke
+1-1	0-13	Durchgehender	_	
+1-2	14-22	sicherer	_	
+1-3	23-26	und	_	
+1-4	27-35	sauberer	_	
+1-5	36-42	Radweg	_	
+1-6	43-50	entlang	_	
+1-7	51-54	der	_	
+1-8	55-66	Bahnstrecke	_	
+
+#Text=Ich wohne seit meiner Kindheit in Bonn.
+2-1	69-72	Ich	_	
+2-2	73-78	wohne	_	
+2-3	79-83	seit	_	
+2-4	84-90	meiner	_	
+2-5	91-99	Kindheit	_	
+2-6	100-102	in	_	
+2-7	103-107	Bonn	*	
+2-8	107-108	.	_	
+
+#Text=Der Radweg am Rhein ist sehr wichtig für die Stadt.
+3-1	109-112	Der	_	
+3-2	113-119	Radweg	_	
+3-3	120-122	am	_	
+3-4	123-128	Rhein	_	
+3-5	129-132	ist	_	
+3-6	133-137	sehr	_	
+3-7	138-145	wichtig	_	
+3-8	146-149	für	_	
+3-9	150-153	die	_	
+3-10	154-159	Stadt	_	
+3-11	159-160	.	_	
+
+#Text=Aber ich vermisse schon immer einen Radweg entlang der Bahnlinie, der schnell und sicher befahrbar ist.
+4-1	161-165	Aber	_	
+4-2	166-169	ich	_	
+4-3	170-178	vermisse	_	
+4-4	179-184	schon	_	
+4-5	185-190	immer	_	
+4-6	191-196	einen	_	
+4-7	197-203	Radweg	_	
+4-8	204-211	entlang	_	
+4-9	212-215	der	_	
+4-10	216-225	Bahnlinie	_	
+4-11	225-226	,	_	
+4-12	227-230	der	_	
+4-13	231-238	schnell	_	
+4-14	239-242	und	_	
+4-15	243-249	sicher	_	
+4-16	250-259	befahrbar	_	
+4-17	260-263	ist	_	
+4-18	263-264	.	_	
+
+#Text=Für den Autoverkehr gibt es diese Verbindung.
+5-1	265-268	Für	_	
+5-2	269-272	den	_	
+5-3	273-284	Autoverkehr	_	
+5-4	285-289	gibt	_	
+5-5	290-292	es	_	
+5-6	293-298	diese	_	
+5-7	299-309	Verbindung	_	
+5-8	309-310	.	_	
+
+#Text=Der Radweg von Rolandswerth bis Bonn an der Bahn entlang wiest zu viele Verengungen , dunkle Zonen und Unterbrechungen auf.
+6-1	311-314	Der	*[11]	
+6-2	315-321	Radweg	*[11]	
+6-3	322-325	von	*[11]	
+6-4	326-338	Rolandswerth	*[11]	
+6-5	339-342	bis	*[11]	
+6-6	343-347	Bonn	*[11]	
+6-7	348-350	an	*[11]	
+6-8	351-354	der	*[11]	
+6-9	355-359	Bahn	*[11]	
+6-10	360-367	entlang	*[11]	
+6-11	368-373	wiest	_	
+6-12	374-376	zu	_	
+6-13	377-382	viele	_	
+6-14	383-394	Verengungen	_	
+6-15	395-396	,	_	
+6-16	397-403	dunkle	_	
+6-17	404-409	Zonen	_	
+6-18	410-413	und	_	
+6-19	414-429	Unterbrechungen	_	
+6-20	430-433	auf	_	
+6-21	433-434	.	_	
+
+#Text=In Freiburg ist zum Beispiel eine Strecke entlang des Flusses perfekt ausgebaut: breit, mit 3 bis vier Fahrspuren und sehr neuem Belag!
+7-1	435-437	In	_	
+7-2	438-446	Freiburg	*	
+7-3	447-450	ist	_	
+7-4	451-454	zum	_	
+7-5	455-463	Beispiel	_	
+7-6	464-468	eine	_	
+7-7	469-476	Strecke	_	
+7-8	477-484	entlang	_	
+7-9	485-488	des	_	
+7-10	489-496	Flusses	_	
+7-11	497-504	perfekt	_	
+7-12	505-514	ausgebaut	_	
+7-13	514-515	:	_	
+7-14	516-521	breit	_	
+7-15	521-522	,	_	
+7-16	523-526	mit	_	
+7-17	527-528	3	_	
+7-18	529-532	bis	_	
+7-19	533-537	vier	_	
+7-20	538-548	Fahrspuren	_	
+7-21	549-552	und	_	
+7-22	553-557	sehr	_	
+7-23	558-563	neuem	_	
+7-24	564-569	Belag	_	
+7-25	569-570	!	_	
+
+#Text=Ich wünsche auch im Interesse der Schüler eine schnelle Verbindung, nicht zuletzt das neue Schwimmbad liegt auch in der Nähe der Bahngleise.
+8-1	571-574	Ich	_	
+8-2	575-582	wünsche	_	
+8-3	583-587	auch	_	
+8-4	588-590	im	_	
+8-5	591-600	Interesse	_	
+8-6	601-604	der	_	
+8-7	605-612	Schüler	_	
+8-8	613-617	eine	_	
+8-9	618-626	schnelle	_	
+8-10	627-637	Verbindung	_	
+8-11	637-638	,	_	
+8-12	639-644	nicht	_	
+8-13	645-652	zuletzt	_	
+8-14	653-656	das	_	
+8-15	657-661	neue	_	
+8-16	662-672	Schwimmbad	_	
+8-17	673-678	liegt	_	
+8-18	679-683	auch	_	
+8-19	684-686	in	_	
+8-20	687-690	der	_	
+8-21	691-695	Nähe	_	
+8-22	696-699	der	_	
+8-23	700-710	Bahngleise	_	
+8-24	710-711	.	_	
+
+#Text=Eine Verbindung mit der kürzesten Wegstrecke findet mehr Akzeptanz!
+9-1	712-716	Eine	_	
+9-2	717-727	Verbindung	_	
+9-3	728-731	mit	_	
+9-4	732-735	der	_	
+9-5	736-745	kürzesten	_	
+9-6	746-756	Wegstrecke	_	
+9-7	757-763	findet	_	
+9-8	764-768	mehr	_	
+9-9	769-778	Akzeptanz	_	
+9-10	778-779	!	_	
+
+#Text=Mit freundlichenGrüßen Peter Meyer
+10-1	780-783	Mit	_	
+10-2	784-802	freundlichenGrüßen	_	
+10-3	803-808	Peter	_	
+10-4	809-814	Meyer	_	

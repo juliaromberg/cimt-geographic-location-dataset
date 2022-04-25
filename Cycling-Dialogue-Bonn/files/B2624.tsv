@@ -1,0 +1,131 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Lückenschluss fehlt
+1-1	0-13	Lückenschluss	_	
+1-2	14-19	fehlt	_	
+
+#Text=Die Neubauten auf dem ehemaligen [Name der Firma] - Gelände sind errichtet.
+2-1	22-25	Die	_	
+2-2	26-35	Neubauten	_	
+2-3	36-39	auf	_	
+2-4	40-43	dem	_	
+2-5	44-54	ehemaligen	_	
+2-6	55-56	[	_	
+2-7	56-60	Name	_	
+2-8	61-64	der	_	
+2-9	65-70	Firma	_	
+2-10	70-71	]	_	
+2-11	72-73	-	_	
+2-12	74-81	Gelände	_	
+2-13	82-86	sind	_	
+2-14	87-96	errichtet	_	
+2-15	96-97	.	_	
+
+#Text=Es fehlt jetzt der Lückenschluss zwischen Albert-Fischer-Strasse und Rheinweg für den Radweg, der nach Süden auch auf der westlichen Seite der Bahnstrecke bereits besteht.
+3-1	98-100	Es	_	
+3-2	101-106	fehlt	_	
+3-3	107-112	jetzt	_	
+3-4	113-116	der	_	
+3-5	117-130	Lückenschluss	_	
+3-6	131-139	zwischen	*[8]	
+3-7	140-162	Albert-Fischer-Strasse	*[8]	
+3-8	163-166	und	*[8]	
+3-9	167-175	Rheinweg	*[8]	
+3-10	176-179	für	_	
+3-11	180-183	den	_	
+3-12	184-190	Radweg	_	
+3-13	190-191	,	_	
+3-14	192-195	der	_	
+3-15	196-200	nach	_	
+3-16	201-206	Süden	_	
+3-17	207-211	auch	_	
+3-18	212-215	auf	_	
+3-19	216-219	der	_	
+3-20	220-230	westlichen	_	
+3-21	231-236	Seite	_	
+3-22	237-240	der	_	
+3-23	241-252	Bahnstrecke	_	
+3-24	253-260	bereits	_	
+3-25	261-268	besteht	_	
+3-26	268-269	.	_	
+
+#Text=Ein Ausweichen über den Strassburger Weg bedeutet, dass dazu die Bahntrasse zweimal gequert werden muß: die Bahnschranken sind allerdings oft geschlossen.
+4-1	270-273	Ein	_	
+4-2	274-284	Ausweichen	_	
+4-3	285-289	über	*[9]	
+4-4	290-293	den	*[9]	
+4-5	294-306	Strassburger	*[9]	
+4-6	307-310	Weg	*[9]	
+4-7	311-319	bedeutet	_	
+4-8	319-320	,	_	
+4-9	321-325	dass	_	
+4-10	326-330	dazu	_	
+4-11	331-334	die	*[10]	
+4-12	335-345	Bahntrasse	*[10]	
+4-13	346-353	zweimal	_	
+4-14	354-361	gequert	_	
+4-15	362-368	werden	_	
+4-16	369-372	muß	_	
+4-17	372-373	:	_	
+4-18	374-377	die	_	
+4-19	378-391	Bahnschranken	_	
+4-20	392-396	sind	_	
+4-21	397-407	allerdings	_	
+4-22	408-411	oft	_	
+4-23	412-423	geschlossen	_	
+4-24	423-424	.	_	
+
+#Text=Aus meiner Sicht ist ohnehin eine Feuerwehrzufahrt zu den neuerrichteten Wohngebäuden an dieser Stelle erforderlich.
+5-1	425-428	Aus	_	
+5-2	429-435	meiner	_	
+5-3	436-441	Sicht	_	
+5-4	442-445	ist	_	
+5-5	446-453	ohnehin	_	
+5-6	454-458	eine	_	
+5-7	459-475	Feuerwehrzufahrt	_	
+5-8	476-478	zu	_	
+5-9	479-482	den	_	
+5-10	483-497	neuerrichteten	_	
+5-11	498-510	Wohngebäuden	_	
+5-12	511-513	an	_	
+5-13	514-520	dieser	_	
+5-14	521-527	Stelle	_	
+5-15	528-540	erforderlich	_	
+5-16	540-541	.	_	
+
+#Text=Mit dem Lückenschluß kann sowohl die Feuerwehr anfahren und die Radfahrer können auf der Westseite auf eigener Trasse fahren.
+6-1	542-545	Mit	_	
+6-2	546-549	dem	_	
+6-3	550-562	Lückenschluß	_	
+6-4	563-567	kann	_	
+6-5	568-574	sowohl	_	
+6-6	575-578	die	_	
+6-7	579-588	Feuerwehr	_	
+6-8	589-597	anfahren	_	
+6-9	598-601	und	_	
+6-10	602-605	die	_	
+6-11	606-615	Radfahrer	_	
+6-12	616-622	können	_	
+6-13	623-626	auf	_	
+6-14	627-630	der	_	
+6-15	631-640	Westseite	_	
+6-16	641-644	auf	_	
+6-17	645-652	eigener	_	
+6-18	653-659	Trasse	_	
+6-19	660-666	fahren	_	
+6-20	666-667	.	_	
+
+#Text=Beitrag von Hans-Peter Lange, [Adresse entfernt]
+7-1	668-675	Beitrag	_	
+7-2	676-679	von	_	
+7-3	680-690	Hans-Peter	_	
+7-4	691-696	Lange	_	
+7-5	696-697	,	_	
+7-6	698-699	[	_	
+7-7	699-706	Adresse	_	
+7-8	707-715	entfernt	_	
+7-9	715-716	]	_	

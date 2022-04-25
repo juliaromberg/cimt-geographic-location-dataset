@@ -1,0 +1,101 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rücksichtslose Busfahrer!
+1-1	0-14	Rücksichtslose	_	
+1-2	15-24	Busfahrer	_	
+1-3	24-25	!	_	
+
+#Text=Aus der Unterführung kommend wird man hier sehr oft von Busfahrern ignoriert.
+2-1	28-31	Aus	_	
+2-2	32-35	der	_	
+2-3	36-48	Unterführung	_	
+2-4	49-56	kommend	_	
+2-5	57-61	wird	_	
+2-6	62-65	man	_	
+2-7	66-70	hier	_	
+2-8	71-75	sehr	_	
+2-9	76-79	oft	_	
+2-10	80-83	von	_	
+2-11	84-94	Busfahrern	_	
+2-12	95-104	ignoriert	_	
+2-13	104-105	.	_	
+
+#Text=Ich weiß nicht, ob die Busfahrer hier vom Bahnhof losfahrend Vorfahrt haben (ich glaube nicht), aber wenn ich nicht selber immer so defensiv stehen bleiben würde, würde ich hier einmal pro Woche überfahren!
+3-1	106-109	Ich	_	
+3-2	110-114	weiß	_	
+3-3	115-120	nicht	_	
+3-4	120-121	,	_	
+3-5	122-124	ob	_	
+3-6	125-128	die	_	
+3-7	129-138	Busfahrer	_	
+3-8	139-143	hier	_	
+3-9	144-147	vom	_	
+3-10	148-155	Bahnhof	_	
+3-11	156-166	losfahrend	_	
+3-12	167-175	Vorfahrt	_	
+3-13	176-181	haben	_	
+3-14	182-183	(	_	
+3-15	183-186	ich	_	
+3-16	187-193	glaube	_	
+3-17	194-199	nicht	_	
+3-18	199-200	)	_	
+3-19	200-201	,	_	
+3-20	202-206	aber	_	
+3-21	207-211	wenn	_	
+3-22	212-215	ich	_	
+3-23	216-221	nicht	_	
+3-24	222-228	selber	_	
+3-25	229-234	immer	_	
+3-26	235-237	so	_	
+3-27	238-246	defensiv	_	
+3-28	247-253	stehen	_	
+3-29	254-261	bleiben	_	
+3-30	262-267	würde	_	
+3-31	267-268	,	_	
+3-32	269-274	würde	_	
+3-33	275-278	ich	_	
+3-34	279-283	hier	_	
+3-35	284-290	einmal	_	
+3-36	291-294	pro	_	
+3-37	295-300	Woche	_	
+3-38	301-311	überfahren	_	
+3-39	311-312	!	_	
+
+#Text=Dass die komplette Verkehrsführung am Bahnhof neu gestaltet werden muss scheint ja klar... aber hier würde kurzfristig ein durchgemalter Radweg helfen.
+4-1	313-317	Dass	_	
+4-2	318-321	die	_	
+4-3	322-331	komplette	_	
+4-4	332-347	Verkehrsführung	_	
+4-5	348-350	am	_	
+4-6	351-358	Bahnhof	_	
+4-7	359-362	neu	_	
+4-8	363-372	gestaltet	_	
+4-9	373-379	werden	_	
+4-10	380-384	muss	_	
+4-11	385-392	scheint	_	
+4-12	393-395	ja	_	
+4-13	396-400	klar	_	
+4-14	400-401	.	_	
+4-15	401-402	.	_	
+4-16	402-403	.	_	
+4-17	404-408	aber	_	
+4-18	409-413	hier	_	
+4-19	414-419	würde	_	
+4-20	420-431	kurzfristig	_	
+4-21	432-435	ein	_	
+4-22	436-449	durchgemalter	_	
+4-23	450-456	Radweg	_	
+4-24	457-463	helfen	_	
+4-25	463-464	.	_	
+
+#Text=Und eine Schulung der Busfahrer!
+5-1	465-468	Und	_	
+5-2	469-473	eine	_	
+5-3	474-482	Schulung	_	
+5-4	483-486	der	_	
+5-5	487-496	Busfahrer	_	
+5-6	496-497	!	_	

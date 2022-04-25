@@ -1,0 +1,119 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vorfahrt nehmen im Kreisel
+1-1	0-8	Vorfahrt	_	
+1-2	9-15	nehmen	_	
+1-3	16-18	im	_	
+1-4	19-26	Kreisel	_	
+
+#Text=Leider musste ich November 2016 am eigenen Leib erfahren, wie sich ein rollender Autoreifen auf der Hand anfühlt.
+2-1	29-35	Leider	_	
+2-2	36-42	musste	_	
+2-3	43-46	ich	_	
+2-4	47-55	November	_	
+2-5	56-60	2016	_	
+2-6	61-63	am	_	
+2-7	64-71	eigenen	_	
+2-8	72-76	Leib	_	
+2-9	77-85	erfahren	_	
+2-10	85-86	,	_	
+2-11	87-90	wie	_	
+2-12	91-95	sich	_	
+2-13	96-99	ein	_	
+2-14	100-109	rollender	_	
+2-15	110-120	Autoreifen	_	
+2-16	121-124	auf	_	
+2-17	125-128	der	_	
+2-18	129-133	Hand	_	
+2-19	134-141	anfühlt	_	
+2-20	141-142	.	_	
+
+#Text=Ja man hat mir im Kreisverkehr die Vorfahrt genommen hat mich umgefahren über die Hand und hat Fahrerflucht begangen.
+3-1	143-145	Ja	_	
+3-2	146-149	man	_	
+3-3	150-153	hat	_	
+3-4	154-157	mir	_	
+3-5	158-160	im	_	
+3-6	161-173	Kreisverkehr	_	
+3-7	174-177	die	_	
+3-8	178-186	Vorfahrt	_	
+3-9	187-195	genommen	_	
+3-10	196-199	hat	_	
+3-11	200-204	mich	_	
+3-12	205-215	umgefahren	_	
+3-13	216-220	über	_	
+3-14	221-224	die	_	
+3-15	225-229	Hand	_	
+3-16	230-233	und	_	
+3-17	234-237	hat	_	
+3-18	238-250	Fahrerflucht	_	
+3-19	251-259	begangen	_	
+3-20	259-260	.	_	
+
+#Text=Seit dem immer Angst in einen Kreisverkehr einzubiegen.
+4-1	261-265	Seit	_	
+4-2	266-269	dem	_	
+4-3	270-275	immer	_	
+4-4	276-281	Angst	_	
+4-5	282-284	in	_	
+4-6	285-290	einen	_	
+4-7	291-303	Kreisverkehr	_	
+4-8	304-315	einzubiegen	_	
+4-9	315-316	.	_	
+
+#Text=Ist es seitens der Stadt nicht möglich, Verkehrsüberwachung in Form von Kameras an den Kreisverkehren in Bonn zu errichten?
+5-1	317-320	Ist	_	
+5-2	321-323	es	_	
+5-3	324-331	seitens	_	
+5-4	332-335	der	_	
+5-5	336-341	Stadt	_	
+5-6	342-347	nicht	_	
+5-7	348-355	möglich	_	
+5-8	355-356	,	_	
+5-9	357-376	Verkehrsüberwachung	_	
+5-10	377-379	in	_	
+5-11	380-384	Form	_	
+5-12	385-388	von	_	
+5-13	389-396	Kameras	_	
+5-14	397-399	an	*[8]	
+5-15	400-403	den	*[8]	
+5-16	404-418	Kreisverkehren	*[8]	
+5-17	419-421	in	*[8]	
+5-18	422-426	Bonn	*[8]	
+5-19	427-429	zu	_	
+5-20	430-439	errichten	_	
+5-21	439-440	?	_	
+
+#Text=Als Fahrradfahrer erinnert man sich so schlecht an das Kennzeichen wenn man Grad über den Haufen gefahren wurde.
+6-1	441-444	Als	_	
+6-2	445-458	Fahrradfahrer	_	
+6-3	459-467	erinnert	_	
+6-4	468-471	man	_	
+6-5	472-476	sich	_	
+6-6	477-479	so	_	
+6-7	480-488	schlecht	_	
+6-8	489-491	an	_	
+6-9	492-495	das	_	
+6-10	496-507	Kennzeichen	_	
+6-11	508-512	wenn	_	
+6-12	513-516	man	_	
+6-13	517-521	Grad	_	
+6-14	522-526	über	_	
+6-15	527-530	den	_	
+6-16	531-537	Haufen	_	
+6-17	538-546	gefahren	_	
+6-18	547-552	wurde	_	
+6-19	552-553	.	_	
+
+#Text=Aber auch um Autofahrern Rechte einzuräumen .
+7-1	554-558	Aber	_	
+7-2	559-563	auch	_	
+7-3	564-566	um	_	
+7-4	567-578	Autofahrern	_	
+7-5	579-585	Rechte	_	
+7-6	586-597	einzuräumen	_	
+7-7	598-599	.	_	

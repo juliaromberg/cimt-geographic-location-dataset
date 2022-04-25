@@ -1,0 +1,152 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstraße
+1-1	0-13	Einbahnstraße	_	
+
+#Text=Die Büttinghausstraße ist ein erstaunliches Phänomen!?
+2-1	16-19	Die	*[8]	
+2-2	20-37	Büttinghausstraße	*[8]	
+2-3	38-41	ist	_	
+2-4	42-45	ein	_	
+2-5	46-59	erstaunliches	_	
+2-6	60-68	Phänomen	_	
+2-7	68-69	!	_	
+2-8	69-70	?	_	
+
+#Text=Zwischen Hausdorffstraße und Burbacher Straße darf Sie, obwohl für Begegnungsverkehr zu schmal und mit vielen parkenden Autos versehen, sogar von Autos und LKW in beiden Richtungen befahren werden.
+3-1	71-79	Zwischen	*[9]	
+3-2	80-95	Hausdorffstraße	*[9]	
+3-3	96-99	und	*[9]	
+3-4	100-109	Burbacher	*[9]	
+3-5	110-116	Straße	*[9]	
+3-6	117-121	darf	_	
+3-7	122-125	Sie	_	
+3-8	125-126	,	_	
+3-9	127-133	obwohl	_	
+3-10	134-137	für	_	
+3-11	138-155	Begegnungsverkehr	_	
+3-12	156-158	zu	_	
+3-13	159-165	schmal	_	
+3-14	166-169	und	_	
+3-15	170-173	mit	_	
+3-16	174-180	vielen	_	
+3-17	181-190	parkenden	_	
+3-18	191-196	Autos	_	
+3-19	197-205	versehen	_	
+3-20	205-206	,	_	
+3-21	207-212	sogar	_	
+3-22	213-216	von	_	
+3-23	217-222	Autos	_	
+3-24	223-226	und	_	
+3-25	227-230	LKW	_	
+3-26	231-233	in	_	
+3-27	234-240	beiden	_	
+3-28	241-251	Richtungen	_	
+3-29	252-260	befahren	_	
+3-30	261-267	werden	_	
+3-31	267-268	.	_	
+
+#Text=Das kann für Fahrräder schon ganz schön ungemütlich oder gefährlich werden, wenn ihnen eine (größeres) Fahrzeug entgegen kommt.
+4-1	269-272	Das	_	
+4-2	273-277	kann	_	
+4-3	278-281	für	_	
+4-4	282-291	Fahrräder	_	
+4-5	292-297	schon	_	
+4-6	298-302	ganz	_	
+4-7	303-308	schön	_	
+4-8	309-320	ungemütlich	_	
+4-9	321-325	oder	_	
+4-10	326-336	gefährlich	_	
+4-11	337-343	werden	_	
+4-12	343-344	,	_	
+4-13	345-349	wenn	_	
+4-14	350-355	ihnen	_	
+4-15	356-360	eine	_	
+4-16	361-362	(	_	
+4-17	362-370	größeres	_	
+4-18	370-371	)	_	
+4-19	372-380	Fahrzeug	_	
+4-20	381-389	entgegen	_	
+4-21	390-395	kommt	_	
+4-22	395-396	.	_	
+
+#Text=Der Teil zwischen Hausdorffstraße und Mechenstraße unterliegt dagegen anderen Kriterien.
+5-1	397-400	Der	_	
+5-2	401-405	Teil	_	
+5-3	406-414	zwischen	*[10]	
+5-4	415-430	Hausdorffstraße	*[10]	
+5-5	431-434	und	*[10]	
+5-6	435-447	Mechenstraße	*[10]	
+5-7	448-458	unterliegt	_	
+5-8	459-466	dagegen	_	
+5-9	467-474	anderen	_	
+5-10	475-484	Kriterien	_	
+5-11	484-485	.	_	
+
+#Text=Hier ist sie Einbahnstraße, was sinnvoll erscheint.
+6-1	486-490	Hier	_	
+6-2	491-494	ist	_	
+6-3	495-498	sie	_	
+6-4	499-512	Einbahnstraße	_	
+6-5	512-513	,	_	
+6-6	514-517	was	_	
+6-7	518-526	sinnvoll	_	
+6-8	527-536	erscheint	_	
+6-9	536-537	.	_	
+
+#Text=Da dieser Straßenabschnitt aber nur geringfügig schmaler ist, besonders wenn man die parkenden Autos berücksichtigt, ist nicht verständlich, warum sie nicht für Fahrradfahrer in beiden Richtungen frei gegeben ist.
+7-1	538-540	Da	_	
+7-2	541-547	dieser	_	
+7-3	548-564	Straßenabschnitt	_	
+7-4	565-569	aber	_	
+7-5	570-573	nur	_	
+7-6	574-585	geringfügig	_	
+7-7	586-594	schmaler	_	
+7-8	595-598	ist	_	
+7-9	598-599	,	_	
+7-10	600-609	besonders	_	
+7-11	610-614	wenn	_	
+7-12	615-618	man	_	
+7-13	619-622	die	_	
+7-14	623-632	parkenden	_	
+7-15	633-638	Autos	_	
+7-16	639-653	berücksichtigt	_	
+7-17	653-654	,	_	
+7-18	655-658	ist	_	
+7-19	659-664	nicht	_	
+7-20	665-677	verständlich	_	
+7-21	677-678	,	_	
+7-22	679-684	warum	_	
+7-23	685-688	sie	_	
+7-24	689-694	nicht	_	
+7-25	695-698	für	_	
+7-26	699-712	Fahrradfahrer	_	
+7-27	713-715	in	_	
+7-28	716-722	beiden	_	
+7-29	723-733	Richtungen	_	
+7-30	734-738	frei	_	
+7-31	739-746	gegeben	_	
+7-32	747-750	ist	_	
+7-33	750-751	.	_	
+
+#Text=Man kann dazu auch beobachten, dass bisher illegales Fahren gegen die Einbahnrichtung möglich ist.
+8-1	752-755	Man	_	
+8-2	756-760	kann	_	
+8-3	761-765	dazu	_	
+8-4	766-770	auch	_	
+8-5	771-781	beobachten	_	
+8-6	781-782	,	_	
+8-7	783-787	dass	_	
+8-8	788-794	bisher	_	
+8-9	795-804	illegales	_	
+8-10	805-811	Fahren	_	
+8-11	812-817	gegen	_	
+8-12	818-821	die	_	
+8-13	822-837	Einbahnrichtung	_	
+8-14	838-845	möglich	_	
+8-15	846-849	ist	_	
+8-16	849-850	.	_	

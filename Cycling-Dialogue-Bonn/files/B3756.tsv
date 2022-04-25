@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radverkehrsführung an Baustellen
+1-1	0-18	Radverkehrsführung	_	
+1-2	19-21	an	_	
+1-3	22-32	Baustellen	_	
+
+#Text=Seit einiger Zeit gibt es mehrere große Baustellen an Haupt-Radverkehrsachsen (z.B. Quantiusstr. zur Radstation, Südstadtgärten Franz-Lohe-/August-Bier-Str.), ohne dass an betroffene Radfahrer gedacht wird.
+2-1	35-39	Seit	_	
+2-2	40-47	einiger	_	
+2-3	48-52	Zeit	_	
+2-4	53-57	gibt	_	
+2-5	58-60	es	_	
+2-6	61-68	mehrere	_	
+2-7	69-74	große	_	
+2-8	75-85	Baustellen	_	
+2-9	86-88	an	_	
+2-10	89-112	Haupt-Radverkehrsachsen	_	
+2-11	113-114	(	_	
+2-12	114-117	z.B	_	
+2-13	117-118	.	_	
+2-14	119-130	Quantiusstr	*[5]	
+2-15	130-131	.	*[5]	
+2-16	132-135	zur	*[5]	
+2-17	136-146	Radstation	*[5]	
+2-18	146-147	,	*[5]	
+2-19	148-162	Südstadtgärten	*[5]	
+2-20	163-173	Franz-Lohe	*[5]	
+2-21	173-174	-	*[5]	
+2-22	174-175	/	*[5]	
+2-23	175-190	August-Bier-Str	*[5]	
+2-24	190-191	.	_	
+2-25	191-192	)	_	
+2-26	192-193	,	_	
+2-27	194-198	ohne	_	
+2-28	199-203	dass	_	
+2-29	204-206	an	_	
+2-30	207-217	betroffene	_	
+2-31	218-227	Radfahrer	_	
+2-32	228-235	gedacht	_	
+2-33	236-240	wird	_	
+2-34	240-241	.	_	
+
+#Text=Die Quantiusstr. wird einfach für Radfahrer Richtung Radstation gesperrt, eine Umleitungsbeschilderung fehlt.
+3-1	242-245	Die	*[6]	
+3-2	246-257	Quantiusstr	*[6]	
+3-3	257-258	.	_	
+3-4	259-263	wird	_	
+3-5	264-271	einfach	_	
+3-6	272-275	für	_	
+3-7	276-285	Radfahrer	_	
+3-8	286-294	Richtung	_	
+3-9	295-305	Radstation	_	
+3-10	306-314	gesperrt	_	
+3-11	314-315	,	_	
+3-12	316-320	eine	_	
+3-13	321-344	Umleitungsbeschilderung	_	
+3-14	345-350	fehlt	_	
+3-15	350-351	.	_	
+
+#Text=Bei den Südstadtgärten fahren immer wieder LKWs durch die Anliegerstraßen bzw. neuerdings Fahrradstraßen, versperren die Fahrbahn meist komplett oder gefährden Radfahrer.
+4-1	352-355	Bei	*[7]	
+4-2	356-359	den	*[7]	
+4-3	360-374	Südstadtgärten	*[7]	
+4-4	375-381	fahren	_	
+4-5	382-387	immer	_	
+4-6	388-394	wieder	_	
+4-7	395-399	LKWs	_	
+4-8	400-405	durch	_	
+4-9	406-409	die	_	
+4-10	410-425	Anliegerstraßen	_	
+4-11	426-429	bzw	_	
+4-12	429-430	.	_	
+4-13	431-441	neuerdings	_	
+4-14	442-456	Fahrradstraßen	_	
+4-15	456-457	,	_	
+4-16	458-468	versperren	_	
+4-17	469-472	die	_	
+4-18	473-481	Fahrbahn	_	
+4-19	482-487	meist	_	
+4-20	488-496	komplett	_	
+4-21	497-501	oder	_	
+4-22	502-511	gefährden	_	
+4-23	512-521	Radfahrer	_	
+4-24	521-522	.	_	

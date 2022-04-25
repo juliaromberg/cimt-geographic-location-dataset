@@ -1,0 +1,81 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Autofahrer übersehen Radfahrer im Kreuzungsbereich Max-Braubachstraße/ Reichsstraße
+1-1	0-10	Autofahrer	_	
+1-2	11-20	übersehen	_	
+1-3	21-30	Radfahrer	_	
+1-4	31-33	im	*[5]	
+1-5	34-50	Kreuzungsbereich	*[5]	
+1-6	51-69	Max-Braubachstraße	*[5]	
+1-7	69-70	/	*[5]	
+1-8	71-83	Reichsstraße	*[5]	
+
+#Text=Morgens im Berufsverkehr haben Autofahrer auf der Max-Braubach-Straße Richtung Reichstraße im Kreuzungsbereich den Fokus vorwiegend auf den Autoverkehr der Reichstraße.
+2-1	86-93	Morgens	_	
+2-2	94-96	im	_	
+2-3	97-110	Berufsverkehr	_	
+2-4	111-116	haben	_	
+2-5	117-127	Autofahrer	_	
+2-6	128-131	auf	*[6]	
+2-7	132-135	der	*[6]	
+2-8	136-155	Max-Braubach-Straße	*[6]	
+2-9	156-164	Richtung	*[6]	
+2-10	165-176	Reichstraße	*[6]	
+2-11	177-179	im	*[6]	
+2-12	180-196	Kreuzungsbereich	*[6]	
+2-13	197-200	den	_	
+2-14	201-206	Fokus	_	
+2-15	207-217	vorwiegend	_	
+2-16	218-221	auf	_	
+2-17	222-225	den	_	
+2-18	226-237	Autoverkehr	_	
+2-19	238-241	der	_	
+2-20	242-253	Reichstraße	*	
+2-21	253-254	.	_	
+
+#Text=Radfahrer werden meistens missachtet und der Radweg ist meist ebenfalls nicht passierbar, da Autos auf Radweg warten, um sich in den Verkehr der Reichsstraße einzugliedern.
+3-1	255-264	Radfahrer	_	
+3-2	265-271	werden	_	
+3-3	272-280	meistens	_	
+3-4	281-291	missachtet	_	
+3-5	292-295	und	_	
+3-6	296-299	der	_	
+3-7	300-306	Radweg	_	
+3-8	307-310	ist	_	
+3-9	311-316	meist	_	
+3-10	317-326	ebenfalls	_	
+3-11	327-332	nicht	_	
+3-12	333-343	passierbar	_	
+3-13	343-344	,	_	
+3-14	345-347	da	_	
+3-15	348-353	Autos	_	
+3-16	354-357	auf	_	
+3-17	358-364	Radweg	_	
+3-18	365-371	warten	_	
+3-19	371-372	,	_	
+3-20	373-375	um	_	
+3-21	376-380	sich	_	
+3-22	381-383	in	_	
+3-23	384-387	den	_	
+3-24	388-395	Verkehr	_	
+3-25	396-399	der	_	
+3-26	400-412	Reichsstraße	_	
+3-27	413-426	einzugliedern	_	
+3-28	426-427	.	_	
+
+#Text=Stopschilder bzw gut sichtbare Markierungen & Warnschilder könnten hier helfen.
+4-1	428-440	Stopschilder	_	
+4-2	441-444	bzw	_	
+4-3	445-448	gut	_	
+4-4	449-458	sichtbare	_	
+4-5	459-471	Markierungen	_	
+4-6	472-473	&	_	
+4-7	474-486	Warnschilder	_	
+4-8	487-494	könnten	_	
+4-9	495-499	hier	_	
+4-10	500-506	helfen	_	
+4-11	506-507	.	_	

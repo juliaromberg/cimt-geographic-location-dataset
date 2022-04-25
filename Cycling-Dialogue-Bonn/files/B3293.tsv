@@ -1,0 +1,126 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Benutzungspflicht des Radwegs aufheben
+1-1	0-17	Benutzungspflicht	_	
+1-2	18-21	des	_	
+1-3	22-29	Radwegs	_	
+1-4	30-38	aufheben	_	
+
+#Text=Die Benutzungspflicht auf dem bergab führenden Stück entlang der Derlestraße bis zur Einmündung Auf der Urdel wurde irgendwann aufgehoben.
+2-1	41-44	Die	_	
+2-2	45-62	Benutzungspflicht	_	
+2-3	63-66	auf	_	
+2-4	67-70	dem	_	
+2-5	71-77	bergab	_	
+2-6	78-87	führenden	_	
+2-7	88-93	Stück	_	
+2-8	94-101	entlang	*[5]	
+2-9	102-105	der	*[5]	
+2-10	106-117	Derlestraße	*[5]	
+2-11	118-121	bis	*[5]	
+2-12	122-125	zur	*[5]	
+2-13	126-136	Einmündung	*[5]	
+2-14	137-140	Auf	*[5]	
+2-15	141-144	der	*[5]	
+2-16	145-150	Urdel	*[5]	
+2-17	151-156	wurde	_	
+2-18	157-167	irgendwann	_	
+2-19	168-178	aufgehoben	_	
+2-20	178-179	.	_	
+
+#Text=Ab dort soll man dann offenbar, schön mit Schwung den Berg runterrollend, einen scharfen Schwank nach rechts machen, den Bordstein hochpoltern und auf einem viel zu engen Stück angeblichem Radweg unmittelbar an den Ausgängen von Kneipen und Geschäften vorbei und durch geschmacklose schmiedeeiserne Poller-Ketten-Kombinationen von der Fahrbahn abgegrenzt weiter Richtung Norden fahren.
+3-1	180-182	Ab	_	
+3-2	183-187	dort	_	
+3-3	188-192	soll	_	
+3-4	193-196	man	_	
+3-5	197-201	dann	_	
+3-6	202-210	offenbar	_	
+3-7	210-211	,	_	
+3-8	212-217	schön	_	
+3-9	218-221	mit	_	
+3-10	222-229	Schwung	_	
+3-11	230-233	den	_	
+3-12	234-238	Berg	_	
+3-13	239-252	runterrollend	_	
+3-14	252-253	,	_	
+3-15	254-259	einen	_	
+3-16	260-268	scharfen	_	
+3-17	269-276	Schwank	_	
+3-18	277-281	nach	_	
+3-19	282-288	rechts	_	
+3-20	289-295	machen	_	
+3-21	295-296	,	_	
+3-22	297-300	den	_	
+3-23	301-310	Bordstein	_	
+3-24	311-322	hochpoltern	_	
+3-25	323-326	und	_	
+3-26	327-330	auf	_	
+3-27	331-336	einem	_	
+3-28	337-341	viel	_	
+3-29	342-344	zu	_	
+3-30	345-350	engen	_	
+3-31	351-356	Stück	_	
+3-32	357-368	angeblichem	_	
+3-33	369-375	Radweg	_	
+3-34	376-387	unmittelbar	_	
+3-35	388-390	an	_	
+3-36	391-394	den	_	
+3-37	395-404	Ausgängen	_	
+3-38	405-408	von	_	
+3-39	409-416	Kneipen	_	
+3-40	417-420	und	_	
+3-41	421-431	Geschäften	_	
+3-42	432-438	vorbei	_	
+3-43	439-442	und	_	
+3-44	443-448	durch	_	
+3-45	449-462	geschmacklose	_	
+3-46	463-478	schmiedeeiserne	_	
+3-47	479-506	Poller-Ketten-Kombinationen	_	
+3-48	507-510	von	_	
+3-49	511-514	der	_	
+3-50	515-523	Fahrbahn	_	
+3-51	524-534	abgegrenzt	_	
+3-52	535-541	weiter	_	
+3-53	542-550	Richtung	_	
+3-54	551-557	Norden	_	
+3-55	558-564	fahren	_	
+3-56	564-565	.	_	
+
+#Text=Das ist lebensgefärlich und weltfremd und wohl von Leuten angeordnet worden, die sich nicht vorstellen können, dass man mit einem Fahrrad auch schneller als 10 km/h fahren kann.
+4-1	566-569	Das	_	
+4-2	570-573	ist	_	
+4-3	574-589	lebensgefärlich	_	
+4-4	590-593	und	_	
+4-5	594-603	weltfremd	_	
+4-6	604-607	und	_	
+4-7	608-612	wohl	_	
+4-8	613-616	von	_	
+4-9	617-623	Leuten	_	
+4-10	624-634	angeordnet	_	
+4-11	635-641	worden	_	
+4-12	641-642	,	_	
+4-13	643-646	die	_	
+4-14	647-651	sich	_	
+4-15	652-657	nicht	_	
+4-16	658-668	vorstellen	_	
+4-17	669-675	können	_	
+4-18	675-676	,	_	
+4-19	677-681	dass	_	
+4-20	682-685	man	_	
+4-21	686-689	mit	_	
+4-22	690-695	einem	_	
+4-23	696-703	Fahrrad	_	
+4-24	704-708	auch	_	
+4-25	709-718	schneller	_	
+4-26	719-722	als	_	
+4-27	723-725	10	_	
+4-28	726-728	km	_	
+4-29	728-729	/	_	
+4-30	729-730	h	_	
+4-31	731-737	fahren	_	
+4-32	738-742	kann	_	
+4-33	742-743	.	_	

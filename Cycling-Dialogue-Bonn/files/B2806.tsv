@@ -1,0 +1,49 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bertha-von Suttner-Platz
+1-1	0-10	Bertha-von	*[4]	
+1-2	11-24	Suttner-Platz	*[4]	
+
+#Text=Der Radweg vom Bertha-von-Suttner-Platz Richtung Berliner Freiheit: Bei Tageslicht ist die Fahrradspur, die von Rechtsabbiegern Richtung Belderberg gekreuzt wird, für Radfahrer (und für PKWs) grenzwertig.
+2-1	27-30	Der	*[5]	
+2-2	31-37	Radweg	*[5]	
+2-3	38-41	vom	*[5]	
+2-4	42-66	Bertha-von-Suttner-Platz	*[5]	
+2-5	67-75	Richtung	*[5]	
+2-6	76-84	Berliner	*[5]	
+2-7	85-93	Freiheit	*[5]	
+2-8	93-94	:	_	
+2-9	95-98	Bei	_	
+2-10	99-109	Tageslicht	_	
+2-11	110-113	ist	_	
+2-12	114-117	die	_	
+2-13	118-129	Fahrradspur	_	
+2-14	129-130	,	_	
+2-15	131-134	die	_	
+2-16	135-138	von	*[6]	
+2-17	139-154	Rechtsabbiegern	*[6]	
+2-18	155-163	Richtung	*[6]	
+2-19	164-174	Belderberg	*[6]	
+2-20	175-183	gekreuzt	*[6]	
+2-21	184-188	wird	_	
+2-22	188-189	,	_	
+2-23	190-193	für	_	
+2-24	194-203	Radfahrer	_	
+2-25	204-205	(	_	
+2-26	205-208	und	_	
+2-27	209-212	für	_	
+2-28	213-217	PKWs	_	
+2-29	217-218	)	_	
+2-30	219-230	grenzwertig	_	
+2-31	230-231	.	_	
+
+#Text=Bei Dunkelheit sehr gefährlich!
+3-1	232-235	Bei	_	
+3-2	236-246	Dunkelheit	_	
+3-3	247-251	sehr	_	
+3-4	252-262	gefährlich	_	
+3-5	262-263	!	_	

@@ -1,0 +1,137 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Führung des Radweges auf der Straße kennzeichnen
+1-1	0-7	Führung	_	
+1-2	8-11	des	_	
+1-3	12-20	Radweges	_	
+1-4	21-24	auf	_	
+1-5	25-28	der	_	
+1-6	29-35	Straße	_	
+1-7	36-48	kennzeichnen	_	
+
+#Text=Die Führung der Radfahrer muss dringend auf der Straße gekennzeichnet werden, damit Autofahrer dies erkennen können.
+2-1	51-54	Die	_	
+2-2	55-62	Führung	_	
+2-3	63-66	der	_	
+2-4	67-76	Radfahrer	_	
+2-5	77-81	muss	_	
+2-6	82-90	dringend	_	
+2-7	91-94	auf	_	
+2-8	95-98	der	_	
+2-9	99-105	Straße	_	
+2-10	106-120	gekennzeichnet	_	
+2-11	121-127	werden	_	
+2-12	127-128	,	_	
+2-13	129-134	damit	_	
+2-14	135-145	Autofahrer	_	
+2-15	146-150	dies	_	
+2-16	151-159	erkennen	_	
+2-17	160-166	können	_	
+2-18	166-167	.	_	
+
+#Text=Wenn man von den Radwegen an der Bahnstrecke kommt und die auf dem Radweg der Marie-Kahle-Allee Richtung Kreisel fahren möchte muss man etwas abgesetzt auf den Radweg einfahren.
+3-1	168-172	Wenn	_	
+3-2	173-176	man	_	
+3-3	177-180	von	_	
+3-4	181-184	den	_	
+3-5	185-193	Radwegen	_	
+3-6	194-196	an	_	
+3-7	197-200	der	_	
+3-8	201-212	Bahnstrecke	_	
+3-9	213-218	kommt	_	
+3-10	219-222	und	_	
+3-11	223-226	die	_	
+3-12	227-230	auf	_	
+3-13	231-234	dem	_	
+3-14	235-241	Radweg	_	
+3-15	242-245	der	_	
+3-16	246-263	Marie-Kahle-Allee	_	
+3-17	264-272	Richtung	_	
+3-18	273-280	Kreisel	_	
+3-19	281-287	fahren	_	
+3-20	288-294	möchte	_	
+3-21	295-299	muss	_	
+3-22	300-303	man	_	
+3-23	304-309	etwas	_	
+3-24	310-319	abgesetzt	_	
+3-25	320-323	auf	_	
+3-26	324-327	den	_	
+3-27	328-334	Radweg	_	
+3-28	335-344	einfahren	_	
+3-29	344-345	.	_	
+
+#Text=Die Autofahrer auf der Baunscheidtstraße können aber nicht erkennen, wo man als Radfahrer hinmöchte: gibt man kein Handzeichen, denken diese, dass man geradeaus auf der Straße bleiben will, gibt man Handzeichen nach rechts, denken die Autofahrer, dass man in die Baunscheidtstraße einbiegen will.
+4-1	346-349	Die	_	
+4-2	350-360	Autofahrer	_	
+4-3	361-364	auf	*[6]	
+4-4	365-368	der	*[6]	
+4-5	369-386	Baunscheidtstraße	*[6]	
+4-6	387-393	können	_	
+4-7	394-398	aber	_	
+4-8	399-404	nicht	_	
+4-9	405-413	erkennen	_	
+4-10	413-414	,	_	
+4-11	415-417	wo	_	
+4-12	418-421	man	_	
+4-13	422-425	als	_	
+4-14	426-435	Radfahrer	_	
+4-15	436-445	hinmöchte	_	
+4-16	445-446	:	_	
+4-17	447-451	gibt	_	
+4-18	452-455	man	_	
+4-19	456-460	kein	_	
+4-20	461-472	Handzeichen	_	
+4-21	472-473	,	_	
+4-22	474-480	denken	_	
+4-23	481-486	diese	_	
+4-24	486-487	,	_	
+4-25	488-492	dass	_	
+4-26	493-496	man	_	
+4-27	497-506	geradeaus	_	
+4-28	507-510	auf	_	
+4-29	511-514	der	_	
+4-30	515-521	Straße	_	
+4-31	522-529	bleiben	_	
+4-32	530-534	will	_	
+4-33	534-535	,	_	
+4-34	536-540	gibt	_	
+4-35	541-544	man	_	
+4-36	545-556	Handzeichen	_	
+4-37	557-561	nach	_	
+4-38	562-568	rechts	_	
+4-39	568-569	,	_	
+4-40	570-576	denken	_	
+4-41	577-580	die	_	
+4-42	581-591	Autofahrer	_	
+4-43	591-592	,	_	
+4-44	593-597	dass	_	
+4-45	598-601	man	_	
+4-46	602-604	in	*[7]	
+4-47	605-608	die	*[7]	
+4-48	609-626	Baunscheidtstraße	*[7]	
+4-49	627-636	einbiegen	*[7]	
+4-50	637-641	will	_	
+4-51	641-642	.	_	
+
+#Text=Es gibt keine Möglichkeit, sich verständlich zu machen, dass man auf den Radweg will.
+5-1	643-645	Es	_	
+5-2	646-650	gibt	_	
+5-3	651-656	keine	_	
+5-4	657-668	Möglichkeit	_	
+5-5	668-669	,	_	
+5-6	670-674	sich	_	
+5-7	675-687	verständlich	_	
+5-8	688-690	zu	_	
+5-9	691-697	machen	_	
+5-10	697-698	,	_	
+5-11	699-703	dass	_	
+5-12	704-707	man	_	
+5-13	708-711	auf	_	
+5-14	712-715	den	_	
+5-15	716-722	Radweg	_	
+5-16	723-727	will	_	
+5-17	727-728	.	_	

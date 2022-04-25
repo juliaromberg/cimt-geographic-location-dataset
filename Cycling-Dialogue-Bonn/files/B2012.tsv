@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampel - Vorfahrt für Radfahrer
+1-1	0-5	Ampel	_	
+1-2	6-7	-	_	
+1-3	8-16	Vorfahrt	_	
+1-4	17-20	für	_	
+1-5	21-30	Radfahrer	_	
+
+#Text=An dieser Stelle muss man unglaublich lange warten bis man die Straße überqueren kann (Autobahnauffahrt und Straßenbahn).
+2-1	33-35	An	_	
+2-2	36-42	dieser	_	
+2-3	43-49	Stelle	_	
+2-4	50-54	muss	_	
+2-5	55-58	man	_	
+2-6	59-70	unglaublich	_	
+2-7	71-76	lange	_	
+2-8	77-83	warten	_	
+2-9	84-87	bis	_	
+2-10	88-91	man	_	
+2-11	92-95	die	_	
+2-12	96-102	Straße	_	
+2-13	103-113	überqueren	_	
+2-14	114-118	kann	_	
+2-15	119-120	(	_	
+2-16	120-136	Autobahnauffahrt	_	
+2-17	137-140	und	_	
+2-18	141-152	Straßenbahn	_	
+2-19	152-153	)	_	
+2-20	153-154	.	_	
+
+#Text=Radfahrer sollten hier die Grüne Welle vorrangig bekommen.
+3-1	155-164	Radfahrer	_	
+3-2	165-172	sollten	_	
+3-3	173-177	hier	_	
+3-4	178-181	die	_	
+3-5	182-187	Grüne	_	
+3-6	188-193	Welle	_	
+3-7	194-203	vorrangig	_	
+3-8	204-212	bekommen	_	
+3-9	212-213	.	_	

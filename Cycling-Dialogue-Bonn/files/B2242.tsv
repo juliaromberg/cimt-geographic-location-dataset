@@ -1,0 +1,43 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstrassen
+1-1	0-15	Fahrradstrassen	_	
+
+#Text=Ich habe den Eindruck, sowohl Auto als auch Fahrradfahern ist nicht ganz klar, was eine Fahrradstrasse bedeutet...
+2-1	18-21	Ich	_	
+2-2	22-26	habe	_	
+2-3	27-30	den	_	
+2-4	31-39	Eindruck	_	
+2-5	39-40	,	_	
+2-6	41-47	sowohl	_	
+2-7	48-52	Auto	_	
+2-8	53-56	als	_	
+2-9	57-61	auch	_	
+2-10	62-75	Fahrradfahern	_	
+2-11	76-79	ist	_	
+2-12	80-85	nicht	_	
+2-13	86-90	ganz	_	
+2-14	91-95	klar	_	
+2-15	95-96	,	_	
+2-16	97-100	was	_	
+2-17	101-105	eine	_	
+2-18	106-120	Fahrradstrasse	_	
+2-19	121-129	bedeutet	_	
+2-20	129-130	.	_	
+2-21	130-131	.	_	
+2-22	131-132	.	_	
+
+#Text=Ich glaube, Suggestiv-Streifen helfen eher...
+3-1	133-136	Ich	_	
+3-2	137-143	glaube	_	
+3-3	143-144	,	_	
+3-4	145-163	Suggestiv-Streifen	_	
+3-5	164-170	helfen	_	
+3-6	171-175	eher	_	
+3-7	175-176	.	_	
+3-8	176-177	.	_	
+3-9	177-178	.	_	

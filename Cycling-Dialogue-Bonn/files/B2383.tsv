@@ -1,0 +1,27 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Falschparker auf Radweg
+1-1	0-12	Falschparker	_	
+1-2	13-16	auf	_	
+1-3	17-23	Radweg	_	
+
+#Text=Mal eben nur zur Apotheke!
+2-1	26-29	Mal	_	
+2-2	30-34	eben	_	
+2-3	35-38	nur	_	
+2-4	39-42	zur	_	
+2-5	43-51	Apotheke	_	
+2-6	51-52	!	_	
+
+#Text=Immer wieder entstehen hier gefährliche Situationen.
+3-1	53-58	Immer	_	
+3-2	59-65	wieder	_	
+3-3	66-75	entstehen	_	
+3-4	76-80	hier	_	
+3-5	81-92	gefährliche	_	
+3-6	93-104	Situationen	_	
+3-7	104-105	.	_	

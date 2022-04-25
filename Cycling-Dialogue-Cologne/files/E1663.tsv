@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+#FORMAT=WebAnno TSV 3.2			_	
+#T_SP=webanno.custom.Typ|Name			_	
+#T_SP=webanno.custom.Verortung|			_	
+			_	
+			_	
+#Text=Bordsteine absenken				
+1-1	0-10	Bordsteine	_	_
+1-2	11-19	absenken	_	_
+			_	
+#Text=Um Felgen schonend die Takustraße zu überqueren, ist man als Radfahrer fast gezwungen den Fußgängerüberweg zu benutzen.				
+2-1	22-24	Um	_	_
+2-2	25-31	Felgen	_	_
+2-3	32-40	schonend	_	_
+2-4	41-44	die	_	*[5]
+2-5	45-55	Takustraße	_	*[5]
+2-6	56-58	zu	_	*[5]
+2-7	59-69	überqueren	_	*[5]
+2-8	69-70	,	_	_
+2-9	71-74	ist	_	_
+2-10	75-78	man	_	_
+2-11	79-82	als	_	_
+2-12	83-92	Radfahrer	_	_
+2-13	93-97	fast	_	_
+2-14	98-107	gezwungen	_	_
+2-15	108-111	den	_	_
+2-16	112-128	Fußgängerüberweg	_	_
+2-17	129-131	zu	_	_
+2-18	132-140	benutzen	_	_
+2-19	140-141	.	_	_
+			_	
+#Text=Das kann natürlich nicht Sinn der Sache sein.				
+3-1	142-145	Das	_	_
+3-2	146-150	kann	_	_
+3-3	151-160	natürlich	_	_
+3-4	161-166	nicht	_	_
+3-5	167-171	Sinn	_	_
+3-6	172-175	der	_	_
+3-7	176-181	Sache	_	_
+3-8	182-186	sein	_	_
+3-9	186-187	.	_	_
+			_	
+#Text=Sowohl am Ein- und Ausgang des Parks, als auch gegenüber sollten die Bordsteine abgesenkt werden.				
+4-1	188-194	Sowohl	_	_
+4-2	195-197	am	_	_
+4-3	198-201	Ein	_	_
+4-4	201-202	-	_	_
+4-5	203-206	und	_	_
+4-6	207-214	Ausgang	_	_
+4-7	215-218	des	_	_
+4-8	219-224	Parks	_	_
+4-9	224-225	,	_	_
+4-10	226-229	als	_	_
+4-11	230-234	auch	_	_
+4-12	235-244	gegenüber	_	_
+4-13	245-252	sollten	_	_
+4-14	253-256	die	_	_
+4-15	257-267	Bordsteine	_	_
+4-16	268-277	abgesenkt	_	_
+4-17	278-284	werden	_	_
+4-18	284-285	.	_	_

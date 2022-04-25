@@ -1,0 +1,144 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Blinkende Fahrradbeleuchtung
+1-1	0-9	Blinkende	_	
+1-2	10-28	Fahrradbeleuchtung	_	
+
+#Text=Immer wieder sehe ich blinkende Fahrradbeleuchtung, diese finde ich ziemlich irritierend.
+2-1	31-36	Immer	_	
+2-2	37-43	wieder	_	
+2-3	44-48	sehe	_	
+2-4	49-52	ich	_	
+2-5	53-62	blinkende	_	
+2-6	63-81	Fahrradbeleuchtung	_	
+2-7	81-82	,	_	
+2-8	83-88	diese	_	
+2-9	89-94	finde	_	
+2-10	95-98	ich	_	
+2-11	99-107	ziemlich	_	
+2-12	108-119	irritierend	_	
+2-13	119-120	.	_	
+
+#Text=Zum einen kann ich die Geschwindigkeit eines blinkenden Leuchtens deutlich schlechter einschätzen als ein kontinuierliches Leuchten.
+3-1	121-124	Zum	_	
+3-2	125-130	einen	_	
+3-3	131-135	kann	_	
+3-4	136-139	ich	_	
+3-5	140-143	die	_	
+3-6	144-159	Geschwindigkeit	_	
+3-7	160-165	eines	_	
+3-8	166-176	blinkenden	_	
+3-9	177-186	Leuchtens	_	
+3-10	187-195	deutlich	_	
+3-11	196-206	schlechter	_	
+3-12	207-218	einschätzen	_	
+3-13	219-222	als	_	
+3-14	223-226	ein	_	
+3-15	227-243	kontinuierliches	_	
+3-16	244-252	Leuchten	_	
+3-17	252-253	.	_	
+
+#Text=Zum anderen zieht es meine eigene Aufmerksamkeit vom restlichen Verkehrsgeschehen übermäßig ab.
+4-1	254-257	Zum	_	
+4-2	258-265	anderen	_	
+4-3	266-271	zieht	_	
+4-4	272-274	es	_	
+4-5	275-280	meine	_	
+4-6	281-287	eigene	_	
+4-7	288-302	Aufmerksamkeit	_	
+4-8	303-306	vom	_	
+4-9	307-317	restlichen	_	
+4-10	318-335	Verkehrsgeschehen	_	
+4-11	336-345	übermäßig	_	
+4-12	346-348	ab	_	
+4-13	348-349	.	_	
+
+#Text=Und zuletzt sehe ich auch einfach schlechter, wenn ich in dem Kegel eines Stroboskobs fahren muss.
+5-1	350-353	Und	_	
+5-2	354-361	zuletzt	_	
+5-3	362-366	sehe	_	
+5-4	367-370	ich	_	
+5-5	371-375	auch	_	
+5-6	376-383	einfach	_	
+5-7	384-394	schlechter	_	
+5-8	394-395	,	_	
+5-9	396-400	wenn	_	
+5-10	401-404	ich	_	
+5-11	405-407	in	_	
+5-12	408-411	dem	_	
+5-13	412-417	Kegel	_	
+5-14	418-423	eines	_	
+5-15	424-435	Stroboskobs	_	
+5-16	436-442	fahren	_	
+5-17	443-447	muss	_	
+5-18	447-448	.	_	
+
+#Text=Ich kann den Wunsch der Nutzer verstehen, dass sie besonders gut gesehen wollen werden.
+6-1	449-452	Ich	_	
+6-2	453-457	kann	_	
+6-3	458-461	den	_	
+6-4	462-468	Wunsch	_	
+6-5	469-472	der	_	
+6-6	473-479	Nutzer	_	
+6-7	480-489	verstehen	_	
+6-8	489-490	,	_	
+6-9	491-495	dass	_	
+6-10	496-499	sie	_	
+6-11	500-509	besonders	_	
+6-12	510-513	gut	_	
+6-13	514-521	gesehen	_	
+6-14	522-528	wollen	_	
+6-15	529-535	werden	_	
+6-16	535-536	.	_	
+
+#Text=Jedoch halte ich eine ausreichend helle, kontinuierlich leuchtende Beleuchtung für sinnvoller.
+7-1	537-543	Jedoch	_	
+7-2	544-549	halte	_	
+7-3	550-553	ich	_	
+7-4	554-558	eine	_	
+7-5	559-570	ausreichend	_	
+7-6	571-576	helle	_	
+7-7	576-577	,	_	
+7-8	578-592	kontinuierlich	_	
+7-9	593-603	leuchtende	_	
+7-10	604-615	Beleuchtung	_	
+7-11	616-619	für	_	
+7-12	620-630	sinnvoller	_	
+7-13	630-631	.	_	
+
+#Text=Außerdem ist es in der StVO genauso geregelt.
+8-1	632-640	Außerdem	_	
+8-2	641-644	ist	_	
+8-3	645-647	es	_	
+8-4	648-650	in	_	
+8-5	651-654	der	_	
+8-6	655-659	StVO	_	
+8-7	660-667	genauso	_	
+8-8	668-676	geregelt	_	
+8-9	676-677	.	_	
+
+#Text=Hier würde ich mir wünschen, dass diese blinkenden Leuchten entsprechend geahndet werden, damit kein Wettrüsten provoziert wird.
+9-1	678-682	Hier	_	
+9-2	683-688	würde	_	
+9-3	689-692	ich	_	
+9-4	693-696	mir	_	
+9-5	697-705	wünschen	_	
+9-6	705-706	,	_	
+9-7	707-711	dass	_	
+9-8	712-717	diese	_	
+9-9	718-728	blinkenden	_	
+9-10	729-737	Leuchten	_	
+9-11	738-750	entsprechend	_	
+9-12	751-759	geahndet	_	
+9-13	760-766	werden	_	
+9-14	766-767	,	_	
+9-15	768-773	damit	_	
+9-16	774-778	kein	_	
+9-17	779-789	Wettrüsten	_	
+9-18	790-800	provoziert	_	
+9-19	801-805	wird	_	
+9-20	805-806	.	_	

@@ -1,0 +1,202 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegemarkierung erzeugt falsche Erwartungen bei Autofahrern und führt zu gefährlichen Situationen
+1-1	0-17	Radwegemarkierung	_	
+1-2	18-25	erzeugt	_	
+1-3	26-33	falsche	_	
+1-4	34-45	Erwartungen	_	
+1-5	46-49	bei	_	
+1-6	50-61	Autofahrern	_	
+1-7	62-65	und	_	
+1-8	66-71	führt	_	
+1-9	72-74	zu	_	
+1-10	75-87	gefährlichen	_	
+1-11	88-99	Situationen	_	
+
+#Text=Von der Ollenhauerstraße kommend in Richtung Christian-Miesen-Str. wird der Radweg auf einem Radstreifen geführt.
+2-1	102-105	Von	*[9]	
+2-2	106-109	der	*[9]	
+2-3	110-126	Ollenhauerstraße	*[9]	
+2-4	127-134	kommend	*[9]	
+2-5	135-137	in	*[9]	
+2-6	138-146	Richtung	*[9]	
+2-7	147-167	Christian-Miesen-Str	*[9]	
+2-8	167-168	.	*[9]	
+2-9	169-173	wird	_	
+2-10	174-177	der	_	
+2-11	178-184	Radweg	_	
+2-12	185-188	auf	_	
+2-13	189-194	einem	_	
+2-14	195-206	Radstreifen	_	
+2-15	207-214	geführt	_	
+2-16	214-215	.	_	
+
+#Text=An der Christian-Miesen-Str. führt die Markierung auf den Fußweg, der für die Radbenutzung freigegeben ist.
+3-1	216-218	An	*[10]	
+3-2	219-222	der	*[10]	
+3-3	223-243	Christian-Miesen-Str	*[10]	
+3-4	243-244	.	*[10]	
+3-5	245-250	führt	_	
+3-6	251-254	die	_	
+3-7	255-265	Markierung	_	
+3-8	266-269	auf	_	
+3-9	270-273	den	_	
+3-10	274-280	Fußweg	_	
+3-11	280-281	,	_	
+3-12	282-285	der	_	
+3-13	286-289	für	_	
+3-14	290-293	die	_	
+3-15	294-306	Radbenutzung	_	
+3-16	307-318	freigegeben	_	
+3-17	319-322	ist	_	
+3-18	322-323	.	_	
+
+#Text=Dies führt regelmäßig zu gefährlichen Situationen, weil die meisten Radfahrer stattdessen die Straße benutzen, die Autofahrer aber wegen der Markierung erwarten, dass die Radfahrer den Fußweg benutzen werden.
+4-1	324-328	Dies	_	
+4-2	329-334	führt	_	
+4-3	335-345	regelmäßig	_	
+4-4	346-348	zu	_	
+4-5	349-361	gefährlichen	_	
+4-6	362-373	Situationen	_	
+4-7	373-374	,	_	
+4-8	375-379	weil	_	
+4-9	380-383	die	_	
+4-10	384-391	meisten	_	
+4-11	392-401	Radfahrer	_	
+4-12	402-413	stattdessen	_	
+4-13	414-417	die	_	
+4-14	418-424	Straße	_	
+4-15	425-433	benutzen	_	
+4-16	433-434	,	_	
+4-17	435-438	die	_	
+4-18	439-449	Autofahrer	_	
+4-19	450-454	aber	_	
+4-20	455-460	wegen	_	
+4-21	461-464	der	_	
+4-22	465-475	Markierung	_	
+4-23	476-484	erwarten	_	
+4-24	484-485	,	_	
+4-25	486-490	dass	_	
+4-26	491-494	die	_	
+4-27	495-504	Radfahrer	_	
+4-28	505-508	den	_	
+4-29	509-515	Fußweg	_	
+4-30	516-524	benutzen	_	
+4-31	525-531	werden	_	
+4-32	531-532	.	_	
+
+#Text=Gleichzeit verjüngt sich die Fahrbahn, weil der Fahrradstreifen wegfällt und Parkbuchten markiert sind.
+5-1	533-543	Gleichzeit	_	
+5-2	544-552	verjüngt	_	
+5-3	553-557	sich	_	
+5-4	558-561	die	_	
+5-5	562-570	Fahrbahn	_	
+5-6	570-571	,	_	
+5-7	572-576	weil	_	
+5-8	577-580	der	_	
+5-9	581-596	Fahrradstreifen	_	
+5-10	597-605	wegfällt	_	
+5-11	606-609	und	_	
+5-12	610-621	Parkbuchten	_	
+5-13	622-630	markiert	_	
+5-14	631-635	sind	_	
+5-15	635-636	.	_	
+
+#Text=Es sollte die Markierung des Radstreifens Richtung Fußweg entfernt werden und stattdessen so auf die Fahrbahn geführt werden, dass dem Autoverkehr klar wird, dass es sich hier um eine Engstelle handelt, bei der der Fahrrad- und Autoverkehr zusammengeführt werden.
+6-1	637-639	Es	_	
+6-2	640-646	sollte	_	
+6-3	647-650	die	_	
+6-4	651-661	Markierung	_	
+6-5	662-665	des	_	
+6-6	666-678	Radstreifens	_	
+6-7	679-687	Richtung	_	
+6-8	688-694	Fußweg	_	
+6-9	695-703	entfernt	_	
+6-10	704-710	werden	_	
+6-11	711-714	und	_	
+6-12	715-726	stattdessen	_	
+6-13	727-729	so	_	
+6-14	730-733	auf	_	
+6-15	734-737	die	_	
+6-16	738-746	Fahrbahn	_	
+6-17	747-754	geführt	_	
+6-18	755-761	werden	_	
+6-19	761-762	,	_	
+6-20	763-767	dass	_	
+6-21	768-771	dem	_	
+6-22	772-783	Autoverkehr	_	
+6-23	784-788	klar	_	
+6-24	789-793	wird	_	
+6-25	793-794	,	_	
+6-26	795-799	dass	_	
+6-27	800-802	es	_	
+6-28	803-807	sich	_	
+6-29	808-812	hier	_	
+6-30	813-815	um	_	
+6-31	816-820	eine	_	
+6-32	821-830	Engstelle	_	
+6-33	831-838	handelt	_	
+6-34	838-839	,	_	
+6-35	840-843	bei	_	
+6-36	844-847	der	_	
+6-37	848-851	der	_	
+6-38	852-859	Fahrrad	_	
+6-39	859-860	-	_	
+6-40	861-864	und	_	
+6-41	865-876	Autoverkehr	_	
+6-42	877-892	zusammengeführt	_	
+6-43	893-899	werden	_	
+6-44	899-900	.	_	
+
+#Text=Weiterhin sollte im weiteren Verlauf der Dottendorfer Str. die Markierung des Mittelstreifens entfernt werden und ein Fahrradschutzstreifen markiert werden, der bei der Hausnummer 95 in den vorhandenen Schutzstreifen einmündet.
+7-1	901-910	Weiterhin	_	
+7-2	911-917	sollte	_	
+7-3	918-920	im	_	
+7-4	921-929	weiteren	_	
+7-5	930-937	Verlauf	_	
+7-6	938-941	der	_	
+7-7	942-954	Dottendorfer	*[11]	
+7-8	955-958	Str	*[11]	
+7-9	958-959	.	*[11]	
+7-10	960-963	die	_	
+7-11	964-974	Markierung	_	
+7-12	975-978	des	_	
+7-13	979-994	Mittelstreifens	_	
+7-14	995-1003	entfernt	_	
+7-15	1004-1010	werden	_	
+7-16	1011-1014	und	_	
+7-17	1015-1018	ein	_	
+7-18	1019-1040	Fahrradschutzstreifen	_	
+7-19	1041-1049	markiert	_	
+7-20	1050-1056	werden	_	
+7-21	1056-1057	,	_	
+7-22	1058-1061	der	_	
+7-23	1062-1065	bei	_	
+7-24	1066-1069	der	_	
+7-25	1070-1080	Hausnummer	_	
+7-26	1081-1083	95	_	
+7-27	1084-1086	in	_	
+7-28	1087-1090	den	_	
+7-29	1091-1102	vorhandenen	_	
+7-30	1103-1117	Schutzstreifen	_	
+7-31	1118-1127	einmündet	_	
+7-32	1127-1128	.	_	
+
+#Text=Im restlichen Verlauf der Dottendorfer Str. wurde der Mittelstreifen bereits entfernt.
+8-1	1129-1131	Im	_	
+8-2	1132-1142	restlichen	_	
+8-3	1143-1150	Verlauf	_	
+8-4	1151-1154	der	_	
+8-5	1155-1167	Dottendorfer	*[12]	
+8-6	1168-1171	Str	*[12]	
+8-7	1171-1172	.	*[12]	
+8-8	1173-1178	wurde	_	
+8-9	1179-1182	der	_	
+8-10	1183-1197	Mittelstreifen	_	
+8-11	1198-1205	bereits	_	
+8-12	1206-1214	entfernt	_	
+8-13	1214-1215	.	_	

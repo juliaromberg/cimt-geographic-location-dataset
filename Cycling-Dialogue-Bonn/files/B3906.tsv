@@ -1,0 +1,20 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=RADWEG
+1-1	0-6	RADWEG	_	
+
+#Text=Radwegbenutzung auf dem Gehweg ausweisen und dafür Parkplätze entfallen lassen
+2-1	9-24	Radwegbenutzung	_	
+2-2	25-28	auf	_	
+2-3	29-32	dem	_	
+2-4	33-39	Gehweg	_	
+2-5	40-49	ausweisen	_	
+2-6	50-53	und	_	
+2-7	54-59	dafür	_	
+2-8	60-70	Parkplätze	_	
+2-9	71-80	entfallen	_	
+2-10	81-87	lassen	_	

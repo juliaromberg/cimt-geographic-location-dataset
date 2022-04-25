@@ -1,0 +1,46 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zweirichtungsradweg viel zu eng.
+1-1	0-19	Zweirichtungsradweg	_	
+1-2	20-24	viel	_	
+1-3	25-27	zu	_	
+1-4	28-31	eng	_	
+1-5	31-32	.	_	
+
+#Text=Zwei Radfahrer mit Anhänger kommen hier kaum aneinander vorbei.
+2-1	33-37	Zwei	_	
+2-2	38-47	Radfahrer	_	
+2-3	48-51	mit	_	
+2-4	52-60	Anhänger	_	
+2-5	61-67	kommen	_	
+2-6	68-72	hier	_	
+2-7	73-77	kaum	_	
+2-8	78-88	aneinander	_	
+2-9	89-95	vorbei	_	
+2-10	95-96	.	_	
+
+#Text=Parkplätze auf der Südseite entfernen und dort einen Radfahrsteifen Richtung Zentrum markieren
+3-1	97-107	Parkplätze	_	
+3-2	108-111	auf	_	
+3-3	112-115	der	_	
+3-4	116-124	Südseite	_	
+3-5	125-134	entfernen	_	
+3-6	135-138	und	_	
+3-7	139-143	dort	_	
+3-8	144-149	einen	_	
+3-9	150-164	Radfahrsteifen	_	
+3-10	165-173	Richtung	*[5]	
+3-11	174-181	Zentrum	*[5]	
+3-12	182-191	markieren	_	
+
+#Text=Zu allerest: Benutzungspflicht aufheben.
+4-1	194-196	Zu	_	
+4-2	197-205	allerest	_	
+4-3	205-206	:	_	
+4-4	207-224	Benutzungspflicht	_	
+4-5	225-233	aufheben	_	
+4-6	233-234	.	_	

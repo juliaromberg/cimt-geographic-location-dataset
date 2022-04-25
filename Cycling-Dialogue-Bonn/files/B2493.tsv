@@ -1,0 +1,105 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Radfahrführung
+1-1	0-11	Gefährliche	_	
+1-2	12-26	Radfahrführung	_	
+
+#Text=Wenn man als Radfahrer aus der Dorotheenstraße aus dem Nordwesten kommt und den Kaiser-Karl-Ring kreuzen möchte, um geradeaus weiter in die Dorotheenstraße Richtung Südosten hineinzufahren, kommt es immer wieder zu gefährlichen Situationen.
+2-1	29-33	Wenn	_	
+2-2	34-37	man	_	
+2-3	38-41	als	_	
+2-4	42-51	Radfahrer	_	
+2-5	52-55	aus	*[5]	
+2-6	56-59	der	*[5]	
+2-7	60-75	Dorotheenstraße	*[5]	
+2-8	76-79	aus	*[5]	
+2-9	80-83	dem	*[5]	
+2-10	84-94	Nordwesten	*[5]	
+2-11	95-100	kommt	*[5]	
+2-12	101-104	und	*[5]	
+2-13	105-108	den	*[5]	
+2-14	109-125	Kaiser-Karl-Ring	*[5]	
+2-15	126-133	kreuzen	*[5]	
+2-16	134-140	möchte	_	
+2-17	140-141	,	_	
+2-18	142-144	um	_	
+2-19	145-154	geradeaus	*[6]	
+2-20	155-161	weiter	*[6]	
+2-21	162-164	in	*[6]	
+2-22	165-168	die	*[6]	
+2-23	169-184	Dorotheenstraße	*[6]	
+2-24	185-193	Richtung	*[6]	
+2-25	194-202	Südosten	*[6]	
+2-26	203-217	hineinzufahren	*[6]	
+2-27	217-218	,	_	
+2-28	219-224	kommt	_	
+2-29	225-227	es	_	
+2-30	228-233	immer	_	
+2-31	234-240	wieder	_	
+2-32	241-243	zu	_	
+2-33	244-256	gefährlichen	_	
+2-34	257-268	Situationen	_	
+2-35	268-269	.	_	
+
+#Text=Dies liegt daran, dass die meisten Autofahrer, die aus dem Gegenverkehr der Dorotheenstraße kommen und links in den Kaiser-Karl-Ring abbiegen möchten, nicht damit rechnen, dass von vorne aus der Einbahnstraße Radfahrer aus dem Gegenverkehr kommen können und Vorfahrt haben.
+3-1	270-274	Dies	_	
+3-2	275-280	liegt	_	
+3-3	281-286	daran	_	
+3-4	286-287	,	_	
+3-5	288-292	dass	_	
+3-6	293-296	die	_	
+3-7	297-304	meisten	_	
+3-8	305-315	Autofahrer	_	
+3-9	315-316	,	_	
+3-10	317-320	die	_	
+3-11	321-324	aus	_	
+3-12	325-328	dem	_	
+3-13	329-341	Gegenverkehr	_	
+3-14	342-345	der	_	
+3-15	346-361	Dorotheenstraße	*	
+3-16	362-368	kommen	_	
+3-17	369-372	und	_	
+3-18	373-378	links	*[7]	
+3-19	379-381	in	*[7]	
+3-20	382-385	den	*[7]	
+3-21	386-402	Kaiser-Karl-Ring	*[7]	
+3-22	403-411	abbiegen	*[7]	
+3-23	412-419	möchten	_	
+3-24	419-420	,	_	
+3-25	421-426	nicht	_	
+3-26	427-432	damit	_	
+3-27	433-440	rechnen	_	
+3-28	440-441	,	_	
+3-29	442-446	dass	_	
+3-30	447-450	von	_	
+3-31	451-456	vorne	_	
+3-32	457-460	aus	_	
+3-33	461-464	der	_	
+3-34	465-478	Einbahnstraße	_	
+3-35	479-488	Radfahrer	_	
+3-36	489-492	aus	_	
+3-37	493-496	dem	_	
+3-38	497-509	Gegenverkehr	_	
+3-39	510-516	kommen	_	
+3-40	517-523	können	_	
+3-41	524-527	und	_	
+3-42	528-536	Vorfahrt	_	
+3-43	537-542	haben	_	
+3-44	542-543	.	_	
+
+#Text=Hier sollte ein orangenes Blinklicht auf den möglichen Radverkehr hinweisen.
+4-1	544-548	Hier	_	
+4-2	549-555	sollte	_	
+4-3	556-559	ein	_	
+4-4	560-569	orangenes	_	
+4-5	570-580	Blinklicht	_	
+4-6	581-584	auf	_	
+4-7	585-588	den	_	
+4-8	589-598	möglichen	_	
+4-9	599-609	Radverkehr	_	
+4-10	610-619	hinweisen	_	
+4-11	619-620	.	_	

@@ -1,0 +1,103 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampelschaltung Auffahrt Reuterstraße
+1-1	0-14	Ampelschaltung	_	
+1-2	15-23	Auffahrt	*[7]	
+1-3	24-36	Reuterstraße	*[7]	
+
+#Text=Die Fußgänger- und Radfahrampel auf der Verkehrsinsel zwischen Adenauer-Denkmal und Reuterstr. in Richtung Reuterstraße/Bushaltestelle Bundeskanzlerplatz wird gleichzeitig mit der Autoampel grün.
+2-1	39-42	Die	_	
+2-2	43-52	Fußgänger	_	
+2-3	52-53	-	_	
+2-4	54-57	und	_	
+2-5	58-70	Radfahrampel	_	
+2-6	71-74	auf	_	
+2-7	75-78	der	_	
+2-8	79-92	Verkehrsinsel	_	
+2-9	93-101	zwischen	*[8]	
+2-10	102-118	Adenauer-Denkmal	*[8]	
+2-11	119-122	und	*[8]	
+2-12	123-132	Reuterstr	*[8]	
+2-13	132-133	.	*[8]	
+2-14	134-136	in	*[8]	
+2-15	137-145	Richtung	*[8]	
+2-16	146-158	Reuterstraße	*[8]	
+2-17	158-159	/	*[8]	
+2-18	159-173	Bushaltestelle	*[8]	
+2-19	174-192	Bundeskanzlerplatz	*[8]	
+2-20	193-197	wird	_	
+2-21	198-210	gleichzeitig	_	
+2-22	211-214	mit	_	
+2-23	215-218	der	_	
+2-24	219-228	Autoampel	_	
+2-25	229-233	grün	_	
+2-26	233-234	.	_	
+
+#Text=Von der Verkehrsinsel wird der Radverkehr auf die Straße geführt.
+3-1	235-238	Von	_	
+3-2	239-242	der	_	
+3-3	243-256	Verkehrsinsel	_	
+3-4	257-261	wird	_	
+3-5	262-265	der	_	
+3-6	266-276	Radverkehr	_	
+3-7	277-280	auf	_	
+3-8	281-284	die	_	
+3-9	285-291	Straße	_	
+3-10	292-299	geführt	_	
+3-11	299-300	.	_	
+
+#Text=Durch die Ampelschaltung schwenkt man als Radler auf die Fahrbahn gerade wenn auch die Autos kommen.
+4-1	301-306	Durch	_	
+4-2	307-310	die	_	
+4-3	311-325	Ampelschaltung	_	
+4-4	326-334	schwenkt	_	
+4-5	335-338	man	_	
+4-6	339-342	als	_	
+4-7	343-349	Radler	_	
+4-8	350-353	auf	_	
+4-9	354-357	die	_	
+4-10	358-366	Fahrbahn	_	
+4-11	367-373	gerade	_	
+4-12	374-378	wenn	_	
+4-13	379-383	auch	_	
+4-14	384-387	die	_	
+4-15	388-393	Autos	_	
+4-16	394-400	kommen	_	
+4-17	400-401	.	_	
+
+#Text=Das ist gerade im Dunkeln gefährlich und macht einfach Angst.
+5-1	402-405	Das	_	
+5-2	406-409	ist	_	
+5-3	410-416	gerade	_	
+5-4	417-419	im	_	
+5-5	420-427	Dunkeln	_	
+5-6	428-438	gefährlich	_	
+5-7	439-442	und	_	
+5-8	443-448	macht	_	
+5-9	449-456	einfach	_	
+5-10	457-462	Angst	_	
+5-11	462-463	.	_	
+
+#Text=Könnte die Radfahrampel nicht 3 Sekunden vor den Autofahrern grün bekommen, um die Situation zu entschärfen?
+6-1	464-470	Könnte	_	
+6-2	471-474	die	_	
+6-3	475-487	Radfahrampel	_	
+6-4	488-493	nicht	_	
+6-5	494-495	3	_	
+6-6	496-504	Sekunden	_	
+6-7	505-508	vor	_	
+6-8	509-512	den	_	
+6-9	513-524	Autofahrern	_	
+6-10	525-529	grün	_	
+6-11	530-538	bekommen	_	
+6-12	538-539	,	_	
+6-13	540-542	um	_	
+6-14	543-546	die	_	
+6-15	547-556	Situation	_	
+6-16	557-559	zu	_	
+6-17	560-571	entschärfen	_	
+6-18	571-572	?	_	

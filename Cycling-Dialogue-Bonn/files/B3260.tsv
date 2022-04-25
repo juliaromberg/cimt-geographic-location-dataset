@@ -1,0 +1,51 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Welcher Bedarfsschalter für welche Richtung?
+1-1	0-7	Welcher	_	
+1-2	8-23	Bedarfsschalter	_	
+1-3	24-27	für	_	
+1-4	28-34	welche	_	
+1-5	35-43	Richtung	_	
+1-6	43-44	?	_	
+
+#Text=An der Ampel sind 2 Bedarfsschalter für die Anforderung Grün /Signal kommt an der der Ampel angebracht.
+2-1	47-49	An	_	
+2-2	50-53	der	_	
+2-3	54-59	Ampel	_	
+2-4	60-64	sind	_	
+2-5	65-66	2	_	
+2-6	67-82	Bedarfsschalter	_	
+2-7	83-86	für	_	
+2-8	87-90	die	_	
+2-9	91-102	Anforderung	_	
+2-10	103-107	Grün	_	
+2-11	108-109	/	_	
+2-12	109-115	Signal	_	
+2-13	116-121	kommt	_	
+2-14	122-124	an	_	
+2-15	125-128	der	_	
+2-16	129-132	der	_	
+2-17	133-138	Ampel	_	
+2-18	139-149	angebracht	_	
+2-19	149-150	.	_	
+
+#Text=Welcher ist denn für welchen Übergang?
+3-1	151-158	Welcher	_	
+3-2	159-162	ist	_	
+3-3	163-167	denn	_	
+3-4	168-171	für	_	
+3-5	172-179	welchen	_	
+3-6	180-188	Übergang	_	
+3-7	188-189	?	_	
+
+#Text=Da gibt es 2 Möglichkeiten.
+4-1	190-192	Da	_	
+4-2	193-197	gibt	_	
+4-3	198-200	es	_	
+4-4	201-202	2	_	
+4-5	203-216	Möglichkeiten	_	
+4-6	216-217	.	_	

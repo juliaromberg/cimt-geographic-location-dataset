@@ -1,0 +1,54 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Linksabbieger aus Richtung Viktoriabrücke
+1-1	0-13	Linksabbieger	_	
+1-2	14-17	aus	*[3]	
+1-3	18-26	Richtung	*[3]	
+1-4	27-41	Viktoriabrücke	*[3]	
+
+#Text=Bei der Verkehrsführung aus Richtung Viktoriabrücke gibt es keine Verkehrsführung für Radfahre, die nach links in die Bornheimer Straße abbiegen möchten (derzeit auf Grund der Baustelle nicht akut, sobald Radfahrer wieder auf der Straße fahren dürfen).
+2-1	44-47	Bei	_	
+2-2	48-51	der	_	
+2-3	52-67	Verkehrsführung	_	
+2-4	68-71	aus	*[4]	
+2-5	72-80	Richtung	*[4]	
+2-6	81-95	Viktoriabrücke	*[4]	
+2-7	96-100	gibt	_	
+2-8	101-103	es	_	
+2-9	104-109	keine	_	
+2-10	110-125	Verkehrsführung	_	
+2-11	126-129	für	_	
+2-12	130-138	Radfahre	_	
+2-13	138-139	,	_	
+2-14	140-143	die	_	
+2-15	144-148	nach	_	
+2-16	149-154	links	*[5]	
+2-17	155-157	in	*[5]	
+2-18	158-161	die	*[5]	
+2-19	162-172	Bornheimer	*[5]	
+2-20	173-179	Straße	*[5]	
+2-21	180-188	abbiegen	*[5]	
+2-22	189-196	möchten	_	
+2-23	197-198	(	_	
+2-24	198-205	derzeit	_	
+2-25	206-209	auf	_	
+2-26	210-215	Grund	_	
+2-27	216-219	der	_	
+2-28	220-229	Baustelle	_	
+2-29	230-235	nicht	_	
+2-30	236-240	akut	_	
+2-31	240-241	,	_	
+2-32	242-248	sobald	_	
+2-33	249-258	Radfahrer	_	
+2-34	259-265	wieder	_	
+2-35	266-269	auf	_	
+2-36	270-273	der	_	
+2-37	274-280	Straße	_	
+2-38	281-287	fahren	_	
+2-39	288-294	dürfen	_	
+2-40	294-295	)	_	
+2-41	295-296	.	_	

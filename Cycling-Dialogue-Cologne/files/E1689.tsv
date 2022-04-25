@@ -1,0 +1,65 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Knotenpunkt fahrradfreundlich umgestalten
+1-1	0-11	Knotenpunkt	_	
+1-2	12-29	fahrradfreundlich	_	
+1-3	30-41	umgestalten	_	
+
+#Text=In diesem Knotenpunkt bekommen bisher Kfz 2 Spuren und Busse 1 Spur.
+2-1	44-46	In	_	
+2-2	47-53	diesem	_	
+2-3	54-65	Knotenpunkt	_	
+2-4	66-74	bekommen	_	
+2-5	75-81	bisher	_	
+2-6	82-85	Kfz	_	
+2-7	86-87	2	_	
+2-8	88-94	Spuren	_	
+2-9	95-98	und	_	
+2-10	99-104	Busse	_	
+2-11	105-106	1	_	
+2-12	107-111	Spur	_	
+2-13	111-112	.	_	
+
+#Text=Nur die Radfahrer sind aus keiner Richtung berücksichtigt.
+3-1	113-116	Nur	_	
+3-2	117-120	die	_	
+3-3	121-130	Radfahrer	_	
+3-4	131-135	sind	_	
+3-5	136-139	aus	_	
+3-6	140-146	keiner	_	
+3-7	147-155	Richtung	_	
+3-8	156-170	berücksichtigt	_	
+3-9	170-171	.	_	
+
+#Text=Gefährliche Situation vor allem morgens zu Eltern-Taxi-Bringezeiten der Gesamtschule sind an der Tagesordnung!
+4-1	172-183	Gefährliche	_	
+4-2	184-193	Situation	_	
+4-3	194-197	vor	_	
+4-4	198-203	allem	_	
+4-5	204-211	morgens	_	
+4-6	212-214	zu	_	
+4-7	215-239	Eltern-Taxi-Bringezeiten	_	
+4-8	240-243	der	_	
+4-9	244-256	Gesamtschule	_	
+4-10	257-261	sind	_	
+4-11	262-264	an	_	
+4-12	265-268	der	_	
+4-13	269-281	Tagesordnung	_	
+4-14	281-282	!	_	
+
+#Text=Unbedingt den Radverkehr sicher und komfortabel über die Kreuzung führen.
+5-1	283-292	Unbedingt	_	
+5-2	293-296	den	_	
+5-3	297-307	Radverkehr	_	
+5-4	308-314	sicher	_	
+5-5	315-318	und	_	
+5-6	319-330	komfortabel	_	
+5-7	331-335	über	_	
+5-8	336-339	die	_	
+5-9	340-348	Kreuzung	_	
+5-10	349-355	führen	_	
+5-11	355-356	.	_	

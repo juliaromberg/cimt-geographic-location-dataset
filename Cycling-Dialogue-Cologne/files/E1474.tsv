@@ -1,0 +1,82 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Auf- und Abfahrt auf die Brücke nicht verblockt und zugeparkt.
+1-1	0-3	Auf	_	
+1-2	3-4	-	_	
+1-3	5-8	und	_	
+1-4	9-16	Abfahrt	_	
+1-5	17-20	auf	_	
+1-6	21-24	die	_	
+1-7	25-31	Brücke	_	
+1-8	32-37	nicht	_	
+1-9	38-47	verblockt	_	
+1-10	48-51	und	_	
+1-11	52-61	zugeparkt	_	
+1-12	61-62	.	_	
+
+#Text=Radfahrer welche die die Brücke über die Autobahn nutzen wollen, kommen nicht problemlos in oder aus der Lukasstrasse.
+2-1	65-74	Radfahrer	_	
+2-2	75-81	welche	_	
+2-3	82-85	die	_	
+2-4	86-89	die	_	
+2-5	90-96	Brücke	_	
+2-6	97-101	über	_	
+2-7	102-105	die	_	
+2-8	106-114	Autobahn	_	
+2-9	115-121	nutzen	_	
+2-10	122-128	wollen	_	
+2-11	128-129	,	_	
+2-12	130-136	kommen	_	
+2-13	137-142	nicht	_	
+2-14	143-153	problemlos	_	
+2-15	154-156	in	*[6]	
+2-16	157-161	oder	*[6]	
+2-17	162-165	aus	*[6]	
+2-18	166-169	der	*[6]	
+2-19	170-182	Lukasstrasse	*[6]	
+2-20	182-183	.	_	
+
+#Text=Dort ist kein Weg für Radfahrer markiert.
+3-1	184-188	Dort	_	
+3-2	189-192	ist	_	
+3-3	193-197	kein	_	
+3-4	198-201	Weg	_	
+3-5	202-205	für	_	
+3-6	206-215	Radfahrer	_	
+3-7	216-224	markiert	_	
+3-8	224-225	.	_	
+
+#Text=Die Zufahrt zur Rampe ist fast immer zugeparkt.
+4-1	226-229	Die	_	
+4-2	230-237	Zufahrt	_	
+4-3	238-241	zur	_	
+4-4	242-247	Rampe	_	
+4-5	248-251	ist	_	
+4-6	252-256	fast	_	
+4-7	257-262	immer	_	
+4-8	263-272	zugeparkt	_	
+4-9	272-273	.	_	
+
+#Text=Als Folge fahren viele Radfahrer auf dem sehr engen Nord-Fußweg der Lukasstraße und drängeln die Fußgänger weg.
+5-1	274-277	Als	_	
+5-2	278-283	Folge	_	
+5-3	284-290	fahren	_	
+5-4	291-296	viele	_	
+5-5	297-306	Radfahrer	_	
+5-6	307-310	auf	_	
+5-7	311-314	dem	_	
+5-8	315-319	sehr	_	
+5-9	320-325	engen	_	
+5-10	326-337	Nord-Fußweg	*[7]	
+5-11	338-341	der	*[7]	
+5-12	342-353	Lukasstraße	*[7]	
+5-13	354-357	und	_	
+5-14	358-366	drängeln	_	
+5-15	367-370	die	_	
+5-16	371-380	Fußgänger	_	
+5-17	381-384	weg	_	
+5-18	384-385	.	_	

@@ -1,0 +1,34 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zebrastreifen
+1-1	0-13	Zebrastreifen	_	
+
+#Text=Vorschlag: Ampel einrichten oder Geschwindigkeit der Autos durch Bodenwellen reduzieren, da der Zebrastreifen weder von Radfahrern noch Autofahrern vorschriftsmäßig genutzt wird.
+2-1	16-25	Vorschlag	_	
+2-2	25-26	:	_	
+2-3	27-32	Ampel	_	
+2-4	33-43	einrichten	_	
+2-5	44-48	oder	_	
+2-6	49-64	Geschwindigkeit	_	
+2-7	65-68	der	_	
+2-8	69-74	Autos	_	
+2-9	75-80	durch	_	
+2-10	81-92	Bodenwellen	_	
+2-11	93-103	reduzieren	_	
+2-12	103-104	,	_	
+2-13	105-107	da	_	
+2-14	108-111	der	_	
+2-15	112-125	Zebrastreifen	_	
+2-16	126-131	weder	_	
+2-17	132-135	von	_	
+2-18	136-146	Radfahrern	_	
+2-19	147-151	noch	_	
+2-20	152-163	Autofahrern	_	
+2-21	164-180	vorschriftsmäßig	_	
+2-22	181-188	genutzt	_	
+2-23	189-193	wird	_	
+2-24	193-194	.	_	

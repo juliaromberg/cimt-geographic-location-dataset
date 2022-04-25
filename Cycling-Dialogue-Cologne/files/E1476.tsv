@@ -1,0 +1,66 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Starke Radwegsschäden
+1-1	0-6	Starke	_	
+1-2	7-21	Radwegsschäden	_	
+
+#Text=Der Radweg muss an dieser Stelle dringend saniert werden.
+2-1	24-27	Der	_	
+2-2	28-34	Radweg	_	
+2-3	35-39	muss	_	
+2-4	40-42	an	_	
+2-5	43-49	dieser	_	
+2-6	50-56	Stelle	_	
+2-7	57-65	dringend	_	
+2-8	66-73	saniert	_	
+2-9	74-80	werden	_	
+2-10	80-81	.	_	
+
+#Text=Durch die Wurzeln ist der Boden sehr uneben.
+3-1	82-87	Durch	_	
+3-2	88-91	die	_	
+3-3	92-99	Wurzeln	_	
+3-4	100-103	ist	_	
+3-5	104-107	der	_	
+3-6	108-113	Boden	_	
+3-7	114-118	sehr	_	
+3-8	119-125	uneben	_	
+3-9	125-126	.	_	
+
+#Text=Nachts ist es hier so dunkel, dass man die Bodenunebenheiten nicht mal sieht.
+4-1	127-133	Nachts	_	
+4-2	134-137	ist	_	
+4-3	138-140	es	_	
+4-4	141-145	hier	_	
+4-5	146-148	so	_	
+4-6	149-155	dunkel	_	
+4-7	155-156	,	_	
+4-8	157-161	dass	_	
+4-9	162-165	man	_	
+4-10	166-169	die	_	
+4-11	170-187	Bodenunebenheiten	_	
+4-12	188-193	nicht	_	
+4-13	194-197	mal	_	
+4-14	198-203	sieht	_	
+4-15	203-204	.	_	
+
+#Text=Selbst wenn man weiß, dass sie da sind, muss man höllisch aufpassen,
+5-1	205-211	Selbst	_	
+5-2	212-216	wenn	_	
+5-3	217-220	man	_	
+5-4	221-225	weiß	_	
+5-5	225-226	,	_	
+5-6	227-231	dass	_	
+5-7	232-235	sie	_	
+5-8	236-238	da	_	
+5-9	239-243	sind	_	
+5-10	243-244	,	_	
+5-11	245-249	muss	_	
+5-12	250-253	man	_	
+5-13	254-262	höllisch	_	
+5-14	263-272	aufpassen	_	
+5-15	272-273	,	_	

@@ -1,0 +1,98 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Abenteuer
+1-1	0-9	Abenteuer	_	
+
+#Text=Der Radweg auf der Kölnstraße ist doch recht abenteuerlich.
+2-1	12-15	Der	*[9]	
+2-2	16-22	Radweg	*[9]	
+2-3	23-26	auf	*[9]	
+2-4	27-30	der	*[9]	
+2-5	31-41	Kölnstraße	*[9]	
+2-6	42-45	ist	_	
+2-7	46-50	doch	_	
+2-8	51-56	recht	_	
+2-9	57-70	abenteuerlich	_	
+2-10	70-71	.	_	
+
+#Text=Autos parken in zweiter Reihe und der Radweg ist viel zu schmal.
+3-1	72-77	Autos	_	
+3-2	78-84	parken	_	
+3-3	85-87	in	_	
+3-4	88-95	zweiter	_	
+3-5	96-101	Reihe	_	
+3-6	102-105	und	_	
+3-7	106-109	der	_	
+3-8	110-116	Radweg	_	
+3-9	117-120	ist	_	
+3-10	121-125	viel	_	
+3-11	126-128	zu	_	
+3-12	129-135	schmal	_	
+3-13	135-136	.	_	
+
+#Text=Diese Situation gibt es viel zu häufig in der Stadt.
+4-1	137-142	Diese	_	
+4-2	143-152	Situation	_	
+4-3	153-157	gibt	_	
+4-4	158-160	es	_	
+4-5	161-165	viel	_	
+4-6	166-168	zu	_	
+4-7	169-175	häufig	_	
+4-8	176-178	in	_	
+4-9	179-182	der	_	
+4-10	183-188	Stadt	_	
+4-11	188-189	.	_	
+
+#Text=Wozu diese ganzen Autos in Bonn?
+5-1	190-194	Wozu	_	
+5-2	195-200	diese	_	
+5-3	201-207	ganzen	_	
+5-4	208-213	Autos	_	
+5-5	214-216	in	_	
+5-6	217-221	Bonn	*	
+5-7	221-222	?	_	
+
+#Text=Vorfahrt für Radfahrer!
+6-1	223-231	Vorfahrt	_	
+6-2	232-235	für	_	
+6-3	236-245	Radfahrer	_	
+6-4	245-246	!	_	
+
+#Text=Rücksicht auf die Schwächeren!
+7-1	247-256	Rücksicht	_	
+7-2	257-260	auf	_	
+7-3	261-264	die	_	
+7-4	265-276	Schwächeren	_	
+7-5	276-277	!	_	
+
+#Text=Zuerst Fußgänger, dann Radfahrer!
+8-1	278-284	Zuerst	_	
+8-2	285-294	Fußgänger	_	
+8-3	294-295	,	_	
+8-4	296-300	dann	_	
+8-5	301-310	Radfahrer	_	
+8-6	310-311	!	_	
+
+#Text=Und wenn dann unbedingt noch Autos in Bonn fahren sollen, sollten die an dritter Stelle kommen.
+9-1	312-315	Und	_	
+9-2	316-320	wenn	_	
+9-3	321-325	dann	_	
+9-4	326-335	unbedingt	_	
+9-5	336-340	noch	_	
+9-6	341-346	Autos	_	
+9-7	347-349	in	_	
+9-8	350-354	Bonn	*	
+9-9	355-361	fahren	_	
+9-10	362-368	sollen	_	
+9-11	368-369	,	_	
+9-12	370-377	sollten	_	
+9-13	378-381	die	_	
+9-14	382-384	an	_	
+9-15	385-392	dritter	_	
+9-16	393-399	Stelle	_	
+9-17	400-406	kommen	_	
+9-18	406-407	.	_	

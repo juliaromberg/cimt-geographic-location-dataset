@@ -1,0 +1,207 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefahrenstelle durch Konvexspiegel entschärfen
+1-1	0-14	Gefahrenstelle	_	
+1-2	15-20	durch	_	
+1-3	21-34	Konvexspiegel	_	
+1-4	35-46	entschärfen	_	
+
+#Text=Die Alsstraße ist eine frequentierte Durchgangsstraße für Autofahrer, die in die Adrianstraße oder in den Wohnbereich am Hang am Ende der Alsstraße fahren.
+2-1	49-52	Die	*[10]	
+2-2	53-62	Alsstraße	*[10]	
+2-3	63-66	ist	_	
+2-4	67-71	eine	_	
+2-5	72-85	frequentierte	_	
+2-6	86-102	Durchgangsstraße	_	
+2-7	103-106	für	_	
+2-8	107-117	Autofahrer	_	
+2-9	117-118	,	_	
+2-10	119-122	die	_	
+2-11	123-125	in	*[11]	
+2-12	126-129	die	*[11]	
+2-13	130-142	Adrianstraße	*[11]	
+2-14	143-147	oder	*[11]	
+2-15	148-150	in	*[11]	
+2-16	151-154	den	*[11]	
+2-17	155-166	Wohnbereich	*[11]	
+2-18	167-169	am	*[11]	
+2-19	170-174	Hang	*[11]	
+2-20	175-177	am	*[11]	
+2-21	178-182	Ende	*[11]	
+2-22	183-186	der	*[11]	
+2-23	187-196	Alsstraße	*[11]	
+2-24	197-203	fahren	_	
+2-25	203-204	.	_	
+
+#Text=Nach ca. 100 m geht rechts von der Alsstraße die Adrianstraße ab, die hier für Autos Einbahnstraße ist.
+3-1	205-209	Nach	*[12]	
+3-2	210-212	ca	*[12]	
+3-3	212-213	.	*[12]	
+3-4	214-217	100	*[12]	
+3-5	218-219	m	*[12]	
+3-6	220-224	geht	*[12]	
+3-7	225-231	rechts	*[12]	
+3-8	232-235	von	*[12]	
+3-9	236-239	der	*[12]	
+3-10	240-249	Alsstraße	*[12]	
+3-11	250-253	die	*[12]	
+3-12	254-266	Adrianstraße	*[12]	
+3-13	267-269	ab	*[12]	
+3-14	269-270	,	_	
+3-15	271-274	die	_	
+3-16	275-279	hier	_	
+3-17	280-283	für	_	
+3-18	284-289	Autos	_	
+3-19	290-303	Einbahnstraße	_	
+3-20	304-307	ist	_	
+3-21	307-308	.	_	
+
+#Text=Aufgrund der Bebauung bis an die Straße ist aus beiden Richtungen keine Einsicht in die jeweils andere Straße möglich, siehe https://goo.gl/ZTeF2r
+4-1	309-317	Aufgrund	_	
+4-2	318-321	der	_	
+4-3	322-330	Bebauung	_	
+4-4	331-334	bis	_	
+4-5	335-337	an	_	
+4-6	338-341	die	_	
+4-7	342-348	Straße	_	
+4-8	349-352	ist	_	
+4-9	353-356	aus	_	
+4-10	357-363	beiden	_	
+4-11	364-374	Richtungen	_	
+4-12	375-380	keine	_	
+4-13	381-389	Einsicht	_	
+4-14	390-392	in	_	
+4-15	393-396	die	_	
+4-16	397-404	jeweils	_	
+4-17	405-411	andere	_	
+4-18	412-418	Straße	_	
+4-19	419-426	möglich	_	
+4-20	426-427	,	_	
+4-21	428-433	siehe	_	
+4-22	434-439	https	_	
+4-23	439-440	:	_	
+4-24	440-441	/	_	
+4-25	441-442	/	_	
+4-26	442-448	goo.gl	_	
+4-27	448-449	/	_	
+4-28	449-455	ZTeF2r	_	
+
+#Text=Die Adrianstraße ist jedoch für Radfahrer zur Durchfahrt geöffnet, was Autofahrer aus der Alsstr. jedoch kaum wissen.
+5-1	456-459	Die	*[13]	
+5-2	460-472	Adrianstraße	*[13]	
+5-3	473-476	ist	_	
+5-4	477-483	jedoch	_	
+5-5	484-487	für	_	
+5-6	488-497	Radfahrer	_	
+5-7	498-501	zur	_	
+5-8	502-512	Durchfahrt	_	
+5-9	513-521	geöffnet	_	
+5-10	521-522	,	_	
+5-11	523-526	was	_	
+5-12	527-537	Autofahrer	_	
+5-13	538-541	aus	*[14]	
+5-14	542-545	der	*[14]	
+5-15	546-552	Alsstr	*[14]	
+5-16	552-553	.	*[14]	
+5-17	554-560	jedoch	_	
+5-18	561-565	kaum	_	
+5-19	566-572	wissen	_	
+5-20	572-573	.	_	
+
+#Text=Die Adrianstraße ist eine beliebte Rad-Alternativstrecke zur von Autos mehr befahrenen Königswinterer Straße.
+6-1	574-577	Die	*[15]	
+6-2	578-590	Adrianstraße	*[15]	
+6-3	591-594	ist	_	
+6-4	595-599	eine	_	
+6-5	600-608	beliebte	_	
+6-6	609-630	Rad-Alternativstrecke	_	
+6-7	631-634	zur	_	
+6-8	635-638	von	_	
+6-9	639-644	Autos	_	
+6-10	645-649	mehr	_	
+6-11	650-660	befahrenen	_	
+6-12	661-675	Königswinterer	*[16]	
+6-13	676-682	Straße	*[16]	
+6-14	682-683	.	_	
+
+#Text=Radfahrer biegen hier häufig rechts ab und fahren dann weiter Richtung Beuel am dort an der Bahn verlaufenden Radweg.
+7-1	684-693	Radfahrer	_	
+7-2	694-700	biegen	_	
+7-3	701-705	hier	_	
+7-4	706-712	häufig	_	
+7-5	713-719	rechts	_	
+7-6	720-722	ab	_	
+7-7	723-726	und	_	
+7-8	727-733	fahren	_	
+7-9	734-738	dann	_	
+7-10	739-745	weiter	_	
+7-11	746-754	Richtung	*[17]	
+7-12	755-760	Beuel	*[17]	
+7-13	761-763	am	*[17]	
+7-14	764-768	dort	*[17]	
+7-15	769-771	an	*[17]	
+7-16	772-775	der	*[17]	
+7-17	776-780	Bahn	*[17]	
+7-18	781-793	verlaufenden	*[17]	
+7-19	794-800	Radweg	*[17]	
+7-20	800-801	.	_	
+
+#Text=Ich erlebte schon mehrmals Fastunfälle von Autos und Radfahrern, wenn Autos aus der Alsstr. rechts abbogen und auf die dort ihnen entgegen kommenden Radfahrer - fast - auffuhren.
+8-1	802-805	Ich	_	
+8-2	806-813	erlebte	_	
+8-3	814-819	schon	_	
+8-4	820-828	mehrmals	_	
+8-5	829-840	Fastunfälle	_	
+8-6	841-844	von	_	
+8-7	845-850	Autos	_	
+8-8	851-854	und	_	
+8-9	855-865	Radfahrern	_	
+8-10	865-866	,	_	
+8-11	867-871	wenn	_	
+8-12	872-877	Autos	_	
+8-13	878-881	aus	*[18]	
+8-14	882-885	der	*[18]	
+8-15	886-892	Alsstr	*[18]	
+8-16	892-893	.	*[18]	
+8-17	894-900	rechts	*[18]	
+8-18	901-908	abbogen	*[18]	
+8-19	909-912	und	_	
+8-20	913-916	auf	_	
+8-21	917-920	die	_	
+8-22	921-925	dort	_	
+8-23	926-931	ihnen	_	
+8-24	932-940	entgegen	_	
+8-25	941-950	kommenden	_	
+8-26	951-960	Radfahrer	_	
+8-27	961-962	-	_	
+8-28	963-967	fast	_	
+8-29	968-969	-	_	
+8-30	970-979	auffuhren	_	
+8-31	979-980	.	_	
+
+#Text=Am Haus Alsstr. 21 sollte deshalb ein Konvexspiegel angebracht werden, der Verkehrsteilnehmern aus beiden Straßen die Einsicht ermöglicht.
+9-1	981-983	Am	*[19]	
+9-2	984-988	Haus	*[19]	
+9-3	989-995	Alsstr	*[19]	
+9-4	995-996	.	*[19]	
+9-5	997-999	21	*[19]	
+9-6	1000-1006	sollte	_	
+9-7	1007-1014	deshalb	_	
+9-8	1015-1018	ein	_	
+9-9	1019-1032	Konvexspiegel	_	
+9-10	1033-1043	angebracht	_	
+9-11	1044-1050	werden	_	
+9-12	1050-1051	,	_	
+9-13	1052-1055	der	_	
+9-14	1056-1075	Verkehrsteilnehmern	_	
+9-15	1076-1079	aus	_	
+9-16	1080-1086	beiden	_	
+9-17	1087-1094	Straßen	_	
+9-18	1095-1098	die	_	
+9-19	1099-1107	Einsicht	_	
+9-20	1108-1118	ermöglicht	_	
+9-21	1118-1119	.	_	

@@ -1,0 +1,29 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg ausbessern
+1-1	0-6	Radweg	_	
+1-2	7-17	ausbessern	_	
+
+#Text=Der Radweg neben der Ludwig-Erhard-Allee weist regelmäßig Schäden durch Wurzeln auf, die das Radfahren ziemlich erschweren.
+2-1	20-23	Der	*[3]	
+2-2	24-30	Radweg	*[3]	
+2-3	31-36	neben	*[3]	
+2-4	37-40	der	*[3]	
+2-5	41-60	Ludwig-Erhard-Allee	*[3]	
+2-6	61-66	weist	_	
+2-7	67-77	regelmäßig	_	
+2-8	78-85	Schäden	_	
+2-9	86-91	durch	_	
+2-10	92-99	Wurzeln	_	
+2-11	100-103	auf	_	
+2-12	103-104	,	_	
+2-13	105-108	die	_	
+2-14	109-112	das	_	
+2-15	113-122	Radfahren	_	
+2-16	123-131	ziemlich	_	
+2-17	132-142	erschweren	_	
+2-18	142-143	.	_	

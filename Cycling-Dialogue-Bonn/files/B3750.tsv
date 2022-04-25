@@ -1,0 +1,88 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ampel wird nicht grün, wenn nur ein Radfahrer wartet
+1-1	0-5	Ampel	_	
+1-2	6-10	wird	_	
+1-3	11-16	nicht	_	
+1-4	17-21	grün	_	
+1-5	21-22	,	_	
+1-6	23-27	wenn	_	
+1-7	28-31	nur	_	
+1-8	32-35	ein	_	
+1-9	36-45	Radfahrer	_	
+1-10	46-52	wartet	_	
+
+#Text=Die Ampel zeigt nur grün, wenn ein Auto mit mir an der Ampel steht.
+2-1	55-58	Die	_	
+2-2	59-64	Ampel	_	
+2-3	65-70	zeigt	_	
+2-4	71-74	nur	_	
+2-5	75-79	grün	_	
+2-6	79-80	,	_	
+2-7	81-85	wenn	_	
+2-8	86-89	ein	_	
+2-9	90-94	Auto	_	
+2-10	95-98	mit	_	
+2-11	99-102	mir	_	
+2-12	103-105	an	_	
+2-13	106-109	der	_	
+2-14	110-115	Ampel	_	
+2-15	116-121	steht	_	
+2-16	121-122	.	_	
+
+#Text=Sie können sich vorstellen wie ärgerlich das ist, da die Rotphase zur Einfahrt (Linksabbiegen auf Reuterstraße) sowieso sehr lange dauert.
+3-1	123-126	Sie	_	
+3-2	127-133	können	_	
+3-3	134-138	sich	_	
+3-4	139-149	vorstellen	_	
+3-5	150-153	wie	_	
+3-6	154-163	ärgerlich	_	
+3-7	164-167	das	_	
+3-8	168-171	ist	_	
+3-9	171-172	,	_	
+3-10	173-175	da	_	
+3-11	176-179	die	_	
+3-12	180-188	Rotphase	_	
+3-13	189-192	zur	_	
+3-14	193-201	Einfahrt	_	
+3-15	202-203	(	_	
+3-16	203-216	Linksabbiegen	*[6]	
+3-17	217-220	auf	*[6]	
+3-18	221-233	Reuterstraße	*[6]	
+3-19	233-234	)	_	
+3-20	235-242	sowieso	_	
+3-21	243-247	sehr	_	
+3-22	248-253	lange	_	
+3-23	254-260	dauert	_	
+3-24	260-261	.	_	
+
+#Text=Bitte so umstellen, dass sie immer grün wird.
+4-1	262-267	Bitte	_	
+4-2	268-270	so	_	
+4-3	271-280	umstellen	_	
+4-4	280-281	,	_	
+4-5	282-286	dass	_	
+4-6	287-290	sie	_	
+4-7	291-296	immer	_	
+4-8	297-301	grün	_	
+4-9	302-306	wird	_	
+4-10	306-307	.	_	
+
+#Text=Und nein - ich möchte dafür nicht auf einen Schalter drücken müssen.
+5-1	308-311	Und	_	
+5-2	312-316	nein	_	
+5-3	317-318	-	_	
+5-4	319-322	ich	_	
+5-5	323-329	möchte	_	
+5-6	330-335	dafür	_	
+5-7	336-341	nicht	_	
+5-8	342-345	auf	_	
+5-9	346-351	einen	_	
+5-10	352-360	Schalter	_	
+5-11	361-368	drücken	_	
+5-12	369-375	müssen	_	
+5-13	375-376	.	_	

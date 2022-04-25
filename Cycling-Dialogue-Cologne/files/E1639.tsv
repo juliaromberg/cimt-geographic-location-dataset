@@ -1,0 +1,279 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Umgestaltung der Marienstraße lt. Beschluss der BV Ehrenfeld (MBE_BV001)
+1-1	0-12	Umgestaltung	_	
+1-2	13-16	der	_	
+1-3	17-29	Marienstraße	_	
+1-4	30-32	lt	_	
+1-5	32-33	.	_	
+1-6	34-43	Beschluss	_	
+1-7	44-47	der	_	
+1-8	48-50	BV	_	
+1-9	51-60	Ehrenfeld	*	
+1-10	61-62	(	_	
+1-11	62-71	MBE_BV001	_	
+1-12	71-72	)	_	
+
+#Text=Im August 2015 wurde von der Bezirksvertretung Ehrenfeld die Bürgereingabe Sicherheit im Straßenverkehr, Köln-Ehrenfeld, Marienstraße (Az.: 02-1600-40/15) einstimmig beschlossen und die Verwaltung um Planung für die Umgestaltung der Marienstraße unter besonderer Berücksichtigung der eingereichten Ideen gebeten.
+2-1	75-77	Im	_	
+2-2	78-84	August	_	
+2-3	85-89	2015	_	
+2-4	90-95	wurde	_	
+2-5	96-99	von	_	
+2-6	100-103	der	_	
+2-7	104-121	Bezirksvertretung	_	
+2-8	122-131	Ehrenfeld	*	
+2-9	132-135	die	_	
+2-10	136-149	Bürgereingabe	_	
+2-11	150-160	Sicherheit	_	
+2-12	161-163	im	_	
+2-13	164-178	Straßenverkehr	_	
+2-14	178-179	,	_	
+2-15	180-194	Köln-Ehrenfeld	*	
+2-16	194-195	,	_	
+2-17	196-208	Marienstraße	*	
+2-18	209-210	(	_	
+2-19	210-212	Az	_	
+2-20	212-213	.	_	
+2-21	213-214	:	_	
+2-22	215-217	02	_	
+2-23	217-218	-	_	
+2-24	218-222	1600	_	
+2-25	222-223	-	_	
+2-26	223-225	40	_	
+2-27	225-226	/	_	
+2-28	226-228	15	_	
+2-29	228-229	)	_	
+2-30	230-240	einstimmig	_	
+2-31	241-252	beschlossen	_	
+2-32	253-256	und	_	
+2-33	257-260	die	_	
+2-34	261-271	Verwaltung	_	
+2-35	272-274	um	_	
+2-36	275-282	Planung	_	
+2-37	283-286	für	_	
+2-38	287-290	die	_	
+2-39	291-303	Umgestaltung	_	
+2-40	304-307	der	_	
+2-41	308-320	Marienstraße	*	
+2-42	321-326	unter	_	
+2-43	327-337	besonderer	_	
+2-44	338-354	Berücksichtigung	_	
+2-45	355-358	der	_	
+2-46	359-372	eingereichten	_	
+2-47	373-378	Ideen	_	
+2-48	379-386	gebeten	_	
+2-49	386-387	.	_	
+
+#Text=Insbesondere die folgenden Aspekte müssen aus Sicht der Bezirksvertretung deutlich verbessert werden:
+3-1	388-400	Insbesondere	_	
+3-2	401-404	die	_	
+3-3	405-414	folgenden	_	
+3-4	415-422	Aspekte	_	
+3-5	423-429	müssen	_	
+3-6	430-433	aus	_	
+3-7	434-439	Sicht	_	
+3-8	440-443	der	_	
+3-9	444-461	Bezirksvertretung	_	
+3-10	462-470	deutlich	_	
+3-11	471-481	verbessert	_	
+3-12	482-488	werden	_	
+3-13	488-489	:	_	
+
+#Text=- [...] Fahrbahnbreite für die Durchfahrt von Rettungsfahrzeugen, Feuerwehr etc
+4-1	490-491	-	_	
+4-2	492-493	[	_	
+4-3	493-494	.	_	
+4-4	494-495	.	_	
+4-5	495-496	.	_	
+4-6	496-497	]	_	
+4-7	498-512	Fahrbahnbreite	_	
+4-8	513-516	für	_	
+4-9	517-520	die	_	
+4-10	521-531	Durchfahrt	_	
+4-11	532-535	von	_	
+4-12	536-554	Rettungsfahrzeugen	_	
+4-13	554-555	,	_	
+4-14	556-565	Feuerwehr	_	
+4-15	566-569	etc	_	
+
+#Text=- [...] Gehwege müssen in notwendiger Breite nutzbar sein
+5-1	570-571	-	_	
+5-2	572-573	[	_	
+5-3	573-574	.	_	
+5-4	574-575	.	_	
+5-5	575-576	.	_	
+5-6	576-577	]	_	
+5-7	578-585	Gehwege	_	
+5-8	586-592	müssen	_	
+5-9	593-595	in	_	
+5-10	596-607	notwendiger	_	
+5-11	608-614	Breite	_	
+5-12	615-622	nutzbar	_	
+5-13	623-627	sein	_	
+
+#Text=- [...] ausreichend Fahrradstellplätze, ohne die Nutzbarkeit der Gehwege zu gefährden
+6-1	628-629	-	_	
+6-2	630-631	[	_	
+6-3	631-632	.	_	
+6-4	632-633	.	_	
+6-5	633-634	.	_	
+6-6	634-635	]	_	
+6-7	636-647	ausreichend	_	
+6-8	648-666	Fahrradstellplätze	_	
+6-9	666-667	,	_	
+6-10	668-672	ohne	_	
+6-11	673-676	die	_	
+6-12	677-688	Nutzbarkeit	_	
+6-13	689-692	der	_	
+6-14	693-700	Gehwege	_	
+6-15	701-703	zu	_	
+6-16	704-713	gefährden	_	
+
+#Text=- [...] Beachtung der Velo-Route NRW
+7-1	714-715	-	_	
+7-2	716-717	[	_	
+7-3	717-718	.	_	
+7-4	718-719	.	_	
+7-5	719-720	.	_	
+7-6	720-721	]	_	
+7-7	722-731	Beachtung	_	
+7-8	732-735	der	_	
+7-9	736-746	Velo-Route	_	
+7-10	747-750	NRW	_	
+
+#Text=- [...] Verbesserung der Verkehrssicherheit gerade auch bei gegenläufigem Radverkehr
+8-1	751-752	-	_	
+8-2	753-754	[	_	
+8-3	754-755	.	_	
+8-4	755-756	.	_	
+8-5	756-757	.	_	
+8-6	757-758	]	_	
+8-7	759-771	Verbesserung	_	
+8-8	772-775	der	_	
+8-9	776-794	Verkehrssicherheit	_	
+8-10	795-801	gerade	_	
+8-11	802-806	auch	_	
+8-12	807-810	bei	_	
+8-13	811-824	gegenläufigem	_	
+8-14	825-835	Radverkehr	_	
+
+#Text=- [...] Barrierefreiheit
+9-1	836-837	-	_	
+9-2	838-839	[	_	
+9-3	839-840	.	_	
+9-4	840-841	.	_	
+9-5	841-842	.	_	
+9-6	842-843	]	_	
+9-7	844-860	Barrierefreiheit	_	
+
+#Text=Weitere Informationen:
+10-1	861-868	Weitere	_	
+10-2	869-882	Informationen	_	
+10-3	882-883	:	_	
+
+#Text=- Bürgereingabe im Ratsinformationssystem: https://ratsinformation.stadt-koeln.de/to0050.asp?__ktonr=185045
+11-1	884-885	-	_	
+11-2	886-899	Bürgereingabe	_	
+11-3	900-902	im	_	
+11-4	903-925	Ratsinformationssystem	_	
+11-5	925-926	:	_	
+11-6	927-932	https	_	
+11-7	932-933	:	_	
+11-8	933-934	/	_	
+11-9	934-935	/	_	
+11-10	935-965	ratsinformation.stadt-koeln.de	_	
+11-11	965-966	/	_	
+11-12	966-972	to0050	_	
+11-13	972-973	.	_	
+11-14	973-976	asp	_	
+11-15	976-977	?	_	
+11-16	977-978	_	_	
+11-17	978-979	_	_	
+11-18	979-984	ktonr	_	
+11-19	984-985	=	_	
+11-20	985-991	185045	_	
+
+#Text=- Begleitende und kommentierte Folien zur Eingabe mit Darstellung der Situation/Problemen und Planungsvorschlägen/Maßnahmen: http://www.df-edv.de/4privat/2015-08-24_Marienstrasse_Koeln-Ehrenfeld.pdf
+12-1	992-993	-	_	
+12-2	994-1005	Begleitende	_	
+12-3	1006-1009	und	_	
+12-4	1010-1022	kommentierte	_	
+12-5	1023-1029	Folien	_	
+12-6	1030-1033	zur	_	
+12-7	1034-1041	Eingabe	_	
+12-8	1042-1045	mit	_	
+12-9	1046-1057	Darstellung	_	
+12-10	1058-1061	der	_	
+12-11	1062-1071	Situation	_	
+12-12	1071-1072	/	_	
+12-13	1072-1081	Problemen	_	
+12-14	1082-1085	und	_	
+12-15	1086-1105	Planungsvorschlägen	_	
+12-16	1105-1106	/	_	
+12-17	1106-1115	Maßnahmen	_	
+12-18	1115-1116	:	_	
+12-19	1117-1121	http	_	
+12-20	1121-1122	:	_	
+12-21	1122-1123	/	_	
+12-22	1123-1124	/	_	
+12-23	1124-1137	www.df-edv.de	_	
+12-24	1137-1138	/	_	
+12-25	1138-1145	4privat	_	
+12-26	1145-1146	/	_	
+12-27	1146-1150	2015	_	
+12-28	1150-1151	-	_	
+12-29	1151-1153	08	_	
+12-30	1153-1154	-	_	
+12-31	1154-1156	24	_	
+12-32	1156-1157	_	_	
+12-33	1157-1190	Marienstrasse_Koeln-Ehrenfeld.pdf	_	
+
+#Text=- Unabhängig vom Ehrenfelder Raddialog erstellte Mobilitätskarte: https://goo.gl/YmvMHK (Ebene: Bezirksvertretung Ehrenfeld), Detailkarte verfügbar unter: https://goo.gl/0HKR9U (d.f., Themengruppe Mobilität der Agora Köln)
+13-1	1191-1192	-	_	
+13-2	1193-1203	Unabhängig	_	
+13-3	1204-1207	vom	_	
+13-4	1208-1219	Ehrenfelder	*	
+13-5	1220-1229	Raddialog	_	
+13-6	1230-1239	erstellte	_	
+13-7	1240-1255	Mobilitätskarte	_	
+13-8	1255-1256	:	_	
+13-9	1257-1262	https	_	
+13-10	1262-1263	:	_	
+13-11	1263-1264	/	_	
+13-12	1264-1265	/	_	
+13-13	1265-1271	goo.gl	_	
+13-14	1271-1272	/	_	
+13-15	1272-1278	YmvMHK	_	
+13-16	1279-1280	(	_	
+13-17	1280-1285	Ebene	_	
+13-18	1285-1286	:	_	
+13-19	1287-1304	Bezirksvertretung	_	
+13-20	1305-1314	Ehrenfeld	_	
+13-21	1314-1315	)	_	
+13-22	1315-1316	,	_	
+13-23	1317-1328	Detailkarte	_	
+13-24	1329-1338	verfügbar	_	
+13-25	1339-1344	unter	_	
+13-26	1344-1345	:	_	
+13-27	1346-1351	https	_	
+13-28	1351-1352	:	_	
+13-29	1352-1353	/	_	
+13-30	1353-1354	/	_	
+13-31	1354-1360	goo.gl	_	
+13-32	1360-1361	/	_	
+13-33	1361-1367	0HKR9U	_	
+13-34	1368-1369	(	_	
+13-35	1369-1372	d.f	_	
+13-36	1372-1373	.	_	
+13-37	1373-1374	,	_	
+13-38	1375-1387	Themengruppe	_	
+13-39	1388-1397	Mobilität	_	
+13-40	1398-1401	der	_	
+13-41	1402-1407	Agora	_	
+13-42	1408-1412	Köln	*	
+13-43	1412-1413	)	_	

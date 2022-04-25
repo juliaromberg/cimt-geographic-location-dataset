@@ -1,0 +1,56 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradständer
+1-1	0-14	Fahrradständer	_	
+
+#Text=Die Fahrradständer sind hier wenig sicher.
+2-1	17-20	Die	_	
+2-2	21-35	Fahrradständer	_	
+2-3	36-40	sind	_	
+2-4	41-45	hier	_	
+2-5	46-51	wenig	_	
+2-6	52-58	sicher	_	
+2-7	58-59	.	_	
+
+#Text=Mit einfachem Werkzeug kann man die Querstangen schnell und lautlos lösen und hat so direkt mehrere angekettete Räder, die man dann bequem verladen kann :( Solche Ständer sind an vielen Stellen im Stadtgebiet vorhanden.
+3-1	60-63	Mit	_	
+3-2	64-73	einfachem	_	
+3-3	74-82	Werkzeug	_	
+3-4	83-87	kann	_	
+3-5	88-91	man	_	
+3-6	92-95	die	_	
+3-7	96-107	Querstangen	_	
+3-8	108-115	schnell	_	
+3-9	116-119	und	_	
+3-10	120-127	lautlos	_	
+3-11	128-133	lösen	_	
+3-12	134-137	und	_	
+3-13	138-141	hat	_	
+3-14	142-144	so	_	
+3-15	145-151	direkt	_	
+3-16	152-159	mehrere	_	
+3-17	160-171	angekettete	_	
+3-18	172-177	Räder	_	
+3-19	177-178	,	_	
+3-20	179-182	die	_	
+3-21	183-186	man	_	
+3-22	187-191	dann	_	
+3-23	192-198	bequem	_	
+3-24	199-207	verladen	_	
+3-25	208-212	kann	_	
+3-26	213-214	:	_	
+3-27	214-215	(	_	
+3-28	216-222	Solche	_	
+3-29	223-230	Ständer	_	
+3-30	231-235	sind	_	
+3-31	236-238	an	_	
+3-32	239-245	vielen	_	
+3-33	246-253	Stellen	_	
+3-34	254-256	im	_	
+3-35	257-268	Stadtgebiet	_	
+3-36	269-278	vorhanden	_	
+3-37	278-279	.	_	

@@ -1,0 +1,40 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radfahren zum Venusberg = gefährlich
+1-1	0-9	Radfahren	_	
+1-2	10-13	zum	*[4]	
+1-3	14-23	Venusberg	*[4]	
+1-4	24-25	=	_	
+1-5	26-36	gefährlich	_	
+
+#Text=wildes Zuparken des Radweges in Richtung Marienhospital Autofahrer ignorieren den Radweg.
+2-1	39-45	wildes	_	
+2-2	46-54	Zuparken	_	
+2-3	55-58	des	_	
+2-4	59-67	Radweges	_	
+2-5	68-70	in	_	
+2-6	71-79	Richtung	*[5]	
+2-7	80-94	Marienhospital	*[5]	
+2-8	95-105	Autofahrer	_	
+2-9	106-116	ignorieren	_	
+2-10	117-120	den	_	
+2-11	121-127	Radweg	_	
+2-12	127-128	.	_	
+
+#Text=Im Winter ist die angenehme Ausweichstrecke zum Venusberg Richtung SWI nicht beleuchtet
+3-1	129-131	Im	_	
+3-2	132-138	Winter	_	
+3-3	139-142	ist	_	
+3-4	143-146	die	_	
+3-5	147-156	angenehme	_	
+3-6	157-172	Ausweichstrecke	_	
+3-7	173-176	zum	*[6]	
+3-8	177-186	Venusberg	*[6]	
+3-9	187-195	Richtung	*[6]	
+3-10	196-199	SWI	*[6]	
+3-11	200-205	nicht	_	
+3-12	206-216	beleuchtet	_	

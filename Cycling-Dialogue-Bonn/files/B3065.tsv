@@ -1,0 +1,86 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kfz auf den Radweg
+1-1	0-3	Kfz	_	
+1-2	4-7	auf	_	
+1-3	8-11	den	_	
+1-4	12-18	Radweg	_	
+
+#Text=Besonders auf dem Radweg an der Königswinterer Straße zwischen Ramersdorf und der Straße auf dem Grendt parken sehr viele KFZ mit zwei Rädern auf dem Radweg (in beiden Fahrtrichtungen), so dass der Radweg nicht vernüftig und sicher benutzt werden kann.
+2-1	21-30	Besonders	_	
+2-2	31-34	auf	_	
+2-3	35-38	dem	_	
+2-4	39-45	Radweg	*[4]	
+2-5	46-48	an	*[4]	
+2-6	49-52	der	*[4]	
+2-7	53-67	Königswinterer	*[4]	
+2-8	68-74	Straße	*[4]	
+2-9	75-83	zwischen	*[4]	
+2-10	84-94	Ramersdorf	*[4]	
+2-11	95-98	und	*[4]	
+2-12	99-102	der	*[4]	
+2-13	103-109	Straße	*[4]	
+2-14	110-113	auf	*[4]	
+2-15	114-117	dem	*[4]	
+2-16	118-124	Grendt	*[4]	
+2-17	125-131	parken	_	
+2-18	132-136	sehr	_	
+2-19	137-142	viele	_	
+2-20	143-146	KFZ	_	
+2-21	147-150	mit	_	
+2-22	151-155	zwei	_	
+2-23	156-162	Rädern	_	
+2-24	163-166	auf	_	
+2-25	167-170	dem	_	
+2-26	171-177	Radweg	_	
+2-27	178-179	(	_	
+2-28	179-181	in	_	
+2-29	182-188	beiden	_	
+2-30	189-204	Fahrtrichtungen	_	
+2-31	204-205	)	_	
+2-32	205-206	,	_	
+2-33	207-209	so	_	
+2-34	210-214	dass	_	
+2-35	215-218	der	_	
+2-36	219-225	Radweg	_	
+2-37	226-231	nicht	_	
+2-38	232-241	vernüftig	_	
+2-39	242-245	und	_	
+2-40	246-252	sicher	_	
+2-41	253-260	benutzt	_	
+2-42	261-267	werden	_	
+2-43	268-272	kann	_	
+2-44	272-273	.	_	
+
+#Text=Auch die Führung des Radwegs Richtung Ramersdorf ist recht gefährlich, insbesondere die Laternen sind ein Gefährdungspotential, da sie die Breite des Radwegs deutlich einschränken.
+3-1	274-278	Auch	_	
+3-2	279-282	die	_	
+3-3	283-290	Führung	_	
+3-4	291-294	des	_	
+3-5	295-302	Radwegs	*[5]	
+3-6	303-311	Richtung	*[5]	
+3-7	312-322	Ramersdorf	*[5]	
+3-8	323-326	ist	_	
+3-9	327-332	recht	_	
+3-10	333-343	gefährlich	_	
+3-11	343-344	,	_	
+3-12	345-357	insbesondere	_	
+3-13	358-361	die	_	
+3-14	362-370	Laternen	_	
+3-15	371-375	sind	_	
+3-16	376-379	ein	_	
+3-17	380-400	Gefährdungspotential	_	
+3-18	400-401	,	_	
+3-19	402-404	da	_	
+3-20	405-408	sie	_	
+3-21	409-412	die	_	
+3-22	413-419	Breite	_	
+3-23	420-423	des	_	
+3-24	424-431	Radwegs	_	
+3-25	432-440	deutlich	_	
+3-26	441-453	einschränken	_	
+3-27	453-454	.	_	

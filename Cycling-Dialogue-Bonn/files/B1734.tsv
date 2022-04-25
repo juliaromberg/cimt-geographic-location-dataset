@@ -1,0 +1,285 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rad- und Fußgänger warten zu lange
+1-1	0-3	Rad	_	
+1-2	3-4	-	_	
+1-3	5-8	und	_	
+1-4	9-18	Fußgänger	_	
+1-5	19-25	warten	_	
+1-6	26-28	zu	_	
+1-7	29-34	lange	_	
+
+#Text=Hier befindet sich eine Fuß- und Radfahrampel über den Hermann-Wandersleb-Ring.
+2-1	37-41	Hier	_	
+2-2	42-50	befindet	_	
+2-3	51-55	sich	_	
+2-4	56-60	eine	_	
+2-5	61-64	Fuß	_	
+2-6	64-65	-	_	
+2-7	66-69	und	_	
+2-8	70-82	Radfahrampel	_	
+2-9	83-87	über	_	
+2-10	88-91	den	_	
+2-11	92-115	Hermann-Wandersleb-Ring	*	
+2-12	115-116	.	_	
+
+#Text=Diese ist Teil einer viel benutzten Fahrradstrecke.
+3-1	117-122	Diese	_	
+3-2	123-126	ist	_	
+3-3	127-131	Teil	_	
+3-4	132-137	einer	_	
+3-5	138-142	viel	_	
+3-6	143-152	benutzten	_	
+3-7	153-167	Fahrradstrecke	_	
+3-8	167-168	.	_	
+
+#Text=Hier kommen viele Radfahrer vom Messdorfer Feld, den Stadteilen Messdorf, Dransdorf und den Studentenwohnheimen und nutzen diese Strecke insbesondere als Schul- Arbeits- und Uniweg.
+4-1	169-173	Hier	_	
+4-2	174-180	kommen	_	
+4-3	181-186	viele	_	
+4-4	187-196	Radfahrer	_	
+4-5	197-200	vom	*[15]	
+4-6	201-211	Messdorfer	*[15]	
+4-7	212-216	Feld	*[15]	
+4-8	216-217	,	*[15]	
+4-9	218-221	den	*[15]	
+4-10	222-232	Stadteilen	*[15]	
+4-11	233-241	Messdorf	*[15]	
+4-12	241-242	,	*[15]	
+4-13	243-252	Dransdorf	*[15]	
+4-14	253-256	und	*[15]	
+4-15	257-260	den	*[15]	
+4-16	261-280	Studentenwohnheimen	*[15]	
+4-17	281-284	und	_	
+4-18	285-291	nutzen	_	
+4-19	292-297	diese	_	
+4-20	298-305	Strecke	_	
+4-21	306-318	insbesondere	_	
+4-22	319-322	als	_	
+4-23	323-328	Schul	_	
+4-24	328-329	-	_	
+4-25	330-337	Arbeits	_	
+4-26	337-338	-	_	
+4-27	339-342	und	_	
+4-28	343-349	Uniweg	_	
+4-29	349-350	.	_	
+
+#Text=Leider ist man an dieser Ampel gezwungen erst die Taste zu drücken um die Ampel zu aktivieren.
+5-1	351-357	Leider	_	
+5-2	358-361	ist	_	
+5-3	362-365	man	_	
+5-4	366-368	an	_	
+5-5	369-375	dieser	_	
+5-6	376-381	Ampel	_	
+5-7	382-391	gezwungen	_	
+5-8	392-396	erst	_	
+5-9	397-400	die	_	
+5-10	401-406	Taste	_	
+5-11	407-409	zu	_	
+5-12	410-417	drücken	_	
+5-13	418-420	um	_	
+5-14	421-424	die	_	
+5-15	425-430	Ampel	_	
+5-16	431-433	zu	_	
+5-17	434-444	aktivieren	_	
+5-18	444-445	.	_	
+
+#Text=Diese Ampel wird zu selten und kurz grün, denn dies geschieht nur in einer bestimmten Ampelphase der nächsten Kreuzung unabhängig davon wie viel Verkehr dort ist.
+6-1	446-451	Diese	_	
+6-2	452-457	Ampel	_	
+6-3	458-462	wird	_	
+6-4	463-465	zu	_	
+6-5	466-472	selten	_	
+6-6	473-476	und	_	
+6-7	477-481	kurz	_	
+6-8	482-486	grün	_	
+6-9	486-487	,	_	
+6-10	488-492	denn	_	
+6-11	493-497	dies	_	
+6-12	498-507	geschieht	_	
+6-13	508-511	nur	_	
+6-14	512-514	in	_	
+6-15	515-520	einer	_	
+6-16	521-531	bestimmten	_	
+6-17	532-542	Ampelphase	_	
+6-18	543-546	der	_	
+6-19	547-555	nächsten	_	
+6-20	556-564	Kreuzung	_	
+6-21	565-575	unabhängig	_	
+6-22	576-581	davon	_	
+6-23	582-585	wie	_	
+6-24	586-590	viel	_	
+6-25	591-598	Verkehr	_	
+6-26	599-603	dort	_	
+6-27	604-607	ist	_	
+6-28	607-608	.	_	
+
+#Text=Dies führt zu langen Wartezeiten und der Rad- und Fußverkehr staut sich hier sehr oft auf den schmalen Bordsteinen, die auch für Radfahrer freigegeben sind.
+7-1	609-613	Dies	_	
+7-2	614-619	führt	_	
+7-3	620-622	zu	_	
+7-4	623-629	langen	_	
+7-5	630-641	Wartezeiten	_	
+7-6	642-645	und	_	
+7-7	646-649	der	_	
+7-8	650-653	Rad	_	
+7-9	653-654	-	_	
+7-10	655-658	und	_	
+7-11	659-669	Fußverkehr	_	
+7-12	670-675	staut	_	
+7-13	676-680	sich	_	
+7-14	681-685	hier	_	
+7-15	686-690	sehr	_	
+7-16	691-694	oft	_	
+7-17	695-698	auf	_	
+7-18	699-702	den	_	
+7-19	703-711	schmalen	_	
+7-20	712-723	Bordsteinen	_	
+7-21	723-724	,	_	
+7-22	725-728	die	_	
+7-23	729-733	auch	_	
+7-24	734-737	für	_	
+7-25	738-747	Radfahrer	_	
+7-26	748-759	freigegeben	_	
+7-27	760-764	sind	_	
+7-28	764-765	.	_	
+
+#Text=Die Ampelschaltung sollte so verbessert werden, dass der Fuß- und Radverkehr beim Betätigen der Ampeltaste sofort grün bekommt oder so, dass der Fuß- und Radverkehr ohne Betätigen der Taste häufiger grün bekommt.
+8-1	766-769	Die	_	
+8-2	770-784	Ampelschaltung	_	
+8-3	785-791	sollte	_	
+8-4	792-794	so	_	
+8-5	795-805	verbessert	_	
+8-6	806-812	werden	_	
+8-7	812-813	,	_	
+8-8	814-818	dass	_	
+8-9	819-822	der	_	
+8-10	823-826	Fuß	_	
+8-11	826-827	-	_	
+8-12	828-831	und	_	
+8-13	832-842	Radverkehr	_	
+8-14	843-847	beim	_	
+8-15	848-857	Betätigen	_	
+8-16	858-861	der	_	
+8-17	862-872	Ampeltaste	_	
+8-18	873-879	sofort	_	
+8-19	880-884	grün	_	
+8-20	885-892	bekommt	_	
+8-21	893-897	oder	_	
+8-22	898-900	so	_	
+8-23	900-901	,	_	
+8-24	902-906	dass	_	
+8-25	907-910	der	_	
+8-26	911-914	Fuß	_	
+8-27	914-915	-	_	
+8-28	916-919	und	_	
+8-29	920-930	Radverkehr	_	
+8-30	931-935	ohne	_	
+8-31	936-945	Betätigen	_	
+8-32	946-949	der	_	
+8-33	950-955	Taste	_	
+8-34	956-964	häufiger	_	
+8-35	965-969	grün	_	
+8-36	970-977	bekommt	_	
+8-37	977-978	.	_	
+
+#Text=Außerdem sollte in der Mitte eine vernünftige Warteinsel gebaut werden.
+9-1	979-987	Außerdem	_	
+9-2	988-994	sollte	_	
+9-3	995-997	in	_	
+9-4	998-1001	der	_	
+9-5	1002-1007	Mitte	_	
+9-6	1008-1012	eine	_	
+9-7	1013-1024	vernünftige	_	
+9-8	1025-1035	Warteinsel	_	
+9-9	1036-1042	gebaut	_	
+9-10	1043-1049	werden	_	
+9-11	1049-1050	.	_	
+
+#Text=Zusätzlich besteht das Problem, dass die Autos hier in geringem Abstand und hohem Tempo an den Wartenden vorbeifahren.
+10-1	1051-1061	Zusätzlich	_	
+10-2	1062-1069	besteht	_	
+10-3	1070-1073	das	_	
+10-4	1074-1081	Problem	_	
+10-5	1081-1082	,	_	
+10-6	1083-1087	dass	_	
+10-7	1088-1091	die	_	
+10-8	1092-1097	Autos	_	
+10-9	1098-1102	hier	_	
+10-10	1103-1105	in	_	
+10-11	1106-1114	geringem	_	
+10-12	1115-1122	Abstand	_	
+10-13	1123-1126	und	_	
+10-14	1127-1132	hohem	_	
+10-15	1133-1138	Tempo	_	
+10-16	1139-1141	an	_	
+10-17	1142-1145	den	_	
+10-18	1146-1155	Wartenden	_	
+10-19	1156-1168	vorbeifahren	_	
+10-20	1168-1169	.	_	
+
+#Text=Die Straße hat starke Spurrillen.
+11-1	1170-1173	Die	_	
+11-2	1174-1180	Straße	_	
+11-3	1181-1184	hat	_	
+11-4	1185-1191	starke	_	
+11-5	1192-1202	Spurrillen	_	
+11-6	1202-1203	.	_	
+
+#Text=Bei Regen wird man dabei auch mit großem Abstand zur Straße sehr nass.
+12-1	1204-1207	Bei	_	
+12-2	1208-1213	Regen	_	
+12-3	1214-1218	wird	_	
+12-4	1219-1222	man	_	
+12-5	1223-1228	dabei	_	
+12-6	1229-1233	auch	_	
+12-7	1234-1237	mit	_	
+12-8	1238-1244	großem	_	
+12-9	1245-1252	Abstand	_	
+12-10	1253-1256	zur	_	
+12-11	1257-1263	Straße	_	
+12-12	1264-1268	sehr	_	
+12-13	1269-1273	nass	_	
+12-14	1273-1274	.	_	
+
+#Text=Die Spurrillen müssen beseitigt und das Tempo für Autofahrer in diesem Abschnitt gesenkt werden.
+13-1	1275-1278	Die	_	
+13-2	1279-1289	Spurrillen	_	
+13-3	1290-1296	müssen	_	
+13-4	1297-1306	beseitigt	_	
+13-5	1307-1310	und	_	
+13-6	1311-1314	das	_	
+13-7	1315-1320	Tempo	_	
+13-8	1321-1324	für	_	
+13-9	1325-1335	Autofahrer	_	
+13-10	1336-1338	in	_	
+13-11	1339-1345	diesem	_	
+13-12	1346-1355	Abschnitt	_	
+13-13	1356-1363	gesenkt	_	
+13-14	1364-1370	werden	_	
+13-15	1370-1371	.	_	
+
+#Text=Desweiteren sollte ein Stück weiter auf Höhe der Bushaltestelle Auf dem Hügel eine weitere Querung für Fußgänger entstehen.
+14-1	1372-1383	Desweiteren	_	
+14-2	1384-1390	sollte	_	
+14-3	1391-1394	ein	_	
+14-4	1395-1400	Stück	_	
+14-5	1401-1407	weiter	_	
+14-6	1408-1411	auf	*[16]	
+14-7	1412-1416	Höhe	*[16]	
+14-8	1417-1420	der	*[16]	
+14-9	1421-1435	Bushaltestelle	*[16]	
+14-10	1436-1439	Auf	*[16]	
+14-11	1440-1443	dem	*[16]	
+14-12	1444-1449	Hügel	*[16]	
+14-13	1450-1454	eine	_	
+14-14	1455-1462	weitere	_	
+14-15	1463-1470	Querung	_	
+14-16	1471-1474	für	_	
+14-17	1475-1484	Fußgänger	_	
+14-18	1485-1494	entstehen	_	
+14-19	1494-1495	.	_	

@@ -1,0 +1,54 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zugeparkter Schutzstreifen
+1-1	0-11	Zugeparkter	_	
+1-2	12-26	Schutzstreifen	_	
+
+#Text=Der Schutzstreifen für Radfahrer, die in die Von-Sandt-Straße einfahren wollen, ist regelmäßig -- genauer gesagt: täglich -- zugeparkt.
+2-1	29-32	Der	_	
+2-2	33-47	Schutzstreifen	_	
+2-3	48-51	für	_	
+2-4	52-61	Radfahrer	_	
+2-5	61-62	,	_	
+2-6	63-66	die	_	
+2-7	67-69	in	*[4]	
+2-8	70-73	die	*[4]	
+2-9	74-90	Von-Sandt-Straße	*[4]	
+2-10	91-100	einfahren	*[4]	
+2-11	101-107	wollen	_	
+2-12	107-108	,	_	
+2-13	109-112	ist	_	
+2-14	113-123	regelmäßig	_	
+2-15	124-125	-	_	
+2-16	125-126	-	_	
+2-17	127-134	genauer	_	
+2-18	135-141	gesagt	_	
+2-19	141-142	:	_	
+2-20	143-150	täglich	_	
+2-21	151-152	-	_	
+2-22	152-153	-	_	
+2-23	154-163	zugeparkt	_	
+2-24	163-164	.	_	
+
+#Text=Warten Autos an der Ampel, bleibt Radfahrern kaum mehr Platz als der Lenker breit ist.
+3-1	165-171	Warten	_	
+3-2	172-177	Autos	_	
+3-3	178-180	an	_	
+3-4	181-184	der	_	
+3-5	185-190	Ampel	_	
+3-6	190-191	,	_	
+3-7	192-198	bleibt	_	
+3-8	199-209	Radfahrern	_	
+3-9	210-214	kaum	_	
+3-10	215-219	mehr	_	
+3-11	220-225	Platz	_	
+3-12	226-229	als	_	
+3-13	230-233	der	_	
+3-14	234-240	Lenker	_	
+3-15	241-246	breit	_	
+3-16	247-250	ist	_	
+3-17	250-251	.	_	

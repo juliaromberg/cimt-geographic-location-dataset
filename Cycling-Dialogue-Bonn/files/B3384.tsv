@@ -1,0 +1,79 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Völlige Umgestaltung der Kreuzung mit Priorität für die Radfahrer
+1-1	0-7	Völlige	_	
+1-2	8-20	Umgestaltung	_	
+1-3	21-24	der	_	
+1-4	25-33	Kreuzung	_	
+1-5	34-37	mit	_	
+1-6	38-47	Priorität	_	
+1-7	48-51	für	_	
+1-8	52-55	die	_	
+1-9	56-65	Radfahrer	_	
+
+#Text=Die Kreuzung ist sehr gut von Radfahrern frequentiert.
+2-1	68-71	Die	_	
+2-2	72-80	Kreuzung	_	
+2-3	81-84	ist	_	
+2-4	85-89	sehr	_	
+2-5	90-93	gut	_	
+2-6	94-97	von	_	
+2-7	98-108	Radfahrern	_	
+2-8	109-121	frequentiert	_	
+2-9	121-122	.	_	
+
+#Text=Lange Wartezeiten, zu kleine Aufstellflächen, keine klare Gliederung der Fahrtrichtungen für die Radfahrer sind auch im Hinblick auf die steigende Frequenz bei der Brückensanierung nicht hinnehmbar.
+3-1	123-128	Lange	_	
+3-2	129-140	Wartezeiten	_	
+3-3	140-141	,	_	
+3-4	142-144	zu	_	
+3-5	145-151	kleine	_	
+3-6	152-167	Aufstellflächen	_	
+3-7	167-168	,	_	
+3-8	169-174	keine	_	
+3-9	175-180	klare	_	
+3-10	181-191	Gliederung	_	
+3-11	192-195	der	_	
+3-12	196-211	Fahrtrichtungen	_	
+3-13	212-215	für	_	
+3-14	216-219	die	_	
+3-15	220-229	Radfahrer	_	
+3-16	230-234	sind	_	
+3-17	235-239	auch	_	
+3-18	240-242	im	_	
+3-19	243-251	Hinblick	_	
+3-20	252-255	auf	_	
+3-21	256-259	die	_	
+3-22	260-269	steigende	_	
+3-23	270-278	Frequenz	_	
+3-24	279-282	bei	_	
+3-25	283-286	der	_	
+3-26	287-303	Brückensanierung	_	
+3-27	304-309	nicht	_	
+3-28	310-320	hinnehmbar	_	
+3-29	320-321	.	_	
+
+#Text=Wenn eine Kreisellösung nicht machbar ist, müsste eine befahrbare Unterführung für die Radfahrer untersucht und realisiert werden.
+4-1	322-326	Wenn	_	
+4-2	327-331	eine	_	
+4-3	332-345	Kreisellösung	_	
+4-4	346-351	nicht	_	
+4-5	352-359	machbar	_	
+4-6	360-363	ist	_	
+4-7	363-364	,	_	
+4-8	365-371	müsste	_	
+4-9	372-376	eine	_	
+4-10	377-387	befahrbare	_	
+4-11	388-400	Unterführung	_	
+4-12	401-404	für	_	
+4-13	405-408	die	_	
+4-14	409-418	Radfahrer	_	
+4-15	419-429	untersucht	_	
+4-16	430-433	und	_	
+4-17	434-444	realisiert	_	
+4-18	445-451	werden	_	
+4-19	451-452	.	_	

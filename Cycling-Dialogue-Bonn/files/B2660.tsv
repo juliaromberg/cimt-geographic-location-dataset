@@ -1,0 +1,127 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Poppeldorfer Unterführung
+1-1	0-12	Poppeldorfer	*[7]	
+1-2	13-25	Unterführung	*[7]	
+
+#Text=Die Poppelsdorfer Unterführung ist ein massives Hindernis für den Fahrradverkehr, da es sich um eine besonders wichtige und viel genutzte Ost-West Verbindung zum Zentrum handelt.
+2-1	28-31	Die	*[8]	
+2-2	32-45	Poppelsdorfer	*[8]	
+2-3	46-58	Unterführung	*[8]	
+2-4	59-62	ist	_	
+2-5	63-66	ein	_	
+2-6	67-75	massives	_	
+2-7	76-85	Hindernis	_	
+2-8	86-89	für	_	
+2-9	90-93	den	_	
+2-10	94-108	Fahrradverkehr	_	
+2-11	108-109	,	_	
+2-12	110-112	da	_	
+2-13	113-115	es	_	
+2-14	116-120	sich	_	
+2-15	121-123	um	_	
+2-16	124-128	eine	_	
+2-17	129-138	besonders	_	
+2-18	139-147	wichtige	_	
+2-19	148-151	und	_	
+2-20	152-156	viel	_	
+2-21	157-165	genutzte	_	
+2-22	166-174	Ost-West	_	
+2-23	175-185	Verbindung	_	
+2-24	186-189	zum	_	
+2-25	190-197	Zentrum	_	
+2-26	198-205	handelt	_	
+2-27	205-206	.	_	
+
+#Text=Eine Erweiterung dieser Verbindung mit ausreichend Platz für Fußgänger und Radfahrer wäre unabdingbar und ein Leuchtturmprojekt, auch bezogen auf die Fahrradhauptstadt, aber dies ist leider kurzfristig wohl nicht umsetzbar.
+3-1	207-211	Eine	_	
+3-2	212-223	Erweiterung	_	
+3-3	224-230	dieser	_	
+3-4	231-241	Verbindung	_	
+3-5	242-245	mit	_	
+3-6	246-257	ausreichend	_	
+3-7	258-263	Platz	_	
+3-8	264-267	für	_	
+3-9	268-277	Fußgänger	_	
+3-10	278-281	und	_	
+3-11	282-291	Radfahrer	_	
+3-12	292-296	wäre	_	
+3-13	297-308	unabdingbar	_	
+3-14	309-312	und	_	
+3-15	313-316	ein	_	
+3-16	317-334	Leuchtturmprojekt	_	
+3-17	334-335	,	_	
+3-18	336-340	auch	_	
+3-19	341-348	bezogen	_	
+3-20	349-352	auf	_	
+3-21	353-356	die	_	
+3-22	357-374	Fahrradhauptstadt	_	
+3-23	374-375	,	_	
+3-24	376-380	aber	_	
+3-25	381-385	dies	_	
+3-26	386-389	ist	_	
+3-27	390-396	leider	_	
+3-28	397-408	kurzfristig	_	
+3-29	409-413	wohl	_	
+3-30	414-419	nicht	_	
+3-31	420-429	umsetzbar	_	
+3-32	429-430	.	_	
+
+#Text=Doch zumindest wäre dringend eine Entschärfung der jetzigen Situation anzustreben.
+4-1	431-435	Doch	_	
+4-2	436-445	zumindest	_	
+4-3	446-450	wäre	_	
+4-4	451-459	dringend	_	
+4-5	460-464	eine	_	
+4-6	465-477	Entschärfung	_	
+4-7	478-481	der	_	
+4-8	482-490	jetzigen	_	
+4-9	491-500	Situation	_	
+4-10	501-512	anzustreben	_	
+4-11	512-513	.	_	
+
+#Text=Es ist unverständlich, dass die enge Unterführung zusätzlich durch die umfangreichen Auslagen und Verkaufsstände der dortigen kleinen Geschäfte heftig eingeengt wird.
+5-1	514-516	Es	_	
+5-2	517-520	ist	_	
+5-3	521-535	unverständlich	_	
+5-4	535-536	,	_	
+5-5	537-541	dass	_	
+5-6	542-545	die	_	
+5-7	546-550	enge	_	
+5-8	551-563	Unterführung	_	
+5-9	564-574	zusätzlich	_	
+5-10	575-580	durch	_	
+5-11	581-584	die	_	
+5-12	585-598	umfangreichen	_	
+5-13	599-607	Auslagen	_	
+5-14	608-611	und	_	
+5-15	612-626	Verkaufsstände	_	
+5-16	627-630	der	_	
+5-17	631-639	dortigen	_	
+5-18	640-647	kleinen	_	
+5-19	648-657	Geschäfte	_	
+5-20	658-664	heftig	_	
+5-21	665-674	eingeengt	_	
+5-22	675-679	wird	_	
+5-23	679-680	.	_	
+
+#Text=Hier ließe sich mit wenig Aufwand eine großartige Verbesserung für Fußgänger und Radfahrer erreichen.
+6-1	681-685	Hier	_	
+6-2	686-691	ließe	_	
+6-3	692-696	sich	_	
+6-4	697-700	mit	_	
+6-5	701-706	wenig	_	
+6-6	707-714	Aufwand	_	
+6-7	715-719	eine	_	
+6-8	720-730	großartige	_	
+6-9	731-743	Verbesserung	_	
+6-10	744-747	für	_	
+6-11	748-757	Fußgänger	_	
+6-12	758-761	und	_	
+6-13	762-771	Radfahrer	_	
+6-14	772-781	erreichen	_	
+6-15	781-782	.	_	

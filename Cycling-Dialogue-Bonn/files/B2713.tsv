@@ -1,0 +1,81 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg nach Ippendorf
+1-1	0-6	Radweg	_	
+1-2	7-11	nach	*[5]	
+1-3	12-21	Ippendorf	*[5]	
+
+#Text=An dieser Stelle steht immer noch das Schild Verbot für Fahrzeuge aller Art, das verbietet, diese Strecke mit dem Fahrrad nach Ippendorf zu benutzen.
+2-1	24-26	An	_	
+2-2	27-33	dieser	_	
+2-3	34-40	Stelle	_	
+2-4	41-46	steht	_	
+2-5	47-52	immer	_	
+2-6	53-57	noch	_	
+2-7	58-61	das	_	
+2-8	62-68	Schild	_	
+2-9	69-75	Verbot	_	
+2-10	76-79	für	_	
+2-11	80-89	Fahrzeuge	_	
+2-12	90-95	aller	_	
+2-13	96-99	Art	_	
+2-14	99-100	,	_	
+2-15	101-104	das	_	
+2-16	105-114	verbietet	_	
+2-17	114-115	,	_	
+2-18	116-121	diese	_	
+2-19	122-129	Strecke	_	
+2-20	130-133	mit	_	
+2-21	134-137	dem	_	
+2-22	138-145	Fahrrad	_	
+2-23	146-150	nach	*[6]	
+2-24	151-160	Ippendorf	*[6]	
+2-25	161-163	zu	_	
+2-26	164-172	benutzen	_	
+2-27	172-173	.	_	
+
+#Text=Der Zusatz Fahrrad frei würde im Bereich des Tales eine Auto-freie Streckenführung nach Ippendorf ermöglichen.
+3-1	174-177	Der	_	
+3-2	178-184	Zusatz	_	
+3-3	185-192	Fahrrad	_	
+3-4	193-197	frei	_	
+3-5	198-203	würde	_	
+3-6	204-206	im	_	
+3-7	207-214	Bereich	_	
+3-8	215-218	des	_	
+3-9	219-224	Tales	_	
+3-10	225-229	eine	_	
+3-11	230-240	Auto-freie	_	
+3-12	241-256	Streckenführung	_	
+3-13	257-261	nach	*[7]	
+3-14	262-271	Ippendorf	*[7]	
+3-15	272-283	ermöglichen	_	
+3-16	283-284	.	_	
+
+#Text=Das Schild ist besonders widersinnig, weil in der Gegenrichtung, also vom Ippendorfer Friedhof aus, das Fahrradfahren erlaubt ist.
+4-1	285-288	Das	_	
+4-2	289-295	Schild	_	
+4-3	296-299	ist	_	
+4-4	300-309	besonders	_	
+4-5	310-321	widersinnig	_	
+4-6	321-322	,	_	
+4-7	323-327	weil	_	
+4-8	328-330	in	_	
+4-9	331-334	der	_	
+4-10	335-348	Gegenrichtung	_	
+4-11	348-349	,	_	
+4-12	350-354	also	_	
+4-13	355-358	vom	*[8]	
+4-14	359-370	Ippendorfer	*[8]	
+4-15	371-379	Friedhof	*[8]	
+4-16	380-383	aus	*[8]	
+4-17	383-384	,	_	
+4-18	385-388	das	_	
+4-19	389-402	Fahrradfahren	_	
+4-20	403-410	erlaubt	_	
+4-21	411-414	ist	_	
+4-22	414-415	.	_	

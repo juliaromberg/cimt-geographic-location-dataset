@@ -1,0 +1,111 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradweg Von-Sandt-Ufer
+1-1	0-10	Fahrradweg	_	
+1-2	11-25	Von-Sandt-Ufer	*	
+
+#Text=1. Betrifft den in der Rheinaue parallel zum am Rhein, unmittelbar neben dem Fußweg verlaufenden oberen Fahrradweg (Von-Sandt-Ufer): Für Fahrradfahrer gefährliche und unzumutbare, durch Baumwurzeln verursachte Bodenwellen.
+2-1	28-29	1	_	
+2-2	29-30	.	_	
+2-3	31-39	Betrifft	_	
+2-4	40-43	den	_	
+2-5	44-46	in	*[6]	
+2-6	47-50	der	*[6]	
+2-7	51-59	Rheinaue	*[6]	
+2-8	60-68	parallel	*[6]	
+2-9	69-72	zum	*[6]	
+2-10	73-75	am	*[6]	
+2-11	76-81	Rhein	*[6]	
+2-12	81-82	,	_	
+2-13	83-94	unmittelbar	_	
+2-14	95-100	neben	_	
+2-15	101-104	dem	_	
+2-16	105-111	Fußweg	_	
+2-17	112-124	verlaufenden	_	
+2-18	125-131	oberen	*[7]	
+2-19	132-142	Fahrradweg	*[7]	
+2-20	143-144	(	*[7]	
+2-21	144-158	Von-Sandt-Ufer	*[7]	
+2-22	158-159	)	_	
+2-23	159-160	:	_	
+2-24	161-164	Für	_	
+2-25	165-178	Fahrradfahrer	_	
+2-26	179-190	gefährliche	_	
+2-27	191-194	und	_	
+2-28	195-206	unzumutbare	_	
+2-29	206-207	,	_	
+2-30	208-213	durch	_	
+2-31	214-225	Baumwurzeln	_	
+2-32	226-237	verursachte	_	
+2-33	238-249	Bodenwellen	_	
+2-34	249-250	.	_	
+
+#Text=2. Betrifft den unmittelbar am Rhein verlaufenden unteren Fahrradweg (Von-Sandt-Ufer): Der in beide Richtungen genutzte Fahrradweg hat auch hinsichtlich der Nutzungsfrequenz insbesondere in den frühen Abendstunden und am Wochenende eine deutlich zu geringe Radwegebreite.
+3-1	251-252	2	_	
+3-2	252-253	.	_	
+3-3	254-262	Betrifft	_	
+3-4	263-266	den	_	
+3-5	267-278	unmittelbar	_	
+3-6	279-281	am	*[8]	
+3-7	282-287	Rhein	*[8]	
+3-8	288-300	verlaufenden	*[8]	
+3-9	301-308	unteren	*[8]	
+3-10	309-319	Fahrradweg	*[8]	
+3-11	320-321	(	*[8]	
+3-12	321-335	Von-Sandt-Ufer	*[8]	
+3-13	335-336	)	_	
+3-14	336-337	:	_	
+3-15	338-341	Der	_	
+3-16	342-344	in	_	
+3-17	345-350	beide	_	
+3-18	351-361	Richtungen	_	
+3-19	362-370	genutzte	_	
+3-20	371-381	Fahrradweg	_	
+3-21	382-385	hat	_	
+3-22	386-390	auch	_	
+3-23	391-403	hinsichtlich	_	
+3-24	404-407	der	_	
+3-25	408-424	Nutzungsfrequenz	_	
+3-26	425-437	insbesondere	_	
+3-27	438-440	in	_	
+3-28	441-444	den	_	
+3-29	445-451	frühen	_	
+3-30	452-464	Abendstunden	_	
+3-31	465-468	und	_	
+3-32	469-471	am	_	
+3-33	472-482	Wochenende	_	
+3-34	483-487	eine	_	
+3-35	488-496	deutlich	_	
+3-36	497-499	zu	_	
+3-37	500-507	geringe	_	
+3-38	508-521	Radwegebreite	_	
+3-39	521-522	.	_	
+
+#Text=Besonders kritisch wird dies bei sich begegnenden Fahrradverkehr mit Fahrradanhängern oder Liegerädern.
+4-1	523-532	Besonders	_	
+4-2	533-541	kritisch	_	
+4-3	542-546	wird	_	
+4-4	547-551	dies	_	
+4-5	552-555	bei	_	
+4-6	556-560	sich	_	
+4-7	561-572	begegnenden	_	
+4-8	573-587	Fahrradverkehr	_	
+4-9	588-591	mit	_	
+4-10	592-608	Fahrradanhängern	_	
+4-11	609-613	oder	_	
+4-12	614-625	Liegerädern	_	
+4-13	625-626	.	_	
+
+#Text=Darüber hinaus einige durch Baumwurzeln verursachte Bodenwellen.
+5-1	627-634	Darüber	_	
+5-2	635-641	hinaus	_	
+5-3	642-648	einige	_	
+5-4	649-654	durch	_	
+5-5	655-666	Baumwurzeln	_	
+5-6	667-678	verursachte	_	
+5-7	679-690	Bodenwellen	_	
+5-8	690-691	.	_	

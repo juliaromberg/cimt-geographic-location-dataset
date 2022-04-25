@@ -1,0 +1,58 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradparkplätze an allen kulturellen Einrichtungen
+1-1	0-17	Fahrradparkplätze	_	
+1-2	18-20	an	_	
+1-3	21-26	allen	_	
+1-4	27-38	kulturellen	_	
+1-5	39-52	Einrichtungen	_	
+
+#Text=Wir brauchen eine ausreichende Menge an sicheren Rad-Parkplätzen, d.h. hohe Bügel zum Anschließen des gesamten Fahrrads, direkt an allen Theatern, Kinos, Musikveranstaltungshäusern, Mussen etc.
+2-1	55-58	Wir	_	
+2-2	59-67	brauchen	_	
+2-3	68-72	eine	_	
+2-4	73-85	ausreichende	_	
+2-5	86-91	Menge	_	
+2-6	92-94	an	_	
+2-7	95-103	sicheren	_	
+2-8	104-119	Rad-Parkplätzen	_	
+2-9	119-120	,	_	
+2-10	121-124	d.h	_	
+2-11	124-125	.	_	
+2-12	126-130	hohe	_	
+2-13	131-136	Bügel	_	
+2-14	137-140	zum	_	
+2-15	141-152	Anschließen	_	
+2-16	153-156	des	_	
+2-17	157-165	gesamten	_	
+2-18	166-174	Fahrrads	_	
+2-19	174-175	,	_	
+2-20	176-182	direkt	_	
+2-21	183-185	an	_	
+2-22	186-191	allen	_	
+2-23	192-200	Theatern	_	
+2-24	200-201	,	_	
+2-25	202-207	Kinos	_	
+2-26	207-208	,	_	
+2-27	209-235	Musikveranstaltungshäusern	_	
+2-28	235-236	,	_	
+2-29	237-243	Mussen	_	
+2-30	244-247	etc	_	
+2-31	247-248	.	_	
+
+#Text=Die neue Bibliothek/VHS ist hierfür ein gutes Beispiel.
+3-1	249-252	Die	_	
+3-2	253-257	neue	_	
+3-3	258-268	Bibliothek	_	
+3-4	268-269	/	_	
+3-5	269-272	VHS	_	
+3-6	273-276	ist	_	
+3-7	277-284	hierfür	_	
+3-8	285-288	ein	_	
+3-9	289-294	gutes	_	
+3-10	295-303	Beispiel	_	
+3-11	303-304	.	_	

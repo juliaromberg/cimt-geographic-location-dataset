@@ -1,0 +1,103 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Falschparker
+1-1	0-12	Falschparker	_	
+
+#Text=Der Kreuzungsbereich der August-Bier-Str. hin zur Hausdorffstr. ist regelmäßig durch Autos zugeparkt.
+2-1	15-18	Der	*[5]	
+2-2	19-35	Kreuzungsbereich	*[5]	
+2-3	36-39	der	*[5]	
+2-4	40-55	August-Bier-Str	*[5]	
+2-5	55-56	.	*[5]	
+2-6	57-60	hin	*[5]	
+2-7	61-64	zur	*[5]	
+2-8	65-77	Hausdorffstr	*[5]	
+2-9	77-78	.	*[5]	
+2-10	79-82	ist	_	
+2-11	83-93	regelmäßig	_	
+2-12	94-99	durch	_	
+2-13	100-105	Autos	_	
+2-14	106-115	zugeparkt	_	
+2-15	115-116	.	_	
+
+#Text=Dadurch ist es, wenn auf beiden Fahrspuren Autos vor der Ampel warten, nicht mehr möglich, mit dem Fahrrad von der Hausdorffstr. in die August-Bier-Str. einzufahren.
+3-1	117-124	Dadurch	_	
+3-2	125-128	ist	_	
+3-3	129-131	es	_	
+3-4	131-132	,	_	
+3-5	133-137	wenn	_	
+3-6	138-141	auf	_	
+3-7	142-148	beiden	_	
+3-8	149-159	Fahrspuren	_	
+3-9	160-165	Autos	_	
+3-10	166-169	vor	_	
+3-11	170-173	der	_	
+3-12	174-179	Ampel	_	
+3-13	180-186	warten	_	
+3-14	186-187	,	_	
+3-15	188-193	nicht	_	
+3-16	194-198	mehr	_	
+3-17	199-206	möglich	_	
+3-18	206-207	,	_	
+3-19	208-211	mit	_	
+3-20	212-215	dem	_	
+3-21	216-223	Fahrrad	_	
+3-22	224-227	von	*[6]	
+3-23	228-231	der	*[6]	
+3-24	232-244	Hausdorffstr	*[6]	
+3-25	244-245	.	*[6]	
+3-26	246-248	in	*[6]	
+3-27	249-252	die	*[6]	
+3-28	253-268	August-Bier-Str	*[6]	
+3-29	268-269	.	*[6]	
+3-30	270-281	einzufahren	*[6]	
+3-31	281-282	.	_	
+
+#Text=Dieser Bereich sollte (wie generell viele Bereiche in Bonn) regelmäßig auf falschparkende Autos kontrolliert und entsprechend sanktioniert werden.
+4-1	283-289	Dieser	_	
+4-2	290-297	Bereich	_	
+4-3	298-304	sollte	_	
+4-4	305-306	(	_	
+4-5	306-309	wie	_	
+4-6	310-318	generell	_	
+4-7	319-324	viele	_	
+4-8	325-333	Bereiche	_	
+4-9	334-336	in	*[7]	
+4-10	337-341	Bonn	*[7]	
+4-11	341-342	)	_	
+4-12	343-353	regelmäßig	_	
+4-13	354-357	auf	_	
+4-14	358-372	falschparkende	_	
+4-15	373-378	Autos	_	
+4-16	379-391	kontrolliert	_	
+4-17	392-395	und	_	
+4-18	396-408	entsprechend	_	
+4-19	409-421	sanktioniert	_	
+4-20	422-428	werden	_	
+4-21	428-429	.	_	
+
+#Text=Generell sollte die August-Bier-Str. als Fahrradstr. ausgewiesen werden, um das Netz an dieser Stelle zu schießen.
+5-1	430-438	Generell	_	
+5-2	439-445	sollte	_	
+5-3	446-449	die	*[8]	
+5-4	450-465	August-Bier-Str	*[8]	
+5-5	465-466	.	*[8]	
+5-6	467-470	als	_	
+5-7	471-481	Fahrradstr	_	
+5-8	481-482	.	_	
+5-9	483-494	ausgewiesen	_	
+5-10	495-501	werden	_	
+5-11	501-502	,	_	
+5-12	503-505	um	_	
+5-13	506-509	das	_	
+5-14	510-514	Netz	_	
+5-15	515-517	an	_	
+5-16	518-524	dieser	_	
+5-17	525-531	Stelle	_	
+5-18	532-534	zu	_	
+5-19	535-543	schießen	_	
+5-20	543-544	.	_	

@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zu eng
+1-1	0-2	Zu	_	
+1-2	3-6	eng	_	
+
+#Text=Zwischen Bahn und Zaun ist es sehr eng besonders wenn der Weg nicht gepflegt ist ( Äste usw. )
+2-1	9-17	Zwischen	_	
+2-2	18-22	Bahn	_	
+2-3	23-26	und	_	
+2-4	27-31	Zaun	_	
+2-5	32-35	ist	_	
+2-6	36-38	es	_	
+2-7	39-43	sehr	_	
+2-8	44-47	eng	_	
+2-9	48-57	besonders	_	
+2-10	58-62	wenn	_	
+2-11	63-66	der	_	
+2-12	67-70	Weg	_	
+2-13	71-76	nicht	_	
+2-14	77-85	gepflegt	_	
+2-15	86-89	ist	_	
+2-16	90-91	(	_	
+2-17	92-96	Äste	_	
+2-18	97-100	usw	_	
+2-19	100-101	.	_	
+2-20	102-103	)	_	

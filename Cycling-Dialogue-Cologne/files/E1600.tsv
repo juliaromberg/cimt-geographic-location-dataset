@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=langfristig geparkte Fahrräder
+1-1	0-11	langfristig	_	
+1-2	12-20	geparkte	_	
+1-3	21-30	Fahrräder	_	
+
+#Text=positiv zu vermerken ist, dass in unserer Straße viele Anschließmöglichkeiten für Fahrräder installiert worden sind; möchte ich aber einen benutzen, so stellt sich die Suche nach einer freien Möglicheit immer schwerer dar; es werden immer mehr Fahrräder angekettet und nicht benutzt; ich würde mich über eine Abhilfe freuen [Name entfernt]
+2-1	33-40	positiv	_	
+2-2	41-43	zu	_	
+2-3	44-53	vermerken	_	
+2-4	54-57	ist	_	
+2-5	57-58	,	_	
+2-6	59-63	dass	_	
+2-7	64-66	in	_	
+2-8	67-74	unserer	_	
+2-9	75-81	Straße	_	
+2-10	82-87	viele	_	
+2-11	88-110	Anschließmöglichkeiten	_	
+2-12	111-114	für	_	
+2-13	115-124	Fahrräder	_	
+2-14	125-136	installiert	_	
+2-15	137-143	worden	_	
+2-16	144-148	sind	_	
+2-17	148-149	;	_	
+2-18	150-156	möchte	_	
+2-19	157-160	ich	_	
+2-20	161-165	aber	_	
+2-21	166-171	einen	_	
+2-22	172-180	benutzen	_	
+2-23	180-181	,	_	
+2-24	182-184	so	_	
+2-25	185-191	stellt	_	
+2-26	192-196	sich	_	
+2-27	197-200	die	_	
+2-28	201-206	Suche	_	
+2-29	207-211	nach	_	
+2-30	212-217	einer	_	
+2-31	218-224	freien	_	
+2-32	225-235	Möglicheit	_	
+2-33	236-241	immer	_	
+2-34	242-250	schwerer	_	
+2-35	251-254	dar	_	
+2-36	254-255	;	_	
+2-37	256-258	es	_	
+2-38	259-265	werden	_	
+2-39	266-271	immer	_	
+2-40	272-276	mehr	_	
+2-41	277-286	Fahrräder	_	
+2-42	287-297	angekettet	_	
+2-43	298-301	und	_	
+2-44	302-307	nicht	_	
+2-45	308-315	benutzt	_	
+2-46	315-316	;	_	
+2-47	317-320	ich	_	
+2-48	321-326	würde	_	
+2-49	327-331	mich	_	
+2-50	332-336	über	_	
+2-51	337-341	eine	_	
+2-52	342-349	Abhilfe	_	
+2-53	350-356	freuen	_	
+2-54	357-358	[	_	
+2-55	358-362	Name	_	
+2-56	363-371	entfernt	_	
+2-57	371-372	]	_	

@@ -1,0 +1,275 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+#FORMAT=WebAnno TSV 3.2			_	
+#T_SP=webanno.custom.Typ|Name			_	
+#T_SP=webanno.custom.Verortung|			_	
+			_	
+			_	
+#Text=Radverkehrsführung vom Bröltalbahnweg auf die Siegburger Straße				
+1-1	0-18	Radverkehrsführung	_	_
+1-2	19-22	vom	_	*[14]
+1-3	23-37	Bröltalbahnweg	_	*[14]
+1-4	38-41	auf	_	*[14]
+1-5	42-45	die	_	*[14]
+1-6	46-56	Siegburger	_	*[14]
+1-7	57-63	Straße	_	*[14]
+			_	
+#Text=Sachstand: Seit einiger Zeit ist das Radfahren auf der linken Seite der Siegburger Straße stadtauswärts nicht mehr erlaubt.				
+2-1	66-75	Sachstand	_	_
+2-2	75-76	:	_	_
+2-3	77-81	Seit	_	_
+2-4	82-89	einiger	_	_
+2-5	90-94	Zeit	_	_
+2-6	95-98	ist	_	_
+2-7	99-102	das	_	_
+2-8	103-112	Radfahren	_	_
+2-9	113-116	auf	_	*[15]
+2-10	117-120	der	_	*[15]
+2-11	121-127	linken	_	*[15]
+2-12	128-133	Seite	_	*[15]
+2-13	134-137	der	_	*[15]
+2-14	138-148	Siegburger	_	*[15]
+2-15	149-155	Straße	_	*[15]
+2-16	156-169	stadtauswärts	_	*[15]
+2-17	170-175	nicht	_	_
+2-18	176-180	mehr	_	_
+2-19	181-188	erlaubt	_	_
+2-20	188-189	.	_	_
+			_	
+#Text=Auf der Kreuzung Bröltalbahnweg/Gartenstraße/Siegburger Straße fand sich lange kein Hinweis darauf.				
+3-1	190-193	Auf	_	*[16]
+3-2	194-197	der	_	*[16]
+3-3	198-206	Kreuzung	_	*[16]
+3-4	207-221	Bröltalbahnweg	_	*[16]
+3-5	221-222	/	_	*[16]
+3-6	222-234	Gartenstraße	_	*[16]
+3-7	234-235	/	_	*[16]
+3-8	235-245	Siegburger	_	*[16]
+3-9	246-252	Straße	_	*[16]
+3-10	253-257	fand	_	_
+3-11	258-262	sich	_	_
+3-12	263-268	lange	_	_
+3-13	269-273	kein	_	_
+3-14	274-281	Hinweis	_	_
+3-15	282-288	darauf	_	_
+3-16	288-289	.	_	_
+			_	
+#Text=Inzwischen wurde ein Gehweg-Schild (Verkehrszeichen Nr. 239) aufgehängt.				
+4-1	290-300	Inzwischen	_	_
+4-2	301-306	wurde	_	_
+4-3	307-310	ein	_	_
+4-4	311-324	Gehweg-Schild	_	_
+4-5	325-326	(	_	_
+4-6	326-341	Verkehrszeichen	_	_
+4-7	342-344	Nr	_	_
+4-8	344-345	.	_	_
+4-9	346-349	239	_	_
+4-10	349-350	)	_	_
+4-11	351-361	aufgehängt	_	_
+4-12	361-362	.	_	_
+			_	
+#Text=Bewertung Ziel ist es anscheinend, dass die Radfahrer stadauswärts den Radstreifen auf der Fahrbahn benutzen sollen, zumindest bis zur Fußgängerampel an der Abzweigung am langen Graben.				
+5-1	363-372	Bewertung	_	_
+5-2	373-377	Ziel	_	_
+5-3	378-381	ist	_	_
+5-4	382-384	es	_	_
+5-5	385-396	anscheinend	_	_
+5-6	396-397	,	_	_
+5-7	398-402	dass	_	_
+5-8	403-406	die	_	_
+5-9	407-416	Radfahrer	_	_
+5-10	417-429	stadauswärts	_	_
+5-11	430-433	den	_	_
+5-12	434-445	Radstreifen	_	_
+5-13	446-449	auf	_	_
+5-14	450-453	der	_	_
+5-15	454-462	Fahrbahn	_	_
+5-16	463-471	benutzen	_	_
+5-17	472-478	sollen	_	_
+5-18	478-479	,	_	_
+5-19	480-489	zumindest	_	_
+5-20	490-493	bis	_	_
+5-21	494-497	zur	_	_
+5-22	498-512	Fußgängerampel	_	_
+5-23	513-515	an	_	_
+5-24	516-519	der	_	_
+5-25	520-530	Abzweigung	_	_
+5-26	531-533	am	_	_
+5-27	534-540	langen	_	_
+5-28	541-547	Graben	_	_
+5-29	547-548	.	_	_
+			_	
+#Text=Viele Radfahrer, insbesondere auch die Schüler der Gesamtschule, nutzen jedoch weiter den Gehweg auf der linken Seite, vermutlich weil sie die Änderung der Verkehrsführung nicht mitbekommen haben, oder ihnen die Nutzung des Radstreifen als zu gefährlich erscheint.				
+6-1	549-554	Viele	_	_
+6-2	555-564	Radfahrer	_	_
+6-3	564-565	,	_	_
+6-4	566-578	insbesondere	_	_
+6-5	579-583	auch	_	_
+6-6	584-587	die	_	_
+6-7	588-595	Schüler	_	_
+6-8	596-599	der	_	_
+6-9	600-612	Gesamtschule	_	_
+6-10	612-613	,	_	_
+6-11	614-620	nutzen	_	_
+6-12	621-627	jedoch	_	_
+6-13	628-634	weiter	_	_
+6-14	635-638	den	_	_
+6-15	639-645	Gehweg	_	_
+6-16	646-649	auf	_	_
+6-17	650-653	der	_	_
+6-18	654-660	linken	_	_
+6-19	661-666	Seite	_	_
+6-20	666-667	,	_	_
+6-21	668-678	vermutlich	_	_
+6-22	679-683	weil	_	_
+6-23	684-687	sie	_	_
+6-24	688-691	die	_	_
+6-25	692-700	Änderung	_	_
+6-26	701-704	der	_	_
+6-27	705-720	Verkehrsführung	_	_
+6-28	721-726	nicht	_	_
+6-29	727-738	mitbekommen	_	_
+6-30	739-744	haben	_	_
+6-31	744-745	,	_	_
+6-32	746-750	oder	_	_
+6-33	751-756	ihnen	_	_
+6-34	757-760	die	_	_
+6-35	761-768	Nutzung	_	_
+6-36	769-772	des	_	_
+6-37	773-784	Radstreifen	_	_
+6-38	785-788	als	_	_
+6-39	789-791	zu	_	_
+6-40	792-802	gefährlich	_	_
+6-41	803-812	erscheint	_	_
+6-42	812-813	.	_	_
+			_	
+#Text=Vorschlag: Zunächst: Eindeutige Beschilderung durch Anbringen eines Schildes Nr. 254 Verbot für Radverkehr auf der linken Seite.				
+7-1	814-823	Vorschlag	_	_
+7-2	823-824	:	_	_
+7-3	825-833	Zunächst	_	_
+7-4	833-834	:	_	_
+7-5	835-845	Eindeutige	_	_
+7-6	846-859	Beschilderung	_	_
+7-7	860-865	durch	_	_
+7-8	866-875	Anbringen	_	_
+7-9	876-881	eines	_	_
+7-10	882-890	Schildes	_	_
+7-11	891-893	Nr	_	_
+7-12	893-894	.	_	_
+7-13	895-898	254	_	_
+7-14	899-905	Verbot	_	_
+7-15	906-909	für	_	_
+7-16	910-920	Radverkehr	_	_
+7-17	921-924	auf	_	_
+7-18	925-928	der	_	_
+7-19	929-935	linken	_	_
+7-20	936-941	Seite	_	_
+7-21	941-942	.	_	_
+			_	
+#Text=Dies ist an anderen Stellen in Bonn, an denen die Radverkehrsführung geändert wurde, ebenfalls erfolgt.				
+8-1	943-947	Dies	_	_
+8-2	948-951	ist	_	_
+8-3	952-954	an	_	_
+8-4	955-962	anderen	_	_
+8-5	963-970	Stellen	_	_
+8-6	971-973	in	_	*[17]
+8-7	974-978	Bonn	_	*[17]
+8-8	978-979	,	_	_
+8-9	980-982	an	_	_
+8-10	983-988	denen	_	_
+8-11	989-992	die	_	_
+8-12	993-1011	Radverkehrsführung	_	_
+8-13	1012-1020	geändert	_	_
+8-14	1021-1026	wurde	_	_
+8-15	1026-1027	,	_	_
+8-16	1028-1037	ebenfalls	_	_
+8-17	1038-1045	erfolgt	_	_
+8-18	1045-1046	.	_	_
+			_	
+#Text=Dazu ein Hinweis auf den Radstreifen für die Radfahrer.				
+9-1	1047-1051	Dazu	_	_
+9-2	1052-1055	ein	_	_
+9-3	1056-1063	Hinweis	_	_
+9-4	1064-1067	auf	_	_
+9-5	1068-1071	den	_	_
+9-6	1072-1083	Radstreifen	_	_
+9-7	1084-1087	für	_	_
+9-8	1088-1091	die	_	_
+9-9	1092-1101	Radfahrer	_	_
+9-10	1101-1102	.	_	_
+			_	
+#Text=Dann sollte es jeder mitbekommen.				
+10-1	1103-1107	Dann	_	_
+10-2	1108-1114	sollte	_	_
+10-3	1115-1117	es	_	_
+10-4	1118-1123	jeder	_	_
+10-5	1124-1135	mitbekommen	_	_
+10-6	1135-1136	.	_	_
+			_	
+#Text=Für LKW muss die Nutzung der Siegburger Straße verboten werden, da LKW bei Gegenverkehr zwingend den Radstreifen mit benutzen müssen.				
+11-1	1137-1140	Für	_	_
+11-2	1141-1144	LKW	_	_
+11-3	1145-1149	muss	_	_
+11-4	1150-1153	die	_	_
+11-5	1154-1161	Nutzung	_	_
+11-6	1162-1165	der	_	_
+11-7	1166-1176	Siegburger	_	*[18]
+11-8	1177-1183	Straße	_	*[18]
+11-9	1184-1192	verboten	_	_
+11-10	1193-1199	werden	_	_
+11-11	1199-1200	,	_	_
+11-12	1201-1203	da	_	_
+11-13	1204-1207	LKW	_	_
+11-14	1208-1211	bei	_	_
+11-15	1212-1224	Gegenverkehr	_	_
+11-16	1225-1233	zwingend	_	_
+11-17	1234-1237	den	_	_
+11-18	1238-1249	Radstreifen	_	_
+11-19	1250-1253	mit	_	_
+11-20	1254-1262	benutzen	_	_
+11-21	1263-1269	müssen	_	_
+11-22	1269-1270	.	_	_
+			_	
+#Text=Um die Gefahr für Radfahrer bei Nutzung der Fahrbahn weiter zu reduzieren, solle die Geschwindigkeit für alle auf maximal 30 km/h beschränkt werden.				
+12-1	1271-1273	Um	_	_
+12-2	1274-1277	die	_	_
+12-3	1278-1284	Gefahr	_	_
+12-4	1285-1288	für	_	_
+12-5	1289-1298	Radfahrer	_	_
+12-6	1299-1302	bei	_	_
+12-7	1303-1310	Nutzung	_	_
+12-8	1311-1314	der	_	_
+12-9	1315-1323	Fahrbahn	_	_
+12-10	1324-1330	weiter	_	_
+12-11	1331-1333	zu	_	_
+12-12	1334-1344	reduzieren	_	_
+12-13	1344-1345	,	_	_
+12-14	1346-1351	solle	_	_
+12-15	1352-1355	die	_	_
+12-16	1356-1371	Geschwindigkeit	_	_
+12-17	1372-1375	für	_	_
+12-18	1376-1380	alle	_	_
+12-19	1381-1384	auf	_	_
+12-20	1385-1392	maximal	_	_
+12-21	1393-1395	30	_	_
+12-22	1396-1398	km	_	_
+12-23	1398-1399	/	_	_
+12-24	1399-1400	h	_	_
+12-25	1401-1411	beschränkt	_	_
+12-26	1412-1418	werden	_	_
+12-27	1418-1419	.	_	_
+			_	
+#Text=Langfristig sollte die Siegburger Straße in eine Fahrradstraße umgewidmet werden.				
+13-1	1420-1431	Langfristig	_	_
+13-2	1432-1438	sollte	_	_
+13-3	1439-1442	die	_	*[19]
+13-4	1443-1453	Siegburger	_	*[19]
+13-5	1454-1460	Straße	_	*[19]
+13-6	1461-1463	in	_	_
+13-7	1464-1468	eine	_	_
+13-8	1469-1482	Fahrradstraße	_	_
+13-9	1483-1493	umgewidmet	_	_
+13-10	1494-1500	werden	_	_
+13-11	1500-1501	.	_	_

@@ -1,0 +1,78 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegbreite
+1-1	0-12	Radwegbreite	_	
+
+#Text=Hier wird der Radweg Richtung Osten gemeinsam mit den Fußgänger geführt auf einem schmalen Streifen zwischen parkenden Autos und den Hecken der Häuser.
+2-1	15-19	Hier	_	
+2-2	20-24	wird	_	
+2-3	25-28	der	_	
+2-4	29-35	Radweg	_	
+2-5	36-44	Richtung	_	
+2-6	45-50	Osten	_	
+2-7	51-60	gemeinsam	_	
+2-8	61-64	mit	_	
+2-9	65-68	den	_	
+2-10	69-78	Fußgänger	_	
+2-11	79-86	geführt	_	
+2-12	87-90	auf	_	
+2-13	91-96	einem	_	
+2-14	97-105	schmalen	_	
+2-15	106-114	Streifen	_	
+2-16	115-123	zwischen	_	
+2-17	124-133	parkenden	_	
+2-18	134-139	Autos	_	
+2-19	140-143	und	_	
+2-20	144-147	den	_	
+2-21	148-154	Hecken	_	
+2-22	155-158	der	_	
+2-23	159-165	Häuser	_	
+2-24	165-166	.	_	
+
+#Text=Für einen Radfahrer ist bei vielen Törchen erst sehr spät zusehen ob eine dort ein Fußgänger ist.
+3-1	167-170	Für	_	
+3-2	171-176	einen	_	
+3-3	177-186	Radfahrer	_	
+3-4	187-190	ist	_	
+3-5	191-194	bei	_	
+3-6	195-201	vielen	_	
+3-7	202-209	Törchen	_	
+3-8	210-214	erst	_	
+3-9	215-219	sehr	_	
+3-10	220-224	spät	_	
+3-11	225-232	zusehen	_	
+3-12	233-235	ob	_	
+3-13	236-240	eine	_	
+3-14	241-245	dort	_	
+3-15	246-249	ein	_	
+3-16	250-259	Fußgänger	_	
+3-17	260-263	ist	_	
+3-18	263-264	.	_	
+
+#Text=Gleichzeitig gibt es keinen Raum zum ausweichen.
+4-1	265-277	Gleichzeitig	_	
+4-2	278-282	gibt	_	
+4-3	283-285	es	_	
+4-4	286-292	keinen	_	
+4-5	293-297	Raum	_	
+4-6	298-301	zum	_	
+4-7	302-312	ausweichen	_	
+4-8	312-313	.	_	
+
+#Text=Somit lässt sich sicher hier nur mit knapp über Schrittgeschwindigkeit fahren.
+5-1	314-319	Somit	_	
+5-2	320-325	lässt	_	
+5-3	326-330	sich	_	
+5-4	331-337	sicher	_	
+5-5	338-342	hier	_	
+5-6	343-346	nur	_	
+5-7	347-350	mit	_	
+5-8	351-356	knapp	_	
+5-9	357-361	über	_	
+5-10	362-384	Schrittgeschwindigkeit	_	
+5-11	385-391	fahren	_	
+5-12	391-392	.	_	

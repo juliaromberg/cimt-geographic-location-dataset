@@ -1,0 +1,40 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradständer
+1-1	0-14	Fahrradständer	_	
+
+#Text=Es ist so bedauerlich, dass bei der Planung des nicht wirklich schön gewordenen Platzes nur so wenige Fahrradständer installiert wurden.
+2-1	17-19	Es	_	
+2-2	20-23	ist	_	
+2-3	24-26	so	_	
+2-4	27-38	bedauerlich	_	
+2-5	38-39	,	_	
+2-6	40-44	dass	_	
+2-7	45-48	bei	_	
+2-8	49-52	der	_	
+2-9	53-60	Planung	_	
+2-10	61-64	des	_	
+2-11	65-70	nicht	_	
+2-12	71-79	wirklich	_	
+2-13	80-85	schön	_	
+2-14	86-96	gewordenen	_	
+2-15	97-104	Platzes	_	
+2-16	105-108	nur	_	
+2-17	109-111	so	_	
+2-18	112-118	wenige	_	
+2-19	119-133	Fahrradständer	_	
+2-20	134-145	installiert	_	
+2-21	146-152	wurden	_	
+2-22	152-153	.	_	
+
+#Text=Ließe sich da etwas nachrüsten?
+3-1	154-159	Ließe	_	
+3-2	160-164	sich	_	
+3-3	165-167	da	_	
+3-4	168-173	etwas	_	
+3-5	174-184	nachrüsten	_	
+3-6	184-185	?	_	

@@ -1,0 +1,63 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Taxi = Beinahe-Kollision
+1-1	0-4	Taxi	_	
+1-2	5-6	=	_	
+1-3	7-24	Beinahe-Kollision	_	
+
+#Text=Es ist ja eigentlich eine Fahrradstraße.
+2-1	27-29	Es	_	
+2-2	30-33	ist	_	
+2-3	34-36	ja	_	
+2-4	37-47	eigentlich	_	
+2-5	48-52	eine	_	
+2-6	53-66	Fahrradstraße	_	
+2-7	66-67	.	_	
+
+#Text=Eigentlich.
+3-1	68-78	Eigentlich	_	
+3-2	78-79	.	_	
+
+#Text=Denn gerade die Taxifahrer stört das nicht, wenn sie mit weit über 30 km/h den Florentiusgraben entlangbrettern.
+4-1	80-84	Denn	_	
+4-2	85-91	gerade	_	
+4-3	92-95	die	_	
+4-4	96-106	Taxifahrer	_	
+4-5	107-112	stört	_	
+4-6	113-116	das	_	
+4-7	117-122	nicht	_	
+4-8	122-123	,	_	
+4-9	124-128	wenn	_	
+4-10	129-132	sie	_	
+4-11	133-136	mit	_	
+4-12	137-141	weit	_	
+4-13	142-146	über	_	
+4-14	147-149	30	_	
+4-15	150-152	km	_	
+4-16	152-153	/	_	
+4-17	153-154	h	_	
+4-18	155-158	den	_	
+4-19	159-175	Florentiusgraben	_	
+4-20	176-191	entlangbrettern	_	
+4-21	191-192	.	_	
+
+#Text=Entgegenkommende Radfahrer können dann nur ausweichen.
+5-1	193-209	Entgegenkommende	_	
+5-2	210-219	Radfahrer	_	
+5-3	220-226	können	_	
+5-4	227-231	dann	_	
+5-5	232-235	nur	_	
+5-6	236-246	ausweichen	_	
+5-7	246-247	.	_	
+
+#Text=Oder halt eine Kollision riskieren.
+6-1	248-252	Oder	_	
+6-2	253-257	halt	_	
+6-3	258-262	eine	_	
+6-4	263-272	Kollision	_	
+6-5	273-282	riskieren	_	
+6-6	282-283	.	_	

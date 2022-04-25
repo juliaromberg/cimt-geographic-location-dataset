@@ -1,0 +1,81 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Eigener Radweg
+1-1	0-7	Eigener	_	
+1-2	8-14	Radweg	_	
+
+#Text=In Bonn gibt es zu wenig Radwege, die wirklich den Radfahrern zugestanden werden.
+2-1	17-19	In	*[6]	
+2-2	20-24	Bonn	*[6]	
+2-3	25-29	gibt	_	
+2-4	30-32	es	_	
+2-5	33-35	zu	_	
+2-6	36-41	wenig	_	
+2-7	42-49	Radwege	_	
+2-8	49-50	,	_	
+2-9	51-54	die	_	
+2-10	55-63	wirklich	_	
+2-11	64-67	den	_	
+2-12	68-78	Radfahrern	_	
+2-13	79-90	zugestanden	_	
+2-14	91-97	werden	_	
+2-15	97-98	.	_	
+
+#Text=Sehr oft werden Radfahrer Gehwegen zugeordnet im Sinne von Gehweg-für Radfahrer frei.
+3-1	99-103	Sehr	_	
+3-2	104-107	oft	_	
+3-3	108-114	werden	_	
+3-4	115-124	Radfahrer	_	
+3-5	125-133	Gehwegen	_	
+3-6	134-144	zugeordnet	_	
+3-7	145-147	im	_	
+3-8	148-153	Sinne	_	
+3-9	154-157	von	_	
+3-10	158-168	Gehweg-für	_	
+3-11	169-178	Radfahrer	_	
+3-12	179-183	frei	_	
+3-13	183-184	.	_	
+
+#Text=Am Beueler Rheinufer gibt es diverse Möglichkeiten und viel Platz für Fußgänger.
+4-1	185-187	Am	*[7]	
+4-2	188-195	Beueler	*[7]	
+4-3	196-205	Rheinufer	*[7]	
+4-4	206-210	gibt	_	
+4-5	211-213	es	_	
+4-6	214-221	diverse	_	
+4-7	222-235	Möglichkeiten	_	
+4-8	236-239	und	_	
+4-9	240-244	viel	_	
+4-10	245-250	Platz	_	
+4-11	251-254	für	_	
+4-12	255-264	Fußgänger	_	
+4-13	264-265	.	_	
+
+#Text=Da fände ich es nur legitim, wenn der oben liegende Weg den Radfahrern vorbehalten bliebe und nicht auch eine Mischnutzung vorsieht.
+5-1	266-268	Da	_	
+5-2	269-274	fände	_	
+5-3	275-278	ich	_	
+5-4	279-281	es	_	
+5-5	282-285	nur	_	
+5-6	286-293	legitim	_	
+5-7	293-294	,	_	
+5-8	295-299	wenn	_	
+5-9	300-303	der	_	
+5-10	304-308	oben	_	
+5-11	309-317	liegende	_	
+5-12	318-321	Weg	_	
+5-13	322-325	den	_	
+5-14	326-336	Radfahrern	_	
+5-15	337-348	vorbehalten	_	
+5-16	349-355	bliebe	_	
+5-17	356-359	und	_	
+5-18	360-365	nicht	_	
+5-19	366-370	auch	_	
+5-20	371-375	eine	_	
+5-21	376-388	Mischnutzung	_	
+5-22	389-397	vorsieht	_	
+5-23	397-398	.	_	

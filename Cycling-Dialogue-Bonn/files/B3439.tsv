@@ -1,0 +1,117 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Inkonsistente Markierung des Linksabbiegerwegs
+1-1	0-13	Inkonsistente	_	
+1-2	14-24	Markierung	_	
+1-3	25-28	des	_	
+1-4	29-46	Linksabbiegerwegs	_	
+
+#Text=Als Radfahrer von Westen kommend biegt man vor der Verkehrsinsel links ab und fährt dann auf dem Nord-Westlichen Bürgersteig in die Röckumstraße Richtung Norden.
+2-1	49-52	Als	_	
+2-2	53-62	Radfahrer	_	
+2-3	63-66	von	_	
+2-4	67-73	Westen	_	
+2-5	74-81	kommend	_	
+2-6	82-87	biegt	_	
+2-7	88-91	man	_	
+2-8	92-95	vor	_	
+2-9	96-99	der	_	
+2-10	100-113	Verkehrsinsel	_	
+2-11	114-119	links	_	
+2-12	120-122	ab	_	
+2-13	123-126	und	_	
+2-14	127-132	fährt	_	
+2-15	133-137	dann	_	
+2-16	138-141	auf	*[7]	
+2-17	142-145	dem	*[7]	
+2-18	146-161	Nord-Westlichen	*[7]	
+2-19	162-173	Bürgersteig	*[7]	
+2-20	174-176	in	*[7]	
+2-21	177-180	die	*[7]	
+2-22	181-193	Röckumstraße	*[7]	
+2-23	194-202	Richtung	*[7]	
+2-24	203-209	Norden	*[7]	
+2-25	209-210	.	_	
+
+#Text=Auf dem Teil des Bürgersteigs sind vier Fahrradsymbole auf den Boden gemalt, zwei davon ohne blauen Grund, zwei mit.
+3-1	211-214	Auf	_	
+3-2	215-218	dem	_	
+3-3	219-223	Teil	_	
+3-4	224-227	des	_	
+3-5	228-240	Bürgersteigs	_	
+3-6	241-245	sind	_	
+3-7	246-250	vier	_	
+3-8	251-265	Fahrradsymbole	_	
+3-9	266-269	auf	_	
+3-10	270-273	den	_	
+3-11	274-279	Boden	_	
+3-12	280-286	gemalt	_	
+3-13	286-287	,	_	
+3-14	288-292	zwei	_	
+3-15	293-298	davon	_	
+3-16	299-303	ohne	_	
+3-17	304-310	blauen	_	
+3-18	311-316	Grund	_	
+3-19	316-317	,	_	
+3-20	318-322	zwei	_	
+3-21	323-326	mit	_	
+3-22	326-327	.	_	
+
+#Text=Somit ist nur das mittlere Stück wirklich benutzungspflichtig, das erscheint mir etwas merkwürdig.
+4-1	328-333	Somit	_	
+4-2	334-337	ist	_	
+4-3	338-341	nur	_	
+4-4	342-345	das	_	
+4-5	346-354	mittlere	_	
+4-6	355-360	Stück	_	
+4-7	361-369	wirklich	_	
+4-8	370-389	benutzungspflichtig	_	
+4-9	389-390	,	_	
+4-10	391-394	das	_	
+4-11	395-404	erscheint	_	
+4-12	405-408	mir	_	
+4-13	409-414	etwas	_	
+4-14	415-425	merkwürdig	_	
+4-15	425-426	.	_	
+
+#Text=Hier sollte wohl nur eine Sorte Symbole aufgemalt sein.
+5-1	427-431	Hier	_	
+5-2	432-438	sollte	_	
+5-3	439-443	wohl	_	
+5-4	444-447	nur	_	
+5-5	448-452	eine	_	
+5-6	453-458	Sorte	_	
+5-7	459-466	Symbole	_	
+5-8	467-476	aufgemalt	_	
+5-9	477-481	sein	_	
+5-10	481-482	.	_	
+
+#Text=Und außerdem steht die Polizei immer mal wieder bei Kontrollen auf genau diesem Stück des Radwegs, das empfinde ich auch als merkwürdig.
+6-1	483-486	Und	_	
+6-2	487-495	außerdem	_	
+6-3	496-501	steht	_	
+6-4	502-505	die	_	
+6-5	506-513	Polizei	_	
+6-6	514-519	immer	_	
+6-7	520-523	mal	_	
+6-8	524-530	wieder	_	
+6-9	531-534	bei	_	
+6-10	535-545	Kontrollen	_	
+6-11	546-549	auf	_	
+6-12	550-555	genau	_	
+6-13	556-562	diesem	_	
+6-14	563-568	Stück	_	
+6-15	569-572	des	_	
+6-16	573-580	Radwegs	_	
+6-17	580-581	,	_	
+6-18	582-585	das	_	
+6-19	586-594	empfinde	_	
+6-20	595-598	ich	_	
+6-21	599-603	auch	_	
+6-22	604-607	als	_	
+6-23	608-618	merkwürdig	_	
+6-24	618-619	.	_	

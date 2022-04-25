@@ -1,0 +1,91 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Brückenunterführung
+1-1	0-19	Brückenunterführung	_	
+
+#Text=Der in beide Richtungen nutzbare Rad/Gehweg ist unter der Brücke viel zu schmal.
+2-1	22-25	Der	_	
+2-2	26-28	in	_	
+2-3	29-34	beide	_	
+2-4	35-45	Richtungen	_	
+2-5	46-54	nutzbare	_	
+2-6	55-58	Rad	_	
+2-7	58-59	/	_	
+2-8	59-65	Gehweg	_	
+2-9	66-69	ist	_	
+2-10	70-75	unter	_	
+2-11	76-79	der	_	
+2-12	80-86	Brücke	_	
+2-13	87-91	viel	_	
+2-14	92-94	zu	_	
+2-15	95-101	schmal	_	
+2-16	101-102	.	_	
+
+#Text=Die Gehwegplatte haben ihre Fugen in Fahrtrichtung.
+3-1	103-106	Die	_	
+3-2	107-119	Gehwegplatte	_	
+3-3	120-125	haben	_	
+3-4	126-130	ihre	_	
+3-5	131-136	Fugen	_	
+3-6	137-139	in	_	
+3-7	140-153	Fahrtrichtung	_	
+3-8	153-154	.	_	
+
+#Text=Da die Platten nicht mehr genau bündig sind ist dort eine Längsrille entstanden, wo ich schon mehrfach hängen geblieben bin und fast gestürzt wäre.
+4-1	155-157	Da	_	
+4-2	158-161	die	_	
+4-3	162-169	Platten	_	
+4-4	170-175	nicht	_	
+4-5	176-180	mehr	_	
+4-6	181-186	genau	_	
+4-7	187-193	bündig	_	
+4-8	194-198	sind	_	
+4-9	199-202	ist	_	
+4-10	203-207	dort	_	
+4-11	208-212	eine	_	
+4-12	213-223	Längsrille	_	
+4-13	224-234	entstanden	_	
+4-14	234-235	,	_	
+4-15	236-238	wo	_	
+4-16	239-242	ich	_	
+4-17	243-248	schon	_	
+4-18	249-257	mehrfach	_	
+4-19	258-264	hängen	_	
+4-20	265-274	geblieben	_	
+4-21	275-278	bin	_	
+4-22	279-282	und	_	
+4-23	283-287	fast	_	
+4-24	288-296	gestürzt	_	
+4-25	297-301	wäre	_	
+4-26	301-302	.	_	
+
+#Text=Vorschlag: Belag neu machen.
+5-1	303-312	Vorschlag	_	
+5-2	312-313	:	_	
+5-3	314-319	Belag	_	
+5-4	320-323	neu	_	
+5-5	324-330	machen	_	
+5-6	330-331	.	_	
+
+#Text=Baulich läßt sich der Gehweg wohl nicht verbreitern, da die Brücke dafür kopmlett umgebaut werden müßte
+6-1	332-339	Baulich	_	
+6-2	340-344	läßt	_	
+6-3	345-349	sich	_	
+6-4	350-353	der	_	
+6-5	354-360	Gehweg	_	
+6-6	361-365	wohl	_	
+6-7	366-371	nicht	_	
+6-8	372-383	verbreitern	_	
+6-9	383-384	,	_	
+6-10	385-387	da	_	
+6-11	388-391	die	_	
+6-12	392-398	Brücke	_	
+6-13	399-404	dafür	_	
+6-14	405-413	kopmlett	_	
+6-15	414-422	umgebaut	_	
+6-16	423-429	werden	_	
+6-17	430-435	müßte	_	

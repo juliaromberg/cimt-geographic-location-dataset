@@ -1,0 +1,33 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Winterdienst
+1-1	0-12	Winterdienst	_	
+
+#Text=Ein regelmäßiger Winterdienst auf den Radwegen entlang der Kölnstraße von Buschdorf bis zur Kreuzung Saarbrückener Straße/Schlesienstraße in Bonn wäre schön.
+2-1	15-18	Ein	_	
+2-2	19-31	regelmäßiger	_	
+2-3	32-44	Winterdienst	_	
+2-4	45-48	auf	*[2]	
+2-5	49-52	den	*[2]	
+2-6	53-61	Radwegen	*[2]	
+2-7	62-69	entlang	*[2]	
+2-8	70-73	der	*[2]	
+2-9	74-84	Kölnstraße	*[2]	
+2-10	85-88	von	*[2]	
+2-11	89-98	Buschdorf	*[2]	
+2-12	99-102	bis	*[2]	
+2-13	103-106	zur	*[2]	
+2-14	107-115	Kreuzung	*[2]	
+2-15	116-129	Saarbrückener	*[2]	
+2-16	130-136	Straße	*[2]	
+2-17	136-137	/	*[2]	
+2-18	137-152	Schlesienstraße	*[2]	
+2-19	153-155	in	*[2]	
+2-20	156-160	Bonn	*[2]	
+2-21	161-165	wäre	_	
+2-22	166-171	schön	_	
+2-23	171-172	.	_	

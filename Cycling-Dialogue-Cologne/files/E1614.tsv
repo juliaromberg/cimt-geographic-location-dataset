@@ -1,0 +1,248 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Breitere Radwege.
+1-1	0-8	Breitere	_	
+1-2	9-16	Radwege	_	
+1-3	16-17	.	_	
+
+#Text=Breitere Wege für Fanrzeuge
+2-1	18-26	Breitere	_	
+2-2	27-31	Wege	_	
+2-3	32-35	für	_	
+2-4	36-45	Fanrzeuge	_	
+
+#Text=Seit 17 Jahren wünsche ich mir solch einen Dialog.
+3-1	48-52	Seit	_	
+3-2	53-55	17	_	
+3-3	56-62	Jahren	_	
+3-4	63-70	wünsche	_	
+3-5	71-74	ich	_	
+3-6	75-78	mir	_	
+3-7	79-84	solch	_	
+3-8	85-90	einen	_	
+3-9	91-97	Dialog	_	
+3-10	97-98	.	_	
+
+#Text=Danke nun dafür.
+4-1	99-104	Danke	_	
+4-2	105-108	nun	_	
+4-3	109-114	dafür	_	
+4-4	114-115	.	_	
+
+#Text=Jüngst wurde die Venloer Straße umgebaut:
+5-1	116-122	Jüngst	_	
+5-2	123-128	wurde	_	
+5-3	129-132	die	*[16]	
+5-4	133-140	Venloer	*[16]	
+5-5	141-147	Straße	*[16]	
+5-6	148-156	umgebaut	_	
+5-7	156-157	:	_	
+
+#Text=- Parkbuchten wurden verbreitert, durch Wegnahme der Fahhradwege vom Fußweg
+6-1	158-159	-	_	
+6-2	160-171	Parkbuchten	_	
+6-3	172-178	wurden	_	
+6-4	179-190	verbreitert	_	
+6-5	190-191	,	_	
+6-6	192-197	durch	_	
+6-7	198-206	Wegnahme	_	
+6-8	207-210	der	_	
+6-9	211-222	Fahhradwege	_	
+6-10	223-226	vom	_	
+6-11	227-233	Fußweg	_	
+
+#Text=- die Fahrradwege wurden links und rechts auf die Fahrbahn verlegt
+7-1	234-235	-	_	
+7-2	236-239	die	_	
+7-3	240-251	Fahrradwege	_	
+7-4	252-258	wurden	_	
+7-5	259-264	links	_	
+7-6	265-268	und	_	
+7-7	269-275	rechts	_	
+7-8	276-279	auf	_	
+7-9	280-283	die	_	
+7-10	284-292	Fahrbahn	_	
+7-11	293-300	verlegt	_	
+
+#Text=Soweit so gut.
+8-1	301-307	Soweit	_	
+8-2	308-310	so	_	
+8-3	311-314	gut	_	
+8-4	314-315	.	_	
+
+#Text=Problem: Als Radfahrer muss ich extremst aufpassen, nicht von Autos angefahren oder überfahren zu werden, da die Fahrbahn für Autos so schmal geworden ist, dass diese automatisch auf den Radwegen fahren.
+9-1	316-323	Problem	_	
+9-2	323-324	:	_	
+9-3	325-328	Als	_	
+9-4	329-338	Radfahrer	_	
+9-5	339-343	muss	_	
+9-6	344-347	ich	_	
+9-7	348-356	extremst	_	
+9-8	357-366	aufpassen	_	
+9-9	366-367	,	_	
+9-10	368-373	nicht	_	
+9-11	374-377	von	_	
+9-12	378-383	Autos	_	
+9-13	384-394	angefahren	_	
+9-14	395-399	oder	_	
+9-15	400-410	überfahren	_	
+9-16	411-413	zu	_	
+9-17	414-420	werden	_	
+9-18	420-421	,	_	
+9-19	422-424	da	_	
+9-20	425-428	die	_	
+9-21	429-437	Fahrbahn	_	
+9-22	438-441	für	_	
+9-23	442-447	Autos	_	
+9-24	448-450	so	_	
+9-25	451-457	schmal	_	
+9-26	458-466	geworden	_	
+9-27	467-470	ist	_	
+9-28	470-471	,	_	
+9-29	472-476	dass	_	
+9-30	477-482	diese	_	
+9-31	483-494	automatisch	_	
+9-32	495-498	auf	_	
+9-33	499-502	den	_	
+9-34	503-511	Radwegen	_	
+9-35	512-518	fahren	_	
+9-36	518-519	.	_	
+
+#Text=Meine Lösung zum Raddialog: Die Straßen Subbelrather Straße, Venloer Straße, Vogelsanger Straße und Weinsberstraße ausschließlich zweispurig zu gestalten.
+10-1	520-525	Meine	_	
+10-2	526-532	Lösung	_	
+10-3	533-536	zum	_	
+10-4	537-546	Raddialog	_	
+10-5	546-547	:	_	
+10-6	548-551	Die	*[17]	
+10-7	552-559	Straßen	*[17]	
+10-8	560-572	Subbelrather	*[17]	
+10-9	573-579	Straße	*[17]	
+10-10	579-580	,	*[17]	
+10-11	581-588	Venloer	*[17]	
+10-12	589-595	Straße	*[17]	
+10-13	595-596	,	*[17]	
+10-14	597-608	Vogelsanger	*[17]	
+10-15	609-615	Straße	*[17]	
+10-16	616-619	und	*[17]	
+10-17	620-634	Weinsberstraße	*[17]	
+10-18	635-649	ausschließlich	_	
+10-19	650-660	zweispurig	_	
+10-20	661-663	zu	_	
+10-21	664-673	gestalten	_	
+10-22	673-674	.	_	
+
+#Text=Tempo 30.
+11-1	675-680	Tempo	_	
+11-2	681-683	30	_	
+11-3	683-684	.	_	
+
+#Text=Und zwar eine Fahrbahn für das Auto und eine Fahrbahn für den Radfahrer.
+12-1	685-688	Und	_	
+12-2	689-693	zwar	_	
+12-3	694-698	eine	_	
+12-4	699-707	Fahrbahn	_	
+12-5	708-711	für	_	
+12-6	712-715	das	_	
+12-7	716-720	Auto	_	
+12-8	721-724	und	_	
+12-9	725-729	eine	_	
+12-10	730-738	Fahrbahn	_	
+12-11	739-742	für	_	
+12-12	743-746	den	_	
+12-13	747-756	Radfahrer	_	
+12-14	756-757	.	_	
+
+#Text=Eine weitere Möglichkeit an Fahrbahnen für Gegenverkehr (Auto/Rad) soll es nicht geben.
+13-1	758-762	Eine	_	
+13-2	763-770	weitere	_	
+13-3	771-782	Möglichkeit	_	
+13-4	783-785	an	_	
+13-5	786-796	Fahrbahnen	_	
+13-6	797-800	für	_	
+13-7	801-813	Gegenverkehr	_	
+13-8	814-815	(	_	
+13-9	815-819	Auto	_	
+13-10	819-820	/	_	
+13-11	820-823	Rad	_	
+13-12	823-824	)	_	
+13-13	825-829	soll	_	
+13-14	830-832	es	_	
+13-15	833-838	nicht	_	
+13-16	839-844	geben	_	
+13-17	844-845	.	_	
+
+#Text=Dies hat zur Folge, dass ein Einbahnstraßensystem eingeführt wird, wie folgt z.B. Subbelrather Straße = Einbahnstraße von A nach B Venloer Straße = Einbahnstraße von B nach A Vogelsanger Straße = Einbahnstraße von A nach B Weinsbergstraße = Einbahnstraße von B nach A
+14-1	846-850	Dies	_	
+14-2	851-854	hat	_	
+14-3	855-858	zur	_	
+14-4	859-864	Folge	_	
+14-5	864-865	,	_	
+14-6	866-870	dass	_	
+14-7	871-874	ein	_	
+14-8	875-895	Einbahnstraßensystem	_	
+14-9	896-906	eingeführt	_	
+14-10	907-911	wird	_	
+14-11	911-912	,	_	
+14-12	913-916	wie	_	
+14-13	917-922	folgt	_	
+14-14	923-926	z.B	_	
+14-15	926-927	.	_	
+14-16	928-940	Subbelrather	*[18]	
+14-17	941-947	Straße	*[18]	
+14-18	948-949	=	_	
+14-19	950-963	Einbahnstraße	_	
+14-20	964-967	von	_	
+14-21	968-969	A	_	
+14-22	970-974	nach	_	
+14-23	975-976	B	_	
+14-24	977-984	Venloer	*[19]	
+14-25	985-991	Straße	*[19]	
+14-26	992-993	=	_	
+14-27	994-1007	Einbahnstraße	_	
+14-28	1008-1011	von	_	
+14-29	1012-1013	B	_	
+14-30	1014-1018	nach	_	
+14-31	1019-1020	A	_	
+14-32	1021-1032	Vogelsanger	*[20]	
+14-33	1033-1039	Straße	*[20]	
+14-34	1040-1041	=	_	
+14-35	1042-1055	Einbahnstraße	_	
+14-36	1056-1059	von	_	
+14-37	1060-1061	A	_	
+14-38	1062-1066	nach	_	
+14-39	1067-1068	B	_	
+14-40	1069-1084	Weinsbergstraße	*	
+14-41	1085-1086	=	_	
+14-42	1087-1100	Einbahnstraße	_	
+14-43	1101-1104	von	_	
+14-44	1105-1106	B	_	
+14-45	1107-1111	nach	_	
+14-46	1112-1113	A	_	
+
+#Text=Des Weiteren sollten viel mehr Möglichkeiten geschaffen werden, genügend Platz zu schaffen, um Fahrräder vernünftig abschließen zu können.
+15-1	1114-1117	Des	_	
+15-2	1118-1126	Weiteren	_	
+15-3	1127-1134	sollten	_	
+15-4	1135-1139	viel	_	
+15-5	1140-1144	mehr	_	
+15-6	1145-1158	Möglichkeiten	_	
+15-7	1159-1169	geschaffen	_	
+15-8	1170-1176	werden	_	
+15-9	1176-1177	,	_	
+15-10	1178-1186	genügend	_	
+15-11	1187-1192	Platz	_	
+15-12	1193-1195	zu	_	
+15-13	1196-1204	schaffen	_	
+15-14	1204-1205	,	_	
+15-15	1206-1208	um	_	
+15-16	1209-1218	Fahrräder	_	
+15-17	1219-1229	vernünftig	_	
+15-18	1230-1241	abschließen	_	
+15-19	1242-1244	zu	_	
+15-20	1245-1251	können	_	
+15-21	1251-1252	.	_	

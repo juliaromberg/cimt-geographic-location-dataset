@@ -1,0 +1,155 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Stau durch Bahnschranke
+1-1	0-4	Stau	_	
+1-2	5-10	durch	_	
+1-3	11-23	Bahnschranke	_	
+
+#Text=Hier habe ich es schon oft erlebt, dass AutofahrerInnen ganz dreist die Straße blockieren, weil sie über den Bahnübergang fahren wollen und warten, bis die Schranke aufgeht.
+2-1	26-30	Hier	_	
+2-2	31-35	habe	_	
+2-3	36-39	ich	_	
+2-4	40-42	es	_	
+2-5	43-48	schon	_	
+2-6	49-52	oft	_	
+2-7	53-59	erlebt	_	
+2-8	59-60	,	_	
+2-9	61-65	dass	_	
+2-10	66-81	AutofahrerInnen	_	
+2-11	82-86	ganz	_	
+2-12	87-93	dreist	_	
+2-13	94-97	die	_	
+2-14	98-104	Straße	_	
+2-15	105-115	blockieren	_	
+2-16	115-116	,	_	
+2-17	117-121	weil	_	
+2-18	122-125	sie	_	
+2-19	126-130	über	_	
+2-20	131-134	den	_	
+2-21	135-147	Bahnübergang	_	
+2-22	148-154	fahren	_	
+2-23	155-161	wollen	_	
+2-24	162-165	und	_	
+2-25	166-172	warten	_	
+2-26	172-173	,	_	
+2-27	174-177	bis	_	
+2-28	178-181	die	_	
+2-29	182-190	Schranke	_	
+2-30	191-198	aufgeht	_	
+2-31	198-199	.	_	
+
+#Text=Das ist in dem kurzen Abschnitt der Königstraße direkt vor der Schranke ja kein Problem, aber in den Stoßzeiten wird zum Teil die komplette Prinz-Albert-Straße bis zum Hotel Bristol aufgestaut von Autos, dazwischen steckenbeibenden Straßenbahnen etc.
+3-1	200-203	Das	_	
+3-2	204-207	ist	_	
+3-3	208-210	in	*[7]	
+3-4	211-214	dem	*[7]	
+3-5	215-221	kurzen	*[7]	
+3-6	222-231	Abschnitt	*[7]	
+3-7	232-235	der	*[7]	
+3-8	236-247	Königstraße	*[7]	
+3-9	248-254	direkt	*[7]	
+3-10	255-258	vor	*[7]	
+3-11	259-262	der	*[7]	
+3-12	263-271	Schranke	*[7]	
+3-13	272-274	ja	_	
+3-14	275-279	kein	_	
+3-15	280-287	Problem	_	
+3-16	287-288	,	_	
+3-17	289-293	aber	_	
+3-18	294-296	in	_	
+3-19	297-300	den	_	
+3-20	301-311	Stoßzeiten	_	
+3-21	312-316	wird	_	
+3-22	317-320	zum	_	
+3-23	321-325	Teil	_	
+3-24	326-329	die	*[8]	
+3-25	330-339	komplette	*[8]	
+3-26	340-359	Prinz-Albert-Straße	*[8]	
+3-27	360-363	bis	*[8]	
+3-28	364-367	zum	*[8]	
+3-29	368-373	Hotel	*[8]	
+3-30	374-381	Bristol	*[8]	
+3-31	382-392	aufgestaut	_	
+3-32	393-396	von	_	
+3-33	397-402	Autos	_	
+3-34	402-403	,	_	
+3-35	404-414	dazwischen	_	
+3-36	415-431	steckenbeibenden	_	
+3-37	432-445	Straßenbahnen	_	
+3-38	446-449	etc	_	
+3-39	449-450	.	_	
+
+#Text=Das ist eine Zumutung nicht nur für RadfahrerInnen, sondern auch für alle anderen Verkehrsteilnehmer.
+4-1	451-454	Das	_	
+4-2	455-458	ist	_	
+4-3	459-463	eine	_	
+4-4	464-472	Zumutung	_	
+4-5	473-478	nicht	_	
+4-6	479-482	nur	_	
+4-7	483-486	für	_	
+4-8	487-501	RadfahrerInnen	_	
+4-9	501-502	,	_	
+4-10	503-510	sondern	_	
+4-11	511-515	auch	_	
+4-12	516-519	für	_	
+4-13	520-524	alle	_	
+4-14	525-532	anderen	_	
+4-15	533-551	Verkehrsteilnehmer	_	
+4-16	551-552	.	_	
+
+#Text=Es wäre ja durchaus möglich, eine andere Strecke zu fahren, wenn die Schranke an der Königstr. zu ist und es einen Rückstau gibt.
+5-1	553-555	Es	_	
+5-2	556-560	wäre	_	
+5-3	561-563	ja	_	
+5-4	564-572	durchaus	_	
+5-5	573-580	möglich	_	
+5-6	580-581	,	_	
+5-7	582-586	eine	_	
+5-8	587-593	andere	_	
+5-9	594-601	Strecke	_	
+5-10	602-604	zu	_	
+5-11	605-611	fahren	_	
+5-12	611-612	,	_	
+5-13	613-617	wenn	_	
+5-14	618-621	die	_	
+5-15	622-630	Schranke	_	
+5-16	631-633	an	*[9]	
+5-17	634-637	der	*[9]	
+5-18	638-646	Königstr	*[9]	
+5-19	646-647	.	*[9]	
+5-20	648-650	zu	_	
+5-21	651-654	ist	_	
+5-22	655-658	und	_	
+5-23	659-661	es	_	
+5-24	662-667	einen	_	
+5-25	668-676	Rückstau	_	
+5-26	677-681	gibt	_	
+5-27	681-682	.	_	
+
+#Text=Kann man das nicht besser kontrollieren und die Autofahrer dafür sensibilisieren, dass sie dort nicht absichtlich einen Stau provozieren dürfen?
+6-1	683-687	Kann	_	
+6-2	688-691	man	_	
+6-3	692-695	das	_	
+6-4	696-701	nicht	_	
+6-5	702-708	besser	_	
+6-6	709-722	kontrollieren	_	
+6-7	723-726	und	_	
+6-8	727-730	die	_	
+6-9	731-741	Autofahrer	_	
+6-10	742-747	dafür	_	
+6-11	748-763	sensibilisieren	_	
+6-12	763-764	,	_	
+6-13	765-769	dass	_	
+6-14	770-773	sie	_	
+6-15	774-778	dort	_	
+6-16	779-784	nicht	_	
+6-17	785-796	absichtlich	_	
+6-18	797-802	einen	_	
+6-19	803-807	Stau	_	
+6-20	808-819	provozieren	_	
+6-21	820-826	dürfen	_	
+6-22	826-827	?	_	

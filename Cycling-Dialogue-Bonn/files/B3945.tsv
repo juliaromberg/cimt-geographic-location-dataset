@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlender Fahrradweg an der Franz-Josef-Strauß-Allee
+1-1	0-9	Fehlender	_	
+1-2	10-20	Fahrradweg	_	
+1-3	21-23	an	*[4]	
+1-4	24-27	der	*[4]	
+1-5	28-52	Franz-Josef-Strauß-Allee	*[4]	
+
+#Text=Für Fahrradfahrer ist die Befahrung der Franz-Josef-Strauß-Allee sehr gefährlich, da die Autofahrer hier sehr schnell fahren und kein Fahrradweg vorhanden ist.
+2-1	55-58	Für	_	
+2-2	59-72	Fahrradfahrer	_	
+2-3	73-76	ist	_	
+2-4	77-80	die	_	
+2-5	81-90	Befahrung	_	
+2-6	91-94	der	_	
+2-7	95-119	Franz-Josef-Strauß-Allee	*	
+2-8	120-124	sehr	_	
+2-9	125-135	gefährlich	_	
+2-10	135-136	,	_	
+2-11	137-139	da	_	
+2-12	140-143	die	_	
+2-13	144-154	Autofahrer	_	
+2-14	155-159	hier	_	
+2-15	160-164	sehr	_	
+2-16	165-172	schnell	_	
+2-17	173-179	fahren	_	
+2-18	180-183	und	_	
+2-19	184-188	kein	_	
+2-20	189-199	Fahrradweg	_	
+2-21	200-209	vorhanden	_	
+2-22	210-213	ist	_	
+2-23	213-214	.	_	
+
+#Text=Insbesondere von der Marie-Kahle-Allee kommend sind Radfahrer im Rechtsknick der Franz-Josef-Strauß-Allee von den meist sehr schnell fahrenden Autos durch die Biegung der Straße schlecht bis gar nicht zu sehen.
+3-1	215-227	Insbesondere	_	
+3-2	228-231	von	*[5]	
+3-3	232-235	der	*[5]	
+3-4	236-253	Marie-Kahle-Allee	*[5]	
+3-5	254-261	kommend	*[5]	
+3-6	262-266	sind	*[5]	
+3-7	267-276	Radfahrer	_	
+3-8	277-279	im	*[6]	
+3-9	280-291	Rechtsknick	*[6]	
+3-10	292-295	der	*[6]	
+3-11	296-320	Franz-Josef-Strauß-Allee	*[6]	
+3-12	321-324	von	_	
+3-13	325-328	den	_	
+3-14	329-334	meist	_	
+3-15	335-339	sehr	_	
+3-16	340-347	schnell	_	
+3-17	348-357	fahrenden	_	
+3-18	358-363	Autos	_	
+3-19	364-369	durch	_	
+3-20	370-373	die	_	
+3-21	374-381	Biegung	_	
+3-22	382-385	der	_	
+3-23	386-392	Straße	_	
+3-24	393-401	schlecht	_	
+3-25	402-405	bis	_	
+3-26	406-409	gar	_	
+3-27	410-415	nicht	_	
+3-28	416-418	zu	_	
+3-29	419-424	sehen	_	
+3-30	424-425	.	_	

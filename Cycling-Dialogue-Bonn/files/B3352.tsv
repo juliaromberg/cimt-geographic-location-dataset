@@ -1,0 +1,17 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bundesgrenzschutzstrasse
+1-1	0-24	Bundesgrenzschutzstrasse	*	
+
+#Text=Fahrradweg stellenweise in schlechtem Zustand, Hubbel
+2-1	27-37	Fahrradweg	_	
+2-2	38-50	stellenweise	_	
+2-3	51-53	in	_	
+2-4	54-64	schlechtem	_	
+2-5	65-72	Zustand	_	
+2-6	72-73	,	_	
+2-7	74-80	Hubbel	_	

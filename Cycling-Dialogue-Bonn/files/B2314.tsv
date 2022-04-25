@@ -1,0 +1,45 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlende Fahrrad-Abstellmöglichkeit
+1-1	0-8	Fehlende	_	
+1-2	9-35	Fahrrad-Abstellmöglichkeit	_	
+
+#Text=Hier kommt es im Bereich der Gastronomie öfter zu Engpässen auf dem Bürgersteig, wenn mehrere Radfahrer die örtlichen Gastronomien besuchen.
+2-1	38-42	Hier	_	
+2-2	43-48	kommt	_	
+2-3	49-51	es	_	
+2-4	52-54	im	_	
+2-5	55-62	Bereich	_	
+2-6	63-66	der	_	
+2-7	67-78	Gastronomie	_	
+2-8	79-84	öfter	_	
+2-9	85-87	zu	_	
+2-10	88-97	Engpässen	_	
+2-11	98-101	auf	_	
+2-12	102-105	dem	_	
+2-13	106-117	Bürgersteig	_	
+2-14	117-118	,	_	
+2-15	119-123	wenn	_	
+2-16	124-131	mehrere	_	
+2-17	132-141	Radfahrer	_	
+2-18	142-145	die	_	
+2-19	146-155	örtlichen	_	
+2-20	156-168	Gastronomien	_	
+2-21	169-177	besuchen	_	
+2-22	177-178	.	_	
+
+#Text=Lösungsvorschlag: KFZ-Parkplätze streichen und mit geeigneten Fahrradständern ausstatten.
+3-1	179-195	Lösungsvorschlag	_	
+3-2	195-196	:	_	
+3-3	197-211	KFZ-Parkplätze	_	
+3-4	212-221	streichen	_	
+3-5	222-225	und	_	
+3-6	226-229	mit	_	
+3-7	230-240	geeigneten	_	
+3-8	241-256	Fahrradständern	_	
+3-9	257-267	ausstatten	_	
+3-10	267-268	.	_	

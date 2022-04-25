@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Poller
+1-1	0-6	Poller	_	
+
+#Text=Hier hat man nicht nur den Poller, der Autofahrer hindern soll in den Weg einzufahren, entfernt sondern das Fundament gleich mit.
+2-1	9-13	Hier	_	
+2-2	14-17	hat	_	
+2-3	18-21	man	_	
+2-4	22-27	nicht	_	
+2-5	28-31	nur	_	
+2-6	32-35	den	_	
+2-7	36-42	Poller	_	
+2-8	42-43	,	_	
+2-9	44-47	der	_	
+2-10	48-58	Autofahrer	_	
+2-11	59-66	hindern	_	
+2-12	67-71	soll	_	
+2-13	72-74	in	_	
+2-14	75-78	den	_	
+2-15	79-82	Weg	_	
+2-16	83-94	einzufahren	_	
+2-17	94-95	,	_	
+2-18	96-104	entfernt	_	
+2-19	105-112	sondern	_	
+2-20	113-116	das	_	
+2-21	117-126	Fundament	_	
+2-22	127-133	gleich	_	
+2-23	134-137	mit	_	
+2-24	137-138	.	_	
+
+#Text=Das gute Stück liegt samt Betonklumpen daneben im Gebüsch :-)
+3-1	139-142	Das	_	
+3-2	143-147	gute	_	
+3-3	148-153	Stück	_	
+3-4	154-159	liegt	_	
+3-5	160-164	samt	_	
+3-6	165-177	Betonklumpen	_	
+3-7	178-185	daneben	_	
+3-8	186-188	im	_	
+3-9	189-196	Gebüsch	_	
+3-10	197-198	:	_	
+3-11	198-199	-	_	
+3-12	199-200	)	_	

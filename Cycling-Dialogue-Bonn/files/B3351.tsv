@@ -1,0 +1,40 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Siegburger Strasse
+1-1	0-10	Siegburger	*[4]	
+1-2	11-18	Strasse	*[4]	
+
+#Text=Der Radweg in Stadtauswärtsrichtung ist viel zu eng für zwei Spuren und hat viele Hubbel, zB von Baumwurzeln.
+2-1	21-24	Der	_	
+2-2	25-31	Radweg	_	
+2-3	32-34	in	_	
+2-4	35-56	Stadtauswärtsrichtung	_	
+2-5	57-60	ist	_	
+2-6	61-65	viel	_	
+2-7	66-68	zu	_	
+2-8	69-72	eng	_	
+2-9	73-76	für	_	
+2-10	77-81	zwei	_	
+2-11	82-88	Spuren	_	
+2-12	89-92	und	_	
+2-13	93-96	hat	_	
+2-14	97-102	viele	_	
+2-15	103-109	Hubbel	_	
+2-16	109-110	,	_	
+2-17	111-113	zB	_	
+2-18	114-117	von	_	
+2-19	118-129	Baumwurzeln	_	
+2-20	129-130	.	_	
+
+#Text=Auch viel zu viele Ampeln etc.
+3-1	131-135	Auch	_	
+3-2	136-140	viel	_	
+3-3	141-143	zu	_	
+3-4	144-149	viele	_	
+3-5	150-156	Ampeln	_	
+3-6	157-160	etc	_	
+3-7	160-161	.	_	

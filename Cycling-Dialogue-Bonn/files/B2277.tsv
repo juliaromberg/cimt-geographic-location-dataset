@@ -1,0 +1,163 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwege setzen einfach aus?
+1-1	0-7	Radwege	_	
+1-2	8-14	setzen	_	
+1-3	15-22	einfach	_	
+1-4	23-26	aus	_	
+1-5	26-27	?	_	
+
+#Text=Entlang von Siemensstraße und Auf dem Hügel gibt es gut markierte Radverkehrsstreifen.
+2-1	30-37	Entlang	*[8]	
+2-2	38-41	von	*[8]	
+2-3	42-55	Siemensstraße	*[8]	
+2-4	56-59	und	*[8]	
+2-5	60-63	Auf	*[8]	
+2-6	64-67	dem	*[8]	
+2-7	68-73	Hügel	*[8]	
+2-8	74-78	gibt	_	
+2-9	79-81	es	_	
+2-10	82-85	gut	_	
+2-11	86-95	markierte	_	
+2-12	96-115	Radverkehrsstreifen	_	
+2-13	115-116	.	_	
+
+#Text=Diese setzen jedoch im Bereich der Eisenbahnbrücke, wo sich die Fahrbahn insgesamt verengt ohne Ankündigung einfach aus.
+3-1	117-122	Diese	_	
+3-2	123-129	setzen	_	
+3-3	130-136	jedoch	_	
+3-4	137-139	im	*[9]	
+3-5	140-147	Bereich	*[9]	
+3-6	148-151	der	*[9]	
+3-7	152-167	Eisenbahnbrücke	*[9]	
+3-8	167-168	,	_	
+3-9	169-171	wo	_	
+3-10	172-176	sich	_	
+3-11	177-180	die	_	
+3-12	181-189	Fahrbahn	_	
+3-13	190-199	insgesamt	_	
+3-14	200-207	verengt	_	
+3-15	208-212	ohne	_	
+3-16	213-224	Ankündigung	_	
+3-17	225-232	einfach	_	
+3-18	233-236	aus	_	
+3-19	236-237	.	_	
+
+#Text=Durch den verbreiterten Gehweg in beide Fahrtrichtungen ist man gezwungen, sich mit dem Rad nach links, sprich in nicht gerade langsam fließenden Verkehr einzufädeln.
+4-1	238-243	Durch	_	
+4-2	244-247	den	_	
+4-3	248-261	verbreiterten	_	
+4-4	262-268	Gehweg	_	
+4-5	269-271	in	_	
+4-6	272-277	beide	_	
+4-7	278-293	Fahrtrichtungen	_	
+4-8	294-297	ist	_	
+4-9	298-301	man	_	
+4-10	302-311	gezwungen	_	
+4-11	311-312	,	_	
+4-12	313-317	sich	_	
+4-13	318-321	mit	_	
+4-14	322-325	dem	_	
+4-15	326-329	Rad	_	
+4-16	330-334	nach	_	
+4-17	335-340	links	_	
+4-18	340-341	,	_	
+4-19	342-348	sprich	_	
+4-20	349-351	in	_	
+4-21	352-357	nicht	_	
+4-22	358-364	gerade	_	
+4-23	365-372	langsam	_	
+4-24	373-383	fließenden	_	
+4-25	384-391	Verkehr	_	
+4-26	392-403	einzufädeln	_	
+4-27	403-404	.	_	
+
+#Text=Vor allem aus Dransdorf kommend, mithin bergan, wird man hier auch gerne schnell noch mal sehr knapp überholt.
+5-1	405-408	Vor	_	
+5-2	409-414	allem	_	
+5-3	415-418	aus	*[10]	
+5-4	419-428	Dransdorf	*[10]	
+5-5	429-436	kommend	*[10]	
+5-6	436-437	,	_	
+5-7	438-444	mithin	_	
+5-8	445-451	bergan	_	
+5-9	451-452	,	_	
+5-10	453-457	wird	_	
+5-11	458-461	man	_	
+5-12	462-466	hier	_	
+5-13	467-471	auch	_	
+5-14	472-477	gerne	_	
+5-15	478-485	schnell	_	
+5-16	486-490	noch	_	
+5-17	491-494	mal	_	
+5-18	495-499	sehr	_	
+5-19	500-505	knapp	_	
+5-20	506-514	überholt	_	
+5-21	514-515	.	_	
+
+#Text=Man steht ja sonst als bergan fahrender Radfahrer auf den nächsten ca. 150m quasi im Weg....
+6-1	516-519	Man	_	
+6-2	520-525	steht	_	
+6-3	526-528	ja	_	
+6-4	529-534	sonst	_	
+6-5	535-538	als	_	
+6-6	539-545	bergan	_	
+6-7	546-555	fahrender	_	
+6-8	556-565	Radfahrer	_	
+6-9	566-569	auf	_	
+6-10	570-573	den	_	
+6-11	574-582	nächsten	_	
+6-12	583-585	ca	_	
+6-13	585-586	.	_	
+6-14	587-591	150m	_	
+6-15	592-597	quasi	_	
+6-16	598-600	im	_	
+6-17	601-604	Weg	_	
+6-18	604-605	.	_	
+6-19	605-606	.	_	
+6-20	606-607	.	_	
+6-21	607-608	.	_	
+
+#Text=Vorschlag: Tempo 30 (immerhin auch Bahnhof- und Bushaltestellen mit Verkehrsinsel als Querungshilfe für Fußgänger) und wenn schon kein durchgehender Radweg, so wenigstens durch Schutzstreifen kenntlich machen, dass der Radverkehr auch weiterläuft.
+7-1	609-618	Vorschlag	_	
+7-2	618-619	:	_	
+7-3	620-625	Tempo	_	
+7-4	626-628	30	_	
+7-5	629-630	(	_	
+7-6	630-638	immerhin	_	
+7-7	639-643	auch	_	
+7-8	644-651	Bahnhof	_	
+7-9	651-652	-	_	
+7-10	653-656	und	_	
+7-11	657-672	Bushaltestellen	_	
+7-12	673-676	mit	_	
+7-13	677-690	Verkehrsinsel	_	
+7-14	691-694	als	_	
+7-15	695-708	Querungshilfe	_	
+7-16	709-712	für	_	
+7-17	713-722	Fußgänger	_	
+7-18	722-723	)	_	
+7-19	724-727	und	_	
+7-20	728-732	wenn	_	
+7-21	733-738	schon	_	
+7-22	739-743	kein	_	
+7-23	744-757	durchgehender	_	
+7-24	758-764	Radweg	_	
+7-25	764-765	,	_	
+7-26	766-768	so	_	
+7-27	769-779	wenigstens	_	
+7-28	780-785	durch	_	
+7-29	786-800	Schutzstreifen	_	
+7-30	801-810	kenntlich	_	
+7-31	811-817	machen	_	
+7-32	817-818	,	_	
+7-33	819-823	dass	_	
+7-34	824-827	der	_	
+7-35	828-838	Radverkehr	_	
+7-36	839-843	auch	_	
+7-37	844-855	weiterläuft	_	
+7-38	855-856	.	_	

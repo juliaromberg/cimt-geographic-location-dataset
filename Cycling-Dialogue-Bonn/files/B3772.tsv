@@ -1,0 +1,33 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zebrastreifen
+1-1	0-13	Zebrastreifen	_	
+
+#Text=Nutzen des Zebrastreifens über die Joseph beugst Allee auch für Radfahrer ermöglichen.
+2-1	16-22	Nutzen	_	
+2-2	23-26	des	_	
+2-3	27-41	Zebrastreifens	_	
+2-4	42-46	über	*[3]	
+2-5	47-50	die	*[3]	
+2-6	51-57	Joseph	*[3]	
+2-7	58-64	beugst	*[3]	
+2-8	65-70	Allee	*[3]	
+2-9	71-75	auch	_	
+2-10	76-79	für	_	
+2-11	80-89	Radfahrer	_	
+2-12	90-101	ermöglichen	_	
+2-13	101-102	.	_	
+
+#Text=95 % der Nutzer des Zebrastreifens sind Radfahrer
+3-1	103-105	95	_	
+3-2	106-107	%	_	
+3-3	108-111	der	_	
+3-4	112-118	Nutzer	_	
+3-5	119-122	des	_	
+3-6	123-137	Zebrastreifens	_	
+3-7	138-142	sind	_	
+3-8	143-152	Radfahrer	_	

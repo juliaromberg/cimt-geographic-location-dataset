@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=verbotswidrig parkende Fahrzeuge
+1-1	0-13	verbotswidrig	_	
+1-2	14-22	parkende	_	
+1-3	23-32	Fahrzeuge	_	
+
+#Text=Wenn man vom Wiesenweg kommend rechts in die Brahmsstraße einbiegen möchte sorgen falsch parkende Fahrzeuge dafür, dass man auf die Gegenspur gerät.
+2-1	35-39	Wenn	_	
+2-2	40-43	man	_	
+2-3	44-47	vom	*[3]	
+2-4	48-57	Wiesenweg	*[3]	
+2-5	58-65	kommend	*[3]	
+2-6	66-72	rechts	*[3]	
+2-7	73-75	in	*[3]	
+2-8	76-79	die	*[3]	
+2-9	80-92	Brahmsstraße	*[3]	
+2-10	93-102	einbiegen	*[3]	
+2-11	103-109	möchte	_	
+2-12	110-116	sorgen	_	
+2-13	117-123	falsch	_	
+2-14	124-132	parkende	_	
+2-15	133-142	Fahrzeuge	_	
+2-16	143-148	dafür	_	
+2-17	148-149	,	_	
+2-18	150-154	dass	_	
+2-19	155-158	man	_	
+2-20	159-162	auf	_	
+2-21	163-166	die	_	
+2-22	167-176	Gegenspur	_	
+2-23	177-182	gerät	_	
+2-24	182-183	.	_	

@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlende Querungsmöglichkeit
+1-1	0-8	Fehlende	_	
+1-2	9-28	Querungsmöglichkeit	_	
+
+#Text=Derzeit existiert keine sinnvolle Möglichkeit von der Auerberger Allee die Pariser Str. an der Auerberger Mitte zu queren.
+2-1	31-38	Derzeit	_	
+2-2	39-48	existiert	_	
+2-3	49-54	keine	_	
+2-4	55-64	sinnvolle	_	
+2-5	65-76	Möglichkeit	_	
+2-6	77-80	von	*[4]	
+2-7	81-84	der	*[4]	
+2-8	85-95	Auerberger	*[4]	
+2-9	96-101	Allee	*[4]	
+2-10	102-105	die	*[4]	
+2-11	106-113	Pariser	*[4]	
+2-12	114-117	Str	*[4]	
+2-13	117-118	.	*[4]	
+2-14	119-121	an	*[4]	
+2-15	122-125	der	*[4]	
+2-16	126-136	Auerberger	*[4]	
+2-17	137-142	Mitte	*[4]	
+2-18	143-145	zu	*[4]	
+2-19	146-152	queren	*[4]	
+2-20	152-153	.	_	
+
+#Text=Lösungsvorschlag: Einrichtung einer Querungsmöglichkeit für den Radverkehr.
+3-1	154-170	Lösungsvorschlag	_	
+3-2	170-171	:	_	
+3-3	172-183	Einrichtung	_	
+3-4	184-189	einer	_	
+3-5	190-209	Querungsmöglichkeit	_	
+3-6	210-213	für	_	
+3-7	214-217	den	_	
+3-8	218-228	Radverkehr	_	
+3-9	228-229	.	_	

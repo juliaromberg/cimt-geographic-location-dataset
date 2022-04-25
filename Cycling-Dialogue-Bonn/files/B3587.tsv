@@ -1,0 +1,162 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Haltestelle Ollenhauerstraße
+1-1	0-11	Gefährliche	_	
+1-2	12-23	Haltestelle	*[9]	
+1-3	24-40	Ollenhauerstraße	*[9]	
+
+#Text=Aus der Präambel des Verkehrswegeplans: Die Stadt Bonn möchte in Zukunft den in der Stadt fließenden Verkehr umweltverträglicher und nachhaltiger als heute bewältigen.
+2-1	43-46	Aus	_	
+2-2	47-50	der	_	
+2-3	51-59	Präambel	_	
+2-4	60-63	des	_	
+2-5	64-81	Verkehrswegeplans	_	
+2-6	81-82	:	_	
+2-7	83-86	Die	_	
+2-8	87-92	Stadt	_	
+2-9	93-97	Bonn	_	
+2-10	98-104	möchte	_	
+2-11	105-107	in	_	
+2-12	108-115	Zukunft	_	
+2-13	116-119	den	_	
+2-14	120-122	in	_	
+2-15	123-126	der	_	
+2-16	127-132	Stadt	_	
+2-17	133-143	fließenden	_	
+2-18	144-151	Verkehr	_	
+2-19	152-171	umweltverträglicher	_	
+2-20	172-175	und	_	
+2-21	176-188	nachhaltiger	_	
+2-22	189-192	als	_	
+2-23	193-198	heute	_	
+2-24	199-209	bewältigen	_	
+2-25	209-210	.	_	
+
+#Text=Mein Vorschlag: gestalten Sie die Haltestellen sicher und kapazitätsgerecht.
+3-1	211-215	Mein	_	
+3-2	216-225	Vorschlag	_	
+3-3	225-226	:	_	
+3-4	227-236	gestalten	_	
+3-5	237-240	Sie	_	
+3-6	241-244	die	_	
+3-7	245-257	Haltestellen	_	
+3-8	258-264	sicher	_	
+3-9	265-268	und	_	
+3-10	269-286	kapazitätsgerecht	_	
+3-11	286-287	.	_	
+
+#Text=Viele Menschen werden dann gerne den öffentlichen Nahverkehr benutzen.
+4-1	288-293	Viele	_	
+4-2	294-302	Menschen	_	
+4-3	303-309	werden	_	
+4-4	310-314	dann	_	
+4-5	315-320	gerne	_	
+4-6	321-324	den	_	
+4-7	325-337	öffentlichen	_	
+4-8	338-348	Nahverkehr	_	
+4-9	349-357	benutzen	_	
+4-10	357-358	.	_	
+
+#Text=Schüler sind schon jetzt darauf angewiesen.
+5-1	359-366	Schüler	_	
+5-2	367-371	sind	_	
+5-3	372-377	schon	_	
+5-4	378-383	jetzt	_	
+5-5	384-390	darauf	_	
+5-6	391-401	angewiesen	_	
+5-7	401-402	.	_	
+
+#Text=Konkreter Vorschlag: Die Plattform bzw. der Übergang zu den beiden Straßenseiten an der in der Mitte der B9 befindlichen Haltestelle Ollenhauerstr. ist viel zu klein.
+6-1	403-412	Konkreter	_	
+6-2	413-422	Vorschlag	_	
+6-3	422-423	:	_	
+6-4	424-427	Die	_	
+6-5	428-437	Plattform	_	
+6-6	438-441	bzw	_	
+6-7	441-442	.	_	
+6-8	443-446	der	*[10]	
+6-9	447-455	Übergang	*[10]	
+6-10	456-458	zu	*[10]	
+6-11	459-462	den	*[10]	
+6-12	463-469	beiden	*[10]	
+6-13	470-483	Straßenseiten	*[10]	
+6-14	484-486	an	*[10]	
+6-15	487-490	der	*[10]	
+6-16	491-493	in	*[10]	
+6-17	494-497	der	*[10]	
+6-18	498-503	Mitte	*[10]	
+6-19	504-507	der	*[10]	
+6-20	508-510	B9	*[10]	
+6-21	511-523	befindlichen	*[10]	
+6-22	524-535	Haltestelle	*[10]	
+6-23	536-549	Ollenhauerstr	*[10]	
+6-24	549-550	.	*[10]	
+6-25	551-554	ist	_	
+6-26	555-559	viel	_	
+6-27	560-562	zu	_	
+6-28	563-568	klein	_	
+6-29	568-569	.	_	
+
+#Text=Schnellen Abfluss der Benutzer ohne Umbaumaßnahmen könnte man dadurch erreichen, dass die Ampel bei ankommender Bahn auf Grün schaltet.
+7-1	570-579	Schnellen	_	
+7-2	580-587	Abfluss	_	
+7-3	588-591	der	_	
+7-4	592-600	Benutzer	_	
+7-5	601-605	ohne	_	
+7-6	606-620	Umbaumaßnahmen	_	
+7-7	621-627	könnte	_	
+7-8	628-631	man	_	
+7-9	632-639	dadurch	_	
+7-10	640-649	erreichen	_	
+7-11	649-650	,	_	
+7-12	651-655	dass	_	
+7-13	656-659	die	_	
+7-14	660-665	Ampel	_	
+7-15	666-669	bei	_	
+7-16	670-681	ankommender	_	
+7-17	682-686	Bahn	_	
+7-18	687-690	auf	_	
+7-19	691-695	Grün	_	
+7-20	696-704	schaltet	_	
+7-21	704-705	.	_	
+
+#Text=Schüler (FEG) und Berufstätige (Postbank, Telekom, GIZ etc.) könnten dann sofort nach Ausstieg die Straße überqueren, sodass sich am Übergang nicht die gefährliche Drängelei ergeben würde.
+8-1	706-713	Schüler	_	
+8-2	714-715	(	_	
+8-3	715-718	FEG	_	
+8-4	718-719	)	_	
+8-5	720-723	und	_	
+8-6	724-736	Berufstätige	_	
+8-7	737-738	(	_	
+8-8	738-746	Postbank	_	
+8-9	746-747	,	_	
+8-10	748-755	Telekom	_	
+8-11	755-756	,	_	
+8-12	757-760	GIZ	_	
+8-13	761-764	etc	_	
+8-14	764-765	.	_	
+8-15	765-766	)	_	
+8-16	767-774	könnten	_	
+8-17	775-779	dann	_	
+8-18	780-786	sofort	_	
+8-19	787-791	nach	_	
+8-20	792-800	Ausstieg	_	
+8-21	801-804	die	_	
+8-22	805-811	Straße	_	
+8-23	812-822	überqueren	_	
+8-24	822-823	,	_	
+8-25	824-830	sodass	_	
+8-26	831-835	sich	_	
+8-27	836-838	am	_	
+8-28	839-847	Übergang	_	
+8-29	848-853	nicht	_	
+8-30	854-857	die	_	
+8-31	858-869	gefährliche	_	
+8-32	870-879	Drängelei	_	
+8-33	880-887	ergeben	_	
+8-34	888-893	würde	_	
+8-35	893-894	.	_	

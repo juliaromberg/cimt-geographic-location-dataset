@@ -1,0 +1,28 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schutzstreifen Deichmanns Aue
+1-1	0-14	Schutzstreifen	_	
+1-2	15-25	Deichmanns	*[3]	
+1-3	26-29	Aue	*[3]	
+
+#Text=Zumindest in Fahrtrichtung Norden (Steigung!) würde ein Schutzstreifen für mehr Sicherheit sorgen.
+2-1	32-41	Zumindest	_	
+2-2	42-44	in	_	
+2-3	45-58	Fahrtrichtung	_	
+2-4	59-65	Norden	_	
+2-5	66-67	(	_	
+2-6	67-75	Steigung	_	
+2-7	75-76	!	_	
+2-8	76-77	)	_	
+2-9	78-83	würde	_	
+2-10	84-87	ein	_	
+2-11	88-102	Schutzstreifen	_	
+2-12	103-106	für	_	
+2-13	107-111	mehr	_	
+2-14	112-122	Sicherheit	_	
+2-15	123-129	sorgen	_	
+2-16	129-130	.	_	

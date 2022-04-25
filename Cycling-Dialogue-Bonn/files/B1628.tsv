@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Regelmäßige Verkehrsverstöße und Gefährdung
+1-1	0-11	Regelmäßige	_	
+1-2	12-28	Verkehrsverstöße	_	
+1-3	29-32	und	_	
+1-4	33-43	Gefährdung	_	
+
+#Text=Da das Schild auch Radfahrer betrifft, stellt sich die Frage nach dem Sinn, da Radfahrer ja keinen Lärm und Abgase verbreiten.
+2-1	46-48	Da	_	
+2-2	49-52	das	_	
+2-3	53-59	Schild	_	
+2-4	60-64	auch	_	
+2-5	65-74	Radfahrer	_	
+2-6	75-83	betrifft	_	
+2-7	83-84	,	_	
+2-8	85-91	stellt	_	
+2-9	92-96	sich	_	
+2-10	97-100	die	_	
+2-11	101-106	Frage	_	
+2-12	107-111	nach	_	
+2-13	112-115	dem	_	
+2-14	116-120	Sinn	_	
+2-15	120-121	,	_	
+2-16	122-124	da	_	
+2-17	125-134	Radfahrer	_	
+2-18	135-137	ja	_	
+2-19	138-144	keinen	_	
+2-20	145-149	Lärm	_	
+2-21	150-153	und	_	
+2-22	154-160	Abgase	_	
+2-23	161-171	verbreiten	_	
+2-24	171-172	.	_	
+
+#Text=Zur wirklichen Verkehrsberuhigung (Ausnahme Anlieger frei!) sollte man dieses Verkehrszeichen 250: Durchfahrt verboten mit dem Zusatz versehen Radfahrer frei, dann fahren keine Autos mehr durch und der Verkehr wird beruhigt!
+3-1	173-176	Zur	_	
+3-2	177-187	wirklichen	_	
+3-3	188-206	Verkehrsberuhigung	_	
+3-4	207-208	(	_	
+3-5	208-216	Ausnahme	_	
+3-6	217-225	Anlieger	_	
+3-7	226-230	frei	_	
+3-8	230-231	!	_	
+3-9	231-232	)	_	
+3-10	233-239	sollte	_	
+3-11	240-243	man	_	
+3-12	244-250	dieses	_	
+3-13	251-266	Verkehrszeichen	_	
+3-14	267-270	250	_	
+3-15	270-271	:	_	
+3-16	272-282	Durchfahrt	_	
+3-17	283-291	verboten	_	
+3-18	292-295	mit	_	
+3-19	296-299	dem	_	
+3-20	300-306	Zusatz	_	
+3-21	307-315	versehen	_	
+3-22	316-325	Radfahrer	_	
+3-23	326-330	frei	_	
+3-24	330-331	,	_	
+3-25	332-336	dann	_	
+3-26	337-343	fahren	_	
+3-27	344-349	keine	_	
+3-28	350-355	Autos	_	
+3-29	356-360	mehr	_	
+3-30	361-366	durch	_	
+3-31	367-370	und	_	
+3-32	371-374	der	_	
+3-33	375-382	Verkehr	_	
+3-34	383-387	wird	_	
+3-35	388-396	beruhigt	_	
+3-36	396-397	!	_	

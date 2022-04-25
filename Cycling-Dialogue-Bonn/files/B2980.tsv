@@ -1,0 +1,78 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Weiterführung des Radweges Richtung Lievelingsweg
+1-1	0-13	Weiterführung	_	
+1-2	14-17	des	_	
+1-3	18-26	Radweges	_	
+1-4	27-35	Richtung	*[7]	
+1-5	36-49	Lievelingsweg	*[7]	
+
+#Text=Der aus Richtung Heinrich-Böll-Ring kommende Radweg endet an der Ecke Dorotheenstaße.
+2-1	52-55	Der	_	
+2-2	56-59	aus	*[8]	
+2-3	60-68	Richtung	*[8]	
+2-4	69-87	Heinrich-Böll-Ring	*[8]	
+2-5	88-96	kommende	*[8]	
+2-6	97-103	Radweg	*[8]	
+2-7	104-109	endet	*[8]	
+2-8	110-112	an	*[8]	
+2-9	113-116	der	*[8]	
+2-10	117-121	Ecke	*[8]	
+2-11	122-136	Dorotheenstaße	*[8]	
+2-12	136-137	.	_	
+
+#Text=Eine Verlängerung bis zum Lievelingsweg (Richtung Kölnstraße) fehlt unverständlicherweise.
+3-1	138-142	Eine	_	
+3-2	143-155	Verlängerung	_	
+3-3	156-159	bis	*[9]	
+3-4	160-163	zum	*[9]	
+3-5	164-177	Lievelingsweg	*[9]	
+3-6	178-179	(	*[9]	
+3-7	179-187	Richtung	*[9]	
+3-8	188-198	Kölnstraße	*[9]	
+3-9	198-199	)	_	
+3-10	200-205	fehlt	_	
+3-11	206-227	unverständlicherweise	_	
+3-12	227-228	.	_	
+
+#Text=Es bleibt nur der gefährliche Weg über die Aral-Tankstelle.
+4-1	229-231	Es	_	
+4-2	232-238	bleibt	_	
+4-3	239-242	nur	_	
+4-4	243-246	der	_	
+4-5	247-258	gefährliche	_	
+4-6	259-262	Weg	_	
+4-7	263-267	über	_	
+4-8	268-271	die	_	
+4-9	272-287	Aral-Tankstelle	_	
+4-10	287-288	.	_	
+
+#Text=In Gegenrichtung ist die Gefahrensituation noch ausgeprägter.
+5-1	289-291	In	_	
+5-2	292-305	Gegenrichtung	_	
+5-3	306-309	ist	_	
+5-4	310-313	die	_	
+5-5	314-331	Gefahrensituation	_	
+5-6	332-336	noch	_	
+5-7	337-349	ausgeprägter	_	
+5-8	349-350	.	_	
+
+#Text=Ich bin froh, dass ich in diesem Bereich noch nicht verunglückt bin.
+6-1	351-354	Ich	_	
+6-2	355-358	bin	_	
+6-3	359-363	froh	_	
+6-4	363-364	,	_	
+6-5	365-369	dass	_	
+6-6	370-373	ich	_	
+6-7	374-376	in	_	
+6-8	377-383	diesem	_	
+6-9	384-391	Bereich	_	
+6-10	392-396	noch	_	
+6-11	397-402	nicht	_	
+6-12	403-414	verunglückt	_	
+6-13	415-418	bin	_	
+6-14	418-419	.	_	

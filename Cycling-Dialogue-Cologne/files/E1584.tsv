@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefaerliche Kurve
+1-1	0-11	Gefaerliche	_	
+1-2	12-17	Kurve	_	
+
+#Text=Auf diesem Teilstueck kommt es regelmaessig zu gefaehrlichen Situationen, da Autofahrer Radler in der Kurve ueberholen und dann bei Gegenverkehr schneiden.
+2-1	20-23	Auf	_	
+2-2	24-30	diesem	_	
+2-3	31-41	Teilstueck	_	
+2-4	42-47	kommt	_	
+2-5	48-50	es	_	
+2-6	51-63	regelmaessig	_	
+2-7	64-66	zu	_	
+2-8	67-80	gefaehrlichen	_	
+2-9	81-92	Situationen	_	
+2-10	92-93	,	_	
+2-11	94-96	da	_	
+2-12	97-107	Autofahrer	_	
+2-13	108-114	Radler	_	
+2-14	115-117	in	_	
+2-15	118-121	der	_	
+2-16	122-127	Kurve	_	
+2-17	128-138	ueberholen	_	
+2-18	139-142	und	_	
+2-19	143-147	dann	_	
+2-20	148-151	bei	_	
+2-21	152-164	Gegenverkehr	_	
+2-22	165-174	schneiden	_	
+2-23	174-175	.	_	
+
+#Text=Parken neu regeln und zwischen Oskar Jaeger Str und Guertel Schutzstreifen, Piktogramme oder ander Massnahmen
+3-1	176-182	Parken	_	
+3-2	183-186	neu	_	
+3-3	187-193	regeln	_	
+3-4	194-197	und	_	
+3-5	198-206	zwischen	*[4]	
+3-6	207-212	Oskar	*[4]	
+3-7	213-219	Jaeger	*[4]	
+3-8	220-223	Str	*[4]	
+3-9	224-227	und	*[4]	
+3-10	228-235	Guertel	*[4]	
+3-11	236-250	Schutzstreifen	_	
+3-12	250-251	,	_	
+3-13	252-263	Piktogramme	_	
+3-14	264-268	oder	_	
+3-15	269-274	ander	_	
+3-16	275-285	Massnahmen	_	

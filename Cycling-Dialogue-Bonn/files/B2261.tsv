@@ -1,0 +1,98 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radstreifen weiterführen oder Radweg einrichten
+1-1	0-11	Radstreifen	_	
+1-2	12-24	weiterführen	_	
+1-3	25-29	oder	_	
+1-4	30-36	Radweg	_	
+1-5	37-47	einrichten	_	
+
+#Text=Der Radstreifen der Oberkasseler Straße endet in östlicher Richtung am Parkplatz Dornheckensee.
+2-1	50-53	Der	*[6]	
+2-2	54-65	Radstreifen	*[6]	
+2-3	66-69	der	*[6]	
+2-4	70-82	Oberkasseler	*[6]	
+2-5	83-89	Straße	*[6]	
+2-6	90-95	endet	_	
+2-7	96-98	in	*[7]	
+2-8	99-108	östlicher	*[7]	
+2-9	109-117	Richtung	*[7]	
+2-10	118-120	am	*[7]	
+2-11	121-130	Parkplatz	*[7]	
+2-12	131-144	Dornheckensee	*[7]	
+2-13	144-145	.	_	
+
+#Text=Die Straße stellt die einzige Verbindung von der Südbrücke (Telekom etc.) Richtung Holtorf, Stieldorf etc. dar.
+3-1	146-149	Die	_	
+3-2	150-156	Straße	_	
+3-3	157-163	stellt	_	
+3-4	164-167	die	_	
+3-5	168-175	einzige	_	
+3-6	176-186	Verbindung	_	
+3-7	187-190	von	*[8]	
+3-8	191-194	der	*[8]	
+3-9	195-204	Südbrücke	*[8]	
+3-10	205-206	(	*[8]	
+3-11	206-213	Telekom	*[8]	
+3-12	214-217	etc	*[8]	
+3-13	217-218	.	*[8]	
+3-14	218-219	)	*[8]	
+3-15	220-228	Richtung	*[8]	
+3-16	229-236	Holtorf	*[8]	
+3-17	236-237	,	*[8]	
+3-18	238-247	Stieldorf	*[8]	
+3-19	248-251	etc	*[8]	
+3-20	251-252	.	_	
+3-21	253-256	dar	_	
+3-22	256-257	.	_	
+
+#Text=Für Radfahrer ist sie ab Parkplatz Dornheckensee - insbesondere im Berufsverkehr - nur noch unter Lebensgefahr zu benutzen.
+4-1	258-261	Für	_	
+4-2	262-271	Radfahrer	_	
+4-3	272-275	ist	_	
+4-4	276-279	sie	_	
+4-5	280-282	ab	*[9]	
+4-6	283-292	Parkplatz	*[9]	
+4-7	293-306	Dornheckensee	*[9]	
+4-8	307-308	-	_	
+4-9	309-321	insbesondere	_	
+4-10	322-324	im	_	
+4-11	325-338	Berufsverkehr	_	
+4-12	339-340	-	_	
+4-13	341-344	nur	_	
+4-14	345-349	noch	_	
+4-15	350-355	unter	_	
+4-16	356-368	Lebensgefahr	_	
+4-17	369-371	zu	_	
+4-18	372-380	benutzen	_	
+4-19	380-381	.	_	
+
+#Text=Ein Radweg bis zum Anschluss an die Pützchens Chaussee würde erheblich mehr Pendler aus der Region um Stieldorf zur Nutzung des Fahrrads bewegen.
+5-1	382-385	Ein	_	
+5-2	386-392	Radweg	_	
+5-3	393-396	bis	*[10]	
+5-4	397-400	zum	*[10]	
+5-5	401-410	Anschluss	*[10]	
+5-6	411-413	an	*[10]	
+5-7	414-417	die	*[10]	
+5-8	418-427	Pützchens	*[10]	
+5-9	428-436	Chaussee	*[10]	
+5-10	437-442	würde	_	
+5-11	443-452	erheblich	_	
+5-12	453-457	mehr	_	
+5-13	458-465	Pendler	_	
+5-14	466-469	aus	*[11]	
+5-15	470-473	der	*[11]	
+5-16	474-480	Region	*[11]	
+5-17	481-483	um	*[11]	
+5-18	484-493	Stieldorf	*[11]	
+5-19	494-497	zur	_	
+5-20	498-505	Nutzung	_	
+5-21	506-509	des	_	
+5-22	510-518	Fahrrads	_	
+5-23	519-526	bewegen	_	
+5-24	526-527	.	_	

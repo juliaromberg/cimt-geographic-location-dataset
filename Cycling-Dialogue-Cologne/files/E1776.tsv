@@ -1,0 +1,56 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+#FORMAT=WebAnno TSV 3.2			_	
+#T_SP=webanno.custom.Typ|Name			_	
+#T_SP=webanno.custom.Verortung|			_	
+			_	
+			_	
+#Text=Radstreifen Mathias-Brüggen-Straße				
+1-1	0-11	Radstreifen	_	_
+1-2	12-34	Mathias-Brüggen-Straße	_	*
+			_	
+#Text=Die Mathias-Brüggen-Straße hat nur im Bereich der Kreuzung mit der Hugo-Eckener-Str. kurze Stücke Radweg, die im Nichts enden.				
+2-1	37-40	Die	_	*[4]
+2-2	41-63	Mathias-Brüggen-Straße	_	*[4]
+2-3	64-67	hat	_	_
+2-4	68-71	nur	_	_
+2-5	72-74	im	_	_
+2-6	75-82	Bereich	_	_
+2-7	83-86	der	_	_
+2-8	87-95	Kreuzung	_	*[5]
+2-9	96-99	mit	_	*[5]
+2-10	100-103	der	_	*[5]
+2-11	104-120	Hugo-Eckener-Str	_	*[5]
+2-12	120-121	.	_	_
+2-13	122-127	kurze	_	_
+2-14	128-134	Stücke	_	_
+2-15	135-141	Radweg	_	_
+2-16	141-142	,	_	_
+2-17	143-146	die	_	_
+2-18	147-149	im	_	_
+2-19	150-156	Nichts	_	_
+2-20	157-162	enden	_	_
+2-21	162-163	.	_	_
+			_	
+#Text=In Richtung Venloer Straße ist das eine extrem breite Straße, die sich für eine Eimermaßnahme Schutzstreifen anbietet.				
+3-1	164-166	In	_	*[6]
+3-2	167-175	Richtung	_	*[6]
+3-3	176-183	Venloer	_	*[6]
+3-4	184-190	Straße	_	*[6]
+3-5	191-194	ist	_	_
+3-6	195-198	das	_	_
+3-7	199-203	eine	_	_
+3-8	204-210	extrem	_	_
+3-9	211-217	breite	_	_
+3-10	218-224	Straße	_	_
+3-11	224-225	,	_	_
+3-12	226-229	die	_	_
+3-13	230-234	sich	_	_
+3-14	235-238	für	_	_
+3-15	239-243	eine	_	_
+3-16	244-257	Eimermaßnahme	_	_
+3-17	258-272	Schutzstreifen	_	_
+3-18	273-281	anbietet	_	_
+3-19	281-282	.	_	_

@@ -1,0 +1,95 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fortführung des Radweges Richtung Haltestelle `Brühler Straße`
+1-1	0-11	Fortführung	_	
+1-2	12-15	des	_	
+1-3	16-24	Radweges	*[6]	
+1-4	25-33	Richtung	*[6]	
+1-5	34-45	Haltestelle	*[6]	
+1-6	46-47	`	*[6]	
+1-7	47-54	Brühler	*[6]	
+1-8	55-61	Straße	_	
+1-9	61-62	`	_	
+
+#Text=Es gibt keinen richtigen Radweg nach der Rampe vom Bendenweg herab in Richtung Haltestelle Brühler Straße, bzw keine Freigabe des Gehweges in beide Richtungen.
+2-1	65-67	Es	_	
+2-2	68-72	gibt	_	
+2-3	73-79	keinen	_	
+2-4	80-89	richtigen	_	
+2-5	90-96	Radweg	_	
+2-6	97-101	nach	*[7]	
+2-7	102-105	der	*[7]	
+2-8	106-111	Rampe	*[7]	
+2-9	112-115	vom	*[7]	
+2-10	116-125	Bendenweg	*[7]	
+2-11	126-131	herab	*[7]	
+2-12	132-134	in	*[7]	
+2-13	135-143	Richtung	*[7]	
+2-14	144-155	Haltestelle	*[7]	
+2-15	156-163	Brühler	*[7]	
+2-16	164-170	Straße	*[7]	
+2-17	170-171	,	_	
+2-18	172-175	bzw	_	
+2-19	176-181	keine	_	
+2-20	182-190	Freigabe	_	
+2-21	191-194	des	_	
+2-22	195-203	Gehweges	_	
+2-23	204-206	in	_	
+2-24	207-212	beide	_	
+2-25	213-223	Richtungen	_	
+2-26	223-224	.	_	
+
+#Text=Dies sollte eingerichtet werden, da gerade im Berufsverkehr oftmals brenzlige Situationen entstehen.
+3-1	225-229	Dies	_	
+3-2	230-236	sollte	_	
+3-3	237-249	eingerichtet	_	
+3-4	250-256	werden	_	
+3-5	256-257	,	_	
+3-6	258-260	da	_	
+3-7	261-267	gerade	_	
+3-8	268-270	im	_	
+3-9	271-284	Berufsverkehr	_	
+3-10	285-292	oftmals	_	
+3-11	293-302	brenzlige	_	
+3-12	303-314	Situationen	_	
+3-13	315-324	entstehen	_	
+3-14	324-325	.	_	
+
+#Text=Abgesehen davon ist die Fahrradstr. Bendenweg nicht ausreichend als solche ausgeschildert.
+4-1	326-335	Abgesehen	_	
+4-2	336-341	davon	_	
+4-3	342-345	ist	_	
+4-4	346-349	die	*[8]	
+4-5	350-360	Fahrradstr	*[8]	
+4-6	360-361	.	*[8]	
+4-7	362-371	Bendenweg	*[8]	
+4-8	372-377	nicht	_	
+4-9	378-389	ausreichend	_	
+4-10	390-393	als	_	
+4-11	394-400	solche	_	
+4-12	401-415	ausgeschildert	_	
+4-13	415-416	.	_	
+
+#Text=Deswegen kommt es oft zu Konflikten und Bedrohungen mit dem Schwerlast-, Zuliefer- und Autoverkehr.
+5-1	417-425	Deswegen	_	
+5-2	426-431	kommt	_	
+5-3	432-434	es	_	
+5-4	435-438	oft	_	
+5-5	439-441	zu	_	
+5-6	442-452	Konflikten	_	
+5-7	453-456	und	_	
+5-8	457-468	Bedrohungen	_	
+5-9	469-472	mit	_	
+5-10	473-476	dem	_	
+5-11	477-487	Schwerlast	_	
+5-12	487-488	-	_	
+5-13	488-489	,	_	
+5-14	490-498	Zuliefer	_	
+5-15	498-499	-	_	
+5-16	500-503	und	_	
+5-17	504-515	Autoverkehr	_	
+5-18	515-516	.	_	

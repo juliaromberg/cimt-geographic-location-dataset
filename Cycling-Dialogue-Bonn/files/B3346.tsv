@@ -1,0 +1,112 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Hindernisse mitten im Radweg
+1-1	0-11	Hindernisse	_	
+1-2	12-18	mitten	_	
+1-3	19-21	im	_	
+1-4	22-28	Radweg	_	
+
+#Text=Zwar ist die Unterführung unter der Autobahn bzw. westlich davon sehr breit, aber mittendrin gibt es mehrere Hindernisse (Baumscheiben mit Geländer ringsum), die bei Dunkelheit schwer zu erkennen sind.
+2-1	31-35	Zwar	_	
+2-2	36-39	ist	_	
+2-3	40-43	die	_	
+2-4	44-56	Unterführung	_	
+2-5	57-62	unter	_	
+2-6	63-66	der	_	
+2-7	67-75	Autobahn	_	
+2-8	76-79	bzw	_	
+2-9	79-80	.	_	
+2-10	81-89	westlich	_	
+2-11	90-95	davon	_	
+2-12	96-100	sehr	_	
+2-13	101-106	breit	_	
+2-14	106-107	,	_	
+2-15	108-112	aber	_	
+2-16	113-123	mittendrin	_	
+2-17	124-128	gibt	_	
+2-18	129-131	es	_	
+2-19	132-139	mehrere	_	
+2-20	140-151	Hindernisse	_	
+2-21	152-153	(	_	
+2-22	153-165	Baumscheiben	_	
+2-23	166-169	mit	_	
+2-24	170-178	Geländer	_	
+2-25	179-186	ringsum	_	
+2-26	186-187	)	_	
+2-27	187-188	,	_	
+2-28	189-192	die	_	
+2-29	193-196	bei	_	
+2-30	197-207	Dunkelheit	_	
+2-31	208-214	schwer	_	
+2-32	215-217	zu	_	
+2-33	218-226	erkennen	_	
+2-34	227-231	sind	_	
+2-35	231-232	.	_	
+
+#Text=Hinzu kommt die schlechte Beleuchtung.
+3-1	233-238	Hinzu	_	
+3-2	239-244	kommt	_	
+3-3	245-248	die	_	
+3-4	249-258	schlechte	_	
+3-5	259-270	Beleuchtung	_	
+3-6	270-271	.	_	
+
+#Text=Die Stadt Bonn vernachlässigt hier genauso wie auf dem weiterführenden Hauptweg Richtung Posttower wegen zahlreicher defekter Laternen sträflich ihre Verkehrssicherungspflicht, und das seit Jahren.
+4-1	272-275	Die	_	
+4-2	276-281	Stadt	_	
+4-3	282-286	Bonn	_	
+4-4	287-301	vernachlässigt	_	
+4-5	302-306	hier	_	
+4-6	307-314	genauso	_	
+4-7	315-318	wie	_	
+4-8	319-322	auf	_	
+4-9	323-326	dem	_	
+4-10	327-342	weiterführenden	_	
+4-11	343-351	Hauptweg	_	
+4-12	352-360	Richtung	*[7]	
+4-13	361-370	Posttower	*[7]	
+4-14	371-376	wegen	_	
+4-15	377-388	zahlreicher	_	
+4-16	389-397	defekter	_	
+4-17	398-406	Laternen	_	
+4-18	407-416	sträflich	_	
+4-19	417-421	ihre	_	
+4-20	422-447	Verkehrssicherungspflicht	_	
+4-21	447-448	,	_	
+4-22	449-452	und	_	
+4-23	453-456	das	_	
+4-24	457-461	seit	_	
+4-25	462-468	Jahren	_	
+4-26	468-469	.	_	
+
+#Text=Entsprechende Hinweise auf der entsprechenden Mängelsite der Stadt hat auch keine Verbesserung bewirkt.
+5-1	470-483	Entsprechende	_	
+5-2	484-492	Hinweise	_	
+5-3	493-496	auf	_	
+5-4	497-500	der	_	
+5-5	501-515	entsprechenden	_	
+5-6	516-526	Mängelsite	_	
+5-7	527-530	der	_	
+5-8	531-536	Stadt	_	
+5-9	537-540	hat	_	
+5-10	541-545	auch	_	
+5-11	546-551	keine	_	
+5-12	552-564	Verbesserung	_	
+5-13	565-572	bewirkt	_	
+5-14	572-573	.	_	
+
+#Text=Was nutzt Bürgerbeteiligung, wenn sich dann nichts tut?
+6-1	574-577	Was	_	
+6-2	578-583	nutzt	_	
+6-3	584-601	Bürgerbeteiligung	_	
+6-4	601-602	,	_	
+6-5	603-607	wenn	_	
+6-6	608-612	sich	_	
+6-7	613-617	dann	_	
+6-8	618-624	nichts	_	
+6-9	625-628	tut	_	
+6-10	628-629	?	_	

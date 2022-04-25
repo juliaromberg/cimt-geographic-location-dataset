@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fußgänger kontrollieren und Verwarngelder verteilen
+1-1	0-9	Fußgänger	_	
+1-2	10-23	kontrollieren	_	
+1-3	24-27	und	_	
+1-4	28-41	Verwarngelder	_	
+1-5	42-51	verteilen	_	
+
+#Text=Bitte hier kontrollieren und Fußgänger mit Verwarngeld belegen, die immer wieder über den Radweg latschen.
+2-1	54-59	Bitte	_	
+2-2	60-64	hier	_	
+2-3	65-78	kontrollieren	_	
+2-4	79-82	und	_	
+2-5	83-92	Fußgänger	_	
+2-6	93-96	mit	_	
+2-7	97-108	Verwarngeld	_	
+2-8	109-116	belegen	_	
+2-9	116-117	,	_	
+2-10	118-121	die	_	
+2-11	122-127	immer	_	
+2-12	128-134	wieder	_	
+2-13	135-139	über	_	
+2-14	140-143	den	_	
+2-15	144-150	Radweg	_	
+2-16	151-159	latschen	_	
+2-17	159-160	.	_	
+
+#Text=Radfahrer werden schließlich auch immer wieder wegen Lappalien angehalten und mit einem Verwarngeld belegt.
+3-1	161-170	Radfahrer	_	
+3-2	171-177	werden	_	
+3-3	178-189	schließlich	_	
+3-4	190-194	auch	_	
+3-5	195-200	immer	_	
+3-6	201-207	wieder	_	
+3-7	208-213	wegen	_	
+3-8	214-223	Lappalien	_	
+3-9	224-234	angehalten	_	
+3-10	235-238	und	_	
+3-11	239-242	mit	_	
+3-12	243-248	einem	_	
+3-13	249-260	Verwarngeld	_	
+3-14	261-267	belegt	_	
+3-15	267-268	.	_	

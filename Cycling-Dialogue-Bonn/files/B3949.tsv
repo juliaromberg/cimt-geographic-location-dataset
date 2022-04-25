@@ -1,0 +1,59 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Normale Kreuzung oder Kreisverkehr
+1-1	0-7	Normale	_	
+1-2	8-16	Kreuzung	_	
+1-3	17-21	oder	_	
+1-4	22-34	Kreisverkehr	_	
+
+#Text=Bei der Kreuzung Euskirchener Str / Erich-Hoffmann-Str handelt sich um eine ganz normale Kreuzung.
+2-1	37-40	Bei	*[5]	
+2-2	41-44	der	*[5]	
+2-3	45-53	Kreuzung	*[5]	
+2-4	54-66	Euskirchener	*[5]	
+2-5	67-70	Str	*[5]	
+2-6	71-72	/	*[5]	
+2-7	73-91	Erich-Hoffmann-Str	*[5]	
+2-8	92-99	handelt	_	
+2-9	100-104	sich	_	
+2-10	105-107	um	_	
+2-11	108-112	eine	_	
+2-12	113-117	ganz	_	
+2-13	118-125	normale	_	
+2-14	126-134	Kreuzung	_	
+2-15	134-135	.	_	
+
+#Text=Durch die kreisrunde Pflasterung wird allerdings ein Kreisverkehr suggeriert, was immer wieder zu Irritationen führt.
+3-1	136-141	Durch	_	
+3-2	142-145	die	_	
+3-3	146-156	kreisrunde	_	
+3-4	157-168	Pflasterung	_	
+3-5	169-173	wird	_	
+3-6	174-184	allerdings	_	
+3-7	185-188	ein	_	
+3-8	189-201	Kreisverkehr	_	
+3-9	202-212	suggeriert	_	
+3-10	212-213	,	_	
+3-11	214-217	was	_	
+3-12	218-223	immer	_	
+3-13	224-230	wieder	_	
+3-14	231-233	zu	_	
+3-15	234-246	Irritationen	_	
+3-16	247-252	führt	_	
+3-17	252-253	.	_	
+
+#Text=Vielleicht würde eine genauere Beschilderung an dieser Kreuzung helfen.
+4-1	254-264	Vielleicht	_	
+4-2	265-270	würde	_	
+4-3	271-275	eine	_	
+4-4	276-284	genauere	_	
+4-5	285-298	Beschilderung	_	
+4-6	299-301	an	_	
+4-7	302-308	dieser	_	
+4-8	309-317	Kreuzung	_	
+4-9	318-324	helfen	_	
+4-10	324-325	.	_	

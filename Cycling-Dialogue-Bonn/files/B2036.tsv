@@ -1,0 +1,54 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radstreifen auf der Bornheimer sind viel zu eng!
+1-1	0-11	Radstreifen	*[4]	
+1-2	12-15	auf	*[4]	
+1-3	16-19	der	*[4]	
+1-4	20-30	Bornheimer	*[4]	
+1-5	31-35	sind	_	
+1-6	36-40	viel	_	
+1-7	41-43	zu	_	
+1-8	44-47	eng	_	
+1-9	47-48	!	_	
+
+#Text=Neulich ist erst in Berlin ein Radfahrer gestorben, der in eine aufgehende Autotür geraten ist.
+2-1	51-58	Neulich	_	
+2-2	59-62	ist	_	
+2-3	63-67	erst	_	
+2-4	68-70	in	_	
+2-5	71-77	Berlin	_	
+2-6	78-81	ein	_	
+2-7	82-91	Radfahrer	_	
+2-8	92-101	gestorben	_	
+2-9	101-102	,	_	
+2-10	103-106	der	_	
+2-11	107-109	in	_	
+2-12	110-114	eine	_	
+2-13	115-125	aufgehende	_	
+2-14	126-133	Autotür	_	
+2-15	134-141	geraten	_	
+2-16	142-145	ist	_	
+2-17	145-146	.	_	
+
+#Text=Es ist unverantwortlich, so etwas anzulegen und es dann auch noch als Schutzstreifen zu bezeichnen.
+3-1	147-149	Es	_	
+3-2	150-153	ist	_	
+3-3	154-170	unverantwortlich	_	
+3-4	170-171	,	_	
+3-5	172-174	so	_	
+3-6	175-180	etwas	_	
+3-7	181-190	anzulegen	_	
+3-8	191-194	und	_	
+3-9	195-197	es	_	
+3-10	198-202	dann	_	
+3-11	203-207	auch	_	
+3-12	208-212	noch	_	
+3-13	213-216	als	_	
+3-14	217-231	Schutzstreifen	_	
+3-15	232-234	zu	_	
+3-16	235-245	bezeichnen	_	
+3-17	245-246	.	_	

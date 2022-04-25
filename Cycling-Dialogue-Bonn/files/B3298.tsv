@@ -1,0 +1,171 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bertha-von-Suttner-Platz
+1-1	0-24	Bertha-von-Suttner-Platz	*	
+
+#Text=Auf der schmalen Radspur zwischen den Autospuren über den Bertha-von-Suttner-Platz das ist auch für sichere und geübte Radfahrer immer eine Zitterpartie.
+2-1	27-30	Auf	_	
+2-2	31-34	der	_	
+2-3	35-43	schmalen	_	
+2-4	44-51	Radspur	*[8]	
+2-5	52-60	zwischen	*[8]	
+2-6	61-64	den	*[8]	
+2-7	65-75	Autospuren	*[8]	
+2-8	76-80	über	*[8]	
+2-9	81-84	den	*[8]	
+2-10	85-109	Bertha-von-Suttner-Platz	*[8]	
+2-11	110-113	das	_	
+2-12	114-117	ist	_	
+2-13	118-122	auch	_	
+2-14	123-126	für	_	
+2-15	127-134	sichere	_	
+2-16	135-138	und	_	
+2-17	139-145	geübte	_	
+2-18	146-155	Radfahrer	_	
+2-19	156-161	immer	_	
+2-20	162-166	eine	_	
+2-21	167-179	Zitterpartie	_	
+2-22	179-180	.	_	
+
+#Text=Für unsichere Radfahrer ist dieser Abschnitt auf einer der zentralen West-Ost-Verbindungsachsen ein Grund, das Rad gleich ganz stehen zu lassen bzw. Kindern das Radfahren in der Stadt zu verbieten.
+3-1	181-184	Für	_	
+3-2	185-194	unsichere	_	
+3-3	195-204	Radfahrer	_	
+3-4	205-208	ist	_	
+3-5	209-215	dieser	_	
+3-6	216-225	Abschnitt	_	
+3-7	226-229	auf	_	
+3-8	230-235	einer	_	
+3-9	236-239	der	_	
+3-10	240-249	zentralen	_	
+3-11	250-276	West-Ost-Verbindungsachsen	_	
+3-12	277-280	ein	_	
+3-13	281-286	Grund	_	
+3-14	286-287	,	_	
+3-15	288-291	das	_	
+3-16	292-295	Rad	_	
+3-17	296-302	gleich	_	
+3-18	303-307	ganz	_	
+3-19	308-314	stehen	_	
+3-20	315-317	zu	_	
+3-21	318-324	lassen	_	
+3-22	325-328	bzw	_	
+3-23	328-329	.	_	
+3-24	330-337	Kindern	_	
+3-25	338-341	das	_	
+3-26	342-351	Radfahren	_	
+3-27	352-354	in	_	
+3-28	355-358	der	_	
+3-29	359-364	Stadt	_	
+3-30	365-367	zu	_	
+3-31	368-377	verbieten	_	
+3-32	377-378	.	_	
+
+#Text=Die rot abmarkierte Radspur ist viel zu schmal.
+4-1	379-382	Die	_	
+4-2	383-386	rot	_	
+4-3	387-398	abmarkierte	_	
+4-4	399-406	Radspur	_	
+4-5	407-410	ist	_	
+4-6	411-415	viel	_	
+4-7	416-418	zu	_	
+4-8	419-425	schmal	_	
+4-9	425-426	.	_	
+
+#Text=Autofahrer, die sich spät zum Abbiegen nach rechts entscheiden, schneiden die Radspur von links nach rechts - häufig schnell und hektisch, ohne auf den Radverkehr zu achten.
+5-1	427-437	Autofahrer	_	
+5-2	437-438	,	_	
+5-3	439-442	die	_	
+5-4	443-447	sich	_	
+5-5	448-452	spät	_	
+5-6	453-456	zum	_	
+5-7	457-465	Abbiegen	_	
+5-8	466-470	nach	_	
+5-9	471-477	rechts	_	
+5-10	478-489	entscheiden	_	
+5-11	489-490	,	_	
+5-12	491-500	schneiden	_	
+5-13	501-504	die	_	
+5-14	505-512	Radspur	_	
+5-15	513-516	von	_	
+5-16	517-522	links	_	
+5-17	523-527	nach	_	
+5-18	528-534	rechts	_	
+5-19	535-536	-	_	
+5-20	537-543	häufig	_	
+5-21	544-551	schnell	_	
+5-22	552-555	und	_	
+5-23	556-564	hektisch	_	
+5-24	564-565	,	_	
+5-25	566-570	ohne	_	
+5-26	571-574	auf	_	
+5-27	575-578	den	_	
+5-28	579-589	Radverkehr	_	
+5-29	590-592	zu	_	
+5-30	593-599	achten	_	
+5-31	599-600	.	_	
+
+#Text=Die Busse schneiden beim Anfahren von der Bushaltestelle die Radfahrspur von rechts nach links.
+6-1	601-604	Die	_	
+6-2	605-610	Busse	_	
+6-3	611-620	schneiden	_	
+6-4	621-625	beim	_	
+6-5	626-634	Anfahren	_	
+6-6	635-638	von	_	
+6-7	639-642	der	_	
+6-8	643-657	Bushaltestelle	_	
+6-9	658-661	die	_	
+6-10	662-673	Radfahrspur	_	
+6-11	674-677	von	_	
+6-12	678-684	rechts	_	
+6-13	685-689	nach	_	
+6-14	690-695	links	_	
+6-15	695-696	.	_	
+
+#Text=Radfahrer müssen zum Überholen langsamerer Radfahrer auf die Fahrspur ausweichen, die die Radspur dafür zu schmal ist.
+7-1	697-706	Radfahrer	_	
+7-2	707-713	müssen	_	
+7-3	714-717	zum	_	
+7-4	718-727	Überholen	_	
+7-5	728-739	langsamerer	_	
+7-6	740-749	Radfahrer	_	
+7-7	750-753	auf	_	
+7-8	754-757	die	_	
+7-9	758-766	Fahrspur	_	
+7-10	767-777	ausweichen	_	
+7-11	777-778	,	_	
+7-12	779-782	die	_	
+7-13	783-786	die	_	
+7-14	787-794	Radspur	_	
+7-15	795-800	dafür	_	
+7-16	801-803	zu	_	
+7-17	804-810	schmal	_	
+7-18	811-814	ist	_	
+7-19	814-815	.	_	
+
+#Text=Eine gute Lösung wäre es, eine komplette Autospur für den Radverkehr zur Verfügung zu stellen und entsprechend zu markieren.
+8-1	816-820	Eine	_	
+8-2	821-825	gute	_	
+8-3	826-832	Lösung	_	
+8-4	833-837	wäre	_	
+8-5	838-840	es	_	
+8-6	840-841	,	_	
+8-7	842-846	eine	_	
+8-8	847-856	komplette	_	
+8-9	857-865	Autospur	_	
+8-10	866-869	für	_	
+8-11	870-873	den	_	
+8-12	874-884	Radverkehr	_	
+8-13	885-888	zur	_	
+8-14	889-898	Verfügung	_	
+8-15	899-901	zu	_	
+8-16	902-909	stellen	_	
+8-17	910-913	und	_	
+8-18	914-926	entsprechend	_	
+8-19	927-929	zu	_	
+8-20	930-939	markieren	_	
+8-21	939-940	.	_	

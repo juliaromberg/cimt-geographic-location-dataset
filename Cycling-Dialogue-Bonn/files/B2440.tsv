@@ -1,0 +1,24 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Autoverkehr in Fahrradstraße
+1-1	0-11	Autoverkehr	_	
+1-2	12-14	in	_	
+1-3	15-28	Fahrradstraße	_	
+
+#Text=Viele Autofahrer rücksichtslos in Fahrradstraße.
+2-1	31-36	Viele	_	
+2-2	37-47	Autofahrer	_	
+2-3	48-61	rücksichtslos	_	
+2-4	62-64	in	_	
+2-5	65-78	Fahrradstraße	_	
+2-6	78-79	.	_	
+
+#Text=Kontrollen könnten helfen.
+3-1	80-90	Kontrollen	_	
+3-2	91-98	könnten	_	
+3-3	99-105	helfen	_	
+3-4	105-106	.	_	

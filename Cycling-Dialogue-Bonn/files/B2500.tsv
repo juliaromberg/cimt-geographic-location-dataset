@@ -1,0 +1,84 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg am Endenicher Ei für beide Fahrtrichtungen
+1-1	0-6	Radweg	_	
+1-2	7-9	am	*[4]	
+1-3	10-20	Endenicher	*[4]	
+1-4	21-23	Ei	*[4]	
+1-5	24-27	für	_	
+1-6	28-33	beide	_	
+1-7	34-49	Fahrtrichtungen	_	
+
+#Text=Wenn man aus der Endenicher Straße durch die Unterführung auf das Endenicher Ei kommt landet man automatisch auf der linken Straßenseite und damit eigentlich entgegen der Fahrtrichtung für Radfahrer.
+2-1	52-56	Wenn	_	
+2-2	57-60	man	_	
+2-3	61-64	aus	*[5]	
+2-4	65-68	der	*[5]	
+2-5	69-79	Endenicher	*[5]	
+2-6	80-86	Straße	*[5]	
+2-7	87-92	durch	*[5]	
+2-8	93-96	die	*[5]	
+2-9	97-109	Unterführung	*[5]	
+2-10	110-113	auf	*[5]	
+2-11	114-117	das	*[5]	
+2-12	118-128	Endenicher	*[5]	
+2-13	129-131	Ei	*[5]	
+2-14	132-137	kommt	_	
+2-15	138-144	landet	_	
+2-16	145-148	man	_	
+2-17	149-160	automatisch	_	
+2-18	161-164	auf	_	
+2-19	165-168	der	_	
+2-20	169-175	linken	_	
+2-21	176-188	Straßenseite	_	
+2-22	189-192	und	_	
+2-23	193-198	damit	_	
+2-24	199-209	eigentlich	_	
+2-25	210-218	entgegen	_	
+2-26	219-222	der	_	
+2-27	223-236	Fahrtrichtung	_	
+2-28	237-240	für	_	
+2-29	241-250	Radfahrer	_	
+2-30	250-251	.	_	
+
+#Text=Hier sollte der Radweg für beide Richtungen freigegeben werden, sodass die Unterführung nicht nur in eine Richtung sinnvoll genutzt werden kann oder ein einfaches Erreichen von der Unterführung auf die rechte Straßenseite eingerichtet werden.
+3-1	252-256	Hier	_	
+3-2	257-263	sollte	_	
+3-3	264-267	der	_	
+3-4	268-274	Radweg	_	
+3-5	275-278	für	_	
+3-6	279-284	beide	_	
+3-7	285-295	Richtungen	_	
+3-8	296-307	freigegeben	_	
+3-9	308-314	werden	_	
+3-10	314-315	,	_	
+3-11	316-322	sodass	_	
+3-12	323-326	die	_	
+3-13	327-339	Unterführung	_	
+3-14	340-345	nicht	_	
+3-15	346-349	nur	_	
+3-16	350-352	in	_	
+3-17	353-357	eine	_	
+3-18	358-366	Richtung	_	
+3-19	367-375	sinnvoll	_	
+3-20	376-383	genutzt	_	
+3-21	384-390	werden	_	
+3-22	391-395	kann	_	
+3-23	396-400	oder	_	
+3-24	401-404	ein	_	
+3-25	405-414	einfaches	_	
+3-26	415-424	Erreichen	_	
+3-27	425-428	von	_	
+3-28	429-432	der	_	
+3-29	433-445	Unterführung	_	
+3-30	446-449	auf	_	
+3-31	450-453	die	_	
+3-32	454-460	rechte	_	
+3-33	461-473	Straßenseite	_	
+3-34	474-486	eingerichtet	_	
+3-35	487-493	werden	_	
+3-36	493-494	.	_	

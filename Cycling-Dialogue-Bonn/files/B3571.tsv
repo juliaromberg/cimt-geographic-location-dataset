@@ -1,0 +1,46 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Barrierefreiheit schaffen
+1-1	0-16	Barrierefreiheit	_	
+1-2	17-25	schaffen	_	
+
+#Text=Ganz davon abgesehen, dass die Unterführung keineswegs fahrradfreundlich ist, sind die Absperrungen zudem so positioniert, dass (breite) behindertengerechte Räder und/oder auch Räder mit Anhängern kaum dazwischen durchpassen.
+2-1	28-32	Ganz	_	
+2-2	33-38	davon	_	
+2-3	39-48	abgesehen	_	
+2-4	48-49	,	_	
+2-5	50-54	dass	_	
+2-6	55-58	die	_	
+2-7	59-71	Unterführung	_	
+2-8	72-82	keineswegs	_	
+2-9	83-100	fahrradfreundlich	_	
+2-10	101-104	ist	_	
+2-11	104-105	,	_	
+2-12	106-110	sind	_	
+2-13	111-114	die	_	
+2-14	115-127	Absperrungen	_	
+2-15	128-133	zudem	_	
+2-16	134-136	so	_	
+2-17	137-149	positioniert	_	
+2-18	149-150	,	_	
+2-19	151-155	dass	_	
+2-20	156-157	(	_	
+2-21	157-163	breite	_	
+2-22	163-164	)	_	
+2-23	165-184	behindertengerechte	_	
+2-24	185-190	Räder	_	
+2-25	191-194	und	_	
+2-26	194-195	/	_	
+2-27	195-199	oder	_	
+2-28	200-204	auch	_	
+2-29	205-210	Räder	_	
+2-30	211-214	mit	_	
+2-31	215-224	Anhängern	_	
+2-32	225-229	kaum	_	
+2-33	230-240	dazwischen	_	
+2-34	241-252	durchpassen	_	
+2-35	252-253	.	_	

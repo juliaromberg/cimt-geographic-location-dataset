@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg für beide Fahrtrichtungen freigeben
+1-1	0-6	Radweg	_	
+1-2	7-10	für	_	
+1-3	11-16	beide	_	
+1-4	17-32	Fahrtrichtungen	_	
+1-5	33-42	freigeben	_	
+
+#Text=Platz genug und wenig Fußgänger.
+2-1	45-50	Platz	_	
+2-2	51-56	genug	_	
+2-3	57-60	und	_	
+2-4	61-66	wenig	_	
+2-5	67-76	Fußgänger	_	
+2-6	76-77	.	_	
+
+#Text=Das Überqueren der B9, um 200 m bis zur nächsten Kreuzung zu fahren, dauert viel zu lang.
+3-1	78-81	Das	*[4]	
+3-2	82-92	Überqueren	*[4]	
+3-3	93-96	der	*[4]	
+3-4	97-99	B9	*[4]	
+3-5	99-100	,	_	
+3-6	101-103	um	_	
+3-7	104-107	200	_	
+3-8	108-109	m	_	
+3-9	110-113	bis	_	
+3-10	114-117	zur	_	
+3-11	118-126	nächsten	_	
+3-12	127-135	Kreuzung	_	
+3-13	136-138	zu	_	
+3-14	139-145	fahren	_	
+3-15	145-146	,	_	
+3-16	147-153	dauert	_	
+3-17	154-158	viel	_	
+3-18	159-161	zu	_	
+3-19	162-166	lang	_	
+3-20	166-167	.	_	

@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg kreuzgefährlich
+1-1	0-6	Radweg	_	
+1-2	7-22	kreuzgefährlich	_	
+
+#Text=Entlang des Bonner Talweges ist Radfahren kreuzgefährlich: sehr enger und miserabler Radweg (Straßenbelag aufgequollen), zu dicht an parkenden Autos rechts, links direkt Schienen der Straßenbahn, Ausweichen bei Personen aus Parklücken oder sich öffnenden Autotüren ist nicht möglich.
+2-1	25-32	Entlang	*[4]	
+2-2	33-36	des	*[4]	
+2-3	37-43	Bonner	*[4]	
+2-4	44-52	Talweges	*[4]	
+2-5	53-56	ist	_	
+2-6	57-66	Radfahren	_	
+2-7	67-82	kreuzgefährlich	_	
+2-8	82-83	:	_	
+2-9	84-88	sehr	_	
+2-10	89-94	enger	_	
+2-11	95-98	und	_	
+2-12	99-109	miserabler	_	
+2-13	110-116	Radweg	_	
+2-14	117-118	(	_	
+2-15	118-130	Straßenbelag	_	
+2-16	131-143	aufgequollen	_	
+2-17	143-144	)	_	
+2-18	144-145	,	_	
+2-19	146-148	zu	_	
+2-20	149-154	dicht	_	
+2-21	155-157	an	_	
+2-22	158-167	parkenden	_	
+2-23	168-173	Autos	_	
+2-24	174-180	rechts	_	
+2-25	180-181	,	_	
+2-26	182-187	links	_	
+2-27	188-194	direkt	_	
+2-28	195-203	Schienen	_	
+2-29	204-207	der	_	
+2-30	208-219	Straßenbahn	_	
+2-31	219-220	,	_	
+2-32	221-231	Ausweichen	_	
+2-33	232-235	bei	_	
+2-34	236-244	Personen	_	
+2-35	245-248	aus	_	
+2-36	249-259	Parklücken	_	
+2-37	260-264	oder	_	
+2-38	265-269	sich	_	
+2-39	270-279	öffnenden	_	
+2-40	280-289	Autotüren	_	
+2-41	290-293	ist	_	
+2-42	294-299	nicht	_	
+2-43	300-307	möglich	_	
+2-44	307-308	.	_	
+
+#Text=Hier sollte dringend eine Lösung gefunden werden, da der Bonner Talweg eine wichtige Verbindungsstrecke ist.
+3-1	309-313	Hier	_	
+3-2	314-320	sollte	_	
+3-3	321-329	dringend	_	
+3-4	330-334	eine	_	
+3-5	335-341	Lösung	_	
+3-6	342-350	gefunden	_	
+3-7	351-357	werden	_	
+3-8	357-358	,	_	
+3-9	359-361	da	_	
+3-10	362-365	der	*[5]	
+3-11	366-372	Bonner	*[5]	
+3-12	373-379	Talweg	*[5]	
+3-13	380-384	eine	_	
+3-14	385-393	wichtige	_	
+3-15	394-412	Verbindungsstrecke	_	
+3-16	413-416	ist	_	
+3-17	416-417	.	_	

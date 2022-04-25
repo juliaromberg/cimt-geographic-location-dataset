@@ -1,0 +1,31 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Senken in der Fahrbahndecke, beschädigtes Pflaster, verblasste Fahrradstraßenzeichen
+1-1	0-6	Senken	_	
+1-2	7-9	in	_	
+1-3	10-13	der	_	
+1-4	14-27	Fahrbahndecke	_	
+1-5	27-28	,	_	
+1-6	29-41	beschädigtes	_	
+1-7	42-50	Pflaster	_	
+1-8	50-51	,	_	
+1-9	52-62	verblasste	_	
+1-10	63-84	Fahrradstraßenzeichen	_	
+
+#Text=der Zustand der Breitestraße ist für den Status einer Fahrradstraße deutlich vernachlässigt
+2-1	87-90	der	_	
+2-2	91-98	Zustand	_	
+2-3	99-102	der	_	
+2-4	103-115	Breitestraße	*	
+2-5	116-119	ist	_	
+2-6	120-123	für	_	
+2-7	124-127	den	_	
+2-8	128-134	Status	_	
+2-9	135-140	einer	_	
+2-10	141-154	Fahrradstraße	_	
+2-11	155-163	deutlich	_	
+2-12	164-178	vernachlässigt	_	

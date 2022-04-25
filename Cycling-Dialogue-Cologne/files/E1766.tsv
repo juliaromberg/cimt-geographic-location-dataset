@@ -1,0 +1,57 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Durchgang oft von Autos zugeparkt
+1-1	0-9	Durchgang	_	
+1-2	10-13	oft	_	
+1-3	14-17	von	_	
+1-4	18-23	Autos	_	
+1-5	24-33	zugeparkt	_	
+
+#Text=Auf dem Weg zur Arbeit ärgere ich mich immer wieder über Autos, die den Durchgang zum Park zuparken.
+2-1	36-39	Auf	_	
+2-2	40-43	dem	_	
+2-3	44-47	Weg	_	
+2-4	48-51	zur	_	
+2-5	52-58	Arbeit	_	
+2-6	59-65	ärgere	_	
+2-7	66-69	ich	_	
+2-8	70-74	mich	_	
+2-9	75-80	immer	_	
+2-10	81-87	wieder	_	
+2-11	88-92	über	_	
+2-12	93-98	Autos	_	
+2-13	98-99	,	_	
+2-14	100-103	die	_	
+2-15	104-107	den	_	
+2-16	108-117	Durchgang	_	
+2-17	118-121	zum	_	
+2-18	122-126	Park	_	
+2-19	127-135	zuparken	_	
+2-20	135-136	.	_	
+
+#Text=Darüber hinaus sollte die Bordsteinkante abgesenkt werden - sowohl für Radfahrer als auch für Rollstuhlfahrer wäre dies eine echte Erleichterung.
+3-1	137-144	Darüber	_	
+3-2	145-151	hinaus	_	
+3-3	152-158	sollte	_	
+3-4	159-162	die	_	
+3-5	163-177	Bordsteinkante	_	
+3-6	178-187	abgesenkt	_	
+3-7	188-194	werden	_	
+3-8	195-196	-	_	
+3-9	197-203	sowohl	_	
+3-10	204-207	für	_	
+3-11	208-217	Radfahrer	_	
+3-12	218-221	als	_	
+3-13	222-226	auch	_	
+3-14	227-230	für	_	
+3-15	231-246	Rollstuhlfahrer	_	
+3-16	247-251	wäre	_	
+3-17	252-256	dies	_	
+3-18	257-261	eine	_	
+3-19	262-267	echte	_	
+3-20	268-281	Erleichterung	_	
+3-21	281-282	.	_	

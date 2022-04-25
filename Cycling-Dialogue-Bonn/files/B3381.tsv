@@ -1,0 +1,119 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kürzere Rotphase für Radfahrer beim Knauber
+1-1	0-7	Kürzere	_	
+1-2	8-16	Rotphase	_	
+1-3	17-20	für	_	
+1-4	21-30	Radfahrer	_	
+1-5	31-35	beim	_	
+1-6	36-43	Knauber	_	
+
+#Text=Die Fußgänger- und Radampel zur Überquerung der Endenicherstr. am Knauber muss dringend eine kürzere Rotphase erhalten.
+2-1	46-49	Die	_	
+2-2	50-59	Fußgänger	_	
+2-3	59-60	-	_	
+2-4	61-64	und	_	
+2-5	65-73	Radampel	_	
+2-6	74-77	zur	*[7]	
+2-7	78-89	Überquerung	*[7]	
+2-8	90-93	der	*[7]	
+2-9	94-107	Endenicherstr	*[7]	
+2-10	107-108	.	*[7]	
+2-11	109-111	am	*[7]	
+2-12	112-119	Knauber	*[7]	
+2-13	120-124	muss	_	
+2-14	125-133	dringend	_	
+2-15	134-138	eine	_	
+2-16	139-146	kürzere	_	
+2-17	147-155	Rotphase	_	
+2-18	156-164	erhalten	_	
+2-19	164-165	.	_	
+
+#Text=Es dauert so unverhältnismäßig lange bis sie auf grün schaltet, dass viele Fußgänger und Radfahrer sie nicht beachten und bei rot die Straße queren.
+3-1	166-168	Es	_	
+3-2	169-175	dauert	_	
+3-3	176-178	so	_	
+3-4	179-196	unverhältnismäßig	_	
+3-5	197-202	lange	_	
+3-6	203-206	bis	_	
+3-7	207-210	sie	_	
+3-8	211-214	auf	_	
+3-9	215-219	grün	_	
+3-10	220-228	schaltet	_	
+3-11	228-229	,	_	
+3-12	230-234	dass	_	
+3-13	235-240	viele	_	
+3-14	241-250	Fußgänger	_	
+3-15	251-254	und	_	
+3-16	255-264	Radfahrer	_	
+3-17	265-268	sie	_	
+3-18	269-274	nicht	_	
+3-19	275-283	beachten	_	
+3-20	284-287	und	_	
+3-21	288-291	bei	_	
+3-22	292-295	rot	_	
+3-23	296-299	die	_	
+3-24	300-306	Straße	_	
+3-25	307-313	queren	_	
+3-26	313-314	.	_	
+
+#Text=Das gelingt auch sehr oft, d.h. sie kann grundsätzlich schneller auf rot für Autos schalten ohne den Verkehrsfluss dramatisch ins stocken zu bringen.
+4-1	315-318	Das	_	
+4-2	319-326	gelingt	_	
+4-3	327-331	auch	_	
+4-4	332-336	sehr	_	
+4-5	337-340	oft	_	
+4-6	340-341	,	_	
+4-7	342-345	d.h	_	
+4-8	345-346	.	_	
+4-9	347-350	sie	_	
+4-10	351-355	kann	_	
+4-11	356-369	grundsätzlich	_	
+4-12	370-379	schneller	_	
+4-13	380-383	auf	_	
+4-14	384-387	rot	_	
+4-15	388-391	für	_	
+4-16	392-397	Autos	_	
+4-17	398-406	schalten	_	
+4-18	407-411	ohne	_	
+4-19	412-415	den	_	
+4-20	416-429	Verkehrsfluss	_	
+4-21	430-440	dramatisch	_	
+4-22	441-444	ins	_	
+4-23	445-452	stocken	_	
+4-24	453-455	zu	_	
+4-25	456-463	bringen	_	
+4-26	463-464	.	_	
+
+#Text=An dieser Ampel fühlt man sich als Radfahrer nicht berücksichtigt.
+5-1	465-467	An	_	
+5-2	468-474	dieser	_	
+5-3	475-480	Ampel	_	
+5-4	481-486	fühlt	_	
+5-5	487-490	man	_	
+5-6	491-495	sich	_	
+5-7	496-499	als	_	
+5-8	500-509	Radfahrer	_	
+5-9	510-515	nicht	_	
+5-10	516-530	berücksichtigt	_	
+5-11	530-531	.	_	
+
+#Text=Sie ist klar zum Vorteil der Autofahrer geschaltet und das verursacht viel Ärger.
+6-1	532-535	Sie	_	
+6-2	536-539	ist	_	
+6-3	540-544	klar	_	
+6-4	545-548	zum	_	
+6-5	549-556	Vorteil	_	
+6-6	557-560	der	_	
+6-7	561-571	Autofahrer	_	
+6-8	572-582	geschaltet	_	
+6-9	583-586	und	_	
+6-10	587-590	das	_	
+6-11	591-601	verursacht	_	
+6-12	602-606	viel	_	
+6-13	607-612	Ärger	_	
+6-14	612-613	.	_	

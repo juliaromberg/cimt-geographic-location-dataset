@@ -1,0 +1,44 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradbrücke bauen
+1-1	0-13	Fahrradbrücke	_	
+1-2	14-19	bauen	_	
+
+#Text=Hier gehört eine breite Brücke für Fußgänger und Fahrradfahrer gebaut.
+2-1	22-26	Hier	_	
+2-2	27-33	gehört	_	
+2-3	34-38	eine	_	
+2-4	39-45	breite	_	
+2-5	46-52	Brücke	_	
+2-6	53-56	für	_	
+2-7	57-66	Fußgänger	_	
+2-8	67-70	und	_	
+2-9	71-84	Fahrradfahrer	_	
+2-10	85-91	gebaut	_	
+2-11	91-92	.	_	
+
+#Text=Andere Städte schaffen das auch (etwa in Freiburg über die Gleise oder in Konstanz über den Rhein).
+3-1	93-99	Andere	_	
+3-2	100-106	Städte	_	
+3-3	107-115	schaffen	_	
+3-4	116-119	das	_	
+3-5	120-124	auch	_	
+3-6	125-126	(	_	
+3-7	126-130	etwa	_	
+3-8	131-133	in	*[4]	
+3-9	134-142	Freiburg	*[4]	
+3-10	143-147	über	*[4]	
+3-11	148-151	die	*[4]	
+3-12	152-158	Gleise	*[4]	
+3-13	159-163	oder	_	
+3-14	164-166	in	*[5]	
+3-15	167-175	Konstanz	*[5]	
+3-16	176-180	über	*[5]	
+3-17	181-184	den	*[5]	
+3-18	185-190	Rhein	*[5]	
+3-19	190-191	)	_	
+3-20	191-192	.	_	

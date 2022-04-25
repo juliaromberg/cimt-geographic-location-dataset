@@ -1,0 +1,127 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vereinfacheres radfahren
+1-1	0-14	Vereinfacheres	_	
+1-2	15-24	radfahren	_	
+
+#Text=1. Erstens sollte es prinzipiell möglich sein entgegengesetzt der Einbahnstraßenverfahren zu fahren, außer es wäre zu gefährlich- nur dann sollte das gekennzeichnet sein.
+2-1	27-28	1	_	
+2-2	28-29	.	_	
+2-3	30-37	Erstens	_	
+2-4	38-44	sollte	_	
+2-5	45-47	es	_	
+2-6	48-59	prinzipiell	_	
+2-7	60-67	möglich	_	
+2-8	68-72	sein	_	
+2-9	73-88	entgegengesetzt	_	
+2-10	89-92	der	_	
+2-11	93-116	Einbahnstraßenverfahren	_	
+2-12	117-119	zu	_	
+2-13	120-126	fahren	_	
+2-14	126-127	,	_	
+2-15	128-133	außer	_	
+2-16	134-136	es	_	
+2-17	137-141	wäre	_	
+2-18	142-144	zu	_	
+2-19	145-155	gefährlich	_	
+2-20	155-156	-	_	
+2-21	157-160	nur	_	
+2-22	161-165	dann	_	
+2-23	166-172	sollte	_	
+2-24	173-176	das	_	
+2-25	177-191	gekennzeichnet	_	
+2-26	192-196	sein	_	
+2-27	196-197	.	_	
+
+#Text=2. Es sollte immer möglich sein, dass Fahrradfahrern an Ampeln die rot sind, nach rechts abbiegen dürfen, wenn es der Verkehr zulässt.
+3-1	198-199	2	_	
+3-2	199-200	.	_	
+3-3	201-203	Es	_	
+3-4	204-210	sollte	_	
+3-5	211-216	immer	_	
+3-6	217-224	möglich	_	
+3-7	225-229	sein	_	
+3-8	229-230	,	_	
+3-9	231-235	dass	_	
+3-10	236-250	Fahrradfahrern	_	
+3-11	251-253	an	_	
+3-12	254-260	Ampeln	_	
+3-13	261-264	die	_	
+3-14	265-268	rot	_	
+3-15	269-273	sind	_	
+3-16	273-274	,	_	
+3-17	275-279	nach	_	
+3-18	280-286	rechts	_	
+3-19	287-295	abbiegen	_	
+3-20	296-302	dürfen	_	
+3-21	302-303	,	_	
+3-22	304-308	wenn	_	
+3-23	309-311	es	_	
+3-24	312-315	der	_	
+3-25	316-323	Verkehr	_	
+3-26	324-331	zulässt	_	
+3-27	331-332	.	_	
+
+#Text=3. Sollte der Belag der Radwege gut und breit sein und nicht wie üblich mit Schlaglöchern etc...
+4-1	333-334	3	_	
+4-2	334-335	.	_	
+4-3	336-342	Sollte	_	
+4-4	343-346	der	_	
+4-5	347-352	Belag	_	
+4-6	353-356	der	_	
+4-7	357-364	Radwege	_	
+4-8	365-368	gut	_	
+4-9	369-372	und	_	
+4-10	373-378	breit	_	
+4-11	379-383	sein	_	
+4-12	384-387	und	_	
+4-13	388-393	nicht	_	
+4-14	394-397	wie	_	
+4-15	398-404	üblich	_	
+4-16	405-408	mit	_	
+4-17	409-422	Schlaglöchern	_	
+4-18	423-426	etc	_	
+4-19	426-427	.	_	
+4-20	427-428	.	_	
+4-21	428-429	.	_	
+
+#Text=4. Die Radwege sollten deutlicher gekennzeichnet sein, ( fehlt vor allem an der Venloer Str. in der Höhe der Moschee, Von der Pius Str. zur Inneren Kanalstraße fährt.)
+5-1	430-431	4	_	
+5-2	431-432	.	_	
+5-3	433-436	Die	_	
+5-4	437-444	Radwege	_	
+5-5	445-452	sollten	_	
+5-6	453-463	deutlicher	_	
+5-7	464-478	gekennzeichnet	_	
+5-8	479-483	sein	_	
+5-9	483-484	,	_	
+5-10	485-486	(	_	
+5-11	487-492	fehlt	_	
+5-12	493-496	vor	_	
+5-13	497-502	allem	_	
+5-14	503-505	an	*[6]	
+5-15	506-509	der	*[6]	
+5-16	510-517	Venloer	*[6]	
+5-17	518-521	Str	*[6]	
+5-18	521-522	.	*[6]	
+5-19	523-525	in	*[6]	
+5-20	526-529	der	*[6]	
+5-21	530-534	Höhe	*[6]	
+5-22	535-538	der	*[6]	
+5-23	539-546	Moschee	*[6]	
+5-24	546-547	,	*[6]	
+5-25	548-551	Von	*[6]	
+5-26	552-555	der	*[6]	
+5-27	556-560	Pius	*[6]	
+5-28	561-564	Str	*[6]	
+5-29	564-565	.	*[6]	
+5-30	566-569	zur	*[6]	
+5-31	570-577	Inneren	*[6]	
+5-32	578-589	Kanalstraße	*[6]	
+5-33	590-595	fährt	_	
+5-34	595-596	.	_	
+5-35	596-597	)	_	

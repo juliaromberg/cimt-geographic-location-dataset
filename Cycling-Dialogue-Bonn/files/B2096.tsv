@@ -1,0 +1,29 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radverkehrsführung
+1-1	0-18	Radverkehrsführung	_	
+
+#Text=Radweg verläuft über Fußweg.
+2-1	21-27	Radweg	_	
+2-2	28-36	verläuft	_	
+2-3	37-41	über	_	
+2-4	42-48	Fußweg	_	
+2-5	48-49	.	_	
+
+#Text=Die Passage auf dem Fußweg ist sehr eng und schwer einsehbar.
+3-1	50-53	Die	_	
+3-2	54-61	Passage	_	
+3-3	62-65	auf	_	
+3-4	66-69	dem	_	
+3-5	70-76	Fußweg	_	
+3-6	77-80	ist	_	
+3-7	81-85	sehr	_	
+3-8	86-89	eng	_	
+3-9	90-93	und	_	
+3-10	94-100	schwer	_	
+3-11	101-110	einsehbar	_	
+3-12	110-111	.	_	

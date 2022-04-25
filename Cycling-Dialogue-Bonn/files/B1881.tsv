@@ -1,0 +1,83 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegführung
+1-1	0-13	Radwegführung	_	
+
+#Text=Radwegführung ändern, da auf Höhe des BvS Platzes lebensgefährlich.
+2-1	16-29	Radwegführung	_	
+2-2	30-36	ändern	_	
+2-3	36-37	,	_	
+2-4	38-40	da	_	
+2-5	41-44	auf	*[6]	
+2-6	45-49	Höhe	*[6]	
+2-7	50-53	des	*[6]	
+2-8	54-57	BvS	*[6]	
+2-9	58-65	Platzes	*[6]	
+2-10	66-82	lebensgefährlich	_	
+2-11	82-83	.	_	
+
+#Text=Radweg verläuft mittig links neben Busspur und rechts neben PKW Spur.
+3-1	84-90	Radweg	_	
+3-2	91-99	verläuft	_	
+3-3	100-106	mittig	_	
+3-4	107-112	links	_	
+3-5	113-118	neben	_	
+3-6	119-126	Busspur	_	
+3-7	127-130	und	_	
+3-8	131-137	rechts	_	
+3-9	138-143	neben	_	
+3-10	144-147	PKW	_	
+3-11	148-152	Spur	_	
+3-12	152-153	.	_	
+
+#Text=Vorschlag: Verbreiteung des Bürgersteigs um den Radweg.
+4-1	154-163	Vorschlag	_	
+4-2	163-164	:	_	
+4-3	165-177	Verbreiteung	_	
+4-4	178-181	des	_	
+4-5	182-194	Bürgersteigs	_	
+4-6	195-197	um	_	
+4-7	198-201	den	_	
+4-8	202-208	Radweg	_	
+4-9	208-209	.	_	
+
+#Text=Dadurch rutschen alle weiteren Spuren nach links.
+5-1	210-217	Dadurch	_	
+5-2	218-226	rutschen	_	
+5-3	227-231	alle	_	
+5-4	232-240	weiteren	_	
+5-5	241-247	Spuren	_	
+5-6	248-252	nach	_	
+5-7	253-258	links	_	
+5-8	258-259	.	_	
+
+#Text=Auf der Höhe der Bushaltestelle entweder Radweg um die Haltestelle hintenrum führen oder geradeaus mit extra Warnhinweisen leiten ( so auch gesehen in Berlin)
+6-1	260-263	Auf	_	
+6-2	264-267	der	_	
+6-3	268-272	Höhe	_	
+6-4	273-276	der	_	
+6-5	277-291	Bushaltestelle	_	
+6-6	292-300	entweder	_	
+6-7	301-307	Radweg	_	
+6-8	308-310	um	_	
+6-9	311-314	die	_	
+6-10	315-326	Haltestelle	_	
+6-11	327-336	hintenrum	_	
+6-12	337-343	führen	_	
+6-13	344-348	oder	_	
+6-14	349-358	geradeaus	_	
+6-15	359-362	mit	_	
+6-16	363-368	extra	_	
+6-17	369-382	Warnhinweisen	_	
+6-18	383-389	leiten	_	
+6-19	390-391	(	_	
+6-20	392-394	so	_	
+6-21	395-399	auch	_	
+6-22	400-407	gesehen	_	
+6-23	408-410	in	_	
+6-24	411-417	Berlin	_	
+6-25	417-418	)	_	

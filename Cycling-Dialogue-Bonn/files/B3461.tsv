@@ -1,0 +1,35 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegbeschilderung
+1-1	0-19	Radwegbeschilderung	_	
+
+#Text=Öffnung / Markierung des Radweges Westseite Heinrich-Böll-Ring in beide Richtungen
+2-1	22-29	Öffnung	_	
+2-2	30-31	/	_	
+2-3	32-42	Markierung	_	
+2-4	43-46	des	_	
+2-5	47-55	Radweges	_	
+2-6	56-65	Westseite	_	
+2-7	66-84	Heinrich-Böll-Ring	*	
+2-8	85-87	in	_	
+2-9	88-93	beide	_	
+2-10	94-104	Richtungen	_	
+
+#Text=Verlänegrung des Radweges Richtung Bornheimer-Straße (bisher nur Fußweg), damit Lückenschluß
+3-1	105-117	Verlänegrung	_	
+3-2	118-121	des	_	
+3-3	122-130	Radweges	_	
+3-4	131-139	Richtung	*[3]	
+3-5	140-157	Bornheimer-Straße	*[3]	
+3-6	158-159	(	_	
+3-7	159-165	bisher	_	
+3-8	166-169	nur	_	
+3-9	170-176	Fußweg	_	
+3-10	176-177	)	_	
+3-11	177-178	,	_	
+3-12	179-184	damit	_	
+3-13	185-197	Lückenschluß	_	

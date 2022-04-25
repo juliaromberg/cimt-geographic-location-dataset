@@ -1,0 +1,60 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Stau behindert Radverkehr
+1-1	0-4	Stau	_	
+1-2	5-14	behindert	_	
+1-3	15-25	Radverkehr	_	
+
+#Text=In der Kölnstr. wird der Radverkehr ab dem Kaiser Karl Ring Richtung Innenstadt häufig durch aufgestaute Fahrzeuge behindert, die nicht rechts überholt werden können.
+2-1	28-30	In	*[4]	
+2-2	31-34	der	*[4]	
+2-3	35-42	Kölnstr	*[4]	
+2-4	42-43	.	_	
+2-5	44-48	wird	_	
+2-6	49-52	der	_	
+2-7	53-63	Radverkehr	_	
+2-8	64-66	ab	*[5]	
+2-9	67-70	dem	*[5]	
+2-10	71-77	Kaiser	*[5]	
+2-11	78-82	Karl	*[5]	
+2-12	83-87	Ring	*[5]	
+2-13	88-96	Richtung	*[5]	
+2-14	97-107	Innenstadt	*[5]	
+2-15	108-114	häufig	_	
+2-16	115-120	durch	_	
+2-17	121-132	aufgestaute	_	
+2-18	133-142	Fahrzeuge	_	
+2-19	143-152	behindert	_	
+2-20	152-153	,	_	
+2-21	154-157	die	_	
+2-22	158-163	nicht	_	
+2-23	164-170	rechts	_	
+2-24	171-179	überholt	_	
+2-25	180-186	werden	_	
+2-26	187-193	können	_	
+2-27	193-194	.	_	
+
+#Text=Lösungsvorschlag: Einrichtung einer separaten Radspur, die baulich (!) gegen wild parkende Fahrzeuge abgesichert ist.
+3-1	195-211	Lösungsvorschlag	_	
+3-2	211-212	:	_	
+3-3	213-224	Einrichtung	_	
+3-4	225-230	einer	_	
+3-5	231-240	separaten	_	
+3-6	241-248	Radspur	_	
+3-7	248-249	,	_	
+3-8	250-253	die	_	
+3-9	254-261	baulich	_	
+3-10	262-263	(	_	
+3-11	263-264	!	_	
+3-12	264-265	)	_	
+3-13	266-271	gegen	_	
+3-14	272-276	wild	_	
+3-15	277-285	parkende	_	
+3-16	286-295	Fahrzeuge	_	
+3-17	296-307	abgesichert	_	
+3-18	308-311	ist	_	
+3-19	311-312	.	_	

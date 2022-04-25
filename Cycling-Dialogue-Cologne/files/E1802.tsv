@@ -1,0 +1,136 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vogelsanger Straße 250 bis Vogelsanger Straße Ecke Maarweg/Äußere Kanalstraße
+1-1	0-11	Vogelsanger	*[7]	
+1-2	12-18	Straße	*[7]	
+1-3	19-22	250	*[7]	
+1-4	23-26	bis	*[7]	
+1-5	27-38	Vogelsanger	*[7]	
+1-6	39-45	Straße	*[7]	
+1-7	46-50	Ecke	*[7]	
+1-8	51-58	Maarweg	*[7]	
+1-9	58-59	/	*[7]	
+1-10	59-65	Äußere	*[7]	
+1-11	66-77	Kanalstraße	*[7]	
+
+#Text=Das Teilstück Vogelsanger Straße ab der Hausnummer 250 bis zur Kreuzung Maarweg/Äußere Kanalstraße ist eine Rennstrecke für Autos, besonders schlimm ist es in den Abendstunden, der Nacht und am frühen Morgen.
+2-1	80-83	Das	*[8]	
+2-2	84-93	Teilstück	*[8]	
+2-3	94-105	Vogelsanger	*[8]	
+2-4	106-112	Straße	*[8]	
+2-5	113-115	ab	*[8]	
+2-6	116-119	der	*[8]	
+2-7	120-130	Hausnummer	*[8]	
+2-8	131-134	250	*[8]	
+2-9	135-138	bis	*[8]	
+2-10	139-142	zur	*[8]	
+2-11	143-151	Kreuzung	*[8]	
+2-12	152-159	Maarweg	*[8]	
+2-13	159-160	/	*[8]	
+2-14	160-166	Äußere	*[8]	
+2-15	167-178	Kanalstraße	*[8]	
+2-16	179-182	ist	_	
+2-17	183-187	eine	_	
+2-18	188-199	Rennstrecke	_	
+2-19	200-203	für	_	
+2-20	204-209	Autos	_	
+2-21	209-210	,	_	
+2-22	211-220	besonders	_	
+2-23	221-228	schlimm	_	
+2-24	229-232	ist	_	
+2-25	233-235	es	_	
+2-26	236-238	in	_	
+2-27	239-242	den	_	
+2-28	243-255	Abendstunden	_	
+2-29	255-256	,	_	
+2-30	257-260	der	_	
+2-31	261-266	Nacht	_	
+2-32	267-270	und	_	
+2-33	271-273	am	_	
+2-34	274-280	frühen	_	
+2-35	281-287	Morgen	_	
+2-36	287-288	.	_	
+
+#Text=Ich mache mich häufig mit dem Rad um 6 Uhr morgens auf den Weg, dann ist es wirklich gefährlich.
+3-1	289-292	Ich	_	
+3-2	293-298	mache	_	
+3-3	299-303	mich	_	
+3-4	304-310	häufig	_	
+3-5	311-314	mit	_	
+3-6	315-318	dem	_	
+3-7	319-322	Rad	_	
+3-8	323-325	um	_	
+3-9	326-327	6	_	
+3-10	328-331	Uhr	_	
+3-11	332-339	morgens	_	
+3-12	340-343	auf	_	
+3-13	344-347	den	_	
+3-14	348-351	Weg	_	
+3-15	351-352	,	_	
+3-16	353-357	dann	_	
+3-17	358-361	ist	_	
+3-18	362-364	es	_	
+3-19	365-373	wirklich	_	
+3-20	374-384	gefährlich	_	
+3-21	384-385	.	_	
+
+#Text=Ohne die Möglichkeit einer Geschwindigkeitsmessung zu haben, hier wird teilweise mit 80 kmh und mehr durchgefahren.
+4-1	386-390	Ohne	_	
+4-2	391-394	die	_	
+4-3	395-406	Möglichkeit	_	
+4-4	407-412	einer	_	
+4-5	413-436	Geschwindigkeitsmessung	_	
+4-6	437-439	zu	_	
+4-7	440-445	haben	_	
+4-8	445-446	,	_	
+4-9	447-451	hier	_	
+4-10	452-456	wird	_	
+4-11	457-466	teilweise	_	
+4-12	467-470	mit	_	
+4-13	471-473	80	_	
+4-14	474-477	kmh	_	
+4-15	478-481	und	_	
+4-16	482-486	mehr	_	
+4-17	487-500	durchgefahren	_	
+4-18	500-501	.	_	
+
+#Text=Eine 30 Zone, Zebrastreifen aber auch gelegentliche Kontrollen würden hier sicherlich Abhilfe schaffen.
+5-1	502-506	Eine	_	
+5-2	507-509	30	_	
+5-3	510-514	Zone	_	
+5-4	514-515	,	_	
+5-5	516-529	Zebrastreifen	_	
+5-6	530-534	aber	_	
+5-7	535-539	auch	_	
+5-8	540-553	gelegentliche	_	
+5-9	554-564	Kontrollen	_	
+5-10	565-571	würden	_	
+5-11	572-576	hier	_	
+5-12	577-587	sicherlich	_	
+5-13	588-595	Abhilfe	_	
+5-14	596-604	schaffen	_	
+5-15	604-605	.	_	
+
+#Text=Durch die Bebauung des Geländes des Güterbahnhofs ist mir mehr Verkehr, auch mehr Fahrradverkehr zu rechnen.
+6-1	606-611	Durch	_	
+6-2	612-615	die	_	
+6-3	616-624	Bebauung	_	
+6-4	625-628	des	_	
+6-5	629-637	Geländes	_	
+6-6	638-641	des	_	
+6-7	642-655	Güterbahnhofs	_	
+6-8	656-659	ist	_	
+6-9	660-663	mir	_	
+6-10	664-668	mehr	_	
+6-11	669-676	Verkehr	_	
+6-12	676-677	,	_	
+6-13	678-682	auch	_	
+6-14	683-687	mehr	_	
+6-15	688-702	Fahrradverkehr	_	
+6-16	703-705	zu	_	
+6-17	706-713	rechnen	_	
+6-18	713-714	.	_	

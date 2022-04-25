@@ -1,0 +1,33 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Leichtere Einfahrt auf den Radweg
+1-1	0-9	Leichtere	_	
+1-2	10-18	Einfahrt	_	
+1-3	19-22	auf	_	
+1-4	23-26	den	_	
+1-5	27-33	Radweg	_	
+
+#Text=Um auf den Radweg Richtung Meßdorfer Feld zu gelangen muss man an dieser Stelle über einen Bordstein fahren.
+2-1	36-38	Um	_	
+2-2	39-42	auf	_	
+2-3	43-46	den	_	
+2-4	47-53	Radweg	*[3]	
+2-5	54-62	Richtung	*[3]	
+2-6	63-72	Meßdorfer	*[3]	
+2-7	73-77	Feld	*[3]	
+2-8	78-80	zu	_	
+2-9	81-89	gelangen	_	
+2-10	90-94	muss	_	
+2-11	95-98	man	_	
+2-12	99-101	an	_	
+2-13	102-108	dieser	_	
+2-14	109-115	Stelle	_	
+2-15	116-120	über	_	
+2-16	121-126	einen	_	
+2-17	127-136	Bordstein	_	
+2-18	137-143	fahren	_	
+2-19	143-144	.	_	

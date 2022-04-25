@@ -1,0 +1,116 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Abbiegen auf Viktoriabrücke
+1-1	0-8	Abbiegen	_	
+1-2	9-12	auf	*[7]	
+1-3	13-27	Viktoriabrücke	*[7]	
+
+#Text=Wie soll man von der Endenicher Straße auf die Viktoriabrücke abbiegen?
+2-1	30-33	Wie	_	
+2-2	34-38	soll	_	
+2-3	39-42	man	_	
+2-4	43-46	von	*[8]	
+2-5	47-50	der	*[8]	
+2-6	51-61	Endenicher	*[8]	
+2-7	62-68	Straße	*[8]	
+2-8	69-72	auf	*[8]	
+2-9	73-76	die	*[8]	
+2-10	77-91	Viktoriabrücke	*[8]	
+2-11	92-100	abbiegen	*[8]	
+2-12	100-101	?	_	
+
+#Text=Viele Radfahrer fahren einfach über die Straße auf die Gegenseite und dann auf den Bürgersteig, da die Straße nicht für Radfahrer freigegeben ist.
+3-1	102-107	Viele	_	
+3-2	108-117	Radfahrer	_	
+3-3	118-124	fahren	_	
+3-4	125-132	einfach	_	
+3-5	133-137	über	_	
+3-6	138-141	die	_	
+3-7	142-148	Straße	_	
+3-8	149-152	auf	_	
+3-9	153-156	die	_	
+3-10	157-167	Gegenseite	_	
+3-11	168-171	und	_	
+3-12	172-176	dann	_	
+3-13	177-180	auf	_	
+3-14	181-184	den	_	
+3-15	185-196	Bürgersteig	_	
+3-16	196-197	,	_	
+3-17	198-200	da	_	
+3-18	201-204	die	_	
+3-19	205-211	Straße	_	
+3-20	212-217	nicht	_	
+3-21	218-221	für	_	
+3-22	222-231	Radfahrer	_	
+3-23	232-243	freigegeben	_	
+3-24	244-247	ist	_	
+3-25	247-248	.	_	
+
+#Text=Das ist extrem gefährlich, weil die Autos hier viel zu schnell entgegenkommen.
+4-1	249-252	Das	_	
+4-2	253-256	ist	_	
+4-3	257-263	extrem	_	
+4-4	264-274	gefährlich	_	
+4-5	274-275	,	_	
+4-6	276-280	weil	_	
+4-7	281-284	die	_	
+4-8	285-290	Autos	_	
+4-9	291-295	hier	_	
+4-10	296-300	viel	_	
+4-11	301-303	zu	_	
+4-12	304-311	schnell	_	
+4-13	312-326	entgegenkommen	_	
+4-14	326-327	.	_	
+
+#Text=Es gibt keine Verkehrsführung, wie man hier als Radfahrer korrekt auf die Brücke fahren soll!
+5-1	328-330	Es	_	
+5-2	331-335	gibt	_	
+5-3	336-341	keine	_	
+5-4	342-357	Verkehrsführung	_	
+5-5	357-358	,	_	
+5-6	359-362	wie	_	
+5-7	363-366	man	_	
+5-8	367-371	hier	_	
+5-9	372-375	als	_	
+5-10	376-385	Radfahrer	_	
+5-11	386-393	korrekt	_	
+5-12	394-397	auf	_	
+5-13	398-401	die	_	
+5-14	402-408	Brücke	_	
+5-15	409-415	fahren	_	
+5-16	416-420	soll	_	
+5-17	420-421	!	_	
+
+#Text=Mögliche Lösung: Den Bürgersteig der brückennahen Seite ab Kreuzung Endenicher Str./Jonas-Cahn-Str. für Radfahrer freigeben und hier eine gute Verkehrsführung zum Abbiegen schaffen.
+6-1	422-430	Mögliche	_	
+6-2	431-437	Lösung	_	
+6-3	437-438	:	_	
+6-4	439-442	Den	_	
+6-5	443-454	Bürgersteig	_	
+6-6	455-458	der	_	
+6-7	459-471	brückennahen	_	
+6-8	472-477	Seite	_	
+6-9	478-480	ab	*[9]	
+6-10	481-489	Kreuzung	*[9]	
+6-11	490-500	Endenicher	*[9]	
+6-12	501-504	Str	*[9]	
+6-13	504-505	.	*[9]	
+6-14	505-506	/	*[9]	
+6-15	506-520	Jonas-Cahn-Str	*[9]	
+6-16	520-521	.	_	
+6-17	522-525	für	_	
+6-18	526-535	Radfahrer	_	
+6-19	536-545	freigeben	_	
+6-20	546-549	und	_	
+6-21	550-554	hier	_	
+6-22	555-559	eine	_	
+6-23	560-564	gute	_	
+6-24	565-580	Verkehrsführung	_	
+6-25	581-584	zum	_	
+6-26	585-593	Abbiegen	_	
+6-27	594-602	schaffen	_	
+6-28	602-603	.	_	

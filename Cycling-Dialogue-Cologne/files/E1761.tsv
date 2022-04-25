@@ -1,0 +1,101 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Venloerstraße Höhe Stadtgarten
+1-1	0-13	Venloerstraße	*[5]	
+1-2	14-18	Höhe	*[5]	
+1-3	19-30	Stadtgarten	*[5]	
+
+#Text=Bitte finden Sie eine Möglichkeit, von der Venloerstraße links in den Stadtgarten abbiegen zu können ohne dabei den Straßenverkehr oder Gegenverkehr zu behindern.
+2-1	33-38	Bitte	_	
+2-2	39-45	finden	_	
+2-3	46-49	Sie	_	
+2-4	50-54	eine	_	
+2-5	55-66	Möglichkeit	_	
+2-6	66-67	,	_	
+2-7	68-71	von	*[6]	
+2-8	72-75	der	*[6]	
+2-9	76-89	Venloerstraße	*[6]	
+2-10	90-95	links	*[6]	
+2-11	96-98	in	*[6]	
+2-12	99-102	den	*[6]	
+2-13	103-114	Stadtgarten	*[6]	
+2-14	115-123	abbiegen	*[6]	
+2-15	124-126	zu	_	
+2-16	127-133	können	_	
+2-17	134-138	ohne	_	
+2-18	139-144	dabei	_	
+2-19	145-148	den	_	
+2-20	149-163	Straßenverkehr	_	
+2-21	164-168	oder	_	
+2-22	169-181	Gegenverkehr	_	
+2-23	182-184	zu	_	
+2-24	185-194	behindern	_	
+2-25	194-195	.	_	
+
+#Text=Es kann nicht die einzige legitime Möglichkeit sein, sein Fahrrad zwischen den auf dem Seitenstreifen parkenden Autos auf die andere Straßenseite schieben zu müssen.
+3-1	196-198	Es	_	
+3-2	199-203	kann	_	
+3-3	204-209	nicht	_	
+3-4	210-213	die	_	
+3-5	214-221	einzige	_	
+3-6	222-230	legitime	_	
+3-7	231-242	Möglichkeit	_	
+3-8	243-247	sein	_	
+3-9	247-248	,	_	
+3-10	249-253	sein	_	
+3-11	254-261	Fahrrad	_	
+3-12	262-270	zwischen	_	
+3-13	271-274	den	_	
+3-14	275-278	auf	_	
+3-15	279-282	dem	_	
+3-16	283-297	Seitenstreifen	_	
+3-17	298-307	parkenden	_	
+3-18	308-313	Autos	_	
+3-19	314-317	auf	_	
+3-20	318-321	die	_	
+3-21	322-328	andere	_	
+3-22	329-341	Straßenseite	_	
+3-23	342-350	schieben	_	
+3-24	351-353	zu	_	
+3-25	354-360	müssen	_	
+3-26	360-361	.	_	
+
+#Text=An dieser Stelle ist es - meiner Meinung nach - nicht in Ordnung, von Radfahrern Strafgelder zu kassieren, da überhaupt keine Möglichkeit besteht, sich korrekt bzw. verkehrsgerecht zu verhalten.
+4-1	362-364	An	_	
+4-2	365-371	dieser	_	
+4-3	372-378	Stelle	_	
+4-4	379-382	ist	_	
+4-5	383-385	es	_	
+4-6	386-387	-	_	
+4-7	388-394	meiner	_	
+4-8	395-402	Meinung	_	
+4-9	403-407	nach	_	
+4-10	408-409	-	_	
+4-11	410-415	nicht	_	
+4-12	416-418	in	_	
+4-13	419-426	Ordnung	_	
+4-14	426-427	,	_	
+4-15	428-431	von	_	
+4-16	432-442	Radfahrern	_	
+4-17	443-454	Strafgelder	_	
+4-18	455-457	zu	_	
+4-19	458-467	kassieren	_	
+4-20	467-468	,	_	
+4-21	469-471	da	_	
+4-22	472-481	überhaupt	_	
+4-23	482-487	keine	_	
+4-24	488-499	Möglichkeit	_	
+4-25	500-507	besteht	_	
+4-26	507-508	,	_	
+4-27	509-513	sich	_	
+4-28	514-521	korrekt	_	
+4-29	522-525	bzw	_	
+4-30	525-526	.	_	
+4-31	527-542	verkehrsgerecht	_	
+4-32	543-545	zu	_	
+4-33	546-555	verhalten	_	
+4-34	555-556	.	_	

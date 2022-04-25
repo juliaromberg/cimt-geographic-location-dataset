@@ -1,0 +1,36 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Eigene Fahrradampel
+1-1	0-6	Eigene	_	
+1-2	7-19	Fahrradampel	_	
+
+#Text=An der Kreuzung Subbelrather/ Äußere Kanalstraße wäre eine eigene Fahrradampel sinnvoll.
+2-1	22-24	An	*[4]	
+2-2	25-28	der	*[4]	
+2-3	29-37	Kreuzung	*[4]	
+2-4	38-50	Subbelrather	*[4]	
+2-5	50-51	/	*[4]	
+2-6	52-58	Äußere	*[4]	
+2-7	59-70	Kanalstraße	*[4]	
+2-8	71-75	wäre	_	
+2-9	76-80	eine	_	
+2-10	81-87	eigene	_	
+2-11	88-100	Fahrradampel	_	
+2-12	101-109	sinnvoll	_	
+2-13	109-110	.	_	
+
+#Text=Im Moment ist das Fahrradgrün mit dem Fußgängergrün gekoppelt.
+3-1	111-113	Im	_	
+3-2	114-120	Moment	_	
+3-3	121-124	ist	_	
+3-4	125-128	das	_	
+3-5	129-140	Fahrradgrün	_	
+3-6	141-144	mit	_	
+3-7	145-148	dem	_	
+3-8	149-162	Fußgängergrün	_	
+3-9	163-172	gekoppelt	_	
+3-10	172-173	.	_	

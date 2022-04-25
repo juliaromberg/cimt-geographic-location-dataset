@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kein Radweg
+1-1	0-4	Kein	_	
+1-2	5-11	Radweg	_	
+
+#Text=Stadteinwärts ist hier in meinen Augen kein Radweg: Gehwegplatten sind keine akzeptable Bepflasterung für einen Radweg.
+2-1	14-27	Stadteinwärts	_	
+2-2	28-31	ist	_	
+2-3	32-36	hier	_	
+2-4	37-39	in	_	
+2-5	40-46	meinen	_	
+2-6	47-52	Augen	_	
+2-7	53-57	kein	_	
+2-8	58-64	Radweg	_	
+2-9	64-65	:	_	
+2-10	66-79	Gehwegplatten	_	
+2-11	80-84	sind	_	
+2-12	85-90	keine	_	
+2-13	91-101	akzeptable	_	
+2-14	102-115	Bepflasterung	_	
+2-15	116-119	für	_	
+2-16	120-125	einen	_	
+2-17	126-132	Radweg	_	
+2-18	132-133	.	_	
+
+#Text=Außerdem gehen hier oft mehrere Personen nebeneinander, die man dann erst mal aus dem Weg klingeln muß, weil ihnen nicht bewußt ist, dass hier auch Radverkehr lang kommt.
+3-1	134-142	Außerdem	_	
+3-2	143-148	gehen	_	
+3-3	149-153	hier	_	
+3-4	154-157	oft	_	
+3-5	158-165	mehrere	_	
+3-6	166-174	Personen	_	
+3-7	175-188	nebeneinander	_	
+3-8	188-189	,	_	
+3-9	190-193	die	_	
+3-10	194-197	man	_	
+3-11	198-202	dann	_	
+3-12	203-207	erst	_	
+3-13	208-211	mal	_	
+3-14	212-215	aus	_	
+3-15	216-219	dem	_	
+3-16	220-223	Weg	_	
+3-17	224-232	klingeln	_	
+3-18	233-236	muß	_	
+3-19	236-237	,	_	
+3-20	238-242	weil	_	
+3-21	243-248	ihnen	_	
+3-22	249-254	nicht	_	
+3-23	255-261	bewußt	_	
+3-24	262-265	ist	_	
+3-25	265-266	,	_	
+3-26	267-271	dass	_	
+3-27	272-276	hier	_	
+3-28	277-281	auch	_	
+3-29	282-292	Radverkehr	_	
+3-30	293-297	lang	_	
+3-31	298-303	kommt	_	
+3-32	303-304	.	_	
+
+#Text=Verbesserung: Klare Kennzeichnung, guter Straßenbelag.
+4-1	305-317	Verbesserung	_	
+4-2	317-318	:	_	
+4-3	319-324	Klare	_	
+4-4	325-338	Kennzeichnung	_	
+4-5	338-339	,	_	
+4-6	340-345	guter	_	
+4-7	346-358	Straßenbelag	_	
+4-8	358-359	.	_	

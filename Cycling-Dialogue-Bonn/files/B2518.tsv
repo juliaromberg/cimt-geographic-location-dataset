@@ -1,0 +1,119 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Linksabbiegeverbot für Radfahrer aufheben und Wartezone einrichten
+1-1	0-18	Linksabbiegeverbot	_	
+1-2	19-22	für	_	
+1-3	23-32	Radfahrer	_	
+1-4	33-41	aufheben	_	
+1-5	42-45	und	_	
+1-6	46-55	Wartezone	_	
+1-7	56-66	einrichten	_	
+
+#Text=Aus Richtung Herwarthstraße durch die Unterführung kommende Radfahrer mit Fahrtziel Beuel/Altstadt/Oxfordstraße haben keine Möglichkeit, direkt den Florentiusgraben zu erreichen, da nicht links abgebogen werden darf.
+2-1	69-72	Aus	*[5]	
+2-2	73-81	Richtung	*[5]	
+2-3	82-96	Herwarthstraße	*[5]	
+2-4	97-102	durch	*[5]	
+2-5	103-106	die	*[5]	
+2-6	107-119	Unterführung	*[5]	
+2-7	120-128	kommende	*[5]	
+2-8	129-138	Radfahrer	_	
+2-9	139-142	mit	_	
+2-10	143-152	Fahrtziel	_	
+2-11	153-158	Beuel	*[6]	
+2-12	158-159	/	*[6]	
+2-13	159-167	Altstadt	*[6]	
+2-14	167-168	/	*[6]	
+2-15	168-180	Oxfordstraße	*[6]	
+2-16	181-186	haben	_	
+2-17	187-192	keine	_	
+2-18	193-204	Möglichkeit	_	
+2-19	204-205	,	_	
+2-20	206-212	direkt	_	
+2-21	213-216	den	_	
+2-22	217-233	Florentiusgraben	*	
+2-23	234-236	zu	_	
+2-24	237-246	erreichen	_	
+2-25	246-247	,	_	
+2-26	248-250	da	_	
+2-27	251-256	nicht	_	
+2-28	257-262	links	_	
+2-29	263-272	abgebogen	_	
+2-30	273-279	werden	_	
+2-31	280-284	darf	_	
+2-32	284-285	.	_	
+
+#Text=Im Bereich der schraffierten Fläche bzw. am rechten Fahrbahnrand sollte eine nur Radfahrern vorbehaltene Warteposition eingerichtet werden, die durch einen Bordstein von der Fahrbahn getrennt ist, damit Busse die Kurve nicht schnibbeln können.
+3-1	286-288	Im	_	
+3-2	289-296	Bereich	_	
+3-3	297-300	der	_	
+3-4	301-314	schraffierten	_	
+3-5	315-321	Fläche	_	
+3-6	322-325	bzw	_	
+3-7	325-326	.	_	
+3-8	327-329	am	_	
+3-9	330-337	rechten	_	
+3-10	338-350	Fahrbahnrand	_	
+3-11	351-357	sollte	_	
+3-12	358-362	eine	_	
+3-13	363-366	nur	_	
+3-14	367-377	Radfahrern	_	
+3-15	378-390	vorbehaltene	_	
+3-16	391-404	Warteposition	_	
+3-17	405-417	eingerichtet	_	
+3-18	418-424	werden	_	
+3-19	424-425	,	_	
+3-20	426-429	die	_	
+3-21	430-435	durch	_	
+3-22	436-441	einen	_	
+3-23	442-451	Bordstein	_	
+3-24	452-455	von	_	
+3-25	456-459	der	_	
+3-26	460-468	Fahrbahn	_	
+3-27	469-477	getrennt	_	
+3-28	478-481	ist	_	
+3-29	481-482	,	_	
+3-30	483-488	damit	_	
+3-31	489-494	Busse	_	
+3-32	495-498	die	_	
+3-33	499-504	Kurve	_	
+3-34	505-510	nicht	_	
+3-35	511-521	schnibbeln	_	
+3-36	522-528	können	_	
+3-37	528-529	.	_	
+
+#Text=Es bleibt zu hoffen, dass im Zuge der leider stattfindenden Bebauung des Bonner Lochs, diese Position vernünftig geregelt und der Übergang zum Florentiusgraben nicht noch länger wird.
+4-1	530-532	Es	_	
+4-2	533-539	bleibt	_	
+4-3	540-542	zu	_	
+4-4	543-549	hoffen	_	
+4-5	549-550	,	_	
+4-6	551-555	dass	_	
+4-7	556-558	im	_	
+4-8	559-563	Zuge	_	
+4-9	564-567	der	_	
+4-10	568-574	leider	_	
+4-11	575-589	stattfindenden	_	
+4-12	590-598	Bebauung	_	
+4-13	599-602	des	_	
+4-14	603-609	Bonner	_	
+4-15	610-615	Lochs	_	
+4-16	615-616	,	_	
+4-17	617-622	diese	_	
+4-18	623-631	Position	_	
+4-19	632-642	vernünftig	_	
+4-20	643-651	geregelt	_	
+4-21	652-655	und	_	
+4-22	656-659	der	_	
+4-23	660-668	Übergang	_	
+4-24	669-672	zum	*[7]	
+4-25	673-689	Florentiusgraben	*[7]	
+4-26	690-695	nicht	_	
+4-27	696-700	noch	_	
+4-28	701-707	länger	_	
+4-29	708-712	wird	_	
+4-30	712-713	.	_	

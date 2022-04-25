@@ -1,0 +1,15 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Zusatzzeichen fehlt
+1-1	0-13	Zusatzzeichen	_	
+1-2	14-19	fehlt	_	
+
+#Text=blaues Einbahnstraßenzeichen ohne Zusatzzeichen
+2-1	22-28	blaues	_	
+2-2	29-50	Einbahnstraßenzeichen	_	
+2-3	51-55	ohne	_	
+2-4	56-69	Zusatzzeichen	_	

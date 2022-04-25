@@ -1,0 +1,16 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wurzelaufbrüche auf dem Radweg
+1-1	0-15	Wurzelaufbrüche	_	
+1-2	16-19	auf	_	
+1-3	20-23	dem	_	
+1-4	24-30	Radweg	_	
+
+#Text=Bitte beseitigen!
+2-1	33-38	Bitte	_	
+2-2	39-49	beseitigen	_	
+2-3	49-50	!	_	

@@ -1,0 +1,78 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlender Radweg
+1-1	0-9	Fehlender	_	
+1-2	10-16	Radweg	_	
+
+#Text=Aufgrund des fehlenden Radwegs und den parkenden Autos weit über die Markierungen hinaus müssen die Radfahrer hier im Slalom fahren und werden zusätzlich aufgrund der Enge oft von den Autofahrern, die von der Autobahn kommend oft mit erhöhter Geschwindigkeit fahren, bedrängt oder regelrecht gejagt.
+2-1	19-27	Aufgrund	_	
+2-2	28-31	des	_	
+2-3	32-41	fehlenden	_	
+2-4	42-49	Radwegs	_	
+2-5	50-53	und	_	
+2-6	54-57	den	_	
+2-7	58-67	parkenden	_	
+2-8	68-73	Autos	_	
+2-9	74-78	weit	_	
+2-10	79-83	über	_	
+2-11	84-87	die	_	
+2-12	88-100	Markierungen	_	
+2-13	101-107	hinaus	_	
+2-14	108-114	müssen	_	
+2-15	115-118	die	_	
+2-16	119-128	Radfahrer	_	
+2-17	129-133	hier	_	
+2-18	134-136	im	_	
+2-19	137-143	Slalom	_	
+2-20	144-150	fahren	_	
+2-21	151-154	und	_	
+2-22	155-161	werden	_	
+2-23	162-172	zusätzlich	_	
+2-24	173-181	aufgrund	_	
+2-25	182-185	der	_	
+2-26	186-190	Enge	_	
+2-27	191-194	oft	_	
+2-28	195-198	von	_	
+2-29	199-202	den	_	
+2-30	203-214	Autofahrern	_	
+2-31	214-215	,	_	
+2-32	216-219	die	_	
+2-33	220-223	von	_	
+2-34	224-227	der	_	
+2-35	228-236	Autobahn	_	
+2-36	237-244	kommend	_	
+2-37	245-248	oft	_	
+2-38	249-252	mit	_	
+2-39	253-261	erhöhter	_	
+2-40	262-277	Geschwindigkeit	_	
+2-41	278-284	fahren	_	
+2-42	284-285	,	_	
+2-43	286-294	bedrängt	_	
+2-44	295-299	oder	_	
+2-45	300-310	regelrecht	_	
+2-46	311-317	gejagt	_	
+2-47	317-318	.	_	
+
+#Text=Den Radfahrern bleibt oft nichts anderes übrig als rechts ran zufahren und die Schlange der Autofahrer vorbeizulassen.
+3-1	319-322	Den	_	
+3-2	323-333	Radfahrern	_	
+3-3	334-340	bleibt	_	
+3-4	341-344	oft	_	
+3-5	345-351	nichts	_	
+3-6	352-359	anderes	_	
+3-7	360-365	übrig	_	
+3-8	366-369	als	_	
+3-9	370-376	rechts	_	
+3-10	377-380	ran	_	
+3-11	381-389	zufahren	_	
+3-12	390-393	und	_	
+3-13	394-397	die	_	
+3-14	398-406	Schlange	_	
+3-15	407-410	der	_	
+3-16	411-421	Autofahrer	_	
+3-17	422-436	vorbeizulassen	_	
+3-18	436-437	.	_	

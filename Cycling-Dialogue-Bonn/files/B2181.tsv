@@ -1,0 +1,95 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Randstreifen/Abgrenzung für Radfahrer
+1-1	0-12	Randstreifen	_	
+1-2	12-13	/	_	
+1-3	13-23	Abgrenzung	_	
+1-4	24-27	für	_	
+1-5	28-37	Radfahrer	_	
+
+#Text=An der K1 zwischen Ippendorf und Röttgen, dem sogenannten Katzenloch wird mal als Radfahrer während der rush hour morgens 7:30 bis 8:30 und abends ab 16:00 Uhr gerade beim Bergauffahren oftmals von KFZ sehr knapp überholt.
+2-1	40-42	An	*[4]	
+2-2	43-46	der	*[4]	
+2-3	47-49	K1	*[4]	
+2-4	50-58	zwischen	*[4]	
+2-5	59-68	Ippendorf	*[4]	
+2-6	69-72	und	*[4]	
+2-7	73-80	Röttgen	*[4]	
+2-8	80-81	,	*[4]	
+2-9	82-85	dem	*[4]	
+2-10	86-97	sogenannten	*[4]	
+2-11	98-108	Katzenloch	*[4]	
+2-12	109-113	wird	_	
+2-13	114-117	mal	_	
+2-14	118-121	als	_	
+2-15	122-131	Radfahrer	_	
+2-16	132-139	während	_	
+2-17	140-143	der	_	
+2-18	144-148	rush	_	
+2-19	149-153	hour	_	
+2-20	154-161	morgens	_	
+2-21	162-163	7	_	
+2-22	163-164	:	_	
+2-23	164-166	30	_	
+2-24	167-170	bis	_	
+2-25	171-172	8	_	
+2-26	172-173	:	_	
+2-27	173-175	30	_	
+2-28	176-179	und	_	
+2-29	180-186	abends	_	
+2-30	187-189	ab	_	
+2-31	190-192	16	_	
+2-32	192-193	:	_	
+2-33	193-195	00	_	
+2-34	196-199	Uhr	_	
+2-35	200-206	gerade	_	
+2-36	207-211	beim	_	
+2-37	212-225	Bergauffahren	_	
+2-38	226-233	oftmals	_	
+2-39	234-237	von	_	
+2-40	238-241	KFZ	_	
+2-41	242-246	sehr	_	
+2-42	247-252	knapp	_	
+2-43	253-261	überholt	_	
+2-44	261-262	.	_	
+
+#Text=Bei Bergabfahren erreicht man als Radler leicht das Tempo der Autos (30) sodass es eigentlich nur wichtig ist die jeweilige Bergaufstrecke nach Ippendorf und Röttgen mit einer Markierung für Radfahrer zu versehen.
+3-1	263-266	Bei	_	
+3-2	267-279	Bergabfahren	_	
+3-3	280-288	erreicht	_	
+3-4	289-292	man	_	
+3-5	293-296	als	_	
+3-6	297-303	Radler	_	
+3-7	304-310	leicht	_	
+3-8	311-314	das	_	
+3-9	315-320	Tempo	_	
+3-10	321-324	der	_	
+3-11	325-330	Autos	_	
+3-12	331-332	(	_	
+3-13	332-334	30	_	
+3-14	334-335	)	_	
+3-15	336-342	sodass	_	
+3-16	343-345	es	_	
+3-17	346-356	eigentlich	_	
+3-18	357-360	nur	_	
+3-19	361-368	wichtig	_	
+3-20	369-372	ist	_	
+3-21	373-376	die	_	
+3-22	377-386	jeweilige	_	
+3-23	387-401	Bergaufstrecke	*[5]	
+3-24	402-406	nach	*[5]	
+3-25	407-416	Ippendorf	*[5]	
+3-26	417-420	und	*[5]	
+3-27	421-428	Röttgen	*[5]	
+3-28	429-432	mit	_	
+3-29	433-438	einer	_	
+3-30	439-449	Markierung	_	
+3-31	450-453	für	_	
+3-32	454-463	Radfahrer	_	
+3-33	464-466	zu	_	
+3-34	467-475	versehen	_	
+3-35	475-476	.	_	

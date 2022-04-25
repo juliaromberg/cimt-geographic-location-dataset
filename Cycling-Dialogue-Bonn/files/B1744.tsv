@@ -1,0 +1,63 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlender Radweg
+1-1	0-9	Fehlender	_	
+1-2	10-16	Radweg	_	
+
+#Text=Hier wäre ein Radweg auch bergab sicher sinnvoll.
+2-1	19-23	Hier	_	
+2-2	24-28	wäre	_	
+2-3	29-32	ein	_	
+2-4	33-39	Radweg	_	
+2-5	40-44	auch	_	
+2-6	45-51	bergab	_	
+2-7	52-58	sicher	_	
+2-8	59-67	sinnvoll	_	
+2-9	67-68	.	_	
+
+#Text=auf dem Radweg beragauf stehen morgens sehr oft Lieferwagen auf dem Radweg.
+3-1	69-72	auf	_	
+3-2	73-76	dem	_	
+3-3	77-83	Radweg	_	
+3-4	84-92	beragauf	_	
+3-5	93-99	stehen	_	
+3-6	100-107	morgens	_	
+3-7	108-112	sehr	_	
+3-8	113-116	oft	_	
+3-9	117-128	Lieferwagen	_	
+3-10	129-132	auf	_	
+3-11	133-136	dem	_	
+3-12	137-143	Radweg	_	
+3-13	143-144	.	_	
+
+#Text=Parkende bzw. anhaltende Lieferwagen auf Radwegen gehären bestraft!
+4-1	145-153	Parkende	_	
+4-2	154-157	bzw	_	
+4-3	157-158	.	_	
+4-4	159-169	anhaltende	_	
+4-5	170-181	Lieferwagen	_	
+4-6	182-185	auf	_	
+4-7	186-194	Radwegen	_	
+4-8	195-202	gehären	_	
+4-9	203-211	bestraft	_	
+4-10	211-212	!	_	
+
+#Text=es gibt sehr häufig die Möglichkeit seinen Wagen anderweitig abzustellen, um auszuladen.
+5-1	213-215	es	_	
+5-2	216-220	gibt	_	
+5-3	221-225	sehr	_	
+5-4	226-232	häufig	_	
+5-5	233-236	die	_	
+5-6	237-248	Möglichkeit	_	
+5-7	249-255	seinen	_	
+5-8	256-261	Wagen	_	
+5-9	262-273	anderweitig	_	
+5-10	274-285	abzustellen	_	
+5-11	285-286	,	_	
+5-12	287-289	um	_	
+5-13	290-300	auszuladen	_	
+5-14	300-301	.	_	

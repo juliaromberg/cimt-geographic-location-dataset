@@ -1,0 +1,62 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährlich
+1-1	0-10	Gefährlich	_	
+
+#Text=Der Radweg über die Verkehrsinsel wird von den Autofahrern nicht oder nur selten beachtet.
+2-1	13-16	Der	_	
+2-2	17-23	Radweg	_	
+2-3	24-28	über	_	
+2-4	29-32	die	_	
+2-5	33-46	Verkehrsinsel	_	
+2-6	47-51	wird	_	
+2-7	52-55	von	_	
+2-8	56-59	den	_	
+2-9	60-71	Autofahrern	_	
+2-10	72-77	nicht	_	
+2-11	78-82	oder	_	
+2-12	83-86	nur	_	
+2-13	87-93	selten	_	
+2-14	94-102	beachtet	_	
+2-15	102-103	.	_	
+
+#Text=Hier fahren die Autos von Röttgen kommend links in die Max Braubach Strasse im toten Winkel der Radfahrer.
+3-1	104-108	Hier	_	
+3-2	109-115	fahren	_	
+3-3	116-119	die	_	
+3-4	120-125	Autos	_	
+3-5	126-129	von	*[4]	
+3-6	130-137	Röttgen	*[4]	
+3-7	138-145	kommend	*[4]	
+3-8	146-151	links	*[4]	
+3-9	152-154	in	*[4]	
+3-10	155-158	die	*[4]	
+3-11	159-162	Max	*[4]	
+3-12	163-171	Braubach	*[4]	
+3-13	172-179	Strasse	*[4]	
+3-14	180-182	im	_	
+3-15	183-188	toten	_	
+3-16	189-195	Winkel	_	
+3-17	196-199	der	_	
+3-18	200-209	Radfahrer	_	
+3-19	209-210	.	_	
+
+#Text=Hier wäre m. E. ein Kreisverkehr o. ä. sinnvoll.
+4-1	211-215	Hier	_	
+4-2	216-220	wäre	_	
+4-3	221-222	m	_	
+4-4	222-223	.	_	
+4-5	224-225	E	_	
+4-6	225-226	.	_	
+4-7	227-230	ein	_	
+4-8	231-243	Kreisverkehr	_	
+4-9	244-245	o	_	
+4-10	245-246	.	_	
+4-11	247-248	ä	_	
+4-12	248-249	.	_	
+4-13	250-258	sinnvoll	_	
+4-14	258-259	.	_	

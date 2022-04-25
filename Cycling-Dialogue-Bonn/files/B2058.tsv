@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße in der Richard Wagner Straße und Lisztstraße.
+1-1	0-13	Fahrradstraße	*[4]	
+1-2	14-16	in	*[4]	
+1-3	17-20	der	*[4]	
+1-4	21-28	Richard	*[4]	
+1-5	29-35	Wagner	*[4]	
+1-6	36-42	Straße	*[4]	
+1-7	43-46	und	*[4]	
+1-8	47-58	Lisztstraße	*[4]	
+1-9	58-59	.	_	
+
+#Text=Die spitze Ecke zurückbauen und eine zügig befahrbare Verbindung herstellen.
+2-1	60-63	Die	_	
+2-2	64-70	spitze	_	
+2-3	71-75	Ecke	_	
+2-4	76-87	zurückbauen	_	
+2-5	88-91	und	_	
+2-6	92-96	eine	_	
+2-7	97-102	zügig	_	
+2-8	103-113	befahrbare	_	
+2-9	114-124	Verbindung	_	
+2-10	125-135	herstellen	_	
+2-11	135-136	.	_	
+
+#Text=Eine Parkreihe in der Lisztstraße wegnehmen.
+3-1	137-141	Eine	_	
+3-2	142-151	Parkreihe	_	
+3-3	152-154	in	*[5]	
+3-4	155-158	der	*[5]	
+3-5	159-170	Lisztstraße	*[5]	
+3-6	171-180	wegnehmen	_	
+3-7	180-181	.	_	

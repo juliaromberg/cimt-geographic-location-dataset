@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=fehlende Radstellplätze
+1-1	0-8	fehlende	_	
+1-2	9-23	Radstellplätze	_	
+
+#Text=Trotz teils privat vorhandener Stellplätze und Nutzung sämtlicher Laternenpfähle fehlen Radabstellmöglichkeiten (Haarnadeln).
+2-1	26-31	Trotz	_	
+2-2	32-37	teils	_	
+2-3	38-44	privat	_	
+2-4	45-56	vorhandener	_	
+2-5	57-68	Stellplätze	_	
+2-6	69-72	und	_	
+2-7	73-80	Nutzung	_	
+2-8	81-91	sämtlicher	_	
+2-9	92-106	Laternenpfähle	_	
+2-10	107-113	fehlen	_	
+2-11	114-137	Radabstellmöglichkeiten	_	
+2-12	138-139	(	_	
+2-13	139-149	Haarnadeln	_	
+2-14	149-150	)	_	
+2-15	150-151	.	_	
+
+#Text=Gleichzeitig mehrere sehr sperrige und Raum beanspruchende Dauer-Wohnmobilparker.
+3-1	152-164	Gleichzeitig	_	
+3-2	165-172	mehrere	_	
+3-3	173-177	sehr	_	
+3-4	178-186	sperrige	_	
+3-5	187-190	und	_	
+3-6	191-195	Raum	_	
+3-7	196-210	beanspruchende	_	
+3-8	211-232	Dauer-Wohnmobilparker	_	
+3-9	232-233	.	_	

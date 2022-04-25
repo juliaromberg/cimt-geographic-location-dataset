@@ -1,0 +1,85 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Überquerung Konrad-Adenauer-Damm
+1-1	0-11	Überquerung	*[7]	
+1-2	12-32	Konrad-Adenauer-Damm	*[7]	
+
+#Text=Von der Fahrradstraße Heilsbachstraße nach rechts auf die Derlestraße.
+2-1	35-38	Von	*[8]	
+2-2	39-42	der	*[8]	
+2-3	43-56	Fahrradstraße	*[8]	
+2-4	57-72	Heilsbachstraße	*[8]	
+2-5	73-77	nach	*[8]	
+2-6	78-84	rechts	*[8]	
+2-7	85-88	auf	*[8]	
+2-8	89-92	die	*[8]	
+2-9	93-104	Derlestraße	*[8]	
+2-10	104-105	.	_	
+
+#Text=Ich bin nicht ganz ortskundig und befinde ich plötzlich an einer riesigen Kreuzung auf einer fast Autobahn.
+3-1	106-109	Ich	_	
+3-2	110-113	bin	_	
+3-3	114-119	nicht	_	
+3-4	120-124	ganz	_	
+3-5	125-135	ortskundig	_	
+3-6	136-139	und	_	
+3-7	140-147	befinde	_	
+3-8	148-151	ich	_	
+3-9	152-161	plötzlich	_	
+3-10	162-164	an	_	
+3-11	165-170	einer	_	
+3-12	171-179	riesigen	_	
+3-13	180-188	Kreuzung	_	
+3-14	189-192	auf	_	
+3-15	193-198	einer	_	
+3-16	199-203	fast	_	
+3-17	204-212	Autobahn	_	
+3-18	212-213	.	_	
+
+#Text=Kein markierter Radweg, irgendwie unangenehm.
+4-1	214-218	Kein	_	
+4-2	219-229	markierter	_	
+4-3	230-236	Radweg	_	
+4-4	236-237	,	_	
+4-5	238-247	irgendwie	_	
+4-6	248-258	unangenehm	_	
+4-7	258-259	.	_	
+
+#Text=Ich würde einen markierten Radweg super finden, sodass Auto- und Radfahrer sehen und wissen diese Querung ist für alle da.
+5-1	260-263	Ich	_	
+5-2	264-269	würde	_	
+5-3	270-275	einen	_	
+5-4	276-286	markierten	_	
+5-5	287-293	Radweg	_	
+5-6	294-299	super	_	
+5-7	300-306	finden	_	
+5-8	306-307	,	_	
+5-9	308-314	sodass	_	
+5-10	315-319	Auto	_	
+5-11	319-320	-	_	
+5-12	321-324	und	_	
+5-13	325-334	Radfahrer	_	
+5-14	335-340	sehen	_	
+5-15	341-344	und	_	
+5-16	345-351	wissen	_	
+5-17	352-357	diese	_	
+5-18	358-365	Querung	_	
+5-19	366-369	ist	_	
+5-20	370-373	für	_	
+5-21	374-378	alle	_	
+5-22	379-381	da	_	
+5-23	381-382	.	_	
+
+#Text=Na ja, Fußgänger sind ja verboten.
+6-1	383-385	Na	_	
+6-2	386-388	ja	_	
+6-3	388-389	,	_	
+6-4	390-399	Fußgänger	_	
+6-5	400-404	sind	_	
+6-6	405-407	ja	_	
+6-7	408-416	verboten	_	
+6-8	416-417	.	_	

@@ -1,0 +1,35 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Autofahrer missachten Vorfahrt der aus dem Wiesenweg kommenden Radfahrer
+1-1	0-10	Autofahrer	_	
+1-2	11-21	missachten	_	
+1-3	22-30	Vorfahrt	_	
+1-4	31-34	der	_	
+1-5	35-38	aus	*[3]	
+1-6	39-42	dem	*[3]	
+1-7	43-52	Wiesenweg	*[3]	
+1-8	53-62	kommenden	*[3]	
+1-9	63-72	Radfahrer	_	
+
+#Text=Hier bitte mit einer gestrichelten Markierung dem Autofahrer deutlich machen, dass hier rechts vor links gildet
+2-1	75-79	Hier	_	
+2-2	80-85	bitte	_	
+2-3	86-89	mit	_	
+2-4	90-95	einer	_	
+2-5	96-109	gestrichelten	_	
+2-6	110-120	Markierung	_	
+2-7	121-124	dem	_	
+2-8	125-135	Autofahrer	_	
+2-9	136-144	deutlich	_	
+2-10	145-151	machen	_	
+2-11	151-152	,	_	
+2-12	153-157	dass	_	
+2-13	158-162	hier	_	
+2-14	163-169	rechts	_	
+2-15	170-173	vor	_	
+2-16	174-179	links	_	
+2-17	180-186	gildet	_	

@@ -1,0 +1,64 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstraßenschild ggü. Ausfahrt LVR
+1-1	0-20	Einbahnstraßenschild	_	
+1-2	21-24	ggü	_	
+1-3	24-25	.	_	
+1-4	26-34	Ausfahrt	_	
+1-5	35-38	LVR	_	
+
+#Text=Hier steht noch ein Schild, dass die Colmantstraße als Einbahnstraße ausweist.
+2-1	41-45	Hier	_	
+2-2	46-51	steht	_	
+2-3	52-56	noch	_	
+2-4	57-60	ein	_	
+2-5	61-67	Schild	_	
+2-6	67-68	,	_	
+2-7	69-73	dass	_	
+2-8	74-77	die	*[5]	
+2-9	78-91	Colmantstraße	*[5]	
+2-10	92-95	als	_	
+2-11	96-109	Einbahnstraße	_	
+2-12	110-118	ausweist	_	
+2-13	118-119	.	_	
+
+#Text=Dadurch sind aus der Einfahrt des LVR kommende Autofahrer nicht aufmerksam, dass von links ebenfalls (rechtmäßig) Fahrradfahrer kommen können.
+3-1	120-127	Dadurch	_	
+3-2	128-132	sind	_	
+3-3	133-136	aus	_	
+3-4	137-140	der	_	
+3-5	141-149	Einfahrt	_	
+3-6	150-153	des	_	
+3-7	154-157	LVR	*	
+3-8	158-166	kommende	_	
+3-9	167-177	Autofahrer	_	
+3-10	178-183	nicht	_	
+3-11	184-194	aufmerksam	_	
+3-12	194-195	,	_	
+3-13	196-200	dass	_	
+3-14	201-204	von	_	
+3-15	205-210	links	_	
+3-16	211-220	ebenfalls	_	
+3-17	221-222	(	_	
+3-18	222-232	rechtmäßig	_	
+3-19	232-233	)	_	
+3-20	234-247	Fahrradfahrer	_	
+3-21	248-254	kommen	_	
+3-22	255-261	können	_	
+3-23	261-262	.	_	
+
+#Text=Daher bitte Schild ergänzen um Radfahrer von beiden Seiten.
+4-1	263-268	Daher	_	
+4-2	269-274	bitte	_	
+4-3	275-281	Schild	_	
+4-4	282-290	ergänzen	_	
+4-5	291-293	um	_	
+4-6	294-303	Radfahrer	_	
+4-7	304-307	von	_	
+4-8	308-314	beiden	_	
+4-9	315-321	Seiten	_	
+4-10	321-322	.	_	

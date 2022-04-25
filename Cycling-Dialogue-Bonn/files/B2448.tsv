@@ -1,0 +1,118 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=unklare Verkehrsführung
+1-1	0-7	unklare	_	
+1-2	8-23	Verkehrsführung	_	
+
+#Text=In Richtung August-Bier-Straße muss per Verkehrszeichen rechts von der Verkehrsinsel gefahren werden.
+2-1	26-28	In	*[8]	
+2-2	29-37	Richtung	*[8]	
+2-3	38-56	August-Bier-Straße	*[8]	
+2-4	57-61	muss	_	
+2-5	62-65	per	_	
+2-6	66-81	Verkehrszeichen	_	
+2-7	82-88	rechts	_	
+2-8	89-92	von	_	
+2-9	93-96	der	_	
+2-10	97-110	Verkehrsinsel	_	
+2-11	111-119	gefahren	_	
+2-12	120-126	werden	_	
+2-13	126-127	.	_	
+
+#Text=Die Straßenmalerei (Sharrows) suggeriert jedoch, dass Radfahrer in beiden Richtungen die kurze Variante fahren.
+3-1	128-131	Die	_	
+3-2	132-146	Straßenmalerei	_	
+3-3	147-148	(	_	
+3-4	148-156	Sharrows	_	
+3-5	156-157	)	_	
+3-6	158-168	suggeriert	_	
+3-7	169-175	jedoch	_	
+3-8	175-176	,	_	
+3-9	177-181	dass	_	
+3-10	182-191	Radfahrer	_	
+3-11	192-194	in	_	
+3-12	195-201	beiden	_	
+3-13	202-212	Richtungen	_	
+3-14	213-216	die	_	
+3-15	217-222	kurze	_	
+3-16	223-231	Variante	_	
+3-17	232-238	fahren	_	
+3-18	238-239	.	_	
+
+#Text=Mir ist hier in den vergangenen Monaten zweimal von Kfz die Vorfahrt genommen worden.
+4-1	240-243	Mir	_	
+4-2	244-247	ist	_	
+4-3	248-252	hier	_	
+4-4	253-255	in	_	
+4-5	256-259	den	_	
+4-6	260-271	vergangenen	_	
+4-7	272-279	Monaten	_	
+4-8	280-287	zweimal	_	
+4-9	288-291	von	_	
+4-10	292-295	Kfz	_	
+4-11	296-299	die	_	
+4-12	300-308	Vorfahrt	_	
+4-13	309-317	genommen	_	
+4-14	318-324	worden	_	
+4-15	324-325	.	_	
+
+#Text=Ich führe das darauf zurück, dass die Fahrer die Piktogramme gesehen haben und nicht damit rechneten, dass ich außen um die Insel herumfahre.
+5-1	326-329	Ich	_	
+5-2	330-335	führe	_	
+5-3	336-339	das	_	
+5-4	340-346	darauf	_	
+5-5	347-353	zurück	_	
+5-6	353-354	,	_	
+5-7	355-359	dass	_	
+5-8	360-363	die	_	
+5-9	364-370	Fahrer	_	
+5-10	371-374	die	_	
+5-11	375-386	Piktogramme	_	
+5-12	387-394	gesehen	_	
+5-13	395-400	haben	_	
+5-14	401-404	und	_	
+5-15	405-410	nicht	_	
+5-16	411-416	damit	_	
+5-17	417-426	rechneten	_	
+5-18	426-427	,	_	
+5-19	428-432	dass	_	
+5-20	433-436	ich	_	
+5-21	437-442	außen	_	
+5-22	443-445	um	_	
+5-23	446-449	die	_	
+5-24	450-455	Insel	_	
+5-25	456-466	herumfahre	_	
+5-26	466-467	.	_	
+
+#Text=Ich empfinde die kurze Variante aber auch als zu eng bei Begegnung mit Kfz.
+6-1	468-471	Ich	_	
+6-2	472-480	empfinde	_	
+6-3	481-484	die	_	
+6-4	485-490	kurze	_	
+6-5	491-499	Variante	_	
+6-6	500-504	aber	_	
+6-7	505-509	auch	_	
+6-8	510-513	als	_	
+6-9	514-516	zu	_	
+6-10	517-520	eng	_	
+6-11	521-524	bei	_	
+6-12	525-534	Begegnung	_	
+6-13	535-538	mit	_	
+6-14	539-542	Kfz	_	
+6-15	542-543	.	_	
+
+#Text=Lösung: Sharrow entfernen und/oder Schild entfernen.
+7-1	544-550	Lösung	_	
+7-2	550-551	:	_	
+7-3	552-559	Sharrow	_	
+7-4	560-569	entfernen	_	
+7-5	570-573	und	_	
+7-6	573-574	/	_	
+7-7	574-578	oder	_	
+7-8	579-585	Schild	_	
+7-9	586-595	entfernen	_	
+7-10	595-596	.	_	

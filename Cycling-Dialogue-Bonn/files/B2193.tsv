@@ -1,0 +1,38 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radmarkierung Kennedybrücke
+1-1	0-13	Radmarkierung	_	
+1-2	14-27	Kennedybrücke	*	
+
+#Text=Aufmalen von Piktogrammen, damit deutlicher wird, dass der graue Bereich der Radweg ist und besonders, dass er in beiden Richtungen zu befahren ist.
+2-1	30-38	Aufmalen	_	
+2-2	39-42	von	_	
+2-3	43-55	Piktogrammen	_	
+2-4	55-56	,	_	
+2-5	57-62	damit	_	
+2-6	63-73	deutlicher	_	
+2-7	74-78	wird	_	
+2-8	78-79	,	_	
+2-9	80-84	dass	_	
+2-10	85-88	der	_	
+2-11	89-94	graue	_	
+2-12	95-102	Bereich	_	
+2-13	103-106	der	_	
+2-14	107-113	Radweg	_	
+2-15	114-117	ist	_	
+2-16	118-121	und	_	
+2-17	122-131	besonders	_	
+2-18	131-132	,	_	
+2-19	133-137	dass	_	
+2-20	138-140	er	_	
+2-21	141-143	in	_	
+2-22	144-150	beiden	_	
+2-23	151-161	Richtungen	_	
+2-24	162-164	zu	_	
+2-25	165-173	befahren	_	
+2-26	174-177	ist	_	
+2-27	177-178	.	_	

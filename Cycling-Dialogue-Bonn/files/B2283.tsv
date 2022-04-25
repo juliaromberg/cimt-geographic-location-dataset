@@ -1,0 +1,56 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Viktoriabrücke
+1-1	0-14	Viktoriabrücke	*	
+
+#Text=Bitte lassen Sie endlich die Radfahrer wieder gemeinsam mit den Fahrzeugen die Straße benutzen und kontrollieren Sie doch auch die Geschwindigkeit der Fahrzeuge.
+2-1	17-22	Bitte	_	
+2-2	23-29	lassen	_	
+2-3	30-33	Sie	_	
+2-4	34-41	endlich	_	
+2-5	42-45	die	_	
+2-6	46-55	Radfahrer	_	
+2-7	56-62	wieder	_	
+2-8	63-72	gemeinsam	_	
+2-9	73-76	mit	_	
+2-10	77-80	den	_	
+2-11	81-91	Fahrzeugen	_	
+2-12	92-95	die	_	
+2-13	96-102	Straße	_	
+2-14	103-111	benutzen	_	
+2-15	112-115	und	_	
+2-16	116-129	kontrollieren	_	
+2-17	130-133	Sie	_	
+2-18	134-138	doch	_	
+2-19	139-143	auch	_	
+2-20	144-147	die	_	
+2-21	148-163	Geschwindigkeit	_	
+2-22	164-167	der	_	
+2-23	168-177	Fahrzeuge	_	
+2-24	177-178	.	_	
+
+#Text=Werden 30 km wirklich eingehalten.
+3-1	179-185	Werden	_	
+3-2	186-188	30	_	
+3-3	189-191	km	_	
+3-4	192-200	wirklich	_	
+3-5	201-212	eingehalten	_	
+3-6	212-213	.	_	
+
+#Text=Weder für Radfahrer noch für Fußgänger ist die jetzige Regelung komfortabel.
+4-1	214-219	Weder	_	
+4-2	220-223	für	_	
+4-3	224-233	Radfahrer	_	
+4-4	234-238	noch	_	
+4-5	239-242	für	_	
+4-6	243-252	Fußgänger	_	
+4-7	253-256	ist	_	
+4-8	257-260	die	_	
+4-9	261-268	jetzige	_	
+4-10	269-277	Regelung	_	
+4-11	278-289	komfortabel	_	
+4-12	289-290	.	_	

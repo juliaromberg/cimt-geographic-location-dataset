@@ -1,0 +1,100 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlende Ampel
+1-1	0-8	Fehlende	_	
+1-2	9-14	Ampel	_	
+
+#Text=Die Kreuzung Weberstraße / Kaiserstraße ist als Ampelkreuzung konzipiert.
+2-1	17-20	Die	*[6]	
+2-2	21-29	Kreuzung	*[6]	
+2-3	30-41	Weberstraße	*[6]	
+2-4	42-43	/	*[6]	
+2-5	44-56	Kaiserstraße	*[6]	
+2-6	57-60	ist	_	
+2-7	61-64	als	_	
+2-8	65-78	Ampelkreuzung	_	
+2-9	79-89	konzipiert	_	
+2-10	89-90	.	_	
+
+#Text=Leider wurde dabei anscheinend vergessen, dass Fahrräder die Weberstraße auch entgegen der Einbahnstraße befahren dürfen (also über die Gleise kommend).
+3-1	91-97	Leider	_	
+3-2	98-103	wurde	_	
+3-3	104-109	dabei	_	
+3-4	110-121	anscheinend	_	
+3-5	122-131	vergessen	_	
+3-6	131-132	,	_	
+3-7	133-137	dass	_	
+3-8	138-147	Fahrräder	_	
+3-9	148-151	die	*[7]	
+3-10	152-163	Weberstraße	*[7]	
+3-11	164-168	auch	_	
+3-12	169-177	entgegen	_	
+3-13	178-181	der	_	
+3-14	182-195	Einbahnstraße	_	
+3-15	196-204	befahren	_	
+3-16	205-211	dürfen	_	
+3-17	212-213	(	_	
+3-18	213-217	also	_	
+3-19	218-222	über	_	
+3-20	223-226	die	_	
+3-21	227-233	Gleise	_	
+3-22	234-241	kommend	_	
+3-23	241-242	)	_	
+3-24	242-243	.	_	
+
+#Text=Aus dieser Richtung kommend existiert aber keine Ampel, was durchaus für gefährliche Situationen sorgt - wer erwartet bei einer grünen Ampel auf der Kaiserstraße schon, dass Verkehr legal aus der Weberstraße kommen darf?
+4-1	244-247	Aus	_	
+4-2	248-254	dieser	_	
+4-3	255-263	Richtung	_	
+4-4	264-271	kommend	_	
+4-5	272-281	existiert	_	
+4-6	282-286	aber	_	
+4-7	287-292	keine	_	
+4-8	293-298	Ampel	_	
+4-9	298-299	,	_	
+4-10	300-303	was	_	
+4-11	304-312	durchaus	_	
+4-12	313-316	für	_	
+4-13	317-328	gefährliche	_	
+4-14	329-340	Situationen	_	
+4-15	341-346	sorgt	_	
+4-16	347-348	-	_	
+4-17	349-352	wer	_	
+4-18	353-361	erwartet	_	
+4-19	362-365	bei	_	
+4-20	366-371	einer	_	
+4-21	372-378	grünen	_	
+4-22	379-384	Ampel	_	
+4-23	385-388	auf	*[8]	
+4-24	389-392	der	*[8]	
+4-25	393-405	Kaiserstraße	*[8]	
+4-26	406-411	schon	_	
+4-27	411-412	,	_	
+4-28	413-417	dass	_	
+4-29	418-425	Verkehr	_	
+4-30	426-431	legal	_	
+4-31	432-435	aus	*[9]	
+4-32	436-439	der	*[9]	
+4-33	440-451	Weberstraße	*[9]	
+4-34	452-458	kommen	_	
+4-35	459-463	darf	_	
+4-36	463-464	?	_	
+
+#Text=Lösungsvorschlag: Auf der Weberstraße auch entgegen der Einbahnstraße eine Ampel aufbauen.
+5-1	465-481	Lösungsvorschlag	_	
+5-2	481-482	:	_	
+5-3	483-486	Auf	*[10]	
+5-4	487-490	der	*[10]	
+5-5	491-502	Weberstraße	*[10]	
+5-6	503-507	auch	_	
+5-7	508-516	entgegen	_	
+5-8	517-520	der	_	
+5-9	521-534	Einbahnstraße	_	
+5-10	535-539	eine	_	
+5-11	540-545	Ampel	_	
+5-12	546-554	aufbauen	_	
+5-13	554-555	.	_	

@@ -1,0 +1,60 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Tunnel/Fahrradüberführung bauen
+1-1	0-6	Tunnel	_	
+1-2	6-7	/	_	
+1-3	7-25	Fahrradüberführung	_	
+1-4	26-31	bauen	_	
+
+#Text=10 min vor der Schranke zu warten ist keine Seltenheit.
+2-1	34-36	10	_	
+2-2	37-40	min	_	
+2-3	41-44	vor	_	
+2-4	45-48	der	_	
+2-5	49-57	Schranke	_	
+2-6	58-60	zu	_	
+2-7	61-67	warten	_	
+2-8	68-71	ist	_	
+2-9	72-77	keine	_	
+2-10	78-88	Seltenheit	_	
+2-11	88-89	.	_	
+
+#Text=Ein Fahrradtunnel oder eine geschickte Überführung (Ähnliches gibt es in Bielefeld über Bahn und Ostwestfalendamm) an der Bahnlinie (Höhe Annaberger Str. oder Marie-Schlei-Allee) würde Radfahren und Fußgängern helfen!
+3-1	90-93	Ein	_	
+3-2	94-107	Fahrradtunnel	_	
+3-3	108-112	oder	_	
+3-4	113-117	eine	_	
+3-5	118-128	geschickte	_	
+3-6	129-140	Überführung	_	
+3-7	141-142	(	_	
+3-8	142-151	Ähnliches	_	
+3-9	152-156	gibt	_	
+3-10	157-159	es	_	
+3-11	160-162	in	_	
+3-12	163-172	Bielefeld	_	
+3-13	173-177	über	_	
+3-14	178-182	Bahn	_	
+3-15	183-186	und	_	
+3-16	187-203	Ostwestfalendamm	_	
+3-17	203-204	)	_	
+3-18	205-207	an	_	
+3-19	208-211	der	_	
+3-20	212-221	Bahnlinie	_	
+3-21	222-223	(	_	
+3-22	223-227	Höhe	*[4]	
+3-23	228-238	Annaberger	*[4]	
+3-24	239-242	Str	*[4]	
+3-25	242-243	.	*[4]	
+3-26	244-248	oder	*[4]	
+3-27	249-267	Marie-Schlei-Allee	*[4]	
+3-28	267-268	)	_	
+3-29	269-274	würde	_	
+3-30	275-284	Radfahren	_	
+3-31	285-288	und	_	
+3-32	289-299	Fußgängern	_	
+3-33	300-306	helfen	_	
+3-34	306-307	!	_	

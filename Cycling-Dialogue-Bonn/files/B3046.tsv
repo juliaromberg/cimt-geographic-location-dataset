@@ -1,0 +1,216 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Markierter Fahrradweg über Hbf + ZOB
+1-1	0-10	Markierter	_	
+1-2	11-21	Fahrradweg	_	
+1-3	22-26	über	_	
+1-4	27-30	Hbf	*[9]	
+1-5	31-32	+	*[9]	
+1-6	33-36	ZOB	*[9]	
+
+#Text=Mir fehlt - aus Richtung Westen kommend - eine klare Regelung und Markierung eines 'Weges' am Bonner Hauptbahnhof vorbei über den ZOB zur Kaiserstrasse.
+2-1	39-42	Mir	_	
+2-2	43-48	fehlt	_	
+2-3	49-50	-	_	
+2-4	51-54	aus	*[10]	
+2-5	55-63	Richtung	*[10]	
+2-6	64-70	Westen	*[10]	
+2-7	71-78	kommend	*[10]	
+2-8	79-80	-	_	
+2-9	81-85	eine	_	
+2-10	86-91	klare	_	
+2-11	92-100	Regelung	_	
+2-12	101-104	und	_	
+2-13	105-115	Markierung	_	
+2-14	116-121	eines	_	
+2-15	122-123	'	_	
+2-16	123-128	Weges	_	
+2-17	128-129	'	_	
+2-18	130-132	am	*[11]	
+2-19	133-139	Bonner	*[11]	
+2-20	140-152	Hauptbahnhof	*[11]	
+2-21	153-159	vorbei	*[11]	
+2-22	160-164	über	*[11]	
+2-23	165-168	den	*[11]	
+2-24	169-172	ZOB	*[11]	
+2-25	173-176	zur	*[11]	
+2-26	177-190	Kaiserstrasse	*[11]	
+2-27	190-191	.	_	
+
+#Text=Ab dem Taxistand Rabinstrasse fährt man sehr eng auf der Strasse am Hbf vorbei.
+3-1	192-194	Ab	*[12]	
+3-2	195-198	dem	*[12]	
+3-3	199-208	Taxistand	*[12]	
+3-4	209-221	Rabinstrasse	*[12]	
+3-5	222-227	fährt	_	
+3-6	228-231	man	_	
+3-7	232-236	sehr	_	
+3-8	237-240	eng	_	
+3-9	241-244	auf	_	
+3-10	245-248	der	_	
+3-11	249-256	Strasse	_	
+3-12	257-259	am	*[13]	
+3-13	260-263	Hbf	*[13]	
+3-14	264-270	vorbei	_	
+3-15	270-271	.	_	
+
+#Text=Dann wird es schwierig: Entweder fährt man die Unterführung hinunter und schiebt sein Fahrrad durch die Passage am Kaiserplatz, oder man fährt weiter durch und dann erst von der König- auf die Kaiserstrasse.
+4-1	272-276	Dann	_	
+4-2	277-281	wird	_	
+4-3	282-284	es	_	
+4-4	285-294	schwierig	_	
+4-5	294-295	:	_	
+4-6	296-304	Entweder	_	
+4-7	305-310	fährt	_	
+4-8	311-314	man	_	
+4-9	315-318	die	_	
+4-10	319-331	Unterführung	_	
+4-11	332-340	hinunter	_	
+4-12	341-344	und	_	
+4-13	345-352	schiebt	_	
+4-14	353-357	sein	_	
+4-15	358-365	Fahrrad	_	
+4-16	366-371	durch	*[14]	
+4-17	372-375	die	*[14]	
+4-18	376-383	Passage	*[14]	
+4-19	384-386	am	*[14]	
+4-20	387-398	Kaiserplatz	*[14]	
+4-21	398-399	,	_	
+4-22	400-404	oder	_	
+4-23	405-408	man	_	
+4-24	409-414	fährt	_	
+4-25	415-421	weiter	_	
+4-26	422-427	durch	_	
+4-27	428-431	und	_	
+4-28	432-436	dann	_	
+4-29	437-441	erst	_	
+4-30	442-445	von	*[15]	
+4-31	446-449	der	*[15]	
+4-32	450-455	König	*[15]	
+4-33	455-456	-	*[15]	
+4-34	457-460	auf	*[15]	
+4-35	461-464	die	*[15]	
+4-36	465-478	Kaiserstrasse	*[15]	
+4-37	478-479	.	_	
+
+#Text=Beides aber keine guten Alternativen und zumindest gefühlt Umwege.
+5-1	480-486	Beides	_	
+5-2	487-491	aber	_	
+5-3	492-497	keine	_	
+5-4	498-503	guten	_	
+5-5	504-516	Alternativen	_	
+5-6	517-520	und	_	
+5-7	521-530	zumindest	_	
+5-8	531-538	gefühlt	_	
+5-9	539-545	Umwege	_	
+5-10	545-546	.	_	
+
+#Text=Stattdessen biegt man auf den ZOB ab und 'mogelt' sich irgendwie durch.
+6-1	547-558	Stattdessen	_	
+6-2	559-564	biegt	_	
+6-3	565-568	man	_	
+6-4	569-572	auf	*[16]	
+6-5	573-576	den	*[16]	
+6-6	577-580	ZOB	*[16]	
+6-7	581-583	ab	_	
+6-8	584-587	und	_	
+6-9	588-589	'	_	
+6-10	589-595	mogelt	_	
+6-11	595-596	'	_	
+6-12	597-601	sich	_	
+6-13	602-611	irgendwie	_	
+6-14	612-617	durch	_	
+6-15	617-618	.	_	
+
+#Text=Mein konkreter Wunsch ist also eine klare Regelung und Markierung eines 'unterbrechungsfreien' Radweges von der Rabinstrasse bis zum Beginn der Kaiserstrasse., der insb. vom Abbiegen auf den ZOB und im ZOB selbst so deutlich erkennbar ist, dass er auch von allen Verkehrsteilnehmern erkannt und als Radfahrer genutzt wird.
+7-1	619-623	Mein	_	
+7-2	624-633	konkreter	_	
+7-3	634-640	Wunsch	_	
+7-4	641-644	ist	_	
+7-5	645-649	also	_	
+7-6	650-654	eine	_	
+7-7	655-660	klare	_	
+7-8	661-669	Regelung	_	
+7-9	670-673	und	_	
+7-10	674-684	Markierung	_	
+7-11	685-690	eines	_	
+7-12	691-692	'	_	
+7-13	692-712	unterbrechungsfreien	_	
+7-14	712-713	'	_	
+7-15	714-722	Radweges	_	
+7-16	723-726	von	*[17]	
+7-17	727-730	der	*[17]	
+7-18	731-743	Rabinstrasse	*[17]	
+7-19	744-747	bis	*[17]	
+7-20	748-751	zum	*[17]	
+7-21	752-758	Beginn	*[17]	
+7-22	759-762	der	*[17]	
+7-23	763-776	Kaiserstrasse	*[17]	
+7-24	776-777	.	_	
+7-25	777-778	,	_	
+7-26	779-782	der	_	
+7-27	783-787	insb	_	
+7-28	787-788	.	_	
+7-29	789-792	vom	_	
+7-30	793-801	Abbiegen	_	
+7-31	802-805	auf	_	
+7-32	806-809	den	_	
+7-33	810-813	ZOB	*	
+7-34	814-817	und	_	
+7-35	818-820	im	*[18]	
+7-36	821-824	ZOB	*[18]	
+7-37	825-831	selbst	_	
+7-38	832-834	so	_	
+7-39	835-843	deutlich	_	
+7-40	844-853	erkennbar	_	
+7-41	854-857	ist	_	
+7-42	857-858	,	_	
+7-43	859-863	dass	_	
+7-44	864-866	er	_	
+7-45	867-871	auch	_	
+7-46	872-875	von	_	
+7-47	876-881	allen	_	
+7-48	882-901	Verkehrsteilnehmern	_	
+7-49	902-909	erkannt	_	
+7-50	910-913	und	_	
+7-51	914-917	als	_	
+7-52	918-927	Radfahrer	_	
+7-53	928-935	genutzt	_	
+7-54	936-940	wird	_	
+7-55	940-941	.	_	
+
+#Text=In der entgegengesetzten Richtung ist es - in der aktuellen Version - am ZOB klar, wie man fahren muss, aber auch hier wäre eine deutliche Markierung wünschenswert.
+8-1	942-944	In	_	
+8-2	945-948	der	_	
+8-3	949-966	entgegengesetzten	_	
+8-4	967-975	Richtung	_	
+8-5	976-979	ist	_	
+8-6	980-982	es	_	
+8-7	983-984	-	_	
+8-8	985-987	in	_	
+8-9	988-991	der	_	
+8-10	992-1001	aktuellen	_	
+8-11	1002-1009	Version	_	
+8-12	1010-1011	-	_	
+8-13	1012-1014	am	*[19]	
+8-14	1015-1018	ZOB	*[19]	
+8-15	1019-1023	klar	_	
+8-16	1023-1024	,	_	
+8-17	1025-1028	wie	_	
+8-18	1029-1032	man	_	
+8-19	1033-1039	fahren	_	
+8-20	1040-1044	muss	_	
+8-21	1044-1045	,	_	
+8-22	1046-1050	aber	_	
+8-23	1051-1055	auch	_	
+8-24	1056-1060	hier	_	
+8-25	1061-1065	wäre	_	
+8-26	1066-1070	eine	_	
+8-27	1071-1080	deutliche	_	
+8-28	1081-1091	Markierung	_	
+8-29	1092-1105	wünschenswert	_	
+8-30	1105-1106	.	_	

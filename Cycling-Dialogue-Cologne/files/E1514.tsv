@@ -1,0 +1,185 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Eine Spur für Fahrräder
+1-1	0-4	Eine	_	
+1-2	5-9	Spur	_	
+1-3	10-13	für	_	
+1-4	14-23	Fahrräder	_	
+
+#Text=In diesem Teil der Venloer Straße ist das Radfahren leider sehr gefärlich.
+2-1	26-28	In	_	
+2-2	29-35	diesem	_	
+2-3	36-40	Teil	_	
+2-4	41-44	der	_	
+2-5	45-52	Venloer	*[11]	
+2-6	53-59	Straße	*[11]	
+2-7	60-63	ist	_	
+2-8	64-67	das	_	
+2-9	68-77	Radfahren	_	
+2-10	78-84	leider	_	
+2-11	85-89	sehr	_	
+2-12	90-99	gefärlich	_	
+2-13	99-100	.	_	
+
+#Text=Es gibt zu wenig Platz.
+3-1	101-103	Es	_	
+3-2	104-108	gibt	_	
+3-3	109-111	zu	_	
+3-4	112-117	wenig	_	
+3-5	118-123	Platz	_	
+3-6	123-124	.	_	
+
+#Text=Eine sicherere Aufteilung wäre es sicher, wenn die Venloer Straße zumindest hier zur Einbahnstraße wird.
+4-1	125-129	Eine	_	
+4-2	130-139	sicherere	_	
+4-3	140-150	Aufteilung	_	
+4-4	151-155	wäre	_	
+4-5	156-158	es	_	
+4-6	159-165	sicher	_	
+4-7	165-166	,	_	
+4-8	167-171	wenn	_	
+4-9	172-175	die	*[12]	
+4-10	176-183	Venloer	*[12]	
+4-11	184-190	Straße	*[12]	
+4-12	191-200	zumindest	_	
+4-13	201-205	hier	_	
+4-14	206-209	zur	_	
+4-15	210-223	Einbahnstraße	_	
+4-16	224-228	wird	_	
+4-17	228-229	.	_	
+
+#Text=Dann hätten die Autos immer noch drei Spuren (eine Fahrspur, zwei Parkspuren) und die Radfahrer eine Spur.
+5-1	230-234	Dann	_	
+5-2	235-241	hätten	_	
+5-3	242-245	die	_	
+5-4	246-251	Autos	_	
+5-5	252-257	immer	_	
+5-6	258-262	noch	_	
+5-7	263-267	drei	_	
+5-8	268-274	Spuren	_	
+5-9	275-276	(	_	
+5-10	276-280	eine	_	
+5-11	281-289	Fahrspur	_	
+5-12	289-290	,	_	
+5-13	291-295	zwei	_	
+5-14	296-306	Parkspuren	_	
+5-15	306-307	)	_	
+5-16	308-311	und	_	
+5-17	312-315	die	_	
+5-18	316-325	Radfahrer	_	
+5-19	326-330	eine	_	
+5-20	331-335	Spur	_	
+5-21	335-336	.	_	
+
+#Text=Die Bürgersteige summiert ergäben dann noch eine weitere Spur für die Fußgänger.
+6-1	337-340	Die	_	
+6-2	341-353	Bürgersteige	_	
+6-3	354-362	summiert	_	
+6-4	363-370	ergäben	_	
+6-5	371-375	dann	_	
+6-6	376-380	noch	_	
+6-7	381-385	eine	_	
+6-8	386-393	weitere	_	
+6-9	394-398	Spur	_	
+6-10	399-402	für	_	
+6-11	403-406	die	_	
+6-12	407-416	Fußgänger	_	
+6-13	416-417	.	_	
+
+#Text=Immer noch sehr auto-orientiert, aber sicherer!
+7-1	418-423	Immer	_	
+7-2	424-428	noch	_	
+7-3	429-433	sehr	_	
+7-4	434-449	auto-orientiert	_	
+7-5	449-450	,	_	
+7-6	451-455	aber	_	
+7-7	456-464	sicherer	_	
+7-8	464-465	!	_	
+
+#Text=Langfristig müssen auch die Parkmöglichkeiten eingedämmt werden, damit hier insgesamt der Autoverkehr abnimmt - hat doch heute schon das Rad eine sehr wichtige Rolle hier eingenommen.
+8-1	466-477	Langfristig	_	
+8-2	478-484	müssen	_	
+8-3	485-489	auch	_	
+8-4	490-493	die	_	
+8-5	494-511	Parkmöglichkeiten	_	
+8-6	512-522	eingedämmt	_	
+8-7	523-529	werden	_	
+8-8	529-530	,	_	
+8-9	531-536	damit	_	
+8-10	537-541	hier	_	
+8-11	542-551	insgesamt	_	
+8-12	552-555	der	_	
+8-13	556-567	Autoverkehr	_	
+8-14	568-575	abnimmt	_	
+8-15	576-577	-	_	
+8-16	578-581	hat	_	
+8-17	582-586	doch	_	
+8-18	587-592	heute	_	
+8-19	593-598	schon	_	
+8-20	599-602	das	_	
+8-21	603-606	Rad	_	
+8-22	607-611	eine	_	
+8-23	612-616	sehr	_	
+8-24	617-625	wichtige	_	
+8-25	626-631	Rolle	_	
+8-26	632-636	hier	_	
+8-27	637-648	eingenommen	_	
+8-28	648-649	.	_	
+
+#Text=Heute ist die Aituation übrigen für Radfahrer gefährlich, weil: Autos beim Parken einfach auf den Schutzstreifen ziehen, Autos einen sehr nah überholen (Radschutzstreifen viel(!!!) zu eng und ohne wirksame Grenze) und Autos einen übersehen und schneiden.
+9-1	650-655	Heute	_	
+9-2	656-659	ist	_	
+9-3	660-663	die	_	
+9-4	664-673	Aituation	_	
+9-5	674-681	übrigen	_	
+9-6	682-685	für	_	
+9-7	686-695	Radfahrer	_	
+9-8	696-706	gefährlich	_	
+9-9	706-707	,	_	
+9-10	708-712	weil	_	
+9-11	712-713	:	_	
+9-12	714-719	Autos	_	
+9-13	720-724	beim	_	
+9-14	725-731	Parken	_	
+9-15	732-739	einfach	_	
+9-16	740-743	auf	_	
+9-17	744-747	den	_	
+9-18	748-762	Schutzstreifen	_	
+9-19	763-769	ziehen	_	
+9-20	769-770	,	_	
+9-21	771-776	Autos	_	
+9-22	777-782	einen	_	
+9-23	783-787	sehr	_	
+9-24	788-791	nah	_	
+9-25	792-801	überholen	_	
+9-26	802-803	(	_	
+9-27	803-820	Radschutzstreifen	_	
+9-28	821-825	viel	_	
+9-29	825-826	(	_	
+9-30	826-827	!	_	
+9-31	827-828	!	_	
+9-32	828-829	!	_	
+9-33	829-830	)	_	
+9-34	831-833	zu	_	
+9-35	834-837	eng	_	
+9-36	838-841	und	_	
+9-37	842-846	ohne	_	
+9-38	847-855	wirksame	_	
+9-39	856-862	Grenze	_	
+9-40	862-863	)	_	
+9-41	864-867	und	_	
+9-42	868-873	Autos	_	
+9-43	874-879	einen	_	
+9-44	880-889	übersehen	_	
+9-45	890-893	und	_	
+9-46	894-903	schneiden	_	
+9-47	903-904	.	_	
+
+#Text=Viele Grüße!
+10-1	905-910	Viele	_	
+10-2	911-916	Grüße	_	
+10-3	916-917	!	_	

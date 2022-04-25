@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parkende PKW auf Radweg
+1-1	0-8	Parkende	_	
+1-2	9-12	PKW	_	
+1-3	13-16	auf	_	
+1-4	17-23	Radweg	_	
+
+#Text=Auf der Mittelstraße unmittelbar vor dem Plittersdorfer Kreisel parken die Lieferanten des dort lokalisierten Pizza-Lieferservice mehrfach täglich zu unterschiedlichsten Uhrzeiten ihre PKW auf dem Radweg.
+2-1	26-29	Auf	_	
+2-2	30-33	der	_	
+2-3	34-46	Mittelstraße	_	
+2-4	47-58	unmittelbar	_	
+2-5	59-62	vor	*[5]	
+2-6	63-66	dem	*[5]	
+2-7	67-81	Plittersdorfer	*[5]	
+2-8	82-89	Kreisel	*[5]	
+2-9	90-96	parken	_	
+2-10	97-100	die	_	
+2-11	101-112	Lieferanten	_	
+2-12	113-116	des	_	
+2-13	117-121	dort	_	
+2-14	122-135	lokalisierten	_	
+2-15	136-155	Pizza-Lieferservice	_	
+2-16	156-164	mehrfach	_	
+2-17	165-172	täglich	_	
+2-18	173-175	zu	_	
+2-19	176-195	unterschiedlichsten	_	
+2-20	196-205	Uhrzeiten	_	
+2-21	206-210	ihre	_	
+2-22	211-214	PKW	_	
+2-23	215-218	auf	_	
+2-24	219-222	dem	_	
+2-25	223-229	Radweg	_	
+2-26	229-230	.	_	
+
+#Text=Dieser ist auf der Mittelstraße sowieso nur mit einer gestrichelten Linie auf der Fahrbahn markiert.
+3-1	231-237	Dieser	_	
+3-2	238-241	ist	_	
+3-3	242-245	auf	_	
+3-4	246-249	der	_	
+3-5	250-262	Mittelstraße	_	
+3-6	263-270	sowieso	_	
+3-7	271-274	nur	_	
+3-8	275-278	mit	_	
+3-9	279-284	einer	_	
+3-10	285-298	gestrichelten	_	
+3-11	299-304	Linie	_	
+3-12	305-308	auf	_	
+3-13	309-312	der	_	
+3-14	313-321	Fahrbahn	_	
+3-15	322-330	markiert	_	
+3-16	330-331	.	_	
+
+#Text=Ein Umfahren der parkenden PKW ist kurz vor Einfahrt in den Kreisel äußerst gefährlich.
+4-1	332-335	Ein	_	
+4-2	336-344	Umfahren	_	
+4-3	345-348	der	_	
+4-4	349-358	parkenden	_	
+4-5	359-362	PKW	_	
+4-6	363-366	ist	_	
+4-7	367-371	kurz	_	
+4-8	372-375	vor	_	
+4-9	376-384	Einfahrt	_	
+4-10	385-387	in	_	
+4-11	388-391	den	_	
+4-12	392-399	Kreisel	_	
+4-13	400-407	äußerst	_	
+4-14	408-418	gefährlich	_	
+4-15	418-419	.	_	

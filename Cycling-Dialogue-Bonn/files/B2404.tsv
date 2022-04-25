@@ -1,0 +1,59 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schneee räümen
+1-1	0-7	Schneee	_	
+1-2	8-14	räümen	_	
+
+#Text=Die Radwege werden bei Schneefall frühzeitig morgens geräumt, wenn dann aber später der Schneeräumer auf der A562 fährt liegt der Schee wieder auf dem Radweg.
+2-1	17-20	Die	_	
+2-2	21-28	Radwege	_	
+2-3	29-35	werden	_	
+2-4	36-39	bei	_	
+2-5	40-50	Schneefall	_	
+2-6	51-61	frühzeitig	_	
+2-7	62-69	morgens	_	
+2-8	70-77	geräumt	_	
+2-9	77-78	,	_	
+2-10	79-83	wenn	_	
+2-11	84-88	dann	_	
+2-12	89-93	aber	_	
+2-13	94-100	später	_	
+2-14	101-104	der	_	
+2-15	105-117	Schneeräumer	_	
+2-16	118-121	auf	*[4]	
+2-17	122-125	der	*[4]	
+2-18	126-130	A562	*[4]	
+2-19	131-136	fährt	_	
+2-20	137-142	liegt	_	
+2-21	143-146	der	_	
+2-22	147-152	Schee	_	
+2-23	153-159	wieder	_	
+2-24	160-163	auf	_	
+2-25	164-167	dem	_	
+2-26	168-174	Radweg	_	
+2-27	174-175	.	_	
+
+#Text=Tritt danach kein Scheefall mehr auf, bleibt der Schnee liegen und vereist bis er langsam weggetaut ist.
+3-1	176-181	Tritt	_	
+3-2	182-188	danach	_	
+3-3	189-193	kein	_	
+3-4	194-203	Scheefall	_	
+3-5	204-208	mehr	_	
+3-6	209-212	auf	_	
+3-7	212-213	,	_	
+3-8	214-220	bleibt	_	
+3-9	221-224	der	_	
+3-10	225-231	Schnee	_	
+3-11	232-238	liegen	_	
+3-12	239-242	und	_	
+3-13	243-250	vereist	_	
+3-14	251-254	bis	_	
+3-15	255-257	er	_	
+3-16	258-265	langsam	_	
+3-17	266-275	weggetaut	_	
+3-18	276-279	ist	_	
+3-19	279-280	.	_	

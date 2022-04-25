@@ -1,0 +1,22 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radwegschäden
+1-1	0-13	Radwegschäden	_	
+
+#Text=Der Radweg entlang der Inneren Kanalstr. ist zum Teil stark beschädigt
+2-1	16-19	Der	*[2]	
+2-2	20-26	Radweg	*[2]	
+2-3	27-34	entlang	*[2]	
+2-4	35-38	der	*[2]	
+2-5	39-46	Inneren	*[2]	
+2-6	47-55	Kanalstr	*[2]	
+2-7	55-56	.	*[2]	
+2-8	57-60	ist	_	
+2-9	61-64	zum	_	
+2-10	65-69	Teil	_	
+2-11	70-75	stark	_	
+2-12	76-86	beschädigt	_	

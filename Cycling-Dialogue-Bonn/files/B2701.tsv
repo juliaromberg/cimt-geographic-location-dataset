@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Flickenteppich
+1-1	0-14	Flickenteppich	_	
+
+#Text=Der Radweg auf der Straße Am Probsthof Fahrtrichtung von Auf dem Hügel nach Gerhard-Domagk-Str. hat bedingt durch zahlreiche Flickaktionen jede Menge Unebenheiten.
+2-1	17-20	Der	_	
+2-2	21-27	Radweg	_	
+2-3	28-31	auf	_	
+2-4	32-35	der	_	
+2-5	36-42	Straße	_	
+2-6	43-45	Am	*[4]	
+2-7	46-55	Probsthof	*[4]	
+2-8	56-69	Fahrtrichtung	*[4]	
+2-9	70-73	von	*[4]	
+2-10	74-77	Auf	*[4]	
+2-11	78-81	dem	*[4]	
+2-12	82-87	Hügel	*[4]	
+2-13	88-92	nach	*[4]	
+2-14	93-111	Gerhard-Domagk-Str	*[4]	
+2-15	111-112	.	_	
+2-16	113-116	hat	_	
+2-17	117-124	bedingt	_	
+2-18	125-130	durch	_	
+2-19	131-141	zahlreiche	_	
+2-20	142-155	Flickaktionen	_	
+2-21	156-160	jede	_	
+2-22	161-166	Menge	_	
+2-23	167-179	Unebenheiten	_	
+2-24	179-180	.	_	
+
+#Text=Ich fahre diese Strecke nur im Stehen, da der Rücken sonst arg in Mitleidenschaft gezogen wird.
+3-1	181-184	Ich	_	
+3-2	185-190	fahre	_	
+3-3	191-196	diese	_	
+3-4	197-204	Strecke	_	
+3-5	205-208	nur	_	
+3-6	209-211	im	_	
+3-7	212-218	Stehen	_	
+3-8	218-219	,	_	
+3-9	220-222	da	_	
+3-10	223-226	der	_	
+3-11	227-233	Rücken	_	
+3-12	234-239	sonst	_	
+3-13	240-243	arg	_	
+3-14	244-246	in	_	
+3-15	247-262	Mitleidenschaft	_	
+3-16	263-270	gezogen	_	
+3-17	271-275	wird	_	
+3-18	275-276	.	_	
+
+#Text=Es wäre wünschenswert, wenn die Straße bzw. der Radweg einmal komplett erneuert würde.
+4-1	277-279	Es	_	
+4-2	280-284	wäre	_	
+4-3	285-298	wünschenswert	_	
+4-4	298-299	,	_	
+4-5	300-304	wenn	_	
+4-6	305-308	die	_	
+4-7	309-315	Straße	_	
+4-8	316-319	bzw	_	
+4-9	319-320	.	_	
+4-10	321-324	der	_	
+4-11	325-331	Radweg	_	
+4-12	332-338	einmal	_	
+4-13	339-347	komplett	_	
+4-14	348-356	erneuert	_	
+4-15	357-362	würde	_	
+4-16	362-363	.	_	

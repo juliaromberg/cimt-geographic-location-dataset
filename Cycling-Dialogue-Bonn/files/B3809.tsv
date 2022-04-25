@@ -1,0 +1,58 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße
+1-1	0-13	Fahrradstraße	_	
+
+#Text=Die Straße In der Kumme wird von vielen Radlern genutzt, die zw. Bonn und Bad Godesberg unterwegs.
+2-1	16-19	Die	_	
+2-2	20-26	Straße	_	
+2-3	27-29	In	*[4]	
+2-4	30-33	der	*[4]	
+2-5	34-39	Kumme	*[4]	
+2-6	40-44	wird	_	
+2-7	45-48	von	_	
+2-8	49-55	vielen	_	
+2-9	56-63	Radlern	_	
+2-10	64-71	genutzt	_	
+2-11	71-72	,	_	
+2-12	73-76	die	_	
+2-13	77-79	zw	_	
+2-14	79-80	.	*[5]	
+2-15	81-85	Bonn	*[5]	
+2-16	86-89	und	*[5]	
+2-17	90-93	Bad	*[5]	
+2-18	94-103	Godesberg	*[5]	
+2-19	104-113	unterwegs	_	
+2-20	113-114	.	_	
+
+#Text=Sie sollte Fahrradstraße werden, auch um den dortigen Autoverkehr zu verlangsamen.
+3-1	115-118	Sie	_	
+3-2	119-125	sollte	_	
+3-3	126-139	Fahrradstraße	_	
+3-4	140-146	werden	_	
+3-5	146-147	,	_	
+3-6	148-152	auch	_	
+3-7	153-155	um	_	
+3-8	156-159	den	_	
+3-9	160-168	dortigen	_	
+3-10	169-180	Autoverkehr	_	
+3-11	181-183	zu	_	
+3-12	184-196	verlangsamen	_	
+3-13	196-197	.	_	
+
+#Text=Obwohl Tempo 30 Zone wird hier viel zu schnell gefahren.
+4-1	198-204	Obwohl	_	
+4-2	205-210	Tempo	_	
+4-3	211-213	30	_	
+4-4	214-218	Zone	_	
+4-5	219-223	wird	_	
+4-6	224-228	hier	_	
+4-7	229-233	viel	_	
+4-8	234-236	zu	_	
+4-9	237-244	schnell	_	
+4-10	245-253	gefahren	_	
+4-11	253-254	.	_	

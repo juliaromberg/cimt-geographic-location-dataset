@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schutzstreifen ersetzen
+1-1	0-14	Schutzstreifen	_	
+1-2	15-23	ersetzen	_	
+
+#Text=Überall in Bonn und hier besonders wichtig: Anstelle von Schutzstreifen einen Radweg getrennt von (parkenden sowie fahrenden) Autos einrichten.
+2-1	26-33	Überall	_	
+2-2	34-36	in	*[4]	
+2-3	37-41	Bonn	*[4]	
+2-4	42-45	und	_	
+2-5	46-50	hier	_	
+2-6	51-60	besonders	_	
+2-7	61-68	wichtig	_	
+2-8	68-69	:	_	
+2-9	70-78	Anstelle	_	
+2-10	79-82	von	_	
+2-11	83-97	Schutzstreifen	_	
+2-12	98-103	einen	_	
+2-13	104-110	Radweg	_	
+2-14	111-119	getrennt	_	
+2-15	120-123	von	_	
+2-16	124-125	(	_	
+2-17	125-134	parkenden	_	
+2-18	135-140	sowie	_	
+2-19	141-150	fahrenden	_	
+2-20	150-151	)	_	
+2-21	152-157	Autos	_	
+2-22	158-168	einrichten	_	
+2-23	168-169	.	_	
+
+#Text=Der Schutzstreifen wird überall in Bonn komplett ignoriert von den Autofahrern.
+3-1	170-173	Der	_	
+3-2	174-188	Schutzstreifen	_	
+3-3	189-193	wird	_	
+3-4	194-201	überall	_	
+3-5	202-204	in	*[5]	
+3-6	205-209	Bonn	*[5]	
+3-7	210-218	komplett	_	
+3-8	219-228	ignoriert	_	
+3-9	229-232	von	_	
+3-10	233-236	den	_	
+3-11	237-248	Autofahrern	_	
+3-12	248-249	.	_	

@@ -1,0 +1,111 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Radwegeführung
+1-1	0-11	Gefährliche	_	
+1-2	12-26	Radwegeführung	_	
+
+#Text=Der komplette Radweg von Beuel Richtung Bonn Zentrum zwischen Adelheidisstraße und Combahnstraße ist eine einzige Gefahrenstelle: Ausfahrt der Tankstelle, Zuparken durch PKW, Anlieferverkehr Restaurant, Fußgänger, Mülltonnen auf dem Weg, Linksabbieger aus der Niederkasseler Straße und zu wenig Platz für die gemeinsame Nutzung von Fuß- und Radweg.
+2-1	29-32	Der	*[5]	
+2-2	33-42	komplette	*[5]	
+2-3	43-49	Radweg	*[5]	
+2-4	50-53	von	*[5]	
+2-5	54-59	Beuel	*[5]	
+2-6	60-68	Richtung	*[5]	
+2-7	69-73	Bonn	*[5]	
+2-8	74-81	Zentrum	*[5]	
+2-9	82-90	zwischen	*[5]	
+2-10	91-107	Adelheidisstraße	*[5]	
+2-11	108-111	und	*[5]	
+2-12	112-125	Combahnstraße	*[5]	
+2-13	126-129	ist	_	
+2-14	130-134	eine	_	
+2-15	135-142	einzige	_	
+2-16	143-157	Gefahrenstelle	_	
+2-17	157-158	:	_	
+2-18	159-167	Ausfahrt	_	
+2-19	168-171	der	_	
+2-20	172-182	Tankstelle	_	
+2-21	182-183	,	_	
+2-22	184-192	Zuparken	_	
+2-23	193-198	durch	_	
+2-24	199-202	PKW	_	
+2-25	202-203	,	_	
+2-26	204-219	Anlieferverkehr	_	
+2-27	220-230	Restaurant	_	
+2-28	230-231	,	_	
+2-29	232-241	Fußgänger	_	
+2-30	241-242	,	_	
+2-31	243-253	Mülltonnen	_	
+2-32	254-257	auf	_	
+2-33	258-261	dem	_	
+2-34	262-265	Weg	_	
+2-35	265-266	,	_	
+2-36	267-280	Linksabbieger	_	
+2-37	281-284	aus	_	
+2-38	285-288	der	_	
+2-39	289-303	Niederkasseler	_	
+2-40	304-310	Straße	_	
+2-41	311-314	und	_	
+2-42	315-317	zu	_	
+2-43	318-323	wenig	_	
+2-44	324-329	Platz	_	
+2-45	330-333	für	_	
+2-46	334-337	die	_	
+2-47	338-348	gemeinsame	_	
+2-48	349-356	Nutzung	_	
+2-49	357-360	von	_	
+2-50	361-364	Fuß	_	
+2-51	364-365	-	_	
+2-52	366-369	und	_	
+2-53	370-376	Radweg	_	
+2-54	376-377	.	_	
+
+#Text=Hier sollte ein Fahrradschutzstreifen auf die Fahrbahn der B56 gelegt werden.
+3-1	378-382	Hier	_	
+3-2	383-389	sollte	_	
+3-3	390-393	ein	_	
+3-4	394-415	Fahrradschutzstreifen	_	
+3-5	416-419	auf	_	
+3-6	420-423	die	_	
+3-7	424-432	Fahrbahn	_	
+3-8	433-436	der	_	
+3-9	437-440	B56	*	
+3-10	441-447	gelegt	_	
+3-11	448-454	werden	_	
+3-12	454-455	.	_	
+
+#Text=Auf der Verkehrsinsel an der Kreuzung B56/Niederkasseler Straße ist im Berufsverkehr zudem zu wenig Platz für alle Radfahrer, die dann halb auf der Straße stehen müssen.
+4-1	456-459	Auf	*[6]	
+4-2	460-463	der	*[6]	
+4-3	464-477	Verkehrsinsel	*[6]	
+4-4	478-480	an	*[6]	
+4-5	481-484	der	*[6]	
+4-6	485-493	Kreuzung	*[6]	
+4-7	494-497	B56	*[6]	
+4-8	497-498	/	*[6]	
+4-9	498-512	Niederkasseler	*[6]	
+4-10	513-519	Straße	*[6]	
+4-11	520-523	ist	_	
+4-12	524-526	im	_	
+4-13	527-540	Berufsverkehr	_	
+4-14	541-546	zudem	_	
+4-15	547-549	zu	_	
+4-16	550-555	wenig	_	
+4-17	556-561	Platz	_	
+4-18	562-565	für	_	
+4-19	566-570	alle	_	
+4-20	571-580	Radfahrer	_	
+4-21	580-581	,	_	
+4-22	582-585	die	_	
+4-23	586-590	dann	_	
+4-24	591-595	halb	_	
+4-25	596-599	auf	_	
+4-26	600-603	der	_	
+4-27	604-610	Straße	_	
+4-28	611-617	stehen	_	
+4-29	618-624	müssen	_	
+4-30	624-625	.	_	

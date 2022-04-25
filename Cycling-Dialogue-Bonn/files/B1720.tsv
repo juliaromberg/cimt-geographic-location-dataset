@@ -1,0 +1,158 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Achtung Geisterfahrer!
+1-1	0-7	Achtung	_	
+1-2	8-21	Geisterfahrer	_	
+1-3	21-22	!	_	
+
+#Text=Auf dieser Höhe ist die Kölnstraße zweispurig, jedoch eine Einbahnstraße für Autofahrer.
+2-1	25-28	Auf	_	
+2-2	29-35	dieser	_	
+2-3	36-40	Höhe	_	
+2-4	41-44	ist	_	
+2-5	45-48	die	*[9]	
+2-6	49-59	Kölnstraße	*[9]	
+2-7	60-70	zweispurig	_	
+2-8	70-71	,	_	
+2-9	72-78	jedoch	_	
+2-10	79-83	eine	_	
+2-11	84-97	Einbahnstraße	_	
+2-12	98-101	für	_	
+2-13	102-112	Autofahrer	_	
+2-14	112-113	.	_	
+
+#Text=Nur Straßenbahnen und Fahrradfahrer dürfen in Richtung Kaiser Karl Ring fahren.
+3-1	114-117	Nur	_	
+3-2	118-131	Straßenbahnen	_	
+3-3	132-135	und	_	
+3-4	136-149	Fahrradfahrer	_	
+3-5	150-156	dürfen	_	
+3-6	157-159	in	*[10]	
+3-7	160-168	Richtung	*[10]	
+3-8	169-175	Kaiser	*[10]	
+3-9	176-180	Karl	*[10]	
+3-10	181-185	Ring	*[10]	
+3-11	186-192	fahren	_	
+3-12	192-193	.	_	
+
+#Text=Das Problem entsteht, wenn Autofahrer, die Richtung Innenstadt unterwegs sind, langsame Straßenbahnen überholen und auf die linke Spur fahren.
+4-1	194-197	Das	_	
+4-2	198-205	Problem	_	
+4-3	206-214	entsteht	_	
+4-4	214-215	,	_	
+4-5	216-220	wenn	_	
+4-6	221-231	Autofahrer	_	
+4-7	231-232	,	_	
+4-8	233-236	die	_	
+4-9	237-245	Richtung	*[11]	
+4-10	246-256	Innenstadt	*[11]	
+4-11	257-266	unterwegs	_	
+4-12	267-271	sind	_	
+4-13	271-272	,	_	
+4-14	273-281	langsame	_	
+4-15	282-295	Straßenbahnen	_	
+4-16	296-305	überholen	_	
+4-17	306-309	und	_	
+4-18	310-313	auf	_	
+4-19	314-317	die	_	
+4-20	318-323	linke	_	
+4-21	324-328	Spur	_	
+4-22	329-335	fahren	_	
+4-23	335-336	.	_	
+
+#Text=Oder auch wenn Autofahrer die lange Autoschlange Richtung Innenstadt umgehen wollen und auf die linke Spur fahren weil sie zum Rewe einkaufen oder in 50 m links abbiegen wollen.
+5-1	337-341	Oder	_	
+5-2	342-346	auch	_	
+5-3	347-351	wenn	_	
+5-4	352-362	Autofahrer	_	
+5-5	363-366	die	_	
+5-6	367-372	lange	_	
+5-7	373-385	Autoschlange	_	
+5-8	386-394	Richtung	*[12]	
+5-9	395-405	Innenstadt	*[12]	
+5-10	406-413	umgehen	_	
+5-11	414-420	wollen	_	
+5-12	421-424	und	_	
+5-13	425-428	auf	_	
+5-14	429-432	die	_	
+5-15	433-438	linke	_	
+5-16	439-443	Spur	_	
+5-17	444-450	fahren	_	
+5-18	451-455	weil	_	
+5-19	456-459	sie	_	
+5-20	460-463	zum	_	
+5-21	464-468	Rewe	_	
+5-22	469-478	einkaufen	_	
+5-23	479-483	oder	_	
+5-24	484-486	in	_	
+5-25	487-489	50	_	
+5-26	490-491	m	_	
+5-27	492-497	links	_	
+5-28	498-506	abbiegen	_	
+5-29	507-513	wollen	_	
+5-30	513-514	.	_	
+
+#Text=Dabei wird von den sehr schnell fahrenden Autofahrern oft übersehen (vor allem abends wenn es dunkel ist), dass auf der Gegenfahrbahn Fahrradfahrer unterwegs sind.
+6-1	515-520	Dabei	_	
+6-2	521-525	wird	_	
+6-3	526-529	von	_	
+6-4	530-533	den	_	
+6-5	534-538	sehr	_	
+6-6	539-546	schnell	_	
+6-7	547-556	fahrenden	_	
+6-8	557-568	Autofahrern	_	
+6-9	569-572	oft	_	
+6-10	573-582	übersehen	_	
+6-11	583-584	(	_	
+6-12	584-587	vor	_	
+6-13	588-593	allem	_	
+6-14	594-600	abends	_	
+6-15	601-605	wenn	_	
+6-16	606-608	es	_	
+6-17	609-615	dunkel	_	
+6-18	616-619	ist	_	
+6-19	619-620	)	_	
+6-20	620-621	,	_	
+6-21	622-626	dass	_	
+6-22	627-630	auf	_	
+6-23	631-634	der	_	
+6-24	635-648	Gegenfahrbahn	_	
+6-25	649-662	Fahrradfahrer	_	
+6-26	663-672	unterwegs	_	
+6-27	673-677	sind	_	
+6-28	677-678	.	_	
+
+#Text=Somit werden die Autos zu Geisterfahrern und sehr gefährlich für die Radfahrer.
+7-1	679-684	Somit	_	
+7-2	685-691	werden	_	
+7-3	692-695	die	_	
+7-4	696-701	Autos	_	
+7-5	702-704	zu	_	
+7-6	705-719	Geisterfahrern	_	
+7-7	720-723	und	_	
+7-8	724-728	sehr	_	
+7-9	729-739	gefährlich	_	
+7-10	740-743	für	_	
+7-11	744-747	die	_	
+7-12	748-757	Radfahrer	_	
+7-13	757-758	.	_	
+
+#Text=Zur Lösung des Problems könnte ein Überholverbot in dem Teil der Kölnstraße beitragen.
+8-1	759-762	Zur	_	
+8-2	763-769	Lösung	_	
+8-3	770-773	des	_	
+8-4	774-782	Problems	_	
+8-5	783-789	könnte	_	
+8-6	790-793	ein	_	
+8-7	794-807	Überholverbot	_	
+8-8	808-810	in	_	
+8-9	811-814	dem	_	
+8-10	815-819	Teil	_	
+8-11	820-823	der	_	
+8-12	824-834	Kölnstraße	*	
+8-13	835-844	beitragen	_	
+8-14	844-845	.	_	

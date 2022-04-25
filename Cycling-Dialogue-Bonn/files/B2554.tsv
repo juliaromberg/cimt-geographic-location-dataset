@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sichtachsen
+1-1	0-11	Sichtachsen	_	
+
+#Text=Die Sichtachsen sollten auf beiden Seiten der Brücke unbedingt freigemacht werden.
+2-1	14-17	Die	_	
+2-2	18-29	Sichtachsen	_	
+2-3	30-37	sollten	_	
+2-4	38-41	auf	_	
+2-5	42-48	beiden	_	
+2-6	49-55	Seiten	_	
+2-7	56-59	der	_	
+2-8	60-66	Brücke	_	
+2-9	67-76	unbedingt	_	
+2-10	77-88	freigemacht	_	
+2-11	89-95	werden	_	
+2-12	95-96	.	_	
+
+#Text=Insbesondere bei der Autobahnüberquerung (N-W Ministerienseite) kommen oft Radfahrer mit hohen Tempo runter gerollt.
+3-1	97-109	Insbesondere	_	
+3-2	110-113	bei	_	
+3-3	114-117	der	_	
+3-4	118-137	Autobahnüberquerung	*[4]	
+3-5	138-139	(	*[4]	
+3-6	139-142	N-W	*[4]	
+3-7	143-159	Ministerienseite	*[4]	
+3-8	159-160	)	_	
+3-9	161-167	kommen	_	
+3-10	168-171	oft	_	
+3-11	172-181	Radfahrer	_	
+3-12	182-185	mit	_	
+3-13	186-191	hohen	_	
+3-14	192-197	Tempo	_	
+3-15	198-204	runter	_	
+3-16	205-212	gerollt	_	
+3-17	212-213	.	_	
+
+#Text=Auf der Seite der Rheinaue (S-O) führt der Doppelpöller dazu, dass nahezu alle Radfahrer die innere Gasse wählen und Gefahr besteht in den Gegenverkehr zu fahren.
+4-1	214-217	Auf	*[5]	
+4-2	218-221	der	*[5]	
+4-3	222-227	Seite	*[5]	
+4-4	228-231	der	*[5]	
+4-5	232-240	Rheinaue	*[5]	
+4-6	241-242	(	*[5]	
+4-7	242-245	S-O	*[5]	
+4-8	245-246	)	_	
+4-9	247-252	führt	_	
+4-10	253-256	der	_	
+4-11	257-269	Doppelpöller	_	
+4-12	270-274	dazu	_	
+4-13	274-275	,	_	
+4-14	276-280	dass	_	
+4-15	281-287	nahezu	_	
+4-16	288-292	alle	_	
+4-17	293-302	Radfahrer	_	
+4-18	303-306	die	_	
+4-19	307-313	innere	_	
+4-20	314-319	Gasse	_	
+4-21	320-326	wählen	_	
+4-22	327-330	und	_	
+4-23	331-337	Gefahr	_	
+4-24	338-345	besteht	_	
+4-25	346-348	in	_	
+4-26	349-352	den	_	
+4-27	353-365	Gegenverkehr	_	
+4-28	366-368	zu	_	
+4-29	369-375	fahren	_	
+4-30	375-376	.	_	

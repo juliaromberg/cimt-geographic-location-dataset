@@ -1,0 +1,116 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradabstellplätze, Verkehrsführung
+1-1	0-20	Fahrradabstellplätze	_	
+1-2	20-21	,	_	
+1-3	22-37	Verkehrsführung	_	
+
+#Text=In der Dorotheenstraße zwischen dem Abschnitt Adolfstraße und Kaiser-Karl-Ring gibt es keinn einzigen öffentlichen Fahrradabstellplatz.
+2-1	40-42	In	*[8]	
+2-2	43-46	der	*[8]	
+2-3	47-62	Dorotheenstraße	*[8]	
+2-4	63-71	zwischen	*[8]	
+2-5	72-75	dem	*[8]	
+2-6	76-85	Abschnitt	*[8]	
+2-7	86-97	Adolfstraße	*[8]	
+2-8	98-101	und	*[8]	
+2-9	102-118	Kaiser-Karl-Ring	*[8]	
+2-10	119-123	gibt	_	
+2-11	124-126	es	_	
+2-12	127-132	keinn	_	
+2-13	133-141	einzigen	_	
+2-14	142-154	öffentlichen	_	
+2-15	155-174	Fahrradabstellplatz	_	
+2-16	174-175	.	_	
+
+#Text=Dafür ist alles maximal asphaltiert (ausschliesslich Parkplätze für PKWs, Bäume Fehlanzeige).
+3-1	176-181	Dafür	_	
+3-2	182-185	ist	_	
+3-3	186-191	alles	_	
+3-4	192-199	maximal	_	
+3-5	200-211	asphaltiert	_	
+3-6	212-213	(	_	
+3-7	213-228	ausschliesslich	_	
+3-8	229-239	Parkplätze	_	
+3-9	240-243	für	_	
+3-10	244-248	PKWs	_	
+3-11	248-249	,	_	
+3-12	250-255	Bäume	_	
+3-13	256-267	Fehlanzeige	_	
+3-14	267-268	)	_	
+3-15	268-269	.	_	
+
+#Text=Hier könnten einige Parkplätze in Fahrradabstellplätze umgewandelt werden, dazu wäre eine Begrünung wünschenswert.
+4-1	270-274	Hier	_	
+4-2	275-282	könnten	_	
+4-3	283-289	einige	_	
+4-4	290-300	Parkplätze	_	
+4-5	301-303	in	_	
+4-6	304-324	Fahrradabstellplätze	_	
+4-7	325-336	umgewandelt	_	
+4-8	337-343	werden	_	
+4-9	343-344	,	_	
+4-10	345-349	dazu	_	
+4-11	350-354	wäre	_	
+4-12	355-359	eine	_	
+4-13	360-369	Begrünung	_	
+4-14	370-383	wünschenswert	_	
+4-15	383-384	.	_	
+
+#Text=Der Fahrradweg auf diesem Abschnitt ist stadteinwärts ein Sicherheitsrisiko.
+5-1	385-388	Der	_	
+5-2	389-399	Fahrradweg	_	
+5-3	400-403	auf	_	
+5-4	404-410	diesem	_	
+5-5	411-420	Abschnitt	_	
+5-6	421-424	ist	_	
+5-7	425-438	stadteinwärts	_	
+5-8	439-442	ein	_	
+5-9	443-460	Sicherheitsrisiko	_	
+5-10	460-461	.	_	
+
+#Text=Falschparker versperren die Sicht für FahhradfahrerInnen, wenn man vom Bürgersteig auf die Straße wechselt (entspricht der offiziellen Radwegeführung).
+6-1	462-474	Falschparker	_	
+6-2	475-485	versperren	_	
+6-3	486-489	die	_	
+6-4	490-495	Sicht	_	
+6-5	496-499	für	_	
+6-6	500-518	FahhradfahrerInnen	_	
+6-7	518-519	,	_	
+6-8	520-524	wenn	_	
+6-9	525-528	man	_	
+6-10	529-532	vom	_	
+6-11	533-544	Bürgersteig	_	
+6-12	545-548	auf	_	
+6-13	549-552	die	_	
+6-14	553-559	Straße	_	
+6-15	560-568	wechselt	_	
+6-16	569-570	(	_	
+6-17	570-580	entspricht	_	
+6-18	581-584	der	_	
+6-19	585-596	offiziellen	_	
+6-20	597-611	Radwegeführung	_	
+6-21	611-612	)	_	
+6-22	612-613	.	_	
+
+#Text=Hier könnte ein Poller/ Pfosten Abhilfe schaffen, so dass die Sicht verbessert wird.
+7-1	614-618	Hier	_	
+7-2	619-625	könnte	_	
+7-3	626-629	ein	_	
+7-4	630-636	Poller	_	
+7-5	636-637	/	_	
+7-6	638-645	Pfosten	_	
+7-7	646-653	Abhilfe	_	
+7-8	654-662	schaffen	_	
+7-9	662-663	,	_	
+7-10	664-666	so	_	
+7-11	667-671	dass	_	
+7-12	672-675	die	_	
+7-13	676-681	Sicht	_	
+7-14	682-692	verbessert	_	
+7-15	693-697	wird	_	
+7-16	697-698	.	_	

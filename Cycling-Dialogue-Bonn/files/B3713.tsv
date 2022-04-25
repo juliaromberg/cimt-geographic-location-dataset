@@ -1,0 +1,92 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Mehr Sicherheit beim Überqueren der Haltestelle
+1-1	0-4	Mehr	_	
+1-2	5-15	Sicherheit	_	
+1-3	16-20	beim	_	
+1-4	21-31	Überqueren	_	
+1-5	32-35	der	_	
+1-6	36-47	Haltestelle	_	
+
+#Text=Mehr Sicherheitsvorkehrungen beim Überqueren der U-Bahn und der Straße für Fußgänger und Radfahrer, z.B. Sichere und barrierefreie Überquerung (Schüler und ältere Personen) und Ampelschaltung für U-Bahn ist notwendig.
+2-1	50-54	Mehr	_	
+2-2	55-78	Sicherheitsvorkehrungen	_	
+2-3	79-83	beim	_	
+2-4	84-94	Überqueren	_	
+2-5	95-98	der	_	
+2-6	99-105	U-Bahn	_	
+2-7	106-109	und	_	
+2-8	110-113	der	_	
+2-9	114-120	Straße	_	
+2-10	121-124	für	_	
+2-11	125-134	Fußgänger	_	
+2-12	135-138	und	_	
+2-13	139-148	Radfahrer	_	
+2-14	148-149	,	_	
+2-15	150-153	z.B	_	
+2-16	153-154	.	_	
+2-17	155-162	Sichere	_	
+2-18	163-166	und	_	
+2-19	167-180	barrierefreie	_	
+2-20	181-192	Überquerung	_	
+2-21	193-194	(	_	
+2-22	194-201	Schüler	_	
+2-23	202-205	und	_	
+2-24	206-212	ältere	_	
+2-25	213-221	Personen	_	
+2-26	221-222	)	_	
+2-27	223-226	und	_	
+2-28	227-241	Ampelschaltung	_	
+2-29	242-245	für	_	
+2-30	246-252	U-Bahn	_	
+2-31	253-256	ist	_	
+2-32	257-266	notwendig	_	
+2-33	266-267	.	_	
+
+#Text=Unfallgefahr ist hier sehr hoch, bedingt durch die Nutzung durch SchülerInnen.
+3-1	268-280	Unfallgefahr	_	
+3-2	281-284	ist	_	
+3-3	285-289	hier	_	
+3-4	290-294	sehr	_	
+3-5	295-299	hoch	_	
+3-6	299-300	,	_	
+3-7	301-308	bedingt	_	
+3-8	309-314	durch	_	
+3-9	315-318	die	_	
+3-10	319-326	Nutzung	_	
+3-11	327-332	durch	_	
+3-12	333-345	SchülerInnen	_	
+3-13	345-346	.	_	
+
+#Text=Möglichkeit einer sicheren Leitung oder einer Fussgängerschranke o. ä. wäre zu Prüfen und eine sicherere Lösung als der aktuelle Zustand zu finden und umzusetzen.
+4-1	347-358	Möglichkeit	_	
+4-2	359-364	einer	_	
+4-3	365-373	sicheren	_	
+4-4	374-381	Leitung	_	
+4-5	382-386	oder	_	
+4-6	387-392	einer	_	
+4-7	393-411	Fussgängerschranke	_	
+4-8	412-413	o	_	
+4-9	413-414	.	_	
+4-10	415-416	ä	_	
+4-11	416-417	.	_	
+4-12	418-422	wäre	_	
+4-13	423-425	zu	_	
+4-14	426-432	Prüfen	_	
+4-15	433-436	und	_	
+4-16	437-441	eine	_	
+4-17	442-451	sicherere	_	
+4-18	452-458	Lösung	_	
+4-19	459-462	als	_	
+4-20	463-466	der	_	
+4-21	467-475	aktuelle	_	
+4-22	476-483	Zustand	_	
+4-23	484-486	zu	_	
+4-24	487-493	finden	_	
+4-25	494-497	und	_	
+4-26	498-508	umzusetzen	_	
+4-27	508-509	.	_	

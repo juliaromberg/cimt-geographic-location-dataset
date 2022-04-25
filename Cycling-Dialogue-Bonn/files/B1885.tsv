@@ -1,0 +1,137 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radstreifen auf der Adenauerallee nicht ausreichend
+1-1	0-11	Radstreifen	_	
+1-2	12-15	auf	*[8]	
+1-3	16-19	der	*[8]	
+1-4	20-33	Adenauerallee	*[8]	
+1-5	34-39	nicht	_	
+1-6	40-51	ausreichend	_	
+
+#Text=Radfahren auf der Adenauerallee ist aufgrund der hohen Geschwindigkeit der PKW Fahrenden und aufgrund der zu geringen Breite der beiden PKW Fahrstreifen sehr gefährlich.
+2-1	54-63	Radfahren	_	
+2-2	64-67	auf	*[9]	
+2-3	68-71	der	*[9]	
+2-4	72-85	Adenauerallee	*[9]	
+2-5	86-89	ist	_	
+2-6	90-98	aufgrund	_	
+2-7	99-102	der	_	
+2-8	103-108	hohen	_	
+2-9	109-124	Geschwindigkeit	_	
+2-10	125-128	der	_	
+2-11	129-132	PKW	_	
+2-12	133-142	Fahrenden	_	
+2-13	143-146	und	_	
+2-14	147-155	aufgrund	_	
+2-15	156-159	der	_	
+2-16	160-162	zu	_	
+2-17	163-171	geringen	_	
+2-18	172-178	Breite	_	
+2-19	179-182	der	_	
+2-20	183-189	beiden	_	
+2-21	190-193	PKW	_	
+2-22	194-206	Fahrstreifen	_	
+2-23	207-211	sehr	_	
+2-24	212-222	gefährlich	_	
+2-25	222-223	.	_	
+
+#Text=Diese Situation hat sich in den letzten Jahren noch durch die hohe Anzahl von SUV verschärft.
+3-1	224-229	Diese	_	
+3-2	230-239	Situation	_	
+3-3	240-243	hat	_	
+3-4	244-248	sich	_	
+3-5	249-251	in	_	
+3-6	252-255	den	_	
+3-7	256-263	letzten	_	
+3-8	264-270	Jahren	_	
+3-9	271-275	noch	_	
+3-10	276-281	durch	_	
+3-11	282-285	die	_	
+3-12	286-290	hohe	_	
+3-13	291-297	Anzahl	_	
+3-14	298-301	von	_	
+3-15	302-305	SUV	_	
+3-16	306-316	verschärft	_	
+3-17	316-317	.	_	
+
+#Text=Dadurch nutzen PKW Teile des Radstreifens zu laszen der Radfahrenden.
+4-1	318-325	Dadurch	_	
+4-2	326-332	nutzen	_	
+4-3	333-336	PKW	_	
+4-4	337-342	Teile	_	
+4-5	343-346	des	_	
+4-6	347-359	Radstreifens	_	
+4-7	360-362	zu	_	
+4-8	363-369	laszen	_	
+4-9	370-373	der	_	
+4-10	374-386	Radfahrenden	_	
+4-11	386-387	.	_	
+
+#Text=Vorschlag: Breiten Radstreifen blau markieren oder mit Trennbordstein versehen und dadurch einspurige Verkehrsführun auf der B9.
+5-1	388-397	Vorschlag	_	
+5-2	397-398	:	_	
+5-3	399-406	Breiten	_	
+5-4	407-418	Radstreifen	_	
+5-5	419-423	blau	_	
+5-6	424-433	markieren	_	
+5-7	434-438	oder	_	
+5-8	439-442	mit	_	
+5-9	443-457	Trennbordstein	_	
+5-10	458-466	versehen	_	
+5-11	467-470	und	_	
+5-12	471-478	dadurch	_	
+5-13	479-489	einspurige	_	
+5-14	490-504	Verkehrsführun	_	
+5-15	505-508	auf	*[10]	
+5-16	509-512	der	*[10]	
+5-17	513-515	B9	*[10]	
+5-18	515-516	.	_	
+
+#Text=Dies wird natürlich den PKW Verkehr erheblich verlangsamen, ist aber ein Baustein im Sinne einer fahrradfreundlichen Stadt, die angesochts der Enge in Bonn immer zu Lasten des PKW ghen wird.
+6-1	517-521	Dies	_	
+6-2	522-526	wird	_	
+6-3	527-536	natürlich	_	
+6-4	537-540	den	_	
+6-5	541-544	PKW	_	
+6-6	545-552	Verkehr	_	
+6-7	553-562	erheblich	_	
+6-8	563-575	verlangsamen	_	
+6-9	575-576	,	_	
+6-10	577-580	ist	_	
+6-11	581-585	aber	_	
+6-12	586-589	ein	_	
+6-13	590-598	Baustein	_	
+6-14	599-601	im	_	
+6-15	602-607	Sinne	_	
+6-16	608-613	einer	_	
+6-17	614-633	fahrradfreundlichen	_	
+6-18	634-639	Stadt	_	
+6-19	639-640	,	_	
+6-20	641-644	die	_	
+6-21	645-655	angesochts	_	
+6-22	656-659	der	_	
+6-23	660-664	Enge	_	
+6-24	665-667	in	*[11]	
+6-25	668-672	Bonn	*[11]	
+6-26	673-678	immer	_	
+6-27	679-681	zu	_	
+6-28	682-688	Lasten	_	
+6-29	689-692	des	_	
+6-30	693-696	PKW	_	
+6-31	697-701	ghen	_	
+6-32	702-706	wird	_	
+6-33	706-707	.	_	
+
+#Text=Beides ist m.E. nicht zu erreichen.
+7-1	708-714	Beides	_	
+7-2	715-718	ist	_	
+7-3	719-722	m.E	_	
+7-4	722-723	.	_	
+7-5	724-729	nicht	_	
+7-6	730-732	zu	_	
+7-7	733-742	erreichen	_	
+7-8	742-743	.	_	

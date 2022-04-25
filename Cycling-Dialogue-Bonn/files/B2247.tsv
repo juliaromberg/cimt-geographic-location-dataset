@@ -1,0 +1,179 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Echte Radwege schaffen!
+1-1	0-5	Echte	_	
+1-2	6-13	Radwege	_	
+1-3	14-22	schaffen	_	
+1-4	22-23	!	_	
+
+#Text=An vielen Stellen wurden Radwege dadurch geschaffen, dass einfach eine Spur auf der rechten Fahrbahn markiert wurde.
+2-1	26-28	An	_	
+2-2	29-35	vielen	_	
+2-3	36-43	Stellen	_	
+2-4	44-50	wurden	_	
+2-5	51-58	Radwege	_	
+2-6	59-66	dadurch	_	
+2-7	67-77	geschaffen	_	
+2-8	77-78	,	_	
+2-9	79-83	dass	_	
+2-10	84-91	einfach	_	
+2-11	92-96	eine	_	
+2-12	97-101	Spur	_	
+2-13	102-105	auf	_	
+2-14	106-109	der	_	
+2-15	110-117	rechten	_	
+2-16	118-126	Fahrbahn	_	
+2-17	127-135	markiert	_	
+2-18	136-141	wurde	_	
+2-19	141-142	.	_	
+
+#Text=Diesen Streifen nutzen Autofahrer weiterhin, so dass kein Platz für Radfahrer ist.
+3-1	143-149	Diesen	_	
+3-2	150-158	Streifen	_	
+3-3	159-165	nutzen	_	
+3-4	166-176	Autofahrer	_	
+3-5	177-186	weiterhin	_	
+3-6	186-187	,	_	
+3-7	188-190	so	_	
+3-8	191-195	dass	_	
+3-9	196-200	kein	_	
+3-10	201-206	Platz	_	
+3-11	207-210	für	_	
+3-12	211-220	Radfahrer	_	
+3-13	221-224	ist	_	
+3-14	224-225	.	_	
+
+#Text=Da die Straßen in Bonn sich nicht auf wundersame Weise verbreitern werden, bleibt nur ein eindeutiges Bekenntnis der Stadt, welchem Verkehrsmittel der Vorrang eingeräumt werden soll.
+4-1	226-228	Da	_	
+4-2	229-232	die	_	
+4-3	233-240	Straßen	_	
+4-4	241-243	in	*[10]	
+4-5	244-248	Bonn	*[10]	
+4-6	249-253	sich	_	
+4-7	254-259	nicht	_	
+4-8	260-263	auf	_	
+4-9	264-274	wundersame	_	
+4-10	275-280	Weise	_	
+4-11	281-292	verbreitern	_	
+4-12	293-299	werden	_	
+4-13	299-300	,	_	
+4-14	301-307	bleibt	_	
+4-15	308-311	nur	_	
+4-16	312-315	ein	_	
+4-17	316-327	eindeutiges	_	
+4-18	328-338	Bekenntnis	_	
+4-19	339-342	der	_	
+4-20	343-348	Stadt	_	
+4-21	348-349	,	_	
+4-22	350-357	welchem	_	
+4-23	358-372	Verkehrsmittel	_	
+4-24	373-376	der	_	
+4-25	377-384	Vorrang	_	
+4-26	385-395	eingeräumt	_	
+4-27	396-402	werden	_	
+4-28	403-407	soll	_	
+4-29	407-408	.	_	
+
+#Text=Bislang scheinen dies nach die vor die Autos zu sein, obwohl die Luftqualität in Bonn nun wirklich nicht die beste ist.
+5-1	409-416	Bislang	_	
+5-2	417-425	scheinen	_	
+5-3	426-430	dies	_	
+5-4	431-435	nach	_	
+5-5	436-439	die	_	
+5-6	440-443	vor	_	
+5-7	444-447	die	_	
+5-8	448-453	Autos	_	
+5-9	454-456	zu	_	
+5-10	457-461	sein	_	
+5-11	461-462	,	_	
+5-12	463-469	obwohl	_	
+5-13	470-473	die	_	
+5-14	474-486	Luftqualität	_	
+5-15	487-489	in	*[11]	
+5-16	490-494	Bonn	*[11]	
+5-17	495-498	nun	_	
+5-18	499-507	wirklich	_	
+5-19	508-513	nicht	_	
+5-20	514-517	die	_	
+5-21	518-523	beste	_	
+5-22	524-527	ist	_	
+5-23	527-528	.	_	
+
+#Text=Schade!
+6-1	529-535	Schade	_	
+6-2	535-536	!	_	
+
+#Text=Vernünftige Wege auf den Hauptverkehrsachsen zu schaffen könnte schon viel helfen.
+7-1	537-548	Vernünftige	_	
+7-2	549-553	Wege	_	
+7-3	554-557	auf	_	
+7-4	558-561	den	_	
+7-5	562-581	Hauptverkehrsachsen	_	
+7-6	582-584	zu	_	
+7-7	585-593	schaffen	_	
+7-8	594-600	könnte	_	
+7-9	601-606	schon	_	
+7-10	607-611	viel	_	
+7-11	612-618	helfen	_	
+7-12	618-619	.	_	
+
+#Text=Es muss ja nicht jede Straße einen perfekten Fahrradweg haben, aber es wäre schön, wenn überhaupt die Möglichkeit gäbe, einen Fahrrad geeigneten Weg zu wählen.
+8-1	620-622	Es	_	
+8-2	623-627	muss	_	
+8-3	628-630	ja	_	
+8-4	631-636	nicht	_	
+8-5	637-641	jede	_	
+8-6	642-648	Straße	_	
+8-7	649-654	einen	_	
+8-8	655-664	perfekten	_	
+8-9	665-675	Fahrradweg	_	
+8-10	676-681	haben	_	
+8-11	681-682	,	_	
+8-12	683-687	aber	_	
+8-13	688-690	es	_	
+8-14	691-695	wäre	_	
+8-15	696-701	schön	_	
+8-16	701-702	,	_	
+8-17	703-707	wenn	_	
+8-18	708-717	überhaupt	_	
+8-19	718-721	die	_	
+8-20	722-733	Möglichkeit	_	
+8-21	734-738	gäbe	_	
+8-22	738-739	,	_	
+8-23	740-745	einen	_	
+8-24	746-753	Fahrrad	_	
+8-25	754-764	geeigneten	_	
+8-26	765-768	Weg	_	
+8-27	769-771	zu	_	
+8-28	772-778	wählen	_	
+8-29	778-779	.	_	
+
+#Text=Andere Straßen könnten dann z.B. für Autos priorisiert werden (z.B. Kaiserstraße Priorität für Fahrräder, B9 Priorität für Autos).
+9-1	780-786	Andere	_	
+9-2	787-794	Straßen	_	
+9-3	795-802	könnten	_	
+9-4	803-807	dann	_	
+9-5	808-811	z.B	_	
+9-6	811-812	.	_	
+9-7	813-816	für	_	
+9-8	817-822	Autos	_	
+9-9	823-834	priorisiert	_	
+9-10	835-841	werden	_	
+9-11	842-843	(	_	
+9-12	843-846	z.B	_	
+9-13	846-847	.	_	
+9-14	848-860	Kaiserstraße	*	
+9-15	861-870	Priorität	_	
+9-16	871-874	für	_	
+9-17	875-884	Fahrräder	_	
+9-18	884-885	,	_	
+9-19	886-888	B9	*	
+9-20	889-898	Priorität	_	
+9-21	899-902	für	_	
+9-22	903-908	Autos	_	
+9-23	908-909	)	_	
+9-24	909-910	.	_	

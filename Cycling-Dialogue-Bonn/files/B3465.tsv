@@ -1,0 +1,28 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=gleichberechtigte Verkehrsteilnehmer
+1-1	0-17	gleichberechtigte	_	
+1-2	18-36	Verkehrsteilnehmer	_	
+
+#Text=Radwege sollten aufgrund der erheblich unterschiedlichen Geschwindigkeiten vom Autoverkehr abgetrennt werden.
+2-1	39-46	Radwege	_	
+2-2	47-54	sollten	_	
+2-3	55-63	aufgrund	_	
+2-4	64-67	der	_	
+2-5	68-77	erheblich	_	
+2-6	78-95	unterschiedlichen	_	
+2-7	96-113	Geschwindigkeiten	_	
+2-8	114-117	vom	_	
+2-9	118-129	Autoverkehr	_	
+2-10	130-140	abgetrennt	_	
+2-11	141-147	werden	_	
+2-12	147-148	.	_	
+
+#Text=siehe Niederlande.
+3-1	149-154	siehe	_	
+3-2	155-166	Niederlande	_	
+3-3	166-167	.	_	

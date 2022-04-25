@@ -1,0 +1,34 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Richard-Wagner Straße in Fahrradstraße umwandeln.
+1-1	0-14	Richard-Wagner	*[3]	
+1-2	15-21	Straße	*[3]	
+1-3	22-24	in	_	
+1-4	25-38	Fahrradstraße	_	
+1-5	39-48	umwandeln	_	
+1-6	48-49	.	_	
+
+#Text=Die Aufplasterungen aus Kopfsteinpflaster entfernen oder so umbauen, dass sie nur Autofahrer zum abbremsen auf 30 kmh bringen
+2-1	50-53	Die	_	
+2-2	54-69	Aufplasterungen	_	
+2-3	70-73	aus	_	
+2-4	74-91	Kopfsteinpflaster	_	
+2-5	92-101	entfernen	_	
+2-6	102-106	oder	_	
+2-7	107-109	so	_	
+2-8	110-117	umbauen	_	
+2-9	117-118	,	_	
+2-10	119-123	dass	_	
+2-11	124-127	sie	_	
+2-12	128-131	nur	_	
+2-13	132-142	Autofahrer	_	
+2-14	143-146	zum	_	
+2-15	147-156	abbremsen	_	
+2-16	157-160	auf	_	
+2-17	161-163	30	_	
+2-18	164-167	kmh	_	
+2-19	168-175	bringen	_	

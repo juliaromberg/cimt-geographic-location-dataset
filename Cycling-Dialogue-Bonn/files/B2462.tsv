@@ -1,0 +1,116 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radstreifen regelmäßig zugeparkt.
+1-1	0-11	Radstreifen	_	
+1-2	12-22	regelmäßig	_	
+1-3	23-32	zugeparkt	_	
+1-4	32-33	.	_	
+
+#Text=Ich traue mich nicht, meine 14jährige Tochter auf dieser Strecke mit dem Rad zur Schule fahren zu lassen, weil der Radstreifen eigentlich immer an irgendeiner, meist aber mehreren Stellen zugeparkt ist.
+2-1	36-39	Ich	_	
+2-2	40-45	traue	_	
+2-3	46-50	mich	_	
+2-4	51-56	nicht	_	
+2-5	56-57	,	_	
+2-6	58-63	meine	_	
+2-7	64-73	14jährige	_	
+2-8	74-81	Tochter	_	
+2-9	82-85	auf	_	
+2-10	86-92	dieser	_	
+2-11	93-100	Strecke	_	
+2-12	101-104	mit	_	
+2-13	105-108	dem	_	
+2-14	109-112	Rad	_	
+2-15	113-116	zur	_	
+2-16	117-123	Schule	_	
+2-17	124-130	fahren	_	
+2-18	131-133	zu	_	
+2-19	134-140	lassen	_	
+2-20	140-141	,	_	
+2-21	142-146	weil	_	
+2-22	147-150	der	_	
+2-23	151-162	Radstreifen	_	
+2-24	163-173	eigentlich	_	
+2-25	174-179	immer	_	
+2-26	180-182	an	_	
+2-27	183-194	irgendeiner	_	
+2-28	194-195	,	_	
+2-29	196-201	meist	_	
+2-30	202-206	aber	_	
+2-31	207-215	mehreren	_	
+2-32	216-223	Stellen	_	
+2-33	224-233	zugeparkt	_	
+2-34	234-237	ist	_	
+2-35	237-238	.	_	
+
+#Text=Und wenn man dann auf die Straßenmitte ausweicht kommt häufig von Hinten ein Bus oder zumindest ein PKW, der es dann gerade eilig hat und schnell noch überholen will.
+3-1	239-242	Und	_	
+3-2	243-247	wenn	_	
+3-3	248-251	man	_	
+3-4	252-256	dann	_	
+3-5	257-260	auf	_	
+3-6	261-264	die	_	
+3-7	265-277	Straßenmitte	_	
+3-8	278-287	ausweicht	_	
+3-9	288-293	kommt	_	
+3-10	294-300	häufig	_	
+3-11	301-304	von	_	
+3-12	305-311	Hinten	_	
+3-13	312-315	ein	_	
+3-14	316-319	Bus	_	
+3-15	320-324	oder	_	
+3-16	325-334	zumindest	_	
+3-17	335-338	ein	_	
+3-18	339-342	PKW	_	
+3-19	342-343	,	_	
+3-20	344-347	der	_	
+3-21	348-350	es	_	
+3-22	351-355	dann	_	
+3-23	356-362	gerade	_	
+3-24	363-368	eilig	_	
+3-25	369-372	hat	_	
+3-26	373-376	und	_	
+3-27	377-384	schnell	_	
+3-28	385-389	noch	_	
+3-29	390-399	überholen	_	
+3-30	400-404	will	_	
+3-31	404-405	.	_	
+
+#Text=Die Sebastianstraße ist für Radfahrer eine sehr wichtige Verbindungsstraße für Pendler zwischen Dransdorf, Endenich Poppelsdorf auf der einen Seite und Kessenich, Dottendorf, Friesdorf und Godesberg auf der anderen Seite.
+4-1	406-409	Die	*[5]	
+4-2	410-425	Sebastianstraße	*[5]	
+4-3	426-429	ist	_	
+4-4	430-433	für	_	
+4-5	434-443	Radfahrer	_	
+4-6	444-448	eine	_	
+4-7	449-453	sehr	_	
+4-8	454-462	wichtige	_	
+4-9	463-480	Verbindungsstraße	_	
+4-10	481-484	für	_	
+4-11	485-492	Pendler	_	
+4-12	493-501	zwischen	*[6]	
+4-13	502-511	Dransdorf	*[6]	
+4-14	511-512	,	*[6]	
+4-15	513-521	Endenich	*[6]	
+4-16	522-533	Poppelsdorf	*[6]	
+4-17	534-537	auf	*[6]	
+4-18	538-541	der	*[6]	
+4-19	542-547	einen	*[6]	
+4-20	548-553	Seite	*[6]	
+4-21	554-557	und	*[6]	
+4-22	558-567	Kessenich	*[6]	
+4-23	567-568	,	*[6]	
+4-24	569-579	Dottendorf	*[6]	
+4-25	579-580	,	*[6]	
+4-26	581-590	Friesdorf	*[6]	
+4-27	591-594	und	*[6]	
+4-28	595-604	Godesberg	*[6]	
+4-29	605-608	auf	*[6]	
+4-30	609-612	der	*[6]	
+4-31	613-620	anderen	*[6]	
+4-32	621-626	Seite	*[6]	
+4-33	626-627	.	_	

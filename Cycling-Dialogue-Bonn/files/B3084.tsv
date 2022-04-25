@@ -1,0 +1,111 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Überquerung der Straße von parkenden Autos behindert
+1-1	0-11	Überquerung	_	
+1-2	12-15	der	_	
+1-3	16-22	Straße	_	
+1-4	23-26	von	_	
+1-5	27-36	parkenden	_	
+1-6	37-42	Autos	_	
+1-7	43-52	behindert	_	
+
+#Text=Dies ist nur ein Beispiel und steht für viele andere Stellen.
+2-1	55-59	Dies	_	
+2-2	60-63	ist	_	
+2-3	64-67	nur	_	
+2-4	68-71	ein	_	
+2-5	72-80	Beispiel	_	
+2-6	81-84	und	_	
+2-7	85-90	steht	_	
+2-8	91-94	für	_	
+2-9	95-100	viele	_	
+2-10	101-107	andere	_	
+2-11	108-115	Stellen	_	
+2-12	115-116	.	_	
+
+#Text=Wenn man vom Rhein-Radweg die Rheinaustraße z.B. in Höhe der Musikschule kreuzen will, hat man sehr schlechte Sicht auf die fahrenden Autos, da der Bereich zugeparkt ist.
+3-1	117-121	Wenn	_	
+3-2	122-125	man	_	
+3-3	126-129	vom	*[6]	
+3-4	130-142	Rhein-Radweg	*[6]	
+3-5	143-146	die	*[6]	
+3-6	147-160	Rheinaustraße	*[6]	
+3-7	161-164	z.B	*[6]	
+3-8	164-165	.	*[6]	
+3-9	166-168	in	*[6]	
+3-10	169-173	Höhe	*[6]	
+3-11	174-177	der	*[6]	
+3-12	178-189	Musikschule	*[6]	
+3-13	190-197	kreuzen	*[6]	
+3-14	198-202	will	_	
+3-15	202-203	,	_	
+3-16	204-207	hat	_	
+3-17	208-211	man	_	
+3-18	212-216	sehr	_	
+3-19	217-226	schlechte	_	
+3-20	227-232	Sicht	_	
+3-21	233-236	auf	_	
+3-22	237-240	die	_	
+3-23	241-250	fahrenden	_	
+3-24	251-256	Autos	_	
+3-25	256-257	,	_	
+3-26	258-260	da	_	
+3-27	261-264	der	_	
+3-28	265-272	Bereich	_	
+3-29	273-282	zugeparkt	_	
+3-30	283-286	ist	_	
+3-31	286-287	.	_	
+
+#Text=Das ist v.a. für Kinder (die an der Stelle überqueren müssen, wenn sie zur Musikschule, oder zur Bücherei wollen) extrem gefährlich weil unübersichtlich.
+4-1	288-291	Das	_	
+4-2	292-295	ist	_	
+4-3	296-299	v.a	_	
+4-4	299-300	.	_	
+4-5	301-304	für	_	
+4-6	305-311	Kinder	_	
+4-7	312-313	(	_	
+4-8	313-316	die	_	
+4-9	317-319	an	_	
+4-10	320-323	der	_	
+4-11	324-330	Stelle	_	
+4-12	331-341	überqueren	_	
+4-13	342-348	müssen	_	
+4-14	348-349	,	_	
+4-15	350-354	wenn	_	
+4-16	355-358	sie	_	
+4-17	359-362	zur	_	
+4-18	363-374	Musikschule	_	
+4-19	374-375	,	_	
+4-20	376-380	oder	_	
+4-21	381-384	zur	_	
+4-22	385-393	Bücherei	_	
+4-23	394-400	wollen	_	
+4-24	400-401	)	_	
+4-25	402-408	extrem	_	
+4-26	409-419	gefährlich	_	
+4-27	420-424	weil	_	
+4-28	425-440	unübersichtlich	_	
+4-29	440-441	.	_	
+
+#Text=Das gleiche gilt z.B. am Ende des Bröhltalbahnwegs, wenn man auf den Rhein-Radweg möchte.
+5-1	442-445	Das	_	
+5-2	446-453	gleiche	_	
+5-3	454-458	gilt	_	
+5-4	459-462	z.B	_	
+5-5	462-463	.	_	
+5-6	464-466	am	*[7]	
+5-7	467-471	Ende	*[7]	
+5-8	472-475	des	*[7]	
+5-9	476-492	Bröhltalbahnwegs	*[7]	
+5-10	492-493	,	_	
+5-11	494-498	wenn	_	
+5-12	499-502	man	_	
+5-13	503-506	auf	*[8]	
+5-14	507-510	den	*[8]	
+5-15	511-523	Rhein-Radweg	*[8]	
+5-16	524-530	möchte	_	
+5-17	530-531	.	_	

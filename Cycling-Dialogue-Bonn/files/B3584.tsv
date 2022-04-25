@@ -1,0 +1,56 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Reklametafel entfernen
+1-1	0-12	Reklametafel	_	
+1-2	13-22	entfernen	_	
+
+#Text=An dieser Stelle werden Radfahrer von der Straße hinter die Haltestelle geführt.
+2-1	25-27	An	_	
+2-2	28-34	dieser	_	
+2-3	35-41	Stelle	_	
+2-4	42-48	werden	_	
+2-5	49-58	Radfahrer	_	
+2-6	59-62	von	_	
+2-7	63-66	der	_	
+2-8	67-73	Straße	_	
+2-9	74-80	hinter	_	
+2-10	81-84	die	_	
+2-11	85-96	Haltestelle	_	
+2-12	97-104	geführt	_	
+2-13	104-105	.	_	
+
+#Text=Nach einer Engstelle zwischen zwei Pollern her, versperrt eine Reklametafel die Sicht auf die folgende Haltestelle und Fußgänger die den Radweg hier überqueren oder in der Nähe warten.
+3-1	106-110	Nach	_	
+3-2	111-116	einer	_	
+3-3	117-126	Engstelle	_	
+3-4	127-135	zwischen	_	
+3-5	136-140	zwei	_	
+3-6	141-148	Pollern	_	
+3-7	149-152	her	_	
+3-8	152-153	,	_	
+3-9	154-163	versperrt	_	
+3-10	164-168	eine	_	
+3-11	169-181	Reklametafel	_	
+3-12	182-185	die	_	
+3-13	186-191	Sicht	_	
+3-14	192-195	auf	_	
+3-15	196-199	die	_	
+3-16	200-208	folgende	_	
+3-17	209-220	Haltestelle	_	
+3-18	221-224	und	_	
+3-19	225-234	Fußgänger	_	
+3-20	235-238	die	_	
+3-21	239-242	den	_	
+3-22	243-249	Radweg	_	
+3-23	250-254	hier	_	
+3-24	255-265	überqueren	_	
+3-25	266-270	oder	_	
+3-26	271-273	in	_	
+3-27	274-277	der	_	
+3-28	278-282	Nähe	_	
+3-29	283-289	warten	_	
+3-30	289-290	.	_	

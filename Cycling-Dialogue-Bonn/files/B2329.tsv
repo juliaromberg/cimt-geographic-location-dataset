@@ -1,0 +1,152 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Querung zu eng
+1-1	0-7	Querung	_	
+1-2	8-10	zu	_	
+1-3	11-14	eng	_	
+
+#Text=Am Ende der Fahrradstraße Rheindorfer Burg fehlt eine sinnvolle Querung der Straße An der Josefshöhe.
+2-1	17-19	Am	*[10]	
+2-2	20-24	Ende	*[10]	
+2-3	25-28	der	*[10]	
+2-4	29-42	Fahrradstraße	*[10]	
+2-5	43-54	Rheindorfer	*[10]	
+2-6	55-59	Burg	*[10]	
+2-7	60-65	fehlt	_	
+2-8	66-70	eine	_	
+2-9	71-80	sinnvolle	_	
+2-10	81-88	Querung	*[11]	
+2-11	89-92	der	*[11]	
+2-12	93-99	Straße	*[11]	
+2-13	100-102	An	*[11]	
+2-14	103-106	der	*[11]	
+2-15	107-117	Josefshöhe	*[11]	
+2-16	117-118	.	_	
+
+#Text=Die dort befindliche Fußgängerampel reagiert nicht auf den Radverkehr, der Bedarf muss via Taster angemeldet werden.
+3-1	119-122	Die	_	
+3-2	123-127	dort	_	
+3-3	128-139	befindliche	_	
+3-4	140-154	Fußgängerampel	_	
+3-5	155-163	reagiert	_	
+3-6	164-169	nicht	_	
+3-7	170-173	auf	_	
+3-8	174-177	den	_	
+3-9	178-188	Radverkehr	_	
+3-10	188-189	,	_	
+3-11	190-193	der	_	
+3-12	194-200	Bedarf	_	
+3-13	201-205	muss	_	
+3-14	206-209	via	_	
+3-15	210-216	Taster	_	
+3-16	217-227	angemeldet	_	
+3-17	228-234	werden	_	
+3-18	234-235	.	_	
+
+#Text=Das weit größere Problem ist der fehlende Platz durch die Drängelgitter an den Straßenbahngleisen.
+4-1	236-239	Das	_	
+4-2	240-244	weit	_	
+4-3	245-252	größere	_	
+4-4	253-260	Problem	_	
+4-5	261-264	ist	_	
+4-6	265-268	der	_	
+4-7	269-277	fehlende	_	
+4-8	278-283	Platz	_	
+4-9	284-289	durch	_	
+4-10	290-293	die	_	
+4-11	294-307	Drängelgitter	_	
+4-12	308-310	an	_	
+4-13	311-314	den	_	
+4-14	315-333	Straßenbahngleisen	_	
+4-15	333-334	.	_	
+
+#Text=Begegnungsverkehr von Radfahrern und/oder Fußgängern ist hier praktisch ausgeschlossen.
+5-1	335-352	Begegnungsverkehr	_	
+5-2	353-356	von	_	
+5-3	357-367	Radfahrern	_	
+5-4	368-371	und	_	
+5-5	371-372	/	_	
+5-6	372-376	oder	_	
+5-7	377-387	Fußgängern	_	
+5-8	388-391	ist	_	
+5-9	392-396	hier	_	
+5-10	397-406	praktisch	_	
+5-11	407-421	ausgeschlossen	_	
+5-12	421-422	.	_	
+
+#Text=Fahrräder mit Kinderanhänger oder Lastenräder können nur mühsam passieren.
+6-1	423-432	Fahrräder	_	
+6-2	433-436	mit	_	
+6-3	437-451	Kinderanhänger	_	
+6-4	452-456	oder	_	
+6-5	457-468	Lastenräder	_	
+6-6	469-475	können	_	
+6-7	476-479	nur	_	
+6-8	480-486	mühsam	_	
+6-9	487-496	passieren	_	
+6-10	496-497	.	_	
+
+#Text=Lösungsvorschlag 1: Einrichtung einer breiten Querungsmöglichkeit mit der vorhandenen Ampel und Entfernung der Drängelgitter.
+7-1	498-514	Lösungsvorschlag	_	
+7-2	515-516	1	_	
+7-3	516-517	:	_	
+7-4	518-529	Einrichtung	_	
+7-5	530-535	einer	_	
+7-6	536-543	breiten	_	
+7-7	544-563	Querungsmöglichkeit	_	
+7-8	564-567	mit	_	
+7-9	568-571	der	_	
+7-10	572-583	vorhandenen	_	
+7-11	584-589	Ampel	_	
+7-12	590-593	und	_	
+7-13	594-604	Entfernung	_	
+7-14	605-608	der	_	
+7-15	609-622	Drängelgitter	_	
+7-16	622-623	.	_	
+
+#Text=Lösungsvorschlag 2: Einrichtung einer breiten Querungsmöglichkeit mit der vorhandenen Ampel plus Ergänzung eines Sensors für Radfahrer.
+8-1	624-640	Lösungsvorschlag	_	
+8-2	641-642	2	_	
+8-3	642-643	:	_	
+8-4	644-655	Einrichtung	_	
+8-5	656-661	einer	_	
+8-6	662-669	breiten	_	
+8-7	670-689	Querungsmöglichkeit	_	
+8-8	690-693	mit	_	
+8-9	694-697	der	_	
+8-10	698-709	vorhandenen	_	
+8-11	710-715	Ampel	_	
+8-12	716-720	plus	_	
+8-13	721-730	Ergänzung	_	
+8-14	731-736	eines	_	
+8-15	737-744	Sensors	_	
+8-16	745-748	für	_	
+8-17	749-758	Radfahrer	_	
+8-18	758-759	.	_	
+
+#Text=Lösungsvorschlag 3: Einrichtung einer breiten Querungsmöglichkeit und Verzicht auf die Ampelanlage zu Gunsten einer Vorfahrtsbeschilderung für Radfahrer und Fußgänger.
+9-1	760-776	Lösungsvorschlag	_	
+9-2	777-778	3	_	
+9-3	778-779	:	_	
+9-4	780-791	Einrichtung	_	
+9-5	792-797	einer	_	
+9-6	798-805	breiten	_	
+9-7	806-825	Querungsmöglichkeit	_	
+9-8	826-829	und	_	
+9-9	830-838	Verzicht	_	
+9-10	839-842	auf	_	
+9-11	843-846	die	_	
+9-12	847-858	Ampelanlage	_	
+9-13	859-861	zu	_	
+9-14	862-869	Gunsten	_	
+9-15	870-875	einer	_	
+9-16	876-898	Vorfahrtsbeschilderung	_	
+9-17	899-902	für	_	
+9-18	903-912	Radfahrer	_	
+9-19	913-916	und	_	
+9-20	917-926	Fußgänger	_	
+9-21	926-927	.	_	

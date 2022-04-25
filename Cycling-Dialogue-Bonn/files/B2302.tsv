@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße ohne Anbindung
+1-1	0-13	Fahrradstraße	_	
+1-2	14-18	ohne	_	
+1-3	19-28	Anbindung	_	
+
+#Text=Die neue fahrradsreaße über die Gallus und Lindenstraße endet an der Dornheckenstraße ohne Hinweis, wo man am besten weiter voran kommt.
+2-1	31-34	Die	*[6]	
+2-2	35-39	neue	*[6]	
+2-3	40-53	fahrradsreaße	*[6]	
+2-4	54-58	über	*[6]	
+2-5	59-62	die	*[6]	
+2-6	63-69	Gallus	*[6]	
+2-7	70-73	und	*[6]	
+2-8	74-86	Lindenstraße	*[6]	
+2-9	87-92	endet	_	
+2-10	93-95	an	*[7]	
+2-11	96-99	der	*[7]	
+2-12	100-116	Dornheckenstraße	*[7]	
+2-13	117-121	ohne	_	
+2-14	122-129	Hinweis	_	
+2-15	129-130	,	_	
+2-16	131-133	wo	_	
+2-17	134-137	man	_	
+2-18	138-140	am	_	
+2-19	141-147	besten	_	
+2-20	148-154	weiter	_	
+2-21	155-160	voran	_	
+2-22	161-166	kommt	_	
+2-23	166-167	.	_	
+
+#Text=Ortsfremde werden da leider alleine gelassen und fahren gerade aus über die Hosterbacher Straße weiter.
+3-1	168-178	Ortsfremde	_	
+3-2	179-185	werden	_	
+3-3	186-188	da	_	
+3-4	189-195	leider	_	
+3-5	196-203	alleine	_	
+3-6	204-212	gelassen	_	
+3-7	213-216	und	_	
+3-8	217-223	fahren	_	
+3-9	224-230	gerade	_	
+3-10	231-234	aus	_	
+3-11	235-239	über	*[8]	
+3-12	240-243	die	*[8]	
+3-13	244-256	Hosterbacher	*[8]	
+3-14	257-263	Straße	*[8]	
+3-15	264-270	weiter	_	
+3-16	270-271	.	_	
+
+#Text=Besser wäre, Radfahrer mittels Beschilderung in Richtung U-Bahnlinie Ramersdord-Oberkassel zu leiten auf den dort vorhandenen, bahnparallelen Radweg.
+4-1	272-278	Besser	_	
+4-2	279-283	wäre	_	
+4-3	283-284	,	_	
+4-4	285-294	Radfahrer	_	
+4-5	295-302	mittels	_	
+4-6	303-316	Beschilderung	_	
+4-7	317-319	in	*[9]	
+4-8	320-328	Richtung	*[9]	
+4-9	329-340	U-Bahnlinie	*[9]	
+4-10	341-362	Ramersdord-Oberkassel	*[9]	
+4-11	363-365	zu	_	
+4-12	366-372	leiten	_	
+4-13	373-376	auf	_	
+4-14	377-380	den	_	
+4-15	381-385	dort	_	
+4-16	386-397	vorhandenen	_	
+4-17	397-398	,	_	
+4-18	399-413	bahnparallelen	_	
+4-19	414-420	Radweg	_	
+4-20	420-421	.	_	
+
+#Text=Der ist gut ausgebaut und sicherer zu befahren als die Hosterbacher Straße.
+5-1	422-425	Der	_	
+5-2	426-429	ist	_	
+5-3	430-433	gut	_	
+5-4	434-443	ausgebaut	_	
+5-5	444-447	und	_	
+5-6	448-456	sicherer	_	
+5-7	457-459	zu	_	
+5-8	460-468	befahren	_	
+5-9	469-472	als	_	
+5-10	473-476	die	*[10]	
+5-11	477-489	Hosterbacher	*[10]	
+5-12	490-496	Straße	*[10]	
+5-13	496-497	.	_	

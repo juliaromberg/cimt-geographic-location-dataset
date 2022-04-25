@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Neu gebauter Kreisverkehr gefährdet Fahrradfahrer
+1-1	0-3	Neu	_	
+1-2	4-12	gebauter	_	
+1-3	13-25	Kreisverkehr	_	
+1-4	26-35	gefährdet	_	
+1-5	36-49	Fahrradfahrer	_	
+
+#Text=Der relativ neue Kreisverkehr Stiftsstraße, Ecke Kirchfeldstraße ein echter Rückschritt in Punkto Verkehrssicherheit für Fahrradfahrer.
+2-1	52-55	Der	*[5]	
+2-2	56-63	relativ	*[5]	
+2-3	64-68	neue	*[5]	
+2-4	69-81	Kreisverkehr	*[5]	
+2-5	82-94	Stiftsstraße	*[5]	
+2-6	94-95	,	*[5]	
+2-7	96-100	Ecke	*[5]	
+2-8	101-116	Kirchfeldstraße	*[5]	
+2-9	117-120	ein	_	
+2-10	121-127	echter	_	
+2-11	128-139	Rückschritt	_	
+2-12	140-142	in	_	
+2-13	143-149	Punkto	_	
+2-14	150-168	Verkehrssicherheit	_	
+2-15	169-172	für	_	
+2-16	173-186	Fahrradfahrer	_	
+2-17	186-187	.	_	
+
+#Text=Fahrradfahrern, die sich bereits im Kreisel befinden, wird regelmäßig durch einfahrende PKW die Vorfahrt genommen bzw. man wird als Radfahrer übel geschnitten, teilweise leider sogar von Bussen der Linien 640.
+3-1	188-202	Fahrradfahrern	_	
+3-2	202-203	,	_	
+3-3	204-207	die	_	
+3-4	208-212	sich	_	
+3-5	213-220	bereits	_	
+3-6	221-223	im	_	
+3-7	224-231	Kreisel	_	
+3-8	232-240	befinden	_	
+3-9	240-241	,	_	
+3-10	242-246	wird	_	
+3-11	247-257	regelmäßig	_	
+3-12	258-263	durch	_	
+3-13	264-275	einfahrende	_	
+3-14	276-279	PKW	_	
+3-15	280-283	die	_	
+3-16	284-292	Vorfahrt	_	
+3-17	293-301	genommen	_	
+3-18	302-305	bzw	_	
+3-19	305-306	.	_	
+3-20	307-310	man	_	
+3-21	311-315	wird	_	
+3-22	316-319	als	_	
+3-23	320-329	Radfahrer	_	
+3-24	330-334	übel	_	
+3-25	335-346	geschnitten	_	
+3-26	346-347	,	_	
+3-27	348-357	teilweise	_	
+3-28	358-364	leider	_	
+3-29	365-370	sogar	_	
+3-30	371-374	von	*[6]	
+3-31	375-381	Bussen	*[6]	
+3-32	382-385	der	*[6]	
+3-33	386-392	Linien	*[6]	
+3-34	393-396	640	*[6]	
+3-35	396-397	.	_	
+
+#Text=Vor Bau des Kreisverkehres war dies eine normale Kreuzung mit rechts vor links Regelung, die erheblich besser funktionierte.
+4-1	398-401	Vor	_	
+4-2	402-405	Bau	_	
+4-3	406-409	des	_	
+4-4	410-424	Kreisverkehres	_	
+4-5	425-428	war	_	
+4-6	429-433	dies	_	
+4-7	434-438	eine	_	
+4-8	439-446	normale	_	
+4-9	447-455	Kreuzung	_	
+4-10	456-459	mit	_	
+4-11	460-466	rechts	_	
+4-12	467-470	vor	_	
+4-13	471-476	links	_	
+4-14	477-485	Regelung	_	
+4-15	485-486	,	_	
+4-16	487-490	die	_	
+4-17	491-500	erheblich	_	
+4-18	501-507	besser	_	
+4-19	508-521	funktionierte	_	
+4-20	521-522	.	_	

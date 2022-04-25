@@ -1,0 +1,23 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Glascontainer
+1-1	0-13	Glascontainer	_	
+
+#Text=Oftmals wird hier der Radschutzstreifen als Parkplatz zur Benutzung des Glascontainers zweckentfremdet.
+2-1	16-23	Oftmals	_	
+2-2	24-28	wird	_	
+2-3	29-33	hier	_	
+2-4	34-37	der	_	
+2-5	38-55	Radschutzstreifen	_	
+2-6	56-59	als	_	
+2-7	60-69	Parkplatz	_	
+2-8	70-73	zur	_	
+2-9	74-83	Benutzung	_	
+2-10	84-87	des	_	
+2-11	88-102	Glascontainers	_	
+2-12	103-118	zweckentfremdet	_	
+2-13	118-119	.	_	

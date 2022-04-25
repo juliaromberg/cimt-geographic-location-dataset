@@ -1,0 +1,302 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schaffung einer ausgeschilderten Radstrecke Bonn - St.Augustin/Siegburg/Hennef
+1-1	0-9	Schaffung	_	
+1-2	10-15	einer	_	
+1-3	16-32	ausgeschilderten	_	
+1-4	33-43	Radstrecke	_	
+1-5	44-48	Bonn	*[18]	
+1-6	49-50	-	*[18]	
+1-7	51-62	St.Augustin	*[18]	
+1-8	62-63	/	*[18]	
+1-9	63-71	Siegburg	*[18]	
+1-10	71-72	/	*[18]	
+1-11	72-78	Hennef	*[18]	
+
+#Text=Zwischen St.Augustin/Siegburg/Hennef und Bonn existiert keine ausgeschilderte schnelle Radstrecke.
+2-1	81-89	Zwischen	*[19]	
+2-2	90-101	St.Augustin	*[19]	
+2-3	101-102	/	*[19]	
+2-4	102-110	Siegburg	*[19]	
+2-5	110-111	/	*[19]	
+2-6	111-117	Hennef	*[19]	
+2-7	118-121	und	*[19]	
+2-8	122-126	Bonn	*[19]	
+2-9	127-136	existiert	_	
+2-10	137-142	keine	_	
+2-11	143-158	ausgeschilderte	_	
+2-12	159-167	schnelle	_	
+2-13	168-178	Radstrecke	_	
+2-14	178-179	.	_	
+
+#Text=Die kürzeste Radstrecke verläuft in St. Augustin neben der S-Bahn.
+3-1	180-183	Die	_	
+3-2	184-192	kürzeste	_	
+3-3	193-203	Radstrecke	_	
+3-4	204-212	verläuft	_	
+3-5	213-215	in	*[20]	
+3-6	216-218	St	*[20]	
+3-7	218-219	.	*[20]	
+3-8	220-228	Augustin	*[20]	
+3-9	229-234	neben	_	
+3-10	235-238	der	_	
+3-11	239-245	S-Bahn	_	
+3-12	245-246	.	_	
+
+#Text=Diese endet jedoch auf Bonner Gebiet in Vilich, wo sie dann auf der Beueler Straße, dann Schultheis-und Adelheidisstraße weiterführt.
+4-1	247-252	Diese	_	
+4-2	253-258	endet	_	
+4-3	259-265	jedoch	_	
+4-4	266-269	auf	_	
+4-5	270-276	Bonner	*[21]	
+4-6	277-283	Gebiet	*[21]	
+4-7	284-286	in	*[21]	
+4-8	287-293	Vilich	*[21]	
+4-9	293-294	,	_	
+4-10	295-297	wo	_	
+4-11	298-301	sie	_	
+4-12	302-306	dann	_	
+4-13	307-310	auf	*[22]	
+4-14	311-314	der	*[22]	
+4-15	315-322	Beueler	*[22]	
+4-16	323-329	Straße	*[22]	
+4-17	329-330	,	*[22]	
+4-18	331-335	dann	*[22]	
+4-19	336-350	Schultheis-und	*[22]	
+4-20	351-367	Adelheidisstraße	*[22]	
+4-21	368-379	weiterführt	_	
+4-22	379-380	.	_	
+
+#Text=Siehe https://www.google.de/maps/@50.7495333,7.1317757,16.29z
+5-1	381-386	Siehe	_	
+5-2	387-392	https	_	
+5-3	392-393	:	_	
+5-4	393-394	/	_	
+5-5	394-395	/	_	
+5-6	395-408	www.google.de	_	
+5-7	408-409	/	_	
+5-8	409-413	maps	_	
+5-9	413-414	/	_	
+5-10	414-415	@	_	
+5-11	415-442	50.7495333,7.1317757,16.29z	_	
+
+#Text=In beiden Richtungen ist sie jedoch in Bonn nicht ausgeschildert.
+6-1	443-445	In	_	
+6-2	446-452	beiden	_	
+6-3	453-463	Richtungen	_	
+6-4	464-467	ist	_	
+6-5	468-471	sie	_	
+6-6	472-478	jedoch	_	
+6-7	479-481	in	*[23]	
+6-8	482-486	Bonn	*[23]	
+6-9	487-492	nicht	_	
+6-10	493-507	ausgeschildert	_	
+6-11	507-508	.	_	
+
+#Text=D.h. nur wenn man eine entsprechende Radfahrkarte hat, weiß man, wo man weiter fahren sollte.
+7-1	509-512	D.h	_	
+7-2	512-513	.	_	
+7-3	514-517	nur	_	
+7-4	518-522	wenn	_	
+7-5	523-526	man	_	
+7-6	527-531	eine	_	
+7-7	532-545	entsprechende	_	
+7-8	546-558	Radfahrkarte	_	
+7-9	559-562	hat	_	
+7-10	562-563	,	_	
+7-11	564-568	weiß	_	
+7-12	569-572	man	_	
+7-13	572-573	,	_	
+7-14	574-576	wo	_	
+7-15	577-580	man	_	
+7-16	581-587	weiter	_	
+7-17	588-594	fahren	_	
+7-18	595-601	sollte	_	
+7-19	601-602	.	_	
+
+#Text=Der General-Anzeiger beschrieb dies mit Mangels Beschilderung ist aber guter Orientierungssinn hilfreich, siehe https://goo.gl/v2iL6M
+8-1	603-606	Der	_	
+8-2	607-623	General-Anzeiger	_	
+8-3	624-633	beschrieb	_	
+8-4	634-638	dies	_	
+8-5	639-642	mit	_	
+8-6	643-650	Mangels	_	
+8-7	651-664	Beschilderung	_	
+8-8	665-668	ist	_	
+8-9	669-673	aber	_	
+8-10	674-679	guter	_	
+8-11	680-697	Orientierungssinn	_	
+8-12	698-707	hilfreich	_	
+8-13	707-708	,	_	
+8-14	709-714	siehe	_	
+8-15	715-720	https	_	
+8-16	720-721	:	_	
+8-17	721-722	/	_	
+8-18	722-723	/	_	
+8-19	723-729	goo.gl	_	
+8-20	729-730	/	_	
+8-21	730-736	v2iL6M	_	
+
+#Text=Verschärfend dazu kommt, dass Radfahrer auf der Beueler Straße Straße aus Bonn kommend die kleine Rechtsabzweigung zum Radweg sehr leicht übersehen können.
+9-1	737-749	Verschärfend	_	
+9-2	750-754	dazu	_	
+9-3	755-760	kommt	_	
+9-4	760-761	,	_	
+9-5	762-766	dass	_	
+9-6	767-776	Radfahrer	_	
+9-7	777-780	auf	*[24]	
+9-8	781-784	der	*[24]	
+9-9	785-792	Beueler	*[24]	
+9-10	793-799	Straße	*[24]	
+9-11	800-806	Straße	*[24]	
+9-12	807-810	aus	*[24]	
+9-13	811-815	Bonn	*[24]	
+9-14	816-823	kommend	*[24]	
+9-15	824-827	die	_	
+9-16	828-834	kleine	_	
+9-17	835-851	Rechtsabzweigung	_	
+9-18	852-855	zum	_	
+9-19	856-862	Radweg	_	
+9-20	863-867	sehr	_	
+9-21	868-874	leicht	_	
+9-22	875-884	übersehen	_	
+9-23	885-891	können	_	
+9-24	891-892	.	_	
+
+#Text=Auch hier fehlt eine Beschilderung.
+10-1	893-897	Auch	_	
+10-2	898-902	hier	_	
+10-3	903-908	fehlt	_	
+10-4	909-913	eine	_	
+10-5	914-927	Beschilderung	_	
+10-6	927-928	.	_	
+
+#Text=Zudem behindern mehrere Poller und Masten die Einfahrt, siehe https://goo.gl/4GGMDG
+11-1	929-934	Zudem	_	
+11-2	935-944	behindern	_	
+11-3	945-952	mehrere	_	
+11-4	953-959	Poller	_	
+11-5	960-963	und	_	
+11-6	964-970	Masten	_	
+11-7	971-974	die	_	
+11-8	975-983	Einfahrt	_	
+11-9	983-984	,	_	
+11-10	985-990	siehe	_	
+11-11	991-996	https	_	
+11-12	996-997	:	_	
+11-13	997-998	/	_	
+11-14	998-999	/	_	
+11-15	999-1005	goo.gl	_	
+11-16	1005-1006	/	_	
+11-17	1006-1012	4GGMDG	_	
+
+#Text=Grundsätzliche Kritik:
+12-1	1013-1027	Grundsätzliche	_	
+12-2	1028-1034	Kritik	_	
+12-3	1034-1035	:	_	
+
+#Text=1) Es ist ein extremes Armutszeugnis, das es zwischen den hinsichtlich Arbeits- und Wohnbeziehungen extrem vernetzten einwohnerstarken St. Augustin/Siegburg/Hennef und Bonn keinen Radweg gibt.
+13-1	1036-1037	1	_	
+13-2	1037-1038	)	_	
+13-3	1039-1041	Es	_	
+13-4	1042-1045	ist	_	
+13-5	1046-1049	ein	_	
+13-6	1050-1058	extremes	_	
+13-7	1059-1072	Armutszeugnis	_	
+13-8	1072-1073	,	_	
+13-9	1074-1077	das	_	
+13-10	1078-1080	es	_	
+13-11	1081-1089	zwischen	_	
+13-12	1090-1093	den	_	
+13-13	1094-1106	hinsichtlich	_	
+13-14	1107-1114	Arbeits	_	
+13-15	1114-1115	-	_	
+13-16	1116-1119	und	_	
+13-17	1120-1135	Wohnbeziehungen	_	
+13-18	1136-1142	extrem	_	
+13-19	1143-1153	vernetzten	_	
+13-20	1154-1170	einwohnerstarken	_	
+13-21	1171-1173	St	*[25]	
+13-22	1173-1174	.	*[25]	
+13-23	1175-1183	Augustin	*[25]	
+13-24	1183-1184	/	*[25]	
+13-25	1184-1192	Siegburg	*[25]	
+13-26	1192-1193	/	*[25]	
+13-27	1193-1199	Hennef	*[25]	
+13-28	1200-1203	und	*[25]	
+13-29	1204-1208	Bonn	*[25]	
+13-30	1209-1215	keinen	_	
+13-31	1216-1222	Radweg	_	
+13-32	1223-1227	gibt	_	
+13-33	1227-1228	.	_	
+
+#Text=Jetzt gibt es dafür mangels Platz keine Chance mehr.
+14-1	1229-1234	Jetzt	_	
+14-2	1235-1239	gibt	_	
+14-3	1240-1242	es	_	
+14-4	1243-1248	dafür	_	
+14-5	1249-1256	mangels	_	
+14-6	1257-1262	Platz	_	
+14-7	1263-1268	keine	_	
+14-8	1269-1275	Chance	_	
+14-9	1276-1280	mehr	_	
+14-10	1280-1281	.	_	
+
+#Text=2) Auf den ca. 800 m Schultheis- und Adelheidisstraße müssen Radfahrer sich die jeweils ein bis knapp zwei autobreite Strecke mit Autos teilen.
+15-1	1282-1283	2	_	
+15-2	1283-1284	)	_	
+15-3	1285-1288	Auf	_	
+15-4	1289-1292	den	_	
+15-5	1293-1295	ca	_	
+15-6	1295-1296	.	_	
+15-7	1297-1300	800	_	
+15-8	1301-1302	m	_	
+15-9	1303-1313	Schultheis	_	
+15-10	1313-1314	-	_	
+15-11	1315-1318	und	_	
+15-12	1319-1335	Adelheidisstraße	_	
+15-13	1336-1342	müssen	_	
+15-14	1343-1352	Radfahrer	_	
+15-15	1353-1357	sich	_	
+15-16	1358-1361	die	_	
+15-17	1362-1369	jeweils	_	
+15-18	1370-1373	ein	_	
+15-19	1374-1377	bis	_	
+15-20	1378-1383	knapp	_	
+15-21	1384-1388	zwei	_	
+15-22	1389-1399	autobreite	_	
+15-23	1400-1407	Strecke	_	
+15-24	1408-1411	mit	_	
+15-25	1412-1417	Autos	_	
+15-26	1418-1424	teilen	_	
+15-27	1424-1425	.	_	
+
+#Text=Es gibt keinerlei schützende Radfahr- oder Schutzstreifen.
+16-1	1426-1428	Es	_	
+16-2	1429-1433	gibt	_	
+16-3	1434-1443	keinerlei	_	
+16-4	1444-1454	schützende	_	
+16-5	1455-1462	Radfahr	_	
+16-6	1462-1463	-	_	
+16-7	1464-1468	oder	_	
+16-8	1469-1483	Schutzstreifen	_	
+16-9	1483-1484	.	_	
+
+#Text=Dafür mehrere Engstellen, an denen sich Autos immer die Vorfahrt nehmen.
+17-1	1485-1490	Dafür	_	
+17-2	1491-1498	mehrere	_	
+17-3	1499-1509	Engstellen	_	
+17-4	1509-1510	,	_	
+17-5	1511-1513	an	_	
+17-6	1514-1519	denen	_	
+17-7	1520-1524	sich	_	
+17-8	1525-1530	Autos	_	
+17-9	1531-1536	immer	_	
+17-10	1537-1540	die	_	
+17-11	1541-1549	Vorfahrt	_	
+17-12	1550-1556	nehmen	_	
+17-13	1556-1557	.	_	

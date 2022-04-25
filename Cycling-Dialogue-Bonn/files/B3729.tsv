@@ -1,0 +1,29 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sperre verbreitern
+1-1	0-6	Sperre	_	
+1-2	7-18	verbreitern	_	
+
+#Text=Die Sperre ist zu eng für Rad mit Anhänger.
+2-1	21-24	Die	_	
+2-2	25-31	Sperre	_	
+2-3	32-35	ist	_	
+2-4	36-38	zu	_	
+2-5	39-42	eng	_	
+2-6	43-46	für	_	
+2-7	47-50	Rad	_	
+2-8	51-54	mit	_	
+2-9	55-63	Anhänger	_	
+2-10	63-64	.	_	
+
+#Text=Sie sollte deutlich verbreitert werden.
+3-1	65-68	Sie	_	
+3-2	69-75	sollte	_	
+3-3	76-84	deutlich	_	
+3-4	85-96	verbreitert	_	
+3-5	97-103	werden	_	
+3-6	103-104	.	_	

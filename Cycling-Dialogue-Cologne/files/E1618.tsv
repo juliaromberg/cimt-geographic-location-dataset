@@ -1,0 +1,82 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreisverkehre und
+1-1	0-13	Kreisverkehre	_	
+1-2	14-17	und	_	
+
+#Text=Ein Kreisverkehr verbessert den Verkehrsfluss, der auf der Subbelrather Straße vor allem zwischen Gürtel und Äußerer Kanalstraße zu sehr behindert wird.
+2-1	20-23	Ein	_	
+2-2	24-36	Kreisverkehr	_	
+2-3	37-47	verbessert	_	
+2-4	48-51	den	_	
+2-5	52-65	Verkehrsfluss	_	
+2-6	65-66	,	_	
+2-7	67-70	der	_	
+2-8	71-74	auf	*[5]	
+2-9	75-78	der	*[5]	
+2-10	79-91	Subbelrather	*[5]	
+2-11	92-98	Straße	*[5]	
+2-12	99-102	vor	*[5]	
+2-13	103-108	allem	*[5]	
+2-14	109-117	zwischen	*[5]	
+2-15	118-124	Gürtel	*[5]	
+2-16	125-128	und	*[5]	
+2-17	129-136	Äußerer	*[5]	
+2-18	137-148	Kanalstraße	*[5]	
+2-19	149-151	zu	_	
+2-20	152-156	sehr	_	
+2-21	157-166	behindert	_	
+2-22	167-171	wird	_	
+2-23	171-172	.	_	
+
+#Text=Besser noch als für den Radverkehr optimierte Ampelschaltungen würden Kreisverkehre das Problem beheben.
+3-1	173-179	Besser	_	
+3-2	180-184	noch	_	
+3-3	185-188	als	_	
+3-4	189-192	für	_	
+3-5	193-196	den	_	
+3-6	197-207	Radverkehr	_	
+3-7	208-218	optimierte	_	
+3-8	219-235	Ampelschaltungen	_	
+3-9	236-242	würden	_	
+3-10	243-256	Kreisverkehre	_	
+3-11	257-260	das	_	
+3-12	261-268	Problem	_	
+3-13	269-276	beheben	_	
+3-14	276-277	.	_	
+
+#Text=Wenn die Verwaltung die räumlichen Voraussetzungen nicht gegeben sieht, muss man diese überprüfen und anpassen: In Irland passt ein Kreisverkehr auf ein Zwei-Euro-Stück, warum nicht hier?
+4-1	278-282	Wenn	_	
+4-2	283-286	die	_	
+4-3	287-297	Verwaltung	_	
+4-4	298-301	die	_	
+4-5	302-312	räumlichen	_	
+4-6	313-328	Voraussetzungen	_	
+4-7	329-334	nicht	_	
+4-8	335-342	gegeben	_	
+4-9	343-348	sieht	_	
+4-10	348-349	,	_	
+4-11	350-354	muss	_	
+4-12	355-358	man	_	
+4-13	359-364	diese	_	
+4-14	365-375	überprüfen	_	
+4-15	376-379	und	_	
+4-16	380-388	anpassen	_	
+4-17	388-389	:	_	
+4-18	390-392	In	_	
+4-19	393-399	Irland	_	
+4-20	400-405	passt	_	
+4-21	406-409	ein	_	
+4-22	410-422	Kreisverkehr	_	
+4-23	423-426	auf	_	
+4-24	427-430	ein	_	
+4-25	431-446	Zwei-Euro-Stück	_	
+4-26	446-447	,	_	
+4-27	448-453	warum	_	
+4-28	454-459	nicht	_	
+4-29	460-464	hier	_	
+4-30	464-465	?	_	

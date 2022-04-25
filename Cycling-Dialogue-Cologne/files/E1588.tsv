@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahradnadeln am Eiscafé
+1-1	0-12	Fahradnadeln	_	
+1-2	13-15	am	_	
+1-3	16-23	Eiscafé	_	
+
+#Text=Es wäre schön, wenn man Fahrräder im Bereich des großartigen Eiscafes [Name des Eiscafes] ordentlich anschließen könnte und sich nicht Bäume, Laternen- oder Ampelmasten suchen müsste.
+2-1	26-28	Es	_	
+2-2	29-33	wäre	_	
+2-3	34-39	schön	_	
+2-4	39-40	,	_	
+2-5	41-45	wenn	_	
+2-6	46-49	man	_	
+2-7	50-59	Fahrräder	_	
+2-8	60-62	im	_	
+2-9	63-70	Bereich	_	
+2-10	71-74	des	_	
+2-11	75-86	großartigen	_	
+2-12	87-95	Eiscafes	_	
+2-13	96-97	[	_	
+2-14	97-101	Name	_	
+2-15	102-105	des	_	
+2-16	106-114	Eiscafes	_	
+2-17	114-115	]	_	
+2-18	116-126	ordentlich	_	
+2-19	127-138	anschließen	_	
+2-20	139-145	könnte	_	
+2-21	146-149	und	_	
+2-22	150-154	sich	_	
+2-23	155-160	nicht	_	
+2-24	161-166	Bäume	_	
+2-25	166-167	,	_	
+2-26	168-176	Laternen	_	
+2-27	176-177	-	_	
+2-28	178-182	oder	_	
+2-29	183-194	Ampelmasten	_	
+2-30	195-201	suchen	_	
+2-31	202-208	müsste	_	
+2-32	208-209	.	_	
+
+#Text=Wenn diese in einem Teil der Ladezone Venloer lägen, hätten auch die Besucher des [Name der Gastronomie] und des [Name der Gastronomie] etwas davon.
+3-1	210-214	Wenn	_	
+3-2	215-220	diese	_	
+3-3	221-223	in	_	
+3-4	224-229	einem	_	
+3-5	230-234	Teil	_	
+3-6	235-238	der	_	
+3-7	239-247	Ladezone	*[4]	
+3-8	248-255	Venloer	*[4]	
+3-9	256-261	lägen	_	
+3-10	261-262	,	_	
+3-11	263-269	hätten	_	
+3-12	270-274	auch	_	
+3-13	275-278	die	_	
+3-14	279-287	Besucher	_	
+3-15	288-291	des	_	
+3-16	292-293	[	_	
+3-17	293-297	Name	_	
+3-18	298-301	der	_	
+3-19	302-313	Gastronomie	_	
+3-20	313-314	]	_	
+3-21	315-318	und	_	
+3-22	319-322	des	_	
+3-23	323-324	[	_	
+3-24	324-328	Name	_	
+3-25	329-332	der	_	
+3-26	333-344	Gastronomie	_	
+3-27	344-345	]	_	
+3-28	346-351	etwas	_	
+3-29	352-357	davon	_	
+3-30	357-358	.	_	

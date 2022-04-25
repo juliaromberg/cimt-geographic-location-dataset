@@ -1,0 +1,44 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Mehr Fahrradständer und -abstellmöglichekiten in der Heerstraße/ Altstadt
+1-1	0-4	Mehr	_	
+1-2	5-19	Fahrradständer	_	
+1-3	20-23	und	_	
+1-4	24-25	-	_	
+1-5	25-45	abstellmöglichekiten	_	
+1-6	46-48	in	*[3]	
+1-7	49-52	der	*[3]	
+1-8	53-63	Heerstraße	*[3]	
+1-9	63-64	/	*[3]	
+1-10	65-73	Altstadt	*[3]	
+
+#Text=Beim Abstellen von Fahrrädern in der Heerstraße behindert man schnell die Fußgänger auf dem Gehweg oder Autoparker, da es zu wenige Fahrradparkplätze gibt.
+2-1	76-80	Beim	_	
+2-2	81-90	Abstellen	_	
+2-3	91-94	von	_	
+2-4	95-105	Fahrrädern	_	
+2-5	106-108	in	*[4]	
+2-6	109-112	der	*[4]	
+2-7	113-123	Heerstraße	*[4]	
+2-8	124-133	behindert	_	
+2-9	134-137	man	_	
+2-10	138-145	schnell	_	
+2-11	146-149	die	_	
+2-12	150-159	Fußgänger	_	
+2-13	160-163	auf	_	
+2-14	164-167	dem	_	
+2-15	168-174	Gehweg	_	
+2-16	175-179	oder	_	
+2-17	180-190	Autoparker	_	
+2-18	190-191	,	_	
+2-19	192-194	da	_	
+2-20	195-197	es	_	
+2-21	198-200	zu	_	
+2-22	201-207	wenige	_	
+2-23	208-225	Fahrradparkplätze	_	
+2-24	226-230	gibt	_	
+2-25	230-231	.	_	

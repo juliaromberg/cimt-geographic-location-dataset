@@ -1,0 +1,106 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrbahnkissen in der Südstadt entfernen - Gefahr für Radfahrer
+1-1	0-14	Fahrbahnkissen	_	
+1-2	15-17	in	*[6]	
+1-3	18-21	der	*[6]	
+1-4	22-30	Südstadt	*[6]	
+1-5	31-40	entfernen	_	
+1-6	41-42	-	_	
+1-7	43-49	Gefahr	_	
+1-8	50-53	für	_	
+1-9	54-63	Radfahrer	_	
+
+#Text=Die vielen Fahrbahnkissen, z.B. Schumannstraße, An der Elisabethkirche usw. sind gefährlich für Radfahrer, besonders in der jetzt kommenden nasseren Jahreszeit.
+2-1	66-69	Die	_	
+2-2	70-76	vielen	_	
+2-3	77-91	Fahrbahnkissen	_	
+2-4	91-92	,	_	
+2-5	93-96	z.B	_	
+2-6	96-97	.	_	
+2-7	98-112	Schumannstraße	*[7]	
+2-8	112-113	,	*[7]	
+2-9	114-116	An	*[7]	
+2-10	117-120	der	*[7]	
+2-11	121-136	Elisabethkirche	*[7]	
+2-12	137-140	usw	_	
+2-13	140-141	.	_	
+2-14	142-146	sind	_	
+2-15	147-157	gefährlich	_	
+2-16	158-161	für	_	
+2-17	162-171	Radfahrer	_	
+2-18	171-172	,	_	
+2-19	173-182	besonders	_	
+2-20	183-185	in	_	
+2-21	186-189	der	_	
+2-22	190-195	jetzt	_	
+2-23	196-205	kommenden	_	
+2-24	206-214	nasseren	_	
+2-25	215-225	Jahreszeit	_	
+2-26	225-226	.	_	
+
+#Text=Oft weicht man zur Seite aus, um nicht drüber fahren zu müssen und riskiert einen Ausrutscher auf den glatten Pflastersteinen oder riskiert, von einer Autotür vom Rad gerissen zu werden.
+3-1	227-230	Oft	_	
+3-2	231-237	weicht	_	
+3-3	238-241	man	_	
+3-4	242-245	zur	_	
+3-5	246-251	Seite	_	
+3-6	252-255	aus	_	
+3-7	255-256	,	_	
+3-8	257-259	um	_	
+3-9	260-265	nicht	_	
+3-10	266-272	drüber	_	
+3-11	273-279	fahren	_	
+3-12	280-282	zu	_	
+3-13	283-289	müssen	_	
+3-14	290-293	und	_	
+3-15	294-302	riskiert	_	
+3-16	303-308	einen	_	
+3-17	309-320	Ausrutscher	_	
+3-18	321-324	auf	_	
+3-19	325-328	den	_	
+3-20	329-336	glatten	_	
+3-21	337-352	Pflastersteinen	_	
+3-22	353-357	oder	_	
+3-23	358-366	riskiert	_	
+3-24	366-367	,	_	
+3-25	368-371	von	_	
+3-26	372-377	einer	_	
+3-27	378-385	Autotür	_	
+3-28	386-389	vom	_	
+3-29	390-393	Rad	_	
+3-30	394-402	gerissen	_	
+3-31	403-405	zu	_	
+3-32	406-412	werden	_	
+3-33	412-413	.	_	
+
+#Text=Außerdem sind sie nicht mehr notwendig, da diese Straßen als Fahrradstraßen ausgewiesen wurden.
+4-1	414-422	Außerdem	_	
+4-2	423-427	sind	_	
+4-3	428-431	sie	_	
+4-4	432-437	nicht	_	
+4-5	438-442	mehr	_	
+4-6	443-452	notwendig	_	
+4-7	452-453	,	_	
+4-8	454-456	da	_	
+4-9	457-462	diese	_	
+4-10	463-470	Straßen	_	
+4-11	471-474	als	_	
+4-12	475-489	Fahrradstraßen	_	
+4-13	490-501	ausgewiesen	_	
+4-14	502-508	wurden	_	
+4-15	508-509	.	_	
+
+#Text=Bitte weg mit den Fahrbahnkissen in Fahrradstraßen!
+5-1	510-515	Bitte	_	
+5-2	516-519	weg	_	
+5-3	520-523	mit	_	
+5-4	524-527	den	_	
+5-5	528-542	Fahrbahnkissen	_	
+5-6	543-545	in	_	
+5-7	546-560	Fahrradstraßen	_	
+5-8	560-561	!	_	

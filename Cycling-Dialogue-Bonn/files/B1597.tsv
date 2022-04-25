@@ -1,0 +1,89 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radverbindung in der Innenstadt
+1-1	0-13	Radverbindung	_	
+1-2	14-16	in	*[6]	
+1-3	17-20	der	*[6]	
+1-4	21-31	Innenstadt	*[6]	
+
+#Text=Von ca. Mitte November bis zum 24.12. jeden Jahres ist die zentrale Fahrradroute durch die Stadt relativ ersatzlos gesperrt.
+2-1	34-37	Von	_	
+2-2	38-40	ca	_	
+2-3	40-41	.	_	
+2-4	42-47	Mitte	_	
+2-5	48-56	November	_	
+2-6	57-60	bis	_	
+2-7	61-64	zum	_	
+2-8	65-70	24.12	_	
+2-9	70-71	.	_	
+2-10	72-77	jeden	_	
+2-11	78-84	Jahres	_	
+2-12	85-88	ist	_	
+2-13	89-92	die	_	
+2-14	93-101	zentrale	_	
+2-15	102-114	Fahrradroute	_	
+2-16	115-120	durch	_	
+2-17	121-124	die	_	
+2-18	125-130	Stadt	_	
+2-19	131-138	relativ	_	
+2-20	139-148	ersatzlos	_	
+2-21	149-157	gesperrt	_	
+2-22	157-158	.	_	
+
+#Text=Alternativen bzw. Umleitung sind nur bedingt bis gar nicht ausgewiesen.
+3-1	159-171	Alternativen	_	
+3-2	172-175	bzw	_	
+3-3	175-176	.	_	
+3-4	177-186	Umleitung	_	
+3-5	187-191	sind	_	
+3-6	192-195	nur	_	
+3-7	196-203	bedingt	_	
+3-8	204-207	bis	_	
+3-9	208-211	gar	_	
+3-10	212-217	nicht	_	
+3-11	218-229	ausgewiesen	_	
+3-12	229-230	.	_	
+
+#Text=Es gab vor Jahr und Tag einen Vorschlag der Grünen, einen Radweg freizuhalten.
+4-1	231-233	Es	_	
+4-2	234-237	gab	_	
+4-3	238-241	vor	_	
+4-4	242-246	Jahr	_	
+4-5	247-250	und	_	
+4-6	251-254	Tag	_	
+4-7	255-260	einen	_	
+4-8	261-270	Vorschlag	_	
+4-9	271-274	der	_	
+4-10	275-281	Grünen	_	
+4-11	281-282	,	_	
+4-12	283-288	einen	_	
+4-13	289-295	Radweg	_	
+4-14	296-308	freizuhalten	_	
+4-15	308-309	.	_	
+
+#Text=Warum nicht vom Friedensplatz über den Bottlerplatz zur Münsterstraße und dann durch die Sürst über den Markt einen Weg freihalten?
+5-1	310-315	Warum	_	
+5-2	316-321	nicht	_	
+5-3	322-325	vom	*[7]	
+5-4	326-339	Friedensplatz	*[7]	
+5-5	340-344	über	*[7]	
+5-6	345-348	den	*[7]	
+5-7	349-361	Bottlerplatz	*[7]	
+5-8	362-365	zur	*[7]	
+5-9	366-379	Münsterstraße	*[7]	
+5-10	380-383	und	*[7]	
+5-11	384-388	dann	*[7]	
+5-12	389-394	durch	*[7]	
+5-13	395-398	die	*[7]	
+5-14	399-404	Sürst	*[7]	
+5-15	405-409	über	*[7]	
+5-16	410-413	den	*[7]	
+5-17	414-419	Markt	*[7]	
+5-18	420-425	einen	_	
+5-19	426-429	Weg	_	
+5-20	430-440	freihalten	_	
+5-21	440-441	?	_	

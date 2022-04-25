@@ -1,0 +1,35 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wegeführung
+1-1	0-11	Wegeführung	_	
+
+#Text=Hier kommt es regelmäßig zu gefährlichen Situationen aufgrund der Wegeführung, der schlechten Ausleuchtung und des regelmäßig mit Laub und anderen Dingen verschmutzten Fahrbahn.
+2-1	14-18	Hier	_	
+2-2	19-24	kommt	_	
+2-3	25-27	es	_	
+2-4	28-38	regelmäßig	_	
+2-5	39-41	zu	_	
+2-6	42-54	gefährlichen	_	
+2-7	55-66	Situationen	_	
+2-8	67-75	aufgrund	_	
+2-9	76-79	der	_	
+2-10	80-91	Wegeführung	_	
+2-11	91-92	,	_	
+2-12	93-96	der	_	
+2-13	97-107	schlechten	_	
+2-14	108-120	Ausleuchtung	_	
+2-15	121-124	und	_	
+2-16	125-128	des	_	
+2-17	129-139	regelmäßig	_	
+2-18	140-143	mit	_	
+2-19	144-148	Laub	_	
+2-20	149-152	und	_	
+2-21	153-160	anderen	_	
+2-22	161-167	Dingen	_	
+2-23	168-181	verschmutzten	_	
+2-24	182-190	Fahrbahn	_	
+2-25	190-191	.	_	

@@ -1,0 +1,215 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vom Venusberg kommende Autos nehmen Radler tagtäglich die Vorfahrt
+1-1	0-3	Vom	*[12]	
+1-2	4-13	Venusberg	*[12]	
+1-3	14-22	kommende	*[12]	
+1-4	23-28	Autos	_	
+1-5	29-35	nehmen	_	
+1-6	36-42	Radler	_	
+1-7	43-53	tagtäglich	_	
+1-8	54-57	die	_	
+1-9	58-66	Vorfahrt	_	
+
+#Text=Der Verteilerkreis an der Graf-Stauffenberg-Straße / Eduard-Otto Straße ist für Radfahrer nach meiner Meinung eine der gefährlichsten Stellen im Bonner Raum.
+2-1	69-72	Der	_	
+2-2	73-87	Verteilerkreis	_	
+2-3	88-90	an	*[13]	
+2-4	91-94	der	*[13]	
+2-5	95-119	Graf-Stauffenberg-Straße	*[13]	
+2-6	120-121	/	*[13]	
+2-7	122-133	Eduard-Otto	*[13]	
+2-8	134-140	Straße	*[13]	
+2-9	141-144	ist	_	
+2-10	145-148	für	_	
+2-11	149-158	Radfahrer	_	
+2-12	159-163	nach	_	
+2-13	164-170	meiner	_	
+2-14	171-178	Meinung	_	
+2-15	179-183	eine	_	
+2-16	184-187	der	_	
+2-17	188-202	gefährlichsten	_	
+2-18	203-210	Stellen	_	
+2-19	211-213	im	*[14]	
+2-20	214-220	Bonner	*[14]	
+2-21	221-225	Raum	*[14]	
+2-22	225-226	.	_	
+
+#Text=Wenn man hier als Radler auf seine Vorfahrt pochen würde, hätte man nicht mehr länger als 1 Woche zu leben.
+3-1	227-231	Wenn	_	
+3-2	232-235	man	_	
+3-3	236-240	hier	_	
+3-4	241-244	als	_	
+3-5	245-251	Radler	_	
+3-6	252-255	auf	_	
+3-7	256-261	seine	_	
+3-8	262-270	Vorfahrt	_	
+3-9	271-277	pochen	_	
+3-10	278-283	würde	_	
+3-11	283-284	,	_	
+3-12	285-290	hätte	_	
+3-13	291-294	man	_	
+3-14	295-300	nicht	_	
+3-15	301-305	mehr	_	
+3-16	306-312	länger	_	
+3-17	313-316	als	_	
+3-18	317-318	1	_	
+3-19	319-324	Woche	_	
+3-20	325-327	zu	_	
+3-21	328-333	leben	_	
+3-22	333-334	.	_	
+
+#Text=In der letzten Woche hatte ich sogar eine Begegnung mit einem Polizeiauto, dass nur durch Vollbremsung und quietschende Reifen einen Zusammenstoß mit mir vermied.
+4-1	335-337	In	_	
+4-2	338-341	der	_	
+4-3	342-349	letzten	_	
+4-4	350-355	Woche	_	
+4-5	356-361	hatte	_	
+4-6	362-365	ich	_	
+4-7	366-371	sogar	_	
+4-8	372-376	eine	_	
+4-9	377-386	Begegnung	_	
+4-10	387-390	mit	_	
+4-11	391-396	einem	_	
+4-12	397-408	Polizeiauto	_	
+4-13	408-409	,	_	
+4-14	410-414	dass	_	
+4-15	415-418	nur	_	
+4-16	419-424	durch	_	
+4-17	425-437	Vollbremsung	_	
+4-18	438-441	und	_	
+4-19	442-454	quietschende	_	
+4-20	455-461	Reifen	_	
+4-21	462-467	einen	_	
+4-22	468-480	Zusammenstoß	_	
+4-23	481-484	mit	_	
+4-24	485-488	mir	_	
+4-25	489-496	vermied	_	
+4-26	496-497	.	_	
+
+#Text=Der Fahrer hatte mich wohl übersehen, gestikulierte aber nur in der Luft rum, statt sich zu entschuldigen.
+5-1	498-501	Der	_	
+5-2	502-508	Fahrer	_	
+5-3	509-514	hatte	_	
+5-4	515-519	mich	_	
+5-5	520-524	wohl	_	
+5-6	525-534	übersehen	_	
+5-7	534-535	,	_	
+5-8	536-549	gestikulierte	_	
+5-9	550-554	aber	_	
+5-10	555-558	nur	_	
+5-11	559-561	in	_	
+5-12	562-565	der	_	
+5-13	566-570	Luft	_	
+5-14	571-574	rum	_	
+5-15	574-575	,	_	
+5-16	576-581	statt	_	
+5-17	582-586	sich	_	
+5-18	587-589	zu	_	
+5-19	590-603	entschuldigen	_	
+5-20	603-604	.	_	
+
+#Text=Das Hauptproblem sind die vom Venusberg kommenden Fahrzeuge auf der Graf-Stauffenberg-Straße.
+6-1	605-608	Das	_	
+6-2	609-621	Hauptproblem	_	
+6-3	622-626	sind	_	
+6-4	627-630	die	_	
+6-5	631-634	vom	_	
+6-6	635-644	Venusberg	_	
+6-7	645-654	kommenden	_	
+6-8	655-664	Fahrzeuge	_	
+6-9	665-668	auf	*[15]	
+6-10	669-672	der	*[15]	
+6-11	673-697	Graf-Stauffenberg-Straße	*[15]	
+6-12	697-698	.	_	
+
+#Text=Diese haben bergab ein hohes Tempo und warum auch immer übersehen sie häufig die von links im Verteilerkreis fahrenden Radler.
+7-1	699-704	Diese	_	
+7-2	705-710	haben	_	
+7-3	711-717	bergab	_	
+7-4	718-721	ein	_	
+7-5	722-727	hohes	_	
+7-6	728-733	Tempo	_	
+7-7	734-737	und	_	
+7-8	738-743	warum	_	
+7-9	744-748	auch	_	
+7-10	749-754	immer	_	
+7-11	755-764	übersehen	_	
+7-12	765-768	sie	_	
+7-13	769-775	häufig	_	
+7-14	776-779	die	_	
+7-15	780-783	von	_	
+7-16	784-789	links	_	
+7-17	790-792	im	_	
+7-18	793-807	Verteilerkreis	_	
+7-19	808-817	fahrenden	_	
+7-20	818-824	Radler	_	
+7-21	824-825	.	_	
+
+#Text=Mein Vorschlag: Tempo 30 auf diesem Straßenstück + andere bauliche Maßnahmen, um die Stelle zu entschärfen.
+8-1	826-830	Mein	_	
+8-2	831-840	Vorschlag	_	
+8-3	840-841	:	_	
+8-4	842-847	Tempo	_	
+8-5	848-850	30	_	
+8-6	851-854	auf	_	
+8-7	855-861	diesem	_	
+8-8	862-874	Straßenstück	_	
+8-9	875-876	+	_	
+8-10	877-883	andere	_	
+8-11	884-892	bauliche	_	
+8-12	893-902	Maßnahmen	_	
+8-13	902-903	,	_	
+8-14	904-906	um	_	
+8-15	907-910	die	_	
+8-16	911-917	Stelle	_	
+8-17	918-920	zu	_	
+8-18	921-932	entschärfen	_	
+8-19	932-933	.	_	
+
+#Text=Ich kann mir schwer vorstellen, dass hier noch nie etwas passiert ist.
+9-1	934-937	Ich	_	
+9-2	938-942	kann	_	
+9-3	943-946	mir	_	
+9-4	947-953	schwer	_	
+9-5	954-964	vorstellen	_	
+9-6	964-965	,	_	
+9-7	966-970	dass	_	
+9-8	971-975	hier	_	
+9-9	976-980	noch	_	
+9-10	981-984	nie	_	
+9-11	985-990	etwas	_	
+9-12	991-999	passiert	_	
+9-13	1000-1003	ist	_	
+9-14	1003-1004	.	_	
+
+#Text=Der Verteiler ist aber grundsätzlich gefährlich, eigentlich an allen Anschlussstellen.
+10-1	1005-1008	Der	_	
+10-2	1009-1018	Verteiler	_	
+10-3	1019-1022	ist	_	
+10-4	1023-1027	aber	_	
+10-5	1028-1041	grundsätzlich	_	
+10-6	1042-1052	gefährlich	_	
+10-7	1052-1053	,	_	
+10-8	1054-1064	eigentlich	_	
+10-9	1065-1067	an	_	
+10-10	1068-1073	allen	_	
+10-11	1074-1090	Anschlussstellen	_	
+10-12	1090-1091	.	_	
+
+#Text=Übrigens auch für Fußgänger, die die dortigen Zebrastreifen benutzen.
+11-1	1092-1100	Übrigens	_	
+11-2	1101-1105	auch	_	
+11-3	1106-1109	für	_	
+11-4	1110-1119	Fußgänger	_	
+11-5	1119-1120	,	_	
+11-6	1121-1124	die	_	
+11-7	1125-1128	die	_	
+11-8	1129-1137	dortigen	_	
+11-9	1138-1151	Zebrastreifen	_	
+11-10	1152-1160	benutzen	_	
+11-11	1160-1161	.	_	

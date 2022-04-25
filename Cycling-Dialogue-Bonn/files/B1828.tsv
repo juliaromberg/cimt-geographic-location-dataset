@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Unebene Fläche
+1-1	0-7	Unebene	_	
+1-2	8-14	Fläche	_	
+
+#Text=Die Radwege auf beide Seiten der Bahnschienen sind voll mit Würzeln und dadurch ist die Straßenfläche sehr uneben, kann zu unfälle führen...
+2-1	17-20	Die	_	
+2-2	21-28	Radwege	_	
+2-3	29-32	auf	_	
+2-4	33-38	beide	_	
+2-5	39-45	Seiten	_	
+2-6	46-49	der	_	
+2-7	50-62	Bahnschienen	_	
+2-8	63-67	sind	_	
+2-9	68-72	voll	_	
+2-10	73-76	mit	_	
+2-11	77-84	Würzeln	_	
+2-12	85-88	und	_	
+2-13	89-96	dadurch	_	
+2-14	97-100	ist	_	
+2-15	101-104	die	_	
+2-16	105-118	Straßenfläche	_	
+2-17	119-123	sehr	_	
+2-18	124-130	uneben	_	
+2-19	130-131	,	_	
+2-20	132-136	kann	_	
+2-21	137-139	zu	_	
+2-22	140-147	unfälle	_	
+2-23	148-154	führen	_	
+2-24	154-155	.	_	
+2-25	155-156	.	_	
+2-26	156-157	.	_	

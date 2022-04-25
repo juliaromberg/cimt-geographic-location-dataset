@@ -1,0 +1,53 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Abbiegesituation Richtung Moltkestraße
+1-1	0-16	Abbiegesituation	_	
+1-2	17-25	Richtung	*[4]	
+1-3	26-38	Moltkestraße	*[4]	
+
+#Text=Die Abbiegesituation Richtung Moltkestraße ist sehr schlecht, da innerhalb kürzester Zeit vom endenden Fahrradweg auf die linke Abbiegespur gewechselt werden muss.
+2-1	41-44	Die	_	
+2-2	45-61	Abbiegesituation	_	
+2-3	62-70	Richtung	*[5]	
+2-4	71-83	Moltkestraße	*[5]	
+2-5	84-87	ist	_	
+2-6	88-92	sehr	_	
+2-7	93-101	schlecht	_	
+2-8	101-102	,	_	
+2-9	103-105	da	_	
+2-10	106-115	innerhalb	_	
+2-11	116-125	kürzester	_	
+2-12	126-130	Zeit	_	
+2-13	131-134	vom	_	
+2-14	135-143	endenden	_	
+2-15	144-154	Fahrradweg	_	
+2-16	155-158	auf	_	
+2-17	159-162	die	_	
+2-18	163-168	linke	_	
+2-19	169-180	Abbiegespur	_	
+2-20	181-191	gewechselt	_	
+2-21	192-198	werden	_	
+2-22	199-203	muss	_	
+2-23	203-204	.	_	
+
+#Text=Einen konkreten Vorschlag kann ich aber leider nicht machen, da fehlt mir die Idee.
+3-1	205-210	Einen	_	
+3-2	211-220	konkreten	_	
+3-3	221-230	Vorschlag	_	
+3-4	231-235	kann	_	
+3-5	236-239	ich	_	
+3-6	240-244	aber	_	
+3-7	245-251	leider	_	
+3-8	252-257	nicht	_	
+3-9	258-264	machen	_	
+3-10	264-265	,	_	
+3-11	266-268	da	_	
+3-12	269-274	fehlt	_	
+3-13	275-278	mir	_	
+3-14	279-282	die	_	
+3-15	283-287	Idee	_	
+3-16	287-288	.	_	

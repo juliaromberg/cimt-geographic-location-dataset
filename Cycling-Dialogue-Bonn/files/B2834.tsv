@@ -1,0 +1,62 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Abbiegung zum Auenweg nicht ersichtlich
+1-1	0-9	Abbiegung	_	
+1-2	10-13	zum	_	
+1-3	14-21	Auenweg	_	
+1-4	22-27	nicht	_	
+1-5	28-39	ersichtlich	_	
+
+#Text=Die meisten Radfahrer aus Bonn fahren gerade in den schlechten, schmalen und von Fußgängern genutzten Uferweg weiter, anstatt hier nach rechts in den Auenweg einzubiegen.
+2-1	42-45	Die	_	
+2-2	46-53	meisten	_	
+2-3	54-63	Radfahrer	_	
+2-4	64-67	aus	*[4]	
+2-5	68-72	Bonn	*[4]	
+2-6	73-79	fahren	_	
+2-7	80-86	gerade	_	
+2-8	87-89	in	_	
+2-9	90-93	den	_	
+2-10	94-104	schlechten	_	
+2-11	104-105	,	_	
+2-12	106-114	schmalen	_	
+2-13	115-118	und	_	
+2-14	119-122	von	_	
+2-15	123-133	Fußgängern	_	
+2-16	134-143	genutzten	_	
+2-17	144-151	Uferweg	*	
+2-18	152-158	weiter	_	
+2-19	158-159	,	_	
+2-20	160-167	anstatt	_	
+2-21	168-172	hier	_	
+2-22	173-177	nach	_	
+2-23	178-184	rechts	_	
+2-24	185-187	in	_	
+2-25	188-191	den	_	
+2-26	192-199	Auenweg	_	
+2-27	200-211	einzubiegen	_	
+2-28	211-212	.	_	
+
+#Text=Vorschlag: Eine bessere Fahrbahnmarkierung der Abbiegung, oder gar Fahrradverbot des Uferwegs bis zum Sportplatz Hersel.
+3-1	213-222	Vorschlag	_	
+3-2	222-223	:	_	
+3-3	224-228	Eine	_	
+3-4	229-236	bessere	_	
+3-5	237-255	Fahrbahnmarkierung	_	
+3-6	256-259	der	_	
+3-7	260-269	Abbiegung	_	
+3-8	269-270	,	_	
+3-9	271-275	oder	_	
+3-10	276-279	gar	_	
+3-11	280-293	Fahrradverbot	_	
+3-12	294-297	des	_	
+3-13	298-306	Uferwegs	*[5]	
+3-14	307-310	bis	*[5]	
+3-15	311-314	zum	*[5]	
+3-16	315-325	Sportplatz	*[5]	
+3-17	326-332	Hersel	*[5]	
+3-18	332-333	.	_	

@@ -1,0 +1,112 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlaglochrisse auf der Mengenicher Straße zwischen am Hufenpfädchen und Pestalozzistraße
+1-1	0-15	Schlaglochrisse	_	
+1-2	16-19	auf	*[6]	
+1-3	20-23	der	*[6]	
+1-4	24-35	Mengenicher	*[6]	
+1-5	36-42	Straße	*[6]	
+1-6	43-51	zwischen	*[6]	
+1-7	52-54	am	*[6]	
+1-8	55-68	Hufenpfädchen	*[6]	
+1-9	69-72	und	*[6]	
+1-10	73-89	Pestalozzistraße	*[6]	
+
+#Text=die Fahrbahnseite zum See hin bzw. wenn man von der Pestalozzistraße auf die Mengenicher Straße abbiegt und Richtung Hufenpfädchen fährt, hat man alle 60 bis 120 m auf dem Fahrradstreifen, der mit den Autofahren geteilt wird tief Schlaglochrisse.
+2-1	92-95	die	_	
+2-2	96-109	Fahrbahnseite	_	
+2-3	110-113	zum	_	
+2-4	114-117	See	_	
+2-5	118-121	hin	_	
+2-6	122-125	bzw	_	
+2-7	125-126	.	_	
+2-8	127-131	wenn	_	
+2-9	132-135	man	_	
+2-10	136-139	von	*[7]	
+2-11	140-143	der	*[7]	
+2-12	144-160	Pestalozzistraße	*[7]	
+2-13	161-164	auf	*[7]	
+2-14	165-168	die	*[7]	
+2-15	169-180	Mengenicher	*[7]	
+2-16	181-187	Straße	*[7]	
+2-17	188-195	abbiegt	*[7]	
+2-18	196-199	und	*[7]	
+2-19	200-208	Richtung	*[7]	
+2-20	209-222	Hufenpfädchen	*[7]	
+2-21	223-228	fährt	_	
+2-22	228-229	,	_	
+2-23	230-233	hat	_	
+2-24	234-237	man	_	
+2-25	238-242	alle	_	
+2-26	243-245	60	_	
+2-27	246-249	bis	_	
+2-28	250-253	120	_	
+2-29	254-255	m	_	
+2-30	256-259	auf	_	
+2-31	260-263	dem	_	
+2-32	264-279	Fahrradstreifen	_	
+2-33	279-280	,	_	
+2-34	281-284	der	_	
+2-35	285-288	mit	_	
+2-36	289-292	den	_	
+2-37	293-303	Autofahren	_	
+2-38	304-311	geteilt	_	
+2-39	312-316	wird	_	
+2-40	317-321	tief	_	
+2-41	322-337	Schlaglochrisse	_	
+2-42	337-338	.	_	
+
+#Text=Wenn man diese Umfahren würde, ist man mit dem Rad fast auf der Mitte der Fahrbahn.
+3-1	339-343	Wenn	_	
+3-2	344-347	man	_	
+3-3	348-353	diese	_	
+3-4	354-362	Umfahren	_	
+3-5	363-368	würde	_	
+3-6	368-369	,	_	
+3-7	370-373	ist	_	
+3-8	374-377	man	_	
+3-9	378-381	mit	_	
+3-10	382-385	dem	_	
+3-11	386-389	Rad	_	
+3-12	390-394	fast	_	
+3-13	395-398	auf	_	
+3-14	399-402	der	_	
+3-15	403-408	Mitte	_	
+3-16	409-412	der	_	
+3-17	413-421	Fahrbahn	_	
+3-18	421-422	.	_	
+
+#Text=Dieser desulate Straßenzustand liegt seit über 18 Jahren vor und wird von Jahr zu Jahr schlechter.
+4-1	423-429	Dieser	_	
+4-2	430-438	desulate	_	
+4-3	439-453	Straßenzustand	_	
+4-4	454-459	liegt	_	
+4-5	460-464	seit	_	
+4-6	465-469	über	_	
+4-7	470-472	18	_	
+4-8	473-479	Jahren	_	
+4-9	480-483	vor	_	
+4-10	484-487	und	_	
+4-11	488-492	wird	_	
+4-12	493-496	von	_	
+4-13	497-501	Jahr	_	
+4-14	502-504	zu	_	
+4-15	505-509	Jahr	_	
+4-16	510-520	schlechter	_	
+4-17	520-521	.	_	
+
+#Text=Ein 30 cm breiter neuer Teerstreifen würde schon reichen.
+5-1	522-525	Ein	_	
+5-2	526-528	30	_	
+5-3	529-531	cm	_	
+5-4	532-539	breiter	_	
+5-5	540-545	neuer	_	
+5-6	546-558	Teerstreifen	_	
+5-7	559-564	würde	_	
+5-8	565-570	schon	_	
+5-9	571-578	reichen	_	
+5-10	578-579	.	_	

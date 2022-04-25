@@ -1,0 +1,101 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Für Fahrräder frei geben
+1-1	0-3	Für	_	
+1-2	4-13	Fahrräder	_	
+1-3	14-18	frei	_	
+1-4	19-24	geben	_	
+
+#Text=An dieser Stelle steht in Stein gemeißelt, dass das Radfahren in dieser Parkanlage verboten sei.
+2-1	27-29	An	_	
+2-2	30-36	dieser	_	
+2-3	37-43	Stelle	_	
+2-4	44-49	steht	_	
+2-5	50-52	in	_	
+2-6	53-58	Stein	_	
+2-7	59-68	gemeißelt	_	
+2-8	68-69	,	_	
+2-9	70-74	dass	_	
+2-10	75-78	das	_	
+2-11	79-88	Radfahren	_	
+2-12	89-91	in	_	
+2-13	92-98	dieser	_	
+2-14	99-109	Parkanlage	_	
+2-15	110-118	verboten	_	
+2-16	119-122	sei	_	
+2-17	122-123	.	_	
+
+#Text=Es ist allerdings so, dass diese Parkanlage eine hervorragende Alternativroute zum meist durch Falschparker zugeparkten Radstreifen auf der Subbelrather Straße darstellt.
+3-1	124-126	Es	_	
+3-2	127-130	ist	_	
+3-3	131-141	allerdings	_	
+3-4	142-144	so	_	
+3-5	144-145	,	_	
+3-6	146-150	dass	_	
+3-7	151-156	diese	_	
+3-8	157-167	Parkanlage	_	
+3-9	168-172	eine	_	
+3-10	173-186	hervorragende	_	
+3-11	187-202	Alternativroute	_	
+3-12	203-206	zum	_	
+3-13	207-212	meist	_	
+3-14	213-218	durch	_	
+3-15	219-231	Falschparker	_	
+3-16	232-243	zugeparkten	_	
+3-17	244-255	Radstreifen	*[7]	
+3-18	256-259	auf	*[7]	
+3-19	260-263	der	*[7]	
+3-20	264-276	Subbelrather	*[7]	
+3-21	277-283	Straße	*[7]	
+3-22	284-293	darstellt	_	
+3-23	293-294	.	_	
+
+#Text=In welcher Hinsicht ein solcher Verbotsstein empfehlenden oder weisenden Charakter hat, erschließt sich mir nicht.
+4-1	295-297	In	_	
+4-2	298-305	welcher	_	
+4-3	306-314	Hinsicht	_	
+4-4	315-318	ein	_	
+4-5	319-326	solcher	_	
+4-6	327-339	Verbotsstein	_	
+4-7	340-352	empfehlenden	_	
+4-8	353-357	oder	_	
+4-9	358-367	weisenden	_	
+4-10	368-377	Charakter	_	
+4-11	378-381	hat	_	
+4-12	381-382	,	_	
+4-13	383-393	erschließt	_	
+4-14	394-398	sich	_	
+4-15	399-402	mir	_	
+4-16	403-408	nicht	_	
+4-17	408-409	.	_	
+
+#Text=Er ist jedoch kaum zu lesen, wird deshalb nicht beachtet und nutzt daher niemandem.
+5-1	410-412	Er	_	
+5-2	413-416	ist	_	
+5-3	417-423	jedoch	_	
+5-4	424-428	kaum	_	
+5-5	429-431	zu	_	
+5-6	432-437	lesen	_	
+5-7	437-438	,	_	
+5-8	439-443	wird	_	
+5-9	444-451	deshalb	_	
+5-10	452-457	nicht	_	
+5-11	458-466	beachtet	_	
+5-12	467-470	und	_	
+5-13	471-476	nutzt	_	
+5-14	477-482	daher	_	
+5-15	483-492	niemandem	_	
+5-16	492-493	.	_	
+
+#Text=Vielleicht sollte er einfach entfernt werden.
+6-1	494-504	Vielleicht	_	
+6-2	505-511	sollte	_	
+6-3	512-514	er	_	
+6-4	515-522	einfach	_	
+6-5	523-531	entfernt	_	
+6-6	532-538	werden	_	
+6-7	538-539	.	_	

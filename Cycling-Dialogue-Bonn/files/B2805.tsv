@@ -1,0 +1,60 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bornheimer Straße für Radler kreuzgefährlich
+1-1	0-10	Bornheimer	*[4]	
+1-2	11-17	Straße	*[4]	
+1-3	18-21	für	_	
+1-4	22-28	Radler	_	
+1-5	29-44	kreuzgefährlich	_	
+
+#Text=Entlang der Bornheimer Straße ist Radfahren äußerst gefährlich, da zwischen engem Verkehr und parkenden Autos kaum Platz für Radfahrer bleibt.
+2-1	47-54	Entlang	*[5]	
+2-2	55-58	der	*[5]	
+2-3	59-69	Bornheimer	*[5]	
+2-4	70-76	Straße	*[5]	
+2-5	77-80	ist	_	
+2-6	81-90	Radfahren	_	
+2-7	91-98	äußerst	_	
+2-8	99-109	gefährlich	_	
+2-9	109-110	,	_	
+2-10	111-113	da	_	
+2-11	114-122	zwischen	_	
+2-12	123-128	engem	_	
+2-13	129-136	Verkehr	_	
+2-14	137-140	und	_	
+2-15	141-150	parkenden	_	
+2-16	151-156	Autos	_	
+2-17	157-161	kaum	_	
+2-18	162-167	Platz	_	
+2-19	168-171	für	_	
+2-20	172-181	Radfahrer	_	
+2-21	182-188	bleibt	_	
+2-22	188-189	.	_	
+
+#Text=Sich öffnende Autotüren unaufmerksamer Autofahrer stellen eine besondere Gefahr da, schlimmstenfalls fällt man direkt vor die Räder des heranbrausenden Verkehrs.
+3-1	190-194	Sich	_	
+3-2	195-203	öffnende	_	
+3-3	204-213	Autotüren	_	
+3-4	214-228	unaufmerksamer	_	
+3-5	229-239	Autofahrer	_	
+3-6	240-247	stellen	_	
+3-7	248-252	eine	_	
+3-8	253-262	besondere	_	
+3-9	263-269	Gefahr	_	
+3-10	270-272	da	_	
+3-11	272-273	,	_	
+3-12	274-290	schlimmstenfalls	_	
+3-13	291-296	fällt	_	
+3-14	297-300	man	_	
+3-15	301-307	direkt	_	
+3-16	308-311	vor	_	
+3-17	312-315	die	_	
+3-18	316-321	Räder	_	
+3-19	322-325	des	_	
+3-20	326-341	heranbrausenden	_	
+3-21	342-350	Verkehrs	_	
+3-22	350-351	.	_	

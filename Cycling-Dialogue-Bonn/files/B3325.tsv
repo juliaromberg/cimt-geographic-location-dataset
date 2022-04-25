@@ -1,0 +1,218 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Parken auf Radwegen
+1-1	0-6	Parken	_	
+1-2	7-10	auf	_	
+1-3	11-19	Radwegen	_	
+
+#Text=Ich fahre häufig dort lang oder vorher rechts über den Parkplatz von [Firma], [Firma] und [Firma].
+2-1	22-25	Ich	_	
+2-2	26-31	fahre	_	
+2-3	32-38	häufig	_	
+2-4	39-43	dort	_	
+2-5	44-48	lang	_	
+2-6	49-53	oder	_	
+2-7	54-60	vorher	_	
+2-8	61-67	rechts	_	
+2-9	68-72	über	_	
+2-10	73-76	den	_	
+2-11	77-86	Parkplatz	_	
+2-12	87-90	von	_	
+2-13	91-92	[	_	
+2-14	92-97	Firma	_	
+2-15	97-98	]	_	
+2-16	98-99	,	_	
+2-17	100-101	[	_	
+2-18	101-106	Firma	_	
+2-19	106-107	]	_	
+2-20	108-111	und	_	
+2-21	112-113	[	_	
+2-22	113-118	Firma	_	
+2-23	118-119	]	_	
+2-24	119-120	.	_	
+
+#Text=Auf dem Parkplatz muss man immer besonders auf Fussgänger achten, die scheinbar nur ihr Smartphone interessiert oder Ohrstöpsel tragen.
+3-1	121-124	Auf	_	
+3-2	125-128	dem	_	
+3-3	129-138	Parkplatz	_	
+3-4	139-143	muss	_	
+3-5	144-147	man	_	
+3-6	148-153	immer	_	
+3-7	154-163	besonders	_	
+3-8	164-167	auf	_	
+3-9	168-178	Fussgänger	_	
+3-10	179-185	achten	_	
+3-11	185-186	,	_	
+3-12	187-190	die	_	
+3-13	191-200	scheinbar	_	
+3-14	201-204	nur	_	
+3-15	205-208	ihr	_	
+3-16	209-219	Smartphone	_	
+3-17	220-232	interessiert	_	
+3-18	233-237	oder	_	
+3-19	238-248	Ohrstöpsel	_	
+3-20	249-255	tragen	_	
+3-21	255-256	.	_	
+
+#Text=Die scheuen nicht links nicht rechts und hören kein Klingeln.
+4-1	257-260	Die	_	
+4-2	261-268	scheuen	_	
+4-3	269-274	nicht	_	
+4-4	275-280	links	_	
+4-5	281-286	nicht	_	
+4-6	287-293	rechts	_	
+4-7	294-297	und	_	
+4-8	298-303	hören	_	
+4-9	304-308	kein	_	
+4-10	309-317	Klingeln	_	
+4-11	317-318	.	_	
+
+#Text=Aber fährt man über die Grootestrasse muß man aufpassen, das die PKW, die aus der Aus-/Einfahrt vom Einkaufcenter kommen, einen nicht umnieten.
+5-1	319-323	Aber	_	
+5-2	324-329	fährt	_	
+5-3	330-333	man	_	
+5-4	334-338	über	*[13]	
+5-5	339-342	die	*[13]	
+5-6	343-356	Grootestrasse	*[13]	
+5-7	357-360	muß	_	
+5-8	361-364	man	_	
+5-9	365-374	aufpassen	_	
+5-10	374-375	,	_	
+5-11	376-379	das	_	
+5-12	380-383	die	_	
+5-13	384-387	PKW	_	
+5-14	387-388	,	_	
+5-15	389-392	die	_	
+5-16	393-396	aus	_	
+5-17	397-400	der	_	
+5-18	401-404	Aus	_	
+5-19	404-405	-	_	
+5-20	405-406	/	_	
+5-21	406-414	Einfahrt	_	
+5-22	415-418	vom	_	
+5-23	419-432	Einkaufcenter	_	
+5-24	433-439	kommen	_	
+5-25	439-440	,	_	
+5-26	441-446	einen	_	
+5-27	447-452	nicht	_	
+5-28	453-461	umnieten	_	
+5-29	461-462	.	_	
+
+#Text=Dazu kommen oft Mülltonen und die PKW, die auf dem Radweg stehen.
+6-1	463-467	Dazu	_	
+6-2	468-474	kommen	_	
+6-3	475-478	oft	_	
+6-4	479-488	Mülltonen	_	
+6-5	489-492	und	_	
+6-6	493-496	die	_	
+6-7	497-500	PKW	_	
+6-8	500-501	,	_	
+6-9	502-505	die	_	
+6-10	506-509	auf	_	
+6-11	510-513	dem	_	
+6-12	514-520	Radweg	_	
+6-13	521-527	stehen	_	
+6-14	527-528	.	_	
+
+#Text=Oft auch auf dem Grünstreifen.
+7-1	529-532	Oft	_	
+7-2	533-537	auch	_	
+7-3	538-541	auf	_	
+7-4	542-545	dem	_	
+7-5	546-558	Grünstreifen	_	
+7-6	558-559	.	_	
+
+#Text=Da wo eigentlich gar nicht erlaubt.
+8-1	560-562	Da	_	
+8-2	563-565	wo	_	
+8-3	566-576	eigentlich	_	
+8-4	577-580	gar	_	
+8-5	581-586	nicht	_	
+8-6	587-594	erlaubt	_	
+8-7	594-595	.	_	
+
+#Text=Eine dort ansässige Firma parkt dann oft mit Firmenwagen oder mit LKW, dass kaum noch Platz ist.
+9-1	596-600	Eine	_	
+9-2	601-605	dort	_	
+9-3	606-615	ansässige	_	
+9-4	616-621	Firma	_	
+9-5	622-627	parkt	_	
+9-6	628-632	dann	_	
+9-7	633-636	oft	_	
+9-8	637-640	mit	_	
+9-9	641-652	Firmenwagen	_	
+9-10	653-657	oder	_	
+9-11	658-661	mit	_	
+9-12	662-665	LKW	_	
+9-13	665-666	,	_	
+9-14	667-671	dass	_	
+9-15	672-676	kaum	_	
+9-16	677-681	noch	_	
+9-17	682-687	Platz	_	
+9-18	688-691	ist	_	
+9-19	691-692	.	_	
+
+#Text=Ich kann das ja verstehen, das man dort Material verladen will, aber dann muß man trotzdem noch sicher dort vorbeikommen oder die Ladezeiten auf ein Mindestmaß beschränken.
+10-1	693-696	Ich	_	
+10-2	697-701	kann	_	
+10-3	702-705	das	_	
+10-4	706-708	ja	_	
+10-5	709-718	verstehen	_	
+10-6	718-719	,	_	
+10-7	720-723	das	_	
+10-8	724-727	man	_	
+10-9	728-732	dort	_	
+10-10	733-741	Material	_	
+10-11	742-750	verladen	_	
+10-12	751-755	will	_	
+10-13	755-756	,	_	
+10-14	757-761	aber	_	
+10-15	762-766	dann	_	
+10-16	767-770	muß	_	
+10-17	771-774	man	_	
+10-18	775-783	trotzdem	_	
+10-19	784-788	noch	_	
+10-20	789-795	sicher	_	
+10-21	796-800	dort	_	
+10-22	801-813	vorbeikommen	_	
+10-23	814-818	oder	_	
+10-24	819-822	die	_	
+10-25	823-833	Ladezeiten	_	
+10-26	834-837	auf	_	
+10-27	838-841	ein	_	
+10-28	842-852	Mindestmaß	_	
+10-29	853-864	beschränken	_	
+10-30	864-865	.	_	
+
+#Text=Man kann ja die Straßenverkehrordnung nicht einfach aus eigenem Interesse umgehen.
+11-1	866-869	Man	_	
+11-2	870-874	kann	_	
+11-3	875-877	ja	_	
+11-4	878-881	die	_	
+11-5	882-903	Straßenverkehrordnung	_	
+11-6	904-909	nicht	_	
+11-7	910-917	einfach	_	
+11-8	918-921	aus	_	
+11-9	922-929	eigenem	_	
+11-10	930-939	Interesse	_	
+11-11	940-947	umgehen	_	
+11-12	947-948	.	_	
+
+#Text=Sonst fährt demnächst Jeder bei rot, weil er es eilig hat.
+12-1	949-954	Sonst	_	
+12-2	955-960	fährt	_	
+12-3	961-970	demnächst	_	
+12-4	971-976	Jeder	_	
+12-5	977-980	bei	_	
+12-6	981-984	rot	_	
+12-7	984-985	,	_	
+12-8	986-990	weil	_	
+12-9	991-993	er	_	
+12-10	994-996	es	_	
+12-11	997-1002	eilig	_	
+12-12	1003-1006	hat	_	
+12-13	1006-1007	.	_	

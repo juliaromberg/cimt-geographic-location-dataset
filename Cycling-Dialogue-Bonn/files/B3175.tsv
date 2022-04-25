@@ -1,0 +1,26 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Stellplätze in allen Parkhäuser / Parkplätzen für Radfahrer freimachen
+1-1	0-11	Stellplätze	_	
+1-2	12-14	in	_	
+1-3	15-20	allen	_	
+1-4	21-31	Parkhäuser	_	
+1-5	32-33	/	_	
+1-6	34-45	Parkplätzen	_	
+1-7	46-49	für	_	
+1-8	50-59	Radfahrer	_	
+1-9	60-70	freimachen	_	
+
+#Text=Alle Parhäuser müssen für Radfahrer freie Plätze schaffen
+2-1	73-77	Alle	_	
+2-2	78-87	Parhäuser	_	
+2-3	88-94	müssen	_	
+2-4	95-98	für	_	
+2-5	99-108	Radfahrer	_	
+2-6	109-114	freie	_	
+2-7	115-121	Plätze	_	
+2-8	122-130	schaffen	_	

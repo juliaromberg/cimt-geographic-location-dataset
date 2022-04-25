@@ -1,0 +1,117 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstrassenregelung nicht sinnvoll
+1-1	0-23	Einbahnstrassenregelung	_	
+1-2	24-29	nicht	_	
+1-3	30-38	sinnvoll	_	
+
+#Text=Es ist schön und notwendig, dass wir Radler viele Einbahnstrassen in beide Richtungen nutzen können.
+2-1	41-43	Es	_	
+2-2	44-47	ist	_	
+2-3	48-53	schön	_	
+2-4	54-57	und	_	
+2-5	58-67	notwendig	_	
+2-6	67-68	,	_	
+2-7	69-73	dass	_	
+2-8	74-77	wir	_	
+2-9	78-84	Radler	_	
+2-10	85-90	viele	_	
+2-11	91-106	Einbahnstrassen	_	
+2-12	107-109	in	_	
+2-13	110-115	beide	_	
+2-14	116-126	Richtungen	_	
+2-15	127-133	nutzen	_	
+2-16	134-140	können	_	
+2-17	140-141	.	_	
+
+#Text=Leider besteht die regelung aus einem Flickenteppich.
+3-1	142-148	Leider	_	
+3-2	149-156	besteht	_	
+3-3	157-160	die	_	
+3-4	161-169	regelung	_	
+3-5	170-173	aus	_	
+3-6	174-179	einem	_	
+3-7	180-194	Flickenteppich	_	
+3-8	194-195	.	_	
+
+#Text=So ist z.B. die Gutenbergstr. nur teilweise für Radler in beide Richtungen befahrbar.
+4-1	196-198	So	_	
+4-2	199-202	ist	_	
+4-3	203-206	z.B	_	
+4-4	206-207	.	_	
+4-5	208-211	die	*[8]	
+4-6	212-224	Gutenbergstr	*[8]	
+4-7	224-225	.	_	
+4-8	226-229	nur	_	
+4-9	230-239	teilweise	_	
+4-10	240-243	für	_	
+4-11	244-250	Radler	_	
+4-12	251-253	in	_	
+4-13	254-259	beide	_	
+4-14	260-270	Richtungen	_	
+4-15	271-280	befahrbar	_	
+4-16	280-281	.	_	
+
+#Text=Zwischen Venloer Str und Stammstr. ist dies aber nicht der Fall.
+5-1	282-290	Zwischen	*[9]	
+5-2	291-298	Venloer	*[9]	
+5-3	299-302	Str	*[9]	
+5-4	303-306	und	*[9]	
+5-5	307-315	Stammstr	*[9]	
+5-6	315-316	.	_	
+5-7	317-320	ist	_	
+5-8	321-325	dies	_	
+5-9	326-330	aber	_	
+5-10	331-336	nicht	_	
+5-11	337-340	der	_	
+5-12	341-345	Fall	_	
+5-13	345-346	.	_	
+
+#Text=Unter anderem auch wegen dieser inkonsisten Regelung sind viele Autofahrer verwirrt und realisieren nicht, dass wir Radfahrer viele Einbhnstrassen in beide richtungen befahren dürfen.
+6-1	347-352	Unter	_	
+6-2	353-360	anderem	_	
+6-3	361-365	auch	_	
+6-4	366-371	wegen	_	
+6-5	372-378	dieser	_	
+6-6	379-390	inkonsisten	_	
+6-7	391-399	Regelung	_	
+6-8	400-404	sind	_	
+6-9	405-410	viele	_	
+6-10	411-421	Autofahrer	_	
+6-11	422-430	verwirrt	_	
+6-12	431-434	und	_	
+6-13	435-446	realisieren	_	
+6-14	447-452	nicht	_	
+6-15	452-453	,	_	
+6-16	454-458	dass	_	
+6-17	459-462	wir	_	
+6-18	463-472	Radfahrer	_	
+6-19	473-478	viele	_	
+6-20	479-493	Einbhnstrassen	_	
+6-21	494-496	in	_	
+6-22	497-502	beide	_	
+6-23	503-513	richtungen	_	
+6-24	514-522	befahren	_	
+6-25	523-529	dürfen	_	
+6-26	529-530	.	_	
+
+#Text=Es wäre sinnvoll, wenn wir Radfahrer alle Einbahnstrassen in beide Richtungen befahren dürften.
+7-1	531-533	Es	_	
+7-2	534-538	wäre	_	
+7-3	539-547	sinnvoll	_	
+7-4	547-548	,	_	
+7-5	549-553	wenn	_	
+7-6	554-557	wir	_	
+7-7	558-567	Radfahrer	_	
+7-8	568-572	alle	_	
+7-9	573-588	Einbahnstrassen	_	
+7-10	589-591	in	_	
+7-11	592-597	beide	_	
+7-12	598-608	Richtungen	_	
+7-13	609-617	befahren	_	
+7-14	618-625	dürften	_	
+7-15	625-626	.	_	

@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Bodenwellen
+1-1	0-11	Bodenwellen	_	
+
+#Text=Der Belag der Friedrich-Ebert-Allee in Richtung Stadt ist hier inzwischen so ausgefahren, dass ein sicheres Überqueren mit dem Rad nicht mehr möglich ist.
+2-1	14-17	Der	_	
+2-2	18-23	Belag	_	
+2-3	24-27	der	_	
+2-4	28-49	Friedrich-Ebert-Allee	*[3]	
+2-5	50-52	in	*[3]	
+2-6	53-61	Richtung	*[3]	
+2-7	62-67	Stadt	*[3]	
+2-8	68-71	ist	_	
+2-9	72-76	hier	_	
+2-10	77-87	inzwischen	_	
+2-11	88-90	so	_	
+2-12	91-102	ausgefahren	_	
+2-13	102-103	,	_	
+2-14	104-108	dass	_	
+2-15	109-112	ein	_	
+2-16	113-121	sicheres	_	
+2-17	122-132	Überqueren	_	
+2-18	133-136	mit	_	
+2-19	137-140	dem	_	
+2-20	141-144	Rad	_	
+2-21	145-150	nicht	_	
+2-22	151-155	mehr	_	
+2-23	156-163	möglich	_	
+2-24	164-167	ist	_	
+2-25	167-168	.	_	
+
+#Text=Verbesserung: Reduktion des Autoverkehrs zugunsten vom Radverkehr...
+3-1	169-181	Verbesserung	_	
+3-2	181-182	:	_	
+3-3	183-192	Reduktion	_	
+3-4	193-196	des	_	
+3-5	197-209	Autoverkehrs	_	
+3-6	210-219	zugunsten	_	
+3-7	220-223	vom	_	
+3-8	224-234	Radverkehr	_	
+3-9	234-235	.	_	
+3-10	235-236	.	_	
+3-11	236-237	.	_	

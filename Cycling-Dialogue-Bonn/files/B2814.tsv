@@ -1,0 +1,92 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sichere Radführung vor dem Kreisel und Radweg im Kreisel fehlt
+1-1	0-7	Sichere	_	
+1-2	8-18	Radführung	_	
+1-3	19-22	vor	_	
+1-4	23-26	dem	_	
+1-5	27-34	Kreisel	_	
+1-6	35-38	und	_	
+1-7	39-45	Radweg	_	
+1-8	46-48	im	_	
+1-9	49-56	Kreisel	_	
+1-10	57-62	fehlt	_	
+
+#Text=Der Kreisel ist für Radfahrer sehr gefährlich.
+2-1	65-68	Der	_	
+2-2	69-76	Kreisel	_	
+2-3	77-80	ist	_	
+2-4	81-84	für	_	
+2-5	85-94	Radfahrer	_	
+2-6	95-99	sehr	_	
+2-7	100-110	gefährlich	_	
+2-8	110-111	.	_	
+
+#Text=Von Limperich und von der Goetheallee Richtung Bahnhof kommend löst sich der Radweg bei der Zuführung auf den Kreisel in der enger werdenden Fahrbahn auf.
+3-1	112-115	Von	*[7]	
+3-2	116-125	Limperich	*[7]	
+3-3	126-129	und	*[7]	
+3-4	130-133	von	*[7]	
+3-5	134-137	der	*[7]	
+3-6	138-149	Goetheallee	*[7]	
+3-7	150-158	Richtung	*[7]	
+3-8	159-166	Bahnhof	*[7]	
+3-9	167-174	kommend	*[7]	
+3-10	175-179	löst	_	
+3-11	180-184	sich	_	
+3-12	185-188	der	_	
+3-13	189-195	Radweg	_	
+3-14	196-199	bei	_	
+3-15	200-203	der	_	
+3-16	204-213	Zuführung	_	
+3-17	214-217	auf	_	
+3-18	218-221	den	_	
+3-19	222-229	Kreisel	_	
+3-20	230-232	in	_	
+3-21	233-236	der	_	
+3-22	237-242	enger	_	
+3-23	243-252	werdenden	_	
+3-24	253-261	Fahrbahn	_	
+3-25	262-265	auf	_	
+3-26	265-266	.	_	
+
+#Text=Ihm Kreisel gibt es gar keine Markierung.
+4-1	267-270	Ihm	_	
+4-2	271-278	Kreisel	_	
+4-3	279-283	gibt	_	
+4-4	284-286	es	_	
+4-5	287-290	gar	_	
+4-6	291-296	keine	_	
+4-7	297-307	Markierung	_	
+4-8	307-308	.	_	
+
+#Text=Häufig wird man als Radfahrer sogar von Autofahrern im Kreisel überholt.
+5-1	309-315	Häufig	_	
+5-2	316-320	wird	_	
+5-3	321-324	man	_	
+5-4	325-328	als	_	
+5-5	329-338	Radfahrer	_	
+5-6	339-344	sogar	_	
+5-7	345-348	von	_	
+5-8	349-360	Autofahrern	_	
+5-9	361-363	im	_	
+5-10	364-371	Kreisel	_	
+5-11	372-380	überholt	_	
+5-12	380-381	.	_	
+
+#Text=Der Kreisel liegt zuem in der Nähe von mehreren Schulen.
+6-1	382-385	Der	_	
+6-2	386-393	Kreisel	_	
+6-3	394-399	liegt	_	
+6-4	400-404	zuem	_	
+6-5	405-407	in	_	
+6-6	408-411	der	_	
+6-7	412-416	Nähe	_	
+6-8	417-420	von	_	
+6-9	421-429	mehreren	_	
+6-10	430-437	Schulen	_	
+6-11	437-438	.	_	

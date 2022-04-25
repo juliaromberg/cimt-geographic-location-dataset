@@ -1,0 +1,101 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Kreuzung für Radfahrer eine Zumutung
+1-1	0-8	Kreuzung	_	
+1-2	9-12	für	_	
+1-3	13-22	Radfahrer	_	
+1-4	23-27	eine	_	
+1-5	28-36	Zumutung	_	
+
+#Text=Die Kreuzung B56/Niederkasseler Str. ist für Radfahrer eine Zumutung und eine Lebensgefahr.
+2-1	39-42	Die	*[7]	
+2-2	43-51	Kreuzung	*[7]	
+2-3	52-55	B56	*[7]	
+2-4	55-56	/	*[7]	
+2-5	56-70	Niederkasseler	*[7]	
+2-6	71-74	Str	*[7]	
+2-7	74-75	.	*[7]	
+2-8	76-79	ist	_	
+2-9	80-83	für	_	
+2-10	84-93	Radfahrer	_	
+2-11	94-98	eine	_	
+2-12	99-107	Zumutung	_	
+2-13	108-111	und	_	
+2-14	112-116	eine	_	
+2-15	117-129	Lebensgefahr	_	
+2-16	129-130	.	_	
+
+#Text=Der Wartebereich während einer Rotphase ist sehr klein.
+3-1	131-134	Der	_	
+3-2	135-147	Wartebereich	_	
+3-3	148-155	während	_	
+3-4	156-161	einer	_	
+3-5	162-170	Rotphase	_	
+3-6	171-174	ist	_	
+3-7	175-179	sehr	_	
+3-8	180-185	klein	_	
+3-9	185-186	.	_	
+
+#Text=Mit Anhänger hat man fast gar keinen Platz.
+4-1	187-190	Mit	_	
+4-2	191-199	Anhänger	_	
+4-3	200-203	hat	_	
+4-4	204-207	man	_	
+4-5	208-212	fast	_	
+4-6	213-216	gar	_	
+4-7	217-223	keinen	_	
+4-8	224-229	Platz	_	
+4-9	229-230	.	_	
+
+#Text=Die LKWs und Autos fahren mit hoher Geschwindigkeit nur Zentimeter an den wartenden Radfahrern vorbei.
+5-1	231-234	Die	_	
+5-2	235-239	LKWs	_	
+5-3	240-243	und	_	
+5-4	244-249	Autos	_	
+5-5	250-256	fahren	_	
+5-6	257-260	mit	_	
+5-7	261-266	hoher	_	
+5-8	267-282	Geschwindigkeit	_	
+5-9	283-286	nur	_	
+5-10	287-297	Zentimeter	_	
+5-11	298-300	an	_	
+5-12	301-304	den	_	
+5-13	305-314	wartenden	_	
+5-14	315-325	Radfahrern	_	
+5-15	326-332	vorbei	_	
+5-16	332-333	.	_	
+
+#Text=Ein wartendes Kind, das sein Rad noch nicht jeden Moment unter der vollen Kontrolle hat, läuft ständig Gefahr, mit dem Autoverkehr in Berührung zu kommen.
+6-1	334-337	Ein	_	
+6-2	338-347	wartendes	_	
+6-3	348-352	Kind	_	
+6-4	352-353	,	_	
+6-5	354-357	das	_	
+6-6	358-362	sein	_	
+6-7	363-366	Rad	_	
+6-8	367-371	noch	_	
+6-9	372-377	nicht	_	
+6-10	378-383	jeden	_	
+6-11	384-390	Moment	_	
+6-12	391-396	unter	_	
+6-13	397-400	der	_	
+6-14	401-407	vollen	_	
+6-15	408-417	Kontrolle	_	
+6-16	418-421	hat	_	
+6-17	421-422	,	_	
+6-18	423-428	läuft	_	
+6-19	429-436	ständig	_	
+6-20	437-443	Gefahr	_	
+6-21	443-444	,	_	
+6-22	445-448	mit	_	
+6-23	449-452	dem	_	
+6-24	453-464	Autoverkehr	_	
+6-25	465-467	in	_	
+6-26	468-477	Berührung	_	
+6-27	478-480	zu	_	
+6-28	481-487	kommen	_	
+6-29	487-488	.	_	

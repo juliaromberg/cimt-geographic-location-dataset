@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Verkehrsführung, da Radweg für Autofahrer nicht einsehbar ist.
+1-1	0-11	Gefährliche	_	
+1-2	12-27	Verkehrsführung	_	
+1-3	27-28	,	_	
+1-4	29-31	da	_	
+1-5	32-38	Radweg	_	
+1-6	39-42	für	_	
+1-7	43-53	Autofahrer	_	
+1-8	54-59	nicht	_	
+1-9	60-69	einsehbar	_	
+1-10	70-73	ist	_	
+1-11	73-74	.	_	
+
+#Text=An der Kreuzung Auf dem Kirchweg/ Reichsstraße haben Autofahrer von Auf dem Kirchweg kommend keine Sicht auf den Fuß- & Radweg in Richtung Meckenheim.
+2-1	77-79	An	*[5]	
+2-2	80-83	der	*[5]	
+2-3	84-92	Kreuzung	*[5]	
+2-4	93-96	Auf	*[5]	
+2-5	97-100	dem	*[5]	
+2-6	101-109	Kirchweg	*[5]	
+2-7	109-110	/	*[5]	
+2-8	111-123	Reichsstraße	*[5]	
+2-9	124-129	haben	_	
+2-10	130-140	Autofahrer	_	
+2-11	141-144	von	*[6]	
+2-12	145-148	Auf	*[6]	
+2-13	149-152	dem	*[6]	
+2-14	153-161	Kirchweg	*[6]	
+2-15	162-169	kommend	*[6]	
+2-16	170-175	keine	_	
+2-17	176-181	Sicht	_	
+2-18	182-185	auf	_	
+2-19	186-189	den	_	
+2-20	190-193	Fuß	_	
+2-21	193-194	-	_	
+2-22	195-196	&	_	
+2-23	197-203	Radweg	_	
+2-24	204-206	in	_	
+2-25	207-215	Richtung	*[7]	
+2-26	216-226	Meckenheim	*[7]	
+2-27	226-227	.	_	
+
+#Text=Nur wenn der Autofahrer selbst auf dem Radweg steht, kann er kommende Radfahrer sehen.
+3-1	228-231	Nur	_	
+3-2	232-236	wenn	_	
+3-3	237-240	der	_	
+3-4	241-251	Autofahrer	_	
+3-5	252-258	selbst	_	
+3-6	259-262	auf	_	
+3-7	263-266	dem	_	
+3-8	267-273	Radweg	_	
+3-9	274-279	steht	_	
+3-10	279-280	,	_	
+3-11	281-285	kann	_	
+3-12	286-288	er	_	
+3-13	289-297	kommende	_	
+3-14	298-307	Radfahrer	_	
+3-15	308-313	sehen	_	
+3-16	313-314	.	_	
+
+#Text=Spiegel könnten die Gefahr etwas entschärfen.
+4-1	315-322	Spiegel	_	
+4-2	323-330	könnten	_	
+4-3	331-334	die	_	
+4-4	335-341	Gefahr	_	
+4-5	342-347	etwas	_	
+4-6	348-359	entschärfen	_	
+4-7	359-360	.	_	

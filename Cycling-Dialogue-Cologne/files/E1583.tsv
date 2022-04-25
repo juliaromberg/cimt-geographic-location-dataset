@@ -1,0 +1,283 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Pilotprojekt Nur Fahrradparkplätze und Ladezone für den Liefervekehr und Anwohner auf der Venloer Straße
+1-1	0-12	Pilotprojekt	_	
+1-2	13-16	Nur	_	
+1-3	17-34	Fahrradparkplätze	_	
+1-4	35-38	und	_	
+1-5	39-47	Ladezone	_	
+1-6	48-51	für	_	
+1-7	52-55	den	_	
+1-8	56-68	Liefervekehr	_	
+1-9	69-72	und	_	
+1-10	73-81	Anwohner	_	
+1-11	82-85	auf	*[15]	
+1-12	86-89	der	*[15]	
+1-13	90-97	Venloer	*[15]	
+1-14	98-104	Straße	*[15]	
+
+#Text=[Hinweis der Moderation: Beitrag aktualisiert am 11.10.2017, aber inhaltlich unverändert]
+2-1	107-108	[	_	
+2-2	108-115	Hinweis	_	
+2-3	116-119	der	_	
+2-4	120-130	Moderation	_	
+2-5	130-131	:	_	
+2-6	132-139	Beitrag	_	
+2-7	140-152	aktualisiert	_	
+2-8	153-155	am	_	
+2-9	156-166	11.10.2017	_	
+2-10	166-167	,	_	
+2-11	168-172	aber	_	
+2-12	173-183	inhaltlich	_	
+2-13	184-195	unverändert	_	
+2-14	195-196	]	_	
+
+#Text=Die Venloer Straße ist sowohl die Hauptstraße zwischen der Innenstadt und Ehrenfeld als auch die Haupteinkaufstraße für die Menschen im Veedel.
+3-1	197-200	Die	*[16]	
+3-2	201-208	Venloer	*[16]	
+3-3	209-215	Straße	*[16]	
+3-4	216-219	ist	_	
+3-5	220-226	sowohl	_	
+3-6	227-230	die	_	
+3-7	231-242	Hauptstraße	_	
+3-8	243-251	zwischen	*[17]	
+3-9	252-255	der	*[17]	
+3-10	256-266	Innenstadt	*[17]	
+3-11	267-270	und	*[17]	
+3-12	271-280	Ehrenfeld	*[17]	
+3-13	281-284	als	_	
+3-14	285-289	auch	_	
+3-15	290-293	die	_	
+3-16	294-312	Haupteinkaufstraße	_	
+3-17	313-316	für	_	
+3-18	317-320	die	_	
+3-19	321-329	Menschen	_	
+3-20	330-332	im	_	
+3-21	333-339	Veedel	_	
+3-22	339-340	.	_	
+
+#Text=Diese kaufen zu einem großen Teil zu Fuß oder mit dem Rad ein.
+4-1	341-346	Diese	_	
+4-2	347-353	kaufen	_	
+4-3	354-356	zu	_	
+4-4	357-362	einem	_	
+4-5	363-369	großen	_	
+4-6	370-374	Teil	_	
+4-7	375-377	zu	_	
+4-8	378-381	Fuß	_	
+4-9	382-386	oder	_	
+4-10	387-390	mit	_	
+4-11	391-394	dem	_	
+4-12	395-398	Rad	_	
+4-13	399-402	ein	_	
+4-14	402-403	.	_	
+
+#Text=Nur wenige wählen das Auto um ihre Einkäufe zu tätigen.
+5-1	404-407	Nur	_	
+5-2	408-414	wenige	_	
+5-3	415-421	wählen	_	
+5-4	422-425	das	_	
+5-5	426-430	Auto	_	
+5-6	431-433	um	_	
+5-7	434-438	ihre	_	
+5-8	439-447	Einkäufe	_	
+5-9	448-450	zu	_	
+5-10	451-458	tätigen	_	
+5-11	458-459	.	_	
+
+#Text=Um dem hohen Aufkommen von Radfahrern gerecht zu werden, gibt es auf der Venloer Straße eindeutig zu wenige Abstellmöglichkeiten für das Rad.
+6-1	460-462	Um	_	
+6-2	463-466	dem	_	
+6-3	467-472	hohen	_	
+6-4	473-482	Aufkommen	_	
+6-5	483-486	von	_	
+6-6	487-497	Radfahrern	_	
+6-7	498-505	gerecht	_	
+6-8	506-508	zu	_	
+6-9	509-515	werden	_	
+6-10	515-516	,	_	
+6-11	517-521	gibt	_	
+6-12	522-524	es	_	
+6-13	525-528	auf	*[18]	
+6-14	529-532	der	*[18]	
+6-15	533-540	Venloer	*[18]	
+6-16	541-547	Straße	*[18]	
+6-17	548-557	eindeutig	_	
+6-18	558-560	zu	_	
+6-19	561-567	wenige	_	
+6-20	568-588	Abstellmöglichkeiten	_	
+6-21	589-592	für	_	
+6-22	593-596	das	_	
+6-23	597-600	Rad	_	
+6-24	600-601	.	_	
+
+#Text=Meist stehen die Fahrräder auf den Gehwegen wodurch sie die Fußgänger behindern.
+7-1	602-607	Meist	_	
+7-2	608-614	stehen	_	
+7-3	615-618	die	_	
+7-4	619-628	Fahrräder	_	
+7-5	629-632	auf	_	
+7-6	633-636	den	_	
+7-7	637-645	Gehwegen	_	
+7-8	646-653	wodurch	_	
+7-9	654-657	sie	_	
+7-10	658-661	die	_	
+7-11	662-671	Fußgänger	_	
+7-12	672-681	behindern	_	
+7-13	681-682	.	_	
+
+#Text=Zudem gibt es größtenteils keinerlei Möglichkeiten um die Fahrräder ordentlich abzuschließen, da sogenannte Haarnadeln oder Ähnliches weitestgehend fehlen.
+8-1	683-688	Zudem	_	
+8-2	689-693	gibt	_	
+8-3	694-696	es	_	
+8-4	697-709	größtenteils	_	
+8-5	710-719	keinerlei	_	
+8-6	720-733	Möglichkeiten	_	
+8-7	734-736	um	_	
+8-8	737-740	die	_	
+8-9	741-750	Fahrräder	_	
+8-10	751-761	ordentlich	_	
+8-11	762-775	abzuschließen	_	
+8-12	775-776	,	_	
+8-13	777-779	da	_	
+8-14	780-790	sogenannte	_	
+8-15	791-801	Haarnadeln	_	
+8-16	802-806	oder	_	
+8-17	807-816	Ähnliches	_	
+8-18	817-830	weitestgehend	_	
+8-19	831-837	fehlen	_	
+8-20	837-838	.	_	
+
+#Text=Obwohl es mehr als 3 Parkhäuser (Bathonia-, Neptun- und Moscheeparkhaus) in unmittelbarer Nähe gibt, sind immer noch viele Parkplätze auf der Venloer Straße vorhanden.
+9-1	839-845	Obwohl	_	
+9-2	846-848	es	_	
+9-3	849-853	mehr	_	
+9-4	854-857	als	_	
+9-5	858-859	3	_	
+9-6	860-870	Parkhäuser	_	
+9-7	871-872	(	_	
+9-8	872-880	Bathonia	*[19]	
+9-9	880-881	-	*[19]	
+9-10	881-882	,	*[19]	
+9-11	883-889	Neptun	*[19]	
+9-12	889-890	-	*[19]	
+9-13	891-894	und	*[19]	
+9-14	895-910	Moscheeparkhaus	*[19]	
+9-15	910-911	)	_	
+9-16	912-914	in	_	
+9-17	915-928	unmittelbarer	_	
+9-18	929-933	Nähe	_	
+9-19	934-938	gibt	_	
+9-20	938-939	,	_	
+9-21	940-944	sind	_	
+9-22	945-950	immer	_	
+9-23	951-955	noch	_	
+9-24	956-961	viele	_	
+9-25	962-972	Parkplätze	_	
+9-26	973-976	auf	*[20]	
+9-27	977-980	der	*[20]	
+9-28	981-988	Venloer	*[20]	
+9-29	989-995	Straße	*[20]	
+9-30	996-1005	vorhanden	_	
+9-31	1005-1006	.	_	
+
+#Text=1. Diese Parkplätze behindern und gefährden die Fahrradfahrer auf dem ohnehin zu schmalen Fahrradweg.
+10-1	1007-1008	1	_	
+10-2	1008-1009	.	_	
+10-3	1010-1015	Diese	_	
+10-4	1016-1026	Parkplätze	_	
+10-5	1027-1036	behindern	_	
+10-6	1037-1040	und	_	
+10-7	1041-1050	gefährden	_	
+10-8	1051-1054	die	_	
+10-9	1055-1068	Fahrradfahrer	_	
+10-10	1069-1072	auf	_	
+10-11	1073-1076	dem	_	
+10-12	1077-1084	ohnehin	_	
+10-13	1085-1087	zu	_	
+10-14	1088-1096	schmalen	_	
+10-15	1097-1107	Fahrradweg	_	
+10-16	1107-1108	.	_	
+
+#Text=2. Der Anlieferungsverkehr ist dauerhaft gezwungen auf der Straße zu stehen, da es an flächendeckenden Ladezonen fehlt.
+11-1	1109-1110	2	_	
+11-2	1110-1111	.	_	
+11-3	1112-1115	Der	_	
+11-4	1116-1135	Anlieferungsverkehr	_	
+11-5	1136-1139	ist	_	
+11-6	1140-1149	dauerhaft	_	
+11-7	1150-1159	gezwungen	_	
+11-8	1160-1163	auf	_	
+11-9	1164-1167	der	_	
+11-10	1168-1174	Straße	_	
+11-11	1175-1177	zu	_	
+11-12	1178-1184	stehen	_	
+11-13	1184-1185	,	_	
+11-14	1186-1188	da	_	
+11-15	1189-1191	es	_	
+11-16	1192-1194	an	_	
+11-17	1195-1211	flächendeckenden	_	
+11-18	1212-1221	Ladezonen	_	
+11-19	1222-1227	fehlt	_	
+11-20	1227-1228	.	_	
+
+#Text=Dies hindert den Verkehrsfluss enorm und führt zur Gefährdung der Fahrradfahrer.
+12-1	1229-1233	Dies	_	
+12-2	1234-1241	hindert	_	
+12-3	1242-1245	den	_	
+12-4	1246-1259	Verkehrsfluss	_	
+12-5	1260-1265	enorm	_	
+12-6	1266-1269	und	_	
+12-7	1270-1275	führt	_	
+12-8	1276-1279	zur	_	
+12-9	1280-1290	Gefährdung	_	
+12-10	1291-1294	der	_	
+12-11	1295-1308	Fahrradfahrer	_	
+12-12	1308-1309	.	_	
+
+#Text=Mein Vorschlag: Alle Parkplätze sollten nur für Ladezonen des Lieferverkehr und Anwohner, sowie Fahrradabstellplätze genutzt werden.
+13-1	1310-1314	Mein	_	
+13-2	1315-1324	Vorschlag	_	
+13-3	1324-1325	:	_	
+13-4	1326-1330	Alle	_	
+13-5	1331-1341	Parkplätze	_	
+13-6	1342-1349	sollten	_	
+13-7	1350-1353	nur	_	
+13-8	1354-1357	für	_	
+13-9	1358-1367	Ladezonen	_	
+13-10	1368-1371	des	_	
+13-11	1372-1385	Lieferverkehr	_	
+13-12	1386-1389	und	_	
+13-13	1390-1398	Anwohner	_	
+13-14	1398-1399	,	_	
+13-15	1400-1405	sowie	_	
+13-16	1406-1426	Fahrradabstellplätze	_	
+13-17	1427-1434	genutzt	_	
+13-18	1435-1441	werden	_	
+13-19	1441-1442	.	_	
+
+#Text=Abwechselnd sollen 1-2 Parktaschen für Lieferzonen und 1-2 Parktaschen für Fahrradstellplätze mit Haarnadeln umfunktioniert werden.
+14-1	1443-1454	Abwechselnd	_	
+14-2	1455-1461	sollen	_	
+14-3	1462-1463	1	_	
+14-4	1463-1464	-	_	
+14-5	1464-1465	2	_	
+14-6	1466-1477	Parktaschen	_	
+14-7	1478-1481	für	_	
+14-8	1482-1493	Lieferzonen	_	
+14-9	1494-1497	und	_	
+14-10	1498-1499	1	_	
+14-11	1499-1500	-	_	
+14-12	1500-1501	2	_	
+14-13	1502-1513	Parktaschen	_	
+14-14	1514-1517	für	_	
+14-15	1518-1536	Fahrradstellplätze	_	
+14-16	1537-1540	mit	_	
+14-17	1541-1551	Haarnadeln	_	
+14-18	1552-1566	umfunktioniert	_	
+14-19	1567-1573	werden	_	
+14-20	1573-1574	.	_	

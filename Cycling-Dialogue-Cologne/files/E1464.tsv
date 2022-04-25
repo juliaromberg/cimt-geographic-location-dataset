@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Freilaufender Rechtsabbieger
+1-1	0-13	Freilaufender	_	
+1-2	14-28	Rechtsabbieger	_	
+
+#Text=Die freilaufenden Rechtsabbieger sind ja alle ziemlich gruselig, dieser hier stört mich aber besonders.
+2-1	31-34	Die	_	
+2-2	35-48	freilaufenden	_	
+2-3	49-63	Rechtsabbieger	_	
+2-4	64-68	sind	_	
+2-5	69-71	ja	_	
+2-6	72-76	alle	_	
+2-7	77-85	ziemlich	_	
+2-8	86-94	gruselig	_	
+2-9	94-95	,	_	
+2-10	96-102	dieser	_	
+2-11	103-107	hier	_	
+2-12	108-113	stört	_	
+2-13	114-118	mich	_	
+2-14	119-123	aber	_	
+2-15	124-133	besonders	_	
+2-16	133-134	.	_	
+
+#Text=Von der Weinsbegerstraße aus kommend führt einen der Radweg nämlich in eine deutliche Kurve nach rechts.
+3-1	135-138	Von	*[5]	
+3-2	139-142	der	*[5]	
+3-3	143-159	Weinsbegerstraße	*[5]	
+3-4	160-163	aus	*[5]	
+3-5	164-171	kommend	*[5]	
+3-6	172-177	führt	_	
+3-7	178-183	einen	_	
+3-8	184-187	der	_	
+3-9	188-194	Radweg	_	
+3-10	195-202	nämlich	_	
+3-11	203-205	in	_	
+3-12	206-210	eine	_	
+3-13	211-220	deutliche	_	
+3-14	221-226	Kurve	_	
+3-15	227-231	nach	_	
+3-16	232-238	rechts	_	
+3-17	238-239	.	_	
+
+#Text=Wenn man geradeaus über die Innere Kanalstraße fahren möchte, muß man höllisch aufpassen, dass die Autofahrer einen wahrnehmen.
+4-1	240-244	Wenn	_	
+4-2	245-248	man	_	
+4-3	249-258	geradeaus	*[6]	
+4-4	259-263	über	*[6]	
+4-5	264-267	die	*[6]	
+4-6	268-274	Innere	*[6]	
+4-7	275-286	Kanalstraße	*[6]	
+4-8	287-293	fahren	_	
+4-9	294-300	möchte	_	
+4-10	300-301	,	_	
+4-11	302-305	muß	_	
+4-12	306-309	man	_	
+4-13	310-318	höllisch	_	
+4-14	319-328	aufpassen	_	
+4-15	328-329	,	_	
+4-16	330-334	dass	_	
+4-17	335-338	die	_	
+4-18	339-349	Autofahrer	_	
+4-19	350-355	einen	_	
+4-20	356-366	wahrnehmen	_	
+4-21	366-367	.	_	

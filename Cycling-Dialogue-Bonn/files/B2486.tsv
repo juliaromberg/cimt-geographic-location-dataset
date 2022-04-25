@@ -1,0 +1,57 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=unübersichtlicher Kreuztungsbereich
+1-1	0-17	unübersichtlicher	_	
+1-2	18-35	Kreuztungsbereich	_	
+
+#Text=Der markierte Radstreifen (vom Moltkeplatz kommend) endet kurz vor der Kreuzung zur Paul-Kemp-Straße auf einem markierten Parkplatz für PKW, so daß man im Kurvenbereich zur Straßenmitte ausweichen muß.
+2-1	38-41	Der	_	
+2-2	42-51	markierte	_	
+2-3	52-63	Radstreifen	_	
+2-4	64-65	(	_	
+2-5	65-68	vom	*[4]	
+2-6	69-80	Moltkeplatz	*[4]	
+2-7	81-88	kommend	*[4]	
+2-8	88-89	)	_	
+2-9	90-95	endet	_	
+2-10	96-100	kurz	*[5]	
+2-11	101-104	vor	*[5]	
+2-12	105-108	der	*[5]	
+2-13	109-117	Kreuzung	*[5]	
+2-14	118-121	zur	*[5]	
+2-15	122-138	Paul-Kemp-Straße	*[5]	
+2-16	139-142	auf	_	
+2-17	143-148	einem	_	
+2-18	149-159	markierten	_	
+2-19	160-169	Parkplatz	_	
+2-20	170-173	für	_	
+2-21	174-177	PKW	_	
+2-22	177-178	,	_	
+2-23	179-181	so	_	
+2-24	182-185	daß	_	
+2-25	186-189	man	_	
+2-26	190-192	im	_	
+2-27	193-206	Kurvenbereich	_	
+2-28	207-210	zur	_	
+2-29	211-223	Straßenmitte	_	
+2-30	224-234	ausweichen	_	
+2-31	235-238	muß	_	
+2-32	238-239	.	_	
+
+#Text=Die Ecke ist äußerst unübersichtlich für Radfahrer wie für entgegenkommende Autofahrer .
+3-1	240-243	Die	_	
+3-2	244-248	Ecke	_	
+3-3	249-252	ist	_	
+3-4	253-260	äußerst	_	
+3-5	261-276	unübersichtlich	_	
+3-6	277-280	für	_	
+3-7	281-290	Radfahrer	_	
+3-8	291-294	wie	_	
+3-9	295-298	für	_	
+3-10	299-315	entgegenkommende	_	
+3-11	316-326	Autofahrer	_	
+3-12	327-328	.	_	

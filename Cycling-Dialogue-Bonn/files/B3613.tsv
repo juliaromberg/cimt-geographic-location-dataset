@@ -1,0 +1,91 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg wechselt plötzlich von der Straße auf den Parkplatz und wieder zurück
+1-1	0-6	Radweg	_	
+1-2	7-15	wechselt	_	
+1-3	16-25	plötzlich	_	
+1-4	26-29	von	_	
+1-5	30-33	der	_	
+1-6	34-40	Straße	_	
+1-7	41-44	auf	_	
+1-8	45-48	den	_	
+1-9	49-58	Parkplatz	_	
+1-10	59-62	und	_	
+1-11	63-69	wieder	_	
+1-12	70-76	zurück	_	
+
+#Text=Auf der Thomastraße richtung Hauptbahnhof endet an dieser Stelle plötzlich der Fahrradschutzstreifen.
+2-1	79-82	Auf	*[7]	
+2-2	83-86	der	*[7]	
+2-3	87-98	Thomastraße	*[7]	
+2-4	99-107	richtung	*[7]	
+2-5	108-120	Hauptbahnhof	*[7]	
+2-6	121-126	endet	_	
+2-7	127-129	an	_	
+2-8	130-136	dieser	_	
+2-9	137-143	Stelle	_	
+2-10	144-153	plötzlich	_	
+2-11	154-157	der	_	
+2-12	158-179	Fahrradschutzstreifen	_	
+2-13	179-180	.	_	
+
+#Text=Man soll offensichtlich den Parkplatz verwenden.
+3-1	181-184	Man	_	
+3-2	185-189	soll	_	
+3-3	190-204	offensichtlich	_	
+3-4	205-208	den	_	
+3-5	209-218	Parkplatz	_	
+3-6	219-228	verwenden	_	
+3-7	228-229	.	_	
+
+#Text=Nach Hundert Metern auf dem Parkplatz führt der Weg wieder unvermittelt auf die Straße.
+4-1	230-234	Nach	_	
+4-2	235-242	Hundert	_	
+4-3	243-249	Metern	_	
+4-4	250-253	auf	_	
+4-5	254-257	dem	_	
+4-6	258-267	Parkplatz	_	
+4-7	268-273	führt	_	
+4-8	274-277	der	_	
+4-9	278-281	Weg	_	
+4-10	282-288	wieder	_	
+4-11	289-301	unvermittelt	_	
+4-12	302-305	auf	_	
+4-13	306-309	die	_	
+4-14	310-316	Straße	_	
+4-15	316-317	.	_	
+
+#Text=Die fortführung des Radfahrschutzstreifens auf der Straße wäre sinnvoller.
+5-1	318-321	Die	_	
+5-2	322-333	fortführung	_	
+5-3	334-337	des	_	
+5-4	338-360	Radfahrschutzstreifens	_	
+5-5	361-364	auf	_	
+5-6	365-368	der	_	
+5-7	369-375	Straße	_	
+5-8	376-380	wäre	_	
+5-9	381-391	sinnvoller	_	
+5-10	391-392	.	_	
+
+#Text=Diese Art der Streckenführung (wechsel zwischen Straße und Fußgängerweg) ist leider typisch für Bonn.
+6-1	393-398	Diese	_	
+6-2	399-402	Art	_	
+6-3	403-406	der	_	
+6-4	407-422	Streckenführung	_	
+6-5	423-424	(	_	
+6-6	424-431	wechsel	_	
+6-7	432-440	zwischen	_	
+6-8	441-447	Straße	_	
+6-9	448-451	und	_	
+6-10	452-464	Fußgängerweg	_	
+6-11	464-465	)	_	
+6-12	466-469	ist	_	
+6-13	470-476	leider	_	
+6-14	477-484	typisch	_	
+6-15	485-488	für	_	
+6-16	489-493	Bonn	*	
+6-17	493-494	.	_	

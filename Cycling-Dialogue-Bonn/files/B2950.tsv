@@ -1,0 +1,123 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradunfreundliche Verkehrsführung
+1-1	0-20	Fahrradunfreundliche	_	
+1-2	21-36	Verkehrsführung	_	
+
+#Text=An diesem Kreisverkehr ist man als Radfahrer gezwungen, teilweise fünf Ampeln (z.B. wegen Mittelinseln) zu überqueren, um den Kreisel zu passieren.
+2-1	39-41	An	_	
+2-2	42-48	diesem	_	
+2-3	49-61	Kreisverkehr	_	
+2-4	62-65	ist	_	
+2-5	66-69	man	_	
+2-6	70-73	als	_	
+2-7	74-83	Radfahrer	_	
+2-8	84-93	gezwungen	_	
+2-9	93-94	,	_	
+2-10	95-104	teilweise	_	
+2-11	105-109	fünf	_	
+2-12	110-116	Ampeln	_	
+2-13	117-118	(	_	
+2-14	118-121	z.B	_	
+2-15	121-122	.	_	
+2-16	123-128	wegen	_	
+2-17	129-141	Mittelinseln	_	
+2-18	141-142	)	_	
+2-19	143-145	zu	_	
+2-20	146-156	überqueren	_	
+2-21	156-157	,	_	
+2-22	158-160	um	_	
+2-23	161-164	den	_	
+2-24	165-172	Kreisel	_	
+2-25	173-175	zu	_	
+2-26	176-185	passieren	_	
+2-27	185-186	.	_	
+
+#Text=Erstens sind die Ampeln teilweise so getaktet, dass man das Gefühl hat, eine rote Welle zu haben, außerdem ist nicht ersichtlich, warum Autos für den gleichen Weg nur eine Ampel haben.
+3-1	187-194	Erstens	_	
+3-2	195-199	sind	_	
+3-3	200-203	die	_	
+3-4	204-210	Ampeln	_	
+3-5	211-220	teilweise	_	
+3-6	221-223	so	_	
+3-7	224-232	getaktet	_	
+3-8	232-233	,	_	
+3-9	234-238	dass	_	
+3-10	239-242	man	_	
+3-11	243-246	das	_	
+3-12	247-253	Gefühl	_	
+3-13	254-257	hat	_	
+3-14	257-258	,	_	
+3-15	259-263	eine	_	
+3-16	264-268	rote	_	
+3-17	269-274	Welle	_	
+3-18	275-277	zu	_	
+3-19	278-283	haben	_	
+3-20	283-284	,	_	
+3-21	285-293	außerdem	_	
+3-22	294-297	ist	_	
+3-23	298-303	nicht	_	
+3-24	304-315	ersichtlich	_	
+3-25	315-316	,	_	
+3-26	317-322	warum	_	
+3-27	323-328	Autos	_	
+3-28	329-332	für	_	
+3-29	333-336	den	_	
+3-30	337-345	gleichen	_	
+3-31	346-349	Weg	_	
+3-32	350-353	nur	_	
+3-33	354-358	eine	_	
+3-34	359-364	Ampel	_	
+3-35	365-370	haben	_	
+3-36	370-371	.	_	
+
+#Text=Ein erster Schritt wäre eine bessere Taktung/Synchronisierung der Fahrradampeln.
+4-1	372-375	Ein	_	
+4-2	376-382	erster	_	
+4-3	383-390	Schritt	_	
+4-4	391-395	wäre	_	
+4-5	396-400	eine	_	
+4-6	401-408	bessere	_	
+4-7	409-416	Taktung	_	
+4-8	416-417	/	_	
+4-9	417-433	Synchronisierung	_	
+4-10	434-437	der	_	
+4-11	438-451	Fahrradampeln	_	
+4-12	451-452	.	_	
+
+#Text=Langfristig sollte aber darauf abgezielt werden, dass Radfahrer mit einer Ampelphase den Kreisel überqueren können oder eine derartige Verkehrsführung für Radler vorliegt, dass sie anderweitig nicht benachteiligt werden.
+5-1	453-464	Langfristig	_	
+5-2	465-471	sollte	_	
+5-3	472-476	aber	_	
+5-4	477-483	darauf	_	
+5-5	484-493	abgezielt	_	
+5-6	494-500	werden	_	
+5-7	500-501	,	_	
+5-8	502-506	dass	_	
+5-9	507-516	Radfahrer	_	
+5-10	517-520	mit	_	
+5-11	521-526	einer	_	
+5-12	527-537	Ampelphase	_	
+5-13	538-541	den	_	
+5-14	542-549	Kreisel	_	
+5-15	550-560	überqueren	_	
+5-16	561-567	können	_	
+5-17	568-572	oder	_	
+5-18	573-577	eine	_	
+5-19	578-587	derartige	_	
+5-20	588-603	Verkehrsführung	_	
+5-21	604-607	für	_	
+5-22	608-614	Radler	_	
+5-23	615-623	vorliegt	_	
+5-24	623-624	,	_	
+5-25	625-629	dass	_	
+5-26	630-633	sie	_	
+5-27	634-645	anderweitig	_	
+5-28	646-651	nicht	_	
+5-29	652-665	benachteiligt	_	
+5-30	666-672	werden	_	
+5-31	672-673	.	_	

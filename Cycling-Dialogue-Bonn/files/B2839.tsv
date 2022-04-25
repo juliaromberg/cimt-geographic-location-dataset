@@ -1,0 +1,82 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlende Verkehrsführung
+1-1	0-8	Fehlende	_	
+1-2	9-24	Verkehrsführung	_	
+
+#Text=Das gesamte Gewerbegebiet macht einen schmuddeligen, vernachlässigten Eindruck, der weder zum Radfahren noch zum Spazieren einlädt.
+2-1	27-30	Das	_	
+2-2	31-38	gesamte	_	
+2-3	39-52	Gewerbegebiet	_	
+2-4	53-58	macht	_	
+2-5	59-64	einen	_	
+2-6	65-78	schmuddeligen	_	
+2-7	78-79	,	_	
+2-8	80-96	vernachlässigten	_	
+2-9	97-105	Eindruck	_	
+2-10	105-106	,	_	
+2-11	107-110	der	_	
+2-12	111-116	weder	_	
+2-13	117-120	zum	_	
+2-14	121-130	Radfahren	_	
+2-15	131-135	noch	_	
+2-16	136-139	zum	_	
+2-17	140-149	Spazieren	_	
+2-18	150-157	einlädt	_	
+2-19	157-158	.	_	
+
+#Text=Radwege gibt es nicht, sind zugeparkt, nicht erkennbar, oder es liegen dort Glasscherben.
+3-1	159-166	Radwege	_	
+3-2	167-171	gibt	_	
+3-3	172-174	es	_	
+3-4	175-180	nicht	_	
+3-5	180-181	,	_	
+3-6	182-186	sind	_	
+3-7	187-196	zugeparkt	_	
+3-8	196-197	,	_	
+3-9	198-203	nicht	_	
+3-10	204-213	erkennbar	_	
+3-11	213-214	,	_	
+3-12	215-219	oder	_	
+3-13	220-222	es	_	
+3-14	223-229	liegen	_	
+3-15	230-234	dort	_	
+3-16	235-247	Glasscherben	_	
+3-17	247-248	.	_	
+
+#Text=Radfahrer müssen sich irgendwie durchschlagen und stehen im Berufsverkehr oft hinter Autofahrern im Stau.
+4-1	249-258	Radfahrer	_	
+4-2	259-265	müssen	_	
+4-3	266-270	sich	_	
+4-4	271-280	irgendwie	_	
+4-5	281-294	durchschlagen	_	
+4-6	295-298	und	_	
+4-7	299-305	stehen	_	
+4-8	306-308	im	_	
+4-9	309-322	Berufsverkehr	_	
+4-10	323-326	oft	_	
+4-11	327-333	hinter	_	
+4-12	334-345	Autofahrern	_	
+4-13	346-348	im	_	
+4-14	349-353	Stau	_	
+4-15	353-354	.	_	
+
+#Text=Für Radfahrer, die Richtung Tannenbusch fahren, fehlt hier eine vernünftige Verkehrsführung.
+5-1	355-358	Für	_	
+5-2	359-368	Radfahrer	_	
+5-3	368-369	,	_	
+5-4	370-373	die	_	
+5-5	374-382	Richtung	*[6]	
+5-6	383-394	Tannenbusch	*[6]	
+5-7	395-401	fahren	_	
+5-8	401-402	,	_	
+5-9	403-408	fehlt	_	
+5-10	409-413	hier	_	
+5-11	414-418	eine	_	
+5-12	419-430	vernünftige	_	
+5-13	431-446	Verkehrsführung	_	
+5-14	446-447	.	_	

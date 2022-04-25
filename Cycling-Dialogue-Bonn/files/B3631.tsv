@@ -1,0 +1,59 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradstraße oder verkehrsberuhigter Bereich
+1-1	0-13	Fahrradstraße	_	
+1-2	14-18	oder	_	
+1-3	19-37	verkehrsberuhigter	_	
+1-4	38-45	Bereich	_	
+
+#Text=Die Straße ist dort für das (Auto)-Verkehrsaufkommen eigentlich zu klein.
+2-1	48-51	Die	_	
+2-2	52-58	Straße	_	
+2-3	59-62	ist	_	
+2-4	63-67	dort	_	
+2-5	68-71	für	_	
+2-6	72-75	das	_	
+2-7	76-77	(	_	
+2-8	77-81	Auto	_	
+2-9	81-82	)	_	
+2-10	82-83	-	_	
+2-11	83-100	Verkehrsaufkommen	_	
+2-12	101-111	eigentlich	_	
+2-13	112-114	zu	_	
+2-14	115-120	klein	_	
+2-15	120-121	.	_	
+
+#Text=Ich muss jedoch zugeben, dass ich spontan auch keine gute Lösung habe, wie der Verkehr von Alfred Bucherer Straße über die Pastoratsgasse besser geleitet werden soll.
+3-1	122-125	Ich	_	
+3-2	126-130	muss	_	
+3-3	131-137	jedoch	_	
+3-4	138-145	zugeben	_	
+3-5	145-146	,	_	
+3-6	147-151	dass	_	
+3-7	152-155	ich	_	
+3-8	156-163	spontan	_	
+3-9	164-168	auch	_	
+3-10	169-174	keine	_	
+3-11	175-179	gute	_	
+3-12	180-186	Lösung	_	
+3-13	187-191	habe	_	
+3-14	191-192	,	_	
+3-15	193-196	wie	_	
+3-16	197-200	der	_	
+3-17	201-208	Verkehr	_	
+3-18	209-212	von	*[4]	
+3-19	213-219	Alfred	*[4]	
+3-20	220-228	Bucherer	*[4]	
+3-21	229-235	Straße	*[4]	
+3-22	236-240	über	*[4]	
+3-23	241-244	die	*[4]	
+3-24	245-259	Pastoratsgasse	*[4]	
+3-25	260-266	besser	_	
+3-26	267-275	geleitet	_	
+3-27	276-282	werden	_	
+3-28	283-287	soll	_	
+3-29	287-288	.	_	

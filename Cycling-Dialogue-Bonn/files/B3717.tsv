@@ -1,0 +1,117 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Vorfahrtsstrasse unzureichend gekennzeichnet!
+1-1	0-16	Vorfahrtsstrasse	_	
+1-2	17-29	unzureichend	_	
+1-3	30-44	gekennzeichnet	_	
+1-4	44-45	!	_	
+
+#Text=Radfahrer vom Rhein kommend werden häufig geschnitten
+2-1	46-55	Radfahrer	_	
+2-2	56-59	vom	*[8]	
+2-3	60-65	Rhein	*[8]	
+2-4	66-73	kommend	*[8]	
+2-5	74-80	werden	_	
+2-6	81-87	häufig	_	
+2-7	88-99	geschnitten	_	
+
+#Text=Viele Radfahrer kommen vom Rhein diese Straße hinauf Richtung Heussallee.
+3-1	102-107	Viele	_	
+3-2	108-117	Radfahrer	_	
+3-3	118-124	kommen	_	
+3-4	125-128	vom	*[9]	
+3-5	129-134	Rhein	*[9]	
+3-6	135-140	diese	*[9]	
+3-7	141-147	Straße	*[9]	
+3-8	148-154	hinauf	*[9]	
+3-9	155-163	Richtung	*[9]	
+3-10	164-174	Heussallee	*[9]	
+3-11	174-175	.	_	
+
+#Text=Autofahrer, die von der Welckerstraße in die Karl-Carstens-Straße einbiegen übersehen gerne das Vorfahrtsschild und bestehen zu unrecht auf rechts vor links.
+4-1	176-186	Autofahrer	_	
+4-2	186-187	,	_	
+4-3	188-191	die	_	
+4-4	192-195	von	*[10]	
+4-5	196-199	der	*[10]	
+4-6	200-213	Welckerstraße	*[10]	
+4-7	214-216	in	*[10]	
+4-8	217-220	die	*[10]	
+4-9	221-241	Karl-Carstens-Straße	*[10]	
+4-10	242-251	einbiegen	*[10]	
+4-11	252-261	übersehen	_	
+4-12	262-267	gerne	_	
+4-13	268-271	das	_	
+4-14	272-287	Vorfahrtsschild	_	
+4-15	288-291	und	_	
+4-16	292-300	bestehen	_	
+4-17	301-303	zu	_	
+4-18	304-311	unrecht	_	
+4-19	312-315	auf	_	
+4-20	316-322	rechts	_	
+4-21	323-326	vor	_	
+4-22	327-332	links	_	
+4-23	332-333	.	_	
+
+#Text=Besonders im Herbst/Winter bei morgendlicher Dunkelheit wird man als Radfahrer zudem hier gerne geschnitten.
+5-1	334-343	Besonders	_	
+5-2	344-346	im	_	
+5-3	347-353	Herbst	_	
+5-4	353-354	/	_	
+5-5	354-360	Winter	_	
+5-6	361-364	bei	_	
+5-7	365-378	morgendlicher	_	
+5-8	379-389	Dunkelheit	_	
+5-9	390-394	wird	_	
+5-10	395-398	man	_	
+5-11	399-402	als	_	
+5-12	403-412	Radfahrer	_	
+5-13	413-418	zudem	_	
+5-14	419-423	hier	_	
+5-15	424-429	gerne	_	
+5-16	430-441	geschnitten	_	
+5-17	441-442	.	_	
+
+#Text=Das Vorfahrtsschild steht äußerst ungünstig sehr weit rechts neben dem Bürgersteig.
+6-1	443-446	Das	_	
+6-2	447-462	Vorfahrtsschild	_	
+6-3	463-468	steht	_	
+6-4	469-476	äußerst	_	
+6-5	477-486	ungünstig	_	
+6-6	487-491	sehr	_	
+6-7	492-496	weit	_	
+6-8	497-503	rechts	_	
+6-9	504-509	neben	_	
+6-10	510-513	dem	_	
+6-11	514-525	Bürgersteig	_	
+6-12	525-526	.	_	
+
+#Text=Zudem parken häufig Autos auf der Rechtsabbiegerspur der Welckerstr. in die Karl-Carstens-Str., so dass diese Information oft nicht wahrgenommen wird.
+7-1	527-532	Zudem	_	
+7-2	533-539	parken	_	
+7-3	540-546	häufig	_	
+7-4	547-552	Autos	_	
+7-5	553-556	auf	*[11]	
+7-6	557-560	der	*[11]	
+7-7	561-579	Rechtsabbiegerspur	*[11]	
+7-8	580-583	der	*[11]	
+7-9	584-594	Welckerstr	*[11]	
+7-10	594-595	.	*[11]	
+7-11	596-598	in	*[11]	
+7-12	599-602	die	*[11]	
+7-13	603-620	Karl-Carstens-Str	*[11]	
+7-14	620-621	.	_	
+7-15	621-622	,	_	
+7-16	623-625	so	_	
+7-17	626-630	dass	_	
+7-18	631-636	diese	_	
+7-19	637-648	Information	_	
+7-20	649-652	oft	_	
+7-21	653-658	nicht	_	
+7-22	659-671	wahrgenommen	_	
+7-23	672-676	wird	_	
+7-24	676-677	.	_	

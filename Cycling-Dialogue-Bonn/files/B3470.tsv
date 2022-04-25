@@ -1,0 +1,41 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg nicht vorhanden.
+1-1	0-6	Radweg	_	
+1-2	7-12	nicht	_	
+1-3	13-22	vorhanden	_	
+1-4	22-23	.	_	
+
+#Text=Hier würde ich mir einen Radweg wünschen, der qualitativ seinen namen verdient.
+2-1	26-30	Hier	_	
+2-2	31-36	würde	_	
+2-3	37-40	ich	_	
+2-4	41-44	mir	_	
+2-5	45-50	einen	_	
+2-6	51-57	Radweg	_	
+2-7	58-66	wünschen	_	
+2-8	66-67	,	_	
+2-9	68-71	der	_	
+2-10	72-82	qualitativ	_	
+2-11	83-89	seinen	_	
+2-12	90-95	namen	_	
+2-13	96-104	verdient	_	
+2-14	104-105	.	_	
+
+#Text=Ohne Angst vor plötzlich öffnenden Autotüren und Strassenbahn haben zu müssen.
+3-1	106-110	Ohne	_	
+3-2	111-116	Angst	_	
+3-3	117-120	vor	_	
+3-4	121-130	plötzlich	_	
+3-5	131-140	öffnenden	_	
+3-6	141-150	Autotüren	_	
+3-7	151-154	und	_	
+3-8	155-167	Strassenbahn	_	
+3-9	168-173	haben	_	
+3-10	174-176	zu	_	
+3-11	177-183	müssen	_	
+3-12	183-184	.	_	

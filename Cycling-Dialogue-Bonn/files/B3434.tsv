@@ -1,0 +1,102 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radfahrstreifen statt zu schmalem Radweg
+1-1	0-15	Radfahrstreifen	_	
+1-2	16-21	statt	_	
+1-3	22-24	zu	_	
+1-4	25-33	schmalem	_	
+1-5	34-40	Radweg	_	
+
+#Text=Der Zweirichtungsradweg entlang von Rathenau- und Brassertufer ist für eine stark frequentierte Hauptverkehrsachse definitiv zu schmal und entspricht nicht ansatzweise den Empfehlungen für Radverkehrsanlagen (ERA).
+2-1	43-46	Der	*[6]	
+2-2	47-66	Zweirichtungsradweg	*[6]	
+2-3	67-74	entlang	*[6]	
+2-4	75-78	von	*[6]	
+2-5	79-87	Rathenau	*[6]	
+2-6	87-88	-	*[6]	
+2-7	89-92	und	*[6]	
+2-8	93-105	Brassertufer	*[6]	
+2-9	106-109	ist	_	
+2-10	110-113	für	_	
+2-11	114-118	eine	_	
+2-12	119-124	stark	_	
+2-13	125-138	frequentierte	_	
+2-14	139-157	Hauptverkehrsachse	_	
+2-15	158-167	definitiv	_	
+2-16	168-170	zu	_	
+2-17	171-177	schmal	_	
+2-18	178-181	und	_	
+2-19	182-192	entspricht	_	
+2-20	193-198	nicht	_	
+2-21	199-210	ansatzweise	_	
+2-22	211-214	den	_	
+2-23	215-227	Empfehlungen	_	
+2-24	228-231	für	_	
+2-25	232-250	Radverkehrsanlagen	_	
+2-26	251-252	(	_	
+2-27	252-255	ERA	_	
+2-28	255-256	)	_	
+2-29	256-257	.	_	
+
+#Text=Gefahr droht durch Begegnungsverkehr und zwischen den Bäumen hervortretenden Fußgängern.
+3-1	258-264	Gefahr	_	
+3-2	265-270	droht	_	
+3-3	271-276	durch	_	
+3-4	277-294	Begegnungsverkehr	_	
+3-5	295-298	und	_	
+3-6	299-307	zwischen	_	
+3-7	308-311	den	_	
+3-8	312-318	Bäumen	_	
+3-9	319-334	hervortretenden	_	
+3-10	335-345	Fußgängern	_	
+3-11	345-346	.	_	
+
+#Text=Voschlag: Mehr Sicherheit bringen beidseitige Radfahrstreifen auf der Fahrbahn, zumindest aber ein Radfahrstreifen in Fahrtrichtung Süden - mit Distanzstreifen zum Parkstreifen wg. öffnender Autotüren.
+4-1	347-355	Voschlag	_	
+4-2	355-356	:	_	
+4-3	357-361	Mehr	_	
+4-4	362-372	Sicherheit	_	
+4-5	373-380	bringen	_	
+4-6	381-392	beidseitige	_	
+4-7	393-408	Radfahrstreifen	_	
+4-8	409-412	auf	_	
+4-9	413-416	der	_	
+4-10	417-425	Fahrbahn	_	
+4-11	425-426	,	_	
+4-12	427-436	zumindest	_	
+4-13	437-441	aber	_	
+4-14	442-445	ein	_	
+4-15	446-461	Radfahrstreifen	_	
+4-16	462-464	in	_	
+4-17	465-478	Fahrtrichtung	_	
+4-18	479-484	Süden	_	
+4-19	485-486	-	_	
+4-20	487-490	mit	_	
+4-21	491-506	Distanzstreifen	_	
+4-22	507-510	zum	_	
+4-23	511-523	Parkstreifen	_	
+4-24	524-526	wg	_	
+4-25	526-527	.	_	
+4-26	528-537	öffnender	_	
+4-27	538-547	Autotüren	_	
+4-28	547-548	.	_	
+
+#Text=In einer Tempo-30-Straße ist ein separater Radweg sowieso Quatsch.
+5-1	549-551	In	_	
+5-2	552-557	einer	_	
+5-3	558-563	Tempo	_	
+5-4	563-564	-	_	
+5-5	564-566	30	_	
+5-6	566-567	-	_	
+5-7	567-573	Straße	_	
+5-8	574-577	ist	_	
+5-9	578-581	ein	_	
+5-10	582-591	separater	_	
+5-11	592-598	Radweg	_	
+5-12	599-606	sowieso	_	
+5-13	607-614	Quatsch	_	
+5-14	614-615	.	_	

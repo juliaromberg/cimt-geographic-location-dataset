@@ -1,0 +1,144 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg auf der Weinsbergstr.
+1-1	0-6	Radweg	_	
+1-2	7-10	auf	*[7]	
+1-3	11-14	der	*[7]	
+1-4	15-27	Weinsbergstr	*[7]	
+1-5	27-28	.	_	
+
+#Text=Der Radweg wurde auf der Weinsbergstraße vom geschützten Bürgersteig auf die Straße verlegt.
+2-1	31-34	Der	_	
+2-2	35-41	Radweg	_	
+2-3	42-47	wurde	_	
+2-4	48-51	auf	*[8]	
+2-5	52-55	der	*[8]	
+2-6	56-71	Weinsbergstraße	*[8]	
+2-7	72-75	vom	_	
+2-8	76-87	geschützten	_	
+2-9	88-99	Bürgersteig	_	
+2-10	100-103	auf	_	
+2-11	104-107	die	_	
+2-12	108-114	Straße	_	
+2-13	115-122	verlegt	_	
+2-14	122-123	.	_	
+
+#Text=Die Weinsbergstraße ist eine vielbefahrene Strecke, wo die Autos häufig auch zu schnell unterwegs sind.
+3-1	124-127	Die	*[9]	
+3-2	128-143	Weinsbergstraße	*[9]	
+3-3	144-147	ist	_	
+3-4	148-152	eine	_	
+3-5	153-166	vielbefahrene	_	
+3-6	167-174	Strecke	_	
+3-7	174-175	,	_	
+3-8	176-178	wo	_	
+3-9	179-182	die	_	
+3-10	183-188	Autos	_	
+3-11	189-195	häufig	_	
+3-12	196-200	auch	_	
+3-13	201-203	zu	_	
+3-14	204-211	schnell	_	
+3-15	212-221	unterwegs	_	
+3-16	222-226	sind	_	
+3-17	226-227	.	_	
+
+#Text=Es scheint, als hätte man dieses Problem auf Kosten der Radfahrer lösen wollen: Durch das Verlegen des Radweges auf die Straße wird versucht die Autofahrer abzubremsen.
+4-1	228-230	Es	_	
+4-2	231-238	scheint	_	
+4-3	238-239	,	_	
+4-4	240-243	als	_	
+4-5	244-249	hätte	_	
+4-6	250-253	man	_	
+4-7	254-260	dieses	_	
+4-8	261-268	Problem	_	
+4-9	269-272	auf	_	
+4-10	273-279	Kosten	_	
+4-11	280-283	der	_	
+4-12	284-293	Radfahrer	_	
+4-13	294-299	lösen	_	
+4-14	300-306	wollen	_	
+4-15	306-307	:	_	
+4-16	308-313	Durch	_	
+4-17	314-317	das	_	
+4-18	318-326	Verlegen	_	
+4-19	327-330	des	_	
+4-20	331-339	Radweges	_	
+4-21	340-343	auf	_	
+4-22	344-347	die	_	
+4-23	348-354	Straße	_	
+4-24	355-359	wird	_	
+4-25	360-368	versucht	_	
+4-26	369-372	die	_	
+4-27	373-383	Autofahrer	_	
+4-28	384-395	abzubremsen	_	
+4-29	395-396	.	_	
+
+#Text=Dies gefährdet nicht nur die Radfahrer, sondern führt auch dazu dass die Abgase der Auto viel unmittelbarer eingeatmet werden müssen.
+5-1	397-401	Dies	_	
+5-2	402-411	gefährdet	_	
+5-3	412-417	nicht	_	
+5-4	418-421	nur	_	
+5-5	422-425	die	_	
+5-6	426-435	Radfahrer	_	
+5-7	435-436	,	_	
+5-8	437-444	sondern	_	
+5-9	445-450	führt	_	
+5-10	451-455	auch	_	
+5-11	456-460	dazu	_	
+5-12	461-465	dass	_	
+5-13	466-469	die	_	
+5-14	470-476	Abgase	_	
+5-15	477-480	der	_	
+5-16	481-485	Auto	_	
+5-17	486-490	viel	_	
+5-18	491-504	unmittelbarer	_	
+5-19	505-515	eingeatmet	_	
+5-20	516-522	werden	_	
+5-21	523-529	müssen	_	
+5-22	529-530	.	_	
+
+#Text=Der Radweg sollte zum einen eindeutiger hervorgehoben werden (rote Markierung) und zum anderen stärker von der Autofahrbahn abgegrenzt werden, etwa durch eine durchlaufende erhöhte Kante, welche die Autos daran hindert auf dem Radweg zu fahren.
+6-1	531-534	Der	_	
+6-2	535-541	Radweg	_	
+6-3	542-548	sollte	_	
+6-4	549-552	zum	_	
+6-5	553-558	einen	_	
+6-6	559-570	eindeutiger	_	
+6-7	571-584	hervorgehoben	_	
+6-8	585-591	werden	_	
+6-9	592-593	(	_	
+6-10	593-597	rote	_	
+6-11	598-608	Markierung	_	
+6-12	608-609	)	_	
+6-13	610-613	und	_	
+6-14	614-617	zum	_	
+6-15	618-625	anderen	_	
+6-16	626-633	stärker	_	
+6-17	634-637	von	_	
+6-18	638-641	der	_	
+6-19	642-654	Autofahrbahn	_	
+6-20	655-665	abgegrenzt	_	
+6-21	666-672	werden	_	
+6-22	672-673	,	_	
+6-23	674-678	etwa	_	
+6-24	679-684	durch	_	
+6-25	685-689	eine	_	
+6-26	690-703	durchlaufende	_	
+6-27	704-711	erhöhte	_	
+6-28	712-717	Kante	_	
+6-29	717-718	,	_	
+6-30	719-725	welche	_	
+6-31	726-729	die	_	
+6-32	730-735	Autos	_	
+6-33	736-741	daran	_	
+6-34	742-749	hindert	_	
+6-35	750-753	auf	_	
+6-36	754-757	dem	_	
+6-37	758-764	Radweg	_	
+6-38	765-767	zu	_	
+6-39	768-774	fahren	_	
+6-40	774-775	.	_	

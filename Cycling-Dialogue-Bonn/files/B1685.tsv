@@ -1,0 +1,110 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Linksabbiegende Radfahrer
+1-1	0-15	Linksabbiegende	_	
+1-2	16-25	Radfahrer	_	
+
+#Text=Wie so oft wurde hier nicht wirklich bedacht, dass auch Radfahrer links abbiegen wollen.
+2-1	28-31	Wie	_	
+2-2	32-34	so	_	
+2-3	35-38	oft	_	
+2-4	39-44	wurde	_	
+2-5	45-49	hier	_	
+2-6	50-55	nicht	_	
+2-7	56-64	wirklich	_	
+2-8	65-72	bedacht	_	
+2-9	72-73	,	_	
+2-10	74-78	dass	_	
+2-11	79-83	auch	_	
+2-12	84-93	Radfahrer	_	
+2-13	94-99	links	_	
+2-14	100-108	abbiegen	_	
+2-15	109-115	wollen	_	
+2-16	115-116	.	_	
+
+#Text=Fährt man am Konrad-Adenauer-Platz auf der St. Augustiner-Straße stadtauswärts gibt es 2 Fußgängerampeln (Höhe Von Sandt-Straße u. Rheindorferstraße), eine merkwürdige Zwitterampel mit unterschiedlichen Streuscheiben (Höhe Rathausstraße), wo man nicht genau weiß, ob man da als Radfahrer eigentlich drüber fahren darf, und dann die Linksabbiegespur an der Combahnstraße, die als Radfahrer über eine Bordsteinkante und zwei stark befahrene Autospuren schlecht zu erreichen ist.
+3-1	117-122	Fährt	_	
+3-2	123-126	man	_	
+3-3	127-129	am	*[5]	
+3-4	130-151	Konrad-Adenauer-Platz	*[5]	
+3-5	152-155	auf	*[5]	
+3-6	156-159	der	*[5]	
+3-7	160-162	St	*[5]	
+3-8	162-163	.	*[5]	
+3-9	164-181	Augustiner-Straße	*[5]	
+3-10	182-195	stadtauswärts	*[5]	
+3-11	196-200	gibt	_	
+3-12	201-203	es	_	
+3-13	204-205	2	_	
+3-14	206-221	Fußgängerampeln	_	
+3-15	222-223	(	_	
+3-16	223-227	Höhe	*[6]	
+3-17	228-231	Von	*[6]	
+3-18	232-244	Sandt-Straße	*[6]	
+3-19	245-246	u	*[6]	
+3-20	246-247	.	*[6]	
+3-21	248-265	Rheindorferstraße	*[6]	
+3-22	265-266	)	_	
+3-23	266-267	,	_	
+3-24	268-272	eine	_	
+3-25	273-284	merkwürdige	_	
+3-26	285-297	Zwitterampel	_	
+3-27	298-301	mit	_	
+3-28	302-319	unterschiedlichen	_	
+3-29	320-333	Streuscheiben	_	
+3-30	334-335	(	_	
+3-31	335-339	Höhe	*[7]	
+3-32	340-353	Rathausstraße	*[7]	
+3-33	353-354	)	_	
+3-34	354-355	,	_	
+3-35	356-358	wo	_	
+3-36	359-362	man	_	
+3-37	363-368	nicht	_	
+3-38	369-374	genau	_	
+3-39	375-379	weiß	_	
+3-40	379-380	,	_	
+3-41	381-383	ob	_	
+3-42	384-387	man	_	
+3-43	388-390	da	_	
+3-44	391-394	als	_	
+3-45	395-404	Radfahrer	_	
+3-46	405-415	eigentlich	_	
+3-47	416-422	drüber	_	
+3-48	423-429	fahren	_	
+3-49	430-434	darf	_	
+3-50	434-435	,	_	
+3-51	436-439	und	_	
+3-52	440-444	dann	_	
+3-53	445-448	die	*[8]	
+3-54	449-465	Linksabbiegespur	*[8]	
+3-55	466-468	an	*[8]	
+3-56	469-472	der	*[8]	
+3-57	473-486	Combahnstraße	*[8]	
+3-58	486-487	,	_	
+3-59	488-491	die	_	
+3-60	492-495	als	_	
+3-61	496-505	Radfahrer	_	
+3-62	506-510	über	_	
+3-63	511-515	eine	_	
+3-64	516-530	Bordsteinkante	_	
+3-65	531-534	und	_	
+3-66	535-539	zwei	_	
+3-67	540-545	stark	_	
+3-68	546-555	befahrene	_	
+3-69	556-566	Autospuren	_	
+3-70	567-575	schlecht	_	
+3-71	576-578	zu	_	
+3-72	579-588	erreichen	_	
+3-73	589-592	ist	_	
+3-74	592-593	.	_	
+
+#Text=Eine vernüftige Lösung fehlt.
+4-1	594-598	Eine	_	
+4-2	599-609	vernüftige	_	
+4-3	610-616	Lösung	_	
+4-4	617-622	fehlt	_	
+4-5	622-623	.	_	

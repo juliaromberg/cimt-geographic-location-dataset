@@ -1,0 +1,56 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Viele Autofahrer auf Wirtschaftswegen unterwegs
+1-1	0-5	Viele	_	
+1-2	6-16	Autofahrer	_	
+1-3	17-20	auf	_	
+1-4	21-37	Wirtschaftswegen	_	
+1-5	38-47	unterwegs	_	
+
+#Text=Auf den Wirtschaftswegen sind erstaunlich viele Autofahrer unterwegs.
+2-1	50-53	Auf	_	
+2-2	54-57	den	_	
+2-3	58-74	Wirtschaftswegen	_	
+2-4	75-79	sind	_	
+2-5	80-91	erstaunlich	_	
+2-6	92-97	viele	_	
+2-7	98-108	Autofahrer	_	
+2-8	109-118	unterwegs	_	
+2-9	118-119	.	_	
+
+#Text=Obwohl die Wege schmal sind, fahren die Autos hier oft sehr schnell und gefährden Radfahrer ebenso wie Fußgänger.
+3-1	120-126	Obwohl	_	
+3-2	127-130	die	_	
+3-3	131-135	Wege	_	
+3-4	136-142	schmal	_	
+3-5	143-147	sind	_	
+3-6	147-148	,	_	
+3-7	149-155	fahren	_	
+3-8	156-159	die	_	
+3-9	160-165	Autos	_	
+3-10	166-170	hier	_	
+3-11	171-174	oft	_	
+3-12	175-179	sehr	_	
+3-13	180-187	schnell	_	
+3-14	188-191	und	_	
+3-15	192-201	gefährden	_	
+3-16	202-211	Radfahrer	_	
+3-17	212-218	ebenso	_	
+3-18	219-222	wie	_	
+3-19	223-232	Fußgänger	_	
+3-20	232-233	.	_	
+
+#Text=Häufigere Kontrollen der Wirtschaftswege könnten hier viel bewirken.
+4-1	234-243	Häufigere	_	
+4-2	244-254	Kontrollen	_	
+4-3	255-258	der	_	
+4-4	259-274	Wirtschaftswege	_	
+4-5	275-282	könnten	_	
+4-6	283-287	hier	_	
+4-7	288-292	viel	_	
+4-8	293-301	bewirken	_	
+4-9	301-302	.	_	

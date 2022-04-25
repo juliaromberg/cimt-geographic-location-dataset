@@ -1,0 +1,87 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Wegeführung von Innenstadt zur Bornheimer Straße
+1-1	0-11	Wegeführung	_	
+1-2	12-15	von	*[6]	
+1-3	16-26	Innenstadt	*[6]	
+1-4	27-30	zur	*[6]	
+1-5	31-41	Bornheimer	*[6]	
+1-6	42-48	Straße	*[6]	
+
+#Text=Kommt man aus der Innenstadt entlang der Budapester Straße und will zur Bornheimer Straße ist die Wegführung äußerst unklar und gefährlich.
+2-1	51-56	Kommt	_	
+2-2	57-60	man	_	
+2-3	61-64	aus	*[7]	
+2-4	65-68	der	*[7]	
+2-5	69-79	Innenstadt	*[7]	
+2-6	80-87	entlang	*[7]	
+2-7	88-91	der	*[7]	
+2-8	92-102	Budapester	*[7]	
+2-9	103-109	Straße	*[7]	
+2-10	110-113	und	*[7]	
+2-11	114-118	will	*[7]	
+2-12	119-122	zur	*[7]	
+2-13	123-133	Bornheimer	*[7]	
+2-14	134-140	Straße	*[7]	
+2-15	141-144	ist	_	
+2-16	145-148	die	_	
+2-17	149-159	Wegführung	_	
+2-18	160-167	äußerst	_	
+2-19	168-174	unklar	_	
+2-20	175-178	und	_	
+2-21	179-189	gefährlich	_	
+2-22	189-190	.	_	
+
+#Text=Bspw. gibt es an der Kreuzung Thomas-Mann-Straße/Budapester Straße extra eine Fahrradspur.
+3-1	191-195	Bspw	_	
+3-2	195-196	.	_	
+3-3	197-201	gibt	_	
+3-4	202-204	es	_	
+3-5	205-207	an	*[8]	
+3-6	208-211	der	*[8]	
+3-7	212-220	Kreuzung	*[8]	
+3-8	221-239	Thomas-Mann-Straße	*[8]	
+3-9	239-240	/	*[8]	
+3-10	240-250	Budapester	*[8]	
+3-11	251-257	Straße	*[8]	
+3-12	258-263	extra	_	
+3-13	264-268	eine	_	
+3-14	269-280	Fahrradspur	_	
+3-15	280-281	.	_	
+
+#Text=Man darf aber augenscheinlich gar nicht geradeaus oder links fahren.
+4-1	282-285	Man	_	
+4-2	286-290	darf	_	
+4-3	291-295	aber	_	
+4-4	296-311	augenscheinlich	_	
+4-5	312-315	gar	_	
+4-6	316-321	nicht	_	
+4-7	322-331	geradeaus	_	
+4-8	332-336	oder	_	
+4-9	337-342	links	_	
+4-10	343-349	fahren	_	
+4-11	349-350	.	_	
+
+#Text=Bitte richten Sie hier einen Fahrradweg ein, der direkt von der Innenstadt zur Bornheimer Straße führt.
+5-1	351-356	Bitte	_	
+5-2	357-364	richten	_	
+5-3	365-368	Sie	_	
+5-4	369-373	hier	_	
+5-5	374-379	einen	_	
+5-6	380-390	Fahrradweg	_	
+5-7	391-394	ein	_	
+5-8	394-395	,	_	
+5-9	396-399	der	_	
+5-10	400-406	direkt	_	
+5-11	407-410	von	*[9]	
+5-12	411-414	der	*[9]	
+5-13	415-425	Innenstadt	*[9]	
+5-14	426-429	zur	*[9]	
+5-15	430-440	Bornheimer	*[9]	
+5-16	441-447	Straße	*[9]	
+5-17	448-453	führt	_	
+5-18	453-454	.	_	

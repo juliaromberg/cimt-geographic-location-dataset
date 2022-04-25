@@ -1,0 +1,144 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Beschneiden der Hecken; Fußgänger erkennen Radweg nicht als Radweg; Ausflugsbusse
+1-1	0-11	Beschneiden	_	
+1-2	12-15	der	_	
+1-3	16-22	Hecken	_	
+1-4	22-23	;	_	
+1-5	24-33	Fußgänger	_	
+1-6	34-42	erkennen	_	
+1-7	43-49	Radweg	_	
+1-8	50-55	nicht	_	
+1-9	56-59	als	_	
+1-10	60-66	Radweg	_	
+1-11	66-67	;	_	
+1-12	68-81	Ausflugsbusse	_	
+
+#Text=Die Hecken sind so hoch, dass man Fußgänger, die von der Rheinpromenade zum Alten Zoll gehen, erst sehr spät erkennt.
+2-1	84-87	Die	_	
+2-2	88-94	Hecken	_	
+2-3	95-99	sind	_	
+2-4	100-102	so	_	
+2-5	103-107	hoch	_	
+2-6	107-108	,	_	
+2-7	109-113	dass	_	
+2-8	114-117	man	_	
+2-9	118-127	Fußgänger	_	
+2-10	127-128	,	_	
+2-11	129-132	die	_	
+2-12	133-136	von	*[8]	
+2-13	137-140	der	*[8]	
+2-14	141-155	Rheinpromenade	*[8]	
+2-15	156-159	zum	*[8]	
+2-16	160-165	Alten	*[8]	
+2-17	166-170	Zoll	*[8]	
+2-18	171-176	gehen	_	
+2-19	176-177	,	_	
+2-20	178-182	erst	_	
+2-21	183-187	sehr	_	
+2-22	188-192	spät	_	
+2-23	193-200	erkennt	_	
+2-24	200-201	.	_	
+
+#Text===> Hecken niedriger halten und regelmäßig beschneiden.
+3-1	202-203	=	_	
+3-2	203-204	=	_	
+3-3	204-205	>	_	
+3-4	206-212	Hecken	_	
+3-5	213-222	niedriger	_	
+3-6	223-229	halten	_	
+3-7	230-233	und	_	
+3-8	234-244	regelmäßig	_	
+3-9	245-256	beschneiden	_	
+3-10	256-257	.	_	
+
+#Text=Viele Fußgänger nutzen den Radweg als Bürgersteig, da er als Radweg nicht sofort kenntlich ist.
+4-1	258-263	Viele	_	
+4-2	264-273	Fußgänger	_	
+4-3	274-280	nutzen	_	
+4-4	281-284	den	_	
+4-5	285-291	Radweg	_	
+4-6	292-295	als	_	
+4-7	296-307	Bürgersteig	_	
+4-8	307-308	,	_	
+4-9	309-311	da	_	
+4-10	312-314	er	_	
+4-11	315-318	als	_	
+4-12	319-325	Radweg	_	
+4-13	326-331	nicht	_	
+4-14	332-338	sofort	_	
+4-15	339-348	kenntlich	_	
+4-16	349-352	ist	_	
+4-17	352-353	.	_	
+
+#Text===> Radweg als Radweg nicht nur vereinzelt mit Fahrsymbol kenntlich machen.
+5-1	354-355	=	_	
+5-2	355-356	=	_	
+5-3	356-357	>	_	
+5-4	358-364	Radweg	_	
+5-5	365-368	als	_	
+5-6	369-375	Radweg	_	
+5-7	376-381	nicht	_	
+5-8	382-385	nur	_	
+5-9	386-396	vereinzelt	_	
+5-10	397-400	mit	_	
+5-11	401-411	Fahrsymbol	_	
+5-12	412-421	kenntlich	_	
+5-13	422-428	machen	_	
+5-14	428-429	.	_	
+
+#Text=Ausflugbusse parken am oder z.T. auf Radweg und lassen Passagiere zu den Schiffen, die dann auf dem Radweg stehen und gar nicht wissen, dass es sich um einen solchen handelt.
+6-1	430-442	Ausflugbusse	_	
+6-2	443-449	parken	_	
+6-3	450-452	am	_	
+6-4	453-457	oder	_	
+6-5	458-461	z.T	_	
+6-6	461-462	.	_	
+6-7	463-466	auf	_	
+6-8	467-473	Radweg	_	
+6-9	474-477	und	_	
+6-10	478-484	lassen	_	
+6-11	485-495	Passagiere	_	
+6-12	496-498	zu	_	
+6-13	499-502	den	_	
+6-14	503-511	Schiffen	_	
+6-15	511-512	,	_	
+6-16	513-516	die	_	
+6-17	517-521	dann	_	
+6-18	522-525	auf	_	
+6-19	526-529	dem	_	
+6-20	530-536	Radweg	_	
+6-21	537-543	stehen	_	
+6-22	544-547	und	_	
+6-23	548-551	gar	_	
+6-24	552-557	nicht	_	
+6-25	558-564	wissen	_	
+6-26	564-565	,	_	
+6-27	566-570	dass	_	
+6-28	571-573	es	_	
+6-29	574-578	sich	_	
+6-30	579-581	um	_	
+6-31	582-587	einen	_	
+6-32	588-595	solchen	_	
+6-33	596-603	handelt	_	
+6-34	603-604	.	_	
+
+#Text===> Halteverbot für Busse und eigene Bushalteplätze für diesen Zweck ausweisen.
+7-1	605-606	=	_	
+7-2	606-607	=	_	
+7-3	607-608	>	_	
+7-4	609-620	Halteverbot	_	
+7-5	621-624	für	_	
+7-6	625-630	Busse	_	
+7-7	631-634	und	_	
+7-8	635-641	eigene	_	
+7-9	642-656	Bushalteplätze	_	
+7-10	657-660	für	_	
+7-11	661-667	diesen	_	
+7-12	668-673	Zweck	_	
+7-13	674-683	ausweisen	_	
+7-14	683-684	.	_	

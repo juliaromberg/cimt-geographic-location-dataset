@@ -1,0 +1,285 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg muss auf die Straße!
+1-1	0-6	Radweg	_	
+1-2	7-11	muss	_	
+1-3	12-15	auf	_	
+1-4	16-19	die	_	
+1-5	20-26	Straße	_	
+1-6	26-27	!	_	
+
+#Text=Venloerstr. zwischen Gürtel & Bahnüberführung
+2-1	28-38	Venloerstr	*[18]	
+2-2	38-39	.	*[18]	
+2-3	40-48	zwischen	*[18]	
+2-4	49-55	Gürtel	*[18]	
+2-5	56-57	&	*[18]	
+2-6	58-73	Bahnüberführung	*[18]	
+
+#Text=Immer wieder gibt es zwischen Gürtel bis hinter die Bahnunterführung Stadteinwärts wie -auswärts gefährliche Situationen.
+3-1	76-81	Immer	_	
+3-2	82-88	wieder	_	
+3-3	89-93	gibt	_	
+3-4	94-96	es	_	
+3-5	97-105	zwischen	*[19]	
+3-6	106-112	Gürtel	*[19]	
+3-7	113-116	bis	*[19]	
+3-8	117-123	hinter	*[19]	
+3-9	124-127	die	*[19]	
+3-10	128-144	Bahnunterführung	*[19]	
+3-11	145-158	Stadteinwärts	*[19]	
+3-12	159-162	wie	*[19]	
+3-13	163-164	-	*[19]	
+3-14	164-172	auswärts	*[19]	
+3-15	173-184	gefährliche	_	
+3-16	185-196	Situationen	_	
+3-17	196-197	.	_	
+
+#Text=Hinter dem Gürtel Stadtauswärts, ist der Platz vor dem Kiosk und dem Gemüseladen für Radweg und Fußgänger viel zu schmal.
+4-1	198-204	Hinter	*[20]	
+4-2	205-208	dem	*[20]	
+4-3	209-215	Gürtel	*[20]	
+4-4	216-229	Stadtauswärts	*[20]	
+4-5	229-230	,	_	
+4-6	231-234	ist	_	
+4-7	235-238	der	_	
+4-8	239-244	Platz	_	
+4-9	245-248	vor	_	
+4-10	249-252	dem	_	
+4-11	253-258	Kiosk	_	
+4-12	259-262	und	_	
+4-13	263-266	dem	_	
+4-14	267-278	Gemüseladen	_	
+4-15	279-282	für	_	
+4-16	283-289	Radweg	_	
+4-17	290-293	und	_	
+4-18	294-303	Fußgänger	_	
+4-19	304-308	viel	_	
+4-20	309-311	zu	_	
+4-21	312-318	schmal	_	
+4-22	318-319	.	_	
+
+#Text=Zusätzliche parkende Räder versperren den Ausweichbereich.
+5-1	320-331	Zusätzliche	_	
+5-2	332-340	parkende	_	
+5-3	341-346	Räder	_	
+5-4	347-357	versperren	_	
+5-5	358-361	den	_	
+5-6	362-377	Ausweichbereich	_	
+5-7	377-378	.	_	
+
+#Text=In Höhe der Polizei kommen sich ein- und ausfahrende Einsatzwagen wie auch Supermarktbesucher in die Quere.
+6-1	379-381	In	_	
+6-2	382-386	Höhe	_	
+6-3	387-390	der	_	
+6-4	391-398	Polizei	_	
+6-5	399-405	kommen	_	
+6-6	406-410	sich	_	
+6-7	411-414	ein	_	
+6-8	414-415	-	_	
+6-9	416-419	und	_	
+6-10	420-431	ausfahrende	_	
+6-11	432-444	Einsatzwagen	_	
+6-12	445-448	wie	_	
+6-13	449-453	auch	_	
+6-14	454-472	Supermarktbesucher	_	
+6-15	473-475	in	_	
+6-16	476-479	die	_	
+6-17	480-485	Quere	_	
+6-18	485-486	.	_	
+
+#Text=Autotüren behindern oft Radfahrer.
+7-1	487-496	Autotüren	_	
+7-2	497-506	behindern	_	
+7-3	507-510	oft	_	
+7-4	511-520	Radfahrer	_	
+7-5	520-521	.	_	
+
+#Text=Auf der Höhe des Bahnhofs gib es immer wieder gefährliche Situationen mit anderen parkenden Rädern und Querungen von Fußgängern am Zebrastreifens.
+8-1	522-525	Auf	_	
+8-2	526-529	der	_	
+8-3	530-534	Höhe	_	
+8-4	535-538	des	_	
+8-5	539-547	Bahnhofs	_	
+8-6	548-551	gib	_	
+8-7	552-554	es	_	
+8-8	555-560	immer	_	
+8-9	561-567	wieder	_	
+8-10	568-579	gefährliche	_	
+8-11	580-591	Situationen	_	
+8-12	592-595	mit	_	
+8-13	596-603	anderen	_	
+8-14	604-613	parkenden	_	
+8-15	614-620	Rädern	_	
+8-16	621-624	und	_	
+8-17	625-634	Querungen	_	
+8-18	635-638	von	_	
+8-19	639-649	Fußgängern	_	
+8-20	650-652	am	_	
+8-21	653-667	Zebrastreifens	_	
+8-22	667-668	.	_	
+
+#Text=Auto-Linksabbieger die auf die Schönsteinstraße und von dieser auf die Venloerstraße fahren, stehen regelmäßig auf dem Radstreifen und blockieren diesen, oder fahren einfach auf diesen auf ohne VOrfahrt zu gewähren.
+9-1	669-687	Auto-Linksabbieger	_	
+9-2	688-691	die	_	
+9-3	692-695	auf	*[21]	
+9-4	696-699	die	*[21]	
+9-5	700-716	Schönsteinstraße	*[21]	
+9-6	717-720	und	*[21]	
+9-7	721-724	von	*[21]	
+9-8	725-731	dieser	*[21]	
+9-9	732-735	auf	*[21]	
+9-10	736-739	die	*[21]	
+9-11	740-753	Venloerstraße	*[21]	
+9-12	754-760	fahren	_	
+9-13	760-761	,	_	
+9-14	762-768	stehen	_	
+9-15	769-779	regelmäßig	_	
+9-16	780-783	auf	_	
+9-17	784-787	dem	_	
+9-18	788-799	Radstreifen	_	
+9-19	800-803	und	_	
+9-20	804-814	blockieren	_	
+9-21	815-821	diesen	_	
+9-22	821-822	,	_	
+9-23	823-827	oder	_	
+9-24	828-834	fahren	_	
+9-25	835-842	einfach	_	
+9-26	843-846	auf	_	
+9-27	847-853	diesen	_	
+9-28	854-857	auf	_	
+9-29	858-862	ohne	_	
+9-30	863-871	VOrfahrt	_	
+9-31	872-874	zu	_	
+9-32	875-883	gewähren	_	
+9-33	883-884	.	_	
+
+#Text=Gleiches gilt in diesem Bereich in der Gegenrichtung stadteinwärts.
+10-1	885-893	Gleiches	_	
+10-2	894-898	gilt	_	
+10-3	899-901	in	_	
+10-4	902-908	diesem	_	
+10-5	909-916	Bereich	_	
+10-6	917-919	in	_	
+10-7	920-923	der	_	
+10-8	924-937	Gegenrichtung	_	
+10-9	938-951	stadteinwärts	_	
+10-10	951-952	.	_	
+
+#Text=Ab Bahn-Unterführung ist die Gefahr aufgrund der für Autofahrer unübersichtlichen Einmündung Heliosstraße groß.
+11-1	953-955	Ab	_	
+11-2	956-973	Bahn-Unterführung	_	
+11-3	974-977	ist	_	
+11-4	978-981	die	_	
+11-5	982-988	Gefahr	_	
+11-6	989-997	aufgrund	_	
+11-7	998-1001	der	_	
+11-8	1002-1005	für	_	
+11-9	1006-1016	Autofahrer	_	
+11-10	1017-1034	unübersichtlichen	_	
+11-11	1035-1045	Einmündung	_	
+11-12	1046-1058	Heliosstraße	_	
+11-13	1059-1063	groß	_	
+11-14	1063-1064	.	_	
+
+#Text=Fußgänger aus dem Helioshaus laufen direkt auf den Radweg und kreuzen den Zebrastreifen.
+12-1	1065-1074	Fußgänger	_	
+12-2	1075-1078	aus	_	
+12-3	1079-1082	dem	_	
+12-4	1083-1093	Helioshaus	*	
+12-5	1094-1100	laufen	_	
+12-6	1101-1107	direkt	_	
+12-7	1108-1111	auf	_	
+12-8	1112-1115	den	_	
+12-9	1116-1122	Radweg	_	
+12-10	1123-1126	und	_	
+12-11	1127-1134	kreuzen	_	
+12-12	1135-1138	den	_	
+12-13	1139-1152	Zebrastreifen	_	
+12-14	1152-1153	.	_	
+
+#Text=Fläche vor dem Imbiss ist viel zu schmal für Räder und Gäste.
+13-1	1154-1160	Fläche	_	
+13-2	1161-1164	vor	_	
+13-3	1165-1168	dem	_	
+13-4	1169-1175	Imbiss	_	
+13-5	1176-1179	ist	_	
+13-6	1180-1184	viel	_	
+13-7	1185-1187	zu	_	
+13-8	1188-1194	schmal	_	
+13-9	1195-1198	für	_	
+13-10	1199-1204	Räder	_	
+13-11	1205-1208	und	_	
+13-12	1209-1214	Gäste	_	
+13-13	1214-1215	.	_	
+
+#Text=Fußgänger wichen regelmäßig auf den Radweg aus.
+14-1	1216-1225	Fußgänger	_	
+14-2	1226-1232	wichen	_	
+14-3	1233-1243	regelmäßig	_	
+14-4	1244-1247	auf	_	
+14-5	1248-1251	den	_	
+14-6	1252-1258	Radweg	_	
+14-7	1259-1262	aus	_	
+14-8	1262-1263	.	_	
+
+#Text=Die Einfahrt zum Parkplatz Bock führt immer wieder zu gefährlichen Situationen mit Autofahrern.
+15-1	1264-1267	Die	_	
+15-2	1268-1276	Einfahrt	_	
+15-3	1277-1280	zum	_	
+15-4	1281-1290	Parkplatz	_	
+15-5	1291-1295	Bock	_	
+15-6	1296-1301	führt	_	
+15-7	1302-1307	immer	_	
+15-8	1308-1314	wieder	_	
+15-9	1315-1317	zu	_	
+15-10	1318-1330	gefährlichen	_	
+15-11	1331-1342	Situationen	_	
+15-12	1343-1346	mit	_	
+15-13	1347-1358	Autofahrern	_	
+15-14	1358-1359	.	_	
+
+#Text=Weiter Richtung Gürtel ist der Platz vor dem Gemüseladen für Fußgänger oft zu schmal so dass diese auf den Radweg ausweichen.
+16-1	1360-1366	Weiter	_	
+16-2	1367-1375	Richtung	*[22]	
+16-3	1376-1382	Gürtel	*[22]	
+16-4	1383-1386	ist	_	
+16-5	1387-1390	der	_	
+16-6	1391-1396	Platz	_	
+16-7	1397-1400	vor	_	
+16-8	1401-1404	dem	_	
+16-9	1405-1416	Gemüseladen	_	
+16-10	1417-1420	für	_	
+16-11	1421-1430	Fußgänger	_	
+16-12	1431-1434	oft	_	
+16-13	1435-1437	zu	_	
+16-14	1438-1444	schmal	_	
+16-15	1445-1447	so	_	
+16-16	1448-1452	dass	_	
+16-17	1453-1458	diese	_	
+16-18	1459-1462	auf	_	
+16-19	1463-1466	den	_	
+16-20	1467-1473	Radweg	_	
+16-21	1474-1484	ausweichen	_	
+16-22	1484-1485	.	_	
+
+#Text=All das wäre zu verhindern, wenn der Radweg auf die Straße geführt würde.
+17-1	1486-1489	All	_	
+17-2	1490-1493	das	_	
+17-3	1494-1498	wäre	_	
+17-4	1499-1501	zu	_	
+17-5	1502-1512	verhindern	_	
+17-6	1512-1513	,	_	
+17-7	1514-1518	wenn	_	
+17-8	1519-1522	der	_	
+17-9	1523-1529	Radweg	_	
+17-10	1530-1533	auf	_	
+17-11	1534-1537	die	_	
+17-12	1538-1544	Straße	_	
+17-13	1545-1552	geführt	_	
+17-14	1553-1558	würde	_	
+17-15	1558-1559	.	_	

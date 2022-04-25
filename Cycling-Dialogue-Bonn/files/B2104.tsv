@@ -1,0 +1,158 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Eine Ampel, die nur den Autofahrern dient
+1-1	0-4	Eine	_	
+1-2	5-10	Ampel	_	
+1-3	10-11	,	_	
+1-4	12-15	die	_	
+1-5	16-19	nur	_	
+1-6	20-23	den	_	
+1-7	24-35	Autofahrern	_	
+1-8	36-41	dient	_	
+
+#Text=Am Ende des Schießbergwegs müssen Fahrradfahrer und Fußgänger über eine Fußgängerampel um in die Rheinaue zu gelangen (oder auf dem Langrabenweg in Richtung Königswinter weiter zu fahren).
+2-1	44-46	Am	*[7]	
+2-2	47-51	Ende	*[7]	
+2-3	52-55	des	*[7]	
+2-4	56-70	Schießbergwegs	*[7]	
+2-5	71-77	müssen	_	
+2-6	78-91	Fahrradfahrer	_	
+2-7	92-95	und	_	
+2-8	96-105	Fußgänger	_	
+2-9	106-110	über	_	
+2-10	111-115	eine	_	
+2-11	116-130	Fußgängerampel	_	
+2-12	131-133	um	_	
+2-13	134-136	in	*[8]	
+2-14	137-140	die	*[8]	
+2-15	141-149	Rheinaue	*[8]	
+2-16	150-152	zu	_	
+2-17	153-161	gelangen	_	
+2-18	162-163	(	_	
+2-19	163-167	oder	_	
+2-20	168-171	auf	*[9]	
+2-21	172-175	dem	*[9]	
+2-22	176-188	Langrabenweg	*[9]	
+2-23	189-191	in	*[9]	
+2-24	192-200	Richtung	*[9]	
+2-25	201-213	Königswinter	*[9]	
+2-26	214-220	weiter	_	
+2-27	221-223	zu	_	
+2-28	224-230	fahren	_	
+2-29	230-231	)	_	
+2-30	231-232	.	_	
+
+#Text=Diese reagiert positiv ausgedrückt sehr träge (auf Deutsch: es dauert eine Ewigkeit bis die Ampel umspringt, im Gegensatz z.B. zur Fußgängerampel am anderen Ende des Schießbergwegs an der Königseinterer Straße, wo man prompt bedient wird), ganz im Gegensatz zur Ampel, die an der Ausfahrt der T-Mobil anstehende Autos zügig auf den Landgrabenweg einfädelt.
+3-1	233-238	Diese	_	
+3-2	239-247	reagiert	_	
+3-3	248-255	positiv	_	
+3-4	256-267	ausgedrückt	_	
+3-5	268-272	sehr	_	
+3-6	273-278	träge	_	
+3-7	279-280	(	_	
+3-8	280-283	auf	_	
+3-9	284-291	Deutsch	_	
+3-10	291-292	:	_	
+3-11	293-295	es	_	
+3-12	296-302	dauert	_	
+3-13	303-307	eine	_	
+3-14	308-316	Ewigkeit	_	
+3-15	317-320	bis	_	
+3-16	321-324	die	_	
+3-17	325-330	Ampel	_	
+3-18	331-340	umspringt	_	
+3-19	340-341	,	_	
+3-20	342-344	im	_	
+3-21	345-354	Gegensatz	_	
+3-22	355-358	z.B	_	
+3-23	358-359	.	_	
+3-24	360-363	zur	_	
+3-25	364-378	Fußgängerampel	_	
+3-26	379-381	am	*[10]	
+3-27	382-389	anderen	*[10]	
+3-28	390-394	Ende	*[10]	
+3-29	395-398	des	*[10]	
+3-30	399-413	Schießbergwegs	*[10]	
+3-31	414-416	an	*[10]	
+3-32	417-420	der	*[10]	
+3-33	421-435	Königseinterer	*[10]	
+3-34	436-442	Straße	*[10]	
+3-35	442-443	,	_	
+3-36	444-446	wo	_	
+3-37	447-450	man	_	
+3-38	451-457	prompt	_	
+3-39	458-465	bedient	_	
+3-40	466-470	wird	_	
+3-41	470-471	)	_	
+3-42	471-472	,	_	
+3-43	473-477	ganz	_	
+3-44	478-480	im	_	
+3-45	481-490	Gegensatz	_	
+3-46	491-494	zur	_	
+3-47	495-500	Ampel	_	
+3-48	500-501	,	_	
+3-49	502-505	die	_	
+3-50	506-508	an	_	
+3-51	509-512	der	_	
+3-52	513-521	Ausfahrt	_	
+3-53	522-525	der	_	
+3-54	526-533	T-Mobil	_	
+3-55	534-544	anstehende	_	
+3-56	545-550	Autos	_	
+3-57	551-556	zügig	_	
+3-58	557-560	auf	*[11]	
+3-59	561-564	den	*[11]	
+3-60	565-578	Landgrabenweg	*[11]	
+3-61	579-588	einfädelt	_	
+3-62	588-589	.	_	
+
+#Text=Die Bevorzugung der mit dem Auto fahrenden T-Mobilmitarbeiter gegenüber den vom Schießbergweg kommenden Fahrrädern sollte abgestellt werden.
+4-1	590-593	Die	_	
+4-2	594-605	Bevorzugung	_	
+4-3	606-609	der	_	
+4-4	610-613	mit	_	
+4-5	614-617	dem	_	
+4-6	618-622	Auto	_	
+4-7	623-632	fahrenden	_	
+4-8	633-651	T-Mobilmitarbeiter	_	
+4-9	652-661	gegenüber	_	
+4-10	662-665	den	_	
+4-11	666-669	vom	*[12]	
+4-12	670-683	Schießbergweg	*[12]	
+4-13	684-693	kommenden	*[12]	
+4-14	694-704	Fahrrädern	_	
+4-15	705-711	sollte	_	
+4-16	712-722	abgestellt	_	
+4-17	723-729	werden	_	
+4-18	729-730	.	_	
+
+#Text=Eine Beeinträchtigung des fließenden Verkehrs durch eine schneller reagierende Ampel mit Anforderung sehe ich nicht....
+5-1	731-735	Eine	_	
+5-2	736-752	Beeinträchtigung	_	
+5-3	753-756	des	_	
+5-4	757-767	fließenden	_	
+5-5	768-776	Verkehrs	_	
+5-6	777-782	durch	_	
+5-7	783-787	eine	_	
+5-8	788-797	schneller	_	
+5-9	798-809	reagierende	_	
+5-10	810-815	Ampel	_	
+5-11	816-819	mit	_	
+5-12	820-831	Anforderung	_	
+5-13	832-836	sehe	_	
+5-14	837-840	ich	_	
+5-15	841-846	nicht	_	
+5-16	846-847	.	_	
+5-17	847-848	.	_	
+5-18	848-849	.	_	
+5-19	849-850	.	_	
+
+#Text=Freundliche Grüße Elmer Schabel
+6-1	851-862	Freundliche	_	
+6-2	863-868	Grüße	_	
+6-3	869-874	Elmer	_	
+6-4	875-882	Schabel	_	

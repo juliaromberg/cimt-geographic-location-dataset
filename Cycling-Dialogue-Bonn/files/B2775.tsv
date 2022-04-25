@@ -1,0 +1,198 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fehlende Beleuchtung, im Sommer fehlender Grünschnitt
+1-1	0-8	Fehlende	_	
+1-2	9-20	Beleuchtung	_	
+1-3	20-21	,	_	
+1-4	22-24	im	_	
+1-5	25-31	Sommer	_	
+1-6	32-41	fehlender	_	
+1-7	42-53	Grünschnitt	_	
+
+#Text=Auf dem Radweg der auf der Kessenicher/Friesdorfer Seite parallel zur Oscar-Romero-Allee und zur Nahum-Goldmann-Allee verläuft ist auf dem Teilstück zwischen der Marie-Kahle-Allee und der Abbiegung Am Südfriedhof keine Beleuchtung vorhanden.
+2-1	56-59	Auf	*[12]	
+2-2	60-63	dem	*[12]	
+2-3	64-70	Radweg	*[12]	
+2-4	71-74	der	*[12]	
+2-5	75-78	auf	*[12]	
+2-6	79-82	der	*[12]	
+2-7	83-94	Kessenicher	*[12]	
+2-8	94-95	/	*[12]	
+2-9	95-106	Friesdorfer	*[12]	
+2-10	107-112	Seite	*[12]	
+2-11	113-121	parallel	*[12]	
+2-12	122-125	zur	*[12]	
+2-13	126-144	Oscar-Romero-Allee	*[12]	
+2-14	145-148	und	*[12]	
+2-15	149-152	zur	*[12]	
+2-16	153-173	Nahum-Goldmann-Allee	*[12]	
+2-17	174-182	verläuft	*[12]	
+2-18	183-186	ist	_	
+2-19	187-190	auf	_	
+2-20	191-194	dem	_	
+2-21	195-204	Teilstück	_	
+2-22	205-213	zwischen	*[13]	
+2-23	214-217	der	*[13]	
+2-24	218-235	Marie-Kahle-Allee	*[13]	
+2-25	236-239	und	*[13]	
+2-26	240-243	der	*[13]	
+2-27	244-253	Abbiegung	*[13]	
+2-28	254-256	Am	*[13]	
+2-29	257-268	Südfriedhof	*[13]	
+2-30	269-274	keine	_	
+2-31	275-286	Beleuchtung	_	
+2-32	287-296	vorhanden	_	
+2-33	296-297	.	_	
+
+#Text=Wegunebenheiten, Fussgänger und unbeleuchtete Radfahrer sind daher im Dunkeln nicht zu erkennen.
+3-1	298-313	Wegunebenheiten	_	
+3-2	313-314	,	_	
+3-3	315-325	Fussgänger	_	
+3-4	326-329	und	_	
+3-5	330-343	unbeleuchtete	_	
+3-6	344-353	Radfahrer	_	
+3-7	354-358	sind	_	
+3-8	359-364	daher	_	
+3-9	365-367	im	_	
+3-10	368-375	Dunkeln	_	
+3-11	376-381	nicht	_	
+3-12	382-384	zu	_	
+3-13	385-393	erkennen	_	
+3-14	393-394	.	_	
+
+#Text=Die Beleuchtung der Oscar-Romero-Allee und der Nahum-Goldmann-Allee reicht nicht bis auf diesen Weg.
+4-1	395-398	Die	_	
+4-2	399-410	Beleuchtung	_	
+4-3	411-414	der	_	
+4-4	415-433	Oscar-Romero-Allee	*[14]	
+4-5	434-437	und	*[14]	
+4-6	438-441	der	*[14]	
+4-7	442-462	Nahum-Goldmann-Allee	*[14]	
+4-8	463-469	reicht	_	
+4-9	470-475	nicht	_	
+4-10	476-479	bis	_	
+4-11	480-483	auf	_	
+4-12	484-490	diesen	_	
+4-13	491-494	Weg	_	
+4-14	494-495	.	_	
+
+#Text=Da insb. in den Abendstunden die Schranken oft lange geschlossen sind, nutzen Radfahrer und Fussgänger oft die erste Möglichkeit um auf diese Seite der Gleise zu gelangen.
+5-1	496-498	Da	_	
+5-2	499-503	insb	_	
+5-3	503-504	.	_	
+5-4	505-507	in	_	
+5-5	508-511	den	_	
+5-6	512-524	Abendstunden	_	
+5-7	525-528	die	_	
+5-8	529-538	Schranken	_	
+5-9	539-542	oft	_	
+5-10	543-548	lange	_	
+5-11	549-560	geschlossen	_	
+5-12	561-565	sind	_	
+5-13	565-566	,	_	
+5-14	567-573	nutzen	_	
+5-15	574-583	Radfahrer	_	
+5-16	584-587	und	_	
+5-17	588-598	Fussgänger	_	
+5-18	599-602	oft	_	
+5-19	603-606	die	_	
+5-20	607-612	erste	_	
+5-21	613-624	Möglichkeit	_	
+5-22	625-627	um	_	
+5-23	628-631	auf	_	
+5-24	632-637	diese	_	
+5-25	638-643	Seite	_	
+5-26	644-647	der	_	
+5-27	648-654	Gleise	_	
+5-28	655-657	zu	_	
+5-29	658-666	gelangen	_	
+5-30	666-667	.	_	
+
+#Text=Sie sind dann jedoch gezwungen im Stockdunkeln weiter zu fahren.
+6-1	668-671	Sie	_	
+6-2	672-676	sind	_	
+6-3	677-681	dann	_	
+6-4	682-688	jedoch	_	
+6-5	689-698	gezwungen	_	
+6-6	699-701	im	_	
+6-7	702-714	Stockdunkeln	_	
+6-8	715-721	weiter	_	
+6-9	722-724	zu	_	
+6-10	725-731	fahren	_	
+6-11	731-732	.	_	
+
+#Text=Dies ist nicht nur gefährlich, sondern auch unheimlich.
+7-1	733-737	Dies	_	
+7-2	738-741	ist	_	
+7-3	742-747	nicht	_	
+7-4	748-751	nur	_	
+7-5	752-762	gefährlich	_	
+7-6	762-763	,	_	
+7-7	764-771	sondern	_	
+7-8	772-776	auch	_	
+7-9	777-787	unheimlich	_	
+7-10	787-788	.	_	
+
+#Text=Alternativ bleibt nur langes Warten am Bahnübergang mit Beleuchtung und/oder beleuchtete Umwege fahren.
+8-1	789-799	Alternativ	_	
+8-2	800-806	bleibt	_	
+8-3	807-810	nur	_	
+8-4	811-817	langes	_	
+8-5	818-824	Warten	_	
+8-6	825-827	am	_	
+8-7	828-840	Bahnübergang	_	
+8-8	841-844	mit	_	
+8-9	845-856	Beleuchtung	_	
+8-10	857-860	und	_	
+8-11	860-861	/	_	
+8-12	861-865	oder	_	
+8-13	866-877	beleuchtete	_	
+8-14	878-884	Umwege	_	
+8-15	885-891	fahren	_	
+8-16	891-892	.	_	
+
+#Text=Des Weiteren erfolgt im Sommer auf diesem Teilstück oft kein Grünschnitt.
+9-1	893-896	Des	_	
+9-2	897-905	Weiteren	_	
+9-3	906-913	erfolgt	_	
+9-4	914-916	im	_	
+9-5	917-923	Sommer	_	
+9-6	924-927	auf	_	
+9-7	928-934	diesem	_	
+9-8	935-944	Teilstück	_	
+9-9	945-948	oft	_	
+9-10	949-953	kein	_	
+9-11	954-965	Grünschnitt	_	
+9-12	965-966	.	_	
+
+#Text=Dadurch verengt sich der Weg so, dass zum Teil keine zwei Räder mehr aneinander vorbeifahren können.
+10-1	967-974	Dadurch	_	
+10-2	975-982	verengt	_	
+10-3	983-987	sich	_	
+10-4	988-991	der	_	
+10-5	992-995	Weg	_	
+10-6	996-998	so	_	
+10-7	998-999	,	_	
+10-8	1000-1004	dass	_	
+10-9	1005-1008	zum	_	
+10-10	1009-1013	Teil	_	
+10-11	1014-1019	keine	_	
+10-12	1020-1024	zwei	_	
+10-13	1025-1030	Räder	_	
+10-14	1031-1035	mehr	_	
+10-15	1036-1046	aneinander	_	
+10-16	1047-1059	vorbeifahren	_	
+10-17	1060-1066	können	_	
+10-18	1066-1067	.	_	
+
+#Text=Regelmäßiger Grünschnitt wäre hier wünschenswert.
+11-1	1068-1080	Regelmäßiger	_	
+11-2	1081-1092	Grünschnitt	_	
+11-3	1093-1097	wäre	_	
+11-4	1098-1102	hier	_	
+11-5	1103-1116	wünschenswert	_	
+11-6	1116-1117	.	_	

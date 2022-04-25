@@ -1,0 +1,151 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Rechtsabbieger aus Pastoratsgasse zu schnell
+1-1	0-14	Rechtsabbieger	*[9]	
+1-2	15-18	aus	*[9]	
+1-3	19-33	Pastoratsgasse	*[9]	
+1-4	34-36	zu	_	
+1-5	37-44	schnell	_	
+
+#Text=Wenn man gegen die Einbahnstraße fährt, also Richtung Süd-West, kommen einem die Rechtsabbieger aus der Pastoratsgasse entgegen.
+2-1	47-51	Wenn	_	
+2-2	52-55	man	_	
+2-3	56-61	gegen	_	
+2-4	62-65	die	_	
+2-5	66-79	Einbahnstraße	_	
+2-6	80-85	fährt	_	
+2-7	85-86	,	_	
+2-8	87-91	also	_	
+2-9	92-100	Richtung	_	
+2-10	101-109	Süd-West	_	
+2-11	109-110	,	_	
+2-12	111-117	kommen	_	
+2-13	118-123	einem	_	
+2-14	124-127	die	_	
+2-15	128-142	Rechtsabbieger	*[10]	
+2-16	143-146	aus	*[10]	
+2-17	147-150	der	*[10]	
+2-18	151-165	Pastoratsgasse	*[10]	
+2-19	166-174	entgegen	_	
+2-20	174-175	.	_	
+
+#Text=Da die meisten wohl nicht damit rechnen, dass ein Radfahrer entgegenkommen könnte, fahren die meisten recht zügig um die Kurve.
+3-1	176-178	Da	_	
+3-2	179-182	die	_	
+3-3	183-190	meisten	_	
+3-4	191-195	wohl	_	
+3-5	196-201	nicht	_	
+3-6	202-207	damit	_	
+3-7	208-215	rechnen	_	
+3-8	215-216	,	_	
+3-9	217-221	dass	_	
+3-10	222-225	ein	_	
+3-11	226-235	Radfahrer	_	
+3-12	236-250	entgegenkommen	_	
+3-13	251-257	könnte	_	
+3-14	257-258	,	_	
+3-15	259-265	fahren	_	
+3-16	266-269	die	_	
+3-17	270-277	meisten	_	
+3-18	278-283	recht	_	
+3-19	284-289	zügig	_	
+3-20	290-292	um	_	
+3-21	293-296	die	_	
+3-22	297-302	Kurve	_	
+3-23	302-303	.	_	
+
+#Text=Dann ist die gesamte Straße immer zugeparkt, sodass man auch nicht sinnvoll um die Kurve schauen kann.
+4-1	304-308	Dann	_	
+4-2	309-312	ist	_	
+4-3	313-316	die	_	
+4-4	317-324	gesamte	_	
+4-5	325-331	Straße	_	
+4-6	332-337	immer	_	
+4-7	338-347	zugeparkt	_	
+4-8	347-348	,	_	
+4-9	349-355	sodass	_	
+4-10	356-359	man	_	
+4-11	360-364	auch	_	
+4-12	365-370	nicht	_	
+4-13	371-379	sinnvoll	_	
+4-14	380-382	um	_	
+4-15	383-386	die	_	
+4-16	387-392	Kurve	_	
+4-17	393-400	schauen	_	
+4-18	401-405	kann	_	
+4-19	405-406	.	_	
+
+#Text=Dadurch habe ich als Radfahrer immer die Sorge, angefahren zu werden.
+5-1	407-414	Dadurch	_	
+5-2	415-419	habe	_	
+5-3	420-423	ich	_	
+5-4	424-427	als	_	
+5-5	428-437	Radfahrer	_	
+5-6	438-443	immer	_	
+5-7	444-447	die	_	
+5-8	448-453	Sorge	_	
+5-9	453-454	,	_	
+5-10	455-465	angefahren	_	
+5-11	466-468	zu	_	
+5-12	469-475	werden	_	
+5-13	475-476	.	_	
+
+#Text=Lieber fahre ich daher den Umweg Effertzstraße <U+2192> Von-Weichs-Straße <U+2192> Erich-Hoffmann-Straße, um dieser Situation zu umgehen.
+6-1	477-483	Lieber	_	
+6-2	484-489	fahre	_	
+6-3	490-493	ich	_	
+6-4	494-499	daher	_	
+6-5	500-503	den	_	
+6-6	504-509	Umweg	_	
+6-7	510-523	Effertzstraße	*[11]	
+6-8	524-525	<	*[11]	
+6-9	525-526	U	*[11]	
+6-10	526-527	+	*[11]	
+6-11	527-531	2192	*[11]	
+6-12	531-532	>	*[11]	
+6-13	533-550	Von-Weichs-Straße	*[11]	
+6-14	551-552	<	*[11]	
+6-15	552-553	U	*[11]	
+6-16	553-554	+	*[11]	
+6-17	554-558	2192	*[11]	
+6-18	558-559	>	*[11]	
+6-19	560-581	Erich-Hoffmann-Straße	*[11]	
+6-20	581-582	,	_	
+6-21	583-585	um	_	
+6-22	586-592	dieser	_	
+6-23	593-602	Situation	_	
+6-24	603-605	zu	_	
+6-25	606-613	umgehen	_	
+6-26	613-614	.	_	
+
+#Text=Alternativ kann man auch auf dem Gehweg fahren, damit man genug Abstand zur Straße hat.
+7-1	615-625	Alternativ	_	
+7-2	626-630	kann	_	
+7-3	631-634	man	_	
+7-4	635-639	auch	_	
+7-5	640-643	auf	_	
+7-6	644-647	dem	_	
+7-7	648-654	Gehweg	_	
+7-8	655-661	fahren	_	
+7-9	661-662	,	_	
+7-10	663-668	damit	_	
+7-11	669-672	man	_	
+7-12	673-678	genug	_	
+7-13	679-686	Abstand	_	
+7-14	687-690	zur	_	
+7-15	691-697	Straße	_	
+7-16	698-701	hat	_	
+7-17	701-702	.	_	
+
+#Text=Aber das ist so nicht vorgesehen.
+8-1	703-707	Aber	_	
+8-2	708-711	das	_	
+8-3	712-715	ist	_	
+8-4	716-718	so	_	
+8-5	719-724	nicht	_	
+8-6	725-735	vorgesehen	_	
+8-7	735-736	.	_	

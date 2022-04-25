@@ -1,0 +1,54 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Durchgängiger Radweg auf dem grünen Mittelstreifen des Gürtels
+1-1	0-13	Durchgängiger	_	
+1-2	14-20	Radweg	_	
+1-3	21-24	auf	_	
+1-4	25-28	dem	_	
+1-5	29-35	grünen	_	
+1-6	36-50	Mittelstreifen	_	
+1-7	51-54	des	_	
+1-8	55-62	Gürtels	_	
+
+#Text=Der Mittelstreifen des Melatengürtels könnte als Radweg ausgebaut werden.
+2-1	65-68	Der	*[5]	
+2-2	69-83	Mittelstreifen	*[5]	
+2-3	84-87	des	*[5]	
+2-4	88-102	Melatengürtels	*[5]	
+2-5	103-109	könnte	_	
+2-6	110-113	als	_	
+2-7	114-120	Radweg	_	
+2-8	121-130	ausgebaut	_	
+2-9	131-137	werden	_	
+2-10	137-138	.	_	
+
+#Text=Dazu müssten Bordsteine abgesenkt und Ampelanlagen überarbeitet werden.
+3-1	139-143	Dazu	_	
+3-2	144-151	müssten	_	
+3-3	152-162	Bordsteine	_	
+3-4	163-172	abgesenkt	_	
+3-5	173-176	und	_	
+3-6	177-189	Ampelanlagen	_	
+3-7	190-202	überarbeitet	_	
+3-8	203-209	werden	_	
+3-9	209-210	.	_	
+
+#Text=Vorteil: Radfahrende und ruhender Verkehr kämen sich nicht mehr in die Quere.
+4-1	211-218	Vorteil	_	
+4-2	218-219	:	_	
+4-3	220-231	Radfahrende	_	
+4-4	232-235	und	_	
+4-5	236-244	ruhender	_	
+4-6	245-252	Verkehr	_	
+4-7	253-258	kämen	_	
+4-8	259-263	sich	_	
+4-9	264-269	nicht	_	
+4-10	270-274	mehr	_	
+4-11	275-277	in	_	
+4-12	278-281	die	_	
+4-13	282-287	Quere	_	
+4-14	287-288	.	_	

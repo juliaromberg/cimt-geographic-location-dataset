@@ -1,0 +1,37 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Kreuzung
+1-1	0-11	Gefährliche	_	
+1-2	12-20	Kreuzung	_	
+
+#Text=Kreuzung Nussallee - Katzenburgweg/Sobottaweg Rechts vor links wird von Autofahrern häufig ignoriert Helfen würden Haltelinien an allen vier, in die Kreuzung einmündenden Fahrspuren
+2-1	23-31	Kreuzung	*[3]	
+2-2	32-41	Nussallee	*[3]	
+2-3	42-43	-	*[3]	
+2-4	44-57	Katzenburgweg	*[3]	
+2-5	57-58	/	*[3]	
+2-6	58-68	Sobottaweg	*[3]	
+2-7	69-75	Rechts	_	
+2-8	76-79	vor	_	
+2-9	80-85	links	_	
+2-10	86-90	wird	_	
+2-11	91-94	von	_	
+2-12	95-106	Autofahrern	_	
+2-13	107-113	häufig	_	
+2-14	114-123	ignoriert	_	
+2-15	124-130	Helfen	_	
+2-16	131-137	würden	_	
+2-17	138-149	Haltelinien	_	
+2-18	150-152	an	_	
+2-19	153-158	allen	_	
+2-20	159-163	vier	_	
+2-21	163-164	,	_	
+2-22	165-167	in	_	
+2-23	168-171	die	_	
+2-24	172-180	Kreuzung	_	
+2-25	181-193	einmündenden	_	
+2-26	194-204	Fahrspuren	_	

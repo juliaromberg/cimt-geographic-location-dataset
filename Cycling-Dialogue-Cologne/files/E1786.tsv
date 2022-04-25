@@ -1,0 +1,122 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radschutzstreifen
+1-1	0-17	Radschutzstreifen	_	
+
+#Text=Auf dieser langen geraden verleitet es viele Autofahrer Gas zu geben und keine Rücksicht auf Fahrradfahrer zu nehmen.
+2-1	20-23	Auf	_	
+2-2	24-30	dieser	_	
+2-3	31-37	langen	_	
+2-4	38-45	geraden	_	
+2-5	46-55	verleitet	_	
+2-6	56-58	es	_	
+2-7	59-64	viele	_	
+2-8	65-75	Autofahrer	_	
+2-9	76-79	Gas	_	
+2-10	80-82	zu	_	
+2-11	83-88	geben	_	
+2-12	89-92	und	_	
+2-13	93-98	keine	_	
+2-14	99-108	Rücksicht	_	
+2-15	109-112	auf	_	
+2-16	113-126	Fahrradfahrer	_	
+2-17	127-129	zu	_	
+2-18	130-136	nehmen	_	
+2-19	136-137	.	_	
+
+#Text=Es ist sehr gefährlich an den parkenden Autos vorbeizufahren, wenn man von Autofahrern gedrängelt wird.
+3-1	138-140	Es	_	
+3-2	141-144	ist	_	
+3-3	145-149	sehr	_	
+3-4	150-160	gefährlich	_	
+3-5	161-163	an	_	
+3-6	164-167	den	_	
+3-7	168-177	parkenden	_	
+3-8	178-183	Autos	_	
+3-9	184-198	vorbeizufahren	_	
+3-10	198-199	,	_	
+3-11	200-204	wenn	_	
+3-12	205-208	man	_	
+3-13	209-212	von	_	
+3-14	213-224	Autofahrern	_	
+3-15	225-235	gedrängelt	_	
+3-16	236-240	wird	_	
+3-17	240-241	.	_	
+
+#Text=Dabei ist die Straße ausreichend breit.
+4-1	242-247	Dabei	_	
+4-2	248-251	ist	_	
+4-3	252-255	die	_	
+4-4	256-262	Straße	_	
+4-5	263-274	ausreichend	_	
+4-6	275-280	breit	_	
+4-7	280-281	.	_	
+
+#Text=Stadt einwärts wird es besonders vor der Ampel zur Helmholtzstraße gefährlich, die Straße wird enger und durch die parkenden Autos fehlt der Platz für überholende Autos.
+5-1	282-287	Stadt	*[7]	
+5-2	288-296	einwärts	*[7]	
+5-3	297-301	wird	*[7]	
+5-4	302-304	es	*[7]	
+5-5	305-314	besonders	*[7]	
+5-6	315-318	vor	*[7]	
+5-7	319-322	der	*[7]	
+5-8	323-328	Ampel	*[7]	
+5-9	329-332	zur	*[7]	
+5-10	333-348	Helmholtzstraße	*[7]	
+5-11	349-359	gefährlich	_	
+5-12	359-360	,	_	
+5-13	361-364	die	_	
+5-14	365-371	Straße	_	
+5-15	372-376	wird	_	
+5-16	377-382	enger	_	
+5-17	383-386	und	_	
+5-18	387-392	durch	_	
+5-19	393-396	die	_	
+5-20	397-406	parkenden	_	
+5-21	407-412	Autos	_	
+5-22	413-418	fehlt	_	
+5-23	419-422	der	_	
+5-24	423-428	Platz	_	
+5-25	429-432	für	_	
+5-26	433-444	überholende	_	
+5-27	445-450	Autos	_	
+5-28	450-451	.	_	
+
+#Text=Ich würde vorschlagen für diesen Straßenabschnitt einen Schutzstreifen für Radfahrer anzulegen, der deutlich farblich markiert und damit gut Sichtbar ist.
+6-1	452-455	Ich	_	
+6-2	456-461	würde	_	
+6-3	462-473	vorschlagen	_	
+6-4	474-477	für	_	
+6-5	478-484	diesen	_	
+6-6	485-501	Straßenabschnitt	_	
+6-7	502-507	einen	_	
+6-8	508-522	Schutzstreifen	_	
+6-9	523-526	für	_	
+6-10	527-536	Radfahrer	_	
+6-11	537-546	anzulegen	_	
+6-12	546-547	,	_	
+6-13	548-551	der	_	
+6-14	552-560	deutlich	_	
+6-15	561-569	farblich	_	
+6-16	570-578	markiert	_	
+6-17	579-582	und	_	
+6-18	583-588	damit	_	
+6-19	589-592	gut	_	
+6-20	593-601	Sichtbar	_	
+6-21	602-605	ist	_	
+6-22	605-606	.	_	
+
+#Text=Zudem sollte etwas gegen die Raser unternommen werden.
+7-1	607-612	Zudem	_	
+7-2	613-619	sollte	_	
+7-3	620-625	etwas	_	
+7-4	626-631	gegen	_	
+7-5	632-635	die	_	
+7-6	636-641	Raser	_	
+7-7	642-653	unternommen	_	
+7-8	654-660	werden	_	
+7-9	660-661	.	_	

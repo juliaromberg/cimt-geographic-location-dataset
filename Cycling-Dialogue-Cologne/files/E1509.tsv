@@ -1,0 +1,28 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Linksabbiegen von der Liebigstraße in die Subbelrather Straße
+1-1	0-13	Linksabbiegen	_	
+1-2	14-17	von	*[3]	
+1-3	18-21	der	*[3]	
+1-4	22-34	Liebigstraße	*[3]	
+1-5	35-37	in	*[3]	
+1-6	38-41	die	*[3]	
+1-7	42-54	Subbelrather	*[3]	
+1-8	55-61	Straße	*[3]	
+
+#Text=Linksabbiegen von der Liebigstraße in die Subbelrather Straße für Radfahrer ermöglichen
+2-1	64-77	Linksabbiegen	_	
+2-2	78-81	von	*[4]	
+2-3	82-85	der	*[4]	
+2-4	86-98	Liebigstraße	*[4]	
+2-5	99-101	in	*[4]	
+2-6	102-105	die	*[4]	
+2-7	106-118	Subbelrather	*[4]	
+2-8	119-125	Straße	*[4]	
+2-9	126-129	für	_	
+2-10	130-139	Radfahrer	_	
+2-11	140-151	ermöglichen	_	

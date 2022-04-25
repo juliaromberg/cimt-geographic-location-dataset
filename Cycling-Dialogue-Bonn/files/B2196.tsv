@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Sehr enger Weg
+1-1	0-4	Sehr	_	
+1-2	5-10	enger	_	
+1-3	11-14	Weg	_	
+
+#Text=Wenn man von der Konrad-Adenauer-Brücke in Richtung Ramersdorf abfährt und direkt rechts abbiegt in Richtung Bonner Bogen, findet man eine scharfe Kurve, starkes Gefälle und zudem nur einen sehr schmalen Weg.
+2-1	17-21	Wenn	_	
+2-2	22-25	man	_	
+2-3	26-29	von	*[4]	
+2-4	30-33	der	*[4]	
+2-5	34-56	Konrad-Adenauer-Brücke	*[4]	
+2-6	57-59	in	*[4]	
+2-7	60-68	Richtung	*[4]	
+2-8	69-79	Ramersdorf	*[4]	
+2-9	80-87	abfährt	*[4]	
+2-10	88-91	und	*[4]	
+2-11	92-98	direkt	*[4]	
+2-12	99-105	rechts	*[4]	
+2-13	106-113	abbiegt	*[4]	
+2-14	114-116	in	*[4]	
+2-15	117-125	Richtung	*[4]	
+2-16	126-132	Bonner	*[4]	
+2-17	133-138	Bogen	*[4]	
+2-18	138-139	,	_	
+2-19	140-146	findet	_	
+2-20	147-150	man	_	
+2-21	151-155	eine	_	
+2-22	156-163	scharfe	_	
+2-23	164-169	Kurve	_	
+2-24	169-170	,	_	
+2-25	171-178	starkes	_	
+2-26	179-186	Gefälle	_	
+2-27	187-190	und	_	
+2-28	191-196	zudem	_	
+2-29	197-200	nur	_	
+2-30	201-206	einen	_	
+2-31	207-211	sehr	_	
+2-32	212-220	schmalen	_	
+2-33	221-224	Weg	_	
+2-34	224-225	.	_	
+
+#Text=Wenn ein Fahrradfahrer hochfährt und ein anderen, auf Grund des Gefälles, relativ schnell herunterfährt, ist es sehr oft ziemlich brenzlig.
+3-1	226-230	Wenn	_	
+3-2	231-234	ein	_	
+3-3	235-248	Fahrradfahrer	_	
+3-4	249-258	hochfährt	_	
+3-5	259-262	und	_	
+3-6	263-266	ein	_	
+3-7	267-274	anderen	_	
+3-8	274-275	,	_	
+3-9	276-279	auf	_	
+3-10	280-285	Grund	_	
+3-11	286-289	des	_	
+3-12	290-298	Gefälles	_	
+3-13	298-299	,	_	
+3-14	300-307	relativ	_	
+3-15	308-315	schnell	_	
+3-16	316-329	herunterfährt	_	
+3-17	329-330	,	_	
+3-18	331-334	ist	_	
+3-19	335-337	es	_	
+3-20	338-342	sehr	_	
+3-21	343-346	oft	_	
+3-22	347-355	ziemlich	_	
+3-23	356-364	brenzlig	_	
+3-24	364-365	.	_	

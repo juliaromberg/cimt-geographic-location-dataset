@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Ruderboote kreuzen
+1-1	0-10	Ruderboote	_	
+1-2	11-18	kreuzen	_	
+
+#Text=Unterbrechung des Radwegs markieren, damit Ruderboote den Weg zum Steg nutzen können.
+2-1	21-34	Unterbrechung	_	
+2-2	35-38	des	_	
+2-3	39-46	Radwegs	_	
+2-4	47-56	markieren	_	
+2-5	56-57	,	_	
+2-6	58-63	damit	_	
+2-7	64-74	Ruderboote	_	
+2-8	75-78	den	_	
+2-9	79-82	Weg	_	
+2-10	83-86	zum	_	
+2-11	87-91	Steg	_	
+2-12	92-98	nutzen	_	
+2-13	99-105	können	_	
+2-14	105-106	.	_	
+
+#Text=Rasende E-Biker machen diese Stelle sowohl für Fußgänger, als auch für Rudersportes gefährlich.
+3-1	107-114	Rasende	_	
+3-2	115-122	E-Biker	_	
+3-3	123-129	machen	_	
+3-4	130-135	diese	_	
+3-5	136-142	Stelle	_	
+3-6	143-149	sowohl	_	
+3-7	150-153	für	_	
+3-8	154-163	Fußgänger	_	
+3-9	163-164	,	_	
+3-10	165-168	als	_	
+3-11	169-173	auch	_	
+3-12	174-177	für	_	
+3-13	178-190	Rudersportes	_	
+3-14	191-201	gefährlich	_	
+3-15	201-202	.	_	

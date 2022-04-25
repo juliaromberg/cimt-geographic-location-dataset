@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg im Bereich der Verschwenkung am Bahnübergang zu schmal
+1-1	0-6	Radweg	_	
+1-2	7-9	im	_	
+1-3	10-17	Bereich	_	
+1-4	18-21	der	_	
+1-5	22-35	Verschwenkung	_	
+1-6	36-38	am	_	
+1-7	39-51	Bahnübergang	_	
+1-8	52-54	zu	_	
+1-9	55-61	schmal	_	
+
+#Text=Im Bereich der Verschenkung am relativ neuen Bahnübergang ist der Geh- und Radweg zu schmal.
+2-1	64-66	Im	_	
+2-2	67-74	Bereich	_	
+2-3	75-78	der	_	
+2-4	79-91	Verschenkung	_	
+2-5	92-94	am	_	
+2-6	95-102	relativ	_	
+2-7	103-108	neuen	_	
+2-8	109-121	Bahnübergang	_	
+2-9	122-125	ist	_	
+2-10	126-129	der	_	
+2-11	130-133	Geh	_	
+2-12	133-134	-	_	
+2-13	135-138	und	_	
+2-14	139-145	Radweg	_	
+2-15	146-148	zu	_	
+2-16	149-155	schmal	_	
+2-17	155-156	.	_	
+
+#Text=Im Bereich der Verschwenkung verringert sich sogar die Fahrbahnbreite im Vergleich zu geraden Strecke davor und dahinter.
+3-1	157-159	Im	_	
+3-2	160-167	Bereich	_	
+3-3	168-171	der	_	
+3-4	172-185	Verschwenkung	_	
+3-5	186-196	verringert	_	
+3-6	197-201	sich	_	
+3-7	202-207	sogar	_	
+3-8	208-211	die	_	
+3-9	212-226	Fahrbahnbreite	_	
+3-10	227-229	im	_	
+3-11	230-239	Vergleich	_	
+3-12	240-242	zu	_	
+3-13	243-250	geraden	_	
+3-14	251-258	Strecke	_	
+3-15	259-264	davor	_	
+3-16	265-268	und	_	
+3-17	269-277	dahinter	_	
+3-18	277-278	.	_	
+
+#Text=Zusätzlich ist der Grünstreifen daneben so niedrig angelgt, dass der Höhenunterschied zum Weg 10 - 15 cm beträgt.
+4-1	279-289	Zusätzlich	_	
+4-2	290-293	ist	_	
+4-3	294-297	der	_	
+4-4	298-310	Grünstreifen	_	
+4-5	311-318	daneben	_	
+4-6	319-321	so	_	
+4-7	322-329	niedrig	_	
+4-8	330-337	angelgt	_	
+4-9	337-338	,	_	
+4-10	339-343	dass	_	
+4-11	344-347	der	_	
+4-12	348-364	Höhenunterschied	_	
+4-13	365-368	zum	_	
+4-14	369-372	Weg	_	
+4-15	373-375	10	_	
+4-16	376-377	-	_	
+4-17	378-380	15	_	
+4-18	381-383	cm	_	
+4-19	384-391	beträgt	_	
+4-20	391-392	.	_	

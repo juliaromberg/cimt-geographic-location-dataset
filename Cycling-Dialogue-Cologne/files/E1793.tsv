@@ -1,0 +1,25 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Einbahnstraße für Fahrradfahrer öffnen
+1-1	0-13	Einbahnstraße	_	
+1-2	14-17	für	_	
+1-3	18-31	Fahrradfahrer	_	
+1-4	32-38	öffnen	_	
+
+#Text=..sie ist nämlich eh eher ein Parkplatz als eine Straße
+2-1	41-42	.	_	
+2-2	42-43	.	_	
+2-3	43-46	sie	_	
+2-4	47-50	ist	_	
+2-5	51-58	nämlich	_	
+2-6	59-61	eh	_	
+2-7	62-66	eher	_	
+2-8	67-70	ein	_	
+2-9	71-80	Parkplatz	_	
+2-10	81-84	als	_	
+2-11	85-89	eine	_	
+2-12	90-96	Straße	_	

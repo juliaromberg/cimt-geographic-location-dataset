@@ -1,0 +1,123 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Falschparker
+1-1	0-12	Falschparker	_	
+
+#Text=Auch hier wird gerne auf dem Radweg geparkt oder kurz gehalten, da hier eine Bar, eine Tanzschule und auch Müllcontainer sind.
+2-1	15-19	Auch	_	
+2-2	20-24	hier	_	
+2-3	25-29	wird	_	
+2-4	30-35	gerne	_	
+2-5	36-39	auf	_	
+2-6	40-43	dem	_	
+2-7	44-50	Radweg	_	
+2-8	51-58	geparkt	_	
+2-9	59-63	oder	_	
+2-10	64-68	kurz	_	
+2-11	69-77	gehalten	_	
+2-12	77-78	,	_	
+2-13	79-81	da	_	
+2-14	82-86	hier	_	
+2-15	87-91	eine	_	
+2-16	92-95	Bar	_	
+2-17	95-96	,	_	
+2-18	97-101	eine	_	
+2-19	102-112	Tanzschule	_	
+2-20	113-116	und	_	
+2-21	117-121	auch	_	
+2-22	122-135	Müllcontainer	_	
+2-23	136-140	sind	_	
+2-24	140-141	.	_	
+
+#Text=Wenn man das zu spät sieht, kann man nur noch bremsen und muß dann warten, bis der Autoverkehr an einem vorbeigezogen ist, bis man auf die Autospur wechseln kann.
+3-1	142-146	Wenn	_	
+3-2	147-150	man	_	
+3-3	151-154	das	_	
+3-4	155-157	zu	_	
+3-5	158-162	spät	_	
+3-6	163-168	sieht	_	
+3-7	168-169	,	_	
+3-8	170-174	kann	_	
+3-9	175-178	man	_	
+3-10	179-182	nur	_	
+3-11	183-187	noch	_	
+3-12	188-195	bremsen	_	
+3-13	196-199	und	_	
+3-14	200-203	muß	_	
+3-15	204-208	dann	_	
+3-16	209-215	warten	_	
+3-17	215-216	,	_	
+3-18	217-220	bis	_	
+3-19	221-224	der	_	
+3-20	225-236	Autoverkehr	_	
+3-21	237-239	an	_	
+3-22	240-245	einem	_	
+3-23	246-259	vorbeigezogen	_	
+3-24	260-263	ist	_	
+3-25	263-264	,	_	
+3-26	265-268	bis	_	
+3-27	269-272	man	_	
+3-28	273-276	auf	_	
+3-29	277-280	die	_	
+3-30	281-289	Autospur	_	
+3-31	290-298	wechseln	_	
+3-32	299-303	kann	_	
+3-33	303-304	.	_	
+
+#Text=Ein Einfädeln in den fließenden Autoverkehr ist aufgrund der Verkehrsdichte und des hohen Tempos der Autos dort meist nicht möglich.
+4-1	305-308	Ein	_	
+4-2	309-318	Einfädeln	_	
+4-3	319-321	in	_	
+4-4	322-325	den	_	
+4-5	326-336	fließenden	_	
+4-6	337-348	Autoverkehr	_	
+4-7	349-352	ist	_	
+4-8	353-361	aufgrund	_	
+4-9	362-365	der	_	
+4-10	366-380	Verkehrsdichte	_	
+4-11	381-384	und	_	
+4-12	385-388	des	_	
+4-13	389-394	hohen	_	
+4-14	395-401	Tempos	_	
+4-15	402-405	der	_	
+4-16	406-411	Autos	_	
+4-17	412-416	dort	_	
+4-18	417-422	meist	_	
+4-19	423-428	nicht	_	
+4-20	429-436	möglich	_	
+4-21	436-437	.	_	
+
+#Text=Wer vorausschauend fährt, schwenkt bereits frühzeitig auf die Autospur, muß aber mit dem Unverständnis der Autofahrer rechnen.
+5-1	438-441	Wer	_	
+5-2	442-456	vorausschauend	_	
+5-3	457-462	fährt	_	
+5-4	462-463	,	_	
+5-5	464-472	schwenkt	_	
+5-6	473-480	bereits	_	
+5-7	481-491	frühzeitig	_	
+5-8	492-495	auf	_	
+5-9	496-499	die	_	
+5-10	500-508	Autospur	_	
+5-11	508-509	,	_	
+5-12	510-513	muß	_	
+5-13	514-518	aber	_	
+5-14	519-522	mit	_	
+5-15	523-526	dem	_	
+5-16	527-540	Unverständnis	_	
+5-17	541-544	der	_	
+5-18	545-555	Autofahrer	_	
+5-19	556-563	rechnen	_	
+5-20	563-564	.	_	
+
+#Text=Hier sollte die Stadt häufiger kontrollieren.
+6-1	565-569	Hier	_	
+6-2	570-576	sollte	_	
+6-3	577-580	die	_	
+6-4	581-586	Stadt	_	
+6-5	587-595	häufiger	_	
+6-6	596-609	kontrollieren	_	
+6-7	609-610	.	_	

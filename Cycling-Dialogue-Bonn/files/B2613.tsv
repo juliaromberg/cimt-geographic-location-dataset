@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefährliche Einmündung
+1-1	0-11	Gefährliche	_	
+1-2	12-22	Einmündung	_	
+
+#Text=Radfahrer, die von Buschdorf kommend Richtung Stadtmitte auf dem linken Radweg unterwegs sind, müssen am Engländerweg immer abbremsen, weil hier häufig Autofahrer herausgeschossen kommen, bis an die Haltelinie vorfahren und auf dem Radweg stehen bleiben.
+2-1	25-34	Radfahrer	_	
+2-2	34-35	,	_	
+2-3	36-39	die	_	
+2-4	40-43	von	*[5]	
+2-5	44-53	Buschdorf	*[5]	
+2-6	54-61	kommend	*[5]	
+2-7	62-70	Richtung	*[5]	
+2-8	71-81	Stadtmitte	*[5]	
+2-9	82-85	auf	*[5]	
+2-10	86-89	dem	*[5]	
+2-11	90-96	linken	*[5]	
+2-12	97-103	Radweg	*[5]	
+2-13	104-113	unterwegs	_	
+2-14	114-118	sind	_	
+2-15	118-119	,	_	
+2-16	120-126	müssen	_	
+2-17	127-129	am	*[6]	
+2-18	130-142	Engländerweg	*[6]	
+2-19	143-148	immer	_	
+2-20	149-158	abbremsen	_	
+2-21	158-159	,	_	
+2-22	160-164	weil	_	
+2-23	165-169	hier	_	
+2-24	170-176	häufig	_	
+2-25	177-187	Autofahrer	_	
+2-26	188-204	herausgeschossen	_	
+2-27	205-211	kommen	_	
+2-28	211-212	,	_	
+2-29	213-216	bis	_	
+2-30	217-219	an	_	
+2-31	220-223	die	_	
+2-32	224-234	Haltelinie	_	
+2-33	235-244	vorfahren	_	
+2-34	245-248	und	_	
+2-35	249-252	auf	_	
+2-36	253-256	dem	_	
+2-37	257-263	Radweg	_	
+2-38	264-270	stehen	_	
+2-39	271-278	bleiben	_	
+2-40	278-279	.	_	
+
+#Text=Durch Container und Büsche sind herannahende Autofahrer erst sehr spät erkennbar.
+3-1	280-285	Durch	_	
+3-2	286-295	Container	_	
+3-3	296-299	und	_	
+3-4	300-306	Büsche	_	
+3-5	307-311	sind	_	
+3-6	312-324	herannahende	_	
+3-7	325-335	Autofahrer	_	
+3-8	336-340	erst	_	
+3-9	341-345	sehr	_	
+3-10	346-350	spät	_	
+3-11	351-360	erkennbar	_	
+3-12	360-361	.	_	
+
+#Text=Freie Sicht wäre hier für beide Seiten hilfreich.
+4-1	362-367	Freie	_	
+4-2	368-373	Sicht	_	
+4-3	374-378	wäre	_	
+4-4	379-383	hier	_	
+4-5	384-387	für	_	
+4-6	388-393	beide	_	
+4-7	394-400	Seiten	_	
+4-8	401-410	hilfreich	_	
+4-9	410-411	.	_	

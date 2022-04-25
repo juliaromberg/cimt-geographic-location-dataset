@@ -1,0 +1,104 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Grevenbroicher Str. zwischen Andreas-Muhr-Str. u. Nüssenberger Str.
+1-1	0-14	Grevenbroicher	*[7]	
+1-2	15-18	Str	*[7]	
+1-3	18-19	.	*[7]	
+1-4	20-28	zwischen	*[7]	
+1-5	29-45	Andreas-Muhr-Str	*[7]	
+1-6	45-46	.	*[7]	
+1-7	47-48	u	*[7]	
+1-8	48-49	.	*[7]	
+1-9	50-62	Nüssenberger	*[7]	
+1-10	63-66	Str	*[7]	
+1-11	66-67	.	_	
+
+#Text=auf der Grevenbroicher Str. in Bocklemünd zu fahren braucht einen Schutzengel oder ein Begleitfahrzeug.
+2-1	70-73	auf	*[8]	
+2-2	74-77	der	*[8]	
+2-3	78-92	Grevenbroicher	*[8]	
+2-4	93-96	Str	*[8]	
+2-5	96-97	.	*[8]	
+2-6	98-100	in	*[8]	
+2-7	101-111	Bocklemünd	*[8]	
+2-8	112-114	zu	_	
+2-9	115-121	fahren	_	
+2-10	122-129	braucht	_	
+2-11	130-135	einen	_	
+2-12	136-147	Schutzengel	_	
+2-13	148-152	oder	_	
+2-14	153-156	ein	_	
+2-15	157-172	Begleitfahrzeug	_	
+2-16	172-173	.	_	
+
+#Text=Entweder es erwischt dich einer der zahlreichen Schlaglöcher auf der Straße, eines der zugeparkten Autos oder eines an dir vorbeifahrenden Autos.
+3-1	174-182	Entweder	_	
+3-2	183-185	es	_	
+3-3	186-194	erwischt	_	
+3-4	195-199	dich	_	
+3-5	200-205	einer	_	
+3-6	206-209	der	_	
+3-7	210-221	zahlreichen	_	
+3-8	222-234	Schlaglöcher	_	
+3-9	235-238	auf	_	
+3-10	239-242	der	_	
+3-11	243-249	Straße	_	
+3-12	249-250	,	_	
+3-13	251-256	eines	_	
+3-14	257-260	der	_	
+3-15	261-272	zugeparkten	_	
+3-16	273-278	Autos	_	
+3-17	279-283	oder	_	
+3-18	284-289	eines	_	
+3-19	290-292	an	_	
+3-20	293-296	dir	_	
+3-21	297-312	vorbeifahrenden	_	
+3-22	313-318	Autos	_	
+3-23	318-319	.	_	
+
+#Text=Vorschlag: Fahrbahndecke eneuern und eine Einbahnstraße draus machen.
+4-1	320-329	Vorschlag	_	
+4-2	329-330	:	_	
+4-3	331-344	Fahrbahndecke	_	
+4-4	345-352	eneuern	_	
+4-5	353-356	und	_	
+4-6	357-361	eine	_	
+4-7	362-375	Einbahnstraße	_	
+4-8	376-381	draus	_	
+4-9	382-388	machen	_	
+4-10	388-389	.	_	
+
+#Text=Oder wech mit den links u. rechts parkenden Autos.
+5-1	390-394	Oder	_	
+5-2	395-399	wech	_	
+5-3	400-403	mit	_	
+5-4	404-407	den	_	
+5-5	408-413	links	_	
+5-6	414-415	u	_	
+5-7	415-416	.	_	
+5-8	417-423	rechts	_	
+5-9	424-433	parkenden	_	
+5-10	434-439	Autos	_	
+5-11	439-440	.	_	
+
+#Text=Nur der Militärring-Radweg und die Gilbachstraße sind noch schlechter und tieferen Schlaglöchern, Rissen versehen.
+6-1	441-444	Nur	_	
+6-2	445-448	der	*[9]	
+6-3	449-467	Militärring-Radweg	*[9]	
+6-4	468-471	und	*[9]	
+6-5	472-475	die	*[9]	
+6-6	476-489	Gilbachstraße	*[9]	
+6-7	490-494	sind	_	
+6-8	495-499	noch	_	
+6-9	500-510	schlechter	_	
+6-10	511-514	und	_	
+6-11	515-523	tieferen	_	
+6-12	524-537	Schlaglöchern	_	
+6-13	537-538	,	_	
+6-14	539-545	Rissen	_	
+6-15	546-554	versehen	_	
+6-16	554-555	.	_	

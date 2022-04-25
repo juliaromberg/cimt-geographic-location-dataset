@@ -1,0 +1,154 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Übergang von Fussgänger-/Fahrradweg auf den Fahrradweg auf der B9
+1-1	0-8	Übergang	*[10]	
+1-2	9-12	von	*[10]	
+1-3	13-23	Fussgänger	*[10]	
+1-4	23-24	-	*[10]	
+1-5	24-25	/	*[10]	
+1-6	25-35	Fahrradweg	*[10]	
+1-7	36-39	auf	*[10]	
+1-8	40-43	den	*[10]	
+1-9	44-54	Fahrradweg	*[10]	
+1-10	55-58	auf	*[10]	
+1-11	59-62	der	*[10]	
+1-12	63-65	B9	*[10]	
+
+#Text=Der Übergang des Fussgänger-/Fahrradweg auf die B9 ist sowohl für Autofahrer als auch für Fahrradfahrer nur schwer einsehbar und damit stark unfallgefährdend.
+2-1	68-71	Der	*[11]	
+2-2	72-80	Übergang	*[11]	
+2-3	81-84	des	*[11]	
+2-4	85-95	Fussgänger	*[11]	
+2-5	95-96	-	*[11]	
+2-6	96-97	/	*[11]	
+2-7	97-107	Fahrradweg	*[11]	
+2-8	108-111	auf	*[11]	
+2-9	112-115	die	*[11]	
+2-10	116-118	B9	*[11]	
+2-11	119-122	ist	_	
+2-12	123-129	sowohl	_	
+2-13	130-133	für	_	
+2-14	134-144	Autofahrer	_	
+2-15	145-148	als	_	
+2-16	149-153	auch	_	
+2-17	154-157	für	_	
+2-18	158-171	Fahrradfahrer	_	
+2-19	172-175	nur	_	
+2-20	176-182	schwer	_	
+2-21	183-192	einsehbar	_	
+2-22	193-196	und	_	
+2-23	197-202	damit	_	
+2-24	203-208	stark	_	
+2-25	209-225	unfallgefährdend	_	
+2-26	225-226	.	_	
+
+#Text=Das hat folgende Gründe:
+3-1	227-230	Das	_	
+3-2	231-234	hat	_	
+3-3	235-243	folgende	_	
+3-4	244-250	Gründe	_	
+3-5	250-251	:	_	
+
+#Text=1. Autofahrer Richtung City fahrend sehen Fahrradfahrer nur sehr spät, da größere Blumenkübel die Sicht versperren.
+4-1	252-253	1	_	
+4-2	253-254	.	_	
+4-3	255-265	Autofahrer	_	
+4-4	266-274	Richtung	*[12]	
+4-5	275-279	City	*[12]	
+4-6	280-287	fahrend	_	
+4-7	288-293	sehen	_	
+4-8	294-307	Fahrradfahrer	_	
+4-9	308-311	nur	_	
+4-10	312-316	sehr	_	
+4-11	317-321	spät	_	
+4-12	321-322	,	_	
+4-13	323-325	da	_	
+4-14	326-333	größere	_	
+4-15	334-345	Blumenkübel	_	
+4-16	346-349	die	_	
+4-17	350-355	Sicht	_	
+4-18	356-366	versperren	_	
+4-19	366-367	.	_	
+
+#Text=Neuerdings auch durch ein Werbeschild, einer nahe arbeitenden Tiefbaufirma.
+5-1	368-378	Neuerdings	_	
+5-2	379-383	auch	_	
+5-3	384-389	durch	_	
+5-4	390-393	ein	_	
+5-5	394-405	Werbeschild	_	
+5-6	405-406	,	_	
+5-7	407-412	einer	_	
+5-8	413-417	nahe	_	
+5-9	418-429	arbeitenden	_	
+5-10	430-442	Tiefbaufirma	_	
+5-11	442-443	.	_	
+
+#Text=Durch den hinzukommenden Fahrradstreifen wird die rechte Fahrbahn geschmälert.
+6-1	444-449	Durch	_	
+6-2	450-453	den	_	
+6-3	454-468	hinzukommenden	_	
+6-4	469-484	Fahrradstreifen	_	
+6-5	485-489	wird	_	
+6-6	490-493	die	_	
+6-7	494-500	rechte	_	
+6-8	501-509	Fahrbahn	_	
+6-9	510-521	geschmälert	_	
+6-10	521-522	.	_	
+
+#Text=Auto rechts fahren auf der B9 eigentlich immer auf dem Fahrradstreifen sofern keine Fahrradfahrer diesen benutzen.
+7-1	523-527	Auto	_	
+7-2	528-534	rechts	_	
+7-3	535-541	fahren	_	
+7-4	542-545	auf	_	
+7-5	546-549	der	_	
+7-6	550-552	B9	*	
+7-7	553-563	eigentlich	_	
+7-8	564-569	immer	_	
+7-9	570-573	auf	_	
+7-10	574-577	dem	_	
+7-11	578-593	Fahrradstreifen	_	
+7-12	594-600	sofern	_	
+7-13	601-606	keine	_	
+7-14	607-620	Fahrradfahrer	_	
+7-15	621-627	diesen	_	
+7-16	628-636	benutzen	_	
+7-17	636-637	.	_	
+
+#Text=2. Fahrradfahrer sehen den von hinten kommenden Verkehr nicht.
+8-1	638-639	2	_	
+8-2	639-640	.	_	
+8-3	641-654	Fahrradfahrer	_	
+8-4	655-660	sehen	_	
+8-5	661-664	den	_	
+8-6	665-668	von	_	
+8-7	669-675	hinten	_	
+8-8	676-685	kommenden	_	
+8-9	686-693	Verkehr	_	
+8-10	694-699	nicht	_	
+8-11	699-700	.	_	
+
+#Text=Sollte ein Auto den Fahrradfahrer nicht bemerken und den Fahrradstreifen mitbenutzen, kann es hier zu schwerwiegenden Unfällen kommen.
+9-1	701-707	Sollte	_	
+9-2	708-711	ein	_	
+9-3	712-716	Auto	_	
+9-4	717-720	den	_	
+9-5	721-734	Fahrradfahrer	_	
+9-6	735-740	nicht	_	
+9-7	741-749	bemerken	_	
+9-8	750-753	und	_	
+9-9	754-757	den	_	
+9-10	758-773	Fahrradstreifen	_	
+9-11	774-785	mitbenutzen	_	
+9-12	785-786	,	_	
+9-13	787-791	kann	_	
+9-14	792-794	es	_	
+9-15	795-799	hier	_	
+9-16	800-802	zu	_	
+9-17	803-818	schwerwiegenden	_	
+9-18	819-827	Unfällen	_	
+9-19	828-834	kommen	_	
+9-20	834-835	.	_	

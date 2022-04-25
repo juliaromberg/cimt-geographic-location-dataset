@@ -1,0 +1,34 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Lösung für Radverkehrführung am Ende der Unterführung
+1-1	0-6	Lösung	_	
+1-2	7-10	für	_	
+1-3	11-28	Radverkehrführung	_	
+1-4	29-31	am	_	
+1-5	32-36	Ende	_	
+1-6	37-40	der	_	
+1-7	41-53	Unterführung	_	
+
+#Text=Nach Verlassen der Unterführung auf der westlichen Seite der Schienen gibt es keine zufriedenstellende Führung des Radverkehrs.
+2-1	56-60	Nach	_	
+2-2	61-70	Verlassen	_	
+2-3	71-74	der	_	
+2-4	75-87	Unterführung	_	
+2-5	88-91	auf	_	
+2-6	92-95	der	_	
+2-7	96-106	westlichen	_	
+2-8	107-112	Seite	_	
+2-9	113-116	der	_	
+2-10	117-125	Schienen	_	
+2-11	126-130	gibt	_	
+2-12	131-133	es	_	
+2-13	134-139	keine	_	
+2-14	140-158	zufriedenstellende	_	
+2-15	159-166	Führung	_	
+2-16	167-170	des	_	
+2-17	171-182	Radverkehrs	_	
+2-18	182-183	.	_	

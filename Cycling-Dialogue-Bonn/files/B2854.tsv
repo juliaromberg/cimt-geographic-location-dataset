@@ -1,0 +1,60 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=roter Teer/Markierung
+1-1	0-5	roter	_	
+1-2	6-10	Teer	_	
+1-3	10-11	/	_	
+1-4	11-21	Markierung	_	
+
+#Text=auch schon mindestens ab dem Stadthaus, einen breiten, für Kinderhanhänger geeigneten, Radstreifen mit entsprechend auffälliger roten Markierung.
+2-1	24-28	auch	_	
+2-2	29-34	schon	_	
+2-3	35-45	mindestens	_	
+2-4	46-48	ab	*[5]	
+2-5	49-52	dem	*[5]	
+2-6	53-62	Stadthaus	*[5]	
+2-7	62-63	,	_	
+2-8	64-69	einen	_	
+2-9	70-77	breiten	_	
+2-10	77-78	,	_	
+2-11	79-82	für	_	
+2-12	83-98	Kinderhanhänger	_	
+2-13	99-109	geeigneten	_	
+2-14	109-110	,	_	
+2-15	111-122	Radstreifen	_	
+2-16	123-126	mit	_	
+2-17	127-139	entsprechend	_	
+2-18	140-151	auffälliger	_	
+2-19	152-157	roten	_	
+2-20	158-168	Markierung	_	
+2-21	168-169	.	_	
+
+#Text=Bis dieser in die entsprechende Markierung am BvS Platz mündet.
+3-1	170-173	Bis	_	
+3-2	174-180	dieser	_	
+3-3	181-183	in	_	
+3-4	184-187	die	_	
+3-5	188-201	entsprechende	_	
+3-6	202-212	Markierung	_	
+3-7	213-215	am	*[6]	
+3-8	216-219	BvS	*[6]	
+3-9	220-225	Platz	*[6]	
+3-10	226-232	mündet	_	
+3-11	232-233	.	_	
+
+#Text=Hier dann eine Radampel, die etwas früher grün wird.
+4-1	234-238	Hier	_	
+4-2	239-243	dann	_	
+4-3	244-248	eine	_	
+4-4	249-257	Radampel	_	
+4-5	257-258	,	_	
+4-6	259-262	die	_	
+4-7	263-268	etwas	_	
+4-8	269-275	früher	_	
+4-9	276-280	grün	_	
+4-10	281-285	wird	_	
+4-11	285-286	.	_	

@@ -1,0 +1,97 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Alemannenweg autofrei
+1-1	0-12	Alemannenweg	*	
+1-2	13-21	autofrei	_	
+
+#Text=Der Alemannenweg ist wahrscheinlich die kürzeste Straße in Bonn.
+2-1	24-27	Der	*[9]	
+2-2	28-40	Alemannenweg	*[9]	
+2-3	41-44	ist	_	
+2-4	45-59	wahrscheinlich	_	
+2-5	60-63	die	_	
+2-6	64-72	kürzeste	_	
+2-7	73-79	Straße	_	
+2-8	80-82	in	*[10]	
+2-9	83-87	Bonn	*[10]	
+2-10	87-88	.	_	
+
+#Text=Es wäre doch gut hier einfach mal ein Zeichen zu setzen und diese kurze Straße autofrei zu machen.
+3-1	89-91	Es	_	
+3-2	92-96	wäre	_	
+3-3	97-101	doch	_	
+3-4	102-105	gut	_	
+3-5	106-110	hier	_	
+3-6	111-118	einfach	_	
+3-7	119-122	mal	_	
+3-8	123-126	ein	_	
+3-9	127-134	Zeichen	_	
+3-10	135-137	zu	_	
+3-11	138-144	setzen	_	
+3-12	145-148	und	_	
+3-13	149-154	diese	_	
+3-14	155-160	kurze	_	
+3-15	161-167	Straße	_	
+3-16	168-176	autofrei	_	
+3-17	177-179	zu	_	
+3-18	180-186	machen	_	
+3-19	186-187	.	_	
+
+#Text=Es gibt kein Garagen die erreicht werden müssen.
+4-1	188-190	Es	_	
+4-2	191-195	gibt	_	
+4-3	196-200	kein	_	
+4-4	201-208	Garagen	_	
+4-5	209-212	die	_	
+4-6	213-221	erreicht	_	
+4-7	222-228	werden	_	
+4-8	229-235	müssen	_	
+4-9	235-236	.	_	
+
+#Text=Zwei Garagen an der Ecke Kaiser-Karl-Ring werden nicht benutzt.
+5-1	237-241	Zwei	_	
+5-2	242-249	Garagen	_	
+5-3	250-252	an	*[11]	
+5-4	253-256	der	*[11]	
+5-5	257-261	Ecke	*[11]	
+5-6	262-278	Kaiser-Karl-Ring	*[11]	
+5-7	279-285	werden	_	
+5-8	286-291	nicht	_	
+5-9	292-299	benutzt	_	
+5-10	299-300	.	_	
+
+#Text=Die Autos der Bewohner stehen teilweise auf dem Gehweg.
+6-1	301-304	Die	_	
+6-2	305-310	Autos	_	
+6-3	311-314	der	_	
+6-4	315-323	Bewohner	_	
+6-5	324-330	stehen	_	
+6-6	331-340	teilweise	_	
+6-7	341-344	auf	_	
+6-8	345-348	dem	_	
+6-9	349-355	Gehweg	_	
+6-10	355-356	.	_	
+
+#Text=Die Wohnqualität wäre deutlich erhöht.
+7-1	357-360	Die	_	
+7-2	361-373	Wohnqualität	_	
+7-3	374-378	wäre	_	
+7-4	379-387	deutlich	_	
+7-5	388-394	erhöht	_	
+7-6	394-395	.	_	
+
+#Text=Die vielen Kinder könnten hier die ganze Zeit spielen.
+8-1	396-399	Die	_	
+8-2	400-406	vielen	_	
+8-3	407-413	Kinder	_	
+8-4	414-421	könnten	_	
+8-5	422-426	hier	_	
+8-6	427-430	die	_	
+8-7	431-436	ganze	_	
+8-8	437-441	Zeit	_	
+8-9	442-449	spielen	_	
+8-10	449-450	.	_	

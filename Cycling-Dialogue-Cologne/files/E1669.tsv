@@ -1,0 +1,26 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Drängelgitter am Bahnübergang
+1-1	0-13	Drängelgitter	_	
+1-2	14-16	am	_	
+1-3	17-29	Bahnübergang	_	
+
+#Text=Diese Drängelgitter am Bahnübergang sind mit Fahrradanhänger oder einem Lastenrad kaum zu passieren.
+2-1	32-37	Diese	_	
+2-2	38-51	Drängelgitter	_	
+2-3	52-54	am	_	
+2-4	55-67	Bahnübergang	_	
+2-5	68-72	sind	_	
+2-6	73-76	mit	_	
+2-7	77-92	Fahrradanhänger	_	
+2-8	93-97	oder	_	
+2-9	98-103	einem	_	
+2-10	104-113	Lastenrad	_	
+2-11	114-118	kaum	_	
+2-12	119-121	zu	_	
+2-13	122-131	passieren	_	
+2-14	131-132	.	_	

@@ -1,0 +1,101 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradmitnahme im Bus
+1-1	0-15	Fahrradmitnahme	_	
+1-2	16-18	im	_	
+1-3	19-22	Bus	_	
+
+#Text=Allzu oft erlebe ich, dass Fahrräder Busse verlassen müssen oder nicht mitgenommen werden, weil Kinderwagen, Rollatoren etc. den wenigen vorhandenen Abstellplatz einnehmen.
+2-1	25-30	Allzu	_	
+2-2	31-34	oft	_	
+2-3	35-41	erlebe	_	
+2-4	42-45	ich	_	
+2-5	45-46	,	_	
+2-6	47-51	dass	_	
+2-7	52-61	Fahrräder	_	
+2-8	62-67	Busse	_	
+2-9	68-77	verlassen	_	
+2-10	78-84	müssen	_	
+2-11	85-89	oder	_	
+2-12	90-95	nicht	_	
+2-13	96-107	mitgenommen	_	
+2-14	108-114	werden	_	
+2-15	114-115	,	_	
+2-16	116-120	weil	_	
+2-17	121-132	Kinderwagen	_	
+2-18	132-133	,	_	
+2-19	134-144	Rollatoren	_	
+2-20	145-148	etc	_	
+2-21	148-149	.	_	
+2-22	150-153	den	_	
+2-23	154-161	wenigen	_	
+2-24	162-173	vorhandenen	_	
+2-25	174-186	Abstellplatz	_	
+2-26	187-196	einnehmen	_	
+2-27	196-197	.	_	
+
+#Text=Dies hat dazu geführt, dass ich in diesem Jahr völlig aufs Rad verzichtet habe, weil ich (74) es nicht schaffe, mein Rad der Berg hinauf zu schieben.
+3-1	198-202	Dies	_	
+3-2	203-206	hat	_	
+3-3	207-211	dazu	_	
+3-4	212-219	geführt	_	
+3-5	219-220	,	_	
+3-6	221-225	dass	_	
+3-7	226-229	ich	_	
+3-8	230-232	in	_	
+3-9	233-239	diesem	_	
+3-10	240-244	Jahr	_	
+3-11	245-251	völlig	_	
+3-12	252-256	aufs	_	
+3-13	257-260	Rad	_	
+3-14	261-271	verzichtet	_	
+3-15	272-276	habe	_	
+3-16	276-277	,	_	
+3-17	278-282	weil	_	
+3-18	283-286	ich	_	
+3-19	287-288	(	_	
+3-20	288-290	74	_	
+3-21	290-291	)	_	
+3-22	292-294	es	_	
+3-23	295-300	nicht	_	
+3-24	301-308	schaffe	_	
+3-25	308-309	,	_	
+3-26	310-314	mein	_	
+3-27	315-318	Rad	_	
+3-28	319-322	der	_	
+3-29	323-327	Berg	_	
+3-30	328-334	hinauf	_	
+3-31	335-337	zu	_	
+3-32	338-346	schieben	_	
+3-33	346-347	.	_	
+
+#Text=Unsere Busse brauchen intelligentere Möglichkeiten, bei Bedarf mehr Raum für Räder zu schaffen (Klappsitze, die dann auch freigegeben werden müssen).
+4-1	348-354	Unsere	_	
+4-2	355-360	Busse	_	
+4-3	361-369	brauchen	_	
+4-4	370-384	intelligentere	_	
+4-5	385-398	Möglichkeiten	_	
+4-6	398-399	,	_	
+4-7	400-403	bei	_	
+4-8	404-410	Bedarf	_	
+4-9	411-415	mehr	_	
+4-10	416-420	Raum	_	
+4-11	421-424	für	_	
+4-12	425-430	Räder	_	
+4-13	431-433	zu	_	
+4-14	434-442	schaffen	_	
+4-15	443-444	(	_	
+4-16	444-454	Klappsitze	_	
+4-17	454-455	,	_	
+4-18	456-459	die	_	
+4-19	460-464	dann	_	
+4-20	465-469	auch	_	
+4-21	470-481	freigegeben	_	
+4-22	482-488	werden	_	
+4-23	489-495	müssen	_	
+4-24	495-496	)	_	
+4-25	496-497	.	_	

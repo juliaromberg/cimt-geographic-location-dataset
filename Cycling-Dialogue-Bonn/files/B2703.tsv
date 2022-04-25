@@ -1,0 +1,99 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Pflaster
+1-1	0-8	Pflaster	_	
+
+#Text=Das Pflaster auf fast allen Straßen in der Altstadt ist für Radfahrer mit schmalen Reifen eine Zumutung.
+2-1	11-14	Das	_	
+2-2	15-23	Pflaster	_	
+2-3	24-27	auf	_	
+2-4	28-32	fast	_	
+2-5	33-38	allen	_	
+2-6	39-46	Straßen	_	
+2-7	47-49	in	*[7]	
+2-8	50-53	der	*[7]	
+2-9	54-62	Altstadt	*[7]	
+2-10	63-66	ist	_	
+2-11	67-70	für	_	
+2-12	71-80	Radfahrer	_	
+2-13	81-84	mit	_	
+2-14	85-93	schmalen	_	
+2-15	94-100	Reifen	_	
+2-16	101-105	eine	_	
+2-17	106-114	Zumutung	_	
+2-18	114-115	.	_	
+
+#Text=Eine enorme Erschütterung des Rades und besonders der Hände íst hier nicht zu vermeiden.
+3-1	116-120	Eine	_	
+3-2	121-127	enorme	_	
+3-3	128-141	Erschütterung	_	
+3-4	142-145	des	_	
+3-5	146-151	Rades	_	
+3-6	152-155	und	_	
+3-7	156-165	besonders	_	
+3-8	166-169	der	_	
+3-9	170-175	Hände	_	
+3-10	176-179	íst	_	
+3-11	180-184	hier	_	
+3-12	185-190	nicht	_	
+3-13	191-193	zu	_	
+3-14	194-203	vermeiden	_	
+3-15	203-204	.	_	
+
+#Text=Alle Pflaster in der Altstadt müssten nachgebessert werden.
+4-1	205-209	Alle	_	
+4-2	210-218	Pflaster	_	
+4-3	219-221	in	*[8]	
+4-4	222-225	der	*[8]	
+4-5	226-234	Altstadt	*[8]	
+4-6	235-242	müssten	_	
+4-7	243-256	nachgebessert	_	
+4-8	257-263	werden	_	
+4-9	263-264	.	_	
+
+#Text=Zumindest sollte man erwarten dürfen, dass die Pflastersteine eben verlegt werden.
+5-1	265-274	Zumindest	_	
+5-2	275-281	sollte	_	
+5-3	282-285	man	_	
+5-4	286-294	erwarten	_	
+5-5	295-301	dürfen	_	
+5-6	301-302	,	_	
+5-7	303-307	dass	_	
+5-8	308-311	die	_	
+5-9	312-326	Pflastersteine	_	
+5-10	327-331	eben	_	
+5-11	332-339	verlegt	_	
+5-12	340-346	werden	_	
+5-13	346-347	.	_	
+
+#Text=Eine Füllung der Fugen könnte auch schon etwas Abhilfe schaffen.
+6-1	348-352	Eine	_	
+6-2	353-360	Füllung	_	
+6-3	361-364	der	_	
+6-4	365-370	Fugen	_	
+6-5	371-377	könnte	_	
+6-6	378-382	auch	_	
+6-7	383-388	schon	_	
+6-8	389-394	etwas	_	
+6-9	395-402	Abhilfe	_	
+6-10	403-411	schaffen	_	
+6-11	411-412	.	_	
+
+#Text=Oder sollte man in der Innenstadt nur noch mit Mountainbike fahren können?
+7-1	413-417	Oder	_	
+7-2	418-424	sollte	_	
+7-3	425-428	man	_	
+7-4	429-431	in	*[9]	
+7-5	432-435	der	*[9]	
+7-6	436-446	Innenstadt	*[9]	
+7-7	447-450	nur	_	
+7-8	451-455	noch	_	
+7-9	456-459	mit	_	
+7-10	460-472	Mountainbike	_	
+7-11	473-479	fahren	_	
+7-12	480-486	können	_	
+7-13	486-487	?	_	

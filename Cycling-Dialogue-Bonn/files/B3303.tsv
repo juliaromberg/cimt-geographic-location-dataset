@@ -1,0 +1,241 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Baut endlich Radwege!
+1-1	0-4	Baut	_	
+1-2	5-12	endlich	_	
+1-3	13-20	Radwege	_	
+1-4	20-21	!	_	
+
+#Text=An dieser Stelle wurde der Radfahrer Michael Hübner von einem Auto umgebracht: https://goo.gl/kDhxQ1
+2-1	24-26	An	_	
+2-2	27-33	dieser	_	
+2-3	34-40	Stelle	_	
+2-4	41-46	wurde	_	
+2-5	47-50	der	_	
+2-6	51-60	Radfahrer	_	
+2-7	61-68	Michael	_	
+2-8	69-75	Hübner	_	
+2-9	76-79	von	_	
+2-10	80-85	einem	_	
+2-11	86-90	Auto	_	
+2-12	91-101	umgebracht	_	
+2-13	101-102	:	_	
+2-14	103-108	https	_	
+2-15	108-109	:	_	
+2-16	109-110	/	_	
+2-17	110-111	/	_	
+2-18	111-117	goo.gl	_	
+2-19	117-118	/	_	
+2-20	118-124	kDhxQ1	_	
+
+#Text=Er hatte vorher keinen Fahrfehler begangen.
+3-1	125-127	Er	_	
+3-2	128-133	hatte	_	
+3-3	134-140	vorher	_	
+3-4	141-147	keinen	_	
+3-5	148-158	Fahrfehler	_	
+3-6	159-167	begangen	_	
+3-7	167-168	.	_	
+
+#Text=Obwohl die Fahrbahn erst kurz davor deutlich ausgebaut wurde und zudem ausreichend Platz vorhanden war, gibt es hier keinen Radweg.
+4-1	169-175	Obwohl	_	
+4-2	176-179	die	_	
+4-3	180-188	Fahrbahn	_	
+4-4	189-193	erst	_	
+4-5	194-198	kurz	_	
+4-6	199-204	davor	_	
+4-7	205-213	deutlich	_	
+4-8	214-223	ausgebaut	_	
+4-9	224-229	wurde	_	
+4-10	230-233	und	_	
+4-11	234-239	zudem	_	
+4-12	240-251	ausreichend	_	
+4-13	252-257	Platz	_	
+4-14	258-267	vorhanden	_	
+4-15	268-271	war	_	
+4-16	271-272	,	_	
+4-17	273-277	gibt	_	
+4-18	278-280	es	_	
+4-19	281-285	hier	_	
+4-20	286-292	keinen	_	
+4-21	293-299	Radweg	_	
+4-22	299-300	.	_	
+
+#Text=Der Weg ist für Radler, vom z.B. vom Siebengebirge kommen, deutlich kürzer, als die Alternative.
+5-1	301-304	Der	_	
+5-2	305-308	Weg	_	
+5-3	309-312	ist	_	
+5-4	313-316	für	_	
+5-5	317-323	Radler	_	
+5-6	323-324	,	_	
+5-7	325-328	vom	_	
+5-8	329-332	z.B	_	
+5-9	332-333	.	_	
+5-10	334-337	vom	*[12]	
+5-11	338-351	Siebengebirge	*[12]	
+5-12	352-358	kommen	*[12]	
+5-13	358-359	,	_	
+5-14	360-368	deutlich	_	
+5-15	369-375	kürzer	_	
+5-16	375-376	,	_	
+5-17	377-380	als	_	
+5-18	381-384	die	_	
+5-19	385-396	Alternative	_	
+5-20	396-397	.	_	
+
+#Text=Auf der anderen Straßenseite gibt es einen nur ca. 2-2,5 m breiten kombinierten Rad-/Fußweg für beide Richtungen, teilweise als Radweg.
+6-1	398-401	Auf	_	
+6-2	402-405	der	_	
+6-3	406-413	anderen	_	
+6-4	414-426	Straßenseite	_	
+6-5	427-431	gibt	_	
+6-6	432-434	es	_	
+6-7	435-440	einen	_	
+6-8	441-444	nur	_	
+6-9	445-447	ca	_	
+6-10	447-448	.	_	
+6-11	449-450	2	_	
+6-12	450-451	-	_	
+6-13	451-454	2,5	_	
+6-14	455-456	m	_	
+6-15	457-464	breiten	_	
+6-16	465-477	kombinierten	_	
+6-17	478-481	Rad	_	
+6-18	481-482	-	_	
+6-19	482-483	/	_	
+6-20	483-489	Fußweg	_	
+6-21	490-493	für	_	
+6-22	494-499	beide	_	
+6-23	500-510	Richtungen	_	
+6-24	510-511	,	_	
+6-25	512-521	teilweise	_	
+6-26	522-525	als	_	
+6-27	526-532	Radweg	_	
+6-28	532-533	.	_	
+
+#Text=Dieser Weg ist ebenfalls sehr gefährlich: Im Januar 2017 überfuhr dort ein Polizeiwagen einen Mensch an der Polizei-Ein-/Ausfahrt tödlich, weil der Sonnenstand nachmittags/abends die vom Kreisverkehr & abbiegenden Autofahrer blendet.
+7-1	534-540	Dieser	_	
+7-2	541-544	Weg	_	
+7-3	545-548	ist	_	
+7-4	549-558	ebenfalls	_	
+7-5	559-563	sehr	_	
+7-6	564-574	gefährlich	_	
+7-7	574-575	:	_	
+7-8	576-578	Im	_	
+7-9	579-585	Januar	_	
+7-10	586-590	2017	_	
+7-11	591-599	überfuhr	_	
+7-12	600-604	dort	_	
+7-13	605-608	ein	_	
+7-14	609-621	Polizeiwagen	_	
+7-15	622-627	einen	_	
+7-16	628-634	Mensch	_	
+7-17	635-637	an	_	
+7-18	638-641	der	_	
+7-19	642-653	Polizei-Ein	_	
+7-20	653-654	-	_	
+7-21	654-655	/	_	
+7-22	655-663	Ausfahrt	_	
+7-23	664-671	tödlich	_	
+7-24	671-672	,	_	
+7-25	673-677	weil	_	
+7-26	678-681	der	_	
+7-27	682-693	Sonnenstand	_	
+7-28	694-705	nachmittags	_	
+7-29	705-706	/	_	
+7-30	706-712	abends	_	
+7-31	713-716	die	_	
+7-32	717-720	vom	_	
+7-33	721-733	Kreisverkehr	_	
+7-34	734-735	&	_	
+7-35	736-747	abbiegenden	_	
+7-36	748-758	Autofahrer	_	
+7-37	759-766	blendet	_	
+7-38	766-767	.	_	
+
+#Text=Sie können dann die aus Richtung Beuel kommende Radfahrer/Fußgänger kaum sehen.
+8-1	768-771	Sie	_	
+8-2	772-778	können	_	
+8-3	779-783	dann	_	
+8-4	784-787	die	_	
+8-5	788-791	aus	*[13]	
+8-6	792-800	Richtung	*[13]	
+8-7	801-806	Beuel	*[13]	
+8-8	807-815	kommende	*[13]	
+8-9	816-825	Radfahrer	_	
+8-10	825-826	/	_	
+8-11	826-835	Fußgänger	_	
+8-12	836-840	kaum	_	
+8-13	841-846	sehen	_	
+8-14	846-847	.	_	
+
+#Text=Auch drum herum: Auf Joseph-Schumpeter-Str. und Königswinterer vor Polizeipräsidium keine Radwege, trotz über 10.000 Arbeitsplätze & tausende Radler in 500 m Umkreis.
+9-1	848-852	Auch	_	
+9-2	853-857	drum	_	
+9-3	858-863	herum	_	
+9-4	863-864	:	_	
+9-5	865-868	Auf	*[14]	
+9-6	869-890	Joseph-Schumpeter-Str	*[14]	
+9-7	890-891	.	*[14]	
+9-8	892-895	und	*[14]	
+9-9	896-910	Königswinterer	*[14]	
+9-10	911-914	vor	*[14]	
+9-11	915-931	Polizeipräsidium	*[14]	
+9-12	932-937	keine	_	
+9-13	938-945	Radwege	_	
+9-14	945-946	,	_	
+9-15	947-952	trotz	_	
+9-16	953-957	über	_	
+9-17	958-964	10.000	_	
+9-18	965-978	Arbeitsplätze	_	
+9-19	979-980	&	_	
+9-20	981-989	tausende	_	
+9-21	990-996	Radler	_	
+9-22	997-999	in	_	
+9-23	1000-1003	500	_	
+9-24	1004-1005	m	_	
+9-25	1006-1013	Umkreis	_	
+9-26	1013-1014	.	_	
+
+#Text=Vor Polizeipräsidium von S-Bahnhof ab Kreisverkehr nur ein Weg für Radfahrer und die aus zwei Richtungen kommenden täglich tausenden Fußgänger (wg. Schule, Polizei, DLR etc).
+10-1	1015-1018	Vor	_	
+10-2	1019-1035	Polizeipräsidium	_	
+10-3	1036-1039	von	_	
+10-4	1040-1049	S-Bahnhof	_	
+10-5	1050-1052	ab	_	
+10-6	1053-1065	Kreisverkehr	_	
+10-7	1066-1069	nur	_	
+10-8	1070-1073	ein	_	
+10-9	1074-1077	Weg	_	
+10-10	1078-1081	für	_	
+10-11	1082-1091	Radfahrer	_	
+10-12	1092-1095	und	_	
+10-13	1096-1099	die	_	
+10-14	1100-1103	aus	_	
+10-15	1104-1108	zwei	_	
+10-16	1109-1119	Richtungen	_	
+10-17	1120-1129	kommenden	_	
+10-18	1130-1137	täglich	_	
+10-19	1138-1147	tausenden	_	
+10-20	1148-1157	Fußgänger	_	
+10-21	1158-1159	(	_	
+10-22	1159-1161	wg	_	
+10-23	1161-1162	.	_	
+10-24	1163-1169	Schule	_	
+10-25	1169-1170	,	_	
+10-26	1171-1178	Polizei	_	
+10-27	1178-1179	,	_	
+10-28	1180-1183	DLR	_	
+10-29	1184-1187	etc	_	
+10-30	1187-1188	)	_	
+10-31	1188-1189	.	_	
+
+#Text=Baut endlich Radwege!
+11-1	1190-1194	Baut	_	
+11-2	1195-1202	endlich	_	
+11-3	1203-1210	Radwege	_	
+11-4	1210-1211	!	_	

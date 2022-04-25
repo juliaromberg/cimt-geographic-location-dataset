@@ -1,0 +1,162 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Falschparker
+1-1	0-12	Falschparker	_	
+
+#Text=An der Ecke Dietkirchenstraße und Kölnstraße stehen täglich (ist tatsächlich wörtlich gemeint) Falschparker im absoluten Halteverbot vor dem [Name entfernt].
+2-1	15-17	An	*[6]	
+2-2	18-21	der	*[6]	
+2-3	22-26	Ecke	*[6]	
+2-4	27-44	Dietkirchenstraße	*[6]	
+2-5	45-48	und	*[6]	
+2-6	49-59	Kölnstraße	*[6]	
+2-7	60-66	stehen	_	
+2-8	67-74	täglich	_	
+2-9	75-76	(	_	
+2-10	76-79	ist	_	
+2-11	80-91	tatsächlich	_	
+2-12	92-100	wörtlich	_	
+2-13	101-108	gemeint	_	
+2-14	108-109	)	_	
+2-15	110-122	Falschparker	_	
+2-16	123-125	im	_	
+2-17	126-135	absoluten	_	
+2-18	136-147	Halteverbot	_	
+2-19	148-151	vor	_	
+2-20	152-155	dem	_	
+2-21	156-157	[	_	
+2-22	157-161	Name	_	
+2-23	162-170	entfernt	_	
+2-24	170-171	]	_	
+2-25	171-172	.	_	
+
+#Text=Dies ist sehr gefährlich, da diese zum einen dem Verkehr die Sicht nehmen (wegen des [Name entfernt] ist diese ja ohnehin sehr eingeschränkt) und man quasi blind aus der Dietkirchenstraße herausfährt.
+3-1	173-177	Dies	_	
+3-2	178-181	ist	_	
+3-3	182-186	sehr	_	
+3-4	187-197	gefährlich	_	
+3-5	197-198	,	_	
+3-6	199-201	da	_	
+3-7	202-207	diese	_	
+3-8	208-211	zum	_	
+3-9	212-217	einen	_	
+3-10	218-221	dem	_	
+3-11	222-229	Verkehr	_	
+3-12	230-233	die	_	
+3-13	234-239	Sicht	_	
+3-14	240-246	nehmen	_	
+3-15	247-248	(	_	
+3-16	248-253	wegen	_	
+3-17	254-257	des	_	
+3-18	258-259	[	_	
+3-19	259-263	Name	_	
+3-20	264-272	entfernt	_	
+3-21	272-273	]	_	
+3-22	274-277	ist	_	
+3-23	278-283	diese	_	
+3-24	284-286	ja	_	
+3-25	287-294	ohnehin	_	
+3-26	295-299	sehr	_	
+3-27	300-313	eingeschränkt	_	
+3-28	313-314	)	_	
+3-29	315-318	und	_	
+3-30	319-322	man	_	
+3-31	323-328	quasi	_	
+3-32	329-334	blind	_	
+3-33	335-338	aus	*[7]	
+3-34	339-342	der	*[7]	
+3-35	343-360	Dietkirchenstraße	*[7]	
+3-36	361-372	herausfährt	*[7]	
+3-37	372-373	.	_	
+
+#Text=Zum andern müssen Autofahrer die Falschparker umfahren und damit so lange die Dietkirchenstraße Richtung Norden für Radfahrer blockieren, bis sie eine Lücke im Verkehr auf der Kölnstraße erwischen (was sehr lang dauern kann).
+4-1	374-377	Zum	_	
+4-2	378-384	andern	_	
+4-3	385-391	müssen	_	
+4-4	392-402	Autofahrer	_	
+4-5	403-406	die	_	
+4-6	407-419	Falschparker	_	
+4-7	420-428	umfahren	_	
+4-8	429-432	und	_	
+4-9	433-438	damit	_	
+4-10	439-441	so	_	
+4-11	442-447	lange	_	
+4-12	448-451	die	*[8]	
+4-13	452-469	Dietkirchenstraße	*[8]	
+4-14	470-478	Richtung	*[8]	
+4-15	479-485	Norden	*[8]	
+4-16	486-489	für	_	
+4-17	490-499	Radfahrer	_	
+4-18	500-510	blockieren	_	
+4-19	510-511	,	_	
+4-20	512-515	bis	_	
+4-21	516-519	sie	_	
+4-22	520-524	eine	_	
+4-23	525-530	Lücke	_	
+4-24	531-533	im	_	
+4-25	534-541	Verkehr	_	
+4-26	542-545	auf	*[9]	
+4-27	546-549	der	*[9]	
+4-28	550-560	Kölnstraße	*[9]	
+4-29	561-570	erwischen	_	
+4-30	571-572	(	_	
+4-31	572-575	was	_	
+4-32	576-580	sehr	_	
+4-33	581-585	lang	_	
+4-34	586-592	dauern	_	
+4-35	593-597	kann	_	
+4-36	597-598	)	_	
+4-37	598-599	.	_	
+
+#Text=Tägliche Kontrollen und saftige Bußgelder könnten hier vielleicht schon einiges bewirken und wenn man gleich die Falschparker in der Dietkirchen- und Irmintrudisstraße mit verwarnt, wäre das mindestens kostenneutral.
+5-1	600-608	Tägliche	_	
+5-2	609-619	Kontrollen	_	
+5-3	620-623	und	_	
+5-4	624-631	saftige	_	
+5-5	632-641	Bußgelder	_	
+5-6	642-649	könnten	_	
+5-7	650-654	hier	_	
+5-8	655-665	vielleicht	_	
+5-9	666-671	schon	_	
+5-10	672-679	einiges	_	
+5-11	680-688	bewirken	_	
+5-12	689-692	und	_	
+5-13	693-697	wenn	_	
+5-14	698-701	man	_	
+5-15	702-708	gleich	_	
+5-16	709-712	die	_	
+5-17	713-725	Falschparker	_	
+5-18	726-728	in	*[10]	
+5-19	729-732	der	*[10]	
+5-20	733-744	Dietkirchen	*[10]	
+5-21	744-745	-	*[10]	
+5-22	746-749	und	*[10]	
+5-23	750-767	Irmintrudisstraße	*[10]	
+5-24	768-771	mit	_	
+5-25	772-780	verwarnt	_	
+5-26	780-781	,	_	
+5-27	782-786	wäre	_	
+5-28	787-790	das	_	
+5-29	791-801	mindestens	_	
+5-30	802-815	kostenneutral	_	
+5-31	815-816	.	_	
+
+#Text=Uns Anwohnern könnte die Stadt damit eine sehr, sehr große Freude machen!
+6-1	817-820	Uns	_	
+6-2	821-830	Anwohnern	_	
+6-3	831-837	könnte	_	
+6-4	838-841	die	_	
+6-5	842-847	Stadt	_	
+6-6	848-853	damit	_	
+6-7	854-858	eine	_	
+6-8	859-863	sehr	_	
+6-9	863-864	,	_	
+6-10	865-869	sehr	_	
+6-11	870-875	große	_	
+6-12	876-882	Freude	_	
+6-13	883-889	machen	_	
+6-14	889-890	!	_	

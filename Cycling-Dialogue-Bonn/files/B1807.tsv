@@ -1,0 +1,119 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Desolater Zustand Wegoberfläche
+1-1	0-9	Desolater	_	
+1-2	10-17	Zustand	_	
+1-3	18-31	Wegoberfläche	_	
+
+#Text=Das Wegstück Jakobsweg/Röttgener Weg (zwischen Kluttenweg und Pionierweg) ist in einem sehr bedauernswerten Zustand.
+2-1	34-37	Das	*[5]	
+2-2	38-46	Wegstück	*[5]	
+2-3	47-56	Jakobsweg	*[5]	
+2-4	56-57	/	*[5]	
+2-5	57-66	Röttgener	*[5]	
+2-6	67-70	Weg	*[5]	
+2-7	71-72	(	*[5]	
+2-8	72-80	zwischen	*[5]	
+2-9	81-91	Kluttenweg	*[5]	
+2-10	92-95	und	*[5]	
+2-11	96-106	Pionierweg	*[5]	
+2-12	106-107	)	*[5]	
+2-13	108-111	ist	_	
+2-14	112-114	in	_	
+2-15	115-120	einem	_	
+2-16	121-125	sehr	_	
+2-17	126-141	bedauernswerten	_	
+2-18	142-149	Zustand	_	
+2-19	149-150	.	_	
+
+#Text=Es besteht eigentlich nur noch aus Schlaglöchern, die mit ein wenig Asphalt dazwischen verbunden sind.
+3-1	151-153	Es	_	
+3-2	154-161	besteht	_	
+3-3	162-172	eigentlich	_	
+3-4	173-176	nur	_	
+3-5	177-181	noch	_	
+3-6	182-185	aus	_	
+3-7	186-199	Schlaglöchern	_	
+3-8	199-200	,	_	
+3-9	201-204	die	_	
+3-10	205-208	mit	_	
+3-11	209-212	ein	_	
+3-12	213-218	wenig	_	
+3-13	219-226	Asphalt	_	
+3-14	227-237	dazwischen	_	
+3-15	238-247	verbunden	_	
+3-16	248-252	sind	_	
+3-17	252-253	.	_	
+
+#Text=Der Zustand dieses Weges ist umso erstaunlicher, wenn man bedenkt, dass dies wohl der offizielle Radweg ist (da ich zu meinem großen Erstaunen gerade einem anderen Beitrag entnommen habe, dass der Kluttenweg nicht offiziell als Radweg bei der Stadt Bonn akzeptiert ist, obwohl er DIE Verbindung am Annaberger Hof ist) und dieser Weg sicher auch für Krankentransporte Verwendung finden könnte.
+4-1	254-257	Der	_	
+4-2	258-265	Zustand	_	
+4-3	266-272	dieses	_	
+4-4	273-278	Weges	_	
+4-5	279-282	ist	_	
+4-6	283-287	umso	_	
+4-7	288-301	erstaunlicher	_	
+4-8	301-302	,	_	
+4-9	303-307	wenn	_	
+4-10	308-311	man	_	
+4-11	312-319	bedenkt	_	
+4-12	319-320	,	_	
+4-13	321-325	dass	_	
+4-14	326-330	dies	_	
+4-15	331-335	wohl	_	
+4-16	336-339	der	_	
+4-17	340-350	offizielle	_	
+4-18	351-357	Radweg	_	
+4-19	358-361	ist	_	
+4-20	362-363	(	_	
+4-21	363-365	da	_	
+4-22	366-369	ich	_	
+4-23	370-372	zu	_	
+4-24	373-379	meinem	_	
+4-25	380-386	großen	_	
+4-26	387-396	Erstaunen	_	
+4-27	397-403	gerade	_	
+4-28	404-409	einem	_	
+4-29	410-417	anderen	_	
+4-30	418-425	Beitrag	_	
+4-31	426-435	entnommen	_	
+4-32	436-440	habe	_	
+4-33	440-441	,	_	
+4-34	442-446	dass	_	
+4-35	447-450	der	*[6]	
+4-36	451-461	Kluttenweg	*[6]	
+4-37	462-467	nicht	_	
+4-38	468-477	offiziell	_	
+4-39	478-481	als	_	
+4-40	482-488	Radweg	_	
+4-41	489-492	bei	_	
+4-42	493-496	der	_	
+4-43	497-502	Stadt	_	
+4-44	503-507	Bonn	_	
+4-45	508-518	akzeptiert	_	
+4-46	519-522	ist	_	
+4-47	522-523	,	_	
+4-48	524-530	obwohl	_	
+4-49	531-533	er	_	
+4-50	534-537	DIE	_	
+4-51	538-548	Verbindung	_	
+4-52	549-551	am	*[7]	
+4-53	552-562	Annaberger	*[7]	
+4-54	563-566	Hof	*[7]	
+4-55	567-570	ist	_	
+4-56	570-571	)	_	
+4-57	572-575	und	_	
+4-58	576-582	dieser	_	
+4-59	583-586	Weg	_	
+4-60	587-593	sicher	_	
+4-61	594-598	auch	_	
+4-62	599-602	für	_	
+4-63	603-620	Krankentransporte	_	
+4-64	621-631	Verwendung	_	
+4-65	632-638	finden	_	
+4-66	639-645	könnte	_	
+4-67	645-646	.	_	

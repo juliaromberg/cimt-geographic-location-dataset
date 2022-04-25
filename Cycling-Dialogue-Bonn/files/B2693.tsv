@@ -1,0 +1,166 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=S-Pedelecs auf Radwegen erlauben
+1-1	0-10	S-Pedelecs	_	
+1-2	11-14	auf	_	
+1-3	15-23	Radwegen	_	
+1-4	24-32	erlauben	_	
+
+#Text=Fahrer von schnelleren Elektrofahrrädern, die bis 45 km/h anstelle der sonst üblichen 25 km/h unterstützen sollen auch auf Feldwegen und Radwegen fahren dürfen.
+2-1	35-41	Fahrer	_	
+2-2	42-45	von	_	
+2-3	46-57	schnelleren	_	
+2-4	58-75	Elektrofahrrädern	_	
+2-5	75-76	,	_	
+2-6	77-80	die	_	
+2-7	81-84	bis	_	
+2-8	85-87	45	_	
+2-9	88-90	km	_	
+2-10	90-91	/	_	
+2-11	91-92	h	_	
+2-12	93-101	anstelle	_	
+2-13	102-105	der	_	
+2-14	106-111	sonst	_	
+2-15	112-120	üblichen	_	
+2-16	121-123	25	_	
+2-17	124-126	km	_	
+2-18	126-127	/	_	
+2-19	127-128	h	_	
+2-20	129-141	unterstützen	_	
+2-21	142-148	sollen	_	
+2-22	149-153	auch	_	
+2-23	154-157	auf	_	
+2-24	158-167	Feldwegen	_	
+2-25	168-171	und	_	
+2-26	172-180	Radwegen	_	
+2-27	181-187	fahren	_	
+2-28	188-194	dürfen	_	
+2-29	194-195	.	_	
+
+#Text=Gerade für Pendler aus weiter entfernten Vororten sind diese Fahrzeuge interessant.
+3-1	196-202	Gerade	_	
+3-2	203-206	für	_	
+3-3	207-214	Pendler	_	
+3-4	215-218	aus	_	
+3-5	219-225	weiter	_	
+3-6	226-236	entfernten	_	
+3-7	237-245	Vororten	_	
+3-8	246-250	sind	_	
+3-9	251-256	diese	_	
+3-10	257-266	Fahrzeuge	_	
+3-11	267-278	interessant	_	
+3-12	278-279	.	_	
+
+#Text=Damit man innerhalb der Stadt keine weiteren Nachteile hat, sollten sie den normalen Pedelecs gleichgestellt werden.
+4-1	280-285	Damit	_	
+4-2	286-289	man	_	
+4-3	290-299	innerhalb	_	
+4-4	300-303	der	_	
+4-5	304-309	Stadt	_	
+4-6	310-315	keine	_	
+4-7	316-324	weiteren	_	
+4-8	325-334	Nachteile	_	
+4-9	335-338	hat	_	
+4-10	338-339	,	_	
+4-11	340-347	sollten	_	
+4-12	348-351	sie	_	
+4-13	352-355	den	_	
+4-14	356-364	normalen	_	
+4-15	365-373	Pedelecs	_	
+4-16	374-388	gleichgestellt	_	
+4-17	389-395	werden	_	
+4-18	395-396	.	_	
+
+#Text=Die Argumentation, dass man mit einem S-Pedelec 45 km/h fahren _kann_ halte ich für unsinnig.
+5-1	397-400	Die	_	
+5-2	401-414	Argumentation	_	
+5-3	414-415	,	_	
+5-4	416-420	dass	_	
+5-5	421-424	man	_	
+5-6	425-428	mit	_	
+5-7	429-434	einem	_	
+5-8	435-444	S-Pedelec	_	
+5-9	445-447	45	_	
+5-10	448-450	km	_	
+5-11	450-451	/	_	
+5-12	451-452	h	_	
+5-13	453-459	fahren	_	
+5-14	460-461	_	_	
+5-15	461-465	kann	_	
+5-16	465-466	_	_	
+5-17	467-472	halte	_	
+5-18	473-476	ich	_	
+5-19	477-480	für	_	
+5-20	481-489	unsinnig	_	
+5-21	489-490	.	_	
+
+#Text=In der Stadt sind massenweise SUVs unterwegs, die teilweise 250 km/h fahren können.
+6-1	491-493	In	_	
+6-2	494-497	der	_	
+6-3	498-503	Stadt	_	
+6-4	504-508	sind	_	
+6-5	509-520	massenweise	_	
+6-6	521-525	SUVs	_	
+6-7	526-535	unterwegs	_	
+6-8	535-536	,	_	
+6-9	537-540	die	_	
+6-10	541-550	teilweise	_	
+6-11	551-554	250	_	
+6-12	555-557	km	_	
+6-13	557-558	/	_	
+6-14	558-559	h	_	
+6-15	560-566	fahren	_	
+6-16	567-573	können	_	
+6-17	573-574	.	_	
+
+#Text=Trotzdem dürfen diese in der Stadt fahren und sogar in einer Spielstraße mit Schrittgeschwindigkeit fahren.
+7-1	575-583	Trotzdem	_	
+7-2	584-590	dürfen	_	
+7-3	591-596	diese	_	
+7-4	597-599	in	_	
+7-5	600-603	der	_	
+7-6	604-609	Stadt	_	
+7-7	610-616	fahren	_	
+7-8	617-620	und	_	
+7-9	621-626	sogar	_	
+7-10	627-629	in	_	
+7-11	630-635	einer	_	
+7-12	636-647	Spielstraße	_	
+7-13	648-651	mit	_	
+7-14	652-674	Schrittgeschwindigkeit	_	
+7-15	675-681	fahren	_	
+7-16	681-682	.	_	
+
+#Text=Anscheinend reicht hier die Vernunft und die Kontrollen, damit sich die Autofahrer daran halten.
+8-1	683-694	Anscheinend	_	
+8-2	695-701	reicht	_	
+8-3	702-706	hier	_	
+8-4	707-710	die	_	
+8-5	711-719	Vernunft	_	
+8-6	720-723	und	_	
+8-7	724-727	die	_	
+8-8	728-738	Kontrollen	_	
+8-9	738-739	,	_	
+8-10	740-745	damit	_	
+8-11	746-750	sich	_	
+8-12	751-754	die	_	
+8-13	755-765	Autofahrer	_	
+8-14	766-771	daran	_	
+8-15	772-778	halten	_	
+8-16	778-779	.	_	
+
+#Text=Warum traut man einem S-Pedelec-Fahrer dies also nicht zu?
+9-1	780-785	Warum	_	
+9-2	786-791	traut	_	
+9-3	792-795	man	_	
+9-4	796-801	einem	_	
+9-5	802-818	S-Pedelec-Fahrer	_	
+9-6	819-823	dies	_	
+9-7	824-828	also	_	
+9-8	829-834	nicht	_	
+9-9	835-837	zu	_	
+9-10	837-838	?	_	

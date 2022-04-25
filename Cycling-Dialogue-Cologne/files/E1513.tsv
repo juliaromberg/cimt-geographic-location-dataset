@@ -1,0 +1,94 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Umbau der freilaufenden Rechtsabbiegerspuren
+1-1	0-5	Umbau	_	
+1-2	6-9	der	_	
+1-3	10-23	freilaufenden	_	
+1-4	24-44	Rechtsabbiegerspuren	_	
+
+#Text=Die Radfahrer sollen auf der Fahrbahn über die Kreuzung geführt werden.
+2-1	47-50	Die	_	
+2-2	51-60	Radfahrer	_	
+2-3	61-67	sollen	_	
+2-4	68-71	auf	_	
+2-5	72-75	der	_	
+2-6	76-84	Fahrbahn	_	
+2-7	85-89	über	_	
+2-8	90-93	die	_	
+2-9	94-102	Kreuzung	_	
+2-10	103-110	geführt	_	
+2-11	111-117	werden	_	
+2-12	117-118	.	_	
+
+#Text=Die Radwegbenutzungspflicht auf der Subbelrather Straße ist ohnehin kaum begründbar!
+3-1	119-122	Die	_	
+3-2	123-146	Radwegbenutzungspflicht	_	
+3-3	147-150	auf	*[7]	
+3-4	151-154	der	*[7]	
+3-5	155-167	Subbelrather	*[7]	
+3-6	168-174	Straße	*[7]	
+3-7	175-178	ist	_	
+3-8	179-186	ohnehin	_	
+3-9	187-191	kaum	_	
+3-10	192-202	begründbar	_	
+3-11	202-203	!	_	
+
+#Text=Daher stadteinwärts spätestens ab Einmündung in die Sportanlage Führung der Radfahrer auf der Fahrbahn (analog zur Venloer Straße).
+4-1	204-209	Daher	_	
+4-2	210-223	stadteinwärts	*	
+4-3	224-234	spätestens	_	
+4-4	235-237	ab	_	
+4-5	238-248	Einmündung	_	
+4-6	249-251	in	_	
+4-7	252-255	die	_	
+4-8	256-267	Sportanlage	_	
+4-9	268-275	Führung	_	
+4-10	276-279	der	_	
+4-11	280-289	Radfahrer	_	
+4-12	290-293	auf	_	
+4-13	294-297	der	_	
+4-14	298-306	Fahrbahn	_	
+4-15	307-308	(	_	
+4-16	308-314	analog	*[8]	
+4-17	315-318	zur	*[8]	
+4-18	319-326	Venloer	*[8]	
+4-19	327-333	Straße	*[8]	
+4-20	333-334	)	_	
+4-21	334-335	.	_	
+
+#Text=Insgesamt Umbau der Straße mit Auflösung der benutzungspflichtigen Radwege.
+5-1	336-345	Insgesamt	_	
+5-2	346-351	Umbau	_	
+5-3	352-355	der	_	
+5-4	356-362	Straße	_	
+5-5	363-366	mit	_	
+5-6	367-376	Auflösung	_	
+5-7	377-380	der	_	
+5-8	381-402	benutzungspflichtigen	_	
+5-9	403-410	Radwege	_	
+5-10	410-411	.	_	
+
+#Text=Es kommt so häufig auf diesen zu Kollisionen oder Beinaheunfällen, sowohl mit Kfz als auch mit Fußgängern.
+6-1	412-414	Es	_	
+6-2	415-420	kommt	_	
+6-3	421-423	so	_	
+6-4	424-430	häufig	_	
+6-5	431-434	auf	_	
+6-6	435-441	diesen	_	
+6-7	442-444	zu	_	
+6-8	445-456	Kollisionen	_	
+6-9	457-461	oder	_	
+6-10	462-477	Beinaheunfällen	_	
+6-11	477-478	,	_	
+6-12	479-485	sowohl	_	
+6-13	486-489	mit	_	
+6-14	490-493	Kfz	_	
+6-15	494-497	als	_	
+6-16	498-502	auch	_	
+6-17	503-506	mit	_	
+6-18	507-517	Fußgängern	_	
+6-19	517-518	.	_	

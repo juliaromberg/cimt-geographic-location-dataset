@@ -1,0 +1,53 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Neugestaltung Bahnhof-Vorplatz
+1-1	0-13	Neugestaltung	_	
+1-2	14-30	Bahnhof-Vorplatz	_	
+
+#Text=Die (nicht vorhandene) Radverkehrsführung im gesamten Bereich Bahnhof-Vorplatz - Busbahnhof war bisher sehr schlecht.
+2-1	33-36	Die	_	
+2-2	37-38	(	_	
+2-3	38-43	nicht	_	
+2-4	44-54	vorhandene	_	
+2-5	54-55	)	_	
+2-6	56-74	Radverkehrsführung	_	
+2-7	75-77	im	_	
+2-8	78-86	gesamten	_	
+2-9	87-94	Bereich	_	
+2-10	95-111	Bahnhof-Vorplatz	_	
+2-11	112-113	-	_	
+2-12	114-124	Busbahnhof	_	
+2-13	125-128	war	_	
+2-14	129-135	bisher	_	
+2-15	136-140	sehr	_	
+2-16	141-149	schlecht	_	
+2-17	149-150	.	_	
+
+#Text=Die Neugestaltung und Neubebauung wäre eigentlich eine Chance, dies zu verbessern.
+3-1	151-154	Die	_	
+3-2	155-168	Neugestaltung	_	
+3-3	169-172	und	_	
+3-4	173-184	Neubebauung	_	
+3-5	185-189	wäre	_	
+3-6	190-200	eigentlich	_	
+3-7	201-205	eine	_	
+3-8	206-212	Chance	_	
+3-9	212-213	,	_	
+3-10	214-218	dies	_	
+3-11	219-221	zu	_	
+3-12	222-232	verbessern	_	
+3-13	232-233	.	_	
+
+#Text=Die gegenwärtigen Pläne erfüllen dies aber nicht.
+4-1	234-237	Die	_	
+4-2	238-251	gegenwärtigen	_	
+4-3	252-257	Pläne	_	
+4-4	258-266	erfüllen	_	
+4-5	267-271	dies	_	
+4-6	272-276	aber	_	
+4-7	277-282	nicht	_	
+4-8	282-283	.	_	

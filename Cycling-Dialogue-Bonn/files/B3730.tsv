@@ -1,0 +1,122 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Gefahrenstelle weil die SWB Busse immer wieder die Vorfahrt nehmeb
+1-1	0-14	Gefahrenstelle	_	
+1-2	15-19	weil	_	
+1-3	20-23	die	_	
+1-4	24-27	SWB	_	
+1-5	28-33	Busse	_	
+1-6	34-39	immer	_	
+1-7	40-46	wieder	_	
+1-8	47-50	die	_	
+1-9	51-59	Vorfahrt	_	
+1-10	60-66	nehmeb	_	
+
+#Text=Fährt man auf der Reuterstraße bzw. -brücke Richtung Kanzlerplatz, kommt es häufig vor, dass die von der Kaiserstraße auffahrenden SWB Buslinien einfach die Vorfahrt nehmen.
+2-1	69-74	Fährt	_	
+2-2	75-78	man	_	
+2-3	79-82	auf	*[7]	
+2-4	83-86	der	*[7]	
+2-5	87-99	Reuterstraße	*[7]	
+2-6	100-103	bzw	*[7]	
+2-7	103-104	.	*[7]	
+2-8	105-106	-	*[7]	
+2-9	106-112	brücke	*[7]	
+2-10	113-121	Richtung	*[7]	
+2-11	122-134	Kanzlerplatz	*[7]	
+2-12	134-135	,	_	
+2-13	136-141	kommt	_	
+2-14	142-144	es	_	
+2-15	145-151	häufig	_	
+2-16	152-155	vor	_	
+2-17	155-156	,	_	
+2-18	157-161	dass	_	
+2-19	162-165	die	_	
+2-20	166-169	von	*[8]	
+2-21	170-173	der	*[8]	
+2-22	174-186	Kaiserstraße	*[8]	
+2-23	187-199	auffahrenden	_	
+2-24	200-203	SWB	_	
+2-25	204-213	Buslinien	_	
+2-26	214-221	einfach	_	
+2-27	222-225	die	_	
+2-28	226-234	Vorfahrt	_	
+2-29	235-241	nehmen	_	
+2-30	241-242	.	_	
+
+#Text=Dort ist man relativ schnell unterwegs, weil man die Brücke hinabfährt und kann eigentlich nur noch in den Berufsverkehr ausweichen.
+3-1	243-247	Dort	_	
+3-2	248-251	ist	_	
+3-3	252-255	man	_	
+3-4	256-263	relativ	_	
+3-5	264-271	schnell	_	
+3-6	272-281	unterwegs	_	
+3-7	281-282	,	_	
+3-8	283-287	weil	_	
+3-9	288-291	man	_	
+3-10	292-295	die	_	
+3-11	296-302	Brücke	_	
+3-12	303-313	hinabfährt	_	
+3-13	314-317	und	_	
+3-14	318-322	kann	_	
+3-15	323-333	eigentlich	_	
+3-16	334-337	nur	_	
+3-17	338-342	noch	_	
+3-18	343-345	in	_	
+3-19	346-349	den	_	
+3-20	350-363	Berufsverkehr	_	
+3-21	364-374	ausweichen	_	
+3-22	374-375	.	_	
+
+#Text=Bitte dort häufiger von der Polizei kontrollieren lassen, dass gerade an so einer Stelle nicht einfach auf den Fahrradweg gefahren wird.
+4-1	376-381	Bitte	_	
+4-2	382-386	dort	_	
+4-3	387-395	häufiger	_	
+4-4	396-399	von	_	
+4-5	400-403	der	_	
+4-6	404-411	Polizei	_	
+4-7	412-425	kontrollieren	_	
+4-8	426-432	lassen	_	
+4-9	432-433	,	_	
+4-10	434-438	dass	_	
+4-11	439-445	gerade	_	
+4-12	446-448	an	_	
+4-13	449-451	so	_	
+4-14	452-457	einer	_	
+4-15	458-464	Stelle	_	
+4-16	465-470	nicht	_	
+4-17	471-478	einfach	_	
+4-18	479-482	auf	_	
+4-19	483-486	den	_	
+4-20	487-497	Fahrradweg	_	
+4-21	498-506	gefahren	_	
+4-22	507-511	wird	_	
+4-23	511-512	.	_	
+
+#Text=Ist halt kein Blechschaden.
+5-1	513-516	Ist	_	
+5-2	517-521	halt	_	
+5-3	522-526	kein	_	
+5-4	527-539	Blechschaden	_	
+5-5	539-540	.	_	
+
+#Text=Konkret müsste außerdem der Radweg ROT nachgemalt werden und ein Warnschild davor gestellt werden.
+6-1	541-548	Konkret	_	
+6-2	549-555	müsste	_	
+6-3	556-564	außerdem	_	
+6-4	565-568	der	_	
+6-5	569-575	Radweg	_	
+6-6	576-579	ROT	_	
+6-7	580-590	nachgemalt	_	
+6-8	591-597	werden	_	
+6-9	598-601	und	_	
+6-10	602-605	ein	_	
+6-11	606-616	Warnschild	_	
+6-12	617-622	davor	_	
+6-13	623-631	gestellt	_	
+6-14	632-638	werden	_	
+6-15	638-639	.	_	

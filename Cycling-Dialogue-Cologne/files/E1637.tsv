@@ -1,0 +1,66 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Überweg Gürtel
+1-1	0-7	Überweg	_	
+1-2	8-14	Gürtel	*	
+
+#Text=Der Fahrradüberweg über den Gürtel am stadteinwärts gerichteten Bahnhofsende birgt ein großes Gefahrenpotential.
+2-1	17-20	Der	_	
+2-2	21-35	Fahrradüberweg	_	
+2-3	36-40	über	*[5]	
+2-4	41-44	den	*[5]	
+2-5	45-51	Gürtel	*[5]	
+2-6	52-54	am	*[5]	
+2-7	55-68	stadteinwärts	*[5]	
+2-8	69-80	gerichteten	_	
+2-9	81-93	Bahnhofsende	_	
+2-10	94-99	birgt	_	
+2-11	100-103	ein	_	
+2-12	104-110	großes	_	
+2-13	111-128	Gefahrenpotential	_	
+2-14	128-129	.	_	
+
+#Text=Oft reagiert die Drückampel nicht und Leute radeln bei rot.
+3-1	130-133	Oft	_	
+3-2	134-142	reagiert	_	
+3-3	143-146	die	_	
+3-4	147-157	Drückampel	_	
+3-5	158-163	nicht	_	
+3-6	164-167	und	_	
+3-7	168-173	Leute	_	
+3-8	174-180	radeln	_	
+3-9	181-184	bei	_	
+3-10	185-188	rot	_	
+3-11	188-189	.	_	
+
+#Text=Manchmal kann man nur bis zur Mitte fahren, dann kommt eine Bahn und man hat eigentlich mit dem Rad nicht genügend Platz zum Warten.
+4-1	190-198	Manchmal	_	
+4-2	199-203	kann	_	
+4-3	204-207	man	_	
+4-4	208-211	nur	_	
+4-5	212-215	bis	_	
+4-6	216-219	zur	_	
+4-7	220-225	Mitte	_	
+4-8	226-232	fahren	_	
+4-9	232-233	,	_	
+4-10	234-238	dann	_	
+4-11	239-244	kommt	_	
+4-12	245-249	eine	_	
+4-13	250-254	Bahn	_	
+4-14	255-258	und	_	
+4-15	259-262	man	_	
+4-16	263-266	hat	_	
+4-17	267-277	eigentlich	_	
+4-18	278-281	mit	_	
+4-19	282-285	dem	_	
+4-20	286-289	Rad	_	
+4-21	290-295	nicht	_	
+4-22	296-304	genügend	_	
+4-23	305-310	Platz	_	
+4-24	311-314	zum	_	
+4-25	315-321	Warten	_	
+4-26	321-322	.	_	

@@ -1,0 +1,100 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Brombeeren
+1-1	0-10	Brombeeren	_	
+
+#Text=Als Radfahrer sollte man immer dabei haben: Besen und Heckenschere.... weil es jedes Jahr eine Aufforderung an die Stadt Bonn braucht um Radwege regelmäßig zu pflegen.
+2-1	13-16	Als	_	
+2-2	17-26	Radfahrer	_	
+2-3	27-33	sollte	_	
+2-4	34-37	man	_	
+2-5	38-43	immer	_	
+2-6	44-49	dabei	_	
+2-7	50-55	haben	_	
+2-8	55-56	:	_	
+2-9	57-62	Besen	_	
+2-10	63-66	und	_	
+2-11	67-79	Heckenschere	_	
+2-12	79-80	.	_	
+2-13	80-81	.	_	
+2-14	81-82	.	_	
+2-15	82-83	.	_	
+2-16	84-88	weil	_	
+2-17	89-91	es	_	
+2-18	92-97	jedes	_	
+2-19	98-102	Jahr	_	
+2-20	103-107	eine	_	
+2-21	108-120	Aufforderung	_	
+2-22	121-123	an	_	
+2-23	124-127	die	*[4]	
+2-24	128-133	Stadt	*[4]	
+2-25	134-138	Bonn	*[4]	
+2-26	139-146	braucht	_	
+2-27	147-149	um	_	
+2-28	150-157	Radwege	_	
+2-29	158-168	regelmäßig	_	
+2-30	169-171	zu	_	
+2-31	172-179	pflegen	_	
+2-32	179-180	.	_	
+
+#Text=Dieser Weg nur als Beispiel.... auch weil im weiteren Verlauf die Wurzeln ein zügiges Vorankommen erschweren.
+3-1	181-187	Dieser	_	
+3-2	188-191	Weg	_	
+3-3	192-195	nur	_	
+3-4	196-199	als	_	
+3-5	200-208	Beispiel	_	
+3-6	208-209	.	_	
+3-7	209-210	.	_	
+3-8	210-211	.	_	
+3-9	211-212	.	_	
+3-10	213-217	auch	_	
+3-11	218-222	weil	_	
+3-12	223-225	im	_	
+3-13	226-234	weiteren	_	
+3-14	235-242	Verlauf	_	
+3-15	243-246	die	_	
+3-16	247-254	Wurzeln	_	
+3-17	255-258	ein	_	
+3-18	259-266	zügiges	_	
+3-19	267-278	Vorankommen	_	
+3-20	279-289	erschweren	_	
+3-21	289-290	.	_	
+
+#Text=Maßnahme: welches Amt auch immer zuständig ist.... regelmäßig mit Besen und Heckenschere vorbeischauen, und Belagschäden durch Baumwurzeln nicht erst dann ausbessern wenn ein Radfahrer gestürzt ist.
+4-1	291-299	Maßnahme	_	
+4-2	299-300	:	_	
+4-3	301-308	welches	_	
+4-4	309-312	Amt	_	
+4-5	313-317	auch	_	
+4-6	318-323	immer	_	
+4-7	324-333	zuständig	_	
+4-8	334-337	ist	_	
+4-9	337-338	.	_	
+4-10	338-339	.	_	
+4-11	339-340	.	_	
+4-12	340-341	.	_	
+4-13	342-352	regelmäßig	_	
+4-14	353-356	mit	_	
+4-15	357-362	Besen	_	
+4-16	363-366	und	_	
+4-17	367-379	Heckenschere	_	
+4-18	380-393	vorbeischauen	_	
+4-19	393-394	,	_	
+4-20	395-398	und	_	
+4-21	399-411	Belagschäden	_	
+4-22	412-417	durch	_	
+4-23	418-429	Baumwurzeln	_	
+4-24	430-435	nicht	_	
+4-25	436-440	erst	_	
+4-26	441-445	dann	_	
+4-27	446-456	ausbessern	_	
+4-28	457-461	wenn	_	
+4-29	462-465	ein	_	
+4-30	466-475	Radfahrer	_	
+4-31	476-484	gestürzt	_	
+4-32	485-488	ist	_	
+4-33	488-489	.	_	

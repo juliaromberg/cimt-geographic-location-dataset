@@ -1,0 +1,125 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Verkehrssicherungspflicht beachten!
+1-1	0-25	Verkehrssicherungspflicht	_	
+1-2	26-34	beachten	_	
+1-3	34-35	!	_	
+
+#Text=Kaum zu glauben: Seit Jahren sind Teile des zentralen Fuß- und Radweges im Rheinauepark unbeleuchtet, obwohl dort genügend Laternen stehen!
+2-1	38-42	Kaum	_	
+2-2	43-45	zu	_	
+2-3	46-53	glauben	_	
+2-4	53-54	:	_	
+2-5	55-59	Seit	_	
+2-6	60-66	Jahren	_	
+2-7	67-71	sind	_	
+2-8	72-77	Teile	_	
+2-9	78-81	des	_	
+2-10	82-91	zentralen	_	
+2-11	92-95	Fuß	_	
+2-12	95-96	-	_	
+2-13	97-100	und	_	
+2-14	101-109	Radweges	_	
+2-15	110-112	im	*[9]	
+2-16	113-125	Rheinauepark	*[9]	
+2-17	126-138	unbeleuchtet	_	
+2-18	138-139	,	_	
+2-19	140-146	obwohl	_	
+2-20	147-151	dort	_	
+2-21	152-160	genügend	_	
+2-22	161-169	Laternen	_	
+2-23	170-176	stehen	_	
+2-24	176-177	!	_	
+
+#Text=Aber zwischen dem Japanischem Garten und dem Standort des Totempfahls (momentan nicht aufgestellt) brennen gerade zwei Laternen, die Mehrzahl ist defekt.
+3-1	178-182	Aber	_	
+3-2	183-191	zwischen	*[10]	
+3-3	192-195	dem	*[10]	
+3-4	196-207	Japanischem	*[10]	
+3-5	208-214	Garten	*[10]	
+3-6	215-218	und	*[10]	
+3-7	219-222	dem	*[10]	
+3-8	223-231	Standort	*[10]	
+3-9	232-235	des	*[10]	
+3-10	236-247	Totempfahls	*[10]	
+3-11	248-249	(	_	
+3-12	249-257	momentan	_	
+3-13	258-263	nicht	_	
+3-14	264-275	aufgestellt	_	
+3-15	275-276	)	_	
+3-16	277-284	brennen	_	
+3-17	285-291	gerade	_	
+3-18	292-296	zwei	_	
+3-19	297-305	Laternen	_	
+3-20	305-306	,	_	
+3-21	307-310	die	_	
+3-22	311-319	Mehrzahl	_	
+3-23	320-323	ist	_	
+3-24	324-330	defekt	_	
+3-25	330-331	.	_	
+
+#Text=Und zwar seit Jahren!
+4-1	332-335	Und	_	
+4-2	336-340	zwar	_	
+4-3	341-345	seit	_	
+4-4	346-352	Jahren	_	
+4-5	352-353	!	_	
+
+#Text=Trotz gegenüber der Stadt angezeigtem Mangel und Bericht in der ADFC-Mitgliederzeitschrift.
+5-1	354-359	Trotz	_	
+5-2	360-369	gegenüber	_	
+5-3	370-373	der	_	
+5-4	374-379	Stadt	_	
+5-5	380-391	angezeigtem	_	
+5-6	392-398	Mangel	_	
+5-7	399-402	und	_	
+5-8	403-410	Bericht	_	
+5-9	411-413	in	_	
+5-10	414-417	der	_	
+5-11	418-444	ADFC-Mitgliederzeitschrift	_	
+5-12	444-445	.	_	
+
+#Text=Gerade die Engstelle am Japanischen Garten ist durchaus gefährlich.
+6-1	446-452	Gerade	_	
+6-2	453-456	die	*[11]	
+6-3	457-466	Engstelle	*[11]	
+6-4	467-469	am	*[11]	
+6-5	470-481	Japanischen	*[11]	
+6-6	482-488	Garten	*[11]	
+6-7	489-492	ist	_	
+6-8	493-501	durchaus	_	
+6-9	502-512	gefährlich	_	
+6-10	512-513	.	_	
+
+#Text=Die Stadt vernachlässigt in sträflicher Weise ihre Verkehrssicherungspflicht.
+7-1	514-517	Die	_	
+7-2	518-523	Stadt	_	
+7-3	524-538	vernachlässigt	_	
+7-4	539-541	in	_	
+7-5	542-553	sträflicher	_	
+7-6	554-559	Weise	_	
+7-7	560-564	ihre	_	
+7-8	565-590	Verkehrssicherungspflicht	_	
+7-9	590-591	.	_	
+
+#Text=Verbesserungsvorschlag: Wenigstens die Beleuchtung des zentralen Weges durch den Rheinauepark sollte in Ordnung sein.
+8-1	592-614	Verbesserungsvorschlag	_	
+8-2	614-615	:	_	
+8-3	616-626	Wenigstens	_	
+8-4	627-630	die	_	
+8-5	631-642	Beleuchtung	_	
+8-6	643-646	des	_	
+8-7	647-656	zentralen	_	
+8-8	657-662	Weges	_	
+8-9	663-668	durch	*[12]	
+8-10	669-672	den	*[12]	
+8-11	673-685	Rheinauepark	*[12]	
+8-12	686-692	sollte	_	
+8-13	693-695	in	_	
+8-14	696-703	Ordnung	_	
+8-15	704-708	sein	_	
+8-16	708-709	.	_	

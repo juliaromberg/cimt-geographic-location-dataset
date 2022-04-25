@@ -1,0 +1,34 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Drängelgitter
+1-1	0-13	Drängelgitter	_	
+
+#Text=Hier stehen vollkommen überflüssige Drängelgitter.
+2-1	16-20	Hier	_	
+2-2	21-27	stehen	_	
+2-3	28-38	vollkommen	_	
+2-4	39-51	überflüssige	_	
+2-5	52-65	Drängelgitter	_	
+2-6	65-66	.	_	
+
+#Text=Es gibt keine querende Straße oder sonstige denkbare Gründe.
+3-1	67-69	Es	_	
+3-2	70-74	gibt	_	
+3-3	75-80	keine	_	
+3-4	81-89	querende	_	
+3-5	90-96	Straße	_	
+3-6	97-101	oder	_	
+3-7	102-110	sonstige	_	
+3-8	111-119	denkbare	_	
+3-9	120-126	Gründe	_	
+3-10	126-127	.	_	
+
+#Text=Können einfach weg.
+4-1	128-134	Können	_	
+4-2	135-142	einfach	_	
+4-3	143-146	weg	_	
+4-4	146-147	.	_	

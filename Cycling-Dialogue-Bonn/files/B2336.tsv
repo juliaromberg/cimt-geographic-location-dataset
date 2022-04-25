@@ -1,0 +1,23 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Schlechter Belag
+1-1	0-10	Schlechter	_	
+1-2	11-16	Belag	_	
+
+#Text=Unter der Autobahn gen Hang ist der Belag in schlechtem Zustand.
+2-1	19-24	Unter	_	
+2-2	25-28	der	_	
+2-3	29-37	Autobahn	_	
+2-4	38-41	gen	_	
+2-5	42-46	Hang	_	
+2-6	47-50	ist	_	
+2-7	51-54	der	_	
+2-8	55-60	Belag	_	
+2-9	61-63	in	_	
+2-10	64-74	schlechtem	_	
+2-11	75-82	Zustand	_	
+2-12	82-83	.	_	

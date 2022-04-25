@@ -1,0 +1,104 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radweg endet im Nichts
+1-1	0-6	Radweg	_	
+1-2	7-12	endet	_	
+1-3	13-15	im	_	
+1-4	16-22	Nichts	_	
+
+#Text=Der Radweg endet plötzlich.
+2-1	25-28	Der	_	
+2-2	29-35	Radweg	_	
+2-3	36-41	endet	_	
+2-4	42-51	plötzlich	_	
+2-5	51-52	.	_	
+
+#Text=Möchte ich weiter Richtung Bahnhof oder Kaiserplatz fahren, so bin ich theoretisch gezwungen, abzusteigen und mein Fahrrad über den Zebrastreifen zu schieben, um mich dann wieder in den Verkehr einzufädeln.
+3-1	53-59	Möchte	_	
+3-2	60-63	ich	_	
+3-3	64-70	weiter	_	
+3-4	71-79	Richtung	*[5]	
+3-5	80-87	Bahnhof	*[5]	
+3-6	88-92	oder	*[5]	
+3-7	93-104	Kaiserplatz	*[5]	
+3-8	105-111	fahren	_	
+3-9	111-112	,	_	
+3-10	113-115	so	_	
+3-11	116-119	bin	_	
+3-12	120-123	ich	_	
+3-13	124-135	theoretisch	_	
+3-14	136-145	gezwungen	_	
+3-15	145-146	,	_	
+3-16	147-158	abzusteigen	_	
+3-17	159-162	und	_	
+3-18	163-167	mein	_	
+3-19	168-175	Fahrrad	_	
+3-20	176-180	über	_	
+3-21	181-184	den	_	
+3-22	185-198	Zebrastreifen	_	
+3-23	199-201	zu	_	
+3-24	202-210	schieben	_	
+3-25	210-211	,	_	
+3-26	212-214	um	_	
+3-27	215-219	mich	_	
+3-28	220-224	dann	_	
+3-29	225-231	wieder	_	
+3-30	232-234	in	_	
+3-31	235-238	den	_	
+3-32	239-246	Verkehr	_	
+3-33	247-258	einzufädeln	_	
+3-34	258-259	.	_	
+
+#Text=Inbesondere der Zebrastreifen führt auch bei Autofahrern zu Verwirrung, wer nun Vorfahrt hat - und leider halten sich auch nicht alle Radfahrer daran, dass sie absteigen müssen (was auch äußerst lästig ist), so dass hier schnell gefährliche oder zumindest unklare Situationen entstehen.
+4-1	260-271	Inbesondere	_	
+4-2	272-275	der	_	
+4-3	276-289	Zebrastreifen	_	
+4-4	290-295	führt	_	
+4-5	296-300	auch	_	
+4-6	301-304	bei	_	
+4-7	305-316	Autofahrern	_	
+4-8	317-319	zu	_	
+4-9	320-330	Verwirrung	_	
+4-10	330-331	,	_	
+4-11	332-335	wer	_	
+4-12	336-339	nun	_	
+4-13	340-348	Vorfahrt	_	
+4-14	349-352	hat	_	
+4-15	353-354	-	_	
+4-16	355-358	und	_	
+4-17	359-365	leider	_	
+4-18	366-372	halten	_	
+4-19	373-377	sich	_	
+4-20	378-382	auch	_	
+4-21	383-388	nicht	_	
+4-22	389-393	alle	_	
+4-23	394-403	Radfahrer	_	
+4-24	404-409	daran	_	
+4-25	409-410	,	_	
+4-26	411-415	dass	_	
+4-27	416-419	sie	_	
+4-28	420-429	absteigen	_	
+4-29	430-436	müssen	_	
+4-30	437-438	(	_	
+4-31	438-441	was	_	
+4-32	442-446	auch	_	
+4-33	447-454	äußerst	_	
+4-34	455-461	lästig	_	
+4-35	462-465	ist	_	
+4-36	465-466	)	_	
+4-37	466-467	,	_	
+4-38	468-470	so	_	
+4-39	471-475	dass	_	
+4-40	476-480	hier	_	
+4-41	481-488	schnell	_	
+4-42	489-500	gefährliche	_	
+4-43	501-505	oder	_	
+4-44	506-515	zumindest	_	
+4-45	516-523	unklare	_	
+4-46	524-535	Situationen	_	
+4-47	536-545	entstehen	_	
+4-48	545-546	.	_	

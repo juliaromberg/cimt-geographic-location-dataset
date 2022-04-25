@@ -1,0 +1,62 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Fahrradleichen blockieren viele Fahrradständer
+1-1	0-14	Fahrradleichen	_	
+1-2	15-25	blockieren	_	
+1-3	26-31	viele	_	
+1-4	32-46	Fahrradständer	_	
+
+#Text=So viele Fahrradständer sind durch Schrottfahrräder belegt, und es findet keine Erfassung und gezielte Entfernung dieser Fahrradleichen statt.
+2-1	49-51	So	_	
+2-2	52-57	viele	_	
+2-3	58-72	Fahrradständer	_	
+2-4	73-77	sind	_	
+2-5	78-83	durch	_	
+2-6	84-100	Schrottfahrräder	_	
+2-7	101-107	belegt	_	
+2-8	107-108	,	_	
+2-9	109-112	und	_	
+2-10	113-115	es	_	
+2-11	116-122	findet	_	
+2-12	123-128	keine	_	
+2-13	129-138	Erfassung	_	
+2-14	139-142	und	_	
+2-15	143-151	gezielte	_	
+2-16	152-162	Entfernung	_	
+2-17	163-169	dieser	_	
+2-18	170-184	Fahrradleichen	_	
+2-19	185-190	statt	_	
+2-20	190-191	.	_	
+
+#Text=Meldet man sie mit dem (sehr praktischen) Sag's uns-Formular https://sags-uns.stadt-koeln.de/, dauert es dennoch Monate, bis etwas geschieht.
+3-1	192-198	Meldet	_	
+3-2	199-202	man	_	
+3-3	203-206	sie	_	
+3-4	207-210	mit	_	
+3-5	211-214	dem	_	
+3-6	215-216	(	_	
+3-7	216-220	sehr	_	
+3-8	221-232	praktischen	_	
+3-9	232-233	)	_	
+3-10	234-239	Sag's	_	
+3-11	240-252	uns-Formular	_	
+3-12	253-258	https	_	
+3-13	258-259	:	_	
+3-14	259-260	/	_	
+3-15	260-261	/	_	
+3-16	261-284	sags-uns.stadt-koeln.de	_	
+3-17	284-285	/	_	
+3-18	285-286	,	_	
+3-19	287-293	dauert	_	
+3-20	294-296	es	_	
+3-21	297-304	dennoch	_	
+3-22	305-311	Monate	_	
+3-23	311-312	,	_	
+3-24	313-316	bis	_	
+3-25	317-322	etwas	_	
+3-26	323-332	geschieht	_	
+3-27	332-333	.	_	

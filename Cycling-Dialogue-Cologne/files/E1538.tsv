@@ -1,0 +1,90 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Location|
+
+
+
+
+#Text=Radstreifen und Radaufstellfläche Vogelsanger Straße
+1-1	0-11	Radstreifen	_	
+1-2	12-15	und	_	
+1-3	16-33	Radaufstellfläche	_	
+1-4	34-45	Vogelsanger	*[5]	
+1-5	46-52	Straße	*[5]	
+
+#Text=Ampelkreuzung Vogelsanger Straße /Gürtel: Mit dem Fahrrad kann man kaum die Ampelkreuzung erreichen, da die wartenden Autos bei Rot alles blockieren.
+2-1	55-68	Ampelkreuzung	*[6]	
+2-2	69-80	Vogelsanger	*[6]	
+2-3	81-87	Straße	*[6]	
+2-4	88-89	/	*[6]	
+2-5	89-95	Gürtel	*[6]	
+2-6	95-96	:	_	
+2-7	97-100	Mit	_	
+2-8	101-104	dem	_	
+2-9	105-112	Fahrrad	_	
+2-10	113-117	kann	_	
+2-11	118-121	man	_	
+2-12	122-126	kaum	_	
+2-13	127-130	die	_	
+2-14	131-144	Ampelkreuzung	_	
+2-15	145-154	erreichen	_	
+2-16	154-155	,	_	
+2-17	156-158	da	_	
+2-18	159-162	die	_	
+2-19	163-172	wartenden	_	
+2-20	173-178	Autos	_	
+2-21	179-182	bei	_	
+2-22	183-186	Rot	_	
+2-23	187-192	alles	_	
+2-24	193-203	blockieren	_	
+2-25	203-204	.	_	
+
+#Text=Ein Fahrradstreifen auf der Straße, ca. 200 m vor der Kreuzung markiert, könnte helfen, dass Radler an die Kreuzung gelangen und an den Autos sicherer vorbeifahren können.
+3-1	205-208	Ein	_	
+3-2	209-224	Fahrradstreifen	_	
+3-3	225-228	auf	_	
+3-4	229-232	der	_	
+3-5	233-239	Straße	_	
+3-6	239-240	,	_	
+3-7	241-243	ca	_	
+3-8	243-244	.	_	
+3-9	245-248	200	_	
+3-10	249-250	m	_	
+3-11	251-254	vor	_	
+3-12	255-258	der	_	
+3-13	259-267	Kreuzung	_	
+3-14	268-276	markiert	_	
+3-15	276-277	,	_	
+3-16	278-284	könnte	_	
+3-17	285-291	helfen	_	
+3-18	291-292	,	_	
+3-19	293-297	dass	_	
+3-20	298-304	Radler	_	
+3-21	305-307	an	_	
+3-22	308-311	die	_	
+3-23	312-320	Kreuzung	_	
+3-24	321-329	gelangen	_	
+3-25	330-333	und	_	
+3-26	334-336	an	_	
+3-27	337-340	den	_	
+3-28	341-346	Autos	_	
+3-29	347-355	sicherer	_	
+3-30	356-368	vorbeifahren	_	
+3-31	369-375	können	_	
+3-32	375-376	.	_	
+
+#Text=Hilfreich wäre zudem jeweils direkt an der Kreuzung eine markierte Fahrradaufstellfläche vor den Autos.
+4-1	377-386	Hilfreich	_	
+4-2	387-391	wäre	_	
+4-3	392-397	zudem	_	
+4-4	398-405	jeweils	_	
+4-5	406-412	direkt	_	
+4-6	413-415	an	_	
+4-7	416-419	der	_	
+4-8	420-428	Kreuzung	_	
+4-9	429-433	eine	_	
+4-10	434-443	markierte	_	
+4-11	444-465	Fahrradaufstellfläche	_	
+4-12	466-469	vor	_	
+4-13	470-473	den	_	
+4-14	474-479	Autos	_	
+4-15	479-480	.	_	
